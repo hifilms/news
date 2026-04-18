@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Eshan, Nitish and Sakib shine as SRH halt CSK's revival in Hyderabad",
+    "desc": "Fast bowlers produced some breathtaking spells as Sunrisers Hyderabad halted Chennai Super Kings' revival in the Indian Premier League 2026 on Saturday, April 18. Eshan Malinga, Nitish Kumar Reddy and Sakib Hussain turned out to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eshan-nitish-and-sakib-shine-as-srh-halt-csks-revival-in-hyderabad-2026-04-18-1038034",
+    "time": "2026-04-18T18:17:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma breaks Virender Sehwag's historic IPL record, falls little short of all-time feat",
+    "desc": "Sunrisers Hyderabad star batter Abhishek Sharma has shattered a huge IPL record during his team's clash against Chennai Super Kings at the Rajiv Gandhi International Stadium, Hyderabad on Saturday, April 18. Abhishek was back to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-virender-sehwags-historic-ipl-record-falls-little-short-of-all-time-feat-2026-04-18-1038026",
+    "time": "2026-04-18T16:19:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch WWE PLE live on TV and stream online in India?",
+    "desc": "WWE’s biggest spectacle returns this weekend as WrestleMania takes over Allegiant Stadium across two nights, April 19 and 20. The event promises a stacked lineup, with major titles, celebrity appearances and long-running rivalries set to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/wrestlemania-2026-when-and-where-to-watch-wwe-ple-live-on-tv-and-stream-online-in-india-2026-04-18-1038025",
+    "time": "2026-04-18T16:02:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tim David falls 16 balls short of all-time IPL record, achieves special milestone in RCB vs DC clash",
+    "desc": "Royal Challengers Bengaluru swashbuckling middle-order batter Tim David achieved a special milestone during his team's IPL 2026 clash against the Delhi Capitals on Saturday, April 18, but missed out on an all-time record. The hard-hitting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tim-david-falls-16-balls-short-of-all-time-ipl-record-achieves-special-milestone-in-rcb-vs-dc-clash-2026-04-18-1038024",
+    "time": "2026-04-18T15:31:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Neeraj Chopra reveals problems that led to split with coach Jan Zelezny",
     "desc": "Neeraj Chopra has opened up on the factors behind his disappointing outing at the 2025 World Championships in Tokyo, where he finished eighth and brought an end to a long-standing streak of top-two finishes in...",
     "img": "",
@@ -46,47 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Sunrisers openers look for strong start in Hyderabad",
+    "title": "Sunrisers Hyderabad defeat Chennai Super Kings by 10 runs",
     "desc": "Having unveiled two exciting pace prospects in Praful Hinge and Sakib Husain, a well-rounded Sunrisers Hyderabad head into their IPL clash against Chennai Super Kings on Saturday with renewed belief. Brought in for experienced campaigners...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-csk-ipl-2026-live-cricket-score-chennai-super-kings-vs-sunrisers-hyderabad-m-chinnaswamy-stadium-bengaluru-latest-match-updates-scorecard-2026-04-18-1038009",
     "time": "2026-04-18T12:38:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kumar Sangakkara gives full freedom to Vaibhav Sooryavanshi, says 'the less said, the better'",
-    "desc": "Vaibhav Sooryavanshi has been a force to reckon with in the ongoing IPL 2026. Despite being only 15, the youngster has caused havoc in the season, amassing 200 runs in five matches at a strike...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kumar-sangakkara-gives-full-freedom-to-vaibhav-sooryavanshi-says-the-less-said-the-better-2026-04-18-1038006",
-    "time": "2026-04-18T12:27:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli returns to field against DC after playing as impact sub for LSG game",
-    "desc": "Royal Challengers Bengaluru icon Virat Kohli returned to the field during his team's clash against the Delhi Capitals at the M.Chinnaswamy Stadium on Saturday, April 18. After playing as an impact sub in RCB's previous...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-returns-to-field-against-dc-after-playing-as-impact-sub-for-lsg-game-2026-04-18-1038005",
-    "time": "2026-04-18T12:26:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rhodes up against Orton, Morgan faces Vaquer; check full match card and timings",
-    "desc": "The stage is set for the biggest wrestling spectacle as Las Vegas gears up to host WrestleMania 42. The two-day grand event, which will pit some of the biggest superstars in the company against each...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/wwe-wrestlemania-42-night-1-rhodes-up-against-orton-morgan-faces-vaquer-check-full-match-card-and-timings-2026-04-18-1038000",
-    "time": "2026-04-18T11:45:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana breaks Rohit Sharma's legendary record for India in first T20I vs South Africa",
-    "desc": "Star India batter Smriti Mandhana etched her name into the record books by becoming the leading run-scorer for India in T20Is. He achieved the feat during the opening game of the five-match series against South...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-breaks-rohit-sharma-s-legendary-record-for-india-in-first-t20i-vs-south-africa-2026-04-18-1037996",
-    "time": "2026-04-18T10:59:06.000Z"
   }
 ];

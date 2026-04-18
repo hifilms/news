@@ -1,12 +1,174 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "SRH surge into top four, CSK remain seventh",
+    "desc": "Punjab Kings lead IPL 2026 with 9 points, while RCB and Rajasthan Royals trail closely. Sunrisers Hyderabad climbed to fourth after beating Chennai Super Kings by 10 runs. Abhishek Sharma and Heinrich Klaasen powered SRH to 194/9, while Eshan Malinga starred with the ball. CSK’s chase faltered despite a strong start, leaving them seventh in the standings.",
+    "img": "https://static.toiimg.com/photo/msid-130360210,imgsize-62272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-points-table-after-match-27-srh-surge-into-top-four-csk-remain-seventh/articleshow/130360195.cms",
+    "time": "2026-04-18T18:12:58.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "Rural summer camp ‘Akkareya Angala’ launched for children in Mandya district of Karnataka",
-    "desc": "Mandya zilla panchayat Chief Executive Officer K. R. Nandini said the primary objective of the camp is to encourage reading, writing, creative arts, and special games. The initiative aims to ensure that children from rural areas utilise their summer holidays in an enjoyable and productive manner",
-    "img": "https://th-i.thgim.com/public/incoming/jhyfzi/article70878353.ece/alternates/LANDSCAPE_1200/2303_18_4_2026_13_39_12_1_RURALSUMMERCAMP.JPEG",
+    "title": "Opposition to move fresh motion seeking removal of CEC Gyanesh Kumar",
+    "desc": "The Opposition parties are drafting a fresh motion citing new allegations against Chief Election Commissioner Gyanesh Kumar; the earlier motion seeking his removal on March 12 was rejected by the chair of both the Lok Sabha and Rajya Sabha",
+    "img": "https://th-i.thgim.com/public/incoming/may3cq/article70878777.ece/alternates/LANDSCAPE_1200/20260315174L.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/rural-summer-camp-akkareya-angala-launched-for-children-in-mandya-district-of-karnataka/article70876808.ece",
-    "time": "2026-04-18T15:19:51.000Z"
+    "url": "https://www.thehindu.com/news/national/opposition-to-move-fresh-motion-seeking-removal-of-cec-gyanesh-kumar/article70878328.ece",
+    "time": "2026-04-18T17:44:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chahal’s dig at Kohli’s like on LizLaz’s photos goes viral",
+    "desc": "A single-word comment from Yuzvendra Chahal—“Algorithm”—has added a humorous twist to the buzz around Virat Kohli’s recent Instagram activity, turning it into a full-blown social media moment. The latest chatter began after Kohli briefly liked a January post by LizLaz, a German-South African influencer and avid Royal Challengers Bengaluru supporter. Opening up about the unexpected attention, LizLaz said her reaction was mixed.",
+    "img": "https://static.toiimg.com/photo/msid-130359322,imgsize-52244.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahals-algorithm-dig-at-virat-kohlis-instagram-like-on-influencer-lizlazs-photos-goes-viral/articleshow/130359322.cms",
+    "time": "2026-04-18T17:36:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran envoy says US backtracked on agreed 10-point plan, stalling peace talks",
+    "desc": "Iran's Supreme Leader representative in India, Abdul Majeed Hakeem Ilahi, stated that recent Iran-US peace talks failed after Washington allegedly deviated from an agreed-upon 10-point plan. Ilahi claimed the US initially accepted the proposal but shifted its demands during negotiations in Pakistan, leading to the breakdown.",
+    "img": "https://static.toiimg.com/photo/msid-130359220,imgsize-813625.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iran-envoy-says-us-backtracked-on-agreed-10-point-plan-stalling-peace-talks/articleshow/130359121.cms",
+    "time": "2026-04-18T17:26:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Livelihood security, affordable housing are major concerns in Royapuram constituency",
+    "desc": "Residents want the government to implement social welfare measures for the economically disadvantaged. Other demands include redevelopment of dilapidated TNUHDB houses, establishment of a maternity hospital, and flood mitigation measures, particularly in areas along the coastline",
+    "img": "https://th-i.thgim.com/public/incoming/mupc7x/article70781461.ece/alternates/LANDSCAPE_1200/MC%20ROAD%201.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-royapuram-a-coastal-area-where-livelihood-security-and-affordable-housing-are-major-issues/article70779888.ece",
+    "time": "2026-04-18T16:54:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modakkurichi struggles to bridge gap between agrarian strength and development",
+    "desc": "Modakkurichi entered the national spotlight during the 1996 Assembly election, when 1,016 farmers contested as independents to press for their demands. This highlighted deep agrarian distress and contributed to electoral reforms. Many of the issues raised then, particularly those related to farm incomes, irrigation and infrastructure, persist.",
+    "img": "https://th-i.thgim.com/public/incoming/uee6ne/article70788037.ece/alternates/LANDSCAPE_1200/9870_25_3_2026_11_43_6_2_ER26PHC2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/modakkurichi-struggles-to-bridge-gap-between-agrarian-strength-and-development/article70783518.ece",
+    "time": "2026-04-18T16:48:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Industry thrives, but pollution, water scarcity haunt Perundurai constituency",
+    "desc": "The constituency sustains over one lakh migrant labourers engaged in the SIPCOT Industrial Estate, the Special Economic Zone complex, textile mills, construction, powerloom units, and the hospitality sector. However, residents say the benefits of industrialisation have come at a cost, as they continue to face environmental degradation.",
+    "img": "https://th-i.thgim.com/public/incoming/kq3mfo/article70784172.ece/alternates/LANDSCAPE_1200/_DSC0483.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/industry-thrives-but-pollution-and-water-scarcity-haunt-perundurai-constituency/article70778314.ece",
+    "time": "2026-04-18T16:44:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Katpadi constituency residents seek solution to heavy traffic congestion, lack of jobs",
+    "desc": "Since 1996, the DMK’s strongman Duraimurugan, party’s general secretary and Minister for Water Resources now, has won six consecutive times, making it his own fort. In 2021, however, Mr. Duraimurugan won with a margin of a mere 746 votes.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/hdzjac/article70780171.ece/alternates/LANDSCAPE_1200/Katpadi-6.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/katpadi-residents-seek-solution-to-heavy-traffic-congestion-lack-of-jobs-for-local-youth/article70779536.ece",
+    "time": "2026-04-18T16:40:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tambaram constituency residents feel rapid growth continues to be marred by basic infrastructure issues",
+    "desc": "The Tambaram constituency lacks the civic amenities to tackle rapid urbanisation as arterial roads often face traffic congestion; untreated sewage is being discharged into lakes, and the interior roads remain in poor shape; MLA says drainage system has been implemented in the core areas",
+    "img": "https://th-i.thgim.com/public/incoming/lzz8nh/article70777194.ece/alternates/LANDSCAPE_1200/GH%20TAMBARAM%2011.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tambaram-constituency-residents-feel-rapid-growth-continues-to-be-marred-by-basic-infrastructure-issues/article70775576.ece",
+    "time": "2026-04-18T16:35:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Darjeeling hills to witness multi-pronged contest on diverse issues in 2026 Assembly polls",
+    "desc": "While the BJP-GJM alliance and the Trinamool-BGPM alliance are clashing head-on, a new hill party by local entrepreneur Ajay Edwards is also making its presence; along with the pertinent issue of Gorkhaland political situation, the issues of development and corruption may sway the electorate this election season",
+    "img": "https://th-i.thgim.com/public/news/national/qzd9a8/article70878410.ece/alternates/LANDSCAPE_1200/IMG-20260418-WA0030.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/darjeeling-hills-to-witness-multi-pronged-contest-on-diverse-issues-in-2026-assembly-polls/article70878378.ece",
+    "time": "2026-04-18T16:34:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alec Baldwin’s net worth in 2026",
+    "desc": "Despite ongoing legal challenges, Alec Baldwin's impressive Hollywood career, spanning acclaimed film and television roles like '30 Rock,' has secured him a substantial net worth of $70 million by 2026. His philanthropic efforts, including a $14 million donation from a Capital One deal, further highlight his impact beyond acting. Baldwin's legacy is firmly established.",
+    "img": "https://static.toiimg.com/photo/msid-130349511,imgsize-91782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alec-baldwins-net-worth-in-2026-inside-his-usd-70-million-fortune-amid-rust-legal-troubles/articleshow/130349511.cms",
+    "time": "2026-04-18T16:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kurinjipadi constituency voters want non-polluting, agro-based industrial boost",
+    "desc": "Minister MRK Panneerselvam is in the fray aiming for a hat-trick in Kurinjipadi. The DMK-led Democratic Progressive Alliance needs to be aware that the Tamizhaga Vazhvurimai Katchi headed by T. Velmurugan and now delinked from the DMK-led alliance, is capable of eating into the votes of the DMK in areas like Kurinjipadi and Kullanchavadi where it has significant presence",
+    "img": "https://th-i.thgim.com/public/incoming/ftujrs/article70784338.ece/alternates/LANDSCAPE_1200/PY12Flooded_Cuddalore_6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kurinjipadi-voters-want-non-polluting-agro-based-industrial-boost/article70774721.ece",
+    "time": "2026-04-18T16:29:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tiruttani constituency residents seek more support to improve their livelihood",
+    "desc": "Farmers, who recently set up a producer organisation and started growing millets, complain that they still do not have machinery needed to process the crop. Residents say work to lay a second access road to Subramaniaswami Temple is yet to be completed, with land acquisition still under way",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ozh3hh/article70773206.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%209.11.58%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-residents-of-tiruttani-constituency-seek-more-support-to-improve-their-livelihood/article70773036.ece",
+    "time": "2026-04-18T16:24:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "a tight contest in coastal Nagapattinam constituency amid shifting equations",
+    "desc": "Lack of basic amenities, absence of any significant development and acute shortage of drinking water as well as poor irrigation facilities have become the hallmark of the coastal district of Nagapattinam despite its rich legacy and strategic location",
+    "img": "https://th-i.thgim.com/public/incoming/ualy0h/article70772615.ece/alternates/LANDSCAPE_1200/1001915467.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-tight-contest-amid-shifting-equations-in-coastal-areas/article70772634.ece",
+    "time": "2026-04-18T16:18:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Udhagamandalam constituency faces challenges in tourism and tea sectors",
+    "desc": "Despite a number of key projects being undertaken since then, including the inauguration of the medical college and hospital, the renovation of the Ooty Market and also a new road to Udhagamandalam via Kattery, a close-fought campaign is expected.",
+    "img": "https://th-i.thgim.com/public/incoming/q12qcb/article70784526.ece/alternates/LANDSCAPE_1200/10214_20_3_2026_18_7_41_2__SAT8731_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ooty-faces-challenges-in-tourism-and-tea-sectors/article70764845.ece",
+    "time": "2026-04-18T16:15:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Perambur constituency residents see progress amid concerns over transport connectivity, contaminated water",
+    "desc": "Though waste management, flooding, and access to basic amenities have long been primary concerns, some residents of Perambur constituency in North Chennai cite the biomining and remediation of Kodungaiyur dump yard and upcoming Ganesapuram flyover as notable steps to tackle them",
+    "img": "https://th-i.thgim.com/public/incoming/g3z9pp/article70771989.ece/alternates/LANDSCAPE_1200/9127_21_3_2026_16_40_48_1_DJI_20260321102025_0020_D.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/perambur-residents-sight-progress-amid-concerns-over-transport-connectivity-contaminated-water/article70769696.ece",
+    "time": "2026-04-18T16:10:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tabu buys Rs 10 crore apartment in Mumbai's Versova",
+    "desc": "Tabu has added a new property to her real estate portfolio, purchasing an apartment in Mumbai’s Versova for Rs 10 crore. The apartment spans around 2,153 sq ft and comes with a balcony measuring approximately 127 sq ft. The registration was completed on March 26, 2026, with a stamp duty of Rs 5.24 lakh and a registration fee of Rs 30,000 paid as part of the deal.",
+    "img": "https://static.toiimg.com/photo/msid-130357616,imgsize-24642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tabu-buys-rs-10-crore-apartment-in-mumbais-versova-deal-includes-two-parking-spaces-report/articleshow/130357616.cms",
+    "time": "2026-04-18T16:06:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma scripts history for SRH, becomes fastest ever to...",
+    "desc": "Abhishek Sharma smashed the fastest fifty in Sunrisers Hyderabad history, reaching the mark in just 15 balls against Chennai Super Kings in IPL 2026. He scored 59 off 22 balls, setting the tone early. In fine form this season, Abhishek continues to provide explosive starts and has already crossed 100 sixes for the franchise.",
+    "img": "https://static.toiimg.com/photo/msid-130357306,imgsize-38604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-abhishek-sharma-scripts-history-for-srh-becomes-fastest-ever-to-/articleshow/130356782.cms",
+    "time": "2026-04-18T15:49:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Dreams of 'nari shakti' crushed despite our best effort;' PM Modi apologises to nation's women- Top quotes",
+    "desc": "Prime Minister Modi expressed deep regret over the women's reservation bill's defeat, apologizing to the nation's women. He accused opposition parties like Congress, DMK, TMC, and SP of prioritizing self-interest over national progress and women's empowerment, highlighting their alleged celebration of the bill's failure as an insult to women's dignity",
+    "img": "https://static.toiimg.com/photo/msid-130356896,imgsize-44664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dreams-of-nari-shakti-crushed-despite-our-best-effort-pm-modi-apologises-to-nations-women/articleshow/130356325.cms",
+    "time": "2026-04-18T15:09:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/explained-on-way-to-4th-largest-how-india-slipped-to-6th-rank-what-it-means-for-3rd-largest-economy-dream/articleshow/130356662.cms",
     "time": "2026-04-18T14:57:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "New BJP-led govt. in Bihar to undergo floor test on April 24",
-    "desc": "As the number of NDA legislators in the State Assembly stands at a whopping 201 and the Opposition 41 MLAs in the 243-member Assembly, the new government led by Samrat Choudhary is likely to sail through the floor test",
-    "img": "https://th-i.thgim.com/public/incoming/r6ycnt/article70878222.ece/alternates/LANDSCAPE_1200/PTI04_18_2026_000105B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/new-bjp-led-govt-in-bihar-to-undergo-floor-test-on-april-24/article70877648.ece",
-    "time": "2026-04-18T14:48:57.000Z"
   },
   {
     "cat": "Sports",
@@ -55,48 +208,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Congress and its allies ‘celebrated’ setback to women’s 33% reservation push: BJP",
-    "desc": "BJP leaders Ravi Shankar Prasad and Smriti Irani accuse the Congress of a ‘history’ of neglecting women’s welfare and sabotaging its own Bills, and treating women as political tools rather than respecting them as equal citizens",
-    "img": "https://th-i.thgim.com/public/incoming/dlgnpb/article70878147.ece/alternates/LANDSCAPE_1200/BJP%20PC%20DELHI_18_04_8.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-and-its-allies-celebrated-setback-to-womens-33-reservation-push-bjp/article70877925.ece",
-    "time": "2026-04-18T14:32:08.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "‘Troubles DMK, Congress to see ordinary women rise’: PM Modi at Coimbatore rally",
     "desc": "Prime Minister Narendra Modi expressed pain and anger over the failure of the women's reservation bill, accusing the DMK, Congress, and their allies of engaging in \"hatred and petty politics.\" He stated that the DMK \"harms women\" and \"doesn't stand with women in parliament,\" predicting a response for their \"anti-women stand\"",
     "img": "https://static.toiimg.com/photo/msid-130355576,imgsize-29100.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/troubles-dmk-congress-to-see-ordinary-women-rise-pm-modi-at-coimbatore-rally/articleshow/130355437.cms",
     "time": "2026-04-18T14:14:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parade Ground’s historic legacy eclipsed by years of neglect",
-    "desc": "After being given a facelift as one of the practice turfs for the FIFA Under-17 World Cup, the ground, one of the few open spaces available to sports enthusiasts in West Kochi, has seen little maintenance since",
-    "img": "https://th-i.thgim.com/public/incoming/gyfsf3/article70877899.ece/alternates/LANDSCAPE_1200/Parade_ground_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/parade-grounds-historic-legacy-eclipsed-by-years-of-neglect/article70876454.ece",
-    "time": "2026-04-18T14:11:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Can women’s quota be implemented before 2029 general elections?",
-    "desc": "The Constitution (131st) Amendment Bill, 2026, which sought to redistribute Lok Sabha seats on the basis of the 2011 Census to expedite the implementation of women’s reservation was defeated on the floor of the Lok Sabha on Friday. But what does it mean for the future of 33% reservation for women in Parliament and State legislatures and can the women’s quota be implemented under any scenario before the 2029 general elections?",
-    "img": "https://th-i.thgim.com/public/incoming/5rwh5p/article70877824.ece/alternates/LANDSCAPE_1200/PTI04_17_2026_000551B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/can-womens-quota-be-implemented-before-2029-general-elections-explained/article70877688.ece",
-    "time": "2026-04-18T14:07:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SP calls for a tight vigil on repeat offenders to combat crime in Sathya Sai district",
-    "desc": "Says policing should be both visible on the ground and smart in its approach to build public trust; directs the police to track repeat offenders and act firmly against those who pose a threat to public safety",
-    "img": "https://th-i.thgim.com/public/incoming/jpc04g/article70878027.ece/alternates/LANDSCAPE_1200/10215_18_4_2026_19_19_25_1_IMG_20260418_WA0046.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sp-calls-for-a-tight-vigil-on-repeat-offenders-to-combat-crime-in-sathya-sai-district/article70877396.ece",
-    "time": "2026-04-18T13:59:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -106,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-dhurandhar-gaurav-gera-says-i-have-started-getting-more-respect-past-love-shaped-his-views-on-marriage-i-feel-women-move-on/articleshow/130355548.cms",
     "time": "2026-04-18T13:59:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Union Cabinet approves new railway lines at a cost of ₹9,889 crore in Andhra Pradesh",
-    "desc": "The 198-km-long third and fourth lines between Rajahmundry and Visakhapatnam is expected to improve connectivity to major ports, boost access to tourist destinations, and lead to an additional freight traffic of 29.04 million tonnes per annum",
-    "img": "https://th-i.thgim.com/public/incoming/yg6j3w/article70877933.ece/alternates/LANDSCAPE_1200/10215_18_4_2026_18_14_56_1_MAPJPG.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/union-cabinet-approves-new-railway-lines-at-a-cost-of-9889-crore-in-andhra-pradesh/article70877644.ece",
-    "time": "2026-04-18T13:53:43.000Z"
   },
   {
     "cat": "Politics",
@@ -252,24 +360,6 @@ const newsData_en = [
     "time": "2026-04-18T10:40:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Another Indian oil tanker crosses Hormuz as Iran shuts Strait for US",
-    "desc": "An Indian oil tanker, Desh Garima, successfully navigated the Strait of Hormuz amidst heightened regional tensions and conflicting reports from Iran regarding its status. This passage highlights ongoing maritime activity despite concerns over the vital oil route. The Indian government has also bolstered support for the shipping sector with a significant insurance pool to counter rising costs and stricter approvals.",
-    "img": "https://static.toiimg.com/photo/msid-130351381,imgsize-29498.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/another-indian-oil-tanker-crosses-hormuz-as-iran-shuts-strait-for-us-desh-garima/articleshow/130351117.cms",
-    "time": "2026-04-18T10:37:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Strategic move or poor planning?",
-    "desc": "For the first time since 2014, the Modi government failed to pass a bill in Parliament, a move analysts suggest was strategic. By forcing a vote on the women's reservation bill, linked to delimitation, the BJP aimed to record every MP's stance, creating a potent campaign tool. The government positioned itself as pro-women reformists, while blaming opposition parties for obstructing progress. This tactic seeks to shape the political narrative ahead of crucial elections, highlighting intent versus obstruction.",
-    "img": "https://static.toiimg.com/photo/msid-130351658,imgsize-2348246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/women-reservation-bill-fails-in-lok-sabha-strategic-move-or-poor-planning/articleshow/130351599.cms",
-    "time": "2026-04-18T10:31:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rahul Roy spotted in Mumbai looking strikingly different",
     "desc": "In a heartwarming sight for fans, Rahul Roy, the legendary star of 'Aashiqui', returned to the spotlight with a rare appearance in Mumbai. Seen strolling through Versova, his relaxed outfit and timeless charisma reminded everyone of the magic he brought to the screen. The beloved 1990 film, 'Aashiqui', continues to enchant music lovers, its songs echoing through generations. Read on to know more in detail.",
@@ -333,15 +423,6 @@ const newsData_en = [
     "time": "2026-04-18T08:54:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Confusion’ between DMK &amp; Congress: BJP targets INDIA bloc over Rahul, Sonia absence; attacks DMK over ‘family rule’",
-    "desc": "Tamil Nadu BJP chief Nainar Nagendran announced Prime Minister Narendra Modi's upcoming visit to Coimbatore for election campaigning. Nagendran criticized the ruling DMK and Congress alliance, alleging confusion and lack of support from national Congress leaders. He also accused the state government of misrepresenting central welfare schemes and opposing women's reservation.",
-    "img": "https://static.toiimg.com/photo/msid-130350034,imgsize-29350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/confusion-between-dmk-congress-bjp-targets-india-bloc-over-rahul-sonia-absence-attacks-dmk-over-family-rule/articleshow/130348298.cms",
-    "time": "2026-04-18T08:42:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rajinikanth's 'Jailer 2' OTT rights sealed for a record price",
     "desc": "Jailer 2 has secured a record-breaking OTT deal worth Rs 160 crore. This is the biggest digital rights acquisition in Tamil cinema history. The Rajinikanth starrer is set for a 2026 release. The film promises a grand scale and mass entertainment. Pre-release business is strong, indicating high expectations for the sequel.",
@@ -396,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-18T07:25:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside 'Nawab': Nawazuddin Siddiqui’s tribute to his roots",
-    "desc": "Nawazuddin Siddiqui's Mumbai bungalow, 'Nawab', is a testament to his journey, designed by the actor himself to echo his childhood home. This Rs 12.80 crore property, completed over three years, features old-world charm with an all-white aesthetic, antique art, and personal touches like a balcony inspired by 'Romeo and Juliet'. It's a dream home built from memory and sentiment.",
-    "img": "https://static.toiimg.com/photo/msid-130348942,imgsize-43222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-nawab-nawazuddin-siddiquis-rs-15-crore-versova-bungalow-is-a-hand-crafted-tribute-to-his-roots-from-budhana/articleshow/130348942.cms",
-    "time": "2026-04-18T07:17:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "Myanmar release of Suu Kyi top ally spurs small democracy hope",
     "desc": "\"I don't expect much from this release,\" said one 50-year-old Yangon resident, speaking on condition of anonymity for security reasons. \"There is no reason to be thankful because he was arrested unjustly in the first place,\" says Suu Kyi",
@@ -423,15 +495,6 @@ const newsData_en = [
     "time": "2026-04-18T07:09:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Yash to humanise Ravana in 'Ramayana'",
-    "desc": "Yash, set to portray Ravana in the upcoming 'Ramayana,' revealed his approach to humanizing the iconic villain for a global audience. He emphasized balancing relatability with preserving the character's cultural and spiritual essence, a challenge he embraced with enthusiasm. The film, also starring Ranbir Kapoor as Ram, is slated for an end-of-October release.",
-    "img": "https://static.toiimg.com/photo/msid-130348451,imgsize-49702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-to-humanise-ravana-in-ramayana-its-important-for-people-to-relate-to-him/articleshow/130348182.cms",
-    "time": "2026-04-18T07:05:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "5 players battle to watch in today's IPL 2026 match between SRH and CSK",
     "desc": "Sunrisers Hyderabad's young pacers Praful Hinge and Sakib Hussain aim to replicate their stellar performance against Chennai Super Kings. Key battles include Sanju Samson vs. Hinge, Travis Head vs. Anshul Kamboj, Heinrich Klaasen vs. Noor Ahmad, Abhishek Sharma vs. Mukesh Choudhary, and Ruturaj Gaikwad vs. Eshan Malinga, promising an exciting IPL encounter.",
@@ -439,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/sanju-samson-to-praful-hinge-5-players-battle-to-watch-in-todays-ipl-2026-match-between-srh-and-csk/articleshow/130348728.cms",
     "time": "2026-04-18T07:03:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amitabh Bachchan talks about mother Teji Bachchan",
-    "desc": "Amitabh Bachchan recently shared a touching blog post recalling his late mother, Teji Bachchan. He reminisced about a childhood ritual where his mother's comforting touch and reassuring words provided immense solace during difficult times. Bachchan highlighted how simple gestures and a change in perspective can alleviate worries, a lesson he learned from his mother, who passed away in 2007.",
-    "img": "https://static.toiimg.com/photo/msid-130348713,imgsize-112046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-fondly-remembers-mother-teji-bachchan-in-new-post-that-warm-caress-from-ma-/articleshow/130348713.cms",
-    "time": "2026-04-18T07:01:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Big shake-up! Pakistan announce fresh coaching staff for Bangladesh tour",
-    "desc": "Pakistan have announced a 16-member squad for their upcoming Test series against Bangladesh, led by captain Shan Masood. The revamped side includes four uncapped players, aiming to improve their position in the ICC World Test Championship. The series begins May 8, with a new coaching setup also in place.",
-    "img": "https://static.toiimg.com/photo/msid-130348514,imgsize-66468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-shake-up-pakistan-announce-fresh-coaching-staff-for-bangladesh-tour/articleshow/130348313.cms",
-    "time": "2026-04-18T06:44:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -529,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-wall-street-at-record-high-after-trump-says-hormuz-is-open-dow-jumps-868-points-nasdaq-up-1-5/articleshow/130346214.cms",
     "time": "2026-04-18T03:23:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill dethrones Virat Kohli, takes big lead",
-    "desc": "Shubman Gill has taken the lead in the IPL 2026 Orange Cap race with 251 runs after a match-winning 86. Virat Kohli follows closely in second with 228 runs, while Heinrich Klaasen, Rajat Patidar, and Ishan Kishan round out the top five in a tightly contested batting battle.",
-    "img": "https://static.toiimg.com/photo/msid-130346382,imgsize-620472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-shubman-gill-dethrones-virat-kohli-takes-orange-cap-lead-with-251-runs/articleshow/130346365.cms",
-    "time": "2026-04-18T03:18:19.000Z"
   },
   {
     "cat": "Sports",
@@ -684,15 +720,6 @@ const newsData_en = [
     "time": "2026-04-17T06:57:51.000Z"
   },
   {
-    "cat": "World",
-    "title": "Myanmar frees more than 4,500 prisoners in traditional new year amnesty",
-    "desc": "The amnesty comes a week after Min Aung Hlaing was sworn into office following an election that critics say was neither free nor fair and was orchestrated to keep the military's iron grip on power",
-    "img": "https://th-i.thgim.com/public/incoming/fejox6/article70872700.ece/alternates/LANDSCAPE_1200/Myanmar_Amnesty_3_552.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/myanmar-frees-more-than-4500-prisoners-in-traditional-new-year-amnesty/article70872657.ece",
-    "time": "2026-04-17T06:53:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "the case of Tamil Nadu’s finances",
     "desc": "The rising prominence of social media warrants a closer look at the shifts in political reporting. An example is Union Minister Piyush Goyal’s recent claim on Tamil Nadu’s debt burden, which highlights the limits of citing debt without accounting for other factors",
@@ -700,24 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/perils-of-selective-political-reporting-the-case-of-tamil-nadus-finances/article70870853.ece",
     "time": "2026-04-17T04:52:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. immigration agency interim head Todd Lyons to step down",
-    "desc": "Todd Lyons \"has been a great leader of ICE,\" said Markwayne Mullin in a statement, adding that his last day would be May 31 and wishing him luck in his \"next opportunity in the private sector”",
-    "img": "https://th-i.thgim.com/public/incoming/o61thf/article70872173.ece/alternates/LANDSCAPE_1200/ICE_Director__4519.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-immigration-agency-interim-head-todd-lyons-to-step-down/article70872160.ece",
-    "time": "2026-04-17T04:04:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "10-day ceasefire deal between Israel, Lebanon takes effect",
-    "desc": "Donald Trump later said he expected Mr. Netanyahu and Mr. Aoun to visit the White House \"over the next four or five days\"; It would be the first time the leaders of Israel and Lebanon have ever met.",
-    "img": "https://th-i.thgim.com/public/incoming/pwhvo4/article70871217.ece/alternates/LANDSCAPE_1200/2026-04-16T222000Z_597153949_RC2MQKA80Q47_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/10-day-ceasefire-deal-between-israel-lebanon-takes-effect/article70871072.ece",
-    "time": "2026-04-16T22:35:08.000Z"
   },
   {
     "cat": "Sports",
@@ -754,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/gems-and-jewellery-exports-fall-to-five-year-low-on-us-tariffs/article70866170.ece",
     "time": "2026-04-16T00:20:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "War delayed plans for UAE, Dubai markets, says Tata  Group’s luxury diamond brand Zoya",
-    "desc": "Zoya, that operates under Titan Company has been growing at a CAGR of 40% in the last five years and it was planning to deepen its presence in India and expand its reach to global markets to cater to large communities of the Indian diaspora",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/war-delayed-plans-for-uae-dubai-markets-says-tata-groups-luxury-diamond-brand-zoya/article70866206.ece",
-    "time": "2026-04-15T18:15:58.000Z"
   },
   {
     "cat": "Tech",

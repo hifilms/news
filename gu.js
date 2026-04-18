@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ઈરાને ભારતીય તેલ ટેન્કર પર કર્યો ગોળીબાર, બે જહાજો પાછા ફર્યા, જાણો",
+    "desc": "ભારતીય નૌકાદળ આ ઘટનાની વિગતો જાણવાનો પ્રયાસ કરી રહ્યું છે, કારણ કે હાલમાં હોર્મુઝ સ્ટ્રેટમાં કોઈ ભારતીય નૌકાદળના જહાજો તૈનાત નથી. ભારત પાસે ઓમાનના અખાતમાં બે વિનાશક જહાજો, એક ફ્રિગેટ અને એક ટેન્કર તૈનાત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-fired-on-indian-oil-tanker-two-ships-returned-know-473769 ",
+    "time": "2026-04-18T15:49:10.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ખુશીથી તાળીઓ પાડી રહ્યા હતા, મહિલાઓના અધિકાર છીનવી ટેબલ થપથપાવી રહ્યા હતા, PMએ વિપક્ષ પર સાધ્યું નિશાન",
     "desc": "મહિલા અનામત બિલ પસાર ન થવા બદલ વડા પ્રધાન નરેન્દ્ર મોદીએ વિપક્ષી પક્ષો પર નિશાન સાધ્યું. તેમણે કહ્યું કે બિલ નિષ્ફળ ગયા પછી તેઓ ટેબલ થપથપાવી રહ્યા હતા. આ ફક્ત થપથપાવી રહ્યું ન હતું, તે મહિલાઓના આત્મસન્માન પર હુમલો હતો.",
@@ -511,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/no-gold-no-oil-no-gas-yet-these-countries-have-mines-worth-billions-know-how-they-are-getting-rich-just-by-collecting-toll-tax-473053 ",
     "time": "2026-04-14T11:22:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "જો ભારત પાકિસ્તાન પર હુમલો કરે તો શું સાઉદી અરેબિયા મોકલશે સેના? ડીલના દસ્તાવેજો લીક, મોટો ખુલાસો",
-    "desc": "ડ્રોપ સાઇટ રિપોર્ટમાં જણાવાયું છે કે, ઇસ્લામાબાદનો મુખ્ય વ્યૂહાત્મક હરીફ ભારત છે, જેના રિયાધ સાથે ઊંડા રાજકીય અને આર્થિક સંબંધો છે. વધુમાં, પાકિસ્તાન હાલમાં અફઘાનિસ્તાન સાથે ભીષણ સરહદપાર યુદ્ધમાં રોકાયેલું છે, જેના માટે સાઉદી અરેબિયાએ કોઈ લોજિસ્ટિકલ સપોર્ટ પૂરો પાડ્યો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-saudi-arabia-send-troops-if-india-attacks-pakistan-deal-documents-leaked-big-revelation-473052 ",
-    "time": "2026-04-14T11:01:12.000Z"
   },
   {
     "cat": "Sports",
