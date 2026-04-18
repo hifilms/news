@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kolkata Knight Riders join MI, RCB in unwanted list as dismal run in IPL 2026 continues",
+    "desc": "Kolkata Knight Riders’ abysmal run in the ongoing IPL (Indian Premier League) 2026 season continued. With six matches played in the tournament, KKR have lost five matches, and one match has produced no result due...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-join-mi-rcb-in-unwanted-list-as-dismal-run-in-ipl-2026-continues-2026-04-18-1037946",
+    "time": "2026-04-18T01:43:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at M Chinnaswamy Stadium in Bengaluru play?",
     "desc": "Royal Challengers Bengaluru will host Delhi Capitals in their upcoming IPL 2026 clash at the M Chinnaswamy Stadium. The last time these two teams faced each other in Bengaluru, KL Rahul produced a sensational knock...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-keeper-batter-ruled-out-of-ipl-2026-franchise-announces-replacement-2026-04-17-1037898",
     "time": "2026-04-17T11:55:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin analyses Mumbai Indians' performance in IPL 2026 after fourth straight loss",
-    "desc": "Following a seven-wicket defeat to Punjab Kings, Mumbai Indians registered their fourth consecutive defeat in IPL 2026. Celebrated batters such as Suryakumar Yadav and Tilak Varma have struggled heavily in the competition so far, while...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-analyses-mumbai-indians-performance-in-ipl-2026-after-fourth-straight-loss-2026-04-17-1037888",
-    "time": "2026-04-17T11:05:49.000Z"
   }
 ];
