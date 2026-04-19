@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Impact Player and the Domino effect",
+    "desc": "This is the fourth year of competition with the innovation; while there has been a strident appeal from the playing community to dispense with it, the IPL is insistent that there will be no rethink until after the 2027 edition",
+    "img": "https://th-i.thgim.com/public/incoming/8wibxu/article70882104.ece/alternates/LANDSCAPE_1200/_DSC5193A.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/impact-player-and-the-domino-effect/article70882096.ece",
+    "time": "2026-04-19T18:34:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Export disruption hits ‘Bangalore Rose’ onion farmers; MP seeks urgent support",
+    "desc": "In a letter to Union Agriculture and Farmers’ Welfare Minister Shivraj Singh Chouhan, MP for Chickballapur Sudhakar has urged the Centre to step in with immediate market support measures. He has called for procurement interventions to prevent distress in sales and stabilise prices.",
+    "img": "https://th-i.thgim.com/public/incoming/lpnxdf/article70882107.ece/alternates/LANDSCAPE_1200/roseonion_2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/export-disruption-hits-bangalore-rose-onion-farmers-mp-seeks-urgent-support/article70881653.ece",
+    "time": "2026-04-19T18:29:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Development, welfare, civic problems shape poll mood in Thiru. Vi. Ka. Nagar constituency",
+    "desc": "Residents say their struggle for basic amenities in some areas still persist; night food stalls and commercial activity have encroached road space and worsened traffic congestion; those living in railway lands in Rajiv Gandhi Nagar and Mangalapuram are also seeking alternate housing",
+    "img": "https://th-i.thgim.com/public/incoming/w9clly/article70824671.ece/alternates/LANDSCAPE_1200/DSC_5587.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/development-welfare-and-civic-problems-shape-the-poll-mood-in-thiru-vi-ka-nagar/article70823399.ece",
+    "time": "2026-04-19T18:23:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Arshad said his children wouldn't have pressure like SRK, Hrithik's kids",
+    "desc": "Arshad Warsi, celebrating his 58th birthday, revealed his children Zeke and Zene Zoe are interested in cinema. While his son is gaining experience behind the camera, his daughter is pursuing education. Warsi, however, emphasizes individual effort and luck over industry connections, believing his children must forge their own paths.",
+    "img": "https://static.toiimg.com/photo/msid-130376444,imgsize-128266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-arshad-warsi-said-his-children-wouldnt-have-the-pressure-that-shah-rukh-khan-or-hrithik-roshans-kids-have-when-they-become-actors/articleshow/130376434.cms",
+    "time": "2026-04-19T18:17:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arya and Connolly’s brutal ball-striking tears apart LSG as PBKS seal 54-run win",
+    "desc": "Priyansh Arya and Cooper Connolly delivered a stunning 182-run partnership off 80 balls, propelling Punjab Kings to a formidable 254/7. Their elegant yet brutal hitting, characterized by precise timing rather than brute force, dismantled the Lucknow Super Giants' bowling attack. This exceptional display set the stage for a dominant 54-run victory.",
+    "img": "https://static.toiimg.com/photo/msid-130376034,imgsize-175986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-priyansh-arya-and-cooper-connollys-brutal-ball-striking-tears-apart-lsg-as-pbks-seal-54-run-win/articleshow/130376051.cms",
+    "time": "2026-04-19T18:00:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Linking women’s reservation with delimitation is unconstitutional, contends G. Ramakrishnan",
+    "desc": "He says by doing this, the Centre knew full well that opposition parties will oppose the Bill, and once they did, it can campaign against the opposition in West Bengal and Tamil Nadu based on the issue",
+    "img": "https://th-i.thgim.com/public/incoming/rnp33a/article70881317.ece/alternates/LANDSCAPE_1200/2085_8_12_2025_18_2_27_2_DSC_2072.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/linking-womens-reservation-with-delimitation-is-unconstitutional-contends-g-ramakrishnan/article70881247.ece",
+    "time": "2026-04-19T17:59:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rinku, Anukul combine to script KKR’s first win",
+    "desc": "The two add 76 off just 37 balls to lift home team from a precarious 85 for six in pursuit of a modest 156; Varun, Narine and Tyagi restrict Royals after a breezy opening stand by JaiSurya",
+    "img": "https://th-i.thgim.com/public/incoming/16bytu/article70881390.ece/alternates/LANDSCAPE_1200/2150_19_4_2026_19_55_53_1_IPL_19042026_31.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-rajasthan-royals-vs-kolkata-knight-riders/article70880503.ece",
+    "time": "2026-04-19T17:22:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Priyansh Arya &amp; Connolly script history; break Gilchrist, Shaun Marsh's record to...",
+    "desc": "This is the third 150-plus stand for Punjab Kings in the tournament. The highest remains the 206-run partnership between Adam Gilchrist and Shaun Marsh against Royal Challengers Bengaluru in 2011. It is followed by the 183-run stand between KL Rahul and Mayank Agarwal against Rajasthan Royals in 2020.",
+    "img": "https://static.toiimg.com/photo/msid-130375066,imgsize-45818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/priyansh-arya-and-cooper-connolly-script-history-vs-lsg-break-gilchrist-shaun-marshs-ipl-record-to-/articleshow/130375054.cms",
+    "time": "2026-04-19T17:19:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "R.K. Nagar constituency residents still await safe drinking water",
+    "desc": "The narrow arterial roads, congested bylanes, closely built row houses and busy market areas - all hallmarks of a north Chennai locality - still define the area, even as the introduction of metro rail connectivity has noticeably changed the area’s landscape.",
+    "img": "https://th-i.thgim.com/public/incoming/9xn6nz/article70881916.ece/alternates/LANDSCAPE_1200/DJI_20260409111737_0041_D.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/metro-rail-and-bridges-in-place-but-rk-nagar-residents-still-wait-for-safe-drinking-water/article70820360.ece",
+    "time": "2026-04-19T16:44:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI desperate for a win over high-flying GT",
+    "desc": "The five-time champion has just a solitary victory in five games while the home team is on a three-match winning run; the visiting side to take a call on Rohit only on match day; Gill, Buttler hold the key for the host",
+    "img": "https://th-i.thgim.com/public/incoming/dhlq9r/article70881593.ece/alternates/LANDSCAPE_1200/VIS_9071.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-mi-vs-gt-preview/article70881360.ece",
+    "time": "2026-04-19T16:41:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat-Anushka make first appearance post the Instagram 'like' controversy",
+    "desc": "Virat Kohli and Anushka Sharma made their first public appearance post a social media controversy, spotted at the airport. Kohli's gesture of carrying Anushka's bag garnered praise, while fans admired their affectionate interaction. The controversy involved a reported 'like' on a model's post, which the model later addressed.",
+    "img": "https://static.toiimg.com/photo/msid-130374270,imgsize-67700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-anushka-sharma-serve-couple-goals-make-first-appearance-after-the-like-controversy-involving-german-influencer-lizlaz/articleshow/130374260.cms",
+    "time": "2026-04-19T16:41:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modi says Trinamool prevented passage of women’s reservation Bill; Mamata reminds him it was passed in 2023",
+    "desc": "The Prime Minister addresses four public meetings in Bankura, Purulia, Jhargram and Paschim Medinipur and calls the Trinamool ‘anti-tribal’. The Chief Minister hits back, citing raids at Kolkata police officer in charge of her security and asks whether there is a plan to eliminate her",
+    "img": "https://th-i.thgim.com/public/incoming/pdpu6x/article70880266.ece/alternates/LANDSCAPE_1200/20260419016L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-pm-modi-rally-in-bankura-bishnupur/article70880253.ece",
+    "time": "2026-04-19T16:36:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "5 Horror movies based on real-life events: 'The Conjuring', 'The Exorcist' and more",
+    "desc": "The scariest horror films are not the ones with the most elaborate monsters or the most expensive special effects. They are the ones that end with the words based on a true story, because nothing the imagination can conjure is quite as disturbing as knowing that something like this actually happened to real people in the real world. Here are five horror films rooted in events that were genuinely, terrifyingly real.",
+    "img": "https://static.toiimg.com/photo/msid-130367127,imgsize-83274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/5-horror-movies-based-on-real-life-events-the-conjuring-the-exorcist-and-more/photostory/130367127.cms",
+    "time": "2026-04-19T16:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Bengal BJP leader Dinesh Trivedi expected to be new Indian envoy to Bangladesh",
+    "desc": "The timing of appointment is crucial as Bangladesh’s new government needs support to deal with acute energy crisis that has erupted in the country because of U.S.-Israel war on Iran and the Iranian chokehold of the Strait of Hormuz",
+    "img": "https://th-i.thgim.com/public/incoming/77ythk/article70881815.ece/alternates/LANDSCAPE_1200/PTI03_14_2026_000173B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal-bjp-leader-dinesh-trivedi-expected-to-be-new-indian-envoy-to-bangladesh/article70881700.ece",
+    "time": "2026-04-19T16:08:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Pakistan says it will repay remaining $1.5 billion loan to UAE by April 23 amid IMF funding hopes",
+    "desc": "Pakistan aims to repay the remaining $1.5 billion loan to the UAE by April 23, following a $2 billion repayment. This comes as the country anticipates a $1.2 billion disbursement from the IMF after recent negotiations. Saudi Arabia has also extended a $3 billion deposit maturity, depositing $2 billion to bolster reserves.",
+    "img": "https://static.toiimg.com/photo/msid-130373477,imgsize-11638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/pakistan-says-it-will-repay-remaining-1-5-billion-loan-to-uae-by-april-23-amid-imf-funding-hopes/articleshow/130373074.cms",
+    "time": "2026-04-19T15:49:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid speculation of I-PAC suspending Bengal operations, Mamata says will engage its members in her party",
+    "desc": "As reports claim that the political consultancy firm’s team in the State has been asked to go on leave for 20 days, the Trinamool Congress says the claims is ‘completely baseless’ and ‘a deliberate attempt to create confusion on the ground’",
+    "img": "https://th-i.thgim.com/public/incoming/uzy4u5/article70881308.ece/alternates/LANDSCAPE_1200/PTI04_19_2026_000171B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/tmc-dismisses-reports-of-i-pac-halting-wb-operations-mamata-says-party-to-give-jobs-to-staffers-if-needed/article70881278.ece",
+    "time": "2026-04-19T15:28:26.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Kerala ignores proposal for Ombudsman for students of self-financing institutions",
     "desc": "Panel constituted in August 2017 following the death of Jishnu Pronoy, who was found dead in a hostel of the Nehru College of Engineering and Research Centre at Pampadi in Thrissur on January 6, 2017, had proposed the formation of district- and State-level Ombudsmen",
@@ -18,15 +162,6 @@ const newsData_en = [
     "time": "2026-04-19T15:11:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TMC dismisses reports of I-PAC halting W.B. operations, Mamata says party to give jobs to staffers if needed",
-    "desc": "The sharp rebuttal from the ruling party came hours after reports surfaced that the Indian Political Action Committee (I-PAC), which has been closely associated with the TMC's election campaigns since 2021, had allegedly asked its employees in West Bengal to stop work immediately and proceed on a 20-day leave",
-    "img": "https://th-i.thgim.com/public/incoming/uzy4u5/article70881308.ece/alternates/LANDSCAPE_1200/PTI04_19_2026_000171B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/tmc-dismisses-reports-of-i-pac-halting-wb-operations-mamata-says-party-to-give-jobs-to-staffers-if-needed/article70881278.ece",
-    "time": "2026-04-19T15:09:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "RGV on the underworld connection behind Chori Chori Chupke Chupke",
     "desc": "The 2001 film Chori Chori Chupke Chupke, known for its early depiction of surrogacy, became infamous for its ties to the Mumbai underworld. Financier Bharat Shah unknowingly funded the project, later discovering producer Nazim Rizvi's alleged links to Chhota Shakeel. This led to extortion attempts and Shah's eventual arrest and conviction for failing to disclose these connections.",
@@ -43,33 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-luck-was-on-my-side-rinku-singh-reveals-game-changing-moment-in-kolkata-knight-riders-win-over-rajasthan-royals/articleshow/130372350.cms",
     "time": "2026-04-19T15:02:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre’s potato procurement price is just half of input cost, allege farmers’ bodies",
-    "desc": "While the Union Agriculture Ministry on Saturday approved procurement at ₹6.5 per kg, a farmer leader says input cost itself is ₹12 per kg. A farmer can make at least a small profit only if the price is at least ₹15 per kg, he says.",
-    "img": "https://th-i.thgim.com/public/incoming/obiku9/article70881409.ece/alternates/LANDSCAPE_1200/PTI03_06_2026_000036B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centres-potato-procurement-price-in-up-is-just-half-of-input-cost-allege-farmers-bodies/article70881019.ece",
-    "time": "2026-04-19T14:40:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "police report",
-    "desc": "Accident took place on February 5 when the actor’s car collided with a motorcycle, leaving two youths injured. The incident had sparked controversy as the actor did not stop his vehicle immediately after the crash",
-    "img": "https://th-i.thgim.com/public/incoming/bc996i/article70881320.ece/alternates/LANDSCAPE_1200/Maniyanpilla_Raju01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/no-evidence-of-drunk-driving-against-malayalam-actor-maniyanpilla-raju-in-accident-case-police-report/article70881251.ece",
-    "time": "2026-04-19T14:31:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Loan app operators suspected behind youth’s disappearance in Vadakara",
-    "desc": "According to a complaint filed by the family, Vishnu Prakash, who went missing on April 13, had been under severe stress following repeated harassment and intimidation by some agents associated with a digital lending app",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/loan-app-operators-suspected-behind-youths-disappearance-in-vadakara/article70880832.ece",
-    "time": "2026-04-19T14:30:21.000Z"
   },
   {
     "cat": "Sports",
@@ -109,21 +217,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Do you eat onions?' PM Modi takes 'Jhalmuri break' during Bengal poll campaign",
+    "title": "'Do you eat onions?' PM Modi takes 'jhalmuri break' during Bengal poll campaign",
     "desc": "Amidst a high-stakes political campaign in West Bengal, Prime Minister Narendra Modi took a refreshing pause for a jhalmuri snack in Jhargram. He interacted with the vendor, inquiring about the price and confirming his liking for onions with a witty remark. This candid moment unfolded as the Prime Minister intensified his campaign efforts across the state.",
     "img": "https://static.toiimg.com/photo/msid-130371282,imgsize-984768.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/do-you-eat-onions-pm-modi-takes-jhalmuri-break-during-bengal-poll-campaign-watch/articleshow/130371223.cms",
     "time": "2026-04-19T13:23:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Donald Trump says U.S. officials will be in Pakistan ‘for negotiations’",
-    "desc": "The U.S. President reiterated that “We’re offering a very fair and reasonable DEAL, and I hope they take it because, if they don’t, the United States is going to knock out every single Power Plant, and every single Bridge, in Iran.”",
-    "img": "https://th-i.thgim.com/public/incoming/l8gd19/article70880883.ece/alternates/LANDSCAPE_1200/Trump_593_9.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/donald-trump-says-us-officials-will-be-in-pakistan-for-negotiations/article70880860.ece",
-    "time": "2026-04-19T13:13:07.000Z"
   },
   {
     "cat": "World",
@@ -243,15 +342,6 @@ const newsData_en = [
     "time": "2026-04-19T09:44:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Ready to give up for a sister': Congress’ Manickam Tagore offers to vacate seat if women's quota applied to current constituencies",
-    "desc": "Following the defeat of the Women's Reservation Bill in Lok Sabha, Congress MP Manickam Tagore challenged PM Modi and Amit Shah to give up their seats for women candidates if 33% reservation is implemented across existing constituencies.",
-    "img": "https://static.toiimg.com/photo/msid-130367638,imgsize-818469.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ready-to-give-up-for-a-sister-congress-manickam-tagore-offers-to-vacate-seat-if-womens-quota-applied-to-current-constituencies/articleshow/130367622.cms",
-    "time": "2026-04-19T09:26:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran fully closes Strait of Hormuz over U.S. blockade",
     "desc": "Iran's Revolutionary Guard navy warned vessels not to move from their anchorage in the Persian Gulf and the Sea of Oman, as “approaching the Strait of Hormuz will be considered as cooperation with the enemy\"",
@@ -259,15 +349,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-fully-closes-strait-of-hormuz-over-us-blockade/article70879044.ece",
     "time": "2026-04-19T09:09:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No more ‘corridors of peril’: Supreme Court rolls out strict highway safety norms, bans illegal parking, encroachments",
-    "desc": "The Supreme Court has mandated nationwide road safety improvements, banning heavy vehicle parking on national highways and restricting new roadside structures. Authorities must ensure compliance within 60 days, with district magistrates overseeing inspections. Task forces will be formed to address accident-prone 'blackspots' and enhance surveillance, aiming to prevent avoidable fatalities.",
-    "img": "https://static.toiimg.com/photo/msid-130367392,imgsize-806007.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-more-corridors-of-peril-supreme-court-rolls-out-strict-highway-safety-norms-bans-illegal-parking-encroachments/articleshow/130367311.cms",
-    "time": "2026-04-19T09:00:30.000Z"
   },
   {
     "cat": "Sports",
@@ -295,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jessica-alba-and-danny-ramirez-spotted-out-and-about-in-public-sharing-a-kiss-spending-time-with-a-surprise-guest-report/articleshow/130367221.cms",
     "time": "2026-04-19T08:42:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Cowardly, hypocritical': Mamata Banerjee rejects PM Modi’s charge on Women’s Reservation Bill",
-    "desc": "West Bengal CM Mamata Banerjee accused PM Modi of misleading the nation regarding the women's reservation bill, alleging the Centre is using the exercise as a shield for delimitation. She questioned the timing of the bill's push, especially with state elections approaching, and criticized the Prime Minister's public address on the matter.",
-    "img": "https://static.toiimg.com/photo/msid-130367225,imgsize-1039835.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cowardly-hypocritical-mamata-banerjee-rejects-pm-modis-charge-on-womens-reservation-bill/articleshow/130367104.cms",
-    "time": "2026-04-19T08:38:50.000Z"
   },
   {
     "cat": "World",
@@ -478,15 +550,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Prince Harry and Meghan Markle go viral",
-    "desc": "Prince Harry and Meghan Markle's recent Australian visit saw the Duke go viral for his chivalrous act of opening his wife's car door and offering a helping hand. This gentlemanly gesture, captured by fans, has sparked widespread admiration online, with netizens praising his attentive and caring demeanor towards Meghan.",
-    "img": "https://static.toiimg.com/photo/msid-130365743,imgsize-30252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-goes-viral-during-australia-trip-for-sweet-behaviour-with-wife-and-suits-alum-meghan-markle/articleshow/130365743.cms",
-    "time": "2026-04-19T06:03:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Deepika announces second pregnancy, expecting baby with Ranveer",
     "desc": "Deepika Padukone and Ranveer Singh are expecting their second child, with Deepika sharing a cute social media post hinting at her baby bump. The couple, married in 2018 in Italy, already welcomed daughter Dua in 2024, and fans are thrilled as their family grows once again.",
     "img": "https://static.toiimg.com/photo/msid-130365573,imgsize-37234.cms",
@@ -513,15 +576,6 @@ const newsData_en = [
     "time": "2026-04-19T04:42:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Crisis-hit KKR brace for tough Rajasthan Royals test",
-    "desc": "Kolkata Knight Riders are struggling at the halfway stage of the IPL with no wins, facing a daunting task to turn their season around. Skipper Ajinkya Rahane's leadership and confusing batting order decisions, particularly for Cameron Green, have drawn criticism. They now face a Rajasthan Royals side looking to rebound after a recent loss.",
-    "img": "https://static.toiimg.com/photo/msid-130365003,imgsize-63038.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-crisis-hit-kolkata-knight-riders-brace-for-tough-rajasthan-royals-test/articleshow/130364925.cms",
-    "time": "2026-04-19T04:26:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump vs Pope",
     "desc": "The 70-year-old pontiff, leader of 1.4 billion Catholics, has spoken out against the American President over the U.S.-Israel war on Iran, saying that in a world ‘being ravaged by a handful of tyrants’, peace ‘is everyone’s responsibility’",
@@ -529,24 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-vs-pope-leo-xiv-two-americans-two-paths/article70878562.ece",
     "time": "2026-04-19T03:57:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK climbs 7th spot in points table despite loss against SRH",
-    "desc": "Chennai Super Kings climbed to seventh in the IPL points table despite a narrow 10-run loss to Sunrisers Hyderabad. The defeat, by a small margin, significantly improved CSK's net run rate, allowing them to overtake Lucknow Super Giants. SRH successfully defended 194, with strong bowling performances limiting CSK's chase.",
-    "img": "https://static.toiimg.com/photo/msid-130364785,imgsize-94328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/csk-climbs-7th-spot-in-points-table-despite-loss-against-srh-heres-how/articleshow/130364763.cms",
-    "time": "2026-04-19T03:54:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's next T20I captain? Shreyas Iyer breathing down Surya's neck",
-    "desc": "Shreyas Iyer, a seasoned IPL captain, is making a strong case for a return to the Indian T20I squad. Reunited with coach Ricky Ponting at Punjab Kings, Iyer's consistent form and leadership potential are drawing attention. He's seen as a strong contender to replace Suryakumar Yadav, with selectors weighing his immediate impact and future captaincy prospects.",
-    "img": "https://static.toiimg.com/photo/msid-130364776,imgsize-34360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/indias-next-t20-captain-self-aware-shreyas-iyer-breathing-down-suryakumars-neck/articleshow/130364760.cms",
-    "time": "2026-04-19T03:52:47.000Z"
   },
   {
     "cat": "Sports",
@@ -565,24 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-reveals-virat-kohli-phil-salt-werent-happy-after-dcs-win-over-rcb/articleshow/130364387.cms",
     "time": "2026-04-19T02:48:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bhooth Bangla' earns over Rs 60 cr worldwide in just two days",
-    "desc": "Akshay Kumar and Wamiqa Gabbi's horror-comedy 'Bhooth Bangla' has made a strong debut, grossing Rs 42 crore in India and Rs 60.50 crore worldwide within its first two days. Directed by Priyadarshan, the film marks a reunion for the director and Akshay Kumar after 15 years.",
-    "img": "https://static.toiimg.com/photo/msid-130364080,imgsize-65512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-2-akshay-kumars-film-earns-over-rs-60-cr-worldwide-giving-dhurandhar-2-competition/articleshow/130364081.cms",
-    "time": "2026-04-19T01:23:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' mints close to Rs 1,750 cr worldwide",
-    "desc": "The Revenge' is defying expectations, crossing Rs 1,750 crore worldwide. Despite a slow start to its fifth week and competition from 'Bhoot Bangla', the film saw a significant surge on its fifth Saturday. Its India net collection has now surpassed Rs 1,110 crore, making it a major box office success.",
-    "img": "https://static.toiimg.com/photo/msid-130363855,imgsize-87736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-31-ranveer-singhs-film-mints-close-to-rs-1750-cr-worldwide-amid-competition-from-bhooth-bangla/articleshow/130363842.cms",
-    "time": "2026-04-19T00:25:07.000Z"
   },
   {
     "cat": "Business",
@@ -693,15 +711,6 @@ const newsData_en = [
     "time": "2026-04-17T14:39:38.000Z"
   },
   {
-    "cat": "World",
-    "title": "Sri Lanka’s Energy Minister resigns amid corruption allegations, sub-standard coal imports",
-    "desc": "The indictment triggered sharp criticism from members of the political Opposition and civil society, who reminded the Dissanayake government and the ruling National People’s Power administration of their key pre-poll promise of wiping out corruption",
-    "img": "https://th-i.thgim.com/public/incoming/uw5zq5/article70874277.ece/alternates/LANDSCAPE_1200/HON-Minister-Kumara-Jayakody1-scaled.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sri-lankas-energy-minister-resigns-amid-corruption-allegations-sub-standard-coal-imports/article70873619.ece",
-    "time": "2026-04-17T14:08:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBI pulls out ₹2 lakh crore transient liquidity via 7-day VRRR auction",
     "desc": "The central bank had received higher bids worth ₹2,28,098 crore than the notified amount of ₹2 lakh crore in the auction. The RBI accepted the bid at a 5.24% cut-off rate and 5.23% weighted average rate",
@@ -736,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/shubhankar-fires-64-to-close-in-on-a-win-at-boulders-classic/article70871064.ece",
     "time": "2026-04-16T21:26:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet",
-    "desc": "“We want to take this opportunity very seriously and play our best cricket here. It’s a great chance for us to come together and prepare well before the World Cup,” Harmanpreet said at the pre-series press conference.",
-    "img": "https://th-i.thgim.com/public/incoming/pl2g96/article70871058.ece/alternates/LANDSCAPE_1200/PTI01_30_2026_000374B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/south-africa-series-is-great-chance-to-prepare-for-t20-world-cup-harmanpreet/article70871056.ece",
-    "time": "2026-04-16T21:17:26.000Z"
   },
   {
     "cat": "Business",

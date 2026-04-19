@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Lucknow ask Punjab to bat first in New Chandigarh",
+    "title": "CSK youngster to miss few games, no clarity on veteran's comeback",
+    "desc": "Chennai Super Kings rising star Ayush Mhatre is set to miss a few games after suffering a hamstring injury during his team's IPL 2026 clash against the Sunrisers Hyderabad on Saturday, April 18. Mhatre pulled...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ayush-mhatre-and-ms-dhoni-injury-update-csk-youngster-to-miss-few-games-no-clarity-on-veterans-comeback-2026-04-20-1038123",
+    "time": "2026-04-19T18:36:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings become first team in IPL history to achieve massive record after mauling LSG in New Chandigarh",
+    "desc": "The serial chase masters, Punjab Kings, mauled the Lucknow Super Giants in their defence of a huge 254 at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh to stay unbeaten in IPL 2026....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-become-first-team-in-ipl-history-to-achieve-massive-record-after-mauling-lsg-in-new-chandigarh-2026-04-19-1038121",
+    "time": "2026-04-19T18:20:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch The Show of Shows in India?",
+    "desc": "WrestleMania night 2 sits on the horizon as The Show of Shows unfolds at Allegiant Stadium in Las Vegas. The opening night enthralled the fans with some fascinating face-offs between the WWE superstars. Championships changed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/wwe-wrestlemania-42-night-2-live-streaming-when-and-where-to-watch-the-show-of-shows-in-india-2026-04-19-1038115",
+    "time": "2026-04-19T17:42:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings create history against Lucknow Super Giants after batting show from Priyansh, Connolly",
+    "desc": "Punjab Kings achieved a major record against the Lucknow Super Giants as they became the first-ever team to score a 250-plus total against the Rishabh Pant-led side on Sunday, April 19. Priyansh Arya and Cooper...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-create-history-against-lucknow-super-giants-after-batting-show-from-priyansh-connolly-2026-04-19-1038109",
+    "time": "2026-04-19T16:06:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings maul Lucknow Super Giants in New Chandigarh",
     "desc": "Table-toppers Punjab Kings are up against the Lucknow Super Giants as they look to extend their winning run with their strong batting unit. LSG have been struggling this season, but have been boosted as Rishabh...",
     "img": "",
     "src": "indiatvnews.com",
@@ -46,47 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND-W vs SA-W 2nd T20I LIVE Cricket Score: India look to bounce back in Kingsmead after loss in opener",
+    "title": "IND-W vs SA-W 2nd T20I Highlights: South Africa defeat India to take 2-0 lead in series",
     "desc": "A rusty Indian side will look to fix their batting issues in the death overs and hope for a stronger showing from their pacers as they aim to bounce back against South Africa in the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-saw-2nd-t20i-live-cricket-score-india-vs-south-africa-latest-match-updates-scorecard-teams-playing-xis-2026-04-19-1038088",
     "time": "2026-04-19T11:36:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is there no Formula 1 race today and when is the next one?",
-    "desc": "The Formula 1 has been hit with a month-long hiatus. The series has faced an unexpected halt, and the last race that took place was the Japanese GP on March 29, which was won by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/why-is-there-no-formula-1-race-today-and-when-is-the-next-one-2026-04-19-1038087",
-    "time": "2026-04-19T11:08:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SA-W vs IND-W 2nd T20I pitch report: How surface at Kingsmead, Durban is set to play in second game?",
-    "desc": "India women are set to face South Africa women in the second T20I of the five-match series at Kingsmead, Durban, as they look to bounce back from their loss in the opener. The Women in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sa-w-vs-ind-w-2nd-t20i-pitch-report-how-surface-at-kingsmead-durban-is-set-to-play-in-second-game-2026-04-19-1038083",
-    "time": "2026-04-19T10:22:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kolkata in trouble in 156-run chase at Eden Gardens",
-    "desc": "Kolkata Knight Riders and Rajasthan Royals are all set to face off in the 28th game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the Eden Gardens in Kolkata, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-rr-live-cricket-score-rajasthan-aim-to-get-back-to-winning-ways-against-struggling-kolkata-2026-04-19-1038079",
-    "time": "2026-04-19T09:30:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Really proud': Michael Carrick hails his squad after Manchester United clinch crucial victory over Chelsea",
-    "desc": "Manchester United clinched an important victory in the Premier League, defeating arch-rivals Chelsea 0-1 away from home. The two sides met at Stamford Bridge in London, and coming on the back of a loss, Michael...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/really-proud-michael-carrick-hails-his-squad-after-manchester-united-clinch-crucial-victory-over-chelsea-2026-04-19-1038076",
-    "time": "2026-04-19T09:10:37.000Z"
   }
 ];

@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "IPL દરમિયાન મળી હતી દેશ છોડવાની અને નાગરિકતા બદલવાની ઓફર, રાશિદ ખાનનો ચોંકાવનારો ખુલાસો",
+    "desc": "અફઘાનિસ્તાનના સ્ટાર સ્પિનર રાશિદ ખાને ખુલાસો કર્યો છે કે, તેમને ભારત અને ઓસ્ટ્રેલિયા તરફથી નાગરિકતા અને તેમના દેશ વતી રમવાની ઓફર મળી હતી, પરંતુ તેમણે આ ઓફર ઠુકરાવી દીધી હતી. તેમણે સ્પષ્ટ કહ્યું કે, જો તે પોતાના દેશ માટે નહીં રમે, તો બીજા કોઈ દેશ માટે પણ નહીં રમે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rashid-khan-shocking-revelation-he-received-an-offer-to-leave-the-country-and-change-his-citizenship-during-ipl-473933 ",
+    "time": "2026-04-19T18:18:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "હોર્મુઝ સ્ટ્રેટની આસપાસ કયા-ક્યા દેશો આવેલા છે? તેઓ ઈરાનની જેમ આ ઓઈલ રૂટ પર કેમ કબજો નથી કરતા?",
+    "desc": "ઈરાને સ્ટ્રેટ ઓફ હોર્મુઝ પર ટોલ ટેક્સ વસૂલવાનું શરૂ કરી દીધું છે. સાથે જ અમેરિકા પણ આ માર્ગ પર નાકાબંધી કરી રહ્યું છે. ચાલો જાણીએ કે આ વિસ્તારની આસપાસના અન્ય દેશો આ માર્ગને કેમ કંટ્રોલ કરતા નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/what-countries-surround-the-strait-of-hormuz-and-why-do-not-they-control-this-oil-route-like-iran-473911 ",
+    "time": "2026-04-19T16:32:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IPLમાં &amp;#039;પ્લેયર ઓફ ધ મેચ&amp;#039; એવોર્ડ કોને મળશે તે કોણ નક્કી કરે છે ? 90% લોકો નહીં જાણતા હોય",
     "desc": "IPL 2026નો રોમાંચ ચાલુ છે. ટુર્નામેન્ટ ઝડપથી આગળ વધી રહી છે. આ વચ્ચે રોયલ ચેલેન્જર્સ બેંગ્લોર અને લખનૌ સુપર જાયન્ટ્સ વચ્ચેની મેચ બાદ 'પ્લેયર ઓફ ધ મેચ' એવોર્ડને લઈને એક મોટો વિવાદ ઉભો થયો હતો. ત્યારે આ લેખમાં જાણીશું કે IPLમાં પ્લેયર ઓફ ધ મેચ'નો નિર્ણય કોણ કરે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -459,15 +477,6 @@ const newsData_gu = [
     "time": "2026-04-16T11:42:03.000Z"
   },
   {
-    "cat": "World",
-    "title": "થઈ જાવ તૈયાર ! 2029 સુધીમાં સર્જાશે બીજા વિશ્વયુદ્ધ જેવી પરિસ્થિતિ ? જાણો ભારતનું શું થશે",
-    "desc": "IMFના એક અહેવાલ મુજબ, 2029 સુધીમાં વૈશ્વિક સરકારી દેવું વિશ્વના કુલ GDPના 100% સુધી પહોંચી શકે છે. ચિંતાજનક બાબત એ છે કે આવા ડેટા છેલ્લે બીજા વિશ્વયુદ્ધ પછી જોવા મળ્યા હતા. તેથી એવું કહી શકાય કે 2029 સુધીમાં બીજા વિશ્વ યુદ્ધ જેવી પરિસ્થિતિ ઉભી થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/imf-report-global-debt-hit-100-percent-of-gdp-by-2029-world-economy-slowdown-473382 ",
-    "time": "2026-04-16T10:54:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 બાદ ભારતની T20 ટીમમાં આ ખતરનાક બેટ્સમેનની થશે એન્ટ્રી ! 32 વર્ષની ઉંમરે ડેબ્યૂનો કર્યો દાવો",
     "desc": "બુધવારે રમાયેલી IPL મેચમાં RCBએ LSGને 5 વિકેટથી હરાવ્યું. RCBમાં એક એવો બેટ્સમેન છે, જે 2026ની IPL સીઝન પછી ભારતની T20 ટીમમાં ડેબ્યૂ કરવા માટે એક મજબૂત દાવેદાર છે. આ 32 વર્ષીય બેટ્સમેન મિડલ ઓર્ડરમાં તેની વિસ્ફોટક બેટિંગ માટે જાણીતો છે.",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sunita-ahuja-patch-up-with-kashmera-shah-and-krushna-abhishek-after-big-family-controversy-473290 ",
     "time": "2026-04-16T03:34:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSKની જીત બાદ પોઈન્ટ ટેબલમાં મોટી ઉથલપાથલ, KKR છોડો મુંબઈને પણ મોટું નુકસાન",
-    "desc": "IPL પોઈન્ટ ટેબલ ફરી એકવાર બદલાઈ ગયું છે. CSKએ સતત બીજી જીત સાથે મોટી છલાંગ લગાવી છે. તો KKR હજુ સુધી એક પણ મેચ જીતી શક્યું નથી અને હાલમાં તે ટેબલમાં સૌથી નીચે છે. તો મુંબઈ ઇન્ડિયન્સને પણ નુકસાન થયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-points-table-update-after-csk-vs-kkr-match-know-chennai-super-kings-rank-473182 ",
-    "time": "2026-04-15T10:26:22.000Z"
   },
   {
     "cat": "Sports",
