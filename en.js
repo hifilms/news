@@ -1,12 +1,120 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Will pendulum effect hold true for Krishnagiri constituency this election?",
+    "desc": "Krishnagiri has consistenty oscillated between the DMK and AIADMK in hustings since 1984, with the incumbent being an AIADMK MLA; the challenger this time around is from Congress; lack of rail connectivity, grievances of mango farmers and a toll plaza in the wrong place are some of the issues the electorate seeks answers to",
+    "img": "https://th-i.thgim.com/public/incoming/qhp1dc/article70875242.ece/alternates/LANDSCAPE_1200/51CP_krishnagiri-01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/will-pendulum-effect-hold-true-for-krishnagiri-constituency-this-election/article70874463.ece",
+    "time": "2026-04-19T20:39:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mannargudi constituency set for a tight contest",
+    "desc": "A predominantly agrarian, the constituency in the heart of the Cauvery delta, continues to suffer from a lack of infrastructure, with several panchayats still without proper link roads, complicating the movement of produce and isolating villages.",
+    "img": "https://th-i.thgim.com/public/incoming/yzqglp/article70873800.ece/alternates/LANDSCAPE_1200/1002023246.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/mannargudi-set-for-a-tight-contest-as-rajaa-banks-on-development-pitch/article70873870.ece",
+    "time": "2026-04-19T19:58:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ponneri constituency residents yet to reap benefits of industrial development",
+    "desc": "They demand that a government women’s college be constructed either in Ponneri or Minjur as students have to go to colleges in and around Chennai city for higher education; residents also want Ponneri Taluk to be carved out from Tiruvallur district and be made a separate district",
+    "img": "https://th-i.thgim.com/public/incoming/5ofyb4/article70831821.ece/alternates/LANDSCAPE_1200/PONNERI%20CONSTITUENCY%20BUS%20STOP1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ponneri-constituency-residents-yet-to-reap-benefits-of-industrial-development/article70826416.ece",
+    "time": "2026-04-19T19:33:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer's old video on fatherhood goes viral as DP and him expecting 2nd baby",
+    "desc": "Deepika Padukone and Ranveer Singh have announced their second pregnancy, expecting their second child in April 2026. The couple, who welcomed their daughter Dua Padukone Singh in September 2024, shared the news via Instagram. An old video of Ranveer expressing his excitement about fatherhood has resurfaced following the announcement.",
+    "img": "https://static.toiimg.com/photo/msid-130377636,imgsize-63320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/as-deepika-padukone-ranveer-singh-announce-second-pregnancy-an-old-clip-of-the-dhurandhar-actor-talking-about-fatherhood-daddy-duty-goes-viral/articleshow/130377638.cms",
+    "time": "2026-04-19T19:31:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Will Panneerselvam turn over a new leaf under the ‘Rising Sun’ in Bodinayakkanur constituency?",
+    "desc": "While his supporters are at pains to highlight the circumstances that compelled him to switch to the DMK from the AIADMK, the ruling party workers are yet to embrace him in a big way. He is also facing criticism in his native Theni district for not bringing in big infrastructure projects",
+    "img": "https://th-i.thgim.com/public/incoming/ezv920/article70882160.ece/alternates/LANDSCAPE_1200/10216_5_4_2026_18_9_29_1_05_04_2026_VEERAPANDI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/will-panneerselvam-turn-over-a-new-leaf-under-the-rising-sun-in-bodinayakkanur/article70853733.ece",
+    "time": "2026-04-19T19:31:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' singer Jasmine Sandlas opens up on her battle with alcoholism",
+    "desc": "Singer Jasmine Sandlas candidly shared her struggle with alcoholism, revealing she turned to drinking at 23 to cope with life's challenges and childhood heartbreaks. She detailed hitting rock bottom, feeling profound loneliness despite company, and ultimately finding strength for recovery with her family's unwavering support, especially her mother's love.",
+    "img": "https://static.toiimg.com/photo/msid-130377466,imgsize-32710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-singer-jasmine-sandlas-opens-up-on-her-battle-with-alcoholism-i-drank-more-than-i-should-have-and-i-regret-it/articleshow/130377249.cms",
+    "time": "2026-04-19T19:15:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vandalism of Ambedkar statue in Ghaziabad sparks outrage",
+    "desc": "A SWAT team has also reached the spot and is working on the matter. CCTV footage from the area is being examined. Strict action will be taken against those involved, says DCP, Rural Ghaziabad, Surendra Nath Tiwari.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/vandalism-of-ambedkar-statue-sparks-protest-in-ghaziabad-suspects-detained/article70880934.ece",
+    "time": "2026-04-19T19:14:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Effluent discharge a major issue in Veerapandi constituency",
+    "desc": "The constituency primarily houses farmers cultivating millets, sugarcane, flowers, and vegetables. The main support for farming is the Thirumanimutharu, a river in which effluents are discharged from illegal dyeing units, are flowing in this river. forcing farmers to use groundwater and other water sources.",
+    "img": "https://th-i.thgim.com/public/incoming/1ntljw/article70882152.ece/alternates/LANDSCAPE_1200/9868_3_4_2026_13_9_45_3_THIRUMANIMUTHARU_3JPG.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/effluent-discharge-into-river-thirumanimutharu-a-major-issue-in-veerapandi/article70822972.ece",
+    "time": "2026-04-19T19:09:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Alangulam constituency lacks job opportunities, vegetable storage facilities",
+    "desc": "Even though literacy rate in this constituency has gone up considerably over the years and the educationally qualified youth are leaving for other areas for employment, their parents are still languishing in beedi rolling industry",
+    "img": "https://th-i.thgim.com/public/incoming/z47aac/article70882144.ece/alternates/LANDSCAPE_1200/2315_4_4_2026_21_5_22_1_BEEDI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/sitting-mla-takes-on-former-mp-in-alangulam/article70823330.ece",
+    "time": "2026-04-19T19:01:42.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Impact Player and the Domino effect",
     "desc": "This is the fourth year of competition with the innovation; while there has been a strident appeal from the playing community to dispense with it, the IPL is insistent that there will be no rethink until after the 2027 edition",
     "img": "https://th-i.thgim.com/public/incoming/8wibxu/article70882104.ece/alternates/LANDSCAPE_1200/_DSC5193A.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/impact-player-and-the-domino-effect/article70882096.ece",
-    "time": "2026-04-19T18:34:00.000Z"
+    "time": "2026-04-19T18:51:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Despite a slew of infrastructure projects, Poonamallee constituency residents point to gaps in civic amenities",
+    "desc": "They demand a functional underground sewer system, motorable interior roads, and reliable drinking water supply; despite housing the Chembarambakkam lake, the area continues to face water supply issues; DMK MLA Krishnaswamy says most poll promises have been met",
+    "img": "https://th-i.thgim.com/public/incoming/xnlvpn/article70827841.ece/alternates/LANDSCAPE_1200/1559_4_4_2026_19_31_19_2_TRAFFICPOVAIBUSSTAND1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/despite-a-slew-of-infrastructure-projects-poonamallee-constituency-residents-point-to-gaps-in-civic-amenities/article70822893.ece",
+    "time": "2026-04-19T18:50:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIADMK looks to defend Melur and Usilampatti, its southern strongholds",
+    "desc": "Intra-party conflicts, which eroded the party’s core base in the southern districts, do not have much impact on these two constituencies in Madurai; while the AIADMK has won from the Melur Assembly segment five times consecutively since 2001, Usilampatti has rarely elected a DMK candidate",
+    "img": "https://th-i.thgim.com/public/incoming/aqapdi/article70882130.ece/alternates/LANDSCAPE_1200/9864_19_4_2026_21_57_59_2__DSC0365.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-looks-to-defend-melur-and-usilampatti-its-southern-strongholds/article70881192.ece",
+    "time": "2026-04-19T18:42:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Jaw dropping'- Shreyas Iyer stunned by Arya–Connolly destruction show",
+    "desc": "Priyansh Arya and Cooper Connolly's explosive 182-run partnership powered Punjab Kings to a 54-run victory over Lucknow Super Giants. Arya smashed 93 off 37 balls, while Connolly hit 87 off 45, setting a massive target. Captain Shreyas Iyer lauded their exceptional intent and composure, highlighting the team's environment that allows young batters to express themselves freely.",
+    "img": "https://static.toiimg.com/photo/msid-130376808,imgsize-151364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jaw-dropping-shreyas-iyer-stunned-by-priyansh-arya-cooper-connolly-destruction-show/articleshow/130376820.cms",
+    "time": "2026-04-19T18:31:27.000Z"
   },
   {
     "cat": "Politics",
@@ -72,15 +180,6 @@ const newsData_en = [
     "time": "2026-04-19T17:19:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "R.K. Nagar constituency residents still await safe drinking water",
-    "desc": "The narrow arterial roads, congested bylanes, closely built row houses and busy market areas - all hallmarks of a north Chennai locality - still define the area, even as the introduction of metro rail connectivity has noticeably changed the area’s landscape.",
-    "img": "https://th-i.thgim.com/public/incoming/9xn6nz/article70881916.ece/alternates/LANDSCAPE_1200/DJI_20260409111737_0041_D.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/metro-rail-and-bridges-in-place-but-rk-nagar-residents-still-wait-for-safe-drinking-water/article70820360.ece",
-    "time": "2026-04-19T16:44:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "MI desperate for a win over high-flying GT",
     "desc": "The five-time champion has just a solitary victory in five games while the home team is on a three-match winning run; the visiting side to take a call on Rohit only on match day; Gill, Buttler hold the key for the host",
@@ -99,15 +198,6 @@ const newsData_en = [
     "time": "2026-04-19T16:41:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Modi says Trinamool prevented passage of women’s reservation Bill; Mamata reminds him it was passed in 2023",
-    "desc": "The Prime Minister addresses four public meetings in Bankura, Purulia, Jhargram and Paschim Medinipur and calls the Trinamool ‘anti-tribal’. The Chief Minister hits back, citing raids at Kolkata police officer in charge of her security and asks whether there is a plan to eliminate her",
-    "img": "https://th-i.thgim.com/public/incoming/pdpu6x/article70880266.ece/alternates/LANDSCAPE_1200/20260419016L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-pm-modi-rally-in-bankura-bishnupur/article70880253.ece",
-    "time": "2026-04-19T16:36:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "5 Horror movies based on real-life events: 'The Conjuring', 'The Exorcist' and more",
     "desc": "The scariest horror films are not the ones with the most elaborate monsters or the most expensive special effects. They are the ones that end with the words based on a true story, because nothing the imagination can conjure is quite as disturbing as knowing that something like this actually happened to real people in the real world. Here are five horror films rooted in events that were genuinely, terrifyingly real.",
@@ -117,15 +207,6 @@ const newsData_en = [
     "time": "2026-04-19T16:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "West Bengal BJP leader Dinesh Trivedi expected to be new Indian envoy to Bangladesh",
-    "desc": "The timing of appointment is crucial as Bangladesh’s new government needs support to deal with acute energy crisis that has erupted in the country because of U.S.-Israel war on Iran and the Iranian chokehold of the Strait of Hormuz",
-    "img": "https://th-i.thgim.com/public/incoming/77ythk/article70881815.ece/alternates/LANDSCAPE_1200/PTI03_14_2026_000173B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal-bjp-leader-dinesh-trivedi-expected-to-be-new-indian-envoy-to-bangladesh/article70881700.ece",
-    "time": "2026-04-19T16:08:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Pakistan says it will repay remaining $1.5 billion loan to UAE by April 23 amid IMF funding hopes",
     "desc": "Pakistan aims to repay the remaining $1.5 billion loan to the UAE by April 23, following a $2 billion repayment. This comes as the country anticipates a $1.2 billion disbursement from the IMF after recent negotiations. Saudi Arabia has also extended a $3 billion deposit maturity, depositing $2 billion to bolster reserves.",
@@ -133,24 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/pakistan-says-it-will-repay-remaining-1-5-billion-loan-to-uae-by-april-23-amid-imf-funding-hopes/articleshow/130373074.cms",
     "time": "2026-04-19T15:49:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amid speculation of I-PAC suspending Bengal operations, Mamata says will engage its members in her party",
-    "desc": "As reports claim that the political consultancy firm’s team in the State has been asked to go on leave for 20 days, the Trinamool Congress says the claims is ‘completely baseless’ and ‘a deliberate attempt to create confusion on the ground’",
-    "img": "https://th-i.thgim.com/public/incoming/uzy4u5/article70881308.ece/alternates/LANDSCAPE_1200/PTI04_19_2026_000171B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/tmc-dismisses-reports-of-i-pac-halting-wb-operations-mamata-says-party-to-give-jobs-to-staffers-if-needed/article70881278.ece",
-    "time": "2026-04-19T15:28:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala ignores proposal for Ombudsman for students of self-financing institutions",
-    "desc": "Panel constituted in August 2017 following the death of Jishnu Pronoy, who was found dead in a hostel of the Nehru College of Engineering and Research Centre at Pampadi in Thrissur on January 6, 2017, had proposed the formation of district- and State-level Ombudsmen",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-ignores-proposal-for-ombudsman-for-students-of-self-financing-institutions/article70880855.ece",
-    "time": "2026-04-19T15:25:23.000Z"
   },
   {
     "cat": "Business",
@@ -297,24 +360,6 @@ const newsData_en = [
     "time": "2026-04-19T11:16:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Jaipur nikah, Kashmir trail: How LeT's 'Khargosh' used fake passport to flee India",
-    "desc": "A top Lashkar-e-Taiba operative, Umer Harris alias “Khargosh,” has reportedly fled India to Saudi Arabia using a forged passport. The operative, originally from Khyber Pakhtunkhwa, married under an assumed identity in Jaipur, which aided his passport application. This revelation highlights significant loopholes in India's verification systems.",
-    "img": "https://static.toiimg.com/photo/msid-130368949,imgsize-73012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jaipur-nikah-kashmir-trail-how-lets-khargosh-used-fake-passport-to-flee-india/articleshow/130368745.cms",
-    "time": "2026-04-19T11:05:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bengal’s identity battle heats up as parties 'fish' for votes",
-    "desc": "As the campaign sharpens, the familiar charge of “bohiragoto” has returned to the centre of the political stage, with the All India Trinamool Congress (TMC) reviving a narrative that helped it decisively blunt the rise of the Bharatiya Janata Party (BJP) five years ago. The immediate trigger this time, as seen in the reaction to Leander Paes joining the BJP, shows how quickly the labels are deployed as \"outsider, parachuted, not one of us\".",
-    "img": "https://static.toiimg.com/photo/msid-130368845,imgsize-48574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bohiragoto-vs-bhadralok-bengals-identity-battle-heats-up-as-parties-fish-for-votes/articleshow/130367909.cms",
-    "time": "2026-04-19T10:57:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Eight of top 10 firms add Rs 1.87 lakh cr in mcap; Airtel biggest gainer",
     "desc": "Indian markets concluded the week on a positive note, with the combined market value of the top ten companies surging by over Rs 1.87 lakh crore. Bharti Airtel emerged as the leading gainer, adding Rs 58,831 crore to its valuation. This uptrend was supported by easing geopolitical tensions and a positive risk sentiment.",
@@ -322,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-eight-of-top-10-firms-add-rs-1-87-lakh-cr-in-mcap-airtel-biggest-gainer/articleshow/130368455.cms",
     "time": "2026-04-19T10:41:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Cowardly, hypocritical and fork-tongued': Mamata Banerjee hits back at PM Modi over women’s reservation bill",
-    "desc": "West Bengal CM Mamata Banerjee hit back at PM Modi's criticism regarding the Women's Reservation Bill, accusing him of misleading the nation. She defended her party, TMC, stating its consistent support for women's representation. Banerjee clarified her opposition is to the delimitation exercise, which she believes is a political ploy, and questioned the bill's delayed implementation and linkage to delimitation.",
-    "img": "https://static.toiimg.com/photo/msid-130367771,imgsize-28086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cowardly-hypocritical-and-fork-tongued-mamata-banerjee-hits-back-at-pm-modi-over-womens-reservation-bill/articleshow/130367752.cms",
-    "time": "2026-04-19T10:23:07.000Z"
   },
   {
     "cat": "Sports",
@@ -513,15 +549,6 @@ const newsData_en = [
     "time": "2026-04-19T06:49:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Heidi Klum and son Henry Samuel attend LACMA event",
-    "desc": "During the glamorous LACMA opening gala, the dynamic duo of Heidi Klum and her son Henry Samuel turned heads with their fashionable appearances. Heidi dazzled in an eye-catching sequined fishnet gown, while Henry echoed her elegance in a tailored three-piece suit, stepping into the public eye as he embarks on his modeling journey.",
-    "img": "https://static.toiimg.com/photo/msid-130366015,imgsize-126718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/heidi-klum-attends-lacma-opening-gala-son-henry-samuel-makes-rare-appearance-with-mother/articleshow/130366015.cms",
-    "time": "2026-04-19T06:39:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Pilot training gets dearer on costlier jet fuel, weaker rupee",
     "desc": "Aspiring pilots face a steeper climb as jet fuel prices surge and the rupee weakens, pushing Commercial Pilot Licence (CPL) costs in India to Rs 60-70 lakh. Training abroad now incurs 15-16% higher expenses. This financial strain, coupled with long waits for flying hours and jobs, makes the dream of flying increasingly challenging for many.",
@@ -529,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pilot-training-gets-dearer-on-costlier-jet-fuel-weaker-rupee/articleshow/130366011.cms",
     "time": "2026-04-19T06:38:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay backs Wamiqa against Aishwarya and Katrina comparisons",
-    "desc": "Akshay Kumar teams up with Wamiqa Gabbi in Priyadarshan’s horror‑comedy Bhooth Bangla, defending her against comparisons with Aishwarya Rai and Katrina Kaif and praising her distinct journey in cinema. Wamiqa hits back at such labels with humour, while the film, co‑starring Rajpal Yadav, Paresh Rawal, Jisshu Sengupta and Tabu, has grossed around Rs 35 crore domestically.",
-    "img": "https://static.toiimg.com/photo/msid-130365821,imgsize-22922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-backs-wamiqa-gabbi-against-aishwarya-rai-bachchan-and-katrina-kaif-comparisons-she-has-her-own-identity/articleshow/130365821.cms",
-    "time": "2026-04-19T06:13:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fan's 'black magic' act during IPL match; CSK star falls next ball",
-    "desc": "A Sunrisers Hyderabad fan's alleged 'black magic' ritual involving a lemon coincided with Shivam Dube's dismissal, sparking debate online. SRH secured a 10-run victory over Chennai Super Kings, with captain Ishan Kishan praising his young bowlers' execution despite feeling his team was short on runs. SRH next faces Delhi Capitals.",
-    "img": "https://static.toiimg.com/photo/msid-130365819,imgsize-66492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/caught-on-cam-fans-black-magic-act-during-srh-vs-csk-match-shivam-dube-falls-next-ball/articleshow/130365802.cms",
-    "time": "2026-04-19T06:13:00.000Z"
   },
   {
     "cat": "Entertainment",
