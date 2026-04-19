@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rajasthan opt to bat first in Kolkata",
+    "desc": "Kolkata Knight Riders and Rajasthan Royals are all set to face off in the 28th game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the Eden Gardens in Kolkata, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-rr-live-cricket-score-rajasthan-aim-to-get-back-to-winning-ways-against-struggling-kolkata-2026-04-19-1038079",
+    "time": "2026-04-19T09:30:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Really proud': Michael Carrick hails his squad after Manchester United clinch crucial victory over Chelsea",
+    "desc": "Manchester United clinched an important victory in the Premier League, defeating arch-rivals Chelsea 0-1 away from home. The two sides met at Stamford Bridge in London, and coming on the back of a loss, Michael...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/really-proud-michael-carrick-hails-his-squad-after-manchester-united-clinch-crucial-victory-over-chelsea-2026-04-19-1038076",
+    "time": "2026-04-19T09:10:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Irfan Pathan names Vaibhav Sooryavanshi's biggest hurdle in upcoming clash against KKR",
+    "desc": "Kolkata Knight Riders will host Rajasthan Royals in game 28 of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the Eden Gardens in Kolkata on April 19, and with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-names-vaibhav-sooryavanshi-s-biggest-hurdle-in-upcoming-clash-against-kkr-2026-04-19-1038073",
+    "time": "2026-04-19T08:28:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI chief selector Ajit Agarkar gets contract extension till June 2027",
+    "desc": "In a major development for the BCCI (Board of Control for Cricket in India), the board has come forward and decided to extend the contract of former India cricketer Ajit Agarkar as the chief selector...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-chief-selector-ajit-agarkar-gets-contract-extension-till-june-2027-2026-04-19-1038070",
+    "time": "2026-04-19T07:33:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Head-to-head record between two teams ahead IPL 2026 game 28",
     "desc": "The stage is set for the 28th game of the ongoing IPL (Indian Premier League) 2026. Kolkata Knight Riders will take on Rajasthan Royals at the Eden Gardens in Kolkata on April 19, and the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/eshan-nitish-and-sakib-shine-as-srh-halt-csks-revival-in-hyderabad-2026-04-18-1038034",
     "time": "2026-04-18T18:17:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma breaks Virender Sehwag's historic IPL record, falls little short of all-time feat",
-    "desc": "Sunrisers Hyderabad star batter Abhishek Sharma has shattered a huge IPL record during his team's clash against Chennai Super Kings at the Rajiv Gandhi International Stadium, Hyderabad on Saturday, April 18. Abhishek was back to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-virender-sehwags-historic-ipl-record-falls-little-short-of-all-time-feat-2026-04-18-1038026",
-    "time": "2026-04-18T16:19:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch WWE PLE live on TV and stream online in India?",
-    "desc": "WWE’s biggest spectacle returns this weekend as WrestleMania takes over Allegiant Stadium across two nights, April 19 and 20. The event promises a stacked lineup, with major titles, celebrity appearances and long-running rivalries set to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/wrestlemania-2026-when-and-where-to-watch-wwe-ple-live-on-tv-and-stream-online-in-india-2026-04-18-1038025",
-    "time": "2026-04-18T16:02:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tim David falls 16 balls short of all-time IPL record, achieves special milestone in RCB vs DC clash",
-    "desc": "Royal Challengers Bengaluru swashbuckling middle-order batter Tim David achieved a special milestone during his team's IPL 2026 clash against the Delhi Capitals on Saturday, April 18, but missed out on an all-time record. The hard-hitting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tim-david-falls-16-balls-short-of-all-time-ipl-record-achieves-special-milestone-in-rcb-vs-dc-clash-2026-04-18-1038024",
-    "time": "2026-04-18T15:31:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra reveals problems that led to split with coach Jan Zelezny",
-    "desc": "Neeraj Chopra has opened up on the factors behind his disappointing outing at the 2025 World Championships in Tokyo, where he finished eighth and brought an end to a long-standing streak of top-two finishes in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-reveals-problems-that-led-to-split-with-coach-jan-zelezny-2026-04-18-1038023",
-    "time": "2026-04-18T15:27:19.000Z"
   }
 ];
