@@ -1,12 +1,147 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Nicole Kidman recalls learning of her mother’s demise",
+    "desc": "At the Venice Film Festival, Nicole Kidman faced an unthinkable moment of sorrow when she received the news of her mother's death just hours before accepting her Best Actress accolade. In the midst of grief, she drew upon her mother’s enduring spirit, embracing the powerful reminder to rise above adversity.",
+    "img": "https://static.toiimg.com/photo/msid-130364251,imgsize-118100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicole-kidman-recalls-learning-of-her-mothers-demise-during-the-venice-film-festival-a-part-of-my-existence/articleshow/130364251.cms",
+    "time": "2026-04-19T02:13:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zayn Malik and Louis Tomlinson’s fights continue",
+    "desc": "Reports suggest a physical altercation between former One Direction members Zayn Malik and Louis Tomlinson, allegedly stemming from a remark about Tomlinson's late mother. Malik reportedly punched Tomlinson, causing injuries. Following this, Tomlinson unfollowed Malik on social media. The incident has led to the overnight cancellation of their planned Netflix docuseries.",
+    "img": "https://static.toiimg.com/photo/msid-130364181,imgsize-80730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/zayn-malik-and-louis-tomlinsons-feud-continues-the-latter-unfollows-sideways-singer-in-latest-development/articleshow/130364181.cms",
+    "time": "2026-04-19T01:58:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Judy Greer recalls when Matthew McConaughey helped her pay for a valet",
+    "desc": "Judy Greer, famous for her role in '13 Going on 30', recently shared a comical story from her time as an up-and-coming actress. While on the set of 'The Wedding Planner', her wallet was bare, leaving her stranded without valet money.",
+    "img": "https://static.toiimg.com/photo/msid-130363948,imgsize-160304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/judy-greer-recalls-being-mortified-when-the-wedding-planner-co-star-matthew-mcconaughey-helped-her-pay-for-a-valet/articleshow/130363948.cms",
+    "time": "2026-04-19T01:37:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I don't deserve a place in team': Pakistan star's shocking admission",
+    "desc": "Mohammad Rizwan acknowledged his recent poor form after his team's PSL defeat, admitting he doesn't deserve his Pakistan place based on current performance. He emphasised self-criticism and accountability, stating he's not afraid of tough questions or retirement if his performance doesn't improve, but remains determined to fight through the slump.",
+    "img": "https://static.toiimg.com/photo/msid-130364107,imgsize-55318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-deserve-a-place-in-pakistan-team-pakistan-star-mohammad-rizwans-shocking-admission-after-psl-slump/articleshow/130364100.cms",
+    "time": "2026-04-19T01:32:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bhooth Bangla' earns over Rs 60 cr worldwide in just two days",
+    "desc": "Akshay Kumar and Wamiqa Gabbi's horror-comedy 'Bhooth Bangla' has made a strong debut, grossing Rs 42 crore in India and Rs 60.50 crore worldwide within its first two days. Directed by Priyadarshan, the film marks a reunion for the director and Akshay Kumar after 15 years.",
+    "img": "https://static.toiimg.com/photo/msid-130364080,imgsize-65512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-2-akshay-kumars-film-earns-over-rs-60-cr-worldwide-giving-dhurandhar-2-competition/articleshow/130364081.cms",
+    "time": "2026-04-19T01:23:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actress Nathalie Baye passes away 77",
+    "desc": "A New Era' and numerous other films, has passed away at 77. Baye, a fixture in cinema since the 1970s, succumbed to complications from Lewy body dementia. Her illustrious career spanned decades, leaving an indelible mark on both French and Hollywood cinema.",
+    "img": "https://static.toiimg.com/photo/msid-130364018,imgsize-101274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/downton-abbey-a-new-era-star-nathalie-baye-passes-away-at-77/articleshow/130364018.cms",
+    "time": "2026-04-19T01:13:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We scored 4 runs in 2 overs': Gaikwad's honest take after CSK's loss to SRH",
+    "desc": "Sunrisers Hyderabad secured a thrilling 10-run victory over Chennai Super Kings, thanks to exceptional death bowling from Eshan Malinga and Nitish Kumar Reddy. Abhishek Sharma's explosive fifty set a strong foundation for SRH's 194/9. This win propels Hyderabad to fourth in the standings, while CSK slips to seventh after a challenging chase.",
+    "img": "https://static.toiimg.com/photo/msid-130364025,imgsize-50262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/we-scored-4-runs-in-2-overs-ruturaj-gaikwads-honest-take-after-csks-loss-to-srh/articleshow/130364026.cms",
+    "time": "2026-04-19T01:11:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nadia Farès passes away at 57",
+    "desc": "The film industry mourns the loss of Nadia Farès, the cherished French actress who passed away at 57 after a tragic week-long coma triggered by cardiac arrest. Celebrated for her role in 'The Crimson River,' she had previously opened up about her health challenges, notably a brain aneurysm and heart surgeries.",
+    "img": "https://static.toiimg.com/photo/msid-130363929,imgsize-191516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-crimson-river-star-nadia-fars-passes-away-at-57-after-a-week-long-coma/articleshow/130363929.cms",
+    "time": "2026-04-19T00:52:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump vs Pope",
+    "desc": "The 70-year-old pontiff, leader of 1.4 billion Catholics, has spoken out against the American President over the U.S.-Israel war on Iran, saying that in a world ‘being ravaged by a handful of tyrants’, peace ‘is everyone’s responsibility’",
+    "img": "https://th-i.thgim.com/public/news/national/tqdewf/article70878555.ece/alternates/LANDSCAPE_1200/Trump_PopeLeo_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-vs-pope-leo-xiv-two-americans-two-paths/article70878562.ece",
+    "time": "2026-04-19T00:33:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a first, migratory honey bees get ‘warm womb’ to stay back in winters in Kashmir",
+    "desc": "The Council of Scientific and Industrial Research-Indian Institute of Integrative Medicine (CSIR-IIIM), Pulwama, has been working on climate resilient honeybees to allow beekeepers to avoid having to transfer them to the plains to survive the winter",
+    "img": "https://th-i.thgim.com/public/incoming/ttwjwh/article70879924.ece/alternates/LANDSCAPE_1200/18-%20In%20a%20first%20migratory%20honey%20bees%20get%20warm%20womb%20to%20stay%20back%20in%20winters%20in%20Kashmir-18-04-2026.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/in-a-first-migratory-honey-bees-get-warm-womb-to-stay-back-in-winters-in-kashmir/article70877603.ece",
+    "time": "2026-04-19T00:30:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bhuvneshwar back for India? Ex-cricketer makes bold claim",
+    "desc": "Former India cricketer Mohammad Kaif praised Bhuvneshwar Kumar for his superb 3/26 spell that reduced Delhi Capitals to 18/3 while defending 176. Kaif also hinted at a possible India comeback. However, DC recovered through fifties from KL Rahul and Tristan Stubbs, with David Miller finishing the chase after RCB posted 175/8.",
+    "img": "https://static.toiimg.com/photo/msid-130358004,imgsize-35610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-bhuvneshwar-kumar-back-for-india-former-cricketer-makes-bold-claim/articleshow/130357808.cms",
+    "time": "2026-04-19T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' mints close to Rs 1,750 cr worldwide",
+    "desc": "The Revenge' is defying expectations, crossing Rs 1,750 crore worldwide. Despite a slow start to its fifth week and competition from 'Bhoot Bangla', the film saw a significant surge on its fifth Saturday. Its India net collection has now surpassed Rs 1,110 crore, making it a major box office success.",
+    "img": "https://static.toiimg.com/photo/msid-130363855,imgsize-87736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-31-ranveer-singhs-film-mints-close-to-rs-1750-cr-worldwide-amid-competition-from-bhooth-bangla/articleshow/130363842.cms",
+    "time": "2026-04-19T00:25:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Enjoy everything’- Sangakkara’s message to Vaibhav Sooryavanshi after golden duck",
+    "desc": "Rajasthan Royals' coach Kumar Sangakkara urges patience for 15-year-old Vaibhav Sooryavanshi, despite his explosive IPL start and recent setback. Sangakkara highlights Sooryavanshi's dedication and game sense, emphasizing that failures are part of cricket. He also praises Dhruv Jurel's impactful batting at number three and expresses confidence in captain Riyan Parag's form, even if runs aren't reflecting it yet.",
+    "img": "https://static.toiimg.com/photo/msid-130354024,imgsize-142948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-enjoy-everything-sangakkaras-message-to-vaibhav-sooryavanshi-after-golden-duck/articleshow/130353889.cms",
+    "time": "2026-04-18T23:30:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran fully closes Strait of Hormuz over U.S. blockade",
+    "desc": "Iran's Revolutionary Guard navy warned vessels not to move from their anchorage in the Persian Gulf and the Sea of Oman, as “approaching the Strait of Hormuz will be considered as cooperation with the enemy\"",
+    "img": "https://th-i.thgim.com/public/incoming/auxiij/article70879045.ece/alternates/LANDSCAPE_1200/Iran_War_2_171.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-fully-closes-strait-of-hormuz-over-us-blockade/article70879044.ece",
+    "time": "2026-04-18T23:16:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Is India’s Maoist insurgency finally over?",
+    "desc": "What remains of the CPI (Maoist) after recent setbacks? How did security operations weaken the Maoist movement so sharply? What internal divisions and ideological shifts weakened the organisation? Is there any chance of a Maoist revival in the future?",
+    "img": "https://th-i.thgim.com/public/incoming/l8opy5/article70878704.ece/alternates/LANDSCAPE_1200/AFP_A6AH34P.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/is-indias-maoist-insurgency-finally-over/article70877470.ece",
+    "time": "2026-04-18T21:49:51.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "What led to the Noida workers’ protest?",
     "desc": "What are the key demands of Noida workers? Why are workers dissatisfied with current wages? How are minimum wages determined in Noida? How has the U.P. government responded? What steps has the government taken to address workers’ concerns?",
     "img": "https://th-i.thgim.com/public/incoming/maz4tu/article70878708.ece/alternates/LANDSCAPE_1200/PTI04_13_2026_000141B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/uttar-pradesh/what-led-to-the-noida-workers-protest/article70877478.ece",
-    "time": "2026-04-18T21:16:37.000Z"
+    "time": "2026-04-18T21:46:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -100,6 +235,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "T.N. Assembly election: flames of DMK’s black flag protest burnt down BJP’s saffron flag, asserts Stalin",
+    "desc": "He says the BJP’s criticism that the DMK is stalling the passage of the women’s reservation Bill will not hold water since the Bill was adopted during 2023 with the support of the Dravidian major",
+    "img": "https://th-i.thgim.com/public/incoming/vid6a7/article70878808.ece/alternates/LANDSCAPE_1200/9869_18_4_2026_20_56_53_1_IMG_20260418_WA0204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-flames-of-dmks-black-flag-protest-burnt-down-bjps-saffron-flag-asserts-stalin/article70878320.ece",
+    "time": "2026-04-18T19:14:19.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Kattumannarkoil, an agrarian constituency where basic demands of farmers remain unfulfilled",
     "desc": "Given the caste matrix of the constituency, where there are 2.24 lakh voters with a strong mix of Dalits and Vanniyars, it is the consolidation of these major groups that holds the key. The constituency also has a good concentration of Muslims and has traditionally favoured candidates of the DMK, the Congress and the VCK",
     "img": "https://th-i.thgim.com/public/incoming/46d5q6/article70793280.ece/alternates/LANDSCAPE_1200/2786_28_2_2024_20_30_15_1_VEERANAM1.JPEG",
@@ -189,15 +333,6 @@ const newsData_en = [
     "time": "2026-04-18T18:12:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Opposition to move fresh motion seeking removal of CEC Gyanesh Kumar",
-    "desc": "The Opposition parties are drafting a fresh motion citing new allegations against Chief Election Commissioner Gyanesh Kumar; the earlier motion seeking his removal on March 12 was rejected by the chair of both the Lok Sabha and Rajya Sabha",
-    "img": "https://th-i.thgim.com/public/incoming/may3cq/article70878777.ece/alternates/LANDSCAPE_1200/20260315174L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/opposition-to-move-fresh-motion-seeking-removal-of-cec-gyanesh-kumar/article70878328.ece",
-    "time": "2026-04-18T17:44:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Chahal’s dig at Kohli’s like on LizLaz’s photos goes viral",
     "desc": "A single-word comment from Yuzvendra Chahal—“Algorithm”—has added a humorous twist to the buzz around Virat Kohli’s recent Instagram activity, turning it into a full-blown social media moment. The latest chatter began after Kohli briefly liked a January post by LizLaz, a German-South African influencer and avid Royal Challengers Bengaluru supporter. Opening up about the unexpected attention, LizLaz said her reaction was mixed.",
@@ -205,33 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahals-algorithm-dig-at-virat-kohlis-instagram-like-on-influencer-lizlazs-photos-goes-viral/articleshow/130359322.cms",
     "time": "2026-04-18T17:36:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Iran envoy says US backtracked on agreed 10-point plan, stalling peace talks",
-    "desc": "Iran's Supreme Leader representative in India, Abdul Majeed Hakeem Ilahi, stated that recent Iran-US peace talks failed after Washington allegedly deviated from an agreed-upon 10-point plan. Ilahi claimed the US initially accepted the proposal but shifted its demands during negotiations in Pakistan, leading to the breakdown.",
-    "img": "https://static.toiimg.com/photo/msid-130359220,imgsize-813625.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iran-envoy-says-us-backtracked-on-agreed-10-point-plan-stalling-peace-talks/articleshow/130359121.cms",
-    "time": "2026-04-18T17:26:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump vs Pope",
-    "desc": "The 70-year-old pontiff, leader of 1.4 billion Catholics, has spoken out against the American President over the U.S.-Israel war on Iran, saying that in a world ‘being ravaged by a handful of tyrants’, peace ‘is everyone’s responsibility’",
-    "img": "https://th-i.thgim.com/public/news/national/tqdewf/article70878555.ece/alternates/LANDSCAPE_1200/Trump_PopeLeo_Art.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-vs-pope-leo-xiv-two-americans-two-paths/article70878562.ece",
-    "time": "2026-04-18T17:11:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alec Baldwin’s net worth in 2026",
-    "desc": "Despite ongoing legal challenges, Alec Baldwin's impressive Hollywood career, spanning acclaimed film and television roles like '30 Rock,' has secured him a substantial net worth of $70 million by 2026. His philanthropic efforts, including a $14 million donation from a Capital One deal, further highlight his impact beyond acting. Baldwin's legacy is firmly established.",
-    "img": "https://static.toiimg.com/photo/msid-130349511,imgsize-91782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alec-baldwins-net-worth-in-2026-inside-his-usd-70-million-fortune-amid-rust-legal-troubles/articleshow/130349511.cms",
-    "time": "2026-04-18T16:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -250,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-abhishek-sharma-scripts-history-for-srh-becomes-fastest-ever-to-/articleshow/130356782.cms",
     "time": "2026-04-18T15:49:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Dreams of 'nari shakti' crushed despite our best effort;' PM Modi apologises to nation's women- Top quotes",
-    "desc": "Prime Minister Modi expressed deep regret over the women's reservation bill's defeat, apologizing to the nation's women. He accused opposition parties like Congress, DMK, TMC, and SP of prioritizing self-interest over national progress and women's empowerment, highlighting their alleged celebration of the bill's failure as an insult to women's dignity",
-    "img": "https://static.toiimg.com/photo/msid-130356896,imgsize-44664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dreams-of-nari-shakti-crushed-despite-our-best-effort-pm-modi-apologises-to-nations-women/articleshow/130356325.cms",
-    "time": "2026-04-18T15:09:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,15 +396,6 @@ const newsData_en = [
     "time": "2026-04-18T14:43:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Troubles DMK, Congress to see ordinary women rise’: PM Modi at Coimbatore rally",
-    "desc": "Prime Minister Narendra Modi expressed pain and anger over the failure of the women's reservation bill, accusing the DMK, Congress, and their allies of engaging in \"hatred and petty politics.\" He stated that the DMK \"harms women\" and \"doesn't stand with women in parliament,\" predicting a response for their \"anti-women stand\"",
-    "img": "https://static.toiimg.com/photo/msid-130355576,imgsize-29100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/troubles-dmk-congress-to-see-ordinary-women-rise-pm-modi-at-coimbatore-rally/articleshow/130355437.cms",
-    "time": "2026-04-18T14:14:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Women move on'",
     "desc": "The Revenge, is finally enjoying a phase of recognition that has been a long time coming. Amid the appreciation, the actor also opened up about a deeply personal chapter from his past and how it continues to shape his emotional boundaries today—especially when it comes to marriage.",
@@ -315,15 +405,6 @@ const newsData_en = [
     "time": "2026-04-18T13:59:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'They made a big mistake': PM Modi directs ministers to expose opposition's 'anti-women' stand",
-    "desc": "Prime Minister Modi asserted that opposition parties will face repercussions for not backing the women's reservation bill, urging ministers to highlight their \"anti-women\" stance. He reiterated the government's commitment to implement the reservation by 2029, accusing the opposition of a \"big mistake\" and attempting to cover up their actions after the bill's defeat in Lok Sabha.",
-    "img": "https://static.toiimg.com/photo/msid-130355130,imgsize-1074576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/they-made-a-big-mistake-pm-modi-directs-ministers-to-expose-oppositions-anti-women-stand/articleshow/130354958.cms",
-    "time": "2026-04-18T13:34:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Archana flags 13–14 hour shifts, no lunch breaks on sets",
     "desc": "The conversation around long working hours and lack of basic amenities on film sets is refusing to die down, with more actors sharing first-hand experiences from the ground. The cast of Toaster—Rajkummar Rao, Sanya Malhotra, Abhishek Banerjee and Archana Puran Singh—recently weighed in, shedding light on how even basic needs are sometimes overlooked during shoots.",
@@ -331,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singh-flags-1314-hour-shifts-no-lunch-breaks-lack-of-basic-facilities-on-film-sets-kanjoosi-is-a-mentality/articleshow/130354495.cms",
     "time": "2026-04-18T13:20:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Allahabad high court stays FIR order against Rahul Gandhi in dual citizenship case",
-    "desc": "The Allahabad high court has temporarily halted its order for an FIR against Rahul Gandhi concerning alleged dual citizenship. The court emphasized the need to hear the accused before any decision. This follows an earlier directive to register a case based on claims of concealed British citizenship during company incorporation. The probe's transfer to a central agency was also permitted.",
-    "img": "https://static.toiimg.com/photo/msid-130354175,imgsize-930719.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/allahabad-high-court-stays-fir-order-against-rahul-gandhi-in-dual-citizenship-case/articleshow/130354158.cms",
-    "time": "2026-04-18T12:47:16.000Z"
   },
   {
     "cat": "Sports",
@@ -367,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-tim-david-denies-single-falls-next-ball-as-costly-blunder-triggers-rcb-slide/articleshow/130352689.cms",
     "time": "2026-04-18T12:11:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hollywood's biggest Summer releases of 2026",
-    "desc": "Summer 2026 is not holding anything back. From long-awaited sequels to brand new blockbusters, the months ahead are packed with the kind of releases that remind you why going to the cinema still feels like an event. Here is every major film hitting screens this summer and what to expect from each one.",
-    "img": "https://static.toiimg.com/photo/msid-130350110,imgsize-142680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-2-to-the-odyssey-and-more-hollywoods-biggest-2026-summer-releases/photostory/130350110.cms",
-    "time": "2026-04-18T12:00:00.000Z"
   },
   {
     "cat": "Sports",
@@ -432,15 +495,6 @@ const newsData_en = [
     "time": "2026-04-18T10:14:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vidyut chants Gayatri Mantra at 'Street Fighter' trailer launch",
-    "desc": "At CinemaCon 2026, Vidyut Jammwal shattered expectations by stepping into the iconic shoes of Dhalsim for the eagerly awaited Hollywood 'Street Fighter' film. Before the crowd experienced the electrifying trailer, Jammwal took a moment to share his spiritual journey, reciting Vedic mantras, including the revered Gayatri Mantra. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130350742,imgsize-98898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vidyut-jammwal-chants-gayatri-mantra-at-cinemacon-2026-steals-the-show-at-the-street-fighter-trailer-launch-with-jason-momoa-and-roman-reigns/articleshow/130350742.cms",
-    "time": "2026-04-18T09:46:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why are RCB wearing green jersey against DC at M. Chinnaswamy?",
     "desc": "Defending champions Royal Challengers Bengaluru are making a powerful statement off the field by wearing their signature green jerseys, crafted from recycled materials, against Delhi Capitals. RCB, the world's only carbon-neutral T20 franchise, continues its commitment to sustainability, aiming for carbon positivity.",
@@ -450,15 +504,6 @@ const newsData_en = [
     "time": "2026-04-18T09:37:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bhooth Bangla box office Day 2 [LIVE]: Akshay's film set to cross Rs 30 cr",
-    "desc": "'Bhooth Bangla', featuring Akshay Kumar, has made an impressive debut, earning Rs 12.25 crore on its first day and an extra Rs 3.45 crore on the second, totaling Rs 19.245 crore. This horror-comedy rejuvenates the classic magic of director Priyadarshan’s film-making after a 16-year gap and poignantly honors the late Asrani, marking his final appearance on screen. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130350492,imgsize-92364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-2-live-akshay-kumar-paresh-rawal-rajpal-yadav-tabu-wamiqa-gabbi-starrer-and-priyadarshan-directed-horror-comedy-set-to-cross-rs-30-crore-on-the-first-saturday/articleshow/130350492.cms",
-    "time": "2026-04-18T09:26:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ACs, TVs, smartphones to get more expensive? Here's why consumer electronics may cost more again this month",
     "desc": "Consumer electronics prices are set to rise again by April's end, marking the third increase in four months. Manufacturers are passing on sustained cost pressures from plastics, memory chips, and currency fluctuations to consumers. This wave of hikes, with appliances and smartphones seeing significant jumps, could strain demand.",
@@ -466,24 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/acs-tvs-smartphones-to-get-more-expensive-heres-why-consumer-electronics-may-cost-more-again-this-month/articleshow/130349988.cms",
     "time": "2026-04-18T09:09:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 31 [LIVE]: Ranveer Singh film eyes 'Pushpa 2's domestic collection",
-    "desc": "The Revenge' also known as 'Dhurandhar: The Revenge' has cemented its status as a cultural phenomenon, effectively redefining the \"spy universe\" in Indian cinema. As of April 18, 2026, the film is completing its first month in theaters, having shattered nearly every domestic record held by previous blockbusters. Directed by Aditya Dhar, the 229-minute espionage masterpiece is now setting its sights on an even more audacious target: the all-time Indian domestic box office record of Rs. 1,234.1 crore net currently held by Allu Arjun’s 'Pushpa 2: The Rule.'",
-    "img": "https://static.toiimg.com/photo/msid-130350099,imgsize-87318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-31-live-ranveer-singh-r-madhavan-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjun-film-eyes-pushpa-2s-lifetime-domestic-collection-of-rs-1234-crore-as-worldwide-gross-climbs-to-rs-1742-crore-on-fifth-saturday/articleshow/130350099.cms",
-    "time": "2026-04-18T08:54:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth's 'Jailer 2' OTT rights sealed for a record price",
-    "desc": "Jailer 2 has secured a record-breaking OTT deal worth Rs 160 crore. This is the biggest digital rights acquisition in Tamil cinema history. The Rajinikanth starrer is set for a 2026 release. The film promises a grand scale and mass entertainment. Pre-release business is strong, indicating high expectations for the sequel.",
-    "img": "https://static.toiimg.com/photo/msid-130349940,imgsize-149606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-ott-rights-sealed-rajinikanth-starrer-sets-a-new-record-for-a-kollywood-film/articleshow/130349940.cms",
-    "time": "2026-04-18T08:33:07.000Z"
   },
   {
     "cat": "Business",
@@ -520,24 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/myanmar-release-of-suu-kyi-top-ally-spurs-small-democracy-hope/article70876693.ece",
     "time": "2026-04-18T07:15:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSL drama! Shaheen Shah Afridi loses temper, smashes bat in outburst",
-    "desc": "Lahore Qalandars captain Shaheen Shah Afridi displayed visible anger after being dismissed for a duck against Quetta Gladiators in the PSL 2026. His frustration, shown by slamming his bat, highlights the defending champions' inconsistent campaign and mounting pressure as they fight for playoff contention.",
-    "img": "https://static.toiimg.com/photo/msid-130348863,imgsize-28212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-drama-shaheen-shah-afridi-loses-temper-smashes-bat-in-outburst-watch/articleshow/130348866.cms",
-    "time": "2026-04-18T07:09:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 players battle to watch in today's IPL 2026 match between SRH and CSK",
-    "desc": "Sunrisers Hyderabad's young pacers Praful Hinge and Sakib Hussain aim to replicate their stellar performance against Chennai Super Kings. Key battles include Sanju Samson vs. Hinge, Travis Head vs. Anshul Kamboj, Heinrich Klaasen vs. Noor Ahmad, Abhishek Sharma vs. Mukesh Choudhary, and Ruturaj Gaikwad vs. Eshan Malinga, promising an exciting IPL encounter.",
-    "img": "https://static.toiimg.com/photo/msid-130348783,imgsize-1233213.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/sanju-samson-to-praful-hinge-5-players-battle-to-watch-in-todays-ipl-2026-match-between-srh-and-csk/articleshow/130348728.cms",
-    "time": "2026-04-18T07:03:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -577,24 +586,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "PSL turns comedy show as replacement player shares playing XI with original player",
-    "desc": "A bizarre selection mix-up in the Pakistan Super League saw a replacement player feature alongside the one he was meant to replace. Quetta Gladiators mistakenly included both Dinesh Chandimal and Bevon Jacobs in their Playing XI due to a late illness to Tom Curran, causing social media outrage.",
-    "img": "https://static.toiimg.com/photo/msid-130347509,imgsize-1254859.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-turns-comedy-show-as-replacement-player-shares-playing-xi-with-original-player/articleshow/130347442.cms",
-    "time": "2026-04-18T05:20:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Virat Kohli play as Impact Player again today vs DC?",
-    "desc": "Royal Challengers Bengaluru faces Delhi Capitals with a key question surrounding Virat Kohli's role. After an ankle injury, Kohli played as an Impact Player against LSG, scoring 49. While expected to be fit, his workload management could see him reprise the Impact Player role. RCB, in strong form, aims for a top spot.",
-    "img": "https://static.toiimg.com/photo/msid-130346979,imgsize-43922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-virat-kohli-play-as-impact-player-today-vs-delhi-capitals/articleshow/130346982.cms",
-    "time": "2026-04-18T04:26:54.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Will MS Dhoni play today against SRH? Latest update on CSK star",
     "desc": "MS Dhoni will not play today against Sunrisers Hyderabad as he continues to recover from a calf strain. While his rehabilitation is progressing well, CSK is taking a cautious approach. He is expected to return for upcoming matches against Mumbai Indians or Gujarat Titans.",
     "img": "https://static.toiimg.com/photo/msid-130346583,imgsize-52870.cms",
@@ -619,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/russian-oil-sanctions-us-extends-waiver-for-cargoes-already-at-sea/articleshow/130345925.cms",
     "time": "2026-04-18T03:00:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' hits Rs 1,742 cr; matches 'Pushpa 2' record",
-    "desc": "Dhurandhar 2, starring Ranveer Singh, has achieved a remarkable global milestone, crossing Rs 1,742 crore worldwide in just 30 days. While domestic collections are slowing, the film's extraordinary cumulative run places it as the second-highest-grossing Indian film globally, trailing only Baahubali 2. This achievement equals Pushpa 2's lifetime total in a fraction of the time.",
-    "img": "https://static.toiimg.com/photo/msid-130345564,imgsize-173084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-30-ranveer-singh-starrer-finally-matches-allu-arjuns-pushpa-2-record-hits-rs-1742-crore-mark-at-worldwide-box-office/articleshow/130345552.cms",
-    "time": "2026-04-18T01:13:52.000Z"
   },
   {
     "cat": "Sports",
@@ -655,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/how-imperious-javokhir-sindarov-staked-his-claim-with-a-singular-candidates-run/article70874009.ece",
     "time": "2026-04-17T19:04:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul’s homecoming meets RCB’s Chinnaswamy dominance",
-    "desc": "KL Rahul returns to his familiar M Chinnaswamy Stadium, aiming to regain form against his former team, RCB. Delhi Capitals face a formidable RCB unit, strong at home, and need significant improvements in both their bowling and batting to compete. RCB, led by a resurgent Rajat Patidar, are in dominant form.",
-    "img": "https://static.toiimg.com/photo/msid-130339393,imgsize-101532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahuls-homecoming-meets-rcbs-chinnaswamy-dominance/articleshow/130339380.cms",
-    "time": "2026-04-17T17:16:26.000Z"
   },
   {
     "cat": "World",
