@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Bangladesh raises fuel prices as conflict in West Asia drives up costs",
+    "desc": "Officials ⁠said the increase was unavoidable ⁠as rising crude prices, supply chain disruptions and higher freight and insurance costs pushed up import expenses in ​recent weeks, particularly after ‌oil prices have jumped during the seven-week-old war on Iran.",
+    "img": "https://th-i.thgim.com/public/incoming/3kpzqe/article70879966.ece/alternates/LANDSCAPE_1200/2026-04-07T061937Z_1965876311_RC2QJKAGA8OW_RTRMADP_3_IRAN-CRISIS-BANGLADESH-ENERGY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-raises-fuel-prices-as-conflict-in-west-asia-drives-up-costs/article70879952.ece",
+    "time": "2026-04-19T05:19:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charlize Theron talks about her childhood",
+    "desc": "Famed actress Charlize Theron bravely recounted a harrowing childhood incident where her mother fatally shot her father in self-defense. The star revealed the traumatic event occurred in 1992 when her father, in a drunken rage, broke into their home and began shooting. Theron emphasized the importance of sharing such stories to help others feel less alone.",
+    "img": "https://static.toiimg.com/photo/msid-130365102,imgsize-51458.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/apex-star-charlize-theron-recalls-her-mother-shooting-her-father-to-keep-them-safe/articleshow/130365102.cms",
+    "time": "2026-04-19T04:47:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You're allowed to fail': Sangakkara's big message to Sooryavanshi",
+    "desc": "Rajasthan Royals coach Kumar Sangakkara urged batting prodigy Vaibhav Sooryavanshi to embrace both success and failure, emphasizing the importance of enjoying his game. Sangakkara's advice came after the 15-year-old experienced his first failure of the season, getting out on the first ball. The coach stressed that freedom and enjoyment are paramount for the young cricketer.",
+    "img": "https://static.toiimg.com/photo/msid-130365091,imgsize-41360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-youre-allowed-to-fail-sangakkaras-big-message-to-vaibhav-sooryavanshi/articleshow/130365076.cms",
+    "time": "2026-04-19T04:43:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK's Michael Hussey shares major concern",
+    "desc": "Chennai Super Kings face a significant injury blow as young batter Ayush Mhatre suffered a hamstring tear during their match against Sunrisers Hyderabad. Mhatre was seen limping badly after pulling up midway through a run, and batting coach Michael Hussey confirmed the injury looks \"really bad\" and could be a \"big loss\" for the team.",
+    "img": "https://static.toiimg.com/photo/msid-130365075,imgsize-1082899.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ayush-mhatre-injury-update-csk-batting-coach-michael-hussey-shares-major-update/articleshow/130365077.cms",
+    "time": "2026-04-19T04:42:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Crisis-hit KKR brace for tough Rajasthan Royals test",
+    "desc": "Kolkata Knight Riders are struggling at the halfway stage of the IPL with no wins, facing a daunting task to turn their season around. Skipper Ajinkya Rahane's leadership and confusing batting order decisions, particularly for Cameron Green, have drawn criticism. They now face a Rajasthan Royals side looking to rebound after a recent loss.",
+    "img": "https://static.toiimg.com/photo/msid-130365003,imgsize-63038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-crisis-hit-kolkata-knight-riders-brace-for-tough-rajasthan-royals-test/articleshow/130364925.cms",
+    "time": "2026-04-19T04:26:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nearly 7 lakh voters added to electoral rolls days before Phase 1 polling",
+    "desc": "West Bengal's electoral rolls have seen an addition of nearly seven lakh voters ahead of assembly elections. While the Election Commission has not yet released detailed demographic data, including first-time voters or gender-wise breaks, the total electorate now stands at over 6.82 crore. This comes after a Special Intensive Revision report indicated significant net deletions of voters in the state.",
+    "img": "https://static.toiimg.com/photo/msid-130364947,imgsize-827829.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-assembly-elections-nearly-7-lakh-voters-added-to-electoral-rolls-days-before-phase-1-polling/articleshow/130364881.cms",
+    "time": "2026-04-19T04:19:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uttar Pradesh implements advanced unified command system under Jal Jeevan Mission",
+    "desc": "The system, managed through the Unified Command and Control System (UCCS), will enable real-time monitoring and control of water supply systems, covering parameters related to water quality, distribution efficiency, and asset performance across rural areas.",
+    "img": "https://th-i.thgim.com/public/incoming/ekwvme/article70880020.ece/alternates/LANDSCAPE_1200/vz05water.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-implements-advanced-unified-command-system-under-jal-jeevan-mission/article70878236.ece",
+    "time": "2026-04-19T04:15:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump vs Pope",
+    "desc": "The 70-year-old pontiff, leader of 1.4 billion Catholics, has spoken out against the American President over the U.S.-Israel war on Iran, saying that in a world ‘being ravaged by a handful of tyrants’, peace ‘is everyone’s responsibility’",
+    "img": "https://th-i.thgim.com/public/news/national/tqdewf/article70878555.ece/alternates/LANDSCAPE_1200/Trump_PopeLeo_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-vs-pope-leo-xiv-two-americans-two-paths/article70878562.ece",
+    "time": "2026-04-19T03:57:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK climbs 7th spot in points table despite loss against SRH",
+    "desc": "Chennai Super Kings climbed to seventh in the IPL points table despite a narrow 10-run loss to Sunrisers Hyderabad. The defeat, by a small margin, significantly improved CSK's net run rate, allowing them to overtake Lucknow Super Giants. SRH successfully defended 194, with strong bowling performances limiting CSK's chase.",
+    "img": "https://static.toiimg.com/photo/msid-130364785,imgsize-94328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/csk-climbs-7th-spot-in-points-table-despite-loss-against-srh-heres-how/articleshow/130364763.cms",
+    "time": "2026-04-19T03:54:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's next T20I captain? 'Self-aware' Shreyas Iyer breathing down Suryakumar's neck",
+    "desc": "Shreyas Iyer, a seasoned IPL captain, is making a strong case for a return to the Indian T20I squad. Reunited with coach Ricky Ponting at Punjab Kings, Iyer's consistent form and leadership potential are drawing attention. He's seen as a strong contender to replace Suryakumar Yadav, with selectors weighing his immediate impact and future captaincy prospects.",
+    "img": "https://static.toiimg.com/photo/msid-130364776,imgsize-34360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/indias-next-t20-captain-self-aware-shreyas-iyer-breathing-down-suryakumars-neck/articleshow/130364760.cms",
+    "time": "2026-04-19T03:52:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Christina Applegate’s friends worry about her",
+    "desc": "Beloved actress Christina Applegate's close circle is understandably worried after her recent hospitalization linked to her battle with Multiple Sclerosis. Sources reveal that she is encountering serious obstacles, and those around her are acutely aware of the fragile state of her health. Nevertheless, Applegate is said to keep her spirits high, embodying a remarkable resilience that inspires her supporters.",
+    "img": "https://static.toiimg.com/photo/msid-130364684,imgsize-101498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/friends-of-christina-applegate-worried-for-her-following-her-hospitalization-her-battle-with-ms-has-been-treacherous/articleshow/130364684.cms",
+    "time": "2026-04-19T03:48:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "UK’s Royal Ballet and Opera head thanks Timothée Chalamet",
+    "desc": "Timothée Chalamet's remarks on opera and ballet, originally met with backlash, have sparked a renaissance in ticket sales for London's prestigious Royal Ballet and Opera. Alex Beard, the organization's head, expressed his gratitude, noting a remarkable increase in both engagement and immediate ticket purchases following the actor's candid comments.",
+    "img": "https://static.toiimg.com/photo/msid-130364362,imgsize-64936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cheers-timmy-uks-royal-ballet-and-opera-head-thanks-timothe-chalamet-for-immediate-boost-to-ticket-sales/articleshow/130364362.cms",
+    "time": "2026-04-19T03:43:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Is India’s Maoist insurgency finally over?",
+    "desc": "What remains of the CPI (Maoist) after recent setbacks? How did security operations weaken the Maoist movement so sharply? What internal divisions and ideological shifts weakened the organisation? Is there any chance of a Maoist revival in the future?",
+    "img": "https://th-i.thgim.com/public/incoming/l8opy5/article70878704.ece/alternates/LANDSCAPE_1200/AFP_A6AH34P.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/is-indias-maoist-insurgency-finally-over/article70877470.ece",
+    "time": "2026-04-19T03:23:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tristan Stubbs hails David Miller's ice-cool finish as 'bread and butter' after win over RCB",
+    "desc": "David Miller's finishing prowess secured a dramatic last-over victory for Delhi Capitals against Royal Challengers Bengaluru. Chasing 176, DC were guided by Tristan Stubbs' 60 and Miller's quickfire 22*, who sealed the win with crucial sixes. The win ended RCB's home winning streak.",
+    "img": "https://static.toiimg.com/photo/msid-130364565,imgsize-229732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-tristan-stubbs-credits-david-millers-ice-cool-finish-as-bread-and-butter-after-win-over-rcb/articleshow/130364561.cms",
+    "time": "2026-04-19T03:18:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Relationship very strong’: Iran after India summons envoy over firing on its vessels in Hormuz",
+    "desc": "Iran's top representative in India, Dr. Abdul Majid Hakeem Ilahi, addressed a shooting incident involving India-flagged vessels in the Strait of Hormuz, emphasizing strong bilateral ties. He stated he had no information about the event but expressed hope for its peaceful resolution, advocating for peace in the region.",
+    "img": "https://static.toiimg.com/photo/msid-130364506,imgsize-671855.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/relationship-very-strong-iran-after-india-summons-envoy-over-firing-on-its-vessels-in-hormuz/articleshow/130364353.cms",
+    "time": "2026-04-19T03:09:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Vaishali didn't even see chess for 15 days': A miraculous story behind Candidates glory",
+    "desc": "Vaishali Rameshbabu’s journey to the Women’s Candidates title wasn’t easy. After a poor run in Chennai shattered her confidence, she even considered skipping the Grand Swiss. A crucial two-hour call with Karthikeyan Murali changed her mind. A mental reset helped her win the event, regain form, and now she prepares to face world champion Ju Wenjun.",
+    "img": "https://static.toiimg.com/photo/msid-130358554,imgsize-80706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/vaishali-didnt-even-see-chess-for-15-days-a-miraculous-story-behind-candidates-glory/articleshow/130358285.cms",
+    "time": "2026-04-19T03:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul reveals 'Virat Kohli, Phil Salt weren't happy'",
+    "desc": "Delhi Capitals, led by KL Rahul, secured a thrilling six-wicket victory over Royal Challengers Bengaluru. Despite an early collapse, Rahul anchored the chase with a fifty, supported by Tristan Stubbs and David Miller's explosive finish. The win halted RCB's home winning streak, with bowlers finding assistance on a tricky M. Chinnaswamy pitch.",
+    "img": "https://static.toiimg.com/photo/msid-130364396,imgsize-1248422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-reveals-virat-kohli-phil-salt-werent-happy-after-dcs-win-over-rcb/articleshow/130364387.cms",
+    "time": "2026-04-19T02:48:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran fully closes Strait of Hormuz over U.S. blockade",
+    "desc": "Iran's Revolutionary Guard navy warned vessels not to move from their anchorage in the Persian Gulf and the Sea of Oman, as “approaching the Strait of Hormuz will be considered as cooperation with the enemy\"",
+    "img": "https://th-i.thgim.com/public/incoming/auxiij/article70879045.ece/alternates/LANDSCAPE_1200/Iran_War_2_171.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-fully-closes-strait-of-hormuz-over-us-blockade/article70879044.ece",
+    "time": "2026-04-19T02:48:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kavya Maran's wild celebration after SRH down CSK",
+    "desc": "Sunrisers Hyderabad secured a thrilling 10-run victory over Chennai Super Kings, propelling them into the top four of the IPL 2026 standings. Strong death bowling and crucial half-centuries from Abhishek Sharma and Heinrich Klaasen were key to the win. Despite a strong chase from CSK, SRH's bowlers held their nerve to clinch the crucial points.",
+    "img": "https://static.toiimg.com/photo/msid-130364286,imgsize-54672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-caught-on-camera-kavya-marans-wild-celebration-after-srh-down-csk-watch/articleshow/130364274.cms",
+    "time": "2026-04-19T02:19:40.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Nicole Kidman recalls learning of her mother’s demise",
     "desc": "At the Venice Film Festival, Nicole Kidman faced an unthinkable moment of sorrow when she received the news of her mother's death just hours before accepting her Best Actress accolade. In the midst of grief, she drew upon her mother’s enduring spirit, embracing the powerful reminder to rise above adversity.",
@@ -72,15 +243,6 @@ const newsData_en = [
     "time": "2026-04-19T00:52:20.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump vs Pope",
-    "desc": "The 70-year-old pontiff, leader of 1.4 billion Catholics, has spoken out against the American President over the U.S.-Israel war on Iran, saying that in a world ‘being ravaged by a handful of tyrants’, peace ‘is everyone’s responsibility’",
-    "img": "https://th-i.thgim.com/public/news/national/tqdewf/article70878555.ece/alternates/LANDSCAPE_1200/Trump_PopeLeo_Art.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-vs-pope-leo-xiv-two-americans-two-paths/article70878562.ece",
-    "time": "2026-04-19T00:33:18.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "In a first, migratory honey bees get ‘warm womb’ to stay back in winters in Kashmir",
     "desc": "The Council of Scientific and Industrial Research-Indian Institute of Integrative Medicine (CSIR-IIIM), Pulwama, has been working on climate resilient honeybees to allow beekeepers to avoid having to transfer them to the plains to survive the winter",
@@ -115,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-enjoy-everything-sangakkaras-message-to-vaibhav-sooryavanshi-after-golden-duck/articleshow/130353889.cms",
     "time": "2026-04-18T23:30:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran fully closes Strait of Hormuz over U.S. blockade",
-    "desc": "Iran's Revolutionary Guard navy warned vessels not to move from their anchorage in the Persian Gulf and the Sea of Oman, as “approaching the Strait of Hormuz will be considered as cooperation with the enemy\"",
-    "img": "https://th-i.thgim.com/public/incoming/auxiij/article70879045.ece/alternates/LANDSCAPE_1200/Iran_War_2_171.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-fully-closes-strait-of-hormuz-over-us-blockade/article70879044.ece",
-    "time": "2026-04-18T23:16:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Is India’s Maoist insurgency finally over?",
-    "desc": "What remains of the CPI (Maoist) after recent setbacks? How did security operations weaken the Maoist movement so sharply? What internal divisions and ideological shifts weakened the organisation? Is there any chance of a Maoist revival in the future?",
-    "img": "https://th-i.thgim.com/public/incoming/l8opy5/article70878704.ece/alternates/LANDSCAPE_1200/AFP_A6AH34P.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/is-indias-maoist-insurgency-finally-over/article70877470.ece",
-    "time": "2026-04-18T21:49:51.000Z"
   },
   {
     "cat": "Politics",
@@ -297,24 +441,6 @@ const newsData_en = [
     "time": "2026-04-18T18:42:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Inadequate infrastructure plagues Madhavaram constituency amid rapid urbanisation",
-    "desc": "Madhavaram constituency struggles with lack of infrastructure, related problems such as solid waste management and piped drinking water supply. Establishing a Tech City and storm-water drains, developing the lakes, and improving the civic infrastructure will remain top priorities, says MLA",
-    "img": "https://th-i.thgim.com/public/incoming/noy78n/article70791298.ece/alternates/LANDSCAPE_1200/DJI_20251225154537_0076_D.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/inadequate-infrastructure-plagues-madhavaram-constituency-amid-rapid-urbanisation/article70784013.ece",
-    "time": "2026-04-18T18:29:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Encroachments, traffic congestion remain core issues in Anna Nagar constituency",
-    "desc": "Unregulated parking is one of the major issues faced by Anna Nagar residents; they say industrial effluents are being discharged into Otteri Nullah waterway, leading to groundwater contamination and demand the shifting of all mobile eateries to non-residential areas in the constituency",
-    "img": "https://th-i.thgim.com/public/incoming/nkbmez/article70785598.ece/alternates/LANDSCAPE_1200/Traffic_5.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-encroachments-traffic-congestion-remain-core-issues-in-anna-nagar/article70783864.ece",
-    "time": "2026-04-18T18:27:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "SRH bowlers hold nerve, choke CSK in final overs to seal 10-run thriller",
     "desc": "Sunrisers Hyderabad secured a tense 10-run victory over Chennai Super Kings, with Eshan Malinga and Shivang Kumar's exceptional death-overs bowling proving decisive. Despite a strong chase from CSK, SRH's bowlers consistently took wickets, restricting them to 184 for 8. Earlier, Abhishek Sharma's explosive 59 and Heinrich Klaasen's 59 guided SRH to 194 for 9.",
@@ -387,15 +513,6 @@ const newsData_en = [
     "time": "2026-04-18T14:45:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Tim David scripts history, becomes second-fastest player after Russell to...",
-    "desc": "Australia’s Tim David became the second-fastest to 1,000 IPL runs, reaching the mark in 560 balls during RCB’s clash against Delhi Capitals. Despite his milestone, RCB posted 175/8 and lost by six wickets. KL Rahul (57) and Tristan Stubbs (60*) led DC’s chase, while David Miller finished with late sixes to seal the win.",
-    "img": "https://static.toiimg.com/photo/msid-130356446,imgsize-73444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rcb-batter-tim-david-scripts-history-becomes-second-fastest-player-after-andre-russell-to-/articleshow/130356119.cms",
-    "time": "2026-04-18T14:43:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Women move on'",
     "desc": "The Revenge, is finally enjoying a phase of recognition that has been a long time coming. Amid the appreciation, the actor also opened up about a deeply personal chapter from his past and how it continues to shape his emotional boundaries today—especially when it comes to marriage.",
@@ -414,15 +531,6 @@ const newsData_en = [
     "time": "2026-04-18T13:20:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Harbhajan drops big take, calls Ashish Nehra 'a football coach'",
-    "desc": "After two early losses, Gujarat Titans bounced back with three straight wins to reach fourth in IPL 2026. Coach Ashish Nehra’s leadership has been key, earning praise from Harbhajan Singh for his energy and team bonding. Shubman Gill’s 86 and Kagiso Rabada’s 3/29 sealed their latest win. Despite modest NRR, GT aim to continue momentum against Mumbai Indians.",
-    "img": "https://static.toiimg.com/photo/msid-130354041,imgsize-57082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-harbhajan-singh-drops-big-take-calls-ashish-nehra-a-football-coach/articleshow/130353506.cms",
-    "time": "2026-04-18T12:40:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Akshay talks about Rs 8–9L per day fee during 'Jaani Dushman'",
     "desc": "Ek Anokhi Kahani', revealing that he raked in an astonishing Rs 8-9 lakh daily. As he celebrates the launch of his latest venture 'Bhooth Bangla', this nostalgic glimpse into the past has fans buzzing with excitement. Read the full article to know more in detail.",
@@ -430,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-opens-up-about-rs-89-lakh-per-day-fee-during-jaani-dushman-era/articleshow/130353820.cms",
     "time": "2026-04-18T12:36:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tim David denies single, falls next ball as costly blunder triggers RCB slide",
-    "desc": "Tim David's refusal of a single proved costly as Royal Challengers Bengaluru faltered in their chase against Delhi Capitals. David's dismissal for 26 off 17 balls, after turning down a run, marked a significant shift in momentum. Earlier, a disciplined bowling effort from Delhi restricted RCB to 175 for 8, despite a strong start from Phil Salt.",
-    "img": "https://static.toiimg.com/photo/msid-130352697,imgsize-1290435.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-tim-david-denies-single-falls-next-ball-as-costly-blunder-triggers-rcb-slide/articleshow/130352689.cms",
-    "time": "2026-04-18T12:11:36.000Z"
   },
   {
     "cat": "Sports",
@@ -460,30 +559,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Yuzi Chahal files defamation case against Taniya Chatterjee",
-    "desc": "A controversy has erupted online, involving cricketer Yuzvendra Chahal and actress Taniya Chatterjee, which has now escalated to legal proceedings. Chatterjee's revelation of receiving a private message from Chahal on Instagram triggered a massive wave of reactions, leading to intense scrutiny and trolling. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130352463,imgsize-109082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahal-files-defamation-case-against-taniya-chatterjee-over-viral-cute-dm-clip-report/articleshow/130352463.cms",
-    "time": "2026-04-18T11:22:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "French film star Nathalie Baye dead at 77, says family",
     "desc": "Nathalie Baye, a stalwart of French cinema, starred in some 80 films and took home the best actress Cesar — France’s equivalent of the Oscars — four times, including three years running from 1981 to 1983",
     "img": "https://th-i.thgim.com/public/news/national/uo7605/article70877256.ece/alternates/LANDSCAPE_1200/AFP__20260418__A89M4KF__v1__HighRes__FilesFranceCinemaCelebritiesObit.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/french-film-star-nathalie-baye-dead-at-77-says-family/article70877243.ece",
     "time": "2026-04-18T10:40:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rahul Roy spotted in Mumbai looking strikingly different",
-    "desc": "In a heartwarming sight for fans, Rahul Roy, the legendary star of 'Aashiqui', returned to the spotlight with a rare appearance in Mumbai. Seen strolling through Versova, his relaxed outfit and timeless charisma reminded everyone of the magic he brought to the screen. The beloved 1990 film, 'Aashiqui', continues to enchant music lovers, its songs echoing through generations. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130351325,imgsize-121300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aashiqui-star-rahul-roy-spotted-in-mumbai-looking-strikingly-different-fans-react-to-the-actors-new-long-hair-avatar-watch/articleshow/130351325.cms",
-    "time": "2026-04-18T10:28:12.000Z"
   },
   {
     "cat": "World",
@@ -493,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pakistan-army-chief-munir-concludes-three-day-iran-visit/article70876894.ece",
     "time": "2026-04-18T10:14:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are RCB wearing green jersey against DC at M. Chinnaswamy?",
-    "desc": "Defending champions Royal Challengers Bengaluru are making a powerful statement off the field by wearing their signature green jerseys, crafted from recycled materials, against Delhi Capitals. RCB, the world's only carbon-neutral T20 franchise, continues its commitment to sustainability, aiming for carbon positivity.",
-    "img": "https://static.toiimg.com/photo/msid-130350573,imgsize-1316070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-are-rcb-wearing-green-jersey-against-dc-at-m-chinnaswamy/articleshow/130350519.cms",
-    "time": "2026-04-18T09:37:45.000Z"
   },
   {
     "cat": "Business",
@@ -520,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/saturday-bank-operations-are-banks-open-on-april-18-2026-check-details/articleshow/130349095.cms",
     "time": "2026-04-18T07:49:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Mission is to lift trophy': Shreyas Iyer's bold statement as PBKS eye maiden title",
-    "desc": "Punjab Kings captain Shreyas Iyer emphasizes a present-focused approach, aiming to win the IPL 2026 trophy by taking one game at a time. The team, currently unbeaten in four matches, prioritizes self-improvement over external pressure. Following last season's final loss, PBKS displayed a dominant performance against Mumbai Indians, chasing down 195 with Prabhsimran Singh and Iyer leading the charge.",
-    "img": "https://static.toiimg.com/photo/msid-130349411,imgsize-570716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-mission-is-to-lift-trophy-shreyas-iyers-bold-statement-as-pbks-eye-maiden-title/articleshow/130349365.cms",
-    "time": "2026-04-18T07:48:34.000Z"
   },
   {
     "cat": "Business",
@@ -558,15 +621,6 @@ const newsData_en = [
     "time": "2026-04-18T06:07:59.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "5 players battle to watch in today's match of RCB vs DC",
-    "desc": "Royal Challengers Bengaluru, enjoying a strong IPL 2026 season, host Delhi Capitals on April 18th. RCB's potent batting and balanced bowling face a mixed DC side aiming to rebound. Key player battles, including Kohli vs. Axar Patel and Rahul vs. Bhuvneshwar Kumar, are set to ignite this crucial encounter.",
-    "img": "https://static.toiimg.com/photo/msid-130348003,imgsize-1400074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-kohli-to-kuldeep-yadav-5-players-battle-to-watch-in-todays-ipl-2026-match-between-rcb-and-dc/articleshow/130347924.cms",
-    "time": "2026-04-18T05:59:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Iran rejects 'traditional toll' but plans fees to secure Hormuz",
     "desc": "Iran is planning to implement new transit fees to regulate ship movement through the Strait of Hormuz, requiring prior coordination with Iranian authorities for passage. While \"friendly\" vessels will be permitted, \"hostile military vessels\" from the US and Israel will be denied entry. Iran asserts its sole control over the strait's management and security.",
@@ -585,15 +639,6 @@ const newsData_en = [
     "time": "2026-04-18T05:28:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Will MS Dhoni play today against SRH? Latest update on CSK star",
-    "desc": "MS Dhoni will not play today against Sunrisers Hyderabad as he continues to recover from a calf strain. While his rehabilitation is progressing well, CSK is taking a cautious approach. He is expected to return for upcoming matches against Mumbai Indians or Gujarat Titans.",
-    "img": "https://static.toiimg.com/photo/msid-130346583,imgsize-52870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-ms-dhoni-play-today-against-srh-latest-update-on-csk-legends-return/articleshow/130346574.cms",
-    "time": "2026-04-18T03:40:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street at record high after Trump says ‘Hormuz is open’; Dow jumps over 800 points, Nasdaq up 1.5%",
     "desc": "Global markets surged Friday as easing West Asia tensions spurred a broad risk rally. Wall Street benchmarks hit record highs, led by small-cap stocks, as falling oil prices boosted confidence. Investors anticipate an end to the conflict, with US President Trump expressing optimism for a swift resolution and a deal on uranium.",
@@ -610,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/russian-oil-sanctions-us-extends-waiver-for-cargoes-already-at-sea/articleshow/130345925.cms",
     "time": "2026-04-18T03:00:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘This is what my mother wanted’: Behind Lokesh Sathyanathan’s NCAA-winning 8.21m leap",
-    "desc": "Lokesh Sathyanathan’s 8.21m jump in Fayetteville last month broke his own national record and made him the fourth Indian to win an NCAA Division I title. Now third on India’s all-time list, the feat follows years of injuries and personal loss, with his journey driven by his mother’s last words and his father’s constant presence.",
-    "img": "https://static.toiimg.com/photo/msid-130328406,imgsize-113242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/this-is-what-my-mother-wanted-behind-lokesh-sathyanathans-ncaa-winning-8-21m-leap/articleshow/130328406.cms",
-    "time": "2026-04-18T00:00:00.000Z"
   },
   {
     "cat": "Sports",
@@ -691,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/rbi-pulls-out-2-lakh-crore-transient-liquidity-via-7-day-vrrr-auction/article70873111.ece",
     "time": "2026-04-17T09:10:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pakistan-based LeT's co-founder injured in attack in Lahore",
-    "desc": "Two unidentified armed men riding a motorcycle opened fire on the white car in which Ghazi and Hamza were travelling at Peco Road in Lahore near the TV channel's office. In the attack, Hamza suffered bullet injuries while Ghazi remained unhurt,\" says police",
-    "img": "https://th-i.thgim.com/public/news/national/39aeq6/article70872518.ece/alternates/LANDSCAPE_1200/iStock-1355729100%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pakistan-based-lets-co-founder-injured-in-attack-in-lahore/article70872490.ece",
-    "time": "2026-04-17T07:45:37.000Z"
   },
   {
     "cat": "Tech",

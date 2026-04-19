@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Serge Gnabry's 2025/26 season comes to tragic end with injury, set to miss FIFA World Cup 2026",
+    "desc": "In a major blow to Germany and FC Bayern Munich, the side’s star forward Serge Gnabry has been ruled out of the ongoing season due to a torn adductor injury. The star player is likely...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/serge-gnabry-s-2025-26-season-comes-to-tragic-end-with-injury-set-to-miss-fifa-world-cup-2026-2026-04-19-1038053",
+    "time": "2026-04-19T05:23:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Eden Gardens in Kolkata play?",
+    "desc": "The stage is set for the 28th game of the ongoing IPL (Indian Premier League) 2026. The game sees Kolkata Knight Riders taking on Rajasthan Royals at the Eden Gardens in Kolkata on April 19....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-rr-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-2026-04-19-1038047",
+    "time": "2026-04-19T04:18:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Very good to see': Ishan Kishan opens up on stellar victory against Chennai Super Kings",
+    "desc": "Sunrisers Hyderabad registered an emphatic victory against Chennai Super Kings in the 27th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Rajiv Gandhi International Stadium in Hyderabad on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/very-good-to-see-ishan-kishan-opens-up-on-stellar-victory-against-chennai-super-kings-2026-04-19-1038045",
+    "time": "2026-04-19T03:23:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Eshan, Nitish and Sakib shine as SRH halt CSK's revival in Hyderabad",
     "desc": "Fast bowlers produced some breathtaking spells as Sunrisers Hyderabad halted Chennai Super Kings' revival in the Indian Premier League 2026 on Saturday, April 18. Eshan Malinga, Nitish Kumar Reddy and Sakib Hussain turned out to...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-khaleel-ahmed-not-playing-todays-ipl-2026-clash-for-csk-against-srh-in-hyderabad-2026-04-18-1038016",
     "time": "2026-04-18T14:13:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Pat Cummins playing for SRH in IPL 2026 clash against CSK in Hyderabad?",
-    "desc": "Pat Cummins missed out as Sunrisers Hyderabad host Chennai Super Kings in their sixth match of the Indian Premier League 2026 at the Rajiv Gandhi International Stadium, Hyderabad, on Saturday, April 18. Cummins has returned...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-pat-cummins-playing-for-srh-in-ipl-2026-clash-against-csk-in-hyderabad-2026-04-18-1038015",
-    "time": "2026-04-18T13:52:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is MS Dhoni playing today's IPL 2026 clash for CSK against SRH at Rajiv Gandhi International Stadium?",
-    "desc": "The wait continues for the Chennai Super Kings fans as MS Dhoni is not yet fit enough to return to action. After he travelled with the team to Hyderabad for the clash against SRH, there...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-ms-dhoni-playing-today-s-ipl-2026-clash-for-csk-against-srh-at-rajiv-gandhi-international-stadium-2026-04-18-1038014",
-    "time": "2026-04-18T13:47:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad defeat Chennai Super Kings by 10 runs",
-    "desc": "Having unveiled two exciting pace prospects in Praful Hinge and Sakib Husain, a well-rounded Sunrisers Hyderabad head into their IPL clash against Chennai Super Kings on Saturday with renewed belief. Brought in for experienced campaigners...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-csk-ipl-2026-live-cricket-score-chennai-super-kings-vs-sunrisers-hyderabad-m-chinnaswamy-stadium-bengaluru-latest-match-updates-scorecard-2026-04-18-1038009",
-    "time": "2026-04-18T12:38:52.000Z"
   }
 ];

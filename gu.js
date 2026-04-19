@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "ફિલ્મમાં ઈંટીમેટ સીન શૂટ કરતાં પહેલા સેટ પર કરવામાં આવે ખાસ તૈયારી, જાણો કેવી રીતે શૂટ થાય કિસિંગ સીન",
+    "desc": "મોટાભાગની ફિલ્મોમાં કિસિંગ સીન અને ઈંટીમેટ સીન હોય છે. આ પ્રકારના બોલ્ડ સીનનું શૂટિંગ કરતાં પહેલા ખાસ તૈયારીઓ કરવામાં આવે છે. આ તૈયારીઓ કેવી હોય અને ફિલ્મમાં ઈંટીમેટ સીન કેવી રીતે શૂટ થાય છે ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/before-shooting-an-intimate-scene-actors-do-practice-and-discuss-scene-know-how-kissing-scene-shot-in-film-473792 ",
+    "time": "2026-04-19T03:29:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "&amp;#039;હોર્મુઝ બંધ છે, પાછા જાઓ...&amp;#039;, ભારતીય જહાજને ઈરાની સેનાનો સંદેશ, સામે આવ્યો Audio",
+    "desc": "ખાડી દેશોમાં તણાવ ઓછો થવાનું નામ નથી લઈ રહ્યો. તાજેતરમાં એક ઓડિયો સામે આવ્યો છે, જેમાં ઈરાની સેના એક ભારતીય જહાજને સ્ટ્રેટ ઓફ હોર્મુઝ (Strait of Hormuz) માંથી પસાર થતા રોકી રહી છે. ઈરાને અમેરિકા દ્વારા લાદવામાં આવેલી નાકાબંધીના જવાબમાં આ મહત્વપૂર્ણ જળમાર્ગને ફરીથી બંધ કરવાનો નિર્ણય લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/the-strait-of-hormuz-is-closed-turn-back-iranian-militarys-message-to-indian-ship-audio-surfaces-473791 ",
+    "time": "2026-04-19T03:25:50.000Z"
+  },
+  {
     "cat": "World",
     "title": "ઈરાને ભારતીય તેલ ટેન્કર પર કર્યો ગોળીબાર, બે જહાજો પાછા ફર્યા, જાણો",
     "desc": "ભારતીય નૌકાદળ આ ઘટનાની વિગતો જાણવાનો પ્રયાસ કરી રહ્યું છે, કારણ કે હાલમાં હોર્મુઝ સ્ટ્રેટમાં કોઈ ભારતીય નૌકાદળના જહાજો તૈનાત નથી. ભારત પાસે ઓમાનના અખાતમાં બે વિનાશક જહાજો, એક ફ્રિગેટ અને એક ટેન્કર તૈનાત છે.",
@@ -513,15 +531,6 @@ const newsData_gu = [
     "time": "2026-04-14T11:45:18.000Z"
   },
   {
-    "cat": "World",
-    "title": "ન સોનું, ન ઓઈલ, ન ગેસ... છતાં આ દેશો પાસે છે અબજોની કમાણીની &amp;#039;ખાણ&amp;#039;, જાણો કેવી રીતે માત્ર &amp;#039;ટોલ ટેક્સ&amp;#039; વસૂલીને થઈ રહ્યા છે માલામાલ",
-    "desc": "સ્વેઝ અને પનામા જેવી નહેરોએ ઇજિપ્ત અને પનામા જેવા દેશોને આર્થિક મહાશક્તિ બનાવી દીધા છે. આ દેશો કોઈ પણ ખાસ ઉત્પાદન વગર માત્ર પોતાની ભૌગોલિક સ્થિતિ અને ટોલ ટેક્સ દ્વારા અબજો ડોલરની કમાણી કરી રહ્યા છે. ચાલો આ દેશોનું આર્થિક ગણિત સમજીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/no-gold-no-oil-no-gas-yet-these-countries-have-mines-worth-billions-know-how-they-are-getting-rich-just-by-collecting-toll-tax-473053 ",
-    "time": "2026-04-14T11:22:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "KKRના સ્ટાર બોલર પર લાગ્યો બે વર્ષનો પ્રતિબંધ, જાણો તેને કેમ મળી છે આ સજા",
     "desc": "KKRના સ્ટાર ફાસ્ટ બોલર બ્લેસિંગ મુઝરબાની પર બે વર્ષનો પ્રતિબંધ લાગ્યો છે. IPLમાં મુઝરબાની કોલકાતા ટીમનો સભ્ય છે. ટુર્નામેન્ટ શરૂ થઈ તે પહેલાં તેને ઈજાના રિપ્લેસમેન્ટ તરીકે ટીમમાં સામેલ કરવામાં આવ્યો હતો. મીની-ઓક્શન દરમિયાન કોઈ ટીમે તેને ખરીદ્યો ન હતો. ત્યારે આ લેખમાં જાણીશું કે તેને આ સજા કેમ મળી છે.",
@@ -601,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-on-jio-hotstar-dhurandhar-2-ott-release-date-may-end-of-june-2026-first-week-472319 ",
     "time": "2026-04-10T07:51:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આ વીકેન્ડ ઓટીટી લવર્સ માટે ખાસ, થ્રિલર ફિલ્મ તુ યા મેં થી લઈ કોમેડી ક્રાઈમ સીરીઝ બિગ મિસ્ટેક ઓટીટી પર રિલીઝ",
-    "desc": "શુક્રવાર આવી ગયો અને સાથે જ ઓટીટી પર સ્ટ્રીમ થયેલી નવી ફિલ્મો અને વેબ સીરીઝનું લિસ્ટ પણ આવી ગયું છે. આ વીકેન્ડમાં નેટફ્લિક્સ, હોટસ્ટાર, એમેઝોનના ફિલ્મ અને વેબ સીરીઝના ખજાનામાં શું નવું ઉમેરાયું છે ફટાફટ ચેક કરી લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/new-hindi-film-and-web-series-released-on-ott-10-to-12-april-2026-whats-new-on-ott-this-week-472313 ",
-    "time": "2026-04-10T07:12:09.000Z"
   },
   {
     "cat": "Tech",
