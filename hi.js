@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Rajasthan opt to bat first in Kolkata",
+    "title": "Blessing Muzarabani's manager hits back at PSL ban and trolls: 'Cannot breach contract you never received'",
+    "desc": "Blessing Muzarabani's team has hit back on the two-year ban from the Pakistan Super League and the trolling he has been facing on social media for not featuring in the Pakistani tournament. Muzarabani was among...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/blessing-muzarabanis-manager-hits-back-at-psl-ban-and-trolls-cannot-breach-contract-you-never-received-2026-04-19-1038091",
+    "time": "2026-04-19T12:04:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND-W vs SA-W 2nd T20I LIVE Cricket Score: India look to bounce back in Kingsmead after loss in opener",
+    "desc": "A rusty Indian side will look to fix their batting issues in the death overs and hope for a stronger showing from their pacers as they aim to bounce back against South Africa in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-saw-2nd-t20i-live-cricket-score-india-vs-south-africa-latest-match-updates-scorecard-teams-playing-xis-2026-04-19-1038088",
+    "time": "2026-04-19T11:36:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is there no Formula 1 race today and when is the next one?",
+    "desc": "The Formula 1 has been hit with a month-long hiatus. The series has faced an unexpected halt, and the last race that took place was the Japanese GP on March 29, which was won by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/formula-1/why-is-there-no-formula-1-race-today-and-when-is-the-next-one-2026-04-19-1038087",
+    "time": "2026-04-19T11:08:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SA-W vs IND-W 2nd T20I pitch report: How surface at Kingsmead, Durban is set to play in second game?",
+    "desc": "India women are set to face South Africa women in the second T20I of the five-match series at Kingsmead, Durban, as they look to bounce back from their loss in the opener. The Women in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sa-w-vs-ind-w-2nd-t20i-pitch-report-how-surface-at-kingsmead-durban-is-set-to-play-in-second-game-2026-04-19-1038083",
+    "time": "2026-04-19T10:22:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kolkata in trouble in 156-run chase at Eden Gardens",
     "desc": "Kolkata Knight Riders and Rajasthan Royals are all set to face off in the 28th game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the Eden Gardens in Kolkata, and...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-dealt-major-blow-as-in-form-ayush-mhatre-suffers-hamstring-tear-in-clash-against-dc-2026-04-19-1038061",
     "time": "2026-04-19T06:15:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Serge Gnabry's 2025/26 season comes to tragic end with injury, set to miss FIFA World Cup 2026",
-    "desc": "In a major blow to Germany and FC Bayern Munich, the side’s star forward Serge Gnabry has been ruled out of the ongoing season due to a torn adductor injury. The star player is likely...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/serge-gnabry-s-2025-26-season-comes-to-tragic-end-with-injury-set-to-miss-fifa-world-cup-2026-2026-04-19-1038053",
-    "time": "2026-04-19T05:23:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Eden Gardens in Kolkata play?",
-    "desc": "The stage is set for the 28th game of the ongoing IPL (Indian Premier League) 2026. The game sees Kolkata Knight Riders taking on Rajasthan Royals at the Eden Gardens in Kolkata on April 19....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-rr-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-2026-04-19-1038047",
-    "time": "2026-04-19T04:18:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very good to see': Ishan Kishan opens up on stellar victory against Chennai Super Kings",
-    "desc": "Sunrisers Hyderabad registered an emphatic victory against Chennai Super Kings in the 27th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Rajiv Gandhi International Stadium in Hyderabad on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/very-good-to-see-ishan-kishan-opens-up-on-stellar-victory-against-chennai-super-kings-2026-04-19-1038045",
-    "time": "2026-04-19T03:23:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Eshan, Nitish and Sakib shine as SRH halt CSK's revival in Hyderabad",
-    "desc": "Fast bowlers produced some breathtaking spells as Sunrisers Hyderabad halted Chennai Super Kings' revival in the Indian Premier League 2026 on Saturday, April 18. Eshan Malinga, Nitish Kumar Reddy and Sakib Hussain turned out to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/eshan-nitish-and-sakib-shine-as-srh-halt-csks-revival-in-hyderabad-2026-04-18-1038034",
-    "time": "2026-04-18T18:17:36.000Z"
   }
 ];

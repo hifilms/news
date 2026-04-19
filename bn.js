@@ -72,15 +72,6 @@ const newsData_bn = [
     "time": "2026-04-17T05:55:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ওয়ার্কিং ডে সিক্স, অসুস্থতাতেও ছুটি নেই, ব্রেক মাত্র ১৫ মিনিট- ১৭ লাখের চাকরি ছুঁড়ে ফেলে ভাইরাল IIT স্নাতক",
-    "desc": "৯টা–৫টার চাকরি সকাল ৯টা থেকে সন্ধ্যা ৭টা পর্যন্ত চলত কাজ। তাতেও শেষ হত না। এমনকি ৫ দিনের জায়গায় ওয়ার্কিং ডে বাড়িয়ে ৬ দিনের করে দেওয়া হয়। বিশ্রামের কোনও সুযোগ প্রায় থাকত না। ব্যক্তিগত সময়ও পাওয়া যেত না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/no-sick-leaves-only-15-minute-lunch-break-iiit-delhi-graduate-quits-rs-17-lpa-job_649041.html ",
-    "time": "2026-04-16T12:31:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ভোটবাংলার ঘাটালে 'প্রজাপতি ৩', 'নির্বাক' মিঠুনকে I Love You ছুড়ে দিলেন দেব",
     "desc": "\"রাজনীতি মানেই কি শুধু লড়াই? আদপেই না! সতীর্থ অভিনেতা মিঠুন চক্রবর্তীর প্রতি ফের ভালোবাসা প্রকাশ করলেন ঘাটালের সাংসদ দেব। বিজেপির হয়ে মিঠুন প্রচার করে গেলেও, দেবের উত্তর— ‘লাভ ইউ মিঠুন দা’। এই সৌজন্যই কি বাংলার রাজনীতির আসল পরিচয়?",
@@ -142,23 +133,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/gulzar-rd-burman-mera-kuch-samaan-song-history-ijaazat-by-asha-bhosle_648485.html ",
     "time": "2026-04-12T13:52:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Asha Bhosle-Uttam Kumar: সুরকার উত্তমের প্রতিভায় মুগ্ধ হয়েছিলেন স্বয়ং আশা, তবে মহানায়কের সুরে গান গাইতে রেখেছিলেন শর্ত",
-    "desc": "পর্দার মহানায়ক যখন হারমোনিয়াম হাতে সুরকার! জানেন কি, আশা ভোঁসলে প্রথমে সংশয় প্রকাশ করেছিলেন উত্তম কুমারের সুর নিয়ে? কিন্তু বম্বের ড্রয়িংরুমে যখন উত্তম কুমার নোটেশন লিখে গান শেখাতে বসলেন, তখন মুগ্ধ হয়েছিলেন খোদ ‘আশা জি’। ‘কাল তুমি আলেয়া’ ছবির সেই ঐতিহাসিক মুহূর্ত আজও বাঙালির শ্রেষ্ঠ প্রাপ্তি। অভিনেতা উত্তমের ছায়ায় ঢাকা পড়া সুরকার উত্তমের সেই অসামান্য লড়াইয়ের গল্প আজ আমাদের স্মৃতিতে অমলিন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/uttam-kumar-music-director-asha-bhosle-collaboration-history_648473.html ",
-    "time": "2026-04-12T12:55:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

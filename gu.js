@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "IPLમાં &amp;#039;પ્લેયર ઓફ ધ મેચ&amp;#039; એવોર્ડ કોને મળશે તે કોણ નક્કી કરે છે ? 90% લોકો નહીં જાણતા હોય",
+    "desc": "IPL 2026નો રોમાંચ ચાલુ છે. ટુર્નામેન્ટ ઝડપથી આગળ વધી રહી છે. આ વચ્ચે રોયલ ચેલેન્જર્સ બેંગ્લોર અને લખનૌ સુપર જાયન્ટ્સ વચ્ચેની મેચ બાદ 'પ્લેયર ઓફ ધ મેચ' એવોર્ડને લઈને એક મોટો વિવાદ ઉભો થયો હતો. ત્યારે આ લેખમાં જાણીશું કે IPLમાં પ્લેયર ઓફ ધ મેચ'નો નિર્ણય કોણ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-decides-who-gets-the-player-of-the-match-award-in-ipl-473878 ",
+    "time": "2026-04-19T11:54:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "નોસ્ટ્રાડેમસની ભવિષ્યવાણીઓ પડી ફીકી! NASAના સુપરકોમ્પ્યુટરે જણાવી દીધી દુનિયા ખતમ થવાની ચોક્કસ તારીખ?",
+    "desc": "વૈજ્ઞાનિકો કાઝુમી ઓઝાકી અને ક્રિસ્ટોફર રેનહાર્ડના રિસર્ચ અનુસાર, લગભગ 100 કરોડ વર્ષ પછી પૃથ્વી પર ઓક્સિજન ખતમ થઈ શકે છે. NASAના મોડેલ્સ જણાવે છે કે, ત્યારે જીવન લગભગ અસંભવ હશે. જો કે, અત્યારે ચિંતાનું મોટું કારણ ક્લાઈમેટ ચેન્જ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nostradamus-predictions-pale-in-comparison-has-nasa-supercomputer-revealed-the-exact-date-of-the-world-end-473870 ",
+    "time": "2026-04-19T11:33:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દુનિયાની સૌથી મોંઘી કેરી, કિંમત એટલી છે કે આવી જાય બે iPhone, સુરક્ષા માટે છે Z+ સિક્યોરિટી",
+    "desc": "આજે અમે તમને દુનિયાની સૌથી મોંઘી કેરી વિશે જણાવીશું, આ કેરી એટલી મોંઘી છે કે તેની માત્ર એક કિલોગ્રામની કિંમતમાં તમે કાર અથવા લક્ઝરી મોટરસાયકલ ખરીદી શકો છો. આ કેરી ફક્ત મધ્યપ્રદેશના જબલપુરના એક બગીચામાં ઉગાડવામાં આવે છે. તેની સુરક્ષા માટે બગીચામાં Z+ સ્તરની સુરક્ષા તૈનાત કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/world-most-expensive-mango-is-the-miyazaki-know-its-price-473869 ",
+    "time": "2026-04-19T11:32:37.000Z"
+  },
+  {
     "cat": "World",
     "title": "રશિયામાં તૈનાત કરાશે 3,000 ભારતીય સૈનિકો, 10 ફાઇટર જેટ અને 5 યુદ્ધ જહાજ, જાણો શું છે કારણ",
     "desc": "ભારત અને રશિયા વચ્ચે થયેલ લશ્કરી કરારથી ભારતને મુખ્ય ફાયદો એ થશે કે તેને રશિયન નૌકાદળના થાણા અને હવાઈ મથકો સુધી પહોંચ મળશે, જેમાં આર્કટિક જેવા વ્યૂહાત્મક રીતે મહત્વપૂર્ણ પ્રદેશોનો પણ સમાવેશ થાય છે. આ સોદો બંને દેશો વચ્ચે ઓપરેશનલ કોઓર્ડિનેશનને વધુ મજબૂત બનાવશે.",
@@ -414,15 +441,6 @@ const newsData_gu = [
     "time": "2026-04-17T05:54:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "શું છે રોટેશન સિસ્ટમ? અખિલેશ યાદવે મહિલા અનામતમાં જેનો વિરોધ કર્યો, બિલમાં શું છે જોગવાઈ",
-    "desc": "ધારો કે આજે કોઈ શહેરની વિધાનસભા કે લોકસભા બેઠક મહિલાઓ માટે અનામત છે, તો આગામી વખતે જ્યારે પરિસીમન (Delimitation) થશે, ત્યારે મહિલાઓ માટે અનામત તે બેઠક સામાન્ય થઈ શકે છે અને અન્ય કોઈ વિસ્તારની બેઠક મહિલાઓ માટે અનામત રાખવામાં આવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-is-the-rotation-system-what-akhilesh-yadav-opposed-in-women-reservation-what-is-the-provision-in-the-bill-473449 ",
-    "time": "2026-04-16T18:17:29.000Z"
-  },
-  {
     "cat": "World",
     "title": "શું આગામી 48 કલાકમાં ઈરાન-અમેરિકા યુદ્ધ સમાપ્ત થઈ જશે? ટ્રમ્પે આપ્યા મોટા સંકેત",
     "desc": "ઈરાન સામેના યુદ્ધમાં હવે ટ્રમ્પ નબળા પડી રહ્યા હોય તેવુ લાગી રહ્યું છે. તેઓએ અચાનક સૂર બદલ્યો છે અને 48 કલાકમાં યુદ્ધ બંધ કરવાની વાત કરી છે. આ વાત પરથી લાગે છે કે, યુદ્ધને લઈ ડોનાલ્ડ ટ્રમ્પ ખુદ ફસાઈ ગયા છે. હવે તેઓ હોર્મુઝ મુ્દ્દે પાછી પાની કરે તેવી શક્યતા દેખાઈ રહી છે. ત્યારે ટ્રમ્પના બદલાતા નિવેદનો પર ઉભા થયા સવાલ.",
@@ -466,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-iran-ceasefire-talks-pakistan-army-chief-munir-reaches-iran-with-trump-message-473369 ",
     "time": "2026-04-16T09:50:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીના ભાવ આજે વધી ગયા, અમદાવાદમાં 24-22 કેરેટ સોનાનો લેટેસ્ટ ભાવ જાણો",
-    "desc": "યુદ્ધનો અંત આવી શકે છે એવા સંકેત મળતા જ ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે જ્યારે સોના અને ચાંદીના ભાવમાં વધારો છે. આજે વાયદા બજાર અને રિટેલ બજારમાં શું ભાવ છે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-increased-know-latest-price-of-24-22-carat-gold-in-ahmedabad-aaj-no-sona-no-bhav-473330 ",
-    "time": "2026-04-16T07:08:55.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +531,6 @@ const newsData_gu = [
     "time": "2026-04-15T10:17:56.000Z"
   },
   {
-    "cat": "World",
-    "title": "2026માં દુનિયાનો અંત આવશે? 66 વર્ષ જૂની ડરામણી ભવિષ્યવાણી વાયરલ, પૃથ્વીના અંતની તારીખ પણ જણાવી!",
-    "desc": "સોશિયલ મીડિયા પર ભવિષ્યવાણીઓ તો ઘણી વાયરલ થતી રહે છે. પરંતુ જ્યારે કોઈ વૈજ્ઞાનિક તારીખ સાથે દાવો કરે તો દુનિયા વિસ્મયમાં પડી જતી હોય છે. 66 વર્ષ પહેલા એક વૈજ્ઞાનિકે દાવો કર્યો હતો કે 2026માં દુનિયા ખતમ થઈ જશે. પ્રલયની આવી ભવિષ્યવાણીએ લોકોને ચોંકાવી દીધા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/heinz-von-foerster-world-end-theory-check-what-he-predicted-and-said-473172 ",
-    "time": "2026-04-15T09:13:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "મગજની નસોમાં આંટીઓ ચઢાવી દેશે આ સાઈકો થ્રિલર ફિલ્મ, સ્ટોરી શરુ થાય પછી 1 મિનિટ માટે પણ સ્ક્રિનથી નજર નહીં હટાવી શકો",
     "desc": "શું તમે એવી ફિલ્મ જોવા માંગો છો જેને જોયા પછી તમને એવું કહેવાનું મન થાય કે વાહ... શું ફિલ્મ હતી. તો પછી આ ફિલ્મ જોઈ લો. આ ફિલ્મ એકવાર શરુ થશે એટલે પુરી થશે ત્યાં સુધી તમે ફિલ્મમાં ઓત પ્રોત રહેશો. આ ફિલ્મ એટલી જોરદાર છે કે તમને લાગશે કે ફિલ્મના પાત્રોની સાથે તમે પણ ફિલ્મમાં જ છો.",
@@ -547,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/no-exchange-or-accessories-this-electric-suv-is-getting-a-cash-discount-of-rs-2-50-lakh-the-price-has-been-reduced-by-this-much-473144 ",
     "time": "2026-04-15T05:09:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સૂર્યકુમાર યાદવ થશે ટીમ ઈન્ડિયામાંથી બહાર ? જાણો BCCI કેમ લઈ શકે છે આ કઠિન નિર્ણય",
-    "desc": "સૂર્યકુમાર યાદવની કેપ્ટનશીપ હેઠળ ટીમ ઈન્ડિયાએ T20 વર્લ્ડ કપ ટાઇટલ જીત્યું હતું. જો કે, તેના બેટિંગ ફોર્મ અંગે પ્રશ્નો ઉભા થયા છે. ઇંગ્લેન્ડ-આયર્લેન્ડ પ્રવાસ તેની કારકિર્દીનો નિર્ણાયક તબક્કો સાબિત થઈ શકે છે. દરમિયાન વૈભવ સૂર્યવંશી જેવા યુવા ખેલાડીઓ ટીમમાં સ્થાન મેળવવા માટે તૈયાર છે, જેનાથી સ્પર્ધા વધુ તીવ્ર બનશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-will-be-out-of-team-india-know-why-bcci-take-tough-decision-473084 ",
-    "time": "2026-04-14T12:58:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -601,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/that-one-mistake-of-asha-tai-which-ruined-her-life-and-even-severed-her-ties-with-her-sisters-lata-meena-and-usha-472626 ",
     "time": "2026-04-12T08:04:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઓટીટી પર જોવા જેવી હોરર ફિલ્મ, આ ફિલ્મ જોયા પછી હાથનું પ્લાસ્ટર જોઈને પણ ડર લાગશે",
-    "desc": "ઓટીટી પર સૌથી વધુ હોરર ફિલ્મો જોવાતી હોય છે. તમે પણ ડરામણી ફિલ્મો જોવાના શોખીન છો તો તમારા માટે પ્રાઈમ વીડિયોની બેસ્ટ હોરર ફિલ્મ વિશે જાણકારી લાવ્યા છીએ. આ ફિલ્મ એકવાર જોઈ લે તેને હાથમાં આવતા પ્લાસ્ટરથી બીક લાગવા લાગે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-hindi-horror-film-talk-to-me-horror-film-in-hindi-on-ott-prime-video-472407 ",
-    "time": "2026-04-10T14:36:36.000Z"
   },
   {
     "cat": "Tech",
