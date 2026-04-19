@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Entertainment",
+    "title": "અનુપમાની જિંદગીમાં થશે જૂની દુશ્મનની એન્ટ્રી? કરણ-નંદિની વચ્ચે થશે જબરદસ્ત ઝઘડો",
+    "desc": "રૂપાલી ગાંગુલીની સીરિયલ 'અનુપમા'માં નવા પાત્રોની એન્ટ્રી અને જૂના દુશ્મનો સાથેનો ટકરાવ જોવા મળશે. બીજી તરફ 'ક્યોંકિ સાસ ભી કભી બહૂ થી'માં કરણ અને નંદિની વચ્ચે કંકાસની સ્થિતિ સર્જાઈ રહી છે. ચાલો જાણીએ આવનારા દિવસોમાં ટીવી સીરિયલ્સની દુનિયામાં શું નવું થવાનું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/tv-serial-spoilers-has-an-old-enemy-returned-to-anupamas-life-karan-and-nandini-set-to-clash-473826 ",
+    "time": "2026-04-19T07:03:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અજિત અગરકરના કાર્યકાળને લઈને BCCIનો મોટો નિર્ણય, જાણો ક્યાં સુધી ચીફ સિલેક્ટરના પદ પર રહેશે",
+    "desc": "બીસીસીઆઈ મુખ્ય પસંદગીકાર અજિત અગરકરનો કાર્યકાળ લંબાવવાની તૈયારી કરી રહ્યું છે. તેમનો કરાર જૂન 2026માં સમાપ્ત થવાનો છે, તેને 2027ના વનડે વર્લ્ડ કપ સુધી લંબાવવામાં આવી શકે છે. તેમના કાર્યકાળ દરમિયાન ભારતે ત્રણ આઈસીસી ટ્રોફી જીતી હતી. બોર્ડ તેમના નિર્ભય નિર્ણયોથી ખૂબ સંતુષ્ટ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-chief-selector-ajit-agarkar-extension-odi-world-cup-2027-473825 ",
+    "time": "2026-04-19T06:47:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બે ઓવરમાં માત્ર 4 રન અને CSKના હાથમાંથી ગઈ મેચ... કેપ્ટન રુતુરાજ ગાયકવાડે જણાવ્યું હારનું કારણ",
+    "desc": "શનિવારે સનરાઇઝર્સ હૈદરાબાદે ચેન્નાઈ સુપર કિંગ્સને 10 રનથી હરાવ્યું. સીએસકેના કેપ્ટન રુતુરાજ ગાયકવાડે સ્વીકાર્યું કે 195 રનનો ટાર્ગેટ ચેઝ કરી શકાય તેમ હતો, પરંતુ 10મી ઓવર પછીની બે ઓવરમાં તેઓ ફક્ત 4 રન બનાવી શક્યા ત્યારે મેચ તેમની પકડમાંથી બહાર નીકળી ગઈ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-csk-vs-srh-match-turning-point-ruturaj-gaikwad-statement-473816 ",
+    "time": "2026-04-19T06:23:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકાના ટોપ-10 વૈજ્ઞાનિકો જીવિત છે કે નહીં? ટ્રમ્પના તપાસના આદેશ, જાણો USમાં કેમ મચ્યો છે હડકંપ",
+    "desc": "અમેરિકાની ટ્રમ્પ સરકાર હાલમાં તણાવમાં છે અને તેનું કારણ ઈરાન-હોર્મુઝ નથી, પરંતુ દેશના એ હાઈ-પ્રોફાઈલ વૈજ્ઞાનિકો છે, જેઓ છેલ્લા 3 વર્ષથી ગુમ છે અથવા જેમના શંકાસ્પદ હાલતમાં મૃતદેહો મળી આવ્યા છે. ચાલો જાણીએ શું છે સમગ્ર મામલો...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/uss-top-10-scientists-still-alive-trump-orders-an-investigation-find-out-why-it-has-caused-an-uproar-in-america-473815 ",
+    "time": "2026-04-19T06:07:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મું પાસને સરકાર વ્યાજ વગર આપી રહી છે 10 લાખ સુધીની લોન, જાણો કેવી રીતે કરશો અરજી",
+    "desc": "રાજ્ય સરકાર તમને પોતાનો વ્યવસાય શરૂ કરવા માટે 10 લાખ રૂપિયા સુધીની લોન આપી રહી છે, જેની શરૂઆત જાન્યુઆરી 2026 માં કરવામાં આવી છે. ચાલો જાણીએ કે આ લોન કોણ લઈ શકે છે અને તેના માટે કેવી રીતે અરજી કરવી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-is-offering-interest-free-loans-of-up-to-10-lakh-to-8th-pass-individuals-find-out-how-to-avail-the-benefits-473814 ",
+    "time": "2026-04-19T05:45:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "ફિલ્મમાં ઈંટીમેટ સીન શૂટ કરતાં પહેલા સેટ પર કરવામાં આવે ખાસ તૈયારી, જાણો કેવી રીતે શૂટ થાય કિસિંગ સીન",
     "desc": "મોટાભાગની ફિલ્મોમાં કિસિંગ સીન અને ઈંટીમેટ સીન હોય છે. આ પ્રકારના બોલ્ડ સીનનું શૂટિંગ કરતાં પહેલા ખાસ તૈયારીઓ કરવામાં આવે છે. આ તૈયારીઓ કેવી હોય અને ફિલ્મમાં ઈંટીમેટ સીન કેવી રીતે શૂટ થાય છે ચાલો જાણીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -522,24 +567,6 @@ const newsData_gu = [
     "time": "2026-04-14T12:58:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "કોરોના વેક્સિનને કારણે થયું હતું શેન વોર્નનું મોત ! 4 વર્ષ પછી તેના પુત્રએ કર્યો મોટો દાવો",
-    "desc": "દિગ્ગજ સ્પિનર શેન વોર્નના નિધનના 4 વર્ષ પછી તેના પુત્ર જેક્સને દાવો કર્યો છે કે શેન વોર્નનું મોત કોરોના વેક્સિનના ત્રણ કે ચાર ડોઝ લેવાના કારણે થયું હતું. જે તેમને કામ કરવા માટે મજબૂરીમાં લેવી પડી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shane-warne-death-due-to-covid-19-vaccine-after-4-years-his-son-makes-a-big-claim-473064 ",
-    "time": "2026-04-14T11:45:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKRના સ્ટાર બોલર પર લાગ્યો બે વર્ષનો પ્રતિબંધ, જાણો તેને કેમ મળી છે આ સજા",
-    "desc": "KKRના સ્ટાર ફાસ્ટ બોલર બ્લેસિંગ મુઝરબાની પર બે વર્ષનો પ્રતિબંધ લાગ્યો છે. IPLમાં મુઝરબાની કોલકાતા ટીમનો સભ્ય છે. ટુર્નામેન્ટ શરૂ થઈ તે પહેલાં તેને ઈજાના રિપ્લેસમેન્ટ તરીકે ટીમમાં સામેલ કરવામાં આવ્યો હતો. મીની-ઓક્શન દરમિયાન કોઈ ટીમે તેને ખરીદ્યો ન હતો. ત્યારે આ લેખમાં જાણીશું કે તેને આ સજા કેમ મળી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/blessing-muzarabani-banned-from-psl-for-two-years-know-the-reason-473050 ",
-    "time": "2026-04-14T11:00:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કેવી હતી આશા તાઈની છેલ્લી ક્ષણો? મુમતાઝે વર્ણવી આપવીતી, જાણીને તમારી આંખો પણ થઈ જશે ભીની....",
     "desc": "92 વર્ષની વયે આશા ભોંસલેના અવસાનથી સંગીત જગતને ઊંડો આઘાત લાગ્યો છે. ફેફસામાં ઈન્ફેક્શનના કારણે હોસ્પિટલમાં દાખલ થયેલા આ દિગ્ગજ ગાયિકાની છેલ્લી ક્ષણો વિશે તેમની નજીકની મિત્ર અને અભિનેત્રી મુમતાઝે વિગતો આપી છે. આ સાથે તેમણે એક વીડિયો પણ શેર કર્યો છે, જે જોઈને કોઈની પણ આંખો નમ થઈ જશે.",
@@ -601,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/cars-under-rs-5-lakh-tata-tiagomaruti-suzuki-s-presso-maruti-suzuki-celerio-472360 ",
     "time": "2026-04-10T10:37:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધુરંધર 2 ઓટીટી રિલીઝ માટે રેડી, જાણો ક્યારે જોવા મળશે હોટસ્ટાર પર",
-    "desc": "બોક્સ ઓફિસ પર શાનદાર કમાણી કરનાર આદિત્ય ધરની ફિલ્મ ધુરંધર 2 ઓટીટી પર આવે તેની રાહ તમે પણ જોઈ રહ્યા છો તો તમારે વધારે દિવસ રાહ જોવાની જરૂર નથી. કારણ કે ધુરંધર 2 ઓટીટી રિલીઝ માટે રેડી છે અને ફિલ્મની સંભવિત ઓટીટી રિલીઝ ડેટ પણ સામે આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-on-jio-hotstar-dhurandhar-2-ott-release-date-may-end-of-june-2026-first-week-472319 ",
-    "time": "2026-04-10T07:51:35.000Z"
   },
   {
     "cat": "Tech",

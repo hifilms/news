@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Song Min Ho to face trial for neglect of military duties",
+    "desc": "Former WINNER star Song Min Ho finds himself in legal hot water as he prepares for trial concerning alleged neglect of his compulsory military service. Charged with leaving his public service assignment without appropriate cause and failing to carry out important responsibilities, both he and a supervising officer have been indicted, yet neither is in custody.",
+    "img": "https://static.toiimg.com/photo/msid-130366067,imgsize-39106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/song-min-ho-to-face-first-trial-hearing-soon-for-allegedly-violating-military-service-act-report/articleshow/130366067.cms",
+    "time": "2026-04-19T06:49:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a first, migratory honey bees get ‘warm womb’ to stay back in winters in Kashmir",
+    "desc": "The Council of Scientific and Industrial Research-Indian Institute of Integrative Medicine (CSIR-IIIM), Pulwama, has been working on climate resilient honeybees to allow beekeepers to avoid having to transfer them to the plains to survive the winter",
+    "img": "https://th-i.thgim.com/public/incoming/ttwjwh/article70879924.ece/alternates/LANDSCAPE_1200/18-%20In%20a%20first%20migratory%20honey%20bees%20get%20warm%20womb%20to%20stay%20back%20in%20winters%20in%20Kashmir-18-04-2026.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/in-a-first-migratory-honey-bees-get-warm-womb-to-stay-back-in-winters-in-kashmir/article70877603.ece",
+    "time": "2026-04-19T06:46:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Heidi Klum and son Henry Samuel attend LACMA event",
+    "desc": "During the glamorous LACMA opening gala, the dynamic duo of Heidi Klum and her son Henry Samuel turned heads with their fashionable appearances. Heidi dazzled in an eye-catching sequined fishnet gown, while Henry echoed her elegance in a tailored three-piece suit, stepping into the public eye as he embarks on his modeling journey.",
+    "img": "https://static.toiimg.com/photo/msid-130366015,imgsize-126718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/heidi-klum-attends-lacma-opening-gala-son-henry-samuel-makes-rare-appearance-with-mother/articleshow/130366015.cms",
+    "time": "2026-04-19T06:39:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Pilot training gets dearer on costlier jet fuel, weaker rupee",
+    "desc": "Aspiring pilots face a steeper climb as jet fuel prices surge and the rupee weakens, pushing Commercial Pilot Licence (CPL) costs in India to Rs 60-70 lakh. Training abroad now incurs 15-16% higher expenses. This financial strain, coupled with long waits for flying hours and jobs, makes the dream of flying increasingly challenging for many.",
+    "img": "https://static.toiimg.com/photo/msid-130366032,imgsize-39708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pilot-training-gets-dearer-on-costlier-jet-fuel-weaker-rupee/articleshow/130366011.cms",
+    "time": "2026-04-19T06:38:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘TMC didn't want more daughters as MLAs and MPs’: PM Modi in Bengal after women quota bill failure",
+    "desc": "Prime Minister Narendra Modi accused the Trinamool Congress of opposing the women's reservation bill, claiming the party worked against greater political representation for Bengal's daughters. He asserted the BJP prioritizes women's empowerment and safety, promising improved welfare delivery if elected in the state.",
+    "img": "https://static.toiimg.com/photo/msid-130365960,imgsize-833868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tmc-didnt-want-more-daughters-as-mlas-and-mps-pm-modi-in-bengal-after-women-quota-bill-failure/articleshow/130365883.cms",
+    "time": "2026-04-19T06:30:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "from a DMK campaigner and fan of MGR to renowned littérateur",
+    "desc": "Kalapriya says that before joining the DMK, MGR was associated with the Congress. Over the time, he surrounded himself with seasoned political minds, including communist leaders K. Baladhandayutham and Kalyanasundaram. He was further supported by experienced figures such as K.A. Krishnaswamy and Panruti S. Ramachandran. This combination of cinematic influence and political acumen gave him an exceptional grasp of governance as well as mass psychology.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ryy3r9/article70847925.ece/alternates/LANDSCAPE_1200/6d8f9494-70ae-4678-9007-4924c4bdc363.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/from-admkcampaigner-and-fan-of-mgr-to-renowned-litterateur/article70847903.ece",
+    "time": "2026-04-19T06:19:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Revanth-KCR parallel rallies on the same day set the stage for political showdown",
+    "desc": "There is considerable public curiosity around his speech, especially on whether he will directly target the Congress government led by Mr. Revanth Reddy or continue his strategy of avoiding personal references to the Chief Minister",
+    "img": "https://th-i.thgim.com/public/incoming/1b8sxg/article70880158.ece/alternates/LANDSCAPE_1200/TELANGANA%20CM%20PC%20REDDY%20PC%20DELHI%202026_18_04_19.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/revanth-kcr-parallel-rallies-on-the-same-day-set-the-stage-for-political-showdown/article70880146.ece",
+    "time": "2026-04-19T06:14:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay backs Wamiqa against Aishwarya and Katrina comparisons",
+    "desc": "Akshay Kumar teams up with Wamiqa Gabbi in Priyadarshan’s horror‑comedy Bhooth Bangla, defending her against comparisons with Aishwarya Rai and Katrina Kaif and praising her distinct journey in cinema. Wamiqa hits back at such labels with humour, while the film, co‑starring Rajpal Yadav, Paresh Rawal, Jisshu Sengupta and Tabu, has grossed around Rs 35 crore domestically.",
+    "img": "https://static.toiimg.com/photo/msid-130365821,imgsize-22922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-backs-wamiqa-gabbi-against-aishwarya-rai-bachchan-and-katrina-kaif-comparisons-she-has-her-own-identity/articleshow/130365821.cms",
+    "time": "2026-04-19T06:13:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fan's 'black magic' act during IPL match; CSK star falls next ball",
+    "desc": "A Sunrisers Hyderabad fan's alleged 'black magic' ritual involving a lemon coincided with Shivam Dube's dismissal, sparking debate online. SRH secured a 10-run victory over Chennai Super Kings, with captain Ishan Kishan praising his young bowlers' execution despite feeling his team was short on runs. SRH next faces Delhi Capitals.",
+    "img": "https://static.toiimg.com/photo/msid-130365819,imgsize-66492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/caught-on-cam-fans-black-magic-act-during-srh-vs-csk-match-shivam-dube-falls-next-ball/articleshow/130365802.cms",
+    "time": "2026-04-19T06:13:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jayakanthan’s ‘Cinemavukku Pona Chitthalu’: on the influence of film personalities on the masses",
+    "desc": "Jayakanthan’s novella, ‘Cinemavukku Pona Chitthalu,’ explores the impact of film culture on identity and social dynamics through the story of Kamsalai, a devoted admirer of Tamil cinema icon M.G. Ramachandran (MGR). Set in Chennai, the narrative captures a time when MGR’s influence shaped Tamil Nadu’s political landscape.",
+    "img": "https://th-i.thgim.com/public/news/national/wabe67/article70831799.ece/alternates/LANDSCAPE_1200/cartoon.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/theblurredline-between-reality-and-illusion-the-influence-of-film-personalities-on-the-masses/article70830894.ece",
+    "time": "2026-04-19T06:12:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince Harry and Meghan Markle go viral",
+    "desc": "Prince Harry and Meghan Markle's recent Australian visit saw the Duke go viral for his chivalrous act of opening his wife's car door and offering a helping hand. This gentlemanly gesture, captured by fans, has sparked widespread admiration online, with netizens praising his attentive and caring demeanor towards Meghan.",
+    "img": "https://static.toiimg.com/photo/msid-130365743,imgsize-30252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-goes-viral-during-australia-trip-for-sweet-behaviour-with-wife-and-suits-alum-meghan-markle/articleshow/130365743.cms",
+    "time": "2026-04-19T06:03:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Biryani caterers work around fuel shortages, inflation for political meetings",
+    "desc": "The bond between politics and biryani has been strained by the war in West Asia that has inflated the price of LPG gas cylinders and as a collateral, that of firewood too, hitting mass caterers across the State.",
+    "img": "https://th-i.thgim.com/public/incoming/kgmemv/article70869780.ece/alternates/LANDSCAPE_1200/10295_16_4_2026_19_25_51_1_BIRYANIPARCELS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/biryani-caterers-work-around-fuel-shortages-inflation-for-tiruchi-political-meetings/article70869717.ece",
+    "time": "2026-04-19T05:48:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charlize Theron slams Timothée Chalamet over Ballet-Opera comment",
+    "desc": "In a recent exchange of ideas, Charlize Theron took issue with Timothée Chalamet's dismissive comments about ballet and opera, labeling them 'irresponsible.' With her extensive background in dance, Theron emphasized the rigorous training and unwavering dedication required to excel in these art forms.",
+    "img": "https://static.toiimg.com/photo/msid-130365566,imgsize-81602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/charlize-theron-slams-timothe-chalamet-over-ballet-opera-comment-calls-his-remark-very-reckless/articleshow/130365566.cms",
+    "time": "2026-04-19T05:45:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika announces second pregnancy, expecting baby with Ranveer",
+    "desc": "Deepika Padukone and Ranveer Singh are expecting their second child, with Deepika sharing a cute social media post hinting at her baby bump. The couple, married in 2018 in Italy, already welcomed daughter Dua in 2024, and fans are thrilled as their family grows once again.",
+    "img": "https://static.toiimg.com/photo/msid-130365573,imgsize-37234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-announces-second-pregnancy-with-cutest-social-media-post-expecting-baby-with-dhurandhar-star-ranveer-singh/articleshow/130365573.cms",
+    "time": "2026-04-19T05:44:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uttar Pradesh implements advanced unified command system under Jal Jeevan Mission",
+    "desc": "The system, managed through the Unified Command and Control System (UCCS), will enable real-time monitoring and control of water supply systems, covering parameters related to water quality, distribution efficiency, and asset performance across rural areas.",
+    "img": "https://th-i.thgim.com/public/incoming/ekwvme/article70880020.ece/alternates/LANDSCAPE_1200/vz05water.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-implements-advanced-unified-command-system-under-jal-jeevan-mission/article70878236.ece",
+    "time": "2026-04-19T05:40:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "H-CITI project in the legal crosshairs on the KBR National Park buffer zone",
+    "desc": "The petitioners have waged a pitched battle with the State and central governments, challenging the notification issued by the Ministry of Environment, Forests & Climate Change, fixing the Eco Sensitive Zone for the park without following the due process.",
+    "img": "https://th-i.thgim.com/public/incoming/hfx3wv/article70880113.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-19%20at%2010.27.47%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/h-citi-project-in-the-legal-crosshairs-on-the-kbr-national-park-buffer-zone/article70878102.ece",
+    "time": "2026-04-19T05:37:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kyle Cooke on Amanda Batula and West Wilson’s recent moment",
+    "desc": "During a lively Yankees game, all eyes were on Amanda Batula and West Wilson as they shared sweet kisses, stirring up excitement online. Meanwhile, Kyle Cooke, her former flame, reacted with an eyebrow-raising post reflecting disbelief. However, internet detectives soon unearthed his own recent PDA with Meghan King, prompting a wave of debates about relationship norms and unexpected irony.",
+    "img": "https://static.toiimg.com/photo/msid-130365144,imgsize-121440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/kyle-cooke-allegedly-reacts-to-ex-amanda-batula-and-west-wilsons-viral-moment-was-not-prepared-to-see-that/articleshow/130365144.cms",
+    "time": "2026-04-19T05:34:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘You gave me clearance to go': Indian vessel’s frantic distress call during Hormuz firing revealed",
+    "desc": "Two India-flagged vessels, the Sanmar Herald and Jag Arnav, were targeted by Iranian gunboats in the Strait of Hormuz, forcing a convoy of 14 ships to abort transit. The incident caused confusion over passage instructions, with multiple vessels turning back. India has lodged a protest with Iran, urging safe passage for merchant shipping.",
+    "img": "https://static.toiimg.com/photo/msid-130365522,imgsize-98050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/you-gave-me-clearance-to-go-indian-vessels-frantic-distress-call-during-hormuz-firing-revealed/articleshow/130365499.cms",
+    "time": "2026-04-19T05:33:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: AIADMK is just a mask for BJP, says Rahul Gandhi at Ponneri",
+    "desc": "“There is no real AIADMK ... So when you see the AIADMK, its flag, its leaders, remember that they are controlled by Narendra Modi [Prime Minister] and Amit Shah [Union Home Minister] and are being used to attack Tamil history, culture, and language,” Mr. Gandhi said",
+    "img": "https://th-i.thgim.com/public/incoming/p3yawa/article70877012.ece/alternates/LANDSCAPE_1200/2501_18_4_2026_13_6_53_2_DSC_7271.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-aiadmk-is-just-a-mask-for-bjp-says-rahul-gandhi-at-ponneri/article70876945.ece",
+    "time": "2026-04-19T05:28:48.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances",
+    "desc": "The winning robot, developed by Chinese smartphone brand Honor, finished the race in 50 ⁠minutes and 26 seconds, several minutes faster than the half-marathon world record set by Ugandan runner Jacob Kiplimo in Lisbon last month",
+    "img": "https://th-i.thgim.com/public/incoming/rm4p7j/article70880088.ece/alternates/LANDSCAPE_1200/2026-04-19T035236Z_853099489_RC20SKAY2EWX_RTRMADP_3_CHINA-ROBOTS-ATHLETICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances/article70880082.ece",
+    "time": "2026-04-19T05:27:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Bulgarians head to the polls to elect a parliament for the eighth time in 5 years",
+    "desc": "Since 2021, the nation of 6.5 million has struggled with fragmented parliaments that produced weak governments, none of which managed to survive more than a year before being brought down by street protests or backroom deals in parliament",
+    "img": "https://th-i.thgim.com/public/incoming/2s45il/article70880089.ece/alternates/LANDSCAPE_1200/2026-04-19T044831Z_444929091_RC24SKAJ6W2I_RTRMADP_3_BULGARIA-ELECTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bulgaria-parliamentary-elections-rumen-radev-april-19-2026-updates/article70880075.ece",
+    "time": "2026-04-19T05:20:37.000Z"
+  },
+  {
     "cat": "World",
     "title": "Bangladesh raises fuel prices as conflict in West Asia drives up costs",
     "desc": "Officials ⁠said the increase was unavoidable ⁠as rising crude prices, supply chain disruptions and higher freight and insurance costs pushed up import expenses in ​recent weeks, particularly after ‌oil prices have jumped during the seven-week-old war on Iran.",
@@ -7,6 +196,24 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-raises-fuel-prices-as-conflict-in-west-asia-drives-up-costs/article70879952.ece",
     "time": "2026-04-19T05:19:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arnold Schwarzenegger's best characters",
+    "desc": "Exploring Arnold Schwarzenegger's career reveals a spectrum of iconic characters that have left an indelible mark on pop culture. From the laser-focused T-800 in 'The Terminator' to the layered essence of Dutch in 'Predator,' each role highlights his extraordinary range. In 'Total Recall,' he captivates audiences with his portrayal of disorientation, while in 'Commando,' his physical prowess shines through.",
+    "img": "https://static.toiimg.com/photo/msid-130365341,imgsize-234132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/arnold-schwarzeneggers-best-characters-the-t-800-dutch-and-more/articleshow/130365341.cms",
+    "time": "2026-04-19T05:19:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Should you buy gold this Akshaya Tritiya? Historical returns with silver, Sensex compared; what 5 experts have to say",
+    "desc": "Today is Akshaya Tritiya, an auspicious day in the Hindu calendars, believed to bring lasting prosperity and good fortune. Buying gold on this day is considered auspicious. Experts believe that returns on gold over the last few years reinforce its role as a long-term wealth preserver.",
+    "img": "https://static.toiimg.com/photo/msid-130364972,imgsize-110522.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/should-you-buy-gold-this-akshaya-tritiya-historical-returns-with-silver-sensex-compared-what-5-experts-have-to-say/articleshow/130364943.cms",
+    "time": "2026-04-19T05:10:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -54,15 +261,6 @@ const newsData_en = [
     "time": "2026-04-19T04:19:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Uttar Pradesh implements advanced unified command system under Jal Jeevan Mission",
-    "desc": "The system, managed through the Unified Command and Control System (UCCS), will enable real-time monitoring and control of water supply systems, covering parameters related to water quality, distribution efficiency, and asset performance across rural areas.",
-    "img": "https://th-i.thgim.com/public/incoming/ekwvme/article70880020.ece/alternates/LANDSCAPE_1200/vz05water.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-implements-advanced-unified-command-system-under-jal-jeevan-mission/article70878236.ece",
-    "time": "2026-04-19T04:15:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump vs Pope",
     "desc": "The 70-year-old pontiff, leader of 1.4 billion Catholics, has spoken out against the American President over the U.S.-Israel war on Iran, saying that in a world ‘being ravaged by a handful of tyrants’, peace ‘is everyone’s responsibility’",
@@ -82,7 +280,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "India's next T20I captain? 'Self-aware' Shreyas Iyer breathing down Suryakumar's neck",
+    "title": "India's next T20I captain? Shreyas Iyer breathing down Surya's neck",
     "desc": "Shreyas Iyer, a seasoned IPL captain, is making a strong case for a return to the Indian T20I squad. Reunited with coach Ricky Ponting at Punjab Kings, Iyer's consistent form and leadership potential are drawing attention. He's seen as a strong contender to replace Suryakumar Yadav, with selectors weighing his immediate impact and future captaincy prospects.",
     "img": "https://static.toiimg.com/photo/msid-130364776,imgsize-34360.cms",
     "src": "indiatimes.com",
@@ -243,15 +441,6 @@ const newsData_en = [
     "time": "2026-04-19T00:52:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "In a first, migratory honey bees get ‘warm womb’ to stay back in winters in Kashmir",
-    "desc": "The Council of Scientific and Industrial Research-Indian Institute of Integrative Medicine (CSIR-IIIM), Pulwama, has been working on climate resilient honeybees to allow beekeepers to avoid having to transfer them to the plains to survive the winter",
-    "img": "https://th-i.thgim.com/public/incoming/ttwjwh/article70879924.ece/alternates/LANDSCAPE_1200/18-%20In%20a%20first%20migratory%20honey%20bees%20get%20warm%20womb%20to%20stay%20back%20in%20winters%20in%20Kashmir-18-04-2026.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/in-a-first-migratory-honey-bees-get-warm-womb-to-stay-back-in-winters-in-kashmir/article70877603.ece",
-    "time": "2026-04-19T00:30:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bhuvneshwar back for India? Ex-cricketer makes bold claim",
     "desc": "Former India cricketer Mohammad Kaif praised Bhuvneshwar Kumar for his superb 3/26 spell that reduced Delhi Capitals to 18/3 while defending 176. Kaif also hinted at a possible India comeback. However, DC recovered through fifties from KL Rahul and Tristan Stubbs, with David Miller finishing the chase after RCB posted 175/8.",
@@ -351,87 +540,6 @@ const newsData_en = [
     "time": "2026-04-18T19:30:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sriperumbudur constituency voters say infrastructure progress does not match industrialisation pace",
-    "desc": "This industrial hub stands as one of the key drivers of Tamil Nadu’s economic engine. But, from traffic congestion, inadequate public transport, deficiencies in access to basic amenities, and pollution, the gaps in infrastructure are far too many.",
-    "img": "https://th-i.thgim.com/public/incoming/lunqii/article70797492.ece/alternates/LANDSCAPE_1200/BVR_0274_01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/voters-say-infrastructure-progress-in-sriperumbudur-does-not-match-pace-of-industrialisation/article70792658.ece",
-    "time": "2026-04-18T19:24:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Historic legacy of Parade Ground in Fort Kochi marred by years of neglect",
-    "desc": "After being given a facelift as one of the practice turfs for the FIFA Under-17 World Cup, some matches of which were held in Kochi in 2017, the ground, one of the few open spaces available to sports enthusiasts in West Kochi, has seen little maintenance since",
-    "img": "https://th-i.thgim.com/public/incoming/gyfsf3/article70877899.ece/alternates/LANDSCAPE_1200/Parade_ground_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/parade-grounds-historic-legacy-eclipsed-by-years-of-neglect/article70876454.ece",
-    "time": "2026-04-18T19:18:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Call to save River Bhavani echoes in Mettupalayam constituency",
-    "desc": "The river, originating in the Nilgiris and flowing 216 km through four districts, has over 20 combined drinking water schemes connected to it between Pillur and Lower Bhavani (Bhavanisagar reservoir). It has almost dried up, with water stagnating in small pits between Mettupalayam town and Sirumugai from the first week of March in the ongoing summer.",
-    "img": "https://th-i.thgim.com/public/incoming/plbyn7/article70795465.ece/alternates/LANDSCAPE_1200/9869_21_5_2024_13_0_29_2_PSX_20240521_125243.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/call-to-save-river-bhavani-echoes-as-mettupalayam-braces-for-poll/article70793863.ece",
-    "time": "2026-04-18T19:15:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Assembly election: flames of DMK’s black flag protest burnt down BJP’s saffron flag, asserts Stalin",
-    "desc": "He says the BJP’s criticism that the DMK is stalling the passage of the women’s reservation Bill will not hold water since the Bill was adopted during 2023 with the support of the Dravidian major",
-    "img": "https://th-i.thgim.com/public/incoming/vid6a7/article70878808.ece/alternates/LANDSCAPE_1200/9869_18_4_2026_20_56_53_1_IMG_20260418_WA0204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-flames-of-dmks-black-flag-protest-burnt-down-bjps-saffron-flag-asserts-stalin/article70878320.ece",
-    "time": "2026-04-18T19:14:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kattumannarkoil, an agrarian constituency where basic demands of farmers remain unfulfilled",
-    "desc": "Given the caste matrix of the constituency, where there are 2.24 lakh voters with a strong mix of Dalits and Vanniyars, it is the consolidation of these major groups that holds the key. The constituency also has a good concentration of Muslims and has traditionally favoured candidates of the DMK, the Congress and the VCK",
-    "img": "https://th-i.thgim.com/public/incoming/46d5q6/article70793280.ece/alternates/LANDSCAPE_1200/2786_28_2_2024_20_30_15_1_VEERANAM1.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kattumannarkoil-sc-an-agrarian-constituency-where-even-basic-demands-of-farmers-remain-unfulfilled/article70791540.ece",
-    "time": "2026-04-18T19:13:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Harbour constituency electors pitch for business development, peace and harmony",
-    "desc": "Unauthorised buildings in the congested area near the Central Railway Station is a challenge while sewer network and storm water drains are inadequate for the highly dense population in the area. Traffic congestion is another major issue.",
-    "img": "https://th-i.thgim.com/public/incoming/ocyr74/article70794204.ece/alternates/LANDSCAPE_1200/2501_27_3_2026_9_13_58_2_IMG_4305.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/electors-pitch-for-business-development-peace-and-harmony-in-harbour-assembly-constituency/article70791858.ece",
-    "time": "2026-04-18T19:08:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "PC’s photo dump features Salman-Aishwarya, Madhuri, Sridevi",
-    "desc": "Priyanka Chopra offered fans a glimpse into her recent days with a candid photo dump, capturing everything from quiet personal moments to travel snippets and a dose of Bollywood nostalgia. Adding a nostalgic touch, Priyanka included a still from Hum Dil De Chuke Sanam, originally starring Salman Khan and Aishwarya Rai Bachchan, hinting at her love for classic Hindi cinema.",
-    "img": "https://static.toiimg.com/photo/msid-130361231,imgsize-55018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-photo-dump-features-salman-khan-aishwarya-rai-madhuri-dixit-sridevi-films-some-here-some-there-/articleshow/130361231.cms",
-    "time": "2026-04-18T19:05:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Gummidipoondi constituency residents want closure of waste disposal facility, restoration of Thamarai lake",
-    "desc": "Some of the burning issues faced by residents of Gummidipoondi constituency are the expansion of the industrial waste disposal facility in SIPCOT industrial complex and health hazards, discharge of sewage into Thamarai lake, lack of public transport facilities, and poor health infrastructure",
-    "img": "https://th-i.thgim.com/public/incoming/rfe4ue/article70795387.ece/alternates/LANDSCAPE_1200/DJI_20260326124233_0065_D.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/residents-want-closure-of-waste-disposal-facility-and-restoration-of-thamarai-lake/article70788262.ece",
-    "time": "2026-04-18T18:51:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Salem North constituency residents demand shifting of two TASMAC outlets",
-    "desc": "At the Kannankurichi town panchayat, most of the lands have been developed into housing plots in the last 15 years and people are willing to buy lands in this panchayat as it is situated near the foothills of Yercaud.",
-    "img": "https://th-i.thgim.com/public/incoming/vznbzn/article70791896.ece/alternates/LANDSCAPE_1200/9869_26_3_2026_19_29_42_2_1000200174.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/residents-demand-shifting-of-two-tasmac-outlets-at-kannankurichi/article70787315.ece",
-    "time": "2026-04-18T18:46:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I was looking at a score around 220-230': Gaikwad after SRH loss",
     "desc": "Chennai Super Kings lost by 10 runs to Sunrisers Hyderabad after a middle-overs slowdown derailed their chase. Ruturaj Gaikwad said restricting SRH to 194 felt good but scoring just four runs after 10 overs proved costly. Despite strong starts, CSK lost momentum. He praised the bowlers, especially Anshul Kamboj, for consistent performances and clarity in execution.",
@@ -459,24 +567,6 @@ const newsData_en = [
     "time": "2026-04-18T18:12:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Chahal’s dig at Kohli’s like on LizLaz’s photos goes viral",
-    "desc": "A single-word comment from Yuzvendra Chahal—“Algorithm”—has added a humorous twist to the buzz around Virat Kohli’s recent Instagram activity, turning it into a full-blown social media moment. The latest chatter began after Kohli briefly liked a January post by LizLaz, a German-South African influencer and avid Royal Challengers Bengaluru supporter. Opening up about the unexpected attention, LizLaz said her reaction was mixed.",
-    "img": "https://static.toiimg.com/photo/msid-130359322,imgsize-52244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahals-algorithm-dig-at-virat-kohlis-instagram-like-on-influencer-lizlazs-photos-goes-viral/articleshow/130359322.cms",
-    "time": "2026-04-18T17:36:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tabu buys Rs 10 crore apartment in Mumbai's Versova",
-    "desc": "Tabu has added a new property to her real estate portfolio, purchasing an apartment in Mumbai’s Versova for Rs 10 crore. The apartment spans around 2,153 sq ft and comes with a balcony measuring approximately 127 sq ft. The registration was completed on March 26, 2026, with a stamp duty of Rs 5.24 lakh and a registration fee of Rs 30,000 paid as part of the deal.",
-    "img": "https://static.toiimg.com/photo/msid-130357616,imgsize-24642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tabu-buys-rs-10-crore-apartment-in-mumbais-versova-deal-includes-two-parking-spaces-report/articleshow/130357616.cms",
-    "time": "2026-04-18T16:06:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek Sharma scripts history for SRH, becomes fastest ever to...",
     "desc": "Abhishek Sharma smashed the fastest fifty in Sunrisers Hyderabad history, reaching the mark in just 15 balls against Chennai Super Kings in IPL 2026. He scored 59 off 22 balls, setting the tone early. In fine form this season, Abhishek continues to provide explosive starts and has already crossed 100 sixes for the franchise.",
@@ -484,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-abhishek-sharma-scripts-history-for-srh-becomes-fastest-ever-to-/articleshow/130356782.cms",
     "time": "2026-04-18T15:49:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samay Raina recalls chilling trauma of Kashmiri Pandit exodus",
-    "desc": "Stand-up comedian Samay Raina has once again spoken about the deep scars left by the Kashmiri Pandit exodus, this time offering a more personal and detailed account of how it impacted his family across generations. Recalling the fear that gripped his family, Raina revealed how his maternal grandfather was directly under threat. Amid the violence, Raina highlighted how his family managed to escape.",
-    "img": "https://static.toiimg.com/photo/msid-130356540,imgsize-23606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-recalls-chilling-kashmiri-pandit-exodus-trauma-grandfather-was-on-kill-list-says-kashmiri-muslims-helped-him-escape/articleshow/130356540.cms",
-    "time": "2026-04-18T15:02:14.000Z"
   },
   {
     "cat": "Business",
@@ -511,51 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-david-miller-redeems-himself-with-last-over-finish-as-dc-chase-down-176-vs-rcb/articleshow/130356204.cms",
     "time": "2026-04-18T14:45:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Women move on'",
-    "desc": "The Revenge, is finally enjoying a phase of recognition that has been a long time coming. Amid the appreciation, the actor also opened up about a deeply personal chapter from his past and how it continues to shape his emotional boundaries today—especially when it comes to marriage.",
-    "img": "https://static.toiimg.com/photo/msid-130355548,imgsize-42410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-dhurandhar-gaurav-gera-says-i-have-started-getting-more-respect-past-love-shaped-his-views-on-marriage-i-feel-women-move-on/articleshow/130355548.cms",
-    "time": "2026-04-18T13:59:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Archana flags 13–14 hour shifts, no lunch breaks on sets",
-    "desc": "The conversation around long working hours and lack of basic amenities on film sets is refusing to die down, with more actors sharing first-hand experiences from the ground. The cast of Toaster—Rajkummar Rao, Sanya Malhotra, Abhishek Banerjee and Archana Puran Singh—recently weighed in, shedding light on how even basic needs are sometimes overlooked during shoots.",
-    "img": "https://static.toiimg.com/photo/msid-130354495,imgsize-51176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singh-flags-1314-hour-shifts-no-lunch-breaks-lack-of-basic-facilities-on-film-sets-kanjoosi-is-a-mentality/articleshow/130354495.cms",
-    "time": "2026-04-18T13:20:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay talks about Rs 8–9L per day fee during 'Jaani Dushman'",
-    "desc": "Ek Anokhi Kahani', revealing that he raked in an astonishing Rs 8-9 lakh daily. As he celebrates the launch of his latest venture 'Bhooth Bangla', this nostalgic glimpse into the past has fans buzzing with excitement. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130353820,imgsize-68532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-opens-up-about-rs-89-lakh-per-day-fee-during-jaani-dushman-era/articleshow/130353820.cms",
-    "time": "2026-04-18T12:36:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarfaraz named head coach; Pakistan include 4 uncapped for B'desh Tests",
-    "desc": "Pakistan have named a 16-man squad for the Bangladesh Tests, led by Shan Masood, with Sarfaraz Ahmed as head coach. Sitting fifth in the WTC, they aim to improve against eighth-placed Bangladesh. Four uncapped players are included, alongside senior stars. A Karachi camp precedes the May 8 start, with matches in Dhaka and Sylhet.",
-    "img": "https://static.toiimg.com/photo/msid-130353174,imgsize-56678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/former-captain-sarfaraz-ahmed-named-head-coach-pakistan-include-4-uncapped-for-bangladesh-tests/articleshow/130352864.cms",
-    "time": "2026-04-18T11:55:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Sanju Samson will captain CSK’",
-    "desc": "Ravichandran Ashwin sees Sanju Samson as a future captain for Chennai Super Kings. Ashwin believes Samson should forge his own path, not follow past leaders. The transition in CSK leadership has been ongoing. Samson has shown strong form recently. He will be a key player in upcoming matches.",
-    "img": "https://static.toiimg.com/photo/msid-130353131,imgsize-178216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-sanju-samson-will-captain-csk-ashwin-makes-bold-claim-on-leadership-shift/articleshow/130353134.cms",
-    "time": "2026-04-18T11:55:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,24 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-extends-sanction-waiver-on-russian-oil-again-how-will-it-impact-india/articleshow/130346867.cms",
     "time": "2026-04-18T05:28:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wall Street at record high after Trump says ‘Hormuz is open’; Dow jumps over 800 points, Nasdaq up 1.5%",
-    "desc": "Global markets surged Friday as easing West Asia tensions spurred a broad risk rally. Wall Street benchmarks hit record highs, led by small-cap stocks, as falling oil prices boosted confidence. Investors anticipate an end to the conflict, with US President Trump expressing optimism for a swift resolution and a deal on uranium.",
-    "img": "https://static.toiimg.com/photo/msid-130346376,imgsize-1503104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-wall-street-at-record-high-after-trump-says-hormuz-is-open-dow-jumps-868-points-nasdaq-up-1-5/articleshow/130346214.cms",
-    "time": "2026-04-18T03:23:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US extends waiver for cargoes already at sea",
-    "desc": "The US Treasury Department has issued a new license extending a waiver for global buyers to purchase Russian oil shipments already at sea until May 16. This decision reverses earlier statements and aims to manage energy market volatility, despite criticism from lawmakers who argue it supports economies engaged in conflicts.",
-    "img": "https://static.toiimg.com/photo/msid-130346235,imgsize-1186879.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/russian-oil-sanctions-us-extends-waiver-for-cargoes-already-at-sea/articleshow/130345925.cms",
-    "time": "2026-04-18T03:00:08.000Z"
   },
   {
     "cat": "Sports",

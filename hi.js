@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Head-to-head record between two teams ahead IPL 2026 game 28",
+    "desc": "The stage is set for the 28th game of the ongoing IPL (Indian Premier League) 2026. Kolkata Knight Riders will take on Rajasthan Royals at the Eden Gardens in Kolkata on April 19, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-rr-head-to-head-record-between-two-teams-ahead-ipl-2026-game-28-2026-04-19-1038066",
+    "time": "2026-04-19T06:52:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chennai Super Kings dealt major blow as in-form Ayush Mhatre suffers hamstring tear in clash against DC",
+    "desc": "Five-time IPL (Indian Premier League) champions Chennai Super Kings have been dealt a major blow as their star batter Ayush Mhatre has sustained a hamstring tear. It is worth noting that Mhatre tore his left...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-dealt-major-blow-as-in-form-ayush-mhatre-suffers-hamstring-tear-in-clash-against-dc-2026-04-19-1038061",
+    "time": "2026-04-19T06:15:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Serge Gnabry's 2025/26 season comes to tragic end with injury, set to miss FIFA World Cup 2026",
     "desc": "In a major blow to Germany and FC Bayern Munich, the side’s star forward Serge Gnabry has been ruled out of the ongoing season due to a torn adductor injury. The star player is likely...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-reveals-problems-that-led-to-split-with-coach-jan-zelezny-2026-04-18-1038023",
     "time": "2026-04-18T15:27:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stubbs, Rahul and Miller's late blitzkrieg takes Delhi to top four in IPL 2026, RCB suffer second defeat",
-    "desc": "Delhi Capitals defeated Royal Challengers Bengaluru by six wickets at the M Chinnaswamy Stadium. After two consecutive defeats, the Axar Patel-led side enjoyed a small break and returned to action with a marquee win. They...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/stubbs-rahul-and-miller-s-late-blitzkrieg-takes-delhi-to-top-four-in-ipl-2026-rcb-suffer-second-defeat-2026-04-18-1038019",
-    "time": "2026-04-18T14:51:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Khaleel Ahmed not playing today's IPL 2026 clash for CSK against SRH in Hyderabad?",
-    "desc": "Khaleel Ahmed was not part of Chennai Super Kings' playing XI as they take on Sunrisers Hyderabad in their sixth match of the Indian Premier League 2026 at the Rajiv Gandhi International Stadium, Hyderabad, on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-khaleel-ahmed-not-playing-todays-ipl-2026-clash-for-csk-against-srh-in-hyderabad-2026-04-18-1038016",
-    "time": "2026-04-18T14:13:51.000Z"
   }
 ];
