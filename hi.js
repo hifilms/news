@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mikel Arteta opens up after Arsenal lose crucial Premier League game to arch-rivals Manchester City",
+    "desc": "The Premier League title race has started to heat up. While Arsenal is still in the lead, Manchester City is also hot on their trail, and the title race has gotten very close after City...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-opens-up-after-arsenal-lose-crucial-premier-league-game-to-arch-rivals-manchester-city-2026-04-20-1038130",
+    "time": "2026-04-20T02:16:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Getting better': LSG skipper Rishabh Pant gives an update on his injury after his side's loss to PBKS",
+    "desc": "Lucknow Super Giants, despite putting up a good fight in the 29th game of the ongoing IPL (Indian Premier League) 2026, failed to move past Punjab Kings. The two sides locked horns in Mullanpur on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/getting-better-lsg-skipper-rishabh-pant-gives-an-update-on-his-injury-after-his-side-s-loss-to-pbks-2026-04-20-1038126",
+    "time": "2026-04-20T01:31:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "CSK youngster to miss few games, no clarity on veteran's comeback",
     "desc": "Chennai Super Kings rising star Ayush Mhatre is set to miss a few games after suffering a hamstring injury during his team's IPL 2026 clash against the Sunrisers Hyderabad on Saturday, April 18. Mhatre pulled...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-creates-unwanted-record-after-second-straight-duck-in-kkr-vs-rr-ipl-2026-clash-2026-04-19-1038102",
     "time": "2026-04-19T13:40:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Blessing Muzarabani's manager hits back at PSL ban and trolls: 'Cannot breach contract you never received'",
-    "desc": "Blessing Muzarabani's team has hit back on the two-year ban from the Pakistan Super League and the trolling he has been facing on social media for not featuring in the Pakistani tournament. Muzarabani was among...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/blessing-muzarabanis-manager-hits-back-at-psl-ban-and-trolls-cannot-breach-contract-you-never-received-2026-04-19-1038091",
-    "time": "2026-04-19T12:04:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND-W vs SA-W 2nd T20I Highlights: South Africa defeat India to take 2-0 lead in series",
-    "desc": "A rusty Indian side will look to fix their batting issues in the death overs and hope for a stronger showing from their pacers as they aim to bounce back against South Africa in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-saw-2nd-t20i-live-cricket-score-india-vs-south-africa-latest-match-updates-scorecard-teams-playing-xis-2026-04-19-1038088",
-    "time": "2026-04-19T11:36:03.000Z"
   }
 ];

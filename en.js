@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Ryan on Lively-Baldoni case: 'People have no idea what's going on'",
+    "desc": "Ryan Reynolds publicly lauded his wife, Blake Lively, for her integrity amidst her ongoing legal battle with 'It Ends With Us' director Justin Baldoni. While some sexual harassment claims were dismissed, Lively's retaliation and defamation case proceeds to trial. Reynolds expressed immense pride in his wife's strength and character throughout the ordeal.",
+    "img": "https://static.toiimg.com/photo/msid-130380355,imgsize-105848.cms",
+    "src": "indiatimes.com",
+    "url": "Ryan Reynolds 'never been more proud' of wife Blake Lively, amid lawsuit with Justin Baldoni: 'People have no idea what's really going on'﻿﻿﻿",
+    "time": "2026-04-20T01:45:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Creator says unseen footage of RK's film showcased",
+    "desc": "Nitesh Tiwari's ambitious adaptation of the 'Ramayana' has taken the film world by storm, especially after its captivating debut at CinemaCon. Attendees are raving about its breathtaking visuals and epic storytelling. Whispers in the industry point to a promising distribution agreement with Warner Bros., coupled with a bold push for Academy Awards recognition. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130380440,imgsize-178738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-creator-reveals-20-minute-unseen-footage-of-ranbir-kapoors-film-showcased-at-cinemacon-oscar-push-in-focus/articleshow/130380440.cms",
+    "time": "2026-04-20T01:43:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Mai match chheen sakta hoon': Vaibhav Sooryavanshi's bold warning",
+    "desc": "Young batting sensation Vaibhav Sooryavanshi is continuing his fiery form in IPL 2026, becoming Rajasthan Royals' highest run-getter with 246 runs in 6 matches at a strike rate of 236.54. The 15-year-old aims to contribute to the senior Indian team after fulfilling his father's dream of playing in the World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-130380441,imgsize-36598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/jitni-der-crease-par-hoon-match-chheen-sakta-hoon-vaibhav-sooryavanshis-bold-warning-to-rivals-watch/articleshow/130380446.cms",
+    "time": "2026-04-20T01:38:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mustafa Mustafa' OTT release",
+    "desc": "Tamil film 'Mustafa Mustafa,' starring Sathish and Suresh Ravi, has landed on Amazon Prime Video after its theatrical run. Directed by Praveen Saravanan, the comedy-drama centers on a TV anchor's pre-wedding crisis involving a compromising video. Friends rally to manage the escalating chaos, promising a fun, albeit predictable, entertainer.",
+    "img": "https://static.toiimg.com/photo/msid-130380326,imgsize-160340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mustafa-mustafa-ott-release-when-and-where-to-stream-sathish-and-suresh-ravis-buddy-comedy-film/articleshow/130380326.cms",
+    "time": "2026-04-20T01:17:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bhooth Bangla' SURPASSES Rs 95 crore globally on Day 3",
+    "desc": "The Revenge' and earning Rs 58 crore net in India by Sunday. Despite mixed critical reviews, the horror-comedy's humor and unique plot have resonated with audiences. The film, directed by Priyadarshan, also marks a reunion after 16 years and is the late Asrani's final film. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130380220,imgsize-158026.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-3-akshay-kumars-film-misses-rs-100-crore-mark-registers-solid-rs-95-crore-debut/articleshow/130380220.cms",
+    "time": "2026-04-20T01:03:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Bengal BJP leader Dinesh Trivedi expected to be new Indian envoy to Bangladesh",
+    "desc": "The timing of appointment is crucial as Bangladesh’s new government needs support to deal with acute energy crisis that has erupted in the country because of U.S.-Israel war on Iran and the Iranian chokehold of the Strait of Hormuz",
+    "img": "https://th-i.thgim.com/public/incoming/77ythk/article70881815.ece/alternates/LANDSCAPE_1200/PTI03_14_2026_000173B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal-bjp-leader-dinesh-trivedi-expected-to-be-new-indian-envoy-to-bangladesh/article70881700.ece",
+    "time": "2026-04-20T01:03:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'My bat is the prize': Shreyas Iyer reveals dressing-room contest",
+    "desc": "Punjab Kings secured a dominant 54-run victory over Lucknow Super Giants, propelling them to the top of the table. Captain Shreyas Iyer revealed a light-hearted six-hitting contest in the dressing room fueled the team's batting prowess, with Priyansh Arya and Cooper Connolly smashing centuries to post a season-high 254/7.",
+    "img": "https://static.toiimg.com/photo/msid-130380269,imgsize-46080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/my-bat-is-the-prize-shreyas-iyer-reveals-dressing-room-contest-behind-punjab-kings-run-fest/articleshow/130380271.cms",
+    "time": "2026-04-20T01:01:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' CRASHES amid 'Bhooth Bangla' release",
+    "desc": "The Revenge is experiencing a slowdown in its fifth week, with new release Bhooth Bangla impacting collections. Despite a dip, the film added Rs 12.55 crore over the weekend, pushing its net India total to Rs 1,115.67 crore. Globally, it has grossed an estimated Rs 1,756.64 crore, nearing Baahubali 2's record.",
+    "img": "https://static.toiimg.com/photo/msid-130380227,imgsize-196368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-32-ranveer-singh-starrer-crashes-amid-akshay-kumars-bhooth-bangla-release-earns-just-rs-12-55-crore-on-fifth-weekend/articleshow/130380196.cms",
+    "time": "2026-04-20T00:54:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Wife Anna Konidela shares update",
+    "desc": "Actor-politician Pawan Kalyan is recovering after undergoing surgery following a sudden health issue that occurred during an official meeting. His wife, Anna Konidela, shared a reassuring update, stating he is doing well. Prime Minister Narendra Modi and other leaders have extended their wishes for his swift recovery.",
+    "img": "https://static.toiimg.com/photo/msid-130380166,imgsize-122646.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-surgery-update-anna-konidela-says-he-is-recovering-ustaad-bhagat-singh-actor-advised-rest/articleshow/130380166.cms",
+    "time": "2026-04-20T00:44:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arya–Connolly carnage rewrites IPL history, trail only Kohli–ABD in elite list",
+    "desc": "Punjab Kings' Priyansh Arya and Cooper Connolly etched their names in IPL history with a blistering 182-run partnership off just 80 balls against Lucknow Super Giants. Their explosive display, featuring 16 sixes, now ranks second only to the legendary Kohli-de Villiers stand for scoring rate in IPL history. This remarkable feat highlights Punjab's emerging talent.",
+    "img": "https://static.toiimg.com/photo/msid-130376415,imgsize-145324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-priyansh-aryacooper-connolly-carnage-rewrites-ipl-history-trail-only-virat-kohliab-de-villiers-in-elite-list/articleshow/130376406.cms",
+    "time": "2026-04-20T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'LIK' BO day 11: Film sees steady overseas boost",
+    "desc": "Love Insurance Kompany, starring Pradeep Ranganathan and Krithi Shetty, has achieved a global box office collection of Rs 54 crore. Despite mixed reviews, the futuristic romantic film is performing well overseas, contributing significantly to its overall success. The movie explores a unique concept of technology-driven compatibility in love.",
+    "img": "https://static.toiimg.com/photo/msid-130380120,imgsize-112292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lik-box-office-collections-day-11-pradeep-ranganathan-starrer-crosses-rs-54-08-cr-worldwide-steady-overseas-boost/articleshow/130380120.cms",
+    "time": "2026-04-20T00:29:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dacoit' BO day 10: Adivi Sesh starrer crosses Rs 50 Cr globally",
+    "desc": "Dacoit, starring Adivi Sesh and Mrunal Thakur, has crossed the Rs 50 crore worldwide mark on its tenth day. The film saw a slight uptick in collections on its second Sunday, with a 5.6% growth in its Day 10 net collection. Overseas markets have significantly contributed to its global success, pushing the total gross to over Rs 50 crore.",
+    "img": "https://static.toiimg.com/photo/msid-130380035,imgsize-102194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dacoit-box-office-collections-day-10-adivi-sesh-starrer-actioner-crosses-rs-50-cr-globally-steady-sunday-growth/articleshow/130380035.cms",
+    "time": "2026-04-20T00:05:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charlize recalls night her mom SHOT and KILLED her dad",
+    "desc": "Charlize Theron bravely shared the harrowing night her father, armed and threatening, broke into their home. Her mother, in an act of self-defense, shot and killed him. Theron, then 15, revealed this deeply personal trauma, hoping to help others feel less alone. Authorities cleared her mother of charges, and life moved forward.",
+    "img": "https://static.toiimg.com/photo/msid-130379998,imgsize-61322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/charlize-theron-recalls-night-her-mother-shot-father-dead-he-was-going-to-kill-us/articleshow/130379964.cms",
+    "time": "2026-04-19T23:58:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "South Korea working with India to secure Hormuz, security of key maritime routes essential for survival of both nations: President Lee",
+    "desc": "South Korean President Lee Jae Myung emphasized close collaboration with India as emerging global leaders amidst geopolitical uncertainty. He highlighted shared values and complementary economies, advocating for upgraded trade agreements, defense industrial cooperation, and joint ventures in critical minerals and shipbuilding to foster mutual growth and innovation.",
+    "img": "https://static.toiimg.com/photo/msid-130374722,imgsize-496129.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/working-with-india-to-secure-hormuz-security-of-key-maritime-routes-essential-for-survival-of-both-nations-president-lee/articleshow/130374604.cms",
+    "time": "2026-04-19T23:31:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Deepika said she wants THREE KIDS with Ranveer- WATCH",
+    "desc": "Bollywood's beloved couple, Ranveer Singh and Deepika Padukone, are expecting their second child, a joyous announcement made via Instagram. Their daughter, Dua, featured in the heartwarming reveal. This news revives Padukone's past aspirations for a large family, having previously expressed a desire for 'lots of babies'. The couple, married in 2018, welcomed Dua in September 2024.",
+    "img": "https://static.toiimg.com/photo/msid-130379932,imgsize-85278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-and-ranveer-singh-announce-second-pregnancy-actresss-old-comment-on-wanting-three-kids-resurfaces-watch/articleshow/130379925.cms",
+    "time": "2026-04-19T23:10:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jennifer reacts to ex-hubby Justin welcoming his first child",
+    "desc": "Justin Theroux and wife Nicole Brydon Bloom joyfully welcomed their first child, a son, as announced by the actor on social media. The news garnered warm wishes from many, including a subtle 'like' from ex-wife Jennifer Aniston, highlighting their amicable post-divorce relationship. Theroux, 54, and Bloom, 32, married in 2025 after announcing their pregnancy in December.",
+    "img": "https://static.toiimg.com/photo/msid-130379820,imgsize-119146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-reacts-to-ex-husband-justin-theroux-welcoming-first-child-with-wife-nicole-brydon-bloom/articleshow/130378099.cms",
+    "time": "2026-04-19T22:18:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL’s Impact Player and the domino effect",
+    "desc": "This is the fourth year of competition with the innovation; while there has been a strident appeal from the playing community to dispense with it, the IPL is insistent that there will be no rethink until after the 2027 edition",
+    "img": "https://th-i.thgim.com/public/incoming/g928yt/article70882104.ece/alternates/LANDSCAPE_1200/_DSC5193A.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/impact-player-and-the-domino-effect/article70882096.ece",
+    "time": "2026-04-19T22:15:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Waiting for another take-off: Dealing with U.P.’s stalled airports",
+    "desc": "Over the past few years, several airports have been inaugurated across second- and third-tier cities of Uttar Pradesh to boost regional connectivity. However, operations at a number of these have been discontinued within weeks of launch, prompting questions over planning, viability and the gap between infrastructure expansion and sustained services",
+    "img": "https://th-i.thgim.com/public/incoming/jnep35/article70881596.ece/alternates/LANDSCAPE_1200/6607_16_9_2025_17_51_58_5_16_09_LUCKNOWAIRPORTONLOOKERS_J.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/waiting-for-another-take-off-dealing-with-ups-stalled-airports/article70881600.ece",
+    "time": "2026-04-19T22:05:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Super Mario' tops box office; 'Bhooth Bangla' debuts among Top 10",
+    "desc": "The Super Mario Galaxy Movie and Project Hail Mary continue their box office reign, pushing Lee Cronin's The Mummy to third place on its debut. While Mario holds strong, Hail Mary shows remarkable staying power. The Mummy's R-rated horror debut faltered with critics and audiences, despite a low production cost.",
+    "img": "https://static.toiimg.com/photo/msid-130378084,imgsize-59344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/super-mario-dominates-north-american-box-office-with-usd-747-million-haul-akshay-kumars-bhooth-bangla-debuts-among-top-10/articleshow/130377894.cms",
+    "time": "2026-04-19T21:42:34.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Will pendulum effect hold true for Krishnagiri constituency this election?",
     "desc": "Krishnagiri has consistenty oscillated between the DMK and AIADMK in hustings since 1984, with the incumbent being an AIADMK MLA; the challenger this time around is from Congress; lack of rail connectivity, grievances of mango farmers and a toll plaza in the wrong place are some of the issues the electorate seeks answers to",
@@ -79,15 +250,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/sitting-mla-takes-on-former-mp-in-alangulam/article70823330.ece",
     "time": "2026-04-19T19:01:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Impact Player and the Domino effect",
-    "desc": "This is the fourth year of competition with the innovation; while there has been a strident appeal from the playing community to dispense with it, the IPL is insistent that there will be no rethink until after the 2027 edition",
-    "img": "https://th-i.thgim.com/public/incoming/8wibxu/article70882104.ece/alternates/LANDSCAPE_1200/_DSC5193A.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/impact-player-and-the-domino-effect/article70882096.ece",
-    "time": "2026-04-19T18:51:54.000Z"
   },
   {
     "cat": "Politics",
@@ -198,15 +360,6 @@ const newsData_en = [
     "time": "2026-04-19T16:41:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "5 Horror movies based on real-life events: 'The Conjuring', 'The Exorcist' and more",
-    "desc": "The scariest horror films are not the ones with the most elaborate monsters or the most expensive special effects. They are the ones that end with the words based on a true story, because nothing the imagination can conjure is quite as disturbing as knowing that something like this actually happened to real people in the real world. Here are five horror films rooted in events that were genuinely, terrifyingly real.",
-    "img": "https://static.toiimg.com/photo/msid-130367127,imgsize-83274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/5-horror-movies-based-on-real-life-events-the-conjuring-the-exorcist-and-more/photostory/130367127.cms",
-    "time": "2026-04-19T16:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Pakistan says it will repay remaining $1.5 billion loan to UAE by April 23 amid IMF funding hopes",
     "desc": "Pakistan aims to repay the remaining $1.5 billion loan to the UAE by April 23, following a $2 billion repayment. This comes as the country anticipates a $1.2 billion disbursement from the IMF after recent negotiations. Saudi Arabia has also extended a $3 billion deposit maturity, depositing $2 billion to bolster reserves.",
@@ -279,15 +432,6 @@ const newsData_en = [
     "time": "2026-04-19T13:49:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Do you eat onions?' PM Modi takes 'jhalmuri break' during Bengal poll campaign",
-    "desc": "Amidst a high-stakes political campaign in West Bengal, Prime Minister Narendra Modi took a refreshing pause for a jhalmuri snack in Jhargram. He interacted with the vendor, inquiring about the price and confirming his liking for onions with a witty remark. This candid moment unfolded as the Prime Minister intensified his campaign efforts across the state.",
-    "img": "https://static.toiimg.com/photo/msid-130371282,imgsize-984768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/do-you-eat-onions-pm-modi-takes-jhalmuri-break-during-bengal-poll-campaign-watch/articleshow/130371223.cms",
-    "time": "2026-04-19T13:23:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran says final deal still far off as Hormuz Strait shuttered",
     "desc": "On April 22, Tehran declared the Strait of Hormuz, through which a fifth of the world’s oil and liquefied natural gas usually transits, open after a temporary ceasefire was agreed to halt Israel’s war with Iran’s ally Hezbollah in Lebanon",
@@ -322,33 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-riyan-parag-under-fire-as-horror-run-continues-with-another-flop-vs-kkr/articleshow/130370094.cms",
     "time": "2026-04-19T12:14:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "18 dead, 6 injured in massive blast at Tamil Nadu's Virudhunagar firecracker factory",
-    "desc": "A devastating blast at a firecracker factory in Tamil Nadu's Virudhunagar on Sunday claimed 18 lives and injured six. Chief Minister MK Stalin expressed deep sorrow, extended condolences to the bereaved families, and dispatched ministers to oversee rescue efforts and provide immediate assistance.",
-    "img": "https://static.toiimg.com/photo/msid-130369924,imgsize-741738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/16-dead-6-injured-in-massive-blast-at-tamil-nadus-virudhunagar-firecracker-factory/articleshow/130369937.cms",
-    "time": "2026-04-19T12:05:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "From friendship to romance",
-    "desc": "In a delightful twist of fate, Kim Kardashian appears to have confirmed her blossoming romance with F1 racing sensation Lewis Hamilton. The spark between the two ignited back in 2014, with numerous public outings and playful exchanges on social media. Just recently, they've been spotted jet-setting to Paris together and attending high-profile events, solidifying the growing buzz around their relationship.",
-    "img": "https://static.toiimg.com/photo/msid-130366229,imgsize-118408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-and-lewis-hamilton-a-decade-long-journey-from-friendship-to-romance/articleshow/130366229.cms",
-    "time": "2026-04-19T12:00:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What the Centre tried to do, why opposition shot it down &amp; what happens next",
-    "desc": "A government bill linking women's reservation to a landmark seat expansion in the parliament and state assemblies was defeated on the floor of the Lok Sabha. The opposition called it a victory against delimitation \"by the backdoor.\" Here is what the bill sought to do, why it collapsed, and what the constitutional fight over representation will look like next.",
-    "img": "https://static.toiimg.com/photo/msid-130369533,imgsize-151490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delimitation-decoded-what-the-centre-tied-to-do-why-opposition-shot-it-down-what-happens-next/articleshow/130369096.cms",
-    "time": "2026-04-19T11:39:58.000Z"
   },
   {
     "cat": "Business",
@@ -405,15 +522,6 @@ const newsData_en = [
     "time": "2026-04-19T08:42:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jessica Alba and Danny Ramirez spotted on a date",
-    "desc": "Hollywood star Jessica Alba and actor Danny Ramirez were recently photographed sharing a public kiss during a dinner date in Beverly Hills. The couple, both sporting stylish black leather jackets, were also accompanied by Alba's eight-year-old son, Hayes. The unexpected presence of Alba's child with her ex-partner, Cash Warren, added a surprising twist to the viral celebrity sighting.",
-    "img": "https://static.toiimg.com/photo/msid-130367221,imgsize-79886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jessica-alba-and-danny-ramirez-spotted-out-and-about-in-public-sharing-a-kiss-spending-time-with-a-surprise-guest-report/articleshow/130367221.cms",
-    "time": "2026-04-19T08:42:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Bulgarians head to the polls to elect a parliament for the eighth time in 5 years",
     "desc": "Since 2021, the nation of 6.5 million has struggled with fragmented parliaments that produced weak governments, none of which managed to survive more than a year before being brought down by street protests or backroom deals in parliament",
@@ -432,15 +540,6 @@ const newsData_en = [
     "time": "2026-04-19T08:12:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Blake Lively and Ryan Reynolds may leave the US",
-    "desc": "Hollywood power couple Blake Lively and Ryan Reynolds are reportedly considering a move to the United Kingdom amidst ongoing legal pressures. Sources suggest Reynolds has a strong affinity for the UK, while Lively hopes for renewed acting opportunities. The couple is also weighing the impact on their four children's schooling and friendships before making any decisions.",
-    "img": "https://static.toiimg.com/photo/msid-130366847,imgsize-86764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/are-blake-lively-and-ryan-reynolds-planning-to-move-out-of-the-us-amid-it-ends-with-us-case-heres-what-we-know/articleshow/130366847.cms",
-    "time": "2026-04-19T08:10:34.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances",
     "desc": "The winning robot, developed by Chinese smartphone brand Honor, finished the race in 50 ⁠minutes and 26 seconds, several minutes faster than the half-marathon world record set by Ugandan runner Jacob Kiplimo in Lisbon last month",
@@ -448,33 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances/article70880082.ece",
     "time": "2026-04-19T08:07:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Isha Koppikar slams underage drinking in Mumbai",
-    "desc": "Isha Koppikar has slammed underage drinking in Mumbai, claiming minors get alcohol “freely” in pubs with “no questions asked, no accountability.” Calling for stricter ID checks, she warns, “Every missed ID check puts a young life in danger,” and urges parents, authorities, and venues to prioritise safety over profit and protect children.",
-    "img": "https://static.toiimg.com/photo/msid-130366931,imgsize-45962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/every-missed-id-check-puts-a-young-life-in-danger-isha-koppikar-slams-underage-drinking-in-mumbai-says-minors-given-alcohol-freely/articleshow/130366931.cms",
-    "time": "2026-04-19T08:03:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Charles Dance may join ‘The Batman Part 2’",
-    "desc": "Veteran actor Charles Dance is reportedly in talks to join Robert Pattinson's 'The Batman Part 2'. Best known for his 'Game of Thrones' role, Dance might portray Charles Dent, father to Harvey Dent, who will be played by Sebastian Stan. Scarlett Johansson is also slated to appear. The film is scheduled for an October 1, 2027 release.",
-    "img": "https://static.toiimg.com/photo/msid-130366807,imgsize-87840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-batman-part-2-charles-dance-may-join-cast-along-with-robert-pattinson-reprising-his-role-as-the-lead/articleshow/130366807.cms",
-    "time": "2026-04-19T07:56:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'His mind appears to be cluttered': Ashwin's blunt take on CSK captain Ruturaj Gaikwad",
-    "desc": "Chennai Super Kings are struggling in IPL 2026, currently seventh with a 2-4 record. Skipper Ruturaj Gaikwad's form is a major concern, with just 82 runs in six matches. Former India spinner R Ashwin believes Gaikwad missed a prime opportunity to regain form against Sunrisers Hyderabad, suggesting he's under immense pressure.",
-    "img": "https://static.toiimg.com/photo/msid-130366800,imgsize-31460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/his-mind-appears-to-be-cluttered-ashwins-blunt-take-on-csk-captain-ruturaj-gaikwad/articleshow/130366784.cms",
-    "time": "2026-04-19T07:53:35.000Z"
   },
   {
     "cat": "World",
@@ -522,33 +594,6 @@ const newsData_en = [
     "time": "2026-04-19T07:25:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sandra Bullock's best movies",
-    "desc": "Sandra Bullock has spent three decades proving that she can do absolutely anything, from action to romantic comedy to Oscar-winning drama to full-blown survival horror, and make every genre feel like it was invented specifically for her. She is one of the rare actors who brings the same warmth, intelligence, and complete commitment to every role, regardless of the scale or the stakes. Here are seven of her best films and exactly where to find them.",
-    "img": "https://static.toiimg.com/photo/msid-130366371,imgsize-79466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sandra-bullocks-best-movies-to-watch-on-ott-speed-bird-box-and-more/photostory/130366371.cms",
-    "time": "2026-04-19T07:13:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Billy Crystal recalls late Milton Berle slapping him twice",
-    "desc": "Billy Crystal recounted two hilarious, yet wholesome, encounters with the late comedy legend Milton Berle. During a live TV taping, Berle, after improvising a hilarious set when cameras failed, playfully slapped Crystal. Weeks later, at Spago, Berle again surprised Crystal with a similar slap after a memorable Jerry Lewis impression, leaving Crystal with unforgettable stories.",
-    "img": "https://static.toiimg.com/photo/msid-130366243,imgsize-111310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billy-crystal-on-late-milton-berle-slapping-him-twice-in-unforgettable-stories/articleshow/130366243.cms",
-    "time": "2026-04-19T07:01:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Song Min Ho to face trial for neglect of military duties",
-    "desc": "Former WINNER star Song Min Ho finds himself in legal hot water as he prepares for trial concerning alleged neglect of his compulsory military service. Charged with leaving his public service assignment without appropriate cause and failing to carry out important responsibilities, both he and a supervising officer have been indicted, yet neither is in custody.",
-    "img": "https://static.toiimg.com/photo/msid-130366067,imgsize-39106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/song-min-ho-to-face-first-trial-hearing-soon-for-allegedly-violating-military-service-act-report/articleshow/130366067.cms",
-    "time": "2026-04-19T06:49:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Pilot training gets dearer on costlier jet fuel, weaker rupee",
     "desc": "Aspiring pilots face a steeper climb as jet fuel prices surge and the rupee weakens, pushing Commercial Pilot Licence (CPL) costs in India to Rs 60-70 lakh. Training abroad now incurs 15-16% higher expenses. This financial strain, coupled with long waits for flying hours and jobs, makes the dream of flying increasingly challenging for many.",
@@ -556,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pilot-training-gets-dearer-on-costlier-jet-fuel-weaker-rupee/articleshow/130366011.cms",
     "time": "2026-04-19T06:38:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepika announces second pregnancy, expecting baby with Ranveer",
-    "desc": "Deepika Padukone and Ranveer Singh are expecting their second child, with Deepika sharing a cute social media post hinting at her baby bump. The couple, married in 2018 in Italy, already welcomed daughter Dua in 2024, and fans are thrilled as their family grows once again.",
-    "img": "https://static.toiimg.com/photo/msid-130365573,imgsize-37234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-announces-second-pregnancy-with-cutest-social-media-post-expecting-baby-with-dhurandhar-star-ranveer-singh/articleshow/130365573.cms",
-    "time": "2026-04-19T05:44:28.000Z"
   },
   {
     "cat": "Business",
@@ -576,15 +612,6 @@ const newsData_en = [
     "time": "2026-04-19T05:10:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "CSK's Michael Hussey shares major concern",
-    "desc": "Chennai Super Kings face a significant injury blow as young batter Ayush Mhatre suffered a hamstring tear during their match against Sunrisers Hyderabad. Mhatre was seen limping badly after pulling up midway through a run, and batting coach Michael Hussey confirmed the injury looks \"really bad\" and could be a \"big loss\" for the team.",
-    "img": "https://static.toiimg.com/photo/msid-130365075,imgsize-1082899.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ayush-mhatre-injury-update-csk-batting-coach-michael-hussey-shares-major-update/articleshow/130365077.cms",
-    "time": "2026-04-19T04:42:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump vs Pope",
     "desc": "The 70-year-old pontiff, leader of 1.4 billion Catholics, has spoken out against the American President over the U.S.-Israel war on Iran, saying that in a world ‘being ravaged by a handful of tyrants’, peace ‘is everyone’s responsibility’",
@@ -592,24 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-vs-pope-leo-xiv-two-americans-two-paths/article70878562.ece",
     "time": "2026-04-19T03:57:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Vaishali didn't even see chess for 15 days': A miraculous story behind Candidates glory",
-    "desc": "Vaishali Rameshbabu’s journey to the Women’s Candidates title wasn’t easy. After a poor run in Chennai shattered her confidence, she even considered skipping the Grand Swiss. A crucial two-hour call with Karthikeyan Murali changed her mind. A mental reset helped her win the event, regain form, and now she prepares to face world champion Ju Wenjun.",
-    "img": "https://static.toiimg.com/photo/msid-130358554,imgsize-80706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/vaishali-didnt-even-see-chess-for-15-days-a-miraculous-story-behind-candidates-glory/articleshow/130358285.cms",
-    "time": "2026-04-19T03:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul reveals 'Virat Kohli, Phil Salt weren't happy'",
-    "desc": "Delhi Capitals, led by KL Rahul, secured a thrilling six-wicket victory over Royal Challengers Bengaluru. Despite an early collapse, Rahul anchored the chase with a fifty, supported by Tristan Stubbs and David Miller's explosive finish. The win halted RCB's home winning streak, with bowlers finding assistance on a tricky M. Chinnaswamy pitch.",
-    "img": "https://static.toiimg.com/photo/msid-130364396,imgsize-1248422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-reveals-virat-kohli-phil-salt-werent-happy-after-dcs-win-over-rcb/articleshow/130364387.cms",
-    "time": "2026-04-19T02:48:39.000Z"
   },
   {
     "cat": "Business",
@@ -684,24 +693,6 @@ const newsData_en = [
     "time": "2026-04-17T19:04:03.000Z"
   },
   {
-    "cat": "World",
-    "title": "Constitution Amendment Bill, part of delimitation package, defeated",
-    "desc": "Major political and geopolitical developments lead today’s headlines. The Constitution Amendment Bill on women’s quota faces a setback in the Lok Sabha, while Sri Lanka’s Power and Energy Minister resigns amid controversy. Iran has reopened the Strait of Hormuz, easing concerns over global shipping, even as remarks by Tejasvi Surya on Telangana trigger a political storm. The Supreme Court also flags illegal sand mining in Madhya Pradesh. Stay tuned for the full breakdown.",
-    "img": "https://th-i.thgim.com/public/news/national/eotmth/article70875148.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-17%20at%209.39.53%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-constitution-amendment-bill-part-of-delimitation-package-defeated/article70875160.ece",
-    "time": "2026-04-17T16:57:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Truce in effect as Trump says Israel ‘prohibited’ from bombing Lebanon",
-    "desc": "Shortly after the truce went into effect at midnight local time, the Army told residents of the south — many of whom had to flee their homes following sweeping Israeli evacuation warnings — not to return, citing “several Israeli acts of aggression”.",
-    "img": "https://th-i.thgim.com/public/incoming/gf2dfw/article70875141.ece/alternates/LANDSCAPE_1200/2026-04-17T085133Z_1417634374_RC2WQKA4768S_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/truce-in-effect-as-trump-says-israel-prohibited-from-bombing-lebanon/article70875143.ece",
-    "time": "2026-04-17T16:51:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "RCB vs DC",
     "desc": "‘Obviously, my strength is hitting the length and hitting it hard. It’s not about floating the ball up, it’s not about digging it in. It is about making it hard for the batter to hit me off that length,’ Hazlewood says on the eve of RCB’s game against Delhi Capitals",
@@ -763,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/venezuela-russia-step-up-crude-shipments-india-benefits/article70866091.ece",
     "time": "2026-04-16T11:52:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gems and jewellery exports fall to five-year low on U.S. tariffs",
-    "desc": "Shipments to the ‌U.S. fell 45% from a year earlier to $5.09 billion, as exports were disrupted for several months after Washington imposed reciprocal ‌tariffs and later added a further 25% ​duty on Indian goods, GJEPC data showed.",
-    "img": "https://th-i.thgim.com/public/incoming/8613nn/article70866193.ece/alternates/LANDSCAPE_1200/2026-04-15T111213Z_1036373750_RC2UAJAHMUVX_RTRMADP_3_INDIA-DIAMONDS-EXPORTS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/gems-and-jewellery-exports-fall-to-five-year-low-on-us-tariffs/article70866170.ece",
-    "time": "2026-04-16T00:20:02.000Z"
   },
   {
     "cat": "Tech",
