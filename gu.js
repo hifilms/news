@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "1 લિટરમાં દોડશે 45 કિમી, સામે આવી વિશ્વની સૌથી વધુ માઇલેજ આપતી હાઇબ્રિડ કાર, બનાવ્યો વર્લ્ડ રેકોર્ડ",
+    "desc": "આ કંપનીએ તેની નવી i-HEV હાઇબ્રિડ ટેકનોલોજીથી દુનિયાને ચોંકાવી દીધી છે. આ AI-સંચાલિત સિસ્ટમે હાઇવે ટેસ્ટમાં 2.22 લિટર ઇંધણ પર 100 કિમીની મુસાફરી કરીને, 45 કિમી પ્રતિ લિટરથી વધુ માઇલેજ આપીને ગિનિસ વર્લ્ડ રેકોર્ડ બનાવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/1-liter-will-run-45-km-the-world-highest-mileage-hybrid-car-has-emerged-setting-a-world-record-474042 ",
+    "time": "2026-04-20T15:23:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "આજે રાત્રે થઈ શકે છે કંઈક મોટું ખતરનાક ! It’s Monday. No excuses... Just wins, ટ્રમ્પના નવા નિવેદનથી ખળભળાટ, જાણો",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે તણાવ ખતરનાક સ્તરે પહોંચી ગયો છે. પરિસ્થિતિ એવી છે કે આજે રાત્રે ગમે ત્યારે મોટો હુમલો થઈ શકે છે. વ્હાઇટ હાઉસે તેના સત્તાવાર સોશિયલ મીડિયા એકાઉન્ટ પર લખ્યું કે, \"બસ, બસ, બહુત થયું, It’s Monday. No excuses... Just wins, આજે સોમવાર છે. કોઈ બહાનું નથી... બસ જીત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/something-big-and-dangerous-could-happen-tonight-its-monday-no-excuses-just-wins-trumps-new-statement-creates-a-stir-know-474040 ",
+    "time": "2026-04-20T14:42:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પાકિસ્તાન ગમે તેટલા ફેરા ફરે, ઈરાન નહીં માને! જાણો અમેરિકાની એ ભૂલ વિશે જેણે બધું બદલી નાખ્યું",
+    "desc": "શું મધ્યપૂર્વમાં મહાયુદ્ધનું કેન્દ્ર સ્ટ્રેટ ઓફ હોર્મુઝ બનવા જઈ રહ્યું છે. ઈરાનના નિયંત્રણ હેઠળ આવેલા હોર્મુઝમાંથી જે સમાચાર આવી રહ્યા છે. તે ખૂબ જ ચિંતાજનક છે. જે ઈરાન સાથે વાતચીત અને સ્થાયી યુદ્ધવિરામની તૈયારી થઈ રહી હતી. એ જ ઈરાનના જહાજો પર અમેરિકી હુમલાઓને કારણે ફરીથી મહાયુદ્ધનો ખતરો મંડરાતો દેખાઈ રહ્યો છે. આખરે હોર્મુઝમાં શું શું બન્યું અને આ મુદ્દે ઈરાનનું શું વલણ છે? ચાલો જાણીએ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/no-matter-how-much-pakistan-tries-iran-wonot-listen-know-about-america-mistake-that-changed-everything-474038 ",
+    "time": "2026-04-20T14:07:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈસ્લામાબાદથી રાવલપિંડી સુધી લોકડાઉન જેવી સ્થિતિ, પાકિસ્તાન દુનિયાથી શું છુપાવી રહ્યું છે? ફરી ઓપરેશન સિંદૂર ચર્ચામાં",
+    "desc": "હોર્મુઝમાં તણાવ વધતા જ પાકિસ્તાનમાં સંપૂર્ણ સન્નાટો છવાઈ ગયો છે. પાકિસ્તાન તૈયારીમાં હતું કે તે ઈરાન સાથેની આગામી ચર્ચામાં અમેરિકાની શરતો માન્ય કરાવીને શાંતિદૂત તરીકે ઓળખાશે પરંતુ હાલની પરિસ્થિતિમાં એવું થતુ દેખાતુ નથી. તો પછી પાકિસ્તાનમાં લોકડાઉન જેવી સ્થિતિ કેમ છે? રાવલપીંડિથી લઈને ઈસ્લામાબાદ સુધીની તસ્વીરો શું સંકેત આપી રહી છે ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/lockdown-like-situation-from-islamabad-to-rawalpindi-what-is-pakistan-hiding-from-the-world-474036 ",
+    "time": "2026-04-20T13:47:09.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "નમાજના ફાયદાઓ જણાવીને મુશ્કેલીમાં ફસાઈ શાર્ક ટેન્કની જજ નમિતા થાપર, લોકોએ આપી ગાળો તો રોતા-રોતા આપી સફાઈ, જુઓ Video",
     "desc": "માર્ચમાં ઈદ પછી નમાઝના ફાયદાઓ પર નમિતા થાપરે એક રીલ બનાવી હતી. તે લાંબા સમયથી આ માટે ટ્રોલ થઈ રહી છે. હવે, નમિતાએ ટ્રોલ્સને જવાબ આપતા કહ્યું છે કે તેમની સાથે આવું કરનારાઓનો કર્મા જવાબ આપશે.",
@@ -459,15 +495,6 @@ const newsData_gu = [
     "time": "2026-04-17T14:34:18.000Z"
   },
   {
-    "cat": "World",
-    "title": "ભારત માટે કેમ જરૂરી છે સ્ટ્રેટ ઓફ મલક્કા? સ્ટ્રેટ ઓફ હોર્મુઝ બાદ હવે અહીં પણ ખતરો!",
-    "desc": "ઈરાન-અમેરિકા યુદ્ધના કારણે સ્ટ્રેટ ઓફ હોર્મુઝ માર્ગ પહેલાથી જ ખોરવાયો છે. સ્ટ્રેટ ઓફ હોર્મુઝ બાદ હવે સ્ટ્રેટ ઓફ મલક્કા પર પણ ખતરો મંડરાઈ રહ્યો છે. ચાલો જાણીએ કે, સ્ટ્રેટ ઓફ મલક્કા ભારત માટે કેટલો મહત્વનો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-is-the-strait-of-malacca-important-for-india-after-the-strait-of-hormuz-now-there-is-a-threat-here-too-473557 ",
-    "time": "2026-04-17T12:03:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કઈ જ્ઞાતિના લોકો કરે છે સૌથી વધુ ઈન્ટર કાસ્ટ મેરેજ, જાતિગત સર્વેમાં થયો ચોંકાવનારો ખુલાસો",
     "desc": "સૌથી વધુ આંતરજ્ઞાતીય લગ્ન (ઈન્ટર કાસ્ટ મેરેજ) કરનારી જ્ઞાતિઓમાં અય્યર, ખ્રિસ્તી અને રાજુ સમાજ સામેલ છે. તેલંગાણામાં અય્યર જ્ઞાતિને આયંગર તરીકે પણ ઓળખવામાં આવે છે. આ ઉપરાંત કાપુ અને બ્રાહ્મણ સમાજના લોકો પણ આંતરજ્ઞાતીય લગ્ન કરવામાં આગળ છે. જ્યારે રેડ્ડી અને વેલામા જ્ઞાતિઓમાં ઇન્ટર કાસ્ટ મેરેજનું ચલણ ઓછું જોવા મળ્યું છે.",
@@ -484,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/624-runs-partnership-world-record-in-test-cricket-kumar-sangakkara-mahela-jayawardene-473536 ",
     "time": "2026-04-17T11:01:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈઝરાયની તબાહીનો અંત આવી ગયો! આકાશમાં કંઈક એવું જોવા મળ્યું, જેમાં લોકોએ બાઈબલ-કુરાનની ભવિષ્યવાણી ગણાવી",
-    "desc": "ઈઝરાયેલ હાલ હમાસ, હિજબુલ્લા અને ઈરાન સાથે ત્રણ મોરચે લડી રહ્યું છે, પરંતું શું ઈઝરાયેલ આ યુદ્ધમાં ટકી શકશે. યુદ્ધ વચ્ચે ઈઝરાયેલમાં કંઈક એવું થયું છે, જેને લોકો ઈઝરાયેલના અંતની ભવિષ્યવાણી ગણી રહ્યાં છે. લોકોમા બાઈબલ અને કુરાનની આ ભવિષ્યવાણીને લઈને ડરનો માહોલ જોવા મળ્યો છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/end-times-signs-israel-in-ssy-as-eer-bible-and-quran-prophecy-after-netivot-bee-attack-473535 ",
-    "time": "2026-04-17T10:54:07.000Z"
   },
   {
     "cat": "Business",
@@ -646,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/data-calling-and-sms-for-1-rupee-bsnl-re-launched-freedom-plan-471978 ",
     "time": "2026-04-08T05:41:54.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "એપ્રિલમાં મારુતિની આ કાર પર બમ્પર ડિસ્કાઉન્ટ ! એક મોડેલ પર તો રૂપિયા 2 લાખ સુધીનો ફાયદો",
-    "desc": "જો તમે નવી કાર ખરીદવાનું વિચારી રહ્યા છો, તો એપ્રિલ તમારા માટે સુવર્ણ તક સાબિત થઈ શકે છે. મારુતિ સુઝુકી નેક્સા તેની કાર પર નોંધપાત્ર ડિસ્કાઉન્ટ ઓફર કરી રહી છે, જેનાથી તમે ₹2 લાખ સુધીની બચત કરી શકો છો. આ ડીલ એટલી આકર્ષક છે કે નવી કાર ખરીદતા પહેલા એકવાર ચોક્કસ તપાસવી જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-nexa-april-2026-discounts-invicto-tio-baleno-offers-471929 ",
-    "time": "2026-04-07T14:51:50.000Z"
   }
 ];
