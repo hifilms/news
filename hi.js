@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Not a Hardik Pandya problem': MI skipper's straightforward reply on Jasprit Bumrah's usage",
+    "desc": "Hardik Pandya likes to keep things simple. And on two occasions in the post-match presentation, he gave simple replies to some questions that seemed to draw much more effort. One of them was a highly...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-a-hardik-pandya-problem-mi-skippers-straightforward-reply-on-jasprit-bumrahs-usage-2026-04-21-1038263",
+    "time": "2026-04-20T18:40:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni's IPL 2025 knocks 'bit of a joke', ex-India cricketer on veteran; blasts for 'sycophancy' culture",
+    "desc": "Former India cricketer Sanjay Manjrekar tore into the Chennai Super Kings for their poor run in the Indian Premier League 2026. Manjrekar also blasted the sycophancy culture 'seeped' into the Indian cricket. The former cricketer also spoke...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-ipl-2025-knocks-bit-of-a-joke-ex-india-cricketer-on-veteran-blasts-for-sycophancy-culture-2026-04-20-1038261",
+    "time": "2026-04-20T18:13:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "All-round Mumbai Indians inflict biggest IPL loss on GT to return to winning ways in Ahmedabad",
+    "desc": "The Mumbai Indians finally displayed a brilliant all-round performance to cap off a huge 99-run win over the Gujarat Titans in their Indian Premier League 2026 clash at the Narendra Modi Stadium in Ahmedabad on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/all-round-mumbai-indians-inflict-biggest-ipl-loss-on-gt-to-return-to-winning-ways-in-ahmedabad-2026-04-20-1038256",
+    "time": "2026-04-20T17:40:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma creates IPL history after jaw-dropping late charge during GT vs MI IPL 2026 clash",
+    "desc": "Tilak Varma has etched his name into the history books with a jaw-dropping late acceleration during the first innings of the Mumbai Indians' clash against the Gujarat Titans in the Indian Premier League 2026 on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-creates-ipl-history-after-jaw-dropping-late-charge-during-gt-vs-mi-ipl-2026-clash-2026-04-20-1038253",
+    "time": "2026-04-20T17:26:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tilak Varma equals all-time record for Mumbai Indians, slams blistering ton to revive team vs GT",
     "desc": "Star batter Tilak Varma achieved a huge milestone as he slammed a blistering hundred for the Mumbai Indians in their IPL 2026 clash against the Gujarat Titans on Monday, April 20. Tilak revived the struggling...",
     "img": "",
@@ -10,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Mumbai look to end losing curse as Gujarat aim to continue winning run",
+    "title": "Mumbai Indians beat Gujarat Titans by 99 runs to return to winning ways",
     "desc": "A struggling Mumbai Indians side is eager to halt its downward spiral as it faces a confident Gujarat Titans unit looking to continue its winning streak in an Indian Premier League clash at the Narendra...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/eoin-morgan-heaps-praise-on-priyansh-arya-lauds-pbks-batting-depth-in-ipl-2026-2026-04-20-1038220",
     "time": "2026-04-20T11:59:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Crisis-hit Mumbai Indians need to answer Titans' call as pressure mounts in IPL 2026",
-    "desc": "Mumbai Indians are under the pump. On paper a strong side that should have been in the top four. On the field, a crisis-hit side that is feeling the heat of an elimination and languishing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/crisis-hit-mumbai-indians-need-to-answer-titans-call-as-pressure-mounts-in-ipl-2026-2026-04-20-1038211",
-    "time": "2026-04-20T11:02:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don't deserve': Mohammad Rizwan responds after reporter asks him to retire from T20 cricket",
-    "desc": "Mohammad Rizwan has been struggling in T20 cricket for quite some time now. His stint in the Big Bash League (BBL) was widely criticised as the wicketkeeper-batter failed to make an impact and he has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-deserve-mohammad-rizwan-responds-after-reporter-asks-him-to-retire-from-t20-cricket-2026-04-20-1038210",
-    "time": "2026-04-20T11:02:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chris Gayle becomes co-owner of Glasgow Mugafians in European T20 League, tournament to start from August 26",
-    "desc": "The European T20 Premier League ( ETPL), Europe’s first ICC-sanctioned T20 franchise league, have announced the Glasgow Mugafians as the new franchise which will represent Scotland. Backed by the Mugafi Group as founding partner, the franchise is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chris-gayle-becomes-co-owner-of-glasgow-mugafians-in-european-t20-league-tournament-to-start-from-august-26-2026-04-20-1038200",
-    "time": "2026-04-20T10:19:44.000Z"
   }
 ];

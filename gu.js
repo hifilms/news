@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "સરકારી કર્મચારીઓ માટે મોટો નિર્ણય, હવે મહિનામાં એકવાર નહીં પણ બે વાર મળશે પગાર; જાણો શું છે કારણ",
+    "desc": "નેપાળની બાલેન શાહ સરકારે સરકારી કર્મચારીઓને દર મહિને બે વાર પગાર આપવાનો નિર્ણય કર્યો છે. સરકાર તરફથી આ નિર્ણય દેશના રોકડ પ્રવાહ (Cash Flow)ને પાટા પર લાવવા માટે લેવામાં આવ્યો છે. હવે દરેક સરકારી કર્મચારીને 15 દિવસના અંતરે પગાર મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/big-decision-for-government-employees-now-salary-will-be-given-twice-a-month-instead-of-once-know-reason-474053 ",
+    "time": "2026-04-20T17:18:22.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "1 લિટરમાં દોડશે 45 કિમી, સામે આવી વિશ્વની સૌથી વધુ માઇલેજ આપતી હાઇબ્રિડ કાર, બનાવ્યો વર્લ્ડ રેકોર્ડ",
     "desc": "આ કંપનીએ તેની નવી i-HEV હાઇબ્રિડ ટેકનોલોજીથી દુનિયાને ચોંકાવી દીધી છે. આ AI-સંચાલિત સિસ્ટમે હાઇવે ટેસ્ટમાં 2.22 લિટર ઇંધણ પર 100 કિમીની મુસાફરી કરીને, 45 કિમી પ્રતિ લિટરથી વધુ માઇલેજ આપીને ગિનિસ વર્લ્ડ રેકોર્ડ બનાવ્યો છે.",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/why-is-gold-attracting-attention-amidst-market-volatility-this-is-why-it-has-increased-its-shine-in-the-digital-age-know-this-473592 ",
     "time": "2026-04-17T16:18:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "સ્ટ્રેટ ઓફ હોર્મુઝ ખુલતાની સાથે જ ઓઈલ-ગેસના ભાવમાં મોટો કડાકો! જાણો ભારત પર શું થશે અસર?",
-    "desc": "ઈરાને 49 દિવસ બાદ યુદ્ધવિરામ દરમિયાન સ્ટ્રેટ ઓફ હોર્મુઝને તમામ કોમર્શિયલ જહાજો માટે ખોલી દીધું છે. તેનાથી વૈશ્વિક ઊર્જા બજારને મોટી રાહત મળી છે. ઓઈલના ભાવમાં અંદાજે 10% અને ગેસના ભાવમાં 8.5% નો ઘટાડો નોંધાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/oil-and-gas-prices-drop-as-strait-of-hormuz-opens-know-what-will-be-the-impact-on-india-473591 ",
-    "time": "2026-04-17T15:09:05.000Z"
   },
   {
     "cat": "Politics",
