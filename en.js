@@ -1,12 +1,264 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Rahul to address election campaign meetings in Southern districts",
+    "desc": "In a major push ahead of the forthcoming elections in Tamil Nadu, Andhra CM N. Chandrababu Naidu, will embark on a two-day campaign tour in the neighbouring State, as part of the NDA’s intensified outreach",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/assembly-elections-2026-live-updates-west-bengal-tamil-nadu-narendra-modi-mk-stalin-mamata-banerjee-april-20-2026/article70883064.ece",
+    "time": "2026-04-20T05:28:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Full list of matches, dates, timings, venues and results",
+    "desc": "The IPL 2026 season intensifies with nine crucial matches scheduled from April 20-26, as teams battle for playoff berths. Unbeaten Punjab Kings lead the standings, while Gujarat Titans are on a winning streak. This week's fixtures include key clashes like GT vs MI and SRH vs DC, promising significant shifts in the points table.",
+    "img": "https://static.toiimg.com/photo/msid-130383325,imgsize-163554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-schedule-this-week-20-26-april-full-list-of-matches-dates-timings-venues-and-results/articleshow/130383029.cms",
+    "time": "2026-04-20T05:26:01.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ryan on Lively-Baldoni case: 'People have no idea what's going on'",
     "desc": "Ryan Reynolds publicly lauded his wife, Blake Lively, for her integrity amidst her ongoing legal battle with 'It Ends With Us' director Justin Baldoni. While some sexual harassment claims were dismissed, Lively's retaliation and defamation case proceeds to trial. Reynolds expressed immense pride in his wife's strength and character throughout the ordeal.",
     "img": "https://static.toiimg.com/photo/msid-130380355,imgsize-105848.cms",
     "src": "indiatimes.com",
-    "url": "Ryan Reynolds 'never been more proud' of wife Blake Lively, amid lawsuit with Justin Baldoni: 'People have no idea what's really going on'﻿﻿﻿",
-    "time": "2026-04-20T01:45:35.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-reynolds-never-been-more-proud-of-wife-blake-lively-amid-lawsuit-with-justin-baldoni-people-have-no-idea-whats-really-going-on/articleshow/130380286.cms",
+    "time": "2026-04-20T05:14:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Predicted playing XI, head-to-head, pitch report, Ahmedabad weather update",
+    "desc": "Mumbai Indians face a crucial IPL 2026 encounter against a surging Gujarat Titans, desperately seeking to end a four-match losing streak. Mumbai's batting and bowling have faltered, while Gujarat rides a three-game winning wave. The Ahmedabad pitch, favoring first-innings scores, and extreme heat could influence tactical decisions for this high-stakes clash.",
+    "img": "https://static.toiimg.com/photo/msid-130382668,imgsize-68636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-match-today-gt-vs-mi-predicted-playing-xi-head-to-head-pitch-report-ahmedabad-weather-update/articleshow/130382650.cms",
+    "time": "2026-04-20T04:45:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ignore BP at 30, pay at 50: Study warns",
+    "desc": "A new study reveals that even a slight increase in blood pressure during your 30s significantly raises heart disease risk decades later. Researchers found a 20-22% higher risk for every 10 mm Hg systolic rise, even at normal levels. Experts emphasize early lifestyle interventions, not medication, for prevention.",
+    "img": "https://static.toiimg.com/photo/msid-130382597,imgsize-1399200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ignore-bp-at-30-pay-at-50-study-warns/articleshow/130382570.cms",
+    "time": "2026-04-20T04:40:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Energy drinks linked to rising liver damage in young Indians, warn doctors",
+    "desc": "Young Indians are facing a silent threat to their liver health from excessive energy drink consumption. Specialists report a surge in liver dysfunction cases among youth, linked to these beverages, alcohol, and sugary drinks. Experts warn of potential long-term damage like fatty liver disease, emphasizing the need for lifestyle changes and reduced intake.",
+    "img": "https://static.toiimg.com/photo/msid-130382610,imgsize-491325.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/energy-drinks-linked-to-rising-liver-damage-in-young-indians-warn-doctors/articleshow/130382568.cms",
+    "time": "2026-04-20T04:40:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Rs 37 lakhs cash, gold, silver coins seized': CBI arrests DGCA deputy director general in bribery case",
+    "desc": "The CBI has arrested a senior DGCA official and a private company representative for allegedly accepting a bribe of Rs 2.5 lakhs. The official, a deputy director general, was accused of demanding undue advantage for issuing approvals. Searches at four locations led to the seizure of Rs 37 lakhs in cash, gold, silver coins, and digital devices.",
+    "img": "https://static.toiimg.com/photo/msid-130382524,imgsize-44654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rs-37-lakhs-cash-gold-silver-coins-seized-cbi-arrests-dgca-deputy-director-general-in-bribery-case/articleshow/130382456.cms",
+    "time": "2026-04-20T04:34:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NMC proposes to ease norms for establishing medical college, tighten PG education standards",
+    "desc": "The National Medical Commission in its proposed amendments to the “Registration of Medical Practitioners and Licence to Practice Medicine (Amendment), Regulations 2026” has also mooted the idea of introducing a single-State licence for Armed Forces Medical Services (AFMS) doctors to practice across the country",
+    "img": "https://th-i.thgim.com/public/incoming/cta4xp/article70877472.ece/alternates/LANDSCAPE_1200/IMG_BL1808_Banking_Secon_5_1_KQEP6K9T.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nmc-proposes-to-ease-norms-for-establishing-medical-college-tighten-pg-education-standards/article70877366.ece",
+    "time": "2026-04-20T04:30:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Arasan' actor Silambarasan turns vegetarian; shares simple advice",
+    "desc": "Actor Silambarasan has embraced a vegetarian diet for fitness, citing a feeling of lightness and reduced bloating compared to his previous non-vegetarian meals. He advises fans to be disciplined with their food habits, emphasizing that strictness is necessary at some point for long-term health. This lifestyle change comes amidst his busy film schedule.",
+    "img": "https://static.toiimg.com/photo/msid-130382368,imgsize-99690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/silambarasan-turns-vegetarian-for-fitness-arasan-actor-shares-simple-advice-on-healthy-living/articleshow/130382368.cms",
+    "time": "2026-04-20T04:24:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Angry over 'not invited', politician uses tractor to destroy cricket pitch",
+    "desc": "A local politician, reportedly upset over not being invited to a cricket tournament's final, drove a tractor onto the pitch in Dharangaon, India, and vandalized it. The shocking incident, captured on video, rendered the field unplayable, forcing the match to be called off. While police intervened, organisers opted not to file a formal complaint.",
+    "img": "https://static.toiimg.com/photo/msid-130382333,imgsize-26894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shocking-angry-over-not-invited-politician-uses-tractor-to-destroy-cricket-pitch-watch/articleshow/130382267.cms",
+    "time": "2026-04-20T04:20:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Rohit Sharma play vs GT today? MI coach drops big fitness update",
+    "desc": "Mumbai Indians received a positive update on Rohit Sharma's fitness ahead of their IPL 2026 clash against Gujarat Titans on Monday. Coach Paras Mhambrey confirmed Rohit is fit and batting in the nets, though a final decision on his participation is pending. His return could be crucial for MI's struggling campaign.",
+    "img": "https://static.toiimg.com/photo/msid-130382031,imgsize-112546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-rohit-sharma-play-against-gujarat-titans-today-mumbai-indians-coach-drops-big-fitness-update/articleshow/130382018.cms",
+    "time": "2026-04-20T04:02:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Bengal will remember': TMC jabs PM Modi over 'jhalmuri break', claims Jharkhand CM had to return",
+    "desc": "Trinamool Congress criticized Prime Minister Narendra Modi for his jhalmuri break in Jhargram, alleging it caused Jharkhand CM Hemant Soren to be denied chopper landing and return without campaigning for Mamata Banerjee. The party accused Modi of displaying an anti-Adivasi mindset and humiliating elected leaders, claiming his actions prioritized photo opportunities over democratic rights.",
+    "img": "https://static.toiimg.com/photo/msid-130381955,imgsize-134790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bengal-will-remember-tmc-jabs-pm-modi-over-jhalmuri-break-claims-jharkhand-cm-had-to-return/articleshow/130381950.cms",
+    "time": "2026-04-20T03:56:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock market today (April 20, 2026): Nifty50 opens below 24,300; BSE Sensex down over 200 points as oil prices rise on Hormuz closure",
+    "desc": "Sensex and Nifty opened in red on Monday on weak global cues as the closure of Strait of Hormuz led to an increase in oil prices. While Nifty50 went below 24,300, BSE Sensex dropped over 200 points.",
+    "img": "https://static.toiimg.com/photo/msid-130381810,imgsize-106106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-april-20-2026-dalal-street-indian-equities-global-markets-us-iran-ceasefire-donald-trump-oil-prices/articleshow/130381760.cms",
+    "time": "2026-04-20T03:48:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "On delimitation and Parliament seats",
+    "desc": "What is delimitation, and how does it work in India? What changes were proposed in the 131st Constitutional Amendment Bill? Why was an increase in Lok Sabha seats proposed? What concerns did the Opposition raise against the Bills? What is the way forward?",
+    "img": "https://th-i.thgim.com/public/incoming/cewmpj/article70881971.ece/alternates/LANDSCAPE_1200/PTI04_17_2026_000495B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/on-delimitation-and-parliament-seats-explained/article70880712.ece",
+    "time": "2026-04-20T03:46:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman to appear in 'Raja Shivaji'; Riteish makes announcement",
+    "desc": "In a stunning announcement that has sent ripples through the entertainment world, Bollywood's quintessential 'Bhaijaan', Salman Khan, is set to take on a monumental role in Riteish Deshmukh's upcoming historical epic, 'Raja Shivaji'. The reveal sparked excitement during a live segment of 'Bigg Boss Marathi Season 6', leading fans to speculate wildly about him possibly embodying Jiva Mahala. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130381633,imgsize-112372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-to-appear-in-raja-shivaji-riteish-deshmukh-makes-the-big-announcement/articleshow/130381633.cms",
+    "time": "2026-04-20T03:33:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhanush earns massive praise at ‘Kara’ pre-release event",
+    "desc": "Dhanush earned massive praise at the 'Kara' pre-release event. Colleagues like GV Prakash, Mari Selvaraj, and Ishari Ganesh lauded his dedication and powerful performances. They highlighted his professionalism and talent. The film 'Kara' is set to release on April 30. The event showcased the deep respect Dhanush commands in the film industry.",
+    "img": "https://static.toiimg.com/photo/msid-130381705,imgsize-102204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-earns-massive-praise-at-kara-event-gv-prakash-mari-selvaraj-ishari-ganesh-and-others-hail-his-dedication-powerful-performance/articleshow/130381705.cms",
+    "time": "2026-04-20T03:30:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arjun-Preity's reunion send fans on a nostalgic trip",
+    "desc": "Bollywood stars Arjun Rampal and Preity Zinta sparked nostalgia at an IPL match, reuniting in the stands and delighting fans. Their appearance, reminiscent of their 'Dil Hai Tumhaara' days, triggered a wave of social media memories. Zinta cheered for Punjab Kings while Rampal also showed support, proving their enduring friendship from screen to stadium.",
+    "img": "https://static.toiimg.com/photo/msid-130381034,imgsize-119250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-rampal-and-preity-zinta-reunite-at-ipl-match-send-dil-hai-tumhaara-fans-on-a-nostalgic-trip/articleshow/130380507.cms",
+    "time": "2026-04-20T03:28:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Man City crush Arsenal hopes, seize control of title race",
+    "desc": "Manchester City surged ahead in the Premier League title race, defeating Arsenal 2-1 thanks to Erling Haaland's decisive goal. This victory significantly dents Arsenal's championship hopes, while City now holds a commanding position. Elsewhere, Liverpool secured a dramatic derby win, Aston Villa triumphed in a thriller, and Nottingham Forest boosted survival chances with a strong performance.",
+    "img": "https://static.toiimg.com/photo/msid-130381589,imgsize-196584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/premier-league-man-city-crush-arsenal-hopes-seize-control-of-title-race/articleshow/130381590.cms",
+    "time": "2026-04-20T03:17:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhanush turns trolls into inspiration at ‘Kara’ event",
+    "desc": "At the 'Kara' trailer launch, Dhanush addressed trolls with maturity, turning memes into inspiration and emphasizing self-belief. He also discussed title criticism, highlighting how initial doubts on 'Velaiilla Pattadhari' and 'Thiruchitrambalam' gave way to success. Dhanush also teased a close-to-reality 'Vadachennai 2' update and praised co-star Mamitha Baiju.",
+    "img": "https://static.toiimg.com/photo/msid-130381559,imgsize-90888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-turns-trolls-into-inspiration-at-kara-event-all-about-the-actors-powerful-speech-viral-moments-and-big-updates/articleshow/130381559.cms",
+    "time": "2026-04-20T03:15:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "Kolkata Knight Riders secured a crucial victory, ending a six-match winless streak and keeping their tournament hopes alive. Spinner Varun Chakravarthy, returning to form with a three-wicket haul, highlighted the immense significance of the win, attributing his success to a more spinner-friendly pitch.",
+    "img": "https://static.toiimg.com/photo/msid-130381545,imgsize-95042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-saw-more-tears-today-than-when-we-won-ipl-varun-chakravarthy/articleshow/130381520.cms",
+    "time": "2026-04-20T03:14:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices surge 7%: US energy secretary issues warning as gas tops $4 per gallon amid Hormuz tensions",
+    "desc": "Oil prices have spiked dramatically as Iran re-imposed a blockade on the vital Strait of Hormuz, sparking global market jitters. Indian tankers faced gunfire, and US forces seized an Iranian vessel, escalating military tensions. Diplomatic efforts are underway in Pakistan, but a ceasefire extension remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-130381296,imgsize-528420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-prices-surge-7-us-energy-secretary-issues-warning-as-gas-tops-4-per-gallon-amid-hormuz-tensions/articleshow/130381108.cms",
+    "time": "2026-04-20T03:04:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI look to break Motera jinx and get back into contention",
+    "desc": "Mumbai Indians face a crucial must-win match against Gujarat Titans, having won only one of their first five games. MI's bowling attack has struggled for penetration, while their batting has shown inconsistency, particularly in finishing innings. Gujarat Titans possess a strong bowling unit and will be looking to capitalize on MI's early-season struggles.",
+    "img": "https://static.toiimg.com/photo/msid-130381354,imgsize-95816.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-mumbai-indians-look-to-break-motera-jinx-and-get-back-into-contention/articleshow/130381322.cms",
+    "time": "2026-04-20T02:59:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB admits ‘no contract’ but stands firm on punishment",
+    "desc": "The Pakistan Cricket Board acknowledged no formal contract was sent to Blessing Muzarabani for the PSL but defended his two-year ban, citing a verbal agreement. Muzarabani's agent refuted this, stating a contract is needed for an NOC, and called the ban excessive. The dispute arose after Muzarabani opted for the IPL over the PSL.",
+    "img": "https://static.toiimg.com/photo/msid-130381240,imgsize-146228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/blessing-muzarabani-psl-ban-pcb-admits-no-contract-but-stands-firm-on-punishment/articleshow/130381213.cms",
+    "time": "2026-04-20T02:52:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Typecaseting...'",
+    "desc": "Filmmaker Anurag Kashyap distanced himself from acting to avoid being pigeonholed by monotonous roles, craving fresh avenues for creative expression. His commitment to artistic growth is a testament to the fluidity of filmmaking. When he decided to return, it was with a fierce determination to embrace roles that defied expectations and expanded the horizons of his craft. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130381018,imgsize-195002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-on-why-he-quit-acting-says-different-versions-of-the-same-character-pushed-him-away/articleshow/130381018.cms",
+    "time": "2026-04-20T02:41:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Arrests in Noida workers’ protests ‘illegal’, say activists",
+    "desc": "“Mass detentions without presenting grounds for arrest or copies of FIRs, and the failure to name specific persons in the FIRs, are among the illegal means through which the police have acted,” said an advocate",
+    "img": "https://th-i.thgim.com/public/incoming/f1z2bm/article70882167.ece/alternates/LANDSCAPE_1200/05_Press_Conference_19_04_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/arrests-in-noida-workers-protests-illegal-say-activists/article70882161.ece",
+    "time": "2026-04-20T02:31:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's 150kmph bowling hope still lives in village without roads",
+    "desc": "Ashok Sharma is being touted as the next big thing from India's fast bowling stable. But in his village, Rampura, on the Delhi-Mumbai Expressway, around 35 km from Rajasthan's capital Jaipur, his family speaks about his biggest dream -- the blue jersey. Ashok Sharma has picked up six wickets in five matches this season so far for Gujarat Titans.",
+    "img": "https://static.toiimg.com/photo/msid-130364726,imgsize-27324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/indias-150kmph-bowling-hope-still-lives-in-village-without-roads-inside-ashok-sharmas-dream/articleshow/130364699.cms",
+    "time": "2026-04-20T02:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In West Bengal, the real battle is between SIR &amp; anti-incumbency",
+    "desc": "As Mamata Banerjee seeks a fourth straight term, SIR — which has deleted or put under adjudication one in 10 of the state’s voters — has eclipsed incumbency, recasting Bengal’s election as a struggle over identity and exclusion",
+    "img": "https://static.toiimg.com/photo/msid-130380758,imgsize-212537.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-west-bengal-the-real-battle-is-between-sir-anti-incumbency/articleshow/130380727.cms",
+    "time": "2026-04-20T02:22:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhanush's 'Kara' trailer promises a solid box office hit",
+    "desc": "The trailer for Dhanush's upcoming film 'Kara' has generated significant excitement, showcasing him as a mysterious bank robber. Directed by Vignesh Raja and featuring a strong supporting cast, the crime thriller promises intense action, gripping mystery, and a potential box office hit. The film's stylish presentation and engaging storyline have fueled high expectations among fans.",
+    "img": "https://static.toiimg.com/photo/msid-130380756,imgsize-75278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-trailer-dhanush-stuns-as-a-mysterious-robber-plot-promises-a-solid-box-office-hit/articleshow/130380756.cms",
+    "time": "2026-04-20T02:18:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul's long-standing record shattered! Priyansh Arya creates history",
+    "desc": "Priyansh Arya smashed a blistering 93 off 37 balls against Lucknow Super Giants. His innings powered Punjab Kings to a massive 254/7. Punjab Kings successfully defended the total, restricting LSG to 200/5. Arya's performance earned him Player of the Match. This win keeps Punjab Kings at the top of the table.",
+    "img": "https://static.toiimg.com/photo/msid-130380596,imgsize-70120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-priyansh-arya-breaks-kl-rahuls-massive-ipl-record/articleshow/130380570.cms",
+    "time": "2026-04-20T02:14:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,6 +387,15 @@ const newsData_en = [
     "time": "2026-04-19T23:10:54.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "US national stopped for satellite phone-like device in J&amp;K, let off after checks",
+    "desc": "A US national, Jeffrey Scott, was briefly stopped at Srinagar airport with a satellite communication device. Authorities cleared him after determining he carried it as a navigational aid for trekking, unaware of India's ban. He was allowed to depart after a background check revealed no malicious intent.",
+    "img": "https://static.toiimg.com/photo/msid-130381619,imgsize-657527.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/us-national-stopped-for-satellite-phone-like-device-in-jk-let-off-after-checks/articleshow/130378702.cms",
+    "time": "2026-04-19T22:20:28.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Jennifer reacts to ex-hubby Justin welcoming his first child",
     "desc": "Justin Theroux and wife Nicole Brydon Bloom joyfully welcomed their first child, a son, as announced by the actor on social media. The news garnered warm wishes from many, including a subtle 'like' from ex-wife Jennifer Aniston, highlighting their amicable post-divorce relationship. Theroux, 54, and Bloom, 32, married in 2025 after announcing their pregnancy in December.",
@@ -216,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-19T19:31:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' singer Jasmine Sandlas opens up on her battle with alcoholism",
-    "desc": "Singer Jasmine Sandlas candidly shared her struggle with alcoholism, revealing she turned to drinking at 23 to cope with life's challenges and childhood heartbreaks. She detailed hitting rock bottom, feeling profound loneliness despite company, and ultimately finding strength for recovery with her family's unwavering support, especially her mother's love.",
-    "img": "https://static.toiimg.com/photo/msid-130377466,imgsize-32710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-singer-jasmine-sandlas-opens-up-on-her-battle-with-alcoholism-i-drank-more-than-i-should-have-and-i-regret-it/articleshow/130377249.cms",
-    "time": "2026-04-19T19:15:09.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Vandalism of Ambedkar statue in Ghaziabad sparks outrage",
     "desc": "A SWAT team has also reached the spot and is working on the matter. CCTV footage from the area is being examined. Strict action will be taken against those involved, says DCP, Rural Ghaziabad, Surendra Nath Tiwari.",
@@ -243,33 +495,6 @@ const newsData_en = [
     "time": "2026-04-19T19:09:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Alangulam constituency lacks job opportunities, vegetable storage facilities",
-    "desc": "Even though literacy rate in this constituency has gone up considerably over the years and the educationally qualified youth are leaving for other areas for employment, their parents are still languishing in beedi rolling industry",
-    "img": "https://th-i.thgim.com/public/incoming/z47aac/article70882144.ece/alternates/LANDSCAPE_1200/2315_4_4_2026_21_5_22_1_BEEDI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/sitting-mla-takes-on-former-mp-in-alangulam/article70823330.ece",
-    "time": "2026-04-19T19:01:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Despite a slew of infrastructure projects, Poonamallee constituency residents point to gaps in civic amenities",
-    "desc": "They demand a functional underground sewer system, motorable interior roads, and reliable drinking water supply; despite housing the Chembarambakkam lake, the area continues to face water supply issues; DMK MLA Krishnaswamy says most poll promises have been met",
-    "img": "https://th-i.thgim.com/public/incoming/xnlvpn/article70827841.ece/alternates/LANDSCAPE_1200/1559_4_4_2026_19_31_19_2_TRAFFICPOVAIBUSSTAND1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/despite-a-slew-of-infrastructure-projects-poonamallee-constituency-residents-point-to-gaps-in-civic-amenities/article70822893.ece",
-    "time": "2026-04-19T18:50:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AIADMK looks to defend Melur and Usilampatti, its southern strongholds",
-    "desc": "Intra-party conflicts, which eroded the party’s core base in the southern districts, do not have much impact on these two constituencies in Madurai; while the AIADMK has won from the Melur Assembly segment five times consecutively since 2001, Usilampatti has rarely elected a DMK candidate",
-    "img": "https://th-i.thgim.com/public/incoming/aqapdi/article70882130.ece/alternates/LANDSCAPE_1200/9864_19_4_2026_21_57_59_2__DSC0365.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-looks-to-defend-melur-and-usilampatti-its-southern-strongholds/article70881192.ece",
-    "time": "2026-04-19T18:42:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Jaw dropping'- Shreyas Iyer stunned by Arya–Connolly destruction show",
     "desc": "Priyansh Arya and Cooper Connolly's explosive 182-run partnership powered Punjab Kings to a 54-run victory over Lucknow Super Giants. Arya smashed 93 off 37 balls, while Connolly hit 87 off 45, setting a massive target. Captain Shreyas Iyer lauded their exceptional intent and composure, highlighting the team's environment that allows young batters to express themselves freely.",
@@ -279,33 +504,6 @@ const newsData_en = [
     "time": "2026-04-19T18:31:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Export disruption hits ‘Bangalore Rose’ onion farmers; MP seeks urgent support",
-    "desc": "In a letter to Union Agriculture and Farmers’ Welfare Minister Shivraj Singh Chouhan, MP for Chickballapur Sudhakar has urged the Centre to step in with immediate market support measures. He has called for procurement interventions to prevent distress in sales and stabilise prices.",
-    "img": "https://th-i.thgim.com/public/incoming/lpnxdf/article70882107.ece/alternates/LANDSCAPE_1200/roseonion_2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/export-disruption-hits-bangalore-rose-onion-farmers-mp-seeks-urgent-support/article70881653.ece",
-    "time": "2026-04-19T18:29:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Development, welfare, civic problems shape poll mood in Thiru. Vi. Ka. Nagar constituency",
-    "desc": "Residents say their struggle for basic amenities in some areas still persist; night food stalls and commercial activity have encroached road space and worsened traffic congestion; those living in railway lands in Rajiv Gandhi Nagar and Mangalapuram are also seeking alternate housing",
-    "img": "https://th-i.thgim.com/public/incoming/w9clly/article70824671.ece/alternates/LANDSCAPE_1200/DSC_5587.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/development-welfare-and-civic-problems-shape-the-poll-mood-in-thiru-vi-ka-nagar/article70823399.ece",
-    "time": "2026-04-19T18:23:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Arshad said his children wouldn't have pressure like SRK, Hrithik's kids",
-    "desc": "Arshad Warsi, celebrating his 58th birthday, revealed his children Zeke and Zene Zoe are interested in cinema. While his son is gaining experience behind the camera, his daughter is pursuing education. Warsi, however, emphasizes individual effort and luck over industry connections, believing his children must forge their own paths.",
-    "img": "https://static.toiimg.com/photo/msid-130376444,imgsize-128266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-arshad-warsi-said-his-children-wouldnt-have-the-pressure-that-shah-rukh-khan-or-hrithik-roshans-kids-have-when-they-become-actors/articleshow/130376434.cms",
-    "time": "2026-04-19T18:17:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Arya and Connolly’s brutal ball-striking tears apart LSG as PBKS seal 54-run win",
     "desc": "Priyansh Arya and Cooper Connolly delivered a stunning 182-run partnership off 80 balls, propelling Punjab Kings to a formidable 254/7. Their elegant yet brutal hitting, characterized by precise timing rather than brute force, dismantled the Lucknow Super Giants' bowling attack. This exceptional display set the stage for a dominant 54-run victory.",
@@ -313,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-priyansh-arya-and-cooper-connollys-brutal-ball-striking-tears-apart-lsg-as-pbks-seal-54-run-win/articleshow/130376051.cms",
     "time": "2026-04-19T18:00:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Linking women’s reservation with delimitation is unconstitutional, contends G. Ramakrishnan",
-    "desc": "He says by doing this, the Centre knew full well that opposition parties will oppose the Bill, and once they did, it can campaign against the opposition in West Bengal and Tamil Nadu based on the issue",
-    "img": "https://th-i.thgim.com/public/incoming/rnp33a/article70881317.ece/alternates/LANDSCAPE_1200/2085_8_12_2025_18_2_27_2_DSC_2072.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/linking-womens-reservation-with-delimitation-is-unconstitutional-contends-g-ramakrishnan/article70881247.ece",
-    "time": "2026-04-19T17:59:58.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +540,6 @@ const newsData_en = [
     "time": "2026-04-19T16:41:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Virat-Anushka make first appearance post the Instagram 'like' controversy",
-    "desc": "Virat Kohli and Anushka Sharma made their first public appearance post a social media controversy, spotted at the airport. Kohli's gesture of carrying Anushka's bag garnered praise, while fans admired their affectionate interaction. The controversy involved a reported 'like' on a model's post, which the model later addressed.",
-    "img": "https://static.toiimg.com/photo/msid-130374270,imgsize-67700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-anushka-sharma-serve-couple-goals-make-first-appearance-after-the-like-controversy-involving-german-influencer-lizlaz/articleshow/130374260.cms",
-    "time": "2026-04-19T16:41:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Pakistan says it will repay remaining $1.5 billion loan to UAE by April 23 amid IMF funding hopes",
     "desc": "Pakistan aims to repay the remaining $1.5 billion loan to the UAE by April 23, following a $2 billion repayment. This comes as the country anticipates a $1.2 billion disbursement from the IMF after recent negotiations. Saudi Arabia has also extended a $3 billion deposit maturity, depositing $2 billion to bolster reserves.",
@@ -378,24 +558,6 @@ const newsData_en = [
     "time": "2026-04-19T15:11:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "RGV on the underworld connection behind Chori Chori Chupke Chupke",
-    "desc": "The 2001 film Chori Chori Chupke Chupke, known for its early depiction of surrogacy, became infamous for its ties to the Mumbai underworld. Financier Bharat Shah unknowingly funded the project, later discovering producer Nazim Rizvi's alleged links to Chhota Shakeel. This led to extortion attempts and Shah's eventual arrest and conviction for failing to disclose these connections.",
-    "img": "https://static.toiimg.com/photo/msid-130372805,imgsize-48812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-talks-about-the-underworld-connection-behind-salman-khans-chori-chori-chupke-chupke/articleshow/130372700.cms",
-    "time": "2026-04-19T15:08:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Luck was on my side’: Rinku Singh reveals game-changing moment in KKR win over RR",
-    "desc": "Kolkata Knight Riders secured their first IPL 2026 victory with a thrilling four-wicket win over Rajasthan Royals, thanks to Rinku Singh's unbeaten 53. Singh admitted a dropped catch early in his innings proved to be the turning point, allowing him to guide KKR through a nervy chase to the finish line.",
-    "img": "https://static.toiimg.com/photo/msid-130372678,imgsize-92364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-luck-was-on-my-side-rinku-singh-reveals-game-changing-moment-in-kolkata-knight-riders-win-over-rajasthan-royals/articleshow/130372350.cms",
-    "time": "2026-04-19T15:02:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "KKR snap losing streak as Rinku Singh holds nerve in RR last-over thriller",
     "desc": "Kolkata Knight Riders ended their six-match winless streak in IPL 2026, securing a four-wicket victory against Rajasthan Royals at the Eden Gardens on Sunday. Rinku Singh's unbeaten 53 guided KKR to the target with two balls to spare, a much-needed win after repeated collapses. The win lifts them off the bottom of the table.",
@@ -403,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kolkata-knight-riders-snap-losing-streak-as-rinku-singh-holds-nerve-in-rajasthan-royals-last-over-thriller/articleshow/130372212.cms",
     "time": "2026-04-19T14:29:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Was DP hiding pregnancy at Rishab Sharma's concert, lunch date with Ranveer?",
-    "desc": "Deepika Padukone and Ranveer Singh announced their second pregnancy on April 19, sparking fan speculation about her earlier public appearances. Fans recalled her March 20 concert outfit and subsequent sightings in loose clothing, believing they had noticed signs of her pregnancy then. Her JioMart ad appearance is also being re-examined by fans.",
-    "img": "https://static.toiimg.com/photo/msid-130372146,imgsize-37100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/was-deepika-padukone-hiding-her-pregnancy-at-rishab-sharmas-concert-lunch-date-with-ranveer-singh-post-dhurandhar-2-netizens-revisit-old-videos/articleshow/130372015.cms",
-    "time": "2026-04-19T14:23:44.000Z"
   },
   {
     "cat": "Business",
@@ -423,15 +576,6 @@ const newsData_en = [
     "time": "2026-04-19T14:03:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Deepika to shoot intense action scenes, will work through her second pregnancy",
-    "desc": "Deepika Padukone and Ranveer Singh joyfully announced their second pregnancy on Akshaya Tritiya, with their daughter Dua featured in the reveal. Despite this personal milestone, Padukone remains committed to her professional life, actively filming intense action sequences for 'Raaka' and completing 'King' throughout her pregnancy.",
-    "img": "https://static.toiimg.com/photo/msid-130371695,imgsize-38396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-is-shooting-intense-action-sequences-for-raaka-will-work-all-through-her-second-pregnancy/articleshow/130371425.cms",
-    "time": "2026-04-19T13:49:33.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran says final deal still far off as Hormuz Strait shuttered",
     "desc": "On April 22, Tehran declared the Strait of Hormuz, through which a fifth of the world’s oil and liquefied natural gas usually transits, open after a temporary ceasefire was agreed to halt Israel’s war with Iran’s ally Hezbollah in Lebanon",
@@ -441,15 +585,6 @@ const newsData_en = [
     "time": "2026-04-19T12:51:41.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Jofra Archer scripts history vs KKR, becomes only second bowler to...",
-    "desc": "Opening the bowling for Rajasthan Royals, Archer bowled KKR opener Tim Seifert for a golden duck with the first delivery of KKR’s innings. With this, Archer now has five wickets on the first ball of an IPL innings, matching Shami’s record.",
-    "img": "https://static.toiimg.com/photo/msid-130370358,imgsize-31130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jofra-archer-scripts-history-vs-kkr-becomes-only-second-bowler-to-/articleshow/130370275.cms",
-    "time": "2026-04-19T12:36:21.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US-Iran tensions, crude swings and Q4 earnings to drive markets",
     "desc": "Dalal Street eyes US-Iran conflict, crude oil, and corporate earnings for direction. HDFC Bank and ICICI Bank reported Q4 results, with the former warning of West Asia conflict risks. Analysts anticipate continued focus on geopolitical developments and their impact on global markets and capital flows.",
@@ -457,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-this-week-us-iran-tensions-crude-swings-and-q4-earnings-to-drive-markets/articleshow/130370015.cms",
     "time": "2026-04-19T12:21:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Riyan Parag under fire as horror run continues with another flop vs KKR",
-    "desc": "Rajasthan Royals captain Riyan Parag's batting struggles persisted in IPL 2026, as he managed only 12 runs against Kolkata Knight Riders. Across six matches, Parag has scored a mere 61 runs, highlighting a worrying dip in form. His dismissal contributed to a middle-order collapse, leaving Royals with a below-par total.",
-    "img": "https://static.toiimg.com/photo/msid-130369470,imgsize-140972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-riyan-parag-under-fire-as-horror-run-continues-with-another-flop-vs-kkr/articleshow/130370094.cms",
-    "time": "2026-04-19T12:14:40.000Z"
   },
   {
     "cat": "Business",
@@ -486,15 +612,6 @@ const newsData_en = [
     "time": "2026-04-19T10:41:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘You can’t breach a contract you never received’: Muzarabani’s camp slams PSL ban",
-    "desc": "Zimbabwean pacer Blessing Muzarabani faces a two-year PSL ban for withdrawing from a deal, but his agency vehemently denies any wrongdoing. They assert no formal contract was signed, making the ban unjustified. While the league cites a breach of commitment, the agency calls the penalty excessive and urges its withdrawal, highlighting an administrative error amidst Muzarabani's IPL success.",
-    "img": "https://static.toiimg.com/photo/msid-130367860,imgsize-95780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-you-cant-breach-a-contract-you-never-received-muzarabanis-camp-fires-back-at-psl-ban/articleshow/130367856.cms",
-    "time": "2026-04-19T09:44:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran fully closes Strait of Hormuz over U.S. blockade",
     "desc": "Iran's Revolutionary Guard navy warned vessels not to move from their anchorage in the Persian Gulf and the Sea of Oman, as “approaching the Strait of Hormuz will be considered as cooperation with the enemy\"",
@@ -502,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-fully-closes-strait-of-hormuz-over-us-blockade/article70879044.ece",
     "time": "2026-04-19T09:09:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'A lethal combination': Ashwin lauds Iyer’s red-hot form fueling his captaincy",
-    "desc": "Ravichandran Ashwin lauded Shreyas Iyer's captaincy, noting his evolution into a trusted leader. Iyer's ability to foster a 'brotherhood' within the Punjab Kings, coupled with his exceptional batting form, has propelled the team to the top of the IPL 2026 table. His consistent performances and hunger for improvement are making him a formidable force.",
-    "img": "https://static.toiimg.com/photo/msid-130367351,imgsize-134354.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/a-lethal-combination-ashwin-lauds-shreyas-iyers-red-hot-form-fueling-his-captaincy/articleshow/130367334.cms",
-    "time": "2026-04-19T08:59:06.000Z"
   },
   {
     "cat": "Business",
@@ -529,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bulgaria-parliamentary-elections-rumen-radev-april-19-2026-updates/article70880075.ece",
     "time": "2026-04-19T08:15:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I don’t care about strike rate’: SRH star’s bold stance after win over CSK",
-    "desc": "Heinrich Klaasen proved his worth for Sunrisers Hyderabad with a crucial innings. He addressed concerns about his scoring pace, stating that adapting to match situations is more important than strike rate. Klaasen's mature approach helped SRH post a competitive total. The team secured a close victory against Chennai Super Kings. This win highlights the impact of Klaasen's contributions.",
-    "img": "https://static.toiimg.com/photo/msid-130367010,imgsize-60340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-i-dont-care-about-strike-rate-srh-stars-bold-stance-after-win-over-csk/articleshow/130366988.cms",
-    "time": "2026-04-19T08:12:53.000Z"
   },
   {
     "cat": "Tech",
@@ -574,24 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-lpg-consumption-drops-13-in-march-amid-middle-east-supply-disruptions/articleshow/130366533.cms",
     "time": "2026-04-19T07:33:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will LSG skipper Rishabh Pant play against Punjab Kings today?",
-    "desc": "Rishabh Pant has been declared fit for Lucknow Super Giants' IPL 2026 clash against Punjab Kings, easing injury concerns after a blow to his elbow. Medical scans confirmed a bruise, not a fracture, and Pant has resumed training. His return is a significant boost for LSG, though he faces pressure to improve his batting form.",
-    "img": "https://static.toiimg.com/photo/msid-130366494,imgsize-118970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-lsg-skipper-rishabh-pant-play-against-punjab-kings-today/articleshow/130366479.cms",
-    "time": "2026-04-19T07:27:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR get timely boost as Rs 18 crore recruit finally joins squad",
-    "desc": "Kolkata Knight Riders have received a significant boost with the arrival of Sri Lankan pace sensation Matheesha Pathirana, who has cleared fitness tests. Despite his presence, the team management might be cautious about his immediate inclusion. KKR, struggling with six winless matches and tactical questions, faces a strong Rajasthan Royals side.",
-    "img": "https://static.toiimg.com/photo/msid-130366474,imgsize-74596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kkr-get-timely-boost-as-rs-18-crore-recruit-finally-joins-squad/articleshow/130366471.cms",
-    "time": "2026-04-19T07:25:41.000Z"
   },
   {
     "cat": "Business",
@@ -646,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pakistan-army-chief-munir-concludes-three-day-iran-visit/article70876894.ece",
     "time": "2026-04-18T10:14:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt approves 2% dearness allowance raise for central govt employees",
-    "desc": "Central government employees will see a 2% Dearness Allowance increase, approved by the Cabinet. This comes as employee bodies push for significant pay structure reforms under the proposed 8th Pay Commission, seeking a higher fitment factor and expanded family definitions for pay calculations.",
-    "img": "https://static.toiimg.com/photo/msid-130349168,imgsize-990402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/da-hike-govt-approves-2-dearness-allowance-raise-for-central-govt-employees/articleshow/130349174.cms",
-    "time": "2026-04-18T07:33:23.000Z"
   },
   {
     "cat": "World",
@@ -826,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

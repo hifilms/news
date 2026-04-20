@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Wrestlemania 42 round-up: Roman Reigns wins WWE World Championship, Cody Rhodes retains; Check results",
+    "desc": "WWE’s biggest show of the year, WrestleMania 42, finally came to an end with the show of shows putting up quite the spectacle yet another year. The marquee event was held across two days with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/wrestlemania-42-round-up-roman-reigns-wins-wwe-world-championship-cody-rhodes-retains-check-results-2026-04-20-1038151",
+    "time": "2026-04-20T05:15:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
+    "desc": "The stage is set for the 30th game of the ongoing IPL (Indian Premier League) 2026. Gujarat Titans will take on Mumbai Indians at the Narendra Modi Stadium in Ahmedabad. The two sides will meet...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-mi-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-04-20-1038141",
+    "time": "2026-04-20T04:18:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "R Ashwin suggests how star India batter can make his way into T20I setup after stellar showings in the IPL",
+    "desc": "Former India cricketer Ravichandran Ashwin recently came forward and heaped massive praise on ace India batter Shreyas Iyer and talked about him potentially being included in the Indian T20I setup after his recent brilliant performances...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-suggests-how-star-india-batter-can-make-his-way-into-t20i-setup-after-stellar-showings-in-the-ipl-2026-04-20-1038134",
+    "time": "2026-04-20T03:29:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mikel Arteta opens up after Arsenal lose crucial Premier League game to arch-rivals Manchester City",
     "desc": "The Premier League title race has started to heat up. While Arsenal is still in the lead, Manchester City is also hot on their trail, and the title race has gotten very close after City...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-lsg-ipl-2026-live-cricket-score-punjab-kings-vs-lucknow-super-giants-latest-match-updates-scorecard-teams-2026-04-19-1038106",
     "time": "2026-04-19T14:37:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rinku Singh, Anukul Roy star as KKR finally open their victory account in IPL 2026",
-    "desc": "Rinku Singh was handed a lifeline out of nowhere in the 156-run chase against the Rajasthan Royals at the Eden Gardens, Kolkata, as he led Kolkata Knight Riders to their first win of the Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-anukul-roy-star-as-kkr-finally-open-their-victory-account-in-ipl-2026-2026-04-19-1038105",
-    "time": "2026-04-19T14:21:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Mayank Yadav playing in today's IPL match for LSG against PBKS in New Chandigarh?",
-    "desc": "Mayank Yadav missed out as Lucknow Super Giants face Punjab Kings in their sixth match of the Indian Premier League 2026 at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh. Yadav has already...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-mayank-yadav-playing-in-todays-ipl-match-for-lsg-against-pbks-in-new-chandigarh-2026-04-19-1038103",
-    "time": "2026-04-19T13:55:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajinkya Rahane creates unwanted record after second straight duck in KKR vs RR IPL 2026 clash",
-    "desc": "Kolkata Knight Riders captain Ajinkya Rahane has set an unwanted all-time record in the Indian Premier League 2026. Rahane bagged his second consecutive duck in the tournament after being dismissed by Nandre Burger in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-creates-unwanted-record-after-second-straight-duck-in-kkr-vs-rr-ipl-2026-clash-2026-04-19-1038102",
-    "time": "2026-04-19T13:40:22.000Z"
   }
 ];

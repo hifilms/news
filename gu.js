@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "6,6,6,6,6... લખનૌની હારનો સૌથી મોટો વિલન સાબિત થયો આ ખેલાડી, એક જ ઓવરમાં આપ્યા 32 રન",
+    "desc": "લખનૌ સુપર જાયન્ટ્સની હાર માટે આ ખેલાડી સૌથી મોટો વિલન સાબિત થયો હતો. એક જ ઓવરમાં તેણે 32 રન આપ્યા હતા. રવિવારે રમાયેલી IPL 2026ની મેચમાં પંજાબ કિંગ્સે લખનૌ સુપર જાયન્ટ્સને 54 રનથી હરાવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-lsg-vs-pbks-aiden-markram-lsg-lost-against-punjab-kings-473958 ",
+    "time": "2026-04-20T05:19:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બજાર ખુલતા જ સોનું ધડામ થયું; એક ઝટકે ભાવમાં મોટો ઘટાડો, ચાંદી પણ ગગડી, જાણો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં વૈશ્વિક અનિશ્ચિતતાઓના પગલે સતત ઉથલપાથલ જોવા મળી રહી છે. ગત સપ્તાહની તેજી બાદ આજે ફરી ભાવ ધડામ થતા જોવા મળ્યા છે. વાયદા બજારમાં સોનું 1 ટકાથી વધુ તૂટ્યું છે જ્યારે ચાંદી લગભગ 2 ટકા જેટલી તૂટી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-fell-as-soon-as-market-opened-also-drop-in-silver-price-check-latest-rate-aaj-no-sona-no-bhav-473955 ",
+    "time": "2026-04-20T04:59:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-US War: જેનો ડર હતો એ જ થયું, સીઝફાયર તૂટ્યો! અમેરિકાએ ઈરાની જહાજ પકડ્યું, તો ઈરાને કર્યો વળતો પ્રહાર",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે નવેસરથી મામલો ભડક્યો છે કારણ કે યુદ્ધવિરામ વચ્ચે જ અમેરિકાએ ઈરાની જહાજ પકડ્યા બાદ મીડિયા રિપોર્ટ્સ મુજબ ઈરાને પણ વળતો પ્રહાર કરીને અમેરિકાના જહાજો પર હુમલો કર્યો હોવાનું સામે આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-attack-and-seize-iranian-ship-in-hormuz-iran-warn-warns-for-big-respose-fresh-drone-attack-473939 ",
+    "time": "2026-04-20T03:24:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IPL દરમિયાન મળી હતી દેશ છોડવાની અને નાગરિકતા બદલવાની ઓફર, રાશિદ ખાનનો ચોંકાવનારો ખુલાસો",
     "desc": "અફઘાનિસ્તાનના સ્ટાર સ્પિનર રાશિદ ખાને ખુલાસો કર્યો છે કે, તેમને ભારત અને ઓસ્ટ્રેલિયા તરફથી નાગરિકતા અને તેમના દેશ વતી રમવાની ઓફર મળી હતી, પરંતુ તેમણે આ ઓફર ઠુકરાવી દીધી હતી. તેમણે સ્પષ્ટ કહ્યું કે, જો તે પોતાના દેશ માટે નહીં રમે, તો બીજા કોઈ દેશ માટે પણ નહીં રમે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -450,24 +477,6 @@ const newsData_gu = [
     "time": "2026-04-17T06:55:58.000Z"
   },
   {
-    "cat": "World",
-    "title": "શું આગામી 48 કલાકમાં ઈરાન-અમેરિકા યુદ્ધ સમાપ્ત થઈ જશે? ટ્રમ્પે આપ્યા મોટા સંકેત",
-    "desc": "ઈરાન સામેના યુદ્ધમાં હવે ટ્રમ્પ નબળા પડી રહ્યા હોય તેવુ લાગી રહ્યું છે. તેઓએ અચાનક સૂર બદલ્યો છે અને 48 કલાકમાં યુદ્ધ બંધ કરવાની વાત કરી છે. આ વાત પરથી લાગે છે કે, યુદ્ધને લઈ ડોનાલ્ડ ટ્રમ્પ ખુદ ફસાઈ ગયા છે. હવે તેઓ હોર્મુઝ મુ્દ્દે પાછી પાની કરે તેવી શક્યતા દેખાઈ રહી છે. ત્યારે ટ્રમ્પના બદલાતા નિવેદનો પર ઉભા થયા સવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-the-iran-america-war-end-in-the-next-48-hours-trump-gave-big-hints-473439 ",
-    "time": "2026-04-16T16:01:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અક્ષય તૃતીયા પર વધી જશે સોનાનો ભાવ, શું ખરીદવાનો આ છે યોગ્ય સમય ? જાણો કેવી રીતે કરવું પ્રી-બુકિંગ",
-    "desc": "આ વર્ષે અક્ષય તૃતીયા પહેલા સોનાના ભાવ ગયા વર્ષની સરખામણીમાં 60% વધ્યા છે. 19 એપ્રિલે અક્ષય તૃતીયા પર સોનાના ભાવ કયાં સુધી પહોંચશે, તેમજ તમે સસ્તું સોનું કેવી રીતે પ્રી-બુક કરાવી શકો છો, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/akshaya-tritiya-2026-gold-rate-prediction-how-to-book-cheapest-gold-473397 ",
-    "time": "2026-04-16T12:16:22.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "મજા ન આવે તો પૈસા પાછા ! 75% બાયબેક ગેરંટી સાથે લોન્ચ એક શાનદાર SUV",
     "desc": "લગભગ પાંચ વર્ષ પછી Volkswagen Taigunનું નવું ફેસલિફ્ટ મોડેલ લોન્ચ કરવામાં આવ્યું છે. આ SUV સાથે કંપની બાયબેક ગેરંટી પણ આપી રહી છે, જે હેઠળ ગ્રાહકોને વાહન પસંદ ન આવે તો 75% બાયબેક ગેરંટી આપવામાં આવે છે.",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sunita-ahuja-patch-up-with-kashmera-shah-and-krushna-abhishek-after-big-family-controversy-473290 ",
     "time": "2026-04-16T03:34:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "એક બાદ એક હાર... KKRની નિષ્ફળતાનો અસલી વિલન કોણ ? કેપ્ટન અજિંક્ય રહાણેએ કોને ગણાવ્યો જવાબદાર",
-    "desc": "કોલકાતા નાઈટ રાઈડર્સને IPL 2026માં ચોથી હારનો સામનો કરવો પડ્યો, કારણ કે ચેન્નાઈ સુપર કિંગ્સે તેને 32 રનથી હરાવ્યું. કેપ્ટન અજિંક્ય રહાણેએ આ હાર માટે કોને જવાબદાર ગણાવ્યો અને KKR સતત કેમ હારી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-responsible-for-kkrs-failure-captain-ajinkya-rahane-reaction-473203 ",
-    "time": "2026-04-15T10:17:56.000Z"
   },
   {
     "cat": "Entertainment",
