@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Chris Gayle becomes co-owner of Glasgow Mugafians in European T20 League, tournament to start from August 26",
+    "desc": "The European T20 Premier League ( ETPL), Europe’s first ICC-sanctioned T20 franchise league, have announced the Glasgow Mugafians as the new franchise which will represent Scotland. Backed by the Mugafi Group as founding partner, the franchise is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chris-gayle-becomes-co-owner-of-glasgow-mugafians-in-european-t20-league-tournament-to-start-from-august-26-2026-04-20-1038200",
+    "time": "2026-04-20T10:19:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-Head record ahead of game 30 in IPL 2026",
+    "desc": "Gujarat Titans are all set to host Mumbai Indians in the 30th game of the ongoing IPL (Indian Premier League) 2026. The two sides will meet at the Narendra Modi Stadium in Ahmedabad, and with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-mi-head-to-head-record-ahead-of-game-30-in-ipl-2026-2026-04-20-1038185",
+    "time": "2026-04-20T08:34:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Zaheer Khan slams LSG management for bizarre batting order call after loss to Punjab Kings",
     "desc": "Lucknow Super Giants’ roller coaster of a campaign continued in the Indian Premier League (IPL) 2026. With six matches played, the side has won two matches and has lost the remaining four. Under the leadership...",
     "img": "",
@@ -61,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-opens-up-after-arsenal-lose-crucial-premier-league-game-to-arch-rivals-manchester-city-2026-04-20-1038130",
     "time": "2026-04-20T02:16:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Getting better': LSG skipper Rishabh Pant gives an update on his injury after his side's loss to PBKS",
-    "desc": "Lucknow Super Giants, despite putting up a good fight in the 29th game of the ongoing IPL (Indian Premier League) 2026, failed to move past Punjab Kings. The two sides locked horns in Mullanpur on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/getting-better-lsg-skipper-rishabh-pant-gives-an-update-on-his-injury-after-his-side-s-loss-to-pbks-2026-04-20-1038126",
-    "time": "2026-04-20T01:31:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK youngster to miss few games, no clarity on veteran's comeback",
-    "desc": "Chennai Super Kings rising star Ayush Mhatre is set to miss a few games after suffering a hamstring injury during his team's IPL 2026 clash against the Sunrisers Hyderabad on Saturday, April 18. Mhatre pulled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ayush-mhatre-and-ms-dhoni-injury-update-csk-youngster-to-miss-few-games-no-clarity-on-veterans-comeback-2026-04-20-1038123",
-    "time": "2026-04-19T18:36:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings become first team in IPL history to achieve massive record after mauling LSG in New Chandigarh",
-    "desc": "The serial chase masters, Punjab Kings, mauled the Lucknow Super Giants in their defence of a huge 254 at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh to stay unbeaten in IPL 2026....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-become-first-team-in-ipl-history-to-achieve-massive-record-after-mauling-lsg-in-new-chandigarh-2026-04-19-1038121",
-    "time": "2026-04-19T18:20:35.000Z"
   }
 ];

@@ -1,12 +1,57 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "25-30 હજાર કમાતા લોકો પણ બની શકે છે કરોડપતિ...જાણો કેવી રીતે, આ છે ફોર્મ્યુલા",
+    "desc": "જો તમારી ઉંમર 30 વર્ષ છે અને તમારો પગાર 25-30 હજાર છે અને તમે મહિને 5થી 10 હજાર રૂપિયા બચાવો છો તો તમે પણ કરોડપતિ બની શકો છો. આ માટે તમારે યોગ્ય જગ્યાએ રોકાણ કરવપં પડશે. ત્યારે તમે કેવી રીતે ઓછા રોકાણમાં કરોડપતિ બની શકો છો, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/invest-5000-every-month-and-become-a-crorepati-know-the-calculation-474014 ",
+    "time": "2026-04-20T10:40:55.000Z"
+  },
+  {
     "cat": "World",
     "title": "ન ખામેનેઈ, ન ઈરાનના રાષ્ટ્રપતિ... આ વ્યક્તિ પાસે છે તેહરાનની અસલી તાકાત, કોણ છે અહમદ વાહિદી?",
     "desc": "ઈરાનના સુપ્રીમ લીડર મુઝ્તબા ખામેનેઈ હજુ સુધી જાહેરમાં સામે આવ્યા નથી. તેમના બહાર ન આવવાથી ઈરાનના સૌથી મોટા નિર્ણય ઇસ્લામિક રિવોલ્યુશનરી ગાર્ડના ચીફ અહમદ વાહિદી લઈ રહ્યાં છે. વાહિદીના કહેવા પર જ હોર્મુઝ ખોલવામાં આવ્યું નથી, જ્યારે ઈરાનના વિદેશ મંત્રી તેની જાહેરાત કરી ચૂક્યા હતા.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/neither-khamenei-nor-the-president-of-iran-this-person-holds-the-real-power-of-tehran-who-is-ahmad-vahidi-473984 ",
-    "time": "2026-04-20T07:59:39.000Z"
+    "time": "2026-04-20T10:38:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આ વખતે લફરેબાજ પતિની લાઈફમાં આવશે 2 હોટ ગર્લ્સ, પતિ પત્ની ઔર વો 2 નું મજેદાર ટીઝર વાયરલ",
+    "desc": "પત્ની બ્યુટીફુલ હોય તો પણ પતિની લફરાં કરવાની ફિતરત ન બદલે... આ થીમ પર બનેલી કોમેડી ડ્રામા ફિલ્મ પતિ પત્ની ઓર વો દો નું મજેદાર ટીઝર આજે રિલીઝ કરવામાં આવ્યું છે. આ ફિલ્મમાં આયુષમાન ખુરાના એક નહીં 2 ચક્કર ચલાવતો જોવા મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ayushmann-khurrana-upcoming-comedy-drama-film-pati-patni-aur-woh-do-teaser-and-release-date-474004 ",
+    "time": "2026-04-20T10:02:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "OMG! હવે કારમાં હશે ટોઈલેટ! બટન દબાવતા જ નીચેથી નીકળશે કમોડ, વિગતો જાણી દંગ રહી જશો",
+    "desc": "ટેક્નોલોજીના જમાનામાં આગળ રહેવા માટે જાત જાતના આઈડિયા લોકો અજમાવી રહ્યા છે. આવું જ કઈક ઓટોમોબાઈલ ક્ષેત્રે પણ જોવા મળી રહ્યું છે. એક કાર બનાવતી કંપનીએ ખુબ જ ચોંકાવનારી પેટન્ટ ફાઈલ કરી છે જે કારમાં ટોઈલેટ હોવા બાબતે છે. ખાસ જાણો આ રસપ્રદ માહિતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/omg-toilet-in-car-chinese-company-seres-files-patent-check-details-auto-news-in-gujarati-474003 ",
+    "time": "2026-04-20T10:01:58.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "મોબાઇલ યુઝર્સને મોટો ઝટકો, આ કંપનીના રિચાર્જ પ્લાન થયા અચાનક મોંઘા",
+    "desc": "એરટેલે તેના ગ્રાહકોને મોટો ઝટકો આપ્યો છે. કંપનીએ રાતોરાત તેના રિચાર્જ પ્લાન મોંઘા કરી દીધા છે. એરટેલે તેના લોકપ્રિય પ્લાનની કિંમતમાં વધારો કર્યો છે. આ પ્લાન હવે દેખાતો નથી તેના બદલે એક નવો પ્લાન જોવા મળી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/airtel-recharge-hike-rs-859-prepaid-plan-now-costs-rs-899-473991 ",
+    "time": "2026-04-20T09:04:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સાધ્વીમાંથી મોર્ડન &amp;#039;મમ્સ&amp;#039; બની ગઈ મમતા કુલકર્ણી, દારુની પાર્ટી કરી સેલીબ્રેટ કર્યો બર્થ ડે, Video થયો વાયરલ",
+    "desc": "મમતા કુલકર્ણી ઈંસ્ટાગ્રામ પર એક્ટિવ રહે છે અને અવારનવાર અલગ અલગ વીડિયો પોસ્ટ કરતી રહે છે જે ચર્ચાનો વિષય બની જાય તેવા હોય છે. મમતા કુલકર્ણીએ પોતાના 54 માં જન્મદિવસની ઉજવણીનો વીડિયો પણ શેર કર્યો છે. આ વીડિયો પણ વાયરલ થઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/mamta-kulkarni-birthday-celebration-video-viral-mamta-kulkarni-trolled-for-her-modern-look-473985 ",
+    "time": "2026-04-20T08:08:22.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +504,6 @@ const newsData_gu = [
     "time": "2026-04-17T08:35:22.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનું-ચાંદી ધડામ, આજે એક ઝટકે ભાવમાં મોટો ઘટાડો, જાણો અમદાવાદ સહિત શહેરોમાં શું છે ભાવ?",
-    "desc": "IBJAના ભાવ મુજબ સોના અને ચાંદીમાં આજે ભાવમાં ઘટાડો જોવા મળ્યો છે. જ્યારે MCX પર સોનું લાલ નિશાન પર અને ચાંદી લીલા નિશાન પર જોવા મળ્યા છે. આ ઉપરાંત ગુજરાતના મોટા શહેરોમાં શું ભાવ ચાલે છે તે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-price-dropped-today-check-latest-rates-in-ahmedabad-vadodara-surat-rajkot-473499 ",
-    "time": "2026-04-17T07:39:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ટોસ્ટરથી લઈ મટકા કિંગ સુધીની નવી ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ, ચેક કરી લો લિસ્ટ",
     "desc": "એપ્રિલ મહિનાનું આ ત્રીજું વીકેન્ડ છે અને આ વીકેન્ડ ઓટીટી લવર્સ માટે ખાસ છે. કારણ કે આ વખતે ઓટીટી પ્લેટફોર્મ પર અલગ અલગ જોનરની ફિલ્મો અને સીરીઝ રિલીઝ થઈ છે. એટલે આ વીકેન્ડ ફુલ ઓન એન્ટરટેનમેન્ટમાં પસાર થશે.",
@@ -637,23 +673,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-nexa-april-2026-discounts-invicto-tio-baleno-offers-471929 ",
     "time": "2026-04-07T14:51:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "₹5.65 ની આ કારને મળ્યા સ્વિફ્ટ, બલેનો, બ્રેઝાથી વધુ ગ્રાહક, વેચાણમાં બની-1; 33 km છે માઇલેજ",
-    "desc": "ભારતીય ગ્રાહકો વચ્ચે મારૂતિ સુઝુકી (Maruti Suzuki) ની કારને ખુબ પસંદ કરવામાં આવે છે. મહત્વનું છે કે મારૂતિ સુઝુકીએ પાછલા મહિને એટલે કે માર્ચ, 2026મા થયેલા પોતાના મોડલ વાઇઝ કાર વેચાણના ડેટાને રિલીઝ કરી દીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-best-selling-cars-march-2026-dzire-no-1-ertiga-secend-471882 ",
-    "time": "2026-04-07T10:07:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "કેવી રીતે એક નાનકડા ડિવાઈસે ઈરાનમાં ફસાયેલા US પાયલોટનો બચાવ્યો જીવ, જાણો આ ડિવાઈસમાં શું છે ખાસ",
-    "desc": "ઈરાને તાજેતરમાં એક અમેરિકન ફાઇટર જેટ તોડી પાડ્યું હતું. અમેરિકન પાયલોટ 48 કલાક સુધી ઈરાનમાં ફસાયેલા રહ્યો. ત્યારબાદ અમેરિકાએ બચાવ કામગીરી હાથ ધરી. જોકે, આ સમય દરમિયાન એક ચોક્કસ ડિવાઈસ મહત્વપૂર્ણ સાબિત થયું. એવું કહેવાય છે કે આ ડિવાઈસે તેનો જીવ બચાવવામાં મહત્વપૂર્ણ ભૂમિકા ભજવી હતી. ત્યારે આ લેખમાં આ ખાસ ડિવાઈસ વિશે જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-is-combat-survivor-evader-locator-device-us-pilot-iran-471791 ",
-    "time": "2026-04-06T14:01:50.000Z"
   }
 ];

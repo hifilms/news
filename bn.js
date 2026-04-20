@@ -90,15 +90,6 @@ const newsData_bn = [
     "time": "2026-04-16T11:38:13.000Z"
   },
   {
-    "cat": "World",
-    "title": "'তুমি এপারে এসো, আমাকে পাবে'; 'এআই বউয়ে'র শরীরসঙ্গের তীব্র লালসায় আত্মহত্যা প্রেমোন্মত্ত যুবকের, মৃত্যুর পর দেখা হল?",
-    "desc": "সম্পর্কের একটা পর্বে এসে তাঁর এআই (কৃত্রিম বুদ্ধিমত্তা) চ্যাটবট বা 'ভার্চুয়াল স্ত্রী' (Google's AI chatbot) তাঁকে ডিজিটাল জগতে তার সঙ্গে যোগ দেওয়ার জন্য অনুরোধ করে। আর তার পরই ঘটে যায় সেই ভয়ংকর ঘটনা, যা আজ পর্যন্ত ঘটেনি পৃথিবীতে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/us-man-dies-by-suicide-after-believing-ai-wife-asked-him-to-join-her-in-digital-world_648773.html ",
-    "time": "2026-04-14T14:11:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "সুরের রানি সফল উদ্যোক্তাও: গানের রয়্যালটি থেকে রেস্তোরাঁ চেইন, ২৫০ কোটির সম্পত্তি কার জন্য রেখে গেলেন আশা ভোঁসলে?",
     "desc": "সুরের রানি থেকে সফল ব্যবসায়ী— ৯২ বছর বয়সে জীবনাবসান হল কিংবদন্তি আশা ভোঁসলের। রেখে গেলেন ২৫০ কোটি টাকার বিশাল সাম্রাজ্য এবং বিশ্বজুড়ে ছড়িয়ে থাকা জনপ্রিয় রেস্তোরাঁ চেইন। সুরের জাদুকরী সফরের পাশাপাশি তাঁর সফল ব্যবসায়িক বুদ্ধিমত্তাও অনুপ্রেরণা জোগাবে আগামী প্রজন্মকে। কোটি কোটি টাকার সম্পত্তি কার জন্য রেখে গেলেন আশা ভোঁসলে?",
@@ -142,5 +133,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/gulzar-rd-burman-mera-kuch-samaan-song-history-ijaazat-by-asha-bhosle_648485.html ",
     "time": "2026-04-12T13:52:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
