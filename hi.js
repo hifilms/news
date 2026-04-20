@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PCB bans Dasun Shanaka from PSL for one year after Blessing Muzarabani row",
+    "desc": "The Pakistan Cricket Board has handed Sri Lanka T20I captain Dasun Shanaka a one-year ban for his withdrawal from the Pakistan Super League. Shanaka left the PSL and has been part of the Indian Premier...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pcb-bans-dasun-shanaka-from-psl-for-one-year-after-blessing-muzarabani-row-2026-04-20-1038231",
+    "time": "2026-04-20T13:08:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lucknow Super Giants to get Josh Inglis boost in second half of IPL 2026, Know his joining date",
+    "desc": "Lucknow Super Giants are set to get a massive boost in the second half of the ongoing edition of the Indian Premier League (IPL). Their Aussie recruit Josh Inglis is expected to join the squad...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lucknow-super-giants-to-get-josh-inglis-boost-in-second-half-of-ipl-2026-know-his-joining-date-2026-04-20-1038223",
+    "time": "2026-04-20T12:27:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Eoin Morgan heaps praise on Priyansh Arya, lauds PBKS' batting depth in IPL 2026",
+    "desc": "Former England captain Eoin Morgan heaped praise on Punjab Kings and their star batter Priyansh Arya for their performances in the Indian Premier League 2026. PBKS have been the only unbeaten team this tournament, having...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eoin-morgan-heaps-praise-on-priyansh-arya-lauds-pbks-batting-depth-in-ipl-2026-2026-04-20-1038220",
+    "time": "2026-04-20T11:59:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Crisis-hit Mumbai Indians need to answer Titans' call as pressure mounts in IPL 2026",
+    "desc": "Mumbai Indians are under the pump. On paper a strong side that should have been in the top four. On the field, a crisis-hit side that is feeling the heat of an elimination and languishing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/crisis-hit-mumbai-indians-need-to-answer-titans-call-as-pressure-mounts-in-ipl-2026-2026-04-20-1038211",
+    "time": "2026-04-20T11:02:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I don't deserve': Mohammad Rizwan responds after reporter asks him to retire from T20 cricket",
+    "desc": "Mohammad Rizwan has been struggling in T20 cricket for quite some time now. His stint in the Big Bash League (BBL) was widely criticised as the wicketkeeper-batter failed to make an impact and he has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-deserve-mohammad-rizwan-responds-after-reporter-asks-him-to-retire-from-t20-cricket-2026-04-20-1038210",
+    "time": "2026-04-20T11:02:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chris Gayle becomes co-owner of Glasgow Mugafians in European T20 League, tournament to start from August 26",
     "desc": "The European T20 Premier League ( ETPL), Europe’s first ICC-sanctioned T20 franchise league, have announced the Glasgow Mugafians as the new franchise which will represent Scotland. Backed by the Mugafi Group as founding partner, the franchise is...",
     "img": "",
@@ -34,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-will-mumbai-indians-opener-play-today-s-game-vs-gujarat-titans-in-ahmedabad-2026-04-20-1038167",
     "time": "2026-04-20T06:53:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 30",
-    "desc": "Match 30 of the ongoing IPL (Indian Premier League) 2026 sees Gujarat Titans taking on Mumbai Indians. The two sides will lock horns at the Narendra Modi Stadium in Ahmedabad on April 20. While Gujarat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-mi-3-player-battles-to-watch-out-for-in-ipl-2026-match-30-2026-04-20-1038159",
-    "time": "2026-04-20T06:16:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wrestlemania 42 round-up: Roman Reigns wins WWE World Championship, Brock Lesnar hints at retirement",
-    "desc": "WWE’s biggest show of the year, WrestleMania 42, finally came to an end with the show of shows putting up quite the spectacle yet another year. The marquee event was held across two days with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/wrestlemania-42-round-up-roman-reigns-wins-wwe-world-championship-cody-rhodes-retains-check-results-2026-04-20-1038151",
-    "time": "2026-04-20T05:15:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
-    "desc": "The stage is set for the 30th game of the ongoing IPL (Indian Premier League) 2026. Gujarat Titans will take on Mumbai Indians at the Narendra Modi Stadium in Ahmedabad. The two sides will meet...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-mi-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-04-20-1038141",
-    "time": "2026-04-20T04:18:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "R Ashwin suggests how star India batter can make his way into T20I setup after stellar showings in the IPL",
-    "desc": "Former India cricketer Ravichandran Ashwin recently came forward and heaped massive praise on ace India batter Shreyas Iyer and talked about him potentially being included in the Indian T20I setup after his recent brilliant performances...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-suggests-how-star-india-batter-can-make-his-way-into-t20i-setup-after-stellar-showings-in-the-ipl-2026-04-20-1038134",
-    "time": "2026-04-20T03:29:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mikel Arteta opens up after Arsenal lose crucial Premier League game to arch-rivals Manchester City",
-    "desc": "The Premier League title race has started to heat up. While Arsenal is still in the lead, Manchester City is also hot on their trail, and the title race has gotten very close after City...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-opens-up-after-arsenal-lose-crucial-premier-league-game-to-arch-rivals-manchester-city-2026-04-20-1038130",
-    "time": "2026-04-20T02:16:34.000Z"
   }
 ];

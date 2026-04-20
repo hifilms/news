@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "નમાજના ફાયદાઓ જણાવીને મુશ્કેલીમાં ફસાઈ શાર્ક ટેન્કની જજ નમિતા થાપર, લોકોએ આપી ગાળો તો રોતા-રોતા આપી સફાઈ, જુઓ Video",
+    "desc": "માર્ચમાં ઈદ પછી નમાઝના ફાયદાઓ પર નમિતા થાપરે એક રીલ બનાવી હતી. તે લાંબા સમયથી આ માટે ટ્રોલ થઈ રહી છે. હવે, નમિતાએ ટ્રોલ્સને જવાબ આપતા કહ્યું છે કે તેમની સાથે આવું કરનારાઓનો કર્મા જવાબ આપશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shark-tank-judge-namita-thapar-got-into-trouble-for-explaining-the-benefits-of-namaz-people-abused-her-and-she-cleaned-it-up-crying-know-this-474025 ",
+    "time": "2026-04-20T12:32:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "85 ફોર, 5 સિક્સ અને 546 રન... આ ભારતીય બેટ્સમેન સામે દયાની ભીખ માંગતા રહ્યા બોલરો",
+    "desc": "ક્રિકેટ અનિશ્ચિતતાઓની રમત છે, ક્રિકેટમાં ગમે ત્યારે ગમે તે થઈ શકે છે. અનેક રેકોર્ડ બને છે અને તૂટે છે. આવો જ એક રેકોર્ડ ભારતીય બેટ્સમેનના નામે છે. જેણે માત્ર 330 બોલમાં 546 રન ફટકાર્યા હતા. આ દરમિયાન તેણે 85 ચોગ્ગા અને 5 છગ્ગા ફટકાર્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/indian-cricketer-prithvi-shaw-holds-the-record-of-546-runs-in-one-innings-474024 ",
+    "time": "2026-04-20T12:15:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શું તમે જાણો છો? સદી કે અડધી સદી વગર જ ODIમાં કોણે બનાવ્યા સૌથી વધુ રન? ભારતના આ ક્રિકેટરના નામે છે વર્લ્ડ રેકોર્ડ",
+    "desc": "દુનિયામાં એવા અનોખા ક્રિકેટરો પણ રહ્યા છે, જેમણે એક પણ સદી કે અડધી સદી ફટકાર્યા વગર વનડે ઇન્ટરનેશનલ ક્રિકેટમાં સૌથી વધુ રન બનાવ્યા છે. કોઈપણ ક્રિકેટર માટે વનડે ઇન્ટરનેશનલ ક્રિકેટમાં સદી કે અડધી સદી ફટકારવી એ એક ખૂબ જ ખાસ સિદ્ધિ હોય છે. દરેક બેટ્સમેનનું સપનું હોય છે કે તે ક્રિકેટના કોઈપણ ફોર્મેટમાં સદી કે અડધી સદી ફટકારીને પોતાના કરિયરમાં ચાર ચાંદ લગાવે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/do-you-know-who-scored-the-most-runs-in-odi-without-a-century-or-half-century-this-indian-cricketer-has-a-world-record-474015 ",
+    "time": "2026-04-20T11:05:44.000Z"
+  },
+  {
     "cat": "Business",
     "title": "25-30 હજાર કમાતા લોકો પણ બની શકે છે કરોડપતિ...જાણો કેવી રીતે, આ છે ફોર્મ્યુલા",
     "desc": "જો તમારી ઉંમર 30 વર્ષ છે અને તમારો પગાર 25-30 હજાર છે અને તમે મહિને 5થી 10 હજાર રૂપિયા બચાવો છો તો તમે પણ કરોડપતિ બની શકો છો. આ માટે તમારે યોગ્ય જગ્યાએ રોકાણ કરવપં પડશે. ત્યારે તમે કેવી રીતે ઓછા રોકાણમાં કરોડપતિ બની શકો છો, તેના વિશે આ લેખમાં જાણીશું.",
@@ -468,15 +495,6 @@ const newsData_gu = [
     "time": "2026-04-17T10:54:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "દુનિયાનો સૌથી ખૂંખાર ગણાતો બોલર કેમ નથી લઈ શકતો વિકેટ? MI કોચે આપ્યું કારણ",
-    "desc": "વિશ્વના સર્વશ્રેષ્ઠ ફાસ્ટ બોલર તરીકે જેની ગણતરી થાય છે તે જસપ્રીત બુમરાહ માટે આ વખતની આઈપીએલ પડકારજનક રહી છે. કારણ કે હજુ સુધી એક પણ વિકેટ લઈ શક્યો નથી. આ મામલે એમઆઈ કોચ મહેલા જયવર્ધનેએ શું કહ્યું તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-is-the-world-most-feared-bowler-jasprit-bumrah-unable-to-take-wickets-in-ipl-2026-473518 ",
-    "time": "2026-04-17T09:54:38.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સરકારી કર્મચારી માટે મહત્વના સમાચાર! ક્યારે આપવામાં આવશે મોંઘવારી ભથ્થું ? મોદી સરકાર આપશે સારા સમાચાર ?",
     "desc": "કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરોને જાન્યુઆરી 2026થી તેમના મોંઘવારી ભથ્થા (DA) હજુ સુધી મળ્યા નથી. રાહ ખૂબ લાંબી થઈ ગઈ છે. NC-JCMએ કેબિનેટ સચિવને દરમિયાનગીરી કરવા વિનંતી કરી છે. લેટેસ્ટ અપડેટ્સ અને સંભવિત વધારો આ સમયે થઈ શકે છે.",
@@ -495,15 +513,6 @@ const newsData_gu = [
     "time": "2026-04-17T09:37:17.000Z"
   },
   {
-    "cat": "Business",
-    "title": "PF એકાઉન્ટ હોલ્ડર્સ માટે નવું ફોર્મ, જાણો ઇન્કમ ટેક્સ બચાવવા કેવી રીતે મદદરૂપ થશે?",
-    "desc": "દેશભરના કરોડો પ્રોવિડન્ટ ફંડ (PF) એકાઉન્ટ હોલ્ડર્સ માટે સારા સમાચાર છે. કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO) એ એક નવું ફોર્મ લાગુ કર્યું છે, જે ઇન્કમ ટેક્સમાંથી રાહત મેળવવાનો મોટો રસ્તો બની શકે છે. આ નવા ફોર્મે બે જૂના ફોર્મનું સ્થાન લીધું છે. ચાલો વિગતવાર જાણીએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/a-new-form-for-pf-account-holders-find-out-how-it-can-help-you-save-on-income-tax-473507 ",
-    "time": "2026-04-17T08:35:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ટોસ્ટરથી લઈ મટકા કિંગ સુધીની નવી ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ, ચેક કરી લો લિસ્ટ",
     "desc": "એપ્રિલ મહિનાનું આ ત્રીજું વીકેન્ડ છે અને આ વીકેન્ડ ઓટીટી લવર્સ માટે ખાસ છે. કારણ કે આ વખતે ઓટીટી પ્લેટફોર્મ પર અલગ અલગ જોનરની ફિલ્મો અને સીરીઝ રિલીઝ થઈ છે. એટલે આ વીકેન્ડ ફુલ ઓન એન્ટરટેનમેન્ટમાં પસાર થશે.",
@@ -520,24 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/volkswagen-taigun-facelift-launched-know-price-features-and-mileage-473393 ",
     "time": "2026-04-16T11:42:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 બાદ ભારતની T20 ટીમમાં આ ખતરનાક બેટ્સમેનની થશે એન્ટ્રી ! 32 વર્ષની ઉંમરે ડેબ્યૂનો કર્યો દાવો",
-    "desc": "બુધવારે રમાયેલી IPL મેચમાં RCBએ LSGને 5 વિકેટથી હરાવ્યું. RCBમાં એક એવો બેટ્સમેન છે, જે 2026ની IPL સીઝન પછી ભારતની T20 ટીમમાં ડેબ્યૂ કરવા માટે એક મજબૂત દાવેદાર છે. આ 32 વર્ષીય બેટ્સમેન મિડલ ઓર્ડરમાં તેની વિસ્ફોટક બેટિંગ માટે જાણીતો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rajat-patidar-strong-contender-for-t20-debut-in-team-india-after-ipl-2026-473328 ",
-    "time": "2026-04-16T06:56:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ તે કેવો નિર્ણય ! 1 વિકેટ લેનારને મળ્યો &amp;#039;મેન ઓફ ધ મેચ&amp;#039; એવોર્ડ અને 4 વિકેટ લેનાર ખાલી હાથ",
-    "desc": "બુધવારે રમાયેલી IPL મેચમાં RCBએ LSGને 5 વિકેટથી હરાવ્યું હતું. આ મેચમાં જમ્મુ અને કાશ્મીરના ફાસ્ટ બોલર રસિક સલામ દારે LSG સામે 4 ઓવરમાં માત્ર 24 રન આપીને 4 વિકેટ ઝડપી હતી. રસિક સલામ દારે RCBની જીતમાં મુખ્ય ભૂમિકા ભજવી હતી છતાં તેને 'મેન ઓફ ધ મેચ' જાહેર કરવામાં આવ્યો નહોતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/not-josh-hazlewood-rasikh-salam-dar-is-more-deserving-for-player-of-the-match-award-473324 ",
-    "time": "2026-04-16T06:12:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -601,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/asha-bhosle-early-life-struggle-who-was-asha-bhosle-first-husband-her-love-life-tragic-story-472627 ",
     "time": "2026-04-12T08:13:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આશાતાઈની એ એક ભૂલ... જેણે બરબાદ કરી દીધી હતી જિંદગી, બહેનો લતા-મીના-ઉષા સાથે પણ તૂટી ગયો હતો સંબંધ",
-    "desc": "હિન્દી સિનેમાની દિગ્ગજ ગાયિકા આશા ભોંસલેને હોસ્પિટલમાં દાખલ કરવામાં આવી હતી, અને ચાહકો તેમના સ્વાસ્થ્ય અંગે ખૂબ ચિંતિત હતા. પરંતું આજે, 12 એપ્રિલ, 2026 ના રોજ તેમનું 92 વર્ષની વયે અવસાન થયું છે. આજે, અમે તમને તેમના જીવનના કેટલાક ઓછા જાણીતા પાસાઓ વિશે જણાવવા જઈ રહ્યા છીએ જેના કારણે તેઓ તેમના પરિવાર અને બહેનોથી અલગ થયા. તેમણે નાની ઉંમરે કઈ ભૂલ કરી જેના કારણે...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/that-one-mistake-of-asha-tai-which-ruined-her-life-and-even-severed-her-ties-with-her-sisters-lata-meena-and-usha-472626 ",
-    "time": "2026-04-12T08:04:49.000Z"
   },
   {
     "cat": "Tech",
