@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Wrestlemania 42 round-up: Roman Reigns wins WWE World Championship, Cody Rhodes retains; Check results",
+    "title": "Zaheer Khan slams LSG management for bizarre batting order call after loss to Punjab Kings",
+    "desc": "Lucknow Super Giants’ roller coaster of a campaign continued in the Indian Premier League (IPL) 2026. With six matches played, the side has won two matches and has lost the remaining four. Under the leadership...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zaheer-khan-slams-lsg-management-for-bizarre-batting-order-call-after-loss-to-punjab-kings-2026-04-20-1038171",
+    "time": "2026-04-20T07:29:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Mumbai Indians opener play today's game vs Gujarat Titans in Ahmedabad?",
+    "desc": "The Mumbai Indians are set to face the Gujarat Titans at the Narendra Modi Stadium in Ahmedabad today in the 30th match of the Indian Premier League (IPL) 2026. The campaign of both teams is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-will-mumbai-indians-opener-play-today-s-game-vs-gujarat-titans-in-ahmedabad-2026-04-20-1038167",
+    "time": "2026-04-20T06:53:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 30",
+    "desc": "Match 30 of the ongoing IPL (Indian Premier League) 2026 sees Gujarat Titans taking on Mumbai Indians. The two sides will lock horns at the Narendra Modi Stadium in Ahmedabad on April 20. While Gujarat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-mi-3-player-battles-to-watch-out-for-in-ipl-2026-match-30-2026-04-20-1038159",
+    "time": "2026-04-20T06:16:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wrestlemania 42 round-up: Roman Reigns wins WWE World Championship, Brock Lesnar hints at retirement",
     "desc": "WWE’s biggest show of the year, WrestleMania 42, finally came to an end with the show of shows putting up quite the spectacle yet another year. The marquee event was held across two days with...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-become-first-team-in-ipl-history-to-achieve-massive-record-after-mauling-lsg-in-new-chandigarh-2026-04-19-1038121",
     "time": "2026-04-19T18:20:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch The Show of Shows in India?",
-    "desc": "WrestleMania night 2 sits on the horizon as The Show of Shows unfolds at Allegiant Stadium in Las Vegas. The opening night enthralled the fans with some fascinating face-offs between the WWE superstars. Championships changed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/wwe-wrestlemania-42-night-2-live-streaming-when-and-where-to-watch-the-show-of-shows-in-india-2026-04-19-1038115",
-    "time": "2026-04-19T17:42:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings create history against Lucknow Super Giants after batting show from Priyansh, Connolly",
-    "desc": "Punjab Kings achieved a major record against the Lucknow Super Giants as they became the first-ever team to score a 250-plus total against the Rishabh Pant-led side on Sunday, April 19. Priyansh Arya and Cooper...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-create-history-against-lucknow-super-giants-after-batting-show-from-priyansh-connolly-2026-04-19-1038109",
-    "time": "2026-04-19T16:06:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings maul Lucknow Super Giants in New Chandigarh",
-    "desc": "Table-toppers Punjab Kings are up against the Lucknow Super Giants as they look to extend their winning run with their strong batting unit. LSG have been struggling this season, but have been boosted as Rishabh...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-lsg-ipl-2026-live-cricket-score-punjab-kings-vs-lucknow-super-giants-latest-match-updates-scorecard-teams-2026-04-19-1038106",
-    "time": "2026-04-19T14:37:03.000Z"
   }
 ];

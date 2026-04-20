@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ન ખામેનેઈ, ન ઈરાનના રાષ્ટ્રપતિ... આ વ્યક્તિ પાસે છે તેહરાનની અસલી તાકાત, કોણ છે અહમદ વાહિદી?",
+    "desc": "ઈરાનના સુપ્રીમ લીડર મુઝ્તબા ખામેનેઈ હજુ સુધી જાહેરમાં સામે આવ્યા નથી. તેમના બહાર ન આવવાથી ઈરાનના સૌથી મોટા નિર્ણય ઇસ્લામિક રિવોલ્યુશનરી ગાર્ડના ચીફ અહમદ વાહિદી લઈ રહ્યાં છે. વાહિદીના કહેવા પર જ હોર્મુઝ ખોલવામાં આવ્યું નથી, જ્યારે ઈરાનના વિદેશ મંત્રી તેની જાહેરાત કરી ચૂક્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/neither-khamenei-nor-the-president-of-iran-this-person-holds-the-real-power-of-tehran-who-is-ahmad-vahidi-473984 ",
+    "time": "2026-04-20T07:59:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "લગભગ કન્ફર્મ- 1.89x હશે Fitment Factor! ₹33,984 થઈ શકે છે નવો બેઝિક, જુઓ ગણતરી",
+    "desc": "આઠમાં પગાર પંચમાં સૌથી મોટું ગેમ ચેન્જર Fitment Factor 1.89x હોઈ શકે છે. મિનિમમ બેઝિક પગાર 18 હજારથી વધી 34 હજાર થઈ શકે છે. તાજેતરમાં વધારેલા મોંઘવારી ભથ્થા બાદ આઠમાં પગાર પંચનું ચિત્ર સ્પષ્ટ થઈ રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-fitment-factor-1-89x-basic-salary-will-increase-from-18-thousand-to-34000-473960 ",
+    "time": "2026-04-20T05:44:56.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "6,6,6,6,6... લખનૌની હારનો સૌથી મોટો વિલન સાબિત થયો આ ખેલાડી, એક જ ઓવરમાં આપ્યા 32 રન",
     "desc": "લખનૌ સુપર જાયન્ટ્સની હાર માટે આ ખેલાડી સૌથી મોટો વિલન સાબિત થયો હતો. એક જ ઓવરમાં તેણે 32 રન આપ્યા હતા. રવિવારે રમાયેલી IPL 2026ની મેચમાં પંજાબ કિંગ્સે લખનૌ સુપર જાયન્ટ્સને 54 રનથી હરાવ્યું હતું.",
@@ -450,15 +468,6 @@ const newsData_gu = [
     "time": "2026-04-17T07:39:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "બિહારના મુખ્યમંત્રી સમ્રાટ ચૌધરીને જાનથી મારવાની ધમકી આપનારો ગુજરાતમાંથી પકડાયો",
-    "desc": "બિહારના નવનિયુક્ત મુખ્યમંત્રીને મારી નાખવાની ધમકી આપનાર ઝડપાયો છે. સાણંદથી શેખર યાદવ નામના આરોપીની ધરપકડ કરાઈ. આરોપીએ નવનિયુક્ત મુખ્યમંત્રીના pa ને ફોનમાં મારી નાખવાની ધમકી આપી હતી. આરોપી મૂળ બિહારનો હોવાનું સામે આવ્યું છે. ત્યારે તેણે કેમ આવું કર્યુ તે જાણીએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/man-who-threatened-to-kill-bihar-new-cm-samrat-chaudhary-arrested-from-sanand-gujarat-473489 ",
-    "time": "2026-04-17T07:28:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ટોસ્ટરથી લઈ મટકા કિંગ સુધીની નવી ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ, ચેક કરી લો લિસ્ટ",
     "desc": "એપ્રિલ મહિનાનું આ ત્રીજું વીકેન્ડ છે અને આ વીકેન્ડ ઓટીટી લવર્સ માટે ખાસ છે. કારણ કે આ વખતે ઓટીટી પ્લેટફોર્મ પર અલગ અલગ જોનરની ફિલ્મો અને સીરીઝ રિલીઝ થઈ છે. એટલે આ વીકેન્ડ ફુલ ઓન એન્ટરટેનમેન્ટમાં પસાર થશે.",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/17-april-2026-ott-release-list-of-5-new-hindi-film-and-web-series-released-on-ott-this-week-473497 ",
     "time": "2026-04-17T07:19:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન-અમેરિકા વચ્ચે યુદ્ધનો હવે અંત આવી જશે? 5 પોઈન્ટમાં જાણો શું મળી રહ્યા છે સંકેત",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે ચાલી રહેલા યુદ્ધનો હવે અંત આવી શકે છે. હાલ જો કે બે અઠવાડિયાનું સીઝફાયર ચાલુ છે. પરંતુ યુદ્ધનો કાયમી અંત આવવાની આશા જાગી છે. છેલ્લા કેટલાક કલાકોમાં જે ડેવલપમેન્ટ સામે આવ્યા છે તેના કારણે આ આશા જાગી છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-the-war-between-iran-and-america-end-soon-check-some-positive-developments-473488 ",
-    "time": "2026-04-17T06:55:58.000Z"
   },
   {
     "cat": "Tech",
