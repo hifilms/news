@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Shefali shuts dating buzz with Chahal; wants a guy like Virat",
+    "desc": "Sports presenter Shefali Bagga, who is also known for her participation in Bigg Boss 13, has reacted strongly to ongoing speculation linking her to cricketers, making it clear that she’s “fed up” with the assumptions drawn from brief public appearances. In a recent chat, Shefali addressed rumours with Yuzvendra Chahal sparked by a viral pap video, while also opening up about her views on relationships and the kind of partner she wants.",
+    "img": "https://static.toiimg.com/photo/msid-130402476,imgsize-56238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shefali-bagga-shuts-dating-rumours-with-yuzvendra-chahal-wants-a-guy-like-virat-kohli-you-can-see-his-love-for-anushka-sharma/articleshow/130402467.cms",
+    "time": "2026-04-20T20:45:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "9.8 lakh deletions in Odisha’s voter rolls after electoral mapping process",
+    "desc": "Around two lakh Form-7 applications received after April 2, 2026 have been kept on hold; letter from the Office of the Chief Electoral Officer directs Electoral Registration Officers to carry out door-to-door survey, and physically verify the authenticity of voter rolls, which impacts final deletion",
+    "img": "https://th-i.thgim.com/public/latest-news/6zlcf/article70886173.ece/alternates/LANDSCAPE_1200/OdishaCEO.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/elector-mapping-process-leads-to-98-lakh-deletions-in-odishas-electoral-rolls/article70885134.ece",
+    "time": "2026-04-20T20:36:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "26 candidates bag perfect 100 NTA score in JEE-Main",
+    "desc": "Among the candidates who secured an NTA score of 100, five each are from Andhra Pradesh and Telangana followed by four from Rajasthan, three from Delhi, two each from Maharashtra and Haryana, and one candidate each from Chandigarh, Bihar, Tamil Nadu, Odisha and Gujarat; all the 26 are males",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/26-candidates-bag-perfect-100-nta-score-in-jee-main/article70885764.ece",
+    "time": "2026-04-20T19:30:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All-India distribution rights of SRK's King sold for Rs 250 crore: Report",
+    "desc": "Shah Rukh Khan's highly anticipated film 'King', with a massive Rs 400 crore budget, has secured its all-India theatrical distribution rights for a staggering Rs 250 crore. Directed by Siddharth Anand, the action spectacle featuring a star-studded cast is set for a Christmas 2026 release, aiming for a wide theatrical run amidst tough Hollywood competition.",
+    "img": "https://static.toiimg.com/photo/msid-130401950,imgsize-57798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/all-india-distribution-rights-of-shah-rukh-khans-king-acquired-for-rs-250-crore-by-pen-marudhar-report/articleshow/130401944.cms",
+    "time": "2026-04-20T19:21:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala’s election outcome could redefine IUML’s political path",
+    "desc": "In the event of a UDF defeat or a hung Assembly, the IUML is likely to keep its options open. While it has been a steadfast ally of the Congress in Kerala for decades, its historical willingness to engage with the Left reflects a pragmatic approach to power-sharing and political survival",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralas-election-outcome-could-redefine-iumls-political-path/article70884474.ece",
+    "time": "2026-04-20T19:12:31.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Probe launched into use of fake number plates in fuel theft cases",
     "desc": "Most recent incidents, including one reported by a petrol pump owner at Edavannappara in Malappuram district last week, are backed by CCTV footage and point to a pattern in which suspects use duplicate registration numbers to conceal their identities",
@@ -25,15 +70,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/bhumi-puja-performed-for-56-power-facilities-worth-97-cr/article70884814.ece",
     "time": "2026-04-20T18:35:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Francesca Albanese",
-    "desc": "In an exclusive interview with The Hindu, the UN Special Rapporteur speaks on her latest report on the situation of human rights in the occupied Palestinian territories, flags legal and moral concerns for countries backing Israel",
-    "img": "https://th-i.thgim.com/public/incoming/urolth/article70885957.ece/alternates/LANDSCAPE_1200/2026-03-24T083916Z_1236961002_RC2WAKADPWHT_RTRMADP_3_ISRAEL-PALESTINIANS-UN-EXPERT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/francesca-albanese-interview-india-violating-obligations-under-international-law/article70884773.ece",
-    "time": "2026-04-20T18:28:34.000Z"
   },
   {
     "cat": "Sports",
@@ -99,31 +135,13 @@ const newsData_en = [
     "time": "2026-04-20T16:55:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Another son rises in Pennagaram constituency from PMK’s fratricidal strife",
-    "desc": "Congress has fielded G.K.M. Tamil Kumaran, the son of Pennagaram’s incumbent (ex-PMK ) MLA G.K. Mani, and the former PMK honorary president, now purged from the party along with the pack of the old guard, led by the PMK’s founder Dr. Ramadoss.",
-    "img": "https://th-i.thgim.com/public/incoming/ax7z74/article70885899.ece/alternates/LANDSCAPE_1200/10213_3_7_2024_19_29_29_4_KA04RIVERCAUVERYINHOGENAKKAL03.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/another-son-rises-in-pennagaram-from-pmks-fratricidal-strife/article70847668.ece",
-    "time": "2026-04-20T16:43:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cold storage, welfare board for lorry drivers major demands in Namakkal",
-    "desc": "In the four-cornered fight for the Egg Town of Namakkal, demands like government cold storage facility for small-scale poultry farmers, avian flu lab, welfare board for lorry drivers, cleaners and more bus services to medical college and railway station take the spotlight",
-    "img": "https://th-i.thgim.com/public/incoming/ffvctb/article70885829.ece/alternates/LANDSCAPE_1200/9868_10_4_2026_10_37_3_1_NAMAKKAL_LORRYMARKET_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/cold-storage-for-eggs-welfare-board-for-lorry-drivers-more-bus-services-prominent-demands-in-namakkal/article70847093.ece",
-    "time": "2026-04-20T16:17:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress general secretary K.C. Venugopal",
-    "desc": "The govt. wanted to divide the INDIA alliance and deploy their usual tactics to push through the Constitution Amendment Bill but they had not anticipated the unity in the alliance which is why they appear rattled, the Congress leader says; the next Kerala CM will be chosen in a democratic fashion, says Mr. Venugopal, who played the role of a troubleshooter during the Assembly election campaign",
-    "img": "https://th-i.thgim.com/public/incoming/op63nb/article70885791.ece/alternates/LANDSCAPE_1200/PTI04_17_2026_000412B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/congress-general-secretary-kc-venugopal-interview/article70885230.ece",
-    "time": "2026-04-20T16:12:03.000Z"
+    "cat": "Entertainment",
+    "title": "Aishwarya Rai Bachchan drops anniversary PICS with Abhishek, Aaradhya",
+    "desc": "Aishwarya Rai Bachchan and Abhishek Bachchan marked their 19th wedding anniversary with a family selfie. Abhishek, attending a trailer launch in the same attire, spoke on a podcast about their partnership, emphasizing equality rooted in his upbringing. He revealed their relationship blossomed from a long friendship, having worked together early in their careers. Abhishek's next project is 'King'.",
+    "img": "https://static.toiimg.com/photo/msid-130397887,imgsize-134382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-drops-anniversary-pics-with-abhishek-bachchan-as-they-complete-19-years-of-marrital-bliss-aaradhya-bachchan-joins-in/articleshow/130397674.cms",
+    "time": "2026-04-20T16:36:58.000Z"
   },
   {
     "cat": "Sports",
@@ -135,15 +153,6 @@ const newsData_en = [
     "time": "2026-04-20T16:11:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Thally constituency awaits upliftment",
-    "desc": "Institutional shortcomings in health care, absence of targeted and sustained measures to address the social backwardness, and democratic deficit visible in the institutional responses have all come to tell on the lack of development evident in the low social indices.",
-    "img": "https://th-i.thgim.com/public/incoming/lg43zo/article70885693.ece/alternates/LANDSCAPE_1200/10213_8_4_2026_20_2_49_1_KA09DKOTTI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/two-cornered-contest-only-in-name-at-thally-where-cpis-incumbent-candidate-remains-formidable/article70838761.ece",
-    "time": "2026-04-20T16:05:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sudhir reacts to ‘walk-off’ after being 'ignored' at GWS 2 event",
     "desc": "A short video from the recent trailer launch of Ginny Weds Sunny 2 has set social media abuzz, with many viewers assuming that veteran actor Sudhir Pandey walked off stage following an uncomfortable moment. The clip quickly led to speculation about a possible disagreement or lack of respect from the film’s team. However, Pandey has now addressed the chatter, making it clear that the situation was far from what it appeared online.",
@@ -151,24 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudhir-pandey-reacts-to-walk-off-after-being-ignored-at-ginny-weds-sunny-2-trailer-launch-there-was-nothing-like-being-disrespected/articleshow/130396942.cms",
     "time": "2026-04-20T16:00:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A litmus test in Vriddhachalam constituency",
-    "desc": "In this constituency, caste arithmetic and the redrawn political equations following the pre-poll alliance of the DMDK with the DMK will play out in the electoral arena. Though the NTK and the TVK are also in the fray, the stage is set for a direct contest between DMDK general secretary Premallatha Vijayakant and P. Tamizharasi of the PMK",
-    "img": "https://th-i.thgim.com/public/incoming/xookby/article70885722.ece/alternates/LANDSCAPE_1200/2786_20_4_2022_18_58_15_1_UNMANNEDVEHICLE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-litmus-test-for-the-dmdk-in-vriddhachalam/article70837370.ece",
-    "time": "2026-04-20T15:56:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress seeks probe into fresh killings in Manipur, flags collapse of law and order",
-    "desc": "Inner Manipur MP A. Bimol Akoijam says the killing of two children on April 7 is a ‘gruesome reminder’ of continuing insecurity in the State. He alleges that both the Centre and the State government have ‘abdicated responsibility’ of protecting lives and ensuring peace.",
-    "img": "https://th-i.thgim.com/public/incoming/7x18kj/article70885704.ece/alternates/LANDSCAPE_1200/20260420460L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/congress-seeks-probe-into-fresh-killings-in-manipur-flags-collapse-of-law-and-order/article70885489.ece",
-    "time": "2026-04-20T15:55:23.000Z"
   },
   {
     "cat": "Politics",
@@ -432,15 +423,6 @@ const newsData_en = [
     "time": "2026-04-20T11:16:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Over Rs 100 crore not disclosed’: Madras high court flags 'irregularity' in Vijay's poll affidavit",
-    "desc": "A Bench comprising chief justice SA Dharmadhikari and Justice G Arul Murugan issued notices to Vijay, along with the Director General of Income Tax (Investigation), the Election Commission of India (ECI), and the Returning Officers for the Perambur and Tiruchirappalli (East) constituencies. The petitioner has alleged that the disappearance of a high-value asset amounts to a clear case of suppression of assets, raising serious concerns regarding beneficial ownership, routing of funds, and the concealment of material particulars.",
-    "img": "https://static.toiimg.com/photo/msid-130390652,imgsize-686614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/over-rs-100-crore-not-disclosed-madras-high-court-flags-irregularity-in-vijays-poll-affidavit/articleshow/130390184.cms",
-    "time": "2026-04-20T11:15:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vidya Balan reveals why she said yes to ‘Raja Shivaji’",
     "desc": "Vidya Balan expressed immense pride and excitement about joining the Marathi film 'Raja Shivaji,' focusing on Chhatrapati Shivaji Maharaj's life. Born and raised in Mumbai, she considered it a significant cultural moment. Balan eagerly accepted Riteish Deshmukh's offer, calling it a matter of great pride and a treat to be part of such a grand project.",
@@ -522,15 +504,6 @@ const newsData_en = [
     "time": "2026-04-20T09:39:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Harris Jayaraj’s pet attacks local resident; victim hospitalized",
-    "desc": "A dog belonging to music composer Harris Jayaraj attacked a local resident in Valasaravakkam. The victim, Adithya, sustained hand injuries and was hospitalized. Police are investigating the incident, focusing on how the dog escaped and owner responsibility. This event highlights the importance of pet control and safety measures in urban areas. The incident has prompted discussions on responsible pet ownership.",
-    "img": "https://static.toiimg.com/photo/msid-130388030,imgsize-84400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/harris-jayarajs-pet-attacks-local-resident-in-valasaravakkam-victim-hospitalized-with-hand-injuries-as-police-investigate-report/articleshow/130388030.cms",
-    "time": "2026-04-20T09:25:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "5 players to watch in GT vs MI match",
     "desc": "Mumbai Indians, struggling at the bottom of IPL 2026, face a resurgent Gujarat Titans. MI seeks to revive their season against GT's strong bowling attack, led by Prasidh Krishna and Rashid Khan. Key player battles, including Shubman Gill vs. Jasprit Bumrah and Rohit Sharma vs. Kagiso Rabada, will be crucial.",
@@ -565,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/rcb-has-the-edge-and-csk-srh-game-would-be-close-ipl-show-2026/article70877934.ece",
     "time": "2026-04-20T09:06:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samay Raina reveals fearing bankruptcy like Amitabh Bachchan",
-    "desc": "Samay Raina revealed in Still Alive how India’s Got Latent controversy cost him sponsors, episodes, and FDs, fearing debt like Amitabh Bachchan’s ₹90 crore ABCL crisis. Triggered by Ranveer Allahbadia’s joke, it led to FIRs and show removal. Despite mental toll, Season 2 teased.",
-    "img": "https://static.toiimg.com/photo/msid-130387738,imgsize-14802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-reveals-fearing-bankruptcy-like-amitabh-bachchan-post-indias-got-latent-row-lost-sponsors-broke-fds/articleshow/130387738.cms",
-    "time": "2026-04-20T09:05:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/perils-of-selective-political-reporting-the-case-of-tamil-nadus-finances/article70870853.ece",
     "time": "2026-04-17T04:52:35.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
