@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Jack Quaid marries 'The Boys' co-star Claudia Doumit",
+    "desc": "Hollywood stars Jack Quaid and Claudia Doumit have tied the knot in a private Australian ceremony. The 'Boys' co-stars exchanged vows at Mona Farm, with Quaid's famous parents, Dennis Quaid and Meg Ryan, among the celebrity guests. Doumit stunned in a satin gown, while Quaid sported a Western-inspired red blazer.",
+    "img": "https://static.toiimg.com/photo/msid-130427365,imgsize-95238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jack-quaid-marries-the-boys-co-star-claudia-doumit-in-an-intimate-ceremony-in-australia-dennis-quaid-and-meg-ryan-attend-pics/articleshow/130427362.cms",
+    "time": "2026-04-21T21:33:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhawan dismisses Salman ‘difficult’ tag, Govinda 'comes late but delivers'",
+    "desc": "Filmmaker David Dhawan has addressed the long-standing perception around working with Salman Khan, calling him an “excellent guy” and highlighting their strong professional equation. In a recent chat, Dhawan also weighed in on comparisons with Govinda. Reacting to claims that Salman can be difficult to work with, David said, “Everybody goes through this.\" Addressing criticism over Govinda, David said, “People say that, but he always finishes his work. So what if he comes late?”",
+    "img": "https://static.toiimg.com/photo/msid-130427342,imgsize-64396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/david-dhawan-dismisses-salman-khan-difficult-tag-says-govinda-comes-late-but-delivers-we-are-fire-together/articleshow/130427329.cms",
+    "time": "2026-04-21T21:01:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala’s agriculture sector reels under severe rain deficit",
+    "desc": "Palakkad, Malappuram, Kollam, and Idukki among the worst-a ected districts in terms of rainfall de ciency this summer season; farmers say that summer crops, which are at present in the critical tillering stage, are struggling to survive the extreme temperature",
+    "img": "https://th-i.thgim.com/public/incoming/cnlo8b/article70889142.ece/alternates/LANDSCAPE_1200/IMG_Kerala-reels-un_GRUC_2_1_AUCR4EVV.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralas-agriculture-sector-reels-under-severe-rain-deficit/article70888590.ece",
+    "time": "2026-04-21T19:54:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mumtaz recalls last meeting Dharmendra; praises Sunny-Bobby",
+    "desc": "Veteran actor Mumtaz recently opened up about her memories with Dharmendra, recalling their last meeting and reflecting on his warmth as a person. In a recent chat, she also spoke about her limited interaction with his sons, Sunny Deol and Bobby Deol, while praising them for their upbringing.",
+    "img": "https://static.toiimg.com/photo/msid-130426931,imgsize-43056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mumtaz-recalls-last-meeting-with-dharmendra-praises-sunny-bobby-deol-ive-heard-they-are-all-living-together/articleshow/130426791.cms",
+    "time": "2026-04-21T19:40:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tourists return to Pahalgam; hoteliers offer discounts",
+    "desc": "Tourists pay tributes at the Pahalgam attack memorial, with locals standing guard; the hill station is once again teeming with visitors, hotels are offering rebates on tariffs, and taxi operators are providing free rides for an hour on April 22",
+    "img": "https://th-i.thgim.com/public/incoming/nykuta/article70890085.ece/alternates/LANDSCAPE_1200/PTI04_21_2026_000416B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/on-anniversary-of-pahalgam-attack-tourists-pledge-to-return-at-the-memorial-site/article70889873.ece",
+    "time": "2026-04-21T19:34:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Day before Pahalgam attack anniv, Shinde hands over new house to ponywallah’s family",
+    "desc": "A new home was gifted to the family of a brave ponywallah, Syed Adil Hussain Shah, who died saving tourists in Pahalgam. Maharashtra Deputy CM Eknath Shinde virtually handed over the house, built by Shiv Sena, honoring Shah's sacrifice. The family expressed pride and gratitude for the support received.",
+    "img": "https://static.toiimg.com/photo/msid-130426378,imgsize-169306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/day-before-pahalgam-attack-anniv-shinde-hands-over-new-house-to-ponywallahs-family/articleshow/130426208.cms",
+    "time": "2026-04-21T19:13:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Madurai East constituency needs an upgrade to meet rapid urbanisation",
+    "desc": "Though there has been constant support for the DMK in the constituency for about a decade now the people have key demands which they hope will be taken up; they point out that basic infrastructure facilities are yet to be completed in the Assembly constituency",
+    "img": "https://th-i.thgim.com/public/incoming/rb3aqt/article70890266.ece/alternates/LANDSCAPE_1200/9871_16_4_2026_20_0_56_1_DSC_7592.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/madurai-east-needs-an-upgrade-to-meet-rapid-urbanisation/article70869394.ece",
+    "time": "2026-04-21T19:08:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Salt pan workers indignant about lack of better amenities in Thoothukudi constituency",
+    "desc": "The constituency houses a significant number of salt pans, employing hundreds of labourers. However, a higher proportion of labourers do not use safety gears, which include shoes and glasses, while working in the salt pans.",
+    "img": "https://th-i.thgim.com/public/incoming/i2bb6r/article70890260.ece/alternates/LANDSCAPE_1200/9865_16_4_2026_14_24_20_1_DSC_9621.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/salt-pan-workers-indignant-about-lack-of-better-amenities-in-thoothukudi-constituency/article70869340.ece",
+    "time": "2026-04-21T19:05:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will DC make changes to XI after defeat to SRH? Axar clarifies",
+    "desc": "Sunrisers Hyderabad defeated Delhi Capitals by 47 runs, powered by Abhishek Sharma’s unbeaten 135 off 68 balls and Eshan Malinga’s 4/32. DC skipper Axar Patel stayed composed after the loss, saying no XI changes were needed and calling it an “off day.” He admitted missed chances but praised SRH, noting sometimes teams are simply outplayed.",
+    "img": "https://static.toiimg.com/photo/msid-130426146,imgsize-67880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-dc-make-changes-to-xi-after-defeat-to-srh-skipper-axar-patel-clarifies/articleshow/130426091.cms",
+    "time": "2026-04-21T19:03:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘This is for you’ – Abhishek Sharma’s emotional tribute to sister after 135* vs DC",
+    "desc": "Abhishek Sharma smashed an unbeaten 135 to lead Sunrisers Hyderabad to a commanding 47-run win over Delhi Capitals. SRH posted a massive 242 for 2. Delhi faltered in their chase despite a strong start. Eshan Malinga and Sakib Hussain took crucial wickets. The win propelled SRH to third on the points table. Sharma's performance was a highlight of IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130425800,imgsize-111118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-this-is-for-you-abhishek-sharmas-emotional-tribute-to-sister-after-135-vs-dc/articleshow/130425793.cms",
+    "time": "2026-04-21T18:58:17.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Implementation of guidelines could have averted fireworks accident in Kerala’s Thrissur, experts say",
     "desc": "The P.S. Gopinathan Commission, which probed the Puttingal tragedy, had suggested extensive safety measures, including a risk assessment exercise by the District Disaster Management Authority at least a fortnight in advance and necessary arrangements for disaster management",
@@ -70,15 +160,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/on-the-yashwant-varma-probes-future/article70890127.ece",
     "time": "2026-04-21T17:29:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "On anniversary of Pahalgam attack, tourists pledge to return at the memorial site",
-    "desc": "Tourists are paying tributes at the memorial, with locals standing guard; the hill station is once again teeming with visitors, hotels are offering rebates on tariffs, and taxi operators are providing free rides for an hour on April 22",
-    "img": "https://th-i.thgim.com/public/incoming/nykuta/article70890085.ece/alternates/LANDSCAPE_1200/PTI04_21_2026_000416B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/on-anniversary-of-pahalgam-attack-tourists-pledge-to-return-at-the-memorial-site/article70889873.ece",
-    "time": "2026-04-21T17:09:09.000Z"
   },
   {
     "cat": "Politics",
@@ -171,15 +252,6 @@ const newsData_en = [
     "time": "2026-04-21T16:06:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "After Pahalgam massacre, security forces took the terror fight back to Kashmir’s jungles",
-    "desc": "The terror attack also led to a review of the security grid in the Union Territory. Young officers were inducted into the Special Operations Group (SOG) of the J&K Police and they trained alongside the Greyhounds and the Para (Special Forces)",
-    "img": "https://th-i.thgim.com/public/incoming/8prnyx/article70889878.ece/alternates/LANDSCAPE_1200/33-Pahalgam%20terror%20attack%20anniversary-PAHALGAM-21-04-2026.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/after-pahalgam-massacre-security-forces-took-the-terror-fight-back-to-kashmirs-jungles/article70889250.ece",
-    "time": "2026-04-21T15:59:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek Sharma scripts history, equals Virat Kohli to become…",
     "desc": "Abhishek Sharma unleashed a sensational unbeaten 135 off 68 balls, including 10 sixes, to power Sunrisers Hyderabad to 242/2 against Delhi Capitals. This remarkable century, his second in the IPL, propelled SRH to a commanding position and etched his name among the league's top individual scores. Sharma's explosive batting display was the highlight of SRH's dominant performance.",
@@ -187,24 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-abhishek-sharma-scripts-history-equals-virat-kohli-to-become/articleshow/130421447.cms",
     "time": "2026-04-21T15:58:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Environmental pollution remains a major concern in Tiruvottiyur constituency",
-    "desc": "Home to a working class electorate, small business owners, and a sizeable fisherfolk population due to its long coastline, this Assembly segment represents Chennai’s evolving socio-economic landscape. It comprises portions of Manali, Tiruvottiyur, Kaladipet, Kathivakkam, and Ennore.",
-    "img": "https://th-i.thgim.com/public/incoming/ngbjp/article70850237.ece/alternates/LANDSCAPE_1200/DJI_20260409115747_0062_D.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/environmental-pollution-remains-a-major-concern-in-this-industrial-zone/article70847911.ece",
-    "time": "2026-04-21T15:55:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Slow progress of infrastructure, unemployment frustrate Mayiladuthurai constituency voters",
-    "desc": "Be it the ₹83.03-crore underground sewerage project, the ₹29.01-crore Perunthalaivar Kamarajar Bus Stand of the Sarangapani flyover, poor planning and execution remain the common factors; the government hospital in the district headquarters lacks basic facilities",
-    "img": "https://th-i.thgim.com/public/incoming/aiafyb/article70857460.ece/alternates/LANDSCAPE_1200/TH%20TRI-53.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-slow-progress-of-infrastructure-work-unemployment-frustrate-voters-of-mayiladuthurai-constituency/article70857015.ece",
-    "time": "2026-04-21T15:54:25.000Z"
   },
   {
     "cat": "Business",
@@ -441,15 +495,6 @@ const newsData_en = [
     "time": "2026-04-21T12:17:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mohit Suri titles Ahaan Panday and Aneet Padda’s next film ‘Satranga’",
-    "desc": "Director Mohit Suri is reportedly eyeing 'Satranga' for his next collaboration with Ahaan Panday and Aneet Padda, following their successful pairing in 'Saiyaara'. Yash Raj Films is backing this twisted musical romantic drama, aiming for a late 2027 release. The duo will reunite after completing their current projects, promising a more layered love story.",
-    "img": "https://static.toiimg.com/photo/msid-130417273,imgsize-67844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mohit-suri-titles-ahaan-panday-and-aneet-paddas-next-film-satranga-report/articleshow/130417273.cms",
-    "time": "2026-04-21T12:09:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Values set by Mahi bhai...'- Sanju Samson explains MS Dhoni’s CSK influence",
     "desc": "Sanju Samson feels a heightened sense of responsibility after joining the star-studded Chennai Super Kings, adapting quickly to the calm and cool team culture. Despite the team's mixed IPL campaign and growing injury concerns, Samson has shown flashes of brilliance, becoming CSK's second-highest run-scorer. His role is expected to expand further with Ayush Mhatre's injury.",
@@ -466,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-zero-impact-ex-india-captain-roasts-riyan-parag-drags-rahane-into-worst-batter-debate/articleshow/130415878.cms",
     "time": "2026-04-21T11:16:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepika excudes pregnancy glow as she shoots after second baby announcement",
-    "desc": "Deepika Padukone and Ranveer Singh are expecting their second child, with the actress recently spotted on a film set radiating a pregnancy glow. Despite her pregnancy, Deepika is reportedly continuing to shoot intense action sequences for her upcoming film 'Raaka' and is also slated to appear in 'King'.",
-    "img": "https://static.toiimg.com/photo/msid-130415721,imgsize-42638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukones-pregnancy-glow-is-hard-to-miss-as-she-shoots-post-second-baby-announcement-netizens-call-her-dhurandhars-real-life-yalina/articleshow/130415664.cms",
-    "time": "2026-04-21T11:06:01.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +531,6 @@ const newsData_en = [
     "time": "2026-04-21T10:34:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rakesh Bedi reveals he was not paid Saath Saath, got food from home",
-    "desc": "Veteran actor Rakesh Bedi revealed he wasn't paid for his role in the 1982 film 'Saath Saath', even for conveyance, highlighting the stark differences in industry practices. Filmmaker Farah Khan reminisced about early days when actors often worked for free and recalled meeting Bedi at Javed Akhtar's home during her teenage years.",
-    "img": "https://static.toiimg.com/photo/msid-130414882,imgsize-58570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakesh-bedi-reveals-he-was-not-paid-for-farooq-shaikh-deepti-naval-starrer-saath-saath-got-food-from-my-house-not-even-conveyance/articleshow/130414732.cms",
-    "time": "2026-04-21T10:31:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "CSK suffers setback as Ayush Mhatre ruled out of IPL 2026",
     "desc": "The Hindu understands that Mhatre, the Under-19 World Cup-winning captain, underwent scans here on Monday (April 20) after CSK arrived to take on the Mumbai Indians on Thursday (April 23, 2026) in one of the most anticipated IPL clashes every season",
@@ -520,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-5-players-who-could-replace-injured-ayush-mhatre-in-csk/articleshow/130413968.cms",
     "time": "2026-04-21T10:02:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two arrested for planning terror attacks in Delhi-NCR; recruited by ISI proxy Shahzad Bhatti",
-    "desc": "Delhi Police's Special Cell has apprehended two individuals, Rajveer and Vivek Banjara, linked to Pakistan-based gangster Shahzad Bhatti. The duo was allegedly planning grenade blasts and targeted killings across Delhi-NCR, recruited via social media. Their arrests thwarted attacks, uncovering a larger ISI-backed conspiracy to destabilize the region.",
-    "img": "https://static.toiimg.com/photo/msid-130413313,imgsize-750370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/two-arrested-for-planning-terror-attacks-in-delhi-ncr-recruited-by-isi-proxy-shahzad-bhatti/articleshow/130413243.cms",
-    "time": "2026-04-21T09:33:00.000Z"
   },
   {
     "cat": "Sports",
@@ -574,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-closing-in-on-ms-dhonis-record-set-to-overtake-csk-legend/articleshow/130412046.cms",
     "time": "2026-04-21T08:28:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Will ensure polls free of fear, violence &amp; intimidation ': CEC Gyanesh Kumar ahead of Bengal elections",
-    "desc": "Chief Election Commissioner Gyanesh Kumar pledged a rigorous effort to ensure West Bengal's elections are free from fear, violence, and inducements. He emphasized a zero-tolerance policy for malpractices and warned against any government functionary influencing the process. Kumar urged all voters to cast their ballots fearlessly, calling the upcoming polls a celebration of democracy.",
-    "img": "https://static.toiimg.com/photo/msid-130411605,imgsize-615180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-ensure-polls-free-of-fear-violence-intimidation-cec-gyanesh-kumar-ahead-of-bengal-elections/articleshow/130411380.cms",
-    "time": "2026-04-21T08:03:12.000Z"
   },
   {
     "cat": "Sports",
@@ -666,15 +675,6 @@ const newsData_en = [
     "time": "2026-04-21T04:14:41.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "From escaping dad’s beatings to beating batters with pace in IPL",
-    "desc": "Prince Yadav, an LSG pacer, honed his skills playing tennis-ball cricket in his village. He still plays the game, crediting it for his arm speed and yorkers. Despite a past age-fudging ban, he is now a rising uncapped Indian fast bowler. He learns from seasoned players like Mohammed Shami and Zaheer Khan.",
-    "img": "https://static.toiimg.com/photo/msid-130407044,imgsize-155738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/prince-yadav-from-escaping-dads-beatings-to-beating-batters-with-pace-in-ipl-2026/articleshow/130407056.cms",
-    "time": "2026-04-21T04:09:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Markets mixed as US-Iran talks offset geopolitical jitters",
     "desc": "Asian markets showed a mixed performance Tuesday, with Tokyo and Seoul indices climbing on tech strength. Investors are closely watching potential US-Iran peace talks, which are offering some optimism, but geopolitical risks and high oil prices are keeping markets cautious. Developments around the Strait of Hormuz remain a key concern for global oil supply.",
@@ -682,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-21-april-2026-markets-mixed-as-us-iran-talks-offset-geopolitical-jitters/articleshow/130406521.cms",
     "time": "2026-04-21T03:35:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma outguns GT as record-breaking blitz rewrites IPL history",
-    "desc": "Tilak Varma delivered a historic IPL century, smashing 101 off 45 balls to lead Mumbai Indians to a dominant 99-run victory. His explosive innings, featuring a remarkable turnaround in scoring rate, saw him outscore the entire Gujarat Titans lineup. Varma's maiden century also marked a personal milestone, earning him his first Player-of-the-Match award.",
-    "img": "https://static.toiimg.com/photo/msid-130406269,imgsize-49710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-tilak-varma-outguns-gujarat-titans-as-record-breaking-blitz-rewrites-mumbai-indians-history/articleshow/130406204.cms",
-    "time": "2026-04-21T03:08:39.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
