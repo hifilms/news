@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Real Madrid's Jude Bellingham invests in Birmingham Phoenix of The Hundred, buys 1.2% stake",
+    "desc": "Real Madrid and England international Jude Bellingham has purchased a minority stake in Hundred franchise Birmingham Phoenix. The midfielder, who grew up in Birmingham, acquired the stake from both Warwickshire and Knighthead Capital, the American...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/real-madrid-s-jude-bellingham-invests-in-birmingham-phoenix-of-the-hundred-buys-1-2-stake-2026-04-21-1038406",
+    "time": "2026-04-21T18:20:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma, Eshan Malinga hammer Delhi Capitals, SRH moved to third on IPL 2026 points table",
+    "desc": "Abhishek Sharma produced a stunning batting show against Delhi Capitals at the Rajiv Gandhi International Stadium in Hyderabad. The southpaw smacked unbeaten 135 runs off just 68 balls as the hosts posted 242 runs on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-eshan-malinga-hammer-delhi-capitals-srh-moved-to-third-on-ipl-2026-points-table-2026-04-21-1038403",
+    "time": "2026-04-21T17:55:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni ready to take field in IPL 2026? Latest net session gives boost to CSK ahead of MI clash",
+    "desc": "Chennai Super Kings are waiting for their talisman, MS Dhoni, to take the field in the Indian Premier League 2026. The five-time champions are set to take on the five-time winners Mumbai Indians on Thursday...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-ready-to-take-field-in-ipl-2026-latest-net-session-gives-boost-to-csk-ahead-of-mi-clash-2026-04-21-1038402",
+    "time": "2026-04-21T17:53:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh announce squad for first two T20Is against New Zealand, drops first-team pacers",
+    "desc": "Bangladesh will begin their T20I series against New Zealand with a noticeably altered pace attack, as the team management has decided to rotate key fast bowlers for the opening matches in Chattogram. The move shifts...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-announce-squad-for-first-two-t20is-against-new-zealand-drops-first-team-pacers-2026-04-21-1038401",
+    "time": "2026-04-21T17:40:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aiden Markram shares fitness update on Mayank Yadav ahead of IPL 2026 clash against RR",
+    "desc": "Lucknow Super Giants may finally be closing in on a much-awaited return of Mayank Yadav, who was retained for INR 11 crore, despite injury struggles. The ace pacer was given the green light by the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-shares-fitness-update-on-mayank-yadav-ahead-of-ipl-2026-clash-against-rr-2026-04-21-1038399",
+    "time": "2026-04-21T17:20:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Sharma surpasses MS Dhoni in huge T20 record list, chases Suryakumar, Virat Kohli",
     "desc": "Sunrisers Hyderabad star Abhishek Sharma went past Indian legend MS Dhoni on a major T20 record list with his spectacular century during his team's Indian Premier League 2026 clash against the Delhi Capitals on Tuesday,...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-receive-will-jacks-boost-ahead-of-csk-meeting-in-ipl-2026-2026-04-21-1038383",
     "time": "2026-04-21T14:41:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hard-hitting Sunrisers asked to bat first by Capitals",
-    "desc": "Sunrisers Hyderabad will aim to capitalise on home conditions when they face Delhi Capitals in a mid-table IPL clash on Tuesday. Both sides are level on six points, with SRH placed fourth due to a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-dc-ipl-2026-live-cricket-score-sunrisers-hyderabad-vs-delhi-capitals-rajiv-gandhi-international-stadium-latest-match-updates-scorecard-teams-2026-04-21-1038378",
-    "time": "2026-04-21T13:47:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Pat Cummins for SRH vs DC in IPL 2026 clash in Hyderabad? When will he be back?",
-    "desc": "Sunrisers Hyderabad captain Pat Cummins is yet to return to regain full fitness and hence, will miss the marquee clash against Delhi Capitals in IPL 2026. The Australia international returned to India before Hyderabad’s clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-pat-cummins-for-srh-vs-dc-in-ipl-2026-clash-in-hyderabad-when-will-he-be-back-2026-04-21-1038376",
-    "time": "2026-04-21T13:44:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer reveals mission to lift IPL trophy, doesn't want PBKS players to think too far ahead",
-    "desc": "With five wins in six matches, Punjab Kings are at the top of the IPL 2026 points table. They are also the only unbeaten side so far in the competition. Last year as well, Punjab...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-reveals-mission-to-lift-ipl-trophy-doesn-t-want-pbks-players-to-think-too-far-ahead-2026-04-21-1038373",
-    "time": "2026-04-21T13:29:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check full list of winners as Carlos Alcaraz, Sabalenka bag top honours",
-    "desc": "Tennis stars Carlos Alcaraz and Aryna Sabalenka walked away with the top honours as they bagged the sportsman and sportswoman of the year awards at the Laureus World Sports Awards 2026. Celebrated French club Paris...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/laureus-world-sports-awards-2026-check-full-list-of-winners-as-carlos-alcaraz-sabalenka-bag-top-honours-2026-04-21-1038372",
-    "time": "2026-04-21T13:29:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz racing against time as wrist injury puts French Open defence in threat",
-    "desc": "Spanish Tennis sensation Carlos Alcaraz is facing a race against time as he is suffering from a wrist injury, which has put his participation in the upcoming French Open in doubt. Alcaraz picked up the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-racing-against-time-as-wrist-injury-puts-french-open-defence-in-threat-2026-04-21-1038361",
-    "time": "2026-04-21T11:50:09.000Z"
   }
 ];

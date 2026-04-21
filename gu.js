@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "ટ્રમ્પ ટેરિફ રિફંડ, ભારતીય એક્સપોર્ટર્સ માટે ખુશખબર; રિફંડ મેળવવા કરવી પડશે આ પ્રક્રિયા",
+    "desc": "આ રિફંડ સીધું ભારતીય નિકાસકારોના બેન્ક ખાતામાં નહીં આવે. નિયમ અનુસાર, રિફંડનો ક્લેમ માત્ર અમેરિકાના આયાતકારો (Importers) જ કરી શકે છે. આ માટે ભારતીય નિકાસકારોએ (Exporters) તેમના અમેરિકાના ખરીદદારો સાથે ફંડ શેરિંગ અંગે વાતચીત કરવી પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/trump-tariff-refund-good-news-for-indian-exporters-but-this-process-will-have-to-be-followed-to-get-the-refund-474198 ",
+    "time": "2026-04-21T16:44:46.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "LPG પછી, હવે આ વસ્તુની અછત! ઘણા શહેરોમાં આઉટ ઓફ સ્ટોકથી લોકો પરેશાન, સપ્લાય પર લાગી બ્રેક?",
     "desc": "ઘણા શહેરોમાં આ વસ્તુની અચાનક અછત જોવા મળી રહી છે, જેના કારણે સોશિયલ મીડિયા યુઝર્સ પરેશાન થઈ રહ્યા છે. આ પાછળના કારણોમાં એલ્યુમિનિયમ કેનમાં સપ્લાય સમસ્યાઓ, નવા BIS નિયમો અને શૂન્ય-ખાંડ પીણાંની વધતી માંગ શામેલ છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
