@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ચાલુ મેચે તિલક વર્મા પર કેમ ભડક્યો હાર્દિક પંડ્યા ? મેચ બાદ ખુદ કેપ્ટને જ કર્યો ખુલાસો",
+    "desc": "સોમવારે રમાયેલી IPL મેચમાં મુંબઈ ઇન્ડિયન્સે ગુજરાત ટાઇટન્સને 99 રનથી કારમી હાર આપી. સતત ચાર હાર બાદ મળેલી આ પહેલી જીત પછી કેપ્ટન હાર્દિક પંડ્યા ખુશ દેખાતો હતો. મેચ પછી તેણે ખુલાસો કર્યો કે તે શા માટે યુવા બેટ્સમેન તિલક વર્મા સામે બૂમો પાડી રહ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-hardik-pandya-gets-angry-at-tilak-verma-captain-himself-revealed-474109 ",
+    "time": "2026-04-21T06:09:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પત્ની-બાળકોનો ખર્ચો ન ઉઠાવી શકો તો લગ્ન ન કરો, હાઈકોર્ટનો મહત્વનો ચુકાદો",
+    "desc": "અલાહાબાદ હાઈકોર્ટે પતિએ દાખલ કરેલી અરજી ફગાવી દીધી જેમાં કહેવાયું હતું કે તે આર્થિક સ્થિતિ સારી ન હોવાના કારણે તે પત્નીને પૈસા આપી શકે તેમ નથી. કોર્ટનું કહેવું છે કે જો ખર્ચો ઉઠાવી શકો તેમ ન હોવ તો લગ્ન કરવા જોઈએ નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/allahabad-high-court-important-verdict-reject-husband-plea-citing-poor-finances-474108 ",
+    "time": "2026-04-21T06:00:55.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મહિલાઓ માટે LICની મેગા ઓફર, ઘરે બેઠા કમાઓ રૂપિયા 84000, જાણો કેવી રીતે",
     "desc": "ભારત સરકાર મહિલાઓને સશક્ત બનાવવા માટે સતત પ્રયાસો કરી રહી છે. આ પહેલને અનુરૂપ LIC દ્વારા બીમા સખી યોજના શરૂ કરવામાં આવી હતી. ત્યારે શું છે આ યોજના અને કેવી રીતે મહિલાઓ ઘરે બેઠા વાર્ષિક રૂપિયા 84000 કમાઈ શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -511,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/624-runs-partnership-world-record-in-test-cricket-kumar-sangakkara-mahela-jayawardene-473536 ",
     "time": "2026-04-17T11:01:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારી કર્મચારી માટે મહત્વના સમાચાર! ક્યારે આપવામાં આવશે મોંઘવારી ભથ્થું ? મોદી સરકાર આપશે સારા સમાચાર ?",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરોને જાન્યુઆરી 2026થી તેમના મોંઘવારી ભથ્થા (DA) હજુ સુધી મળ્યા નથી. રાહ ખૂબ લાંબી થઈ ગઈ છે. NC-JCMએ કેબિનેટ સચિવને દરમિયાનગીરી કરવા વિનંતી કરી છે. લેટેસ્ટ અપડેટ્સ અને સંભવિત વધારો આ સમયે થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/important-news-for-government-employees-when-will-dearness-allowance-be-given-modi-government-will-give-good-news-473520 ",
-    "time": "2026-04-17T09:42:06.000Z"
   },
   {
     "cat": "Sports",

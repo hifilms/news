@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I asked him to calm down': Tilak Varma on Hardik Pandya's constant chatter to motivate him during time out",
+    "desc": "Tilak Varma returned to form with an unbeaten 101 off just 45 balls against Gujarat Titans on Monday in the 30th match of the Indian Premier League. His majestic knock paved the way for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-asked-him-to-calm-down-tilak-varma-on-hardik-pandya-s-constant-chatter-to-motivate-him-during-time-out-2026-04-21-1038312",
+    "time": "2026-04-21T07:18:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill misses Orange Cap, Prasidh Krishna gets closer to purple cap in IPL 2026 after GT vs MI clash",
+    "desc": "Mumbai Indians ended their four-match losing streak on Monday in the 30th match of the Indian Premier League (IPL), defeating Gujarat Titans by a huge margin of 99 runs. With this win, they also got...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-misses-orange-cap-prasidh-krishna-gets-closer-to-purple-cap-in-ipl-2026-after-gt-vs-mi-clash-2026-04-21-1038297",
+    "time": "2026-04-21T05:36:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MS Dhoni and Suresh Raina on KL Rahul's radar as Delhi Capitals face Sunrisers Hyderabad in IPL 2026",
     "desc": "Delhi Capitals will face Sunrisers Hyderabad in the 31st match of the ongoing Indian Premier League (IPL) season at the Rajiv Gandhi International Stadium in Hyderabad. Both teams are coming off wins in their previous...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-equals-all-time-record-for-mumbai-indians-slams-blistering-ton-to-revive-team-vs-gt-2026-04-20-1038249",
     "time": "2026-04-20T16:00:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians beat Gujarat Titans by 99 runs to return to winning ways",
-    "desc": "A struggling Mumbai Indians side is eager to halt its downward spiral as it faces a confident Gujarat Titans unit looking to continue its winning streak in an Indian Premier League clash at the Narendra...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-mi-ipl-2026-live-cricket-score-gujarat-titans-vs-mumbai-indians-latest-match-updates-scorecard-highlights-team-2026-04-20-1038240",
-    "time": "2026-04-20T14:01:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Rohit Sharma playing today's IPL 2026 match for Mumbai Indians against Gujarat Titans?",
-    "desc": "Rohit Sharma missed out as the Mumbai Indians take on the Gujarat Titans in their sixth match of the Indian Premier League 2026 at the Narendra Modi Stadium in Ahmedabad on Monday, April 20. Sharma...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-rohit-sharma-playing-todays-ipl-2026-match-for-mumbai-indians-against-gujarat-titans-2026-04-20-1038238",
-    "time": "2026-04-20T13:46:26.000Z"
   }
 ];
