@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Players who can replace Ayush Mhatre in CSK's playing XI for game vs Mumbai Indians",
+    "desc": "Chennai Super Kings have won only two out of six matches so far in the ongoing edition of the Indian Premier League (IPL). Their season has only gotten tougher as their key batter Ayush Mhatre...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-ayush-mhatre-in-csk-s-playing-xi-for-game-vs-mumbai-indians-2026-04-21-1038333",
+    "time": "2026-04-21T09:43:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ayush Mhatre ruled out of IPL 2026 due to hamstring injury, CSK confirms",
+    "desc": "Chennai Super Kings have been dealt a massive blow ahead of their marquee clash against the Mumbai Indians (MI) on April 23. Their young batter Ayush Mhatre has been ruled out of the remainder of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ayush-mhatre-ruled-out-of-ipl-2026-due-to-hamstring-injury-csk-confirms-2026-04-21-1038329",
+    "time": "2026-04-21T09:20:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Middle-order was exposed': GT batting coach Matthew Hayden opens up on 99-run loss vs Mumbai Indians",
+    "desc": "There was no secret to Gujarat Titans' success last year. Their top three - Shubman Gill, Sai Sudharsan and Jos Buttler - did the heavy lifting of scoring most of the runs and the middle-order...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/middle-order-was-exposed-gt-batting-coach-matthew-hayden-opens-up-on-99-run-loss-vs-mumbai-indians-2026-04-21-1038322",
+    "time": "2026-04-21T08:38:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I asked him to calm down': Tilak Varma on Hardik Pandya's constant chatter to motivate him during time out",
     "desc": "Tilak Varma returned to form with an unbeaten 101 off just 45 balls against Gujarat Titans on Monday in the 30th match of the Indian Premier League. His majestic knock paved the way for the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-ipl-2025-knocks-bit-of-a-joke-ex-india-cricketer-on-veteran-blasts-for-sycophancy-culture-2026-04-20-1038261",
     "time": "2026-04-20T18:13:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "All-round Mumbai Indians inflict biggest IPL loss on GT to return to winning ways in Ahmedabad",
-    "desc": "The Mumbai Indians finally displayed a brilliant all-round performance to cap off a huge 99-run win over the Gujarat Titans in their Indian Premier League 2026 clash at the Narendra Modi Stadium in Ahmedabad on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/all-round-mumbai-indians-inflict-biggest-ipl-loss-on-gt-to-return-to-winning-ways-in-ahmedabad-2026-04-20-1038256",
-    "time": "2026-04-20T17:40:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma creates IPL history after jaw-dropping late charge during GT vs MI IPL 2026 clash",
-    "desc": "Tilak Varma has etched his name into the history books with a jaw-dropping late acceleration during the first innings of the Mumbai Indians' clash against the Gujarat Titans in the Indian Premier League 2026 on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-creates-ipl-history-after-jaw-dropping-late-charge-during-gt-vs-mi-ipl-2026-clash-2026-04-20-1038253",
-    "time": "2026-04-20T17:26:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma equals all-time record for Mumbai Indians, slams blistering ton to revive team vs GT",
-    "desc": "Star batter Tilak Varma achieved a huge milestone as he slammed a blistering hundred for the Mumbai Indians in their IPL 2026 clash against the Gujarat Titans on Monday, April 20. Tilak revived the struggling...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-equals-all-time-record-for-mumbai-indians-slams-blistering-ton-to-revive-team-vs-gt-2026-04-20-1038249",
-    "time": "2026-04-20T16:00:27.000Z"
   }
 ];

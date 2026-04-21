@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "ક્રિકેટના ઇતિહાસમાં &amp;#039;શૂન્ય&amp;#039; પર આઉટ થનાર પ્રથમ ખેલાડી કોણ હતો ? 149 વર્ષ પહેલાં બન્યો હતો આ શરમજનક રેકોર્ડ",
+    "desc": "ટેસ્ટ ક્રિકેટ રમતનું સૌથી જૂનું ફોર્મેટ છે. તેનો ઇતિહાસ 150 વર્ષ જૂનો છે. આ વર્ષોમાં, ઘણા રેકોર્ડ બન્યા છે અને તૂટ્યા છે; પરંતુ શું તમે જાણો છો કે આ ફોર્મેટમાં શૂન્ય રને આઉટ થનાર પ્રથમ બેટ્સમેન કોણ હતો? જો નહીં, તો નીચે સંપૂર્ણ જવાબ શોધો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ned-gregory-was-first-batsman-in-cricket-history-to-be-dismissed-for-a-duck-474135 ",
+    "time": "2026-04-21T08:59:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઈરાન-અમેરિકા યુદ્ધ રોકવાની વાત નહીં માને તો ભારતમાં &amp;#039;મોંઘવારીનો બોમ્બ&amp;#039; ફૂટશે! જાણો કઈ-કઈ વસ્તુઓ મોંઘી થઈ શકે?",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે જ્યાં એક બાજુ પાકિસ્તાનમાં શાંતિ મંત્રણાનો બીજો તબક્કો થઈ રહ્યો હોવાની વાતો ચાલુ છે. અમેરિકાનું પ્રતિનિધિ મંડળ પહોંચવાની તૈયારી કરી રહ્યું છે ત્યાં ઈરાન તરફથી કોઈ રિસ્પોન્સ નથી. ઉપરથી અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પની ધમકીઓ પણ ચિંતા ઉપજાવનારી છે. ટ્રમ્પે કહ્યું છે કે ડીલ નહીં થાય ત્યાં સુધી હોર્મુઝમાં નાકાબંધી ચાલુ રહેશે. હવે જો આ નાકાબંધી ચાલુ રહે તો ભારત માટે પડકાર બની શકે છે. જાણો કઈ કઈ વસ્તુઓના ભાવ વધી શકે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/if-no-peace-agreement-between-iran-america-then-these-products-price-may-increase-474131 ",
+    "time": "2026-04-21T08:47:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "આ 7-સીટર ફેમિલી કાર થઈ સસ્તી, રૂપિયા 3.20 લાખ સુધીનું મળી રહ્યું છે ડિસ્કાઉન્ટ",
+    "desc": "જો તમે લક્ઝરી 7 સીટર MPV ખરીદવાનું વિચારી રહ્યા છો, તો આ સમાચાર તમારા માટે ઉપયોગી છે. કારણ કે KIA હાલમાં તેની 7-સીટર કાર પર બમ્પર ડિસ્કાઉન્ટ આપી રહી છે, ત્યારે આ કાર કઈ છે અને તમને કુલ કેટલું ડિસ્કાઉન્ટ મળશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/luxury-family-car-kia-carnival-discount-april-2026-know-latest-price-474132 ",
+    "time": "2026-04-21T08:27:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ચાલુ મેચે તિલક વર્મા પર કેમ ભડક્યો હાર્દિક પંડ્યા ? મેચ બાદ ખુદ કેપ્ટને જ કર્યો ખુલાસો",
     "desc": "સોમવારે રમાયેલી IPL મેચમાં મુંબઈ ઇન્ડિયન્સે ગુજરાત ટાઇટન્સને 99 રનથી કારમી હાર આપી. સતત ચાર હાર બાદ મળેલી આ પહેલી જીત પછી કેપ્ટન હાર્દિક પંડ્યા ખુશ દેખાતો હતો. મેચ પછી તેણે ખુલાસો કર્યો કે તે શા માટે યુવા બેટ્સમેન તિલક વર્મા સામે બૂમો પાડી રહ્યો હતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -504,24 +531,6 @@ const newsData_gu = [
     "time": "2026-04-17T16:18:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સરકારને ન મળી બહુમતી, મહિલા અનામત સંબંધિત બંધારણ સુધારા બિલ લોકસભામાં ના મંજૂર, જાણો",
-    "desc": "કુલ 298 સાંસદોએ બિલના પક્ષમાં મતદાન કર્યું, જ્યારે 230 સાંસદોએ તેની વિરુદ્ધ મતદાન કર્યું. કુલ 489 સાંસદોએ મતદાનમાં ભાગ લીધો. આ સંખ્યાના આધારે, બિલને પસાર થવા માટે 326 મતોની જરૂર હતી, જે પ્રાપ્ત થઈ શક્યું નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/government-did-not-get-majority-constitution-amendment-bill-related-to-womens-reservation-was-not-approved-in-lok-sabha-know-473576 ",
-    "time": "2026-04-17T14:38:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારી કર્મચારીઓ માટે મહત્ત્વના સમાચાર! DAમાં 4% સુધીનો થઈ શકે છે વધારો? જાણો કેટલો વધશે પગાર",
-    "desc": "સાતમા પગાર પંચ હેઠળ જાન્યુઆરીથી થનારા મોંઘવારી ભથ્થા (DA)માં વધારાની જાહેરાત હજુ સુધી કરવામાં આવી નથી, પરંતુ કર્મચારીઓને આશા છે કે, સરકાર ટૂંક સમયમાં તેમાં વધારો કરી શકે છે. જો આ વધારો થાય છે, તો તેમાં 4 ટકા સુધીનો ઉછાળો આવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/7th-pay-commission-will-dearness-allowance-increase-by-4-percent-know-how-much-your-salary-will-increase-473577 ",
-    "time": "2026-04-17T14:34:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "624 રન, 78 ચોગ્ગા... ટેસ્ટમાં પ્રથમવાર બન્યો આ અસંભવ વર્લ્ડ રેકોર્ડ, 3 દિવસ મેદાન પર વિકેટની ભીખ માંગતા રહ્યાં બોલર",
     "desc": "ક્રિકેટના મેદાન પર અત્યાર સુધી ઘણા એવા રેકોર્ડ બન્યા છે જેના પર વિશ્વાસ કરવો મુશ્કેલ થઈ જાય છે. આવો એક રેકોર્ડ 2006મા બન્યો હતો. જ્યારે શ્રીલંકાના બેટર માહેલા જયવર્ધને અને કુમાર સાંગાકારાએ આફ્રિકા સામે ટેસ્ટ ક્રિકેટમાં 624 રનની ભાગીદારી કરી હતી.",
@@ -529,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/624-runs-partnership-world-record-in-test-cricket-kumar-sangakkara-mahela-jayawardene-473536 ",
     "time": "2026-04-17T11:01:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ 2026માં થઈ હતી મેચ ફિક્સિંગ? ICCની તપાસના ઘેરામાં ભારતીય મૂળના ક્રિકેટરનું નામ!",
-    "desc": "તાજેતરમાં પુરા થયેલા T20 વર્લ્ડ કપ 2026માં મેચ ફિક્સિંગનો મામલો સામે આવી રહ્યો છે. આ અંગે ICC (ઇન્ટરનેશનલ ક્રિકેટ કાઉન્સિલ) દ્વારા તપાસ પણ શરૂ કરી દેવામાં આવી છે. ICC દ્વારા કરવામાં આવી રહેલી આ તપાસમાં ભારતીય મૂળના એક ખેલાડીનું નામ પણ સામે આવ્યું છે. ચાલો જાણીએ શું છે સમગ્ર મામલો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/was-match-fixing-involved-in-the-2026-t20-world-cup-name-of-indian-origin-cricketer-under-icc-investigation-473519 ",
-    "time": "2026-04-17T09:37:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -655,23 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/whatsapp-username-feature-chat-without-sharing-phone-number-472200 ",
     "time": "2026-04-09T10:52:09.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "5-સ્ટાર સેફ્ટીની સાથે ₹7.59 લાખની SUV એ મચાવી ધૂમ, શાનદાર ફીચર્સે બનાવી નંબર-1",
-    "desc": "માર્ચ 2026મા અનેક કંપનીઓને કારએ માર્કેટમાં ધૂમ મચાવી છે. માર્ચ 2026મા સ્કોડા કાઇલાકે ભારતીય બજારમાં સૌથી વધુ વેચાણ કર્યું, પરંતુ વાર્ષિક આધાર પર તેમાં 12 ટકાનો ઘટાડો થયો છે. સાથે સ્કોડા કુશાક અને કોડિયાકે સારૂ પ્રદર્શન કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/skoda-model-wise-sales-in-march-march-2026-best-selling-kylaq-472008 ",
-    "time": "2026-04-08T08:44:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "1 રૂપિયામાં ડેટા, કોલિંગ અને SMS! પબ્લિક ડિમાન્ડ પર કંપનીએ રી-લોન્ચ કર્યો આ પ્લાન",
-    "desc": "સરકારી ટેલીકોમ કંપની BSNLએ પોતાનો પોપુલર Freedom Plan ફરી શરૂ કર્યો છે. આ પ્લાન હેઠળ ડેટા, કોલિંગ અને એસએમએસનો લાભ મળે છે. જો તમે આ પ્લાન એક્ટિવ કરાવવા ઈચ્છો છો તો તમારે BSNLનું નવું સિમ કાર્ડ લેવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/data-calling-and-sms-for-1-rupee-bsnl-re-launched-freedom-plan-471978 ",
-    "time": "2026-04-08T05:41:54.000Z"
   }
 ];
