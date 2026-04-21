@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tilak Varma joins Ben Stokes, David Miller in elite IPL list with unbelievable century vs Gujarat Titans",
+    "desc": "Mumbai Indians ended their four-match losing streak on Monday with an authoritative 99-run win over Gujarat Titans at the Narendra Modi Stadium in Ahmedabad. The five-time champions had Tilak Varma to thank for returning to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-joins-ben-stokes-david-miller-in-elite-ipl-list-with-unbelievable-century-vs-gujarat-titans-2026-04-21-1038270",
+    "time": "2026-04-21T01:44:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Not a Hardik Pandya problem': MI skipper's straightforward reply on Jasprit Bumrah's usage",
     "desc": "Hardik Pandya likes to keep things simple. And on two occasions in the post-match presentation, he gave simple replies to some questions that seemed to draw much more effort. One of them was a highly...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/lucknow-super-giants-to-get-josh-inglis-boost-in-second-half-of-ipl-2026-know-his-joining-date-2026-04-20-1038223",
     "time": "2026-04-20T12:27:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Eoin Morgan heaps praise on Priyansh Arya, lauds PBKS' batting depth in IPL 2026",
-    "desc": "Former England captain Eoin Morgan heaped praise on Punjab Kings and their star batter Priyansh Arya for their performances in the Indian Premier League 2026. PBKS have been the only unbeaten team this tournament, having...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/eoin-morgan-heaps-praise-on-priyansh-arya-lauds-pbks-batting-depth-in-ipl-2026-2026-04-20-1038220",
-    "time": "2026-04-20T11:59:51.000Z"
   }
 ];
