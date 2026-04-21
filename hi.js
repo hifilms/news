@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MS Dhoni and Suresh Raina on KL Rahul's radar as Delhi Capitals face Sunrisers Hyderabad in IPL 2026",
+    "desc": "Delhi Capitals will face Sunrisers Hyderabad in the 31st match of the ongoing Indian Premier League (IPL) season at the Rajiv Gandhi International Stadium in Hyderabad. Both teams are coming off wins in their previous...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-and-suresh-raina-on-kl-rahul-s-radar-as-delhi-capitals-face-sunrisers-hyderabad-in-ipl-2026-2026-04-21-1038284",
+    "time": "2026-04-21T03:56:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First time in 276 T20 matches! Jasprit Bumrah ends long wait to achieve rare feat in IPL 2026 vs GT",
+    "desc": "Jasprit Bumrah is a once-in-a-generation bowler. But even he struggled to pick up a wicket in the ongoing edition of the Indian Premier League (IPL). His wicket drought extended to the previous season as well,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-276-t20-matches-jasprit-bumrah-ends-long-wait-to-achieve-rare-feat-in-ipl-2026-vs-gt-2026-04-21-1038275",
+    "time": "2026-04-21T02:19:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tilak Varma joins Ben Stokes, David Miller in elite IPL list with unbelievable century vs Gujarat Titans",
     "desc": "Mumbai Indians ended their four-match losing streak on Monday with an authoritative 99-run win over Gujarat Titans at the Narendra Modi Stadium in Ahmedabad. The five-time champions had Tilak Varma to thank for returning to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/is-rohit-sharma-playing-todays-ipl-2026-match-for-mumbai-indians-against-gujarat-titans-2026-04-20-1038238",
     "time": "2026-04-20T13:46:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB bans Dasun Shanaka from PSL for one year after Blessing Muzarabani row",
-    "desc": "The Pakistan Cricket Board has handed Sri Lanka T20I captain Dasun Shanaka a one-year ban for his withdrawal from the Pakistan Super League. Shanaka left the PSL and has been part of the Indian Premier...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pcb-bans-dasun-shanaka-from-psl-for-one-year-after-blessing-muzarabani-row-2026-04-20-1038231",
-    "time": "2026-04-20T13:08:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lucknow Super Giants to get Josh Inglis boost in second half of IPL 2026, Know his joining date",
-    "desc": "Lucknow Super Giants are set to get a massive boost in the second half of the ongoing edition of the Indian Premier League (IPL). Their Aussie recruit Josh Inglis is expected to join the squad...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lucknow-super-giants-to-get-josh-inglis-boost-in-second-half-of-ipl-2026-know-his-joining-date-2026-04-20-1038223",
-    "time": "2026-04-20T12:27:24.000Z"
   }
 ];

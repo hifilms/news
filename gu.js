@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "મહિલાઓ માટે LICની મેગા ઓફર, ઘરે બેઠા કમાઓ રૂપિયા 84000, જાણો કેવી રીતે",
+    "desc": "ભારત સરકાર મહિલાઓને સશક્ત બનાવવા માટે સતત પ્રયાસો કરી રહી છે. આ પહેલને અનુરૂપ LIC દ્વારા બીમા સખી યોજના શરૂ કરવામાં આવી હતી. ત્યારે શું છે આ યોજના અને કેવી રીતે મહિલાઓ ઘરે બેઠા વાર્ષિક રૂપિયા 84000 કમાઈ શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lic-bima-sakhi-yojana-for-womens-earn-rs-84000-per-year-474096 ",
+    "time": "2026-04-21T05:16:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "મિડલ ઈસ્ટમાં ફરી ભીષણ યુદ્ધ શરૂ થશે? &amp;#039;બીબી&amp;#039;નું ચોંકાવનારું નિવેદન, ટ્રમ્પે પણ આપી ધમકી",
+    "desc": "આગામી ગણતરીના કલાકો ખુબ મહત્વના ગણાઈ રહ્યા છે કારણ કે ઈરાન અને અમેરિકા વચ્ચે યુદ્ધવિરામ પૂરો થઈ રહ્યો છે અને શાંતિ સ્થપાય તેવા કોઈ એંધાણ જોવા મળતા નથી. એમાં પાછા તીખા નિવેદનો આગમાં ઘી હોમાવાનું કામ કરી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-us-war-ceasefire-deadline-donald-trump-benjamin-netanyahu-statements-latest-update-474082 ",
+    "time": "2026-04-21T03:41:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કોના કારણે હાર્યું ગુજરાત ટાઈટન્સ ? જાણો કેપ્ટન ગિલે કોને ગણાવ્યો હારનો જવાબદાર",
+    "desc": "IPL 2026માં મુંબઈ ઈન્ડિયન્સે ગુજરાત ટાઇટન્સને 99 રને હરાવ્યું. મુંબઈ ઈન્ડિયન્સે પ્રથમ બેટિંગ કરતા કુલ 199 રન બનાવ્યા હતા. જવાબમાં ગુજરાત ટાઇટન્સ 100 રનમાં ઓલઆઉટ થઈ ગઈ હતી. મેચ બાદ ગુજરાતના કેપ્ટન શુભમન ગિલે હારના કારણો જણાવ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-statement-after-gujarat-titans-defeat-against-mumbai-indians-474081 ",
+    "time": "2026-04-21T03:27:59.000Z"
+  },
+  {
     "cat": "World",
     "title": "સરકારી કર્મચારીઓ માટે મોટો નિર્ણય, હવે મહિનામાં એકવાર નહીં પણ બે વાર મળશે પગાર; જાણો શું છે કારણ",
     "desc": "નેપાળની બાલેન શાહ સરકારે સરકારી કર્મચારીઓને દર મહિને બે વાર પગાર આપવાનો નિર્ણય કર્યો છે. સરકાર તરફથી આ નિર્ણય દેશના રોકડ પ્રવાહ (Cash Flow)ને પાટા પર લાવવા માટે લેવામાં આવ્યો છે. હવે દરેક સરકારી કર્મચારીને 15 દિવસના અંતરે પગાર મળશે.",
@@ -387,15 +414,6 @@ const newsData_gu = [
     "time": "2026-04-18T09:41:29.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ટીસીએસ નાસિક ઓફિસનો કેસ શું છે ? મહિલા પોલીસે &amp;#039;ધુરંધર&amp;#039; બની સૌથી મોટા રેકેટનો પર્દાફાશ કર્યો",
-    "desc": "ટીસીએસ નાસિક બીપીઓ ઓફિસનો વિવાદ સતત વધી રહ્યો છે. જો કે હજુ પણ અનેક લોકો છે જેને આ મામલો શું છે તેના વિશે ખબર નથી. તો ચાલો તમને જણાવીએ ટીસીએસ નાસિક બીપીઓ ઓફિસમાં શું ચાલતું હતું ? આ ષડયંત્રનો ખુલાસો કેવી રીતે થયો ? અને આ કેસમાં અત્યાર સુધીમાં કયા ખુલાસાઓ થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-is-tcs-nashik-bpo-office-controversy-latest-update-on-tcs-nashik-case-of-harassment-and-religious-conversion-473508 ",
-    "time": "2026-04-18T08:46:47.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "યુવાનોને ઉભા ઉભા મૂર્તિ બનાવી દેતું ઝોમ્બી ડ્રગ શું છે, મહારાષ્ટ્રમાં વાયરલ થયેલા વીડિયોનું શું છે સત્ય, જાણીએ",
     "desc": "મહારાષ્ટ્રના ભાયંદર વિસ્તારમાં એક યુવકના વાયરલ વીડિયોએ ચિંતા જગાવી છે. પરંતું આ વીડિયોની હકીકત શું છે. આખરે કેમ સોશિયલ મીડિયા પર ઝોમ્બી ડ્રગ્સ ચર્ચામાં આવી ગયું છે. વાયરલ વીડિયો ઝોમ્બી ડ્રગ્સ શું હોય છે અને તેની અસરો કેવી હોય છે તેના પર જાણીએ.",
@@ -430,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/unique-cricket-records-virender-sehwag-scored-17-runs-in-a-single-ball-473639 ",
     "time": "2026-04-18T06:09:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન પર ટ્રમ્પ સામ, દામ, દંડ, ભેદ...બધુ અપનાવી રહ્યા છે! આપી દીધુ ફાઈનલ અલ્ટીમેટમ",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે આખરે શું ચાલી રહ્યું છે? એક બાજુ જ્યાં અમેરિકાના રાષ્ટ્રપતિ મોટા મોટા દાવા કરી રહ્યા છે કે તેમણે પરિસ્થિતિ કાબૂમાં કરી છે ત્યારે ઈરાનના ન્યૂક્લિયર પ્રોગ્રામ અને અન્ય દાવાઓ પણ ઈરાને ફગાવી દીધા છે. હવે ટ્રમ્પ ફરીથી પાછા ધમકીના મૂડમાં જોવા મળી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-israel-us-war-us-president-donald-trump-on-iran-hormuz-strait-check-details-in-gujarati-473622 ",
-    "time": "2026-04-18T05:29:10.000Z"
   },
   {
     "cat": "Politics",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/7th-pay-commission-will-dearness-allowance-increase-by-4-percent-know-how-much-your-salary-will-increase-473577 ",
     "time": "2026-04-17T14:34:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કઈ જ્ઞાતિના લોકો કરે છે સૌથી વધુ ઈન્ટર કાસ્ટ મેરેજ, જાતિગત સર્વેમાં થયો ચોંકાવનારો ખુલાસો",
-    "desc": "સૌથી વધુ આંતરજ્ઞાતીય લગ્ન (ઈન્ટર કાસ્ટ મેરેજ) કરનારી જ્ઞાતિઓમાં અય્યર, ખ્રિસ્તી અને રાજુ સમાજ સામેલ છે. તેલંગાણામાં અય્યર જ્ઞાતિને આયંગર તરીકે પણ ઓળખવામાં આવે છે. આ ઉપરાંત કાપુ અને બ્રાહ્મણ સમાજના લોકો પણ આંતરજ્ઞાતીય લગ્ન કરવામાં આગળ છે. જ્યારે રેડ્ડી અને વેલામા જ્ઞાતિઓમાં ઇન્ટર કાસ્ટ મેરેજનું ચલણ ઓછું જોવા મળ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/which-caste-people-perform-the-most-inter-caste-marriages-shocking-revelation-in-caste-survey-473538 ",
-    "time": "2026-04-17T11:17:14.000Z"
   },
   {
     "cat": "Sports",
