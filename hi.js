@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Carlos Alcaraz racing against time as wrist injury puts French Open defence in threat",
+    "desc": "Spanish Tennis sensation Carlos Alcaraz is facing a race against time as he is suffering from a wrist injury, which has put his participation in the upcoming French Open in doubt. Alcaraz picked up the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-racing-against-time-as-wrist-injury-puts-french-open-defence-in-threat-2026-04-21-1038361",
+    "time": "2026-04-21T11:50:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wolves relegated from Premier League after goalless draw between West Ham and Crystal Palace",
+    "desc": "Wolverhampton Wanderers will be playing in the Championship next season after their relegation from the Premier League was confirmed on Monday night. Their fate was sealed following West Ham United’s goalless draw with Crystal Palace,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/wolves-relegated-from-premier-league-after-goalless-draw-between-west-ham-and-crystal-palace-2026-04-21-1038358",
+    "time": "2026-04-21T11:41:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Rajiv Gandhi International Stadium in Hyderabad play?",
+    "desc": "Sunrisers Hyderabad will host Delhi Capitals in their upcoming IPL 2026 clash at the Rajiv Gandhi International Stadium. Courtesy of two back-to-back wins over Chennai and Rajasthan, the Hyderabad are currently fourth on the points...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-dc-pitch-report-how-will-surface-at-rajiv-gandhi-international-stadium-in-hyderabad-play-2026-04-21-1038348",
+    "time": "2026-04-21T10:58:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will DC captain take field in IPL 2026 clash against Sunrisers Hyderabad?",
+    "desc": "All eyes will be on Axar Patel as the Delhi Capitals take on the Sunrisers Hyderabad in their sixth match of the Indian Premier League 2026 at the Rajiv Gandhi International Stadium on Tuesday, April...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-injury-update-will-dc-captain-take-field-in-ipl-2026-clash-against-sunrisers-hyderabad-2026-04-21-1038347",
+    "time": "2026-04-21T10:53:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Players who can replace Ayush Mhatre in CSK's playing XI for game vs Mumbai Indians",
     "desc": "Chennai Super Kings have won only two out of six matches so far in the ongoing edition of the Indian Premier League (IPL). Their season has only gotten tougher as their key batter Ayush Mhatre...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-and-suresh-raina-on-kl-rahul-s-radar-as-delhi-capitals-face-sunrisers-hyderabad-in-ipl-2026-2026-04-21-1038284",
     "time": "2026-04-21T03:56:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First time in 276 T20 matches! Jasprit Bumrah ends long wait to achieve rare feat in IPL 2026 vs GT",
-    "desc": "Jasprit Bumrah is a once-in-a-generation bowler. But even he struggled to pick up a wicket in the ongoing edition of the Indian Premier League (IPL). His wicket drought extended to the previous season as well,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-276-t20-matches-jasprit-bumrah-ends-long-wait-to-achieve-rare-feat-in-ipl-2026-vs-gt-2026-04-21-1038275",
-    "time": "2026-04-21T02:19:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma joins Ben Stokes, David Miller in elite IPL list with unbelievable century vs Gujarat Titans",
-    "desc": "Mumbai Indians ended their four-match losing streak on Monday with an authoritative 99-run win over Gujarat Titans at the Narendra Modi Stadium in Ahmedabad. The five-time champions had Tilak Varma to thank for returning to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-joins-ben-stokes-david-miller-in-elite-ipl-list-with-unbelievable-century-vs-gujarat-titans-2026-04-21-1038270",
-    "time": "2026-04-21T01:44:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not a Hardik Pandya problem': MI skipper's straightforward reply on Jasprit Bumrah's usage",
-    "desc": "Hardik Pandya likes to keep things simple. And on two occasions in the post-match presentation, he gave simple replies to some questions that seemed to draw much more effort. One of them was a highly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-a-hardik-pandya-problem-mi-skippers-straightforward-reply-on-jasprit-bumrahs-usage-2026-04-21-1038263",
-    "time": "2026-04-20T18:40:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni's IPL 2025 knocks 'bit of a joke', ex-India cricketer on veteran; blasts for 'sycophancy' culture",
-    "desc": "Former India cricketer Sanjay Manjrekar tore into the Chennai Super Kings for their poor run in the Indian Premier League 2026. Manjrekar also blasted the sycophancy culture 'seeped' into the Indian cricket. The former cricketer also spoke...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-ipl-2025-knocks-bit-of-a-joke-ex-india-cricketer-on-veteran-blasts-for-sycophancy-culture-2026-04-20-1038261",
-    "time": "2026-04-20T18:13:10.000Z"
   }
 ];

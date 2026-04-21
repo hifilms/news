@@ -63,24 +63,6 @@ const newsData_bn = [
     "time": "2026-04-18T12:22:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "দিল্লির বিরাট ব্রেকিং-- হঠাত্‍ সিদ্ধান্তে বড় কোনও ঘোষণার পথে মোদী, রাত সাড়ে ৮ টায় জাতির উদ্দেশে ভাষণ",
-    "desc": "বিশেষ করে, বিরোধী জোট ‘ইন্ডিয়া’ (INDIA) যে জাতভিত্তিক জনগণনা এবং ওবিসি কোটার দাবি তুলেছে, তাকে এনডিএ বিরোধিতা হিসেবে দেখছে। এনডিএ-র রণকৌশল হল, সাধারণ মানুষের কাছে এটি প্রমাণ করা যে, বিরোধীরা আসলে নারীদের ক্ষমতায়ন চায় না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/lok-sabha-live-women-reservation-bill-nda-will-stage-nationwide-protests-against-the-opposition-after-defeat_649312.html ",
-    "time": "2026-04-18T09:49:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কোনও অভিযোগই জমা পড়েনি- যৌন হেনস্থায় বিরাট বিবৃতি TCS-এর, কে নিদা খান? স্পষ্ট করল সংস্থা",
-    "desc": "নাসিক ইউনিটে ধর্মান্তর এবং যৌন হেনস্থার অভিযোগ নিয়ে চলা পুলিসি তদন্তের মধ্যেই, আইটি সংস্থা টাটা কনসালটেন্সি সার্ভিসেস জানিয়েছে যে এই ধরনের কোনও হেনস্থার অভিযোগ তারা সংস্থার ইন্টারনাল সিস্টেমের মাধ্যমে পায়নি। একইসঙ্গে সংস্থার তরফে জানাল হল নিদা খান কে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tcs-statement-amid-probe-nida-khan-not-hr-head-did-not-get-any-internal-complaint_649302.html ",
-    "time": "2026-04-18T09:36:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "'মিষ্টি' রসমালাইতেই খুন স্ত্রীকে, কাটল মাথা-হাতও",
     "desc": "মিষ্টি স্বাদের রসমালাইয়ের মধ্যে ওষুধের তিটকুটে স্বাদ বুঝতে পারেননি শাহিদা। খুনের এক দিন পর শাহিদার মাথা ও হাতবিহীন দেহাংশ একটি ডোবায় ফেলে দেন সাইফুল। ওদিকে মাথা ও হাতের টুকরোগুলো ৭ কিলোমিটার দূরে নদীতে ফেলে দেন সাইফুল।",
@@ -97,14 +79,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/dev-says-love-you-mithun-da-during-ghatal-campaign-political-courtesy_649034.html ",
     "time": "2026-04-16T11:38:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "সুরের রানি সফল উদ্যোক্তাও: গানের রয়্যালটি থেকে রেস্তোরাঁ চেইন, ২৫০ কোটির সম্পত্তি কার জন্য রেখে গেলেন আশা ভোঁসলে?",
-    "desc": "সুরের রানি থেকে সফল ব্যবসায়ী— ৯২ বছর বয়সে জীবনাবসান হল কিংবদন্তি আশা ভোঁসলের। রেখে গেলেন ২৫০ কোটি টাকার বিশাল সাম্রাজ্য এবং বিশ্বজুড়ে ছড়িয়ে থাকা জনপ্রিয় রেস্তোরাঁ চেইন। সুরের জাদুকরী সফরের পাশাপাশি তাঁর সফল ব্যবসায়িক বুদ্ধিমত্তাও অনুপ্রেরণা জোগাবে আগামী প্রজন্মকে। কোটি কোটি টাকার সম্পত্তি কার জন্য রেখে গেলেন আশা ভোঁসলে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/asha-bhosle-net-worth-restaurant-chain-property-legacy_648651.html ",
-    "time": "2026-04-13T15:18:15.000Z"
   }
 ];
