@@ -72,15 +72,6 @@ const newsData_bn = [
     "time": "2026-04-21T15:30:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "সুনামি আতঙ্কের মাঝেই ভয়ংকর ভূমিকম্প অসমে, কাঁপল বাংলাও: আফটার শকের আতঙ্কে গোটা রাজ্য",
-    "desc": "অসমের রাজধানী গুয়াহাটি ও তার পার্শ্ববর্তী জেলাগুলোতে কম্পনের তীব্রতা ছিল যথেষ্ট বেশি। প্রত্যক্ষদর্শীরা জানিয়েছেন, হঠাৎ খাট, আলমারি ও ঘরের আসবাবপত্র প্রবলভাবে দুলতে শুরু করায় মুহূর্তের মধ্যে আতঙ্ক ছড়িয়ে পড়ে। অধিকাংশ মানুষ ঘরবাড়ি ছেড়ে খোলা রাস্তায় বেরিয়ে আসেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/5-point-3-magnitude-earthquake-hits-manipurs-kamjong-strong-tremors-felt-in-guwahati-and-northeast-india_649768.html ",
-    "time": "2026-04-21T04:55:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "হাসপাতালে আলিয়া ভাট, দীপিকার পর কি এবার দ্বিতীয় সন্তানের সুখবর দিচ্ছেন নায়িকা?",
     "desc": "অস্ট্রিয়ার বরফে রোম্যান্স সেরে ফিরতেই জল্পনা তুঙ্গে! মুম্বইয়ের হাসপাতালের বাইরে ধবধবে সাদা পোশাকে ধরা দিলেন আলিয়া ভাট। দীপিকা পাড়ুকোনের দ্বিতীয় সন্তানের খবরের মাঝেই আলিয়ার এই সফর কি তবে নতুন কোনও ‘সুখবর’-এর ইঙ্গিত? নাকি শুধুই রুটিন চেকআপ?",
@@ -115,5 +106,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-payel-de-controversy-late-rahul-banerjee-portrait-disrespect_649341.html ",
     "time": "2026-04-18T12:22:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jofra Archer set new IPL record for Rajasthan Royals after three-wicket haul against LSG",
+    "desc": "Ace pacer Jofra Archer claimed three wickets as Rajasthan Royals beat Lucknow Super Giants by 40 runs at the Ekana Stadium. With that, the England international has become the leading wicket-taker for Rajasthan in IPL...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-set-new-ipl-record-for-rajasthan-royals-after-three-wicket-haul-against-lsg-2026-04-22-1038550",
+    "time": "2026-04-22T18:16:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals move to second on points table after thrashing LSG in low-scoring affair in IPL 2026",
+    "desc": "Rajasthan Royals defeated Lucknow Super Giants by 40 runs at the Ekana Stadium in the ongoing IPL 2026. On a surface that was tough on the batters from the get go, the visitors struggled early...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-move-to-second-on-points-table-after-thrashing-lsg-in-low-scoring-affair-in-ipl-2026-2026-04-22-1038547",
+    "time": "2026-04-22T17:44:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chelsea announce new interim coach after sacking Liam Rosenior following 5 straight defeats in Premier League",
+    "desc": "Chelsea have sacked head coach Liam Rosenior after the club suffered five consecutive defeats in the Premier League, for the first time in 114 years. Earlier, the club management offered tremendous support to the English...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/chelsea-announce-new-interim-coach-after-sacking-liam-rosenior-following-5-straight-defeats-in-premier-league-2026-04-22-1038539",
+    "time": "2026-04-22T16:32:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jacob Bethell defends IPL stint after Alastair Cook's criticism, explains his preferred batting position",
+    "desc": "Jacob Bethell has made it clear that he prefers to bat at No. 3 in the England set-up, a position where he scored his maiden Test century earlier this year. Although speculation about him opening...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-defends-ipl-stint-after-alastair-cook-s-criticism-explains-his-preferred-batting-position-2026-04-22-1038536",
+    "time": "2026-04-22T16:07:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will MS Dhoni play in CSK's high-voltage clash against MI? Coach shares major update",
     "desc": "Legendary cricketer MS Dhoni is yet to play a single game in the ongoing IPL 2026. The keeper-batter has been training with the squad for over two weeks now, but has been out of action,...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/even-if-pat-cummins-comes-back-ishan-kishan-should-continue-captaining-srh-sanjay-banger-2026-04-22-1038483",
     "time": "2026-04-22T10:13:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I play to win the trophy': Shreyas Iyer on manifesting IPL glory for Punjab Kings this year",
-    "desc": "Punjab Kings are the only unbeaten team in the ongoing Indian Premier League (IPL) season. The team has played six matches so far and won five, while their game against the Kolkata Knight Riders was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-play-to-win-the-trophy-shreyas-iyer-on-manifesting-ipl-glory-for-punjab-kings-this-year-2026-04-22-1038466",
-    "time": "2026-04-22T08:33:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma leads orange cap race, Eshan Malinga gets closer to purple cap",
-    "desc": "Abhishek Sharma slammed an unbeaten 135 off 68 deliveries against the Delhi Capitals on Tuesday to jump more than 15 places in the race to win the Orange Cap for scoring the most runs in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-leaderboard-abhishek-sharma-leads-orange-cap-race-eshan-malinga-gets-closer-to-purple-cap-2026-04-22-1038450",
-    "time": "2026-04-22T06:55:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "\"Unplayable\": First-class match in West Indies abandoned after dangerous pitch hospitalizes batter",
-    "desc": "The Trinidad and Tobago vs Leeward Islands match in the West Indies Championship was abandoned as a draw on Tuesday due to a dangerous pitch at the Sir Vivian Richards Stadium in Antigua. The decision...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/unplayable-first-class-match-in-west-indies-abandoned-after-dangerous-pitch-hospitalizes-batter-watch-2026-04-22-1038437",
-    "time": "2026-04-22T05:21:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND-W vs SA-W live telecast: When and where to India vs South Africa women 3rd T20I live on TV and online?",
-    "desc": "The third T20I of the five-match series between India and South Africa Women will be played today at the Wanderers Stadium in Johannesburg. Even as the fans are busy watching the men's cricketers feature in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sa-w-live-telecast-when-and-where-to-india-vs-south-africa-women-3rd-t20i-live-on-tv-and-online-2026-04-22-1038428",
-    "time": "2026-04-22T03:38:01.000Z"
   }
 ];

@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Party support for Independent candidate, an election strategy in which Jayalalithaa succeeded and MGR failed",
+    "desc": "Tamil Nadu has in the past witnessed two elections in which Independent candidates secured the backing of a mainstream political party — with strikingly different results. The two instances were separated by nearly 25 years",
+    "img": "https://th-i.thgim.com/public/incoming/5edxj/article70889322.ece/alternates/LANDSCAPE_1200/941492.II2",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/party-support-for-independent-candidate-an-election-strategy-in-which-jayalalithaa-succeeded-and-mgr-failed/article70888918.ece",
+    "time": "2026-04-22T18:51:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengaluru’s Yellow, Pink metro lines to spur realty prices: Report",
+    "desc": "These two metro lines are expected to spur real estate development across major micro markets; 5-7 million sq.ft incremental office demand is anticipated over the next two years in CBD, SBD 2 and Electronic City areas, predicts Colliers India",
+    "img": "https://th-i.thgim.com/public/incoming/k239zf/article70893770.ece/alternates/LANDSCAPE_1200/_DSC4510.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/yellow-pink-metro-lines-to-spur-realty-prices-report/article70892876.ece",
+    "time": "2026-04-22T18:47:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘He’s in my pocket’ – Jadeja on his cheeky celebration after dismissing Pooran",
+    "desc": "Ravindra Jadeja's stellar all-round display powered Rajasthan Royals to a 40-run victory over Lucknow Super Giants. His unbeaten 43 and crucial wickets, including Nicholas Pooran, earned him Player of the Match. Jadeja credited patience on a tricky wicket and strategic bowling variations for his impactful performance, highlighting his vital contribution to the team's success.",
+    "img": "https://static.toiimg.com/photo/msid-130450280,imgsize-167584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-hes-in-my-pocket-ravindra-jadeja-on-his-cheeky-celebration-after-dismissing-nicholas-pooran/articleshow/130450292.cms",
+    "time": "2026-04-22T18:40:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Our batting is letting us down': Pant after 5th defeat in 7 matches",
+    "desc": "LSG skipper Rishabh Pant admitted their batting collapse is the main reason for their poor IPL 2026 run after a 40-run loss to Rajasthan Royals, their fifth defeat in seven games. He said the team must “look for answers inside” and improve shot selection and partnerships after being bowled out for 119 chasing 160, despite a strong bowling effort earlier.",
+    "img": "https://static.toiimg.com/photo/msid-130450286,imgsize-39544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-our-batting-is-letting-us-down-rishabh-pant-after-5th-defeat-in-7-matches/articleshow/130450232.cms",
+    "time": "2026-04-22T18:37:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Blue City a blend of infrastructure and environmental planning",
+    "desc": "The ambitious project of developing a network of reservoirs and canals in Amaravati is aimed at not only mitigating flood risks but also enhancing urban livability and tourism potential of the capital region, say officials",
+    "img": "https://th-i.thgim.com/public/incoming/ok2umg/article70894166.ece/alternates/LANDSCAPE_1200/9604_16_4_2026_17_56_6_1_IMG_20260416_WA0027.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/blue-city-a-blend-of-infrastructure-and-environmental-planning/article70869682.ece",
+    "time": "2026-04-22T18:36:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt claims women winning unreserved panchayat seats in ‘significant numbers’",
+    "desc": "Parliament data show 10 States/union territories where quota percentage is exceeded, but limited to an excess of up to 5 percentage points; four States/union territories were not meeting the quota, while five had just enough",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/govt-claims-women-winning-unreserved-panchayat-seats-in-significant-numbers/article70893003.ece",
+    "time": "2026-04-22T18:24:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pant's misery deepens as LSG suffer shocking 40-run defeat to RR",
+    "desc": "Lucknow Super Giants suffered a shocking 40-run defeat to Rajasthan Royals after collapsing to 119 while chasing 160. Despite a strong bowling effort led by Mohammed Shami, LSG failed to handle pressure with poor shot selection. Mitchell Marsh’s 55 went in vain as wickets fell rapidly, triggered by Rishabh Pant’s dismissal. Rajasthan’s Ravindra Jadeja (43*) and Jofra Archer (3/20) played key roles in a clinical all-round win.",
+    "img": "https://static.toiimg.com/photo/msid-130449768,imgsize-43850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rishabh-pants-misery-deepens-as-lsg-suffer-shocking-40-run-defeat-to-rr/articleshow/130449502.cms",
+    "time": "2026-04-22T18:18:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "First phase of West Bengal elections",
+    "desc": "3.60 crore voters will decide the fate of 1452 candidates across the 152 Assembly seats spread around 16 districts of the State. Over 2400 companies of central forces have been deployed to conduct the high-stake polls.",
+    "img": "https://th-i.thgim.com/public/incoming/7u6krl/article70894420.ece/alternates/LANDSCAPE_1200/Patterson.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/first-phase-of-west-bengal-elections-key-constituencies-candidates-and-important-issues/article70894428.ece",
+    "time": "2026-04-22T18:01:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cumulative seizures of potential poll inducements in West Bengal, Tamil Nadu touches Rs 1,072 crore",
+    "desc": "Of the total 127.7-crore cash seizures, over 100 crore crore were in Tamil Nadu and Rs 27.5 crore in West Bengal. Around 39.3 lakh litres of liquor valued at Rs 102.5 crore was seized in West Bengal, as against 1.2 lakh litres worth Rs 3.8 crore in Tamil Nadu. The value of seizewd freebies was higher in Tamil Nadu at Rs 259 crore, as against Rs 178.8 crore in West Bengal.",
+    "img": "https://static.toiimg.com/photo/msid-130449344,imgsize-31818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cumulative-seizures-of-potential-poll-inducements-in-west-bengal-tamil-nadu-touches-rs-1072-crore/articleshow/130449353.cms",
+    "time": "2026-04-22T17:57:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aryan turns ‘joota churai’ into a mini war at friend’s wedding",
+    "desc": "Aryan Khan recently attended his best friend’s wedding and ended up stealing the spotlight after turning a joota churai ceremony into a hilarious mini battle. A video shared by the wedding planners captured Shah Rukh Khan's son fiercely guarding the groom’s shoe, nearly falling in the process but refusing to let go, leaving the internet amused.",
+    "img": "https://static.toiimg.com/photo/msid-130448930,imgsize-45910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-son-aryan-khan-turns-joota-churai-into-a-mini-war-at-friends-wedding-nearly-falls-but-refuses-to-give-up-shoe/articleshow/130448814.cms",
+    "time": "2026-04-22T17:43:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China praises blocking of Taiwan President's Africa trip, Taipei defiant",
+    "desc": "It is the first instance of a Taiwan President having to cancel an entire foreign trip due to denial of airspace access, representing a new Chinese strategy as its steps up ‌efforts to stifle the island’s efforts to engage internationally",
+    "img": "https://th-i.thgim.com/public/incoming/a2kjkn/article70894361.ece/alternates/LANDSCAPE_1200/iStock-1336031383.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-praises-blocking-of-taiwan-presidents-africa-trip-taipei-defiant/article70894322.ece",
+    "time": "2026-04-22T17:30:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress candidate moves SC against telecast of PM’s address",
+    "desc": "“The broadcast constituted a misuse of state machinery and official media for electoral gain, targeted at specific Opposition parties by name, and was delivered without any sanction, authority, or justification under Constitution or any law”",
+    "img": "https://th-i.thgim.com/public/incoming/a9n8ia/article70894360.ece/alternates/LANDSCAPE_1200/PTI04_18_2026_000770A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-candidate-moves-supreme-court-against-telecast-of-pm-modis-address/article70893967.ece",
+    "time": "2026-04-22T17:28:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘PSL things in IPL!’ Social media erupts after Rishabh Pant’s costly error",
+    "desc": "Lucknow Super Giants' disciplined bowling was marred by a chaotic run-out attempt involving Rishabh Pant. A mix-up between Jadeja and Ferreira saw the latter stranded, but Pant fumbled the ball twice, allowing Ferreira to survive. This costly lapse, despite a strong bowling performance, highlights T20 cricket's unpredictable nature and the impact of missed opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-130448045,imgsize-138468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-psl-things-in-ipl-social-media-erupts-after-rishabh-pants-costly-error/articleshow/130448088.cms",
+    "time": "2026-04-22T17:22:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak talks about Suryakumar, Hardik’s contrasting captaincy styles",
+    "desc": "Tilak’s words came on the back of a defining knock in Ahmedabad, where he hammered an unbeaten 101 off 45 balls — an innings that turned the tide after a slow start of 19 off 22 deliveries",
+    "img": "https://th-i.thgim.com/public/incoming/k0sxlm/article70894213.ece/alternates/LANDSCAPE_1200/VIS_9929.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-tilak-varma-contrasting-captaincy-styles/article70894222.ece",
+    "time": "2026-04-22T17:11:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.K. PM insists he won't resign over scandal of U.S. envoy's appointment",
+    "desc": "British Prime Minister Keir Starmer's remarks in Parliament came as the beleaguered premier faced fresh calls to step down over his admitted error of judgement in appointing veteran former politician Peter Mandelson to the coveted post",
+    "img": "https://th-i.thgim.com/public/incoming/lojzxc/article70894307.ece/alternates/LANDSCAPE_1200/2026-04-22T151958Z_513041845_RC2BUKA4N1SY_RTRMADP_3_BRITAIN-POLITICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/uk-pm-insists-he-wont-resign-over-scandal-of-us-envoys-appointment/article70894298.ece",
+    "time": "2026-04-22T17:04:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Four dead in Russia, Ukraine after exchange of drone strikes",
+    "desc": "As diplomatic talks have stalled and neither side has made a breakthrough on the front, Moscow and Kyiv have both stepped up their long-range drone attacks, firing swarms of the unmanned explosive-packed devices at each other on a nightly basis",
+    "img": "https://th-i.thgim.com/public/incoming/zgy73l/article70894283.ece/alternates/LANDSCAPE_1200/2026-04-22T101837Z_1098345892_RC2KTKAIO223_RTRMADP_3_UKRAINE-CRISIS-ATTACK-TUAPSE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/four-dead-in-russia-ukraine-after-exchange-of-drone-strikes/article70894277.ece",
+    "time": "2026-04-22T16:51:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu to vote across all seats, Bengal in phase 1; can Stalin, Mamata hold their bastions?",
+    "desc": "West Bengal and Tamil Nadu are set for high-stakes assembly elections on April 23, with intense campaigns by national and regional parties. Over Rs 1,000 crore in inducements have been seized, and central forces are deployed in West Bengal. Key contests include Nandigram and the DMK vs. AIADMK battle in Tamil Nadu, with superstar Vijay's new party adding a twist.",
+    "img": "https://static.toiimg.com/photo/msid-130447475,imgsize-1020476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assembly-elections-2026-tamil-nadu-to-vote-across-all-seats-bengal-in-phase-1-can-stalin-mamata-hold-their-bastions-dmk-aiadmk-tmc-bjp-congress-vijay-tvk/articleshow/130447043.cms",
+    "time": "2026-04-22T16:45:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant’s horror run continues, dismissed for three-ball duck vs RR",
+    "desc": "Rishabh Pant's disappointing outing continued as he was dismissed for a three-ball duck against Rajasthan Royals, falling early in the chase. This early setback, coupled with a run-out in the first over, put immense pressure on Lucknow Super Giants. Despite a strong bowling performance restricting Rajasthan to 159, Pant's form remains a concern for LSG.",
+    "img": "https://static.toiimg.com/photo/msid-130446765,imgsize-139568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rishabh-pants-horror-run-continues-dismissed-for-three-ball-duck-vs-rr/articleshow/130446793.cms",
+    "time": "2026-04-22T16:23:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Panchayat actor recalls humiliation, rejection over looks",
+    "desc": "Vinod Suryavanshi, who played the new Sachiv ji in Panchayat Season 3, recently opened up about his journey in the industry, revealing how he accidentally entered films and the struggles he faced as a junior artist. Vinod said that while the pay improved, the environment often came with humiliation. Even after moving towards acting, Vinod said he faced repeated rejection due to his appearance.",
+    "img": "https://static.toiimg.com/photo/msid-130446760,imgsize-41054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/a-senior-person-snatched-my-plate-panchayat-actor-vinod-suryavanshi-recalls-humiliation-as-junior-artist-rejection-over-looks/articleshow/130446642.cms",
+    "time": "2026-04-22T16:23:33.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Mayte Garcia talks about Prince and his passing",
     "desc": "Mayte Garcia, Prince's former wife, has shared poignant memories of their relationship and the devastating moment she learned of his death. She described their romance as a fairytale, beginning with friendship and evolving into a deep love. Garcia recounted the shock of receiving the news of the music icon's passing, nearly a decade after his untimely demise.",
@@ -25,6 +196,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sameer-anjaan-reacts-to-nora-fatehi-sanjay-dutts-sarke-chunar-row-phir-blue-films-banwa-ke-release-kar-do-kuch-dino-ke-baad/articleshow/130445901.cms",
     "time": "2026-04-22T15:38:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Tamil Nadu and West Bengal to decide their fate tomorrow",
+    "desc": "In today’s video, we cover the upcoming Tamil Nadu and West Bengal Assembly elections as attention turns to polling day. We also bring you the latest on the Iran–Israel conflict, a significant court ruling in the 2006 Malegaon blast case, and revisit Pahalgam a year after the attack.",
+    "img": "https://th-i.thgim.com/public/news/national/5oa5m2/article70894006.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-22%20at%209.04.05%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-tamil-nadu-and-west-bengal-to-decide-their-fate-tomorrow-above-the-fold-22042016/article70893999.ece",
+    "time": "2026-04-22T15:35:38.000Z"
   },
   {
     "cat": "Business",
@@ -63,15 +243,6 @@ const newsData_en = [
     "time": "2026-04-22T15:03:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "In plea for death penalty, NIA cites Yasin Malik’s Pakistan contacts and militant ties",
-    "desc": "The agency, which has sought to enhance his life sentence in a terror funding case to death penalty, argued before the Delhi High Court that taking names of senior politicians and bureaucrats does not absolve or negate his links with militants like Hafiz Saeed",
-    "img": "https://th-i.thgim.com/public/incoming/9pjho7/article70893605.ece/alternates/LANDSCAPE_1200/IMG_Delhi_High_Court_iss_2_1_UOB9PFUJ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/in-plea-for-death-penalty-nia-cites-yasin-maliks-pakistan-contacts-and-militant-ties/article70893086.ece",
-    "time": "2026-04-22T15:03:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jackie Jackson address rumors about late father Joe Jackson",
     "desc": "In a recent statement, Jackie Jackson emphasized that Joe Jackson was not a tyrannical force behind the Jackson 5's rise to fame. Rather, he was a supportive father who recognized and cultivated his sons' love for music by supplying them with instruments and guidance. This revelation comes just as the much-anticipated biopic 'Michael' prepares for its debut.",
@@ -79,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jackie-jackson-talks-about-claims-of-their-father-forcing-them-into-jackson-5-we-wanted-to-do-it/articleshow/130445117.cms",
     "time": "2026-04-22T14:57:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will pendulum effect hold true for Krishnagiri constituency this election?",
-    "desc": "Krishnagiri has consistenty oscillated between the DMK and AIADMK in hustings since 1984, with the incumbent being an AIADMK MLA; the challenger this time around is from Congress; lack of rail connectivity, grievances of mango farmers and a toll plaza in the wrong place are some of the issues the electorate seeks answers to",
-    "img": "https://th-i.thgim.com/public/incoming/9u8dhf/article70893720.ece/alternates/LANDSCAPE_1200/10213_10_10_2025_16_11_56_1_KA11KRPDAMWATERINKRISHNAGIRI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/will-pendulum-effect-hold-true-for-krishnagiri-constituency-this-election/article70874463.ece",
-    "time": "2026-04-22T14:53:37.000Z"
   },
   {
     "cat": "Business",
@@ -306,15 +468,6 @@ const newsData_en = [
     "time": "2026-04-22T12:16:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "THIS actress confirmed to shake legs with Ram Charan in 'Peddi'",
-    "desc": "Shruti Haasan has been confirmed to feature in a special dance number alongside Ram Charan in the upcoming film 'Peddi'. This marks a reunion for the popular on-screen pair from 'Yevadu'. The high-energy song, with music by A. R. Rahman, is expected to be a major highlight as the film nears completion.",
-    "img": "https://static.toiimg.com/photo/msid-130441358,imgsize-128256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/not-mrunal-thakur-or-samyuktha-this-actress-confirmed-to-shake-legs-with-ram-charan-in-peddi/articleshow/130441308.cms",
-    "time": "2026-04-22T12:14:07.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Gujarat-bound ship among two vessels seized by Iran near Hormuz",
     "desc": "Iran has seized two ships in the Strait of Hormuz. One vessel was heading to Mundra port in Gujarat. This action escalates tensions in the vital oil chokepoint. The seizures follow recent incidents involving Indian-bound ships. The Islamic Revolutionary Guard Corps has taken custody of the vessels. Tensions remain high despite a ceasefire.",
@@ -396,15 +549,6 @@ const newsData_en = [
     "time": "2026-04-22T11:02:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Can't shut our eyes to realities': SC slams Mamata's 'interference' in I-PAC raid case",
-    "desc": "A bench of Justices PK Mishra and NV Anjaria told the counsels arguing on behalf of the West Bengal administration which includes the CM Mamata Banerjee and other senior officials, that they may argue on abstract legal principles but the Court cannot shut it’s eye over the practical realities going on in the State.",
-    "img": "https://static.toiimg.com/photo/msid-130440120,imgsize-21038.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-cannot-shut-our-eyes-sc-flags-extraordinary-situation-in-bengal/articleshow/130439084.cms",
-    "time": "2026-04-22T10:48:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "South Korea says security talks with U.S. should not be linked to Coupang probe",
     "desc": "The Ministry commented in response to a media report that Washington has ‌threatened to halt security talks unless Seoul provided legal guarantees for the safety of Coupang’s Chairman Kim Bom during a probe into the leaking ‌of customer information at the company",
@@ -421,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jofra-archer-on-the-brink-of-history-for-rr-need-3-wickets-to-/articleshow/130438658.cms",
     "time": "2026-04-22T10:24:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Only one neighbour is troublesome': Rajnath Singh's 'dot, dot, dot' warning to Pakistan on Pahalgam attack anniversary",
-    "desc": "Defence minister Rajnath Singh issued a stern warning to Pakistan, stating that any attempt to create trouble would be met with a strong response. He highlighted India's enhanced military strength and its shift from import dependence to becoming a defence exporter. Singh's remarks come a year after the Pahalgam terror attack.",
-    "img": "https://static.toiimg.com/photo/msid-130438894,imgsize-981925.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/only-one-neighbour-is-troublesome-rajnath-singhs-dot-dot-dot-warning-to-pakistan-on-pahalgam-attack-anniversary/articleshow/130438079.cms",
-    "time": "2026-04-22T10:03:19.000Z"
   },
   {
     "cat": "Business",
@@ -457,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistans-mohammad-nawaz-in-trouble-after-positive-drug-test-pcb-to-investigate/articleshow/130437637.cms",
     "time": "2026-04-22T09:41:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'70-80% of politicians watch ...':Pappu Yadav stokes fresh controversy, day after 'bedroom' sexist remark",
-    "desc": "Bihar MP Pappu Yadav courted fresh controversy by claiming 70-80% of politicians watch porn, while defending his earlier sexist remarks about women in politics. The Bihar State Women's Commission has sought an explanation from Yadav for his offensive statements, which have drawn widespread criticism.",
-    "img": "https://static.toiimg.com/photo/msid-130437634,imgsize-1908756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/70-80-of-politicians-watch-pappu-yadav-stokes-fresh-controversy-day-after-bedroom-sexist-remark/articleshow/130437622.cms",
-    "time": "2026-04-22T09:39:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -567,24 +693,6 @@ const newsData_en = [
     "time": "2026-04-22T07:37:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "5 players battle to watch in today's LSG vs RR match",
-    "desc": "Lucknow Super Giants return home needing a win. They face Rajasthan Royals who are in better form. LSG's top order needs to perform. Key battles include Vaibhav Sooryavanshi against Mohammed Shami and Yashasvi Jaiswal versus Avesh Khan. Rishabh Pant and Nicholas Pooran face tough challenges. LSG must improve their batting to compete.",
-    "img": "https://static.toiimg.com/photo/msid-130434902,imgsize-1317740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshi-to-mohammed-shami-5-players-battle-to-watch-in-todays-ipl-2026-match-between-lsg-and-rr/articleshow/130434819.cms",
-    "time": "2026-04-22T07:20:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans' Kagiso Rabada caught smoking in hotel premises",
-    "desc": "Gujarat Titans bowler Kagiso Rabada is under scrutiny after being photographed smoking. While not a rule violation, the incident sparks debate given his past doping ban. Despite this, Rabada continues to perform well on the field, taking 10 wickets in six IPL 2026 matches, showcasing his ongoing value to the team.",
-    "img": "https://static.toiimg.com/photo/msid-130434101,imgsize-564864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/gujarat-titans-kagiso-rabada-caught-smoking-in-hotel-premises-watch/articleshow/130433634.cms",
-    "time": "2026-04-22T06:38:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Marketing independent films is tougher than making them",
     "desc": "Rajat Kapoor, Vinay Pathak and Ranvir Shorey discuss their recently released murder-mystery ‘Everybody Loves Sohrab Handa’, reflecting on being long time collaborators and friends, why Kapoor doesn’t think of an audience while making films and more",
@@ -603,15 +711,6 @@ const newsData_en = [
     "time": "2026-04-22T05:10:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Tum aaya, saath mein camera leke aaya… bhagao isko': Dhoni’s funny dig at Chahar",
-    "desc": "MS Dhoni and Deepak Chahar shared a humorous moment during a recent net session, with Dhoni jokingly telling a cameraman to leave so they could talk privately. This interaction highlights their strong off-field bond, often described as an \"elder brother-younger brother\" relationship, despite their fierce on-field rivalry.",
-    "img": "https://static.toiimg.com/photo/msid-130432433,imgsize-67066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-tum-aaya-saath-mein-camera-leke-aaya-bhagao-isko-dhonis-funny-dig-at-deepak-chahar-ahead-of-mi-vs-csk/articleshow/130432441.cms",
-    "time": "2026-04-22T05:03:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude slips as markets weigh US-Iran talks, ceasefire extension",
     "desc": "Oil prices dipped Wednesday after an initial Asian surge, as traders weighed US-Iran peace talk uncertainties following Washington's ceasefire extension. Disruptions in the Strait of Hormuz continue to fuel market anxiety. Geopolitical developments, including potential pipeline issues and upcoming US inventory data, are also influencing price movements, suggesting continued volatility.",
@@ -619,15 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-22-april-2026-crude-slips-as-markets-weigh-us-iran-talks-ceasefire-extension/articleshow/130431190.cms",
     "time": "2026-04-22T03:34:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi termed next 'demigod' of cricket: Srikkanth invokes Tendulkar comparison",
-    "desc": "Former India captain Kris Srikkanth has urged selectors to fast-track 15-year-old Vaibhav Sooryavanshi into the national team, comparing him to a young Sachin Tendulkar. Rival skipper Shreyas Iyer also called him 'one for the future.' Sooryavanshi has impressed with 246 runs at a strike rate of 236.53 in IPL 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130431140,imgsize-65810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-the-next-demigod-of-cricket-kris-srikkanth-invokes-sachin-tendulkar-comparison-for-prodigy-vaibhav-sooryavanshi/articleshow/130431083.cms",
-    "time": "2026-04-22T03:25:58.000Z"
   },
   {
     "cat": "Sports",
@@ -709,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/shows/watch-why-dhurandhar-the-revenge-falls-apart-frequently-made-mistakes-ep-20/article70876953.ece",
     "time": "2026-04-21T05:23:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Doval’s Riyadh visit on PM’s instructions, part of government outreach to Gulf: MEA",
-    "desc": "In a statement, the Saudi Ministry of Foreign Affairs said that the talks between the Saudi Foreign Minister and Mr. Doval had reviewed areas of India-Saudi cooperation, “alongside a discussion of the latest developments in the regional situation and an exchange of viewpoints regarding it”.",
-    "img": "https://th-i.thgim.com/public/incoming/3qr9nh/article70886059.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-20%20at%209.59.58%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nsa-doval-discusses-bilateral-relations-regional-situation-with-saudi-leaders/article70883229.ece",
-    "time": "2026-04-21T02:19:31.000Z"
   },
   {
     "cat": "Business",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
