@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma creates history, breaks world record set by Chris Gayle and Aaron Finch with 135* vs DC",
+    "desc": "Sunrisers Hyderabad continued their winning run on Tuesday, beating Delhi Capitals in the 31st match of the ongoing Indian Premier League (IPL) season. Abhishek Sharma was one of the main reasons for their astounding win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-creates-history-breaks-world-record-set-by-chris-gayle-and-aaron-finch-with-135-vs-dc-2026-04-22-1038414",
+    "time": "2026-04-22T01:40:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Real Madrid's Jude Bellingham invests in Birmingham Phoenix of The Hundred, buys 1.2% stake",
     "desc": "Real Madrid and England international Jude Bellingham has purchased a minority stake in Hundred franchise Birmingham Phoenix. The midfielder, who grew up in Birmingham, acquired the stake from both Warwickshire and Knighthead Capital, the American...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-becomes-third-delhi-capitals-cricketer-to-register-major-milestone-in-ipl-2026-04-21-1038386",
     "time": "2026-04-21T15:04:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians receive Will Jacks boost ahead of CSK meeting in IPL 2026",
-    "desc": "In a major boost for the Mumbai Indians, England all-rounder Will Jacks has joined the squad ahead of their IPL 2026 clash against the Chennai Super Kings on Thursday, April 23, Cricbuzz reported. Jacks has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-receive-will-jacks-boost-ahead-of-csk-meeting-in-ipl-2026-2026-04-21-1038383",
-    "time": "2026-04-21T14:41:26.000Z"
   }
 ];
