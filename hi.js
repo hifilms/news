@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will MS Dhoni play in CSK's high-voltage clash against MI? Coach shares major update",
+    "desc": "Legendary cricketer MS Dhoni is yet to play a single game in the ongoing IPL 2026. The keeper-batter has been training with the squad for over two weeks now, but has been out of action,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-ms-dhoni-play-in-csk-s-high-voltage-clash-against-mi-coach-shares-major-update-2026-04-22-1038533",
+    "time": "2026-04-22T15:34:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LSG's Rs 11 crore player returns to playing XI against Rajasthan Royals in IPL 2026",
+    "desc": "After being sidelined for nearly a year, Mayank Yadav returns to professional cricket. The ace pacer suffered a lower back stress fracture last May and has been out of action since. He recently featured for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-s-rs-11-crore-player-returns-to-playing-xi-against-rajasthan-royals-in-ipl-2026-2026-04-22-1038520",
+    "time": "2026-04-22T13:48:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lanka Premier League set to begin on July 10, final on August 5",
     "desc": "The Sinhalese Sports Club (SSC) in Colombo will be joining the list of venues for the Lanka Premier League (LPL) in 2026. This marks a big milestone for the tournament, as SSC will host matches...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sa-w-live-telecast-when-and-where-to-india-vs-south-africa-women-3rd-t20i-live-on-tv-and-online-2026-04-22-1038428",
     "time": "2026-04-22T03:38:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Should be considered an off day': DC skipper Axar Patel not reading too much into loss vs SRH",
-    "desc": "Delhi Capitals lost to Sunrisers Hyderabad by 47 runs in the 31st match of the Indian Premier League (IPL) on Tuesday. Their bowlers conceded 242 runs in 20 overs after the captain Axar Patel won...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/should-be-considered-an-off-day-dc-skipper-axar-patel-not-reading-too-much-into-loss-vs-srh-2026-04-22-1038423",
-    "time": "2026-04-22T02:58:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma creates history, breaks world record set by Chris Gayle and Aaron Finch with 135* vs DC",
-    "desc": "Sunrisers Hyderabad continued their winning run on Tuesday, beating Delhi Capitals in the 31st match of the ongoing Indian Premier League (IPL) season. Abhishek Sharma was one of the main reasons for their astounding win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-creates-history-breaks-world-record-set-by-chris-gayle-and-aaron-finch-with-135-vs-dc-2026-04-22-1038414",
-    "time": "2026-04-22T01:40:44.000Z"
   }
 ];

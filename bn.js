@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "আমার গ্রামে এখনও আমাকে মন্দিরে ঢুকতে দেয় না, কারণ আমি দলিত: বিস্ফোরক অভিযোগ 'পঞ্চায়েত' অভিনেতার",
+    "desc": "'পঞ্চায়েত' সিরিজের সিজন ৪-এর সেই নতুন 'সচিব জি', যাঁর অভিনয় অল্প সময়ের জন্য হলেও দর্শকদের নজর কেড়েছিল, সেই বিনোদ সূর্যবংশীর বাস্তব জীবন কোনো সিনেমার চিত্রনাট্যের চেয়ে কম যন্ত্রণাদায়ক নয়। সম্প্রতি এক সাক্ষাৎকারে নিজের জীবনের অন্ধকার অধ্যায় এবং জাতিভেদের চরম বাস্তব নিয়ে মুখ খুলেছেন এই অভিনেতা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/panchayat-actor-vinod-suryavanshi-casteism-poverty-struggle-story_650092.html ",
+    "time": "2026-04-22T14:05:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রাস্তা বন্ধ করে সস্তার রাজনীতি করতে এসেছেন কেন, ভাগুন এখান থেকে: ক্ষিপ্ত মহিলার তীব্র বিরোধে পালিয়ে গেলেন হেভিওয়েট বিজেপিমন্ত্রী",
+    "desc": "তীব্র যানজটে আটকে পড়ে মেজাজ হারালেন এক মহিলা। শুধু বিরক্ত হওয়াই নয়, গাড়ি থেকে নেমে সোজা প্রতিবাদ মিছিলে ঢুকে পড়ে জলসম্পদ মন্ত্রী গিরীশ মহাজন এবং কর্তব্যরত পুলিস আধিকারিকদের রীতিমতো তুলোধোনা করলেন তিনি। তাঁর এই সাহসিকতা এবং রাগের ভিডিও এখন সোশ্যাল মিডিয়ায় দাবানলের মতো ছড়িয়ে পড়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/mumbai-woman-confronts-minister-girish-mahajan-worli-traffic-jam-viral-video_650054.html ",
+    "time": "2026-04-22T13:14:33.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "RBI New e-mandate guidelines: ১৫০০০ টাকা পর্যন্ত পেমেন্ট হবে OTP ছাড়াই, অটো-ডেবিটে RBI-এর নয়া নিয়ম-- UPI-এর ক্ষেত্রে কী হবে?",
     "desc": "ব্যবহারকারীরা একবারের জন্য AFA ব্যবহার করে ই-ম্যান্ডেট নিবন্ধন করতে পারবেন। ১৫০০০ টাকার সীমার বেশি লেনদেনের ক্ষেত্রে অতিরিক্ত প্রমাণীকরণ বা AFA প্রয়োজন হবে। কার্ড, প্রিপেইড পেমেন্ট ইন্সট্রুমেন্ট এবং UPI-সহ সব ধরনের অটো-ডেবিট পেমেন্টের ক্ষেত্রে নয়া নিয়ম প্রযোজ্য হবে।",
@@ -63,15 +81,6 @@ const newsData_bn = [
     "time": "2026-04-21T04:55:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'আমার আঁচল সরাত, উরুতে হাত রাখত, সঙ্গে যৌনগন্ধী কথাবার্তা, আপত্তি করলেই হুমকি'",
-    "desc": "ম্যানেজার কাজের বাহানায় তরুণীকে প্রায়ই নিজের কেবিনে ডেকে পাঠাতেন। অভিযোগ, কয়েক মাস ধরে ওই কর্তা তরুণীর শরীরের বিভিন্ন অংশ আপত্তিকরভাবে স্পর্শ করতেন, তাঁর উরুর উপর হাত রাখতেন। বাধা দিলে কর্মক্ষেত্রে সমস্যা হবে বলে হুমকি দিতেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/would-pull-my-saree-place-hands-on-my-thigh-tcs-employee-details-horror-nashik-tcs-conversion-case_649679.html ",
-    "time": "2026-04-20T13:32:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "হাসপাতালে আলিয়া ভাট, দীপিকার পর কি এবার দ্বিতীয় সন্তানের সুখবর দিচ্ছেন নায়িকা?",
     "desc": "অস্ট্রিয়ার বরফে রোম্যান্স সেরে ফিরতেই জল্পনা তুঙ্গে! মুম্বইয়ের হাসপাতালের বাইরে ধবধবে সাদা পোশাকে ধরা দিলেন আলিয়া ভাট। দীপিকা পাড়ুকোনের দ্বিতীয় সন্তানের খবরের মাঝেই আলিয়ার এই সফর কি তবে নতুন কোনও ‘সুখবর’-এর ইঙ্গিত? নাকি শুধুই রুটিন চেকআপ?",
@@ -106,23 +115,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-payel-de-controversy-late-rahul-banerjee-portrait-disrespect_649341.html ",
     "time": "2026-04-18T12:22:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ভোটবাংলার ঘাটালে 'প্রজাপতি ৩', 'নির্বাক' মিঠুনকে I Love You ছুড়ে দিলেন দেব",
-    "desc": "\"রাজনীতি মানেই কি শুধু লড়াই? আদপেই না! সতীর্থ অভিনেতা মিঠুন চক্রবর্তীর প্রতি ফের ভালোবাসা প্রকাশ করলেন ঘাটালের সাংসদ দেব। বিজেপির হয়ে মিঠুন প্রচার করে গেলেও, দেবের উত্তর— ‘লাভ ইউ মিঠুন দা’। এই সৌজন্যই কি বাংলার রাজনীতির আসল পরিচয়?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dev-says-love-you-mithun-da-during-ghatal-campaign-political-courtesy_649034.html ",
-    "time": "2026-04-16T11:38:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
