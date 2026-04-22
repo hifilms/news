@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "ফ্ল্যাট প্রতারণা মামলা: ফের ইডির জেরার মুখে নুসরত জাহান, সিজিও কমপ্লেক্সে নায়িকার সঙ্গে স্বামী যশও",
+    "desc": "ফ্ল্যাট প্রতারণা মামলায় ফের ইডির তলব! বৃহস্পতিবার সকালে সল্টলেকের সিজিও কমপ্লেক্সে হাজিরা দিলেন অভিনেত্রী-প্রাক্তন সাংসদ নুসরত জাহান। দিল্লি যাওয়ার আবেদন নাকচ হওয়ার পর আজ সল্টলেকেই জেরার মুখোমুখি তিনি। সঙ্গে ছিলেন যশ দাশগুপ্ত। কী হবে এই তদন্তের মোড়?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/nusrat-jahan-ed-interrogation-cgo-complex-flat-scam-case_649993.html ",
+    "time": "2026-04-22T08:29:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "১৮ দিন নিখোঁজ পরিচালক উৎসব মুখোপাধ্যায়: পুলিসের দরজায় ঘুরে ক্লান্ত স্ত্রী, এবার হদিশ পেতে সংবাদপত্রে বিজ্ঞাপন",
     "desc": "তিন সপ্তাহ পার, এখনও নিরুদ্দেশ পরিচালক উৎসব মুখোপাধ্যায়। স্বামীর খোঁজ না পেয়ে এবার সংবাদপত্রে বিজ্ঞাপন দিলেন স্ত্রী মৌপিয়া বন্দ্যোপাধ্যায়। সেই সঙ্গে সমাজমাধ্যমে উগরে দিলেন একরাশ ক্ষোভ ও বিস্ফোরক তথ্য। ২০১৯ সাল থেকে চলা ভয়াবহ সাইবার বুলিং-ই কি কেড়ে নিল উৎসবের হাসি? নাকি এর আড়ালে লুকিয়ে অন্য কোনও সত্যি?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -72,15 +81,6 @@ const newsData_bn = [
     "time": "2026-04-18T12:22:25.000Z"
   },
   {
-    "cat": "World",
-    "title": "'মিষ্টি' রসমালাইতেই খুন স্ত্রীকে, কাটল মাথা-হাতও",
-    "desc": "মিষ্টি স্বাদের রসমালাইয়ের মধ্যে ওষুধের তিটকুটে স্বাদ বুঝতে পারেননি শাহিদা। খুনের এক দিন পর শাহিদার মাথা ও হাতবিহীন দেহাংশ একটি ডোবায় ফেলে দেন সাইফুল। ওদিকে মাথা ও হাতের টুকরোগুলো ৭ কিলোমিটার দূরে নদীতে ফেলে দেন সাইফুল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/husband-killed-wife-with-rasmalai-then-cuts-head-and-hands-in-bangladesh_649111.html ",
-    "time": "2026-04-17T05:55:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ভোটবাংলার ঘাটালে 'প্রজাপতি ৩', 'নির্বাক' মিঠুনকে I Love You ছুড়ে দিলেন দেব",
     "desc": "\"রাজনীতি মানেই কি শুধু লড়াই? আদপেই না! সতীর্থ অভিনেতা মিঠুন চক্রবর্তীর প্রতি ফের ভালোবাসা প্রকাশ করলেন ঘাটালের সাংসদ দেব। বিজেপির হয়ে মিঠুন প্রচার করে গেলেও, দেবের উত্তর— ‘লাভ ইউ মিঠুন দা’। এই সৌজন্যই কি বাংলার রাজনীতির আসল পরিচয়?",
@@ -88,5 +88,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/dev-says-love-you-mithun-da-during-ghatal-campaign-political-courtesy_649034.html ",
     "time": "2026-04-16T11:38:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

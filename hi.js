@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Even if Pat Cummins comes back, Ishan Kishan should continue captaining SRH: Sanjay Banger",
+    "desc": "Sunrisers Hyderabad captain Pat Cummins is yet to feature in the ongoing IPL 2026. He is still recovering from a lumber stress injury, but as the Australia international confirmed, he is set to be ready...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/even-if-pat-cummins-comes-back-ishan-kishan-should-continue-captaining-srh-sanjay-banger-2026-04-22-1038483",
+    "time": "2026-04-22T10:13:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I play to win the trophy': Shreyas Iyer on manifesting IPL glory for Punjab Kings this year",
+    "desc": "Punjab Kings are the only unbeaten team in the ongoing Indian Premier League (IPL) season. The team has played six matches so far and won five, while their game against the Kolkata Knight Riders was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-play-to-win-the-trophy-shreyas-iyer-on-manifesting-ipl-glory-for-punjab-kings-this-year-2026-04-22-1038466",
+    "time": "2026-04-22T08:33:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Sharma leads orange cap race, Eshan Malinga gets closer to purple cap",
     "desc": "Abhishek Sharma slammed an unbeaten 135 off 68 deliveries against the Delhi Capitals on Tuesday to jump more than 15 places in the race to win the Orange Cap for scoring the most runs in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-ready-to-take-field-in-ipl-2026-latest-net-session-gives-boost-to-csk-ahead-of-mi-clash-2026-04-21-1038402",
     "time": "2026-04-21T17:53:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh announce squad for first two T20Is against New Zealand, drops first-team pacers",
-    "desc": "Bangladesh will begin their T20I series against New Zealand with a noticeably altered pace attack, as the team management has decided to rotate key fast bowlers for the opening matches in Chattogram. The move shifts...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-announce-squad-for-first-two-t20is-against-new-zealand-drops-first-team-pacers-2026-04-21-1038401",
-    "time": "2026-04-21T17:40:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aiden Markram shares fitness update on Mayank Yadav ahead of IPL 2026 clash against RR",
-    "desc": "Lucknow Super Giants may finally be closing in on a much-awaited return of Mayank Yadav, who was retained for INR 11 crore, despite injury struggles. The ace pacer was given the green light by the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-shares-fitness-update-on-mayank-yadav-ahead-of-ipl-2026-clash-against-rr-2026-04-21-1038399",
-    "time": "2026-04-21T17:20:27.000Z"
   }
 ];

@@ -1,6 +1,69 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "સ્માર્ટ મીટર બરાબર કામ કરે છે કે નહીં તે કેવી રીતે જાણવું? આ 5 ઉપાય અજમાવી જુઓ",
+    "desc": "હવે તો ઝડપથી ઘરે ઘરે સ્માર્ટ મીટર જોવા મળી રહ્યા છે. જો કે સ્માર્ટ મીટરને લઈને લોકો એવી ફરિયાદ પણ કરે છે કે તેમાં બિલ વધારે આવે છે. ત્યારે જો તમને પણ આવું લાગતું હોય તો આ ટિપ્સ ધ્યાનમાં રાખો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-to-check-if-a-smart-meter-is-working-properly-or-not-5-simple-tips-474292 ",
+    "time": "2026-04-22T10:16:28.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "હોર્મુઝ સંકટ વચ્ચે, તેલ પર ભારતનો માસ્ટર પ્લાન, પેટ્રોલ ₹60-70 પ્રતિ લિટર વેચાશે! મોટી ભૂમિકા ભજવશે ઇથેનોલ",
+    "desc": "ગડકરીનું આ નિવેદન એવા સમયે આવ્યું છે જ્યારે વૈશ્વિક ઉર્જા બજારો પશ્ચિમ એશિયામાં લાંબા સમયથી ચાલી રહેલા સંઘર્ષનો સામનો કરી રહ્યા છે, જેના કારણે પરંપરાગત તેલ પુરવઠા શૃંખલાઓમાં નોંધપાત્ર વિક્ષેપ પડ્યો છે અને આયાત બિલમાં વધારો થયો છે. આ મહત્વાકાંક્ષી લક્ષ્યનું મુખ્ય કારણ ભારતની અશ્મિભૂત ઇંધણની આયાત પર ભારે નિર્ભરતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/100-percent-ethanol-will-be-added-to-petrol-gadkari-new-vision-this-is-a-big-challenge-for-companies-474234 ",
+    "time": "2026-04-22T09:40:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું છે અમિત શાહનું સાયલન્ટ મિશન? બંગાળના રાજકીય કોયડા પર કેટલા ખરા ઉતરશે &amp;#039;‘BJPના ચાણક્ય&amp;#039;",
+    "desc": "પશ્ચિમ બંગાળમાં 23 એપ્રિલે પ્રથમ તબક્કાની વિધાનસભા ચૂંટણી યોજાવાની છે, જ્યારે 29 એપ્રિલે બીજા તબક્કાનું મતદાન થશે. આ વખતે ભાજપે જીત મેળવવા અને મમતા બેનર્જીએ પોતાની સત્તા બચાવવા માટે પૂરી તાકાત લગાવી દીધી છે. આ દરમિયાન અમિત શાહે આ વખતે એક 'સાયલન્ટ મિશન' શરૂ કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-amit-shahs-silent-mission-how-well-will-the-bjps-chanakya-measure-up-against-bengals-political-puzzle-474276 ",
+    "time": "2026-04-22T09:03:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "શું મશીન &amp;#039;0&amp;#039; દર્શાવતું હતું, છતાં ઓછું પેટ્રોલ મળ્યું? પેટ્રોલ પંપ પર આ રીતે થાય છે સ્કેમ",
+    "desc": "પેટ્રોલ પંપ પર ઝીરો જોવા છતાં જમ્પ ટ્રિક દ્વારા ગ્રાહકો સાથે છેતરપિંડી કરવામાં આવે છે, જેમાં મશીનના રીડિંગને અચાનક વધારી ઓછું તેલ આપવામાં આવે છે. આ સ્કેમથી બચવા માટે તેલ ભરાવવા સમયે શરૂઆતી સેકેન્ડમાં મીટરના રીડિંગ પર નજર રાખો અને કંઈ અસામાન્ય લાગે તો સવાલ ઉઠાવો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/petrol-pump-scam-exposed-fraud-happens-even-after-seeing-zero-through-jump-trick-474269 ",
+    "time": "2026-04-22T08:55:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Video",
+    "desc": "ગુજરાત ટાઇટન્સના ફાસ્ટ બોલર કાગીસો રબાડાનો સ્મોકિંગ કરતો એક વીડિયો સોશિયલ મીડિયા પર વાયરલ થયો છે. જો કે, તેની હજુ સુધી પુષ્ટિ થઈ નથી. આ વીડિયોએ ચાહકોમાં ચર્ચા જગાવી છે. રબાડા આ સિઝનમાં પ્રભાવશાળી રહ્યો છે, તેણે 6 મેચમાં 10 વિકેટ લીધી છે. ડોપિંગ પ્રતિબંધને કારણે તે ભૂતકાળમાં પણ ચર્ચામાં રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-gujarat-titans-kagiso-rabada-smoking-video-viral-474266 ",
+    "time": "2026-04-22T08:40:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનાના ભાવમાં થયો ઘટાડો, ચાંદી પણ સસ્તી થઈ, અમદાવાદમાં સોનાનો લેટેસ્ટ ભાવ ખાસ જાણો",
+    "desc": "સોના અને ચાંદીના ભાવમાં વૈશ્વિક અનિશ્ચિતતાઓના પગલે ભારે અસમંજસ જોવા મળી રહી છે. ભાવમાં સતત ઉતાર ચડાવ જોવા મળે છે. આજે વાયદા બજારમાં સોનું અને ચાંદી ઉછળ્યા છે તો રિટેલ બજારમાં સોનું અને ચાંદી સામાન્ય ઘટાડા સાથે જોવા મળ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-today-ibja-mcx-check-latest-gold-rates-in-ahmedabad-surat-vadodara-rajkot-474263 ",
+    "time": "2026-04-22T07:55:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અનુષ્કા શર્મા પહેલા વિરાટ કોહલીની લાઈફમાં આવી હતી આ 5 હસીનાઓ, એકનું નામ તાજેતરમાં રહ્યું ચર્ચામાં",
+    "desc": "આજના સમયમાં દરેક યુવતી વિરાટ કોહલી જેવો પ્રેમ કરનાર, ઈમાનદાર અને કાળજી રાખનાર પતિ ઈચ્છે છે. પરંતુ શું તમે જાણો છો કે વિરાટ કોહલીની લાઈફમાં આવનાર એકમાત્ર યુવતી અનુષ્કા શર્મા નથી ? અનુષ્કા શર્મા પહેલા વિરાટ કોહલીની લાઈફમાં 5 સુંદરીઓ આવી હતી. આ 5 યુવતીઓ કોણ હતી જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/who-was-virat-kohli-girl-friend-before-anushka-sharma-virat-kohli-dates-5-girls-before-marriage-474262 ",
+    "time": "2026-04-22T07:40:28.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ઇંધણની અછત સર્જાતા જ મોકલ્યું બમણું તેલ... યુએઈ-સાઉદી ટેન્કરો હોર્મુઝમાં રોકાઈ ગયા ત્યારે આ દેશે આપ્યો ભારતનો ટેકો, જાણો",
     "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થવાથી મધ્ય પૂર્વમાંથી તેલનો પુરવઠો લગભગ બંધ થઈ ગયો છે, જેના કારણે ભારતની ક્રૂડ ઓઈલ આયાતમાં 13% ઘટાડો થયો છે. આ પુરવઠા કટોકટી વચ્ચે આ દેશે તેલ મોકલીને ભારતના ઉર્જા બજારને જાળવી રાખ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -52,15 +115,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-csk-ayush-mhatre-ruled-out-of-ipl-2026-due-to-injury-474245 ",
     "time": "2026-04-22T06:30:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "પેટ્રોલમાં ઉમેરવામાં આવશે 100% ઇથેનોલ, ગડકરીનું નવું વિઝન, કંપનીઓ સામે આ મોટો ચેલેન્જ",
-    "desc": "ગડકરીનું આ નિવેદન એવા સમયે આવ્યું છે જ્યારે વૈશ્વિક ઉર્જા બજારો પશ્ચિમ એશિયામાં લાંબા સમયથી ચાલી રહેલા સંઘર્ષનો સામનો કરી રહ્યા છે, જેના કારણે પરંપરાગત તેલ પુરવઠા શૃંખલાઓમાં નોંધપાત્ર વિક્ષેપ પડ્યો છે અને આયાત બિલમાં વધારો થયો છે. આ મહત્વાકાંક્ષી લક્ષ્યનું મુખ્ય કારણ ભારતની અશ્મિભૂત ઇંધણની આયાત પર ભારે નિર્ભરતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/100-percent-ethanol-will-be-added-to-petrol-gadkari-new-vision-this-is-a-big-challenge-for-companies-474234 ",
-    "time": "2026-04-22T05:30:40.000Z"
   },
   {
     "cat": "Politics",
@@ -549,15 +603,6 @@ const newsData_gu = [
     "time": "2026-04-18T09:53:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "6% ઈન્ક્રીમેન્ટ અને 3.83 ફિટમેન્ટ ફેક્ટરની માંગ, તો લેવલ 1 થી લેવલ 10 સુધી કેટલો વધે પગાર? સમજો અંદાજિત ગણતરી",
-    "desc": "કર્મચારીઓના સંગઠન NC-JCM એ પોતાની માંગણીઓનો જે ડ્રાફ્ટ રજુ કર્યો તેમાં ફિટમેન્ટ ફેક્ટર 3.833 અને વાર્ષિક ઈન્ક્રીમેન્ટ 3 ટકાને બદલે 6 ટકા કરવાની માંગણી કરી છે. જો આ માંગણી સ્વીકારવામાં આવે તો લેવલ 1 થી લઈને 10 સુધી કેટલો પગાર વધી શકે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/8th-cpc-latest-news-nc-jcm-demands-6-percent-increment-check-approx-salary-calculation-473675 ",
-    "time": "2026-04-18T09:41:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "કેમ હાર્યું KKR ? કોણ છે હારનો સૌથી મોટો ગુનેગાર ? કેપ્ટન રહાણેએ કર્યો મોટો ખુલાસો",
     "desc": "આ IPL સીઝનમાં કોલકાતા નાઈટ રાઈડર્સ (KKR)ની સતત પાંચમી હાર હતી. ગુજરાત ટાઇટન્સ (GT) સામેની મેચમાં KKRની હાર બાદ કેપ્ટન અજિંક્ય રહાણેએ આ હાર માટે કોઈ ખેલાડીને નહીં, પરંતુ હાર માટે બીજા જ કોઈ કારણને જવાબદાર ગણાવ્યું હતું.",
@@ -565,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/why-kkr-lost-to-gujarat-titans-captain-ajinkya-rahane-revealed-the-big-reason-473648 ",
     "time": "2026-04-18T06:53:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ક્રિકેટનો સૌથી મોટો ચમત્કાર... ભારતીય બેટ્સમેને એક જ બોલમાં ફટકાર્યા 17 રન, દયાની ભીખ માંગતો રહ્યો પાકિસ્તાની બોલર",
-    "desc": "દુનિયામાં એક એવો બેટ્સમેન છે, જેણે આંતરરાષ્ટ્રીય ક્રિકેટમાં એક જ બોલ પર 17 રન બનાવવાનો વિશ્વ રેકોર્ડ બનાવ્યો છે. દુનિયાનો કોઈ પણ બેટ્સમેન એક જ બોલ પર 17 રન બનાવવાનું વિચારી પણ ન શકે, કારણ કે તે એક એવી સિદ્ધિ છે જે લગભગ અશક્ય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/unique-cricket-records-virender-sehwag-scored-17-runs-in-a-single-ball-473639 ",
-    "time": "2026-04-18T06:09:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/what-were-asha-tais-final-moments-like-mumtaz-recounts-the-entire-story-hearing-it-will-bring-tears-to-your-eyes-472968 ",
     "time": "2026-04-14T05:39:31.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "આગામી 7 દિવસમાં લોન્ચ થશે આ શાનદાર કાર, જાણો તમારા બજેટમાં કઈ રહેશે ફિટ?",
-    "desc": "ભારતીય ઓટોમોબાઇલ માર્કેટમાં એક બાદ એક શાનદાર કાર લોન્ચ થઈ રહી છે. આગામી સાત દિવસમાં ઘણી કંપની બજારમાં પોતાના નવા મોડલ ઉતારવા તૈયાર છે. આજે અમે તમને આગામી સાત દિવસમાં લોન્ચ થનારી નવી કારની માહિતી આપીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/these-amazing-cars-will-be-launched-in-the-next-7-days-know-which-one-will-fit-your-budget-472783 ",
-    "time": "2026-04-13T05:31:36.000Z"
   },
   {
     "cat": "Entertainment",
