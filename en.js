@@ -1,6 +1,24 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Uthangarai constituency braces for a two-cornered contest",
+    "desc": "A water harvesting project from Paambaru Dam envisioning a watershed of 4,000 acres, an irrigation project tapping into the run-off from KRP Dam to fill up 34 lakes in Barur are among the two significant demands of farmers, where farming is affected by drought.",
+    "img": "https://th-i.thgim.com/public/incoming/j2gx8s/article70894545.ece/alternates/LANDSCAPE_1200/KGNBN_8-5-2016_14-53-28_KA08PAMBARDAMINUTHANGARAI1_1_.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/uthangarai-constituency-braces-for-a-two-cornered-contest/article70889329.ece",
+    "time": "2026-04-22T20:19:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'All is fair'",
+    "desc": "Alleged conman Sukesh Chandrashekhar has written a handwritten letter to actor Jacqueline Fernandez, reacting to her recent move to turn approver in the ongoing Rs 200 crore money laundering case. Addressing Jacqueline with affectionate nicknames like “Baby Botta Bomma” and “My Jackie Sukesh wrote an emotional note expressing his continued support.",
+    "img": "https://static.toiimg.com/photo/msid-130450915,imgsize-90970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/all-is-fair-in-love-and-war-sukesh-chandrashekhar-writes-emotional-letter-to-jacqueline-fernandez-after-her-approver-plea/articleshow/130450769.cms",
+    "time": "2026-04-22T19:03:06.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Party support for Independent candidate, an election strategy in which Jayalalithaa succeeded and MGR failed",
     "desc": "Tamil Nadu has in the past witnessed two elections in which Independent candidates secured the backing of a mainstream political party — with strikingly different results. The two instances were separated by nearly 25 years",
     "img": "https://th-i.thgim.com/public/incoming/5edxj/article70889322.ece/alternates/LANDSCAPE_1200/941492.II2",
@@ -396,33 +414,6 @@ const newsData_en = [
     "time": "2026-04-22T12:49:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Andy Weir on Ryan Gosling’s looks",
-    "desc": "Andy Weir, the celebrated author of 'Project Hail Mary,' couldn't help but gush about Ryan Gosling's striking looks during a recent BookCon appearance. When asked about the actor's handsomeness, Weir humorously remarked on his own limits, despite being straight. He also shared his deep involvement in the film's production, from screenplay feedback to editing, expressing satisfaction with the final product.",
-    "img": "https://static.toiimg.com/photo/msid-130442168,imgsize-113122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/project-hail-mary-author-andy-weir-gushes-about-ryan-goslings-looks-im-straight-but-we-all-have-our-limits/articleshow/130442125.cms",
-    "time": "2026-04-22T12:43:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kannada actress set for release",
-    "desc": "Kannada actress Ranya Rao is set for release from jail after completing a year of preventive detention under the COFEPOSA Act. Arrested in a Rs 102 crore gold smuggling case, her release was delayed despite earlier bail. The case involves alleged hawala transactions and links to the film industry and police department.",
-    "img": "https://static.toiimg.com/photo/msid-130442087,imgsize-16694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/ranya-rao-gold-smuggling-case-kannada-actress-set-for-release-after-1-year-cofeposa-detention-ends-probe-continues/articleshow/130441992.cms",
-    "time": "2026-04-22T12:39:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Allu Arjun builds Rs 100 crore dream home in Jubilee Hills",
-    "desc": "Actor Allu Arjun is building a Rs 100 crore luxury home in Jubilee Hills, Hyderabad. The grand residence is situated next to veteran star Chiranjeevi's house. Construction is underway for the sprawling property. Fans anticipate a lavish housewarming ceremony. Allu Arjun also has major upcoming film projects, including 'Raaka' and 'AA23'.",
-    "img": "https://static.toiimg.com/photo/msid-130441809,imgsize-59594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-arjun-builds-rs-100-crore-dream-home-in-jubilee-hills-next-to-this-veteran-stars-residence-in-hyderabad/articleshow/130441593.cms",
-    "time": "2026-04-22T12:31:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre ammends ATF order, allows blending aviation turbine fuel with synthetic alternatives",
     "desc": "Aviation Turbine Fuel standards have been updated to permit synthetic fuel blends, enhancing clarity amidst rising alternative fuel use. Meanwhile, Indian Oil assures no disruption in petrol and diesel supplies across northern regions, with robust stock levels. LPG demand has surged due to global conflicts, extending delivery times, though supply chains remain stable.",
@@ -450,15 +441,6 @@ const newsData_en = [
     "time": "2026-04-22T12:21:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC slams Mamata's 'interference' in I-PAC raid; Rajnath's stark warning to Pak on Pahalgam attack anniversary &amp; more",
-    "desc": "The Supreme Court criticized Mamata Banerjee for allegedly interfering in an ED raid linked to I-PAC, deeming it a threat to democracy. Meanwhile, Defence Minister Rajnath Singh warned Pakistan of retaliation, and an Indian student's AI influencer targeting US conservatives was removed for fraud.",
-    "img": "https://static.toiimg.com/photo/msid-130441493,imgsize-533408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-sc-slams-mamatas-interference-in-i-pac-raid-rajnaths-stark-warning-to-pakistan-more/articleshow/130441368.cms",
-    "time": "2026-04-22T12:18:55.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Anthropic's Mythos AI model accessed by unauthorised users",
     "desc": "A ‌handful of users in a private online forum ‌gained access to Mythos on ‌the ⁠same day that Anthropic ⁠first announced a plan to release the model to a limited number ​of companies ‌for testing purposes",
@@ -466,15 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/anthropics-mythos-ai-model-accessed-by-unauthorized-users/article70892279.ece",
     "time": "2026-04-22T12:16:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Gujarat-bound ship among two vessels seized by Iran near Hormuz",
-    "desc": "Iran has seized two ships in the Strait of Hormuz. One vessel was heading to Mundra port in Gujarat. This action escalates tensions in the vital oil chokepoint. The seizures follow recent incidents involving Indian-bound ships. The Islamic Revolutionary Guard Corps has taken custody of the vessels. Tensions remain high despite a ceasefire.",
-    "img": "https://static.toiimg.com/photo/msid-130440718,imgsize-467758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gujarat-bound-ship-among-two-vessels-seized-by-iran-near-hormuz/articleshow/130440586.cms",
-    "time": "2026-04-22T11:51:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -493,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-disappointed-but-will-come-back-stronger-ayush-mhatre-sends-emotional-message/articleshow/130440474.cms",
     "time": "2026-04-22T11:42:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'US stands with people of India': Sergio Gor pays tribute to Pahalgam victims on first anniversary",
-    "desc": "US Ambassador to India condemned the Pahalgam terror attack on its one-year anniversary, reaffirming Washington's support for India's fight against terrorism. Prime Minister Modi also paid tribute, vowing that India will never bow to terror. The attack led to Indian military operations targeting terror infrastructure.",
-    "img": "https://static.toiimg.com/photo/msid-130440438,imgsize-31856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-stands-with-people-of-india-sergio-gor-pays-tribute-to-pahalgam-victims-on-first-anniversary/articleshow/130440331.cms",
-    "time": "2026-04-22T11:41:02.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
