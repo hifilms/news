@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lanka Premier League set to begin on July 10, final on August 5",
+    "desc": "The Sinhalese Sports Club (SSC) in Colombo will be joining the list of venues for the Lanka Premier League (LPL) in 2026. This marks a big milestone for the tournament, as SSC will host matches...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lanka-premier-league-set-to-begin-on-july-10-final-on-august-5-2026-04-22-1038506",
+    "time": "2026-04-22T12:05:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammad Nawaz tests positive for recreational drug use, ICC alerts Pakistan Cricket Board",
+    "desc": "All-rounder Mohammad Nawaz is currently under investigation by the Pakistan Cricket Board (PCB) after reportedly testing positive for recreational drug use. The incident has disrupted Nawaz’s plans to join Surrey for the T20 Blast in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-nawaz-tests-positive-for-recreational-drug-use-icc-alerts-pakistan-cricket-board-2026-04-22-1038497",
+    "time": "2026-04-22T11:21:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Leicester City, 2016 Premier League champions, relegated to third division",
+    "desc": "Leicester City’s fall from Premier League champions to relegation into League One has been nothing short of dramatic. Just ten years ago, the Foxes were celebrating a fairytale Premier League title, defying all expectations. Now,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/leicester-city-2016-premier-league-champions-relegated-to-third-division-what-went-wrong-in-last-10-years-2026-04-22-1038489",
+    "time": "2026-04-22T10:42:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Even if Pat Cummins comes back, Ishan Kishan should continue captaining SRH: Sanjay Banger",
     "desc": "Sunrisers Hyderabad captain Pat Cummins is yet to feature in the ongoing IPL 2026. He is still recovering from a lumber stress injury, but as the Australia international confirmed, he is set to be ready...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-creates-history-breaks-world-record-set-by-chris-gayle-and-aaron-finch-with-135-vs-dc-2026-04-22-1038414",
     "time": "2026-04-22T01:40:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Real Madrid's Jude Bellingham invests in Birmingham Phoenix of The Hundred, buys 1.2% stake",
-    "desc": "Real Madrid and England international Jude Bellingham has purchased a minority stake in Hundred franchise Birmingham Phoenix. The midfielder, who grew up in Birmingham, acquired the stake from both Warwickshire and Knighthead Capital, the American...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/real-madrid-s-jude-bellingham-invests-in-birmingham-phoenix-of-the-hundred-buys-1-2-stake-2026-04-21-1038406",
-    "time": "2026-04-21T18:20:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma, Eshan Malinga hammer Delhi Capitals, SRH moved to third on IPL 2026 points table",
-    "desc": "Abhishek Sharma produced a stunning batting show against Delhi Capitals at the Rajiv Gandhi International Stadium in Hyderabad. The southpaw smacked unbeaten 135 runs off just 68 balls as the hosts posted 242 runs on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-eshan-malinga-hammer-delhi-capitals-srh-moved-to-third-on-ipl-2026-points-table-2026-04-21-1038403",
-    "time": "2026-04-21T17:55:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni ready to take field in IPL 2026? Latest net session gives boost to CSK ahead of MI clash",
-    "desc": "Chennai Super Kings are waiting for their talisman, MS Dhoni, to take the field in the Indian Premier League 2026. The five-time champions are set to take on the five-time winners Mumbai Indians on Thursday...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-ready-to-take-field-in-ipl-2026-latest-net-session-gives-boost-to-csk-ahead-of-mi-clash-2026-04-21-1038402",
-    "time": "2026-04-21T17:53:18.000Z"
   }
 ];

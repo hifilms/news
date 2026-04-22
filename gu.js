@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "રામાયણના ભરત યાદ છે? એક ખેડૂતને રામાનંદ સાગરે બનાવી દીધો સ્ટાર, દર્દનાક મોતથી હચમચી ગયો હતો દેશ",
+    "desc": "રામાયણ સાગરની રામાયણ આજે પણ બધાને યાદ છે. એક સમય એવો હતો આ શોનું પ્રસારણ થાય તો લોકો ટીવીની સામે બધા કામકાજ છોડી ગોઠવાઈ જતાં હતા. આ શોમાં અભિનેતા સંજય જોગે ભરતનું પાત્ર ભજવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bharat-of-ramayana-died-due-to-liver-disease-sanjay-joge-left-the-world-at-the-age-of-40-474327 ",
+    "time": "2026-04-22T13:06:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પાકિસ્તાની ક્રિકેટરના કાળા કરતૂત આવ્યા સામે, T20 વર્લ્ડ કપ દરમિયાન કરી હતી શરમજનક હરકત",
+    "desc": "પાકિસ્તાનના ઓલરાઉન્ડર મોહમ્મદ નવાઝનો ડ્રગ ટેસ્ટ પોઝિટિવ આવ્યો છે, જેના કારણે પીસીબીએ તપાસ શરૂ કરી છે. નવાઝનો આ ટેસ્ટ ભારત અને શ્રીલંકામાં આયોજિત 2026ના ટી20 વર્લ્ડ કપ દરમિયાન કરવામાં આવ્યો હતો, જેમાં તે ફેલ થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pakistan-mohammad-nawaz-drug-test-positive-pcb-investigation-474319 ",
+    "time": "2026-04-22T12:21:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ગુજરાત આવી રહેલા જહાજ પર IRGCએ હોર્મુઝમાં કર્યો હુમલો, જપ્ત કરી ઈરાન લઈ ગઈ ફોર્સ",
+    "desc": "આઈઆરજીસીએ વેસ્ટ એશિયામાં અમેરિકી તેલ કંપનીઓ અને તેલ કુવાને પણ નિશાન બનાવવાની ધમકી આપી છે. ઈરાને ચેતવણી આપી છે કે જો તેના આંતરમાળખા પર હુમલો કરવામાં આવ્યો તો વેસ્ટ એશિયામાં અમેરિકી માલિકીવાળા જેટલા તેલના કુવા છે, તેને તબાહ કરી દેવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/irgc-attacks-ship-coming-to-gujarat-in-hormuz-seizes-it-and-takes-it-to-iran-474316 ",
+    "time": "2026-04-22T11:52:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પંડ્યા બ્રધર્સ વચ્ચે &amp;#039;તિરાડ&amp;#039;... કૃણાલ પંડ્યાએ સવાલ પર આપ્યું આવું રિએક્શન, અટપટો અંદાજ થયો વાયરલ",
+    "desc": "હાર્દિક પંડ્યા અને કૃણાલ પંડ્યા, બન્ને આઈપીએલમાં જ્યારે પણ સામસામે આવતા ત્યારે મોજ-મસ્તીથી ભરપૂર ટક્કર જોવા મળતી હતી. પરંતુ આ વખતે બન્નેના સંબંધોમાં તિરાડ હોવાની ચર્ચાઓ જોરશોરથી ચાલી રહી છે. હાર્દિક તરફથી આ બાબતે કોઈ રિએક્શન જોવા મળી નથી, પરંતુ કૃણાલ પંડ્યાએ આ પ્રશ્ન પર રિએક્શન આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fraction-between-pandya-brothers-krunal-pandya-gave-this-reaction-to-the-question-awkward-guess-went-viral-474303 ",
+    "time": "2026-04-22T11:21:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બેટ્સમેનને માથામાં વાગ્યો બોલ, હોસ્પિટલમાં દાખલ... ખતરનાક પિચના કારણે સર્જાઈ દુર્ઘટના, રદ કરવી પડી મેચ",
+    "desc": "ક્રિકેટની દુનિયામાં એક ખતરનાક ઘટના સામે આવી છે. વેસ્ટ ઇન્ડીઝમાં એક ઘરેલુ મેચ દરમિયાન એક બેટ્સમેનના માથા પર બોલ વાગ્યો હતો, જેના કારણે તેને હોસ્પિટલમાં દાખલ કરવાની જરૂર પડી હતી. ત્યારબાદ મેચ પણ રદ કરવામાં આવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/west-indies-championship-match-abandoned-due-to-dangerous-pitch-474293 ",
+    "time": "2026-04-22T10:45:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "સ્માર્ટ મીટર બરાબર કામ કરે છે કે નહીં તે કેવી રીતે જાણવું? આ 5 ઉપાય અજમાવી જુઓ",
     "desc": "હવે તો ઝડપથી ઘરે ઘરે સ્માર્ટ મીટર જોવા મળી રહ્યા છે. જો કે સ્માર્ટ મીટરને લઈને લોકો એવી ફરિયાદ પણ કરે છે કે તેમાં બિલ વધારે આવે છે. ત્યારે જો તમને પણ આવું લાગતું હોય તો આ ટિપ્સ ધ્યાનમાં રાખો.",
@@ -531,24 +576,6 @@ const newsData_gu = [
     "time": "2026-04-19T06:47:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બે ઓવરમાં માત્ર 4 રન અને CSKના હાથમાંથી ગઈ મેચ... કેપ્ટન રુતુરાજ ગાયકવાડે જણાવ્યું હારનું કારણ",
-    "desc": "શનિવારે સનરાઇઝર્સ હૈદરાબાદે ચેન્નાઈ સુપર કિંગ્સને 10 રનથી હરાવ્યું. સીએસકેના કેપ્ટન રુતુરાજ ગાયકવાડે સ્વીકાર્યું કે 195 રનનો ટાર્ગેટ ચેઝ કરી શકાય તેમ હતો, પરંતુ 10મી ઓવર પછીની બે ઓવરમાં તેઓ ફક્ત 4 રન બનાવી શક્યા ત્યારે મેચ તેમની પકડમાંથી બહાર નીકળી ગઈ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-csk-vs-srh-match-turning-point-ruturaj-gaikwad-statement-473816 ",
-    "time": "2026-04-19T06:23:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકાના ટોપ-10 વૈજ્ઞાનિકો જીવિત છે કે નહીં? ટ્રમ્પના તપાસના આદેશ, જાણો USમાં કેમ મચ્યો છે હડકંપ",
-    "desc": "અમેરિકાની ટ્રમ્પ સરકાર હાલમાં તણાવમાં છે અને તેનું કારણ ઈરાન-હોર્મુઝ નથી, પરંતુ દેશના એ હાઈ-પ્રોફાઈલ વૈજ્ઞાનિકો છે, જેઓ છેલ્લા 3 વર્ષથી ગુમ છે અથવા જેમના શંકાસ્પદ હાલતમાં મૃતદેહો મળી આવ્યા છે. ચાલો જાણીએ શું છે સમગ્ર મામલો...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/uss-top-10-scientists-still-alive-trump-orders-an-investigation-find-out-why-it-has-caused-an-uproar-in-america-473815 ",
-    "time": "2026-04-19T06:07:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ફિલ્મમાં ઈંટીમેટ સીન શૂટ કરતાં પહેલા સેટ પર કરવામાં આવે ખાસ તૈયારી, જાણો કેવી રીતે શૂટ થાય કિસિંગ સીન",
     "desc": "મોટાભાગની ફિલ્મોમાં કિસિંગ સીન અને ઈંટીમેટ સીન હોય છે. આ પ્રકારના બોલ્ડ સીનનું શૂટિંગ કરતાં પહેલા ખાસ તૈયારીઓ કરવામાં આવે છે. આ તૈયારીઓ કેવી હોય અને ફિલ્મમાં ઈંટીમેટ સીન કેવી રીતે શૂટ થાય છે ચાલો જાણીએ.",
@@ -601,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/upcoming-affordable-electric-cars-2026-400-km-range-available-in-a-budget-of-less-than-10-lakhs-473678 ",
     "time": "2026-04-18T09:53:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કેમ હાર્યું KKR ? કોણ છે હારનો સૌથી મોટો ગુનેગાર ? કેપ્ટન રહાણેએ કર્યો મોટો ખુલાસો",
-    "desc": "આ IPL સીઝનમાં કોલકાતા નાઈટ રાઈડર્સ (KKR)ની સતત પાંચમી હાર હતી. ગુજરાત ટાઇટન્સ (GT) સામેની મેચમાં KKRની હાર બાદ કેપ્ટન અજિંક્ય રહાણેએ આ હાર માટે કોઈ ખેલાડીને નહીં, પરંતુ હાર માટે બીજા જ કોઈ કારણને જવાબદાર ગણાવ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-kkr-lost-to-gujarat-titans-captain-ajinkya-rahane-revealed-the-big-reason-473648 ",
-    "time": "2026-04-18T06:53:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -673,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/what-were-asha-tais-final-moments-like-mumtaz-recounts-the-entire-story-hearing-it-will-bring-tears-to-your-eyes-472968 ",
     "time": "2026-04-14T05:39:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઓટોગ્રાફથી શરુ થઈ હતી આશા ભોસલે અને આરડી બર્મનની લવ સ્ટોરી, પંચમ દાના પ્રેમ એ બદલી દીધું આશા તાઈનું જીવન",
-    "desc": "92 વર્ષીય આશા ભોસલેનું નિધન થયું છે. આશા તાઈના નિધનથી એક યુગનો અંત થઈ ગયો છે. ભારતના મહાન ગાયિકા આશા ભોસલેના સંઘર્ષ વચ્ચે ઘેરાયેલા જીવનને સુખી કરવાનો શ્રેય બોલીવુડના પંચમ દાને જાય છે. આશા ભોસલે અને આર ડી બર્મનની લવ સ્ટોરી વિશે ખૂબ ઓછા લોકો જાણે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/asha-bhosle-rd-burman-love-story-how-bollywood-pancham-da-fall-in-love-with-3-kids-mother-asha-bhosle-472759 ",
-    "time": "2026-04-13T02:41:49.000Z"
   }
 ];
