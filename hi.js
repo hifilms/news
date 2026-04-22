@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma leads orange cap race, Eshan Malinga gets closer to purple cap",
+    "desc": "Abhishek Sharma slammed an unbeaten 135 off 68 deliveries against the Delhi Capitals on Tuesday to jump more than 15 places in the race to win the Orange Cap for scoring the most runs in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-leaderboard-abhishek-sharma-leads-orange-cap-race-eshan-malinga-gets-closer-to-purple-cap-2026-04-22-1038450",
+    "time": "2026-04-22T06:55:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "\"Unplayable\": First-class match in West Indies abandoned after dangerous pitch hospitalizes batter",
     "desc": "The Trinidad and Tobago vs Leeward Islands match in the West Indies Championship was abandoned as a draw on Tuesday due to a dangerous pitch at the Sir Vivian Richards Stadium in Antigua. The decision...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-shares-fitness-update-on-mayank-yadav-ahead-of-ipl-2026-clash-against-rr-2026-04-21-1038399",
     "time": "2026-04-21T17:20:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma surpasses MS Dhoni in huge T20 record list, chases Suryakumar, Virat Kohli",
-    "desc": "Sunrisers Hyderabad star Abhishek Sharma went past Indian legend MS Dhoni on a major T20 record list with his spectacular century during his team's Indian Premier League 2026 clash against the Delhi Capitals on Tuesday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-surpasses-ms-dhoni-in-huge-t20-record-list-chases-suryakumar-virat-kohli-2026-04-21-1038393",
-    "time": "2026-04-21T16:06:18.000Z"
   }
 ];

@@ -1,21 +1,75 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ઇંધણની અછત સર્જાતા જ મોકલ્યું બમણું તેલ... યુએઈ-સાઉદી ટેન્કરો હોર્મુઝમાં રોકાઈ ગયા ત્યારે આ દેશે આપ્યો ભારતનો ટેકો, જાણો",
+    "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થવાથી મધ્ય પૂર્વમાંથી તેલનો પુરવઠો લગભગ બંધ થઈ ગયો છે, જેના કારણે ભારતની ક્રૂડ ઓઈલ આયાતમાં 13% ઘટાડો થયો છે. આ પુરવઠા કટોકટી વચ્ચે આ દેશે તેલ મોકલીને ભારતના ઉર્જા બજારને જાળવી રાખ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/double-the-amount-of-oil-was-sent-as-soon-as-fuel-shortage-arose-this-country-supported-india-474254 ",
+    "time": "2026-04-22T07:25:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્રિસ ગેલનો વર્લ્ડ રેકોર્ડ તૂટ્યો, અભિષેક શર્માએ T20માં કર્યો કમાલ",
+    "desc": "અભિષેક શર્મા ટી20 ક્રિકેટમાં ઉભરતો ભારતીય સ્ટાર બેટ્સમેન છે. સનરાઈઝર્સ હૈદરાબાદ અને દિલ્હી કેપિટલ્સ વચ્ચે રમાયેલી IPl મેચમાં અભિષેક શર્માએ એક ઐતિહાસિક ઇનિંગ રમી અને અનેક રેકોર્ડ પોતાના નામે કર્યા. આ દરમિયાન તેણે વેસ્ટ ઈન્ડિઝના પૂર્વ દિગ્ગજ બેટ્સમેન ક્રિસ ગેલનો વર્લ્ડ રેકોર્ડ તોડ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/abhishek-sharma-breaks-chris-gayles-world-record-in-t20-474259 ",
+    "time": "2026-04-22T07:24:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હવે તમારી જાણ બહાર બેંક EMI નહીં કાપી શકે! રિઝર્વ બેંકે નિયમોમાં કર્યો ફેરફાર",
+    "desc": "હવે બેંક તમારી જાણ બહાર તમારા ખાતામાંથી પૈસા કાપી શકશે નહીં! ભારતીય રિઝર્વ બેંક (RBI) એ ગ્રાહકોના હિતની સુરક્ષા માટે એક ખૂબ જ મહત્વપૂર્ણ નિયમ લાગુ કર્યો છે. હવે બેંક તમારા ખાતામાંથી EMI અથવા કોઈપણ ઓટો-પેમેન્ટ કાપતા પહેલા તમને જાણ કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/rbi-new-rules-banks-can-no-longer-deduct-your-emi-without-prior-notice-reserve-bank-revises-rules-474258 ",
+    "time": "2026-04-22T07:20:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચે પર એક મોટી અપડેટ, કેન્દ્રીય કર્મચારીઓ માટે જાણવું જરૂરી",
+    "desc": "કેન્દ્રીય કર્મચારીઓ આઠમા પગાર પંચની ભલામણોની આતુરતાથી રાહ જોઈ રહ્યા છે. પગાર પંચે કર્મચારી સંગઠનો અને અન્ય હિસ્સેદારો પાસેથી સૂચનો મંગાવવાનું શરૂ કરી દીધું છે. આ સંદર્ભમાં, આઠમા પગાર પંચે એક મુખ્ય અપડેટ આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/a-major-update-on-the-8th-pay-commission-important-to-know-for-central-employees-474257 ",
+    "time": "2026-04-22T07:17:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "iOS 27 આવતા જ આ iPhones મોડલ બની જશે કચરો? જાણો તમારો ફોન લિસ્ટમાં છે કે નહીં",
+    "desc": "શુ તમારો iPhone હવે જૂનો થઈ ગયો છે? Apple ટૂંક સમયમાં iOS 27 અપડેટ સાથે કેટલાક લોકપ્રિય iPhonesનો સપોર્ટ ખતમ કરી શકે છે. જાણો શું તમારો ફોન પણ આ લિસ્ટમાં સામેલ છે અને તેની તમારા પર શું અસર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/will-these-iphones-become-obsolete-once-ios-27-arrives-check-if-your-phone-is-on-the-list-474255 ",
+    "time": "2026-04-22T07:02:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL વચ્ચે CSK માટે ખરાબ સમાચાર, ટીમનો ઇનફોર્મ બેટ્સમેન આખી સીઝનમાંથી બહાર, હવે આ ખેલાડીની એન્ટ્રી પાક્કી !",
+    "desc": "CSKના 18 વર્ષીય બેટ્સમેન આયુષ મ્હાત્રે IPL 2026માંથી બહાર થઈ ગયો છે. SRH સામેની મેચ દરમિયાન બેટિંગ કરતી વખતે તેને હેમસ્ટ્રિંગની સમસ્યા થઈ હતી. 17 બોલમાં 30 રન બનાવ્યા પછી રન લેતી વખતે આ ઈજા થઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-csk-ayush-mhatre-ruled-out-of-ipl-2026-due-to-injury-474245 ",
+    "time": "2026-04-22T06:30:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "પેટ્રોલમાં ઉમેરવામાં આવશે 100% ઇથેનોલ, ગડકરીનું નવું વિઝન, કંપનીઓ સામે આ મોટો ચેલેન્જ",
+    "desc": "ગડકરીનું આ નિવેદન એવા સમયે આવ્યું છે જ્યારે વૈશ્વિક ઉર્જા બજારો પશ્ચિમ એશિયામાં લાંબા સમયથી ચાલી રહેલા સંઘર્ષનો સામનો કરી રહ્યા છે, જેના કારણે પરંપરાગત તેલ પુરવઠા શૃંખલાઓમાં નોંધપાત્ર વિક્ષેપ પડ્યો છે અને આયાત બિલમાં વધારો થયો છે. આ મહત્વાકાંક્ષી લક્ષ્યનું મુખ્ય કારણ ભારતની અશ્મિભૂત ઇંધણની આયાત પર ભારે નિર્ભરતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/100-percent-ethanol-will-be-added-to-petrol-gadkari-new-vision-this-is-a-big-challenge-for-companies-474234 ",
+    "time": "2026-04-22T05:30:40.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ગેસ સિલિન્ડરની ડિલિવરી માટે નવો નિયમ, હવે DAC કોડ વગર નહીં મળે બાટલો, જાણો વિગતો",
     "desc": "મિડલ ઈસ્ટમાં સંકટ વચ્ચે ઓઈલ કંપનીઓએ હાલમાં રાંધણ ગેસ સિલિન્ડર સંલગ્ન નિયમમાં ફેરફાર કર્યો છે. હવે DAC નંબર વગર ગેસ સિલિન્ડરની ડિલિવરી થશે નહીં. આ કોડ શું છે અને તે કેવી રીતે મળે અને જો ન મળે તો શું થાય.... જાણો વિગતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/lpg-rule-you-will-not-get-the-cylinder-without-dac-code-know-the-details-474241 ",
     "time": "2026-04-22T05:18:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "પેટ્રોલમાં ઉમેરવામાં આવશે 100% ઇથેનોલ, ગડકરીનું નવું વિઝન, કંપનીઓ સામે આ મોટો ચેલેંજ",
-    "desc": "ગડકરીનું આ નિવેદન એવા સમયે આવ્યું છે જ્યારે વૈશ્વિક ઉર્જા બજારો પશ્ચિમ એશિયામાં લાંબા સમયથી ચાલી રહેલા સંઘર્ષનો સામનો કરી રહ્યા છે, જેના કારણે પરંપરાગત તેલ પુરવઠા શૃંખલાઓમાં નોંધપાત્ર વિક્ષેપ પડ્યો છે અને આયાત બિલમાં વધારો થયો છે. આ મહત્વાકાંક્ષી લક્ષ્યનું મુખ્ય કારણ ભારતની અશ્મિભૂત ઇંધણની આયાત પર ભારે નિર્ભરતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/100-percent-ethanol-will-be-added-to-petrol-gadkari-new-vision-this-is-a-big-challenge-for-companies-474234 ",
-    "time": "2026-04-22T04:58:34.000Z"
   },
   {
     "cat": "World",
@@ -441,15 +495,6 @@ const newsData_gu = [
     "time": "2026-04-19T06:07:08.000Z"
   },
   {
-    "cat": "Business",
-    "title": "8મું પાસને સરકાર વ્યાજ વગર આપી રહી છે 10 લાખ સુધીની લોન, જાણો કેવી રીતે કરશો અરજી",
-    "desc": "રાજ્ય સરકાર તમને પોતાનો વ્યવસાય શરૂ કરવા માટે 10 લાખ રૂપિયા સુધીની લોન આપી રહી છે, જેની શરૂઆત જાન્યુઆરી 2026 માં કરવામાં આવી છે. ચાલો જાણીએ કે આ લોન કોણ લઈ શકે છે અને તેના માટે કેવી રીતે અરજી કરવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-is-offering-interest-free-loans-of-up-to-10-lakh-to-8th-pass-individuals-find-out-how-to-avail-the-benefits-473814 ",
-    "time": "2026-04-19T05:45:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ફિલ્મમાં ઈંટીમેટ સીન શૂટ કરતાં પહેલા સેટ પર કરવામાં આવે ખાસ તૈયારી, જાણો કેવી રીતે શૂટ થાય કિસિંગ સીન",
     "desc": "મોટાભાગની ફિલ્મોમાં કિસિંગ સીન અને ઈંટીમેટ સીન હોય છે. આ પ્રકારના બોલ્ડ સીનનું શૂટિંગ કરતાં પહેલા ખાસ તૈયારીઓ કરવામાં આવે છે. આ તૈયારીઓ કેવી હોય અને ફિલ્મમાં ઈંટીમેટ સીન કેવી રીતે શૂટ થાય છે ચાલો જાણીએ.",
@@ -540,15 +585,6 @@ const newsData_gu = [
     "time": "2026-04-18T02:36:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "કોણ છે સમરીન કૌર? જેમના પ્રેમમાં &amp;#039;ક્લીન બોલ્ડ&amp;#039; થયા અર્શદીપ સિંહ... ફેન્સને મળ્યો લવ સ્ટોરીનો મોટો પુરાવો!",
-    "desc": "અર્શદીપ સિંહ આજકાલ IPL 2026માં ધૂમ મચાવી રહ્યા છે. મુંબઈ સામે તેમણે 4 ઓવરમાં 22 રન આપીને 3 વિકેટ ઝડપી હતી. મેદાન પર અર્શદીપ જ્યારે વિકેટ લઈ રહ્યા હતા, ત્યારે તેમની રૂમર્ડ ગર્લફ્રેન્ડ સ્ટેન્ડમાં જશ્ન મનાવી રહી હતી. ચાલો જાણીએ કોણ છે મિસ્ટ્રી ગર્લ? જેમણે IPL 2026ની 24મી મેચ બાદ સોશિયલ મીડિયા પર ખૂબ જ ધૂમ મચાવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-samrin-kaur-arshdeep-singh-went-clean-bold-in-love-with-her-fans-got-big-proof-of-the-love-story-473600 ",
-    "time": "2026-04-17T17:31:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ટોસ્ટરથી લઈ મટકા કિંગ સુધીની નવી ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ, ચેક કરી લો લિસ્ટ",
     "desc": "એપ્રિલ મહિનાનું આ ત્રીજું વીકેન્ડ છે અને આ વીકેન્ડ ઓટીટી લવર્સ માટે ખાસ છે. કારણ કે આ વખતે ઓટીટી પ્લેટફોર્મ પર અલગ અલગ જોનરની ફિલ્મો અને સીરીઝ રિલીઝ થઈ છે. એટલે આ વીકેન્ડ ફુલ ઓન એન્ટરટેનમેન્ટમાં પસાર થશે.",
@@ -619,23 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/asha-bhosle-rd-burman-love-story-how-bollywood-pancham-da-fall-in-love-with-3-kids-mother-asha-bhosle-472759 ",
     "time": "2026-04-13T02:41:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "પ્રથમવાર કાર ખરીદનારાઓ માટે બેસ્ટ ડીલ! 5 લાખથી ઓછામાં આવે છે આ ધાંસૂ કાર",
-    "desc": "5 લાખ રૂપિયાના બજેટમાં ભારતમાં ઘણી શાનદાર એન્ટ્રી-લેવલ કાર ઉપલબ્ધ છે. Maruti Suzuki S-Presso, Maruti Suzuki Alto K10, Renault Kwid, Tata Tiago અને Maruti Suzuki Celerio જેવી કાર ઓછી કિંમત, શાનદાર માઇલેજ અને સીએનજી વિકલ્પની સાથે શાનદાર વિકલ્પ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/cars-under-rs-5-lakh-tata-tiagomaruti-suzuki-s-presso-maruti-suzuki-celerio-472360 ",
-    "time": "2026-04-10T10:37:26.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ફરી ધુમ મચાવશે બજાજની આઈકોનિક બાઈક Pulsar 180, આટલી કિંમતમાં થઈ લોન્ચ",
-    "desc": "બજાજ પોતાની આઇકોનિક બાઇકને ભારતીય બજારમાં ફરી પાછી આવી રહી છે. અમે વાત કરી રહ્યા છીએ પલ્સરની. કંપનીએ Pulsar 180ને ભારતીય માર્કેટમાં ફરીથી લોન્ચ કરી દીધી છે. કંપનીએ 2022માં આ બાઇકનું ઉત્પાદન બંધ (ડિસ્કન્ટિન્યુ) કર્યું હતું. હવે આ બાઇક નવા ફીચર્સ સાથે પરત ફરી છે. ચાલો જાણીએ આ દમદાર બાઇકમાં કંપની શું નવું લઈને આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/bajaj-iconic-bike-pulsar-180-will-create-a-buzz-again-launched-at-this-price-472266 ",
-    "time": "2026-04-09T16:25:12.000Z"
   }
 ];
