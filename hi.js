@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "\"Unplayable\": First-class match in West Indies abandoned after dangerous pitch hospitalizes batter",
+    "desc": "The Trinidad and Tobago vs Leeward Islands match in the West Indies Championship was abandoned as a draw on Tuesday due to a dangerous pitch at the Sir Vivian Richards Stadium in Antigua. The decision...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/unplayable-first-class-match-in-west-indies-abandoned-after-dangerous-pitch-hospitalizes-batter-watch-2026-04-22-1038437",
+    "time": "2026-04-22T05:21:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND-W vs SA-W live telecast: When and where to India vs South Africa women 3rd T20I live on TV and online?",
+    "desc": "The third T20I of the five-match series between India and South Africa Women will be played today at the Wanderers Stadium in Johannesburg. Even as the fans are busy watching the men's cricketers feature in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sa-w-live-telecast-when-and-where-to-india-vs-south-africa-women-3rd-t20i-live-on-tv-and-online-2026-04-22-1038428",
+    "time": "2026-04-22T03:38:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Should be considered an off day': DC skipper Axar Patel not reading too much into loss vs SRH",
+    "desc": "Delhi Capitals lost to Sunrisers Hyderabad by 47 runs in the 31st match of the Indian Premier League (IPL) on Tuesday. Their bowlers conceded 242 runs in 20 overs after the captain Axar Patel won...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/should-be-considered-an-off-day-dc-skipper-axar-patel-not-reading-too-much-into-loss-vs-srh-2026-04-22-1038423",
+    "time": "2026-04-22T02:58:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Sharma creates history, breaks world record set by Chris Gayle and Aaron Finch with 135* vs DC",
     "desc": "Sunrisers Hyderabad continued their winning run on Tuesday, beating Delhi Capitals in the 31st match of the ongoing Indian Premier League (IPL) season. Abhishek Sharma was one of the main reasons for their astounding win...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-surpasses-ms-dhoni-in-huge-t20-record-list-chases-suryakumar-virat-kohli-2026-04-21-1038393",
     "time": "2026-04-21T16:06:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Boost for CSK after Ayush Mhatre blow, star pacer joins squad ahead of MI El Clasico in IPL 2026",
-    "desc": "In a boost for Chennai Super Kings, star fast bowler Spencer Johnson has joined the squad ahead of their El Clásico against the Mumbai Indians at the Wankhede Stadium on Thursday, April 23. CSK shared...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/boost-for-csk-after-ayush-mhatre-blow-star-pacer-joins-squad-ahead-of-mi-el-clasico-in-ipl-2026-2026-04-21-1038390",
-    "time": "2026-04-21T15:31:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma surpasses Rohit Sharma, equals Virat Kohli's all-time India record with century against DC",
-    "desc": "Youngster Abhishek Sharma launched a scathing attack against Delhi Capitals, completing a century in just 47 balls. The southpaw went berserk right from the beginning as the Delhi bowlers seemed unprepared for his wrath. Captain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-surpasses-rohit-sharma-equals-virat-kohli-s-all-time-india-record-with-century-against-dc-2026-04-21-1038388",
-    "time": "2026-04-21T15:16:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Axar Patel becomes third Delhi Capitals cricketer to register major milestone in IPL",
-    "desc": "Delhi Capitals captain Axar Patel became the third cricketer to play 100 matches for the franchise in the IPL. The all-rounder joined Rishabh Pant and Amit Mishra in the elite list of cricketers. Now, it’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-becomes-third-delhi-capitals-cricketer-to-register-major-milestone-in-ipl-2026-04-21-1038386",
-    "time": "2026-04-21T15:04:10.000Z"
   }
 ];
