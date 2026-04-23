@@ -1,5 +1,32 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Anupam Kher says he chose renting, after selling home to Alia",
+    "desc": "Veteran actor Anupam Kher has never shied away from speaking about his humble beginnings, and his recent revelations about selling his Mumbai apartment reflect the same philosophy. The actor, who once sold a property later purchased by Alia Bhatt, has now opened up about why he consciously chose not to own a house at one point in his life.",
+    "img": "https://static.toiimg.com/photo/msid-130478570,imgsize-58396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-says-he-chose-renting-over-owning-years-after-selling-home-to-alia-bhatt-for-rs-8-99-crore-i-wanted-a-simpler-life/articleshow/130478558.cms",
+    "time": "2026-04-23T20:26:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pahalgam, a year on: Resilience falters, tourism struggles",
+    "desc": "After the initial shock and grief of the April 2025 terrorist attack that killed 26 unarmed men on south Kashmir’s Baisaran meadow, Peerzada Ashiq finds that locals grapple with an uncertain future. Tourism is low, livelihoods have been lost, and heightened security measures are in place",
+    "img": "https://th-i.thgim.com/public/incoming/gd3sk8/article70896619.ece/alternates/LANDSCAPE_1200/16-On%20Pahalgam%20Attack%20Anniversary-PAHALGAM-22-04-2026.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/pahalgam-a-year-on-resilience-falters-tourism-struggles/article70896513.ece",
+    "time": "2026-04-23T19:47:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kajol says Simran doesn’t exist today: ‘Gen Z don’t ask parents’",
+    "desc": "Kajol, who has never shied away from speaking her mind, got candid about how relationships and lifestyles have evolved since the 1990s, as she looked back at her iconic film Dilwale Dulhania Le Jayenge (DDLJ), which completed 30 years last year. Despite the shift in attitudes, Kajol emphasised that the core message of DDLJ still holds relevance.",
+    "img": "https://static.toiimg.com/photo/msid-130478182,imgsize-67266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kajol-says-simran-doesnt-exist-today-as-she-looks-back-at-ddlj-gen-z-dont-ask-for-permission-from-parents/articleshow/130478059.cms",
+    "time": "2026-04-23T19:26:42.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Recent hits give Malayalam film industry a shot in the arm",
     "desc": "A couple of young and talented filmmakers have scripted success in the Malayalam film industry through their recent ventures. G. Krishnakumar finds out how the youngsters have rekindled hope in the industry that has been struggling to stay afloat",
@@ -133,24 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/uninformed-inappropriate-india-slams-donald-trump-over-hell-hole-remark/articleshow/130474352.cms",
     "time": "2026-04-23T16:37:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "rights panel",
-    "desc": "The petitioner who is married to an Indian had complained that a swimming pool assistant racially and verbally abused her and some friends claiming they were foreign citizens and not allowed to the use the pool at Greenfield Stadium in Thiruvananthapuram",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/iranian-student-has-right-to-use-swimming-pool-rights-panel/article70898630.ece",
-    "time": "2026-04-23T16:26:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lok Ayukta orders probe against police, MVD, Cars24 for selling vehicle without transferring ownership",
-    "desc": "The seller found himself named as a respondent in a motor accident claim case following an accident involving the car, which was no longer in his possession. He had also received tickets for traffic violations committed using the vehicle",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/lok-ayukta-orders-probe-against-police-mvd-cars24-for-selling-vehicle-without-transferring-ownership/article70897372.ece",
-    "time": "2026-04-23T16:18:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -361,15 +370,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Avinash lauds Dhurandhar but slams ‘alpha men’ labels",
-    "desc": "Avinash Tiwary is set to headline Ginny Weds Sunny 2, exploring family-friendly cinema. The actor, shifting from intense roles to rom-com, hopes to show a lighter side. He praised Dhurandhar’s success, dismissed formula trends, and stressed families returning to theatres. The film releases April 24, 2026, co-starring Medha Shankr lead.",
-    "img": "https://static.toiimg.com/photo/msid-130468313,imgsize-23136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/avinash-tiwary-lauds-dhurandhar-but-slams-alpha-men-labels-ahead-of-family-film-ginny-weds-sunny-2s-release-families-need-to-come-back-to-cinemas/articleshow/130468313.cms",
-    "time": "2026-04-23T12:18:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Kalki Koechlin talks about maintaining distance from Anurag after divorce",
     "desc": "Kalki Koechlin shared insights on navigating post-divorce dynamics with ex-husband Anurag Kashyap, emphasizing therapy's long-term benefits and the necessity of initial non-communication. She advocates for creating distance, suggesting a period of separation equal to the relationship's length, and processing emotions with trusted individuals before considering reconnection.",
     "img": "https://static.toiimg.com/photo/msid-130468300,imgsize-28826.cms",
@@ -385,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/sai-tamhankar-interview-the-matka-king-actor-on-working-across-languages-and-her-quest-for-longevity/article70896695.ece",
     "time": "2026-04-23T12:14:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ayushmann begins filming in Kerala for Sameer's directorial",
-    "desc": "After a string of social comedies, Ayushmann Khurrana returns to gritty thrills with his next YRF–Posham Pa Pictures film, a hard‑hitting thriller shot in Kerala. Leading an ordinary man trapped in a nightmare, this marks his third YRF outing and kicks off his 2026 slate ahead of Pati Patni Aur Woh Do, Udta Teer, and Yeh Prem Mol Liya.",
-    "img": "https://static.toiimg.com/photo/msid-130467956,imgsize-21928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayushmann-khurrana-begins-filming-in-kerala-for-sameer-saxena-directorial-gritty-thriller/articleshow/130467956.cms",
-    "time": "2026-04-23T12:04:42.000Z"
   },
   {
     "cat": "Sports",
@@ -412,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ms-dhoni-plays-with-champak-return-buzz-grows-ahead-of-csk-vs-mi-clash/articleshow/130465659.cms",
     "time": "2026-04-23T11:04:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Let the notice come, we will reply': Congress chief Kharge reacts to EC ultimatum over 'terrorist' remark",
-    "desc": "Congress chief Mallikarjun Kharge has responded to an Election Commission notice regarding his \"terrorist\" remarks on Prime Minister Narendra Modi. Kharge stated his party would reply to the EC's ultimatum, which warned of action if he failed to explain his stand within 24 hours. The controversial comment was made during campaigning in Chennai.",
-    "img": "https://static.toiimg.com/photo/msid-130465110,imgsize-714709.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/let-the-notice-come-we-will-reply-congress-chief-kharge-reacts-to-ec-ultimatum-over-terrorist-remark/articleshow/130465134.cms",
-    "time": "2026-04-23T10:40:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Star-studded voting day, Vijay appeals to EC, robot greets voters – Top developments",
-    "desc": "Tamil Nadu witnessed brisk voting across 234 constituencies, with high-profile leaders, celebrities, and first-time voters participating in large numbers. Actor Vijay's TVK sought extended polling hours due to delays, while a robot greeted voters at a Chennai booth. The election sees a three-way contest between DMK, AIADMK, and TVK.",
-    "img": "https://static.toiimg.com/photo/msid-130463810,imgsize-959188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-star-studded-voting-day-vijay-appeals-to-ec-robot-greets-voters-top-developments/articleshow/130463173.cms",
-    "time": "2026-04-23T09:51:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Stones thrown at Bengal BJP Agnimitra Paul's car in Asansol, rear window shattered; complaint filed",
-    "desc": "BJP leader Agnimitra Paul's car was vandalized in a stone-pelting incident in Asansol after she exited a polling booth. Paul alleged a deliberate attempt to influence the elections and filed a complaint. Contesting from Asansol South, she expressed confidence in the BJP's prospects, calling the election a 'war to save Bengal' focused on jobs and development.",
-    "img": "https://static.toiimg.com/photo/msid-130464002,imgsize-2975800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-stones-thrown-at-bengal-bjp-agnimitra-pauls-car-in-asansol-rear-window-shattered-complaint-filed/articleshow/130463380.cms",
-    "time": "2026-04-23T09:50:26.000Z"
   },
   {
     "cat": "Business",
@@ -466,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-36-live-ranveer-singh-starrer-needs-rs-113-crore-to-breach-allu-arjuns-pushpa-2-lifetime-domestic-record-and-rs-46-crore-to-beat-baahubali-2-worldwide-record/articleshow/130463098.cms",
     "time": "2026-04-23T09:36:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bengal votes amid sporadic incidents of violence in phase 1; candidates heckled",
-    "desc": "West Bengal's first phase of assembly elections saw violence, voter intimidation, and EVM glitches. Crude bombs were hurled, clashes erupted between party workers, and a BJP candidate was allegedly attacked. Several polling stations experienced delays due to malfunctioning Electronic Voting Machines, disrupting the electoral process across multiple districts.",
-    "img": "https://static.toiimg.com/photo/msid-130463486,imgsize-1946514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-votes-amid-sporadic-incidents-of-violence-in-phase-1-candidates-heckled-top-developments/articleshow/130463417.cms",
-    "time": "2026-04-23T09:33:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -882,15 +837,6 @@ const newsData_en = [
     "time": "2026-04-20T09:06:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL’s Impact Player and the domino effect",
-    "desc": "This is the fourth year of competition with the innovation; while there has been a strident appeal from the playing community to dispense with it, the IPL is insistent that there will be no rethink until after the 2027 edition",
-    "img": "https://th-i.thgim.com/public/incoming/g928yt/article70882104.ece/alternates/LANDSCAPE_1200/_DSC5193A.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/impact-player-and-the-domino-effect/article70882096.ece",
-    "time": "2026-04-19T22:15:26.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances",
     "desc": "The winning robot, developed by Chinese smartphone brand Honor, finished the race in 50 ⁠minutes and 26 seconds, several minutes faster than the half-marathon world record set by Ugandan runner Jacob Kiplimo in Lisbon last month",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances/article70880082.ece",
     "time": "2026-04-19T08:07:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
