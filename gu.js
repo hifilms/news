@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "મોબાઈલ યુઝર્સ માટે મોટા સમાચાર ! હવે WhatsApp દ્વારા પણ કરી શકાશે રિચાર્જ, જાણો કેવી રીતે",
+    "desc": "WhatsAppમાં એક નવું અને જરૂરી ફીચર લોન્ચ કરવામાં આવ્યું છે. હવે WhatsApp દ્વારા મોબાઈલ રિચાર્જ પણ કરી શકાશે. કંપનીએ આ માટે પેમેન્ટ ફર્મ PayU સાથે ભાગીદારી કરી છે. ત્યારે આ લેખમાં જાણીશું કે આ ફીચર કેવી રીતે કામ કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-mobile-recharge-feature-announced-know-how-to-use-474520 ",
+    "time": "2026-04-23T12:24:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારત બન્યો દુનિયાનો છઠ્ઠો સૌથી ધનવાન દેશ, 19877 લોકો UHNWI માં સામેલ, આ શહેરમાં રહે છે સૌથી વધુ ધનિક લોકો",
+    "desc": "ભારત હવે વૈશ્વિક સ્તર પર અલ્ટ્રા-રિચ વસ્તીના મામલામાં છઠ્ઠા સ્થાને પહોંચી ગયું છે. Knight Frank ના એક રિપોર્ટ અનુસાર ભારતમાં વર્ષ 2026મા 19877 લોકો એવા છે, જેની સંપત્તિ 30 મિલિયન ડોલર એટલે કે આશરે 250 કરોડ રૂપિયાથી વધુ છે. આવો વિગત જાણીએ..",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/india-becomes-the-worlds-6th-wealthiest-nation-19877-people-in-india-is-uhnwis-list-474501 ",
+    "time": "2026-04-23T12:15:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કેન્દ્રીય કર્મચારીઓની લાગશે લોટરી? બેઝિક સેલરીમાં ₹54,000નો વધારો અને 6% ઈન્ક્રીમેન્ટની મોટી માંગ!",
+    "desc": "BPMSની મુખ્ય માંગ લઘુત્તમ વેતન એટલે કે બેઝિક સેલરી વધારીને પ્રતિ માસ 72,000 રૂપિયા કરવાની છે. હાલમાં કેન્દ્રીય કર્મચારીઓની બેઝિક સેલરી 18,000 રૂપિયા છે. આ ઉપરાંત BPMSની અન્ય એક મહત્વની માંગ ફિટમેન્ટ ફેક્ટરને લઈને પણ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-bpms-demands-minimum-basic-salary-hike-to-72000-and-six-percent-annual-increment-474503 ",
+    "time": "2026-04-23T12:00:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1 દુલ્હન અને 4 વરરાજા... પહેલો ફરાર, બીજો બીમાર, ત્રીજાએ લગ્ન કરવાની ના પાડી; ચોથાએ લગ્ન કર્યા, પણ...",
+    "desc": "ઉત્તર પ્રદેશમાં એક અજીબોગરીબ કિસ્સો સામે આવ્યો છે. જ્યાં લગ્ન માટે નક્કી કરેલા વરરાજા ભાગી જતાં પિતાએ એક પછી એક ચાર દીકરાઓના ઓપ્શન આપ્યા. લગ્નની તારીખ 20 એપ્રિલ 2026 નક્કી હતી. પરંતુ લગ્નના ત્રણ દિવસ પહેલા વરરાજા ઘરેથી ભાગી ગયો. 19 એપ્રિલે છોકરાના પિતાએ કન્યા પક્ષને આ બાબતની જાણ કરી અને ખાતરી આપી કે, લગ્ન રદ નહીં થાય. તેમણે તેમના બીજા પુત્ર સાથે લગ્ન કરાવવાનો પ્રસ્તાવ મૂક્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/1-bride-and-4-grooms-first-ran-away-the-second-was-sick-the-third-refused-to-marry-the-fourth-got-married-474500 ",
+    "time": "2026-04-23T11:20:02.000Z"
+  },
+  {
     "cat": "Business",
     "title": "સરકાર આપશે મોટી ભેટ, પેન્શનની રકમ ડબલ કરવાની તૈયારી, જાણો કેટલા રૂપિયા મળશે?",
     "desc": "કેન્દ્ર સરકાર દ્વારા અસંગઠિત ક્ષેત્રોના લોકો માટે પેન્શન યોજના ચલાવવામાં આવે છે. આ યોજનામાં નિયમિત હપ્તા ભરી 60 વર્ષની ઉંમર બાદ નિયમિત પેન્શન મેળવી શકાય છે. હવે સરકાર આ યોજના હેઠળ પેન્શનની રકમ વધારવાની તૈયારી કરી રહી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/government-will-double-pension-amount-now-10000-will-be-available-in-atal-pension-yojana-474478 ",
-    "time": "2026-04-23T09:59:08.000Z"
+    "time": "2026-04-23T11:05:19.000Z"
   },
   {
     "cat": "World",
@@ -558,15 +594,6 @@ const newsData_gu = [
     "time": "2026-04-20T08:08:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "6,6,6,6,6... લખનૌની હારનો સૌથી મોટો વિલન સાબિત થયો આ ખેલાડી, એક જ ઓવરમાં આપ્યા 32 રન",
-    "desc": "લખનૌ સુપર જાયન્ટ્સની હાર માટે આ ખેલાડી સૌથી મોટો વિલન સાબિત થયો હતો. એક જ ઓવરમાં તેણે 32 રન આપ્યા હતા. રવિવારે રમાયેલી IPL 2026ની મેચમાં પંજાબ કિંગ્સે લખનૌ સુપર જાયન્ટ્સને 54 રનથી હરાવ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-lsg-vs-pbks-aiden-markram-lsg-lost-against-punjab-kings-473958 ",
-    "time": "2026-04-20T05:19:33.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran-US War: જેનો ડર હતો એ જ થયું, સીઝફાયર તૂટ્યો! અમેરિકાએ ઈરાની જહાજ પકડ્યું, તો ઈરાને કર્યો વળતો પ્રહાર",
     "desc": "અમેરિકા અને ઈરાન વચ્ચે નવેસરથી મામલો ભડક્યો છે કારણ કે યુદ્ધવિરામ વચ્ચે જ અમેરિકાએ ઈરાની જહાજ પકડ્યા બાદ મીડિયા રિપોર્ટ્સ મુજબ ઈરાને પણ વળતો પ્રહાર કરીને અમેરિકાના જહાજો પર હુમલો કર્યો હોવાનું સામે આવ્યું છે.",
@@ -583,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/what-countries-surround-the-strait-of-hormuz-and-why-do-not-they-control-this-oil-route-like-iran-473911 ",
     "time": "2026-04-19T16:32:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "નોસ્ટ્રાડેમસની ભવિષ્યવાણીઓ પડી ફીકી! NASAના સુપરકોમ્પ્યુટરે જણાવી દીધી દુનિયા ખતમ થવાની ચોક્કસ તારીખ?",
-    "desc": "વૈજ્ઞાનિકો કાઝુમી ઓઝાકી અને ક્રિસ્ટોફર રેનહાર્ડના રિસર્ચ અનુસાર, લગભગ 100 કરોડ વર્ષ પછી પૃથ્વી પર ઓક્સિજન ખતમ થઈ શકે છે. NASAના મોડેલ્સ જણાવે છે કે, ત્યારે જીવન લગભગ અસંભવ હશે. જો કે, અત્યારે ચિંતાનું મોટું કારણ ક્લાઈમેટ ચેન્જ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/nostradamus-predictions-pale-in-comparison-has-nasa-supercomputer-revealed-the-exact-date-of-the-world-end-473870 ",
-    "time": "2026-04-19T11:33:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/17-april-2026-ott-release-list-of-5-new-hindi-film-and-web-series-released-on-ott-this-week-473497 ",
     "time": "2026-04-17T07:19:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "મજા ન આવે તો પૈસા પાછા ! 75% બાયબેક ગેરંટી સાથે લોન્ચ એક શાનદાર SUV",
-    "desc": "લગભગ પાંચ વર્ષ પછી Volkswagen Taigunનું નવું ફેસલિફ્ટ મોડેલ લોન્ચ કરવામાં આવ્યું છે. આ SUV સાથે કંપની બાયબેક ગેરંટી પણ આપી રહી છે, જે હેઠળ ગ્રાહકોને વાહન પસંદ ન આવે તો 75% બાયબેક ગેરંટી આપવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/volkswagen-taigun-facelift-launched-know-price-features-and-mileage-473393 ",
-    "time": "2026-04-16T11:42:03.000Z"
   },
   {
     "cat": "Entertainment",

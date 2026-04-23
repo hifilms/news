@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "পণের টাকা দে, নয় তো ডিভোর্স দে: বর্বর হরিশের অত্যাচারে এক বছরের একরত্তিকে রেখেই চিরবিদায় নিলেন মেধাবী টেকি ভুবনেশ্বরী",
+    "desc": "পুলিস সূত্রে জানা গিয়েছে, মৃত তরুণী বেঙ্গালুরুর একটি নামী আইটি কোম্পানিতে কর্মরত ছিলেন। কয়েক বছর আগে দেখাশোনা করে তাঁর বিয়ে হয়েছিল। বিয়ের সময় কনের পরিবারের পক্ষ থেকে সাধ্যমতো দানসামগ্রী দেওয়া হলেও বিয়ের কিছুদিন পর থেকেই শুরু হয় অশান্তি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tech-professional-dies-in-bengaluru-leaving-one-year-child-claims-of-dowry-pressure-and-family-dispute-emerge_650305.html ",
+    "time": "2026-04-23T12:35:22.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "দিল্লিতে তরুণীকে ধর্ষণ-খুন করার আগে ১দিন আগেই গৃহবধূকেও নখদাঁতে ছিঁড়েছিল বর্বর রাহুল",
     "desc": "অনলাইন জুয়ায় আসক্ত রাহুল মীনা দেনার দায়ে রাজস্থান থেকে পালিয়ে দিল্লিতে আসে। সে তাঁর প্রাক্তন মালিকের বাড়িতে লুকিয়ে রাখা চাবি দিয়ে ঢুকে ইউপিএসসি পরীক্ষার্থী তরুণীকে ধর্ষণ ও খুন করে। চুরির উদ্দেশ্যে সে মৃত তরুণীর আঙুলের ছাপ দিয়ে ডিজিটাল লকার খোলার চেষ্টা করে",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -133,14 +142,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-payel-de-controversy-late-rahul-banerjee-portrait-disrespect_649341.html ",
     "time": "2026-04-18T12:22:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harmanpreet Kaur breaks Chamari Athapaththu's legendary record in India's third T20I vs South Africa",
+    "desc": "India captain Harmanpreet Kaur played a crucial knock of 66 runs off 38 balls in the third T20I against South Africa in Johannesburg. Opener Shafali Verma played an incredible knock of 64 runs, while Smriti...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpeet-kaur-breaks-chamari-athapaththu-s-legendary-record-in-india-s-third-t20i-vs-south-africa-2026-04-23-1038656",
+    "time": "2026-04-23T12:04:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I leave my personal ego in hotel'",
+    "desc": "Ravindra Jadeja was adjudged the Player of the Match for his incredible all-round show in the IPL 2026 clash against Lucknow Super Giants. Initially, he played a vital knock of unbeaten 43 runs off 29...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-leave-my-personal-ego-in-hotel-ravindra-jadeja-on-limited-bowling-in-ipl-2026-2026-04-23-1038652",
+    "time": "2026-04-23T11:32:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK announce former Mumbai Indians player as injury replacement for Ayush Mhatre",
+    "desc": "Chennai Super Kings have announced Akash Madhwal as an injury replacement for the injured Ayush Mhatre. The young Indian batter was ruled out earlier in the week, owing to a hamstring injury. He played a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-announce-former-mumbai-indians-player-as-injury-replacement-for-ayush-mhatre-2026-04-23-1038642",
+    "time": "2026-04-23T10:33:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Wankhede Stadium in Mumbai play?",
+    "desc": "After four defeats on the trot, Mumbai Indians finally returned to winning ways with a thumping 99-run win over Gujarat Titans in their previous game. Next up, the Hardik Pandya-led side will host their arch-rivals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-csk-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-04-23-1038639",
+    "time": "2026-04-23T10:19:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI tells Indian players to take Test cricket seriously, asks Jasprit Bumrah to play all WTC matches: Report",
     "desc": "The Board of Control for Cricket in India (BCCI) has taken Team India's recent downfall in Test cricket seriously. The board has told the players to prioritise the longest format of the game and has...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-set-new-ipl-record-for-rajasthan-royals-after-three-wicket-haul-against-lsg-2026-04-22-1038550",
     "time": "2026-04-22T18:16:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals move to second on points table after thrashing LSG in low-scoring affair in IPL 2026",
-    "desc": "Rajasthan Royals defeated Lucknow Super Giants by 40 runs at the Ekana Stadium in the ongoing IPL 2026. On a surface that was tough on the batters from the get go, the visitors struggled early...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-move-to-second-on-points-table-after-thrashing-lsg-in-low-scoring-affair-in-ipl-2026-2026-04-22-1038547",
-    "time": "2026-04-22T17:44:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chelsea announce new interim coach after sacking Liam Rosenior following 5 straight defeats in Premier League",
-    "desc": "Chelsea have sacked head coach Liam Rosenior after the club suffered five consecutive defeats in the Premier League, for the first time in 114 years. Earlier, the club management offered tremendous support to the English...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/chelsea-announce-new-interim-coach-after-sacking-liam-rosenior-following-5-straight-defeats-in-premier-league-2026-04-22-1038539",
-    "time": "2026-04-22T16:32:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jacob Bethell defends IPL stint after Alastair Cook's criticism, explains his preferred batting position",
-    "desc": "Jacob Bethell has made it clear that he prefers to bat at No. 3 in the England set-up, a position where he scored his maiden Test century earlier this year. Although speculation about him opening...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-defends-ipl-stint-after-alastair-cook-s-criticism-explains-his-preferred-batting-position-2026-04-22-1038536",
-    "time": "2026-04-22T16:07:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will MS Dhoni play in CSK's high-voltage clash against MI? Coach shares major update",
-    "desc": "Legendary cricketer MS Dhoni is yet to play a single game in the ongoing IPL 2026. The keeper-batter has been training with the squad for over two weeks now, but has been out of action,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-ms-dhoni-play-in-csk-s-high-voltage-clash-against-mi-coach-shares-major-update-2026-04-22-1038533",
-    "time": "2026-04-22T15:34:24.000Z"
   }
 ];
