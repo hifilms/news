@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'We haven't adjusted to it': LSG head coach compares Lucknow pitch to WACA after failing to chase 160 runs",
+    "desc": "Be it international cricket or the Indian Premier League (IPL), teams feel comfortable playing at their home ground and are aware of the conditions. Moreover, they also get call shots on what kind of pitches...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-haven-t-adjusted-to-it-lsg-head-coach-compares-lucknow-pitch-to-waca-after-failing-to-chase-160-runs-2026-04-23-1038565",
+    "time": "2026-04-23T02:15:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jofra Archer set new IPL record for Rajasthan Royals after three-wicket haul against LSG",
     "desc": "Ace pacer Jofra Archer claimed three wickets as Rajasthan Royals beat Lucknow Super Giants by 40 runs at the Ekana Stadium. With that, the England international has become the leading wicket-taker for Rajasthan in IPL...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/leicester-city-2016-premier-league-champions-relegated-to-third-division-what-went-wrong-in-last-10-years-2026-04-22-1038489",
     "time": "2026-04-22T10:42:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Even if Pat Cummins comes back, Ishan Kishan should continue captaining SRH: Sanjay Banger",
-    "desc": "Sunrisers Hyderabad captain Pat Cummins is yet to feature in the ongoing IPL 2026. He is still recovering from a lumber stress injury, but as the Australia international confirmed, he is set to be ready...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/even-if-pat-cummins-comes-back-ishan-kishan-should-continue-captaining-srh-sanjay-banger-2026-04-22-1038483",
-    "time": "2026-04-22T10:13:07.000Z"
   }
 ];

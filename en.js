@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "‘Dimaag me kuch nahi chalta’: Sooryavanshi reveals his pre-match routine",
+    "desc": "Fifteen-year-old Vaibhav Sooryavanshi became the youngest player to reach 500 IPL runs, achieving the milestone in just 227 balls. Despite a quiet 8 runs against Lucknow Super Giants, his record-breaking feat and admission of watching cartoons before matches captivated fans. Rajasthan Royals secured a 40-run victory, with Ravindra Jadeja earning Player of the Match.",
+    "img": "https://static.toiimg.com/photo/msid-130454832,imgsize-20998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-dimaag-me-kuch-nahi-chalta-vaibhav-sooryavanshi-reveals-his-pre-match-routine-watch/articleshow/130454801.cms",
+    "time": "2026-04-23T02:03:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Blake Lively's career 'ruined' amid lawsuit",
+    "desc": "Blake Lively wants a judge to allow jury to hear claims that director Justin Baldoni inquired about her weight, citing it as crucial context for her retaliation case. Baldoni argues the allegations are irrelevant. Meanwhile, reports suggest Lively's Hollywood career is suffering due to the ongoing legal battle, with industry insiders questioning her past popularity and bankability.",
+    "img": "https://static.toiimg.com/photo/msid-130454708,imgsize-135326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-livelys-hollywood-career-ruined-amid-ongoing-lawsuit-with-justin-baldoni/articleshow/130454403.cms",
+    "time": "2026-04-23T01:50:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Colman Domingo defends Michael Jackson biopic",
+    "desc": "The upcoming Michael Jackson biopic, 'Michael,' faces controversy over alleged whitewashing of child abuse allegations. Co-stars Colman Domingo and Nia Long state the film focuses on Jackson's rise to stardom until 1988, with a potential sequel to address later events. Director Antoine Fuqua expressed doubt about the accusations.",
+    "img": "https://static.toiimg.com/photo/msid-130454625,imgsize-127812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-jackson-biopic-colman-domingo-reacts-to-whitewashing-of-child-abuse-claims-says-its-an-intimate-portrait-of-who-/articleshow/130454607.cms",
+    "time": "2026-04-23T01:38:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Youngest and fastest! Sooryavanshi scripts history, breaks two major IPL records",
+    "desc": "Teenage sensation Vaibhav Sooryavanshi made history by becoming the youngest player to reach 500 Indian Premier League runs and the fastest by balls faced. Despite a quiet 8 runs, his achievement came during Rajasthan Royals' 40-run victory over Lucknow Super Giants. Ravindra Jadeja's all-round performance secured the win for RR.",
+    "img": "https://static.toiimg.com/photo/msid-130454598,imgsize-51370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-youngest-and-fastest-vaibhav-sooryavanshi-scripts-history-breaks-two-major-ipl-records/articleshow/130454580.cms",
+    "time": "2026-04-23T01:30:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "David Dhawan reveals why he NEVER directed Shah Rukh Khan",
+    "desc": "Veteran director David Dhawan finally revealed why he never collaborated with Shah Rukh Khan. Dhawan explained that during the time they considered working together, he was consistently occupied with multiple film projects. He emphasized that his career wasn't built around exclusively working with one star, having successfully directed actors like Govinda and Salman Khan. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130454367,imgsize-111848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/david-dhawan-reveals-why-he-never-directed-shah-rukh-khan-despite-rumored-collaboration-plans/articleshow/130454309.cms",
+    "time": "2026-04-23T01:02:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'LIK' BO: Pradeep Ranganathan film shows 7.5% growth",
+    "desc": "Love Insurance Kompany', is shining bright as it reports a 7.5% increase on its 13th day, raking in Rs 72 lakhs. Set against a futuristic backdrop of 2040, this film tackles the complexities of machine-mediated love. The overall box office collection has soared to Rs 39.",
+    "img": "https://static.toiimg.com/photo/msid-130454218,imgsize-132904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lik-box-office-collections-pradeep-ranganathan-film-shows-7-5-growth-overseas-crosses-rs-11-10-crore-mark/articleshow/130454213.cms",
+    "time": "2026-04-23T00:33:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jofra Archer creates history, goes past Yuzvendra Chahal to become…",
+    "desc": "Jofra Archer achieved a historic milestone for Rajasthan Royals. He became the franchise's leading IPL wicket-taker with a stellar bowling performance. Archer's spell secured a crucial victory for his team. Rajasthan bowlers defended a low total successfully. This win highlights the team's bowling strength. Archer's achievement marks his significant impact.",
+    "img": "https://static.toiimg.com/photo/msid-130450558,imgsize-120826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jofra-archer-creates-history-goes-past-yuzvendra-chahal-to-become/articleshow/130450583.cms",
+    "time": "2026-04-23T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jon Favreau OPPOSED Tony Stark’s death in 'Avengers: Endgame'",
+    "desc": "Endgame', fearing audience backlash. He believed the character's demise would deeply affect fans who grew up with him. However, Favreau later acknowledged the directors' masterful execution and the poignant performances by Robert Downey Jr. and Gwyneth Paltrow, admitting he was wrong about the impact.",
+    "img": "https://static.toiimg.com/photo/msid-130454205,imgsize-113110.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jon-favreau-admits-he-opposed-tony-starks-death-in-avengers-endgame-had-concerns-about-fan-reactions/articleshow/130454017.cms",
+    "time": "2026-04-23T00:29:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay's film crosses Rs 127 cr globally",
+    "desc": "Akshay Kumar's latest horror-comedy, 'Bhooth Bangla', is making waves at the box office, raking in over Rs 100 crore globally within its first four days. Although it faced a slight decline during the weekdays, the film still attracted audiences, collecting Rs 6.15 crore on Day 6 in India and pushing its total net earnings to Rs 78.90 crore. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130454190,imgsize-128444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-6-akshay-kumars-film-crosses-rs-127-crore-globally-maintains-lead-over-dhurandhar-2/articleshow/130454179.cms",
+    "time": "2026-04-23T00:29:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar 2’ marches slowly towards Rs 1770 cr worldwide",
+    "desc": "Ranveer Singh's spy thriller 'Dhurandhar 2' has crossed Rs 1,764 crore worldwide after a 35-day run. Despite initial dominance, Akshay Kumar's 'Bhooth Bangla' has now emerged as a strong competitor. 'Dhurandhar 2' continues its steady climb, aiming for Rs 1770 crore by the weekend, showcasing impressive longevity at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-130454178,imgsize-34446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-35-ranveer-singh-rakesh-bedis-film-marches-slowly-towards-rs-1770-cr-while-bhooth-bangla-soars/articleshow/130454170.cms",
+    "time": "2026-04-23T00:23:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dacoit' BO day 14: Adivi Sesh starrer crosses Rs 52.57 crores",
+    "desc": "Adivi Sesh and Mrunal Thakur's latest thriller 'Dacoit' has successfully collected over Rs 52 crore globally, showcasing its strong performance at the box office. Set against the backdrop of the COVID-19 pandemic, the film chronicles a man's relentless pursuit to free his imprisoned lover, weaving a tale filled with unexpected twists.",
+    "img": "https://static.toiimg.com/photo/msid-130454150,imgsize-94950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dacoit-box-office-collection-day-14-adivi-sesh-starrer-crosses-rs-52-57-crores-worldwide-steady-run-continues/articleshow/130454142.cms",
+    "time": "2026-04-23T00:16:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘MS Dhoni will only play when…’- CSK coach breaks silence ahead of crucial MI clash",
+    "desc": "Chennai Super Kings face uncertainty regarding MS Dhoni's return for IPL 2026 due to a persistent calf injury. Despite recent training, his comeback remains unconfirmed, with the team also grappling with other player injuries. This has impacted CSK's performance, placing them eighth on the table ahead of a crucial match against a confident Mumbai Indians.",
+    "img": "https://static.toiimg.com/photo/msid-130445802,imgsize-154836.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ms-dhoni-will-only-play-when-csk-coach-breaks-silence-ahead-of-crucial-mi-clash/articleshow/130445784.cms",
+    "time": "2026-04-22T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Darrell Sheets found dead with gunshot wound to the head",
+    "desc": "Storage Wars' beloved star, Darrell Sheets, has passed away at 67. Police are investigating his death, which appears to be a self-inflicted gunshot wound. Sheets, a fixture on the A&E show for over a decade, had largely retired from the auction business after a heart attack in 2019.",
+    "img": "https://static.toiimg.com/photo/msid-130453894,imgsize-99074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/storage-wars-star-darrell-sheets-dies-by-apparent-suicide-at-age-67-found-with-gunshot-wound-to-the-head/articleshow/130453889.cms",
+    "time": "2026-04-22T22:56:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tanushree claims ‘Bollywood mafia’ behind Sushant, Jiah's deaths",
+    "desc": "Tanushree Dutta has once again spoken out about the alleged existence of a ‘Bollywood mafia’, linking it to the deaths of actors Sushant Singh Rajput and Jiah Khan. In a recent conversation, the actress claimed that both stars were “troubled” and questioned the circumstances that led to their deaths. Questioning the idea of suicide, Tanushree said that people don’t take such decisions without being pushed to an extreme mental state.",
+    "img": "https://static.toiimg.com/photo/msid-130453883,imgsize-51954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanushree-dutta-claims-bollywood-mafia-behind-sushant-singh-rajput-jiah-khans-deaths-i-dont-believe-they-died-by-suicide/articleshow/130453870.cms",
+    "time": "2026-04-22T22:38:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Clayface': Tom Rhys Harries debuts as Batman villain",
+    "desc": "DC Studios is unleashing the terrifying origin of Batman's shape-shifting foe, Clayface, later this year. The film delves into Matt Hagen's descent into horror after a disfiguring attack and experimental treatment gone wrong. Directed by James Watkins and starring Tom Rhys Harries, this chilling tale promises a disturbing transformation. Prepare for a fright on October 23rd.",
+    "img": "https://static.toiimg.com/photo/msid-130452558,imgsize-82162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/clayface-teaser-tom-rhys-harries-debuts-as-shape-shifting-batman-villain-in-james-watkins-horror-flick-watch/articleshow/130452028.cms",
+    "time": "2026-04-22T22:29:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deven enjoyed Ranveer’s Dhurandhar like a front-bencher",
+    "desc": "Deven Bhojani, who is currently promoting his upcoming Gujarati film Dhabkaaro, recently opened up about films that have left a strong impression on him, singling out Dhurandhar for special praise. In a recent conversation, Bhojani said that watching Dhurandhar was an experience he thoroughly enjoyed.",
+    "img": "https://static.toiimg.com/photo/msid-130452009,imgsize-33306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deven-bhojani-says-he-enjoyed-ranveer-singhs-dhurandhar-franchise-like-a-front-bencher-i-kept-saying-ranveer-kya-baat-hai/articleshow/130451995.cms",
+    "time": "2026-04-22T21:45:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celeste Rivas cause of death revealed",
+    "desc": "A 14-year-old singer, Celeste Rivas Hernandez, was found dead in singer D4vd's car with 'penetrating injuries,' an autopsy revealed. Her body was severely decomposed, with missing parts. Drugs were found in her system. Prosecutors allege D4vd killed her to prevent her from revealing their sexual relationship, which began when she was 13. He faces murder charges.",
+    "img": "https://static.toiimg.com/photo/msid-130452005,imgsize-24702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/celeste-rivas-hernandez-cause-of-death-revealed-medical-examiner-says-teen-in-d4vd-murder-investigation-died-by-penetrating-injuries/articleshow/130451783.cms",
+    "time": "2026-04-22T21:43:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "The sides with the most explosive openers — PBKS (strike-rate of 202.88), SRH (182.90), RR (182.78), and RCB (162.09) — are in the top four spots 26 days into the tournament; three Indian southpaws — Abhishek, Suryavanshi and Priyansh — are the top-three six-hitting openers in this edition",
+    "img": "https://th-i.thgim.com/public/incoming/rlku2z/article70894555.ece/alternates/LANDSCAPE_1200/03_RVM_1436.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-openers-stats-analysis/article70894551.ece",
+    "time": "2026-04-22T21:11:24.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Uthangarai constituency braces for a two-cornered contest",
     "desc": "A water harvesting project from Paambaru Dam envisioning a watershed of 4,000 acres, an irrigation project tapping into the run-off from KRP Dam to fill up 34 lakes in Barur are among the two significant demands of farmers, where farming is affected by drought.",
@@ -63,6 +225,15 @@ const newsData_en = [
     "time": "2026-04-22T18:36:21.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Jadeja, Archer and Burger star as RR returns to winning ways, defeats LSG by 40 runs",
+    "desc": "Jadeja’s unbeaten 29-ball 43 lifts the visiting side to 159 for six on a spicy wicket; the new-ball pair wrecks LSG early in its chase before the home team gets bundled out for 119 despite opener Marsh’s fighting fifty",
+    "img": "https://th-i.thgim.com/public/incoming/6q2rve/article70894438.ece/alternates/LANDSCAPE_1200/51_RVM_3644.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/lsg-vs-rr-ipl-2026-match-updates-april-22/article70893446.ece",
+    "time": "2026-04-22T18:30:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Govt claims women winning unreserved panchayat seats in ‘significant numbers’",
     "desc": "Parliament data show 10 States/union territories where quota percentage is exceeded, but limited to an excess of up to 5 percentage points; four States/union territories were not meeting the quota, while five had just enough",
@@ -115,15 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-praises-blocking-of-taiwan-presidents-africa-trip-taipei-defiant/article70894322.ece",
     "time": "2026-04-22T17:30:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress candidate moves SC against telecast of PM’s address",
-    "desc": "“The broadcast constituted a misuse of state machinery and official media for electoral gain, targeted at specific Opposition parties by name, and was delivered without any sanction, authority, or justification under Constitution or any law”",
-    "img": "https://th-i.thgim.com/public/incoming/a9n8ia/article70894360.ece/alternates/LANDSCAPE_1200/PTI04_18_2026_000770A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-candidate-moves-supreme-court-against-telecast-of-pm-modis-address/article70893967.ece",
-    "time": "2026-04-22T17:28:34.000Z"
   },
   {
     "cat": "Sports",
@@ -207,15 +369,6 @@ const newsData_en = [
     "time": "2026-04-22T15:44:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sameer Anjaan reacts to Nora Fatehi's Sarke Chunar row",
-    "desc": "The Devil, and said that it is unfair to hold writers solely responsible for such content. However, he added that there is a difference between suggestive and deliberately vulgar content. Sameer also questioned the role of the Central Board of Film Certification (CBFC) and asked why the song was cleared in the first place.",
-    "img": "https://static.toiimg.com/photo/msid-130445962,imgsize-51122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sameer-anjaan-reacts-to-nora-fatehi-sanjay-dutts-sarke-chunar-row-phir-blue-films-banwa-ke-release-kar-do-kuch-dino-ke-baad/articleshow/130445901.cms",
-    "time": "2026-04-22T15:38:06.000Z"
-  },
-  {
     "cat": "World",
     "title": "Tamil Nadu and West Bengal to decide their fate tomorrow",
     "desc": "In today’s video, we cover the upcoming Tamil Nadu and West Bengal Assembly elections as attention turns to polling day. We also bring you the latest on the Iran–Israel conflict, a significant court ruling in the 2006 Malegaon blast case, and revisit Pahalgam a year after the attack.",
@@ -252,24 +405,6 @@ const newsData_en = [
     "time": "2026-04-22T15:17:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Panchayat' actor was surprised when Akshay asked a meal from his wife",
-    "desc": "Vinod Suryavanshi, known for 'Panchayat Season 3', shared his positive experience working with Akshay Kumar on 'Jolly LLB 3'. He recalled Akshay's warmth and a humorous incident involving homemade sabudana khichdi. Suryavanshi also detailed his accidental entry into acting as a junior artist and the harsh treatment faced by them.",
-    "img": "https://static.toiimg.com/photo/msid-130445300,imgsize-33552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/panchayat-actor-vinod-suryavanshi-reveals-being-surprised-when-akshay-kumar-asked-for-sabudana-khichdi-from-his-house-my-wife-didnt-believe/articleshow/130445249.cms",
-    "time": "2026-04-22T15:03:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jackie Jackson address rumors about late father Joe Jackson",
-    "desc": "In a recent statement, Jackie Jackson emphasized that Joe Jackson was not a tyrannical force behind the Jackson 5's rise to fame. Rather, he was a supportive father who recognized and cultivated his sons' love for music by supplying them with instruments and guidance. This revelation comes just as the much-anticipated biopic 'Michael' prepares for its debut.",
-    "img": "https://static.toiimg.com/photo/msid-130445199,imgsize-147594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jackie-jackson-talks-about-claims-of-their-father-forcing-them-into-jackson-5-we-wanted-to-do-it/articleshow/130445117.cms",
-    "time": "2026-04-22T14:57:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Trump sanctions waiver or not",
     "desc": "In March, with the US sanctions waiver in effect, India has aggressively procured Russian crude, picking up millions of barrels. India has never officially said that it will stop buying Russian crude, and even when levels dropped after sanctions, Russia was still the biggest contributor.",
@@ -277,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/iran-war-trump-sanctions-waiver-or-not-why-india-continues-to-buy-russian-oil/articleshow/130444719.cms",
     "time": "2026-04-22T14:45:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Raaka’ team confirms ‘Deepika Padukone plays crucial role’ in the movie",
-    "desc": "Amidst rumors of a reduced role, the 'Raaka' team has confirmed Deepika Padukone's pivotal involvement in Allu Arjun's film. The actress is actively shooting action sequences for the project, directed by Atlee, which is proceeding as planned and on schedule.",
-    "img": "https://static.toiimg.com/photo/msid-130444873,imgsize-56634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/raaka-team-shuts-down-baseless-rumours-and-confirms-deepika-padukone-plays-a-crucial-role-exclusive/articleshow/130444840.cms",
-    "time": "2026-04-22T14:44:57.000Z"
   },
   {
     "cat": "Sports",
@@ -306,24 +432,6 @@ const newsData_en = [
     "time": "2026-04-22T14:25:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' singer Jasmine on life-changing words by Premanand Maharaj",
-    "desc": "Singer Jasmine Sandlas revealed her journey through alcoholism and recovery, crediting spiritual leader Premanand Maharaj's guidance. A profound moment in Vrindavan, where Maharaj told her 'Say, Radha,' and declared it enough for her deliverance, deeply impacted her. This experience fostered a sense of being seen and fueled her desire to become a mother.",
-    "img": "https://static.toiimg.com/photo/msid-130444150,imgsize-32296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-singer-jasmine-sandlas-reveals-premanand-maharajs-words-which-are-tattooed-in-her-brain-i-felt-seen-that-day/articleshow/130444024.cms",
-    "time": "2026-04-22T14:14:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Veteran actress Elsie Kelly passes away",
-    "desc": "The entertainment world mourns the loss of Elsie Kelly, the esteemed actress whose portrayal of Noreen in 'Benidorm' endeared her to audiences for over a decade. At 89, Kelly's passing, confirmed by her agent after a short illness, marks the end of a remarkable career that celebrated her extraordinary gifts across TV, theatre, and film.",
-    "img": "https://static.toiimg.com/photo/msid-130443892,imgsize-4858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/veteran-actress-elsie-kelly-passes-away-at-89-tributes-pour-in/articleshow/130443841.cms",
-    "time": "2026-04-22T14:06:52.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall street opens in green on ceasefire extension relief",
     "desc": "Wall Street futures climbed Wednesday as President Trump extended the Iran ceasefire, easing immediate escalation fears. Despite Pakistani mediation, tensions remain with US naval blockades and Iranian ship seizures. Investors favor a negotiated peace over conflict. Strong corporate earnings, particularly from GE Vernova and Adobe, also boosted market sentiment, with Tesla and Southwest Airlines earnings awaited.",
@@ -342,24 +450,6 @@ const newsData_en = [
     "time": "2026-04-22T13:41:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'We will not give them a single rupee': BJP MP's remark sparks row in Gujarat; oppn files complaint",
-    "desc": "A political storm erupted in Gujarat as BJP MP Mitesh Patel allegedly threatened to withhold development grants from Anklav if voters elect Congress nominees. The opposition has filed a complaint with the State Election Commission, accusing the MP of voter intimidation and violating the Model Code of Conduct. The remarks were made during campaign rallies for upcoming local body polls.",
-    "img": "https://static.toiimg.com/photo/msid-130443341,imgsize-576628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-will-not-give-them-a-single-rupee-bjp-mps-remark-sparks-row-in-gujarat-oppn-files-complaint/articleshow/130443164.cms",
-    "time": "2026-04-22T13:41:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Langoor ko hoor mil gayi'",
-    "desc": "Actor Rajpal Yadav credits his wife Radha as his backbone, recalling their meeting in Calgary and her unwavering support. He emphasizes the importance of women in life, drawing parallels to 'naari shakti'. Radha's honest feedback on his films and management of his finances highlight their deep respect and understanding, despite an age gap.",
-    "img": "https://static.toiimg.com/photo/msid-130443172,imgsize-53024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-opens-up-on-10-12-year-age-gap-bonding-with-wife-radha-langoor-ko-hoor-mil-gayi/articleshow/130442992.cms",
-    "time": "2026-04-22T13:32:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ali Raza scripts history, becomes youngest bowler from Pakistan to ...",
     "desc": "Teen pacer Ali Raza etched his name in PSL history, becoming the youngest to claim a hat-trick. The 18-year-old achieved the feat for Peshawar Zalmi against Karachi Kings, finishing with 4/41. His spell dismantled Karachi’s lower order, restricting them despite Jason Roy’s 85. The milestone, first for Zalmi this season, highlights Raza’s immense promise and adds his name to an elite list of PSL hat-trick takers.",
@@ -369,33 +459,6 @@ const newsData_en = [
     "time": "2026-04-22T13:26:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Subhash praises Riteish Deshmukh’s ‘Raja Shivaji’",
-    "desc": "Subhash Ghai praised Riteish Deshmukh’s ‘Raja Shivaji’, calling it passionate and full of nationalistic energy, and described its trailer as “so rocking.” He also highlighted industry support from Sanjay Dutt and Abhishek Bachchan. The film, based on Chhatrapati Shivaji Maharaj, releases May 1, 2026, in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-130442777,imgsize-30836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/so-rocking-subhash-ghai-praises-riteish-deshmukhs-raja-shivaji-calls-it-full-of-nationalistic-energies/articleshow/130442777.cms",
-    "time": "2026-04-22T13:12:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kylie Jenner faces bias lawsuit from former staff",
-    "desc": "Kylie Jenner is facing serious allegations from a former housekeeper who has taken legal action, asserting claims of intense workplace harassment and discrimination related to her religious beliefs and nationality. The lawsuit details a troubling history of ignored complaints, which has compounded the emotional strain and led to PTSD.",
-    "img": "https://static.toiimg.com/photo/msid-130442456,imgsize-14232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kylie-jenner-named-in-lawsuit-alleging-workplace-discrimination-by-former-household-staff-report/articleshow/130442456.cms",
-    "time": "2026-04-22T13:04:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "EC issues notice to Congress chief Mallikarjun Kharge over 'terrorist' remark, seeks reply within 24 hours",
-    "desc": "Mallikarjun Kharge on Tuesday referred to PM Modi as a “terrorist” and later issued a clarification, in remarks expected to trigger political controversy during the ongoing election season. Kharge made the statement in Chennai at a press conference on the final day of campaigning for the Tamil Nadu assembly elections, scheduled for Thursday. He was criticising the opposition AIADMK over its alliance with PM Modi's BJP.",
-    "img": "https://static.toiimg.com/photo/msid-130442445,imgsize-104976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ec-issues-notice-to-congress-chief-kharge-over-terrorist-remark-on-pm-modi/articleshow/130442339.cms",
-    "time": "2026-04-22T12:58:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Champions League semifinals preview",
     "desc": "Title holder PSG seems to be the team to beat on paper; German giant Bayern, after sealing its Bundesliga title, will be buoyed by the fact that it can focus more on the Champions League; Arsenal and Atletico, on the other hand, are desperate to break the hoodoo this time around",
@@ -403,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/champions-league-2025-26-semifinal-preview/article70890220.ece",
     "time": "2026-04-22T12:55:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cash, liquor, drugs: EC seizures in Tamil Nadu and West Bengal cross Rs 1,000 crore ahead of assembly polls",
-    "desc": "Election authorities in West Bengal and Tamil Nadu have seized over Rs 1,000 crore in poll-related inducements, including cash, liquor, drugs, and precious metals. The Election Commission deployed extensive surveillance teams to curb voter influence and ensure fair elections, while also establishing grievance committees to address public concerns.",
-    "img": "https://static.toiimg.com/photo/msid-130442455,imgsize-57354.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cash-liquor-drugs-ec-seizures-in-tamil-nadu-and-west-bengal-cross-rs-1000-crore-ahead-of-assembly-polls/articleshow/130441999.cms",
-    "time": "2026-04-22T12:49:44.000Z"
   },
   {
     "cat": "Business",
@@ -450,15 +504,6 @@ const newsData_en = [
     "time": "2026-04-22T12:16:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mumtaz lifts weights at 78, lives by Akshay Kumar's fitness advice",
-    "desc": "Veteran actress Mumtaz, at 78, attributes her timeless charm and fitness to a disciplined lifestyle, including strict eating habits and consistent workouts. She revealed her secret is avoiding dinner entirely, finishing meals by 4 pm, a practice also endorsed by Akshay Kumar. Mumtaz emphasizes hard work and willpower as crucial for maintaining her health and appearance.",
-    "img": "https://static.toiimg.com/photo/msid-130440714,imgsize-50816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mumtaz-lifts-weights-at-78-live-by-akshay-kumars-fitness-advice-the-veteran-actress-spills-her-beauty-secrets/articleshow/130440460.cms",
-    "time": "2026-04-22T11:47:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Disappointed… but will come back stronger’- Ayush Mhatre sends emotional message",
     "desc": "Chennai Super Kings' campaign suffers a major blow as U19 World Cup-winning captain Ayush Mhatre is ruled out of IPL 2026 with a hamstring injury. Mhatre, CSK's leading scorer with 201 runs, expressed disappointment but vowed to return stronger. The franchise confirmed his absence, adding to their growing injury list.",
@@ -495,15 +540,6 @@ const newsData_en = [
     "time": "2026-04-22T11:16:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Couldn’t even hit a four at that age': Sooryavanshi leaves Markram stunned",
-    "desc": "Teen star Vaibhav Sooryavanshi continues to shine in IPL 2026, earning praise from Aiden Markram for his power-hitting. Nearing 500 runs, he remains key for Rajasthan Royals ahead of their clash with Lucknow Super Giants. Both teams seek a comeback, with the Ekana pitch expected to produce a balanced, competitive contest.",
-    "img": "https://static.toiimg.com/photo/msid-130439884,imgsize-51370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/couldnt-even-hit-a-four-at-that-age-vaibhav-sooryavanshi-leaves-aiden-markram-stunned/articleshow/130439897.cms",
-    "time": "2026-04-22T11:16:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Amazon's $30 mn deal: E-commerce giant signs carbon credit agreement with rice farmers",
     "desc": "Amazon has secured a significant $30 million deal for carbon credits from sustainable rice farming in India, a first of its kind in the country's agricultural sector. This initiative, involving over 13,000 farmers, aims to reduce methane emissions and support Amazon's net-zero targets by promoting water-saving cultivation techniques.",
@@ -522,15 +558,6 @@ const newsData_en = [
     "time": "2026-04-22T10:40:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Jofra Archer on the brink of history for RR, need 3 wickets to...",
-    "desc": "Jofra Archer is on the cusp of becoming Rajasthan Royals' all-time leading wicket-taker, needing just three more wickets to surpass Shane Watson. Archer's potent pace and control, especially in the powerplay, have been crucial for the Royals this season. This milestone looms as RR faces an under-pressure Lucknow Super Giants at home.",
-    "img": "https://static.toiimg.com/photo/msid-130438743,imgsize-1006693.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jofra-archer-on-the-brink-of-history-for-rr-need-3-wickets-to-/articleshow/130438658.cms",
-    "time": "2026-04-22T10:24:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Access has not tranlated to financial maturity in Rajasthan and Gujarat, says survey",
     "desc": "A recent study reveals that despite increased financial access in Gujarat and Rajasthan, many households lack financial maturity. Key issues include poor understanding of compound interest and inadequate retirement planning. Over half of respondents haven't started saving for retirement, and many rely on informal support for emergencies, highlighting a need for enhanced financial capability and resilience.",
@@ -538,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/access-has-not-tranlated-to-financial-maturity-in-rajasthan-and-gujarat-says-survey/articleshow/130437828.cms",
     "time": "2026-04-22T09:48:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 35 [LIVE]: Ranveer Singh film needs Rs. 114 crore to beat 'Pushpa 2'",
-    "desc": "The Revenge', starring Ranveer Singh, Sanjay Dutt, and R. Madhavan, continues its record-breaking theatrical run on Day 35. Directed by Aditya Dhar, the spy epic is currently chasing the all-time domestic record of the Allu Arjun starrer 'Pushpa 2'of Rs. 1234.1 crore. With live tracking showing steady afternoon occupancy, the espionage thriller remains a dominant force despite new competition. With its OTT release deferred to mid-May 2026, stay updated with all live Day 35 tracking and weekly breakdowns as 'Dhurandhar 2' chases Indian cinema's last great box office record.",
-    "img": "https://static.toiimg.com/photo/msid-130437324,imgsize-82736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-34-live-ranveer-singh-r-madhavan-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjun-film-needs-over-rs-114-crore-to-beat-allu-arjun-starrer-pushpa-2-lifetime-domestic-record-as-worldwide-gross-climbs-to-rs-1761-crore-on-fifth-wednesday-amid-akshay-kumar-and-priyadarshan-bhooth-bangla-release/articleshow/130437131.cms",
-    "time": "2026-04-22T09:44:23.000Z"
   },
   {
     "cat": "Sports",
@@ -583,33 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/tech-mahindra-q4-results-it-firm-beats-estimates-as-profit-jumps-16-yoy-rs-36/share-dividend-announced/articleshow/130437346.cms",
     "time": "2026-04-22T09:25:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhishek calls Aishwarya his soulmate, has BIG plans for their 20th anniversary",
-    "desc": "Abhishek Bachchan reminisced about his 19-year marriage to Aishwarya Rai Bachchan, recalling their initial platonic meeting on set and the gradual blossoming of their love. He revealed their connection solidified during 'Guru,' leading to his proposal in New York. Abhishek expressed gratitude for Aishwarya as a partner and mother, hinting at grand plans for their upcoming 20th anniversary.",
-    "img": "https://static.toiimg.com/photo/msid-130436904,imgsize-23046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-calls-aishwarya-rai-bachchan-his-soulmate-has-big-plans-for-their-20th-anniversary-full-credit-to-her-for-bringing-up-aaradhya/articleshow/130436870.cms",
-    "time": "2026-04-22T09:04:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He doesn't trust himself...': Finch questions 'attitude' of India's 'double-World Cup winner'",
-    "desc": "Delhi Capitals suffered their worst IPL 2026 defeat, conceding 242 runs to Sunrisers Hyderabad, largely due to Abhishek Sharma's unbeaten 135. Former captain Aaron Finch and Ravichandran Ashwin slammed Delhi's bowling strategy, particularly Axar Patel and Kuldeep Yadav bowling only two overs each, while part-time Nitish Rana completed his quota. This tactical decision drew significant criticism.",
-    "img": "https://static.toiimg.com/photo/msid-130436828,imgsize-1150287.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-he-doesnt-trust-himself-finch-questions-attitude-of-indias-double-world-cup-winner/articleshow/130436810.cms",
-    "time": "2026-04-22T08:58:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Have to give Abhishek Sharma leeway’: SRH’s Varun Aaron explains why",
-    "desc": "Sunrisers Hyderabad bowling coach Varun Aaron emphasised patience with high-impact players like Abhishek Sharma, who silenced critics with an unbeaten 135 against Delhi Capitals. Aaron highlighted Abhishek's maturity and ability to adapt his game. The bowlers, led by Eshan Malinga's four wickets, successfully defended the massive total, showcasing SRH's adaptable bowling strategy.",
-    "img": "https://static.toiimg.com/photo/msid-130436690,imgsize-131262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/have-to-give-abhishek-sharma-leeway-srhs-varun-aaron-explains-why/articleshow/130436686.cms",
-    "time": "2026-04-22T08:51:48.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
