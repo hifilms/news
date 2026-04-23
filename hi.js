@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will Rohit Sharma play against CSK today in 33rd match of IPL 2026? Here's an update",
+    "desc": "Mumbai Indians opener Rohit Sharma has not played the last two matches for the team in the ongoing edition of the Indian Premier League (IPL). He sustained a hamstring injury while batting in the game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-rohit-sharma-play-against-csk-today-in-33rd-match-of-ipl-2026-here-s-an-update-2026-04-23-1038592",
+    "time": "2026-04-23T04:58:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ruturaj Gaikwad shares massive update on veteran's chances to play MI vs CSK clash",
+    "desc": "Mumbai Indians and Chennai Super Kings will lock horns today in the 33rd match of the ongoing Indian Premier League (IPL) season at the Wankhede Stadium in Mumbai. Ahead of the marquee clash, the suspense...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-injury-update-ruturaj-gaikwad-shares-massive-update-on-veteran-s-chances-to-play-mi-vs-csk-clash-2026-04-23-1038571",
+    "time": "2026-04-23T03:17:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'We haven't adjusted to it': LSG head coach compares Lucknow pitch to WACA after failing to chase 160 runs",
     "desc": "Be it international cricket or the Indian Premier League (IPL), teams feel comfortable playing at their home ground and are aware of the conditions. Moreover, they also get call shots on what kind of pitches...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/lanka-premier-league-set-to-begin-on-july-10-final-on-august-5-2026-04-22-1038506",
     "time": "2026-04-22T12:05:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Nawaz tests positive for recreational drug use, ICC alerts Pakistan Cricket Board",
-    "desc": "All-rounder Mohammad Nawaz is currently under investigation by the Pakistan Cricket Board (PCB) after reportedly testing positive for recreational drug use. The incident has disrupted Nawaz’s plans to join Surrey for the T20 Blast in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-nawaz-tests-positive-for-recreational-drug-use-icc-alerts-pakistan-cricket-board-2026-04-22-1038497",
-    "time": "2026-04-22T11:21:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Leicester City, 2016 Premier League champions, relegated to third division",
-    "desc": "Leicester City’s fall from Premier League champions to relegation into League One has been nothing short of dramatic. Just ten years ago, the Foxes were celebrating a fairytale Premier League title, defying all expectations. Now,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/leicester-city-2016-premier-league-champions-relegated-to-third-division-what-went-wrong-in-last-10-years-2026-04-22-1038489",
-    "time": "2026-04-22T10:42:07.000Z"
   }
 ];
