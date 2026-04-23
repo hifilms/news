@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sanju Samson matches Rohit Sharma's legendary record with century against Mumbai Indians in IPL 2026",
+    "desc": "Chennai Super Kings opener Sanju Samson stole the show in the marquee clash against Mumbai Indians in the IPL 2026. When all the other batters were struggling to keep the scoreboard ticking, the keeper-batter took...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-matches-rohit-sharma-s-legendary-record-with-century-against-mumbai-indians-in-ipl-2026-2026-04-23-1038686",
+    "time": "2026-04-23T16:08:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals announce Ben Duckett's replacement, sign England's all-format cricketer for IPL 2026",
+    "desc": "Delhi Capitals signed Rehan Ahmed as Ben Duckett’s replacement for IPL 2026. A couple of days before the season began, Duckett informed the team management about his decision to focus on red-ball cricket and, hence,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-announce-ben-duckett-s-replacement-sign-england-s-all-format-cricketer-for-ipl-2026-2026-04-23-1038678",
+    "time": "2026-04-23T14:58:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are CSK players wearing black armbands in IPL 2026 clash against Mumbai Indians?",
+    "desc": "Chennai Super Kings players wore black armbands during their match against Mumbai Indians at the Wankhede Stadium as a mark of respect for Mukesh Choudhary’s mother, who passed away earlier in the week after a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-csk-players-wearing-black-armbands-in-ipl-2026-clash-against-mumbai-indians-2026-04-23-1038677",
+    "time": "2026-04-23T14:46:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When will Mumbai Indians batter return to playing XI?",
+    "desc": "Rohit Sharma injured his hamstring earlier in the IPL 2026. Since then, he has been out of action, while Mumbai Indians are yet to share a clear update about his possible return to the playing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-ruled-out-of-csk-clash-in-ipl-2026-when-will-mumbai-indians-batter-return-to-playing-xi-2026-04-23-1038670",
+    "time": "2026-04-23T13:55:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is MS Dhoni not playing against Mumbai Indians in IPL 2026? When will he play again?",
+    "desc": "Legendary Chennai Super Kings keeper-batter MS Dhoni is yet to gain full fitness and hence, will be missing the high-voltage clash against Mumbai Indians at the Wankhede Stadium. Earlier, reports claimed that the five-time winning...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ms-dhoni-not-playing-against-mumbai-indians-in-ipl-2026-when-will-he-play-again-2026-04-23-1038667",
+    "time": "2026-04-23T13:33:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lamine Yamal ruled out of seasona with hamstring injury, will he be fit for FIFA World Cup 2026?",
+    "desc": "FC Barcelona have confirmed that Lamine Yamal will miss the remainder of the season after sustaining a hamstring injury. Medical assessments were carried out, which indicate that the youngster has a muscle tear, leading the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lamine-yamal-ruled-out-of-seasona-with-hamstring-injury-will-he-be-fit-for-fifa-world-cup-2026-2026-04-23-1038665",
+    "time": "2026-04-23T13:20:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Harmanpreet Kaur breaks Chamari Athapaththu's legendary record in India's third T20I vs South Africa",
     "desc": "India captain Harmanpreet Kaur played a crucial knock of 66 runs off 38 balls in the third T20I against South Africa in Johannesburg. Opener Shafali Verma played an incredible knock of 64 runs, while Smriti...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-csk-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-04-23-1038639",
     "time": "2026-04-23T10:19:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI tells Indian players to take Test cricket seriously, asks Jasprit Bumrah to play all WTC matches: Report",
-    "desc": "The Board of Control for Cricket in India (BCCI) has taken Team India's recent downfall in Test cricket seriously. The board has told the players to prioritise the longest format of the game and has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-tells-indian-players-to-take-test-cricket-seriously-asks-jasprit-bumrah-to-play-all-wtc-matches-report-2026-04-23-1038621",
-    "time": "2026-04-23T08:32:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc cleared to travel to India, likely to play for Delhi Capitals in clash vs RR on May 1",
-    "desc": "Delhi Capitals are set to get a major boost in the ongoing edition of the Indian Premier League (IPL) as their fast bowler Mitchell Starc has been cleared by Cricket Australia to travel to India....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-cleared-to-travel-to-india-likely-to-play-for-delhi-capitals-in-clash-vs-rr-on-may-1-2026-04-23-1038601",
-    "time": "2026-04-23T05:58:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Rohit Sharma play against CSK today in 33rd match of IPL 2026? Here's an update",
-    "desc": "Mumbai Indians opener Rohit Sharma has not played the last two matches for the team in the ongoing edition of the Indian Premier League (IPL). He sustained a hamstring injury while batting in the game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-rohit-sharma-play-against-csk-today-in-33rd-match-of-ipl-2026-here-s-an-update-2026-04-23-1038592",
-    "time": "2026-04-23T04:58:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ruturaj Gaikwad shares massive update on veteran's chances to play MI vs CSK clash",
-    "desc": "Mumbai Indians and Chennai Super Kings will lock horns today in the 33rd match of the ongoing Indian Premier League (IPL) season at the Wankhede Stadium in Mumbai. Ahead of the marquee clash, the suspense...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-injury-update-ruturaj-gaikwad-shares-massive-update-on-veteran-s-chances-to-play-mi-vs-csk-clash-2026-04-23-1038571",
-    "time": "2026-04-23T03:17:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We haven't adjusted to it': LSG head coach compares Lucknow pitch to WACA after failing to chase 160 runs",
-    "desc": "Be it international cricket or the Indian Premier League (IPL), teams feel comfortable playing at their home ground and are aware of the conditions. Moreover, they also get call shots on what kind of pitches...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/we-haven-t-adjusted-to-it-lsg-head-coach-compares-lucknow-pitch-to-waca-after-failing-to-chase-160-runs-2026-04-23-1038565",
-    "time": "2026-04-23T02:15:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jofra Archer set new IPL record for Rajasthan Royals after three-wicket haul against LSG",
-    "desc": "Ace pacer Jofra Archer claimed three wickets as Rajasthan Royals beat Lucknow Super Giants by 40 runs at the Ekana Stadium. With that, the England international has become the leading wicket-taker for Rajasthan in IPL...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-set-new-ipl-record-for-rajasthan-royals-after-three-wicket-haul-against-lsg-2026-04-22-1038550",
-    "time": "2026-04-22T18:16:49.000Z"
   }
 ];

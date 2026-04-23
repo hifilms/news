@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ટ્રમ્પનું &amp;#039;મિશન ઈરાન&amp;#039; ડિકોડ: પરમાણુ ચીફે સુંદર યુવતી સામે વટાણા વેરી દીધા, ખોલી દીધો સિક્રેટ પ્લાન",
+    "desc": "આજે અમેરિકાથી એવા સમાચાર આવ્યા છે જેણે આખા પેન્ટાગોનને હચમચાવી દીધું છે અને ટ્રમ્પ પ્રશાસનને ટેન્શનમાં મૂકી દીધું છે. એક એવો વીડિયો સામે આવ્યો છે જેની કોઈએ કલ્પના નહોતી કરી. ટ્રમ્પના પરમાણુ અને રાસાયણિક ચીફ હની ટ્રેપનો શિકાર બન્યા અને લેડી એજન્ટ પાસે ખોલીથી અમેરિકાની પોલ. કેવી રીતે એક સુંદર મહિલા સામે ટ્રમ્પનું 'મિશન ઈરાન' ડિકોડ થયું ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/pentagon-security-breach-andrew-hugg-honey-trap-leaks-rump-iran-mission-secrets-474544 ",
+    "time": "2026-04-23T15:40:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારતીય મુસાફરો માટે ખુશખબર, હવે યુરોપના આ દેશમાં ટ્રાન્ઝિટ વીઝાની ઝંઝટમાંથી મળી મુક્તિ; જાણો શું છે નવો નિયમ",
+    "desc": "ફ્રાન્સે ભારતીયોને મોટી ભેટ આપી છે. ફ્રાન્સ દ્વારા ભારત માટે વીઝાના નિયમોમાં ફેરફાર કરવામાં આવ્યો છે, જેના કારણે હવે ભારતીય નાગરિકોને એરપોર્ટ ટ્રાન્ઝિટ વીઝાની જરૂર નહીં પડે. ભારતે ફ્રાન્સના આ નિર્ણયનું ઉમળકાભેર સ્વાગત કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/good-news-for-indian-travelers-now-no-visa-required-for-airport-transit-in-france-know-what-is-the-new-rule-474542 ",
+    "time": "2026-04-23T15:16:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં રેકોર્ડબ્રેક મતદાન, TMC અને ભાજપ માટે શું સંકેત? શું કહી રહ્યા છે નિષ્ણાતો",
+    "desc": "પશ્ચિમ બંગાળમાં પ્રથમ તબક્કાનું મતદાન પૂર્ણ થઈ ગયું છે. આ વખતે રેકોર્ડબ્રેક મતદાન થયું છે. એવું કહેવાય છે કે, રેકોર્ડબ્રેક મતદાન પાછળ ઘણા કારણો હોય છે. ઘણીવાર આ સત્તાધારી પક્ષની વિરુદ્ધ જાય છે તો ઘણીવાર તેની તરફેણમાં. જાણો આ વિશે નિષ્ણાતો શું કહી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/record-break-voting-in-west-bengal-1st-phase-what-signal-for-tmc-and-bjp-474529 ",
+    "time": "2026-04-23T14:27:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આખા દેશમાં સનસનાટી મચી જાય તેવો ક્રાઈમ : 19 વર્ષના યુવકે 24 કલાકમાં બે યુવતી પર બળાત્કાર કર્યા, એકની હત્યા કરી",
+    "desc": "દિલ્હીમાં IRS અધિકારીની દીકરીનો હત્યાંકાડ રુંવાડા ઉભા કરી દે તેવો છે. 19 વર્ષના યુવકે કોઈ વિચારી ન શકે તેવા હત્યાકાંડને અંજામ આપ્યો. રાજસ્થાનના અલવરમાં એક બળાત્કાર કર્યા બાદ તેણે દિલ્હીમાં આવીને માલિકની દીકરી સાથે બળાત્કાર કર્યો અને તેની હત્યા પણ કરી",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/irs-officer-daughter-rape-and-murder-case-in-delhi-2-rapes-one-murder-in-24-hours-474522 ",
+    "time": "2026-04-23T13:28:19.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "મોબાઈલ યુઝર્સ માટે મોટા સમાચાર ! હવે WhatsApp દ્વારા પણ કરી શકાશે રિચાર્જ, જાણો કેવી રીતે",
     "desc": "WhatsAppમાં એક નવું અને જરૂરી ફીચર લોન્ચ કરવામાં આવ્યું છે. હવે WhatsApp દ્વારા મોબાઈલ રિચાર્જ પણ કરી શકાશે. કંપનીએ આ માટે પેમેન્ટ ફર્મ PayU સાથે ભાગીદારી કરી છે. ત્યારે આ લેખમાં જાણીશું કે આ ફીચર કેવી રીતે કામ કરશે.",
@@ -448,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/allahabad-high-court-important-verdict-reject-husband-plea-citing-poor-finances-474108 ",
     "time": "2026-04-21T06:00:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહિલાઓ માટે LICની મેગા ઓફર, ઘરે બેઠા કમાઓ રૂપિયા 84000, જાણો કેવી રીતે",
-    "desc": "ભારત સરકાર મહિલાઓને સશક્ત બનાવવા માટે સતત પ્રયાસો કરી રહી છે. આ પહેલને અનુરૂપ LIC દ્વારા બીમા સખી યોજના શરૂ કરવામાં આવી હતી. ત્યારે શું છે આ યોજના અને કેવી રીતે મહિલાઓ ઘરે બેઠા વાર્ષિક રૂપિયા 84000 કમાઈ શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lic-bima-sakhi-yojana-for-womens-earn-rs-84000-per-year-474096 ",
-    "time": "2026-04-21T05:16:41.000Z"
   },
   {
     "cat": "World",
