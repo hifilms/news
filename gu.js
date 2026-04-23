@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "પેટ્રોલ અને ડીઝલના ભાવમાં થઈ શકે છે 28 રૂપિયા સુધીનો વધારો! જાણો ક્યારે લાગશે ઝટકો? બ્રોકરેજ ફર્મે આપ્યો સંકેત",
+    "desc": "કોટક ઇન્સ્ટિટ્યૂશનલ ઇક્વિટીઝે સંકેત આપ્યા છે કે, પેટ્રોલ અને ડીઝલના ભાવમાં પ્રતિ લિટર 25 રૂપિયાથી 28 રૂપિયા સુધીનો વધારો થઈ શકે છે. નોંધનીય છે કે, પશ્ચિમ એશિયામાં ચાલી રહેલા સંઘર્ષને કારણે સ્ટ્રેટ ઓફ હોર્મુઝમાં પેદા થયેલા અવરોધોને લીધે ઓઈલ માર્કેટમાં ભારે ઉતાર-ચઢાવ જોવા મળી રહ્યો છે. જોકે, સરકારના પેટ્રોલિયમ મંત્રાલયે આ બાબતને અફવા ગણાવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-hike-prediction-kotak-equities-lok-sabha-election-impact-474363 ",
+    "time": "2026-04-23T07:10:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "26.11 KM માઇલેજ, 6 એરબેગ, કિંમત ₹8.80 લાખ! આ છે દેશની સૌથી વધુ વેચાતી 7-સીટર કાર",
+    "desc": "FY 2025-26 માં 7-સીટર કારની ડિમાન્ડમાં જબરદસ્ત વધારો જોવા મળ્યો છે. મારૂતિ અર્ટિગાએ એકવાર ફરી નંબર 1ની પોઝીશન હાસિલ કરી છે, જ્યારે Mahindra Scorpio અને Toyota Innova નું વેચાણ પણ વધ્યું છે. તો કેટલાક મોડલ્સના વેચાણમાં ઘટાડો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/best-selling-7-seater-cars-india-maruti-ertiga-number-1-toyota-innova-secend-474440 ",
+    "time": "2026-04-23T07:07:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આ ડોક્યુમેન્ટ વગર હવે નહીં મળે પેટ્રોલ-ડીઝલ કે CNG...નવો નિયમ લાગુ !",
+    "desc": "દિલ્હીના મુખ્યમંત્રી રેખા ગુપ્તાએ જણાવ્યું હતું કે, રાજધાનીમાં પ્રદૂષણને નિયંત્રિત કરવા માટે કડક પગલાં લેતા અમારી સરકારે નિર્ણય લીધો છે કે દિલ્હીમાં માન્ય 'પોલ્યુશન અંડર કંટ્રોલ' (PUC) સર્ટિફિકેટ વિનાના વાહનોને હવે ફ્યુઅલ આપવામાં આવશે નહીં. આજથી દિલ્હીમાં આ નિયમ કડક રીતે લાગુ કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/no-puc-no-fuel-rule-implemented-in-delhi-to-control-pollution-474439 ",
+    "time": "2026-04-23T06:53:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બજાર ખુલતાની સાથે જ સોનું-ચાંદી ધડામ, હાઈથી સોનું 28000 અને ચાંદી 1.75 લાખ સસ્તા, જાણો આજનો ભાવ",
+    "desc": "સોના અને ચાંદીમાં એકવાર ફરીથી મોટો કડાકો જોવા મળ્યો છે. ક્રૂડ ઓઈલનો ભાવ ઉછાળા મારી રહ્યો છે ત્યાં કિંમતી ધાતુઓમાં પછડાટ જોવા મળી રહી છે. આજે વાયદા બજારમાં ભાવ ખુલતાની સાથે ગગડેલા જોવા મળ્યા. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/silver-price-down-gold-also-fall-on-mcx-check-latest-rates-aaj-no-sona-chandi-no-bhav-ahmedabad-rates-474410 ",
+    "time": "2026-04-23T06:50:58.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "₹11.49 લાખની Sierra કે ₹10.99 લાખની Seltos, બેઝ મોડલમાં કઈ SUV આપે છે વધુ ફીચર્સ?",
+    "desc": "Tata Sierra અને Kia Seltos ના બેઝ મોડલમાં મોટો મુકાબલો જોવા મળે છે. Sierra Smart+ માં વધુ સેફ્ટી ફીચર્સ જેમ કે 6 એરબેગ, ઈએસપી અને ડિસ્ક બ્રેક મળે છે, જેનાથી તે વધુ સુરક્ષિત વિકલ્પ બને છે. તો Seltos HTE માં મોટી ટચસ્ક્રીન, ડિજિટલ ક્લસ્ટર અને સ્માર્ટ કનેક્ટિવિટી ફીચર્સ મળે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/best-suv-under-12-lakh-tata-sierra-vs-kia-seltos-features-comparison-474415 ",
+    "time": "2026-04-23T05:33:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "LPG સિલિન્ડરના નવા ભાવ જાહેર, વિશ્વભરમાં વધ્યા ભાવ, જાણો ભારતમાં શું છે સ્થિતિ",
     "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા તણાવ વચ્ચે ભારતમાં સરકારી ઓઈલ માર્કેટિંગ કંપનીઓએ LPGના નવા ભાવ જાહેર કર્યા છે. વિશ્વભરમાં ભાવ વધ્યા છે, છતાં ભારતમાં LPGના ભાવ સ્થિર છે. ત્યારે દેશના મુખ્ય શહેરોમાં આજનો ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -9,15 +54,6 @@ const newsData_gu = [
     "time": "2026-04-23T05:25:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "બજાર ખુલતાની સાથે જ સોનું-ચાંદી ધડામ, હાઈથી સોનું 28000 અને ચાંદી 1.75 લાખ સસ્તા, જાણો આજનો ભાવ",
-    "desc": "સોના અને ચાંદીમાં એકવાર ફરીથી મોટો કડાકો જોવા મળ્યો છે. ક્રૂડ ઓઈલનો ભાવ ઉછાળા મારી રહ્યો છે ત્યાં કિંમતી ધાતુઓમાં પછડાટ જોવા મળી રહી છે. આજે વાયદા બજારમાં ભાવ ખુલતાની સાથે ગગડેલા જોવા મળ્યા. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/silver-price-down-gold-also-fall-on-mcx-check-latest-rates-aaj-no-sona-chandi-no-bhav-ahmedabad-rates-474410 ",
-    "time": "2026-04-23T05:24:17.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "પેટ્રોલ-ડીઝલના ભાવમાં તોળાઈ રહ્યો છે વધારો, જાણો પ્રતિ લીટર કેટલો વધી શકે ભાવ?",
     "desc": "દેશમાં હાલ પાંચ રાજ્યોમાં વિધાનસભા ચૂંટણીઓ થઈ રહી છે. એક બાજુ મિડલ ઈસ્ટમાં ભારે તણાવનો માહોલ છે, હોર્મુઝનું સંકટ યથાવત છે. આ બધા સંકેતોને પગલે પેટ્રોલ-ડીઝલના ભાવ પર વધારાનું જોખમ પણ તોળાયેલું છે. જાણો કેટલો વધી શકે ભાવ?",
@@ -25,15 +61,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/petrol-and-diesel-prices-may-increase-after-assembly-elections-know-why-474396 ",
     "time": "2026-04-23T03:54:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેટ્રોલ અને ડીઝલના ભાવમાં થઈ શકે છે 28 રૂપિયા સુધીનો વધારો! જાણો ક્યારે લાગશે ઝટકો? બ્રોકરેજ ફર્મે આપ્યો સંકેત",
-    "desc": "કોટક ઇન્સ્ટિટ્યૂશનલ ઇક્વિટીઝે સંકેત આપ્યા છે કે, પેટ્રોલ અને ડીઝલના ભાવમાં પ્રતિ લિટર 25 રૂપિયાથી 28 રૂપિયા સુધીનો વધારો થઈ શકે છે. નોંધનીય છે કે, પશ્ચિમ એશિયામાં ચાલી રહેલા સંઘર્ષને કારણે સ્ટ્રેટ ઓફ હોર્મુઝમાં પેદા થયેલા અવરોધોને લીધે ઓઈલ માર્કેટમાં ભારે ઉતાર-ચઢાવ જોવા મળી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-hike-prediction-kotak-equities-lok-sabha-election-impact-474363 ",
-    "time": "2026-04-22T17:57:42.000Z"
   },
   {
     "cat": "Business",
@@ -540,15 +567,6 @@ const newsData_gu = [
     "time": "2026-04-19T16:32:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPLમાં &amp;#039;પ્લેયર ઓફ ધ મેચ&amp;#039; એવોર્ડ કોને મળશે તે કોણ નક્કી કરે છે ? 90% લોકો નહીં જાણતા હોય",
-    "desc": "IPL 2026નો રોમાંચ ચાલુ છે. ટુર્નામેન્ટ ઝડપથી આગળ વધી રહી છે. આ વચ્ચે રોયલ ચેલેન્જર્સ બેંગ્લોર અને લખનૌ સુપર જાયન્ટ્સ વચ્ચેની મેચ બાદ 'પ્લેયર ઓફ ધ મેચ' એવોર્ડને લઈને એક મોટો વિવાદ ઉભો થયો હતો. ત્યારે આ લેખમાં જાણીશું કે IPLમાં પ્લેયર ઓફ ધ મેચ'નો નિર્ણય કોણ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-decides-who-gets-the-player-of-the-match-award-in-ipl-473878 ",
-    "time": "2026-04-19T11:54:20.000Z"
-  },
-  {
     "cat": "World",
     "title": "નોસ્ટ્રાડેમસની ભવિષ્યવાણીઓ પડી ફીકી! NASAના સુપરકોમ્પ્યુટરે જણાવી દીધી દુનિયા ખતમ થવાની ચોક્કસ તારીખ?",
     "desc": "વૈજ્ઞાનિકો કાઝુમી ઓઝાકી અને ક્રિસ્ટોફર રેનહાર્ડના રિસર્ચ અનુસાર, લગભગ 100 કરોડ વર્ષ પછી પૃથ્વી પર ઓક્સિજન ખતમ થઈ શકે છે. NASAના મોડેલ્સ જણાવે છે કે, ત્યારે જીવન લગભગ અસંભવ હશે. જો કે, અત્યારે ચિંતાનું મોટું કારણ ક્લાઈમેટ ચેન્જ છે.",
@@ -574,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/india-russia-defense-plan-3000-soldiers-10-fighter-jets-to-be-deployed-in-russia-473850 ",
     "time": "2026-04-19T08:59:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "26 વર્ષ બાદ ન્યાય: કોર્ટે CBIના જોઈન્ટ ડાયરેક્ટર અને DPના નિવૃત્ત ACPને જાહેર કર્યા દોષિત",
-    "desc": "દિલ્હીની તીસ હજારી કોર્ટે 26 વર્ષ જૂના એક કેસમાં બે ઉચ્ચ અધિકારીઓને દોષિત જાહેર કરીને સીમાચિહ્નરૂપ ચુકાદો આપ્યો છે. દોષિતોમાં CBIના વર્તમાન જોઈન્ટ ડાયરેક્ટર અને દિલ્હી પોલીસના એક નિવૃત્ત ACPનો સમાવેશ થાય છે. કોર્ટે બંનેને મારપીટ, ગુનાહિત અતિક્રમણ અને તોફાન કરવાના કેસમાં દોષિત ઠેરવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-court-convicts-cbi-joint-director-retired-acp-for-malicious-2000-raid-justice-after-26-years-473836 ",
-    "time": "2026-04-19T08:27:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -664,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-psycho-thriller-hindi-film-on-prime-video-psycho-thriller-film-level-cross-story-473176 ",
     "time": "2026-04-15T08:13:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "એક્સચેન્જ કે એસેસરીઝ નહીં, આ ઇલેક્ટ્રિક SUV પર મળી રહ્યું છે ₹2.50 લાખ રોકડ ડિસ્કાઉન્ટ, કિંમતમાં થયો આટલો ઘટાડો",
-    "desc": "કંપની આ ઇલેક્ટ્રિક SUVના EC Pro અને EL Pro વેરિઅન્ટ્સ પર આ ડિસ્કાઉન્ટ આપી રહી છે. ગ્રાહકો માટે સારા સમાચાર એ છે કે આ ડિસ્કાઉન્ટ એક્સચેન્જ, કોર્પોરેટ અથવા એસેસરીઝને બદલે સીધા રોકડ સ્વરૂપમાં આપવામાં આવી રહ્યું છે. આનાથી તમારા ખિસ્સામાં સીધા 2.50 લાખ રૂપિયાની બચત થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/no-exchange-or-accessories-this-electric-suv-is-getting-a-cash-discount-of-rs-2-50-lakh-the-price-has-been-reduced-by-this-much-473144 ",
-    "time": "2026-04-15T05:09:20.000Z"
   },
   {
     "cat": "Entertainment",

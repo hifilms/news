@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mitchell Starc cleared to travel to India, likely to play for Delhi Capitals in clash vs RR on May 1",
+    "desc": "Delhi Capitals are set to get a major boost in the ongoing edition of the Indian Premier League (IPL) as their fast bowler Mitchell Starc has been cleared by Cricket Australia to travel to India....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-cleared-to-travel-to-india-likely-to-play-for-delhi-capitals-in-clash-vs-rr-on-may-1-2026-04-23-1038601",
+    "time": "2026-04-23T05:58:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will Rohit Sharma play against CSK today in 33rd match of IPL 2026? Here's an update",
     "desc": "Mumbai Indians opener Rohit Sharma has not played the last two matches for the team in the ongoing edition of the Indian Premier League (IPL). He sustained a hamstring injury while batting in the game...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/lsg-s-rs-11-crore-player-returns-to-playing-xi-against-rajasthan-royals-in-ipl-2026-2026-04-22-1038520",
     "time": "2026-04-22T13:48:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lanka Premier League set to begin on July 10, final on August 5",
-    "desc": "The Sinhalese Sports Club (SSC) in Colombo will be joining the list of venues for the Lanka Premier League (LPL) in 2026. This marks a big milestone for the tournament, as SSC will host matches...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lanka-premier-league-set-to-begin-on-july-10-final-on-august-5-2026-04-22-1038506",
-    "time": "2026-04-22T12:05:11.000Z"
   }
 ];

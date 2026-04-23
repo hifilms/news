@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "বিয়ের ১ মাসেই মা হচ্ছেন কুম্ভখ্যাত 'নাবালিকা' মোনালিসা? তদন্তের মুখে ফরমান খানের বিস্ফোরক দাবি",
+    "desc": "কেরালামের তিরুঅনন্তপুরমে চাঞ্চল্যকর বিয়ে থেকে শুরু করে 'লভ জিহাদ'-এর অভিযোগ— 'কুম্ভমেলার মোনালিসা' এবং ফরমান খানের কাহিনিতে এবার যোগ হলো এক নতুন নাটকীয় মোড়। বিয়ের মাত্র এক মাস পেরোতেই মোনালিসার অন্তঃসত্ত্বা হওয়ার দাবি ঘিরে ঘনীভূত হচ্ছে রহস্য।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/kumbh-mela-monalisa-farman-khan-marriage-pregnancy-claims-pocso-case-update_650202.html ",
+    "time": "2026-04-23T06:29:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'আমাকে কন্ট্রোল করতে চাইত, কথা না শোনায় চড়ও মেরেছে', মহেশের বিরুদ্ধে বিস্ফোরক অভিযোগ? মুখ খুললেন পাক অভিনেত্রী মীরা",
+    "desc": "\"আলিয়া আমার সাথেই ঘুমোত!\" পুরনো দিনের স্মৃতি হাতড়ে বিস্ফোরক দাবি পাকিস্তানি অভিনেত্রী মীরার। শুধু তাই নয়, মহেশ ভাটের বিরুদ্ধে ওঠা একদা নিজের আনা শারীরিক হেনস্থার অভিযোগ নিয়েও মুখ খোলেন। বলিউডের সেই দিনগুলো নিয়ে আর কী কী বললেন মীরা?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/pakistani-actress-meera-alia-bhatt-mahesh-bhatt-harassment-claims-clarification_650196.html ",
+    "time": "2026-04-23T05:46:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "আমার গ্রামে এখনও আমাকে মন্দিরে ঢুকতে দেয় না, কারণ আমি দলিত: বিস্ফোরক অভিযোগ 'পঞ্চায়েত' অভিনেতার",
     "desc": "'পঞ্চায়েত' সিরিজের সিজন ৪-এর সেই নতুন 'সচিব জি', যাঁর অভিনয় অল্প সময়ের জন্য হলেও দর্শকদের নজর কেড়েছিল, সেই বিনোদ সূর্যবংশীর বাস্তব জীবন কোনো সিনেমার চিত্রনাট্যের চেয়ে কম যন্ত্রণাদায়ক নয়। সম্প্রতি এক সাক্ষাৎকারে নিজের জীবনের অন্ধকার অধ্যায় এবং জাতিভেদের চরম বাস্তব নিয়ে মুখ খুলেছেন এই অভিনেতা।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -106,5 +124,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-payel-de-controversy-late-rahul-banerjee-portrait-disrespect_649341.html ",
     "time": "2026-04-18T12:22:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
