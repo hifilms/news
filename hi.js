@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Praful Hinge reveals chat with Ian Bishop, recalls injury setback and Varun Aaron's priceless pep-talk",
+    "desc": "Praful Hinge established his authority with a four-wicket haul in his debut IPL game. He dismissed Vaibhav Sooryavanshi, Dhruv Jurel, Lhuan-dre Pretorious and Riyan Parag, leaving Rajasthan Royals clueless in the middle. Courtesy of his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/praful-hinge-reveals-chat-with-ian-bishop-recalls-injury-setback-and-varun-aaron-s-priceless-pep-talk-2026-04-23-1038694",
+    "time": "2026-04-23T18:08:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson's record-breaking day helps Chennai embarrass Mumbai Indians at Wankhede",
+    "desc": "Chenani Super Kings opener Sanju Samson once again proved his mettle in the ongoing IPL 2026. The keeper-batter smacked unbeaten 101 runs off 54 deliveries as the visitors posted 207 runs on the board at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-s-record-breaking-day-helps-chenani-embarrass-mumbai-indians-at-wankhede-2026-04-23-1038691",
+    "time": "2026-04-23T17:51:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanju Samson matches Rohit Sharma's legendary record with century against Mumbai Indians in IPL 2026",
     "desc": "Chennai Super Kings opener Sanju Samson stole the show in the marquee clash against Mumbai Indians in the IPL 2026. When all the other batters were struggling to keep the scoreboard ticking, the keeper-batter took...",
     "img": "",
@@ -46,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Lamine Yamal ruled out of seasona with hamstring injury, will he be fit for FIFA World Cup 2026?",
+    "title": "Lamine Yamal ruled out of season with hamstring injury, will he be fit for FIFA World Cup 2026?",
     "desc": "FC Barcelona have confirmed that Lamine Yamal will miss the remainder of the season after sustaining a hamstring injury. Medical assessments were carried out, which indicate that the youngster has a muscle tear, leading the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/i-leave-my-personal-ego-in-hotel-ravindra-jadeja-on-limited-bowling-in-ipl-2026-2026-04-23-1038652",
     "time": "2026-04-23T11:32:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK announce former Mumbai Indians player as injury replacement for Ayush Mhatre",
-    "desc": "Chennai Super Kings have announced Akash Madhwal as an injury replacement for the injured Ayush Mhatre. The young Indian batter was ruled out earlier in the week, owing to a hamstring injury. He played a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-announce-former-mumbai-indians-player-as-injury-replacement-for-ayush-mhatre-2026-04-23-1038642",
-    "time": "2026-04-23T10:33:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Wankhede Stadium in Mumbai play?",
-    "desc": "After four defeats on the trot, Mumbai Indians finally returned to winning ways with a thumping 99-run win over Gujarat Titans in their previous game. Next up, the Hardik Pandya-led side will host their arch-rivals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-csk-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-04-23-1038639",
-    "time": "2026-04-23T10:19:11.000Z"
   }
 ];

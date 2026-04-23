@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Recent hits give Malayalam film industry a shot in the arm",
+    "desc": "A couple of young and talented filmmakers have scripted success in the Malayalam film industry through their recent ventures. G. Krishnakumar finds out how the youngsters have rekindled hope in the industry that has been struggling to stay afloat",
+    "img": "https://th-i.thgim.com/public/incoming/tuixbc/article70898028.ece/alternates/LANDSCAPE_1200/Film03.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/recent-hits-give-malayalam-film-industry-a-shot-in-the-arm/article70893244.ece",
+    "time": "2026-04-23T18:59:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A.P., T.N. fishermen embroiled in a row",
+    "desc": "The seizure of four mechanised boats owned by Tamil Nadu fishermen at Juvvaladinne Fishing Harbour in Nellore district by local fisherfolk has prompted the Andhra Pradesh government to reinitiate boat patrolling across four coastal districts, bringing to the fore yet again a four-decade-old issue of illegal intrusion. The conflict takes a political turn and the repercussions are witnessed in 164 A.P. villages, narrates N. S. Chowdary",
+    "img": "https://th-i.thgim.com/public/incoming/ezb9py/article70898748.ece/alternates/LANDSCAPE_1200/10745_23_4_2026_13_40_10_2_DSC_9050JPG.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/troubled-waters-ap-tn-fishermen-embroiled-in-a-row/article70896501.ece",
+    "time": "2026-04-23T18:43:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rihanna returns to India after two years, arrives in Mumbai",
+    "desc": "Global pop star Rihanna is back in India. Two years after her much-talked-about performance in the country, the singer was spotted arriving in Mumbai on Thursday evening. The singer, who recently welcomed her third child, greeted the paparazzi warmly upon arrival and was escorted by security personnel at the airport.",
+    "img": "https://static.toiimg.com/photo/msid-130476806,imgsize-38558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihanna-returns-to-india-after-two-years-arrives-in-mumbai-ahead-of-fenty-beauty-launch-in-the-city/articleshow/130476731.cms",
+    "time": "2026-04-23T18:14:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After Dhurandhar success, Rakesh Bedi gets Rs 1 cr bonus",
+    "desc": "Veteran actor Rakesh Bedi is reaping the rewards of the blockbuster success of Aditya Dhar's Dhurandhar (2025) and Dhurandhar The Revenge (2026), starring Ranveer Singh. Known for his impeccable comic timing and vast body of work, the actor has witnessed a fresh surge in popularity with the franchise. It has now emerged that the makers went a step further to reward him for his standout performance.",
+    "img": "https://static.toiimg.com/photo/msid-130476264,imgsize-37652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-dhurandhar-success-rakesh-bedi-gets-rs-1-crore-bonus-after-impressing-as-jameel-jamali-in-ranveer-singh-starrer-franchise/articleshow/130474576.cms",
+    "time": "2026-04-23T17:53:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Smacks of ulterior motives': Congress to EC on notice to Mallikarjun Kharge over terrorist remark",
+    "desc": "The Congress has submitted a preliminary response to the Election Commission's notice concerning party president Mallikarjun Kharge's \"terrorist\" remark. The party alleges the notice, citing discrepancies and a rushed deadline, indicates ulterior motives and a lack of due diligence. They have requested a week to provide a detailed reply and seek an audience with the EC.",
+    "img": "https://static.toiimg.com/photo/msid-130476254,imgsize-26214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/smacks-of-ulterior-motives-congress-to-ec-on-notice-to-mallikarjun-kharge-over-terrorist-remark/articleshow/130476267.cms",
+    "time": "2026-04-23T17:52:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bombay HC pulls up NIA for delays in 2006 Malegaon blast investigation",
+    "desc": "The Division Bench observed that the Special Judge under the National Investigation Agency (NIA) Act had not applied judicial mind to the materials placed before the court and had considered evidence that is not admissible in law to frame charges",
+    "img": "https://th-i.thgim.com/public/incoming/dz2ja0/article70896209.ece/alternates/LANDSCAPE_1200/3_MALEGAON_BLAST_VB.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/mumbai/2006-malegaon-blasts-case-reached-dead-end-high-court-raps-nia-for-overlooking-evidence/article70896162.ece",
+    "time": "2026-04-23T17:27:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump's 'Gold Card' visa: One cleared, hundreds await as $1 million residency plan rolls out",
+    "desc": "The Trump administration's 'Gold Card' visa program, offering US residency for a $1 million fee, has approved only one applicant to date. Commerce Secretary Howard Lutnick stated hundreds more are under review, with all applicants undergoing extensive vetting and paying a $15,000 processing fee. The initiative aims to attract wealthy and skilled individuals to the US.",
+    "img": "https://static.toiimg.com/photo/msid-130475480,imgsize-219428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-gold-card-visa-one-cleared-hundreds-await-as-1-million-residency-plan-rolls-out/articleshow/130475439.cms",
+    "time": "2026-04-23T17:24:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nepal’s customs duty is the outcome of a ‘pre-existing provision’, will not affect ‘household goods’: India",
+    "desc": "The rule makes it mandatory for travellers carrying goods worth more than one hundred Nepali rupee (NPR) to pay customs duty on the goods. It is aimed at protecting traders in border towns who complain that visitors do not buy things from them as they enter the country after buying things from the Indian side of the border",
+    "img": "https://th-i.thgim.com/public/incoming/ae8dnh/article70898896.ece/alternates/LANDSCAPE_1200/PTI04_17_2026_000356B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nepals-customs-duty-is-the-outcome-of-a-pre-existing-provision-will-not-affect-household-goods-india/article70898572.ece",
+    "time": "2026-04-23T17:21:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI warns of 'second-round effects' amid West Asia tensions",
+    "desc": "The RBI cautioned about potential second-round effects from the West Asia conflict, where supply shocks could morph into demand pressures. Persistent geopolitical tensions and rising energy costs are creating global macroeconomic uncertainty, necessitating continuous assessment of inflation and growth risks.",
+    "img": "https://static.toiimg.com/photo/msid-130475050,imgsize-914319.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/global-price-shock-rbi-warns-of-second-round-effects-amid-west-asia-tensions/articleshow/130474935.cms",
+    "time": "2026-04-23T17:09:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SSUS to initiate inquiry",
+    "desc": "The release of Sri Tirthapada Puranam, a biography of Chattampi Swamikal published by the varsity, was reportedly cancelled at the last minute after it was found that only four volumes had been printed, while the other bound volumes kept in a box were blank",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/book-release-controversy-ssus-to-initiate-inquiry/article70897491.ece",
+    "time": "2026-04-23T17:09:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Above 92% turnout in Bengal, 85% in Tamil Nadu amid poll violence",
+    "desc": "In today’s episode, we look at the key election trends in Tamil Nadu and West Bengal, tracking major shifts ahead of polling. We also cover the political row in the United States over birthright citizenship, rising tensions in West Asia around the Strait of Hormuz, and a significant change in West Bengal’s campaign landscape, and more",
+    "img": "https://th-i.thgim.com/public/news/national/vvkkg5/article70898800.ece/alternates/LANDSCAPE_1200/23%20April%20THUMB%20.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-above-92-turnout-in-bengal-85-in-tamil-nadu-amid-poll-violence-above-the-fold-23042026/article70898876.ece",
+    "time": "2026-04-23T17:09:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Being transparent helped me heal’",
+    "desc": "In a heartfelt disclosure, musician Kehlani shared her transformative experience navigating life after being diagnosed with Borderline Personality Disorder. She highlighted the importance of recognizing her emotional triggers and symptoms while fostering an atmosphere of honesty with friends and family. This candid approach equips her support network to step in during challenging times, laying down a meaningful road towards healing.",
+    "img": "https://static.toiimg.com/photo/msid-130474943,imgsize-4858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kehlani-talks-about-the-clarity-she-gained-after-bpd-diagnosis-being-transparent-helped-me-heal/articleshow/130474923.cms",
+    "time": "2026-04-23T17:04:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 85% voter turnout in State for the first time since Independence",
+    "desc": "Limited bus services affect polling day travel; robots dressed in 'dhavanis' (half-sarees) welcome and assist voters in several booths across the State; several young voters show up in colour-coded outfits, purportedly in support of TVK",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-voting-live-updates-23-april-2026/article70894196.ece",
+    "time": "2026-04-23T16:55:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala on the brink of heatwave, Chief Minister calls for ‘self-lockdown’",
+    "desc": "IMD Director says though heatwave has not been technically declared, the hot and humid conditions are at times comparable to heatwave. Intense heat, coupled with high humidity, is likely to persist at least till April 27",
+    "img": "https://th-i.thgim.com/public/incoming/4es6mq/article70898782.ece/alternates/LANDSCAPE_1200/80688_23_4_2026_19_53_3_1_CONSTRUCTIONWORKER_KKN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-on-the-brink-of-heatwave-chief-minister-calls-for-self-lockdown/article70898132.ece",
+    "time": "2026-04-23T16:39:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark",
+    "desc": "India has labeled US President Donald Trump's \"hell hole\" remark on the country as \"uninformed\" and \"inappropriate.\" The MEA spokesperson stated the comments do not reflect the reality of the strong India-US relationship, which is built on mutual respect and shared interests. Trump had reshared a post on Truth Social using derogatory terms for India and China.",
+    "img": "https://static.toiimg.com/photo/msid-130474348,imgsize-717634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uninformed-inappropriate-india-slams-donald-trump-over-hell-hole-remark/articleshow/130474352.cms",
+    "time": "2026-04-23T16:37:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "rights panel",
+    "desc": "The petitioner who is married to an Indian had complained that a swimming pool assistant racially and verbally abused her and some friends claiming they were foreign citizens and not allowed to the use the pool at Greenfield Stadium in Thiruvananthapuram",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/iranian-student-has-right-to-use-swimming-pool-rights-panel/article70898630.ece",
+    "time": "2026-04-23T16:26:32.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Lok Ayukta orders probe against police, MVD, Cars24 for selling vehicle without transferring ownership",
     "desc": "The seller found himself named as a respondent in a motor accident claim case following an accident involving the car, which was no longer in his possession. He had also received tickets for traffic violations committed using the vehicle",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -36,6 +180,15 @@ const newsData_en = [
     "time": "2026-04-23T16:11:32.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Congress attacks government for permitting ethanol in aircraft fuel",
+    "desc": "Party’s Kerala unit says the blended fuel should be first used in PM Narendra Modi’s aircraft or Union Minister Nitin Gadkari’s private jet for a couple of years, prove it is safe, and only then consider introducing it to the public",
+    "img": "https://th-i.thgim.com/public/incoming/1306st/article70898150.ece/alternates/LANDSCAPE_1200/BVR_7052.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-attacks-government-for-permitting-ethanol-in-aircraft-fuel/article70897648.ece",
+    "time": "2026-04-23T16:04:22.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Sanju Samson scripts history vs MI in IPL, becomes only CSK batter to...",
     "desc": "Sanju Samson completed his century on the last ball of the innings with a four off Krish Bhagat's bowl. That was his second century of the season, his second for CSK and his fifth in the IPL history.",
@@ -43,42 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/csks-sanju-samson-scripts-history-vs-mi-in-ipl-joins-rohit-sharma-and-kl-rahul-to-become-/articleshow/130471413.cms",
     "time": "2026-04-23T16:03:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SSUS to initiate inquiry",
-    "desc": "The release of Sri Tirthapada Puranam, a biography of Chattampi Swamikal published by the varsity, was reportedly cancelled at the last minute after it was found that only four volumes had been printed, while the other bound volumes kept in a box were blank",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/book-release-controversy-ssus-to-initiate-inquiry/article70897491.ece",
-    "time": "2026-04-23T15:53:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Over 85% voter turnout in State for the first time since Independence",
-    "desc": "Limited bus services affect polling day travel; robots dressed in 'dhavanis' (half-sarees) welcome and assist voters in several booths across the State; several young voters show up in colour-coded outfits, purportedly in support of TVK",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-voting-live-updates-23-april-2026/article70894196.ece",
-    "time": "2026-04-23T15:48:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Quiet Tarluvada readies for Google AI data centre",
-    "desc": "Nestled in Anandapuram mandal outside Greater Visakhapatnam Municipal Corporation limits, the hamlet will host Google’s first hyperscale 1 GW AI data centre outside the United States; the foundation stone is to be laid on April 28.",
-    "img": "https://th-i.thgim.com/public/incoming/5v54ud/article70897386.ece/alternates/LANDSCAPE_1200/AP%20Village.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/quiet-tarluvada-readies-for-google-ai-data-centre/article70896848.ece",
-    "time": "2026-04-23T15:46:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dipankar Bhattacharya",
-    "desc": "The Left’s vote share has declined drastically in West Bengal and it needs a ‘critical mass’ to get back into the Assembly, says the Communist Party of India (Marxist-Leninist) Liberation general secretary; he calls the SIR exercise ‘the beginning of disempowerment’, says the Communist movement must pay attention to rural Bengal and address the issues of the new generation, such as the Noida protests",
-    "img": "https://th-i.thgim.com/public/news/national/hctr8n/article70897613.ece/alternates/LANDSCAPE_1200/IMG20260422151028.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/broaderleft-unity-is-the-way-back-into-the-west-bengal-assembly-dipankar-bhattacharya/article70897024.ece",
-    "time": "2026-04-23T15:31:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -109,39 +226,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Kerala on the brink of heatwave, Chief Minister calls for ‘self-lockdown’",
-    "desc": "IMD Director says though heatwave has not been technically declared, the hot and humid conditions are at times comparable to heatwave. Intense heat, coupled with high humidity, is likely to persist at least till April 27",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-on-the-brink-of-heatwave-chief-minister-calls-for-self-lockdown/article70898132.ece",
-    "time": "2026-04-23T15:08:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vengaivayal, where water tank was contaminated with human faeces in 2022, boycotts the poll",
-    "desc": "The boycott stems from the alleged contamination of an overhead tank supplying drinking water to the SC hamlet with human faeces — an incident that triggered widespread outrage and is currently under investigation by the CB-CID",
-    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/um1rt/article70896235.ece/alternates/LANDSCAPE_1200/HGkWpL4aYAA4Oc-.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-elections-scheduled-caste-hamlet-of-vengaivayal-boycotts-polls/article70896211.ece",
-    "time": "2026-04-23T15:02:27.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Will missing Stalin-Rahul ‘brotherhood’ hurt alliance in Tamil Nadu?",
     "desc": "The absence of joint rallies between Rahul Gandhi and alliance partners like MK Stalin in Tamil Nadu raises concerns about Congress's coalition strategy. This visual gap fuels speculation and opposition attacks, contrasting with proactive alliance building seen from other INDIA bloc leaders like Arvind Kejriwal.",
     "img": "https://static.toiimg.com/photo/msid-130472120,imgsize-944431.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-the-optics-deficit-will-missing-stalin-rahul-brotherhood-hurt-alliance/articleshow/130471890.cms",
     "time": "2026-04-23T14:55:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Congress attacks government for permitting ethanol in aircraft fuel",
-    "desc": "Party’s Kerala unit says the blended fuel should be first used in PM Narendra Modi’s aircraft or Union Minister Nitin Gadkari’s private jet for a couple of years, prove it is safe, and only then consider introducing it to the public",
-    "img": "https://th-i.thgim.com/public/incoming/1306st/article70898150.ece/alternates/LANDSCAPE_1200/BVR_7052.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-attacks-government-for-permitting-ethanol-in-aircraft-fuel/article70897648.ece",
-    "time": "2026-04-23T14:39:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +405,6 @@ const newsData_en = [
     "time": "2026-04-23T11:27:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Deepika-Ranveer 'Nashe Si' dance viral after pregnancy news clip",
-    "desc": "A nostalgic video of Deepika Padukone and Ranveer Singh dancing and sharing a tender kiss has gone viral after they announced their exciting second pregnancy. The clip, taken from the celebratory evening of the '83' premiere, radiates their incredible chemistry, sparking renewed admiration for their enduring love and expanding family.",
-    "img": "https://static.toiimg.com/photo/msid-130466327,imgsize-48072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-and-ranveer-singhs-throwback-nashe-si-chadh-gayi-dance-clip-goes-viral-after-second-pregnancy-announcement-watch/articleshow/130466327.cms",
-    "time": "2026-04-23T11:25:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Dhoni plays with 'Champak', return buzz grows ahead of MI vs CSK clash",
     "desc": "MS Dhoni, recovering from a calf strain, was seen practicing and playfully interacting with a robot dog at the Wankhede Stadium. His return to the field for Chennai Super Kings' clash against Mumbai Indians is highly anticipated, with former cricketer Ravichandran Ashwin confident in his fitness and ability to bolster CSK's finishing power.",
@@ -331,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ms-dhoni-plays-with-champak-return-buzz-grows-ahead-of-csk-vs-mi-clash/articleshow/130465659.cms",
     "time": "2026-04-23T11:04:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I wasn't told to give up non-veg food': Mumtaz on marrying a Hindu",
-    "desc": "Veteran actor Mumtaz shares her journey from child artist to stardom. She discusses her hit pairings and a marriage proposal from Shammi Kapoor. Mumtaz chose her career then. Later, she married businessman Mayur Madhvani and left films at her peak. She also clarifies her platonic relationship with Feroz Khan.",
-    "img": "https://static.toiimg.com/photo/msid-130465254,imgsize-59848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-wasnt-told-to-give-up-non-veg-food-says-mumtaz-on-marrying-a-hindu-we-never-differentiated-between-religions/articleshow/130465119.cms",
-    "time": "2026-04-23T10:44:48.000Z"
   },
   {
     "cat": "Politics",
@@ -441,15 +513,6 @@ const newsData_en = [
     "time": "2026-04-23T09:02:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court says it won’t rely on ‘WhatsApp University’ in religious freedom cases",
-    "desc": "The Supreme Court, while hearing a case on gender discrimination in temples, cautioned against relying on information from 'WhatsApp University.' A nine-judge bench, led by the Chief Justice, emphasized that while eminent authors' views are respected, personal opinions are not sufficient for judicial decisions. The court acknowledged the difficulty in defining essential religious practices.",
-    "img": "https://static.toiimg.com/photo/msid-130462633,imgsize-1279994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/women-entry-in-sabarimala-supreme-court-says-it-wont-rely-on-whatsapp-university-in-religious-freedom-cases/articleshow/130462092.cms",
-    "time": "2026-04-23T08:53:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Nuwan Thushara withdraws case against SLC after missing IPL 2026",
     "desc": "Sri Lankan fast bowler Nuwan Thushara has ended his legal dispute with Sri Lanka Cricket. He withdrew his case against the board regarding his participation in IPL 2026. Thushara had challenged the denial of a No Objection Certificate due to fitness standards. The case was dismissed after his request. Thushara has also apologized to SLC.",
@@ -484,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/kevin-pietersen-drops-no-idea-of-ipl-bombshell-on-alastair-cook-over-bethell-exit-advice/articleshow/130461697.cms",
     "time": "2026-04-23T08:08:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Thunderous jolt': PM Modi hits back at TMC’s 'jhalmuri' dig with 'chillies' barb",
-    "desc": "Prime Minister Modi playfully responded to opposition criticism about his unscheduled jhalmuri stop in West Bengal, stating the state will celebrate BJP's victory with sweets and the popular snack. He suggested the TMC felt the \"heat of chillies\" from his brief break, while the TMC accused him of staging a \"scripted drama\" and humiliating an Adivasi leader.",
-    "img": "https://static.toiimg.com/photo/msid-130461717,imgsize-25752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/thunderous-jolt-pm-modi-hits-back-at-tmcs-jhalmuri-dig-with-chillies-barb/articleshow/130461710.cms",
-    "time": "2026-04-23T08:08:31.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +603,6 @@ const newsData_en = [
     "time": "2026-04-23T06:19:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Will Rohit Sharma play today against CSK at Wankhede?",
-    "desc": "Rohit Sharma's availability for Mumbai Indians' clash against Chennai Super Kings on April 23, 2026, remains uncertain due to a hamstring injury. While seen batting in nets, his participation will be a last-minute decision. If fit to bat only, he could feature as an Impact Player, given his significant record against CSK.",
-    "img": "https://static.toiimg.com/photo/msid-130458206,imgsize-112546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/will-rohit-sharma-play-today-against-chennai-super-kings-at-wankhede/articleshow/130458188.cms",
-    "time": "2026-04-23T05:38:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "Donald Trump should lift the blockade",
     "desc": "If Donald Trump wants a negotiated exit, he should lift the blockade in return for Iran easing its restrictions on the Strait of Hormuz. Tehran, too, should step back from maximalist positions and be ready to make concessions on the nuclear front in exchange for sanctions relief and security guarantees. What West Asia needs is economic and strategic stability, not forever wars.",
@@ -565,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-donald-trump-should-lift-the-blockade-the-hindu-editorial/article70895995.ece",
     "time": "2026-04-23T05:37:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chelsea sack coach Rosenior as Blues hit historic low with five straight defeats",
-    "desc": "Chelsea FC has sacked head coach Liam Rosenior after less than four months following a historic run of five consecutive Premier League defeats without scoring. The decision comes after a 3-0 loss to Brighton, with the club citing performances falling below necessary standards. Assistant coach Calum McFarlane takes interim charge as Chelsea seeks to salvage European qualification.",
-    "img": "https://static.toiimg.com/photo/msid-130457872,imgsize-67048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/chelsea-sack-coach-liam-rosenior-as-blues-hit-historic-low-with-five-straight-epl-defeats/articleshow/130457811.cms",
-    "time": "2026-04-23T05:19:18.000Z"
   },
   {
     "cat": "Business",
@@ -792,15 +828,6 @@ const newsData_en = [
     "time": "2026-04-22T05:10:56.000Z"
   },
   {
-    "cat": "World",
-    "title": "Several killed in fireworks unit blast in Kerala",
-    "desc": "Today’s Above the Fold episode, take a closer look at the tragic blast in Thrissur, Kerala. We begin with India’s outreach to West Asia, including a key visit to Saudi Arabia, followed by the end of campaigning ahead of the Tamil Nadu and West Bengal Assembly polls. In global news, Apple is set for a leadership change, and more.",
-    "img": "https://th-i.thgim.com/public/news/national/n7zp3g/article70890025.ece/alternates/LANDSCAPE_1200/21%20April%20THUMB%202%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/several-killed-in-fireworks-unit-blast-in-kerala-above-the-fold-21042026/article70889816.ece",
-    "time": "2026-04-21T16:36:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Can Israel’s economy sustain conflicts on multiple fronts?",
     "desc": "The Bank of Israel’s preliminary estimates suggest that Israel’s war with Iran came at the cost of 35 billion shekels ($11.52 billion) in budgetary expenses. Its operations in Gaza till 2025 cost the country around 8.6% of its annual gross domestic product.",
@@ -826,15 +853,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/csk-suffers-setback-as-ayush-mhatre-ruled-out-of-ipl-2026/article70888131.ece",
     "time": "2026-04-21T10:30:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock markets trade higher in early session",
-    "desc": "Also, Brent crude oil prices trading below the $100 per barrel mark provided optimism to the markets. The 30-share BSE Sensex climbed 445.82 points to 78,966.12 in early trade. The 50-share NSE Nifty advanced 121.15 points to 24,486",
-    "img": "https://th-i.thgim.com/public/news/national/jke78y/article70887344.ece/alternates/LANDSCAPE_1200/iStock-1253811918%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/stock-markets-trade-higher-in-early-session/article70887317.ece",
-    "time": "2026-04-21T05:49:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances/article70880082.ece",
     "time": "2026-04-19T08:07:43.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
