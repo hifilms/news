@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI tells Indian players to take Test cricket seriously, asks Jasprit Bumrah to play all WTC matches: Report",
+    "desc": "The Board of Control for Cricket in India (BCCI) has taken Team India's recent downfall in Test cricket seriously. The board has told the players to prioritise the longest format of the game and has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-tells-indian-players-to-take-test-cricket-seriously-asks-jasprit-bumrah-to-play-all-wtc-matches-report-2026-04-23-1038621",
+    "time": "2026-04-23T08:32:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mitchell Starc cleared to travel to India, likely to play for Delhi Capitals in clash vs RR on May 1",
     "desc": "Delhi Capitals are set to get a major boost in the ongoing edition of the Indian Premier League (IPL) as their fast bowler Mitchell Starc has been cleared by Cricket Australia to travel to India....",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/will-ms-dhoni-play-in-csk-s-high-voltage-clash-against-mi-coach-shares-major-update-2026-04-22-1038533",
     "time": "2026-04-22T15:34:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG's Rs 11 crore player returns to playing XI against Rajasthan Royals in IPL 2026",
-    "desc": "After being sidelined for nearly a year, Mayank Yadav returns to professional cricket. The ace pacer suffered a lower back stress fracture last May and has been out of action since. He recently featured for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-s-rs-11-crore-player-returns-to-playing-xi-against-rajasthan-royals-in-ipl-2026-2026-04-22-1038520",
-    "time": "2026-04-22T13:48:29.000Z"
   }
 ];
