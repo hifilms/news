@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand veteran Suzie Bates to retire from international cricket after T20 World Cup",
+    "desc": "New Zealand veteran Suzie Bates has confirmed that she will retire from international cricket after the upcoming T20 World Cup in June in England and Wales. She will bring curtains down on an illustrious career...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-veteran-suzie-bates-to-retire-from-international-cricket-after-t20-world-cup-2026-04-24-1038731",
+    "time": "2026-04-24T06:22:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bangladesh get closer to England in rankings as ODI World Cup 2027 qualification looms",
     "desc": "Bangladesh won the third and final ODI against New Zealand on Thursday to seal a memorable series win by a 2-1 margin in Chattogram. With this series win, they added four rating points to their...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-ruled-out-of-csk-clash-in-ipl-2026-when-will-mumbai-indians-batter-return-to-playing-xi-2026-04-23-1038670",
     "time": "2026-04-23T13:55:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is MS Dhoni not playing against Mumbai Indians in IPL 2026? When will he play again?",
-    "desc": "Legendary Chennai Super Kings keeper-batter MS Dhoni is yet to gain full fitness and hence, will be missing the high-voltage clash against Mumbai Indians at the Wankhede Stadium. Earlier, reports claimed that the five-time winning...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ms-dhoni-not-playing-against-mumbai-indians-in-ipl-2026-when-will-he-play-again-2026-04-23-1038667",
-    "time": "2026-04-23T13:33:35.000Z"
   }
 ];

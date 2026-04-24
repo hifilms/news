@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "સ્ક્રીન પર ફ્લોટ થશે મેસેજ! WhatsAppનું નવું ફીચર બદલી નાંખશે ચેટની ગેમ, આવી રહ્યું છે આ નવું ફીચર",
+    "desc": "WhatsApp ટૂંક સમયમાં એક એવું ફીચર લાવવા જઈ રહ્યું છે, જેના કારણે તમારે વારંવાર એપ ખોલવાની જરૂર નહીં પડે. 'નોટિફિકેશન બબલ' નામનું આ નવું ફીચર સીધું સ્ક્રીન પર મેસેજ દેખાડશે અને ત્યાંથી જ રિપ્લાય કરવાનો ઓપ્શન પણ આપશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/messages-will-float-on-the-screen-whatsapps-new-feature-is-set-to-revolutionize-the-chat-experience-this-new-feature-is-on-its-way-474594 ",
+    "time": "2026-04-24T07:09:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઈલમાં ઉછાળાથી સોનામાં હાહાકાર! જાણો કેટલું સસ્તું થયું ગોલ્ડ? કેરેટ પ્રમાણે સોનાનો ભાવ જાણો",
+    "desc": "મિડલ ઈસ્ટ તણાવ અને હોર્મુઝનું સંકટ યથાવત રહેતા ક્રૂડ ઓઈલના ભાવમાં ઉછાળા મારી રહ્યા છે. જેને પગલે કિંમતી ધાતુઓ પર દબાણ જોવા મળી રહ્યું છે. આજે વાયદા બજારમાં સોનું અને ચાંદી કડાકા સાથે જોવા મળી રહ્યા છે. જ્યારે રિટેલ બજારમાં સોનું તૂટ્યું અને ચાંદી સામાન્ય ઉછાળા સાથે જોવા મળી છે. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-prices-come-under-pressure-check-silver-price-mcx-ibja-latest-rates-aaj-no-sona-no-bhav-474592 ",
+    "time": "2026-04-24T06:56:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ભૂત બંગલા ફિલ્મનું બજેટ વસુલ, હવે ફિલ્મની કમાઈ રહી છે નફો, 7 દિવસમાં ફિલ્મ 130 કરોડને પાર",
+    "desc": "14 વર્ષ પછી અક્ષય કુમાર અને પ્રિયદર્શનની જોડી જમાવતી ફિલ્મ ભૂત બંગલા રિલીઝ થઈ છે. આ ફિલ્મ રિલીઝ થઈ તેને 7 દિવસ થયા છે અને હવે ફિલ્મ જે કમાણી કરી રહી છે તે નફો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-film-bhoot-bangla-box-office-collection-latest-news-in-gujarati-474593 ",
+    "time": "2026-04-24T06:55:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "1 મેથી બદલાઈ જશે EPFOમાં પૈસા ઉપાડવાનો નિયમ, ખાલી આટલું કરી નાંખજો, નહીં પડે કોઈ તકલીફ",
+    "desc": "જો તમારું પીએફ (PF) એકાઉન્ટ છે, તો તમારા માટે આ એક ખૂબ જ મહત્વપૂર્ણ અપડેટ છે. હવે તમે UPI દ્વારા પીએફના પૈસા ઉપાડી શકશો. 1 મે 2026 થી EPFO ના આ નવા નિયમો લાગુ થવા જઈ રહ્યા છે. હવે અઠવાડિયાની રાહ જોવાનો અંત આવશે અને મિનિટોમાં તમારા ખાતામાં પૈસા જમા થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/pf-withdrawal-rules-how-much-provident-fund-balance-can-you-withdraw-using-atm-and-upi-474591 ",
+    "time": "2026-04-24T06:53:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પપ્પા, મારા મૃતદેહને હાથ ન લગાવતા...! વકીલ દીકરાએ બે પાનાની અંતિમ નોટમાં દર્દભરી કહાની લખી",
+    "desc": "કાનપુરમાં એડવોકેટની પ્રેક્ટિસ કરી રહેલા યુવા પ્રિયાંશુ શ્રીવાસ્તવે સરકારી કચેરીના પાંચમાં માળેથી મોતની છલાંગ લગાવીને મોત વ્હાલુ કર્યું. મોતના ત્રણ કલાક પહેલા તેણે પોતાના હાથથી લખેલી બે પાનાની સ્યૂસાઈડ નોટને મોબાઈનો વોટ્સએપ સ્ટેટસ પર લગાવી હતી, પિતા વિશે કરેલા આક્ષેપોને વાંચ્યા બાદ ભલભલાના રુંવાડા ઉભા થઈ જશે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/young-lawer-priyanshu-final-wish-before-end-his-life-in-two-page-last-note-for-father-474589 ",
+    "time": "2026-04-24T06:39:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બીજા ફેઝમાં પણ બહાર ન નીકળતા, નહીં તો ઉલ્ટા લટકાવીને સીધા કરીશું- અમિત શાહ",
+    "desc": "પશ્ચિમ બંગાળમાં પ્રથમ તબક્કાનું મતદાન પૂરું થયું અને બંપર વોટિંગ થયું જેનાથી ભાજપ ખુબ ઉત્સાહિત છે. જો કે બંપર વોટિંગને લઈને સત્તાધારી પક્ષના પણ પોતાના દાવા છે. અમિત શાહે તો મધ્યમગ્રામમાં રોડ શો દરમિયાન ચીમકી પણ ઉચ્ચારી. જાણો શું કહ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-amit-shah-road-show-in-madhyamgram-warn-tmc-goons-474583 ",
+    "time": "2026-04-24T06:26:22.000Z"
+  },
+  {
     "cat": "Business",
     "title": "વહેલી સવારે જાહેર થયા પેટ્રોલ-ડીઝલના આજના ભાવ, જાણો અમદાવાદ સહિત શહેરોમાં લેટેસ્ટ રેટ",
     "desc": "મિડલ ઈસ્ટ અને હોર્મુઝનું સંકટ યથાવત રહેતા આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઈલના ભાવમાં ઉછાળો જોવા મળી રહ્યો છે. જેને પગલે પેટ્રોલ ડીઝલના ભાવ વધે તેવી લોકોને આશંકા છે. ગુજરાતના મોટા શહેરોમાં પેટ્રોલ અને ડીઝલના ભાવ કેટલે પહોંચ્યા તે ખાસ જાણો.",
@@ -450,24 +504,6 @@ const newsData_gu = [
     "time": "2026-04-21T11:17:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "નથી ખેતરમાં ઉગતુ, કે નથી થાળીમાં પીરસવામાં આવતું, દેશનું એકમાત્ર શહેર જ્યાં ડુંગળી અને લસણ પર છે સંપૂર્ણપણે પ્રતિબંધ",
-    "desc": "ડુંગળી અને લસણ ખાવા પર સખત પ્રતિબંધનું કારણ તેને તામસિક ખોરાક માનવામાં આવે છે, જેથી ત્યાં સાત્વિક વાતાવરણ જળવાઈ રહે છે. ડુંગળી વિના પણ અહીં સ્વાદિષ્ટ ભોજન મળે છે. સ્થાનિકો અને દુકાનદારો આ પરંપરાને ભક્તિથી અનુસરે છે, જે તેને અનોખી બનાવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/katra-the-only-city-in-india-where-onion-and-garlic-are-completely-banned-474151 ",
-    "time": "2026-04-21T11:15:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "4 ટ્રિલિયન ડોલરની કંપની...15 વર્ષ રહ્યા CEO, જાણો એપલ છોડી રહેલા ટિમ કુકની કેટલી છે સંપત્તિ",
-    "desc": "ટિમ કુકે એપલમાં 28 વર્ષ વિતાવ્યા છે અને લગભગ 15 વર્ષ સુધી કંપનીના CEO રહ્યા છે. તેમના નેતૃત્વમાં એપલ 4 ટ્રિલિયન ડોલરની કંપની બની છે, હવે તેઓ એપલ છોડીને જઈ રહ્યા છે. ત્યારે તેમની સંપત્તિકેટલી છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/tim-cook-net-worth-know-how-rich-is-apple-outgoing-ceo-474147 ",
-    "time": "2026-04-21T10:22:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ક્રિકેટના ઇતિહાસમાં &amp;#039;શૂન્ય&amp;#039; પર આઉટ થનાર પ્રથમ ખેલાડી કોણ હતો ? 149 વર્ષ પહેલાં બન્યો હતો આ શરમજનક રેકોર્ડ",
     "desc": "ટેસ્ટ ક્રિકેટ રમતનું સૌથી જૂનું ફોર્મેટ છે. તેનો ઇતિહાસ 150 વર્ષ જૂનો છે. આ વર્ષોમાં, ઘણા રેકોર્ડ બન્યા છે અને તૂટ્યા છે; પરંતુ શું તમે જાણો છો કે આ ફોર્મેટમાં શૂન્ય રને આઉટ થનાર પ્રથમ બેટ્સમેન કોણ હતો? જો નહીં, તો નીચે સંપૂર્ણ જવાબ શોધો.",
@@ -475,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ned-gregory-was-first-batsman-in-cricket-history-to-be-dismissed-for-a-duck-474135 ",
     "time": "2026-04-21T08:59:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઈરાન-અમેરિકા યુદ્ધ રોકવાની વાત નહીં માને તો ભારતમાં &amp;#039;મોંઘવારીનો બોમ્બ&amp;#039; ફૂટશે! જાણો કઈ-કઈ વસ્તુઓ મોંઘી થઈ શકે?",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે જ્યાં એક બાજુ પાકિસ્તાનમાં શાંતિ મંત્રણાનો બીજો તબક્કો થઈ રહ્યો હોવાની વાતો ચાલુ છે. અમેરિકાનું પ્રતિનિધિ મંડળ પહોંચવાની તૈયારી કરી રહ્યું છે ત્યાં ઈરાન તરફથી કોઈ રિસ્પોન્સ નથી. ઉપરથી અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પની ધમકીઓ પણ ચિંતા ઉપજાવનારી છે. ટ્રમ્પે કહ્યું છે કે ડીલ નહીં થાય ત્યાં સુધી હોર્મુઝમાં નાકાબંધી ચાલુ રહેશે. હવે જો આ નાકાબંધી ચાલુ રહે તો ભારત માટે પડકાર બની શકે છે. જાણો કઈ કઈ વસ્તુઓના ભાવ વધી શકે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-no-peace-agreement-between-iran-america-then-these-products-price-may-increase-474131 ",
-    "time": "2026-04-21T08:47:31.000Z"
   },
   {
     "cat": "Tech",
@@ -648,15 +675,6 @@ const newsData_gu = [
     "time": "2026-04-20T03:24:27.000Z"
   },
   {
-    "cat": "World",
-    "title": "હોર્મુઝ સ્ટ્રેટની આસપાસ કયા-ક્યા દેશો આવેલા છે? તેઓ ઈરાનની જેમ આ ઓઈલ રૂટ પર કેમ કબજો નથી કરતા?",
-    "desc": "ઈરાને સ્ટ્રેટ ઓફ હોર્મુઝ પર ટોલ ટેક્સ વસૂલવાનું શરૂ કરી દીધું છે. સાથે જ અમેરિકા પણ આ માર્ગ પર નાકાબંધી કરી રહ્યું છે. ચાલો જાણીએ કે આ વિસ્તારની આસપાસના અન્ય દેશો આ માર્ગને કેમ કંટ્રોલ કરતા નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-countries-surround-the-strait-of-hormuz-and-why-do-not-they-control-this-oil-route-like-iran-473911 ",
-    "time": "2026-04-19T16:32:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અનુપમાની જિંદગીમાં થશે જૂની દુશ્મનની એન્ટ્રી? કરણ-નંદિની વચ્ચે થશે જબરદસ્ત ઝઘડો",
     "desc": "રૂપાલી ગાંગુલીની સીરિયલ 'અનુપમા'માં નવા પાત્રોની એન્ટ્રી અને જૂના દુશ્મનો સાથેનો ટકરાવ જોવા મળશે. બીજી તરફ 'ક્યોંકિ સાસ ભી કભી બહૂ થી'માં કરણ અને નંદિની વચ્ચે કંકાસની સ્થિતિ સર્જાઈ રહી છે. ચાલો જાણીએ આવનારા દિવસોમાં ટીવી સીરિયલ્સની દુનિયામાં શું નવું થવાનું છે.",
@@ -727,14 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-psycho-thriller-hindi-film-on-prime-video-psycho-thriller-film-level-cross-story-473176 ",
     "time": "2026-04-15T08:13:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કેવી હતી આશા તાઈની છેલ્લી ક્ષણો? મુમતાઝે વર્ણવી આપવીતી, જાણીને તમારી આંખો પણ થઈ જશે ભીની....",
-    "desc": "92 વર્ષની વયે આશા ભોંસલેના અવસાનથી સંગીત જગતને ઊંડો આઘાત લાગ્યો છે. ફેફસામાં ઈન્ફેક્શનના કારણે હોસ્પિટલમાં દાખલ થયેલા આ દિગ્ગજ ગાયિકાની છેલ્લી ક્ષણો વિશે તેમની નજીકની મિત્ર અને અભિનેત્રી મુમતાઝે વિગતો આપી છે. આ સાથે તેમણે એક વીડિયો પણ શેર કર્યો છે, જે જોઈને કોઈની પણ આંખો નમ થઈ જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/what-were-asha-tais-final-moments-like-mumtaz-recounts-the-entire-story-hearing-it-will-bring-tears-to-your-eyes-472968 ",
-    "time": "2026-04-14T05:39:31.000Z"
   }
 ];
