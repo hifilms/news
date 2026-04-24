@@ -1,12 +1,75 @@
 const newsData_en = [
   {
     "cat": "Sports",
-    "title": "Record alert! Shubman Gill-Sai Sudharsan script history vs RCB",
-    "desc": "Shubman Gill and Sai Sudharsan forged a remarkable 128-run opening partnership for Gujarat Titans against Royal Challengers Bengaluru. Sudharsan shone with a brilliant century, his 100 off 58 balls powering the team's strong start. Gill played a crucial supporting role, allowing Sudharsan to dominate the scoring. This stand marks a significant achievement for the Titans.",
-    "img": "https://static.toiimg.com/photo/msid-130498729,imgsize-42402.cms",
+    "title": "Imagine India at the World Cup; wherever the team goes, people of Indian origin will turn up: Owen Coyle",
+    "desc": "The Jamshedpur FC head coach has a global view of football, thanks to his experiences around the world. In this interview, Coyle talks about returning to India, making it to the Premier League, meeting Alex Ferguson after beating Manchester United, and helping keep the streets of Burnley free of violence",
+    "img": "https://th-i.thgim.com/public/incoming/o2bjh9/article70903250.ece/alternates/LANDSCAPE_1200/Owen%20Coyle.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/owen-coyle-interview-isl-indian-football-premier-league-burnley-slex-ferguson-bolton/article70903261.ece",
+    "time": "2026-04-24T18:14:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sai watches Kohli take over Chinnaswamy; RCB beat GT by five wickets",
+    "desc": "Chasing 206, RCB got an early setback when Jacob Bethell was dismissed quickly. After that, Kohli and Devdutt took control and added 115 runs for the second wicket, putting the home side in a strong position.",
+    "img": "https://static.toiimg.com/photo/msid-130501401,imgsize-43088.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-record-alert-shubman-gill-sai-sudharsan-script-history-vs-rcb/articleshow/130498565.cms",
-    "time": "2026-04-24T15:48:50.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/one-hundred-not-enough-sai-sudharsan-watches-virat-kohli-take-over-chinnaswamy-as-rcb-beat-gt-by-five-wickets/articleshow/130501275.cms",
+    "time": "2026-04-24T18:02:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Accused arrested",
+    "desc": "The Maharashtra Cyber department has arrested a person in connection with the cyber harassment case involving Bollywood superstar Akshay Kumar’s daughter, Nitara Kumar. As reported by IANS, Additional Director General of Police, Maharashtra Cyber, Yashasvi Yadav, confirmed the development and said the accused has been taken into custody after investigation into the matter.",
+    "img": "https://static.toiimg.com/photo/msid-130501471,imgsize-33620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-daughter-nitara-cyber-harassment-case-maharashtra-cyber-arrests-accused-she-was-very-brave-and-informed-her-parents/articleshow/130501405.cms",
+    "time": "2026-04-24T18:01:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sri Lankan refugee camp resident casts his first vote as Indian citizen",
+    "desc": "“Most first-time voters are in their early 20s. I am almost 40. But I feel as if my life as an Indian has just begun, and my the future of my children as Indian citizens is assured,” R. Gokuleswaran said",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/96ffvs/article70898222.ece/alternates/LANDSCAPE_1200/b6a833e9-3edd-4923-b72b-08961d4bbab2.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-sri-lankan-refugee-camp-resident-casts-his-first-vote-as-indian-citizen/article70897347.ece",
+    "time": "2026-04-24T18:00:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Voter turnout increase in the State followed spatial patterns",
+    "desc": "Data show the record turnout in the southern State was a consequence of the SIR exercise; while the State also registered an increase in the absolute number of voters who turned out, the provisional addition of roughly 24.8 lakh voters appears lower than the gains registered in recent cycles",
+    "img": "https://th-i.thgim.com/public/incoming/m7kcjt/article70903195.ece/alternates/LANDSCAPE_1200/9871_23_4_2026_21_11_30_2_ELECTIONPOLLINGCROWD__02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/assembly-polls-turnout-increases-in-tamil-nadu-followed-spatial-patterns/article70903055.ece",
+    "time": "2026-04-24T17:44:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli becomes third batter after Chris Gayle and Rohit Sharma to ...",
+    "desc": "Virat Kohli has achieved another IPL milestone, surpassing 300 sixes in the league. He now joins the elite club of Chris Gayle and Rohit Sharma, becoming the third player to reach this mark. Kohli's remarkable consistency continues to etch his name in IPL history, further solidifying his legendary status.",
+    "img": "https://static.toiimg.com/photo/msid-130500993,imgsize-56046.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-becomes-third-batter-after-chris-gayle-and-rohit-sharma-to-/articleshow/130500833.cms",
+    "time": "2026-04-24T17:41:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modi promises fresh probe into R.G. Kar case after election; Mamata says BJP will get ‘zero’ in many districts",
+    "desc": "Union Home Minister Amit Shah, who said that he has been staying in the city for over 12 days, held a press conference at a Kolkata hotel and claimed that the BJP will win 110 of the 152 seats that went to polls for the first phase.",
+    "img": "https://th-i.thgim.com/public/incoming/d1pjjl/article70901120.ece/alternates/LANDSCAPE_1200/PTI04_24_2026_000109B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-phase-1-pm-modi-polling-signals-wave-of-change-bjp-victory/article70901080.ece",
+    "time": "2026-04-24T17:39:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Enrica Lexie owner urges SC for early release of a ₹3 crore bond executed in Kerala HC",
+    "desc": "The application sought a modification of an apex court order of May 2, 2012 and a direction to the Registrar General of the Kerala High Court to release or return the bond of ₹3 crore",
+    "img": "https://th-i.thgim.com/public/incoming/lhk9bm/article70903184.ece/alternates/LANDSCAPE_1200/Enrica_Lexie.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/enrica-lexie-owner-urges-sc-for-early-release-of-a-3-crore-bond-executed-in-kerala-hc/article70902737.ece",
+    "time": "2026-04-24T17:38:01.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +78,124 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/ugda4j/article70901473.ece/alternates/LANDSCAPE_1200/PTI04_12_2026_000387A.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/aap-rajya-sabha-mps-quit-bjp-kejriwal-punjab-raghav-chadha/article70901414.ece",
-    "time": "2026-04-24T15:42:05.000Z"
+    "time": "2026-04-24T17:21:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans drop Virat Kohli on 0, pay a heavy price",
+    "desc": "Gujarat Titans suffered a crucial defeat against Royal Challengers Bengaluru after dropping Virat Kohli on duck. Kohli capitalized on the reprieve, smashing 81 off 44 balls and becoming the first player to hit 800 IPL fours. His record-breaking innings propelled him further up the all-time run-scorers list.",
+    "img": "https://static.toiimg.com/photo/msid-130500488,imgsize-44690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-dropped-on-0-virat-kohli-makes-gujarat-titans-pay-dearly/articleshow/130500495.cms",
+    "time": "2026-04-24T17:16:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Raghav Chadha, 6 MPs exit AAP: How numbers changed in Rajya Sabha",
+    "desc": "Seven Rajya Sabha MPs, led by Raghav Chadha, have defected from AAP to the BJP, significantly boosting the ruling party's numbers to 113 and reducing AAP to just three members. This move weakens the opposition bloc's strength to 77, marking a substantial shift in the Upper House's political landscape and impacting AAP's national presence.",
+    "img": "https://static.toiimg.com/photo/msid-130498326,imgsize-84104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/raghav-chadha-6-mps-exit-aap-how-numbers-changed-in-rajya-sabha/articleshow/130497966.cms",
+    "time": "2026-04-24T17:08:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Days after students protest in Kashmir’s Sopore, six youths held under PSA over ‘vandalism’",
+    "desc": "The stringent Public Safety Act allows detention without trial for up to two years. Police say the six ‘miscreants’ were involved ‘acts of vandalism’ during the student protest in Sopore after girl students accused a lecturer of ‘inappropriate behaviour’.",
+    "img": "https://th-i.thgim.com/public/incoming/s0h9id/article70903122.ece/alternates/LANDSCAPE_1200/iStock-121586241.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/days-after-students-protest-in-kashmirs-sopore-six-youths-held-under-psa-over-vandalism/article70902577.ece",
+    "time": "2026-04-24T17:03:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz says he won't defend his French Open title; here's why",
+    "desc": "The world No. 2 shared the update on X on Friday, saying he and his team decided it was best to avoid rushing his comeback after the injury he suffered during the Barcelona Open earlier this month.",
+    "img": "https://static.toiimg.com/photo/msid-130499811,imgsize-55062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/carlos-alcaraz-says-he-wont-defend-his-french-open-title-heres-why/articleshow/130499571.cms",
+    "time": "2026-04-24T16:51:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. soldier charged with using classified intel to win $400K Polymarket bet on Maduro raid",
+    "desc": "Gannon Ken Van Dyke allegedly placed those bets between December 30 and January 2, with the vast majority occurring the night of January 2 — just hours before the first missiles would fall on Caracas",
+    "img": "https://th-i.thgim.com/public/incoming/2o9h7a/article70903096.ece/alternates/LANDSCAPE_1200/2026-04-23T230523Z_875334285_RC20VIAX91LF_RTRMADP_3_USA-VENEZUELA-GAMBLING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-soldier-charged-with-using-classified-intel-to-win-400k-polymarket-bet-on-maduro-raid/article70901911.ece",
+    "time": "2026-04-24T16:49:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Future tense for AAP as Raghav Chadha leads Rajya Sabha exodus",
+    "desc": "Aam Aadmi Party faces a significant internal crisis as Rajya Sabha MP Raghav Chadha leads a mass exodus of seven MPs to the Bharatiya Janata Party. This move, following Chadha's removal as deputy leader, marks a severe blow to AAP's presence in Parliament and raises questions about its core principles.",
+    "img": "https://static.toiimg.com/photo/msid-130499802,imgsize-1233337.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fastest-growing-startup-to-implosion-future-tense-for-aap-as-raghav-chadha-arvind-kejriwal-swati-maliwal-bjp-leads-rajya-sabha-exodus/articleshow/130499473.cms",
+    "time": "2026-04-24T16:40:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli scripts boundary history, first player to ...",
+    "desc": "Virat Kohli has etched his name further in IPL history, becoming the first player to hit 800 fours during Royal Challengers Bengaluru's match against Gujarat Titans. The star batter achieved this milestone, adding to his impressive record of 8,915 runs in 274 matches. This achievement solidifies his status as one of the league's greatest batters.",
+    "img": "https://static.toiimg.com/photo/msid-130499550,imgsize-48602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-scripts-boundary-history-first-player-to-/articleshow/130499512.cms",
+    "time": "2026-04-24T16:32:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir compares Arijit to Rafi, Lata, Asha, Kishore, Sonu",
+    "desc": "After reports of acclaimed singer Arijit Singh announcing his retirement from playback singing earlier this year, Bollywood superstar Aamir Khan visited him at his home in Murshidabad. Describing the experience, Aamir said they spent four days with the singer. Comparing him to icons, Aamir said, “Rafi saab, Kishore da, Asha ji, Lata ji, and Sonu Nigam have all told stories through their singing. Arijit has that same quality.”",
+    "img": "https://static.toiimg.com/photo/msid-130499096,imgsize-88264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-compares-arijit-singh-to-mohammed-rafi-lata-mangeshkar-asha-bhosle-kishore-kumar-and-sonu-nigam-all-are-storytellers/articleshow/130498944.cms",
+    "time": "2026-04-24T16:13:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Intel bags big gains! Chipmaker's shares jump 26% on blockbuster results; how Trump admin benefits",
+    "desc": "Intel's share price surged dramatically after exceeding first-quarter expectations, driven by strong demand in its Data Centre and AI division. This performance significantly boosts the US administration's investment, which acquired a stake during a period of financial strain. Intel's stock has now risen nearly 300% since the government's intervention.",
+    "img": "https://static.toiimg.com/photo/msid-130498943,imgsize-262850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/intel-bags-big-gains-chipmakers-shares-jump-26-on-blockbuster-results-how-trump-admin-benefits/articleshow/130498728.cms",
+    "time": "2026-04-24T16:06:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Naidu calls for Statewide protests against INDIA bloc stalling women’s quota Bill",
+    "desc": "NDA partners will organise campaigns at the district, mandal and constituency levels in Andhra Pradesh by April 30 to explain to people how these parties had denied justice to women, says Chief Minister Chandrababu Naidu",
+    "img": "https://th-i.thgim.com/public/incoming/ib3t4f/article70902943.ece/alternates/LANDSCAPE_1200/10745_24_4_2026_20_33_37_2_IMG_20260424_WA0047.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-will-launch-statewide-protests-against-india-bloc-stalling-womens-quota-bill-says-naidu/article70901773.ece",
+    "time": "2026-04-24T16:05:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Post-SIR electorate drop drives turnout surge; votes remain steady compared to 2021 election",
+    "desc": "As of 8 p.m. on polling day, voter turnout stood at 83.41%, significantly higher than 59.75% recorded in 2021 Assembly polls, as per ECI data; this is due to reduction in electorate from 40.57 lakh in 2021 to 28.93 lakh in 2026; number of electors who turned up in both elections remains close to 24 lakh",
+    "img": "https://th-i.thgim.com/public/incoming/fo347/article70900200.ece/alternates/LANDSCAPE_1200/DSC_1483.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/post-sir-electorate-drop-drives-turnout-surge-votes-remain-steady-compared-to-2021-election/article70898707.ece",
+    "time": "2026-04-24T15:53:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Voters upset over SIR-related deletions across State",
+    "desc": "A resident says that her family filled out the forms and submitted all the required documents, but the names were removed from the list after SIR exercise. We did not get any response even after we reached out to several officials, she adds",
+    "img": "https://th-i.thgim.com/public/incoming/469fe4/article70900766.ece/alternates/LANDSCAPE_1200/DSC_2280.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/voters-upset-over-sir-related-deletions/article70898308.ece",
+    "time": "2026-04-24T15:51:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Record alert! Shubman Gill-Sai Sudharsan script history vs RCB",
+    "desc": "Shubman Gill and Sai Sudharsan forged a remarkable 128-run opening partnership for Gujarat Titans against Royal Challengers Bengaluru. Sudharsan shone with a brilliant century, his 100 off 58 balls powering the team's strong start. Gill played a crucial supporting role, allowing Sudharsan to dominate the scoring. This stand marks a significant achievement for the Titans.",
+    "img": "https://static.toiimg.com/photo/msid-130498729,imgsize-42402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-record-alert-shubman-gill-sai-sudharsan-script-history-vs-rcb/articleshow/130498565.cms",
+    "time": "2026-04-24T15:48:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-leak-editor-pradeep-e-raghav-suspended-by-sifea-over-alleged-violation-of-rules/articleshow/130498384.cms",
     "time": "2026-04-24T15:34:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Assam court hands life sentence to 20 people convicted for lynching two men",
-    "desc": "The Sessions Court in central Assam’s Nagaon had acquitted 25 other accused due to lack of evidence related to the incident that happened in June 2018 when the mob attacked the duo on suspicion of being child lifters",
-    "img": "https://th-i.thgim.com/public/incoming/3h6imk/article70901809.ece/alternates/LANDSCAPE_1200/iStock-2192979063.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/assam/assam-court-sentences-20-convicts-to-life-term-for-lynching-two-men-on-suspicion-of-child-lifting/article70901675.ece",
-    "time": "2026-04-24T15:20:55.000Z"
   },
   {
     "cat": "Business",
@@ -115,24 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/reliance-industries-q4-results-net-profit-falls-12-5-jio-pat-rises-13/articleshow/130497196.cms",
     "time": "2026-04-24T14:46:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "For snakebite management, training crucial for doctors to administer antivenom",
-    "desc": "Antivenom administration can trigger adverse reactions in the patient, which taluk hospitals may not be equipped to handle. It can be given only in confirmed envenomation cases, which require specific clinical evaluation and blood tests, facilities that many taluk hospitals lack. However, antivenom should not be withheld as complications due to snakebites are a far greater risk than adverse reactions",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/for-snakebite-management-training-crucial-for-doctors-to-administer-antivenom/article70901691.ece",
-    "time": "2026-04-24T14:45:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Naidu calls for Statewide protests against INDIA bloc stalling women’s quota Bill",
-    "desc": "NDA partners will organise campaigns at the district, mandal and constituency levels in Andhra Pradesh by April 30 to explain to people how these parties had denied justice to women, says Chief Minister Chandrababu Naidu",
-    "img": "https://th-i.thgim.com/public/incoming/lugowt/article70902304.ece/alternates/LANDSCAPE_1200/DSC_6873.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-will-launch-statewide-protests-against-india-bloc-stalling-womens-quota-bill-says-naidu/article70901773.ece",
-    "time": "2026-04-24T14:44:19.000Z"
   },
   {
     "cat": "Politics",
@@ -360,15 +513,6 @@ const newsData_en = [
     "time": "2026-04-24T10:57:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Leighton, Chace’s reunion photo sparks Blair and Nate fan praise",
-    "desc": "A recent 2026 photograph of 'Gossip Girl' stars Leighton Meester and Chace Crawford has ignited a wave of nostalgia among fans. The image, showing the actors together years after their iconic teen drama, immediately drew comparisons to their on-screen characters, Blair Waldorf and Nate Archibald. Social media buzzed with emotional reactions, celebrating the enduring connection and the actors' timeless appearances.",
-    "img": "https://static.toiimg.com/photo/msid-130491632,imgsize-101114.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/gossip-girl-stars-leighton-meester-and-chace-crawford-reunite-as-fans-heap-praise-on-blair-and-nate-aging-like-fine-wine/articleshow/130491559.cms",
-    "time": "2026-04-24T10:53:04.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Right man in wrong party': Raghav Chadha, 6 other MPs quit AAP &amp; join BJP",
     "desc": "In a significant political shift, Rajya Sabha MP Raghav Chadha has resigned from the Aam Aadmi Party and joined the BJP, citing the party's deviation from its founding principles for personal gain. Chadha expressed feeling like the 'right man in the wrong party.' He announced that seven AAP MPs, including Swati Maliwal and Harbhajan Singh, are also making the move.",
@@ -385,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/thomas-cup-satwik-chirag-ayush-shetty-star-as-india-down-canada-3-1-in-opener/articleshow/130491197.cms",
     "time": "2026-04-24T10:44:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Texts between Rebel Wilson and Amanda Ghost revealed in court",
-    "desc": "Recent court filings have unveiled text exchanges between Rebel Wilson and producer Amanda Ghost, centering around a peculiar 'bath incident' linked to actress Charlotte MacInnes. Within these messages, Wilson implied familiarity with an actress who allegedly retracted a sexual assault accusation for professional gain. Ghost recounted that Wilson portrayed MacInnes as a disruptive force in their conversations.",
-    "img": "https://static.toiimg.com/photo/msid-130491029,imgsize-77000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rebel-wilson-and-charlotte-macinnes-defamation-case-texts-between-pitch-perfect-star-and-amanda-ghost-revealed/articleshow/130490914.cms",
-    "time": "2026-04-24T10:29:59.000Z"
   },
   {
     "cat": "Politics",
@@ -424,42 +559,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Hanumankind’s Seoul BTS sighting fuels global collab buzz",
-    "desc": "When Indian rapper Hanumankind was spotted at a thrilling BTS concert in Seoul, it sent waves through both the Indian and K-pop communities, stirring rumors of a collaboration. With heartfelt admiration for the group's impact and their devoted fanbase, he hinted at wanting to blend his unique style with their sound.",
-    "img": "https://static.toiimg.com/photo/msid-130490754,imgsize-189784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/hanumankind-spotted-at-bts-concert-in-seoul-fans-predict-probable-global-collaboration-on-the-cards/articleshow/130490445.cms",
-    "time": "2026-04-24T10:10:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Raghav Chadha, 6 other Rajya Sabha MPs resign from Aam Aadmi Party, join BJP",
-    "desc": "Rajya Sabha MP Raghav Chadha has resigned from the Aam Aadmi Party, citing a deviation from its core principles and a focus on personal gain. He announced his departure alongside two other Rajya Sabha MPs, Sandeep Pathak and Ashok Mittal, who are joining the Bharatiya Janata Party. Chadha stated he felt like the 'right man in the wrong party'.",
-    "img": "https://static.toiimg.com/photo/msid-130491366,imgsize-1517831.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/raghav-chadha-resigns-from-aam-aadmi-party/articleshow/130490526.cms",
-    "time": "2026-04-24T10:08:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Opposition submits new notice signed by 73 MPs in Rajya Sabha",
-    "desc": "Opposition parties have submitted a fresh notice in Rajya Sabha seeking the removal of Chief Election Commissioner Gyanesh Kumar, backed by 73 MPs. This follows earlier rejected impeachment notices, with accusations of 'partial conduct' favoring the ruling BJP, particularly concerning electoral roll revisions. The move occurs amidst political tensions surrounding West Bengal's assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-130490306,imgsize-843625.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fresh-bid-to-impeach-cec-gyanesh-kumar-opposition-submits-new-notice-signed-by-73-mps-in-rajya-sabha/articleshow/130490067.cms",
-    "time": "2026-04-24T09:57:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "50 runs off three overs! Shaheen, Rauf taken to cleaners in PSL",
-    "desc": "Khushdil Shah starred with a stunning unbeaten 44 off 14 balls as Karachi Kings chased 200 to beat Lahore Qalandars. Anchored by David Warner’s 63, the chase looked tough until Khushdil smashed Shaheen Afridi and Haris Rauf late. His fearless finish highlighted T20’s unpredictability and proved impact matters more than reputation.",
-    "img": "https://static.toiimg.com/photo/msid-130490084,imgsize-27650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-50-runs-off-three-overs-shaheen-afridi-haris-rauf-taken-to-cleaners-in-psl/articleshow/130489570.cms",
-    "time": "2026-04-24T09:53:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Bhooth Bangla' BO day 8 [LIVE]: Akshay Kumar starrer eyes Rs. 100 crore domestic milestone",
     "desc": "'Bhooth Bangla', directed by Priyadarshan and starring Akshay Kumar, Tabu, and Paresh Rawal, has officially crossed the Rs. 100 crore India gross milestone on Day 8, April 24, 2026. Despite heavy competition from Ranveer Singh’s 'Dhurandhar 2' and the IPL 2026 season, the horror-comedy earned a cumulative India net of Rs. 84.40 crore in its first week. With a worldwide gross of over Rs. 135 crore, the film marks a successful 16-year reunion for the Akshay-Priyadarshan duo. Featuring a nostalgic cast including Rajpal Yadav and Wamiqa Gabbi, the supernatural thriller is set for a strong second weekend at the box office.",
     "img": "https://static.toiimg.com/photo/msid-130489801,imgsize-62298.cms",
@@ -484,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/need-something-far-more-versatile-fm-sitharaman-flags-ai-cyber-risks-amid-anthropic-mythos-concerns/articleshow/130489227.cms",
     "time": "2026-04-24T09:27:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You can bowl this too, right?': Ashwin questions Pandya's death-over call",
-    "desc": "Ravichandran Ashwin criticised Hardik Pandya for giving rookie Krish Bhagat the death overs in Indian Premier League 2026 against Chennai Super Kings, where he conceded 31 runs. Ashwin felt Pandya should have taken responsibility, citing his experience. He also highlighted the pressure of replacing Rohit Sharma. Despite Pandya’s poor form, coach Mahela Jayawardene backed him ahead of the next game against Sunrisers Hyderabad.",
-    "img": "https://static.toiimg.com/photo/msid-130489107,imgsize-67858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-you-can-bowl-this-too-right-r-ashwin-questions-hardik-pandyas-death-over-call/articleshow/130488529.cms",
-    "time": "2026-04-24T09:11:47.000Z"
   },
   {
     "cat": "Sports",
@@ -586,39 +676,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Royal Challengers Bengaluru seek strong finish at home",
-    "desc": "Rajat Patidar, an explosive batter and steady captain for RCB, faces Shubman Gill, whose Gujarat Titans are wobbling despite his individual run-scoring. Patidar's fearless batting has been a season highlight, while Gill's inconsistent form mirrors his team's struggles. Both captains lead teams on the back of losses, setting up a crucial clash.",
-    "img": "https://static.toiimg.com/photo/msid-130485792,imgsize-206002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rcb-vs-gt-preview-royal-challengers-bengaluru-seek-strong-finish-at-home/articleshow/130485729.cms",
-    "time": "2026-04-24T06:30:39.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "With Polgar, Gukesh's coach as followers, 12-yo Aarav reshapes chess as content",
     "desc": "12-year-old Aarav Sarbalia is gaining recognition as a rising chess talent. Alongside his on-board progress, his structured social media content has attracted prominent followers, including Judit Polgar and D Gukesh's coach, Vishnu Prasanna. Supported by his family and guided by top coaching, Aarav is building momentum toward his long-term goal of achieving the Grandmaster (GM) title.",
     "img": "https://static.toiimg.com/photo/msid-130484794,imgsize-61830.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/with-judit-polgar-d-gukeshs-coach-as-followers-12-yo-aarav-sarbalia-reshapes-chess-as-content/articleshow/130483916.cms",
     "time": "2026-04-24T05:53:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Josh Hazlewood’s Test-match lengths boosted Marco Jansen’s fortunes",
-    "desc": "Marco Jansen's cricket journey, from rugby to a consistent performer for South Africa and Punjab Kings, is remarkable. Inspired by Josh Hazlewood's metronomic bowling, Jansen has embraced his unique strengths, focusing on hard lengths. He's adapted his game, particularly for bowling with the older ball, proving effective even without new-ball swing.",
-    "img": "https://static.toiimg.com/photo/msid-130484777,imgsize-139028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-how-josh-hazlewoods-test-match-lengths-boosted-marco-jansens-fortunes/articleshow/130484760.cms",
-    "time": "2026-04-24T05:43:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Happy Birthday but ... ': Arjun Tendulkar wishes father Sachin",
-    "desc": "Arjun Tendulkar shared a funny birthday wish for Sachin Tendulkar, saying, \"Happy Birthday, I am not going to eat this because I don't eat sugar very often. I will see you soon.\" As Sachin turned 53, fans celebrated his legendary career, highlighted by 34,357 international runs, most centuries, and a lasting legacy as one of cricket’s greatest icons.",
-    "img": "https://static.toiimg.com/photo/msid-130484508,imgsize-39548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/happy-birthday-but-arjun-tendulkar-wishes-father-sachin-as-legend-turns-53-watch/articleshow/130484418.cms",
-    "time": "2026-04-24T05:26:51.000Z"
   },
   {
     "cat": "Sports",
@@ -655,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/has-anthropics-mythos-made-the-cure-worse-than-the-disease/article70896095.ece",
     "time": "2026-04-24T03:46:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude climbs as US-Iran talks uncertainty keeps markets on edge",
-    "desc": "Middle East tensions surged Friday, pushing oil prices up as Iran released footage of commandos boarding a ship in the Strait of Hormuz and reported military activity over Tehran. Analysts warn prolonged disruption could severely impact global supply, with inventories potentially falling to multi-year lows. Markets remain on edge as diplomatic efforts face uncertainty.",
-    "img": "https://static.toiimg.com/photo/msid-130482206,imgsize-816440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-climbs-as-us-iran-talks-uncertainty-keeps-markets-on-edge-brent-tops-106/articleshow/130482161.cms",
-    "time": "2026-04-24T02:52:05.000Z"
   },
   {
     "cat": "Sports",
@@ -792,15 +846,6 @@ const newsData_en = [
     "time": "2026-04-22T18:30:23.000Z"
   },
   {
-    "cat": "World",
-    "title": "China praises blocking of Taiwan President's Africa trip, Taipei defiant",
-    "desc": "It is the first instance of a Taiwan President having to cancel an entire foreign trip due to denial of airspace access, representing a new Chinese strategy as its steps up ‌efforts to stifle the island’s efforts to engage internationally",
-    "img": "https://th-i.thgim.com/public/incoming/a2kjkn/article70894361.ece/alternates/LANDSCAPE_1200/iStock-1336031383.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-praises-blocking-of-taiwan-presidents-africa-trip-taipei-defiant/article70894322.ece",
-    "time": "2026-04-22T17:30:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tilak talks about Suryakumar, Hardik’s contrasting captaincy styles",
     "desc": "Tilak’s words came on the back of a defining knock in Ahmedabad, where he hammered an unbeaten 101 off 45 balls — an innings that turned the tide after a slow start of 19 off 22 deliveries",
@@ -817,15 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/techm-posts-16-increase-in-q4-net-profit-to1354-crore/article70893615.ece",
     "time": "2026-04-22T15:33:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Goodwill is the only saviour for Indian exporters hoping for U.S. tariff refunds",
-    "desc": "The U.S. has begun the process of refunding the tariffs it collected under the reciprocal tariff regime Donald Trump had started. Of the $166 billion to be refunded, about $12 billion is linked to exports from India. But this might not come.",
-    "img": "https://th-i.thgim.com/public/incoming/puf21a/article70893041.ece/alternates/LANDSCAPE_1200/IMG_ICTT_2_1_OIDUB27Q.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/goodwill-is-the-only-saviour-for-indian-exporters-hoping-for-us-tariff-refunds/article70892784.ece",
-    "time": "2026-04-22T15:17:44.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/checkmate-in-chennai-this-park-is-a-haven-for-chess-players/article70888068.ece",
     "time": "2026-04-22T07:56:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Marketing independent films is tougher than making them",
-    "desc": "Rajat Kapoor, Vinay Pathak and Ranvir Shorey discuss their recently released murder-mystery ‘Everybody Loves Sohrab Handa’, reflecting on being long time collaborators and friends, why Kapoor doesn’t think of an audience while making films and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/jd0tiz/article70891696.ece/alternates/LANDSCAPE_1200/Rajat%20Kapoor%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/rajat-kapoor-marketing-independent-films-is-tougher-than-making-them/article70891352.ece",
-    "time": "2026-04-22T06:26:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Photographer Jina Park explores India in debut exhibition, Lyrical Encounter: India Through a Korean Lens, in Chennai",
-    "desc": "Jina Park takes us through an immersive journey across the country — from the ghats of Benaras to the mountains of Ladakh, and the deserts of Rajasthan, the bustling lanes of Mumbai, and through Tamil Nadu, where she now lives",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/pcws0f/article70888457.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-21%20at%205.15.19%20PM%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/photographer-jina-park-explores-india-in-debut-exhibition-lyrical-encounter-india-through-a-korean-lens-in-chennai/article70887988.ece",
-    "time": "2026-04-21T12:17:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK suffers setback as Ayush Mhatre ruled out of IPL 2026",
-    "desc": "The Hindu understands that Mhatre, the Under-19 World Cup-winning captain, underwent scans here on Monday (April 20) after CSK arrived to take on the Mumbai Indians on Thursday (April 23, 2026) in one of the most anticipated IPL clashes every season",
-    "img": "https://th-i.thgim.com/public/incoming/8g46d1/article70888153.ece/alternates/LANDSCAPE_1200/DSC_2369.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/csk-suffers-setback-as-ayush-mhatre-ruled-out-of-ipl-2026/article70888131.ece",
-    "time": "2026-04-21T10:30:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances",
-    "desc": "The winning robot, developed by Chinese smartphone brand Honor, finished the race in 50 ⁠minutes and 26 seconds, several minutes faster than the half-marathon world record set by Ugandan runner Jacob Kiplimo in Lisbon last month",
-    "img": "https://th-i.thgim.com/public/incoming/rm4p7j/article70880088.ece/alternates/LANDSCAPE_1200/2026-04-19T035236Z_853099489_RC20SKAY2EWX_RTRMADP_3_CHINA-ROBOTS-ATHLETICS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances/article70880082.ece",
-    "time": "2026-04-19T08:07:43.000Z"
   }
 ];

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli becomes first cricketer to register major feat in IPL, also becomes 3rd cricketer to hit 300 sixes",
+    "desc": "Star batter Virat Kohli stole the show in Royal Challengers Bengaluru’s high-voltage clash against Gujarat Titans at the M Chinnaswamy Stadium. The veteran smacked 81 runs off 44 balls as the hosts registered a comfortable...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-becomes-first-cricketer-to-register-major-feat-in-ipl-also-becomes-third-cricketer-to-hit-300-sixes-2026-04-24-1038823",
+    "time": "2026-04-24T18:17:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz, defending champion, pulls out of Roland Garros; Jannik Sinner to enter as top seed",
+    "desc": "Carlos Alcaraz has pulled out of the forthcoming French Open due to a wrist injury that has forced him to reassess his immediate schedule. The decision follows medical evaluations carried out to determine whether he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-defending-champion-pulls-out-of-roland-garros-jannik-sinner-to-enter-as-top-seed-2026-04-24-1038821",
+    "time": "2026-04-24T17:54:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli, Devdutt Padikkal ruin Sai Sudharsan's party as RCB register commanding win over Gujarat",
+    "desc": "Royal Challengers Bengaluru beat Gujarat Titans by five wickets in the IPL 2026 clash at the M Chinnaswamy Stadium. The Rajat Patidar-led side had a struggling start to the match as Sai Sudharsan wreaked havoc...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-devdutt-padikkal-ruin-sai-sudharsan-s-party-as-rcb-register-commanding-win-over-gujarat-2026-04-24-1038817",
+    "time": "2026-04-24T17:30:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals' net bowler suffers facial blow, stretchered off from ground, taken to hospital",
+    "desc": "Delhi Capitals's net bowler suffered a gruesome injury during training at the Arun Jaitley Stadium. As per reports, the ball hit him on the face, resulting in him going down immediately. He required immediate medical attention...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-young-opener-suffers-facial-blow-stretchered-off-from-ground-taken-to-hospital-watch-2026-04-24-1038814",
+    "time": "2026-04-24T16:45:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sai Sudharsan breaks Chris Gayle's all-time IPL record, smashes cracking century vs RCB in IPL 2026",
     "desc": "Young batter Sai Sudharsan was struggling to live up to his potential in the ongoing IPL 2026. However, in the clash against Royal Challengers Bengaluru, the Gujarat Titans opener defied odds, playing some phenomenal cricket...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-pitch-report-how-will-surface-at-m-chinnaswamy-stadium-in-bengaluru-play-2026-04-24-1038769",
     "time": "2026-04-24T11:07:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Watch",
-    "desc": "Rawalpindiz finally registered their first win of the ongoing Pakistan Super League (PSL) season in their ninth outing, against Islamabad United on Thursday. Even though it was a one-sided encounter, it was also filled with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-amir-and-faheem-ashraf-indulge-in-heated-verbal-argument-during-psl-2026-clash-watch-2026-04-24-1038749",
-    "time": "2026-04-24T08:40:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand veteran Suzie Bates to retire from international cricket after T20 World Cup",
-    "desc": "New Zealand veteran Suzie Bates has confirmed that she will retire from international cricket after the upcoming T20 World Cup in June in England and Wales. She will bring curtains down on an illustrious career...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-veteran-suzie-bates-to-retire-from-international-cricket-after-t20-world-cup-2026-04-24-1038731",
-    "time": "2026-04-24T06:22:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh get closer to England in rankings as ODI World Cup 2027 qualification looms",
-    "desc": "Bangladesh won the third and final ODI against New Zealand on Thursday to seal a memorable series win by a 2-1 margin in Chattogram. With this series win, they added four rating points to their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-get-closer-to-england-in-rankings-as-odi-world-cup-2027-qualification-looms-2026-04-24-1038716",
-    "time": "2026-04-24T04:07:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Substitute for shoulder injury?': Fans question Shardul Thakur's inclusion for Santner in MI vs CSK clash",
-    "desc": "Chennai Super Kings registered their biggest win in IPL history by 103 runs against Mumbai Indians in the 33rd match of IPL 2026. It was a comprehensive performance from them but unfortunately, that was not...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/substitute-for-shoulder-injury-fans-question-shardul-thakur-s-inclusion-for-santner-in-mi-vs-csk-clash-2026-04-24-1038710",
-    "time": "2026-04-24T03:20:27.000Z"
   }
 ];
