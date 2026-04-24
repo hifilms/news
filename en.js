@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Dinesh Hingoo's wife clarifies he is ‘well-settled’ and doing fine",
+    "desc": "A video featuring veteran actor Dinesh Hingoo recently went viral, sparking concern across the film industry over his alleged financial condition. In the clip, believed to be around two months old, the 86-year-old actor is seen interacting with a fan and speaking about continuing to work and needing money for medical expenses. However, fresh clarification has now revealed that the situation may have been misunderstood.",
+    "img": "https://static.toiimg.com/photo/msid-130504053,imgsize-28700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dinesh-hingoos-wife-jamuna-clarifies-he-is-well-settled-and-doing-fine-amitabh-bachchan-rakesh-roshan-boney-kapoor-offered-help/articleshow/130504042.cms",
+    "time": "2026-04-24T21:19:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rob Reiner's son Jake recalls hearing of parents' murders",
+    "desc": "Hollywood director Rob Reiner's son, Jake, shared a poignant tribute to his parents, tragically killed in December. He recounted the devastating moment he learned of their deaths, expressing profound grief and the loss of future milestones. Jake's brother, Nick, faces murder charges in the shocking incident that has deeply affected the family and Hollywood.",
+    "img": "https://static.toiimg.com/photo/msid-130504020,imgsize-81212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jake-reiner-recalls-hearing-news-of-parents-michele-and-rob-reiners-murders-this-truly-is-my-living-nightmare/articleshow/130503809.cms",
+    "time": "2026-04-24T21:11:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anushka's Tulsi mala grabs attention as she cheers for Virat",
+    "desc": "Anushka Sharma cheered husband Virat Kohli during his record-breaking IPL innings. The actress, sporting a Tulsi mala gifted by a spiritual leader, garnered fan admiration for her grounded style. The couple also enjoyed downtime and recently visited a spiritual ashram, highlighting their commitment to faith amidst their UK-based family life.",
+    "img": "https://static.toiimg.com/photo/msid-130503876,imgsize-98324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anushka-sharma-cheers-for-hubby-virat-kohli-as-he-scripts-ipl-history-actress-tulsi-mala-grabs-attention-pics/articleshow/130503822.cms",
+    "time": "2026-04-24T20:35:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Absolute voter increases seen across Tamil Nadu followed spatial patterns",
+    "desc": "Data show the record turnout in the southern State was a consequence of the SIR exercise; while the State also registered an increase in the absolute number of voters who turned out, the provisional addition of roughly 24.8 lakh voters appears lower than the gains registered in recent cycles",
+    "img": "https://th-i.thgim.com/public/incoming/m7kcjt/article70903195.ece/alternates/LANDSCAPE_1200/9871_23_4_2026_21_11_30_2_ELECTIONPOLLINGCROWD__02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/assembly-polls-turnout-increases-in-tamil-nadu-followed-spatial-patterns/article70903055.ece",
+    "time": "2026-04-24T20:23:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress leader’s son shot dead, another son injured in Janjgir-Champa in Chhattisgarh",
+    "desc": "Sammelal Kashyap’s elder son Aayush (19) was shot fatally while his younger son Ashutosh (16) suffered a bullet injury to his hand. Police say the attack was carried out by three masked assailants who arrived on a motorcycle",
+    "img": "https://th-i.thgim.com/public/latest-news/k94zjf/article70903375.ece/alternates/LANDSCAPE_1200/Birra.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/gunmen-kill-congress-leaders-son-injure-another-at-his-home-in-chhattisgarh/article70900665.ece",
+    "time": "2026-04-24T20:20:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Aai was upset when I avoided Asha Bhosle’s grandson tag'",
+    "desc": "For Chin2 Bhosle, music goes far beyond legacy — it is rooted in deeply personal emotion and lived experience. In an exclusive conversation with ETimes, the singer-composer opens up about his heartfelt tribute to his grandmother, legendary singer Asha Bhosle, the memories they shared, and the life lessons she left behind that continue to shape him. He revisits the song that once moved her to tears and recalls spontaneous moments of performing together on stage, offering a rare and intimate glimpse into the person behind the legend.",
+    "img": "https://static.toiimg.com/photo/msid-130503710,imgsize-60136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chin2-bhosle-aai-was-once-upset-when-i-avoided-being-called-asha-bhosles-grandson-she-asked-are-you-ashamed-of-me-exclusive/articleshow/130503582.cms",
+    "time": "2026-04-24T19:47:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Post-SIR electorate drop drives turnout surge; votes remain steady compared to 2021 election",
+    "desc": "As of 8 p.m. on polling day, voter turnout stood at 83.41%, significantly higher than 59.75% recorded in 2021 Assembly polls, as per ECI data; this is due to reduction in electorate from 40.57 lakh in 2021 to 28.93 lakh in 2026; number of electors who turned up in both elections remains close to 24 lakh",
+    "img": "https://th-i.thgim.com/public/incoming/fo347/article70900200.ece/alternates/LANDSCAPE_1200/DSC_1483.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/post-sir-electorate-drop-drives-turnout-surge-votes-remain-steady-compared-to-2021-election/article70898707.ece",
+    "time": "2026-04-24T19:41:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress leaders introspect on not aligning with TVK",
+    "desc": "Many have said Congress leader Rahul Gandhi, who did not share the stage with Chief Minister M.K. Stalin and was widely believed to have favoured an alliance with the TVK, had assessed the situation accurately when he saw an opportunity to rejuvenate the Congress in Tamil Nadu",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/congress-leaders-introspect-on-not-aligning-with-tvk/article70902750.ece",
+    "time": "2026-04-24T18:59:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Polling percentage of women rises in T.N. this Assembly election",
+    "desc": "As per provisional figures available at 8 p.m. on Friday, two Assembly constituencies in Tamil Nadu — Karur and Veerapandi — posted 93.40% each, the highest polling percentage among the Assembly segments that went to polls on April 23",
+    "img": "https://th-i.thgim.com/public/incoming/epe4ab/article70903051.ece/alternates/LANDSCAPE_1200/9712_23_4_2026_10_56_47_2__DSC1740.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/polling-percentage-of-women-rises-in-tn-this-assembly-election/article70902793.ece",
+    "time": "2026-04-24T18:52:32.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Imagine India at the World Cup; wherever the team goes, people of Indian origin will turn up: Owen Coyle",
     "desc": "The Jamshedpur FC head coach has a global view of football, thanks to his experiences around the world. In this interview, Coyle talks about returning to India, making it to the Premier League, meeting Alex Ferguson after beating Manchester United, and helping keep the streets of Burnley free of violence",
@@ -34,15 +115,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-sri-lankan-refugee-camp-resident-casts-his-first-vote-as-indian-citizen/article70897347.ece",
     "time": "2026-04-24T18:00:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Voter turnout increase in the State followed spatial patterns",
-    "desc": "Data show the record turnout in the southern State was a consequence of the SIR exercise; while the State also registered an increase in the absolute number of voters who turned out, the provisional addition of roughly 24.8 lakh voters appears lower than the gains registered in recent cycles",
-    "img": "https://th-i.thgim.com/public/incoming/m7kcjt/article70903195.ece/alternates/LANDSCAPE_1200/9871_23_4_2026_21_11_30_2_ELECTIONPOLLINGCROWD__02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/assembly-polls-turnout-increases-in-tamil-nadu-followed-spatial-patterns/article70903055.ece",
-    "time": "2026-04-24T17:44:53.000Z"
   },
   {
     "cat": "Sports",
@@ -99,15 +171,6 @@ const newsData_en = [
     "time": "2026-04-24T17:08:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Days after students protest in Kashmir’s Sopore, six youths held under PSA over ‘vandalism’",
-    "desc": "The stringent Public Safety Act allows detention without trial for up to two years. Police say the six ‘miscreants’ were involved ‘acts of vandalism’ during the student protest in Sopore after girl students accused a lecturer of ‘inappropriate behaviour’.",
-    "img": "https://th-i.thgim.com/public/incoming/s0h9id/article70903122.ece/alternates/LANDSCAPE_1200/iStock-121586241.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/days-after-students-protest-in-kashmirs-sopore-six-youths-held-under-psa-over-vandalism/article70902577.ece",
-    "time": "2026-04-24T17:03:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Carlos Alcaraz says he won't defend his French Open title; here's why",
     "desc": "The world No. 2 shared the update on X on Friday, saying he and his team decided it was best to avoid rushing his comeback after the injury he suffered during the Barcelona Open earlier this month.",
@@ -160,33 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/intel-bags-big-gains-chipmakers-shares-jump-26-on-blockbuster-results-how-trump-admin-benefits/articleshow/130498728.cms",
     "time": "2026-04-24T16:06:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Naidu calls for Statewide protests against INDIA bloc stalling women’s quota Bill",
-    "desc": "NDA partners will organise campaigns at the district, mandal and constituency levels in Andhra Pradesh by April 30 to explain to people how these parties had denied justice to women, says Chief Minister Chandrababu Naidu",
-    "img": "https://th-i.thgim.com/public/incoming/ib3t4f/article70902943.ece/alternates/LANDSCAPE_1200/10745_24_4_2026_20_33_37_2_IMG_20260424_WA0047.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-will-launch-statewide-protests-against-india-bloc-stalling-womens-quota-bill-says-naidu/article70901773.ece",
-    "time": "2026-04-24T16:05:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Post-SIR electorate drop drives turnout surge; votes remain steady compared to 2021 election",
-    "desc": "As of 8 p.m. on polling day, voter turnout stood at 83.41%, significantly higher than 59.75% recorded in 2021 Assembly polls, as per ECI data; this is due to reduction in electorate from 40.57 lakh in 2021 to 28.93 lakh in 2026; number of electors who turned up in both elections remains close to 24 lakh",
-    "img": "https://th-i.thgim.com/public/incoming/fo347/article70900200.ece/alternates/LANDSCAPE_1200/DSC_1483.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/post-sir-electorate-drop-drives-turnout-surge-votes-remain-steady-compared-to-2021-election/article70898707.ece",
-    "time": "2026-04-24T15:53:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Voters upset over SIR-related deletions across State",
-    "desc": "A resident says that her family filled out the forms and submitted all the required documents, but the names were removed from the list after SIR exercise. We did not get any response even after we reached out to several officials, she adds",
-    "img": "https://th-i.thgim.com/public/incoming/469fe4/article70900766.ece/alternates/LANDSCAPE_1200/DSC_2280.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/voters-upset-over-sir-related-deletions/article70898308.ece",
-    "time": "2026-04-24T15:51:55.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +459,6 @@ const newsData_en = [
     "time": "2026-04-24T12:07:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All about Olivia Dean’s tour",
-    "desc": "Olivia Dean has officially embarked on her much-awaited 'The Art of Loving' tour, beginning with two electrifying, sold-out performances at Glasgow's OVO Hydro. The Grammy-winning sensation couldn't hide her excitement over the overwhelming support, reflecting on the humbler days of just two years ago when she performed for a fraction of this audience.",
-    "img": "https://static.toiimg.com/photo/msid-130493162,imgsize-69486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/olivia-dean-kicks-off-tour-with-first-glasgow-show-performs-songs-like-man-i-need-and-so-easy-to-fall-in-love/articleshow/130492897.cms",
-    "time": "2026-04-24T11:56:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Former India cricketer Harbhajan Singh joins BJP, quits Aam Aadmi Party",
     "desc": "Cricketer Harbhajan Singh has officially joined the Bharatiya Janata Party, concluding his association with the Aam Aadmi Party. The former World Cup winner, who was nominated to the Rajya Sabha by AAP in 2022, now shifts his political allegiance.",
@@ -448,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bjp-has-betrayed-punjabis-again-arvind-kejriwal-after-raghav-chadha-leads-major-aap-exodus/articleshow/130493006.cms",
     "time": "2026-04-24T11:51:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Parineeti Chopra, Raghav Chadha’s net worth and assets revealed",
-    "desc": "According to recent reports, the dynamic duo of Parineeti Chopra and Raghav Chadha boasts a combined fortune of Rs 74.5 crore, with Parineeti leading the financial pack. Her impressive wealth of approximately Rs 74 crore is predominantly generated from her illustrious film career, alongside lucrative brand partnerships. This includes a prime property in Bandra and a collection of luxury vehicles.",
-    "img": "https://static.toiimg.com/photo/msid-130493008,imgsize-17748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/parineeti-chopra-and-raghav-chadhas-combined-net-worth-from-rs-22-crore-bandra-home-luxury-cars-to-other-assets/articleshow/130493008.cms",
-    "time": "2026-04-24T11:46:13.000Z"
   },
   {
     "cat": "Sports",
@@ -477,15 +495,6 @@ const newsData_en = [
     "time": "2026-04-24T11:24:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ralph Fiennes confirmed to star in ‘Embers’",
-    "desc": "Renowned Oscar-winning filmmaker István Szabó takes the directorial reins for 'Embers,' a haunting period drama starring the talented Ralph Fiennes and Viggo Mortensen. This cinematic adaptation of Sándor Márai's novel, reimagined by Christopher Hampton, delves into a long-buried secret between two lifelong friends.",
-    "img": "https://static.toiimg.com/photo/msid-130492460,imgsize-57468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/embers-first-look-ralph-fiennes-viggo-mortensen-and-more-confirmed-to-star-as-filming-begins-report/articleshow/130492356.cms",
-    "time": "2026-04-24T11:23:40.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'There's nothing left in Bengal': Amit Shah reacts to Mamata's 'conquer' BJP in Delhi threat",
     "desc": "West Bengal Chief Minister Mamata Banerjee declared her intention to challenge the BJP nationally, aiming to unite opposition parties and dismantle the party at the Centre. She vowed to win Bengal first, then take the fight to Delhi. Union Home Minister Amit Shah responded with a jibe, questioning her need to come to Delhi.",
@@ -504,24 +513,6 @@ const newsData_en = [
     "time": "2026-04-24T11:06:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "SRK, Deepika and Suhana's film praised by fans",
-    "desc": "Shah Rukh Khan’s ‘King’ teaser drops with Christmas Eve 2026 release confirmed. The striking caption, “A ROAR loud enough to shake the KINGdom,” sparks fan frenzy—“Last of the stars!” Helmed by Siddharth Anand, it marks Suhana Khan’s debut with Deepika Padukone. One of 2026’s most anticipated spectacles.",
-    "img": "https://static.toiimg.com/photo/msid-130491773,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/king-teaser-shah-rukh-khan-deepika-padukone-and-suhana-khans-christmas-2026-release-praised-by-fans-last-of-the-stars/articleshow/130491773.cms",
-    "time": "2026-04-24T10:57:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Right man in wrong party': Raghav Chadha, 6 other MPs quit AAP &amp; join BJP",
-    "desc": "In a significant political shift, Rajya Sabha MP Raghav Chadha has resigned from the Aam Aadmi Party and joined the BJP, citing the party's deviation from its founding principles for personal gain. Chadha expressed feeling like the 'right man in the wrong party.' He announced that seven AAP MPs, including Swati Maliwal and Harbhajan Singh, are also making the move.",
-    "img": "https://static.toiimg.com/photo/msid-130494824,imgsize-74524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/right-man-in-the-wrong-party-raghav-chadha-quits-aap-joins-bjp-7-mps-exit-top-developments/articleshow/130491365.cms",
-    "time": "2026-04-24T10:48:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Satwik-Chirag, Ayush star as India down Canada 3-1 in opener",
     "desc": "India beat Canada 3-1 in their Thomas Cup opener after recovering from Lakshya Sen’s loss to Victor Lai. Satwiksairaj Rankireddy and Chirag Shetty levelled the tie, before Ayush Shetty and the pair of Hariharan Amsakarunan and M R Arjun sealed victory. Kidambi Srikanth was set for a dead rubber, while the women’s team next face Denmark.",
@@ -529,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/thomas-cup-satwik-chirag-ayush-shetty-star-as-india-down-canada-3-1-in-opener/articleshow/130491197.cms",
     "time": "2026-04-24T10:44:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Raghav Chadha leads exodus to BJP as seven MPs quit AAP",
-    "desc": "A significant political upheaval has occurred as prominent AAP Rajya Sabha member Raghav Chadha, along with six other MPs including Sandeep Pathak and Ashok Mittal, have defected to the Bharatiya Janata Party. Chadha cited disillusionment with party leadership and alleged involvement in 'crimes' as reasons for his departure, significantly weakening AAP's Rajya Sabha presence.",
-    "img": "https://static.toiimg.com/photo/msid-130491002,imgsize-315659.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/raghav-chadha-leads-exodus-to-bjp-as-seven-mps-quit-aap-who-are-these-leaders/articleshow/130490949.cms",
-    "time": "2026-04-24T10:29:22.000Z"
   },
   {
     "cat": "Sports",
@@ -855,15 +837,6 @@ const newsData_en = [
     "time": "2026-04-22T17:11:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "TechM posts 16% increase in Q4 net profit to ₹1,354 crore",
-    "desc": "While the global backdrop can still be demanding and geopolitical volatility existing, we are encouraged by the way we have strengthened our client offerings, built added trust and deepened our global client engagement approached over the last two years, says Mohit Joshi, CEO & MD, Tech Mahindra",
-    "img": "https://th-i.thgim.com/public/business/s3mmw8/article70893998.ece/alternates/LANDSCAPE_1200/techm.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/techm-posts-16-increase-in-q4-net-profit-to1354-crore/article70893615.ece",
-    "time": "2026-04-22T15:33:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Champions League semifinals preview",
     "desc": "Title holder PSG seems to be the team to beat on paper; German giant Bayern, after sealing its Bundesliga title, will be buoyed by the fact that it can focus more on the Champions League; Arsenal and Atletico, on the other hand, are desperate to break the hoodoo this time around",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/checkmate-in-chennai-this-park-is-a-haven-for-chess-players/article70888068.ece",
     "time": "2026-04-22T07:56:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Marketing independent films is tougher than making them",
+    "desc": "Rajat Kapoor, Vinay Pathak and Ranvir Shorey discuss their recently released murder-mystery ‘Everybody Loves Sohrab Handa’, reflecting on being long time collaborators and friends, why Kapoor doesn’t think of an audience while making films and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/jd0tiz/article70891696.ece/alternates/LANDSCAPE_1200/Rajat%20Kapoor%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/rajat-kapoor-marketing-independent-films-is-tougher-than-making-them/article70891352.ece",
+    "time": "2026-04-22T06:26:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Photographer Jina Park explores India in debut exhibition, Lyrical Encounter: India Through a Korean Lens, in Chennai",
+    "desc": "Jina Park takes us through an immersive journey across the country — from the ghats of Benaras to the mountains of Ladakh, and the deserts of Rajasthan, the bustling lanes of Mumbai, and through Tamil Nadu, where she now lives",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/pcws0f/article70888457.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-21%20at%205.15.19%20PM%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/art/photographer-jina-park-explores-india-in-debut-exhibition-lyrical-encounter-india-through-a-korean-lens-in-chennai/article70887988.ece",
+    "time": "2026-04-21T12:17:04.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances",
+    "desc": "The winning robot, developed by Chinese smartphone brand Honor, finished the race in 50 ⁠minutes and 26 seconds, several minutes faster than the half-marathon world record set by Ugandan runner Jacob Kiplimo in Lisbon last month",
+    "img": "https://th-i.thgim.com/public/incoming/rm4p7j/article70880088.ece/alternates/LANDSCAPE_1200/2026-04-19T035236Z_853099489_RC20SKAY2EWX_RTRMADP_3_CHINA-ROBOTS-ATHLETICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances/article70880082.ece",
+    "time": "2026-04-19T08:07:43.000Z"
   }
 ];
