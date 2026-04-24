@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "IPLમાં &amp;#039;પાકિસ્તાની&amp;#039; ક્રિકેટરની એન્ટ્રી! દિલ્હી કેપિટલ્સે બેન ડકેટના સ્થાને આપી તક",
+    "desc": "દિલ્હી કેપિટલ્સે IPL 2026ની બાકીની સીઝન માટે ઈંગ્લેન્ડના ઓલરાઉન્ડર રેહાન અહમદને બેન ડકેટના સ્થાને ટીમમાં સામેલ કર્યા છે. 75 લાખ રૂપિયાની આ ડીલ હેઠળ રેહાન પ્રથમ વખત IPL રમશે. ડકેટના બહાર થયા બાદ ટીમને મજબૂતી આપવા માટે આ મહત્વનો નિર્ણય લેવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/delhi-capitals-sign-rehan-ahmed-ipl-2026-replacement-ben-duckett-474682 ",
+    "time": "2026-04-24T14:49:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચે આપ્યું મોટું અપડેટ, કેન્દ્રીય કર્મચારીઓને જણાવ્યો પૂરો પ્લાન",
+    "desc": "આઠમા પગાર પંચે કેન્દ્ર સરકારના કર્મચારીઓ માટે એક મહત્વપૂર્ણ અપડેટ જાહેરી કર્યું છે. પગાર પંચ અનુસાર, તેને 28 એપ્રિલથી 30 એપ્રિલ, 2026 દરમિયાન દિલ્હીમાં યોજાનારી બેઠકોમાં હાજરી આપવા અને કમિશન સાથે વાતચીત કરવા માટે મોટી સંખ્યામાં વિનંતીઓ મળી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-gave-a-big-update-told-the-entire-plan-to-central-employees-474672 ",
+    "time": "2026-04-24T13:21:22.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "શું સાંસદ પદ પર રહેશે રાઘવ ચઢ્ઢા ? જાણો શું કહે છે પક્ષપલટા વિરોધી કાયદો",
     "desc": "આપમાંથી રાઘવ ચઢ્ઢા સહિતના 7 સાંસદોના રાજીનામાથી સમગ્ર રાજકારણમાં ગરમાવો લાવી દીધો છે. સાંસદોએ જણાવ્યું કે અને વિલીનીકરણ માટે તમામ શરતોનું પાલન કરી રહ્યા છે અને અમારી પાસે 66% સાંસદોનું સમર્થન પણ છે. ત્યારે જાણો આપ કઈ રીતે 7 સાંસદોને ગૃહમાંથી દૂર કરે.",
@@ -493,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/trump-tariff-refund-good-news-for-indian-exporters-but-this-process-will-have-to-be-followed-to-get-the-refund-474198 ",
     "time": "2026-04-21T16:44:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "LPG પછી, હવે આ વસ્તુની અછત! ઘણા શહેરોમાં આઉટ ઓફ સ્ટોકથી લોકો પરેશાન, સપ્લાય પર લાગી બ્રેક?",
-    "desc": "ઘણા શહેરોમાં આ વસ્તુની અચાનક અછત જોવા મળી રહી છે, જેના કારણે સોશિયલ મીડિયા યુઝર્સ પરેશાન થઈ રહ્યા છે. આ પાછળના કારણોમાં એલ્યુમિનિયમ કેનમાં સપ્લાય સમસ્યાઓ, નવા BIS નિયમો અને શૂન્ય-ખાંડ પીણાંની વધતી માંગ શામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/after-lpg-now-there-is-a-shortage-of-this-item-people-are-worried-about-out-of-stock-in-many-cities-has-there-been-a-break-in-supply-474197 ",
-    "time": "2026-04-21T15:53:17.000Z"
   },
   {
     "cat": "World",
