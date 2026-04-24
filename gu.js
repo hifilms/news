@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "કોલ ગર્લ પાછળ આરોપી વેડફી નાંખતો હતો રૂપિયા..! IRS અધિકારીની દીકરીની હત્યા મુદ્દે એક નવો ખુલાસો",
+    "desc": "દિલ્હીના ચોંકાવનારા હત્યાકાંડમાં ધરપકડ કરાયેલા આરોપી રાહુલ મીનાના ખુલાસા દરેકને સ્તબ્ધ કરી રહ્યા છે. તપાસમાં સામે આવ્યું છે કે તે અત્યંત વિલાસી અને મોજ-શોખીન પ્રકારનો યુવક હતો અને તેના પગારના તમામ પૈસા કોલ ગર્લ્સ પાછળ ખર્ચ કરી નાખતો હતો. તેને ઓનલાઇન જુગાર રમવાનો પણ શોખ હતો, જેના માટે તે અવારનવાર લોકો પાસેથી પૈસા ઉછીના લેતો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/murder-of-irs-officers-daughter-rahul-squandered-money-on-debauchery-with-a-call-girl-474627 ",
+    "time": "2026-04-24T10:09:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત પહેલા પાકિસ્તાન માટે ક્રિકેટ રમી ચૂક્યા છે સચિન તેંડુલકર, 99% લોકોને ખબર નહીં હોય",
+    "desc": "મહાન ક્રિકેટર સચિન તેંડુલકરનો આજે જન્મદિવસ છે. તેમને દેશ વિદેશમાંથી લોકો શુભેચ્છાઓ પાઠવી રહ્યા છે. ક્રિકેટના ઈતિહાસના સૌથી મોટા બેટર્સમાં તેમની ગણતરી થાય છે. 1989માં તેમણે ભારત માટે ડેબ્યુ કર્યું હતું. પણ તમને શું સચિન તેંડુલકર વિશે આ વાત ખબર છે? ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/happy-birthday-sachin-tendulkar-unique-incident-when-he-played-club-cricket-for-pakistan-474604 ",
+    "time": "2026-04-24T09:30:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘વેસ્ટર્ન સ્ટાઇલમાં...’, પ્રેમીને પલંગ સાથે બાંધી કપડાં કાઢ્યા, આંખે પાટા બાંધી પ્રેમિકાએ માણ્યું શરીરસુખ, પછી....",
+    "desc": "કર્ણાટકના બેંગલુરુમાં પોલીસે બુધવારે એક યુવતીની તેના બોયફ્રેન્ડની હત્યા કરવાના આરોપમાં ધરપકડ કરી હતી. પોલીસના જણાવ્યા અનુસાર, 21 એપ્રિલના રોજ, મહિલાએ યુવકને આશ્ચર્યચકિત કરીને લલચાવી, તેની આંખો પર પટ્ટી બાંધી, પછી તેના હાથ-પગ દોરડાથી બાંધી દીધા અને તેને જીવતો સળગાવી દીધો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bengaluru-girlfriend-lures-boyfriend-home-burns-him-alive-after-suspecting-affair-474607 ",
+    "time": "2026-04-24T09:09:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું લઘુત્તમ પગાર વધીને ₹72,000 થશે? જો સરકાર માંગ સ્વીકારે તો શું બદલાશે?",
+    "desc": "કેન્દ્રીય કર્મચારી સંગઠનો દ્વારા આઠમા પગાર પંચને પોતાની માંગણીઓ અંગેના પત્રો સોંપવામાં આવી રહ્યા છે. હવે સંરક્ષણ મંત્રાલયના સિવિલિયન કર્મચારીઓનું પ્રતિનિધિત્વ કરતા ભારતીય પ્રતિરક્ષા મજૂર સંઘ (BPMS) એ મેમોરેન્ડમ સોંપીને ફિટમેન્ટ ફેક્ટરને ચાર ગણું કરવાની માંગ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-will-the-minimum-salary-rise-to-72000-what-changes-will-occur-if-the-government-accepts-the-demand-474605 ",
+    "time": "2026-04-24T08:36:18.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "સ્ક્રીન પર ફ્લોટ થશે મેસેજ! WhatsAppનું નવું ફીચર બદલી નાંખશે ચેટની ગેમ, આવી રહ્યું છે આ નવું ફીચર",
     "desc": "WhatsApp ટૂંક સમયમાં એક એવું ફીચર લાવવા જઈ રહ્યું છે, જેના કારણે તમારે વારંવાર એપ ખોલવાની જરૂર નહીં પડે. 'નોટિફિકેશન બબલ' નામનું આ નવું ફીચર સીધું સ્ક્રીન પર મેસેજ દેખાડશે અને ત્યાંથી જ રિપ્લાય કરવાનો ઓપ્શન પણ આપશે.",
@@ -378,15 +414,6 @@ const newsData_gu = [
     "time": "2026-04-22T07:40:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ઇંધણની અછત સર્જાતા જ મોકલ્યું બમણું તેલ... યુએઈ-સાઉદી ટેન્કરો હોર્મુઝમાં રોકાઈ ગયા ત્યારે આ દેશે આપ્યો ભારતનો ટેકો, જાણો",
-    "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થવાથી મધ્ય પૂર્વમાંથી તેલનો પુરવઠો લગભગ બંધ થઈ ગયો છે, જેના કારણે ભારતની ક્રૂડ ઓઈલ આયાતમાં 13% ઘટાડો થયો છે. આ પુરવઠા કટોકટી વચ્ચે આ દેશે તેલ મોકલીને ભારતના ઉર્જા બજારને જાળવી રાખ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/double-the-amount-of-oil-was-sent-as-soon-as-fuel-shortage-arose-this-country-supported-india-474254 ",
-    "time": "2026-04-22T07:25:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ક્રિસ ગેલનો વર્લ્ડ રેકોર્ડ તૂટ્યો, અભિષેક શર્માએ T20માં કર્યો કમાલ",
     "desc": "અભિષેક શર્મા ટી20 ક્રિકેટમાં ઉભરતો ભારતીય સ્ટાર બેટ્સમેન છે. સનરાઈઝર્સ હૈદરાબાદ અને દિલ્હી કેપિટલ્સ વચ્ચે રમાયેલી IPl મેચમાં અભિષેક શર્માએ એક ઐતિહાસિક ઇનિંગ રમી અને અનેક રેકોર્ડ પોતાના નામે કર્યા. આ દરમિયાન તેણે વેસ્ટ ઈન્ડિઝના પૂર્વ દિગ્ગજ બેટ્સમેન ક્રિસ ગેલનો વર્લ્ડ રેકોર્ડ તોડ્યો છે.",
@@ -430,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-csk-ayush-mhatre-ruled-out-of-ipl-2026-due-to-injury-474245 ",
     "time": "2026-04-22T06:30:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગેસ સિલિન્ડરની ડિલિવરી માટે નવો નિયમ, હવે DAC કોડ વગર નહીં મળે બાટલો, જાણો વિગતો",
-    "desc": "મિડલ ઈસ્ટમાં સંકટ વચ્ચે ઓઈલ કંપનીઓએ હાલમાં રાંધણ ગેસ સિલિન્ડર સંલગ્ન નિયમમાં ફેરફાર કર્યો છે. હવે DAC નંબર વગર ગેસ સિલિન્ડરની ડિલિવરી થશે નહીં. આ કોડ શું છે અને તે કેવી રીતે મળે અને જો ન મળે તો શું થાય.... જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-rule-you-will-not-get-the-cylinder-without-dac-code-know-the-details-474241 ",
-    "time": "2026-04-22T05:18:05.000Z"
   },
   {
     "cat": "World",
@@ -493,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/this-gujarati-all-rounder-worth-7-crores-has-not-got-a-chance-to-play-in-ipl-2026-yet-expressed-his-sadness-know-this-474186 ",
     "time": "2026-04-21T13:42:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કર્મચારીઓ માટે ખુશખબર! શિફ્ટ પછી 15 મિનિટ પણ કામ કરશો તો મળશે બમણા રૂપિયા, જાણો શું છે નિયમ",
-    "desc": "ભારતમાં નોકરી કરનારા કરોડો લોકો માટે એક મોટા અને સારા સમાચાર છે. ઘણીવાર ઓફિસમાં કામનું ભારણ વધવા પર આપણે ઓફિસ ટાઈમ પૂરો થઈ ગયો હોવા છતાં પણ રોકાવું પડે છે, પરંતુ હવે નવા લેબર લોના નિયમ અનુસાર વધારાની મહેનતની પાઈ-પાઈ વસૂલ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-for-employees-if-you-work-even-15-minutes-after-the-shift-you-will-get-double-the-money-know-new-labour-law-474152 ",
-    "time": "2026-04-21T11:17:44.000Z"
   },
   {
     "cat": "Sports",
@@ -610,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/indian-cricketer-prithvi-shaw-holds-the-record-of-546-runs-in-one-innings-474024 ",
     "time": "2026-04-20T12:15:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શું તમે જાણો છો? સદી કે અડધી સદી વગર જ ODIમાં કોણે બનાવ્યા સૌથી વધુ રન? ભારતના આ ક્રિકેટરના નામે છે વર્લ્ડ રેકોર્ડ",
-    "desc": "દુનિયામાં એવા અનોખા ક્રિકેટરો પણ રહ્યા છે, જેમણે એક પણ સદી કે અડધી સદી ફટકાર્યા વગર વનડે ઇન્ટરનેશનલ ક્રિકેટમાં સૌથી વધુ રન બનાવ્યા છે. કોઈપણ ક્રિકેટર માટે વનડે ઇન્ટરનેશનલ ક્રિકેટમાં સદી કે અડધી સદી ફટકારવી એ એક ખૂબ જ ખાસ સિદ્ધિ હોય છે. દરેક બેટ્સમેનનું સપનું હોય છે કે તે ક્રિકેટના કોઈપણ ફોર્મેટમાં સદી કે અડધી સદી ફટકારીને પોતાના કરિયરમાં ચાર ચાંદ લગાવે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/do-you-know-who-scored-the-most-runs-in-odi-without-a-century-or-half-century-this-indian-cricketer-has-a-world-record-474015 ",
-    "time": "2026-04-20T11:05:44.000Z"
   },
   {
     "cat": "World",

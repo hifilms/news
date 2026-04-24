@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Watch",
+    "desc": "Rawalpindiz finally registered their first win of the ongoing Pakistan Super League (PSL) season in their ninth outing, against Islamabad United on Thursday. Even though it was a one-sided encounter, it was also filled with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-amir-and-faheem-ashraf-indulge-in-heated-verbal-argument-during-psl-2026-clash-watch-2026-04-24-1038749",
+    "time": "2026-04-24T08:40:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand veteran Suzie Bates to retire from international cricket after T20 World Cup",
     "desc": "New Zealand veteran Suzie Bates has confirmed that she will retire from international cricket after the upcoming T20 World Cup in June in England and Wales. She will bring curtains down on an illustrious career...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-are-csk-players-wearing-black-armbands-in-ipl-2026-clash-against-mumbai-indians-2026-04-23-1038677",
     "time": "2026-04-23T14:46:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Mumbai Indians batter return to playing XI?",
-    "desc": "Rohit Sharma injured his hamstring earlier in the IPL 2026. Since then, he has been out of action, while Mumbai Indians are yet to share a clear update about his possible return to the playing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-ruled-out-of-csk-clash-in-ipl-2026-when-will-mumbai-indians-batter-return-to-playing-xi-2026-04-23-1038670",
-    "time": "2026-04-23T13:55:37.000Z"
   }
 ];

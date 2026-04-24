@@ -1,7 +1,16 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "৮৪.৫১% রেকর্ড টার্ন-আউটে এবারের বিধানসভা ভোটে ভেস্তে যাবে সব প্রেডিকশন? ওটলপালট এক্সিট পোল",
+    "desc": "ভারতের নির্বাচন কমিশন স্পষ্ট করে দিয়েছে, পশ্চিমবঙ্গে প্রথম দফার ভোটগ্রহণ ২৩ এপ্রিল শুরু হলেও আজ কোনো বুথফেরত সমীক্ষা বা এগজিট পোল প্রকাশ করা যাবে না। নির্বাচনের স্বচ্ছতা বজায় রাখতে কমিশন এগজিট পোল প্রকাশের বিষয়ে অত্যন্ত কঠোর নিয়ম জারি করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/bengal-exit-polls-tamil-nadu-election-2026-polling-ends-across-234-seats-84-point-51-percent-turnout-wb-assembly-election_650404.html ",
+    "time": "2026-04-24T09:35:49.000Z"
+  },
+  {
     "cat": "World",
-    "title": "বাড়ি জুড়ে ঘুরে বেড়াচ্ছে ৬০,০০০ বিষধর সাপ! প্রয়োজন পোষ্য গোখরোর ছাল-চামড়া মাংসও; কেন এ সর্প-যজ্ঞ?",
+    "title": "বাড়ি জুড়ে কিলবিল করে ঘুরে বেড়াচ্ছে ৬০,০০০ বিষধর সাপ! বেচে কোটি কোটি টাকা আয়",
     "desc": "এঁর বাড়ি জুড়ে ঘুরে বেড়াচ্ছে ৬০,০০০ বিষধর সাপ! এঁর প্রয়োজন এই সব পোষ্য সাপের ছাল-চামড়া মাংসও; কেন? ব্যবসা। বিষধর এই সব ভয়ংকর সাপ পুষেই বছরে তাঁর প্রায় ১ কোটি ৪০ লক্ষ টাকা আয়! অত্যন্ত বিষধর প্রজাতির পিট ভাইপার ‘ফাইভ স্টেপ স্নেক’ এবং প্রায় ১০,০০০ গোখরো রয়েছে তরুণীর খামারে।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
@@ -106,15 +115,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/must-be-hanged-meerut-blue-drum-victim-saurabh-rajput-mother-breaks-down-in-court_650038.html ",
     "time": "2026-04-22T11:58:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "একজন মুখ্যমন্ত্রী যখন তদন্ত চলাকালীন নিজে ঘটনাস্থলে গিয়ে হস্তক্ষেপ করেন, তখন সেটা গণতন্ত্রের জন্য অশনিসংকেত: সুপ্রিম কোর্ট",
-    "desc": "আই-প্যাক মামলায় বুধবার সুপ্রিম কোর্টে রাজ্য পুলিসের প্রাক্তন ডিজির পক্ষে দাঁড়িয়ে সওয়াল করতে গিয়ে এনফোর্সমেন্ট ডিরেক্টরেটের (ED) এক্তিয়ার নিয়ে একগুচ্ছ আইনি প্রশ্ন তুললেন প্রবীণ আইনজীবী অভিষেক মনু সিঙ্ঘভি। তাঁর সওয়ালের মূল বক্তব্য-- ইডি শুধু আইনি ক্ষমতার অধিকারী সংস্থা, কোনও সাংবিধানিক অধিকারের মালিক নয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ed-vs-ipac-case-verdict-in-supreme-court-slamed-wb-state-govt-and-mamata-banerjee-solicitor-general-tushar-mehta-abhishek-singhvi-menaka-guruswamy-why-cm-interfare-in-ed-enquiry_650022.html ",
-    "time": "2026-04-22T11:02:51.000Z"
   },
   {
     "cat": "Entertainment",
