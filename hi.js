@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "CSK shatter multiple records with a dominant 103-run win over Mumbai Indians at Wankhede Stadium",
+    "desc": "The El-Clasico of the Indian Premier League (IPL) was supposed to be the most thrilling contest of the season. But it fizzled into a one-sided encounter as Mumbai Indians succumbed to a 103-run defeat against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-shatter-multiple-records-with-a-dominant-103-run-win-over-mumbai-indians-at-wankhede-stadium-2026-04-24-1038704",
+    "time": "2026-04-24T02:10:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Praful Hinge reveals chat with Ian Bishop, recalls injury setback and Varun Aaron's priceless pep-talk",
     "desc": "Praful Hinge established his authority with a four-wicket haul in his debut IPL game. He dismissed Vaibhav Sooryavanshi, Dhruv Jurel, Lhuan-dre Pretorious and Riyan Parag, leaving Rajasthan Royals clueless in the middle. Courtesy of his...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harmanpeet-kaur-breaks-chamari-athapaththu-s-legendary-record-in-india-s-third-t20i-vs-south-africa-2026-04-23-1038656",
     "time": "2026-04-23T12:04:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I leave my personal ego in hotel'",
-    "desc": "Ravindra Jadeja was adjudged the Player of the Match for his incredible all-round show in the IPL 2026 clash against Lucknow Super Giants. Initially, he played a vital knock of unbeaten 43 runs off 29...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-leave-my-personal-ego-in-hotel-ravindra-jadeja-on-limited-bowling-in-ipl-2026-2026-04-23-1038652",
-    "time": "2026-04-23T11:32:34.000Z"
   }
 ];
