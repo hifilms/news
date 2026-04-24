@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "શું સાંસદ પદ પર રહેશે રાઘવ ચઢ્ઢા ? જાણો શું કહે છે પક્ષપલટા વિરોધી કાયદો",
+    "desc": "આપમાંથી રાઘવ ચઢ્ઢા સહિતના 7 સાંસદોના રાજીનામાથી સમગ્ર રાજકારણમાં ગરમાવો લાવી દીધો છે. સાંસદોએ જણાવ્યું કે અને વિલીનીકરણ માટે તમામ શરતોનું પાલન કરી રહ્યા છે અને અમારી પાસે 66% સાંસદોનું સમર્થન પણ છે. ત્યારે જાણો આપ કઈ રીતે 7 સાંસદોને ગૃહમાંથી દૂર કરે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/will-raghav-chadha-continue-as-an-mp-know-what-the-anti-defection-law-says-474671 ",
+    "time": "2026-04-24T12:49:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "જો હાર્દિક પંડ્યાથી છીનવાશે કેપ્ટનશીપ તો કોણ બનશે MIનો નવો કિંગ? આ નામ છે રેસમાં સૌથી આગળ",
+    "desc": "IPL 2026ની શરૂઆતથી ખરાબ ફોર્મમાં ચાલી રહેલી મુંબઈ ઈન્ડિયન્સના કેપ્ટન બદલવાની માંગ તેજ બની છે. હાર્દિક પાસેથી કેપ્ટનશીપ છીનવીને બીજા ખેલાડીને આપવાની ચર્ચા છે. ચાલો જાણીએ હાર્દિકની જગ્યાએ કેપ્ટનશીપ માટે કયા ચાર ખેલાડીઓ દાવેદાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-if-hardik-pandya-is-stripped-of-the-captaincy-who-will-become-the-new-king-of-mi-this-name-is-at-the-forefront-of-the-race-474670 ",
+    "time": "2026-04-24T12:48:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રાઘવ ચઢ્ઢા લઈને નવા ડેપ્યુટી લીડર સુધી, કોણે-કોણે AAP છોડ્યું; 7 માંથી આ બે નામે બધાને ચોંકાવ્યા",
+    "desc": "આમ આદમી પાર્ટી (AAP)ને મોટો ઝટકો લાગ્યો છે. પાર્ટીના સંસદીય દળમાં ભંગાણ પડ્યું છે. રાજ્યસભાના 10માંથી 7 સાંસદોએ એકસાથે પાર્ટી છોડી દીધી છે અને ભાજપમાં વિલય કરી લીધું છે. રાઘવ ચઢ્ઢા સહિત હરભજન સિંહ, રાજેન્દ્ર ગુપ્તા, વિક્રમ સાહની અને સ્વાતિ માલીવાલે પણ ભાજપમાં જોડાયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/from-raghav-chadha-to-the-new-deputy-leader-who-left-aap-out-of-7-these-two-names-surprised-everyone-474634 ",
+    "time": "2026-04-24T12:37:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "વિપુલ શાહની ફિલ્મ કેરલા સ્ટોરી 2 આ તારીખે ઓટીટી પર થશે રિલીઝ",
+    "desc": "વિપુલ શાહની ફિલ્મ કેરલા સ્ટોરી 2 હવે ઘર બેઠા ઓટીટી પર જોઈ શકશો. આ ફિલ્મ ઓટીટી રિલીઝ માટે તૈયાર છે અને ઓટીટી રિલીઝની તારીખ સામે પણ આવી ગઈ છે. તો ફટાફટ જાણી લો ફિલ્મ રિલીઝની તારીખ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/vipul-shah-film-kerala-story-2-ott-release-date-watch-kerala-story-2-on-zee5-474633 ",
+    "time": "2026-04-24T11:07:45.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "કોલ ગર્લ પાછળ આરોપી વેડફી નાંખતો હતો રૂપિયા..! IRS અધિકારીની દીકરીની હત્યા મુદ્દે એક નવો ખુલાસો",
     "desc": "દિલ્હીના ચોંકાવનારા હત્યાકાંડમાં ધરપકડ કરાયેલા આરોપી રાહુલ મીનાના ખુલાસા દરેકને સ્તબ્ધ કરી રહ્યા છે. તપાસમાં સામે આવ્યું છે કે તે અત્યંત વિલાસી અને મોજ-શોખીન પ્રકારનો યુવક હતો અને તેના પગારના તમામ પૈસા કોલ ગર્લ્સ પાછળ ખર્ચ કરી નાખતો હતો. તેને ઓનલાઇન જુગાર રમવાનો પણ શોખ હતો, જેના માટે તે અવારનવાર લોકો પાસેથી પૈસા ઉછીના લેતો હતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,15 +387,6 @@ const newsData_gu = [
     "time": "2026-04-22T10:45:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સ્માર્ટ મીટર બરાબર કામ કરે છે કે નહીં તે કેવી રીતે જાણવું? આ 5 ઉપાય અજમાવી જુઓ",
-    "desc": "હવે તો ઝડપથી ઘરે ઘરે સ્માર્ટ મીટર જોવા મળી રહ્યા છે. જો કે સ્માર્ટ મીટરને લઈને લોકો એવી ફરિયાદ પણ કરે છે કે તેમાં બિલ વધારે આવે છે. ત્યારે જો તમને પણ આવું લાગતું હોય તો આ ટિપ્સ ધ્યાનમાં રાખો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-to-check-if-a-smart-meter-is-working-properly-or-not-5-simple-tips-474292 ",
-    "time": "2026-04-22T10:16:28.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "હોર્મુઝ સંકટ વચ્ચે, તેલ પર ભારતનો માસ્ટર પ્લાન, પેટ્રોલ ₹60-70 પ્રતિ લિટર વેચાશે! મોટી ભૂમિકા ભજવશે ઇથેનોલ",
     "desc": "ગડકરીનું આ નિવેદન એવા સમયે આવ્યું છે જ્યારે વૈશ્વિક ઉર્જા બજારો પશ્ચિમ એશિયામાં લાંબા સમયથી ચાલી રહેલા સંઘર્ષનો સામનો કરી રહ્યા છે, જેના કારણે પરંપરાગત તેલ પુરવઠા શૃંખલાઓમાં નોંધપાત્ર વિક્ષેપ પડ્યો છે અને આયાત બિલમાં વધારો થયો છે. આ મહત્વાકાંક્ષી લક્ષ્યનું મુખ્ય કારણ ભારતની અશ્મિભૂત ઇંધણની આયાત પર ભારે નિર્ભરતા છે.",
@@ -367,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/100-percent-ethanol-will-be-added-to-petrol-gadkari-new-vision-this-is-a-big-challenge-for-companies-474234 ",
     "time": "2026-04-22T09:40:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું છે અમિત શાહનું સાયલન્ટ મિશન? બંગાળના રાજકીય કોયડા પર કેટલા ખરા ઉતરશે &amp;#039;‘BJPના ચાણક્ય&amp;#039;",
-    "desc": "પશ્ચિમ બંગાળમાં 23 એપ્રિલે પ્રથમ તબક્કાની વિધાનસભા ચૂંટણી યોજાવાની છે, જ્યારે 29 એપ્રિલે બીજા તબક્કાનું મતદાન થશે. આ વખતે ભાજપે જીત મેળવવા અને મમતા બેનર્જીએ પોતાની સત્તા બચાવવા માટે પૂરી તાકાત લગાવી દીધી છે. આ દરમિયાન અમિત શાહે આ વખતે એક 'સાયલન્ટ મિશન' શરૂ કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-is-amit-shahs-silent-mission-how-well-will-the-bjps-chanakya-measure-up-against-bengals-political-puzzle-474276 ",
-    "time": "2026-04-22T09:03:33.000Z"
   },
   {
     "cat": "Tech",
@@ -610,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shark-tank-judge-namita-thapar-got-into-trouble-for-explaining-the-benefits-of-namaz-people-abused-her-and-she-cleaned-it-up-crying-know-this-474025 ",
     "time": "2026-04-20T12:32:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "85 ફોર, 5 સિક્સ અને 546 રન... આ ભારતીય બેટ્સમેન સામે દયાની ભીખ માંગતા રહ્યા બોલરો",
-    "desc": "ક્રિકેટ અનિશ્ચિતતાઓની રમત છે, ક્રિકેટમાં ગમે ત્યારે ગમે તે થઈ શકે છે. અનેક રેકોર્ડ બને છે અને તૂટે છે. આવો જ એક રેકોર્ડ ભારતીય બેટ્સમેનના નામે છે. જેણે માત્ર 330 બોલમાં 546 રન ફટકાર્યા હતા. આ દરમિયાન તેણે 85 ચોગ્ગા અને 5 છગ્ગા ફટકાર્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/indian-cricketer-prithvi-shaw-holds-the-record-of-546-runs-in-one-innings-474024 ",
-    "time": "2026-04-20T12:15:21.000Z"
   },
   {
     "cat": "World",

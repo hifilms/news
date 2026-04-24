@@ -81,24 +81,6 @@ const newsData_bn = [
     "time": "2026-04-22T14:05:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "রাস্তা বন্ধ করে সস্তার রাজনীতি করতে এসেছেন কেন, ভাগুন এখান থেকে: ক্ষিপ্ত মহিলার তীব্র বিরোধে পালিয়ে গেলেন হেভিওয়েট বিজেপিমন্ত্রী",
-    "desc": "তীব্র যানজটে আটকে পড়ে মেজাজ হারালেন এক মহিলা। শুধু বিরক্ত হওয়াই নয়, গাড়ি থেকে নেমে সোজা প্রতিবাদ মিছিলে ঢুকে পড়ে জলসম্পদ মন্ত্রী গিরীশ মহাজন এবং কর্তব্যরত পুলিস আধিকারিকদের রীতিমতো তুলোধোনা করলেন তিনি। তাঁর এই সাহসিকতা এবং রাগের ভিডিও এখন সোশ্যাল মিডিয়ায় দাবানলের মতো ছড়িয়ে পড়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/mumbai-woman-confronts-minister-girish-mahajan-worli-traffic-jam-viral-video_650054.html ",
-    "time": "2026-04-22T13:14:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "RBI New e-mandate guidelines: ১৫০০০ টাকা পর্যন্ত পেমেন্ট হবে OTP ছাড়াই, অটো-ডেবিটে RBI-এর নয়া নিয়ম-- UPI-এর ক্ষেত্রে কী হবে?",
-    "desc": "ব্যবহারকারীরা একবারের জন্য AFA ব্যবহার করে ই-ম্যান্ডেট নিবন্ধন করতে পারবেন। ১৫০০০ টাকার সীমার বেশি লেনদেনের ক্ষেত্রে অতিরিক্ত প্রমাণীকরণ বা AFA প্রয়োজন হবে। কার্ড, প্রিপেইড পেমেন্ট ইন্সট্রুমেন্ট এবং UPI-সহ সব ধরনের অটো-ডেবিট পেমেন্টের ক্ষেত্রে নয়া নিয়ম প্রযোজ্য হবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/rbi-updates-e-mandate-norms-no-otp-needed-for-auto-debit-up-to-rs-15000-fresh-guidelines-for-digital-and-upi-payments_650052.html ",
-    "time": "2026-04-22T12:46:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'আমার নামে গ্রেফতারি পরোয়ানা জারি হয়েছে, ১০০ ভাগ সত্যি', কমিশনের সাফাই উড়িয়ে বিস্ফোরক শ্রীজাত",
     "desc": "ভোটমুখী বাংলায় পারদ চড়ছে প্রতিনিয়ত। ২৩ এপ্রিল প্রথম দফার ভোট ঘিরে যখন সাজ সাজ রব, ঠিক তখনই রাজ্য রাজনীতি ও সংস্কৃতি মহলে আছড়ে পড়ল এক প্রবল বিতর্ক। প্রখ্যাত কবি, গীতিকার ও পরিচালক শ্রীজাত বন্দ্যোপাধ্যায়ের বিরুদ্ধে গ্রেফতারি পরোয়ানা জারি হয়েছে— এই খবরকে কেন্দ্র করে বুধবার সরগরম হয়ে উঠল রাজ্য। খবরের সূত্রপাত কয়েক বছর আগে তাঁর লেখা একটি ‘বিতর্কিত’ কবিতাকে কেন্দ্র করে হিন্দুত্ববাদী সংগঠনগুলোর দায়ের করা মামলা থেকে। কিন্তু দিনভর নাটুকে মোড় নিল এই ঘটনা, যেখানে খোদ নির্বাচন কমিশন এবং কবির বয়ান সম্পূর্ণ বিপরীত মেরুতে।",
@@ -106,15 +88,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/west-bengal-elections-srijato-bandyopadhyay-speaks-on-arrest-warrant_650050.html ",
     "time": "2026-04-22T12:23:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৬ মাসের মেয়ে কোলেই কোর্টে মুসকান, ছেলের খুনিকে দেখেই আদালতে কান্নায় ভেঙে পড়লেন সৌরভের মা",
-    "desc": "ভয়াবহ ‘ব্লু ড্রাম’ হত্যাকাণ্ডের প্রধান অভিযুক্ত মুসকান আদালতে হাজির হন তাঁর প্রেমিক সাহিলের সঙ্গে ৬ মাসের শিশুকন্যা রাধাকে কোলে নিয়ে। অন্যদিকে আদালতের এক পাশে দাঁড়িয়ে ছিলেন সৌরভের মা রেনু দেবী ও তাঁর ভাই রাহুল। অভিযুক্তরা আদালতে ঢুকতেই সৌরভের মা ভেঙে পড়েন এবং মৃত্যুদণ্ডের দাবি জানতে থাকেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/must-be-hanged-meerut-blue-drum-victim-saurabh-rajput-mother-breaks-down-in-court_650038.html ",
-    "time": "2026-04-22T11:58:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -169,14 +142,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-payel-de-controversy-late-rahul-banerjee-portrait-disrespect_649341.html ",
     "time": "2026-04-18T12:22:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

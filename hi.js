@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cheteshwar Pujara analyses reason behind Priyansh Arya, Vaibhav Sooryavanshi's success in IPL 2026",
+    "desc": "Young uncapped India openers, Vaibhav Sooryavanshi, Priyansh Arya and Prabhsimran Singh have been a force to reckon with in the ongoing edition of the Indian Premier League. They have decimated the bowlers in the powerplay...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cheteshwar-pujara-analyses-reason-behind-priyansh-arya-vaibhav-sooryavanshi-s-success-in-ipl-2026-2026-04-24-1038781",
+    "time": "2026-04-24T11:55:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at M Chinnaswamy Stadium in Bengaluru play?",
+    "desc": "Defending champions Royal Challengers Bengaluru will host Gujarat Titans in their upcoming IPL 2026 clash at the M Chinnaswamy Stadium. The Rajat Patidar-led side has kicked off their season remarkably well, winning four out of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-pitch-report-how-will-surface-at-m-chinnaswamy-stadium-in-bengaluru-play-2026-04-24-1038769",
+    "time": "2026-04-24T11:07:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Watch",
     "desc": "Rawalpindiz finally registered their first win of the ongoing Pakistan Super League (PSL) season in their ninth outing, against Islamabad United on Thursday. Even though it was a one-sided encounter, it was also filled with...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-matches-rohit-sharma-s-legendary-record-with-century-against-mumbai-indians-in-ipl-2026-2026-04-23-1038686",
     "time": "2026-04-23T16:08:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals announce Ben Duckett's replacement, sign England's all-format cricketer for IPL 2026",
-    "desc": "Delhi Capitals signed Rehan Ahmed as Ben Duckett’s replacement for IPL 2026. A couple of days before the season began, Duckett informed the team management about his decision to focus on red-ball cricket and, hence,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-announce-ben-duckett-s-replacement-sign-england-s-all-format-cricketer-for-ipl-2026-2026-04-23-1038678",
-    "time": "2026-04-23T14:58:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are CSK players wearing black armbands in IPL 2026 clash against Mumbai Indians?",
-    "desc": "Chennai Super Kings players wore black armbands during their match against Mumbai Indians at the Wankhede Stadium as a mark of respect for Mukesh Choudhary’s mother, who passed away earlier in the week after a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-csk-players-wearing-black-armbands-in-ipl-2026-clash-against-mumbai-indians-2026-04-23-1038677",
-    "time": "2026-04-23T14:46:48.000Z"
   }
 ];
