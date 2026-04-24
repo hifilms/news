@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh get closer to England in rankings as ODI World Cup 2027 qualification looms",
+    "desc": "Bangladesh won the third and final ODI against New Zealand on Thursday to seal a memorable series win by a 2-1 margin in Chattogram. With this series win, they added four rating points to their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-get-closer-to-england-in-rankings-as-odi-world-cup-2027-qualification-looms-2026-04-24-1038716",
+    "time": "2026-04-24T04:07:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Substitute for shoulder injury?': Fans question Shardul Thakur's inclusion for Santner in MI vs CSK clash",
+    "desc": "Chennai Super Kings registered their biggest win in IPL history by 103 runs against Mumbai Indians in the 33rd match of IPL 2026. It was a comprehensive performance from them but unfortunately, that was not...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/substitute-for-shoulder-injury-fans-question-shardul-thakur-s-inclusion-for-santner-in-mi-vs-csk-clash-2026-04-24-1038710",
+    "time": "2026-04-24T03:20:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "CSK shatter multiple records with a dominant 103-run win over Mumbai Indians at Wankhede Stadium",
     "desc": "The El-Clasico of the Indian Premier League (IPL) was supposed to be the most thrilling contest of the season. But it fizzled into a one-sided encounter as Mumbai Indians succumbed to a 103-run defeat against...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-ms-dhoni-not-playing-against-mumbai-indians-in-ipl-2026-when-will-he-play-again-2026-04-23-1038667",
     "time": "2026-04-23T13:33:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lamine Yamal ruled out of season with hamstring injury, will he be fit for FIFA World Cup 2026?",
-    "desc": "FC Barcelona have confirmed that Lamine Yamal will miss the remainder of the season after sustaining a hamstring injury. Medical assessments were carried out, which indicate that the youngster has a muscle tear, leading the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lamine-yamal-ruled-out-of-seasona-with-hamstring-injury-will-he-be-fit-for-fifa-world-cup-2026-2026-04-23-1038665",
-    "time": "2026-04-23T13:20:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur breaks Chamari Athapaththu's legendary record in India's third T20I vs South Africa",
-    "desc": "India captain Harmanpreet Kaur played a crucial knock of 66 runs off 38 balls in the third T20I against South Africa in Johannesburg. Opener Shafali Verma played an incredible knock of 64 runs, while Smriti...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpeet-kaur-breaks-chamari-athapaththu-s-legendary-record-in-india-s-third-t20i-vs-south-africa-2026-04-23-1038656",
-    "time": "2026-04-23T12:04:28.000Z"
   }
 ];

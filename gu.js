@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "વહેલી સવારે જાહેર થયા પેટ્રોલ-ડીઝલના આજના ભાવ, જાણો અમદાવાદ સહિત શહેરોમાં લેટેસ્ટ રેટ",
+    "desc": "મિડલ ઈસ્ટ અને હોર્મુઝનું સંકટ યથાવત રહેતા આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઈલના ભાવમાં ઉછાળો જોવા મળી રહ્યો છે. જેને પગલે પેટ્રોલ ડીઝલના ભાવ વધે તેવી લોકોને આશંકા છે. ગુજરાતના મોટા શહેરોમાં પેટ્રોલ અને ડીઝલના ભાવ કેટલે પહોંચ્યા તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/crude-oil-prices-rise-know-today-petrol-and-diesel-latest-price-ahmedabad-petrol-price-474580 ",
+    "time": "2026-04-24T05:02:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં બંપર મતદાન કોને કરાવશે ફાયદો, મમતાના ગઢમાં ખિલશે કમળ? જાણો શું કહે છે આંકડા",
+    "desc": "ચાર રાજ્યો અને એક કેન્દ્રશાસિત પ્રદેશમાં વિધાનસભા ચૂંટણીના ઢોલ વાગ્યા છે. જેમાં કેરળ, પુડુચેરી અને અસમમાં મતદાન થઈ ગયું જ્યારે તમિલનાડુ તમામ સીટો પર અને પશ્ચિમ બંગાળમાં પહેલા તબક્કાનું મતદાન ગઈ કાલે 23 એપ્રિલના રોજ થયું. જ્યાં મતદાનના આંકડાએ તમામ રેકોર્ડ તોડ્યા. બંપર મતદાન કોના પક્ષમાં જશે તે વિશે પાર્ટીઓ પોત પોતાના દાવા કરે છે પરંતુ આપણે આંકડાથી સમજીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/explainer-who-will-benefit-from-the-bumper-vote-in-west-bengal-will-the-lotus-bloom-in-mamata-stronghold-474569 ",
+    "time": "2026-04-24T03:21:20.000Z"
+  },
+  {
     "cat": "World",
     "title": "ઈરાને ટોપ સિક્યુરિટી અધિકારીને આપી દીધી ફાંસી, &amp;#039;ઓપરેશન ક્લીન&amp;#039; ચલાવી રહ્યું છે ખલીફા શાસન",
     "desc": "મોસાદના એ એજન્ટને ઈરાનમાં જાસૂસી કરવાના આરોપમાં ધરપકડ કરવામાં આવી છે. પરંતુ આ વખતની ધરપકડ ખૂબ જ મહત્વની છે, કારણ કે આ વખતે ઈરાન પ્રશાસનના જ એક મોટા અધિકારીને પકડવામાં આવ્યો છે, જેને ફાંસીના માંચડે લટકાવી દેવાયો છે. ઈરાને કેવી રીતે પોતાના જ દેશમાં છૂપાયેલા જાસૂસને પકડ્યો ચાલો જોઈએ.",
@@ -484,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/why-hardik-pandya-gets-angry-at-tilak-verma-captain-himself-revealed-474109 ",
     "time": "2026-04-21T06:09:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પત્ની-બાળકોનો ખર્ચો ન ઉઠાવી શકો તો લગ્ન ન કરો, હાઈકોર્ટનો મહત્વનો ચુકાદો",
-    "desc": "અલાહાબાદ હાઈકોર્ટે પતિએ દાખલ કરેલી અરજી ફગાવી દીધી જેમાં કહેવાયું હતું કે તે આર્થિક સ્થિતિ સારી ન હોવાના કારણે તે પત્નીને પૈસા આપી શકે તેમ નથી. કોર્ટનું કહેવું છે કે જો ખર્ચો ઉઠાવી શકો તેમ ન હોવ તો લગ્ન કરવા જોઈએ નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/allahabad-high-court-important-verdict-reject-husband-plea-citing-poor-finances-474108 ",
-    "time": "2026-04-21T06:00:55.000Z"
   },
   {
     "cat": "World",
