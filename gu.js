@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "હચમચી જશે દુનિયા... ગરીબ થઈ જશે 3 કરોડ લોકો, અમેરિકા-ઈરાન યુદ્ધ બન્યું કારણ",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે યુદ્ધ દુનિયા પર ભારે પડી રહ્યું છે. હોર્મુઝ બંધ હોવાથી જ્યાં તેલ-ગેસનું સંકટ છવાયેલું છે, તો સંયુક્ત રાષ્ટ્ર તરફથી મોટી ચેતવણી આપતા કહ્યું કે આ યુદ્ધ 3 કરોડો લોકોને ગરીબીમાં ધકેલી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/big-warning-30-million-people-in-the-world-will-become-poor-due-to-iran-us-war-474764 ",
+    "time": "2026-04-25T09:31:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વિરાટ કોહલીએ કર્યો કમાલ... IPL ઇતિહાસમાં આ સિદ્ધિ મેળવનાર બન્યો પ્રથમ ખેલાડી",
+    "desc": "વિરાટ કોહલીએ શુક્રવારે ગુજરાત ટાઈટન્સ સામે રમાયેલી મેચમાં કમાલ કર્યો છે. તે IPL ઈતિહાસમાં આ સિદ્ધિ મેળવનાર પ્રથમ ખેલાડી બન્યો છે. કોહલીએ ગુજરાત સામે 81 રનની ધમાકેદાર ઈનિંગ રમી હતી. જેમાં તેણે 8 ચોગ્ગા અને 4 છગ્ગા ફટકાર્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-becomes-the-first-player-in-ipl-history-to-hit-800-fours-474759 ",
+    "time": "2026-04-25T09:15:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 વચ્ચે મોટા સમાચાર, બદલાઈ જશે આ ટીમનો કેપ્ટન, જાણો શું છે કારણ",
+    "desc": "IPL 2026 તેના મહત્વપૂર્ણ તબક્કામાં પહોંચી ગઈ છે, અહીંથી પ્લેઓફમાં પહોંચવા માટે દરેક ટીમને એડીચોટીનું જોર લગાવવું પડશે. 25 એપ્રિલે સનરાઈઝર્સ હૈદરાબાદ અને રાજસ્થાન રોયલ્સ વચ્ચે સાંજે 7:30 વાગ્ય મેચ રમાશે. આ મેચમાં સનરાઈઝર્સ હૈદરાબાદની ટીમમાં મોટો ફેરફાર જોવા મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pat-cummins-set-to-return-and-take-back-sunrisers-hyderabad-captaincy-ipl-2026-474750 ",
+    "time": "2026-04-25T08:35:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હાઈથી હજુ પણ સોનું 24000 અને ચાંદી 1.42 લાખ સસ્તા, શું આ ખરીદી માટે યોગ્ય સમય? જાણો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીના ભાવમાં સતત ઉતાર ચડાવ જોવા મળ્યા છે. એમાં પણ મિડલ ઈસ્ટમાં તણાવ અને હોર્મુઝના સંકટને પગલે ક્રૂડ ઓઈલના ભાવમાં ઉછાળાની સ્થિતિએ કિમતી ધાતુઓ પર દબાણ સર્જ્યું છે. સપ્તાહમાં સોના અને ચાંદીમાં શું મૂવમેન્ટ જોવા મળી તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-still-24000-and-silver-1-42-lakh-cheaper-than-all-time-high-ibja-rates-is-this-right-time-to-buy-474746 ",
+    "time": "2026-04-25T07:40:48.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "કોકેનનું સેવન કરતા ઝડપાયો આ દિગ્ગજ ક્રિકેટર, 2 વર્ષનો લાગ્યો પ્રતિબંધ, ક્રિકેટ જગતમાં હાહાકાર",
     "desc": "ન્યુઝીલેન્ડના પૂર્વ ઓલરાઉન્ડર ડગ બ્રેસવેલને કોકેન લેવાના ગુના બદલ બે વર્ષ માટે સસ્પેન્ડ કરવામાં આવ્યો છે. સપ્ટેમ્બર 2025માં કાઉન્ટી ચેમ્પિયનશિપ મેચ દરમિયાન કોકેનનો ટેસ્ટ પોઝિટિવ આવ્યા બાદ બ્રેસવેલ પર પ્રતિબંધ મૂકવામાં આવ્યો હતો. જો કે, તે આંતરરાષ્ટ્રીય ક્રિકેટમાંથી નિવૃત્તિ લઈ ચૂક્યો છે.",
@@ -477,24 +513,6 @@ const newsData_gu = [
     "time": "2026-04-22T07:24:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હવે તમારી જાણ બહાર બેંક EMI નહીં કાપી શકે! રિઝર્વ બેંકે નિયમોમાં કર્યો ફેરફાર",
-    "desc": "હવે બેંક તમારી જાણ બહાર તમારા ખાતામાંથી પૈસા કાપી શકશે નહીં! ભારતીય રિઝર્વ બેંક (RBI) એ ગ્રાહકોના હિતની સુરક્ષા માટે એક ખૂબ જ મહત્વપૂર્ણ નિયમ લાગુ કર્યો છે. હવે બેંક તમારા ખાતામાંથી EMI અથવા કોઈપણ ઓટો-પેમેન્ટ કાપતા પહેલા તમને જાણ કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/rbi-new-rules-banks-can-no-longer-deduct-your-emi-without-prior-notice-reserve-bank-revises-rules-474258 ",
-    "time": "2026-04-22T07:20:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચે પર એક મોટી અપડેટ, કેન્દ્રીય કર્મચારીઓ માટે જાણવું જરૂરી",
-    "desc": "કેન્દ્રીય કર્મચારીઓ આઠમા પગાર પંચની ભલામણોની આતુરતાથી રાહ જોઈ રહ્યા છે. પગાર પંચે કર્મચારી સંગઠનો અને અન્ય હિસ્સેદારો પાસેથી સૂચનો મંગાવવાનું શરૂ કરી દીધું છે. આ સંદર્ભમાં, આઠમા પગાર પંચે એક મુખ્ય અપડેટ આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/a-major-update-on-the-8th-pay-commission-important-to-know-for-central-employees-474257 ",
-    "time": "2026-04-22T07:17:34.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "iOS 27 આવતા જ આ iPhones મોડલ બની જશે કચરો? જાણો તમારો ફોન લિસ્ટમાં છે કે નહીં",
     "desc": "શુ તમારો iPhone હવે જૂનો થઈ ગયો છે? Apple ટૂંક સમયમાં iOS 27 અપડેટ સાથે કેટલાક લોકપ્રિય iPhonesનો સપોર્ટ ખતમ કરી શકે છે. જાણો શું તમારો ફોન પણ આ લિસ્ટમાં સામેલ છે અને તેની તમારા પર શું અસર પડશે.",
@@ -502,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/will-these-iphones-become-obsolete-once-ios-27-arrives-check-if-your-phone-is-on-the-list-474255 ",
     "time": "2026-04-22T07:02:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL વચ્ચે CSK માટે ખરાબ સમાચાર, ટીમનો ઇનફોર્મ બેટ્સમેન આખી સીઝનમાંથી બહાર, હવે આ ખેલાડીની એન્ટ્રી પાક્કી !",
-    "desc": "CSKના 18 વર્ષીય બેટ્સમેન આયુષ મ્હાત્રે IPL 2026માંથી બહાર થઈ ગયો છે. SRH સામેની મેચ દરમિયાન બેટિંગ કરતી વખતે તેને હેમસ્ટ્રિંગની સમસ્યા થઈ હતી. 17 બોલમાં 30 રન બનાવ્યા પછી રન લેતી વખતે આ ઈજા થઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-csk-ayush-mhatre-ruled-out-of-ipl-2026-due-to-injury-474245 ",
-    "time": "2026-04-22T06:30:38.000Z"
   },
   {
     "cat": "World",
@@ -538,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/world-is-in-tension-kim-jong-un-missile-has-raised-the-temperature-know-what-this-new-threat-is-now-474187 ",
     "time": "2026-04-21T14:03:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "7 કરોડના આ ગુજરાતી ઓલરાઉન્ડરને નથી મળ્યો હજુ સુધી IPL 2026માં રમવાનો મોકો, વ્યક્ત કર્યું દુઃખ, જાણો",
-    "desc": "ગુજરાત ટાઇટન્સના આ ઓલરાઉન્ડરને પ્લેઇંગ ઇલેવનમાંથી બાકાત રાખવા અંગે ચાલી રહેલી ચર્ચાઓને \"બિનજરૂરી\" ગણાવી. તેમણે કહ્યું કે તેમનું ધ્યાન ફક્ત તક માટે તૈયાર રહેવા પર છે. મુંબઈ ઇન્ડિયન્સ સામે 99 રનની હાર બાદ, ટીમમાં ફેરફારની ચર્ચા વધી રહી છે, જ્યાં આ ખેલાડી મુખ્ય વિકલ્પ હોઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/this-gujarati-all-rounder-worth-7-crores-has-not-got-a-chance-to-play-in-ipl-2026-yet-expressed-his-sadness-know-this-474186 ",
-    "time": "2026-04-21T13:42:31.000Z"
   },
   {
     "cat": "Tech",
@@ -664,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mamta-kulkarni-birthday-celebration-video-viral-mamta-kulkarni-trolled-for-her-modern-look-473985 ",
     "time": "2026-04-20T08:08:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-US War: જેનો ડર હતો એ જ થયું, સીઝફાયર તૂટ્યો! અમેરિકાએ ઈરાની જહાજ પકડ્યું, તો ઈરાને કર્યો વળતો પ્રહાર",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે નવેસરથી મામલો ભડક્યો છે કારણ કે યુદ્ધવિરામ વચ્ચે જ અમેરિકાએ ઈરાની જહાજ પકડ્યા બાદ મીડિયા રિપોર્ટ્સ મુજબ ઈરાને પણ વળતો પ્રહાર કરીને અમેરિકાના જહાજો પર હુમલો કર્યો હોવાનું સામે આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-attack-and-seize-iranian-ship-in-hormuz-iran-warn-warns-for-big-respose-fresh-drone-attack-473939 ",
-    "time": "2026-04-20T03:24:27.000Z"
   },
   {
     "cat": "Entertainment",
