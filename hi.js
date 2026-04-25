@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rajasthan Royals head coach Kumar Sangakkara backs Riyan Parag despite ongoing struggle in IPL 2026",
+    "desc": "Rajasthan Royals have done remarkably well in their IPL 2026 campaign, winning five out of seven matches. The top three batters and the bowling unit have been highly effective, resulting in them being third on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-head-coach-kumar-sangakkara-backs-riyan-parag-despite-ongoing-struggle-in-ipl-2026-2026-04-25-1038854",
+    "time": "2026-04-25T06:37:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Arun Jaitley Stadium in New Delhi play?",
+    "desc": "Delhi Capitals will host Punjab Kings at the Arun Jaitley Stadium on April 25. The hosts have had a topsy-turvy season so far, winning and losing three each. They are currently sixth on the points...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-pbks-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-new-delhi-play-2026-04-25-1038851",
+    "time": "2026-04-25T06:00:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Starc joins Delhi Capitals camp for IPL 2026, unlikely to play vs Punjab Kings",
+    "desc": "Star Australia pacer Mitchell Starc has finally joined the Delhi Capitals camp for the IPL 2026 season. The southpaw was reportedly dealing with shoulder and elbow injuries, which ruled him out of the first half...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-joins-delhi-capitals-camp-for-ipl-2026-unlikely-to-play-vs-punjab-kings-2026-04-25-1038844",
+    "time": "2026-04-25T05:07:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sreesanth blocks Harbhajan Singh on Instagram after latter made advertisement on infamous slapgate saga",
     "desc": "Nearly two decades after the infamous slapgate incident, Sreesanth has publicly criticised Harbhajan Singh over a recent advertisement that referenced their past altercation. The former fast bowler suggested that while time had eased tensions, the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-breaks-chris-gayle-s-all-time-ipl-record-smashes-cracking-century-vs-rcb-in-ipl-2026-2026-04-24-1038806",
     "time": "2026-04-24T15:09:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India submits Expression of Interest to host Asian Games 2038; in race with South Korea, Mongolia",
-    "desc": "India has formally entered the race to host the 2038 Asian Games. The proposal has been submitted by the Indian Olympic Association and was recently taken up for discussion by the Olympic Council of Asia...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-submits-expression-of-interest-to-host-asian-games-2038-in-race-with-south-korea-mongolia-2026-04-24-1038804",
-    "time": "2026-04-24T14:55:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Phil Salt not playing RCB vs GT clash in IPL 2026 in Bengaluru?",
-    "desc": "Royal Challengers Bengaluru opener Phil Salt was ruled out of the IPL 2026 clash against Gujarat Titans. Captain Rajat Patidar announced it after the toss, revealing that the England international is currently dealing with an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-phil-salt-not-playing-rcb-vs-gt-clash-in-ipl-2026-in-bengaluru-2026-04-24-1038798",
-    "time": "2026-04-24T13:43:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former New Zealand cricketer handed two-year suspension after second cocaine test",
-    "desc": "Former New Zealand international Doug Bracewell has been barred from county cricket for two years following a positive test for cocaine during a domestic fixture in England. It was his second anti-doping violation that led...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-new-zealand-cricketer-handed-two-year-suspension-after-second-cocaine-test-2026-04-24-1038793",
-    "time": "2026-04-24T13:22:29.000Z"
   }
 ];
