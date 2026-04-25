@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sreesanth blocks Harbhajan Singh on Instagram after latter made advertisement on infamous slapgate saga",
+    "desc": "Nearly two decades after the infamous slapgate incident, Sreesanth has publicly criticised Harbhajan Singh over a recent advertisement that referenced their past altercation. The former fast bowler suggested that while time had eased tensions, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sreesanth-blocks-harbhajan-singh-on-instagram-after-latter-made-advertisement-on-infamous-slapgate-saga-2026-04-25-1038838",
+    "time": "2026-04-25T04:08:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill highlights factors, including dropped catch of Virat Kohli, behind Gujarat's defeat to RCB",
+    "desc": "Defending 206 runs against RCB at the M Chinnaswamy Stadium, Gujarat Titans had an early opening when Virat Kohli offered a chance in the very first over. The opportunity went down as Washington Sundar dropped...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-highlights-factors-including-dropped-catch-of-virat-kohli-behind-gujarat-s-defeat-to-rcb-2026-04-25-1038835",
+    "time": "2026-04-25T03:35:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli becomes first cricketer to register major feat in IPL, also becomes 3rd cricketer to hit 300 sixes",
     "desc": "Star batter Virat Kohli stole the show in Royal Challengers Bengaluru’s high-voltage clash against Gujarat Titans at the M Chinnaswamy Stadium. The veteran smacked 81 runs off 44 balls as the hosts registered a comfortable...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-new-zealand-cricketer-handed-two-year-suspension-after-second-cocaine-test-2026-04-24-1038793",
     "time": "2026-04-24T13:22:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cheteshwar Pujara analyses reason behind Priyansh Arya, Vaibhav Sooryavanshi's success in IPL 2026",
-    "desc": "Young uncapped India openers, Vaibhav Sooryavanshi, Priyansh Arya and Prabhsimran Singh have been a force to reckon with in the ongoing edition of the Indian Premier League. They have decimated the bowlers in the powerplay...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cheteshwar-pujara-analyses-reason-behind-priyansh-arya-vaibhav-sooryavanshi-s-success-in-ipl-2026-2026-04-24-1038781",
-    "time": "2026-04-24T11:55:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at M Chinnaswamy Stadium in Bengaluru play?",
-    "desc": "Defending champions Royal Challengers Bengaluru will host Gujarat Titans in their upcoming IPL 2026 clash at the M Chinnaswamy Stadium. The Rajat Patidar-led side has kicked off their season remarkably well, winning four out of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-pitch-report-how-will-surface-at-m-chinnaswamy-stadium-in-bengaluru-play-2026-04-24-1038769",
-    "time": "2026-04-24T11:07:23.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "ગુજરાત ટાઈટન્સની હારનું આ હતું સૌથી મોટું કારણ... કેપ્ટન શુભમન ગિલે ખોલી પોતાની જ ટીમની પોલ !",
+    "desc": "શુક્રવારની મેચમાં RCBએ ગુજરાત ટાઈટન્સને 5 વિકેટથી હરાવ્યું. આ મેચમાં કોહલી અને પડિકલની ઇનિંગ્સે સાઈ સુદર્શનની સદી પર પાણી ફેરવી દીધું હતું. મેચ પછી શુભમન ગિલે ટીમે ક્યાં ભૂલો કરી હતી, તેનો ખુલાસો કર્યો હતો અને હારના કારણો જણાવ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/biggest-reason-for-gujarat-titans-lost-against-rcb-captain-shubman-gill-statement-474711 ",
+    "time": "2026-04-25T04:41:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IPLમાં &amp;#039;પાકિસ્તાની&amp;#039; ક્રિકેટરની એન્ટ્રી! દિલ્હી કેપિટલ્સે બેન ડકેટના સ્થાને આપી તક",
     "desc": "દિલ્હી કેપિટલ્સે IPL 2026ની બાકીની સીઝન માટે ઈંગ્લેન્ડના ઓલરાઉન્ડર રેહાન અહમદને બેન ડકેટના સ્થાને ટીમમાં સામેલ કર્યા છે. 75 લાખ રૂપિયાની આ ડીલ હેઠળ રેહાન પ્રથમ વખત IPL રમશે. ડકેટના બહાર થયા બાદ ટીમને મજબૂતી આપવા માટે આ મહત્વનો નિર્ણય લેવામાં આવ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -565,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-us-war-ceasefire-deadline-donald-trump-benjamin-netanyahu-statements-latest-update-474082 ",
     "time": "2026-04-21T03:41:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોના કારણે હાર્યું ગુજરાત ટાઈટન્સ ? જાણો કેપ્ટન ગિલે કોને ગણાવ્યો હારનો જવાબદાર",
-    "desc": "IPL 2026માં મુંબઈ ઈન્ડિયન્સે ગુજરાત ટાઇટન્સને 99 રને હરાવ્યું. મુંબઈ ઈન્ડિયન્સે પ્રથમ બેટિંગ કરતા કુલ 199 રન બનાવ્યા હતા. જવાબમાં ગુજરાત ટાઇટન્સ 100 રનમાં ઓલઆઉટ થઈ ગઈ હતી. મેચ બાદ ગુજરાતના કેપ્ટન શુભમન ગિલે હારના કારણો જણાવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-statement-after-gujarat-titans-defeat-against-mumbai-indians-474081 ",
-    "time": "2026-04-21T03:27:59.000Z"
   },
   {
     "cat": "World",
