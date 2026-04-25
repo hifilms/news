@@ -1,9 +1,9 @@
 const newsData_mr = [
   {
     "cat": "Sports",
-    "title": "केएल राहुलचे 'विराट' शतक; पंजाबच्या गोलंदाजांना अक्षरशः रडवलं, जाणून घ्या LIVE अपडेट्स",
+    "title": "प्रभसिमरन अन् अय्यर चमकले, पंजाब किंग्सने इतिहास रचला, 264 धावा करून दिल्लीचा पराभव",
     "desc": "आयपीएल 2026 मधील 35वा सामना दिल्ली कॅपिटल्स आणि पंजाब किंग्स यांच्यात रंगणार आहे. दिल्लीतील अरुण जेटली स्टेडियमवर होणाऱ्या या लढतीकडे सर्व क्रिकेटप्रेमींचं लक्ष लागलं आहे. एका बाजूला टेबल टॉपर श्रेयस अय्यरच्या नेतृत्वाखालील पंजाब किंग्सची दमदार टीम असणार आहे, तर दुसऱ्या बाजूला अक्षर पटेलच्या नेतृत्वाखालील दिल्ली कॅपिटल्स मैदानात उतरणार आहे. दोन्ही संघांमध्ये जबरदस्त चुरस पाहायला मिळणार असून हा सामना अत्यंत रोमांचक ठरण्याची शक्यता आहे.",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/25/645848ef4f368d8cc7b53afa6aae0c7917771160717271378_original.jpg",
+    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/25/d3a03b47c8cdd8545a823cee274991c217771266885681378_original.jpg",
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/sports/cricket/dc-vs-pbks-ipl-2026-live-score-kl-rahul-axar-patel-priyansh-arya-shreyas-iyer-delhi-capitals-vs-punjab-kings-marathi-news-1421633",
     "time": "2026-04-25T09:16:42.000Z"
