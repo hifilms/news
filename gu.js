@@ -612,15 +612,6 @@ const newsData_gu = [
     "time": "2026-04-20T15:23:46.000Z"
   },
   {
-    "cat": "World",
-    "title": "આજે રાત્રે થઈ શકે છે કંઈક મોટું ખતરનાક ! It’s Monday. No excuses... Just wins, ટ્રમ્પના નવા નિવેદનથી ખળભળાટ, જાણો",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે તણાવ ખતરનાક સ્તરે પહોંચી ગયો છે. પરિસ્થિતિ એવી છે કે આજે રાત્રે ગમે ત્યારે મોટો હુમલો થઈ શકે છે. વ્હાઇટ હાઉસે તેના સત્તાવાર સોશિયલ મીડિયા એકાઉન્ટ પર લખ્યું કે, \"બસ, બસ, બહુત થયું, It’s Monday. No excuses... Just wins, આજે સોમવાર છે. કોઈ બહાનું નથી... બસ જીત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/something-big-and-dangerous-could-happen-tonight-its-monday-no-excuses-just-wins-trumps-new-statement-creates-a-stir-know-474040 ",
-    "time": "2026-04-20T14:42:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "નમાજના ફાયદાઓ જણાવીને મુશ્કેલીમાં ફસાઈ શાર્ક ટેન્કની જજ નમિતા થાપર, લોકોએ આપી ગાળો તો રોતા-રોતા આપી સફાઈ, જુઓ Video",
     "desc": "માર્ચમાં ઈદ પછી નમાઝના ફાયદાઓ પર નમિતા થાપરે એક રીલ બનાવી હતી. તે લાંબા સમયથી આ માટે ટ્રોલ થઈ રહી છે. હવે, નમિતાએ ટ્રોલ્સને જવાબ આપતા કહ્યું છે કે તેમની સાથે આવું કરનારાઓનો કર્મા જવાબ આપશે.",

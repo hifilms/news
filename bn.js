@@ -90,15 +90,6 @@ const newsData_bn = [
     "time": "2026-04-23T12:35:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "দিল্লিতে তরুণীকে ধর্ষণ-খুন করার আগে ১দিন আগেই গৃহবধূকেও নখদাঁতে ছিঁড়েছিল বর্বর রাহুল",
-    "desc": "অনলাইন জুয়ায় আসক্ত রাহুল মীনা দেনার দায়ে রাজস্থান থেকে পালিয়ে দিল্লিতে আসে। সে তাঁর প্রাক্তন মালিকের বাড়িতে লুকিয়ে রাখা চাবি দিয়ে ঢুকে ইউপিএসসি পরীক্ষার্থী তরুণীকে ধর্ষণ ও খুন করে। চুরির উদ্দেশ্যে সে মৃত তরুণীর আঙুলের ছাপ দিয়ে ডিজিটাল লকার খোলার চেষ্টা করে",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/physical-assault-2-women-in-2-days-irs-officers-daughter-murder_650242.html ",
-    "time": "2026-04-23T08:48:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "বিয়ের ১ মাসেই মা হচ্ছেন কুম্ভখ্যাত 'নাবালিকা' মোনালিসা? তদন্তের মুখে ফরমান খানের বিস্ফোরক দাবি",
     "desc": "কেরালামের তিরুঅনন্তপুরমে চাঞ্চল্যকর বিয়ে থেকে শুরু করে 'লভ জিহাদ'-এর অভিযোগ— 'কুম্ভমেলার মোনালিসা' এবং ফরমান খানের কাহিনিতে এবার যোগ হলো এক নতুন নাটকীয় মোড়। বিয়ের মাত্র এক মাস পেরোতেই মোনালিসার অন্তঃসত্ত্বা হওয়ার দাবি ঘিরে ঘনীভূত হচ্ছে রহস্য।",
@@ -169,5 +160,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/sports/kolkata-knight-riders-kkr-kkr-in-ipl-2026-cameron-green-ajinkya-rahane-kkr-big-news-kkr-vs-gt-gujrat-titans-ipl-shahrukh-khan-cameron-green-ipl-2026_649353.html ",
     "time": "2026-04-18T14:54:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

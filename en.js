@@ -1,21 +1,138 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Annu on past comments about Priyanka refusing to kiss him",
+    "desc": "Actor Annu Kapoor clarified his past controversial remarks about Priyanka Chopra and an intimate scene in '7 Khoon Maaf'. He explained his frustration stemmed from persistent media questions about Chopra's comfort, leading him to comment on his perceived lack of 'hero' status. Kapoor also revealed he respected Chopra's hesitation and suggested removing the scene, which director Vishal Bhardwaj refused.",
+    "img": "https://static.toiimg.com/photo/msid-130521509,imgsize-57578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/annu-kapoor-reflects-on-his-past-comments-about-priyanka-chopra-refusing-to-kiss-him-i-am-not-a-hero/articleshow/130521479.cms",
+    "time": "2026-04-25T18:28:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel-Iran war LIVE: Trump cancels U.S. envoys’ visit to Pakistan for talks; says 'does not mean restart of war'",
+    "desc": "Iran’s Foreign Minister leaves Islamabad without meeting U.S. envoys, say Pakistan officials; Iran resumes commercial flights from Tehran’s international airport for the first time since the conflict with the U.S. and Israel began two months ago",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+    "time": "2026-04-25T18:14:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Calls to do away with elephants, fireworks in temple festivals get louder in Kerala",
+    "desc": "In the aftermath of the recent fireworks tragedy at Mundathikode in Thrissur, social media campaigns are gathering strength seeking to move away from the use of high-intensity gunpowder displays as well as elephants during festivities",
+    "img": "https://th-i.thgim.com/public/incoming/wu1927/article70906181.ece/alternates/LANDSCAPE_1200/80688_24_4_2026_19_6_56_2_TWO_WHEELERS_KKN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/calls-to-do-away-with-elephants-fireworks-in-temple-festivals-get-louder-in-kerala/article70902342.ece",
+    "time": "2026-04-25T17:48:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Stephen Fry",
+    "desc": "Esteemed actor and writer Stephen Fry encourages embracing life's experiences, urging readers to \"taste every fruit of every tree.\" He likens the world to a garden brimming with opportunities, asserting that refraining from exploration is a disservice to creation. Fry controversially labels temperance as wickedness in this context, advocating for indulgence in new ventures over self-restraint to avoid stagnation.",
+    "img": "https://static.toiimg.com/photo/msid-130515199,imgsize-145548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-stephen-fry-taste-every-fruit-of-every-tree-in-the-garden-at-least-once-it-is-an-insult-to-creation-not-to-experience-it-fully/articleshow/130515111.cms",
+    "time": "2026-04-25T17:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Running Point 2': All you need to know about Niko Mijailovic",
+    "desc": "In a heartfelt tribute, the second season of Kate Hudson's 'Running Point' shines a light on Niko Mijailovic, a talented young volleyball player who tragically lost his life to sudden cardiac arrest. His family shared that the first season of 'Running Point' was the last show he enjoyed watching, making this dedication all the more poignant.",
+    "img": "https://static.toiimg.com/photo/msid-130519107,imgsize-94222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/all-you-need-to-know-about-niko-mijailovic-who-running-point-season-2-is-dedicated-to/articleshow/130519000.cms",
+    "time": "2026-04-25T16:43:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘We Bury The Dead’ set for May OTT release",
+    "desc": "Brace yourself for 'We Bury The Dead', a gripping zombie apocalypse drama starring Daisy Ridley and Brenton Thwaites, premiering on Hulu this May 8th. Following its limited theatrical release, this film dives into Ava's harrowing quest to find her husband amidst a chaotic world ravaged by a rogue government weapon, forcing survivors to confront an army of the undead.",
+    "img": "https://static.toiimg.com/photo/msid-130519005,imgsize-49062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/we-bury-the-dead-ott-release-heres-when-and-where-you-can-watch-daisy-ridley-brenton-thwaites-zombie-film/articleshow/130518955.cms",
+    "time": "2026-04-25T16:35:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Songs from Charlize Theron’s ‘Apex’",
+    "desc": "Dive into the chilling world of 'Apex,' the latest OTT sensation featuring the dynamic duo of Charlize Theron and Taron Egerton. Set against the breathtaking backdrop of the wilderness, this intense survival film unravels the compelling tale of a distraught climber (Theron) pushed to her limits as she faces off against a relentless serial killer (Egerton).",
+    "img": "https://static.toiimg.com/photo/msid-130518948,imgsize-100586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/mountain-to-boogie-streetall-of-the-songs-charlize-therons-apex/articleshow/130518910.cms",
+    "time": "2026-04-25T16:31:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fan tried to hug pregnant Kiara Advani, Sidharth was afraid to send her for shoot",
+    "desc": "Sidharth Malhotra's bodyguard, Zeeshan Qureshi, recounted a tense moment during Kiara Advani's pregnancy when a corporate associate attempted to approach her inappropriately on set. He also detailed the extensive, months-long planning and security measures, including drone surveillance, that ensured the privacy of their Jaisalmer wedding.",
+    "img": "https://static.toiimg.com/photo/msid-130518756,imgsize-78980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fan-tried-to-hug-pregnant-kiara-advani-siddharth-malhotra-was-afraid-to-send-her-for-shoot-recalls-bodyguard/articleshow/130518381.cms",
+    "time": "2026-04-25T16:23:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi overtakes Kohli, Rahul in Orange Cap race after sensational ton",
+    "desc": "Teenage sensation Vaibhav Sooryavanshi has claimed the IPL 2026 Orange Cap, surpassing Virat Kohli with a blistering 103 off 37 balls. His explosive innings, featuring a 15-ball fifty and a 36-ball century, propelled Rajasthan Royals to a massive total. Sooryavanshi now leads the charts with 357 runs at an exceptional strike rate.",
+    "img": "https://static.toiimg.com/photo/msid-130518547,imgsize-82832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-vaibhav-sooryavanshi-overtakes-virat-kohli-kl-rahul-in-orange-cap-race-after-sensational-ton/articleshow/130518557.cms",
+    "time": "2026-04-25T16:13:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why DC picked Vipraj over Chameera as concussion substitute",
+    "desc": "Ngidi suffered a head injury while trying to take a catch of Punjab Kings opener Priyansh Arya at the Arun Jaitley Stadium on Saturday and had to be taken off the field in an ambulance before being shifted to hospital.",
+    "img": "https://static.toiimg.com/photo/msid-130518493,imgsize-56458.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/lungi-ngidi-injury-why-delhi-capitals-picked-vipraj-nigam-over-dushmantha-chameera-as-concussion-substitute/articleshow/130518245.cms",
+    "time": "2026-04-25T16:12:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'See India as civilisation, not nation': Isha founder Sadhguru at IIT2026 meet in US",
+    "desc": "At the IIT2026 Global Conference, Sadhguru urged viewing India as a civilization, not just a nation, emphasizing its spiritual and scientific heritage. He highlighted rapid global change driven by AI, stressing the need for human clarity and understanding our own potential beyond mere data processing. The conference celebrated 75 years of IITs, focusing on AI, innovation, and collaboration.",
+    "img": "https://static.toiimg.com/photo/msid-130518187,imgsize-548084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/see-india-as-civilisation-not-nation-isha-founder-sadhguru-at-iit2026-meet-in-us/articleshow/130518186.cms",
+    "time": "2026-04-25T15:47:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AAP workers write 'Gaddar', burn effigy outside Rajya Sabha MP Rajinder Gupta's house after he joins BJP",
+    "desc": "Aam Aadmi Party workers protested outside Rajya Sabha MP Rajinder Gupta's Ludhiana residence, defacing walls and burning his effigy after he joined the BJP. This follows AAP MP Raghav Chadha's announcement of a split, citing the party's deviation from principles. Chadha claimed over two-thirds of AAP MPs supported the move, marking a significant setback for the party.",
+    "img": "https://static.toiimg.com/photo/msid-130518106,imgsize-3212103.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/watch-aap-workers-write-gaddar-burn-effigy-outside-rajya-sabha-mp-rajinder-guptas-house-after-he-joins-bjp/articleshow/130517929.cms",
+    "time": "2026-04-25T15:39:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Taliban Government says Afghans in Qatar can return 'with full confidence'",
+    "desc": "A U.S. State Department spokesperson said that moving Afghans at the Qatar camp “to a third country is a positive resolution that provides safety for these remaining people to start a new life outside of Afghanistan while upholding the safety and security of the American people”",
+    "img": "https://th-i.thgim.com/public/incoming/4ec24g/article70905919.ece/alternates/LANDSCAPE_1200/Trump_Afghans_26321.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/taliban-government-says-afghans-in-qatar-can-return-with-full-confidence/article70905619.ece",
+    "time": "2026-04-25T15:38:04.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Runs rack up, catches go down, records tumble and Shreyas Iyer-led PBKS remain unbeaten",
     "desc": "Dropped catches significantly impacted a high-scoring Indian Premier League match. Delhi Capitals' Karun Nair missed chances off Shreyas Iyer, who went on to score heavily. Punjab Kings' Shashank Singh also dropped KL Rahul, who registered a record-breaking score. These missed opportunities allowed batters to capitalize, contributing to a massive run chase and ultimately influencing the game's outcome.",
-    "img": "https://static.toiimg.com/photo/msid-130517938,imgsize-205018.cms",
+    "img": "https://static.toiimg.com/photo/msid-130520403,imgsize-1256475.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-runs-rack-up-catches-go-down-records-tumble-and-shreyas-iyer-led-pbks-remain-unbeaten/articleshow/130517943.cms",
     "time": "2026-04-25T15:29:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Shuttered filling stations, restricted sales fuel anxiety in Andhra Pradesh",
-    "desc": "Though the State government and oil marketing companies maintain that there is no scarcity of diesel and petrol, serpentine queues have become a common sight at outlets in Rajahmundry, Eluru, Vijayawada, Tirupati, Guntur, Kakinada, and Kurnool",
-    "img": "https://th-i.thgim.com/public/incoming/99cmm5/article70905978.ece/alternates/LANDSCAPE_1200/DSC_3300.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/shuttered-filling-stations-restricted-sales-fuel-anxiety-in-andhra-pradesh/article70905113.ece",
-    "time": "2026-04-25T15:28:22.000Z"
+    "cat": "Entertainment",
+    "title": "'Kantara' row: Court quashes FIR against Ranveer",
+    "desc": "Actor Ranveer Singh's plea to quash a criminal complaint over his 'Kantara' mimicry was accepted by the Karnataka High Court. He assured the court he would visit the Chamundi Hill Temple in Mysore as an apology for his controversial remarks, with the court to record this commitment before closing the plea.",
+    "img": "https://static.toiimg.com/photo/msid-130517910,imgsize-72718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kantara-mimicry-row-court-quashes-fir-against-ranveer-singh-directs-him-to-visit-chamundi-temple-within-four-weeks/articleshow/130517811.cms",
+    "time": "2026-04-25T15:27:06.000Z"
   },
   {
     "cat": "Sports",
@@ -25,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/axar-patels-brutal-verdict-we-deserved-to-lose-after-horror-show-in-the-field-in-punjab-kings-loss/articleshow/130517679.cms",
     "time": "2026-04-25T15:12:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bihar CM Samrat Choudhary continues courtesy visits to Nitish Kumar’s residence",
-    "desc": "In the last 10 days, Mr. Choudhary has made courtesy visits to Mr. Kumar’s residence four times, taking time out of his busy schedule. The former CM continues to stay in the bungalow designated for the CM.",
-    "img": "https://th-i.thgim.com/public/incoming/pel72l/article70906046.ece/alternates/LANDSCAPE_1200/20260425028L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-continues-courtesy-visits-to-nitish-kumars-residence/article70905581.ece",
-    "time": "2026-04-25T15:06:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -47,7 +155,7 @@ const newsData_en = [
   {
     "cat": "Politics",
     "title": "'Torn pants, run down car to Rs 100-crore house': Swati Maliwal's 'traitor' jibe at Arvind Kejriwal after AAP exit",
-    "desc": "Former Arvind Kejriwal aide Swati Maliwal has accused the former Delhi chief minister. She claims Kejriwal began his political journey in torn pants and with limited resources. Maliwal alleges that after coming to power, he constructed a house valued at one hundred crore rupees. She also criticized the AAP's governance in Punjab. The remarks follow a significant party exodus.",
+    "desc": "Former aide to Arvind Kejriwal and now BJP leader Swati Maliwal has accused the ex-Delhi CM of hypocrisy, claiming he began his political journey in torn pants with a two-rupee pen and a dilapidated car, but after coming to power built a house worth Rs 100 crore.She also criticised the AAP's governance in Punjab. The remarks follow a significant party exodus.",
     "img": "https://static.toiimg.com/photo/msid-130517308,imgsize-1167007.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/torn-pants-run-down-car-to-rs-100-crore-house-swati-maliwals-traitor-jibe-at-arvind-kejriwal-after-aap-exit/articleshow/130517164.cms",
@@ -297,24 +405,6 @@ const newsData_en = [
     "time": "2026-04-25T10:37:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Bollywood channelled Michael Jackson’s iconic style and influence",
-    "desc": "Michael Jackson's profound impact on global pop culture is evident in Bollywood's tributes. Artists like Tiger Shroff, Remo D'Souza's film 'ABCD', A. R. Rahman, and Jaaved Jaaferi have all drawn significant inspiration from the \"King of Pop's\" iconic music, dance, and stage presence, keeping his legacy alive.",
-    "img": "https://static.toiimg.com/photo/msid-130512545,imgsize-38810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-jaaved-jaaferi-prabhu-deva-when-bollywood-channelled-michael-jacksons-iconic-style-and-influence/articleshow/130512251.cms",
-    "time": "2026-04-25T10:23:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Johar to hold exclusive screening of ‘TDWP2’",
-    "desc": "Mumbai is gearing up for a star-studded evening as Karan Johar, the celebrated filmmaker, prepares to roll out the red carpet for an exclusive screening of 'The Devil Wears Prada 2.' Limited to just 50 distinguished attendees from the realms of Bollywood and fashion, this closed-door event promises to be a feast for both cinema enthusiasts and style aficionados.",
-    "img": "https://static.toiimg.com/photo/msid-130512361,imgsize-84724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-to-hold-exclusive-watch-party-for-the-devil-wears-prada-2-report/articleshow/130512279.cms",
-    "time": "2026-04-25T10:11:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Delhi Capitals making silly mistakes': Axar Patel's blunt admission during toss",
     "desc": "Delhi Capitals captain Axar Patel won the toss and chose to bat against table-toppers Punjab Kings. Patel acknowledged his team's avoidable mistakes, aiming to post a strong total and defend it on a dry, hot pitch. Both sides fielded unchanged XIs, with Punjab Kings captain Shreyas Iyer emphasizing staying in the moment and continuous improvement.",
@@ -322,51 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-delhi-capitals-making-silly-mistakes-axar-patels-blunt-admission-during-toss-vs-punjab-kings/articleshow/130512268.cms",
     "time": "2026-04-25T10:07:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gerard Butler talks about ‘Greenland 2: Migration’",
-    "desc": "Migration,' highlighting the film's core message of hope amidst dire circumstances. Butler emphasizes perseverance, while Baccarin reveals drawing from pandemic lockdown experiences to portray the Garrity family's challenging journey across a devastated Europe in search of a new home.",
-    "img": "https://static.toiimg.com/photo/msid-130512263,imgsize-132584.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/greenland-2-migration-gerard-butler-opens-up-about-post-apocalyptic-film-and-themes-sometimes-its-just-about-hanging-on/articleshow/130512217.cms",
-    "time": "2026-04-25T10:02:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Beaten up, threatened...': After joining BJP, Swati Maliwal recalls 2024 assault at Kejriwal's house",
-    "desc": "Rajya Sabha MP Swati Maliwal, now with the BJP, revealed she was intimidated and threatened after alleging an assault by an AAP aide at Kejriwal's residence in 2024. She claimed immense pressure to withdraw her FIR, leading to her being sidelined by the party. Maliwal also criticized AAP's governance in Punjab and praised PM Modi's leadership.",
-    "img": "https://static.toiimg.com/photo/msid-130512233,imgsize-838488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beaten-up-threatened-after-joining-bjp-swati-maliwal-recalls-2024-assault-at-kejriwals-house/articleshow/130512094.cms",
-    "time": "2026-04-25T10:01:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Punjab CM Bhagwant Mann seeks President Murmu's intervention after Raghav Chadha-led AAP exodus in Rajya Sabha",
-    "desc": "Punjab Chief Minister Bhagwant Mann will meet President Murmu to seek the recall of seven AAP MPs, including six from Punjab, who have joined the BJP. This move follows Raghav Chadha's announcement that two-thirds of AAP's Rajya Sabha members are merging with the BJP, citing the party's deviation from its principles.",
-    "img": "https://static.toiimg.com/photo/msid-130512227,imgsize-1073403.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-cm-bhagwant-mann-seeks-president-murmus-intervention-after-raghav-chadha-led-aap-exodus-in-rajya-sabha/articleshow/130512179.cms",
-    "time": "2026-04-25T10:00:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Akshaye confessed he couldn’t take his eyes off Aishwarya",
-    "desc": "Akshay Khanna confessed in 2017 that he finds his 'Taal' co-star, Aishwarya Rai Bachchan, so stunning that he can't take his eyes off her. He described the feeling as staring 'like a lunatic,' an effect no one else has on him. Khanna and Rai Bachchan previously starred together in 'Aa Ab Laut Chalen' and the critically acclaimed 'Taal'.",
-    "img": "https://static.toiimg.com/photo/msid-130512142,imgsize-21360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-dhurandhar-actor-akshaye-khanna-confessed-he-couldnt-take-his-eyes-off-aishwarya-rai-bachchan-its-embarrassing/articleshow/130512128.cms",
-    "time": "2026-04-25T09:54:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aishwarya Rai’s rare post-Miss World 1994 video leaves fans nostalgic",
-    "desc": "A heartwarming vintage video of Aishwarya Rai, post her 1994 Miss World win, shows her delightful interactions with children. Fans are captivated by her natural charm and maternal aura. The clip, believed to be filmed shortly after her crowning, features her playfully recreating the pageant moment with young ones.",
-    "img": "https://static.toiimg.com/photo/msid-130512000,imgsize-23108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rais-rare-post-beauty-pageant-1994-video-leaves-fans-nostalgic-fans-say-her-face-her-giggles-her-aura/articleshow/130512000.cms",
-    "time": "2026-04-25T09:46:52.000Z"
   },
   {
     "cat": "Business",
@@ -378,15 +423,6 @@ const newsData_en = [
     "time": "2026-04-25T09:28:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mohit Suri says he’d work with Emraan Hashmi anytime, calls him brother",
-    "desc": "In a recent statement, Mohit Suri put rumors to rest, affirming that he wasn't approached for 'Awarapan 2', even though he shares a deep connection with Emraan Hashmi. He couldn't help but applaud Hashmi's impressive scene in Aryan Khan's latest venture, dubbing it 'kicka**'. Reflecting on their past, Suri also mentioned how Hashmi turned down a part in 'Aashiqui 2'.",
-    "img": "https://static.toiimg.com/photo/msid-130511792,imgsize-41610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mohit-suri-says-he-would-work-with-emraan-hashmi-at-the-drop-of-a-hat-says-he-is-my-elder-brother/articleshow/130511792.cms",
-    "time": "2026-04-25T09:26:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Shocker for India's solar sector: US slaps 123% anti-dumping duty on imports",
     "desc": "The US has slapped a hefty 123.04% anti-dumping duty on Indian solar cells and modules, citing \"critical circumstances.\" This, combined with existing duties, makes US shipments unviable. However, Indian solar firms have already diversified exports to Europe and West Asia, mitigating the immediate impact. The industry plans to challenge the \"flawed\" findings.",
@@ -394,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/critical-circumstances-us-imposes-123-preliminary-anti-dumping-duty-on-indian-solar-imports-industry-flags-concerns/articleshow/130511631.cms",
     "time": "2026-04-25T09:16:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'My man crush’: When Ranveer praised Tiger Shroff",
-    "desc": "At the 'Singham Again' trailer launch, Ranveer Singh called Tiger Shroff his “man crush,” praising his dance and action skills. Directed by Rohit Shetty, the film stars Ajay Devgn, Kareena Kapoor, Akshay Kumar, and Deepika Padukone. Releasing this Diwali, it will clash with Bhool Bhulaiyaa 3 among fans worldwide today.",
-    "img": "https://static.toiimg.com/photo/msid-130511485,imgsize-26110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/my-man-crush-when-dhurandhar-star-ranveer-singh-praised-tiger-shroff-can-dance-like-michael-jackson/articleshow/130511485.cms",
-    "time": "2026-04-25T08:59:19.000Z"
   },
   {
     "cat": "Business",
@@ -433,39 +460,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Bhooth Bangla box office Day 9 [LIVE]: Film set to cross Rs 150 cr",
-    "desc": "In a spectacular box office run, Akshay Kumar's 'Bhooth Bangla' has stunned audiences, achieving over Rs 100 crore globally and closing in on Rs 150 crore. Spearheaded by the creative direction of Priyadarshan, this horror-comedy has raked in more than Rs 84 crore in its first week alone, charming viewers with its delightful mix of nostalgia and supernatural chills. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130510703,imgsize-87578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-9-live-akshay-kumar-starrer-set-to-cross-rs-150-crore-worldwide/articleshow/130510665.cms",
-    "time": "2026-04-25T08:04:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bizarre! PSL under fire as ball in Pakistan turns red again",
-    "desc": "The PSL 2026 season saw another bizarre moment as the match ball turned red during a Karachi Kings game due to dye from jerseys, repeating an earlier pink-ball incident. Marnus Labuschagne had said, \"What's going on? The ball is red.\" Despite the controversy, David Warner (63*) and Khushdil Shah (44) led Karachi to a five-wicket win over Lahore Qalandars.",
-    "img": "https://static.toiimg.com/photo/msid-130510891,imgsize-20264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bizarre-psl-under-fire-as-ball-in-pakistan-turns-red-again-watch/articleshow/130510620.cms",
-    "time": "2026-04-25T08:02:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Michael’ movie review: An opaque look at the man in the mirror",
     "desc": "By ending the biopic with ‘Bad’, Antoine Fuqua delivers a disappointing look at the life of the King of Pop, revealing little about the person behind the explosive music and electric dance numbers, who is brilliantly brought to life by Jaafar Jackson",
     "img": "https://th-i.thgim.com/public/entertainment/movies/au69sa/article70904731.ece/alternates/LANDSCAPE_1200/Michael.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/michael-movie-review-jaafar-jackson-antoine-fuqua-biopic/article70904674.ece",
     "time": "2026-04-25T07:54:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Only revealed Sangh’s true nature': Rahul Gandhi targets RSS after Ram Madhav’s Russia-Iran oil remarks in US",
-    "desc": "Congress leader Rahul Gandhi seized upon remarks by RSS leader Ram Madhav to criticise Prime Minister Narendra Modi. Madhav's initial comments suggested India yielded to US pressure on oil imports and tariffs, which he later retracted and apologized for. Congress claims this indicates PM Modi has lost his authority and India's sovereignty is compromised.",
-    "img": "https://static.toiimg.com/photo/msid-130510714,imgsize-54356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/only-revealed-sanghs-true-nature-rahul-gandhi-targets-rss-after-ram-madhavs-russia-iran-oil-remarks-in-us/articleshow/130510700.cms",
-    "time": "2026-04-25T07:51:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -493,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-38-live-ranveer-singhs-espionage-thriller-slowly-inches-towards-rs-1800-crore-worldwide/articleshow/130509647.cms",
     "time": "2026-04-25T07:35:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Made Rs 80L to 1Cr’ off slapgate: Sreesanth ends all ties with Harbhajan",
-    "desc": "S Sreesanth has cut ties with Harbhajan Singh after the IPL slapgate row resurfaced. Upset over an ad linked to the incident, he said, \"I'll forgive but I'll never forget.\" Sreesanth added, \"I have no relationship with that person,\" blocked him on social media, and called his public image “an act”.",
-    "img": "https://static.toiimg.com/photo/msid-130510212,imgsize-36780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/s-sreesanth-ends-all-ties-with-harbhajan-singh-claims-he-made-rs-80-lakh-to-rs-1-crore-from-slapgate/articleshow/130509916.cms",
-    "time": "2026-04-25T07:08:19.000Z"
   },
   {
     "cat": "World",
@@ -745,6 +736,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/starc-cleared-by-cricket-australia-to-play-ipl/article70896730.ece",
     "time": "2026-04-23T11:27:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I was not told to give up non-veg food,' says Mumtaz on marrying a Hindu",
+    "desc": "Veteran actor Mumtaz shares her journey from child artist to stardom. She discusses her hit pairings and a marriage proposal from Shammi Kapoor. Mumtaz chose her career then. Later, she married businessman Mayur Madhvani and left films at her peak. She also clarifies her platonic relationship with Feroz Khan.",
+    "img": "https://static.toiimg.com/photo/msid-130465254,imgsize-59848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-wasnt-told-to-give-up-non-veg-food-says-mumtaz-on-marrying-a-hindu-we-never-differentiated-between-religions/articleshow/130465119.cms",
+    "time": "2026-04-23T10:44:48.000Z"
   },
   {
     "cat": "Business",

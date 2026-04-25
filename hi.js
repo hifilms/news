@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunrisers Hyderabad complete the double over Rajasthan Royals, register dominant win in Jaipur",
+    "desc": "Game 36 of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Sunrisers Hyderabad. The two sides locked horns at the Sawai Mansingh Stadium in Jaipur on April 25. The clash began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-complete-the-double-over-rajasthan-royals-register-dominant-win-in-jaipur-2026-04-25-1038917",
+    "time": "2026-04-25T17:59:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi limps off the ground against Sunrisers Hyderabad in worrying signs for RR",
+    "desc": "In a worrying moment for Rajasthan Royals, the side’s 15-year-old superstar batter Vaibhav Sooryavanshi was captured limping off the field. The IPL orange cap holder ran after a ball hit by Ishan Kishan and immediately...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-limps-off-the-ground-against-sunrisers-hyderabad-in-worrying-signs-for-rr-2026-04-25-1038913",
+    "time": "2026-04-25T17:01:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi smashes second IPL century, becomes youngest player to achieve major milestone",
     "desc": "The IPL (Indian Premier League) 2026 has seen many memorable moments so far; however, there have been very few as hyped as the innings of 15-year-old superstar batter Vaibhav Sooryavanshi. The star batter has been...",
     "img": "",
@@ -28,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Rajasthan Royals four down, Jadeja key",
+    "title": "SRH in command, RR continue to struggle",
     "desc": "Game 36 of the ongoing IPL (Indian Premier League) 2026 sees Rajasthan Royals and Sunrisers Hyderabad. The two sides lock horns at the Sawai Mansingh Stadium in Jaipur. The clash begins with Rajasthan coming in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-suffers-horrific-head-injury-against-punjab-kings-ambulance-rushes-to-the-ground-2026-04-25-1038887",
     "time": "2026-04-25T12:33:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Sawai Mansingh Stadium in Jaipur play?",
-    "desc": "The 36th game of the ongoing IPL (Indian Premier League) 2026 sees Rajasthan Royals taking on Sunrisers Hyderabad. The two sides lock horns at the Sawai Mansingh Stadium in Jaipur on April 25. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-srh-pitch-report-how-will-surface-at-sawai-mansingh-stadium-in-jaipur-play-2026-04-25-1038886",
-    "time": "2026-04-25T12:10:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul scripts history, breaks Abhishek Sharma's all-time record by an Indian in IPL against PBKS",
-    "desc": "KL Rahul scripted history in the Indian Premier League. The Delhi Capitals openers decimated the Punjab Kings bowlers, smacking unbeaten 152 runs in the middle, setting the record for the highest individual score by an Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-scripts-history-breaks-abhishek-sharma-s-all-time-record-by-an-indian-in-ipl-against-pbks-2026-04-25-1038883",
-    "time": "2026-04-25T11:57:10.000Z"
   }
 ];
