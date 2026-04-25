@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Marc Marquez wins chaotic Spanish GP sprint despite crash in rain",
+    "desc": "After securing his first pole ‌of the season earlier on Saturday (April 25), Marquez shot off the line and took the lead into turn one ahead of Johann Zarco, with his brother Alex moving up to third",
+    "img": "https://th-i.thgim.com/public/incoming/ikh7o5/article70906622.ece/alternates/LANDSCAPE_1200/AFP__20260425__A8XW6P7__v1__HighRes__MotoPrixEspMotogpSprint.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/marc-marquez-wins-chaotic-spanish-gp-sprint-despite-crash-in-rain/article70906618.ece",
+    "time": "2026-04-25T21:24:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Liverpool close on Champions League but may have seen last of Salah",
+    "desc": "British transfer record signing Alexander Isak scored his first goal since returning from a leg break as he smartly controlled Alexis Mac Allister's wayward effort on goal and swivelled on the ball to volley it past Dean Henderson",
+    "img": "https://th-i.thgim.com/public/incoming/vuhief/article70906607.ece/alternates/LANDSCAPE_1200/2026-04-25T161325Z_1464840168_UP1EM4P16PL1N_RTRMADP_3_SOCCER-ENGLAND-LIV-CRY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/liverpool-close-on-champions-league-but-may-have-seen-last-of-salah/article70906606.ece",
+    "time": "2026-04-25T20:41:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shreya Ghoshal buys property worth Rs 20.88 crore in Santacruz",
+    "desc": "Playback singer Shreya Ghoshal and her family have purchased a premium apartment in Santacruz West, Mumbai, for Rs 20.88 crore. This marks their third significant real estate investment in three months, following two luxury apartments in Worli for nearly ₹60 crore. The latest acquisition is a 2,900 sq ft apartment in the Vaayu building, registered on April 24, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130522781,imgsize-70960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shreya-ghoshal-buys-property-worth-rs-20-88-crore-in-santacruz-report/articleshow/130522775.cms",
+    "time": "2026-04-25T20:17:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel-Iran war LIVE: Trump cancels U.S. envoys’ visit to Pakistan for talks; says 'does not mean restart of war'",
+    "desc": "Iran’s Foreign Minister leaves Islamabad without meeting U.S. envoys, say Pakistan officials; Iran resumes commercial flights from Tehran’s international airport for the first time since the conflict with the U.S. and Israel began two months ago",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+    "time": "2026-04-25T20:15:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lawrence of Punjab' docu-series: Congress leader Randhawa gets threat message",
+    "desc": "In the threat message, the names of other persons including Punjab Congress chief Amrinder Singh Raja Warring, SAD leader Bikram Singh Majithia, DGP Gaurav Yadav, Balkaur Singh, father of slain singer Sidhu Moosewala were also mentioned",
+    "img": "https://th-i.thgim.com/public/incoming/cyniki/article70906585.ece/alternates/LANDSCAPE_1200/20260402157L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/lawrence-of-punjab-docu-series-congress-leader-randhawa-gets-threat-message/article70906584.ece",
+    "time": "2026-04-25T19:58:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Archana's son Aayushmaan Sethi loses Rs 87000 in credit card scam",
+    "desc": "Archana Puran Singh and Parmeet Sethi's younger son, Aayushmaan Sethi, lost Rs 87,000 in a credit card scam, a repeat of a previous Rs 80,000 loss. The incident, shared by his brother Aaryamann, led to family banter about Aayushmaan's susceptibility to such scams, despite his initial panic.",
+    "img": "https://static.toiimg.com/photo/msid-130522502,imgsize-34320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singhs-son-aayushmaan-sethi-loses-rs-87000-in-credit-card-scam-aryamann-recalls-losing-rs-80000-earlier/articleshow/130522490.cms",
+    "time": "2026-04-25T19:26:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly elections: Over 50 lakh more voters exercise their franchise this time compared to 2024 Lok Sabha polls",
+    "desc": "In the State, people’s interest in polling process has always been higher for Assembly elections when compared to Lok Sabha polls, show data from elections held over the past 20 years; parties carry out a more intensive mobilisation for State polls",
+    "img": "https://th-i.thgim.com/public/incoming/iau526/article70905741.ece/alternates/LANDSCAPE_1200/DSC_1343.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
+    "time": "2026-04-25T18:53:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘My best is yet to come’- Ishan Kishan sends warning after match-winning 74 vs RR",
+    "desc": "Ishan Kishan, Player of the Match, revealed his simple approach after Sunrisers Hyderabad's thrilling chase of 229. He emphasized batting freedom and confidence, crediting openers Head and Abhishek for a strong powerplay. Kishan, who shared a crucial partnership with Abhishek, downplayed his current form, stating his best is yet to come.",
+    "img": "https://static.toiimg.com/photo/msid-130521733,imgsize-1012209.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-my-best-is-yet-to-come-ishan-kishan-sends-warning-after-match-winning-74-vs-rr/articleshow/130521730.cms",
+    "time": "2026-04-25T18:48:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rent to relatives under lens as new HRA disclosure kicks in",
+    "desc": "Salaried taxpayers claiming House Rent Allowance (HRA) will face stricter disclosure norms from April 1, 2026, with the introduction of Form 124. Under this new format, employees are required to declare their relationship with the landlord to curb bogus claims within families. Genuine rental arrangements with relatives remain valid if supported by proper documentation and income declaration.",
+    "img": "https://static.toiimg.com/photo/msid-130522845,imgsize-1906660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/rent-to-relatives-under-lens-as-new-hra-disclosure-kicks-in/articleshow/130520799.cms",
+    "time": "2026-04-25T18:44:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Annu on past comments about Priyanka refusing to kiss him",
     "desc": "Actor Annu Kapoor clarified his past controversial remarks about Priyanka Chopra and an intimate scene in '7 Khoon Maaf'. He explained his frustration stemmed from persistent media questions about Chopra's comfort, leading him to comment on his perceived lack of 'hero' status. Kapoor also revealed he respected Chopra's hesitation and suggested removing the scene, which director Vishal Bhardwaj refused.",
@@ -9,15 +90,6 @@ const newsData_en = [
     "time": "2026-04-25T18:28:42.000Z"
   },
   {
-    "cat": "World",
-    "title": "Israel-Iran war LIVE: Trump cancels U.S. envoys’ visit to Pakistan for talks; says 'does not mean restart of war'",
-    "desc": "Iran’s Foreign Minister leaves Islamabad without meeting U.S. envoys, say Pakistan officials; Iran resumes commercial flights from Tehran’s international airport for the first time since the conflict with the U.S. and Israel began two months ago",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
-    "time": "2026-04-25T18:14:20.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Calls to do away with elephants, fireworks in temple festivals get louder in Kerala",
     "desc": "In the aftermath of the recent fireworks tragedy at Mundathikode in Thrissur, social media campaigns are gathering strength seeking to move away from the use of high-intensity gunpowder displays as well as elephants during festivities",
@@ -25,6 +97,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/calls-to-do-away-with-elephants-fireworks-in-temple-festivals-get-louder-in-kerala/article70902342.ece",
     "time": "2026-04-25T17:48:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Mohammad-Bagher Ghalibaf",
+    "desc": "In a country caught between external attacks and internal pressure, with much of its top leadership killed by its enemies, the Parliament Speaker, who cut his teeth in the 1980-88 Iran-Iraq war and served the IRGC as a commander, emerged as the new face of the revolutionary system",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/tf53al/article70906440.ece/alternates/LANDSCAPE_1200/MD%20Ghalibaf_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/mohammad-bagher-ghalibaf-irans-wartime-apparatchik/article70906442.ece",
+    "time": "2026-04-25T17:43:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +396,6 @@ const newsData_en = [
     "time": "2026-04-25T12:05:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Opposition submits fresh notice seeking CEC Gyanesh Kumar’s removal",
-    "desc": "As part of the fresh charges, the opposition has accused Kumar of “continued partisan asymmetry in enforcement of model code of conduct”, wherein it is alleged that EC failed to act on complaints against PM Narendra Modi's address to the nation on April 18 on the defeated Constitution amendment bill-related to women’s reservation amid assembly polls. CEC “has issued no show-cause notice, no advisory, and no public response” to any of the complaints made regarding this, it said.",
-    "img": "https://static.toiimg.com/photo/msid-130513911,imgsize-83362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/opposition-submits-fresh-notice-seeking-cec-gyanesh-kumars-removal/articleshow/130513917.cms",
-    "time": "2026-04-25T11:36:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Aamir RECALLS Reema scolded during Lagaan for eating slowly",
     "desc": "Aamir Khan recalled being scolded by assistant director Reema Kagti on Lagaan sets for eating slowly. Despite being producer, he was told to follow schedule. The anecdote highlights strict discipline during filming. Released in 2001, Lagaan remains a landmark film, earning an Oscar nomination and eight National Awards in India history.",
@@ -349,33 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/kl-rahul-nitish-rana-carnage-delhi-capitals-duo-break-all-time-record-vs-punjab-kings/articleshow/130513804.cms",
     "time": "2026-04-25T11:30:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Raghav Chadha loses over 1 million followers, flooded with hate comments after joining BJP",
-    "desc": "Raghav Chadha's Instagram following plummeted by over 1 million after his switch from AAP to BJP. Once a youth icon, his digital persona faced backlash, with followers expressing disappointment and betrayal. Allegations of deleting critical posts against the BJP surfaced, which Chadha denied. His appeal previously rested on addressing everyday issues, a stark contrast to his current political move.",
-    "img": "https://static.toiimg.com/photo/msid-130513568,imgsize-604003.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gen-z-icon-faces-online-backlash-raghav-chadha-loses-over-1-million-followers-flooded-with-hate-comments-after-joining-bjp/articleshow/130513265.cms",
-    "time": "2026-04-25T11:24:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India has cut malaria cases sharply but not fully eliminated it. Where do the gaps remain?",
-    "desc": "Monsoon brings romanticized scenes but also a public health reality of increased malaria risk, especially for vulnerable groups. Despite significant national declines, malaria persists in localized pockets due to environmental and socio-economic factors. Climate change further complicates transmission patterns, necessitating sustained surveillance and targeted interventions for elimination.",
-    "img": "https://static.toiimg.com/photo/msid-130512543,imgsize-2081822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-has-cut-malaria-cases-sharply-but-not-fully-eliminated-it-where-do-the-gaps-remain/articleshow/130512597.cms",
-    "time": "2026-04-25T11:12:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Left out of disgust, not fear': Raghav Chadha attacks AAP over Sheesh Mahal 2.0 after joining BJP",
-    "desc": "Raghav Chadha, a prominent AAP leader, has quit the party citing disappointment and disgust, not fear, over alleged corruption and a \"Sheesh Mahal\" controversy. He stated that seven MPs are leaving together, believing the AAP has fallen into compromised hands. Chadha's departure follows weeks of escalating tensions and his removal as deputy leader in the Rajya Sabha.",
-    "img": "https://static.toiimg.com/photo/msid-130513143,imgsize-66764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/left-out-of-disgust-not-fear-raghav-chadha-attacks-aap-over-sheesh-mahal-2-0-after-joining-bjp/articleshow/130513027.cms",
-    "time": "2026-04-25T10:56:49.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +531,6 @@ const newsData_en = [
     "time": "2026-04-25T07:43:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' box office Day 38 [LIVE]: Film slowly inches towards Rs 1800 cr",
-    "desc": "In a stunning display of cinematic prowess, Ranveer Singh's 'Dhurandhar 2' has captivated audiences, amassing nearly Rs 1800 crore globally. Surpassing the Rs 1700 crore mark, it now stands as the third highest-grossing Indian film. By its sixth week, it continues to fend off stiff competition, raking in remarkable box office figures both at home and abroad. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130510276,imgsize-63090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-38-live-ranveer-singhs-espionage-thriller-slowly-inches-towards-rs-1800-crore-worldwide/articleshow/130509647.cms",
-    "time": "2026-04-25T07:35:56.000Z"
-  },
-  {
     "cat": "World",
     "title": "Palestinian local elections give some Gazans a chance to vote for the first time in years",
     "desc": "The West Bank-based Palestinian Authority hopes the symbolic inclusion of the Gazan city ⁠of Deir al-Balah will help reinforce its claim to authority over the war-torn territory, from where it was ousted by Hamas in 2007",
@@ -523,15 +559,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "When Hrithik Roshan met Michael Jackson on ‘Kites’ sets",
-    "desc": "As Michael Jackson's biopic 'Michael' releases, an old memory of Hrithik Roshan's brief yet unforgettable meeting with the music icon resurfaces. The encounter occurred in 2008 during the 'Kites' shoot in Los Angeles, leaving Hrithik momentarily stunned by the magnitude of the moment.",
-    "img": "https://static.toiimg.com/photo/msid-130509214,imgsize-33080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/michael-release-when-hrithik-roshan-met-michael-jackson-on-kites-sets/articleshow/130509211.cms",
-    "time": "2026-04-25T05:58:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Jerax’ series review: A witty fantasy drama propelled by fine performances",
     "desc": "Srinidhi Bengaluru’s Kannada show ‘Jerax’ navigates love, political rivalries, and a series of hilarious identity mix-ups thanks to a human-cloning machine. Even if the ending feels rushed, the relatable characters and unexpected twists make the series a fresh attempt",
     "img": "https://th-i.thgim.com/public/entertainment/movies/p1j2xb/article70904365.ece/alternates/LANDSCAPE_1200/JeraxR.jpeg",
@@ -547,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-virat-kohli-creates-record-first-batter-to-hit-800-boundaries-third-batter-to-smash-300-sixes/article70904340.ece",
     "time": "2026-04-25T03:13:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Shreyas’s form fueling his rise in India’s T20I leadership scheme",
-    "desc": "In the past few years, since embracing the demands of captaincy, Iyer has not only shown how able a leader he can be, but also as a batter who has dominated seasons while balancing the dual roles of anchor and aggressor.",
-    "img": "https://static.toiimg.com/photo/msid-130507139,imgsize-878839.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/how-shreyas-iyers-red-hot-form-is-fueling-his-rise-in-indias-t20i-leadership-scheme/articleshow/130507078.cms",
-    "time": "2026-04-25T02:55:52.000Z"
   },
   {
     "cat": "Business",
@@ -601,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/intel-bags-big-gains-chipmakers-shares-jump-26-on-blockbuster-results-how-trump-admin-benefits/articleshow/130498728.cms",
     "time": "2026-04-24T16:06:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wall Street trades mostly in green; Nasdaq up 1% lifted by Intel, Dow slumps over 180 points",
-    "desc": "Wall Street saw a mixed trading session Friday, with the Nasdaq and S&P 500 climbing on strong Intel earnings and AI optimism. However, the Dow Jones dipped. Meanwhile, oil prices eased on potential US-Iran diplomatic talks, and a ceasefire extension between Israel and Lebanon boosted sentiment. Tech giants like Meta and Microsoft announced job cuts amidst AI investments.",
-    "img": "https://static.toiimg.com/photo/msid-130498095,imgsize-100870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-wall-street-trades-mostly-in-green-nasdaq-up-1-lifted-by-intel-dow-slumps-over-180-points/articleshow/130498060.cms",
-    "time": "2026-04-24T15:16:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Is El Nino a bigger threat to India's high GDP, low inflation balance than the Middle East crisis? Explained",
-    "desc": "The India Meteorological Department has forecast the possibility of El Nino conditions during the South West monsoon season. Economists and experts note that a weak monsoon will add to the woes caused by higher crude oil prices, and fertilizer supply disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-130497892,imgsize-127532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/is-el-nino-a-bigger-threat-to-indias-high-gdp-low-inflation-balance-than-the-middle-east-crisis-explained/articleshow/130497688.cms",
-    "time": "2026-04-24T15:10:05.000Z"
   },
   {
     "cat": "Business",
@@ -783,33 +783,6 @@ const newsData_en = [
     "time": "2026-04-23T06:26:59.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026",
-    "desc": "The sides with the most explosive openers — PBKS (strike-rate of 202.88), SRH (182.90), RR (182.78), and RCB (162.09) — are in the top four spots 26 days into the tournament; three Indian southpaws — Abhishek, Suryavanshi and Priyansh — are the top-three six-hitting openers in this edition",
-    "img": "https://th-i.thgim.com/public/incoming/rlku2z/article70894555.ece/alternates/LANDSCAPE_1200/03_RVM_1436.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-openers-stats-analysis/article70894551.ece",
-    "time": "2026-04-22T21:11:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jadeja, Archer and Burger star as RR returns to winning ways, defeats LSG by 40 runs",
-    "desc": "Jadeja’s unbeaten 29-ball 43 lifts the visiting side to 159 for six on a spicy wicket; the new-ball pair wrecks LSG early in its chase before the home team gets bundled out for 119 despite opener Marsh’s fighting fifty",
-    "img": "https://th-i.thgim.com/public/incoming/6q2rve/article70894438.ece/alternates/LANDSCAPE_1200/51_RVM_3644.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/lsg-vs-rr-ipl-2026-match-updates-april-22/article70893446.ece",
-    "time": "2026-04-22T18:30:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak talks about Suryakumar, Hardik’s contrasting captaincy styles",
-    "desc": "Tilak’s words came on the back of a defining knock in Ahmedabad, where he hammered an unbeaten 101 off 45 balls — an innings that turned the tide after a slow start of 19 off 22 deliveries",
-    "img": "https://th-i.thgim.com/public/incoming/k0sxlm/article70894213.ece/alternates/LANDSCAPE_1200/VIS_9929.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-tilak-varma-contrasting-captaincy-styles/article70894222.ece",
-    "time": "2026-04-22T17:11:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Anthropic's Mythos AI model accessed by unauthorised users",
     "desc": "A ‌handful of users in a private online forum ‌gained access to Mythos on ‌the ⁠same day that Anthropic ⁠first announced a plan to release the model to a limited number ​of companies ‌for testing purposes",
@@ -835,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/rajat-kapoor-marketing-independent-films-is-tougher-than-making-them/article70891352.ece",
     "time": "2026-04-22T06:26:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Photographer Jina Park explores India in debut exhibition, Lyrical Encounter: India Through a Korean Lens, in Chennai",
-    "desc": "Jina Park takes us through an immersive journey across the country — from the ghats of Benaras to the mountains of Ladakh, and the deserts of Rajasthan, the bustling lanes of Mumbai, and through Tamil Nadu, where she now lives",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/pcws0f/article70888457.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-21%20at%205.15.19%20PM%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/photographer-jina-park-explores-india-in-debut-exhibition-lyrical-encounter-india-through-a-korean-lens-in-chennai/article70887988.ece",
-    "time": "2026-04-21T12:17:04.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
