@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "চাড্ডা থেকে 'চাড্ডি': আপ ছাড়তেই রাঘবে ক্ষিপ্ত Gen Z, রাতারাতি হারালেন ১০ লক্ষ ফলোয়ার",
+    "desc": "এক ধাক্কায় ১০ লক্ষ ফলোয়ার গায়েব! আম আদমি পার্টি ছেড়ে বিজেপিতে যোগ দেওয়াটা কি কাল হলো রাঘব চাড্ডার জন্য? জেন-জি প্রজন্মের মধ্যে ব্যাপক জনপ্রিয় এই তরুণ নেতার ফলোয়ার সংখ্যায় ধস নেমেছে ২৪ ঘণ্টায়। শুরু হয়েছে 'আনফলো' করার হিড়িক। রাজনীতির এই ডিগবাজি কি তবে ভালো ভাবে নিল না তরুণ সমাজ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/raghav-chadha-loses-followers-bjp-switch-gen-z-backlash-instagram_650659.html ",
+    "time": "2026-04-25T11:14:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আমার আরও চারটে গার্লফ্রেন্ড আছে, তোকে ঠিক পোষাচ্ছে না: হবু স্বামীর তাচ্ছিল্যে নিজেকে শেষ করলেন মেধাবী রেহানা",
+    "desc": "বিয়ে মাত্র কয়েক মাস আগেই মেধাবী তরুণীর আত্মহত্যা। হবু বরের মানসিক নির্যাতন এবং অবহেলার কারণেই তিনি আত্মহত্যার পথ বেছে নিয়েছেন। শুরুতে রেহানা এগুলোকে মজা হিসেবে নিলেও, শাহজাহান ক্রমাগত এই ধরনের কথা বলায় তিনি মানসিকভাবে ভেঙে পড়েন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/woman-took-extreme-step-to-death-after-fiance-claims-having-4-girlfriends_650658.html ",
+    "time": "2026-04-25T11:01:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "অকালে থামল হাসির ঝড়, মাত্র ৫০ বছর বয়সে প্রয়াত প্রখ্যাত কমেডিয়ান রাজ: চোখে জল বীর দাসের",
+    "desc": "জনপ্রিয় কমেডিয়ান রাজ শর্মা আর নেই। মাত্র ৫০ বছর বয়সেই নিভে গেল তাঁর জীবনপ্রদীপ। বীর দাস থেকে অতুল খাত্রী— সহকর্মীদের স্মৃতিচারণায় উঠে এল রাজের অসাধারণ প্রতিভার কথা। মঞ্চে তাঁর সেই জাদুকরী উপস্থিতি মিস করবে অগণিত ভক্ত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/popular-comedian-raj-sharma-passed-away-tribute-by-vir-das_650648.html ",
+    "time": "2026-04-25T10:30:59.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "প্রচারের মাঝে হরলিক্স খাওয়ার আজব আবদার মহিলার: 'বাচ্চাদের খাওয়ান', সোহমের কাণ্ডে নেটপাড়ায় শোরগোল",
     "desc": "সেই চেনা সংলাপ, আর সেই চেনা 'হরলিক্স বয়'! করিমপুরে প্রচারের মাঝে সোহম চক্রবর্তীর কাছে হরলিক্স খাওয়ার আবদার করলেন এক মহিলা ভক্ত। ৪ দশক পার হলেও 'মাস্টার বিট্টু'র ক্রেজ যে একফোঁটাও কমেনি, তার প্রমাণ মিলল নদীয়ায়। তারকা প্রার্থীর প্রচার ভাইরাল।",
@@ -142,15 +169,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/sports/kolkata-knight-riders-kkr-kkr-in-ipl-2026-cameron-green-ajinkya-rahane-kkr-big-news-kkr-vs-gt-gujrat-titans-ipl-shahrukh-khan-cameron-green-ipl-2026_649353.html ",
     "time": "2026-04-18T14:54:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jeetu-Payel Conflict: গাছতলায় ফেলে গেছে প্রয়াত রাহুলের ছবি, জীতুর বিরুদ্ধে ক্ষোভ পায়েলের: জবাবে অভিনেতা লেখেন",
-    "desc": "টলিপাড়ায় এবার চরম উত্তেজনা! প্রয়াত অভিনেতা রাহুল বন্দ্যোপাধ্যায়ের ছবি নিয়ে জীতু কমলের প্রতিবাদের ধরনকে ‘অসভ্যতা’ বললেন পায়েল দে। গাছতলায় কেন পড়ে ছিল ছবি? জীতুর বিরুদ্ধেই কি জোট বাঁধছে স্টুডিও পাড়া? থেমে থাকেননি অভিনেতা। দিলেন জবাবও।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-payel-de-controversy-late-rahul-banerjee-portrait-disrespect_649341.html ",
-    "time": "2026-04-18T12:22:25.000Z"
   },
   {
     "cat": "Business",

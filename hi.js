@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KL Rahul leaves behind MS Dhoni, Suresh Raina in most-prolific IPL record after KLassy carnage vs PBKS",
+    "desc": "Delhi Capitals star batter KL Rahul unleashed a classy carnage as he ripped apart the Punjab Kings bowling attack in a stellar display of batting at the Arun Jaitley Stadium on Saturday, April 25. Rahul...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-leaves-behind-ms-dhoni-suresh-raina-in-most-prolific-ipl-record-after-klassy-carnage-vs-pbks-2026-04-25-1038892",
+    "time": "2026-04-25T12:49:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lungi Ngidi suffers horrific head injury against Punjab Kings, ambulance rushes to the ground",
+    "desc": "In a horrific moment for Delhi Capitals, the side’s star bowler Lungi Ngidi injured himself in the third over of the second innings of the clash against Punjab Kings. The two sides locked horns at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-suffers-horrific-head-injury-against-punjab-kings-ambulance-rushes-to-the-ground-2026-04-25-1038887",
+    "time": "2026-04-25T12:33:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Sawai Mansingh Stadium in Jaipur play?",
+    "desc": "The 36th game of the ongoing IPL (Indian Premier League) 2026 sees Rajasthan Royals taking on Sunrisers Hyderabad. The two sides lock horns at the Sawai Mansingh Stadium in Jaipur on April 25. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-srh-pitch-report-how-will-surface-at-sawai-mansingh-stadium-in-jaipur-play-2026-04-25-1038886",
+    "time": "2026-04-25T12:10:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul scripts history, breaks Abhishek Sharma's all-time record by an Indian in IPL against PBKS",
+    "desc": "KL Rahul scripted history in the Indian Premier League. The Delhi Capitals openers decimated the Punjab Kings bowlers, smacking unbeaten 152 runs in the middle, setting the record for the highest individual score by an Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-scripts-history-breaks-abhishek-sharma-s-all-time-record-by-an-indian-in-ipl-against-pbks-2026-04-25-1038883",
+    "time": "2026-04-25T11:57:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul equals Chris Gayle in elite list, stuns with exuberant century against Punjab Kings",
+    "desc": "The 35th game of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals host Punjab Kings. The two sides locked horns at the Arun Jaitley Stadium in Delhi on April 25. The clash began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-equals-chris-gayle-in-elite-list-stuns-with-exuberant-century-against-punjab-kings-2026-04-25-1038878",
+    "time": "2026-04-25T11:19:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh women's Nahida Akter, Sarmin Sultana handed demerit points amid Sri Lanka series",
+    "desc": "In a major development for Bangladesh women, the side’s star players Nahida Akter and Sarmin Sultana were found in breach of the ICC’s (International Cricket Council) Code of Conduct. The two players have been fined...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-women-s-nahida-akter-sarmin-sultana-handed-demerit-points-amid-sri-lanka-series-2026-04-25-1038875",
+    "time": "2026-04-25T10:44:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Australia pacer not playing vs Punjab Kings in IPL 2026?",
     "desc": "Australia pacer Mitchell Starc has finally joined the Delhi Capitals camp, almost one month after the start of the IPL 2026 season. He was dealing with a shoulder and elbow injury, as Cricket Australia was...",
     "img": "",
@@ -10,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Delhi Capitals seek consistency, Punjab Kings aim to remain unbeaten",
+    "title": "Punjab Kings get off to stellar start against Delhi",
     "desc": "Delhi Capitals head into their next home game still searching for a steady run of results. What began with promise has slipped into inconsistency and with Punjab Kings arriving unbeaten, the margin for error feels...",
     "img": "",
     "src": "indiatvnews.com",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mascots-stage-fight-before-toss-in-psl-2026-video-goes-viral-watch-2026-04-25-1038857",
     "time": "2026-04-25T07:24:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals head coach Kumar Sangakkara backs Riyan Parag despite ongoing struggle in IPL 2026",
-    "desc": "Rajasthan Royals have done remarkably well in their IPL 2026 campaign, winning five out of seven matches. The top three batters and the bowling unit have been highly effective, resulting in them being third on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-head-coach-kumar-sangakkara-backs-riyan-parag-despite-ongoing-struggle-in-ipl-2026-2026-04-25-1038854",
-    "time": "2026-04-25T06:37:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Arun Jaitley Stadium in New Delhi play?",
-    "desc": "Delhi Capitals will host Punjab Kings at the Arun Jaitley Stadium on April 25. The hosts have had a topsy-turvy season so far, winning and losing three each. They are currently sixth on the points...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-pbks-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-new-delhi-play-2026-04-25-1038851",
-    "time": "2026-04-25T06:00:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc joins Delhi Capitals camp for IPL 2026, unlikely to play vs Punjab Kings",
-    "desc": "Star Australia pacer Mitchell Starc has finally joined the Delhi Capitals camp for the IPL 2026 season. The southpaw was reportedly dealing with shoulder and elbow injuries, which ruled him out of the first half...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-joins-delhi-capitals-camp-for-ipl-2026-unlikely-to-play-vs-punjab-kings-2026-04-25-1038844",
-    "time": "2026-04-25T05:07:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sreesanth blocks Harbhajan Singh on Instagram after latter made advertisement on infamous slapgate saga",
-    "desc": "Nearly two decades after the infamous slapgate incident, Sreesanth has publicly criticised Harbhajan Singh over a recent advertisement that referenced their past altercation. The former fast bowler suggested that while time had eased tensions, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sreesanth-blocks-harbhajan-singh-on-instagram-after-latter-made-advertisement-on-infamous-slapgate-saga-2026-04-25-1038838",
-    "time": "2026-04-25T04:08:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill highlights factors, including dropped catch of Virat Kohli, behind Gujarat's defeat to RCB",
-    "desc": "Defending 206 runs against RCB at the M Chinnaswamy Stadium, Gujarat Titans had an early opening when Virat Kohli offered a chance in the very first over. The opportunity went down as Washington Sundar dropped...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-highlights-factors-including-dropped-catch-of-virat-kohli-behind-gujarat-s-defeat-to-rcb-2026-04-25-1038835",
-    "time": "2026-04-25T03:35:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli becomes first cricketer to register major feat in IPL, also becomes 3rd cricketer to hit 300 sixes",
-    "desc": "Star batter Virat Kohli stole the show in Royal Challengers Bengaluru’s high-voltage clash against Gujarat Titans at the M Chinnaswamy Stadium. The veteran smacked 81 runs off 44 balls as the hosts registered a comfortable...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-becomes-first-cricketer-to-register-major-feat-in-ipl-also-becomes-third-cricketer-to-hit-300-sixes-2026-04-24-1038823",
-    "time": "2026-04-24T18:17:51.000Z"
   }
 ];
