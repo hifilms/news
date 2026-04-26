@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sanju Samson surpasses MS Dhoni, Suresh Raina in elite list, achieves major IPL milestone",
+    "desc": "Chennai Super Kings’ Sanju Samson has been one of the best batters in the ongoing edition of the IPL (Indian Premier League) 2026. With two centuries to his name already in the ongoing campaign, Samson...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-surpasses-ms-dhoni-suresh-raina-in-elite-list-achieves-major-ipl-milestone-2026-04-26-1038973",
+    "time": "2026-04-26T11:07:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How many more T20Is will India women play before T20 World Cup 2026?",
+    "desc": "India women's team is currently in action in a crucial T20I series against South Africa as the T20 World Cup 2026 looms large. The global showpiece will begin on June 12 and is set to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-many-more-t20is-will-india-women-play-before-t20-world-cup-2026-2026-04-26-1038972",
+    "time": "2026-04-26T11:03:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is CSK talisman not playing in GT clash at Chepauk?",
     "desc": "MS Dhoni misses out yet again as Chennai Super Kings take on Gujarat Titans in their eighth match of the Indian Premier League 2026 at the MA Chidambaram Stadium on Sunday, April 26. CSK are...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "CSK set to bat first, GT elect to field",
+    "title": "Chennai look to defend 158 after Gaikwad's lone effort",
     "desc": "Game 37 of the ongoing IPL (Indian Premier League) 2026 sees Chennai Super Kings taking on Gujarat Titans. The two sides lock horns at the MA Chidambaram Stadium in Chennai on April 26. The clash...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-skipper-riyan-parag-opens-up-after-drubbing-against-sunrisers-hyderabad-in-jaipur-2026-04-26-1038932",
     "time": "2026-04-26T03:33:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad complete the double over Rajasthan Royals, register dominant win in Jaipur",
-    "desc": "Game 36 of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Sunrisers Hyderabad. The two sides locked horns at the Sawai Mansingh Stadium in Jaipur on April 25. The clash began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-complete-the-double-over-rajasthan-royals-register-dominant-win-in-jaipur-2026-04-25-1038917",
-    "time": "2026-04-25T17:59:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi limps off the ground against Sunrisers Hyderabad in worrying signs for RR",
-    "desc": "In a worrying moment for Rajasthan Royals, the side’s 15-year-old superstar batter Vaibhav Sooryavanshi was captured limping off the field. The IPL orange cap holder ran after a ball hit by Ishan Kishan and immediately...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-limps-off-the-ground-against-sunrisers-hyderabad-in-worrying-signs-for-rr-2026-04-25-1038913",
-    "time": "2026-04-25T17:01:32.000Z"
   }
 ];
