@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is CSK talisman not playing in GT clash at Chepauk?",
+    "desc": "MS Dhoni misses out yet again as Chennai Super Kings take on Gujarat Titans in their eighth match of the Indian Premier League 2026 at the MA Chidambaram Stadium on Sunday, April 26. CSK are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-injury-update-why-is-csk-talisman-not-playing-in-chepauk-clash-against-gt-2026-04-26-1038962",
+    "time": "2026-04-26T09:48:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK set to bat first, GT elect to field",
+    "desc": "Game 37 of the ongoing IPL (Indian Premier League) 2026 sees Chennai Super Kings taking on Gujarat Titans. The two sides lock horns at the MA Chidambaram Stadium in Chennai on April 26. The clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-gt-live-cricket-score-csk-set-to-bat-first-gt-elect-to-field-2026-04-26-1038960",
+    "time": "2026-04-26T09:44:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Brathwaite weighs in on Vaibhav Sooryavanshi's potential senior debut, draws comparison with Brian Lara",
+    "desc": "Star Rajasthan Royals batter Viabhav Sooryavanshi has taken the world by storm. Just 15 years old, Sooryavanshi has been smashing bowlers left and right and is one of the best batters in the ongoing edition...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/carlos-brathwaite-weighs-in-on-vaibhav-sooryavanshi-s-potential-senior-debut-draws-comparison-with-brian-lara-2026-04-26-1038955",
+    "time": "2026-04-26T08:37:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-Head record ahead of game 37 in IPL 2026",
+    "desc": "Game 37 of the ongoing IPL (Indian Premier League) 2026 sees Chennai Super Kings taking on Gujarat Titans. The two sides will take on each other at the MA Chidambaram Stadium in Chennai on April...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-gt-head-to-head-record-ahead-of-game-37-in-ipl-2026-2026-04-26-1038953",
+    "time": "2026-04-26T07:43:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'My new favourite': Pat Cummins lauds Vaibhav Sooryavanshi after youngster's stellar ton in Jaipur",
     "desc": "Rajasthan Royals’ 15-year-old superstar Vaibhav Sooryavanshi has been the talk of the town in the ongoing IPL (Indian Premier League) 2026 season. The youngster has been brilliant for his side and recently smashed his second-ever...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-limps-off-the-ground-against-sunrisers-hyderabad-in-worrying-signs-for-rr-2026-04-25-1038913",
     "time": "2026-04-25T17:01:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi smashes second IPL century, becomes youngest player to achieve major milestone",
-    "desc": "The IPL (Indian Premier League) 2026 has seen many memorable moments so far; however, there have been very few as hyped as the innings of 15-year-old superstar batter Vaibhav Sooryavanshi. The star batter has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-smashes-second-ipl-century-becomes-youngest-player-to-achieve-major-milestone-2026-04-25-1038905",
-    "time": "2026-04-25T15:22:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL releases statement on DC pacer's horror fall against Punjab Kings",
-    "desc": "Delhi Capitals locked horns with Punjab Kings in game 35 of the ongoing IPL (Indian Premier League) 2026. The two sides took on each other at the Arun Jaitley Stadium in Delhi on April 25....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-injury-update-ipl-releases-statement-on-dc-pacer-s-horror-fall-against-punjab-kings-2026-04-25-1038903",
-    "time": "2026-04-25T14:42:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings do the unthinkable yet again, register biggest T20 run chase of 265 against DC",
-    "desc": "Punjab Kings have created T20 history yet again. The chase masters have added another feather to their illustrious cap as they have hunted down a mammoth 265 against the Delhi Capitals in the IPL 2026...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-do-the-unthinkable-yet-again-register-biggest-t20-run-chase-of-265-against-dc-2026-04-25-1038900",
-    "time": "2026-04-25T14:15:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SRH in command, RR continue to struggle",
-    "desc": "Game 36 of the ongoing IPL (Indian Premier League) 2026 sees Rajasthan Royals and Sunrisers Hyderabad. The two sides lock horns at the Sawai Mansingh Stadium in Jaipur. The clash begins with Rajasthan coming in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-srh-live-cricket-score-rajasthan-royals-set-to-bat-first-sunrisers-hyderabad-elect-to-field-2026-04-25-1038898",
-    "time": "2026-04-25T13:45:17.000Z"
   }
 ];

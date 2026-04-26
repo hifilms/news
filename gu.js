@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "400થી વધુ પેટ્રોલ પંપ બંધ, CMએ બોલાવી તાત્કાલિક બેઠક... જાણો આ રાજ્યમાં અચાનક કેમ બંધ થયા ફ્યુઅલ પંપ",
+    "desc": "સરકાર અને અધિકારીઓ પેટ્રોલનો પુરતો પુરવઠો હોવાની ખાતરી આપી રહ્યા છે, છતાં લોકોમાં અફવાઓ ઓછી થઈ રહી નથી. લોકો ગભરાટમાં પેટ્રોલ-ડીઝલની સતત ખરીદી કરી રહ્યા છે, જેના કારણે એક રાજ્યમાં પરિસ્થિતિ એટલી વણસી ગઈ છે કે 400થી વધુ પેટ્રોલ પંપને અસ્થાયી રૂપે બંધ કરવા પડ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/more-than-400-petrol-pumps-closed-in-andhra-pradesh-cm-calls-for-immediate-meeting-474939 ",
+    "time": "2026-04-26T09:47:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સાસરીમાં જમાઈનો તાંડવ: પત્ની-સાસુનું ગળું કાપીને ખેલ્યો લોહિયાળ જંગ, 4 વર્ષ પહેલાં કર્યા હતા પ્રેમ લગ્ન",
+    "desc": "ઉત્તર પ્રદેશના બલિયા જિલ્લામાં એક હૃદયદ્રાવક ઘટના સામે આવી છે. ચાર વર્ષ પહેલાં પ્રેમ લગ્ન કરનાર એક યુવકે પોતાના સસરાના ઘરે પહોંચી પત્ની અને સાસુની ચાકુના ઘા ઝીંકી નિર્મમ હત્યા કરી દીધી છે. આ હુમલામાં સસરા પણ ગંભીર રીતે ઘાયલ થયા છે. ઘટનાને અંજામ આપી આરોપી ફરાર થઈ ગયો છે અને પોલીસ તેની શોધખોળ કરી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ballia-double-murder-in-son-in-law-unleashes-rampage-at-in-laws-home-slits-throats-of-wife-and-mother-in-law-474926 ",
+    "time": "2026-04-26T09:40:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આ બેંકમાં લાખો ગ્રાહકોના પૈસા ફસાયા ! ₹800 કરોડનો છે કેસ, જાણો",
+    "desc": "બે વર્ષ પછી પણ આ બેંકમાં ગ્રાહકોના લગભગ 800 કરોડ રૂપિયાના ભંડોળ અટવાયેલા છે. આ રકમમાંથી અડધી રકમ ફિક્સ ખાતાઓમાં છે, અને બાકીની રકમ બિનદાવાપાત્ર છે. આરબીઆઈની કાર્યવાહી બાદ, ગ્રાહકોને તેમના ભંડોળ ઉપાડવાની ઘણી તકો આપવામાં આવી હતી, પરંતુ નોંધપાત્ર રકમ હજુ પણ અટવાયેલી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/millions-of-customers-money-trapped-in-this-bank-this-case-is-worth-800-crore-know-this-474937 ",
+    "time": "2026-04-26T09:32:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "યુવતીએ ખેંચ્યો અભિષેક શર્માનો હાથ, વીડિયો થયો વાયરલ, ખેલાડીઓની સુરક્ષા પર ઉઠ્યા સવાલ",
+    "desc": "સનરાઇઝર્સ હૈદરાબાદના સ્ટાર ખેલાડી અભિષેક શર્માની સુરક્ષામાં મોટી ચૂક સામે આવી છે. જયપુરમાં ટીમ હોટલમાંથી બહાર નીકળતી વખતે એક યુવતીએ તેનો હાથ પકડીને તેને પોતાની તરફ ખેંચવાનો પ્રયાસ કર્યો હતો, આ ઘટનાનો એક વીડિયો ઝડપથી વાયરલ થઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fan-girl-pulls-abhishek-sharma-hand-team-hotel-video-goes-viral-474917 ",
+    "time": "2026-04-26T08:13:11.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ક્યારેય સ્કૂલ નથી ગઈ આ બોલીવુડ અભિનેત્રી, મહેનતથી લખી સફળતાની કહાની, આજે છે સફળ એક્ટ્રસ",
     "desc": "કેટરીના કૈફ બોલીવુડની ટોપ અભિનેત્રીઓમાં સામેલ છે, પરંતુ ખુબ ઓછા લોકો જાણે છે કે તે ક્યારેય શાળાએ ગઈ નથી. અલગ-અલગ દેશોમાં રહેવાને કારણે તેણે હોમસ્કૂલિંગ દ્વારા અભ્યાસ કર્યો અને નાની ઉંમરમાં મોડલિંગ શરૂ કર્યું હતું.",
@@ -403,33 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/pentagon-security-breach-andrew-hugg-honey-trap-leaks-rump-iran-mission-secrets-474544 ",
     "time": "2026-04-23T15:40:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતીય મુસાફરો માટે ખુશખબર, હવે યુરોપના આ દેશમાં ટ્રાન્ઝિટ વીઝાની ઝંઝટમાંથી મળી મુક્તિ; જાણો શું છે નવો નિયમ",
-    "desc": "ફ્રાન્સે ભારતીયોને મોટી ભેટ આપી છે. ફ્રાન્સ દ્વારા ભારત માટે વીઝાના નિયમોમાં ફેરફાર કરવામાં આવ્યો છે, જેના કારણે હવે ભારતીય નાગરિકોને એરપોર્ટ ટ્રાન્ઝિટ વીઝાની જરૂર નહીં પડે. ભારતે ફ્રાન્સના આ નિર્ણયનું ઉમળકાભેર સ્વાગત કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/good-news-for-indian-travelers-now-no-visa-required-for-airport-transit-in-france-know-what-is-the-new-rule-474542 ",
-    "time": "2026-04-23T15:16:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બંગાળમાં રેકોર્ડબ્રેક મતદાન, TMC અને ભાજપ માટે શું સંકેત? શું કહી રહ્યા છે નિષ્ણાતો",
-    "desc": "પશ્ચિમ બંગાળમાં પ્રથમ તબક્કાનું મતદાન પૂર્ણ થઈ ગયું છે. આ વખતે રેકોર્ડબ્રેક મતદાન થયું છે. એવું કહેવાય છે કે, રેકોર્ડબ્રેક મતદાન પાછળ ઘણા કારણો હોય છે. ઘણીવાર આ સત્તાધારી પક્ષની વિરુદ્ધ જાય છે તો ઘણીવાર તેની તરફેણમાં. જાણો આ વિશે નિષ્ણાતો શું કહી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/record-break-voting-in-west-bengal-1st-phase-what-signal-for-tmc-and-bjp-474529 ",
-    "time": "2026-04-23T14:27:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આખા દેશમાં સનસનાટી મચી જાય તેવો ક્રાઈમ : 19 વર્ષના યુવકે 24 કલાકમાં બે યુવતી પર બળાત્કાર કર્યા, એકની હત્યા કરી",
-    "desc": "દિલ્હીમાં IRS અધિકારીની દીકરીનો હત્યાંકાડ રુંવાડા ઉભા કરી દે તેવો છે. 19 વર્ષના યુવકે કોઈ વિચારી ન શકે તેવા હત્યાકાંડને અંજામ આપ્યો. રાજસ્થાનના અલવરમાં એક બળાત્કાર કર્યા બાદ તેણે દિલ્હીમાં આવીને માલિકની દીકરી સાથે બળાત્કાર કર્યો અને તેની હત્યા પણ કરી",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/irs-officer-daughter-rape-and-murder-case-in-delhi-2-rapes-one-murder-in-24-hours-474522 ",
-    "time": "2026-04-23T13:28:19.000Z"
   },
   {
     "cat": "Tech",
