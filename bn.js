@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "শকিং স্যাটারডে: ট্রাম্পের ডিনার আসরে মুহুর্মুহু গুলি, কেঁপে উঠল হোয়াইট হাউস",
+    "desc": "ট্রাম্প জানান যে, হামলাকারীকে ধরা হয়েছে। তিনি পুলিস এবং সিক্রেট সার্ভিসের প্রশংসা করে বলেন, তারা খুব সাহসের সাথে দ্রুত ব্যবস্থা নিয়েছেন। ট্রাম্প চেয়েছিলেন অনুষ্ঠানটি যেন বন্ধ না হয়, তবে নিরাপত্তার খাতিরে সবকিছু নতুন করে পরিকল্পনা করার কথা জানিয়েছেন তিনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/white-house-shooting-donald-trump-dinner-gunman-caught_650737.html ",
+    "time": "2026-04-26T03:51:43.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "জীবনের প্রথম রাজনৈতিক মঞ্চে পরমব্রত, বাঙালির 'আত্মসম্মানের লড়াই'-এ সওয়াল করলেন মমতার পক্ষে",
     "desc": "\"২০২৬-এর নির্বাচন বাংলার এবং বাঙালির আত্মসম্মান রক্ষার লড়াই!\" কৃষ্ণনগর দক্ষিণ বিধানসভা কেন্দ্রের তৃণমূল প্রার্থী উজ্জ্বল বিশ্বাসের সমর্থনে চক দিগনগর হাইস্কুলের মাঠে উপচে পড়া ভিড়। যোগী আদিত্যনাথকে কড়া জবাব দিলেন জুন মালিয়া। অন্যদিকে, বাংলার সুরক্ষার প্রশ্নে সরব হলেন অভিনেতা পরমব্রত চট্টোপাধ্যায়।",
@@ -160,5 +169,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/sports/kolkata-knight-riders-kkr-kkr-in-ipl-2026-cameron-green-ajinkya-rahane-kkr-big-news-kkr-vs-gt-gujrat-titans-ipl-shahrukh-khan-cameron-green-ipl-2026_649353.html ",
     "time": "2026-04-18T14:54:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

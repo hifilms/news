@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Updated points table after RR vs SRH match; Check standings",
+    "desc": "The IPL (Indian Premier League) 2026 has seen some brilliant performances from the players so far. From the heroics of 15-year-old Vaibhav Sooryavanshi to Virat Kohli’s masterful innings, the fans have been treated to some...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-rr-vs-srh-match-check-standings-2026-04-26-1038940",
+    "time": "2026-04-26T05:16:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals skipper Riyan Parag opens up after drubbing against Sunrisers Hyderabad in Jaipur",
+    "desc": "The 36th game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Sunrisers Hyderabad. The two sides took on each other at the Sawai Mansingh Stadium in Jaipur on April 25,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-skipper-riyan-parag-opens-up-after-drubbing-against-sunrisers-hyderabad-in-jaipur-2026-04-26-1038932",
+    "time": "2026-04-26T03:33:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sunrisers Hyderabad complete the double over Rajasthan Royals, register dominant win in Jaipur",
     "desc": "Game 36 of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Sunrisers Hyderabad. The two sides locked horns at the Sawai Mansingh Stadium in Jaipur on April 25. The clash began...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-which-player-was-named-concussion-replacement-for-dc-pacer-after-his-horrific-fall-in-ipl-2026-2026-04-25-1038894",
     "time": "2026-04-25T13:07:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul leaves behind MS Dhoni, Suresh Raina in most-prolific IPL record after KLassy carnage vs PBKS",
-    "desc": "Delhi Capitals star batter KL Rahul unleashed a classy carnage as he ripped apart the Punjab Kings bowling attack in a stellar display of batting at the Arun Jaitley Stadium on Saturday, April 25. Rahul...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-leaves-behind-ms-dhoni-suresh-raina-in-most-prolific-ipl-record-after-klassy-carnage-vs-pbks-2026-04-25-1038892",
-    "time": "2026-04-25T12:49:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lungi Ngidi suffers horrific head injury against Punjab Kings, ambulance rushes to the ground",
-    "desc": "In a horrific moment for Delhi Capitals, the side’s star bowler Lungi Ngidi injured himself in the third over of the second innings of the clash against Punjab Kings. The two sides locked horns at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-suffers-horrific-head-injury-against-punjab-kings-ambulance-rushes-to-the-ground-2026-04-25-1038887",
-    "time": "2026-04-25T12:33:34.000Z"
   }
 ];

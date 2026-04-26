@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Pakistan PM dials Iranian President, discusses evolving regional situation",
+    "desc": "During their warm and cordial conversation that lasted fifty minutes, the two leaders had a detailed exchange of views on the current regional situation and ongoing efforts to promote peace and stability in the region, says the Pakistan Prime Minister's office.",
+    "img": "https://th-i.thgim.com/public/incoming/hz418o/article70907839.ece/alternates/LANDSCAPE_1200/2026-03-09T173537Z_1272462960_RC2WEIAEPOLW_RTRMADP_3_IRAN-CRISIS-PAKISTAN-AUSTERITY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pakistan-pm-dials-iranian-president-discusses-evolving-regional-situation/article70907837.ece",
+    "time": "2026-04-26T05:29:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam in heated exchange with umpire after 2 balls lost in first 3 overs",
+    "desc": "Peshawar Zalmi captain Babar Azam was seen in a heated exchange with the umpire during a PSL match against Lahore Qalandars. Two separate ball changes were necessitated within the first three overs due to boundaries, leading to Azam's visible frustration. This unusual occurrence early in the innings clearly unsettled the skipper.",
+    "img": "https://static.toiimg.com/photo/msid-130526797,imgsize-616321.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-babar-azam-in-heated-exchange-with-umpire-after-2-balls-lost-in-first-3-overs/articleshow/130526745.cms",
+    "time": "2026-04-26T05:21:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Voting underway for local body elections in Gujarat",
+    "desc": "The elections are being held for 15 municipal corporations, including Ahmedabad, Surat, Vadodara and Rajkot, 84 municipalities, 34 district panchayats and 260 taluka panchayats, making it one of the largest electoral exercises in the State.",
+    "img": "https://th-i.thgim.com/public/news/national/t5cyfk/article70907793.ece/alternates/LANDSCAPE_1200/20240525082L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/gujarat/gujarat-local-body-elections-voting-bjp-congress-aap-updates-latest/article70907788.ece",
+    "time": "2026-04-26T05:16:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Will AAP MPs face disqualification after joining BJP?",
+    "desc": "Is there a law against defection? What are the exceptions to it and how has the Supreme Court interpreted them? What are experts’ view on seven of AAP’s 10 Rajya Sabha members joining the BJP last week?",
+    "img": "https://th-i.thgim.com/public/incoming/q4nxe8/article70906318.ece/alternates/LANDSCAPE_1200/20260424312L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/will-aap-mps-face-disqualification-after-joining-bjp/article70906320.ece",
+    "time": "2026-04-26T05:11:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Huge rush in Home Guard recruitment examination signals looming unemployment scenario in U.P., says Opposition",
+    "desc": "“We are seeing visuals through social media of long lines outside examination centres, and bus stations are full with the presence of aspirants who are giving the test,” says Ajay Rai, Uttar Pradesh Congress president",
+    "img": "https://th-i.thgim.com/public/incoming/s9lmtf/article70907785.ece/alternates/LANDSCAPE_1200/20260425049L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/huge-rush-in-home-guard-recruitment-examination-signals-looming-unemployment-scenario-in-up-says-opposition/article70905944.ece",
+    "time": "2026-04-26T05:08:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle shares marriage advice in a sweet video",
+    "desc": "During a heartfelt conversation from Australian shores, Meghan Markle offered inspiring wedding wisdom to bride-to-be Ellie, shifting the focus from the grandeur of the wedding day to the depth of the marriage itself. She wished Ellie a fulfilling and enduring love story, reflecting on her own cherished union with Prince Harry, whom she affectionately describes as her rock.",
+    "img": "https://static.toiimg.com/photo/msid-130526563,imgsize-105280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meghan-markle-shares-heartfelt-marriage-advice-with-the-bride-saying-enjoy-the-wedding-but-its-more-about-/articleshow/130526546.cms",
+    "time": "2026-04-26T04:58:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle shares ‘hardest seven years’ astrology post",
+    "desc": "Meghan Markle's recent Instagram shares, particularly an astrology post about the end of a difficult seven-year period, have sparked widespread speculation. This follows candid remarks in Australia about enduring intense trolling and the challenges of her royal life. The Duchess's posts suggest a personal turning point, coinciding with her reflections on motherhood and finding perspective amidst public scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-130526508,imgsize-82270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meghan-markles-recent-hardest-seven-years-astrology-post-hints-at-personal-struggles-heres-what-she-shared/articleshow/130526468.cms",
+    "time": "2026-04-26T04:51:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shocking! Fangirl forcibly pulls Abhishek's hand; security steps in",
+    "desc": "A fan grabbing Abhishek Sharma’s hand during IPL 2026 sparked debate over personal boundaries, with security stepping in as the moment went viral. On the field, he scored 57 alongside Ishan Kishan’s 74 to help Sunrisers Hyderabad chase 229 against Rajasthan Royals. Vaibhav Sooryavanshi’s brilliant 103 went in vain as SRH sealed a record chase.",
+    "img": "https://static.toiimg.com/photo/msid-130526464,imgsize-46730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-shocking-fangirl-forcibly-pulls-abhishek-sharmas-hand-security-steps-in-watch/articleshow/130526396.cms",
+    "time": "2026-04-26T04:45:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How serious is Vaibhav Sooryavanshi’s Injury? RR coach provides update",
+    "desc": "Rajasthan Royals' Vaibhav Sooryavanshi suffered an injury scare after a record-breaking century against Sunrisers Hyderabad. The 15-year-old limped off with a suspected hamstring issue, though batting coach Vikram Rathour indicated it was likely severe cramps and not serious. Sooryavanshi had earlier smashed 103 off 37 balls.",
+    "img": "https://static.toiimg.com/photo/msid-130526313,imgsize-76768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/103-then-a-scare-how-serious-is-vaibhav-sooryavanshis-injury-rr-coach-provides-update/articleshow/130526294.cms",
+    "time": "2026-04-26T04:28:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Major change in badminton! BWF approves new 3x15 scoring system",
+    "desc": "The BWF has approved a new 3x15 scoring system in badminton, set to be implemented from January, after strong support at its AGM. While trials showed shorter, more exciting matches, opinions are divided. PV Sindhu urged meaningful change, Satwik welcomed it for doubles, but Saina Nehwal and coach Vimal Kumar opposed it, fearing it could dilute the sport’s essence.",
+    "img": "https://static.toiimg.com/photo/msid-130526120,imgsize-49962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/major-change-in-badminton-bwf-approves-new-3x15-scoring-system-when-will-it-be-implemented/articleshow/130526117.cms",
+    "time": "2026-04-26T03:59:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kabhi Alvida Naa Kehna' being adapted into web series; Karan confirms",
+    "desc": "Filmmaker Karan Johar has confirmed that his 2006 film 'Kabhi Alvida Naa Kehna' is being adapted into a long-form web series for a digital platform. Johar discussed the film's polarized reception and its exploration of marital complexities. He also revealed his talk show will return this Diwali.",
+    "img": "https://static.toiimg.com/photo/msid-130526130,imgsize-11368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kabhi-alvida-naa-kehna-being-adapted-into-web-series-karan-johar-confirms-expansion-of-2006-film/articleshow/130526124.cms",
+    "time": "2026-04-26T03:59:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daniel Craig, Cillian Murphy star in new drama",
+    "desc": "Director Damien Chazelle is set for a major comeback with an untitled 1940s prison psychodrama. Daniel Craig and Cillian Murphy are reportedly leading the cast, with Craig as a warden and Murphy as a defiant inmate. Michelle Williams and Mia Threapleton are also confirmed. The film, expected in 2027, is already generating significant awards buzz.",
+    "img": "https://static.toiimg.com/photo/msid-130526097,imgsize-118964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/damien-chazelle-casts-daniel-craig-and-cillian-murphy-in-an-intense-prison-drama-after-babylon/articleshow/130526082.cms",
+    "time": "2026-04-26T03:56:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Devdutt Padikkal attributes steady growth to state captaincy",
+    "desc": "Devdutt Padikkal’s rise in the ongoing IPL season has been marked not just by runs, but by a growing sense of awareness — of situations, of bowlers, and of his game. After his defining 27-ball 55 in Royal Challengers Bengaluru’s five-wicket win over Gujarat Titans on Friday at the M Chinnaswamy Stadium here, the southpaw pointed to a significant factor behind his growth— captaining Karnataka.",
+    "img": "https://static.toiimg.com/photo/msid-130526023,imgsize-80426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-devdutt-padikkal-attributes-steady-growth-to-state-captaincy/articleshow/130525996.cms",
+    "time": "2026-04-26T03:47:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What rules govern international waters?",
+    "desc": "Can Iran legally restrict transit through the Strait of Hormuz? Is the U.S. blockade of the strait lawful? What is the legal position on interceptions? And in cases such as this, which organisation steps in and how? What can happen next?",
+    "img": "https://th-i.thgim.com/public/incoming/twraga/article70906326.ece/alternates/LANDSCAPE_1200/AFP_A8M94T4.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/what-rules-govern-international-waters/article70906325.ece",
+    "time": "2026-04-26T03:46:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Subhash teased ‘Khalnayak Returns’ actor Sanjay Dutt",
+    "desc": "Sanjay Dutt's first look from 'Khalnayak Returns' has been unveiled, reigniting excitement for the sequel. During a 30th-anniversary screening of the original, director Subhash Ghai playfully teased Dutt about his focus on Madhuri Dixit, while Dutt shared a humorous anecdote about the iconic \"Choli Ke Peeche\" song shoot.",
+    "img": "https://static.toiimg.com/photo/msid-130525960,imgsize-38404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-subhash-ghai-teased-khalnayak-returns-actor-sanjay-dutt-he-would-keep-looking-towards-madhuri/articleshow/130525954.cms",
+    "time": "2026-04-26T03:32:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Parvathy REVEALS why Mohanlal, Mammootty are legends",
+    "desc": "Actress Parvathy Thiruvothu delves into the fabric of legendary fame in Malayalam film, focusing on mammoth figures Mammootty and Mohanlal. Rather than mere celebrity, she highlights their profound humanity and the grace they demonstrate on set. Their empathy and steadfast dedication to their roles resonate deeply within the film community.",
+    "img": "https://static.toiimg.com/photo/msid-130525959,imgsize-97076.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/parvathy-thiruvothu-explains-why-mohanlal-mammootty-are-legends-says-they-walk-on-set-and-make-it-a-better-place/articleshow/130525881.cms",
+    "time": "2026-04-26T03:31:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How one Sunday flipped the Orange Cap four times",
+    "desc": "The Orange Cap standings experienced a dramatic shake-up on Sunday, with multiple batsmen claiming the top spot throughout the day. Abhishek Sharma ultimately secured the lead with a match-winning fifty, pushing Virat Kohli to fifth. This rapid shift underscores the intense competition in IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130525908,imgsize-1295701.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-to-kl-rahul-to-vaibhav-sooryavanshi-to-abhishek-sharma-how-one-sunday-flipped-the-orange-cap-four-times/articleshow/130525844.cms",
+    "time": "2026-04-26T03:25:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Engine fire on SWISS Delhi-Zurich flight during take off roll; aircraft evacuated on runway",
+    "desc": "Six passengers were hospitalized after a SWISS flight from Delhi to Zurich was evacuated on the runway due to an engine fire during takeoff. The Airbus A330's engine number one failed at 104 knots, prompting the crew to abort the takeoff and evacuate all 232 passengers and crew using emergency slides.",
+    "img": "https://static.toiimg.com/photo/msid-130525747,imgsize-766852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/engine-fire-on-swiss-delhi-zurich-flight-during-take-off-roll-aircraft-evacuated-on-runway/articleshow/130525692.cms",
+    "time": "2026-04-26T03:06:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will MS Dhoni play today against Gujarat Titans in Chepauk?",
+    "desc": "Chennai Super Kings, buoyed by a massive win, face Gujarat Titans with MS Dhoni's return still a mystery. Despite being match-fit, Dhoni is reportedly delaying his comeback to maintain CSK's winning combination. Head coach Stephen Fleming confirmed his progress, while the team looks to leverage home advantage at Chepauk.",
+    "img": "https://static.toiimg.com/photo/msid-130525690,imgsize-734527.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-ms-dhoni-play-today-against-gujarat-titans-in-chepauk/articleshow/130525688.cms",
+    "time": "2026-04-26T02:59:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "David Hasselhoff is seen using a walker with his wife, Hayley Roberts",
+    "desc": "Screen legend David Hasselhoff, aged 73, was recently seen out and about in Los Angeles using a walker after undergoing knee and hip replacement surgery. His team has reported that he is on the mend and engaged in physical therapy sessions. This sighting follows a past incident where he relied on a wheelchair at the airport due to health issues.",
+    "img": "https://static.toiimg.com/photo/msid-130525659,imgsize-127898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/david-hasselhoff-73-steps-out-with-a-walker-with-his-wife-hayley-roberts-during-recovery-phase/articleshow/130525644.cms",
+    "time": "2026-04-26T02:55:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mammootty praises Chinna Thamizha; 'Youth' team RESPONDS",
+    "desc": "Mammootty, promoting his upcoming film 'Patriot', lauded actor-comedian Chinna Thamizha for his passion, drawing parallels to his own enduring drive for acting. He expressed confidence in exploring many more characters and reflected on the industry's evolution. The 'Youth' team, including director Ken Karunaas, reacted with immense gratitude to Mammootty's heartfelt praise.",
+    "img": "https://static.toiimg.com/photo/msid-130525578,imgsize-62282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-praises-youth-star-chinna-thamizha-i-have-the-same-amount-of-drive-for-acting-as-him/articleshow/130525560.cms",
+    "time": "2026-04-26T02:43:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Preity Zinta punches Arya, batter’s reaction goes viral – Watch",
+    "desc": "Punjab Kings pulled off a record chase against Delhi Capitals, but a playful moment stole the show as Preity Zinta jokingly punched Priyansh Arya, whose reaction went viral. Ravi Shastri quipped, “Oh, that was a good punch.” Earlier, KL Rahul’s 152 powered DC to 264/2, but Punjab responded strongly, with Prabhsimran, Arya, and Shreyas Iyer leading a stunning chase to stay unbeaten.",
+    "img": "https://static.toiimg.com/photo/msid-130525524,imgsize-22148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-preity-zinta-playfully-punches-priyansh-arya-batters-reaction-goes-viral-watch/articleshow/130525424.cms",
+    "time": "2026-04-26T02:35:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Bappi Lahiri recalled Michael Jackson’s praise",
+    "desc": "Bappi Lahiri, the maestro behind Indian disco music, shared a memorable encounter with Michael Jackson. Jackson expressed his admiration for Lahiri's hit song 'Jimmi Jimmi,' drawing a parallel between himself and the legendary Kishore Kumar. This anecdote highlights the global reach of Lahiri's music, particularly 'Jimmi Jimmi,' which achieved international fame.",
+    "img": "https://static.toiimg.com/photo/msid-130525454,imgsize-37790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/when-bappi-lahiri-recalled-michael-jacksons-praisemj-said-i-love-your-song-jimmi-jimmi/articleshow/130525461.cms",
+    "time": "2026-04-26T02:24:11.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'Dear cricket, give me one more chance': Karun Nair's old post resurfaces",
     "desc": "Karun Nair endured a tough night as Delhi Capitals lost to Punjab Kings, who chased a record 265. Nair dropped Shreyas Iyer twice, allowing him to score 71 and seal the win. The moment went viral, with fans resurfacing Nair’s old “Dear cricket” post. Visibly shaken, the 34-year-old’s struggles highlighted both the cost of missed chances and his ongoing journey of resilience.",
@@ -243,24 +450,6 @@ const newsData_en = [
     "time": "2026-04-25T18:28:42.000Z"
   },
   {
-    "cat": "World",
-    "title": "What rules govern international waters?",
-    "desc": "Can Iran legally restrict transit through the Strait of Hormuz? Is the U.S. blockade of the strait lawful? What is the legal position on interceptions? And in cases such as this, which organisation steps in and how? What can happen next?",
-    "img": "https://th-i.thgim.com/public/incoming/twraga/article70906326.ece/alternates/LANDSCAPE_1200/AFP_A8M94T4.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-rules-govern-international-waters/article70906325.ece",
-    "time": "2026-04-25T17:52:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will AAP MPs face disqualification after joining BJP?",
-    "desc": "Is there a law against defection? What are the exceptions to it and how has the Supreme Court interpreted them? What are experts’ view on seven of AAP’s 10 Rajya Sabha members joining the BJP last week?",
-    "img": "https://th-i.thgim.com/public/incoming/q4nxe8/article70906318.ece/alternates/LANDSCAPE_1200/20260424312L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/will-aap-mps-face-disqualification-after-joining-bjp/article70906320.ece",
-    "time": "2026-04-25T17:51:05.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Calls to do away with elephants, fireworks in temple festivals get louder in Kerala",
     "desc": "In the aftermath of the recent fireworks tragedy at Mundathikode in Thrissur, social media campaigns are gathering strength seeking to move away from the use of high-intensity gunpowder displays as well as elephants during festivities",
@@ -277,33 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/mohammad-bagher-ghalibaf-irans-wartime-apparatchik/article70906442.ece",
     "time": "2026-04-25T17:43:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Running Point 2': All you need to know about Niko Mijailovic",
-    "desc": "In a heartfelt tribute, the second season of Kate Hudson's 'Running Point' shines a light on Niko Mijailovic, a talented young volleyball player who tragically lost his life to sudden cardiac arrest. His family shared that the first season of 'Running Point' was the last show he enjoyed watching, making this dedication all the more poignant.",
-    "img": "https://static.toiimg.com/photo/msid-130519107,imgsize-94222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/all-you-need-to-know-about-niko-mijailovic-who-running-point-season-2-is-dedicated-to/articleshow/130519000.cms",
-    "time": "2026-04-25T16:43:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘We Bury The Dead’ set for May OTT release",
-    "desc": "Brace yourself for 'We Bury The Dead', a gripping zombie apocalypse drama starring Daisy Ridley and Brenton Thwaites, premiering on Hulu this May 8th. Following its limited theatrical release, this film dives into Ava's harrowing quest to find her husband amidst a chaotic world ravaged by a rogue government weapon, forcing survivors to confront an army of the undead.",
-    "img": "https://static.toiimg.com/photo/msid-130519005,imgsize-49062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/we-bury-the-dead-ott-release-heres-when-and-where-you-can-watch-daisy-ridley-brenton-thwaites-zombie-film/articleshow/130518955.cms",
-    "time": "2026-04-25T16:35:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Songs from Charlize Theron’s ‘Apex’",
-    "desc": "Dive into the chilling world of 'Apex,' the latest OTT sensation featuring the dynamic duo of Charlize Theron and Taron Egerton. Set against the breathtaking backdrop of the wilderness, this intense survival film unravels the compelling tale of a distraught climber (Theron) pushed to her limits as she faces off against a relentless serial killer (Egerton).",
-    "img": "https://static.toiimg.com/photo/msid-130518948,imgsize-100586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/mountain-to-boogie-streetall-of-the-songs-charlize-therons-apex/articleshow/130518910.cms",
-    "time": "2026-04-25T16:31:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,42 +513,6 @@ const newsData_en = [
     "time": "2026-04-25T15:29:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Kantara' row: Court quashes FIR against Ranveer",
-    "desc": "Actor Ranveer Singh's plea to quash a criminal complaint over his 'Kantara' mimicry was accepted by the Karnataka High Court. He assured the court he would visit the Chamundi Hill Temple in Mysore as an apology for his controversial remarks, with the court to record this commitment before closing the plea.",
-    "img": "https://static.toiimg.com/photo/msid-130517910,imgsize-72718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kantara-mimicry-row-court-quashes-fir-against-ranveer-singh-directs-him-to-visit-chamundi-temple-within-four-weeks/articleshow/130517811.cms",
-    "time": "2026-04-25T15:27:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Axar Patel's brutal verdict: 'We deserved to lose' after horror show",
-    "desc": "Delhi Capitals captain Axar Patel expressed frustration after his team's fielding lapses, including dropped catches, led to a defeat despite posting a massive 264/2. Shreyas Iyer, surviving two dropped chances, guided Punjab Kings to a six-wicket victory, highlighting the need for the team to seize crucial moments and back their bowlers.",
-    "img": "https://static.toiimg.com/photo/msid-130517682,imgsize-55888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/axar-patels-brutal-verdict-we-deserved-to-lose-after-horror-show-in-the-field-in-punjab-kings-loss/articleshow/130517679.cms",
-    "time": "2026-04-25T15:12:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ameesha hits back at Zakir for claiming Bollywood was jealous of ‘Dhurandhar 2",
-    "desc": "Ameesha Patel has slammed comedian Zakir Khan for his recent comments about industry jealousy. She argued that it's easy to mock achievers and challenged comedians to achieve success themselves. Patel emphasized that 'Dhurandhar' has inspired others to improve, fostering healthy competition rather than insecurity.",
-    "img": "https://static.toiimg.com/photo/msid-130517372,imgsize-41100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-hits-back-at-zakir-khan-for-claiming-bollywood-was-jealous-of-dhurandhar-2-aapko-kisne-call-karke-bataya/articleshow/130517309.cms",
-    "time": "2026-04-25T14:52:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi’s revenge reads 6,6,6,6; Hinge taken apart in 24-run over",
-    "desc": "Vaibhav Sooryavanshi delivered a stunning response to Praful Hinge. Sooryavanshi smashed four consecutive sixes in the opening over. This powerful start set the tone for his innings. He reached his half-century in just 15 balls. This marked his third such rapid fifty this IPL season. Sunrisers Hyderabad captain Pat Cummins returned to action after recovering from a back issue.",
-    "img": "https://static.toiimg.com/photo/msid-130517244,imgsize-128326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-vaibhav-sooryavanshis-revenge-reads-6666-praful-hinge-taken-apart-in-24-run-over/articleshow/130517159.cms",
-    "time": "2026-04-25T14:45:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Record shattered! Punjab Kings chase 264 vs Delhi Capitals",
     "desc": "Punjab Kings achieved the highest successful run chase in IPL history, chasing down a colossal 264 against Delhi Capitals. Priyansh Arya and Prabhsimran Singh provided a blistering start, followed by a match-winning unbeaten 71 from captain Shreyas Iyer, securing a six-wicket victory with seven balls to spare.",
@@ -403,87 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/drill-sanction-control-inside-the-oil-economics-driving-trump-2-0/articleshow/130512591.cms",
     "time": "2026-04-25T14:36:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shanoo Sharma gets married, keeps husband's identity under wraps",
-    "desc": "Popular casting director Shanoo Sharma has married. She shared wedding photos on social media. Sharma kept her husband's identity private in the shared pictures. She announced the news on Instagram. Many film industry personalities sent their congratulations. Sharma is known for launching actors like Ranveer Singh and Arjun Kapoor.",
-    "img": "https://static.toiimg.com/photo/msid-130516761,imgsize-21500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/casting-director-shanoo-sharma-tied-the-knot-keeps-her-husbands-identity-under-wraps-ranveer-singh-arjun-kapoor-parineeti-chopra-react/articleshow/130516720.cms",
-    "time": "2026-04-25T14:10:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ameesha Patel opens up on replacing Aishwarya Rai in 'Mangal Pandey'",
-    "desc": "Ameesha Patel revealed her 'Mangal Pandey' casting stemmed from an Aamir Khan interview and a near-miss with 'Lagaan'. Aamir was impressed by her intelligence, leading to a connection. Though she screen-tested for 'Lagaan', her 'educated' look led to her exit, ironically paving the way for her 'Gadar' role. The 'Mangal Pandey' role was previously offered to Aishwarya Rai Bachchan.",
-    "img": "https://static.toiimg.com/photo/msid-130516294,imgsize-35454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-opens-up-on-replacing-aishwarya-rai-in-mangal-pandey-aamir-found-me-intelligent/articleshow/130516212.cms",
-    "time": "2026-04-25T13:44:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings script history, become second-fastest team to...",
-    "desc": "Punjab Kings openers Priyansh Arya and Prabhsimran Singh delivered a record-breaking powerplay performance. They chased Delhi Capitals' huge total with an explosive start. The duo raced to 100 in just 5.2 overs. By the end of the powerplay, Punjab reached 116 without loss. This set the stage for a remarkable chase.",
-    "img": "https://static.toiimg.com/photo/msid-130516094,imgsize-140776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-punjab-kings-script-history-become-second-fastest-team-to-reach-100-in-ipl/articleshow/130516105.cms",
-    "time": "2026-04-25T13:41:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "6 fours in one over! Prabhsimran Singh becomes the third batter after ...",
-    "desc": "Prabhsimran Singh etched his name in IPL history by becoming the third batter to hit six boundaries in a single over, achieving the feat against Delhi Capitals' Mukesh Kumar. This rare accomplishment follows similar exploits by Ajinkya Rahane and Prithvi Shaw. Singh's explosive 76 off 26 balls showcased his aggressive batting.",
-    "img": "https://static.toiimg.com/photo/msid-130516256,imgsize-35394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-prabhsimran-singh-hits-six-fours-in-an-over-joins-elite-record-list/articleshow/130516095.cms",
-    "time": "2026-04-25T13:40:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Riteish on Dhurandhar success, changing audience taste",
-    "desc": "In Riteish Deshmukh's view, the success of Hindi films such as 'Dhurandhar' illustrates a significant cultural shift; audiences are increasingly drawn to innovative storytelling. He encourages creators to break free from traditional molds, asserting that the richness of Indian cinema lies in delivering captivating tales, no matter the genre.",
-    "img": "https://static.toiimg.com/photo/msid-130515670,imgsize-61166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riteish-deshmukh-on-dhurandhars-success-and-changing-audience-tastes-in-cinema-you-cannot-blind-yourself-to-the-changes/articleshow/130515670.cms",
-    "time": "2026-04-25T13:09:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I’m itching to get out there’- Cummins set for return vs RR, takes back SRH captaincy",
-    "desc": "Pat Cummins is set to return for Sunrisers Hyderabad's IPL 2026 fixture against Rajasthan Royals after recovering from a back injury. He expressed his eagerness to play again, praising Ishan Kishan's captaincy despite a humorous jab at his toss record. Cummins also lauded the exceptional performances of SRH's young fast bowlers in the challenging IPL format.",
-    "img": "https://static.toiimg.com/photo/msid-130515267,imgsize-177858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-im-itching-to-get-out-there-pat-cummins-set-for-return-vs-rr-takes-back-srh-captaincy/articleshow/130515323.cms",
-    "time": "2026-04-25T13:06:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul creates IPL history with unique 3-franchise century feat",
-    "desc": "KL Rahul unleashed a sensational unbeaten 152, a record for an Indian in the IPL, as Delhi Capitals posted a colossal 264/2 against Punjab Kings. Supported by Nitish Rana's 91, their 220-run partnership powered DC to their highest-ever total. Rahul's fiery knock featured 16 fours and nine sixes, marking his fastest century.",
-    "img": "https://static.toiimg.com/photo/msid-130515544,imgsize-49092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-creates-ipl-history-with-unique-3-franchise-century-feat/articleshow/130515533.cms",
-    "time": "2026-04-25T12:58:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Scary scenes! Lungi Ngidi taken off in ambulance after suffering head injury",
-    "desc": "The incident happened in the third over of Punjab Kings' chase when Arya played a slash at a full ball on the stumps off Axar Patel. The ball went high towards mid-off, where Ngidi ran back to complete the catch.",
-    "img": "https://static.toiimg.com/photo/msid-130515083,imgsize-101142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/scary-scenes-lungi-ngidi-taken-off-in-ambulance-after-suffering-head-injury-in-dc-vs-pbks-ipl-match/articleshow/130515003.cms",
-    "time": "2026-04-25T12:41:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul scripts history, becomes first Indian to…",
-    "desc": "KL Rahul achieved a historic milestone with an unbeaten 152 for Delhi Capitals against Punjab Kings. This remarkable innings is the third-highest individual score in IPL history. Rahul's performance, aided by dropped catches, powered Delhi to a commanding total. He partnered with Nitish Rana for a significant second-wicket stand, setting a new franchise record.",
-    "img": "https://static.toiimg.com/photo/msid-130514508,imgsize-109980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-scripts-history-becomes-first-indian-to-hit-150-in-ipl/articleshow/130514525.cms",
-    "time": "2026-04-25T12:11:08.000Z"
   },
   {
     "cat": "Business",
@@ -720,15 +765,6 @@ const newsData_en = [
     "time": "2026-04-23T11:27:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'I was not told to give up non-veg food,' says Mumtaz on marrying a Hindu",
-    "desc": "Veteran actor Mumtaz shares her journey from child artist to stardom. She discusses her hit pairings and a marriage proposal from Shammi Kapoor. Mumtaz chose her career then. Later, she married businessman Mayur Madhvani and left films at her peak. She also clarifies her platonic relationship with Feroz Khan.",
-    "img": "https://static.toiimg.com/photo/msid-130465254,imgsize-59848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-wasnt-told-to-give-up-non-veg-food-says-mumtaz-on-marrying-a-hindu-we-never-differentiated-between-religions/articleshow/130465119.cms",
-    "time": "2026-04-23T10:44:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Iran says won't reopen Hormuz if U.S. upholds naval blockade",
     "desc": "While strikes around the region have mostly ceased since the truce began, there has been no letup in the pressure around the crucial trade route, with the two sides exercising their economic leverage in a bid to force the other to back down.",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
