@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "ટેબલ નીચે છુપાયા ટ્રમ્પ, મેલિનિયા પણ ગભરાયા! વોશિંગટનની હોટલમાં ઈવેન્ટ વચ્ચે અંધાધૂંધ ફાયરિંગ",
+    "desc": "અમેરિકાના વોશિંગ્ટનમાં વ્હાઇટ હાઉસ પર ફાયરિંગની ઘટના બની છે. ડિનર દરમિયાન વ્હાઈટ હાઉસમાં ફાયરિંગની ઘટના બનતા ખળભળાટ મચી ગયો હતો. રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ, ઉપરાષ્ટ્રપતિ જેડી વેન્સ હોટેલ હિલ્ટનમાં હાજર હતા ત્યારે જ ફાયરિંગ થયું હતું. આવામાં સુરક્ષા દળોએ તાત્કાલિક અસરથી રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ, ઉપરાષ્ટ્રપતિને બહાર કાઢ્યા હતા. હુમલા બાદ હુમલાખોરને ઠાર મરાયો હોવાની માહિતી મળી છે. રાષ્ટ્રપતિ ટ્રમ્પે ટ્વીટ કરીને માહિતી આપી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/washington-white-house-hilton-hotel-shooting-donald-trump-evacuated-474835 ",
+    "time": "2026-04-26T02:18:30.000Z"
+  },
+  {
+    "cat": "World",
     "title": "ભારે ગરમી અને વિનાશની ચેતવણી, જાણો મેગા અલ નીનોની હવામાન પર શું અસર પડશે?",
     "desc": "દુનિયા 150 વર્ષમાં સૌથી મોટા ખતરાનો સામનો કરી રહી છે, 'મેગા અલ નીનોના ભયે વૈજ્ઞાનિકોને પણ મૂંઝવણમાં મૂકી દીધા છે. શું અતિશય ગરમી અને દુષ્કાળ ખરેખર વિનાશ લાવશે? જાણો કે આ વિનાશક કટોકટી તમારા જીવન પર કેવી અસર કરશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -592,15 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-us-war-ceasefire-deadline-donald-trump-benjamin-netanyahu-statements-latest-update-474082 ",
     "time": "2026-04-21T03:41:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "સરકારી કર્મચારીઓ માટે મોટો નિર્ણય, હવે મહિનામાં એકવાર નહીં પણ બે વાર મળશે પગાર; જાણો શું છે કારણ",
-    "desc": "નેપાળની બાલેન શાહ સરકારે સરકારી કર્મચારીઓને દર મહિને બે વાર પગાર આપવાનો નિર્ણય કર્યો છે. સરકાર તરફથી આ નિર્ણય દેશના રોકડ પ્રવાહ (Cash Flow)ને પાટા પર લાવવા માટે લેવામાં આવ્યો છે. હવે દરેક સરકારી કર્મચારીને 15 દિવસના અંતરે પગાર મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/big-decision-for-government-employees-now-salary-will-be-given-twice-a-month-instead-of-once-know-reason-474053 ",
-    "time": "2026-04-20T17:18:22.000Z"
   },
   {
     "cat": "Tech",
