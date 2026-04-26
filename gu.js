@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "ક્યારેય સ્કૂલ નથી ગઈ આ બોલીવુડ અભિનેત્રી, મહેનતથી લખી સફળતાની કહાની, આજે છે સફળ એક્ટ્રસ",
+    "desc": "કેટરીના કૈફ બોલીવુડની ટોપ અભિનેત્રીઓમાં સામેલ છે, પરંતુ ખુબ ઓછા લોકો જાણે છે કે તે ક્યારેય શાળાએ ગઈ નથી. અલગ-અલગ દેશોમાં રહેવાને કારણે તેણે હોમસ્કૂલિંગ દ્વારા અભ્યાસ કર્યો અને નાની ઉંમરમાં મોડલિંગ શરૂ કર્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/katrina-kaif-never-went-to-school-took-up-homeschooling-became-a-top-heroine-of-bollywood-a-success-story-474901 ",
+    "time": "2026-04-26T07:20:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બદલાઈ જશે ગેસ સિલિન્ડર બુક કરવાના નિયમો ? 1 મેથી આ ફેરફારો લાગુ કરવાની તૈયારી",
+    "desc": "મિડલ ઈસ્ટમાં હોર્મુઝ સ્ટ્રેટ બંધ થવાના કારણે ક્રૂડ ઓઇલ અને ગેસનો પુરવઠો ખોરવાઈ રહ્યો છે. પરિણામે નજીકના ભવિષ્યમાં દેશમાં રાંધણ ગેસનું સંકટ વધુ ઘેરું બની શકે છે. પ્રવર્તમાન પરિસ્થિતિને ધ્યાનમાં રાખીને ત્રણેય ઓઈલ કંપનીઓએ સિલિન્ડર બુકિંગ માટેના નિયમોમાં ફેરફાર કરવાની યોજના બનાવી છે, જે 1 મેથી અમલમાં આવે તેવી શક્યતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gas-cylinder-booking-rules-may-change-from-may-1-know-the-changes-474899 ",
+    "time": "2026-04-26T07:06:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રાજસ્થાન રોયલ્સ માટે ખરાબ સમાચાર, વૈભવ સૂર્યવંશી ઈજાગ્રસ્ત... આગામી મેચમાં નહીં રમે ? કોચે આપ્યું અપડેટ",
+    "desc": "SRH સામેની મેચ દરમિયાન હેમસ્ટ્રિંગની સમસ્યાને કારણે વૈભવ સૂર્યવંશીને મેદાન છોડવું પડ્યું હતું. રાજસ્થાન રોયલ્સની આગામી મેચ પંજાબ કિંગ્સ સામે છે, ત્યારે આ મેચમાં સૂર્યવંશી રમશે કે નહીં, તે અંગે સવાલ છે, ત્યારે તેની ઈજા અંગે બેટિંગ કોચ વિક્રમ રાઠોડે અપડેટ આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-sooryavanshi-injury-update-rr-vs-srh-batting-coach-vikram-rathore-statement-474890 ",
+    "time": "2026-04-26T06:07:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "વિધાનસભા ચૂંટણી: પરિણામો પહેલા સટ્ટા બજારનો ચોંકાવનારો દાવો, બંગાળથી લઈ તમિલનાડુમાં કોની બનશે સરકાર?",
     "desc": "ચાર રાજ્યો અને એક કેન્દ્રશાસિત પ્રદેશમાં ચૂંટણીઓ થઈ રહી છે. જેમાં પશ્ચિમ બંગાળમાં બીજા તબક્કાનું મતદાન બાકી છે બાકી બધે મતદાન પૂરું થઈ ગયું અને 4 મેના રોજ પરિણામનો દિવસ છે. પરંતુ તે પહેલા સટ્ટા બજાર શું કહે છે તે પણ જાણવા જેવું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/assembly-elections-phalodi-satta-bazaar-latest-predictions-for-west-bengal-tamilnadu-assam-kerala-474887 ",
-    "time": "2026-04-26T05:34:10.000Z"
+    "time": "2026-04-26T05:36:21.000Z"
   },
   {
     "cat": "Sports",
@@ -432,15 +459,6 @@ const newsData_gu = [
     "time": "2026-04-23T12:00:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "1 દુલ્હન અને 4 વરરાજા... પહેલો ફરાર, બીજો બીમાર, ત્રીજાએ લગ્ન કરવાની ના પાડી; ચોથાએ લગ્ન કર્યા, પણ...",
-    "desc": "ઉત્તર પ્રદેશમાં એક અજીબોગરીબ કિસ્સો સામે આવ્યો છે. જ્યાં લગ્ન માટે નક્કી કરેલા વરરાજા ભાગી જતાં પિતાએ એક પછી એક ચાર દીકરાઓના ઓપ્શન આપ્યા. લગ્નની તારીખ 20 એપ્રિલ 2026 નક્કી હતી. પરંતુ લગ્નના ત્રણ દિવસ પહેલા વરરાજા ઘરેથી ભાગી ગયો. 19 એપ્રિલે છોકરાના પિતાએ કન્યા પક્ષને આ બાબતની જાણ કરી અને ખાતરી આપી કે, લગ્ન રદ નહીં થાય. તેમણે તેમના બીજા પુત્ર સાથે લગ્ન કરાવવાનો પ્રસ્તાવ મૂક્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/1-bride-and-4-grooms-first-ran-away-the-second-was-sick-the-third-refused-to-marry-the-fourth-got-married-474500 ",
-    "time": "2026-04-23T11:20:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સરકાર આપશે મોટી ભેટ, પેન્શનની રકમ ડબલ કરવાની તૈયારી, જાણો કેટલા રૂપિયા મળશે?",
     "desc": "કેન્દ્ર સરકાર દ્વારા અસંગઠિત ક્ષેત્રોના લોકો માટે પેન્શન યોજના ચલાવવામાં આવે છે. આ યોજનામાં નિયમિત હપ્તા ભરી 60 વર્ષની ઉંમર બાદ નિયમિત પેન્શન મેળવી શકાય છે. હવે સરકાર આ યોજના હેઠળ પેન્શનની રકમ વધારવાની તૈયારી કરી રહી છે.",
@@ -468,15 +486,6 @@ const newsData_gu = [
     "time": "2026-04-23T08:07:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "પેટ્રોલ અને ડીઝલના ભાવમાં થઈ શકે છે 28 રૂપિયા સુધીનો વધારો! જાણો ક્યારે લાગશે ઝટકો? બ્રોકરેજ ફર્મે આપ્યો સંકેત",
-    "desc": "કોટક ઇન્સ્ટિટ્યૂશનલ ઇક્વિટીઝે સંકેત આપ્યા છે કે, પેટ્રોલ અને ડીઝલના ભાવમાં પ્રતિ લિટર 25 રૂપિયાથી 28 રૂપિયા સુધીનો વધારો થઈ શકે છે. નોંધનીય છે કે, પશ્ચિમ એશિયામાં ચાલી રહેલા સંઘર્ષને કારણે સ્ટ્રેટ ઓફ હોર્મુઝમાં પેદા થયેલા અવરોધોને લીધે ઓઈલ માર્કેટમાં ભારે ઉતાર-ચઢાવ જોવા મળી રહ્યો છે. જોકે, સરકારના પેટ્રોલિયમ મંત્રાલયે આ બાબતને અફવા ગણાવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-hike-prediction-kotak-equities-lok-sabha-election-impact-474363 ",
-    "time": "2026-04-23T07:10:44.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "26.11 KM માઇલેજ, 6 એરબેગ, કિંમત ₹8.80 લાખ! આ છે દેશની સૌથી વધુ વેચાતી 7-સીટર કાર",
     "desc": "FY 2025-26 માં 7-સીટર કારની ડિમાન્ડમાં જબરદસ્ત વધારો જોવા મળ્યો છે. મારૂતિ અર્ટિગાએ એકવાર ફરી નંબર 1ની પોઝીશન હાસિલ કરી છે, જ્યારે Mahindra Scorpio અને Toyota Innova નું વેચાણ પણ વધ્યું છે. તો કેટલાક મોડલ્સના વેચાણમાં ઘટાડો થયો છે.",
@@ -484,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/best-selling-7-seater-cars-india-maruti-ertiga-number-1-toyota-innova-secend-474440 ",
     "time": "2026-04-23T07:07:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બજાર ખુલતાની સાથે જ સોનું-ચાંદી ધડામ, હાઈથી સોનું 28000 અને ચાંદી 1.75 લાખ સસ્તા, જાણો આજનો ભાવ",
-    "desc": "સોના અને ચાંદીમાં એકવાર ફરીથી મોટો કડાકો જોવા મળ્યો છે. ક્રૂડ ઓઈલનો ભાવ ઉછાળા મારી રહ્યો છે ત્યાં કિંમતી ધાતુઓમાં પછડાટ જોવા મળી રહી છે. આજે વાયદા બજારમાં ભાવ ખુલતાની સાથે ગગડેલા જોવા મળ્યા. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/silver-price-down-gold-also-fall-on-mcx-check-latest-rates-aaj-no-sona-chandi-no-bhav-ahmedabad-rates-474410 ",
-    "time": "2026-04-23T06:50:58.000Z"
   },
   {
     "cat": "Tech",
@@ -511,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bharat-of-ramayana-died-due-to-liver-disease-sanjay-joge-left-the-world-at-the-age-of-40-474327 ",
     "time": "2026-04-22T13:06:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાની ક્રિકેટરના કાળા કરતૂત આવ્યા સામે, T20 વર્લ્ડ કપ દરમિયાન કરી હતી શરમજનક હરકત",
-    "desc": "પાકિસ્તાનના ઓલરાઉન્ડર મોહમ્મદ નવાઝનો ડ્રગ ટેસ્ટ પોઝિટિવ આવ્યો છે, જેના કારણે પીસીબીએ તપાસ શરૂ કરી છે. નવાઝનો આ ટેસ્ટ ભારત અને શ્રીલંકામાં આયોજિત 2026ના ટી20 વર્લ્ડ કપ દરમિયાન કરવામાં આવ્યો હતો, જેમાં તે ફેલ થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistan-mohammad-nawaz-drug-test-positive-pcb-investigation-474319 ",
-    "time": "2026-04-22T12:21:41.000Z"
   },
   {
     "cat": "World",
@@ -700,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sunita-ahuja-patch-up-with-kashmera-shah-and-krushna-abhishek-after-big-family-controversy-473290 ",
     "time": "2026-04-16T03:34:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મગજની નસોમાં આંટીઓ ચઢાવી દેશે આ સાઈકો થ્રિલર ફિલ્મ, સ્ટોરી શરુ થાય પછી 1 મિનિટ માટે પણ સ્ક્રિનથી નજર નહીં હટાવી શકો",
-    "desc": "શું તમે એવી ફિલ્મ જોવા માંગો છો જેને જોયા પછી તમને એવું કહેવાનું મન થાય કે વાહ... શું ફિલ્મ હતી. તો પછી આ ફિલ્મ જોઈ લો. આ ફિલ્મ એકવાર શરુ થશે એટલે પુરી થશે ત્યાં સુધી તમે ફિલ્મમાં ઓત પ્રોત રહેશો. આ ફિલ્મ એટલી જોરદાર છે કે તમને લાગશે કે ફિલ્મના પાત્રોની સાથે તમે પણ ફિલ્મમાં જ છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-psycho-thriller-hindi-film-on-prime-video-psycho-thriller-film-level-cross-story-473176 ",
-    "time": "2026-04-15T08:13:59.000Z"
   }
 ];

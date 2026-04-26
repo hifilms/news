@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'My new favourite': Pat Cummins lauds Vaibhav Sooryavanshi after youngster's stellar ton in Jaipur",
+    "desc": "Rajasthan Royals’ 15-year-old superstar Vaibhav Sooryavanshi has been the talk of the town in the ongoing IPL (Indian Premier League) 2026 season. The youngster has been brilliant for his side and recently smashed his second-ever...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/my-new-favourite-pat-cummins-lauds-vaibhav-sooryavanshi-after-youngster-s-stellar-ton-in-jaipur-2026-04-26-1038949",
+    "time": "2026-04-26T06:46:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at MA Chidamabaram Stadium in Chennai play?",
+    "desc": "The stage is set for game 37 of the ongoing IPL (Indian Premier League) 2026. Five-time champions Chennai Super Kings will take on Gujarat Titans. The two sides will lock horns at the MA Chidambaram...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-gt-pitch-report-how-will-surface-at-ma-chidamabaram-stadium-in-chennai-play-2026-04-26-1038945",
+    "time": "2026-04-26T06:07:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Updated points table after RR vs SRH match; Check standings",
     "desc": "The IPL (Indian Premier League) 2026 has seen some brilliant performances from the players so far. From the heroics of 15-year-old Vaibhav Sooryavanshi to Virat Kohli’s masterful innings, the fans have been treated to some...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-srh-live-cricket-score-rajasthan-royals-set-to-bat-first-sunrisers-hyderabad-elect-to-field-2026-04-25-1038898",
     "time": "2026-04-25T13:45:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul surpasses Yashasvi Jaiswal, sits just behind Chris Gayle after exceptional innings against PBKS",
-    "desc": "The 35th game of the ongoing IPL (Indian Premier League) 2025 saw Delhi Capitals taking on Punjab Kings. The two sides locked horns at the Arun Jaitley Stadium in New Delhi on April 25, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-surpasses-yashasvi-jaiswal-sits-just-behind-chris-gayle-after-exceptional-innings-against-pbks-2026-04-25-1038895",
-    "time": "2026-04-25T13:13:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which player was named concussion substitute for DC pacer after his horrific fall in IPL 2026?",
-    "desc": "Delhi Capitals fast bowler Lungi Ngidi suffered a horrific fall in his team's IPL 2026 clash against Punjab Kings at the Arun Jailey Stadium on Saturday, April 25. Ngidi was fielding at mid-off in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-which-player-was-named-concussion-replacement-for-dc-pacer-after-his-horrific-fall-in-ipl-2026-2026-04-25-1038894",
-    "time": "2026-04-25T13:07:23.000Z"
   }
 ];

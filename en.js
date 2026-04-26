@@ -1,16 +1,196 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Over 50 lakh more people voted this time compared to 2024 Lok Sabha polls",
+    "desc": "In the State, people’s interest in polling process has always been higher for Assembly elections when compared to Lok Sabha polls, show data from elections held over the past 20 years; parties carry out a more intensive mobilisation for State polls",
+    "img": "https://th-i.thgim.com/public/incoming/iau526/article70905741.ece/alternates/LANDSCAPE_1200/DSC_1343.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
+    "time": "2026-04-26T07:16:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EC to hold key readiness review in Kolkata ahead of Phase 2 polling",
+    "desc": "Ahead of West Bengal's second phase of assembly elections on April 29, a high-level coordination meeting will be held in Kolkata to assess poll preparedness. Senior officials will discuss force deployment, vulnerability mapping, and readiness for smooth, free, and fair polling in key districts.",
+    "img": "https://static.toiimg.com/photo/msid-130527977,imgsize-916622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-assembly-elections-ec-to-hold-key-readiness-review-in-kolkata-ahead-of-phase-2-polling/articleshow/130527951.cms",
+    "time": "2026-04-26T07:11:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay officially confirms ‘Vaastav 2’",
+    "desc": "Sanjay Dutt has confirmed a sequel to his iconic 1999 film 'Vaastav' is in development. The actor revealed this at the launch event for 'Khalnayak Returns'. Dutt is actively working on 'Vaastav 2'. He also expressed a desire for another 'Munna Bhai' film. Filmmaker Subhash Ghai shared an anecdote about casting Dutt in 'Khalnayak'.",
+    "img": "https://static.toiimg.com/photo/msid-130527959,imgsize-27672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutt-officially-confirms-vaastav-2-urges-rajkumar-hirani-to-revive-munna-bhai-franchise-raju-please-make-it/articleshow/130527964.cms",
+    "time": "2026-04-26T07:08:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Running Point’ star Kate Hudson reflects on life after the Oscar buzz",
+    "desc": "Kate Hudson celebrated a memorable 2026, marked by an Oscar nomination for her role in 'Song Sung Blue.' After the awards season buzz, the actress took a well-deserved spring break with her children to decompress. She also cherished the bonds formed with fellow Best Actress nominees during the experience.",
+    "img": "https://static.toiimg.com/photo/msid-130527863,imgsize-50932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/running-point-star-kate-hudson-on-life-after-oscar-buzz-i-took-spring-break-with-my-kids-and-shut-everything-down/articleshow/130527830.cms",
+    "time": "2026-04-26T06:56:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Japan deploys 1,400 firefighters to battle raging wildfires in the north",
+    "desc": "The fires threaten residential districts ‌of ⁠Otsuchi on the Pacific Coast; the area consumed by the fires ‌reached 1,373 hectares (3,393 acres) as of early Sunday (April 26, 2026) morning, up 7% from a ‌day earlier",
+    "img": "https://th-i.thgim.com/public/incoming/u83kby/article70907975.ece/alternates/LANDSCAPE_1200/2026-04-26T035843Z_626233505_RC2OWKASLXPO_RTRMADP_3_JAPAN-WILDFIRES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/japan-deploys-1400-firefighters-to-battle-raging-wildfires-in-the-north/article70907960.ece",
+    "time": "2026-04-26T06:49:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ameesha Patel regrets rejecting Salman Khan’s ‘Tere Naam’: 'It is definitely my loss'",
+    "desc": "Ameesha Patel recently expressed her regret over turning down the lead role in the 2003 hit 'Tere Naam' opposite Salman Khan. In an interview with Bollywood Bubble on April 26, 2026, the actress revealed that Salman Khan had personally narrated the story and played the songs for her, but the lack of a fixed director and shooting dates at the time led her to prioritize other commitments. 'Tere Naam,' eventually directed by Satish Kaushik and starring Bhumika Chawla, went on to become a cult classic.",
+    "img": "https://static.toiimg.com/photo/msid-130527744,imgsize-139210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-regrets-rejecting-salman-khans-tere-naam-despite-loving-the-script-and-songs-it-is-definitely-my-loss/articleshow/130527711.cms",
+    "time": "2026-04-26T06:48:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The killing firecracker factories of Sivakasi",
+    "desc": "Deaths due to firecracker unit blasts in the Sivakasi region have become a periodic occurrence, especially during summer. The recent incident, in which 25 workers died in a series of blasts, again spotlights the gross violations in the operation of firecracker factories and the inadequate monitoring of these units",
+    "img": "https://th-i.thgim.com/public/incoming/q39am3/article70906375.ece/alternates/LANDSCAPE_1200/Vanaja%20fireworks%20unit%20%20Fire%209.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-killing-factories-ofsivakasi/article70906379.ece",
+    "time": "2026-04-26T06:48:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'RRR' trivia: How Jr NTR’s jungle entry shot was filmed",
+    "desc": "Director SS Rajamouli revealed the challenging filming of Jr NTR's iconic Bheem introduction in 'RRR'. A parkour artist, pushed to his limits by NTR's incredible speed, operated the camera for the continuous jungle run. Rajamouli also lauded the lead actors' dedication to performing their own stunts, calling their performances the best of his career.",
+    "img": "https://static.toiimg.com/photo/msid-130527695,imgsize-136094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamouli-reveals-filming-jr-ntrs-iconic-rrr-jungle-entry-scene-using-a-parkour-artist-when-bheem-was-running-in-the-jungle-the-camera-was-parallelly-going-through/articleshow/130527673.cms",
+    "time": "2026-04-26T06:44:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sangeeth Shobhan’s ‘Raakaasa’ OTT release date announced",
+    "desc": "The Telugu horror-comedy Raakaasa is now available on Netflix. The film, starring Sangeeth Shobhan and Nayan Sarika, was released in theatres on April 3, 2026. It garnered appreciation from audiences and achieved box office success. The movie promises a blend of scares and laughs for digital viewers. Raakaasa is expected to entertain a wider audience on the streaming platform.",
+    "img": "https://static.toiimg.com/photo/msid-130527586,imgsize-191920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/raakaasa-ott-release-when-and-where-to-watch-sangeeth-shobhans-horror-comedy-online/articleshow/130527542.cms",
+    "time": "2026-04-26T06:36:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'If you're not close enough, your photo is not good enough': Remembering Raghu Rai",
+    "desc": "Legendary photographer Raghu Rai, who shaped India's visual memory for over five decades, passed away on Sunday. His iconic images, from the Bhopal Gas tragedy to portraits of national figures, gave permanence to history. Rai believed visual history was more important than fine art, emphasizing closeness to truth in his immersive photographic practice.",
+    "img": "https://static.toiimg.com/photo/msid-130527562,imgsize-91410.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/if-youre-not-close-enough-your-photo-is-not-good-enough-remembering-raghu-rai/articleshow/130527530.cms",
+    "time": "2026-04-26T06:34:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Huge rush in Home Guard recruitment examination signals looming unemployment scenario in U.P., says Opposition",
+    "desc": "“We are seeing visuals through social media of long lines outside examination centres, and bus stations are full with the presence of aspirants who are giving the test,” says Ajay Rai, Uttar Pradesh Congress president",
+    "img": "https://th-i.thgim.com/public/incoming/s9lmtf/article70907785.ece/alternates/LANDSCAPE_1200/20260425049L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/huge-rush-in-home-guard-recruitment-examination-signals-looming-unemployment-scenario-in-up-says-opposition/article70905944.ece",
+    "time": "2026-04-26T06:31:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir and Aditya Roy spotted together at Mumbai event",
+    "desc": "Actors Ranbir Kapoor and Aditya Roy Kapur, who played Bunny and Avi in the beloved film 'Yeh Jawaani Hai Deewani', were recently spotted together in Mumbai. Their reunion sparked immense excitement among fans, with many expressing their desire for a sequel to the iconic romantic drama.",
+    "img": "https://static.toiimg.com/photo/msid-130527484,imgsize-33720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-and-aditya-roy-kapur-spotted-together-at-mumbai-event-viral-reunion-has-fans-demanding-yjhd-2/articleshow/130527494.cms",
+    "time": "2026-04-26T06:28:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ashwin rallies behind Nair after costly drops, says 'I’m not making excuses'",
+    "desc": "Punjab Kings achieved a record IPL chase, but Karun Nair's fielding errors proved costly. He dropped Shreyas Iyer twice, crucial misses that allowed Iyer to score a match-winning 71. Despite the blunders, Ravichandran Ashwin defended Nair, suggesting fatigue and a sudden game entry might have contributed to his struggles.",
+    "img": "https://static.toiimg.com/photo/msid-130527446,imgsize-732626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-r-ashwin-rallies-behind-karun-nair-after-costly-drops-says-im-not-making-excuses/articleshow/130527366.cms",
+    "time": "2026-04-26T06:22:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kara' star Dhanush recalls being mocked for his physique",
+    "desc": "Dhanush, promoting his upcoming film 'Kara' in Coimbatore, reminisced about being mocked for his physique before 'Polladhavan,' where a sudden six-pack earned him his first audience applause. He also detailed his packed film schedule, including 'Vadachennai 2,' and expressed strong confidence in 'Kara's' content, hoping it resonates with audiences without relying on trends.",
+    "img": "https://static.toiimg.com/photo/msid-130527404,imgsize-83046.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-star-dhanush-recalls-being-mocked-for-his-physique-before-polladhavan-first-time-i-got-claps-for-my-body/articleshow/130527377.cms",
+    "time": "2026-04-26T06:20:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ashley Park recalls croissant scene in ‘Emily in Paris’",
+    "desc": "Ashley Park reminisces about a memorable 'Emily in Paris' Season 5 scene where Mindy throws croissants at Emily. Despite initial hesitation, the stars embraced the conflict, finding it strengthened their characters' bond. Adding to the chaos, both actresses' parents were on set for their first Paris visit during the filming.",
+    "img": "https://static.toiimg.com/photo/msid-130527324,imgsize-143186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/emily-in-paris-ashley-park-shares-will-never-forget-croissant-scene-with-lily-collins-in-the-show/articleshow/130527305.cms",
+    "time": "2026-04-26T06:13:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nitya books Asian berth, Bihar girl eyes dream for differently-abled parents",
+    "desc": "Early this week the 13-year-old girl from Pipra, Aurangabad, in Bihar, was selected for the Sub-junior Asian Boxing Championship to be held in Tashkent, Uzbekistan, from May 1-16 after coming out on top during the trials held in Patiala.",
+    "img": "https://static.toiimg.com/photo/msid-130527205,imgsize-50774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/boxing/nitya-pandey-books-asian-boxing-berth-bihar-girl-eyes-dream-for-differently-abled-parents/articleshow/130527053.cms",
+    "time": "2026-04-26T06:02:27.000Z"
+  },
+  {
     "cat": "World",
     "title": "Pakistan PM dials Iranian President, discusses evolving regional situation",
     "desc": "During their warm and cordial conversation that lasted fifty minutes, the two leaders had a detailed exchange of views on the current regional situation and ongoing efforts to promote peace and stability in the region, says the Pakistan Prime Minister's office.",
     "img": "https://th-i.thgim.com/public/incoming/hz418o/article70907839.ece/alternates/LANDSCAPE_1200/2026-03-09T173537Z_1272462960_RC2WEIAEPOLW_RTRMADP_3_IRAN-CRISIS-PAKISTAN-AUSTERITY.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/pakistan-pm-dials-iranian-president-discusses-evolving-regional-situation/article70907837.ece",
-    "time": "2026-04-26T05:29:37.000Z"
+    "time": "2026-04-26T06:00:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Not democracy, but TMC's reign of thuggery': Rahul Gandhi over killing of Congress worker",
+    "desc": "Rahul Gandhi has strongly condemned the murder of Congress worker Debdeep Chatterjee in West Bengal, attributing the killing to \"TMC thugs\" following phase-1 polling. He accused the ruling party of replacing democracy with \"thuggery\" and demanded immediate arrests, harsh punishment, and compensation for the victim's family, vowing to uphold non-violence.",
+    "img": "https://static.toiimg.com/photo/msid-130527052,imgsize-690140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/not-democracy-but-tmcs-reign-of-thuggery-rahul-gandhi-over-killing-of-congress-worker/articleshow/130526666.cms",
+    "time": "2026-04-26T05:48:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Head master death case; one arrested",
+    "desc": "“During the investigation, it was found that Pujari was mentally disturbed for a long time and was afraid of being pressured by some people to do wrong things and getting trapped in the payment for the construction work,” says officer",
+    "img": "https://th-i.thgim.com/public/news/national/uw8ae1/article70907881.ece/alternates/LANDSCAPE_1200/iStock-1447145892%2019.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/head-master-death-case-one-arrested/article70906004.ece",
+    "time": "2026-04-26T05:38:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ameesha says Indira Gandhi was the first person to visit her as a newborn",
+    "desc": "Ameesha Patel revealed her family’s close ties with Indira Gandhi, who first visited her as a newborn and even fixed her parents’ wedding date. She highlighted her grandfather Rajni Patel’s strong political influence, noting his close association with Indira Gandhi and key role within the Congress party.",
+    "img": "https://static.toiimg.com/photo/msid-130526932,imgsize-37326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-reveals-indira-gandhi-fixed-my-parents-wedding-date-and-was-the-first-person-to-visit-her-as-a-newborn-my-grandfather-rajni-patel-was-indira-gandhis-chief-advisor/articleshow/130526932.cms",
+    "time": "2026-04-26T05:33:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Balu Charan steps into lead role with ‘Sugriva’",
+    "desc": "Actor Balu Charan embarks on a new chapter with his lead role in 'Sugriva', a film he describes as a crucial step. Having previously acted in films like 'Mirapakay' and explored business and distribution, Charan emphasizes his enduring passion for acting.",
+    "img": "https://static.toiimg.com/photo/msid-130526881,imgsize-66304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/balu-charan-steps-into-lead-role-with-sugriva-actor-reflects-on-journey-from-supporting-roles-to-lead/articleshow/130526785.cms",
+    "time": "2026-04-26T05:29:02.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Babar Azam in heated exchange with umpire after 2 balls lost in first 3 overs",
+    "title": "Heated! Babar Azam vs umpire steals the show in PSL",
     "desc": "Peshawar Zalmi captain Babar Azam was seen in a heated exchange with the umpire during a PSL match against Lahore Qalandars. Two separate ball changes were necessitated within the first three overs due to boundaries, leading to Azam's visible frustration. This unusual occurrence early in the innings clearly unsettled the skipper.",
     "img": "https://static.toiimg.com/photo/msid-130526797,imgsize-616321.cms",
     "src": "indiatimes.com",
@@ -34,15 +214,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/will-aap-mps-face-disqualification-after-joining-bjp/article70906320.ece",
     "time": "2026-04-26T05:11:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Huge rush in Home Guard recruitment examination signals looming unemployment scenario in U.P., says Opposition",
-    "desc": "“We are seeing visuals through social media of long lines outside examination centres, and bus stations are full with the presence of aspirants who are giving the test,” says Ajay Rai, Uttar Pradesh Congress president",
-    "img": "https://th-i.thgim.com/public/incoming/s9lmtf/article70907785.ece/alternates/LANDSCAPE_1200/20260425049L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/huge-rush-in-home-guard-recruitment-examination-signals-looming-unemployment-scenario-in-up-says-opposition/article70905944.ece",
-    "time": "2026-04-26T05:08:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,6 +250,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/103-then-a-scare-how-serious-is-vaibhav-sooryavanshis-injury-rr-coach-provides-update/articleshow/130526294.cms",
     "time": "2026-04-26T04:28:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Relieved to learn Trump, First Lady safe': PM Modi says violence has no place in democracy",
+    "desc": "Prime Minister Modi expressed relief after a shooting incident at the White House Correspondents' Dinner. President Trump, the First Lady, and Vice President Vance were unharmed. The assailant, armed with a shotgun, was apprehended by the Secret Service after injuring an agent, who was protected by a vest. Panic ensued as guests sought cover.",
+    "img": "https://static.toiimg.com/photo/msid-130526200,imgsize-43774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/relieved-to-learn-that-donald-trump-first-lady-safe-pm-modi-says-violence-has-no-place-in-democracy-white-house-correspondents-dinner-shooting/articleshow/130526166.cms",
+    "time": "2026-04-26T04:12:10.000Z"
   },
   {
     "cat": "Sports",
@@ -198,15 +378,6 @@ const newsData_en = [
     "time": "2026-04-26T02:35:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Bappi Lahiri recalled Michael Jackson’s praise",
-    "desc": "Bappi Lahiri, the maestro behind Indian disco music, shared a memorable encounter with Michael Jackson. Jackson expressed his admiration for Lahiri's hit song 'Jimmi Jimmi,' drawing a parallel between himself and the legendary Kishore Kumar. This anecdote highlights the global reach of Lahiri's music, particularly 'Jimmi Jimmi,' which achieved international fame.",
-    "img": "https://static.toiimg.com/photo/msid-130525454,imgsize-37790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/when-bappi-lahiri-recalled-michael-jacksons-praisemj-said-i-love-your-song-jimmi-jimmi/articleshow/130525461.cms",
-    "time": "2026-04-26T02:24:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Dear cricket, give me one more chance': Karun Nair's old post resurfaces",
     "desc": "Karun Nair endured a tough night as Delhi Capitals lost to Punjab Kings, who chased a record 265. Nair dropped Shreyas Iyer twice, allowing him to score 71 and seal the win. The moment went viral, with fans resurfacing Nair’s old “Dear cricket” post. Visibly shaken, the 34-year-old’s struggles highlighted both the cost of missed chances and his ongoing journey of resilience.",
@@ -214,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-dear-cricket-give-me-one-more-chance-karun-nairs-old-post-resurfaces-after-dc-horror-show/articleshow/130525274.cms",
     "time": "2026-04-26T02:02:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jaaved Jaaferi recalls Michael Jackson’s 1996 India visit; Calls MJ greatest performer",
-    "desc": "As the biopic 'Michael' garners box office success, Jaaved Jaaferi reminisces about Michael Jackson's 1996 India visit, attending the concert while his wife was seven months pregnant. Anupam Kher also shared a touching memory of meeting the legendary performer, describing it as touching 'a piece of magic'.",
-    "img": "https://static.toiimg.com/photo/msid-130525224,imgsize-30412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaaved-jaaferi-recalls-michael-jacksons-1996-india-visit-calls-mj-greatest-performer/articleshow/130525217.cms",
-    "time": "2026-04-26T01:33:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,15 +396,6 @@ const newsData_en = [
     "time": "2026-04-26T01:23:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dacoit' BO day 16: Adivi Sesh film collects Rs 37 lakhs",
-    "desc": "A Love Story' continues its theatrical run, earning Rs 37 lakhs on Day 16, a slight uptick from the previous day. Despite a steady decline in daily collections, the film has amassed a respectable Rs 34.79 crore net in India and Rs 54 crore worldwide gross.",
-    "img": "https://static.toiimg.com/photo/msid-130525160,imgsize-117380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dacoit-a-love-story-box-office-collections-day-16-adivi-sesh-film-shows-slight-jump-collects-rs-37-lakhs/articleshow/130525155.cms",
-    "time": "2026-04-26T01:19:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi now has Aussie fan; Cummins's ‘new favourite player’",
     "desc": "Vaibhav Sooryavanshi dazzled with a 37-ball 103, powering Rajasthan Royals to 228/6, earning praise from Pat Cummins, who called him his “new favourite player.” Supported by Dhruv Jurel’s 51, RR set a strong total. However, Sunrisers Hyderabad chased it down, led by Ishan Kishan’s 74 and Abhishek Sharma’s 57, sealing a thrilling win.",
@@ -252,15 +405,6 @@ const newsData_en = [
     "time": "2026-04-26T01:13:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dhanush opens up on his next directorial",
-    "desc": "Dhanush has revealed his directorial plans will be delayed due to a packed acting schedule, with several films including 'D55', Mari Selvaraj's project, 'Vada Chennai 2', and a film with Pachaimuthu Thamizharasan lined up. He anticipates directing again in a few years. Meanwhile, his upcoming film 'Kara' releases April 30th.",
-    "img": "https://static.toiimg.com/photo/msid-130525086,imgsize-51578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-delays-next-directorial-kara-actor-says-he-needs-a-few-years-to-finish-commitments/articleshow/130525079.cms",
-    "time": "2026-04-26T01:02:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Youngest. Fastest. Unstoppable! Sooryavanshi scripts history yet again",
     "desc": "Fifteen-year-old Vaibhav Sooryavanshi has shattered T20 cricket records, becoming the youngest and fastest to 1,000 runs in just 473 balls. His recent 36-ball century, featuring 12 sixes, marks his second IPL hundred under 40 balls, placing him in an elite group. Sooryavanshi also holds the record for the quickest 50 IPL sixes.",
@@ -268,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-youngest-fastest-unstoppable-vaibhav-sooryavanshi-scripts-t20-history-yet-again/articleshow/130524971.cms",
     "time": "2026-04-26T00:37:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rukmini Vasanth calls Yash's 'Toxic' ‘Unmatched’ in scale",
-    "desc": "A Fairytale for Grown-Ups,' highlighting its unprecedented scale and ambitious vision. Directed by Geetu Mohandas and starring Yash, the movie promises a unique cinematic experience. Hollywood action director J.J. Perry also lauded the team, calling his work on the project memorable.",
-    "img": "https://static.toiimg.com/photo/msid-130525005,imgsize-95630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/toxic-a-fairytale-for-grown-ups-rukmini-vasanth-calls-it-unmatched-in-scale-yash-starrer-builds-new-world/articleshow/130524998.cms",
-    "time": "2026-04-26T00:36:13.000Z"
   },
   {
     "cat": "Sports",
@@ -295,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-9-akshay-kumar-tabu-rajpal-yadavs-film-joins-the-rs-100-crore-club-outshines-dhurandhar-and-michael/articleshow/130524983.cms",
     "time": "2026-04-26T00:28:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Michael’ BO day 2: Jaafar Jackson's film jumps 38.9%",
-    "desc": "Michael Jackson's biopic, 'Michael', is making waves at the Indian box office, showing a significant jump in collections. The film earned Rs 5.00 crore net on its second day, a 38.9% increase from its opening. With cumulative net collections reaching Rs 10.30 crore, 'Michael' is outperforming 'Project Hail Mary' and drawing large crowds.",
-    "img": "https://static.toiimg.com/photo/msid-130524956,imgsize-110524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-box-office-collections-day-2-jaafar-jacksons-film-jumps-38-9-india-net-hits-rs-10-30-cr/articleshow/130524948.cms",
-    "time": "2026-04-26T00:14:13.000Z"
   },
   {
     "cat": "Sports",
@@ -370,15 +496,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Shreya Ghoshal buys property worth Rs 20.88 crore in Santacruz",
-    "desc": "Playback singer Shreya Ghoshal and her family have purchased a premium apartment in Santacruz West, Mumbai, for Rs 20.88 crore. This marks their third significant real estate investment in three months, following two luxury apartments in Worli for nearly ₹60 crore. The latest acquisition is a 2,900 sq ft apartment in the Vaayu building, registered on April 24, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130522781,imgsize-70960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shreya-ghoshal-buys-property-worth-rs-20-88-crore-in-santacruz-report/articleshow/130522775.cms",
-    "time": "2026-04-25T20:17:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Lawrence of Punjab' docu-series: Congress leader Randhawa gets threat message",
     "desc": "In the threat message, the names of other persons including Punjab Congress chief Amrinder Singh Raja Warring, SAD leader Bikram Singh Majithia, DGP Gaurav Yadav, Balkaur Singh, father of slain singer Sidhu Moosewala were also mentioned",
     "img": "https://th-i.thgim.com/public/incoming/cyniki/article70906585.ece/alternates/LANDSCAPE_1200/20260402157L.jpg",
@@ -394,24 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/maharashtra/ashok-kharat-case-oshnology-and-other-deceptions-of-a-godman/article70898935.ece",
     "time": "2026-04-25T19:52:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Archana's son Aayushmaan Sethi loses Rs 87000 in credit card scam",
-    "desc": "Archana Puran Singh and Parmeet Sethi's younger son, Aayushmaan Sethi, lost Rs 87,000 in a credit card scam, a repeat of a previous Rs 80,000 loss. The incident, shared by his brother Aaryamann, led to family banter about Aayushmaan's susceptibility to such scams, despite his initial panic.",
-    "img": "https://static.toiimg.com/photo/msid-130522502,imgsize-34320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singhs-son-aayushmaan-sethi-loses-rs-87000-in-credit-card-scam-aryamann-recalls-losing-rs-80000-earlier/articleshow/130522490.cms",
-    "time": "2026-04-25T19:26:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Assembly elections: Over 50 lakh more voters exercise their franchise this time compared to 2024 Lok Sabha polls",
-    "desc": "In the State, people’s interest in polling process has always been higher for Assembly elections when compared to Lok Sabha polls, show data from elections held over the past 20 years; parties carry out a more intensive mobilisation for State polls",
-    "img": "https://th-i.thgim.com/public/incoming/iau526/article70905741.ece/alternates/LANDSCAPE_1200/DSC_1343.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
-    "time": "2026-04-25T18:53:09.000Z"
   },
   {
     "cat": "Sports",
@@ -432,33 +531,6 @@ const newsData_en = [
     "time": "2026-04-25T18:44:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "The killing factories of Sivakasi",
-    "desc": "Deaths due to firecracker unit blasts in the Sivakasi region have become a periodic occurrence, especially during summer. The recent incident, in which 25 workers died in a series of blasts, again spotlights the gross violations in the operation of firecracker factories and the inadequate monitoring of these units",
-    "img": "https://th-i.thgim.com/public/incoming/q39am3/article70906375.ece/alternates/LANDSCAPE_1200/Vanaja%20fireworks%20unit%20%20Fire%209.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-killing-factories-ofsivakasi/article70906379.ece",
-    "time": "2026-04-25T18:42:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Annu on past comments about Priyanka refusing to kiss him",
-    "desc": "Actor Annu Kapoor clarified his past controversial remarks about Priyanka Chopra and an intimate scene in '7 Khoon Maaf'. He explained his frustration stemmed from persistent media questions about Chopra's comfort, leading him to comment on his perceived lack of 'hero' status. Kapoor also revealed he respected Chopra's hesitation and suggested removing the scene, which director Vishal Bhardwaj refused.",
-    "img": "https://static.toiimg.com/photo/msid-130521509,imgsize-57578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/annu-kapoor-reflects-on-his-past-comments-about-priyanka-chopra-refusing-to-kiss-him-i-am-not-a-hero/articleshow/130521479.cms",
-    "time": "2026-04-25T18:28:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Calls to do away with elephants, fireworks in temple festivals get louder in Kerala",
-    "desc": "In the aftermath of the recent fireworks tragedy at Mundathikode in Thrissur, social media campaigns are gathering strength seeking to move away from the use of high-intensity gunpowder displays as well as elephants during festivities",
-    "img": "https://th-i.thgim.com/public/incoming/wu1927/article70906181.ece/alternates/LANDSCAPE_1200/80688_24_4_2026_19_6_56_2_TWO_WHEELERS_KKN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/calls-to-do-away-with-elephants-fireworks-in-temple-festivals-get-louder-in-kerala/article70902342.ece",
-    "time": "2026-04-25T17:48:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "Mohammad-Bagher Ghalibaf",
     "desc": "In a country caught between external attacks and internal pressure, with much of its top leadership killed by its enemies, the Parliament Speaker, who cut his teeth in the 1980-88 Iran-Iraq war and served the IRGC as a commander, emerged as the new face of the revolutionary system",
@@ -468,15 +540,6 @@ const newsData_en = [
     "time": "2026-04-25T17:43:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Fan tried to hug pregnant Kiara Advani, Sidharth was afraid to send her for shoot",
-    "desc": "Sidharth Malhotra's bodyguard, Zeeshan Qureshi, recounted a tense moment during Kiara Advani's pregnancy when a corporate associate attempted to approach her inappropriately on set. He also detailed the extensive, months-long planning and security measures, including drone surveillance, that ensured the privacy of their Jaisalmer wedding.",
-    "img": "https://static.toiimg.com/photo/msid-130518756,imgsize-78980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fan-tried-to-hug-pregnant-kiara-advani-siddharth-malhotra-was-afraid-to-send-her-for-shoot-recalls-bodyguard/articleshow/130518381.cms",
-    "time": "2026-04-25T16:23:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vaibhav Sooryavanshi overtakes Kohli, Rahul in Orange Cap race after sensational ton",
     "desc": "Teenage sensation Vaibhav Sooryavanshi has claimed the IPL 2026 Orange Cap, surpassing Virat Kohli with a blistering 103 off 37 balls. His explosive innings, featuring a 15-ball fifty and a 36-ball century, propelled Rajasthan Royals to a massive total. Sooryavanshi now leads the charts with 357 runs at an exceptional strike rate.",
@@ -484,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-vaibhav-sooryavanshi-overtakes-virat-kohli-kl-rahul-in-orange-cap-race-after-sensational-ton/articleshow/130518557.cms",
     "time": "2026-04-25T16:13:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why DC picked Vipraj over Chameera as concussion substitute",
-    "desc": "Ngidi suffered a head injury while trying to take a catch of Punjab Kings opener Priyansh Arya at the Arun Jaitley Stadium on Saturday and had to be taken off the field in an ambulance before being shifted to hospital.",
-    "img": "https://static.toiimg.com/photo/msid-130518493,imgsize-56458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/lungi-ngidi-injury-why-delhi-capitals-picked-vipraj-nigam-over-dushmantha-chameera-as-concussion-substitute/articleshow/130518245.cms",
-    "time": "2026-04-25T16:12:33.000Z"
   },
   {
     "cat": "World",
@@ -511,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-runs-rack-up-catches-go-down-records-tumble-and-shreyas-iyer-led-pbks-remain-unbeaten/articleshow/130517943.cms",
     "time": "2026-04-25T15:29:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Record shattered! Punjab Kings chase 264 vs Delhi Capitals",
-    "desc": "Punjab Kings achieved the highest successful run chase in IPL history, chasing down a colossal 264 against Delhi Capitals. Priyansh Arya and Prabhsimran Singh provided a blistering start, followed by a match-winning unbeaten 71 from captain Shreyas Iyer, securing a six-wicket victory with seven balls to spare.",
-    "img": "https://static.toiimg.com/photo/msid-130517280,imgsize-98342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/record-shattered-punjab-kings-chase-264-vs-delhi-capitals-here-are-ipls-highest-successful-run-chases/articleshow/130517115.cms",
-    "time": "2026-04-25T14:45:07.000Z"
   },
   {
     "cat": "Business",
@@ -655,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/owen-coyle-interview-isl-indian-football-premier-league-burnley-slex-ferguson-bolton/article70903261.ece",
     "time": "2026-04-24T18:14:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. soldier charged with using classified intel to win $400K Polymarket bet on Maduro raid",
-    "desc": "Gannon Ken Van Dyke allegedly placed those bets between December 30 and January 2, with the vast majority occurring the night of January 2 — just hours before the first missiles would fall on Caracas",
-    "img": "https://th-i.thgim.com/public/incoming/2o9h7a/article70903096.ece/alternates/LANDSCAPE_1200/2026-04-23T230523Z_875334285_RC20VIAX91LF_RTRMADP_3_USA-VENEZUELA-GAMBLING.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-soldier-charged-with-using-classified-intel-to-win-400k-polymarket-bet-on-maduro-raid/article70901911.ece",
-    "time": "2026-04-24T16:49:11.000Z"
   },
   {
     "cat": "Business",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
