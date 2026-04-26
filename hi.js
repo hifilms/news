@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rare moment in IPL! Angrish Raghuvanshi given out for obstructing the field in LSG clash, KKR star blasts off",
+    "desc": "In a rare moment in the Indian Premier League 2026, Kolkata Knight Riders batter Angrish Raghuvanshi was given out obstructing the field during his team's clash against the Lucknow Super Giants at the Ekana Cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rare-moment-in-ipl-angrish-raghuvanshi-given-out-for-obstructing-the-field-in-lsg-clash-kkr-batter-blasts-off-2026-04-26-1038995",
+    "time": "2026-04-26T14:52:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans mow down CSK to register first-ever win at Chepauk, back among winning ways",
+    "desc": "Led by a wonderful bowling effort and a measured outing with the bat, the Gujarat Titans handed the Chennai Super Kings a drubbing in the 37th match of the Indian Premier League 2026 on Sunday,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-mow-down-csk-to-register-first-ever-win-at-chepauk-back-among-winning-ways-2026-04-26-1038990",
+    "time": "2026-04-26T13:46:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ex-chief coach Vimal Kumar 'extremely disappointed' with BWF's new 3x15 point system for badminton",
+    "desc": "Former national chief coach of the Indian badminton squad, Vimal Kumar, has hit out at the Badminton World Federation's decision to change the sport's point system. The BWF on Saturday approved the from 3x15 point...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/vimal-kumar-extremely-disappointed-with-bwfs-new-3-15-point-system-for-badminton-2026-04-26-1038989",
+    "time": "2026-04-26T13:13:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanju Samson surpasses MS Dhoni, Suresh Raina in elite list, achieves major IPL milestone",
     "desc": "Chennai Super Kings’ Sanju Samson has been one of the best batters in the ongoing edition of the IPL (Indian Premier League) 2026. With two centuries to his name already in the ongoing campaign, Samson...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/my-new-favourite-pat-cummins-lauds-vaibhav-sooryavanshi-after-youngster-s-stellar-ton-in-jaipur-2026-04-26-1038949",
     "time": "2026-04-26T06:46:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MA Chidamabaram Stadium in Chennai play?",
-    "desc": "The stage is set for game 37 of the ongoing IPL (Indian Premier League) 2026. Five-time champions Chennai Super Kings will take on Gujarat Titans. The two sides will lock horns at the MA Chidambaram...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-gt-pitch-report-how-will-surface-at-ma-chidamabaram-stadium-in-chennai-play-2026-04-26-1038945",
-    "time": "2026-04-26T06:07:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Updated points table after RR vs SRH match; Check standings",
-    "desc": "The IPL (Indian Premier League) 2026 has seen some brilliant performances from the players so far. From the heroics of 15-year-old Vaibhav Sooryavanshi to Virat Kohli’s masterful innings, the fans have been treated to some...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-rr-vs-srh-match-check-standings-2026-04-26-1038940",
-    "time": "2026-04-26T05:16:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals skipper Riyan Parag opens up after drubbing against Sunrisers Hyderabad in Jaipur",
-    "desc": "The 36th game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Sunrisers Hyderabad. The two sides took on each other at the Sawai Mansingh Stadium in Jaipur on April 25,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-skipper-riyan-parag-opens-up-after-drubbing-against-sunrisers-hyderabad-in-jaipur-2026-04-26-1038932",
-    "time": "2026-04-26T03:33:46.000Z"
   }
 ];
