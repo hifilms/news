@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Advertorial tracing Ramesh Chennithala’s political odyssey raises eyebrows in UDF circles",
+    "desc": "Advertorial, which risked being perceived as a political hagiography, appeared close on the heels of the Kerala Pradesh Congress Committee president warning the party’s rank and file against jumping the gun and promoting their choices for Congress Legislative Party leadership post on television, social and print media",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/advertorial-tracing-ramesh-chennithalas-political-odyssey-raises-eyebrows-in-udf-circles/article70908433.ece",
+    "time": "2026-04-26T18:21:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "66% turnout for civic polls as people brave heat to vote in Gujarat",
+    "desc": "The elections are being held for 15 municipal corporations, including Ahmedabad, Surat, Vadodara and Rajkot, 84 municipalities, 34 district panchayats and 260 taluka panchayats, making it one of the largest electoral exercises in the State.",
+    "img": "https://th-i.thgim.com/public/news/national/za0nfk/article70908090.ece/alternates/LANDSCAPE_1200/Amit%20Shah.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/gujarat/gujarat-local-body-elections-voting-bjp-congress-aap-updates-latest/article70907788.ece",
+    "time": "2026-04-26T17:57:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "White House correspondents' dinner shooting LIVE: Shooting suspect wrote anti-Christian manifesto, says Trump",
+    "desc": "The accused gunman who tried to storm the ballroom at the White House Correspondents' Association dinner with guns and knives left writings that called for the targeting of Trump administration officials, U.S. President Donald Trump said.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
+    "time": "2026-04-26T17:55:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
+    "desc": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign ​Minister Abbas Araghchi ‌held talks in ​Oman, discussed security ‌in the Strait of Hormuz, ‌broader ⁠Gulf waters, ⁠and diplomatic efforts to end the ​Iran-U.S. conflict, ‌according to Iran Foreign Ministry",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+    "time": "2026-04-26T17:45:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What court said on unfreezing bank accounts",
+    "desc": "In a major relief for Rhea Chakraborty, a special NDPS court in Mumbai has ordered the unfreezing of bank accounts linked to her, her brother Showik Chakraborty and their mother Sandhya. The accounts had been frozen by the Narcotics Control Bureau in 2020 during its probe into the death of Sushant Singh Rajput. Here’s a breakdown of what happened, why the court intervened, and what lies ahead for the actress.",
+    "img": "https://static.toiimg.com/photo/msid-130536821,imgsize-41114.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-chakraborty-gets-relief-in-sushant-singh-rajput-case-what-court-said-on-unfreezing-bank-accounts-and-what-it-means/photostory/130536821.cms",
+    "time": "2026-04-26T17:43:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trinamool running a reign of terror in West Bengal, says  Rahul Gandhi",
+    "desc": "Condoling the death of a Congress worker in Asansol who the party has claimed was beaten up by ‘miscreants’ linked to the ruling Trinamool, the Leader of the Opposition in Lok Sabha said his party will not bow before ‘this politics that stains India’s non-violent tradition’",
+    "img": "https://th-i.thgim.com/public/incoming/larv35/article70908232.ece/alternates/LANDSCAPE_1200/42de840e-efad-4db5-8f10-519d6cecd198.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/tmcs-reign-of-terror-prevails-in-west-bengal-rahul-gandhi/article70908217.ece",
+    "time": "2026-04-26T17:32:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by pop icon Michael Jackson",
+    "desc": "Pop icon Michael Jackson championed the beauty of childlike wonder and imagination. He believed that maintaining an open mind, free from harsh judgments and conventions, is the key to unleashing creativity and celebrating life's enchantment. By adopting this playful perspective, Jackson inspired us to rediscover the world with fresh eyes, ensuring that its brilliance remains ever-vibrant, a lesson to cherish.",
+    "img": "https://static.toiimg.com/photo/msid-130532365,imgsize-76662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-by-michael-jackson-and-thats-what-innocence-is-its-simple-and-trusting-like-a-child-learn-to-be-innocent-again/articleshow/130532325.cms",
+    "time": "2026-04-26T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohsin's fifer helps LSG restrict KKR to 155/7 despite Rinku's 83",
+    "desc": "Mohsin’s 5 for 23, a personal best for the left-arm pacer in this format, tore apart an already struggling KKR batting unit, as he snaffled the cream wickets of Ajinkya Rahane, Tim Seifert, Cameron Green, Rovman Powell and Anukul Roy",
+    "img": "https://th-i.thgim.com/public/incoming/ybhqrq/article70909630.ece/alternates/LANDSCAPE_1200/PTI04_26_2026_000667A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-lucknow-super-giants-vs-kolkat-knight-riders-match-updates/article70909613.ece",
+    "time": "2026-04-26T17:16:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As campaign reaches a crescendo, Modi reaches out to Matuas, Mamata camps at Bhabanipur",
+    "desc": "PM Modi tells Matua community not to fall for the ‘Trinamool’s lies on CAA’ and promises that ‘all refugees will receive permanent address in this country’; CM Mamata says her party has ‘scored a century in the first round’ of polls and that the ‘BJP is scared’",
+    "img": "https://th-i.thgim.com/public/incoming/hxkmuc/article70909607.ece/alternates/LANDSCAPE_1200/20260426141L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-narendra-modi-rally-matua-bangaon-april-26-2026/article70908340.ece",
+    "time": "2026-04-26T16:52:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK vs GT",
+    "desc": "The pacer, along with his new-ball partner Siraj, restricts the home team to 158 for seven; the left-handed opener makes it a cakewalk for the visitor with a 46-ball 87; skipper Ruturaj wages a lone battle for the Chennai outfit on an uneven wicket",
+    "img": "https://th-i.thgim.com/public/incoming/su034m/article70909480.ece/alternates/LANDSCAPE_1200/20260426375L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-chennai-super-kings-vs-gujarat-titans-in-chennai/article70908258.ece",
+    "time": "2026-04-26T16:41:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince Jackson talks about Michael Jackson’s biopic",
+    "desc": "In a heartfelt moment, Prince Jackson, son of the legendary Michael Jackson, opened up about his poignant experience watching the new biopic 'Michael,' featuring his talented cousin Jaafar Jackson in the lead role. He expressed hopes that the film sparks memories of his father's unwavering commitment and spectacular rise to superstardom.",
+    "img": "https://static.toiimg.com/photo/msid-130535509,imgsize-78786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-jackson-on-watching-michael-jacksons-biopic-hopes-it-captures-the-hard-work-and-effort-his-father-put-in/articleshow/130535179.cms",
+    "time": "2026-04-26T16:30:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Hugh Jackman’s net worth",
+    "desc": "Hugh Jackman, the renowned actor behind the legendary 'Wolverine', has amassed a remarkable net worth of USD 120 million. This figure reflects not only his extensive acting resume but also his lucrative endorsements. Known for his role in the 'X-Men' series, Jackman reportedly earned around USD 20 million for each film in the franchise.",
+    "img": "https://static.toiimg.com/photo/msid-130531618,imgsize-84180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hugh-jackman-net-worth-2026-how-the-marvel-star-built-a-usd-120-million-empire-through-real-estate-movie-salaries-and-other-assets/articleshow/130531512.cms",
+    "time": "2026-04-26T16:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Raghuvanshi dismissal sparks outrage, fans question umpire’s call",
+    "desc": "Angkrish Raghuvanshi's rare obstructing the field dismissal in the IPL sparked intense social media debate. The 21-year-old was out after the ball hit him while returning to his crease, with the third umpire ruling a change in running line. Fans were divided, with some deeming the decision harsh and others supporting the umpire's call based on the rules.",
+    "img": "https://static.toiimg.com/photo/msid-130535332,imgsize-284304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-angkrish-raghuvanshi-dismissal-sparks-outrage-fans-question-umpires-call/articleshow/130535146.cms",
+    "time": "2026-04-26T16:24:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Riteish slams ‘distorted nonsense’ on Shivaji Maharaj",
+    "desc": "Riteish Deshmukh has reacted strongly to recent remarks made about Chhatrapati Shivaji Maharaj, calling them “distorted nonsense” and “unacceptable.” The actor, who is gearing up for the release of his historical drama Raja Shivaji—where he essays the role of the legendary warrior king—shared a strongly worded note on social media.",
+    "img": "https://static.toiimg.com/photo/msid-130535271,imgsize-36620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riteish-deshmukh-slams-distorted-nonsense-on-chhatrapati-shivaji-maharaj-amid-dhirendra-krishna-shastris-remarks-this-is-unacceptable-and-infuriating/articleshow/130535166.cms",
+    "time": "2026-04-26T16:16:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Where are precious metals headed this week? Analysts answer",
+    "desc": "Precious metals gold and silver are poised for continued pressure this week, influenced by US-Iran peace talks, central bank decisions, and key economic data. Analysts anticipate volatility as investors weigh geopolitical shifts, inflation concerns, and a strong US dollar. Domestic gold and silver futures saw significant drops, reflecting global market trends.",
+    "img": "https://static.toiimg.com/photo/msid-130535010,imgsize-66322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-and-silver-outlook-where-are-precious-metals-headed-this-week-analysts-answer/articleshow/130534926.cms",
+    "time": "2026-04-26T15:55:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lakhs of people expected for BSY Abhimanotsava in Chitradurga on May 9",
+    "desc": "BJP State president B.Y. Vijayendra has said that lakhs of people from different parts of the State will take part in the BSY Abhimanotsava, a mega convention to celebrate 50 years of former Chief Minister B.S. Yediyurappa in public life, to be held in Chitradurga on May 9",
+    "img": "https://th-i.thgim.com/public/incoming/2deq1e/article70909437.ece/alternates/LANDSCAPE_1200/BJP2.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bhoomi-pooja-for-bsy-abhimanotsava-held-in-chitradurga/article70908461.ece",
+    "time": "2026-04-26T15:44:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi government tightens heat wave action plan amid rising temperatures",
+    "desc": "According to the Chief Minister's Office (CMO), to protect school children, the government may administer an ORS solution before they leave school, if required, to reduce the risk of dehydration during their commute. For construction workers, strict measures will be enforced during peak heat hours.",
+    "img": "https://static.toiimg.com/photo/msid-130534861,imgsize-542458.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-government-tightens-heat-wave-action-plan-amid-rising-temperatures/articleshow/130534845.cms",
+    "time": "2026-04-26T15:42:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rahane-Seifert fail again as KKR's opening woes continue",
+    "desc": "Tim Seifert was the first to go in the final ball of the second over. Mohsin Khan bowled a full delivery around off stump, and Seifert chipped it straight to Mukul Choudhary at covers. He was dismissed for 0 off 3 balls, giving Mohsin a wicket-maiden over.",
+    "img": "https://static.toiimg.com/photo/msid-130534694,imgsize-66728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/from-bad-to-worse-ajinkya-rahane-seifert-fail-again-as-kkr-top-order-collapses-vs-lsg/articleshow/130534511.cms",
+    "time": "2026-04-26T15:39:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Catching, bowling in PowerPlay need improvement: Venugopala Rao",
+    "desc": "“Fielding let us down. We dropped almost six catches today. When you are dropping catches at a crucial time, especially of players like Prabhsimran, Priyansh, and Shreyas, we won’t win these kinds of matches,” said the DC director of cricket",
+    "img": "https://th-i.thgim.com/public/incoming/gkp8d/article70909366.ece/alternates/LANDSCAPE_1200/47_RVM_6620.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/catching-bowling-in-powerplay-need-improvement-venugopal-rao/article70907962.ece",
+    "time": "2026-04-26T15:23:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'Gaddar Raghav Chadha': AAP workers detained by Mumbai police during protest outside MP's house",
     "desc": "Mumbai Police detained several Aam Aadmi Party activists protesting outside Rajya Sabha MP Raghav Chadha's residence after he joined the BJP. Party workers raised slogans, burned his effigy, and held placards expressing anger over his switch. This follows similar demonstrations in Ludhiana against MP Rajinder Gupta.",
     "img": "https://static.toiimg.com/photo/msid-130534605,imgsize-2564797.cms",
@@ -63,24 +234,6 @@ const newsData_en = [
     "time": "2026-04-26T14:30:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Polling ends for Gujarat local body elections; turnout under 50% in cities",
-    "desc": "The elections are being held for 15 municipal corporations, including Ahmedabad, Surat, Vadodara and Rajkot, 84 municipalities, 34 district panchayats and 260 taluka panchayats, making it one of the largest electoral exercises in the State.",
-    "img": "https://th-i.thgim.com/public/news/national/za0nfk/article70908090.ece/alternates/LANDSCAPE_1200/Amit%20Shah.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gujarat/gujarat-local-body-elections-voting-bjp-congress-aap-updates-latest/article70907788.ece",
-    "time": "2026-04-26T14:27:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AAP seeks disqualification of Raghav Chadha, other defecting MPs; submits plea",
-    "desc": "Group led by Raghav Chadha claims that it fulfills required two-third strength making the merger with the BJP legal; however, the AAP has said that such a decision has to be taken by the party",
-    "img": "https://th-i.thgim.com/public/incoming/j5mvms/article70908176.ece/alternates/LANDSCAPE_1200/SanjaySingh.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/aap-submits-petition-to-rajya-sabha-chairman-seeking-termination-of-seven-mps-who-quit-party/article70908172.ece",
-    "time": "2026-04-26T14:26:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Mohammad-Bagher Ghalibaf",
     "desc": "In a country caught between external attacks and internal pressure, with much of its top leadership killed by its enemies, the Parliament Speaker, who cut his teeth in the 1980-88 Iran-Iraq war and served the IRGC as a commander, emerged as the new face of the revolutionary system",
@@ -108,15 +261,6 @@ const newsData_en = [
     "time": "2026-04-26T14:21:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Unite and resist ring road project in Amaravati, AIKS leader Ashok  Dhawale exhorts farmers",
-    "desc": "Questioning why provisions of the Right to Fair Compensation and Transparency in Land Acquisition Act-2013 are not being followed, particularly the requirement of Gram Sabha consultations and prior consent of landowners, he demands that farmers be given compensation at four times the market rate",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/unite-and-resist-ring-road-project-in-amaravati-aiks-leader-ashok-dhawale-exhorts-farmers/article70908851.ece",
-    "time": "2026-04-26T14:16:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shubman Gill–Sai Sudharsan script history, rewrite record books vs CSK",
     "desc": "Shubman Gill and Sai Sudharsan achieved a historic 50-plus partnership, the most by an Indian pair in IPL history. Gujarat Titans secured a comfortable win against Chennai Super Kings at Chepauk. Titans bowlers performed well, restricting CSK to 158. Gill and Sudharsan's strong opening stand set up the chase. Sudharsan scored a commanding 87, guiding Titans to victory with ease.",
@@ -124,33 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-shubman-gillsai-sudharsan-script-history-rewrite-record-books-vs-csk/articleshow/130533422.cms",
     "time": "2026-04-26T14:10:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government prioritising quality power supply, says Minister",
-    "desc": "Laying the foundation for a 33/11 kV semi-indoor substation of CPDCL at Bachupet, Kollu Ravindr says the new facility will have underground cables and significantly reduce the load on existing substations, thereby eliminating low-voltage problems and technical failures",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-prioritising-quality-power-supply-says-minister/article70908481.ece",
-    "time": "2026-04-26T14:10:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Arvind Kejriwal, Tejaswi Yadav join Trinamool Congress in last leg of Bengal campaign",
-    "desc": "AAP convenor Arvind Kejriwal and RJD leader Tejaswi Yadav are campaigning in the State in support of Trinamool Congress even as Congress leader Rahul Gandhi has launched scathing attacks on Trinamool Congress government and Chief Minister Mamata Banerjee",
-    "img": "https://th-i.thgim.com/public/incoming/t9w5wn/article70909012.ece/alternates/LANDSCAPE_1200/20260426235L_oJdQNYw.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/arvind-kejriwal-tejaswi-yadav-join-trinamool-congress-in-last-leg-of-bengal-campaign/article70908621.ece",
-    "time": "2026-04-26T14:06:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lakhs of people expected for BSY Abhimanotsava in Chitradurga on May 9",
-    "desc": "BJP State president B.Y. Vijayendra has said that lakhs of people from different parts of the State will take part in the BSY Abhimanotsava, a mega convention to celebrate 50 years of former Chief Minister B.S. Yediyurappa in public life, to be held in Chitradurga on May 9",
-    "img": "https://th-i.thgim.com/public/incoming/wlopsi/article70909031.ece/alternates/LANDSCAPE_1200/Congress-has-beG67FPGDAN.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/bhoomi-pooja-for-bsy-abhimanotsava-held-in-chitradurga/article70908461.ece",
-    "time": "2026-04-26T14:06:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -196,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ucc-rollout-triple-talaq-ban-end-to-polygamy-amit-shah-rolls-out-bjps-key-promises-at-bengal-rally/articleshow/130532772.cms",
     "time": "2026-04-26T13:31:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Greenland 2: Migration' OTT release: Gerard Butler to Morena Baccarin, know all about the cast and characters",
-    "desc": "Migration' is now available on OTT for streaming. It is the follow-up to the 2020 survival hit that had audiences on the edge of their seats. Directed by Ric Roman Waugh, the film picks up five years after the Clarke comet devastated the Earth, following the Garrity family as they leave the safety of their bunker and embark on a dangerous journey across the ruins of Europe in search of a new home. If you haven't yet seen the movie, here is a look at the cast and characters bringing this post-apocalyptic story to life.",
-    "img": "https://static.toiimg.com/photo/msid-130529337,imgsize-56342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/greenland-2-migration-ott-release-gerard-butler-to-morena-baccarin-know-all-about-the-cast-and-characters/photostory/130529337.cms",
-    "time": "2026-04-26T13:30:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump WH correspondents' dinner shooting LIVE: Suspect believed to have been targeting administration officials, Blanche says",
-    "desc": "Acting U.S. Attorney General Todd Blanche said officials believe that the suspect traveled by train to Chicago and then on to Washington, where he checked in as a guest to the hotel where one of Washington's glitziest events was being held Saturday night",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
-    "time": "2026-04-26T13:25:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,24 +522,6 @@ const newsData_en = [
     "time": "2026-04-26T10:48:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Suriya meets Dhee in Sri Lanka; praises ‘Vari Vari’",
-    "desc": "Singer Dhee's latest independent track 'Vari Vari' is gaining popularity. Actor Suriya met Dhee in Colombo and praised her new song. He expressed his admiration for her work and unique voice. Suriya even inquired about using 'Vari Vari' in his films. Music composer Santhosh Narayanan also acknowledged Suriya's support for the song.",
-    "img": "https://static.toiimg.com/photo/msid-130530178,imgsize-82588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-meets-dhee-in-sri-lanka-calls-vari-vari-a-special-masterpiece-everybody-will-love-it/articleshow/130530143.cms",
-    "time": "2026-04-26T10:45:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Michael Jackson forgave his father before his demise",
-    "desc": "Pop icon Michael Jackson reportedly forgave his father, Joe Jackson, for past alleged abuse shortly before his 2009 death. A close friend revealed Jackson understood his father's actions better after becoming a parent himself. This reconciliation offers a new perspective on their complex relationship, detailed in a recent biography and highlighted by the release of the biopic 'Michael'.",
-    "img": "https://static.toiimg.com/photo/msid-130530168,imgsize-84252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-jackson-forgave-his-father-joe-jackson-hours-before-passing-reveals-biographer-michael-told-me-i-totally-totally-forgive-him/articleshow/130530065.cms",
-    "time": "2026-04-26T10:43:03.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "PM Modi pledges citizenship for Matua Namasudras under CAA",
     "desc": "PM Modi also offered prayers at Thakurbari, the main temple of the Matua Mahasangha at Thakurnagar in West Bengal's North 24 Parganas district before his poll rally in the area. His visit to the headquarters of the community, housing the shrines of the sect's founders Hari Chand and Guru Chand Thakur, is seen as an outreach to Matua voters who influence at least 34 assembly seats directly and another two dozen along the Bangladesh border.",
@@ -457,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ms-dhonis-record-broken-sanju-samson-goes-past-csk-legend/articleshow/130529864.cms",
     "time": "2026-04-26T10:34:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'People said Salman Khan...': Chitrangada Singh unprofessional tag",
-    "desc": "Chitrangada Singh praises Salman Khan's professionalism on set, dismissing rumours of delays and unprofessionalism. She lauds his crew care and punctuality. The Galwan-inspired war drama stars Salman as Colonel, her as wife. Plus, Salman's SVC63 with Nayanthara eyes Eid 2027.",
-    "img": "https://static.toiimg.com/photo/msid-130530035,imgsize-26602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maatrubhumi-actress-chitrangada-singh-unprofessional-tag-people-said-salman-khan-wouldnt-come-early-but-he-came-early/articleshow/130530035.cms",
-    "time": "2026-04-26T10:32:04.000Z"
   },
   {
     "cat": "Politics",
@@ -502,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/no-hard-decoupling-india-balances-china-trade-with-export-push/articleshow/130528716.cms",
     "time": "2026-04-26T09:06:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Catching, bowling in PowerPlay need improvement: Venugopal Rao",
-    "desc": "“Fielding let us down. We dropped almost six catches today. When you are dropping catches at a crucial time, especially of players like Prabhsimran, Priyansh, and Shreyas, we won’t win these kinds of matches,” Venugopal told the media New Delhi",
-    "img": "https://th-i.thgim.com/public/incoming/hk070u/article70908073.ece/alternates/LANDSCAPE_1200/20260425346L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/catching-bowling-in-powerplay-need-improvement-venugopal-rao/article70907962.ece",
-    "time": "2026-04-26T08:58:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -556,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-rs-2-lakh-crore-wiped-out-from-7-of-top-10-firms-tcs-biggest-laggard/articleshow/130528552.cms",
     "time": "2026-04-26T08:17:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'This is not evolution': Coach Vimal blasts BWF over 3x15 scoring change",
-    "desc": "Former India coach Vimal Kumar criticised the BWF’s decision to introduce the 3x15 scoring system from 2027, calling it a “dilution” of the sport. He said the current 21-point format ensures fairness and intensity, rejecting claims of added excitement. Vimal suggested limiting changes to doubles and raised concerns over player welfare, lack of prize money, and absence of a review system, adding that players’ voices are often ignored.",
-    "img": "https://static.toiimg.com/photo/msid-130528449,imgsize-42700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/this-is-not-evolution-badminton-coach-vimal-kumar-blasts-bwf-over-3x15-scoring-change/articleshow/130528332.cms",
-    "time": "2026-04-26T07:58:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Plays like gully cricket': Kaif in awe of Vaibhav Sooryavanshi's century",
-    "desc": "Teenage sensation Vaibhav Sooryavanshi, aged 15, has earned high praise from Mohammad Kaif for his explosive 103 off 37 balls in IPL 2026. Kaif lauded the youngster's fearless, aggressive approach against top bowlers, calling him a rare, once-in-a-generation talent. His consistent high strike-rate and mature batting suggest a bright future for Indian cricket.",
-    "img": "https://static.toiimg.com/photo/msid-130528419,imgsize-115744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/plays-like-gully-cricket-mohammed-kaif-in-awe-of-vaibhav-sooryavanshis-blazing-century/articleshow/130528428.cms",
-    "time": "2026-04-26T07:55:47.000Z"
   },
   {
     "cat": "World",
@@ -622,33 +667,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Nitya books Asian berth, Bihar girl eyes dream for differently-abled parents",
-    "desc": "Early this week the 13-year-old girl from Pipra, Aurangabad, in Bihar, was selected for the Sub-junior Asian Boxing Championship to be held in Tashkent, Uzbekistan, from May 1-16 after coming out on top during the trials held in Patiala.",
-    "img": "https://static.toiimg.com/photo/msid-130527205,imgsize-50774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/boxing/nitya-pandey-books-asian-boxing-berth-bihar-girl-eyes-dream-for-differently-abled-parents/articleshow/130527053.cms",
-    "time": "2026-04-26T06:02:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Not democracy, but TMC's reign of thuggery': Rahul Gandhi over killing of Congress worker",
-    "desc": "Rahul Gandhi has strongly condemned the murder of Congress worker Debdeep Chatterjee in West Bengal, attributing the killing to \"TMC thugs\" following phase-1 polling. He accused the ruling party of replacing democracy with \"thuggery\" and demanded immediate arrests, harsh punishment, and compensation for the victim's family, vowing to uphold non-violence.",
-    "img": "https://static.toiimg.com/photo/msid-130527052,imgsize-690140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-democracy-but-tmcs-reign-of-thuggery-rahul-gandhi-over-killing-of-congress-worker/articleshow/130526666.cms",
-    "time": "2026-04-26T05:48:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Relieved to learn Trump, First Lady safe': PM Modi says violence has no place in democracy",
-    "desc": "Prime Minister Modi expressed relief after a shooting incident at the White House Correspondents' Dinner. President Trump, the First Lady, and Vice President Vance were unharmed. The assailant, armed with a shotgun, was apprehended by the Secret Service after injuring an agent, who was protected by a vest. Panic ensued as guests sought cover.",
-    "img": "https://static.toiimg.com/photo/msid-130526200,imgsize-43774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/relieved-to-learn-that-donald-trump-first-lady-safe-pm-modi-says-violence-has-no-place-in-democracy-white-house-correspondents-dinner-shooting/articleshow/130526166.cms",
-    "time": "2026-04-26T04:12:10.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Devdutt Padikkal attributes steady growth to state captaincy",
     "desc": "Devdutt Padikkal’s rise in the ongoing IPL season has been marked not just by runs, but by a growing sense of awareness — of situations, of bowlers, and of his game. After his defining 27-ball 55 in Royal Challengers Bengaluru’s five-wicket win over Gujarat Titans on Friday at the M Chinnaswamy Stadium here, the southpaw pointed to a significant factor behind his growth— captaining Karnataka.",
     "img": "https://static.toiimg.com/photo/msid-130526023,imgsize-80426.cms",
@@ -664,24 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/what-rules-govern-international-waters/article70906325.ece",
     "time": "2026-04-26T03:46:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Engine fire on SWISS Delhi-Zurich flight during take off roll; aircraft evacuated on runway",
-    "desc": "Six passengers were hospitalized after a SWISS flight from Delhi to Zurich was evacuated on the runway due to an engine fire during takeoff. The Airbus A330's engine number one failed at 104 knots, prompting the crew to abort the takeoff and evacuate all 232 passengers and crew using emergency slides.",
-    "img": "https://static.toiimg.com/photo/msid-130525747,imgsize-766852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/engine-fire-on-swiss-delhi-zurich-flight-during-take-off-roll-aircraft-evacuated-on-runway/articleshow/130525692.cms",
-    "time": "2026-04-26T03:06:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will MS Dhoni play today against Gujarat Titans in Chepauk?",
-    "desc": "Chennai Super Kings, buoyed by a massive win, face Gujarat Titans with MS Dhoni's return still a mystery. Despite being match-fit, Dhoni is reportedly delaying his comeback to maintain CSK's winning combination. Head coach Stephen Fleming confirmed his progress, while the team looks to leverage home advantage at Chepauk.",
-    "img": "https://static.toiimg.com/photo/msid-130525690,imgsize-734527.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-ms-dhoni-play-today-against-gujarat-titans-in-chepauk/articleshow/130525688.cms",
-    "time": "2026-04-26T02:59:16.000Z"
   },
   {
     "cat": "World",
@@ -801,15 +801,6 @@ const newsData_en = [
     "time": "2026-04-25T07:43:35.000Z"
   },
   {
-    "cat": "World",
-    "title": "Palestinian local elections give some Gazans a chance to vote for the first time in years",
-    "desc": "The West Bank-based Palestinian Authority hopes the symbolic inclusion of the Gazan city ⁠of Deir al-Balah will help reinforce its claim to authority over the war-torn territory, from where it was ousted by Hamas in 2007",
-    "img": "https://th-i.thgim.com/public/news/national/ulwvb9/article70904495.ece/alternates/LANDSCAPE_1200/AFP__20260421__A8K483Y__v1__HighRes__PalestinianIsraelConflictPoliticsElectionsGaza.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/palestinian-local-elections-on-april-25-gazans-vote-for-the-first-time-in-years/article70904464.ece",
-    "time": "2026-04-25T06:52:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nvidia tops $5 trillion market cap as AI rally lifts chip stocks",
     "desc": "Nvidia's stock hit a record high, surpassing $5 trillion in market value, driven by immense investor confidence in artificial intelligence chips. This surge follows strong performance from other chipmakers and a broader tech sector rebound, despite earlier concerns. With AI demand showing no signs of slowing, Nvidia remains a key player in the global race.",
@@ -817,15 +808,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/nvidia-tops-5-trillion-market-cap-as-ai-rally-lifts-chip-stocks/articleshow/130509025.cms",
     "time": "2026-04-25T06:41:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "EU considers helping with West Asia energy infrastructure to bypass conflict zones",
-    "desc": "European Commission President Ursula von der Leyen said on April 25, 2026 that EU is ready to work with Persian Gulf countries for new projects conveying energy to global markets that wouldn't be held hostage to war or geopolitical strife",
-    "img": "https://th-i.thgim.com/public/incoming/btnwpq/article70904494.ece/alternates/LANDSCAPE_1200/2026-04-24T144824Z_919549019_RC2QVKA8R0YE_RTRMADP_3_IRAN-CRISIS-EU.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/eu-considers-helping-with-west-asia-energy-infrastructure-to-bypass-conflict-zones/article70904480.ece",
-    "time": "2026-04-25T06:24:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/recent-hits-give-malayalam-film-industry-a-shot-in-the-arm/article70893244.ece",
     "time": "2026-04-24T04:18:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Has Anthropic’s Mythos made the cure worse than the disease?",
+    "desc": "In the world of cybersecurity, defenders are, to put it crudely, your anti-virus sellers, helping you fix security vulnerabilities and keep data safe. But that simple business model is being disrupted by speed and scale.",
+    "img": "https://th-i.thgim.com/public/incoming/l9l8ep/article70721073.ece/alternates/LANDSCAPE_1200/2015-06-21T034151Z_1385551238_GF10000134665_RTRMADP_3_CYBERSECURITY-USA-DEEP-PANDA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/has-anthropics-mythos-made-the-cure-worse-than-the-disease/article70896095.ece",
+    "time": "2026-04-24T03:46:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson, Akeal the heroes as CSK decimates MI at Wankhede",
+    "desc": "The opener smashes his second hundred of the season as the visitor racks up 207 for six after being put in; the left-arm spinner scalps four while Noor claims a couple as the home side suffers its biggest loss by runs in the tournament’s history",
+    "img": "https://th-i.thgim.com/public/incoming/r14gi1/article70899164.ece/alternates/LANDSCAPE_1200/DSC_5671.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-mi-vs-csk-match-updates-april-23-2026/article70898221.ece",
+    "time": "2026-04-23T20:04:29.000Z"
   }
 ];

@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunil Narine bails KKR out in Super Over vs LSG, Rinku stars as Knight Riders off from bottom of points table",
+    "desc": "Sunil Narine bailed the Kolkata Knight Riders out in the Super Over in a thrilling contest against the Lucknow Super Giants at the Ekana Cricket Stadium in Lucknow on Sunday, April 26. After Mohammed Shami...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunil-narine-bails-kkr-out-in-super-over-vs-lsg-rinku-stars-as-knight-riders-off-from-bottom-of-points-table-2026-04-26-1039012",
+    "time": "2026-04-26T18:24:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB mentor Dinesh Karthik speaks up on opener's availability for DC clash in IPL 2026",
+    "desc": "Royal Challengers Bengaluru mentor Dinesh Karthik on Sunday confirmed that star opener Phil Salt is still 'injured' and will be missing out on his team's IPL 2026 clash against the Delhi Capitals at the Arun...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-injury-update-rcb-mentor-dinesh-karthik-speaks-up-on-openers-availability-for-dc-clash-in-ipl-2026-2026-04-26-1039011",
+    "time": "2026-04-26T18:12:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lungi Ngidi drops big update on worrisome injury in first public reaction after nasty fall",
+    "desc": "Delhi Capitals fast bowler Lungi Ngidi on Sunday dropped a major update on his fitness a day after suffering a nasty fall on the ground during his team's clash against the Punjab Kings in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-drops-big-update-on-worrisome-injury-in-first-public-reaction-after-nasty-fall-2026-04-26-1039006",
+    "time": "2026-04-26T17:13:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni's return in IPL 2026 delayed by setback, coach Fleming drops concerning update after GT loss",
+    "desc": "MS Dhoni's return to the Indian Premier League suffered a setback with the former CSK skipper pushing too hard to get back on the ground and suffering a setback to his calf injury, head coach...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-return-in-ipl-2026-delayed-by-setback-coach-fleming-drops-concerning-update-after-gt-loss-2026-04-26-1039003",
+    "time": "2026-04-26T16:18:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is obstructing the field rule in cricket? Why was Angrish Raghuvanshi ruled out this way in Lucknow clash",
+    "desc": "Angrish Raghuvanshi was ruled out for obstructing the field during the Lucknow Super Giants vs Kolkata Knight Riders IPL 2026 clash at the Ekana Cricket Stadium in Lucknow on Sunday, April 26. Raghuvanshi was on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-obstructing-the-field-rule-in-cricket-why-was-angrish-raghuvanshi-ruled-out-this-way-in-lucknow-clash-2026-04-26-1038999",
+    "time": "2026-04-26T15:38:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rare moment in IPL! Angrish Raghuvanshi given out for obstructing the field in LSG clash, KKR star blasts off",
     "desc": "In a rare moment in the Indian Premier League 2026, Kolkata Knight Riders batter Angrish Raghuvanshi was given out obstructing the field during his team's clash against the Lucknow Super Giants at the Ekana Cricket...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/how-many-more-t20is-will-india-women-play-before-t20-world-cup-2026-2026-04-26-1038972",
     "time": "2026-04-26T11:03:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is CSK talisman not playing in GT clash at Chepauk?",
-    "desc": "MS Dhoni misses out yet again as Chennai Super Kings take on Gujarat Titans in their eighth match of the Indian Premier League 2026 at the MA Chidambaram Stadium on Sunday, April 26. CSK are...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-injury-update-why-is-csk-talisman-not-playing-in-chepauk-clash-against-gt-2026-04-26-1038962",
-    "time": "2026-04-26T09:48:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai look to defend 158 after Gaikwad's lone effort",
-    "desc": "Game 37 of the ongoing IPL (Indian Premier League) 2026 sees Chennai Super Kings taking on Gujarat Titans. The two sides lock horns at the MA Chidambaram Stadium in Chennai on April 26. The clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-gt-live-cricket-score-csk-set-to-bat-first-gt-elect-to-field-2026-04-26-1038960",
-    "time": "2026-04-26T09:44:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Brathwaite weighs in on Vaibhav Sooryavanshi's potential senior debut, draws comparison with Brian Lara",
-    "desc": "Star Rajasthan Royals batter Viabhav Sooryavanshi has taken the world by storm. Just 15 years old, Sooryavanshi has been smashing bowlers left and right and is one of the best batters in the ongoing edition...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/carlos-brathwaite-weighs-in-on-vaibhav-sooryavanshi-s-potential-senior-debut-draws-comparison-with-brian-lara-2026-04-26-1038955",
-    "time": "2026-04-26T08:37:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-Head record ahead of game 37 in IPL 2026",
-    "desc": "Game 37 of the ongoing IPL (Indian Premier League) 2026 sees Chennai Super Kings taking on Gujarat Titans. The two sides will take on each other at the MA Chidambaram Stadium in Chennai on April...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-gt-head-to-head-record-ahead-of-game-37-in-ipl-2026-2026-04-26-1038953",
-    "time": "2026-04-26T07:43:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'My new favourite': Pat Cummins lauds Vaibhav Sooryavanshi after youngster's stellar ton in Jaipur",
-    "desc": "Rajasthan Royals’ 15-year-old superstar Vaibhav Sooryavanshi has been the talk of the town in the ongoing IPL (Indian Premier League) 2026 season. The youngster has been brilliant for his side and recently smashed his second-ever...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/my-new-favourite-pat-cummins-lauds-vaibhav-sooryavanshi-after-youngster-s-stellar-ton-in-jaipur-2026-04-26-1038949",
-    "time": "2026-04-26T06:46:34.000Z"
   }
 ];
