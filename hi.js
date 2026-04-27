@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "R Ashwin gives his take on Chennai Super Kings' dismal performance against Gujarat Titans",
+    "desc": "Chennai Super Kings suffered a hefty loss against Gujarat Titans in game 37 of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the MA Chidamabaram Stadium in Chennai on April...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-gives-his-take-on-chennai-super-kings-dismal-performance-against-gujarat-titans-2026-04-27-1039037",
+    "time": "2026-04-27T05:01:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand women announce squad for white-ball tour to England, Amelia Kerr named captain",
+    "desc": "In a major development for NZC (New Zealand Cricket), the board came forward and announced New Zealand's women’s squad for the upcoming white-ball tour to England. It is worth noting that both New Zealand and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-women-announce-squad-for-white-ball-tour-to-england-amelia-kerr-named-captain-2026-04-27-1039033",
+    "time": "2026-04-27T04:04:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ajinkya Rahane weighs in on KKR's close-quarter victory against LSG, heaps praise on Rinku Singh",
     "desc": "Game 38 of the ongoing IPL (Indian Premier League) saw Lucknow Super Giants taking on Kolkata Knight Riders. The two sides locked horns at the Ekana Stadium in Lucknow on April 26. Both sides have...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rare-moment-in-ipl-angrish-raghuvanshi-given-out-for-obstructing-the-field-in-lsg-clash-kkr-batter-blasts-off-2026-04-26-1038995",
     "time": "2026-04-26T14:52:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans mow down CSK to register first-ever win at Chepauk, back among winning ways",
-    "desc": "Led by a wonderful bowling effort and a measured outing with the bat, the Gujarat Titans handed the Chennai Super Kings a drubbing in the 37th match of the Indian Premier League 2026 on Sunday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-mow-down-csk-to-register-first-ever-win-at-chepauk-back-among-winning-ways-2026-04-26-1038990",
-    "time": "2026-04-26T13:46:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ex-chief coach Vimal Kumar 'extremely disappointed' with BWF's new 3x15 point system for badminton",
-    "desc": "Former national chief coach of the Indian badminton squad, Vimal Kumar, has hit out at the Badminton World Federation's decision to change the sport's point system. The BWF on Saturday approved the from 3x15 point...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vimal-kumar-extremely-disappointed-with-bwfs-new-3-15-point-system-for-badminton-2026-04-26-1038989",
-    "time": "2026-04-26T13:13:17.000Z"
   }
 ];

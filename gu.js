@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "હોરર કોમેડી જોવાના શોખીનો માટે મસ્ટ વોચ છે રકાસા ફિલ્મ, આ તારીખે ઓટીટી પર થશે રિલીઝ",
+    "desc": "ડરતાં ડરતાં હસવાના શોખીન એટલે કે હોરર કોમેડી ફિલ્મો જોવાના શોખીન લોકો માટે રકાસા ફિલ્મ મસ્ટ વોચ છે. આ ફિલ્મ ગણતરીના દિવસોમાં ઓટીટી પર રિલીઝ થશે. આ ફિલ્મ શા માટે જોવી જોઈએ ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-horror-comedy-film-rakasa-on-netflix-rakasa-film-story-and-rating-475032 ",
+    "time": "2026-04-27T02:51:30.000Z"
+  },
+  {
     "cat": "World",
     "title": "માલીમાં મોટો આતંકી હુમલો: રક્ષા મંત્રીનું મોત, આખા દેશમાં થઈ રહ્યા છે સીરિયલ બ્લાસ્ટ",
     "desc": "માલીના રક્ષા મંત્રી સાદિયો કામારાનું JNIMના આતંકી હુમલામાં મોત થયું છે. રાજધાની બામાકોની આસપાસ થયેલા મોટા હુમલા બાદ દેશમાં હિંસા અને તણાવ વધી ગયો છે. સંયુક્ત રાષ્ટ્ર (UN)એ આ સમગ્ર મામલે ચિંતા વ્યક્ત કરી છે.",
@@ -450,15 +459,6 @@ const newsData_gu = [
     "time": "2026-04-24T06:39:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "બીજા ફેઝમાં પણ બહાર ન નીકળતા, નહીં તો ઉલ્ટા લટકાવીને સીધા કરીશું- અમિત શાહ",
-    "desc": "પશ્ચિમ બંગાળમાં પ્રથમ તબક્કાનું મતદાન પૂરું થયું અને બંપર વોટિંગ થયું જેનાથી ભાજપ ખુબ ઉત્સાહિત છે. જો કે બંપર વોટિંગને લઈને સત્તાધારી પક્ષના પણ પોતાના દાવા છે. અમિત શાહે તો મધ્યમગ્રામમાં રોડ શો દરમિયાન ચીમકી પણ ઉચ્ચારી. જાણો શું કહ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-amit-shah-road-show-in-madhyamgram-warn-tmc-goons-474583 ",
-    "time": "2026-04-24T06:26:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "વહેલી સવારે જાહેર થયા પેટ્રોલ-ડીઝલના આજના ભાવ, જાણો અમદાવાદ સહિત શહેરોમાં લેટેસ્ટ રેટ",
     "desc": "મિડલ ઈસ્ટ અને હોર્મુઝનું સંકટ યથાવત રહેતા આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઈલના ભાવમાં ઉછાળો જોવા મળી રહ્યો છે. જેને પગલે પેટ્રોલ ડીઝલના ભાવ વધે તેવી લોકોને આશંકા છે. ગુજરાતના મોટા શહેરોમાં પેટ્રોલ અને ડીઝલના ભાવ કેટલે પહોંચ્યા તે ખાસ જાણો.",
@@ -502,24 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-bpms-demands-minimum-basic-salary-hike-to-72000-and-six-percent-annual-increment-474503 ",
     "time": "2026-04-23T12:00:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું ભારત સહિત દુનિયાભરમાં ઈન્ટરનેટ ઠપ્પ થઈ જશે? ઈરાનની નવી ધમકીથી હડકંપ મચ્યો",
-    "desc": "ઓઈલ અને ગેસ, પેટ્રોલ ડીઝલની લડાઈ હવે ઈન્ટરનેટ સુધી પહોંચે તેવા એંધાણ છે. કારણ કે ઈરાનની નવી ધમકી ચિંતાજનક છે. જો ઈરાને સમુદ્રની અંદર રહેલા ઈન્ટરનેટના કેબલ્સને નુકસાન પહોંચાડ્યું તો ભારત પણ મુશ્કેલીમાં મૂકાઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-new-threat-creates-a-stir-internet-cables-laid-under-the-sea-can-be-targeted-474462 ",
-    "time": "2026-04-23T09:55:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ના હોય ! 1 ઓવરમાં 77 રન... ક્રિકેટના ઈતિહાસની સૌથી મોંઘી ઓવર, આ બોલરના નામે નોંધાયો શરમજનક રેકોર્ડ",
-    "desc": "ક્રિકેટ અનિશ્ચિતતાઓની રમત છે, અહીં ગમે ત્યારે ગમે તે થઈ શકે છે. જો કોઈ તમને એમ કહે કે એક ઓવરમાં 77 રન બન્યા તો તમને નવાઈ લાગશે, પરંતુ આ હકીકત છે. આજથી 35 વર્ષ પહેલા એક ઓવરમાં 77 રન બન્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/cricket-record-77-runs-in-one-over-bowler-bert-vance-wellington-vs-canterbury-match-474453 ",
-    "time": "2026-04-23T08:07:37.000Z"
   },
   {
     "cat": "Tech",
@@ -664,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/17-april-2026-ott-release-list-of-5-new-hindi-film-and-web-series-released-on-ott-this-week-473497 ",
     "time": "2026-04-17T07:19:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અંતે મામી-ભાણેજ વચ્ચે સમાધાન થયું, કાશ્મીરા શાહની કોમેન્ટ પછી શરુ થયેલા પારિવારિક વિવાદનો અંત આવ્યો",
-    "desc": "સુનિતા આહુજા અને કાશ્મીરા શાહ એ વર્ષો જૂના મતભેદ ભુલી સમાધાન કરી લીધું છે. ઈંટરનેટ પર સુનીતા આહૂજા, કૃષ્ણા અભિષેક અને કાશ્મીરાના ફોટો અને વીડિયો વાયરલ થઈ રહ્યા છે. કાશ્મીરા શાહની એક કોમેન્ટથી શરુ થયેલા પારિવારિક ઝઘડાનો અંત વર્ષો પછી આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/sunita-ahuja-patch-up-with-kashmera-shah-and-krushna-abhishek-after-big-family-controversy-473290 ",
-    "time": "2026-04-16T03:34:21.000Z"
   }
 ];
