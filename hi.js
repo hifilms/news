@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ajinkya Rahane weighs in on KKR's close-quarter victory against LSG, heaps praise on Rinku Singh",
+    "desc": "Game 38 of the ongoing IPL (Indian Premier League) saw Lucknow Super Giants taking on Kolkata Knight Riders. The two sides locked horns at the Ekana Stadium in Lucknow on April 26. Both sides have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-weighs-in-on-kkr-s-close-quarter-victory-against-lsg-heaps-praise-on-rinku-singh-2026-04-27-1039020",
+    "time": "2026-04-27T02:18:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rinku Singh headlines KKR's thrilling victory against LSG; Joins Kallis, Parag in elite list",
+    "desc": "Kolkata Knight Riders and Lucknow Super Giants engaged in one of the most thrilling encounters in the ongoing edition of the IPL (Indian Premier League) 2026 so far. The two sides locked horns in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-headlines-kkr-s-thrilling-victory-against-lsg-joins-kallis-parag-in-elite-list-2026-04-27-1039015",
+    "time": "2026-04-27T01:21:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sunil Narine bails KKR out in Super Over vs LSG, Rinku stars as Knight Riders off from bottom of points table",
     "desc": "Sunil Narine bailed the Kolkata Knight Riders out in the Super Over in a thrilling contest against the Lucknow Super Giants at the Ekana Cricket Stadium in Lucknow on Sunday, April 26. After Mohammed Shami...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/vimal-kumar-extremely-disappointed-with-bwfs-new-3-15-point-system-for-badminton-2026-04-26-1038989",
     "time": "2026-04-26T13:13:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson surpasses MS Dhoni, Suresh Raina in elite list, achieves major IPL milestone",
-    "desc": "Chennai Super Kings’ Sanju Samson has been one of the best batters in the ongoing edition of the IPL (Indian Premier League) 2026. With two centuries to his name already in the ongoing campaign, Samson...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-surpasses-ms-dhoni-suresh-raina-in-elite-list-achieves-major-ipl-milestone-2026-04-26-1038973",
-    "time": "2026-04-26T11:07:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many more T20Is will India women play before T20 World Cup 2026?",
-    "desc": "India women's team is currently in action in a crucial T20I series against South Africa as the T20 World Cup 2026 looms large. The global showpiece will begin on June 12 and is set to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-more-t20is-will-india-women-play-before-t20-world-cup-2026-2026-04-26-1038972",
-    "time": "2026-04-26T11:03:09.000Z"
   }
 ];
