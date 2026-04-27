@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "ওরা তো চোখ দিয়েই ধর্ষণ করে: বিজেপি ছাড়তেই রেপ থ্রেট, 'মা-কেও ছাড়ল না' বিস্ফোরক রূপাঞ্জনা",
+    "desc": "রাজনৈতিক মতাদর্শ আলাদা হতে পারে, কিন্তু তার জন্য একজন নারীকে ধর্ষণের হুমকি? বিজেপি ছাড়তেই কদর্য আক্রমণের শিকার অভিনেত্রী রূপাঞ্জনা মিত্র। মা-কে নিয়েও করা হয়েছে কুৎসিত মন্তব্য। চুপ থাকলেন না অভিনেত্রীও, লাইভে এসে দিলেন কড়া জবাব। পশ্চিমবঙ্গকে মণিপুর বা উত্তরপ্রদেশ হতে দেবেন না বলে সাফ জানালেন তিনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rupanjana-mitra-receives-rape-threats-after-leaving-bjp-allegation-details_651080.html ",
+    "time": "2026-04-27T10:37:46.000Z"
+  },
+  {
     "cat": "World",
     "title": "শকিং স্যাটারডে: ট্রাম্পের ডিনার আসরে মুহুর্মুহু গুলি, কেঁপে উঠল হোয়াইট হাউস",
     "desc": "ট্রাম্প জানান যে, হামলাকারীকে ধরা হয়েছে। তিনি পুলিস এবং সিক্রেট সার্ভিসের প্রশংসা করে বলেন, তারা খুব সাহসের সাথে দ্রুত ব্যবস্থা নিয়েছেন। ট্রাম্প চেয়েছিলেন অনুষ্ঠানটি যেন বন্ধ না হয়, তবে নিরাপত্তার খাতিরে সবকিছু নতুন করে পরিকল্পনা করার কথা জানিয়েছেন তিনি।",
@@ -88,15 +97,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/india-china-are-hell-holes-posts-donald-trump-on-truth-social-protests-mahua-moitra-in-social-post_650346.html ",
     "time": "2026-04-23T14:30:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পণের টাকা দে, নয় তো ডিভোর্স দে: বর্বর হরিশের অত্যাচারে এক বছরের একরত্তিকে রেখেই চিরবিদায় নিলেন মেধাবী টেকি ভুবনেশ্বরী",
-    "desc": "পুলিস সূত্রে জানা গিয়েছে, মৃত তরুণী বেঙ্গালুরুর একটি নামী আইটি কোম্পানিতে কর্মরত ছিলেন। কয়েক বছর আগে দেখাশোনা করে তাঁর বিয়ে হয়েছিল। বিয়ের সময় কনের পরিবারের পক্ষ থেকে সাধ্যমতো দানসামগ্রী দেওয়া হলেও বিয়ের কিছুদিন পর থেকেই শুরু হয় অশান্তি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tech-professional-dies-in-bengaluru-leaving-one-year-child-claims-of-dowry-pressure-and-family-dispute-emerge_650305.html ",
-    "time": "2026-04-23T12:35:22.000Z"
   },
   {
     "cat": "Entertainment",

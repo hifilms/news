@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli inches away from IPL immortality as RCB gear up for DC clash at Kotla",
+    "desc": "Royal Challengers Bengaluru legend Virat Kohli is on the brink of another massive IPL record as his team gears up for the IPL 2026 clash against the Delhi Capitals on Monday, April 27. Kohli, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-inches-away-from-ipl-immortality-as-rcb-gear-up-for-dc-clash-at-kotla-2026-04-27-1039085",
+    "time": "2026-04-27T10:31:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Playing for India is number one': Krunal Pandya weighs in on his journey, reminisces over his early years",
+    "desc": "There has been no doubt that Royal Challengers Bengaluru has been one of the strongest sides in the IPL (Indian Premier League) for the last two years now. Under the leadership of Rajat Patidar, RCB...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/playing-for-india-is-number-one-krunal-pandya-weighs-in-on-his-journey-reminisces-over-his-early-years-2026-04-27-1039076",
+    "time": "2026-04-27T09:29:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-Head record ahead game 39 in IPL 2026",
+    "desc": "Delhi Capitals and Royal Challengers Bengaluru continue their ongoing IPL (Indian Premier League) 2026 campaign by locking horns at the Arun Jaitley Stadium in Delhi. The two sides will take on each other on April...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rcb-head-to-head-record-ahead-game-39-in-ipl-2026-2026-04-27-1039072",
+    "time": "2026-04-27T09:04:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Angkrish Raghuvanshi found in breach of IPL Code of Conduct, handed 1 demerit point after outburst against LSG",
+    "desc": "Kolkata Knight Riders and Lucknow Super Giants took on each other in one of the most thrilling matches of the ongoing edition of the IPL (Indian Premier League) 2026. The two sides locked horns in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/angkrish-raghuvanshi-found-in-breach-of-ipl-code-of-conduct-handed-1-demerit-point-after-outburst-against-lsg-2026-04-27-1039064",
+    "time": "2026-04-27T08:26:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Player battles to watch out for in IPL 2026 Match 39",
     "desc": "Delhi Capitals will be hosting Royal Challengers Bengaluru in game 39 of the ongoing IPL (Indian Premier League). The two sides will take on each other at the Arun Jaitley Stadium in Delhi on April...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-headlines-kkr-s-thrilling-victory-against-lsg-joins-kallis-parag-in-elite-list-2026-04-27-1039015",
     "time": "2026-04-27T01:21:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Narine bails KKR out in Super Over vs LSG, Rinku stars as Knight Riders off from bottom of points table",
-    "desc": "Sunil Narine bailed the Kolkata Knight Riders out in the Super Over in a thrilling contest against the Lucknow Super Giants at the Ekana Cricket Stadium in Lucknow on Sunday, April 26. After Mohammed Shami...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-narine-bails-kkr-out-in-super-over-vs-lsg-rinku-stars-as-knight-riders-off-from-bottom-of-points-table-2026-04-26-1039012",
-    "time": "2026-04-26T18:24:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB mentor Dinesh Karthik speaks up on opener's availability for DC clash in IPL 2026",
-    "desc": "Royal Challengers Bengaluru mentor Dinesh Karthik on Sunday confirmed that star opener Phil Salt is still 'injured' and will be missing out on his team's IPL 2026 clash against the Delhi Capitals at the Arun...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-injury-update-rcb-mentor-dinesh-karthik-speaks-up-on-openers-availability-for-dc-clash-in-ipl-2026-2026-04-26-1039011",
-    "time": "2026-04-26T18:12:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lungi Ngidi drops big update on worrisome injury in first public reaction after nasty fall",
-    "desc": "Delhi Capitals fast bowler Lungi Ngidi on Sunday dropped a major update on his fitness a day after suffering a nasty fall on the ground during his team's clash against the Punjab Kings in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-drops-big-update-on-worrisome-injury-in-first-public-reaction-after-nasty-fall-2026-04-26-1039006",
-    "time": "2026-04-26T17:13:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni's return in IPL 2026 delayed by setback, coach Fleming drops concerning update after GT loss",
-    "desc": "MS Dhoni's return to the Indian Premier League suffered a setback with the former CSK skipper pushing too hard to get back on the ground and suffering a setback to his calf injury, head coach...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-return-in-ipl-2026-delayed-by-setback-coach-fleming-drops-concerning-update-after-gt-loss-2026-04-26-1039003",
-    "time": "2026-04-26T16:18:50.000Z"
   }
 ];
