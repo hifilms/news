@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "ઈરાન યુદ્ધ વચ્ચે ભારતને હાથ લાગ્યો &amp;#039;જેકપોર્ટ&amp;#039;, ભારતીય કંપનીઓને મળ્યો તેલ-ગેસનો ભંડાર; નવી શોધથી જનતાને મળશે રાહત",
+    "desc": "ઈન્ડિયન ઓઈલ કોર્પોરેશન લિમિટેડ (IOCL)એ લીબિયામાં તેના વિદેશી એક્સપ્લોરેશન પોર્ટફોલિયોમાં ઓઈલ અને ગેસની નવી શોધની જાહેરાત કરી છે. ઓઈલ કંપનીએ જણાવ્યું કે, લીબિયાની નેશનલ ઓઈલ કોર્પોરેશને ઓઈલ અને ગેસના આ કૂવાને બ્લોકની 5મી શોધ તરીકે ઔપચારિક માન્યતા પણ આપી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/amidst-the-iran-war-india-got-its-hands-on-jackport-indian-companies-got-oil-and-gas-reserves-new-discovery-will-bring-relief-to-the-public-475156 ",
+    "time": "2026-04-27T15:19:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચ હેઠળ બેસિક સેલેરી ₹1 લાખને પાર જશે? આ કર્મચારીઓ માટે અપડેટ",
+    "desc": "કેન્દ્રીય કર્મચારીઓના વિવિધ સંગઠનો પગાર પંચને તેમની માંગણી યાદીઓ સુપરત કરી રહ્યા છે. આ સંદર્ભમાં, ફેડરેશન ઓફ નેશનલ પોસ્ટલ ઓર્ગેનાઇઝેશન (FNPO)એ પણ કેટલીક મહત્વપૂર્ણ માંગણીઓ કરી છે. આ માંગણીઓમાં મૂળ પગારમાં 1 લાખ રૂપિયાથી વધુનો વધારો કરવાનો સમાવેશ થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-basic-salary-cross-rs-1-lakh-under-8th-pay-commission-update-for-these-employees-475155 ",
+    "time": "2026-04-27T14:46:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "શાહબાઝ શરીફ OUT, પુતિન IN; રશિયાના રાષ્ટ્રપતિ અટકાવશે ઈરાન-અમેરિકા યુદ્ધ? જાણો કેમ થઈ રહી છે ચર્ચા",
+    "desc": "પશ્ચિમ એશિયામાં વધતા સંકટ વચ્ચે ઈરાનના વિદેશ મંત્રી સૈયદ અબ્બાસ અરાઘચી રશિયા પહોંચ્યા છે. અહીં તેમણે રશિયાના રાષ્ટ્રપતિ વ્લાદિમીર પુતિન સાથે મુલાકાત કરી છે. આ મુલાકાત બાદ પુતિને કહ્યું કે, તેમને આશા છે કે ઈરાનના લોકો આ મુશ્કેલ સમયનો મક્કમતાથી સામનો કરશે અને વિસ્તારમાં શાંતિ જળવાઈ રહેશે. તેમણે વધુમાં કહ્યું કે, રશિયા ઈરાન અને ખાડી દેશોના હિતોની રક્ષા માટે તમામ સંભવ પ્રયાસો કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/shahbaz-sharif-out-putin-in-will-the-russian-president-prevent-iran-us-war-know-why-there-is-a-discussion-475154 ",
+    "time": "2026-04-27T14:28:12.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "1લી મેથી બદલાઈ જશે ગેસ સિલિન્ડરના ભાવ? આ નિયમોમાં પણ થશે ફેરફાર, જાણો",
     "desc": "શહેરોમાં ગેસ સિલિન્ડર બુકિંગ વચ્ચેનો સમય વધારીને 25 દિવસ અને ગામડાઓમાં 35થી 45 દિવસ કરવામાં આવ્યો છે, જ્યારે OTP-આધારિત ડિલિવરી સિસ્ટમ કાયમી બનાવવામાં આવી રહી છે. વધુમાં, eKYC ફરજિયાત બનાવવામાં આવ્યું છે. હવે, સમાચાર આવી રહ્યા છે કે LPG ગેસ સિલિન્ડર સંબંધિત કેટલાક નિયમો 1 મેથી બદલાઈ શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -450,15 +477,6 @@ const newsData_gu = [
     "time": "2026-04-24T11:07:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "શું લઘુત્તમ પગાર વધીને ₹72,000 થશે? જો સરકાર માંગ સ્વીકારે તો શું બદલાશે?",
-    "desc": "કેન્દ્રીય કર્મચારી સંગઠનો દ્વારા આઠમા પગાર પંચને પોતાની માંગણીઓ અંગેના પત્રો સોંપવામાં આવી રહ્યા છે. હવે સંરક્ષણ મંત્રાલયના સિવિલિયન કર્મચારીઓનું પ્રતિનિધિત્વ કરતા ભારતીય પ્રતિરક્ષા મજૂર સંઘ (BPMS) એ મેમોરેન્ડમ સોંપીને ફિટમેન્ટ ફેક્ટરને ચાર ગણું કરવાની માંગ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-will-the-minimum-salary-rise-to-72000-what-changes-will-occur-if-the-government-accepts-the-demand-474605 ",
-    "time": "2026-04-24T08:36:18.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "સ્ક્રીન પર ફ્લોટ થશે મેસેજ! WhatsAppનું નવું ફીચર બદલી નાંખશે ચેટની ગેમ, આવી રહ્યું છે આ નવું ફીચર",
     "desc": "WhatsApp ટૂંક સમયમાં એક એવું ફીચર લાવવા જઈ રહ્યું છે, જેના કારણે તમારે વારંવાર એપ ખોલવાની જરૂર નહીં પડે. 'નોટિફિકેશન બબલ' નામનું આ નવું ફીચર સીધું સ્ક્રીન પર મેસેજ દેખાડશે અને ત્યાંથી જ રિપ્લાય કરવાનો ઓપ્શન પણ આપશે.",
@@ -466,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/messages-will-float-on-the-screen-whatsapps-new-feature-is-set-to-revolutionize-the-chat-experience-this-new-feature-is-on-its-way-474594 ",
     "time": "2026-04-24T07:09:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ક્રૂડ ઓઈલમાં ઉછાળાથી સોનામાં હાહાકાર! જાણો કેટલું સસ્તું થયું ગોલ્ડ? કેરેટ પ્રમાણે સોનાનો ભાવ જાણો",
-    "desc": "મિડલ ઈસ્ટ તણાવ અને હોર્મુઝનું સંકટ યથાવત રહેતા ક્રૂડ ઓઈલના ભાવમાં ઉછાળા મારી રહ્યા છે. જેને પગલે કિંમતી ધાતુઓ પર દબાણ જોવા મળી રહ્યું છે. આજે વાયદા બજારમાં સોનું અને ચાંદી કડાકા સાથે જોવા મળી રહ્યા છે. જ્યારે રિટેલ બજારમાં સોનું તૂટ્યું અને ચાંદી સામાન્ય ઉછાળા સાથે જોવા મળી છે. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-prices-come-under-pressure-check-silver-price-mcx-ibja-latest-rates-aaj-no-sona-no-bhav-474592 ",
-    "time": "2026-04-24T06:56:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-executes-top-security-official-caliphate-regime-is-running-operation-clean-474546 ",
     "time": "2026-04-23T16:35:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટ્રમ્પનું &amp;#039;મિશન ઈરાન&amp;#039; ડિકોડ: પરમાણુ ચીફે સુંદર યુવતી સામે વટાણા વેરી દીધા, ખોલી દીધો સિક્રેટ પ્લાન",
-    "desc": "આજે અમેરિકાથી એવા સમાચાર આવ્યા છે જેણે આખા પેન્ટાગોનને હચમચાવી દીધું છે અને ટ્રમ્પ પ્રશાસનને ટેન્શનમાં મૂકી દીધું છે. એક એવો વીડિયો સામે આવ્યો છે જેની કોઈએ કલ્પના નહોતી કરી. ટ્રમ્પના પરમાણુ અને રાસાયણિક ચીફ હની ટ્રેપનો શિકાર બન્યા અને લેડી એજન્ટ પાસે ખોલીથી અમેરિકાની પોલ. કેવી રીતે એક સુંદર મહિલા સામે ટ્રમ્પનું 'મિશન ઈરાન' ડિકોડ થયું ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/pentagon-security-breach-andrew-hugg-honey-trap-leaks-rump-iran-mission-secrets-474544 ",
-    "time": "2026-04-23T15:40:58.000Z"
   },
   {
     "cat": "Tech",

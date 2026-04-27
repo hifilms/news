@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Delhi Capitals 8/6, hit record low against RCB in horrific start to IPL 2026 Delhi clash",
+    "desc": "Delhi Capitals were rocked hard by Royal Challengers Bengaluru in their IPL 2026 clash at the Arun Jaitley Stadium on Monday, April 27. The RCB bowlers, Bhuvneshwar Kumar and Josh Hazlewood, jolted the DC line-up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-8-6-hit-record-low-against-rcb-in-horrific-start-to-ipl-2026-delhi-clash-2026-04-27-1039116",
+    "time": "2026-04-27T15:34:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Santner ruled out from remainder of IPL 2026, Mumbai Indians name replacement",
+    "desc": "In a blow for the Mumbai Indians, all-rounder Mitchell Santner has been ruled out for the remainder of the Indian Premier League 2026 as the five-time champions have named Keshav Maharaj as his replacement. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-santner-ruled-out-from-remainder-of-ipl-2026-mumbai-indians-name-replacement-2026-04-27-1039114",
+    "time": "2026-04-27T14:53:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Phil Salt not playing for RCB in IPL 2026 clash against DC as Bengaluru look for redemption?",
+    "desc": "Phil Salt was a major absentee in the Royal Challengers Bengaluru's team as they take on the Delhi Capitals in the Indian Premier League 2026 clash on Monday, April 27. Salt had also missed RCB's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-phil-salt-not-playing-for-rcb-in-ipl-2026-clash-against-dc-as-bengaluru-look-for-redemption-2026-04-27-1039108",
+    "time": "2026-04-27T14:07:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Is DC star playing today in IPL 2026 clash against RCB in Delhi?",
     "desc": "Lungi Ngidi misses out as Delhi Capitals take on Royal Challengers Bengaluru in their eighth match of the Indian Premier League 2026 at the Arun Jaitley Stadium in Delhi on Monday, April 27. Ngidi suffered...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rcb-head-to-head-record-ahead-game-39-in-ipl-2026-2026-04-27-1039072",
     "time": "2026-04-27T09:04:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Angkrish Raghuvanshi found in breach of IPL Code of Conduct, handed 1 demerit point after outburst against LSG",
-    "desc": "Kolkata Knight Riders and Lucknow Super Giants took on each other in one of the most thrilling matches of the ongoing edition of the IPL (Indian Premier League) 2026. The two sides locked horns in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/angkrish-raghuvanshi-found-in-breach-of-ipl-code-of-conduct-handed-1-demerit-point-after-outburst-against-lsg-2026-04-27-1039064",
-    "time": "2026-04-27T08:26:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 39",
-    "desc": "Delhi Capitals will be hosting Royal Challengers Bengaluru in game 39 of the ongoing IPL (Indian Premier League). The two sides will take on each other at the Arun Jaitley Stadium in Delhi on April...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rcb-3-player-battles-to-watch-out-for-in-ipl-2026-match-39-2026-04-27-1039055",
-    "time": "2026-04-27T07:00:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Arun Jaitley Stadium in Delhi play?",
-    "desc": "The stage is set for the 39th game of the ongoing IPL (Indian Premier League) 2026. Delhi Capitals will be taking on Royal Challengers Bengaluru at the Arun Jaitley Stadium in Delhi. The clash will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rcb-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-04-27-1039044",
-    "time": "2026-04-27T05:54:22.000Z"
   }
 ];

@@ -144,15 +144,6 @@ const newsData_bn = [
     "time": "2026-04-22T08:29:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "১৮ দিন নিখোঁজ পরিচালক উৎসব মুখোপাধ্যায়: পুলিসের দরজায় ঘুরে ক্লান্ত স্ত্রী, এবার হদিশ পেতে সংবাদপত্রে বিজ্ঞাপন",
-    "desc": "তিন সপ্তাহ পার, এখনও নিরুদ্দেশ পরিচালক উৎসব মুখোপাধ্যায়। স্বামীর খোঁজ না পেয়ে এবার সংবাদপত্রে বিজ্ঞাপন দিলেন স্ত্রী মৌপিয়া বন্দ্যোপাধ্যায়। সেই সঙ্গে সমাজমাধ্যমে উগরে দিলেন একরাশ ক্ষোভ ও বিস্ফোরক তথ্য। ২০১৯ সাল থেকে চলা ভয়াবহ সাইবার বুলিং-ই কি কেড়ে নিল উৎসবের হাসি? নাকি এর আড়ালে লুকিয়ে অন্য কোনও সত্যি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/missing-director-utsav-mukherjee-wife-moupiya-banerjee-cyber-bullying-allegations_649922.html ",
-    "time": "2026-04-21T15:30:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "টানা ম্যাচ হেরে চরম সিদ্ধান্তের পথে শাহরুখের KKR, IPL থেকে কি সরে যাবে কলকাতা? বুকভাঙা খবর এল ভক্তদের জন্য",
     "desc": "আইপিএল ২০২৬-এর মরসুম কলকাতা নাইট রাইডার্সের (KKR) জন্য মোটেও ভাল যাচ্ছে না। দলের ভিতরে আশঙ্কার মেঘ। টুর্নামেন্টের ইতিহাসে রেকর্ড ২৫ কোটি ২০ লক্ষ টাকা দিয়ে অস্ট্রেলীয় অলরাউন্ডার ক্যামেরন গ্রিনকে কিনেছিল শাহরুখ খানের দল। কিন্তু সেই ‘সবচেয়ে দামি বিদেশি’ এখন দলের জন্য আশীর্বাদের বদলে অভিশাপ হয়ে দাঁড়িয়েছেন। পয়েন্ট টেবিলের তলানিতে থাকা কেকেআর এখন গ্রিনকে বাদ দেওয়ার মতো চরম সিদ্ধান্ত নেওয়ার কথা ভাবছে।",
@@ -160,5 +151,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/sports/kolkata-knight-riders-kkr-kkr-in-ipl-2026-cameron-green-ajinkya-rahane-kkr-big-news-kkr-vs-gt-gujrat-titans-ipl-shahrukh-khan-cameron-green-ipl-2026_649353.html ",
     "time": "2026-04-18T14:54:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
