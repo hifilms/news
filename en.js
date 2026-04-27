@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Man CRUSHED to death in stage accident",
+    "desc": "A tragic accident has marred the preparations for Shakira's free concert in Rio de Janeiro. A stage construction technician suffered fatal crushing injuries to his legs in a lifting system mishap on Sunday. Despite the devastating loss, work has resumed, with organizers expressing solidarity and many beachgoers believing the show must proceed.",
+    "img": "https://static.toiimg.com/photo/msid-130564610,imgsize-72876.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-brazil-concert-man-crushed-to-death-during-stage-assembly-accident/articleshow/130564408.cms",
+    "time": "2026-04-27T21:46:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jimmy Kimmel to be FIRED over 'expectant widow' joke? WATCH",
+    "desc": "Donald and Melania Trump have demanded ABC fire Jimmy Kimmel over a joke about the First Lady being an \"expectant widow.\" The remark, made during a mock White House Correspondents' Dinner routine, drew sharp criticism from the Trumps and the White House press secretary, who called it \"hateful and violent rhetoric.\"",
+    "img": "https://static.toiimg.com/photo/msid-130564372,imgsize-75984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/donald-and-melania-trump-call-for-jimmy-kimmel-to-be-fired-over-expectant-widow-joke-watch/articleshow/130564329.cms",
+    "time": "2026-04-27T21:13:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir Khan on teaming up with Shah Rukh Khan and Salman Khan",
+    "desc": "Even after decades in the industry, the idea of Aamir Khan and Shah Rukh Khan sharing screen space remains a dream for fans — one that, as Aamir admits, hasn’t materialised yet. Speaking in a recent interaction, Aamir addressed the long-standing anticipation around a collaboration with Shah Rukh. Aamir also spoke about the idea of bringing all three Khans together on screen — himself, Shah Rukh, and Salman Khan.",
+    "img": "https://static.toiimg.com/photo/msid-130564362,imgsize-77030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-opens-up-on-teaming-up-with-shah-rukh-khan-and-salman-khan-audience-will-enjoy-watching-the-three-of-us-together/articleshow/130564337.cms",
+    "time": "2026-04-27T21:10:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hridoy's half-century leads Bangladesh past New Zealand in T20 series opener",
+    "desc": "Hridoy finished 51 not out from 27 balls, including two fours and three sixes. He shared a 57-run partnership with Parvez Hossain and another 49 with Shamim Hossain in an unbeaten fifth wicket to help Bangladesh race to the victory",
+    "img": "https://th-i.thgim.com/public/incoming/ym9irq/article70913816.ece/alternates/LANDSCAPE_1200/AFP_A93V43M.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/hridoys-half-century-leads-bangladesh-past-new-zealand-in-t20-series-opener/article70913814.ece",
+    "time": "2026-04-27T20:20:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stopping Kvaratskhelia is key to Bayern's chances against PSG in Champions League semifinal",
+    "desc": "Kvaratskhelia has scored eight goals so far — including another fine solo effort against Liverpool in the first leg of their quarterfinal. That's twice as many as teammate Ousmane Dembélé, the current men's Ballon d'Or holder",
+    "img": "https://th-i.thgim.com/public/incoming/cbd9l3/article70913810.ece/alternates/LANDSCAPE_1200/2026-04-27T113002Z_1676095485_UP1EM4R0VY1MD_RTRMADP_3_SOCCER-CHAMPIONS-PSG-FCB-PREVIEW.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/stopping-kvaratskhelia-is-key-to-bayerns-chances-against-psg-in-champions-league-semifinal/article70913809.ece",
+    "time": "2026-04-27T20:02:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farhan Akhtar breaks silence on Don 3 amid Ranveer Singh exit",
+    "desc": "Over a decade after Farhan Akhtar’s last directorial Don 2 with Shah Rukh Khan and Priyanka Chopra, Don 3 continues to make headlines — this time over Ranveer Singh’s reported exit and the fallout that followed. Breaking his silence, Farhan Akhtar admitted that the past few years have been unpredictable.",
+    "img": "https://static.toiimg.com/photo/msid-130563959,imgsize-26280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nothing-can-be-taken-for-granted-farhan-akhtar-breaks-silence-on-don-3-amid-ranveer-singh-exit/articleshow/130563932.cms",
+    "time": "2026-04-27T19:48:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Even as Tamil Nadu comes down from its election high, tensions are still rising",
+    "desc": "The issues vary from the advisability of Chief Minister M.K.Stalin taking a holiday in Kodaikkanal to the comparative performance of Tamil Nadu with other southern States with respect to the IT sector to the possibility of a coalition regime getting formed due to the presence of the Vijay-led TVK",
+    "img": "https://th-i.thgim.com/public/incoming/dkmxht/article70913791.ece/alternates/LANDSCAPE_1200/TH%20TRI-1%208.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/opinion/op-ed/even-as-tamil-nadu-comes-down-from-its-election-high-tensions-are-still-rising/article70913675.ece",
+    "time": "2026-04-27T19:43:09.000Z"
+  },
+  {
     "cat": "World",
     "title": "Man charged with attempted assassination of Trump in White House correspondents' dinner shooting",
     "desc": "Allen, 31, is believed to have travelled by train from California to Chicago and then onto Washington, where he checked himself in as a guest at the hotel where the gala dinner was held with its typically tight security, acting Attorney General Todd Blanche said",
@@ -126,15 +189,6 @@ const newsData_en = [
     "time": "2026-04-27T17:30:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Kevin Costner",
-    "desc": "Famed actor Kevin Costner views failure not as a terminus, but as a catalyst for growth. He advocates for embracing setbacks as a way to ignite a deeper passion for one's ambitions. Costner’s insights inspire us to learn from our failures and leverage them to propel us toward future victories, fostering resilience instead of defeat.",
-    "img": "https://static.toiimg.com/photo/msid-130555677,imgsize-29562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-the-gray-house-star-kevin-costner-failure-doesnt-kill-you-it-increases-your-desire-to-make-something-happen-/articleshow/130555677.cms",
-    "time": "2026-04-27T17:30:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Verify your or your parents/grandparents details, get mapped with SIR 2002: Telangana CEO",
     "desc": "Currently, matching or linking of the electors registered in the present roll with either their name or their relative’s name in the last SIR held in 2002 is being undertaken, the Chief Electoral Officer of Telangana said",
@@ -178,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rishi-kapoor-was-my-ideal-now-i-play-ranbir-kapoors-father-in-love-war-ashwin-kaushal-on-landing-sanjay-leela-bhansalis-film/articleshow/130559897.cms",
     "time": "2026-04-27T16:43:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "School admissions to drop by 1 lakh over revised age rule in Kerala",
-    "desc": "SCERT report to government says one batch of children who will be five years old in the 2027-28 year will be temporarily left out of admissions to class I as State raises minimum age of admission",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/school-admissions-to-drop-by-1-lakh-over-revised-age-rule/article70913208.ece",
-    "time": "2026-04-27T16:39:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -324,15 +369,6 @@ const newsData_en = [
     "time": "2026-04-27T14:58:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ajay Maken says Kejriwal's 7 RS defectors' average worth is Rs 818 crore",
-    "desc": "The political arena heats up as Congress voices its discontent over AAP's Rajya Sabha nominees, branding them as elitists with an impressive average net worth of Rs 818 crore. Ajay Maken argues that AAP functions as a puppet for the BJP, orchestrated to disrupt Congress's support in upcoming state elections.",
-    "img": "https://static.toiimg.com/photo/msid-130557674,imgsize-54086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ajay-maken-says-kejriwals-7-rs-defectors-average-worth-is-rs-818-crore/articleshow/130557674.cms",
-    "time": "2026-04-27T14:48:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "8/6 horror! DC crash to all-time low as RCB pacers script historic IPL collapse",
     "desc": "Royal Challengers Bengaluru pacers delivered a ruthless performance, dismantling Delhi Capitals' batting line-up to a record-breaking 8 for 6 on Monday. Bhuvneshwar Kumar and Josh Hazlewood took multiple wickets early, leaving DC shell-shocked and setting a new IPL low for the sixth wicket. RCB's bowlers exploited movement and pressure to perfection.",
@@ -358,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-season-3-episode-3-recap-jules-and-rue-meet-nate-and-cassies-chaotic-wedding-and-more/articleshow/130557190.cms",
     "time": "2026-04-27T14:35:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tessa Thompson praises co-star Adrien Brody",
-    "desc": "In a remarkable theatrical milestone, Tessa Thompson and Adrien Brody have made their Broadway entrance with 'The Fear of 13'. Acknowledging Brody's warm spirit and exceptional talent, Thompson felt an immediate rapport with him on stage. This thought-provoking piece by Lindsey Ferrentino narrates the poignant story of Nick Yarris, who faced 22 years of wrongful imprisonment on death row.",
-    "img": "https://static.toiimg.com/photo/msid-130556873,imgsize-104548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-fear-of-13-tessa-thompson-praises-adrien-brody-says-hes-a-tremendous-actor-hes-deeply-kind/articleshow/130556505.cms",
-    "time": "2026-04-27T14:04:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -405,24 +432,6 @@ const newsData_en = [
     "time": "2026-04-27T13:18:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ameesha recalls how a crowd stopped Bobby from hugging",
-    "desc": "Ameesha Patel recalled how fans of Gadar couldn’t accept her pairing with Bobby Deol during Humraaz, shouting that she “belongs to Tara Singh.” The moment turned unintentionally funny. She also shared a light anecdote about Sunny Deol’s popularity and dhaba love. Ameesha was last seen in Tauba Tera Jalwa.",
-    "img": "https://static.toiimg.com/photo/msid-130555804,imgsize-23950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-recalls-how-a-crowd-stopped-bobby-deol-from-hugging-her-during-humraaz-shoot-ye-to-tara-singh-ki-amanat-hai/articleshow/130555804.cms",
-    "time": "2026-04-27T13:17:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "When Raghav Chadha moved bill in 2022 that would have stopped his switch from AAP to BJP",
-    "desc": "In a major political development, Rajya Sabha MP Raghav Chadha on Friday quit the Aam Aadmi Party (AAP) and joined the Bharatiya Janata Party (BJP). The move comes days after an open rift with the AAP leadership. Announcing his decision at a press conference, Chadha said the party had strayed from its founding principles.",
-    "img": "https://static.toiimg.com/photo/msid-130555277,imgsize-117590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/when-raghav-chadha-moved-bill-in-2022-that-would-have-stopped-his-switch-from-aap-to-bjp/articleshow/130555230.cms",
-    "time": "2026-04-27T13:10:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Ek match mein open…’: Chahal’s hilarious plea to Preity Zinta leaves fans in splits",
     "desc": "Punjab Kings are dominating IPL 2026, leading the table with six wins from seven matches. Their batting prowess, with Prabhsimran Singh and Shreyas Iyer in top form, is the driving force behind their success. Meanwhile, spinner Yuzvendra Chahal humorously requested an opening batting chance from co-owner Preity Zinta, despite a quiet season with the ball.",
@@ -430,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-mam-ek-match-mein-open-yuzvendra-chahals-hilarious-plea-to-preity-zinta-leaves-fans-in-splits/articleshow/130555295.cms",
     "time": "2026-04-27T13:03:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanjay appears before NCW in connection to Sarke Chunar song controversy",
-    "desc": "Actor Sanjay Dutt appeared before the National Commission for Women and apologized for the song 'Sarke Chunar Teri Sarke'. The song faced backlash for its suggestive lyrics and choreography. The commission had taken suo motu cognisance of the matter. The lyrical video has been removed from YouTube. Nora Fatehi also addressed the controversy earlier.",
-    "img": "https://static.toiimg.com/photo/msid-130555056,imgsize-51516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutt-appears-before-ncw-for-the-summons-issued-for-sarke-chunar-song-with-nora-fatehi-issues-an-apology/articleshow/130555052.cms",
-    "time": "2026-04-27T12:50:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Iran attacks tanker with 12 Indian crew; AAP alleges Raghav Chadha-BJP conspiracy &amp; more",
-    "desc": "Iran attacked a tanker with 12 Indian crew near Oman; all safe. AAP accused Raghav Chadha of BJP conspiracy; he lost 2 million followers. 8 live bombs found near Bengal school weeks before polls. Gunman got close to Trump after checking into hotel days earlier. Kohli needs 11 runs to become first to 9000 IPL runs.",
-    "img": "https://static.toiimg.com/photo/msid-130554380,imgsize-125784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-iran-attacks-tanker-with-12-indian-crew-aap-alleges-raghav-chadha-bjp-conspiracy-more/articleshow/130553633.cms",
-    "time": "2026-04-27T12:24:27.000Z"
   },
   {
     "cat": "Business",
@@ -502,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-drop-at-your-own-peril-teams-pay-heavy-price-for-dropped-catches/articleshow/130550213.cms",
     "time": "2026-04-27T09:43:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Why are you fighting? You're 80': SC issues notice in Sunjay Kapur estate dispute, urges meditation",
-    "desc": "The Supreme Court has issued a notice to Priya Sachdev Kapur and 22 others in an estate dispute involving late businessman Sanjay Kapur. The court suggested mediation to resolve the prolonged family litigation, emphasizing an amicable solution. Rani Kapur's plea seeks to restrain respondents from interfering with the estate and its assets, citing concerns over potential dissipation.",
-    "img": "https://static.toiimg.com/photo/msid-130550162,imgsize-1070404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-are-you-fighting-youre-80-sc-issues-notice-in-sanjay-kapur-estate-dispute-urges-meditation/articleshow/130550169.cms",
-    "time": "2026-04-27T09:40:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC MP Mitali Bag’s car vandalised, windshield smashed; party blames BJP, alleges 'attempt on her life'",
-    "desc": "Trinamool Congress alleged that BJP \"goons\" attacked Arambag MP Mitali Bag's car, vandalizing it and causing her injuries. The party accused Union Home Minister Amit Shah of ordering the attack, calling it an attempt on the MP's life. The incident occurred on the last day of campaigning for the second phase of West Bengal Assembly polls.",
-    "img": "https://static.toiimg.com/photo/msid-130550100,imgsize-49100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-mp-mitali-bags-car-vandalised-windshield-smashed-party-blames-bjp-alleges-attempt-on-her-life/articleshow/130550053.cms",
-    "time": "2026-04-27T09:36:17.000Z"
   },
   {
     "cat": "Business",
@@ -819,24 +792,6 @@ const newsData_en = [
     "time": "2026-04-25T05:14:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Virat Kohli creates record, first batter to hit 800 boundaries, third batter to smash 300 sixes",
-    "desc": "Virat Kohli now has 807 boundaries to his name in 274 IPL matches, the most by any batter. He is well clear of the second-placed Shikhar Dhawan on the list of batters with the most boundaries in IPL",
-    "img": "https://th-i.thgim.com/public/incoming/skxzix/article70904347.ece/alternates/LANDSCAPE_1200/_DSC2545.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-virat-kohli-creates-record-first-batter-to-hit-800-boundaries-third-batter-to-smash-300-sixes/article70904340.ece",
-    "time": "2026-04-25T03:13:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Imagine India at the World Cup; wherever the team goes, people of Indian origin will turn up: Owen Coyle",
-    "desc": "The Jamshedpur FC head coach has a global view of football, thanks to his experiences around the world. In this interview, Coyle talks about returning to India, making it to the Premier League, meeting Alex Ferguson after beating Manchester United, and helping keep the streets of Burnley free of violence",
-    "img": "https://th-i.thgim.com/public/incoming/o2bjh9/article70903250.ece/alternates/LANDSCAPE_1200/Owen%20Coyle.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/owen-coyle-interview-isl-indian-football-premier-league-burnley-slex-ferguson-bolton/article70903261.ece",
-    "time": "2026-04-24T18:14:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold, silver drop for 3rd day on strengthening of U.S. dollar",
     "desc": "According to the All India Sarafa Association, the yellow metal of 99.9% purity slipped ₹200 to ₹1,55,900 per 10 grams (inclusive of all taxes) from Thursday's (April 23) closing level of ₹1,56,100 per 10 grams",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/filmmaker-payal-kapadia-named-jury-president-for-cannes-critics-week/article70895931.ece",
     "time": "2026-04-23T06:26:59.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Anthropic's Mythos AI model accessed by unauthorised users",
+    "desc": "A ‌handful of users in a private online forum ‌gained access to Mythos on ‌the ⁠same day that Anthropic ⁠first announced a plan to release the model to a limited number ​of companies ‌for testing purposes",
+    "img": "https://th-i.thgim.com/public/incoming/jmd0fg/article70682421.ece/alternates/LANDSCAPE_1200/20260219085L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-mythos-ai-model-accessed-by-unauthorized-users/article70892279.ece",
+    "time": "2026-04-22T12:16:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
