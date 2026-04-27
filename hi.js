@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Treble-searching Bayern up against defending champions PSG in Champions League semifinal",
+    "desc": "Bayern Munich, searching for a treble, will be up against the reigning champions, Paris Saint-Germain, in a bid for a place in the Champions League final. The first leg of the two-legged semifinal will take...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/treble-searching-bayern-up-against-defending-champions-psg-in-champions-league-semifinal-2026-04-27-1039125",
+    "time": "2026-04-27T18:18:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli becomes first player to breach elusive IPL record as RCB mow down DC in Delhi",
+    "desc": "Royal Challengers Bengaluru icon Virat Kohli added another feather to his illustrious cap as he became the first-ever player to hit 9000 runs in the Indian Premier League. Kohli, who has been with the RCB...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-becomes-first-player-to-breach-elusive-ipl-record-as-rcb-mow-down-dc-in-delhi-2026-04-27-1039121",
+    "time": "2026-04-27T17:16:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bhuvneshwar, Hazlewood mastermind DC's downfall as RCB register NRR boosting win in Delhi",
+    "desc": "While Virat Kohli and Devdutt Padikkal helped Royal Challengers Bengaluru chase down a meagre target of 76 against the Delhi Capitals, it was a victory that was set up by the bowlers. Bhuvneshwar Kumar and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-hazlewood-shine-as-rcb-mow-down-dc-in-nrr-boosting-win-in-delhi-2026-04-27-1039119",
+    "time": "2026-04-27T16:37:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Delhi Capitals 8/6, hit record low against RCB in horrific start to IPL 2026 Delhi clash",
     "desc": "Delhi Capitals were rocked hard by Royal Challengers Bengaluru in their IPL 2026 clash at the Arun Jaitley Stadium on Monday, April 27. The RCB bowlers, Bhuvneshwar Kumar and Josh Hazlewood, jolted the DC line-up...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-cruise-to-thomas-cup-quarterfinals-after-blanking-australia-in-second-group-outing-2026-04-27-1039089",
     "time": "2026-04-27T11:12:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli inches away from IPL immortality as RCB gear up for DC clash at Kotla",
-    "desc": "Royal Challengers Bengaluru legend Virat Kohli is on the brink of another massive IPL record as his team gears up for the IPL 2026 clash against the Delhi Capitals on Monday, April 27. Kohli, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-inches-away-from-ipl-immortality-as-rcb-gear-up-for-dc-clash-at-kotla-2026-04-27-1039085",
-    "time": "2026-04-27T10:31:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Playing for India is number one': Krunal Pandya weighs in on his journey, reminisces over his early years",
-    "desc": "There has been no doubt that Royal Challengers Bengaluru has been one of the strongest sides in the IPL (Indian Premier League) for the last two years now. Under the leadership of Rajat Patidar, RCB...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/playing-for-india-is-number-one-krunal-pandya-weighs-in-on-his-journey-reminisces-over-his-early-years-2026-04-27-1039076",
-    "time": "2026-04-27T09:29:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-Head record ahead game 39 in IPL 2026",
-    "desc": "Delhi Capitals and Royal Challengers Bengaluru continue their ongoing IPL (Indian Premier League) 2026 campaign by locking horns at the Arun Jaitley Stadium in Delhi. The two sides will take on each other on April...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rcb-head-to-head-record-ahead-game-39-in-ipl-2026-2026-04-27-1039072",
-    "time": "2026-04-27T09:04:42.000Z"
   }
 ];
