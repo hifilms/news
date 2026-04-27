@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 39",
+    "desc": "Delhi Capitals will be hosting Royal Challengers Bengaluru in game 39 of the ongoing IPL (Indian Premier League). The two sides will take on each other at the Arun Jaitley Stadium in Delhi on April...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rcb-3-player-battles-to-watch-out-for-in-ipl-2026-match-39-2026-04-27-1039055",
+    "time": "2026-04-27T07:00:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Arun Jaitley Stadium in Delhi play?",
+    "desc": "The stage is set for the 39th game of the ongoing IPL (Indian Premier League) 2026. Delhi Capitals will be taking on Royal Challengers Bengaluru at the Arun Jaitley Stadium in Delhi. The clash will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rcb-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-04-27-1039044",
+    "time": "2026-04-27T05:54:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "R Ashwin gives his take on Chennai Super Kings' dismal performance against Gujarat Titans",
     "desc": "Chennai Super Kings suffered a hefty loss against Gujarat Titans in game 37 of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the MA Chidamabaram Stadium in Chennai on April...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-return-in-ipl-2026-delayed-by-setback-coach-fleming-drops-concerning-update-after-gt-loss-2026-04-26-1039003",
     "time": "2026-04-26T16:18:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is obstructing the field rule in cricket? Why was Angrish Raghuvanshi ruled out this way in Lucknow clash",
-    "desc": "Angrish Raghuvanshi was ruled out for obstructing the field during the Lucknow Super Giants vs Kolkata Knight Riders IPL 2026 clash at the Ekana Cricket Stadium in Lucknow on Sunday, April 26. Raghuvanshi was on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-is-obstructing-the-field-rule-in-cricket-why-was-angrish-raghuvanshi-ruled-out-this-way-in-lucknow-clash-2026-04-26-1038999",
-    "time": "2026-04-26T15:38:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rare moment in IPL! Angrish Raghuvanshi given out for obstructing the field in LSG clash, KKR star blasts off",
-    "desc": "In a rare moment in the Indian Premier League 2026, Kolkata Knight Riders batter Angrish Raghuvanshi was given out obstructing the field during his team's clash against the Lucknow Super Giants at the Ekana Cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rare-moment-in-ipl-angrish-raghuvanshi-given-out-for-obstructing-the-field-in-lsg-clash-kkr-batter-blasts-off-2026-04-26-1038995",
-    "time": "2026-04-26T14:52:48.000Z"
   }
 ];
