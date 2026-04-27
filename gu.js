@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "1લી મેથી બદલાઈ જશે ગેસ સિલિન્ડરના ભાવ? આ નિયમોમાં પણ થશે ફેરફાર, જાણો",
+    "desc": "શહેરોમાં ગેસ સિલિન્ડર બુકિંગ વચ્ચેનો સમય વધારીને 25 દિવસ અને ગામડાઓમાં 35થી 45 દિવસ કરવામાં આવ્યો છે, જ્યારે OTP-આધારિત ડિલિવરી સિસ્ટમ કાયમી બનાવવામાં આવી રહી છે. વધુમાં, eKYC ફરજિયાત બનાવવામાં આવ્યું છે. હવે, સમાચાર આવી રહ્યા છે કે LPG ગેસ સિલિન્ડર સંબંધિત કેટલાક નિયમો 1 મેથી બદલાઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-gas-cylinder-prices-change-from-may-1-these-rules-will-also-change-know-475118 ",
+    "time": "2026-04-27T13:23:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "વિવાદ પછી થલપતિ વિજયની ફિલ્મ જન નાયકન થશે રિલીઝ, જાણી લો ડેટ",
+    "desc": "થલપતિ વિજયની ફિલ્મ જન નાયકન 9 જાન્યુઆરીએ રિલીઝ થવાની હતી પરંતુ સેન્સર બોર્ડ અને કાયદાકીય જંગના કારણે ફિલ્મની રિલીઝ અટકી ગઈ હતી. હવે આ ફિલ્મ રિલીઝ થવા જઈ રહી છે. જાણવા મળતી માહિતી અનુસાર ગણતરીના દિવસોમાં આ ફિલ્મને બોક્સ ઓફિસ પર રિલીઝ કરી દેવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/thalapathy-vijay-jana-nayagan-film-release-date-latest-update-475116 ",
+    "time": "2026-04-27T12:49:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પેટ્રોલ પંપ પર મફતમાં મળે છે આ 7 સુવિધાઓ, પૈસા માંગે તો તાત્કાલિક આ નંબર પર કરો ફરિયાદ",
+    "desc": "શું તમે જાણો છો કે જે પેટ્રોલ પંપ પર તમે તમારા વાહનમાં ફ્યુઅલ ભરાવા જાઓ છો તો આ 7 સેવાઓ સંપૂર્ણપણે મફત મળે છે ? હવા અને પાણીથી લઈને ઈમરજન્સી કોલ સુધી આ તમારા કાનૂની અધિકારો છે. જો કોઈ તેમને આપવાનો ઇનકાર કરે છે, તો તમે ફરિયાદ નોંધાવી શકો છો. પેટ્રોલ પંપનું લાઇસન્સ પણ રદ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/these-7-facilities-are-available-for-free-at-petrol-pumps-check-full-details-475114 ",
+    "time": "2026-04-27T12:34:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ સ્ટાર બેટ્સમેનનું IPL કરિયર ખતમ ? આગામી સિઝનમાં ખરીદદાર મળવો પણ મુશ્કેલ",
+    "desc": "આ ભારતીય ખેલાડી માટે 2026ની IPL સીઝન આખરી સાબિત થઈ શકે છે. કોઈપણ ટીમ આગામી IPL સીઝન માટે તેને ખરીદવા આગળ આવશે તેવું લાગતું નથી. નજીકના ભવિષ્યમાં તેની IPLમાં રમવાની શક્યતા ખૂબ જ ઓછી છે. એવું લાગે છે કે આ ભારતીય ખેલાડીની IPL કારકિર્દી વર્તમાન સીઝન સાથે જ સમાપ્ત થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/is-ajinkya-rahane-ipl-career-over-kkr-captain-flop-show-continues-in-ipl-2026-475112 ",
+    "time": "2026-04-27T12:06:27.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "મે મહિનામાં 12 દિવસ બંધ રહેશે બેંકો ! જાણો RBIએ કેમ આપી આટલી રજા",
     "desc": "આવતા મહિને એટલે કે મે મહિનામાં બેંકો કુલ 12 દિવસ બંધ રહેશે. તેથી જો તમે કોઈ પણ કામ માટે આવતા મહિને બેંકની મુલાકાત લેવાનું આયોજન કરી રહ્યા છો, તો તમારે મે મહિનાની બેંક રજાઓની યાદી ચોક્કસપણે અગાઉથી તપાસવી જોઈએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -414,15 +450,6 @@ const newsData_gu = [
     "time": "2026-04-24T11:07:45.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ભારત પહેલા પાકિસ્તાન માટે ક્રિકેટ રમી ચૂક્યા છે સચિન તેંડુલકર, 99% લોકોને ખબર નહીં હોય",
-    "desc": "મહાન ક્રિકેટર સચિન તેંડુલકરનો આજે જન્મદિવસ છે. તેમને દેશ વિદેશમાંથી લોકો શુભેચ્છાઓ પાઠવી રહ્યા છે. ક્રિકેટના ઈતિહાસના સૌથી મોટા બેટર્સમાં તેમની ગણતરી થાય છે. 1989માં તેમણે ભારત માટે ડેબ્યુ કર્યું હતું. પણ તમને શું સચિન તેંડુલકર વિશે આ વાત ખબર છે? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/happy-birthday-sachin-tendulkar-unique-incident-when-he-played-club-cricket-for-pakistan-474604 ",
-    "time": "2026-04-24T09:30:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "શું લઘુત્તમ પગાર વધીને ₹72,000 થશે? જો સરકાર માંગ સ્વીકારે તો શું બદલાશે?",
     "desc": "કેન્દ્રીય કર્મચારી સંગઠનો દ્વારા આઠમા પગાર પંચને પોતાની માંગણીઓ અંગેના પત્રો સોંપવામાં આવી રહ્યા છે. હવે સંરક્ષણ મંત્રાલયના સિવિલિયન કર્મચારીઓનું પ્રતિનિધિત્વ કરતા ભારતીય પ્રતિરક્ષા મજૂર સંઘ (BPMS) એ મેમોરેન્ડમ સોંપીને ફિટમેન્ટ ફેક્ટરને ચાર ગણું કરવાની માંગ કરી છે.",
@@ -457,24 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-film-bhoot-bangla-box-office-collection-latest-news-in-gujarati-474593 ",
     "time": "2026-04-24T06:55:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "1 મેથી બદલાઈ જશે EPFOમાં પૈસા ઉપાડવાનો નિયમ, ખાલી આટલું કરી નાંખજો, નહીં પડે કોઈ તકલીફ",
-    "desc": "જો તમારું પીએફ (PF) એકાઉન્ટ છે, તો તમારા માટે આ એક ખૂબ જ મહત્વપૂર્ણ અપડેટ છે. હવે તમે UPI દ્વારા પીએફના પૈસા ઉપાડી શકશો. 1 મે 2026 થી EPFO ના આ નવા નિયમો લાગુ થવા જઈ રહ્યા છે. હવે અઠવાડિયાની રાહ જોવાનો અંત આવશે અને મિનિટોમાં તમારા ખાતામાં પૈસા જમા થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/pf-withdrawal-rules-how-much-provident-fund-balance-can-you-withdraw-using-atm-and-upi-474591 ",
-    "time": "2026-04-24T06:53:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "વહેલી સવારે જાહેર થયા પેટ્રોલ-ડીઝલના આજના ભાવ, જાણો અમદાવાદ સહિત શહેરોમાં લેટેસ્ટ રેટ",
-    "desc": "મિડલ ઈસ્ટ અને હોર્મુઝનું સંકટ યથાવત રહેતા આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઈલના ભાવમાં ઉછાળો જોવા મળી રહ્યો છે. જેને પગલે પેટ્રોલ ડીઝલના ભાવ વધે તેવી લોકોને આશંકા છે. ગુજરાતના મોટા શહેરોમાં પેટ્રોલ અને ડીઝલના ભાવ કેટલે પહોંચ્યા તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/crude-oil-prices-rise-know-today-petrol-and-diesel-latest-price-ahmedabad-petrol-price-474580 ",
-    "time": "2026-04-24T05:02:09.000Z"
   },
   {
     "cat": "World",
@@ -628,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/why-ali-asgar-left-kapil-show-after-many-years-actor-ali-asgar-reveals-why-he-quit-working-with-kapil-sharma-473602 ",
     "time": "2026-04-18T02:36:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ટોસ્ટરથી લઈ મટકા કિંગ સુધીની નવી ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ, ચેક કરી લો લિસ્ટ",
-    "desc": "એપ્રિલ મહિનાનું આ ત્રીજું વીકેન્ડ છે અને આ વીકેન્ડ ઓટીટી લવર્સ માટે ખાસ છે. કારણ કે આ વખતે ઓટીટી પ્લેટફોર્મ પર અલગ અલગ જોનરની ફિલ્મો અને સીરીઝ રિલીઝ થઈ છે. એટલે આ વીકેન્ડ ફુલ ઓન એન્ટરટેનમેન્ટમાં પસાર થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/17-april-2026-ott-release-list-of-5-new-hindi-film-and-web-series-released-on-ott-this-week-473497 ",
-    "time": "2026-04-17T07:19:47.000Z"
   }
 ];

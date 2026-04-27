@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Is DC star playing today in IPL 2026 clash against RCB in Delhi?",
+    "desc": "Lungi Ngidi misses out as Delhi Capitals take on Royal Challengers Bengaluru in their eighth match of the Indian Premier League 2026 at the Arun Jaitley Stadium in Delhi on Monday, April 27. Ngidi suffered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-injury-update-is-dc-star-playing-today-in-ipl-2026-clash-against-rcb-in-delhi-2026-04-27-1039104",
+    "time": "2026-04-27T13:39:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Real Madrid confirm thigh issue to star forward weeks ahead of El Clasico",
+    "desc": "Real Madrid have confirmed that their star forward Kylian Mbappe has 'an injury to the semitendinosus muscle' in the left leg, as the French international is in doubt for the El Clasico against Barcelona. Mbappe...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-injury-update-real-madrid-confirm-thigh-issue-to-star-forward-weeks-ahead-of-el-clasico-2026-04-27-1039101",
+    "time": "2026-04-27T13:17:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur eyes major T20 record as India women look for consolatory win against South Africa",
+    "desc": "India captain Harmanpreet Kaur is eyeing a major T20 record as India look for a consolatory win against South Africa in the fifth and final T20I of the series at the Willowmoore Park, Benoni. Kaur...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-eyes-major-t20-record-as-india-women-look-for-consolatory-win-against-south-africa-2026-04-27-1039094",
+    "time": "2026-04-27T11:56:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India cruise to Thomas Cup quarterfinals after blanking Australia in second group outing",
+    "desc": "The Indian team stormed into the quarterfinals of the Thomas Cup Finals after registering a 5-0 sweep over Australia in their second Group A tie in Horsens, Denmark on Monday, April 27. After beating Canada...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-cruise-to-thomas-cup-quarterfinals-after-blanking-australia-in-second-group-outing-2026-04-27-1039089",
+    "time": "2026-04-27T11:12:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli inches away from IPL immortality as RCB gear up for DC clash at Kotla",
     "desc": "Royal Challengers Bengaluru legend Virat Kohli is on the brink of another massive IPL record as his team gears up for the IPL 2026 clash against the Delhi Capitals on Monday, April 27. Kohli, the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rcb-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-04-27-1039044",
     "time": "2026-04-27T05:54:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "R Ashwin gives his take on Chennai Super Kings' dismal performance against Gujarat Titans",
-    "desc": "Chennai Super Kings suffered a hefty loss against Gujarat Titans in game 37 of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the MA Chidamabaram Stadium in Chennai on April...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-gives-his-take-on-chennai-super-kings-dismal-performance-against-gujarat-titans-2026-04-27-1039037",
-    "time": "2026-04-27T05:01:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand women announce squad for white-ball tour to England, Amelia Kerr named captain",
-    "desc": "In a major development for NZC (New Zealand Cricket), the board came forward and announced New Zealand's women’s squad for the upcoming white-ball tour to England. It is worth noting that both New Zealand and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-women-announce-squad-for-white-ball-tour-to-england-amelia-kerr-named-captain-2026-04-27-1039033",
-    "time": "2026-04-27T04:04:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajinkya Rahane weighs in on KKR's close-quarter victory against LSG, heaps praise on Rinku Singh",
-    "desc": "Game 38 of the ongoing IPL (Indian Premier League) saw Lucknow Super Giants taking on Kolkata Knight Riders. The two sides locked horns at the Ekana Stadium in Lucknow on April 26. Both sides have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-weighs-in-on-kkr-s-close-quarter-victory-against-lsg-heaps-praise-on-rinku-singh-2026-04-27-1039020",
-    "time": "2026-04-27T02:18:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rinku Singh headlines KKR's thrilling victory against LSG; Joins Kallis, Parag in elite list",
-    "desc": "Kolkata Knight Riders and Lucknow Super Giants engaged in one of the most thrilling encounters in the ongoing edition of the IPL (Indian Premier League) 2026 so far. The two sides locked horns in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-headlines-kkr-s-thrilling-victory-against-lsg-joins-kallis-parag-in-elite-list-2026-04-27-1039015",
-    "time": "2026-04-27T01:21:26.000Z"
   }
 ];
