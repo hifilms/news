@@ -1,6 +1,60 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Kritika Kamra says love with Gaurav Kapur wasn’t instant",
+    "desc": "After dating for a few years, Kritika Kamra tied the knot with Gaurav Kapur in an intimate ceremony at their Mumbai home on March 11, 2026. Now, in a recent chat, the actress has opened up about love, relationships and why she chose to keep her wedding simple and personal.",
+    "img": "https://static.toiimg.com/photo/msid-130590229,imgsize-75074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kritika-kamra-says-love-with-gaurav-kapur-wasnt-instant-realising-i-want-to-be-with-him-for-life-took-time/articleshow/130590225.cms",
+    "time": "2026-04-28T21:17:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal turns fortress for phase-II poll: 2.3 lakh CAPF &amp; 38,297 state cops in place",
+    "desc": "West Bengal's final assembly polls are underway with an unprecedented security deployment across 142 constituencies. Over 2.3 lakh central forces and state police are on duty, alongside observers and NIA teams, to ensure a fear-free and fair election. A significant crackdown has led to over 800 arrests and preventive detentions, targeting potential troublemakers in sensitive zones.",
+    "img": "https://static.toiimg.com/photo/msid-130590246,imgsize-20386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bengal-turns-fortress-for-phase-ii-poll-2-3-lakh-capf-38297-state-cops-in-place/articleshow/130590232.cms",
+    "time": "2026-04-28T21:16:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tribunals restore 1,468 votes in West Bengal, delete six names for second phase",
+    "desc": "Supreme Court-mandated tribunals restored voting rights for 1,468 people in West Bengal before the second phase of polls, bringing the total reinstatements to 1,607. This follows the deletion of 27 lakh voters under the \"logical discrepancy\" clause, with scrutiny intensifying due to a high restoration-to-deletion ratio.",
+    "img": "https://static.toiimg.com/photo/msid-130590133,imgsize-169764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tribunals-restore-1468-votes-in-west-bengal-delete-six-names-for-second-phase/articleshow/130590127.cms",
+    "time": "2026-04-28T20:44:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Lone wolf' asks 2 guards their faith, stabs them",
+    "desc": "A man arrested for stabbing two security guards in Mira Road allegedly questioned their religion before the attack. The assailant, Zaib Zubair Ansari, asked one guard if he was Hindu and another to recite the 'kalma' before stabbing them. Authorities are investigating the incident as a 'lone wolf' attack, with the Chief Minister calling the attacker \"self-radicalised.\"",
+    "img": "https://static.toiimg.com/photo/msid-130590068,imgsize-379342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lone-wolf-asks-2-guards-their-faith-stabs-them/articleshow/130590062.cms",
+    "time": "2026-04-28T20:20:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul meets Nicobarese community, promises to fight against infra project",
+    "desc": "Leader of the Opposition in the Lok Sabha met with Nicobarese community leaders resisting the Union government’s mega infrastructure project, settler and ex-servicemen families, and paid floral tributes to former PM Indira Gandhi at Indira Point",
+    "img": "https://th-i.thgim.com/public/incoming/288j36/article70917154.ece/alternates/LANDSCAPE_1200/20260428329L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/rahul-gandhi-reaches-great-nicobar-says-he-made-it-despite-administrations-efforts-to-stop-him/article70916784.ece",
+    "time": "2026-04-28T19:57:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "On SCO sidelines, Rajnath and China's defence minister discuss West Asia developments",
+    "desc": "Defence Minister Rajnath Singh met his Chinese counterpart Admiral Dong Jun on the sidelines of the SCO Defence Ministers' meeting in Bishkek. The two leaders discussed regional and global security, including developments in West Asia, amidst ongoing efforts to rebuild ties after the 2020 LAC standoff. Singh also held discussions on bilateral defence cooperation with his Russian counterpart.",
+    "img": "https://static.toiimg.com/photo/msid-130589662,imgsize-184996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/on-sco-sidelines-rajnath-and-chinas-defence-minister-discuss-west-asia-developments/articleshow/130589665.cms",
+    "time": "2026-04-28T19:23:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Aus minister Tony Burke says he’s a ‘big Shah Rukh Khan fan’",
     "desc": "Bollywood enjoys a massive global fanbase, but it’s not every day that a senior international politician openly declares his love for it. Australia’s Home Affairs Minister Tony Burke has done just that—and how. During a chat, Burke got straight to the point. “I am a big Shah Rukh Khan fan, so let me start with that,” he said, setting the tone for a conversation filled with Bollywood nostalgia.",
     "img": "https://static.toiimg.com/photo/msid-130589342,imgsize-39354.cms",
@@ -189,24 +243,6 @@ const newsData_en = [
     "time": "2026-04-28T17:13:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "funeral held on the Kishanganga’s banks prompts calls to reopen LoC crossing points",
-    "desc": "Siblings of the dead Kupwara resident, who have lived in POK since 1989, bid farewell to their brother from across the river; LoC crossing points used by such divided families were shut by the Centre in 2019",
-    "img": "https://th-i.thgim.com/public/incoming/gb2d6x/article70917849.ece/alternates/LANDSCAPE_1200/850420.II2",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/a-grief-divided-funeral-held-on-the-kishangangas-banks-prompts-calls-to-reopen-loc-crossing-points/article70916929.ece",
-    "time": "2026-04-28T16:52:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "West Bengal goes to the polls in the second phase of Assembly election",
-    "desc": "The 142 seats going to the polls in the second phase are spread across seven districts of south Bengal, including Kolkata; about 3.21 crore electors will determine the fate of 1,448 candidates in the fray",
-    "img": "https://th-i.thgim.com/public/incoming/xnu1tu/article70917833.ece/alternates/LANDSCAPE_1200/20260428520L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-goes-to-the-polls-in-the-second-phase-of-assembly-election/article70917504.ece",
-    "time": "2026-04-28T16:44:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘The Devil Wears Prada 3’ buzz grows ahead of sequel",
     "desc": "Before the second film has even been released, the cast is already buzzing about a possible third installment. Stars from the sequel have been openly discussing what the future of the franchise could look like. The conversation around Part 3 has started much earlier than anyone expected.",
@@ -268,24 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-the-film-divyenndu-aka-munna-bhaiya-promises-full-paisa-vasool-ride-its-gonna-be-big-very-big/articleshow/130584207.cms",
     "time": "2026-04-28T15:24:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I'm going to die': Guard recalls supervisor's distress call in Mira Road stabbing case",
-    "desc": "According to police officials, the accused approached the guards stationed at an under-construction building near Wockhardt Hospital in the early hours of Monday, around 4.00 am. He reportedly asked them to recite the Kalma, an important Islamic declaration of faith, before launching the attack. Police moved swiftly after the attack, scanning CCTV footage from the area to trace the suspect. Ansari was tracked down and apprehended within roughly 90 minutes. He was later taken to Naya Nagar Police Station, where a case was registered against him under charges including attempted murder and promoting enmity between communities.",
-    "img": "https://static.toiimg.com/photo/msid-130583693,imgsize-86298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/im-going-to-die-guard-recalls-supervisors-distress-call-in-mira-road-stabbing-case/articleshow/130582312.cms",
-    "time": "2026-04-28T14:51:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Politics has its place': Akhilesh Yadav visits BJP MLA who was injured while burning his effigy",
-    "desc": "SP leader Akhilesh Yadav visited BJP MLA Anupama Jaiswal in a Lucknow hospital after she sustained severe facial burns while attempting to set fire to an effigy. Yadav expressed his wishes for her speedy recovery, emphasizing that political differences should not overshadow compassion and human relationships. Jaiswal's husband lauded the visit as an act of \"human sensitivity and democratic courtesy.\"",
-    "img": "https://static.toiimg.com/photo/msid-130583547,imgsize-1033643.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/politics-has-its-place-akhilesh-yadav-visits-bjp-mla-who-was-injured-while-burning-his-effigy/articleshow/130582994.cms",
-    "time": "2026-04-28T14:47:32.000Z"
   },
   {
     "cat": "Sports",
@@ -378,15 +396,6 @@ const newsData_en = [
     "time": "2026-04-28T13:22:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "MEA condemns Mali terror attacks, calls for regional stability",
-    "desc": "India has strongly condemned the \"terrorist attacks\" in Mali, extending condolences to victims and expressing solidarity with the nation. The Ministry of External Affairs also mourned the death of Mali's Defence Minister in the assault. This coordinated militant offensive, the largest in over a decade, has significantly worsened security, despite Russian support for the military government.",
-    "img": "https://static.toiimg.com/photo/msid-130581400,imgsize-806016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mea-condemns-mali-terror-attacks-calls-for-regional-stability/articleshow/130580851.cms",
-    "time": "2026-04-28T13:12:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘They said I’d never fix it’: Shreyas reveals how short-ball criticism ‘triggered’ him",
     "desc": "Punjab Kings captain Shreyas Iyer revealed that relentless criticism about his short-ball struggles fueled a dramatic batting transformation in IPL 2026. He admitted that doubts triggered a shift in mindset and preparation, leading him to aggressively attack short deliveries. This improved control against pace has been crucial to Punjab's unbeaten streak, including a record-breaking chase.",
@@ -432,33 +441,6 @@ const newsData_en = [
     "time": "2026-04-28T12:27:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Airlines send SOS over fuel prices, 89-year-old gunman injures several in Greece &amp; more",
-    "desc": "Indian airlines are facing a financial crisis due to high ATF prices, prompting the Federation of Indian Airlines to seek urgent government intervention. Meanwhile, a political row erupted in West Bengal over an IPS officer's warning against a TMC leader accused of voter intimidation. In Gujarat, the BJP achieved a significant victory in civic polls, winning all 15 municipal corporations.",
-    "img": "https://static.toiimg.com/photo/msid-130580048,imgsize-897811.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-airlines-send-sos-over-fuel-prices-89-year-old-gunman-injures-several-in-greece-more/articleshow/130579368.cms",
-    "time": "2026-04-28T12:24:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'At no point ... ': Shashi Tharoor refutes Kiren Rijiju's claim that he agreed Congress is 'anti-women'",
-    "desc": "Reiterating the Congress party’s position, Tharoor pointed to its past record on women’s representation and said the party has consistently backed reservation for women. “@INCIndia has stood for women's rights and women's reservation under a strong woman President in Sonia Gandhi, initiated the Women's Reservation Bill, passed it in the Rajya Sabha during our tenure and supported it in the Lok Sabha when it was brought by GoI in 2023,” he said.",
-    "img": "https://static.toiimg.com/photo/msid-130579860,imgsize-37092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/at-no-point-shashi-tharoor-refutes-kiren-rijijus-claim-that-he-agreed-congress-is-anti-women/articleshow/130579397.cms",
-    "time": "2026-04-28T12:16:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "All eyes on Mamata vs BJP — date, timing, when and where to watch",
-    "desc": "West Bengal's crucial assembly elections are nearing their conclusion, with exit polls set to release on April 29 and final results on May 4. The state witnessed record voter turnout in Phase 1, and Phase 2, covering key strongholds including Mamata Banerjee's Bhabanipur constituency, is now underway. Prominent leaders from TMC and BJP are in contention.",
-    "img": "https://static.toiimg.com/photo/msid-130579875,imgsize-1023598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-exit-polls-all-eyes-on-mamata-vs-bjp-date-timing-when-and-where-to-watch/articleshow/130579773.cms",
-    "time": "2026-04-28T12:14:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sonali Bendre on Cancer, says early detection could have changed everything",
     "desc": "Sonali Bendre, the courageous actress and stage 4 cancer survivor, opened up about her healing journey, spotlighting the invaluable support from friends and family as well as the necessity for honest dialogue about illness. She recalled the stigmatization of cancer in the past and mused that better awareness and early detection could have significantly impacted her experience.",
@@ -495,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-28T11:52:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Calcutta HC refuses action against poll officers till April 29 amid row involving IPS officer Ajay Pal Sharma",
-    "desc": "The Calcutta High Court has refused to intervene in allegations against election observer Ajay Pal Sharma, citing the ongoing polling period. A lawyer's plea to restrain the IPS officer, accused of violating the Model Code of Conduct and intimidating voters in South 24 Parganas, was dismissed. The court advised approaching the Election Commission for redressal amidst a political row.",
-    "img": "https://static.toiimg.com/photo/msid-130579246,imgsize-873360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/calcutta-hc-refuses-action-against-poll-officers-till-april-29-amid-row-involving-ips-officer-ajay-pal-sharma/articleshow/130578573.cms",
-    "time": "2026-04-28T11:51:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "England pick 18-year-old spinner in Nat Sciver-Brunt-led T20 World Cup squad",
     "desc": "England has announced their squad for the ICC Women's T20 World Cup 2026, with Nat Sciver-Brunt captaining the team for the home tournament. The expanded 12-team competition, running from June 12 to July 5, sees the hosts aiming for global glory with a blend of experience and new talent, including uncapped spinner Tilly Corteen-Coleman.",
@@ -529,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/thank-god-we-got-pregnant-angad-bedi-was-chasing-neha-dhupia-for-8-years-she-said-yes-for-marriage-when-she-concieved/articleshow/130577519.cms",
     "time": "2026-04-28T10:52:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Satinder Sartaaj recorded ‘Jaiye Sajana’ hook in 15 minutes",
-    "desc": "The Revenge' just before the film's international debut. This last-minute creative burst resulted in an overwhelming audience reaction, prompting T-Series to release an extended version, cementing the song’s legacy as a cornerstone of the film's auditory appeal.",
-    "img": "https://static.toiimg.com/photo/msid-130577197,imgsize-1847175.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/satinder-sartaaj-on-creating-dhurandhar-2-viral-jaiye-sajana-hook-in-15-minutes-shut-my-studio-and-went-for-my-concert/articleshow/130577197.cms",
-    "time": "2026-04-28T10:40:10.000Z"
   },
   {
     "cat": "Business",
@@ -855,15 +819,6 @@ const newsData_en = [
     "time": "2026-04-25T21:24:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Liverpool close on Champions League but may have seen last of Salah",
-    "desc": "British transfer record signing Alexander Isak scored his first goal since returning from a leg break as he smartly controlled Alexis Mac Allister's wayward effort on goal and swivelled on the ball to volley it past Dean Henderson",
-    "img": "https://th-i.thgim.com/public/incoming/vuhief/article70906607.ece/alternates/LANDSCAPE_1200/2026-04-25T161325Z_1464840168_UP1EM4P16PL1N_RTRMADP_3_SOCCER-ENGLAND-LIV-CRY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/liverpool-close-on-champions-league-but-may-have-seen-last-of-salah/article70906606.ece",
-    "time": "2026-04-25T20:41:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Lawrence of Punjab' docu-series: Congress leader Randhawa gets threat message",
     "desc": "In the threat message, the names of other persons including Punjab Congress chief Amrinder Singh Raja Warring, SAD leader Bikram Singh Majithia, DGP Gaurav Yadav, Balkaur Singh, father of slain singer Sidhu Moosewala were also mentioned",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/jerax-series-review-kannada-zee5-witty-fantasy-drama-fine-performances-srinidhi-bengaluru-nagabhushana-daali-dhananjaya/article70904353.ece",
     "time": "2026-04-25T05:14:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Recent hits give Malayalam film industry a shot in the arm",
+    "desc": "A couple of young and talented filmmakers have scripted success in the Malayalam film industry through their recent ventures. G. Krishnakumar finds out how the youngsters have rekindled hope in the industry that has been struggling to stay afloat",
+    "img": "https://th-i.thgim.com/public/incoming/tuixbc/article70898028.ece/alternates/LANDSCAPE_1200/Film03.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/recent-hits-give-malayalam-film-industry-a-shot-in-the-arm/article70893244.ece",
+    "time": "2026-04-24T04:18:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Has Anthropic’s Mythos made the cure worse than the disease?",
+    "desc": "In the world of cybersecurity, defenders are, to put it crudely, your anti-virus sellers, helping you fix security vulnerabilities and keep data safe. But that simple business model is being disrupted by speed and scale.",
+    "img": "https://th-i.thgim.com/public/incoming/l9l8ep/article70721073.ece/alternates/LANDSCAPE_1200/2015-06-21T034151Z_1385551238_GF10000134665_RTRMADP_3_CYBERSECURITY-USA-DEEP-PANDA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/has-anthropics-mythos-made-the-cure-worse-than-the-disease/article70896095.ece",
+    "time": "2026-04-24T03:46:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The ‘Matka King’ actor on working across languages and her quest for longevity",
+    "desc": "Sai Tamhankar opens up about being part of the movie industry for long, her thoughts on challenging people’s perception, why she takes success and failure of her films with a pinch of salt and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/nv4d96/article70896701.ece/alternates/LANDSCAPE_1200/Saiee.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/sai-tamhankar-interview-the-matka-king-actor-on-working-across-languages-and-her-quest-for-longevity/article70896695.ece",
+    "time": "2026-04-23T12:14:55.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The origin stories of SPAM",
+    "desc": "The months of April and May could well be celebrated as the birth months of spam — those notoriously undesired messages that clog our information highways. This is because the earliest known case of spam took place on May 3, 1978 and the first such case in the Web as we know it now took place on April 12, 1994. A.S.Ganesh turns off his spam filters to give you these two tales…",
+    "img": "https://th-i.thgim.com/public/incoming/lnb78u/article70814909.ece/alternates/LANDSCAPE_1200/2013-03-27T190517Z_01_PXP400_RTRMDNP_3_INTERNET-ATTACK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/the-origin-stories-of-spam/article70814926.ece",
+    "time": "2026-04-23T09:46:50.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Anthropic's Mythos AI model accessed by unauthorised users",
+    "desc": "A ‌handful of users in a private online forum ‌gained access to Mythos on ‌the ⁠same day that Anthropic ⁠first announced a plan to release the model to a limited number ​of companies ‌for testing purposes",
+    "img": "https://th-i.thgim.com/public/incoming/jmd0fg/article70682421.ece/alternates/LANDSCAPE_1200/20260219085L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-mythos-ai-model-accessed-by-unauthorized-users/article70892279.ece",
+    "time": "2026-04-22T12:16:41.000Z"
   }
 ];
