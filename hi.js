@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli inaugurates new West Delhi Cricket Academy branch at DPS RK Puram",
+    "desc": "Star India batter Virat Kohli is undoubtedly one of the most influential players in world cricket. Widely revered as one of the greatest batters of all time, Kohli is once again tearing it up in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-inaugurates-new-west-delhi-cricket-academy-branch-at-dps-rk-puram-watch-2026-04-28-1039176",
+    "time": "2026-04-28T08:12:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Start fresh': Former India cricketer advises Delhi Capitals after humiliating loss against RCB",
+    "desc": "Axar Patel-led Delhi Capitals sustained a heavy defeat against Royal Challengers Bengaluru in game 39 of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Arun Jaitley Stadium, and coming in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/start-fresh-former-india-cricketer-advises-delhi-capitals-after-humiliating-loss-against-rcb-2026-04-28-1039167",
+    "time": "2026-04-28T06:56:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cheteshwar Pujara discusses Punjab Kings' potential game plan to tackle Vaibhav Sooryavanshi ahead of RR clash",
+    "desc": "Punjab Kings and Rajasthan Royals are due to lock horns in the 40th game of the ongoing IPL (Indian Premier League) 2026. With the game slated to be played on April 28, many eyes will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cheteshwar-pujara-discusses-punjab-kings-potential-game-plan-to-tackle-vaibhav-sooryavanshi-ahead-of-rr-clash-2026-04-28-1039160",
+    "time": "2026-04-28T06:04:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Player battles to watch out for in IPL 2026 Match 40",
     "desc": "Punjab Kings host Rajasthan Royals in the 40th game of the ongoing IPL (Indian Premier League) 2026. The two sides will meet at the Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur on April 28....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/treble-searching-bayern-up-against-defending-champions-psg-in-champions-league-semifinal-2026-04-27-1039125",
     "time": "2026-04-27T18:18:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli becomes first player to breach elusive IPL record as RCB mow down DC in Delhi",
-    "desc": "Royal Challengers Bengaluru icon Virat Kohli added another feather to his illustrious cap as he became the first-ever player to hit 9000 runs in the Indian Premier League. Kohli, who has been with the RCB...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-becomes-first-player-to-breach-elusive-ipl-record-as-rcb-mow-down-dc-in-delhi-2026-04-27-1039121",
-    "time": "2026-04-27T17:16:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar, Hazlewood mastermind DC's downfall as RCB register NRR boosting win in Delhi",
-    "desc": "While Virat Kohli and Devdutt Padikkal helped Royal Challengers Bengaluru chase down a meagre target of 76 against the Delhi Capitals, it was a victory that was set up by the bowlers. Bhuvneshwar Kumar and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-hazlewood-shine-as-rcb-mow-down-dc-in-nrr-boosting-win-in-delhi-2026-04-27-1039119",
-    "time": "2026-04-27T16:37:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals 8/6, hit record low against RCB in horrific start to IPL 2026 Delhi clash",
-    "desc": "Delhi Capitals were rocked hard by Royal Challengers Bengaluru in their IPL 2026 clash at the Arun Jaitley Stadium on Monday, April 27. The RCB bowlers, Bhuvneshwar Kumar and Josh Hazlewood, jolted the DC line-up...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-8-6-hit-record-low-against-rcb-in-horrific-start-to-ipl-2026-delhi-clash-2026-04-27-1039116",
-    "time": "2026-04-27T15:34:59.000Z"
   }
 ];

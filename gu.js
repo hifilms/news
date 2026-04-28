@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "સોના-ચાંદી રાતોરાત ખુબ સસ્તા થયા, એક ઝટકે ભાવમાં ધરખમ ઘટાડો, ફટાફટ આજનો ભાવ જાણો",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે ધરખમ ઘટાડો જોવા મળ્યો છે. લગ્નગાળો ચાલુ છે એટલે સોના અને ચાંદીના દાગીના ખરીદવા માંગતા લોકોને મોજ પડી શકે. જો તમે પણ સોનું કે ચાંદી ખરીદવા માંગતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-drop-in-gold-and-silver-prices-check-mcx-ibja-latest-rates-aaj-no-sona-chandi-no-bhav-gold-rate-today-475261 ",
+    "time": "2026-04-28T07:10:39.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "હવે Aadhaar થી સાબિત નહીં થાય તમારી ઉંમર, ડેટ ઓફ બર્થના પુરાવા તરીકે આપવા પડશે આ દસ્તાવેજ",
     "desc": "Aadhaar કાર્ડને લઈને મોટું અપડેટ સામે આવ્યું છે. UIDAI એ સ્પષ્ટ કરી દીધું છે કે આધાર હવે જન્મતારીખ (DOB) ને પાક્કો પુરાવો માનવામાં આવશે નહીં. આવો તમને જણાવીએ કેમ આધારથી ઉંમર સાબિત થશે નહીં, તે માટે ક્યા દસ્તાવેજની જરૂર પડશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -385,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/indias-tallest-building-is-in-which-city-the-building-is-just-smaller-than-the-burj-khalifa-474804 ",
     "time": "2026-04-25T11:57:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાઘવ ચડ્ઢા નહીં પરંતુ આ નેતાનું AAP છોડી ભાજપમાં જવું કેજરીવાલ માટે બન્યો 440 વોલ્ટનો ઝટકો!",
-    "desc": "આમ આદમી પાર્ટીના મજબૂત નેતાઓ ગણાતા રાઘવ ચડ્ઢા, સ્વાતિ માલિવાલ, સહિત 7 નેતાઓએ પાર્ટી છોડી અને ભાજપમાં જોડાવાની વાતોએ રાજકીય ભૂકંપ લાવી દીધો. જો કે આ બધા નેતાઓમાં જો સૌથી વધુ કોઈ નેતાનું પાર્ટી છોડવું AAP માટે અસહ્ય બન્યું હોય તો તે રાઘવ ચડ્ઢા નહીં પરંતુ જેમની ગણતરી પાર્ટીના ચાણક્ય તરીકે થતી હતી તે નેતા છે. ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/know-about-sandeep-pathak-and-his-closeness-with-arvind-kejriwal-474785 ",
-    "time": "2026-04-25T11:14:57.000Z"
   },
   {
     "cat": "World",
