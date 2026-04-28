@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer reflects on Punjab Kings' first defeat in IPL 2026, says 'bit short in our bowling'",
+    "desc": "Punjab Kings suffered their first defeat of the IPL 2026 season, losing by six wickets to Rajasthan Royals. Chasing 223 runs, Vaibhav Sooryavanshi and Yashasvi Jaiswal launched a perfect start, but once they departed, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-reflects-on-punjab-kings-first-defeat-in-ipl-2026-says-bit-short-in-our-bowling-2026-04-28-1039251",
+    "time": "2026-04-28T18:12:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 points table after PBKS' first loss of season as top four begins to take shape",
+    "desc": "Rajasthan Royals handed Punjab Kings their first defeat of the Indian Premier League 2026 after chasing down a strong 223 at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh on Tuesday, April 28....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-points-table-after-pbks-first-loss-of-season-as-top-four-begins-to-take-shape-2026-04-28-1039250",
+    "time": "2026-04-28T18:09:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bruno Fernandes matches Cristiano Ronaldo's Premier League record",
+    "desc": "Bruno Fernandes reached a significant personal milestone as Manchester United secured a 2-1 win over Brentford in the Premier League. Following the win, the Michael Carrick side is just one point away from confirming their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bruno-fernandes-breaks-cristiano-ronaldo-s-premier-league-record-2026-04-28-1039249",
+    "time": "2026-04-28T17:49:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yashasvi Jaiswal surpasses Ajinkya Rahane in major RR record during impressive fifty against PBKS",
+    "desc": "Rajasthan Royals opener Yashasvi Jaiswal surpassed former captain Ajinkya Rahane in a major record for his franchise in the Indian Premier League 2026 on Tuesday, April 28. Jaiswal slammed an impressive fifty during RR's clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-surpasses-ajinkya-rahane-in-major-rr-record-during-impressive-fifty-against-pbks-2026-04-28-1039247",
+    "time": "2026-04-28T17:36:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals end Punjab Kings' unbeaten streak in IPL 2026; Openers, Ferreira, Shubham steal show",
+    "desc": "Punjab Kings’ unbeaten run in the IPL 2026 came to an end as they suffered a six-wicket defeat to Rajasthan Royals in Mullanpur. Batting first, the hosts had a perfect start to the game, with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-end-punjab-kings-unbeaten-streak-in-ipl-2026-openers-ferreira-shubham-steal-show-2026-04-28-1039245",
+    "time": "2026-04-28T17:25:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi downs huge IPL record after whirlwind 43 against RR in New Chandigarh",
+    "desc": "Teenage prodigy Vaibhav Sooryavanshi added another feather to his cap as he created IPL history during Rajasthan Royals' clash against the Punjab Kings at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-downs-huge-ipl-record-after-whirlwind-43-against-rr-in-new-chandigarh-2026-04-28-1039242",
+    "time": "2026-04-28T17:11:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will MI opener feature against Sunrisers Hyderabad?",
     "desc": "Mumbai Indians are still weighing their options over Rohit Sharma’s availability ahead of their upcoming fixture against Sunrisers Hyderabad. In the pre-match press conference, MI’s spokesperson confirmed that nothing is certain as clarity is expected...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-ravi-bishnoi-not-playing-for-rr-vs-pbks-in-ipl-2026-clash-in-mullanpur-2026-04-28-1039228",
     "time": "2026-04-28T14:03:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Shashank Singh not playing in PBKS vs RR IPL 2026 clash in New Chandigarh?",
-    "desc": "Shashank Singh missed out as the Punjab Kings host the Rajasthan Royals in their eighth match of the Indian Premier League 2026 on Tuesday, April 28. The Kings are the only unbeaten team in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shashank-singh-not-playing-in-pbks-vs-dc-ipl-2026-clash-in-new-chandigarh-2026-04-28-1039227",
-    "time": "2026-04-28T13:57:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Shimron Hetmyer not playing for RR vs PBKS in IPL 2026 clash in Mullanpur?",
-    "desc": "Rajasthan Royals have dropped Shimron Hetmyer from the playing XI against Punjab Kings in Mullanpur. Captain Riyan Parag indicated that it was a technical call, as the West Indies international struggled to live up to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shimron-hetmyer-not-playing-for-rr-vs-pbks-in-ipl-2026-clash-in-mullanpur-2026-04-28-1039225",
-    "time": "2026-04-28T13:48:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Batters no longer hold back': Bhuvneshwar Kumar on the biggest change in modern T20 batting",
-    "desc": "Royal Challengers Bengaluru fast bowler Bhuvneshwar Kumar opened up on the biggest shift in the modern-day T20 batting, stating that the batters don't hold back now, as compared to the times, they used to respect...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/batters-no-longer-hold-back-bhuvneshwar-kumar-on-the-biggest-change-in-modern-t20-batting-2026-04-28-1039213",
-    "time": "2026-04-28T12:10:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinesh Phogat registers for Open Ranking event in Gonda after strong claims against WFI",
-    "desc": "On Tuesday, Vinesh Phogat alleged that the Wrestling Federation of India is delaying her return to action. She stated that the governing body is not allowing her to register for the National Open Ranking tournament,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-accuses-wfi-of-deliberate-attempt-to-block-her-return-to-professional-wrestling-2026-04-28-1039212",
-    "time": "2026-04-28T11:43:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England name squad for Women's T20 World Cup 2026, 18-year-old Corteen-Coleman included",
-    "desc": "Hosts England have named their squad for the upcoming Women's T20 World Cup 2026, with the 18-year-old Tilly Corteen-Coleman being a stand-out inclusion. The tournament will be the first ICC event that England will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-name-squad-for-womens-t20-world-cup-2026-18-year-old-corteen-coleman-included-2026-04-28-1039204",
-    "time": "2026-04-28T11:10:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu loses decider to Wang Zhiyi, India women's team crashes out of Uber Cup 2026",
-    "desc": "India’s women’s team bowed out of the Uber Cup 2026 after a heavy defeat to China in their final Group A tie on April 27. All eyes were on PV Sindhu at the start and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-loses-decider-to-wang-zhiyi-india-women-s-team-crashes-out-of-uber-cup-2026-2026-04-28-1039196",
-    "time": "2026-04-28T10:32:53.000Z"
   }
 ];
