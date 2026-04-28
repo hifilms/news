@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand Cricket announces Geoff Allot as the new chief executive after Scott Weenink's resignation",
+    "desc": "In a major development for NZC (New Zealand Cricket), the board has come forward and appointed former pacer Geoff Allot as their new chief executive. The decision was made after Scott Weenink resigned from the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-cricket-announces-geoff-allot-as-the-new-chief-executive-after-scott-weenink-s-resignation-2026-04-28-1039137",
+    "time": "2026-04-28T02:05:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Tremendous to see': RCB skipper Rajat Patidar reflects on his side's dominant win over Delhi Capitals",
+    "desc": "Royal Challengers Bengaluru registered one of the most dominant wins of the ongoing IPL (Indian Premier League) 2026. The defending champions took on Delhi Capitals in the 39th game of the tournament at the Arun...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tremendous-to-see-rcb-skipper-rajat-patidar-reflects-on-his-side-s-dominant-win-over-delhi-capitals-2026-04-28-1039132",
+    "time": "2026-04-28T01:23:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Treble-searching Bayern up against defending champions PSG in Champions League semifinal",
     "desc": "Bayern Munich, searching for a treble, will be up against the reigning champions, Paris Saint-Germain, in a bid for a place in the Champions League final. The first leg of the two-legged semifinal will take...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-injury-update-real-madrid-confirm-thigh-issue-to-star-forward-weeks-ahead-of-el-clasico-2026-04-27-1039101",
     "time": "2026-04-27T13:17:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur eyes major T20 record as India women look for consolatory win against South Africa",
-    "desc": "India captain Harmanpreet Kaur is eyeing a major T20 record as India look for a consolatory win against South Africa in the fifth and final T20I of the series at the Willowmoore Park, Benoni. Kaur...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-eyes-major-t20-record-as-india-women-look-for-consolatory-win-against-south-africa-2026-04-27-1039094",
-    "time": "2026-04-27T11:56:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India cruise to Thomas Cup quarterfinals after blanking Australia in second group outing",
-    "desc": "The Indian team stormed into the quarterfinals of the Thomas Cup Finals after registering a 5-0 sweep over Australia in their second Group A tie in Horsens, Denmark on Monday, April 27. After beating Canada...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-cruise-to-thomas-cup-quarterfinals-after-blanking-australia-in-second-group-outing-2026-04-27-1039089",
-    "time": "2026-04-27T11:12:41.000Z"
   }
 ];
