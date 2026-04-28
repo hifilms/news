@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PV Sindhu loses decider to Wang Zhiyi, India women's team crashes out of Uber Cup 2026",
+    "desc": "India’s women’s team bowed out of the Uber Cup 2026 after a heavy defeat to China in their final Group A tie on April 27. All eyes were on PV Sindhu at the start and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-loses-decider-to-wang-zhiyi-india-women-s-team-crashes-out-of-uber-cup-2026-2026-04-28-1039196",
+    "time": "2026-04-28T10:32:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I just can't accept it': Shreyas Iyer reflects on his rise, weighs in on motivations",
+    "desc": "Star India batter Shreyas Iyer has been one of the best batters and leaders in recent years of the IPL (Indian Premier League). Being bought by Punjab Kings in the 2025 mega auction, Iyer has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-just-can-t-accept-it-shreyas-iyer-reflects-on-his-rise-weighs-in-on-motivations-2026-04-28-1039184",
+    "time": "2026-04-28T09:07:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli inaugurates new West Delhi Cricket Academy branch at DPS RK Puram",
     "desc": "Star India batter Virat Kohli is undoubtedly one of the most influential players in world cricket. Widely revered as one of the greatest batters of all time, Kohli is once again tearing it up in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-cricket-announces-geoff-allot-as-the-new-chief-executive-after-scott-weenink-s-resignation-2026-04-28-1039137",
     "time": "2026-04-28T02:05:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Tremendous to see': RCB skipper Rajat Patidar reflects on his side's dominant win over Delhi Capitals",
-    "desc": "Royal Challengers Bengaluru registered one of the most dominant wins of the ongoing IPL (Indian Premier League) 2026. The defending champions took on Delhi Capitals in the 39th game of the tournament at the Arun...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tremendous-to-see-rcb-skipper-rajat-patidar-reflects-on-his-side-s-dominant-win-over-delhi-capitals-2026-04-28-1039132",
-    "time": "2026-04-28T01:23:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Treble-searching Bayern up against defending champions PSG in Champions League semifinal",
-    "desc": "Bayern Munich, searching for a treble, will be up against the reigning champions, Paris Saint-Germain, in a bid for a place in the Champions League final. The first leg of the two-legged semifinal will take...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/treble-searching-bayern-up-against-defending-champions-psg-in-champions-league-semifinal-2026-04-27-1039125",
-    "time": "2026-04-27T18:18:11.000Z"
   }
 ];
