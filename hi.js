@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 40",
+    "desc": "Punjab Kings host Rajasthan Royals in the 40th game of the ongoing IPL (Indian Premier League) 2026. The two sides will meet at the Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur on April 28....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-rr-3-player-battles-to-watch-out-for-in-ipl-2026-match-40-2026-04-28-1039155",
+    "time": "2026-04-28T05:38:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch UCL semi-final on TV and stream online in India?",
+    "desc": "The stage is set for one of the most anticipated games of the ongoing UEFA Champions League season. The first semi-final of the tournament sees defending champions taking on FC Bayern Munich. The two sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/psg-vs-bayern-munich-live-when-and-where-to-watch-ucl-semi-final-on-tv-and-stream-online-in-india-2026-04-28-1039150",
+    "time": "2026-04-28T04:53:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Maharaja Yadavindra Singh Stadium in Mullanpur play?",
+    "desc": "The stage is set for game 40 of the ongoing IPL (Indian Premier League) 2026. The clash will see Punjab Kings taking on Rajasthan Royals at the Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-rr-pitch-report-how-will-surface-at-maharaja-yadavindra-singh-stadium-in-mullanpur-play-2026-04-28-1039147",
+    "time": "2026-04-28T04:04:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Royal Challengers Bengaluru enter elite list alongside MI, CSK after dominant victory over Delhi Capitals",
+    "desc": "The 39th game of the ongoing IPL (Indian Premier League) 2026 saw Royal Challengers Bengaluru taking on Delhi Capitals. The two sides locked horns at the Arun Jaitley Stadium in Delhi on April 28, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-enter-elite-list-alongside-mi-csk-after-dominant-victory-over-delhi-capitals-2026-04-28-1039143",
+    "time": "2026-04-28T03:34:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand Cricket announces Geoff Allot as the new chief executive after Scott Weenink's resignation",
     "desc": "In a major development for NZC (New Zealand Cricket), the board has come forward and appointed former pacer Geoff Allot as their new chief executive. The decision was made after Scott Weenink resigned from the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-8-6-hit-record-low-against-rcb-in-horrific-start-to-ipl-2026-delhi-clash-2026-04-27-1039116",
     "time": "2026-04-27T15:34:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Santner ruled out from remainder of IPL 2026, Mumbai Indians name replacement",
-    "desc": "In a blow for the Mumbai Indians, all-rounder Mitchell Santner has been ruled out for the remainder of the Indian Premier League 2026 as the five-time champions have named Keshav Maharaj as his replacement. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-santner-ruled-out-from-remainder-of-ipl-2026-mumbai-indians-name-replacement-2026-04-27-1039114",
-    "time": "2026-04-27T14:53:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Phil Salt not playing for RCB in IPL 2026 clash against DC as Bengaluru look for redemption?",
-    "desc": "Phil Salt was a major absentee in the Royal Challengers Bengaluru's team as they take on the Delhi Capitals in the Indian Premier League 2026 clash on Monday, April 27. Salt had also missed RCB's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-phil-salt-not-playing-for-rcb-in-ipl-2026-clash-against-dc-as-bengaluru-look-for-redemption-2026-04-27-1039108",
-    "time": "2026-04-27T14:07:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is DC star playing today in IPL 2026 clash against RCB in Delhi?",
-    "desc": "Lungi Ngidi misses out as Delhi Capitals take on Royal Challengers Bengaluru in their eighth match of the Indian Premier League 2026 at the Arun Jaitley Stadium in Delhi on Monday, April 27. Ngidi suffered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-injury-update-is-dc-star-playing-today-in-ipl-2026-clash-against-rcb-in-delhi-2026-04-27-1039104",
-    "time": "2026-04-27T13:39:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Real Madrid confirm thigh issue to star forward weeks ahead of El Clasico",
-    "desc": "Real Madrid have confirmed that their star forward Kylian Mbappe has 'an injury to the semitendinosus muscle' in the left leg, as the French international is in doubt for the El Clasico against Barcelona. Mbappe...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-injury-update-real-madrid-confirm-thigh-issue-to-star-forward-weeks-ahead-of-el-clasico-2026-04-27-1039101",
-    "time": "2026-04-27T13:17:56.000Z"
   }
 ];

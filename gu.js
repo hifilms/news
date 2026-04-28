@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "હવે Aadhaar થી સાબિત નહીં થાય તમારી ઉંમર, ડેટ ઓફ બર્થના પુરાવા તરીકે આપવા પડશે આ દસ્તાવેજ",
+    "desc": "Aadhaar કાર્ડને લઈને મોટું અપડેટ સામે આવ્યું છે. UIDAI એ સ્પષ્ટ કરી દીધું છે કે આધાર હવે જન્મતારીખ (DOB) ને પાક્કો પુરાવો માનવામાં આવશે નહીં. આવો તમને જણાવીએ કેમ આધારથી ઉંમર સાબિત થશે નહીં, તે માટે ક્યા દસ્તાવેજની જરૂર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/aadhaar-not-valid-as-date-of-birth-proof-uidai-new-guidelines-475234 ",
+    "time": "2026-04-28T05:54:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ગુજરાતીઓ સંભાળીને રહેજો! આ વખતે ભયંકર ગરમી અને હિટવેવ રેકોર્ડ તોડશે? રાજ્યોને એલર્ટ કરાયા",
+    "desc": "આ વખતે ગુજરાત સહિત દેશભરમાં ભયંકર ગરમી પડી રહી છે. એમાં પણ હજુ તો એપ્રિલ મહિનો પૂરો પણ થયો નથી અને લૂનો કહેર જોવા મળી રહ્યા છે. હવામાન વિભાગે કરેલી આગાહી ખુબ ચિંતાજનક છે. જાણો ગુજરાત માટે શું છે સ્થિતિ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/will-this-time-terrible-heat-and-heatwave-break-records-states-alerted-weather-forecast-475226 ",
+    "time": "2026-04-28T05:28:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "1 મેથી બદલાઈ જશે ગેસ સિલિન્ડર બુકિંગના નિયમ, ઇન્ડેન, ભારત અને HP ગેસના ગ્રાહકો ખાસ જાણે",
+    "desc": "1 મે 2026થી રસોઈ ગેસના નિયમોમાં મોટો ફેરફાર થવા જઈ રહ્યો છે, જેની સીધી અસર ઇન્ડેન, ભારત ગેસ અને એચપી ગેસના કરોડો ગ્રાહકો પર પડશે. બુકિંગ પહેલા આ નવા નિયમો વિશે ગ્રાહકોએ જાણવું જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/lpg-cylinder-booking-rules-changes-form-1-may-2026-know-details-475223 ",
+    "time": "2026-04-28T05:10:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રોમાન્ટિક ફિલ્મો ગમતી હોય તો આજે જ જુઓ નેટફ્લિક્સની આ ફિલ્મ, ઓટીટી પર છવાઈ ગઈ શશાંક-રોશનીની લવસ્ટોરી",
+    "desc": "જે લોકોને રોમાન્ટિક ડ્રામા ફિલ્મો જોવી પસંદ હોય તેમણે એકવાર નેટફ્લિક્સ પર રિલીઝ થયેલી આ ફિલ્મ જોવી જોઈએ. શશાંક અને રોશનીની ક્યુટ લવસ્ટોરી તમને પણ ગમી જશે. આ ફિલ્મ ઓટીટી પર રિલીઝ થયાની સાથે જ ટ્રેડિંગ લીસ્ટમાં આવી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-romantic-drama-film-on-netflix-do-diwane-shahar-mein-film-on-ott-475175 ",
+    "time": "2026-04-28T02:51:50.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ખુલ્લેઆમ હસ્તમૈથુન કરતો જોવા મળ્યો યુવક, મહિલાના કેમેરામાં થયો કેદ, જુઓ Video",
     "desc": "એક હેરાન કરનારી ઘટના સામે આવી છે. આઉટર રિંગ રોડ પર સાયકલિંગ ટ્રેક પર એક યુવક ખુલ્લેઆમ હસ્તમૈથુન કરતો જોવા મળ્યો હતો. એક મહિલાએ આ ઘટનાનો વીડિયો શેર કરીને કહ્યું કે તે ઘણા લોકો હાજર હતા ત્યારે આવું કરી રહ્યો હતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -414,15 +450,6 @@ const newsData_gu = [
     "time": "2026-04-25T05:27:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "AAPનાં સાંસદોએ પાડ્યો મોટો ખેલ! રાજ્યસભામાં NDAનું કદ વધશે, જાણો કેવી રીતે બદલાયા સમીકરણ",
-    "desc": "આખરે આમ આદમી પાર્ટીના રાજ્યસભાના સાંસદ રાઘવ ચડ્ઢા ભાજપમાં જોડાઈ ગયા. તેમની સાથે સંદીપ પાઠક પણ જોડાયા અને આ બે સભ્યો સહિત કુલ 7 સભ્યો ભાજપમાં જોડાયાનો દાવો થઈ રહ્યો છે. જો આ સભ્યોના ભાજપમાં જોડાણને કાયદેસર રીતે મંજૂરી મળે તો ભાજપ રાજ્યસભામાં મજબૂત બની શકે છે. જાણો કેવી રીતે બદલાઈ રહ્યા છે સમીકરણો?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/aap-mps-join-bjp-equations-will-change-in-rajya-sabha-know-how-explainer-474720 ",
-    "time": "2026-04-25T05:26:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ગુજરાત ટાઈટન્સની હારનું આ હતું સૌથી મોટું કારણ... કેપ્ટન શુભમન ગિલે ખોલી પોતાની જ ટીમની પોલ !",
     "desc": "શુક્રવારની મેચમાં RCBએ ગુજરાત ટાઈટન્સને 5 વિકેટથી હરાવ્યું. આ મેચમાં કોહલી અને પડિકલની ઇનિંગ્સે સાઈ સુદર્શનની સદી પર પાણી ફેરવી દીધું હતું. મેચ પછી શુભમન ગિલે ટીમે ક્યાં ભૂલો કરી હતી, તેનો ખુલાસો કર્યો હતો અને હારના કારણો જણાવ્યા હતા.",
@@ -475,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-film-bhoot-bangla-box-office-collection-latest-news-in-gujarati-474593 ",
     "time": "2026-04-24T06:55:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાને ટોપ સિક્યુરિટી અધિકારીને આપી દીધી ફાંસી, &amp;#039;ઓપરેશન ક્લીન&amp;#039; ચલાવી રહ્યું છે ખલીફા શાસન",
-    "desc": "મોસાદના એ એજન્ટને ઈરાનમાં જાસૂસી કરવાના આરોપમાં ધરપકડ કરવામાં આવી છે. પરંતુ આ વખતની ધરપકડ ખૂબ જ મહત્વની છે, કારણ કે આ વખતે ઈરાન પ્રશાસનના જ એક મોટા અધિકારીને પકડવામાં આવ્યો છે, જેને ફાંસીના માંચડે લટકાવી દેવાયો છે. ઈરાને કેવી રીતે પોતાના જ દેશમાં છૂપાયેલા જાસૂસને પકડ્યો ચાલો જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-executes-top-security-official-caliphate-regime-is-running-operation-clean-474546 ",
-    "time": "2026-04-23T16:35:25.000Z"
   },
   {
     "cat": "Tech",
@@ -610,14 +628,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rosemary-baby-movie-called-hollywood-cursed-film-watch-rosemary-s-baby-film-on-netflix-473743 ",
     "time": "2026-04-18T14:48:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અલી અસગરે વર્ષો પછી જણાવ્યું કપિલ શર્માનો શો છોડવાનું સાચું કારણ, શો માં તેની સાથે શું થતું જાણીને દયા આવી જશે",
-    "desc": "કપિલ શર્મા શો માં વર્ષો સુધી ફીમેલ કેરેક્ટર પ્લે કરી લોકોને હસાવનાર અલી અસગરે કપિલ શર્માનો શો છોડવાનું કારણ જણાવ્યું છે. શો માં તેની સાથે થયેલા વર્તનના કારણે તેણે કંટાળીને લોકપ્રિય શો છોડી દીધો હતો. આ કારણ શું હતું અને અલી અસગરને શું સહન કરવું પડતું જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/why-ali-asgar-left-kapil-show-after-many-years-actor-ali-asgar-reveals-why-he-quit-working-with-kapil-sharma-473602 ",
-    "time": "2026-04-18T02:36:13.000Z"
   }
 ];
