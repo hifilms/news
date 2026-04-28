@@ -27,15 +27,6 @@ const newsData_bn = [
     "time": "2026-04-28T06:59:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "নিয়ম ভাঙায় RBI-এর রোষানলে বাংলার ব্যাংক: ফাইনে গুনতে হল কড়কড়ে ৪১,০০০০০ কোটি টাকা",
-    "desc": "অর্থনৈতিক বিশেষজ্ঞদের মতে, ২০২৬ সালের এই সময়ে দাঁড়িয়ে ভারতীয় ব্যাংকিং ব্যবস্থা যখন দ্রুত ডিজিটালাইজড হচ্ছে, তখন আরবিআই সাইবার নিরাপত্তা, কেওয়াইসি এবং ঋণ প্রদানের ক্ষেত্রে বিন্দুমাত্র শিথিলতা দেখাতে রাজি নয়। গত কয়েক মাসে আইসিআইসিআই ব্যাংক, এইচডিএফসি ব্যাংক এবং বেশ কিছু রাষ্ট্রায়ত্ত ব্যাংকের ওপরও একই ধরণের পদক্ষেপ নেওয়া হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bandhan-bank-fined-by-rbi-over-non-compliance-with-banking-norms_651106.html ",
-    "time": "2026-04-27T12:00:57.000Z"
-  },
-  {
     "cat": "World",
     "title": "700% More Urban Poor By 2050: থাকবে না কোনও টাকাকড়ি, ৭০০% মানুষ আরও গরিব হবে- চরম সতর্কতা বিশ্বব্যাংকের, কেন?",
     "desc": "বিশ্বব্যাংক বলছে, চরম গরম আর শুধু ঋতুভিত্তিক অস্বস্তি নয়—এটি দ্রুতই বিশ্বের অন্যতম প্রাণঘাতী ও অর্থনৈতিকভাবে ক্ষতিকারক নাগরিক সমস্যায় পরিণত হচ্ছে। বিশ্বব্যাংক সতর্ক করেছে, ২০৫০ সালের মধ্যে চরম তাপে ক্ষতিগ্রস্ত শহুরে দরিদ্র মানুষের সংখ্যা বিশ্বজুড়ে ৭০০% পর্যন্ত বাড়তে পারে।",
@@ -70,24 +61,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tmc-election-campaign-parambrata-chatterjee-june-maliah-ujjwal-biswas_650678.html ",
     "time": "2026-04-25T13:02:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "চাড্ডা থেকে 'চাড্ডি': আপ ছাড়তেই রাঘবে ক্ষিপ্ত Gen Z, রাতারাতি হারালেন ১০ লক্ষ ফলোয়ার",
-    "desc": "এক ধাক্কায় ১০ লক্ষ ফলোয়ার গায়েব! আম আদমি পার্টি ছেড়ে বিজেপিতে যোগ দেওয়াটা কি কাল হলো রাঘব চাড্ডার জন্য? জেন-জি প্রজন্মের মধ্যে ব্যাপক জনপ্রিয় এই তরুণ নেতার ফলোয়ার সংখ্যায় ধস নেমেছে ২৪ ঘণ্টায়। শুরু হয়েছে 'আনফলো' করার হিড়িক। রাজনীতির এই ডিগবাজি কি তবে ভালো ভাবে নিল না তরুণ সমাজ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/raghav-chadha-loses-followers-bjp-switch-gen-z-backlash-instagram_650659.html ",
-    "time": "2026-04-25T11:14:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আমার আরও চারটে গার্লফ্রেন্ড আছে, তোকে ঠিক পোষাচ্ছে না: হবু স্বামীর তাচ্ছিল্যে নিজেকে শেষ করলেন মেধাবী রেহানা",
-    "desc": "বিয়ে মাত্র কয়েক মাস আগেই মেধাবী তরুণীর আত্মহত্যা। হবু বরের মানসিক নির্যাতন এবং অবহেলার কারণেই তিনি আত্মহত্যার পথ বেছে নিয়েছেন। শুরুতে রেহানা এগুলোকে মজা হিসেবে নিলেও, শাহজাহান ক্রমাগত এই ধরনের কথা বলায় তিনি মানসিকভাবে ভেঙে পড়েন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/woman-took-extreme-step-to-death-after-fiance-claims-having-4-girlfriends_650658.html ",
-    "time": "2026-04-25T11:01:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -169,14 +142,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/nusrat-jahan-ed-interrogation-cgo-complex-flat-scam-case_649993.html ",
     "time": "2026-04-22T08:29:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

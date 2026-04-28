@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Shimron Hetmyer not playing for RR vs PBKS in IPL 2026 clash in Mullanpur?",
+    "desc": "Rajasthan Royals have dropped Shimron Hetmyer from the playing XI against Punjab Kings in Mullanpur. Captain Riyan Parag indicated that it was a technical call, as the West Indies international struggled to live up to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shimron-hetmyer-not-playing-for-rr-vs-pbks-in-ipl-2026-clash-in-mullanpur-2026-04-28-1039225",
+    "time": "2026-04-28T13:48:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Batters no longer hold back': Bhuvneshwar Kumar on the biggest change in modern T20 batting",
+    "desc": "Royal Challengers Bengaluru fast bowler Bhuvneshwar Kumar opened up on the biggest shift in the modern-day T20 batting, stating that the batters don't hold back now, as compared to the times, they used to respect...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/batters-no-longer-hold-back-bhuvneshwar-kumar-on-the-biggest-change-in-modern-t20-batting-2026-04-28-1039213",
+    "time": "2026-04-28T12:10:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinesh Phogat registers for Open Ranking event in Gonda after strong claims against WFI",
+    "desc": "On Tuesday, Vinesh Phogat alleged that the Wrestling Federation of India is delaying her return to action. She stated that the governing body is not allowing her to register for the National Open Ranking tournament,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-accuses-wfi-of-deliberate-attempt-to-block-her-return-to-professional-wrestling-2026-04-28-1039212",
+    "time": "2026-04-28T11:43:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England name squad for Women's T20 World Cup 2026, 18-year-old Corteen-Coleman included",
+    "desc": "Hosts England have named their squad for the upcoming Women's T20 World Cup 2026, with the 18-year-old Tilly Corteen-Coleman being a stand-out inclusion. The tournament will be the first ICC event that England will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-name-squad-for-womens-t20-world-cup-2026-18-year-old-corteen-coleman-included-2026-04-28-1039204",
+    "time": "2026-04-28T11:10:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PV Sindhu loses decider to Wang Zhiyi, India women's team crashes out of Uber Cup 2026",
     "desc": "India’s women’s team bowed out of the Uber Cup 2026 after a heavy defeat to China in their final Group A tie on April 27. All eyes were on PV Sindhu at the start and...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-rr-3-player-battles-to-watch-out-for-in-ipl-2026-match-40-2026-04-28-1039155",
     "time": "2026-04-28T05:38:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch UCL semi-final on TV and stream online in India?",
-    "desc": "The stage is set for one of the most anticipated games of the ongoing UEFA Champions League season. The first semi-final of the tournament sees defending champions taking on FC Bayern Munich. The two sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/psg-vs-bayern-munich-live-when-and-where-to-watch-ucl-semi-final-on-tv-and-stream-online-in-india-2026-04-28-1039150",
-    "time": "2026-04-28T04:53:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Maharaja Yadavindra Singh Stadium in Mullanpur play?",
-    "desc": "The stage is set for game 40 of the ongoing IPL (Indian Premier League) 2026. The clash will see Punjab Kings taking on Rajasthan Royals at the Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-rr-pitch-report-how-will-surface-at-maharaja-yadavindra-singh-stadium-in-mullanpur-play-2026-04-28-1039147",
-    "time": "2026-04-28T04:04:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Royal Challengers Bengaluru enter elite list alongside MI, CSK after dominant victory over Delhi Capitals",
-    "desc": "The 39th game of the ongoing IPL (Indian Premier League) 2026 saw Royal Challengers Bengaluru taking on Delhi Capitals. The two sides locked horns at the Arun Jaitley Stadium in Delhi on April 28, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-enter-elite-list-alongside-mi-csk-after-dominant-victory-over-delhi-capitals-2026-04-28-1039143",
-    "time": "2026-04-28T03:34:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand Cricket announces Geoff Allot as the new chief executive after Scott Weenink's resignation",
-    "desc": "In a major development for NZC (New Zealand Cricket), the board has come forward and appointed former pacer Geoff Allot as their new chief executive. The decision was made after Scott Weenink resigned from the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-cricket-announces-geoff-allot-as-the-new-chief-executive-after-scott-weenink-s-resignation-2026-04-28-1039137",
-    "time": "2026-04-28T02:05:52.000Z"
   }
 ];
