@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will MI opener feature against Sunrisers Hyderabad?",
+    "desc": "Mumbai Indians are still weighing their options over Rohit Sharma’s availability ahead of their upcoming fixture against Sunrisers Hyderabad. In the pre-match press conference, MI’s spokesperson confirmed that nothing is certain as clarity is expected...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-will-mi-opener-feature-against-sunrisers-hyderabad-2026-04-28-1039238",
+    "time": "2026-04-28T16:27:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brazil's Eder Militao ruled out of FIFA World Cup 2026, Real Madrid confirms surgery",
+    "desc": "Brazil and Real Madrid defender Eder Militao has been ruled out of the forthcoming FIFA World Cup 2026. The 28-year-old injured his hamstring during a La Liga clash against Alaves last week. On Tuesday, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/brazil-s-eder-militao-ruled-out-of-fifa-world-cup-2026-real-madrid-confirms-surgery-2026-04-28-1039234",
+    "time": "2026-04-28T15:24:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I want to win ODI World Cup and WTC for India': GT all-rounder Nishant Sindhu eyes top prize",
+    "desc": "A left-handed batter, a left-arm finger spinner, a middle-order enforcer and a lower-order finisher. All of these traits associated with Ravindra Jadeja and Axar Patel. Another prodigy, who is looking to walk on the path...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-want-to-win-odi-world-cup-and-wtc-for-india-gt-all-rounder-nishant-sindhu-eyes-top-prize-exclusive-2026-04-28-1039233",
+    "time": "2026-04-28T15:18:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Ravi Bishnoi not playing for RR vs PBKS in IPL 2026 clash in Mullanpur?",
+    "desc": "Rajasthan have dropped Ravi Bishnoi in their IPL 2026 clash against Punjab Kings in Mullanpur. The leg-spinner started well in the season, being one of the leading wicket-takers, but in the last few games, his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ravi-bishnoi-not-playing-for-rr-vs-pbks-in-ipl-2026-clash-in-mullanpur-2026-04-28-1039228",
+    "time": "2026-04-28T14:03:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Shashank Singh not playing in PBKS vs RR IPL 2026 clash in New Chandigarh?",
+    "desc": "Shashank Singh missed out as the Punjab Kings host the Rajasthan Royals in their eighth match of the Indian Premier League 2026 on Tuesday, April 28. The Kings are the only unbeaten team in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shashank-singh-not-playing-in-pbks-vs-dc-ipl-2026-clash-in-new-chandigarh-2026-04-28-1039227",
+    "time": "2026-04-28T13:57:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Shimron Hetmyer not playing for RR vs PBKS in IPL 2026 clash in Mullanpur?",
     "desc": "Rajasthan Royals have dropped Shimron Hetmyer from the playing XI against Punjab Kings in Mullanpur. Captain Riyan Parag indicated that it was a technical call, as the West Indies international struggled to live up to...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-loses-decider-to-wang-zhiyi-india-women-s-team-crashes-out-of-uber-cup-2026-2026-04-28-1039196",
     "time": "2026-04-28T10:32:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I just can't accept it': Shreyas Iyer reflects on his rise, weighs in on motivations",
-    "desc": "Star India batter Shreyas Iyer has been one of the best batters and leaders in recent years of the IPL (Indian Premier League). Being bought by Punjab Kings in the 2025 mega auction, Iyer has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-just-can-t-accept-it-shreyas-iyer-reflects-on-his-rise-weighs-in-on-motivations-2026-04-28-1039184",
-    "time": "2026-04-28T09:07:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli inaugurates new West Delhi Cricket Academy branch at DPS RK Puram",
-    "desc": "Star India batter Virat Kohli is undoubtedly one of the most influential players in world cricket. Widely revered as one of the greatest batters of all time, Kohli is once again tearing it up in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-inaugurates-new-west-delhi-cricket-academy-branch-at-dps-rk-puram-watch-2026-04-28-1039176",
-    "time": "2026-04-28T08:12:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Start fresh': Former India cricketer advises Delhi Capitals after humiliating loss against RCB",
-    "desc": "Axar Patel-led Delhi Capitals sustained a heavy defeat against Royal Challengers Bengaluru in game 39 of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Arun Jaitley Stadium, and coming in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/start-fresh-former-india-cricketer-advises-delhi-capitals-after-humiliating-loss-against-rcb-2026-04-28-1039167",
-    "time": "2026-04-28T06:56:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cheteshwar Pujara discusses Punjab Kings' potential game plan to tackle Vaibhav Sooryavanshi ahead of RR clash",
-    "desc": "Punjab Kings and Rajasthan Royals are due to lock horns in the 40th game of the ongoing IPL (Indian Premier League) 2026. With the game slated to be played on April 28, many eyes will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cheteshwar-pujara-discusses-punjab-kings-potential-game-plan-to-tackle-vaibhav-sooryavanshi-ahead-of-rr-clash-2026-04-28-1039160",
-    "time": "2026-04-28T06:04:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 40",
-    "desc": "Punjab Kings host Rajasthan Royals in the 40th game of the ongoing IPL (Indian Premier League) 2026. The two sides will meet at the Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur on April 28....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-rr-3-player-battles-to-watch-out-for-in-ipl-2026-match-40-2026-04-28-1039155",
-    "time": "2026-04-28T05:38:04.000Z"
   }
 ];

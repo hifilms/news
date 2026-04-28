@@ -1,21 +1,183 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘The Devil Wears Prada 3’ buzz grows ahead of sequel",
+    "desc": "Before the second film has even been released, the cast is already buzzing about a possible third installment. Stars from the sequel have been openly discussing what the future of the franchise could look like. The conversation around Part 3 has started much earlier than anyone expected.",
+    "img": "https://static.toiimg.com/photo/msid-130582735,imgsize-31378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/ahead-of-the-devil-wears-prada-2-buzz-around-the-threequel-adds-to-fans-anticipation-heres-what-we-know/photostory/130582735.cms",
+    "time": "2026-04-28T16:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Who will win the Matua votes?",
+    "desc": "Electoral analysts estimate that Matua voters influence outcomes in 60 to 65 assembly seats. In the second phase alone, they are a key factor in 21 constituencies. In tightly contested elections, this scale of influence gives the community leverage that political parties cannot ignore. This is evident in recent electoral trends.",
+    "img": "https://static.toiimg.com/photo/msid-130585498,imgsize-160034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/the-phase-2-trust-vote-in-west-bengal-who-will-win-the-matua-votes/articleshow/130584888.cms",
+    "time": "2026-04-28T16:29:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ira, Nupur greet Aamir-Gauri with warm hugs; Junaid joins",
+    "desc": "Aamir Khan made a rare appearance with his family at the special screening of Ek Din in Mumbai on April 28, and a candid moment from the evening quickly grabbed attention online. The film, starring Junaid Khan and Sai Pallavi, saw Aamir arriving with his children Ira Khan and Junaid, from his first marriage to Reena Dutta, along with his partner Gauri Spratt.",
+    "img": "https://static.toiimg.com/photo/msid-130585272,imgsize-74208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-daughter-ira-khan-nupur-shikhare-greet-gauri-spratt-with-warm-hugs-junaid-khan-joins-for-a-family-picture/articleshow/130585132.cms",
+    "time": "2026-04-28T16:18:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stalin stands exposed after PM Modi’s assurance on delimitation: Edappadi Palaniswami",
+    "desc": "Pointing out that the share of Tamil Nadu in the Lok Sabha would go up from 7.18% to 7.23%, Mr. Palaniswami, in an interview with The Hindu, said that “this disproves what he [Mr. Stalin] has been saying.”",
+    "img": "https://th-i.thgim.com/public/incoming/azfcam/article70875244.ece/alternates/LANDSCAPE_1200/9868_17_4_2026_12_25_49_2_EPS_INTERVIEW_2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-stands-exposed-after-pm-modis-assurance-on-delimitation-edappadi-palaniswami/article70873073.ece",
+    "time": "2026-04-28T16:14:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI keep fans guessing ahead of SRH clash at Wankhede",
+    "desc": "Rohit Sharma's participation in Mumbai Indians' IPL 2026 match against Sunrisers Hyderabad is uncertain. A final decision will be made at the toss. Sharma has been recovering from a hamstring injury. Suryakumar Yadav is preparing intensely for the game. Players from both teams were seen interacting during training sessions. Mumbai Indians await a potential boost for this key home contest.",
+    "img": "https://static.toiimg.com/photo/msid-130585085,imgsize-167280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rohit-sharma-injury-update-mumbai-indians-keep-fans-guessing-ahead-of-sunrisers-hyderabad-clash-at-wankhede/articleshow/130585024.cms",
+    "time": "2026-04-28T16:10:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Revanth",
+    "desc": "‘Government committed to protecting the interests of farmers, who gave their land for the project; office of Future City Development Corporation will be inaugurated on June 2, coinciding with Telangana Formation Day, accelerating the development of the area.",
+    "img": "https://th-i.thgim.com/public/incoming/vk8uo8/article70917747.ece/alternates/LANDSCAPE_1200/CM.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/future-city-will-have-global-standards-revanth/article70917623.ece",
+    "time": "2026-04-28T16:09:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Punjab Kings wore black armbands against Rajasthan Royals",
+    "desc": "Punjab Kings players donned black armbands against Rajasthan Royals, honouring teammate Azmatullah Omarzai's late mother. Captain Shreyas Iyer conveyed heartfelt condolences, emphasising team solidarity. Punjab posted a formidable 222/4, showcasing resilience and unity in a high-scoring IPL 2026 encounter.",
+    "img": "https://static.toiimg.com/photo/msid-130584801,imgsize-67552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-punjab-kings-wore-black-armbands-against-rajasthan-royals/articleshow/130584787.cms",
+    "time": "2026-04-28T15:51:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How has US-Iran war impacted Indian economy so far? Why RBI is both cautious and confident",
+    "desc": "The resilience of the global economy, already inflicted with trade tensions, is being tested by the conflict in West Asia. The biggest takeaway from the RBI bulletin is that India’s domestic supply chains may come under risk from a prolonged war scenario, though strong macroeconomic fundamentals provide a buffer.",
+    "img": "https://static.toiimg.com/photo/msid-130584662,imgsize-112854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/demand-shock-warning-how-has-us-iran-war-impacted-indian-economy-so-far-why-rbi-is-both-cautious-and-confident/articleshow/130584518.cms",
+    "time": "2026-04-28T15:51:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Harsh sun leaves traditional fishers in distress",
+    "desc": "Searing heat drives fish to deeper, cooler waters, escalating the cost of fishing. Warming waters lead to a surge in population of jellyfish, which tear nets and cause allergies to fishers. The working hours come down, the catch gets spoiled faster, and sun leaves the fish vendors perennially exhausted",
+    "img": "https://th-i.thgim.com/public/incoming/dr5hcp/article70917681.ece/alternates/LANDSCAPE_1200/80686_28_4_2026_20_44_52_1_29TVKO_FISHERMEN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/harsh-sun-leaves-traditional-fishers-in-distress/article70917307.ece",
+    "time": "2026-04-28T15:48:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mirzapur",
+    "desc": "The Film is easily among the most anticipated projects of the year, and the excitement has only intensified with Divyenndu Sharma returning as Munna Bhaiya. With fans closely tracking every update, the actor has now shared a glimpse of what’s in store—and it sounds massive.",
+    "img": "https://static.toiimg.com/photo/msid-130584302,imgsize-42156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-the-film-divyenndu-aka-munna-bhaiya-promises-full-paisa-vasool-ride-its-gonna-be-big-very-big/articleshow/130584207.cms",
+    "time": "2026-04-28T15:24:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Pradesh Congress Committee issues show-cause notice to Prajin Babu",
+    "desc": "Both the All India Congress Committee and the Kerala Pradesh Congress Committee had previously directed that Congress leaders and workers should not make public statements in print, visual, or social media or any other platform in a manner that brings disrepute to the organisation",
+    "img": "https://th-i.thgim.com/public/incoming/hvim5n/article70917405.ece/alternates/LANDSCAPE_1200/80968_28_4_2026_18_30_15_1_IMG_4230.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/advertorial-on-chennithala-kerala-pradesh-congress-committee-issues-show-cause-notice-to-prajin-babu/article70916694.ece",
+    "time": "2026-04-28T15:19:42.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Women lead new tourism wave in Kerala’s Maravanthuruth",
     "desc": "Women from Maravanthuruth have launched Kerala’s first all-woman kayaking club, Harithatheeram, under the Responsible Tourism Mission. Led by 63-year-old N.G. Indira, the club aims to boost local tourism by offering kayaking experiences along the Arivalthodu canal, part of the Water Street project.",
     "img": "https://th-i.thgim.com/public/incoming/pkomiv/article70916898.ece/alternates/LANDSCAPE_1200/80687_28_4_2026_18_53_35_2_IMG_20260428_WA0079.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/women-lead-new-tourism-wave-in-keralas-maravanthuruth/article70916456.ece",
-    "time": "2026-04-28T13:50:29.000Z"
+    "time": "2026-04-28T15:03:07.000Z"
   },
   {
     "cat": "Politics",
-    "title": "KSDL aims turnover of ₹5,000 cr. by 2030, to diversify into cosmetics, perfumes",
-    "desc": "The State-run PSU took 105 years to clock its first ₹1,000 crore, while it more than doubled this figure to ₹2,016 crore in just four years, says Minister; New factory in Vijayapura at an outlay of ₹229 crore",
-    "img": "https://th-i.thgim.com/public/incoming/r7y1ki/article70916942.ece/alternates/LANDSCAPE_1200/KSDL-to-double-G57FKP49S.4.jpg.jpg",
+    "title": "'I'm going to die': Guard recalls supervisor's distress call in Mira Road stabbing case",
+    "desc": "According to police officials, the accused approached the guards stationed at an under-construction building near Wockhardt Hospital in the early hours of Monday, around 4.00 am. He reportedly asked them to recite the Kalma, an important Islamic declaration of faith, before launching the attack. Police moved swiftly after the attack, scanning CCTV footage from the area to trace the suspect. Ansari was tracked down and apprehended within roughly 90 minutes. He was later taken to Naya Nagar Police Station, where a case was registered against him under charges including attempted murder and promoting enmity between communities.",
+    "img": "https://static.toiimg.com/photo/msid-130583693,imgsize-86298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/im-going-to-die-guard-recalls-supervisors-distress-call-in-mira-road-stabbing-case/articleshow/130582312.cms",
+    "time": "2026-04-28T14:51:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Politics has its place': Akhilesh Yadav visits BJP MLA who was injured while burning his effigy",
+    "desc": "SP leader Akhilesh Yadav visited BJP MLA Anupama Jaiswal in a Lucknow hospital after she sustained severe facial burns while attempting to set fire to an effigy. Yadav expressed his wishes for her speedy recovery, emphasizing that political differences should not overshadow compassion and human relationships. Jaiswal's husband lauded the visit as an act of \"human sensitivity and democratic courtesy.\"",
+    "img": "https://static.toiimg.com/photo/msid-130583547,imgsize-1033643.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/politics-has-its-place-akhilesh-yadav-visits-bjp-mla-who-was-injured-while-burning-his-effigy/articleshow/130582994.cms",
+    "time": "2026-04-28T14:47:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli fan breaks down after failing to get autograph in viral video",
+    "desc": "A young Virat Kohli fan's heartbreaking reaction to a missed autograph opportunity outside the RCB hotel has gone viral during IPL 2026. The boy's tearful outburst after being unable to meet his idol highlights the immense fan adoration for the star India batter, who is also enjoying a record-breaking season.",
+    "img": "https://static.toiimg.com/photo/msid-130583623,imgsize-45460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-watch-virat-kohli-fan-breaks-down-after-failing-to-get-autograph-in-viral-video/articleshow/130583528.cms",
+    "time": "2026-04-28T14:46:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Meet Rithika Sri, the first transgender umpire from Tamil Nadu",
+    "desc": "The engineering dropout caught the umpiring bug while watching the IPL when she was working at a call centre in Mohali; she decided to make a career out of it after the COVID-19 pandemic forced her to return to Salem",
+    "img": "https://th-i.thgim.com/public/sport/dm9tv2/article70917331.ece/alternates/LANDSCAPE_1200/TH29RITHIKA.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ksdl-aims-turnover-of-5000-cr-by-2030-to-diversify-into-cosmetics-perfumes/article70916240.ece",
-    "time": "2026-04-28T13:39:04.000Z"
+    "url": "https://www.thehindu.com/sport/cricket/meet-rithika-sri-the-first-transgender-umpire-from-tamil-nadu/article70917329.ece",
+    "time": "2026-04-28T14:40:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Shashank Singh not playing against Rajasthan Royals in New Chandigarh?",
+    "desc": "Shashank Singh was notably absent from the Punjab Kings' lineup for their crucial encounter against the Rajasthan Royals. This match, the 40th of the season, features two top-four teams. Rajasthan Royals captain Riyan Parag won the toss and elected to bowl first at the Maharaja Yadavindra Singh International Cricket Stadium.",
+    "img": "https://static.toiimg.com/photo/msid-130583139,imgsize-52604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-is-shashank-singh-not-playing-against-rajasthan-royals-in-new-chandigarh/articleshow/130582824.cms",
+    "time": "2026-04-28T14:27:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Al Pacino and Noor Alfallah caught in awkward dinner date tiff",
+    "desc": "Al Pacino and Noor Alfallah's dinner outing in Beverly Hills took a tense turn on camera. After a seemingly pleasant meal, Pacino swiftly pulled his phone away when Alfallah attempted to view it, leading to her visible frustration and a muttered comment about respect. The couple, who share a young son, departed together following the awkward exchange.",
+    "img": "https://static.toiimg.com/photo/msid-130582348,imgsize-35400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/al-pacino-and-noor-alfallah-caught-in-awkward-dinner-date-tiff-details-inside/articleshow/130582348.cms",
+    "time": "2026-04-28T14:00:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PBKS unleash Lockie Ferguson as pace weapon; RR opt to bowl",
+    "desc": "Punjab Kings bolstered their bowling with the formidable Lockie Ferguson for their IPL 2026 clash against Rajasthan Royals. Rajasthan won the toss and chose to bowl, aiming to exploit early conditions. Unbeaten Punjab seek to extend their winning streak, while fourth-placed Rajasthan eye a climb up the table with a strong performance.",
+    "img": "https://static.toiimg.com/photo/msid-130582454,imgsize-114224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-pbks-vs-rr-lockie-ferguson-returns-as-punjab-kings-unleash-pace-weapon-against-rajasthan-royals/articleshow/130582448.cms",
+    "time": "2026-04-28T13:58:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rani Kapur reacts after SC urges mediation in legal battle with Priya",
+    "desc": "The Supreme Court urged mediation in the estate dispute of late businessman Sanjay Kapur, noting his mother Rani Kapur's age. Rani welcomed the court's suggestion for a peaceful resolution, seeking truth and protection of her rightful assets. The court emphasized mediation as a better alternative to prolonged legal battles.",
+    "img": "https://static.toiimg.com/photo/msid-130582459,imgsize-27708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-kapur-reacts-after-sc-urges-mediation-in-legal-battle-with-priya-kapur-over-sunjay-kapurs-rs-30000-crore-estate-its-about-restoring-fairness/articleshow/130582359.cms",
+    "time": "2026-04-28T13:57:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -153,15 +315,6 @@ const newsData_en = [
     "time": "2026-04-28T11:56:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Twist in gold theft at Sattur DMK candidate’s house: estranged daughter-in-law, accomplices arrested",
-    "desc": "While Mr. Kadarkarai Raj was busy campaigning for the elections, unidentified intruders barged into his residence at Venkatachalapuram on the night of April 13 and decamped with 122 sovereigns of gold, cash, and silver articles",
-    "img": "https://th-i.thgim.com/public/incoming/d10skh/article70915846.ece/alternates/LANDSCAPE_1200/A.%20Kadarkarai%20Raj.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/twist-in-gold-theft-at-sattur-dmk-candidates-house-estranged-daughter-in-law-accomplices-arrested/article70915159.ece",
-    "time": "2026-04-28T11:55:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Remo D'souza, wife on having first son out of wedlock: 'I didn't have faith'",
     "desc": "Choreographer-director Remo D'Souza and his wife Lizelle shared their unconventional love story, revealing they lived together and had their first son before marriage. Despite parental disapproval and societal taboos, they navigated parenthood and eventually married, celebrating their union multiple times over 25 years.",
@@ -196,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/gujarat-civic-polls-bjp-sweeps-all-15-corporations-crosses-50-vote-share-across-the-board/articleshow/130578770.cms",
     "time": "2026-04-28T11:39:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "9,400 accounts banned after dedicated probe found links to digital arrests, WhatsApp document in Supreme Court says",
-    "desc": "WhatsApp said its probe fan out from the initial ‘seed’ input from government sources to identify and run down the creators or administrators behind scam operations like digital arrests or accounts actively promoting scam activity within groups and channels, etc",
-    "img": "https://th-i.thgim.com/public/incoming/apsdmi/article70224412.ece/alternates/LANDSCAPE_1200/2025-08-21T095527Z_233248785_RC291W9HKQNZ_RTRMADP_3_RUSSIA-TECHNOLOGY-MESSENGER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/9400-accounts-banned-after-dedicated-probe-found-links-to-digital-arrests-whatsapp-document-in-supreme-court-says/article70915660.ece",
-    "time": "2026-04-28T11:27:23.000Z"
   },
   {
     "cat": "Sports",
@@ -279,15 +423,6 @@ const newsData_en = [
     "time": "2026-04-28T10:30:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Enola Holmes 3': Millie Bobby Brown shines in first look pictures; gives glimpse of what to expect from movie76323255",
-    "desc": "'Enola Holmes 3' is back, and this time she is taking her detective skills to an entirely new location. The third film in the franchise starring Millie Bobby Brown will release on July 1, 2026. It has been directed by Philip Barantini and written by 'Adolescence' writer Jack Thorpe. The first look pictures are already out, and here is everything they are telling us.",
-    "img": "https://static.toiimg.com/photo/msid-130576826,imgsize-78432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/enola-holmes-3-millie-bobby-brown-shines-in-first-look-pictures-gives-glimpse-of-what-to-expect-from-movie/photostory/130576826.cms",
-    "time": "2026-04-28T10:22:20.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Security agencies foil Delhi terror conspiracy",
     "desc": "Security agencies have thwarted a major plot to arm the capital with advanced weapons, uncovering a cross-border syndicate linked to Pakistan. Eighteen sophisticated firearms were seized from nine suspects allegedly planning to distribute them nationwide. Investigators are also examining the involvement of a figure connected to a previous arms case, highlighting ongoing threats.",
@@ -342,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-28T09:49:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Suniel Shetty praises Char Dham Yatra, says police work round the clock",
-    "desc": "Iconic actor Suniel Shetty took to social media to commend the Char Dham Yatra arrangements in Rishikesh, where he observed seamless operations amid throngs of visitors and soaring temperatures. Celebrating the traffic control measures and police dedication, he expressed his surprise at the stark difference from typical complaints.",
-    "img": "https://static.toiimg.com/photo/msid-130575614,imgsize-31042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-plans-char-dham-pilgrimage-praises-arrangements-in-rishikesh-the-police-are-working-round-the-clock/articleshow/130575614.cms",
-    "time": "2026-04-28T09:45:56.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kejriwal pays tribute to Mahatma Gandhi at Rajghat, reiterates ‘satyagraha’ stand in excise policy case",
     "desc": "Arvind Kejriwal and Manish Sisodia announced a boycott of Delhi Excise Policy case proceedings, citing bias and conflict of interest. Kejriwal visited Rajghat to pay tribute to Mahatma Gandhi, invoking Satyagraha. Both leaders expressed distrust in the judiciary due to alleged links of the judge and Solicitor General with RSS ideology.",
@@ -358,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/kejriwal-pays-tribute-to-mahatma-gandhi-at-rajghat-reiterates-satyagraha-stand-in-excise-policy-case/articleshow/130575184.cms",
     "time": "2026-04-28T09:24:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Basil Joseph drops BIG hint on Rajinikanth's ‘Thalaivar 173’",
-    "desc": "Malayalam actor Basil Joseph has hinted at signing a major film, sparking speculation about his involvement in Rajinikanth's 'Thalaivar 173'. His cryptic statement fuels rumors that he might play the superstar's son, potentially aligning with original project plans amidst director changes. Joseph also confirmed his role in the upcoming Tamil film 'Raawadi'.",
-    "img": "https://static.toiimg.com/photo/msid-130575178,imgsize-134172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/basil-joseph-drops-big-hint-on-rajinikanths-thalaivar-173-cant-reveal-now-leaves-fans-guessing/articleshow/130575143.cms",
-    "time": "2026-04-28T09:22:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Michael’ sequel faces legal standstill over 1993 settlement",
-    "desc": "The cinematic journey of Michael Jackson in the biopic 'Michael' has kicked off with a stunning global premiere, prompting anticipation for sequels. Nevertheless, the road ahead is fraught with complex legal issues and the task of respectfully addressing Jackson's tumultuous later years.",
-    "img": "https://static.toiimg.com/photo/msid-130574940,imgsize-81260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-sequel-faces-a-legal-standstill-over-the-1993-jordan-chandler-settlement-reports/articleshow/130574940.cms",
-    "time": "2026-04-28T09:13:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -405,42 +513,6 @@ const newsData_en = [
     "time": "2026-04-28T08:53:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Maharashtra IS-inspired attack: 'Suspect had desire to attack Hindus,' CM Fadnavis says",
-    "desc": "Maharashtra CM Devendra Fadnavis stated a \"lone wolf\" stabbing of two security guards in Thane is being investigated as potential self-radicalisation. The accused, who recently returned from the US, allegedly targeted Hindus in the name of jihad. Investigators are exploring wider networks, with the ATS and NIA involved. Recovered notes suggest a desire to join ISIS.",
-    "img": "https://static.toiimg.com/photo/msid-130574244,imgsize-1295551.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/maharashtra-isis-inspired-attack-suspect-had-desire-to-attack-hindus-cm-fadnavis-says/articleshow/130574183.cms",
-    "time": "2026-04-28T08:35:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre flags summer risks, asks states to step up heatwave, fire safety preparedness",
-    "desc": "The Union health ministry has urged states to bolster healthcare system preparedness for peak summer, warning of increased risks from heatwaves and fire incidents. Directives include establishing heatstroke units, ensuring ambulance readiness, and conducting urgent fire safety audits in hospitals to prevent avoidable deaths and ensure patient safety.",
-    "img": "https://static.toiimg.com/photo/msid-130574218,imgsize-67908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-flags-summer-risks-asks-states-to-step-up-heatwave-fire-safety-preparedness/articleshow/130574211.cms",
-    "time": "2026-04-28T08:34:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK didn't take pending Rs 95 lakh for Hum Tumhare Hai Sanam when it flopped",
-    "desc": "Producer KC Bokadia revealed how he brought Salman Khan and Shah Rukh Khan together for 'Hum Tumhare Hain Sanam'. Salman's father agreed to his role without a script narration, while SRK watched the original Tamil film and agreed to a 20-day commitment for Rs 2 crore.",
-    "img": "https://static.toiimg.com/photo/msid-130574110,imgsize-23432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-refused-to-take-pending-rs-95-lakhs-for-hum-tumhare-hai-sanam-when-the-film-flopped-you-will-have-to-pay-by-selling-your-assets/articleshow/130574060.cms",
-    "time": "2026-04-28T08:27:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'There can’t be anarchy': SC hears Sabarimala case, flags need for structure in religious institutions",
-    "desc": "The Supreme Court emphasized that religious institutions must operate under established norms, not anarchy, while hearing cases related to women's entry at places of worship. A nine-judge bench stated that the right to manage a religious institution requires regulation within constitutional limits to prevent discrimination and ensure orderly functioning.",
-    "img": "https://static.toiimg.com/photo/msid-130573938,imgsize-124292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/there-cant-be-anarchy-sc-hears-sabarimala-case-flags-need-for-structure-in-religious-institutions/articleshow/130573886.cms",
-    "time": "2026-04-28T08:19:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar 2' BO day 41 [LIVE]: Ranveer Singh film eyes nine-year global record of 'Baahubali 2'",
     "desc": "The Revenge’ reached a worldwide gross of Rs. 1,779.02 crore, placing it just Rs. 10.54 crore away from beating ‘Baahubali 2’ to become the second highest-grossing Indian film globally. Directed by Aditya Dhar and starring Ranveer Singh, the film’s India net stands at Rs. 1,131.83 crore, continuing its pursuit of ‘Pushpa 2’s domestic record. Despite the IPL 2026 season and the release of ‘Bhooth Bangla,’ the espionage thriller remains a box office juggernaut.",
@@ -448,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-41-live-ranveer-singh-starrer-is-now-just-rs-9-crore-away-from-beating-baahubali-2-worldwide-as-domestic-net-stands-at-rs-1131-crore/articleshow/130573426.cms",
     "time": "2026-04-28T08:05:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We had Malinga, then... ': Shamsi shares hilarious 'final boss' clip",
-    "desc": "South Africa spinner Tabraiz Shamsi shared a viral clip of a youngster with a slingy action, jokingly comparing him to Lasith Malinga and Matheesha Pathirana. The post amused fans widely. Meanwhile, Pathirana has joined Kolkata Knight Riders after injury recovery, though he may not play immediately as the team assesses his fitness.",
-    "img": "https://static.toiimg.com/photo/msid-130573619,imgsize-30050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-had-malinga-then-we-got-pathirana-tabraiz-shamsi-shares-hilarious-final-boss-clip-watch/articleshow/130573419.cms",
-    "time": "2026-04-28T08:02:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Their atrocities have increased': Atishi attacks BJP after Rajya Sabha nod to AAP MPs’ merger",
-    "desc": "Delhi LoP Atishi has declared the Rajya Sabha Secretariat's acceptance of seven AAP MPs merging with the BJP as \"unlawful and unconstitutional.\" She argued that the Constitution and anti-defection laws do not permit such mergers, warning PM Modi of historical consequences for increased \"atrocities.\"",
-    "img": "https://static.toiimg.com/photo/msid-130573552,imgsize-747665.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/their-atrocities-have-increased-atishi-attacks-bjp-after-rajya-sabha-nod-to-aap-mps-merger/articleshow/130573538.cms",
-    "time": "2026-04-28T07:57:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -558,15 +612,6 @@ const newsData_en = [
     "time": "2026-04-28T02:54:55.000Z"
   },
   {
-    "cat": "Business",
-    "title": "RIL, Axis Bank &amp; more: Top stocks to watch today",
-    "desc": "Goldman Sachs maintained a buy rating on Reliance Industries, citing potential margin recovery and strong retail growth despite a Q4FY26 EBITDA miss. Nomura also holds a buy on Axis Bank, highlighting attractive valuations and strong loan growth. HSBC recommends buying Shriram Finance, anticipating RoA expansion despite revised AUM growth forecasts.",
-    "img": "https://static.toiimg.com/photo/msid-130567780,imgsize-98704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ril-axis-bank-more-top-stocks-to-watch-on-april-28-2026/articleshow/130567807.cms",
-    "time": "2026-04-28T02:46:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kohli, Rahul and the journey to T20 greatness",
     "desc": "In the last three years, the RCB talisman has taken his game in the shortest format to a new level and remains a great role model in modern sport; he is also the benchmark for the Capitals’ keeper-batter and the new generation",
@@ -583,24 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-iran-clash-over-tehrans-nuclear-programme-as-review-of-atomic-treaty-begins-at-un/article70913989.ece",
     "time": "2026-04-28T02:17:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trai paper aims to scale up public Wi-Fi",
-    "desc": "India's telecom regulator is seeking public input to boost affordable internet access through Wi-Fi. Trai acknowledges the current public Wi-Fi network is small and fragmented, failing to meet accessibility goals despite government efforts. The authority aims to identify and address regulatory, operational, and business hurdles hindering growth and explore new models.",
-    "img": "https://static.toiimg.com/photo/msid-130567297,imgsize-16944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/trai-paper-aims-to-scale-up-public-wi-fi/articleshow/130567268.cms",
-    "time": "2026-04-28T01:48:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Internet fumes after Manu Bhaker asked about Vaibhav Sooryavanshi",
-    "desc": "At an NRAI event in Delhi, Manu Bhaker was asked about Vaibhav Sooryavanshi, sparking online criticism for shifting focus from her Olympic achievements. Bhaker emphasized mentorship, saying age doesn’t limit talent. Social media, including Joy Bhattacharjya, called the question unfair and cricket-centric. Meanwhile, Sooryavanshi continues to shine, becoming the youngest to 1,000 T20 runs and emerging as a promising future star for India.",
-    "img": "https://static.toiimg.com/photo/msid-130567250,imgsize-36168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unfair-on-her-achievements-internet-fumes-after-olympic-medallist-manu-bhaker-asked-about-vaibhav-sooryavanshi/articleshow/130567054.cms",
-    "time": "2026-04-28T01:47:38.000Z"
   },
   {
     "cat": "Tech",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-origin-stories-of-spam/article70814926.ece",
     "time": "2026-04-23T09:46:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic's Mythos AI model accessed by unauthorised users",
-    "desc": "A ‌handful of users in a private online forum ‌gained access to Mythos on ‌the ⁠same day that Anthropic ⁠first announced a plan to release the model to a limited number ​of companies ‌for testing purposes",
-    "img": "https://th-i.thgim.com/public/incoming/jmd0fg/article70682421.ece/alternates/LANDSCAPE_1200/20260219085L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-mythos-ai-model-accessed-by-unauthorized-users/article70892279.ece",
-    "time": "2026-04-22T12:16:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
