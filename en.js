@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Paths of 'Singham' &amp; 'Pushpa' don't cross, Falta focuses on taped EVM",
+    "desc": "Falta constituency witnessed a high-stakes election day with IPS Ajay Pal Sharma, dubbed 'Singham', patrolling while TMC candidate Jahangir Khan, 'Pushpa', monitored from his control room. Despite charged rhetoric, the anticipated confrontation didn't materialize, overshadowed by EVM complaints, leading to a repoll in Falta.",
+    "img": "https://static.toiimg.com/photo/msid-130618058,imgsize-7324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/paths-of-singham-pushpa-dont-cross-falta-focuses-on-taped-evm/articleshow/130617861.cms",
+    "time": "2026-04-29T21:35:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rob Reiner's autopsy report 'not complete'; son to remain in jail",
+    "desc": "Autopsy reports into the deaths of US movie director Rob Reiner and his wife have not yet been completed, a Los Angeles court heard Wednesday, as the couple's son made a brief appearance charged with their murders. Nick Reiner appeared Wednesday for a hearing that had been intended to determine if there was enough evidence for him to stand trial.",
+    "img": "https://static.toiimg.com/photo/msid-130617854,imgsize-66930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-reiner-murder-case-nick-reiner-to-remain-in-jail-till-september-18-parents-autopsy-report-not-complete/articleshow/130617810.cms",
+    "time": "2026-04-29T21:31:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajesh Khanna’s live-in partner Anita recalls his low phase",
+    "desc": "Anita Advani, the live-in partner of late superstar Rajesh Khanna, has opened up about a difficult phase in the actor’s life, recalling how he was left isolated when his films stopped performing at the box office. When asked if the industry was actively sidelining the actor, Anita said, “Yes, absolutely. It felt like there was a campaign running against him. People would say, ‘don’t take him’, ‘don’t cast him’.”",
+    "img": "https://static.toiimg.com/photo/msid-130617843,imgsize-42508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khannas-live-in-partner-anita-advani-recalls-his-low-phase-it-felt-like-there-was-a-campaign-running-against-him/articleshow/130617836.cms",
+    "time": "2026-04-29T21:28:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bhowanipore votes, Didi breaks poll-day routine &amp; Suvendu says, 'I like this fear'",
+    "desc": "A tense election day in Bhowanipore saw Chief Minister Mamata Banerjee and rival Suvendu Adhikari narrowly miss each other, highlighting a bitter personal contest. Both leaders traded accusations of intimidation and rigging amidst high voter turnout. Incidents of clashes and alleged assaults by central forces were reported, escalating the political heat.",
+    "img": "https://static.toiimg.com/photo/msid-130617813,imgsize-67238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bhowanipore-votes-didi-breaks-poll-day-routine-suvendu-says-i-like-this-fear/articleshow/130617814.cms",
+    "time": "2026-04-29T21:10:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modi",
+    "desc": "Prime Minister Narendra Modi stated that Bengal's record voter turnout signals a change, expressing confidence in the BJP's victory. He also predicted NDA's retention of Assam and Puducherry, with potential surprises in Kerala and Tamil Nadu. Modi highlighted the high turnout as a reflection of fear-free elections and voters' awareness of their democratic rights.",
+    "img": "https://static.toiimg.com/photo/msid-130617731,imgsize-135282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/record-turnout-over-two-phases-harbinger-of-change-in-bengal-modi/articleshow/130617732.cms",
+    "time": "2026-04-29T20:34:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "92.6% turnout in Phase 2 takes Bengal total to record 92.9%",
+    "desc": "West Bengal witnessed an unprecedented voter turnout of 92.9% across two phases, surpassing previous records and nearing India's highest. This surge, particularly in Kolkata, is attributed to voter roll corrections and enhanced security. Despite a reduced electorate, more votes were cast, with women outvoting men. Officials are investigating complaints of vote tampering.",
+    "img": "https://static.toiimg.com/photo/msid-130617706,imgsize-111284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/92-6-turnout-in-phase-2-takes-bengal-total-to-record-92-9/articleshow/130617699.cms",
+    "time": "2026-04-29T20:24:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RK's live-in partner reacts after HC dismisses marriage plea",
+    "desc": "After the Bombay High Court dismissed her plea seeking recognition of her relationship “in the nature of marriage” with Rajesh Khanna, Anita Advani has now spoken out, making it clear that she is not ready to back down. Expressing disappointment over the ruling, she said, “After 14 years, I don’t even get to show that my relationship was so and so. How can a civil matter be decided without a trial? That is a travesty of justice.”",
+    "img": "https://static.toiimg.com/photo/msid-130617563,imgsize-41846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khannas-live-in-partner-anita-advani-breaks-silence-after-hc-dismisses-marriage-plea-after-14-years-i-didnt-even-get-a-trial/articleshow/130617491.cms",
+    "time": "2026-04-29T19:54:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "local bodies told to step up enforcement",
+    "desc": "Secretaries of local bodies, including Kochi Corporation, Thrikkakara municipality, and the Edathala, Kunnathunadu and Kizhakkambalam grama panchayats, have been directed by the LSGD to impose penalties and initiate legal proceedings against those found violating norms",
+    "img": "https://th-i.thgim.com/public/incoming/ngazbq/article70921939.ece/alternates/LANDSCAPE_1200/10018_19_1_2023_15_36_11_3_KADAMRAYAR_05.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kadambrayar-pollution-local-bodies-told-to-step-up-enforcement/article70921234.ece",
+    "time": "2026-04-29T19:31:27.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "IPL 2026 MI vs SRH",
     "desc": "The result left MI — with its sixth loss in eight games — on the brink of being the first team to be ousted from the playoff race, while SRH continued its surge with its fifth consecutive win",
@@ -19,7 +91,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Abhishek, Klaasen surges ahead of Vaibhav Sooryavanshi",
+    "title": "Abhishek, Klaasen surge ahead of Vaibhav Sooryavanshi",
     "desc": "Abhishek Sharma has regained the Orange Cap with a swift 45, surpassing Vaibhav Sooryavanshi. Sharma now boasts 425 runs, with teammate Heinrich Klaasen climbing to second. Sooryavanshi drops to third, while KL Rahul and Virat Kohli round out the top five in a dynamic run-scoring race.",
     "img": "https://static.toiimg.com/photo/msid-130616722,imgsize-1100431.cms",
     "src": "indiatimes.com",
@@ -115,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/poll-of-exit-polls-2026-bengal-cliffhanger-congress-in-kerala-status-quo-in-tamil-nadu-assam-puducherry-predictions-decoded/articleshow/130612941.cms",
     "time": "2026-04-29T17:14:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "local bodies told to step up enforcement",
-    "desc": "Secretaries of local bodies, including Kochi Corporation, Thrikkakara municipality, and the Edathala, Kunnathunadu and Kizhakkambalam grama panchayats, have been directed by the LSGD to impose penalties and initiate legal proceedings against those found violating norms",
-    "img": "https://th-i.thgim.com/public/incoming/ngazbq/article70921939.ece/alternates/LANDSCAPE_1200/10018_19_1_2023_15_36_11_3_KADAMRAYAR_05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kadambrayar-pollution-local-bodies-told-to-step-up-enforcement/article70921234.ece",
-    "time": "2026-04-29T17:12:18.000Z"
   },
   {
     "cat": "World",
@@ -387,15 +450,6 @@ const newsData_en = [
     "time": "2026-04-29T12:37:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Exit polls today for 4 states, 1 UT; Trump's fresh warning to Iran &amp; more",
-    "desc": "Voters await exit polls as West Bengal concludes its Phase 2 elections. Prime Minister Modi inaugurated Uttar Pradesh's longest Ganga Expressway. Meanwhile, Donald Trump issued a stern warning to Iran regarding nuclear talks, and King Charles III emphasized democratic values and climate action during his US visit.",
-    "img": "https://static.toiimg.com/photo/msid-130607137,imgsize-1012691.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-exit-polls-today-for-4-states-1-ut-trumps-fresh-warning-to-iran-more/articleshow/130606340.cms",
-    "time": "2026-04-29T12:20:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Big loss, a blunder’: Shakib Al Hasan slams Bangladesh’s T20 World Cup no-show",
     "desc": "Former Bangladesh captain Shakib Al Hasan has labelled the nation's absence from the 2026 T20 World Cup a \"blunder\" and a significant setback for cricket-loving Bangladesh. He expressed hope for his own future in the game and praised India's strong talent pipeline, while advocating for a team-first approach for Bangladesh's cricket.",
@@ -486,33 +540,6 @@ const newsData_en = [
     "time": "2026-04-29T11:08:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sameera Reddy reacts to Deepika Padukone's 8-hour shift row: 'It's a luxury'",
-    "desc": "Actor Sameera Reddy shared her nuanced perspective on the 8-hour work shift debate in Bollywood, acknowledging the challenges faced by new mothers while also understanding the pressures on film projects. She emphasized that while flexibility is a luxury, balancing work and family requires careful project selection and occasional adjustments.",
-    "img": "https://static.toiimg.com/photo/msid-130604763,imgsize-47640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sameera-reddy-reacts-to-deepika-padukones-8-hour-shift-row-its-a-luxury-for-women-to-ask-for-it/articleshow/130604718.cms",
-    "time": "2026-04-29T10:57:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Keith Urban’s first appearance after Sunday Rose’s social media move",
-    "desc": "After navigating a recent breakup with Nicole Kidman, country singer Keith Urban stepped into the spotlight at a Nashville music gathering, marking his return to public life. This event has sparked conversations about a potential strain in his relationship with his eldest daughter, Sunday Rose, particularly after she unfollowed him online for a short time.",
-    "img": "https://static.toiimg.com/photo/msid-130604392,imgsize-126934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/keith-urban-attends-musicians-hall-of-fame-event-amid-alleged-feud-with-daughter-sunday-rose-report/articleshow/130604278.cms",
-    "time": "2026-04-29T10:43:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bhowanipore feels the heat as Mamata and Suvendu take on each other",
-    "desc": "Bhabanipur witnessed high-voltage drama as Mamata Banerjee and Suvendu Adhikari traded barbs amid polling. Mamata accused the BJP of rigging, while Suvendu dismissed her claims as frustration. Tensions flared at a polling booth, requiring intervention by security forces. This phase is crucial for both TMC's stronghold and BJP's challenge in south Bengal.",
-    "img": "https://static.toiimg.com/photo/msid-130603871,imgsize-52306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-bhabanipur-feels-the-heat-as-mamata-and-suvendu-take-on-each-other/articleshow/130603766.cms",
-    "time": "2026-04-29T10:27:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "104 matches, 0 broadcasters: Why no one in India wants the 2026 FIFA World Cup",
     "desc": "With less than two months to go for the FIFA World Cup, India, China, and several Asian countries still lack an official broadcaster. High rights costs, inconvenient match timings, and cricket's dominance have deterred buyers in India. This poses challenges for FIFA’s outreach in the region, though a last-minute deal remains possible.",
@@ -520,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/104-matches-0-broadcasters-why-no-one-in-india-wants-the-2026-fifa-world-cup/articleshow/130602470.cms",
     "time": "2026-04-29T09:50:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajesh Khanna's PR agent reveals how he got the 'superstar' tag in viral video",
-    "desc": "Publicity agent Tarak Nath Gandhi revealed how Rajesh Khanna was strategically branded 'superstar' through consistent media messaging. While the title was promoted, Khanna's unparalleled success, including 17 consecutive blockbusters, ultimately solidified his legendary status and immense fan adoration.",
-    "img": "https://static.toiimg.com/photo/msid-130602479,imgsize-33690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khannas-pr-agent-reveals-how-he-got-the-superstar-tag-in-a-viral-video-ek-cheez-jab-baar-baar-kaha-jaata-hai-/articleshow/130602331.cms",
-    "time": "2026-04-29T09:32:17.000Z"
   },
   {
     "cat": "Sports",
@@ -547,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/battling-for-life-in-delhi-afghanistan-cricket-hero-shapoor-zadran-in-urgent-need-of-blood/articleshow/130601801.cms",
     "time": "2026-04-29T09:07:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Historic hat-trick of victories': PM Modi hails 'fearless voting in Bengal'",
-    "desc": "Prime Minister Modi lauded West Bengal's high voter turnout in the second phase of assembly elections, highlighting a \"fearless atmosphere.\" He expressed confidence in a BJP hat-trick of victories across five states, citing recent successes in Bihar and Gujarat. The results on May 4 are anticipated to bolster the resolve for a developed India.",
-    "img": "https://static.toiimg.com/photo/msid-130601796,imgsize-842994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/historic-hat-trick-of-victories-pm-modi-hails-fearless-voting-in-bengal/articleshow/130601326.cms",
-    "time": "2026-04-29T09:04:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -610,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/ganga-expressway-inauguration-by-pm-modi-today-ups-longest-expressway-between-meerut-prayagraj-check-travel-time-route-speed-limit-top-facts-images/articleshow/130597693.cms",
     "time": "2026-04-29T06:28:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FSSAI proposes plastic-free packaging for pan masala, gutka",
-    "desc": "The Food Safety and Standards Authority of India (FSSAI) has proposed a complete ban on single-use plastic packaging for pan masala, gutka, and similar products. The draft amendment mandates the use of paper, paperboard, or naturally derived materials, prohibiting plastics and aluminium foil. This move aims to curb plastic waste and aligns with existing state-level bans on these products.",
-    "img": "https://static.toiimg.com/photo/msid-130597533,imgsize-633307.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fssai-proposes-plastic-free-packaging-for-pan-masala-gutka/articleshow/130597545.cms",
-    "time": "2026-04-29T06:00:15.000Z"
   },
   {
     "cat": "World",
