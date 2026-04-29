@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand Cricket announces squad for upcoming Women's T20 WC 2026, Amelia Kerr set to lead",
+    "desc": "NZC (New Zealand Cricket) recently came forward and announced their squad for the upcoming edition of the Women’s T20 World Cup 2026. The marquee event is all set to kick off on June 12, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-cricket-announces-squad-for-upcoming-women-s-t20-wc-2026-amelia-kerr-set-to-lead-2026-04-29-1039263",
+    "time": "2026-04-29T02:21:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals surpass RCB, SRH in elite list after breaking Punjab Kings' unbeaten run in IPL 2026",
+    "desc": "Game 40 of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Punjab Kings. The two sides locked horns in Mullanpur on April 29, and the game saw Rajasthan Royals end Punjab...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-surpass-rcb-srh-in-elite-list-after-breaking-punjab-kings-unbeaten-run-in-ipl-2026-2026-04-29-1039259",
+    "time": "2026-04-29T01:19:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer reflects on Punjab Kings' first defeat in IPL 2026, says 'bit short in our bowling'",
     "desc": "Punjab Kings suffered their first defeat of the IPL 2026 season, losing by six wickets to Rajasthan Royals. Chasing 223 runs, Vaibhav Sooryavanshi and Yashasvi Jaiswal launched a perfect start, but once they departed, the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/brazil-s-eder-militao-ruled-out-of-fifa-world-cup-2026-real-madrid-confirms-surgery-2026-04-28-1039234",
     "time": "2026-04-28T15:24:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I want to win ODI World Cup and WTC for India': GT all-rounder Nishant Sindhu eyes top prize",
-    "desc": "A left-handed batter, a left-arm finger spinner, a middle-order enforcer and a lower-order finisher. All of these traits associated with Ravindra Jadeja and Axar Patel. Another prodigy, who is looking to walk on the path...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-want-to-win-odi-world-cup-and-wtc-for-india-gt-all-rounder-nishant-sindhu-eyes-top-prize-exclusive-2026-04-28-1039233",
-    "time": "2026-04-28T15:18:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ravi Bishnoi not playing for RR vs PBKS in IPL 2026 clash in Mullanpur?",
-    "desc": "Rajasthan have dropped Ravi Bishnoi in their IPL 2026 clash against Punjab Kings in Mullanpur. The leg-spinner started well in the season, being one of the leading wicket-takers, but in the last few games, his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ravi-bishnoi-not-playing-for-rr-vs-pbks-in-ipl-2026-clash-in-mullanpur-2026-04-28-1039228",
-    "time": "2026-04-28T14:03:45.000Z"
   }
 ];
