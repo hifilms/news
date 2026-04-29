@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Riyan Parag captured vaping inside Rajasthan Royals' dressing room as fresh controversy erupts",
+    "desc": "Rajasthan Royals registered an emphatic victory against Punjab Kings in the 40th game of the ongoing IPL (Indian Premier League) 2026. Led by Riyan Parag, Royals ended Punjab Kings’ unbeaten streak in the tournament. putting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-captured-vaping-inside-rajasthan-royals-dressing-room-as-fresh-controversy-erupts-watch-2026-04-29-1039278",
+    "time": "2026-04-29T05:14:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Exceptional performance': Shreyas Iyer hails Rajasthan Royals after facing first defeat of IPL 2026",
+    "desc": "The 40th game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Punjab Kings. The two sides met in Mullanpur on April 28, and Royals became the first team in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/exceptional-performance-shreyas-iyer-hails-rajasthan-royals-after-facing-first-defeat-of-ipl-2026-2026-04-29-1039267",
+    "time": "2026-04-29T03:53:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand Cricket announces squad for upcoming Women's T20 WC 2026, Amelia Kerr set to lead",
     "desc": "NZC (New Zealand Cricket) recently came forward and announced their squad for the upcoming edition of the Women’s T20 World Cup 2026. The marquee event is all set to kick off on June 12, and...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-downs-huge-ipl-record-after-whirlwind-43-against-rr-in-new-chandigarh-2026-04-28-1039242",
     "time": "2026-04-28T17:11:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will MI opener feature against Sunrisers Hyderabad?",
-    "desc": "Mumbai Indians are still weighing their options over Rohit Sharma’s availability ahead of their upcoming fixture against Sunrisers Hyderabad. In the pre-match press conference, MI’s spokesperson confirmed that nothing is certain as clarity is expected...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-will-mi-opener-feature-against-sunrisers-hyderabad-2026-04-28-1039238",
-    "time": "2026-04-28T16:27:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil's Eder Militao ruled out of FIFA World Cup 2026, Real Madrid confirms surgery",
-    "desc": "Brazil and Real Madrid defender Eder Militao has been ruled out of the forthcoming FIFA World Cup 2026. The 28-year-old injured his hamstring during a La Liga clash against Alaves last week. On Tuesday, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/brazil-s-eder-militao-ruled-out-of-fifa-world-cup-2026-real-madrid-confirms-surgery-2026-04-28-1039234",
-    "time": "2026-04-28T15:24:50.000Z"
   }
 ];
