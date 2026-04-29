@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ryan Rickelton smacks fastest century for Mumbai Indians in IPL history vs SRH, check full list",
+    "desc": "Ryan Rickelton smacked the fastest century for Mumbai Indians in IPL history. Tilak Varma and Sanath Jayasuriya held the record, having hit a 45-ball century in the 2023 and 2008 seasons, respectively. Rickelton bettered that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ryan-rickelton-smacks-fastest-century-for-mumbai-indians-in-ipl-history-vs-srh-check-full-list-2026-04-29-1039364",
+    "time": "2026-04-29T15:34:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India lose final group outing in Thomas Cup to China; Ayush, Prannoy close defeat margin to 2-3",
+    "desc": "India lost their last group stage outing in the Thomas Cup to China despite fighting wins from Ayush Shetty and HS Prannoy in Horsens on Wednesday, April 29. India and China had already qualified for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-lose-final-group-outing-in-thomas-cup-to-china-ayush-prannoy-close-defeat-margin-2026-04-29-1039361",
+    "time": "2026-04-29T15:15:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Mumbai Indians players wearing black armbands in clash against SRH in IPL 2026?",
+    "desc": "Mumbai Indians players were spotted wearing black armbands in their IPL 2026 clash against Sunrisers Hyderabad at the Wankhede Stadium. The gesture comes in response to a personal tragedy within the franchise’s extended family, after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-mumbai-indians-players-wearing-black-armbands-in-clash-against-srh-in-ipl-2026-2026-04-29-1039359",
+    "time": "2026-04-29T15:03:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hardik Pandya shares MI star's fitness status ahead of SRH clash in IPL 2026",
     "desc": "Rohit Sharma missed out yet again as the Mumbai Indians take on the Sunrisers Hyderabad in their eighth match of the Indian Premier League 2026 at the Wankhede Stadium on Wednesday, April 29. This is...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/3-new-zealand-players-set-to-retire-from-international-cricket-after-t20-world-cup-2026-2026-04-29-1039331",
     "time": "2026-04-29T10:52:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SLC president Shammi Silva, executive committee members resign, Sri Lanka government to take over",
-    "desc": "Sri Lanka Cricket president Shami Silva and other executive committee members tendered their resignations on Wednesday, a move which was approved at a special committee meeting yesterday. This came after the country's president, Anura Kumara...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/slc-president-shammi-silva-executive-committee-members-resign-sri-lanka-government-to-take-over-2026-04-29-1039330",
-    "time": "2026-04-29T10:47:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians have the capability to win every game from here; it's just about clicking: Sunil Gavaskar",
-    "desc": "Mumbai Indians have bagged just two wins in seven games and are currently ninth on the IPL 2026 points table. After a convincing win over Kolkata Knight Riders in their first game, Mumbai looked like...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-have-the-capability-to-win-every-game-from-here-it-s-just-about-clicking-sunil-gavaskar-2026-04-29-1039328",
-    "time": "2026-04-29T10:25:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former Mumbai Indians player suggests one certain change they should make vs SRH in today's match",
-    "desc": "Five-time champions Mumbai Indians have not found their groove yet in the ongoing edition of the Indian Premier League (IPL). They are languishing in the ninth place in the points table with only two wins...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-mumbai-indians-player-suggests-one-certain-change-they-should-make-vs-srh-in-today-s-match-2026-04-29-1039319",
-    "time": "2026-04-29T09:48:12.000Z"
   }
 ];

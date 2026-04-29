@@ -1,21 +1,174 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Nandyal officials launch drive to address 29 black spots on national highways",
-    "desc": "In 2025, the district recorded 567 road accidents and 296 deaths in 2025, up from 542 accidents and 271 deaths in 2024; nine of the 29 identified black spots are on NH-40, seven on NH-44 and six within Nandyal town",
-    "img": "https://th-i.thgim.com/public/incoming/9a85l9/article70920882.ece/alternates/LANDSCAPE_1200/10745_29_4_2026_14_3_11_1_USM_1254.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nandyal-collector-sp-launch-month-long-drive-to-fix-29-black-spots-on-highways/article70919651.ece",
-    "time": "2026-04-29T13:33:04.000Z"
+    "title": "Kejriwal breakthrough or Prashant Kishor's 'farsh' moment — what will it be for Vijay?",
+    "desc": "Exit polls present a stark contrast for Vijay's Tamilaga Vettri Kazhagam in the 2026 Tamil Nadu elections. While most predict a spoiler role with 10-24 seats, one outlier suggests a Kejriwal-like breakthrough of 98-120 seats. The outcome hinges on converting star power into grassroots strength, unlike Prashant Kishor's Bihar debut.",
+    "img": "https://static.toiimg.com/photo/msid-130611995,imgsize-1077437.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-exit-polls-2026-kejriwal-breakthrough-or-prashant-kishors-farsh-moment-what-will-it-be-for-vijay/articleshow/130611855.cms",
+    "time": "2026-04-29T15:48:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ryan Rickelton scripts history with fastest-ever MI hundred",
+    "desc": "Ryan Rickelton made a sensational return to the Mumbai Indians playing XI, smashing the fastest century in franchise history during their IPL 2026 match against Sunrisers Hyderabad. The South African opener reached his maiden IPL hundred in just 44 balls, a blistering knock featuring seven sixes and eight fours, powering MI to a strong position.",
+    "img": "https://static.toiimg.com/photo/msid-130611994,imgsize-47424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ryan-rickelton-scripts-history-with-fastest-ever-mumbai-indians-hundred/articleshow/130611974.cms",
+    "time": "2026-04-29T15:46:53.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Latest NSO results show rise in health-seeking behaviour, relatively low out-of-pocket medical expenses",
-    "desc": "The 80th round of the survey finds population covered by government health schemes increased from 12.9% to 45.5% in rural areas, and 8.9% to 31.8% in urban areas; high medical expenditure limited to specific cases requiring specialised treatment; infectious diseases declined, prevalence of non-communicable diseases rose",
-    "img": "https://th-i.thgim.com/public/incoming/aunw64/article70920917.ece/alternates/LANDSCAPE_1200/10213_13_12_2025_18_45_38_1_KA14STPEOPLEHOSPITALINDHARMAPURI.JPG",
+    "title": "Higher voter turnout in favour of Trinamool Congress, says Saugata Roy",
+    "desc": "Reacting to the exit poll, TMC MP Saugata Roy said, \"the party will do very well. High voter turnout is in favour of TMC. It is against the BJP because people are angry with the role of the Election Commission, which is in a conspiracy with the BJP.\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/latest-nso-results-show-rise-in-health-seeking-behaviour-relatively-low-out-of-pocket-medical-expenses/article70920419.ece",
-    "time": "2026-04-29T13:33:02.000Z"
+    "url": "https://www.thehindu.com/elections/assembly-election-2026-exit-polls-live-updates-tamil-nadu-kerala-puducherry-west-bengal-assam/article70920319.ece",
+    "time": "2026-04-29T15:44:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Merz says relations with Trump are good despite spat over Iran",
+    "desc": "My personal relationship ‌with the U.S. President remains good. I simply ‌had ⁠doubts from the start about what was begun ⁠with the war in Iran. That is why I have made that clear, says German Chancellor Friedrich Merz ​",
+    "img": "https://th-i.thgim.com/public/incoming/g9b1g5/article70921633.ece/alternates/LANDSCAPE_1200/2026-04-29T100821Z_263813789_RC2YYKAL4HSF_RTRMADP_3_GERMANY-POLITICS-HEALTH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/merz-says-relations-with-trump-are-good-despite-spat-over-iran/article70921626.ece",
+    "time": "2026-04-29T15:41:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Keith Urban's talk about runing marriage with Nicole Kidman",
+    "desc": "After nearly two decades of marriage, Keith Urban and Nicole Kidman's unexpected split in September sent shockwaves through the entertainment world. In an earlier interview, Urban candidly revealed how his struggles with addiction nearly derailed their union, emphasizing Kidman's unwavering support and love.",
+    "img": "https://static.toiimg.com/photo/msid-130611837,imgsize-127438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/when-keith-urban-talked-about-how-he-blew-his-marriage-with-nicole-kidman-to-smithereens/articleshow/130611755.cms",
+    "time": "2026-04-29T15:38:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A.P. government procures two high-speed patrol boats for surveillance",
+    "desc": "The boats, which will be built at a total cost of ₹2.40 crore, will be deployed once the fishing ban is over to keep a check on the intrusion of fishermen from Tamil Nadu and Puducherry into the territorial sea waters of south coastal A.P.",
+    "img": "https://th-i.thgim.com/public/incoming/ud2uf3/article70921507.ece/alternates/LANDSCAPE_1200/10745_29_4_2026_20_33_0_1_IMG_20260429_WA0034.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-government-procures-two-high-speed-patrol-boats-for-surveillance/article70921249.ece",
+    "time": "2026-04-29T15:12:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India lose 2-3 to China despite fightback ahead of quarters",
+    "desc": "India concluded their Thomas Cup Finals group stage with a narrow 2-3 defeat against China, despite already securing a quarterfinal spot. Lakshya Sen and the top doubles pair lost their matches, putting India down 0-2. However, Ayush Shetty and H.S. Prannoy secured wins in their respective matches, showcasing the team's fighting spirit ahead of the knockout stages.",
+    "img": "https://static.toiimg.com/photo/msid-130611125,imgsize-44526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/thomas-cup-blow-india-lose-2-3-to-china-despite-fightback-ahead-of-quarters/articleshow/130611136.cms",
+    "time": "2026-04-29T15:07:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Madurai Bench of Madras High Court appoints Hindu couple as legal guardian of Muslim child",
+    "desc": "A Division Bench of Justices N. Anand Venkatesh and K.K. Ramakrishnan took into account that the child, right from birth, had been taken care of by the Hindu couple and was identifying them as her parents.",
+    "img": "https://th-i.thgim.com/public/incoming/imqtc8/article70921442.ece/alternates/LANDSCAPE_1200/9871_6_2_2026_18_47_39_1_DSC_9829.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/madurai-bench-of-madras-high-court-appoints-hindu-couple-as-legal-guardian-of-muslim-child/article70921254.ece",
+    "time": "2026-04-29T15:02:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NDA likely to retain power; Congress, TVK lag in fragmented fight",
+    "desc": "Puducherry's 2026 elections saw a massive 89.83% voter turnout, with exit polls suggesting a tight race. The ruling NDA, led by AINRC-BJP, appears to have a slight edge over the Congress-DMK alliance. A new force, Tamilaga Vettri Kazhagam, has also made its presence felt in several key constituencies, potentially fragmenting the results.",
+    "img": "https://static.toiimg.com/photo/msid-130610453,imgsize-2753692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/puducherry-exit-polls-2026-nda-likely-to-retain-power-congress-tvk-lag-in-fragmented-fight/articleshow/130610159.cms",
+    "time": "2026-04-29T14:34:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh’s Shakib still hopeful of returning to the national side",
+    "desc": "The veteran all-rounder did not hold back while criticising both the BCB and the previous interim government over the team’s absence from the T20 World Cup in India earlier this year, a decision taken over security concerns",
+    "img": "https://th-i.thgim.com/public/incoming/ip6qtx/article70921302.ece/alternates/LANDSCAPE_1200/IMG_CRICKET-BAN-ZIM-T20_2_1_8TCRPC0L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/i-am-trying-to-find-a-solution-bangladeshs-shakib-still-hopeful-of-returning-to-the-national-side/article70921288.ece",
+    "time": "2026-04-29T14:33:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'If I'm guilty, punish me'",
+    "desc": "Actor and entrepreneur Raj Kundra has voiced his frustration over a four-year legal battle concerning a pornography case. After concluding arguments in the lower court, Kundra stated he seeks justice and freedom if proven innocent, lamenting the prolonged proceedings and media scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-130610266,imgsize-47860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shilpa-shettys-husband-raj-kundra-seeks-justice-in-pornography-case-if-im-guilty-punish-me/articleshow/130609972.cms",
+    "time": "2026-04-29T14:20:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Mumbai Indians players are wearing black armbands vs Sunrisers Hyderabad",
+    "desc": "Mumbai Indians players wore black armbands in their IPL 2026 match against Sunrisers Hyderabad to mourn the loss of a support staff member's daughter. Skipper Hardik Pandya won the toss and chose to bat, while Rohit Sharma remains sidelined due to recovery. SRH captain Pat Cummins anticipated a challenging pitch.",
+    "img": "https://static.toiimg.com/photo/msid-130610199,imgsize-42800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-mumbai-indians-players-are-wearing-black-armbands-vs-sunrisers-hyderabad/articleshow/130610158.cms",
+    "time": "2026-04-29T14:18:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UDF predicted to win coastal state in neck-and-neck contest with LDF",
+    "desc": "A defeat for LDF would also diminish the presence of CPM in its last major stronghold. The campaign narrative has also undergone notable shifts. Early phases were dominated by issues such as corruption allegations, economic concerns, backdoor appointments, the Sabarimala gold heist controversy, and rehabilitation concerns of Wayanad landslide victims, alongside scandals involving opposition leaders.",
+    "img": "https://static.toiimg.com/photo/msid-130610105,imgsize-302304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kerala-poll-of-polls-udf-predicted-to-win-coastal-state-in-neck-and-neck-contest-with-ldf/articleshow/130609662.cms",
+    "time": "2026-04-29T14:14:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Quinton de Kock not playing against SRH in Mumbai?",
+    "desc": "Quinton de Kock has been ruled out of Mumbai Indians' match against Sunrisers Hyderabad due to a wrist injury sustained in practice. Ryan Rickelton will replace him at the top of the order. Mumbai Indians captain Hardik Pandya won the toss and elected to bat first at the Wankhede Stadium.",
+    "img": "https://static.toiimg.com/photo/msid-130610006,imgsize-1090636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/why-is-quinton-de-kock-not-playing-against-sunrisers-hyderabad-in-mumbai/articleshow/130609918.cms",
+    "time": "2026-04-29T14:10:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No Rohit Sharma again! Hardik Pandya gives big comeback update",
+    "desc": "Mumbai Indians face further setbacks as Rohit Sharma and Quinton de Kock are unavailable for their IPL clash against Sunrisers Hyderabad. Skipper Hardik Pandya confirmed Rohit needs more time to recover, while de Kock suffered a wrist injury. Despite these disruptions, Pandya expressed confidence in his team's preparation and opted to bat first.",
+    "img": "https://static.toiimg.com/photo/msid-130609579,imgsize-132846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-mi-vs-srh-no-rohit-sharma-again-hardik-pandya-gives-big-comeback-update-for-mumbai-indians-star/articleshow/130609544.cms",
+    "time": "2026-04-29T13:52:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer Singh NOT EXITED 'Pralay'",
+    "desc": "Ranveer Singh dismisses exit rumors from Jai Mehta's zombie thriller 'Pralay', set in post-apocalyptic Mumbai with AI visuals. Script locked, pre-production underway for August 2026 shoot on Rs 300cr budget. Backed by Hansal Mehta. Meanwhile, his Don 3 fallout with Farhan Akhtar lingers over script issues.",
+    "img": "https://static.toiimg.com/photo/msid-130609461,imgsize-18342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-not-exited-pralay-creative-differences-buzz-called-completely-baseless-report/articleshow/130609461.cms",
+    "time": "2026-04-29T13:47:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Himanta Biswa Sarma-led BJP projected to retain govt with strong lead",
+    "desc": "Exit polls for the Assam elections indicate a strong victory for the incumbent Himanta Biswa Sarma-led BJP government, projecting a third consecutive term. Most pollsters suggest the BJP will secure a comfortable majority, leaving the Congress campaign with limited gains and pushing the party further into vulnerability.",
+    "img": "https://static.toiimg.com/photo/msid-130609415,imgsize-1152549.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-exit-polls-2026-himanta-biswa-sarma-led-bjp-projected-to-retain-govt-with-strong-lead/articleshow/130609372.cms",
+    "time": "2026-04-29T13:47:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘You compete with yourself’",
+    "desc": "Bollywood star R Madhavan reveals how golf profoundly shaped his acting mindset, fostering focus and discipline. He explains the sport's unique ability to cultivate self-competition and composure, mirroring the concentration required on set. Madhavan also shared insights on why golf attracts successful individuals, highlighting its role in building character, patience, and emotional control under pressure.",
+    "img": "https://static.toiimg.com/photo/msid-130609004,imgsize-67348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-star-r-madhavan-shares-why-billionaires-use-golf-to-test-honesty-and-emotional-control-the-only-game-in-the-world-where-you-are-competing-with-yourself/articleshow/130609004.cms",
+    "time": "2026-04-29T13:35:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3 out of 4 pollsters back Stalin return; TVK a key disruptor",
+    "desc": "Exit polls suggest Chief Minister MK Stalin's DMK alliance is poised to retain power in Tamil Nadu, though with a reduced majority. Newcomer Vijay's TVK shows potential to influence traditional vote bases, with projections varying but indicating a notable debut. The AIADMK faces persistent challenges, while the DMK aims for a significant milestone of consecutive terms.",
+    "img": "https://static.toiimg.com/photo/msid-130609068,imgsize-939747.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-exit-polls-2026-pollsters-back-stalin-return-tvk-a-key-disruptor/articleshow/130609084.cms",
+    "time": "2026-04-29T13:31:26.000Z"
   },
   {
     "cat": "Politics",
@@ -36,15 +189,6 @@ const newsData_en = [
     "time": "2026-04-29T13:24:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amid power crisis, Kerala govt. directs KSEB to take control of Maniyar hydel project",
-    "desc": "Kerala government’s decision comes more than a year after the 30-year contract period with Carborundum Universal ended. The 12-MW captive power plant was at the centre of a political controversy earlier after the govt. hesitated to allow KSEB to take over the project",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/vqhb6b/article70920757.ece/alternates/LANDSCAPE_1200/mani.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/amid-power-crisis-kerala-govt-directs-kseb-to-take-control-of-maniyar-hydro-project/article70919811.ece",
-    "time": "2026-04-29T13:22:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Raja Shivaji’ to release in two versions with different runtimes",
     "desc": "Historical drama 'Raja Shivaji' is set for a unique release on May 1, featuring distinct runtimes for its Marathi and Hindi versions. The Hindi version is 8 minutes shorter, a strategic decision to keep the narrative crisp for a wider audience. Advance bookings show strong demand, with Pune emerging as a top market.",
@@ -54,15 +198,6 @@ const newsData_en = [
     "time": "2026-04-29T13:19:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Annual Mango Mela to begin on May 7 as heat delays harvest and reduces yield",
-    "desc": "While farmers were anticipating a surplus this year, the yield is now expected to be around 11 lakh tonnes, compared to the usual 16 lakh tonnes cultivated across 1.5 lakh hectares, as per the board.",
-    "img": "https://th-i.thgim.com/public/incoming/r4a7or/article70920683.ece/alternates/LANDSCAPE_1200/IMG_Mango_and_Jackfruit__2_1_4KDSGJER.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/annual-mango-mela-to-begin-on-may-7-as-heat-delays-harvest-and-reduces-yield/article70919975.ece",
-    "time": "2026-04-29T13:00:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Smacks Australia's best fast bowlers': Pathan in awe of Sooryavanshi",
     "desc": "Teenage sensation Vaibhav Sooryavanshi is dominating IPL 2026, leading the Orange Cap race with 400 runs. His fearless approach against top international bowlers like Hazlewood and Cummins, including hitting boundaries from the first ball, signals a new era of confidence in Indian cricket, as noted by Irfan Pathan.",
@@ -70,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/smacks-australias-best-fast-bowlers-pathan-in-awe-of-sooryavanshis-bold-approach/articleshow/130608110.cms",
     "time": "2026-04-29T12:57:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Great Nicobar project one of biggest scams, gravest crimes against natural, tribal heritage: Rahul",
-    "desc": "Stating that the project would entail the axing of millions of trees on 160 sq km of rainforest, and calling it a \"destruction dressed in development's language\", the leader of the Opposition in Lok Sabha said he would raise the issue in Parliament",
-    "img": "https://th-i.thgim.com/public/incoming/34rtad/article70920301.ece/alternates/LANDSCAPE_1200/20260429109L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/great-nicobar-project-one-of-biggest-scams-gravest-crimes-against-natural-tribal-heritage-rahul/article70920198.ece",
-    "time": "2026-04-29T12:43:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -100,30 +226,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "ICAR fisheries technology centre in Visakhapatnam marks 69th Foundation Day with events",
-    "desc": "Geological Survey of India Deputy Director General G. Nagendran says the institute serves as a referral laboratory in post-harvest fisheries; institute signs agreement with FarmLynk AgriSymbiosis Pvt. Ltd. for transfer of ready-to-eat seafood snack technology",
-    "img": "https://th-i.thgim.com/public/incoming/qdtor4/article69506726.ece/alternates/LANDSCAPE_1200/10018_29_4_2025_15_3_37_1_CIFT_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/icar-fisheries-technology-centre-in-visakhapatnam-marks-69th-foundation-day-with-events/article70920296.ece",
-    "time": "2026-04-29T12:20:26.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Exit polls today for 4 states, 1 UT; Trump's fresh warning to Iran &amp; more",
     "desc": "Voters await exit polls as West Bengal concludes its Phase 2 elections. Prime Minister Modi inaugurated Uttar Pradesh's longest Ganga Expressway. Meanwhile, Donald Trump issued a stern warning to Iran regarding nuclear talks, and King Charles III emphasized democratic values and climate action during his US visit.",
     "img": "https://static.toiimg.com/photo/msid-130607137,imgsize-1012691.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-exit-polls-today-for-4-states-1-ut-trumps-fresh-warning-to-iran-more/articleshow/130606340.cms",
     "time": "2026-04-29T12:20:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Over 50 lakh more people voted compared to 2024 Lok Sabha polls",
-    "desc": "In the State, people’s interest in polling process has always been higher for Assembly elections when compared to Lok Sabha polls, show data from elections held over the past 20 years; parties carry out a more intensive mobilisation for State polls",
-    "img": "https://th-i.thgim.com/public/incoming/6yfcbv/article70920541.ece/alternates/LANDSCAPE_1200/9868_23_4_2026_16_6_5_1_LARGE_VOTERS_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
-    "time": "2026-04-29T12:11:40.000Z"
   },
   {
     "cat": "Sports",
@@ -180,15 +288,6 @@ const newsData_en = [
     "time": "2026-04-29T11:49:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CPI(M) to launch protests from May 3 over delay in resolving ‘Pancha Gramalu’ land issue",
-    "desc": "Party district secretary M. Jaggunaidu says Chief Minister N. Chandrababu Naidu had promised in his first Cabinet meeting to resolve the Panchagramala land issue within 100 days; alleges that two years on, no action has been take",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/arnl0b/article70920353.ece/alternates/LANDSCAPE_1200/Jaggu.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/panchagramalu-five-villages-land-dispute/article70920112.ece",
-    "time": "2026-04-29T11:37:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Former ICC umpire terms Raghuvanshi dismissal as 'not out’; questions Tyagi decision",
     "desc": "IPL 2026 has seen controversial umpiring decisions, including Angkrish Raghuvanshi's obstructing the field dismissal and Kartik Tyagi's bowling in the final over. Former umpire Anil Chaudhary believes Raghuvanshi's dismissal was not deliberate and Tyagi should have been removed from the attack, though he remains satisfied with the overall umpiring standard.",
@@ -196,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/former-icc-umpire-terms-raghuvanshi-dismissal-as-not-out-also-questions-kartik-tyagi-decision/articleshow/130606000.cms",
     "time": "2026-04-29T11:37:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bombay HC modifies order after adjourning defamation suit to 2046; posts hearing in July",
-    "desc": "The HC had noted that this was one of the matters where the \"ego fight\" between the parties at the fag end of their lives \"clogs the system\", preventing the court from taking up cases which require priority",
-    "img": "https://th-i.thgim.com/public/incoming/vofgj8/article70920162.ece/alternates/LANDSCAPE_1200/IMG_Bombay-HC-strik_G59D_2_1_NUELFO0R.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/mumbai/bombay-hc-modifies-order-after-adjourning-defamation-suit-to-2046-posts-hearing-in-july/article70920103.ece",
-    "time": "2026-04-29T11:25:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -298,15 +388,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Timothée Chalamet brings Kylie Jenner to Knicks playoff game",
-    "desc": "Kylie Jenner and Timothée Chalamet brought their A-game to a thrilling New York Knicks playoff match, enjoying a romantic night courtside at Madison Square Garden. The trendy duo, whose relationship has been the talk of the town since last year, passionately cheered for the Knicks as they squared off against the Atlanta Hawks.",
-    "img": "https://static.toiimg.com/photo/msid-130602197,imgsize-17770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothe-chalamet-brings-kylie-jenner-to-knicks-playoff-game-for-courtside-date/articleshow/130602197.cms",
-    "time": "2026-04-29T09:21:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Sabrina Carpenter, Barry Keoghan romance to split timeline",
     "desc": "In 2024, Sabrina Carpenter and Barry Keoghan's relationship was one of the most talked-about celebrity romances in the industry. Right from their secret \"dinner dates\" to an unforgettable debut at the Met Gala and a number-one music video, their romance had fans swooning. But as with many rapid-fire romances, it all went wrong, and this led to a new set of complications.",
     "img": "https://static.toiimg.com/photo/msid-130602138,imgsize-58386.cms",
@@ -322,24 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-i-dont-know-what-to-say-yashasvi-jaiswal-blown-away-by-vaibhav-sooryavanshi-show/articleshow/130601515.cms",
     "time": "2026-04-29T09:11:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Shah Rukh Khan kissed the dais where MJ stood",
-    "desc": "During his iconic 1996 journey to India, Michael Jackson not only electrified Mumbai with a stunning concert but also made headlines with his memorable meeting with Bal Thackeray. Recently, a nostalgic video has surfaced, capturing Shah Rukh Khan’s emotional homage to the King of Pop as he tenderly kissed the stage that Jackson graced.",
-    "img": "https://static.toiimg.com/photo/msid-130601866,imgsize-50022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-shah-rukh-khan-kissed-the-dais-where-michael-jackson-stood-during-his-iconic-1996-india-visit/articleshow/130601473.cms",
-    "time": "2026-04-29T09:11:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nicola Roberts received surgery while 22 weeks pregnant",
-    "desc": "Pop star Nicola Roberts, expecting her first child, underwent crucial surgery at 22 weeks pregnant to ensure her baby's safety. Now nearing 34 weeks, she shared her relief but admitted she'll miss her pregnancy bump. This procedure had previously led her to withdraw from a West End show in January, where she assured fans everything was fine.",
-    "img": "https://static.toiimg.com/photo/msid-130601884,imgsize-126036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lucky-day-singer-nicola-roberts-shares-emotional-22-week-surgery-update-to-help-keep-baby-in-i-will-also-really-miss-my-bump/articleshow/130601776.cms",
-    "time": "2026-04-29T09:11:02.000Z"
   },
   {
     "cat": "Sports",
@@ -388,15 +451,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Mass resignations rock Sri Lanka Cricket as prez, executive committee quit",
-    "desc": "Shammi Silva resigned as president of Sri Lanka Cricket along with the board’s entire executive committee, the organisation confirmed on Wednesday. Silva had led SLC since 2019, overseeing Asia Cup successes but also disappointing World Cup campaigns and declining rankings for the men’s team. The reason for the mass resignations has not been officially disclosed.",
-    "img": "https://static.toiimg.com/photo/msid-130599924,imgsize-35654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/massive-overhaul-mass-resignations-rock-sri-lanka-cricket-as-president-executive-committee-quit/articleshow/130599748.cms",
-    "time": "2026-04-29T07:39:44.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Meet Rithika Sri, the first transgender umpire from Tamil Nadu",
     "desc": "The engineering dropout caught the umpiring bug while watching the IPL when she was working at a call centre in Mohali; she decided to make a career out of it after the COVID-19 pandemic forced her to return to Salem",
     "img": "https://th-i.thgim.com/public/sport/90ro69/article70917331.ece/alternates/LANDSCAPE_1200/TH29RITHIKA.jpg",
@@ -412,33 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-vaibhav-sooryavanshi-the-cheat-code-batter-why-even-jasprit-bumrah-josh-hazlewood-and-arshdeep-singh-have-nowhere-to-hide/articleshow/130598654.cms",
     "time": "2026-04-29T07:19:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam breaks massive T20 record; joins Virat Kohli, Abhishek Sharma in elite list",
-    "desc": "Babar Azam's spectacular century propelled Peshawar Zalmi to the PSL final, defeating Islamabad United. His unbeaten 103 powered Zalmi to 221, a total too daunting for United. This remarkable innings marked Babar's fourth PSL century, equalling a record, and his ninth T20 hundred as captain, a new global benchmark.",
-    "img": "https://static.toiimg.com/photo/msid-130599335,imgsize-1121335.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-breaks-massive-t20-record-joins-virat-kohli-abhishek-sharma-in-elite-list/articleshow/130599062.cms",
-    "time": "2026-04-29T07:19:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RR batter hilariously replies to Salman’s ‘Zinta’s team won kya?’ post",
-    "desc": "Rajasthan Royals chased down 223 to beat Punjab Kings and hand them their first IPL 2026 defeat. Donovan Ferreira starred with an unbeaten 52 off 26 balls before jokingly telling Salman Khan, “Sorry bhai, aaj nahi,” referencing the actor’s old “Zinta’s team won kya?” post. Shubham Dubey and Vaibhav Sooryavanshi also played key roles in the win.",
-    "img": "https://static.toiimg.com/photo/msid-130598803,imgsize-53626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rr-batter-hilariously-replies-to-salman-khans-zintas-team-won-kya-post-watch/articleshow/130598623.cms",
-    "time": "2026-04-29T06:53:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘No one talks about him’: Ex-India cricketer flags silence around Jaiswal",
-    "desc": "Former cricketer Aakash Chopra expressed surprise over Yashasvi Jaiswal's absence from India's T20I squad discussions. Jaiswal's consistent IPL performances, including a recent 51 against Punjab Kings, have not translated into national team consideration. Chopra also lauded teenage sensation Vaibhav Suryavanshi for his aggressive 43 off 16 balls, which set up Rajasthan Royals' chase.",
-    "img": "https://static.toiimg.com/photo/msid-130598164,imgsize-122270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-no-one-talks-about-him-ex-india-cricketer-flags-silence-around-yashasvi-jaiswal/articleshow/130598009.cms",
-    "time": "2026-04-29T06:32:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,15 +531,6 @@ const newsData_en = [
     "time": "2026-04-29T05:18:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "1 in 14 school children obese in India; north tops chart",
-    "desc": "A concerning national analysis reveals nearly 7% of Indian school children are obese, with rates climbing nationwide. Researchers link this rise to processed foods, sedentary habits, and screen time. Experts warn of early onset of adult diseases like diabetes and heart issues, stressing the urgent need for dietary changes and increased physical activity to combat this growing public health crisis.",
-    "img": "https://static.toiimg.com/photo/msid-130596567,imgsize-212254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/1-in-14-school-children-obese-in-india-north-tops-chart/articleshow/130596455.cms",
-    "time": "2026-04-29T05:13:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "A career engineered to perfection",
     "desc": "Two Olympic gold medals, as many World titles and sustained dominance defined his reign; the Dane’s appetite for success shifted badminton’s power centre outside Asia; he leaves behind a lasting legacy with one of the most fantastic records the sport has seen",
@@ -522,15 +540,6 @@ const newsData_en = [
     "time": "2026-04-29T05:02:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "National medical commission removes cap on MBBS seats, eases population norm",
-    "desc": "The National Medical Commission has removed key restrictions on MBBS seat expansion, eliminating the 150-seat cap per college and the 100 seats per 10 lakh population ratio. These policy shifts aim to increase medical education capacity to meet rising demand. Additionally, the distance norm for teaching hospitals has been revised to 10 km, with a relaxed limit for specific regions.",
-    "img": "https://static.toiimg.com/photo/msid-130596029,imgsize-687241.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nmc-removes-cap-on-mbbs-seats-eases-population-norm/articleshow/130596033.cms",
-    "time": "2026-04-29T04:42:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "UAE leaves OPEC and OPEC+ in huge blow to global oil producers' group",
     "desc": "The move came after the UAE, a regional business hub and one of Washington’s most important allies, criticised fellow Arab states for not doing enough to protect it from numerous Iranian attacks during the war",
@@ -538,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uae-leaves-opec-and-opec-in-huge-blow-to-global-oil-producers-group/article70916516.ece",
     "time": "2026-04-29T04:03:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC worker attacked, BJP booth vandalised; Bengal votes amid incidents of violence in Phase 2",
-    "desc": "West Bengal's second phase of Assembly elections commenced amidst reports of violence, voter intimidation, and technical issues. Incidents were reported across Chapra, Shantipur, Nimtala, and Bhangar. Chief Minister Mamata Banerjee alleged bias from observers and TMC party flags being removed, while the BJP reported an assault on a polling agent in Chapra.",
-    "img": "https://static.toiimg.com/photo/msid-130595978,imgsize-3704239.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-worker-attacked-bjp-booth-vandalised-bengal-votes-amid-incidents-of-violence-in-phase-2-top-developments/articleshow/130595272.cms",
-    "time": "2026-04-29T04:02:37.000Z"
   },
   {
     "cat": "Sports",
@@ -585,15 +585,6 @@ const newsData_en = [
     "time": "2026-04-29T00:30:56.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Govt revives strategic sale of IDBI Bank after scrapping bids",
-    "desc": "The government has revived the strategic sale of its stake in IDBI Bank, along with LIC's holding, after previous bids were rejected. A fresh valuation is underway, with officials considering whether to re-engage existing bidders or restart the process to expedite the sale and maintain investor confidence.",
-    "img": "https://static.toiimg.com/photo/msid-130593042,imgsize-30678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-revives-strategic-sale-of-idbi-bk-after-scrapping-bids/articleshow/130592986.cms",
-    "time": "2026-04-29T00:09:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "‘Just peace’ can’t be found by joining organisations that charge fees: UNGA President defends UN system",
     "desc": "Ms. Baerbock cautioned against ‘unilateral use of force’ while arguing that member states of the UN can mobilise themselves for an institutional action against a state that is accused of genocide by bringing the matter to the UN Security Council",
@@ -610,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-govt-blacklists-reliance-general-insurance-company-limited-for-2-years/article70917692.ece",
     "time": "2026-04-28T18:27:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shocking! Riyan Parag captured vaping inside dressing room during PBKS vs RR",
-    "desc": "Rajasthan Royals captain Riyan Parag was filmed vaping in the team's dressing room during a live broadcast, sparking controversy. The act is illegal in India under the Prohibition of Electronic Cigarettes Act, 2019, raising concerns about athlete health and regulatory compliance. This incident follows a previous breach of protocol by the RR manager.",
-    "img": "https://static.toiimg.com/photo/msid-130588582,imgsize-29938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-shocking-riyan-parag-captured-vaping-inside-dressing-room-during-pbks-vs-rr/articleshow/130587615.cms",
-    "time": "2026-04-28T17:50:56.000Z"
   },
   {
     "cat": "World",
@@ -646,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/legal-limits-on-us-war-involvement/article70913674.ece",
     "time": "2026-04-28T04:01:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Indonesia train crash toll rises to 14 as rescuers work to remove trapped passengers",
-    "desc": "“A taxi on the train tracks was hit by the commuter train, and the long-distance train hit a women-only carriage on the commuter train,” Bobby Rasyidin, Chief Executive of state-owned railway firm PT KAI, said",
-    "img": "https://th-i.thgim.com/public/incoming/lhwkkg/article70914649.ece/alternates/LANDSCAPE_1200/2026-04-28T012654Z_489092445_RC20YKALVNI5_RTRMADP_3_INDONESIA-TRAINS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indonesia-train-crash-death-toll-updates/article70914646.ece",
-    "time": "2026-04-28T03:22:57.000Z"
   },
   {
     "cat": "Sports",
@@ -745,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/you-can-get-anything-done-out-of-me-for-the-team-venkatesh-iyer/article70909724.ece",
     "time": "2026-04-27T04:42:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK vs GT",
-    "desc": "The pacer, along with his new-ball partner Siraj, restricts the home team to 158 for seven; the left-handed opener makes it a cakewalk for the visitor with a 46-ball 87; skipper Ruturaj wages a lone battle for the Chennai outfit on an uneven wicket",
-    "img": "https://th-i.thgim.com/public/incoming/su034m/article70909480.ece/alternates/LANDSCAPE_1200/20260426375L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-chennai-super-kings-vs-gujarat-titans-in-chennai/article70908258.ece",
-    "time": "2026-04-26T16:41:34.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +862,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
