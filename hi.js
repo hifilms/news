@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hardik Pandya shares MI star's fitness status ahead of SRH clash in IPL 2026",
+    "desc": "Rohit Sharma missed out yet again as the Mumbai Indians take on the Sunrisers Hyderabad in their eighth match of the Indian Premier League 2026 at the Wankhede Stadium on Wednesday, April 29. This is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-hardik-pandya-shares-mi-stars-fitness-status-ahead-of-srh-clash-in-ipl-2026-2026-04-29-1039353",
+    "time": "2026-04-29T13:45:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Quinton de Kock not playing for MI vs SRH in IPL 2026 clash in Mumbai?",
+    "desc": "Mumbai Indians opener Quinton de Kock is ruled out of the marquee clash against Sunrisers Hyderabad in IPL 2026. The South Africa international has picked up a wrist injury, as captain Hardik Pandya confirmed. He...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-quinton-de-kock-not-playing-for-mi-vs-srh-in-ipl-2026-clash-in-mumbai-2026-04-29-1039352",
+    "time": "2026-04-29T13:42:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSG vs Bayern Champions League semifinal rewrite record books with epic clash",
+    "desc": "Paris Saint-Germain and Bayern Munich produced one of the most epic clashes in the Champions League after producing a nine-goal feast in the first leg of the semifinal at the Parc des Princes on Tuesday,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/psg-vs-bayern-champions-league-semifinal-rewrite-record-books-with-epic-clash-2026-04-29-1039349",
+    "time": "2026-04-29T13:23:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shakib Al Hasan blames Bangladesh government, calls it 'blunder' for pulling out of T20 World Cup 2026",
+    "desc": "As per BCCI directives, Kolkata Knight Riders released Mustafizur Rahman from the IPL 2026 squad. It resulted in Bangladesh pulling out of the T20 World Cup in India. The Bangladesh Cricket Board (BCB) complained that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shakib-al-hasan-blames-bangladesh-government-calls-it-blunder-for-pulling-out-of-t20-world-cup-2026-2026-04-29-1039345",
+    "time": "2026-04-29T12:23:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jail or fine? BCCI likely to take strict action against RR captain",
+    "desc": "Rajasthan Royals captain Riyan Parag was caught smoking e-cigarettes in the dressing room during the match against Punjab Kings in the IPL 2026. The video of the same has gone viral on social media and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-vaping-row-jail-or-fine-bcci-likely-to-take-strict-action-against-rr-captain-2026-04-29-1039339",
+    "time": "2026-04-29T11:40:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Pure cinema watching Sooryavanshi bat': Ex-India star heaps praise on RR prodigy for stellar IPL 2026",
+    "desc": "Former Indian cricketer Cheteshwar Pujara showered his praise on Rajasthan Royals teenage sensation Vaibhav Sooryavanshi for his performances in the Indian Premier League 2026. Sooryavanshi has repeatedly set the stage on fire with his ultra-aggressive...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pure-cinema-watching-sooryavanshi-bat-ex-india-star-heaps-praise-on-rr-prodigy-for-stellar-ipl-2026-2026-04-29-1039335",
+    "time": "2026-04-29T11:21:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 New Zealand players set to retire from international cricket after T20 World Cup 2026",
+    "desc": "New Zealand announced their 15-member squad for the upcoming Women's T20 World Cup today and also confirmed that, along with Suzie Bates, Sophie Devine and Lea Tahuhu, all veterans, will call it a day from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-new-zealand-players-set-to-retire-from-international-cricket-after-t20-world-cup-2026-2026-04-29-1039331",
+    "time": "2026-04-29T10:52:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "SLC president Shammi Silva, executive committee members resign, Sri Lanka government to take over",
     "desc": "Sri Lanka Cricket president Shami Silva and other executive committee members tendered their resignations on Wednesday, a move which was approved at a special committee meeting yesterday. This came after the country's president, Anura Kumara...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-mumbai-indians-player-suggests-one-certain-change-they-should-make-vs-srh-in-today-s-match-2026-04-29-1039319",
     "time": "2026-04-29T09:48:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-Head record ahead of game 41 in IPL 2026",
-    "desc": "The stage is set for the 41st game of the ongoing IPL (Indian Premier League) 2026. Mumbai Indians will be taking on Sunrisers Hyderabad at the Wankhede Stadium on April 29. Both sides will hope...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-srh-head-to-head-record-ahead-of-game-41-in-ipl-2026-2026-04-29-1039317",
-    "time": "2026-04-29T09:27:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch UCL semi-final on TV and stream online in India?",
-    "desc": "The stage is set for the second semi-final of the ongoing UEFA Champions League. The clash sees Atletico Madrid taking on Arsenal at the Metropolitano Stadium in Madrid on April 30. The two sides will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/atletico-madrid-vs-arsenal-live-when-and-where-to-watch-ucl-semi-final-on-tv-and-stream-online-in-india-2026-04-29-1039309",
-    "time": "2026-04-29T08:44:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We have to win': Vincent Kompany backs Bayern Munich to see off PSG after legendary semi-final clash in Paris",
-    "desc": "Bayern Munich and PSG took each other on in the first leg of the UEFA Champions League semi-final. The two sides met at the Parc des Princes in Paris on April 29, and what unfolded...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/we-have-to-win-vincent-kompany-backs-bayern-munich-to-see-off-psg-after-legendary-semi-final-clash-in-paris-2026-04-29-1039291",
-    "time": "2026-04-29T06:48:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Wankhede Stadium in Mumbai play?",
-    "desc": "Game 41 of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians taking on Sunrisers Hyderabad. The two sides will lock horns at the Wankhede Stadium in Mumbai on April 29, and both will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-srh-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-04-29-1039287",
-    "time": "2026-04-29T06:08:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Riyan Parag captured vaping inside Rajasthan Royals' dressing room as fresh controversy erupts",
-    "desc": "Rajasthan Royals registered an emphatic victory against Punjab Kings in the 40th game of the ongoing IPL (Indian Premier League) 2026. Led by Riyan Parag, Royals ended Punjab Kings’ unbeaten streak in the tournament. putting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-captured-vaping-inside-rajasthan-royals-dressing-room-as-fresh-controversy-erupts-watch-2026-04-29-1039278",
-    "time": "2026-04-29T05:14:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Exceptional performance': Shreyas Iyer hails Rajasthan Royals after facing first defeat of IPL 2026",
-    "desc": "The 40th game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Punjab Kings. The two sides met in Mullanpur on April 28, and Royals became the first team in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/exceptional-performance-shreyas-iyer-hails-rajasthan-royals-after-facing-first-defeat-of-ipl-2026-2026-04-29-1039267",
-    "time": "2026-04-29T03:53:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand Cricket announces squad for upcoming Women's T20 WC 2026, Amelia Kerr set to lead",
-    "desc": "NZC (New Zealand Cricket) recently came forward and announced their squad for the upcoming edition of the Women’s T20 World Cup 2026. The marquee event is all set to kick off on June 12, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-cricket-announces-squad-for-upcoming-women-s-t20-wc-2026-amelia-kerr-set-to-lead-2026-04-29-1039263",
-    "time": "2026-04-29T02:21:30.000Z"
   }
 ];
