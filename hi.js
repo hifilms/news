@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'We have to win': Vincent Kompany backs Bayern Munich to see off PSG after legendary semi-final clash in Paris",
+    "desc": "Bayern Munich and PSG took each other on in the first leg of the UEFA Champions League semi-final. The two sides met at the Parc des Princes in Paris on April 29, and what unfolded...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/we-have-to-win-vincent-kompany-backs-bayern-munich-to-see-off-psg-after-legendary-semi-final-clash-in-paris-2026-04-29-1039291",
+    "time": "2026-04-29T06:48:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Wankhede Stadium in Mumbai play?",
+    "desc": "Game 41 of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians taking on Sunrisers Hyderabad. The two sides will lock horns at the Wankhede Stadium in Mumbai on April 29, and both will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-srh-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-04-29-1039287",
+    "time": "2026-04-29T06:08:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Riyan Parag captured vaping inside Rajasthan Royals' dressing room as fresh controversy erupts",
     "desc": "Rajasthan Royals registered an emphatic victory against Punjab Kings in the 40th game of the ongoing IPL (Indian Premier League) 2026. Led by Riyan Parag, Royals ended Punjab Kings’ unbeaten streak in the tournament. putting...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-surpasses-ajinkya-rahane-in-major-rr-record-during-impressive-fifty-against-pbks-2026-04-28-1039247",
     "time": "2026-04-28T17:36:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals end Punjab Kings' unbeaten streak in IPL 2026; Openers, Ferreira, Shubham steal show",
-    "desc": "Punjab Kings’ unbeaten run in the IPL 2026 came to an end as they suffered a six-wicket defeat to Rajasthan Royals in Mullanpur. Batting first, the hosts had a perfect start to the game, with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-end-punjab-kings-unbeaten-streak-in-ipl-2026-openers-ferreira-shubham-steal-show-2026-04-28-1039245",
-    "time": "2026-04-28T17:25:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi downs huge IPL record after whirlwind 43 against RR in New Chandigarh",
-    "desc": "Teenage prodigy Vaibhav Sooryavanshi added another feather to his cap as he created IPL history during Rajasthan Royals' clash against the Punjab Kings at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-downs-huge-ipl-record-after-whirlwind-43-against-rr-in-new-chandigarh-2026-04-28-1039242",
-    "time": "2026-04-28T17:11:49.000Z"
   }
 ];

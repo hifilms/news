@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "નહીં ખુલે સ્ટ્રેટ ઓફ હોર્મુઝ, ટ્રમ્પે બનાવી એક લાંબી અને ખતરનાક યોજના, ઈરાનની વધી રહી છે મુશ્કેલીઓ, જાણો",
+    "desc": "અમેરિકાએ હોર્મુઝ સ્ટ્રેટ પર નાકાબંધી લગાવી છે. અમેરિકા કહે છે કે જ્યાં સુધી ઈરાન કોઈ કરાર પર સંમત ન થાય ત્યાં સુધી તે નાકાબંધી હટાવશે નહીં. આ દરમિયાન, ઈરાન મક્કમ છે, અને આ કટોકટીને વધારી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/the-strait-of-hormuz-will-not-open-trump-has-made-a-long-and-dangerous-plan-irans-problems-are-increasing-know-475461 ",
+    "time": "2026-04-29T07:59:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સોની લીવની 5 બેસ્ટ ક્રાઈમ થ્રિલર વેબ સીરીઝ, દરેક એપિસોડ સાથે વધશે તમારી હાર્ટ બીટ",
+    "desc": "જો તમારી પાસે ઓટીટી પ્લેટફોર્મ સોની લિવનું સબ્સ્ક્રિપ્શન છે તો આજે તમને સોની લિવ પર જોવા જેવી 5 ક્રાઈમ થ્રીલર વેબ સીરીઝ વિશે જણાવીએ. આ સીરીઝમાંથી એક પણ સીરીઝ મિસ કરવા જેવી નથી. આ વેબ સીરીઝનો દરેક એપિસોડ તમારા હૃદયના ધબકારા વધારી દેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-web-series-on-sony-liv-5-best-crime-thriller-web-show-of-sony-liv-475451 ",
+    "time": "2026-04-29T07:10:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રોહિત શર્મા આજે SRH સામે રમશે કે નહીં ? મેચ પહેલા આવ્યું મોટું અપડેટ",
+    "desc": "SRH સામેની મેચ પહેલા રોહિત શર્માની વાપસી અંગે હજુ પણ સસ્પેન્સ યથાવત છે. હેમસ્ટ્રિંગ ઈજામાંથી સ્વસ્થ થઈ રહેલા રોહિત અંગે એક મોટું અપડેટ સામે આવ્યું છે. ત્યારે આ લેખમાં જાણીશું કે, આજની મેચમાં હિટમેન રમશે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-rohit-sharma-play-against-srh-tonight-big-update-before-the-match-475449 ",
+    "time": "2026-04-29T07:01:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં સુવેન્દુનો મોટો આરોપ, TMCએ 750 નકલી આંગળીઓ ખરીદી; મહુઆ મોઇત્રા રિક્ષામાં કેમ આવ્યા?",
+    "desc": "ભવાનીપુર બેઠકના ભાજપના ઉમેદવાર સુવેન્દુ અધિકારીએ બીજા તબક્કાના મતદાન દરમિયાન ગંભીર આરોપ લગાવ્યો છે. તેમણે દાવો કર્યો છે કે બોગસ મતદાન કરવા માટે TMCએ 700થી વધુ નકલી આંગળીઓ ખરીદી છે. બીજી તરફ, ઈ-રિક્ષામાં બેસીને વોટ આપવા આવેલા મહુઆ મોઇત્રા ભાજપ પર પ્રહારો કરતા જોવા મળ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/voting-in-bengal-suvendu-alleges-tmc-bought-750-fake-fingers-why-did-mahua-moitra-arrive-in-a-rickshaw-475445 ",
+    "time": "2026-04-29T06:31:27.000Z"
+  },
+  {
+    "cat": "World",
     "title": "હાફિઝની નજીકના સાથી આફ્રિદીનું કામ તમામ, પાકિસ્તાનમાં ભારતના દુશ્મનોનો કોણ મોકલી રહ્યું છે જહન્નુમ ? જાણો",
     "desc": "પાકિસ્તાનમાં અજાણ્યા હુમલાખોરો સતત તબાહી મચાવી રહ્યા છે. લશ્કર-એ-તૈયબાના ટોચના કમાન્ડર યુસુફ આફ્રિદીની હત્યાથી ભારતના દુશ્મનોમાં ભયનો માહોલ ફેલાયો છે. પાકિસ્તાનની ધરતી પર એક પછી એક આતંકવાદીઓને કેવી રીતે ખતમ કરવામાં આવી રહ્યા છે, તેને લઈને દરેકને વિચાર આવે કે પાકિસ્તાનની ધરતી પર કોણ તેમને ખત્મ કરી રહ્યું છે. ચાલો વિગતવાર જાણીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,15 +387,6 @@ const newsData_gu = [
     "time": "2026-04-26T06:07:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "વિધાનસભા ચૂંટણી: પરિણામો પહેલા સટ્ટા બજારનો ચોંકાવનારો દાવો, બંગાળથી લઈ તમિલનાડુમાં કોની બનશે સરકાર?",
-    "desc": "ચાર રાજ્યો અને એક કેન્દ્રશાસિત પ્રદેશમાં ચૂંટણીઓ થઈ રહી છે. જેમાં પશ્ચિમ બંગાળમાં બીજા તબક્કાનું મતદાન બાકી છે બાકી બધે મતદાન પૂરું થઈ ગયું અને 4 મેના રોજ પરિણામનો દિવસ છે. પરંતુ તે પહેલા સટ્ટા બજાર શું કહે છે તે પણ જાણવા જેવું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/assembly-elections-phalodi-satta-bazaar-latest-predictions-for-west-bengal-tamilnadu-assam-kerala-474887 ",
-    "time": "2026-04-26T05:36:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL મેચમાં મોટી દુર્ઘટના... મેદાન પર બોલાવવી પડી એમ્બ્યુલન્સ, એન્ગિડીને માત્ર 11 મિનિટમાં કેવી રીતે પહોંચાડ્યો હોસ્પિટલ, જાણો ઈનસાઈડ સ્ટોરી",
     "desc": "IPL મેચ દરમિયાન લુંગી એન્ગિડીને ઈજા થયા પછી દિલ્હી ટ્રાફિક પોલીસે 11 મિનિટમાં 'ગ્રીન કોરિડોર' બનાવી એમ્બ્યુલન્સને BLK-મેક્સ હોસ્પિટલ સુધી પહોંચાડી હતી, જ્યાં તેની સારવાર કરવામાં આવી હતી. સારા સમાચાર એ છે કે એન્ગીડીને હવે હોસ્પિટલમાંથી રજા આપવામાં આવી છે.",
@@ -387,15 +414,6 @@ const newsData_gu = [
     "time": "2026-04-26T03:03:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "ભારે ગરમી અને વિનાશની ચેતવણી, જાણો મેગા અલ નીનોની હવામાન પર શું અસર પડશે?",
-    "desc": "દુનિયા 150 વર્ષમાં સૌથી મોટા ખતરાનો સામનો કરી રહી છે, 'મેગા અલ નીનોના ભયે વૈજ્ઞાનિકોને પણ મૂંઝવણમાં મૂકી દીધા છે. શું અતિશય ગરમી અને દુષ્કાળ ખરેખર વિનાશ લાવશે? જાણો કે આ વિનાશક કટોકટી તમારા જીવન પર કેવી અસર કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/warning-of-extreme-heat-and-destruction-know-what-impact-mega-el-nino-will-have-on-the-weather-474817 ",
-    "time": "2026-04-25T13:53:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "કેએલ રાહુલ બન્યો નંબર-1: પંજાબ કિંગ્સ વિરુદ્ધ તોફાની સદી ફટકારી તોડ્યો IPLનો સૌથી મોટો રેકોર્ડ",
     "desc": "પંજાબ કિંગ્સ સામેની મેચમાં, કેએલ રાહુલે પોતાના બેટથી ધમાકેદાર સદી ફટકારીને ઇતિહાસ રચ્યો. દિલ્હીની ભીષણ ગરમીમાં, રાહુલની શાનદાર બેટિંગે તાપમાનને વધુ વધાર્યું. પંજાબના બોલરોને બરબાદ કરીને, સ્ટાર બેટ્સમેને ફક્ત 47 બોલમાં તેની આઈપીએલ કારકિર્દીની સૌથી ઝડપી સદી ફટકારી. આ સાથે, તેણે વીરેન્દ્ર સેહવાગ, ડેવિડ વોર્નર અને ક્વિન્ટન ડી કોક જેવા દિગ્ગજ બેટ્સમેનોના રેકોર્ડ તોડી નાખ્યા.",
@@ -412,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/a-boundary-off-every-ball-and-a-28-run-over-this-batsman-pounced-on-the-bowler-like-a-hungry-lion-474808 ",
     "time": "2026-04-25T12:44:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કર્મચારીઓ માટે મોટી અપડેટ! 8મા પગાર પંચમાં ₹50000 ઓછામાં ઓછો પગાર, 3.83 સુધી ફિટમેન્ટ, DA મર્જર, HRAમાં વધારો?",
-    "desc": "કેન્દ્ર સરકારના શિક્ષકો હવે 8મા પગાર પંચ અંગે મહત્વપૂર્ણ માંગણીઓ કરી રહ્યા છે. કેન્દ્રશાસિત પ્રદેશ (યુટી)માં શિક્ષકોનું પ્રતિનિધિત્વ કરતી સંસ્થા પ્રગતિશીલ શિક્ષક ન્યાય મંચ દ્વારા સરકારને એક વિગતવાર મેમોરેન્ડમ સુપરત કરવામાં આવ્યું છે, જેમાં પગારથી પેન્શનમાં અનેક મોટા ફેરફારોની માંગ કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-update-for-employees-50000-minimum-salary-in-8th-pay-commission-fitment-up-to-3-83-da-merger-increase-in-hra-474806 ",
-    "time": "2026-04-25T12:05:53.000Z"
   },
   {
     "cat": "Sports",
@@ -448,24 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/new-zealand-cricketer-doug-bracewell-banned-for-2-years-due-to-cocaine-use-474730 ",
     "time": "2026-04-25T06:10:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Video",
-    "desc": "IPL 2026 વચ્ચે એક ખરાબ સમાચાર સામે આવ્યા છે. દિલ્હી કેપિટલ્સના એક યુવા ખેલાડીને પ્રેક્ટિસ સેશન દરમિયાન ચહેરા પર બોલ વાગવાથી ગંભીર ઈજા થઈ હતી. બોલ વાગ્યા પછી તે પીડાથી કણસતો જોવા મળ્યો, તાત્કાલિક મેદાનમાં એમ્બ્યુલન્સ બોલાવવામાં આવી હતી અને તેને હોસ્પિટલ લઈ જવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/delhi-capitals-player-sahil-parakh-injured-during-practice-at-arun-jaitley-stadium-474721 ",
-    "time": "2026-04-25T05:27:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ગુજરાત ટાઈટન્સની હારનું આ હતું સૌથી મોટું કારણ... કેપ્ટન શુભમન ગિલે ખોલી પોતાની જ ટીમની પોલ !",
-    "desc": "શુક્રવારની મેચમાં RCBએ ગુજરાત ટાઈટન્સને 5 વિકેટથી હરાવ્યું. આ મેચમાં કોહલી અને પડિકલની ઇનિંગ્સે સાઈ સુદર્શનની સદી પર પાણી ફેરવી દીધું હતું. મેચ પછી શુભમન ગિલે ટીમે ક્યાં ભૂલો કરી હતી, તેનો ખુલાસો કર્યો હતો અને હારના કારણો જણાવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/biggest-reason-for-gujarat-titans-lost-against-rcb-captain-shubman-gill-statement-474711 ",
-    "time": "2026-04-25T04:41:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -529,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bharat-of-ramayana-died-due-to-liver-disease-sanjay-joge-left-the-world-at-the-age-of-40-474327 ",
     "time": "2026-04-22T13:06:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હોર્મુઝ સંકટ વચ્ચે, તેલ પર ભારતનો માસ્ટર પ્લાન, પેટ્રોલ ₹60-70 પ્રતિ લિટર વેચાશે! મોટી ભૂમિકા ભજવશે ઇથેનોલ",
-    "desc": "ગડકરીનું આ નિવેદન એવા સમયે આવ્યું છે જ્યારે વૈશ્વિક ઉર્જા બજારો પશ્ચિમ એશિયામાં લાંબા સમયથી ચાલી રહેલા સંઘર્ષનો સામનો કરી રહ્યા છે, જેના કારણે પરંપરાગત તેલ પુરવઠા શૃંખલાઓમાં નોંધપાત્ર વિક્ષેપ પડ્યો છે અને આયાત બિલમાં વધારો થયો છે. આ મહત્વાકાંક્ષી લક્ષ્યનું મુખ્ય કારણ ભારતની અશ્મિભૂત ઇંધણની આયાત પર ભારે નિર્ભરતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/100-percent-ethanol-will-be-added-to-petrol-gadkari-new-vision-this-is-a-big-challenge-for-companies-474234 ",
-    "time": "2026-04-22T09:40:06.000Z"
   },
   {
     "cat": "Tech",
@@ -610,14 +592,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/before-shooting-an-intimate-scene-actors-do-practice-and-discuss-scene-know-how-kissing-scene-shot-in-film-473792 ",
     "time": "2026-04-19T03:29:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "હોલીવુડની આ ફિલ્મ ગણાય છે શ્રાપિત, નેટફ્લિક્સ પર જોવા મળશે રોઝમેરીની ડરામણી સ્ટોરી",
-    "desc": "હોરર ફિલ્મો વિશે તો તમે ઘણું સાંભળ્યું હશે. પરંતુ શું તમે એવી ફિલ્મ વિશે ખબર છે જેને હોલીવુડની શ્રાપિત હોરર ફિલ્મ ગણવામાં આવે છે ? આ ફિલ્મ નેટફ્લિક્સ પર ઉપલબ્ધ છે. ફિલ્મ એટલી ડરામણી છે કે જોતાં જોતાં ભલભલાં લોકોને પરસેવો વળી જાય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/rosemary-baby-movie-called-hollywood-cursed-film-watch-rosemary-s-baby-film-on-netflix-473743 ",
-    "time": "2026-04-18T14:48:54.000Z"
   }
 ];
