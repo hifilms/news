@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "IPL 2026 MI vs SRH",
+    "desc": "The result left MI — with its sixth loss in eight games — on the brink of being the first team to be ousted from the playoff race, while SRH continued its surge with its fifth consecutive win",
+    "img": "https://th-i.thgim.com/public/incoming/nfakvq/article70922122.ece/alternates/LANDSCAPE_1200/11908_29_4_2026_22_31_15_4_DSC_5933.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-mi-vs-srh-travishek-klaasen-run-riot-as-srh-bags-fifth-successive-win/article70922063.ece",
+    "time": "2026-04-29T19:16:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "the yorker-specialist looking to rule the big stage",
+    "desc": "The pace bowler from Delhi has taken giant strides for Lucknow Super Giants in the IPL over the past year after starting out with the tennis ball. A two-year ban by the BCCI for age-fudging in 2019 looked set to derail his professional career just when it had begun, but the youngster with a never-say-die attitude, has rallied against the odds to reach this far",
+    "img": "https://th-i.thgim.com/public/incoming/dfs4j5/article70922030.ece/alternates/LANDSCAPE_1200/Index12_RVM_2407.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/princeyadav-the-yorker-specialist-looking-to-rule-the-big-stage/article70922027.ece",
+    "time": "2026-04-29T18:57:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek, Klaasen surges ahead of Vaibhav Sooryavanshi",
+    "desc": "Abhishek Sharma has regained the Orange Cap with a swift 45, surpassing Vaibhav Sooryavanshi. Sharma now boasts 425 runs, with teammate Heinrich Klaasen climbing to second. Sooryavanshi drops to third, while KL Rahul and Virat Kohli round out the top five in a dynamic run-scoring race.",
+    "img": "https://static.toiimg.com/photo/msid-130616722,imgsize-1100431.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-orange-cap-abhishek-sharma-heinrich-klaasen-surges-ahead-of-vaibhav-sooryavanshi/articleshow/130616627.cms",
+    "time": "2026-04-29T18:55:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why is King Charles’s visit to the U.S. significant?",
+    "desc": "King Charles III acknowledged “times of great uncertainty” as he expressed gratitude to the American people and marked the 250th anniversary of independence from Britain in a speech to the U.S. Congress that highlighted the bonds between the two countries at a time of political turmoil.",
+    "img": "https://th-i.thgim.com/public/incoming/73zwhi/article70922106.ece/alternates/LANDSCAPE_1200/charkles.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-why-is-king-charless-visit-to-the-us-significant/article70922104.ece",
+    "time": "2026-04-29T18:47:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SRH chase 244! Head, Klaasen overshadow Rickelton’s historic MI ton in run-fest",
+    "desc": "Travis Head and Heinrich Klaasen powered Sunrisers Hyderabad to a six-wicket victory over Mumbai Indians, successfully chasing a massive 244 with eight balls to spare. Their explosive batting overshadowed Ryan Rickelton's record-breaking unbeaten 123, which had propelled Mumbai to their highest total batting first. SRH's remarkable chase, the fourth-highest in IPL history, saw them reach 249/4.",
+    "img": "https://static.toiimg.com/photo/msid-130616462,imgsize-61488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-srh-chase-244-head-klaasen-overshadow-rickeltons-historic-mi-ton-in-run-fest/articleshow/130616447.cms",
+    "time": "2026-04-29T18:42:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SRH storm into top three, MI slump continues",
+    "desc": "Sunrisers Hyderabad achieved a remarkable six-wicket win against Mumbai Indians. They successfully chased a record 244 runs at the Wankhede Stadium. This victory marks their fifth consecutive win in IPL 2026. Sunrisers Hyderabad now move to third place in the points table. Mumbai Indians face their sixth loss this season.",
+    "img": "https://static.toiimg.com/photo/msid-130615935,imgsize-65288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-points-table-after-match-41-srh-storm-into-top-three-mi-slump-continues/articleshow/130615595.cms",
+    "time": "2026-04-29T18:26:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I won’t do that again’",
+    "desc": "After his recent Instagram reels sparked mixed reactions online, Rahul Roy has now broken his silence. The actor, who had been trending after collaborating with an Instagram user on videos recreating his iconic songs from Aashiqui, has responded to the buzz surrounding the clips.",
+    "img": "https://static.toiimg.com/photo/msid-130615626,imgsize-44682.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rahul-roy-responds-to-viral-instagram-reels-compulsion-ho-gaya-tha-now-i-wont-do-that-again/articleshow/130615445.cms",
+    "time": "2026-04-29T18:18:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lara Dutta recalls Deepika shooting Housefull with malaria",
+    "desc": "As Housefull completes 16 years, Lara Dutta looks back at the memories of the film that went on to become a massive franchise. In a recent conversation, the actress opened up about the camaraderie on set and made a surprising revelation about co-star Deepika Padukone’s dedication during the shoot. Lara then revealed that not many people know Deepika Padukone was battling a serious illness during the shoot.",
+    "img": "https://static.toiimg.com/photo/msid-130614362,imgsize-55074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lara-dutta-recalls-deepika-padukone-shooting-housefull-with-malaria-calls-her-an-absolute-professional-she-was-drained-out/articleshow/130614229.cms",
+    "time": "2026-04-29T17:34:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma-Travis Head create IPL history with blazing stand vs MI",
+    "desc": "Mumbai Indians posted a huge 243/5 thanks to Ryan Rickelton's 123. Chasing this target, Abhishek Sharma and Travis Head formed a record opening partnership. Their 129-run stand put Sunrisers Hyderabad in a strong position. This partnership now equals the record for most century stands for the opening wicket in IPL history.",
+    "img": "https://static.toiimg.com/photo/msid-130614357,imgsize-78260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/abhishek-sharma-travis-head-create-ipl-history-with-blazing-stand-vs-mi/articleshow/130614386.cms",
+    "time": "2026-04-29T17:33:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Katherine Hepburn",
+    "desc": "Legendary actress Katharine Hepburn, a four-time Oscar winner, believed life demands active engagement. Her powerful quote urges individuals to find interesting ways to support themselves, rather than passively contemplating their existence. Hepburn stressed that a fulfilling life is built through taking action, seeking opportunities, and shaping one's own experiences, not by waiting for luck.",
+    "img": "https://static.toiimg.com/photo/msid-130611450,imgsize-49784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-katherine-hepburn-life-is-to-be-lived-you-dont-do-that-by-sitting-around-wondering-about-yourself/articleshow/130611355.cms",
+    "time": "2026-04-29T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Higher voter turnout in favour of Trinamool Congress, says Saugata Roy",
+    "desc": "Reacting to the exit poll, TMC MP Saugata Roy said, \"the party will do very well. High voter turnout is in favour of TMC. It is against the BJP because people are angry with the role of the Election Commission, which is in a conspiracy with the BJP.\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/assembly-election-2026-exit-polls-live-updates-tamil-nadu-kerala-puducherry-west-bengal-assam/article70920319.ece",
+    "time": "2026-04-29T17:22:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Judiciary chapter ‘scrutinised at the highest level, including NCERT director,’ expert states in textbook row",
+    "desc": "Suparna Diwakar, one of the three experts named as ‘responsible’ by the NCERT in drafting the ‘corruption in judiciary’ chapter in now-banned Class 8 Social Science book, says she had ‘no authorial, evaluative or decision-making role’",
+    "img": "https://th-i.thgim.com/public/incoming/jd9v7y/article70921961.ece/alternates/LANDSCAPE_1200/NCERT-class8-socialscience.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/judiciary-chapter-scrutinised-at-the-highest-level-including-ncert-director-expert-states-in-textbook-row/article70921276.ece",
+    "time": "2026-04-29T17:20:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal cliffhanger, Congress in Kerala; status quo in Tamil Nadu, Assam, Puducherry",
+    "desc": "Exit polls released on Wednesday after the conclusion of voting across four states and one Union Territory (UT) offered an indecisive picture, where entrenched incumbencies, rising challengers and new entrants are simultaneously may shape electoral outcomes if the exit polls numbers hold. With results scheduled for May 4, the projections reflect both continuity and churn across regions, underscoring how state-specific dynamics continue to define voter behaviour.",
+    "img": "https://static.toiimg.com/photo/msid-130613878,imgsize-952038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/poll-of-exit-polls-2026-bengal-cliffhanger-congress-in-kerala-status-quo-in-tamil-nadu-assam-puducherry-predictions-decoded/articleshow/130612941.cms",
+    "time": "2026-04-29T17:14:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "local bodies told to step up enforcement",
+    "desc": "Secretaries of local bodies, including Kochi Corporation, Thrikkakara municipality, and the Edathala, Kunnathunadu and Kizhakkambalam grama panchayats, have been directed by the LSGD to impose penalties and initiate legal proceedings against those found violating norms",
+    "img": "https://th-i.thgim.com/public/incoming/ngazbq/article70921939.ece/alternates/LANDSCAPE_1200/10018_19_1_2023_15_36_11_3_KADAMRAYAR_05.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kadambrayar-pollution-local-bodies-told-to-step-up-enforcement/article70921234.ece",
+    "time": "2026-04-29T17:12:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Tuareg spokesman",
+    "desc": "As a result of the largest attacks in nearly 15 years, the rebels captured the key town of Kidal in the desert north, and Defence Minister Sadio Camara, seen as the mastermind behind the junta's pivot to Russia, was killed",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russian-forces-must-withdraw-from-mali-tuareg-spokesman/article70921924.ece",
+    "time": "2026-04-29T17:02:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Bengal logs record 91.66% turnout in phase 2, sporadic violence reported across districts",
+    "desc": "West Bengal witnessed a record voter turnout exceeding 91% in the second phase of assembly elections, contributing to an overall 92.47% across two phases, the highest since Independence. Despite high participation, sporadic incidents of violence and vandalism were reported from various locations, prompting the Election Commission to seek reports and ensure fair polling.",
+    "img": "https://static.toiimg.com/photo/msid-130613424,imgsize-1554874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-logs-record-91-66-turnout-in-phase-2-sporadic-violence-reported-across-districts/articleshow/130613231.cms",
+    "time": "2026-04-29T16:47:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump warns Iran better 'get smart soon' and accept nuclear deal",
+    "desc": "U.S. could extend its naval blockade of Iran for months more, oil executives were told in a meeting with Mr. Trump, an official said, after press reports that he had rejected Iran's latest proposed deal to reopen the Strait of Hormuz.",
+    "img": "https://th-i.thgim.com/public/incoming/enztcy/article70921876.ece/alternates/LANDSCAPE_1200/2026-04-29T115533Z_1242181967_RC2RWKAXU6AQ_RTRMADP_3_USA-TRUMP-MEDIA-LITIGATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-warns-iran-better-get-smart-soon-and-accept-nuclear-deal/article70921854.ece",
+    "time": "2026-04-29T16:39:28.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "DMK in TN, BJP in Assam, UDF in Kerala?",
+    "desc": "From exit polls across five States, Phase 2 polling in West Bengal to the UAE’s OPEC exit and Rahul Gandhi’s take on the Great Nicobar project - We bring you the top stories of the day.",
+    "img": "https://th-i.thgim.com/public/incoming/9wdj8f/article70921853.ece/alternates/LANDSCAPE_1200/29%20April%202026%20FINAL5.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/exit-polls-dmk-in-tn-bjp-in-assam-udf-in-kerala-above-the-fold-29042026/article70921857.ece",
+    "time": "2026-04-29T16:37:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "George Clooney's house to appear in 'TDWP2'",
+    "desc": "Excitement is building for a 'Devil Wears Prada' sequel, with George Clooney's stunning Italian villa, Villa Oleandra, reportedly making a cameo. The actor expressed delight, calling the Lake Como estate a special place. Fans spotted the luxurious property in teaser clips featuring Anne Hathaway and Emily Blunt, adding to the anticipation for the film's release.",
+    "img": "https://static.toiimg.com/photo/msid-130612978,imgsize-88336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/george-clooney-says-oh-man-ive-made-it-finds-out-his-italian-estate-is-in-the-devil-wears-prada-2/articleshow/130612865.cms",
+    "time": "2026-04-29T16:32:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How much did Jennifer Aniston, Brad Pitt spend on their wedding",
+    "desc": "The breathtaking Malibu wedding of Jennifer Aniston and Brad Pitt in 2000 was everything a fairy tale wedding should be, with a staggering budget of $1 million. The evening was a feast for the senses, featuring a sumptuous lobster dinner, a heartwarming gospel choir, a special performance by Melissa Etheridge, and a dazzling fireworks display.",
+    "img": "https://static.toiimg.com/photo/msid-130610720,imgsize-67922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-and-brad-pitts-wedding-cost-all-about-the-extravagant-spectacle-of-the-friends-stars/articleshow/130610648.cms",
+    "time": "2026-04-29T16:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rahul Roy’s viral reels leave the internet divided; fans support",
+    "desc": "Rahul Roy, who became an overnight sensation with Aashiqui, is back in the spotlight after a series of his Instagram reels went viral. While the videos have triggered mixed reactions online, a large section of fans has come out in his support, urging others to view his journey with empathy.",
+    "img": "https://static.toiimg.com/photo/msid-130612641,imgsize-58466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rahul-roys-viral-reels-with-an-instagram-user-leave-the-internet-divided-fans-rally-behind-the-aashiqui-star/articleshow/130612416.cms",
+    "time": "2026-04-29T16:16:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Kejriwal breakthrough or Prashant Kishor's 'farsh' moment — what will it be for Vijay?",
     "desc": "Exit polls present a stark contrast for Vijay's Tamilaga Vettri Kazhagam in the 2026 Tamil Nadu elections. While most predict a spoiler role with 10-24 seats, one outlier suggests a Kejriwal-like breakthrough of 98-120 seats. The outcome hinges on converting star power into grassroots strength, unlike Prashant Kishor's Bihar debut.",
@@ -10,21 +199,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Ryan Rickelton scripts history with fastest-ever MI hundred",
-    "desc": "Ryan Rickelton made a sensational return to the Mumbai Indians playing XI, smashing the fastest century in franchise history during their IPL 2026 match against Sunrisers Hyderabad. The South African opener reached his maiden IPL hundred in just 44 balls, a blistering knock featuring seven sixes and eight fours, powering MI to a strong position.",
+    "title": "Fastest &amp; highest ever! Ryan Rickelton scripts MI history with maiden IPL hundred",
+    "desc": "South African opener Ryan Rickelton rewrote Mumbai Indians' record books with a blistering 123 not out off 55 balls, the fastest IPL century for the franchise in just 44 deliveries. His exceptional knock powered MI to a massive 243/5 against Sunrisers Hyderabad at the Wankhede, marking a historic individual performance.",
     "img": "https://static.toiimg.com/photo/msid-130611994,imgsize-47424.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ryan-rickelton-scripts-history-with-fastest-ever-mumbai-indians-hundred/articleshow/130611974.cms",
     "time": "2026-04-29T15:46:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Higher voter turnout in favour of Trinamool Congress, says Saugata Roy",
-    "desc": "Reacting to the exit poll, TMC MP Saugata Roy said, \"the party will do very well. High voter turnout is in favour of TMC. It is against the BJP because people are angry with the role of the Election Commission, which is in a conspiracy with the BJP.\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assembly-election-2026-exit-polls-live-updates-tamil-nadu-kerala-puducherry-west-bengal-assam/article70920319.ece",
-    "time": "2026-04-29T15:44:57.000Z"
   },
   {
     "cat": "World",
@@ -45,15 +225,6 @@ const newsData_en = [
     "time": "2026-04-29T15:38:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A.P. government procures two high-speed patrol boats for surveillance",
-    "desc": "The boats, which will be built at a total cost of ₹2.40 crore, will be deployed once the fishing ban is over to keep a check on the intrusion of fishermen from Tamil Nadu and Puducherry into the territorial sea waters of south coastal A.P.",
-    "img": "https://th-i.thgim.com/public/incoming/ud2uf3/article70921507.ece/alternates/LANDSCAPE_1200/10745_29_4_2026_20_33_0_1_IMG_20260429_WA0034.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-government-procures-two-high-speed-patrol-boats-for-surveillance/article70921249.ece",
-    "time": "2026-04-29T15:12:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India lose 2-3 to China despite fightback ahead of quarters",
     "desc": "India concluded their Thomas Cup Finals group stage with a narrow 2-3 defeat against China, despite already securing a quarterfinal spot. Lakshya Sen and the top doubles pair lost their matches, putting India down 0-2. However, Ayush Shetty and H.S. Prannoy secured wins in their respective matches, showcasing the team's fighting spirit ahead of the knockout stages.",
@@ -61,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/thomas-cup-blow-india-lose-2-3-to-china-despite-fightback-ahead-of-quarters/articleshow/130611136.cms",
     "time": "2026-04-29T15:07:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Madurai Bench of Madras High Court appoints Hindu couple as legal guardian of Muslim child",
-    "desc": "A Division Bench of Justices N. Anand Venkatesh and K.K. Ramakrishnan took into account that the child, right from birth, had been taken care of by the Hindu couple and was identifying them as her parents.",
-    "img": "https://th-i.thgim.com/public/incoming/imqtc8/article70921442.ece/alternates/LANDSCAPE_1200/9871_6_2_2026_18_47_39_1_DSC_9829.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/madurai-bench-of-madras-high-court-appoints-hindu-couple-as-legal-guardian-of-muslim-child/article70921254.ece",
-    "time": "2026-04-29T15:02:49.000Z"
   },
   {
     "cat": "Politics",
@@ -361,39 +523,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "When Salim Khan defended Salman's anger, compared him to Mahatma Gandhi",
-    "desc": "In a resurfaced 1997 interview, Salim Khan defended his son Salman Khan's perceived anger, stating it's a necessary emotion when channeled correctly against injustice. He highlighted Salman's sensitivity to suffering and his consistent support for newcomers, contrasting it with the press's focus on negative incidents.",
-    "img": "https://static.toiimg.com/photo/msid-130602882,imgsize-45262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-salim-khan-defended-salman-khans-anger-compared-him-to-mahatma-gandhi-hes-sensitive-to-peoples-suffering/articleshow/130602892.cms",
-    "time": "2026-04-29T09:50:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ASAP Rocky laughs as Nicole Kidman says she’d kiss Rihanna",
-    "desc": "During a Chanel event, Nicole Kidman playfully confessed she'd kiss Rihanna if she swapped lives with ASAP Rocky for a day, eliciting a laugh from the rapper. Rocky, meanwhile, eyed Kidman's closet. The interview highlighted Rocky's deep admiration for Rihanna as a mother and partner, while Rihanna recently debunked pregnancy rumors, emphasizing their focus on family and careers.",
-    "img": "https://static.toiimg.com/photo/msid-130602542,imgsize-101878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/asap-rocky-laughs-after-nicole-kidman-says-shed-kiss-rihanna-for-day-swap-rapper-says-nothing-tops-that/articleshow/130602410.cms",
-    "time": "2026-04-29T09:35:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Rajesh Khanna's PR agent reveals how he got the 'superstar' tag in viral video",
     "desc": "Publicity agent Tarak Nath Gandhi revealed how Rajesh Khanna was strategically branded 'superstar' through consistent media messaging. While the title was promoted, Khanna's unparalleled success, including 17 consecutive blockbusters, ultimately solidified his legendary status and immense fan adoration.",
     "img": "https://static.toiimg.com/photo/msid-130602479,imgsize-33690.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khannas-pr-agent-reveals-how-he-got-the-superstar-tag-in-a-viral-video-ek-cheez-jab-baar-baar-kaha-jaata-hai-/articleshow/130602331.cms",
     "time": "2026-04-29T09:32:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sabrina Carpenter, Barry Keoghan romance to split timeline",
-    "desc": "In 2024, Sabrina Carpenter and Barry Keoghan's relationship was one of the most talked-about celebrity romances in the industry. Right from their secret \"dinner dates\" to an unforgettable debut at the Met Gala and a number-one music video, their romance had fans swooning. But as with many rapid-fire romances, it all went wrong, and this led to a new set of complications.",
-    "img": "https://static.toiimg.com/photo/msid-130602138,imgsize-58386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/barry-keoghan-and-sabrina-carpenter-look-inside-their-high-profile-celebrity-romance-breakup-and-cheating-rumours/photostory/130602138.cms",
-    "time": "2026-04-29T09:17:31.000Z"
   },
   {
     "cat": "Sports",
@@ -430,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/month-long-kochi-comedy-festival-brings-together-national-and-regional-artistes/article70915495.ece",
     "time": "2026-04-29T09:02:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Not all content will be restricted unless derogatory': Court on Arjun's personality rights",
-    "desc": "Arjun Kapoor has approached the Delhi High Court seeking protection for his personality rights against AI-generated misuse and pornographic content. His lawyer highlighted instances of unauthorized merchandise sales and the circulation of deepfakes. The court acknowledged the need for protection but noted that not all content involving public figures can be removed unless defamatory.",
-    "img": "https://static.toiimg.com/photo/msid-130601286,imgsize-30812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/court-to-protect-arjun-kapoors-personality-rights-after-aishwarya-and-abhishek-bachchan-nagarjuna-kumar-sanu-salman-khan-orders-that-not-all-content-can-be-restrained-unless-its-derogatory/articleshow/130601177.cms",
-    "time": "2026-04-29T08:43:15.000Z"
   },
   {
     "cat": "Sports",
@@ -495,24 +621,6 @@ const newsData_en = [
     "time": "2026-04-29T06:00:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'No vacuum in law to deal with the offence' — What Supreme Court said on hate speeches",
-    "desc": "The Supreme Court ruled that current laws adequately address hate speech, stating punishment is a legislative matter and no vacuum exists. However, it encouraged the government to assess if new legislation is needed due to changing social dynamics.",
-    "img": "https://static.toiimg.com/photo/msid-130597172,imgsize-831385.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-vacuum-in-law-to-deal-with-the-offence-what-supreme-court-said-on-hate-speeches/articleshow/130597042.cms",
-    "time": "2026-04-29T05:42:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From Riyan Parag to AB de Villiers",
-    "desc": "Rajasthan Royals captain Riyan Parag is in hot water after visuals of him vaping in the dressing room during an IPL 2026 match went viral. This incident raises serious concerns as vaping is banned in India. It adds to a string of player conduct controversies in the league. The league faces renewed scrutiny over player behavior and rule enforcement.",
-    "img": "https://static.toiimg.com/photo/msid-130596947,imgsize-651791.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-from-riyan-parag-to-ab-de-villiers-cricketers-caught-vaping-on-camera/articleshow/130596821.cms",
-    "time": "2026-04-29T05:36:30.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. Senate blocks bid to prevent Trump from military action against Cuba",
     "desc": "“If anyone were doing to the United States what we are doing to Cuba, we would definitely regard ‌it as an act of war,” Democratic Senator Tim Kaine of Virginia, said in a Senate speech before the vote",
@@ -520,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-senate-blocks-bid-to-prevent-trump-from-military-action-against-cuba/article70918984.ece",
     "time": "2026-04-29T05:23:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Gave clean chit to Pakistan': Congress calls Rajnath's SCO meet statement 'anti-national'",
-    "desc": "Congress slammed the Centre, accusing it of giving Pakistan a \"clean chit\" after Defence Minister Rajnath Singh stated terrorism lacks nationality or theology. Congress leader Jairam Ramesh called this appeasement of the US and capitulation to China, questioning Pakistan's role in terror attacks. Singh's remarks were made at the SCO meet in Bishkek.",
-    "img": "https://static.toiimg.com/photo/msid-130596679,imgsize-21690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gave-clean-chit-to-pakistan-congress-calls-rajnaths-sco-meet-statement-anti-national/articleshow/130596681.cms",
-    "time": "2026-04-29T05:18:04.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +648,6 @@ const newsData_en = [
     "time": "2026-04-29T04:03:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Same aura': Sooryavanshi compared to Dhoni, Tendulkar after IPL heroics",
-    "desc": "At just 15, Vaibhav Sooryavanshi has become one of the IPL’s biggest attractions with his fearless batting and powerful strokeplay. Former India pacer Mohit Sharma compared the youngster’s nationwide popularity and “aura” to MS Dhoni, saying he has seen only two players command such admiration. Ex-India cricketer Murali Karthik also hailed Sooryavanshi as a “genuine prodigy”, comparing his rise and fame to that of Sachin Tendulkar.",
-    "img": "https://static.toiimg.com/photo/msid-130595302,imgsize-73278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-same-aura-15-year-old-vaibhav-sooryavanshi-compared-to-ms-dhoni-sachin-tendulkar-after-ipl-heroics/articleshow/130594456.cms",
-    "time": "2026-04-29T03:57:59.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump says King Charles does not want Iran to have nuclear weapon",
     "desc": "The event was held on the second ‌day of a four-day visit to the United States at a tense time in ties, ‌after Mr. Trump has repeatedly criticized British Prime Minister ‌Keir ⁠Starmer for what Mr. Trump calls lack of ⁠help in prosecuting the Iran war",
@@ -565,24 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-king-charles-does-not-want-iran-to-have-nuclear-weapon/article70918981.ece",
     "time": "2026-04-29T03:52:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Industrial growth slows to 5-month low in March",
-    "desc": "India's industrial production growth slowed to a five-month low of 4.1% in March, impacted by the West Asia conflict. Manufacturing output saw a marginal increase, though several key sectors experienced declines. Experts anticipate lingering global risks and supply chain disruptions to continue posing challenges to industrial activity.",
-    "img": "https://static.toiimg.com/photo/msid-130593147,imgsize-28090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/industrial-growth-slows-to-5-month-low-in-march/articleshow/130593159.cms",
-    "time": "2026-04-29T00:44:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Maruti profit slips 6.4% in Q4, revenue jumps 29%",
-    "desc": "Maruti Suzuki achieved record revenue of over Rs 1.8 lakh crore in 2025-26, driven by strong sales of 24.2 lakh vehicles. Despite a 19.9% revenue surge, net profit saw a marginal 1.2% increase due to rising operational costs. The company anticipates producing an additional 2.5 lakh vehicles this year as supply chain issues resolve and new production capacity becomes available.",
-    "img": "https://static.toiimg.com/photo/msid-130593099,imgsize-40072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/maruti-profit-slips-6-4-in-q4-revenue-jumps-29/articleshow/130593070.cms",
-    "time": "2026-04-29T00:30:56.000Z"
   },
   {
     "cat": "World",
@@ -619,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-actor-shiyas-kareem-booked-on-cheating-intimidation-charges-after-complaint-by-woman-business-partner/article70915050.ece",
     "time": "2026-04-28T06:51:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Legal limits on U.S. war involvement",
-    "desc": "The War Powers Act requires the President to seek authorisation from Congress for the continued use of military force abroad beyond 60 days of such involvement, raising questions over the Trump administration’s future course of action in the ongoing military engagement in West Asia",
-    "img": "https://th-i.thgim.com/public/incoming/9bldg6/article70913682.ece/alternates/LANDSCAPE_1200/2026-04-24T173506Z_549855058_RC2PGKA89COB_RTRMADP_3_IRAN-CRISIS-LEGAL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/legal-limits-on-us-war-involvement/article70913674.ece",
-    "time": "2026-04-28T04:01:39.000Z"
   },
   {
     "cat": "Sports",
@@ -835,50 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

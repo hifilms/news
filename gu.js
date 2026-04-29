@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "વીઝા નિયમોનું ટેન્શન ખતમ! યુરોપના આ 5 દેશો આપી રહ્યા છે અભ્યાસ પછી રહેવાની અને નોકરી શોધવાની છૂટ; જાણો",
+    "desc": "અમેરિકા અને કેનેડાના કડક નિયમો વચ્ચે જર્મની, નેધરલેન્ડ અને સ્વીડન જેવા યુરોપિયન દેશો ભારતીય વિદ્યાર્થીઓ માટે બેસ્ટ ઓપ્શન તરીકે ઉભરી આવ્યા છે. આ દેશો અભ્યાસ પૂર્ણ થયા પછી વિદ્યાર્થીઓને 18 મહિના સુધીનો જોબ સીકર વીઝા આપે છે, જેનાથી ત્યાં કરિયર બનાવવું ઘણું સરળ બની ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/visa-rules-tension-is-over-these-5-european-countries-are-giving-permission-to-stay-and-find-a-job-after-studies-know-475565 ",
+    "time": "2026-04-29T18:07:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMCના ગઢમાં ખીલી શકે છે કમળ? Zeeniaના સર્વેમાં બંગાળમાં ભાજપની આંધી, મમતા સરકારની વિદાયના સંકેત",
+    "desc": "પશ્ચિમ બંગાળમાં ઝી ન્યૂઝના AI એન્કર ઝીનિયાના એક્ઝિટ પોલમાં આ વખતે ભાજપની આંધી જોવા મળી રહી છે. મમતા બેનર્જીની પાર્ટી TMC તરફથી મળી રહેલી જોરદાર ટક્કર હોવા છતાં ભાજપની સરકાર બનતી જોવા મળી રહી છે. નોંધનીય છે કે, મોટાભાગના એક્ઝિટ પોલનો અભિપ્રાય પણ લગભગ એવો જ છે જે ઝી ન્યૂઝની AI એન્કર ઝીનિયાએ જણાવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/can-lotus-bloom-in-tmc-stronghold-zeenia-survey-shows-bjp-storm-in-bengal-signs-of-mamata-government-departure-475558 ",
+    "time": "2026-04-29T16:55:36.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "પશ્ચિમ બંગાળ, આસામ, તમિલનાડુ, કેરળ અને પુડુચેરીમાં કોણ બનાવશે સરકાર? જાણો Zeeniaના સર્વે કોને કેટલી મળશે બેઠક?",
     "desc": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી માટે મતદાન પૂર્ણ થઈ ગયું છે. આસામ, કેરળ, તમિલનાડુ અને પુડુચેરીના ચૂંટણી પરિણામો 4 મેના રોજ જાહેર થવાના છે. પરિણામો પહેલા, ZEE NEWSના AI એન્કર Zeeniaએ ચાર રાજ્યો અને એક કેન્દ્રશાસિત પ્રદેશમાં યોજાયેલી વિધાનસભા ચૂંટણીઓ અંગે સૌથી મોટો સર્વે કર્યો છે. પશ્ચિમ બંગાળ, આસામ, કેરળ, તમિલનાડુ અને પુડુચેરીમાં કોને મળી રહી છે જીત અને કોને કરવો પડશે હારનો સામનો ચાલો જાણીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/exit-poll-who-will-form-the-government-in-west-bengal-assam-tamil-nadu-kerala-and-puducherry-know-how-many-seats-will-zeenia-survey-give-475538 ",
-    "time": "2026-04-29T15:46:06.000Z"
+    "time": "2026-04-29T16:28:13.000Z"
   },
   {
     "cat": "Sports",
@@ -448,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-was-this-white-light-suddenly-switched-on-during-trump-dinner-party-right-when-he-was-being-attacked-474873 ",
     "time": "2026-04-26T05:01:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટેબલ નીચે છુપાયા ટ્રમ્પ, મેલિનિયા પણ ગભરાયા! વોશિંગટનની હોટલમાં ઈવેન્ટ વચ્ચે અંધાધૂંધ ફાયરિંગ",
-    "desc": "અમેરિકામાં વ્હાઈટ હાઉસની સુરક્ષામાં મોટા છીંડા જોવા મળ્યા. વોશિંગ્ટન ડીસીમાં વ્હાઈટ હાઉસ કોરસ્પોન્ડન્ટ્સ ડિનર દરમિયાન ગોળીબારીની ઘટના બની હતી. રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના સિક્રેટ સર્વિસે તાત્કાલિક સુરક્ષાનો મોરચો સંભાળ્યો હતો. હોટલમાં ભારે અફરાતરફી વચ્ચે હુમલાખોરને ઠાર મારવામાં આવ્યો હતો",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/washington-white-house-hilton-hotel-shooting-donald-trump-evacuated-474835 ",
-    "time": "2026-04-26T03:03:48.000Z"
   },
   {
     "cat": "Sports",
