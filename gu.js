@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;આ અહંકારની લડાઈ&amp;#039;, બોમ્બે હાઈકોર્ટે પહેલા 2046 સુધી ટાળ્યો કેસ, હવે 15 જુલાઈએ સુનાવણી, જાણો શું છે મામલો?",
+    "desc": "બોમ્બે હાઈકોર્ટે એક કેસની સુનાવણી 2046 સુધી ટાળી દીધી. પરંતુ બાદમાં પોતાના આદેશને બદલતા 15 જુલાઈએ સુનાવણીની તારીખ રાખી છે. પહેલા કોર્ટે આ કેસને ફરિયાદીના અહંકારની લડાઈ જણાવતા નારાજગી વ્યક્તિ કરી હતી. જાણો આખરે આ મામલો શું હતો?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/this-is-a-battle-of-egos%E2%80%94bombay-high-court-initially-adjourned-the-case-until-2046-hearing-to-now-take-place-on-july-15-475495 ",
+    "time": "2026-04-29T10:48:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચૂંટણી પંચનો મોટો નિર્ણય, જ્યાં જ્યાં EVM પર લાગી ટેપ, ત્યાં ફરીથી મતદાનના આદેશ",
+    "desc": "પશ્ચિમ બંગાળમાં આજે બીજા અને અંતિમ તબક્કામાં 142 બેઠકો પર મતદાન થઈ રહ્યું છે. ત્યારે મુખ્યમંત્રી મમતા બેનર્જીના ભત્રીજા અને સાંસદ અભિષેક બેનર્જીના ગઢમાં મોટી ગડબડીનો આરોપ લાગ્યો છે. ભાજપનો આરોપ હતો કે ડાયમંડ હાર્બર વિસ્તારના ફલતામાં અનેક પોલીંગ બુથો પર બટન પર ટેપ લગાવવામાં આવી છે. જેના પર હવે ચૂંટણી પંચે મોટો નિર્ણય લીધો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/election-commission-repolling-orders-wherever-tape-is-found-on-evm-475492 ",
+    "time": "2026-04-29T10:02:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "નવી કાર ખરીદવી હોય તો સારા સમાચાર, ટાટાના મોડલ પર મળશે 3.50 લાખ સુધીનું બમ્પર ડિસ્કાઉન્ટ",
+    "desc": "ટાટા મોટર્સે એપ્રિલમાં પોતાની કારો પર શાનદાર ઓફર રજૂ કરી છે. જેમાં ગ્રાહક વિવિધ મોડલની ખરીદી પર 3.50 લાખ સુધીની બચત કરી શકે છે. આ છૂટ ઈવી અને પેટ્રોલ-ડીઝલ મોડલ્સ પર આપવામાં આવી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/a-bumper-offer-of-up-to-%E2%82%B93-50-lakh-is-available-on-tata-cars-475486 ",
+    "time": "2026-04-29T09:27:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "સાઉદી-UAEએ હોર્મુઝનો તોડ કોઢી લીધો! હવે આ રીતે ભારત સુધી પહોંચે છે ક્રૂડ ઓઈલ",
+    "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થતા ભારત માટે ઓઈલ અને ગેસના પુરવઠાને ખાડી દેશોમાંથી લાવવો મુશ્કેલ બન્યો. જો કે સાઉદી અરબ અને યુએઈએ તેના માટે તોડ કાઢ્યો અને હવે બંને દેશોનો ક્રૂડ ઓઈલ પુરવઠો સરળતાથી ભારત આવી રહ્યો છે. જાણો કઈ રીતે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/saudi-arabia-uae-now-find-a-new-route-to-deliver-crude-oil-to-india-news-in-gujarati%C2%A0-475476 ",
+    "time": "2026-04-29T09:07:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રાઘવ ચઢ્ઢાના ભાજપ જોઈન કરવા પર પ્રિયંકા ચોપડાનું કનેક્શન, નવજોત કૌર સિદ્ધુએ કર્યો મોટો દાવો",
+    "desc": "નવજોત કૌર સિદ્ધુએ કહ્યું કે રાઘવ ચઢ્ઢા અચાનક બોલવાનું બંધ કરી દેતાં તેમને પહેલેથી જ અંદાજ હતો કે તેઓ પક્ષ બદલી નાખશે. તેમણે પાર્ટીના મામલાઓ પર કોઈ વાત કરી ન હતી. એ પણ સ્પષ્ટ થઈ રહ્યું હતું કે તેમના પર એન્ફોર્સમેન્ટ ડિરેક્ટોરેટ (ED) દ્વારા દરોડા પાડવામાં આવનાર છે. પ્રિયંકા ચોપરાએ આ મામલે હસ્તક્ષેપ કર્યો અને તેમણે પક્ષ બદલી નાખ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/priyanka-chopras-connection-to-raghav-chadha-joining-bjp-navjot-kaur-sidhu-makes-a-big-claim-475473 ",
+    "time": "2026-04-29T08:53:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સસ્તું સોનું ખરીદવાની હજું પણ તક! હાઈથી સોનું  27000 અને ચાંદી 1.47 લાખ સસ્તા, જાણો કેરેટ પ્રમાણે સોનાનો ભાવ",
+    "desc": "સોના અને ચાંદીમાં ભારે ઉથલપાથલનો માહોલ છે. ઘડીકમાં તેજી તો ઘડીકમાં કડાકો જોવા મળે છે. કાલના કડાકા બાદ આજે રિટેલ બજારમાં સોનું અને ચાંદી વધારામાં છે. જ્યારે વાયદા બજારમાં સોનું ચાંદી લાલ નિશાનમાં જોવા મળી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/today-gold-rate-know-gold-price-by-carat-aaj-no-sona-ane-chandi-no-bhav-jano-475464 ",
+    "time": "2026-04-29T08:25:36.000Z"
+  },
+  {
     "cat": "World",
     "title": "નહીં ખુલે સ્ટ્રેટ ઓફ હોર્મુઝ, ટ્રમ્પે બનાવી એક લાંબી અને ખતરનાક યોજના, ઈરાનની વધી રહી છે મુશ્કેલીઓ, જાણો",
     "desc": "અમેરિકાએ હોર્મુઝ સ્ટ્રેટ પર નાકાબંધી લગાવી છે. અમેરિકા કહે છે કે જ્યાં સુધી ઈરાન કોઈ કરાર પર સંમત ન થાય ત્યાં સુધી તે નાકાબંધી હટાવશે નહીં. આ દરમિયાન, ઈરાન મક્કમ છે, અને આ કટોકટીને વધારી શકે છે.",
@@ -333,24 +387,6 @@ const newsData_gu = [
     "time": "2026-04-26T09:47:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સાસરીમાં જમાઈનો તાંડવ: પત્ની-સાસુનું ગળું કાપીને ખેલ્યો લોહિયાળ જંગ, 4 વર્ષ પહેલાં કર્યા હતા પ્રેમ લગ્ન",
-    "desc": "ઉત્તર પ્રદેશના બલિયા જિલ્લામાં એક હૃદયદ્રાવક ઘટના સામે આવી છે. ચાર વર્ષ પહેલાં પ્રેમ લગ્ન કરનાર એક યુવકે પોતાના સસરાના ઘરે પહોંચી પત્ની અને સાસુની ચાકુના ઘા ઝીંકી નિર્મમ હત્યા કરી દીધી છે. આ હુમલામાં સસરા પણ ગંભીર રીતે ઘાયલ થયા છે. ઘટનાને અંજામ આપી આરોપી ફરાર થઈ ગયો છે અને પોલીસ તેની શોધખોળ કરી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ballia-double-murder-in-son-in-law-unleashes-rampage-at-in-laws-home-slits-throats-of-wife-and-mother-in-law-474926 ",
-    "time": "2026-04-26T09:40:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આ બેંકમાં લાખો ગ્રાહકોના પૈસા ફસાયા ! ₹800 કરોડનો છે કેસ, જાણો",
-    "desc": "બે વર્ષ પછી પણ આ બેંકમાં ગ્રાહકોના લગભગ 800 કરોડ રૂપિયાના ભંડોળ અટવાયેલા છે. આ રકમમાંથી અડધી રકમ ફિક્સ ખાતાઓમાં છે, અને બાકીની રકમ બિનદાવાપાત્ર છે. આરબીઆઈની કાર્યવાહી બાદ, ગ્રાહકોને તેમના ભંડોળ ઉપાડવાની ઘણી તકો આપવામાં આવી હતી, પરંતુ નોંધપાત્ર રકમ હજુ પણ અટવાયેલી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/millions-of-customers-money-trapped-in-this-bank-this-case-is-worth-800-crore-know-this-474937 ",
-    "time": "2026-04-26T09:32:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "યુવતીએ ખેંચ્યો અભિષેક શર્માનો હાથ, વીડિયો થયો વાયરલ, ખેલાડીઓની સુરક્ષા પર ઉઠ્યા સવાલ",
     "desc": "સનરાઇઝર્સ હૈદરાબાદના સ્ટાર ખેલાડી અભિષેક શર્માની સુરક્ષામાં મોટી ચૂક સામે આવી છે. જયપુરમાં ટીમ હોટલમાંથી બહાર નીકળતી વખતે એક યુવતીએ તેનો હાથ પકડીને તેને પોતાની તરફ ખેંચવાનો પ્રયાસ કર્યો હતો, આ ઘટનાનો એક વીડિયો ઝડપથી વાયરલ થઈ રહ્યો છે.",
@@ -367,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/katrina-kaif-never-went-to-school-took-up-homeschooling-became-a-top-heroine-of-bollywood-a-success-story-474901 ",
     "time": "2026-04-26T07:20:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બદલાઈ જશે ગેસ સિલિન્ડર બુક કરવાના નિયમો ? 1 મેથી આ ફેરફારો લાગુ કરવાની તૈયારી",
-    "desc": "મિડલ ઈસ્ટમાં હોર્મુઝ સ્ટ્રેટ બંધ થવાના કારણે ક્રૂડ ઓઇલ અને ગેસનો પુરવઠો ખોરવાઈ રહ્યો છે. પરિણામે નજીકના ભવિષ્યમાં દેશમાં રાંધણ ગેસનું સંકટ વધુ ઘેરું બની શકે છે. પ્રવર્તમાન પરિસ્થિતિને ધ્યાનમાં રાખીને ત્રણેય ઓઈલ કંપનીઓએ સિલિન્ડર બુકિંગ માટેના નિયમોમાં ફેરફાર કરવાની યોજના બનાવી છે, જે 1 મેથી અમલમાં આવે તેવી શક્યતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gas-cylinder-booking-rules-may-change-from-may-1-know-the-changes-474899 ",
-    "time": "2026-04-26T07:06:44.000Z"
   },
   {
     "cat": "Sports",
@@ -448,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/pat-cummins-set-to-return-and-take-back-sunrisers-hyderabad-captaincy-ipl-2026-474750 ",
     "time": "2026-04-25T08:35:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોકેનનું સેવન કરતા ઝડપાયો આ દિગ્ગજ ક્રિકેટર, 2 વર્ષનો લાગ્યો પ્રતિબંધ, ક્રિકેટ જગતમાં હાહાકાર",
-    "desc": "ન્યુઝીલેન્ડના પૂર્વ ઓલરાઉન્ડર ડગ બ્રેસવેલને કોકેન લેવાના ગુના બદલ બે વર્ષ માટે સસ્પેન્ડ કરવામાં આવ્યો છે. સપ્ટેમ્બર 2025માં કાઉન્ટી ચેમ્પિયનશિપ મેચ દરમિયાન કોકેનનો ટેસ્ટ પોઝિટિવ આવ્યા બાદ બ્રેસવેલ પર પ્રતિબંધ મૂકવામાં આવ્યો હતો. જો કે, તે આંતરરાષ્ટ્રીય ક્રિકેટમાંથી નિવૃત્તિ લઈ ચૂક્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-cricketer-doug-bracewell-banned-for-2-years-due-to-cocaine-use-474730 ",
-    "time": "2026-04-25T06:10:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -540,15 +558,6 @@ const newsData_gu = [
     "time": "2026-04-22T07:40:28.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "iOS 27 આવતા જ આ iPhones મોડલ બની જશે કચરો? જાણો તમારો ફોન લિસ્ટમાં છે કે નહીં",
-    "desc": "શુ તમારો iPhone હવે જૂનો થઈ ગયો છે? Apple ટૂંક સમયમાં iOS 27 અપડેટ સાથે કેટલાક લોકપ્રિય iPhonesનો સપોર્ટ ખતમ કરી શકે છે. જાણો શું તમારો ફોન પણ આ લિસ્ટમાં સામેલ છે અને તેની તમારા પર શું અસર પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/will-these-iphones-become-obsolete-once-ios-27-arrives-check-if-your-phone-is-on-the-list-474255 ",
-    "time": "2026-04-22T07:02:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "નમાજના ફાયદાઓ જણાવીને મુશ્કેલીમાં ફસાઈ શાર્ક ટેન્કની જજ નમિતા થાપર, લોકોએ આપી ગાળો તો રોતા-રોતા આપી સફાઈ, જુઓ Video",
     "desc": "માર્ચમાં ઈદ પછી નમાઝના ફાયદાઓ પર નમિતા થાપરે એક રીલ બનાવી હતી. તે લાંબા સમયથી આ માટે ટ્રોલ થઈ રહી છે. હવે, નમિતાએ ટ્રોલ્સને જવાબ આપતા કહ્યું છે કે તેમની સાથે આવું કરનારાઓનો કર્મા જવાબ આપશે.",
@@ -583,14 +592,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tv-serial-spoilers-has-an-old-enemy-returned-to-anupamas-life-karan-and-nandini-set-to-clash-473826 ",
     "time": "2026-04-19T07:03:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ફિલ્મમાં ઈંટીમેટ સીન શૂટ કરતાં પહેલા સેટ પર કરવામાં આવે ખાસ તૈયારી, જાણો કેવી રીતે શૂટ થાય કિસિંગ સીન",
-    "desc": "મોટાભાગની ફિલ્મોમાં કિસિંગ સીન અને ઈંટીમેટ સીન હોય છે. આ પ્રકારના બોલ્ડ સીનનું શૂટિંગ કરતાં પહેલા ખાસ તૈયારીઓ કરવામાં આવે છે. આ તૈયારીઓ કેવી હોય અને ફિલ્મમાં ઈંટીમેટ સીન કેવી રીતે શૂટ થાય છે ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/before-shooting-an-intimate-scene-actors-do-practice-and-discuss-scene-know-how-kissing-scene-shot-in-film-473792 ",
-    "time": "2026-04-19T03:29:38.000Z"
   }
 ];
