@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "We halted 'Op Sindoor' on our own terms, prepared for long battle: Rajnath Singh; says 'Sudarshan air defence a key example of exemplary AI application’",
+    "desc": "Defence minister Rajnath Singh asserted that India's 'Operation Sindoor' sent a strong global message, demonstrating a shift from mere diplomatic statements to powerful deterrence against terror. He identified Pakistan as the epicentre of international terrorism, emphasizing the need to address its ideological roots.",
+    "img": "https://static.toiimg.com/photo/msid-130654287,imgsize-1512706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-halted-op-sindoor-on-our-own-terms-prepared-for-long-battle-rajnath-singh-says-sudarshan-air-defence-a-key-example-of-exemplary-ai-application/articleshow/130654058.cms",
+    "time": "2026-04-30T21:28:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir Khan credits Reena Dutta for Junaid and Ira’s upbringing",
+    "desc": "In a recent conversation with Kapil Sharma, Aamir Khan opened up about his son Junaid Khan’s career choices and the values that define his family. The actor made it clear that he has consciously stayed away from influencing his son’s professional path. Speaking about his children Junaid Khan and Ira Khan, Aamir credited his ex-wife Reena Dutta for their upbringing.",
+    "img": "https://static.toiimg.com/photo/msid-130654164,imgsize-52696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-credits-reena-dutta-for-junaid-and-iras-upbringing-junaid-travels-in-autos-wants-to-earn-his-car-himself/articleshow/130654071.cms",
+    "time": "2026-04-30T21:24:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Britney Spears charged with driving under the influence of alcohol and drugs",
+    "desc": "Pop icon Britney Spears faces charges in California for driving under the influence of drugs and alcohol. The 44-year-old star was arrested in March after being pulled over for erratic driving. She has since entered a substance abuse treatment facility. Spears' arraignment is scheduled for Monday, though her appearance is not mandatory for this misdemeanor charge.",
+    "img": "https://static.toiimg.com/photo/msid-130653836,imgsize-149922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/britney-spears-charged-with-driving-under-the-influence-of-alcohol-and-drugs/articleshow/130653478.cms",
+    "time": "2026-04-30T21:12:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FIR over ‘separatist’ content day after Iltija shares Geelani’s video on Urdu",
+    "desc": "J&K Police have filed an FIR against individuals for promoting separatist ideology online after PDP's Iltija Mufti shared a video of late leader Syed Ali Geelani discussing the importance of Urdu. The police stated the content aimed to incite unlawful activities and undermine India's integrity. This action follows Mufti's protest against removing Urdu as a mandatory language.",
+    "img": "https://static.toiimg.com/photo/msid-130653700,imgsize-1114394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fir-over-separatist-content-day-after-iltija-shares-geelanis-video-on-urdu/articleshow/130653635.cms",
+    "time": "2026-04-30T21:06:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ashwini Vaishnaw flags off Jammu-Srinagar Vande Bharat Express",
+    "desc": "A new 20-coach Vande Bharat Express now connects Jammu and Srinagar directly, significantly cutting travel time to five hours. This direct rail link, a first for the two cities, will operate six days a week starting May 2.",
+    "img": "https://static.toiimg.com/photo/msid-130653437,imgsize-1306133.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ashwini-vaishnaw-flags-off-jammu-srinagar-vande-bharat-express/articleshow/130653333.cms",
+    "time": "2026-04-30T20:56:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Munaf Patel backs bowlers, confirms Starc availability before RR clash",
+    "desc": "The 36-year-old left-armer has been out of action since late January following a heavy workload during the Ashes, where he was named Player of the Series for claiming 31 wickets at an average of 19.93.",
+    "img": "https://th-i.thgim.com/public/incoming/pcf0i8/article70926308.ece/alternates/LANDSCAPE_1200/TH28%20DELHI%20CAPITALS%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-munaf-patel-backs-bowlers-confirms-starc-availability-before-rr-clash/article70926306.ece",
+    "time": "2026-04-30T20:55:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Swiss Saanen sparks milk rush, but wait is long",
+    "desc": "Srinagar's agricultural university has welcomed Swiss Saanen goats, sparking immense interest for their high milk yield with less feed. These docile animals, capable of producing five to six litres daily, are being studied for their adaptability to Kashmir's climate and potential for crossbreeding with local breeds. Researchers believe they could revolutionize dairy farming, even for urban households.",
+    "img": "https://static.toiimg.com/photo/msid-130653302,imgsize-1434467.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/goat-in-kashmir-swiss-saanen-sparks-milk-rush-but-wait-is-long/articleshow/130653231.cms",
+    "time": "2026-04-30T20:52:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "HC",
+    "desc": "Days before its theatrical release, Raja Shivaji has cleared a legal hurdle. The Bombay High Court on Thursday dismissed a public interest litigation (PIL) that sought to stall the film over the omission of the honorific “Chhatrapati” from its title. With the court refusing to halt the film, Raja Shivaji is set to release as scheduled.",
+    "img": "https://static.toiimg.com/photo/msid-130652365,imgsize-182022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raja-shivaji-not-derogatory-to-chhatrapati-shivaji-maharaj-bombay-hc-dismisses-plea-against-films-title-pil-is-motivated/articleshow/130652244.cms",
+    "time": "2026-04-30T20:22:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Manipulation taking place’: Mamata Banerjee raises EVM concerns, vows ‘life and death’ fight before counting",
+    "desc": "West Bengal Chief Minister Mamata Banerjee visited a strong room, alleging EVM manipulation and obstruction by Central forces. She vowed to fight \"life and death\" against alleged bias by the Election Commission, despite exit polls favouring the BJP. The state saw record voter turnout amidst political tensions.",
+    "img": "https://static.toiimg.com/photo/msid-130652248,imgsize-836401.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/manipulation-taking-place-mamata-banerjee-raises-evm-concerns-vows-life-and-death-fight-before-counting/articleshow/130652198.cms",
+    "time": "2026-04-30T20:18:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Apartment price appreciates 8-20% annually in Jan-Mar across top 8 cities: JLL",
+    "desc": "On apartment sales, the data showed that sales of flats, costing below ₹50 lakh each, fell 24% in January-March to 20,269 units. Apartments priced above ₹1 crore were in demand, with sales increasing 30% to 50,362 units",
+    "img": "https://th-i.thgim.com/public/incoming/uq0wvp/article70926294.ece/alternates/LANDSCAPE_1200/DSC3068.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/apartment-price-appreciates-8-20-annually-in-jan-mar-across-top-8-cities-jll/article70926290.ece",
+    "time": "2026-04-30T20:09:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Scotland–Kentucky trade eased after King Charles &amp; Queen Camilla US visit",
+    "desc": "US President Donald Trump announced the removal of tariffs and restrictions on whiskey trade between Scotland and Kentucky. This decision, influenced by the recent visit of King Charles and Queen Camilla, aims to bolster long-standing trade ties, particularly concerning wooden barrel exchanges.",
+    "img": "https://static.toiimg.com/photo/msid-130651884,imgsize-65274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-lifts-whiskey-tariffs-scotlandkentucky-trade-eased-after-king-charles-queen-camilla-us-visit/articleshow/130651676.cms",
+    "time": "2026-04-30T20:09:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chhattisgarh Assembly passes resolution for one-third quota for women in legislative bodies",
+    "desc": "Chief Minister Vishnu Deo Sai tabled the resolution and said that for the dignity, overall development and empowerment of women, one-third reservation for them in the Lok Sabha and all Legislative Assemblies should be enforced immediately following the delimitation exercise",
+    "img": "https://th-i.thgim.com/public/incoming/v7qolg/article70926286.ece/alternates/LANDSCAPE_1200/Screenshot%202026-05-01%20012236.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-assembly-passes-resolution-for-one-third-quota-for-women-in-legislative-bodies/article70926092.ece",
+    "time": "2026-04-30T19:53:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Monthly domestic urea output back to last year’s levels",
+    "desc": "Domestic urea production has bounced back to last year's levels, with April output reaching 21 lakh tonnes, a significant recovery after a March dip. With natural gas supplies largely restored and robust import assurances, the government confirms ample fertilizer availability to meet the upcoming kharif crop needs, ensuring farmers remain unaffected by global price hikes.",
+    "img": "https://static.toiimg.com/photo/msid-130651084,imgsize-1329291.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/monthly-domestic-urea-output-back-to-last-years-levels/articleshow/130650950.cms",
+    "time": "2026-04-30T19:36:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt aims tech transfer, local manufacturing",
+    "desc": "India is boosting its shipbuilding capabilities by adopting a \"structured tender\" approach for specialized vessels like gas and oil tankers. This strategy mandates that a portion of these ships be built domestically, facilitating technology transfer and strengthening local manufacturing. The government aims to aggregate demand for hundreds of vessels to enhance self-reliance in the maritime sector.",
+    "img": "https://static.toiimg.com/photo/msid-130650843,imgsize-243754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/structured-tender-model-for-shipbuilding-government-aims-tech-transfer-local-manufacturing/articleshow/130650772.cms",
+    "time": "2026-04-30T19:30:37.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Asha Bhosle never left riyaaz till the very end': Sudesh Bhosle",
     "desc": "Veteran singer Sudesh Bhosle has opened up about his close bond with legendary icon Asha Bhosle, recalling her discipline, passion and warmth. Asha Bhosle passed away on April 12, 2026, in Mumbai at the age of 92. She breathed her last at Breach Candy Hospital following a brief illness caused by a chest infection and exhaustion.",
@@ -297,24 +423,6 @@ const newsData_en = [
     "time": "2026-04-30T13:18:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kareena drops cryptic note as Karisma's children get relief in Sunjay's estate dispute",
-    "desc": "The Delhi High Court has ordered a status quo on the assets of late industrialist Sunjay Kapur amidst an estate dispute. Kareena Kapoor expressed relief as the court restricted the operation of foreign bank accounts and cryptocurrency holdings, emphasizing the need to preserve the estate.",
-    "img": "https://static.toiimg.com/photo/msid-130635145,imgsize-48504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-drops-cryptic-note-as-karisma-kapoors-children-get-relief-in-sunjay-kapurs-rs-30000-crore-estate-dispute-against-priya-kapur-justice-will-always-/articleshow/130634976.cms",
-    "time": "2026-04-30T13:15:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kareena Kapoor and Saif Ali Khan’s airport look with Taimur, Jeh turns heads",
-    "desc": "Bollywood's power couple Saif Ali Khan and Kareena Kapoor Khan were spotted at Mumbai airport with sons Taimur and Jeh in a rare family outing. Dressed casually, the foursome navigated the terminal, offering fans a heartwarming glimpse of their private life amidst busy schedules. This appearance highlights their commitment to balancing professional careers with cherished family moments.",
-    "img": "https://static.toiimg.com/photo/msid-130634978,imgsize-179398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pics-kareena-kapoor-and-saif-ali-khans-airport-look-with-taimur-jeh-turns-heads/articleshow/130634948.cms",
-    "time": "2026-04-30T13:09:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Supreme Court defers hearing on PIL alleging banking fraud by Anil Ambani-led ADAG to May 8",
     "desc": "At the outset, Solicitor General Tushar Mehta, appearing for the CBI and the Enforcement Directorate, said the two central probe agencies have filed fresh status reports in pursuance of directions issued on March 23 in the case",
@@ -424,15 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Karisma's children get relief, court restrains Priya from dissipating Sunjay's assets",
-    "desc": "Karisma Kapoor's children and Sunjay Kapur's mother have filed legal cases against his widow, Priya Sachdev Kapur, alleging a forged will. The Delhi High Court has granted interim relief, restraining Priya from creating third-party rights over Sunjay's estate and preserving assets pending trial.",
-    "img": "https://static.toiimg.com/photo/msid-130635352,imgsize-57772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karisma-kapoors-children-get-relief-high-court-restrains-priya-kapur-from-dissipating-sunjay-kapurs-assets-withdrawing-from-his-bank-accounts/articleshow/130631397.cms",
-    "time": "2026-04-30T10:58:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Grand Christmas Ball today in Chennai",
     "desc": "The soiree is organised by Anglo-Indians but by no means restricted to them. In these times of dwindling Anglo-Indian presence even in enclaves with a distinctive Anglo-Indian flavour, this event signifies an effort to preserve a cultural tradition that has enriched Chennai",
     "img": "https://th-i.thgim.com/public/incoming/ln0mmk/article70435949.ece/alternates/LANDSCAPE_1200/Noel%20and%20daughter%20Railway%20Institute%20Perambur%20-%20%201980s%20.jpg",
@@ -495,15 +594,6 @@ const newsData_en = [
     "time": "2026-04-30T08:33:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Sonia Gandhi takes our decisions': Kharge on speculations over change of CM in Karnataka",
-    "desc": "Congress chief Mallikarjun Kharge downplayed the Karnataka chief ministerial tussle between Siddaramaiah and DK Shivakumar, stating the party will resolve the \"confusion soon.\" This comes amid speculation fueled by a reported power-sharing agreement and a statement from Home Minister G Parameshwara suggesting Kharge could be a suitable CM.",
-    "img": "https://static.toiimg.com/photo/msid-130628007,imgsize-18662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sonia-gandhi-takes-our-decisions-kharge-on-speculations-over-change-of-cm-in-karnataka/articleshow/130628017.cms",
-    "time": "2026-04-30T08:21:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Women's group demands enquiry",
     "desc": "Rajasthan Royals captain Riyan Parag is under scrutiny after visuals emerged of him using a vape-like device in the dressing room during an IPL match. A women's group has demanded an inquiry, citing the ban on e-cigarettes in India and the potential negative influence on young viewers.",
@@ -529,42 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-scenarios-what-mumbai-indians-need-to-do-and-why-time-is-running-out/articleshow/130626557.cms",
     "time": "2026-04-30T07:25:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Iran at UN accuses US of nuclear double standards, misuse of NPT platform",
-    "desc": "Iran's UN mission accused the US of misrepresenting its nuclear program at a review conference, deflecting from Washington's own violations. Tehran insists its enriched uranium is IAEA-supervised, with no diversion. Meanwhile, Iran's envoy warned that regional stability hinges on ending aggression and respecting its sovereignty, urging the UN Security Council to intervene amidst escalating tensions.",
-    "img": "https://static.toiimg.com/photo/msid-130626534,imgsize-38220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iran-at-un-accuses-us-of-nuclear-double-standards-misuse-of-npt-platform/articleshow/130623504.cms",
-    "time": "2026-04-30T07:12:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India among worst-hit as hepatitis deaths stay high despite global gains: WHO report",
-    "desc": "India faces a significant hepatitis burden, contributing to a high number of global deaths. Despite progress in reducing infections, the world is off track to meet 2030 elimination targets due to gaps in vaccination, screening, and treatment access. Viral hepatitis remains a major public health threat.",
-    "img": "https://static.toiimg.com/photo/msid-130626054,imgsize-447730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-among-worst-hit-as-hepatitis-deaths-stay-high-despite-global-gains-who-report/articleshow/130626038.cms",
-    "time": "2026-04-30T06:52:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NMC nod to cardiology diploma after 20-year wait; 1,700 doctors’ degrees recognised",
-    "desc": "The National Medical Commission has recognized the Post Graduate Diploma in Clinical Cardiology (PGDCC), validating degrees for 1,700 doctors trained between 2006-2013. This move by IGNOU, now redesignated as Clinical Cardio Physician (Non-Invasive), aims to address the critical shortage of cardiology specialists in underserved regions and bridge the urban-rural healthcare gap.",
-    "img": "https://static.toiimg.com/photo/msid-130625920,imgsize-719864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nmc-nod-to-cardiology-diploma-after-20-year-wait-1700-doctors-degrees-recognised/articleshow/130625933.cms",
-    "time": "2026-04-30T06:46:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee hits record low of 95.20 against US dollar, slides 32 paise in early trade",
-    "desc": "The Indian rupee hit a record low of 95.20 against the US dollar today. Rising global crude oil prices and a stronger US dollar are pressuring the currency. Concerns over West Asia also impact investor sentiment. Foreign investors continue to sell Indian equities. The domestic stock market also saw a decline.",
-    "img": "https://static.toiimg.com/photo/msid-130623940,imgsize-171007.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-hits-record-low-of-95-20-against-us-dollar-slides-32-paise-in-early-trade/articleshow/130623920.cms",
-    "time": "2026-04-30T05:17:31.000Z"
   },
   {
     "cat": "World",
@@ -756,33 +810,6 @@ const newsData_en = [
     "time": "2026-04-27T22:38:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Hridoy's half-century leads Bangladesh past New Zealand in T20 series opener",
-    "desc": "Hridoy finished 51 not out from 27 balls, including two fours and three sixes. He shared a 57-run partnership with Parvez Hossain and another 49 with Shamim Hossain in an unbeaten fifth wicket to help Bangladesh race to the victory",
-    "img": "https://th-i.thgim.com/public/incoming/ym9irq/article70913816.ece/alternates/LANDSCAPE_1200/AFP_A93V43M.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/hridoys-half-century-leads-bangladesh-past-new-zealand-in-t20-series-opener/article70913814.ece",
-    "time": "2026-04-27T20:20:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stopping Kvaratskhelia is key to Bayern's chances against PSG in Champions League semifinal",
-    "desc": "Kvaratskhelia has scored eight goals so far — including another fine solo effort against Liverpool in the first leg of their quarterfinal. That's twice as many as teammate Ousmane Dembélé, the current men's Ballon d'Or holder",
-    "img": "https://th-i.thgim.com/public/incoming/cbd9l3/article70913810.ece/alternates/LANDSCAPE_1200/2026-04-27T113002Z_1676095485_UP1EM4R0VY1MD_RTRMADP_3_SOCCER-CHAMPIONS-PSG-FCB-PREVIEW.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/stopping-kvaratskhelia-is-key-to-bayerns-chances-against-psg-in-champions-league-semifinal/article70913809.ece",
-    "time": "2026-04-27T20:02:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Selection blunders and a lack of clarity hurting CSK",
-    "desc": "The five-time champion has, in the past, been reluctant to chop and change the personnel; the host bringing in Sarfaraz as an Impact Player against GT was the latest in a series of baffling calls",
-    "img": "https://th-i.thgim.com/public/incoming/wcmd9l/article70912775.ece/alternates/LANDSCAPE_1200/DSC_7077.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-poor-selection-calls-hurting-super-kings/article70912792.ece",
-    "time": "2026-04-27T18:48:16.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "How AI helped promote community-led development in Rajasthan",
     "desc": "A project to improve water resilience in two Rajasthan districts strengthened existing government efforts by using AI to improve last-mile responsiveness. The application was also lightweight enough to sit inside any large program that depends on frontline behaviour change and local coordination",
@@ -871,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
