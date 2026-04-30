@@ -6,7 +6,214 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/news/national/odisha/7v4ho4/article70923375.ece/alternates/LANDSCAPE_1200/iStock-461778719.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/maharashtra/chlorine-gas-leaks-at-defunct-water-purification-plant-in-pune/article70923340.ece",
-    "time": "2026-04-30T05:45:39.000Z"
+    "time": "2026-04-30T08:12:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "10 underrated BTS songs to add to your playlist",
+    "desc": "While BTS is celebrated for their chart-topping singles, there exists a wealth of lesser-known tracks waiting to be explored. Songs like the early rap powerhouse 'We On' and the upbeat 'Spine Breaker' showcase their roots, while heartfelt solo pieces like Suga's 'So Far Away' and RM's reflective 'UhGood' demonstrate personal growth.",
+    "img": "https://static.toiimg.com/photo/msid-130627334,imgsize-280156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/10-underrated-bts-songs-worth-adding-to-your-playlist/articleshow/130627242.cms",
+    "time": "2026-04-30T07:52:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PC recalls being scolded by choreographer; says Katrina helped her",
+    "desc": "Priyanka Chopra revealed she struggled with dancing early in her career, calling herself “dreadful.” She recalled choreographer Raju Khan once scolding her on set. To improve, she trained for hours with Katrina Kaif. Now a versatile performer, Priyanka was last seen in 'The Bluff' and will return to Indian cinema with 'Varanasi' in 2027.",
+    "img": "https://static.toiimg.com/photo/msid-130626851,imgsize-32776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dreadful-dancer-priyanka-chopra-recalls-being-scolded-by-choreographer-says-katrina-kaif-helped-her-improve-learn-to-dance-before/articleshow/130626851.cms",
+    "time": "2026-04-30T07:30:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why the UAE is leaving OPEC",
+    "desc": "The decision comes as the UAE, among the alliance’s top three producers, chafes at quotas capping output at 3.2–3.4 million barrels per day despite capacity nearing five million; the timing is notable, with the country bearing the brunt of Iranian attacks, including over 2,800 drones and missiles",
+    "img": "https://th-i.thgim.com/public/incoming/n6259j/article70921774.ece/alternates/LANDSCAPE_1200/Emirates_OPEC_39819.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-the-uae-is-leaving-opec/article70920973.ece",
+    "time": "2026-04-30T07:26:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What MI need to do and why time is running out",
+    "desc": "Mumbai Indians' IPL 2026 playoff hopes are in dire straits after a six-wicket loss to Sunrisers Hyderabad. Despite a stellar 123* from Ryan Rickelton, MI's bowling woes persist, leaving them with a daunting task of winning nearly all remaining matches. Their poor net run rate further complicates qualification, demanding dominant victories. With 2 wins in 8 games (4 points) and a NRR of -0.784, they are far from the pack.",
+    "img": "https://static.toiimg.com/photo/msid-130626557,imgsize-194274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-scenarios-what-mumbai-indians-need-to-do-and-why-time-is-running-out/articleshow/130626557.cms",
+    "time": "2026-04-30T07:25:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Jackie and Sanjay became ‘monkeys’ for fight scene",
+    "desc": "Jackie Shroff reminisced about his warm off-screen bond with Sanjay Dutt while filming 'Khalnayak,' sharing a humorous anecdote about a slippery monkey fight scene. Now, a sequel is confirmed with Dutt producing and reprising his role, while director Subhash Ghai will mentor the project.",
+    "img": "https://static.toiimg.com/photo/msid-130626805,imgsize-30268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/khalnayak-throwback-when-jackie-shroff-and-sanjay-dutt-became-monkeys-for-fight-scene-we-were-tied-to-the-branch/articleshow/130626802.cms",
+    "time": "2026-04-30T07:24:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran at UN accuses US of nuclear double standards, misuse of NPT platform",
+    "desc": "Iran's UN mission accused the US of misrepresenting its nuclear program at a review conference, deflecting from Washington's own violations. Tehran insists its enriched uranium is IAEA-supervised, with no diversion. Meanwhile, Iran's envoy warned that regional stability hinges on ending aggression and respecting its sovereignty, urging the UN Security Council to intervene amidst escalating tensions.",
+    "img": "https://static.toiimg.com/photo/msid-130626534,imgsize-38220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iran-at-un-accuses-us-of-nuclear-double-standards-misuse-of-npt-platform/articleshow/130623504.cms",
+    "time": "2026-04-30T07:12:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The Hindu wins gold at WAN-IFRA awards for data story on Bihar SIR",
+    "desc": "‘The Hindu Explains’ newsletter won the bronze in the Best Newsletter category. The newspaper also bronze awards in the categories of Best Marketing Campaign for a News Brand, Best use of Audio, and Best Reader Revenue.",
+    "img": "https://th-i.thgim.com/public/incoming/l487hn/article70923215.ece/alternates/LANDSCAPE_1200/26th-KDR-ShouldGBUF7N759.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-hindu-wins-gold-at-wan-ifra-awards-for-data-story-on-bihar-sir/article70921421.ece",
+    "time": "2026-04-30T07:07:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Patrick Muldoon’s cause of death revealed after actor dies at 57",
+    "desc": "In a heartbreaking turn of events, actor Patrick Muldoon, best known for his memorable role as Austin Reed on 'Days of Our Lives,' has died at the age of 57. The official cause, listed on his death certificate, reveals a heart attack, compounded by pulmonary embolism and a genetic blood clotting disorder.",
+    "img": "https://static.toiimg.com/photo/msid-130626344,imgsize-33942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/patrick-muldoons-cause-of-death-revealed-after-melrose-place-star-dies-at-57/articleshow/130626344.cms",
+    "time": "2026-04-30T07:04:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lokesh Kanagaraj gets emotional at ‘29’ pre-release event",
+    "desc": "Filmmaker Lokesh Kanagaraj became emotional at the '29' pre-release event, recalling his past struggles with director Rathna Kumar, where they roamed streets seeking opportunities. He credited Karthik Subbaraj's 'Pizza' for opening doors for many, including himself and Rathna. Kanagaraj emphasized Kamal Haasan's influence on his philosophy of giving back to cinema.",
+    "img": "https://static.toiimg.com/photo/msid-130626119,imgsize-4858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lokesh-kanagaraj-gets-emotional-at-29-pre-release-event-recalls-we-used-to-roam-on-the-streets-for-opportunities/articleshow/130626084.cms",
+    "time": "2026-04-30T06:57:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka on raising Malti in Partially American family",
+    "desc": "Priyanka Chopra, married to Nick Jonas, is raising daughter Malti in a multicultural home. She says she keeps Indian traditions alive while embracing their partly American life. Chopra also praised Nick’s hands-on parenting. Professionally, she starred in The Bluff and will next appear with Mahesh Babu in upcoming big-budget Varanasi.",
+    "img": "https://static.toiimg.com/photo/msid-130626123,imgsize-33556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-opens-up-on-raising-malti-in-partially-american-family-i-try-to-keep-my-traditions-alive-nick-jonas-is-part-of-my-pujas/articleshow/130626123.cms",
+    "time": "2026-04-30T06:53:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India among worst-hit as hepatitis deaths stay high despite global gains: WHO report",
+    "desc": "India faces a significant hepatitis burden, contributing to a high number of global deaths. Despite progress in reducing infections, the world is off track to meet 2030 elimination targets due to gaps in vaccination, screening, and treatment access. Viral hepatitis remains a major public health threat.",
+    "img": "https://static.toiimg.com/photo/msid-130626054,imgsize-447730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-among-worst-hit-as-hepatitis-deaths-stay-high-despite-global-gains-who-report/articleshow/130626038.cms",
+    "time": "2026-04-30T06:52:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonali Kulkarni documents Mumbai-Pune highway nightmare: Video",
+    "desc": "A crane collapse on the Sion-Panvel route near Mankhurd caused a massive traffic jam, trapping hundreds for hours, including actress Sonali Kulkarni. She documented the ordeal, highlighting the severe gridlock. Tragically, a police constable returning home from duty died after being caught in the ensuing chaos, underscoring the incident's devastating impact. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130626023,imgsize-155542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonali-kulkarni-documents-mumbaipune-highway-nightmare-in-viral-video-five-hours-at-just-one-position/articleshow/130625816.cms",
+    "time": "2026-04-30T06:51:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee falls 32 paise to all-time low of 95.20 against U.S. dollar",
+    "desc": "At the interbank foreign exchange market, the rupee opened at 95.01 against the U.S. dollar, then lost some ground and touched an all-time low of 95.20 against the U.S. dollar in initial trade, registering a fall of 32 paise over its previous close.",
+    "img": "https://th-i.thgim.com/public/news/national/odisha/ihv3hn/article70923295.ece/alternates/LANDSCAPE_1200/iStock-2149638934.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/the-rupee-declines-to-a-record-low-against-the-us-dollar/article70923263.ece",
+    "time": "2026-04-30T06:49:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SP MLAs stage protest against BJP in Uttar Pradesh Assembly premises",
+    "desc": "The protest came ahead of the special one-day session of the Assembly during which the government is expected to move a censure motion against Opposition parties, holding them responsible for the failure to pass the Women’s Reservation Amendment Bill in Lok Sabha",
+    "img": "https://th-i.thgim.com/public/incoming/v37fa4/article70923559.ece/alternates/LANDSCAPE_1200/6607_30_4_2026_12_11_2_1_IMG_20260430_120247.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/women-quota-bill-sp-mlas-stage-protest-against-bjp-in-uttar-pradesh-assembly-premises/article70923501.ece",
+    "time": "2026-04-30T06:49:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NMC nod to cardiology diploma after 20-year wait; 1,700 doctors’ degrees recognised",
+    "desc": "The National Medical Commission has recognized the Post Graduate Diploma in Clinical Cardiology (PGDCC), validating degrees for 1,700 doctors trained between 2006-2013. This move by IGNOU, now redesignated as Clinical Cardio Physician (Non-Invasive), aims to address the critical shortage of cardiology specialists in underserved regions and bridge the urban-rural healthcare gap.",
+    "img": "https://static.toiimg.com/photo/msid-130625920,imgsize-719864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nmc-nod-to-cardiology-diploma-after-20-year-wait-1700-doctors-degrees-recognised/articleshow/130625933.cms",
+    "time": "2026-04-30T06:46:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala records 99.96% pass in ICSE, 99.97% in ISC exams",
+    "desc": "In Kerala, as many as 7,861 students — 3,795 boys and 4,066 girls — appeared for ICSE examinations from 166 schools, while 3,058 students — 1,551 boys and 1,507 girls — sat for ISC examinations from 85 schools",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/a27n9y/article70923530.ece/alternates/LANDSCAPE_1200/school.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-records-9996-pass-in-icse-9997-in-isc-exams/article70923496.ece",
+    "time": "2026-04-30T06:40:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Imagine the pain, humiliation': Supreme Court urges Centre to allow abortion beyond 20 weeks for rape survivors",
+    "desc": "The Supreme Court urged the Centre to consider amending laws to allow rape survivors to terminate pregnancies beyond 20 weeks, emphasizing no time limit in such cases. The bench highlighted the lifelong trauma for a child survivor and the need for the decision to rest with the survivor and her parents, with AIIMS offering counsel.",
+    "img": "https://static.toiimg.com/photo/msid-130625492,imgsize-118584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/imagine-the-pain-humiliation-supreme-court-urges-centre-to-allow-abortion-beyond-20-weeks-for-rape-survivors/articleshow/130625509.cms",
+    "time": "2026-04-30T06:27:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I-PAC co-founder and director Vinesh Chandela gets bail in money laundering case",
+    "desc": "I-PAC director Vinesh Chandela has been granted bail by a Delhi court in a money laundering case. The Enforcement Directorate did not oppose his release, citing his cooperation with the investigation. Chandela was arrested earlier this month as part of a probe into financial dealings linked to the firm and an alleged coal scam.",
+    "img": "https://static.toiimg.com/photo/msid-130625308,imgsize-37424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-pac-co-founder-and-director-vinesh-chandela-gets-bail-in-money-laundering-case/articleshow/130625237.cms",
+    "time": "2026-04-30T06:24:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhanush’s 'Kara' wins 'blockbuster' praise",
+    "desc": "Dhanush's intense performance in the action thriller 'Kara' has garnered significant praise, with fans calling it a 'blockbuster' and the 'pride of Indian cinema.' The film, directed by Vignesh Raja, is being lauded for its gripping action, emotional depth, and strong supporting cast, setting a positive tone for its box office journey.",
+    "img": "https://static.toiimg.com/photo/msid-130625286,imgsize-105178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-twitter-review-dhanushs-intense-performance-wins-blockbuster-praise-pride-of-indian-cinema/articleshow/130625182.cms",
+    "time": "2026-04-30T06:20:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Increasing coverage, growing distress",
+    "desc": "Rising insurance coverage has not increased hospitalisation or reduced out-of-pocket expenditure, as more people shift to private sector care with higher costs; govt.-funded health insurance schemes are failing to protect households from financial hardship while disproportionately benefiting the better-off",
+    "img": "https://th-i.thgim.com/public/news/national/xigdjf/article70921971.ece/alternates/LANDSCAPE_1200/iStock-968134732.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/increasing-coverage-growing-distress/article70920470.ece",
+    "time": "2026-04-30T06:17:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rahul Roy BREAKS SILENCE on trolling over his viral reels",
+    "desc": "Actor Rahul Roy, known for 'Aashiqui', has addressed viral reels featuring him, revealing financial strain from pre-stroke legal battles. He firmly pushed back against online mockery, stating that ridiculing hardship reflects poorly on the mocker. Roy emphasized his desire to work for purpose and mental strength, asserting that online criticism won't deter him. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130625019,imgsize-77220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rahul-roy-breaks-silence-on-trolling-over-his-viral-reels-reveals-financial-strain-from-legal-matters-help-me-find-work/articleshow/130624923.cms",
+    "time": "2026-04-30T06:11:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When SRK doubted himself, and how Rishi Kapoor’s words changed him",
+    "desc": "In a touching recollection, Shah Rukh Khan reflects on the moment that boosted his acting journey — Rishi Kapoor’s encouraging words after 'Deewana,' saying, 'Yaar tujhme energy bahut hai.' This small but powerful compliment became a pivotal moment for SRK, cementing his path in the industry.",
+    "img": "https://static.toiimg.com/photo/msid-130624829,imgsize-102498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/was-insecure-about-my-looks-when-shah-rukh-khan-doubted-himself-and-how-rishi-kapoors-words-changed-him-during-deewana/articleshow/130624789.cms",
+    "time": "2026-04-30T06:01:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We didn't fall for nuclear bluff': Rajnath Singh slams Pakistan, explains why Op Sindoor was halted",
+    "desc": "Defence Minister Rajnath Singh stated India voluntarily halted Operation Sindoor on its own terms, asserting readiness for a prolonged conflict with Pakistan, which he labeled the \"epicentre of International Terrorism.\" He emphasised India's \"zero tolerance\" for terrorism and its sponsors, highlighting the nation's robust military capabilities and resolve against nuclear threats.",
+    "img": "https://static.toiimg.com/photo/msid-130627727,imgsize-86108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-didnt-fall-for-nuclear-bluff-rajnath-singh-slams-pakistan-explains-why-op-sindoor-was-halted/articleshow/130624688.cms",
+    "time": "2026-04-30T05:54:37.000Z"
   },
   {
     "cat": "Politics",
@@ -36,22 +243,22 @@ const newsData_en = [
     "time": "2026-04-30T05:25:56.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Rupee hits record low of 95.20 against US dollar, slides 32 paise in early trade",
+    "desc": "The Indian rupee hit a record low of 95.20 against the US dollar today. Rising global crude oil prices and a stronger US dollar are pressuring the currency. Concerns over West Asia also impact investor sentiment. Foreign investors continue to sell Indian equities. The domestic stock market also saw a decline.",
+    "img": "https://static.toiimg.com/photo/msid-130623940,imgsize-171007.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-hits-record-low-of-95-20-against-us-dollar-slides-32-paise-in-early-trade/articleshow/130623920.cms",
+    "time": "2026-04-30T05:17:31.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "Exit poll results 2026 for Bengal, Tamil Nadu, Assam, Kerala, Puducherry: Explained in 5 charts",
+    "title": "Exit poll results 2026 for West Bengal, Tamil Nadu, Assam, Kerala, Puducherry: Explained in 5 charts",
     "desc": "Exit polls suggest a mixed verdict across states as West Bengal anticipates a hung assembly, potentially ending Mamata Banerjee's tenure. Tamil Nadu might see actor Vijay's TVK emerge as a significant force, challenging the established duopoly. Assam favors a BJP hat-trick, while Kerala's Left government faces a potential defeat. Puducherry's NDA is expected to retain power.",
     "img": "https://static.toiimg.com/photo/msid-130623928,imgsize-43992.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/exit-poll-results-2026-for-bengal-tamil-nadu-assam-kerala-puducherry-explained-in-5-charts/articleshow/130623842.cms",
     "time": "2026-04-30T05:16:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee falls 32 paise to all-time low of 95.20 against U.S. dollar",
-    "desc": "At the interbank foreign exchange market, the rupee opened at 95.01 against the U.S. dollar, then lost some ground and touched an all-time low of 95.20 against the U.S. dollar in initial trade, registering a fall of 32 paise over its previous close.",
-    "img": "https://th-i.thgim.com/public/news/national/odisha/ihv3hn/article70923295.ece/alternates/LANDSCAPE_1200/iStock-2149638934.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/the-rupee-declines-to-a-record-low-against-the-us-dollar/article70923263.ece",
-    "time": "2026-04-30T05:14:56.000Z"
   },
   {
     "cat": "Sports",
@@ -63,22 +270,13 @@ const newsData_en = [
     "time": "2026-04-30T04:53:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Increasing coverage, growing distress",
-    "desc": "Rising insurance coverage has not increased hospitalisation or reduced out-of-pocket expenditure, as more people shift to private sector care with higher costs; govt.-funded health insurance schemes are failing to protect households from financial hardship while disproportionately benefiting the better-off",
-    "img": "https://th-i.thgim.com/public/news/national/xigdjf/article70921971.ece/alternates/LANDSCAPE_1200/iStock-968134732.jpg",
+    "cat": "World",
+    "title": "‘Cartographic Inaccuracies’: Nepal Airlines apologises for showing J&K as part of Pakistan in ‘network map’",
+    "desc": "\"We sincerely apologise for error in the network map recently shared on our social media channels. The map contained significant cartographic inaccuracies regarding international boundaries that do not reflect the official stance of Nepal or Nepal Airlines,\" Nepal Airlines posted on X.",
+    "img": "https://th-i.thgim.com/public/news/national/odisha/2j7xd1/article70923144.ece/alternates/LANDSCAPE_1200/iStock-2180423448.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/increasing-coverage-growing-distress/article70920470.ece",
-    "time": "2026-04-30T04:47:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The Hindu wins gold at WAN-IFRA awards for data story on Bihar SIR",
-    "desc": "‘The Hindu Explains’ newsletter won the bronze in the Best Newsletter category. The newspaper also bronze awards in the categories of Best Marketing Campaign for a News Brand, Best use of Audio, and Best Reader Revenue.",
-    "img": "https://th-i.thgim.com/public/incoming/l487hn/article70923215.ece/alternates/LANDSCAPE_1200/26th-KDR-ShouldGBUF7N759.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/the-hindu-wins-gold-at-wan-ifra-awards-for-data-story-on-bihar-sir/article70921421.ece",
-    "time": "2026-04-30T04:46:29.000Z"
+    "url": "https://www.thehindu.com/news/national/cartographic-inaccuracies-nepal-airlines-apologises-for-network-map-error/article70923139.ece",
+    "time": "2026-04-30T04:48:27.000Z"
   },
   {
     "cat": "Sports",
@@ -99,15 +297,6 @@ const newsData_en = [
     "time": "2026-04-30T04:43:36.000Z"
   },
   {
-    "cat": "World",
-    "title": "Why the UAE is leaving OPEC",
-    "desc": "The decision comes as the UAE, among the alliance’s top three producers, chafes at quotas capping output at 3.2–3.4 million barrels per day despite capacity nearing five million; the timing is notable, with the country bearing the brunt of Iranian attacks, including over 2,800 drones and missiles",
-    "img": "https://th-i.thgim.com/public/incoming/n6259j/article70921774.ece/alternates/LANDSCAPE_1200/Emirates_OPEC_39819.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-the-uae-is-leaving-opec/article70920973.ece",
-    "time": "2026-04-30T04:26:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "RJ Balaji clarifies Lokesh Kanagaraj’s voting controversy",
     "desc": "RJ Balaji clarified director Lokesh Kanagaraj's absence from voting during the Tamil Nadu elections. Balaji revealed that Kanagaraj was en route to Coimbatore to cast his vote but missed his flight at Chennai airport due to a delay, preventing him from fulfilling his civic duty. The clarification came at the launch of the film '29'.",
@@ -115,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rj-balaji-clarifies-lokesh-kanagarajs-voting-controversy-heres-what-really-happened-on-election-day/articleshow/130622943.cms",
     "time": "2026-04-30T04:22:45.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘Cartographic Inaccuracies’: Nepal Airlines apologises for showing J&K as part of Pakistan in ‘network map’",
-    "desc": "\"We sincerely apologise for error in the network map recently shared on our social media channels. The map contained significant cartographic inaccuracies regarding international boundaries that do not reflect the official stance of Nepal or Nepal Airlines,\" Nepal Airlines posted on X.",
-    "img": "https://th-i.thgim.com/public/news/national/odisha/2j7xd1/article70923144.ece/alternates/LANDSCAPE_1200/iStock-2180423448.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cartographic-inaccuracies-nepal-airlines-apologises-for-network-map-error/article70923139.ece",
-    "time": "2026-04-30T04:04:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -198,15 +378,6 @@ const newsData_en = [
     "time": "2026-04-30T03:26:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Liam Payne’s ex Cheryl Cole shares Disney moments with son Bear",
-    "desc": "Cheryl Cole, the former Girls Aloud singer, shared heartwarming photos of her Disney World trip with her son Bear, 9. Matching in sweatsuits, the mother-son duo explored Hollywood Studios, enjoying rides and attractions. Cole expressed her joy at rediscovering her inner child, highlighting the magic of the experience. She previously spoke about motherhood's profound impact and a positive co-parenting relationship.",
-    "img": "https://static.toiimg.com/photo/msid-130622160,imgsize-120150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/liam-paynes-ex-cheryl-cole-shares-rare-disney-world-moments-with-son-bear/articleshow/130622136.cms",
-    "time": "2026-04-30T03:26:09.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Piprahwa relics of Buddha arrive in Leh, people gather in huge numbers to pay respect",
     "desc": "In Ladakh, the relics will be open for public veneration at Jivetsal from May 2 to May 10; Union Home Minister Amit Shah, along with other Union Ministers, ambassadors, Chief Ministers of Buddhist-majority States and representatives of various Buddhist organisations, is expected to visit Leh during the veneration period.",
@@ -234,42 +405,6 @@ const newsData_en = [
     "time": "2026-04-30T03:04:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'I was young': Kritika reveals she escaped casting couch",
-    "desc": "In a candid reflection, Kritika Kamra opens up about her turbulent beginnings in the entertainment industry, sharing a harrowing experience with the casting couch that she narrowly escaped. She points out the ongoing discrimination faced by television actors in Bollywood, referring to a subtle yet significant divide. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130621801,imgsize-53980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kritika-kamra-reveals-she-escaped-the-casting-couch-i-was-really-young/articleshow/130621698.cms",
-    "time": "2026-04-30T03:01:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth surprises ‘Padayappa’ producer Thenappan",
-    "desc": "Superstar Rajinikanth has surprised producer Thenappan by gifting him a gold chain following the successful re-release of their 1999 blockbuster, 'Padayappa'. This thoughtful gesture, breaking industry norms where producers typically reward actors, highlights Rajinikanth's humility and gratitude. The film's enduring popularity after 25 years is evident in its strong theatrical performance, sparking hopes for a potential sequel.",
-    "img": "https://static.toiimg.com/photo/msid-130621713,imgsize-151340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-surprises-padayappa-producer-thenappan-gifts-a-gold-chain-after-re-release-success/articleshow/130621693.cms",
-    "time": "2026-04-30T02:54:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash teases CRAZY Ravana vsJatayu battle in ‘Ramayana’",
-    "desc": "Actor Yash, portraying Ravana in the upcoming 'Ramayana' epic, has revealed details about a 'crazy' action sequence involving a battle with the mythical bird Jatayu. He described the scene, enhanced by visual effects, as spectacular and full-on commercial action, featuring the Pushpak Vimana. The film, directed by Nitesh Tiwari, is set for a two-part release starting Diwali 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130621184,imgsize-204866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-teases-crazy-ravana-and-jatayu-battle-in-ramayana-says-it-is-a-full-on-commercial-action-scene/articleshow/130621139.cms",
-    "time": "2026-04-30T02:48:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Summer House' star West Wilson's cousin arrested for murder",
-    "desc": "Tragedy strikes the family of 'Summer House' star West Wilson as his grandmother, Gayle R. Wilson, was fatally shot. Authorities have arrested West's cousin, Dakota Sweeney, 28, for the murder. Reports indicate Sweeney shot his grandmother without warning after a disagreement, with his grandfather witnessing the horrific event.",
-    "img": "https://static.toiimg.com/photo/msid-130621507,imgsize-51852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/summer-house-star-west-wilsons-cousin-arrested-for-their-grandmothers-murder-report/articleshow/130621495.cms",
-    "time": "2026-04-30T02:43:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Stock recommendations for April 30, 2026",
     "desc": "Lodha Developers, Premier Energies, and HDFC Asset Management Company have been picked by Aakash K Hindocha, Deputy Vice President - WM Research, Nuvama Professional Clients Group as the top stocks to buy on April 30, 2026. He shares his target levels and also outlook for indices Nifty and Bank Nifty.",
@@ -288,49 +423,13 @@ const newsData_en = [
     "time": "2026-04-30T02:42:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Who is Swagatha Krishnan? All about the Tamil singer",
-    "desc": "Madurai-born singer Swagatha Krishnan has leveled serious allegations of sexual abuse and financial exploitation against a renowned Tamil composer. The incident reportedly occurred seven years ago in his studio and was allegedly captured on CCTV, which was later used for threats. Following the alleged abuse, Krishnan left Chennai and the film industry, now running a business in Rishikesh.",
-    "img": "https://static.toiimg.com/photo/msid-130621440,imgsize-71544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/who-is-swagatha-krishnan-all-about-the-tamil-singer-who-raised-allegations-against-a-kollywood-composer/articleshow/130621335.cms",
-    "time": "2026-04-30T02:36:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Vaazha 2' BO day 28: Hashir H starrer dips 14.8%",
-    "desc": "'Vaazha 2' experienced a minor setback on its 28th day, pulling in Rs 1.15 crore net in India. Its total net collection in the country has climbed to Rs 125.40 crore, while the worldwide gross stands at an impressive Rs 230.19 crore.",
-    "img": "https://static.toiimg.com/photo/msid-130621358,imgsize-239318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vaazha-2-biopic-of-a-billion-bros-box-office-collections-day-28-hashir-h-starrer-dips-14-8-crosses-rs-230-cr-worldwide/articleshow/130621206.cms",
-    "time": "2026-04-30T02:34:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anson Paul's character in 'Kattalan' revealed",
-    "desc": "The makers of director Paul George's pan-Indian Malayalam film 'Kattalan', featuring actor Antony Varghese (Pepe) in the lead, have now revealed the character actor Anson Paul plays in the film, much to the delight of fans and film buffs.",
-    "img": "https://static.toiimg.com/photo/msid-130621043,imgsize-117816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kattalan-anson-pauls-character-in-antony-vargheses-action-thriller-revealed/articleshow/130621026.cms",
-    "time": "2026-04-30T01:53:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Irrfan said he wanted to age like THESE Hollywood legends",
-    "desc": "Six years after his departure, Irrfan Khan’s insights on aging, artistic expression, and the beauty of unpredictability continue to inspire. He championed the notion that genuine wisdom is born from lived experiences rather than the mere passage of time, celebrating those actors who dared to innovate throughout their careers. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130620975,imgsize-144014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-cannot-do-it-on-your-own-when-irrfan-khan-shared-he-wanted-to-grow-old-like-clint-eastwood-and-woody-allen/articleshow/130620940.cms",
-    "time": "2026-04-30T01:51:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Singer Swagatha S Krishnan alleges abuse by composer",
-    "desc": "Artist Swagatha S Krishnan uses her platform to shed light on a harrowing experience of sexual abuse that took place within the confines of a music composer's studio. She claims that the incident was filmed and subsequently wielded as a weapon of coercion, forcing her to leave Chennai for her safety.",
-    "img": "https://static.toiimg.com/photo/msid-130620884,imgsize-102658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/singer-swagatha-s-krishnan-alleges-abuse-by-composer-calls-him-serial-abuser-says-many-women-affected/articleshow/130620841.cms",
-    "time": "2026-04-30T01:35:39.000Z"
+    "cat": "Sports",
+    "title": "IPL 2026 MI vs SRH",
+    "desc": "The result left MI — with its sixth loss in eight games — on the brink of being the first team to be ousted from the playoff race, while SRH continued its surge with its fifth consecutive win",
+    "img": "https://th-i.thgim.com/public/incoming/nfakvq/article70922122.ece/alternates/LANDSCAPE_1200/11908_29_4_2026_22_31_15_4_DSC_5933.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-mi-vs-srh-travishek-klaasen-run-riot-as-srh-bags-fifth-successive-win/article70922063.ece",
+    "time": "2026-04-30T02:13:46.000Z"
   },
   {
     "cat": "Sports",
@@ -423,24 +522,6 @@ const newsData_en = [
     "time": "2026-04-29T23:14:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "local bodies told to step up enforcement",
-    "desc": "Secretaries of local bodies, including Kochi Corporation, Thrikkakara municipality, and the Edathala, Kunnathunadu and Kizhakkambalam grama panchayats, have been directed by the LSGD to impose penalties and initiate legal proceedings against those found violating norms",
-    "img": "https://th-i.thgim.com/public/incoming/ngazbq/article70921939.ece/alternates/LANDSCAPE_1200/10018_19_1_2023_15_36_11_3_KADAMRAYAR_05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kadambrayar-pollution-local-bodies-told-to-step-up-enforcement/article70921234.ece",
-    "time": "2026-04-29T19:31:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 MI vs SRH",
-    "desc": "The result left MI — with its sixth loss in eight games — on the brink of being the first team to be ousted from the playoff race, while SRH continued its surge with its fifth consecutive win",
-    "img": "https://th-i.thgim.com/public/incoming/nfakvq/article70922122.ece/alternates/LANDSCAPE_1200/11908_29_4_2026_22_31_15_4_DSC_5933.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-mi-vs-srh-travishek-klaasen-run-riot-as-srh-bags-fifth-successive-win/article70922063.ece",
-    "time": "2026-04-29T19:16:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "the yorker-specialist looking to rule the big stage",
     "desc": "The pace bowler from Delhi has taken giant strides for Lucknow Super Giants in the IPL over the past year after starting out with the tennis ball. A two-year ban by the BCCI for age-fudging in 2019 looked set to derail his professional career just when it had begun, but the youngster with a never-say-die attitude, has rallied against the odds to reach this far",
@@ -493,24 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/abhishek-sharma-travis-head-create-ipl-history-with-blazing-stand-vs-mi/articleshow/130614386.cms",
     "time": "2026-04-29T17:33:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Higher voter turnout in favour of Trinamool Congress, says Saugata Roy",
-    "desc": "Reacting to the exit poll, TMC MP Saugata Roy said, \"the party will do very well. High voter turnout is in favour of TMC. It is against the BJP because people are angry with the role of the Election Commission, which is in a conspiracy with the BJP.\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assembly-election-2026-exit-polls-live-updates-tamil-nadu-kerala-puducherry-west-bengal-assam/article70920319.ece",
-    "time": "2026-04-29T17:22:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Judiciary chapter ‘scrutinised at the highest level, including NCERT director,’ expert states in textbook row",
-    "desc": "Suparna Diwakar, one of the three experts named as ‘responsible’ by the NCERT in drafting the ‘corruption in judiciary’ chapter in now-banned Class 8 Social Science book, says she had ‘no authorial, evaluative or decision-making role’",
-    "img": "https://th-i.thgim.com/public/incoming/jd9v7y/article70921961.ece/alternates/LANDSCAPE_1200/NCERT-class8-socialscience.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/judiciary-chapter-scrutinised-at-the-highest-level-including-ncert-director-expert-states-in-textbook-row/article70921276.ece",
-    "time": "2026-04-29T17:20:53.000Z"
   },
   {
     "cat": "World",
@@ -583,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-mumbai-indians-players-are-wearing-black-armbands-vs-sunrisers-hyderabad/articleshow/130610158.cms",
     "time": "2026-04-29T14:18:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Quinton de Kock not playing against SRH in Mumbai?",
-    "desc": "Quinton de Kock has been ruled out of Mumbai Indians' match against Sunrisers Hyderabad due to a wrist injury sustained in practice. Ryan Rickelton will replace him at the top of the order. Mumbai Indians captain Hardik Pandya won the toss and elected to bat first at the Wankhede Stadium.",
-    "img": "https://static.toiimg.com/photo/msid-130610006,imgsize-1090636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/why-is-quinton-de-kock-not-playing-against-sunrisers-hyderabad-in-mumbai/articleshow/130609918.cms",
-    "time": "2026-04-29T14:10:32.000Z"
   },
   {
     "cat": "Sports",
@@ -774,15 +828,6 @@ const newsData_en = [
     "time": "2026-04-27T05:24:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Venkatesh Iyer",
-    "desc": "Despite being an IPL winner, he has found opportunities tough to come by at his new team Royal Challengers Bengaluru. But the 31-year-old remains in good spirits, and considers the chance to play for RCB an important step in his cricketing development",
-    "img": "https://th-i.thgim.com/public/incoming/83fv6k/article70909723.ece/alternates/LANDSCAPE_1200/_DSC2563.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/you-can-get-anything-done-out-of-me-for-the-team-venkatesh-iyer/article70909724.ece",
-    "time": "2026-04-27T04:42:03.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "How AI helped promote community-led development in Rajasthan",
     "desc": "A project to improve water resilience in two Rajasthan districts strengthened existing government efforts by using AI to improve last-mile responsiveness. The application was also lightweight enough to sit inside any large program that depends on frontline behaviour change and local coordination",
@@ -808,33 +853,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/michael-movie-review-jaafar-jackson-antoine-fuqua-biopic/article70904674.ece",
     "time": "2026-04-25T07:54:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Jerax’ series review: A witty fantasy drama propelled by fine performances",
-    "desc": "Srinidhi Bengaluru’s Kannada show ‘Jerax’ navigates love, political rivalries, and a series of hilarious identity mix-ups thanks to a human-cloning machine. Even if the ending feels rushed, the relatable characters and unexpected twists make the series a fresh attempt",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/p1j2xb/article70904365.ece/alternates/LANDSCAPE_1200/JeraxR.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/jerax-series-review-kannada-zee5-witty-fantasy-drama-fine-performances-srinidhi-bengaluru-nagabhushana-daali-dhananjaya/article70904353.ece",
-    "time": "2026-04-25T05:14:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Has Anthropic’s Mythos made the cure worse than the disease?",
-    "desc": "In the world of cybersecurity, defenders are, to put it crudely, your anti-virus sellers, helping you fix security vulnerabilities and keep data safe. But that simple business model is being disrupted by speed and scale.",
-    "img": "https://th-i.thgim.com/public/incoming/l9l8ep/article70721073.ece/alternates/LANDSCAPE_1200/2015-06-21T034151Z_1385551238_GF10000134665_RTRMADP_3_CYBERSECURITY-USA-DEEP-PANDA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/has-anthropics-mythos-made-the-cure-worse-than-the-disease/article70896095.ece",
-    "time": "2026-04-24T03:46:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The origin stories of SPAM",
-    "desc": "The months of April and May could well be celebrated as the birth months of spam — those notoriously undesired messages that clog our information highways. This is because the earliest known case of spam took place on May 3, 1978 and the first such case in the Web as we know it now took place on April 12, 1994. A.S.Ganesh turns off his spam filters to give you these two tales…",
-    "img": "https://th-i.thgim.com/public/incoming/lnb78u/article70814909.ece/alternates/LANDSCAPE_1200/2013-03-27T190517Z_01_PXP400_RTRMDNP_3_INTERNET-ATTACK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-origin-stories-of-spam/article70814926.ece",
-    "time": "2026-04-23T09:46:50.000Z"
   },
   {
     "cat": "Tech",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];

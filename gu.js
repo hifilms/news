@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "આગામી T20 વર્લ્ડ કપ માટે ક્યારે થશે ટીમ ઈન્ડિયાની જાહેરાત ? BCCIએ જણાવી તારીખ",
+    "desc": "મહિલા T20 વર્લ્ડ કપ 2026 12 જૂનથી શરૂ થવાનો છે. બધી ટીમોએ ટુર્નામેન્ટ માટે તૈયારીઓ શરૂ કરી દીધી છે. ઓપનિંગ મેચ ઇંગ્લેન્ડ અને શ્રીલંકા વચ્ચે રમાશે. આ દરમિયાન BCCIએ આ ટુર્નામેન્ટ માટે ભારતીય ટીમ ક્યારે જાહેર કરવામાં આવશે તે અંગે અપડેટ આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/when-team-india-will-be-announced-for-womens-t20-world-cup-2026-bcci-announces-date-475634 ",
+    "time": "2026-04-30T08:14:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "70KM ની ઝડપે પવનો ફૂંકાશે, 29 રાજ્યોમાં ગાજવીજ સાથે વરસાદનું એલર્ટ, IMD નું એલર્ટ",
+    "desc": "imd weather predictions; દેશભરમાં છેલ્લા 24 કલાકમાં અલગ-અલગ રાજ્યોમાં હવામાનનો મિજાજ અલગ-અલગ રહ્યો છે. તો લૂ-ભેજને કારણે ભીષણ ગરમીથી લોકો પરેશાન છે. તો કેટલીક જગ્યાએ વરસાદને કારણે રાહત મળી છે. હવામાન વિભાગે એક તરફ અલ નીનો અને બીજીતરફ પશ્ચિમી વિક્ષોભની સાથે પ્રી-મોન્સૂનને આ હવામાન માટે જવાબદાર ઠેરવ્યું છે. આવો જાણીએ આગામી પાંચ દિવસ દેશમાં હવામાન કેવું રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/imd-weather-predictions-winds-will-blow-at-a-speed-of-70km-rain-alert-in-29-states-475630 ",
+    "time": "2026-04-30T07:37:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દેશમાં ગરમીનો 140 વર્ષનો રેકોર્ડ તૂટશે! ગુજરાતમાં પણ મચશે હાહાકાર, આખરે શું છે આ &amp;#039;સુપર અલ નીનો&amp;#039;?",
+    "desc": "ગુજરાત સહિત દેશભરમાં આ વખતે કાળઝાળ ગરમી બધા રેકોર્ડ તોડે તેવી ભીતિ છે. સુપર અલ નીનોની ખુબ ચર્ચા છે ત્યારે તે શું છે અને તેની કેવી કેવી અસર પડી શકે તથા સમગ્ર વિશ્વમાં તેની શું અસર પડી શકે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-super-el-nino-what-effects-can-it-have-intense-heat-heatwaves-explainer-475620 ",
+    "time": "2026-04-30T06:21:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રોહિત શર્મા ક્રિકેટ સિવાય આ બિઝનેસમાંથી કરે છે કરોડોની કમાણી, નેટવર્થ જાણીને ચોંકી જશો",
+    "desc": "ભારતીય ક્રિકેટર રોહિત શર્માનો આજે 38મો જન્મદિવસ છે. રોહિત ક્રિકેટ સિવાય તેની વૈભવી લાઈફસ્ટાઈલ માટે પણ જાણીતો છે. તેના જન્મદિવસે એ જાણી લઈએ કે તેની કુલ સંપત્તિ કેટલી છે અને તે ક્રિકેટ સિવાય કયા કયા બિઝનેસમાંથી કમાણી કરી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-birthday-know-about-his-net-worth-and-luxurious-lifestyle-475621 ",
+    "time": "2026-04-30T06:20:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ક્રિકેટ ફેન્સ ખાસ વાંચે! નરેન્દ્ર મોદી સ્ટેડિયમમાં મેચ જોવા જતા પહેલા પોલીસની આ માર્ગદર્શિકા જાણી લો",
     "desc": "નરેન્દ્ર મોદી સ્ટેડિયમમાં IPL મેચ માટે પોલીસની માર્ગદર્શિકા જાહેર કરાઈ છે. અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમ ખાતે ગુજરાત ટાઇટન્સ (GT) અને રોયલ ચેલેન્જર્સ બેંગલુરુ (RCB) વચ્ચે મેચ યોજાવા જઈ રહી છે. દર્શકોએ પોતાના વાહનો પોલીસ દ્વારા નિર્ધારિત કરવામાં આવેલી પાર્કિંગની જગ્યાએ જ પાર્ક કરવાના રહેશે. સ્ટેડિયમમાં પ્રવેશતી વખતે ટિકિટ સાથે રાખવી અને પોલીસની સુરક્ષા વ્યવસ્થામાં સંપૂર્ણ સહકાર આપવો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -277,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/aadhaar-not-valid-as-date-of-birth-proof-uidai-new-guidelines-475234 ",
     "time": "2026-04-28T05:54:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગુજરાતીઓ સંભાળીને રહેજો! આ વખતે ભયંકર ગરમી અને હિટવેવ રેકોર્ડ તોડશે? રાજ્યોને એલર્ટ કરાયા",
-    "desc": "આ વખતે ગુજરાત સહિત દેશભરમાં ભયંકર ગરમી પડી રહી છે. એમાં પણ હજુ તો એપ્રિલ મહિનો પૂરો પણ થયો નથી અને લૂનો કહેર જોવા મળી રહ્યા છે. હવામાન વિભાગે કરેલી આગાહી ખુબ ચિંતાજનક છે. જાણો ગુજરાત માટે શું છે સ્થિતિ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/will-this-time-terrible-heat-and-heatwave-break-records-states-alerted-weather-forecast-475226 ",
-    "time": "2026-04-28T05:28:11.000Z"
   },
   {
     "cat": "Business",
@@ -601,14 +628,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mamta-kulkarni-birthday-celebration-video-viral-mamta-kulkarni-trolled-for-her-modern-look-473985 ",
     "time": "2026-04-20T08:08:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અનુપમાની જિંદગીમાં થશે જૂની દુશ્મનની એન્ટ્રી? કરણ-નંદિની વચ્ચે થશે જબરદસ્ત ઝઘડો",
-    "desc": "રૂપાલી ગાંગુલીની સીરિયલ 'અનુપમા'માં નવા પાત્રોની એન્ટ્રી અને જૂના દુશ્મનો સાથેનો ટકરાવ જોવા મળશે. બીજી તરફ 'ક્યોંકિ સાસ ભી કભી બહૂ થી'માં કરણ અને નંદિની વચ્ચે કંકાસની સ્થિતિ સર્જાઈ રહી છે. ચાલો જાણીએ આવનારા દિવસોમાં ટીવી સીરિયલ્સની દુનિયામાં શું નવું થવાનું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tv-serial-spoilers-has-an-old-enemy-returned-to-anupamas-life-karan-and-nandini-set-to-clash-473826 ",
-    "time": "2026-04-19T07:03:51.000Z"
   }
 ];
