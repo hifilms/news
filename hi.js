@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gujarat Titans stun defending champions Royal Challengers Bengaluru, register four wicket win in Ahmedabad",
+    "desc": "Royal Challengers Bengaluru arrived in Ahmedabad on the back of a famous nine-wicket win over Delhi Capitals. They bundled the hosts for 75 runs and got the job done rather comfortably with the bat. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-stun-defending-champions-royal-challengers-bengaluru-register-four-wicket-win-in-ahmedabad-2026-04-30-1039512",
+    "time": "2026-04-30T17:32:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli's animated reaction goes viral after Rajat Patidar's dismissal invites controversy vs GT",
     "desc": "Rajat Patidar’s dismissal against Gujarat Titans in Ahmedabad sparked a strong reaction from star batter Virat Kohli. Notably, the RCB captain attempted to pull Arshad Khan, but a top edge took it towards deep backward...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/we-are-still-very-much-in-tournament-mi-coach-kieron-pollard-hopeful-of-turnaround-in-ipl-2026-2026-04-30-1039419",
     "time": "2026-04-30T05:04:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad achieve special feat 13 years after making IPL debut with win over Mumbai Indians",
-    "desc": "Sunrisers Hyderabad continued their merry run in the ongoing edition of the Indian Premier League (IPL) on Wednesday as they defeated five-time champions Mumbai Indians at the Wankhede Stadium. SRH chased down a mammoth target...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-achieve-special-feat-13-years-after-making-ipl-debut-with-win-over-mumbai-indians-2026-04-30-1039400",
-    "time": "2026-04-30T03:35:24.000Z"
   }
 ];

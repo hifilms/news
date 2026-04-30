@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "મિડલ ઈસ્ટમાં સંકટ વચ્ચે સરકારે લોકોની દૂર કરી સૌથી મોટી ચિંતા! LPG સપ્લાયને લઈને આપ્યું મોટું અપડેટ",
+    "desc": "સરકારે સ્પષ્ટ કર્યું છે કે પશ્ચિમ એશિયાના સંકટ છતાં દેશમાં LPGનો 100% સપ્લાય બનેલી છે અને ક્યાંય પણ ગેસની અછત નથી. જો કે, કેટલીક જગ્યાએ 'પેનિક બાઈંગ' જોવા મળી છે, જેને રોકવા માટે લોકોને અપીલ કરવામાં આવી છે કે તેઓ જરૂરિયાત અનુસાર જ સિલિન્ડર બુક કરાવે. સામાન્ય જનતાએ ગભરાવાની જરૂર નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-has-removed-the-biggest-concern-of-the-people-a-major-update-has-been-given-regarding-lpg-supply-475707 ",
+    "time": "2026-04-30T17:57:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દિલ્હીના આ માર્કેટમાં મળે છે સૌથી સસ્તું કાપડ, ડિઝાઈનર આઉટફિટ પણ બજેટમાં થઈ જશે તૈયાર",
+    "desc": "જો તમારે પણ બજેટમાં પોતાના માટે ડિઝાઈનર કપડાં જોઈએ છે, તો દિલ્હીનું આ માર્કેટ તમારા માટે બેસ્ટ છે. અહીં તમને દરેક પ્રકારનું ફેબ્રિક ખૂબ જ ઓછી કિંમતે મળી જશે. અહીંથી કાપડ ખરીદીને તમે તમારો આઉટફિટ જાતે તૈયાર કરી શકો છો, તે પણ તમારા બજેટમાં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cheapest-fabrics-are-available-in-this-market-in-delhi-designer-outfits-will-also-be-ready-within-the-budget-475706 ",
+    "time": "2026-04-30T17:14:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મધ્યપ્રદેશમાં મોટી દુર્ઘટના : MP ટુરિઝમનું ક્રુઝ નર્મદા નદીમાં ડૂબ્યું, 29 મુસાફરો સવાર હતા, ચારના મોત",
     "desc": "મધ્યપ્રદેશના જબલપુરમાં આવેલ બરગી ડેમ પાસે આજે સાંજના સમયે એક મોટો દુર્ઘટના બની. ડેમના બેકવોટરમાં પ્રવાસીઓથી ભરેલું એક ક્રૂઝ અચાનક ડૂબી ગયુ. ક્રૂઝમાં લગભગ 30 જેટલા લોકો સવાર હતા. જો કે ક્રૂઝ ડૂબી જતા ચાર લોકોના ઘટના સ્થળે જ મોત નિપજ્યા હતા. જ્યારે 15થી વધુ લોકો તરીને કિનારે પહોંચ્યા હતા",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/cruise-capsized-in-bargi-dam-jabalpur-four-dead-15-rescued-search-operation-underway-475691 ",
-    "time": "2026-04-30T15:43:30.000Z"
+    "time": "2026-04-30T16:46:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મું પગાર પંચમાં રાજ્યના કર્મચારીઓને કેટલો ફાયદો થશે? જાણો કમિશન સાથે જોડાયેલી આ મહત્વની વાતો",
+    "desc": "8મા પગાર પંચ (8th Pay Commission) ને લઈને કર્મચારીઓમાં ભારે ઉત્સાહ છે, પરંતુ શું તેનો સીધો લાભ માત્ર કેન્દ્રીય કર્મચારીઓ અને પેન્શનરોને જ મળશે? શું તેનો કોઈ લાભ રાજ્ય સરકારના કર્મચારીઓને પણ મળશે? ચાલો આવા જ વારંવાર પૂછાતા કેટલાક મહત્વના પ્રશ્નોના ઉત્તર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-much-will-the-state-employees-benefit-from-the-8th-pay-commission-know-these-important-things-related-to-the-commission-475699 ",
+    "time": "2026-04-30T16:43:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -324,15 +351,6 @@ const newsData_gu = [
     "time": "2026-04-28T13:55:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "માત્ર 75 ઘર ધરાવતા નાનકડા આ ગામમાં છે 51થી વધુ IAS-IPS, જાણો આ ગામની માટીમાં શું છે ખાસ",
-    "desc": "ઉત્તર પ્રદેશના માધોપટ્ટી ગામમાં ફક્ત 75 ઘરની વસ્તી હોવા છતાં 51થી વધુ IAS અને IPS અધિકારીઓ છે, જેના કારણે તેણે \"અધિકારીઓનું ગામ\"નું બિરુદ મેળવ્યું છે. આ ગામના એક જ પરિવારના ચાર ભાઈઓ IAS અધિકારી બન્યા છે અને એ પણ કોચિંગ વિના, જે યુવાનોને પ્રેરણા આપે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ias-ips-officers-village-madhopatti-up-success-story-of-upsc-aspirants-475325 ",
-    "time": "2026-04-28T11:56:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "કાશ પટેલ સિવાય ટ્રમ્પની આખી ટીમને મારવાનો હતો પ્લાન? શું હિન્દુ હોવાને કારણે બચી ગયા FBI ચીફ?",
     "desc": "વ્હાઇટ હાઉસ ગોળીબારમાં ગોળીબાર કરનાર કોલ એલને ડોનાલ્ડ ટ્રમ્પની ટીમને નિશાન બનાવી હતી પરંતુ એફબીઆઈ ડિરેક્ટર કાશ પટેલને બચાવી લીધો હતો. શું આ પાછળ પટેલની હિન્દુ ઓળખ કારણભૂત હતી કે કોઈ ચોક્કસ રણનીતિ હતી? જાણો સમગ્ર વાત",
@@ -468,15 +486,6 @@ const newsData_gu = [
     "time": "2026-04-26T17:40:14.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સરકારી કર્મચારીઓના પગારમાં વધારો! દરેક લેવલે કેટલો થશે ફાયદો ?",
-    "desc": "કેન્દ્ર સરકારે મોંઘવારી ભથ્થું (DA) 58% થી વધારીને 60% કર્યું છે, જેનાથી લાખો કર્મચારીઓ અને પેન્શનરોના પગારમાં સીધો વધારો થશે. આ વધારો 1 જાન્યુઆરી, 2026થી અમલમાં આવશે. પગાર સ્તરના આધારે, કર્મચારીઓના પગારમાં ₹300 થી ₹1,100 સુધીનો વધારો થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/increase-in-salaries-of-government-employees-how-much-will-be-the-benefit-at-each-level-475004 ",
-    "time": "2026-04-26T16:11:36.000Z"
-  },
-  {
     "cat": "World",
     "title": "2050 સુધીમાં, શહેરોમાં વરસશે આગ, વર્લ્ડ બેંકની ચેતવણી, 700% વધી જશે ગરમીથી પીડાતા ગરીબોની સંખ્યા",
     "desc": "વિશ્વભરના શહેરો માટે, ગ્લોબલ વોર્મિંગ હવે માત્ર એક ચેતવણી નથી, પરંતુ એક શાંત કિલર છે. તાજેતરના વિશ્વ બેંકના રિપોર્ટમાં ભવિષ્યનું ભયાનક ચિત્ર રજૂ કરવામાં આવ્યું છે. અહેવાલ મુજબ, 2050 સુધીમાં, જીવલેણ ગરમીનો ભોગ બનેલા ગરીબ શહેરી રહેવાસીઓની સંખ્યામાં 700 ટકાનો વધારો થશે. આનો અર્થ એ છે કે આજ કરતાં સાત ગણા વધુ લોકો ગરમીનો ભોગ બનવા મજબૂર થશે.",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/press-secretary-caroline-leavitt-statement-viral-after-shooting-on-donald-trump-474970 ",
     "time": "2026-04-26T12:30:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારી બેન્કના કર્મચારીઓ માટે ખુશખબર, પગારમાં થશે મોટો સુધારો; જાણો ક્યારથી થશે લાગુ",
-    "desc": "જાહેર ક્ષેત્રની બેન્કોના કર્મચારીઓ અને અધિકારીઓના પગારમાં સુધારો 1 નવેમ્બર 2027થી લાગુ કરવામાં આવશે. સામાન્ય રીતે જાહેર ક્ષેત્રની બેન્કો અને વીમા કંપનીઓ સહિતની નાણાકીય સંસ્થાઓ દર પાંચ વર્ષે તેમના કર્મચારીઓના પગારની સમીક્ષા અને સુધારો કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-for-bank-employees-there-will-be-a-big-improvement-in-salary-know-when-it-will-be-implemented-474950 ",
-    "time": "2026-04-26T10:43:03.000Z"
   },
   {
     "cat": "Entertainment",
