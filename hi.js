@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'We don't have much option': Hardik Pandya reacts after Mumbai Indians fail to defend 243 runs vs SRH",
+    "desc": "Mumbai Indians suffered their sixth defeat of the ongoing Indian Premier League (IPL) season on Wednesday as they went down to Sunrisers Hyderabad at the Wankhede Stadium in Mumbai. SRH aced the highest ever T20...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-don-t-have-much-option-hardik-pandya-reacts-after-mumbai-indians-fail-to-defend-243-runs-vs-srh-2026-04-30-1039389",
+    "time": "2026-04-30T02:09:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How can Mumbai Indians qualify for IPL 2026 playoffs after defeat to Sunrisers Hyderabad?",
     "desc": "Mumbai Indians' IPL 2026 campaign continues to be a horrific one as they suffered their sixth loss of the season, going down to Sunrisers Hyderabad by six wickets at Wankhede. Despite having put up 243/5...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-are-mumbai-indians-players-wearing-black-armbands-in-clash-against-srh-in-ipl-2026-2026-04-29-1039359",
     "time": "2026-04-29T15:03:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya shares MI star's fitness status ahead of SRH clash in IPL 2026",
-    "desc": "Rohit Sharma missed out yet again as the Mumbai Indians take on the Sunrisers Hyderabad in their eighth match of the Indian Premier League 2026 at the Wankhede Stadium on Wednesday, April 29. This is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-hardik-pandya-shares-mi-stars-fitness-status-ahead-of-srh-clash-in-ipl-2026-2026-04-29-1039353",
-    "time": "2026-04-29T13:45:04.000Z"
   }
 ];
