@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "SLC forms nine-member Transformation committee, Kumar Sangakkara part of it",
+    "desc": "Sri Lanka’s cricket administration has been reshaped after the government removed the existing leadership and installed a nine-member Transformation Committee to take charge. The group brings together a mix of cricketing experience and expertise from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/slc-forms-nine-member-transformation-committee-kumar-sangakkara-part-of-it-2026-04-30-1039487",
+    "time": "2026-04-30T13:39:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
+    "desc": "Gujarat Titans will host defending champions Royal Challengers Bengaluru on April 30 at the Narendra Modi Stadium in Ahmedabad. The Shubman Gill-led side has been inconsistent this season, having won four out of eight matches...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rcb-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-04-30-1039474",
+    "time": "2026-04-30T11:30:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Faf du Plessis, Jonty Rhodes, Klaasen join hands for ETPL’s Rotterdam franchise",
+    "desc": "Former South Africa captain Faf du Plessis and ex-Proteas cricketers Jonty Rhodes and Heinrich Klaasen have joined hands to co-own the Rotterdam franchise, the fifth team in the upcoming European T20 Premier League (ETPL). Moreover,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-jonty-rhodes-klaasen-join-hands-for-etpls-rotterdam-franchise-2026-04-30-1039468",
+    "time": "2026-04-30T11:15:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kevin Pietersen urges South Africa to dial Heinrich Klaasen ahead of ODI World Cup 2027",
+    "desc": "Sunrisers Hyderabad batter Heinrich Klaasen has been a force to reckon with in the ongoing IPL 2026. The keeper-batter has smacked 414 runs in nine matches at a strike rate of 157.14 and is currently...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kevin-pietersen-urges-south-africa-to-dial-heinrich-klaasen-ahead-of-odi-world-cup-2027-2026-04-30-1039466",
+    "time": "2026-04-30T11:10:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Riyan Parag cops massive fine for 'smoking act' in dressing room during match vs Punjab Kings",
     "desc": "The Board of Control for Cricket in India (BCCI) has fined Rajasthan Royals captain Riyan Parag for his 'smoking act' in the dressing room during the match against Punjab Kings earlier this week. For the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/heinrich-klaasen-travis-head-school-mumbai-bowlers-as-sunrisers-hyderabad-set-record-chase-at-wankhede-2026-04-29-1039373",
     "time": "2026-04-29T18:06:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Travis Head, Abhishek Sharma join David Warner and Shikhar Dhawan in legendary IPL record list",
-    "desc": "Sunrisers Hyderabad openers Travis Head and Abhishek Sharma launched a scathing attack against Mumbai Indians bowlers at the Wankhede Stadium. Chasing 244 runs, the visitors needed something extraordinary to find the right momentum and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/travis-head-abhishek-sharma-join-david-warner-and-shikhar-dhawan-in-legendary-ipl-record-list-2026-04-29-1039372",
-    "time": "2026-04-29T17:48:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli inches away from major Chris Gayle world record as RCB gear up for GT clash in IPL 2026",
-    "desc": "Royal Challengers Bengaluru icon Virat Kohli is set to break a huge Chris Gayle T20 world record as his team meets Gujarat Titans in the reverse fixture at the Narendra Modi Stadium, Ahmedabad, on Thursday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-inches-away-from-major-chris-gayle-world-record-as-rcb-gear-up-for-gt-clash-in-ipl-2026-2026-04-29-1039370",
-    "time": "2026-04-29T17:35:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kanteerava Stadium turns white after heavy hailstorm in Bengaluru",
-    "desc": "Bengaluru witnessed a rare and startling weather moment on Wednesday when a sudden hailstorm turned the Sree Kanteerava Stadium almost entirely white. For a brief period, the football ground looked nothing like a typical April...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/kanteerava-stadium-turns-white-after-heavy-hailstorm-in-bengaluru-watch-2026-04-29-1039369",
-    "time": "2026-04-29T17:19:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI confirms India's squad announcement date for Women's T20 World Cup 2026",
-    "desc": "The Board of Control for Cricket in India (BCCI) has confirmed that India's squad for the Women's T20 World Cup will be announced on Saturday, May 2. The Indian Board confirmed the development through a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-confirms-indias-squad-announcement-date-for-womens-t20-world-cup-2026-2026-04-29-1039368",
-    "time": "2026-04-29T17:00:22.000Z"
   }
 ];
