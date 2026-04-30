@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli's animated reaction goes viral after Rajat Patidar's dismissal invites controversy vs GT",
+    "desc": "Rajat Patidar’s dismissal against Gujarat Titans in Ahmedabad sparked a strong reaction from star batter Virat Kohli. Notably, the RCB captain attempted to pull Arshad Khan, but a top edge took it towards deep backward...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-s-animated-reaction-goes-viral-after-rajat-patidar-s-dismissal-invites-controversy-vs-gt-watch-2026-04-30-1039498",
+    "time": "2026-04-30T15:45:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jonty Rhodes promises to build cricket ecosystem in Rotterdam to groom European cricketers",
+    "desc": "Jonty Rhodes, Faf du Plessis and Heinrich Klaasen acquired the Rotterdam franchise of the European T20 Premier League. The season is scheduled to begin on August 26, with Glasgow, Amsterdam, Edinburgh, Dublin and Belfast being...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jonty-rhodes-promises-to-build-cricket-ecosystem-in-rotterdam-to-groom-european-cricketers-2026-04-30-1039496",
+    "time": "2026-04-30T15:14:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MCC justifies Angkrish Raghuvanshi's controversial 'obstruction of field' dismissal against LSG in IPL 2026",
+    "desc": "Angrish Raghuvanshi’s dismissal against Lucknow Super Giants drew much controversy in the ongoing IPL 2026. Notably, the Kolkata Knight Riders batter attempted for a run, but was asked to go back midway. While returning, he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mcc-justifies-angkrish-raghuvanshi-s-controversial-obstruction-of-field-dismissal-against-lsg-in-ipl-2026-2026-04-30-1039491",
+    "time": "2026-04-30T14:28:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "SLC forms nine-member Transformation committee, Kumar Sangakkara part of it",
     "desc": "Sri Lanka’s cricket administration has been reshaped after the government removed the existing leadership and installed a nine-member Transformation Committee to take charge. The group brings together a mix of cricketing experience and expertise from...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-achieve-special-feat-13-years-after-making-ipl-debut-with-win-over-mumbai-indians-2026-04-30-1039400",
     "time": "2026-04-30T03:35:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We don't have much option': Hardik Pandya reacts after Mumbai Indians fail to defend 243 runs vs SRH",
-    "desc": "Mumbai Indians suffered their sixth defeat of the ongoing Indian Premier League (IPL) season on Wednesday as they went down to Sunrisers Hyderabad at the Wankhede Stadium in Mumbai. SRH aced the highest ever T20...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/we-don-t-have-much-option-hardik-pandya-reacts-after-mumbai-indians-fail-to-defend-243-runs-vs-srh-2026-04-30-1039389",
-    "time": "2026-04-30T02:09:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Mumbai Indians qualify for IPL 2026 playoffs after defeat to Sunrisers Hyderabad?",
-    "desc": "Mumbai Indians' IPL 2026 campaign continues to be a horrific one as they suffered their sixth loss of the season, going down to Sunrisers Hyderabad by six wickets at Wankhede. Despite having put up 243/5...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-mumbai-indians-qualify-for-ipl-2026-playoffs-after-defeat-to-sunrisers-hyderabad-2026-04-29-1039375",
-    "time": "2026-04-29T18:12:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Heinrich Klaasen, Travis Head school Mumbai bowlers as Sunrisers Hyderabad set record chase at Wankhede",
-    "desc": "Sunrisers Hyderabad stunned Mumbai Indians at the Wankhede Stadium. Batting first, Mumbai opener Ryan Rickelton dictated the proceedings, smacking an unbeaten 123 runs off 55 balls. Courtesy of his blistering show, Mumbai posted 243 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/heinrich-klaasen-travis-head-school-mumbai-bowlers-as-sunrisers-hyderabad-set-record-chase-at-wankhede-2026-04-29-1039373",
-    "time": "2026-04-29T18:06:41.000Z"
   }
 ];

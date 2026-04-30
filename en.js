@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Demi Moore and Rita Wilson reunite",
+    "desc": "Reunited on screen and off, 'Now and Then' stars Demi Moore and Rita Wilson recently met at the 92nd Street Y. Wilson performed tracks from her new solo album, 'Sound of a Woman,' marking her first independent release in three years. The event celebrated their enduring friendship and Wilson's musical journey, drawing significant attention.",
+    "img": "https://static.toiimg.com/photo/msid-130640079,imgsize-102346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/now-and-then-reunion-demi-moore-meets-rita-wilson-talks-about-the-latters-album/articleshow/130639281.cms",
+    "time": "2026-04-30T15:38:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajshri Deshpande flaunts her scars from breast cancer surgery, netizens laud her",
+    "desc": "Actress Rajshri Deshpande has bravely shared her journey of healing after a Grade 1 breast cancer diagnosis and surgery. Months later, she proudly displays her scars as symbols of her resilience and survival, encouraging other women to embrace their own strength and beauty.",
+    "img": "https://static.toiimg.com/photo/msid-130640033,imgsize-45040.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajshri-deshpande-flaunts-her-scars-from-breast-cancer-surgery-netizens-laud-her-spirit-to-every-woman-dimming-her-light-/articleshow/130639848.cms",
+    "time": "2026-04-30T15:37:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Filmmaker tells HC he won’t make ‘defamatory statements’ against Dhar",
+    "desc": "The Revenge has taken a new turn, with filmmaker Santosh Kumar RS informing the Bombay High Court that he will refrain from making any further defamatory statements against director Aditya Dhar. Appearing for Dhar, senior advocate Birendra Saraf pushed for a public apology from Kumar over his previous remarks. However, Kumar’s counsel opposed the plea, stating that his client believes he can substantiate his allegations and therefore would not be issuing an apology at this stage.",
+    "img": "https://static.toiimg.com/photo/msid-130639762,imgsize-35896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/filmmaker-santosh-kumar-rs-tells-bombay-hc-he-wont-make-defamatory-statements-against-aditya-dhar-in-dhurandhar-dispute/articleshow/130639596.cms",
+    "time": "2026-04-30T15:31:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'As a friend, father..'",
+    "desc": "Hema Malini became emotional while speaking about her late husband, legendary actor Dharmendra, highlighting his passion for cinema and his connection with the audience. She expressed how much she misses him and reflected on his immense contribution to the film industry, for which he was posthumously honored with the Padma Vibhushan.",
+    "img": "https://static.toiimg.com/photo/msid-130638751,imgsize-43442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-gets-emotional-as-she-talks-about-dharmendra-as-an-artist-as-a-friend-father-actor-he-was-an-inspiration/articleshow/130638753.cms",
+    "time": "2026-04-30T15:09:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli left fuming as Jason Holder catch controversy rocks RCB camp",
+    "desc": "A spectacular diving catch by Jason Holder to dismiss Rajat Patidar sparked controversy, with Royal Challengers Bengaluru players and coach Andy Flower questioning the umpire's decision. Despite RCB's protests that the ball may have touched the ground, the umpires upheld the dismissal. This crucial wicket shifted momentum in the match, even as the debate over the catch's legitimacy continued.",
+    "img": "https://static.toiimg.com/photo/msid-130638467,imgsize-1101478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-left-fuming-as-jason-holder-catch-controversy-rocks-rcb-camp/articleshow/130637719.cms",
+    "time": "2026-04-30T15:04:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar trapped in a vicious cycle of unchecked bureaucracy, corruption: Tejashwi Yadav",
+    "desc": "Raising questions over the delay in the expansion of the Bihar Cabinet, the RJD leader pointed out that it has been over a fortnight, but only three individuals are running the government and taking arbitrary decisions",
+    "img": "https://th-i.thgim.com/public/incoming/iqqcvb/article70925127.ece/alternates/LANDSCAPE_1200/20260424135L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-trapped-in-a-vicious-cycle-of-unchecked-bureaucracy-corruption-tejashwi-yadav/article70924790.ece",
+    "time": "2026-04-30T15:00:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Former Air Chief says Greater Nicobar project important for ‘military footprint’",
+    "desc": "In pushback against Rahul Gandhi’s opposition to the project, retired Air Chief Marshal says ecological concerns will be mitigated; notes that proposed port is 150 km from Malacca Strait, the route for 75% of China’s energy trade",
+    "img": "https://th-i.thgim.com/public/incoming/osy0ie/article70925525.ece/alternates/LANDSCAPE_1200/07_Air_Chief_04_10_Del.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/former-air-chief-says-greater-nicobar-project-important-for-military-footprint/article70924802.ece",
+    "time": "2026-04-30T14:48:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "4, 4, 4, 4, 4! Virat Kohli joins elite RCB club after tearing apart Rabada",
+    "desc": "Virat Kohli achieved a special milestone in IPL 2026, smashing five consecutive fours off Kagiso Rabada in a single over. This rare feat places him alongside Chris Gayle and Shane Watson in Royal Challengers Bengaluru history. Despite Rabada striking back later, Kohli's explosive start set a strong tone for RCB.",
+    "img": "https://static.toiimg.com/photo/msid-130637383,imgsize-44960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-4-4-4-4-4-virat-kohli-joins-elite-rcb-club-after-tearing-apart-rabada-watch/articleshow/130637313.cms",
+    "time": "2026-04-30T14:40:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "cruise capsizes in Jabalpur, 4 killed, rescue ops on",
+    "desc": "Tragedy struck in Jabalpur, Madhya Pradesh, as a cruise boat capsized in Bargi Dam, resulting in four fatalities. Officials confirmed that while 15 individuals have been rescued, search operations continue for 12 still missing. Rescue teams are actively working to locate all passengers following the devastating incident.",
+    "img": "https://static.toiimg.com/photo/msid-130636643,imgsize-912285.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mp-boat-mishap-cruise-capsizes-in-jabalpur-4-killed-rescue-ops-on/articleshow/130636458.cms",
+    "time": "2026-04-30T14:19:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Proposed increase in EPF wage ceiling from Rs 15,000 to Rs 25,000",
+    "desc": "A large section of today’s workforce earns more than ₹15,000 but remains outside compulsory social security coverage. Raising the EPF wage ceiling seeks to bridge this gap by aligning statutory coverage with present day wage realities.",
+    "img": "https://static.toiimg.com/photo/msid-130631424,imgsize-55092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/proposed-increase-in-epf-wage-ceiling-from-rs-15000-to-rs-25000-what-does-it-mean-for-employees/articleshow/130631365.cms",
+    "time": "2026-04-30T14:16:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Shah Rukh Khan's ego, my self-respect': Abhijeet on their fall-out",
+    "desc": "Playback singer Abhijeet Bhattacharya revisited his fallout with Shah Rukh Khan, citing the actor's ego and his own self-respect as the core reasons. He expressed hurt over the lack of an apology, feeling sidelined and denied credit, particularly after feeling his voice was used without proper acknowledgment.",
+    "img": "https://static.toiimg.com/photo/msid-130636121,imgsize-51802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-ego-my-self-respect-singer-abhijeet-bhattacharya-on-fall-out-with-the-actor-aamir-khan-even-named-a-dog-after-him/articleshow/130636108.cms",
+    "time": "2026-04-30T14:02:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No Prasidh Krishna again as GT opt to bowl against RCB",
+    "desc": "Gujarat Titans won the toss and elected to bowl first against Royal Challengers Bengaluru in a crucial IPL 2026 encounter. Both teams opted for unchanged playing XIs, with GT skipper Shubman Gill emphasising the importance of their home fixtures. RCB captain Rajat Patidar expressed confidence in his team's batting prowess despite being put in to bat.",
+    "img": "https://static.toiimg.com/photo/msid-130636027,imgsize-56084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-gt-vs-rcb-no-prasidh-krishna-again-as-gujarat-titans-opt-to-bowl-against-royal-challengers-bengaluru/articleshow/130636025.cms",
+    "time": "2026-04-30T13:56:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman to begin shooting for Raj and DK’s film from Oct 2026",
+    "desc": "Salman Khan is set to begin Raj and DK’s superhero film in October 2026, with pre-production underway. The big-budget project targets a global audience, with casting still in progress. Meanwhile, he is shooting an untitled Vamshi Paidipally film, co-starring Nayanthara, slated for Eid 2027.",
+    "img": "https://static.toiimg.com/photo/msid-130635164,imgsize-49792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-to-begin-shooting-for-raj-and-dks-superhero-film-from-october-2026-report/articleshow/130635164.cms",
+    "time": "2026-04-30T13:43:26.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Rohit, Kohli’s ‘flow does get disrupted’ as one-format players: Dhawan",
     "desc": "Shikhar Dhawan believes Rohit Sharma and Virat Kohli will adapt to reduced ODI frequency ahead of the 2027 World Cup due to their experience and professionalism. He noted that while less match exposure can disrupt rhythm, these seasoned players know how to manage it. Dhawan also highlighted that upcoming scheduling will provide sufficient ODI games for them to find form.",
@@ -34,15 +151,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/supreme-court-defers-hearing-on-pil-alleging-banking-fraud-by-anil-ambani-led-adag-to-may-8/article70924160.ece",
     "time": "2026-04-30T13:06:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CISCE declares ICSE, ISC 2026 results: Over 99% pass rate out of 3.6 lakh students who appeared in exams",
-    "desc": "Girls outperformed boys in both Class X and XII exams; candidates can access their results through the official CISCE websites and the DigiLocker platform, while schools may download detailed tabulation registers via the CISCE CAREERS Portal",
-    "img": "https://th-i.thgim.com/public/incoming/p1byrm/article70924356.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000106B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/schools/icse-isc-results-girls-outperform-boys-pass-rate-over-99/article70924372.ece",
-    "time": "2026-04-30T12:57:28.000Z"
   },
   {
     "cat": "Business",
@@ -216,24 +324,6 @@ const newsData_en = [
     "time": "2026-04-30T11:26:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Airfare hike of ₹10,000 for Haj pilgrims draws criticism",
-    "desc": "A circular issued on April 28 has directed all Haj pilgrims to make an additional payment of ₹10,000 by May 15, regardless of their point of departure; Minister defends move owing to geopolitical situation in West Asia",
-    "img": "https://th-i.thgim.com/public/incoming/grtq25/article70924438.ece/alternates/LANDSCAPE_1200/2025-06-05T041647Z_1614721436_RC23WEA5APU9_RTRMADP_3_SAUDI-HAJJ-ARAFAT-ARRIVALS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/airfare-hike-of-10000-for-haj-pilgrims-draws-criticism/article70923926.ece",
-    "time": "2026-04-30T11:26:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhanush wanted Drishyam rights says it deserves much more praise",
-    "desc": "In an inspiring moment while in Kochi, Dhanush articulated his fervent hope to obtain the rights for the celebrated Malayalam film 'Drishyam,' commending its gripping narrative and Mohanlal’s extraordinary portrayal. Sharing insights into his expanding fascination with Malayalam cinema, he highlighted the charm of Kerala’s vibrant culture, stunning vistas, and flavorful dishes.",
-    "img": "https://static.toiimg.com/photo/msid-130631766,imgsize-92174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dhanush-once-revealed-he-wanted-to-buy-drishyam-rights-feels-it-deserves-much-more-accolades-and-recognition/articleshow/130631766.cms",
-    "time": "2026-04-30T11:18:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘That’s not good enough’: Aakash Chopra fires warning to star RCB player",
     "desc": "Aakash Chopra expresses concern over Jacob Bethell's quiet start for RCB, noting his inability to convert starts despite opportunities. He also questions Romario Shepherd's unclear role and effectiveness. For Gujarat Titans, Chopra highlights their top-order dependency and struggles to score in the death overs, posing significant challenges for the upcoming match.",
@@ -259,51 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/palash-muchhal-takes-a-spiritual-break-amid-a-busy-schedule-visits-saptashrungi-temple-and-seeks-divine-blessings/articleshow/130630648.cms",
     "time": "2026-04-30T10:39:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brooks Nader on filming for ‘Baywatch’ reboot",
-    "desc": "Brooks Nader, set to star in the new 'Baywatch' reboot, shared her excitement about embodying the iconic lifeguard role. She humorously confessed to only running in slow-motion now, embracing the show's famous signature move. Nader, a lifelong fan, feels born for the part, joining a cast that includes both new faces and returning original stars.",
-    "img": "https://static.toiimg.com/photo/msid-130630722,imgsize-83712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/thats-my-new-personality-brooks-nader-reveals-how-shes-embracing-the-iconic-baywatch-slo-mo-run-for-reboot/articleshow/130630635.cms",
-    "time": "2026-04-30T10:31:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aamir Khan on not releasing happy ending of QSQT, Mansoor reacts",
-    "desc": "Mansoor Khan's directorial debut, 'Qayamat Se Qayamat Tak', nearly featured a happy ending as suggested by producer Nasir Hussain. However, the cast and crew, including Aamir Khan and Juhi Chawla, felt a tragic climax was more fitting.",
-    "img": "https://static.toiimg.com/photo/msid-130630428,imgsize-42972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-opens-up-on-not-having-a-happy-ending-for-qsqt-mansoor-khan-reveals-actors-were-laughing-didnt-take-it-seriously/articleshow/130630189.cms",
-    "time": "2026-04-30T10:20:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jackie Falk passes away at the age of 60",
-    "desc": "Tragic news has emerged in the entertainment community with the untimely death of Jackie Falk at the age of 60. The daughter of beloved actor Peter Falk was found in her Los Angeles residence, and authorities have classified her passing as a suicide, as confirmed by the local medical examiner.",
-    "img": "https://static.toiimg.com/photo/msid-130630020,imgsize-90866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/peter-falks-daughter-jackie-falk-passes-away-at-60/articleshow/130629935.cms",
-    "time": "2026-04-30T10:04:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ian Somerhalder on 8-figure debt: ‘We sold houses, cars, everything’",
-    "desc": "Former 'Vampire Diaries' star Ian Somerhalder revealed a staggering eight-figure debt incurred after a business venture failed due to fraud and personal guarantees. He and wife Nikki Reed sold significant assets to overcome the financial crisis. Now focused on entrepreneurship, Somerhalder co-founded Brother's Bond Bourbon and the Absorption Company, embracing a new chapter away from Hollywood.",
-    "img": "https://static.toiimg.com/photo/msid-130629771,imgsize-640365.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ian-somerhalder-says-failed-business-left-him-and-nikki-reed-in-8-figure-debt-ian-says-we-sold-houses-paintings-cars-watches-everything/articleshow/130629771.cms",
-    "time": "2026-04-30T09:59:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "David Allan Coe passes away at 86",
-    "desc": "The world of country music mourns the loss of David Allan Coe, an irrepressible icon whose unforgettable song 'You Never Even Called Me by My Name' has resonated with fans for decades. Coe, who pushed boundaries in the 'outlaw country' movement, passed away at 86 following a life marked by both controversy and creativity.",
-    "img": "https://static.toiimg.com/photo/msid-130629919,imgsize-75704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/country-music-icon-david-allan-coe-passes-away-at-the-age-of-86/articleshow/130629874.cms",
-    "time": "2026-04-30T09:59:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -523,24 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "From bench to finishing line, Shubham Dubey makes the wait worthwhile",
-    "desc": "Shubham Dubey, a 31-year-old cricketer, seized his long-awaited opportunity with a match-winning unbeaten 31 off 12 balls. His explosive innings, coupled with Donovan Ferreira's support, secured a stunning six-wicket victory for Rajasthan Royals against Punjab Kings. Dubey's journey from humble beginnings to IPL success highlights his remarkable resilience and power-hitting prowess.",
-    "img": "https://static.toiimg.com/photo/msid-130622459,imgsize-48948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-from-bench-to-finishing-line-shubham-dubey-makes-the-wait-worthwhile/articleshow/130622371.cms",
-    "time": "2026-04-30T03:45:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Brent tops $120, hits highest level since 2022 as Trump doubles down on Hormuz blockade",
-    "desc": "Global oil prices have soared past $120, reaching their highest point since 2022. This surge is driven by fears of prolonged supply disruptions stemming from a US blockade of Iran and its impact on the vital Strait of Hormuz. Adding to market jitters, the UAE's exit from OPEC introduces further uncertainty regarding global energy supply management.",
-    "img": "https://static.toiimg.com/photo/msid-130622175,imgsize-47210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-tops-120-as-trump-doubles-down-on-hormuz-blockade/articleshow/130621848.cms",
-    "time": "2026-04-30T03:37:48.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Impact sub without impact as Mumbai Indians’ call raises questions",
     "desc": "The Mumbai Indians left fans scratching their heads by employing Shardul Thakur as an Impact Sub while he never got the chance to bowl a single ball. This curious tactic came after a dismal display against Sunrisers Hyderabad, where Thakur's experience could have potentially turned the tides. On a day when every MI bowler went at an economy of over 10, it was baffling to see the bowler with over 100 IPL wickets not getting a bowl.",
     "img": "https://static.toiimg.com/photo/msid-130622190,imgsize-285280.cms",
@@ -558,15 +585,6 @@ const newsData_en = [
     "time": "2026-04-30T03:04:50.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stock recommendations for April 30, 2026",
-    "desc": "Lodha Developers, Premier Energies, and HDFC Asset Management Company have been picked by Aakash K Hindocha, Deputy Vice President - WM Research, Nuvama Professional Clients Group as the top stocks to buy on April 30, 2026. He shares his target levels and also outlook for indices Nifty and Bank Nifty.",
-    "img": "https://static.toiimg.com/photo/msid-130621491,imgsize-61270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-april-30-2026-lodha-developers-premier-energies-hdfc-asset-management-company-best-stocks-to-buy-today/articleshow/130621474.cms",
-    "time": "2026-04-30T02:43:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 MI vs SRH",
     "desc": "The result left MI — with its sixth loss in eight games — on the brink of being the first team to be ousted from the playoff race, while SRH continued its surge with its fifth consecutive win",
@@ -574,24 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-mi-vs-srh-travishek-klaasen-run-riot-as-srh-bags-fifth-successive-win/article70922063.ece",
     "time": "2026-04-30T02:13:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No defined sanction under IPL code, BCCI may seek legal view",
-    "desc": "In a surprising turn of events, Rajasthan Royals have hit another snag as their captain Riyan Parag was caught on camera indulging in vaping within the confines of the dressing room during a recent IPL fixture. BCCI officials are understood to be examining the footage. Insiders say the matter is likely to be dealt with under the IPL code of conduct. “There is no defined punishment in the IPL code of conduct. The BCCI will be seeking legal opinion,” a source said.",
-    "img": "https://static.toiimg.com/photo/msid-130620761,imgsize-33452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-riyan-parag-vaping-row-no-defined-sanction-under-ipl-code-bcci-may-seek-legal-view/articleshow/130620761.cms",
-    "time": "2026-04-30T01:20:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi’s RR future in doubt? Stuart Broad believes 'he can go into auction'",
-    "desc": "Stuart Broad lauded Rajasthan Royals for their foresight in signing Vaibhav Sooryavanshi, a teenage prodigy who has set IPL 2026 ablaze. Initially questioned, the move has paid dividends as Sooryavanshi leads the run charts with explosive batting. Broad believes the young star's value will skyrocket if he enters the auction, highlighting the Royals' astute scouting.",
-    "img": "https://static.toiimg.com/photo/msid-130611231,imgsize-76768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/sooryavanshis-rr-future-in-doubt-stuart-broad-believes-he-can-go-into-auction/articleshow/130611241.cms",
-    "time": "2026-04-29T23:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -756,15 +756,6 @@ const newsData_en = [
     "time": "2026-04-29T03:52:57.000Z"
   },
   {
-    "cat": "World",
-    "title": "‘Just peace’ can’t be found by joining organisations that charge fees: UNGA President defends UN system",
-    "desc": "Ms. Baerbock cautioned against ‘unilateral use of force’ while arguing that member states of the UN can mobilise themselves for an institutional action against a state that is accused of genocide by bringing the matter to the UN Security Council",
-    "img": "https://th-i.thgim.com/public/incoming/lv935k/article70918038.ece/alternates/LANDSCAPE_1200/18_Annalena_Baerbock_28_04_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/just-peace-cant-be-found-by-joining-organisations-that-charge-fees-unga-president-defends-un-system/article70917765.ece",
-    "time": "2026-04-28T18:52:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "J&K govt. blacklists Reliance General Insurance Company Limited for 2 years",
     "desc": "According to the government, the insurance company failed to issue health insurance cards, provide the list of empanelled hospital, web-based application platform and also failed to finalize performance parameters and penalty framework forming part of the contractual obligations",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
