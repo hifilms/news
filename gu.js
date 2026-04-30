@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ક્રિકેટ ફેન્સ ખાસ વાંચે! નરેન્દ્ર મોદી સ્ટેડિયમમાં મેચ જોવા જતા પહેલા પોલીસની આ માર્ગદર્શિકા જાણી લો",
+    "desc": "નરેન્દ્ર મોદી સ્ટેડિયમમાં IPL મેચ માટે પોલીસની માર્ગદર્શિકા જાહેર કરાઈ છે. અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમ ખાતે ગુજરાત ટાઇટન્સ (GT) અને રોયલ ચેલેન્જર્સ બેંગલુરુ (RCB) વચ્ચે મેચ યોજાવા જઈ રહી છે. દર્શકોએ પોતાના વાહનો પોલીસ દ્વારા નિર્ધારિત કરવામાં આવેલી પાર્કિંગની જગ્યાએ જ પાર્ક કરવાના રહેશે. સ્ટેડિયમમાં પ્રવેશતી વખતે ટિકિટ સાથે રાખવી અને પોલીસની સુરક્ષા વ્યવસ્થામાં સંપૂર્ણ સહકાર આપવો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-match-at-narendra-modi-stadium-ahmedabad-police-issues-special-guidelines-for-spectators-475611 ",
+    "time": "2026-04-30T05:26:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "₹5.80 લાખમાં નવી 7-સીટર લોન્ચ, 6 એરબેગ, 8 ઇંચ ટચસ્ક્રીન સહિત મળશે આ ફીચર્સ",
+    "desc": "હવે કંપનીએ આ 7-સીટર MPV ઘણા નવા ફીચર્સની સાથે ઓટોમેટિક એર કંડીશનર પણ જોડવામાં આવ્યું છે. તેને કુલ 4 વેરિએન્ટ અને 5 ટ્રિમમાં ખરીદી શકશો. તેમાં 4 મેનુઅલ અને એક ઓટોમેટિક સામેલ છે. આ પ્રાઇસ સેગમેન્ટની સાથે તે દેશની સૌથી સસ્તી 7-સીટર MPV પણ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/renault-triber-7-seater-lunch-price-5-80-lakh-know-engine-features-475608 ",
+    "time": "2026-04-30T05:02:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર્દિક પંડ્યાએ મુંબઈ ઇન્ડિયન્સની હાર માટે કોને ગણાવ્યો જવાબદાર ? આ હતા હારના મોટા કારણો",
+    "desc": "આ સિઝનમાં મુંબઈ ઈન્ડિયન્સનું સતત ખરાબ પ્રદર્શન યથાવત છે. સનરાઈઝર્સ સામેની મેચમાં ટીમને છ વિકેટથી કારમી હારનો સામનો કરવો પડ્યો હતો. હાર બાદ કેપ્ટન હાર્દિક પંડ્યાએ સ્વીકાર્યું કે મુંબઈ ઈન્ડિયન્સ આ સિઝનમાં તેમની પ્રતિષ્ઠા મુજબ પ્રદર્શન કરવામાં નિષ્ફળ રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-statement-after-mumbai-indians-defeat-from-sunrisers-hyderabad-475607 ",
+    "time": "2026-04-30T05:02:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એક્ઝિટ પોલના તારણોમાં બંગાળમાં ભાજપની આંધી, મમતા બેનર્જીના આ 2 મહારાથીઓ પતન માટે જવાબદાર?",
+    "desc": "પશ્ચિમ બંગાળ સહિત પાંચ રાજ્યોના વિધાનસભા ચૂંટણીના મતદાન પૂરું થતા એક્ઝિટ પોલના તારણો બહાર પડ્યા જેમાં સૌથી ચોંકાવનારા પશ્ચિમ બંગાળના છે જ્યાં ભાજપ સત્તામાં આવે તેવા તારણો આવી રહ્યા છે. પ્રશ્ન એ થાય કે મમતા બેનર્જીને સત્તામાંથી બેદખલ થાય તેવા સંજોગો ઉભા કરવા પાછળ કોણ જવાબદાર?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/exit-poll-findings-show-bjp-storm-in-bengal-who-will-be-responsible-for-tmc-downfall-475581 ",
+    "time": "2026-04-30T04:47:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "સાઉદી-UAEએ હોર્મુઝનો તોડ કોઢી લીધો! હવે આ રીતે ભારત સુધી પહોંચે છે ક્રૂડ ઓઈલ",
+    "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થતા ભારત માટે ઓઈલ અને ગેસના પુરવઠાને ખાડી દેશોમાંથી લાવવો મુશ્કેલ બન્યો. જો કે સાઉદી અરબ અને યુએઈએ તેના માટે તોડ કાઢ્યો અને હવે બંને દેશોનો ક્રૂડ ઓઈલ પુરવઠો સરળતાથી ભારત આવી રહ્યો છે. જાણો કઈ રીતે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/saudi-arabia-uae-now-find-a-new-route-to-deliver-crude-oil-to-india-news-in-gujarati-475476 ",
+    "time": "2026-04-30T04:33:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPGના ભાવથી લઈને ક્રેડિટ કાર્ડ સુધી... 1 મેથી દેશમાં 5 મોટા ફેરફાર, દરેક ઘર અને ખિસ્સા પર પડશે અસર !",
+    "desc": "એપ્રિલ મહિનો પૂરો થવા જઈ રહ્યો છે અને મે મહિનો દેશભરમાં ઘણા મોટા નાણાકીય ફેરફારો સાથે શરૂ થવાનો છે. આ ફેરફારો LPG સિલિન્ડરના ભાવમાં ફેરફારથી લઈને LPG ડિલિવરી સિસ્ટમમાં ફેરફાર સુધીનો હોઈ શકે છે. વધુમાં સ્ટેટ બેંક ઓફ ઈન્ડિયા (SBI)ના ક્રેડિટ કાર્ડ યુઝર્સ માટે પણ ફેરફારો થવાની શક્યતા છે. આવા પાંચ મોટા ફેરફારો પર એક નજર કરીએ જે 1 મેથી અમલમાં આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-prices-to-credit-cards-5-major-changes-from-1st-may-2026-475591 ",
+    "time": "2026-04-30T03:31:28.000Z"
+  },
+  {
     "cat": "World",
     "title": "વીઝા નિયમોનું ટેન્શન ખતમ! યુરોપના આ 5 દેશો આપી રહ્યા છે અભ્યાસ પછી રહેવાની અને નોકરી શોધવાની છૂટ; જાણો",
     "desc": "અમેરિકા અને કેનેડાના કડક નિયમો વચ્ચે જર્મની, નેધરલેન્ડ અને સ્વીડન જેવા યુરોપિયન દેશો ભારતીય વિદ્યાર્થીઓ માટે બેસ્ટ ઓપ્શન તરીકે ઉભરી આવ્યા છે. આ દેશો અભ્યાસ પૂર્ણ થયા પછી વિદ્યાર્થીઓને 18 મહિના સુધીનો જોબ સીકર વીઝા આપે છે, જેનાથી ત્યાં કરિયર બનાવવું ઘણું સરળ બની ગયું છે.",
@@ -79,15 +133,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/a-bumper-offer-of-up-to-%E2%82%B93-50-lakh-is-available-on-tata-cars-475486 ",
     "time": "2026-04-29T09:27:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "સાઉદી-UAEએ હોર્મુઝનો તોડ કોઢી લીધો! હવે આ રીતે ભારત સુધી પહોંચે છે ક્રૂડ ઓઈલ",
-    "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થતા ભારત માટે ઓઈલ અને ગેસના પુરવઠાને ખાડી દેશોમાંથી લાવવો મુશ્કેલ બન્યો. જો કે સાઉદી અરબ અને યુએઈએ તેના માટે તોડ કાઢ્યો અને હવે બંને દેશોનો ક્રૂડ ઓઈલ પુરવઠો સરળતાથી ભારત આવી રહ્યો છે. જાણો કઈ રીતે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/saudi-arabia-uae-now-find-a-new-route-to-deliver-crude-oil-to-india-news-in-gujarati%C2%A0-475476 ",
-    "time": "2026-04-29T09:07:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -261,15 +306,6 @@ const newsData_gu = [
     "time": "2026-04-28T02:51:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ખુલ્લેઆમ હસ્તમૈથુન કરતો જોવા મળ્યો યુવક, મહિલાના કેમેરામાં થયો કેદ, જુઓ Video",
-    "desc": "એક હેરાન કરનારી ઘટના સામે આવી છે. આઉટર રિંગ રોડ પર સાયકલિંગ ટ્રેક પર એક યુવક ખુલ્લેઆમ હસ્તમૈથુન કરતો જોવા મળ્યો હતો. એક મહિલાએ આ ઘટનાનો વીડિયો શેર કરીને કહ્યું કે તે ઘણા લોકો હાજર હતા ત્યારે આવું કરી રહ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/young-man-seen-masturbating-openly-caught-on-woman-camera-watch-video-475158 ",
-    "time": "2026-04-27T16:50:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ઈરાન યુદ્ધ વચ્ચે ભારતને હાથ લાગ્યો &amp;#039;જેકપોર્ટ&amp;#039;, ભારતીય કંપનીઓને મળ્યો તેલ-ગેસનો ભંડાર; નવી શોધથી જનતાને મળશે રાહત",
     "desc": "ઈન્ડિયન ઓઈલ કોર્પોરેશન લિમિટેડ (IOCL)એ લીબિયામાં તેના વિદેશી એક્સપ્લોરેશન પોર્ટફોલિયોમાં ઓઈલ અને ગેસની નવી શોધની જાહેરાત કરી છે. ઓઈલ કંપનીએ જણાવ્યું કે, લીબિયાની નેશનલ ઓઈલ કોર્પોરેશને ઓઈલ અને ગેસના આ કૂવાને બ્લોકની 5મી શોધ તરીકે ઔપચારિક માન્યતા પણ આપી દીધી છે.",
@@ -313,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/thalapathy-vijay-jana-nayagan-film-release-date-latest-update-475116 ",
     "time": "2026-04-27T12:49:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પેટ્રોલ પંપ પર મફતમાં મળે છે આ 7 સુવિધાઓ, પૈસા માંગે તો તાત્કાલિક આ નંબર પર કરો ફરિયાદ",
-    "desc": "શું તમે જાણો છો કે જે પેટ્રોલ પંપ પર તમે તમારા વાહનમાં ફ્યુઅલ ભરાવા જાઓ છો તો આ 7 સેવાઓ સંપૂર્ણપણે મફત મળે છે ? હવા અને પાણીથી લઈને ઈમરજન્સી કોલ સુધી આ તમારા કાનૂની અધિકારો છે. જો કોઈ તેમને આપવાનો ઇનકાર કરે છે, તો તમે ફરિયાદ નોંધાવી શકો છો. પેટ્રોલ પંપનું લાઇસન્સ પણ રદ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/these-7-facilities-are-available-for-free-at-petrol-pumps-check-full-details-475114 ",
-    "time": "2026-04-27T12:34:36.000Z"
   },
   {
     "cat": "Sports",
@@ -466,24 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-was-this-white-light-suddenly-switched-on-during-trump-dinner-party-right-when-he-was-being-attacked-474873 ",
     "time": "2026-04-26T05:01:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કેએલ રાહુલ બન્યો નંબર-1: પંજાબ કિંગ્સ વિરુદ્ધ તોફાની સદી ફટકારી તોડ્યો IPLનો સૌથી મોટો રેકોર્ડ",
-    "desc": "પંજાબ કિંગ્સ સામેની મેચમાં, કેએલ રાહુલે પોતાના બેટથી ધમાકેદાર સદી ફટકારીને ઇતિહાસ રચ્યો. દિલ્હીની ભીષણ ગરમીમાં, રાહુલની શાનદાર બેટિંગે તાપમાનને વધુ વધાર્યું. પંજાબના બોલરોને બરબાદ કરીને, સ્ટાર બેટ્સમેને ફક્ત 47 બોલમાં તેની આઈપીએલ કારકિર્દીની સૌથી ઝડપી સદી ફટકારી. આ સાથે, તેણે વીરેન્દ્ર સેહવાગ, ડેવિડ વોર્નર અને ક્વિન્ટન ડી કોક જેવા દિગ્ગજ બેટ્સમેનોના રેકોર્ડ તોડી નાખ્યા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/kl-rahul-claims-no-1-spot-goes-on-a-rampage-against-punjab-kings-shattering-the-biggest-ipl-record-474810 ",
-    "time": "2026-04-25T13:04:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "6, 4, 4, 4, 4, 6... દરેક બોલ પર બાઉન્ડ્રી અને ઓવરમાં 28 રન, ભૂખ્યા સિંહની જેમ બોલર પર તૂટી પડ્યો આ બેટ્સમેન",
-    "desc": "IPL 2026 માં વીકેન્ડ પર રોમાંચનો તડકો લાગવાનું શરૂ થઈ ગયું છે. શનિવારે પંજાબ કિંગ્સ સામે દિલ્હીએ ટોસ જીતીને પ્રથમ બેટિંગ પસંદ કરી હતી. કેએલ રાહુલ અને નીતીશ રાણાએ આક્રમક અંદાજમાં બેટિંગ કરી. મેચમાં એક એવી ઓવર પણ જોવા મળી જેમાં દરેક બોલ પર બાઉન્ડ્રી વાગી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/a-boundary-off-every-ball-and-a-28-run-over-this-batsman-pounced-on-the-bowler-like-a-hungry-lion-474808 ",
-    "time": "2026-04-25T12:44:45.000Z"
   },
   {
     "cat": "Entertainment",

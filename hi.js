@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'We are still very much in tournament': MI coach Kieron Pollard hopeful of turnaround in IPL 2026",
+    "desc": "Mumbai Indians batting coach Kieron Pollard is still hopeful that the five-time champions will make a comeback in the ongoing edition of the Indian Premier League (IPL). MI failed to defend 243 runs on Wednesday...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-are-still-very-much-in-tournament-mi-coach-kieron-pollard-hopeful-of-turnaround-in-ipl-2026-2026-04-30-1039419",
+    "time": "2026-04-30T05:04:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunrisers Hyderabad achieve special feat 13 years after making IPL debut with win over Mumbai Indians",
+    "desc": "Sunrisers Hyderabad continued their merry run in the ongoing edition of the Indian Premier League (IPL) on Wednesday as they defeated five-time champions Mumbai Indians at the Wankhede Stadium. SRH chased down a mammoth target...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-achieve-special-feat-13-years-after-making-ipl-debut-with-win-over-mumbai-indians-2026-04-30-1039400",
+    "time": "2026-04-30T03:35:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'We don't have much option': Hardik Pandya reacts after Mumbai Indians fail to defend 243 runs vs SRH",
     "desc": "Mumbai Indians suffered their sixth defeat of the ongoing Indian Premier League (IPL) season on Wednesday as they went down to Sunrisers Hyderabad at the Wankhede Stadium in Mumbai. SRH aced the highest ever T20...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ryan-rickelton-smacks-fastest-century-for-mumbai-indians-in-ipl-history-vs-srh-check-full-list-2026-04-29-1039364",
     "time": "2026-04-29T15:34:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India lose final group outing in Thomas Cup to China; Ayush, Prannoy close defeat margin to 2-3",
-    "desc": "India lost their last group stage outing in the Thomas Cup to China despite fighting wins from Ayush Shetty and HS Prannoy in Horsens on Wednesday, April 29. India and China had already qualified for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-lose-final-group-outing-in-thomas-cup-to-china-ayush-prannoy-close-defeat-margin-2026-04-29-1039361",
-    "time": "2026-04-29T15:15:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Mumbai Indians players wearing black armbands in clash against SRH in IPL 2026?",
-    "desc": "Mumbai Indians players were spotted wearing black armbands in their IPL 2026 clash against Sunrisers Hyderabad at the Wankhede Stadium. The gesture comes in response to a personal tragedy within the franchise’s extended family, after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-mumbai-indians-players-wearing-black-armbands-in-clash-against-srh-in-ipl-2026-2026-04-29-1039359",
-    "time": "2026-04-29T15:03:38.000Z"
   }
 ];
