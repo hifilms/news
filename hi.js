@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Riyan Parag cops massive fine for 'smoking act' in dressing room during match vs Punjab Kings",
+    "desc": "The Board of Control for Cricket in India (BCCI) has fined Rajasthan Royals captain Riyan Parag for his 'smoking act' in the dressing room during the match against Punjab Kings earlier this week. For the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-cops-massive-fine-for-smoking-act-in-dressing-room-during-match-vs-punjab-kings-2026-04-30-1039445",
+    "time": "2026-04-30T08:34:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'We are still very much in tournament': MI coach Kieron Pollard hopeful of turnaround in IPL 2026",
     "desc": "Mumbai Indians batting coach Kieron Pollard is still hopeful that the five-time champions will make a comeback in the ongoing edition of the Indian Premier League (IPL). MI failed to defend 243 runs on Wednesday...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-confirms-indias-squad-announcement-date-for-womens-t20-world-cup-2026-2026-04-29-1039368",
     "time": "2026-04-29T17:00:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ryan Rickelton smacks fastest century for Mumbai Indians in IPL history vs SRH, check full list",
-    "desc": "Ryan Rickelton smacked the fastest century for Mumbai Indians in IPL history. Tilak Varma and Sanath Jayasuriya held the record, having hit a 45-ball century in the 2023 and 2008 seasons, respectively. Rickelton bettered that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ryan-rickelton-smacks-fastest-century-for-mumbai-indians-in-ipl-history-vs-srh-check-full-list-2026-04-29-1039364",
-    "time": "2026-04-29T15:34:01.000Z"
   }
 ];

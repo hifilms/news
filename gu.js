@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "T20માં 99 રન પર આઉટ થનાર પ્રથમ ક્રિકેટર... જાણો કોણ છે આ કમનસીબ ખેલાડી",
+    "desc": "ક્રિકેટના સૌથી ટૂંકા ફોર્મેટ T20માં સદી ફટકારવી એ કોઈપણ બેટ્સમેન માટે યાદગાર સિદ્ધિ છે. જોકે, ઇતિહાસમાં કેટલાક કમનસીબ ખેલાડીઓ જોયા છે જેમનું સદી સુધી પહોંચવાનું સ્વપ્ન ફક્ત એક જ રનથી ચકનાચૂર થઈ ગયું હતું. ત્યારે T20માં 99 રન પર આઉટ થનાર પ્રથમ ક્રિકેટર કોણ હતો, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/alex-hales-is-first-cricketer-to-be-dismissed-for-99-runs-in-t20-475658 ",
+    "time": "2026-04-30T10:39:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPLમાં ચમત્કાર... આ તે કેવો ઈમ્પેક્ટ પ્લેયર, ના બેટિંગ કરી કે ના બોલિંગ, ફક્ત ફિલ્ડિંગ કરવા આવ્યો !",
+    "desc": "બુધવારે મુંબઈ ઇન્ડિયન્સ અને સનરાઇઝર્સ હૈદરાબાદ વચ્ચેની IPL મેચ દરમિયાન કંઈક એવું બન્યું જે પહેલાં ક્યારેય જોવા મળ્યું નહોતું. જેના કારણે પ્રશ્ન એ છે કે શું હાર્દિક પંડ્યાએ ભૂલ કરી હતી, કે તેણે જાણી જોઈને આવું કર્યું ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/unique-ipl-records-impact-player-with-no-batting-and-no-bowling-in-a-match-475653 ",
+    "time": "2026-04-30T10:02:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રિયાન પરાગને ડ્રેસિંગ રૂમમાં આ હરકત કરવી પડી મોંઘી, BCCI ફટકારી સજા, જાણો શું છે સમગ્ર મામલો",
+    "desc": "રાજસ્થાન રોયલ્સના કેપ્ટન રિયાન પરાગને IPL 2026ની એક મેચ દરમિયાન આચારસંહિતાનો ભંગ કરવાનો દોષી ઠેરવવામાં આવ્યો છે. પંજાબ સામે રમાયેલી મેચ દરમિયાન ડ્રેસિંગ રૂમમાં વેપિંગ કરતા કેમેરામાં કેદ થયા બાદ તેની સામે કડક કાર્યવાહી કરવામાં આવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-fines-riyan-parag-for-vaping-in-dressing-room-during-ipl-match-475642 ",
+    "time": "2026-04-30T09:36:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "આગામી T20 વર્લ્ડ કપ માટે ક્યારે થશે ટીમ ઈન્ડિયાની જાહેરાત ? BCCIએ જણાવી તારીખ",
     "desc": "મહિલા T20 વર્લ્ડ કપ 2026 12 જૂનથી શરૂ થવાનો છે. બધી ટીમોએ ટુર્નામેન્ટ માટે તૈયારીઓ શરૂ કરી દીધી છે. ઓપનિંગ મેચ ઇંગ્લેન્ડ અને શ્રીલંકા વચ્ચે રમાશે. આ દરમિયાન BCCIએ આ ટુર્નામેન્ટ માટે ભારતીય ટીમ ક્યારે જાહેર કરવામાં આવશે તે અંગે અપડેટ આપ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -306,15 +333,6 @@ const newsData_gu = [
     "time": "2026-04-28T07:10:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "હવે Aadhaar થી સાબિત નહીં થાય તમારી ઉંમર, ડેટ ઓફ બર્થના પુરાવા તરીકે આપવા પડશે આ દસ્તાવેજ",
-    "desc": "Aadhaar કાર્ડને લઈને મોટું અપડેટ સામે આવ્યું છે. UIDAI એ સ્પષ્ટ કરી દીધું છે કે આધાર હવે જન્મતારીખ (DOB) ને પાક્કો પુરાવો માનવામાં આવશે નહીં. આવો તમને જણાવીએ કેમ આધારથી ઉંમર સાબિત થશે નહીં, તે માટે ક્યા દસ્તાવેજની જરૂર પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/aadhaar-not-valid-as-date-of-birth-proof-uidai-new-guidelines-475234 ",
-    "time": "2026-04-28T05:54:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "1 મેથી બદલાઈ જશે ગેસ સિલિન્ડર બુકિંગના નિયમ, ઇન્ડેન, ભારત અને HP ગેસના ગ્રાહકો ખાસ જાણે",
     "desc": "1 મે 2026થી રસોઈ ગેસના નિયમોમાં મોટો ફેરફાર થવા જઈ રહ્યો છે, જેની સીધી અસર ઇન્ડેન, ભારત ગેસ અને એચપી ગેસના કરોડો ગ્રાહકો પર પડશે. બુકિંગ પહેલા આ નવા નિયમો વિશે ગ્રાહકોએ જાણવું જરૂરી છે.",
@@ -477,15 +495,6 @@ const newsData_gu = [
     "time": "2026-04-26T10:43:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "યુવતીએ ખેંચ્યો અભિષેક શર્માનો હાથ, વીડિયો થયો વાયરલ, ખેલાડીઓની સુરક્ષા પર ઉઠ્યા સવાલ",
-    "desc": "સનરાઇઝર્સ હૈદરાબાદના સ્ટાર ખેલાડી અભિષેક શર્માની સુરક્ષામાં મોટી ચૂક સામે આવી છે. જયપુરમાં ટીમ હોટલમાંથી બહાર નીકળતી વખતે એક યુવતીએ તેનો હાથ પકડીને તેને પોતાની તરફ ખેંચવાનો પ્રયાસ કર્યો હતો, આ ઘટનાનો એક વીડિયો ઝડપથી વાયરલ થઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fan-girl-pulls-abhishek-sharma-hand-team-hotel-video-goes-viral-474917 ",
-    "time": "2026-04-26T08:13:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ક્યારેય સ્કૂલ નથી ગઈ આ બોલીવુડ અભિનેત્રી, મહેનતથી લખી સફળતાની કહાની, આજે છે સફળ એક્ટ્રસ",
     "desc": "કેટરીના કૈફ બોલીવુડની ટોપ અભિનેત્રીઓમાં સામેલ છે, પરંતુ ખુબ ઓછા લોકો જાણે છે કે તે ક્યારેય શાળાએ ગઈ નથી. અલગ-અલગ દેશોમાં રહેવાને કારણે તેણે હોમસ્કૂલિંગ દ્વારા અભ્યાસ કર્યો અને નાની ઉંમરમાં મોડલિંગ શરૂ કર્યું હતું.",
@@ -493,24 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/katrina-kaif-never-went-to-school-took-up-homeschooling-became-a-top-heroine-of-bollywood-a-success-story-474901 ",
     "time": "2026-04-26T07:20:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રાજસ્થાન રોયલ્સ માટે ખરાબ સમાચાર, વૈભવ સૂર્યવંશી ઈજાગ્રસ્ત... આગામી મેચમાં નહીં રમે ? કોચે આપ્યું અપડેટ",
-    "desc": "SRH સામેની મેચ દરમિયાન હેમસ્ટ્રિંગની સમસ્યાને કારણે વૈભવ સૂર્યવંશીને મેદાન છોડવું પડ્યું હતું. રાજસ્થાન રોયલ્સની આગામી મેચ પંજાબ કિંગ્સ સામે છે, ત્યારે આ મેચમાં સૂર્યવંશી રમશે કે નહીં, તે અંગે સવાલ છે, ત્યારે તેની ઈજા અંગે બેટિંગ કોચ વિક્રમ રાઠોડે અપડેટ આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-sooryavanshi-injury-update-rr-vs-srh-batting-coach-vikram-rathore-statement-474890 ",
-    "time": "2026-04-26T06:07:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL મેચમાં મોટી દુર્ઘટના... મેદાન પર બોલાવવી પડી એમ્બ્યુલન્સ, એન્ગિડીને માત્ર 11 મિનિટમાં કેવી રીતે પહોંચાડ્યો હોસ્પિટલ, જાણો ઈનસાઈડ સ્ટોરી",
-    "desc": "IPL મેચ દરમિયાન લુંગી એન્ગિડીને ઈજા થયા પછી દિલ્હી ટ્રાફિક પોલીસે 11 મિનિટમાં 'ગ્રીન કોરિડોર' બનાવી એમ્બ્યુલન્સને BLK-મેક્સ હોસ્પિટલ સુધી પહોંચાડી હતી, જ્યાં તેની સારવાર કરવામાં આવી હતી. સારા સમાચાર એ છે કે એન્ગીડીને હવે હોસ્પિટલમાંથી રજા આપવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/lungi-ngidi-injury-update-delhi-police-green-corridor-dc-vs-pbks-ipl-2026-474883 ",
-    "time": "2026-04-26T05:24:03.000Z"
   },
   {
     "cat": "World",
@@ -583,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bharat-of-ramayana-died-due-to-liver-disease-sanjay-joge-left-the-world-at-the-age-of-40-474327 ",
     "time": "2026-04-22T13:06:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શું મશીન &amp;#039;0&amp;#039; દર્શાવતું હતું, છતાં ઓછું પેટ્રોલ મળ્યું? પેટ્રોલ પંપ પર આ રીતે થાય છે સ્કેમ",
-    "desc": "પેટ્રોલ પંપ પર ઝીરો જોવા છતાં જમ્પ ટ્રિક દ્વારા ગ્રાહકો સાથે છેતરપિંડી કરવામાં આવે છે, જેમાં મશીનના રીડિંગને અચાનક વધારી ઓછું તેલ આપવામાં આવે છે. આ સ્કેમથી બચવા માટે તેલ ભરાવવા સમયે શરૂઆતી સેકેન્ડમાં મીટરના રીડિંગ પર નજર રાખો અને કંઈ અસામાન્ય લાગે તો સવાલ ઉઠાવો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/petrol-pump-scam-exposed-fraud-happens-even-after-seeing-zero-through-jump-trick-474269 ",
-    "time": "2026-04-22T08:55:03.000Z"
   },
   {
     "cat": "Entertainment",
