@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sri Lankan cricketers arrested for bathroom filming of female doctors at private hotel",
+    "desc": "Sri Lankan cricketers continue to hog the headlines, unfortunately, for the off-field reasons. This time around, two Under-19 cricketers of the country have been arrested for secretly filming several female doctors bathing at a private...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lankan-cricketers-arrested-for-bathroom-filming-of-female-doctors-at-private-hotel-2026-05-01-1039543",
+    "time": "2026-05-01T06:07:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Mitchell Starc play today for Delhi Capitals vs Rajasthan Royals in IPL 2026?",
+    "desc": "Delhi Capitals will face the in-form Rajasthan Royals today in the 43rd match of the Indian Premier League (IPL) at the Sawai Mansingh Stadium in Jaipur. They have won only one of their last six...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-mitchell-starc-play-today-for-delhi-capitals-vs-rajasthan-royals-in-ipl-2026-2026-05-01-1039530",
+    "time": "2026-05-01T03:48:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gujarat Titans stay in playoffs race with win vs RCB as top 4 teams look to run away",
     "desc": "Gujarat Titans got the better of the in-form Royal Challengers Bengaluru in the 42nd match of the Indian Premier League (IPL) on Thursday at the Narendra Modi Stadium in Ahmedabad. It was a clinical show...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-jonty-rhodes-klaasen-join-hands-for-etpls-rotterdam-franchise-2026-04-30-1039468",
     "time": "2026-04-30T11:15:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kevin Pietersen urges South Africa to dial Heinrich Klaasen ahead of ODI World Cup 2027",
-    "desc": "Sunrisers Hyderabad batter Heinrich Klaasen has been a force to reckon with in the ongoing IPL 2026. The keeper-batter has smacked 414 runs in nine matches at a strike rate of 157.14 and is currently...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kevin-pietersen-urges-south-africa-to-dial-heinrich-klaasen-ahead-of-odi-world-cup-2027-2026-04-30-1039466",
-    "time": "2026-04-30T11:10:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Riyan Parag cops massive fine for 'smoking act' in dressing room during match vs Punjab Kings",
-    "desc": "The Board of Control for Cricket in India (BCCI) has fined Rajasthan Royals captain Riyan Parag for his 'smoking act' in the dressing room during the match against Punjab Kings earlier this week. For the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-cops-massive-fine-for-smoking-act-in-dressing-room-during-match-vs-punjab-kings-2026-04-30-1039445",
-    "time": "2026-04-30T08:34:47.000Z"
   }
 ];
