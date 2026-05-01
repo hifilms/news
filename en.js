@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Sanju finally bends time to his will, reviving India’s and CSK’s fortunes",
+    "desc": "The 31-year-old has long been considered an elite talent, but it has taken him a while to show just how exceptional he can be. Things looked bleak for him at the end of January before circumstances conspired to give him another shot at the international level. He won India the T20 World Cup and then got his new IPL team, CSK, going with two unbeaten hundreds",
+    "img": "https://th-i.thgim.com/public/incoming/wgcycz/article70929717.ece/alternates/LANDSCAPE_1200/IMAGE%201%20PTI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/sanju-samson-rise-kerala-prodigy-t20-world-cup-hero/article70929727.ece",
+    "time": "2026-05-01T18:57:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh a ‘living land of Dhamma’, Buddha’s message of compassion even more relevant today: Amit Shah",
+    "desc": "Home Minister Amit Shah celebrated the return of Lord Buddha's holy relics to Ladakh after 75 years, calling it a \"historic reunion\" and the \"living land of Dhamma.\" The fortnight-long exposition of the Piprahwa relics, marked by prayers and rituals, aims to reinforce India's Buddhist heritage. The event highlights peace and compassion amidst global unrest.",
+    "img": "https://static.toiimg.com/photo/msid-130684602,imgsize-1172395.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ladakh-a-living-land-of-dhamma-buddhas-message-of-compassion-even-more-relevant-today-amit-shah/articleshow/130684502.cms",
+    "time": "2026-05-01T18:34:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "DC move up, RR's erratic campaign continues",
+    "desc": "Delhi Capitals achieved their biggest IPL chase ever, stunning Rajasthan Royals by successfully hunting down 226. This crucial victory propels DC to sixth in the standings, keeping their playoff hopes alive as the IPL 2026 league stage intensifies. RR's inconsistent run continues, while the top positions remain tightly contested.",
+    "img": "https://static.toiimg.com/photo/msid-130684527,imgsize-85642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-points-table-after-match-43-delhi-capitals-move-up-rajasthan-royals-erratic-campaign-continues/articleshow/130684493.cms",
+    "time": "2026-05-01T18:29:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Sustainable healthcare practices key to future’",
+    "desc": "Doctors’ role critical in helping the country achieve its vision of becoming a developed nation by 2047, says the director of the National Institute for Research in Environmental Health at the graduation day of Kodagu Institute of Medical Sciences in Madikeri",
+    "img": "https://th-i.thgim.com/public/incoming/o2e15k/article70929045.ece/alternates/LANDSCAPE_1200/2303_1_5_2026_18_13_19_1_KODAGUGRADUATION.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/sustainable-healthcare-practices-key-to-future-says-icmr-expert/article70928244.ece",
+    "time": "2026-05-01T18:29:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul, Nissanka power DC to record chase as Parag’s 90 goes in vain",
+    "desc": "KL Rahul and Pathum Nissanka's explosive opening stand powered Delhi Capitals to a stunning seven-wicket victory over Rajasthan Royals. Chasing a formidable 226, Delhi's top order laid a solid foundation, with Rahul and Nissanka scoring fifties. Despite Riyan Parag's brilliant 90, Rajasthan's total proved insufficient as Delhi completed a memorable chase.",
+    "img": "https://static.toiimg.com/photo/msid-130684417,imgsize-177028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-pathum-nissanka-power-dc-to-record-chase-as-riyan-parags-90-goes-in-vain/articleshow/130684442.cms",
+    "time": "2026-05-01T18:24:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul leapfrogs Abhishek, Sooryavanshi to the top",
+    "desc": "Delhi Capitals opener KL Rahul has climbed to the top of the IPL 2026 Orange Cap standings with his third half-century of the season. His impressive 75 against Rajasthan Royals propelled him past Abhishek Sharma and others with 433 runs from nine games. Vaibhav Sooryavanshi's rare failure saw him slip to fourth.",
+    "img": "https://static.toiimg.com/photo/msid-130683839,imgsize-35470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-orange-cap-kl-rahul-leapfrogs-abhishek-sharma-vaibhav-sooryavanshi-to-the-top/articleshow/130683613.cms",
+    "time": "2026-05-01T17:48:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supriya Karnik reveals why she never married at 51",
+    "desc": "Supriya Karnik, who has worked extensively across Hindi, Marathi, and South cinema as well as television, has opened up about her decision to remain unmarried. At 51, the actress says there isn’t a single, definitive reason behind it. Addressing rumours that she has faced repeated heartbreak in love, Supriya clarified that emotional hurt isn’t limited to romantic relationships. The actress further shared that she doesn’t rely on romantic relationships for companionship.",
+    "img": "https://static.toiimg.com/photo/msid-130683670,imgsize-38168.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/supriya-karnik-reveals-why-she-never-married-at-51-i-wanted-marriage-at-2526-today-i-dont-need-romance-for-companionship/articleshow/130683593.cms",
+    "time": "2026-05-01T17:42:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid traffic woes on Mumbai-Pune highway, Maharashtra govt. inaugurates ‘Missing Link’ project",
+    "desc": "As the long-awaited project was thrown open by Chief Minister Devendra Fadnavis, the inauguration took some shine away as commuters got stuck for nearly three hours in and around Bhor Ghat stretch of the expressway; the project has found a place in the Guinness Book of World Records",
+    "img": "https://th-i.thgim.com/public/incoming/krt865/article70929636.ece/alternates/LANDSCAPE_1200/PTI05_01_2026_000404B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/amid-traffic-woes-on-mumbai-pune-highway-maharashtra-govt-inaugurates-missing-link-project/article70929418.ece",
+    "time": "2026-05-01T17:42:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Tom Hanks",
+    "desc": "laughter is essential for tackling everyday hurdles. His insight underscores that fleeting instances of joy can provide necessary relief during challenging times, showcasing the strength of a bright perspective. With a career dating back to the 1980s, Hanks has graced countless award-winning films.",
+    "img": "https://static.toiimg.com/photo/msid-130680866,imgsize-47560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-hanks-if-youre-funny-if-theres-something-that-makes-you-laugh-then-every-days-going-to-be-okay/articleshow/130680833.cms",
+    "time": "2026-05-01T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "First talks under new Manipur government held with Kuki-Zo insurgent groups",
+    "desc": "A joint statement by the KNO and the UPF said that the day-long discussions focused on operational and security-related issues and “both sides broadly agreed on the need to relocate certain SoO camps to reduce friction with local populations and improve security issues”",
+    "img": "https://th-i.thgim.com/public/incoming/vqc0za/article70929611.ece/alternates/LANDSCAPE_1200/PTI02_27_2026_000210B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/manipur/first-talks-under-new-manipur-government-held-with-kuki-zo-insurgent-groups/article70929230.ece",
+    "time": "2026-05-01T17:24:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul goes past Virat Kohli with record knock vs Rajasthan Royals",
+    "desc": "KL Rahul has set a new IPL record with the most 50-plus scores against Rajasthan Royals. He now shares the top spot with AB de Villiers. Rahul's performance came during a chase where he partnered with Pathum Nissanka. Earlier, Riyan Parag's strong batting propelled Rajasthan Royals to a high total. Rahul's consistent scoring against RR marks another milestone.",
+    "img": "https://static.toiimg.com/photo/msid-130683160,imgsize-162714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-goes-past-virat-kohli-with-record-knock-vs-rajasthan-royals/articleshow/130683132.cms",
+    "time": "2026-05-01T17:13:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is MS Dhoni missing from CSK dugout? Hussey reveals selfless call",
+    "desc": "MS Dhoni's absence from the CSK dugout in IPL 2026 is a selfless act, according to batting coach Michael Hussey. Dhoni chose to stay away to prevent being a distraction, allowing the team to focus on their game. He remains involved behind the scenes and is progressing well from his calf injury, with a potential return soon.",
+    "img": "https://static.toiimg.com/photo/msid-130682560,imgsize-51568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-is-ms-dhoni-missing-from-csk-dugout-hussey-reveals-selfless-call/articleshow/130682498.cms",
+    "time": "2026-05-01T16:42:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Turkish police fire tear gas, arrest hundreds at Istanbul May Day rallies",
+    "desc": "Two groups were specially singled out in the city’s European side after signalling their intention to march to Taksim Square, the scene of several anti-government protests in the past, which was sealed off overnight by police",
+    "img": "https://th-i.thgim.com/public/incoming/e2bgrd/article70929557.ece/alternates/LANDSCAPE_1200/2026-05-01T120813Z_1780216399_RC290LA5WA0T_RTRMADP_3_MAY-DAY-TURKEY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/turkish-police-fire-tear-gas-arrest-hundreds-at-istanbul-may-day-rallies/article70929097.ece",
+    "time": "2026-05-01T16:41:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Milla Jovovich's net worth",
+    "desc": "Milla Jovovich, the star of the Resident Evil franchise, boasts an impressive net worth of $80 million, built through diverse ventures including acting, modeling, and endorsements. Her real estate portfolio includes significant properties in Beverly Hills and the Hollywood Hills, reflecting her substantial financial success. Jovovich's career began at a young age, establishing her as a prominent action star.",
+    "img": "https://static.toiimg.com/photo/msid-130680182,imgsize-113352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/milla-jovovichs-net-worth-all-about-the-resident-evil-legend-and-her-usd-80-million-empire/articleshow/130679875.cms",
+    "time": "2026-05-01T16:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madalsa recalls uncomfortable meeting with filmmaker at 19",
+    "desc": "Madalsa Sharma, who is best known for playing Kavya in the hit TV show Anupamaa, recently opened up about an unsettling experience from the early days of her film career. The actress, who is married to Mahaakshay Chakraborty, son of veteran actor Mithun Chakraborty, recalled how a ‘renowned filmmaker’ once made an inappropriate request during a meeting when she was just 19.",
+    "img": "https://static.toiimg.com/photo/msid-130682066,imgsize-43842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madalsa-sharma-daughter-in-law-of-mithun-chakraborty-recalls-uncomfortable-meeting-with-filmmaker-at-19-he-wanted-to-see-me-in-bikini/articleshow/130682034.cms",
+    "time": "2026-05-01T16:13:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘He’s special, agree or not’: Ashwin’s verdict as Riyan Parag silences critics",
+    "desc": "Riyan Parag silenced critics with a brilliant 90 against Delhi Capitals, a knock that came under immense pressure following a form slump and off-field controversy. His aggressive strokeplay, including a pivotal 6-4-6 sequence, helped Rajasthan Royals recover from an early collapse and post a formidable 225 for 6. Ravichandran Ashwin lauded Parag's performance, stating his bat did all the talking.",
+    "img": "https://static.toiimg.com/photo/msid-130681747,imgsize-165654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-hes-special-agree-or-not-r-ashwins-verdict-as-riyan-parag-silences-critics-after-stunning-90/articleshow/130681759.cms",
+    "time": "2026-05-01T16:03:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We’ll see him...’: MI coach Jayawardene drops big Rohit Sharma fitness update",
+    "desc": "Mumbai Indians' head coach Mahela Jayawardene offered a cautious update on Rohit Sharma's fitness ahead of their clash with Chennai Super Kings. Sharma was seen batting in the nets after a hamstring injury, but his return depends on the medical team's daily assessment. Jayawardene also highlighted the team's struggles with consistency and player availability, having used 20 players this season.",
+    "img": "https://static.toiimg.com/photo/msid-130681848,imgsize-112546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-well-see-him-mi-coach-jayawardene-drops-big-rohit-sharma-fitness-update/articleshow/130681852.cms",
+    "time": "2026-05-01T15:56:36.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "When Prety Zinta said she won’t call Saif Ali Khan in crisis",
     "desc": "During her appearance on Koffee with Karan, Preity Zinta playfully mentioned that in a sticky situation, she'd rely on Saif Ali Khan as her last lifeline. Reliving the traumatic 2004 tsunami incident in Phuket, she recalled Saif’s playful text that said, 'Hey, PZ, are you stuck underwater?' This funny moment emphasizes their strong friendship.",
@@ -28,30 +181,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Fire Services Dept. gears up to tackle rising summer heat",
-    "desc": "With the number of ‘fire calls’ increasing, 2,386 in April alone, field staff have been advised to stay alert and leave is not being sanctioned unless urgently required, says Fire Services in-charge Director General Venkata Ramana",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/fire-services-dept-gears-up-to-tackle-rising-summer-heat/article70928773.ece",
-    "time": "2026-05-01T15:05:17.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "From red to green to saffron? BJP eyes power shift in Bengal as Mamata defends her turf",
     "desc": "West Bengal's political landscape, historically dominated by single parties for extended periods, is now witnessing an intense battle for the 2026 assembly elections. Chief minister Mamata Banerjee's 15-year rule faces a formidable challenge from the aggressively expanding BJP, which aims to end the TMC's reign. This election marks a critical juncture for the state's political legacy.",
     "img": "https://static.toiimg.com/photo/msid-130681383,imgsize-1571514.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/from-red-to-green-to-saffron-bjp-eyes-power-shift-in-bengal-as-mamata-defends-her-turf/articleshow/130680842.cms",
     "time": "2026-05-01T15:03:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Elephant brought to temple turns violent, kills one, injures mahout",
-    "desc": "An elephant flipped over a car several times, destroying it, and also damaged a few two-wheelers present there, even as an Elephant Squad of the Forest Department tried to capture the jumbo before it moved out from the temple premises to a more populated area, says police",
-    "img": "https://th-i.thgim.com/public/incoming/ojdmyd/article70929182.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-01%20at%2019.49.54.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Kochi/elephant-brought-to-temple-turns-violent-kills-one-injures-mahout/article70927995.ece",
-    "time": "2026-05-01T15:00:20.000Z"
   },
   {
     "cat": "Sports",
@@ -88,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-yashasvi-jaiswal-creates-first-ball-six-record-but-mitchell-starc-has-the-last-laugh/articleshow/130680336.cms",
     "time": "2026-05-01T14:35:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sustainable healthcare practices key to future, says ICMR expert",
-    "desc": "Doctors’ role critical in helping the country achieve its vision of becoming a developed nation by 2047, says the director of the National Institute for Research in Environmental Health at the graduation day of Kodagu Institute of Medical Sciences in Madikeri",
-    "img": "https://th-i.thgim.com/public/incoming/o2e15k/article70929045.ece/alternates/LANDSCAPE_1200/2303_1_5_2026_18_13_19_1_KODAGUGRADUATION.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/sustainable-healthcare-practices-key-to-future-says-icmr-expert/article70928244.ece",
-    "time": "2026-05-01T14:35:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -261,15 +387,6 @@ const newsData_en = [
     "time": "2026-05-01T12:01:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shahid's ‘Cocktail 2’ fitness secret revealed",
-    "desc": "Actor Shahid Kapoor attributes his sculpted physique to a disciplined, balanced lifestyle, prioritizing consistent workouts and clean eating over extreme diets. His morning fitness routine, incorporating functional training and mobility, sets a positive tone for his day. Kapoor, a vegetarian since his teens, emphasizes mindful eating and smaller, frequent meals to maintain energy and well-being.",
-    "img": "https://static.toiimg.com/photo/msid-130677547,imgsize-18744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoors-cocktail-2-fitness-secret-revealed-how-vegetarian-diet-mindful-eating-and-workouts-fuel-his-lean-physique/articleshow/130677592.cms",
-    "time": "2026-05-01T12:01:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Is Iran’s economy approaching breaking point? What analysts are saying",
     "desc": "Weeks of conflict have intensified Iran's economic pressures, straining its financial system despite ongoing internal resilience and limited external trade. While facing significant business challenges and rising costs, Iran is leveraging domestic resources and alternative trade routes to sustain itself amidst a Gulf standoff and stalled ceasefire talks.",
@@ -277,33 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-conflict-drags-on-is-irans-economy-approaching-breaking-point-what-analysts-are-saying/articleshow/130677204.cms",
     "time": "2026-05-01T12:01:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pete Davidson and Elsie Hewitt are working through their issues",
-    "desc": "In an exciting yet tumultuous chapter of life, comedian Pete Davidson and model Elsie Hewitt are juggling the ups and downs of parenthood as they celebrate their little miracle, Scottie Rose, born in December 2025. As they tackle the tricky aspects of their relationship, their focus remains on nurturing their bond and their budding family.",
-    "img": "https://static.toiimg.com/photo/msid-130677534,imgsize-168678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pete-davidson-and-elsie-hewitt-working-through-issues-while-prioritizing-daughter-scottie-rose-report/articleshow/130677476.cms",
-    "time": "2026-05-01T11:57:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vihaan Samat pens heartfelt birthday note for Radhikka Madan",
-    "desc": "The intrigue surrounding Vihaan Samat and Radhikka Madan's rumored romance reached new heights when she made an appearance at his film screening, and subsequent outings sparked chatter. Vihaan's sweet birthday tribute to Radhikka only intensified interest in their bond. Nonetheless, they both seem committed to guarding their privacy, with Vihaan emphasizing that he relishes his single life.",
-    "img": "https://static.toiimg.com/photo/msid-130677279,imgsize-147664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vihaan-samat-pens-heartfelt-birthday-note-for-queen-of-hearts-radhikka-madan-amid-dating-rumors-everyone-deserves-a-radhikka/articleshow/130677224.cms",
-    "time": "2026-05-01T11:47:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When and where to watch live",
-    "desc": "The 2026 Met Gala, under the captivating theme 'Costume Art,' is set to light up the fashion universe on May 4th with a vibrant Indian flair. Anticipation is rising for the appearances of style icons like Deepika Padukone, Ranveer Singh, Priyanka Chopra Jonas, Alia Bhatt, and Isha Ambani.",
-    "img": "https://static.toiimg.com/photo/msid-130677116,imgsize-1124459.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/met-gala-2026-india-time-when-and-where-to-watch-fashions-biggest-night-live-karan-johar-to-deepika-padukone-expected-on-guest-list/articleshow/130677116.cms",
-    "time": "2026-05-01T11:38:51.000Z"
   },
   {
     "cat": "Politics",
@@ -397,7 +487,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Raja Shivaji' BO day 1 [LIVE]: Riteish Deshmukh starrer opens to Rs. 1.59 crore net",
+    "title": "'Raja Shivaji' BO day 1 [LIVE]: Riteish Deshmukh starrer nets Rs 11.35 crore",
     "desc": "Raja Shivaji, directed by and starring Riteish Deshmukh in the titular role of Chhatrapati Shivaji Maharaj, has opened in cinemas today with early Day 1 live tracking showing Rs. 1.59 crore India net across 1,265 shows, with final figures still to be reported. The grand historical epic which also marks Riteish Deshmukh's big-screen directorial debut features a powerhouse ensemble cast including Sanjay Dutt, Abhishek Bachchan, Vidya Balan, Mahesh Manjrekar, Sachin Khedekar, Boman Irani, Bhagyashree, Fardeen Khan, Jitendra Joshi, Amole Gupte and Genelia Deshmukh. The film's pre-release 'Chhatrapati' anthem trended nationwide and was hailed as one of the most powerful pieces of music from an Indian historical in recent memory. Stay updated with all live Day 1 tracking, day-wise collections and the complete opening day box office story of Raja Shivaji.",
     "img": "https://static.toiimg.com/photo/msid-130671990,imgsize-443536.cms",
     "src": "indiatimes.com",
@@ -424,7 +514,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 44 [LIVE]: Ranveer Singh film eyes nine-year global record of 'Baahubali 2'",
+    "title": "'Dhurandhar 2' BO day 44 [LIVE]: Ranveer Singh film misses breaching global record of 'Baahubali 2' by Rs 3 crore",
     "desc": "The Revenge’ is rewriting the record books as it nears the end of its seventh week. Having already become the first Hindi film to join the Rs. 1,000 crore net club in India, the film’s total domestic net now stands at a staggering Rs. 1,135.25 crore. On Day 44 of its theatrical run, live tracking shows the film maintaining a steady grip on the audience despite a reduced screen count. With a current worldwide gross of Rs. 1,783.90 crore, the Ranveer Singh-starrer is just steps away from overtaking the lifetime global collections of Baahubali 2.",
     "img": "https://static.toiimg.com/photo/msid-130673256,imgsize-137018.cms",
     "src": "indiatimes.com",
@@ -448,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/whats-gone-wrong-jasprit-bumrahs-disastrous-ipl-2026-132-avg-2-wickets-in-8-games/articleshow/130671981.cms",
     "time": "2026-05-01T06:52:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You'll be on the floor!' Furious Klaasen loses cool as fan films his family",
-    "desc": "Sunrisers Hyderabad star Heinrich Klaasen sternly warned a fan attempting to photograph him and his family. The incident, captured on video, saw Klaasen threaten to retaliate if the fan continued. This follows similar encounters with other IPL cricketers facing unsolicited photo requests.",
-    "img": "https://static.toiimg.com/photo/msid-130671501,imgsize-43298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/youll-be-on-the-floor-furious-heinrich-klaasen-loses-cool-as-fan-films-his-family-ugly-confrontation-caught-on-camera-watch/articleshow/130671463.cms",
-    "time": "2026-05-01T06:12:46.000Z"
   },
   {
     "cat": "Business",
@@ -486,24 +567,6 @@ const newsData_en = [
     "time": "2026-05-01T05:29:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bangladesh summons Indian envoy to protest remarks by Assam CM  Himanta Biswa Sarma",
-    "desc": "Bangladesh summoned India's acting High Commissioner to protest remarks by Assam Chief Minister Himanta Biswa Sarma, stressing the need to avoid comments that could harm bilateral ties. Dhaka conveyed its displeasure, describing the statements as disparaging to Bangladesh-India relations and highlighting the counterproductive nature of statements straining ties.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bangladesh-summons-indian-envoy-to-protest-remarks-by-assam-cm-himanta-biswa-sarma/articleshow/130670601.cms",
-    "time": "2026-05-01T05:03:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata storms EVM strongroom; TMC, BJP lock horns over tampering claims: How late-night drama unfolded",
-    "desc": "The Trinamool Congress staged a protest in Kolkata, alleging EVM tampering and procedural lapses in strongrooms before the West Bengal assembly polls. The party accused the BJP and Election Commission of collusion, while the EC asserted the strongrooms were secure and footage showed routine postal ballot segregation.",
-    "img": "https://static.toiimg.com/photo/msid-130670050,imgsize-83662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mamata-storms-evm-strongroom-tmc-bjp-lock-horns-over-tampering-claims-how-late-night-drama-unfolded/articleshow/130669719.cms",
-    "time": "2026-05-01T04:17:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 ultimate face-off: Can Starc stop Sooryavanshi’s rampage?",
     "desc": "A thrilling contest awaits as Vaibhav Sooryavanshi faces Mitchell Starc tonight. The aggressive young batter, known for his explosive starts, takes on the seasoned Australian pacer returning from injury. Sooryavanshi's remarkable strike rate against top bowlers sets the stage for a high-octane duel, with Starc aiming to curb his fearless approach.",
@@ -511,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ultimate-face-off-can-mitchell-starc-stop-vaibhav-sooryavanshis-rampage/articleshow/130668548.cms",
     "time": "2026-05-01T03:56:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran to play in 2026 FIFA World Cup, confirms FIFA president Infantino",
-    "desc": "FIFA President Gianni Infantino has confirmed Iran's participation in the 2026 World Cup, set to be held in the United States, Mexico, and Canada. Despite recent geopolitical tensions and reports of visa issues for Iranian officials, Infantino stressed football's power to unite a divided world, assuring Iran will play in the USA.",
-    "img": "https://static.toiimg.com/photo/msid-130669089,imgsize-27718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/iran-to-play-in-2026-fifa-world-cup-confirms-fifa-president-gianni-infantino/articleshow/130668957.cms",
-    "time": "2026-05-01T03:18:30.000Z"
   },
   {
     "cat": "Business",
@@ -531,24 +585,6 @@ const newsData_en = [
     "time": "2026-05-01T03:11:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Kagiso Rabada gives Virat Kohli a death stare after dismissal",
-    "desc": "Kagiso Rabada dismissed Virat Kohli early in the IPL 2026 clash between Gujarat Titans and Royal Challengers Bengaluru. Despite a tough start, Rabada bounced back to take Kohli's prized wicket, triggering an intense celebration. RCB struggled and were bowled out for 155, with Gujarat Titans securing a four-wicket victory.",
-    "img": "https://static.toiimg.com/photo/msid-130668467,imgsize-35456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kagiso-rabada-gives-virat-kohli-a-death-stare-after-dismissal-watch/articleshow/130668445.cms",
-    "time": "2026-05-01T02:59:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Was Holder's catch fair in RCB skipper dismissal?",
-    "desc": "A controversial catch by Jason Holder dismissed Rajat Patidar during the RCB vs GT IPL clash, sparking outrage. Despite replays appearing inconclusive, the third umpire upheld the decision. Former spinner Ravichandran Ashwin clarified that Holder's grip likely prevented the ball from touching the ground, validating the umpire's call.",
-    "img": "https://static.toiimg.com/photo/msid-130664781,imgsize-40028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rajat-patidar-catch-controversy-explained-was-jason-holders-catch-fair-in-rcb-skipper-dismissal/articleshow/130664716.cms",
-    "time": "2026-05-01T02:20:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "StanChart to sell select credit cards biz to Federal Bank",
     "desc": "Federal Bank is set to acquire a credit card portfolio of approximately 4.5 lakh cards from Standard Chartered Bank, India. This strategic move will significantly boost Federal Bank's non-co-branded credit card segment, adding a seasoned customer base concentrated in top cities and doubling its presence in those markets.",
@@ -556,24 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stanchart-to-sell-select-credit-cards-biz-to-federal-bank/articleshow/130664348.cms",
     "time": "2026-05-01T02:07:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Bombay high court sets aside 1,500 crore IGST demand against Tata Sons",
-    "desc": "Bombay High Court has quashed a Rs 1,524 crore IGST notice issued to Tata Sons. The court ruled that Docomo's withdrawal of UK court proceedings after a 2017 settlement did not constitute a 'supply of services' attracting GST. The demand was for damages paid to Docomo following disputes over a 2009 agreement.",
-    "img": "https://static.toiimg.com/photo/msid-130664211,imgsize-409678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bombay-high-court-sets-aside-1500-crore-igst-demand-against-tata-sons/articleshow/130664092.cms",
-    "time": "2026-05-01T01:59:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "State-run banks hire over 50,000 in FY26, a rise of 33%",
-    "desc": "Public sector banks significantly boosted their workforce in the last financial year, hiring 50,552 employees, a 33% increase from the previous year. This enhanced recruitment aims to strengthen operational capacity, alleviate workload, and improve customer service across state-run lenders.",
-    "img": "https://static.toiimg.com/photo/msid-130664020,imgsize-760547.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/state-run-banks-hire-over-50000-in-fy26-a-rise-of-33/articleshow/130663915.cms",
-    "time": "2026-05-01T01:53:31.000Z"
   },
   {
     "cat": "Business",
@@ -601,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/apartment-price-appreciates-8-20-annually-in-jan-mar-across-top-8-cities-jll/article70926290.ece",
     "time": "2026-04-30T20:09:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Today was my day’: Shubman Gill reveals ‘lucky break’ in GT win over RCB",
-    "desc": "Shubman Gill's aggressive 43 off 18 balls, aided by early luck, propelled Gujarat Titans to a four-wicket victory over Royal Challengers Bengaluru. Gill's powerplay blitz set the tone, despite a middle-order wobble, with Rahul Tewatia providing crucial late runs. RCB skipper Rajat Patidar acknowledged Gill's decisive impact, while praising his team's bowling effort in stretching the chase.",
-    "img": "https://static.toiimg.com/photo/msid-130648883,imgsize-35086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-today-was-my-day-shubman-gill-reveals-lucky-break-in-gujarat-titans-win-over-royal-challengers-bengaluru/articleshow/130648714.cms",
-    "time": "2026-04-30T18:39:53.000Z"
   },
   {
     "cat": "World",
@@ -718,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-the-uae-is-leaving-opec/article70920973.ece",
     "time": "2026-04-30T07:26:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘Cartographic Inaccuracies’: Nepal Airlines apologises for showing J&K as part of Pakistan in ‘network map’",
-    "desc": "\"We sincerely apologise for error in the network map recently shared on our social media channels. The map contained significant cartographic inaccuracies regarding international boundaries that do not reflect the official stance of Nepal or Nepal Airlines,\" Nepal Airlines posted on X.",
-    "img": "https://th-i.thgim.com/public/news/national/odisha/2j7xd1/article70923144.ece/alternates/LANDSCAPE_1200/iStock-2180423448.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cartographic-inaccuracies-nepal-airlines-apologises-for-network-map-error/article70923139.ece",
-    "time": "2026-04-30T04:48:27.000Z"
   },
   {
     "cat": "Tech",

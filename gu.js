@@ -1,21 +1,30 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "કોહલીને આઉટ કર્યા પછી રબાડાએ ગુસ્સામાં આપ્યું આવુ રિએક્શન, શું તેના પર બેન લગાવશે BCCI? જાણો નિયમો",
+    "desc": "ગુજરાત ટાઇટન્સ (GT)ના સ્ટાર ફાસ્ટ બોલર કાગીસો રબાડાએ રોયલ ચેલેન્જર્સ બેંગ્લોર (RCB) સામે 4 ઓવરમાં 44 રન આપીને 1 વિકેટ લીધી હતી. આ મેચ દરમિયાન કાગીસો રબાડાએ વિરાટ કોહલીને આઉટ કર્યો હતો. વિરાટ કોહલીએ 13 બોલમાં 28 રનની ઇનિંગ રમી હતી. વિરાટ કોહલીએ 215.38 ના સ્ટ્રાઇક રેટથી બેટિંગ કરી હતી, જેમાં 5 ચોગ્ગા અને 1 છગ્ગો ફટકાર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rabada-reacted-angrily-after-dismissing-kohli-will-bcci-ban-him-know-the-rules-475890 ",
+    "time": "2026-05-01T16:18:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઈરાન યુદ્ધ વચ્ચે ભારત વિકસાવશે સૌથી ઘાતક મિસાઈલ, દુનિયાનો કોઈ ખૂણો નહીં રહે બાકાત",
+    "desc": "દુનિયાના દરેક ખતરાને જવાબ આપવા માટે ભારત સતત નવી-નવી મિસાઈલોનું પરિક્ષણ કરી રહ્યું છે. હવે આ જ કડીમાં એક એવું હથિયાર તૈયાર થવા જઈ રહ્યું છે. જે ભારતની શક્તિઓને અનેક ગણું વધારી શકે છે. અમે વાત કરી રહ્યા છીએ અગ્નિ-6 મિસાઈલની. જેની ડિઝાઈનને DRDO દ્વારા લગભગ પૂર્ણ કરવામાં આવી છે. જે સમાચાર સાંભળીને પાકિસ્તાનમાં મચી ગયો છે હડકંપ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/amidst-iran-war-india-will-develop-the-deadliest-missile-no-corner-of-the-world-will-be-left-out-475891 ",
+    "time": "2026-05-01T16:10:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "એકપણ સિક્સર ફટકાર્યા વગર બનાવી દીધા 260 રન! IPLનો આ અનોખો રેકોર્ડ તોડવો છે અસંભવ",
     "desc": "જો તમને કહેવામાં આવે કે એક બેટ્સમેને IPLની એક જ સીઝનમાં એક પણ સિક્સર ફટકાર્યા વગર 260 રન બનાવી દીધા છે, તો તમને પણ ચોંકી જશો, પરંતુ આ સાચું છે. આવું આજથી 13 વર્ષ પહેલા 2013 સીઝનમાં થયું હતું. ચાલો આ ખેલાડી વિશે વિગતવાર જાણીએ...",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/scored-260-runs-without-hitting-a-single-six-this-unique-ipl-record-is-impossible-to-break-475846 ",
     "time": "2026-05-01T12:28:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોહલીને આઉટ કર્યા પછી રબાડાએ ગુસ્સામાં આપ્યું આવુ રિએક્શન, શું તેના પર બેન લગાવશે BCCI? જાણો નિયમો",
-    "desc": "ગુજરાત ટાઇટન્સ (GT)ના સ્ટાર ફાસ્ટ બોલર કાગીસો રબાડાએ રોયલ ચેલેન્જર્સ બેંગ્લોર (RCB) સામે 4 ઓવરમાં 44 રન આપીને 1 વિકેટ લીધી હતી. આ મેચ દરમિયાન કાગીસો રબાડાએ વિરાટ કોહલીને આઉટ કર્યો હતો. વિરાટ કોહલીએ 13 બોલમાં 28 રનની ઇનિંગ રમી હતી. વિરાટ કોહલીએ 215.38 ના સ્ટ્રાઇક રેટથી બેટિંગ કરી હતી, જેમાં 5 ચોગ્ગા અને 1 છગ્ગો ફટકાર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/video-rabada-reacted-angrily-after-dismissing-kohli-will-bcci-ban-him-know-the-rules-475828 ",
-    "time": "2026-05-01T11:39:41.000Z"
   },
   {
     "cat": "Business",
@@ -349,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/can-lotus-bloom-in-tmc-stronghold-zeenia-survey-shows-bjp-storm-in-bengal-signs-of-mamata-government-departure-475558 ",
     "time": "2026-04-29T16:55:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પશ્ચિમ બંગાળ, આસામ, તમિલનાડુ, કેરળ અને પુડુચેરીમાં કોણ બનાવશે સરકાર? જાણો Zeeniaના સર્વે કોને કેટલી મળશે બેઠક?",
-    "desc": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી માટે મતદાન પૂર્ણ થઈ ગયું છે. આસામ, કેરળ, તમિલનાડુ અને પુડુચેરીના ચૂંટણી પરિણામો 4 મેના રોજ જાહેર થવાના છે. પરિણામો પહેલા, ZEE NEWSના AI એન્કર Zeeniaએ ચાર રાજ્યો અને એક કેન્દ્રશાસિત પ્રદેશમાં યોજાયેલી વિધાનસભા ચૂંટણીઓ અંગે સૌથી મોટો સર્વે કર્યો છે. પશ્ચિમ બંગાળ, આસામ, કેરળ, તમિલનાડુ અને પુડુચેરીમાં કોને મળી રહી છે જીત અને કોને કરવો પડશે હારનો સામનો ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/exit-poll-who-will-form-the-government-in-west-bengal-assam-tamil-nadu-kerala-and-puducherry-know-how-many-seats-will-zeenia-survey-give-475538 ",
-    "time": "2026-04-29T16:28:13.000Z"
   },
   {
     "cat": "Sports",

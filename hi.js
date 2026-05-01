@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Australia international finally joins LSG squad for IPL 2026, massive boost to team ahead of MI clash",
+    "desc": "Lucknow Super Giants have received a timely boost ahead of a crucial phase in IPL 2026, with Australia keeper-batter Josh Inglis linking up with the squad. The 29-year-old is now in contention for selection as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-international-finally-joins-lsg-squad-for-ipl-2026-massive-boost-to-team-ahead-of-mi-clash-2026-05-01-1039621",
+    "time": "2026-05-01T18:14:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals register their highest successful chase to beat RR in IPL 2026; Rahul, Nissanka, Starc shine",
+    "desc": "The fans in Jaipur enjoyed a high-scoring affair on Friday, May 1, as Rajasthan Royals hosted Delhi Capitals at the Sawai Mansingh Stadium. Even though the home fans returned disappointed, the game in itself lived...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-register-their-highest-successful-chase-to-beat-rr-in-ipl-2026-rahul-nissanka-starc-shine-2026-05-01-1039620",
+    "time": "2026-05-01T17:55:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunrisers Hyderabad announce replacement for injured Shivam Mavi, sign India's U19 World Cup star",
+    "desc": "Sunrisers Hyderabad all-rounder Shivam Mavi has been ruled out of the ongoing IPL 2026, owing to a groin injury. The 2016 champions were forced to make a mid-season change to their squad, as they brought...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-announce-replacement-for-injured-shivam-mavi-sign-india-s-u19-world-cup-star-2026-05-01-1039617",
+    "time": "2026-05-01T17:20:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is David Miller not playing for Delhi Capitals vs Rajasthan Royals in IPL 2026 clash in Jaipur?",
     "desc": "Delhi Capitals have made multiple changes to their playing XI in their IPL 2026 clash against Rajasthan Royals. After the toss, captain Axar Patel explained that young opener Sahil Parakh has suffered a neck spasm,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-s-animated-reaction-goes-viral-after-rajat-patidar-s-dismissal-invites-controversy-vs-gt-watch-2026-04-30-1039498",
     "time": "2026-04-30T15:45:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jonty Rhodes promises to build cricket ecosystem in Rotterdam to groom European cricketers",
-    "desc": "Jonty Rhodes, Faf du Plessis and Heinrich Klaasen acquired the Rotterdam franchise of the European T20 Premier League. The season is scheduled to begin on August 26, with Glasgow, Amsterdam, Edinburgh, Dublin and Belfast being...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jonty-rhodes-promises-to-build-cricket-ecosystem-in-rotterdam-to-groom-european-cricketers-2026-04-30-1039496",
-    "time": "2026-04-30T15:14:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MCC justifies Angkrish Raghuvanshi's controversial 'obstruction of field' dismissal against LSG in IPL 2026",
-    "desc": "Angrish Raghuvanshi’s dismissal against Lucknow Super Giants drew much controversy in the ongoing IPL 2026. Notably, the Kolkata Knight Riders batter attempted for a run, but was asked to go back midway. While returning, he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mcc-justifies-angkrish-raghuvanshi-s-controversial-obstruction-of-field-dismissal-against-lsg-in-ipl-2026-2026-04-30-1039491",
-    "time": "2026-04-30T14:28:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SLC forms nine-member Transformation committee, Kumar Sangakkara part of it",
-    "desc": "Sri Lanka’s cricket administration has been reshaped after the government removed the existing leadership and installed a nine-member Transformation Committee to take charge. The group brings together a mix of cricketing experience and expertise from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/slc-forms-nine-member-transformation-committee-kumar-sangakkara-part-of-it-2026-04-30-1039487",
-    "time": "2026-04-30T13:39:05.000Z"
   }
 ];
