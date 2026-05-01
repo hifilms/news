@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is David Miller not playing for Delhi Capitals vs Rajasthan Royals in IPL 2026 clash in Jaipur?",
+    "desc": "Delhi Capitals have made multiple changes to their playing XI in their IPL 2026 clash against Rajasthan Royals. After the toss, captain Axar Patel explained that young opener Sahil Parakh has suffered a neck spasm,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-david-miller-not-playing-for-delhi-capitals-vs-rajasthan-royals-in-ipl-2026-clash-in-jaipur-2026-05-01-1039599",
+    "time": "2026-05-01T13:46:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ian Bishop analyses possible reasons behind Jasprit Bumrah, Suryakumar Yadav's struggles in IPL 2026",
     "desc": "Mumbai Indians are currently ninth on the points table, with two wins to their name in eight games. They have made several changes to the bowling unit but are yet to find stability, which is...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/slc-forms-nine-member-transformation-committee-kumar-sangakkara-part-of-it-2026-04-30-1039487",
     "time": "2026-04-30T13:39:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
-    "desc": "Gujarat Titans will host defending champions Royal Challengers Bengaluru on April 30 at the Narendra Modi Stadium in Ahmedabad. The Shubman Gill-led side has been inconsistent this season, having won four out of eight matches...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rcb-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-04-30-1039474",
-    "time": "2026-04-30T11:30:37.000Z"
   }
 ];
