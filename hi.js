@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gujarat Titans stay in playoffs race with win vs RCB as top 4 teams look to run away",
+    "desc": "Gujarat Titans got the better of the in-form Royal Challengers Bengaluru in the 42nd match of the Indian Premier League (IPL) on Thursday at the Narendra Modi Stadium in Ahmedabad. It was a clinical show...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-points-table-gujarat-titans-stay-in-playoffs-race-with-win-vs-rcb-as-top-4-teams-look-to-run-away-2026-05-01-1039524",
+    "time": "2026-05-01T02:20:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gujarat Titans stun defending champions Royal Challengers Bengaluru, register four wicket win in Ahmedabad",
     "desc": "Royal Challengers Bengaluru arrived in Ahmedabad on the back of a famous nine-wicket win over Delhi Capitals. They bundled the hosts for 75 runs and got the job done rather comfortably with the bat. It...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-cops-massive-fine-for-smoking-act-in-dressing-room-during-match-vs-punjab-kings-2026-04-30-1039445",
     "time": "2026-04-30T08:34:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We are still very much in tournament': MI coach Kieron Pollard hopeful of turnaround in IPL 2026",
-    "desc": "Mumbai Indians batting coach Kieron Pollard is still hopeful that the five-time champions will make a comeback in the ongoing edition of the Indian Premier League (IPL). MI failed to defend 243 runs on Wednesday...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/we-are-still-very-much-in-tournament-mi-coach-kieron-pollard-hopeful-of-turnaround-in-ipl-2026-2026-04-30-1039419",
-    "time": "2026-04-30T05:04:08.000Z"
   }
 ];
