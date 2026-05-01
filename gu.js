@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ગેસ એજન્સી ખોલવાની શું છે પ્રક્રિયા, કેટલું જરૂરી છે બજેટ, આટલી થાય છે આવક, જાણો",
+    "desc": "LPG ગેસ એજન્સી એક સ્થિર અને નફાકારક વ્યવસાય છે, જેમાં 10 રૂપિયાથી 25 લાખ રૂપિયાના રોકાણની જરૂર પડે છે. દરેક સિલિન્ડર પર નિશ્ચિત કમિશન ચૂકવવામાં આવે છે. યોગ્ય આયોજન અને સલામતીની સાવચેતીઓ સાથે, વધતી માંગ નોંધપાત્ર નફો મેળવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-is-the-process-of-opening-a-gas-agency-how-much-budget-is-required-how-much-income-is-generated-know-475823 ",
+    "time": "2026-05-01T09:58:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "24K, 22K સોનાના ભાવમાં નોંધપાત્ર ઘટાડો, અમદાવાદ-સુરત-રાજકોટ-વડોદરામાં શું છે આજનો ભાવ? જાણો લેટેસ્ટ રેટ",
+    "desc": "આજે પહેલી મેના રોજ ગુજરાતનો સ્થાપના દિવસ છે અને શ્રમિક દિવસ પણ છે. આજના દિવસે બજારો બંધ છે પરંતુ ગૂડ રિટર્ન્સ વેબસાઈટના રેટ્સ મુજબ સોનાના ભાવમાં ઘટાડો જોવા મળ્યો છે જ્યારે ચાંદીના ભાવ ઉછળ્યા છે. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/price-down-of-24k-22k-gold-what-is-latest-price-in-ahmedabad-surat-rajkot-vadodara-475815 ",
+    "time": "2026-05-01T09:50:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "નેટફ્લિક્સ પર જોવા મળશે સૈફ અલી ખાનની ક્રાઈમ થ્રિલર ફિલ્મ કર્તવ્ય, 3 વર્ષના ઈંતેઝાર પછી મળી રિલીઝ ડેટ",
+    "desc": "શાહરુખ ખાનના રેડ ચીલી બેનર હેઠળ બનેલી સૈફ અલી ખાન અને રસીકા દુગ્ગલની ફિલ્મ કર્તવ્ય મે મહિનામાં ઓટીટી પર રિલીઝ થશે. આ ફિલ્મ છેલ્લા 3 વર્ષથી અટકેલી હતી. અંતે હવે મે મહિનામાં ફિલ્મને ઓટીટી પર રિલીઝ કરી દેવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/saif-ali-khan-crime-thriller-film-releasing-netflix-on-15-may-2026-475797 ",
+    "time": "2026-05-01T09:06:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "7 કલાક મોડી પડી ટ્રેન તો રેલવેએ ચૂકવવું પડ્યું 1.3 લાખનું વળતર, જાણો શું કહે છે રેલવેનો નિયમ?",
+    "desc": "શું તમે ક્યારેય ટ્રેન મોડી પડવાને કારણે મુશ્કેલીમાં મુકાયા છો? જો હા, તો આ સમાચાર તમારા માટે ખૂબ ઉપયોગી સાબિત થઈ શકે છે. તાજેતરમાં, ઓડિશાની એક ગ્રાહક અદાલતે (Consumer Court) ભારતીય રેલવેને ટ્રેન મોડી પડવા બદલ એક વ્યક્તિને 1.3 લાખ રૂપિયાનું વળતર ચૂકવવાનો આદેશ આપ્યો છે. આ કિસ્સો ઓડિશાના બાલાંગીર જિલ્લાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/train-delayed-by-seven-hours-passenger-awarded-1-3-lakh-in-compensation-find-out-what-railway-rules-say-475796 ",
+    "time": "2026-05-01T09:04:22.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "હાઈ લા! અહીં તો ઓનલાઈન ઓર્ડર કરતા જ છોકરીની થાય છે ડિલિવરી, નામ જાણી નવાઈ પામશો",
+    "desc": "દુનિયામાં વેશ્યાવૃત્તિ બધે ગેરકાયદેસર ગણાય છે એવું નથી. કારણ કે એવા કેટલાક દેશો છે જ્યાં તે એક વ્યવસાય તરીકે ગણવામાં આવે છે અને તેને કાયદેસર માન્યતા મળેલી છે. ભારતના પાડોશી મુસ્લિમ દેશમા પણ તે એક વ્યવસાય તરીકે ગણવામાં આવે છે. જાણો આ રસપ્રદ માહિતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/countries-in-the-world-where-prostitution-considered-as-legal-475778 ",
+    "time": "2026-05-01T08:04:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "19 કિલોના સિલિન્ડર મોંઘા કર્યા બાદ વધુ એક ઝટકો, 261 રૂપિયા વધાર્યો LPG ગેસના ભાવ",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધને કારણે વિશ્વભરમાં એલપીજીની સપ્લાય ચેઈન ખરાબ રીતે પ્રભાવિત થઈ છે. એલપીજી સંકટ વચ્ચે સરકાર દ્વારા સતત પીએનજી (PNG) ને પ્રોત્સાહન આપવામાં આવી રહ્યું છે. આ કટોકટીના કારણે આજે 19 કિલોના સિલિન્ડરની કિંમતમાં એક જ ઝાટકે 1000 રૂપિયાનો વધારો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/lpg-price-another-blow-after-hiking-the-price-of-the-19-kg-cylinder-lpg-gas-prices-raised-by-261-475772 ",
+    "time": "2026-05-01T07:12:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI એ Credit Card યુઝર્સને આપી મોટી રાહત: ડ્યુ ડેટ ચૂકી ગયા પછી પણ નહીં લાગે દંડ, હવે બિલ ભરવાનું ટેન્શન ખતમ!",
+    "desc": "જો તમે નિર્ધારિત સમય મર્યાદામાં તમારા ક્રેડિટ કાર્ડનું બિલ પેમેન્ટ નથી કરતા, તો ડ્યુ ડેટ પૂરી થતાની સાથે જ મોટો દંડ અને વ્યાજનો બોજ તમારા ખિસ્સા પર પડવા લાગે છે. પરંતુ ક્રેડિટ કાર્ડનો આ નવો નિયમ કરોડો યુઝર્સ માટે ખુશખબર લઈને આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/good-news-of-rbi-grants-major-relief-to-credit-card-users-no-penalties-for-missing-the-due-date-the-stress-of-bill-payment-is-over-475761 ",
+    "time": "2026-05-01T06:54:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મમતા બેનર્જી સામે હારશે શુભેંદુ અધિકારી! આ  EXIT POLL માં બંગાળમાં BJPને માત્ર 50 સીટો",
+    "desc": "પશ્ચિમ બંગાળમાં ચૂંટણી પહેલા રાજકીય માહોલ ગરમાઈ ગયો છે. બીજા તબક્કાના મતદાન બાદ સામે આવેલા એક્ઝિટ પોલ ભાજપની જીત તરફ ઈશારો કરી રહ્યાં છે. જ્યારે એક એવો એક્ઝિટ પોલ આવ્યો છે, જેમાં ટીએમસીની જીતની ભવિષ્યવાણી કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/poliq-west-bengal-exit-poll-suvendu-adhikari-lost-election-in-bhabanipur-tmc-will-win-200-seats-475755 ",
+    "time": "2026-05-01T06:34:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્રિકેટ જગતના ચોંકાવનારા સમાચાર: 2 ક્રિકેટરોએ બાથરૂમમાં નહાતી મહિલાઓના વીડિયો બનાવ્યા, કરાઈ ધરપકડ",
+    "desc": "શ્રીલંકા ક્રિકેટ હાલમાં ખૂબ જ મુશ્કેલ સમયમાંથી પસાર થઈ રહ્યું છે. થોડા દિવસો પહેલા જ બોર્ડના પ્રમુખ સહિત તમામ અધિકારીઓએ પોતાના પદ પરથી રાજીનામું આપી દીધું હતું. હવે, ટીમના બે યુવા ખેલાડીઓ એક હોટલમાં અભદ્ર કૃત્ય કરતા પકડાયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/two-sri-lankan-cricketers-arrested-for-filming-woman-bathing-video-in-hotel-475756 ",
+    "time": "2026-05-01T06:21:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "&amp;#039;માની લીધું હતું કે હવે હું ડૂબી જ જઈશ...&amp;#039; ક્રૂઝ દુર્ઘટનામાં 4 કલાક સુધી મોત સામે લડતા રહ્યા 72 વર્ષના રિયાઝ",
     "desc": "જબલપુરના બરગી ડેમમાં થયેલી ભીષણ ક્રૂઝ દુર્ઘટનામાં 72 વર્ષના રિયાઝ હુસૈને મોતને અત્યંત નજીકથી જોયું. ડૂબતા ક્રૂઝની અંદર ગરદન સુધી પાણીમાં ફસાયેલા રિયાઝ લગભગ ચાર કલાક સુધી જિંદગીની છેલ્લી આશા ટકાવી રાખીને બેઠા હતા. જ્યારે તેમને લાગ્યું કે હવે બચવું અશક્ય છે, ત્યારે જ રેસ્ક્યૂ ટીમ તેમના માટે દેવદૂત બનીને આવી પહોંચી.",
@@ -288,15 +369,6 @@ const newsData_gu = [
     "time": "2026-04-29T11:05:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;આ અહંકારની લડાઈ&amp;#039;, બોમ્બે હાઈકોર્ટે પહેલા 2046 સુધી ટાળ્યો કેસ, હવે 15 જુલાઈએ સુનાવણી, જાણો શું છે મામલો?",
-    "desc": "બોમ્બે હાઈકોર્ટે એક કેસની સુનાવણી 2046 સુધી ટાળી દીધી. પરંતુ બાદમાં પોતાના આદેશને બદલતા 15 જુલાઈએ સુનાવણીની તારીખ રાખી છે. પહેલા કોર્ટે આ કેસને ફરિયાદીના અહંકારની લડાઈ જણાવતા નારાજગી વ્યક્તિ કરી હતી. જાણો આખરે આ મામલો શું હતો?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/this-is-a-battle-of-egos%E2%80%94bombay-high-court-initially-adjourned-the-case-until-2046-hearing-to-now-take-place-on-july-15-475495 ",
-    "time": "2026-04-29T10:48:58.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "નવી કાર ખરીદવી હોય તો સારા સમાચાર, ટાટાના મોડલ પર મળશે 3.50 લાખ સુધીનું બમ્પર ડિસ્કાઉન્ટ",
     "desc": "ટાટા મોટર્સે એપ્રિલમાં પોતાની કારો પર શાનદાર ઓફર રજૂ કરી છે. જેમાં ગ્રાહક વિવિધ મોડલની ખરીદી પર 3.50 લાખ સુધીની બચત કરી શકે છે. આ છૂટ ઈવી અને પેટ્રોલ-ડીઝલ મોડલ્સ પર આપવામાં આવી રહી છે.",
@@ -387,15 +459,6 @@ const newsData_gu = [
     "time": "2026-04-28T10:52:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "24માંથી 20 ડોટ બોલ... 22 વર્ષીય બોલરે રચ્યો ઇતિહાસ, IPLમાં પહેલીવાર થયો આ ચમત્કાર",
-    "desc": "RCBના સ્પિનરે IPLના ઇતિહાસમાં એક એવી સિદ્ધિ હાંસલ કરી છે, જે છેલ્લા 18 વર્ષમાં ક્યારેય કોઈ બોલરે મેળવી નથી. તેણે પોતાની ચાર ઓવરમાં માત્ર 7 રન આપ્યા. આ સ્પેલ દરમિયાન તેણે સૌથી વધુ ડોટ બોલ ફેંકવાનો એક યાદગાર રેકોર્ડ બનાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/spinner-suyash-sharma-unique-records-20-dot-balls-in-4-over-spell-dc-vs-rcb-475289 ",
-    "time": "2026-04-28T09:24:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "1 મેથી બદલાઈ જશે ગેસ સિલિન્ડર બુકિંગના નિયમ, ઇન્ડેન, ભારત અને HP ગેસના ગ્રાહકો ખાસ જાણે",
     "desc": "1 મે 2026થી રસોઈ ગેસના નિયમોમાં મોટો ફેરફાર થવા જઈ રહ્યો છે, જેની સીધી અસર ઇન્ડેન, ભારત ગેસ અને એચપી ગેસના કરોડો ગ્રાહકો પર પડશે. બુકિંગ પહેલા આ નવા નિયમો વિશે ગ્રાહકોએ જાણવું જરૂરી છે.",
@@ -414,24 +477,6 @@ const newsData_gu = [
     "time": "2026-04-28T02:51:50.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ઈરાન યુદ્ધ વચ્ચે ભારતને હાથ લાગ્યો &amp;#039;જેકપોર્ટ&amp;#039;, ભારતીય કંપનીઓને મળ્યો તેલ-ગેસનો ભંડાર; નવી શોધથી જનતાને મળશે રાહત",
-    "desc": "ઈન્ડિયન ઓઈલ કોર્પોરેશન લિમિટેડ (IOCL)એ લીબિયામાં તેના વિદેશી એક્સપ્લોરેશન પોર્ટફોલિયોમાં ઓઈલ અને ગેસની નવી શોધની જાહેરાત કરી છે. ઓઈલ કંપનીએ જણાવ્યું કે, લીબિયાની નેશનલ ઓઈલ કોર્પોરેશને ઓઈલ અને ગેસના આ કૂવાને બ્લોકની 5મી શોધ તરીકે ઔપચારિક માન્યતા પણ આપી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/amidst-the-iran-war-india-got-its-hands-on-jackport-indian-companies-got-oil-and-gas-reserves-new-discovery-will-bring-relief-to-the-public-475156 ",
-    "time": "2026-04-27T15:19:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચ હેઠળ બેસિક સેલેરી ₹1 લાખને પાર જશે? આ કર્મચારીઓ માટે અપડેટ",
-    "desc": "કેન્દ્રીય કર્મચારીઓના વિવિધ સંગઠનો પગાર પંચને તેમની માંગણી યાદીઓ સુપરત કરી રહ્યા છે. આ સંદર્ભમાં, ફેડરેશન ઓફ નેશનલ પોસ્ટલ ઓર્ગેનાઇઝેશન (FNPO)એ પણ કેટલીક મહત્વપૂર્ણ માંગણીઓ કરી છે. આ માંગણીઓમાં મૂળ પગારમાં 1 લાખ રૂપિયાથી વધુનો વધારો કરવાનો સમાવેશ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-basic-salary-cross-rs-1-lakh-under-8th-pay-commission-update-for-these-employees-475155 ",
-    "time": "2026-04-27T14:46:31.000Z"
-  },
-  {
     "cat": "World",
     "title": "શાહબાઝ શરીફ OUT, પુતિન IN; રશિયાના રાષ્ટ્રપતિ અટકાવશે ઈરાન-અમેરિકા યુદ્ધ? જાણો કેમ થઈ રહી છે ચર્ચા",
     "desc": "પશ્ચિમ એશિયામાં વધતા સંકટ વચ્ચે ઈરાનના વિદેશ મંત્રી સૈયદ અબ્બાસ અરાઘચી રશિયા પહોંચ્યા છે. અહીં તેમણે રશિયાના રાષ્ટ્રપતિ વ્લાદિમીર પુતિન સાથે મુલાકાત કરી છે. આ મુલાકાત બાદ પુતિને કહ્યું કે, તેમને આશા છે કે ઈરાનના લોકો આ મુશ્કેલ સમયનો મક્કમતાથી સામનો કરશે અને વિસ્તારમાં શાંતિ જળવાઈ રહેશે. તેમણે વધુમાં કહ્યું કે, રશિયા ઈરાન અને ખાડી દેશોના હિતોની રક્ષા માટે તમામ સંભવ પ્રયાસો કરશે.",
@@ -439,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/shahbaz-sharif-out-putin-in-will-the-russian-president-prevent-iran-us-war-know-why-there-is-a-discussion-475154 ",
     "time": "2026-04-27T14:28:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "1લી મેથી બદલાઈ જશે ગેસ સિલિન્ડરના ભાવ? આ નિયમોમાં પણ થશે ફેરફાર, જાણો",
-    "desc": "શહેરોમાં ગેસ સિલિન્ડર બુકિંગ વચ્ચેનો સમય વધારીને 25 દિવસ અને ગામડાઓમાં 35થી 45 દિવસ કરવામાં આવ્યો છે, જ્યારે OTP-આધારિત ડિલિવરી સિસ્ટમ કાયમી બનાવવામાં આવી રહી છે. વધુમાં, eKYC ફરજિયાત બનાવવામાં આવ્યું છે. હવે, સમાચાર આવી રહ્યા છે કે LPG ગેસ સિલિન્ડર સંબંધિત કેટલાક નિયમો 1 મેથી બદલાઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-gas-cylinder-prices-change-from-may-1-these-rules-will-also-change-know-475118 ",
-    "time": "2026-04-27T13:23:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,24 +495,6 @@ const newsData_gu = [
     "time": "2026-04-27T12:49:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "આ સ્ટાર બેટ્સમેનનું IPL કરિયર ખતમ ? આગામી સિઝનમાં ખરીદદાર મળવો પણ મુશ્કેલ",
-    "desc": "આ ભારતીય ખેલાડી માટે 2026ની IPL સીઝન આખરી સાબિત થઈ શકે છે. કોઈપણ ટીમ આગામી IPL સીઝન માટે તેને ખરીદવા આગળ આવશે તેવું લાગતું નથી. નજીકના ભવિષ્યમાં તેની IPLમાં રમવાની શક્યતા ખૂબ જ ઓછી છે. એવું લાગે છે કે આ ભારતીય ખેલાડીની IPL કારકિર્દી વર્તમાન સીઝન સાથે જ સમાપ્ત થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/is-ajinkya-rahane-ipl-career-over-kkr-captain-flop-show-continues-in-ipl-2026-475112 ",
-    "time": "2026-04-27T12:06:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મે મહિનામાં 12 દિવસ બંધ રહેશે બેંકો ! જાણો RBIએ કેમ આપી આટલી રજા",
-    "desc": "આવતા મહિને એટલે કે મે મહિનામાં બેંકો કુલ 12 દિવસ બંધ રહેશે. તેથી જો તમે કોઈ પણ કામ માટે આવતા મહિને બેંકની મુલાકાત લેવાનું આયોજન કરી રહ્યા છો, તો તમારે મે મહિનાની બેંક રજાઓની યાદી ચોક્કસપણે અગાઉથી તપાસવી જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bank-holiday-in-may-2026-banks-will-be-closed-for-12-days-in-next-month-475099 ",
-    "time": "2026-04-27T10:31:01.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "તમારો Jio નંબર પણ થઈ શકે છે બંધ! આ છે સિમને એક્ટિવ રાખવાનો સૌથી સસ્તો રિચાર્જ પ્લાન",
     "desc": "લાંબા સમયથી રિચાર્જ ન કરાયેલા સિમ કાર્ડને Jio ડિએક્ટિવેટ કરી રહ્યું છે. જો તમારી પાસે સેકન્ડરી Jio સિમ છે, તો તમારે જાણવું જોઈએ કે તમે કયા સસ્તા પ્લાન ખરીદી શકો છો જેથી તે એક્ટિવ રહે.",
@@ -484,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/your-jio-number-may-also-be-deactivated-this-is-the-cheapest-recharge-plan-to-keep-the-sim-active-475097 ",
     "time": "2026-04-27T10:14:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "લખનૌ સુપર જાયન્ટ્સ માટે પ્લેઓફની આશા હજુ પણ જીવંત ! ટોપ-4માં પહોંચવાનો આ છે એકમાત્ર રસ્તો",
-    "desc": "રવિવારે રમાયેલી IPL મેચમાં કોલકાતા નાઈટ રાઈડર્સે લખનૌ સુપર જાયન્ટ્સને સુપર ઓવરમાં હરાવ્યું. આ હાર સાથે લખનૌ સુપર જાયન્ટ્સને મોટો ઝટકો લાગ્યો છે. IPL 2026 પોઈન્ટ ટેબલમાં LSG હવે છેલ્લા સ્થાને સરકી ગયું છે. તેનો નેટ રન રેટ -1.106 છે, છતાં પણ LSG માટે પ્લેઓફની આશા જીવંત છે. ત્યારે LSG કેવી રીતે પ્લેઓફમાં પહોંચી શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/how-lucknow-super-giants-qualify-for-the-ipl-2026-playoffs-know-lsg-playoffs-scenarios-475062 ",
-    "time": "2026-04-27T07:21:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,24 +585,6 @@ const newsData_gu = [
     "time": "2026-04-23T12:24:08.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "26.11 KM માઇલેજ, 6 એરબેગ, કિંમત ₹8.80 લાખ! આ છે દેશની સૌથી વધુ વેચાતી 7-સીટર કાર",
-    "desc": "FY 2025-26 માં 7-સીટર કારની ડિમાન્ડમાં જબરદસ્ત વધારો જોવા મળ્યો છે. મારૂતિ અર્ટિગાએ એકવાર ફરી નંબર 1ની પોઝીશન હાસિલ કરી છે, જ્યારે Mahindra Scorpio અને Toyota Innova નું વેચાણ પણ વધ્યું છે. તો કેટલાક મોડલ્સના વેચાણમાં ઘટાડો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/best-selling-7-seater-cars-india-maruti-ertiga-number-1-toyota-innova-secend-474440 ",
-    "time": "2026-04-23T07:07:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "₹11.49 લાખની Sierra કે ₹10.99 લાખની Seltos, બેઝ મોડલમાં કઈ SUV આપે છે વધુ ફીચર્સ?",
-    "desc": "Tata Sierra અને Kia Seltos ના બેઝ મોડલમાં મોટો મુકાબલો જોવા મળે છે. Sierra Smart+ માં વધુ સેફ્ટી ફીચર્સ જેમ કે 6 એરબેગ, ઈએસપી અને ડિસ્ક બ્રેક મળે છે, જેનાથી તે વધુ સુરક્ષિત વિકલ્પ બને છે. તો Seltos HTE માં મોટી ટચસ્ક્રીન, ડિજિટલ ક્લસ્ટર અને સ્માર્ટ કનેક્ટિવિટી ફીચર્સ મળે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/best-suv-under-12-lakh-tata-sierra-vs-kia-seltos-features-comparison-474415 ",
-    "time": "2026-04-23T05:33:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રામાયણના ભરત યાદ છે? એક ખેડૂતને રામાનંદ સાગરે બનાવી દીધો સ્ટાર, દર્દનાક મોતથી હચમચી ગયો હતો દેશ",
     "desc": "રામાયણ સાગરની રામાયણ આજે પણ બધાને યાદ છે. એક સમય એવો હતો આ શોનું પ્રસારણ થાય તો લોકો ટીવીની સામે બધા કામકાજ છોડી ગોઠવાઈ જતાં હતા. આ શોમાં અભિનેતા સંજય જોગે ભરતનું પાત્ર ભજવ્યું હતું.",
@@ -628,14 +619,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ayushmann-khurrana-upcoming-comedy-drama-film-pati-patni-aur-woh-do-teaser-and-release-date-474004 ",
     "time": "2026-04-20T10:02:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સાધ્વીમાંથી મોર્ડન &amp;#039;મમ્સ&amp;#039; બની ગઈ મમતા કુલકર્ણી, દારુની પાર્ટી કરી સેલીબ્રેટ કર્યો બર્થ ડે, Video થયો વાયરલ",
-    "desc": "મમતા કુલકર્ણી ઈંસ્ટાગ્રામ પર એક્ટિવ રહે છે અને અવારનવાર અલગ અલગ વીડિયો પોસ્ટ કરતી રહે છે જે ચર્ચાનો વિષય બની જાય તેવા હોય છે. મમતા કુલકર્ણીએ પોતાના 54 માં જન્મદિવસની ઉજવણીનો વીડિયો પણ શેર કર્યો છે. આ વીડિયો પણ વાયરલ થઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/mamta-kulkarni-birthday-celebration-video-viral-mamta-kulkarni-trolled-for-her-modern-look-473985 ",
-    "time": "2026-04-20T08:08:22.000Z"
   }
 ];

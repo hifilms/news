@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "তিন পুরুষের সঙ্গে সম্পর্ক, স্ত্রীর এলোমেলো VDO ভাইরাল: ১৯ পাতার নোটে সব লিখে আত্মঘাতী ইঞ্জিনিয়ার",
+    "desc": "স্ত্রীর বিরুদ্ধে পরকীয়ার অভিযোগ তুলে আত্মহত্যা করেছেন এক সফটওয়্যার ইঞ্জিনিয়ার। তিনি ১৯ পাতার নোটে স্ত্রীর একাধিক সম্পর্ক ও ভিডিয়ো ভাইরালের কথা উল্লেখ করেছেন। হুসেন সাগর লেকে ঝাঁপ দেওয়ার আগে তিনি চরম মানসিক যন্ত্রণার কথা লিখে যান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/software-engineer-took-extreme-step-to-death-accusing-wife-of-infidelity_651838.html ",
+    "time": "2026-05-01T09:52:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ICSE, ISC results 2026: অপেক্ষার অবসান: দশম শ্রেণির (ICSE) এবং দ্বাদশ শ্রেণির (ISC) পরীক্ষার রেজাল্ট আউট, সাফল্যে ছেলেদের টপকে গেল মেয়েরা",
     "desc": "ফলাফল হাতে পাওয়ার পর ছাত্রছাত্রীরা এখন উচ্চমাধ্যমিক বা স্নাতক স্তরে ভর্তির জন্য প্রস্তুতি শুরু করবে। বোর্ড জানিয়েছে, সাময়িকভাবে ওয়েবসাইট থেকে প্রাপ্ত মার্কশিটটি ভর্তির কাজে ব্যবহার করা যাবে, তবে মূল মার্কশিট ও প্রশংসাপত্র ছাত্রছাত্রীরা তাদের নিজ নিজ স্কুল থেকে সংগ্রহ করতে পারবে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -34,15 +52,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/snake-bites-tourist-tourist-dies-after-cobra-bites-in-snake-charmer-show-cobra-crawl-into-tourists-trousers-during-show-egypt_651511.html ",
     "time": "2026-04-29T10:45:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আরজি করের ছায়া: এবার লিফটে আটকে গেল মাথা, সরকারি হাসপাতালে মর্মান্তিক দুর্ঘটনায় মরণাপন্ন জ্যোতি",
-    "desc": "হাসপাতালের পক্ষ থেকে জানানো হয়েছে যে, সরকারি ইলেকট্রিক্যাল ইঞ্জিনিয়াররা সিস্টেমটি পরীক্ষা করে দেখেছেন এবং সেখানে কোনও যান্ত্রিক ত্রুটি পাওয়া যায়নি। ঠিক কী কারণে দুর্ঘটনাটি ঘটল, তা খতিয়ে দেখতে গিয়ে সিসিটিভি ফুটেজে দেখা গেছে, জ্যোতি দেবী হঠাৎই ওই লিফটের ভেতরের দিকে ঝুঁকে উঁকি দিয়েছিলেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/woman-injured-in-nashik-medical-college-lift-mishap_651283.html ",
-    "time": "2026-04-28T10:49:00.000Z"
   },
   {
     "cat": "World",
@@ -151,15 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/west-bengal-elections-srijato-bandyopadhyay-speaks-on-arrest-warrant_650050.html ",
     "time": "2026-04-22T12:23:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ফ্ল্যাট প্রতারণা মামলা: ফের ইডির জেরার মুখে নুসরত জাহান, সিজিও কমপ্লেক্সে নায়িকার সঙ্গে স্বামী যশও",
-    "desc": "ফ্ল্যাট প্রতারণা মামলায় ফের ইডির তলব! বৃহস্পতিবার সকালে সল্টলেকের সিজিও কমপ্লেক্সে হাজিরা দিলেন অভিনেত্রী-প্রাক্তন সাংসদ নুসরত জাহান। দিল্লি যাওয়ার আবেদন নাকচ হওয়ার পর আজ সল্টলেকেই জেরার মুখোমুখি তিনি। সঙ্গে ছিলেন যশ দাশগুপ্ত। কী হবে এই তদন্তের মোড়?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/nusrat-jahan-ed-interrogation-cgo-complex-flat-scam-case_649993.html ",
-    "time": "2026-04-22T08:29:29.000Z"
   },
   {
     "cat": "Business",
