@@ -37,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Ian Bishop analyses possible reasons behind Jasprit Bumrah, Suryakumar Yadav's struggles in IPL 2026",
+    "title": "Ian Bishop analyses possible reasons behind Jasprit Bumrah, Suryakumar Yadav's struggle in IPL 2026",
     "desc": "Mumbai Indians are currently ninth on the points table, with two wins to their name in eight games. They have made several changes to the bowling unit but are yet to find stability, which is...",
     "img": "",
     "src": "indiatvnews.com",

@@ -1,6 +1,132 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "Salah 'deserves big send-off', says Liverpool boss Slot",
+    "desc": "The Egypt forward, who will leave Anfield at the end of the campaign, was forced off in last weekend's 3-1 win at home to Crystal Palace, prompting fears he may have played his final game for the Reds",
+    "img": "https://th-i.thgim.com/public/incoming/qp7gts/article70929913.ece/alternates/LANDSCAPE_1200/2026-04-29T171954Z_146230780_RC2FWKA0ZUSN_RTRMADP_3_SOCCER-ENGLAND-LIV-SALAH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/salah-deserves-big-send-off-says-liverpool-boss-slot/article70929788.ece",
+    "time": "2026-05-01T21:45:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Above normal' rainfall to ensure many parts of India aren't hotter than usual",
+    "desc": "While most of India may experience normal to below-normal temperatures this May due to increased rainfall, certain regions, including Himalayan foothills, eastern coast, and parts of Maharashtra and Gujarat, are predicted to face an above-normal number of heatwave days. Warmer nights are also anticipated across many areas, linked to climate change.",
+    "img": "https://static.toiimg.com/photo/msid-130706350,imgsize-1360161.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/above-normal-rainfall-to-ensure-many-parts-of-india-arent-hotter-than-usual/articleshow/130706343.cms",
+    "time": "2026-05-01T21:35:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pawan Khera vs Himanta a political battle, says Supreme Court, gives relief to Congress neta",
+    "desc": "The Supreme Court granted anticipatory bail to Congress spokesperson Pawan Khera, deeming allegations against Assam CM's wife and her counter-allegations politically motivated. The court emphasized personal liberty, stating custodial interrogation wasn't warranted given the political overtones of the dispute.",
+    "img": "https://static.toiimg.com/photo/msid-130706341,imgsize-988085.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pawan-khera-vs-himanta-a-political-battle-says-supreme-court-gives-relief-to-congress-neta/articleshow/130706159.cms",
+    "time": "2026-05-01T21:29:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Oscars change rules for nominations, International film, AI",
+    "desc": "The Oscars are embracing AI, emphasizing human authorship for 2027 awards while not banning the technology. Performances require human consent, and screenplays must be human-authored. Significant changes also expand international film eligibility, recognizing top festival winners directly, not just country submissions, and honoring filmmakers over nations.",
+    "img": "https://static.toiimg.com/photo/msid-130706140,imgsize-53402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2027the-academy-change-rules-for-nominations-international-film-eligibility-ai-actors-and-writers-not-eligible/articleshow/130706114.cms",
+    "time": "2026-05-01T21:24:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wood's penalty gives Nottingham Forest a 1-0 win over Aston Villa in Europa League semifinal 1st leg",
+    "desc": "In a matchup of two teams hoping to revive former European glory, the win at the City Ground puts Forest a step closer to what would be its first continental competition final in 46 years",
+    "img": "https://th-i.thgim.com/public/incoming/tzzk1e/article70929787.ece/alternates/LANDSCAPE_1200/Britain_Europa_League_Soccer__4791.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/woods-penalty-gives-nottingham-forest-a-1-0-win-over-aston-villa-in-europa-league-semifinal-1st-leg/article70929785.ece",
+    "time": "2026-05-01T21:18:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I must be terribly wrong'",
+    "desc": "R Madhavan has opened up about dealing with failure in showbiz, using his experience on Saala Khadoos as a key reference point. In a recent chat, the actor spoke about public scrutiny, self-doubt, and why he considers failure his biggest teacher. Sharing his philosophy, Madhavan said, “So while success can make you feel like a superhero, failures must be accepted as feedback—not as a reflection of your talent, but of the decisions you made.”",
+    "img": "https://static.toiimg.com/photo/msid-130706127,imgsize-16804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-recalls-saala-khadoos-struggles-says-failure-is-his-biggest-teacher-i-thought-i-must-be-terribly-wrong/articleshow/130706110.cms",
+    "time": "2026-05-01T21:13:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lockdown in strongroom areas after TMC, BJP clash",
+    "desc": "Kolkata police have imposed strict prohibitory orders around EVM strongrooms following Trinamool's vote tampering claims and clashes with BJP workers. Security has been heightened with additional forces and sealed roads. The Election Commission vows to punish any disruption, emphasizing robust security at all counting centers statewide to ensure a peaceful electoral process.",
+    "img": "https://static.toiimg.com/photo/msid-130706084,imgsize-117298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-lockdown-in-strongroom-areas-after-tmc-bjp-clash/articleshow/130706076.cms",
+    "time": "2026-05-01T20:50:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC alleges strongroom breaches, BJP mocks claim",
+    "desc": "Trinamool Congress has raised concerns with the Election Commission regarding alleged CCTV blackouts and unauthorized access to EVM strongrooms. BJP dismissed these claims as tactics by a party anticipating defeat. TMC representatives reported seeing individuals inside sealed rooms without party agents present, fueling suspicion ahead of counting day.",
+    "img": "https://static.toiimg.com/photo/msid-130706053,imgsize-48762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-tmc-alleges-strongroom-breaches-bjp-mocks-claim/articleshow/130705174.cms",
+    "time": "2026-05-01T20:43:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Terror hideout busted in Kishtwar; huge cache of arms-ammo seized",
+    "desc": "Security forces in Jammu and Kashmir's Kishtwar district have successfully dismantled a terrorist hideout. Acting on crucial intelligence, a joint operation in the Chatroo region led to the discovery of a significant cache of weapons, including a grenade launcher, carbine, pistol, and substantial explosives. This major seizure highlights ongoing efforts to combat terrorism in the region.",
+    "img": "https://static.toiimg.com/photo/msid-130697626,imgsize-925378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-terror-hideout-busted-in-kishtwar-huge-cache-of-arms-ammo-seized/articleshow/130696704.cms",
+    "time": "2026-05-01T20:10:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Everything will be alright’: Amit Shah meets Ladakh leaders, including Sonam Wangchuk, ahead of talks",
+    "desc": "Union Home Minister Amit Shah met with Leh leaders, including Sonam Wangchuk, focusing on spiritual matters during his visit. Shah assured that Ladakh-specific issues would be discussed in a sub-committee meeting on May 22, urging an open mind for dialogue. This meeting follows previous inconclusive talks and past protests demanding statehood and safeguards.",
+    "img": "https://static.toiimg.com/photo/msid-130695508,imgsize-92370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-meets-ladakh-leaders-ahead-of-talks-says-everything-will-be-alright/articleshow/130694771.cms",
+    "time": "2026-05-01T20:02:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two workers die as under-construction bridge collapses in Jammu",
+    "desc": "Tragedy struck on the outskirts of Jammu as an under-construction bridge collapsed, claiming the lives of two workers. A massive rescue effort involving Army, NDRF, and SDRF is underway. One injured worker was rescued, while at least one person remains feared trapped. The sudden cave-in offered no warning to the laborers.",
+    "img": "https://static.toiimg.com/photo/msid-130694428,imgsize-368362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/two-workers-die-as-under-construction-bridge-collapses-in-jammu/articleshow/130693859.cms",
+    "time": "2026-05-01T19:57:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Omar Abdullah denies plan to drop Urdu in revenue jobs, slams PDP over ‘lies’",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah refuted claims of removing Urdu from revenue jobs, stating a proposal is under consideration for public feedback, not a final decision. He challenged the PDP to produce an order, accusing them of misrepresenting the process.",
+    "img": "https://static.toiimg.com/photo/msid-130693217,imgsize-765684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-cm-omar-abdullah-denies-plan-to-drop-urdu-in-revenue-jobs-slams-pdp-over-lies/articleshow/130692391.cms",
+    "time": "2026-05-01T19:52:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Annu reacts to criticism around Dhurandhar, dismisses nepotism",
+    "desc": "Veteran actor Annu Kapoor weighed in on the ongoing debate around political narratives in films, as he responded to claims that facts and timelines in Dhurandhar have been distorted to suit a particular ideology. He made it clear that propaganda in cinema is nothing new and has existed for decades.",
+    "img": "https://static.toiimg.com/photo/msid-130685030,imgsize-37062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/annu-kapoor-reacts-to-criticism-around-aditya-dhars-dhurandhar-dismisses-nepotism-talk-outsiders-have-always-ruled-the-industry/articleshow/130684961.cms",
+    "time": "2026-05-01T19:08:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Talent, training, fuel, shoes: behind Sabastian Sawe’s historic sub-2 London Marathon",
+    "desc": "The 31-year-old Kenyan became the first man to take less than two hours to run a marathon in race conditions. What went into the shattering of a once-unapproachable barrier? And just how much faster can Sawe go?",
+    "img": "https://th-i.thgim.com/public/incoming/frgz88/article70929736.ece/alternates/LANDSCAPE_1200/GettyImages-2272860137.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/athletics/sabastian-sawe-sub-2-hour-marathon-london-record/article70929740.ece",
+    "time": "2026-05-01T19:04:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanju finally bends time to his will, reviving India’s and CSK’s fortunes",
     "desc": "The 31-year-old has long been considered an elite talent, but it has taken him a while to show just how exceptional he can be. Things looked bleak for him at the end of January before circumstances conspired to give him another shot at the international level. He won India the T20 World Cup and then got his new IPL team, CSK, going with two unbeaten hundreds",
     "img": "https://th-i.thgim.com/public/incoming/wgcycz/article70929717.ece/alternates/LANDSCAPE_1200/IMAGE%201%20PTI.jpg",
@@ -351,33 +477,6 @@ const newsData_en = [
     "time": "2026-05-01T12:16:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rakul Preet says Jackky was all ears during injury recovery",
-    "desc": "In a heartfelt conversation on 'Famously Fit with Sophie', Rakul Preet Singh opened up about the immense support her husband, Jackky Bhagnani, provided during her recovery from a serious injury. She praised his unwavering presence and positivity, noting how he never voiced a complaint even in tough times.",
-    "img": "https://static.toiimg.com/photo/msid-130677788,imgsize-1397734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakul-preet-singh-credits-husband-jackky-bhagnani-for-supporting-her-through-injury-recovery-he-never-cribbed-about-my-road-to-recovery-we-did-everything-together/articleshow/130677788.cms",
-    "time": "2026-05-01T12:13:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Barcelona’s El Clásico kit gets Olivia Rodrigo treatment in Spotify collab; 11 hand-signed jerseys up to $3,500",
-    "desc": "Barcelona will turn El Clásico against Real Madrid on May 10 into another Spotify-led crossover moment, with Olivia Rodrigo’s logo featured on a special-edition shirt. The campaign extends the club’s ongoing artist series since 2022, spanning both men’s and women’s teams, live performances, and limited merchandise, blending football, music, and commercial storytelling around one of the sport’s biggest fixtures.",
-    "img": "https://static.toiimg.com/photo/msid-130677740,imgsize-1122445.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/international-sports/barcelonas-el-clsico-kit-gets-olivia-rodrigo-treatment-in-spotify-collab-11-hand-signed-jerseys-up-to-3500/articleshow/130676427.cms",
-    "time": "2026-05-01T12:10:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Aditya Dhar plays the sitar and has an ear for music': 'Dhurandhar' singer Vaibhav Gupta",
-    "desc": "The Revenge'. Vaibhav Gupta described his meeting at Aditya Dhar's home as a revelation, sharing that the director plays the sitar and offered specific, technically informed guidance on vocal modulation throughout the recording process. Since the film's release on March 19, 2026, music directors across the industry have sent Vaibhav Gupta personal messages saying they \"haven't heard a voice like his in a long time.\" Previously seen on Indian Idol, Vaibhav credits the 'Dhurandhar: The Revenge' experience as transformative both professionally and personally.",
-    "img": "https://static.toiimg.com/photo/msid-130677742,imgsize-138036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-dhar-plays-the-sitar-and-has-an-ear-for-music-dhurandhar-singer-vaibhav-gupta-opens-up-on-his-journey-to-lending-vocals-for-ranveer-singh-starrer/articleshow/130677220.cms",
-    "time": "2026-05-01T12:10:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Never dreamt of this’: KL Rahul stunned by Sooryavanshi’s audacious hitting",
     "desc": "KL Rahul lauded Rajasthan Royals' 15-year-old Vaibhav Sooryavanshi, highlighting his phenomenal rise as a testament to T20 cricket's evolution. Sooryavanshi's fearless approach and exceptional batting, including two centuries at a young age, showcase the new generation's aggressive mindset, a trend amplified by the IPL.",
@@ -396,24 +495,6 @@ const newsData_en = [
     "time": "2026-05-01T12:01:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'All speculations put to rest': Bhagwant Mann as AAP govt wins trust vote in Punjab assembly",
-    "desc": "The Aam Aadmi Party government in Punjab moved a confidence motion in the state assembly following the defection of seven MPs to the BJP. Chief Minister Bhagwant Mann asserted the party's strength and national presence, aiming to dispel rumors of instability. AAP holds a significant majority in the 117-member assembly.",
-    "img": "https://static.toiimg.com/photo/msid-130677102,imgsize-17362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/there-are-rumours-mann-government-moves-confidence-motion-in-punjab-assembly-days-after-rajya-sabha-blow/articleshow/130677120.cms",
-    "time": "2026-05-01T11:37:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK party office torched by miscreants near Srirangam ahead of Tamil Nadu results",
-    "desc": "A Tamilaga Vettri Kazhagam (TVK) election office near Srirangam in Trichy was allegedly set ablaze by unknown individuals early Friday. A large digital banner for the party's candidate was also damaged. This incident, occurring just days before Tamil Nadu election results, has prompted a police investigation and calls for enhanced security at the vote counting center.",
-    "img": "https://static.toiimg.com/photo/msid-130676789,imgsize-880860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tvk-party-office-torched-by-miscreants-near-srirangam-ahead-of-tamil-nadu-results/articleshow/130676672.cms",
-    "time": "2026-05-01T11:24:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who is RS Ambrish? U19 World Cup star joins SRH as mid-season injury replacement",
     "desc": "Sunrisers Hyderabad have signed teenage all-rounder RS Ambrish as a mid-season replacement for the injured Shivam Mavi for IPL 2026. Ambrish, an 18-year-old right-arm medium pacer and left-handed batter, was a key performer for India's U19 World Cup winning team. He joins SRH for Rs 30 lakh, aiming to leverage this opportunity on the big stage.",
@@ -430,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-he-wont-be-jasprit-bumrah-ian-bishop-questions-vaibhav-sooryavanshis-first-ball-six-chances-vs-mitchell-starc/articleshow/130676421.cms",
     "time": "2026-05-01T11:20:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Allahabad HC rejects plea seeking FIR against Rahul Gandhi over 'fighting the Indian State' remark",
-    "desc": "The Allahabad high court has dismissed a plea demanding an FIR against Rahul Gandhi for allegedly calling the \"Indian State\" an opponent. A petitioner claimed Gandhi's remark during an AICC office inauguration in 2025 was seditious and anti-national, hurting public sentiment. Justice Vikram D Chauhan rejected the challenge to a lower court's decision.",
-    "img": "https://static.toiimg.com/photo/msid-130676231,imgsize-571611.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/allahabad-hc-rejects-plea-seeking-fir-against-rahul-gandhi-over-fighting-the-indian-state-remark/articleshow/130676298.cms",
-    "time": "2026-05-01T11:01:46.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/ek-din-movie-review-sai-pallavi-junaid-khan-aamir-khan-sunil-pandey/article70927801.ece",
     "time": "2026-05-01T09:47:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I had said it': Rahul Gandhi alleges 81% LPG price rise in 3 months; launches sharp attack on Centre over inflation",
-    "desc": "Rahul Gandhi has sharply criticized the Centre over rising inflation, highlighting a significant Rs 993 jump in commercial LPG cylinder prices in a single day. He warned that this surge, amounting to an 81% increase over three months, will heavily impact small businesses and household expenses, predicting further hikes in petrol and diesel prices.",
-    "img": "https://static.toiimg.com/photo/msid-130674792,imgsize-590530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-had-said-it-rahul-gandhi-alleges-81-lpg-price-rise-in-3-months-launches-sharp-attack-on-centre-over-inflation/articleshow/130674796.cms",
-    "time": "2026-05-01T09:45:44.000Z"
   },
   {
     "cat": "Sports",
@@ -774,15 +837,6 @@ const newsData_en = [
     "time": "2026-04-29T07:39:28.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "A career engineered to perfection",
-    "desc": "Two Olympic gold medals, as many World titles and sustained dominance defined his reign; the Dane’s appetite for success shifted badminton’s power centre outside Asia; he leaves behind a lasting legacy with one of the most fantastic records the sport has seen",
-    "img": "https://th-i.thgim.com/public/incoming/3oybmp/article70918102.ece/alternates/LANDSCAPE_1200/47_Sports_Badminton_19_01_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/viktor-axelsen-a-career-engineered-to-perfection/article70918099.ece",
-    "time": "2026-04-29T05:02:44.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "600 Google staff urge CEO to reject classified military AI contract",
     "desc": "The letter, addressed to Chief Executive Sundar Pichai and signed by workers from Google DeepMind, Cloud, and other divisions, comes as the tech giant is in active negotiations with the U.S. Department of Defence to deploy its flagship Gemini AI model in classified settings",
@@ -844,50 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
