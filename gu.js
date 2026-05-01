@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "એકપણ સિક્સર ફટકાર્યા વગર બનાવી દીધા 260 રન! IPLનો આ અનોખો રેકોર્ડ તોડવો છે અસંભવ",
+    "desc": "જો તમને કહેવામાં આવે કે એક બેટ્સમેને IPLની એક જ સીઝનમાં એક પણ સિક્સર ફટકાર્યા વગર 260 રન બનાવી દીધા છે, તો તમને પણ ચોંકી જશો, પરંતુ આ સાચું છે. આવું આજથી 13 વર્ષ પહેલા 2013 સીઝનમાં થયું હતું. ચાલો આ ખેલાડી વિશે વિગતવાર જાણીએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/scored-260-runs-without-hitting-a-single-six-this-unique-ipl-record-is-impossible-to-break-475846 ",
+    "time": "2026-05-01T12:28:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કોહલીને આઉટ કર્યા પછી રબાડાએ ગુસ્સામાં આપ્યું આવુ રિએક્શન, શું તેના પર બેન લગાવશે BCCI? જાણો નિયમો",
+    "desc": "ગુજરાત ટાઇટન્સ (GT)ના સ્ટાર ફાસ્ટ બોલર કાગીસો રબાડાએ રોયલ ચેલેન્જર્સ બેંગ્લોર (RCB) સામે 4 ઓવરમાં 44 રન આપીને 1 વિકેટ લીધી હતી. આ મેચ દરમિયાન કાગીસો રબાડાએ વિરાટ કોહલીને આઉટ કર્યો હતો. વિરાટ કોહલીએ 13 બોલમાં 28 રનની ઇનિંગ રમી હતી. વિરાટ કોહલીએ 215.38 ના સ્ટ્રાઇક રેટથી બેટિંગ કરી હતી, જેમાં 5 ચોગ્ગા અને 1 છગ્ગો ફટકાર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/video-rabada-reacted-angrily-after-dismissing-kohli-will-bcci-ban-him-know-the-rules-475828 ",
+    "time": "2026-05-01T11:39:41.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ગેસ એજન્સી ખોલવાની શું છે પ્રક્રિયા, કેટલું જરૂરી છે બજેટ, આટલી થાય છે આવક, જાણો",
     "desc": "LPG ગેસ એજન્સી એક સ્થિર અને નફાકારક વ્યવસાય છે, જેમાં 10 રૂપિયાથી 25 લાખ રૂપિયાના રોકાણની જરૂર પડે છે. દરેક સિલિન્ડર પર નિશ્ચિત કમિશન ચૂકવવામાં આવે છે. યોગ્ય આયોજન અને સલામતીની સાવચેતીઓ સાથે, વધતી માંગ નોંધપાત્ર નફો મેળવી શકે છે.",
@@ -457,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/was-there-a-plan-to-kill-trump-entire-team-except-for-kash-patel-did-the-fbi-chief-survive-because-he-was-a-hindu-475310 ",
     "time": "2026-04-28T10:52:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "1 મેથી બદલાઈ જશે ગેસ સિલિન્ડર બુકિંગના નિયમ, ઇન્ડેન, ભારત અને HP ગેસના ગ્રાહકો ખાસ જાણે",
-    "desc": "1 મે 2026થી રસોઈ ગેસના નિયમોમાં મોટો ફેરફાર થવા જઈ રહ્યો છે, જેની સીધી અસર ઇન્ડેન, ભારત ગેસ અને એચપી ગેસના કરોડો ગ્રાહકો પર પડશે. બુકિંગ પહેલા આ નવા નિયમો વિશે ગ્રાહકોએ જાણવું જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-cylinder-booking-rules-changes-form-1-may-2026-know-details-475223 ",
-    "time": "2026-04-28T05:10:55.000Z"
   },
   {
     "cat": "Entertainment",

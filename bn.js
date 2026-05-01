@@ -9,15 +9,6 @@ const newsData_bn = [
     "time": "2026-05-01T09:52:25.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ICSE, ISC results 2026: অপেক্ষার অবসান: দশম শ্রেণির (ICSE) এবং দ্বাদশ শ্রেণির (ISC) পরীক্ষার রেজাল্ট আউট, সাফল্যে ছেলেদের টপকে গেল মেয়েরা",
     "desc": "ফলাফল হাতে পাওয়ার পর ছাত্রছাত্রীরা এখন উচ্চমাধ্যমিক বা স্নাতক স্তরে ভর্তির জন্য প্রস্তুতি শুরু করবে। বোর্ড জানিয়েছে, সাময়িকভাবে ওয়েবসাইট থেকে প্রাপ্ত মার্কশিটটি ভর্তির কাজে ব্যবহার করা যাবে, তবে মূল মার্কশিট ও প্রশংসাপত্র ছাত্রছাত্রীরা তাদের নিজ নিজ স্কুল থেকে সংগ্রহ করতে পারবে।",
@@ -160,14 +151,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/west-bengal-elections-srijato-bandyopadhyay-speaks-on-arrest-warrant_650050.html ",
     "time": "2026-04-22T12:23:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

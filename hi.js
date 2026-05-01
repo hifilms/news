@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ian Bishop analyses possible reasons behind Jasprit Bumrah, Suryakumar Yadav's struggles in IPL 2026",
+    "desc": "Mumbai Indians are currently ninth on the points table, with two wins to their name in eight games. They have made several changes to the bowling unit but are yet to find stability, which is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ian-bishop-analyses-possible-reasons-behind-jasprit-bumrah-suryakumar-yadav-s-struggles-in-ipl-2026-2026-05-01-1039582",
+    "time": "2026-05-01T11:46:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sri Lankan cricketers arrested for bathroom filming of female doctors at private hotel",
     "desc": "Sri Lankan cricketers continue to hog the headlines, unfortunately, for the off-field reasons. This time around, two Under-19 cricketers of the country have been arrested for secretly filming several female doctors bathing at a private...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rcb-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-04-30-1039474",
     "time": "2026-04-30T11:30:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Faf du Plessis, Jonty Rhodes, Klaasen join hands for ETPL’s Rotterdam franchise",
-    "desc": "Former South Africa captain Faf du Plessis and ex-Proteas cricketers Jonty Rhodes and Heinrich Klaasen have joined hands to co-own the Rotterdam franchise, the fifth team in the upcoming European T20 Premier League (ETPL). Moreover,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-jonty-rhodes-klaasen-join-hands-for-etpls-rotterdam-franchise-2026-04-30-1039468",
-    "time": "2026-04-30T11:15:17.000Z"
   }
 ];
