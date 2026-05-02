@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kyle Jamieson found in breach of IPL Code of Conduct, handed demerit point after RR clash",
+    "desc": "Delhi Capitals registered a brilliant victory against Rajasthan Royals in the 43rd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 1,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kyle-jamieson-found-in-breach-of-ipl-code-of-conduct-handed-demerit-point-after-rr-clash-2026-05-02-1039655",
+    "time": "2026-05-02T06:50:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Head-to-head record between two teams ahead of third T20I",
     "desc": "The stage is set for the third and final T20I of the ongoing series between New Zealand and Bangladesh. The two sides have locked horns in two T20I games so far, with Bangladesh emerging victorious...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sri-lankan-cricketers-arrested-for-bathroom-filming-of-female-doctors-at-private-hotel-2026-05-01-1039543",
     "time": "2026-05-01T06:07:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Mitchell Starc play today for Delhi Capitals vs Rajasthan Royals in IPL 2026?",
-    "desc": "Delhi Capitals will face the in-form Rajasthan Royals today in the 43rd match of the Indian Premier League (IPL) at the Sawai Mansingh Stadium in Jaipur. They have won only one of their last six...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-mitchell-starc-play-today-for-delhi-capitals-vs-rajasthan-royals-in-ipl-2026-2026-05-01-1039530",
-    "time": "2026-05-01T03:48:24.000Z"
   }
 ];

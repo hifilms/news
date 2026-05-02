@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "કાયલ જેમીસનને વૈભવ સૂર્યવંશી સામે આ હરકત કરવી પડી મોંઘી, BCCIએ ફટકારી સજા",
+    "desc": "IPL 2026માં રાજસ્થાન રોયલ્સ સામેની મેચ દરમિયાન દિલ્હી કેપિટલ્સના ફાસ્ટ બોલર કાયલ જેમિસનને આચારસંહિતાના ભંગ બદલ ડિમેરિટ પોઈન્ટ અને વોર્નિંગ આપવામાં આવી હતી. વૈભવ સૂર્યવંશીને આઉટ કર્યા પછી તેણે આક્રમક સેલિબ્રેશન કર્યું હતું. આ ઘટનાનો એક વીડિયો સોશિયલ મીડિયા પર વાયરલ થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-action-against-kyle-jamieson-for-aggressive-send-off-to-vaibhav-sooryavanshi-475946 ",
+    "time": "2026-05-02T06:50:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કપિલ શર્માના શોનો સમય રૈના અને રણવીર ઈલાહાબાદિયાનો એપિસોડ સ્ટ્રીમ કરવા પાછળ છે ખાસ કારણ, જાણો તમે પણ",
+    "desc": "સમય રૈના અને રણવીર ઈલાહાબાદિયાએ એક વર્ષે પહેલા એક એપિસોડ સાથે કર્યો હતો અને દેશભરમાં હોબાળો મચી ગયો હતો. વિવાદ અને પોલીસ કેસ બાદ પહેલીવાર આ બંને ફરી એકવાર સાથે જોવા મળશે કપિલ શર્માના શોમાં. આ એપિસોડ ધમાકેદાર હશે તેવું લાગી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/kapil-sharma-show-special-episode-on-netflix-with-ranveer-allahbadia-and-samay-raina-475945 ",
+    "time": "2026-05-02T06:37:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પર્યવેક્ષક પર TMCને ઝટકો, સુપ્રીમે કહ્યું- ચૂંટણી પંચને અધિકારી પસંદ કરવાનો અધિકાર",
+    "desc": "પશ્ચિમ બંગાળમાં મતગણતરી પહેલા ટીએમસીએ મતગણના પર્યવેક્ષક વિવાદ પર સુપ્રીમ કોર્ટમાં અરજી દાખલ કરી હતી. કબિલ સિબ્બલની દલીલ હતી કે ડીઈઓ નોટિસની જાણકારી મોડેથી મળી અને દરેક બૂથ પર ગડબડીની આશંકા છે. તેના પર સુપ્રીમ કોર્ટે કહ્યું કે ઈસીને અધિકારી પસંદ કરવાનો અધિકાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/setback-for-tmc-regarding-observer-supreme-court-rules-election-commission-has-the-authority-to-select-the-official-475941 ",
+    "time": "2026-05-02T06:12:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "225 રન બનાવ્યા છતાં કેમ હાર્યું રાજસ્થાન રોયલ્સ ? જાણો કેપ્ટન રિયાન પરાગે કોને ગણાવ્યો હારનો જવાબદાર",
+    "desc": "રાજસ્થાન રોયલ્સે કુલ 225 રન બનાવવા છતાં દિલ્હી કેપિટલ્સ સામે હારનો સામનો કરવો પડ્યો. કેએલ રાહુલ દિલ્હીની જીતનો હીરો સાબિત થયો હતો. ત્યારે દિલ્હી સામે હાર બાદ રાજસ્થાનના કેપ્ટન રિયાન પરાગનું નિવેદન સામે આવ્યું છે, જેમાં તેણે હારના કારણો જણાવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-who-did-captain-riyan-parag-blame-for-the-rr-defeat-against-delhi-capitals-475942 ",
+    "time": "2026-05-02T06:11:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઈલ ઉછળે તો સોનું કેમ ધડામ થાય છે? હાઈથી સોનું 29000 અને ચાંદી 1.69 લાખ સસ્તી, જાણો લેટેસ્ટ રેટ",
+    "desc": "સોનું અને ચાંદી આ સપ્તાહે કડાકા સાથે જોવા મળ્યા. આ સપ્તાહમાં ક્રૂડ ઓઈલના ભાવમાં પણ વધારો જોવા મળ્યો. જ્યારે ક્રૂડના ભાવમાં ઉછાળો જોવા મળે છે ત્યારે સોનું અને ચાંદી પછડાય છે. સપ્તાહ દરમિયાન શું મૂવમેન્ટ જોવા મળી એ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-does-the-price-of-gold-fall-if-crude-oil-prices-rise-what-is-the-connection-check-latest-rates-475940 ",
+    "time": "2026-05-02T06:06:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "શું ખરેખર ભૂત હોય છે? વૈજ્ઞાનિકોએ જણાવ્યું જૂની ઇમારતોમાં કેમ લાગે છે ડર, કારણ જાણી ચોંકી જશો",
+    "desc": "જૂની ઇમારતોમાં ડર અને બેચેનીનું કારણ ભૂત-પ્રેત નહીં પરંતુ ઇન્ફ્રાસાઉન્ડ નામની એક અદ્રશ્ય ધ્વનિ હોઈ શકે છે. જાણો કઈ રીતે આ લો-ફ્રીક્વેન્સી અવાજ આપણા મગજ અને શરીરને પ્રભાવિત કરે છે અને વૈજ્ઞાનિકોનું નવું સંશોધન શું કહે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/do-ghosts-really-exist-scientists-explain-why-people-feel-scared-in-old-buildings-475926 ",
+    "time": "2026-05-02T05:41:45.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "બોક્સ ઓફિસ પર છવાઈ ગઈ રિતેશ દેશમુખની ફિલ્મ રાજા શિવાજી, પહેલા દિવસે કેટલી કમાણી કરી જાણો",
     "desc": "રિતેશ દેશમુખની ફિલ્મ રાજા શિવાજી શુક્રવારે રિલીઝ થઈ ચુકી છે. ફિલ્મને લોકો તરફથી સારો પ્રતિસાદ મળી રહ્યો છે તે વાત ફિલ્મની પહેલા દિવસની કમાણીને જોતાં કહી શકાય છે. ફિલ્મની કમાણી કેટલી થઈ અને ફિલ્મ કેવી છે ચાલો તમને પણ જણાવીએ.",
@@ -333,15 +387,6 @@ const newsData_gu = [
     "time": "2026-04-30T05:02:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એક્ઝિટ પોલના તારણોમાં બંગાળમાં ભાજપની આંધી, મમતા બેનર્જીના આ 2 મહારાથીઓ પતન માટે જવાબદાર?",
-    "desc": "પશ્ચિમ બંગાળ સહિત પાંચ રાજ્યોના વિધાનસભા ચૂંટણીના મતદાન પૂરું થતા એક્ઝિટ પોલના તારણો બહાર પડ્યા જેમાં સૌથી ચોંકાવનારા પશ્ચિમ બંગાળના છે જ્યાં ભાજપ સત્તામાં આવે તેવા તારણો આવી રહ્યા છે. પ્રશ્ન એ થાય કે મમતા બેનર્જીને સત્તામાંથી બેદખલ થાય તેવા સંજોગો ઉભા કરવા પાછળ કોણ જવાબદાર?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/exit-poll-findings-show-bjp-storm-in-bengal-who-will-be-responsible-for-tmc-downfall-475581 ",
-    "time": "2026-04-30T04:47:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "સાઉદી-UAEએ હોર્મુઝનો તોડ કોઢી લીધો! હવે આ રીતે ભારત સુધી પહોંચે છે ક્રૂડ ઓઈલ",
     "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થતા ભારત માટે ઓઈલ અને ગેસના પુરવઠાને ખાડી દેશોમાંથી લાવવો મુશ્કેલ બન્યો. જો કે સાઉદી અરબ અને યુએઈએ તેના માટે તોડ કાઢ્યો અને હવે બંને દેશોનો ક્રૂડ ઓઈલ પુરવઠો સરળતાથી ભારત આવી રહ્યો છે. જાણો કઈ રીતે.",
@@ -439,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-web-series-on-sony-liv-5-best-crime-thriller-web-show-of-sony-liv-475451 ",
     "time": "2026-04-29T07:10:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રોહિત શર્મા આજે SRH સામે રમશે કે નહીં ? મેચ પહેલા આવ્યું મોટું અપડેટ",
-    "desc": "SRH સામેની મેચ પહેલા રોહિત શર્માની વાપસી અંગે હજુ પણ સસ્પેન્સ યથાવત છે. હેમસ્ટ્રિંગ ઈજામાંથી સ્વસ્થ થઈ રહેલા રોહિત અંગે એક મોટું અપડેટ સામે આવ્યું છે. ત્યારે આ લેખમાં જાણીશું કે, આજની મેચમાં હિટમેન રમશે કે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/will-rohit-sharma-play-against-srh-tonight-big-update-before-the-match-475449 ",
-    "time": "2026-04-29T07:01:22.000Z"
   },
   {
     "cat": "World",
@@ -610,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/who-was-virat-kohli-girl-friend-before-anushka-sharma-virat-kohli-dates-5-girls-before-marriage-474262 ",
     "time": "2026-04-22T07:40:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "નમાજના ફાયદાઓ જણાવીને મુશ્કેલીમાં ફસાઈ શાર્ક ટેન્કની જજ નમિતા થાપર, લોકોએ આપી ગાળો તો રોતા-રોતા આપી સફાઈ, જુઓ Video",
-    "desc": "માર્ચમાં ઈદ પછી નમાઝના ફાયદાઓ પર નમિતા થાપરે એક રીલ બનાવી હતી. તે લાંબા સમયથી આ માટે ટ્રોલ થઈ રહી છે. હવે, નમિતાએ ટ્રોલ્સને જવાબ આપતા કહ્યું છે કે તેમની સાથે આવું કરનારાઓનો કર્મા જવાબ આપશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shark-tank-judge-namita-thapar-got-into-trouble-for-explaining-the-benefits-of-namaz-people-abused-her-and-she-cleaned-it-up-crying-know-this-474025 ",
-    "time": "2026-04-20T12:32:16.000Z"
   }
 ];
