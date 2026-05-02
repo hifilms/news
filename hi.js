@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Head-to-head record between two teams ahead of third T20I",
+    "desc": "The stage is set for the third and final T20I of the ongoing series between New Zealand and Bangladesh. The two sides have locked horns in two T20I games so far, with Bangladesh emerging victorious...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-nz-head-to-head-record-between-two-teams-ahead-of-third-t20i-2026-05-02-1039644",
+    "time": "2026-05-02T05:32:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We missed the trick': Riyan Parag weighs in on Rajasthan Royals' performance after loss against DC",
+    "desc": "The 43rd game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Delhi Capitals. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 1, and it was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-missed-the-trick-riyan-parag-weighs-in-on-rajasthan-royals-performance-after-loss-against-dc-2026-05-02-1039638",
+    "time": "2026-05-02T04:16:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul joins Virat Kohli, Rohit Sharma in elite list with stellar knock against Rajasthan Royals",
+    "desc": "The 43rd game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals hosting Delhi Capitals. The two sides locked horns at the Sawai Mansingh Stadium in Jaipur on May 1, and it was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-joins-virat-kohli-rohit-sharma-in-elite-list-with-stellar-knock-against-rajasthan-royals-2026-05-02-1039633",
+    "time": "2026-05-02T02:59:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Australia international finally joins LSG squad for IPL 2026, massive boost to team ahead of MI clash",
     "desc": "Lucknow Super Giants have received a timely boost ahead of a crucial phase in IPL 2026, with Australia keeper-batter Josh Inglis linking up with the squad. The 29-year-old is now in contention for selection as...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/will-mitchell-starc-play-today-for-delhi-capitals-vs-rajasthan-royals-in-ipl-2026-2026-05-01-1039530",
     "time": "2026-05-01T03:48:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans stay in playoffs race with win vs RCB as top 4 teams look to run away",
-    "desc": "Gujarat Titans got the better of the in-form Royal Challengers Bengaluru in the 42nd match of the Indian Premier League (IPL) on Thursday at the Narendra Modi Stadium in Ahmedabad. It was a clinical show...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-points-table-gujarat-titans-stay-in-playoffs-race-with-win-vs-rcb-as-top-4-teams-look-to-run-away-2026-05-01-1039524",
-    "time": "2026-05-01T02:20:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans stun defending champions Royal Challengers Bengaluru, register four wicket win in Ahmedabad",
-    "desc": "Royal Challengers Bengaluru arrived in Ahmedabad on the back of a famous nine-wicket win over Delhi Capitals. They bundled the hosts for 75 runs and got the job done rather comfortably with the bat. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-stun-defending-champions-royal-challengers-bengaluru-register-four-wicket-win-in-ahmedabad-2026-04-30-1039512",
-    "time": "2026-04-30T17:32:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli's animated reaction goes viral after Rajat Patidar's dismissal invites controversy vs GT",
-    "desc": "Rajat Patidar’s dismissal against Gujarat Titans in Ahmedabad sparked a strong reaction from star batter Virat Kohli. Notably, the RCB captain attempted to pull Arshad Khan, but a top edge took it towards deep backward...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-s-animated-reaction-goes-viral-after-rajat-patidar-s-dismissal-invites-controversy-vs-gt-watch-2026-04-30-1039498",
-    "time": "2026-04-30T15:45:05.000Z"
   }
 ];

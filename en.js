@@ -1,5 +1,239 @@
 const newsData_en = [
   {
+    "cat": "Tech",
+    "title": "Far from a safe harbour",
+    "desc": "An infrastructure of censorship is emerging, enabling the Central and various State governments to take social media content down using existing laws and rules. Independent media outlets and online critics now find their reach at a precipice. Aroon Deep reports on how in an environment of misinformation and deepfakes, opposing voices also become targets",
+    "img": "https://th-i.thgim.com/public/incoming/8kbmy1/article70929026.ece/alternates/LANDSCAPE_1200/Sanjay%202%2011908_1_5_2026_18_46_40_1_DSC_6199.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/independent-media-outlets-and-online-critics-far-from-a-safe-harbour/article70929031.ece",
+    "time": "2026-05-02T05:21:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nawazuddin recalls 'becoming Ashwatthama' during wild bhaang Holi experience at NSD",
+    "desc": "Nawazuddin Siddiqui recounted a wild Holi experience at the National School of Drama where a potent thandai transformed him into the mythological warrior Ashwatthama. He spent hours acting out the character, later believing stepping outside a drawn circle would jeopardize his film career. The actor is also set to star in the upcoming 'Tumbbad 2', releasing December 3, 2027.",
+    "img": "https://static.toiimg.com/photo/msid-130710544,imgsize-20626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nawazuddin-siddiqui-recalls-wild-bhaang-experience-at-nsd-during-holi-became-ashwatthama-performed-nonstop-for-five-hours/articleshow/130710551.cms",
+    "time": "2026-05-02T05:14:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. sanctions are ‘collective punishment’, says Cuba during May 1 marches",
+    "desc": "U.S. President Donald Trump has mused about taking over Cuba, which lies 145 kilometers from Florida and has been under a nearly continuous U.S. trade embargo since Fidel Castro led a communist revolution in 1959",
+    "img": "https://th-i.thgim.com/public/incoming/h3bii9/article70930851.ece/alternates/LANDSCAPE_1200/2026-05-01T235358Z_2055184479_RC2B0LAXYH71_RTRMADP_3_MAY-DAY-CUBA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-sanctions-are-collective-punishment-says-cuba-during-may-1-marches/article70930842.ece",
+    "time": "2026-05-02T05:14:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Court restricts abortion access across U.S. by blocking mailing of mifepristone",
+    "desc": "“Every abortion facilitated by FDA's action cancels Louisiana's ban on medical abortions and undermines its policy that every unborn child is a human being from the moment of conception and is, therefore, a legal person,” the ruling states",
+    "img": "https://th-i.thgim.com/public/incoming/a96vz0/article70930848.ece/alternates/LANDSCAPE_1200/2026-04-13T165054Z_470093252_RC2NP8AJEJ74_RTRMADP_3_USA-ABORTION-PILL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/court-restricts-abortion-access-across-us-by-blocking-mailing-of-mifepristone/article70930789.ece",
+    "time": "2026-05-02T05:08:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "From OTT breakout roles to dating rumours with Radhikka",
+    "desc": "Speculation about a relationship between Vihaan Samat and Radhikka Madan intensified after she attended his film screening. Samat, who trained at NYU's Tisch School of the Arts, has gained recognition for his OTT roles. He recently posted a heartfelt birthday message for Madan, further fueling fan discussions about their bond.",
+    "img": "https://static.toiimg.com/photo/msid-130710449,imgsize-16830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/meet-vihaan-samat-from-ott-breakout-roles-to-dating-rumours-with-radhikka-madan/articleshow/130710448.cms",
+    "time": "2026-05-02T05:05:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK helps pregnant Deepika on 'King' sets",
+    "desc": "Shah Rukh Khan is winning hearts online for his chivalrous gesture, helping a pregnant Deepika Padukone up stairs on the 'King' film set. Leaked videos show the protective co-star offering his hand, sparking fan adoration and comparisons to their past on-screen chemistry. Director Siddharth Anand has urged fans to refrain from sharing leaked content to preserve the film's surprises.",
+    "img": "https://static.toiimg.com/photo/msid-130710075,imgsize-100720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-holds-deepika-padukones-hand-on-king-sets-helps-pregnant-co-star-up-a-flight-of-stairs-during-shoot-watch/articleshow/130709570.cms",
+    "time": "2026-05-02T04:43:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not quite there yet': Starc laughs off retirement buzz after comeback",
+    "desc": "Mitchell Starc made a dominant return after a three-month injury layoff, taking three crucial wickets for 40 runs. He dismissed key batsmen, including Yashasvi Jaiswal, Ravindra Jadeja, and Riyan Parag, showcasing his fitness and impact. Starc expressed relief and confidence in his performance, dismissing retirement speculation despite visible strapping.",
+    "img": "https://static.toiimg.com/photo/msid-130710071,imgsize-1034989.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/not-quite-there-yet-mitchell-starc-laughs-off-retirement-buzz-after-comeback-spell/articleshow/130710052.cms",
+    "time": "2026-05-02T04:36:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Spirit Airlines appears closer to shutdown as time dwindles for government bailout",
+    "desc": "The U.S. President floated the idea of a bailout last week after the airline found itself in bankruptcy proceedings for the second time in less than two years with jet fuel prices soaring because of the Iran war",
+    "img": "https://th-i.thgim.com/public/incoming/g95na4/article70930784.ece/alternates/LANDSCAPE_1200/Spirit_Airlines_64_57.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/spirit-airlines-appears-closer-to-shutdown-as-time-dwindles-for-government-bailout/article70930780.ece",
+    "time": "2026-05-02T04:26:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No unilateral right over public land for religious gatherings",
+    "desc": "The Allahabad High Court has made a significant ruling. Public land cannot be exclusively used for religious activities. Such practices, including offering Namaz, must respect public order and the rights of all citizens. The court dismissed a petition seeking exclusive use of land for Namaz.",
+    "img": "https://static.toiimg.com/photo/msid-130709808,imgsize-870541.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/allahabad-hc-no-unilateral-right-over-public-land-for-religious-gatherings/articleshow/130709780.cms",
+    "time": "2026-05-02T04:14:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kyle Jamieson punished after intimidating send-off to Vaibhav Sooryavanshi",
+    "desc": "Delhi Capitals bowler Kyle Jamieson received a demerit point and an official warning for a Level 1 IPL Code of Conduct breach. The incident occurred after dismissing Vaibhav Sooryavanshi, with Jamieson's aggressive send-off deemed provocative. This occurred during Delhi's successful seven-wicket chase against Rajasthan Royals.",
+    "img": "https://static.toiimg.com/photo/msid-130709765,imgsize-745858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/kyle-jamieson-punished-after-intimidating-send-off-to-vaibhav-sooryavanshi/articleshow/130709742.cms",
+    "time": "2026-05-02T04:08:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir's response to Junaid's female fan at event goes viral",
+    "desc": "During the star-studded launch of 'Ek Din,' Aamir Khan and his son Junaid turned heads and won hearts. Aamir expressed his genuine appreciation for the audience's enthusiastic support, while Junaid had a memorable encounter with an ardent fan from Kolkata. Aamir's humorous observation about Junaid's surprisingly witty responses drew chuckles, emphasizing the film's unique mix of tender and comedic scenes. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130709718,imgsize-84004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-hilarious-response-to-junaid-khans-female-fan-at-ek-din-event-goes-viral-wo-mujhe-reply-nahi-karta/articleshow/130709644.cms",
+    "time": "2026-05-02T04:07:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIIMS expert",
+    "desc": "Experts warn that higher screen exposure in one-year-olds is linked to an increased likelihood of developing autism or autism-like traits by age three. Studies indicate earlier and longer screen durations correlate with these outcomes, though autism is a complex condition influenced by multiple factors. Direct interaction and play are crucial for early brain development.",
+    "img": "https://static.toiimg.com/photo/msid-130709716,imgsize-510681.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/higher-screen-exposure-at-age-one-linked-to-autism-risk-by-age-three-aiims-expert/articleshow/130709684.cms",
+    "time": "2026-05-02T04:04:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Raja Shivaji’ star Riteish remembers Asha Bhosle",
+    "desc": "Riteish Deshmukh fondly remembered Asha Bhosle on the sets of 'Indian Idol,' sharing how the legendary singer treated him like a son and even cooked his favorite dish. He recounted her consistent support and blessings for his career, especially for his recently released film 'Raja Shivaji,' a project she eagerly wished to see.",
+    "img": "https://static.toiimg.com/photo/msid-130709411,imgsize-37634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raja-shivaji-star-riteish-deshmukh-remembers-asha-bhosle-she-cooked-my-favourite-dish-for-me/articleshow/130709416.cms",
+    "time": "2026-05-02T03:59:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stop summoning locals over re-posting of separatist Geelani’s video on Urdu language: PDP’s Iltija Mufti",
+    "desc": "“I take full responsibility for a recent video on Urdu that I tweeted. It’s come to my notice that others who shared it are being summoned by the Cyber Police (of the J&K Police), says PDP leader Mufti Iltija",
+    "img": "https://th-i.thgim.com/public/incoming/bw0zuf/article70930747.ece/alternates/LANDSCAPE_1200/20260429195L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/stop-summoning-locals-over-re-posting-of-separatist-geelanis-video-on-urdu-language-pdps-iltija-mufti/article70929529.ece",
+    "time": "2026-05-02T03:57:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sydney-Scooter make romance Instagram official",
+    "desc": "Sydney Sweeney and Scooter Braun have officially confirmed their relationship on Instagram after nearly a year of dating. The couple shared photos and videos from the Stagecoach Music Festival, showcasing their public affection. This marks Sweeney's first high-profile romance since her engagement ended, and Braun's first since his divorce.",
+    "img": "https://static.toiimg.com/photo/msid-130709284,imgsize-53854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sydney-sweeney-and-scooter-braun-make-romance-instagram-official-record-executive-calls-himself-lucky-cowboy/articleshow/130709095.cms",
+    "time": "2026-05-02T03:48:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Britney Spears gets released from rehab",
+    "desc": "Britney Spears has recently left a rehab center, following her DUI arrest in California last month. The celebrated singer appeared revitalized and is committed to her recovery journey. While she's out of inpatient care, she will remain connected to her support system remotely as she awaits her trial, focusing on her personal growth during this challenging time.",
+    "img": "https://static.toiimg.com/photo/msid-130709303,imgsize-93134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-is-healthy-and-happy-and-feeling-very-positive-gets-released-from-rehab-awaits-trial-in-dui-case/articleshow/130709271.cms",
+    "time": "2026-05-02T03:21:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Will Taylor Frankie Paul’s ‘The Bachelorette’ ever air?",
+    "desc": "Taylor Frankie Paul's 'The Bachelorette' season, scrapped due to domestic abuse allegations and a viral video, might be revived. Production studio executives are reportedly considering airing the already filmed footage, despite ongoing custody battles and investigations. The show's fate remains uncertain as the situation is assessed day-to-day.",
+    "img": "https://static.toiimg.com/photo/msid-130709247,imgsize-90842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/is-the-bachelorette-coming-back-production-team-weighs-in-on-possibility-of-taylor-frankie-pauls-return/articleshow/130709225.cms",
+    "time": "2026-05-02T03:16:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raja Shivaji, Devil Wears Prada 2 get midnight shows in Mumbai",
+    "desc": "Mumbai theatres are hosting unprecedented post-midnight screenings for 'Raja Shivaji' and 'The Devil Wears Prada 2' due to overwhelming advance demand. This unusual move highlights the immense pre-release buzz for both films, with exhibitors struggling to accommodate eager audiences. Both movies are set to make a significant impact on their release days. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130709227,imgsize-211512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raja-shivaji-and-the-devil-wears-prada-2-see-surge-in-demand-midnight-shows-get-added-in-mumbai/articleshow/130709164.cms",
+    "time": "2026-05-02T03:13:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diljit's heartwarming moment with a fan wins the internet as he sings 'Hass Hass' live for her",
+    "desc": "Singer-actor Diljit Dosanjh recently invited a specially-abled fan onto the stage during his Calgary concert, kneeling to sing a song for her. This heartwarming interaction, captured on video, has garnered significant praise online for his humility. This follows a similar gesture last month where he invited a fan's mother on stage.",
+    "img": "https://static.toiimg.com/photo/msid-130708983,imgsize-23712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/diljit-dosanjhs-heartwarming-moment-with-a-fan-wins-the-internet-as-he-sings-hass-hass-live-for-her-watch/articleshow/130708985.cms",
+    "time": "2026-05-02T03:02:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sara gets compared to Kiara Advani",
+    "desc": "Sara Tendulkar's recent elegant appearance in Bandra has sparked social media buzz, with many comparing her to Kiara Advani's 'Kabir Singh' character, Preeti. Despite ongoing Bollywood debut speculation, Sara clarified in 2025 that acting isn't her path, citing her introverted nature and discomfort with the spotlight. She prefers focusing on fashion and lifestyle.",
+    "img": "https://static.toiimg.com/photo/msid-130709102,imgsize-39574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-tendulkar-gets-compared-to-kiara-advani-netizens-say-she-looks-like-kabir-singhs-preeti/articleshow/130709124.cms",
+    "time": "2026-05-02T03:01:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Hope to see him here for 5–10 years'",
+    "desc": "Chennai Super Kings is undergoing a significant transition, investing in young talent like Prashant Veer and Kartik Sharma, who were bought for ₹14.2 crore each. Despite early struggles, the franchise is committed to blooding these youngsters, aiming for long-term dividends.",
+    "img": "https://static.toiimg.com/photo/msid-130709077,imgsize-77116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/csk-keen-to-nurture-young-talent-for-next-decade-hope-to-see-him-here-for-510-years/articleshow/130708986.cms",
+    "time": "2026-05-02T02:56:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That’s why he’s a legend': Axar delighted of Starc's impactful return",
+    "desc": "Delhi Capitals captain Axar Patel lauded Mitchell Starc as a legend after his impactful return, taking three crucial wickets against Rajasthan Royals. The Capitals secured a seven-wicket victory, successfully chasing a massive 226 thanks to stellar batting performances from KL Rahul and Pathum Nissanka, highlighting a dominant chase.",
+    "img": "https://static.toiimg.com/photo/msid-130709017,imgsize-878878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/thats-why-hes-a-legend-axar-patel-delighted-of-mitchell-starcs-impactful-return/articleshow/130708999.cms",
+    "time": "2026-05-02T02:50:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vaazha 2' OTT release: Where to stream Hashir film",
+    "desc": "'Vaazha 2', the directorial debut of Savin SA, is making waves with its relatable story and strong performances. The film, which premiered on April 2, is set for a digital release on JioHotstar on May 8, 2026. Despite a slight dip on its 28th day, 'Vaazha 2' has achieved significant box office success, with worldwide collections reaching Rs 226.88 crore.",
+    "img": "https://static.toiimg.com/photo/msid-130708881,imgsize-209282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vaazha-2-ott-release-confirmed-when-and-where-to-stream-hashir-and-teams-comedy-film/articleshow/130708854.cms",
+    "time": "2026-05-02T02:34:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rakhi says Riteish, son of Maharashtra, has done great direction",
+    "desc": "Riteish Deshmukh's historical drama 'Raja Shivaji,' released May 1, 2026, is receiving widespread acclaim. Rakhi Sawant urged Salman Khan fans to watch the film, highlighting his cameo as Jiva Mahala and praising Deshmukh's direction and portrayal of Shivaji Maharaj. The movie opened strongly at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-130708859,imgsize-41064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakhi-sawant-urges-all-to-watch-salman-khan-riteish-deshmukhs-raja-shivaji-son-of-maharashtra-has-done-great-direction/articleshow/130708813.cms",
+    "time": "2026-05-02T02:32:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Elon Musk grilled over his AI profits",
+    "desc": "Elon Musk faced intense questioning for a third day in his OpenAI lawsuit, defending his for-profit AI ventures. He argued that while for-profit is acceptable, OpenAI's alleged shift from its charitable roots was akin to \"stealing a charity.\" Musk became visibly irritated when pressed on the similarities between his companies and OpenAI, asserting his own firms benefit humanity.",
+    "img": "https://static.toiimg.com/photo/msid-130708851,imgsize-28062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/elon-musk-grilled-over-his-ai-profits/articleshow/130708837.cms",
+    "time": "2026-05-02T02:30:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Jane Street doles out $2.7million payout per employee",
+    "desc": "Jane Street Group has achieved remarkable financial success, distributing $9.38 billion in compensation last year, a significant surge that dwarfs rivals like Goldman Sachs. The market maker's trading revenue reached $39.6 billion, fueled by its substantial capital base and strategic investments, including a notable stake in AI startup Anthropic.",
+    "img": "https://static.toiimg.com/photo/msid-130708825,imgsize-33582.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/us/jane-street-doles-out-2-7million-payout-per-employee/articleshow/130708809.cms",
+    "time": "2026-05-02T02:27:56.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Power usage up 4% in April",
     "desc": "India's power consumption surged over 4% year-on-year in April, reaching 154 billion units. Despite a record-breaking peak demand of 256.1 GW on April 25, early month rains tempered overall usage. Soaring temperatures later in the month drove electricity demand higher, with four days exceeding 250 GW, highlighting a significant increase in consumption.",
@@ -7,6 +241,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/power-usage-up-4-in-april/articleshow/130708782.cms",
     "time": "2026-05-02T02:23:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jason Holder sprinkles 'stardust' on Gujarat Titans' campaign",
+    "desc": "Jason Holder made a significant impact for Gujarat Titans, delivering a match-winning all-round performance with 2 wickets, 3 catches, and a crucial batting contribution. His seasoned experience and ability to perform under pressure validated the franchise's Rs 7 crore investment, providing a reliable middle-order option and bowling prowess.",
+    "img": "https://static.toiimg.com/photo/msid-130708780,imgsize-44854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jason-holder-sprinkles-stardust-on-gujarat-titans-campaign/articleshow/130708786.cms",
+    "time": "2026-05-02T02:22:23.000Z"
   },
   {
     "cat": "Business",
@@ -171,33 +414,6 @@ const newsData_en = [
     "time": "2026-05-02T01:20:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Raja Shivaji (Hindi) Day 1: Riteish's film opens at Rs 3.35 cr",
-    "desc": "Riteish Deshmukh's grand historical epic 'Raja Shivaji' is making waves at the box office despite receiving a mix of reviews from critics. The film, which premiered on May 1, 2026, was uniquely crafted in both Marathi and Hindi, with the Marathi edition smashing records. Meanwhile, the Hindi counterpart still managed an impressive Rs 3.35 crore at the box office. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130708339,imgsize-85378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/raja-shivaji-box-office-collection-day-1-hindi-riteish-deshmukhs-film-opens-at-rs-3-35-crore-pushes-total-to-rs-11-crore-haul/articleshow/130708314.cms",
-    "time": "2026-05-02T01:16:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Patriot' OTT: Mammootty film heads to THIS OTT platform",
-    "desc": "Malayalam film 'Patriot', released on May 1, 2026, is generating significant buzz. ZEE5 has secured its post-theatrical digital rights, with an OTT release expected after the theatrical run. The ZEE network also acquired television rights for Zee Keralam.",
-    "img": "https://static.toiimg.com/photo/msid-130708347,imgsize-225888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-ott-release-mammootty-and-mohanlal-film-heads-to-this-ott-platform-after-theatrical-run-reports/articleshow/130708321.cms",
-    "time": "2026-05-02T01:11:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar 2’ mints over Rs 1785 cr as ‘Raja Shivaji’ takes lead on Friday",
-    "desc": "The Revenge' continues its steady box office run, grossing over Rs 1785 crore globally after 44 days. Despite facing new competition, including Riteish Deshmukh's 'Raja Shivaji' which took the lead on Friday, 'Dhurandhar 2' added Rs 1.05 crore on its 7th Friday, bringing its India net collection to Rs 1,136.14 crore.",
-    "img": "https://static.toiimg.com/photo/msid-130708326,imgsize-34446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-44-ranveer-singhs-film-mints-over-rs-1785-cr-as-riteish-deshmukhs-raja-shivaji-takes-lead-on-friday/articleshow/130708333.cms",
-    "time": "2026-05-02T01:07:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Suryakumar Yadav's batting woes hit struggling Mumbai Indians",
     "desc": "The Indian 'Clasico' between Chennai Super Kings and Mumbai Indians holds little playoff significance, but is crucial for individual players like Suryakumar Yadav. Facing a poor IPL season, Yadav's form is under scrutiny, with his ambition of leading India to the 2028 Olympics potentially at risk. Coach Mahela Jayawardene defended his player, highlighting his talent and past brilliance.",
@@ -205,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-suryakumar-yadavs-batting-woes-hit-struggling-mumbai-indians/articleshow/130708269.cms",
     "time": "2026-05-02T00:56:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KD – The Devil' BO day 2: Dhruva Sarja film stays stable",
-    "desc": "Action-packed thriller 'KD – The Devil' showcased remarkable stability on its second day at the box office, amassing Rs 3.50 crore net, identical to its opening day's haul. Though the earnings reported a stagnant trend, viewer turnout improved, reaching an occupancy level of 50.0%.",
-    "img": "https://static.toiimg.com/photo/msid-130708264,imgsize-229912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kd-the-devil-box-office-collections-day-2-dhruva-sarja-film-stays-stable-at-rs-7-cr-india-net-amid-mixed-reviews/articleshow/130708240.cms",
-    "time": "2026-05-02T00:55:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Devil Wears Prada 2' scores Rs 5.50 crore India debut",
-    "desc": "'The Devil Wears Prada 2' opened with a modest Rs 5.50 crore net in India, including paid previews. While performing similarly to the Michael Jackson biopic 'Michael', it fell short of projections. The fashion sequel's success was concentrated in metro cities and multiplexes, facing strong competition from the Marathi film 'Raja Shivaji', which significantly outperformed it.",
-    "img": "https://static.toiimg.com/photo/msid-130708148,imgsize-99058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-devil-wears-prada-2-box-office-collection-day-1-meryl-streep-anne-hathaway-starrer-scores-rs-5-50-crore-india-debut-trails-behind-raja-shivaji/articleshow/130708139.cms",
-    "time": "2026-05-02T00:44:11.000Z"
   },
   {
     "cat": "Sports",
@@ -241,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-love-you-darling-hardik-pandyas-reaction-to-ms-dhoni-steals-the-show-watch/articleshow/130682634.cms",
     "time": "2026-05-02T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bhooth Bangla' BO Day 15: Film crosses Rs 210 cr globally",
-    "desc": "Akshay Kumar's latest film, 'Bhooth Bangla', has made waves at the global box office, surpassing Rs 210 crore within just 15 days. Although competition from fresh releases like 'Raja Shivaji' caused a decline, the horror-comedy still managed to earn Rs 4.50 crore on its 15th day alone, pushing its net collection in India to Rs 132.65 crore. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130708157,imgsize-70844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-15-akshay-kumars-film-crosses-rs-210-crore-globally-amid-raja-shivaji-release/articleshow/130708133.cms",
-    "time": "2026-05-02T00:27:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Kara' BO day 2: Dhanush film earns Rs 20.20 cr globally",
-    "desc": "Dhanush's heist thriller 'Kara' is demonstrating strong box office performance, with a notable 12.1% increase in collections on its second day, reaching Rs 6.95 crore. The film has garnered Rs 13.15 crore net in India and Rs 5.00 crore overseas, totaling Rs 20.20 crore worldwide. The Tamil version leads the earnings, with Tamil Nadu being the top-grossing state.",
-    "img": "https://static.toiimg.com/photo/msid-130708159,imgsize-82140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-box-office-collections-day-2-dhanush-film-sees-steady-rise-earns-rs-20-20-cr-globally/articleshow/130708150.cms",
-    "time": "2026-05-02T00:26:16.000Z"
   },
   {
     "cat": "Politics",
@@ -286,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/election-commission-orders-repolling-in-15-booths-in-two-bengal-seats/articleshow/130708101.cms",
     "time": "2026-05-02T00:13:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Patriot' BO day 1: Film roars to Rs 29.37 cr globally",
-    "desc": "Mohanlal and Mammootty's 'Patriot' has stormed the box office, raking in Rs 29.37 crore worldwide on its May 1st release. The film garnered Rs 9.80 crore net in India, with Kerala leading the charge. Overseas collections significantly boosted the total, highlighting strong audience reception and positive critic reviews for its action and performances.",
-    "img": "https://static.toiimg.com/photo/msid-130708094,imgsize-110496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-box-office-collections-day-1-mohanlal-and-mammootty-film-roars-to-rs-29-37-cr-globally/articleshow/130708079.cms",
-    "time": "2026-05-02T00:08:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,19 +549,10 @@ const newsData_en = [
     "time": "2026-05-01T22:56:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Avengers: Secret Wars' books Dec 17, 2027 debut",
-    "desc": "Secret Wars' is set for a grand IMAX debut on December 17, 2027, following 'Avengers: Doomsday's' IMAX screen loss to 'Dune: Part Three'. This epic Multiverse Saga finale, directed by the Russo brothers, will now face a direct clash with 'The Lord of the Rings: The Hunt for Gollum' on the same date, promising a massive cinematic showdown.",
-    "img": "https://static.toiimg.com/photo/msid-130707927,imgsize-94862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-secret-wars-locks-imax-release-for-december-17-2027-sets-up-clash-with-the-lord-of-the-rings-the-hunt-for-gollum/articleshow/130707921.cms",
-    "time": "2026-05-01T22:56:08.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "After Rahul Gandhi’s attack, government defends Great Nicobar project",
     "desc": "The government has clarified the Rs 81,000 crore Great Nicobar Project, emphasizing its strategic importance for India's presence in the Andaman Sea and Southeast Asia. Officials stated that environmental safeguards and the protection of indigenous communities are core to the planning, with all statutory procedures and consultations meticulously followed to ensure no adverse impact on Particularly Vulnerable Tribal Groups.",
-    "img": "https://static.toiimg.com/photo/msid-130707920,imgsize-126374.cms",
+    "img": "https://static.toiimg.com/photo/msid-130709415,imgsize-2241461.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/after-rahul-gandhis-attack-government-defends-great-nicobar-project/articleshow/130707914.cms",
     "time": "2026-05-01T22:50:27.000Z"
@@ -412,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/special-supreme-court-bench-to-hear-today-tmc-plea-on-counting-staff/articleshow/130707869.cms",
     "time": "2026-05-01T22:24:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepika Padukone debuts baby bump on 'King' sets",
-    "desc": "Deepika Padukone's baby bump debut on the sets of 'King' in Cape Town has sent fans into a frenzy. The actress, expecting her second child with Ranveer Singh, was seen filming alongside Shah Rukh Khan. Director Sidharth Anand urged fans to avoid sharing leaked content, emphasizing a grand reveal for the highly anticipated 2026 Christmas release.",
-    "img": "https://static.toiimg.com/photo/msid-130706385,imgsize-48412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-debuts-baby-bump-on-king-sets-in-south-africa-pics-send-fans-into-frenzy/articleshow/130706351.cms",
-    "time": "2026-05-01T22:17:21.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +612,6 @@ const newsData_en = [
     "time": "2026-05-01T21:29:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Oscars change rules for nominations, International film, AI",
-    "desc": "The Oscars are embracing AI, emphasizing human authorship for 2027 awards while not banning the technology. Performances require human consent, and screenplays must be human-authored. Significant changes also expand international film eligibility, recognizing top festival winners directly, not just country submissions, and honoring filmmakers over nations.",
-    "img": "https://static.toiimg.com/photo/msid-130706140,imgsize-53402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2027the-academy-change-rules-for-nominations-international-film-eligibility-ai-actors-and-writers-not-eligible/articleshow/130706114.cms",
-    "time": "2026-05-01T21:24:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Wood's penalty gives Nottingham Forest a 1-0 win over Aston Villa in Europa League semifinal 1st leg",
     "desc": "In a matchup of two teams hoping to revive former European glory, the win at the City Ground puts Forest a step closer to what would be its first continental competition final in 46 years",
@@ -475,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/woods-penalty-gives-nottingham-forest-a-1-0-win-over-aston-villa-in-europa-league-semifinal-1st-leg/article70929785.ece",
     "time": "2026-05-01T21:18:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I must be terribly wrong'",
-    "desc": "R Madhavan has opened up about dealing with failure in showbiz, using his experience on Saala Khadoos as a key reference point. In a recent chat, the actor spoke about public scrutiny, self-doubt, and why he considers failure his biggest teacher. Sharing his philosophy, Madhavan said, “So while success can make you feel like a superhero, failures must be accepted as feedback—not as a reflection of your talent, but of the decisions you made.”",
-    "img": "https://static.toiimg.com/photo/msid-130706127,imgsize-16804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-recalls-saala-khadoos-struggles-says-failure-is-his-biggest-teacher-i-thought-i-must-be-terribly-wrong/articleshow/130706110.cms",
-    "time": "2026-05-01T21:13:41.000Z"
   },
   {
     "cat": "Politics",
@@ -522,33 +657,6 @@ const newsData_en = [
     "time": "2026-05-01T20:02:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Two workers die as under-construction bridge collapses in Jammu",
-    "desc": "Tragedy struck on the outskirts of Jammu as an under-construction bridge collapsed, claiming the lives of two workers. A massive rescue effort involving Army, NDRF, and SDRF is underway. One injured worker was rescued, while at least one person remains feared trapped. The sudden cave-in offered no warning to the laborers.",
-    "img": "https://static.toiimg.com/photo/msid-130694428,imgsize-368362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/two-workers-die-as-under-construction-bridge-collapses-in-jammu/articleshow/130693859.cms",
-    "time": "2026-05-01T19:57:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Omar Abdullah denies plan to drop Urdu in revenue jobs, slams PDP over ‘lies’",
-    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah refuted claims of removing Urdu from revenue jobs, stating a proposal is under consideration for public feedback, not a final decision. He challenged the PDP to produce an order, accusing them of misrepresenting the process.",
-    "img": "https://static.toiimg.com/photo/msid-130693217,imgsize-765684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-cm-omar-abdullah-denies-plan-to-drop-urdu-in-revenue-jobs-slams-pdp-over-lies/articleshow/130692391.cms",
-    "time": "2026-05-01T19:52:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Annu reacts to criticism around Dhurandhar, dismisses nepotism",
-    "desc": "Veteran actor Annu Kapoor weighed in on the ongoing debate around political narratives in films, as he responded to claims that facts and timelines in Dhurandhar have been distorted to suit a particular ideology. He made it clear that propaganda in cinema is nothing new and has existed for decades.",
-    "img": "https://static.toiimg.com/photo/msid-130685030,imgsize-37062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/annu-kapoor-reacts-to-criticism-around-aditya-dhars-dhurandhar-dismisses-nepotism-talk-outsiders-have-always-ruled-the-industry/articleshow/130684961.cms",
-    "time": "2026-05-01T19:08:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Talent, training, fuel, shoes: behind Sabastian Sawe’s historic sub-2 London Marathon",
     "desc": "The 31-year-old Kenyan became the first man to take less than two hours to run a marathon in race conditions. What went into the shattering of a once-unapproachable barrier? And just how much faster can Sawe go?",
@@ -567,24 +675,6 @@ const newsData_en = [
     "time": "2026-05-01T18:57:54.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Far from a safe harbour",
-    "desc": "An infrastructure of censorship is emerging, enabling the Central and various State governments to take social media content down using existing laws and rules. Independent media outlets and online critics now find their reach at a precipice. Aroon Deep reports on how in an environment of misinformation and deepfakes, opposing voices also become targets",
-    "img": "https://th-i.thgim.com/public/incoming/8kbmy1/article70929026.ece/alternates/LANDSCAPE_1200/Sanjay%202%2011908_1_5_2026_18_46_40_1_DSC_6199.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/independent-media-outlets-and-online-critics-far-from-a-safe-harbour/article70929031.ece",
-    "time": "2026-05-01T18:44:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ladakh a ‘living land of Dhamma’, Buddha’s message of compassion even more relevant today: Amit Shah",
-    "desc": "Home Minister Amit Shah celebrated the return of Lord Buddha's holy relics to Ladakh after 75 years, calling it a \"historic reunion\" and the \"living land of Dhamma.\" The fortnight-long exposition of the Piprahwa relics, marked by prayers and rituals, aims to reinforce India's Buddhist heritage. The event highlights peace and compassion amidst global unrest.",
-    "img": "https://static.toiimg.com/photo/msid-130684602,imgsize-1172395.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ladakh-a-living-land-of-dhamma-buddhas-message-of-compassion-even-more-relevant-today-amit-shah/articleshow/130684502.cms",
-    "time": "2026-05-01T18:34:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "DC move up, RR's erratic campaign continues",
     "desc": "Delhi Capitals achieved their biggest IPL chase ever, stunning Rajasthan Royals by successfully hunting down 226. This crucial victory propels DC to sixth in the standings, keeping their playoff hopes alive as the IPL 2026 league stage intensifies. RR's inconsistent run continues, while the top positions remain tightly contested.",
@@ -592,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-points-table-after-match-43-delhi-capitals-move-up-rajasthan-royals-erratic-campaign-continues/articleshow/130684493.cms",
     "time": "2026-05-01T18:29:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Sustainable healthcare practices key to future’",
-    "desc": "Doctors’ role critical in helping the country achieve its vision of becoming a developed nation by 2047, says the director of the National Institute for Research in Environmental Health at the graduation day of Kodagu Institute of Medical Sciences in Madikeri",
-    "img": "https://th-i.thgim.com/public/incoming/o2e15k/article70929045.ece/alternates/LANDSCAPE_1200/2303_1_5_2026_18_13_19_1_KODAGUGRADUATION.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/sustainable-healthcare-practices-key-to-future-says-icmr-expert/article70928244.ece",
-    "time": "2026-05-01T18:29:06.000Z"
   },
   {
     "cat": "Sports",
@@ -619,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-orange-cap-kl-rahul-leapfrogs-abhishek-sharma-vaibhav-sooryavanshi-to-the-top/articleshow/130683613.cms",
     "time": "2026-05-01T17:48:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amid traffic woes on Mumbai-Pune highway, Maharashtra govt. inaugurates ‘Missing Link’ project",
-    "desc": "As the long-awaited project was thrown open by Chief Minister Devendra Fadnavis, the inauguration took some shine away as commuters got stuck for nearly three hours in and around Bhor Ghat stretch of the expressway; the project has found a place in the Guinness Book of World Records",
-    "img": "https://th-i.thgim.com/public/incoming/krt865/article70929636.ece/alternates/LANDSCAPE_1200/PTI05_01_2026_000404B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/amid-traffic-woes-on-mumbai-pune-highway-maharashtra-govt-inaugurates-missing-link-project/article70929418.ece",
-    "time": "2026-05-01T17:42:48.000Z"
   },
   {
     "cat": "Sports",
@@ -691,51 +763,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/we-can-go-all-the-way-ayush-shetty-after-india-storm-into-thomas-cup-semis/articleshow/130680850.cms",
     "time": "2026-05-01T14:54:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yashasvi Jaiswal creates first-ball six record but Starc has the last laugh",
-    "desc": "Yashasvi Jaiswal etched his name in IPL history by hitting a first-ball six off Mitchell Starc, marking his fourth such instance. This feat placed him atop the list for most first-ball sixes in IPL innings. However, his explosive start was cut short as Starc dismissed him on the third ball, and Rajasthan Royals faced early pressure.",
-    "img": "https://static.toiimg.com/photo/msid-130680328,imgsize-145474.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-yashasvi-jaiswal-creates-first-ball-six-record-but-mitchell-starc-has-the-last-laugh/articleshow/130680336.cms",
-    "time": "2026-05-01T14:35:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anti-climax in Jaipur! Starc vs Sooryavanshi fizzles out as Jamieson steals the show",
-    "desc": "Kyle Jamieson stole the spotlight in the IPL 2026 clash between Delhi Capitals and Rajasthan Royals, dismissing teenage sensation Vaibhav Sooryavanshi early. Mitchell Starc also took a wicket on his season debut, but Jamieson's crucial strike prevented the anticipated duel with Sooryavanshi from materialising, giving DC early control.",
-    "img": "https://static.toiimg.com/photo/msid-130680257,imgsize-51370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rr-vs-dc-anti-climax-in-jaipur-starc-vs-sooryavanshi-fizzles-out-as-jamieson-steals-the-show/articleshow/130680261.cms",
-    "time": "2026-05-01T14:25:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Medal assured! India crush Chinese Taipei 3-0 to storm into Thomas Cup semis",
-    "desc": "India secured a commanding 3-0 victory over Chinese Taipei to storm into the Thomas Cup semifinals, guaranteeing at least a bronze medal. Lakshya Sen ignited the charge with a comeback win, followed by a dominant doubles performance from Satwiksairaj Rankireddy and Chirag Shetty. Ayush Shetty sealed the tie with a composed straight-game victory.",
-    "img": "https://static.toiimg.com/photo/msid-130678719,imgsize-99962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/medal-assured-india-crush-chinese-taipei-3-0-to-storm-into-thomas-cup-semis/articleshow/130678424.cms",
-    "time": "2026-05-01T12:45:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Never dreamt of this’: KL Rahul stunned by Sooryavanshi’s audacious hitting",
-    "desc": "KL Rahul lauded Rajasthan Royals' 15-year-old Vaibhav Sooryavanshi, highlighting his phenomenal rise as a testament to T20 cricket's evolution. Sooryavanshi's fearless approach and exceptional batting, including two centuries at a young age, showcase the new generation's aggressive mindset, a trend amplified by the IPL.",
-    "img": "https://static.toiimg.com/photo/msid-130677505,imgsize-1280563.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-never-dreamt-of-this-kl-rahul-stunned-by-vaibhav-sooryavanshis-audacious-hitting/articleshow/130677300.cms",
-    "time": "2026-05-01T12:01:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If he is 35-36 years old, so what?': Sehwag calls for Bhuvneshwar’s return to India setup",
-    "desc": "Virender Sehwag champions Bhuvneshwar Kumar's return to the Indian team, citing his \"vintage\" form. The \"swing king\" recently became the first Indian pacer to bag 350 T20 wickets, leading the Purple Cap race with 17 wickets. Sehwag lauded his sharp bowling against top batters, urging selectors to consider him for the T20 format.",
-    "img": "https://static.toiimg.com/photo/msid-130675536,imgsize-28122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/if-he-is-35-36-years-old-so-what-sehwag-calls-for-bhuvneshwars-return-to-india-setup/articleshow/130675534.cms",
-    "time": "2026-05-01T10:27:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -855,15 +882,6 @@ const newsData_en = [
     "time": "2026-04-30T12:46:06.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. seeks international help to reopen Strait of Hormuz as crude prices surge",
-    "desc": "U.S. President Donald Trump is slated to receive a briefing on April 30 on plans for a series of fresh military ‌strikes on Iran in hopes of making Iran more flexible on nuclear issues in negotiations",
-    "img": "https://th-i.thgim.com/public/incoming/sm7byi/article70924513.ece/alternates/LANDSCAPE_1200/2026-04-29T003021Z_123317492_RC2ZFKARPSVH_RTRMADP_3_USA-TRUMP-MIGRATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-seeks-international-help-to-reopen-strait-of-hormuz-as-crude-prices-surge/article70924412.ece",
-    "time": "2026-04-30T11:53:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Grand Christmas Ball today in Chennai",
     "desc": "The soiree is organised by Anglo-Indians but by no means restricted to them. In these times of dwindling Anglo-Indian presence even in enclaves with a distinctive Anglo-Indian flavour, this event signifies an effort to preserve a cultural tradition that has enriched Chennai",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/a-small-fledgling-library-in-chennai-residents-donate-books-shopkeepers-watch-over-it/article70316160.ece",
     "time": "2026-04-30T09:51:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Michael’ movie review: An opaque look at the man in the mirror",
-    "desc": "By ending the biopic with ‘Bad’, Antoine Fuqua delivers a disappointing look at the life of the King of Pop, revealing little about the person behind the explosive music and electric dance numbers, who is brilliantly brought to life by Jaafar Jackson",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/au69sa/article70904731.ece/alternates/LANDSCAPE_1200/Michael.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/michael-movie-review-jaafar-jackson-antoine-fuqua-biopic/article70904674.ece",
-    "time": "2026-04-30T09:09:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump warns Iran better 'get smart soon' and accept nuclear deal",
-    "desc": "U.S. could extend its naval blockade of Iran for months more, oil executives were told in a meeting with Mr. Trump, an official said, after press reports that he had rejected Iran's latest proposed deal to reopen the Strait of Hormuz.",
-    "img": "https://th-i.thgim.com/public/incoming/enztcy/article70921876.ece/alternates/LANDSCAPE_1200/2026-04-29T115533Z_1242181967_RC2RWKAXU6AQ_RTRMADP_3_USA-TRUMP-MEDIA-LITIGATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-warns-iran-better-get-smart-soon-and-accept-nuclear-deal/article70921854.ece",
-    "time": "2026-04-30T09:02:42.000Z"
   }
 ];
