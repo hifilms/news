@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Two FIRs against defector MP Sandeep Pathak? Punjab cops won’t say",
+    "desc": "Two FIRs, reportedly under non-bailable charges, have been filed against Rajya Sabha MP Sandeep Pathak in Punjab, shortly after he switched from AAP to BJP. Political leaders from BJP and SAD have decried the move as \"political vendetta\" and an attempt to intimidate party members. Security was heightened at Pathak's Delhi residence.",
+    "img": "https://static.toiimg.com/photo/msid-130724152,imgsize-742773.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/two-firs-against-defector-mp-pathak-punjab-cops-wont-say/articleshow/130724145.cms",
+    "time": "2026-05-02T21:10:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "4.88 crore people voted in Tamil Nadu",
+    "desc": "Tamil Nadu witnessed a record 85.1% voter turnout in the recent assembly elections, with 4.88 crore citizens casting their ballots. Women voters significantly outnumbered men, continuing a trend from previous years. The Election Commission faced delays in releasing data but assured robust security and transparency for the upcoming vote counting on May 4.",
+    "img": "https://static.toiimg.com/photo/msid-130724124,imgsize-959983.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/election-commission-releases-final-data-4-88-crore-people-voted-in-tamil-nadu/articleshow/130724115.cms",
+    "time": "2026-05-02T21:04:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of counting, TMC &amp; BJP spar over EVM security",
+    "desc": "Ahead of Bengal's vote counting, Trinamool and BJP traded accusations over EVM strongroom security. TMC alleged CCTV blackouts in North 24 Parganas, while BJP pointed to alleged unauthorized access and attempted breaches in Salt Lake and Burdwan. Both parties raised concerns about the integrity of the storage facilities.",
+    "img": "https://static.toiimg.com/photo/msid-130724107,imgsize-1618233.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-ahead-of-counting-tmc-bjp-spar-over-evm-security/articleshow/130724099.cms",
+    "time": "2026-05-02T20:56:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘It will happen’",
+    "desc": "Mukesh Khanna, who is best known for his iconic roles as Shaktimaan and Bhishma Pitamah, may be 67, but his views on marriage, relationships and life remain deeply rooted in spirituality and personal conviction. In a recent conversation, the veteran actor opened up about why he never married, his belief in destiny, and why he rejects the idea of masculinity being tied to multiple relationships.",
+    "img": "https://static.toiimg.com/photo/msid-130724101,imgsize-28528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-on-being-single-at-67-the-woman-im-destined-to-marry-exists-somewherewhen-destiny-brings-us-together-it-will-happen/articleshow/130724093.cms",
+    "time": "2026-05-02T20:50:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government notifies FDI changes on China funds",
+    "desc": "India has eased foreign investment rules, allowing up to 100% FDI in insurance and relaxing norms for investments from neighbouring countries. Companies with up to 10% Chinese holding can now invest via the automatic route, though entities registered in China itself are excluded. These changes aim to boost capital inflows amidst a weakening rupee.",
+    "img": "https://static.toiimg.com/photo/msid-130724069,imgsize-369084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/government-notifies-fdi-changes-on-china-funds/articleshow/130724067.cms",
+    "time": "2026-05-02T20:26:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What did the U.S. Supreme Court change in Louisiana?",
+    "desc": "Why did Louisiana redraw districts, creating a new Black-majority district? How did Louisiana’s situation bring two legal problems into direct collision? What did the Court decide about the Voting Rights Act? What are the implications and concerns?",
+    "img": "https://th-i.thgim.com/public/incoming/qbl0og/article70933205.ece/alternates/LANDSCAPE_1200/Supreme_Court_21344.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/what-did-the-us-supreme-court-change-in-louisiana/article70932805.ece",
+    "time": "2026-05-02T20:17:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MP tourism launched cruise despite high-wind forecast",
+    "desc": "Tragedy struck at Bargi Dam as a cruise, reportedly launched despite severe wind warnings, claimed 11 lives, including children. Officials revealed forecasts predicted winds far exceeding safety limits for water sports. While other water activities in the state were suspended due to similar alerts, this operation proceeded, sparking criticism and allegations of neglect within the tourism department.",
+    "img": "https://static.toiimg.com/photo/msid-130724046,imgsize-1704710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bargi-dam-tragedy-mp-tourism-launched-cruise-despite-high-wind-forecast/articleshow/130724038.cms",
+    "time": "2026-05-02T20:14:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why did the UAE quit OPEC and OPEC+?",
+    "desc": "What explains the years of simmering competition between Riyadh and Abu Dhabi? How will the UAE’s decision impact oil prices? How has its decision to leave impacted OPEC and OPEC+? Will this move benefit India and if so, how?",
+    "img": "https://th-i.thgim.com/public/incoming/lrs1cn/article70933202.ece/alternates/LANDSCAPE_1200/2026-05-02T141420Z_1940881137_RC2MZ7AO5ACJ_RTRMADP_3_OPEC-MEETING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-did-the-uae-quit-opec-and-opec/article70932811.ece",
+    "time": "2026-05-02T20:09:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Relationship with Rajesh Khanna ‘was not a mistake’",
+    "desc": "Anita Advani revisited her deeply personal relationship with the late superstar Rajesh Khanna, saying she holds “no regrets” and would “repeat it again” if given a chance. In a recent interaction, she spoke about their time together, his personality, and the emotional bond they shared. Despite the passage of time, Anita revealed she continues to hold on to memories of the superstar.",
+    "img": "https://static.toiimg.com/photo/msid-130724006,imgsize-34600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anita-advani-relationship-with-rajesh-khanna-was-not-a-mistake-no-regrets-id-repeat-itits-about-who-you-wake-up-with/articleshow/130723991.cms",
+    "time": "2026-05-02T20:07:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Election Commission scraps Falta election, orders repolling on May 21",
+    "desc": "Bengal's electoral landscape has shifted as the Election Commission cancelled polling in Falta constituency due to widespread EVM tampering. A repoll is set for May 21, making it a unique post-result election. Allegations of threats against villagers and the arrest of a candidate's aides have heightened tensions, focusing attention on the remaining seats to decide the state's next government.",
+    "img": "https://static.toiimg.com/photo/msid-130723924,imgsize-1491018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-election-commission-scraps-falta-election-orders-repolling-on-may-21/articleshow/130723855.cms",
+    "time": "2026-05-02T19:52:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "83.96% men, 86.2% women voted at polling stations in Assembly poll across Tamil Nadu: EC",
+    "desc": "A total of 4,87,98,833 voters out of 5,73,43,291 turned up to exercise their franchise on April 23 in T.N. Assembly polls; total votes polled may go up as the current figures do not include postal ballots or senior citizens who voted through Form 12D",
+    "img": "https://th-i.thgim.com/public/incoming/og5hk1/article70933177.ece/alternates/LANDSCAPE_1200/DSC_1048.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/8396-men-862-women-voted-at-polling-stations-in-assembly-poll-across-tamil-nadu-ec/article70932771.ece",
+    "time": "2026-05-02T19:26:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why the biggest ‘winners’ in these assembly elections may not even be political parties",
+    "desc": "Millions are at stake on Polymarket, a prediction platform, as Indian assembly election results loom. Over $20 million is tied to Tamil Nadu's outcome alone, with significant bets also placed on West Bengal, Kerala, Assam, and Puducherry. Despite Indian law prohibiting such markets, users leverage crypto and VPNs to participate, showcasing a growing trend in crowd-sourced forecasting.",
+    "img": "https://static.toiimg.com/photo/msid-130723758,imgsize-1652555.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-the-biggest-winners-in-these-assembly-elections-may-not-even-be-political-parties/articleshow/130723707.cms",
+    "time": "2026-05-02T19:24:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Both central, state officers at counting centres, Election Commission tells Supreme Court",
+    "desc": "The Supreme Court dismissed a Trinamool Congress plea challenging the Election Commission's deployment of counting staff. The EC assured the court that both central and state government employees would be assigned to counting tables to ensure balance, refuting claims of bias. The court accepted the EC's assurance and dismissed the petition.",
+    "img": "https://static.toiimg.com/photo/msid-130723662,imgsize-1746420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-both-central-state-officers-at-counting-centres-election-commission-tells-supreme-court/articleshow/130723613.cms",
+    "time": "2026-05-02T19:13:16.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Firing outside Salman Khan’s house was an attempt to kill him’",
     "desc": "The personal bodyguard of Bollywood star Salman Khan has told a special court in Mumbai that the April 2024 firing outside the actor’s residence was “an attempt to kill him.” The trial in the case began last month, with the bodyguard—also the complainant—deposing as the first witness. The bodyguard clarified that at the time of the incident, Salman Khan was in his bedroom on the first floor.",
@@ -54,6 +171,15 @@ const newsData_en = [
     "time": "2026-05-02T18:08:44.000Z"
   },
   {
+    "cat": "World",
+    "title": "Israel-Iran war LIVE: Iran military official says renewed war with U.S. 'likely'",
+    "desc": "The United States is warning shipping companies that they could face sanctions for making payments to Iran to safely pass through the Strait of Hormuz; Donald Trump said on May 1, that he was \"not satisfied\" with a new Iranian negotiating proposal",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece",
+    "time": "2026-05-02T17:36:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'Subversion of democratic process': EC orders fresh polling in West Bengal's Falta constituency on May 21",
     "desc": "The Election Commission ordered a repoll in Falta constituency on May 21 due to alleged subversion of the democratic process, following BJP claims of EVM tampering. This decision comes amid heightened political tensions in the Diamond Harbour region. Meanwhile, the Supreme Court declined a TMC plea challenging the deployment of central government staff for vote counting.",
@@ -61,6 +187,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/subversion-of-democratic-process-ec-orders-fresh-polling-in-west-bengals-falta-constituency-on-may-21/articleshow/130720849.cms",
     "time": "2026-05-02T17:27:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "OPEC",
+    "desc": "The cartel, already grappling with changes in the global energy landscape, geopolitical tensions, and declining influence, faces a litmus test with the exit of the UAE, one of its top oil producers with capacity to influence the market",
+    "img": "https://th-i.thgim.com/public/incoming/pcz3cm/article70932956.ece/alternates/LANDSCAPE_1200/2018-09-30T142233Z_1036424037_RC1E9207A110_RTRMADP_3_SAUDI-GDP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/opec-cracks-in-the-oil-crown/article70932960.ece",
+    "time": "2026-05-02T17:21:43.000Z"
   },
   {
     "cat": "Politics",
@@ -99,15 +234,6 @@ const newsData_en = [
     "time": "2026-05-02T16:24:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026",
-    "desc": "Noor returned excellent figures of 2/26 in four overs while Anshul Kamboj grabbed 3/32, even as Naman Dhir top-scored for MI with 57 off 37 balls in an insipid display by the visitors after winning the toss.",
-    "img": "https://th-i.thgim.com/public/incoming/z0g84x/article70932924.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_6_66.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-mi-vs-csk-match-updates-may-2-2026/article70932381.ece",
-    "time": "2026-05-02T16:24:21.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Three names in race for CM post if UDF wins, says Congress leader PJ Kurien",
     "desc": "Veteran Congress leader PJ Kurien stated that only three names are under serious consideration for the Chief Minister post if the UDF wins in Kerala. He emphasized that the party high command will make the final decision after consulting state leadership and MLAs, ensuring unanimous acceptance.",
@@ -124,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-on-growing-older-warns-about-post-retirement-life-after-60-being-dependent-physically-or-financially-is-worse-than-hell/articleshow/130719954.cms",
     "time": "2026-05-02T16:05:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "May 4 is day of reckoning for Kerala Congress factions",
-    "desc": "For the Jose K. Mani-led Kerala Congress (M), retaining crucial seats such as Pala is of prime importance. With P.J. Joseph stepping away from the electoral fray, Kerala Congress needs a strong showing to reinforce its independent identity within the UDF",
-    "img": "https://th-i.thgim.com/public/incoming/4wp0p7/article70932541.ece/alternates/LANDSCAPE_1200/80687_26_3_2026_18_48_57_3_J1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-may-4-is-day-of-reckoning-for-kerala-congress-factions/article70932177.ece",
-    "time": "2026-05-02T15:59:33.000Z"
   },
   {
     "cat": "Sports",
@@ -243,15 +360,6 @@ const newsData_en = [
     "time": "2026-05-02T14:16:39.000Z"
   },
   {
-    "cat": "World",
-    "title": "Israel-Iran war LIVE: Iran military official says renewed war with U.S. 'likely'",
-    "desc": "The United States is warning shipping companies that they could face sanctions for making payments to Iran to safely pass through the Strait of Hormuz; Donald Trump said on May 1, that he was \"not satisfied\" with a new Iranian negotiating proposal",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece",
-    "time": "2026-05-02T14:14:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'The Devil Wears Prada 2' features 42 celebrity cameos",
     "desc": "Two decades since its debut, 'The Devil Wears Prada 2' makes a dazzling comeback featuring the beloved original cast and an impressive 42 celebrity appearances. With Lady Gaga lighting up Milan Fashion Week and a slew of fashion legends and journalists mingling at Miranda Priestly's glamorous soirées, this sequel is a star-studded spectacle that fashion enthusiasts won’t want to miss.",
@@ -279,24 +387,6 @@ const newsData_en = [
     "time": "2026-05-02T13:37:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Date and time of result for Assam, Kerala, Tamil Nadu, West Bengal, Puducherry, exit poll predictions, where and how to watch and other details",
-    "desc": "Counting for the 2026 Assembly elections in Assam, Kerala, Tamil Nadu, West Bengal, and Puducherry begins today, May 4th. The results will determine the fate of 824 seats across these five key regions. Exit polls suggest a fragmented verdict with close contests in West Bengal and Kerala, while predicting BJP wins in Assam and the NDA retaining power in Puducherry.",
-    "img": "https://static.toiimg.com/photo/msid-130714854,imgsize-33616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assembly-election-result-2026-date-and-time-of-result-for-assam-kerala-tamil-nadu-west-bengal-puducherry-exit-poll-predictions-where-and-how-to-watch-and-other-details/articleshow/130714751.cms",
-    "time": "2026-05-02T13:34:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Harassed by wife, sister-in-law': Inside shocking death of 30-yr-old Delhi judge who was found hanging",
-    "desc": "A 30-year-old judicial officer, Aman Kumar Sharma, died by suicide in Delhi, his family alleging harassment by his wife, also a judicial officer, and her IAS sister. Sharma had reportedly expressed distress to his father, citing marital conflicts and interference. Police are investigating the circumstances, including the family's serious allegations.",
-    "img": "https://static.toiimg.com/photo/msid-130720034,imgsize-1138964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-judge-aman-kumar-sharma-found-hanging-police-say-death-by-suicide-in-safdarjung/articleshow/130717428.cms",
-    "time": "2026-05-02T13:31:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Saikia",
     "desc": "The BCCI will announce the IPL-2026 playoff venues within two days, according to secretary Devajit Saikia. While the exact locations remain undisclosed, the final is scheduled for May 31. Last year's playoffs were held in Mullanpur and Ahmedabad, with Kolkata initially slated for the final.",
@@ -304,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoffs-venues-to-be-decided-in-a-day-or-two-saikia/articleshow/130717360.cms",
     "time": "2026-05-02T13:21:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pinarayi Vijayan's welfare rule -- Will it fare well or get a farewell?",
-    "desc": "Kerala's upcoming election sees the LDF government banking on its development model and welfare gains for a third consecutive term, a feat rarely achieved due to anti-incumbency. Despite high SDG rankings, the state faces challenges in gender equality and economic growth, while migration and wage gaps emerge as key voter concerns.",
-    "img": "https://static.toiimg.com/photo/msid-130716777,imgsize-867491.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-assembly-election-results-2026-pinarayi-vijayans-welfare-rule-will-it-fare-well-or-get-a-farewell/articleshow/130713479.cms",
-    "time": "2026-05-02T13:15:00.000Z"
   },
   {
     "cat": "Business",
@@ -340,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indias-t20-world-cup-squad-why-were-kashvee-gautam-and-amanjot-kaur-not-available-for-selection/articleshow/130716600.cms",
     "time": "2026-05-02T12:42:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Key fights to watch from Jalukbari to Jorhat",
-    "desc": "The high-stakes Assam assembly elections are set for results on May 4, with the BJP aiming for a third consecutive term under Chief Minister Himanta Biswa Sarma. Exit polls suggest an edge for the BJP, while the Congress, led by Gaurav Gogoi, seeks a comeback. Key constituencies like Jalukbari and Jorhat witnessed closely watched contests.",
-    "img": "https://static.toiimg.com/photo/msid-130714849,imgsize-1545886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-election-results-2026-key-fights-to-watch-from-jalukbari-to-jorhat/articleshow/130714650.cms",
-    "time": "2026-05-02T12:41:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two-phase census 2027 in UP to begin in May with 5 lakh personnel deployment",
-    "desc": "Uttar Pradesh gears up for Census 2027, a massive two-phase undertaking starting May 2026. Nearly five lakh personnel will collect housing data and individual demographic details, including caste for the first time since 1931. A new online self-enumeration option aims to boost efficiency for this crucial policy-planning exercise.",
-    "img": "https://static.toiimg.com/photo/msid-130716623,imgsize-840167.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/two-phase-census-2027-in-up-to-begin-may-with-5-lakh-personnel-deployment/articleshow/130716566.cms",
-    "time": "2026-05-02T12:35:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -511,24 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/remembering-raghu-rai-five-photographers-explore-the-enduring-legacy-of-the-guru-with-the-camera/article70928157.ece",
     "time": "2026-05-02T10:25:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Trishala Dutt says acting was never her passion, calls Sanjay Dutt a regular dad",
-    "desc": "Trishala Dutt opened up about her earlier desire to enter Bollywood, attributing it to a yearning for a deeper bond with her father, Sanjay Dutt, rather than a true love for acting. Ultimately, she pursued a career in psychotherapy, motivated by her own challenges and her father's support in embracing her authentic path.",
-    "img": "https://static.toiimg.com/photo/msid-130714177,imgsize-62366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/trishala-dutt-reveals-acting-was-never-her-passion-wanted-time-with-sanjay-dutt-hes-like-any-other-father/articleshow/130714177.cms",
-    "time": "2026-05-02T10:19:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Radhikka Madan’s ‘Sanaa’ may finally release this year after long delay",
-    "desc": "Fans of Radhikka Madan can finally breathe a sigh of relief as her much-awaited movie 'Sanaa' is set to hit theaters this year after facing numerous delays. Director Sudhanshu Saria shared that the team chose to take their time, focusing on a 'right' release rather than a rushed one, ensuring that the film finds its ideal platform.",
-    "img": "https://static.toiimg.com/photo/msid-130713865,imgsize-25878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/radhikka-madans-sanaa-may-finally-release-this-year-after-long-delay/articleshow/130713865.cms",
-    "time": "2026-05-02T09:52:33.000Z"
   },
   {
     "cat": "Business",
@@ -765,15 +810,6 @@ const newsData_en = [
     "time": "2026-05-02T01:57:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Over the moon excited about India, says Tim Cook",
-    "desc": "Apple's India business is booming, with double-digit growth across iPhones, iPads, and Macs. CEO Tim Cook expressed immense excitement about the market's potential, highlighting India as the second-largest smartphone and third-largest PC market globally. Growth is fueled by first-time buyers and expanding reach into smaller cities, with analysts predicting significant market share gains.",
-    "img": "https://static.toiimg.com/photo/msid-130708571,imgsize-8802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/over-the-moon-excited-about-india-says-tim-cook/articleshow/130708558.cms",
-    "time": "2026-05-02T01:55:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Salah 'deserves big send-off', says Liverpool boss Slot",
     "desc": "The Egypt forward, who will leave Anfield at the end of the campaign, was forced off in last weekend's 3-1 win at home to Crystal Palace, prompting fears he may have played his final game for the Reds",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-munaf-patel-backs-bowlers-confirms-starc-availability-before-rr-clash/article70926306.ece",
     "time": "2026-04-30T20:55:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Apartment price appreciates 8-20% annually in Jan-Mar across top 8 cities: JLL",
-    "desc": "On apartment sales, the data showed that sales of flats, costing below ₹50 lakh each, fell 24% in January-March to 20,269 units. Apartments priced above ₹1 crore were in demand, with sales increasing 30% to 50,362 units",
-    "img": "https://th-i.thgim.com/public/incoming/uq0wvp/article70926294.ece/alternates/LANDSCAPE_1200/DSC3068.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/apartment-price-appreciates-8-20-annually-in-jan-mar-across-top-8-cities-jll/article70926290.ece",
-    "time": "2026-04-30T20:09:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Supreme Court defers hearing on PIL alleging banking fraud by Anil Ambani-led ADAG to May 8",
-    "desc": "At the outset, Solicitor General Tushar Mehta, appearing for the CBI and the Enforcement Directorate, said the two central probe agencies have filed fresh status reports in pursuance of directions issued on March 23 in the case",
-    "img": "https://th-i.thgim.com/public/incoming/jpyg03/article70924220.ece/alternates/LANDSCAPE_1200/SBI-moves-SupreG8RFSOCE9.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-defers-hearing-on-pil-alleging-banking-fraud-by-anil-ambani-led-adag-to-may-8/article70924160.ece",
-    "time": "2026-04-30T13:06:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Increasing coverage, growing distress",
-    "desc": "Rising insurance coverage has not increased hospitalisation or reduced out-of-pocket expenditure, as more people shift to private sector care with higher costs; govt.-funded health insurance schemes are failing to protect households from financial hardship while disproportionately benefiting the better-off",
-    "img": "https://th-i.thgim.com/public/news/national/xigdjf/article70921971.ece/alternates/LANDSCAPE_1200/iStock-968134732.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/increasing-coverage-growing-distress/article70920470.ece",
-    "time": "2026-04-30T12:55:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How AI helped promote community-led development in Rajasthan",
-    "desc": "A project to improve water resilience in two Rajasthan districts strengthened existing government efforts by using AI to improve last-mile responsiveness. The application was also lightweight enough to sit inside any large program that depends on frontline behaviour change and local coordination",
-    "img": "https://th-i.thgim.com/public/opinion/op-ed/ryp8u1/article68047471.ece/alternates/LANDSCAPE_1200/iStock-1688632180.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/how-ai-helped-promote-community-led-development-in-rajasthan/article70908118.ece",
-    "time": "2026-04-30T12:46:06.000Z"
   }
 ];
