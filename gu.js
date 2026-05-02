@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ન તો EVM કે ન તો બેલેટ પેપર... દુનિયાના આ જગ્યાએ, ફક્ત હાથ ઉંચા કરીને જ ચૂંટાય છે સરકાર, જાણો કેમ?",
+    "desc": "શું તમે જાણો છો કે દુનિયામાં એક એવી જગ્યા છે જ્યાં લોકો મતદાન કરવા માટે બેલેટ પેપર કે EVMનો ઉપયોગ કરતા નથી. અહીં, લોકો પોતાના નેતા કે સરકાર પસંદ કરવા માટે ખુલ્લા મેદાનમાં હાથ ઉંચા કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/neither-evm-nor-ballot-paper-in-this-part-of-the-world-the-government-is-elected-only-by-raising-hands-know-why-476065 ",
+    "time": "2026-05-02T15:07:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "જેનો ડર હતો... તે થઈ ગયું કે શું ? મરીન કમાન્ડરનો દાવો, ઈરાન છોડવા જઈ રહ્યું છે &amp;#039;હાર્ટ એટેક&amp;#039; બોમ્બ !",
+    "desc": "શું ઈરાન ટૂંક સમયમાં કોઈ મોટા બોમ્બનું પરીક્ષણ કરવાની યોજના બનાવી રહ્યું છે? ઈરાનના નૌકાદળના ટોચના કમાન્ડર એડમિરલ શાહરામ ઈરાનીના નિવેદન બાદ આ પ્રશ્ન ઉભો થયો છે. ઈરાની રાજ્ય મીડિયા સાથેની મુલાકાતમાં, ત્રણ મહત્વપૂર્ણ ટિપ્પણીઓ કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/marine-commander-claims-iran-is-going-to-drop-heart-attack-bomb-476063 ",
+    "time": "2026-05-02T14:19:19.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Vodafone-Idea: 50000 કરોડ નહીં મળ્યા તો ડૂબી જશે દિગ્ગજ કંપની? ભારતને કેમ છે Viની જરૂર ? અદાણી, જિંદાલ સહિત અનેક દિગ્ગજો મેદાનમાં, જાણો",
     "desc": "વોડાફોન-આઈડિયા આજે એવા તબક્કે છે જ્યાં તે શાનદાર પુનરાગમન કરશે અથવા કોર્પોરેટ ઇતિહાસની સૌથી મોટી નિષ્ફળતાઓમાંની એક બનશે. ₹50,000 કરોડનું આ ભંડોળ ફક્ત પૈસા જ નહીં, પરંતુ આ બ્રાન્ડ પર દુનિયાનો વિશ્વાસ રજૂ કરશે. શું આપણે એક નવો ટેલિકોમ સુલતાન જોશું? રાહ જુઓ, કારણ કે આ ટેલિકોમ ગેમનું અંતિમ પરિણામ હજુ જાહેર થયું નથી.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/will-adani-acquire-more-giant-companies-will-there-be-a-stir-in-the-telecom-market-find-out-476040 ",
-    "time": "2026-05-02T12:59:19.000Z"
+    "time": "2026-05-02T13:03:51.000Z"
   },
   {
     "cat": "Politics",
@@ -601,24 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/major-terrorist-attack-in-mali-defense-minister-death-serial-blasts-taking-place-across-the-country-475015 ",
     "time": "2026-04-26T17:40:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "2050 સુધીમાં, શહેરોમાં વરસશે આગ, વર્લ્ડ બેંકની ચેતવણી, 700% વધી જશે ગરમીથી પીડાતા ગરીબોની સંખ્યા",
-    "desc": "વિશ્વભરના શહેરો માટે, ગ્લોબલ વોર્મિંગ હવે માત્ર એક ચેતવણી નથી, પરંતુ એક શાંત કિલર છે. તાજેતરના વિશ્વ બેંકના રિપોર્ટમાં ભવિષ્યનું ભયાનક ચિત્ર રજૂ કરવામાં આવ્યું છે. અહેવાલ મુજબ, 2050 સુધીમાં, જીવલેણ ગરમીનો ભોગ બનેલા ગરીબ શહેરી રહેવાસીઓની સંખ્યામાં 700 ટકાનો વધારો થશે. આનો અર્થ એ છે કે આજ કરતાં સાત ગણા વધુ લોકો ગરમીનો ભોગ બનવા મજબૂર થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/by-2050-cities-will-be-scorched-by-fire-world-bank-warns-number-of-poor-people-suffering-from-heatwaves-will-increase-by-700-percent-474971 ",
-    "time": "2026-04-26T12:45:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "&amp;#039;આજે રાત્રે થશે ગોળીઓનો વરસાદ...&amp;#039; ટ્રમ્પ પર હુમલા પહેલા આ વ્યક્તિએ કરી હતી ભવિષ્યવાણી ? ઘટના બાદ Video થયો વાયરલ",
-    "desc": "ડોનાલ્ડ ટ્રમ્પની હાજરીમાં બનેલી ફાયરિંગની ઘટના બાદ સોશિયલ મીડિયા પર એક વીડિયો ઝડપથી વાયરલ થઈ રહ્યો છે. જેમાં વ્હાઇટ હાઉસના પ્રેસ સેક્રેટરી કેરોલિન લેવિટ હુમલાના થોડા કલાકો પહેલા Shots Fired એટલે કે ગોળીબારનો ઉલ્લેખ કરતા જોવા મળે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/press-secretary-caroline-leavitt-statement-viral-after-shooting-on-donald-trump-474970 ",
-    "time": "2026-04-26T12:30:06.000Z"
   },
   {
     "cat": "Entertainment",

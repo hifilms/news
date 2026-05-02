@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why were Amanjot Kaur, Kashvee Gautam dropped from India's T20 World Cup 2026 squad?",
+    "desc": "India announced their women’s T20 World Cup 2026 squad on Saturday, May 2. However, ahead of that, two of the key cricketers, Kashvee Gautam and Amanjot Kaur, have been ruled out with injuries, as the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-were-amanjot-kaur-kashvee-gautam-dropped-from-india-s-t20-world-cup-2026-squad-2026-05-02-1039719",
+    "time": "2026-05-02T15:31:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ira Jadhav, 16-year-old sensation, becomes costliest player in T20 Mumbai Women’s League auction",
+    "desc": "The 16-year-old sensation Ira Jadhav, who made headlines last year by becoming India's first-ever triple-centurion in the U-19 cricket, emerged as the biggest buy at the inaugural T20 Mumbai Women’s League auction held in Mumbai....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ira-jadhav-16-year-old-teenage-sensation-becomes-costliest-player-in-t20-mumbai-womens-league-auction-2026-05-02-1039715",
+    "time": "2026-05-02T14:49:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kuldeep Kumar, thrown out of train in January, registers national record in Pole Vault",
+    "desc": "Kuldeep Kumar delivered a landmark performance in Bhubaneswar, setting a new national record in men’s pole vault with a clearance of 5.41 metres at the 1st Indian Indoor Open Combined Events and Pole Vault competition....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/kuldeep-kumar-thrown-out-of-train-in-january-registers-national-record-in-pole-vault-2026-05-02-1039713",
+    "time": "2026-05-02T14:36:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Rohit Sharma not playing vs Chennai Super Kings in IPL 2026? When will he be back batting?",
+    "desc": "Senior batter Rohit Sharma is yet to get back to full fitness, which ruled him out of the marquee clash against Chennai Super Kings in the IPL 2026. He has played the first four games...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rohit-sharma-not-playing-vs-chennai-super-kings-in-ipl-2026-when-will-he-be-back-batting-2026-05-02-1039710",
+    "time": "2026-05-02T13:49:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will Matheesha Pathirana play for KKR against Sunrisers Hyderabad in IPL 2026? Bowling coach shares update",
     "desc": "Sri Lanka international Matheesha Pathirana joined the Kolkata Knight Riders squad nearly two weeks ago, but he is yet to feature in the IPL 2026. He was available for the games against Rajasthan Royals and...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/he-can-surprise-r-ashwin-opines-on-ms-dhoni-s-availability-for-upcoming-clash-against-mumbai-indians-2026-05-02-1039668",
     "time": "2026-05-02T08:51:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MA Chidambaram Stadium in Chennai play?",
-    "desc": "The stage is set for the 44th game of the ongoing IPL (Indian Premier League) 2026. Arch-rivals Chennai Super Kings will take on Mumbai Indians at the MA Chidambaram Stadium in Chennai on May 2nd,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-mi-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-2026-05-02-1039664",
-    "time": "2026-05-02T08:04:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kyle Jamieson found in breach of IPL Code of Conduct, handed demerit point after RR clash",
-    "desc": "Delhi Capitals registered a brilliant victory against Rajasthan Royals in the 43rd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 1,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kyle-jamieson-found-in-breach-of-ipl-code-of-conduct-handed-demerit-point-after-rr-clash-2026-05-02-1039655",
-    "time": "2026-05-02T06:50:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-head record between two teams ahead of third T20I",
-    "desc": "The stage is set for the third and final T20I of the ongoing series between New Zealand and Bangladesh. The two sides have locked horns in two T20I games so far, with Bangladesh emerging victorious...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-nz-head-to-head-record-between-two-teams-ahead-of-third-t20i-2026-05-02-1039644",
-    "time": "2026-05-02T05:32:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We missed the trick': Riyan Parag weighs in on Rajasthan Royals' performance after loss against DC",
-    "desc": "The 43rd game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Delhi Capitals. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 1, and it was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/we-missed-the-trick-riyan-parag-weighs-in-on-rajasthan-royals-performance-after-loss-against-dc-2026-05-02-1039638",
-    "time": "2026-05-02T04:16:53.000Z"
   }
 ];

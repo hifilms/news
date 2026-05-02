@@ -151,14 +151,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/pakistani-actress-meera-alia-bhatt-mahesh-bhatt-harassment-claims-clarification_650196.html ",
     "time": "2026-04-23T05:46:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "আমার গ্রামে এখনও আমাকে মন্দিরে ঢুকতে দেয় না, কারণ আমি দলিত: বিস্ফোরক অভিযোগ 'পঞ্চায়েত' অভিনেতার",
-    "desc": "'পঞ্চায়েত' সিরিজের সিজন ৪-এর সেই নতুন 'সচিব জি', যাঁর অভিনয় অল্প সময়ের জন্য হলেও দর্শকদের নজর কেড়েছিল, সেই বিনোদ সূর্যবংশীর বাস্তব জীবন কোনো সিনেমার চিত্রনাট্যের চেয়ে কম যন্ত্রণাদায়ক নয়। সম্প্রতি এক সাক্ষাৎকারে নিজের জীবনের অন্ধকার অধ্যায় এবং জাতিভেদের চরম বাস্তব নিয়ে মুখ খুলেছেন এই অভিনেতা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/panchayat-actor-vinod-suryavanshi-casteism-poverty-struggle-story_650092.html ",
-    "time": "2026-04-22T14:05:41.000Z"
   }
 ];
