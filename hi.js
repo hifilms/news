@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Head-to-Head record ahead of game 44 in IPL 2026",
+    "desc": "Chennai Super Kings and Mumbai Indians are all set to take on each other in the 44th game of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the MA...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-mi-head-to-head-record-ahead-of-game-44-in-ipl-2026-2026-05-02-1039680",
+    "time": "2026-05-02T09:51:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He can surprise': R Ashwin opines on MS Dhoni's availability for upcoming clash against Mumbai Indians",
+    "desc": "Chennai Super Kings will be hosting arch-rivals Mumbai Indians in the 44th game of the ongoing IPL (Indian Premier League) 2026. The two sides will meet at the MA Chidambaram Stadium in Chennai on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/he-can-surprise-r-ashwin-opines-on-ms-dhoni-s-availability-for-upcoming-clash-against-mumbai-indians-2026-05-02-1039668",
+    "time": "2026-05-02T08:51:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at MA Chidambaram Stadium in Chennai play?",
+    "desc": "The stage is set for the 44th game of the ongoing IPL (Indian Premier League) 2026. Arch-rivals Chennai Super Kings will take on Mumbai Indians at the MA Chidambaram Stadium in Chennai on May 2nd,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-mi-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-2026-05-02-1039664",
+    "time": "2026-05-02T08:04:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kyle Jamieson found in breach of IPL Code of Conduct, handed demerit point after RR clash",
     "desc": "Delhi Capitals registered a brilliant victory against Rajasthan Royals in the 43rd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 1,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-announce-replacement-for-injured-shivam-mavi-sign-india-s-u19-world-cup-star-2026-05-01-1039617",
     "time": "2026-05-01T17:20:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is David Miller not playing for Delhi Capitals vs Rajasthan Royals in IPL 2026 clash in Jaipur?",
-    "desc": "Delhi Capitals have made multiple changes to their playing XI in their IPL 2026 clash against Rajasthan Royals. After the toss, captain Axar Patel explained that young opener Sahil Parakh has suffered a neck spasm,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-david-miller-not-playing-for-delhi-capitals-vs-rajasthan-royals-in-ipl-2026-clash-in-jaipur-2026-05-01-1039599",
-    "time": "2026-05-01T13:46:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ian Bishop analyses possible reasons behind Jasprit Bumrah, Suryakumar Yadav's struggle in IPL 2026",
-    "desc": "Mumbai Indians are currently ninth on the points table, with two wins to their name in eight games. They have made several changes to the bowling unit but are yet to find stability, which is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ian-bishop-analyses-possible-reasons-behind-jasprit-bumrah-suryakumar-yadav-s-struggles-in-ipl-2026-2026-05-01-1039582",
-    "time": "2026-05-01T11:46:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lankan cricketers arrested for bathroom filming of female doctors at private hotel",
-    "desc": "Sri Lankan cricketers continue to hog the headlines, unfortunately, for the off-field reasons. This time around, two Under-19 cricketers of the country have been arrested for secretly filming several female doctors bathing at a private...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lankan-cricketers-arrested-for-bathroom-filming-of-female-doctors-at-private-hotel-2026-05-01-1039543",
-    "time": "2026-05-01T06:07:02.000Z"
   }
 ];
