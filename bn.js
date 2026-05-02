@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "Children's Little Theatre (CLT) 75th Anniversary: শর্মিলা ঠাকুরের হাতেখড়ি এখানেই, পঁচাত্তরে চিল্ড্রেনস লিটল থিয়েটার: সত্যজিতের তুলিতে উজ্জ্বল ‘অবন মহল’",
+    "desc": "পঁচাত্তর বছরে পা দিল ছোটদের আনন্দের ঘর ‘চিল্ড্রেনস লিটল থিয়েটার’ (CLT)! সত্যজিৎ রায়ের আঁকা লোগো থেকে শর্মিলা ঠাকুরের অভিনয় জীবনের হাতেখড়ি— সিএলটি-র ঝুলিতে রয়েছে কতশত ইতিহাস। আগামী ৮ মে ২০২৬ থেকে শুরু হচ্ছে বছরব্যাপী হীরক জয়ন্তী উৎসব।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/clt-kolkata-75th-anniversary-satyajit-ray-sharmila-tagore_652102.html ",
+    "time": "2026-05-02T16:18:53.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "নর্মদায় নৌকাডুবি, মর্মান্তিক মৃত্যু ৯ জনের: শেষ মুহূর্তেও ছেলেকে বুকে জাপটে আগলে মা, ছবি দেখে কাঁদছে ভারত",
     "desc": "বৃহস্পতিবার বিকেলে প্রায় ৩০-৪০ জন যাত্রী নিয়ে মধ্যপ্রদেশ পর্যটন দফতরের একটি ক্রুজ জাহাজ নর্মদা নদীর ওপর নির্মিত বরগি বাঁধের জলাধারে ভ্রমণে বেরিয়েছিল। আবহাওয়া দফতরের তরফ থেকে 'ইয়েলো অ্যালার্ট' জারি থাকলেও এবং ঝোড়ো হাওয়ার পূর্বাভাস থাকলেও জাহাজটি মাঝ জলাধারে যাত্রা শুরু করে।",
@@ -25,6 +34,15 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/software-engineer-took-extreme-step-to-death-accusing-wife-of-infidelity_651838.html ",
     "time": "2026-05-01T09:52:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
   },
   {
     "cat": "Politics",
@@ -144,12 +162,12 @@ const newsData_bn = [
     "time": "2026-04-23T06:29:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'আমাকে কন্ট্রোল করতে চাইত, কথা না শোনায় চড়ও মেরেছে', মহেশের বিরুদ্ধে বিস্ফোরক অভিযোগ? মুখ খুললেন পাক অভিনেত্রী মীরা",
-    "desc": "\"আলিয়া আমার সাথেই ঘুমোত!\" পুরনো দিনের স্মৃতি হাতড়ে বিস্ফোরক দাবি পাকিস্তানি অভিনেত্রী মীরার। শুধু তাই নয়, মহেশ ভাটের বিরুদ্ধে ওঠা একদা নিজের আনা শারীরিক হেনস্থার অভিযোগ নিয়েও মুখ খোলেন। বলিউডের সেই দিনগুলো নিয়ে আর কী কী বললেন মীরা?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/pakistani-actress-meera-alia-bhatt-mahesh-bhatt-harassment-claims-clarification_650196.html ",
-    "time": "2026-04-23T05:46:47.000Z"
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

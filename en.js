@@ -1,21 +1,147 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Uttarakhand youth dies by suicide after alleging police harassment in video on social media",
-    "desc": "The video purportedly shows him describing physical assault by policemen and verbal abuse directed at his parents. He is seen pointing to injuries on his elbow and knee. The police say he was involved in an accident and was drunk. Senior officer says his allegations will be investigated.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-youth-dies-by-suicide-after-alleging-police-harassment-in-video-on-social-media/article70932302.ece",
-    "time": "2026-05-02T15:25:56.000Z"
+    "cat": "Entertainment",
+    "title": "'Firing outside Salman Khan’s house was an attempt to kill him’",
+    "desc": "The personal bodyguard of Bollywood star Salman Khan has told a special court in Mumbai that the April 2024 firing outside the actor’s residence was “an attempt to kill him.” The trial in the case began last month, with the bodyguard—also the complainant—deposing as the first witness. The bodyguard clarified that at the time of the incident, Salman Khan was in his bedroom on the first floor.",
+    "img": "https://static.toiimg.com/photo/msid-130722989,imgsize-53406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/firing-outside-salman-khans-galaxy-apartments-case-it-was-an-attempt-to-kill-him-says-bodyguard-in-court/articleshow/130722943.cms",
+    "time": "2026-05-02T18:35:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We are keeping it simple’: Gaikwad eyes playoff push after big win vs MI",
+    "desc": "Ruturaj Gaikwad led Chennai Super Kings to a crucial eight-wicket victory over Mumbai Indians, keeping their playoff hopes alive. His unbeaten 67, coupled with Anshul Kamboj's three-wicket haul, was pivotal. Gaikwad praised the team's resilience and the bowlers' ability to regain control. The win underscores CSK's determined approach to the tournament's business end.",
+    "img": "https://static.toiimg.com/photo/msid-130722939,imgsize-161282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-we-are-keeping-it-simple-ruturaj-gaikwad-eyes-playoff-push-after-big-win-vs-mi/articleshow/130722949.cms",
+    "time": "2026-05-02T18:34:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "I'll marry you: Vijayta recalled Kumar’s promise despite engagement",
+    "desc": "In Love Story, Vijayta Pandit and Kumar Gaurav played star-crossed lovers—and life imitated art. Vijayta shared that while shooting, their bond grew stronger and soon turned into a relationship. After the film’s massive success, she even turned down multiple film offers, choosing instead to focus on her personal life with Kumar Gaurav. However, their love story didn’t have a fairytale ending.",
+    "img": "https://static.toiimg.com/photo/msid-130722408,imgsize-44904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-will-marry-only-you-when-vijayta-pandit-recalled-kumar-gauravs-promise-despite-engagement-to-raj-kapoors-daughter-reema/articleshow/130722209.cms",
+    "time": "2026-05-02T18:15:24.000Z"
   },
   {
     "cat": "Politics",
-    "title": "2,792 MoUs inked at Vibrant Gujarat regional conference; expected to create 2.82 lakh jobs",
-    "desc": "Deputy Chief Minister Harsh Sanghavi says the focus will be on sectors that could generate jobs in tribal districts. He says the garment sector was part of this effort, with an aim to provide jobs to more than 25,000 women in tribal areas over the next two years.",
-    "img": "https://th-i.thgim.com/public/incoming/nizjmh/article70932705.ece/alternates/LANDSCAPE_1200/PTI05_02_2026_000122.jpg",
+    "title": "Jammu bridge collapse toll rises to three, 2 engineers suspended",
+    "desc": "Tragedy struck in Jammu's Thuther area as a collapsed bridge during repair work claimed three lives. Rescue operations recovered the bodies after a section of the structure gave way. Authorities have launched a probe, suspending two engineers and forming a committee to investigate the incident and prevent future mishaps. One worker and a rescuer were also injured.",
+    "img": "https://static.toiimg.com/photo/msid-130722351,imgsize-1954435.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-jammu-bridge-collapse-toll-rises-to-three-2-engineers-suspended/articleshow/130722300.cms",
+    "time": "2026-05-02T18:11:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ruturaj Gaikwad masterclass sinks MI as CSK keep playoff hopes alive",
+    "desc": "Chennai Super Kings secured a vital eight-wicket victory over Mumbai Indians, bolstered by a disciplined bowling attack led by Noor Ahmad and Anshul Kamboj. Ruturaj Gaikwad's unbeaten 67 anchored the chase, with strong support from Kartik Sharma, ensuring CSK's playoff hopes remain alive while pushing MI further down the table.",
+    "img": "https://static.toiimg.com/photo/msid-130722273,imgsize-162004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ruturaj-gaikwad-masterclass-sinks-mi-as-csk-keep-playoff-hopes-alive/articleshow/130722232.cms",
+    "time": "2026-05-02T18:09:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Warming Gulmarg turns to tech for four-season skiing future",
+    "desc": "Gulmarg's ski season faces an uncertain future due to shrinking winters and erratic snowfall. Authorities are fast-tracking plans for artificial snow-making systems and synthetic slopes to ensure the resort's viability. This initiative aims to reduce reliance on natural snow and extend skiing into a four-season activity, safeguarding its legacy.",
+    "img": "https://static.toiimg.com/photo/msid-130722278,imgsize-1324210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-warming-gulmarg-turns-to-tech-for-four-season-skiing-future/articleshow/130722215.cms",
+    "time": "2026-05-02T18:08:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Subversion of democratic process': EC orders fresh polling in West Bengal's Falta constituency on May 21",
+    "desc": "The Election Commission ordered a repoll in Falta constituency on May 21 due to alleged subversion of the democratic process, following BJP claims of EVM tampering. This decision comes amid heightened political tensions in the Diamond Harbour region. Meanwhile, the Supreme Court declined a TMC plea challenging the deployment of central government staff for vote counting.",
+    "img": "https://static.toiimg.com/photo/msid-130721234,imgsize-544420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/subversion-of-democratic-process-ec-orders-fresh-polling-in-west-bengals-falta-constituency-on-may-21/articleshow/130720849.cms",
+    "time": "2026-05-02T17:27:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NGT order warns of fines to southern States if clean air funds are not utilised",
+    "desc": "The tribunal has ordered all five southern States and the Union Territory of Puducherry to ensure time-bound implementation of their State Action Plans; these directions assume significance as it puts the spotlight on air pollution governance in the southern States — an issue that has largely been dominated by the northern regions, particularly Delhi-NCR",
+    "img": "https://th-i.thgim.com/public/incoming/6o890w/article70931520.ece/alternates/LANDSCAPE_1200/_KMK2026.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gujarat/2792-mous-inked-at-vibrant-gujarat-regional-conference-expected-to-create-282-lakh-jobs/article70931693.ece",
-    "time": "2026-05-02T15:25:44.000Z"
+    "url": "https://www.thehindu.com/news/national/ngt-order-warns-of-fines-to-southern-states-if-clean-air-funds-are-not-utilised/article70931405.ece",
+    "time": "2026-05-02T17:08:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "KSEB’s takeover bid put on hold",
+    "desc": "Recently, govt. asked KSEB to take over the 12 MW unit since the pact with Carborundum had ended in December 2024. On April 29, signages proclaiming ‘KSEB property’ were planted on the unit premises, prompting criticism from the company. On Saturday, the govt. decides to freeze the move till a panel decides on the company’s application to extend the pact.",
+    "img": "https://th-i.thgim.com/public/incoming/hr1juq/article70932577.ece/alternates/LANDSCAPE_1200/Maniyar_Dam02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/maniyar-hydel-project-carborundum-universal-expresses-dismay-over-kseb-takeover-bid/article70932207.ece",
+    "time": "2026-05-02T16:31:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Anushka gets T20 captaincy, Harleen to lead India-A in England ODIs",
+    "desc": "India-A named separate squads for their England tour, with Anushka Sharma leading the T20 side and Harleen Deol captaining the ODI team. The tour includes three T20Is from June 20 and three ODIs from July 1. Vrinda Dinesh and Pratika Rawal were named vice-captains. Youngsters like Jintimani Kalita, Tanisha Singh and Purvaja Verlekar earned call-ups as selectors focused on building bench strength and future talent.",
+    "img": "https://static.toiimg.com/photo/msid-130720349,imgsize-69528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/anushka-sharma-gets-t20-captaincy-harleen-deol-to-lead-india-a-in-odis-during-england-tour/articleshow/130719902.cms",
+    "time": "2026-05-02T16:25:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lifeline wasted! Samson falls to Bumrah just balls after Will Jacks’ blunder",
+    "desc": "Jasprit Bumrah's precision proved too much for Sanju Samson, who was dismissed for 11 after a dropped catch on 6. Bumrah's relentless bowling in the second over, despite the early reprieve, ultimately led to Samson's edge being safely taken. This crucial early wicket kept Mumbai Indians in control of the chase, setting the tone for their pursuit of 159.",
+    "img": "https://static.toiimg.com/photo/msid-130720281,imgsize-181900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-lifeline-wasted-sanju-samson-falls-to-jasprit-bumrah-just-balls-after-will-jacks-blunder/articleshow/130720304.cms",
+    "time": "2026-05-02T16:24:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "Noor returned excellent figures of 2/26 in four overs while Anshul Kamboj grabbed 3/32, even as Naman Dhir top-scored for MI with 57 off 37 balls in an insipid display by the visitors after winning the toss.",
+    "img": "https://th-i.thgim.com/public/incoming/z0g84x/article70932924.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_6_66.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-mi-vs-csk-match-updates-may-2-2026/article70932381.ece",
+    "time": "2026-05-02T16:24:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three names in race for CM post if UDF wins, says Congress leader PJ Kurien",
+    "desc": "Veteran Congress leader PJ Kurien stated that only three names are under serious consideration for the Chief Minister post if the UDF wins in Kerala. He emphasized that the party high command will make the final decision after consulting state leadership and MLAs, ensuring unanimous acceptance.",
+    "img": "https://static.toiimg.com/photo/msid-130720334,imgsize-461563.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kerala-polls-three-names-in-race-for-cm-post-if-udf-wins-says-congress-leader-pj-kurien/articleshow/130720249.cms",
+    "time": "2026-05-02T16:23:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan warns about post-retirement life after 60",
+    "desc": "R Madhavan has opened up about ageing, life planning and the challenges of staying relevant in a rapidly changing world. Speaking about his current work and personal reflections, the actor emphasised that while people are living longer today, very few are truly prepared for what comes after retirement.",
+    "img": "https://static.toiimg.com/photo/msid-130720033,imgsize-42310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-on-growing-older-warns-about-post-retirement-life-after-60-being-dependent-physically-or-financially-is-worse-than-hell/articleshow/130719954.cms",
+    "time": "2026-05-02T16:05:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "May 4 is day of reckoning for Kerala Congress factions",
+    "desc": "For the Jose K. Mani-led Kerala Congress (M), retaining crucial seats such as Pala is of prime importance. With P.J. Joseph stepping away from the electoral fray, Kerala Congress needs a strong showing to reinforce its independent identity within the UDF",
+    "img": "https://th-i.thgim.com/public/incoming/4wp0p7/article70932541.ece/alternates/LANDSCAPE_1200/80687_26_3_2026_18_48_57_3_J1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-may-4-is-day-of-reckoning-for-kerala-congress-factions/article70932177.ece",
+    "time": "2026-05-02T15:59:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKR bowling coach Southee",
+    "desc": "Pathirana trained on Saturday (May 2, 2026), raising hopes of his availability against Sunrisers Hyderabad. However, bowling coach Tim Southee chose to be tentative about his inclusion, given the mandatory overseas pool shuffle that must follow.",
+    "img": "https://th-i.thgim.com/public/incoming/dv52pv/article70932780.ece/alternates/LANDSCAPE_1200/PTI04_25_2026_000466B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/crucial-to-take-wickets-early-and-win-thepowerplaykkr-bowling-coach-southee/article70932169.ece",
+    "time": "2026-05-02T15:43:45.000Z"
   },
   {
     "cat": "Sports",
@@ -36,24 +162,6 @@ const newsData_en = [
     "time": "2026-05-02T15:17:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pioneer artist takes Swang, a folk art, to international stage",
-    "desc": "Swang, or Saang, is a centuries old dialogue-driven folk form from Haryana, Uttar Pradesh and Rajasthan that blends music, poetry, farce and dance, usually in open air settings; the remarkable achievement of Swang ‘Jaani Chor’ led by Satish Georgy Kashyap — popularly called the ‘King of Swang’ — shows the timeless relevance of folk traditions",
-    "img": "https://th-i.thgim.com/public/news/u9zu0n/article70932425.ece/alternates/LANDSCAPE_1200/folk3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/haryana/pioneer-artist-takes-swang-a-folk-art-to-international-stage/article70932142.ece",
-    "time": "2026-05-02T15:01:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Carborundum Universal expresses dismay over KSEB takeover bid",
-    "desc": "Official says company ran the 12 MW unit on the KSEB’s request during the past one year although the 30-year agreement between the two entities had ended in December 2024. The generated power was supplied to the KSEB but the company is yet to be compensated for it. On April 29 ‘KSEB property - Prohibited Area’ signages were planted on the premises, but the company was given no notification",
-    "img": "https://th-i.thgim.com/public/incoming/hr1juq/article70932577.ece/alternates/LANDSCAPE_1200/Maniyar_Dam02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/maniyar-hydel-project-carborundum-universal-expresses-dismay-over-kseb-takeover-bid/article70932207.ece",
-    "time": "2026-05-02T14:59:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who is Ramakrishna Ghosh? CSK’s new all-rounder handed IPL debut vs MI",
     "desc": "Ramakrishna Ghosh made his IPL debut for Chennai Super Kings against Mumbai Indians, a significant moment after his base price acquisition. Ghosh, a promising all-rounder from Maharashtra, impressed with a seven-wicket haul in the Vijay Hazare Trophy and demonstrated his batting prowess with a rapid half-century. His inclusion aims to bolster CSK's campaign with his disciplined bowling and lower-order hitting.",
@@ -61,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-who-is-ramakrishna-ghosh-csks-new-all-rounder-handed-ipl-debut-vs-mi/articleshow/130719004.cms",
     "time": "2026-05-02T14:55:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "May 4 is day of reckoning for State’s Congress factions",
-    "desc": "For the Jose K. Mani-led Kerala Congress (M), retaining crucial seats such as Pala is of prime importance. With P.J. Joseph stepping away from the electoral fray, Kerala Congress needs a strong showing to reinforce its independent identity within the UDF",
-    "img": "https://th-i.thgim.com/public/incoming/4wp0p7/article70932541.ece/alternates/LANDSCAPE_1200/80687_26_3_2026_18_48_57_3_J1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-may-4-is-day-of-reckoning-for-kerala-congress-factions/article70932177.ece",
-    "time": "2026-05-02T14:54:23.000Z"
   },
   {
     "cat": "Business",
@@ -90,15 +189,6 @@ const newsData_en = [
     "time": "2026-05-02T14:46:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Telangana government to clear ₹6,000 crore retirement benefits in 100 days, promises Revanth Reddy",
-    "desc": "A committee of officials has been directed to immediately submit its report on the Pay Revision Commission, says Chief Minister; following the interaction with the Chief Minister employee JAC calls off proposed protest on May 5",
-    "img": "https://th-i.thgim.com/public/news/national/telangana/boaqye/article70932464.ece/alternates/LANDSCAPE_1200/CM%20Employees%20.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/telangana-government-to-clear-6000-crore-retirement-benefits-in-100-days-promises-revanth-reddy/article70932062.ece",
-    "time": "2026-05-02T14:44:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Celebrity Traitors' Series 2: full cast unveiled",
     "desc": "Get ready for the grand return of 'Celebrity Traitors' Series 2, featuring an unprecedented ensemble of 21 dazzling personalities in the picturesque Scottish Highlands. This diverse group, comprising actors, musicians, and comedy royalty, will plunge into a captivating competition filled with strategy and secrecy as they battle for a worthy charity fund.",
@@ -106,24 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/celebrity-traitors-series-2-confirms-21-star-line-up-for-new-season/articleshow/130718604.cms",
     "time": "2026-05-02T14:42:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NHAI opens one arm of elevated corridor on Chennai",
-    "desc": "NHAI officials said this would ease traffic congestion on the service lanes of the stretch and prevent accidents especially during night; The second arm of the new elevated corridor will be opened in the coming days after black topping the carriageway, an NHAI official said",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/jqyoua/article70932456.ece/alternates/LANDSCAPE_1200/NHAI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/nhai-opens-one-arm-of-elevated-corridor-on-chennai-bengaluru-highway-at-melvisharam/article70931914.ece",
-    "time": "2026-05-02T14:41:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sudden fuel cost hike raises Haj expenses, but pilgrims from Kerala comply",
-    "desc": "Although circular announcing an additional charge of ₹10,000 reached Kerala only on April 29, the same day the Haj camp opened in Kochi on the eve of the inaugural Haj flight, pilgrims largely chose to comply, fearing that any objection might disrupt their journey",
-    "img": "https://th-i.thgim.com/public/incoming/r74bmh/article70932311.ece/alternates/LANDSCAPE_1200/80689_25_6_2025_21_17_48_1_IMG_20250625_WA0146.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/sudden-fuel-cost-hike-raises-haj-expenses-but-pilgrims-from-kerala-comply/article70932126.ece",
-    "time": "2026-05-02T14:39:23.000Z"
   },
   {
     "cat": "Politics",
@@ -216,6 +288,15 @@ const newsData_en = [
     "time": "2026-05-02T13:34:00.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "'Harassed by wife, sister-in-law': Inside shocking death of 30-yr-old Delhi judge who was found hanging",
+    "desc": "A 30-year-old judicial officer, Aman Kumar Sharma, died by suicide in Delhi, his family alleging harassment by his wife, also a judicial officer, and her IAS sister. Sharma had reportedly expressed distress to his father, citing marital conflicts and interference. Police are investigating the circumstances, including the family's serious allegations.",
+    "img": "https://static.toiimg.com/photo/msid-130720034,imgsize-1138964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-judge-aman-kumar-sharma-found-hanging-police-say-death-by-suicide-in-safdarjung/articleshow/130717428.cms",
+    "time": "2026-05-02T13:31:46.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Saikia",
     "desc": "The BCCI will announce the IPL-2026 playoff venues within two days, according to secretary Devajit Saikia. While the exact locations remain undisclosed, the final is scheduled for May 31. Last year's playoffs were held in Mullanpur and Ahmedabad, with Kolkata initially slated for the final.",
@@ -306,15 +387,6 @@ const newsData_en = [
     "time": "2026-05-02T12:27:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Market manipulation attempt': Mamata Banerjee trashes Bengal exit polls, predicts over 200 seats for TMC",
-    "desc": "West Bengal Chief Minister Mamata Banerjee expressed confidence in the Trinamool Congress securing over 200 seats, dismissing exit polls as stock market manipulation. She vowed to reward TMC workers who faced alleged brutality from Central Armed Police Forces. Repolling in South 24 Parganas district saw significant voter turnout amidst tight security.",
-    "img": "https://static.toiimg.com/photo/msid-130716883,imgsize-977851.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/market-manipulation-attempt-mamata-banerjee-trashes-bengal-exit-polls-predicts-over-200-seats-for-tmc/articleshow/130716487.cms",
-    "time": "2026-05-02T12:26:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Are Meryl Streep and Martin Short dating?",
     "desc": "Oscar-winning actress Meryl Streep, 76, is reportedly romantically linked with fellow actor Martin Short. While the pair have never confirmed a relationship, rumors intensified after Streep joined Short's show. Streep recently mentioned discussing Broadway plans with \"Marty Short,\" fueling further speculation about their bond. Both actors have experienced long-term previous marriages.",
@@ -369,15 +441,6 @@ const newsData_en = [
     "time": "2026-05-02T11:46:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From CM Rangasamy to ex-CM Vaithilingam, heavyweights to watch out for",
-    "desc": "Puducherry's 2026 Assembly elections are set for a nail-biting finish with a record 89.83% voter turnout. The main battle is between the ruling AINRC-BJP NDA and the Congress-DMK alliance, featuring high-profile leaders in key constituencies. Counting for all 30 seats is scheduled for May 4.",
-    "img": "https://static.toiimg.com/photo/msid-130714987,imgsize-862830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/puducherry-assembly-election-results-2026-from-cm-rangasamy-to-ex-cm-vaithilingam-heavyweights-to-watch-out-for/articleshow/130714546.cms",
-    "time": "2026-05-02T11:45:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How Italy’s ‘cheese banks’ power a 4 billion euro industry",
     "desc": "In Emilia-Romagna, Italy, hundreds of thousands of wheels of Parmigiano Reggiano cheese are stored in climate-controlled warehouses, serving as valuable collateral for loans. This unique financial system allows producers to overcome cash flow challenges caused by the cheese's lengthy aging process, ensuring the industry's continued operation and growth.",
@@ -385,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/the-parmigiano-vault-how-italys-cheese-banks-power-a-4-billion-euro-industry/articleshow/130715514.cms",
     "time": "2026-05-02T11:43:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Manuvadi, anti-women mindset': Rahul Gandhi rips into BJP over 'pallu' remark on Congress MP Geniben Thakor",
-    "desc": "Rahul Gandhi has strongly criticized Gujarat BJP chief Jagdish Vishwakarma for an alleged \"pallu\" remark targeting Congress MP Geniben Thakor. Gandhi accused the BJP of hypocrisy, stating their \"Nari Vandana\" mask has fallen, revealing an \"anti-woman mindset.\" He warned that women across Gujarat and India would retaliate against such insults.",
-    "img": "https://static.toiimg.com/photo/msid-130715525,imgsize-989037.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/manuvadi-anti-women-mindset-rahul-gandhi-rips-into-bjp-over-pallu-remark-on-congress-mp-geniben-thakor/articleshow/130715534.cms",
-    "time": "2026-05-02T11:31:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -493,33 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/motorsport/alex-zanardi-inspirational-auto-racing-champion-turned-paralympian-dies-at-59/article70931272.ece",
     "time": "2026-05-02T09:16:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Wuthering Heights' OTT release: What to expect, where to watch and more",
-    "desc": "Margot Robbie and Jacob Elordi star in a bold new 'Wuthering Heights' adaptation, now streaming. This reimagining of Emily Brontë's gothic romance, directed by Emerald Fennell, explores the intense connection between Catherine and Heathcliff. The film, which grossed over $239 million worldwide, is available on HBO and for rent/purchase on Apple TV and Prime Video.",
-    "img": "https://static.toiimg.com/photo/msid-130713391,imgsize-148866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/margot-robbies-wuthering-heights-ott-release-heres-all-you-need-to-know-about-the-drama/articleshow/130713377.cms",
-    "time": "2026-05-02T09:16:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan and Venkat Prabhu's film to have AR Rahman's music",
-    "desc": "Sivakarthikeyan's ambitious sci-fi entertainer with Venkat Prabhu, 'SK 26', is back on track after delays. AR Rahman is reportedly in talks to compose music for the grand project, which features a revised script for wider appeal. Discussions are also underway with multiple actresses for key roles, with the actor possibly playing a dual role.",
-    "img": "https://static.toiimg.com/photo/msid-130713350,imgsize-90496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyan-and-venkat-prabhu-film-revived-ar-rahman-likely-to-compose-music-for-sci-fi-epic-report/articleshow/130713291.cms",
-    "time": "2026-05-02T09:09:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "North West’s ‘N0rth4evr’ drops: Every track on debut EP explained",
-    "desc": "In a groundbreaking achievement, North West, the talented daughter of celebrities Kim Kardashian and Kanye West, has released her first EP titled ‘N0rth4evr’. At just 12 years old, she took the creative reins, not only performing but also producing all six tracks herself. Her family rallied behind her, offering overwhelming support both online and at home.",
-    "img": "https://static.toiimg.com/photo/msid-130713132,imgsize-67864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/north-wests-n0rth4evr-drops-every-track-on-kim-kardashian-and-kanyes-daughters-debut-ep-explained/articleshow/130713132.cms",
-    "time": "2026-05-02T09:04:26.000Z"
   },
   {
     "cat": "Business",
@@ -648,15 +675,6 @@ const newsData_en = [
     "time": "2026-05-02T04:08:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'That’s why he’s a legend': Axar delighted of Starc's impactful return",
-    "desc": "Delhi Capitals captain Axar Patel lauded Mitchell Starc as a legend after his impactful return, taking three crucial wickets against Rajasthan Royals. The Capitals secured a seven-wicket victory, successfully chasing a massive 226 thanks to stellar batting performances from KL Rahul and Pathum Nissanka, highlighting a dominant chase.",
-    "img": "https://static.toiimg.com/photo/msid-130709017,imgsize-878878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/thats-why-hes-a-legend-axar-patel-delighted-of-mitchell-starcs-impactful-return/articleshow/130708999.cms",
-    "time": "2026-05-02T02:50:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Elon Musk grilled over his AI profits",
     "desc": "Elon Musk faced intense questioning for a third day in his OpenAI lawsuit, defending his for-profit AI ventures. He argued that while for-profit is acceptable, OpenAI's alleged shift from its charitable roots was akin to \"stealing a charity.\" Musk became visibly irritated when pressed on the similarities between his companies and OpenAI, asserting his own firms benefit humanity.",
@@ -754,24 +772,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/over-the-moon-excited-about-india-says-tim-cook/articleshow/130708558.cms",
     "time": "2026-05-02T01:55:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don't need to answer critics': Riyan Parag's blunt take",
-    "desc": "Despite a recent fine for vaping, Riyan Parag shone with a brilliant 90, powering Rajasthan Royals to 225/6. However, Delhi Capitals chased down the target convincingly, securing a seven-wicket victory. Parag emphasised team success over individual performance, stating his primary goal is to secure wins for his team.",
-    "img": "https://static.toiimg.com/photo/msid-130708496,imgsize-30640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-dont-need-to-answer-critics-riyan-parags-blunt-take-after-rajasthan-royals-loss/articleshow/130708475.cms",
-    "time": "2026-05-02T01:43:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav's batting woes hit struggling Mumbai Indians",
-    "desc": "The Indian 'Clasico' between Chennai Super Kings and Mumbai Indians holds little playoff significance, but is crucial for individual players like Suryakumar Yadav. Facing a poor IPL season, Yadav's form is under scrutiny, with his ambition of leading India to the 2028 Olympics potentially at risk. Coach Mahela Jayawardene defended his player, highlighting his talent and past brilliance.",
-    "img": "https://static.toiimg.com/photo/msid-130708271,imgsize-62112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-suryakumar-yadavs-batting-woes-hit-struggling-mumbai-indians/articleshow/130708269.cms",
-    "time": "2026-05-02T00:56:32.000Z"
   },
   {
     "cat": "Sports",
