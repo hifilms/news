@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "Vodafone-Idea: 50000 કરોડ નહીં મળ્યા તો ડૂબી જશે દિગ્ગજ કંપની? ભારતને કેમ છે Viની જરૂર ? અદાણી, જિંદાલ સહિત અનેક દિગ્ગજો મેદાનમાં, જાણો",
+    "desc": "વોડાફોન-આઈડિયા આજે એવા તબક્કે છે જ્યાં તે શાનદાર પુનરાગમન કરશે અથવા કોર્પોરેટ ઇતિહાસની સૌથી મોટી નિષ્ફળતાઓમાંની એક બનશે. ₹50,000 કરોડનું આ ભંડોળ ફક્ત પૈસા જ નહીં, પરંતુ આ બ્રાન્ડ પર દુનિયાનો વિશ્વાસ રજૂ કરશે. શું આપણે એક નવો ટેલિકોમ સુલતાન જોશું? રાહ જુઓ, કારણ કે આ ટેલિકોમ ગેમનું અંતિમ પરિણામ હજુ જાહેર થયું નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-adani-acquire-more-giant-companies-will-there-be-a-stir-in-the-telecom-market-find-out-476040 ",
+    "time": "2026-05-02T12:59:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "₹2700 કરોડનું બેંક કૌભાંડ; UAE થી લાવવામાં આવ્યો આરોપી કમલેશ પારેખ, જાણો શું છે કોલકત્તા કનેક્શન?",
+    "desc": "CBIને બેંક છેતરપિંડીના ૨,૬૭૨ કરોડ રૂપિયાના કેસમાં મોટી સફળતા મેળવી ભાગેડુ આરોપી કમલેશ પારેખની ધરપકડ કરી છે. યુએઈથી પ્રત્યાર્પણ બાદ પારેખને દિલ્હીમાં કસ્ટડીમાં લેવામાં આવ્યો હતો. શ્રી ગણેશ જ્વેલરી હાઉસના પ્રમોટર પર ૨૫ બેંકોના કન્સોર્ટિયમ સાથે છેતરપિંડી કરવાનો આરોપ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-accused-who-defrauded-25-banks-was-arrested-and-the-absconding-businessman-was-brought-to-india-with-the-help-of-the-cbi-476037 ",
+    "time": "2026-05-02T12:35:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "આજે સવારે સરકારે કરેલા &amp;#039;ઈમરજન્સી ટેસ્ટિંગ&amp;#039; વખતે તમારો ફોન નથી રણક્યો? ફટાફટ ફોનના Settingમાં કરો આ ફેરફાર",
+    "desc": "આજે સવારે 11:40 વાગ્યે દેશભરમાં કરોડો મોબાઈલ અચાનક સાયરનના અવાજથી ગુંજી ઉઠ્યા, પરંતુ જો તમારો ફોન શાંત રહ્યો હોય તો ચિંતા કરવાની જરૂર નથી. વાસ્તવમાં, સરકારની 'સેલ બ્રોડકાસ્ટ ઇમરજન્સી એલર્ટ સિસ્ટમ'ના ટેસ્ટિંગ દરમિયાન ઘણા યુઝર્સને આ એલર્ટ મળ્યું નથી. તેનું મુખ્ય કારણ તમારા સ્માર્ટફોનમાં 'ટેસ્ટ એલર્ટ' ફીચર બંધ હોવું હોઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/did-your-phone-not-ring-this-morning-either-change-this-setting-immediately-475990 ",
+    "time": "2026-05-02T10:38:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "5-સ્ટાર AC ખરીદવું જોઈએ કે ઇન્વર્ટર AC ? જાણો શેમાં આવશે ઓછું વીજ બિલ",
+    "desc": "જ્યારે લોકો એસી ખરીદવા માટે દુકાને જાય છે, ત્યારે દુકાનદાર એટલા બધા વિકલ્પો આપે છે કે તેઓ મૂંઝવણમાં મુકાઈ જાય છે. એક પ્રશ્ન જે હંમેશા લોકોના મનમાં રહે છે કે કયું એસી ખરીદવું જોઈએ 5-સ્ટાર એસી કે ઇન્વર્ટર એસી ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/5-star-ac-vs-inverter-ac-which-ac-is-the-best-for-save-more-electricity-475989 ",
+    "time": "2026-05-02T10:36:26.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "આખરે એ દિવસે શું થયું હતું, કઈ રીતે ઘટી દુર્ઘટના? ક્રૂઝ ચાલક મહેશ પટેલે જણાવી એક એક વાત",
     "desc": "જબલપુરના બરગી ડેમમાં ગુરુવારે ન થવાનું થઈ ગયું. ક્રૂઝ પર મસ્તી કરતા લોકોને સપને પણ ખ્યાલ નહીં હોય કે આવી દુર્ઘટના ઘટશે. તોફાન જેવું આવ્યું અને ક્રૂઝ પાણીમાં ડૂબ્યું જેમાં અત્યાર સુધીમાં 9 લોકોના જીવ ગયા છે. આ સમગ્ર મામલે ક્રૂઝના પાયલોટ મહેશ પટેલે જે કહ્યું કે ખુબ ચોંકાવનારું છે.",
@@ -378,15 +414,6 @@ const newsData_gu = [
     "time": "2026-04-30T07:37:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "દેશમાં ગરમીનો 140 વર્ષનો રેકોર્ડ તૂટશે! ગુજરાતમાં પણ મચશે હાહાકાર, આખરે શું છે આ &amp;#039;સુપર અલ નીનો&amp;#039;?",
-    "desc": "ગુજરાત સહિત દેશભરમાં આ વખતે કાળઝાળ ગરમી બધા રેકોર્ડ તોડે તેવી ભીતિ છે. સુપર અલ નીનોની ખુબ ચર્ચા છે ત્યારે તે શું છે અને તેની કેવી કેવી અસર પડી શકે તથા સમગ્ર વિશ્વમાં તેની શું અસર પડી શકે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-is-super-el-nino-what-effects-can-it-have-intense-heat-heatwaves-explainer-475620 ",
-    "time": "2026-04-30T06:21:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "રોહિત શર્મા ક્રિકેટ સિવાય આ બિઝનેસમાંથી કરે છે કરોડોની કમાણી, નેટવર્થ જાણીને ચોંકી જશો",
     "desc": "ભારતીય ક્રિકેટર રોહિત શર્માનો આજે 38મો જન્મદિવસ છે. રોહિત ક્રિકેટ સિવાય તેની વૈભવી લાઈફસ્ટાઈલ માટે પણ જાણીતો છે. તેના જન્મદિવસે એ જાણી લઈએ કે તેની કુલ સંપત્તિ કેટલી છે અને તે ક્રિકેટ સિવાય કયા કયા બિઝનેસમાંથી કમાણી કરી રહ્યો છે.",
@@ -459,15 +486,6 @@ const newsData_gu = [
     "time": "2026-04-29T11:44:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "જો મુંબઈ ઇન્ડિયન્સ આજે હાર્યું તો પ્લેઓફની રેસમાંથી થઈ જશે બહાર ? જાણો MIનું સંપૂર્ણ સમીકરણ",
-    "desc": "મુંબઈ ઈન્ડિયન્સે સાતમાંથી ફક્ત બે મેચ જીતી છે, જ્યારે પાંચમાં હારનો સામનો કરવો પડ્યો છે. મુંબઈની ટીમ આજે સનરાઈઝર્સ હૈદરાબાદ સામે ટકરાશે. આ મેચ વાનખેડે સ્ટેડિયમ ખાતે સાંજે 7:30 વાગ્યે શરૂ થશે. ત્યારે આજની મેચમાં જો મુંબઈ ઇન્ડિયન્સ હારશે તો પ્લેઓફની રેસમાંથી બહાર થઈ જશે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/if-mumbai-indians-lose-today-will-they-be-eliminated-from-the-ipl-2026-playoffs-475504 ",
-    "time": "2026-04-29T11:05:50.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "નવી કાર ખરીદવી હોય તો સારા સમાચાર, ટાટાના મોડલ પર મળશે 3.50 લાખ સુધીનું બમ્પર ડિસ્કાઉન્ટ",
     "desc": "ટાટા મોટર્સે એપ્રિલમાં પોતાની કારો પર શાનદાર ઓફર રજૂ કરી છે. જેમાં ગ્રાહક વિવિધ મોડલની ખરીદી પર 3.50 લાખ સુધીની બચત કરી શકે છે. આ છૂટ ઈવી અને પેટ્રોલ-ડીઝલ મોડલ્સ પર આપવામાં આવી રહી છે.",
@@ -484,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/priyanka-chopras-connection-to-raghav-chadha-joining-bjp-navjot-kaur-sidhu-makes-a-big-claim-475473 ",
     "time": "2026-04-29T08:53:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સસ્તું સોનું ખરીદવાની હજું પણ તક! હાઈથી સોનું  27000 અને ચાંદી 1.47 લાખ સસ્તા, જાણો કેરેટ પ્રમાણે સોનાનો ભાવ",
-    "desc": "સોના અને ચાંદીમાં ભારે ઉથલપાથલનો માહોલ છે. ઘડીકમાં તેજી તો ઘડીકમાં કડાકો જોવા મળે છે. કાલના કડાકા બાદ આજે રિટેલ બજારમાં સોનું અને ચાંદી વધારામાં છે. જ્યારે વાયદા બજારમાં સોનું ચાંદી લાલ નિશાનમાં જોવા મળી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/today-gold-rate-know-gold-price-by-carat-aaj-no-sona-ane-chandi-no-bhav-jano-475464 ",
-    "time": "2026-04-29T08:25:36.000Z"
   },
   {
     "cat": "World",
@@ -630,15 +639,6 @@ const newsData_gu = [
     "time": "2026-04-24T11:07:45.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "સ્ક્રીન પર ફ્લોટ થશે મેસેજ! WhatsAppનું નવું ફીચર બદલી નાંખશે ચેટની ગેમ, આવી રહ્યું છે આ નવું ફીચર",
-    "desc": "WhatsApp ટૂંક સમયમાં એક એવું ફીચર લાવવા જઈ રહ્યું છે, જેના કારણે તમારે વારંવાર એપ ખોલવાની જરૂર નહીં પડે. 'નોટિફિકેશન બબલ' નામનું આ નવું ફીચર સીધું સ્ક્રીન પર મેસેજ દેખાડશે અને ત્યાંથી જ રિપ્લાય કરવાનો ઓપ્શન પણ આપશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/messages-will-float-on-the-screen-whatsapps-new-feature-is-set-to-revolutionize-the-chat-experience-this-new-feature-is-on-its-way-474594 ",
-    "time": "2026-04-24T07:09:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ભૂત બંગલા ફિલ્મનું બજેટ વસુલ, હવે ફિલ્મની કમાઈ રહી છે નફો, 7 દિવસમાં ફિલ્મ 130 કરોડને પાર",
     "desc": "14 વર્ષ પછી અક્ષય કુમાર અને પ્રિયદર્શનની જોડી જમાવતી ફિલ્મ ભૂત બંગલા રિલીઝ થઈ છે. આ ફિલ્મ રિલીઝ થઈ તેને 7 દિવસ થયા છે અને હવે ફિલ્મ જે કમાણી કરી રહી છે તે નફો છે.",
@@ -646,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-film-bhoot-bangla-box-office-collection-latest-news-in-gujarati-474593 ",
     "time": "2026-04-24T06:55:43.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "મોબાઈલ યુઝર્સ માટે મોટા સમાચાર ! હવે WhatsApp દ્વારા પણ કરી શકાશે રિચાર્જ, જાણો કેવી રીતે",
-    "desc": "WhatsAppમાં એક નવું અને જરૂરી ફીચર લોન્ચ કરવામાં આવ્યું છે. હવે WhatsApp દ્વારા મોબાઈલ રિચાર્જ પણ કરી શકાશે. કંપનીએ આ માટે પેમેન્ટ ફર્મ PayU સાથે ભાગીદારી કરી છે. ત્યારે આ લેખમાં જાણીશું કે આ ફીચર કેવી રીતે કામ કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-mobile-recharge-feature-announced-know-how-to-use-474520 ",
-    "time": "2026-04-23T12:24:08.000Z"
   },
   {
     "cat": "Entertainment",

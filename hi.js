@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will Matheesha Pathirana play for KKR against Sunrisers Hyderabad in IPL 2026? Bowling coach shares update",
+    "desc": "Sri Lanka international Matheesha Pathirana joined the Kolkata Knight Riders squad nearly two weeks ago, but he is yet to feature in the IPL 2026. He was available for the games against Rajasthan Royals and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-matheesha-pathirana-play-for-kkr-against-sunrisers-hyderabad-in-ipl-2026-bowling-coach-shares-update-2026-05-02-1039700",
+    "time": "2026-05-02T11:52:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India announce squad for Women's T20 World Cup 2026; Amanjot Kaur, Kashvee Gautam miss out",
+    "desc": "The BCCI (Board of Control for Cricket in India) took centre stage and announced India's squad for the upcoming edition of the Women's T20 World Cup 2026, which is slated to kick off on June...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-squad-for-women-s-t20-world-cup-2026-amanjot-kaur-kashvee-gautam-misses-out-2026-05-02-1039699",
+    "time": "2026-05-02T11:45:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'This season feels different': Former India cricketers weigh in on 'explosive' IPL 2026 season",
+    "desc": "The ongoing edition of the IPL (Indian Premier League) 2026 has been a run fest. Across the many matches, scores of 200+ are being easily scored and even chased down. The likes of Abhishek Sharma,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/this-season-feels-different-former-india-cricketers-weigh-in-on-explosive-ipl-2026-season-2026-05-02-1039695",
+    "time": "2026-05-02T11:28:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Mumbai Indians look stronger': Mohammad Kaif previews Chennai Super Kings' high-octane clash against MI",
+    "desc": "Game 44 of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians taking on Chennai Super Kings. The two sides meet at the MA Chidambaram Stadium in Chennai on May 2, and both sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-look-stronger-mohammad-kaif-previews-chennai-super-kings-high-octane-clash-against-mi-2026-05-02-1039689",
+    "time": "2026-05-02T10:39:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Head-to-Head record ahead of game 44 in IPL 2026",
     "desc": "Chennai Super Kings and Mumbai Indians are all set to take on each other in the 44th game of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the MA...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/we-missed-the-trick-riyan-parag-weighs-in-on-rajasthan-royals-performance-after-loss-against-dc-2026-05-02-1039638",
     "time": "2026-05-02T04:16:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul joins Virat Kohli, Rohit Sharma in elite list with stellar knock against Rajasthan Royals",
-    "desc": "The 43rd game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals hosting Delhi Capitals. The two sides locked horns at the Sawai Mansingh Stadium in Jaipur on May 1, and it was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-joins-virat-kohli-rohit-sharma-in-elite-list-with-stellar-knock-against-rajasthan-royals-2026-05-02-1039633",
-    "time": "2026-05-02T02:59:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia international finally joins LSG squad for IPL 2026, massive boost to team ahead of MI clash",
-    "desc": "Lucknow Super Giants have received a timely boost ahead of a crucial phase in IPL 2026, with Australia keeper-batter Josh Inglis linking up with the squad. The 29-year-old is now in contention for selection as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-international-finally-joins-lsg-squad-for-ipl-2026-massive-boost-to-team-ahead-of-mi-clash-2026-05-01-1039621",
-    "time": "2026-05-01T18:14:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals register their highest successful chase to beat RR in IPL 2026; Rahul, Nissanka, Starc shine",
-    "desc": "The fans in Jaipur enjoyed a high-scoring affair on Friday, May 1, as Rajasthan Royals hosted Delhi Capitals at the Sawai Mansingh Stadium. Even though the home fans returned disappointed, the game in itself lived...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-register-their-highest-successful-chase-to-beat-rr-in-ipl-2026-rahul-nissanka-starc-shine-2026-05-01-1039620",
-    "time": "2026-05-01T17:55:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad announce replacement for injured Shivam Mavi, sign India's U19 World Cup star",
-    "desc": "Sunrisers Hyderabad all-rounder Shivam Mavi has been ruled out of the ongoing IPL 2026, owing to a groin injury. The 2016 champions were forced to make a mid-season change to their squad, as they brought...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-announce-replacement-for-injured-shivam-mavi-sign-india-s-u19-world-cup-star-2026-05-01-1039617",
-    "time": "2026-05-01T17:20:57.000Z"
   }
 ];
