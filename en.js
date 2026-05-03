@@ -1,6 +1,123 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Oscar Bruzon to leave East Bengal at season end; cites lack of long-term planning",
+    "desc": "“We have four matches remaining in the current ISL campaign. I will not be staying on after these four matches. May 31st will be my final day as the coach of East Bengal,” Bruzon said",
+    "img": "https://th-i.thgim.com/public/incoming/a4ahbv/article70936291.ece/alternates/LANDSCAPE_1200/SDB_8695.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/oscar-bruzon-to-leave-east-bengal-at-season-end-cites-lack-of-long-term-planning/article70936288.ece",
+    "time": "2026-05-03T21:01:08.000Z"
+  },
+  {
     "cat": "Politics",
+    "title": "India dismisses Nepal’s Kailash yatra objection over Lipulekh Pass",
+    "desc": "Nepal has officially objected to India resuming the Kailash Mansarovar Yatra through Lipulekh Pass, a territory it claims based on the 1816 Sugauli Treaty. India dismissed these claims as unjustified and historically unfounded, stating Lipulekh has been a long-standing yatra route. This dispute marks a potential test for bilateral ties as both nations prepare for diplomatic discussions.",
+    "img": "https://static.toiimg.com/photo/msid-130739626,imgsize-1340705.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-dismisses-nepals-kailash-yatra-objection-over-lipulekh-pass/articleshow/130739615.cms",
+    "time": "2026-05-03T20:57:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SG Tushar Mehta takes swipe at ‘bully’ judges in his book",
+    "desc": "Senior advocate Tushar Mehta's upcoming book criticizes some judges for exhibiting 'judicial bullying' due to excessive courtroom reverence. He argues that while judges face immense pressure, this cannot justify incivility, as the public expects high standards from an institution they cannot easily remove. Mehta highlights the power imbalance lawyers face when confronting arrogant judges.",
+    "img": "https://static.toiimg.com/photo/msid-130739599,imgsize-559294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sg-tushar-mehta-takes-swipe-at-bully-judges-in-his-book/articleshow/130739587.cms",
+    "time": "2026-05-03T20:42:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Antonelli takes third win a row for Mercedes to stretch F1 lead in Miami",
+    "desc": "The youngest driver ever to lead the championship, ⁠at 19 years old, Kimi Antonelli also became the first to take his first three career wins from the top slot on the grid and also the first in five editions of the race to win ‌in Miami from the front row",
+    "img": "https://th-i.thgim.com/public/incoming/wpnj80/article70936286.ece/alternates/LANDSCAPE_1200/F1_Miami_GP_Auto_Racing_48313.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/motorsport/antonelli-takes-third-win-a-row-for-mercedes-to-stretch-f1-lead-in-miami/article70936285.ece",
+    "time": "2026-05-03T20:39:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Javed Akhtar reacts to 'Dhurandhar' being called a propaganda film",
+    "desc": "Veteran screenwriter Javed Akhtar has defended the 'Dhurandhar' franchise against accusations of being propaganda. He praised the films as excellent, stating that every story takes a stand and filmmakers have the right to present their truth. Akhtar believes that all narratives, even fantasy, carry an ideology and audiences interpret messages based on their perspectives.",
+    "img": "https://static.toiimg.com/photo/msid-130739580,imgsize-55650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-reacts-to-dhurandhar-being-called-a-propaganda-film-because-the-narrative-doesnt-suit-a-section-of-the-audience/articleshow/130739553.cms",
+    "time": "2026-05-03T20:34:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal SIR a ‘threat’ to our jobs: Professionals, government staff move court",
+    "desc": "Livelihoods are at stake as 27 lakh voters in Bengal are stripped of voting rights due to electoral roll deletions during SIR. Professionals, including a PSU officer, teacher, doctor, and insurance agent, have moved the Calcutta High Court, fearing their citizenship will be questioned, potentially leading to job termination and licence cancellation. Their appeals for urgent hearings were denied.",
+    "img": "https://static.toiimg.com/photo/msid-130739560,imgsize-1378783.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bengal-sir-a-threat-to-our-jobs-professionals-government-staff-move-court/articleshow/130739549.cms",
+    "time": "2026-05-03T20:27:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I am one of Brij Bhushan's six victims, reveals wrestler Vinesh Phogat",
+    "desc": "Wrestler Vinesh Phogat revealed she is one of six accusers of former WFI chief Brij Bhushan Singh. Her return to competition in his stronghold, Gonda, raises concerns about fairness and potential bias in officiating. Phogat, now a legislator, demands transparency, holding the government accountable for any incidents. The WFI president assures safety and denies bias.",
+    "img": "https://static.toiimg.com/photo/msid-130739538,imgsize-835810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-am-one-of-brij-bhushans-six-victims-reveals-wrestler-vinesh-phogat/articleshow/130739531.cms",
+    "time": "2026-05-03T20:17:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Independent journalism punished, compliance rewarded under current regime, says Kharge",
+    "desc": "Sections of the media have been reduced to echoing the ruling establishment, while those who persist in asking questions are ‘targeted relentlessly’, says the Congress president while calling for deep introspection by all stakeholders on the occasion of World Press Freedom Day",
+    "img": "https://th-i.thgim.com/public/incoming/teu2np/article70936272.ece/alternates/LANDSCAPE_1200/10258_22_4_2026_16_50_36_1_KLB_AICC_MALLIKARJUN_KHARGE_3.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/independent-journalism-punished-compliance-rewarded-under-current-regime-says-kharge/article70935284.ece",
+    "time": "2026-05-03T20:02:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Prohibitory orders imposed in Doda as AAP MLA returns home district after 8 months in jail",
+    "desc": "The lone AAP legislator in the Union Territory was arrested on September 8, 2025, following his ‘inappropriate remarks’ against then-Deputy Commissioner Harvinder Singh over the shifting of a health centre at Doda’s Kencha, and was booked under the Public Safety Act that allows preventive detention up to two years",
+    "img": "https://th-i.thgim.com/public/incoming/2axjog/article70935082.ece/alternates/LANDSCAPE_1200/PTI04_28_2026_000068B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/administration-imposes-restrictions-in-parts-of-jks-doda-bans-unauthorised-assemblies-for-two-months/article70935047.ece",
+    "time": "2026-05-03T19:46:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Today's results to 5 Houses will give broad mood of the nation",
+    "desc": "Assembly poll results in West Bengal, Tamil Nadu, Assam, Kerala, and Puducherry will offer a glimpse into the national political mood. The outcomes could significantly impact the opposition INDIA bloc, with key contests in Bengal and Tamil Nadu holding particular importance for regional giants DMK and TMC.",
+    "img": "https://static.toiimg.com/photo/msid-130739486,imgsize-1090325.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/todays-results-to-5-houses-will-give-broad-mood-of-the-nation/articleshow/130739458.cms",
+    "time": "2026-05-03T19:37:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vicky-Katrina make FIRST appearance after having son Vihaan, netizens react",
+    "desc": "Newly parents Katrina Kaif and Vicky Kaushal delighted fans with their first public appearance together since welcoming their baby boy. Spotted at the airport, the couple radiated joy, with Katrina looking stunning in a black overcoat and Vicky complementing her in a black outfit with a brown jacket. Their coordinated style and evident happiness garnered widespread admiration from netizens.",
+    "img": "https://static.toiimg.com/photo/msid-130739398,imgsize-21550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-katrina-kaif-make-first-appearance-together-after-becoming-parents-to-son-vihaan-netizens-cant-stop-gushing-pics-inside/articleshow/130739382.cms",
+    "time": "2026-05-03T19:32:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Velankanni priest says Basilica was not informed about TVK chief Vijay’s plan to visit shrine",
+    "desc": "The priest clarified that the morning schedule of prayers was not disrupted. He said devotees had expressed concern and anguish over the incident, prompting the church administration to take up the matter with the district administration and the police.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/m7fnp/article70935885.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-03%20at%2021.06.40.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/velankanni-priest-says-basilica-was-not-informed-about-tvk-chief-vijays-plan-to-visit-shrine-on-may-2-2026/article70935691.ece",
+    "time": "2026-05-03T19:09:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhoni reality check — what the Super Kings faithful dreaded",
+    "desc": "The bond between the legendary captain of the franchise and the legion of fans goes beyond trophies and silverwares; the supporters are beginning to get a glimpse of life beyond the gloveman though they would be keen to celebrate a cameo or two from Captain Cool",
+    "img": "https://th-i.thgim.com/public/sport/m3o4ji/article70936217.ece/alternates/LANDSCAPE_1200/DHONI%20CUTOUT.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/dhoni-reality-check-what-the-super-kings-faithful-dreaded/article70936214.ece",
+    "time": "2026-05-03T18:53:16.000Z"
+  },
+  {
+    "cat": "World",
     "title": "Ahead of Misri’s expected Nepal visit, Kathmandu expresses concern to India, China on Kailash yatra over Lipulekh",
     "desc": "Nepal reiterates territorial claim to Lipulekh Pass, flags concerns over Kailash Manasarovar Yatra; India says the border pass has been long standing route for the yatra since 1954; it is unclear whether the Foreign Secretary will get to meet Nepal PM during the visit originally slated for May 11-12",
     "img": "https://th-i.thgim.com/public/incoming/nxmsmb/article70935870.ece/alternates/LANDSCAPE_1200/20260501304L.jpg",
@@ -72,6 +189,15 @@ const newsData_en = [
     "time": "2026-05-03T17:55:56.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Janhvi shares statement calling out misinterpretation of her comments on alcohol addiction",
+    "desc": "Janhvi Kapoor clarified her role in an alcohol addiction awareness initiative after her podcast statements were misinterpreted. She emphasized she is an ally and caregiver, not someone with personal addiction experience. Kapoor's clarification aims to prevent trivializing the struggles of those battling addiction and their supporters.",
+    "img": "https://static.toiimg.com/photo/msid-130737817,imgsize-23936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-shares-statement-calling-out-misinterpretation-of-her-comments-on-alcohol-addiction-awareness-shes-a-caregiver-not-someone-with-personal-experience/articleshow/130737731.cms",
+    "time": "2026-05-03T17:55:05.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "West Bengal waits with bated breath for May 4 Assembly election results",
     "desc": "Counting will be held across 77 counting venues spread across 23 districts of the State; the Election Commission has deployed 432 counting observers (COs) to ensure transparent and smooth counting of votes on April 4.",
@@ -115,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/kobbie-mainoo-plays-hero-as-manchester-united-beat-liverpool-in-five-goal-thriller-secure-champions-league-football/articleshow/130736466.cms",
     "time": "2026-05-03T17:04:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Velankanni priest says Basilica was not informed about TVK chief Vijay’s plan to visit shrine",
-    "desc": "The priest clarified that the morning schedule of prayers was not disrupted. He said devotees had expressed concern and anguish over the incident, prompting the church administration to take up the matter with the district administration and the police.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/m7fnp/article70935885.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-03%20at%2021.06.40.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/velankanni-priest-says-basilica-was-not-informed-about-tvk-chief-vijays-plan-to-visit-shrine-on-may-2-2026/article70935691.ece",
-    "time": "2026-05-03T16:42:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,24 +549,6 @@ const newsData_en = [
     "time": "2026-05-03T11:41:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How humor became humanity's oldest coping mechanism",
-    "desc": "Amidst hardship, dark humor emerges as a vital survival tool, offering a defiant spark against despair. This article explores how gallows humor, distinct from denial, helps individuals and communities cope with overwhelming realities. It highlights Gen Z's use of memes as a modern form of crisis comedy, underscoring laughter's profound psychological and biological benefits.",
-    "img": "https://static.toiimg.com/photo/msid-130731679,imgsize-1503481.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/laugh-in-the-face-of-darkness-how-humor-became-humanitys-oldest-coping-mechanism/articleshow/130731604.cms",
-    "time": "2026-05-03T11:36:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&amp;K: Heavy landslide shuts Baramulla-Uri NH near Lagama; traffic diverted",
-    "desc": "Heavy landslides have blocked key routes in Jammu and Kashmir. The Baramulla-Uri highway faced disruption near Lagama, with traffic diverted. The Doda-Kishtwar road also saw a major blockage near Gatsoo. Meanwhile, a bridge collapse in Jammu's Bantalab area tragically claimed the lives of three labourers. Authorities are working to clear debris and ensure safety.",
-    "img": "https://static.toiimg.com/photo/msid-130731606,imgsize-997547.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jk-heavy-landslide-shuts-baramulla-uri-nh-near-lagama-traffic-diverted/articleshow/130731620.cms",
-    "time": "2026-05-03T11:27:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude beyond $120: Oil prices touch four-year peak, here's what analysts are saying",
     "desc": "Global oil prices surged to a four-year high amid escalating US-Iran tensions and fears of a Strait of Hormuz closure, impacting gasoline prices and broader economies. Analysts warn of a potential global recession due to supply disruptions, with shortages already affecting various goods. Experts predict further price hikes until the strait reopens.",
@@ -495,15 +594,6 @@ const newsData_en = [
     "time": "2026-05-03T11:04:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Not surprising': BJP MP Sandeep Pathak on 2 FIRs filed against him, says he has no information on cases",
-    "desc": "Rajya Sabha MP Sandeep Pathak stated he has not received information about FIRs filed against him, suspecting political misuse. Punjab Police registered two non-bailable FIRs against Pathak after he switched from AAP to BJP. BJP and SAD leaders condemned the actions as political vendetta.",
-    "img": "https://static.toiimg.com/photo/msid-130731218,imgsize-47914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-surprising-bjp-mp-sandeep-pathak-on-2-firs-filed-against-him-says-he-has-no-information-on-cases/articleshow/130731062.cms",
-    "time": "2026-05-03T11:04:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "When ‘Teesri Manzil’ nearly starred Dev Anand before a drunken fight",
     "desc": "Aamir Khan revealed that the iconic film 'Teesri Manzil' nearly starred Dev Anand. A drunken argument between Anand and filmmaker Nasir Hussain at a party led to Anand's exit. This dramatic fallout resulted in Shammi Kapoor taking the lead role and Vijay Anand directing, transforming the film's destiny into a massive hit.",
@@ -511,42 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-teesri-manzil-nearly-starred-dev-anand-before-a-drunken-fight-changed-everything-dono-daru-peeke-aamir-khan-revealed/articleshow/130731200.cms",
     "time": "2026-05-03T11:02:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Will Priyanka Chopra skip Met Gala 2026?",
-    "desc": "Priyanka Chopra is renowned for her bold Met Gala looks, but reports say she will skip the 2026 edition due to shooting Varanasi in Antarctica. Fans may be disappointed, yet she’s focused on SS Rajamouli’s big‑budget Telugu film, expected to be one of India’s costliest productions to date.",
-    "img": "https://static.toiimg.com/photo/msid-130730989,imgsize-32876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/will-priyanka-chopra-skip-met-gala-2026-heres-what-keeping-her-busy-reports/articleshow/130730989.cms",
-    "time": "2026-05-03T10:46:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "From MK Stalin to  EPS and Vijay;  key candidates to watch on May 4",
-    "desc": "Tamil Nadu's political landscape is set for a decisive turn as vote counting commences. The election features high-stakes contests, including Chief Minister MK Stalin defending his seat and actor-turned-politician Thalapathy Vijay making his electoral debut. AIADMK leader Edappadi K Palanisami is also fighting to regain relevance, with new entrants and alliance dynamics shaping the traditional voting patterns.",
-    "img": "https://static.toiimg.com/photo/msid-130730871,imgsize-46440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-elections-from-mk-stalin-to-eps-and-vijay-key-candidates-to-watch-on-may-4/articleshow/130730842.cms",
-    "time": "2026-05-03T10:40:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aimee Lou Wood mentions her famed roles on ‘SNL’ UK",
-    "desc": "Aimee Lou Wood, celebrated for her roles in 'Sex Education' and 'The White Lotus,' recently graced 'Saturday Night Live' UK with a memorable appearance. She humorously contrasted her popular shows, poking fun at their themes. Wood also recreated a viral Kim Cattrall moment and the show featured musical guest MEEK, alongside a satirical take on a recent White House event.",
-    "img": "https://static.toiimg.com/photo/msid-130730718,imgsize-17458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/aimee-lou-wood-takes-jab-at-the-white-lotus-sx-education-on-snl-uk-the-show-that-took-the-shame-out-of/articleshow/130730718.cms",
-    "time": "2026-05-03T10:28:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kelly Brook talks about the alleged Ant and Dec feud",
-    "desc": "Kelly Brook took a moment to address the speculation surrounding her interactions with Ant and Dec, assuring fans that there is no animosity between them. Instead, she expressed her excitement about joining their upcoming reality project, describing her initial encounter with the comedic pair as a joyful experience filled with encouragement.",
-    "img": "https://static.toiimg.com/photo/msid-130730434,imgsize-118096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/actress-kelly-brook-on-the-ongoing-ant-and-dec-feud-ends-rumors-and-says-there-was-no-awkwardness/articleshow/130730150.cms",
-    "time": "2026-05-03T09:58:05.000Z"
   },
   {
     "cat": "Business",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/woods-penalty-gives-nottingham-forest-a-1-0-win-over-aston-villa-in-europa-league-semifinal-1st-leg/article70929785.ece",
     "time": "2026-05-01T21:18:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Talent, training, fuel, shoes: behind Sabastian Sawe’s historic sub-2 London Marathon",
-    "desc": "The 31-year-old Kenyan became the first man to take less than two hours to run a marathon in race conditions. What went into the shattering of a once-unapproachable barrier? And just how much faster can Sawe go?",
-    "img": "https://th-i.thgim.com/public/incoming/frgz88/article70929736.ece/alternates/LANDSCAPE_1200/GettyImages-2272860137.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/athletics/sabastian-sawe-sub-2-hour-marathon-london-record/article70929740.ece",
-    "time": "2026-05-01T19:04:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju finally bends time to his will, reviving India’s and CSK’s fortunes",
-    "desc": "The 31-year-old has long been considered an elite talent, but it has taken him a while to show just how exceptional he can be. Things looked bleak for him at the end of January before circumstances conspired to give him another shot at the international level. He won India the T20 World Cup and then got his new IPL team, CSK, going with two unbeaten hundreds",
-    "img": "https://th-i.thgim.com/public/incoming/wgcycz/article70929717.ece/alternates/LANDSCAPE_1200/IMAGE%201%20PTI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/sanju-samson-rise-kerala-prodigy-t20-world-cup-hero/article70929727.ece",
-    "time": "2026-05-01T18:57:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘KD: The Devil’ movie review: Prem, Dhruva Sarja offer a fan service that’s just about watchable",
-    "desc": "With a semblance of story and a decent character arc for the protagonist, ‘KD’, starring Dhruva Sarja and directed by Prem, is aimed at lovers of loud ‘masala’ movies who care less for depth in writing",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/40hdv3/article70924270.ece/alternates/LANDSCAPE_1200/KD.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/kd-movie-review-dhruva-sarja-prem-kd-the-devil-sanjay-dutt-shilpa-shetty-fan-service-arjun-janya/article70924231.ece",
-    "time": "2026-05-01T10:10:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Ek Din’ movie review: Sai Pallavi makes this tender romance quite a day to remember",
-    "desc": "Sai, who is making her Hindi debut with the film, is the heartbeat of this delicate romance that feels like a sincere wish fulfilled for viewers craving silence, subtle emotions, and quiet chemistry in their cinescape",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ggi2w6/article70927858.ece/alternates/LANDSCAPE_1200/EK%20DIN.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/ek-din-movie-review-sai-pallavi-junaid-khan-aamir-khan-sunil-pandey/article70927801.ece",
-    "time": "2026-05-01T09:47:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Ravi K. takes charge as HAL CMD",
-    "desc": "He concluded various big-ticket contracts for HAL, including the contract to supply 180 LCA Tejas to the Indian Air Force, 156 LCH Prachand to the Indian Army and Indian Air Force, and is credited with the operationalisation of the LCA Tejas fleet in IAF",
-    "img": "https://th-i.thgim.com/public/incoming/i7ui3h/article70927902.ece/alternates/LANDSCAPE_1200/HAL%20CMD.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/ravi-k-takes-charge-over-as-hal-cmd-from-d-k-sunil/article70927889.ece",
-    "time": "2026-05-01T08:09:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "TechM buys 85% in IT firm Avant for CAD 28 million",
-    "desc": "The acquisition of 85% shareholding of Avant, valued at 28 million Canadian dollars, is expected to be completed by 31st July, 2026 while the balance 15% will be acquired by 30th June, 2029, TechM said in a regulatory filing on Thursday",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/techm-buys-85-in-it-firm-avant-for-cad-28-million/article70926113.ece",
-    "time": "2026-05-01T01:02:06.000Z"
   }
 ];
