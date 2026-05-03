@@ -1,8 +1,44 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "New owners for IPL franchise Rajasthan Royals after Kal Somani deal falls through",
-    "desc": "Celebrated industrialist Lakshmi N.Mittal, his son Aditya Mittal and Adar Poonawalla have bought the major stake in the Rajasthan Royals franchise for USD 1.65 billion (approximately Rs 15,600 crore). This comes after the Kal Somani–Rob...",
+    "title": "Sunil Narine creates history, becomes first-ever player to pick 200 IPL wickets for single team",
+    "desc": "Kolkata Knight Riders star Sunil Narine etched his name into the history books as he completed 200 wickets in the Indian Premier League. The former West Indies all-rounder has become the first player in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunil-narine-creates-history-becomes-first-ever-player-to-pick-200-ipl-wickets-for-single-team-2026-05-03-1039811",
+    "time": "2026-05-03T12:10:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
+    "desc": "Game 46 of the ongoing IPL (Indian Premier League) 2026 sees Gujarat Titans taking on Punjab Kings. The two sides meet at the Narendra Modi Stadium in Ahmedabad on May 3, and both sides will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-pbks-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-05-03-1039804",
+    "time": "2026-05-03T11:14:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Lakshmi Mittal, new owner of IPL franchise Rajasthan Royals?",
+    "desc": "Lakshmi Mittal announced the acquisition of IPL franchise Rajasthan Royals for a huge sum of USD 1.65 billion (approximately Rs 15,600 crore) along with his son Aditya Mittal and Adar Poonawalla. The Mittal family has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-lakshmi-mittal-new-owner-of-ipl-franchise-rajasthan-royals-2026-05-03-1039801",
+    "time": "2026-05-03T10:54:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hyderabad aim to keep winning run alive",
+    "desc": "The stage is set for the 45th game of the ongoing IPL (Indian Premier League) 2026 sees Sunrisers Hyderabad taking on Kolkata Knight Riders. The two sides meet at the Rajiv Gandhi International Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-kkr-live-cricket-score-hyderabad-aim-to-keep-winning-run-alive-2026-05-03-1039796",
+    "time": "2026-05-03T10:25:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lakshmi Mittal family buys major stake in IPL franchise Rajasthan Royals after Kal Somani deal falls through",
+    "desc": "Celebrated industrialist Lakshmi N.Mittal and his son Aditya Mittal have bought the majority of the stake in the Rajasthan Royals franchise for USD 1.65 billion (approximately Rs 15,600 crore). Serum institute of India's Adar Poonawalla and...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/new-owners-for-ipl-franchise-rajasthan-royals-after-kal-somani-deal-falls-through-2026-05-03-1039793",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-kkr-head-to-head-record-ahead-of-game-45-in-ipl-2026-2026-05-03-1039754",
     "time": "2026-05-03T06:06:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ruturaj Gaikwad surpasses Faf du Plessis after stellar knock against MI, sits behind Raina, Dhoni",
-    "desc": "Chennai Super Kings got the best of Mumbai Indians in the 44th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the MA Chidambaram Stadium in Chennai on May 2nd,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-surpasses-faf-du-plessis-after-stellar-knock-against-mi-sits-behind-raina-dhoni-2026-05-03-1039748",
-    "time": "2026-05-03T04:57:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya weighs in on MI's performance after horrid form in IPL 2026 continues",
-    "desc": "The 44th game of the ongoing IPL (Indian Premier League) 2026 saw Mumbai Indians take on Chennai Super Kings. The two sides met at the MA Chidambaram Stadium in Chennai on May wnd, and it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-weighs-in-on-mi-s-performance-after-horrid-form-in-ipl-2026-continues-2026-05-03-1039743",
-    "time": "2026-05-03T03:35:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Mumbai Indians still qualify for IPL 2026 playoffs after another drubbing to CSK?",
-    "desc": "Mumbai Indians suffered yet another drubbing to Chennai Super Kings as they lost their second game to the yellow army this season on Saturday, May 2, at the MA Chidambaram Stadium. After a 103-run thrashing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-mumbai-indians-still-qualify-for-ipl-2026-playoffs-after-another-drubbing-to-csk-2026-05-02-1039732",
-    "time": "2026-05-02T18:18:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav surpasses Kieron Pollard to become Mumbai's second-leading run-scorer, check full list",
-    "desc": "Suryakumar Yadav surpassed Kieron Pollard to become the second-leading run-scorer for Mumbai Indians in IPL 2026. He now sits behind only Rohit Sharma in the franchise’s all-time list. Suryakumar has accumulated 3,933 runs from 121...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-surpasses-kieron-pollard-to-become-mumbai-s-second-leading-run-scorer-check-full-list-2026-05-02-1039731",
-    "time": "2026-05-02T18:15:42.000Z"
   }
 ];

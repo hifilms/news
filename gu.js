@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "આ અઠવાડિયામાં બે દિવસ બંધ રહેશે બેંકો, જાણો શું છે કારણ",
+    "desc": "રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) અનુસાર, મે મહિનામાં કુલ 7 બેંક રજાઓ નક્કી કરવામાં આવી છે. જેમાં બીજા અને ચોથા શનિવાર સહિત બધા રવિવારનો સમાવેશ થાય છે. ત્યારે બેંકો કયા કયા દિવસે બંધ રહેશે તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bank-holidays-next-week-bank-will-be-closed-two-days-know-the-reason-476172 ",
+    "time": "2026-05-03T12:27:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "2021માં કર્મચારીઓના DAમાં સીધો થયો હતો 11%નો વધારો, હવે વધારાને લઈને આવ્યા આ મોટા સમાચાર!",
+    "desc": "7મા પગાર પંચ દરમિયાન સૌથી મોટો વધારો વર્ષ 2021માં 11%નો રહ્યો હતો, જ્યારે કોરોના બાદ રોકાયેલું DA એકસાથે જાહેર કરવામાં આવ્યું હતું. હવે, જાન્યુઆરી 2026માં મોંઘવારી ભથ્થું (Dearness Allowance) 60% સુધી પહોંચી ગયું છે, જે જાન્યુઆરી 2026થી લાગુ કરવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/in-2021-there-was-a-direct-increase-of-11-percent-in-the-da-of-employees-now-this-big-news-has-come-regarding-the-increase-476171 ",
+    "time": "2026-05-03T12:10:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "જર્મની પર ટ્રમ્પનો &amp;#039;ડબલ એટેક&amp;#039;... હજારો US સૈનિકોને પાછા બોલાવ્યા, કાર પર 25% ટેરિફની જાહેરાત",
+    "desc": "જર્મની પર ડબલ એટેક કરતા રાષ્ટ્રપતિ ટ્રમ્પે 5,000થી વધુ સૈનિકો પાછા બોલાવવાની જાહેરાત કરી છે અને યુરોપિયન કાર પર 25% ટેરિફ લાદવાની પણ જાહેરાત કરી છે. આ નિર્ણય પર અમેરિકા અને યુરોપ બંને તરફથી પ્રતિક્રિયાઓ આવી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-double-attack-on-germany-recalls-us-troops-tariff-on-cars-476170 ",
+    "time": "2026-05-03T12:01:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "122 છગ્ગા અને 127 ચોગ્ગા... આ ધાકડ બેટ્સમેને T20માં બનાવ્યો 1,488 રનનો અશક્ય રેકોર્ડ",
+    "desc": "T20 આંતરરાષ્ટ્રીય ક્રિકેટમાં એક એવો વિશ્વ રેકોર્ડ છે જેને તોડવો લગભગ અશક્ય છે. ટી20 આંતરરાષ્ટ્રીય ક્રિકેટમાં 1,488 રન બનાવવા લગભગ અશક્ય લાગે છે, છતાં આ રેકોર્ડ બન્યો છે. આ ધાકડ બેટ્સમેને T20માં 1,488 રન બનાવ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/unique-cricket-record-karanbir-singh-most-runs-in-a-calendar-year-in-t20-476159 ",
+    "time": "2026-05-03T11:39:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આ તારીખથી ATMમાંથી ફટાફટ નીકળશે PFના રૂપિયા, જાણો લોન્ચિંગ પહેલા સ્ટેપ-બાય-સ્ટેપ પ્રોસેસ",
+    "desc": "ATM કાર્ડથી PFના રૂપિયા ઉપાડવા હવે ટૂંક જ સમયમાં શક્ય બની જશે. કર્મચારી ભવિષ્ય નિધિ સંગઠન એટલે કે EPFO ટૂંક જ સમયમાં આ સર્વિસની શરૂઆત કરવા જઈ રહ્યું છે. EPFOએ આ સુવિધા શરૂ કરવા માટે તમામ જરૂરી તૈયારીઓ પૂર્ણ કરી લીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/from-this-date-pf-money-will-be-withdrawn-from-atms-instantly-know-the-step-by-step-process-before-launching-476157 ",
+    "time": "2026-05-03T10:59:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPLમાં મેગા ડીલ... રાજસ્થાન રોયલ્સ ₹15,000 કરોડમાં વેચાઈ, જાણો કોણ છે ખરીદનાર",
+    "desc": "રાજસ્થાન રોયલ્સને મિત્તલ ફેમિલી અને આદર પૂનાવાલા દ્વારા ખરીદવામાં આવી છે. આ મોટી ડીલ સાથે રાજસ્થાન રોયલ્સ હવે એક નવા યુગમાં પ્રવેશ કરવા માટે તૈયાર છે. જેમાં વૈશ્વિક રોકાણ અને નવા વિઝન દ્વારા ટીમને આગળ વધારવાની તૈયારીઓ ચાલી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-mega-deal-adar-poonawalla-and-mittal-family-buys-rajasthan-royals-476151 ",
+    "time": "2026-05-03T10:08:23.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "સોના-ચાંદીના ભાવમાં ઘટાડો, ચાંદી ₹3000 સસ્તી થઈ, સોનામાં પણ ઘટાડો, જાણો નવા ભાવ",
     "desc": "આ અઠવાડિયે સોના અને ચાંદીના ભાવમાં નોંધપાત્ર ઘટાડો નોંધાયો હતો, જેના કારણે સોનું ₹1,000 અને ચાંદી ₹3,000થી વધુ સસ્તું થયું હતું. આંતરરાષ્ટ્રીય અસ્થિરતા અને ફેડની આક્રમક વલણના કારણે ભાવમાં ઘટાડો થયો હતો, જેનાથી રોકાણકારોને રાહત મળી હતી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -288,24 +342,6 @@ const newsData_gu = [
     "time": "2026-05-01T08:04:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "19 કિલોના સિલિન્ડર મોંઘા કર્યા બાદ વધુ એક ઝટકો, 261 રૂપિયા વધાર્યો LPG ગેસના ભાવ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધને કારણે વિશ્વભરમાં એલપીજીની સપ્લાય ચેઈન ખરાબ રીતે પ્રભાવિત થઈ છે. એલપીજી સંકટ વચ્ચે સરકાર દ્વારા સતત પીએનજી (PNG) ને પ્રોત્સાહન આપવામાં આવી રહ્યું છે. આ કટોકટીના કારણે આજે 19 કિલોના સિલિન્ડરની કિંમતમાં એક જ ઝાટકે 1000 રૂપિયાનો વધારો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-price-another-blow-after-hiking-the-price-of-the-19-kg-cylinder-lpg-gas-prices-raised-by-261-475772 ",
-    "time": "2026-05-01T07:12:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI એ Credit Card યુઝર્સને આપી મોટી રાહત: ડ્યુ ડેટ ચૂકી ગયા પછી પણ નહીં લાગે દંડ, હવે બિલ ભરવાનું ટેન્શન ખતમ!",
-    "desc": "જો તમે નિર્ધારિત સમય મર્યાદામાં તમારા ક્રેડિટ કાર્ડનું બિલ પેમેન્ટ નથી કરતા, તો ડ્યુ ડેટ પૂરી થતાની સાથે જ મોટો દંડ અને વ્યાજનો બોજ તમારા ખિસ્સા પર પડવા લાગે છે. પરંતુ ક્રેડિટ કાર્ડનો આ નવો નિયમ કરોડો યુઝર્સ માટે ખુશખબર લઈને આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-of-rbi-grants-major-relief-to-credit-card-users-no-penalties-for-missing-the-due-date-the-stress-of-bill-payment-is-over-475761 ",
-    "time": "2026-05-01T06:54:52.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "મમતા બેનર્જી સામે હારશે શુભેંદુ અધિકારી! આ  EXIT POLL માં બંગાળમાં BJPને માત્ર 50 સીટો",
     "desc": "પશ્ચિમ બંગાળમાં ચૂંટણી પહેલા રાજકીય માહોલ ગરમાઈ ગયો છે. બીજા તબક્કાના મતદાન બાદ સામે આવેલા એક્ઝિટ પોલ ભાજપની જીત તરફ ઈશારો કરી રહ્યાં છે. જ્યારે એક એવો એક્ઝિટ પોલ આવ્યો છે, જેમાં ટીએમસીની જીતની ભવિષ્યવાણી કરવામાં આવી છે.",
@@ -378,15 +414,6 @@ const newsData_gu = [
     "time": "2026-05-01T02:40:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મિડલ ઈસ્ટમાં સંકટ વચ્ચે સરકારે લોકોની દૂર કરી સૌથી મોટી ચિંતા! LPG સપ્લાયને લઈને આપ્યું મોટું અપડેટ",
-    "desc": "સરકારે સ્પષ્ટ કર્યું છે કે પશ્ચિમ એશિયાના સંકટ છતાં દેશમાં LPGનો 100% સપ્લાય બનેલી છે અને ક્યાંય પણ ગેસની અછત નથી. જો કે, કેટલીક જગ્યાએ 'પેનિક બાઈંગ' જોવા મળી છે, જેને રોકવા માટે લોકોને અપીલ કરવામાં આવી છે કે તેઓ જરૂરિયાત અનુસાર જ સિલિન્ડર બુક કરાવે. સામાન્ય જનતાએ ગભરાવાની જરૂર નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-has-removed-the-biggest-concern-of-the-people-a-major-update-has-been-given-regarding-lpg-supply-475707 ",
-    "time": "2026-04-30T17:57:52.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "દિલ્હીના આ માર્કેટમાં મળે છે સૌથી સસ્તું કાપડ, ડિઝાઈનર આઉટફિટ પણ બજેટમાં થઈ જશે તૈયાર",
     "desc": "જો તમારે પણ બજેટમાં પોતાના માટે ડિઝાઈનર કપડાં જોઈએ છે, તો દિલ્હીનું આ માર્કેટ તમારા માટે બેસ્ટ છે. અહીં તમને દરેક પ્રકારનું ફેબ્રિક ખૂબ જ ઓછી કિંમતે મળી જશે. અહીંથી કાપડ ખરીદીને તમે તમારો આઉટફિટ જાતે તૈયાર કરી શકો છો, તે પણ તમારા બજેટમાં.",
@@ -394,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/cheapest-fabrics-are-available-in-this-market-in-delhi-designer-outfits-will-also-be-ready-within-the-budget-475706 ",
     "time": "2026-04-30T17:14:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મધ્યપ્રદેશમાં મોટી દુર્ઘટના : MP ટુરિઝમનું ક્રુઝ નર્મદા નદીમાં ડૂબ્યું, 29 મુસાફરો સવાર હતા, ચારના મોત",
-    "desc": "મધ્યપ્રદેશના જબલપુરમાં આવેલ બરગી ડેમ પાસે આજે સાંજના સમયે એક મોટો દુર્ઘટના બની. ડેમના બેકવોટરમાં પ્રવાસીઓથી ભરેલું એક ક્રૂઝ અચાનક ડૂબી ગયુ. ક્રૂઝમાં લગભગ 30 જેટલા લોકો સવાર હતા. જો કે ક્રૂઝ ડૂબી જતા ચાર લોકોના ઘટના સ્થળે જ મોત નિપજ્યા હતા. જ્યારે 15થી વધુ લોકો તરીને કિનારે પહોંચ્યા હતા",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cruise-capsized-in-bargi-dam-jabalpur-four-dead-15-rescued-search-operation-underway-475691 ",
-    "time": "2026-04-30T16:46:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -457,24 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/when-team-india-will-be-announced-for-womens-t20-world-cup-2026-bcci-announces-date-475634 ",
     "time": "2026-04-30T08:14:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રોહિત શર્મા ક્રિકેટ સિવાય આ બિઝનેસમાંથી કરે છે કરોડોની કમાણી, નેટવર્થ જાણીને ચોંકી જશો",
-    "desc": "ભારતીય ક્રિકેટર રોહિત શર્માનો આજે 38મો જન્મદિવસ છે. રોહિત ક્રિકેટ સિવાય તેની વૈભવી લાઈફસ્ટાઈલ માટે પણ જાણીતો છે. તેના જન્મદિવસે એ જાણી લઈએ કે તેની કુલ સંપત્તિ કેટલી છે અને તે ક્રિકેટ સિવાય કયા કયા બિઝનેસમાંથી કમાણી કરી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-birthday-know-about-his-net-worth-and-luxurious-lifestyle-475621 ",
-    "time": "2026-04-30T06:20:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ક્રિકેટ ફેન્સ ખાસ વાંચે! નરેન્દ્ર મોદી સ્ટેડિયમમાં મેચ જોવા જતા પહેલા પોલીસની આ માર્ગદર્શિકા જાણી લો",
-    "desc": "નરેન્દ્ર મોદી સ્ટેડિયમમાં IPL મેચ માટે પોલીસની માર્ગદર્શિકા જાહેર કરાઈ છે. અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમ ખાતે ગુજરાત ટાઇટન્સ (GT) અને રોયલ ચેલેન્જર્સ બેંગલુરુ (RCB) વચ્ચે મેચ યોજાવા જઈ રહી છે. દર્શકોએ પોતાના વાહનો પોલીસ દ્વારા નિર્ધારિત કરવામાં આવેલી પાર્કિંગની જગ્યાએ જ પાર્ક કરવાના રહેશે. સ્ટેડિયમમાં પ્રવેશતી વખતે ટિકિટ સાથે રાખવી અને પોલીસની સુરક્ષા વ્યવસ્થામાં સંપૂર્ણ સહકાર આપવો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-match-at-narendra-modi-stadium-ahmedabad-police-issues-special-guidelines-for-spectators-475611 ",
-    "time": "2026-04-30T05:26:56.000Z"
   },
   {
     "cat": "Tech",
@@ -610,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-horror-comedy-film-rakasa-on-netflix-rakasa-film-story-and-rating-475032 ",
     "time": "2026-04-27T02:51:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "માલીમાં મોટો આતંકી હુમલો: રક્ષા મંત્રીનું મોત, આખા દેશમાં થઈ રહ્યા છે સીરિયલ બ્લાસ્ટ",
-    "desc": "માલીના રક્ષા મંત્રી સાદિયો કામારાનું JNIMના આતંકી હુમલામાં મોત થયું છે. રાજધાની બામાકોની આસપાસ થયેલા મોટા હુમલા બાદ દેશમાં હિંસા અને તણાવ વધી ગયો છે. સંયુક્ત રાષ્ટ્ર (UN)એ આ સમગ્ર મામલે ચિંતા વ્યક્ત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/major-terrorist-attack-in-mali-defense-minister-death-serial-blasts-taking-place-across-the-country-475015 ",
-    "time": "2026-04-26T17:40:14.000Z"
   },
   {
     "cat": "Entertainment",
