@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ruturaj Gaikwad surpasses Faf du Plessis after stellar knock against MI, sits behind Raina, Dhoni",
+    "desc": "Chennai Super Kings got the best of Mumbai Indians in the 44th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the MA Chidambaram Stadium in Chennai on May 2nd,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-surpasses-faf-du-plessis-after-stellar-knock-against-mi-sits-behind-raina-dhoni-2026-05-03-1039748",
+    "time": "2026-05-03T04:57:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya weighs in on MI's performance after horrid form in IPL 2026 continues",
+    "desc": "The 44th game of the ongoing IPL (Indian Premier League) 2026 saw Mumbai Indians take on Chennai Super Kings. The two sides met at the MA Chidambaram Stadium in Chennai on May wnd, and it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-weighs-in-on-mi-s-performance-after-horrid-form-in-ipl-2026-continues-2026-05-03-1039743",
+    "time": "2026-05-03T03:35:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Can Mumbai Indians still qualify for IPL 2026 playoffs after another drubbing to CSK?",
     "desc": "Mumbai Indians suffered yet another drubbing to Chennai Super Kings as they lost their second game to the yellow army this season on Saturday, May 2, at the MA Chidambaram Stadium. After a 103-run thrashing...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/kuldeep-kumar-thrown-out-of-train-in-january-registers-national-record-in-pole-vault-2026-05-02-1039713",
     "time": "2026-05-02T14:36:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Rohit Sharma not playing vs Chennai Super Kings in IPL 2026? When will he be back batting?",
-    "desc": "Senior batter Rohit Sharma is yet to get back to full fitness, which ruled him out of the marquee clash against Chennai Super Kings in the IPL 2026. He has played the first four games...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rohit-sharma-not-playing-vs-chennai-super-kings-in-ipl-2026-when-will-he-be-back-batting-2026-05-02-1039710",
-    "time": "2026-05-02T13:49:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Matheesha Pathirana play for KKR against Sunrisers Hyderabad in IPL 2026? Bowling coach shares update",
-    "desc": "Sri Lanka international Matheesha Pathirana joined the Kolkata Knight Riders squad nearly two weeks ago, but he is yet to feature in the IPL 2026. He was available for the games against Rajasthan Royals and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-matheesha-pathirana-play-for-kkr-against-sunrisers-hyderabad-in-ipl-2026-bowling-coach-shares-update-2026-05-02-1039700",
-    "time": "2026-05-02T11:52:24.000Z"
   }
 ];

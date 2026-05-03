@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "મુંબઈ ઈન્ડિયન્સ CSK સામે હાર્યા પછી પણ પ્લેઓફમાં પહોંચી શકે છે ? 5 પોઈન્ટમાં સમજો સંપૂર્ણ સમીકરણ",
+    "desc": "IPL 2026માં મુંબઈ ઈન્ડિયન્સ ટીમ વધુ એક મેચ હારી ગઈ છે. શનિવારે CSKએ MIને 8 વિકેટે હરાવ્યું હતું. આ હાર સાથે 9 મેચમાં મુંબઈની આ 7મી હાર છે, તેથી હવે મુંબઈ માટે પ્લેઓફમાં પહોંચવું લગભગ અશક્ય બની ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-mumbai-indians-playoff-qualification-scenarios-after-losing-to-csk-476101 ",
+    "time": "2026-05-03T05:53:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;જ્યારે હું PM બનીશ તો ઉનાળામાં સ્કૂલે જવાનું બંધ કરાવી દઈશ&amp;#039;, ગરમીમાં શાળાએ જવાથી ભડક્યું બાળક",
+    "desc": "ઉત્તર પ્રદેશ સહિત દેશના અન્ય ભાગોમાં પડી રહેલી ભીષણ ગરમીએ મોટાઓની સાથે બાળકોનું જીવવું પણ મુશ્કેલ કરી દીધું છે. આ દરમિયાન એક નાના બાળકનો વીડિયો સામે આવ્યો છે, જે કાળઝાળ તડકામાં શાળાએ જવાથી એટલો પરેશાન છે કે તેણે સીધી જ ગરમીમાં શાળાઓ પર પ્રતિબંધ મૂકવાની માંગ કરી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/child-outraged-over-having-to-attend-school-in-the-scorching-heat-watch-the-video-476097 ",
+    "time": "2026-05-03T04:17:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દિલ્હીમાં મધરાતે મોતનું ભયાનક તાંડવ: AC બ્લાસ્ટ બાદ બિલ્ડિંગમાં ભીષણ આગ, 9 લોકોને ઉંઘમાં જ મળ્યું મોત",
+    "desc": "દિલ્હીના વિવેક વિહાર વિસ્તારમાં ગઈકાલે રાત્રે એક શક્તિશાળી વિસ્ફોટ થયો હતો જેમાં નવ લોકોના મોત થયા. દિલ્હીના વિવેક વિહાર વિસ્તારમાં એસીમાં વિસ્ફોટ થવાને કારણે ભીષણ આગ લાગી હતી, જે જોતજોતામાં વિકરાળ સ્વરૂપ ધારણ કર્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/watch-video-fire-breaks-out-in-four-storey-building-in-shahdara-9-bodies-found-rescue-op-underway-476089 ",
+    "time": "2026-05-03T03:53:29.000Z"
+  },
+  {
     "cat": "World",
     "title": "ન તો EVM કે ન તો બેલેટ પેપર... દુનિયાના આ જગ્યાએ, ફક્ત હાથ ઉંચા કરીને જ ચૂંટાય છે સરકાર, જાણો કેમ?",
     "desc": "શું તમે જાણો છો કે દુનિયામાં એક એવી જગ્યા છે જ્યાં લોકો મતદાન કરવા માટે બેલેટ પેપર કે EVMનો ઉપયોગ કરતા નથી. અહીં, લોકો પોતાના નેતા કે સરકાર પસંદ કરવા માટે ખુલ્લા મેદાનમાં હાથ ઉંચા કરે છે.",
@@ -369,15 +396,6 @@ const newsData_gu = [
     "time": "2026-04-30T14:38:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સોરી ડિયર હસબન્ડ, બાળકોનું ધ્યાન રાખજો! બિજનૌરની મોનિકાનો દર્દનાક અંત, અંતિમ નોટમાં લખ્યું બ્લેકમેઈલિંગનું સત્ય",
-    "desc": "ઉત્તર પ્રદેશના બિજનૌરમાં એક સાયબર ક્રાઈમનો દિલધડક કિસ્સો સામે આવ્યો છે. ડિજીટલ એરેસ્ટ અને સતત બ્લેકમેઈિંગથી કંટાળીને 28 વર્ષીય પરિણીતા મોનિકાએ આપઘાત કરી લીધો છે. આ દર્દનાક પગલું તેણે પોતાના લગ્નની એનિવર્સરીના એક દિવસ પહેલા જ ભર્યું હતું અને 11 વર્ષના લગ્નજીવનનો અંત આણ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/up-bijnor-monika-end-her-life-after-digital-arrest-left-last-note-for-family-members-475684 ",
-    "time": "2026-04-30T13:53:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ODI વર્લ્ડ કપ 2027 બાદ કોહલીએ નિવૃત્તિ લીધી તો કોણ બનશે ભારતનો નંબર-3 બેટર? આ ક્રિકેટર છે મોટો દાવેદાર",
     "desc": "છેલ્લા એક દાયકા કરતા વધુ સમયથી વનડે ક્રિકેટમાં વિરાટ કોહલી ભારત માટે શાનદાર પ્રદર્શન કરી રહ્યો છે. કોહલી નંબર-3 પર બેટિંગ કરી અનેક રેકોર્ડ બનાવી ચૂક્યો છે. જો કોહલી 2027ના વનડે વિશ્વકપ બાદ આ ફોર્મેટને અલવિદા કહે તો ત્યારબાદ તેનું સ્થાન કોણ લેશે?",
@@ -421,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/when-team-india-will-be-announced-for-womens-t20-world-cup-2026-bcci-announces-date-475634 ",
     "time": "2026-04-30T08:14:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "70KM ની ઝડપે પવનો ફૂંકાશે, 29 રાજ્યોમાં ગાજવીજ સાથે વરસાદનું એલર્ટ, IMD નું એલર્ટ",
-    "desc": "imd weather predictions; દેશભરમાં છેલ્લા 24 કલાકમાં અલગ-અલગ રાજ્યોમાં હવામાનનો મિજાજ અલગ-અલગ રહ્યો છે. તો લૂ-ભેજને કારણે ભીષણ ગરમીથી લોકો પરેશાન છે. તો કેટલીક જગ્યાએ વરસાદને કારણે રાહત મળી છે. હવામાન વિભાગે એક તરફ અલ નીનો અને બીજીતરફ પશ્ચિમી વિક્ષોભની સાથે પ્રી-મોન્સૂનને આ હવામાન માટે જવાબદાર ઠેરવ્યું છે. આવો જાણીએ આગામી પાંચ દિવસ દેશમાં હવામાન કેવું રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/imd-weather-predictions-winds-will-blow-at-a-speed-of-70km-rain-alert-in-29-states-475630 ",
-    "time": "2026-04-30T07:37:49.000Z"
   },
   {
     "cat": "Sports",
@@ -484,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/visa-rules-tension-is-over-these-5-european-countries-are-giving-permission-to-stay-and-find-a-job-after-studies-know-475565 ",
     "time": "2026-04-29T18:07:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "10 રન પર આખી ટીમ ઓલઆઉટ... T20 ઇન્ટરનેશનલ મેચ માત્ર 2 બોલમાં જીતીને બનાવ્યો વર્લ્ડ રેકોર્ડ, કઈ ટીમે કર્યો આ ચમત્કાર?",
-    "desc": "ક્રિકેટ એક એવી રમત છે, જેમાં કઈ પણ થઈ શકે છે. જે તમે ક્યારેય વિચાર્યું ન હોય તેવું બને છે. એમાં પણ ખાસ કરીને જ્યારે T20ની વાત આવે છે, ત્યારે એવા રેકોર્ડ બને છે જે અસંભવ લાગે છે. આવો જ એક રેકોર્ડ બન્યો છે, જેના વિશે કોઈપણ ક્રિકેટ ફેન્સે ક્યારેય પણ સપનામાં પણ નહીં વિચાર્યો હોય. T20 ક્રિકેટના ઇતિહાસમાં એક એવી મેચ પણ રમાઈ હતી, જે શરૂ થતાની સાથે જ પૂરી થઈ ગઈ હતી. આ રેકોર્ડ વિશે જાણીને તમે પણ ચોંકી જશો કે, આવું પણ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/entire-team-was-all-out-for-10-runs-they-created-a-world-record-by-winning-a-t20-international-match-in-just-2-balls-which-team-performed-this-miracle-475518 ",
-    "time": "2026-04-29T12:16:04.000Z"
   },
   {
     "cat": "Business",
