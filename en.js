@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "'All officers of TMC': BJP alleges irregularities after phone found in envelope near Asansol College strong room; chaos erupts",
+    "desc": "A switched-off mobile phone and documents linked to the Raniganj constituency were found in an envelope near the Asansol Engineering College strong room, sparking a commotion. A BJP leader alleged bias from officers towards the TMC and raised concerns over potential irregularities. The incident occurred amidst heavy security for EVMs ahead of tomorrow's results.",
+    "img": "https://static.toiimg.com/photo/msid-130735173,imgsize-33900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/all-officers-of-tmc-bjp-alleges-irregularities-after-phone-found-in-envelope-near-asansol-college-strong-room-chaos-erupts/articleshow/130735054.cms",
+    "time": "2026-05-03T15:23:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "New short Haj package likely to be popular among working pilgrims",
+    "desc": "The new option reduces the duration of the pilgrimage to 20 days, compared to the usual 40-45 day stay in Saudi Arabia. The first batch of pilgrims from Kerala availing themselves of the package will depart from Cochin International Airport on May 17",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/new-short-haj-package-likely-to-be-popular-among-working-pilgrims/article70935547.ece",
+    "time": "2026-05-03T15:18:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sara left shocked as host jokes about identifying actors from 'behind' in pap videos",
+    "desc": "Actress Sara Ali Khan was taken aback when a trailer launch host joked about identifying actors from behind and admitting to saving paparazzi clips. This incident echoes past concerns from Janhvi Kapoor and Malaika Arora about uncomfortable paparazzi angles. The video of the event sparked social media criticism.",
+    "img": "https://static.toiimg.com/photo/msid-130735031,imgsize-45950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-ali-khan-is-left-shocked-as-host-jokes-about-identifying-actors-from-behind-through-paparazzi-videos-video-goes-viral-yeh-kya-bol-raha-hai/articleshow/130735010.cms",
+    "time": "2026-05-03T15:07:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fish, fury &amp; 90 lakh voters: What stood out in assembly election 2026 campaign trail",
+    "desc": "The 2026 Indian Assembly Elections showcased a nation in transition, marked by regional pride, welfare economics, and celebrity influence. Tragedies, controversial rhetoric, and mass voter roll deletions defined campaigns across states, leading to high voter turnout and intense political theatre.",
+    "img": "https://static.toiimg.com/photo/msid-130734836,imgsize-1136435.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fish-fury-90-lakh-voters-what-stood-out-in-assembly-election-2026-campaign-trail/articleshow/130733285.cms",
+    "time": "2026-05-03T14:57:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Date, time and where to follow live counting of votes",
+    "desc": "​Exit polls have indicated a closely fought contest between the Left Democratic Front and the United Democratic Front, with only a narrow gap separating the two alliances. According to the poll of polls, the Congress-led UDF is projected to cross the majority mark with around 72 seats in the 140-member assembly, while the LDF is expected to remain close behind with approximately 63 seats.",
+    "img": "https://static.toiimg.com/photo/msid-130734695,imgsize-421964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kerala-election-result-2026-date-time-and-where-to-follow-live-counting-of-votes-full-schedule/articleshow/130734619.cms",
+    "time": "2026-05-03T14:43:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Urban Local Bodies collect 35% of annual property tax demand in April alone",
+    "desc": "Improved assessment coverage and expansion of municipal tax base have helped in mobilising ₹948.15 crore of the total demand of ₹2,683.50 crore at the start of the financial year itself, says MA&UD Principal Secretary Suresh Kumar",
+    "img": "https://th-i.thgim.com/public/incoming/nui11k/article70935636.ece/alternates/LANDSCAPE_1200/10215_3_5_2026_18_45_23_1_IMG_20260503_WA0046.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-collect-35-of-annual-property-tax-demand-in-april-alone/article70935200.ece",
+    "time": "2026-05-03T14:42:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shekhar Suman reacts as he gets relief from court in 16-year old case",
+    "desc": "The Bombay High Court quashed an FIR against Shekhar Suman and Bharti Singh after 16 years, ruling that mentioning food items in a comic act does not constitute religious insult. Suman expressed relief, stating he was unnecessarily dragged into the publicity-seeking case and is thankful for the justice.",
+    "img": "https://static.toiimg.com/photo/msid-130734581,imgsize-39976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-suman-reacts-as-he-gets-relief-from-court-in-sixteen-year-old-fir-filed-against-him-bharti-singh-regarding-rasgulla-joke-justice-prevails/articleshow/130734523.cms",
+    "time": "2026-05-03T14:38:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Integrated logistics planning done to promote  six horticulture crops in Andhra Pradesh",
+    "desc": "An assessment of the value chain, market linkages and infrastructure requirements of crops such as mango, banana, tomato, pomegranate, sweet lime and papaya is aimed at maximising returns for farmers and giving a boost to the economy",
+    "img": "https://th-i.thgim.com/public/incoming/o6hv2r/article70935392.ece/alternates/LANDSCAPE_1200/DSC_3659.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/integrated-logistics-planning-done-to-promote-six-horticulture-crops-in-andhra-pradesh/article70935396.ece",
+    "time": "2026-05-03T14:37:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How a weaker dollar is quietly making life more expensive for Americans",
+    "desc": "A declining U.S. dollar, down approximately 10% since Donald Trump's return to the White House, is quietly increasing the cost of everyday life for Americans. This weakening currency shrinks purchasing power, making imported goods and foreign travel more expensive, while benefiting large multinational exporters.",
+    "img": "https://static.toiimg.com/photo/msid-130734509,imgsize-1759791.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/how-a-weaker-dollar-is-quietly-making-life-more-expensive-for-americans/articleshow/130732816.cms",
+    "time": "2026-05-03T14:34:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shakira performs with Anita at free Copacabana beach",
+    "desc": "In a dazzling display of talent and unity, Shakira enchanted approximately 2 million fans during her free concert at Copacabana Beach in Rio de Janeiro. As the centerpiece of her 'Las Mujeres Ya No Llora' tour, she electrified the stage with a surprise appearance from fellow artist Anitta, delighting the crowd with their hit 'Choka Choka'.",
+    "img": "https://static.toiimg.com/photo/msid-130734490,imgsize-137428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-and-anita-surprise-fans-with-choka-choka-performance-at-copacabana-beach-videos-go-viral/articleshow/130734443.cms",
+    "time": "2026-05-03T14:31:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Nishant Sindhu? Gujarat Titans hand debut to India U-19 World Cup winner",
+    "desc": "Gujarat Titans handed a maiden IPL appearance to all-rounder Nishant Sindhu against Punjab Kings. Captain Shubman Gill confirmed the decision at the toss, emphasizing the team's momentum in chasing and the need to peak at the right time. Sindhu, a left-handed batter and slow left-arm orthodox bowler, previously impressed in junior cricket and the U-19 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-130734382,imgsize-1104992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-who-is-nishant-sindhu-gujarat-titans-hand-debut-to-india-u-19-world-cup-winner/articleshow/130734357.cms",
+    "time": "2026-05-03T14:25:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rs 27cr price tag burden for Pant? LSG feel 'it's just a question of ...'",
+    "desc": "Lucknow Super Giants bowling coach Bharat Arun backed captain Rishabh Pant despite his poor IPL 2026 form, saying the record Rs 27 crore price tag is not affecting him mentally and that he is “one innings away” from regaining rhythm. Arun also praised Mohammed Shami and confirmed Mayank Yadav is fully fit again.",
+    "img": "https://static.toiimg.com/photo/msid-130734386,imgsize-71074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rs-27cr-price-tag-burden-for-rishabh-pant-lsg-feel-its-just-a-question-of-/articleshow/130734199.cms",
+    "time": "2026-05-03T14:24:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "83.96% men, 86.2% women voted across State, says ECI",
+    "desc": "A total of 4,87,98,833 voters out of 5,73,43,291 turned up to exercise their franchise on April 23 in T.N. Assembly polls; total votes polled may go up as the current figures do not include postal ballots or senior citizens who voted through Form 12D",
+    "img": "https://th-i.thgim.com/public/incoming/og5hk1/article70933177.ece/alternates/LANDSCAPE_1200/DSC_1048.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/8396-men-862-women-voted-at-polling-stations-in-assembly-poll-across-tamil-nadu-ec/article70932771.ece",
+    "time": "2026-05-03T14:19:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vellappally Natesan hopes for LDF win, says BJP will open account in State",
+    "desc": "SNDP general secretary says LDF government’s welfare work among the poor will reflect in the results. The BJP is likely to win seats in Thiruvananthapuram and emerge as a corrective force in the State’s politics, he adds",
+    "img": "https://th-i.thgim.com/public/incoming/ael3yj/article70935544.ece/alternates/LANDSCAPE_1200/IMG_29tv_Vellappally_2_1_LIF7V2M6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-vellappally-natesan-hopes-for-ldf-win-says-bjp-will-open-account-in-state/article70935475.ece",
+    "time": "2026-05-03T14:17:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chakravarthy, Narine script SRH collapse as KKR end Hyderabad's winning run",
+    "desc": "Varun Chakravarthy took 3 for 36 and Sunil Narine claimed 2 for 31 as SRH were bowled out for 165 in 19 overs. KKR chased the target with 10 balls remaining to register their third straight win.",
+    "img": "https://static.toiimg.com/photo/msid-130734086,imgsize-61186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-varun-chakravarthy-sunil-narine-script-srh-collapse-as-kkr-end-hyderabads-winning-run/articleshow/130733985.cms",
+    "time": "2026-05-03T14:10:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Preity reacted to replacing Kareena in KHNH, heres' what Saif said",
+    "desc": "Preity Zinta candidly discussed stepping into Kareena Kapoor Khan's shoes for 'Kal Ho Naa Ho' after Kareena reportedly turned down the role. Zinta likened the situation to trying on jeans, stating the film was destined for her. The casting saga also led to a temporary rift between Kareena and director Karan Johar.",
+    "img": "https://static.toiimg.com/photo/msid-130734087,imgsize-48974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zintas-old-clip-on-being-the-second-choice-for-kal-ho-na-ho-after-kareena-kapoor-rejected-it-goes-viral-heres-how-saif-ali-khan-reacted-it-was-in-my-destiny/articleshow/130734051.cms",
+    "time": "2026-05-03T14:10:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two security staff members arrested after video shows them assaulting tribal man at Madhya Pradesh coal plant",
+    "desc": "A video shows one of the accused brutally beating up Annelal Baiga with a hockey stick as he pleads for him to stop; one of the bystanders is heard saying, “Leave the head and hit on the legs. Break his leg.”",
+    "img": "https://th-i.thgim.com/public/elections/west-bengal-assembly/a3g5jc/article70935500.ece/alternates/LANDSCAPE_1200/iStock-1140960262.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/two-security-staff-members-arrested-after-video-shows-them-assaulting-tribal-man-at-madhya-pradesh-coal-plant/article70935089.ece",
+    "time": "2026-05-03T14:08:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans opt to bowl vs Punjab Kings; Nishant Sindhu handed debut",
+    "desc": "Gujarat Titans opted to bowl first against Punjab Kings, aiming to leverage their recent chasing success and strong bowling. Skipper Shubman Gill highlighted the team's timely form and middle-order strength. Punjab's Shreyas Iyer acknowledged the pitch's dual nature, emphasizing focus despite a demanding schedule. Both sides made bowling changes for this crucial encounter.",
+    "img": "https://static.toiimg.com/photo/msid-130733845,imgsize-1099656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-gujarat-titans-opt-to-bowl-vs-punjab-kings-nishant-sindhu-handed-debut/articleshow/130733618.cms",
+    "time": "2026-05-03T13:49:28.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'I don't know': Kapil Dev declines to comment on Vaibhav Sooryavanshi",
     "desc": "Former Indian all-rounder Kapil Dev declined to comment on teenage IPL star Vaibhav Sooryavanshi, saying experts like Sunil Gavaskar and Ravi Shastri are better suited to judge him. The 15-year-old Rajasthan Royals opener has scored 404 runs in IPL 2026, including a 36-ball century, earning widespread praise and India call-up discussions.",
@@ -25,6 +187,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/sears-tower-tallest-for-nearly-25-years-now-ranked-25th/article70896858.ece",
     "time": "2026-05-03T12:47:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seats low, stakes high: Is BJP expanding quietly in Kerala?",
+    "desc": "The Bharatiya Janata Party is making inroads in Kerala, challenging the state's traditional two-front political system. Recent elections show the BJP gaining ground in specific constituencies, turning contests into triangular battles. This shift is evident in Lok Sabha and local body polls, indicating a gradual disruption of the established LDF-UDF dominance. The party focuses on select seats for strategic growth.",
+    "img": "https://static.toiimg.com/photo/msid-130732824,imgsize-1460984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kerala-assembly-election-results-2026-seats-low-stakes-high-is-bjp-expanding-quietly-in-kerala/articleshow/130731350.cms",
+    "time": "2026-05-03T12:46:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -84,7 +255,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "A defining test for BJP, Congress and regional satraps",
     "desc": "As vote counting looms for five key states, the 2026 assembly elections represent a critical juncture for national parties and regional strongholds. The BJP seeks geographic expansion, while the Congress fights for relevance. Regional forces face mounting pressure, making the outcome a test of India's political trajectory.",
-    "img": "https://static.toiimg.com/photo/msid-130731762,imgsize-952038.cms",
+    "img": "https://static.toiimg.com/photo/msid-130731736,imgsize-952038.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/assembly-election-results-2026-a-defining-test-for-bjp-congress-and-regional-satraps/articleshow/130731736.cms",
     "time": "2026-05-03T12:05:22.000Z"
@@ -225,15 +396,6 @@ const newsData_en = [
     "time": "2026-05-03T10:28:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Silence, the court is in session",
-    "desc": "The resignation of Allahabad High Court judge Yashwant Varma last month, amid parliamentary proceedings to remove him over allegations that burnt wads of unaccounted cash were found at his Delhi residence in 2025, has brought into focus how the judiciary holds itself to account. Aaratrika Bhaumik reports on the opacity surrounding complaints against judges, the routine rejection of information requests, and the shrinking space for criticism",
-    "img": "https://th-i.thgim.com/public/incoming/m8vwjc/article70919451.ece/alternates/LANDSCAPE_1200/12_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/silence-the-court-is-in-session-a-look-at-judicial-accountability-in-india/article70883455.ece",
-    "time": "2026-05-03T10:09:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kelly Brook talks about the alleged Ant and Dec feud",
     "desc": "Kelly Brook took a moment to address the speculation surrounding her interactions with Ant and Dec, assuring fans that there is no animosity between them. Instead, she expressed her excitement about joining their upcoming reality project, describing her initial encounter with the comedic pair as a joyful experience filled with encouragement.",
@@ -288,33 +450,6 @@ const newsData_en = [
     "time": "2026-05-03T09:42:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala’s alternating cycle on trial: Will Left front extend run or UDF return?",
-    "desc": "Estimates vary, but the range broadly suggests the UDF could cross the halfway mark in the 140-member House, with projections spanning from around 70 seats at the lower end to close to 90 at the higher end. In contrast, the LDF is largely seen falling short, with projections indicating a ceiling below a simple majority. If these projections hold, the outcome would carry significance beyond a routine change of government.",
-    "img": "https://static.toiimg.com/photo/msid-130730212,imgsize-55894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/keralas-alternating-cycle-on-trial-will-left-front-extend-run-or-udf-return/articleshow/130681026.cms",
-    "time": "2026-05-03T09:39:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'MPs who switched to BJP targeted': Raghav Chadha accuses Punjab govt of political vendetta, to meet President Droupadi Murmu on May 5",
-    "desc": "Rajya Sabha MP Raghav Chadha is set to meet President Droupadi Murmu on May 5 to voice concerns regarding the alleged misuse of state machinery in Punjab. He plans to highlight political vendetta against former AAP MPs who recently joined the BJP. Chadha, along with three other MPs, will present these issues to the President.",
-    "img": "https://static.toiimg.com/photo/msid-130730153,imgsize-74242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mps-who-switched-to-bjp-targeted-raghav-chadha-accuses-punjab-govt-of-political-vendetta-to-meet-president-droupadi-murmu-on-may-5/articleshow/130730087.cms",
-    "time": "2026-05-03T09:35:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata vs Suvendu, Agnimitra Paul vs Tapas Banerjee- 8 key fights to watch out for",
-    "desc": "West Bengal's 2026 Assembly Elections are heating up as polling concludes, with key constituencies poised to decide the fate of the TMC and BJP. High-profile battles like Bhabanipur and Nandigram are drawing national attention, while regional strongholds and volatile seats add to the suspense. Voter list controversies also mark this crucial election.",
-    "img": "https://static.toiimg.com/photo/msid-130729705,imgsize-805406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-2026-mamata-vs-suvendu-agnimitra-paul-vs-tapas-banerjee-8-key-fights-to-watch-out-for/articleshow/130729567.cms",
-    "time": "2026-05-03T09:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Not CSK or RCB! Mumbai Indians become the first team in T20 cricket to...",
     "desc": "Mumbai Indians achieved a historic milestone on May 2, 2026, becoming the first T20 team to surpass 50,000 runs. This remarkable feat was accomplished in their 308th T20 appearance during an IPL 2026 match against Chennai Super Kings. Despite the team's batting collapse and eventual loss, the record underscores their enduring dominance in the format.",
@@ -358,42 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lil-jon-shares-about-his-emotional-last-trip-with-son-nathan-smith-says-i-saw-how-happy-it-made-him/articleshow/130729737.cms",
     "time": "2026-05-03T09:01:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Govinda danced with wife Sunita for the FIRST time",
-    "desc": "Bollywood icon Govinda surprised audiences on 'Indian Idol 13' by dancing with wife Sunita Ahuja for the first time publicly after she revealed he'd never danced with her. The emotional performance, filled with hugs and kisses, showcased their enduring love story, captivating fans and judges alike, proving Govinda's charm extends far beyond the silver screen.",
-    "img": "https://static.toiimg.com/photo/msid-130729640,imgsize-77406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-govinda-danced-with-wife-sunita-for-the-first-time-and-sealed-it-with-kiss-inhone-aajtak-mere-saath-dance-nahi-kiya/articleshow/130729625.cms",
-    "time": "2026-05-03T08:38:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jon M. Chu almost did not believe in himself",
-    "desc": "Celebrated filmmaker Jon M. Chu, renowned for hits like 'Crazy Rich Asians' and the upcoming 'Wicked,' openly shared his struggles with self-doubt during the formative years of his career. He candidly admitted feeling out of place in Hollywood, even forecasting a project's eventual failure. He had told his team they might endure a five-year wait without any profit.",
-    "img": "https://static.toiimg.com/photo/msid-130729577,imgsize-78360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jon-m-chu-talks-about-becoming-a-huge-director-i-was-like-no-ones-going-to-see-this-movie/articleshow/130729556.cms",
-    "time": "2026-05-03T08:38:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman gives glimpse into his personal philosophy",
-    "desc": "Salman Khan's recent social media posts have garnered significant attention. He shared a philosophical message about decision-making and self-reliance, followed by a heartwarming picture with his pet dog, showcasing his love for animals. Khan is currently engaged in two major film projects, 'Maatrubhumi' and an action film by Vamshi Paidipally.",
-    "img": "https://static.toiimg.com/photo/msid-130729615,imgsize-36234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-gives-glimpse-into-his-personal-philosophy-says-topi-khud-pehno-kisiko-pehnao-nahi/articleshow/130729583.cms",
-    "time": "2026-05-03T08:36:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Peddi' star Ram Charan allots dates for Naga Vamsi film",
-    "desc": "Ram Charan has finalized dates for his next film with producer Naga Vamsi, commencing post the release of his sports drama 'Peddi' in June. Meanwhile, his project with 'Pushpa 2' director Sukumar, tentatively titled 'RC17', is also gearing up for a July/August shoot, with pre-production nearing completion. 'Peddi' boasts a star-studded cast and AR Rahman's music.",
-    "img": "https://static.toiimg.com/photo/msid-130729563,imgsize-99240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-reserves-dates-for-naga-vamsis-untitled-film-as-he-wraps-up-peddi-report/articleshow/130729519.cms",
-    "time": "2026-05-03T08:31:39.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +558,6 @@ const newsData_en = [
     "time": "2026-05-03T07:09:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Chennai’s new master plan",
-    "desc": "The Third Master Plan for Chennai is meant to create a city that would be future-ready and in sync with all the requirements of a modern metropolis. The CMDA was expected to release the plan with the government’s approval during Pongal 2026. However, there is no sign of the plan yet, as the city awaits creative reimagining",
-    "img": "https://th-i.thgim.com/public/incoming/o4oim7/article70932921.ece/alternates/LANDSCAPE_1200/DJI_20260501171912_0135_D.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/missing-chennais-new-master-plan/article70932917.ece",
-    "time": "2026-05-03T06:54:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'No one is standing with Hardik Pandya': Ex-India star minces no words",
     "desc": "Mumbai Indians' IPL 2026 playoff hopes are all but over after an eight-wicket loss to Chennai Super Kings. Languishing in ninth place with two wins from nine matches, the star-studded team is struggling significantly. Former cricketers believe captain Hardik Pandya lacks support, and inconsistency across the squad is hindering results.",
@@ -495,24 +585,6 @@ const newsData_en = [
     "time": "2026-05-03T06:08:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Opposing campaigns in Kerala map out the best- and worst-case scenarios for their respective alliances",
-    "desc": "Exit polls favouring UDF leave the Opposition feeling bullish. LDF feels voters will stay the course as in the past Assembly elections, preferring “stability over volatility”. The BJP-led National Democratic Alliance (NDA) is hoping to shrink the UDF and LDF’s margins by positioning itself as a Central government-backed development alternative to the traditional fronts in Kerala.",
-    "img": "https://th-i.thgim.com/public/incoming/jrvjyd/article70934469.ece/alternates/LANDSCAPE_1200/PTI05_02_2026_000114A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/opposing-campaigns-in-kerala-map-out-the-best-and-worst-case-scenarios-for-their-respective-alliances/article70934451.ece",
-    "time": "2026-05-03T06:01:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "83.96% men, 86.2% women voted at polling stations in Assembly poll across Tamil Nadu: EC",
-    "desc": "A total of 4,87,98,833 voters out of 5,73,43,291 turned up to exercise their franchise on April 23 in T.N. Assembly polls; total votes polled may go up as the current figures do not include postal ballots or senior citizens who voted through Form 12D",
-    "img": "https://th-i.thgim.com/public/incoming/og5hk1/article70933177.ece/alternates/LANDSCAPE_1200/DSC_1048.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/8396-men-862-women-voted-at-polling-stations-in-assembly-poll-across-tamil-nadu-ec/article70932771.ece",
-    "time": "2026-05-03T05:39:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rise, fall, and rebirth of an empire",
     "desc": "Mercedes dominated in an era of raw pace, then withdrew after a tragic accident. When they returned, they learned and built a seven-year period of dominance, after that a psychological setback. Now, they are experiencing yet another rebirth, with a completely different structure within the team.",
@@ -522,15 +594,6 @@ const newsData_en = [
     "time": "2026-05-03T05:38:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi records minimum temperature of 24.6°C, thunderstorms with rain likely",
-    "desc": "The IMD on Saturday (May 2, 2026) issued a 'yellow' alert for the national capital for the next two days, warning of rain, thunderstorms and gusty winds. The cloudy skies and intermittent rain are expected to persist till May 6",
-    "img": "https://th-i.thgim.com/public/incoming/v0ntuk/article70934478.ece/alternates/LANDSCAPE_1200/20260429288L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-records-minimum-temperature-of-246c-thunderstorms-with-rain-likely/article70934465.ece",
-    "time": "2026-05-03T05:33:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It’s part of the game': Ferguson backs Jamieson over send-off to Sooryavanshi",
     "desc": "Kyle Jamieson received a demerit point and warning from the IPL for an animated send-off to 15-year-old Vaibhav Sooryavanshi. Teammate Lockie Ferguson defended the gesture, stating that such passion is understandable and exciting for fans, especially when taking a crucial wicket.",
@@ -538,24 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/its-part-of-the-game-lockie-ferguson-backs-kyle-jamieson-over-send-off-to-vaibhav-sooryavanshi/articleshow/130727729.cms",
     "time": "2026-05-03T05:18:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What’s going wrong for Bumrah, Surya, Tilak? Jayawardene explains",
-    "desc": "Mumbai Indians head coach Mahela Jayawardene expressed confidence in his senior players despite a challenging IPL 2026 season. He backed Suryakumar Yadav and Tilak Varma, emphasizing patience and development amidst the team's struggles at the bottom of the points table.",
-    "img": "https://static.toiimg.com/photo/msid-130727403,imgsize-1146572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-whats-going-wrong-for-jasprit-bumrah-suryakumar-yadav-tilak-varma-mi-head-coach-jayawardene-explains/articleshow/130727349.cms",
-    "time": "2026-05-03T04:33:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tribals, Scheduled Castes preserved India's identity and soul despite foreign invasions: Bhagwat",
-    "desc": "\"This is the society's enduring ethos, which has survived for thousands of years. For various reasons, partly because of our indifference and partly because of foreign invasion, those who preserved this ethos paid a heavy price,\" says Mohan Bhagwat",
-    "img": "https://th-i.thgim.com/public/incoming/84coyw/article70934315.ece/alternates/LANDSCAPE_1200/PTI05_03_2026_000009B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/tribals-scheduled-castes-preserved-indias-identity-and-soul-despite-foreign-invasions-bhagwat/article70934305.ece",
-    "time": "2026-05-03T04:12:51.000Z"
   },
   {
     "cat": "Sports",
@@ -592,24 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/opec-cracks-in-the-oil-crown/article70932960.ece",
     "time": "2026-05-03T03:37:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Time is running out for Mumbai Indians",
-    "desc": "The Mumbai Indians' dreams of IPL 2026 playoff qualification are hanging by a thread following an emphatic eight-wicket defeat to the Chennai Super Kings. The alarming trend of middle-order collapses, most recently in the battle against CSK, has been the story of MI this IPL 2026, and that has now propelled the 5-time champions into a do-or-die situation.",
-    "img": "https://static.toiimg.com/photo/msid-130726829,imgsize-197348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mi-ipl-2026-playoff-qualification-scenarios-time-is-running-out-for-mumbai-indians-after-chepauk-collapse/articleshow/130726829.cms",
-    "time": "2026-05-03T03:08:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pulled off train in January, Kuldeep breaks pole vault record five months later",
-    "desc": "Kuldeep Kumar shattered the national pole vault record, clearing 5.41m in Bhubaneswar, months after he and a teammate were controversially removed from a train for carrying their poles. The 21-year-old's impressive performance, a personal best and his first indoor competition, surpassed the previous mark set by Dev Kumar Meena. Both athletes are now focused on future major events.",
-    "img": "https://static.toiimg.com/photo/msid-130726793,imgsize-49442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/pulled-off-train-in-january-kuldeep-kumar-breaks-pole-vault-record-five-months-later/articleshow/130726778.cms",
-    "time": "2026-05-03T02:57:38.000Z"
   },
   {
     "cat": "Business",
@@ -730,48 +757,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "'No dry outs': Centre assures uninterrupted LPG supply, moves to ease demand with alternative fuels",
-    "desc": "The government assures uninterrupted fuel availability nationwide despite the West Asia crisis impacting global energy markets. Measures are in place to ensure 100% supply of domestic LPG, PNG, and CNG, with household LPG prioritized. Citizens are urged to avoid panic buying and rely on official information.",
-    "img": "https://static.toiimg.com/photo/msid-130717799,imgsize-77742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/no-dry-outs-centre-assures-uninterrupted-lpg-supply-moves-to-ease-demand-with-alternative-fuels/articleshow/130717258.cms",
-    "time": "2026-05-02T13:46:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "100% FDI allowed in insurance sector under automatic route, inflows for LIC capped at 20%",
-    "desc": "The central government has announced 100% Foreign Direct Investment (FDI) in insurance companies via the automatic route, enabling full foreign ownership. This move, aligning with the Sabka Bima Sabki Raksha Act, 2025, aims to boost foreign participation, with IRDAI approval required. LIC remains an exception with a 20% FDI limit.",
-    "img": "https://static.toiimg.com/photo/msid-130716947,imgsize-459828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/100-fdi-allowed-in-insurance-sector-under-automatic-route-inflows-for-lic-capped-at-20/articleshow/130716877.cms",
-    "time": "2026-05-02T12:56:04.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Air India CEO search narrows to Singapore Air executive Kannan and insider Nipun Aggarwal, sources say",
     "desc": "The choice of a new CEO comes at a crucial time for Air India, which ⁠is grappling with heavy losses, heightened regulatory scrutiny after a deadly crash last year, and operational disruptions from the Iran war, ‌which has driven up costs",
     "img": "https://th-i.thgim.com/public/incoming/7imzjj/article70931521.ece/alternates/LANDSCAPE_1200/2026-05-02T093413Z_1637061580_RC2W0LALA28O_RTRMADP_3_AIRINDIA-AIRCRAFT.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/air-india-ceo-search/article70931484.ece",
     "time": "2026-05-02T12:46:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How Italy’s ‘cheese banks’ power a 4 billion euro industry",
-    "desc": "In Emilia-Romagna, Italy, hundreds of thousands of wheels of Parmigiano Reggiano cheese are stored in climate-controlled warehouses, serving as valuable collateral for loans. This unique financial system allows producers to overcome cash flow challenges caused by the cheese's lengthy aging process, ensuring the industry's continued operation and growth.",
-    "img": "https://static.toiimg.com/photo/msid-130715742,imgsize-2548278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/the-parmigiano-vault-how-italys-cheese-banks-power-a-4-billion-euro-industry/articleshow/130715514.cms",
-    "time": "2026-05-02T11:43:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil’s well: Venezuela’s crude exports hit highest since 2018 — India, US and other buyers line up",
-    "desc": "Venezuela's crude exports surged 14% to 1.23 million barrels per day in April, reaching their fastest pace in over seven years. This increase, driven by demand from the US, India, and Europe, follows a US agreement that softened sanctions, allowing major trading firms and partners to resume lifting Venezuelan crude.",
-    "img": "https://static.toiimg.com/photo/msid-130714467,imgsize-504344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oils-well-venezuelas-crude-exports-hit-highest-since-2018-india-us-and-other-buyers-line-up/articleshow/130714100.cms",
-    "time": "2026-05-02T10:36:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -781,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/remembering-raghu-rai-five-photographers-explore-the-enduring-legacy-of-the-guru-with-the-camera/article70928157.ece",
     "time": "2026-05-02T10:25:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The Great 'Gas-by': 45,000-tonne LPG tanker braces for Hormuz crossing — why it matters for India",
-    "desc": "An India-linked supertanker, Sarv Shakti, has successfully crossed the Strait of Hormuz, a critical energy corridor under intense pressure due to Middle East tensions. This passage marks a significant breakthrough for India, the world's second-largest LPG consumer, as it secures essential cooking fuel amid disrupted supply chains and a US blockade on Iran-linked shipping.",
-    "img": "https://static.toiimg.com/photo/msid-130713836,imgsize-1247759.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/the-great-gas-by-45000-tonne-lpg-tanker-braces-for-hormuz-crossing-why-it-matters-for-india/articleshow/130713369.cms",
-    "time": "2026-05-02T09:48:50.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/ravi-k-takes-charge-over-as-hal-cmd-from-d-k-sunil/article70927889.ece",
     "time": "2026-05-01T08:09:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TechM buys 85% in IT firm Avant for CAD 28 million",
+    "desc": "The acquisition of 85% shareholding of Avant, valued at 28 million Canadian dollars, is expected to be completed by 31st July, 2026 while the balance 15% will be acquired by 30th June, 2029, TechM said in a regulatory filing on Thursday",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/techm-buys-85-in-it-firm-avant-for-cad-28-million/article70926113.ece",
+    "time": "2026-05-01T01:02:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Apartment price appreciates 8-20% annually in Jan-Mar across top 8 cities: JLL",
+    "desc": "On apartment sales, the data showed that sales of flats, costing below ₹50 lakh each, fell 24% in January-March to 20,269 units. Apartments priced above ₹1 crore were in demand, with sales increasing 30% to 50,362 units",
+    "img": "https://th-i.thgim.com/public/incoming/uq0wvp/article70926294.ece/alternates/LANDSCAPE_1200/DSC3068.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/apartment-price-appreciates-8-20-annually-in-jan-mar-across-top-8-cities-jll/article70926290.ece",
+    "time": "2026-04-30T20:09:53.000Z"
   }
 ];

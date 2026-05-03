@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પતિ-પત્નીની આવકની જાણકારી માંગી શકાતી નથી, RTI પર હાઈકોર્ટનો મોટો આદેશ",
+    "desc": "દિલ્હી હાઈકોર્ટમાં એક કેસમાં ચુકાદો આપતા ન્યાયધીશે આ ચુકાદો આપ્યો હતો, જેમાં પત્નિ દ્વારા પતિની આવકની વિગતો જાણવા RTI હેઠળ અરજી કરી હતી, મહિલાએ ભરણપોષણ માટે અરજી કરી હતી અને જણાવ્યું હતું કે, તેને માહિતીની જરૂર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/information-about-the-income-of-husband-and-wife-cannot-be-sought-big-order-of-the-high-court-on-rti-476196 ",
+    "time": "2026-05-03T14:52:28.000Z"
+  },
+  {
     "cat": "Business",
     "title": "આ અઠવાડિયામાં બે દિવસ બંધ રહેશે બેંકો, જાણો શું છે કારણ",
     "desc": "રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) અનુસાર, મે મહિનામાં કુલ 7 બેંક રજાઓ નક્કી કરવામાં આવી છે. જેમાં બીજા અને ચોથા શનિવાર સહિત બધા રવિવારનો સમાવેશ થાય છે. ત્યારે બેંકો કયા કયા દિવસે બંધ રહેશે તેના વિશે આ લેખમાં જાણીશું.",
@@ -412,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/vicky-jain-dated-actress-tia-bajpai-before-ankita-lokhande-vicky-jain-first-love-475721 ",
     "time": "2026-05-01T02:40:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દિલ્હીના આ માર્કેટમાં મળે છે સૌથી સસ્તું કાપડ, ડિઝાઈનર આઉટફિટ પણ બજેટમાં થઈ જશે તૈયાર",
-    "desc": "જો તમારે પણ બજેટમાં પોતાના માટે ડિઝાઈનર કપડાં જોઈએ છે, તો દિલ્હીનું આ માર્કેટ તમારા માટે બેસ્ટ છે. અહીં તમને દરેક પ્રકારનું ફેબ્રિક ખૂબ જ ઓછી કિંમતે મળી જશે. અહીંથી કાપડ ખરીદીને તમે તમારો આઉટફિટ જાતે તૈયાર કરી શકો છો, તે પણ તમારા બજેટમાં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cheapest-fabrics-are-available-in-this-market-in-delhi-designer-outfits-will-also-be-ready-within-the-budget-475706 ",
-    "time": "2026-04-30T17:14:27.000Z"
   },
   {
     "cat": "Entertainment",
