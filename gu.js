@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "આ રાજ્યમાં છે સૌથી લાંબી રેલ્વે ટનલ, પહાડો નીચે દોડશે ટ્રેન, 14.58 કિમી લાંબી ટનલ-8 એ બનાવ્યો રેકોર્ડ",
+    "desc": "ભારતના માળખાગત ક્ષેત્રે વધુ એક મહત્વપૂર્ણ સિદ્ધિ હાંસલ કરી છે. દેશની સૌથી લાંબી રેલ્વે ટનલ, \"ટનલ 8\" પૂર્ણ થઈ ગઈ છે. આશરે 14.58 કિલોમીટર લાંબી, આ ટનલને એન્જિનિયરિંગ શ્રેષ્ઠતાનું એક ભવ્ય ઉદાહરણ માનવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/this-state-has-the-longest-railway-tunnel-the-train-will-run-down-the-mountains-14-58-km-long-tunnel-8-has-set-a-record-476209 ",
+    "time": "2026-05-03T17:07:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ડીલ કરો, નહીંતર... સીઝફાયર વચ્ચે મહાયુદ્ધની આહટ! ટ્રમ્પની ઈરાનને ખુલ્લી ચેતવણી",
+    "desc": "કદાચ જ કોઈ દિવસ એવો જતો હશે જ્યારે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ ઈરાનને લઈને કડક નિવેદન આપ્યું ન હોય, પરંતુ હવે તેમના સૂર વધુ તીખા બન્યા છે. ઈશારામાં નહીં, પરંતુ સીધા શબ્દોમાં ટ્રમ્પે સંકેત આપી દીધા છે કે, જો ડીલ નહીં થાય તો ઈરાન પર ફરીથી હુમલા શરૂ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/amid-ceasefire-there-a-hint-of-a-world-war-trump-open-warning-to-iran-make-a-deal-or-disaster-is-certain-476205 ",
+    "time": "2026-05-03T16:11:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સાત ફેરા પછી અચાનક ગાયબ થઈ ગયો વરરાજા, પાછા ફરતા જ બદલાઈ ગઈ ચાલ, આ દ્રશ્ય જોઈને દુલ્હને લીધો મોટો નિર્ણય",
+    "desc": "ત્યારે એક લગ્ન સમારોહમાં હોબાળો મચી ગયો. જ્યારે વરરાજાની ચાલ આ હોબાળાનું કારણ બની. દુલ્હને જોયું કે તે લંગડાતો હતો, જેના કારણે તેણે આકરો નિર્ણય લીધો હતો. આ મામલો પોલિસ સ્ટેશન પહોંચ્યો અને બાદમાં જાન કન્યાને લીધા વગર જ પરત ફરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-groom-suddenly-disappeared-after-seven-rounds-his-behavior-changed-as-soon-as-he-returned-seeing-this-scene-the-bride-took-a-big-decision-476204 ",
+    "time": "2026-05-03T15:54:49.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "પતિ-પત્નીની આવકની જાણકારી માંગી શકાતી નથી, RTI પર હાઈકોર્ટનો મોટો આદેશ",
     "desc": "દિલ્હી હાઈકોર્ટમાં એક કેસમાં ચુકાદો આપતા ન્યાયધીશે આ ચુકાદો આપ્યો હતો, જેમાં પત્નિ દ્વારા પતિની આવકની વિગતો જાણવા RTI હેઠળ અરજી કરી હતી, મહિલાએ ભરણપોષણ માટે અરજી કરી હતી અને જણાવ્યું હતું કે, તેને માહિતીની જરૂર છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -387,15 +414,6 @@ const newsData_gu = [
     "time": "2026-05-01T05:04:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "બંગાળમાં એક નવો એક્ઝિટ પોલ આવ્યો અને મોડી રાતે મહાભારત છેડાઈ ગયું? જાણો સમગ્ર વિગતો",
-    "desc": "બંગાળમાં આટલા બધા એક્ઝિટ પોલ આવ્યા અને એક એક્ઝિટ પોલ મોડેથી આવ્યો અને મોટા ભાગના એક્ઝિટ પોલમાં મમતા બેનર્જીના હાથમાંથી સત્તા સરકતી જોવા મળી રહી છે. જો તારણો પરિણામમાં ફેરવાશે તો બંગાળમાં ઈતિહાસ સર્જાશે. હવે આ બધા વચ્ચે ગુરુવારે 30 એપ્રિલના રોજ કોલકાતામાં મોડી રાતે કઈ વાતે મહાભારત થયું તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mamata-banerjee-reached-strong-room-bhavanipur-on-thursday-night-caused-ruckus-475742 ",
-    "time": "2026-05-01T04:58:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "આરસીબી સામે GTની જીત બાદ પોઈન્ટ્સ ટેબલ &amp;#039;રમણભમણ&amp;#039;? ટોપ પર છે આ ટીમનો કબજો",
     "desc": "આઈપીએલ 2026ની 42મી મેચમાં ગુજરાત ટાઇટન્સે રોયલ ચેલેન્જર્સ બેંગલુરુને 4 વિકેટે હરાવીને સિઝનની પોતાની પાંચમી જીત નોંધાવી છે. આ જીત છતાં ગુજરાતની ટીમ પોઈન્ટ્સ ટેબલમાં 5મા ક્રમે યથાવત છે. અહીં જાણો આ મેચ બાદ IPL 2026ના પોઈન્ટ્સ ટેબલમાં કેટલો ફેરફાર થયો છે.",
@@ -403,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-how-much-did-the-points-table-change-after-the-rcb-vs-gt-match-this-team-holds-the-top-spot-475740 ",
     "time": "2026-05-01T04:30:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "તમે ઊંઘતા રહ્યા અને ચૂપચાપ લાગૂ થયા આ 5 મોટા ફેરફાર, સીધી તમારા ખિસ્સા પર પડશે અસર",
-    "desc": "આજથી નવો મહિનો શરૂ થયો છે અને કેટલાક નિયમોમાં ફેરફાર થાય છે. 1 મે 2026ના રોજ એસબીઆઈ ક્રેડિટ કાર્ડ, ગેસ સિલિન્ડરના ભાવમાં વધારો સહિત અનેક ફેરફાર લાગૂ થયા છે જેની અસર તમારા ખિસ્સા પર પડી શકે છે તો ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/changes-came-into-effect-from-may-1st-online-gaming-lpg-price-hike-which-you-need-to-know-475730 ",
-    "time": "2026-05-01T04:03:47.000Z"
   },
   {
     "cat": "Entertainment",

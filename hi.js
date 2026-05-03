@@ -1,8 +1,17 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Washington Sundar takes Gujarat Titans home in nervy third straight win as PBKS suffer second loss",
+    "desc": "Washington Sundar showed nerves of steel to power the Gujarat Titans home in a nervy win over the Punjab Kings at the Narendra Modi Stadium, Ahmedabad, on Sunday, May 3. Sundar played an unbeaten 40-run...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-takes-gujarat-titans-home-in-nervy-third-straight-win-as-pbks-suffer-second-loss-2026-05-03-1039832",
+    "time": "2026-05-03T18:12:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "CSK lose another player midway through IPL 2026 as all-rounder ruled out",
-    "desc": "Chennai Super Kings have suffered another blow midway through the Indian Premier League 2026 as all-rounder Ramakrishna Ghosh has been ruled out from the remainder of the tournament. Ghosh suffered a right foot injury during...",
+    "desc": "Chennai Super Kings have suffered another blow midway through the Indian Premier League 2026 as all-rounder Ramakrishna Ghosh has been ruled out for the remainder of the tournament. Ghosh suffered a right foot injury during...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-lose-another-player-midway-through-ipl-2026-as-all-rounder-ruled-out-2026-05-03-1039825",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/new-owners-for-ipl-franchise-rajasthan-royals-after-kal-somani-deal-falls-through-2026-05-03-1039793",
     "time": "2026-05-03T09:55:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Nitish Kumar Reddy not playing for SRH vs KKR in IPL 2026 clash in Hyderabad?",
-    "desc": "The stage is set for the 45th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad take on Kolkata Knight Riders at the Rajiv Gandhi International Stadium in Uppal on May 3. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-nitish-kumar-reddy-not-playing-for-srh-vs-kkr-in-ipl-2026-clash-in-hyderabad-2026-05-03-1039790",
-    "time": "2026-05-03T09:46:23.000Z"
   }
 ];
