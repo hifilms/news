@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch Premier League clash on TV and stream online?",
+    "desc": "The stage is set for one of the most anticipated games of the ongoing Premier League season. Arch-rivals Manchester United and Liverpool will lock horns at Old Trafford in Manchester on 3. Both sides are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-vs-liverpool-live-when-and-where-to-watch-premier-league-clash-on-tv-and-stream-online-2026-05-03-1039779",
+    "time": "2026-05-03T07:51:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer predicts massive overhaul for Mumbai Indians after IPL 2026 nightmare",
+    "desc": "The ongoing edition of the IPL (Indian Premier League) has been a nightmare for five-time champions Mumbai Indians. Before the start of the tournament, many had backed Mumbai Indians to dominate considering the sheer star...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-predicts-massive-overhaul-for-mumbai-indians-after-ipl-2026-nightmare-2026-05-03-1039760",
+    "time": "2026-05-03T06:49:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-Head record ahead of game 45 in IPL 2026",
+    "desc": "The stage is set for the 45th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will lock horns with Kolkata Knight Riders at the Rajiv Gandhi International Stadium in Hyderabad on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-kkr-head-to-head-record-ahead-of-game-45-in-ipl-2026-2026-05-03-1039754",
+    "time": "2026-05-03T06:06:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ruturaj Gaikwad surpasses Faf du Plessis after stellar knock against MI, sits behind Raina, Dhoni",
     "desc": "Chennai Super Kings got the best of Mumbai Indians in the 44th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the MA Chidambaram Stadium in Chennai on May 2nd,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-secretary-devajit-saikia-indicates-strict-action-against-rajasthan-royals-to-protect-ipl-s-image-2026-05-02-1039720",
     "time": "2026-05-02T16:05:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why were Amanjot Kaur, Kashvee Gautam dropped from India's T20 World Cup 2026 squad?",
-    "desc": "India announced their women’s T20 World Cup 2026 squad on Saturday, May 2. However, ahead of that, two of the key cricketers, Kashvee Gautam and Amanjot Kaur, have been ruled out with injuries, as the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-were-amanjot-kaur-kashvee-gautam-dropped-from-india-s-t20-world-cup-2026-squad-2026-05-02-1039719",
-    "time": "2026-05-02T15:31:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ira Jadhav, 16-year-old sensation, becomes costliest player in T20 Mumbai Women’s League auction",
-    "desc": "The 16-year-old sensation Ira Jadhav, who made headlines last year by becoming India's first-ever triple-centurion in the U-19 cricket, emerged as the biggest buy at the inaugural T20 Mumbai Women’s League auction held in Mumbai....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ira-jadhav-16-year-old-teenage-sensation-becomes-costliest-player-in-t20-mumbai-womens-league-auction-2026-05-02-1039715",
-    "time": "2026-05-02T14:49:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kuldeep Kumar, thrown out of train in January, registers national record in Pole Vault",
-    "desc": "Kuldeep Kumar delivered a landmark performance in Bhubaneswar, setting a new national record in men’s pole vault with a clearance of 5.41 metres at the 1st Indian Indoor Open Combined Events and Pole Vault competition....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/kuldeep-kumar-thrown-out-of-train-in-january-registers-national-record-in-pole-vault-2026-05-02-1039713",
-    "time": "2026-05-02T14:36:18.000Z"
   }
 ];

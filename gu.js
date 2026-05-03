@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "કોના કારણે મુંબઈ ઈન્ડિયન્સનું થયું પતન ? કેપ્ટન હાર્દિક પંડ્યાએ ફોડ્યો બોમ્બ, જાણો શું કહ્યું",
+    "desc": "ખરાબ પ્રદર્શન અને સ્ટાર ખેલાડીઓની નિષ્ફળતા તેમજ વ્યૂહરચનાના અમલીકરણ અભાવ વચ્ચે ટીમ પ્લેઓફની રેસમાંથી લગભગ બહાર થઈ ગઈ છે. MI સિસ્ટમ કેમ ફેલ થઈ અને આ સીઝન ફ્રેન્ચાઇઝ માટે આપત્તિમાં કેમ ફેરવાઈ તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-hardik-pandya-statement-mumbai-indians-downfall-analysis-476133 ",
+    "time": "2026-05-03T07:14:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "મુંબઈ ઈન્ડિયન્સ CSK સામે હાર્યા પછી પણ પ્લેઓફમાં પહોંચી શકે છે ? 5 પોઈન્ટમાં સમજો સંપૂર્ણ સમીકરણ",
     "desc": "IPL 2026માં મુંબઈ ઈન્ડિયન્સ ટીમ વધુ એક મેચ હારી ગઈ છે. શનિવારે CSKએ MIને 8 વિકેટે હરાવ્યું હતું. આ હાર સાથે 9 મેચમાં મુંબઈની આ 7મી હાર છે, તેથી હવે મુંબઈ માટે પ્લેઓફમાં પહોંચવું લગભગ અશક્ય બની ગયું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -468,15 +477,6 @@ const newsData_gu = [
     "time": "2026-04-30T05:02:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "હાર્દિક પંડ્યાએ મુંબઈ ઇન્ડિયન્સની હાર માટે કોને ગણાવ્યો જવાબદાર ? આ હતા હારના મોટા કારણો",
-    "desc": "આ સિઝનમાં મુંબઈ ઈન્ડિયન્સનું સતત ખરાબ પ્રદર્શન યથાવત છે. સનરાઈઝર્સ સામેની મેચમાં ટીમને છ વિકેટથી કારમી હારનો સામનો કરવો પડ્યો હતો. હાર બાદ કેપ્ટન હાર્દિક પંડ્યાએ સ્વીકાર્યું કે મુંબઈ ઈન્ડિયન્સ આ સિઝનમાં તેમની પ્રતિષ્ઠા મુજબ પ્રદર્શન કરવામાં નિષ્ફળ રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-statement-after-mumbai-indians-defeat-from-sunrisers-hyderabad-475607 ",
-    "time": "2026-04-30T05:02:08.000Z"
-  },
-  {
     "cat": "World",
     "title": "સાઉદી-UAEએ હોર્મુઝનો તોડ કોઢી લીધો! હવે આ રીતે ભારત સુધી પહોંચે છે ક્રૂડ ઓઈલ",
     "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થતા ભારત માટે ઓઈલ અને ગેસના પુરવઠાને ખાડી દેશોમાંથી લાવવો મુશ્કેલ બન્યો. જો કે સાઉદી અરબ અને યુએઈએ તેના માટે તોડ કાઢ્યો અને હવે બંને દેશોનો ક્રૂડ ઓઈલ પુરવઠો સરળતાથી ભારત આવી રહ્યો છે. જાણો કઈ રીતે.",
@@ -493,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/visa-rules-tension-is-over-these-5-european-countries-are-giving-permission-to-stay-and-find-a-job-after-studies-know-475565 ",
     "time": "2026-04-29T18:07:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PF ધારકો માટે મોટા સમાચાર, 7.5 ગણું વધી શકે છે પેન્શન, ટૂંક સમયમાં ATMમાંથી ઉપાડી શકશો PF",
-    "desc": "PF અંગે એક મોટું અપડેટ સામે આવ્યું છે. સરકાર ટૂંક સમયમાં પીએફ વ્યાજ જમા કરાવી શકે છે. વધુમાં સરકાર પેન્શનમાં વધારો કરવાનું પણ વિચારી રહી છે. તો ATMમાંથી PFના પૈસા ઉપાડવાની સુવિધા પણ ટૂંક સમયમાં શરૂ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epfo-big-update-on-pension-hike-pf-atm-withdrawal-and-pf-interest-rates-475509 ",
-    "time": "2026-04-29T11:44:03.000Z"
   },
   {
     "cat": "Tech",
