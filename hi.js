@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New owners for IPL franchise Rajasthan Royals after Kal Somani deal falls through",
+    "desc": "Celebrated industrialist Lakshmi N.Mittal, his son Aditya Mittal and Adar Poonawalla have bought the major stake in the Rajasthan Royals franchise for USD 1.65 billion (approximately Rs 15,600 crore). This comes after the Kal Somani–Rob...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-owners-for-ipl-franchise-rajasthan-royals-after-kal-somani-deal-falls-through-2026-05-03-1039793",
+    "time": "2026-05-03T09:55:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Nitish Kumar Reddy not playing for SRH vs KKR in IPL 2026 clash in Hyderabad?",
+    "desc": "The stage is set for the 45th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad take on Kolkata Knight Riders at the Rajiv Gandhi International Stadium in Uppal on May 3. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-nitish-kumar-reddy-not-playing-for-srh-vs-kkr-in-ipl-2026-clash-in-hyderabad-2026-05-03-1039790",
+    "time": "2026-05-03T09:46:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "R Ashwin opens up on infamous Mankad incident with Jos Buttler, reflects on his time with RR",
+    "desc": "Over the years, the IPL (Indian Premier League) has been one of the most entertaining and talked-about aspects of world sports. Throughout the 19 years of the tournament, there have been many moments that have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-opens-up-on-infamous-mankad-incident-with-jos-buttler-reflects-on-his-time-with-rr-2026-05-03-1039786",
+    "time": "2026-05-03T09:15:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch Premier League clash on TV and stream online?",
     "desc": "The stage is set for one of the most anticipated games of the ongoing Premier League season. Arch-rivals Manchester United and Liverpool will lock horns at Old Trafford in Manchester on 3. Both sides are...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-surpasses-kieron-pollard-to-become-mumbai-s-second-leading-run-scorer-check-full-list-2026-05-02-1039731",
     "time": "2026-05-02T18:15:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK hand Mumbai Indians their 7th defeat of IPL 2026 season, MI all but out of playoffs race",
-    "desc": "Chennai Super Kings defeated Mumbai Indians by eight wickets in the ongoing IPL 2026 at the MA Chidambaram Stadium. Leading up to the match, the Hardik Pandya-led side was under tremendous pressure, having suffered six...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-hand-mumbai-indians-their-7th-defeat-of-ipl-2026-season-mi-all-but-out-of-playoffs-race-2026-05-02-1039727",
-    "time": "2026-05-02T17:42:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Rajiv Gandhi International Stadium Stadium in Hyderabad play?",
-    "desc": "Sunrisers Hyderabad will host Kolkata Knight Riders in their upcoming IPL 2026 clash at the Rajiv Gandhi International Stadium. The Pat Cummins-led side has regained their form, winning five matches on the trot. They have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-kkr-pitch-report-how-will-surface-at-rajiv-gandhi-international-stadium-stadium-in-hyderabad-play-2026-05-02-1039725",
-    "time": "2026-05-02T17:23:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI secretary Devajit Saikia indicates strict action against Rajasthan Royals to protect IPL's image",
-    "desc": "The Board of Control for Cricket in India (BCCI) is preparing to tighten its stance on disciplinary breaches, with secretary Devajit Saikia indicating that further steps are under consideration against teams that fail to follow...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-secretary-devajit-saikia-indicates-strict-action-against-rajasthan-royals-to-protect-ipl-s-image-2026-05-02-1039720",
-    "time": "2026-05-02T16:05:07.000Z"
   }
 ];

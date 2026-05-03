@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સોના-ચાંદીના ભાવમાં ઘટાડો, ચાંદી ₹3000 સસ્તી થઈ, સોનામાં પણ ઘટાડો, જાણો નવા ભાવ",
+    "desc": "આ અઠવાડિયે સોના અને ચાંદીના ભાવમાં નોંધપાત્ર ઘટાડો નોંધાયો હતો, જેના કારણે સોનું ₹1,000 અને ચાંદી ₹3,000થી વધુ સસ્તું થયું હતું. આંતરરાષ્ટ્રીય અસ્થિરતા અને ફેડની આક્રમક વલણના કારણે ભાવમાં ઘટાડો થયો હતો, જેનાથી રોકાણકારોને રાહત મળી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-drop-from-high-check-latest-rates-476148 ",
+    "time": "2026-05-03T09:20:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "21 દેશોમાં મોંઘવારીનો હાહાકાર: યુરોપમાં 3 ટકા થયો મોંઘવારી દર, જાણો ઈરાન-અમેરિકા યુદ્ધે કેવી રીતે બગાડી સ્થિતિ?",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચેના તણાવની સૌથી મોટી અસર યુરોપના દેશોમાં જોવા મળી રહી છે. ક્રૂડ ઓઈલ (કાચું તેલ) મોંઘું થવાને કારણે યુરોપના લગભગ 21 દેશોમાં મોંઘવારી વધી ગઈ છે, જેના કારણે લોકોમાં ફફડાટ વ્યાપી ગયો છે અને તેમનું જનજીવન અસ્તવ્યસ્ત થઈ ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/inflationary-stir-in-21-countries-how-did-the-iran-us-war-spoil-the-situation-476146 ",
+    "time": "2026-05-03T09:00:24.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "કોના કારણે મુંબઈ ઈન્ડિયન્સનું થયું પતન ? કેપ્ટન હાર્દિક પંડ્યાએ ફોડ્યો બોમ્બ, જાણો શું કહ્યું",
     "desc": "ખરાબ પ્રદર્શન અને સ્ટાર ખેલાડીઓની નિષ્ફળતા તેમજ વ્યૂહરચનાના અમલીકરણ અભાવ વચ્ચે ટીમ પ્લેઓફની રેસમાંથી લગભગ બહાર થઈ ગઈ છે. MI સિસ્ટમ કેમ ફેલ થઈ અને આ સીઝન ફ્રેન્ચાઇઝ માટે આપત્તિમાં કેમ ફેરવાઈ તેના વિશે આ લેખમાં જાણીશું.",
@@ -385,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/cruise-capsized-in-bargi-dam-jabalpur-four-dead-15-rescued-search-operation-underway-475691 ",
     "time": "2026-04-30T16:46:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મું પગાર પંચમાં રાજ્યના કર્મચારીઓને કેટલો ફાયદો થશે? જાણો કમિશન સાથે જોડાયેલી આ મહત્વની વાતો",
-    "desc": "8મા પગાર પંચ (8th Pay Commission) ને લઈને કર્મચારીઓમાં ભારે ઉત્સાહ છે, પરંતુ શું તેનો સીધો લાભ માત્ર કેન્દ્રીય કર્મચારીઓ અને પેન્શનરોને જ મળશે? શું તેનો કોઈ લાભ રાજ્ય સરકારના કર્મચારીઓને પણ મળશે? ચાલો આવા જ વારંવાર પૂછાતા કેટલાક મહત્વના પ્રશ્નોના ઉત્તર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-much-will-the-state-employees-benefit-from-the-8th-pay-commission-know-these-important-things-related-to-the-commission-475699 ",
-    "time": "2026-04-30T16:43:55.000Z"
   },
   {
     "cat": "Entertainment",
