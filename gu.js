@@ -1,6 +1,123 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી પરિણામો પર મમતા બેનર્જીનું પહેલું નિવેદન, જાણો શું કહ્યું",
+    "desc": "મમતા બેનર્જીએ પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણીના પરિણામો અંગે પોતાનું પહેલું નિવેદન આપ્યું. બંગાળ ચૂંટણીમાં ભાજપ વિજય તરફ આગળ વધી રહી છે, જ્યારે ટીએમસી 100ની નીચે સીટો પર લીડમાં ચાલી રહી છે, ત્યારે મમતા બેનર્જીનું પહેલું નિવેદન ખુબ મહત્વનું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mamata-banerjee-first-statement-on-west-bengal-assembly-election-results-know-what-she-said-476421 ",
+    "time": "2026-05-04T10:49:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળ, કેરળથી તમિલનાડુ સુધી બન્યા ઘણા રેકોર્ડ, ભારતના રાજકીય નકશામાં શું-શું બદલાયું? જાણો",
+    "desc": "5 રાજ્યોના ચૂંટણી પરિણામોએ મોટો ઉલટફેર કર્યો છે, જેનાથી દેશના રાજકીય નકશામાં અનેક બદલાવ થયા છે. લેફ્ટ હવે રાજકીય સત્તામાંથી સંપૂર્ણપણે બહાર થઈ ગયું છે. બીજી તરફ ભાજપની હવે 21 રાજ્યોમાં સરકાર છે અથવા તેનો નેતૃત્વવાળી એનડીએની સરકાર છે. ગંગોત્રીથી ગંગાસાગર સુધી હવે તેમનો 'પાવર કોરિડોર' બની ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/many-records-were-made-from-bengal-kerala-to-tamil-nadu-what-changed-in-the-political-map-of-india-know-476418 ",
+    "time": "2026-05-04T10:38:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL વચ્ચે RCB માટે ખરાબ સમાચાર, સ્ટાર ખેલાડી અચાનક ઇંગ્લેન્ડ પરત ફર્યો",
+    "desc": "IPL 2026 વચ્ચે RCBને મોટો ઝટકો લાગ્યો છે. ટીમો પ્લેઓફમાં સ્થાન મેળવવા માટે સંઘર્ષ કરી રહી છે, ત્યારે RCB માટે ખરાબ સમાચાર સામે આવ્યા છે. ટીમનો ઓપનિંગ બેટ્સમેન ફિલ સોલ્ટ અચાનક ઇંગ્લેન્ડ પરત ફર્યો છે. સોલ્ટ આંગળીની ઈજાને કારણે ત્રણ મેચથી પ્લેઈંગ ઈલેવનમાંથી બહાર હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-rcb-phil-salt-returns-returns-to-england-for-finger-injury-scan-476417 ",
+    "time": "2026-05-04T10:29:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પશ્ચિમ બંગાળ ચૂંટણી પરિણામ 2026 : મોદી-શાહે કરી બતાવ્યું! ભાજપના સંસ્થાપક શ્યામા પ્રસાદ મુખરજીનું સપનુ કર્યું સાકાર",
+    "desc": "પશ્ચિમ બંગાળમાં હવે ધીરે ધીરે ચૂંટણીના પરિણામોનું પિક્ચર ક્લિયર થઈ રહ્યું છે. પરિણામોમાં ભાજપ બહુમતી તરફ આગળ વધી રહ્યું છે. આવામાં ભારતીય જનસંઘના સ્થાપક શ્યામા પ્રસાદ મુખરજીની ધરતી પર 74 વર્ષ બાદ કમળ ખીલવા જઈ રહ્યું છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/modi-shah-did-it-bjp-founder-shyama-prasad-mukherjee-dream-came-true-476399 ",
+    "time": "2026-05-04T09:41:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફરી ક્રિકેટના મેદાન પર જોવા મળશે ભારત-પાકિસ્તાન વચ્ચે ટક્કર, આ દિવસે રમાશે મેચ, નોટ કરી લો તારીખ",
+    "desc": "ભારત-પાકિસ્તાન વચ્ચે ફરી એકવાર ક્રિકેટના મેદાન પર ટક્કર જોવા મળશે. આ વખકે ભારત અને પાકિસ્તાનની મહિલા ક્રિકેટ ટીમો 2026ના T20 વર્લ્ડ કપમાં આમને-સામને હશે. ત્યારે આ મેચ ક્યારે અને ક્યાં રમાવાની છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/womens-t20-world-cup-2026-india-vs-pakistan-match-date-and-time-476400 ",
+    "time": "2026-05-04T09:39:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દીદીનો કિલ્લો ધ્વસ્ત કર્યા બાદ BJPનો પ્લાન B તૈયાર, બંગાળમાં તાબડતોબ થશે આ 5 કામ!",
+    "desc": "પશ્ચિમ બંગાળમાં આ વખતે ભાજપનું રોડરોલર ફરતું જોવા મળી રહ્યું છે. ટ્રેન્ડમાં 190થી વધુ સીટો ભાજપને ફાળે જતી જોવા મળી રહી છે જ્યારે ટીએમસી 94 સીટો પર આગળ છે. આ બધા વચ્ચે જો ભાજપ જીતી જશે તો સૌથી પહેલા કયા કામ કરશે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-result-2026-what-is-bjp-plan-to-make-bengal-sonar-bangla-476381 ",
+    "time": "2026-05-04T08:22:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1 વાગ્યાના ટકોરે દીદીનું ટાટા ગુડબાય... અમિત શાહે પહેલા જ કરી દીધી બંગાળની ભવિષ્યવાણી, પરિણામ વચ્ચે વાયરલ થયો Video",
+    "desc": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી 2026 ના પરિણામોમાં ભાજપ 175 સીટની બહુમત સાથે આગળ વધી રહી છે. આ વચ્ચે અમિત શાહનો 22 એપ્રિલના રોજનો ભાષણવાળો જુનો વીડિયો સોશિયલ મીડિયા પર વાયરલ થયો છે. જેમાં તેઓએ મમતા બેનરજીની 1 વાગ્યાની વિદાયની ભવિષ્યવાણી કરી હતી",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/amit-shah-prediction-on-mamata-begerjee-defeat-in-west-bengal-results-2026-video-viral-476368 ",
+    "time": "2026-05-04T08:01:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSL 2026માં બાબર આઝમની ટીમ ચેમ્પિયન, IPLના એક ખેલાડીની સેલરી જેટલી પણ ના મળી ઈનામી રકમ !",
+    "desc": "પાકિસ્તાન સુપર લીગની 11મી સીઝનમાં બાબર આઝમની આગેવાની હેઠળની પેશાવર ઝાલ્મી ચેમ્પિયન બની છે. 3 મેના રોજ લાહોરના ગદ્દાફી સ્ટેડિયમ ખાતે રમાયેલી ફાઇનલ મેચમાં પેશાવર ઝાલ્મીએ હૈદરાબાદ કિંગ્સમેનને 5 વિકેટથી હરાવ્યું. ત્યારે એ પણ જાણી લઈએ કે PSL 2026 ચેમ્પિયન ટીમને કેટલી ઇનામી રકમ મળી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/babar-azam-team-peshawar-zalmi-is-the-champion-in-psl-2026-476366 ",
+    "time": "2026-05-04T07:36:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કમલ હસને જે ભૂલ કરી હતી તે &amp;#039;થલાપતિએ ન દોહરાવી, રાજકારણની ડેબ્યૂ પીચ પર ડંકો વગાડ્યો",
+    "desc": "તમિલનાડુમાં વિજયની પાર્ટીએ વિરોધીઓના સૂપડાં સાફ કર્યા છે. પહેલી વખત ચૂંટણી લડી અને રાજ્યનો હાલ સૌથી મોટો પક્ષ નજરે ચડી રહ્યો છે જે 105 સીટો પર આગળ છે. વિજયે કમલ હસને જે ભૂલ કરી તે ન દોહરાવતા આજે સફળતાનો ડંકો વગાડ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/tamilnadu-election-results-vijay-party-tvk-superb-performance-476360 ",
+    "time": "2026-05-04T07:13:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પશ્ચિમ બંગાળમાં ભાજપની જીતના 5 હીરો, જેમણે ચુપચાપ મમતાના ગઢમાં પાડ્યું ગાબડું",
+    "desc": "પશ્ચિમ બંગાળમાં સત્તા પરિવર્તન થઈ રહ્યું છે. ટ્રેન્ડ્સ પ્રમાણે ભારતીય જનતા પાર્ટી ઈતિહાસ રચતા પ્રથમવાર ચૂંટણી જીતી રહી છે. ભાજપની આ જીતમાં અનેક નેતાઓએ મહત્વની ભૂમિકા ભજવી છે. અમે તમને પાંચ એવા ચહેરાઓ વિશે જણાવીશું, જેણે બંગાળમાં ભાજપની જીતમાં મહત્વનું યોગદાન આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/5-heroes-of-bjp-victory-in-west-bengal-bhupendya-yadav-sunin-bansal-amit-shah-476348 ",
+    "time": "2026-05-04T06:50:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં સુવેન્દુ અધિકારી બનશે મુખ્યમંત્રી? ZEE ન્યૂઝના સવાલ પર ભાજપમાંથી મળ્યો જવાબ",
+    "desc": "પશ્ચિમ બંગાળમાં પહેલીવાર કમળ ખીલી રહ્યું છે. બંગાળમાં આખરે પરિવર્તનની લહેર જોવા મળી છે. ત્યારે બંગાળમાં ભાજપના મુખ્યમંત્રી બનવા તરફના પરિણામ દેખાઈ રહ્યાં છે. પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણીનું પરિણામ બાદ સૌથી મોટો સવાલ એ રહેશે કે બંગાળમા કોણ મુખ્યમંત્રી બનશે, મમતા બેનરજીને મજબૂત ટક્કર આપનાર સુવેન્દુ અધિકારી કે પછી દિલીપ ઘોષ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/west-bengal-election-results-2026-who-will-become-cm-suvendu-adhikari-or-dilip-ghosh-476345 ",
+    "time": "2026-05-04T06:47:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર બાદ કેપ્ટન શ્રેયસ ઐયર નારાજ, જાણો કોને ગણાવ્યો હારનો જવાબદાર, અમદાવાદની પિચ પર પણ ઉઠાવ્યા સવાલ",
+    "desc": "પંજાબ કિંગ્સને ગુજરાત ટાઇટન્સ સામેની રમાયેલી મેચમાં 4 વિકેટથી હારનો સામનો કરવો પડ્યો હતો. આ હાર બાદ પંજાબ કિંગ્સના કેપ્ટન શ્રેયસ ઐયરે પિચ પર સવાલ ઉઠાવ્યા હતા. શ્રેયસને લાગ્યું કે, મુશ્કેલ પિચ હોવા છતાં તેની ટીમ 160થી વધુનો સ્કોર બનાવવામાં સફળ રહી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shreyas-iyer-statement-after-defeat-against-gujarat-titans-questions-raised-on-pitch-476347 ",
+    "time": "2026-05-04T06:46:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKRનું નસીબ ખુલ્યું... SRHને હરાવતા ખોલ્યો પ્લેઓફનો દરવાજો, જાણો કેવી રીતે પહોંચશે ટોપ-4માં",
+    "desc": "IPL 2026માં સતત છ હારનો સામનો કર્યા પછી કોલકાતા નાઈટ રાઈડર્સ (KKR) હવે જીતના માર્ગે પાછી ફરી છે. ત્રણ વખતની ચેમ્પિયન ટીમે સતત ત્રણ મેચ જીતીને પ્લેઓફમાં પહોંચવાની તેમની આશા જીવંત રાખી છે. પોઈન્ટ ટેબલની વાત કરીએ તો, KKR પાસે હાલમાં 9 મેચમાંથી 7 પોઈન્ટ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-kolkata-knight-riders-playoff-qualification-scenario-476337 ",
+    "time": "2026-05-04T06:10:37.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "સરકારે તરછોડ્યા તો જનતાએ આપ્યો સાથ! રેપ પીડિતાના માતા પાણીહાટી સીટ પર આગળ",
     "desc": "આ વખતે બધાની નજર પશ્ચિમ બંગાળની વિધાનસભા ચૂંટણીના પરિણામો પર છે જે ખરેખર ચોંકાવી રહ્યા છે કારણ કે તૃણમૂલની સત્તાનું સિંહાસન ડગમગી રહ્યું છે. આ બધા વચ્ચે પાણીહાટી સીટ ચર્ચામાં છે કારણ કે અહીંથી રેપ પીડિતાના માતા રત્ના દેબનાથ ચૂંટણી લડ્યા છે. જાણો પ્રાથમિક તારણોમાં શું છે સ્થિતિ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -52,24 +169,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/amid-ceasefire-there-a-hint-of-a-world-war-trump-open-warning-to-iran-make-a-deal-or-disaster-is-certain-476205 ",
     "time": "2026-05-03T16:11:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સાત ફેરા પછી અચાનક ગાયબ થઈ ગયો વરરાજા, પાછા ફરતા જ બદલાઈ ગઈ ચાલ, આ દ્રશ્ય જોઈને દુલ્હને લીધો મોટો નિર્ણય",
-    "desc": "ત્યારે એક લગ્ન સમારોહમાં હોબાળો મચી ગયો. જ્યારે વરરાજાની ચાલ આ હોબાળાનું કારણ બની. દુલ્હને જોયું કે તે લંગડાતો હતો, જેના કારણે તેણે આકરો નિર્ણય લીધો હતો. આ મામલો પોલિસ સ્ટેશન પહોંચ્યો અને બાદમાં જાન કન્યાને લીધા વગર જ પરત ફરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-groom-suddenly-disappeared-after-seven-rounds-his-behavior-changed-as-soon-as-he-returned-seeing-this-scene-the-bride-took-a-big-decision-476204 ",
-    "time": "2026-05-03T15:54:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પતિ-પત્નીની આવકની જાણકારી માંગી શકાતી નથી, RTI પર હાઈકોર્ટનો મોટો આદેશ",
-    "desc": "દિલ્હી હાઈકોર્ટમાં એક કેસમાં ચુકાદો આપતા ન્યાયધીશે આ ચુકાદો આપ્યો હતો, જેમાં પત્નિ દ્વારા પતિની આવકની વિગતો જાણવા RTI હેઠળ અરજી કરી હતી, મહિલાએ ભરણપોષણ માટે અરજી કરી હતી અને જણાવ્યું હતું કે, તેને માહિતીની જરૂર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/information-about-the-income-of-husband-and-wife-cannot-be-sought-big-order-of-the-high-court-on-rti-476196 ",
-    "time": "2026-05-03T14:52:28.000Z"
   },
   {
     "cat": "Business",
@@ -162,24 +261,6 @@ const newsData_gu = [
     "time": "2026-05-03T05:53:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;જ્યારે હું PM બનીશ તો ઉનાળામાં સ્કૂલે જવાનું બંધ કરાવી દઈશ&amp;#039;, ગરમીમાં શાળાએ જવાથી ભડક્યું બાળક",
-    "desc": "ઉત્તર પ્રદેશ સહિત દેશના અન્ય ભાગોમાં પડી રહેલી ભીષણ ગરમીએ મોટાઓની સાથે બાળકોનું જીવવું પણ મુશ્કેલ કરી દીધું છે. આ દરમિયાન એક નાના બાળકનો વીડિયો સામે આવ્યો છે, જે કાળઝાળ તડકામાં શાળાએ જવાથી એટલો પરેશાન છે કે તેણે સીધી જ ગરમીમાં શાળાઓ પર પ્રતિબંધ મૂકવાની માંગ કરી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/child-outraged-over-having-to-attend-school-in-the-scorching-heat-watch-the-video-476097 ",
-    "time": "2026-05-03T04:17:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દિલ્હીમાં મધરાતે મોતનું ભયાનક તાંડવ: AC બ્લાસ્ટ બાદ બિલ્ડિંગમાં ભીષણ આગ, 9 લોકોને ઉંઘમાં જ મળ્યું મોત",
-    "desc": "દિલ્હીના વિવેક વિહાર વિસ્તારમાં ગઈકાલે રાત્રે એક શક્તિશાળી વિસ્ફોટ થયો હતો જેમાં નવ લોકોના મોત થયા. દિલ્હીના વિવેક વિહાર વિસ્તારમાં એસીમાં વિસ્ફોટ થવાને કારણે ભીષણ આગ લાગી હતી, જે જોતજોતામાં વિકરાળ સ્વરૂપ ધારણ કર્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/watch-video-fire-breaks-out-in-four-storey-building-in-shahdara-9-bodies-found-rescue-op-underway-476089 ",
-    "time": "2026-05-03T03:53:29.000Z"
-  },
-  {
     "cat": "World",
     "title": "ન તો EVM કે ન તો બેલેટ પેપર... દુનિયાના આ જગ્યાએ, ફક્ત હાથ ઉંચા કરીને જ ચૂંટાય છે સરકાર, જાણો કેમ?",
     "desc": "શું તમે જાણો છો કે દુનિયામાં એક એવી જગ્યા છે જ્યાં લોકો મતદાન કરવા માટે બેલેટ પેપર કે EVMનો ઉપયોગ કરતા નથી. અહીં, લોકો પોતાના નેતા કે સરકાર પસંદ કરવા માટે ખુલ્લા મેદાનમાં હાથ ઉંચા કરે છે.",
@@ -207,15 +288,6 @@ const newsData_gu = [
     "time": "2026-05-02T13:03:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "₹2700 કરોડનું બેંક કૌભાંડ; UAE થી લાવવામાં આવ્યો આરોપી કમલેશ પારેખ, જાણો શું છે કોલકત્તા કનેક્શન?",
-    "desc": "CBIને બેંક છેતરપિંડીના ૨,૬૭૨ કરોડ રૂપિયાના કેસમાં મોટી સફળતા મેળવી ભાગેડુ આરોપી કમલેશ પારેખની ધરપકડ કરી છે. યુએઈથી પ્રત્યાર્પણ બાદ પારેખને દિલ્હીમાં કસ્ટડીમાં લેવામાં આવ્યો હતો. શ્રી ગણેશ જ્વેલરી હાઉસના પ્રમોટર પર ૨૫ બેંકોના કન્સોર્ટિયમ સાથે છેતરપિંડી કરવાનો આરોપ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-accused-who-defrauded-25-banks-was-arrested-and-the-absconding-businessman-was-brought-to-india-with-the-help-of-the-cbi-476037 ",
-    "time": "2026-05-02T12:35:37.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "આજે સવારે સરકારે કરેલા &amp;#039;ઈમરજન્સી ટેસ્ટિંગ&amp;#039; વખતે તમારો ફોન નથી રણક્યો? ફટાફટ ફોનના Settingમાં કરો આ ફેરફાર",
     "desc": "આજે સવારે 11:40 વાગ્યે દેશભરમાં કરોડો મોબાઈલ અચાનક સાયરનના અવાજથી ગુંજી ઉઠ્યા, પરંતુ જો તમારો ફોન શાંત રહ્યો હોય તો ચિંતા કરવાની જરૂર નથી. વાસ્તવમાં, સરકારની 'સેલ બ્રોડકાસ્ટ ઇમરજન્સી એલર્ટ સિસ્ટમ'ના ટેસ્ટિંગ દરમિયાન ઘણા યુઝર્સને આ એલર્ટ મળ્યું નથી. તેનું મુખ્ય કારણ તમારા સ્માર્ટફોનમાં 'ટેસ્ટ એલર્ટ' ફીચર બંધ હોવું હોઈ શકે છે.",
@@ -232,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/5-star-ac-vs-inverter-ac-which-ac-is-the-best-for-save-more-electricity-475989 ",
     "time": "2026-05-02T10:36:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આખરે એ દિવસે શું થયું હતું, કઈ રીતે ઘટી દુર્ઘટના? ક્રૂઝ ચાલક મહેશ પટેલે જણાવી એક એક વાત",
-    "desc": "જબલપુરના બરગી ડેમમાં ગુરુવારે ન થવાનું થઈ ગયું. ક્રૂઝ પર મસ્તી કરતા લોકોને સપને પણ ખ્યાલ નહીં હોય કે આવી દુર્ઘટના ઘટશે. તોફાન જેવું આવ્યું અને ક્રૂઝ પાણીમાં ડૂબ્યું જેમાં અત્યાર સુધીમાં 9 લોકોના જીવ ગયા છે. આ સમગ્ર મામલે ક્રૂઝના પાયલોટ મહેશ પટેલે જે કહ્યું કે ખુબ ચોંકાવનારું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/jabalpur-cruise-accident-how-did-it-happen-cruise-pilot-mahesh-patel-opens-up-475984 ",
-    "time": "2026-05-02T09:46:50.000Z"
   },
   {
     "cat": "Sports",
@@ -288,15 +351,6 @@ const newsData_gu = [
     "time": "2026-05-02T06:37:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પર્યવેક્ષક પર TMCને ઝટકો, સુપ્રીમે કહ્યું- ચૂંટણી પંચને અધિકારી પસંદ કરવાનો અધિકાર",
-    "desc": "પશ્ચિમ બંગાળમાં મતગણતરી પહેલા ટીએમસીએ મતગણના પર્યવેક્ષક વિવાદ પર સુપ્રીમ કોર્ટમાં અરજી દાખલ કરી હતી. કબિલ સિબ્બલની દલીલ હતી કે ડીઈઓ નોટિસની જાણકારી મોડેથી મળી અને દરેક બૂથ પર ગડબડીની આશંકા છે. તેના પર સુપ્રીમ કોર્ટે કહ્યું કે ઈસીને અધિકારી પસંદ કરવાનો અધિકાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/setback-for-tmc-regarding-observer-supreme-court-rules-election-commission-has-the-authority-to-select-the-official-475941 ",
-    "time": "2026-05-02T06:12:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "225 રન બનાવ્યા છતાં કેમ હાર્યું રાજસ્થાન રોયલ્સ ? જાણો કેપ્ટન રિયાન પરાગે કોને ગણાવ્યો હારનો જવાબદાર",
     "desc": "રાજસ્થાન રોયલ્સે કુલ 225 રન બનાવવા છતાં દિલ્હી કેપિટલ્સ સામે હારનો સામનો કરવો પડ્યો. કેએલ રાહુલ દિલ્હીની જીતનો હીરો સાબિત થયો હતો. ત્યારે દિલ્હી સામે હાર બાદ રાજસ્થાનના કેપ્ટન રિયાન પરાગનું નિવેદન સામે આવ્યું છે, જેમાં તેણે હારના કારણો જણાવ્યા છે.",
@@ -333,15 +387,6 @@ const newsData_gu = [
     "time": "2026-05-02T03:04:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પ.બંગાળના 15 મતદાન કેન્દ્રો પર આજે ફરી થઈ રહ્યું છે મતદાન, EVM સાથે છેડછાડના આરોપ લાગ્યા હતા",
-    "desc": "પશ્ચિમ બંગાળમાં બે તબક્કામાં વિધાનસભા ચૂંટણી માટે મતદાન પૂરું થયું પરંતુ અનેક બુથો પર ઈવીએમ સાથે છેડછાડના આરોપ લાગતા હવે ચૂંટણી પંચે દક્ષિણ 24 પરગણાના ડાયમંડ હાર્બર અને મગરાહાટ પશ્ચિમ વિધાનસભા બેઠકોના 14 બુથો પર ફરીથી મતદાન કરાવ્યું છે. જે હેઠળ આજે મત પડી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-2026-repolling-at-15-booths-in-south-24-parganas-today-475903 ",
-    "time": "2026-05-02T02:58:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "કોહલીને આઉટ કર્યા પછી રબાડાએ ગુસ્સામાં આપ્યું આવુ રિએક્શન, શું તેના પર બેન લગાવશે BCCI? જાણો નિયમો",
     "desc": "ગુજરાત ટાઇટન્સ (GT)ના સ્ટાર ફાસ્ટ બોલર કાગીસો રબાડાએ રોયલ ચેલેન્જર્સ બેંગ્લોર (RCB) સામે 4 ઓવરમાં 44 રન આપીને 1 વિકેટ લીધી હતી. આ મેચ દરમિયાન કાગીસો રબાડાએ વિરાટ કોહલીને આઉટ કર્યો હતો. વિરાટ કોહલીએ 13 બોલમાં 28 રનની ઇનિંગ રમી હતી. વિરાટ કોહલીએ 215.38 ના સ્ટ્રાઇક રેટથી બેટિંગ કરી હતી, જેમાં 5 ચોગ્ગા અને 1 છગ્ગો ફટકાર્યો હતો.",
@@ -349,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rabada-reacted-angrily-after-dismissing-kohli-will-bcci-ban-him-know-the-rules-475890 ",
     "time": "2026-05-01T16:18:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઈરાન યુદ્ધ વચ્ચે ભારત વિકસાવશે સૌથી ઘાતક મિસાઈલ, દુનિયાનો કોઈ ખૂણો નહીં રહે બાકાત",
-    "desc": "દુનિયાના દરેક ખતરાને જવાબ આપવા માટે ભારત સતત નવી-નવી મિસાઈલોનું પરિક્ષણ કરી રહ્યું છે. હવે આ જ કડીમાં એક એવું હથિયાર તૈયાર થવા જઈ રહ્યું છે. જે ભારતની શક્તિઓને અનેક ગણું વધારી શકે છે. અમે વાત કરી રહ્યા છીએ અગ્નિ-6 મિસાઈલની. જેની ડિઝાઈનને DRDO દ્વારા લગભગ પૂર્ણ કરવામાં આવી છે. જે સમાચાર સાંભળીને પાકિસ્તાનમાં મચી ગયો છે હડકંપ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/amidst-iran-war-india-will-develop-the-deadliest-missile-no-corner-of-the-world-will-be-left-out-475891 ",
-    "time": "2026-05-01T16:10:24.000Z"
   },
   {
     "cat": "Sports",
@@ -394,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/saif-ali-khan-crime-thriller-film-releasing-netflix-on-15-may-2026-475797 ",
     "time": "2026-05-01T09:06:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "7 કલાક મોડી પડી ટ્રેન તો રેલવેએ ચૂકવવું પડ્યું 1.3 લાખનું વળતર, જાણો શું કહે છે રેલવેનો નિયમ?",
-    "desc": "શું તમે ક્યારેય ટ્રેન મોડી પડવાને કારણે મુશ્કેલીમાં મુકાયા છો? જો હા, તો આ સમાચાર તમારા માટે ખૂબ ઉપયોગી સાબિત થઈ શકે છે. તાજેતરમાં, ઓડિશાની એક ગ્રાહક અદાલતે (Consumer Court) ભારતીય રેલવેને ટ્રેન મોડી પડવા બદલ એક વ્યક્તિને 1.3 લાખ રૂપિયાનું વળતર ચૂકવવાનો આદેશ આપ્યો છે. આ કિસ્સો ઓડિશાના બાલાંગીર જિલ્લાનો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/train-delayed-by-seven-hours-passenger-awarded-1-3-lakh-in-compensation-find-out-what-railway-rules-say-475796 ",
-    "time": "2026-05-01T09:04:22.000Z"
   },
   {
     "cat": "World",
@@ -457,51 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-actor-drowns-in-debt-shared-instagram-post-talking-about-needing-work-and-money-475689 ",
     "time": "2026-04-30T14:38:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ODI વર્લ્ડ કપ 2027 બાદ કોહલીએ નિવૃત્તિ લીધી તો કોણ બનશે ભારતનો નંબર-3 બેટર? આ ક્રિકેટર છે મોટો દાવેદાર",
-    "desc": "છેલ્લા એક દાયકા કરતા વધુ સમયથી વનડે ક્રિકેટમાં વિરાટ કોહલી ભારત માટે શાનદાર પ્રદર્શન કરી રહ્યો છે. કોહલી નંબર-3 પર બેટિંગ કરી અનેક રેકોર્ડ બનાવી ચૂક્યો છે. જો કોહલી 2027ના વનડે વિશ્વકપ બાદ આ ફોર્મેટને અલવિદા કહે તો ત્યારબાદ તેનું સ્થાન કોણ લેશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-will-replace-virat-kohli-in-odi-cricket-tilak-verma-next-no-3-batsman-475659 ",
-    "time": "2026-04-30T11:03:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20માં 99 રન પર આઉટ થનાર પ્રથમ ક્રિકેટર... જાણો કોણ છે આ કમનસીબ ખેલાડી",
-    "desc": "ક્રિકેટના સૌથી ટૂંકા ફોર્મેટ T20માં સદી ફટકારવી એ કોઈપણ બેટ્સમેન માટે યાદગાર સિદ્ધિ છે. જોકે, ઇતિહાસમાં કેટલાક કમનસીબ ખેલાડીઓ જોયા છે જેમનું સદી સુધી પહોંચવાનું સ્વપ્ન ફક્ત એક જ રનથી ચકનાચૂર થઈ ગયું હતું. ત્યારે T20માં 99 રન પર આઉટ થનાર પ્રથમ ક્રિકેટર કોણ હતો, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/alex-hales-is-first-cricketer-to-be-dismissed-for-99-runs-in-t20-475658 ",
-    "time": "2026-04-30T10:39:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPLમાં ચમત્કાર... આ તે કેવો ઈમ્પેક્ટ પ્લેયર, ના બેટિંગ કરી કે ના બોલિંગ, ફક્ત ફિલ્ડિંગ કરવા આવ્યો !",
-    "desc": "બુધવારે મુંબઈ ઇન્ડિયન્સ અને સનરાઇઝર્સ હૈદરાબાદ વચ્ચેની IPL મેચ દરમિયાન કંઈક એવું બન્યું જે પહેલાં ક્યારેય જોવા મળ્યું નહોતું. જેના કારણે પ્રશ્ન એ છે કે શું હાર્દિક પંડ્યાએ ભૂલ કરી હતી, કે તેણે જાણી જોઈને આવું કર્યું ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/unique-ipl-records-impact-player-with-no-batting-and-no-bowling-in-a-match-475653 ",
-    "time": "2026-04-30T10:02:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રિયાન પરાગને ડ્રેસિંગ રૂમમાં આ હરકત કરવી પડી મોંઘી, BCCI ફટકારી સજા, જાણો શું છે સમગ્ર મામલો",
-    "desc": "રાજસ્થાન રોયલ્સના કેપ્ટન રિયાન પરાગને IPL 2026ની એક મેચ દરમિયાન આચારસંહિતાનો ભંગ કરવાનો દોષી ઠેરવવામાં આવ્યો છે. પંજાબ સામે રમાયેલી મેચ દરમિયાન ડ્રેસિંગ રૂમમાં વેપિંગ કરતા કેમેરામાં કેદ થયા બાદ તેની સામે કડક કાર્યવાહી કરવામાં આવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-fines-riyan-parag-for-vaping-in-dressing-room-during-ipl-match-475642 ",
-    "time": "2026-04-30T09:36:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આગામી T20 વર્લ્ડ કપ માટે ક્યારે થશે ટીમ ઈન્ડિયાની જાહેરાત ? BCCIએ જણાવી તારીખ",
-    "desc": "મહિલા T20 વર્લ્ડ કપ 2026 12 જૂનથી શરૂ થવાનો છે. બધી ટીમોએ ટુર્નામેન્ટ માટે તૈયારીઓ શરૂ કરી દીધી છે. ઓપનિંગ મેચ ઇંગ્લેન્ડ અને શ્રીલંકા વચ્ચે રમાશે. આ દરમિયાન BCCIએ આ ટુર્નામેન્ટ માટે ભારતીય ટીમ ક્યારે જાહેર કરવામાં આવશે તે અંગે અપડેટ આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/when-team-india-will-be-announced-for-womens-t20-world-cup-2026-bcci-announces-date-475634 ",
-    "time": "2026-04-30T08:14:32.000Z"
   },
   {
     "cat": "Tech",

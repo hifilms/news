@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MS Dhoni continues rehab in Chennai, set to miss clash against Delhi Capitals",
+    "desc": "Chennai Super Kings are all set to take on Delhi Capitals in the ongoing edition of the IPL (Indian Premier League) 2026 next. The two sides will meet in the 48th game of the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-continues-rehab-in-chennai-set-to-miss-clash-against-delhi-capitals-2026-05-04-1039889",
+    "time": "2026-05-04T10:09:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Fight for him': Kobbie Mainoo throws weight behind Michael Carrick after sensational victory over Liverpool",
+    "desc": "Manchester United registered a brilliant victory over Liverpool in the ongoing edition of the Premier League. The two sides met at Old Trafford in Manchester on May 3rd, and with two teams looking to secure...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fight-for-him-kobbie-mainoo-throws-weight-behind-michael-carrick-after-sensational-victory-over-liverpool-2026-05-04-1039882",
+    "time": "2026-05-04T08:50:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sydney Sixers announces signing of James Hopes as new BBL coach",
+    "desc": "BBL (Big Bash League) franchise Sydney Sixers have come forward and announced the signing of former Australia all-rounder James Hopes as their new BBL coach. It is worth noting that Hopes will be replacing Greg...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sydney-sixers-announces-signing-of-james-hopes-as-new-bbl-coach-2026-05-04-1039870",
+    "time": "2026-05-04T07:22:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Washington Sundar takes Gujarat Titans home in nervy third straight win as PBKS suffer second loss",
     "desc": "Washington Sundar showed nerves of steel to power the Gujarat Titans home in a nervy win over the Punjab Kings at the Narendra Modi Stadium, Ahmedabad, on Sunday, May 3. Sundar played an unbeaten 40-run...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-pbks-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-05-03-1039804",
     "time": "2026-05-03T11:14:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Lakshmi Mittal, new owner of IPL franchise Rajasthan Royals?",
-    "desc": "Lakshmi Mittal announced the acquisition of IPL franchise Rajasthan Royals for a huge sum of USD 1.65 billion (approximately Rs 15,600 crore) along with his son Aditya Mittal and Adar Poonawalla. The Mittal family has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-lakshmi-mittal-new-owner-of-ipl-franchise-rajasthan-royals-2026-05-03-1039801",
-    "time": "2026-05-03T10:54:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hyderabad aim to keep winning run alive",
-    "desc": "The stage is set for the 45th game of the ongoing IPL (Indian Premier League) 2026 sees Sunrisers Hyderabad taking on Kolkata Knight Riders. The two sides meet at the Rajiv Gandhi International Stadium in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-kkr-live-cricket-score-hyderabad-aim-to-keep-winning-run-alive-2026-05-03-1039796",
-    "time": "2026-05-03T10:25:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lakshmi Mittal family buys major stake in IPL franchise Rajasthan Royals after Kal Somani deal falls through",
-    "desc": "Celebrated industrialist Lakshmi N.Mittal and his son Aditya Mittal have bought the majority of the stake in the Rajasthan Royals franchise for USD 1.65 billion (approximately Rs 15,600 crore). Serum institute of India's Adar Poonawalla and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-owners-for-ipl-franchise-rajasthan-royals-after-kal-somani-deal-falls-through-2026-05-03-1039793",
-    "time": "2026-05-03T09:55:44.000Z"
   }
 ];
