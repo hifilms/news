@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "આ હિન્દુત્વનો વિજય, ભવાનીપુરમાં મમતા બેનર્જીને હરાવ્યા બાદ સુવેન્દુ અધિકારીનું પહેલું નિવેદન, જાણો",
+    "desc": "વિધાનસભા ચૂંટણીમાં મમતા બેનર્જીને સુવેન્દુ અધિકારીએ હરાવ્યા છે. સુવેન્દુએ બે બેઠક પરથી ચૂંટણી લડી રહ્યા હતા. ગયા વર્ષે પણ તેમણે મમતા બેનર્જીને હરાવ્યા હતા. તેમને આ ચૂંટણીમાં પણ મમતા બેનર્જીને હરાવ્યા છે અને બે વિધાનસભા પણ જીતી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/this-is-the-victory-of-hindutva-suvendu-adhikari-first-statement-after-defeating-mamata-banerjee-in-bhavanipur-know-476479 ",
+    "time": "2026-05-04T16:34:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "હવે હુમાયુ કબીરની બાબરી મસ્જિદનું શું થશે? બંગાળમાં ઊંધો પડ્યો સત્તાનો ખેલ",
     "desc": "15 વર્ષ પછી, બંગાળમાં સત્તા પરિવર્તન થયું છે. આગળનો રાજકીય માહોલ ખૂબ જ મહત્વપૂર્ણ બનવાનો છે. મમતા બેનર્જીને પડકાર ફેંકીને રાજ્યમાં બાબરી મસ્જિદ બનાવવાની જાહેરાત કરનાર હુમાયુ કબીર ચૂંટણી જીતી ગયા છે, પરંતુ બંગાળમાં ભાજપ સત્તાના કેન્દ્રમાં હોવાથી, બાબરી મસ્જિદ બનાવવાની હુમાયુ કબીરની જાહેરાતનું શું થશે?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -133,15 +142,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/womens-t20-world-cup-2026-india-vs-pakistan-match-date-and-time-476400 ",
     "time": "2026-05-04T09:39:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દીદીનો કિલ્લો ધ્વસ્ત કર્યા બાદ BJPનો પ્લાન B તૈયાર, બંગાળમાં તાબડતોબ થશે આ 5 કામ!",
-    "desc": "પશ્ચિમ બંગાળમાં આ વખતે ભાજપનું રોડરોલર ફરતું જોવા મળી રહ્યું છે. ટ્રેન્ડમાં 190થી વધુ સીટો ભાજપને ફાળે જતી જોવા મળી રહી છે જ્યારે ટીએમસી 94 સીટો પર આગળ છે. આ બધા વચ્ચે જો ભાજપ જીતી જશે તો સૌથી પહેલા કયા કામ કરશે તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-result-2026-what-is-bjp-plan-to-make-bengal-sonar-bangla-476381 ",
-    "time": "2026-05-04T08:22:53.000Z"
   },
   {
     "cat": "Sports",

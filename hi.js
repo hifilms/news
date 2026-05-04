@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mumbai Indians make quick work of Lucknow Super Giants, stay alive in IPL 2026 playoffs race",
+    "desc": "The 47th game of the ongoing IPL (Indian Premier League) 2026 saw Mumbai Indians hosting Lucknow Super Giants. The two sides met at the Wankhede Stadium in Mumbai on May 4th, and the game was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-make-quick-work-of-lucknow-super-giants-stay-alive-in-ipl-2026-playoffs-race-2026-05-04-1039930",
+    "time": "2026-05-04T18:00:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lungi Ngidi returns for Delhi Capitals, set to feature in upcoming clash against Chennai Super Kings",
+    "desc": "The stage is set for the 48th game of the ongoing IPL (Indian Premier League) 2026. Delhi Capitals will take on Chennai Super Kings at the Arun Jaitley Stadium in Delhi on May 5th. Ahead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lungi-ngidi-returns-for-delhi-capitals-set-to-feature-in-upcoming-clash-against-chennai-super-kings-2026-05-04-1039926",
+    "time": "2026-05-04T17:36:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Nicholas Pooran surpasses Vaibhav Sooryavanshi with quickfire knock against Mumbai Indians",
     "desc": "Lucknow Super Giants got off to a stellar start to their clash against Mumbai Indians. The two sides met in the 47th game of the ongoing IPL (Indian Premier League) 2026 at the Wankhede Stadium...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sydney-sixers-announces-signing-of-james-hopes-as-new-bbl-coach-2026-05-04-1039870",
     "time": "2026-05-04T07:22:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Washington Sundar takes Gujarat Titans home in nervy third straight win as PBKS suffer second loss",
-    "desc": "Washington Sundar showed nerves of steel to power the Gujarat Titans home in a nervy win over the Punjab Kings at the Narendra Modi Stadium, Ahmedabad, on Sunday, May 3. Sundar played an unbeaten 40-run...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-takes-gujarat-titans-home-in-nervy-third-straight-win-as-pbks-suffer-second-loss-2026-05-03-1039832",
-    "time": "2026-05-03T18:12:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK lose another player midway through IPL 2026 as all-rounder ruled out",
-    "desc": "Chennai Super Kings have suffered another blow midway through the Indian Premier League 2026 as all-rounder Ramakrishna Ghosh has been ruled out for the remainder of the tournament. Ghosh suffered a right foot injury during...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-lose-another-player-midway-through-ipl-2026-as-all-rounder-ruled-out-2026-05-03-1039825",
-    "time": "2026-05-03T15:34:51.000Z"
   }
 ];

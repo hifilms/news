@@ -1,75 +1,255 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Historic clean sweep for UDF in Idukki",
-    "desc": "UDF wins all five constituencies in Idukki. Congress party reclaims Devikulam and Peerumade seats after two decades and secures Udumbanchola for the first time in 25 years. In Thodupuzha, the victory of Kerala Congress veteran P. J. Joseph’s son Apu John Joseph represents a generational shift for the party.",
-    "img": "https://th-i.thgim.com/public/incoming/c2gjtl/article70939514.ece/alternates/LANDSCAPE_1200/80759_4_5_2026_19_38_2_2_CYRIACTHOMAS.JPEG",
+    "title": "Three Indians injured after drone strike sparks fire at Fujairah oil zone in UAE",
+    "desc": "A drone strike from Iran injured three Indian nationals in Fujairah, UAE, igniting a fire at the petroleum industries zone. UAE defense confirmed four missiles were launched, with three intercepted. The Indian Embassy is ensuring medical care for the injured. This incident escalates regional tensions concerning energy infrastructure security.",
+    "img": "https://static.toiimg.com/photo/msid-130810160,imgsize-516578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-three-indians-injured-after-drone-strike-sparks-fire-at-fujairah-oil-zone-in-uae/articleshow/130808992.cms",
+    "time": "2026-05-04T18:47:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit-Rickelton script Mumbai's highest IPL chase",
+    "desc": "The two openers added 143 runs for the first wicket, their third century stand in the IPL, and set up the chase. Mumbai Indians chased down 229 after LSG had scored 228 for five, finishing at 229 for four in 18.4 overs.",
+    "img": "https://static.toiimg.com/photo/msid-130809797,imgsize-53014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mi-win-battle-of-bursts-vs-base-rohit-sharma-ryan-rickelton-script-mumbais-highest-ipl-chase/articleshow/130809332.cms",
+    "time": "2026-05-04T18:34:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "I want to be India’s fielding coach... I feel I am almost there: Yagnik",
+    "desc": "He hopes to become the best in the world in his area of expertise; says he is relishing his role at Knight Riders after making the switch from Royals; the 42-year-old describes Jammu & Kashmir’s historic Ranji triumph as special, hails the group as one of the most gifted",
+    "img": "https://th-i.thgim.com/public/sport/q28syt/article70940343.ece/alternates/LANDSCAPE_1200/Dishant%20YAGNIK%20MAIN%2022%20.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-historic-clean-sweep-for-udf-in-idukki/article70939344.ece",
-    "time": "2026-05-04T16:23:56.000Z"
+    "url": "https://www.thehindu.com/sport/i-want-to-be-indias-fielding-coach-i-feel-i-am-almost-there/article70940340.ece",
+    "time": "2026-05-04T18:31:37.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Congress retains both Bagalkot, Davangere South seats in bypolls",
-    "desc": "The ruling party Congress has won both the Davangere South and Bagalkot Assembly seats in Karnataka, the byelections for which witnessed intense campaigning with Chief Minister, Deputy Chief Minister, Union Ministers and a host of senior leaders of Congress, BJP and JD(S) actively involving themselves in it",
-    "img": "https://th-i.thgim.com/public/incoming/xjk1ri/article70939994.ece/alternates/LANDSCAPE_1200/2699_5_4_2026_14_32_12_1_06HUBLISAMARTHSHAMANURU.JPG",
+    "title": "Split in Muslim votes paves doom for Trinamool Congress",
+    "desc": "The split of Muslim votes came to the advantage of the BJP and the party’s candidates were seen either winning or leading in six of the 12 seats in Malda, where the electorate is 50% Muslims.",
+    "img": "https://th-i.thgim.com/public/incoming/2lmbfk/article70940135.ece/alternates/LANDSCAPE_1200/PTI04_14_2026_000530B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/congress-retains-both-bagalkot-davangere-south-seats-in-bypolls/article70938788.ece",
-    "time": "2026-05-04T16:21:45.000Z"
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-split-in-muslim-votespaves-doom-for-trinamool-congress/article70939839.ece",
+    "time": "2026-05-04T18:31:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘You can’t blame bowlers all the time’: Pant after LSG’s defeat to MI",
+    "desc": "Lucknow Super Giants captain Rishabh Pant admitted his side fell short despite posting a huge total against Mumbai Indians at the Wankhede Stadium on Monday, saying his struggling team now needs “some good luck” to turn things around in IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130809651,imgsize-96152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-you-cant-blame-bowlers-all-the-time-rishabh-pant-after-lsgs-defeat-to-mi/articleshow/130809633.cms",
+    "time": "2026-05-04T18:26:34.000Z"
   },
   {
     "cat": "Politics",
-    "title": "BJP's Satyendra Nath Rai gets 1,05,780 votes; defeats TMC's Goutam Das",
-    "desc": "Gangarampur's 2026 election promises a thrilling rematch as TMC's Goutam Das faces BJP's incumbent MLA Satyendra Nath Rai, with Congress fielding Jui Barman. Historically a CPI(M) stronghold, the seat has seen dramatic shifts, with Das previously defeating Rai for Congress in 2016, only for Rai, now with BJP, to secure victory in 2021.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "title": "UDF win was made massive by anti-Left voting",
+    "desc": "Senior leaders V.D. Satheesan, Ramesh Chennithala, and K.C. Venugopal attribute the massive win to cohesive teamwork within the alliance, the guarantees and assurances given to the people, methodical electioneering, and the ‘misgovernance and nepotism’ of the outgoing LDF government. The scale of the Left’s defeat has been amplified by the loss of face in some of its strongholds such as Taliparamba, Payyannur, and Ambalapuzha, where CPI(M) rebels backed by the UDF posted decisive victories",
+    "img": "https://th-i.thgim.com/public/incoming/ohmlm3/article70940243.ece/alternates/LANDSCAPE_1200/NH04UDF11.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-udf-win-was-made-massive-by-anti-left-voting/article70939933.ece",
+    "time": "2026-05-04T18:24:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hema, Rajinikanth, Chiranjeevi, Rahman hail Vijay’s victory",
+    "desc": "Making a remarkable electoral debut, Thalapathy Vijay has emerged as a strong political force in Tamil Nadu. The celebrations at the family residence also saw music and dancing, with members playing 'Whistle Podu' from Vijay's film 'The Greatest of All Time'. Several celebrities have also taken to social media to congratulate Vijay on his debut political victory.",
+    "img": "https://static.toiimg.com/photo/msid-130809205,imgsize-80468.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gangarampur-assembly-results-2026-tmcs-goutam-das-vs-bjps-satyendra-nath-rai/articleshow/130672797.cms",
-    "time": "2026-05-04T16:15:31.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/hema-malini-rajinikanth-chiranjeevi-ar-rahman-ram-charan-and-others-hail-vijays-historic-debut-in-tamil-nadu-elections/articleshow/130809150.cms",
+    "time": "2026-05-04T18:12:40.000Z"
   },
   {
     "cat": "Politics",
-    "title": "BJP's Budhrai Tudu defeats TMC's Chintamoni Biha",
-    "desc": "Tapan's 2026 assembly elections are set for a fierce three-way battle. BJP's incumbent Budhrai Tudu faces a strong challenge from TMC's Chintamoni Biha and Congress's Bankim Chandra Toppo. This historically competitive ST-reserved seat, known for its tribal population, saw a significant BJP victory in 2021, making the upcoming contest a must-watch.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "title": "TVK's G Saravanan wins by 1,186 votes",
+    "desc": "Srivaikuntam's 2026 Tamil Nadu Assembly elections feature a close contest between INC, AIADMK, and TVK. Historically, the seat has evenly split between Congress and AIADMK since 1977. The 2021 election saw INC win by over 15,000 votes, while AIADMK secured victories in 2016 and 2011.",
+    "img": "https://static.toiimg.com/photo/msid-130684358,imgsize-49586.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tapan-assembly-results-2026-tmcs-chintamoni-biha-vs-bjps-budhrai-tudu/articleshow/130672748.cms",
-    "time": "2026-05-04T16:12:44.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/srivaikuntam-election-results-2026-tvks-g-saravanan-wins-by-1186-votes/articleshow/130684364.cms",
+    "time": "2026-05-04T18:11:00.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Chandrakona (SC) election results 2026: BJP’s Sukanta Dolui wins Chandrakona by 33,481 votes, defeats TMC’s Surjya Kanta Dolui",
-    "desc": "Chandrakona, a predominantly rural, SC-reserved constituency in Paschim Medinipur, faces challenges like flood management, agrarian debt, and underdevelopment. The seat, comfortably held by the AITC, has seen a shift from CPI(M) dominance to a bipolar AITC-BJP rivalry, with recent elections highlighting polarized contests and steady AITC consolidation.",
-    "img": "https://static.toiimg.com/photo/msid-130717905,imgsize-105472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chandrakona-sc-election-results-2026/articleshow/130717911.cms",
-    "time": "2026-05-04T16:10:31.000Z"
+    "title": "Clean sweep for UDF in Ernakulam as LDF falls flat",
+    "desc": "BJP’s decision to give most seats in the district to its ally Twenty20 backfires, with the corporate-backed outfit failing to make an impact; five segments that backed the Left front in 2021 shift their allegiance to UDF",
+    "img": "https://th-i.thgim.com/public/incoming/pv5h7v/article70940240.ece/alternates/LANDSCAPE_1200/kerala_election_result_11.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-clean-sweep-for-udf-in-ernakulam-as-ldf-falls-flat/article70939421.ece",
+    "time": "2026-05-04T18:07:51.000Z"
   },
   {
     "cat": "Politics",
-    "title": "INC's Jamal Mohamed Younoos. Y.N wins",
-    "desc": "Jamal Mohamed Younoos. Y.N of Indian National Congress won the Mayiladuthurai constituency with a margin of 10845 votes. He garnered 68011 votes, while Pattali Makkal Katchi candidate Palanisamy. A M.COM. came second with 57166 votes.",
-    "img": "https://static.toiimg.com/photo/msid-130680904,imgsize-46138.cms",
+    "title": "Vijay’s confidence and political positioning delivered success",
+    "desc": "At the heart of the unprecedented political churning appears to be a calculated narrative cultivated by Mr. Vijay, who reiterated that the DMK is an “evil force”. But the DMK failed to effectively counter it",
+    "img": "https://th-i.thgim.com/public/incoming/6zu5s1/article70940276.ece/alternates/LANDSCAPE_1200/DSC_4080.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/vijays-confidence-and-political-positioning-delivered-success/article70939983.ece",
+    "time": "2026-05-04T18:04:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma and Ryan Rickelton script history against LSG",
+    "desc": "Mumbai Indians may have found their most destructive opening combination since the glory days of the franchise. On a run-fest at the Wankhede Stadium on Monday, opener Rohit Sharma and Ryan Rickelton scripted yet another record partnership to put Mumbai in complete control against Lucknow Super Giants in IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130808866,imgsize-101352.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mayiladuthurai-assembly-results-2026/articleshow/130680635.cms",
-    "time": "2026-05-04T16:10:18.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rohit-sharma-and-ryan-rickelton-script-history-become-first-ever-pair-to-/articleshow/130808605.cms",
+    "time": "2026-05-04T17:53:32.000Z"
   },
   {
     "cat": "Politics",
-    "title": "TVK’s SP Selvam wins, DMDK’s Vijayaprabhaakar finishes second",
-    "desc": "Virudhunagar, a DMK stronghold, saw AR R. Seenivasan win the 2021 Assembly elections by a significant margin. The DMK has historically performed well in the constituency, securing three victories since 1977. The upcoming Tamil Nadu Assembly elections feature a contest between the DMK, AIADMK, and a BJP-led alliance, with key issues including welfare, law and order, and identity politics.",
-    "img": "https://static.toiimg.com/photo/msid-130676091,imgsize-76414.cms",
+    "title": "Why Mamata's defeat is a good news for Congress",
+    "desc": "The 2026 West Bengal election saw the BJP win, but the TMC's weakening social coalitions created openings for the Congress in pockets of central Bengal. While the BJP consolidated gains, the Congress secured at least two seats in Murshidabad, marking a modest, geographically concentrated revival by benefiting from vote fragmentation.",
+    "img": "https://static.toiimg.com/photo/msid-130808401,imgsize-1058104.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/virudhunagar-election-results-2026-tvks-sp-selvam-wins-dmdks-vijayaprabhaakar-finishes-second/articleshow/130675973.cms",
-    "time": "2026-05-04T16:10:00.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-election-results-2026-why-mamatas-defeat-is-a-good-news-for-congress/articleshow/130807307.cms",
+    "time": "2026-05-04T17:34:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Nicole Kidman",
+    "desc": "Renowned actress Nicole Kidman offers an inspiring take on resilience, stating, 'Life has got all those twists and turns. You've got to hold on tight and off you go.' This quote encapsulates her incredible journey from anonymity to worldwide acclaim, serving as a beacon of hope for those facing their own struggles.",
+    "img": "https://static.toiimg.com/photo/msid-130804269,imgsize-56630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-nicole-kidman-life-has-got-all-those-twists-and-turns-youve-got-to-hold-on-tight-and-off-you-go/articleshow/130804164.cms",
+    "time": "2026-05-04T17:30:00.000Z"
   },
   {
     "cat": "Politics",
-    "title": "TVK’s PLA Jeganath Mishra wins, DMK’s N Eramakrishnan finishes second",
-    "desc": "In a surprising turn, P. L. A. Jeganath Mishra of TVK clinched victory in the 2026 Assembly elections, unseating established parties. DMK's N. Eramakrishnan secured second, with AIADMK's S. T. K. Jakkaiyan in third. The election saw key issues like irrigation and worker welfare dominate the campaign narrative.",
-    "img": "https://static.toiimg.com/photo/msid-130678198,imgsize-110840.cms",
+    "title": "AIADMK’s N. Thalavai Sundaram wins against DMK and TVK candidates",
+    "desc": "The Kanniyakumari assembly seat, a key constituency in Tamil Nadu, has historically seen a back-and-forth between the DMK and AIADMK. In the 2021 elections, AIADMK's Thalavai Sundaram secured victory, overturning the 2016 result where DMK's S Austin had won. Elections are anticipated in April for this seat.",
+    "img": "https://static.toiimg.com/photo/msid-130708755,imgsize-117760.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cumbum-election-results-2026-tvks-pla-jeganath-mishra-wins-dmks-n-eramakrishnan-finishes-second/articleshow/130678131.cms",
-    "time": "2026-05-04T16:10:00.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/kanniyakumari-election-results-2026-aiadmks-n-thalavai-sundaram-wins-against-dmk-and-tvk-candidates/articleshow/130708757.cms",
+    "time": "2026-05-04T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK’s Elangovan D wins by 1,208 votes",
+    "desc": "Manamadurai, a reserved constituency in Sivaganga, has a history of alternating between DMK and AIADMK. In the upcoming Tamil Nadu elections on April 23, DMK's Tamilarasi faces BJP's Balaganapathy and TVK's Elangovan. Recent elections show close contests, with DMK winning in 2021 and AIADMK in 2016 and 2011.",
+    "img": "https://static.toiimg.com/photo/msid-130675707,imgsize-150956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/manamadurai-assembly-polls-2026-tvks-elangovan-d-wins-by-1208-votes/articleshow/130675427.cms",
+    "time": "2026-05-04T17:26:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajinikanth, Kamal Haasan, Suriya, Vikram, and others wish Vijay",
+    "desc": "Tamil star Vijay and his political party, Tamilaga Vettri Kazhagam (TVK), are celebrating a historic lead in the Tamil Nadu Assembly elections, sparking a wave of congratulatory messages from prominent figures in the film industry, including actors Rajinikanth, Kamal Haasan, Suriya, Vikram, and Sivakarthikeyan",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/l3nqz9/article70940230.ece/alternates/LANDSCAPE_1200/Vijay%20Rajinikanth%20Kamal%20Haasan.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/tn-elections-2026-vijay-tvk-leads-tamilaga-vettri-kazhagam/article70938060.ece",
+    "time": "2026-05-04T17:26:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Major political shift in Chennai as TVK wins 14 seats",
+    "desc": "Chennai has delivered a clear and decisive verdict. Out of 16 Assembly constituencies in the city, actor Vijay’s Tamilaga Vettri Kazhagam has won 14 seats, leaving the DMK with just two. The only seats retained by the DMK are Harbour and Chepauk–Thiruvallikeni.",
+    "img": "https://th-i.thgim.com/public/incoming/s236yw/article70940251.ece/alternates/LANDSCAPE_1200/TVK%20chennai.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-major-political-shift-in-chennai-as-tvk-wins-14-seats/article70940252.ece",
+    "time": "2026-05-04T17:25:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "From attempting suicide at 13, Johny's net worth now exceeds Rs 270 crore",
+    "desc": "Renowned comedian Johny Lever, known for his humor, endured significant childhood trauma in Dharavi. He witnessed his first murder at seven and attempted suicide at thirteen due to family hardships and his father's struggles. Music later became his solace, helping him overcome these dark times.",
+    "img": "https://static.toiimg.com/photo/msid-130808063,imgsize-32716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-attempting-suicide-at-13-to-being-called-the-king-of-comedy-johny-levers-net-worth-now-exceeds-rs-270-crore/articleshow/130807772.cms",
+    "time": "2026-05-04T17:24:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC's Ashish Marjit loses to BJP's Mitali Mal, trails behind by 9,333 votes",
+    "desc": "Khargram constituency gears up for the 2026 Assembly elections with TMC's Ashish Marjit facing BJP's Mitali Mal. The seat, reserved for Scheduled Caste candidates, saw Ashis Marjit win in 2021 for TMC after previously securing victory for Congress in 2016. Voter turnout in West Bengal reached a historic high in the last elections.",
+    "img": "https://static.toiimg.com/photo/msid-130674662,imgsize-80786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/khargram-sc-election-results-2026-tmcs-ashish-marjit-vs-bjps-mitali-mal/articleshow/130674631.cms",
+    "time": "2026-05-04T17:22:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress, PMK, and VCK fail to deliver",
+    "desc": "With the Congress likely to win five seats, all heads turn towards the party’s high command who might need to decide whether to extend support to the TVK, along with other parties, to form the State Government.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-pmk-and-vck-fail-to-deliver/article70939948.ece",
+    "time": "2026-05-04T17:10:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK’s fortress of Chennai breached like never before",
+    "desc": "The DMK’s downfall in Chennai is drastic compared to the previous election in 2021, in which the alliance it led not only won all the 16 constituencies in the district, but also secured over 50% of vote share in 11 of them",
+    "img": "https://th-i.thgim.com/public/incoming/ec5cv9/article70938646.ece/alternates/LANDSCAPE_1200/4871_4_5_2026_17_5_43_1_DSC_7483.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/data/tamil-nadu-assembly-election-results-2026-tvk-dmk-aiadmk-vijay-stalin-chennai/article70938658.ece",
+    "time": "2026-05-04T17:07:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Forest sink Chelsea 3-1 to hurt their chances of UCL qualification",
+    "desc": "Nottingham Forest boosted their chances of staying in the Premier League with a convincing 3-1 win over Chelsea at Stamford Bridge on Monday. The defeat badly hurt Chelsea’s hopes of qualifying for next season’s UEFA Champions League.",
+    "img": "https://static.toiimg.com/photo/msid-130807346,imgsize-108242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/nottingham-forest-sink-chelsea-3-1-to-hurt-their-chances-of-uefa-champions-league-qualification/articleshow/130807269.cms",
+    "time": "2026-05-04T16:59:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Archana cheers as son Aayushmaan's girlfriend moves in with him",
+    "desc": "Archana Puran Singh and Parmeet Sethi's younger son, Aayushmaan, has brought his girlfriend Samiksha home, marking a new family chapter. A sweet gesture saw Aayushmaan carrying Samiksha inside, reminiscent of his father's past. The vlog also revealed Aayushmaan's renovated room, dedicated to Samiksha, and discussed renovation plans for Aaryamann and Yogita's home.",
+    "img": "https://static.toiimg.com/photo/msid-130807319,imgsize-45018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singh-cheers-on-as-son-aayushmaan-sethis-girlfriend-has-now-moved-in-with-the-family-he-carries-her-in-his-arms/articleshow/130807262.cms",
+    "time": "2026-05-04T16:58:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIADMK suffers major losses in its traditional stronghold",
+    "desc": "As of 9.30 p.m. on Monday, the Dravidian major has won in 42 constituencies and is ahead in five others. In terms of arithmetic strength, the party was not as strong as its traditional adversary, the DMK",
+    "img": "https://th-i.thgim.com/public/incoming/o6959p/article70940150.ece/alternates/LANDSCAPE_1200/9868_6_4_2026_13_57_53_3_CLOSE_EPS_5.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-aiadmk-suffers-major-losses-in-its-traditional-stronghold/article70940010.ece",
+    "time": "2026-05-04T16:56:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK and the dynamics of disruption",
+    "desc": "As trends continue to emerge, it is clear that Tamil Nadu is heading in a path it has never taken so far — whether it is a majority for the TVK, a non-Dravidian party, or a hung Assembly",
+    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/r1nwtb/article70937999.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-04%20at%2011.40.21.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-and-the-dynamics-of-disruption/article70937976.ece",
+    "time": "2026-05-04T16:49:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Vijay hailed Trisha as ‘Kundavai’, what she ‘hates’ about him",
+    "desc": "Trisha Krishnan visited Vijay’s residence in Chennai on Monday, at a time when his party, Tamilaga Vettri Kazhagam (TVK), is leading in trends for the Tamil Nadu Assembly Election 2026. Trisha’s visit has sparked nostalgia around her long-standing association with Vijay. The duo reunited on screen in Leo after a gap of 15 years, reminding fans of their iconic pairing.",
+    "img": "https://static.toiimg.com/photo/msid-130806874,imgsize-38760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/when-thalapathy-vijay-hailed-trisha-krishnan-as-our-princess-kundavai-she-revealed-the-one-thing-she-hates-about-him/articleshow/130806742.cms",
+    "time": "2026-05-04T16:43:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Lungi Ngidi play in DC vs CSK IPL match? Coach provides big update",
+    "desc": "Ngidi had to be taken off the field on a stretcher and was hospitalised after the incident. It happened in the third over of Punjab Kings’ innings, bowled by Axar Patel, when Ngidi tried to take a catch off a shot by Priyansh Arya.",
+    "img": "https://static.toiimg.com/photo/msid-130806653,imgsize-37408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/will-lungi-ngidi-play-in-dc-vs-csk-ipl-2026-match-coach-provides-big-update/articleshow/130806722.cms",
+    "time": "2026-05-04T16:38:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tobey Maguire's net worth",
+    "desc": "Tobey Maguire, celebrated for his iconic Spider-Man portrayal, boasts an impressive net worth of USD 75 million. His lucrative 'Spider-Man' trilogy alone netted him over USD 150 million, with significant earnings from sequels and box office shares. Maguire's career, spanning decades, includes acclaimed roles in films like 'Seabiscuit' and numerous television appearances, solidifying his status in Hollywood.",
+    "img": "https://static.toiimg.com/photo/msid-130804850,imgsize-114010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tobey-maguires-overall-net-worth-heres-how-much-the-og-spider-man-star-is-worth/articleshow/130804782.cms",
+    "time": "2026-05-04T16:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -81,15 +261,6 @@ const newsData_en = [
     "time": "2026-05-04T16:04:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP emerges victorious in three seats",
-    "desc": "At Nemom, BJP State president Rajeev Chandrasekhar defeated Communist Party of India (Marxist) candidate and Minister V. Sivankutty by 4,978 votes. For former Union Minister V. Muraleedharan, victory came after a photo finish at Kazhakuttam. The most surprising victory for BJP was at Chathannur, where B.B. Gopakumar defeated CPI’s R. Rajendran by 4,398 votes",
-    "img": "https://th-i.thgim.com/public/incoming/tgex7n/article70939558.ece/alternates/LANDSCAPE_1200/NH04Rajeev14.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-bjp-emerges-victorious-in-three-seats/article70939055.ece",
-    "time": "2026-05-04T16:03:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Injured Ayush Mhatre likely to be out of action for two months",
     "desc": "Mumbai and Chennai Super Kings batter Ayush Mhatre is likely to be out of action for the next couple of months due to a hamstring injury as well as a wrist injury, TOI has learnt.",
@@ -99,15 +270,6 @@ const newsData_en = [
     "time": "2026-05-04T15:48:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NCP(SP) draws blank, RJD falters",
-    "desc": "The NCP(SP)’s failure to open its account, despite contesting three seats, marks a sharp reversal from its performance in 2021. The RJD fared only marginally better, retaining a single seat out of the three it contested",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly-polls-2026-ncpsp-draws-blank-rjd-falters/article70939386.ece",
-    "time": "2026-05-04T15:42:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Imran Khan on co-parenting daughter Imara with ex-wife Avantika",
     "desc": "During his conversation with Parineeti Chopra, Imran Khan shared a deeply personal take on parenting, stressing that he has never looked at it as a responsibility imposed on him. He also highlighted that irrespective of how family structures evolve, a child’s emotional security must remain the top priority.",
@@ -115,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-opens-up-about-co-parenting-daughter-imara-with-ex-wife-avantika-malik-i-did-not-view-it-as-my-duty-its-my-privilege/articleshow/130805058.cms",
     "time": "2026-05-04T15:24:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Assembly polls",
-    "desc": "UDF’s emphatic win in the Kerala Assembly polls has not only silenced Satheesan’s critics, but reasserted the political supremacy of the Congress leader, who was given the task of reinvigorating the party and its disenchanted workers after he was chosen as the Leader of the Opposition following UDF’s electoral debacle in 2021",
-    "img": "https://th-i.thgim.com/public/incoming/vd3jhs/article70938737.ece/alternates/LANDSCAPE_1200/20260409165L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/v-d-satheesan-captaining-a-resurgent-congress-in-kerala/article70938230.ece",
-    "time": "2026-05-04T15:21:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BDJS, Twenty20 fail to leave a political impact",
-    "desc": "Of the 19 seats it contested, Twenty20 could put up a fight only in Kunnathunad, bagging 40,000-odd votes. Yet party founder Sabu Jacob believes its alliance with the BJP will work in the long run. Of the 22 BDJS candidates, only the Aroor nominee could come up with a decent show. The performance raises existential questions for the two parties",
-    "img": "https://th-i.thgim.com/public/incoming/58l8im/article70939516.ece/alternates/LANDSCAPE_1200/Consultations-wG52FG0FHL.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/bdjs-twenty20-fail-to-leave-a-political-impact/article70939136.ece",
-    "time": "2026-05-04T15:18:49.000Z"
   },
   {
     "cat": "Sports",
@@ -306,15 +450,6 @@ const newsData_en = [
     "time": "2026-05-04T10:42:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Netizens spot Kareena in Kaho Naa Pyaar Hai, call it 'editing goof up'",
-    "desc": "A viral online discovery claims to show a fleeting glimpse of Kareena Kapoor in 'Kaho Naa... Pyaar Hai', despite her exiting the film before its release. This alleged continuity glitch has reignited discussions about the film's casting history, where Kareena was initially set to star before being replaced by Ameesha Patel.",
-    "img": "https://static.toiimg.com/photo/msid-130785540,imgsize-33838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/netizens-spot-kareena-kapoor-khan-in-kaho-naa-pyaar-hai-with-hrithik-roshan-call-it-editing-goof-up-video-goes-viral/articleshow/130785503.cms",
-    "time": "2026-05-04T10:34:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rohit Sharma’s heartfelt gesture steals show after accidental hit on ground staff",
     "desc": "During a Mumbai Indians training session, Rohit Sharma paused his practice to check on a ground staff member hit by a ball. He ensured the injured staffer received an ice pack and medicine, showcasing his compassionate nature. This incident occurred as MI faces playoff pressure with Rohit's return from injury uncertain.",
@@ -351,33 +486,6 @@ const newsData_en = [
     "time": "2026-05-04T09:24:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Raja Shivaji' BO day 4 [LIVE]: Riteish Deshmukh, Salman Khan film crosses Rs. 34 crore net",
-    "desc": "'Raja Shivaji', directed by and starring Riteish Deshmukh as Chhatrapati Shivaji Maharaj, has crossed Rs. 34 crore India net on Day 4 after a strong opening weekend of Rs. 33.90 crore driven by a Rs. 11.35 crore Maharashtra Day opening and Salman Khan's surprise cameo as Jiva Mahala, the film's best-kept secret. Made on a budget of Rs. 100 crore, being the most expensive Marathi film ever made, the U/A 16+ certified historical epic features Sanjay Dutt as Afzal Khan, Vidya Balan as Badi Begum, Abhishek Bachchan as Sambhaji Shahaji Maharaj, Bhagyashree as Jijabai, Fardeen Khan as Shah Jahan, Amole Gupte as Mohammed Adil Shah and Genelia Deshmukh as Saibai, with Rahyl Deshmukh making his debut as young Shivaji.",
-    "img": "https://static.toiimg.com/photo/msid-130777811,imgsize-101460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/raja-shivaji-box-office-collection-day-4-live-riteish-deshmukh-salman-khan-abhishek-bachchan-sanjay-dutt-vidya-balan-genelia-deshmukh-starrer-crosses-rs-34-crore-on-first-monday/articleshow/130776120.cms",
-    "time": "2026-05-04T09:16:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'400 million viewers globally': How ILT20 is building T20 cricket’s next big media property",
-    "desc": "The ILT20 league is experiencing significant global growth, attracting nearly 400 million viewers and expanding its reach across the UK, US, Pakistan, and MENA regions, explained the competition's Head of Partnerships Ishan Chopra. Brands are increasingly engaging beyond mere visibility, integrating campaigns for measurable business outcomes. The league aims to deepen fan engagement and international partnerships for Season 5, building a sustainable premium sports property.",
-    "img": "https://static.toiimg.com/photo/msid-130775691,imgsize-31684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/400-million-viewers-globally-how-ilt20-is-building-t20-crickets-next-big-media-property/articleshow/130775657.cms",
-    "time": "2026-05-04T08:58:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam's Rohit Sharma-inspired 'walk' celebration goes wrong",
-    "desc": "Babar Azam captained Peshawar Zalmi to their second PSL title, defeating Hyderabad Kingsmen by five wickets. A light-hearted attempt to recreate Rohit Sharma's iconic walk during celebrations became a viral meme. All-rounder Aaron Hardie was the star, excelling with both bat and ball in the final.",
-    "img": "https://static.toiimg.com/photo/msid-130775043,imgsize-59148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-babar-azams-rohit-sharma-inspired-walk-celebration-goes-wrong-sparks-meme-storm-watch/articleshow/130773788.cms",
-    "time": "2026-05-04T08:45:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Watching Virat, you understand the art of batting’: Bethell on Kohli’s impact",
     "desc": "Jacob Bethell is making the most of his IPL 2026 opportunity with Royal Challengers Bengaluru. He is learning from Virat Kohli and other senior players. Bethell's role has increased due to Phil Salt's absence. He is adapting to the high tempo of the league. Bethell's development could be crucial for RCB's playoff push.",
@@ -397,15 +505,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Will Rohit Sharma play today for Mumbai Indians vs LSG?",
-    "desc": "Mumbai Indians and Lucknow Super Giants, both struggling at the bottom of the IPL 2026 table, face off at Wankhede Stadium. With playoff hopes fading, both teams are desperate for a win. Mumbai's campaign has been hampered by inconsistent performances and the uncertain availability of Rohit Sharma due to injury.",
-    "img": "https://static.toiimg.com/photo/msid-130760889,imgsize-49308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mi-vs-lsg-ipl-2026-will-rohit-sharma-play-today-for-mumbai-indians-vs-lucknow-super-giants/articleshow/130760665.cms",
-    "time": "2026-05-04T06:26:54.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Gujarat Titans back in the mix with 3 straight wins",
     "desc": "Gujarat Titans secured a thrilling four-wicket victory over Punjab Kings, marking their third consecutive win and reigniting playoff hopes. Sai Sudharsan's steady fifty and Washington Sundar's crucial late hitting guided them home. Despite the wins, a negative Net Run Rate and tough upcoming fixtures mean Gujarat must secure at least two more victories to guarantee qualification.",
     "img": "https://static.toiimg.com/photo/msid-130759703,imgsize-103088.cms",
@@ -421,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/health/hantavirus-outbreak-in-mv-hondius-cruise-ship-deaths/article70936283.ece",
     "time": "2026-05-04T05:21:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From Abhishek to Riyan Parag — full list of Code of Conduct violations",
-    "desc": "IPL 2026 is witnessing a surge in disciplinary actions alongside thrilling cricket. Eight players and staff have faced penalties, from fines to demerit points, for offenses like audible obscenities, mobile phone use in the dugout, and aggressive send-offs. Captains are also being fined for slow over-rates, highlighting a growing concern over player conduct.",
-    "img": "https://static.toiimg.com/photo/msid-130753931,imgsize-67938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-from-abhishek-sharma-to-riyan-parag-full-list-of-code-of-conduct-violations/articleshow/130753290.cms",
-    "time": "2026-05-04T05:19:34.000Z"
   },
   {
     "cat": "Business",
@@ -529,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/motorsport/antonelli-takes-third-win-a-row-for-mercedes-to-stretch-f1-lead-in-miami/article70936285.ece",
     "time": "2026-05-03T20:39:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Javed Akhtar reacts to 'Dhurandhar' being called a propaganda film",
-    "desc": "Veteran screenwriter Javed Akhtar has defended the 'Dhurandhar' franchise against accusations of being propaganda. He praised the films as excellent, stating that every story takes a stand and filmmakers have the right to present their truth. Akhtar believes that all narratives, even fantasy, carry an ideology and audiences interpret messages based on their perspectives.",
-    "img": "https://static.toiimg.com/photo/msid-130739580,imgsize-55650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-reacts-to-dhurandhar-being-called-a-propaganda-film-because-the-narrative-doesnt-suit-a-section-of-the-audience/articleshow/130739553.cms",
-    "time": "2026-05-03T20:34:49.000Z"
   },
   {
     "cat": "Sports",
@@ -817,59 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
