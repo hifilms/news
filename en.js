@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Blake Lively and Justin Baldoni SETTLE 'It Ends With Us' lawsuit",
+    "desc": "Blake Lively and Justin Baldoni have settled their legal dispute over the production of \"It Ends With Us.\" The case, which involved Lively's claims of sexual harassment and a subsequent smear campaign by Baldoni, was resolved before trial. Both parties expressed hope for closure and a constructive path forward, emphasizing their shared commitment to supporting domestic violence survivors.",
+    "img": "https://static.toiimg.com/photo/msid-130811325,imgsize-48532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-and-justin-baldoni-settle-it-ends-with-us-lawsuit-before-trial-making-a-meaningful-impact-in-the-lives-of-domestic-violence-survivors-is-a-goal-that-we-stand-behind/articleshow/130811292.cms",
+    "time": "2026-05-04T21:04:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Blockbuster debut! Vijay Tamil Nadu's Gen-nayagan",
+    "desc": "Tamil Nadu's political landscape is witnessing the rise of a new superstar in actor Vijay, mirroring MGR's trajectory. Despite a contrasting on-screen persona, Vijay's unconventional campaign, leveraging social media and a direct voter appeal, has positioned him as a formidable force. He has emerged from the shadows of established parties, capturing public imagination and potentially reshaping the state's political future.",
+    "img": "https://static.toiimg.com/photo/msid-130811262,imgsize-1119238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assembly-election-results-blockbuster-debut-vijay-tamil-nadus-gen-nayagan/articleshow/130811231.cms",
+    "time": "2026-05-04T20:45:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian women’s hockey team goalkeepers attend special camp under Ireland's Williamson",
+    "desc": "Senior goalkeepers Savita, Bichu Devi, Bansari, and Madhuri attended the sessions, allowing them to focus extensively on technical basics, decision-making, defensive organisation, and tactical awareness in match situations as the team prepares for major tournaments in the upcoming international calendar",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/indian-womens-hockey-team-goalkeepers-attend-special-camp-under-irelands-williamson/article70940421.ece",
+    "time": "2026-05-04T20:38:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "MN Singh recalls Sanjay's arrest, Dutt’s 'Bachaiye mera ladka' appeal",
+    "desc": "Former Mumbai Police officer MN Singh has revisited one of the most controversial chapters of the 1993 Mumbai blasts investigation — the arrest of Sanjay Dutt — recalling the pressure, politics and legal complexities surrounding the case. Speaking to Hussain Zaidi on his YouTube channel, Singh said the case stood out because “before this, no film star had been arrested. It was the first time,” adding that the situation came with “so much pressure,” including from the actor’s MP father Sunil Dutt.",
+    "img": "https://static.toiimg.com/photo/msid-130811214,imgsize-47670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/former-top-cop-mn-singh-recalls-arresting-sanjay-dutt-during-the-1993-mumbai-blasts-sunil-dutt-would-say-bachaiye-mera-ladka-galti-kar-diya/articleshow/130811161.cms",
+    "time": "2026-05-04T20:33:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Liverpool’s Van Dijk rejects criticism of training regime after Man United defeat",
+    "desc": "“If you have one ​day off - and you ‌don’t have many days off - people decide what they want to do with their families. We are not kids. Everyone is an adult,” said van Dijk when ‌asked about online claims that Liverpool’s training ‌schedule ⁠has been light, including suggestions players were ⁠on holiday last week",
+    "img": "https://th-i.thgim.com/public/incoming/28d84l/article70940419.ece/alternates/LANDSCAPE_1200/2026-05-03T135859Z_514948089_UP1EM5312UAET_RTRMADP_3_SOCCER-ENGLAND-MUN-LIV.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/liverpools-van-dijk-rejects-criticism-of-training-regime-after-man-united-defeat/article70940418.ece",
+    "time": "2026-05-04T20:29:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New cycling star Paul Seixas to race the Tour de France at 19, with a whole country watching",
+    "desc": "The 19-year-old Frenchman, widely regarded as a potential great and France’s best hope for a future Tour de France winner, announced his participation at cycling’s showpiece race in a video released by his CMA CGM Decathlon team",
+    "img": "https://th-i.thgim.com/public/incoming/fw8jx2/article70940417.ece/alternates/LANDSCAPE_1200/Belgium_Cycling_Liege_Bastogne_Liege_771_8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/new-cycling-star-paul-seixas-to-race-the-tour-de-france-at-19-with-a-whole-country-watching/article70940385.ece",
+    "time": "2026-05-04T20:22:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK retains core vote share with better seat conversion, but stalwarts lose",
+    "desc": "The party was eclipsed by TVK not only in Chennai — long considered its stronghold — but also in Tiruvallur, Chengalpattu, and Kancheepuram districts. Ministers who lost include Duraimurugan, T.M. Anbarasan, T.R.B. Rajaa, and Ma. Subramanian",
+    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/5sj50q/article70939889.ece/alternates/LANDSCAPE_1200/HHe264zaYAEjJow.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dmk-retains-core-vote-share-with-better-seat-conversion-but-stalwarts-lose/article70939890.ece",
+    "time": "2026-05-04T20:19:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala throws Congress a lifebuoy, but boat still in choppy waters",
+    "desc": "Congress secured a crucial win in Kerala, offering a much-needed morale boost after recent electoral setbacks. Despite this solitary victory, the party faces significant challenges, including a decline in its traditional strongholds and an inability to counter BJP's religious polarization. The path to regaining national relevance hinges on confronting BJP in its core territories.",
+    "img": "https://static.toiimg.com/photo/msid-130810978,imgsize-1547152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assembly-election-results-kerala-throws-congress-a-lifebuoy-but-boat-still-in-choppy-waters/articleshow/130810943.cms",
+    "time": "2026-05-04T20:14:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marcelino leaving as Villarreal coach after reaching Champions League",
+    "desc": "Marcelino’s second spell as coach at Villarreal began in 2023 and has now seen the team deliver one of its best-ever seasons, placing third in La Liga with four games remaining, on track for its best result in 18 years",
+    "img": "https://th-i.thgim.com/public/incoming/rxs7f3/article70940414.ece/alternates/LANDSCAPE_1200/Villarreal-Marcelino_Out_8219_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/marcelino-leaving-as-villarreal-coach-after-reaching-champions-league/article70940382.ece",
+    "time": "2026-05-04T20:08:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A commander leads the charge",
+    "desc": "C. Joseph Vijay, once known as ‘Illaya Thalapathy’ or young commander among his fans, transitioned a decade ago to Thalapathy (commander), a moniker prescient enough, for he has led his people through one of the most historic debut political appearances in the history of elections in India",
+    "img": "https://th-i.thgim.com/public/incoming/2j4uzk/article70940406.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000568A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-commander-leads-the-charge/article70940176.ece",
+    "time": "2026-05-04T19:51:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "INDIA footprint fades on Bharat map as allies stumble in West Bengal, Tamil Nadu",
+    "desc": "Recent election results have significantly weakened the INDIA bloc, with key allies DMK and TMC facing defeats. This outcome forces the opposition to reconsider its strategy against the BJP's expanding influence. The alliance must now prioritize unity and joint planning, especially in crucial states like Uttar Pradesh and Maharashtra, to counter the BJP's narrative and prepare for future electoral battles.",
+    "img": "https://static.toiimg.com/photo/msid-130810818,imgsize-984111.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assembly-elections-result-2026-india-footprint-fades-on-bharat-map-as-allies-stumble-in-west-bengal-tamil-nadu/articleshow/130810681.cms",
+    "time": "2026-05-04T19:44:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charmme, Lakshmi call Trisha a ‘lucky mascot’ as Vijay wins",
+    "desc": "Vijay, aka Thalapathy Vijay, has registered a hisoric victory with his party, Tamilaga Vettri Kazhagam (TVK), in the Tamil Nadu Assembly Elections 2026. Interestingly, May 4 — the day of the election results — also marked Trisha Krishnan’s birthday, setting off a wave of chatter online. Interestingly, Charmme Kaur and Lakshmi Manchu have hailed Trisha as a 'lucky mascot' after Vijay's win and called for 'double celebrations'.",
+    "img": "https://static.toiimg.com/photo/msid-130810726,imgsize-67048.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/charmme-kaur-calls-trisha-krishnan-a-lucky-mascot-as-vijay-wins-tamil-nadu-elections-lakshmi-manchu-calls-for-double-celebrations/articleshow/130810673.cms",
+    "time": "2026-05-04T19:30:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Split in Muslim votes spells doom for Trinamool Congress",
+    "desc": "The split of Muslim votes came to the advantage of the BJP and the party’s candidates were seen either winning or leading in six of the 12 seats in Malda, where the electorate is 50% Muslims.",
+    "img": "https://th-i.thgim.com/public/incoming/2lmbfk/article70940135.ece/alternates/LANDSCAPE_1200/PTI04_14_2026_000530B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-split-in-muslim-votespaves-doom-for-trinamool-congress/article70939839.ece",
+    "time": "2026-05-04T19:29:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3 cheers in Assam, and more: BJP gets majority on its own for the first time",
+    "desc": "In a groundbreaking achievement, the NDA celebrated its third straight victory in Assam, with the BJP obtaining an unprecedented standalone majority. The stunning win, fueled by record voter turnout and new delimitation changes, saw the alliance claim 102 seats.",
+    "img": "https://static.toiimg.com/photo/msid-130811572,imgsize-965009.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/historic-nda-victory-in-assam-bjp-surges-to-majority-with-record-voter-turnout/articleshow/130811581.cms",
+    "time": "2026-05-04T18:57:01.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Three Indians injured after drone strike sparks fire at Fujairah oil zone in UAE",
     "desc": "A drone strike from Iran injured three Indian nationals in Fujairah, UAE, igniting a fire at the petroleum industries zone. UAE defense confirmed four missiles were launched, with three intercepted. The Indian Embassy is ensuring medical care for the injured. This incident escalates regional tensions concerning energy infrastructure security.",
@@ -24,15 +150,6 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/sport/q28syt/article70940343.ece/alternates/LANDSCAPE_1200/Dishant%20YAGNIK%20MAIN%2022%20.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/i-want-to-be-indias-fielding-coach-i-feel-i-am-almost-there/article70940340.ece",
-    "time": "2026-05-04T18:31:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Split in Muslim votes paves doom for Trinamool Congress",
-    "desc": "The split of Muslim votes came to the advantage of the BJP and the party’s candidates were seen either winning or leading in six of the 12 seats in Malda, where the electorate is 50% Muslims.",
-    "img": "https://th-i.thgim.com/public/incoming/2lmbfk/article70940135.ece/alternates/LANDSCAPE_1200/PTI04_14_2026_000530B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-split-in-muslim-votespaves-doom-for-trinamool-congress/article70939839.ece",
     "time": "2026-05-04T18:31:37.000Z"
   },
   {
@@ -64,15 +181,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "TVK's G Saravanan wins by 1,186 votes",
-    "desc": "Srivaikuntam's 2026 Tamil Nadu Assembly elections feature a close contest between INC, AIADMK, and TVK. Historically, the seat has evenly split between Congress and AIADMK since 1977. The 2021 election saw INC win by over 15,000 votes, while AIADMK secured victories in 2016 and 2011.",
-    "img": "https://static.toiimg.com/photo/msid-130684358,imgsize-49586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/srivaikuntam-election-results-2026-tvks-g-saravanan-wins-by-1186-votes/articleshow/130684364.cms",
-    "time": "2026-05-04T18:11:00.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Clean sweep for UDF in Ernakulam as LDF falls flat",
     "desc": "BJP’s decision to give most seats in the district to its ally Twenty20 backfires, with the corporate-backed outfit failing to make an impact; five segments that backed the Left front in 2021 shift their allegiance to UDF",
     "img": "https://th-i.thgim.com/public/incoming/pv5h7v/article70940240.ece/alternates/LANDSCAPE_1200/kerala_election_result_11.JPG",
@@ -99,15 +207,6 @@ const newsData_en = [
     "time": "2026-05-04T17:53:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why Mamata's defeat is a good news for Congress",
-    "desc": "The 2026 West Bengal election saw the BJP win, but the TMC's weakening social coalitions created openings for the Congress in pockets of central Bengal. While the BJP consolidated gains, the Congress secured at least two seats in Murshidabad, marking a modest, geographically concentrated revival by benefiting from vote fragmentation.",
-    "img": "https://static.toiimg.com/photo/msid-130808401,imgsize-1058104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-election-results-2026-why-mamatas-defeat-is-a-good-news-for-congress/articleshow/130807307.cms",
-    "time": "2026-05-04T17:34:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Quote of the day by Nicole Kidman",
     "desc": "Renowned actress Nicole Kidman offers an inspiring take on resilience, stating, 'Life has got all those twists and turns. You've got to hold on tight and off you go.' This quote encapsulates her incredible journey from anonymity to worldwide acclaim, serving as a beacon of hope for those facing their own struggles.",
@@ -115,24 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-nicole-kidman-life-has-got-all-those-twists-and-turns-youve-got-to-hold-on-tight-and-off-you-go/articleshow/130804164.cms",
     "time": "2026-05-04T17:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AIADMK’s N. Thalavai Sundaram wins against DMK and TVK candidates",
-    "desc": "The Kanniyakumari assembly seat, a key constituency in Tamil Nadu, has historically seen a back-and-forth between the DMK and AIADMK. In the 2021 elections, AIADMK's Thalavai Sundaram secured victory, overturning the 2016 result where DMK's S Austin had won. Elections are anticipated in April for this seat.",
-    "img": "https://static.toiimg.com/photo/msid-130708755,imgsize-117760.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kanniyakumari-election-results-2026-aiadmks-n-thalavai-sundaram-wins-against-dmk-and-tvk-candidates/articleshow/130708757.cms",
-    "time": "2026-05-04T17:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK’s Elangovan D wins by 1,208 votes",
-    "desc": "Manamadurai, a reserved constituency in Sivaganga, has a history of alternating between DMK and AIADMK. In the upcoming Tamil Nadu elections on April 23, DMK's Tamilarasi faces BJP's Balaganapathy and TVK's Elangovan. Recent elections show close contests, with DMK winning in 2021 and AIADMK in 2016 and 2011.",
-    "img": "https://static.toiimg.com/photo/msid-130675707,imgsize-150956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/manamadurai-assembly-polls-2026-tvks-elangovan-d-wins-by-1208-votes/articleshow/130675427.cms",
-    "time": "2026-05-04T17:26:30.000Z"
   },
   {
     "cat": "Politics",
@@ -160,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-attempting-suicide-at-13-to-being-called-the-king-of-comedy-johny-levers-net-worth-now-exceeds-rs-270-crore/articleshow/130807772.cms",
     "time": "2026-05-04T17:24:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC's Ashish Marjit loses to BJP's Mitali Mal, trails behind by 9,333 votes",
-    "desc": "Khargram constituency gears up for the 2026 Assembly elections with TMC's Ashish Marjit facing BJP's Mitali Mal. The seat, reserved for Scheduled Caste candidates, saw Ashis Marjit win in 2021 for TMC after previously securing victory for Congress in 2016. Voter turnout in West Bengal reached a historic high in the last elections.",
-    "img": "https://static.toiimg.com/photo/msid-130674662,imgsize-80786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/khargram-sc-election-results-2026-tmcs-ashish-marjit-vs-bjps-mitali-mal/articleshow/130674631.cms",
-    "time": "2026-05-04T17:22:30.000Z"
   },
   {
     "cat": "Politics",
@@ -205,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singh-cheers-on-as-son-aayushmaan-sethis-girlfriend-has-now-moved-in-with-the-family-he-carries-her-in-his-arms/articleshow/130807262.cms",
     "time": "2026-05-04T16:58:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AIADMK suffers major losses in its traditional stronghold",
-    "desc": "As of 9.30 p.m. on Monday, the Dravidian major has won in 42 constituencies and is ahead in five others. In terms of arithmetic strength, the party was not as strong as its traditional adversary, the DMK",
-    "img": "https://th-i.thgim.com/public/incoming/o6959p/article70940150.ece/alternates/LANDSCAPE_1200/9868_6_4_2026_13_57_53_3_CLOSE_EPS_5.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-aiadmk-suffers-major-losses-in-its-traditional-stronghold/article70940010.ece",
-    "time": "2026-05-04T16:56:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK and the dynamics of disruption",
-    "desc": "As trends continue to emerge, it is clear that Tamil Nadu is heading in a path it has never taken so far — whether it is a majority for the TVK, a non-Dravidian party, or a hung Assembly",
-    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/r1nwtb/article70937999.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-04%20at%2011.40.21.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-and-the-dynamics-of-disruption/article70937976.ece",
-    "time": "2026-05-04T16:49:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -334,21 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Big B got upset with Abhishek Banerjee touched his feet",
+    "title": "Big B got upset with Abhishek Banerjee as he touched his feet",
     "desc": "Actor Abhishek Banerjee, known for his roles in \"Stree\" and his casting work, shared his starstruck encounters with Amitabh Bachchan and Shah Rukh Khan. Banerjee was deeply impressed by Bachchan's professionalism and desire to be treated as an equal co-actor, and found Shah Rukh Khan to be incredibly cool, witty, and energetic.",
     "img": "https://static.toiimg.com/photo/msid-130801421,imgsize-77050.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-got-upset-when-abhishek-banerjee-touched-his-feet-i-was-in-awe-but-he-wants-to-see-everyone-as-an-equal/articleshow/130801300.cms",
     "time": "2026-05-04T13:16:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meghan Markle and Prince Harry facing issues in their marriage",
-    "desc": "As their eighth anniversary draws near, insiders reveal that Prince Harry and Meghan Markle are facing unexpected challenges in their marriage. While they present a united front, differing visions for their future are reportedly creating tension. Meghan, wanting to emphasize solidarity, is considering a vow renewal, all the while her public initiatives continue to thrive.",
-    "img": "https://static.toiimg.com/photo/msid-130800490,imgsize-230176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-and-prince-harry-facing-turmoil-in-their-marriage-ahead-of-8th-anniversary-reports/articleshow/130799943.cms",
-    "time": "2026-05-04T12:59:33.000Z"
   },
   {
     "cat": "Sports",
@@ -367,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnan-visits-thalapathy-vijays-house-on-her-birthday-as-his-party-leads-in-tamil-nadu-elections-waves-at-the-paps-as-she-leaves-watch-video/articleshow/130795648.cms",
     "time": "2026-05-04T12:29:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Court protects Arjun Kapoor's personality rights",
-    "desc": "The Delhi High Court has granted an interim injunction against social media accounts and websites misusing Arjun Kapoor's personality rights, including selling merchandise and creating deepfake videos. The court ordered Google and Meta to remove infringing content and disclose subscriber information, emphasizing that unauthorized exploitation of his identity for financial gain violates his rights.",
-    "img": "https://static.toiimg.com/photo/msid-130794398,imgsize-31010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-abhishek-and-aishwarya-rai-bachchan-kumar-sanu-kartik-aaryan-salman-khan-court-protects-arjun-kapoors-personality-rights/articleshow/130794388.cms",
-    "time": "2026-05-04T12:01:58.000Z"
   },
   {
     "cat": "Sports",
@@ -403,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/remembering-raghu-rai-five-photographers-explore-the-enduring-legacy-of-the-guru-with-the-camera/article70928157.ece",
     "time": "2026-05-04T11:21:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Court declines to grant interim relief to 'Jigra' in trademark infringement case",
-    "desc": "The Delhi High Court denied interim relief to Médecins Sans Frontières (MSF) in its trademark infringement suit against Dharma Productions' film 'Jigra'. While the court found no unfair advantage gained by the filmmakers, it acknowledged the potential harm to MSF's reputation.",
-    "img": "https://static.toiimg.com/photo/msid-130789862,imgsize-30280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-high-court-declines-to-grant-interim-relief-to-jigra-in-trademark-infringement-case-directs-dharma-productions-to-include-disclaimer/articleshow/130788204.cms",
-    "time": "2026-05-04T11:12:49.000Z"
   },
   {
     "cat": "Sports",
@@ -765,15 +792,6 @@ const newsData_en = [
     "time": "2026-05-02T12:46:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Alex Zanardi, inspirational auto racing champion-turned-Paralympian, dies at 59",
-    "desc": "In 2001, both of his legs were severed in a horrific accident; he turned his attention to hand cycling and won multiple Paralympics medals; but in 2020, he was seriously injured again in a handbike accident after crashing into a truck",
-    "img": "https://th-i.thgim.com/public/incoming/v5990w/article70931274.ece/alternates/LANDSCAPE_1200/2026-05-02T082546Z_2047334972_RC2V0LA2G72V_RTRMADP_3_MOTOR-ITALY-ZANARDI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorsport/alex-zanardi-inspirational-auto-racing-champion-turned-paralympian-dies-at-59/article70931272.ece",
-    "time": "2026-05-02T09:16:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Spirit Airlines says it’s going out of business after 34 years and is ending operations",
     "desc": "The U.S. President floated the idea of a bailout last week after the airline found itself in bankruptcy proceedings for the second time in less than two years with jet fuel prices soaring because of the Iran war",
@@ -781,24 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/spirit-airlines-appears-closer-to-shutdown-as-time-dwindles-for-government-bailout/article70930780.ece",
     "time": "2026-05-02T06:41:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Salah 'deserves big send-off', says Liverpool boss Slot",
-    "desc": "The Egypt forward, who will leave Anfield at the end of the campaign, was forced off in last weekend's 3-1 win at home to Crystal Palace, prompting fears he may have played his final game for the Reds",
-    "img": "https://th-i.thgim.com/public/incoming/qp7gts/article70929913.ece/alternates/LANDSCAPE_1200/2026-04-29T171954Z_146230780_RC2FWKA0ZUSN_RTRMADP_3_SOCCER-ENGLAND-LIV-SALAH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/salah-deserves-big-send-off-says-liverpool-boss-slot/article70929788.ece",
-    "time": "2026-05-01T21:45:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wood's penalty gives Nottingham Forest a 1-0 win over Aston Villa in Europa League semifinal 1st leg",
-    "desc": "In a matchup of two teams hoping to revive former European glory, the win at the City Ground puts Forest a step closer to what would be its first continental competition final in 46 years",
-    "img": "https://th-i.thgim.com/public/incoming/tzzk1e/article70929787.ece/alternates/LANDSCAPE_1200/Britain_Europa_League_Soccer__4791.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/woods-penalty-gives-nottingham-forest-a-1-0-win-over-aston-villa-in-europa-league-semifinal-1st-leg/article70929785.ece",
-    "time": "2026-05-01T21:18:10.000Z"
   },
   {
     "cat": "Entertainment",
