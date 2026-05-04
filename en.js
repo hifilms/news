@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Historic clean sweep for UDF in Idukki",
+    "desc": "UDF wins all five constituencies in Idukki. Congress party reclaims Devikulam and Peerumade seats after two decades and secures Udumbanchola for the first time in 25 years. In Thodupuzha, the victory of Kerala Congress veteran P. J. Joseph’s son Apu John Joseph represents a generational shift for the party.",
+    "img": "https://th-i.thgim.com/public/incoming/c2gjtl/article70939514.ece/alternates/LANDSCAPE_1200/80759_4_5_2026_19_38_2_2_CYRIACTHOMAS.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-historic-clean-sweep-for-udf-in-idukki/article70939344.ece",
+    "time": "2026-05-04T16:23:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress retains both Bagalkot, Davangere South seats in bypolls",
+    "desc": "The ruling party Congress has won both the Davangere South and Bagalkot Assembly seats in Karnataka, the byelections for which witnessed intense campaigning with Chief Minister, Deputy Chief Minister, Union Ministers and a host of senior leaders of Congress, BJP and JD(S) actively involving themselves in it",
+    "img": "https://th-i.thgim.com/public/incoming/xjk1ri/article70939994.ece/alternates/LANDSCAPE_1200/2699_5_4_2026_14_32_12_1_06HUBLISAMARTHSHAMANURU.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/congress-retains-both-bagalkot-davangere-south-seats-in-bypolls/article70938788.ece",
+    "time": "2026-05-04T16:21:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP's Satyendra Nath Rai gets 1,05,780 votes; defeats TMC's Goutam Das",
+    "desc": "Gangarampur's 2026 election promises a thrilling rematch as TMC's Goutam Das faces BJP's incumbent MLA Satyendra Nath Rai, with Congress fielding Jui Barman. Historically a CPI(M) stronghold, the seat has seen dramatic shifts, with Das previously defeating Rai for Congress in 2016, only for Rai, now with BJP, to secure victory in 2021.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gangarampur-assembly-results-2026-tmcs-goutam-das-vs-bjps-satyendra-nath-rai/articleshow/130672797.cms",
+    "time": "2026-05-04T16:15:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP's Budhrai Tudu defeats TMC's Chintamoni Biha",
+    "desc": "Tapan's 2026 assembly elections are set for a fierce three-way battle. BJP's incumbent Budhrai Tudu faces a strong challenge from TMC's Chintamoni Biha and Congress's Bankim Chandra Toppo. This historically competitive ST-reserved seat, known for its tribal population, saw a significant BJP victory in 2021, making the upcoming contest a must-watch.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tapan-assembly-results-2026-tmcs-chintamoni-biha-vs-bjps-budhrai-tudu/articleshow/130672748.cms",
+    "time": "2026-05-04T16:12:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chandrakona (SC) election results 2026: BJP’s Sukanta Dolui wins Chandrakona by 33,481 votes, defeats TMC’s Surjya Kanta Dolui",
+    "desc": "Chandrakona, a predominantly rural, SC-reserved constituency in Paschim Medinipur, faces challenges like flood management, agrarian debt, and underdevelopment. The seat, comfortably held by the AITC, has seen a shift from CPI(M) dominance to a bipolar AITC-BJP rivalry, with recent elections highlighting polarized contests and steady AITC consolidation.",
+    "img": "https://static.toiimg.com/photo/msid-130717905,imgsize-105472.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chandrakona-sc-election-results-2026/articleshow/130717911.cms",
+    "time": "2026-05-04T16:10:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "INC's Jamal Mohamed Younoos. Y.N wins",
+    "desc": "Jamal Mohamed Younoos. Y.N of Indian National Congress won the Mayiladuthurai constituency with a margin of 10845 votes. He garnered 68011 votes, while Pattali Makkal Katchi candidate Palanisamy. A M.COM. came second with 57166 votes.",
+    "img": "https://static.toiimg.com/photo/msid-130680904,imgsize-46138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mayiladuthurai-assembly-results-2026/articleshow/130680635.cms",
+    "time": "2026-05-04T16:10:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK’s SP Selvam wins, DMDK’s Vijayaprabhaakar finishes second",
+    "desc": "Virudhunagar, a DMK stronghold, saw AR R. Seenivasan win the 2021 Assembly elections by a significant margin. The DMK has historically performed well in the constituency, securing three victories since 1977. The upcoming Tamil Nadu Assembly elections feature a contest between the DMK, AIADMK, and a BJP-led alliance, with key issues including welfare, law and order, and identity politics.",
+    "img": "https://static.toiimg.com/photo/msid-130676091,imgsize-76414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/virudhunagar-election-results-2026-tvks-sp-selvam-wins-dmdks-vijayaprabhaakar-finishes-second/articleshow/130675973.cms",
+    "time": "2026-05-04T16:10:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK’s PLA Jeganath Mishra wins, DMK’s N Eramakrishnan finishes second",
+    "desc": "In a surprising turn, P. L. A. Jeganath Mishra of TVK clinched victory in the 2026 Assembly elections, unseating established parties. DMK's N. Eramakrishnan secured second, with AIADMK's S. T. K. Jakkaiyan in third. The election saw key issues like irrigation and worker welfare dominate the campaign narrative.",
+    "img": "https://static.toiimg.com/photo/msid-130678198,imgsize-110840.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cumbum-election-results-2026-tvks-pla-jeganath-mishra-wins-dmks-n-eramakrishnan-finishes-second/articleshow/130678131.cms",
+    "time": "2026-05-04T16:10:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika to skip Met Gala this year; prioritises King and Raaka",
+    "desc": "Deepika Padukone will not be attending the Met Gala this year, as per the latest reports. While speculation was rife about her possible appearance at fashion’s biggest night, a source has now clarified that her current focus remains firmly on her film commitments.",
+    "img": "https://static.toiimg.com/photo/msid-130805960,imgsize-20504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-to-skip-met-gala-this-year-prioritises-shah-rukh-khans-king-and-allu-arjuns-raaka-amid-busy-schedule/articleshow/130805915.cms",
+    "time": "2026-05-04T16:04:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP emerges victorious in three seats",
+    "desc": "At Nemom, BJP State president Rajeev Chandrasekhar defeated Communist Party of India (Marxist) candidate and Minister V. Sivankutty by 4,978 votes. For former Union Minister V. Muraleedharan, victory came after a photo finish at Kazhakuttam. The most surprising victory for BJP was at Chathannur, where B.B. Gopakumar defeated CPI’s R. Rajendran by 4,398 votes",
+    "img": "https://th-i.thgim.com/public/incoming/tgex7n/article70939558.ece/alternates/LANDSCAPE_1200/NH04Rajeev14.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-bjp-emerges-victorious-in-three-seats/article70939055.ece",
+    "time": "2026-05-04T16:03:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Injured Ayush Mhatre likely to be out of action for two months",
+    "desc": "Mumbai and Chennai Super Kings batter Ayush Mhatre is likely to be out of action for the next couple of months due to a hamstring injury as well as a wrist injury, TOI has learnt.",
+    "img": "https://static.toiimg.com/photo/msid-130805705,imgsize-61414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-injured-ayush-mhatre-likely-to-be-out-of-action-for-two-months/articleshow/130805536.cms",
+    "time": "2026-05-04T15:48:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCP(SP) draws blank, RJD falters",
+    "desc": "The NCP(SP)’s failure to open its account, despite contesting three seats, marks a sharp reversal from its performance in 2021. The RJD fared only marginally better, retaining a single seat out of the three it contested",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly-polls-2026-ncpsp-draws-blank-rjd-falters/article70939386.ece",
+    "time": "2026-05-04T15:42:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Imran Khan on co-parenting daughter Imara with ex-wife Avantika",
+    "desc": "During his conversation with Parineeti Chopra, Imran Khan shared a deeply personal take on parenting, stressing that he has never looked at it as a responsibility imposed on him. He also highlighted that irrespective of how family structures evolve, a child’s emotional security must remain the top priority.",
+    "img": "https://static.toiimg.com/photo/msid-130805214,imgsize-59322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-opens-up-about-co-parenting-daughter-imara-with-ex-wife-avantika-malik-i-did-not-view-it-as-my-duty-its-my-privilege/articleshow/130805058.cms",
+    "time": "2026-05-04T15:24:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Assembly polls",
+    "desc": "UDF’s emphatic win in the Kerala Assembly polls has not only silenced Satheesan’s critics, but reasserted the political supremacy of the Congress leader, who was given the task of reinvigorating the party and its disenchanted workers after he was chosen as the Leader of the Opposition following UDF’s electoral debacle in 2021",
+    "img": "https://th-i.thgim.com/public/incoming/vd3jhs/article70938737.ece/alternates/LANDSCAPE_1200/20260409165L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/v-d-satheesan-captaining-a-resurgent-congress-in-kerala/article70938230.ece",
+    "time": "2026-05-04T15:21:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BDJS, Twenty20 fail to leave a political impact",
+    "desc": "Of the 19 seats it contested, Twenty20 could put up a fight only in Kunnathunad, bagging 40,000-odd votes. Yet party founder Sabu Jacob believes its alliance with the BJP will work in the long run. Of the 22 BDJS candidates, only the Aroor nominee could come up with a decent show. The performance raises existential questions for the two parties",
+    "img": "https://th-i.thgim.com/public/incoming/58l8im/article70939516.ece/alternates/LANDSCAPE_1200/Consultations-wG52FG0FHL.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/bdjs-twenty20-fail-to-leave-a-political-impact/article70939136.ece",
+    "time": "2026-05-04T15:18:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pooran surpasses Sooryavanshi in explosive batting record",
+    "desc": "Nicholas Pooran smashed a 16-ball fifty against Mumbai Indians at the Wankhede Stadium, overtaking Vaibhav Sooryavanshi with five IPL fifties in under 20 balls — second only to Abhishek Sharma’s six. Batting at No. 3 for Lucknow Super Giants, Pooran blasted 63 off 21 balls, underlining his growing dominance as one of IPL 2026’s most destructive batters.",
+    "img": "https://static.toiimg.com/photo/msid-130804862,imgsize-61434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-nicholas-pooran-surpasses-vaibhav-sooryavanshi-in-explosive-batting-record-during-mi-vs-lsg/articleshow/130803196.cms",
+    "time": "2026-05-04T15:07:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Molly Ringwald recalls school days while filming ‘Pretty in Pink’",
+    "desc": "taking her high school algebra finals amidst filming. She also recalled celebrating her best friend Matt's 18th birthday on set, revealing he inspired the character Duckie. Their enduring friendship, spanning since sixth grade, continues to this day.",
+    "img": "https://static.toiimg.com/photo/msid-130803706,imgsize-41014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-breakfast-club-star-molly-ringwald-recalls-most-memorable-moment-from-pretty-in-pink-set-i-had-to-do-my-finals-on-set/articleshow/130803509.cms",
+    "time": "2026-05-04T14:20:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cameron Diaz and Benji Madden announce birth of third child",
+    "desc": "In a heartwarming update, Hollywood duo Cameron Diaz and Benji Madden have embraced parenthood once again with the birth of their son, Nautas. Announcing the joyful news on social media, they revealed the name Nautas Madden, which translates to 'sailor' or 'navigator'. The little one joins siblings Raddix and Cardinal, adding to the family's delightful chaos.",
+    "img": "https://static.toiimg.com/photo/msid-130803510,imgsize-184470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cameron-diaz-and-benji-madden-welcome-third-child-welcome-to-the-world-son/articleshow/130803356.cms",
+    "time": "2026-05-04T14:13:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vicky Kaushal to play fourth idiot in '3 Idiots' sequel",
+    "desc": "Vicky Kaushal is in advanced discussions to join the highly anticipated '3 Idiots' sequel, titled '4 Idiots', as the fourth lead alongside Aamir Khan, R. Madhavan, and Sharman Joshi. Directed by Rajkumar Hirani, the film is currently in the writing stage and is expected to go on floors in the second half of 2027. Multiple meetings have already taken place and Kaushal has reportedly given his verbal nod to the project.",
+    "img": "https://static.toiimg.com/photo/msid-130803376,imgsize-198118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-front-runner-to-play-the-fourth-idiot-in-3-idiots-sequel-alongside-aamir-khan-r-madhavan-and-sharman-joshi-reports/articleshow/130803207.cms",
+    "time": "2026-05-04T14:09:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Faltu mein they add kissing scenes,' says Nauheed about doing less acting work",
+    "desc": "Nauheed Cyrusi explained her reduced film and TV presence, citing discomfort with mandatory kissing scenes and withheld payments as reasons for being selective. She also noted that avoiding industry networking may have limited her role opportunities, preferring to focus on her life outside of acting.",
+    "img": "https://static.toiimg.com/photo/msid-130802928,imgsize-30300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/faltu-mein-they-add-kissing-scenes-says-nauheed-cyrusi-about-doing-less-acting-work-producer-holds-25-percent-of-payment/articleshow/130802866.cms",
+    "time": "2026-05-04T13:52:55.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Farah Khan on how grandfather Aman Gul Pathan once owned the entire Khar-Danda property",
     "desc": "Filmmaker and choreographer Farah Khan has revealed a little-known chapter of her family’s history involving her grandfather Aman Gul Pathan once owned vast tracts of land in Mumbai’s Khar-Danda area, which he donated entirely to a mosque before his death. The land was later encroached upon, leaving the family with nothing. The revelation came during a heartfelt conversation with composer Ismail Darbar, as Farah opened up about her journey from financial ruin to Bollywood success.",
@@ -7,24 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-reveals-her-grandfather-aman-gul-pathan-once-owned-the-entire-khar-danda-property-we-became-paupers/articleshow/130801886.cms",
     "time": "2026-05-04T13:29:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Victory in West Bengal is a paradigm shift in the BJP’s political journey",
-    "desc": "The border State of West Bengal has always been very important for the party ideologically, and heavily informs the BJP’s idea of cultural nationalism; the party is now uninterruptedly in power from Gangotri to Gangasagar",
-    "img": "https://th-i.thgim.com/public/incoming/6jg6d8/article70938957.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000240B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/victory-in-west-bengal-is-a-paradigm-shift-in-the-bjps-political-journey/article70938681.ece",
-    "time": "2026-05-04T13:26:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vijay wave, Bengal breakthrough, Kerala reset",
-    "desc": "Tamil Nadu witnesses a seismic shift as actor Vijay's party leads, ending decades of Dravidian rule. The BJP achieves a historic win in West Bengal, unseating Mamata Banerjee. Kerala returns to its rotation cycle with the UDF forming the government, while Assam shows pro-incumbency can prevail. These results signal a significant political churn across India.",
-    "img": "https://static.toiimg.com/photo/msid-130801904,imgsize-3030254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assembly-election-results-2026-vijay-wave-bengal-breakthrough-kerala-reset-10-takeaways/articleshow/130801326.cms",
-    "time": "2026-05-04T13:23:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -36,15 +198,6 @@ const newsData_en = [
     "time": "2026-05-04T13:16:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rajnath Singh pushes for edge in high-tech warfare edge at defence symposium",
-    "desc": "The Defence Minister stresses that future warfare will be shaped by rapid technological transformation and the element of surprise. He points out unconventional threats, including weaponisation of everyday technologies as seen in recent attacks in West Asia",
-    "img": "https://th-i.thgim.com/public/incoming/entlnr/article70938870.ece/alternates/LANDSCAPE_1200/20260504301L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajnath-singh-pushes-for-edge-in-high-tech-warfare-edge-at-defence-symposium/article70938783.ece",
-    "time": "2026-05-04T13:06:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Meghan Markle and Prince Harry facing issues in their marriage",
     "desc": "As their eighth anniversary draws near, insiders reveal that Prince Harry and Meghan Markle are facing unexpected challenges in their marriage. While they present a united front, differing visions for their future are reportedly creating tension. Meghan, wanting to emphasize solidarity, is considering a vow renewal, all the while her public initiatives continue to thrive.",
@@ -52,24 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-and-prince-harry-facing-turmoil-in-their-marriage-ahead-of-8th-anniversary-reports/articleshow/130799943.cms",
     "time": "2026-05-04T12:59:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Assembly polls",
-    "desc": "UDF’s emphatic win in the Kerala Assembly polls has not only silenced Satheesan’s critics, but reasserted the political supremacy of the Congress leader, who was given the task of reinvigorating the party and its disenchanted workers after he was chosen as the Leader of the Opposition following UDF’s electoral debacle in 2021",
-    "img": "https://th-i.thgim.com/public/incoming/vd3jhs/article70938737.ece/alternates/LANDSCAPE_1200/20260409165L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/v-d-satheesan-captaining-a-resurgent-congress-in-kerala/article70938230.ece",
-    "time": "2026-05-04T12:54:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI(M)-led LDF Sumod wins Tarur SC seat by over 11900 votes",
-    "desc": "Tarur, a Scheduled Caste reserved constituency in Kerala's Palakkad district, remains a CPI(M)-led LDF stronghold, consistently winning since its 2011 creation. The constituency, with a significant Dalit population and high voter turnout, has seen decisive victories for the CPI(M) in recent elections.",
-    "img": "https://static.toiimg.com/photo/msid-130717880,imgsize-55130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tarur-sc-election-results-2026/articleshow/130717891.cms",
-    "time": "2026-05-04T12:50:00.000Z"
   },
   {
     "cat": "Sports",
@@ -144,15 +279,6 @@ const newsData_en = [
     "time": "2026-05-04T11:07:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "David Kendall passes away at 68",
-    "desc": "The television industry mourns the loss of David Kendall, esteemed showrunner and veteran producer, who passed away at 68. Renowned for his foundational work on 'Boy Meets World' and other hit sitcoms like 'Hannah Montana' and 'iCarly', his passion for storytelling resonated with audiences worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-130788689,imgsize-45710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/boy-meets-world-showrunner-david-kendall-passes-away-at-the-age-of-68/articleshow/130787853.cms",
-    "time": "2026-05-04T11:00:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'An evening with God of cricket': Sachin meets LSG players, Arjun thanked",
     "desc": "It turned into a memorable evening for several Lucknow Super Giants (LSG) players before their IPL 2026 clash against Mumbai Indians (MI) as cricket legend Sachin Tendulkar and his son Arjun Tendulkar hosted the team for dinner. Photos from the dinner quickly went viral on social media. Mohsin Khan later shared pictures from the evening on Instagram.",
@@ -181,15 +307,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "May War Rest In Peace",
-    "desc": "May War Rest In Peace, playing a simple, devoted woman. She said the role differs from past characters and Sudhir Mishra’s women. The film, inspired by Galwan clashes, awaits a new release date. Teaser released in 2025, with songs already out.",
-    "img": "https://static.toiimg.com/photo/msid-130786552,imgsize-38294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chitrangda-singh-on-her-role-in-salman-khan-led-maatrubhumi-may-war-rest-in-peace-very-different-from-the-women-sudhir-mishra-would-write/articleshow/130786552.cms",
-    "time": "2026-05-04T10:40:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Netizens spot Kareena in Kaho Naa Pyaar Hai, call it 'editing goof up'",
     "desc": "A viral online discovery claims to show a fleeting glimpse of Kareena Kapoor in 'Kaho Naa... Pyaar Hai', despite her exiting the film before its release. This alleged continuity glitch has reignited discussions about the film's casting history, where Kareena was initially set to star before being replaced by Ameesha Patel.",
     "img": "https://static.toiimg.com/photo/msid-130785540,imgsize-33838.cms",
@@ -205,33 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rohit-sharmas-heartfelt-gesture-steals-show-after-accidental-hit-on-ground-staff/articleshow/130785471.cms",
     "time": "2026-05-04T10:32:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Saira Banu said Dharmendra 'shone differently'",
-    "desc": "Veteran actress Saira Banu recently met Hema Malini, reminiscing about their enduring friendship and first meeting in 1966. Banu also fondly remembered Dharmendra, highlighting his deep affection and respect for her late husband, Dilip Kumar, and emphasizing the rare and pure bond they shared.",
-    "img": "https://static.toiimg.com/photo/msid-130785378,imgsize-106590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-saira-banu-paid-a-tribute-to-dharmendra-after-his-demise-in-a-world-filled-with-stars-he-shone-differently/articleshow/130784636.cms",
-    "time": "2026-05-04T10:29:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Isa Briones tells fans not to yell during her theatre performance",
-    "desc": "In a heartfelt appeal, Broadway sensation Isa Briones, celebrated for her standout role in 'The Pitt,' recently addressed her audience during the captivating performance of 'Just In Time.' Frustrated by interruptions, she reminded attendees that the theatre is a sanctuary for artistic expression, not a venue for chaos.",
-    "img": "https://static.toiimg.com/photo/msid-130784291,imgsize-49482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-pitt-star-isa-briones-says-yall-are-pissin-me-off-scolds-fans-for-yelling-during-her-broadway-performance/articleshow/130784091.cms",
-    "time": "2026-05-04T10:19:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paris Hilton says she will not join ‘TRHOBH’",
-    "desc": "In a decisive statement, Paris Hilton has opted out of joining 'The Real Housewives of Beverly Hills,' even with her mother Kathy shining in the spotlight. With a whirlwind of commitments and an aversion to the show's notorious drama, Paris called her mom the 'OG and the queen' who sets the bar impossibly high.",
-    "img": "https://static.toiimg.com/photo/msid-130783876,imgsize-31308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/paris-hilton-wont-follow-mother-kathy-hilton-to-the-real-housewives-of-beverly-hills-that-show-has-too-much-drama-for-me/articleshow/130783210.cms",
-    "time": "2026-05-04T10:15:02.000Z"
   },
   {
     "cat": "Business",
@@ -252,15 +342,6 @@ const newsData_en = [
     "time": "2026-05-04T09:50:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Emraan revealed Mahesh's shocking warning for 'Once Upon A Time In Mumbaai'",
-    "desc": "Mahesh Bhatt warned Emraan Hashmi that playing Shoaib Khan in 'Once Upon a Time in Mumbaai' would end his career. Despite the warning, the film became a massive success, proving Hashmi's versatility and changing perceptions of his acting capabilities. The actor recently made a strong Telugu debut in 'OG' playing a villain.",
-    "img": "https://static.toiimg.com/photo/msid-130779774,imgsize-21740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-emraan-hashmi-revealed-mahesh-bhatts-shocking-warning-for-once-upon-a-time-in-mumbaai-your-career-will-be-over/articleshow/130778887.cms",
-    "time": "2026-05-04T09:32:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bad news for CSK! MS Dhoni skips Delhi trip as injury delays return",
     "desc": "Chennai Super Kings face a significant blow as MS Dhoni misses their IPL 2026 clash against Delhi Capitals on Tuesday due to delay in injury recovery. He remains in Chennai for rehabilitation, raising concerns about his availability. This absence impacts CSK's playoff aspirations as they navigate a crucial phase of the tournament.",
@@ -277,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/raja-shivaji-box-office-collection-day-4-live-riteish-deshmukh-salman-khan-abhishek-bachchan-sanjay-dutt-vidya-balan-genelia-deshmukh-starrer-crosses-rs-34-crore-on-first-monday/articleshow/130776120.cms",
     "time": "2026-05-04T09:16:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Adrien Brody talks about his Oscar speech",
-    "desc": "Adrien Brody recently reflected on his record-breaking 2025 Oscar acceptance speech for 'The Brutalist.' He described the moment as chaotic, admitting it's difficult to have perspective then. Brody explained his lengthy address was an attempt to include everyone and express profound joy and contemplation, acknowledging the scrutiny that comes with fame.",
-    "img": "https://static.toiimg.com/photo/msid-130776859,imgsize-65032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-brutalist-star-adrien-brody-defends-his-viral-2025-oscar-speech-i-really-try-to-share-what-i-mean-to-say/articleshow/130776726.cms",
-    "time": "2026-05-04T09:06:18.000Z"
   },
   {
     "cat": "Sports",
@@ -325,30 +397,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘We still haven’t played our best’: Holder fires warning after GT’s hat-trick of wins",
-    "desc": "Gujarat Titans secured their third consecutive IPL victory, edging past Punjab Kings. Jason Holder emphasised the team's collective effort and belief that they haven't yet reached their peak performance. The pace attack, led by Rabada and Siraj, has been instrumental in their resurgence, setting a strong tone for the team's playoff push.",
-    "img": "https://static.toiimg.com/photo/msid-130763729,imgsize-94306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-we-still-havent-played-our-best-game-jason-holder-fires-warning-after-gujarat-titans-hat-trick-of-wins/articleshow/130763714.cms",
-    "time": "2026-05-04T06:54:33.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Will Rohit Sharma play today for Mumbai Indians vs LSG?",
     "desc": "Mumbai Indians and Lucknow Super Giants, both struggling at the bottom of the IPL 2026 table, face off at Wankhede Stadium. With playoff hopes fading, both teams are desperate for a win. Mumbai's campaign has been hampered by inconsistent performances and the uncertain availability of Rohit Sharma due to injury.",
     "img": "https://static.toiimg.com/photo/msid-130760889,imgsize-49308.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mi-vs-lsg-ipl-2026-will-rohit-sharma-play-today-for-mumbai-indians-vs-lucknow-super-giants/articleshow/130760665.cms",
     "time": "2026-05-04T06:26:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full list of matches, dates, timings, venues of ‘Revenge Week’",
-    "desc": "IPL 2026 enters a crucial 'Revenge Week' with tightly packed standings. Punjab Kings lead, but top four spots are fiercely contested. Key rematches, including Rajasthan Royals vs Gujarat Titans and Royal Challengers Bengaluru vs Mumbai Indians, promise high drama and could significantly impact the playoff race. Old scores are set to be settled.",
-    "img": "https://static.toiimg.com/photo/msid-130760415,imgsize-89092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-schedule-this-week-4-10-may-full-list-of-matches-dates-timings-venues-of-revenge-week/articleshow/130758253.cms",
-    "time": "2026-05-04T06:21:17.000Z"
   },
   {
     "cat": "Sports",
@@ -378,15 +432,6 @@ const newsData_en = [
     "time": "2026-05-04T05:19:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘You are a magician’: SRK’s emotional tribute to Narine after historic milestone",
-    "desc": "Shah Rukh Khan celebrated Sunil Narine's historic 200th IPL wicket, a milestone achieved exclusively for the Kolkata Knight Riders. Narine, the first player to reach this mark for a single franchise, also became the leading overseas bowler in the 200-wicket club. His exceptional consistency and crucial role in KKR's success were highlighted.",
-    "img": "https://static.toiimg.com/photo/msid-130748946,imgsize-45920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-you-are-a-magician-shah-rukh-khans-emotional-tribute-to-sunil-narine-after-historic-milestone/articleshow/130748912.cms",
-    "time": "2026-05-04T04:25:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nifty50 ends above 24,100; BSE Sensex over 350 points up",
     "desc": "The BSE Sensex, comprising 30 stocks, advanced 355.90 points, or 0.46 per cent, to close at 77,269.40. During the session, it had surged as much as 997.25 points, or 1.29 per cent, reaching an intraday high of 77,910.75.",
@@ -394,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-may-04-2026-election-results-indian-equities-global-markets-us-iran-war-hormuz-blockade-donald-trump/articleshow/130743996.cms",
     "time": "2026-05-04T03:47:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Baranica Elangovan clears 4.23m to better own pole vault NR",
-    "desc": "Baranica Elangovan of Tamil Nadu set a new national pole vault record of 4.23m at the Indian Indoor Open competition. She improved her previous mark by 0.01m, expressing satisfaction with her performance despite failing to clear 4.30m. Her coach is now focusing on upcoming national events and technical improvements for the Asian Games.",
-    "img": "https://static.toiimg.com/photo/msid-130744612,imgsize-208244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/baranica-elangovan-clears-4-23m-to-better-own-pole-vault-national-record/articleshow/130744590.cms",
-    "time": "2026-05-04T03:15:51.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/sleepless-in-tehran-as-crowds-rally-behind-the-flag/article70934728.ece",
     "time": "2026-05-03T15:55:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How a weaker dollar is quietly making life more expensive for Americans",
-    "desc": "A declining U.S. dollar, down approximately 10% since Donald Trump's return to the White House, is quietly increasing the cost of everyday life for Americans. This weakening currency shrinks purchasing power, making imported goods and foreign travel more expensive, while benefiting large multinational exporters.",
-    "img": "https://static.toiimg.com/photo/msid-130734509,imgsize-1759791.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/how-a-weaker-dollar-is-quietly-making-life-more-expensive-for-americans/articleshow/130732816.cms",
-    "time": "2026-05-03T14:34:21.000Z"
   },
   {
     "cat": "Tech",
@@ -709,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/ek-din-movie-review-sai-pallavi-junaid-khan-aamir-khan-sunil-pandey/article70927801.ece",
     "time": "2026-05-01T09:47:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Ravi K. takes charge as HAL CMD",
-    "desc": "He concluded various big-ticket contracts for HAL, including the contract to supply 180 LCA Tejas to the Indian Air Force, 156 LCH Prachand to the Indian Army and Indian Air Force, and is credited with the operationalisation of the LCA Tejas fleet in IAF",
-    "img": "https://th-i.thgim.com/public/incoming/i7ui3h/article70927902.ece/alternates/LANDSCAPE_1200/HAL%20CMD.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/ravi-k-takes-charge-over-as-hal-cmd-from-d-k-sunil/article70927889.ece",
-    "time": "2026-05-01T08:09:21.000Z"
   },
   {
     "cat": "Tech",

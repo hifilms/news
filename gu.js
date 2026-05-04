@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "હવે હુમાયુ કબીરની બાબરી મસ્જિદનું શું થશે? બંગાળમાં ઊંધો પડ્યો સત્તાનો ખેલ",
+    "desc": "15 વર્ષ પછી, બંગાળમાં સત્તા પરિવર્તન થયું છે. આગળનો રાજકીય માહોલ ખૂબ જ મહત્વપૂર્ણ બનવાનો છે. મમતા બેનર્જીને પડકાર ફેંકીને રાજ્યમાં બાબરી મસ્જિદ બનાવવાની જાહેરાત કરનાર હુમાયુ કબીર ચૂંટણી જીતી ગયા છે, પરંતુ બંગાળમાં ભાજપ સત્તાના કેન્દ્રમાં હોવાથી, બાબરી મસ્જિદ બનાવવાની હુમાયુ કબીરની જાહેરાતનું શું થશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-will-happen-to-humayun-kabirs-babri-masjid-now-the-power-game-in-bengal-has-been-turned-upside-down-476478 ",
+    "time": "2026-05-04T16:17:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં ખીલ્યું કમળ, હવે ભાજપ કોને બનાવશે મુખ્યમંત્રી? રેસમાં શુભેન્દુ સહિત આ પાંચ નામ સૌથી આગળ",
+    "desc": "પશ્ચિમ બંગાળમાં ભાજપે ઐતિહાસિક જીત મેળવી છે, પરંતુ મુખ્યમંત્રી પદ માટે પાર્ટીએ હજુ સુધી કોઈ ચહેરો જાહેર કર્યો નથી. પીએમ મોદીની સક્રિયતા અને અમિત શાહના નિવેદન બાદ પાર્ટી બંગાળી મુખ્યમંત્રી પસંદ કરવાની યોજના બનાવી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bjp-victory-in-bengal-now-who-will-bjp-make-cm-these-five-names-including-shubhendu-are-leading-in-the-cm-race-476477 ",
+    "time": "2026-05-04T15:34:08.000Z"
+  },
+  {
     "cat": "Business",
     "title": "અદાણીની જીત! ₹3,400 કરોડ વધુ બોલી લગાવવા છતાં, વેદાંતાની ન થઈ આ કંપની, વિવાદ પર મોટો નિર્ણય",
     "desc": "અદાણી એન્ટરપ્રાઇઝે આ કંપનીને 14,535 કરોડ રૂપિયાની બોલી સાથે હસ્તગત કરવાની કાનૂની લડાઈ જીતી લીધી છે. નેશનલ કંપની લો એપેલેટ ટ્રિબ્યુનલ (NCLAT)એ વેદાંત લિમિટેડની અરજીને સંપૂર્ણપણે ફગાવી દીધી છે, જેમાં દાવો કરવામાં આવ્યો હતો કે તેની બોલી અદાણી કરતા 3,400 કરોડ રૂપિયા વધુ છે.",
@@ -124,15 +142,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-result-2026-what-is-bjp-plan-to-make-bengal-sonar-bangla-476381 ",
     "time": "2026-05-04T08:22:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "1 વાગ્યાના ટકોરે દીદીનું ટાટા ગુડબાય... અમિત શાહે પહેલા જ કરી દીધી બંગાળની ભવિષ્યવાણી, પરિણામ વચ્ચે વાયરલ થયો Video",
-    "desc": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી 2026 ના પરિણામોમાં ભાજપ 175 સીટની બહુમત સાથે આગળ વધી રહી છે. આ વચ્ચે અમિત શાહનો 22 એપ્રિલના રોજનો ભાષણવાળો જુનો વીડિયો સોશિયલ મીડિયા પર વાયરલ થયો છે. જેમાં તેઓએ મમતા બેનરજીની 1 વાગ્યાની વિદાયની ભવિષ્યવાણી કરી હતી",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/amit-shah-prediction-on-mamata-begerjee-defeat-in-west-bengal-results-2026-video-viral-476368 ",
-    "time": "2026-05-04T08:01:57.000Z"
   },
   {
     "cat": "Sports",

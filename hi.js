@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Nicholas Pooran surpasses Vaibhav Sooryavanshi with quickfire knock against Mumbai Indians",
+    "desc": "Lucknow Super Giants got off to a stellar start to their clash against Mumbai Indians. The two sides met in the 47th game of the ongoing IPL (Indian Premier League) 2026 at the Wankhede Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nicholas-pooran-surpasses-vaibhav-sooryavanshi-with-quickfire-knock-against-mumbai-indians-2026-05-04-1039922",
+    "time": "2026-05-04T15:48:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lucknow Super Giants post 228 runs in the first innings",
+    "desc": "The 47th game of the ongoing IPL (Indian Premier League) 2026 sees Lucknow Super Giants taking on Mumbai Indians. The two sides lock horns at the Wankhede Stadium in Mumbai, and it is worth noting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-lsg-live-cricket-score-mi-aim-to-return-to-winning-ways-2026-05-04-1039918",
+    "time": "2026-05-04T14:27:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Hardik Pandya not playing for MI vs LSG in IPL 2026 clash in Mumbai?",
     "desc": "The 47th game of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians taking on Lucknow Super Giants. The two sides meet at the Wankhede Stadium in Mumbai on May 4. It is worth...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-lose-another-player-midway-through-ipl-2026-as-all-rounder-ruled-out-2026-05-03-1039825",
     "time": "2026-05-03T15:34:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch F1 race in India after timing change?",
-    "desc": "The Formula 1 has returned after a month hiatus due to the cancellations of the Bahrain and Saudi Arabia GP, with the caravan in Miami this week. Following the tweaks in the F1 2026 regulations...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/miami-gp-live-streaming-details-when-and-where-to-watch-f1-race-in-india-after-timing-change-2026-05-03-1039824",
-    "time": "2026-05-03T15:11:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rahane, Raghuvanshi find form again to power KKR to third straight win as SRH's streak ends",
-    "desc": "Ajinkya Rahane and Angkrish Raghuvanshi were back among the runs as they powered Kolkata Knight Riders past Sunrisers Hyderabad in their IPL 2026 clash at the Rajiv Gandhi International Stadium on Sunday, May 3. After...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rahane-raghuvanshi-find-form-again-to-power-kkr-to-third-straight-win-as-srhs-streak-ends-2026-05-03-1039823",
-    "time": "2026-05-03T14:59:35.000Z"
   }
 ];
