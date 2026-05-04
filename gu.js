@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "સરકારે તરછોડ્યા તો જનતાએ આપ્યો સાથ! રેપ પીડિતાના માતા પાણીહાટી સીટ પર આગળ",
+    "desc": "આ વખતે બધાની નજર પશ્ચિમ બંગાળની વિધાનસભા ચૂંટણીના પરિણામો પર છે જે ખરેખર ચોંકાવી રહ્યા છે કારણ કે તૃણમૂલની સત્તાનું સિંહાસન ડગમગી રહ્યું છે. આ બધા વચ્ચે પાણીહાટી સીટ ચર્ચામાં છે કારણ કે અહીંથી રેપ પીડિતાના માતા રત્ના દેબનાથ ચૂંટણી લડ્યા છે. જાણો પ્રાથમિક તારણોમાં શું છે સ્થિતિ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/west-bengal-election-results-2026-r-g-kar-victim-mother-ratna-debnath-latest-update-476334 ",
+    "time": "2026-05-04T06:05:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આ છે 5 સુપરહિટ સરકારી સ્કીમ! સુરક્ષિત રહેશે તમારા પૈસા, મળશે શાનદાર વ્યાજ",
+    "desc": "ભારતીય બજારમાં સુરક્ષિત રોકાણ માટે અનેક યોજનાઓ ઉપલબ્ધ છે. ભારત સરકાર સમર્થિત પોસ્ટ ઓફિસ દ્વારા પણ અનેક યોજનાઓ ચલાવવામાં આવે છે, જેમાં શાનદાર વ્યાજ મળે છે. આજે અમે તમને રોકાણકારોની પાંચ બેસ્ટ સ્કીમ વિશે માહિતી આપીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/5-superhit-schemes-to-invest-in-interest-up-to-8-2-percent-ssa-scss-time-deposit-476335 ",
+    "time": "2026-05-04T05:56:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "નેટફ્લિક્સ પર નંબર વન બની થ્રીલર વેબ સીરીઝ, દમદાર સ્ટોરીનો ક્લાઈમેક્સ જોઈ દંગ રહી ગયા દર્શકો",
+    "desc": "નેટફ્લિક્સ પર તાજેતરમાં જ થ્રીલર વેબ સીરીઝ રિલીઝ થઈ છે. આ સીરીઝ 7 જ એપિસોડની છે પણ લોકો તેના ખૂબ વખાણ કરી રહ્યા છે. સીરીઝ જોનાર દર્શકોનું કહેવું છે કે સીરીઝનો ક્લાઈમેક્સ તેને બેસ્ટ અને મસ્ટ વોચ બનાવી દે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-on-netflix-in-hindi-web-series-thriller-web-series-glory-is-trending-on-netflix-india-476328 ",
+    "time": "2026-05-04T05:47:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં જે સમુદાય પર BJPનું ખુબ હતું ફોકસ, ત્યાં ટ્રેન્ડમાં પછડાઈ રહ્યું છે ભાજપ",
+    "desc": "પશ્ચિમ બંગાળમાં હાલ તો ટ્રેન્ડમાં ભાજપને બહુમતી મળતી જોવા મળી રહી છે પરંતુ એક ચોંકાવનારા સમાચાર એ છે કે જે સમુદાય પર ભાજપે ખુબ ફોકસ કર્યું હતું ત્યાં ભાજપ હાલ પછડાતો જોવા મળી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/in-bengal-the-community-on-which-bjp-had-a-lot-of-focus-is-falling-behind-in-the-trend-476308 ",
+    "time": "2026-05-04T05:24:17.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "આ રાજ્યમાં છે સૌથી લાંબી રેલ્વે ટનલ, પહાડો નીચે દોડશે ટ્રેન, 14.58 કિમી લાંબી ટનલ-8 એ બનાવ્યો રેકોર્ડ",
     "desc": "ભારતના માળખાગત ક્ષેત્રે વધુ એક મહત્વપૂર્ણ સિદ્ધિ હાંસલ કરી છે. દેશની સૌથી લાંબી રેલ્વે ટનલ, \"ટનલ 8\" પૂર્ણ થઈ ગઈ છે. આશરે 14.58 કિલોમીટર લાંબી, આ ટનલને એન્જિનિયરિંગ શ્રેષ્ઠતાનું એક ભવ્ય ઉદાહરણ માનવામાં આવે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -378,15 +414,6 @@ const newsData_gu = [
     "time": "2026-05-01T08:04:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મમતા બેનર્જી સામે હારશે શુભેંદુ અધિકારી! આ  EXIT POLL માં બંગાળમાં BJPને માત્ર 50 સીટો",
-    "desc": "પશ્ચિમ બંગાળમાં ચૂંટણી પહેલા રાજકીય માહોલ ગરમાઈ ગયો છે. બીજા તબક્કાના મતદાન બાદ સામે આવેલા એક્ઝિટ પોલ ભાજપની જીત તરફ ઈશારો કરી રહ્યાં છે. જ્યારે એક એવો એક્ઝિટ પોલ આવ્યો છે, જેમાં ટીએમસીની જીતની ભવિષ્યવાણી કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/poliq-west-bengal-exit-poll-suvendu-adhikari-lost-election-in-bhabanipur-tmc-will-win-200-seats-475755 ",
-    "time": "2026-05-01T06:34:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ક્રિકેટ જગતના ચોંકાવનારા સમાચાર: 2 ક્રિકેટરોએ બાથરૂમમાં નહાતી મહિલાઓના વીડિયો બનાવ્યા, કરાઈ ધરપકડ",
     "desc": "શ્રીલંકા ક્રિકેટ હાલમાં ખૂબ જ મુશ્કેલ સમયમાંથી પસાર થઈ રહ્યું છે. થોડા દિવસો પહેલા જ બોર્ડના પ્રમુખ સહિત તમામ અધિકારીઓએ પોતાના પદ પરથી રાજીનામું આપી દીધું હતું. હવે, ટીમના બે યુવા ખેલાડીઓ એક હોટલમાં અભદ્ર કૃત્ય કરતા પકડાયા છે.",
@@ -394,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/two-sri-lankan-cricketers-arrested-for-filming-woman-bathing-video-in-hotel-475756 ",
     "time": "2026-05-01T06:21:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;માની લીધું હતું કે હવે હું ડૂબી જ જઈશ...&amp;#039; ક્રૂઝ દુર્ઘટનામાં 4 કલાક સુધી મોત સામે લડતા રહ્યા 72 વર્ષના રિયાઝ",
-    "desc": "જબલપુરના બરગી ડેમમાં થયેલી ભીષણ ક્રૂઝ દુર્ઘટનામાં 72 વર્ષના રિયાઝ હુસૈને મોતને અત્યંત નજીકથી જોયું. ડૂબતા ક્રૂઝની અંદર ગરદન સુધી પાણીમાં ફસાયેલા રિયાઝ લગભગ ચાર કલાક સુધી જિંદગીની છેલ્લી આશા ટકાવી રાખીને બેઠા હતા. જ્યારે તેમને લાગ્યું કે હવે બચવું અશક્ય છે, ત્યારે જ રેસ્ક્યૂ ટીમ તેમના માટે દેવદૂત બનીને આવી પહોંચી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/jabalpur-cruise-accident-in-72-year-old-riyaz-survived-three-hours-inside-sinking-cruise-475747 ",
-    "time": "2026-05-01T05:57:40.000Z"
   },
   {
     "cat": "Tech",
@@ -585,15 +603,6 @@ const newsData_gu = [
     "time": "2026-04-28T02:51:50.000Z"
   },
   {
-    "cat": "World",
-    "title": "શાહબાઝ શરીફ OUT, પુતિન IN; રશિયાના રાષ્ટ્રપતિ અટકાવશે ઈરાન-અમેરિકા યુદ્ધ? જાણો કેમ થઈ રહી છે ચર્ચા",
-    "desc": "પશ્ચિમ એશિયામાં વધતા સંકટ વચ્ચે ઈરાનના વિદેશ મંત્રી સૈયદ અબ્બાસ અરાઘચી રશિયા પહોંચ્યા છે. અહીં તેમણે રશિયાના રાષ્ટ્રપતિ વ્લાદિમીર પુતિન સાથે મુલાકાત કરી છે. આ મુલાકાત બાદ પુતિને કહ્યું કે, તેમને આશા છે કે ઈરાનના લોકો આ મુશ્કેલ સમયનો મક્કમતાથી સામનો કરશે અને વિસ્તારમાં શાંતિ જળવાઈ રહેશે. તેમણે વધુમાં કહ્યું કે, રશિયા ઈરાન અને ખાડી દેશોના હિતોની રક્ષા માટે તમામ સંભવ પ્રયાસો કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/shahbaz-sharif-out-putin-in-will-the-russian-president-prevent-iran-us-war-know-why-there-is-a-discussion-475154 ",
-    "time": "2026-04-27T14:28:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "વિવાદ પછી થલપતિ વિજયની ફિલ્મ જન નાયકન થશે રિલીઝ, જાણી લો ડેટ",
     "desc": "થલપતિ વિજયની ફિલ્મ જન નાયકન 9 જાન્યુઆરીએ રિલીઝ થવાની હતી પરંતુ સેન્સર બોર્ડ અને કાયદાકીય જંગના કારણે ફિલ્મની રિલીઝ અટકી ગઈ હતી. હવે આ ફિલ્મ રિલીઝ થવા જઈ રહી છે. જાણવા મળતી માહિતી અનુસાર ગણતરીના દિવસોમાં આ ફિલ્મને બોક્સ ઓફિસ પર રિલીઝ કરી દેવામાં આવશે.",
@@ -655,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bharat-of-ramayana-died-due-to-liver-disease-sanjay-joge-left-the-world-at-the-age-of-40-474327 ",
     "time": "2026-04-22T13:06:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અનુષ્કા શર્મા પહેલા વિરાટ કોહલીની લાઈફમાં આવી હતી આ 5 હસીનાઓ, એકનું નામ તાજેતરમાં રહ્યું ચર્ચામાં",
-    "desc": "આજના સમયમાં દરેક યુવતી વિરાટ કોહલી જેવો પ્રેમ કરનાર, ઈમાનદાર અને કાળજી રાખનાર પતિ ઈચ્છે છે. પરંતુ શું તમે જાણો છો કે વિરાટ કોહલીની લાઈફમાં આવનાર એકમાત્ર યુવતી અનુષ્કા શર્મા નથી ? અનુષ્કા શર્મા પહેલા વિરાટ કોહલીની લાઈફમાં 5 સુંદરીઓ આવી હતી. આ 5 યુવતીઓ કોણ હતી જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/who-was-virat-kohli-girl-friend-before-anushka-sharma-virat-kohli-dates-5-girls-before-marriage-474262 ",
-    "time": "2026-04-22T07:40:28.000Z"
   }
 ];
