@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "અદાણીની જીત! ₹3,400 કરોડ વધુ બોલી લગાવવા છતાં, વેદાંતાની ન થઈ આ કંપની, વિવાદ પર મોટો નિર્ણય",
+    "desc": "અદાણી એન્ટરપ્રાઇઝે આ કંપનીને 14,535 કરોડ રૂપિયાની બોલી સાથે હસ્તગત કરવાની કાનૂની લડાઈ જીતી લીધી છે. નેશનલ કંપની લો એપેલેટ ટ્રિબ્યુનલ (NCLAT)એ વેદાંત લિમિટેડની અરજીને સંપૂર્ણપણે ફગાવી દીધી છે, જેમાં દાવો કરવામાં આવ્યો હતો કે તેની બોલી અદાણી કરતા 3,400 કરોડ રૂપિયા વધુ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/adani-wins-despite-bidding-3400-crores-more-vedanta-did-not-get-this-company-big-decision-on-the-controversy-476452 ",
+    "time": "2026-05-04T13:32:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ખતરોં કે ખિલાડી શો માં આ વખતે આ કલાકારો કરશે ખતરનાક સ્ટંટ, કંફર્મ કલાકારોના આ રહ્યા નામ",
+    "desc": "ખતરોં કે ખિલાડી 15 ની પહેલી ઝલક જોવા માટે લોકો બેચેન છે. આ શોની પહેલી ઝલક ક્યારે જોવા મળશે તે તો કંફર્મ નથી પણ આ શો માં કયા કલાકારો સ્ટંટ કરતાં જોવા મળશે તે કંફર્મ થયું છે. તો ફટાફટ ચેક કરી લો આ લિસ્ટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/khatron-ke-khiladi-season-15-confirm-actors-name-12-stars-including-gaurav-khanna-harsh-gujral-476451 ",
+    "time": "2026-05-04T13:19:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ છે TVKના વી.એસ. બાબુ? પોતાની જ પાર્ટીના બળવાખોર સામે હાર્યા મુખ્યમંત્રી એમ.કે. સ્ટાલિન, 8500થી વધુ મતોથી મળી હાર",
+    "desc": "તમિલનાડુના મુખ્યમંત્રી એમ.કે. સ્ટાલિન ત્રણ વખત જીતેલી પોતાની કોલાથુર બેઠક પર હારી ગયા છે. TVKના વી.એસ. બાબુએ DMK નેતાને 8000થી વધુ મતોથી માત આપી છે. જાણો કોણ છે બાબુ? જેમણે સ્ટાલિનનો 'અભેદ્ય કિલ્લો' ધરાશાયી કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-tvk-vs-babu-chief-minister-mk-stalin-lost-to-a-rebel-from-his-own-party-lost-by-more-than-8500-votes-476450 ",
+    "time": "2026-05-04T13:06:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં ભાજપની જીતના &amp;#039;5 ધુરંધર&amp;#039;, જેની રણનીતિથી મમતાનો અભેદ કિલ્લો ધરાશાયી",
+    "desc": "ભાજપે પશ્ચિમ બંગાળમાં મમતા બેનર્જીના અભેદ કિલ્લાને ભેદવામાં સફળતા મેળવી લીધી છે. અમિત શાહની આક્રમક રણનીતિ, જમીની પકડ અને સતત બેઠકોએ ભાજપ કાર્યકર્તાઓ માટે આ ચૂંટણીને મિશનમાં બદલી નાખી. તેમણે 50થી વધુ રેલીઓ અને રોડ શો કર્યાં, ખુદ માઇક્રો-મેનેજમેન્ટની જવાબદારી સંભાળી, જેણે કાર્યકર્તાઓને ઉર્જા આપી. સાથે તેમની ટીમમાં સામેલ પાંચ પ્રમુખ નેતાઓએ સંગઠન, રણનીતિ અને ડિજિટલ નેરેટિવ પર કામ કરી માહોલ ભાજપના પક્ષમાં બનાવ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/five-architects-of-bjps-victory-in-bengal-know-how-tmcs-fortress-collapsed-476449 ",
+    "time": "2026-05-04T12:52:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં મમતા બેનર્જીની હારના અસલી વિલન કોણ ? જાણો TMCની હાર પાછળના 5 કારણો",
+    "desc": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી 2026ના પરિણામો સામે આવી રહ્યા છે, જેમાં આ વખતે TMCના 15 વર્ષના શાસનને ઉથલાવી પહેલીવાર પશ્ચિમ બંગાળમાં ભારતીય જનતા પાર્ટીની સરકાર બનવા જઈ રહી છે. ત્યારે મમતા બેનર્જીની TMC બંગાળમાં કેમ હારી, તેમની હારના અસલી વિલન કોણ સાબિત થયા તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/5-reason-of-mamata-banerjee-lost-west-bengal-election-2026-476448 ",
+    "time": "2026-05-04T12:41:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ડાબેરી મુક્ત ભારત? કેરળમાં હાર સાથે જ દેશમાંથી લેફ્ટ શાસનનો સફાયો, કોંગ્રેસ ગઠબંધન આવ્યું સત્તામાં",
+    "desc": "કેરળ વિધાનસભા ચૂંટણીના શરૂઆતના પરિણામોમાં, કોંગ્રેસના નેતૃત્વ હેઠળના UDF કમાન્ડિંગ લીડ સ્થાપિત કરી છે. 140 બેઠકોવાળી વિધાનસભામાંથી બહાર આવતા વલણો અનુસાર, UDF હાલમાં 100 બેઠકોનો આંકડો પાર કરી ચૂક્યું છે. જ્યારે CPI(M)ના નેતૃત્વવાળા ગઠબંધન LDF 41 બેઠકો પર લીડ ધરાવે છે. હવે એવું લાગે છે કે કોંગ્રેસ કેરળમાં સરકાર બનાવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/left-free-india-with-the-defeat-in-kerala-the-left-rule-was-wiped-out-from-the-country-congress-alliance-came-to-power-476445 ",
+    "time": "2026-05-04T12:18:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમિત શાહે તોડ્યું બંગાળનું રાજકીય મિથક, 2016ની હુંકાર કેવી રીતે 2026માં જીત સુધી પહોંચી? જાણો",
+    "desc": "એ સત્ય છે કે પશ્ચિમ બંગાળ લાંબા સમય સુધી એક રાજકીય મિથક હતું. એક એવું રાજ્ય જ્યાં લેફ્ટ વિચારધારા અને પ્રાદેશિક અસ્મિતાએ રાષ્ટ્રીય પક્ષો માટે મર્યાદાઓ નક્કી કરી રાખી હતી. અમિત શાહે આ મિથકને સમજ્યું, તેના મૂળિયાં ઓળખ્યા અને પછી તેને વ્યવસ્થિત રીતે પડકાર આપ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/amit-shah-chanakya-strategy-behind-bjp-historic-win-in-west-bengal-elections-2026-476435 ",
+    "time": "2026-05-04T11:46:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ગંગોત્રીથી ગંગાસાગરઃ ભાજપ પર ગંગામૈયાના આશીર્વાદ, જ્યાં જ્યાં ગંગા, ત્યાં ત્યાં ભાજપ, બંગાળવિજયમાં ગુજરાતનો સિંહફાળો",
+    "desc": "પાંચ રાજ્યોની ચૂંટણીના પરિણામે ભાજપની સત્તાનો નક્શો ફરી બદલી નાંખ્યો છે. હવે ગંગોત્રીથી ગંગાસાગર સુધી ભગવો લહેરાયો છે. ઉત્તરમાં જ્યા જ્યાંથી ગંગા નદી પસાર થાય છે, એ તમામ જગ્યાઓ પર ભાજપની સરકાર બની ગઈ છે. તમે સરળતાથી સમજી શકો તે માટે અમે ભાજપની સત્તાનો નક્શો બનાવ્યો છે, જુઓ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/saffron-waves-from-gangotri-to-gangasagar-gangas-blessings-on-bjp-after-bengal-victory-476423 ",
+    "time": "2026-05-04T11:33:39.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી પરિણામો પર મમતા બેનર્જીનું પહેલું નિવેદન, જાણો શું કહ્યું",
     "desc": "મમતા બેનર્જીએ પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણીના પરિણામો અંગે પોતાનું પહેલું નિવેદન આપ્યું. બંગાળ ચૂંટણીમાં ભાજપ વિજય તરફ આગળ વધી રહી છે, જ્યારે ટીએમસી 100ની નીચે સીટો પર લીડમાં ચાલી રહી છે, ત્યારે મમતા બેનર્જીનું પહેલું નિવેદન ખુબ મહત્વનું છે.",
@@ -72,33 +144,6 @@ const newsData_gu = [
     "time": "2026-05-04T07:36:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કમલ હસને જે ભૂલ કરી હતી તે &amp;#039;થલાપતિએ ન દોહરાવી, રાજકારણની ડેબ્યૂ પીચ પર ડંકો વગાડ્યો",
-    "desc": "તમિલનાડુમાં વિજયની પાર્ટીએ વિરોધીઓના સૂપડાં સાફ કર્યા છે. પહેલી વખત ચૂંટણી લડી અને રાજ્યનો હાલ સૌથી મોટો પક્ષ નજરે ચડી રહ્યો છે જે 105 સીટો પર આગળ છે. વિજયે કમલ હસને જે ભૂલ કરી તે ન દોહરાવતા આજે સફળતાનો ડંકો વગાડ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/tamilnadu-election-results-vijay-party-tvk-superb-performance-476360 ",
-    "time": "2026-05-04T07:13:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પશ્ચિમ બંગાળમાં ભાજપની જીતના 5 હીરો, જેમણે ચુપચાપ મમતાના ગઢમાં પાડ્યું ગાબડું",
-    "desc": "પશ્ચિમ બંગાળમાં સત્તા પરિવર્તન થઈ રહ્યું છે. ટ્રેન્ડ્સ પ્રમાણે ભારતીય જનતા પાર્ટી ઈતિહાસ રચતા પ્રથમવાર ચૂંટણી જીતી રહી છે. ભાજપની આ જીતમાં અનેક નેતાઓએ મહત્વની ભૂમિકા ભજવી છે. અમે તમને પાંચ એવા ચહેરાઓ વિશે જણાવીશું, જેણે બંગાળમાં ભાજપની જીતમાં મહત્વનું યોગદાન આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/5-heroes-of-bjp-victory-in-west-bengal-bhupendya-yadav-sunin-bansal-amit-shah-476348 ",
-    "time": "2026-05-04T06:50:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બંગાળમાં સુવેન્દુ અધિકારી બનશે મુખ્યમંત્રી? ZEE ન્યૂઝના સવાલ પર ભાજપમાંથી મળ્યો જવાબ",
-    "desc": "પશ્ચિમ બંગાળમાં પહેલીવાર કમળ ખીલી રહ્યું છે. બંગાળમાં આખરે પરિવર્તનની લહેર જોવા મળી છે. ત્યારે બંગાળમાં ભાજપના મુખ્યમંત્રી બનવા તરફના પરિણામ દેખાઈ રહ્યાં છે. પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણીનું પરિણામ બાદ સૌથી મોટો સવાલ એ રહેશે કે બંગાળમા કોણ મુખ્યમંત્રી બનશે, મમતા બેનરજીને મજબૂત ટક્કર આપનાર સુવેન્દુ અધિકારી કે પછી દિલીપ ઘોષ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/west-bengal-election-results-2026-who-will-become-cm-suvendu-adhikari-or-dilip-ghosh-476345 ",
-    "time": "2026-05-04T06:47:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "હાર બાદ કેપ્ટન શ્રેયસ ઐયર નારાજ, જાણો કોને ગણાવ્યો હારનો જવાબદાર, અમદાવાદની પિચ પર પણ ઉઠાવ્યા સવાલ",
     "desc": "પંજાબ કિંગ્સને ગુજરાત ટાઇટન્સ સામેની રમાયેલી મેચમાં 4 વિકેટથી હારનો સામનો કરવો પડ્યો હતો. આ હાર બાદ પંજાબ કિંગ્સના કેપ્ટન શ્રેયસ ઐયરે પિચ પર સવાલ ઉઠાવ્યા હતા. શ્રેયસને લાગ્યું કે, મુશ્કેલ પિચ હોવા છતાં તેની ટીમ 160થી વધુનો સ્કોર બનાવવામાં સફળ રહી.",
@@ -117,15 +162,6 @@ const newsData_gu = [
     "time": "2026-05-04T06:10:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સરકારે તરછોડ્યા તો જનતાએ આપ્યો સાથ! રેપ પીડિતાના માતા પાણીહાટી સીટ પર આગળ",
-    "desc": "આ વખતે બધાની નજર પશ્ચિમ બંગાળની વિધાનસભા ચૂંટણીના પરિણામો પર છે જે ખરેખર ચોંકાવી રહ્યા છે કારણ કે તૃણમૂલની સત્તાનું સિંહાસન ડગમગી રહ્યું છે. આ બધા વચ્ચે પાણીહાટી સીટ ચર્ચામાં છે કારણ કે અહીંથી રેપ પીડિતાના માતા રત્ના દેબનાથ ચૂંટણી લડ્યા છે. જાણો પ્રાથમિક તારણોમાં શું છે સ્થિતિ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/west-bengal-election-results-2026-r-g-kar-victim-mother-ratna-debnath-latest-update-476334 ",
-    "time": "2026-05-04T06:05:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "આ છે 5 સુપરહિટ સરકારી સ્કીમ! સુરક્ષિત રહેશે તમારા પૈસા, મળશે શાનદાર વ્યાજ",
     "desc": "ભારતીય બજારમાં સુરક્ષિત રોકાણ માટે અનેક યોજનાઓ ઉપલબ્ધ છે. ભારત સરકાર સમર્થિત પોસ્ટ ઓફિસ દ્વારા પણ અનેક યોજનાઓ ચલાવવામાં આવે છે, જેમાં શાનદાર વ્યાજ મળે છે. આજે અમે તમને રોકાણકારોની પાંચ બેસ્ટ સ્કીમ વિશે માહિતી આપીશું.",
@@ -142,24 +178,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-on-netflix-in-hindi-web-series-thriller-web-series-glory-is-trending-on-netflix-india-476328 ",
     "time": "2026-05-04T05:47:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બંગાળમાં જે સમુદાય પર BJPનું ખુબ હતું ફોકસ, ત્યાં ટ્રેન્ડમાં પછડાઈ રહ્યું છે ભાજપ",
-    "desc": "પશ્ચિમ બંગાળમાં હાલ તો ટ્રેન્ડમાં ભાજપને બહુમતી મળતી જોવા મળી રહી છે પરંતુ એક ચોંકાવનારા સમાચાર એ છે કે જે સમુદાય પર ભાજપે ખુબ ફોકસ કર્યું હતું ત્યાં ભાજપ હાલ પછડાતો જોવા મળી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/in-bengal-the-community-on-which-bjp-had-a-lot-of-focus-is-falling-behind-in-the-trend-476308 ",
-    "time": "2026-05-04T05:24:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આ રાજ્યમાં છે સૌથી લાંબી રેલ્વે ટનલ, પહાડો નીચે દોડશે ટ્રેન, 14.58 કિમી લાંબી ટનલ-8 એ બનાવ્યો રેકોર્ડ",
-    "desc": "ભારતના માળખાગત ક્ષેત્રે વધુ એક મહત્વપૂર્ણ સિદ્ધિ હાંસલ કરી છે. દેશની સૌથી લાંબી રેલ્વે ટનલ, \"ટનલ 8\" પૂર્ણ થઈ ગઈ છે. આશરે 14.58 કિલોમીટર લાંબી, આ ટનલને એન્જિનિયરિંગ શ્રેષ્ઠતાનું એક ભવ્ય ઉદાહરણ માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/this-state-has-the-longest-railway-tunnel-the-train-will-run-down-the-mountains-14-58-km-long-tunnel-8-has-set-a-record-476209 ",
-    "time": "2026-05-03T17:07:12.000Z"
   },
   {
     "cat": "World",
@@ -405,24 +423,6 @@ const newsData_gu = [
     "time": "2026-05-01T12:28:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ગેસ એજન્સી ખોલવાની શું છે પ્રક્રિયા, કેટલું જરૂરી છે બજેટ, આટલી થાય છે આવક, જાણો",
-    "desc": "LPG ગેસ એજન્સી એક સ્થિર અને નફાકારક વ્યવસાય છે, જેમાં 10 રૂપિયાથી 25 લાખ રૂપિયાના રોકાણની જરૂર પડે છે. દરેક સિલિન્ડર પર નિશ્ચિત કમિશન ચૂકવવામાં આવે છે. યોગ્ય આયોજન અને સલામતીની સાવચેતીઓ સાથે, વધતી માંગ નોંધપાત્ર નફો મેળવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-is-the-process-of-opening-a-gas-agency-how-much-budget-is-required-how-much-income-is-generated-know-475823 ",
-    "time": "2026-05-01T09:58:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "24K, 22K સોનાના ભાવમાં નોંધપાત્ર ઘટાડો, અમદાવાદ-સુરત-રાજકોટ-વડોદરામાં શું છે આજનો ભાવ? જાણો લેટેસ્ટ રેટ",
-    "desc": "આજે પહેલી મેના રોજ ગુજરાતનો સ્થાપના દિવસ છે અને શ્રમિક દિવસ પણ છે. આજના દિવસે બજારો બંધ છે પરંતુ ગૂડ રિટર્ન્સ વેબસાઈટના રેટ્સ મુજબ સોનાના ભાવમાં ઘટાડો જોવા મળ્યો છે જ્યારે ચાંદીના ભાવ ઉછળ્યા છે. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/price-down-of-24k-22k-gold-what-is-latest-price-in-ahmedabad-surat-rajkot-vadodara-475815 ",
-    "time": "2026-05-01T09:50:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "નેટફ્લિક્સ પર જોવા મળશે સૈફ અલી ખાનની ક્રાઈમ થ્રિલર ફિલ્મ કર્તવ્ય, 3 વર્ષના ઈંતેઝાર પછી મળી રિલીઝ ડેટ",
     "desc": "શાહરુખ ખાનના રેડ ચીલી બેનર હેઠળ બનેલી સૈફ અલી ખાન અને રસીકા દુગ્ગલની ફિલ્મ કર્તવ્ય મે મહિનામાં ઓટીટી પર રિલીઝ થશે. આ ફિલ્મ છેલ્લા 3 વર્ષથી અટકેલી હતી. અંતે હવે મે મહિનામાં ફિલ્મને ઓટીટી પર રિલીઝ કરી દેવામાં આવશે.",
@@ -457,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/best-selling-cng-cars-in-india-maruti-suzuki-tata-hyundai-475743 ",
     "time": "2026-05-01T05:04:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આરસીબી સામે GTની જીત બાદ પોઈન્ટ્સ ટેબલ &amp;#039;રમણભમણ&amp;#039;? ટોપ પર છે આ ટીમનો કબજો",
-    "desc": "આઈપીએલ 2026ની 42મી મેચમાં ગુજરાત ટાઇટન્સે રોયલ ચેલેન્જર્સ બેંગલુરુને 4 વિકેટે હરાવીને સિઝનની પોતાની પાંચમી જીત નોંધાવી છે. આ જીત છતાં ગુજરાતની ટીમ પોઈન્ટ્સ ટેબલમાં 5મા ક્રમે યથાવત છે. અહીં જાણો આ મેચ બાદ IPL 2026ના પોઈન્ટ્સ ટેબલમાં કેટલો ફેરફાર થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-how-much-did-the-points-table-change-after-the-rcb-vs-gt-match-this-team-holds-the-top-spot-475740 ",
-    "time": "2026-05-01T04:30:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,14 +628,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-film-bhoot-bangla-box-office-collection-latest-news-in-gujarati-474593 ",
     "time": "2026-04-24T06:55:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રામાયણના ભરત યાદ છે? એક ખેડૂતને રામાનંદ સાગરે બનાવી દીધો સ્ટાર, દર્દનાક મોતથી હચમચી ગયો હતો દેશ",
-    "desc": "રામાયણ સાગરની રામાયણ આજે પણ બધાને યાદ છે. એક સમય એવો હતો આ શોનું પ્રસારણ થાય તો લોકો ટીવીની સામે બધા કામકાજ છોડી ગોઠવાઈ જતાં હતા. આ શોમાં અભિનેતા સંજય જોગે ભરતનું પાત્ર ભજવ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/bharat-of-ramayana-died-due-to-liver-disease-sanjay-joge-left-the-world-at-the-age-of-40-474327 ",
-    "time": "2026-04-22T13:06:37.000Z"
   }
 ];

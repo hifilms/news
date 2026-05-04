@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Hardik Pandya not playing for MI vs LSG in IPL 2026 clash in Mumbai?",
+    "desc": "The 47th game of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians taking on Lucknow Super Giants. The two sides meet at the Wankhede Stadium in Mumbai on May 4. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-for-mi-vs-lsg-in-ipl-2026-clash-in-mumbai-2026-05-04-1039915",
+    "time": "2026-05-04T13:39:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Phil Salt returns home for scans after sustaining finger injury, Jacob Bethell to extend his run",
+    "desc": "In a major blow for defending IPL (Indian Premier League) champions, Royal Challengers Bengaluru, the side’s star batter Phil Salt has returned to the UK for scans on his finger injury. This would mean that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-returns-home-for-scans-after-sustaining-finger-injury-jacob-bethell-to-extend-his-run-2026-05-04-1039910",
+    "time": "2026-05-04T12:33:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer Cheteshwar Pujara outlines Jason Holder's impact in GT's recent success",
+    "desc": "Gujarat Titans have picked up form in the ongoing IPL (Indian Premier League) 2026. After a rocky start to the season, the Shubman Gill-led side is well in the race for the playoffs. With six...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-cheteshwar-pujara-outlines-jason-holder-s-impact-in-gt-s-recent-success-2026-05-04-1039900",
+    "time": "2026-05-04T11:16:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MS Dhoni continues rehab in Chennai, set to miss clash against Delhi Capitals",
     "desc": "Chennai Super Kings are all set to take on Delhi Capitals in the ongoing edition of the IPL (Indian Premier League) 2026 next. The two sides will meet in the 48th game of the tournament...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rahane-raghuvanshi-find-form-again-to-power-kkr-to-third-straight-win-as-srhs-streak-ends-2026-05-03-1039823",
     "time": "2026-05-03T14:59:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Shashank Singh playing for PBKS in IPL 2026 clash against GT at Narendra Modi Stadium?",
-    "desc": "Shashank Singh missed out again as the Punjab Kings face the Gujarat Titans in their reverse fixture of the Indian Premier League 2026 at the Narendra Modi Stadium in Ahmedabad. After a win over the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-shashank-singh-playing-for-pbks-in-ipl-2026-clash-against-gt-at-narendra-modi-stadium-2026-05-03-1039820",
-    "time": "2026-05-03T14:01:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Narine creates history, becomes first-ever player to pick 200 IPL wickets for single team",
-    "desc": "Kolkata Knight Riders star Sunil Narine etched his name into the history books as he completed 200 wickets in the Indian Premier League. The former West Indies all-rounder has become the first player in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-narine-creates-history-becomes-first-ever-player-to-pick-200-ipl-wickets-for-single-team-2026-05-03-1039811",
-    "time": "2026-05-03T12:10:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
-    "desc": "Game 46 of the ongoing IPL (Indian Premier League) 2026 sees Gujarat Titans taking on Punjab Kings. The two sides meet at the Narendra Modi Stadium in Ahmedabad on May 3, and both sides will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-pbks-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-05-03-1039804",
-    "time": "2026-05-03T11:14:20.000Z"
   }
 ];
