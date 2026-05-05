@@ -1,5 +1,266 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Amma's shoes just got bigger for EPS",
+    "desc": "AIADMK faces a significant electoral setback, its worst since 1996, with Edappadi K Palaniswami's leadership challenged. The party's traditional vote base has weakened, and internal divisions are exploited by rivals. The alliance with the BJP also proved problematic, raising concerns about subservience and corruption. Newer political forces are now vying for dominance in Tamil Nadu.",
+    "img": "https://static.toiimg.com/photo/msid-130814221,imgsize-665739.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-election-results-ammas-shoes-just-got-bigger-for-eps/articleshow/130814184.cms",
+    "time": "2026-05-05T02:11:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dravidian fort tough to breach for national parties",
+    "desc": "Tamil Nadu's regional identity and Dravidian legacy continue to challenge national parties. Congress struggles to regain its footing, seeing a significant drop in seats and vote share. The BJP, despite high-profile visits, failed to translate visibility into voter trust, with opponents citing resistance to Hindutva politics. Both parties face uphill battles in the state.",
+    "img": "https://static.toiimg.com/photo/msid-130814168,imgsize-48762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-results-dravidian-fort-tough-to-breach-for-national-parties/articleshow/130814125.cms",
+    "time": "2026-05-05T02:07:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude touches $113 per barrel after UAE oil storage facility hit",
+    "desc": "Oil prices surged Tuesday as Iranian-linked attacks and military clashes heightened fears of disruption in the Strait of Hormuz. Brent crude rose 6% to $114.44 a barrel, while WTI settled 4% higher at $106.42. The Fujairah Oil Industry Zone was struck by a drone, with Emirati officials blaming Iran.",
+    "img": "https://static.toiimg.com/photo/msid-130814167,imgsize-51806.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-touches-113-per-barrel-after-uae-oil-storage-facility-hit/articleshow/130814155.cms",
+    "time": "2026-05-05T02:07:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Time for Sanju Samson to silence doubters",
+    "desc": "Sanju Samson returns to the Arun Jaitley Stadium, a venue where his international career once teetered. Now a CSK superstar, his high stock is a testament to his T20 World Cup turnaround. He faces a crucial test against Delhi Capitals, needing to replicate his form to secure a spot in India's 2027 ODI World Cup plans.",
+    "img": "https://static.toiimg.com/photo/msid-130814124,imgsize-41184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-time-for-sanju-samson-to-silence-doubters/articleshow/130814132.cms",
+    "time": "2026-05-05T02:03:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Amanda Seyfried prepped for the Met Gala 2026",
+    "desc": "In a delightful twist for the Met Gala 2026, Amanda Seyfried drew inspiration from her serene farm life, opting for a striking pink gown that resonated with the 'Costume Art' theme. She shared that her moments spent with Gus the donkey and her lovable farm crew provided the tranquility she needed before stepping into the dazzling world of high fashion.",
+    "img": "https://static.toiimg.com/photo/msid-130814017,imgsize-74280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/met-gala-2026-amanda-seyfried-says-farm-life-helped-balance-the-prep-for-the-fashion-event-of-the-year/articleshow/130813985.cms",
+    "time": "2026-05-05T01:49:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Thalapathy’ Vijay: A commander leads the charge",
+    "desc": "C. Joseph Vijay, once known as ‘Illaya Thalapathy’ or young commander among his fans, transitioned a decade ago to Thalapathy (commander), a moniker prescient enough, for he has led his people through one of the most historic debut political appearances in the history of elections in India",
+    "img": "https://th-i.thgim.com/public/incoming/2j4uzk/article70940406.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000568A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-commander-leads-the-charge/article70940176.ece",
+    "time": "2026-05-05T01:49:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lisa stuns Met Gala with 3D printed arms",
+    "desc": "At the 2026 Met Gala, BLACKPINK's Lisa stole the spotlight in an exquisite ensemble by Robert Wun. Her radiant gown, shimmering with thousands of Swarovski crystals, was complemented by an avant-garde headpiece showcasing elaborate 3D-printed arms, honoring her Thai roots. This event was particularly momentous for Lisa as she embraced her new role on the elite hosting committee.",
+    "img": "https://static.toiimg.com/photo/msid-130813976,imgsize-38406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/met-gala-2026-blackpink-lisa-stuns-with-a-white-tented-dress-and-3d-arms-embodying-fashion-is-art/articleshow/130813952.cms",
+    "time": "2026-05-05T01:44:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Blake attends Met Gala after settling Baldoni lawsuit",
+    "desc": "Blake Lively graced the Met Gala solo, shortly after settling a multi-million dollar lawsuit with 'It Ends With Us' director Justin Baldoni. The actress stunned in a vintage Versace gown. Their joint statement emphasized a shared commitment to supporting domestic violence survivors and fostering respectful environments, bringing closure to their legal dispute.",
+    "img": "https://static.toiimg.com/photo/msid-130813747,imgsize-315250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-makes-met-gala-appearance-sans-husband-ryan-reynolds-hours-after-settling-it-ends-with-us-lawsuit-with-justin-baldoni-pics/articleshow/130813631.cms",
+    "time": "2026-05-05T01:35:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From a blank, Congress &amp; Left make assembly return",
+    "desc": "After a five-year hiatus, CPM and Congress are set to re-enter the assembly, securing seats in Murshidabad. CPM won Domkal, while Congress clinched Farakka and Raninagar. This marks a significant shift, with Trinamool's dominance in the district considerably reduced. Despite individual losses, Congress sees this as a hopeful start.",
+    "img": "https://static.toiimg.com/photo/msid-130813890,imgsize-1284610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-poll-results-from-a-blank-congress-left-make-assembly-return/articleshow/130813859.cms",
+    "time": "2026-05-05T01:32:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Jai Shree Ram … ': A note, a prayer, and Raghu Sharma's 15-year wait",
+    "desc": "Mumbai Indians' Raghu Sharma celebrated his maiden IPL wicket with an emotional message, marking the end of a grueling 15-year journey. The leg-spinner, who overcame injuries and career setbacks, dedicated his breakthrough moment to his faith and the franchise that gave him a second chance. This personal triumph overshadowed even a vintage Rohit Sharma performance.",
+    "img": "https://static.toiimg.com/photo/msid-130813866,imgsize-74356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jai-shree-ram-a-note-a-prayer-and-raghu-sharmas-15-year-wait/articleshow/130813810.cms",
+    "time": "2026-05-05T01:28:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bhabanipur hands Mamata her most personal loss",
+    "desc": "Mamata Banerjee suffered a significant personal defeat in Bhabanipur, losing her long-held bastion to BJP's Suvendu Adhikari by over 15,000 votes. This marks her second consecutive loss to Adhikari. Despite an early lead, Banerjee was ultimately overcome. She alleged the election was rigged and looted by the BJP, vowing to return.",
+    "img": "https://static.toiimg.com/photo/msid-130813834,imgsize-909464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-bhabanipur-hands-mamata-her-most-personal-loss/articleshow/130813811.cms",
+    "time": "2026-05-05T01:25:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay's film crosses Rs 227 cr globally",
+    "desc": "In a remarkable feat, Akshay Kumar's blend of fright and fun in 'Bhooth Bangla' has captured the hearts of moviegoers, amassing close to ₹230 crore globally as it enters its third week. Even with the competition from new releases, the film remains a favorite, showcasing its charm with audiences domestically and internationally. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130813807,imgsize-235090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-18-akshay-kumars-film-crosses-rs-227-crore-globally-amid-raja-shivaji-fever/articleshow/130813773.cms",
+    "time": "2026-05-05T01:22:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dacoit' OTT release CONFIRMED: When and where to stream",
+    "desc": "A Love Story,' starring Adivi Sesh and Mrunal Thakur, is set for its digital premiere on Amazon Prime Video on May 8. The action-romantic drama, featuring Anurag Kashyap's Telugu debut, follows a wrongly accused man seeking revenge. Despite mixed reviews, the film's intense plot and surprising twists are generating buzz.",
+    "img": "https://static.toiimg.com/photo/msid-130813799,imgsize-87928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dacoit-ott-release-confirmed-when-and-where-to-stream-mrunal-thakur-adivi-sesh-and-anurag-kashyaps-film/articleshow/130813786.cms",
+    "time": "2026-05-05T01:20:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nicole Kidman talks about daughter Sunday Rose",
+    "desc": "Nicole Kidman graced the Met Gala 2026 with daughter Sunday Rose, who made her debut in a stunning floral gown. Despite the glamorous event, Kidman humorously revealed that 17-year-old Sunday Rose had an 8 AM school the following day, keeping her grounded. Sunday Rose explained her outfit symbolized blooming for her first Met Gala appearance.",
+    "img": "https://static.toiimg.com/photo/msid-130813748,imgsize-124976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-met-gala-2026-nicole-kidman-says-daughter-sunday-rose-has-to-go-to-school-tomorrow-after-fashion-debut/articleshow/130813690.cms",
+    "time": "2026-05-05T01:13:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit-Rickelton script Mumbai's highest IPL chase",
+    "desc": "Rohit Sharma's explosive 84 and Ryan Rickelton's 83 powered Mumbai Indians to a thrilling six-wicket victory over Lucknow Super Giants. The openers' massive partnership set up a successful chase of 229, marking the highest target successfully chased by MI at Wankhede. Nicholas Pooran's rapid 63 had earlier propelled LSG.",
+    "img": "https://static.toiimg.com/photo/msid-130809797,imgsize-53014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mi-win-battle-of-bursts-vs-base-rohit-sharma-ryan-rickelton-script-mumbais-highest-ipl-chase/articleshow/130809332.cms",
+    "time": "2026-05-05T01:06:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lena Dunham, Nicole Kidman twin in red sequins for Met Gala",
+    "desc": "Met Gala 2026 saw an unexpected fashion moment as Lena Dunham and Nicole Kidman arrived in strikingly similar red sequined gowns adorned with feathers. Kidman, a co-chair, embraced red for its symbolism of passion and power, while Dunham made a bold comeback with a thigh-high slit. Both stars, despite wearing different designers, captivated onlookers with their coordinated, glamorous looks.",
+    "img": "https://static.toiimg.com/photo/msid-130813681,imgsize-136746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-met-gala-2026-lena-dunham-and-nicole-kidman-accidentally-twin-for-the-night-in-red-sequin-looks/articleshow/130813638.cms",
+    "time": "2026-05-05T01:03:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'KD – The Devil' BO day 5: Film mints Rs 16.27 cr worldwide",
+    "desc": "Dhruva Sarja's action drama 'KD - The Devil' is holding steady at the box office, grossing Rs 16.27 crore worldwide after five days, entirely from domestic markets. The film saw weekend growth, with Monday collections reaching Rs 2.57 crore net. Set in 1970s Bengaluru, it features a star-studded cast including Sanjay Dutt and Shilpa Shetty.",
+    "img": "https://static.toiimg.com/photo/msid-130813665,imgsize-164278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kd-the-devil-box-office-collections-day-5-dhruva-sarjas-actioner-has-steady-growth-mints-rs-16-27-cr-worldwide/articleshow/130813649.cms",
+    "time": "2026-05-05T01:01:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A low five for Trinamool as Kolkata fortress falls",
+    "desc": "Trinamool Congress faced a significant setback in Kolkata, losing its stronghold and several key seats to the BJP. High-profile defeats included senior ministers and the deputy mayor, marking a stark contrast to previous elections. While some victories offered solace, the overall results signal a major shift in the city's political landscape.",
+    "img": "https://static.toiimg.com/photo/msid-130813626,imgsize-1443022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-assembly-election-results-a-low-five-for-trinamool-as-kolkata-fortress-falls/articleshow/130813618.cms",
+    "time": "2026-05-05T00:54:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tennis-ball grind behind 'Bumrah no-look six'",
+    "desc": "Salil Arora’s fearless no-look six off Bumrah was no fluke but the result of relentless preparation. From facing 600–700 tennis-ball deliveries daily to simulating high pace in training, his power-hitting was built with precision. Backed by strong domestic performances and belief from teammates, the youngster’s calculated approach and fearless mindset are now translating into impactful moments on the IPL stage.",
+    "img": "https://static.toiimg.com/photo/msid-130813604,imgsize-52372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/making-of-salil-arora-tennis-ball-grind-behind-bumrah-no-look-six-and-power-hitting-blueprint/articleshow/130813601.cms",
+    "time": "2026-05-05T00:49:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lieutenant to conqueror",
+    "desc": "Suvendu Adhikari, a former Mamata Banerjee aide, emerged as a key figure in BJP's West Bengal victory, defeating the CM in Nandigram. His political journey, from Congress to TMC and then to BJP, highlights his strategic shifts. Adhikari's aggressive campaign, focusing on corruption and Hindutva, resonated with voters, positioning him as a significant leader in the saffron party's state unit.",
+    "img": "https://static.toiimg.com/photo/msid-130813605,imgsize-1188106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-lieutenant-to-conqueror-the-rise-and-rise-of-suvendu/articleshow/130813594.cms",
+    "time": "2026-05-05T00:48:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK made Vijay dance; Trisha cheers",
+    "desc": "Following his recent electoral triumphs, a throwback video of Shah Rukh Khan encouraging Tamil star Vijay to dance at a 2013 awards ceremony has resurfaced. Trisha Krishnan's enthusiastic presence from the front row adds to the charm of the clip, which is now delighting fans online and sparking discussions about potential collaborations.",
+    "img": "https://static.toiimg.com/photo/msid-130813591,imgsize-64850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/when-shah-rukh-khan-made-thalapathy-vijay-dance-trisha-krishnan-cheers-loudly-video/articleshow/130813564.cms",
+    "time": "2026-05-05T00:45:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raja Shivaji (Marathi) Day 4: Film inches towards Rs 50 cr",
+    "desc": "The historical spectacle 'Raja Shivaji,' starring Riteish Deshmukh, has taken the box office by storm, raking in over Rs 33 crore during its opening weekend. While there was a minor decline on Monday, the Marathi version has still amassed an impressive Rs 27.15 crore, pushing its overall earnings to Rs 39.50 crore. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130813560,imgsize-103408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/raja-shivaji-box-office-collection-day-4-marathi-riteish-deshmukh-starrer-grosses-over-rs-45-crore-inches-towards-rs-50-crore/articleshow/130813551.cms",
+    "time": "2026-05-05T00:39:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan Johar crowned KING of Met Gala 2026",
+    "desc": "Filmmaker Karan Johar made a stunning Met Gala debut in a custom Manish Malhotra creation, 'Framed in Eternity.' Inspired by Raja Ravi Varma's paintings, the outfit featured a hand-painted cape and vintage jacket, embodying Indian heritage. Johar's personal connection to Varma's art resonated deeply, with netizens hailing him as a standout at the 'Fashion is Art' themed event.",
+    "img": "https://static.toiimg.com/photo/msid-130813472,imgsize-192078.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-crowned-king-of-met-gala-2026-netizen-hail-stunning-debut-in-manish-malhotra-creation-as-best-dressed/articleshow/130813441.cms",
+    "time": "2026-05-05T00:39:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kara' BO day 6: Dhanush film has strong overseas push",
+    "desc": "Dhanush's period drama 'Kara' is enjoying a strong box office run, raking in Rs 38.70 crore worldwide in just six days. The film, set against the backdrop of the 1991 Gulf War fuel crisis, has performed exceptionally well in India and international markets. Despite a slight weekday dip, its overall trend remains positive, hinting at continued audience interest.",
+    "img": "https://static.toiimg.com/photo/msid-130813492,imgsize-116516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-box-office-collections-day-6-dhanush-and-mamitha-baijus-film-has-strong-overseas-push-touches-rs-38-70-crores/articleshow/130813485.cms",
+    "time": "2026-05-05T00:21:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can MI still make it?",
+    "desc": "Mumbai Indians kept their slim playoff hopes alive with a thrilling six-wicket victory over Lucknow Super Giants, powered by Rohit Sharma and Ryan Rickelton's explosive opening stand. Despite the win, MI remains in ninth place, needing a perfect four wins from their remaining matches to have any chance of qualifying. Every match from here is effectively an elimination game. Net Run Rate could come into play, but only if they win all four.",
+    "img": "https://static.toiimg.com/photo/msid-130813462,imgsize-273828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mumbai-indians-ipl-2026-playoff-qualification-scenarios-can-mi-still-qualify/articleshow/130813462.cms",
+    "time": "2026-05-05T00:19:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Patriot' BO day 5: Film has steady hold amid mixed reviews",
+    "desc": "Mammootty's action thriller 'Patriot' has crossed Rs 68.92 crore worldwide in five days, driven by strong overseas collections. Despite mixed audience reactions, the film maintains a steady trend in India, earning Rs 24.54 crore net. Mammootty acknowledged the varied opinions, emphasizing the film's relevant theme of lost privacy.",
+    "img": "https://static.toiimg.com/photo/msid-130813434,imgsize-117574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-box-office-collections-day-5-mammoottys-film-has-steady-hold-despite-mixed-reviews-rs-68-92-cr-worldwide/articleshow/130813426.cms",
+    "time": "2026-05-05T00:06:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nasrapur rape and murder",
+    "desc": "Sanjay Puranik, Chairperson of the Maharashtra State Commission for Protection of Child Rights, said that the Commission would recommend for maximum punishment for the accused; he also said a special public prosecutor should be appointed and the case heard in a fast-track court",
+    "img": "https://th-i.thgim.com/public/incoming/da1aci/article70940573.ece/alternates/LANDSCAPE_1200/20260502499L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/nasrapur-rape-and-murder-child-rights-body-seeks-special-prosecutor-fast-tracking-of-the-case/article70939557.ece",
+    "time": "2026-05-04T23:16:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Unlike Nayak, Anil doesn't want to be CM for a day in real life",
+    "desc": "The Real Hero, has made it clear that he has no political ambitions in real life. He emphasised his respect for those in governance. He reiterated that the thought of entering politics has never crossed his mind.",
+    "img": "https://static.toiimg.com/photo/msid-130813111,imgsize-50258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/unlike-nayak-anil-kapoor-says-he-does-not-want-to-be-chief-minister-for-a-day-in-real-life-as-a-citizen-ill-do-whatever-i-can/articleshow/130813099.cms",
+    "time": "2026-05-04T22:25:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mukesh recalls fallout with Hera Pheri producer; praises Akshay",
+    "desc": "Mukesh Khanna has opened up about missing out on Hera Pheri 2, revealing he was never approached for the sequel despite being part of the cult original. The veteran actor said, “No, I wasn’t approached. And I don’t regret it. If I’m asked, I’ll do it... everyone else was repeated, but I wasn’t.” While he praised Akshay Kumar's dedication, he admitted that he has publicly criticised some of Akshay’s choices in the past, including Laxmii.",
+    "img": "https://static.toiimg.com/photo/msid-130811531,imgsize-46222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-recalls-fallout-with-hera-pheri-2-producer-praises-akshay-kumars-dedication-but-says-maybe-hes-upset-with-me/articleshow/130811382.cms",
+    "time": "2026-05-04T21:36:11.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Blake Lively and Justin Baldoni SETTLE 'It Ends With Us' lawsuit",
     "desc": "Blake Lively and Justin Baldoni have settled their legal dispute over the production of \"It Ends With Us.\" The case, which involved Lively's claims of sexual harassment and a subsequent smear campaign by Baldoni, was resolved before trial. Both parties expressed hope for closure and a constructive path forward, emphasizing their shared commitment to supporting domestic violence survivors.",
@@ -7,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-and-justin-baldoni-settle-it-ends-with-us-lawsuit-before-trial-making-a-meaningful-impact-in-the-lives-of-domestic-violence-survivors-is-a-goal-that-we-stand-behind/articleshow/130811292.cms",
     "time": "2026-05-04T21:04:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Blockbuster debut! Vijay Tamil Nadu's Gen-nayagan",
-    "desc": "Tamil Nadu's political landscape is witnessing the rise of a new superstar in actor Vijay, mirroring MGR's trajectory. Despite a contrasting on-screen persona, Vijay's unconventional campaign, leveraging social media and a direct voter appeal, has positioned him as a formidable force. He has emerged from the shadows of established parties, capturing public imagination and potentially reshaping the state's political future.",
-    "img": "https://static.toiimg.com/photo/msid-130811262,imgsize-1119238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assembly-election-results-blockbuster-debut-vijay-tamil-nadus-gen-nayagan/articleshow/130811231.cms",
-    "time": "2026-05-04T20:45:38.000Z"
   },
   {
     "cat": "Sports",
@@ -63,15 +315,6 @@ const newsData_en = [
     "time": "2026-05-04T20:19:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala throws Congress a lifebuoy, but boat still in choppy waters",
-    "desc": "Congress secured a crucial win in Kerala, offering a much-needed morale boost after recent electoral setbacks. Despite this solitary victory, the party faces significant challenges, including a decline in its traditional strongholds and an inability to counter BJP's religious polarization. The path to regaining national relevance hinges on confronting BJP in its core territories.",
-    "img": "https://static.toiimg.com/photo/msid-130810978,imgsize-1547152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assembly-election-results-kerala-throws-congress-a-lifebuoy-but-boat-still-in-choppy-waters/articleshow/130810943.cms",
-    "time": "2026-05-04T20:14:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Marcelino leaving as Villarreal coach after reaching Champions League",
     "desc": "Marcelino’s second spell as coach at Villarreal began in 2023 and has now seen the team deliver one of its best-ever seasons, placing third in La Liga with four games remaining, on track for its best result in 18 years",
@@ -82,21 +325,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "A commander leads the charge",
-    "desc": "C. Joseph Vijay, once known as ‘Illaya Thalapathy’ or young commander among his fans, transitioned a decade ago to Thalapathy (commander), a moniker prescient enough, for he has led his people through one of the most historic debut political appearances in the history of elections in India",
-    "img": "https://th-i.thgim.com/public/incoming/2j4uzk/article70940406.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000568A.jpg",
+    "title": "A new gen campaign and faith of youngsters that paid off for TVK",
+    "desc": "TVK’s campaign was conducted almost fully on social media, spearheaded by young people, who though form only one-fifth of the electorate, says Author R. Kannan; it was almost as if Mr. Vijay got a free pass as other parties were dismissive of him",
+    "img": "https://th-i.thgim.com/public/incoming/glv56r/article70940401.ece/alternates/LANDSCAPE_1200/9217_4_5_2026_14_3_36_2_DSC_8765.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-commander-leads-the-charge/article70940176.ece",
-    "time": "2026-05-04T19:51:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "INDIA footprint fades on Bharat map as allies stumble in West Bengal, Tamil Nadu",
-    "desc": "Recent election results have significantly weakened the INDIA bloc, with key allies DMK and TMC facing defeats. This outcome forces the opposition to reconsider its strategy against the BJP's expanding influence. The alliance must now prioritize unity and joint planning, especially in crucial states like Uttar Pradesh and Maharashtra, to counter the BJP's narrative and prepare for future electoral battles.",
-    "img": "https://static.toiimg.com/photo/msid-130810818,imgsize-984111.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assembly-elections-result-2026-india-footprint-fades-on-bharat-map-as-allies-stumble-in-west-bengal-tamil-nadu/articleshow/130810681.cms",
-    "time": "2026-05-04T19:44:29.000Z"
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-new-gen-campaign-and-faith-of-youngsters-that-paid-off-for-tvk/article70939749.ece",
+    "time": "2026-05-04T19:45:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -115,33 +349,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-split-in-muslim-votespaves-doom-for-trinamool-congress/article70939839.ece",
     "time": "2026-05-04T19:29:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "3 cheers in Assam, and more: BJP gets majority on its own for the first time",
-    "desc": "In a groundbreaking achievement, the NDA celebrated its third straight victory in Assam, with the BJP obtaining an unprecedented standalone majority. The stunning win, fueled by record voter turnout and new delimitation changes, saw the alliance claim 102 seats.",
-    "img": "https://static.toiimg.com/photo/msid-130811572,imgsize-965009.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/historic-nda-victory-in-assam-bjp-surges-to-majority-with-record-voter-turnout/articleshow/130811581.cms",
-    "time": "2026-05-04T18:57:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three Indians injured after drone strike sparks fire at Fujairah oil zone in UAE",
-    "desc": "A drone strike from Iran injured three Indian nationals in Fujairah, UAE, igniting a fire at the petroleum industries zone. UAE defense confirmed four missiles were launched, with three intercepted. The Indian Embassy is ensuring medical care for the injured. This incident escalates regional tensions concerning energy infrastructure security.",
-    "img": "https://static.toiimg.com/photo/msid-130810160,imgsize-516578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-three-indians-injured-after-drone-strike-sparks-fire-at-fujairah-oil-zone-in-uae/articleshow/130808992.cms",
-    "time": "2026-05-04T18:47:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit-Rickelton script Mumbai's highest IPL chase",
-    "desc": "The two openers added 143 runs for the first wicket, their third century stand in the IPL, and set up the chase. Mumbai Indians chased down 229 after LSG had scored 228 for five, finishing at 229 for four in 18.4 overs.",
-    "img": "https://static.toiimg.com/photo/msid-130809797,imgsize-53014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mi-win-battle-of-bursts-vs-base-rohit-sharma-ryan-rickelton-script-mumbais-highest-ipl-chase/articleshow/130809332.cms",
-    "time": "2026-05-04T18:34:02.000Z"
   },
   {
     "cat": "Sports",
@@ -208,57 +415,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Nicole Kidman",
-    "desc": "Renowned actress Nicole Kidman offers an inspiring take on resilience, stating, 'Life has got all those twists and turns. You've got to hold on tight and off you go.' This quote encapsulates her incredible journey from anonymity to worldwide acclaim, serving as a beacon of hope for those facing their own struggles.",
-    "img": "https://static.toiimg.com/photo/msid-130804269,imgsize-56630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-nicole-kidman-life-has-got-all-those-twists-and-turns-youve-got-to-hold-on-tight-and-off-you-go/articleshow/130804164.cms",
-    "time": "2026-05-04T17:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Rajinikanth, Kamal Haasan, Suriya, Vikram, and others wish Vijay",
     "desc": "Tamil star Vijay and his political party, Tamilaga Vettri Kazhagam (TVK), are celebrating a historic lead in the Tamil Nadu Assembly elections, sparking a wave of congratulatory messages from prominent figures in the film industry, including actors Rajinikanth, Kamal Haasan, Suriya, Vikram, and Sivakarthikeyan",
     "img": "https://th-i.thgim.com/public/entertainment/movies/l3nqz9/article70940230.ece/alternates/LANDSCAPE_1200/Vijay%20Rajinikanth%20Kamal%20Haasan.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/tn-elections-2026-vijay-tvk-leads-tamilaga-vettri-kazhagam/article70938060.ece",
     "time": "2026-05-04T17:26:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Major political shift in Chennai as TVK wins 14 seats",
-    "desc": "Chennai has delivered a clear and decisive verdict. Out of 16 Assembly constituencies in the city, actor Vijay’s Tamilaga Vettri Kazhagam has won 14 seats, leaving the DMK with just two. The only seats retained by the DMK are Harbour and Chepauk–Thiruvallikeni.",
-    "img": "https://th-i.thgim.com/public/incoming/s236yw/article70940251.ece/alternates/LANDSCAPE_1200/TVK%20chennai.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-major-political-shift-in-chennai-as-tvk-wins-14-seats/article70940252.ece",
-    "time": "2026-05-04T17:25:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "From attempting suicide at 13, Johny's net worth now exceeds Rs 270 crore",
-    "desc": "Renowned comedian Johny Lever, known for his humor, endured significant childhood trauma in Dharavi. He witnessed his first murder at seven and attempted suicide at thirteen due to family hardships and his father's struggles. Music later became his solace, helping him overcome these dark times.",
-    "img": "https://static.toiimg.com/photo/msid-130808063,imgsize-32716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-attempting-suicide-at-13-to-being-called-the-king-of-comedy-johny-levers-net-worth-now-exceeds-rs-270-crore/articleshow/130807772.cms",
-    "time": "2026-05-04T17:24:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress, PMK, and VCK fail to deliver",
-    "desc": "With the Congress likely to win five seats, all heads turn towards the party’s high command who might need to decide whether to extend support to the TVK, along with other parties, to form the State Government.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-pmk-and-vck-fail-to-deliver/article70939948.ece",
-    "time": "2026-05-04T17:10:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMK’s fortress of Chennai breached like never before",
-    "desc": "The DMK’s downfall in Chennai is drastic compared to the previous election in 2021, in which the alliance it led not only won all the 16 constituencies in the district, but also secured over 50% of vote share in 11 of them",
-    "img": "https://th-i.thgim.com/public/incoming/ec5cv9/article70938646.ece/alternates/LANDSCAPE_1200/4871_4_5_2026_17_5_43_1_DSC_7483.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/data/tamil-nadu-assembly-election-results-2026-tvk-dmk-aiadmk-vijay-stalin-chennai/article70938658.ece",
-    "time": "2026-05-04T17:07:00.000Z"
   },
   {
     "cat": "Sports",
@@ -270,24 +432,6 @@ const newsData_en = [
     "time": "2026-05-04T16:59:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Archana cheers as son Aayushmaan's girlfriend moves in with him",
-    "desc": "Archana Puran Singh and Parmeet Sethi's younger son, Aayushmaan, has brought his girlfriend Samiksha home, marking a new family chapter. A sweet gesture saw Aayushmaan carrying Samiksha inside, reminiscent of his father's past. The vlog also revealed Aayushmaan's renovated room, dedicated to Samiksha, and discussed renovation plans for Aaryamann and Yogita's home.",
-    "img": "https://static.toiimg.com/photo/msid-130807319,imgsize-45018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singh-cheers-on-as-son-aayushmaan-sethis-girlfriend-has-now-moved-in-with-the-family-he-carries-her-in-his-arms/articleshow/130807262.cms",
-    "time": "2026-05-04T16:58:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Vijay hailed Trisha as ‘Kundavai’, what she ‘hates’ about him",
-    "desc": "Trisha Krishnan visited Vijay’s residence in Chennai on Monday, at a time when his party, Tamilaga Vettri Kazhagam (TVK), is leading in trends for the Tamil Nadu Assembly Election 2026. Trisha’s visit has sparked nostalgia around her long-standing association with Vijay. The duo reunited on screen in Leo after a gap of 15 years, reminding fans of their iconic pairing.",
-    "img": "https://static.toiimg.com/photo/msid-130806874,imgsize-38760.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/when-thalapathy-vijay-hailed-trisha-krishnan-as-our-princess-kundavai-she-revealed-the-one-thing-she-hates-about-him/articleshow/130806742.cms",
-    "time": "2026-05-04T16:43:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Will Lungi Ngidi play in DC vs CSK IPL match? Coach provides big update",
     "desc": "Ngidi had to be taken off the field on a stretcher and was hospitalised after the incident. It happened in the third over of Punjab Kings’ innings, bowled by Axar Patel, when Ngidi tried to take a catch off a shot by Priyansh Arya.",
@@ -295,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/will-lungi-ngidi-play-in-dc-vs-csk-ipl-2026-match-coach-provides-big-update/articleshow/130806722.cms",
     "time": "2026-05-04T16:38:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tobey Maguire's net worth",
-    "desc": "Tobey Maguire, celebrated for his iconic Spider-Man portrayal, boasts an impressive net worth of USD 75 million. His lucrative 'Spider-Man' trilogy alone netted him over USD 150 million, with significant earnings from sequels and box office shares. Maguire's career, spanning decades, includes acclaimed roles in films like 'Seabiscuit' and numerous television appearances, solidifying his status in Hollywood.",
-    "img": "https://static.toiimg.com/photo/msid-130804850,imgsize-114010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tobey-maguires-overall-net-worth-heres-how-much-the-og-spider-man-star-is-worth/articleshow/130804782.cms",
-    "time": "2026-05-04T16:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepika to skip Met Gala this year; prioritises King and Raaka",
-    "desc": "Deepika Padukone will not be attending the Met Gala this year, as per the latest reports. While speculation was rife about her possible appearance at fashion’s biggest night, a source has now clarified that her current focus remains firmly on her film commitments.",
-    "img": "https://static.toiimg.com/photo/msid-130805960,imgsize-20504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-to-skip-met-gala-this-year-prioritises-shah-rukh-khans-king-and-allu-arjuns-raaka-amid-busy-schedule/articleshow/130805915.cms",
-    "time": "2026-05-04T16:04:08.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +450,6 @@ const newsData_en = [
     "time": "2026-05-04T15:48:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Imran Khan on co-parenting daughter Imara with ex-wife Avantika",
-    "desc": "During his conversation with Parineeti Chopra, Imran Khan shared a deeply personal take on parenting, stressing that he has never looked at it as a responsibility imposed on him. He also highlighted that irrespective of how family structures evolve, a child’s emotional security must remain the top priority.",
-    "img": "https://static.toiimg.com/photo/msid-130805214,imgsize-59322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-opens-up-about-co-parenting-daughter-imara-with-ex-wife-avantika-malik-i-did-not-view-it-as-my-duty-its-my-privilege/articleshow/130805058.cms",
-    "time": "2026-05-04T15:24:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pooran surpasses Sooryavanshi in explosive batting record",
     "desc": "Nicholas Pooran smashed a 16-ball fifty against Mumbai Indians at the Wankhede Stadium, overtaking Vaibhav Sooryavanshi with five IPL fifties in under 20 balls — second only to Abhishek Sharma’s six. Batting at No. 3 for Lucknow Super Giants, Pooran blasted 63 off 21 balls, underlining his growing dominance as one of IPL 2026’s most destructive batters.",
@@ -342,58 +459,13 @@ const newsData_en = [
     "time": "2026-05-04T15:07:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Molly Ringwald recalls school days while filming ‘Pretty in Pink’",
-    "desc": "taking her high school algebra finals amidst filming. She also recalled celebrating her best friend Matt's 18th birthday on set, revealing he inspired the character Duckie. Their enduring friendship, spanning since sixth grade, continues to this day.",
-    "img": "https://static.toiimg.com/photo/msid-130803706,imgsize-41014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-breakfast-club-star-molly-ringwald-recalls-most-memorable-moment-from-pretty-in-pink-set-i-had-to-do-my-finals-on-set/articleshow/130803509.cms",
-    "time": "2026-05-04T14:20:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cameron Diaz and Benji Madden announce birth of third child",
-    "desc": "In a heartwarming update, Hollywood duo Cameron Diaz and Benji Madden have embraced parenthood once again with the birth of their son, Nautas. Announcing the joyful news on social media, they revealed the name Nautas Madden, which translates to 'sailor' or 'navigator'. The little one joins siblings Raddix and Cardinal, adding to the family's delightful chaos.",
-    "img": "https://static.toiimg.com/photo/msid-130803510,imgsize-184470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cameron-diaz-and-benji-madden-welcome-third-child-welcome-to-the-world-son/articleshow/130803356.cms",
-    "time": "2026-05-04T14:13:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vicky Kaushal to play fourth idiot in '3 Idiots' sequel",
-    "desc": "Vicky Kaushal is in advanced discussions to join the highly anticipated '3 Idiots' sequel, titled '4 Idiots', as the fourth lead alongside Aamir Khan, R. Madhavan, and Sharman Joshi. Directed by Rajkumar Hirani, the film is currently in the writing stage and is expected to go on floors in the second half of 2027. Multiple meetings have already taken place and Kaushal has reportedly given his verbal nod to the project.",
-    "img": "https://static.toiimg.com/photo/msid-130803376,imgsize-198118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-front-runner-to-play-the-fourth-idiot-in-3-idiots-sequel-alongside-aamir-khan-r-madhavan-and-sharman-joshi-reports/articleshow/130803207.cms",
-    "time": "2026-05-04T14:09:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Faltu mein they add kissing scenes,' says Nauheed about doing less acting work",
-    "desc": "Nauheed Cyrusi explained her reduced film and TV presence, citing discomfort with mandatory kissing scenes and withheld payments as reasons for being selective. She also noted that avoiding industry networking may have limited her role opportunities, preferring to focus on her life outside of acting.",
-    "img": "https://static.toiimg.com/photo/msid-130802928,imgsize-30300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/faltu-mein-they-add-kissing-scenes-says-nauheed-cyrusi-about-doing-less-acting-work-producer-holds-25-percent-of-payment/articleshow/130802866.cms",
-    "time": "2026-05-04T13:52:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farah Khan on how grandfather Aman Gul Pathan once owned the entire Khar-Danda property",
-    "desc": "Filmmaker and choreographer Farah Khan has revealed a little-known chapter of her family’s history involving her grandfather Aman Gul Pathan once owned vast tracts of land in Mumbai’s Khar-Danda area, which he donated entirely to a mosque before his death. The land was later encroached upon, leaving the family with nothing. The revelation came during a heartfelt conversation with composer Ismail Darbar, as Farah opened up about her journey from financial ruin to Bollywood success.",
-    "img": "https://static.toiimg.com/photo/msid-130802010,imgsize-336420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-reveals-her-grandfather-aman-gul-pathan-once-owned-the-entire-khar-danda-property-we-became-paupers/articleshow/130801886.cms",
-    "time": "2026-05-04T13:29:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Big B got upset with Abhishek Banerjee as he touched his feet",
-    "desc": "Actor Abhishek Banerjee, known for his roles in \"Stree\" and his casting work, shared his starstruck encounters with Amitabh Bachchan and Shah Rukh Khan. Banerjee was deeply impressed by Bachchan's professionalism and desire to be treated as an equal co-actor, and found Shah Rukh Khan to be incredibly cool, witty, and energetic.",
-    "img": "https://static.toiimg.com/photo/msid-130801421,imgsize-77050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-got-upset-when-abhishek-banerjee-touched-his-feet-i-was-in-awe-but-he-wants-to-see-everyone-as-an-equal/articleshow/130801300.cms",
-    "time": "2026-05-04T13:16:39.000Z"
+    "cat": "Business",
+    "title": "Households face financial risk from increasing health inflation",
+    "desc": "The government’s 2025-26 Economic Survey showed that health inflation came down to 3% in December 2025 from 6% in 2023. However, the Aon’s Global Medical Trends Rate 2026 report and other market reports show put medical inflation in India at 12-13%.",
+    "img": "https://th-i.thgim.com/public/incoming/tixaq0/article70939064.ece/alternates/LANDSCAPE_1200/iStock-2227560688.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/households-face-financial-risk-from-increasing-health-inflation/article70939057.ece",
+    "time": "2026-05-04T13:46:58.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +477,6 @@ const newsData_en = [
     "time": "2026-05-04T12:41:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Trisha visits Thalapathy Vijay's house after he leads in Tamil Nadu elections",
-    "desc": "Amidst his party's strong showing in Tamil Nadu, actor Vijay welcomed actress Trisha Krishnan to his Chennai residence. The visit occurred on Trisha's 43rd birthday, following her prayers at Tirumala Venkateswara Temple. This event fuels ongoing speculation surrounding the popular on-screen pair, known for their successful collaborations.",
-    "img": "https://static.toiimg.com/photo/msid-130797467,imgsize-37246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnan-visits-thalapathy-vijays-house-on-her-birthday-as-his-party-leads-in-tamil-nadu-elections-waves-at-the-paps-as-she-leaves-watch-video/articleshow/130795648.cms",
-    "time": "2026-05-04T12:29:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Highest wicket-taker of IPL with 1 over? Limited use of Chahal questioned",
     "desc": "Punjab Kings suffered a second straight IPL 2026 defeat after losing a thriller to Gujarat Titans. The big talking point was Yuzvendra Chahal bowling just one over. Former cricketer Mohammad Kaif questioned the decision, saying Punjab should trust the IPL’s highest wicket-taker more despite pitch conditions favoring pacers.",
@@ -421,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/highest-wicket-taker-of-ipl-with-just-one-over-pbks-limited-use-of-yuzvendra-chahal-questioned/articleshow/130792181.cms",
     "time": "2026-05-04T11:59:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan, Vikram, Nani, and others wish Vijay as TVK leads",
-    "desc": "Tamil superstar Vijay and his political party, Tamilaga Vettri Kazhagam (TVK), are celebrating a historic lead in the Tamil Nadu Assembly elections, sparking a wave of congratulatory messages from prominent figures in the film industry, including actors Sivakarthikeyan, Vikram, Nani, Tiger Shroff, and Kajal Aggarwal",
-    "img": "https://th-i.thgim.com/public/incoming/myyjp1/article70938299.ece/alternates/LANDSCAPE_1200/PTI04_21_2026_000167B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/tn-elections-2026-vijay-tvk-leads-tamilaga-vettri-kazhagam/article70938060.ece",
-    "time": "2026-05-04T11:25:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -496,48 +550,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘I’ll send a private plane!’: Mark Wood amused by bizarre IPL offer during illness",
-    "desc": "a franchise owner proposed a private jet flight for a match despite Wood being seriously ill. The owner insisted on Wood playing, even suggesting a quick flight out and back. Wood, though tempted by the novelty, ultimately declined, prioritizing his health over the surreal proposition.",
-    "img": "https://static.toiimg.com/photo/msid-130780993,imgsize-33670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ill-send-a-private-plane-mark-wood-amused-by-bizarre-ipl-offer-during-illness/articleshow/130780928.cms",
-    "time": "2026-05-04T09:50:04.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Bad news for CSK! MS Dhoni skips Delhi trip as injury delays return",
     "desc": "Chennai Super Kings face a significant blow as MS Dhoni misses their IPL 2026 clash against Delhi Capitals on Tuesday due to delay in injury recovery. He remains in Chennai for rehabilitation, raising concerns about his availability. This absence impacts CSK's playoff aspirations as they navigate a crucial phase of the tournament.",
     "img": "https://static.toiimg.com/photo/msid-130778814,imgsize-49382.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-bad-news-for-csk-ms-dhoni-skips-delhi-trip-as-injury-delays-return/articleshow/130778792.cms",
     "time": "2026-05-04T09:24:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Watching Virat, you understand the art of batting’: Bethell on Kohli’s impact",
-    "desc": "Jacob Bethell is making the most of his IPL 2026 opportunity with Royal Challengers Bengaluru. He is learning from Virat Kohli and other senior players. Bethell's role has increased due to Phil Salt's absence. He is adapting to the high tempo of the league. Bethell's development could be crucial for RCB's playoff push.",
-    "img": "https://static.toiimg.com/photo/msid-130772783,imgsize-189244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-watching-virat-you-understand-the-art-of-batting-jacob-bethell-on-kohlis-impact-at-rcb/articleshow/130772474.cms",
-    "time": "2026-05-04T08:24:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phil Salt returns home mid-season for scans, RCB face anxious wait",
-    "desc": "England opener Phil Salt has returned home for scans on a finger injury sustained during an IPL 2026 match, casting doubt on his immediate availability for Royal Challengers Bengaluru. Salt, who had been in impressive form, is hopeful of a swift recovery and a return later this month as RCB push for the playoffs.",
-    "img": "https://static.toiimg.com/photo/msid-130768044,imgsize-186344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-phil-salt-returns-home-mid-season-for-scans-rcb-face-anxious-wait/articleshow/130767952.cms",
-    "time": "2026-05-04T07:34:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans back in the mix with 3 straight wins",
-    "desc": "Gujarat Titans secured a thrilling four-wicket victory over Punjab Kings, marking their third consecutive win and reigniting playoff hopes. Sai Sudharsan's steady fifty and Washington Sundar's crucial late hitting guided them home. Despite the wins, a negative Net Run Rate and tough upcoming fixtures mean Gujarat must secure at least two more victories to guarantee qualification.",
-    "img": "https://static.toiimg.com/photo/msid-130759703,imgsize-103088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/gt-ipl-2026-playoff-qualification-scenarios-gujarat-titans-back-in-the-mix-with-three-straight-wins/articleshow/130759703.cms",
-    "time": "2026-05-04T06:17:49.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
