@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "I was branded a Test player, proud to break out of that mould: KL Rahul after IPL heroics",
+    "desc": "Delhi Capitals opener KL Rahul has been a force to reckon with in the ongoing Indian Premier League (IPL). He has smacked 433 runs in nine matches at a phenomenal strike rate of 185.83 and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-was-branded-a-test-player-proud-to-break-out-of-that-mould-kl-rahul-after-ipl-heroics-2026-05-05-1039952",
+    "time": "2026-05-05T05:05:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Raghu Sharma celebrates with special note after maiden IPL wicket with Mumbai Indians",
+    "desc": "Mumbai Indians spinner Raghu Sharma celebrated his first wicket in the IPL with an emotional gesture that quickly spread across social media. Playing just his second match in the competition, the leg-spinner produced a breakthrough by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jai-shree-ram-raghu-sharma-celebrates-with-special-note-after-maiden-ipl-wicket-with-mumbai-indians-watch-2026-05-05-1039944",
+    "time": "2026-05-05T03:51:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester City lose grip in Premier League after 3-3 draw against Everton, Arsenal hold edge",
+    "desc": "Manchester City’s pursuit of the Premier League crown suffered a significant setback after a dramatic 3-3 draw against Everton. The visitors appeared in control early on, with Jeremy Doku opening the scoring in the 43rd...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-city-lose-grip-in-premier-league-after-3-3-draw-against-everton-arsenal-hold-edge-2026-05-05-1039942",
+    "time": "2026-05-05T03:22:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mumbai Indians make quick work of Lucknow Super Giants, stay alive in IPL 2026 playoffs race",
     "desc": "The 47th game of the ongoing IPL (Indian Premier League) 2026 saw Mumbai Indians hosting Lucknow Super Giants. The two sides met at the Wankhede Stadium in Mumbai on May 4th, and the game was...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-cheteshwar-pujara-outlines-jason-holder-s-impact-in-gt-s-recent-success-2026-05-04-1039900",
     "time": "2026-05-04T11:16:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni continues rehab in Chennai, set to miss clash against Delhi Capitals",
-    "desc": "Chennai Super Kings are all set to take on Delhi Capitals in the ongoing edition of the IPL (Indian Premier League) 2026 next. The two sides will meet in the 48th game of the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-continues-rehab-in-chennai-set-to-miss-clash-against-delhi-capitals-2026-05-04-1039889",
-    "time": "2026-05-04T10:09:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Fight for him': Kobbie Mainoo throws weight behind Michael Carrick after sensational victory over Liverpool",
-    "desc": "Manchester United registered a brilliant victory over Liverpool in the ongoing edition of the Premier League. The two sides met at Old Trafford in Manchester on May 3rd, and with two teams looking to secure...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fight-for-him-kobbie-mainoo-throws-weight-behind-michael-carrick-after-sensational-victory-over-liverpool-2026-05-04-1039882",
-    "time": "2026-05-04T08:50:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sydney Sixers announces signing of James Hopes as new BBL coach",
-    "desc": "BBL (Big Bash League) franchise Sydney Sixers have come forward and announced the signing of former Australia all-rounder James Hopes as their new BBL coach. It is worth noting that Hopes will be replacing Greg...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sydney-sixers-announces-signing-of-james-hopes-as-new-bbl-coach-2026-05-04-1039870",
-    "time": "2026-05-04T07:22:31.000Z"
   }
 ];
