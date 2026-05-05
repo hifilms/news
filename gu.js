@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "સુવેન્દુ અધિકારીને નાનો ભાઈ ગણતા હતા મમતા બેનર્જી, એવું તે શું થયું કે રાજકારણનાં &amp;#039;જાની દુશ્મન&amp;#039; બન્યા? ખાસ જાણો",
+    "desc": "પશ્ચિમ બંગાળની વિધાનસભા ચૂંટણી આ વખતે એક એવા વળાંક પર આવી કે એક સમયે જેને મમતાદીદીને નાનાભાઈ ગણાવ્યાં હતાં તે સુવેન્દુ અધિકારી જ તેમની સજ્જડ હારનું કારણ બન્યા. ત્યારે એવો વિચાર આવે કે આખરે એવું તે શું થયું હશે કે મમતા બેનર્જી અને સુવેન્દુ અધિકારી વચ્ચે સંબંધો આટલા બધા વણસી ગયા? ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-results-2026-political-rivalry-between-mamata-banerjee-and-suvendu-adhikari-476590 ",
+    "time": "2026-05-05T10:38:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઓરેન્જ કેપની રેસમાં નવો વળાંક, 4 બેટ્સમેનોએ 400 રનનો આંકડો પાર કર્યો",
+    "desc": "ઓરેન્જ કેપ માટેની રેસ હવે વધુ તીવ્ર બની ગઈ છે. ચાર બેટ્સમેન એવા છે, જે 400 રનનો આંકડો પાર કરવામાં સફળ રહ્યા છે. અભિષેક શર્મા હાલમાં ટોચના સ્થાને છે, પરંતુ ટૂંક સમયમાં તેનું સ્થાન છીનવાઈ શકે તો નવાઈ નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-orange-cap-leaderboard-abhishek-sharma-kl-rahul-heinrich-klaasen-476576 ",
+    "time": "2026-05-05T09:02:19.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "લાઈવ મેચમાં IPL ક્રિકેટરે ખિસ્સામાંથી કાઢી ચિઠ્ઠી, જેમાં લખ્યું હતું &amp;#039;જય શ્રી રામ&amp;#039;, MI માટે હતો ભાવુક મેસેજ",
     "desc": "IPLમાં પોતાની પહેલી વિકેટ લીધા બાદ મુંબઈ ઇન્ડિયન્સના 33 વર્ષીય સ્પિનર રઘુ શર્માએ પોતાના ખિસ્સામાંથી એક ચિઠ્ઠી કાઢી અને તેને કેમેરા સામે બતાવી, જેમાં MI માટે એક ભાવુક મેસેજ સાથે 'જય શ્રી રામ' લખેલું હતું.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/raghu-sharma-celebrate-his-first-ipl-wicket-with-jai-shree-ram-476567 ",
-    "time": "2026-05-05T07:23:15.000Z"
+    "time": "2026-05-05T08:20:43.000Z"
   },
   {
     "cat": "Politics",
@@ -133,15 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/5-reason-of-mamata-banerjee-lost-west-bengal-election-2026-476448 ",
     "time": "2026-05-04T12:41:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ડાબેરી મુક્ત ભારત? કેરળમાં હાર સાથે જ દેશમાંથી લેફ્ટ શાસનનો સફાયો, કોંગ્રેસ ગઠબંધન આવ્યું સત્તામાં",
-    "desc": "કેરળ વિધાનસભા ચૂંટણીના શરૂઆતના પરિણામોમાં, કોંગ્રેસના નેતૃત્વ હેઠળના UDF કમાન્ડિંગ લીડ સ્થાપિત કરી છે. 140 બેઠકોવાળી વિધાનસભામાંથી બહાર આવતા વલણો અનુસાર, UDF હાલમાં 100 બેઠકોનો આંકડો પાર કરી ચૂક્યું છે. જ્યારે CPI(M)ના નેતૃત્વવાળા ગઠબંધન LDF 41 બેઠકો પર લીડ ધરાવે છે. હવે એવું લાગે છે કે કોંગ્રેસ કેરળમાં સરકાર બનાવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/left-free-india-with-the-defeat-in-kerala-the-left-rule-was-wiped-out-from-the-country-congress-alliance-came-to-power-476445 ",
-    "time": "2026-05-04T12:18:06.000Z"
   },
   {
     "cat": "Sports",

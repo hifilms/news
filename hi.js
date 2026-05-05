@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at Arun Jaitley Stadium in Delhi play?",
+    "desc": "With four wins in nine games, Delhi Capitals are currently seventh on the IPL points table. They are still alive in the playoffs race, but the upcoming clash against Chennai Super Kings holds the key....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-csk-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-05-05-1039987",
+    "time": "2026-05-05T10:24:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When can MI captain return from back spasm? Ryan Rickelton speaks up",
+    "desc": "Mumbai Indians captain Hardik Pandya missed his team's must-win IPL 2026 clash against the Lucknow Super Giants at the Wankhede on Monday, May 4, due to a back spasm. Suryakumar Yadav led the MI team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-injury-update-when-can-mi-captain-return-from-back-spasm-ryan-rickelton-speaks-up-2026-05-05-1039984",
+    "time": "2026-05-05T10:10:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LSG head coach Justin Langer backs Rishabh Pant amid poor form, dismisses price tag pressure",
+    "desc": "Lucknow Super Giants captain Rishabh Pant has struggled to live up to his potential in the ongoing IPL 2026. The keeper-batter has made only 204 runs in nine matches. Under his leadership, Lucknow are at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-head-coach-justin-langer-backs-rishabh-pant-amid-poor-form-dismisses-price-tag-pressure-2026-05-05-1039973",
+    "time": "2026-05-05T08:46:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Neymar finds himself in trouble after Santos teammate accuses him of physical and verbal assault",
     "desc": "Star forward Neymar reportedly engaged in a heated clash with teammate Robinho Jr during training. The incident is believed to have occurred during a Sunday session, where a routine exchange between the two players escalated....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nicholas-pooran-surpasses-vaibhav-sooryavanshi-with-quickfire-knock-against-mumbai-indians-2026-05-04-1039922",
     "time": "2026-05-04T15:48:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lucknow Super Giants post 228 runs in the first innings",
-    "desc": "The 47th game of the ongoing IPL (Indian Premier League) 2026 sees Lucknow Super Giants taking on Mumbai Indians. The two sides lock horns at the Wankhede Stadium in Mumbai, and it is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-lsg-live-cricket-score-mi-aim-to-return-to-winning-ways-2026-05-04-1039918",
-    "time": "2026-05-04T14:27:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Hardik Pandya not playing for MI vs LSG in IPL 2026 clash in Mumbai?",
-    "desc": "The 47th game of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians taking on Lucknow Super Giants. The two sides meet at the Wankhede Stadium in Mumbai on May 4. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-for-mi-vs-lsg-in-ipl-2026-clash-in-mumbai-2026-05-04-1039915",
-    "time": "2026-05-04T13:39:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phil Salt returns home for scans after sustaining finger injury, Jacob Bethell to extend his run",
-    "desc": "In a major blow for defending IPL (Indian Premier League) champions, Royal Challengers Bengaluru, the side’s star batter Phil Salt has returned to the UK for scans on his finger injury. This would mean that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-returns-home-for-scans-after-sustaining-finger-injury-jacob-bethell-to-extend-his-run-2026-05-04-1039910",
-    "time": "2026-05-04T12:33:21.000Z"
   }
 ];

@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "'জেলে মুখ খুললে তোমার পরিবারকে শেষ করে দেব', রাজ্যে পালাবদল ঘটতেই মেসিকাণ্ডে বিস্ফোরক শতদ্রু",
+    "desc": "\"সবকিছুর হিসেব হবে, সময় এসেছে!\" মেসির কলকাতা সফর ঘিরে যে বিতর্ক তৈরি হয়েছিল, রাজ্যে রাজনৈতিক পটপরিবর্তনের পর তা নিয়ে মুখ খুললেন আয়োজক শতদ্রু দত্ত। ৩৮ দিনের জেল খাটনি থেকে শুরু করে ইভেন্ট ভেস্তে দেওয়ার নেপথ্যে থাকা ‘দাদাগিরি’— সব নিয়ে এবার একশো কোটির মামলার হুঁশিয়ারি দিলেন তিনি। প্রাক্তন ক্রীড়ামন্ত্রীর বিরুদ্ধে ষড়যন্ত্রের অভিযোগ তুলে শতদ্রুর বার্তা— \"সব হিসেব দিতে হবে।\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/satadru-dutta-messi-kolkata-goat-tour-failure-controversy-aroop-biswas_652657.html ",
+    "time": "2026-05-05T09:55:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "শ্যামপুরে পদ্ম-ঝড়: ব্যক্তিগত বিতর্ক ছাপিয়ে জয়ের হাসি হিরণের মুখে, কী বলছেন স্ত্রী অনিন্দিতা?",
+    "desc": "সব বিতর্ক ও জল্পনা সরিয়ে শ্যামপুর বিধানসভা কেন্দ্রে ২২২৬০ ভোটে জয়ী হলেন বিজেপি প্রার্থী হিরণ্ময় চট্টোপাধ্যায় (হিরণ)। ঘরের ছেলের এই জয়ে উচ্ছ্বসিত স্ত্রী অনিন্দিতা চট্টোপাধ্যায়। অনিন্দিতার কথায়, \"হিরণ তো শেষমেশ আমার মেয়ের বাবা, ওর জয়ে আমরা সবাই খুব খুশি।\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/hiran-chatterjee-wins-shyampur-election-wife-anindita-reaction-2026_652629.html ",
+    "time": "2026-05-05T08:43:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "গভীর জঙ্গলে স্ত্রীকে পাথর দিয়ে থেঁতলে মারল স্বামী, তারপর দুধের শিশুকে হিংস্র পশুদের মুখে ফেলে চম্পট",
+    "desc": "নিজের স্ত্রীর চরিত্রের ওপর সন্দেহ করে তাঁকে নৃশংস খুন। শুধু তাই নয়, খুনের পর নিজের দুই বছরের শিশুপুত্রকেও গভীর জঙ্গলে একা ফেলে রেখে পালিয়ে যায় সে। তবে পুলিসের তৎপরতায় ১০ ঘণ্টা পর শিশুটিকে অক্ষত অবস্থায় উদ্ধার করা সম্ভব হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/man-kills-wife-abandons-2-year-old-son-in-dense-forest_652624.html ",
+    "time": "2026-05-05T08:12:47.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "৫০ বছরের দ্রাবিড় রাজনীতির মহাসন্ধিক্ষণ: বিজয় ঝড়ে উড়ে গেল DMK, AIADMK: স্ট্যালিন যুগের পর এবার 'থালাপতি' রাজ",
     "desc": "বিজয় নিজে পেরাম্বুর এবং তিরুচিরাপল্লী- দুই আসন থেকেই জয়ের পথে। টিভিকে যদি কোনো কারণে প্রয়োজনীয় আসন না পায়, তবে কংগ্রেস তাদের সমর্থন দেওয়ার জন্য প্রস্তুত আছে। যদিও বর্তমান ট্রেন্ড বলছে বিজয়ের কারও সাহায্যের প্রয়োজন হবে না।",
@@ -54,13 +81,13 @@ const newsData_bn = [
     "time": "2026-05-01T14:48:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "তিন পুরুষের সঙ্গে সম্পর্ক, স্ত্রীর এলোমেলো VDO ভাইরাল: ১৯ পাতার নোটে সব লিখে আত্মঘাতী ইঞ্জিনিয়ার",
-    "desc": "স্ত্রীর বিরুদ্ধে পরকীয়ার অভিযোগ তুলে আত্মহত্যা করেছেন এক সফটওয়্যার ইঞ্জিনিয়ার। তিনি ১৯ পাতার নোটে স্ত্রীর একাধিক সম্পর্ক ও ভিডিয়ো ভাইরালের কথা উল্লেখ করেছেন। হুসেন সাগর লেকে ঝাঁপ দেওয়ার আগে তিনি চরম মানসিক যন্ত্রণার কথা লিখে যান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/software-engineer-took-extreme-step-to-death-accusing-wife-of-infidelity_651838.html ",
-    "time": "2026-05-01T09:52:25.000Z"
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
   },
   {
     "cat": "World",
@@ -135,12 +162,12 @@ const newsData_bn = [
     "time": "2026-04-24T05:56:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ছাব্বিশের ভোটেও ভাইরাল: স্বৈরাচারের বিরুদ্ধে গানে গানে সরব অনির্বাণ-পরম-দেবলীনা-ঋদ্ধি, রয়েছেন সদ্যপ্রয়াত রাহুলও",
-    "desc": "২০২৬-এর বিধানসভা নির্বাচনকে কেন্দ্র করে ফের উত্তপ্ত বাংলার রাজনৈতিক ময়দান। আর সেই উত্তাপের মাঝেই সামাজিক মাধ্যমে ঝড়ের গতিতে ভাইরাল হচ্ছে একটি গান। ২০২১ সালের সেই পরিচিত সুর, সেই প্রতিবাদী কণ্ঠস্বর— 'আমি অন্য কোথাও যাব না, আমি এই দেশেতেই থাকব'। অনির্বাণ ভট্টাচার্যের কলমে আর একঝাঁক তারকার কণ্ঠে এই গানটি ৫ বছর পর আবারও স্বৈরাচারের বিরুদ্ধে প্রতিবাদের প্রধান হাতিয়ার হয়ে উঠেছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/west-bengal-election-2026-protest-song-anirban-bhattacharya-viral-again_650350.html ",
-    "time": "2026-04-23T15:00:07.000Z"
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
