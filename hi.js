@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "CSK's path to IPL 2026 playoffs cleared? How can five-time champions reach knockouts after DC win?",
+    "desc": "Chennai Super Kings registered their second consecutive win and third in their last four matches after beating Delhi Capitals at the Arun Jaitley Stadium on Tuesday, May 5. On a tricky Delhi pitch, the Super...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csks-path-to-ipl-2026-playoffs-cleared-how-can-five-time-champions-reach-knockouts-after-dc-win-2026-05-05-1040035",
+    "time": "2026-05-05T17:40:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson's masterclass, Kartik's second fiddle take CSK home on tacky Delhi surface, boosts playoffs hopes",
+    "desc": "Sanju Samson put up a batting masterclass, while Kartik Sharma played another strong knock as Chennai Super Kings defeated the Delhi Capitals in the 48th match of the Indian Premier League 2026 on Tuesday, May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/samsons-masterclass-kartiks-second-fiddle-take-csk-home-on-tacky-delhi-surface-boosts-playoffs-hopes-2026-05-05-1040033",
+    "time": "2026-05-05T17:33:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Bengaluru's M.Chinnaswamy Stadium lose hosting IPL 2026 final? Report makes big claim",
+    "desc": "Bengaluru's M.Chinnaswamy Stadium is risking of losing the Indian Premier League 2026 final due to the MLA ticketing issue that had recently stirred a controversy. The Board of Control for Cricket in India (BCCI) is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-bengalurus-m-chinnaswamy-stadium-lose-hosting-ipl-2026-final-report-makes-big-claim-2026-05-05-1040031",
+    "time": "2026-05-05T16:47:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Aryna Sabalenka calls for Slams boycott if revenue share does not increase",
     "desc": "World No.1 tennis star Aryna Sabalenka has called out that players should boycott Grand Slams if they don't receive a greater share in revenues. Sabalenka were among the top-ranked players - including Jannik Sinner -...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/delhi-weather-update-will-rain-intervene-dc-vs-csk-ipl-2026-clash-at-arun-jaitley-stadium-2026-05-05-1039994",
     "time": "2026-05-05T11:06:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Arun Jaitley Stadium in Delhi play?",
-    "desc": "With four wins in nine games, Delhi Capitals are currently seventh on the IPL points table. They are still alive in the playoffs race, but the upcoming clash against Chennai Super Kings holds the key....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-csk-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-05-05-1039987",
-    "time": "2026-05-05T10:24:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When can MI captain return from back spasm? Ryan Rickelton speaks up",
-    "desc": "Mumbai Indians captain Hardik Pandya missed his team's must-win IPL 2026 clash against the Lucknow Super Giants at the Wankhede on Monday, May 4, due to a back spasm. Suryakumar Yadav led the MI team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-injury-update-when-can-mi-captain-return-from-back-spasm-ryan-rickelton-speaks-up-2026-05-05-1039984",
-    "time": "2026-05-05T10:10:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG head coach Justin Langer backs Rishabh Pant amid poor form, dismisses price tag pressure",
-    "desc": "Lucknow Super Giants captain Rishabh Pant has struggled to live up to his potential in the ongoing IPL 2026. The keeper-batter has made only 204 runs in nine matches. Under his leadership, Lucknow are at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-head-coach-justin-langer-backs-rishabh-pant-amid-poor-form-dismisses-price-tag-pressure-2026-05-05-1039973",
-    "time": "2026-05-05T08:46:40.000Z"
   }
 ];
