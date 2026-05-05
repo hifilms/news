@@ -117,15 +117,6 @@ const newsData_bn = [
     "time": "2026-05-01T14:48:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "প্যান্টের ভিতরে ঢুকে পা জড়িয়ে উপরে ওঠে কোবরা, দেয় ভয়ংকর ছোবল, পুরুষাঙ্গে? সাপুড়ের ভয়াল খেলা",
     "desc": "পর্যটকের শরীরে বিষক্রিয়ার স্পষ্ট লক্ষণ। তাঁর হৃদরোগে আক্রান্ত হওয়ার মতো অবস্থা হয়। তাঁকে দ্রুত হাসপাতালে নিয়ে যাওয়ার ব্যবস্থা হয়। তার আগে কৃত্রিম উপায়ে শ্বাস-প্রশ্বাস সচল করার চেষ্টাও করা হয়। কিন্তু শেষ পর্যন্ত কিছুই কাজে এল না!",
@@ -169,14 +160,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tmc-election-campaign-parambrata-chatterjee-june-maliah-ujjwal-biswas_650678.html ",
     "time": "2026-04-25T13:02:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

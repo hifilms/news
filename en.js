@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Congress offers support to TVK but with a condition",
+    "desc": "TNCC says TVK, which emerged as the single-largest party, should not seek support from BJP or its alliance partners; Vijay likely to meet the Governor on May 6 to stake claim to form govt or seek time",
+    "img": "https://th-i.thgim.com/public/incoming/2duff/article70942007.ece/alternates/LANDSCAPE_1200/PTI05_05_2026_000052A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijay-holds-key-meeting-as-tvk-eyes-government-formation-in-tamil-nadu/article70942001.ece",
+    "time": "2026-05-05T21:04:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tarun reacts to Ranbir’s Ramayana being compared to Adipurush",
+    "desc": "Tarun Khanna, who has played Lord Shiva in several TV shows like Karmaphal Daata Shani, RadhaKrishn, Jai Kanhaiya Lal Ki, Devi Adi Parashakti, Paramavatar Shri Krishna, and Santoshi Maa, has weighed in on the ongoing conversation around Ranbir Kapoor’s casting in Nitesh Tiwari's Ramayana, backing the actor and his approach to the role. Tarun also addressed the negative commentary surrounding Ramayana, especially comparisons with Adipurush.",
+    "img": "https://static.toiimg.com/photo/msid-130838794,imgsize-84504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tarun-khanna-reacts-to-ranbir-kapoors-ramayana-being-compared-to-prabhas-adipurush-ranbir-is-among-the-best-of-this-generation/articleshow/130838768.cms",
+    "time": "2026-05-05T20:17:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu Congress offers conditional support to Vijay's TVK",
+    "desc": "The Tamil Nadu Congress Committee extended its support to the TVK, but said that the TVK shouldn't seek the support of the lone winner from the BJP in the State, or any alliance partners of the BJP",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
+    "time": "2026-05-05T19:22:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet clears amendment to make insult to Vande Mataram a punishable offence",
+    "desc": "On February 6, the Union Ministry of Home Affairs in a set of instructions to States and other government bodies said that all the six stanzas of Vande Mataram, that comes to a little over three minutes long, should be sung or played at official events",
+    "img": "https://th-i.thgim.com/public/incoming/th7utf/article70944573.ece/alternates/LANDSCAPE_1200/DSC_5502.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cabinet-clears-amendment-to-make-insult-to-vande-mataram-a-punishable-offence/article70944331.ece",
+    "time": "2026-05-05T19:05:53.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Riddhima gets emotional over Samara’s debut, recalls Ranbir’s advice",
     "desc": "Riddhima Kapoor Sahni, daughter of late Rishi Kapoor and Neetu Kapoor, has opened up about making her acting debut in Daadi Ki Shaadi at 45, calling the experience “surreal” and “deeply emotional.” Talking about sharing screen space with her mother Neetu Kapoor, she said, “Working with mom was incredibly special. I discovered how effortless and instinctive she is as an actor.” Riddhima also shared a personal moment about her daughter appearing on screen.",
@@ -7,15 +43,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riddhima-kapoor-sahni-gets-emotional-over-daughter-samaras-debut-recalls-ranbir-kapoors-advice-calls-working-with-neetu-kapoor-special/articleshow/130837986.cms",
     "time": "2026-05-05T19:03:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress offers conditional support to TVK in Tamil Nadu",
-    "desc": "TNCC says TVK, which emerged as the single-largest party, should not seek support from BJP or its alliance partners; Vijay likely to meet the Governor on May 6 to stake claim to form govt or seek time",
-    "img": "https://th-i.thgim.com/public/incoming/2duff/article70942007.ece/alternates/LANDSCAPE_1200/PTI05_05_2026_000052A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijay-holds-key-meeting-as-tvk-eyes-government-formation-in-tamil-nadu/article70942001.ece",
-    "time": "2026-05-05T18:54:47.000Z"
   },
   {
     "cat": "Sports",
@@ -34,15 +61,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capitals-vs-chennai-super-kings-match-updates/article70943598.ece",
     "time": "2026-05-05T18:44:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu Congress offers conditional support to Vijay's TVK",
-    "desc": "The Tamil Nadu Congress Committee extended its support to the TVK, but said that the TVK shouldn't seek the support of the lone winner from the BJP in the State, or any alliance partners of the BJP",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
-    "time": "2026-05-05T18:33:56.000Z"
   },
   {
     "cat": "Politics",
@@ -124,15 +142,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-how-was-vijays-spectacular-win-covered-in-sri-lanka/article70944323.ece",
     "time": "2026-05-05T16:40:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No Left government left in India. What happened?",
-    "desc": "For the first time in over 50 years, India has no Left government in power. From dominating states like Kerala, West Bengal and Tripura to near political irrelevance, what led to this dramatic decline? This video explains the rise, fall, and future of the Left in India.",
-    "img": "https://th-i.thgim.com/public/incoming/gxcjqr/article70944312.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-05%20at%2018.32.41.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-no-left-government-left-in-india-what-happened/article70944315.ece",
-    "time": "2026-05-05T16:37:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -324,15 +333,6 @@ const newsData_en = [
     "time": "2026-05-05T12:35:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ram Gopal Varma shares RARE OLD photo wishing Thalapathy Vijay",
-    "desc": "Actress Trisha Krishnan's old interview clip has resurfaced and is trending online. In the 2004 video, she jokingly spoke about becoming a chief minister. This has sparked nostalgia and amusement among fans, especially after Thalapathy Vijay's recent election victory. The clip highlights Trisha's early career charm. Meanwhile, Trisha is awaiting the release of her upcoming film 'Karuppu' with Suriya.",
-    "img": "https://static.toiimg.com/photo/msid-130828900,imgsize-97552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-gopal-varma-shares-rare-old-photo-wishing-thalapathy-vijay-young-vijay-with-late-cm-karunanidhi-sparks-debate/articleshow/130828731.cms",
-    "time": "2026-05-05T12:30:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Bengal CM Mamata refuses to resign, Raghav Chadha meets President Murmu &amp; more",
     "desc": "Mamata Banerjee, calling herself a 'free bird,' refuses to resign, alleging vote looting by BJP and EC. Raghav Chadha met President Murmu, claiming he's the AAP-led Punjab government's next target for switching parties. The US sank Iranian boats in the Strait of Hormuz amid UAE attacks. Kejriwal accused BJP of 'murdering democracy' after poll wins.",
@@ -378,24 +378,6 @@ const newsData_en = [
     "time": "2026-05-05T10:44:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SIR, yes SIR: How voter deletions impacted West Bengal elections",
-    "desc": "West Bengal witnessed a significant political shift as the BJP formed its first government, largely influenced by the Special Intensive Revision (SIR) of electoral rolls. This exercise, which removed nearly 12% of voters, disproportionately affected minority communities and became a central, contentious issue, reshaping voting trends and contributing to the BJP's surge across the state.",
-    "img": "https://static.toiimg.com/photo/msid-130825002,imgsize-1580314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sir-yes-sir-how-voter-deletions-impacted-west-bengal-elections/articleshow/130823036.cms",
-    "time": "2026-05-05T10:12:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Anga to Kalinga' comes true: BJP completes eastern arc with Bengal victory",
-    "desc": "The BJP has achieved a significant milestone by securing a victory in West Bengal in 2026, completing its symbolic arc across eastern India with control in Bihar, Bengal, and Odisha. This win consolidates a long-standing political project, marking a sharp turnaround for the party after a Lok Sabha setback and expanding its national reach.",
-    "img": "https://static.toiimg.com/photo/msid-130824760,imgsize-1249998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/anga-to-kalinga-comes-true-bjp-completes-eastern-arc-with-bengal-victory/articleshow/130824662.cms",
-    "time": "2026-05-05T09:59:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘You’re one of the OGs’: Kohli’s heartfelt tribute for RCB stalwart Speechly",
     "desc": "Royal Challengers Bengaluru bid an emotional farewell to former head physio Evan Speechly after his 18-year association with the franchise. Virat Kohli and Director of Cricket Mo Bobat led tributes, highlighting Speechly's professionalism, kindness, and dedication. Speechly expressed his gratitude, calling RCB family and feeling fortunate for his long tenure.",
@@ -403,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/youre-one-of-the-ogs-virat-kohlis-heartfelt-tribute-for-rcb-stalwart-evan-speechly-watch/articleshow/130825004.cms",
     "time": "2026-05-05T09:58:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why was the West Bengal verdict set in stone?",
-    "desc": "What began in 2011 as a movement against the Left Front’s stagnation had, by 2026, come full circle. Mamata Banerjee had once represented disruption and hope. Over time, her regime became associated with a different vocabulary. Words like “cut money”, “syndicate control”, and “tolabazi” became shorthand for everyday governance failures. This was not merely opposition rhetoric, it was a lived experience. From construction projects to small household repairs, local syndicates were perceived to control economic activity.",
-    "img": "https://static.toiimg.com/photo/msid-130824840,imgsize-130048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-was-the-west-bengal-verdict-set-in-stone/articleshow/130823730.cms",
-    "time": "2026-05-05T09:49:19.000Z"
   },
   {
     "cat": "Sports",
@@ -430,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-the-mighty-mumbai-indians-are-in-desperate-need-of-an-overhaul/articleshow/130823294.cms",
     "time": "2026-05-05T08:47:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Punjab CM leaves for Delhi, will meet President Murmu to raise issue of AAP MPs moving to BJP",
-    "desc": "This development comes after CM Mann left for his meeting with President Murmu at the Rashtrapati Bhavan in the national capital later in the day. He will raise the issue of recent merger of seven AAP Rajya Sabha MPs into BJP, which included the likes of Raghav Chadha, Harbhajan Singh, Ashok Mittal, Sandeep Pathak, Rajinder Gupta, Vikram Sahney and Swati Maliwal.",
-    "img": "https://static.toiimg.com/photo/msid-130823353,imgsize-1034404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-cm-leaves-for-delhi-will-meet-president-murmu-to-raise-issue-of-aap-mps-moving-to-bjp/articleshow/130822651.cms",
-    "time": "2026-05-05T08:23:53.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-among-most-resilient-large-ems-better-placed-for-future-global-shocks-policy-reforms-strong-buffers-help-moodys/articleshow/130820709.cms",
     "time": "2026-05-05T07:48:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I am their next target': Raghav Chadha alleges 'vendetta politics' by AAP-led Punjab govt; meets President Murmu",
-    "desc": "Rajya Sabha member Raghav Chadha accused the AAP-led Punjab government of using state machinery for political vendetta against MPs who joined the BJP. He alleged selective targeting through various agencies, presenting these concerns to the President. Another rebel MP, Sandeep Pathak, stated they sought constitutional safeguards from the President, who assured protection.",
-    "img": "https://static.toiimg.com/photo/msid-130819555,imgsize-1275344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-am-their-next-target-raghav-chadha-alleges-vendetta-politics-by-aap-led-punjab-govt-meets-president-murmu/articleshow/130819528.cms",
-    "time": "2026-05-05T07:25:23.000Z"
   },
   {
     "cat": "Business",
