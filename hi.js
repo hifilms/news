@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Neymar finds himself in trouble after Santos teammate accuses him of physical and verbal assault",
+    "desc": "Star forward Neymar reportedly engaged in a heated clash with teammate Robinho Jr during training. The incident is believed to have occurred during a Sunday session, where a routine exchange between the two players escalated....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/neymar-finds-himself-in-trouble-after-santos-teammate-accuses-him-of-physical-and-verbal-assault-2026-05-05-1039964",
+    "time": "2026-05-05T07:11:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "I was branded a Test player, proud to break out of that mould: KL Rahul after IPL heroics",
     "desc": "Delhi Capitals opener KL Rahul has been a force to reckon with in the ongoing Indian Premier League (IPL). He has smacked 433 runs in nine matches at a phenomenal strike rate of 185.83 and...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-returns-home-for-scans-after-sustaining-finger-injury-jacob-bethell-to-extend-his-run-2026-05-04-1039910",
     "time": "2026-05-04T12:33:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer Cheteshwar Pujara outlines Jason Holder's impact in GT's recent success",
-    "desc": "Gujarat Titans have picked up form in the ongoing IPL (Indian Premier League) 2026. After a rocky start to the season, the Shubman Gill-led side is well in the race for the playoffs. With six...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-cheteshwar-pujara-outlines-jason-holder-s-impact-in-gt-s-recent-success-2026-05-04-1039900",
-    "time": "2026-05-04T11:16:55.000Z"
   }
 ];

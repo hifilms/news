@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "લાઈવ મેચમાં IPL ક્રિકેટરે ખિસ્સામાંથી કાઢી ચિઠ્ઠી, જેમાં લખ્યું હતું &amp;#039;જય શ્રી રામ&amp;#039;, MI માટે હતો ભાવુક મેસેજ",
+    "desc": "IPLમાં પોતાની પહેલી વિકેટ લીધા બાદ મુંબઈ ઇન્ડિયન્સના 33 વર્ષીય સ્પિનર રઘુ શર્માએ પોતાના ખિસ્સામાંથી એક ચિઠ્ઠી કાઢી અને તેને કેમેરા સામે બતાવી, જેમાં MI માટે એક ભાવુક મેસેજ સાથે 'જય શ્રી રામ' લખેલું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/raghu-sharma-celebrate-his-first-ipl-wicket-with-jai-shree-ram-476567 ",
+    "time": "2026-05-05T07:23:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;કાઉન્ટિંગ સેન્ટરમાં ઘૂસેલા ગુંડાઓએ મને મારી, ભવાનીપુરમાં મને હરાવવા રમાઈ ગંદી રમત...&amp;#039;, મમતાએ ફોડ્યો &amp;#039;ઓડિયો બોમ્બ&amp;#039;",
+    "desc": "ટીએમસી નેતા કલ્યાણ બેનર્જીએ સોશિયલ મીડિયા પર મમતા બેનર્જી સાથે ફોન પર થયેલી વાતચીતનો એક ઓડિયો શેર કર્યો છે. આ વાતચીતમાં મમતા બેનર્જીએ ગંભીર આક્ષેપ કર્યો છે કે કાઉન્ટિંગ સેન્ટરમાં ઘૂસી ગયેલા ગુંડાઓએ તેમની સાથે મારપીટ કરી અને મતગણતરીને પણ પ્રભાવિત કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/goons-beat-me-up-votes-stolen-mamata-makes-explosive-claims-after-bhabanipur-loss-476566 ",
+    "time": "2026-05-05T07:00:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રાજકીય પીચ પર કરોડપતિ ક્રિકેટરની એન્ટ્રી... 16,241 મતોથી જીતી ચૂંટણી, હવે બનશે રમતગમત મંત્રી ?",
+    "desc": "4 મેના રોજ પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી 2026ના પરિણામો જાહેર થયા, જેમાં ભાજપ TMCને હરાવીને પહેલીવાર સત્તામાં આવી. માત્ર 10 વર્ષમાં પાર્ટી 3 બેઠકોથી વધીને 206 બેઠકો પર પહોંચી ગઈ છે. આ ચૂંટણીમાં એક કરોડપતિ પૂર્વ ભારતીય ફાસ્ટ બોલર ભાજપની ટિકિટ પર ધારાસભ્ય તરીકે ચૂંટાયો હતો. હવે તેને રમતગમત મંત્રીની જવાબદારી સોંપવામાં આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/former-cricketer-ashok-dinda-won-moyna-seats-bjp-west-bengal-election-result-2026-476550 ",
+    "time": "2026-05-05T06:40:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર્દિક પંડ્યાને મુંબઈની ટીમમાંથી કરાયો બહાર ? ના રમવાનું અસલી કારણ આવ્યું સામે",
+    "desc": "લખનૌ સામેની મેચમાં મુંબઈ ઈન્ડિયન્સનો કેપ્ટન હાર્દિક પંડ્યા પ્લેઈંગ ઈલેવનમાંથી ગાયબ હતો. તેના સ્થાને સૂર્યકુમાર યાદવ ટીમનું નેતૃત્વ કરતો જોવા મળ્યો. હવે સવાલ એ છે કે હાર્દિક પંડ્યાને કેમ બહાર કરવામાં આવ્યો હતો ? તેની પાછળનું કારણ શું હતું ? તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-hardik-pandya-did-not-play-in-mi-vs-lsg-match-reason-revealed-476532 ",
+    "time": "2026-05-05T05:59:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભવાનીપુર બેઠક પર કેવી રીતે હારી ગયા મમતા બેનર્જી? બંગાળમાં ‘દીદી’ની હારના 5 કારણ",
+    "desc": "પશ્ચિમ બંગાળના રાજકારણમાં મુખ્યમંત્રી મમતા બેનર્જીની ભવાનીપુરથી હાર એ સૌથી મોટો ઉલટફેર છે. જે ભવાનીપુરને મુખ્યમંત્રી મમતા બેનર્જી પોતાનો સૌથી સુરક્ષિત ગઢ માનતા હતા, ત્યાં ભાજપના દિગ્ગજ નેતા સુવેન્દુ અધિકારીએ તેમને 15,000 મતોના અંતરથી કારમી હાર આપી છે. જાણો, 'દીદી'ની હારના 5 મુખ્ય કારણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/inside-story-how-mamata-banerjee-lost-on-bhawanipur-seat-5-reasons-for-didis-defeat-in-bengal-476525 ",
+    "time": "2026-05-05T05:50:16.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "&amp;#039;રક્તચરિત્ર&amp;#039; સ્ટાઈલમાં યુવકની ઘાતકી હત્યા; સ્ટેટસ મૂક્યાના ગણતરીના કલાકોમાં જ ખેલ ખતમ! હૃદય હચમચાવી દે તેવી ઘટના",
     "desc": "ઇન્સ્ટાગ્રામ પર \"રક્તચરિત્ર\" ફિલ્મનું સ્ટેટસ મૂકી યુવકની ઘાતકી હત્યા. સોલાપુરમાં યુવકની સિનેમેટિક સ્ટાઇલમાં નિર્મમ હત્યા. હત્યા કરતા પહેલા ઇન્સ્ટાગ્રામ પર \"રક્તચરિત્ર\" ફિલ્મનું સ્ટેટસ મૂક્યું હતું. હૃદય હચમચાવી દેનારી આ ઘટના સીસીટીવી (CCTV) કેમેરામાં કેદ થઈ. ઘટનાના માત્ર બે કલાકમાં જ પોલીસે છ આરોપીઓની ધરપકડ કરી.",
@@ -97,33 +142,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/left-free-india-with-the-defeat-in-kerala-the-left-rule-was-wiped-out-from-the-country-congress-alliance-came-to-power-476445 ",
     "time": "2026-05-04T12:18:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અમિત શાહે તોડ્યું બંગાળનું રાજકીય મિથક, 2016ની હુંકાર કેવી રીતે 2026માં જીત સુધી પહોંચી? જાણો",
-    "desc": "એ સત્ય છે કે પશ્ચિમ બંગાળ લાંબા સમય સુધી એક રાજકીય મિથક હતું. એક એવું રાજ્ય જ્યાં લેફ્ટ વિચારધારા અને પ્રાદેશિક અસ્મિતાએ રાષ્ટ્રીય પક્ષો માટે મર્યાદાઓ નક્કી કરી રાખી હતી. અમિત શાહે આ મિથકને સમજ્યું, તેના મૂળિયાં ઓળખ્યા અને પછી તેને વ્યવસ્થિત રીતે પડકાર આપ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/amit-shah-chanakya-strategy-behind-bjp-historic-win-in-west-bengal-elections-2026-476435 ",
-    "time": "2026-05-04T11:46:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગંગોત્રીથી ગંગાસાગરઃ ભાજપ પર ગંગામૈયાના આશીર્વાદ, જ્યાં જ્યાં ગંગા, ત્યાં ત્યાં ભાજપ, બંગાળવિજયમાં ગુજરાતનો સિંહફાળો",
-    "desc": "પાંચ રાજ્યોની ચૂંટણીના પરિણામે ભાજપની સત્તાનો નક્શો ફરી બદલી નાંખ્યો છે. હવે ગંગોત્રીથી ગંગાસાગર સુધી ભગવો લહેરાયો છે. ઉત્તરમાં જ્યા જ્યાંથી ગંગા નદી પસાર થાય છે, એ તમામ જગ્યાઓ પર ભાજપની સરકાર બની ગઈ છે. તમે સરળતાથી સમજી શકો તે માટે અમે ભાજપની સત્તાનો નક્શો બનાવ્યો છે, જુઓ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/saffron-waves-from-gangotri-to-gangasagar-gangas-blessings-on-bjp-after-bengal-victory-476423 ",
-    "time": "2026-05-04T11:33:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી પરિણામો પર મમતા બેનર્જીનું પહેલું નિવેદન, જાણો શું કહ્યું",
-    "desc": "મમતા બેનર્જીએ પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણીના પરિણામો અંગે પોતાનું પહેલું નિવેદન આપ્યું. બંગાળ ચૂંટણીમાં ભાજપ વિજય તરફ આગળ વધી રહી છે, જ્યારે ટીએમસી 100ની નીચે સીટો પર લીડમાં ચાલી રહી છે, ત્યારે મમતા બેનર્જીનું પહેલું નિવેદન ખુબ મહત્વનું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mamata-banerjee-first-statement-on-west-bengal-assembly-election-results-know-what-she-said-476421 ",
-    "time": "2026-05-04T10:49:43.000Z"
   },
   {
     "cat": "Sports",
@@ -448,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/countries-in-the-world-where-prostitution-considered-as-legal-475778 ",
     "time": "2026-05-01T08:04:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ક્રિકેટ જગતના ચોંકાવનારા સમાચાર: 2 ક્રિકેટરોએ બાથરૂમમાં નહાતી મહિલાઓના વીડિયો બનાવ્યા, કરાઈ ધરપકડ",
-    "desc": "શ્રીલંકા ક્રિકેટ હાલમાં ખૂબ જ મુશ્કેલ સમયમાંથી પસાર થઈ રહ્યું છે. થોડા દિવસો પહેલા જ બોર્ડના પ્રમુખ સહિત તમામ અધિકારીઓએ પોતાના પદ પરથી રાજીનામું આપી દીધું હતું. હવે, ટીમના બે યુવા ખેલાડીઓ એક હોટલમાં અભદ્ર કૃત્ય કરતા પકડાયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/two-sri-lankan-cricketers-arrested-for-filming-woman-bathing-video-in-hotel-475756 ",
-    "time": "2026-05-01T06:21:54.000Z"
   },
   {
     "cat": "Tech",
