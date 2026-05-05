@@ -1,12 +1,93 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ચાંદીમાં અચાનક મોટો ઉછાળો, જાણો સોના-ચાંદીના લેટેસ્ટ આજના ભાવ",
+    "desc": "સોના ચાંદીના ભાવ હમણા થોડા સમયથી અચાનક વધારો ઘટાડો જોવા મળી રહ્યો છે, પણ મોટા ભાગે ભાવમાં મોટો ઘટાડો જ થયો છે, જ્યારથી યુદ્ધ ચાલુ થયુ છે, ત્યારથી ચાંદીના ભાવમાં પણ મોટો ઘટાડો જોવા મળ્યો છે, હાલમાં યુદ્ધ બંધ હોવાથી ફરી સોના-ચાંદીના ભાવમાં વધારો જોવા મળી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/a-sudden-big-jump-in-silver-know-the-latest-todays-prices-of-gold-and-silver-476624 ",
+    "time": "2026-05-05T15:43:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "લો બોલો! હવે લોકોનાં મગજને વાંચી શકે તેવું આવ્યું ડિવાઇસ, જાણો કેવી રીતે કરે છે કામ ?",
+    "desc": "ઝોમેટોના ફાઉન્ડર દીપિન્દર ગોયલે એક નવું ટેમ્પલ ડિવાઇસ રજૂ કર્યું છે જે મગજમાં રક્ત પ્રવાહ અને સ્વાસ્થ્યને ટ્રેક કરે છે. આ ડિવાઇસ એક એક્સપેરિમેન્ટ વિયરેબલ તેવું ઉપકરણ છે અને હાલમાં તેનું પરીક્ષણ ચાલી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/now-a-device-has-been-developed-that-can-read-peoples-minds-know-how-it-works-476620 ",
+    "time": "2026-05-05T14:15:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મમતા બેનર્જીની હારનું રાજસ્થાન સાથે શું છે કનેક્શન? કેમ થઈ રહી છે રાજેન્દ્ર રાઠોડની ખૂબ જ ચર્ચા, જાણો",
+    "desc": "બંગાળ ચૂંટણીમાં ભાજપને ઐતિહાસિક જીત મળી છે. ઉત્તર બંગાળના સિલીગુડી, દાર્જિલિંગ, જલપાઈગુડી, અલીપુરદ્વાર અને કૂચ બિહાર જિલ્લાની 28 બેઠકોમાંથી 27 બેઠકો પર ભાજપનો ભગવો લહેરાયો છે. ભાજપની આ જીતમાં રાજસ્થાનના નેતાઓની મહત્ત્વની ભૂમિકા માનવામાં આવી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-the-connection-between-mamata-banerjee-defeat-and-rajasthan-why-is-rajendra-rathore-being-discussed-so-much-know-476603 ",
+    "time": "2026-05-05T13:01:28.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "હોન્ડાની આ કાર પર મળી રહ્યું છે લાખોનું ડિસ્કાઉન્ટ ! રૂપિયા 2.12 લાખ સુધીની થશે બચત",
+    "desc": "જો તમે હોન્ડા કાર ખરીદવાનું વિચારી રહ્યા છો, તો આ તક તમારા માટે શાનદાર છે. મે 2026માં કંપની તેની ફેમસ કાર પર લાખો રૂપિયાનું ડિસ્કાઉન્ટ ઓફર કરી રહી છે, જેમાં કેટલાક મોડેલો પર ₹2 લાખથી વધુનું ડિસ્કાઉન્ટ મળી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/honda-cars-discount-may-2026-honda-elevate-honda-city-476602 ",
+    "time": "2026-05-05T12:30:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કોઈ પણ પગે પડે ત્યારે શા માટે ગુસ્સે થાય છે અમિતાભ બચ્ચન? સામે આવ્યું રમુજી કારણ, જાણો",
+    "desc": "અમિતાભ બચ્ચન એક અનુભવી અભિનેતા છે, પરંતુ જો કોઈ યુવાન અભિનેતા સેટ પર તેમના પગ સ્પર્શ કરે છે તો તેઓ ખૂબ જ ચિડાઈ જાય છે. આ પાછળનું કારણ ખૂબ જ રસપ્રદ અને શીખવા જેવું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/why-does-amitabh-bachchan-get-angry-whenever-someone-steps-on-him-the-funny-reason-has-come-to-light-know-this-476598 ",
+    "time": "2026-05-05T12:00:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "એન્જિનિયરિંગ છોડી બન્યો ક્રિકેટર, ધોનીની એક સિક્સે બદલ્યું કિસ્મત, MIમાં મળી એન્ટ્રી, જાણો કોણ છે આ ખેલાડી",
+    "desc": "મુંબઈ ઈન્ડિયન્સના લેગ-સ્પિનર રઘુ શર્માએ લખનૌ સુપર જાયન્ટ્સ સામે પોતાની પહેલી IPL વિકેટ લીધી. 2011ની વર્લ્ડ કપ ફાઇનલમાં એમએસ ધોનીની મેચ-વિનિંગ સિક્સરથી પ્રેરિત થઈને રઘુ શર્માએ વજન ઘટાડ્યું અને 33 વર્ષની ઉંમરે પોતાનું IPLનું સપનું પૂર્ણ કર્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-raghu-sharma-from-engineer-to-ipl-debut-mumbai-indians-476596 ",
+    "time": "2026-05-05T11:24:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ છે કપિલ સાહૂ? જેમણે તમિલનાડુમાં થલાપતિ વિજયની જીતમાં ભજવી મોટી ભૂમિકા",
+    "desc": "તમિલનાડુ વિધાનસભામાં થલાપતિ વિજયની જીતમાં મહત્વની ભૂમિકા ભજવનાર કપિલ સાહૂનું નામ હાલ ચર્ચાનું વિષય બન્યું છે. કપિલ સાહૂએ રેલીમાં થયેલી નાસભાગ અને વિજયના પર્સનલ લાઈફ પર થઈ રહેલી ચર્ચાઓને ખૂબ જ કુશળતાપૂર્વક સંભાળી. તેમણે પાયાના સ્તરે TVK (તમિલગા વેટ્રી કઝગમ)ને મજબૂત કરવાનું કામ કર્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-kapil-sahu-who-played-a-big-role-in-thalapathy-vijay-victory-in-tamil-nadu-476595 ",
+    "time": "2026-05-05T11:20:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;quot;અમે ચૂંટણી હાર્યા નથી; હું રાજભવન જઈને રાજીનામું આપીશ નહીંઃ મમતા બેનર્જી",
+    "desc": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણીમાં ભારતીય જનતા પાર્ટીને મોટી સફળતા મળી છે. ભાજપે 207 સીટો જીતી છે, જ્યારે ટીએમસીએ 80 સીટો પર સંતોષ કરવો પડ્યો છે. હવે મમતા બેનર્જીએ પત્રકાર પરિષદ યોજી મોટા આરોપ લગાવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cec-became-the-villain-of-this-election-to-loot-the-democratic-rights-of-the-people-mamta-banerjee-476592 ",
+    "time": "2026-05-05T11:06:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચૂંટણી હાર્યા બાદ મમતા બેનર્જીએ કેટલા દિવસમાં ખાલી કરવું પડશે CM હાઉસ ? જાણો શું છે નિયમ",
+    "desc": "પશ્ચિમ બંગાળની ચૂંટણીમાં મમતા બેનર્જીની કારમી હાર થઈ છે. મમતા દીદીની હાર બાદ હવે મુખ્યમંત્રી નિવાસસ્થાન ખાલી કરવા અંગે ચર્ચાઓ શરૂ થઈ છે, ત્યારે આ લેખમાં જાણીશું કે, હાર બાદ મુખ્યમંત્રીએ કેટલા દિવસમાં CM હાઉસ ખાલી કરવું જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-many-days-will-mamata-banerjee-have-to-vacate-cm-house-after-losing-the-election-476593 ",
+    "time": "2026-05-05T10:57:24.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "સુવેન્દુ અધિકારીને નાનો ભાઈ ગણતા હતા મમતા બેનર્જી, એવું તે શું થયું કે રાજકારણનાં &amp;#039;જાની દુશ્મન&amp;#039; બન્યા? ખાસ જાણો",
     "desc": "પશ્ચિમ બંગાળની વિધાનસભા ચૂંટણી આ વખતે એક એવા વળાંક પર આવી કે એક સમયે જેને મમતાદીદીને નાનાભાઈ ગણાવ્યાં હતાં તે સુવેન્દુ અધિકારી જ તેમની સજ્જડ હારનું કારણ બન્યા. ત્યારે એવો વિચાર આવે કે આખરે એવું તે શું થયું હશે કે મમતા બેનર્જી અને સુવેન્દુ અધિકારી વચ્ચે સંબંધો આટલા બધા વણસી ગયા? ખાસ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-results-2026-political-rivalry-between-mamata-banerjee-and-suvendu-adhikari-476590 ",
-    "time": "2026-05-05T10:38:40.000Z"
+    "time": "2026-05-05T10:49:55.000Z"
   },
   {
     "cat": "Sports",
@@ -99,15 +180,6 @@ const newsData_gu = [
     "time": "2026-05-04T16:17:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "બંગાળમાં ખીલ્યું કમળ, હવે ભાજપ કોને બનાવશે મુખ્યમંત્રી? રેસમાં શુભેન્દુ સહિત આ પાંચ નામ સૌથી આગળ",
-    "desc": "પશ્ચિમ બંગાળમાં ભાજપે ઐતિહાસિક જીત મેળવી છે, પરંતુ મુખ્યમંત્રી પદ માટે પાર્ટીએ હજુ સુધી કોઈ ચહેરો જાહેર કર્યો નથી. પીએમ મોદીની સક્રિયતા અને અમિત શાહના નિવેદન બાદ પાર્ટી બંગાળી મુખ્યમંત્રી પસંદ કરવાની યોજના બનાવી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bjp-victory-in-bengal-now-who-will-bjp-make-cm-these-five-names-including-shubhendu-are-leading-in-the-cm-race-476477 ",
-    "time": "2026-05-04T15:34:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "અદાણીની જીત! ₹3,400 કરોડ વધુ બોલી લગાવવા છતાં, વેદાંતાની ન થઈ આ કંપની, વિવાદ પર મોટો નિર્ણય",
     "desc": "અદાણી એન્ટરપ્રાઇઝે આ કંપનીને 14,535 કરોડ રૂપિયાની બોલી સાથે હસ્તગત કરવાની કાનૂની લડાઈ જીતી લીધી છે. નેશનલ કંપની લો એપેલેટ ટ્રિબ્યુનલ (NCLAT)એ વેદાંત લિમિટેડની અરજીને સંપૂર્ણપણે ફગાવી દીધી છે, જેમાં દાવો કરવામાં આવ્યો હતો કે તેની બોલી અદાણી કરતા 3,400 કરોડ રૂપિયા વધુ છે.",
@@ -124,33 +196,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/khatron-ke-khiladi-season-15-confirm-actors-name-12-stars-including-gaurav-khanna-harsh-gujral-476451 ",
     "time": "2026-05-04T13:19:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોણ છે TVKના વી.એસ. બાબુ? પોતાની જ પાર્ટીના બળવાખોર સામે હાર્યા મુખ્યમંત્રી એમ.કે. સ્ટાલિન, 8500થી વધુ મતોથી મળી હાર",
-    "desc": "તમિલનાડુના મુખ્યમંત્રી એમ.કે. સ્ટાલિન ત્રણ વખત જીતેલી પોતાની કોલાથુર બેઠક પર હારી ગયા છે. TVKના વી.એસ. બાબુએ DMK નેતાને 8000થી વધુ મતોથી માત આપી છે. જાણો કોણ છે બાબુ? જેમણે સ્ટાલિનનો 'અભેદ્ય કિલ્લો' ધરાશાયી કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-is-tvk-vs-babu-chief-minister-mk-stalin-lost-to-a-rebel-from-his-own-party-lost-by-more-than-8500-votes-476450 ",
-    "time": "2026-05-04T13:06:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બંગાળમાં ભાજપની જીતના &amp;#039;5 ધુરંધર&amp;#039;, જેની રણનીતિથી મમતાનો અભેદ કિલ્લો ધરાશાયી",
-    "desc": "ભાજપે પશ્ચિમ બંગાળમાં મમતા બેનર્જીના અભેદ કિલ્લાને ભેદવામાં સફળતા મેળવી લીધી છે. અમિત શાહની આક્રમક રણનીતિ, જમીની પકડ અને સતત બેઠકોએ ભાજપ કાર્યકર્તાઓ માટે આ ચૂંટણીને મિશનમાં બદલી નાખી. તેમણે 50થી વધુ રેલીઓ અને રોડ શો કર્યાં, ખુદ માઇક્રો-મેનેજમેન્ટની જવાબદારી સંભાળી, જેણે કાર્યકર્તાઓને ઉર્જા આપી. સાથે તેમની ટીમમાં સામેલ પાંચ પ્રમુખ નેતાઓએ સંગઠન, રણનીતિ અને ડિજિટલ નેરેટિવ પર કામ કરી માહોલ ભાજપના પક્ષમાં બનાવ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/five-architects-of-bjps-victory-in-bengal-know-how-tmcs-fortress-collapsed-476449 ",
-    "time": "2026-05-04T12:52:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બંગાળમાં મમતા બેનર્જીની હારના અસલી વિલન કોણ ? જાણો TMCની હાર પાછળના 5 કારણો",
-    "desc": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી 2026ના પરિણામો સામે આવી રહ્યા છે, જેમાં આ વખતે TMCના 15 વર્ષના શાસનને ઉથલાવી પહેલીવાર પશ્ચિમ બંગાળમાં ભારતીય જનતા પાર્ટીની સરકાર બનવા જઈ રહી છે. ત્યારે મમતા બેનર્જીની TMC બંગાળમાં કેમ હારી, તેમની હારના અસલી વિલન કોણ સાબિત થયા તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/5-reason-of-mamata-banerjee-lost-west-bengal-election-2026-476448 ",
-    "time": "2026-05-04T12:41:46.000Z"
   },
   {
     "cat": "Sports",
@@ -450,15 +495,6 @@ const newsData_gu = [
     "time": "2026-05-01T16:18:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "એકપણ સિક્સર ફટકાર્યા વગર બનાવી દીધા 260 રન! IPLનો આ અનોખો રેકોર્ડ તોડવો છે અસંભવ",
-    "desc": "જો તમને કહેવામાં આવે કે એક બેટ્સમેને IPLની એક જ સીઝનમાં એક પણ સિક્સર ફટકાર્યા વગર 260 રન બનાવી દીધા છે, તો તમને પણ ચોંકી જશો, પરંતુ આ સાચું છે. આવું આજથી 13 વર્ષ પહેલા 2013 સીઝનમાં થયું હતું. ચાલો આ ખેલાડી વિશે વિગતવાર જાણીએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/scored-260-runs-without-hitting-a-single-six-this-unique-ipl-record-is-impossible-to-break-475846 ",
-    "time": "2026-05-01T12:28:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "નેટફ્લિક્સ પર જોવા મળશે સૈફ અલી ખાનની ક્રાઈમ થ્રિલર ફિલ્મ કર્તવ્ય, 3 વર્ષના ઈંતેઝાર પછી મળી રિલીઝ ડેટ",
     "desc": "શાહરુખ ખાનના રેડ ચીલી બેનર હેઠળ બનેલી સૈફ અલી ખાન અને રસીકા દુગ્ગલની ફિલ્મ કર્તવ્ય મે મહિનામાં ઓટીટી પર રિલીઝ થશે. આ ફિલ્મ છેલ્લા 3 વર્ષથી અટકેલી હતી. અંતે હવે મે મહિનામાં ફિલ્મને ઓટીટી પર રિલીઝ કરી દેવામાં આવશે.",
@@ -585,15 +621,6 @@ const newsData_gu = [
     "time": "2026-04-28T15:47:30.000Z"
   },
   {
-    "cat": "World",
-    "title": "કાશ પટેલ સિવાય ટ્રમ્પની આખી ટીમને મારવાનો હતો પ્લાન? શું હિન્દુ હોવાને કારણે બચી ગયા FBI ચીફ?",
-    "desc": "વ્હાઇટ હાઉસ ગોળીબારમાં ગોળીબાર કરનાર કોલ એલને ડોનાલ્ડ ટ્રમ્પની ટીમને નિશાન બનાવી હતી પરંતુ એફબીઆઈ ડિરેક્ટર કાશ પટેલને બચાવી લીધો હતો. શું આ પાછળ પટેલની હિન્દુ ઓળખ કારણભૂત હતી કે કોઈ ચોક્કસ રણનીતિ હતી? જાણો સમગ્ર વાત",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/was-there-a-plan-to-kill-trump-entire-team-except-for-kash-patel-did-the-fbi-chief-survive-because-he-was-a-hindu-475310 ",
-    "time": "2026-04-28T10:52:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રોમાન્ટિક ફિલ્મો ગમતી હોય તો આજે જ જુઓ નેટફ્લિક્સની આ ફિલ્મ, ઓટીટી પર છવાઈ ગઈ શશાંક-રોશનીની લવસ્ટોરી",
     "desc": "જે લોકોને રોમાન્ટિક ડ્રામા ફિલ્મો જોવી પસંદ હોય તેમણે એકવાર નેટફ્લિક્સ પર રિલીઝ થયેલી આ ફિલ્મ જોવી જોઈએ. શશાંક અને રોશનીની ક્યુટ લવસ્ટોરી તમને પણ ગમી જશે. આ ફિલ્મ ઓટીટી પર રિલીઝ થયાની સાથે જ ટ્રેડિંગ લીસ્ટમાં આવી ગઈ છે.",
@@ -610,15 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/thalapathy-vijay-jana-nayagan-film-release-date-latest-update-475116 ",
     "time": "2026-04-27T12:49:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "તમારો Jio નંબર પણ થઈ શકે છે બંધ! આ છે સિમને એક્ટિવ રાખવાનો સૌથી સસ્તો રિચાર્જ પ્લાન",
-    "desc": "લાંબા સમયથી રિચાર્જ ન કરાયેલા સિમ કાર્ડને Jio ડિએક્ટિવેટ કરી રહ્યું છે. જો તમારી પાસે સેકન્ડરી Jio સિમ છે, તો તમારે જાણવું જોઈએ કે તમે કયા સસ્તા પ્લાન ખરીદી શકો છો જેથી તે એક્ટિવ રહે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/your-jio-number-may-also-be-deactivated-this-is-the-cheapest-recharge-plan-to-keep-the-sim-active-475097 ",
-    "time": "2026-04-27T10:14:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/vipul-shah-film-kerala-story-2-ott-release-date-watch-kerala-story-2-on-zee5-474633 ",
     "time": "2026-04-24T11:07:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ભૂત બંગલા ફિલ્મનું બજેટ વસુલ, હવે ફિલ્મની કમાઈ રહી છે નફો, 7 દિવસમાં ફિલ્મ 130 કરોડને પાર",
-    "desc": "14 વર્ષ પછી અક્ષય કુમાર અને પ્રિયદર્શનની જોડી જમાવતી ફિલ્મ ભૂત બંગલા રિલીઝ થઈ છે. આ ફિલ્મ રિલીઝ થઈ તેને 7 દિવસ થયા છે અને હવે ફિલ્મ જે કમાણી કરી રહી છે તે નફો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-film-bhoot-bangla-box-office-collection-latest-news-in-gujarati-474593 ",
-    "time": "2026-04-24T06:55:43.000Z"
   }
 ];

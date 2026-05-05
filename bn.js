@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "হস্টেলের ৯ তলা থেকে মরণঝাঁপ IIIT-ছাত্রের; কেন নিভল শ্রেয়সের জীবনদীপ?",
+    "desc": "পুলিসসূত্রে জানা গিয়েছে, মৃত ছাত্র কম্পিউটার সায়েন্সের ছাত্র ছিলেন। গভীর রাতে নাগপুর IIIT হস্টেলের ৯ তলা থেকে তাঁকে নীচে পড়ে থাকতে দেখেন নিরাপত্তারক্ষীরা। তড়িঘড়ি তাঁকে উদ্ধার করে নিকটস্থ হাসপাতালে নিয়ে যাওয়া হলে চিকিৎসকরা তাঁকে মৃত বলে ঘোষণা করেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/nagpur-iiit-student-jumps-to-death-from-9th-floor-of-hostel-over-exam-stress_652704.html ",
+    "time": "2026-05-05T15:02:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "টলিউডেও ‘পরিবর্তন’: আচমকাই ইম্পা-র দখল নিল বিজেপি, পিয়া সেনগুপ্তকে ঘিরে তুঙ্গে বিক্ষোভ",
+    "desc": "২০২৬-এর বিধানসভা নির্বাচনে রাজ্যে ক্ষমতার পালাবদলের রেশ এবার আছড়ে পড়ল টলিউডের স্টুডিও পাড়ায়। দীর্ঘদিনের রাজনৈতিক সমীকরণ বদলে যাওয়ার ২৪ ঘণ্টার মধ্যেই কার্যত উত্তাল হয়ে উঠল ইস্টার্ন ইন্ডিয়া মোশন পিকচার্স অ্যাসোসিয়েশন বা ইম্পা-র সদর দপ্তর। একদিকে ‘পদ্ম’ শিবিরের জয়জয়কার, অন্যদিকে ইম্পা সভাপতি পিয়া সেনগুপ্তকে ঘিরে বিক্ষোভ ও ‘শুদ্ধিকরণ’—সব মিলিয়ে বাংলা চলচ্চিত্র জগতের ক্ষমতার অলিন্দে এখন টালমাটাল পরিস্থিতি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-political-shift-eimpa-protest-piya-sengupta-bjp-victory_652701.html ",
+    "time": "2026-05-05T14:27:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "টলিউডের ক্ষমতার অলিন্দে বড় রদবদল? রুদ্রনীল-প্রসেনজিৎ ফোনালাপ নিয়ে মুখ খুললেন 'ইন্ডাস্ট্রি'",
+    "desc": "রাজ্যের রাজনৈতিক পালাবদলের হাওয়ায় উত্তাল টলিউড! রুদ্রনীল ঘোষকে ফোন করার খবর চাউর হতেই কড়া জবাব দিলেন সুপারস্টার প্রসেনজিৎ চট্টোপাধ্যায়। অভিনেতা সাফ জানালেন, “আমার গায়ে কোনো রাজনৈতিক রঙ লাগাবেন না।” ছোট ভাইয়ের আবদারে শুধু আশীর্বাদ করেছেন বড় দাদা হিসেবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/prosenjit-chatterjee-clarifies-political-rumors-rudranil-ghosh-phone-call_652699.html ",
+    "time": "2026-05-05T13:53:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "পানিহাটিতে জয়ী অভয়ার মা, 'প্রার্থনার জোর বাড়ল': আবেগঘন পোস্ট মিমি-অঙ্কুশ-শ্রুতি-সৌরভের",
+    "desc": "ব্যক্তিগত শোক আর ন্যায়বিচারের দাবিকে সঙ্গী করে পানিহাটিতে বাজিমাত করলেন রত্না দেবনাথ। তৃণমূল প্রার্থীকে পরাজিত করে বিধানসভায় পৌঁছলেন আরজি করের সেই নির্যাতিতা চিকিৎসকের মা। রত্না দেবীর এই জয়ে আবেগপ্রবণ টলিপাড়া— শ্রুতি দাসের প্রণাম থেকে মিমির শুভেচ্ছাবার্তা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/ratna-debnath-wins-panihati-seat-mimi-chakraborty-shruti-das-ankush-hazra-saurav-das-reaction_652675.html ",
+    "time": "2026-05-05T11:13:53.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'জেলে মুখ খুললে তোমার পরিবারকে শেষ করে দেব', রাজ্যে পালাবদল ঘটতেই মেসিকাণ্ডে বিস্ফোরক শতদ্রু",
     "desc": "\"সবকিছুর হিসেব হবে, সময় এসেছে!\" মেসির কলকাতা সফর ঘিরে যে বিতর্ক তৈরি হয়েছিল, রাজ্যে রাজনৈতিক পটপরিবর্তনের পর তা নিয়ে মুখ খুললেন আয়োজক শতদ্রু দত্ত। ৩৮ দিনের জেল খাটনি থেকে শুরু করে ইভেন্ট ভেস্তে দেওয়ার নেপথ্যে থাকা ‘দাদাগিরি’— সব নিয়ে এবার একশো কোটির মামলার হুঁশিয়ারি দিলেন তিনি। প্রাক্তন ক্রীড়ামন্ত্রীর বিরুদ্ধে ষড়যন্ত্রের অভিযোগ তুলে শতদ্রুর বার্তা— \"সব হিসেব দিতে হবে।\"",
@@ -81,15 +117,6 @@ const newsData_bn = [
     "time": "2026-05-01T14:48:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "প্যান্টের ভিতরে ঢুকে পা জড়িয়ে উপরে ওঠে কোবরা, দেয় ভয়ংকর ছোবল, পুরুষাঙ্গে? সাপুড়ের ভয়াল খেলা",
     "desc": "পর্যটকের শরীরে বিষক্রিয়ার স্পষ্ট লক্ষণ। তাঁর হৃদরোগে আক্রান্ত হওয়ার মতো অবস্থা হয়। তাঁকে দ্রুত হাসপাতালে নিয়ে যাওয়ার ব্যবস্থা হয়। তার আগে কৃত্রিম উপায়ে শ্বাস-প্রশ্বাস সচল করার চেষ্টাও করা হয়। কিন্তু শেষ পর্যন্ত কিছুই কাজে এল না!",
@@ -133,41 +160,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tmc-election-campaign-parambrata-chatterjee-june-maliah-ujjwal-biswas_650678.html ",
     "time": "2026-04-25T13:02:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অকালে থামল হাসির ঝড়, মাত্র ৫০ বছর বয়সে প্রয়াত প্রখ্যাত কমেডিয়ান রাজ: চোখে জল বীর দাসের",
-    "desc": "জনপ্রিয় কমেডিয়ান রাজ শর্মা আর নেই। মাত্র ৫০ বছর বয়সেই নিভে গেল তাঁর জীবনপ্রদীপ। বীর দাস থেকে অতুল খাত্রী— সহকর্মীদের স্মৃতিচারণায় উঠে এল রাজের অসাধারণ প্রতিভার কথা। মঞ্চে তাঁর সেই জাদুকরী উপস্থিতি মিস করবে অগণিত ভক্ত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/popular-comedian-raj-sharma-passed-away-tribute-by-vir-das_650648.html ",
-    "time": "2026-04-25T10:30:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "প্রচারের মাঝে হরলিক্স খাওয়ার আজব আবদার মহিলার: 'বাচ্চাদের খাওয়ান', সোহমের কাণ্ডে নেটপাড়ায় শোরগোল",
-    "desc": "সেই চেনা সংলাপ, আর সেই চেনা 'হরলিক্স বয়'! করিমপুরে প্রচারের মাঝে সোহম চক্রবর্তীর কাছে হরলিক্স খাওয়ার আবদার করলেন এক মহিলা ভক্ত। ৪ দশক পার হলেও 'মাস্টার বিট্টু'র ক্রেজ যে একফোঁটাও কমেনি, তার প্রমাণ মিলল নদীয়ায়। তারকা প্রার্থীর প্রচার ভাইরাল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/soham-chakraborty-karimpur-election-campaign-horlicks-viral-video_650595.html ",
-    "time": "2026-04-25T08:12:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "বাড়ি জুড়ে কিলবিল করে ঘুরে বেড়াচ্ছে ৬০,০০০ বিষধর সাপ! বেচে কোটি কোটি টাকা আয়",
-    "desc": "এঁর বাড়ি জুড়ে ঘুরে বেড়াচ্ছে ৬০,০০০ বিষধর সাপ! এঁর প্রয়োজন এই সব পোষ্য সাপের ছাল-চামড়া মাংসও; কেন? ব্যবসা। বিষধর এই সব ভয়ংকর সাপ পুষেই বছরে তাঁর প্রায় ১ কোটি ৪০ লক্ষ টাকা আয়! অত্যন্ত বিষধর প্রজাতির পিট ভাইপার ‘ফাইভ স্টেপ স্নেক’ এবং প্রায় ১০,০০০ গোখরো রয়েছে তরুণীর খামারে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/60000-venomous-snakes-china-woman-raise-snakes-and-earns-rs-1-point-35-crore-annually_650375.html ",
-    "time": "2026-04-24T05:56:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
