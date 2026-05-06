@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Batting mights SRH-PBKS collide as race to the IPL 2026 playoffs heats up",
+    "desc": "It's time for two batting powerhouses, Sunrisers Hyderabad and Punjab Kings, to face each other as the race to the IPL 2026 playoffs has heated up more than ever before. Following Chennai Super Kings' win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/batting-mights-srh-pbks-collide-as-race-to-the-ipl-2026-playoffs-heats-up-2026-05-06-1040115",
+    "time": "2026-05-06T10:26:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-Head record ahead of game 49 in IPL 2026",
+    "desc": "The stage is set for the 49th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will be taking on Punjab Kings at the Rajiv Gandhi International Stadium in Hyderabad on May 6th....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-pbks-head-to-head-record-ahead-of-game-49-in-ipl-2026-2026-05-06-1040107",
+    "time": "2026-05-06T09:16:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Casemiro backs Michael Carrick to become Manchester United's permanent manager ahead of new season",
+    "desc": "Manchester United have had a roller coaster season in the Premier League this year. They began the season with Ruben Amorim in charge, and while they did win some games, the struggle was clear. Amorim...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/casemiro-backs-michael-carrick-to-become-manchester-united-s-permanent-manager-ahead-of-new-season-2026-05-06-1040098",
+    "time": "2026-05-06T08:14:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 playoffs schedule announced; Ahmedabad to host summit clash",
+    "desc": "The IPL (Indian Premier League) 2026 is moving towards its final stages. The race for the playoffs is heating up, and the top four are beginning to take shape. However, no side has yet secured...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-playoffs-schedule-announced-ahmedabad-to-host-summit-clash-2026-05-06-1040090",
+    "time": "2026-05-06T07:01:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Rajiv Gandhi International Stadium in Hyderabad play?",
+    "desc": "The stage is set for the 49th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will be taking on Punjab Kings in the Rajiv Gandhi International Stadium in Hyderabad on May 6th....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-pbks-pitch-report-how-will-surface-at-rajiv-gandhi-international-stadium-in-hyderabad-play-2026-05-06-1040083",
+    "time": "2026-05-06T06:13:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Poetry to the eyes': Former India cricketer hails Sanju Samson for carrying Chennai Super Kings in IPL 2026",
     "desc": "Sanju Samson was the star of the show for Chennai Super Kings as they breezed past Delhi Capitals in the 48th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-joins-virat-kohli-chris-gayle-in-elite-list-with-masterclass-knock-against-delhi-capitals-2026-05-06-1040044",
     "time": "2026-05-06T01:30:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK's path to IPL 2026 playoffs cleared? How can five-time champions reach knockouts after DC win?",
-    "desc": "Chennai Super Kings registered their second consecutive win and third in their last four matches after beating Delhi Capitals at the Arun Jaitley Stadium on Tuesday, May 5. On a tricky Delhi pitch, the Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csks-path-to-ipl-2026-playoffs-cleared-how-can-five-time-champions-reach-knockouts-after-dc-win-2026-05-05-1040035",
-    "time": "2026-05-05T17:40:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samson's masterclass, Kartik's second fiddle take CSK home on tacky Delhi surface, boosts playoffs hopes",
-    "desc": "Sanju Samson put up a batting masterclass, while Kartik Sharma played another strong knock as Chennai Super Kings defeated the Delhi Capitals in the 48th match of the Indian Premier League 2026 on Tuesday, May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/samsons-masterclass-kartiks-second-fiddle-take-csk-home-on-tacky-delhi-surface-boosts-playoffs-hopes-2026-05-05-1040033",
-    "time": "2026-05-05T17:33:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Bengaluru's M.Chinnaswamy Stadium lose hosting IPL 2026 final? Report makes big claim",
-    "desc": "Bengaluru's M.Chinnaswamy Stadium is risking of losing the Indian Premier League 2026 final due to the MLA ticketing issue that had recently stirred a controversy. The Board of Control for Cricket in India (BCCI) is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-bengalurus-m-chinnaswamy-stadium-lose-hosting-ipl-2026-final-report-makes-big-claim-2026-05-05-1040031",
-    "time": "2026-05-05T16:47:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka calls for Slams boycott if revenue share does not increase",
-    "desc": "World No.1 tennis star Aryna Sabalenka has called out that players should boycott Grand Slams if they don't receive a greater share in revenues. Sabalenka were among the top-ranked players - including Jannik Sinner -...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aryna-sabalenka-calls-for-slams-boycott-if-revenue-share-does-not-increase-2026-05-05-1040024",
-    "time": "2026-05-05T15:24:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where is MS Dhoni? Is CSK legend playing in IPL 2026 clash against DC in Delhi?",
-    "desc": "Chennai Super Kings legend MS Dhoni missed out yet again as his team takes on Delhi Capitals in the 48th match of the Indian Premier League 2026 at the Arun Jaitley Stadium. Dhoni has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-is-ms-dhoni-is-csk-legend-playing-in-ipl-2026-clash-against-dc-in-delhi-2026-05-05-1040015",
-    "time": "2026-05-05T13:45:57.000Z"
   }
 ];

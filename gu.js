@@ -1,5 +1,104 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "પેટ્રોલ, LPG મુદ્દે હવે રહેશે શાંતિ! હોર્મુઝ સંકટ પર આવ્યા સૌથી મોટા સમાચાર",
+    "desc": "પેટ્રોલ-ડીઝલ, LPGના ભાવ વધારાનું સંકટ તોળાઈ રહ્યું હતું તેમાં હવે કદાચ શાંતિ મળી શકે છે કારણ કે હોર્મુઝ સ્ટ્રેટ પર એક સારા સમાચાર આવ્યા છે. ઈરાન અને અમેરિકા મોટી ડીલની નજીક પહોંચ્યા હોવાનું સૂત્રોના હવાલે જાણવા મળી રહ્યું છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-us-war-big-update-middle-east-conflict-america-iran-deal-update-one-pae-mou-hormuz-news-476754 ",
+    "time": "2026-05-06T10:52:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દીદીને હટાવવા માટે બંગાળમાં લગાવવામાં આવશે રાષ્ટ્રપતિ શાસન? જાણો કાયદો શું કહે છે?",
+    "desc": "2026ની પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણીમાં ભાજપ દ્વારા કારમી હારનો સામનો કરવો પડ્યો હોવા છતાં, મમતા બેનર્જી હાર સ્વીકારવા તૈયાર નથી. ત્યારે હવે એ સવાલ ઉભો થઈ રહ્યો છે કે શું બંગાળમાં રાષ્ટ્રપતિ શાસન લગાવીને મમતા બેનર્જીને સત્તા પરથી દૂર કરવામાં આવશે કે બિજી કોઈ રીત અપનાવવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/will-presidents-rule-be-imposed-in-bengal-to-remove-mamata-banerjee-know-the-rules-476753 ",
+    "time": "2026-05-06T10:48:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું હવે દર 10 વર્ષે નહીં પરંતુ 5 વર્ષે વધશે પગાર? સરકારી કર્મચારીઓને તો થઈ જશે બખ્ખે બખ્ખા!",
+    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ આઠમાં પગાર પંચની ભલામણો આવે અને તેના લાગૂ થવાની આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે. આ દરમિયાન અનેક અપડેટ્સ પણ આવતી રહે છે. કર્મચારી સંગઠનો તરફથી એક એવી માંગણી કરવામાં આવી છે કે જો તે સરકાર દ્વારા સ્વીકારવામાં આવે સરકારી કર્મચારીઓને બખ્ખે બખ્ખા થઈ શકે છે. જાણો એવી તે કઈ માંગણી કરાઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/employee-unions-demand-5-years-tenure-of-pay-commission-instead-of-10-8th-cpc-news-476744 ",
+    "time": "2026-05-06T10:23:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આ દિગ્ગજ નેતા છે બંગાળના મુખ્યમંત્રી તરીકે ભાજપની હાઈ કમાનની પહેલી પસંદ!",
+    "desc": "પશ્ચિમ બંગાળમાં ભારતીય જનતા પાર્ટીએ પરચમ લહેરાવ્યો અને રાજ્યમાં 200થી વધુ સીટો મેળવી. હવે જે યક્ષ પ્રશ્ન છે તે એ છે કે આખરે રાજ્યના ભાજપની સરકારના મુખ્યમંત્રી કોણ? ત્યારે આ અંગે અનેક નામ પણ સામે આવી રહ્યા છે પરંતુ એક નામ સૌથી વધુ ચર્ચામાં છે. જે સૂત્રો મુજબ ભાજપ હાઈ કમાનને પણ પસંદ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-will-become-the-cm-of-west-bengal-according-to-sources-this-name-may-be-the-first-choice-476728 ",
+    "time": "2026-05-06T09:46:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "શા માટે ફિલ્મો IMDb પરનું રેટિંગ ફિલ્મો અને વેબ સીરીઝ માટે હોય મહત્વનું, જાણો IMDB રેટિંગ વિશે બધું જ",
+    "desc": "ફિલ્મ કે વેબ સીરીઝ જોતા પહેલા લોકો તેનું આઈએમડીબી રેટિંગ ચેક કરે છે. જો રેટિંગ સારું હોય તો જ ફિલ્મ જોવા જેવી છે એવું માનવામાં આવે છે. પરંતુ શું તમે આ રેટિંગ સિસ્ટમ શું છે અને તેનું આટલું મહત્વ શા માટે છે જાણો છો ? ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/what-is-imdb-full-form-of-imdb-why-imdb-rating-importance-for-film-and-web-series-476731 ",
+    "time": "2026-05-06T09:44:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPLમાં 3,495 બોલ ફેંક્યા છતાં ક્યારેય નથી ફેંક્યો નો-બોલ, આ ભારતીય બોલરના નામે અનોખો રેકોર્ડ",
+    "desc": "IPL જેવી ટુર્નામેન્ટમાં દબાણ હેઠળ પોતાની લાઇન અને લેન્થ જાળવી રાખવી એ એક અસાધારણ બોલરની ઓળખ છે. પોતાની શિસ્તબદ્ધ બોલિંગ દ્વારા એક ભારતીય બોલરે IPLમાં એક અનોખો રેકોર્ડ બનાવ્યો છે, તેણે અત્યાર સુધી તેની કારકિર્દી દરમિયાન એક પણ નો-બોલ ફેંક્યો નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/indian-bowler-axar-patel-never-bowled-a-no-ball-in-ipl-history-476732 ",
+    "time": "2026-05-06T09:40:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "આ સ્માર્ટફોનમાં 8 સપ્ટેમ્બરથી નહીં ચાલે WhatsApp, ચેક કરી લો તમારો ફોન તો નથીને આ લિસ્ટમાં",
+    "desc": "WhatsApp યુઝર્સ માટે એક મહત્વપૂર્ણ સમાચાર છે. 8 સપ્ટેમ્બર, 2026થી Android 6.0 વર્ઝનથી નીચેના જૂના સ્માર્ટફોન પર WhatsApp કામ કરવાનું બંધ કરશે. આ નિર્ણયથી લાખો યુઝર્સ પ્રભાવિત થશે. જો તેઓ તેમના ડિવાઈસ પર WhatsAppનો ઉપયોગ ચાલુ રાખવા માંગતા હોય, તો તેમને કાં તો તેમના મોબાઇલ ફોન બદલવા પડશે અથવા તેમની ઓપરેટિંગ સિસ્ટમ અપડેટ કરવાની જરૂર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-shutdown-app-stop-working-on-older-android-phones-from-september-476727 ",
+    "time": "2026-05-06T08:54:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનાના ભાવમાં એકાએક તોતિંગ વધારો, ચાંદી પણ જોરદાર ઉછળી, જાણો કારણ અને આજનો ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવ પર વૈશ્વિક પરિબળો પણ ખુબ અસર કરે છે. આજે ગ્લોબલ બજારોમાં સોના અને ચાંદીમાં સારી એવી તેજી જોવા મળી. આ સાથે ઘરેલુ બજારમાં પણ બંને કિમતી ધાતુઓ ઉછળી છે. અચાનક તેજી આવવાનું કારણ અને આજના લેટેસ્ટ લેટ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-prices-increased-silver-also-rose-sharply-aaj-no-sona-chandi-no-bhav-latest-gold-rate-476722 ",
+    "time": "2026-05-06T08:38:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અફઘાનિસ્તાન સામેની સિરીઝમાં આવી હશે ટીમ ઈન્ડિયા, જાણો ટેસ્ટ અને વનડેમાં કોને મળશે તક",
+    "desc": "IPL આ મહિનાના અંતમાં સમાપ્ત થશે. જે બાદ ટીમ ઈન્ડિયા જૂન 2026માં ઘરઆંગણે અફઘાનિસ્તાન સામે ટેસ્ટ અને વન ડે સિરીઝ રમશે. ત્યારે આ સિરીઝમાં કયા ખેલાડીઓને ટેસ્ટ અને વનડેમાં તક મળશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-predicted-squad-for-test-and-odi-series-against-afghanistan-476721 ",
+    "time": "2026-05-06T08:13:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026ની ફાઇનલ અમદાવાદમાં રમાશે, બેંગલુરુને મોટો ઝટકો... જાણો કેમ બદલાયું વેન્યૂ",
+    "desc": "IPL 2026ના પ્લેઓફના વેન્યૂ અંગે એક મોટો ફેરફાર સામે આવ્યો છે. ફાઇનલ હવે અમદાવાદમાં યોજાશે, જ્યારે ક્વોલિફાયર 1 ધર્મશાળામાં અને એલિમિનેટર અને ક્વોલિફાયર 2 ચંદીગઢમાં યોજાશે. નિયમો અનુસાર, ફાઇનલ બેંગલુરુમાં યોજાવાની હતી. જો કે, ટિકિટ વિતરણના વિવાદને કારણે BCCIએ યોજનામાં ફેરફાર કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ahmedabad-to-host-ipl-2026-final-on-may-31-ipl-playoffs-venues-change-476710 ",
+    "time": "2026-05-06T07:55:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સંજુ સેમસને રચ્યો ઇતિહાસ... IPLમાં આ સિદ્ધિ મેળવનાર બન્યો વિશ્વનો પ્રથમ ક્રિકેટર",
+    "desc": "ચેન્નાઈ સુપર કિંગ્સના વિકેટકીપર-બેટ્સમેન સંજુ સેમસને IPLમાં ઇતિહાસ રચ્યો છે, આ સિદ્ધિ મેળવનાર વિશ્વનો પ્રથમ ક્રિકેટર બન્યો છે. સંજુ સેમસન IPL ટુર્નામેન્ટની એક જ સીઝનમાં દિલ્હી કેપિટલ્સ સામે બે વાર 100 રનથી વધુની પાર્ટનરશીપ કરનાર વિશ્વનો પ્રથમ બેટ્સમેન બન્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/sanju-samson-becoming-first-batter-to-be-involved-in-two-century-partnerships-against-dc-in-same-ipl-season-476699 ",
+    "time": "2026-05-06T06:05:01.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "&amp;#039;નસીબમાં હોય તે કોઈ છીનવી શકે નહી&amp;#039;...SIRમાં નામ કપાઈ ગયું, છતાં બન્યા વિધાયક",
     "desc": "પશ્ચિમ બંગાળની વિધાનસભા ચૂંટણીના પરિણામો આવી ગયા અને એક્ઝિટ પોલ મુજબ જ રાજ્યમાં હવે ભાજપની સરકાર બનવા જઈ રહી છે. આ વખતે બંગાળ ચૂંટણીમાં અનેક વિક્રમો સર્જાયા. જેમાં એક નામ કોંગ્રેસના ઉમેદવાર મોતાબા શેખનું પણ છે. ખાસ જાણો વિગતો.",
@@ -178,15 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/a-young-man-was-murdered-in-a-filmy-style-in-solapur-game-was-over-within-hours-of-posting-the-status-476511 ",
     "time": "2026-05-05T04:13:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "એક વોટ કી કિંમત તુમ ક્યા જાનો? મંત્રીજી માત્ર એક મતથી ચૂંટણી હારી ગયા",
-    "desc": "તમિલનાડુમાં સત્તાધારી ડીએમકેએ સજ્જડ હારનો સામનો કરવો પડ્યો છે કારણ કે નવી આવેલી વિજયની ટીવીકે પાર્ટીએ જોરદાર પ્રદર્શન કરતા તેમને સત્તામાંથી બેદખલ કરી નાખ્યા છે. ટીવીકેના એક ઉમેદવારની જીત ખુબ ચર્ચામાં છે કારણ કે તેમણે રાજ્યના સહકારિતા મંત્રીને માત્ર એક મતથી હરાવ્યા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/tamilnadu-assembly-election-results-minister-periyakaruppan-lost-the-election-by-just-one-vote-476503 ",
-    "time": "2026-05-05T03:35:58.000Z"
   },
   {
     "cat": "Business",
@@ -414,15 +504,6 @@ const newsData_gu = [
     "time": "2026-05-02T10:36:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અસંભવ રેકોર્ડ ! એક જ ઓવરમાં ફિફ્ટી... 8 સિક્સ અને 5 ફોર સાથે આ ખતરનાક બેટ્સમેને કર્યો કમાલ",
-    "desc": "વિશ્વમાં એક એવો ખતરનાક બેટ્સમેન છે જેણે એક સમયે ક્રિકેટના મેદાન પર એટલી બધી તબાહી મચાવી દીધી હતી કે વિરોધી બોલરો દયાની ભીખ માંગતા જોવા મળતા હતા. એક મેચમાં આ બેટ્સમેને એક જ ઓવરમાં અડધી સદી ફટકારી હતી. ત્યારે આ બેટ્સમેન કોણ છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/cricket-record-lee-german-scored-50-plus-runs-in-single-over-in-first-class-cricket-475982 ",
-    "time": "2026-05-02T09:24:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "મે મહિનાના ફર્સ્ટ વીકેન્ડ પર ઓટીટી પર જોવા માટે છે ઘણું બધું નવું, ચેક કરી લો લીસ્ટ",
     "desc": "મે મહિનાની શરુઆત ઓટીટી માટે ધમાકેદાર રહી છે. કારણ કે મે મહિનાના પહેલા વીકેન્ડમાં ઓટીટી પર નાના-મોટા સૌ કોઈ માટે ફિલ્મો અને સીરીઝ રિલીઝ થઈ છે. આ વીકેન્ડમાં કયા ઓટીટી પ્લેટફોર્મ પર શું નવું છે ફટાફટ જાણી લો.",
@@ -441,15 +522,6 @@ const newsData_gu = [
     "time": "2026-05-02T07:33:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "કાયલ જેમીસનને વૈભવ સૂર્યવંશી સામે આ હરકત કરવી પડી મોંઘી, BCCIએ ફટકારી સજા",
-    "desc": "IPL 2026માં રાજસ્થાન રોયલ્સ સામેની મેચ દરમિયાન દિલ્હી કેપિટલ્સના ફાસ્ટ બોલર કાયલ જેમિસનને આચારસંહિતાના ભંગ બદલ ડિમેરિટ પોઈન્ટ અને વોર્નિંગ આપવામાં આવી હતી. વૈભવ સૂર્યવંશીને આઉટ કર્યા પછી તેણે આક્રમક સેલિબ્રેશન કર્યું હતું. આ ઘટનાનો એક વીડિયો સોશિયલ મીડિયા પર વાયરલ થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-action-against-kyle-jamieson-for-aggressive-send-off-to-vaibhav-sooryavanshi-475946 ",
-    "time": "2026-05-02T06:50:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કપિલ શર્માના શોનો સમય રૈના અને રણવીર ઈલાહાબાદિયાનો એપિસોડ સ્ટ્રીમ કરવા પાછળ છે ખાસ કારણ, જાણો તમે પણ",
     "desc": "સમય રૈના અને રણવીર ઈલાહાબાદિયાએ એક વર્ષે પહેલા એક એપિસોડ સાથે કર્યો હતો અને દેશભરમાં હોબાળો મચી ગયો હતો. વિવાદ અને પોલીસ કેસ બાદ પહેલીવાર આ બંને ફરી એકવાર સાથે જોવા મળશે કપિલ શર્માના શોમાં. આ એપિસોડ ધમાકેદાર હશે તેવું લાગી રહ્યું છે.",
@@ -457,24 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kapil-sharma-show-special-episode-on-netflix-with-ranveer-allahbadia-and-samay-raina-475945 ",
     "time": "2026-05-02T06:37:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "225 રન બનાવ્યા છતાં કેમ હાર્યું રાજસ્થાન રોયલ્સ ? જાણો કેપ્ટન રિયાન પરાગે કોને ગણાવ્યો હારનો જવાબદાર",
-    "desc": "રાજસ્થાન રોયલ્સે કુલ 225 રન બનાવવા છતાં દિલ્હી કેપિટલ્સ સામે હારનો સામનો કરવો પડ્યો. કેએલ રાહુલ દિલ્હીની જીતનો હીરો સાબિત થયો હતો. ત્યારે દિલ્હી સામે હાર બાદ રાજસ્થાનના કેપ્ટન રિયાન પરાગનું નિવેદન સામે આવ્યું છે, જેમાં તેણે હારના કારણો જણાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-who-did-captain-riyan-parag-blame-for-the-rr-defeat-against-delhi-capitals-475942 ",
-    "time": "2026-05-02T06:11:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ક્રૂડ ઓઈલ ઉછળે તો સોનું કેમ ધડામ થાય છે? હાઈથી સોનું 29000 અને ચાંદી 1.69 લાખ સસ્તી, જાણો લેટેસ્ટ રેટ",
-    "desc": "સોનું અને ચાંદી આ સપ્તાહે કડાકા સાથે જોવા મળ્યા. આ સપ્તાહમાં ક્રૂડ ઓઈલના ભાવમાં પણ વધારો જોવા મળ્યો. જ્યારે ક્રૂડના ભાવમાં ઉછાળો જોવા મળે છે ત્યારે સોનું અને ચાંદી પછડાય છે. સપ્તાહ દરમિયાન શું મૂવમેન્ટ જોવા મળી એ પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/why-does-the-price-of-gold-fall-if-crude-oil-prices-rise-what-is-the-connection-check-latest-rates-475940 ",
-    "time": "2026-05-02T06:06:02.000Z"
   },
   {
     "cat": "World",
@@ -493,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/riteish-deshmukh-film-raja-shivaji-review-and-first-day-box-office-collection-in-gujarati-475904 ",
     "time": "2026-05-02T03:04:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોહલીને આઉટ કર્યા પછી રબાડાએ ગુસ્સામાં આપ્યું આવુ રિએક્શન, શું તેના પર બેન લગાવશે BCCI? જાણો નિયમો",
-    "desc": "ગુજરાત ટાઇટન્સ (GT)ના સ્ટાર ફાસ્ટ બોલર કાગીસો રબાડાએ રોયલ ચેલેન્જર્સ બેંગ્લોર (RCB) સામે 4 ઓવરમાં 44 રન આપીને 1 વિકેટ લીધી હતી. આ મેચ દરમિયાન કાગીસો રબાડાએ વિરાટ કોહલીને આઉટ કર્યો હતો. વિરાટ કોહલીએ 13 બોલમાં 28 રનની ઇનિંગ રમી હતી. વિરાટ કોહલીએ 215.38 ના સ્ટ્રાઇક રેટથી બેટિંગ કરી હતી, જેમાં 5 ચોગ્ગા અને 1 છગ્ગો ફટકાર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rabada-reacted-angrily-after-dismissing-kohli-will-bcci-ban-him-know-the-rules-475890 ",
-    "time": "2026-05-01T16:18:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -559,30 +604,12 @@ const newsData_gu = [
   },
   {
     "cat": "World",
-    "title": "સાઉદી-UAEએ હોર્મુઝનો તોડ કોઢી લીધો! હવે આ રીતે ભારત સુધી પહોંચે છે ક્રૂડ ઓઈલ",
-    "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થતા ભારત માટે ઓઈલ અને ગેસના પુરવઠાને ખાડી દેશોમાંથી લાવવો મુશ્કેલ બન્યો. જો કે સાઉદી અરબ અને યુએઈએ તેના માટે તોડ કાઢ્યો અને હવે બંને દેશોનો ક્રૂડ ઓઈલ પુરવઠો સરળતાથી ભારત આવી રહ્યો છે. જાણો કઈ રીતે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/saudi-arabia-uae-now-find-a-new-route-to-deliver-crude-oil-to-india-news-in-gujarati-475476 ",
-    "time": "2026-04-30T04:33:17.000Z"
-  },
-  {
-    "cat": "World",
     "title": "વીઝા નિયમોનું ટેન્શન ખતમ! યુરોપના આ 5 દેશો આપી રહ્યા છે અભ્યાસ પછી રહેવાની અને નોકરી શોધવાની છૂટ; જાણો",
     "desc": "અમેરિકા અને કેનેડાના કડક નિયમો વચ્ચે જર્મની, નેધરલેન્ડ અને સ્વીડન જેવા યુરોપિયન દેશો ભારતીય વિદ્યાર્થીઓ માટે બેસ્ટ ઓપ્શન તરીકે ઉભરી આવ્યા છે. આ દેશો અભ્યાસ પૂર્ણ થયા પછી વિદ્યાર્થીઓને 18 મહિના સુધીનો જોબ સીકર વીઝા આપે છે, જેનાથી ત્યાં કરિયર બનાવવું ઘણું સરળ બની ગયું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/visa-rules-tension-is-over-these-5-european-countries-are-giving-permission-to-stay-and-find-a-job-after-studies-know-475565 ",
     "time": "2026-04-29T18:07:04.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "નવી કાર ખરીદવી હોય તો સારા સમાચાર, ટાટાના મોડલ પર મળશે 3.50 લાખ સુધીનું બમ્પર ડિસ્કાઉન્ટ",
-    "desc": "ટાટા મોટર્સે એપ્રિલમાં પોતાની કારો પર શાનદાર ઓફર રજૂ કરી છે. જેમાં ગ્રાહક વિવિધ મોડલની ખરીદી પર 3.50 લાખ સુધીની બચત કરી શકે છે. આ છૂટ ઈવી અને પેટ્રોલ-ડીઝલ મોડલ્સ પર આપવામાં આવી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/a-bumper-offer-of-up-to-%E2%82%B93-50-lakh-is-available-on-tata-cars-475486 ",
-    "time": "2026-04-29T09:27:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -592,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/priyanka-chopras-connection-to-raghav-chadha-joining-bjp-navjot-kaur-sidhu-makes-a-big-claim-475473 ",
     "time": "2026-04-29T08:53:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "નહીં ખુલે સ્ટ્રેટ ઓફ હોર્મુઝ, ટ્રમ્પે બનાવી એક લાંબી અને ખતરનાક યોજના, ઈરાનની વધી રહી છે મુશ્કેલીઓ, જાણો",
-    "desc": "અમેરિકાએ હોર્મુઝ સ્ટ્રેટ પર નાકાબંધી લગાવી છે. અમેરિકા કહે છે કે જ્યાં સુધી ઈરાન કોઈ કરાર પર સંમત ન થાય ત્યાં સુધી તે નાકાબંધી હટાવશે નહીં. આ દરમિયાન, ઈરાન મક્કમ છે, અને આ કટોકટીને વધારી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/the-strait-of-hormuz-will-not-open-trump-has-made-a-long-and-dangerous-plan-irans-problems-are-increasing-know-475461 ",
-    "time": "2026-04-29T07:59:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -628,23 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/thalapathy-vijay-jana-nayagan-film-release-date-latest-update-475116 ",
     "time": "2026-04-27T12:49:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "હોરર કોમેડી જોવાના શોખીનો માટે મસ્ટ વોચ છે રકાસા ફિલ્મ, આ તારીખે ઓટીટી પર થશે રિલીઝ",
-    "desc": "ડરતાં ડરતાં હસવાના શોખીન એટલે કે હોરર કોમેડી ફિલ્મો જોવાના શોખીન લોકો માટે રકાસા ફિલ્મ મસ્ટ વોચ છે. આ ફિલ્મ ગણતરીના દિવસોમાં ઓટીટી પર રિલીઝ થશે. આ ફિલ્મ શા માટે જોવી જોઈએ ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-horror-comedy-film-rakasa-on-netflix-rakasa-film-story-and-rating-475032 ",
-    "time": "2026-04-27T02:51:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ક્યારેય સ્કૂલ નથી ગઈ આ બોલીવુડ અભિનેત્રી, મહેનતથી લખી સફળતાની કહાની, આજે છે સફળ એક્ટ્રસ",
-    "desc": "કેટરીના કૈફ બોલીવુડની ટોપ અભિનેત્રીઓમાં સામેલ છે, પરંતુ ખુબ ઓછા લોકો જાણે છે કે તે ક્યારેય શાળાએ ગઈ નથી. અલગ-અલગ દેશોમાં રહેવાને કારણે તેણે હોમસ્કૂલિંગ દ્વારા અભ્યાસ કર્યો અને નાની ઉંમરમાં મોડલિંગ શરૂ કર્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/katrina-kaif-never-went-to-school-took-up-homeschooling-became-a-top-heroine-of-bollywood-a-success-story-474901 ",
-    "time": "2026-04-26T07:20:27.000Z"
   }
 ];
