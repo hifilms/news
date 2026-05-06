@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "বিরাট খবর: এক হচ্ছে যাচ্ছে ৫০ বছরের পুরনো দুই শত্রু DMK-AIDMK? থালাপতি বিজয়কে আটকাতে তামিলনাড়ুর নতুন গেম",
+    "desc": "কংগ্রেসের এই ‘পিঠে ছুরি মারা’ আচরণে ডিএমকে নেতৃত্ব ক্ষুব্ধ। কানিমাঝি এনভিএন সোমু জানিয়েছেন যে, দুর্দিনেও ডিএমকে কংগ্রেসের পাশে ছিল, কিন্তু কংগ্রেসের এই সিদ্ধান্ত চরম বিশ্বাসঘাতকতা। ডিএমকে এখন চেষ্টা করছে অবশিষ্ট ছোট দলগুলোকে নিজেদের পক্ষে রেখে বিজয়ের সংখ্যাগরিষ্ঠতা আটকানোর।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/amid-tvk-thalapathy-surge-dmk-and-aiadmk-reportedly-hold-behind-the-scenes-talks_652895.html ",
+    "time": "2026-05-06T16:21:02.000Z"
+  },
+  {
     "cat": "World",
     "title": "বদলের বাংলাদেশ: মমতা সরতেই খুশির হাওয়া পদ্মাপারে, তিস্তার জল পেতে মরিয়া BNP-এর তারেক",
     "desc": "শুভেন্দু অধিকারীর নেতৃত্বে বিজেপি সরকার গঠন করতে চললেও, কিছু বিষয়ে ঢাকা এখনও সতর্ক। বিশেষ করে নির্বাচনী প্রচারে ‘অবৈধ অনুপ্রবেশ’ এবং ‘পুশ-ব্যাক’ নিয়ে বিজেপির যে কড়া অবস্থান ছিল, তা দ্বিপাক্ষিক সম্পর্কে কোনও নেতিবাচক প্রভাব ফেলে কি না, তা নিয়ে কূটনৈতিক মহলে আলোচনা চলছে।",
@@ -135,15 +144,6 @@ const newsData_bn = [
     "time": "2026-05-01T14:48:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "প্যান্টের ভিতরে ঢুকে পা জড়িয়ে উপরে ওঠে কোবরা, দেয় ভয়ংকর ছোবল, পুরুষাঙ্গে? সাপুড়ের ভয়াল খেলা",
     "desc": "পর্যটকের শরীরে বিষক্রিয়ার স্পষ্ট লক্ষণ। তাঁর হৃদরোগে আক্রান্ত হওয়ার মতো অবস্থা হয়। তাঁকে দ্রুত হাসপাতালে নিয়ে যাওয়ার ব্যবস্থা হয়। তার আগে কৃত্রিম উপায়ে শ্বাস-প্রশ্বাস সচল করার চেষ্টাও করা হয়। কিন্তু শেষ পর্যন্ত কিছুই কাজে এল না!",
@@ -160,23 +160,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/silent-killer-extreme-heat-700-percent-more-urban-poor-by-2050-world-bank-warns_651103.html ",
     "time": "2026-04-27T11:25:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ওরা তো চোখ দিয়েই ধর্ষণ করে: বিজেপি ছাড়তেই রেপ থ্রেট, 'মা-কেও ছাড়ল না' বিস্ফোরক রূপাঞ্জনা",
-    "desc": "রাজনৈতিক মতাদর্শ আলাদা হতে পারে, কিন্তু তার জন্য একজন নারীকে ধর্ষণের হুমকি? বিজেপি ছাড়তেই কদর্য আক্রমণের শিকার অভিনেত্রী রূপাঞ্জনা মিত্র। মা-কে নিয়েও করা হয়েছে কুৎসিত মন্তব্য। চুপ থাকলেন না অভিনেত্রীও, লাইভে এসে দিলেন কড়া জবাব। পশ্চিমবঙ্গকে মণিপুর বা উত্তরপ্রদেশ হতে দেবেন না বলে সাফ জানালেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rupanjana-mitra-receives-rape-threats-after-leaving-bjp-allegation-details_651080.html ",
-    "time": "2026-04-27T10:37:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

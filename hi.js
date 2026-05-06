@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "SRH dethrone PBKS from top of IPL 2026 points table as Connolly's hundred goes in vain",
+    "desc": "Sunrisers Hyderabad made Punjab Kings pay big for their fielding errors as the Pat Cummins-led side defeated Shreyas Iyer's team in the 49th match of the Indian Premier League 2026. SRH made a strong 235/4...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-dethrone-pbks-from-top-of-ipl-2026-points-table-as-connollys-hundred-goes-in-vain-2026-05-06-1040185",
+    "time": "2026-05-06T18:20:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI announces schedule for India Women, India A, and India U19 bilateral series",
+    "desc": "The Board of Control for Cricket in India (BCCI) announced the schedule and venues for the India senior women's teams, as well as India A and India U19. The Indian women's team will be playing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-schedule-for-india-women-india-a-and-india-u19-bilateral-series-2026-05-06-1040181",
+    "time": "2026-05-06T17:45:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bayern Munich vs PSG, Champions League semifinal live streaming: When and where to watch clash in India?",
     "desc": "After an action-packed first-leg semifinal at the Parc des Princes, Bayern Munich and Paris Saint-Germain are all set to lock horns against each other in the second leg at the Allianz Arena for a place...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/ministry-to-continue-ban-on-bilateral-sports-with-pakistan-multi-nation-events-exempted-2026-05-06-1040125",
     "time": "2026-05-06T11:12:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Batting mights SRH-PBKS collide as race to the IPL 2026 playoffs heats up",
-    "desc": "It's time for two batting powerhouses, Sunrisers Hyderabad and Punjab Kings, to face each other as the race to the IPL 2026 playoffs has heated up more than ever before. Following Chennai Super Kings' win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/batting-mights-srh-pbks-collide-as-race-to-the-ipl-2026-playoffs-heats-up-2026-05-06-1040115",
-    "time": "2026-05-06T10:26:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-Head record ahead of game 49 in IPL 2026",
-    "desc": "The stage is set for the 49th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will be taking on Punjab Kings at the Rajiv Gandhi International Stadium in Hyderabad on May 6th....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-pbks-head-to-head-record-ahead-of-game-49-in-ipl-2026-2026-05-06-1040107",
-    "time": "2026-05-06T09:16:17.000Z"
   }
 ];

@@ -1,12 +1,66 @@
 const newsData_en = [
   {
-    "cat": "Entertainment",
-    "title": "'Aap kaale ho': Dibyendu recalls facing racism in industry",
-    "desc": "Dibyendu Bhattacharya, who is known for his role in the Mirzapur series, recently spoke about racism in the film industry, calling it a deeply rooted problem that continues to impact casting decisions. In a recent interview, Dibyendu shared a personal experience to highlight how bias based on skin colour still exists. He revealed that he was replaced in an advertisement just days before the shoot because of his skin colour.",
-    "img": "https://static.toiimg.com/photo/msid-130862715,imgsize-51230.cms",
+    "cat": "Politics",
+    "title": "The roller-coaster relationship between the DMK and Congress finally derails",
+    "desc": "Whenever the two parties engaged in tough bargaining over seat-sharing—first in 2011, when the Congress insisted on being allotted 90 seats and eventually got over 60, and again in 2026, when negotiations reached a stage of brinkmanship—the alliance ended up losing elections",
+    "img": "https://th-i.thgim.com/public/incoming/h8l8dj/article70948004.ece/alternates/LANDSCAPE_1200/Stalin-Rahul-GGFLFS60JM.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-roller-coaster-relationship-between-the-dmk-and-congress-finally-derails/article70948003.ece",
+    "time": "2026-05-06T19:25:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Overseas scholarship forAdi Dravidar, tribal students",
+    "desc": "Candidates should have secured admission to a Master’s or a PhD programme at a foreign university ranked within the top 1000 as per QS World University Rankings, and their annual family income should not exceed ₹12 lakh",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/overseas-scholarship-foradi-dravidar-tribal-students/article70947594.ece",
+    "time": "2026-05-06T19:20:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "In disbelief! Chahal's reaction to dropped catches goes viral",
+    "desc": "Yuzvendra Chahal endured a frustrating night as Punjab Kings dropped multiple catches off his bowling during the loss to Sunrisers Hyderabad. SRH batters Heinrich Klaasen and Ishan Kishan capitalised on the missed chances to help post 235 runs. Chahal now has six dropped catches off his bowling this IPL season, the most for any bowler in IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130867929,imgsize-35984.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aapko-replace-kiya-kyunki-aap-kaale-ho-mirzapur-actor-dibyendu-bhattacharya-recalls-facing-racism-in-industry/articleshow/130862631.cms",
-    "time": "2026-05-06T16:14:40.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-in-disbelief-yuzvendra-chahals-reaction-to-dropped-catches-goes-viral-watch/articleshow/130867609.cms",
+    "time": "2026-05-06T18:47:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Dropped catches cost us'- Iyer rues missed chances as PBKS suffer third straight defeat",
+    "desc": "Sunrisers Hyderabad ascended to the IPL 2026 summit after a commanding victory over Punjab Kings. Heinrich Klaasen and Ishan Kishan's explosive batting, aided by dropped catches, propelled SRH to 235/4. Despite Cooper Connolly's brilliant unbeaten century, PBKS faltered, managing 202/7. Captain Shreyas Iyer lamented costly fielding errors as the decisive factor in their third consecutive loss.",
+    "img": "https://static.toiimg.com/photo/msid-130867813,imgsize-81730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-dropped-catches-cost-us-shreyas-iyer-rues-missed-chances-as-pbks-suffer-third-straight-defeat/articleshow/130867834.cms",
+    "time": "2026-05-06T18:44:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Palaash’s lawyer calls Atrocities Act case a publicity stunt",
+    "desc": "Music composer and filmmaker Palaash Muchhal has landed in a legal controversy after social worker and Smriti Mandhana's friend Vidnyan Mane filed a case against him in Sangli, Maharashtra, alleging cheating and invoking the Atrocities Act. However, Muchhal's legal representative has dismissed the allegations, calling them a pressure tactic.",
+    "img": "https://static.toiimg.com/photo/msid-130867430,imgsize-32408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palaash-muchhals-lawyer-calls-atrocities-act-case-filed-by-smriti-mandhanas-friend-vidnyan-mane-a-publicity-stunt-a-pressure-tactic/articleshow/130867203.cms",
+    "time": "2026-05-06T18:33:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heinrich Klaasen goes top of Orange Cap list after match-winning knock vs PBKS",
+    "desc": "Heinrich Klaasen has seized the Orange Cap lead with a stellar 69, propelling Sunrisers Hyderabad to the top. His consistent performance, averaging over 54, is remarkable given his batting position. Abhishek Sharma follows closely, showcasing explosive batting at the top. KL Rahul, Ishan Kishan, Vaibhav Sooryavanshi, and Sanju Samson also feature prominently in the run-scoring charts, highlighting a competitive season.",
+    "img": "https://static.toiimg.com/photo/msid-130867227,imgsize-90112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-heinrich-klaasen-goes-top-of-orange-cap-list-after-match-winning-knock-vs-pbks/articleshow/130867334.cms",
+    "time": "2026-05-06T18:29:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Connolly’s unbeaten ton in vain after SRH defeat PBKS by 33 runs",
+    "desc": "Sunrisers Hyderabad defeated Punjab Kings by 33 runs to move to the top of the IPL table after posting 235/4. Heinrich Klaasen and Ishan Kishan starred with the bat, while Punjab’s poor fielding and dropped catches proved costly. Cooper Connolly’s unbeaten century was not enough as PBKS slumped to their third straight loss and ninth consecutive defeat in Hyderabad.",
+    "img": "https://static.toiimg.com/photo/msid-130866818,imgsize-130080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-cooper-connollys-unbeaten-ton-in-vain-after-sunrisers-hyderabad-defeat-punjab-kings-by-33-runs/articleshow/130866427.cms",
+    "time": "2026-05-06T18:18:22.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +69,142 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/uenw57/article70948206.ece/alternates/LANDSCAPE_1200/IMG_Andaman_and_Nicobar_2_1_CLDQC2EB.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/gram-sabhas-that-gave-nod-to-nicobar-project-did-not-have-mandatory-50-quorum/article70947633.ece",
-    "time": "2026-05-06T16:09:35.000Z"
+    "time": "2026-05-06T18:16:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SRH climb to top spot; PBKS suffer three consecutive losses",
+    "desc": "Sunrisers Hyderabad surged to the top of the IPL 2026 table with a dominant win over Punjab Kings. Riding on strong batting performances, SRH posted a massive total, securing a crucial victory. This result reshaped the standings, with Punjab slipping to second and several teams vying for playoff spots.",
+    "img": "https://static.toiimg.com/photo/msid-130866135,imgsize-247972.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-points-table-after-match-49-srh-climb-to-top-spot-pbks-suffer-three-consecutive-losses/articleshow/130866059.cms",
+    "time": "2026-05-06T18:00:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shekhar reveals SRK gifted him an expensive watch for doing a voice-over",
+    "desc": "Shekhar Suman recently shared a heartwarming anecdote about Shah Rukh Khan's generosity. Khan insisted on compensating Suman for a voiceover in 'Chalte Chalte' with a substantial cheque and later a valuable watch, despite their friendship. Suman also reflected on a past missed opportunity to work with Shah Rukh in 'Devdas'.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-suman-reveals-shah-rukh-khan-sent-him-a-big-cheque-for-doing-voiceover-in-chalte-chalte-gifted-him-an-expensive-watch-when-he-refused-to-take-it/articleshow/130865355.cms",
+    "time": "2026-05-06T17:56:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former teammate of Virat Kohli passes away at 36; Yuvraj Singh pays tribute",
+    "desc": "Cricketing circles mourn the loss of Amanpreet Singh Gill, a former Punjab fast bowler and Kings XI Punjab player. He passed away at 36. Yuvraj Singh remembered him as a quiet, hardworking cricketer. Gill also served on Punjab's senior selection committee. His contributions to the game and his presence are deeply missed. The cause of death remains undisclosed.",
+    "img": "https://static.toiimg.com/photo/msid-130865329,imgsize-1051706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/amanpreet-singh-gill-former-india-u-19-teammate-of-virat-kohli-dies-at-36-yuvraj-singh-pays-tribute/articleshow/130865053.cms",
+    "time": "2026-05-06T17:35:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Trump threatens Iran with ‘higher level’ bombing if it doesn't reopen Strait of Hormuz",
+    "desc": "The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U.S. and Israel, blocking about 20% of world oil supplies and igniting a ⁠global energy crisis",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+    "time": "2026-05-06T17:26:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajya Sabha Opposition benches set to see many changes after Assembly poll results",
+    "desc": "The TVK may make its debut in the RS this summer, while the Left will lose members by April 2027, the DMK by June 2028, and the TMC by August 2029; the Congress will benefit at the cost of the Left",
+    "img": "https://th-i.thgim.com/public/incoming/slho3s/article70948356.ece/alternates/LANDSCAPE_1200/20260213227L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajya-sabha-opposition-benches-set-to-see-many-changesafter-assembly-poll-results/article70948146.ece",
+    "time": "2026-05-06T17:25:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinesh’s Asiad 2026 dream crushed as WFI bars her from trials",
+    "desc": "The Wrestling Federation of India announced new eligibility rules for the 2026 Asian Games trials, making Vinesh Phogat ineligible as only recent national and federation medal winners can participate. The returning wrestler is also facing an ITA warning for missing a doping test in December 2025. It counts as her first “whereabouts failure” but is not a doping violation.",
+    "img": "https://static.toiimg.com/photo/msid-130864660,imgsize-34898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/vinesh-phogats-asian-games-2026-dream-crushed-as-wfi-bars-her-from-trials/articleshow/130864440.cms",
+    "time": "2026-05-06T17:17:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "G. Sudhakaran dismisses talks of joining Congress, blames CPI(M)’s ‘ideological drift’ for its poll rout",
+    "desc": "‘I am not exploring any broader platform or planning to join any political party. I will remain an independent MLA. This allows me to raise issues freely and intervene in matters that benefit society,’ says Sudhakaran",
+    "img": "https://th-i.thgim.com/public/incoming/11d5t6/article70948257.ece/alternates/LANDSCAPE_1200/11073_6_5_2026_20_2_0_2_7TVAL2_GSUDHAKARAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-elections-g-sudhakaran-dismisses-talks-of-joining-congress-blames-cpims-ideological-drift-for-its-poll-rout/article70943103.ece",
+    "time": "2026-05-06T17:13:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJI was only meant to have a say in CEC/EC appointments till Parliament brought a law: Supreme Court",
+    "desc": "A nine-judge constitution bench headed by Chief Justice Surya Kant is currently hearing petitions regarding discrimination against women at religious sites, including the Sabarimala temple in Kerala, as well as the scope of religious freedom across various faiths",
+    "img": "https://th-i.thgim.com/public/incoming/u4aw1k/article70947048.ece/alternates/LANDSCAPE_1200/29th_abhinay_G0G1LFPCCDO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-adjourn-hearing-on-pleas-against-eci-law-says-this-matter-is-more-important/article70946929.ece",
+    "time": "2026-05-06T17:13:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Governor asks TVK chief Vijay to produce proof of support of majority MLAs; Congress says ‘yes’ but AIADMK ‘no’",
+    "desc": "The TVK has emerged as the single largest party in Tamil Nadu Assembly, winning 108 seats in the 234-member House; DMK’s allies CPI(M), CPI, and VCK, which have won two seats each, are yet to decide on support; IUML has refused backing",
+    "img": "https://th-i.thgim.com/public/incoming/2g2zy2/article70947136.ece/alternates/LANDSCAPE_1200/20260506153L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-chief-vijay-calls-on-governor-arlekar-stakes-claim-to-form-government-in-tamil-nadu/article70946707.ece",
+    "time": "2026-05-06T17:08:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan says he has taught son Vedaant about contraception, as he opens up on parenting",
+    "desc": "Actor R. Madhavan believes in raising his son Vedaant with transparency, treating him as an adult from a young age. He initiated open conversations about sensitive topics like sexual awareness and contraception from age four, fostering trust and responsibility. This approach also included discussing the realities of celebrity life, ensuring Vedaant understood both its privileges and pressures.",
+    "img": "https://static.toiimg.com/photo/msid-130864356,imgsize-44272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-says-he-has-taught-son-vedaant-about-contraception-theres-transparency-in-his-parenting-ive-treated-him-as-an-adult-since-a-young-age/articleshow/130864192.cms",
+    "time": "2026-05-06T17:07:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dr Nene's parents refused to fund him if he didn't become doctor/engineer",
+    "desc": "Shriram Nene, Madhuri Dixit's husband, shared his parents' strict career demands. He pursued medicine, finding deep satisfaction in saving lives. Nene also spoke about his move to India, a decision his parents initially opposed. He and Madhuri have two sons, Arin and Ryan. Nene is now a familiar face alongside his wife.",
+    "img": "https://static.toiimg.com/photo/msid-130863890,imgsize-34418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhuri-dixits-husband-dr-sriram-nenes-parents-refused-to-fund-him-if-he-didnt-become-a-doctor-or-engineer-it-was-rewarding/articleshow/130863846.cms",
+    "time": "2026-05-06T16:55:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India, Vietnam elevate strategic ties, set $25 billion trade target by 2030",
+    "desc": "India and Vietnam have agreed to elevate their relationship to an Enhanced Comprehensive Strategic Partnership, setting an ambitious trade target of $25 billion by 2030. The pact includes expanded cooperation in defense, technology, and digital services, alongside efforts to boost agricultural trade and supply chain resilience.",
+    "img": "https://static.toiimg.com/photo/msid-130863617,imgsize-1107139.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-vietnam-elevate-strategic-ties-set-25-billion-trade-target-by-2030/articleshow/130863439.cms",
+    "time": "2026-05-06T16:45:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya set to link up with MI; SKY doubtful for RCB game",
+    "desc": "Mumbai Indians captain Hardik Pandya is likely to join the squad in Raipur on Thursday for their Sunday fixture against the Royal Challengers Bengaluru. The all-rounder didn't travel with the first batch of players on Wednesday and will link up with the squad on Thursday.",
+    "img": "https://static.toiimg.com/photo/msid-130863402,imgsize-92538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-hardik-pandya-set-to-link-up-with-mumbai-indians-in-raipur-on-thursday-suryakumar-yadav-doubtful-for-rcb-game/articleshow/130863434.cms",
+    "time": "2026-05-06T16:37:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "First BJP govt in Bengal to be sworn in on May 9 at Kolkata’s Brigade Parade Ground",
+    "desc": "BJP legislature party meeting will be held on May 8. Prime Minister Narendra Modi, Union Home Minister Amit Shah and several Chief Ministers of BJP and NDA-ruled States will be present during the swearing-in on May 9",
+    "img": "https://th-i.thgim.com/public/incoming/gt3qpu/article70948262.ece/alternates/LANDSCAPE_1200/20260506257L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/new-bjp-govt-in-bengal-to-take-oath-on-may-9-state-chief/article70946823.ece",
+    "time": "2026-05-06T16:35:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aap kaale ho': Dibyendu recalls facing racism in industry",
+    "desc": "Dibyendu Bhattacharya, who is known for his role in the Mirzapur series, recently spoke about racism in the film industry, calling it a deeply rooted problem that continues to impact casting decisions. In a recent interview, Dibyendu shared a personal experience to highlight how bias based on skin colour still exists. He revealed that he was replaced in an advertisement just days before the shoot because of his skin colour.",
+    "img": "https://static.toiimg.com/photo/msid-130862715,imgsize-51230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aapko-replace-kiya-kyunki-aap-kaale-ho-mirzapur-actor-dibyendu-bhattacharya-recalls-facing-racism-in-industry/articleshow/130862631.cms",
+    "time": "2026-05-06T16:14:40.000Z"
   },
   {
     "cat": "Sports",
@@ -36,15 +225,6 @@ const newsData_en = [
     "time": "2026-05-06T16:02:36.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: Trump threatens Iran with ‘higher level’ bombing if it doesn't reopen Strait of Hormuz",
-    "desc": "The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U.S. and Israel, blocking about 20% of world oil supplies and igniting a ⁠global energy crisis",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
-    "time": "2026-05-06T15:57:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rare! Gukesh celebrates emotionally after beating Sindarov",
     "desc": "World champion D Gukesh showed rare emotion after defeating future title challenger Javokhir Sindarov at the Grand Chess Tour in Poland. Playing with the black pieces, Gukesh outplayed the Uzbek grandmaster in 52 moves and celebrated with a fist pump after the win. The victory was seen as a strong statement ahead of their World Championship clash later this year.",
@@ -52,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/rare-world-chess-champion-d-gukesh-celebrates-emotionally-after-beating-javokhir-sindarov-watch/articleshow/130861835.cms",
     "time": "2026-05-06T15:54:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJI was only meant to have a say in CEC/EC appointments till Parliament brought a law: Supreme Court",
-    "desc": "A nine-judge constitution bench headed by Chief Justice Surya Kant is currently hearing petitions regarding discrimination against women at religious sites, including the Sabarimala temple in Kerala, as well as the scope of religious freedom across various faiths",
-    "img": "https://th-i.thgim.com/public/incoming/u4aw1k/article70947048.ece/alternates/LANDSCAPE_1200/29th_abhinay_G0G1LFPCCDO.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-adjourn-hearing-on-pleas-against-eci-law-says-this-matter-is-more-important/article70946929.ece",
-    "time": "2026-05-06T15:38:34.000Z"
   },
   {
     "cat": "Politics",
@@ -90,24 +261,6 @@ const newsData_en = [
     "time": "2026-05-06T15:17:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Elephant incursions into higher-elevation towns in The Nilgiris trigger alarm",
-    "desc": "If elephants starts frequenting Udhagamandalam town, they will have to rely on crop raiding as there is little natural fodder in the highly degraded forests of the upper plateau; they might even resort to foraging in garbage dumps, say expert",
-    "img": "https://th-i.thgim.com/public/incoming/d78586/article70947942.ece/alternates/LANDSCAPE_1200/elephant.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/elephant-incursions-into-higher-elevation-towns-in-the-nilgiris-trigger-alarm/article70946552.ece",
-    "time": "2026-05-06T15:15:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AIADMK rules out support to TVK",
-    "desc": "The tone for the reconsideration of its stance was set on Tuesday by Leema Rose, the newly elected legislator from Lalgudi, who told the media that negotiations were in progress between AIADMK general secretary Edappadi K. Palaniswami and the TVK over government formation",
-    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/5wzkdz/article70946503.ece/alternates/LANDSCAPE_1200/Untitled%20design%2028.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-under-pressure-to-revisit-its-stand-against-ties-with-tvk/article70946240.ece",
-    "time": "2026-05-06T15:13:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Chahal scripts unwanted record thanks to Punjab Kings’ butter fingers",
     "desc": "Punjab Kings’ poor fielding left Yuzvendra Chahal frustrated during their clash against Sunrisers Hyderabad as dropped catches denied him crucial wickets. Shashank Singh dropped Heinrich Klaasen, while Lockie Ferguson spilled Ishan Kishan, both off Chahal’s bowling. PBKS have now dropped six catches off Chahal this season, the most for any bowler in IPL 2026, hurting Punjab badly on a batting-friendly Hyderabad pitch.",
@@ -115,24 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-yuzvendra-chahal-scripts-unwanted-record-thanks-to-punjab-kings-butter-fingers/articleshow/130861053.cms",
     "time": "2026-05-06T15:12:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Seven panchaloha idols recovered from temple well in Palnadu; ASI to examine antiquity",
-    "desc": "Idols of Lord Venugopala Swamy, Rukmini Devi, Satyabhama, Lord Venkateswara Swamy, Sridevi, Bhudevi and Godadevi found submerged in a well at Sri Bhavannarayana Swamy temple in Inumella village; recovered during preliminary work for temple reconstruction",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/w79o8m/article70947117.ece/alternates/LANDSCAPE_1200/Pandalu.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/seven-metal-idols-suspected-to-be-of-significant-antiquity-identified-in-palnadu-of-andhra-pradesh/article70946321.ece",
-    "time": "2026-05-06T15:02:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI(M) to provide platform for party members at all levels to voice opinions to analyse causes of defeat",
-    "desc": "Decision to provide a platform for party members down to the branch committee level to express their opinions comes in the wake of crushing defeats for the party even in some of its strongholds in Kannur",
-    "img": "https://th-i.thgim.com/public/incoming/vblozi/article70947912.ece/alternates/LANDSCAPE_1200/MV%20Govindan.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cpim-to-provide-platform-for-party-members-at-all-levels-to-voice-opinions-to-analyse-causes-of-defeat/article70947649.ece",
-    "time": "2026-05-06T14:57:12.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +468,6 @@ const newsData_en = [
     "time": "2026-05-06T10:50:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Specific reasons not communicated’",
-    "desc": "Bengaluru's M. Chinnaswamy Stadium has lost the rights to host the IPL 2026 final to Ahmedabad, much to the Karnataka Cricket Association's disappointment. Despite claiming full preparedness and a strong operational record, the KSCA was informed of the shift due to unspecified 'operational and logistical considerations' by the BCCI, sparking debate.",
-    "img": "https://static.toiimg.com/photo/msid-130851453,imgsize-278838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ksca-reacts-to-bengaluru-losing-ipl-2026-final-hosting-rights-specific-reasons-not-formally-communicated/articleshow/130851453.cms",
-    "time": "2026-05-06T10:20:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anupam Kher hilariously reacts to Samik Bhattacharya's 'sar pe baal aajayenge' jibe",
     "desc": "Actor Anupam Kher humorously responded to a viral remark by West Bengal BJP chief Samik Bhattacharya, who used Kher's bald head as a metaphor for impossibility. Bhattacharya stated that the Trinamool Congress returning to power was as unlikely as hair growing back on Kher's head.",
@@ -360,24 +486,6 @@ const newsData_en = [
     "time": "2026-05-06T10:11:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dharmendra SLAPPED Govinda on the sets of 'Awaargi'- Reason?",
-    "desc": "Bollywood's 'Awaargi' faced off-screen drama as Govinda reportedly clashed with Anil Kapoor's casting. A meeting with Dharmendra, though initially tense, saw understanding prevail, dispelling rumors of a physical altercation. The film, a Mahesh Bhatt directorial, explored a love triangle amidst a gritty backdrop, and is still celebrated for its iconic song 'Chamakte Chand Ko'.",
-    "img": "https://static.toiimg.com/photo/msid-130851628,imgsize-70170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dharmendra-slapped-govinda-on-the-sets-of-awaargi-reason-read-here/articleshow/130851586.cms",
-    "time": "2026-05-06T10:07:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salim Khan is recovering slowly after brain surgery",
-    "desc": "Veteran screenwriter Salim Khan is making a steady recovery at home following a serious brain haemorrhage earlier this year. The 90-year-old, who spent nearly a month in hospital, was recently pictured looking well, offering reassurance to fans. His son Salman Khan had previously shared his father's improving condition after his discharge.",
-    "img": "https://static.toiimg.com/photo/msid-130851517,imgsize-55984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-father-salim-khan-is-recovering-slowly-after-brain-haemorrhage-surgery-his-latest-photo-appears-on-the-internet-see-inside/articleshow/130850060.cms",
-    "time": "2026-05-06T10:04:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'IPL lines everyone’s pockets': Cook's fresh dig at Pietersen over Bethell debate",
     "desc": "Alastair Cook reignited his debate with Kevin Pietersen over Jacob Bethell's IPL stint. Cook believes the young batter needs game time in county cricket over sitting on the bench in India. Pietersen countered, asserting Cook lacks understanding of the IPL's developmental benefits. Cook reiterated his stance, emphasizing playing matches over observation, despite the IPL's financial allure.",
@@ -388,57 +496,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "RB Choudary’s LAST public appearance with his son Jiiva goes viral",
-    "desc": "A heartwarming video of late filmmaker RB Choudary's last public appearance with son Jiiva and grandson is circulating online. Jiiva emotionally lauded his father's cinematic legacy, calling him the \"real producer of Tamil cinema.\" The clip captures cherished family moments, including Choudary's pride in his grandson, leaving fans deeply moved by their bond.",
-    "img": "https://static.toiimg.com/photo/msid-130850817,imgsize-35424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rb-choudarys-last-public-appearance-with-his-son-jiiva-and-grandson-resurfaces-post-his-demise-fans-get-emotional/articleshow/130850759.cms",
-    "time": "2026-05-06T09:46:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will one-third of the world be left in the dark?",
-    "desc": "Millions in Asia, including India, China, and Thailand, face uncertainty over watching the FIFA World Cup 2026 due to delayed broadcast rights. Unfavorable late-night match timings and high costs are stalling deals, potentially impacting viewership. Experts, however, believe agreements will be reached, ensuring widespread access to the global football spectacle.",
-    "img": "https://static.toiimg.com/photo/msid-130849787,imgsize-38860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-world-cup-2026-will-one-third-of-the-world-be-left-in-the-dark-as-broadcast-deals-stall-in-asia/articleshow/130849769.cms",
-    "time": "2026-05-06T09:10:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Bengaluru lost IPL 2026 final hosting rights to Ahmedabad",
-    "desc": "The IPL 2026 final has been moved from Bengaluru's M Chinnaswamy Stadium to Ahmedabad's Narendra Modi Stadium due to operational and logistical issues with the local association. This marks Ahmedabad's fourth final in five seasons. Previously, Ahmedabad hosted in 2022 and 2025, with scheduling and weather concerns influencing those decisions as well.",
-    "img": "https://static.toiimg.com/photo/msid-130849671,imgsize-120126.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/why-bengaluru-lost-ipl-2026-final-hosting-rights-to-ahmedabad/articleshow/130849524.cms",
-    "time": "2026-05-06T09:08:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Riddhima on being the oldest Kapoor to make debut, says father Rishi is blessing her",
     "desc": "Riddhima Kapoor is making her acting debut at 45 in 'Daadi Ki Shaadi', a film also featuring her mother Neetu Kapoor and Kapil Sharma. She finds the experience emotional and surreal, drawing strength from her late father's memory. Riddhima credits her reality show experience for easing her transition into acting and cherishes working alongside her mother.",
     "img": "https://static.toiimg.com/photo/msid-130849439,imgsize-19560.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riddhima-kapoor-sahni-on-being-the-oldest-kapoor-to-make-debut-at-the-age-of-45-says-father-rishi-kapoor-is-blessing-her-in-everything/articleshow/130849326.cms",
     "time": "2026-05-06T08:57:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Nitish Kumar Reddy play vs PBKS today? SRH coach drops big hint",
-    "desc": "Sunrisers Hyderabad's Nitish Kumar Reddy is set to return for their crucial IPL 2026 clash against Punjab Kings, according to head coach Daniel Vettori. Reddy's availability is seen as vital for SRH's balance, bolstering both their batting and bowling ahead of the high-stakes encounter as the playoff race tightens.",
-    "img": "https://static.toiimg.com/photo/msid-130848978,imgsize-123110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-nitish-kumar-reddy-play-vs-pbks-today-srh-coach-drops-big-hint/articleshow/130849020.cms",
-    "time": "2026-05-06T08:39:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samson not in peak physical condition, says Manjrekar; cites Kohli example",
-    "desc": "Sanjay Manjrekar urges Sanju Samson to emulate Virat Kohli's fitness dedication for sustained success. Despite Samson's stellar IPL 2026 season with two centuries and over 400 runs for CSK, Manjrekar believes the 31-year-old wicketkeeper-batter can enhance his physical conditioning. He highlighted Kohli's longevity, attributing it to prioritizing fitness to complement his skills and prevent physical limitations.",
-    "img": "https://static.toiimg.com/photo/msid-130848932,imgsize-41184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/sanju-samson-not-in-peak-physical-condition-says-sanjay-manjrekar-cites-virat-kohli-example/articleshow/130848943.cms",
-    "time": "2026-05-06T08:36:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -469,15 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Fortress factor — how home advantage is shaping playoff race",
-    "desc": "IPL 2026's playoff race is heating up, with home advantage proving crucial. Top teams like Punjab Kings and Royal Challengers Bengaluru are leveraging their home grounds to secure vital points. Meanwhile, teams in the bottom half are struggling significantly at home, making their playoff aspirations increasingly difficult as the league stage concludes.",
-    "img": "https://static.toiimg.com/photo/msid-130847699,imgsize-219792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-fortress-factor-how-home-advantage-is-shaping-playoff-race/articleshow/130847614.cms",
-    "time": "2026-05-06T07:31:55.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "IPL 2026 final in Ahmedabad; Mullanpur and Dharamsala to host playoffs",
     "desc": "The 2026 Indian Premier League final is scheduled for May 31 at Ahmedabad's Narendra Modi Stadium, deviating from the tradition of hosting it at the reigning champions' home ground. Playoffs are slated for May 26, 27, and 29, with matches to be held in Mullanpur and Dharamsala.",
     "img": "https://static.toiimg.com/photo/msid-130846491,imgsize-153778.cms",
@@ -495,15 +549,6 @@ const newsData_en = [
     "time": "2026-05-06T05:58:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Vijay's TVK holds key to form govt, AIADMK divided, Congress ditches ally DMK",
-    "desc": "Actor-turned-politician Vijay's TVK is poised to form the government in Tamil Nadu, emerging as the single-largest party but needing allies. The Congress has reportedly pledged support for a secular government, a move that has drawn sharp criticism from the DMK. Meanwhile, a faction within the AIADMK is reportedly considering backing Vijay.",
-    "img": "https://static.toiimg.com/photo/msid-130847051,imgsize-38494.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tvks-vijay-hunts-for-allies-to-form-govt-dissent-brews-in-aiadmk-dmk-congress-ties-shaky-whats-happening-in-tamil-nadu/articleshow/130845483.cms",
-    "time": "2026-05-06T05:51:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Everyone wins': Indian firms to invest $20 billion in US across sectors, says Sergio Gor",
     "desc": "Indian companies are set to invest over $20.5 billion dollars in the United States in various sectors including technology, manufacturing, and pharmaceuticals. \"Twelve Indian firms alone announced 1.1 billion dollars in new investments today and these partnerships are creating American jobs and strengthening supply chains,\" US ambassador to India Sergio Gor said.",
@@ -513,24 +558,6 @@ const newsData_en = [
     "time": "2026-05-06T05:31:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Shah Rukh Khan spoke about his bond with Salman Khan",
-    "desc": "A 2004 interview reveals Shah Rukh Khan's candid admission of struggling to apologize and reconnect with friends, including Salman Khan, attributing it to past grief. He expressed regret for letting people down, acknowledging Salman's right to be upset if issues arose.",
-    "img": "https://static.toiimg.com/photo/msid-130845040,imgsize-30060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-shah-rukh-khan-spoke-about-his-bond-with-salman-khan-confessed-that-he-cant-say-sorry-to-him/articleshow/130845041.cms",
-    "time": "2026-05-06T05:26:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Backstabbers': INDIA bloc cracks out in open; DMK attacks ally Congress over support to TVK's Vijay in Tamil Nadu",
-    "desc": "Cracks have emerged within the INDIA bloc following the Tamil Nadu election results, with the DMK accusing its ally, the Congress, of \"backstabbing\" for supporting actor-politician Vijay's TVK party. The DMK criticized the Congress' decision as \"foolhardy\" and driven by ego, questioning its trustworthiness and potential impact on other alliance partners.",
-    "img": "https://static.toiimg.com/photo/msid-130844729,imgsize-1191254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/backstabbers-india-bloc-cracks-out-in-the-open-as-congress-backs-vijay-over-ally-dmk/articleshow/130844308.cms",
-    "time": "2026-05-06T05:03:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump says pausing Hormuz operation in push for Iran deal",
     "desc": "Mr. Trump said on Truth Social that he was now pausing ‘Project Freedom’ after a request by mediator Pakistan and other countries, saying that “Great Progress has been made toward a Complete and Final Agreement” with Tehran",
@@ -538,33 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-pausing-hormuz-operation-in-push-for-iran-deal/article70945436.ece",
     "time": "2026-05-06T04:41:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Every 6th Lok Sabha BJP MP won through vote theft': Rahul Gandhi’s 'infiltrator' jab after West Bengal, Assam election results",
-    "desc": "Rahul Gandhi has accused the BJP of winning seats through vote theft, claiming every sixth MP from the party secured victory unfairly. He alleged that institutions are manipulated to tamper with the electoral process, suggesting the BJP fears fair elections.",
-    "img": "https://static.toiimg.com/photo/msid-130843576,imgsize-51652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/every-6th-lok-sabha-bjp-mp-won-through-vote-theft-rahul-gandhis-infiltrator-jab-after-west-bengal-assam-election-results/articleshow/130843599.cms",
-    "time": "2026-05-06T04:08:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘There was a desire’: Samson on missing ton; Gavaskar says, ‘he played for the team’",
-    "desc": "Sanju Samson's unbeaten 87 steered Chennai Super Kings to a crucial victory over Delhi Capitals in IPL 2026. Prioritising the team's win over a personal century, Samson displayed remarkable composure and calculated aggression. His mature approach earned praise from cricket legends, highlighting his significant impact on CSK's playoff aspirations this season.",
-    "img": "https://static.toiimg.com/photo/msid-130843527,imgsize-54886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-there-was-a-desire-sanju-samson-on-missing-ton-sunil-gavaskar-says-he-played-for-the-team/articleshow/130843485.cms",
-    "time": "2026-05-06T03:43:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Will be compelled to remove them': BJP warns workers over post-poll violence",
-    "desc": "Following a historic win in West Bengal, the BJP's state president urged authorities to act against post-poll violence, vowing to expel any party members involved. He also alleged TMC workers attacked their own candidates. A high-level BJP meeting discussed preventing violence and ensuring law and order, aiming to avoid a repeat of past incidents.",
-    "img": "https://static.toiimg.com/photo/msid-130843322,imgsize-52848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-be-compelled-to-remove-them-bjp-warns-workers-over-post-poll-violence/articleshow/130843253.cms",
-    "time": "2026-05-06T03:24:40.000Z"
   },
   {
     "cat": "World",

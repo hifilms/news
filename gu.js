@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "હવે ઈરાન સામે યુદ્ધ નહી લડે ટ્રમ્પ! અમેરિકાનું ઓપરેશન બંધ, જાણો &amp;#039;એપિક ફ્યુરી&amp;#039;થી શું મળ્યું?",
+    "desc": "ઈરાન સામે અમેરિકા દ્વારા શરૂ કરાયેલું ઓપરેશન હવે બંધ કરવાનો નિર્ણય લેવાયો છે. આ સાથે ઘણા સવાલો ઉભા થયા છે. શું એપિક ફ્યૂરી ઓપરેશનનો હેતુ પૂર્ણ થયો? શું ડોનાલ્ડ ટ્રમ્પ જે વિચારતા હતા તે મેળવી શક્યા. શું અમેરિકા ઈરાનને ઝુકાવવા સફળ રહ્યું. ત્યારે અમેરિકાના આ નિર્યણ બાદ કેટલીક મહત્વપૂર્ણ બાબતો સામે આવી છે. ચાલો સમજીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-will-not-fight-a-war-against-iran-anymore-america-operation-has-been-stopped-know-what-was-achieved-from-epic-fury-476787 ",
+    "time": "2026-05-06T17:39:41.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ખેડૂતોના હકની ચોરી! સબસિડીવાળા ખાતરમાંથી બની રહ્યું છે પ્લાયવૂડ, 20 હજાર કરોડની લૂંટનો જુઓ મોટો ખૂલાસો",
     "desc": "દેશની ઘણી પ્લાયવુડ કંપનીઓ ખેડૂતોના યુરિયાની દાણચોરી કરીને પોતાનો નફો કમાઈ રહી છે. દર વર્ષે આના કારણે સતત અનેક ખેડૂતોને પાકમાં મોટું નુકસાન વેઠવું પડે છે. ZEE NEWS દ્વારા આ ચોરીનો પર્દાફાશ કરવા માટે 'ઓપરેશન કિસાન' નામનું મોટું અભિયાન ચલાવવામાં આવ્યું છે.",
@@ -619,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-actor-drowns-in-debt-shared-instagram-post-talking-about-needing-work-and-money-475689 ",
     "time": "2026-04-30T14:38:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "વીઝા નિયમોનું ટેન્શન ખતમ! યુરોપના આ 5 દેશો આપી રહ્યા છે અભ્યાસ પછી રહેવાની અને નોકરી શોધવાની છૂટ; જાણો",
-    "desc": "અમેરિકા અને કેનેડાના કડક નિયમો વચ્ચે જર્મની, નેધરલેન્ડ અને સ્વીડન જેવા યુરોપિયન દેશો ભારતીય વિદ્યાર્થીઓ માટે બેસ્ટ ઓપ્શન તરીકે ઉભરી આવ્યા છે. આ દેશો અભ્યાસ પૂર્ણ થયા પછી વિદ્યાર્થીઓને 18 મહિના સુધીનો જોબ સીકર વીઝા આપે છે, જેનાથી ત્યાં કરિયર બનાવવું ઘણું સરળ બની ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/visa-rules-tension-is-over-these-5-european-countries-are-giving-permission-to-stay-and-find-a-job-after-studies-know-475565 ",
-    "time": "2026-04-29T18:07:04.000Z"
   },
   {
     "cat": "Entertainment",
