@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ખેડૂતોના હકની ચોરી! સબસિડીવાળા ખાતરમાંથી બની રહ્યું છે પ્લાયવૂડ, 20 હજાર કરોડની લૂંટનો જુઓ મોટો ખૂલાસો",
+    "desc": "દેશની ઘણી પ્લાયવુડ કંપનીઓ ખેડૂતોના યુરિયાની દાણચોરી કરીને પોતાનો નફો કમાઈ રહી છે. દર વર્ષે આના કારણે સતત અનેક ખેડૂતોને પાકમાં મોટું નુકસાન વેઠવું પડે છે. ZEE NEWS દ્વારા આ ચોરીનો પર્દાફાશ કરવા માટે 'ઓપરેશન કિસાન' નામનું મોટું અભિયાન ચલાવવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/theft-of-farmers-rights-plywood-is-being-made-from-subsidized-fertilizer-see-the-big-revelation-of-the-loot-of-20-thousand-crores-476776 ",
+    "time": "2026-05-06T15:11:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત-પાકિસ્તાન મેચો પર મોદી સરકારનો મોટો નિર્ણય, ICC ટુર્નામેન્ટ માટે પણ જણાવ્યો પ્લાન, જાણો",
+    "desc": "ગયા વર્ષે એપ્રિલમાં થયેલા પહેલગામ હુમલાથી ભારત અને પાકિસ્તાન વચ્ચે તણાવપૂર્ણ વાતાવરણ સર્જાયું હતું. આ અસર રમતગમતની દુનિયામાં પણ અનુભવાઈ હતી. ક્રિકેટમાં, ભારત અને પાકિસ્તાને ICC ટુર્નામેન્ટમાં ભાગ લીધો છે, પરંતુ કોઈ હાથ મિલાવ્યો નથી. હવે, ભારત સરકારે બંને ટીમો વચ્ચેની મેચોની યોજના સ્પષ્ટ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/modi-government-took-a-big-decision-on-india-pakistan-matches-also-announced-plans-for-icc-tournament-know-476774 ",
+    "time": "2026-05-06T14:19:11.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "સમ્રાટ કેબિનેટમાં નીતિશ કુમારના પુત્ર નિશાંતને મળી શકે છે મંત્રી પદ, JDUના 12 સહિત 29 નેતાઓ લેશે શપથ",
     "desc": "બિહારમાં ગુરુવારે સમ્રાટ ચૌધરી સરકારનું મોટું કેબિનેટ વિસ્તરણ થવા જઈ રહ્યું છે, જેમાં અંદાજે 29 મંત્રીઓ શપથ લઈ શકે છે. પટનાના ગાંધી મેદાનમાં યોજાનાર આ સમારોહને રાજકીય શક્તિ પ્રદર્શન માનવામાં આવી રહ્યો છે. JDU ક્વોટામાંથી નિશાંત કુમાર સહિત અનેક નેતાઓ મંત્રી બનવાની ચર્ચા છે. ભાજપ, JDU અને સહયોગી પક્ષો વચ્ચે સંતુલન જાળવવાનો પ્રયાસ જોવા મળી રહ્યો છે. વડાપ્રધાન નરેન્દ્ર મોદી અને અમિત શાહ સહિત અનેક મોટા નેતાઓ આ શપથ સમારોહમાં હાજર રહી શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -466,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/inflationary-stir-in-21-countries-how-did-the-iran-us-war-spoil-the-situation-476146 ",
     "time": "2026-05-03T09:00:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોના કારણે મુંબઈ ઈન્ડિયન્સનું થયું પતન ? કેપ્ટન હાર્દિક પંડ્યાએ ફોડ્યો બોમ્બ, જાણો શું કહ્યું",
-    "desc": "ખરાબ પ્રદર્શન અને સ્ટાર ખેલાડીઓની નિષ્ફળતા તેમજ વ્યૂહરચનાના અમલીકરણ અભાવ વચ્ચે ટીમ પ્લેઓફની રેસમાંથી લગભગ બહાર થઈ ગઈ છે. MI સિસ્ટમ કેમ ફેલ થઈ અને આ સીઝન ફ્રેન્ચાઇઝ માટે આપત્તિમાં કેમ ફેરવાઈ તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-hardik-pandya-statement-mumbai-indians-downfall-analysis-476133 ",
-    "time": "2026-05-03T07:14:18.000Z"
   },
   {
     "cat": "World",

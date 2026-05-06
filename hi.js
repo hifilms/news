@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bayern Munich vs PSG, Champions League semifinal live streaming: When and where to watch clash in India?",
+    "desc": "After an action-packed first-leg semifinal at the Parc des Princes, Bayern Munich and Paris Saint-Germain are all set to lock horns against each other in the second leg at the Allianz Arena for a place...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bayern-munich-vs-psg-champions-league-semifinal-live-streaming-when-and-where-to-watch-clash-in-india-2026-05-06-1040177",
+    "time": "2026-05-06T16:19:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How many catches have PBKS dropped so far in IPL 2026? More costly drops added vs SRH",
+    "desc": "Punjab Kings were guilty in the field once again as the 2025 runners-up dropped three more catches during their clash against the Sunrisers Hyderabad at the Rajiv Gandhi International Stadium, Hyderabad, on Wednesday, May 6. Shashank...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-many-catches-have-pbks-dropped-so-far-in-ipl-2026-more-costly-drops-added-vs-srh-2026-05-06-1040169",
+    "time": "2026-05-06T15:54:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings' catching woes continue, Shashank Singh, Lockie, Connolly drop sitters during SRH clash",
+    "desc": "Punjab Kings' horrific time on the field continued as they dropped three catches during the first innings of their clash against the Sunrisers Hyderabad on Wednesday, May 6. The likes of Shashank Singh, Lockie Ferguson...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-catching-woes-continue-shashank-singh-lockie-connolly-drop-sitters-during-srh-clash-watch-2026-05-06-1040165",
+    "time": "2026-05-06T15:35:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings, PCA mourn demise of former player Amanpreet Singh Gill",
+    "desc": "Punjab Kings and Punjab Cricket Association mourned the demise of former player Amanpreet Singh Gill, who passed away early morning on Wednesday, May 6. The IPL franchise posted an Instagram story for Amanpreet, who was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-pca-mourn-demise-of-former-player-amanpreet-singh-gill-2026-05-06-1040160",
+    "time": "2026-05-06T14:40:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Is Nitish Kumar Reddy playing for SRH in IPL 2026 clash against PBKS in Hyderabad?",
     "desc": "Nitish Kumar Reddy is back in action for Sunrisers Hyderabad in their IPL 2026 clash against the Punjab Kings at the Rajiv Gandhi International Stadium in Hyderabad on Wednesday, May 6. Nitish had missed out...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-pbks-head-to-head-record-ahead-of-game-49-in-ipl-2026-2026-05-06-1040107",
     "time": "2026-05-06T09:16:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Casemiro backs Michael Carrick to become Manchester United's permanent manager ahead of new season",
-    "desc": "Manchester United have had a roller coaster season in the Premier League this year. They began the season with Ruben Amorim in charge, and while they did win some games, the struggle was clear. Amorim...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/casemiro-backs-michael-carrick-to-become-manchester-united-s-permanent-manager-ahead-of-new-season-2026-05-06-1040098",
-    "time": "2026-05-06T08:14:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 playoffs schedule announced; Ahmedabad to host summit clash",
-    "desc": "The IPL (Indian Premier League) 2026 is moving towards its final stages. The race for the playoffs is heating up, and the top four are beginning to take shape. However, no side has yet secured...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-playoffs-schedule-announced-ahmedabad-to-host-summit-clash-2026-05-06-1040090",
-    "time": "2026-05-06T07:01:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Rajiv Gandhi International Stadium in Hyderabad play?",
-    "desc": "The stage is set for the 49th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will be taking on Punjab Kings in the Rajiv Gandhi International Stadium in Hyderabad on May 6th....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-pbks-pitch-report-how-will-surface-at-rajiv-gandhi-international-stadium-in-hyderabad-play-2026-05-06-1040083",
-    "time": "2026-05-06T06:13:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Poetry to the eyes': Former India cricketer hails Sanju Samson for carrying Chennai Super Kings in IPL 2026",
-    "desc": "Sanju Samson was the star of the show for Chennai Super Kings as they breezed past Delhi Capitals in the 48th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/poetry-to-the-eyes-former-india-cricketer-hails-sanju-samson-for-carrying-chennai-super-kings-in-ipl-2026-2026-05-06-1040074",
-    "time": "2026-05-06T05:29:54.000Z"
   }
 ];
