@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ambati Rayudu named Hyderabad Cricket Association's new director of cricket operations",
+    "desc": "In a major development for the HCA (Hyderabad Cricket Association), the board has named former India cricketer Ambati Rayudu as its new director of cricket operations. The decision was made by the apex council of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ambati-rayudu-named-hyderabad-cricket-association-s-new-director-of-cricket-operations-2026-05-06-1040048",
+    "time": "2026-05-06T01:59:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson joins Virat Kohli, Chris Gayle in elite list with masterclass knock against Delhi Capitals",
+    "desc": "The 48th game of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Chennai Super Kings. The two sides locked horns at the Arun Jaitley Stadium in Delhi on May 5th. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-joins-virat-kohli-chris-gayle-in-elite-list-with-masterclass-knock-against-delhi-capitals-2026-05-06-1040044",
+    "time": "2026-05-06T01:30:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "CSK's path to IPL 2026 playoffs cleared? How can five-time champions reach knockouts after DC win?",
     "desc": "Chennai Super Kings registered their second consecutive win and third in their last four matches after beating Delhi Capitals at the Arun Jaitley Stadium on Tuesday, May 5. On a tricky Delhi pitch, the Super...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/arsenal-vs-atletico-madrid-live-when-and-where-to-watch-uefa-champions-league-in-india-2026-05-05-1040001",
     "time": "2026-05-05T11:50:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Shastri analyses reason behind Jasprit Bumrah's poor show in IPL 2026",
-    "desc": "Mumbai Indians pacer Jasprit Bumrah has clinched just three wickets in the 10 matches he played in the IPL 2026. He has struggled to live up to the potential and that played a vital role...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-decodes-reason-behind-jasprit-bumrah-s-poor-show-in-ipl-2026-2026-05-05-1039995",
-    "time": "2026-05-05T11:11:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain intervene DC vs CSK IPL 2026 clash at Arun Jaitley Stadium?",
-    "desc": "Delhi weather is in focus as Delhi Capitals host Chennai Super Kings in their 10th match of the Indian Premier League 2026 at the Arun Jaitley Stadium on Tuesday, May 5. The race for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-weather-update-will-rain-intervene-dc-vs-csk-ipl-2026-clash-at-arun-jaitley-stadium-2026-05-05-1039994",
-    "time": "2026-05-05T11:06:11.000Z"
   }
 ];
