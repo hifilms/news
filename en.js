@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Sai recalls feeling miscast, Junaid 'can’t outgrow Aamir's shadow'",
+    "desc": "Sai Pallavi and Junaid Khan got candid about their film Ek Din, offering a rare peek into its making — from early scripting days to self-doubt, language struggles and the realities of stardom. Despite her excitement, Sai Pallavi admitted she was unsure of herself. Opening up about identity, Junaid addressed being Aamir Khan’s son.",
+    "img": "https://static.toiimg.com/photo/msid-130871051,imgsize-55424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sai-pallavi-recalls-feeling-miscast-in-ek-din-junaid-khan-disagrees-you-cant-outgrow-aamir-khans-shadow/articleshow/130870784.cms",
+    "time": "2026-05-06T21:41:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Trump threatens Iran with ‘higher level’ bombing if it doesn't reopen Strait of Hormuz",
+    "desc": "The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U.S. and Israel, blocking about 20% of world oil supplies and igniting a ⁠global energy crisis",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+    "time": "2026-05-06T21:00:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
+    "desc": "Rubio will hold talks with Jaishankar and Ajit Doval, and call on Prime Minister Modi, in discussions that are expected to set the course for India-U.S. ties after several ups and downs over tariffs and sanctions",
+    "img": "https://th-i.thgim.com/public/incoming/19b639/article70948553.ece/alternates/LANDSCAPE_1200/AP05_06_2026_000002A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece",
+    "time": "2026-05-06T20:58:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Palak Tiwari opens up on growing up without a father",
+    "desc": "Palak Tiwari, daughter of Shweta Tiwari and Raja Chaudhary, recently spoke about her childhood and said the absence of her father never felt like a void, crediting the strong women in her family for her upbringing. She credited the strong women in her family for shaping her mindset.",
+    "img": "https://static.toiimg.com/photo/msid-130869845,imgsize-122854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palak-tiwari-opens-up-on-growing-up-without-a-father-it-never-felt-like-something-was-missing/articleshow/130869801.cms",
+    "time": "2026-05-06T20:22:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gukesh sends out a massive message by beating Sindarov",
+    "desc": "Gukesh was in full swing as he matched Sindarov move for move in a rapid encounter that was the first of the clash before the Uzbek meets the Indian ace in the World Championship match scheduled later this year",
+    "img": "https://th-i.thgim.com/public/incoming/edz59w/article70948541.ece/alternates/LANDSCAPE_1200/IMG_PTI04_16_2024_000092_2_1_PDCN7F21.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/gukesh-sends-out-a-massive-message-by-beating-sindarov/article70948522.ece",
+    "time": "2026-05-06T20:02:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "DC head coach Badani",
+    "desc": "Kuldeep’s overall IPL economy rate has hovered around eight, but this season it has crossed the 10-run mark while the wickets too have dried up, with the spinner managing only seven scalps in 10 matches",
+    "img": "https://th-i.thgim.com/public/incoming/9urxhp/article70948528.ece/alternates/LANDSCAPE_1200/31_Practice_RR_DC_30_04_Jaipur.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/we-would-want-kuldeep-to-be-better-than-this-dc-head-coach-badani/article70948520.ece",
+    "time": "2026-05-06T19:43:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Governor asks TVK chief Vijay to produce proof of support of majority MLAs; Congress says ‘yes’ but AIADMK ‘no’",
+    "desc": "The TVK has emerged as the single largest party in Tamil Nadu Assembly, winning 108 seats in the 234-member House; DMK’s allies CPI(M), CPI, and VCK, which have won two seats each, are yet to decide on support; IUML has refused backing",
+    "img": "https://th-i.thgim.com/public/incoming/2g2zy2/article70947136.ece/alternates/LANDSCAPE_1200/20260506153L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-calls-on-governor-arlekar-stakes-claim-to-form-government-in-tamil-nadu/article70946707.ece",
+    "time": "2026-05-06T19:36:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "The roller-coaster relationship between the DMK and Congress finally derails",
     "desc": "Whenever the two parties engaged in tough bargaining over seat-sharing—first in 2011, when the Congress insisted on being allotted 90 seats and eventually got over 60, and again in 2026, when negotiations reached a stage of brinkmanship—the alliance ended up losing elections",
@@ -7,6 +70,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/the-roller-coaster-relationship-between-the-dmk-and-congress-finally-derails/article70948003.ece",
     "time": "2026-05-06T19:25:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mediation fails between Trimurti Films, Dhurandhar 2 makers",
+    "desc": "The copyright dispute between Trimurti Films and the makers of Dhurandhar 2 over the song ‘Rang De Lal (Oye Oye)’ has taken a new turn. The Delhi High Court was informed that mediation between both sides has failed. Justice Tushar Rao Gedela has now listed the matter for hearing on May 8.",
+    "img": "https://static.toiimg.com/photo/msid-130868716,imgsize-31506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mediation-fails-between-trimurti-films-dhurandhar-2-makers-over-rang-de-lal-oye-oye-row-delhi-hc-to-hear-case-on-may-8/articleshow/130868547.cms",
+    "time": "2026-05-06T19:22:04.000Z"
   },
   {
     "cat": "Politics",
@@ -99,15 +171,6 @@ const newsData_en = [
     "time": "2026-05-06T17:35:46.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: Trump threatens Iran with ‘higher level’ bombing if it doesn't reopen Strait of Hormuz",
-    "desc": "The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U.S. and Israel, blocking about 20% of world oil supplies and igniting a ⁠global energy crisis",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
-    "time": "2026-05-06T17:26:22.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Rajya Sabha Opposition benches set to see many changes after Assembly poll results",
     "desc": "The TVK may make its debut in the RS this summer, while the Left will lose members by April 2027, the DMK by June 2028, and the TMC by August 2029; the Congress will benefit at the cost of the Left",
@@ -142,15 +205,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-adjourn-hearing-on-pleas-against-eci-law-says-this-matter-is-more-important/article70946929.ece",
     "time": "2026-05-06T17:13:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Governor asks TVK chief Vijay to produce proof of support of majority MLAs; Congress says ‘yes’ but AIADMK ‘no’",
-    "desc": "The TVK has emerged as the single largest party in Tamil Nadu Assembly, winning 108 seats in the 234-member House; DMK’s allies CPI(M), CPI, and VCK, which have won two seats each, are yet to decide on support; IUML has refused backing",
-    "img": "https://th-i.thgim.com/public/incoming/2g2zy2/article70947136.ece/alternates/LANDSCAPE_1200/20260506153L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-chief-vijay-calls-on-governor-arlekar-stakes-claim-to-form-government-in-tamil-nadu/article70946707.ece",
-    "time": "2026-05-06T17:08:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,15 +387,6 @@ const newsData_en = [
     "time": "2026-05-06T13:07:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India, Japan sign agreements in quantum technology, health research cooperation",
-    "desc": "India and Japan on Wednesday strengthened their cooperation in emerging technologies and health research, with both countries exchanging agreements in the fields of quantum science and medical devices during a high-level bilateral meeting in New Delhi.",
-    "img": "https://static.toiimg.com/photo/msid-130857652,imgsize-59324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-japan-sign-agreements-in-quantum-technology-health-research-cooperation/articleshow/130857535.cms",
-    "time": "2026-05-06T13:05:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sai Tamhankar says 'Mimi' would have changed the game in theatres",
     "desc": "Sai Tamhankar acknowledges that her role in 'Mimi' was a game-changer for her career in Bollywood, opening doors to new opportunities and accolades. She feels that a theatrical premiere might have further enhanced its success. Tamhankar also expressed pride in Kriti Sanon’s National Award win for their collaboration and maintains a strong friendship with her.",
@@ -367,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/want-to-play-2027-world-cup-with-rohit-sharma-and-virat-kohli-ipl-2026-sensation-makes-bold-claim/articleshow/130854945.cms",
     "time": "2026-05-06T12:11:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Samajwadi Party cuts tie-up with I-PAC: Akhilesh Yadav cites fund crunch ahead of 2027 UP polls",
-    "desc": "Samajwadi Party leader Akhilesh Yadav announced the party has ended its association with political consultancy I-PAC, citing financial constraints rather than electoral performance. Yadav clarified that the decision was due to limited resources, not recent election outcomes, and that the party had engaged I-PAC for early preparations for the 2027 Uttar Pradesh Assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-130855104,imgsize-850692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/samajwadi-party-cuts-tie-up-with-i-pac-akhilesh-yadav-cites-fund-crunch-ahead-of-2027-up-polls/articleshow/130854265.cms",
-    "time": "2026-05-06T11:50:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US and Iran close to one-page memo to end war; Congress offers conditional support to TVK &amp; more",
-    "desc": "US and Iran are reportedly nearing a one-page memo to de-escalate conflict, focusing on nuclear talks and sanctions. In Tamil Nadu, TVK's Vijay claims government formation after electoral win, with Congress offering conditional support. Meanwhile, a tragic suicide of a rape victim in UP and twin blasts in Punjab, claimed by a Khalistan group, are under investigation.",
-    "img": "https://static.toiimg.com/photo/msid-130854998,imgsize-100328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-us-and-iran-close-to-one-page-memo-to-end-war-congress-offers-conditional-support-to-tvk-more/articleshow/130853601.cms",
-    "time": "2026-05-06T11:46:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +450,6 @@ const newsData_en = [
     "time": "2026-05-06T11:19:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Janhvi in talks for Shahid's next",
-    "desc": "Speculation is rife that Shahid Kapoor will star in a romantic comedy directed by Amit Sharma, exploring modern relationships with humor and emotion. Janhvi Kapoor is reportedly in advanced talks to play the female lead, marking their first on-screen collaboration. The film is slated to begin shooting in October 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130853727,imgsize-36636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-in-talks-for-shahid-kapoors-next-amit-sharma-to-direct-romantic-comedy-reports/articleshow/130853731.cms",
-    "time": "2026-05-06T11:09:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sports Ministry reiterates policy on India vs Pakistan sporting relations",
     "desc": "Sports Ministry has reaffirmed its policy of a blanket ban on bilateral sporting ties with Pakistan, with no Indian teams participating in Pakistan and vice-versa. However, exemptions remain for multi-nation events like the Olympics and Asian Games. The ministry also aims to simplify visa processes to position India as a preferred international sports hosting destination.",
@@ -439,33 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/sports-ministry-reiterates-policy-on-india-pakistan-sporting-relations-no-bilaterals-multi-nationals-exempted/articleshow/130853652.cms",
     "time": "2026-05-06T11:07:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sam Smith, Christian Cowan Engaged: private Met Gala moment",
-    "desc": "In a delightful twist of fate, Grammy-winning sensation Sam Smith, 33, is set to tie the knot with renowned fashion designer Christian Cowan, 32, after a love-filled three years. Their romance ignited in late 2022, but it was their stunning appearance at the 2026 Met Gala that truly turned heads, especially with Cowan flaunting a striking yellow diamond engagement ring.",
-    "img": "https://static.toiimg.com/photo/msid-130852495,imgsize-58694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sam-smith-and-christian-cowan-are-engaged-their-met-gala-2026-appearance-confirms-the-proposal-reports/articleshow/130852495.cms",
-    "time": "2026-05-06T10:56:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Neetu Kapoor laughed out loud when asked if Riddhima Kapoor Sahni would do 'Daadi Ki Shaadi'",
-    "desc": "Neetu Kapoor has revealed she laughed out loud and said \"no, no\" when first asked whether daughter Riddhima Kapoor Sahni would star in 'Daadi Ki Shaadi', before calling Riddhima, who laughed even more and then said \"why not.\" Riddhima, 45, is making her acting debut in the film alongside Neetu and Kapil Sharma, becoming the oldest Kapoor woman to enter films. Director Ashish R. Mohan revealed that Neetu was won over by a 2-hour 40-minute narration she initially agreed to only reluctantly and confirmed her participation within minutes of leaving. Riddhima has described the experience as \"surreal and deeply emotional,\" saying she feels late father Rishi Kapoor blessing her throughout. Directed by Ashish R. Mohan, Daadi Ki Shaadi releases May 8, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130852954,imgsize-178882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neetu-kapoor-laughed-out-loud-when-asked-if-riddhima-kapoor-sahni-would-do-kapil-sharma-starrerdaadi-ki-shaadi-riddhima-movies-no-no/articleshow/130852645.cms",
-    "time": "2026-05-06T10:51:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPM claims BJP 'goons attacked, broke Lenin statue' in Bengal's Murshidabad",
-    "desc": "Vladimir Lenin was a Russian revolutionary who led the 1917 Bolshevik Revolution and founded the Soviet Union, becoming one of the most influential communist leaders, having overwhelming influence in West Bengal politics under the CPM regime, which was uprooted by the TMC's Mamata Banerjee after three decades in 2011. The party said it registered a police complaint, leading to arrest of five and vowed to rebuild the statue on May 8.",
-    "img": "https://static.toiimg.com/photo/msid-130852506,imgsize-33662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/video-cpm-claims-bjp-goons-attacked-broke-lenin-statue-in-bengals-murshidabad/articleshow/130851887.cms",
-    "time": "2026-05-06T10:50:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -520,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riteish-deshmukh-reveals-all-the-big-actors-worked-for-free-for-raja-shivaji-for-maharaj-salman-khan-is-my-brother/articleshow/130848285.cms",
     "time": "2026-05-06T08:08:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Suvendu Adhikari to be West Bengal CM? Mamata rout puts 'giantkiller' in focus",
-    "desc": "Suvendu Adhikari's name is gaining traction for the Chief Minister's post in West Bengal. The Bharatiya Janata Party has achieved a significant electoral victory, surpassing the Trinamool Congress. Adhikari, a key BJP leader, has demonstrated his electoral prowess by defeating Mamata Banerjee. The BJP's strong performance has reshaped the state's political landscape, raising questions about Adhikari's future role.",
-    "img": "https://static.toiimg.com/photo/msid-130847882,imgsize-905696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/suvendu-adhikari-to-be-west-bengal-cm-mamata-rout-puts-giantkiller-in-focus/articleshow/130847903.cms",
-    "time": "2026-05-06T07:42:13.000Z"
   },
   {
     "cat": "Sports",
@@ -738,33 +720,6 @@ const newsData_en = [
     "time": "2026-05-04T11:21:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Oscar Bruzon to leave East Bengal at season end; cites lack of long-term planning",
-    "desc": "“We have four matches remaining in the current ISL campaign. I will not be staying on after these four matches. May 31st will be my final day as the coach of East Bengal,” Bruzon said",
-    "img": "https://th-i.thgim.com/public/incoming/a4ahbv/article70936291.ece/alternates/LANDSCAPE_1200/SDB_8695.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/oscar-bruzon-to-leave-east-bengal-at-season-end-cites-lack-of-long-term-planning/article70936288.ece",
-    "time": "2026-05-03T21:01:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Antonelli takes third win a row for Mercedes to stretch F1 lead in Miami",
-    "desc": "The youngest driver ever to lead the championship, ⁠at 19 years old, Kimi Antonelli also became the first to take his first three career wins from the top slot on the grid and also the first in five editions of the race to win ‌in Miami from the front row",
-    "img": "https://th-i.thgim.com/public/incoming/wpnj80/article70936286.ece/alternates/LANDSCAPE_1200/F1_Miami_GP_Auto_Racing_48313.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorsport/antonelli-takes-third-win-a-row-for-mercedes-to-stretch-f1-lead-in-miami/article70936285.ece",
-    "time": "2026-05-03T20:39:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhoni reality check — what the Super Kings faithful dreaded",
-    "desc": "The bond between the legendary captain of the franchise and the legion of fans goes beyond trophies and silverwares; the supporters are beginning to get a glimpse of life beyond the gloveman though they would be keen to celebrate a cameo or two from Captain Cool",
-    "img": "https://th-i.thgim.com/public/sport/m3o4ji/article70936217.ece/alternates/LANDSCAPE_1200/DHONI%20CUTOUT.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/dhoni-reality-check-what-the-super-kings-faithful-dreaded/article70936214.ece",
-    "time": "2026-05-03T18:53:16.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Tallest for nearly 25 years, now ranked 25th",
     "desc": "Still ranked 25th in the list of tallest buildings, the Sears Tower — completed on May 3, 1973 — was the tallest in the world for nearly 25 years. A.S.Ganesh takes you as close as possible to the tower from this distance, while also revisiting an urban legend about measuring the height of a building…",
@@ -898,5 +853,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
     "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
