@@ -1,5 +1,239 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "PBKS choose to field as Nitish Kumar Reddy comes back into SRH XI",
+    "desc": "Punjab Kings won the toss and chose to field against Sunrisers Hyderabad in a crucial IPL 2026 encounter. Both teams, aiming to recover from recent losses, boast explosive batting lineups. PBKS, currently leading the table, and SRH, close behind, are vying for playoff advantage in this high-stakes clash. Shreyas Iyer confirmed one change, bringing in Shashank Singh.",
+    "img": "https://static.toiimg.com/photo/msid-130858782,imgsize-181532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-toss-today-pbks-choose-to-field-as-nitish-kumar-reddy-comes-back-into-srh-xi/articleshow/130858413.cms",
+    "time": "2026-05-06T13:44:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What happens if a Chief Minister refuses to relinquish office after electoral defeat?",
+    "desc": "Following the Trinamool Congress’s defeat to the BJP in the West Bengal Assembly elections, Chief Minister Mamata Banerjee has announced that she will not tender her resignation. Can a Governor remove a Chief Minister? What happens once the term of the Assembly expires? What legal remedies are available to challenge the election results?",
+    "img": "https://th-i.thgim.com/public/incoming/wzcoht/article70947355.ece/alternates/LANDSCAPE_1200/PTI05_05_2026_000199B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-happens-if-a-chief-minister-refuses-to-relinquish-office-after-electoral-defeat/article70945645.ece",
+    "time": "2026-05-06T13:39:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LDF’s ‘rainbow coalition’ under scanner after smaller allies draw blank",
+    "desc": "The LDF, an alliance of around a dozen parties, had shared the 140 Assembly seats among some 10 parties and a number of Independents for the recent polls. However, only the CPI(M), CPI, and Rashtriya Janata Dal will have representation in the new Assembly. Seven parties which contested in their own party symbols failed to secure a single seat",
+    "img": "https://th-i.thgim.com/public/incoming/5psm1/article70947462.ece/alternates/LANDSCAPE_1200/India_State_Election_37_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-ldfs-rainbow-coalition-under-scanner-after-smaller-allies-draw-blank/article70943884.ece",
+    "time": "2026-05-06T13:35:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI(M) to discuss reasons for LDF poll debacle in Kozhikode, Cong. to examine Beypore defeat",
+    "desc": "The UDF won 12 of the 13 segments in Kozhikode when the Assembly election results were declared on May 4, 2026. The LDF’s victory was confined to Beypore, from where former Public Works Minister P.A. Mohamed Riyas managed to win",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cpim-to-discuss-reasons-for-ldf-poll-debacle-in-kozhikode-cong-to-examine-beypore-defeat/article70943764.ece",
+    "time": "2026-05-06T13:19:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Trump threatens Iran with ‘higher level’ bombing if it doesn't reopen Strait of Hormuz",
+    "desc": "The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U.S. and Israel, blocking about 20% of world oil supplies and igniting a ⁠global energy crisis",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+    "time": "2026-05-06T13:14:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Andhra Pradesh SIPB clears investment proposals worth ₹2 lakh crore",
+    "desc": "Reliance Industries to set up a ₹1,08,010 crore data centre in Vizag and a solar power project, along with a battery energy storage system, in Sri Sathya Sai district with an outlay of ₹51,300 crore",
+    "img": "https://th-i.thgim.com/public/incoming/wf35kt/article70947303.ece/alternates/LANDSCAPE_1200/Andhra-Pradesh-G2OFUGDD6.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sipb-clears-investment-proposals-worth-2-lakh-crore/article70946580.ece",
+    "time": "2026-05-06T13:08:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ye picture main hi karunga, aur koi nahi karega': Rahul Roy cast himself in 'Agra'",
+    "desc": "30pm despite having no confirmed role, before telling Kanu late one night \"Ye picture main hi karunga. Aur koi nahi karega\" over chai. Kanu said the declaration and Roy's \"exemplary dedication\" made the final casting decision for him. The story comes amid Rahul Roy addressing online rumours about being financially abandoned, clarifying that he lives with his sister and is \"deeply loved.\" Agra, which premiered at Cannes in 2023, is now streaming on OTT.",
+    "img": "https://static.toiimg.com/photo/msid-130857609,imgsize-71418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rahul-roy-cast-himself-in-agra-after-years-of-waiting-for-bollywood-to-call-director-kanu-behl-reveals-ye-picture-main-hi-karunga-aur-koi-nahi-karega/articleshow/130857404.cms",
+    "time": "2026-05-06T13:07:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, Japan sign agreements in quantum technology, health research cooperation",
+    "desc": "India and Japan on Wednesday strengthened their cooperation in emerging technologies and health research, with both countries exchanging agreements in the fields of quantum science and medical devices during a high-level bilateral meeting in New Delhi.",
+    "img": "https://static.toiimg.com/photo/msid-130857652,imgsize-59324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-japan-sign-agreements-in-quantum-technology-health-research-cooperation/articleshow/130857535.cms",
+    "time": "2026-05-06T13:05:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Plea in Madras High Court insists on FIR, money laundering probe against TVK’s Vijay over 2015 income tax dispute",
+    "desc": "The Registry had refused to number the case last month; however it got numbered on Wednesday (May 6, 2026) following a judicial direction to leave the question of maintainability to be decided by the judges",
+    "img": "https://th-i.thgim.com/public/incoming/ouzv28/article70947271.ece/alternates/LANDSCAPE_1200/PTI04_21_2026_000146A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/plea-in-madras-high-court-insists-on-fir-money-laundering-probe-against-tvks-vijay-over-2015-income-tax-dispute/article70947075.ece",
+    "time": "2026-05-06T12:58:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Guntur civic body launches drive to make city poster-free; 12 enforcement teams formed",
+    "desc": "Guntur Municipal Commissioner K. Mayur Ashok warns of heavy fines and criminal cases against violators; printers told not to make wall posters and to carry their details on flex banners; night patrols set up to catch illegal pasting",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-karnataka/7vn0pi/article68275606.ece/alternates/LANDSCAPE_1200/Bypoll-for-VikrGMTCTM08L.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-civic-body-launches-drive-to-make-city-poster-free-12-enforcement-teams-formed/article70946348.ece",
+    "time": "2026-05-06T12:47:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sai Tamhankar says 'Mimi' would have changed the game in theatres",
+    "desc": "Sai Tamhankar acknowledges that her role in 'Mimi' was a game-changer for her career in Bollywood, opening doors to new opportunities and accolades. She feels that a theatrical premiere might have further enhanced its success. Tamhankar also expressed pride in Kriti Sanon’s National Award win for their collaboration and maintains a strong friendship with her.",
+    "img": "https://static.toiimg.com/photo/msid-130857130,imgsize-79866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sai-tamhankar-on-kriti-sanon-starrer-changing-her-career-if-mimi-had-been-released-in-theatres-it-would-have-really-changed-the-game/articleshow/130856939.cms",
+    "time": "2026-05-06T12:46:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seven panchaloha idols recovered from temple well in Palnadu; ASI to examine antiquity",
+    "desc": "Idols of Lord Venugopala Swamy, Rukmini Devi, Satyabhama, Lord Venkateswara Swamy, Sridevi, Bhudevi and Godadevi found submerged in a well at Sri Bhavannarayana Swamy temple in Inumella village; recovered during preliminary work for temple reconstruction",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/w79o8m/article70947117.ece/alternates/LANDSCAPE_1200/Pandalu.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/seven-metal-idols-suspected-to-be-of-significant-antiquity-identified-in-palnadu-of-andhra-pradesh/article70946321.ece",
+    "time": "2026-05-06T12:37:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir Kapoor urged Neetu Kapoor to return amid India-Pakistan conflict",
+    "desc": "Shooting 'Daadi Ki Shaadi' in the picturesque backdrop of Shimla created lasting friendships among the cast, even as uncertain political tensions simmered between India and Pakistan. Neetu Kapoor reminisced about the joyful moments on set, likening it to her cherished experiences during 'Kabhi Kabhie,' where the absence of vanity vans encouraged genuine camaraderie.",
+    "img": "https://static.toiimg.com/photo/msid-130856495,imgsize-133978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-urged-mom-neetu-kapoor-to-return-amid-india-pakistan-conflict-during-daadi-ki-shaadi-shoot-mumma-please-come-back/articleshow/130856453.cms",
+    "time": "2026-05-06T12:32:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Want to play 2027 WC with Rohit, Virat': IPL sensation makes bold claim",
+    "desc": "Prince Yadav’s rise from playing tennis-ball cricket in Delhi’s Dariyapur Khurd to becoming an exciting IPL fast bowler reflects determination and resilience. Inspired by Rohit Sharma and Virat Kohli, the LSG pacer dreams of winning the 2027 World Cup alongside them. Despite setbacks, including a two-year ban, Prince rebuilt his career with guidance from mentors like Mohammed Shami and Zaheer Khan.",
+    "img": "https://static.toiimg.com/photo/msid-130855805,imgsize-79554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/want-to-play-2027-world-cup-with-rohit-sharma-and-virat-kohli-ipl-2026-sensation-makes-bold-claim/articleshow/130854945.cms",
+    "time": "2026-05-06T12:11:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court refuses to adjourn hearing on pleas against ECI law, says this matter is more important",
+    "desc": "A nine-judge constitution bench headed by Chief Justice Surya Kant is currently hearing petitions regarding discrimination against women at religious sites, including the Sabarimala temple in Kerala, as well as the scope of religious freedom across various faiths",
+    "img": "https://th-i.thgim.com/public/incoming/u4aw1k/article70947048.ece/alternates/LANDSCAPE_1200/29th_abhinay_G0G1LFPCCDO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-adjourn-hearing-on-pleas-against-eci-law-says-this-matter-is-more-important/article70946929.ece",
+    "time": "2026-05-06T12:03:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Samajwadi Party cuts tie-up with I-PAC: Akhilesh Yadav cites fund crunch ahead of 2027 UP polls",
+    "desc": "Samajwadi Party leader Akhilesh Yadav announced the party has ended its association with political consultancy I-PAC, citing financial constraints rather than electoral performance. Yadav clarified that the decision was due to limited resources, not recent election outcomes, and that the party had engaged I-PAC for early preparations for the 2027 Uttar Pradesh Assembly elections.",
+    "img": "https://static.toiimg.com/photo/msid-130855104,imgsize-850692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/samajwadi-party-cuts-tie-up-with-i-pac-akhilesh-yadav-cites-fund-crunch-ahead-of-2027-up-polls/articleshow/130854265.cms",
+    "time": "2026-05-06T11:50:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Telugu inscription dating back to the 16th century found at Bugga Ramalingeswara temple in Tadipatri",
+    "desc": "Carving on the north wall of the Anantapur district temple records obeisance paid by Basavappa, son of Satram Cheruvupalli Kalayya from Mahimaluru in Udayagiri Seema; historian MyNaa Swamy dates it to either 1574 or 1634 CE",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/bz25uw/article70946985.ece/alternates/LANDSCAPE_1200/Inscription.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/telugu-inscription-dating-back-to-the-16th-century-found-at-bugga-ramalingeswara-temple-in-tadipatri/article70946182.ece",
+    "time": "2026-05-06T11:49:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Social media campaigns, flexboards won’t decide who will be CM, says Ramesh Chennithala",
+    "desc": "It is decided by High Command in accordance with procedure in place, says senior Congress leader. Chennithala’s remarks come in response to queries on social media campaign in favour of V.D. Satheesan as Kerala CM on grounds that the latter led UDF poll campaign from the front",
+    "img": "https://th-i.thgim.com/public/incoming/ysh2ft/article70946300.ece/alternates/LANDSCAPE_1200/IMG_Ramesh_Chennithala_2_1_9GFP8KOJ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-elections-social-media-campaigns-flexboards-wont-decide-who-will-be-cm-says-ramesh-chennithala/article70946297.ece",
+    "time": "2026-05-06T11:47:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US and Iran close to one-page memo to end war; Congress offers conditional support to TVK &amp; more",
+    "desc": "US and Iran are reportedly nearing a one-page memo to de-escalate conflict, focusing on nuclear talks and sanctions. In Tamil Nadu, TVK's Vijay claims government formation after electoral win, with Congress offering conditional support. Meanwhile, a tragic suicide of a rape victim in UP and twin blasts in Punjab, claimed by a Khalistan group, are under investigation.",
+    "img": "https://static.toiimg.com/photo/msid-130854998,imgsize-100328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-us-and-iran-close-to-one-page-memo-to-end-war-congress-offers-conditional-support-to-tvk-more/articleshow/130853601.cms",
+    "time": "2026-05-06T11:46:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIADMK under pressure to revisit its stand against ties with TVK",
+    "desc": "The tone for the reconsideration of its stance was set on Tuesday by Leema Rose, the newly elected legislator from Lalgudi, who told the media that negotiations were in progress between AIADMK general secretary Edappadi K. Palaniswami and the TVK over government formation",
+    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/5wzkdz/article70946503.ece/alternates/LANDSCAPE_1200/Untitled%20design%2028.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-under-pressure-to-revisit-its-stand-against-ties-with-tvk/article70946240.ece",
+    "time": "2026-05-06T11:46:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer &amp; Arjun's presence at Shanoo Sharma’s wedding feels like 'Gunday' days",
+    "desc": "Bollywood stars Ranveer Singh and Arjun Kapoor surprised fans by reuniting at casting director Shanoo Sharma's intimate wedding. Their appearance, captured in photos shared by Sharma, sparked excitement online, highlighting their enduring friendship since 'Gunday'. Ranveer's presence also underscored his deep connection with Sharma, who launched his career.",
+    "img": "https://static.toiimg.com/photo/msid-130854775,imgsize-93784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-and-arjun-kapoors-attendance-at-shanoo-sharmas-wedding-feels-like-a-gunday-reunion/articleshow/130854705.cms",
+    "time": "2026-05-06T11:41:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV says Mamata Banerjee is attacking democracy by refusing to step down",
+    "desc": "Filmmaker Ram Gopal Varma expressed surprise over Mamata Banerjee's refusal to resign as West Bengal CM post-election defeat, questioning her stance on democratic institutions. Meanwhile, Varma shared a viral throwback photo of a young Thalapathy Vijay behind M. Karunanidhi, highlighting the unpredictable journey of success and sparking widespread discussion.",
+    "img": "https://static.toiimg.com/photo/msid-130854276,imgsize-44978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-says-mamata-banerjee-is-attacking-democracy-by-refusing-to-step-down-as-cm-despite-her-partys-defeat/articleshow/130854276.cms",
+    "time": "2026-05-06T11:29:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Top 5 expert reactions to Sanju Samson’s match-winning 87* vs DC",
+    "desc": "Sanju Samson played a match-winning unbeaten knock of 87 runs. He led Chennai Super Kings to a comfortable eight-wicket victory against Delhi Capitals. Samson's composed innings, supported by Kartik Sharma, chased down the target with ease. This crucial win keeps CSK in contention for the IPL 2026 playoffs. Experts praised Samson's form and leadership.",
+    "img": "https://static.toiimg.com/photo/msid-130854214,imgsize-74388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-top-5-expert-reactions-to-sanju-samsons-match-winning-87-vs-dc/articleshow/130854195.cms",
+    "time": "2026-05-06T11:27:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Sharam karo... Pant se kuch seekho’: Yuvraj teases Abhishek, Gill",
+    "desc": "Rishabh Pant gifted Yuvraj Singh a golf club and heartfelt note to thank him for mentoring him ahead of IPL 2026 after a difficult phase in his career. Sharing the gesture online, Yuvraj jokingly teased Shubman Gill, Abhishek Sharma and other mentees, saying, “Sharam karo... Rishabh Pant se kuch seekho.” Meanwhile, Pant continues to struggle for form in IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130854038,imgsize-66394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sharam-karo-rishabh-pant-se-kuch-seekho-yuvraj-singh-teases-abhishek-sharma-shubman-gill-watch/articleshow/130853644.cms",
+    "time": "2026-05-06T11:19:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Janhvi in talks for Shahid's next",
+    "desc": "Speculation is rife that Shahid Kapoor will star in a romantic comedy directed by Amit Sharma, exploring modern relationships with humor and emotion. Janhvi Kapoor is reportedly in advanced talks to play the female lead, marking their first on-screen collaboration. The film is slated to begin shooting in October 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130853727,imgsize-36636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-in-talks-for-shahid-kapoors-next-amit-sharma-to-direct-romantic-comedy-reports/articleshow/130853731.cms",
+    "time": "2026-05-06T11:09:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sports Ministry reiterates policy on India vs Pakistan sporting relations",
+    "desc": "Sports Ministry has reaffirmed its policy of a blanket ban on bilateral sporting ties with Pakistan, with no Indian teams participating in Pakistan and vice-versa. However, exemptions remain for multi-nation events like the Olympics and Asian Games. The ministry also aims to simplify visa processes to position India as a preferred international sports hosting destination.",
+    "img": "https://static.toiimg.com/photo/msid-130853630,imgsize-76410.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/sports-ministry-reiterates-policy-on-india-pakistan-sporting-relations-no-bilaterals-multi-nationals-exempted/articleshow/130853652.cms",
+    "time": "2026-05-06T11:07:39.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "The highest and lowest margins of victory",
     "desc": "Most constituencies with margins above 60,000 votes were won by the TVK, with the DMK finishing second in a majority of these seats. The distribution of these margins shows a concentration in urban and industrial regions",
@@ -18,6 +252,15 @@ const newsData_en = [
     "time": "2026-05-06T10:56:21.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Neetu Kapoor laughed out loud when asked if Riddhima Kapoor Sahni would do 'Daadi Ki Shaadi'",
+    "desc": "Neetu Kapoor has revealed she laughed out loud and said \"no, no\" when first asked whether daughter Riddhima Kapoor Sahni would star in 'Daadi Ki Shaadi', before calling Riddhima, who laughed even more and then said \"why not.\" Riddhima, 45, is making her acting debut in the film alongside Neetu and Kapil Sharma, becoming the oldest Kapoor woman to enter films. Director Ashish R. Mohan revealed that Neetu was won over by a 2-hour 40-minute narration she initially agreed to only reluctantly and confirmed her participation within minutes of leaving. Riddhima has described the experience as \"surreal and deeply emotional,\" saying she feels late father Rishi Kapoor blessing her throughout. Directed by Ashish R. Mohan, Daadi Ki Shaadi releases May 8, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130852954,imgsize-178882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neetu-kapoor-laughed-out-loud-when-asked-if-riddhima-kapoor-sahni-would-do-kapil-sharma-starrerdaadi-ki-shaadi-riddhima-movies-no-no/articleshow/130852645.cms",
+    "time": "2026-05-06T10:51:29.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "CPM claims BJP 'goons attacked, broke Lenin statue' in Bengal's Murshidabad",
     "desc": "Vladimir Lenin was a Russian revolutionary who led the 1917 Bolshevik Revolution and founded the Soviet Union, becoming one of the most influential communist leaders, having overwhelming influence in West Bengal politics under the CPM regime, which was uprooted by the TMC's Mamata Banerjee after three decades in 2011. The party said it registered a police complaint, leading to arrest of five and vowed to rebuild the statue on May 8.",
@@ -25,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/video-cpm-claims-bjp-goons-attacked-broke-lenin-statue-in-bengals-murshidabad/articleshow/130851887.cms",
     "time": "2026-05-06T10:50:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: Iran says it wants a 'comprehensive agreement' with U.S.",
-    "desc": "The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U.S. and Israel, blocking about 20% of world oil supplies and igniting a ⁠global energy crisis",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
-    "time": "2026-05-06T10:47:29.000Z"
   },
   {
     "cat": "Sports",
@@ -52,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-ke-sar-pe-baal-aajayenge-par-tmc-the-actor-hilariously-reacts-to-bjp-leader-samik-bhattacharyas-jibe-maine-kya-bigada/articleshow/130851814.cms",
     "time": "2026-05-06T10:15:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka’s ‘Adopt a Monument’ sees muted response three years after launch",
-    "desc": "Poor publicity, limited connectivity to several heritage locations, lack of detailed development plans, and the absence of stronger government outreach, have been pointed as some of the main reasons for the slow uptake by the stakeholders",
-    "img": "https://th-i.thgim.com/public/incoming/r02sc3/article70943522.ece/alternates/LANDSCAPE_1200/YDRKN_23_12_2024_17_40_24_1_IMG_20241223_WA0084.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-adopt-a-monument-sees-muted-response-three-years-after-launch/article70942955.ece",
-    "time": "2026-05-06T10:14:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,33 +324,6 @@ const newsData_en = [
     "time": "2026-05-06T10:02:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "G. Sudhakaran dismisses talks of joining Congress, blames CPI(M)’s ‘ideological drift’ for its poll rout",
-    "desc": "‘I am not exploring any broader platform or planning to join any political party. I will remain an independent MLA. This allows me to raise issues freely and intervene in matters that benefit society,’ says Sudhakaran",
-    "img": "https://th-i.thgim.com/public/incoming/tyggzp/article70945641.ece/alternates/LANDSCAPE_1200/JA01Gsudhakaran08.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-elections-g-sudhakaran-dismisses-talks-of-joining-congress-blames-cpims-ideological-drift-for-its-poll-rout/article70943103.ece",
-    "time": "2026-05-06T10:01:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rise of BJP in West Bengal",
-    "desc": "For decades, West Bengal resisted the BJP’s rise but that has now changed. How did the party move from the margins to the center of power in a state shaped by Left politics and strong regional identity? Here’s a deep dive into the political shift, key turning points, and what it means going forward.",
-    "img": "https://th-i.thgim.com/public/incoming/bq126t/article70946606.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-06%20at%202.56.16%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/explained-rise-of-bjp-in-west-bengal/article70946608.ece",
-    "time": "2026-05-06T09:59:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress-led UDF won not due to any individual’s efforts but as people were fed up, says NSS general secretary",
-    "desc": "G. Sukumaran Nair’s remarks are in response to queries on Congress leader V.D. Satheesan's role in UDF victory. Says his differences with Satheesan ‘still exist’ as NSS does not like the stand of the Congress leader on some issues",
-    "img": "https://th-i.thgim.com/public/incoming/dmuon8/article70945843.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_TheHindu_U5N8G4MQ3_R1395504182_0_874.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-congress-led-udf-won-not-due-to-any-individuals-efforts-but-as-people-were-fed-up-says-nss-general-secretary/article70945829.ece",
-    "time": "2026-05-06T09:58:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "RB Choudary’s LAST public appearance with his son Jiiva goes viral",
     "desc": "A heartwarming video of late filmmaker RB Choudary's last public appearance with son Jiiva and grandson is circulating online. Jiiva emotionally lauded his father's cinematic legacy, calling him the \"real producer of Tamil cinema.\" The clip captures cherished family moments, including Choudary's pride in his grandson, leaving fans deeply moved by their bond.",
@@ -133,33 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rb-choudarys-last-public-appearance-with-his-son-jiiva-and-grandson-resurfaces-post-his-demise-fans-get-emotional/articleshow/130850759.cms",
     "time": "2026-05-06T09:46:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why industrial heat pumps are a ‘clean heat’ opportunity for India",
-    "desc": "Industry accounted for nearly half of India’s final energy consumption in 2025, much of it still tied to fossil fuels. Decarbonising industrial heat is therefore not just a climate issue but also one of air quality, competitiveness, energy security, and worker health",
-    "img": "https://th-i.thgim.com/public/sci-tech/science/1rxm4q/article70946476.ece/alternates/LANDSCAPE_1200/charlota-blunarova-azjOfHdi6Cg-unsplash.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-industrial-heat-pumps-are-a-clean-heat-opportunity-for-india/article70946433.ece",
-    "time": "2026-05-06T09:24:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AIADMK under pressure to revisit its stand against ties with TVK",
-    "desc": "The tone for the reconsideration of its stance was set on Tuesday by Leema Rose, the newly elected legislator from Lalgudi, who told the media that negotiations were in progress between AIADMK general secretary Edappadi K. Palaniswami and the TVK over government formation",
-    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/5wzkdz/article70946503.ece/alternates/LANDSCAPE_1200/Untitled%20design%2028.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-under-pressure-to-revisit-its-stand-against-ties-with-tvk/article70946240.ece",
-    "time": "2026-05-06T09:20:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Fear of litigation stifles brainstem death certification in Kerala, finds study",
-    "desc": "Unless hospitals incorporate BSD certification in ICUs as an institutional policy—not for enabling organ donation, but to prevent unnecessary waste of valuable ICU resources, inflated hospital bills and needless trauma for families—deceased organ donation rates are unlikely to go up",
-    "img": "https://th-i.thgim.com/public/incoming/pnil42/article70943596.ece/alternates/LANDSCAPE_1200/vbk-stock-organ%20transplant-organ%20donation-iStock-171156459.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/fear-of-litigation-stifles-brainstem-death-certification-in-kerala-finds-study/article70943438.ece",
-    "time": "2026-05-06T09:12:33.000Z"
   },
   {
     "cat": "Sports",
@@ -189,24 +360,6 @@ const newsData_en = [
     "time": "2026-05-06T08:57:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Twin explosions near military areas in Punjab stoke anxiety; AAP govt under fire from Opposition",
-    "desc": "Following the explosion, a team of forensic and bomb disposal squads visited the site to collect samples, and the investigation is underway; “the mall bomb blasts that have occurred are part of the BJP’s election preparations in Punjab, CM Mann said",
-    "img": "https://th-i.thgim.com/public/incoming/hmqa0b/article70945475.ece/alternates/LANDSCAPE_1200/20260505389L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/scooter-fire-near-bsf-headquarters-in-punjabs-jalandhar-caused-panic/article70945472.ece",
-    "time": "2026-05-06T08:51:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress snaps ties with DMK; extends support to Vijay’s TVK, seeking ‘share’ in T.N. government",
-    "desc": "The announcement by All India Congress Committee’s (AICC) Tamil Nadu in-charge Girish Chodankar further said that the alliance between the TVK and the Congress would continue for the upcoming local body elections, as well as Lok Sabha and Rajya Sabha polls",
-    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/45x601/article70946401.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-06%20at%2014.06.32.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-extends-support-to-vijays-tvk-seeks-appropriate-share-in-tamil-nadu-government/article70946197.ece",
-    "time": "2026-05-06T08:43:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Will Nitish Kumar Reddy play vs PBKS today? SRH coach drops big hint",
     "desc": "Sunrisers Hyderabad's Nitish Kumar Reddy is set to return for their crucial IPL 2026 clash against Punjab Kings, according to head coach Daniel Vettori. Reddy's availability is seen as vital for SRH's balance, bolstering both their batting and bowling ahead of the high-stakes encounter as the playoff race tightens.",
@@ -234,24 +387,6 @@ const newsData_en = [
     "time": "2026-05-06T08:29:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Gang steals entire ATM machine in Dharmavaram heist; ₹10 lakh inside, police suspect organised network",
-    "desc": "Offenders broke open an ATM counter at a private bank in Parthasarathi Nagar in Sri Sathya Sai district before dawn on Wednesday and fled towards Bathalapalli; SP S. Satish Kumar forms four special teams, alerts border check-posts in Karnataka",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/sbtr3n/article70946339.ece/alternates/LANDSCAPE_1200/SSC.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/gang-steals-entire-atm-machine-in-dharmavaram-heist-10-lakh-inside-police-suspect-organised-network/article70946033.ece",
-    "time": "2026-05-06T08:23:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Social media campaigns, flexboards won’t decide who will be CM, says Ramesh Chennithala",
-    "desc": "It is decided by High Command in accordance with procedure in place, says senior Congress leader. Chennithala’s remarks come in response to queries on social media campaign in favour of V.D. Satheesan as Kerala CM on grounds that the latter led UDF poll campaign from the front",
-    "img": "https://th-i.thgim.com/public/incoming/ysh2ft/article70946300.ece/alternates/LANDSCAPE_1200/IMG_Ramesh_Chennithala_2_1_9GFP8KOJ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-elections-social-media-campaigns-flexboards-wont-decide-who-will-be-cm-says-ramesh-chennithala/article70946297.ece",
-    "time": "2026-05-06T08:11:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Riteish Deshmukh reveals all the big actors worked for free for 'Raja Shivaji'",
     "desc": "Riteish Deshmukh's historical epic, Raja Shivaji, has achieved a strong opening, earning Rs 33 crore in its first three days and securing the most screens in Maharashtra. Remarkably, many prominent actors, including Salman Khan and Abhishek Bachchan, contributed to the film without charging a fee, driven by their respect for Chhatrapati Shivaji Maharaj's legacy.",
@@ -277,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-brings-rock-chic-vibes-to-bandar-first-look-teaser-release-deets-announced/articleshow/130847907.cms",
     "time": "2026-05-06T07:44:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Himanta Biswa Sarma resigns as Assam Chief Minister",
-    "desc": "“The new Assam Chief Minister will be selected at a meeting of the BJP legislature party in the presence of central observers and the oath-taking ceremony is likely to take place after May 11,” said Mr. Sarma",
-    "img": "https://th-i.thgim.com/public/incoming/xpu2xp/article70946079.ece/alternates/LANDSCAPE_1200/20260505302L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assam-assembly/himanta-biswa-sarma-resigns-as-assam-chief-minister/article70946070.ece",
-    "time": "2026-05-06T07:42:22.000Z"
   },
   {
     "cat": "Politics",
@@ -324,51 +450,6 @@ const newsData_en = [
     "time": "2026-05-06T07:27:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Vijay’s TVK seeks CPI’s support after Congress, CPI(M) outreach",
-    "desc": "Speaking to The Hindu, CPI State secretary M. Veerapandian said the party had received a letter from Mr. Vijay late on Tuesday (May 5, 2026) night, addressed to him, seeking the CPI’s support to form the government",
-    "img": "https://th-i.thgim.com/public/incoming/qocn1e/article70945738.ece/alternates/LANDSCAPE_1200/9868_18_12_2025_16_19_28_3_WAVES_3.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/vijays-tvk-seeks-cpis-support-after-congress-cpim-outreach/article70945657.ece",
-    "time": "2026-05-06T07:24:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Mandalorian and Grogu’: Cast shares ‘Star Wars’ memories",
-    "desc": "Amidst the vibrant backdrop of Berlin, Star Wars luminaries Pedro Pascal and Sigourney Weaver, accompanied by the visionary Jon Favreau, joined forces to commemorate 'The Mandalorian and Grogu.' Attendees were thrilled with a sneak peek of the film, which is poised for a cinematic debut on May 22, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130847323,imgsize-284438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mandalorian-and-grogu-berlin-event-pedro-pascal-sigourney-weaver-jon-favreau-share-star-wars-memories/articleshow/130847323.cms",
-    "time": "2026-05-06T07:18:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. Intermediate education chief raps principals of 50 underperforming government junior colleges",
-    "desc": "Director Ranjith Basha holds State-wide review of underperforming institutions, orders show-cause notices to lecturers and removal of guest faculty in subjects with low pass rates; sets 100% pass rate as goal for 2026-27 academic year",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/aygz07/article70946049.ece/alternates/LANDSCAPE_1200/Basha.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-intermediate-education-chief-raps-principals-of-50-underperforming-government-junior-colleges/article70945547.ece",
-    "time": "2026-05-06T06:57:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Allu Arjun's 'Raaka' title has a strong 'Pushpa' connection",
-    "desc": "Allu Arjun's upcoming film 'Raaka' shares a strong connection with 'Pushpa,' with the title intentionally chosen to revolve around the lead character's name for brand recognition. Director Atlee revealed 'Raaka' is an 18-year dream project, aiming for a global impact with a massive production and a potential pairing with Deepika Padukone.",
-    "img": "https://static.toiimg.com/photo/msid-130846963,imgsize-341900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/did-you-know-allu-arjuns-raaka-title-has-a-strong-pushpa-connection-atlees-massive-plan-revealed/articleshow/130846910.cms",
-    "time": "2026-05-06T06:56:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Night Agent’ ending with season 4, creator promises finale",
-    "desc": "The critically acclaimed series 'The Night Agent' is gearing up for its grand finale in season four, following an impressive run. Creator Shawn Ryan teases an exhilarating conclusion to Peter Sutherland's gripping saga, with filming currently taking place in the vibrant city of Los Angeles.",
-    "img": "https://static.toiimg.com/photo/msid-130846673,imgsize-70576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-night-agent-to-end-with-season-4-shawn-ryan-promises-a-thrilling-final-chapter/articleshow/130846562.cms",
-    "time": "2026-05-06T06:46:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 final in Ahmedabad; Mullanpur and Dharamsala to host playoffs",
     "desc": "The 2026 Indian Premier League final is scheduled for May 31 at Ahmedabad's Narendra Modi Stadium, deviating from the tradition of hosting it at the reigning champions' home ground. Playoffs are slated for May 26, 27, and 29, with matches to be held in Mullanpur and Dharamsala.",
@@ -376,42 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-final-in-ahmedabad-mullanpur-and-dharamsala-to-host-playoffs/articleshow/130846518.cms",
     "time": "2026-05-06T06:42:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Richard Osman receives an OBE, as Bill Bailey is also honoured",
-    "desc": "Bestselling author Richard Osman, alongside comedian Bill Bailey and chef Marcus Wareing, received prestigious honours from the Princess Royal. Osman was awarded an OBE for his contributions to literature and broadcasting, while Bailey and Wareing received MBEs for their work in entertainment and culinary arts respectively. All expressed pride in their British heritage and the opportunities it afforded them.",
-    "img": "https://static.toiimg.com/photo/msid-130846503,imgsize-117040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/richard-osman-receives-obe-at-windsor-castle-bill-bailey-and-marcus-wareing-also-get-honoured-by-princess-anne/articleshow/130846463.cms",
-    "time": "2026-05-06T06:39:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Has Dua joined Deepika and SRK on 'King' set?",
-    "desc": "Filming for Shah Rukh Khan's 'King' in South Africa has generated buzz, particularly a romantic song sequence featuring Khan and Deepika Padukone. Leaked footage has fans speculating that Padukone's baby girl, Dua, was present on set, possibly with Ranveer Singh. This sighting fuels excitement for the highly anticipated film.",
-    "img": "https://static.toiimg.com/photo/msid-130846115,imgsize-72144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-and-shah-rukh-khan-film-king-song-as-daughter-dua-watches-with-dad-ranveer-singh-video/articleshow/130845840.cms",
-    "time": "2026-05-06T06:29:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bhooth Bangla' crosses Rs 230 cr mark globally on day 19",
-    "desc": "Akshay Kumar and Priyadarshan's 'Bhooth Bangla' continues its successful run, crossing Rs 230 crore worldwide in 19 days. The horror-comedy, starring Wamiqa Gabbi and Paresh Rawal, saw a significant 28.6% growth on Tuesday, pushing its India net collection to Rs 146.50 crore.",
-    "img": "https://static.toiimg.com/photo/msid-130845817,imgsize-65822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-19-akshay-kumars-film-crosses-rs-230-cr-mark-globally-amid-raja-shivaji-haul/articleshow/130845767.cms",
-    "time": "2026-05-06T06:04:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikraman BREAKS DOWN in emotional video after RB Choudary’s demise",
-    "desc": "Veteran film producer R B Choudary passed away on May 5, 2026, following a road accident in Rajasthan. Choudary was returning from a family wedding when his car swerved to avoid cows and hit a roadside barrier. The accident resulted in his death and injuries to his son-in-law and driver.",
-    "img": "https://static.toiimg.com/photo/msid-130845835,imgsize-95634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vikraman-breaks-down-in-emotional-video-after-rb-choudarys-demise-says-i-am-living-because-of-him/articleshow/130845797.cms",
-    "time": "2026-05-06T06:04:50.000Z"
   },
   {
     "cat": "Tech",
@@ -495,15 +540,6 @@ const newsData_en = [
     "time": "2026-05-06T04:33:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rickelton–Rohit duo the lone bright spot in Mumbai Indians’ fading campaign",
-    "desc": "Ryan Rickelton has emerged as Mumbai Indians' standout performer in IPL 2026, leading the team in runs with an impressive strike rate. His explosive batting, including multiple century partnerships with Rohit Sharma, has been crucial to MI's successful chases. Rickelton credits his chemistry with Sharma and the Wankhede pitch for his dream run.",
-    "img": "https://static.toiimg.com/photo/msid-130843906,imgsize-273828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ryan-rickeltonrohit-sharma-duo-the-lone-bright-spot-in-mumbai-indians-fading-campaign/articleshow/130843894.cms",
-    "time": "2026-05-06T04:19:01.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Every 6th Lok Sabha BJP MP won through vote theft': Rahul Gandhi’s 'infiltrator' jab after West Bengal, Assam election results",
     "desc": "Rahul Gandhi has accused the BJP of winning seats through vote theft, claiming every sixth MP from the party secured victory unfairly. He alleged that institutions are manipulated to tamper with the electoral process, suggesting the BJP fears fair elections.",
@@ -531,15 +567,6 @@ const newsData_en = [
     "time": "2026-05-06T03:43:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'He's backbone now': Gaikwad credits Samson for CSK's late-season revival",
-    "desc": "Ruturaj Gaikwad lauded Sanju Samson's match-winning 87* against Delhi Capitals, calling him the team's backbone. Samson's unbeaten knock, alongside Kartik Sharma's support, secured an eight-wicket win for CSK, keeping their playoff hopes alive. This victory propelled CSK to fifth place in the IPL 2026 standings.",
-    "img": "https://static.toiimg.com/photo/msid-130843450,imgsize-1122617.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/hes-backbone-now-ruturaj-gaikwad-credits-sanju-samson-for-csks-late-season-revival/articleshow/130843401.cms",
-    "time": "2026-05-06T03:37:34.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Will be compelled to remove them': BJP warns workers over post-poll violence",
     "desc": "Following a historic win in West Bengal, the BJP's state president urged authorities to act against post-poll violence, vowing to expel any party members involved. He also alleged TMC workers attacked their own candidates. A high-level BJP meeting discussed preventing violence and ensuring law and order, aiming to avoid a repeat of past incidents.",
@@ -549,33 +576,6 @@ const newsData_en = [
     "time": "2026-05-06T03:24:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'We don’t control pitch': Hemang Badani responds after DC’s 4th home loss",
-    "desc": "Delhi Capitals' head coach Hemang Badani faced scrutiny after their loss to Chennai Super Kings, attributing the defeat to a top-order collapse and a tricky Arun Jaitley Stadium pitch. Badani highlighted the team's lack of control over pitch preparation, noting the inconsistent nature of their home ground.",
-    "img": "https://static.toiimg.com/photo/msid-130843111,imgsize-96286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/we-dont-control-pitch-hemang-badani-responds-after-dcs-4th-consecutive-home-loss/articleshow/130843105.cms",
-    "time": "2026-05-06T03:13:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson scripts history against Delhi Capitals, becomes first batter to...",
-    "desc": "Sanju Samson's stellar form propelled Chennai Super Kings to a crucial eight-wicket victory over Delhi Capitals. His unbeaten 87 anchored the chase, marking his second century partnership against DC this season. This win keeps CSK's playoff hopes alive, while DC edges closer to elimination.",
-    "img": "https://static.toiimg.com/photo/msid-130842680,imgsize-41184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-sanju-samson-scripts-history-against-delhi-capitals-becomes-first-batter-to-/articleshow/130842673.cms",
-    "time": "2026-05-06T02:43:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "DC staring at elimination after another home loss",
-    "desc": "Delhi Capitals' IPL 2026 playoff hopes are fading fast after a string of losses, exposing critical issues in their batting, tactical confusion, and pressure handling. With only four games left and a negative net run rate, they face a daunting task to reach the required points. Their upcoming fixtures against strong opponents further complicate their precarious position.",
-    "img": "https://static.toiimg.com/photo/msid-130842395,imgsize-81590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/dc-ipl-2026-playoff-qualification-scenarios-delhi-capitals-staring-at-elimination-after-another-home-defeat/articleshow/130842395.cms",
-    "time": "2026-05-06T02:33:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. Military strike on alleged drug boat kills three in the eastern Pacific",
     "desc": "President Donald Trump has said the U.S. is in “armed conflict” with cartels in Latin America and has justified the attacks as a necessary escalation to stem the flow of drugs into the United States and fatal overdoses claiming American lives",
@@ -583,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-military-strike-on-alleged-drug-boat-kills-three-in-the-eastern-pacific/article70945474.ece",
     "time": "2026-05-06T02:19:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arsenal end 20-year wait as Bukayo Saka fires Gunners into historic UCL final",
-    "desc": "Arsenal have reached the Champions League final after a 20-year wait, defeating Atletico Madrid 1-0 at the Emirates Stadium thanks to Bukayo Saka's first-half goal. This 2-1 aggregate victory propels Mikel Arteta's side, who are also leading the Premier League, towards a potential historic season and their first European crown.",
-    "img": "https://static.toiimg.com/photo/msid-130842248,imgsize-194280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/arsenal-end-20-year-wait-as-bukayo-saka-fires-gunners-into-historic-champions-league-final/articleshow/130842257.cms",
-    "time": "2026-05-06T02:14:44.000Z"
   },
   {
     "cat": "Sports",
@@ -774,24 +765,6 @@ const newsData_en = [
     "time": "2026-05-04T10:57:10.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India must map, monitor economic vulnerabilities in energy, food, other areas: EAC-PM chairman",
-    "desc": "Mahendra Dev said this calls for a substantial strengthening of physical buffers, including an expansion of strategic petroleum reserves and the creation of stockpiles for essential commodities, going beyond the conventional reliance on foreign exchange reserves and foodgrain stocks",
-    "img": "https://th-i.thgim.com/public/incoming/cvdhb/article70938330.ece/alternates/LANDSCAPE_1200/VSP27_%20Mahendra%20Dev%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/india-must-map-monitor-economic-vulnerabilities-in-energy-food-other-areas-eac-pm-chairman/article70938320.ece",
-    "time": "2026-05-04T10:42:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IndiGo's Head of Global Sales Vinay Malhotra resigns",
-    "desc": "\"After careful reflection on my career and my next professional and personal phase, and further to our discussions, I have decided to step down from the position of Head of Global Sales,\" Vinay Malhotra said in his resignation letter",
-    "img": "https://th-i.thgim.com/public/incoming/agrls2/article70938186.ece/alternates/LANDSCAPE_1200/2026-03-31T102038Z_1438624125_RC2E81AVSRB8_RTRMADP_3_INDIGO-CEO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/indigos-head-of-global-sales-vinay-malhotra-resigns/article70938181.ece",
-    "time": "2026-05-04T09:50:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Oscar Bruzon to leave East Bengal at season end; cites lack of long-term planning",
     "desc": "“We have four matches remaining in the current ISL campaign. I will not be staying on after these four matches. May 31st will be my final day as the coach of East Bengal,” Bruzon said",
@@ -846,24 +819,6 @@ const newsData_en = [
     "time": "2026-05-03T06:28:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘KD: The Devil’ movie review: Prem, Dhruva Sarja offer a fan service that’s just about watchable",
-    "desc": "With a semblance of story and a decent character arc for the protagonist, ‘KD’, starring Dhruva Sarja and directed by Prem, is aimed at lovers of loud ‘masala’ movies who care less for depth in writing",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/40hdv3/article70924270.ece/alternates/LANDSCAPE_1200/KD.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/kd-movie-review-dhruva-sarja-prem-kd-the-devil-sanjay-dutt-shilpa-shetty-fan-service-arjun-janya/article70924231.ece",
-    "time": "2026-05-01T10:10:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Ek Din’ movie review: Sai Pallavi makes this tender romance quite a day to remember",
-    "desc": "Sai, who is making her Hindi debut with the film, is the heartbeat of this delicate romance that feels like a sincere wish fulfilled for viewers craving silence, subtle emotions, and quiet chemistry in their cinescape",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ggi2w6/article70927858.ece/alternates/LANDSCAPE_1200/EK%20DIN.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/ek-din-movie-review-sai-pallavi-junaid-khan-aamir-khan-sunil-pandey/article70927801.ece",
-    "time": "2026-05-01T09:47:26.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "How AI helped promote community-led development in Rajasthan",
     "desc": "A project to improve water resilience in two Rajasthan districts strengthened existing government efforts by using AI to improve last-mile responsiveness. The application was also lightweight enough to sit inside any large program that depends on frontline behaviour change and local coordination",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];

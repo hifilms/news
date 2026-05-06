@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Is Nitish Kumar Reddy playing for SRH in IPL 2026 clash against PBKS in Hyderabad?",
+    "desc": "Nitish Kumar Reddy is back in action for Sunrisers Hyderabad in their IPL 2026 clash against the Punjab Kings at the Rajiv Gandhi International Stadium in Hyderabad on Wednesday, May 6. Nitish had missed out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-nitish-kumar-reddy-playing-for-srh-in-ipl-2026-clash-against-pbks-in-hyderabad-2026-05-06-1040152",
+    "time": "2026-05-06T13:38:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KSCA reacts to stripping away of IPL 2026 final from Bengaluru's Chinnaswamy Stadium",
+    "desc": "The Karnataka State Cricket Association reacted to the shift of the Indian Premier League 2026 playoffs and final away from Bengaluru's M.Chinnaswamy Stadium to the Narendra Modi Stadium in Ahmedabad. Bengaluru was set to host the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ksca-reacts-to-stripping-away-of-ipl-2026-final-from-bengalurus-chinnaswamy-stadium-2026-05-06-1040145",
+    "time": "2026-05-06T13:12:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI skipper's latest move shadows doubt over his participation for RCB game in Raipur",
+    "desc": "Hardik Pandya might miss out on playing the Mumbai Indians' next Indian Premier League 2026 match against the Royal Challengers Bengaluru on May 10 in Raipur as the team skipper has not travelled with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-update-mi-skippers-latest-move-shadows-doubt-over-his-participation-for-rcb-game-in-raipur-2026-05-06-1040136",
+    "time": "2026-05-06T11:53:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India to continue ban on bilateral sports with Pakistan, multi-nation events exempted",
+    "desc": "The Sports Ministry of India has continued with its ban on playing bilateral sporting events with Pakistan, but has exempted the multi-nation events. The ministry also reiterated its commitment to simplify the visa process for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/ministry-to-continue-ban-on-bilateral-sports-with-pakistan-multi-nation-events-exempted-2026-05-06-1040125",
+    "time": "2026-05-06T11:12:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Batting mights SRH-PBKS collide as race to the IPL 2026 playoffs heats up",
     "desc": "It's time for two batting powerhouses, Sunrisers Hyderabad and Punjab Kings, to face each other as the race to the IPL 2026 playoffs has heated up more than ever before. Following Chennai Super Kings' win...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/poetry-to-the-eyes-former-india-cricketer-hails-sanju-samson-for-carrying-chennai-super-kings-in-ipl-2026-2026-05-06-1040074",
     "time": "2026-05-06T05:29:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arsenal qualify for UEFA Champions League final after 20 years, brush past Atletico Madrid in historic clash",
-    "desc": "Arsenal have scripted history and have managed to reach the UEFA Champions League final for the first time in 20 years. The side, coached by Mikel Arteta, defeated Atletico Madrid in the semi-final of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-qualify-for-uefa-champions-league-final-after-20-years-brush-past-atletico-madrid-in-historic-clash-2026-05-06-1040065",
-    "time": "2026-05-06T04:22:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Closer than what we thought': Ruturaj Gaikwad weighs in on Chennai Super Kings' return to IPL playoffs race",
-    "desc": "Chennai Super Kings have made an emphatic comeback in the IPL (Indian Premier League) 2026 playoffs race. The side began its campaign with three straight defeats and was already looking like it would be eliminated...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/closer-than-what-we-thought-ruturaj-gaikwad-weighs-in-on-chennai-super-kings-return-to-ipl-playoffs-race-2026-05-06-1040059",
-    "time": "2026-05-06T03:38:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ambati Rayudu named Hyderabad Cricket Association's new director of cricket operations",
-    "desc": "In a major development for the HCA (Hyderabad Cricket Association), the board has named former India cricketer Ambati Rayudu as its new director of cricket operations. The decision was made by the apex council of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ambati-rayudu-named-hyderabad-cricket-association-s-new-director-of-cricket-operations-2026-05-06-1040048",
-    "time": "2026-05-06T01:59:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson joins Virat Kohli, Chris Gayle in elite list with masterclass knock against Delhi Capitals",
-    "desc": "The 48th game of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Chennai Super Kings. The two sides locked horns at the Arun Jaitley Stadium in Delhi on May 5th. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-joins-virat-kohli-chris-gayle-in-elite-list-with-masterclass-knock-against-delhi-capitals-2026-05-06-1040044",
-    "time": "2026-05-06T01:30:03.000Z"
   }
 ];

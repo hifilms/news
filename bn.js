@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "বিজেপিকে শুভেচ্ছা জানিয়েই টলিউডের ব্যান কালচার নিয়ে সরব দেব, বদলাচ্ছে সমীকরণ?",
+    "desc": "২০২৪-এর লোকসভা নির্বাচনে বাংলায় বিজেপির অভাবনীয় উত্থান এবং রাজনৈতিক পালাবদলের আবহে অবশেষে মুখ খুললেন তৃণমূল কংগ্রেসের তারকা সাংসদ তথা টলিউড সুপারস্টার দেব। গত দুদিনের নীরবতা ভেঙে দেবের এই সুচিন্তিত এবং গঠনমূলক প্রতিক্রিয়া বর্তমানে রাজনৈতিক ও বিনোদন জগতে আলোচনার কেন্দ্রবিন্দু হয়ে দাঁড়িয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dev-congratulates-bjp-bengal-victory-appeal-for-ghatal-master-plan-and-artistic-freedom_652858.html ",
+    "time": "2026-05-06T13:03:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'আমাকেও ব্যান করেছিল বিশ্বাস ব্রাদার্স', জয়ের পরেই টলিউডের ‘মাফিয়া রাজ’ খতমের ডাক রুদ্রনীলের",
+    "desc": "২০২৬-এর বিধানসভা নির্বাচনে গঙ্গার ধারের গুরুত্বপূর্ণ কেন্দ্র শিবপুরে পদ্ম ফুটিয়ে বিধানসভার পথে অভিনেতা রুদ্রনীল ঘোষ। জয়ের পরই একদিকে যেমন তাঁর গলায় শোনা গেল ‘বিকশিত শিবপুর’-এর অঙ্গীকার, অন্যদিকে টলিউডের অন্দরে ‘মাফিয়া রাজ’ এবং ‘বিশ্বাস ব্রাদার্স’-এর বিরুদ্ধে বিস্ফোরক অভিযোগ আনলেন এই অভিনেতা-রাজনীতিবিদ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rudranil-ghosh-wins-shibpur-election-2026-tollywood-mafia-raj-allegations_652823.html ",
+    "time": "2026-05-06T11:27:34.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "হস্টেলের ৯ তলা থেকে মরণঝাঁপ IIIT-ছাত্রের; কেন নিভল শ্রেয়সের জীবনদীপ?",
     "desc": "পুলিসসূত্রে জানা গিয়েছে, মৃত ছাত্র কম্পিউটার সায়েন্সের ছাত্র ছিলেন। গভীর রাতে নাগপুর IIIT হস্টেলের ৯ তলা থেকে তাঁকে নীচে পড়ে থাকতে দেখেন নিরাপত্তারক্ষীরা। তড়িঘড়ি তাঁকে উদ্ধার করে নিকটস্থ হাসপাতালে নিয়ে যাওয়া হলে চিকিৎসকরা তাঁকে মৃত বলে ঘোষণা করেন।",
@@ -151,15 +169,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rupanjana-mitra-receives-rape-threats-after-leaving-bjp-allegation-details_651080.html ",
     "time": "2026-04-27T10:37:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "জীবনের প্রথম রাজনৈতিক মঞ্চে পরমব্রত, বাঙালির 'আত্মসম্মানের লড়াই'-এ সওয়াল করলেন মমতার পক্ষে",
-    "desc": "\"২০২৬-এর নির্বাচন বাংলার এবং বাঙালির আত্মসম্মান রক্ষার লড়াই!\" কৃষ্ণনগর দক্ষিণ বিধানসভা কেন্দ্রের তৃণমূল প্রার্থী উজ্জ্বল বিশ্বাসের সমর্থনে চক দিগনগর হাইস্কুলের মাঠে উপচে পড়া ভিড়। যোগী আদিত্যনাথকে কড়া জবাব দিলেন জুন মালিয়া। অন্যদিকে, বাংলার সুরক্ষার প্রশ্নে সরব হলেন অভিনেতা পরমব্রত চট্টোপাধ্যায়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tmc-election-campaign-parambrata-chatterjee-june-maliah-ujjwal-biswas_650678.html ",
-    "time": "2026-04-25T13:02:29.000Z"
   },
   {
     "cat": "Business",
