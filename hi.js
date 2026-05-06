@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Poetry to the eyes': Former India cricketer hails Sanju Samson for carrying Chennai Super Kings in IPL 2026",
+    "desc": "Sanju Samson was the star of the show for Chennai Super Kings as they breezed past Delhi Capitals in the 48th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/poetry-to-the-eyes-former-india-cricketer-hails-sanju-samson-for-carrying-chennai-super-kings-in-ipl-2026-2026-05-06-1040074",
+    "time": "2026-05-06T05:29:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arsenal qualify for UEFA Champions League final after 20 years, brush past Atletico Madrid in historic clash",
+    "desc": "Arsenal have scripted history and have managed to reach the UEFA Champions League final for the first time in 20 years. The side, coached by Mikel Arteta, defeated Atletico Madrid in the semi-final of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arsenal-qualify-for-uefa-champions-league-final-after-20-years-brush-past-atletico-madrid-in-historic-clash-2026-05-06-1040065",
+    "time": "2026-05-06T04:22:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Closer than what we thought': Ruturaj Gaikwad weighs in on Chennai Super Kings' return to IPL playoffs race",
+    "desc": "Chennai Super Kings have made an emphatic comeback in the IPL (Indian Premier League) 2026 playoffs race. The side began its campaign with three straight defeats and was already looking like it would be eliminated...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/closer-than-what-we-thought-ruturaj-gaikwad-weighs-in-on-chennai-super-kings-return-to-ipl-playoffs-race-2026-05-06-1040059",
+    "time": "2026-05-06T03:38:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ambati Rayudu named Hyderabad Cricket Association's new director of cricket operations",
     "desc": "In a major development for the HCA (Hyderabad Cricket Association), the board has named former India cricketer Ambati Rayudu as its new director of cricket operations. The decision was made by the apex council of...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/where-is-ms-dhoni-is-csk-legend-playing-in-ipl-2026-clash-against-dc-in-delhi-2026-05-05-1040015",
     "time": "2026-05-05T13:45:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India retain No.1 spot in annual T20I rankings after World Cup win",
-    "desc": "India have retained their World No.1 spot in the ICC T20I rankings as per the annual update from the International Cricket Council on Tuesday, May 5. The reigning T20 World Champions lead the pack at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-retain-no1-spot-in-annual-t20i-rankings-after-world-cup-win-2026-05-05-1040013",
-    "time": "2026-05-05T13:25:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner looks to break Novak Djokovic's all-time record as World No.1 returns to home Italian Open",
-    "desc": "Italian World No.1 Jannik Sinner has been on a red-hot winning streak at the ATP Masters 1000 after clinching his fifth straight title at the Madrid Open on May 3. The 24-year-old defeated Alexander Zverev...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-looks-to-break-novak-djokovics-all-time-record-as-world-no1-returns-to-home-italian-open-2026-05-05-1040009",
-    "time": "2026-05-05T13:07:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch UEFA Champions League in India?",
-    "desc": "A place in the UEFA Champions League 2025-26 final hangs in the balance as Arsenal prepare to host Atletico Madrid in the decisive second leg of their semi-final clash at the Emirates Stadium. The tie remains...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-vs-atletico-madrid-live-when-and-where-to-watch-uefa-champions-league-in-india-2026-05-05-1040001",
-    "time": "2026-05-05T11:50:21.000Z"
   }
 ];

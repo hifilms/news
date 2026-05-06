@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;નસીબમાં હોય તે કોઈ છીનવી શકે નહી&amp;#039;...SIRમાં નામ કપાઈ ગયું, છતાં બન્યા વિધાયક",
+    "desc": "પશ્ચિમ બંગાળની વિધાનસભા ચૂંટણીના પરિણામો આવી ગયા અને એક્ઝિટ પોલ મુજબ જ રાજ્યમાં હવે ભાજપની સરકાર બનવા જઈ રહી છે. આ વખતે બંગાળ ચૂંટણીમાં અનેક વિક્રમો સર્જાયા. જેમાં એક નામ કોંગ્રેસના ઉમેદવાર મોતાબા શેખનું પણ છે. ખાસ જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/west-bengal-election-results-2026-motab-shaikh-won-farakka-seat-interesting-story-476690 ",
+    "time": "2026-05-06T05:28:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં દિલ્હી મોડલ થશે લાગૂ? આ ફાયરબ્રાન્ડ મહિલા નેતાને તાબડતોબ બોલાવ્યા દિલ્હી",
+    "desc": "ભાજપે બંગાળ તો જીતી લીધુ પરંતુ હવે યક્ષ પ્રશ્ન એ છે કે મુખ્યમંત્રી કોણ બનશે? 9મી મેના રોજ નવા મુખ્યમંત્રીની તાજપોશીની વાતો થઈ રહી છે પરંતુ તે પહેલા મુખ્યમંત્રી કોણ એ અંગે હજુ સ્પષ્ટતા નથી. અનેક નામો ચર્ચામાં છે પરંતુ અગ્નિમિત્રા પોલને દિલ્હી બોલાવવામાં આવતા શું તેમના નામ પર મહોર લાગશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-will-become-west-bengal-cm-agnimitra-paul-called-to-delhi-476674 ",
+    "time": "2026-05-06T04:24:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "2 દિવસમાં ઓટીટી પર જોવા મળશે એકશન, લવ સ્ટોરી સહિત બધું જ, રિલીઝ થશે 4 દમદાર ફિલ્મો અને સીરીઝ",
+    "desc": "6 અને 8 મે ઓટીટી લવર્સ માટે ખાસ છે. કારણ કે આ બે દિવસોમાં ઓટીટી પર ભરપુર મનોરંજન પુરું પાડે તેવી ફિલ્મો રિલીઝ થવાની છે. તો ફટાફટ ચેક કરી લો આગામી 2 દિવસમાં ઓટીટી પર જોવા જેવું શું છે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ott-latest-release-in-hindi-new-film-releasing-on-ott-on-6-and-8-may-2026-476650 ",
+    "time": "2026-05-06T03:18:50.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ચાંદીમાં અચાનક મોટો ઉછાળો, જાણો સોના-ચાંદીના લેટેસ્ટ આજના ભાવ",
     "desc": "સોના ચાંદીના ભાવ હમણા થોડા સમયથી અચાનક વધારો ઘટાડો જોવા મળી રહ્યો છે, પણ મોટા ભાગે ભાવમાં મોટો ઘટાડો જ થયો છે, જ્યારથી યુદ્ધ ચાલુ થયુ છે, ત્યારથી ચાંદીના ભાવમાં પણ મોટો ઘટાડો જોવા મળ્યો છે, હાલમાં યુદ્ધ બંધ હોવાથી ફરી સોના-ચાંદીના ભાવમાં વધારો જોવા મળી રહ્યો છે.",
@@ -160,24 +187,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/tamilnadu-assembly-election-results-minister-periyakaruppan-lost-the-election-by-just-one-vote-476503 ",
     "time": "2026-05-05T03:35:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આ હિન્દુત્વનો વિજય, ભવાનીપુરમાં મમતા બેનર્જીને હરાવ્યા બાદ સુવેન્દુ અધિકારીનું પહેલું નિવેદન, જાણો",
-    "desc": "વિધાનસભા ચૂંટણીમાં મમતા બેનર્જીને સુવેન્દુ અધિકારીએ હરાવ્યા છે. સુવેન્દુએ બે બેઠક પરથી ચૂંટણી લડી રહ્યા હતા. ગયા વર્ષે પણ તેમણે મમતા બેનર્જીને હરાવ્યા હતા. તેમને આ ચૂંટણીમાં પણ મમતા બેનર્જીને હરાવ્યા છે અને બે વિધાનસભા પણ જીતી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/this-is-the-victory-of-hindutva-suvendu-adhikari-first-statement-after-defeating-mamata-banerjee-in-bhavanipur-know-476479 ",
-    "time": "2026-05-04T16:34:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હવે હુમાયુ કબીરની બાબરી મસ્જિદનું શું થશે? બંગાળમાં ઊંધો પડ્યો સત્તાનો ખેલ",
-    "desc": "15 વર્ષ પછી, બંગાળમાં સત્તા પરિવર્તન થયું છે. આગળનો રાજકીય માહોલ ખૂબ જ મહત્વપૂર્ણ બનવાનો છે. મમતા બેનર્જીને પડકાર ફેંકીને રાજ્યમાં બાબરી મસ્જિદ બનાવવાની જાહેરાત કરનાર હુમાયુ કબીર ચૂંટણી જીતી ગયા છે, પરંતુ બંગાળમાં ભાજપ સત્તાના કેન્દ્રમાં હોવાથી, બાબરી મસ્જિદ બનાવવાની હુમાયુ કબીરની જાહેરાતનું શું થશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-will-happen-to-humayun-kabirs-babri-masjid-now-the-power-game-in-bengal-has-been-turned-upside-down-476478 ",
-    "time": "2026-05-04T16:17:41.000Z"
   },
   {
     "cat": "Business",
@@ -603,15 +612,6 @@ const newsData_gu = [
     "time": "2026-04-29T07:10:41.000Z"
   },
   {
-    "cat": "World",
-    "title": "હાફિઝની નજીકના સાથી આફ્રિદીનું કામ તમામ, પાકિસ્તાનમાં ભારતના દુશ્મનોનો કોણ મોકલી રહ્યું છે જહન્નુમ ? જાણો",
-    "desc": "પાકિસ્તાનમાં અજાણ્યા હુમલાખોરો સતત તબાહી મચાવી રહ્યા છે. લશ્કર-એ-તૈયબાના ટોચના કમાન્ડર યુસુફ આફ્રિદીની હત્યાથી ભારતના દુશ્મનોમાં ભયનો માહોલ ફેલાયો છે. પાકિસ્તાનની ધરતી પર એક પછી એક આતંકવાદીઓને કેવી રીતે ખતમ કરવામાં આવી રહ્યા છે, તેને લઈને દરેકને વિચાર આવે કે પાકિસ્તાનની ધરતી પર કોણ તેમને ખત્મ કરી રહ્યું છે. ચાલો વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/hafizs-close-aide-afridi-killed-by-unknown-attacker-who-is-sending-india-enemies-to-hell-in-pakistan-find-out-475390 ",
-    "time": "2026-04-29T03:06:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રોમાન્ટિક ફિલ્મો ગમતી હોય તો આજે જ જુઓ નેટફ્લિક્સની આ ફિલ્મ, ઓટીટી પર છવાઈ ગઈ શશાંક-રોશનીની લવસ્ટોરી",
     "desc": "જે લોકોને રોમાન્ટિક ડ્રામા ફિલ્મો જોવી પસંદ હોય તેમણે એકવાર નેટફ્લિક્સ પર રિલીઝ થયેલી આ ફિલ્મ જોવી જોઈએ. શશાંક અને રોશનીની ક્યુટ લવસ્ટોરી તમને પણ ગમી જશે. આ ફિલ્મ ઓટીટી પર રિલીઝ થયાની સાથે જ ટ્રેડિંગ લીસ્ટમાં આવી ગઈ છે.",
@@ -646,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/katrina-kaif-never-went-to-school-took-up-homeschooling-became-a-top-heroine-of-bollywood-a-success-story-474901 ",
     "time": "2026-04-26T07:20:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "વિપુલ શાહની ફિલ્મ કેરલા સ્ટોરી 2 આ તારીખે ઓટીટી પર થશે રિલીઝ",
-    "desc": "વિપુલ શાહની ફિલ્મ કેરલા સ્ટોરી 2 હવે ઘર બેઠા ઓટીટી પર જોઈ શકશો. આ ફિલ્મ ઓટીટી રિલીઝ માટે તૈયાર છે અને ઓટીટી રિલીઝની તારીખ સામે પણ આવી ગઈ છે. તો ફટાફટ જાણી લો ફિલ્મ રિલીઝની તારીખ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/vipul-shah-film-kerala-story-2-ott-release-date-watch-kerala-story-2-on-zee5-474633 ",
-    "time": "2026-04-24T11:07:45.000Z"
   }
 ];
