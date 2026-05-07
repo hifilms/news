@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh cricketer banned for life; 4 others suspended in BCB's corruption probe",
+    "desc": "The Bangladesh Cricket Board (BCB) charged four individuals with breaches of the ICC anti-corruption code. They imposed a lifetime ban on former Chattogram Royals player Saminur Rahman and four others have been suspended in an...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricketer-banned-for-life-4-others-suspended-in-bcb-s-corruption-probe-2026-05-07-1040312",
+    "time": "2026-05-07T16:14:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fede Valverde left unconscious, carried off field on stretcher after fight with teammate Tchouameni",
+    "desc": "Real Madrid midfielders Federico Valverde and Aurelien Tchouameni once again engaged in a heated spat during training. It led to an emergency medical situation as one of the club captains, Valverde, was forced to be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fede-valverde-left-unconscious-carried-off-field-on-stretcher-after-fight-with-real-madrid-teammate-tchouameni-2026-05-07-1040308",
+    "time": "2026-05-07T15:29:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will MI captain play vs RCB in Raipur? All-rounder set to join squad soon",
+    "desc": "Mumbai Indians captain Hardik Pandya is set to link up with the squad on Thursday for their next IPL 2026 fixture in Raipur. The all-rounder was ruled out of Mumbai’s previous encounter against Lucknow Super...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-fitness-update-will-mi-captain-play-vs-rcb-in-raipur-all-rounder-set-to-join-squad-soon-2026-05-07-1040304",
+    "time": "2026-05-07T14:57:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Phil Salt not playing vs LSG in IPL 2026? When will RCB opener back in action?",
     "desc": "Royal Challengers Bengaluru opener Phil Salt has been out of action since the game against Delhi Capitals on April 18. He scored 63 runs in the match. However, since then, Salt has been under monitoring...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-backs-punjab-kings-openers-to-come-good-after-recent-hiccups-in-ipl-2026-2026-05-07-1040250",
     "time": "2026-05-07T08:45:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Luis Enrique previews PSG's Champions League final clash against Arsenal, gears up for 'difficult' clash",
-    "desc": "The stage is set for the summit clash of the UEFA Champions League. Defending champions PSG will be taking on Arsenal in the final of the tournament at the Puskas Arena in Budapest on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/luis-enrique-previews-psg-s-champions-league-final-clash-against-arsenal-gears-up-for-difficult-clash-2026-05-07-1040239",
-    "time": "2026-05-07T07:23:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Ekana Stadium in Lucknow play?",
-    "desc": "The stage is set for the 50th game of the ongoing IPL (Indian Premier League) 2026. The clash will see Lucknow Super Giants taking on Royal Challengers Bengaluru at the Ekana Stadium in Lucknow on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-rcb-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-2026-05-07-1040227",
-    "time": "2026-05-07T06:25:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan announce home ODI series against Australia, set to kick off on May 30",
-    "desc": "In a major development, the PCB (Pakistan Cricket Board) took centre stage and announced a three-game home ODI series against Australia. The two sides will lock horns in late May and early June 2026 and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-home-odi-series-against-australia-set-to-kick-off-on-may-30-2026-05-07-1040220",
-    "time": "2026-05-07T05:36:46.000Z"
   }
 ];

@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "આર્મી, એરફોર્સ, નેવી, ઇસરો અને..., કેવી રીતે ઈતિહાસમાં લખાઈ ઓપરેશન સિંદૂરની વિજયગાથા, જાણો ઈનસાઈડ સ્ટોરી",
+    "desc": "ઓપરેશન સિંદૂરને એક વર્ષ પૂર્ણ થયું છે. સેનાએ એક વિડિઓ જાહેર કરીને દુશ્મનને કચડી નાખનાર વિજયની પ્રથમ વર્ષગાંઠની ઉજવણી કરી છે. ચાલો 7 મે, 2025ના રોજ ભારતીય સેના દ્વારા શરૂ કરાયેલ ઓપરેશન સિંદૂર દ્વારા પાકિસ્તાનને કેવી રીતે બરબાદ કરવામાં આવ્યું હતું તે એકસાથે જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-the-victory-story-of-operation-sindoor-was-written-in-history-the-inside-story-of-the-victory-476939 ",
+    "time": "2026-05-07T15:59:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "7 મેની રાતે 1 વાગ્યાને 5 મિનિટ... અને દુશ્મનના ઠેકાણાઓ મચી તબાહી, કહાની &amp;#039;ઓપરેશન સિંદૂર&amp;#039;ની",
+    "desc": "7 મે 2025ની એ રાત હવે માત્ર એક તારીખ નથી રહી, પરંતુ એક એવા જવાબની કહાની બની ગઈ છે, જેણે એ સંદેશ આપી દીધો કે જો દેશની સુરક્ષાને પડકારવામાં આવશે, તો જવાબ પણ એ જ ભાષામાં મળશે. 'ઓપરેશન સિંદૂર' માત્ર એક શબ્દ નથી. આ પાકિસ્તાન પર કરવામાં આવેલો એવો પ્રહાર છે જેના જખમોથી પાકિસ્તાન શ્વાસ અધ્ધર થઈ ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-night-of-may-7-5-minutes-past-1-am-and-the-enemy-positions-were-destroyed-the-story-of-operation-sindoor-476938 ",
+    "time": "2026-05-07T15:09:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું પાકિસ્તાને કોઈ વિડિઓ પુરાવો દેખાડ્યો... ઓપરેશન સિંદૂર પર ફેલાવવામાં આવેલા સૌથી મોટા જુઠ્ઠાણાનો સેનાએ આપ્યો જવાબ",
+    "desc": "આજે ઓપરેશન સિંદૂરની પહેલી વર્ષગાંઠ છે. ભારતીય સેના દ્વારા હાથ ધરવામાં આવેલા આ ઓપરેશનને પાકિસ્તાન લાંબા સમય સુધી ભૂલી શકશે નહીં. આ ઓપરેશનની પહેલી વર્ષગાંઠ પર, ભૂતપૂર્વ પોલીસ મહાનિર્દેશક (DGMO), લેફ્ટનન્ટ જનરલ રાજીવ ઘાઈએ જણાવ્યું હતું કે ઓપરેશન સમાપ્ત થયું નથી, પરંતુ ફક્ત તેને અટકાવવામાં આવ્યું છે. તેમણે ઉમેર્યું હતું કે ભારતીય લશ્કરી કાર્યવાહીથી પરેશાન પાકિસ્તાને ઓપરેશન અટકાવવાની વિનંતી પણ કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/did-pakistan-show-any-video-evidence-army-gave-a-reply-to-the-biggest-lie-spread-on-operation-sindoor-476924 ",
+    "time": "2026-05-07T14:37:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "તમને શું લાગે છે રિયો અને નિયતિ સાચે ભોળા છે કે પછી અંશનો બદલો લેવા કરી રહ્યા છે નાટક ?",
+    "desc": "ક્યુંકી સાસ ભી કભી બહુ થી શો માં તાજેતરમાં જ નિયતિ અને રેયાંશની એન્ટ્રી થઈ છે. આ ટ્વીસ્ટ એવો હશે જેની કોઈએ કલ્પના પણ કરી નહીં હોય. આ વાત શોમાં નિયતિ તરીકે એન્ટ્રી કરનાર અભિનેત્રી પરખ મદાને કરી છે. જેના પછી ચર્ચા શરુ થઈ છે કે રેયાંશ અને નિયતિ દેખાય છે તેવા ખરેખર નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ksbkbt-2-upcoming-biggest-twist-what-will-be-true-face-of-niyati-and-riyansh-latest-update-ksbkbt-2-476923 ",
+    "time": "2026-05-07T14:30:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સજા પુરી કરેલા કેદી પર આવ્યું મહિલા જેલરનું દિલ, ફિરોજા ખાતૂને ધર્મેન્દ્ર સિંહ સાથે કર્યા અનોખા લગ્ન, VHP નેતાએ કર્યું કન્યાદાન",
+    "desc": "સેન્ટ્રલ જેલમાં મહિલા અધિકારી ફિરોઝા ખાતૂન અને કેદી ધર્મેન્દ્ર સિંહ વચ્ચે એક અનોખી પ્રેમકથા સામે આવી છે. આજીવન કેદ અને ધાર્મિક અવરોધોને પાર કરીને, બંનેએ લગ્ન કર્યા છે. એક હિન્દુ સંગઠને પિતાની ફરજ બજાવી અને કન્યાદાન કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/a-female-jailer-fell-in-love-with-a-prisoner-who-had-completed-his-sentence-vhp-leader-performed-kanyadan-476922 ",
+    "time": "2026-05-07T14:09:10.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "મુંબઈના એક જ પરિવારના ચાર લોકોના મોત પર ચોકાવનારો ખુલાસો, જાણો કારણ",
     "desc": "મુંબઈના કાંદિવલીમાં ડોકાનિયા પરિવારના ચાર સભ્યોના મૃત્યુનું રહસ્ય ઉકેલાઈ ગયું છે. પોલીસ તપાસમાં જાણવા મળ્યું છે કે આ મૃત્યુ પાછળનું કારણ શું હતું. તેને સામૂહિક આત્મહત્યાનો મામલો માનવામાં આવી રહ્યો છે. જો કે આ મોત પાછળ વધારે માહિતી બાકીના રિપોર્ટ પછી જ આવશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -153,15 +198,6 @@ const newsData_gu = [
     "time": "2026-05-06T17:39:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ખેડૂતોના હકની ચોરી! સબસિડીવાળા ખાતરમાંથી બની રહ્યું છે પ્લાયવૂડ, 20 હજાર કરોડની લૂંટનો જુઓ મોટો ખૂલાસો",
-    "desc": "દેશની ઘણી પ્લાયવુડ કંપનીઓ ખેડૂતોના યુરિયાની દાણચોરી કરીને પોતાનો નફો કમાઈ રહી છે. દર વર્ષે આના કારણે સતત અનેક ખેડૂતોને પાકમાં મોટું નુકસાન વેઠવું પડે છે. ZEE NEWS દ્વારા આ ચોરીનો પર્દાફાશ કરવા માટે 'ઓપરેશન કિસાન' નામનું મોટું અભિયાન ચલાવવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/theft-of-farmers-rights-plywood-is-being-made-from-subsidized-fertilizer-see-the-big-revelation-of-the-loot-of-20-thousand-crores-476776 ",
-    "time": "2026-05-06T15:11:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ભારત-પાકિસ્તાન મેચો પર મોદી સરકારનો મોટો નિર્ણય, ICC ટુર્નામેન્ટ માટે પણ જણાવ્યો પ્લાન, જાણો",
     "desc": "ગયા વર્ષે એપ્રિલમાં થયેલા પહેલગામ હુમલાથી ભારત અને પાકિસ્તાન વચ્ચે તણાવપૂર્ણ વાતાવરણ સર્જાયું હતું. આ અસર રમતગમતની દુનિયામાં પણ અનુભવાઈ હતી. ક્રિકેટમાં, ભારત અને પાકિસ્તાને ICC ટુર્નામેન્ટમાં ભાગ લીધો છે, પરંતુ કોઈ હાથ મિલાવ્યો નથી. હવે, ભારત સરકારે બંને ટીમો વચ્ચેની મેચોની યોજના સ્પષ્ટ કરી છે.",
@@ -169,15 +205,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/modi-government-took-a-big-decision-on-india-pakistan-matches-also-announced-plans-for-icc-tournament-know-476774 ",
     "time": "2026-05-06T14:19:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સમ્રાટ કેબિનેટમાં નીતિશ કુમારના પુત્ર નિશાંતને મળી શકે છે મંત્રી પદ, JDUના 12 સહિત 29 નેતાઓ લેશે શપથ",
-    "desc": "બિહારમાં ગુરુવારે સમ્રાટ ચૌધરી સરકારનું મોટું કેબિનેટ વિસ્તરણ થવા જઈ રહ્યું છે, જેમાં અંદાજે 29 મંત્રીઓ શપથ લઈ શકે છે. પટનાના ગાંધી મેદાનમાં યોજાનાર આ સમારોહને રાજકીય શક્તિ પ્રદર્શન માનવામાં આવી રહ્યો છે. JDU ક્વોટામાંથી નિશાંત કુમાર સહિત અનેક નેતાઓ મંત્રી બનવાની ચર્ચા છે. ભાજપ, JDU અને સહયોગી પક્ષો વચ્ચે સંતુલન જાળવવાનો પ્રયાસ જોવા મળી રહ્યો છે. વડાપ્રધાન નરેન્દ્ર મોદી અને અમિત શાહ સહિત અનેક મોટા નેતાઓ આ શપથ સમારોહમાં હાજર રહી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/nitish-kumar-son-nishant-may-get-ministerial-berth-in-samrat-cabinet-29-leaders-including-12-from-jdu-will-take-oath-476763 ",
-    "time": "2026-05-06T12:16:37.000Z"
   },
   {
     "cat": "Sports",
@@ -198,15 +225,6 @@ const newsData_gu = [
     "time": "2026-05-06T11:32:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ગુજરાતમાં આવી ગાયબ થઈ જતી એક રહસ્યમય નદી, જે રણમાં વહે છે... જાણો ક્યાંથી નીકળે છે આ નદી",
-    "desc": "ભારતની લુણી નદી દેશની એકમાત્ર એવી નદી છે, જે રણમાંથી વહે છે. તે ક્યાંથી ઉદ્ભવે છે, કેટલી લાંબી છે અને કયા રાજ્યોમાંથી પસાર થાય છે, તેમજ તેની વિશેષતા શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/luni-river-is-the-only-river-in-india-that-flows-through-a-desert-476756 ",
-    "time": "2026-05-06T11:20:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "પેટ્રોલ, LPG મુદ્દે હવે રહેશે શાંતિ! હોર્મુઝ સંકટ પર આવ્યા સૌથી મોટા સમાચાર",
     "desc": "પેટ્રોલ-ડીઝલ, LPGના ભાવ વધારાનું સંકટ તોળાઈ રહ્યું હતું તેમાં હવે કદાચ શાંતિ મળી શકે છે કારણ કે હોર્મુઝ સ્ટ્રેટ પર એક સારા સમાચાર આવ્યા છે. ઈરાન અને અમેરિકા મોટી ડીલની નજીક પહોંચ્યા હોવાનું સૂત્રોના હવાલે જાણવા મળી રહ્યું છે. જાણો વિગતો.",
@@ -214,24 +232,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-us-war-big-update-middle-east-conflict-america-iran-deal-update-one-pae-mou-hormuz-news-476754 ",
     "time": "2026-05-06T10:52:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દીદીને હટાવવા માટે બંગાળમાં લગાવવામાં આવશે રાષ્ટ્રપતિ શાસન? જાણો કાયદો શું કહે છે?",
-    "desc": "2026ની પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણીમાં ભાજપ દ્વારા કારમી હારનો સામનો કરવો પડ્યો હોવા છતાં, મમતા બેનર્જી હાર સ્વીકારવા તૈયાર નથી. ત્યારે હવે એ સવાલ ઉભો થઈ રહ્યો છે કે શું બંગાળમાં રાષ્ટ્રપતિ શાસન લગાવીને મમતા બેનર્જીને સત્તા પરથી દૂર કરવામાં આવશે કે બિજી કોઈ રીત અપનાવવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/will-presidents-rule-be-imposed-in-bengal-to-remove-mamata-banerjee-know-the-rules-476753 ",
-    "time": "2026-05-06T10:48:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું હવે દર 10 વર્ષે નહીં પરંતુ 5 વર્ષે વધશે પગાર? સરકારી કર્મચારીઓને તો થઈ જશે બખ્ખે બખ્ખા!",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ આઠમાં પગાર પંચની ભલામણો આવે અને તેના લાગૂ થવાની આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે. આ દરમિયાન અનેક અપડેટ્સ પણ આવતી રહે છે. કર્મચારી સંગઠનો તરફથી એક એવી માંગણી કરવામાં આવી છે કે જો તે સરકાર દ્વારા સ્વીકારવામાં આવે સરકારી કર્મચારીઓને બખ્ખે બખ્ખા થઈ શકે છે. જાણો એવી તે કઈ માંગણી કરાઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/employee-unions-demand-5-years-tenure-of-pay-commission-instead-of-10-8th-cpc-news-476744 ",
-    "time": "2026-05-06T10:23:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -601,14 +601,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-web-series-on-sony-liv-5-best-crime-thriller-web-show-of-sony-liv-475451 ",
     "time": "2026-04-29T07:10:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રોમાન્ટિક ફિલ્મો ગમતી હોય તો આજે જ જુઓ નેટફ્લિક્સની આ ફિલ્મ, ઓટીટી પર છવાઈ ગઈ શશાંક-રોશનીની લવસ્ટોરી",
-    "desc": "જે લોકોને રોમાન્ટિક ડ્રામા ફિલ્મો જોવી પસંદ હોય તેમણે એકવાર નેટફ્લિક્સ પર રિલીઝ થયેલી આ ફિલ્મ જોવી જોઈએ. શશાંક અને રોશનીની ક્યુટ લવસ્ટોરી તમને પણ ગમી જશે. આ ફિલ્મ ઓટીટી પર રિલીઝ થયાની સાથે જ ટ્રેડિંગ લીસ્ટમાં આવી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-romantic-drama-film-on-netflix-do-diwane-shahar-mein-film-on-ott-475175 ",
-    "time": "2026-04-28T02:51:50.000Z"
   }
 ];
