@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunrisers Hyderabad continue to dominate Punjab Kings in IPL 2026, surpass KKR and CSK's tally",
+    "desc": "Sunrisers Hyderabad put forth a brilliant performance against Punjab Kings in the 49th game of the ongoing IPL (Indian Premier League) 2026. After posting a total of 235 runs in the first innings of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-continue-to-dominate-punjab-kings-in-ipl-2026-surpass-kkr-and-csk-s-tally-2026-05-07-1040199",
+    "time": "2026-05-07T02:15:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cooper Connolly surpasses Quinton de Kock, David Warner in elite list with sensational ton against SRH",
+    "desc": "The 49th game of the ongoing IPL (Indian Premier League) 2026 saw Punjab Kings taking on Sunrisers Hyderabad. The two sides met at the Rajiv Gandhi International Stadium in Hyderabad on May 6th. The game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cooper-connolly-surpasses-quinton-de-kock-david-warner-in-elite-list-with-sensational-ton-against-srh-2026-05-07-1040193",
+    "time": "2026-05-07T01:26:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "SRH dethrone PBKS from top of IPL 2026 points table as Connolly's hundred goes in vain",
     "desc": "Sunrisers Hyderabad made Punjab Kings pay big for their fielding errors as the Pat Cummins-led side defeated Shreyas Iyer's team in the 49th match of the Indian Premier League 2026. SRH made a strong 235/4...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ksca-reacts-to-stripping-away-of-ipl-2026-final-from-bengalurus-chinnaswamy-stadium-2026-05-06-1040145",
     "time": "2026-05-06T13:12:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI skipper's latest move shadows doubt over his participation for RCB game in Raipur",
-    "desc": "Hardik Pandya might miss out on playing the Mumbai Indians' next Indian Premier League 2026 match against the Royal Challengers Bengaluru on May 10 in Raipur as the team skipper has not travelled with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-update-mi-skippers-latest-move-shadows-doubt-over-his-participation-for-rcb-game-in-raipur-2026-05-06-1040136",
-    "time": "2026-05-06T11:53:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to continue ban on bilateral sports with Pakistan, multi-nation events exempted",
-    "desc": "The Sports Ministry of India has continued with its ban on playing bilateral sporting events with Pakistan, but has exempted the multi-nation events. The ministry also reiterated its commitment to simplify the visa process for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/ministry-to-continue-ban-on-bilateral-sports-with-pakistan-multi-nation-events-exempted-2026-05-06-1040125",
-    "time": "2026-05-06T11:12:02.000Z"
   }
 ];
