@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "LSG end six-match losing streak to shake up playoff battle",
+    "desc": "Royal Challengers Bengaluru's playoff advantage diminished after a loss to Lucknow Super Giants, placing them level with Rajasthan Royals and Gujarat Titans. LSG's significant victory, their first in six games and ending an eight-match home losing streak, was powered by Mitchell Marsh's 111. Sunrisers Hyderabad maintain their lead at the top of the IPL 2026 points table.",
+    "img": "https://static.toiimg.com/photo/msid-130919275,imgsize-179502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-points-table-after-match-50-lsg-end-six-match-losing-streak-to-shake-up-playoff-battle/articleshow/130919080.cms",
+    "time": "2026-05-07T19:09:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre calls for steps to safeguard shelter residents from heat",
+    "desc": "A communication from the Union Ministry of Housing and Urban Affairs instructs authorities to ensure that shelters had functional fans, water dispensers, and other cooling facilities. It also calls for training shelter staff to identify signs of heat-related illnesses and implement response protocols",
+    "img": "https://th-i.thgim.com/public/incoming/uhut0h/article70952156.ece/alternates/LANDSCAPE_1200/2782_16_4_2023_12_48_17_1_HOMELESSPERSONS2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/centre-calls-for-steps-to-safeguard-shelter-residents-from-heat/article70950562.ece",
+    "time": "2026-05-07T18:54:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I am healthy and happy’: Shakti Kapoor on fake death news",
+    "desc": "Veteran actor Shakti Kapoor has reacted strongly to false rumours about his death that recently surfaced on social media. The actor personally addressed the claims through a video message, assuring fans that he is absolutely fine and urging people not to spread misinformation online. Apart from clarifying that he is safe and healthy, Shakti Kapoor also revealed that he intends to take legal action against those responsible for spreading the fake news.",
+    "img": "https://static.toiimg.com/photo/msid-130917745,imgsize-25082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-am-healthy-and-happy-shakti-kapoor-breaks-silence-on-fake-death-news-circulating-online-says-he-will-take-legal-action/articleshow/130917491.cms",
+    "time": "2026-05-07T18:43:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seven infants received at ‘Ammathottil’ in Kozhikode in nine months",
+    "desc": "The district secretary of the Kerala State Council for Child Welfare and the district manager of Sisu Vikas Bhavan receive a mobile app alert as soon as a child is found in the cradle, following which hospital staff inspect the child’s health indicators before adoption procedures are initiated",
+    "img": "https://th-i.thgim.com/public/incoming/7v27qh/article70951985.ece/alternates/LANDSCAPE_1200/80692_7_5_2026_19_18_42_1_08TVKZAMMATHOTTIL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/seven-infants-received-at-ammathottil-in-kozhikode-in-nine-months/article70951647.ece",
+    "time": "2026-05-07T18:22:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Demand to streamline traffic, ensure commuter safety on Ernakulam Junction, Town station premises",
+    "desc": "Passenger associations and others say the Railways have failed to streamline traffic and ensure pedestrian safety at the two stations even though redevelopment works began in 2023 and were scheduled to be completed by August 2025",
+    "img": "https://th-i.thgim.com/public/incoming/b0d471/article70952610.ece/alternates/LANDSCAPE_1200/Rilway04.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/demand-to-streamline-traffic-ensure-commuter-safety-on-ernakulam-junction-town-station-premises/article70951971.ece",
+    "time": "2026-05-07T18:22:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From the doldrums to the top, Sunrisers’ stunning rise",
+    "desc": "The 2016 champion, which began IPL 2026 with three defeats in its first four outings, has embarked on a fabulous run that has netted them six victories on the bounce; Nitish’s all-round efficacy is a much under-rated but massive contribution to the franchise’s impressive performances",
+    "img": "https://th-i.thgim.com/public/incoming/j2fvcg/article70952501.ece/alternates/LANDSCAPE_1200/_NGP1294.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/from-the-doldrums-to-the-top-sunrisers-stunning-rise/article70952489.ece",
+    "time": "2026-05-07T18:21:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tannaz Irani on marrying a Muslim man 18 years older, divorce",
+    "desc": "Tannaz Irani recently opened up about marriage, divorce, motherhood, guilt and healing relationships with children during a recent conversation. From talking about growing up in a progressive household to admitting she “could have handled things better” as a mother, the actress shared deeply personal moments from her life.",
+    "img": "https://static.toiimg.com/photo/msid-130914495,imgsize-56532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tannaz-irani-on-marrying-a-muslim-man-18-years-older-divorce-and-healing-bond-with-daughter-i-could-have-handled-things-better/articleshow/130914056.cms",
+    "time": "2026-05-07T17:56:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Prime accused Nida Khan arrested after weeks on run",
+    "desc": "Nida Khan, an accused in the Nashik TCS case involving alleged sexual harassment and forced religious conversion, has been taken into custody from Chhatrapati Sambhajinagar. Khan was wanted after her anticipatory bail was rejected by the court. Police are continuing their investigation and legal proceedings.",
+    "img": "https://static.toiimg.com/photo/msid-130914667,imgsize-803887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nashik-tcs-sexual-harassment-case-prime-accused-nida-khan-arrested-after-weeks-on-run/articleshow/130914560.cms",
+    "time": "2026-05-07T17:56:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Virtually no debate in Parliament’: SC hears plea challenging EC, CEC appointment law",
+    "desc": "The Supreme Court heard arguments challenging the 2023 law on appointing Election Commissioners, which replaced the CJI with a Union minister on the selection panel. Petitioners argued the law undermines the Election Commission's autonomy and was passed with minimal debate due to MP suspensions. The court questioned its power to direct Parliament on lawmaking.",
+    "img": "https://static.toiimg.com/photo/msid-130914289,imgsize-907667.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/virtually-no-debate-in-parliament-sc-hears-plea-challenging-ec-cec-appointment-law/articleshow/130912572.cms",
+    "time": "2026-05-07T17:55:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A big question mark over Kerala’s power sector",
+    "desc": "The recent electricity crisis in Kerala has exposed the State’s continued inability to tap the potential of its solar power capacity, which has grown phenomenally in the past decade. Lack of ample systems to store excess power generated during daytime is also a dampener. Tiki Rajwi finds out what is ailing the State’s power sector",
+    "img": "https://th-i.thgim.com/public/incoming/cgyyhx/article70952559.ece/alternates/LANDSCAPE_1200/80689_28_4_2026_19_1_56_1_PSX_20260428_185235.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/a-big-question-mark-over-keralas-power-sector/article70947145.ece",
+    "time": "2026-05-07T17:40:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Action stepped up against alleged cyber extortion",
+    "desc": "Police receive fresh evidence pointing to organised extortion networks operating behind alleged loan apps. Multiple complaints highlight prolonged harassment, data misuse, and intimidation of borrowers. Lack of awareness about data privacy, digital security further increases the risk, say police",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/police-ramp-up-action-against-alleged-loan-app-networks/article70947284.ece",
+    "time": "2026-05-07T17:31:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prince gets King! Virat Kohli falls for a two-ball duck vs LSG",
+    "desc": "Royal Challengers Bengaluru faced an early collapse against Lucknow Super Giants, with star batter Virat Kohli departing for a two-ball duck. Young pacer Prince Yadav delivered a stunning nip-backer to dismiss Kohli after Mohammed Shami struck early. This double blow put RCB under immense pressure while chasing a challenging 210, set up by Mitchell Marsh's explosive 111.",
+    "img": "https://static.toiimg.com/photo/msid-130912722,imgsize-162166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-prince-gets-king-virat-kohli-falls-for-a-two-ball-duck-vs-lsg/articleshow/130912551.cms",
+    "time": "2026-05-07T17:31:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Heath Ledger",
+    "desc": "In the realm of cinematic brilliance, Heath Ledger shone brightly, particularly as the Joker, teaching us that true fulfillment comes from making choices driven by our own values, rather than external feedback. His powerful statement, 'Boring choices stem from seeking approval,' resonates deeply, as his bold career choices reflected a commitment to authenticity.",
+    "img": "https://static.toiimg.com/photo/msid-130909669,imgsize-109350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-heath-ledger-if-you-make-decisions-based-upon-peoples-reactions-or-judgments-then-you-make-really-boring-choices/articleshow/130909451.cms",
+    "time": "2026-05-07T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Repatriation of illegal Bangladeshis is a ‘core issue’:  MEA response to Dhaka’s remarks on ‘push-in’ from India",
+    "desc": "Bangladesh puts border guards on alert, vows to take action if migrants are “pushed in” via the unguarded land border in Assam, West Bengal; no comment from MEA on Centre-State policy differences on this issue",
+    "img": "https://th-i.thgim.com/public/incoming/ooml41/article70950976.ece/alternates/LANDSCAPE_1200/PTI04_02_2026_000249B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-calls-for-dhakas-cooperation-over-repatriation-of-illegal-bangladeshi-immigrants/article70950945.ece",
+    "time": "2026-05-07T17:23:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Krunal Pandya, Nicholas Pooran involved in heated on-field exchange",
+    "desc": "Lucknow Super Giants batter Nicholas Pooran and Royal Challengers Bengaluru all-rounder Krunal Pandya shared a brief on-field moment during a crucial IPL 2026 match. The interaction occurred after Pandya bowled a surprise bouncer to Pooran. Both players have a shared history at LSG. The match saw a high score from Mitchell Marsh.",
+    "img": "https://static.toiimg.com/photo/msid-130911793,imgsize-915854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-krunal-pandya-nicholas-pooran-involved-in-heated-on-field-exchange-watch/articleshow/130910398.cms",
+    "time": "2026-05-07T17:15:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Governor’s remit is to invite TVK chief Vijay and ask for a floor test: former Law Minister Ashwani Kumar",
+    "desc": "The due process argument attributed to the Governor of Tamil Nadu is seen as a graceless stratagem on the part of the Governor to delay Vijay’s swearing-in despite a deafening popular mandate in his favour, he says",
+    "img": "https://th-i.thgim.com/public/incoming/ekdj2e/article70952458.ece/alternates/LANDSCAPE_1200/PTI01_05_2026_000068B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/governors-remit-is-to-invite-tvk-chief-vijay-and-ask-for-a-floor-test-former-law-minister-ashwani-kumar/article70952179.ece",
+    "time": "2026-05-07T16:59:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marsh tears into RCB with century, breaks Pant's record to become ...",
+    "desc": "Marsh reached the milestone in 49 balls, making it the fastest century by an LSG batter in IPL history. He went past Rishabh Pant’s 54-ball hundred against RCB at the same venue in IPL 2025.",
+    "img": "https://static.toiimg.com/photo/msid-130909809,imgsize-41932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mitchell-marsh-tears-into-rcb-attack-with-ipl-century-breaks-rishabh-pants-record-to-score-fastest-century-by-an-lsg-batter/articleshow/130909228.cms",
+    "time": "2026-05-07T16:46:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Akhilesh Yadav calls on Mamata Banerjee, says Trinamool fought well",
     "desc": "Votes in the West Bengal Assembly poll had been stolen by the BJP, EC and other agencies, SP leader alleges; ‘If the right to vote is taken away, then what remains of democracy?” he says",
@@ -7,6 +160,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/west-bengal-assembly/akhilesh-meets-mamata-after-trinamool-congress-poll-debacle/article70950714.ece",
     "time": "2026-05-07T16:36:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s tops global remittance charts with $137bn inflow from its 19m strong diaspora",
+    "desc": "India's global migration impact is soaring, with its diaspora of 19 million driving a record $137 billion in remittances for 2024. The nation also leads in student and skilled worker emigration, particularly in tech and healthcare. Key corridors include UAE, US, and Saudi Arabia, showcasing a dynamic shift in global labor.",
+    "img": "https://static.toiimg.com/photo/msid-130893836,imgsize-808597.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-tops-global-remittance-charts-with-137-billion-inflow-from-its-19-million-strong-diaspora/articleshow/130893393.cms",
+    "time": "2026-05-07T16:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -73,15 +235,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "How ground-level social engineering changed political equation in Ponnani",
-    "desc": "The CPI(M) won the Ponnani municipality by a two-thirds majority even as the party suffered one of its worst defeats across Malappuram district in the recent local body elections. Despite this, KPCC secretary K.P. Noushad Ali secured a decisive Assembly victory in Ponnani",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/flnxsm/article70950588.ece/alternates/LANDSCAPE_1200/Noushad%20Ali.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/how-ground-level-social-engineering-changed-political-equation-in-ponnani/article70948045.ece",
-    "time": "2026-05-07T15:45:43.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Governor RN Ravi dissolves Mamata cabinet; paves way for new BJP government formation",
     "desc": "West Bengal's Legislative Assembly has been dissolved by Governor R N Ravi following the BJP's decisive victory in the recent elections. Preparations for the new government's formation are underway, with Union Home Minister Amit Shah expected in Kolkata. Meanwhile, outgoing Chief Minister Mamata Banerjee has refused to resign, alleging widespread poll irregularities and bias.",
     "img": "https://static.toiimg.com/photo/msid-130906481,imgsize-1831768.cms",
@@ -97,24 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/boney-kapoor-daughters-janhvi-kapoor-and-khushi-kapoor-win-legal-battle-over-late-sridevis-chennai-property/articleshow/130905377.cms",
     "time": "2026-05-07T15:22:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "KC(M) faces internal turmoil ahead of steering committee meet on May 9",
-    "desc": "Internal strife is escalating within the Kerala Congress (M) following its failure to win any of the twelve seats it contested in the Assembly elections. Accusations of leadership failures and strained ties with churches have intensified discussions on the party’s future. Chairman Jose K. Mani downplays the crisis, emphasising that the upcoming meeting will address these pressing issues.",
-    "img": "https://th-i.thgim.com/public/incoming/645tpd/article70952099.ece/alternates/LANDSCAPE_1200/80687_4_5_2026_21_15_16_1_1001403340.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-kcm-faces-internal-turmoil-ahead-of-steering-committee-meet-on-may-9/article70951834.ece",
-    "time": "2026-05-07T15:15:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Palaniswami saddened over Stalin’s loss from Kolathur constituency, says AIADMK",
-    "desc": "Confirming that some newly elected legislators of the AIADMK from Tamil Nadu are accommodated in a resort here on the ‘directions’ of Mr. Palaniswami, Mr. Anbalgan said that all legislators are united under the leadership of party general secretary",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/tp8s2o/article70952088.ece/alternates/LANDSCAPE_1200/476ef166-9c90-4a35-a5d6-2237011ac9e2.jfif",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-saddened-over-stalins-loss-from-kolathur-constituency-says-aiadmk/article70950815.ece",
-    "time": "2026-05-07T15:10:41.000Z"
   },
   {
     "cat": "Sports",
@@ -315,33 +450,6 @@ const newsData_en = [
     "time": "2026-05-07T11:18:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "MEA reacts to Dhaka’s ‘pushback’ remarks after BJP’s Bengal win, seeks faster repatriation of illegal Bangladeshi immigrants",
-    "desc": "India urged Bangladesh to expedite nationality verification for illegal immigrants, linking it to repatriation efforts. This response follows Bangladesh's concerns about potential \"pushback\" incidents after the BJP's West Bengal election victory, with Dhaka seeking cooperation for smooth deportations.",
-    "img": "https://static.toiimg.com/photo/msid-130891653,imgsize-410165.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mea-reacts-to-dhakas-pushback-remarks-after-bjps-bengal-win-seeks-faster-repatriation-of-illegal-bangladeshi-immigrants/articleshow/130891472.cms",
-    "time": "2026-05-07T11:17:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'A complete surprise': Pinarayi Vijayan's first reaction on Kerala assembly loss; calls BJP rise 'serious'",
-    "desc": "Kerala's outgoing Chief Minister Pinarayi Vijayan expressed surprise at the Left Democratic Front's election defeat, stating the verdict was unexpected. He pledged the LDF would function as a responsible opposition, advocating for social welfare measures. Vijayan also termed the BJP's increased seat tally in the state a serious development.",
-    "img": "https://static.toiimg.com/photo/msid-130891553,imgsize-1023938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-complete-surprise-pinarayi-vijayans-first-reaction-on-kerala-assembly-loss-calls-bjp-rise-serious/articleshow/130891531.cms",
-    "time": "2026-05-07T11:17:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif plays a cop torn between duty and family safety",
-    "desc": "Shah Rukh Khan’s 'Kartavya' stars Saif Ali Khan as a cop under pressure after a journalist is shot in his care. As he investigates a larger conspiracy, his family faces threats. Directed by Pulkit, the film also stars Rasika Dugal and others. Kartavya premieres on Netflix on May 15, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130890984,imgsize-25684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/kartavya-trailer-out-saif-ali-khan-plays-a-mahadev-ka-bhakt-cop-torn-between-professional-duty-and-family-safety/articleshow/130890984.cms",
-    "time": "2026-05-07T11:12:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "Two former Chinese Defence Ministers sentenced to death for corruption",
     "desc": "Wei and his successor Li, who worked under President Xi Jinping's watch, were expelled from the ruling Communist Party in 2024. They were also former members of the Central Military Commission headed by Mr. Xi",
@@ -360,24 +468,6 @@ const newsData_en = [
     "time": "2026-05-07T11:02:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM, his cabinet team change DP of their social media handles",
-    "desc": "Prime Minister Narendra Modi urged citizens to change their social media display pictures to commemorate the first anniversary of 'Operation Sindoor'. This initiative honors the Indian armed forces' valor and decisive response during the operation along the western border. The campaign aims to express respect for the forces' success and national resolve.",
-    "img": "https://static.toiimg.com/photo/msid-130890509,imgsize-226490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/1-year-of-operation-sindoor-pm-his-cabinet-team-change-dp-of-their-social-media-handles/articleshow/130890512.cms",
-    "time": "2026-05-07T10:54:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tyla talks about meeting Rihanna at the Met Gala",
-    "desc": "Singer Tyla took to her platform to clear up a misunderstanding from the Met Gala that had fans buzzing about Rihanna's alleged snub. She recounted how a mention of a call from Rihanna's partner led to a strangely awkward exchange.",
-    "img": "https://static.toiimg.com/photo/msid-130890489,imgsize-84224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/tyla-explains-how-her-meeting-with-rihanna-felt-awkward-everyone-knows-i-love-riri/articleshow/130890339.cms",
-    "time": "2026-05-07T10:52:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "European Union strikes deal to ban sexualised AI deepfakes",
     "desc": "\"Today, the EU has drawn a red line. AI must never be used to humiliate, exploit or endanger people. For the first time, EU legislation explicitly bans nudifier applications,\" centrist EU lawmaker Michael McNamara said",
@@ -388,30 +478,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Bhagyashree on playing Rajmata Jijabai in Riteish Deshmukh’s ‘Raja Shivaji’",
-    "desc": "Bhagyashree instantly accepted the role of Rajmata Jijabai in Riteish Deshmukh's 'Raja Shivaji', moved by its historical depth and emotional core. She found the story of Swaraj, sacrifice, and family resonated deeply, highlighting Jijabai's strength and modern relevance. The film prioritizes human emotion over warfare, offering a profound look at independence and motherhood.",
-    "img": "https://static.toiimg.com/photo/msid-130889899,imgsize-113178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhagyashree-on-playing-rajmata-jijabai-in-riteish-deshmukhs-dream-project-raja-shivaji-the-moment-he-walked-in-i-said-yes/articleshow/130889823.cms",
-    "time": "2026-05-07T10:33:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Supreme court appoints mediator in Rani Vs Priya legal battle over Sunjay's estate",
     "desc": "The Supreme Court has appointed former CJI DY Chandrachud as a mediator in the estate dispute between Sunjay Kapur's widow, Priya Sachdev Kapur, and his mother, Rani Kapur. The 80-year-old mother is challenging a family trust, alleging forged documents.",
     "img": "https://static.toiimg.com/photo/msid-130889804,imgsize-27708.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-kapur-vs-priya-kapur-legal-battle-over-sunjay-kapurs-rs-30000-crore-estate-supreme-court-appoints-dy-chandrachud-as-mediator/articleshow/130889792.cms",
     "time": "2026-05-07T10:30:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Decision on CM face likely by Sunday as AICC observers meet Congress leaders",
-    "desc": "The Congress is set to announce its Kerala chief ministerial pick by Sunday after consultations with newly elected MLAs and senior leaders. The party high command will make the final decision following a resolution authorizing them to choose the CM candidate. Frontrunners include V D Satheesan, K C Venugopal, and Ramesh Chennithala.",
-    "img": "https://static.toiimg.com/photo/msid-130889754,imgsize-904621.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-government-formation-decision-on-cm-face-likely-by-sunday-as-aicc-observers-meet-congress-leaders/articleshow/130888787.cms",
-    "time": "2026-05-07T10:30:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,15 +576,6 @@ const newsData_en = [
     "time": "2026-05-07T08:07:41.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Cummins, Hazlewood among Australian players not to leave IPL for Pak ODIs if...",
-    "desc": "Australian cricketers will complete their Indian Premier League duties before joining the national squad for the upcoming ODI series in Pakistan. Despite the series overlapping with IPL playoffs, players like Pat Cummins and Mitchell Marsh will fulfill their franchise commitments. Cricket Australia is expected to adjust selections to accommodate these crucial IPL matches.",
-    "img": "https://static.toiimg.com/photo/msid-130884062,imgsize-973221.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/pat-cummins-josh-hazlewood-among-australian-players-not-to-leave-ipl-for-pakistan-odis-if-/articleshow/130884051.cms",
-    "time": "2026-05-07T07:28:31.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Indigenous actor Q’orianka Kilcher sues James Cameron, claims ‘Avatar’ used her face for Neytiri",
     "desc": "Kilcher claims Cameron and several production companies, including The Walt Disney Company and Lightstorm Entertainment, used her likeness after seeing a photograph of her from ‘The New World’, in which she portrayed Pocahontas at the age of 14",
@@ -529,42 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/super-rapid-blitz-poland-2026-gukesh-stays-in-hunt-after-javokhir-sindarov-win-wesley-so-draw-in-grand-chess-tour/article70949805.ece",
     "time": "2026-05-07T07:08:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Reckless, foolish decision’: Warner to accept responsibility in drink-driving case",
-    "desc": "Former Australian cricketer David Warner will accept responsibility for a \"reckless\" and \"foolish\" drink-driving offence. His lawyer stated Warner deeply regrets the incident, acknowledging he made a poor decision to drive after consuming three glasses of wine. The 39-year-old star expects to face consequences like any other citizen.",
-    "img": "https://static.toiimg.com/photo/msid-130883332,imgsize-8270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/a-reckless-foolish-decision-david-warner-to-accept-responsibility-in-drink-driving-case/articleshow/130883141.cms",
-    "time": "2026-05-07T06:49:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat rates RCB teammate Bhuvneshwar among 'top 3 pacers in IPL history'",
-    "desc": "Virat Kohli and Josh Hazlewood lauded Bhuvneshwar Kumar ahead of his 200th IPL appearance. Kohli highlighted Bhuvneshwar's longevity, intelligence, and consistency as one of the IPL's greatest pacers. Hazlewood praised his exceptional swing bowling, tactical awareness, and ability to read match conditions, calling it a remarkable achievement.",
-    "img": "https://static.toiimg.com/photo/msid-130882956,imgsize-191972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-kohli-rates-rcb-teammate-bhuvneshwar-kumar-among-top-3-pacers-in-ipl-history/articleshow/130882904.cms",
-    "time": "2026-05-07T06:41:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pat Cummins offered massive 12 million dollars contract deal to stay with...",
-    "desc": "Australian cricket captain Pat Cummins is reportedly set for a significant contract extension. Cricket Australia is offering a deal that could see him earn nearly AUD 4 million annually until 2029. This move aims to secure top stars amidst the growing allure of global franchise leagues.",
-    "img": "https://static.toiimg.com/photo/msid-130882421,imgsize-57470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/captain-pat-cummins-offered-massive-12-million-dollars-contract-deal-to-stay-with-/articleshow/130882163.cms",
-    "time": "2026-05-07T06:21:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Did Ishan Kishan mock PBKS with viral 'Catch me, if you can' post?",
-    "desc": "Ishan Kishan's explosive 55 off 32 balls, aided by three dropped catches from Punjab Kings, propelled Sunrisers Hyderabad to a commanding 33-run victory. Kishan's cheeky \"Catch me, if you can\" Instagram post after the match highlighted Punjab's costly fielding errors, which proved decisive in SRH's massive 235/4 total.",
-    "img": "https://static.toiimg.com/photo/msid-130881019,imgsize-757306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-did-ishan-kishan-mock-pbks-with-viral-catch-me-if-you-can-post/articleshow/130880871.cms",
-    "time": "2026-05-07T05:36:24.000Z"
   },
   {
     "cat": "Sports",
@@ -619,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/we-would-want-kuldeep-to-be-better-than-this-dc-head-coach-badani/article70948520.ece",
     "time": "2026-05-06T19:43:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India, Vietnam elevate strategic ties, set $25 billion trade target by 2030",
-    "desc": "India and Vietnam have agreed to elevate their relationship to an Enhanced Comprehensive Strategic Partnership, setting an ambitious trade target of $25 billion by 2030. The pact includes expanded cooperation in defense, technology, and digital services, alongside efforts to boost agricultural trade and supply chain resilience.",
-    "img": "https://static.toiimg.com/photo/msid-130863617,imgsize-1107139.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-vietnam-elevate-strategic-ties-set-25-billion-trade-target-by-2030/articleshow/130863439.cms",
-    "time": "2026-05-06T16:45:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -727,24 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/liverpools-van-dijk-rejects-criticism-of-training-regime-after-man-united-defeat/article70940418.ece",
     "time": "2026-05-04T20:29:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New cycling star Paul Seixas to race the Tour de France at 19, with a whole country watching",
-    "desc": "The 19-year-old Frenchman, widely regarded as a potential great and France’s best hope for a future Tour de France winner, announced his participation at cycling’s showpiece race in a video released by his CMA CGM Decathlon team",
-    "img": "https://th-i.thgim.com/public/incoming/fw8jx2/article70940417.ece/alternates/LANDSCAPE_1200/Belgium_Cycling_Liege_Bastogne_Liege_771_8.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/new-cycling-star-paul-seixas-to-race-the-tour-de-france-at-19-with-a-whole-country-watching/article70940385.ece",
-    "time": "2026-05-04T20:22:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marcelino leaving as Villarreal coach after reaching Champions League",
-    "desc": "Marcelino’s second spell as coach at Villarreal began in 2023 and has now seen the team deliver one of its best-ever seasons, placing third in La Liga with four games remaining, on track for its best result in 18 years",
-    "img": "https://th-i.thgim.com/public/incoming/rxs7f3/article70940414.ece/alternates/LANDSCAPE_1200/Villarreal-Marcelino_Out_8219_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/marcelino-leaving-as-villarreal-coach-after-reaching-champions-league/article70940382.ece",
-    "time": "2026-05-04T20:08:32.000Z"
   },
   {
     "cat": "Entertainment",
