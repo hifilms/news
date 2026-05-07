@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Luis Enrique previews PSG's Champions League final clash against Arsenal, gears up for 'difficult' clash",
+    "desc": "The stage is set for the summit clash of the UEFA Champions League. Defending champions PSG will be taking on Arsenal in the final of the tournament at the Puskas Arena in Budapest on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/luis-enrique-previews-psg-s-champions-league-final-clash-against-arsenal-gears-up-for-difficult-clash-2026-05-07-1040239",
+    "time": "2026-05-07T07:23:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Ekana Stadium in Lucknow play?",
+    "desc": "The stage is set for the 50th game of the ongoing IPL (Indian Premier League) 2026. The clash will see Lucknow Super Giants taking on Royal Challengers Bengaluru at the Ekana Stadium in Lucknow on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-rcb-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-2026-05-07-1040227",
+    "time": "2026-05-07T06:25:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan announce home ODI series against Australia, set to kick off on May 30",
     "desc": "In a major development, the PCB (Pakistan Cricket Board) took centre stage and announced a three-game home ODI series against Australia. The two sides will lock horns in late May and early June 2026 and...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/bayern-munich-vs-psg-champions-league-semifinal-live-streaming-when-and-where-to-watch-clash-in-india-2026-05-06-1040177",
     "time": "2026-05-06T16:19:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many catches have PBKS dropped so far in IPL 2026? More costly drops added vs SRH",
-    "desc": "Punjab Kings were guilty in the field once again as the 2025 runners-up dropped three more catches during their clash against the Sunrisers Hyderabad at the Rajiv Gandhi International Stadium, Hyderabad, on Wednesday, May 6. Shashank...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-catches-have-pbks-dropped-so-far-in-ipl-2026-more-costly-drops-added-vs-srh-2026-05-06-1040169",
-    "time": "2026-05-06T15:54:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings' catching woes continue, Shashank Singh, Lockie, Connolly drop sitters during SRH clash",
-    "desc": "Punjab Kings' horrific time on the field continued as they dropped three catches during the first innings of their clash against the Sunrisers Hyderabad on Wednesday, May 6. The likes of Shashank Singh, Lockie Ferguson...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-catching-woes-continue-shashank-singh-lockie-connolly-drop-sitters-during-srh-clash-watch-2026-05-06-1040165",
-    "time": "2026-05-06T15:35:23.000Z"
   }
 ];

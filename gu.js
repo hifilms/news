@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ગંભીર બીમારીથી પિડાઈ રહ્યો છે પૂર્વ ભારતીય ક્રિકેટર, હોસ્પિટલમાં ચાલી રહી છે સારવાર",
+    "desc": "પૂર્વ ભારતીય ફાસ્ટ બોલર સલિલ અંકોલા ડિપ્રેશન સામે ઝઝૂમી રહ્યો છે અને પુણે નજીકના માનસિક સ્વાસ્થ્ય કેન્દ્રમાં સારવાર લઈ રહ્યો છે. તેની પત્ની રિયા અંકોલાએ ખુલાસો કર્યો કે 2024માં તેની માતાના અવસાન પછી તે ભાંગી પડ્યો હતો. અંકોલા હવે ઝડપથી સ્વસ્થ થઈ રહ્યો છે. ક્રિકેટ ઉપરાંત તેણે CID અને ફિલ્મોમાં પણ કામ કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/former-cricketer-salil-ankola-admitted-to-mental-health-care-center-due-to-depression-476845 ",
+    "time": "2026-05-07T07:09:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાન અમે અમેરિકા વચ્ચે ડીલ ફાઇનલ, પરંતુ ઇસ્લામાબાદમાં નહીં યોજાઈ બેઠક! જાણો 2 કારણ",
+    "desc": "ઇસ્લામાબાદમાં બેઠક પર સંકટના વાદળો છવાયા છે. કારણ કે જિનેવામાં બેઠકને લઈને ચર્ચા થઈ રહી છે. તો એક અમેરિકી પત્રકારને ડોનાલ્ડ ટ્રમ્પે પાકિસ્તાન જવાથી રોકી દીધા છે. ટ્રમ્પે ન્યૂયોર્ક પોસ્ટના પત્રકારને કહ્યું કે અત્યારે તમે ઇસ્લામાબાદ ન જાવો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/deal-finalized-between-iran-and-the-us%E2%80%94but-no-meeting-in-islamabad-here-are-2-reasons-476843 ",
+    "time": "2026-05-07T06:51:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;તેણે મારા દીકરાને માર્યો, પણ હું તેને ફાંસી નથી ઈચ્છતી...&amp;#039; સુવેન્દુના PAની હત્યા પર માતાની આ વાત રડાવી દેશે!",
+    "desc": "આ એક માતાની મમતા છે. થોડા કલાકો પહેલા જ તેના પુત્રની સરેઆમ હત્યા કરવામાં આવી હતી, પરંતુ તે હવે હત્યારાને ફાંસી અપાવવા માંગતી નથી. સમગ્ર દેશને હચમચાવી દેનારા આ હત્યાકાંડમાં સુવેન્દુ અધિકારીના PAની માતાનું નિવેદન લોકોને ભાવુક કરી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mother-of-suvendu-adhikaris-slain-aide-demands-life-imprisonment-for-accused-476839 ",
+    "time": "2026-05-07T06:10:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;કેચ-ડ્રોપર&amp;#039; શશાંકનું કાઉન્ટડાઉન શરૂ ? હાર બાદ શ્રેયસ ઐયરની ખૂટી ધીરજ, જાણો કોને ગણાવ્યો હારનો જવાબદાર",
+    "desc": "સનરાઇઝર્સ હૈદરાબાદ સામે પંજાબ કિંગ્સની 33 રનથી કારમી હાર થઈ છે. આ મેચમાં પંજાબ કિંગ્સનો શશાંક સિંહ રડાર પર હતો. કારણ કે છેલ્લી ઘણી મેચોથી શશાંક સિંહ કેચ છોડવાના કારણે શંકાના ઘેરામાં હતો. ત્યારે આ મેચમાં ફરી એકવાર આ જ ભૂલો કરી છે. ત્યારે હવે શ્રેયસ ઐયરે આખરે આ બાબતે પોતાનું મૌન તોડ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shashank-singh-catch-drop-shreyas-iyer-reaction-after-defeat-srh-vs-pbks-ipl-2026-476838 ",
+    "time": "2026-05-07T06:09:57.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "&amp;quot;હું બરાબર પાછળ જ હતો, અચાનક બ્રેક મારી અને...&amp;quot;, સુવેન્દુ અધિકારીના PAની હત્યાના પ્રત્યક્ષદર્શીએ વર્ણવી હકીકત",
     "desc": "પશ્ચિમ બંગાળમાં સુવેન્દુ અધિકારીના PAની ગોળી મારીને હત્યા કરવામાં આવી છે, જેણે દરેકને ચોંકાવી દીધા છે. આ ઘટના બાદ પ્રત્યક્ષદર્શીએ જણાવ્યું કે કાર અચાનક રસ્તાની વચ્ચે ઉભી રહી ગઈ અને બાઇક પર સવાર એક વ્યક્તિ આવ્યો અને કારની ડાબી બાજુથી ગોળીબાર શરૂ કરી દીધો.",
@@ -280,30 +316,12 @@ const newsData_gu = [
   },
   {
     "cat": "Politics",
-    "title": "&amp;quot;અમે ચૂંટણી હાર્યા નથી; હું રાજભવન જઈને રાજીનામું આપીશ નહીંઃ મમતા બેનર્જી",
-    "desc": "પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણીમાં ભારતીય જનતા પાર્ટીને મોટી સફળતા મળી છે. ભાજપે 207 સીટો જીતી છે, જ્યારે ટીએમસીએ 80 સીટો પર સંતોષ કરવો પડ્યો છે. હવે મમતા બેનર્જીએ પત્રકાર પરિષદ યોજી મોટા આરોપ લગાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cec-became-the-villain-of-this-election-to-loot-the-democratic-rights-of-the-people-mamta-banerjee-476592 ",
-    "time": "2026-05-05T11:06:32.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "ચૂંટણી હાર્યા બાદ મમતા બેનર્જીએ કેટલા દિવસમાં ખાલી કરવું પડશે CM હાઉસ ? જાણો શું છે નિયમ",
     "desc": "પશ્ચિમ બંગાળની ચૂંટણીમાં મમતા બેનર્જીની કારમી હાર થઈ છે. મમતા દીદીની હાર બાદ હવે મુખ્યમંત્રી નિવાસસ્થાન ખાલી કરવા અંગે ચર્ચાઓ શરૂ થઈ છે, ત્યારે આ લેખમાં જાણીશું કે, હાર બાદ મુખ્યમંત્રીએ કેટલા દિવસમાં CM હાઉસ ખાલી કરવું જરૂરી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/how-many-days-will-mamata-banerjee-have-to-vacate-cm-house-after-losing-the-election-476593 ",
     "time": "2026-05-05T10:57:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સુવેન્દુ અધિકારીને નાનો ભાઈ ગણતા હતા મમતા બેનર્જી, એવું તે શું થયું કે રાજકારણનાં &amp;#039;જાની દુશ્મન&amp;#039; બન્યા? ખાસ જાણો",
-    "desc": "પશ્ચિમ બંગાળની વિધાનસભા ચૂંટણી આ વખતે એક એવા વળાંક પર આવી કે એક સમયે જેને મમતાદીદીને નાનાભાઈ ગણાવ્યાં હતાં તે સુવેન્દુ અધિકારી જ તેમની સજ્જડ હારનું કારણ બન્યા. ત્યારે એવો વિચાર આવે કે આખરે એવું તે શું થયું હશે કે મમતા બેનર્જી અને સુવેન્દુ અધિકારી વચ્ચે સંબંધો આટલા બધા વણસી ગયા? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-results-2026-political-rivalry-between-mamata-banerjee-and-suvendu-adhikari-476590 ",
-    "time": "2026-05-05T10:49:55.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +477,6 @@ const newsData_gu = [
     "time": "2026-05-03T12:01:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "122 છગ્ગા અને 127 ચોગ્ગા... આ ધાકડ બેટ્સમેને T20માં બનાવ્યો 1,488 રનનો અશક્ય રેકોર્ડ",
-    "desc": "T20 આંતરરાષ્ટ્રીય ક્રિકેટમાં એક એવો વિશ્વ રેકોર્ડ છે જેને તોડવો લગભગ અશક્ય છે. ટી20 આંતરરાષ્ટ્રીય ક્રિકેટમાં 1,488 રન બનાવવા લગભગ અશક્ય લાગે છે, છતાં આ રેકોર્ડ બન્યો છે. આ ધાકડ બેટ્સમેને T20માં 1,488 રન બનાવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/unique-cricket-record-karanbir-singh-most-runs-in-a-calendar-year-in-t20-476159 ",
-    "time": "2026-05-03T11:39:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "આ તારીખથી ATMમાંથી ફટાફટ નીકળશે PFના રૂપિયા, જાણો લોન્ચિંગ પહેલા સ્ટેપ-બાય-સ્ટેપ પ્રોસેસ",
     "desc": "ATM કાર્ડથી PFના રૂપિયા ઉપાડવા હવે ટૂંક જ સમયમાં શક્ય બની જશે. કર્મચારી ભવિષ્ય નિધિ સંગઠન એટલે કે EPFO ટૂંક જ સમયમાં આ સર્વિસની શરૂઆત કરવા જઈ રહ્યું છે. EPFOએ આ સુવિધા શરૂ કરવા માટે તમામ જરૂરી તૈયારીઓ પૂર્ણ કરી લીધી છે.",
@@ -475,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/from-this-date-pf-money-will-be-withdrawn-from-atms-instantly-know-the-step-by-step-process-before-launching-476157 ",
     "time": "2026-05-03T10:59:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPLમાં મેગા ડીલ... રાજસ્થાન રોયલ્સ ₹15,000 કરોડમાં વેચાઈ, જાણો કોણ છે ખરીદનાર",
-    "desc": "રાજસ્થાન રોયલ્સને મિત્તલ ફેમિલી અને આદર પૂનાવાલા દ્વારા ખરીદવામાં આવી છે. આ મોટી ડીલ સાથે રાજસ્થાન રોયલ્સ હવે એક નવા યુગમાં પ્રવેશ કરવા માટે તૈયાર છે. જેમાં વૈશ્વિક રોકાણ અને નવા વિઝન દ્વારા ટીમને આગળ વધારવાની તૈયારીઓ ચાલી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-mega-deal-adar-poonawalla-and-mittal-family-buys-rajasthan-royals-476151 ",
-    "time": "2026-05-03T10:08:23.000Z"
   },
   {
     "cat": "Business",
@@ -520,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/marine-commander-claims-iran-is-going-to-drop-heart-attack-bomb-476063 ",
     "time": "2026-05-02T14:19:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Vodafone-Idea: 50000 કરોડ નહીં મળ્યા તો ડૂબી જશે દિગ્ગજ કંપની? ભારતને કેમ છે Viની જરૂર ? અદાણી, જિંદાલ સહિત અનેક દિગ્ગજો મેદાનમાં, જાણો",
-    "desc": "વોડાફોન-આઈડિયા આજે એવા તબક્કે છે જ્યાં તે શાનદાર પુનરાગમન કરશે અથવા કોર્પોરેટ ઇતિહાસની સૌથી મોટી નિષ્ફળતાઓમાંની એક બનશે. ₹50,000 કરોડનું આ ભંડોળ ફક્ત પૈસા જ નહીં, પરંતુ આ બ્રાન્ડ પર દુનિયાનો વિશ્વાસ રજૂ કરશે. શું આપણે એક નવો ટેલિકોમ સુલતાન જોશું? રાહ જુઓ, કારણ કે આ ટેલિકોમ ગેમનું અંતિમ પરિણામ હજુ જાહેર થયું નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-adani-acquire-more-giant-companies-will-there-be-a-stir-in-the-telecom-market-find-out-476040 ",
-    "time": "2026-05-02T13:03:51.000Z"
   },
   {
     "cat": "Tech",
@@ -664,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-romantic-drama-film-on-netflix-do-diwane-shahar-mein-film-on-ott-475175 ",
     "time": "2026-04-28T02:51:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "વિવાદ પછી થલપતિ વિજયની ફિલ્મ જન નાયકન થશે રિલીઝ, જાણી લો ડેટ",
-    "desc": "થલપતિ વિજયની ફિલ્મ જન નાયકન 9 જાન્યુઆરીએ રિલીઝ થવાની હતી પરંતુ સેન્સર બોર્ડ અને કાયદાકીય જંગના કારણે ફિલ્મની રિલીઝ અટકી ગઈ હતી. હવે આ ફિલ્મ રિલીઝ થવા જઈ રહી છે. જાણવા મળતી માહિતી અનુસાર ગણતરીના દિવસોમાં આ ફિલ્મને બોક્સ ઓફિસ પર રિલીઝ કરી દેવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/thalapathy-vijay-jana-nayagan-film-release-date-latest-update-475116 ",
-    "time": "2026-04-27T12:49:24.000Z"
   }
 ];
