@@ -1,12 +1,66 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "The opener slams 111 off just 56 balls as the home side ends up with 209 for thee in a game reduced to 19 overs a side; the pacer claims three as RCB falls short in pursuit of a revised target of 213",
+    "img": "https://th-i.thgim.com/public/incoming/ya89d3/article70952680.ece/alternates/LANDSCAPE_1200/IPL%202026%2010.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-lsg-vs-rcb-match-updates-may-7-2026/article70952488.ece",
+    "time": "2026-05-07T21:41:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shakira teases new song 'Dai Dai'",
+    "desc": "Global music sensation Shakira has unveiled a teaser for her new FIFA World Cup 2026 anthem, \"Dai Dai,\" featuring Afrobeats star Burna Boy. Filmed at Rio de Janeiro's iconic Maracana Stadium, the track promises a powerful blend of languages and rhythms. This marks Shakira's return to World Cup anthems after her massive 2010 hit.",
+    "img": "https://static.toiimg.com/photo/msid-130925472,imgsize-150728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-teases-new-song-for-fifa-world-cup-2026-unveils-dai-dai-with-afrobeats-star-burna-boy-watch/articleshow/130924987.cms",
+    "time": "2026-05-07T21:10:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tanishaa praises Dhurandhar but says Bollywood has become ‘colder’",
+    "desc": "Tanishaa Mukerji has opened up about the changing culture in Bollywood, saying the film industry today feels far more “corporate” and emotionally disconnected compared to the environment she grew up witnessing as a child. In a recent chat, Tanishaa reflected on how relationships, integrity and passion for cinema have gradually taken a backseat to commerce and profits.",
+    "img": "https://static.toiimg.com/photo/msid-130924117,imgsize-62082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanishaa-mukerji-praises-dhurandhar-but-says-bollywood-has-become-colder-less-about-values-more-about-money-and-profits/articleshow/130923967.cms",
+    "time": "2026-05-07T20:42:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hockey India announces U18 men's, women's squad for Australia series",
+    "desc": "The four-match series, to be played at SAI Bhopal, is a critical part of the teams’ preparations for the Men’s and Women’s U-18 Asia Cup to be held at Kakamigahara, Japan, from May 29-June 6",
+    "img": "https://th-i.thgim.com/public/news/national/d599ve/article70952696.ece/alternates/LANDSCAPE_1200/Hockey.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/hockey-india-announces-u18-mens-womens-squad-for-australia-series/article70952682.ece",
+    "time": "2026-05-07T20:03:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Concerns mount over new Nepal government’s use of ordinances and eviction drive",
+    "desc": "Analysts say the new Balendra Shah government, which has a whopping majority in Parliament, is trying to rule by ordinances and is bypassing legislative debate; it also faced pushback over clearance of ‘illegal’ settlements along riverbanks in Kathmandu Valley, that left many without homes",
+    "img": "https://th-i.thgim.com/public/incoming/gtiodh/article70952453.ece/alternates/LANDSCAPE_1200/AFP_A9JK4DP.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/concerns-mount-over-new-nepal-governments-use-of-ordinances-and-eviction-drive/article70951335.ece",
+    "time": "2026-05-07T19:34:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "LSG end six-match losing streak to shake up playoff battle",
     "desc": "Royal Challengers Bengaluru's playoff advantage diminished after a loss to Lucknow Super Giants, placing them level with Rajasthan Royals and Gujarat Titans. LSG's significant victory, their first in six games and ending an eight-match home losing streak, was powered by Mitchell Marsh's 111. Sunrisers Hyderabad maintain their lead at the top of the IPL 2026 points table.",
     "img": "https://static.toiimg.com/photo/msid-130919275,imgsize-179502.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-points-table-after-match-50-lsg-end-six-match-losing-streak-to-shake-up-playoff-battle/articleshow/130919080.cms",
     "time": "2026-05-07T19:09:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Filmmaker Raj Chakraborty announces decision to quit politics",
+    "desc": "Filmmaker-turned-politician Raj Chakraborty on Thursday announced his decision to quit active politics, days after the TMC candidate lost to BJP's Kaustav Bagchi in the West Bengal assembly elections from Barrackpore. Chakraborty, who had won the Barrackpore seat in 2021, lost the constituency this time to Bagchi by 15,822 votes.",
+    "img": "https://static.toiimg.com/photo/msid-130918826,imgsize-60946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/filmmaker-raj-chakraborty-announces-decision-to-quit-politics-after-poll-setback/articleshow/130918725.cms",
+    "time": "2026-05-07T19:00:27.000Z"
   },
   {
     "cat": "Politics",
@@ -34,15 +88,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/seven-infants-received-at-ammathottil-in-kozhikode-in-nine-months/article70951647.ece",
     "time": "2026-05-07T18:22:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Demand to streamline traffic, ensure commuter safety on Ernakulam Junction, Town station premises",
-    "desc": "Passenger associations and others say the Railways have failed to streamline traffic and ensure pedestrian safety at the two stations even though redevelopment works began in 2023 and were scheduled to be completed by August 2025",
-    "img": "https://th-i.thgim.com/public/incoming/b0d471/article70952610.ece/alternates/LANDSCAPE_1200/Rilway04.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/demand-to-streamline-traffic-ensure-commuter-safety-on-ernakulam-junction-town-station-premises/article70951971.ece",
-    "time": "2026-05-07T18:22:07.000Z"
   },
   {
     "cat": "Sports",
@@ -315,15 +360,6 @@ const newsData_en = [
     "time": "2026-05-07T13:18:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rat poison ingredient caused deaths of four members of Mumbai family, not watermelon consumption: Official",
-    "desc": "Tragedy struck a South Mumbai family as four members, including two daughters, succumbed to zinc phosphide poisoning, not watermelon as initially suspected. The family experienced severe vomiting and loose motions after consuming the chemical, commonly found in rat poison. Investigations are ongoing, with forensic reports expected to confirm the cause of death.",
-    "img": "https://static.toiimg.com/photo/msid-130898917,imgsize-692373.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rat-poison-ingredient-caused-deaths-of-four-members-of-mumbai-family-not-watermelon-consumption-official/articleshow/130898939.cms",
-    "time": "2026-05-07T13:17:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jake Hall passes away in villa party accident at age 35",
     "desc": "Reality TV star Jake Hall, aged 35, tragically passed away following an accident at a villa party in Majorca. Reports indicate he sustained fatal head wounds from broken glass after allegedly smashing through a door. Authorities are investigating the incident, which witnesses suggest may have involved alcohol and agitation. The news has prompted widespread tributes from heartbroken fans and friends.",
@@ -331,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/towie-star-jake-hall-passes-away-at-35-at-majorca-villa-party-netizens-pay-their-respects-report/articleshow/130898726.cms",
     "time": "2026-05-07T13:16:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mid-air scare: Eknath Shinde’s helicopter makes U-turn amid bad weather",
-    "desc": "Maharashtra deputy chief minister Eknath Shinde's helicopter returned to Mumbai due to bad weather. The aircraft, en route to Murbad for a wedding, encountered an approaching storm near Airoli. The pilot's quick thinking ensured a safe landing at Juhu, with Shinde and his staff unharmed. This incident follows a past aviation tragedy involving another deputy chief minister.",
-    "img": "https://static.toiimg.com/photo/msid-130898623,imgsize-33280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mid-air-scare-eknath-shindes-helicopter-makes-u-turn-amid-bad-weather/articleshow/130898344.cms",
-    "time": "2026-05-07T13:11:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,24 +405,6 @@ const newsData_en = [
     "time": "2026-05-07T12:23:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Baseless imputations’: MEA dismisses Canadian spy agency’s allegations on foreign interference",
-    "desc": "India has rejected Canadian Security Intelligence Service (CSIS) allegations of foreign interference, calling them \"baseless imputations\" and reiterating its policy of not interfering in other nations' internal affairs. New Delhi also raised concerns about extremist and separatist elements operating from Canadian soil, while the CSIS report noted a more restrained tone on India compared to previous assessments.",
-    "img": "https://static.toiimg.com/photo/msid-130895674,imgsize-1121294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/baseless-imputations-mea-dismisses-canadian-spy-agencys-allegations-on-foreign-interference/articleshow/130894227.cms",
-    "time": "2026-05-07T12:22:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Honey Singh denies performing the controversial track 'Volume 1'",
-    "desc": "Yo Yo Honey Singh has denied performing the controversial track 'Volume 1' at a Delhi event, his lawyer informed the Delhi High Court. The court has directed the singer to file a formal affidavit detailing his stance. The Hindu Shakti Dal had petitioned for the song's removal, citing its vulgar lyrics.",
-    "img": "https://static.toiimg.com/photo/msid-130895453,imgsize-26686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/honey-singh-denies-performing-the-controversial-track-volume-1-during-an-event-no-such-event-happened/articleshow/130895483.cms",
-    "time": "2026-05-07T12:17:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "Rubio in Vatican for talks with Pope Leo XIV after tensions over Trump’s criticism",
     "desc": "Several Italian commentators believe the U.S. Secretary of State was looking to smooth over relations with the pope for his own political ambitions as well as the upcoming midterm congressional elections and 2028 presidential race",
@@ -403,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/rubio-in-vatican-for-talks-with-pope-leo-xiv/article70950909.ece",
     "time": "2026-05-07T12:11:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan-Nayanthara’s upcoming action thriller reportedly gets a title ‘The Messengers’",
-    "desc": "Salman Khan and Nayanthara are set to star in Vamshi Paidipally's upcoming action thriller, reportedly titled 'The Messengers'. Filming has commenced, with a schedule in Mumbai concluded and Manali next. Rajpal Yadav will portray a multi-shaded character, moving beyond his usual comedic roles. The film, slated for an Eid 2027 release, is reportedly more intense than Salman's previous spy outings.",
-    "img": "https://static.toiimg.com/photo/msid-130894900,imgsize-499285.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/salman-khan-and-nayantharas-movie-directed-by-vamshi-paidipally-to-be-named-the-messengers-report/articleshow/130894567.cms",
-    "time": "2026-05-07T12:08:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -439,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/you-put-me-in-jail-now-its-my-turn-lionel-messis-goat-tour-organiser-threatens-tmc-after-bengal-polls/articleshow/130891401.cms",
     "time": "2026-05-07T11:24:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MEA says India gave ‘befitting reply’ to Pakistan-backed terror, reiterates ‘right to defend’",
-    "desc": "India marked the first anniversary of Operation Sindoor, a decisive response to Pakistan-sponsored cross-border terrorism following the deadly Pahalgam attack. The Ministry of External Affairs stated the world recognized the attack and India's right to self-defense. The operation successfully targeted terror launchpads, demonstrating India's commitment to combating terrorism.",
-    "img": "https://static.toiimg.com/photo/msid-130891686,imgsize-729274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/operation-sindoor-anniversary-mea-says-india-gave-befitting-reply-to-pakistan-backed-terror-reiterates-right-to-defend/articleshow/130890937.cms",
-    "time": "2026-05-07T11:18:09.000Z"
   },
   {
     "cat": "World",
@@ -529,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/gautam-gambhir-faces-fresh-criticism-ex-indian-cricketer-calls-him-a-bully/articleshow/130887759.cms",
     "time": "2026-05-07T09:38:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Raja Shivaji' BO day 7 [LIVE]: Riteish Deshmukh film nets Rs. 51 crore",
-    "desc": "'Raja Shivaji', directed by and starring Riteish Deshmukh as Chhatrapati Shivaji Maharaj, is on the verge of crossing Rs. 50 crore India net in its first weekm a historic first for Marathi cinema. Released on Maharashtra Day (May 1, 2026), the Rs. 100 crore production set the highest-ever Marathi first Monday (Rs. 5.60 crore) and delivered an extraordinary weekday hold throughout its opening week. The film features Sanjay Dutt, Abhishek Bachchan, Vidya Balan, Genelia Deshmukh and the debut of Rahyl Deshmukh, with Salman Khan's viral surprise cameo as Jiva Mahala, Ajay-Atul's music and Santosh Sivan's cinematography.",
-    "img": "https://static.toiimg.com/photo/msid-130887812,imgsize-143448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/raja-shivaji-box-office-collection-day-7-live-riteish-deshmukh-salman-khan-abhishek-bachchan-sanjay-dutt-vidya-balan-starrer-to-cross-rs-50-crore-in-first-week/articleshow/130887688.cms",
-    "time": "2026-05-07T09:29:23.000Z"
   },
   {
     "cat": "Sports",
@@ -727,24 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-retain-no-1-position-in-icc-t20i-rankings/article70942548.ece",
     "time": "2026-05-05T10:44:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian women’s hockey team goalkeepers attend special camp under Ireland's Williamson",
-    "desc": "Senior goalkeepers Savita, Bichu Devi, Bansari, and Madhuri attended the sessions, allowing them to focus extensively on technical basics, decision-making, defensive organisation, and tactical awareness in match situations as the team prepares for major tournaments in the upcoming international calendar",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/indian-womens-hockey-team-goalkeepers-attend-special-camp-under-irelands-williamson/article70940421.ece",
-    "time": "2026-05-04T20:38:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Liverpool’s Van Dijk rejects criticism of training regime after Man United defeat",
-    "desc": "“If you have one ​day off - and you ‌don’t have many days off - people decide what they want to do with their families. We are not kids. Everyone is an adult,” said van Dijk when ‌asked about online claims that Liverpool’s training ‌schedule ⁠has been light, including suggestions players were ⁠on holiday last week",
-    "img": "https://th-i.thgim.com/public/incoming/28d84l/article70940419.ece/alternates/LANDSCAPE_1200/2026-05-03T135859Z_514948089_UP1EM5312UAET_RTRMADP_3_SOCCER-ENGLAND-MUN-LIV.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/liverpools-van-dijk-rejects-criticism-of-training-regime-after-man-united-defeat/article70940418.ece",
-    "time": "2026-05-04T20:29:29.000Z"
   },
   {
     "cat": "Entertainment",
