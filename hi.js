@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan announce home ODI series against Australia, set to kick off on May 30",
+    "desc": "In a major development, the PCB (Pakistan Cricket Board) took centre stage and announced a three-game home ODI series against Australia. The two sides will lock horns in late May and early June 2026 and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-home-odi-series-against-australia-set-to-kick-off-on-may-30-2026-05-07-1040220",
+    "time": "2026-05-07T05:36:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer suggests changes in RCB's batting order ahead of LSG clash",
+    "desc": "The 50th game of the ongoing IPL (Indian Premier League) 2026 sees Royal Challengers Bengaluru taking on Lucknow Super Giants. The two sides will lock horns at the Ekana Stadium in Lucknow on May 7th,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-suggests-changes-in-rcb-s-batting-order-ahead-of-lsg-clash-2026-05-07-1040216",
+    "time": "2026-05-07T04:51:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSG edge past Bayern Munich in controversial semi-final clash to reach second straight Champions League final",
+    "desc": "PSG have qualified for their second straight UEFA Champions League final after they defeated German giants Bayern Munich across two legs in the semi-final of the tournament. It is worth noting that PSG had gotten...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/psg-edge-past-bayern-munich-in-controversial-semi-final-clash-to-reach-second-straight-champions-league-final-2026-05-07-1040207",
+    "time": "2026-05-07T03:44:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sunrisers Hyderabad continue to dominate Punjab Kings in IPL 2026, surpass KKR and CSK's tally",
     "desc": "Sunrisers Hyderabad put forth a brilliant performance against Punjab Kings in the 49th game of the ongoing IPL (Indian Premier League) 2026. After posting a total of 235 runs in the first innings of the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-catching-woes-continue-shashank-singh-lockie-connolly-drop-sitters-during-srh-clash-watch-2026-05-06-1040165",
     "time": "2026-05-06T15:35:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings, PCA mourn demise of former player Amanpreet Singh Gill",
-    "desc": "Punjab Kings and Punjab Cricket Association mourned the demise of former player Amanpreet Singh Gill, who passed away early morning on Wednesday, May 6. The IPL franchise posted an Instagram story for Amanpreet, who was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-pca-mourn-demise-of-former-player-amanpreet-singh-gill-2026-05-06-1040160",
-    "time": "2026-05-06T14:40:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Nitish Kumar Reddy playing for SRH in IPL 2026 clash against PBKS in Hyderabad?",
-    "desc": "Nitish Kumar Reddy is back in action for Sunrisers Hyderabad in their IPL 2026 clash against the Punjab Kings at the Rajiv Gandhi International Stadium in Hyderabad on Wednesday, May 6. Nitish had missed out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-nitish-kumar-reddy-playing-for-srh-in-ipl-2026-clash-against-pbks-in-hyderabad-2026-05-06-1040152",
-    "time": "2026-05-06T13:38:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KSCA reacts to stripping away of IPL 2026 final from Bengaluru's Chinnaswamy Stadium",
-    "desc": "The Karnataka State Cricket Association reacted to the shift of the Indian Premier League 2026 playoffs and final away from Bengaluru's M.Chinnaswamy Stadium to the Narendra Modi Stadium in Ahmedabad. Bengaluru was set to host the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ksca-reacts-to-stripping-away-of-ipl-2026-final-from-bengalurus-chinnaswamy-stadium-2026-05-06-1040145",
-    "time": "2026-05-06T13:12:14.000Z"
   }
 ];
