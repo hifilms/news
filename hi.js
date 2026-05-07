@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Phil Salt not playing vs LSG in IPL 2026? When will RCB opener back in action?",
+    "desc": "Royal Challengers Bengaluru opener Phil Salt has been out of action since the game against Delhi Capitals on April 18. He scored 63 runs in the match. However, since then, Salt has been under monitoring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-phil-salt-not-playing-vs-lsg-in-ipl-2026-when-will-rcb-opener-back-in-action-2026-05-07-1040299",
+    "time": "2026-05-07T13:51:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI's new advisory to restrict players from travelling with girlfriends, new rules for owners too",
+    "desc": "The BCCI is set to introduce tighter restrictions around team environments in the IPL after concerns emerged over the movement of unauthorised individuals alongside franchises during the 2026 season. The proposed clampdown is expected to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-s-new-advisory-to-restrict-players-from-travelling-with-girlfriends-new-rules-for-owners-too-2026-05-07-1040297",
+    "time": "2026-05-07T13:17:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can Babar Azam score first Test century in nearly four years? Shan Masood reflects on form ahead of BAN clash",
+    "desc": "Pakistan captain Shan Masood believes Babar Azam will deliver with the bat in the opening Test against Bangladesh at the Sher-e-Bangla National Cricket Stadium on May 8. After an outstanding Pakistan Super League campaign, Babar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/can-babar-azam-score-first-test-century-in-nearly-four-years-shan-masood-reflects-on-form-ahead-of-bangladesh-match-2026-05-07-1040288",
+    "time": "2026-05-07T12:27:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Yuzvendra Chahal caught smoking e-cigarette during flight, video goes viral",
     "desc": "Punjab Kings spinner Yuzvendra Chahal was captured smoking an e-cigarette during a team flight. The clip spread rapidly across multiple platforms and appeared to show the veteran leg-spinner attempting to keep the act hidden while...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-home-odi-series-against-australia-set-to-kick-off-on-may-30-2026-05-07-1040220",
     "time": "2026-05-07T05:36:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer suggests changes in RCB's batting order ahead of LSG clash",
-    "desc": "The 50th game of the ongoing IPL (Indian Premier League) 2026 sees Royal Challengers Bengaluru taking on Lucknow Super Giants. The two sides will lock horns at the Ekana Stadium in Lucknow on May 7th,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-suggests-changes-in-rcb-s-batting-order-ahead-of-lsg-clash-2026-05-07-1040216",
-    "time": "2026-05-07T04:51:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSG edge past Bayern Munich in controversial semi-final clash to reach second straight Champions League final",
-    "desc": "PSG have qualified for their second straight UEFA Champions League final after they defeated German giants Bayern Munich across two legs in the semi-final of the tournament. It is worth noting that PSG had gotten...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/psg-edge-past-bayern-munich-in-controversial-semi-final-clash-to-reach-second-straight-champions-league-final-2026-05-07-1040207",
-    "time": "2026-05-07T03:44:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad continue to dominate Punjab Kings in IPL 2026, surpass KKR and CSK's tally",
-    "desc": "Sunrisers Hyderabad put forth a brilliant performance against Punjab Kings in the 49th game of the ongoing IPL (Indian Premier League) 2026. After posting a total of 235 runs in the first innings of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-continue-to-dominate-punjab-kings-in-ipl-2026-surpass-kkr-and-csk-s-tally-2026-05-07-1040199",
-    "time": "2026-05-07T02:15:06.000Z"
   }
 ];
