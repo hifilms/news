@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at Arun Jaitley Stadium in Delhi play?",
+    "desc": "The stage is set for the 51st game of the ongoing IPL (Indian Premier League) 2026. Delhi Capitals will take on Kolkata Knight Riders at the Arun Jaitley Stadium in Delhi on May 8th. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-kkr-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-05-08-1040382",
+    "time": "2026-05-08T07:14:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer to replace Suryakumar Yadav as India's T20I captain as BCCI eyes major change: Report",
+    "desc": "In a major development for Indian cricket, a recent report stated that the BCCI (Board of Control for Cricket in India) is looking for a change in leadership, and Suryakumar Yadav is set to be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-to-replace-suryakumar-yadav-as-india-s-t20i-captain-as-bcci-eyes-major-change-report-2026-05-08-1040375",
+    "time": "2026-05-08T06:31:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer reflects on Virat Kohli's dismissal after loss against LSG",
+    "desc": "Lucknow Super Giants registered a brilliant victory against Royal Challengers Bengaluru in the 50th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Ekana Stadium in Lucknow on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-virat-kohli-s-dismissal-after-loss-against-lsg-2026-05-08-1040361",
+    "time": "2026-05-08T05:36:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Real Madrid's Federico Valverde to miss El Clasico due to head injury after altercation with Tchouameni",
     "desc": "In a major blow to Spanish club Real Madrid, the side’s star player, Fede Valverde, is all set to miss the side’s upcoming clash against FC Barcelona as he is recovering from an injury that...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-ruled-out-of-first-test-against-bangladesh-in-mirpur-here-s-why-2026-05-07-1040319",
     "time": "2026-05-07T17:28:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Marsh breaks Rishabh Pant's record with century vs RCB in IPL 2026",
-    "desc": "Mitchell Marsh smacked the fastest century by a Lucknow Super Giants batter in IPL history. Against Royal Challengers Bengaluru, the Australia international reached the three-figure mark in just 49 deliveries and set the tone of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-marsh-breaks-rishabh-pant-s-record-with-century-vs-rcb-in-ipl-2026-2026-05-07-1040314",
-    "time": "2026-05-07T16:49:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh cricketer banned for life; 4 others suspended in BCB's corruption probe",
-    "desc": "The Bangladesh Cricket Board (BCB) charged four individuals with breaches of the ICC anti-corruption code. They imposed a lifetime ban on former Chattogram Royals player Saminur Rahman and four others have been suspended in an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricketer-banned-for-life-4-others-suspended-in-bcb-s-corruption-probe-2026-05-07-1040312",
-    "time": "2026-05-07T16:14:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fede Valverde left unconscious, carried off field on stretcher after fight with teammate Tchouameni",
-    "desc": "Real Madrid midfielders Federico Valverde and Aurelien Tchouameni once again engaged in a heated spat during training. It led to an emergency medical situation as one of the club captains, Valverde, was forced to be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fede-valverde-left-unconscious-carried-off-field-on-stretcher-after-fight-with-real-madrid-teammate-tchouameni-2026-05-07-1040308",
-    "time": "2026-05-07T15:29:46.000Z"
   }
 ];

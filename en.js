@@ -1,21 +1,147 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Palaniswami saddened over Stalin’s loss from Kolathur constituency, says Puducherry leader Anbalagan",
+    "desc": "Confirming that some newly elected legislators of the AIADMK from Tamil Nadu are accommodated in a resort in Puducherry on the ‘directions’ of Mr. Palaniswami, Mr. Anbalgan said that all legislators are united under the leadership of party general secretary",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/tp8s2o/article70952088.ece/alternates/LANDSCAPE_1200/476ef166-9c90-4a35-a5d6-2237011ac9e2.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-saddened-over-stalins-loss-from-kolathur-constituency-says-aiadmk/article70950815.ece",
+    "time": "2026-05-08T07:10:13.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Bharat is sacred, bound together by a sense of oneness: PM Modi",
     "desc": "The Prime Minister, in a signed article marking 75 years since the restored Somnath Temple was reopened to devotees, said the struggles and sacrifices of those who laid down their lives to protect the temple in Gujarat and those who rebuilt it time and again will never be forgotten",
     "img": "https://th-i.thgim.com/public/incoming/exv3rl/article70954008.ece/alternates/LANDSCAPE_1200/20260428200L.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/somnath-temple-75th-anniversary-pm-modi-restoration-of-somnath/article70953962.ece",
-    "time": "2026-05-08T05:25:24.000Z"
+    "time": "2026-05-08T06:42:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Dhurandhar 3 happening? Producer drops major hint",
+    "desc": "Co-producer Jyoti Deshpande has hinted that the Dhurandhar franchise is far from over, teasing a 'surprise' for fans later this year and confirming they are 'not done yet.' The comment has sparked speculation about a third instalment, following the two films collectively grossing over Rs 3,000 crore worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-130951926,imgsize-64396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-dhurandhar-3-happening-producer-drops-major-hint-leaves-fans-guessing/articleshow/130951926.cms",
+    "time": "2026-05-08T06:39:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonam shares RARE picture with romantic note for Anand",
+    "desc": "Sonam Kapoor and Anand Ahuja are celebrating their eighth wedding anniversary and a decade together. The actress shared a heartfelt note calling him \"the calm in my chaos,\" along with rare family pictures. Married in 2018, the couple are proud parents to sons Vayu and their newborn, welcomed in March 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130951801,imgsize-33528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-kapoor-shares-rare-family-picture-with-romantic-note-for-anand-ahuja-on-their-8th-wedding-anniversary-theres-nobody-else/articleshow/130951801.cms",
+    "time": "2026-05-08T06:35:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madhavan re-shares post on habits men appreciate in partner",
+    "desc": "Actor R Madhavan has ignited a social media buzz by sharing five key habits men value in a partner. These include initiating affection, speaking positively about him publicly, showing spontaneous love, expressing clear trust, and prioritizing him over external attention. The post emphasizes consistent gestures and emotional understanding over grand romantic displays. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130951710,imgsize-150334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-right-woman-makes-you-feel-r-madhavan-re-shares-a-relationship-post-on-habits-men-appreciate-in-a-partner/articleshow/130951567.cms",
+    "time": "2026-05-08T06:35:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rs 27 crore, one big question",
+    "desc": "Rishabh Pant’s unbeaten 32 helped Lucknow Super Giants beat Royal Challengers Bengaluru by nine runs in Lucknow, but questions over his T20 form continue to grow. Once seen as one of India’s brightest white-ball stars, Pant has struggled for consistency in recent IPL seasons despite becoming the league’s most expensive player at Rs 27 crore. His falling returns in T20 cricket, changing role at LSG and growing competition for India spots have added to the pressure, with Irfan Pathan also admitting the wicketkeeper-batter is under scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-130951630,imgsize-945326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rs-27-crore-one-big-question-what-has-happened-to-rishabh-pant-in-t20s/articleshow/130951530.cms",
+    "time": "2026-05-08T06:31:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI warns IPL teams over honey-trap risks, tightens hotel room access rules",
+    "desc": "The BCCI has issued a stern warning to IPL franchises regarding 'targeted compromise and honey-trapping,' enhancing security and access protocols. Stricter rules now govern hotel room access, unauthorised departures, and accreditation display. Franchise owners face new restrictions on interacting with players during matches, and vaping is strictly prohibited, with severe penalties for violations.",
+    "img": "https://static.toiimg.com/photo/msid-130950932,imgsize-59906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/bcci-warns-ipl-teams-over-honey-trap-risks-tightens-hotel-room-access-rules/articleshow/130950745.cms",
+    "time": "2026-05-08T06:08:32.000Z"
   },
   {
     "cat": "Politics",
-    "title": "T.N. Government formation LIVE: Congress exited alliance after realising DMK’s intent to join hands with AIADMK ‘for power’, claims MP Manickam Tagore",
-    "desc": "CPI, CPI(M), VCK hold the key to any further churn in T.N. politics; DMK would not join the government, but the allies are free to take a decision on joining the government, says M.K. Stalin",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-live-updates-cpi-cpim-vck-key-to-govt-formation-dmk-aiadmk-tvk-politics/article70953684.ece",
-    "time": "2026-05-08T05:24:21.000Z"
+    "title": "Vijay under pressure, DMK-AIADMK scramble to stop TVK from forming govt: Tamil Nadu post-poll chaos explained in 10 points",
+    "desc": "Tamil Nadu's political landscape shifted dramatically as Vijay's TVK emerged as the largest party, winning 108 seats but falling short of a majority. Intense negotiations followed, with Congress backing TVK, causing friction with the DMK. Accusations of gubernatorial pressure surfaced, while both TVK and AIADMK reportedly engaged in resort politics amid a complex government formation battle.",
+    "img": "https://static.toiimg.com/photo/msid-130950774,imgsize-596544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vijay-under-pressure-dmk-aiadmk-scramble-to-stop-tvk-from-forming-govt-tamil-nadu-post-poll-chaos-explained-in-10-points/articleshow/130950480.cms",
+    "time": "2026-05-08T06:03:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' gears up for OTT debut on May 15",
+    "desc": "The Revenge' is set for a digital premiere on May 15. Fans spotted the film, potentially titled 'Dhurandhar The Revenge (Raw and Undekha)', on streaming platforms. The extended cut, reportedly over 3 hours, will be available in HD and 4K on JioHotstar in India and Netflix internationally.",
+    "img": "https://static.toiimg.com/photo/msid-130950009,imgsize-104680.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-ott-release-ranveer-singh-and-aditya-dhar-film-titled-dhurandhar-the-revenge-raw-and-undekha-gears-up-for-streaming-debut-on-may-15/articleshow/130949334.cms",
+    "time": "2026-05-08T05:57:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who are Abdullah Fazal and Azan Awais? Pakistan's latest Test debutants",
+    "desc": "Pakistan introduces new talent for the opening Test against Bangladesh in Dhaka. Abdullah Fazal and Azan Awais receive their maiden Test caps. This move comes as Babar Azam is sidelined with a knee injury. The team aims to rebuild with a younger batting core. Pakistan captain Shan Masood won the toss and elected to field first.",
+    "img": "https://static.toiimg.com/photo/msid-130950477,imgsize-52304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-are-abdullah-fazal-and-azan-awais-pakistans-latest-test-debutants-in-1st-ban-vs-pak-test/articleshow/130950346.cms",
+    "time": "2026-05-08T05:53:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fardeen takes his kids to watch 'Michael'; pens emotional note",
+    "desc": "Fardeen Khan shared a touching experience after taking his children to see the Michael Jackson biopic 'Michael'. He expressed how the film revealed the human side of the legendary performer, moving him deeply. Khan also highlighted the enduring magic of the cinema experience, noting how the biopic introduced Jackson's artistry to a new generation, proving his lasting impact. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130950376,imgsize-172088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/moved-me-more-than-i-expected-fardeen-khan-takes-his-children-to-watch-michael-jackson-biopic-michael/articleshow/130950189.cms",
+    "time": "2026-05-08T05:51:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanjiv Goenka’s priceless celebration goes viral after LSG end losing streak",
+    "desc": "Sanjiv Goenka's jubilant reaction went viral as Lucknow Super Giants secured a crucial win over Royal Challengers Bengaluru. Mitchell Marsh's explosive 111 powered LSG to 209/3, a total RCB fell nine runs short of despite a spirited chase. The victory ended LSG's home losing streak and complicated RCB's playoff aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-130950195,imgsize-747503.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/sanjiv-goenkas-priceless-celebration-goes-viral-after-lsg-end-losing-streak-against-rcb/articleshow/130950092.cms",
+    "time": "2026-05-08T05:51:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ISI-linked module busted: Delhi temple, military camp, UP police stations were on target list",
+    "desc": "Pakistan's ISI allegedly plotted terror attacks in Delhi and Haryana, targeting a historic temple, a popular highway dhaba, and a military camp. Operatives linked to the Shahzad Bhatti module conducted reconnaissance, sharing photos and videos with handlers. The plan aimed to cause panic, disruption, and mass casualties, with police stations in Uttar Pradesh also on the radar.",
+    "img": "https://static.toiimg.com/photo/msid-130950137,imgsize-978253.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/isi-linked-module-busted-delhi-temple-military-camp-up-police-stations-were-on-target-list/articleshow/130948984.cms",
+    "time": "2026-05-08T05:44:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Jiiva opened up about his heartwarming bond with Thalapathy Vijay",
+    "desc": "Vijay Thalapathy's heartfelt visit to console Jiiva after producer R. B. Choudary's passing highlighted their enduring \"brother from another mother\" bond. Their families' long association through Super Good Films and shared on-screen moments, like in 'Nanban', underscore a deep, genuine affection that continues to resonate with fans, proving their friendship transcends professional ties.",
+    "img": "https://static.toiimg.com/photo/msid-130949488,imgsize-72402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-brother-from-another-mother-when-jiiva-opened-up-about-his-heartwarming-bond-with-thalapathy-vijay/articleshow/130949364.cms",
+    "time": "2026-05-08T05:20:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinesh Phogat cleared WADA’s retirement rule, but Asiad dream looks out of bounds now",
+    "desc": "Wrestler Vinesh Phogat has reportedly met WADA's six-month notice requirement for returning athletes, according to sources. Despite this, her comeback is facing scrutiny over registration issues and a whereabouts failure. Her eligibility for upcoming events, including the Asian Games, remains uncertain due to these controversies and selection policies.",
+    "img": "https://static.toiimg.com/photo/msid-130949505,imgsize-25498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/vinesh-phogat-cleared-wadas-retirement-rule-but-asian-games-dream-looks-out-of-bounds-now/articleshow/130949520.cms",
+    "time": "2026-05-08T05:20:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shammi Kapoor was in tears while filming Dil Ke Jharokhe Me",
+    "desc": "In a captivating episode of 'Indian Idol', viewers will be moved by a heartfelt story from Shammi Kapoor's life. The legendary actor once hesitated to shoot the legendary track 'Dil Ke Jharokhe Mein', fearing that the intense emotions tied to the song would overwhelm him, leading to unrestrained tears during filming. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130949242,imgsize-62982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-shammi-kapoor-couldnt-stop-his-tears-while-filming-dil-ke-jharokhe-mein-please-gaana-badal-do/articleshow/130948269.cms",
+    "time": "2026-05-08T05:13:14.000Z"
   },
   {
     "cat": "Business",
@@ -88,6 +214,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/malmo-chess-magnus-carlsen-lords-over-yagiz-kaan-arjun-erigaisi-for-another-elite-title/articleshow/130948057.cms",
     "time": "2026-05-08T04:26:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat shares heartwarming moment with Prince after pacer removes him for duck",
+    "desc": "Virat Kohli shared a warm moment with young LSG pacer Prince Yadav after being dismissed by a brilliant nip-backer. Yadav revealed Kohli himself had advised him to stick to that length after a previous match. Despite the dismissal, Kohli appeared relaxed and appreciative of the youngster's performance.",
+    "img": "https://static.toiimg.com/photo/msid-130947769,imgsize-1032241.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-shares-heartwarming-moment-with-prince-yadav-after-pacer-removes-him-for-duck/articleshow/130947615.cms",
+    "time": "2026-05-08T04:17:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -279,17 +414,8 @@ const newsData_en = [
     "time": "2026-05-08T02:31:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "West Bengal Governor dissolves State Legislative Assembly",
-    "desc": "The 17th West Bengal Legislative Assembly which was sworn in after the 2021 assembly elections stands dissolved; swearing in of the first BJP government in West Bengal will be held at Brigade Parade Grounds on Saturday",
-    "img": "https://th-i.thgim.com/public/incoming/tdp7q/article70952883.ece/alternates/LANDSCAPE_1200/20260506061L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-governor-dissolves-state-legislative-assembly/article70952247.ece",
-    "time": "2026-05-08T02:30:45.000Z"
-  },
-  {
     "cat": "Sports",
-    "title": "Shreyas Iyer likely to replace Suryakumar Yadav as India T20I captain",
+    "title": "Shreyas Iyer likely to replace Suryakumar as India T20I captain",
     "desc": "Indian selectors are set to remove Suryakumar Yadav as India's T20I captain when the squads for the Ireland and England series are picked. Due to his batting struggles, the selectors have run out of patience with the 35-year-old. Shreyas Iyer is a strong contender to take over the leadership role as the team looks for a fresh start ahead of a packed T20I calendar.",
     "img": "https://static.toiimg.com/photo/msid-130895394,imgsize-49424.cms",
     "src": "indiatimes.com",
@@ -342,42 +468,6 @@ const newsData_en = [
     "time": "2026-05-08T02:01:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Akhilesh Yadav calls on Mamata Banerjee, says Trinamool fought well",
-    "desc": "Votes in the West Bengal Assembly poll had been stolen by the BJP, EC and other agencies, SP leader alleges; ‘If the right to vote is taken away, then what remains of democracy?” he says",
-    "img": "https://th-i.thgim.com/public/incoming/5omdr0/article70952440.ece/alternates/LANDSCAPE_1200/20260507169L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/akhilesh-meets-mamata-after-trinamool-congress-poll-debacle/article70950714.ece",
-    "time": "2026-05-08T02:01:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Governor’s remit is to invite TVK chief Vijay and ask for a floor test: former Law Minister Ashwani Kumar",
-    "desc": "The due process argument attributed to the Governor of Tamil Nadu is seen as a graceless stratagem on the part of the Governor to delay Vijay’s swearing-in despite a deafening popular mandate in his favour, he says",
-    "img": "https://th-i.thgim.com/public/incoming/ekdj2e/article70952458.ece/alternates/LANDSCAPE_1200/PTI01_05_2026_000068B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/governors-remit-is-to-invite-tvk-chief-vijay-and-ask-for-a-floor-test-former-law-minister-ashwani-kumar/article70952179.ece",
-    "time": "2026-05-08T01:51:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMK explores backing AIADMK, Tamil Nadu Governor tells Vijay he hasn’t established majority",
-    "desc": "The CPI(M), CPI and the VCK hold the key to any further churn in Tamil Nadu politics; in fact, their combined support is crucial for both the TVK and the AIADMK to form a government",
-    "img": "https://th-i.thgim.com/public/incoming/jg8rgx/article70952385.ece/alternates/LANDSCAPE_1200/4871_7_5_2026_18_15_44_1_DSC_7639.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/mk-stalin-convenes-meeting-with-allies-as-dmk-second-line-leaders-press-for-aiadmk-coalition/article70950290.ece",
-    "time": "2026-05-08T01:43:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' crosses Rs 1,791 crore mark on Day 50",
-    "desc": "The Revenge' has achieved a monumental Rs 1,140 crore net in India, becoming the second highest-grossing Indian film worldwide after surpassing 'Baahubali 2'. The film, starring Ranveer Singh, has completed 50 days in theatres, maintaining a strong hold. Its global gross now stands at an impressive Rs 1,791.55 crore.",
-    "img": "https://static.toiimg.com/photo/msid-130939614,imgsize-73956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-50-ranveer-singh-starrer-crosses-rs-1791-crore-mark-in-historic-run/articleshow/130937597.cms",
-    "time": "2026-05-08T01:34:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Virat bhaiya only told me’: Prince Yadav stuns Kohli using RCB star’s own advice — Watch",
     "desc": "Lucknow Super Giants secured a vital nine-run DLS victory over Royal Challengers Bengaluru, keeping playoff hopes alive. Mitchell Marsh's explosive 111 powered LSG to 209/3, while Prince Yadav's fiery 3/33, including the remarkable wicket of Virat Kohli off his own advice, sealed the contest. RCB's chase faltered despite Patidar's 61.",
@@ -385,33 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-bhaiya-only-told-me-prince-yadav-bowls-out-kohli-using-rcb-stars-own-advice-watch/articleshow/130939340.cms",
     "time": "2026-05-08T01:28:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spirit' actor Prabhas keeps one prop from every movie set",
-    "desc": "Despite facing a wave of mixed reviews for his recent films, Prabhas remains a beloved figure in the hearts of his fans. He has a unique habit of keeping a special prop from each production, whether it's the iconic sword from Baahubali or a distinctive piece from Kalki 2898 AD.",
-    "img": "https://static.toiimg.com/photo/msid-130939051,imgsize-71338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-keeps-one-prop-from-every-film-set-spirit-actor-preserves-memories-from-his-biggest-movies/articleshow/130938819.cms",
-    "time": "2026-05-08T01:20:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bhooth Bangla' BO Day 21: Akshay starrer crosses Rs 234 cr",
-    "desc": "The Revenge' off its box office throne, captivating audiences with its unique mix of horror and nostalgia. Over the last three weeks, the film has raked in a hefty Rs 150 crore net in India alone, pushing its total worldwide earnings to an impressive Rs 234.93 crore. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130937445,imgsize-144196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-21-akshay-kumar-starrer-completes-successful-three-week-run-with-rs-234-crore-haul/articleshow/130937192.cms",
-    "time": "2026-05-08T00:54:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karthi signs new Telugu comedy film",
-    "desc": "Karthi is diving into his latest adventure in Tollywood, kicking off a humorous new project directed by Kalyan Shankar. Joining him in the fun is the talented Meenakshi Chaudhary, who will share the screen as his leading lady.",
-    "img": "https://static.toiimg.com/photo/msid-130936947,imgsize-72894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/karthi-signs-new-telugu-comedy-film-meenakshi-chaudhary-joins-the-film-directed-by-kalyan-shankar/articleshow/130936772.cms",
-    "time": "2026-05-08T00:45:55.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +486,6 @@ const newsData_en = [
     "time": "2026-05-08T00:43:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Kara' BO day 9: Dhanush’s film sees sharp drop",
-    "desc": "Dhanush and Mamitha Baiju's latest offering, 'Kara', is witnessing a lukewarm reception at the box office, with its collections tapering off after an encouraging premiere. To date, the film has achieved Rs 30.26 crore net domestically and Rs 10.15 crore in foreign markets, culminating in a total of Rs 45.04 crore globally in just over a week.",
-    "img": "https://static.toiimg.com/photo/msid-130935847,imgsize-58132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-box-office-collections-day-9-dhanushs-film-sees-sharp-drop-worldwide-total-reaches-rs-45-04-crores/articleshow/130935772.cms",
-    "time": "2026-05-08T00:26:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran-Israel war: Trump threatens more Iran strikes if deal not signed 'fast'",
     "desc": "Iran state TV reports explosions on island in Hormuz strait; state broadcaster also said \"enemy units\" came under missile fire after U.S. attack on Iranian oil tanker; U.S. military says it carried out retaliatory strikes against Iran",
@@ -439,24 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
     "time": "2026-05-08T00:25:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Raja Shivaji' BO Day 7: Riteish starrer grosses over 60 cr",
-    "desc": "Riteish Deshmukh's 'Raja Shivaji' has concluded its first week with impressive box office numbers, crossing the Rs 60 crore gross mark. Despite initial audience skepticism, Deshmukh's portrayal of Chhatrapati Shivaji Maharaj has garnered widespread acclaim. The historical drama, which he also wrote and directed, continues to draw crowds, with its Marathi version performing particularly strongly.",
-    "img": "https://static.toiimg.com/photo/msid-130935358,imgsize-140650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/raja-shivaji-box-office-collection-day-7-riteish-deshmukhs-historical-drama-ends-week-1-on-a-strong-rs-60-crore-plus-note/articleshow/130935133.cms",
-    "time": "2026-05-08T00:15:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Patriot' BO day 8: Mohanlal film struggles in India",
-    "desc": "Mammootty and Mohanlal's 'Patriot' is struggling domestically, with collections dipping significantly on weekdays. Despite this, strong overseas performance has pushed the film's global gross past Rs 70 crore in just eight days. The spy thriller, centered on a surveillance conspiracy, has garnered praise for its writing and character development, particularly its portrayal of female roles.",
-    "img": "https://static.toiimg.com/photo/msid-130935131,imgsize-95338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-box-office-collections-day-8-mammootty-and-mohanlal-film-struggles-in-india-worldwide-at-rs-72-crores/articleshow/130935028.cms",
-    "time": "2026-05-08T00:09:42.000Z"
   },
   {
     "cat": "Sports",
@@ -484,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-all-players-are-happy-ex-india-cricketer-drops-explosive-claim-on-gautam-gambhir/articleshow/130896715.cms",
     "time": "2026-05-07T23:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ally Cong. seeks ‘better coordination over crucial public issues’ with ruling NC",
-    "desc": "“Mutual understanding and cooperation among coalition partners were non-negotiable for smooth governance and effective public welfare. The NC cannot afford to ignore the voice of its alliance partner,” said senior Congress leader and legislator Ghulam Ahmad Mir",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ally-cong-seeks-better-coordination-over-crucial-public-issues-with-ruling-nc/article70952410.ece",
-    "time": "2026-05-07T23:18:34.000Z"
   },
   {
     "cat": "Business",
@@ -558,33 +585,6 @@ const newsData_en = [
     "time": "2026-05-07T17:38:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Prince gets King! Virat Kohli falls for a two-ball duck vs LSG",
-    "desc": "Royal Challengers Bengaluru faced an early collapse against Lucknow Super Giants, with star batter Virat Kohli departing for a two-ball duck. Young pacer Prince Yadav delivered a stunning nip-backer to dismiss Kohli after Mohammed Shami struck early. This double blow put RCB under immense pressure while chasing a challenging 210, set up by Mitchell Marsh's explosive 111.",
-    "img": "https://static.toiimg.com/photo/msid-130912722,imgsize-162166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-prince-gets-king-virat-kohli-falls-for-a-two-ball-duck-vs-lsg/articleshow/130912551.cms",
-    "time": "2026-05-07T17:31:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Krunal Pandya, Nicholas Pooran involved in heated on-field exchange",
-    "desc": "Lucknow Super Giants batter Nicholas Pooran and Royal Challengers Bengaluru all-rounder Krunal Pandya shared a brief on-field moment during a crucial IPL 2026 match. The interaction occurred after Pandya bowled a surprise bouncer to Pooran. Both players have a shared history at LSG. The match saw a high score from Mitchell Marsh.",
-    "img": "https://static.toiimg.com/photo/msid-130911793,imgsize-915854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-krunal-pandya-nicholas-pooran-involved-in-heated-on-field-exchange-watch/articleshow/130910398.cms",
-    "time": "2026-05-07T17:15:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marsh tears into RCB with century, breaks Pant's record to become ...",
-    "desc": "Marsh reached the milestone in 49 balls, making it the fastest century by an LSG batter in IPL history. He went past Rishabh Pant’s 54-ball hundred against RCB at the same venue in IPL 2025.",
-    "img": "https://static.toiimg.com/photo/msid-130909809,imgsize-41932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mitchell-marsh-tears-into-rcb-attack-with-ipl-century-breaks-rishabh-pants-record-to-score-fastest-century-by-an-lsg-batter/articleshow/130909228.cms",
-    "time": "2026-05-07T16:46:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s tops global remittance charts with $137bn inflow from its 19m strong diaspora",
     "desc": "India's global migration impact is soaring, with its diaspora of 19 million driving a record $137 billion in remittances for 2024. The nation also leads in student and skilled worker emigration, particularly in tech and healthcare. Key corridors include UAE, US, and Saudi Arabia, showcasing a dynamic shift in global labor.",
@@ -594,15 +594,6 @@ const newsData_en = [
     "time": "2026-05-07T16:30:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Clarity is missing’- Rishabh Pant opens up on LSG’s disastrous season",
-    "desc": "Lucknow Super Giants captain Rishabh Pant acknowledged that a lack of role clarity and frequent batting order changes have severely impacted their IPL 2026 campaign. Ahead of a crucial match against RCB, Pant emphasized the need for more consistency and strategic planning for future seasons. LSG faces elimination if they lose, while RCB aims to top the table.",
-    "img": "https://static.toiimg.com/photo/msid-130908583,imgsize-107528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-clarity-is-missing-rishabh-pant-opens-up-on-lsgs-disastrous-season/articleshow/130908538.cms",
-    "time": "2026-05-07T16:20:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Sebi shuts down risk reduction access trading platform, asks exchanges to strengthen contingency systems",
     "desc": "Markets regulator Sebi has immediately discontinued the Investor Risk Reduction Access (IRRA) platform for stock brokers. Introduced last October, the system is now redundant due to enhanced cyber security, disaster recovery, and business continuity measures. Brokers have adopted advanced technologies, and exchanges offer a backup trading facility, making IRRA unnecessary.",
@@ -610,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-shuts-down-risk-reduction-access-trading-platform-asks-exchanges-to-strengthen-contingency-systems/articleshow/130907106.cms",
     "time": "2026-05-07T15:54:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar Kumar scripts history, becomes first pacer to...",
-    "desc": "Bhuvneshwar Kumar made history by becoming the first fast bowler to play 200 IPL matches, a feat he achieved with Royal Challengers Bengaluru. This milestone follows his earlier achievement of 200 IPL wickets. Kumar expressed pride in his accomplishment, highlighting the satisfaction of reaching this mark with a successful franchise.",
-    "img": "https://static.toiimg.com/photo/msid-130903027,imgsize-130130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-bhuvneshwar-kumar-scripts-history-becomes-first-pacer-to-play-200-ipl-matches/articleshow/130903084.cms",
-    "time": "2026-05-07T14:34:06.000Z"
   },
   {
     "cat": "Business",
@@ -838,15 +820,6 @@ const newsData_en = [
   },
   {
     "cat": "Tech",
-    "title": "Far from a safe harbour",
-    "desc": "An infrastructure of censorship is emerging, enabling the Central and various State governments to take social media content down using existing laws and rules. Independent media outlets and online critics now find their reach at a precipice. Aroon Deep reports on how in an environment of misinformation and deepfakes, opposing voices also become targets",
-    "img": "https://th-i.thgim.com/public/incoming/8kbmy1/article70929026.ece/alternates/LANDSCAPE_1200/Sanjay%202%2011908_1_5_2026_18_46_40_1_DSC_6199.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/independent-media-outlets-and-online-critics-far-from-a-safe-harbour/article70929031.ece",
-    "time": "2026-05-03T11:09:01.000Z"
-  },
-  {
-    "cat": "Tech",
     "title": "Government issues warning for these Android smartphone and tablet users",
     "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
     "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
