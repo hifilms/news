@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "અક્ષય કુમારની હોરર કોમેડી ફિલ્મ ભૂત બંગલા કયા ઓટીટી પ્લેટફોર્મ પર ક્યારે આવશે જાણો",
+    "desc": "અક્ષય કુમારની હોરર કોમેડી ફિલ્મ હવે ઓટીટી પર ક્યારે આવશે તે વાત જાણવા લોકો આતુર થયા છે. ભૂત બંગલા ફિલ્મની ઓટીટી રિલીઝ માટે તમે પણ રાહ જોઈ રહ્યા છો તો ચાલો તમને જણાવીએ આ અંગેની જાણકારી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-film-bhooth-bangla-ott-streming-partner-bhooth-bangla-film-ott-release-476975 ",
+    "time": "2026-05-08T05:27:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ધુરંધર 3ની ચાલી રહી છે તૈયારી? વર્ષના અંત સુધીમાં ચાહકોને એક મોટું સરપ્રાઇઝ, જાણો",
+    "desc": "ફિલ્મ નિર્માતાઓએ આ વર્ષના અંતમાં દર્શકો માટે એક સરપ્રાઈઝનો સંકેત આપ્યો, હોવાથી ધુરંધર 3 વિશે અટકળો વધી ગઈ છે. આ સરપ્રાઈઝના સમાચાર સાથે, ચાહકો એવું માનવા લાગ્યા છે કે તેઓ ધુરંધર 3 રિલીઝ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/preparations-underway-for-dhurandhar-3-a-big-surprise-for-fans-by-the-end-of-the-year-know-476958 ",
+    "time": "2026-05-08T04:14:17.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "પાકિસ્તાન પર સ્ટ્રાઈકથી લઈને રાજદ્વારી ઘેરાબંધી સુધી, જાણો ભારતના વોર રૂમની આખી કહાની",
     "desc": "ઓપરેશન સિંદૂર દરમિયાન ભારતે પાકિસ્તાનમાં આવેલા આતંકી ઠેકાણાઓ પર સચોટ કાર્યવાહી કરી, જેનું નિરીક્ષણ વડાપ્રધાન નરેન્દ્ર મોદી, રક્ષા મંત્રી રાજનાથ સિંહ અને NSA અજીત ડોભાલ દ્વારા વોર રૂમમાંથી કરવામાં આવ્યું હતું. વિદેશ મંત્રી એસ. જયશંકરે રાજદ્વારી મોરચો સંભાળ્યો હતો. સૈન્ય અને રાજદ્વારી વ્યૂહરચનાના સંયુક્ત દબાણ બાદ પાકિસ્તાનને યુદ્ધવિરામ સ્વીકારવા મજબૂર થવું પડ્યું હતું. વાંચો ઓપરેશન સિંદૂરની સંપૂર્ણ ઇનસાઇડ સ્ટોરી.",
@@ -187,15 +205,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/declare-war-against-delhi-170-million-muslims-stand-with-you-who-incited-mamata-banerjee-476813 ",
     "time": "2026-05-07T04:24:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બંગાળમાં ખેલાઈ લોહીની હોળી! સુવેન્દુ અધિકારીના PAની ગોળી મારીને હત્યા, CID તપાસમાં મોટા ખુલાસા",
-    "desc": "પશ્ચિમ બંગાળ વિધાનસભામાં એક તરફ જ્યાં 9 મેના રોજ શપથ ગ્રહણની તૈયારીઓ ચાલી રહી હતી, ત્યાં બીજી તરફ રાજ્યના વિપક્ષી નેતા અને ભાજપના દિગ્ગજ નેતા સુવેન્દુ અધિકારીના અંગત સચિવ (PA) ચંદ્રનાથ રથની સરેઆમ ગોળી મારીને હત્યા કરવામાં આવી છે. ઉત્તર 24 પરગણા જિલ્લામાં 6 મેની રાત્રે લગભગ 10:15 વાગ્યે આ ઘટના બની હતી. હત્યા સમયે ચંદ્રનાથ તેમના ઘરથી માત્ર 200 મીટર દૂર હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bengal-suvendu-adhikaris-aide-shot-dead-near-kolkata-amid-post-poll-violence-476810 ",
-    "time": "2026-05-07T04:09:01.000Z"
   },
   {
     "cat": "World",
@@ -414,24 +423,6 @@ const newsData_gu = [
     "time": "2026-05-04T13:19:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL વચ્ચે RCB માટે ખરાબ સમાચાર, સ્ટાર ખેલાડી અચાનક ઇંગ્લેન્ડ પરત ફર્યો",
-    "desc": "IPL 2026 વચ્ચે RCBને મોટો ઝટકો લાગ્યો છે. ટીમો પ્લેઓફમાં સ્થાન મેળવવા માટે સંઘર્ષ કરી રહી છે, ત્યારે RCB માટે ખરાબ સમાચાર સામે આવ્યા છે. ટીમનો ઓપનિંગ બેટ્સમેન ફિલ સોલ્ટ અચાનક ઇંગ્લેન્ડ પરત ફર્યો છે. સોલ્ટ આંગળીની ઈજાને કારણે ત્રણ મેચથી પ્લેઈંગ ઈલેવનમાંથી બહાર હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-rcb-phil-salt-returns-returns-to-england-for-finger-injury-scan-476417 ",
-    "time": "2026-05-04T10:29:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ છે 5 સુપરહિટ સરકારી સ્કીમ! સુરક્ષિત રહેશે તમારા પૈસા, મળશે શાનદાર વ્યાજ",
-    "desc": "ભારતીય બજારમાં સુરક્ષિત રોકાણ માટે અનેક યોજનાઓ ઉપલબ્ધ છે. ભારત સરકાર સમર્થિત પોસ્ટ ઓફિસ દ્વારા પણ અનેક યોજનાઓ ચલાવવામાં આવે છે, જેમાં શાનદાર વ્યાજ મળે છે. આજે અમે તમને રોકાણકારોની પાંચ બેસ્ટ સ્કીમ વિશે માહિતી આપીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/5-superhit-schemes-to-invest-in-interest-up-to-8-2-percent-ssa-scss-time-deposit-476335 ",
-    "time": "2026-05-04T05:56:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "નેટફ્લિક્સ પર નંબર વન બની થ્રીલર વેબ સીરીઝ, દમદાર સ્ટોરીનો ક્લાઈમેક્સ જોઈ દંગ રહી ગયા દર્શકો",
     "desc": "નેટફ્લિક્સ પર તાજેતરમાં જ થ્રીલર વેબ સીરીઝ રિલીઝ થઈ છે. આ સીરીઝ 7 જ એપિસોડની છે પણ લોકો તેના ખૂબ વખાણ કરી રહ્યા છે. સીરીઝ જોનાર દર્શકોનું કહેવું છે કે સીરીઝનો ક્લાઈમેક્સ તેને બેસ્ટ અને મસ્ટ વોચ બનાવી દે છે.",
@@ -448,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/amid-ceasefire-there-a-hint-of-a-world-war-trump-open-warning-to-iran-make-a-deal-or-disaster-is-certain-476205 ",
     "time": "2026-05-03T16:11:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ અઠવાડિયામાં બે દિવસ બંધ રહેશે બેંકો, જાણો શું છે કારણ",
-    "desc": "રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) અનુસાર, મે મહિનામાં કુલ 7 બેંક રજાઓ નક્કી કરવામાં આવી છે. જેમાં બીજા અને ચોથા શનિવાર સહિત બધા રવિવારનો સમાવેશ થાય છે. ત્યારે બેંકો કયા કયા દિવસે બંધ રહેશે તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bank-holidays-next-week-bank-will-be-closed-two-days-know-the-reason-476172 ",
-    "time": "2026-05-03T12:27:43.000Z"
   },
   {
     "cat": "World",
@@ -531,15 +513,6 @@ const newsData_gu = [
     "time": "2026-05-02T06:37:22.000Z"
   },
   {
-    "cat": "World",
-    "title": "શું ખરેખર ભૂત હોય છે? વૈજ્ઞાનિકોએ જણાવ્યું જૂની ઇમારતોમાં કેમ લાગે છે ડર, કારણ જાણી ચોંકી જશો",
-    "desc": "જૂની ઇમારતોમાં ડર અને બેચેનીનું કારણ ભૂત-પ્રેત નહીં પરંતુ ઇન્ફ્રાસાઉન્ડ નામની એક અદ્રશ્ય ધ્વનિ હોઈ શકે છે. જાણો કઈ રીતે આ લો-ફ્રીક્વેન્સી અવાજ આપણા મગજ અને શરીરને પ્રભાવિત કરે છે અને વૈજ્ઞાનિકોનું નવું સંશોધન શું કહે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/do-ghosts-really-exist-scientists-explain-why-people-feel-scared-in-old-buildings-475926 ",
-    "time": "2026-05-02T05:41:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બોક્સ ઓફિસ પર છવાઈ ગઈ રિતેશ દેશમુખની ફિલ્મ રાજા શિવાજી, પહેલા દિવસે કેટલી કમાણી કરી જાણો",
     "desc": "રિતેશ દેશમુખની ફિલ્મ રાજા શિવાજી શુક્રવારે રિલીઝ થઈ ચુકી છે. ફિલ્મને લોકો તરફથી સારો પ્રતિસાદ મળી રહ્યો છે તે વાત ફિલ્મની પહેલા દિવસની કમાણીને જોતાં કહી શકાય છે. ફિલ્મની કમાણી કેટલી થઈ અને ફિલ્મ કેવી છે ચાલો તમને પણ જણાવીએ.",
@@ -556,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/saif-ali-khan-crime-thriller-film-releasing-netflix-on-15-may-2026-475797 ",
     "time": "2026-05-01T09:06:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હાઈ લા! અહીં તો ઓનલાઈન ઓર્ડર કરતા જ છોકરીની થાય છે ડિલિવરી, નામ જાણી નવાઈ પામશો",
-    "desc": "દુનિયામાં વેશ્યાવૃત્તિ બધે ગેરકાયદેસર ગણાય છે એવું નથી. કારણ કે એવા કેટલાક દેશો છે જ્યાં તે એક વ્યવસાય તરીકે ગણવામાં આવે છે અને તેને કાયદેસર માન્યતા મળેલી છે. ભારતના પાડોશી મુસ્લિમ દેશમા પણ તે એક વ્યવસાય તરીકે ગણવામાં આવે છે. જાણો આ રસપ્રદ માહિતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/countries-in-the-world-where-prostitution-considered-as-legal-475778 ",
-    "time": "2026-05-01T08:04:43.000Z"
   },
   {
     "cat": "Tech",
@@ -592,23 +556,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-actor-drowns-in-debt-shared-instagram-post-talking-about-needing-work-and-money-475689 ",
     "time": "2026-04-30T14:38:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રાઘવ ચઢ્ઢાના ભાજપ જોઈન કરવા પર પ્રિયંકા ચોપડાનું કનેક્શન, નવજોત કૌર સિદ્ધુએ કર્યો મોટો દાવો",
-    "desc": "નવજોત કૌર સિદ્ધુએ કહ્યું કે રાઘવ ચઢ્ઢા અચાનક બોલવાનું બંધ કરી દેતાં તેમને પહેલેથી જ અંદાજ હતો કે તેઓ પક્ષ બદલી નાખશે. તેમણે પાર્ટીના મામલાઓ પર કોઈ વાત કરી ન હતી. એ પણ સ્પષ્ટ થઈ રહ્યું હતું કે તેમના પર એન્ફોર્સમેન્ટ ડિરેક્ટોરેટ (ED) દ્વારા દરોડા પાડવામાં આવનાર છે. પ્રિયંકા ચોપરાએ આ મામલે હસ્તક્ષેપ કર્યો અને તેમણે પક્ષ બદલી નાખ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/priyanka-chopras-connection-to-raghav-chadha-joining-bjp-navjot-kaur-sidhu-makes-a-big-claim-475473 ",
-    "time": "2026-04-29T08:53:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સોની લીવની 5 બેસ્ટ ક્રાઈમ થ્રિલર વેબ સીરીઝ, દરેક એપિસોડ સાથે વધશે તમારી હાર્ટ બીટ",
-    "desc": "જો તમારી પાસે ઓટીટી પ્લેટફોર્મ સોની લિવનું સબ્સ્ક્રિપ્શન છે તો આજે તમને સોની લિવ પર જોવા જેવી 5 ક્રાઈમ થ્રીલર વેબ સીરીઝ વિશે જણાવીએ. આ સીરીઝમાંથી એક પણ સીરીઝ મિસ કરવા જેવી નથી. આ વેબ સીરીઝનો દરેક એપિસોડ તમારા હૃદયના ધબકારા વધારી દેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-web-series-on-sony-liv-5-best-crime-thriller-web-show-of-sony-liv-475451 ",
-    "time": "2026-04-29T07:10:41.000Z"
   }
 ];

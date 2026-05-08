@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Real Madrid's Federico Valverde to miss El Clasico due to head injury after altercation with Tchouameni",
+    "desc": "In a major blow to Spanish club Real Madrid, the side’s star player, Fede Valverde, is all set to miss the side’s upcoming clash against FC Barcelona as he is recovering from an injury that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/real-madrid-s-federico-valverde-to-miss-el-clasico-due-to-head-injury-after-altercation-with-tchouameni-2026-05-08-1040355",
+    "time": "2026-05-08T04:52:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav and wife Devisha Shetty blessed with baby girl",
+    "desc": "In a major development for India’s T20I captain Suryakumar Yadav, the star batter and his wife, Devisha Shetty, have been blessed with a baby girl. Suryakumar Yadav shared the development of the same on his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-and-wife-devisha-shetty-blessed-with-baby-girl-2026-05-08-1040349",
+    "time": "2026-05-08T03:52:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL's anti-corruption unit flags 'anomalies' in report to BCCI, Arun Dhumal weighs in on the matter",
+    "desc": "In a major development, the IPL’s (Indian Premier League) Anti-Corruption and Security Unit (ACSU) has come forward and raised concerns over many ‘unauthorised’ people being present in team dugouts and dressing rooms in the ongoing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-s-anti-corruption-unit-flags-anomalies-in-report-to-bcci-arun-dhumal-weighs-in-on-the-matter-2026-05-08-1040343",
+    "time": "2026-05-08T02:49:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Means a lot': Rishabh Pant opens up after Lucknow Super Giants break losing streak, register third win in IPL",
     "desc": "The 50th game of the ongoing IPL (Indian Premier League) 2026 saw Lucknow Super Giants hosting Royal Challengers Bengaluru. The two sides met at the Ekana Stadium in Lucknow on May 8th, and the clash...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fede-valverde-left-unconscious-carried-off-field-on-stretcher-after-fight-with-real-madrid-teammate-tchouameni-2026-05-07-1040308",
     "time": "2026-05-07T15:29:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will MI captain play vs RCB in Raipur? All-rounder set to join squad soon",
-    "desc": "Mumbai Indians captain Hardik Pandya is set to link up with the squad on Thursday for their next IPL 2026 fixture in Raipur. The all-rounder was ruled out of Mumbai’s previous encounter against Lucknow Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-fitness-update-will-mi-captain-play-vs-rcb-in-raipur-all-rounder-set-to-join-squad-soon-2026-05-07-1040304",
-    "time": "2026-05-07T14:57:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Phil Salt not playing vs LSG in IPL 2026? When will RCB opener back in action?",
-    "desc": "Royal Challengers Bengaluru opener Phil Salt has been out of action since the game against Delhi Capitals on April 18. He scored 63 runs in the match. However, since then, Salt has been under monitoring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-phil-salt-not-playing-vs-lsg-in-ipl-2026-when-will-rcb-opener-back-in-action-2026-05-07-1040299",
-    "time": "2026-05-07T13:51:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI's new advisory to restrict players from travelling with girlfriends, new rules for owners too",
-    "desc": "The BCCI is set to introduce tighter restrictions around team environments in the IPL after concerns emerged over the movement of unauthorised individuals alongside franchises during the 2026 season. The proposed clampdown is expected to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-s-new-advisory-to-restrict-players-from-travelling-with-girlfriends-new-rules-for-owners-too-2026-05-07-1040297",
-    "time": "2026-05-07T13:17:26.000Z"
   }
 ];
