@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI shares new advisory after multiple protocol breaches in IPL 2026, warns players of punishment or even ban",
+    "desc": "The BCCI has tightened discipline and security standards across the IPL after identifying multiple breaches involving team personnel, players and franchise representatives during the ongoing 2026 season. In a detailed advisory circulated to all ten...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-shares-new-advisory-after-multiple-protocol-breaches-in-ipl-2026-warns-players-of-punishment-or-even-ban-2026-05-08-1040410",
+    "time": "2026-05-08T11:42:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Frustated David Miller wants more opportunities in DC, but understands the importance of combinations in IPL",
+    "desc": "Delhi Capitals find themselves in a tight spot as the IPL 2026 league stage enters its decisive stretch. With four wins in 10 games, the Axar Patel-led side is currently seventh on the points table....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/frustated-david-miller-wants-more-opportunities-in-dc-but-understands-the-importance-of-combinations-in-ipl-2026-05-08-1040404",
+    "time": "2026-05-08T11:06:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Krunal Pandya educates on his bowling evolution, art of bowling bouncers as a spinner",
+    "desc": "Royal Challengers Bengaluru all-rounder Krunal Pandya has been one of the standout performers of the season. He has claimed 10 wickets in 10 games so far in the IPL 2026, but most importantly, he has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/krunal-pandya-educates-on-his-bowling-evolution-art-of-bowling-bouncers-as-a-spinner-2026-05-08-1040397",
+    "time": "2026-05-08T10:28:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Head-to-Head record ahead of game 51 in IPL 2026",
     "desc": "Game 51 of the ongoing IPL (Indian Premier League) 2026 sees Delhi Capitals taking on Kolkata Knight Riders. The two sides will take on each other at the Arun Jaitley Stadium in Delhi on May...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-and-wife-devisha-shetty-blessed-with-baby-girl-2026-05-08-1040349",
     "time": "2026-05-08T03:52:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL's anti-corruption unit flags 'anomalies' in report to BCCI, Arun Dhumal weighs in on the matter",
-    "desc": "In a major development, the IPL’s (Indian Premier League) Anti-Corruption and Security Unit (ACSU) has come forward and raised concerns over many ‘unauthorised’ people being present in team dugouts and dressing rooms in the ongoing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-s-anti-corruption-unit-flags-anomalies-in-report-to-bcci-arun-dhumal-weighs-in-on-the-matter-2026-05-08-1040343",
-    "time": "2026-05-08T02:49:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Means a lot': Rishabh Pant opens up after Lucknow Super Giants break losing streak, register third win in IPL",
-    "desc": "The 50th game of the ongoing IPL (Indian Premier League) 2026 saw Lucknow Super Giants hosting Royal Challengers Bengaluru. The two sides met at the Ekana Stadium in Lucknow on May 8th, and the clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/means-a-lot-rishabh-pant-opens-up-after-lucknow-super-giants-break-losing-streak-register-third-win-in-ipl-2026-2026-05-08-1040333",
-    "time": "2026-05-08T01:29:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Marsh's century, Prince Yadav's brilliance help 10th placed LSG beat defending champions RCB",
-    "desc": "Lucknow Super Giants defeated Royal Challengers Bengaluru by nine runs in their IPL 2026 clash at the Ekana Stadium. The match that was interrupted by rain several times, saw Australia international Mitchell Marsh play a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-marsh-s-century-prince-yadav-s-brilliance-help-10th-placed-lsg-beat-defending-champions-rcb-2026-05-08-1040324",
-    "time": "2026-05-07T18:59:51.000Z"
   }
 ];

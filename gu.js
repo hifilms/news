@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "મમતા બેનર્જી બાદ બંગાળને ફરીથી મળ્યા કુંવારા મુખ્યમંત્રી, તે પહેલા આ 3 CM પણ હતાં અપરિણીત",
+    "desc": "જેની આતુરતાપૂર્વક રાહ જોવાતી હતી તે ઘડી આવી ગઈ અને કેન્દ્રીય ગૃહમંત્રી અમિત શાહે બંગાળના નવા મુખ્યમંત્રી તરીકે સુવેન્દુ અધિકારીના નામની જાહેરાત કરી દીધી. પરંતુ શું તમે જાણો છો કે મમતા બેનર્જીની જેમ સુવેન્દુ અધિકારી પણ અપરિણીત છે. બંગાળના રાજકીય ઈતિહાસમાં માત્ર મમતા અને સુવેન્દુ નહીં પરંતુ બીજા 3 મુખ્યમંત્રી એવા હતા જેમણે લગ્ન કર્યા નહતા. ખાસ જાણો તેમના વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/suvendu-adhikari-mamata-banerjee-know-about-the-5-bachelor-cms-of-west-bengal-477056 ",
+    "time": "2026-05-08T12:36:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સરકારી કર્મચારીઓને 2% DA વધ્યું, બેંક કર્મચારીઓને માત્ર 0.70%, આવું કેમ? ખાસ જાણો",
+    "desc": "કેન્દ્રીય કર્મચારીઓ અને બેંક કર્મચારીઓના મોંઘવારી ભથ્થામાં અલગ અલગ રીતે વધારા થતા હોય છે. કેન્દ્ર સરકારના કર્મચારીઓનું ડીએ દર 6 મહિને બદલાય જ્યારે બેંકના કર્મચારીઓના ડીએ રિવાઈઝ દર 3 મહિને થાય છે. ત્યારે તમને એ સવાલ થતો હશે કે આવું કેમ? ખાસ જાણો કઈ રીતે થાય છે ગણતરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/calculation-of-dearness-allowance-for-government-employees-and-bank-employees-477053 ",
+    "time": "2026-05-08T12:04:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPLની આગામી હરાજીમાં વૈભવ સૂર્યવંશી પર લાગશે 50 કરોડની બોલી! જાણો ક્યારે યોજાશે આગામી મેગા ઓક્શન",
+    "desc": "IPL 2026માં જો કોઈ ખેલાડી સૌથી વધુ ચર્ચામાં હોય તો તે વૈભવ સૂર્યવંશી છે. પોતાની વિસ્ફોટક બેટિંગથી વૈભવ કમાલ કરી રહ્યો છે અને હવે તે માલામાલ થવાની તૈયારીમાં છે. અટકળો લગાવવામાં આવી રહી છે કે તેના પર 50 કરોડ રૂપિયા સુધીની બોલી લાગી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-set-to-attract-a-50-crore-bid-in-the-next-ipl-auction-find-out-when-the-next-mega-auction-will-take-place-477054 ",
+    "time": "2026-05-08T12:04:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળ બનશે આઠમું રાજ્ય: ભાજપના શાસનમાં હવે &amp;#039;ડેપ્યુટી સીએમ&amp;#039; અનિવાર્ય, જાણો કેવી રીતે ગુજરાતથી થઈ શરૂઆત",
+    "desc": "ભાજપમાં હવે એક સીએમ અને 2 નાયબ સીએમ એક ટ્રેન્ડ બનતો જાય છે. એક સમયે ગુજરાતમાં નીતિન પટેલને નાયબ સીએમ બનાવી ભાજપે પાટીદાર નેતાને સાચવી લીધા અને સીએમ ન બનવા દીધા પણ 2016થી શરૂ થયેલો આ ટ્રેન્ડ હવે દેશભરમાં ટ્રેન્ડમાર્ક બનતો જાય છે. બંગાળમાં પણ ભાજપ એક સીએમ અને 2 નાયબ સીએમની ફોર્મ્યુંલા અપનાવાની છે તો આજે જાણી લો કેટલા રાજ્યોમાં સીએમ સાથે નાયબ સીએમનું પદ ભાજપે આપીને નેતાઓને સાચવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bengal-will-become-the-eighth-state-deputy-cm-is-now-inevitable-in-bjp-rule-know-how-it-started-from-gujarat-477032 ",
+    "time": "2026-05-08T11:03:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મે મહિનામાં પાંચ દિવસ બંધ રહેશે SBI બેંક, તારીખ જોઈને જરૂરી કામકાજ પહેલા જ પતાવી લેજો",
+    "desc": "સ્ટેટ બેંક ઓફ ઈન્ડિયા (SBI) ના કર્મચારીઓ વિવિધ પડતર માંગણીઓને લઈને હડતાળ પર ઉતરવાના છે. ત્યારે હડતાળ અને રજાના માહોલને પગલે મે મહિનામાં પાંચ દિવસ એસબીઆઈ બેંક બંધ રહેવાની છે. ત્યારે જાણી લો કયા કયા દિવસે બેંક નહિ ખૂલે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sbi-strike-alert-state-bank-of-india-to-remain-closed-for-5-days-in-may-check-dates-477011 ",
+    "time": "2026-05-08T10:55:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વિજય બનશે તમિલનાડુના મુખ્યમંત્રી, કોંગ્રેસ બાદ આ 3 પાર્ટીઓએ આપ્યું સમર્થન",
+    "desc": "તમિલનાડુની રાજનીતિમાં સરકાર રચવા માટે ચાલી રહેલી હલચલ વચ્ચે થલપતિ વિજયને મોટું રાજકીય સમર્થન મળી ગયું છે. વામપંથી દળો કમ્યુનિસ્ટ પાર્ટી ઓફ ઈન્ડિયા (CPI), સીપીએમ અને વીસીકેએ વિજયની પાર્ટી ટીવીકેને સમર્થન આપવાનો નિર્ણય કર્યો છે. આ રીતે વિજયની ટીવીકે જે 108 સીટોની સાથે મોટી પાર્ટી બની હતી, હવે તેને બહુમતનો આંકડો મળી ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/vijay-will-become-the-chief-minister-of-tamil-nadu-after-congress-these-3-parties-gave-support-477029 ",
+    "time": "2026-05-08T10:40:48.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "IPL સ્ટારની ગર્લફ્રેન્ડ પર લાગ્યો ટીમના સીક્રેટ લીક કરવાનો આરોપ, BCCI એ તત્કાલ ભર્યાં પગલાં",
     "desc": "BCCI એ તાજેતરમાં એક નવી ગાઇડલાઇન જારી કરતા ટીમ હોટલમાં સંબંધીઓ, પાર્ટનર કે અન્ય જાણકારોના પ્રવેશ પર કડક વલણ અપનાવતા કેટલાક મોટા આદેશ જારી કર્યાં છે. માનવામાં આવી રહ્યું છે આ ઘટનાનું તેમાં મહત્વનું યોગદાન છે.",
@@ -43,15 +97,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/who-will-become-the-chief-minister-of-kerala-observers-submit-report-to-kharge-know-which-3-names-are-being-discussed-in-congress-477019 ",
     "time": "2026-05-08T09:07:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મે મહિનામાં પાંચ દિવસ બંધ રહેશે SBI બેંક, તારીખ જોઈને જરૂરી કામકાજ પહેલા જ પતાવી લેજો",
-    "desc": "સ્ટેટ બેંક ઓફ ઈન્ડિયા (SBI) ના કર્મચારીઓ વિવિધ પડતર માંગણીઓને લઈને હડતાળ પર ઉતરવાના છે. ત્યારે હડતાળ અને રજાના માહોલને પગલે મે મહિનામાં પાંચ દિવસ એસબીઆઈ બેંક બંધ રહેવાની છે. ત્યારે જાણી લો કયા કયા દિવસે બેંક નહિ ખૂલે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sbi-strike-alert-state-bank-of-india-to-remain-closed-for-5-days-in-may-check-dates-477011 ",
-    "time": "2026-05-08T08:47:34.000Z"
   },
   {
     "cat": "Tech",
@@ -160,33 +205,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/mohammad-kaif-big-claim-ms-dhoni-will-play-for-csk-on-18th-may-476910 ",
     "time": "2026-05-07T12:21:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મોદી સરકારની શ્રમિકોને મોટી ભેટ, નવી યોજના હેઠળ દર વર્ષે થશે ફ્રી હેલ્થ ચેકઅપ; જાણો",
-    "desc": "સરકાર તરફથી કહેવામાં આવ્યું છે કે, દેશભરમાં ચલાવવામાં આવી રહેલું સ્વાસ્થ્ય તપાસ અભિયાન એક મહત્વપૂર્ણ પહેલ છે, જેનો ઉદ્દેશ્ય દેશના કામદારોને સન્માન, સુરક્ષા અને વધુ સારી સ્વાસ્થ્ય સુવિધાઓ પૂરી પાડવાનો છે. આ કાર્યક્રમની શરૂઆત દેશભરના એમ્પ્લોઇઝ સ્ટેટ ઇન્સ્યોરન્સ કોર્પોરેશન (ESIC)ની દિલ્હી સ્થિત હોસ્પિટલ ઉપરાંત અન્ય 11 હોસ્પિટલોમાં એકસાથે કરવામાં આવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/modi-government-big-gift-to-workers-free-health-checkup-will-be-done-every-year-under-the-new-scheme-know-476908 ",
-    "time": "2026-05-07T12:14:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "છાતીમાં ત્રણ ગોળીઓ, ગંભીર રીતે ક્ષતિગ્રસ્ત હૃદય, અને અનેક અંગો ફેલ, અધિકારીના PA ચંદ્રનાથના પોસ્ટમોર્ટમ રિપોર્ટમાં ખુલાસો",
-    "desc": "42 વર્ષીય ચંદ્રનાથ રથની બુધવારે રાત્રે મધ્યમગ્રામમાં ગોળી મારી હત્યા કરવામાં આવી હતી. બાઇક સવાર હુમલાખોરોએ નજીકથી ફાયરિંગ કર્યું હતું. તેમના ડ્રાઇવર બુદ્ધદેવની હાલત હજુ નાજૂક છે. તપાસ માટે સીઆઈડી અને ફોરેન્સિકની ટીમ કામ કરી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/chandranath-rath-postmortem-report-three-bullets-in-the-chest-severely-damaged-heart-476905 ",
-    "time": "2026-05-07T12:00:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વિજય થલપતિ મુખ્યમંત્રી બનવા રાજભવનના ધક્કા ખાઈ રહ્યો છે, ત્યારે અચાનક વજુભાઈ વાળા કેમ ચર્ચામાં આવ્યા?",
-    "desc": "તમિલનાડુમાં TVK પ્રમુખ વિજયને મુખ્યમંત્રીના પદના શપથ અપાવવાનો રાજ્યપાલે ઈન્કાર કરી દીધો. ત્યારે જાણો વર્ષ 2018 માં કર્ણાટકમાં યેદિયુરપ્પાને રાજ્યપાલે છુટ આપી હતી, તો વિજયને તમિલનાડુમાં કેમ ન મળી. રાજભવન અને રાજ્યપાલના બેવડા માપદંડની ઈનસાઈડ સ્ટોરી પર નજર કરીએ, જેને કારણે ગુજરાતના ભાજપના દિગ્ગજ નેતા અને કર્ણાટકના રાજ્યપાલ રહેલા વજુભાઈ વાળા ફરી ચર્ચામાં આવ્યા છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-vajubhai-vala-came-into-limelight-again-for-thalapathy-vijay-to-become-tamilnadu-cm-476882 ",
-    "time": "2026-05-07T11:06:04.000Z"
   },
   {
     "cat": "Sports",
@@ -430,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/raghu-sharma-celebrate-his-first-ipl-wicket-with-jai-shree-ram-476567 ",
     "time": "2026-05-05T08:20:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રાજકીય પીચ પર કરોડપતિ ક્રિકેટરની એન્ટ્રી... 16,241 મતોથી જીતી ચૂંટણી, હવે બનશે રમતગમત મંત્રી ?",
-    "desc": "4 મેના રોજ પશ્ચિમ બંગાળ વિધાનસભા ચૂંટણી 2026ના પરિણામો જાહેર થયા, જેમાં ભાજપ TMCને હરાવીને પહેલીવાર સત્તામાં આવી. માત્ર 10 વર્ષમાં પાર્ટી 3 બેઠકોથી વધીને 206 બેઠકો પર પહોંચી ગઈ છે. આ ચૂંટણીમાં એક કરોડપતિ પૂર્વ ભારતીય ફાસ્ટ બોલર ભાજપની ટિકિટ પર ધારાસભ્ય તરીકે ચૂંટાયો હતો. હવે તેને રમતગમત મંત્રીની જવાબદારી સોંપવામાં આવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/former-cricketer-ashok-dinda-won-moyna-seats-bjp-west-bengal-election-result-2026-476550 ",
-    "time": "2026-05-05T06:40:51.000Z"
   },
   {
     "cat": "Entertainment",
