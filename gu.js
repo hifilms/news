@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "IPL સ્ટારની ગર્લફ્રેન્ડ પર લાગ્યો ટીમના સીક્રેટ લીક કરવાનો આરોપ, BCCI એ તત્કાલ ભર્યાં પગલાં",
+    "desc": "BCCI એ તાજેતરમાં એક નવી ગાઇડલાઇન જારી કરતા ટીમ હોટલમાં સંબંધીઓ, પાર્ટનર કે અન્ય જાણકારોના પ્રવેશ પર કડક વલણ અપનાવતા કેટલાક મોટા આદેશ જારી કર્યાં છે. માનવામાં આવી રહ્યું છે આ ઘટનાનું તેમાં મહત્વનું યોગદાન છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-star-girlfriend-accused-of-leaking-team-secrets-bcci-takes-major-action-477027 ",
+    "time": "2026-05-08T09:59:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1 રૂપિયો પણ પગાર લેતા ન હતા મમતા બેનર્જી છતાં આ રીતે કમાતા હતાં લાખો રૂપિયા, જાણો હવે કેટલું મળશે પેન્શન?",
+    "desc": "મમતા બેનર્જીની રાજકીય કારકિર્દી ઘણી લાંબી છે અને તેમાં તેઓ સાંસદ, વિધાયક, મુખ્યમંત્રી બનેલા છે. તેઓ જ્યારે મુખ્યમંત્રી હતા ત્યારે તેમણે ક્યારેય પગાર લીધો નથી કે સંસદસભ્ય તરીકે પેન્શન પણ લીધુ નથી. ત્યારે કેવી રીતે થયો હતો ગુજારો? હવે તેમને કેટલું પેન્શન મળી શકે? ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-mamata-banerjee-made-a-living-without-taking-a-salary-what-about-pension-477026 ",
+    "time": "2026-05-08T09:51:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મમતા સરકારની વિદાયની સાથે જ લાલ ઇંટોવાળી આ ઇમારત કેમ આવી ચર્ચામાં? એક સમયે હતી ઇસ્ટ ઇન્ડિયા કંપનીની ઓફિસ",
+    "desc": "પશ્ચિમ બંગાળની એ ઐતિહાસિક લાલ ઇંટોવાળી ઇમારતને ફરીથી જીવંત કરવાની તૈયારીઓ શરૂ થઈ ચૂકી છે. વર્ષ 1777માં ઇસ્ટ ઇન્ડિયા કંપનીના ક્લાર્કોની ઓફિસ તરીકે બનેલી આ વસાહતી ઇમારત એક સમયે બંગાળ શાસનનું સૌથી મોટું કેન્દ્ર હતી. દાયકાઓ સુધી રાજ્યની સત્તા અહીંથી જ સંચાલિત થતી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-did-this-red-brick-building-come-into-the-limelight-after-the-departure-of-mamata-government-it-was-once-the-office-of-the-east-india-company-477025 ",
+    "time": "2026-05-08T09:43:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ઇન્સ્ટાગ્રામે બંધ કર્યા લાખો લોકોના એકાઉન્ટ, જો તમે તમારા એકાઉન્ટને સુરક્ષિત રાખવા માંગતા હો, તો ભૂલથી પણ ન કરો આ 5 ભૂલો",
+    "desc": "Instagram એ લાખો વપરાશકર્તાઓ માટે નકલી અને સ્પામ એકાઉન્ટ બંધ કરી દીધા છે. જો તમે તમારા Instagram એકાઉન્ટને સુરક્ષિત રાખવા માંગતા હો, તો આ ભૂલો કરવાનું ટાળો, નહીં તો તમારું એકાઉન્ટ સસ્પેન્ડ અથવા ડિલીટ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/instagram-has-closed-the-accounts-of-millions-of-people-if-you-want-to-keep-your-account-safe-do-not-make-these-5-mistakes-477021 ",
+    "time": "2026-05-08T09:07:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ બનશે કેરળના મુખ્યમંત્રી? નિરીક્ષકોએ ખરગેને સોંપ્યો રિપોર્ટ, જાણો કોંગ્રેસમાં કયા 3 નામ પર થઈ રહી છે ચર્ચા",
+    "desc": "કેરળ કોંગ્રેસમાં નવા મુખ્યમંત્રીના ચહેરાને લઈને ચર્ચાઓ તેજ બની છે અને આજે નિરીક્ષકોએ પોતાનો રિપોર્ટ પાર્ટી અધ્યક્ષ મલ્લિકાર્જુન ખરગેને સોંપ્યો છે. મળતી માહિતી અનુસાર, કે. સી. વેણુગોપાલને સૌથી વધુ ધારાસભ્યોનું સમર્થન મળ્યું છે, જો કે અંતિમ નિર્ણય પાર્ટી હાઈકમાન્ડ લેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-will-become-the-chief-minister-of-kerala-observers-submit-report-to-kharge-know-which-3-names-are-being-discussed-in-congress-477019 ",
+    "time": "2026-05-08T09:07:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મે મહિનામાં પાંચ દિવસ બંધ રહેશે SBI બેંક, તારીખ જોઈને જરૂરી કામકાજ પહેલા જ પતાવી લેજો",
+    "desc": "સ્ટેટ બેંક ઓફ ઈન્ડિયા (SBI) ના કર્મચારીઓ વિવિધ પડતર માંગણીઓને લઈને હડતાળ પર ઉતરવાના છે. ત્યારે હડતાળ અને રજાના માહોલને પગલે મે મહિનામાં પાંચ દિવસ એસબીઆઈ બેંક બંધ રહેવાની છે. ત્યારે જાણી લો કયા કયા દિવસે બેંક નહિ ખૂલે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sbi-strike-alert-state-bank-of-india-to-remain-closed-for-5-days-in-may-check-dates-477011 ",
+    "time": "2026-05-08T08:47:34.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "₹5.99 લાખની આ 5-સીટર પર તૂટી પડ્યા ગ્રાહક, બની દેશની નંબર-1 કાર, 30 km આપે છે માઇલેજ",
     "desc": "મારૂતિ સુઝુકીની કાર દેશમાં સૌથી વધુ પસંદ કરવામાં આવે છે. દર મહિને ટોપ-10 વેચાણના લિસ્ટમાં મારૂતિની ઘણી કાર સામેલ હોય છે. મારૂતિ સુઝુકી બલેનો એપ્રિલ-2026મા સૌથી વધુ વેચાતી હેચબેક રહી છે. આવો આ કાર વિશે જાણીએ.",
@@ -189,15 +243,6 @@ const newsData_gu = [
     "time": "2026-05-07T06:51:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;તેણે મારા દીકરાને માર્યો, પણ હું તેને ફાંસી નથી ઈચ્છતી...&amp;#039; સુવેન્દુના PAની હત્યા પર માતાની આ વાત રડાવી દેશે!",
-    "desc": "આ એક માતાની મમતા છે. થોડા કલાકો પહેલા જ તેના પુત્રની સરેઆમ હત્યા કરવામાં આવી હતી, પરંતુ તે હવે હત્યારાને ફાંસી અપાવવા માંગતી નથી. સમગ્ર દેશને હચમચાવી દેનારા આ હત્યાકાંડમાં સુવેન્દુ અધિકારીના PAની માતાનું નિવેદન લોકોને ભાવુક કરી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mother-of-suvendu-adhikaris-slain-aide-demands-life-imprisonment-for-accused-476839 ",
-    "time": "2026-05-07T06:10:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "&amp;#039;કેચ-ડ્રોપર&amp;#039; શશાંકનું કાઉન્ટડાઉન શરૂ ? હાર બાદ શ્રેયસ ઐયરની ખૂટી ધીરજ, જાણો કોને ગણાવ્યો હારનો જવાબદાર",
     "desc": "સનરાઇઝર્સ હૈદરાબાદ સામે પંજાબ કિંગ્સની 33 રનથી કારમી હાર થઈ છે. આ મેચમાં પંજાબ કિંગ્સનો શશાંક સિંહ રડાર પર હતો. કારણ કે છેલ્લી ઘણી મેચોથી શશાંક સિંહ કેચ છોડવાના કારણે શંકાના ઘેરામાં હતો. ત્યારે આ મેચમાં ફરી એકવાર આ જ ભૂલો કરી છે. ત્યારે હવે શ્રેયસ ઐયરે આખરે આ બાબતે પોતાનું મૌન તોડ્યું છે.",
@@ -205,24 +250,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/shashank-singh-catch-drop-shreyas-iyer-reaction-after-defeat-srh-vs-pbks-ipl-2026-476838 ",
     "time": "2026-05-07T06:09:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;quot;હું બરાબર પાછળ જ હતો, અચાનક બ્રેક મારી અને...&amp;quot;, સુવેન્દુ અધિકારીના PAની હત્યાના પ્રત્યક્ષદર્શીએ વર્ણવી હકીકત",
-    "desc": "પશ્ચિમ બંગાળમાં સુવેન્દુ અધિકારીના PAની ગોળી મારીને હત્યા કરવામાં આવી છે, જેણે દરેકને ચોંકાવી દીધા છે. આ ઘટના બાદ પ્રત્યક્ષદર્શીએ જણાવ્યું કે કાર અચાનક રસ્તાની વચ્ચે ઉભી રહી ગઈ અને બાઇક પર સવાર એક વ્યક્તિ આવ્યો અને કારની ડાબી બાજુથી ગોળીબાર શરૂ કરી દીધો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bengal-tense-after-killing-of-suvendu-adhikaris-aide-eyewitnesses-recount-point-blank-shooting-476816 ",
-    "time": "2026-05-07T05:21:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;quot;દિલ્હી વિરુદ્ધ જંગની જાહેરાત કરો, 17 કરોડ મુસ્લિમો સાથે...&amp;quot; મમતા બેનર્જીને કોણે ઉશ્કેર્યા?",
-    "desc": "પશ્ચિમ બંગાળના રાજકારણમાં અત્યારે ભારે ગરમાવો જોવા મળી રહ્યો છે. એકતરફ ભાજપ સરકાર બનાવવાનો દાવો કરી રહી છે, તો બીજી તરફ મમતા બેનર્જી સતત રાજીનામું આપવાનો ઇનકાર કરી રહ્યા છે. આ ખેંચતાણ વચ્ચે બાંગ્લાદેશી નેતા મોહમ્મદ નુરુલ હુદાના એક ઉશ્કેરણીજનક નિવેદને વિવાદને કારણે વધુ વકરાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/declare-war-against-delhi-170-million-muslims-stand-with-you-who-incited-mamata-banerjee-476813 ",
-    "time": "2026-05-07T04:24:46.000Z"
   },
   {
     "cat": "World",
@@ -414,24 +441,6 @@ const newsData_gu = [
     "time": "2026-05-05T06:40:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "હાર્દિક પંડ્યાને મુંબઈની ટીમમાંથી કરાયો બહાર ? ના રમવાનું અસલી કારણ આવ્યું સામે",
-    "desc": "લખનૌ સામેની મેચમાં મુંબઈ ઈન્ડિયન્સનો કેપ્ટન હાર્દિક પંડ્યા પ્લેઈંગ ઈલેવનમાંથી ગાયબ હતો. તેના સ્થાને સૂર્યકુમાર યાદવ ટીમનું નેતૃત્વ કરતો જોવા મળ્યો. હવે સવાલ એ છે કે હાર્દિક પંડ્યાને કેમ બહાર કરવામાં આવ્યો હતો ? તેની પાછળનું કારણ શું હતું ? તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-hardik-pandya-did-not-play-in-mi-vs-lsg-match-reason-revealed-476532 ",
-    "time": "2026-05-05T05:59:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અદાણીની જીત! ₹3,400 કરોડ વધુ બોલી લગાવવા છતાં, વેદાંતાની ન થઈ આ કંપની, વિવાદ પર મોટો નિર્ણય",
-    "desc": "અદાણી એન્ટરપ્રાઇઝે આ કંપનીને 14,535 કરોડ રૂપિયાની બોલી સાથે હસ્તગત કરવાની કાનૂની લડાઈ જીતી લીધી છે. નેશનલ કંપની લો એપેલેટ ટ્રિબ્યુનલ (NCLAT)એ વેદાંત લિમિટેડની અરજીને સંપૂર્ણપણે ફગાવી દીધી છે, જેમાં દાવો કરવામાં આવ્યો હતો કે તેની બોલી અદાણી કરતા 3,400 કરોડ રૂપિયા વધુ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/adani-wins-despite-bidding-3400-crores-more-vedanta-did-not-get-this-company-big-decision-on-the-controversy-476452 ",
-    "time": "2026-05-04T13:32:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ખતરોં કે ખિલાડી શો માં આ વખતે આ કલાકારો કરશે ખતરનાક સ્ટંટ, કંફર્મ કલાકારોના આ રહ્યા નામ",
     "desc": "ખતરોં કે ખિલાડી 15 ની પહેલી ઝલક જોવા માટે લોકો બેચેન છે. આ શોની પહેલી ઝલક ક્યારે જોવા મળશે તે તો કંફર્મ નથી પણ આ શો માં કયા કલાકારો સ્ટંટ કરતાં જોવા મળશે તે કંફર્મ થયું છે. તો ફટાફટ ચેક કરી લો આ લિસ્ટ.",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trump-double-attack-on-germany-recalls-us-troops-tariff-on-cars-476170 ",
     "time": "2026-05-03T12:01:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ન તો EVM કે ન તો બેલેટ પેપર... દુનિયાના આ જગ્યાએ, ફક્ત હાથ ઉંચા કરીને જ ચૂંટાય છે સરકાર, જાણો કેમ?",
-    "desc": "શું તમે જાણો છો કે દુનિયામાં એક એવી જગ્યા છે જ્યાં લોકો મતદાન કરવા માટે બેલેટ પેપર કે EVMનો ઉપયોગ કરતા નથી. અહીં, લોકો પોતાના નેતા કે સરકાર પસંદ કરવા માટે ખુલ્લા મેદાનમાં હાથ ઉંચા કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/neither-evm-nor-ballot-paper-in-this-part-of-the-world-the-government-is-elected-only-by-raising-hands-know-why-476065 ",
-    "time": "2026-05-02T15:07:44.000Z"
   },
   {
     "cat": "Tech",

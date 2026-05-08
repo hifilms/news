@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Head-to-Head record ahead of game 51 in IPL 2026",
+    "desc": "Game 51 of the ongoing IPL (Indian Premier League) 2026 sees Delhi Capitals taking on Kolkata Knight Riders. The two sides will take on each other at the Arun Jaitley Stadium in Delhi on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-kkr-head-to-head-record-ahead-of-game-51-in-ipl-2026-2026-05-08-1040389",
+    "time": "2026-05-08T09:14:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Could revive their season': Zaheer Khan reveals Kolkata Knight Riders' potential trick to success ahead of DC",
+    "desc": "Kolkata Knight Riders’ have had a subpar season in the ongoing edition of the IPL (Indian Premier League) 2026. Led by Ajinkya Rahane, the three-time champions find themselves in eighth place in the standings. With...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/could-revive-their-season-zaheer-khan-reveals-kolkata-knight-riders-potential-trick-to-success-ahead-of-dc-clash-2026-05-08-1040386",
+    "time": "2026-05-08T08:43:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at Arun Jaitley Stadium in Delhi play?",
     "desc": "The stage is set for the 51st game of the ongoing IPL (Indian Premier League) 2026. Delhi Capitals will take on Kolkata Knight Riders at the Arun Jaitley Stadium in Delhi on May 8th. It...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mitchell-marsh-s-century-prince-yadav-s-brilliance-help-10th-placed-lsg-beat-defending-champions-rcb-2026-05-08-1040324",
     "time": "2026-05-07T18:59:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch BAN vs PAK live on TV and stream online in India?",
-    "desc": "The two-match Test series between Bangladesh and Pakistan is set to begin on May 8 at the Shere Bangla International Stadium in Mirpur. The hosts arrive at the series on the back of some competitive...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-vs-pakistan-when-and-where-to-watch-ban-vs-pak-live-on-tv-and-stream-online-in-india-2026-05-07-1040322",
-    "time": "2026-05-07T18:03:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam ruled out of first Test against Bangladesh in Mirpur, here's why",
-    "desc": "Star Pakistan batter Babar Azam is ruled out of the first Test against Bangladesh in Mirpur. He suffered an injury on his left knee, ruling him out of the contest. The team management confirmed the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-ruled-out-of-first-test-against-bangladesh-in-mirpur-here-s-why-2026-05-07-1040319",
-    "time": "2026-05-07T17:28:37.000Z"
   }
 ];
