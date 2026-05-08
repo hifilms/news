@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "69000 કે 72000 રૂપિયા....પગાર, પેન્શન-ભથ્થા પર થશે મોટો નિર્ણય! વિગતવાર જાણો માહિતી",
+    "desc": "આઠમાં પગાર પંચે હવે રક્ષા મંત્રાલય અને રેલવેના કર્મચારીઓના સંગઠનો અને યુનિયનો તથા પેન્શનર્સ સાથે મોટી બેઠકનો નિર્ણય લીધો છે. જેમાં પગાર વધારા, પેન્શન, ભથ્થા સંબંધિત અનેક મુદ્દાઓ પર ચર્ચા થશે. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8cpc-latest-update-big-meeting-in-delhi-ministry-of-defense-and-railway-employees-associations-477084 ",
+    "time": "2026-05-08T14:47:15.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "હવે પેટ્રોલ પુરાવવાની જરૂર નથી? પાણીથી બનેલા ફ્યુઅલ પર દોડશે મારૂતિ સ્વિફ્ટ, જાણો શું છે નવી ટેકનોલોજી",
+    "desc": "Maruti Swift હવે પેટ્રોલ કે CNG નહીં, પરંતુ એક નવી ટેકનોલોજી પર દોડવાની તૈયારીમાં છે. કંપનીએ Vienna Motor Symposium 2026 માં આનું નવું પ્રોટોટાઈપ રજૂ કર્યું છે. જાણો કેવી રીતે કામ કરે છે આ ફ્યુચર કાર અને ભારતમાં ક્યાર સુધી જોવા મળી શકે છે તેની ઝલક....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-swift-hydrogen-no-need-to-refuel-with-petrol-anymore-run-on-water-based-fuel-find-out-what-this-new-technology-477069 ",
+    "time": "2026-05-08T14:16:27.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "મમતા બેનર્જી બાદ બંગાળને ફરીથી મળ્યા કુંવારા મુખ્યમંત્રી, તે પહેલા આ 3 CM પણ હતાં અપરિણીત",
     "desc": "જેની આતુરતાપૂર્વક રાહ જોવાતી હતી તે ઘડી આવી ગઈ અને કેન્દ્રીય ગૃહમંત્રી અમિત શાહે બંગાળના નવા મુખ્યમંત્રી તરીકે સુવેન્દુ અધિકારીના નામની જાહેરાત કરી દીધી. પરંતુ શું તમે જાણો છો કે મમતા બેનર્જીની જેમ સુવેન્દુ અધિકારી પણ અપરિણીત છે. બંગાળના રાજકીય ઈતિહાસમાં માત્ર મમતા અને સુવેન્દુ નહીં પરંતુ બીજા 3 મુખ્યમંત્રી એવા હતા જેમણે લગ્ન કર્યા નહતા. ખાસ જાણો તેમના વિશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -187,15 +205,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/a-female-jailer-fell-in-love-with-a-prisoner-who-had-completed-his-sentence-vhp-leader-performed-kanyadan-476922 ",
     "time": "2026-05-07T14:09:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મુંબઈના એક જ પરિવારના ચાર લોકોના મોત પર ચોકાવનારો ખુલાસો, જાણો કારણ",
-    "desc": "મુંબઈના કાંદિવલીમાં ડોકાનિયા પરિવારના ચાર સભ્યોના મૃત્યુનું રહસ્ય ઉકેલાઈ ગયું છે. પોલીસ તપાસમાં જાણવા મળ્યું છે કે આ મૃત્યુ પાછળનું કારણ શું હતું. તેને સામૂહિક આત્મહત્યાનો મામલો માનવામાં આવી રહ્યો છે. જો કે આ મોત પાછળ વધારે માહિતી બાકીના રિપોર્ટ પછી જ આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/shocking-revelation-on-the-death-of-four-members-of-the-same-family-in-mumbai-know-the-reason-476914 ",
-    "time": "2026-05-07T13:40:22.000Z"
   },
   {
     "cat": "Sports",
@@ -439,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-orange-cap-leaderboard-abhishek-sharma-kl-rahul-heinrich-klaasen-476576 ",
     "time": "2026-05-05T09:02:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "લાઈવ મેચમાં IPL ક્રિકેટરે ખિસ્સામાંથી કાઢી ચિઠ્ઠી, જેમાં લખ્યું હતું &amp;#039;જય શ્રી રામ&amp;#039;, MI માટે હતો ભાવુક મેસેજ",
-    "desc": "IPLમાં પોતાની પહેલી વિકેટ લીધા બાદ મુંબઈ ઇન્ડિયન્સના 33 વર્ષીય સ્પિનર રઘુ શર્માએ પોતાના ખિસ્સામાંથી એક ચિઠ્ઠી કાઢી અને તેને કેમેરા સામે બતાવી, જેમાં MI માટે એક ભાવુક મેસેજ સાથે 'જય શ્રી રામ' લખેલું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/raghu-sharma-celebrate-his-first-ipl-wicket-with-jai-shree-ram-476567 ",
-    "time": "2026-05-05T08:20:43.000Z"
   },
   {
     "cat": "Entertainment",

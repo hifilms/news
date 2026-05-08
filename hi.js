@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "LSG are struggling to find the right combination; they lack control and consistency: Umesh Yadav",
+    "desc": "Lucknow Super Giants managed just three wins in 10 games so far in the IPL 2026. They are currently at the bottom of the table and even though the Rishabh Pant-led side is mathematically alive...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-are-struggling-to-find-the-right-combination-they-lack-control-and-consistency-umesh-yadav-2026-05-08-1040438",
+    "time": "2026-05-08T15:34:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Najmul Shanto breaks Mushfiqur Rahim's record in Bangladesh's first Test vs Pakistan",
+    "desc": "Bangladesh captain Najmul Hossain Shanto led by example on the opening day of the first Test against Pakistan at the Shere Bangla Stadium in Dhaka. After losing two early wickets, the hosts were put under...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/najmul-shanto-breaks-mushfiqur-rahim-s-record-in-bangladesh-s-first-test-vs-pakistan-2026-05-08-1040431",
+    "time": "2026-05-08T14:32:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Matheesha Pathirana not playing for KKR vs DC? When will he play for Kolkata in IPL 2026?",
+    "desc": "Kolkata Knight Riders have announced an unchanged playing XI for the marquee clash against Delhi Capitals at the Arun Jaitley Stadium in IPL 2026. It means Finn Allen, Cameron Green, Rovman Powell and Sunil Narine...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-for-kkr-vs-dc-when-will-he-play-for-kolkata-in-ipl-2026-2026-05-08-1040425",
+    "time": "2026-05-08T13:47:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI shares new advisory after multiple protocol breaches in IPL 2026, warns players of punishment or even ban",
     "desc": "The BCCI has tightened discipline and security standards across the IPL after identifying multiple breaches involving team personnel, players and franchise representatives during the ongoing 2026 season. In a detailed advisory circulated to all ten...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-to-replace-suryakumar-yadav-as-india-s-t20i-captain-as-bcci-eyes-major-change-report-2026-05-08-1040375",
     "time": "2026-05-08T06:31:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer reflects on Virat Kohli's dismissal after loss against LSG",
-    "desc": "Lucknow Super Giants registered a brilliant victory against Royal Challengers Bengaluru in the 50th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Ekana Stadium in Lucknow on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-virat-kohli-s-dismissal-after-loss-against-lsg-2026-05-08-1040361",
-    "time": "2026-05-08T05:36:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Real Madrid's Federico Valverde to miss El Clasico due to head injury after altercation with Tchouameni",
-    "desc": "In a major blow to Spanish club Real Madrid, the side’s star player, Fede Valverde, is all set to miss the side’s upcoming clash against FC Barcelona as he is recovering from an injury that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/real-madrid-s-federico-valverde-to-miss-el-clasico-due-to-head-injury-after-altercation-with-tchouameni-2026-05-08-1040355",
-    "time": "2026-05-08T04:52:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav and wife Devisha Shetty blessed with baby girl",
-    "desc": "In a major development for India’s T20I captain Suryakumar Yadav, the star batter and his wife, Devisha Shetty, have been blessed with a baby girl. Suryakumar Yadav shared the development of the same on his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-and-wife-devisha-shetty-blessed-with-baby-girl-2026-05-08-1040349",
-    "time": "2026-05-08T03:52:51.000Z"
   }
 ];
