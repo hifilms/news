@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Voter support or MLAs' backing? Congress weighs its options in Kerala",
+    "desc": "Congress leadership is deliberating on the Kerala CM post, weighing intra-party support for KC Venugopal against public sentiment favoring VD Satheesan. A decision is expected by Sunday, with discussions involving key state leaders and central party chiefs in Delhi.",
+    "img": "https://static.toiimg.com/photo/msid-130967001,imgsize-34118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/voter-support-or-mlas-backing-congress-weighs-its-options-in-kerala/articleshow/130966996.cms",
+    "time": "2026-05-08T21:35:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India scripts history, trounces Lebanon to make U17 Asian Cup quarterfinals",
+    "desc": "India will face hosts China in the quarterfinal; India’s entry was confirmed after the Philippines and Chinese Taipei failed to win their final head-to-head Group C match by a margin of 12 goals or more",
+    "img": "https://th-i.thgim.com/public/news/national/myntlc/article70957031.ece/alternates/LANDSCAPE_1200/India%20vs%20Lebanon.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/india-vs-lebanon-u17-women-football-team-afc-asian-cup-quarterfinals/article70957025.ece",
+    "time": "2026-05-08T21:25:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI bans ‘unauthorised’ entries in players’ rooms; warns of honey traps, security risk",
+    "desc": "In an elaborate advisory for the 10 IPL franchises, the BCCI has said that written authorisation from the team managers would be a must for guests to have access to the players’ and officials’ rooms",
+    "img": "https://th-i.thgim.com/public/incoming/1046kz/article70957022.ece/alternates/LANDSCAPE_1200/IMG_PTI09_29_2024_000173_2_1_CPESG7SB.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bcci-bans-unauthorised-entries-in-players-rooms-warns-of-honey-traps-security-risk/article70957017.ece",
+    "time": "2026-05-08T21:07:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah",
+    "desc": "Union Home Minister Amit Shah declared the BJP's West Bengal victory a national security triumph, promising to identify and remove infiltrators. He criticized the TMC for political violence and criminalization, vowing a new era of fearless governance and dismantling the 'syndicate raj'.",
+    "img": "https://static.toiimg.com/photo/msid-130966778,imgsize-121464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-victory-will-plug-national-security-hole-amit-shah/articleshow/130966762.cms",
+    "time": "2026-05-08T21:01:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ameesha Patel takes a dig at younger actresses, PR culture",
+    "desc": "Ameesha Patel has seemingly taken a sharp dig at the younger generation of actresses and the growing PR culture in the film industry. The actress, who was recently stranded in Oman after her flight was diverted amid the UAE-Iran conflict, shared a series of strong opinions on social media about stardom, box office success and “fake PR machinery”.",
+    "img": "https://static.toiimg.com/photo/msid-130966740,imgsize-29550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-takes-a-dig-at-younger-actresses-and-pr-culture-doing-two-average-films-doesnt-make-you-a-superstar/articleshow/130966724.cms",
+    "time": "2026-05-08T20:55:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Governor cannot question majority stitched post-poll",
+    "desc": "Supreme Court rulings consistently state governors must invite the largest party or alliance to form government post-election, without questioning how support was gained. The apex court has warned against dismissing governments or dissolving assemblies based on 'fanciful assumptions' of horse-trading, emphasizing that majority must be proven on the floor of the House.",
+    "img": "https://static.toiimg.com/photo/msid-130966751,imgsize-78590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-cm-announcement-governor-cannot-question-majority-stitched-post-poll/articleshow/130966739.cms",
+    "time": "2026-05-08T20:53:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How drama in Tamil Nadu unfolded, the several plots, offers of friendship &amp; a 'betrayal'",
+    "desc": "Following TVK's electoral success, AIADMK factions engaged in backroom dealings to form a government, with one group attempting to ally with TVK while the party's general secretary sought a tie-up with DMK. These maneuvers ultimately failed as Left parties opted to support TVK, thwarting the Dravidian majors' plans.",
+    "img": "https://static.toiimg.com/photo/msid-130966728,imgsize-41150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/how-drama-in-tn-unfolded-the-several-plots-offers-of-friendship-a-betrayal/articleshow/130966708.cms",
+    "time": "2026-05-08T20:46:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Element of surprise key to secure strategic edge, Rajnath tells commanders",
+    "desc": "Defence Minister Rajnath Singh emphasized that future wars will hinge on innovative thinking and synergy, not just weaponry. He urged commanders to prioritize artificial intelligence, autonomous systems, and secure communications, stressing the need to anticipate enemy surprises and stay ahead. Singh highlighted hybrid threats and multi-domain operations, commending the forces' jointness and technological adoption.",
+    "img": "https://static.toiimg.com/photo/msid-130966695,imgsize-78878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/element-of-surprise-key-to-secure-strategic-edge-rajnath-tells-commanders/articleshow/130966689.cms",
+    "time": "2026-05-08T20:39:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court turns down scamster's plea to club FIRs",
+    "desc": "The Supreme Court refused to consolidate multiple FIRs against Sameer Agrawal, accused of defrauding thousands of investors of Rs 10,000 crore and fleeing to Dubai. The court emphasized a victim-centric approach, stating that each instance of cheating warrants an independent FIR. It suggested considering consolidation only if duped investors collectively petitioned, and if Agrawal deposits the full refund amount.",
+    "img": "https://static.toiimg.com/photo/msid-130966628,imgsize-14130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/supreme-court-turns-down-scamsters-plea-to-club-firs/articleshow/130966618.cms",
+    "time": "2026-05-08T20:10:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI files charge sheet against Shubhkamna Buildtech and others",
+    "desc": "The CBI is currently investigating 50 cases registered pursuant to the directions of the Supreme Court against various builder companies and financial institutions across the country in matters concerning cheating and diversion of funds involving homebuyers",
+    "img": "https://th-i.thgim.com/public/incoming/d8hw0x/article70955113.ece/alternates/LANDSCAPE_1200/cbi.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cbi-files-chargesheet-against-builder-company-shubhkamna-buildtech-and-others/article70954890.ece",
+    "time": "2026-05-08T19:58:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a 1st, NCRB tracks cases of cruelty against animals: 10,312 arrested in 2024",
+    "desc": "For the first time, the National Crime Records Bureau has tracked animal cruelty cases, registering 9,039 incidents and arresting over 10,000 individuals in 2024. Maharashtra led with the highest number of cases. The data reveals a high conviction rate for concluded cases but significant delays in judicial disposal.",
+    "img": "https://static.toiimg.com/photo/msid-130966566,imgsize-98658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-a-1st-ncrb-tracks-cases-of-cruelty-against-animals-10312-arrested-in-2024/articleshow/130966549.cms",
+    "time": "2026-05-08T19:50:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Parmeet's mother was shot during partition, had bullet in her body for 2 yrs",
+    "desc": "Actor Parmeet Sethi shared a harrowing childhood incident of his late mother, Sushil Sethi, who was accidentally shot during the Partition. The bullet remained lodged in her body for nearly two years due to limited medical technology. She was around 10-12 years old when a thief attempting to steal a gun from their home shot her.",
+    "img": "https://static.toiimg.com/photo/msid-130966540,imgsize-34264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/parmeet-sethi-reveals-his-mother-was-shot-during-partition-the-bullet-remained-in-her-body-for-1-2-years-nobody-knew-where-it-was/articleshow/130966506.cms",
+    "time": "2026-05-08T19:50:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Urvashi recalls awkward moment after mispronouncing Leo’s surname",
+    "desc": "Urvashi Rautela recently opened up about meeting Hollywood star Leonardo DiCaprio at Cannes 2025 and recalled how she felt extremely guilty after accidentally mispronouncing his surname in one of her earlier interviews. Urvashi further claimed that many people around Leonardo DiCaprio have often said that the actor is not someone who easily meets people or clicks pictures with everyone.",
+    "img": "https://static.toiimg.com/photo/msid-130966475,imgsize-84098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urvashi-rautela-recalls-awkward-moment-after-mispronouncing-leonardo-dicaprios-surname-i-really-hope-he-never-watches-that-interview/articleshow/130966464.cms",
+    "time": "2026-05-08T19:44:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Left backs TVK but VCK undecided as uncertainty continues",
+    "desc": "Vijay meets Governor for the third time with tally of 116, two short of majority; AMMK’s Dhinakaran alleges horse-trading; Left leaders cite need to form a popularly elected government by May 10 to prevent the imposition of President’s Rule",
+    "img": "https://th-i.thgim.com/public/incoming/5xj74i/article70955214.ece/alternates/LANDSCAPE_1200/PTI05_08_2026_000188B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-cpi-cpim-extend-unconditional-support-to-tvk-vck-may-follow-suit/article70954927.ece",
+    "time": "2026-05-08T19:41:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Murder, abetment accused can't inherit victim's property: Supreme Court",
+    "desc": "The Supreme Court has ruled that individuals accused of murder or abetting murder cannot inherit property from their victims. This disqualification applies to both wills and intestate succession, even if a trial is ongoing. The court emphasized that no one should profit from their own wrongdoing, citing principles of justice and public policy.",
+    "img": "https://static.toiimg.com/photo/msid-130966469,imgsize-124292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/murder-abetment-accused-cant-inherit-victims-property-supreme-court/articleshow/130966465.cms",
+    "time": "2026-05-08T19:40:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India gets new labour law as govt notifies wage code; Centre caps weekly working hours at 48 under new labour codes",
+    "desc": "New labour codes have capped weekly working hours at 48, with overtime paid at double the hourly wage. Final rules for wages and industrial relations codes are out, paving the way for implementation. A National Reskilling Fund will support retrenched workers with new skills, financed by employers.",
+    "img": "https://static.toiimg.com/photo/msid-130966433,imgsize-167464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-gets-new-labour-law-as-govt-notifies-wage-code-centre-caps-weekly-working-hours-at-48-under-new-labour-codes/articleshow/130966425.cms",
+    "time": "2026-05-08T19:31:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "why Europe’s big clubs covet the Leipzig winger",
+    "desc": "The 19-year-old has turned heads in Germany with his catalogue of spectacular goals and dazzling dribbles. His game isn’t fully formed yet, but his breakthrough season in the Bundesliga suggests that there are seemingly no limits to just how good he can get",
+    "img": "https://th-i.thgim.com/public/incoming/u6rp4w/article70956982.ece/alternates/LANDSCAPE_1200/GettyImages-2257964909.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/yan-diomande-rb-leipzig-bundesliga-breakout-star-transfer-interest-liverpool-psg-bayern/article70956987.ece",
+    "time": "2026-05-08T19:12:54.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Ayush Shetty’s slow-burn ascent",
     "desc": "The 6’4” shuttler isn’t the quintessential prodigy. He did not win a National Championship in any age category. But he has beaten the world’s best in recent weeks, showing he belongs on the big stage. What does the 21-year-old need to contend for badminton’s most prestigious tournaments?",
@@ -10,12 +163,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Left backs TVK but VCK undecided as uncertainty continues",
-    "desc": "Vijay meets Governor for the third time with tally of 116, two short of majority; AMMK’s Dhinakaran alleges horse-trading; Left leaders cite need to form a popularly elected government by May 10 to prevent the imposition of President’s Rule",
-    "img": "https://th-i.thgim.com/public/incoming/5xj74i/article70955214.ece/alternates/LANDSCAPE_1200/PTI05_08_2026_000188B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-cpi-cpim-extend-unconditional-support-to-tvk-vck-may-follow-suit/article70954927.ece",
-    "time": "2026-05-08T18:49:53.000Z"
+    "title": "Patna-bound IndiGo flight makes emergency landing at Lucknow due to bad weather",
+    "desc": "An IndiGo flight from Kolkata to Patna made an emergency landing in Lucknow due to adverse weather conditions in Patna. The aircraft, carrying 180 passengers and six crew members, was diverted after being unable to receive landing clearance. The flight later departed for Patna once the weather improved.",
+    "img": "https://static.toiimg.com/photo/msid-130966177,imgsize-88542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/patna-bound-indigo-flight-makes-emergency-landing-at-lucknow-due-to-bad-weather/articleshow/130966181.cms",
+    "time": "2026-05-08T19:00:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -178,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-axar-patel-enters-unwanted-history-books-becomes-second-worst-ipl-captain-by-average/articleshow/130964080.cms",
     "time": "2026-05-08T16:10:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jockeying for Congress leadership erupts into open, manifesting as competing marches and vying poster campaigns",
-    "desc": "The three-way leadership tussle spilt onto the streets across Kerala, manifesting as competing rallies by Congress workers professing their respective factional loyalties. Amid the discord, Satheesan urges cadres to refrain from group demonstrations and public declarations of loyalty.",
-    "img": "https://th-i.thgim.com/public/incoming/u7p4qc/article70956631.ece/alternates/LANDSCAPE_1200/NH08Rally06.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/jockeying-for-congress-leadership-erupts-into-open-manifesting-as-competing-marches-and-vying-poster-campaigns/article70956608.ece",
-    "time": "2026-05-08T16:08:50.000Z"
   },
   {
     "cat": "Politics",
@@ -387,15 +531,6 @@ const newsData_en = [
     "time": "2026-05-08T13:15:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'He is making Taj Mahal': Farah Khan left speechless as Dilip boasts his four-storey home",
-    "desc": "Filmmaker Farah Khan was left stunned and embarrassed during a vlog visit to TV actor Samarth Jurel's home when her cook-turned-YouTube star Dilip casually revealed that his house under construction is bigger than Samarth's prompting Farah to declare he is \"making Taj Mahal.\" Farah has a three-floor house; Dilip is building four floors. Samarth also called Dilip \"lucky\" for Farah, which she admitted before immediately worrying he would use it as leverage for a salary increase.",
-    "img": "https://static.toiimg.com/photo/msid-130961196,imgsize-57826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-left-speechless-as-cook-dilip-boasts-his-four-storey-home-beats-tv-actors-house-he-is-making-taj-mahal/articleshow/130961113.cms",
-    "time": "2026-05-08T13:14:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How new labour codes could change your gratuity benefits",
     "desc": "At its core, gratuity continues to be a statutory payment made by an employer when the employee exits after meeting certain conditions. In most cases, employees need to complete five years of continuous service with the same employer to become eligible.",
@@ -403,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/how-new-labour-codes-could-change-your-gratuity-benefits-will-you-get-the-same-amount-or-more-explained/articleshow/130960993.cms",
     "time": "2026-05-08T13:13:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Billie Eilish concert film delayed in India after CBFC cuts",
-    "desc": "The Tour'. Due to requests for modifications from the Central Board of Film Certification, the filmmakers are consulting with their US headquarters for adaptations. Consequently, fans will now have to mark their calendars for the new premiere date of May 15.",
-    "img": "https://static.toiimg.com/photo/msid-130961145,imgsize-150298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/billie-eilish-concert-film-postponed-in-india-as-cbfc-demands-multiple-cuts-for-hit-me-hard-and-soft/articleshow/130961145.cms",
-    "time": "2026-05-08T13:12:55.000Z"
   },
   {
     "cat": "Business",
@@ -430,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-nicholas-pooran-grabs-krunal-pandya-by-collar-after-heated-on-field-exchange-watch/articleshow/130960704.cms",
     "time": "2026-05-08T13:02:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Men are the minority’",
-    "desc": "During her appearance on 'Not Done Yet', Malaika Arora offered a candid look at managing societal judgments, the art of personal transformation, and the strength drawn from female alliances. She highlighted how humor has been her armor against criticism, praised the unwavering support from her girlfriends, and reflected on her transformative journey as a single mother.",
-    "img": "https://static.toiimg.com/photo/msid-130960614,imgsize-32112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-arora-opens-up-on-her-girl-tribe-of-kareena-kapoor-khan-karisma-kapoor-and-amrita-arora-men-are-literally-the-minority-in-my-life/articleshow/130960614.cms",
-    "time": "2026-05-08T12:53:24.000Z"
   },
   {
     "cat": "Business",
@@ -468,15 +585,6 @@ const newsData_en = [
     "time": "2026-05-08T12:20:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Enough is enough’: SC raps MP govt over delay in action against minister Vijay Shah over remarks on Col Sofiya Qureshi",
-    "desc": "The Supreme Court has strongly criticized the Madhya Pradesh government for delaying the decision on sanctioning prosecution for minister Kunwar Vijay Shah's \"most unfortunate\" remarks against Army officer Sofiya Qureshi. The court has ordered the state to comply with its earlier directive within four weeks, emphasizing that \"enough is enough.\"",
-    "img": "https://static.toiimg.com/photo/msid-130959671,imgsize-916918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/enough-is-enough-sc-raps-mp-govt-over-delay-in-action-against-minister-vijay-shah-over-remarks-on-col-sofiya-qureshi/articleshow/130959440.cms",
-    "time": "2026-05-08T12:13:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Air India says no layoffs planned, asks staff to cut discretionary spending",
     "desc": "Air India assures employees no layoffs are anticipated despite financial strain from the Middle East conflict. However, annual salary increments will be deferred by at least a quarter. CEO Campbell Wilson urges a \"laser sharp focus\" on cost reduction, eliminating waste, and suspending discretionary spending to navigate these challenging times. Variable pay and planned promotions will continue.",
@@ -484,33 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-crisis-air-india-says-no-layoffs-planned-asks-staff-to-cut-discretionary-spending/articleshow/130959656.cms",
     "time": "2026-05-08T12:13:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How close India and Pakistan came to the brink one year ago",
-    "desc": "Following a deadly terror attack in Kashmir, India launched precision strikes on militant camps in Pakistan, escalating tensions to a full military standoff. Despite Pakistan's nuclear threats, India maintained a strong stance, ultimately leading to a ceasefire after significant damage to Pakistani military assets.",
-    "img": "https://static.toiimg.com/photo/msid-130960123,imgsize-75906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/operation-sindoor-how-close-india-and-pakistan-came-to-the-brink-one-year-ago/articleshow/130959555.cms",
-    "time": "2026-05-08T12:05:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ex-Mamata loyalist, who defeated her twice, to be Bengal's 1st BJP CM",
-    "desc": "Suvendu Adhikari comes from one of the state’s most influential political families. His father, Sisir Adhikari, served both in the West Bengal Assembly and the Lok Sabha, while his brother Dibyendu Adhikari was earlier a Trinamool Congress (TMC) MP before joining the BJP in 2024. Suvendu began his political journey with the Congress during the 1995 municipal polls before moving to the newly formed TMC alongside his father in 1998. He rose rapidly within Mamata Banerjee’s party and became one of its strongest organisational faces in coastal Bengal.",
-    "img": "https://static.toiimg.com/photo/msid-130959595,imgsize-50320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/suvendu-adhikari-ex-mamata-loyalist-who-defeated-her-twice-to-be-bengals-1st-bjp-cm-who-is-suvendu-adhikari/articleshow/130958048.cms",
-    "time": "2026-05-08T11:39:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Suvendu Adhikari elected as legislature party leader, set to take oath as CM on May 9",
-    "desc": "Senior BJP leader Suvendu Adhikari has been formally elected as the leader of the BJP legislature party in West Bengal. This development paves the way for him to become the state's first BJP chief minister. The swearing-in ceremony is scheduled for May 9 at Brigade Parade Ground in Kolkata.",
-    "img": "https://static.toiimg.com/photo/msid-130958786,imgsize-854756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-govt-formation-in-west-bengal-suvendu-adhikari-elected-as-party-legislature-party-leader-set-to-take-oath-as-cm-on-may-9/articleshow/130958746.cms",
-    "time": "2026-05-08T11:32:43.000Z"
   },
   {
     "cat": "Sports",
@@ -547,24 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/main-actor-nahin-hoon-movie-review-nawazuddin-siddiqui-aditya-kripalani-chitrangada-satarupa/article70954595.ece",
     "time": "2026-05-08T11:03:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Premature and misplaced’: Sanjay Raut writes to Trump over Bengal win message to PM Modi; BJP hits back",
-    "desc": "Shiv Sena (UBT) leader Sanjay Raut criticized Donald Trump's congratulations to PM Modi on the West Bengal election results, calling them premature and misplaced. Raut asserted that state elections are an internal matter and alleged the polls were conducted amid fear and systemic pressure, questioning the Election Commission's impartiality.",
-    "img": "https://static.toiimg.com/photo/msid-130957771,imgsize-554224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/premature-and-misplaced-sanjay-raut-writes-to-trump-over-bengal-win-message-to-pm-modi-bjp-hits-back/articleshow/130957743.cms",
-    "time": "2026-05-08T11:00:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP drops leaked Congress list with 'KC' markings",
-    "desc": "With the LDF's victory in Kerala, the race for Chief Minister heats up. A leaked list, shared by the BJP, suggests K C Venugopal might be favored by a majority of Congress MLAs. However, one MLA claims his preference was omitted, raising questions about the consultation process. V D Satheesan and Ramesh Chennithala are also contenders.",
-    "img": "https://static.toiimg.com/photo/msid-130957021,imgsize-998545.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-cm-face-bjp-drops-leaked-congress-list-with-kc-markings/articleshow/130957029.cms",
-    "time": "2026-05-08T10:34:41.000Z"
   },
   {
     "cat": "Sports",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/indigenous-actor-qorianka-kilcher-sues-james-cameron-claims-avatar-used-her-face-for-neytiri/article70949835.ece",
     "time": "2026-05-07T07:09:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Super Rapid & Blitz Poland 2026: Gukesh stays in hunt after Javokhir Sindarov win, Wesley So draw in Grand Chess Tour",
-    "desc": "After defeating Uzbekistan's Javokhir Sindarov, Gukesh played out a quick draw with Wesley So to move to six points with three rounds still to go in the Super Rapid & Blitz event of the Grand Chess Tour",
-    "img": "https://th-i.thgim.com/public/incoming/d2m3p7/article70949811.ece/alternates/LANDSCAPE_1200/55252964074_85f4be2a35_c.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/super-rapid-blitz-poland-2026-gukesh-stays-in-hunt-after-javokhir-sindarov-win-wesley-so-draw-in-grand-chess-tour/article70949805.ece",
-    "time": "2026-05-07T07:08:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gukesh sends out a massive message by beating Sindarov",
-    "desc": "Gukesh was in full swing as he matched Sindarov move for move in a rapid encounter that was the first of the clash before the Uzbek meets the Indian ace in the World Championship match scheduled later this year",
-    "img": "https://th-i.thgim.com/public/incoming/edz59w/article70948541.ece/alternates/LANDSCAPE_1200/IMG_PTI04_16_2024_000092_2_1_PDCN7F21.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/gukesh-sends-out-a-massive-message-by-beating-sindarov/article70948522.ece",
-    "time": "2026-05-06T20:02:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "DC head coach Badani",
-    "desc": "Kuldeep’s overall IPL economy rate has hovered around eight, but this season it has crossed the 10-run mark while the wickets too have dried up, with the spinner managing only seven scalps in 10 matches",
-    "img": "https://th-i.thgim.com/public/incoming/9urxhp/article70948528.ece/alternates/LANDSCAPE_1200/31_Practice_RR_DC_30_04_Jaipur.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/we-would-want-kuldeep-to-be-better-than-this-dc-head-coach-badani/article70948520.ece",
-    "time": "2026-05-06T19:43:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Desi stars and couture spotting at fashion’s biggest night",
-    "desc": "From endangered shola craft to Raja Ravi Varma paintings, inspiration was plentiful for desis, who turned up in their couture best, with some, choosing to highlight Indian craftsmanship and artistry. Here are our favourite looks",
-    "img": "https://th-i.thgim.com/public/life-and-style/es6qwi/article70942661.ece/alternates/LANDSCAPE_1200/FotoJet%2033.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/fashion/met-gala-2026-desi-stars-and-couture-spotting-at-fashions-biggest-night/article70942583.ece",
-    "time": "2026-05-06T10:11:25.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Top Google scientist says EU data measures pose privacy risk for users",
-    "desc": "The European Commission, which acts as the EU competition enforcer, has in recent ‌years cracked down on Big Tech via a slew of legislation to ‌ensure ⁠that users have more choices and smaller rivals room to ⁠compete",
-    "img": "https://th-i.thgim.com/public/incoming/oyboni/article70945512.ece/alternates/LANDSCAPE_1200/2026-05-05T183938Z_836594049_RC253LAA54AD_RTRMADP_3_EU-ALPHABET-ANTITRUST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/top-google-scientist-says-eu-data-measures-pose-privacy-risk-for-users/article70945497.ece",
-    "time": "2026-05-06T05:58:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India lose 0-3 to Japan in AFC U-17 Women’s Asian Cup",
-    "desc": "After a goalless first half, Japan took the lead just before the hour mark through Yumi Hayashi (59th minute) and Yuzuha Ikeda (76th, 81st) then struck twice to hand the four-time champions their second win in Group B",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/india-lose-0-3-to-japan-in-afc-u-17-womens-asian-cup/article70944762.ece",
-    "time": "2026-05-05T21:50:25.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
