@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Finn Allen registers new record with 47-ball century against Delhi Capitals in IPL 2026",
+    "desc": "Finn Allen lit up the Arun Jaitley Stadium with a sensational century as Kolkata Knight Riders cruised to an emphatic eight-wicket victory over Delhi Capitals in IPL 2026. The explosive opener smashed a 47-ball hundred,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-registers-new-record-with-47-ball-century-against-delhi-capitals-in-ipl-2026-2026-05-08-1040447",
+    "time": "2026-05-08T18:09:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Real Madrid impose heavy fines on Fede Valverde, Tchouameni after physical altercation during training",
+    "desc": "Real Madrid have penalised both Federico Valverde and Aurelien Tchouameni following a confrontation during training last evening. As per reports, during a training session, a heavy challenge sparked tempers between the pair and it is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/real-madrid-impose-heavy-fines-on-fede-valverde-tchouameni-after-physical-altercation-during-training-2026-05-08-1040444",
+    "time": "2026-05-08T17:41:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Finn Allen, spinners decimate Delhi Capitals as Kolkata register fourth consecutive wins in IPL 2026",
+    "desc": "Kolkata Knight Riders registered a comfortable win over Delhi Capitals at the Arun Jaitley Stadium in the IPL 2026. The Ajinkya Rahane-led side produced a clinical all-round show, getting the job done with 34 balls...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-spinners-decimate-delhi-capitals-as-kolkata-register-fourth-consecutive-wins-in-ipl-2026-2026-05-08-1040443",
+    "time": "2026-05-08T17:13:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul becomes first cricketer to register major milestone in IPL",
+    "desc": "KL Rahul registered another major milestone in IPL. The Delhi Capitals opener managed a cracking start against KKR at the Arun Jaitley Stadium, but failed to capitalise on that, departing for 23 runs. Despite his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-becomes-first-cricketer-to-register-major-milestone-in-ipl-2026-05-08-1040440",
+    "time": "2026-05-08T16:29:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "LSG are struggling to find the right combination; they lack control and consistency: Umesh Yadav",
     "desc": "Lucknow Super Giants managed just three wins in 10 games so far in the IPL 2026. They are currently at the bottom of the table and even though the Rishabh Pant-led side is mathematically alive...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/krunal-pandya-educates-on-his-bowling-evolution-art-of-bowling-bouncers-as-a-spinner-2026-05-08-1040397",
     "time": "2026-05-08T10:28:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-Head record ahead of game 51 in IPL 2026",
-    "desc": "Game 51 of the ongoing IPL (Indian Premier League) 2026 sees Delhi Capitals taking on Kolkata Knight Riders. The two sides will take on each other at the Arun Jaitley Stadium in Delhi on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-kkr-head-to-head-record-ahead-of-game-51-in-ipl-2026-2026-05-08-1040389",
-    "time": "2026-05-08T09:14:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Could revive their season': Zaheer Khan reveals Kolkata Knight Riders' potential trick to success ahead of DC",
-    "desc": "Kolkata Knight Riders’ have had a subpar season in the ongoing edition of the IPL (Indian Premier League) 2026. Led by Ajinkya Rahane, the three-time champions find themselves in eighth place in the standings. With...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/could-revive-their-season-zaheer-khan-reveals-kolkata-knight-riders-potential-trick-to-success-ahead-of-dc-clash-2026-05-08-1040386",
-    "time": "2026-05-08T08:43:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Arun Jaitley Stadium in Delhi play?",
-    "desc": "The stage is set for the 51st game of the ongoing IPL (Indian Premier League) 2026. Delhi Capitals will take on Kolkata Knight Riders at the Arun Jaitley Stadium in Delhi on May 8th. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-kkr-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-05-08-1040382",
-    "time": "2026-05-08T07:14:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer to replace Suryakumar Yadav as India's T20I captain as BCCI eyes major change: Report",
-    "desc": "In a major development for Indian cricket, a recent report stated that the BCCI (Board of Control for Cricket in India) is looking for a change in leadership, and Suryakumar Yadav is set to be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-to-replace-suryakumar-yadav-as-india-s-t20i-captain-as-bcci-eyes-major-change-report-2026-05-08-1040375",
-    "time": "2026-05-08T06:31:54.000Z"
   }
 ];
