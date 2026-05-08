@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Means a lot': Rishabh Pant opens up after Lucknow Super Giants break losing streak, register third win in IPL",
+    "desc": "The 50th game of the ongoing IPL (Indian Premier League) 2026 saw Lucknow Super Giants hosting Royal Challengers Bengaluru. The two sides met at the Ekana Stadium in Lucknow on May 8th, and the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/means-a-lot-rishabh-pant-opens-up-after-lucknow-super-giants-break-losing-streak-register-third-win-in-ipl-2026-2026-05-08-1040333",
+    "time": "2026-05-08T01:29:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mitchell Marsh's century, Prince Yadav's brilliance help 10th placed LSG beat defending champions RCB",
     "desc": "Lucknow Super Giants defeated Royal Challengers Bengaluru by nine runs in their IPL 2026 clash at the Ekana Stadium. The match that was interrupted by rain several times, saw Australia international Mitchell Marsh play a...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-s-new-advisory-to-restrict-players-from-travelling-with-girlfriends-new-rules-for-owners-too-2026-05-07-1040297",
     "time": "2026-05-07T13:17:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Babar Azam score first Test century in nearly four years? Shan Masood reflects on form ahead of BAN clash",
-    "desc": "Pakistan captain Shan Masood believes Babar Azam will deliver with the bat in the opening Test against Bangladesh at the Sher-e-Bangla National Cricket Stadium on May 8. After an outstanding Pakistan Super League campaign, Babar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-babar-azam-score-first-test-century-in-nearly-four-years-shan-masood-reflects-on-form-ahead-of-bangladesh-match-2026-05-07-1040288",
-    "time": "2026-05-07T12:27:56.000Z"
   }
 ];
