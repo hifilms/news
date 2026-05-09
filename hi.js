@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I'm really happy': Ajinkya Rahane opens up after Kolkata Knight Riders return to winning ways",
+    "desc": "Kolkata Knight Riders registered a brilliant victory against Delhi Capitals in the 51st game of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the Arun Jaitley Stadium in Delhi on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-m-really-happy-ajinkya-rahane-opens-up-after-kolkata-knight-riders-return-to-winning-ways-2026-05-09-1040458",
+    "time": "2026-05-09T02:28:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Finn Allen joins Brendon McCullum, Andre Russell in elite list with stellar century against Delhi Capitals",
+    "desc": "The 51st game of the ongoing IPL (Indian Premier League) saw Delhi Capitals taking on Kolkata Knight Riders. The two sides met at the Arun Jaitley Stadium in Delhi on May 8th. The game saw...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-joins-brendon-mccullum-andre-russell-in-elite-list-with-stellar-century-against-delhi-capitals-2026-05-09-1040454",
+    "time": "2026-05-09T01:45:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Finn Allen registers new record with 47-ball century against Delhi Capitals in IPL 2026",
     "desc": "Finn Allen lit up the Arun Jaitley Stadium with a sensational century as Kolkata Knight Riders cruised to an emphatic eight-wicket victory over Delhi Capitals in IPL 2026. The explosive opener smashed a 47-ball hundred,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-shares-new-advisory-after-multiple-protocol-breaches-in-ipl-2026-warns-players-of-punishment-or-even-ban-2026-05-08-1040410",
     "time": "2026-05-08T11:42:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Frustated David Miller wants more opportunities in DC, but understands the importance of combinations in IPL",
-    "desc": "Delhi Capitals find themselves in a tight spot as the IPL 2026 league stage enters its decisive stretch. With four wins in 10 games, the Axar Patel-led side is currently seventh on the points table....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/frustated-david-miller-wants-more-opportunities-in-dc-but-understands-the-importance-of-combinations-in-ipl-2026-05-08-1040404",
-    "time": "2026-05-08T11:06:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Krunal Pandya educates on his bowling evolution, art of bowling bouncers as a spinner",
-    "desc": "Royal Challengers Bengaluru all-rounder Krunal Pandya has been one of the standout performers of the season. He has claimed 10 wickets in 10 games so far in the IPL 2026, but most importantly, he has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/krunal-pandya-educates-on-his-bowling-evolution-art-of-bowling-bouncers-as-a-spinner-2026-05-08-1040397",
-    "time": "2026-05-08T10:28:03.000Z"
   }
 ];
