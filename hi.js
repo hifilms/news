@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gujarat storm to second in major overhaul to standings",
+    "desc": "Gujarat Titans registered their fourth straight win in the Indian Premier League 2026 after thrashing the Rajasthan Royals at the Sawai Mansingh Stadium on Saturday, May 9. Rashid Khan starred with a four-wicket haul, while...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-updated-points-table-after-rr-vs-gt-ipl-2026-clash-gujarat-storm-to-second-in-major-overhaul-to-standings-2026-05-09-1040538",
+    "time": "2026-05-09T18:28:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rashid Khan, Shubman Gill shine as GT march to second in IPL 2026 points table with RR win",
+    "desc": "Rashid Khan laid the destruction work with the ball, while Shubman Gill set things up brilliantly with the bat as the Gujarat Titans handed the Rajasthan Royals a drubbing in their 11th match of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-shubman-gill-shine-as-gt-march-to-second-in-ipl-2026-points-table-with-rr-win-2026-05-09-1040535",
+    "time": "2026-05-09T17:41:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi downs world records with just one six in RR vs GT IPL 2026 clash",
+    "desc": "Rajasthan Royals teenage sensation Vaibhav Sooryavanshi shattered world records with his first six in the clash against the Gujarat Titans at the Sawai Mansingh Stadium on Saturday, May 9. Sooryavanshi, the 15-year-old prodigy, has made...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-downs-world-records-with-just-one-six-in-rr-vs-gt-ipl-2026-clash-2026-05-09-1040532",
+    "time": "2026-05-09T16:58:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PBKS act swiftly on BCCI's social media and hotel access guidelines, to hold meeting with players",
     "desc": "Punjab Kings have acted swiftly on the Board of Control for Cricket in India's (BCCI) new social media and hotel access guidelines. The Kings will hold a meeting with the players after their net session...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kkr-will-fancy-their-playoff-chances-ex-mi-stars-big-claim-after-rahane-led-sides-fourth-win-2026-05-09-1040500",
     "time": "2026-05-09T10:26:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinesh Phogat barred by Wrestling Federation of India from competing in National Open Ranking Tournament",
-    "desc": "In a major development for Indian wrestler Vinesh Phogat, the WFI (Wrestling Federation of India) has decided to bar her from competing in her comeback tournament, the National Open Ranking Tournament. The event is slated...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-barred-by-wrestling-federation-of-india-from-competing-in-national-open-ranking-tournament-2026-05-09-1040494",
-    "time": "2026-05-09T09:37:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RR vs GT Head-to-Head record ahead of game 52 in IPL 2026",
-    "desc": "Game 52 of the ongoing IPL (Indian Premier League) 2026 sees Rajasthan Royals taking on Gujarat Titans. The two sides will meet at the Sawai Mansingh Stadium in Jaipur on May 9th. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-gt-head-to-head-record-ahead-of-game-52-in-ipl-2026-2026-05-09-1040489",
-    "time": "2026-05-09T08:53:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yashasvi Jaiswal and Shafali Verma issued notice by NADA over missed dope tests",
-    "desc": "In a major development, star India cricketers Yashasvi Jaiswal and Shafali Verma have been issued a notice by NADA (National Anti-Doping Agency) for not being available for scheduled dope tests in 2025, which was their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-and-shafali-verma-issued-notice-by-nada-over-missed-dope-tests-2026-05-09-1040484",
-    "time": "2026-05-09T07:36:28.000Z"
   }
 ];
