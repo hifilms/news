@@ -1,12 +1,57 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "વિનેશ ફોગાટને મોટો ઝટકો, WFIએ લગાવ્યો પ્રતિબંધ, જાણો શું છે સમગ્ર ઘટના",
+    "desc": "રેસલિંગ ફેડરેશન ઓફ ઈન્ડિયા (WFI)એ મહિલા રેસલર વિનેશ ફોગાટ સામે મોટી કાર્યવાહી કરી છે. એન્ટી ડોપિંગ નિયમોનું ઉલ્લંઘન કરવા બદલ તેના પર અસ્થાયી પ્રતિબંધ મૂકવામાં આવ્યો છે. પરિણામે તે નેશનલ ઓપન રેન્કિંગ રેસલિંગ ટુર્નામેન્ટમાં ભાગ લઈ શકશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/wfi-show-cause-notice-to-vinesh-phogat-and-ban-in-domestic-events-till-june-26-477162 ",
+    "time": "2026-05-09T11:56:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL વચ્ચે યશસ્વીને મળી નોટિસ...જો ફરી આ ભૂલ કરી તો લાગશે પ્રતિબંધ ! મહિલા ક્રિકેટર પણ શંકાના ઘેરામાં",
+    "desc": "IPL 2026 વચ્ચે રાજસ્થાન રોયલ્સના ઓપનર યશસ્વી જયસ્વાલને મોટો ઝટકો લાગ્યો છે. જયસ્વાલને તેણે કરેલી એક મોટી ભૂલ અંગે નોટિસ ફટકારવામાં આવી છે. જો તે આ ભૂલ ફરીવાર કરશે તો તેના પર પ્રતિબંધ પણ લાગી શકે છે. આ મામલે એક મહિલા ક્રિકેટરનું નામ પણ સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/yashasvi-jaiswal-and-shafali-verma-receive-nada-notices-for-missed-dope-test-477158 ",
+    "time": "2026-05-09T11:17:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "બંગાળમાં હવે ભાજપની સરકાર...બાંગ્લાદેશના આ દિગ્ગજ નેતા ખુશ, પણ કટ્ટરપંથી ભડક્યા",
+    "desc": "બંગાળમાં આજથી ભાજપની સરકાર....અને સુવેન્દુ અધિકારીએ આજે રાજ્યના મુખ્યમંત્રી પદના શપથ લીધા. પરંતુ લાગે છે કે બાંગ્લાદેશના કટ્ટપંથીઓને આ સમાચાર પચ્યા નથી. જો કે પૂર્વ મુખ્યમંત્રી શેખ હસીનાએ પશ્ચિમ બંગાળના નવા મુખ્યમંત્રીને શુભેચ્છાઓ પાઠવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/sheikh-hasina-congratulates-suvendu-adhikari-nasiruddin-patwari-controversial-statement-477144 ",
+    "time": "2026-05-09T10:49:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "નિકોલસ પૂરને કેમ પકડ્યો હતો કૃણાલ પંડ્યાનો કોલર ? હકીકત આવી સામે",
+    "desc": "મેચ પછી લખનૌ સુપર જાયન્ટ્સનો સ્ટાર બેટ્સમેન નિકોલસ પૂરન રોયલ ચેલેન્જર્સ બેંગલુરુના ઓલરાઉન્ડર કૃણાલ પંડ્યાનો કોલર પકડ્યો હતો. જે બાદ ચાહકોમાં ચર્ચા શરૂ થઈ હતી કે કે બંને ખેલાડીઓ વચ્ચે ઝઘડો થયો હતો. ત્યારે શું છે સમગ્ર હકીકત તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-did-nicholas-pooran-grab-krunal-pandyas-collar-know-the-reason-477143 ",
+    "time": "2026-05-09T10:40:13.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "સુવેન્દુથી સમ્રાટ....ભાજપના એવા મુખ્યમંત્રીઓ જે બીજા પક્ષોમાંથી આવ્યા અને ચારેબાજુ છવાઈ ગયા",
     "desc": "રાજકારણમાં પક્ષપલટો એ કોઈ નવી વાત નથી. નેતાઓ એક પક્ષમાંથી બીજા પક્ષમાં જતા હોય છે. ક્યારેક એવું બને કે પક્ષપલટો કરીને નેતાજીનું ભાગ્ય સવરી જાય તો ક્યારેક કારકિર્દી પણ જોખમાઈ જાય છે. પરંતુ આજે અમે એવા નેતાઓની વાત કરીશું જે પક્ષપલટો કરીને ભાજપમાં આવ્યા અને મુખ્યમંત્રીપદ સુધી પહોંચ્યા.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/from-suvendu-adhikari-to-samrat-choudhary-bjp-leaders-who-came-from-other-parties-reach-cm-position-477133 ",
-    "time": "2026-05-09T09:09:46.000Z"
+    "time": "2026-05-09T10:36:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કુંવારા નેતાઓની ક્લબમાં વધુ એકની એન્ટ્રી, ભારતીયો કુંવારા નેતા પર કેમ વધુ વિશ્વાસ કરે છે, આ છે મોટા કારણ",
+    "desc": "જો તમે અપરિણીત છો અને રાજકારણમાં છો તો સમજો કે તમે રાજકારણના લાંબી રેસના ઘોડા છો, તમારું મુખ્યમંત્રી પદ તો પાક્કુ જ છે. દેશના કુંવારા મુખ્યમંત્રીઓની બ્રિગેડમાં વધુ એક નામ સામેલ થયુ છે, સુવેન્દુ અધિકારી. આખરે કેમ દેશની જનતાને કુંવારા નેતાઓ પર વધુ ભરોસો હોય છે, જાણીએ આ પાછળનું રાજકીય ગણિત",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-bachelor-political-leaders-popular-in-indians-477141 ",
+    "time": "2026-05-09T10:05:58.000Z"
   },
   {
     "cat": "Politics",
@@ -169,15 +214,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/instagram-has-closed-the-accounts-of-millions-of-people-if-you-want-to-keep-your-account-safe-do-not-make-these-5-mistakes-477021 ",
     "time": "2026-05-08T09:07:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોણ બનશે કેરળના મુખ્યમંત્રી? નિરીક્ષકોએ ખરગેને સોંપ્યો રિપોર્ટ, જાણો કોંગ્રેસમાં કયા 3 નામ પર થઈ રહી છે ચર્ચા",
-    "desc": "કેરળ કોંગ્રેસમાં નવા મુખ્યમંત્રીના ચહેરાને લઈને ચર્ચાઓ તેજ બની છે અને આજે નિરીક્ષકોએ પોતાનો રિપોર્ટ પાર્ટી અધ્યક્ષ મલ્લિકાર્જુન ખરગેને સોંપ્યો છે. મળતી માહિતી અનુસાર, કે. સી. વેણુગોપાલને સૌથી વધુ ધારાસભ્યોનું સમર્થન મળ્યું છે, જો કે અંતિમ નિર્ણય પાર્ટી હાઈકમાન્ડ લેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-will-become-the-chief-minister-of-kerala-observers-submit-report-to-kharge-know-which-3-names-are-being-discussed-in-congress-477019 ",
-    "time": "2026-05-08T09:07:28.000Z"
   },
   {
     "cat": "Tech",
@@ -387,24 +423,6 @@ const newsData_gu = [
     "time": "2026-05-06T08:13:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026ની ફાઇનલ અમદાવાદમાં રમાશે, બેંગલુરુને મોટો ઝટકો... જાણો કેમ બદલાયું વેન્યૂ",
-    "desc": "IPL 2026ના પ્લેઓફના વેન્યૂ અંગે એક મોટો ફેરફાર સામે આવ્યો છે. ફાઇનલ હવે અમદાવાદમાં યોજાશે, જ્યારે ક્વોલિફાયર 1 ધર્મશાળામાં અને એલિમિનેટર અને ક્વોલિફાયર 2 ચંદીગઢમાં યોજાશે. નિયમો અનુસાર, ફાઇનલ બેંગલુરુમાં યોજાવાની હતી. જો કે, ટિકિટ વિતરણના વિવાદને કારણે BCCIએ યોજનામાં ફેરફાર કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ahmedabad-to-host-ipl-2026-final-on-may-31-ipl-playoffs-venues-change-476710 ",
-    "time": "2026-05-06T07:55:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સંજુ સેમસને રચ્યો ઇતિહાસ... IPLમાં આ સિદ્ધિ મેળવનાર બન્યો વિશ્વનો પ્રથમ ક્રિકેટર",
-    "desc": "ચેન્નાઈ સુપર કિંગ્સના વિકેટકીપર-બેટ્સમેન સંજુ સેમસને IPLમાં ઇતિહાસ રચ્યો છે, આ સિદ્ધિ મેળવનાર વિશ્વનો પ્રથમ ક્રિકેટર બન્યો છે. સંજુ સેમસન IPL ટુર્નામેન્ટની એક જ સીઝનમાં દિલ્હી કેપિટલ્સ સામે બે વાર 100 રનથી વધુની પાર્ટનરશીપ કરનાર વિશ્વનો પ્રથમ બેટ્સમેન બન્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/sanju-samson-becoming-first-batter-to-be-involved-in-two-century-partnerships-against-dc-in-same-ipl-season-476699 ",
-    "time": "2026-05-06T06:05:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "2 દિવસમાં ઓટીટી પર જોવા મળશે એકશન, લવ સ્ટોરી સહિત બધું જ, રિલીઝ થશે 4 દમદાર ફિલ્મો અને સીરીઝ",
     "desc": "6 અને 8 મે ઓટીટી લવર્સ માટે ખાસ છે. કારણ કે આ બે દિવસોમાં ઓટીટી પર ભરપુર મનોરંજન પુરું પાડે તેવી ફિલ્મો રિલીઝ થવાની છે. તો ફટાફટ ચેક કરી લો આગામી 2 દિવસમાં ઓટીટી પર જોવા જેવું શું છે ?",
@@ -450,15 +468,6 @@ const newsData_gu = [
     "time": "2026-05-05T12:00:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "એન્જિનિયરિંગ છોડી બન્યો ક્રિકેટર, ધોનીની એક સિક્સે બદલ્યું કિસ્મત, MIમાં મળી એન્ટ્રી, જાણો કોણ છે આ ખેલાડી",
-    "desc": "મુંબઈ ઈન્ડિયન્સના લેગ-સ્પિનર રઘુ શર્માએ લખનૌ સુપર જાયન્ટ્સ સામે પોતાની પહેલી IPL વિકેટ લીધી. 2011ની વર્લ્ડ કપ ફાઇનલમાં એમએસ ધોનીની મેચ-વિનિંગ સિક્સરથી પ્રેરિત થઈને રઘુ શર્માએ વજન ઘટાડ્યું અને 33 વર્ષની ઉંમરે પોતાનું IPLનું સપનું પૂર્ણ કર્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-raghu-sharma-from-engineer-to-ipl-debut-mumbai-indians-476596 ",
-    "time": "2026-05-05T11:24:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ખતરોં કે ખિલાડી શો માં આ વખતે આ કલાકારો કરશે ખતરનાક સ્ટંટ, કંફર્મ કલાકારોના આ રહ્યા નામ",
     "desc": "ખતરોં કે ખિલાડી 15 ની પહેલી ઝલક જોવા માટે લોકો બેચેન છે. આ શોની પહેલી ઝલક ક્યારે જોવા મળશે તે તો કંફર્મ નથી પણ આ શો માં કયા કલાકારો સ્ટંટ કરતાં જોવા મળશે તે કંફર્મ થયું છે. તો ફટાફટ ચેક કરી લો આ લિસ્ટ.",
@@ -484,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/amid-ceasefire-there-a-hint-of-a-world-war-trump-open-warning-to-iran-make-a-deal-or-disaster-is-certain-476205 ",
     "time": "2026-05-03T16:11:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "જર્મની પર ટ્રમ્પનો &amp;#039;ડબલ એટેક&amp;#039;... હજારો US સૈનિકોને પાછા બોલાવ્યા, કાર પર 25% ટેરિફની જાહેરાત",
-    "desc": "જર્મની પર ડબલ એટેક કરતા રાષ્ટ્રપતિ ટ્રમ્પે 5,000થી વધુ સૈનિકો પાછા બોલાવવાની જાહેરાત કરી છે અને યુરોપિયન કાર પર 25% ટેરિફ લાદવાની પણ જાહેરાત કરી છે. આ નિર્ણય પર અમેરિકા અને યુરોપ બંને તરફથી પ્રતિક્રિયાઓ આવી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-double-attack-on-germany-recalls-us-troops-tariff-on-cars-476170 ",
-    "time": "2026-05-03T12:01:01.000Z"
   },
   {
     "cat": "Tech",

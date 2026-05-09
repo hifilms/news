@@ -1,8 +1,35 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India one win away from FIFA U-17 Women's World Cup, Coach calls Asian Cup QF spot 'incredible achievement'",
+    "desc": "India women's U-17 team scripted history by reaching their first-ever quarterfinals of the AFC U17 Women's Asian Cup with their only victory in the group stage. India defeated Lebanon 4-0, and following the Philippines and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-one-win-away-from-fifa-u17-womens-world-cup-coach-calls-asian-cup-qf-spot-incredible-achievement-2026-05-09-1040512",
+    "time": "2026-05-09T12:39:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI comes down heavy on IPL players, broadcasters with new guideline amid corruption concerns",
+    "desc": "The Board of Control for Cricket in India (BCCI) has come down heavy on the IPL players, their families, team members and commentators for the social media culture, adding to the tightened discipline and security...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-comes-down-heavy-on-ipl-players-with-new-guideline-amid-corruption-concerns-2026-05-09-1040509",
+    "time": "2026-05-09T11:50:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'KKR will fancy their playoff chances': Ex-MI star's big claim after Rahane-led side's fourth win",
+    "desc": "Former Mumbai Indians star Aditya Tare has claimed that the Kolkata Knight Riders will fancy their chances of reaching the playoffs after the Ajinkya Rahane-led team's fourth win of the season. KKR, who were lingering...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-will-fancy-their-playoff-chances-ex-mi-stars-big-claim-after-rahane-led-sides-fourth-win-2026-05-09-1040500",
+    "time": "2026-05-09T10:26:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vinesh Phogat barred by Wrestling Federation of India from competing in National Open Ranking Tournament",
-    "desc": "In a major development for Indian wrestler Vinesh Phogat, the WFI (Wrestling Federation of India) has come forward and made the decision to bar Phogat from competing in her comeback tournament, the National Open Ranking...",
+    "desc": "In a major development for Indian wrestler Vinesh Phogat, the WFI (Wrestling Federation of India) has decided to bar her from competing in her comeback tournament, the National Open Ranking Tournament. The event is slated...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-barred-by-wrestling-federation-of-india-from-competing-in-national-open-ranking-tournament-2026-05-09-1040494",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/i-m-really-happy-ajinkya-rahane-opens-up-after-kolkata-knight-riders-return-to-winning-ways-2026-05-09-1040458",
     "time": "2026-05-09T02:28:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finn Allen joins Brendon McCullum, Andre Russell in elite list with stellar century against Delhi Capitals",
-    "desc": "The 51st game of the ongoing IPL (Indian Premier League) saw Delhi Capitals taking on Kolkata Knight Riders. The two sides met at the Arun Jaitley Stadium in Delhi on May 8th. The game saw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-joins-brendon-mccullum-andre-russell-in-elite-list-with-stellar-century-against-delhi-capitals-2026-05-09-1040454",
-    "time": "2026-05-09T01:45:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finn Allen registers new record with 47-ball century against Delhi Capitals in IPL 2026",
-    "desc": "Finn Allen lit up the Arun Jaitley Stadium with a sensational century as Kolkata Knight Riders cruised to an emphatic eight-wicket victory over Delhi Capitals in IPL 2026. The explosive opener smashed a 47-ball hundred,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-registers-new-record-with-47-ball-century-against-delhi-capitals-in-ipl-2026-2026-05-08-1040447",
-    "time": "2026-05-08T18:09:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Real Madrid impose heavy fines on Fede Valverde, Tchouameni after physical altercation during training",
-    "desc": "Real Madrid have penalised both Federico Valverde and Aurelien Tchouameni following a confrontation during training last evening. As per reports, during a training session, a heavy challenge sparked tempers between the pair and it is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/real-madrid-impose-heavy-fines-on-fede-valverde-tchouameni-after-physical-altercation-during-training-2026-05-08-1040444",
-    "time": "2026-05-08T17:41:37.000Z"
   }
 ];
