@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Delhi HC protects Congress MP Shashi Tharoor's personality rights; orders blocking of deepfakes",
+    "desc": "The Delhi High Court granted interim relief to Congress MP Shashi Tharoor, ordering the removal of AI-generated deepfakes and synthetic media across digital platforms. The court recognized Tharoor's enforceable personality and publicity rights, barring the misappropriation of his name, image, voice, and speaking style for any commercial, political, or malicious purpose.",
+    "img": "https://static.toiimg.com/photo/msid-130982923,imgsize-72000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-hc-protects-congress-mp-shashi-tharoors-personality-rights-orders-blocking-of-deepfakes/articleshow/130982923.cms",
+    "time": "2026-05-09T21:22:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Koli women chart new waters, set up seafood company",
+    "desc": "Mumbai's Koli women are transforming their traditional fish trade into a corporate venture with Daryavardi Producer Company Limited. This community-owned enterprise, inspired by the Amul model, focuses on streamlined operations, product development, and modern marketing. Learning about improved packaging, they aim to elevate their business from a cottage industry to a significant player in the Blue Economy.",
+    "img": "https://static.toiimg.com/photo/msid-130982898,imgsize-87722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/koli-women-chart-new-waters-set-up-seafood-company/articleshow/130982896.cms",
+    "time": "2026-05-09T21:01:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pakistan-China expert Lt Gen Subramani named next CDS; Vice Admiral Swaminathan will be new Navy chief",
+    "desc": "Lt Gen NS Raja Subramani (retd) has been appointed the new Chief of Defence Staff, tasked with implementing the theaterisation model. Vice-Admiral Krishna Swaminathan will take over as the next chief of the Indian Navy, focusing on modernization. Both appointments are effective from May 30 and May 31 respectively.",
+    "img": "https://static.toiimg.com/photo/msid-130982895,imgsize-87694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pakistan-china-expert-lt-gen-subramani-named-next-cds-vice-admiral-swaminathan-will-be-new-navy-chief/articleshow/130982873.cms",
+    "time": "2026-05-09T20:57:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India may ramp up development aid for Africa",
+    "desc": "India is set to significantly enhance its economic and development cooperation with Africa, hosting the 4th India-Africa summit after an 11-year hiatus. The government plans to announce major initiatives for development assistance, building on previous commitments of $10 billion in credit and $600 million in grants. The summit will see participation from over 40 heads of state and government.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-may-ramp-up-development-aid-for-africa/articleshow/130982830.cms",
+    "time": "2026-05-09T20:22:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BSF fires 'in self-defence', kills 2 Bangladeshis on Tripura border",
+    "desc": "Two suspected Bangladeshi smugglers were killed by BSF fire along the Tripura border on Friday night. The incident occurred near Kamalasagar border outpost when a group of smugglers, allegedly aided by villagers, began pelting stones at troops after being challenged during a smuggling attempt. The deceased were identified and their bodies handed over to the Border Guard Bangladesh.",
+    "img": "https://static.toiimg.com/photo/msid-130982808,imgsize-60520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bsf-fires-in-self-defence-kills-2-bangladeshis-on-tripura-border/articleshow/130982799.cms",
+    "time": "2026-05-09T20:09:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Neetu would fast, go to temples, gurudwaras, churches when Rishi's films didn't work",
+    "desc": "Neetu Kapoor reflects on her teenage romance with Rishi Kapoor, detailing how her life revolved around making him happy and her deep emotional investment in his career. She also discusses the changing nature of marriage due to evolving lifestyles and financial independence, recalling how their disagreements could last for months due to communication challenges.",
+    "img": "https://static.toiimg.com/photo/msid-130982739,imgsize-65222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neetu-kapoor-would-fast-go-to-temples-gurudwaras-churches-when-rishi-kapoors-films-didnt-work-says-the-institution-of-marriage-is-going-down-now/articleshow/130982733.cms",
+    "time": "2026-05-09T19:58:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kiara breaks into tears speaking about postpartum journey after daughter's birth",
+    "desc": "Kiara Advani candidly shared her postpartum journey, detailing the significant identity shift and emotional changes after welcoming her daughter. She highlighted the overwhelming nature of early motherhood and how it took months to prioritize her own well-being. Advani also praised husband Sidharth Malhotra's unwavering support, including nightly drives, which helped her navigate this transformative phase.",
+    "img": "https://static.toiimg.com/photo/msid-130982709,imgsize-40964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-breaks-into-tears-while-speaking-about-postpartum-journey-recalls-sidharth-malhotras-support-after-daughters-birth/articleshow/130982698.cms",
+    "time": "2026-05-09T19:46:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "For 'lavish' Haj, the rich get five-star stay, multi-cuisine buffet",
+    "desc": "Affluent pilgrims are opting for lavish Haj packages, enjoying luxury accommodations, private transport, and gourmet multi-cuisine buffets. These premium services, including air-conditioned tents and proximity to sacred sites, come at a significant cost, sparking debate about the display of wealth during the religious journey.",
+    "img": "https://static.toiimg.com/photo/msid-130982758,imgsize-110532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/for-lavish-haj-the-rich-get-five-star-stay-multi-cuisine-buffet/articleshow/130982710.cms",
+    "time": "2026-05-09T19:45:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gill and Rashid sizzle in Titans’ thumping victory over Royals",
+    "desc": "The skipper smashes 84 off 44 deliveries and puts on 118 for the opening wicket with Sai Sudharsan as the visitor amasses 229 for four; the leggie bamboozles the Royals batters with a four-for after Rabada and Siraj account for the dangerous JaiSoorya pair",
+    "img": "https://th-i.thgim.com/public/incoming/unvivu/article70960314.ece/alternates/LANDSCAPE_1200/12_IPL_T20_MATCH_GT_RR_JAIPUR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-gill-and-rashid-sizzle-in-titans-thumping-victory-over-royals/article70960316.ece",
+    "time": "2026-05-09T19:26:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ministers, ambassadors, artists to join The Hindu’s Huddle in June",
+    "desc": "This edition will discuss topics such as role of regional parties in strengthening India’s democracy, diplomacy in times of conflict, women’s representation in Parliament, and India and China’s role in shaping a new global order",
+    "img": "https://th-i.thgim.com/public/news/national/4tl6dp/article70960011.ece/alternates/LANDSCAPE_1200/IMG_5275.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ministers-ambassadors-artists-to-join-the-hindus-huddle-in-june/article70960008.ece",
+    "time": "2026-05-09T19:15:24.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'We are going to ... ': Yashasvi Jaiswal's short reaction after RR collapse",
     "desc": "Yashasvi Jaiswal's first IPL captaincy ended in a crushing 77-run defeat for Rajasthan Royals against Gujarat Titans. Despite a strong start from GT's Gill and Sudharsan, RR's bowling attack struggled, and their batting lineup was subsequently bundled out for 152. Jaiswal defended star pacer Jofra Archer, acknowledging the unpredictable nature of cricket.",
@@ -52,6 +142,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-elton-john-you-can-work-as-hard-as-you-like-but-there-are-moments-when-its-just-about-a-hunch/articleshow/130980669.cms",
     "time": "2026-05-09T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamilaga Vettri Kazhagam",
+    "desc": "The political organisation built by actor-turned-politician Vijay, which emerged as the single largest party in the Assembly, declares itself as a secular movement, rooted in the Tamil experience, and committed to social justice and equality",
+    "img": "https://th-i.thgim.com/public/news/national/p6oebd/article70960023.ece/alternates/LANDSCAPE_1200/Vijay_CM_Artxx.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamilaga-vettri-kazhagam-vijay-the-star-who-stormed-into-politics/article70960039.ece",
+    "time": "2026-05-09T17:20:30.000Z"
   },
   {
     "cat": "World",
@@ -205,24 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/own-work-like-mughal-rulers-bjp-snaps-at-kejriwal-after-aap-chief-likens-pm-modi-to-aurangzeb/articleshow/130980138.cms",
     "time": "2026-05-09T15:37:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Could hantavirus be the new emerging pathogen in Kerala?",
-    "desc": "Presence of antibodies against the virus in blood samples was reported in the State in 2008 itself and one probable case of the virus-induced ‘hemorrhagic fever with renal syndrome’ was reported in 2014. Experts say a good number of ‘leptospirosis-like’ illnesses, wherein patients die within four to five days could be due to hantavirus or a co-infection of leptospirosis and hanta. Symptoms are similar and hard to distinguish without targeted serology tests",
-    "img": "https://th-i.thgim.com/public/incoming/ux9lh4/article70959964.ece/alternates/LANDSCAPE_1200/IAV_4.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/could-hantavirus-be-the-new-emerging-pathogen-in-kerala/article70959251.ece",
-    "time": "2026-05-09T15:37:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "KSRTC introduces gender ticketing in Kerala",
-    "desc": "A circular was issued to the public utility officials calling for measures to introduce a gender ticketing system in buses, which will record if a passenger is a woman, man or child in ticket machines",
-    "img": "https://th-i.thgim.com/public/incoming/4dd0kp/article70959824.ece/alternates/LANDSCAPE_1200/KSRTC02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/free-ride-for-women-ksrtc-introduces-gender-ticketing-in-kerala/article70959801.ece",
-    "time": "2026-05-09T15:21:20.000Z"
   },
   {
     "cat": "Sports",
@@ -441,24 +522,6 @@ const newsData_en = [
     "time": "2026-05-09T12:14:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Are Meryl Streep and Anna Wintour distant cousins?",
-    "desc": "Hollywood icon Meryl Streep and fashion titan Anna Wintour have been revealed as sixth cousins. Genealogy research uncovered shared ancestors, adding a surprising biological layer to their professional connection, famously mirrored in 'The Devil Wears Prada'. This discovery deepens the intrigue surrounding their intertwined worlds.",
-    "img": "https://static.toiimg.com/photo/msid-130977096,imgsize-75286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-did-you-know-meryl-streep-and-anna-wintour-are-distant-cousins/articleshow/130977112.cms",
-    "time": "2026-05-09T12:09:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan’s next gets Dhurandhar makeup artist onboard",
-    "desc": "In a stunning leap of creativity, Salman Khan is preparing to captivate viewers with a series of never-before-seen personas in his latest action-packed film, helmed by the talented Vamshi Paidipally and brought to life by producer Dil Raju. The extraordinary makeup artist Preetisheel Singh, famed for her dazzling work on 'Dhurandhar', is transforming the superstar for this project.",
-    "img": "https://static.toiimg.com/photo/msid-130977035,imgsize-19956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-next-with-nayanthara-gets-dhurandhar-makeup-artist-onboard-created-a-never-before-seen-look/articleshow/130977035.cms",
-    "time": "2026-05-09T12:05:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Ek chakke ke kitne paise milte hain?': Pak cricketer's chat with police goes viral",
     "desc": "Pakistan cricketer Irfan Khan Niazi was recently pulled over by traffic police for not wearing a seat belt. The officer, a fan, engaged in a friendly chat about cricket and the PSL before letting him go with a warning. Irfan, a national player, was urged to prioritize safety and encourage others to follow traffic rules.",
@@ -540,15 +603,6 @@ const newsData_en = [
     "time": "2026-05-09T08:33:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian sailor killed after dhow catches fire near Strait of Hormuz; 17 rescued",
-    "desc": "A fire aboard a wooden dhow near the Strait of Hormuz resulted in the death of one Indian sailor and injuries to four others. Seventeen Indian crew members were rescued by a passing vessel. The incident occurred amidst heightened regional tensions, with recent exchanges between Iran and the United States in the vital shipping lane.",
-    "img": "https://static.toiimg.com/photo/msid-130973452,imgsize-738423.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-sailor-killed-after-dhow-catches-fire-near-strait-of-hormuz-17-rescued/articleshow/130973434.cms",
-    "time": "2026-05-09T08:04:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Axar Patel shifts focus to next season after KKR crushes DC’s playoff hopes",
     "desc": "With eight points from 11 matches, DC are eighth on the table, while KKR revived their playoff hopes, moving to seventh with nine points from 10 outings, though their road to the knockouts still remains difficult",
@@ -565,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/tehran-could-withstand-blockade-for-four-months-cia-report-shows-as-fighting-flares/article70958182.ece",
     "time": "2026-05-09T07:52:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I bow to West Bengal Jana Shakti': PM Modi kowtows before Kolkata crowd as BJP forms first govt",
-    "desc": "Prime Minister Modi expressed profound gratitude to the people of Bengal, bowing with folded hands after the BJP's historic Assembly election victory. Alongside new chief minister Adhikari, he shared an emotional moment with 98-year-old veteran Makhanlal Sarkar, even touching his feet in a gesture of deep respect. This marks a significant shift in West Bengal's political landscape.",
-    "img": "https://static.toiimg.com/photo/msid-130973113,imgsize-2982123.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-bows-down-with-folded-hands-before-kolkata-crowd-as-bjp-forms-first-govt-in-west-bengal/articleshow/130970637.cms",
-    "time": "2026-05-09T07:50:05.000Z"
   },
   {
     "cat": "Business",
@@ -594,15 +639,6 @@ const newsData_en = [
     "time": "2026-05-09T06:57:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From Dilip Ghosh to Agnimitra Paul",
-    "desc": "Suvendu Adhikari took oath as the new Chief Minister of West Bengal. The BJP secured a significant win in the 2026 assembly elections. Several prominent leaders attended the swearing-in ceremony. The new government includes ministers like Dilip Ghosh, Agnimitra Paul, Ashok Kirtania, Kshudiram Tudu, and Nisith Pramanik. The state saw record voter turnout.",
-    "img": "https://static.toiimg.com/photo/msid-130972319,imgsize-44982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-dilip-ghosh-to-agnimitra-paul-what-bjps-first-west-bengal-cabinet-looks-like/articleshow/130972267.cms",
-    "time": "2026-05-09T06:34:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Piyush Goyal meets Moet Hennessy Louis Vuitton, L’Oreal to push India manufacturing and exports",
     "desc": "Union Minister Piyush Goyal met with luxury giants LVMH and L'Oreal to boost India's manufacturing, exports, and investments. Discussions centered on expanding production, nurturing local talent, and integrating Indian culture into global luxury supply chains. The talks also explored new avenues for India's beauty and personal care sector, leveraging L'Oreal's recent tech hub launch in Hyderabad.",
@@ -612,33 +648,6 @@ const newsData_en = [
     "time": "2026-05-09T06:27:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Suvendu Adhikari takes oath as West Bengal's first BJP chief minister",
-    "desc": "Suvendu Adhikari has been sworn in as West Bengal's first BJP chief minister at a grand ceremony attended by Prime Minister Narendra Modi. This historic win, securing 207 seats, ends the Trinamool Congress' 15-year reign. Adhikari's transition from Mamata Banerjee's aide to BJP leader marks a significant political upheaval in the state, mirroring recent changes in Bihar.",
-    "img": "https://static.toiimg.com/photo/msid-130972158,imgsize-26296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/suvendu-adhikari-takes-oath-as-west-bengals-first-bjp-chief-minister/articleshow/130971948.cms",
-    "time": "2026-05-09T06:23:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi touches feet of 98-year old Makhanlal Sarkar during West Bengal swearing-in ceremony",
-    "desc": "Prime Minister Narendra Modi honored 98-year-old BJP veteran Makhanlal Sarkar at the party's first West Bengal government swearing-in. Sarkar, a key grassroots leader since the BJP's inception, was recognized for his decades of service and association with the nationalist movement. His arrest in Kashmir in 1952 while with Syama Prasad Mukherjee highlights his early commitment.",
-    "img": "https://static.toiimg.com/photo/msid-130972298,imgsize-65886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-touches-feet-of-98-year-old-makhanlal-sarkar-during-west-bengal-swearing-in-ceremony-who-is-he/articleshow/130971888.cms",
-    "time": "2026-05-09T06:03:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP’s ‘sonar’ era begins in West Bengal: Suvendu Adhikari takes oath as CM– top developments",
-    "desc": "West Bengal ushers in a new political era as Suvendu Adhikari takes oath as the state's first BJP Chief Minister. This historic win, following an overwhelming mandate, marks the saffron party's long-fought ideological battle. Adhikari's dramatic rise, from local councillor to defeating Mamata Banerjee, culminates in this significant power shift.",
-    "img": "https://static.toiimg.com/photo/msid-130971887,imgsize-1566404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjps-sonar-era-begins-in-west-bengal-suvendu-adhikari-set-to-take-oath-top-developments/articleshow/130971584.cms",
-    "time": "2026-05-09T05:50:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. authorities cancel cruise ship worker visas as part of child sexual abuse images case",
     "desc": "“The authorities boarded eight cruise ships in late April and determined that 27 people, mostly from the Philippines, were involved in \"the receipt, possession, transportation, distribution, or viewing\" of child sexual abuse images,” says U.S. Customs and Border Protection",
@@ -646,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-authorities-cancel-cruise-ship-worker-visas-as-part-of-child-sexual-abuse-images-case/article70958196.ece",
     "time": "2026-05-09T05:37:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Eternal voice of civilisation': PM Modi pays tribute to Rabindranath Tagore on 'pochishe boishakh'",
-    "desc": "Prime Minister Narendra Modi and West Bengal Chief Minister-elect Suvendu Adhikari paid tribute to Rabindranath Tagore on his birth anniversary, Pochishe Boishakh. Modi hailed Tagore as a timeless voice of Indian civilization, while Adhikari described him as an \"eternal star\" of Bengali literature. The occasion marks the Nobel laureate's enduring contributions to literature, philosophy, education, and culture.",
-    "img": "https://static.toiimg.com/photo/msid-130971379,imgsize-787014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eternal-voice-of-civilisation-pm-modi-pays-tribute-to-rabindranath-tagore-on-pochishe-boishakh/articleshow/130971284.cms",
-    "time": "2026-05-09T05:27:50.000Z"
   },
   {
     "cat": "Entertainment",
