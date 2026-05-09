@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vinesh Phogat barred by Wrestling Federation of India from competing in National Open Ranking Tournament",
+    "desc": "In a major development for Indian wrestler Vinesh Phogat, the WFI (Wrestling Federation of India) has come forward and made the decision to bar Phogat from competing in her comeback tournament, the National Open Ranking...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-barred-by-wrestling-federation-of-india-from-competing-in-national-open-ranking-tournament-2026-05-09-1040494",
+    "time": "2026-05-09T09:37:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RR vs GT Head-to-Head record ahead of game 52 in IPL 2026",
+    "desc": "Game 52 of the ongoing IPL (Indian Premier League) 2026 sees Rajasthan Royals taking on Gujarat Titans. The two sides will meet at the Sawai Mansingh Stadium in Jaipur on May 9th. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-gt-head-to-head-record-ahead-of-game-52-in-ipl-2026-2026-05-09-1040489",
+    "time": "2026-05-09T08:53:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Yashasvi Jaiswal and Shafali Verma issued notice by NADA over missed dope tests",
     "desc": "In a major development, star India cricketers Yashasvi Jaiswal and Shafali Verma have been issued a notice by NADA (National Anti-Doping Agency) for not being available for scheduled dope tests in 2025, which was their...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/real-madrid-impose-heavy-fines-on-fede-valverde-tchouameni-after-physical-altercation-during-training-2026-05-08-1040444",
     "time": "2026-05-08T17:41:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finn Allen, spinners decimate Delhi Capitals as Kolkata register fourth consecutive wins in IPL 2026",
-    "desc": "Kolkata Knight Riders registered a comfortable win over Delhi Capitals at the Arun Jaitley Stadium in the IPL 2026. The Ajinkya Rahane-led side produced a clinical all-round show, getting the job done with 34 balls...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-spinners-decimate-delhi-capitals-as-kolkata-register-fourth-consecutive-wins-in-ipl-2026-2026-05-08-1040443",
-    "time": "2026-05-08T17:13:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul becomes first cricketer to register major milestone in IPL",
-    "desc": "KL Rahul registered another major milestone in IPL. The Delhi Capitals opener managed a cracking start against KKR at the Arun Jaitley Stadium, but failed to capitalise on that, departing for 23 runs. Despite his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-becomes-first-cricketer-to-register-major-milestone-in-ipl-2026-05-08-1040440",
-    "time": "2026-05-08T16:29:04.000Z"
   }
 ];
