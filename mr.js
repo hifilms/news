@@ -7,14 +7,5 @@ const newsData_mr = [
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/news/maharashtra-live-blog-updates-todays-breaking-news-09-may-2026-west-bengal-suvendu-adhikari-tamilnadu-vijay-thalapathy-kerla-maharashtra-politics-1423315",
     "time": "2026-05-09T01:36:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "फिन ॲलनचे झंझावाती शतक; कोलकाता नाईट रायडर्सचा दिल्लीवर 8 गडी राखून दणदणीत विजय",
-    "desc": "आयपीएलच्या 19 व्या हंगामातील 51 व्या सामन्यात दिल्ली कॅपिटल्स आणि कोलकाता नाईट रायडर्स यांच्यात सामना होणार आहे. हा सामना दिल्लीतील अरुण जेटली स्टेडियमवर खेळला जाईल. दिल्ली कॅपिटल्सचे कर्णधारपद अक्षर पटेलकडे आहे, तर कोलकाता नाईट रायडर्सचे नेतृत्व अजिंक्य रहाणे करत आहे.&nbsp; सामना सायंकाळी 7:30 वाजता सुरू होईल, तर नाणेफेक सायंकाळी 7:000 वाजता होईल. चालू हंगामात दिल्लीतील अरुण जेटली स्टेडियमवर खेळला जाणारा हा सहावा सामना आहे. यापूर्वी खेळल्या गेलेल्या पाच सामन्यांपैकी दिल्लीने केवळ एक सामना जिंकला आहे, तर चार सामन्यांमध्ये त्यांना पराभव पत्करावा लागला आहे. पाचपैकी दोन सामन्यांमध्ये 200 पेक्षा जास्त धावा झाल्या आहेत.",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/08/cac14a07c889757fe6c7d4071112317e17782594689651378_original.jpg",
-    "src": "abplive.com",
-    "url": "https://marathi.abplive.com/sports/cricket/dc-vs-kkr-live-score-ipl-2026-update-axar-patel-ajinkya-rahane-delhi-capitals-vs-kolkata-knight-riders-marathi-news-1423236",
-    "time": "2026-05-08T05:38:18.000Z"
   }
 ];

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch Premier League clash on TV and stream in India?",
+    "desc": "The stage is set for one of the most anticipated games in the ongoing Premier League season. Liverpool will be taking on Chelsea at Anfield on May 9th. It is worth noting that the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/liverpool-vs-chelsea-live-when-and-where-to-watch-premier-league-clash-on-tv-and-stream-in-india-2026-05-09-1040469",
+    "time": "2026-05-09T05:10:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Sawai Mansingh Stadium in Jaipur play?",
+    "desc": "The stage is set for the 52nd game of the ongoing IPL (Indian Premier League) 2026. Rajasthan Royals will be hosting Gujarat Titans at the Sawai Mansingh Stadium in Jaipur on May 9th. With both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-gt-pitch-report-how-will-surface-at-sawai-mansingh-stadium-in-jaipur-play-2026-05-09-1040466",
+    "time": "2026-05-09T03:55:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I'm really happy': Ajinkya Rahane opens up after Kolkata Knight Riders return to winning ways",
     "desc": "Kolkata Knight Riders registered a brilliant victory against Delhi Capitals in the 51st game of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the Arun Jaitley Stadium in Delhi on...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/najmul-shanto-breaks-mushfiqur-rahim-s-record-in-bangladesh-s-first-test-vs-pakistan-2026-05-08-1040431",
     "time": "2026-05-08T14:32:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Matheesha Pathirana not playing for KKR vs DC? When will he play for Kolkata in IPL 2026?",
-    "desc": "Kolkata Knight Riders have announced an unchanged playing XI for the marquee clash against Delhi Capitals at the Arun Jaitley Stadium in IPL 2026. It means Finn Allen, Cameron Green, Rovman Powell and Sunil Narine...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-for-kkr-vs-dc-when-will-he-play-for-kolkata-in-ipl-2026-2026-05-08-1040425",
-    "time": "2026-05-08T13:47:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI shares new advisory after multiple protocol breaches in IPL 2026, warns players of punishment or even ban",
-    "desc": "The BCCI has tightened discipline and security standards across the IPL after identifying multiple breaches involving team personnel, players and franchise representatives during the ongoing 2026 season. In a detailed advisory circulated to all ten...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-shares-new-advisory-after-multiple-protocol-breaches-in-ipl-2026-warns-players-of-punishment-or-even-ban-2026-05-08-1040410",
-    "time": "2026-05-08T11:42:59.000Z"
   }
 ];
