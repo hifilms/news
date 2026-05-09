@@ -1,21 +1,30 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "IPL વચ્ચે યશસ્વીને મળી નોટિસ...જો ફરી આ ભૂલ કરી તો લાગશે પ્રતિબંધ ! મહિલા ક્રિકેટર પણ શંકાના ઘેરામાં",
+    "desc": "IPL 2026 વચ્ચે રાજસ્થાન રોયલ્સના ઓપનર યશસ્વી જયસ્વાલને મોટો ઝટકો લાગ્યો છે. જયસ્વાલને તેણે કરેલી એક મોટી ભૂલ અંગે નોટિસ ફટકારવામાં આવી છે. જો તે આ ભૂલ ફરીવાર કરશે તો તેના પર પ્રતિબંધ પણ લાગી શકે છે. આ મામલે એક મહિલા ક્રિકેટરનું નામ પણ સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/yashasvi-jaiswal-and-shafali-verma-receive-nada-notices-for-missed-dope-test-477158 ",
+    "time": "2026-05-09T14:46:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 વચ્ચે અચાનક બદલાઈ ગયો રાજસ્થાન રોયલ્સનો કેપ્ટન, જાણો કોને મળી ટીમની કમાન",
+    "desc": "IPL 2026ની 52મી મેચમાં રાજસ્થાન રોયલ્સ ગુજરાત ટાઇટન્સનો સામનો કરી રહી છે. છેલ્લી વખત જ્યારે આ બંને ટીમો ટકરાઈ હતી, ત્યારે ગુજરાતનો નિયમિત કેપ્ટન શુભમન ગિલ રમ્યા નહોતો. આજે રિયાન પરાગ બહાર છે. તેની ગેરહાજરીમાં યશસ્વી જયસ્વાલ રાજસ્થાન રોયલ્સનું નેતૃત્વ કરી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rajasthan-royals-new-captain-yashasvi-jaiswal-why-riyan-parag-not-playing-against-gt-477190 ",
+    "time": "2026-05-09T14:37:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "વિનેશ ફોગાટને મોટો ઝટકો, WFIએ લગાવ્યો પ્રતિબંધ, જાણો શું છે સમગ્ર ઘટના",
     "desc": "રેસલિંગ ફેડરેશન ઓફ ઈન્ડિયા (WFI)એ મહિલા રેસલર વિનેશ ફોગાટ સામે મોટી કાર્યવાહી કરી છે. એન્ટી ડોપિંગ નિયમોનું ઉલ્લંઘન કરવા બદલ તેના પર અસ્થાયી પ્રતિબંધ મૂકવામાં આવ્યો છે. પરિણામે તે નેશનલ ઓપન રેન્કિંગ રેસલિંગ ટુર્નામેન્ટમાં ભાગ લઈ શકશે નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/wfi-show-cause-notice-to-vinesh-phogat-and-ban-in-domestic-events-till-june-26-477162 ",
     "time": "2026-05-09T11:56:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL વચ્ચે યશસ્વીને મળી નોટિસ...જો ફરી આ ભૂલ કરી તો લાગશે પ્રતિબંધ ! મહિલા ક્રિકેટર પણ શંકાના ઘેરામાં",
-    "desc": "IPL 2026 વચ્ચે રાજસ્થાન રોયલ્સના ઓપનર યશસ્વી જયસ્વાલને મોટો ઝટકો લાગ્યો છે. જયસ્વાલને તેણે કરેલી એક મોટી ભૂલ અંગે નોટિસ ફટકારવામાં આવી છે. જો તે આ ભૂલ ફરીવાર કરશે તો તેના પર પ્રતિબંધ પણ લાગી શકે છે. આ મામલે એક મહિલા ક્રિકેટરનું નામ પણ સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/yashasvi-jaiswal-and-shafali-verma-receive-nada-notices-for-missed-dope-test-477158 ",
-    "time": "2026-05-09T11:17:01.000Z"
   },
   {
     "cat": "World",
@@ -414,15 +423,6 @@ const newsData_gu = [
     "time": "2026-05-06T08:38:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અફઘાનિસ્તાન સામેની સિરીઝમાં આવી હશે ટીમ ઈન્ડિયા, જાણો ટેસ્ટ અને વનડેમાં કોને મળશે તક",
-    "desc": "IPL આ મહિનાના અંતમાં સમાપ્ત થશે. જે બાદ ટીમ ઈન્ડિયા જૂન 2026માં ઘરઆંગણે અફઘાનિસ્તાન સામે ટેસ્ટ અને વન ડે સિરીઝ રમશે. ત્યારે આ સિરીઝમાં કયા ખેલાડીઓને ટેસ્ટ અને વનડેમાં તક મળશે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-predicted-squad-for-test-and-odi-series-against-afghanistan-476721 ",
-    "time": "2026-05-06T08:13:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "2 દિવસમાં ઓટીટી પર જોવા મળશે એકશન, લવ સ્ટોરી સહિત બધું જ, રિલીઝ થશે 4 દમદાર ફિલ્મો અને સીરીઝ",
     "desc": "6 અને 8 મે ઓટીટી લવર્સ માટે ખાસ છે. કારણ કે આ બે દિવસોમાં ઓટીટી પર ભરપુર મનોરંજન પુરું પાડે તેવી ફિલ્મો રિલીઝ થવાની છે. તો ફટાફટ ચેક કરી લો આગામી 2 દિવસમાં ઓટીટી પર જોવા જેવું શું છે ?",
@@ -430,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ott-latest-release-in-hindi-new-film-releasing-on-ott-on-6-and-8-may-2026-476650 ",
     "time": "2026-05-06T03:18:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ચાંદીમાં અચાનક મોટો ઉછાળો, જાણો સોના-ચાંદીના લેટેસ્ટ આજના ભાવ",
-    "desc": "સોના ચાંદીના ભાવ હમણા થોડા સમયથી અચાનક વધારો ઘટાડો જોવા મળી રહ્યો છે, પણ મોટા ભાગે ભાવમાં મોટો ઘટાડો જ થયો છે, જ્યારથી યુદ્ધ ચાલુ થયુ છે, ત્યારથી ચાંદીના ભાવમાં પણ મોટો ઘટાડો જોવા મળ્યો છે, હાલમાં યુદ્ધ બંધ હોવાથી ફરી સોના-ચાંદીના ભાવમાં વધારો જોવા મળી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/a-sudden-big-jump-in-silver-know-the-latest-todays-prices-of-gold-and-silver-476624 ",
-    "time": "2026-05-05T15:43:32.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PBKS act swiftly on BCCI's social media and hotel access guidelines, to hold meeting with players",
+    "desc": "Punjab Kings have acted swiftly on the Board of Control for Cricket in India's (BCCI) new social media and hotel access guidelines. The Kings will hold a meeting with the players after their net session...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-act-swiftly-on-bccis-social-media-and-hotel-access-guidelines-to-hold-meeting-with-players-2026-05-09-1040528",
+    "time": "2026-05-09T15:43:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jofra Archer bowls 11 balls in one over, registers all-time unwanted record during RR vs GT IPL 2026 clash",
+    "desc": "Jofra Archer achieved an all-time unwanted record as he bowled as many as 11 balls in the first over for Rajasthan Royals in the clash against the Gujarat Titans on Saturday, May 9. Archer was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-bowls-11-balls-in-one-over-registers-all-time-unwanted-record-during-rr-vs-gt-ipl-2026-clash-2026-05-09-1040525",
+    "time": "2026-05-09T14:57:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Rajasthan Royals wearing special pink jersey during IPL 2026 clash against Gujarat Titans?",
+    "desc": "Rajasthan Royals took the field in a special pink jersey for their Indian Premier League 2026 clash against the Gujarat Titans at the Sawai Mansingh Stadium in Jaipur. The Royals are without their captain, Riyan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-rajasthan-royals-wearing-special-pink-jersey-during-ipl-2026-clash-against-gujarat-titans-2026-05-09-1040519",
+    "time": "2026-05-09T14:02:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is RR skipper Riyan Parag not playing in IPL 2026 clash against GT? Who takes charge?",
+    "desc": "Rajasthan Royals captain Riyan Parag missed out as RR take on Gujarat Titans in their 11th match of the Indian Premier League 2026 at the Sawai Mansingh Stadium, Jaipur on Saturday, May 9. Parag was on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rr-skipper-riyan-parag-not-playing-in-ipl-2026-clash-against-gt-who-takes-charge-2026-05-09-1040517",
+    "time": "2026-05-09T13:38:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India one win away from FIFA U-17 Women's World Cup, Coach calls Asian Cup QF spot 'incredible achievement'",
     "desc": "India women's U-17 team scripted history by reaching their first-ever quarterfinals of the AFC U17 Women's Asian Cup with their only victory in the group stage. India defeated Lebanon 4-0, and following the Philippines and...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-and-shafali-verma-issued-notice-by-nada-over-missed-dope-tests-2026-05-09-1040484",
     "time": "2026-05-09T07:36:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson to be named India's next T20I captain? Suryakumar Yadav's form to be monitored: Report",
-    "desc": "Team India’s T20I setup could see some major changes being made to the squad with the upcoming Ireland and England series. According to recent reports, star batter Shreyas Iyer is all set to be named...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-to-be-named-india-s-next-t20i-captain-suryakumar-yadav-s-form-to-be-monitored-report-2026-05-09-1040479",
-    "time": "2026-05-09T06:18:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Premier League clash on TV and stream in India?",
-    "desc": "The stage is set for one of the most anticipated games in the ongoing Premier League season. Liverpool will be taking on Chelsea at Anfield on May 9th. It is worth noting that the clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/liverpool-vs-chelsea-live-when-and-where-to-watch-premier-league-clash-on-tv-and-stream-in-india-2026-05-09-1040469",
-    "time": "2026-05-09T05:10:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Sawai Mansingh Stadium in Jaipur play?",
-    "desc": "The stage is set for the 52nd game of the ongoing IPL (Indian Premier League) 2026. Rajasthan Royals will be hosting Gujarat Titans at the Sawai Mansingh Stadium in Jaipur on May 9th. With both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-gt-pitch-report-how-will-surface-at-sawai-mansingh-stadium-in-jaipur-play-2026-05-09-1040466",
-    "time": "2026-05-09T03:55:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I'm really happy': Ajinkya Rahane opens up after Kolkata Knight Riders return to winning ways",
-    "desc": "Kolkata Knight Riders registered a brilliant victory against Delhi Capitals in the 51st game of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the Arun Jaitley Stadium in Delhi on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-m-really-happy-ajinkya-rahane-opens-up-after-kolkata-knight-riders-return-to-winning-ways-2026-05-09-1040458",
-    "time": "2026-05-09T02:28:47.000Z"
   }
 ];
