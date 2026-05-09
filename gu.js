@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "&amp;#039;મમ્મી, સાસરીયાવાળા મારે છે...&amp;#039; દીકરીનો છેલ્લો કોલ, માં પહોંચી તો મળી લાશ; 3 મહિના પહેલા જ કર્યા હતા લવ મેરેજ",
+    "desc": "જે દીકરીએ ત્રણ મહિના પહેલા પ્રેમ પર ભરોસો કરીને પોતાના જીવનની નવી સફર શરૂ કરી હતી, તેની કહાની હવે કરુણ મોતમાં પરિણમી છે. ગ્રેટર નોઈડાની રહેવાસી મોનિકાએ પરિવારની મરજી વિરુદ્ધ નહીં, પરંતુ પરિવારને મનાવીને અનુજ ચૌહાણ સાથે કોર્ટ મેરેજ કર્યા હતા. મોનિકાના મોતને લઈને તેની માતાનો આરોપ છે કે કરોડોની પ્રોપર્ટીની લાલચમાં દીકરીની હત્યા કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/delhi-noida-woman-suspicious-death-love-marriage-last-call-to-mother-477128 ",
+    "time": "2026-05-09T07:18:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6: બેટ્સમેન છે કે &amp;#039;સિક્સર મશીન&amp;#039;? આ અનોખો રેકોર્ડ તોડવો અસંભવ!",
+    "desc": "ન્યૂઝીલેન્ડનો વિસ્ફોટક બેટ્સમેન ફિન એલન અત્યારે સોશિયલ મીડિયા અને ક્રિકેટ જગતમાં છવાયેલો છે. 8 મેની રાત્રે તેણે KKR તરફથી રમતા દિલ્હી કેપિટલ્સ સામે માત્ર 47 બોલમાં સદી ફટકારીને તરખાટ મચાવી દીધો હતો. આ એ જ એલન છે, જેણે T20 ક્રિકેટમાં એક એવો રેકોર્ડ બનાવ્યો છે જેને તોડવો કોઈ પણ બેટ્સમેન માટે લોઢાના ચણા ચાવવા જેવું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/new-zealands-finn-allen-holds-the-record-for-most-sixes-in-an-innings-in-t20-cricket-477126 ",
+    "time": "2026-05-09T06:53:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોલકાતા: સુવેન્દુ અધિકારી બન્યા બંગાળના BJPના પ્રથમ મુખ્યમંત્રી, અગ્નિમિત્રા પોલ સહિત 5 વિધાયકોએ પણ લીધા મંત્રીપદના થપથ",
+    "desc": "પશ્ચિમ બંગાળમાં હાલમાં જ યોજાયેલી વિધાનસભા ચૂંટણીમાં ભાજપે ઐતિહાસિક જીત મેળવી અને મમતા બેનર્જી અને ટીએમસીને સજ્જડ હારનો સામનો કરાવ્યો. મમતા બેનર્જીને એકવાર નહીં પરંતુ બબ્બેવાર હરાવનારા ભવાનીપુર અને નંદીગ્રામથી ચૂંટણી જીતેલા સુવેન્દુ અધિકારીએ આજે બંગાળના મુખ્યમંત્રી પદના શપથ લીધા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/suvendu-adhikari-takes-oath-as-chief-minister-of-west-bengal-at-brigade-parade-ground-477118 ",
+    "time": "2026-05-09T06:53:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ છે માખનલાલ સરકાર? શપથગ્રહણ સમયે મંચ પર PM મોદીએ કેમ તેમના ચરણ સ્પર્શ કર્યા?",
+    "desc": "લાંબા સમયથી રાજકીય અને સામાજિક વ્યક્તિત્વ ધરાવતા માખનલાલ સરકાર હાલ સમાચારમાં છવાયા છે. શપથ ગ્રહણ સમારોહ દરમિયાન વડાપ્રધાન નરેન્દ્ર મોદીના પગ સ્પર્શ કરતો ફોટો સામે આવ્યા બાદ લોકો આશ્ચર્ય પામી રહ્યા છે કે માખનલાલ સરકાર કોણ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-makhanlal-sarkar-pm-modi-touches-his-feet-on-stage-during-swearing-in-ceremony-477125 ",
+    "time": "2026-05-09T06:23:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "&amp;quot;ઇંટીમેટ સીન કરવા તૈયાર હોય તેને જ ફિલ્મોમાં કામ મળે..&amp;quot; જાણીતી અભિનેત્રીએ સોશિયલ મીડિયા પર શેર કરી ચોંકાવનારી વાતો",
+    "desc": "સલમાન ખાન સાથે કામ કરી ચુકેલી અભિનેત્રીએ તેની ઈંસ્ટાગ્રામ પોસ્ટમાં એક મોટો ધડાકો કર્યો છે. અભિનેત્રીનું કહેવું છે કે ઈંડસ્ટ્રીમાં કામ તેને મળે છે જે ઓનસ્ક્રીન કિસીંગ સીન અને હીરો સાથે ઇંટીમેટ સીન કરવા તૈયાર હોય. આ વાત કોણે કહી છે અને શા માટે કરી છે જાણો વિસ્તારપૂર્વક.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/actress-nauheed-cyrusi-said-she-is-not-getting-role-because-she-is-not-ready-to-do-kissing-and-intimate-scenes-on-screen-477116 ",
+    "time": "2026-05-09T06:00:19.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ફિટમેન્ટ ફેક્ટર 3.83 રહે તો ખુબ જલસા! લેવલ 1થી 18 સુધી કેટલો થાય પગાર? સરકારી કર્મચારીઓ ખાસ જાણે",
     "desc": "આઠમાં પગાંર પંચની ભલામણો રજૂ થાય અને તેનું અમલીકરણ થાય તેની આતુરતાપૂર્વક રાહ જોવાઈ રહી છે. અલગ અલગ કર્મચારી સંગઠનો દ્વારા અલગ માંગણીઓ થઈ છે જેમાં એક ફિટમેન્ટ ફેકટર 3.83 રાખવાની પણ માંગણી થઈ છે. જો આ માંગણી સરકાર સ્વીકારે તો સરકારી કર્મચારીઓના પગારમાં કેટલો વધારો થાય તે ગણતરી સમજો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -160,24 +205,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/preparations-underway-for-dhurandhar-3-a-big-surprise-for-fans-by-the-end-of-the-year-know-476958 ",
     "time": "2026-05-08T04:14:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પાકિસ્તાન પર સ્ટ્રાઈકથી લઈને રાજદ્વારી ઘેરાબંધી સુધી, જાણો ભારતના વોર રૂમની આખી કહાની",
-    "desc": "ઓપરેશન સિંદૂર દરમિયાન ભારતે પાકિસ્તાનમાં આવેલા આતંકી ઠેકાણાઓ પર સચોટ કાર્યવાહી કરી, જેનું નિરીક્ષણ વડાપ્રધાન નરેન્દ્ર મોદી, રક્ષા મંત્રી રાજનાથ સિંહ અને NSA અજીત ડોભાલ દ્વારા વોર રૂમમાંથી કરવામાં આવ્યું હતું. વિદેશ મંત્રી એસ. જયશંકરે રાજદ્વારી મોરચો સંભાળ્યો હતો. સૈન્ય અને રાજદ્વારી વ્યૂહરચનાના સંયુક્ત દબાણ બાદ પાકિસ્તાનને યુદ્ધવિરામ સ્વીકારવા મજબૂર થવું પડ્યું હતું. વાંચો ઓપરેશન સિંદૂરની સંપૂર્ણ ઇનસાઇડ સ્ટોરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/operation-sindoor-from-strike-on-pakistan-to-diplomatic-siege-know-the-whole-story-of-india-war-room-476942 ",
-    "time": "2026-05-07T17:01:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આર્મી, એરફોર્સ, નેવી, ઇસરો અને..., કેવી રીતે ઈતિહાસમાં લખાઈ ઓપરેશન સિંદૂરની વિજયગાથા, જાણો ઈનસાઈડ સ્ટોરી",
-    "desc": "ઓપરેશન સિંદૂરને એક વર્ષ પૂર્ણ થયું છે. સેનાએ એક વિડિઓ જાહેર કરીને દુશ્મનને કચડી નાખનાર વિજયની પ્રથમ વર્ષગાંઠની ઉજવણી કરી છે. ચાલો 7 મે, 2025ના રોજ ભારતીય સેના દ્વારા શરૂ કરાયેલ ઓપરેશન સિંદૂર દ્વારા પાકિસ્તાનને કેવી રીતે બરબાદ કરવામાં આવ્યું હતું તે એકસાથે જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-the-victory-story-of-operation-sindoor-was-written-in-history-the-inside-story-of-the-victory-476939 ",
-    "time": "2026-05-07T15:59:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -421,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/who-is-raghu-sharma-from-engineer-to-ipl-debut-mumbai-indians-476596 ",
     "time": "2026-05-05T11:24:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઓરેન્જ કેપની રેસમાં નવો વળાંક, 4 બેટ્સમેનોએ 400 રનનો આંકડો પાર કર્યો",
-    "desc": "ઓરેન્જ કેપ માટેની રેસ હવે વધુ તીવ્ર બની ગઈ છે. ચાર બેટ્સમેન એવા છે, જે 400 રનનો આંકડો પાર કરવામાં સફળ રહ્યા છે. અભિષેક શર્મા હાલમાં ટોચના સ્થાને છે, પરંતુ ટૂંક સમયમાં તેનું સ્થાન છીનવાઈ શકે તો નવાઈ નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-orange-cap-leaderboard-abhishek-sharma-kl-rahul-heinrich-klaasen-476576 ",
-    "time": "2026-05-05T09:02:19.000Z"
   },
   {
     "cat": "Entertainment",

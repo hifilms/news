@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Yashasvi Jaiswal and Shafali Verma issued notice by NADA over missed dope tests",
+    "desc": "In a major development, star India cricketers Yashasvi Jaiswal and Shafali Verma have been issued a notice by NADA (National Anti-Doping Agency) for not being available for scheduled dope tests in 2025, which was their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-and-shafali-verma-issued-notice-by-nada-over-missed-dope-tests-2026-05-09-1040484",
+    "time": "2026-05-09T07:36:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson to be named India's next T20I captain? Suryakumar Yadav's form to be monitored: Report",
+    "desc": "Team India’s T20I setup could see some major changes being made to the squad with the upcoming Ireland and England series. According to recent reports, star batter Shreyas Iyer is all set to be named...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-to-be-named-india-s-next-t20i-captain-suryakumar-yadav-s-form-to-be-monitored-report-2026-05-09-1040479",
+    "time": "2026-05-09T06:18:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch Premier League clash on TV and stream in India?",
     "desc": "The stage is set for one of the most anticipated games in the ongoing Premier League season. Liverpool will be taking on Chelsea at Anfield on May 9th. It is worth noting that the clash...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-becomes-first-cricketer-to-register-major-milestone-in-ipl-2026-05-08-1040440",
     "time": "2026-05-08T16:29:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG are struggling to find the right combination; they lack control and consistency: Umesh Yadav",
-    "desc": "Lucknow Super Giants managed just three wins in 10 games so far in the IPL 2026. They are currently at the bottom of the table and even though the Rishabh Pant-led side is mathematically alive...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-are-struggling-to-find-the-right-combination-they-lack-control-and-consistency-umesh-yadav-2026-05-08-1040438",
-    "time": "2026-05-08T15:34:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Najmul Shanto breaks Mushfiqur Rahim's record in Bangladesh's first Test vs Pakistan",
-    "desc": "Bangladesh captain Najmul Hossain Shanto led by example on the opening day of the first Test against Pakistan at the Shere Bangla Stadium in Dhaka. After losing two early wickets, the hosts were put under...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/najmul-shanto-breaks-mushfiqur-rahim-s-record-in-bangladesh-s-first-test-vs-pakistan-2026-05-08-1040431",
-    "time": "2026-05-08T14:32:40.000Z"
   }
 ];

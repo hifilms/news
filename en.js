@@ -1,6 +1,204 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "IUML denies reports of support to Vijay’s TVK",
+    "desc": "“We have been part of the DMK alliance for several decades and there is no question of leaving it. If Mr. Vijay needs support, he should approach DMK president M.K. Stalin, since he, too, has urged the Governor to take steps to expedite formation of a new government,” Kader Mohideen told The Hindu.",
+    "img": "https://th-i.thgim.com/public/incoming/fhtce1/article70958195.ece/alternates/LANDSCAPE_1200/4861_26_3_2026_15_43_52_3_PIX8.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-iuml-denies-reports-of-support-to-vijays-tvk/article70958183.ece",
+    "time": "2026-05-09T07:40:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jaiswal, Shafali receive NADA notices for missed dope tests",
+    "desc": "Yashasvi Jaiswal and Shafali Verma received notices from India’s anti-doping agency NADA after missing scheduled dope tests, leading to their first “whereabouts failure.” The Board of Control for Cricket in India confirmed the development and said it would ensure stricter compliance, especially with cricket returning to the Olympics in 2028.",
+    "img": "https://static.toiimg.com/photo/msid-130973066,imgsize-67114.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yashasvi-jaiswal-shafali-verma-receive-nada-notices-for-missed-dope-tests/articleshow/130972968.cms",
+    "time": "2026-05-09T07:33:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "HC serves notice to Samar Singh",
+    "desc": "Bhojpuri actress Akanksha Dubey, who was found dead in a Varanasi hotel room in March 2023, has her case back in the spotlight. The Allahabad High Court has served notices to singer Samar Singh and his brother Sanjay Singh, after her mother filed a petition demanding a CBI probe.",
+    "img": "https://static.toiimg.com/photo/msid-130972951,imgsize-36076.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/akanksha-dubey-death-case-allahabad-high-court-serves-notice-to-singer-samar-singh-and-brother-sanjay-singh/articleshow/130972951.cms",
+    "time": "2026-05-09T07:24:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'This is not my first IPL': Miller admits frustration after being benched by DC",
+    "desc": "David Miller expressed frustration at being benched for Delhi Capitals' recent IPL 2026 matches, acknowledging the team's focus on overseas player combinations. Despite missing out, the veteran batter remains committed to supporting the squad and staying prepared for any future opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-130972768,imgsize-605554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/this-is-not-my-first-ipl-david-miller-admits-frustration-after-being-benched-by-delhi-capitals/articleshow/130972746.cms",
+    "time": "2026-05-09T07:11:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Israel army issues evacuation warning for nine south Lebanon villages",
+    "desc": "\"For your safety, you must evacuate your homes immediately and stay away from the villages and towns by a distance of no less than 1,000 metres to open areas,\" the military's Arabic-language spokesman Avichay Adraee posted on X",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece",
+    "time": "2026-05-09T07:04:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Bebo, Farah, Preity, Bipasha embraced motherhood in their 40s",
+    "desc": "As reported by Mid-Day, several Bollywood celebrities embraced motherhood in their 40s, choosing parenthood through natural birth, IVF, surrogacy, and personal timing. From natural birth to IVF and surrogacy, their stories show different paths to raising a family. The gallery features stars who confidently balanced careers, public attention, personal choices, and late motherhood, proving that parenting can begin beautifully at any stage of life.",
+    "img": "https://static.toiimg.com/photo/msid-130898990,imgsize-78838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mothers-day-2026-how-kareena-kapoor-farah-khan-neha-dhupia-bipasha-basu-and-preity-zinta-embraced-motherhood-in-their-40s/photostory/130898990.cms",
+    "time": "2026-05-09T06:57:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Malayalam director Vinayan praises Vijay’s historic political rise",
+    "desc": "Malayalam director Vinayan lauded actor Vijay's \"historic\" political ascent, highlighting his courage in entering politics at his career's peak. Vinayan contrasted Vijay's success with Rajinikanth's \"fear\" and Kamal Haasan's \"failure,\" emphasizing Vijay's self-belief. He urged leaders to give Vijay a fair chance to govern, noting the actor's rapid connection with the public.",
+    "img": "https://static.toiimg.com/photo/msid-130972369,imgsize-85710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/malayalam-director-vinayan-praises-vijays-historic-political-rise-mentions-rajinikanths-fear-and-kamal-haasans-failure/articleshow/130972312.cms",
+    "time": "2026-05-09T06:40:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Order aya hai SRK ke naam ka’: Delivery boy rushes to meet King Khan",
+    "desc": "A Mumbai delivery boy's excitement soared upon receiving an order for Shah Rukh Khan at Mannat. His dream of meeting the superstar quickly turned into a humorous anticlimax when he discovered the order was for a different man with the same name, leading to a polite apology and parcel handover.",
+    "img": "https://static.toiimg.com/photo/msid-130972274,imgsize-88920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/order-aya-hai-shah-rukh-khan-ke-naam-ka-delivery-boy-rushes-to-meet-king-khan-in-mannat-only-to-find-a-twist-on-doorstep/articleshow/130972246.cms",
+    "time": "2026-05-09T06:31:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Piyush Goyal meets Moet Hennessy Louis Vuitton, L’Oreal to push India manufacturing and exports",
+    "desc": "Union Minister Piyush Goyal met with luxury giants LVMH and L'Oreal to boost India's manufacturing, exports, and investments. Discussions centered on expanding production, nurturing local talent, and integrating Indian culture into global luxury supply chains. The talks also explored new avenues for India's beauty and personal care sector, leveraging L'Oreal's recent tech hub launch in Hyderabad.",
+    "img": "https://static.toiimg.com/photo/msid-130972208,imgsize-1290911.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/piyush-goyal-meets-moet-hennessy-louis-vuitton-loreal-to-push-india-manufacturing-and-exports/articleshow/130972220.cms",
+    "time": "2026-05-09T06:27:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Felt like NONSENSE,' says Neetu Kapoor on exploring therapy",
+    "desc": "Veteran actress Neetu Kapoor shared her unconventional views on mental health, stating she finds solace in close friendships and returning to work over therapy. Following her husband Rishi Kapoor's demise, she found personal strength and healing through her support network and professional engagements, rather than clinical sessions, which she found unhelpful. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130972189,imgsize-110054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neetu-kapoor-on-exploring-therapy-after-rishi-kapoors-passing-it-felt-like-nonsense/articleshow/130972146.cms",
+    "time": "2026-05-09T06:25:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Abhi kya karu mai phir?': Rohit frustrated by female fan's selfie act",
+    "desc": "Rohit Sharma went viral after an awkward selfie moment with a female fan outside the Mumbai Indians bus. As the fan realised her phone had switched off, Rohit jokingly replied, “Toh abhi kya karu mai phir?” The clip sparked laughs online. Meanwhile, Harbhajan Singh praised Rohit’s recent impact and said his earlier return from injury could have changed Mumbai’s IPL season.",
+    "img": "https://static.toiimg.com/photo/msid-130972182,imgsize-46056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/toh-abhi-kya-karu-mai-phir-rohit-sharma-left-frustrated-by-female-fans-selfie-act-watch/articleshow/130972130.cms",
+    "time": "2026-05-09T06:24:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Suvendu Adhikari takes oath as West Bengal's first BJP chief minister",
+    "desc": "Suvendu Adhikari has been sworn in as West Bengal's first BJP chief minister at a grand ceremony attended by Prime Minister Narendra Modi. This historic win, securing 207 seats, ends the Trinamool Congress' 15-year reign. Adhikari's transition from Mamata Banerjee's aide to BJP leader marks a significant political upheaval in the state, mirroring recent changes in Bihar.",
+    "img": "https://static.toiimg.com/photo/msid-130972158,imgsize-26296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/suvendu-adhikari-takes-oath-as-west-bengals-first-bjp-chief-minister/articleshow/130971948.cms",
+    "time": "2026-05-09T06:23:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer Singh poses with fans on 'King' sets- PICS",
+    "desc": "Ranveer Singh's photos from South Africa, where he accompanied wife Deepika Padukone, are trending. He was seen enjoying daddy duties with daughter Dua while Deepika shot for her film. Meanwhile, his movie 'Dhurandhar The Revenge' is set for an OTT release, with fans anticipating 'Dhurandhar 2'.",
+    "img": "https://static.toiimg.com/photo/msid-130972022,imgsize-64982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-poses-with-fans-on-king-film-sets-in-south-africa-pics/articleshow/130971040.cms",
+    "time": "2026-05-09T06:16:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ameesha Patel CONFIRMS Gadar 3, promises bigger scale",
+    "desc": "Ameesha Patel has confirmed that 'Gadar 3' is in the works, promising it will be bigger and more spectacular than its predecessors. She declared Rs 500 crore as the minimum box office benchmark for the franchise. The actress also took a dig at Bollywood's PR culture, highlighting her three massive solo blockbusters.",
+    "img": "https://static.toiimg.com/photo/msid-130971995,imgsize-17802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rs-500-crore-is-minimum-ameesha-patel-confirms-gadar-3-promises-bigger-scale-and-an-amazing-script/articleshow/130971995.cms",
+    "time": "2026-05-09T06:12:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Want to live in India? sing Vande Mataram’, says Haryana Minister Anil Vij",
+    "desc": "“Vande Mataram is our national song and holds the same importance as the national anthem. Singing and respecting it is just as essential as respecting Jana Gana Mana If one wants to live in India, one must sing Vande Mataram,” Mr. Vij said",
+    "img": "https://th-i.thgim.com/public/incoming/1szoaf/article70957856.ece/alternates/LANDSCAPE_1200/PTI02_12_2025_000169B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/want-to-live-in-india-sing-vande-mataram-says-haryana-minister-anil-vij/article70955876.ece",
+    "time": "2026-05-09T06:06:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Naveen Chandra's 'Neelira' OTT release date",
+    "desc": "Somidharan's critically acclaimed film 'Neelira,' a powerful depiction of the Sri Lankan civil war, has now premiered on ZEE5 Tamil. Praised by industry stalwarts like Suriya and Atlee for its emotional depth and anti-war message, the movie chronicles a family's struggle for survival during a perilous night in 1988. Naveen Chandra leads the cast in this gripping narrative.",
+    "img": "https://static.toiimg.com/photo/msid-130971900,imgsize-332998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/neelira-ott-release-date-when-and-where-to-watch-somidharans-film-with-naveen-chandra/articleshow/130971872.cms",
+    "time": "2026-05-09T06:05:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi touches feet of 98-year old Makhanlal Sarkar during West Bengal swearing-in ceremony",
+    "desc": "Prime Minister Narendra Modi honored 98-year-old BJP veteran Makhanlal Sarkar at the party's first West Bengal government swearing-in. Sarkar, a key grassroots leader since the BJP's inception, was recognized for his decades of service and association with the nationalist movement. His arrest in Kashmir in 1952 while with Syama Prasad Mukherjee highlights his early commitment.",
+    "img": "https://static.toiimg.com/photo/msid-130972298,imgsize-65886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-touches-feet-of-98-year-old-makhanlal-sarkar-during-west-bengal-swearing-in-ceremony-who-is-he/articleshow/130971888.cms",
+    "time": "2026-05-09T06:03:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Axar Patel shifts focus to next season after KKR crushes DC’s playoff hopes",
+    "desc": "With eight points from 11 matches, DC are eighth on the table, while KKR revived their playoff hopes, moving to seventh with nine points from 10 outings, though their road to the knockouts still remains difficult",
+    "img": "https://th-i.thgim.com/public/incoming/dr8y7t/article70958202.ece/alternates/LANDSCAPE_1200/IPL%202026%2044.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-axar-patel-shifts-focus-to-next-season-after-kkr-crushes-dcs-playoff-hopes/article70958190.ece",
+    "time": "2026-05-09T06:02:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Peddi’ fee: Ram Charan team remuneration revealed",
+    "desc": "Ram Charan's upcoming pan-India film 'Peddi' is reportedly a grand village action drama with a massive budget, largely allocated to star remuneration. Charan himself is said to be charging over Rs 100 crore. The film, directed by Buchi Babu Sana, also features Janhvi Kapoor and is set for a June 4, 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-130971831,imgsize-141934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-team-pay-package-find-out-how-much-ram-charan-and-the-team-reportedly-charged-for-the-sports-action-drama/articleshow/130971790.cms",
+    "time": "2026-05-09T06:00:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cameron Green declares himself '100% ready' to bowl four overs for KKR",
+    "desc": "Cameron Green is fully fit and ready to bowl his complete quota of overs for Kolkata Knight Riders, bolstering their strong comeback in IPL 2026. He expressed no pressure from his hefty price tag, highlighting the team's balanced bowling attack and support from management. KKR secured their fourth consecutive win, moving up the standings.",
+    "img": "https://static.toiimg.com/photo/msid-130971726,imgsize-774732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-cameron-green-declares-himself-100-ready-to-bowl-four-overs-for-kkr/articleshow/130971646.cms",
+    "time": "2026-05-09T05:52:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP’s ‘sonar’ era begins in West Bengal: Suvendu Adhikari takes oath as CM– top developments",
+    "desc": "West Bengal ushers in a new political era as Suvendu Adhikari takes oath as the state's first BJP Chief Minister. This historic win, following an overwhelming mandate, marks the saffron party's long-fought ideological battle. Adhikari's dramatic rise, from local councillor to defeating Mamata Banerjee, culminates in this significant power shift.",
+    "img": "https://static.toiimg.com/photo/msid-130971887,imgsize-1566404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjps-sonar-era-begins-in-west-bengal-suvendu-adhikari-set-to-take-oath-top-developments/articleshow/130971584.cms",
+    "time": "2026-05-09T05:50:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kriti opens up gender parity in Bollywood",
+    "desc": "Actress-producer Kriti Sanon has spoken out about gender parity in Bollywood, admitting \"there's been some struggle around money.\" She highlighted how female leads often bear the brunt of budget cuts while male actors' fees remain untouched. Kriti, who hopes to create more opportunities for women, will next be seen in 'Cocktail 2'.",
+    "img": "https://static.toiimg.com/photo/msid-130971689,imgsize-48248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/patriarchy-still-deeply-ingrained-kriti-sanon-opens-up-on-actresses-financial-struggles-and-gender-parity-in-bollywood/articleshow/130971689.cms",
+    "time": "2026-05-09T05:49:42.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Wet spell and easterlies likely to bring relief from peak summer heat in Tamil Nadu for a week",
     "desc": "According to the RMC, many places over South T.N. and a few places in the northern districts are likely to receive light to moderate rain over the weekend; prevailing weather systems will also bring light to moderate rainfall in some areas of Chennai on Saturday and reduce day temperature",
     "img": "https://th-i.thgim.com/public/incoming/oarcv4/article70956086.ece/alternates/LANDSCAPE_1200/BVR_1195.JPG",
@@ -25,6 +223,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kadey-v-nhi-diljit-dosanjh-shuts-down-punjab-politics-buzz-says-hes-happier-entertaining/articleshow/130971512.cms",
     "time": "2026-05-09T05:35:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RR head coach raises concerns over Jaipur’s new LED floodlights",
+    "desc": "Rajasthan Royals players struggled with catches under the new LED floodlights at Sawai Mansingh Stadium during their match against Sunrisers Hyderabad. Coach Kumar Sangakkara said the brighter lights improved visibility but created glare issues for fielders. Ground authorities have since adjusted the lighting direction to help players adapt better.",
+    "img": "https://static.toiimg.com/photo/msid-130971425,imgsize-34030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/spoken-to-ground-authorities-rr-head-coach-sangakkara-raises-concerns-over-jaipurs-new-led-floodlights/articleshow/130971321.cms",
+    "time": "2026-05-09T05:30:06.000Z"
   },
   {
     "cat": "Politics",
@@ -52,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rj-balaji-dismisses-suriyas-karuppu-delay-rumours-says-trailer-will-arrive-at-the-perfect-time/articleshow/130971322.cms",
     "time": "2026-05-09T05:22:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IUML denies reports of support to Vijay’s TVK",
-    "desc": "“We have been part of the DMK alliance for several decades and there is no question of leaving it. If Mr. Vijay needs support, he should approach DMK president M.K. Stalin, since he, too, has urged the Governor to take steps to expedite formation of a new government,” Kader Mohideen told The Hindu.",
-    "img": "https://th-i.thgim.com/public/incoming/fhtce1/article70958195.ece/alternates/LANDSCAPE_1200/4861_26_3_2026_15_43_52_3_PIX8.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-iuml-denies-reports-of-support-to-vijays-tvk/article70958183.ece",
-    "time": "2026-05-09T05:19:19.000Z"
   },
   {
     "cat": "Politics",
@@ -144,6 +342,15 @@ const newsData_en = [
     "time": "2026-05-09T04:09:49.000Z"
   },
   {
+    "cat": "Business",
+    "title": "‘Extremely shy’ to direct arrest as first option, no need to sensationalise probe: SC in Anil Ambani’s ADAG ‘bank fraud’ case",
+    "desc": "CBI report estimates loss to public sector banks and LIC at over ₹27,000 crore in seven cases involving Anil Ambani’s ADAG and its firms. Top court says arrest must be last resort, and not first option.",
+    "img": "https://th-i.thgim.com/public/incoming/6mm9ib/article70955772.ece/alternates/LANDSCAPE_1200/ED-attaches-AniGNDFKVF93.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/large-scale-banking-fraud-involving-anil-ambanis-adag-requires-thorough-probe-says-sc/article70955604.ece",
+    "time": "2026-05-09T04:08:23.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "KJo's Met Gala afterparty outfit: Jewellery takes centre stage",
     "desc": "Making his mark at the Met Gala 2026, Karan Johar wowed attendees in a stunning Manish Malhotra ensemble that drew inspiration from the legendary Raja Ravi Varma. The night didn’t end there; at the after-party, he dazzled in a sophisticated Dries Van Noten look paired with his own Tyaani Jewellery, showcasing magnificent emeralds and rubies. Read on to know more in detail.",
@@ -171,15 +378,6 @@ const newsData_en = [
     "time": "2026-05-09T04:02:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Stone by stone, Hanamkonda’s Kakatiya-era dance pavilion rises again",
-    "desc": "After a 42-year conservation effort, the Archaeological Survey of India has rebuilt the sunken dance pavilion of Hanamkonda’s Thousand Pillar Temple using Kakatiya-era sandbox technology. The reconstruction of the temple’s iconic Nandi sculpture, brings back the grandeur of the 12th century monument",
-    "img": "https://th-i.thgim.com/public/incoming/qr7y7v/article70956664.ece/alternates/LANDSCAPE_1200/IMG_8789-EDIT.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/stone-by-stone-hanamkondas-kakatiya-era-dance-pavilion-rises-again/article70956526.ece",
-    "time": "2026-05-09T03:54:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What is next for him?",
     "desc": "Neeraj Chopra is nearing a comeback after a 232-day break focused on rehabilitation from groin, ankle and back injuries. The Olympic champion has been rebuilding fitness and refining technique ahead of the 2028 Los Angeles Olympics. Potential return events include meets in Poland, Finland and Czechia, while his main target remains defending his Asian Games title later this year.",
@@ -189,15 +387,6 @@ const newsData_en = [
     "time": "2026-05-09T03:52:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "The troubling reality inside tiger habitats",
-    "desc": "A multi-reserve study by Hyderabad-based CCMB has found that tigers living near tourism roads and human activity experience higher stress levels, with core-zone tigers reacting more sharply than those in buffer areas. Researchers warn that unmanaged disturbance could affect breeding success and cub development, prompting calls for science-based tourism regulation",
-    "img": "https://th-i.thgim.com/public/incoming/lmld1w/article70956073.ece/alternates/LANDSCAPE_1200/hy08CSIR%204.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/tourism-and-stress-hormones-the-troubling-reality-inside-tiger-habitats/article70955261.ece",
-    "time": "2026-05-09T03:50:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What will it take to free 1,600 stranded ships from Hormuz deep waters?",
     "desc": "President Trump's \"Project Freedom\" to escort ships through the Strait of Hormuz lasted only 48 hours, leaving thousands of vessels stranded. Despite US military guidance for two ships, the operation was paused due to ongoing dangers, with shipping executives unwilling to risk passage without a proven peace accord.",
@@ -205,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/what-will-it-take-to-free-1600-stranded-ships-from-hormuz-deep-waters/articleshow/130970267.cms",
     "time": "2026-05-09T03:46:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Suvendu Adhikari set to take oath as the first BJP Chief Minister of West Bengal on May 9",
-    "desc": "Chief Minister-elect Suvendu Adhikari reached Kolkata Lok Bhavan and met Governor R.N. Ravi to stake claim to form the government. He will take oath as the Chief Minister of West Bengal at Kolkata’s Brigade Parade Grounds on Saturday",
-    "img": "https://th-i.thgim.com/public/incoming/2yxou2/article70955231.ece/alternates/LANDSCAPE_1200/20260408272L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-elected-bjp-legislature-party-leader-in-bengal-set-to-become-cm/article70955183.ece",
-    "time": "2026-05-09T03:34:32.000Z"
   },
   {
     "cat": "Sports",
@@ -261,15 +441,6 @@ const newsData_en = [
     "time": "2026-05-09T02:51:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Oasis Tour documentary to have theatrical release ahead of OTT premiere",
-    "desc": "Oasis's highly anticipated reunion tour documentary, helmed by Steven Knight, is set for a grand theatrical release in September 2026, including IMAX showings. This cinematic event will be followed by an exclusive international premiere on Disney+ and Hulu.",
-    "img": "https://static.toiimg.com/photo/msid-130969866,imgsize-49278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/oasis-tour-documentary-steven-knights-film-to-have-theatrical-release-ahead-of-ott-premiere-details-inside/articleshow/130969839.cms",
-    "time": "2026-05-09T02:50:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Busted! Virat Kohli's RCB match ticket turns out to be AI-generated",
     "desc": "Lucknow Super Giants secured their maiden home win in IPL 2026 against Royal Challengers Bengaluru, but the match was marred by the discovery of fake AI-generated tickets. Police apprehended four individuals from Chhattisgarh for using AI tools and graphic software to create and sell counterfeit tickets outside the Ekana Stadium.",
@@ -277,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-busted-virat-kohlis-ipl-match-ticket-turns-out-to-be-ai-generated/articleshow/130969714.cms",
     "time": "2026-05-09T02:44:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Michael' crosses Rs 4,350 crore worldwide; India net hits Rs 45.75 crore",
-    "desc": "Michael Jackson's biopic, 'Michael', starring nephew Jaafar Jackson, is enjoying a robust global box office run, crossing Rs 4,350 crore. In India, the film has garnered over Rs 45 crore net in its first two weeks, demonstrating strong audience appeal despite mixed reviews. The biographical drama chronicles the iconic singer's journey from his early days to his solo career.",
-    "img": "https://static.toiimg.com/photo/msid-130969773,imgsize-126254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-box-office-collection-day-15-antoine-fuqua-directorial-starring-jaafar-jackson-mints-rs-45-75-crore/articleshow/130969759.cms",
-    "time": "2026-05-09T02:40:07.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +486,6 @@ const newsData_en = [
     "time": "2026-05-09T02:18:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dhanush starrer 'Kara' adds Rs 1.15 crore on Friday",
-    "desc": "Dhanush's latest action thriller, 'Kara', is holding steady at the box office, raking in Rs 31.41 crore net in India. Directed by Vignesh Raja, the film, which also stars Mamitha Baiju, follows a reformed thief drawn back into crime. Despite mixed reviews, the movie has shown a decent theatrical run since its April 30, 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-130969519,imgsize-1107338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-box-office-collection-day-9-dhanush-and-mamitha-baiju-starrer-only-adds-rs-1-15-crore-on-friday/articleshow/130969502.cms",
-    "time": "2026-05-09T02:10:19.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "AI tools to help centre catch fake Ayushman claims",
     "desc": "New AI systems are now available to combat fraud in the Ayushman Bharat health insurance scheme. These advanced tools can identify fake hospital bills and forged medical documents. The technology aims to speed up insurance claim settlements and enhance transparency. India is leading the Global South with its health AI benchmarking platform.",
@@ -349,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/two-indians-in-crew-of-hantavirus-hit-ship/articleshow/130969369.cms",
     "time": "2026-05-09T01:54:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Goldie Hawn on not marrying Kurt Russell after 43 yrs together",
-    "desc": "Hollywood's enduring golden couple, Goldie Hawn and Kurt Russell, have maintained their four-decade romance without marriage. Hawn revealed their choice to 'choose each other every day' rather than formalize their union, valuing freedom and independence. They've built a strong, blended family, emphasizing their deep connection and mutual respect.",
-    "img": "https://static.toiimg.com/photo/msid-130969285,imgsize-117958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/goldie-hawn-reveals-why-she-has-not-yet-married-kurt-russell-after-43-years-together-i-dont-like-ownership/articleshow/130969260.cms",
-    "time": "2026-05-09T01:37:44.000Z"
   },
   {
     "cat": "Sports",
@@ -387,15 +531,6 @@ const newsData_en = [
     "time": "2026-05-09T01:28:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Raja Shivaji' mints over Rs 65 crore on its second Friday",
-    "desc": "Riteish Deshmukh's historical war drama 'Raja Shivaji', based on Chhatrapati Shivaji Maharaj, is performing strongly at the box office, nearing Rs 70 crore gross in India within its first week. The film, released in Hindi and Marathi, features a star-studded cast and has garnered significant attention since its debut.",
-    "img": "https://static.toiimg.com/photo/msid-130969327,imgsize-56784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/raja-shivaji-box-office-collection-day-8-riteish-deshmukhs-historical-drama-mints-over-rs-65-crore-on-second-friday/articleshow/130969327.cms",
-    "time": "2026-05-09T01:25:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ayush Shetty’s slow-burn ascent",
     "desc": "The 6’4” shuttler isn’t the quintessential prodigy. He did not win a National Championship in any age category. But he has beaten the world’s best in recent weeks, showing he belongs on the big stage. What does the 21-year-old need to contend for badminton’s most prestigious tournaments?",
@@ -412,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/yan-diomande-rb-leipzig-bundesliga-breakout-star-transfer-interest-liverpool-psg-bayern/article70956987.ece",
     "time": "2026-05-09T01:18:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mortal Kombat II' tops Indian box office on Day 1",
-    "desc": "'Mortal Kombat II' has made a strong debut at the Indian box office, outperforming other new releases with a Rs 1.65 crore gross on its opening day. The action film, starring Karl Urban, secured the highest collection among Friday releases.",
-    "img": "https://static.toiimg.com/photo/msid-130969204,imgsize-139616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/mortal-kombat-ii-box-office-collection-day-1-karl-urban-starrer-makes-rs-1-65-crore-india-debut-outperforms-daadi-ki-shaadi-and-krishnavataram/articleshow/130969040.cms",
-    "time": "2026-05-09T00:56:07.000Z"
   },
   {
     "cat": "Sports",
@@ -441,15 +567,6 @@ const newsData_en = [
     "time": "2026-05-09T00:40:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' eyes Rs 1800 cr worldwide amid buzz around its threequel",
-    "desc": "Ranveer Singh's 'Dhurandhar 2' is nearing a massive Rs 1800 crore worldwide milestone in its 8th week. Meanwhile, makers have hinted at 'Dhurandhar 3,' suggesting the spy saga is far from over, potentially surprising audiences later this year with new developments.",
-    "img": "https://static.toiimg.com/photo/msid-130969129,imgsize-34446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-51-ranveer-singh-rakesh-bedi-sanjay-dutts-eyes-rs-1800-crore-worldwide-amid-buzz-around-third-installment/articleshow/130969136.cms",
-    "time": "2026-05-09T00:39:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI bans ‘unauthorised’ entries in players’ rooms; warns of honey traps, security risk",
     "desc": "In an elaborate advisory for the 10 IPL franchises, the BCCI has said that written authorisation from the team managers would be a must for guests to have access to the players’ and officials’ rooms",
@@ -457,24 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/bcci-bans-unauthorised-entries-in-players-rooms-warns-of-honey-traps-security-risk/article70957017.ece",
     "time": "2026-05-09T00:35:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay's 'Bhooth Bangla' heads for Rs 235 cr on Day 22",
-    "desc": "'Bhooth Bangla', starring Akshay Kumar, is casting a profitable spell at the global box office, crossing the Rs 200 crore threshold. This entertaining horror-comedy has resonated well with audiences, generating Rs 151.75 crore in India and Rs 52.95 crore from overseas markets by its 22nd day. It also highlights the impressive seventh collaboration between Kumar and his long-time director, Priyadarshan. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130969072,imgsize-211718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bhooth-bangla-box-office-collection-day-22-akshay-kumars-film-heads-for-rs-235-crore-global-gross-amid-raja-shivaji-fever/articleshow/130969072.cms",
-    "time": "2026-05-09T00:34:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Kalki 2' eyes Dec 2027 release; to clash with Avengers, Tumbbad 2",
-    "desc": "The highly anticipated 'Kalki 2898 AD Part 2' is reportedly targeting a December 2027 release, promising an even grander spectacle than its predecessor. Filming is expected to conclude by April 2027, allowing ample time for extensive post-production.",
-    "img": "https://static.toiimg.com/photo/msid-130969024,imgsize-87096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kalki-2898-ad-part-2-prabhas-amitabh-bachchan-kamal-haasan-starrer-eyes-december-2027-release-to-clash-with-avengers-secret-wars-tumbbad-2/articleshow/130968937.cms",
-    "time": "2026-05-09T00:01:54.000Z"
   },
   {
     "cat": "Sports",
@@ -540,15 +639,6 @@ const newsData_en = [
     "time": "2026-05-08T23:31:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Celina shares cryptic post as FIR registered against Peter Haag",
-    "desc": "Actress Celina Jaitly posted a cryptic message about 'breaking up with a narcissist' following reports of an FIR against her husband, Peter Haag, for domestic violence. Mumbai Police have registered the FIR and issued a Look Out Circular against Haag, citing alleged non-cooperation with the investigation. Jaitly had filed a case seeking damages and maintenance.",
-    "img": "https://static.toiimg.com/photo/msid-130968906,imgsize-151420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitley-shares-cryptic-post-on-breaking-up-with-a-narcissist-as-police-register-fir-against-peter-haag-on-allegations-of-domestic-violence/articleshow/130968895.cms",
-    "time": "2026-05-08T23:24:58.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Huntington's patients seek rare disease tag &amp; registry",
     "desc": "Families and researchers are advocating for Huntington's disease to be recognized as a rare disease in India to establish a much-needed registry. This recognition is crucial for quantifying patient numbers, improving treatment accessibility, and securing coverage under national health policies, offering hope for affected individuals and families.",
@@ -585,42 +675,6 @@ const newsData_en = [
     "time": "2026-05-08T22:25:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Writers' buildings to turn saffron to welcome new CM",
-    "desc": "Kolkata's iconic Writers' Buildings and other government offices will glow orange on Saturday evening, marking the first day of the new BJP government. Illumination trials were conducted Friday. The historic Writers' facade, along with Assembly House and Kolkata Collectorate, will be lit up. Inside, preparations are underway for the new Chief Minister's symbolic visit.",
-    "img": "https://static.toiimg.com/photo/msid-130968010,imgsize-172614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kolkata-writers-buildings-to-turn-saffron-to-welcome-new-cm/articleshow/130967587.cms",
-    "time": "2026-05-08T22:08:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Brigade takes rain cover for new cabinet swearing-in",
-    "desc": "Preparations are in full swing at Kolkata's Brigade Parade Ground to ensure Saturday's oath-taking ceremony for Bengal's first BJP government proceeds smoothly despite heavy rains. A massive waterproof hangar tent has been erected, and seating capacity has been significantly increased. Authorities are working round-the-clock to restore the grounds, with an indoor stadium on standby as a backup.",
-    "img": "https://static.toiimg.com/photo/msid-130967353,imgsize-114478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kolkata-brigade-takes-rain-cover-for-new-cabinet-swearing-in/articleshow/130967048.cms",
-    "time": "2026-05-08T22:02:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Satheesan backers stage protests, Kerala Congress leadership steps in",
-    "desc": "Congress leadership intervened as supporters of opposition leader V D Satheesan held demonstrations across Kerala, demanding his appointment as the next chief minister. Some activists allegedly tore down posters of AICC leader K C Venugopal, also a contender for the post, prompting the KPCC to direct workers to refrain from such actions.",
-    "img": "https://static.toiimg.com/photo/msid-130967013,imgsize-43242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/satheesan-backers-stage-protests-kerala-congress-leadership-steps-in/articleshow/130967013.cms",
-    "time": "2026-05-08T21:43:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hunt for killers of Suvendu's aide expands to UP, Odisha",
-    "desc": "Bengal CM-designate Suvendu Adhikari's aide Chandranath Rath's murder probe now includes contract killers from UP and Odisha. Sleuths are focusing on Montu Mondal, who was in the SUV during the attack and escaped. A car used in the crime was traced to a Matigara owner who'd advertised it for sale online.",
-    "img": "https://static.toiimg.com/photo/msid-130967019,imgsize-28366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hunt-for-killers-of-suvendus-aide-expands-to-up-odisha/articleshow/130967012.cms",
-    "time": "2026-05-08T21:42:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India scripts history, trounces Lebanon to make U17 Asian Cup quarterfinals",
     "desc": "India will face hosts China in the quarterfinal; India’s entry was confirmed after the Philippines and Chinese Taipei failed to win their final head-to-head Group C match by a margin of 12 goals or more",
@@ -628,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/india-vs-lebanon-u17-women-football-team-afc-asian-cup-quarterfinals/article70957025.ece",
     "time": "2026-05-08T21:25:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He was struggling, but…'– Rahane opens up on Finn Allen’s transformation",
-    "desc": "Ajinkya Rahane lauded Kolkata Knight Riders' complete performance after their dominant win over Delhi Capitals. He highlighted Finn Allen's match-winning century and the bowlers' consistent discipline, particularly the spin trio, for setting up the victory. Rahane also credited the support staff and the team's focus on the present moment for their success.",
-    "img": "https://static.toiimg.com/photo/msid-130965561,imgsize-182776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-he-was-struggling-but-ajinkya-rahane-opens-up-on-finn-allens-transformation/articleshow/130965560.cms",
-    "time": "2026-05-08T17:59:42.000Z"
   },
   {
     "cat": "Business",
@@ -657,24 +702,6 @@ const newsData_en = [
     "time": "2026-05-08T17:29:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "KKR win fourth straight game to keep playoff hopes alive",
-    "desc": "Kolkata Knight Riders secured a vital win against Delhi Capitals. This victory keeps their IPL 2026 playoff aspirations alive. The IPL 2026 points table shows a close contest with many teams vying for playoff spots. Sunrisers Hyderabad leads the standings. Punjab Kings and Royal Challengers Bengaluru are also in strong positions.",
-    "img": "https://static.toiimg.com/photo/msid-130965101,imgsize-261286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-points-table-after-match-51-kkr-win-fourth-straight-game-to-keep-playoff-hopes-alive/articleshow/130965100.cms",
-    "time": "2026-05-08T17:19:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Extremely shy’ to direct arrest as first option, no need to sensationalise probe: SC in Anil Ambani’s ADAG ‘bank fraud’ case",
-    "desc": "CBI report estimates loss to public sector banks and LIC at over ₹27,000 crore in seven cases involving Anil Ambani’s ADAG and its firms. Top court says arrest must be last resort, and not first option.",
-    "img": "https://th-i.thgim.com/public/incoming/6mm9ib/article70955772.ece/alternates/LANDSCAPE_1200/ED-attaches-AniGNDFKVF93.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/large-scale-banking-fraud-involving-anil-ambanis-adag-requires-thorough-probe-says-sc/article70955604.ece",
-    "time": "2026-05-08T16:48:57.000Z"
-  },
-  {
     "cat": "World",
     "title": "6 killed, 13 injured as mortar shell hits civilian area in northwest Pakistan",
     "desc": "The incident took place in the Durrani Banda area of Hangu district when police were engaged in an operation against the terrorists who fired mortar shells that landed in the civilian area on Thursday (May 7), a police official said.",
@@ -682,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/6-killed-13-injured-as-mortar-shell-hits-civilian-area-in-northwest-pakistan/article70956699.ece",
     "time": "2026-05-08T16:20:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Axar Patel enters unwanted record books, becomes second-worst captain to...",
-    "desc": "Delhi Capitals captain Axar Patel's batting woes deepened in IPL 2026, marking a new low with the second-worst captain's average in the league's history. His struggles, coupled with a dismal strike-rate, highlight a significant concern for the team amidst a challenging season. KKR's spinners effectively stifled Delhi's batting lineup, leading to a batting collapse.",
-    "img": "https://static.toiimg.com/photo/msid-130964181,imgsize-184800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-axar-patel-enters-unwanted-history-books-becomes-second-worst-ipl-captain-by-average/articleshow/130964080.cms",
-    "time": "2026-05-08T16:10:45.000Z"
   },
   {
     "cat": "Business",
@@ -781,15 +799,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/ipo-bound-hero-fincorp-banks-on-ai-strategies-for-value-creation/articleshow/130960985.cms",
     "time": "2026-05-08T13:07:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Yellow metal jumps; check 24K, 22K city-wise rates",
-    "desc": "Gold prices surged on Friday, driven by robust spot demand and fresh speculative buying. Across major Indian cities, retail rates for 22K, 24K, and 18K gold saw an uptick. Futures contracts for August delivery on MCX climbed, mirroring a stronger global sentiment for the precious metal. This rally reflects increased trader confidence and positive market momentum.",
-    "img": "https://static.toiimg.com/photo/msid-130960075,imgsize-1118484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-gold-rate-in-your-city-on-may-8-2026-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur/articleshow/130959864.cms",
-    "time": "2026-05-08T12:26:03.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/from-the-doldrums-to-the-top-sunrisers-stunning-rise/article70952489.ece",
     "time": "2026-05-07T18:21:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Apple promised a smarter Siri. It wasn’t. Now it’s paying for it.",
-    "desc": "The tech industry has spent the last two years drowning consumers in AI hype. Every product, and every update, has been dressed up in the language of transformation and intelligence. Apple’s Siri settlement is a rare moment where that rhetoric met actual legal consequence",
-    "img": "https://th-i.thgim.com/public/incoming/dyth1g/article69056251.ece/alternates/LANDSCAPE_1200/Apple_Siri_Settlement_85098.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/apple-pays-the-price-for-siri-ai-delay/article70946265.ece",
-    "time": "2026-05-07T17:38:57.000Z"
   }
 ];
