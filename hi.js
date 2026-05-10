@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch La Liga El Clasico in India?",
+    "desc": "Barcelona and Real Madrid gear up for the El Clasico at the Camp Nou, which could define the champions of the La Liga 2026. Barca, 11 points clear of Madrid, need just a draw to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/barcelona-vs-real-madrid-live-streaming-when-and-where-to-watch-la-liga-el-clasico-in-india-2026-05-10-1040613",
+    "time": "2026-05-10T15:30:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chennai Super Kings overcome late scare after Urvil's blitz, end 180+ chase hoodoo with LSG win",
+    "desc": "Chennai Super Kings ended their 180+ hoodoo in IPL after gunning down 204 in their 11th match of the Indian Premier League 2026 on Sunday, May 10. CSK overcame a late scare at the MA...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-overcomes-late-scare-after-urvils-blitz-end-180-plus-chase-hoodoo-with-lsg-win-2026-05-10-1040610",
+    "time": "2026-05-10T14:34:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Hardik Pandya playing for MI in must-win IPL 2026 clash against RCB in Raipur?",
+    "desc": "Hardik Pandya missed out as the Mumbai Indians take on the Royal Challengers Bengaluru in their must-win Indian Premier League 2026 clash at the Shaheed Veer Narayan Singh International Stadium, Raipur, on Sunday, May 10....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-hardik-pandya-playing-for-mi-in-must-win-ipl-2026-clash-against-rcb-in-raipur-2026-05-10-1040607",
+    "time": "2026-05-10T13:49:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What was written on CSK star Urvil Patel's chit that he showed after hitting IPL's joint-fastest fifty?",
+    "desc": "Urvil Patel smashed the joint-fastest fifty in the history of the Indian Premier League during Chennai Super Kings' clash against the Lucknow Super Giants at the MA Chidambaram Stadium on Sunday, May 10. Patel was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-was-written-on-csk-star-urvil-patels-chit-that-he-showed-after-hitting-ipls-joint-fastest-fifty-2026-05-10-1040606",
+    "time": "2026-05-10T13:25:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Urvil Patel hits joint-fastest fifty in IPL history, breaks Suresh Raina's long-standing record",
     "desc": "Chennai Super Kings batter Urvil Patel has etched his name into the history books as he has registered the joint-fastest fifty in the history of the Indian Premier League. Patel, who already boasts the fastest...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/out-of-the-race-wasim-jaffer-predicts-struggling-side-to-miss-out-on-ipl-2026-playoffs-2026-05-10-1040580",
     "time": "2026-05-10T09:08:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer slams Yashasvi Jaiswal's captaincy after GT dominate RR in Jaipur",
-    "desc": "Rajasthan Royals sustained a hefty loss against Gujarat Titans in the 52nd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 9th,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-slams-yashasvi-jaiswal-s-captaincy-after-gt-dominate-rr-in-jaipur-2026-05-10-1040576",
-    "time": "2026-05-10T08:00:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Chennai fare for IPL 2026 game 53?",
-    "desc": "The stage is set for the 53rd game of the ongoing IPL (Indian Premier League). Five-time champions Chennai Super Kings will be taking on Lucknow Super Giants at the MA Chidambaram Stadium in Chennai on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-lsg-weather-report-how-will-weather-in-chennai-fare-for-ipl-2026-game-53-2026-05-10-1040566",
-    "time": "2026-05-10T06:41:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pep Guardiola shows support for West Ham as Premier League title race heats up",
-    "desc": "The ongoing Premier League season is approaching its end. With just a few match weeks left, it is worth noting that Arsenal are still in the lead and looking to become the league champions for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/pep-guardiola-shows-support-for-west-ham-as-premier-league-title-race-heats-up-2026-05-10-1040562",
-    "time": "2026-05-10T05:37:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MA Chidambaram Stadium in Chennai play?",
-    "desc": "The 53rd game of the ongoing IPL (Indian Premier League) 2026 will see Chennai Super Kings taking on Lucknow Super Giants. The two sides will meet at the MA Chidambaram Stadium in Chennai on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-lsg-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-2026-05-10-1040551",
-    "time": "2026-05-10T04:13:29.000Z"
   }
 ];
