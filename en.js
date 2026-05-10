@@ -1,6 +1,123 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Boeing Honcho front-runner for NSIL chief post, could be first outsider",
+    "desc": "India's space commercial arm, NSIL, is poised for a significant shift as a private sector leader, reportedly from Boeing, is the front-runner for its CMD post. This marks a departure from its history of being led by Isro insiders. The selection process is in its final stages, aiming to bring external expertise to the burgeoning space PSU.",
+    "img": "https://static.toiimg.com/photo/msid-130999052,imgsize-22388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/boeing-honcho-front-runner-for-nsil-chief-post-could-be-first-outsider/articleshow/130999055.cms",
+    "time": "2026-05-10T21:28:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Observatory that put Mount Everest in record books now lies in ruins",
+    "desc": "Bhuri Tori, a forgotten scientific outpost near Sironj, once served as the geodetic heart of undivided India. British surveyors used this ridge for the Great Trigonometrical Survey, fixing coordinates and calculating distances that helped measure Mount Everest. Today, this historically significant site lies neglected, with its structures vandalized and stones stolen.",
+    "img": "https://static.toiimg.com/photo/msid-130999044,imgsize-133754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/observatory-that-put-mt-everest-in-record-books-now-lies-in-ruins/articleshow/130999037.cms",
+    "time": "2026-05-10T21:01:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Noel Tata part of 3-1 vote against Srinivasan, Singh at Tata edu trust",
+    "desc": "Noel Tata has voted against the reappointment of Venu Srinivasan and Vijay Singh as trustees of Tata Education and Development Trust, widening rifts within the powerful philanthropic group. This move, following Mehli Mistry's opposition, prevents the duo's extension due to unanimous consent rules. Their departure significantly impacts their influence within the wider Tata Trusts.",
+    "img": "https://static.toiimg.com/photo/msid-130999031,imgsize-779342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/noel-tata-part-of-3-1-vote-against-srinivasan-singh-at-tata-edu-trust/articleshow/130999022.cms",
+    "time": "2026-05-10T20:53:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why Kiara-Sid kept it private; wants Saraayah to ‘experience life fully’",
+    "desc": "Kiara Advani recently opened up about her relationship with husband Sidharth Malhotra and why the couple consciously chose to keep their romance away from the public eye for years before marriage. Talking about the kind of values she hopes to pass on to her daughter Saraayah in the future, Kiara said she wants her child to grow up feeling free enough to make her own decisions.",
+    "img": "https://static.toiimg.com/photo/msid-130999016,imgsize-37750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-reveals-why-she-and-sidharth-malhotra-kept-their-relationship-private-wants-daughter-saraayah-to-experience-life-fully/articleshow/130998975.cms",
+    "time": "2026-05-10T20:52:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dravidian parties got trapped in vicious cycle of cash-for-votes and corruption, says T.N. Minister Arunraj",
+    "desc": "“The Dravidian parties played a role in making T.N. a social justice State. But their initial idealism became diluted. They got trapped in a narrow path of corruption-ridden governance and family politics to such an extent that they couldn’t come out of it,” says the TVK leader",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/27wf0v/article70963287.ece/alternates/LANDSCAPE_1200/SAT_4043.JPG.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/dravidian-parties-got-trapped-in-vicious-cycle-of-cash-for-votes-and-corruptiontamil-nadu-minister-arunraj/article70963286.ece",
+    "time": "2026-05-10T20:03:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "CCI to probe Pernod Ricard, seven others",
+    "desc": "The Competition Commission of India has ordered a detailed probe into French spirits giant Pernod Ricard and seven other entities for alleged cartelisation in the Indian-made foreign liquor market. The investigation will examine restrictive conduct by Pernod Ricard with retailers and wholesalers, potentially violating competition laws. The CCI's Director General will lead the inquiry, looking into responsible individuals.",
+    "img": "https://static.toiimg.com/photo/msid-130998880,imgsize-32740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cci-to-probe-pernod-ricard-seven-others/articleshow/130998880.cms",
+    "time": "2026-05-10T19:50:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BAFTA TV Awards 2026 full winners list",
+    "desc": "The winners of the 2026 BAFTA Television Awards 2026 were announced at a star-studded ceremony held at Royal Festival Hall on May 10, where some of the biggest names from the television industry came together to celebrate the best shows, actors and presenters of the year. Hosted by Greg Davies, the ceremony saw shows like Adolescence, The Celebrity Traitors and Code of Silence taking home major honours.",
+    "img": "https://static.toiimg.com/photo/msid-130998824,imgsize-50948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-tv-awards-2026-full-winners-list-adolescence-the-celebrity-traitors-and-code-of-silence-emerge-big-winners/articleshow/130998804.cms",
+    "time": "2026-05-10T19:46:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Novartis seeks to deepen India innovation play",
+    "desc": "Swiss pharma major Novartis is sharpening its strategy in India as a pure-play innovator across core therapy segments, including cardiovascular, oncology, and immunology. The company is moving further up the value chain in India, with early scientific discovery and Phase I studies beginning to take shape.",
+    "img": "https://static.toiimg.com/photo/msid-130998867,imgsize-22038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/novartis-seeks-to-deepen-india-innovation-play/articleshow/130998819.cms",
+    "time": "2026-05-10T19:44:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ADB economist",
+    "desc": "ADB Chief Economist Albert Park anticipates crude oil prices will remain elevated for an extended period due to the prolonged Middle East crisis. This higher oil price expectation is projected to shave 0.6% off India's GDP growth, bringing it to 6.3%, and significantly stoke inflation in the current fiscal year.",
+    "img": "https://static.toiimg.com/photo/msid-130998723,imgsize-1387939.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/crude-likely-to-stay-high-adb-economist/articleshow/130998719.cms",
+    "time": "2026-05-10T19:33:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gig workers must work 90 days a year for social security benefits",
+    "desc": "New rules under the Code on Social Security mandate gig and platform workers to work 90 days with one aggregator for social security benefits. Those working with multiple platforms need 120 days. Aggregators must register workers and face a 12% annual interest for delayed contributions.",
+    "img": "https://static.toiimg.com/photo/msid-130998700,imgsize-81664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gig-workers-must-work-90-days-a-year-for-social-security-benefits/articleshow/130998607.cms",
+    "time": "2026-05-10T19:32:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I don’t want my daughter to become a people pleaser’",
+    "desc": "Kiara Advani recently opened up about her childhood, parenting, and how motherhood has changed her perspective on life. In a recent conversation, the actress reflected on growing up in a loving household, becoming more self-aware after marriage, and the kind of environment she wants to create for her daughter.",
+    "img": "https://static.toiimg.com/photo/msid-130998571,imgsize-65134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-says-i-dont-want-my-daughter-saraayah-to-become-a-people-pleaser-adds-motherhood-made-her-value-her-parents-even-more/articleshow/130998532.cms",
+    "time": "2026-05-10T19:22:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bhuvneshwar and Krunal put RCB on top, show MI the door",
+    "desc": "The veteran seamer scalps four to restrict the five-time champion to 166 for seven; the all-rounder produces a fighting fifty to steady the holder in a tricky chase; Bosch’s four-wicket haul in vain; the result also eliminates LSG from the playoffs race",
+    "img": "https://th-i.thgim.com/public/incoming/hv09y6/article70963425.ece/alternates/LANDSCAPE_1200/11908_10_5_2026_21_12_41_5_DSC_6216.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-bhuvneshwar-and-krunal-put-rcb-on-top-show-mi-the-door/article70963428.ece",
+    "time": "2026-05-10T19:01:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB win last-ball thriller to knock Mumbai Indians out",
+    "desc": "Royal Challengers Bengaluru secured a dramatic two-wicket victory over Mumbai Indians on the final ball, eliminating MI from IPL 2026. Krunal Pandya's resilient 73 and Bhuvneshwar Kumar's match-winning six off the last delivery propelled RCB to a thrilling chase of 167.",
+    "img": "https://static.toiimg.com/photo/msid-130998127,imgsize-78300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rcb-win-last-ball-thriller-to-knock-mumbai-indians-out/articleshow/130998130.cms",
+    "time": "2026-05-10T18:45:22.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Railways staring at higher electricity costs after Supreme Court rules it qualifies as ‘consumer’",
     "desc": "Indian Railways faces increased electricity costs following a Supreme Court ruling. The court declared the national transporter a \"consumer\" under the Electricity Act, making it liable for cross-subsidy and additional surcharges on open access power. This decision impacts the railways' operating ratio and power procurement expenses, overturning previous exemptions.",
     "img": "https://static.toiimg.com/photo/msid-130998086,imgsize-940414.cms",
@@ -43,6 +160,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/soha-ali-khan-says-breastfeeding-and-bouncing-back-after-pregnancy-should-not-be-romanticised-we-always-put-ourselves-last/articleshow/130997395.cms",
     "time": "2026-05-10T18:06:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bhuvneshwar’s 4/23 vs MI powers him back to top of wicket charts",
+    "desc": "Bhuvneshwar Kumar delivered a stellar 4/23 spell against Mumbai Indians, propelling Royal Challengers Bengaluru to victory. His performance, including the wickets of Rickelton, Rohit, Suryakumar, and Tilak Varma, secured him the IPL 2026 Purple Cap with 21 wickets. This marks his sixth three-wicket haul this season, highlighting his consistent impact for RCB.",
+    "img": "https://static.toiimg.com/photo/msid-130997088,imgsize-93854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-purple-cap-bhuvneshwar-kumars-4/23-powers-him-back-to-top-of-wicket-charts/articleshow/130997105.cms",
+    "time": "2026-05-10T17:52:42.000Z"
   },
   {
     "cat": "Politics",
@@ -169,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karuppu-trailer-out-now-suriya-shows-off-godly-power-while-trisha-krishnan-stuns-as-a-lawyer/articleshow/130994766.cms",
     "time": "2026-05-10T15:27:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In Tamil Nadu Assembly, it’s Vijay versus Udhayanidhi",
-    "desc": "Belonging to a new generation of politicians, Mr. Udhayanidhi Stalin always wears jeans and a white T-shirt with a logo of the DMK’s youth wing, in departure from the traditional attire associated with Tamil Nadu politics. In that sense, he mirrors Tamil Nadu Chief Minister Vijay, who appeared in a blazer and trousers for the swearing-in ceremony.",
-    "img": "https://th-i.thgim.com/public/incoming/wkxpo5/article70962755.ece/alternates/LANDSCAPE_1200/PTI05_07_2026_000303B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-dmk-leader-of-opposition/article70962587.ece",
-    "time": "2026-05-10T15:27:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -477,15 +594,6 @@ const newsData_en = [
     "time": "2026-05-10T10:05:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Inside ‘mommy brain’: How pregnancy and childbirth rewire the maternal mind",
-    "desc": "Pregnancy and childbirth trigger significant physiological, psychological, and emotional transformations in women, often leading to \"mommy brain\" characterized by forgetfulness and mental fog. Scientific studies reveal neural recalibration, not decline, as the brain adapts to caregiving demands. This experience, while common, requires understanding and support for new mothers navigating identity shifts and cognitive loads.",
-    "img": "https://static.toiimg.com/photo/msid-130990044,imgsize-1225405.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/inside-mommy-brain-how-pregnancy-and-childbirth-rewire-the-maternal-mind/articleshow/130990129.cms",
-    "time": "2026-05-10T10:02:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Celina breaks down on Mother's Day amid police booking husband for cruelty",
     "desc": "Celina Jaitly broke down on Mother's Day, revealing she is unable to see or speak to her three children amid her ongoing divorce battle with husband Peter Haag. Mumbai Police have filed an FIR against Haag and issued a Look Out Circular following her complaint of abuse and harassment.",
@@ -514,33 +622,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Priyanka Chopra on breakfast choices, home cooked food and Nick Jonas",
-    "desc": "Settled in America, Priyanka Chopra Jonas finds herself nostalgic for the comforts of 'ghar ka khana'. When she visits India, indulging in parathas, idli-dosa, and poha becomes a must. With a chuckle, she confesses that neither she nor Nick Jonas are whizzes in the kitchen when it comes to Indian cooking—perhaps it's time to change that!",
-    "img": "https://static.toiimg.com/photo/msid-130990095,imgsize-72278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-jonas-hilarious-reaction-to-nick-jonas-cooking-indian-food-thats-something-to-think-about/articleshow/130990017.cms",
-    "time": "2026-05-10T09:41:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Kick me if needed': Amit Behl lauds Hrithik’s humility on set",
-    "desc": "Actor Amit Behl lauded Hrithik Roshan's humility on the 'Lakshya' set, recalling how the star encouraged him to deliver a forceful scene. Behl highlighted that unlike many instances where supporting actors' scenes are cut due to lead stars' insecurity, Hrithik and director Farhan Akhtar ensured all his contributions remained. This professionalism from established figures left a lasting positive impression. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130989932,imgsize-100540.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kick-me-if-needed-amit-behl-slams-insecure-stars-who-cut-co-actors-scenes-lauds-hrithik-roshans-humility-on-lakshya-set/articleshow/130989901.cms",
-    "time": "2026-05-10T09:36:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kalyani Priyadarshan gets candid about Cannes 2026 debut",
-    "desc": "Chandra'. She expressed her excitement about being part of Indian cinema's growing global recognition and plans to embrace the experience by going with the flow, without added pressure. Her upcoming projects include 'Genie' and 'Marshal'. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130989699,imgsize-58936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/lokah-star-kalyani-priyadarshan-gets-candid-about-her-cannes-2026-debut-want-to-enjoy-the-whole-experience-and-go-with-the-flow/articleshow/130989681.cms",
-    "time": "2026-05-10T09:22:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Raja Shivaji' BO day 10 [LIVE]: Riteish Deshmukh, Salman Khan, Abhishek Bachchan film chases Rs 75 crore",
     "desc": "'Raja Shivaji', directed by and starring Riteish Deshmukh as Chhatrapati Shivaji Maharaj, has redefined the landscape of Marathi cinema. Released on Maharashtra Day, May 1, 2026, this Rs. 100 crore historical epic, the most expensive Marathi film ever made, delivered a historic Week 1 of Rs. 52.65 crore. As the second weekend begins, the film is aggressively chasing the Rs. 75 crore India net milestone. With a stellar cast including Sanjay Dutt, Abhishek Bachchan, Vidya Balan, Genelia Deshmukh, and the viral cameo of Salman Khan as Jiva Mahala, the film continues to shatter records and dominate the box office.",
     "img": "https://static.toiimg.com/photo/msid-130989744,imgsize-176384.cms",
@@ -565,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-turmoil-to-keep-oil-prices-elevated-for-years-dent-indias-gdp-growth-adb-chief-economist/articleshow/130989453.cms",
     "time": "2026-05-10T09:02:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi makes heartwarming Mother’s Day post: 'This one’s for you, maa'",
-    "desc": "Rajasthan Royals teenager Vaibhav Sooryavanshi went viral after posting “This one’s for you, maa” on Mother’s Day ahead of the IPL 2026 clash against Gujarat Titans. The 15-year-old then created history by becoming the fastest and youngest player to hit 100 T20 sixes. RR also promoted their “Pink Promise” campaign, supporting women-led rural development and solar electrification projects across Rajasthan.",
-    "img": "https://static.toiimg.com/photo/msid-130989302,imgsize-26130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshi-makes-heartwarming-mothers-day-post-this-ones-for-you-maa/articleshow/130989220.cms",
-    "time": "2026-05-10T08:24:14.000Z"
   },
   {
     "cat": "Business",
@@ -711,15 +783,6 @@ const newsData_en = [
     "time": "2026-05-09T13:33:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "11 years on, Jan Suraksha schemes deliver Rs 25,000 crore safety net for crores of Indians",
-    "desc": "Jan Suraksha programmes have paid out nearly Rs 25,160 crore in claims over a decade, with millions enrolled in life cover, accident insurance, and pension schemes. Finance Minister Nirmala Sitharaman highlighted the success of PMJJBY, PMSBY, and APY in providing affordable social security, especially for vulnerable sections.",
-    "img": "https://static.toiimg.com/photo/msid-130975482,imgsize-775055.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/11-years-on-jan-suraksha-schemes-deliver-rs-25000-crore-safety-net-for-crores-of-indians/articleshow/130975111.cms",
-    "time": "2026-05-09T10:26:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Axar Patel shifts focus to next season after KKR crushes DC’s playoff hopes",
     "desc": "With eight points from 11 matches, DC are eighth on the table, while KKR revived their playoff hopes, moving to seventh with nine points from 10 outings, though their road to the knockouts still remains difficult",
@@ -736,24 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/tehran-could-withstand-blockade-for-four-months-cia-report-shows-as-fighting-flares/article70958182.ece",
     "time": "2026-05-09T07:52:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Foreign investor share falls to 14-year low; DII ownership rises sharply to steady markets: Report",
-    "desc": "Foreign investors are significantly reducing their stake in Indian equities, with FII ownership hitting a multi-year low. Concurrently, domestic institutional investors, particularly mutual funds fueled by SIPs, are increasing their holdings, absorbing much of the foreign selling and reshaping market ownership.",
-    "img": "https://static.toiimg.com/photo/msid-130973038,imgsize-134616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/foreign-investor-share-falls-to-14-year-low-dii-ownership-rises-sharply-to-steady-markets-report/articleshow/130972970.cms",
-    "time": "2026-05-09T07:32:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Piyush Goyal meets Moet Hennessy Louis Vuitton, L’Oreal to push India manufacturing and exports",
-    "desc": "Union Minister Piyush Goyal met with luxury giants LVMH and L'Oreal to boost India's manufacturing, exports, and investments. Discussions centered on expanding production, nurturing local talent, and integrating Indian culture into global luxury supply chains. The talks also explored new avenues for India's beauty and personal care sector, leveraging L'Oreal's recent tech hub launch in Hyderabad.",
-    "img": "https://static.toiimg.com/photo/msid-130972208,imgsize-1290911.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/piyush-goyal-meets-moet-hennessy-louis-vuitton-loreal-to-push-india-manufacturing-and-exports/articleshow/130972220.cms",
-    "time": "2026-05-09T06:27:40.000Z"
   },
   {
     "cat": "World",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russia-ukraine-trade-attacks-ahead-of-kremlins-wwii-celebrations/article70956414.ece",
     "time": "2026-05-08T15:21:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Two Indian nationals onboard hantavirus-hit ship asymptomatic, under observation: Health Ministry",
-    "desc": "Eight probable cases of hantavirus infection have been reported onboard the vessel. According to WHO, the virus involved is the Andes strain of hantavirus, which is known to have limited capability of human-to-human transmission Three deaths have also been reported",
-    "img": "https://th-i.thgim.com/public/incoming/e6sw4d/article70956084.ece/alternates/LANDSCAPE_1200/AFP_A9X337Q.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/indian-nationals-part-of-crew-of-luxury-cruise-ship-that-reported-hantavirus-outbreak/article70954019.ece",
-    "time": "2026-05-08T15:05:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Samsung Galaxy A57 Review",
-    "desc": "Priced at ₹56,999, the Galaxy A57 is over ₹10,000 more than the previous model. This places it firmly in the sub-flagship category, where it competes with devices like the Vivo X200T and Samsung Galaxy S25 FE",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/6aebkf/article70956281.ece/alternates/LANDSCAPE_1200/1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-galaxy-a57-review-dependable-everyday-performance-at-sub-flagship-price/article70956255.ece",
-    "time": "2026-05-08T15:05:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marsh, Prince excel as Super Giants end losing run",
-    "desc": "The opener slams 111 off just 56 balls as the home side ends up with 209 for thee in a game reduced to 19 overs a side; the pacer claims three as RCB falls short in pursuit of a revised target of 213",
-    "img": "https://th-i.thgim.com/public/incoming/ya89d3/article70952680.ece/alternates/LANDSCAPE_1200/IPL%202026%2010.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-lsg-vs-rcb-match-updates-may-7-2026/article70952488.ece",
-    "time": "2026-05-08T12:20:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Main Actor Nahin Hoon’ movie review: Nawazuddin Siddiqui’s exhausting indie loses charm in excess",
-    "desc": "Written and directed by Aditya Kripalani, ‘Main Actor Nahin Hoon’ is filled with some heavy-handed conversations that break the rhythm of its minimalistic design with the voice of the filmmaker often getting in way of letting the characters stay human",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/leanl8/article70954937.ece/alternates/LANDSCAPE_1200/cover%207.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/main-actor-nahin-hoon-movie-review-nawazuddin-siddiqui-aditya-kripalani-chitrangada-satarupa/article70954595.ece",
-    "time": "2026-05-08T11:03:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee falls 45 paise to 94.67 against U.S. dollar",
-    "desc": "At the interbank foreign exchange market, the rupee opened at 94.58 against the U.S. dollar, then lost momentum and touched 94.67 against the American currency, registering a fall of 45 paise over its previous close",
-    "img": "https://th-i.thgim.com/public/incoming/h1vn0u/article70953889.ece/alternates/LANDSCAPE_1200/Weekly-rupee-viGJGFSO918.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-falls-45-paise-to-9467-against-us-dollar/article70953864.ece",
-    "time": "2026-05-08T04:50:51.000Z"
   }
 ];
