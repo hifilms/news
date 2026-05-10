@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Clean win for us': Shubman Gill hails his side after GT register statement victory against RR",
+    "desc": "Gujarat Titans registered a brilliant performance against Rajasthan Royals in the 52nd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 9th,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/clean-win-for-us-shubman-gill-hails-his-side-after-gt-register-statement-victory-against-rr-2026-05-10-1040543",
+    "time": "2026-05-10T01:42:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gujarat storm to second in major overhaul to standings",
     "desc": "Gujarat Titans registered their fourth straight win in the Indian Premier League 2026 after thrashing the Rajasthan Royals at the Sawai Mansingh Stadium on Saturday, May 9. Rashid Khan starred with a four-wicket haul, while...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-comes-down-heavy-on-ipl-players-with-new-guideline-amid-corruption-concerns-2026-05-09-1040509",
     "time": "2026-05-09T11:50:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'KKR will fancy their playoff chances': Ex-MI star's big claim after Rahane-led side's fourth win",
-    "desc": "Former Mumbai Indians star Aditya Tare has claimed that the Kolkata Knight Riders will fancy their chances of reaching the playoffs after the Ajinkya Rahane-led team's fourth win of the season. KKR, who were lingering...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-will-fancy-their-playoff-chances-ex-mi-stars-big-claim-after-rahane-led-sides-fourth-win-2026-05-09-1040500",
-    "time": "2026-05-09T10:26:46.000Z"
   }
 ];
