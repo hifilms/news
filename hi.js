@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pep Guardiola shows support for West Ham as Premier League title race heats up",
+    "desc": "The ongoing Premier League season is approaching its end. With just a few match weeks left, it is worth noting that Arsenal are still in the lead and looking to become the league champions for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/pep-guardiola-shows-support-for-west-ham-as-premier-league-title-race-heats-up-2026-05-10-1040562",
+    "time": "2026-05-10T05:37:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at MA Chidambaram Stadium in Chennai play?",
+    "desc": "The 53rd game of the ongoing IPL (Indian Premier League) 2026 will see Chennai Super Kings taking on Lucknow Super Giants. The two sides will meet at the MA Chidambaram Stadium in Chennai on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-lsg-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-2026-05-10-1040551",
+    "time": "2026-05-10T04:13:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rashid Khan surpasses Sunil Narine, Ravindra Jadeja in elite list after brilliant showing against RR",
+    "desc": "Gujarat Titans was exceptional against Rajasthan Royals in the 52nd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 9th, and after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-surpasses-sunil-narine-ravindra-jadeja-in-elite-list-after-brilliant-showing-against-rajasthan-royals-2026-05-10-1040547",
+    "time": "2026-05-10T02:42:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Clean win for us': Shubman Gill hails his side after GT register statement victory against RR",
     "desc": "Gujarat Titans registered a brilliant performance against Rajasthan Royals in the 52nd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 9th,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-are-rajasthan-royals-wearing-special-pink-jersey-during-ipl-2026-clash-against-gujarat-titans-2026-05-09-1040519",
     "time": "2026-05-09T14:02:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is RR skipper Riyan Parag not playing in IPL 2026 clash against GT? Who takes charge?",
-    "desc": "Rajasthan Royals captain Riyan Parag missed out as RR take on Gujarat Titans in their 11th match of the Indian Premier League 2026 at the Sawai Mansingh Stadium, Jaipur on Saturday, May 9. Parag was on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rr-skipper-riyan-parag-not-playing-in-ipl-2026-clash-against-gt-who-takes-charge-2026-05-09-1040517",
-    "time": "2026-05-09T13:38:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India one win away from FIFA U-17 Women's World Cup, Coach calls Asian Cup QF spot 'incredible achievement'",
-    "desc": "India women's U-17 team scripted history by reaching their first-ever quarterfinals of the AFC U17 Women's Asian Cup with their only victory in the group stage. India defeated Lebanon 4-0, and following the Philippines and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-one-win-away-from-fifa-u17-womens-world-cup-coach-calls-asian-cup-qf-spot-incredible-achievement-2026-05-09-1040512",
-    "time": "2026-05-09T12:39:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI comes down heavy on IPL players, broadcasters with new guideline amid corruption concerns",
-    "desc": "The Board of Control for Cricket in India (BCCI) has come down heavy on the IPL players, their families, team members and commentators for the social media culture, adding to the tightened discipline and security...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-comes-down-heavy-on-ipl-players-with-new-guideline-amid-corruption-concerns-2026-05-09-1040509",
-    "time": "2026-05-09T11:50:06.000Z"
   }
 ];

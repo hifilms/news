@@ -1,5 +1,248 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Chaos in Australian cricket? Five Senior players unhappy with new contracts",
+    "desc": "Cricket Australia faces internal unrest following the failed BBL privatisation, impacting national contracts and player satisfaction. Senior players are reportedly hesitant to sign due to financial terms and a desire for overseas league flexibility, with concerns over pay disparity and lucrative international offers shifting priorities.",
+    "img": "https://static.toiimg.com/photo/msid-130987220,imgsize-1156203.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/chaos-in-australian-cricket-five-senior-players-unhappy-with-new-contracts/articleshow/130987166.cms",
+    "time": "2026-05-10T05:54:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Prime Minister Narendra Modi attacks Congress on ‘betrayal of allies’",
+    "desc": "DMK was always working for the good of the Congress, and on several occasions, DMK has bailed Congress out of trouble,” the Prime Minister told a BJP rally at HAL Airport in Bengaluru on Sunday (May 10, 2026)",
+    "img": "https://th-i.thgim.com/public/incoming/jxxgsy/article70961609.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000044B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-attacks-congress-on-betrayal-of-allies/article70961586.ece",
+    "time": "2026-05-10T05:50:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kriti talks about nepotism and losing roles to star kids",
+    "desc": "Kriti Sanon has opened up about her struggles as a Bollywood outsider, revealing that roles she almost landed went to star kids. The actress admitted that a phase where \"nothing was working\" ultimately helped her grow. She now has 'Cocktail 2' with Shahid Kapoor and Rashmika Mandanna releasing June 19.",
+    "img": "https://static.toiimg.com/photo/msid-130987107,imgsize-19008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cocktail-2-star-kriti-sanon-opens-up-about-nepotism-and-losing-roles-to-star-kids-i-earned-every-opportunity-nothing-was-handed-to-me/articleshow/130987107.cms",
+    "time": "2026-05-10T05:45:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Champaran challenger",
+    "desc": "With the BJP installing its first Chief Minister in Bihar, the JD(U)’s previously reticent Nishant Kumar has taken on the political mantle from his father, Nitish Kumar, and accepted politics as a full-fledged profession for the survival of the party",
+    "img": "https://th-i.thgim.com/public/incoming/6fjhui/article70955235.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20NISHAMT%20KUMAR%20BIHAR%20%202026_05_05_19.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/champaran-challenger-nishant-kumar-begins-political-journey-as-jdu-leader-in-bihar/article70955198.ece",
+    "time": "2026-05-10T05:41:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FPI’s stake in Indian equities hits 14-year low",
+    "desc": "FPIs were net sellers in Indian equities in four of the five trading sessions during the week ended May 8; on an aggregate basis, combining stock exchange and primary market flows, FPI equity outflows for the week stood at ₹14,207.20 crore; weekly trend reflects a broader structural shift",
+    "img": "https://th-i.thgim.com/public/incoming/oi5pc0/article70961592.ece/alternates/LANDSCAPE_1200/iStock-1205581593.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/fpis-stake-in-indian-equities-hits-14-year-low/article70961585.ece",
+    "time": "2026-05-10T05:33:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is the Governor’s role in a hung Assembly?",
+    "desc": "Why has Governor Rajendra Arlekar refused to swear in TVK party president Vijay as the new Chief Minister of Tamil Nadu? What is the primary objective of the Governor in such situations? What has the Supreme Court ruled in the past? Is the floor test the best way of proving majority?",
+    "img": "https://th-i.thgim.com/public/incoming/v3h9q7/article70960463.ece/alternates/LANDSCAPE_1200/PTI05_09_2026_000437A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-is-the-governors-role-in-a-hung-assembly/article70958937.ece",
+    "time": "2026-05-10T05:30:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamilaga Vettri Kazhagam",
+    "desc": "The political organisation built by actor-turned-politician Vijay, which emerged as the single largest party in the Assembly, declares itself as a secular movement, rooted in the Tamil experience, and committed to social justice and equality",
+    "img": "https://th-i.thgim.com/public/news/national/p6oebd/article70960023.ece/alternates/LANDSCAPE_1200/Vijay_CM_Artxx.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamilaga-vettri-kazhagam-vijay-the-star-who-stormed-into-politics/article70960039.ece",
+    "time": "2026-05-10T05:15:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trisha warmly greets Vijay's family ahead of the oath-taking ceremony",
+    "desc": "Tamil Nadu witnesses a historic day as C. Joseph Vijay assumes the Chief Minister's office. Actress Trisha Krishnan graced the oath-taking ceremony, warmly greeting Vijay's family, a gesture that resonated widely on social media. Her radiant presence and elegant attire, a blue silk saree, added a touch of grace to the significant political event, drawing admiration from fans.",
+    "img": "https://static.toiimg.com/photo/msid-130986754,imgsize-61250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnan-warmly-greets-vijays-family-ahead-of-the-oath-taking-ceremony-in-chennai/articleshow/130986707.cms",
+    "time": "2026-05-10T05:14:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trisha says she is ‘looking forward’ ahead of Vijay's oath-taking ceremony",
+    "desc": "Tamil Nadu witnesses a historic day as actor Vijay takes oath as Chief Minister following his party's electoral triumph. Actress Trisha Krishnan, a frequent subject of speculation regarding her connection to the new CM, offered a brief, positive remark about the significant occasion. Her presence at the ceremony, dressed traditionally, has also garnered attention.",
+    "img": "https://static.toiimg.com/photo/msid-130986487,imgsize-89820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-thalapathy-to-take-oath-as-tamil-nadus-chief-minister-trisha-krishnan-says-she-is-looking-forward-to-the-big-day-ahead-of-the-ceremony/articleshow/130986455.cms",
+    "time": "2026-05-10T04:50:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK ends decades-old DMK-AIADMK dominance, actor-politician Vijay sworn in as Tamil Nadu chief minister",
+    "desc": "C Joseph Vijay was sworn in as Tamil Nadu Chief Minister after his party, TVK, emerged as the single largest in the assembly. Vijay secured the required majority with support from Viduthalai Chiruthaigal Katchi and Indian Union Muslim League, unseating traditional Dravidian parties. He will seek a vote of confidence by May 13.",
+    "img": "https://static.toiimg.com/photo/msid-130986558,imgsize-562800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tvk-ends-dmk-aiadmk-era-actor-politician-vijay-sworn-in-as-tamil-nadu-chief-minister/articleshow/130986441.cms",
+    "time": "2026-05-10T04:48:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Priyanka Chopra Jonas",
+    "desc": "Priyanka Chopra Jonas embodies the belief that destiny and hard work are intertwined. Her journey from Bollywood to Hollywood highlights the crucial intersection of preparation and opportunity. She emphasizes that success stems not just from luck, but from consistent effort, discipline, and the readiness to seize chances when they arise, a philosophy she has lived and proven.",
+    "img": "https://static.toiimg.com/photo/msid-130986403,imgsize-1072667.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-priyanka-chopra-jonas-on-success-destiny-and-hardwork-i-believe-destiny-and-hard-work-go-hand-in-hand/articleshow/130986388.cms",
+    "time": "2026-05-10T04:40:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madhavan re-shares post on men who think deeply and trust slowly",
+    "desc": "the prioritization of tranquility over fame, profound emotional awareness, and keen intuition. Such men are often misunderstood as hard to approach, mainly because they tread carefully when it comes to trust, shaped by their unique life journeys. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130986258,imgsize-86610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-re-shares-psychology-based-post-on-men-who-think-deeply-and-trust-slowly-not-difficult-just-rare/articleshow/130986252.cms",
+    "time": "2026-05-10T04:30:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'El Clasico special this time because we can win La Liga': De Jong Exclusive",
+    "desc": "Frenkie de Jong says Barcelona are focused on sealing the La Liga title against Real Madrid in a historic Clasico at Camp Nou. Barca need only a draw to clinch the crown and enter the match in strong form, unlike struggling Madrid. De Jong praised Barcelona’s midfield depth, backed Lamine Yamal’s development, and called teamwork—not individuals like Kylian Mbappe—the key to victory.",
+    "img": "https://static.toiimg.com/photo/msid-130986292,imgsize-78660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/el-clasico-special-this-time-because-we-can-win-la-liga-frenkie-de-jong-exclusive/articleshow/130986229.cms",
+    "time": "2026-05-10T04:25:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Could hantavirus be the new emerging pathogen in Kerala?",
+    "desc": "Presence of antibodies against the virus in blood samples was reported in the State in 1999 itself and one probable case of the virus-induced ‘hemorrhagic fever with renal syndrome’ was reported in 2014. Experts say a good number of ‘leptospirosis-like’ illnesses, wherein patients die within four to five days could be due to hantavirus or a co-infection of leptospirosis and hanta. Symptoms are similar and hard to distinguish without targeted serology tests",
+    "img": "https://th-i.thgim.com/public/incoming/ux9lh4/article70959964.ece/alternates/LANDSCAPE_1200/IAV_4.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/could-hantavirus-be-the-new-emerging-pathogen-in-kerala/article70959251.ece",
+    "time": "2026-05-10T04:21:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amid ‘Dhurandhar 2’ success, Arjun Rampal visits Mahakaleshwar Temple",
+    "desc": "Following the massive success of 'Dhurandhar 2', actor Arjun Rampal visited Ujjain's Mahakaleshwar temple for Bhasam Aarti, showcasing his grounded nature. The film's phenomenal box office performance has left the team in awe. Meanwhile, makers have confirmed that 'Dhurandhar 3' is indeed in development, promising more for eager fans.",
+    "img": "https://static.toiimg.com/photo/msid-130986167,imgsize-98430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-dhurandhar-2-success-arjun-rampal-visits-mahakaleshwar-temple-seeks-blessings-during-bhasam-aarti-in-ujjain/articleshow/130986092.cms",
+    "time": "2026-05-10T04:12:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli poised for history against MI, set to become first batter to...",
+    "desc": "Virat Kohli is on the cusp of another IPL record, needing just 28 runs against Mumbai Indians to become the first batter to score 1,000 IPL runs against them. This achievement would mark the fifth team he has surpassed this milestone against in his illustrious IPL career.",
+    "img": "https://static.toiimg.com/photo/msid-130986163,imgsize-43922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-poised-for-history-against-mi-set-to-become-first-batter-to-/articleshow/130986140.cms",
+    "time": "2026-05-10T04:12:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why hair loss despite ‘normal’ tests",
+    "desc": "New research suggests that hair loss in women, even with normal blood work, may be linked to higher levels of the hormone marker 3α-diol G within the scalp. This finding could explain why standard tests often fail to identify the cause of female pattern hair loss, shifting focus to hormone activity at the hair follicle level.",
+    "img": "https://static.toiimg.com/photo/msid-130986082,imgsize-1361503.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-hair-loss-despite-normal-tests/articleshow/130986085.cms",
+    "time": "2026-05-10T04:05:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "EAM Jaishankar hands over India-assisted agro-processing facility in South Trinidad",
+    "desc": "S. Jaishankar arrived in Port of Spain from Paramaribo on May 8 on the concluding leg of his three-nation tour of Jamaica, Suriname, and Trinidad and Tobago, aimed at deepening India’s engagement with the Caribbean nations",
+    "img": "https://th-i.thgim.com/public/incoming/szp7us/article70961392.ece/alternates/LANDSCAPE_1200/20260509533L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/eam-jaishankar-hands-over-india-assisted-agro-processing-facility-in-south-trinidad/article70961390.ece",
+    "time": "2026-05-10T03:49:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's ‘Clutch God’ who disappears for Mumbai Indians",
+    "desc": "Hardik Pandya has excelled for India in crunch T20 situations since 2024 but struggled to replicate that impact for Mumbai Indians. His bowling economy and batting strike rate dip sharply for MI, especially in death overs. Questions resurfaced after MI’s record 103-run loss to CSK, where Hardik avoided bowling late despite having overs left, highlighting his contrasting performances for franchise and country.",
+    "img": "https://static.toiimg.com/photo/msid-130985767,imgsize-50360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/hardik-pandya-indias-clutch-god-who-disappears-for-mumbai-indians/articleshow/130985749.cms",
+    "time": "2026-05-10T03:48:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ssunita considers Tina and Yashvardhan as her 'support' pillars",
+    "desc": "Ssunita Ahuja, wife of Bollywood star Govinda, shared her heartfelt sentiments on Mother's Day, revering her own mother as her God. She also expressed deep affection for her children, Tina and Yashvardhan, calling them her pillars of support. Ahuja is actively exploring various entertainment platforms, with upcoming appearances on reality shows alongside her daughter.",
+    "img": "https://static.toiimg.com/photo/msid-130975065,imgsize-126616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mothers-day-2026-ssunita-ahuja-reveals-tina-and-yashvardhan-stand-by-her-whether-she-is-right-or-wrong-says-they-are-my-pillars/articleshow/130975010.cms",
+    "time": "2026-05-10T03:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Vijay built Shirdi Sai Baba temple for his mother",
+    "desc": "Actor Vijay fulfilled his mother Shoba Chandrasekhar's long-held dream by building a Shirdi Sai Baba Temple in Chennai. This deeply emotional gesture, completed quietly, offers a glimpse into Vijay's personal life beyond his public persona. The temple, inaugurated in February 2024, allows his devout mother to pray closer to home, showcasing the actor's profound respect and affection.",
+    "img": "https://static.toiimg.com/photo/msid-130974805,imgsize-130980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/when-thalapathy-vijay-built-shirdi-sai-baba-temple-for-his-mother-shoba-chandrasekhar-mothers-day-2026-special/articleshow/130974778.cms",
+    "time": "2026-05-10T03:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Riteish on paparazzi; 'Till date I have NEVER REFUSED...'",
+    "desc": "Actor Riteish Deshmukh revealed his respectful approach to paparazzi, stating he has never refused a photo. He understands their livelihood depends on clicks, recalling a photographer earning Rs 1,000 per exclusive shot. This mutual respect extends to his wife Genelia and their children, who also greet photographers warmly. Read the full article to know more about what the actor said in his recent interview.",
+    "img": "https://static.toiimg.com/photo/msid-130985590,imgsize-91606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/till-date-i-have-never-refused-a-pap-picture-riteish-deshmukh-speaks-about-mutual-respect-with-paparazzi/articleshow/130985581.cms",
+    "time": "2026-05-10T03:07:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harrison Ford gets baffled by Gen Z slang",
+    "desc": "Harrison Ford, star of 'Shrinking,' was recently baffled by his co-star Sherry Cola's use of the Gen Z slang term \"raw-dogging\" to describe unplugging on flights. Ford, believing it meant something entirely different, humorously expressed his confusion, leading to a chaotic and laughter-filled media appearance.",
+    "img": "https://static.toiimg.com/photo/msid-130985602,imgsize-22480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harrison-ford-gets-baffled-by-gen-z-slang-thats-not-what-it-means/articleshow/130985597.cms",
+    "time": "2026-05-10T02:55:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Global oil tanks running dry at unprecedented pace as Hormuz remains choked",
+    "desc": "Global oil inventories are rapidly depleting due to the Iran war disrupting crude flows from the Persian Gulf, leading to concerns of price spikes and shortages. Asia faces immediate pressure, with some nations potentially experiencing shortages within a month as reserves hit multi-year lows. Strategic reserves are being deployed, but this further weakens the global safety buffer.",
+    "img": "https://static.toiimg.com/photo/msid-130985589,imgsize-328396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/strait-trouble-global-oil-tanks-running-dry-at-unprecedented-pace-as-hormuz-remains-choked/articleshow/130985585.cms",
+    "time": "2026-05-10T02:53:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What’s happening Kerala",
+    "desc": "Congress is deliberating on its Kerala chief minister choice, with V.D. Satheesan, Ramesh Chennithala, and K.C. Venugopal as top contenders. Meetings with the high command are ongoing, with a decision expected imminently. The party is also addressing internal indiscipline following public demonstrations supporting individual leaders.",
+    "img": "https://static.toiimg.com/photo/msid-130985567,imgsize-68438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-hunts-for-consensus-as-camps-flex-muscle-in-cm-battle-whats-happening-kerala/articleshow/130985542.cms",
+    "time": "2026-05-10T02:48:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three-hour meeting fails to end impasse over Congress Chief Minister for Kerala",
+    "desc": "Deepa Dasmunsi, party general secretary in charge of Kerala, told the media after the meeting that the high command had time until May 23 to finalise the candidate; senior leaders said party chief Mallikarjun Kharge and Lok Sabha LoP Rahul Gandhi were visibly dismayed by the poster wars and public marches",
+    "img": "https://th-i.thgim.com/public/incoming/rlh4s4/article70960183.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%2019.38.59.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/impasse-over-congress-chief-minister-for-kerala/article70959697.ece",
+    "time": "2026-05-10T02:28:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay D reacts to b'day wishes: 'Feels like I'm not doing enough'",
+    "desc": "On his 37th birthday, Vijay Deverakonda basked in the overwhelming support from his fans, sharing his sincere appreciation on X. He pledged to elevate his craft, referring to his fanbase as his 'God's Blessing'. Adding to the festive vibe, a vibrant new poster for 'Rowdy Janardhana' surfaced, along with exciting updates about his films 'Ranabaali' and the much-anticipated 'Rowdy Janardhana'.",
+    "img": "https://static.toiimg.com/photo/msid-130985347,imgsize-75608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-reacts-to-overwhelming-birthday-messages-from-his-rowdy-fans-makes-me-feel-like-i-am-not-doing-enough/articleshow/130985300.cms",
+    "time": "2026-05-10T02:16:19.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Another lost trekking season in Kashmir",
     "desc": "Kashmir's adventure tourism sector faces a significant downturn. Trekking routes across the Valley are closed, halting a once-thriving industry. This has impacted local entrepreneurs and staff who relied on adventure activities. While some have relocated, many face an uncertain future. The reopening of key routes like the Great Lakes Trek is crucial for the industry's survival.",
@@ -25,6 +268,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bjp-using-central-agencies-for-political-gains-arvind-kejriwal/articleshow/130985191.cms",
     "time": "2026-05-10T01:51:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' marches towards Rs 1795 cr mark amid OTT release buzz",
+    "desc": "Ranveer Singh's spy drama 'Dhurandhar 2' is reportedly set for an OTT release between May 14-15, following a successful 7-week theatrical run. The film has achieved a remarkable Rs 1,793.29 crore in global collections, with its 52nd day collection showing significant growth. Meanwhile, 'Dhurandhar 3' is confirmed to be in development.",
+    "img": "https://static.toiimg.com/photo/msid-130985217,imgsize-87784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-52-ranveer-singh-sanjay-dutt-rakesh-bedis-film-marches-towards-rs-1795-cr-mark-amid-ott-release-buzz/articleshow/130985218.cms",
+    "time": "2026-05-10T01:37:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,15 +324,6 @@ const newsData_en = [
     "time": "2026-05-10T01:00:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Champaran challenger",
-    "desc": "With the BJP installing its first Chief Minister in Bihar, the JD(U)’s previously reticent Nishant Kumar has taken on the political mantle from his father, Nitish Kumar, and accepted politics as a full-fledged profession for the survival of the party",
-    "img": "https://th-i.thgim.com/public/incoming/6fjhui/article70955235.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20NISHAMT%20KUMAR%20BIHAR%20%202026_05_05_19.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/champaran-challenger-nishant-kumar-begins-political-journey-as-jdu-leader-in-bihar/article70955198.ece",
-    "time": "2026-05-10T00:58:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Drishyam 3' advance booking: Mohanlal film touches Rs 1.80 cr",
     "desc": "Anticipation for 'Drishyam 3' is soaring as advance bookings have already surpassed Rs 1.80 crore worldwide, with expectations to cross Rs 2 crore soon. The highly awaited crime thriller, starring Mohanlal and directed by Jeethu Joseph, continues Georgekutty's family saga. The recently released trailer hints at lingering doubts and an ongoing search for truth, promising another gripping installment.",
@@ -124,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-box-office-collection-day-10-dhanushs-film-sees-small-weekend-growth-collects-rs-1-17-crore/articleshow/130984961.cms",
     "time": "2026-05-10T00:21:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Patriot' BO day 10; Mammootty-Mohanlal film holds steady",
-    "desc": "Despite a star-studded cast and a compelling premise, Mahesh Narayanan's 'Patriot' has garnered a mixed reception. The film's Day 10 collection reached Rs 90 lakhs, bringing its India net total to Rs 29.41 crore. Overseas performance bolstered its worldwide gross to Rs 75.15 crore, though domestic momentum has slowed.",
-    "img": "https://static.toiimg.com/photo/msid-130984890,imgsize-168476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-box-office-collection-day-10-mammootty-mohanlal-film-holds-steady-earns-rs-90-lakh/articleshow/130984885.cms",
-    "time": "2026-05-10T00:06:15.000Z"
   },
   {
     "cat": "Sports",
@@ -199,15 +433,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "What is the Governor’s role in a hung Assembly?",
-    "desc": "Why has Governor Rajendra Arlekar refused to swear in TVK party president Vijay as the new Chief Minister of Tamil Nadu? What is the primary objective of the Governor in such situations? What has the Supreme Court ruled in the past? Is the floor test the best way of proving majority?",
-    "img": "https://th-i.thgim.com/public/incoming/v3h9q7/article70960463.ece/alternates/LANDSCAPE_1200/PTI05_09_2026_000437A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-is-the-governors-role-in-a-hung-assembly/article70958937.ece",
-    "time": "2026-05-09T22:04:05.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Informed Stalin of move, says VCK's Thirumavalavan",
     "desc": "The Vijay-led TVK party's tally surged to 120 after securing support from VCK and IUML, following earlier backing from Congress, CPI, and CPM. IUML cited the public's expectation for a democratic government and the need to prevent political instability and President's Rule in Tamil Nadu.",
     "img": "https://static.toiimg.com/photo/msid-130983018,imgsize-34544.cms",
@@ -252,15 +477,6 @@ const newsData_en = [
     "time": "2026-05-09T21:22:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Koli women chart new waters, set up seafood company",
-    "desc": "Mumbai's Koli women are transforming their traditional fish trade into a corporate venture with Daryavardi Producer Company Limited. This community-owned enterprise, inspired by the Amul model, focuses on streamlined operations, product development, and modern marketing. Learning about improved packaging, they aim to elevate their business from a cottage industry to a significant player in the Blue Economy.",
-    "img": "https://static.toiimg.com/photo/msid-130982898,imgsize-87722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/koli-women-chart-new-waters-set-up-seafood-company/articleshow/130982896.cms",
-    "time": "2026-05-09T21:01:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Playing in IPL has helped upgrade my all-format batting, says Bethell",
     "desc": "The 22-year-old has played just six matches in his ongoing two-year stint with the 2025 champion and has found a place in the playing eleven this time only due to the injury suffered by compatriot Phil Salt",
@@ -268,42 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/playingin-iplhas-helped-upgrade-myall-format-batting-says-bethell/article70960103.ece",
     "time": "2026-05-09T20:58:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pakistan-China expert Lt Gen Subramani named next CDS; Vice Admiral Swaminathan will be new Navy chief",
-    "desc": "Lt Gen NS Raja Subramani (retd) has been appointed the new Chief of Defence Staff, tasked with implementing the theaterisation model. Vice-Admiral Krishna Swaminathan will take over as the next chief of the Indian Navy, focusing on modernization. Both appointments are effective from May 30 and May 31 respectively.",
-    "img": "https://static.toiimg.com/photo/msid-130982895,imgsize-87694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pakistan-china-expert-lt-gen-subramani-named-next-cds-vice-admiral-swaminathan-will-be-new-navy-chief/articleshow/130982873.cms",
-    "time": "2026-05-09T20:57:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India may ramp up development aid for Africa",
-    "desc": "India is set to significantly enhance its economic and development cooperation with Africa, hosting the 4th India-Africa summit after an 11-year hiatus. The government plans to announce major initiatives for development assistance, building on previous commitments of $10 billion in credit and $600 million in grants. The summit will see participation from over 40 heads of state and government.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-may-ramp-up-development-aid-for-africa/articleshow/130982830.cms",
-    "time": "2026-05-09T20:22:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Neetu would fast, go to temples, gurudwaras, churches when Rishi's films didn't work",
-    "desc": "Neetu Kapoor reflects on her teenage romance with Rishi Kapoor, detailing how her life revolved around making him happy and her deep emotional investment in his career. She also discusses the changing nature of marriage due to evolving lifestyles and financial independence, recalling how their disagreements could last for months due to communication challenges.",
-    "img": "https://static.toiimg.com/photo/msid-130982739,imgsize-65222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neetu-kapoor-would-fast-go-to-temples-gurudwaras-churches-when-rishi-kapoors-films-didnt-work-says-the-institution-of-marriage-is-going-down-now/articleshow/130982733.cms",
-    "time": "2026-05-09T19:58:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kiara breaks into tears speaking about postpartum journey after daughter's birth",
-    "desc": "Kiara Advani candidly shared her postpartum journey, detailing the significant identity shift and emotional changes after welcoming her daughter. She highlighted the overwhelming nature of early motherhood and how it took months to prioritize her own well-being. Advani also praised husband Sidharth Malhotra's unwavering support, including nightly drives, which helped her navigate this transformative phase.",
-    "img": "https://static.toiimg.com/photo/msid-130982709,imgsize-40964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-breaks-into-tears-while-speaking-about-postpartum-journey-recalls-sidharth-malhotras-support-after-daughters-birth/articleshow/130982698.cms",
-    "time": "2026-05-09T19:46:50.000Z"
   },
   {
     "cat": "Sports",
@@ -351,24 +531,6 @@ const newsData_en = [
     "time": "2026-05-09T18:19:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sheikh Hasina, Awami League congratulate Suvendu Adhikari",
-    "desc": "The BJP leader supported Hasina in November 2025 when the latter was sentenced to death by the International Crimes Tribunal in Dhaka for her role in the 2024 crackdown; the Awami League is banned in Bangladesh",
-    "img": "https://th-i.thgim.com/public/incoming/rwv37g/article70960298.ece/alternates/LANDSCAPE_1200/20260509525L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sheikh-hasina-awami-league-congratulate-suvendu-adhikari/article70959986.ece",
-    "time": "2026-05-09T18:14:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika drops glimpse into Vijay's 1st birthday celebration after their wedding",
-    "desc": "Rashmika Mandanna shared an adorable birthday note for husband Vijay Deverakonda, detailing their first married birthday celebration. The couple spent the day with family, friends, and fans, culminating in a public greeting and a Ranabaali-themed cake cutting. Vijay's dedication to his upcoming film was also highlighted.",
-    "img": "https://static.toiimg.com/photo/msid-130982069,imgsize-29302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-drops-a-glimpse-into-vijay-deverakondas-first-birthday-celebrations-after-their-wedding-it-was-a-perfect-day/articleshow/130982036.cms",
-    "time": "2026-05-09T18:14:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rashid Khan, Shubman Gill power GT to crushing 77-run win over RR",
     "desc": "Gujarat Titans secured a commanding 77-run victory over Rajasthan Royals, propelled by Shubman Gill's explosive 84 and Rashid Khan's match-winning 4/33 spell. Titans posted a season-high 229/4, with Gill and Sai Sudharsan building a formidable opening stand. Royals faltered chasing the target, collapsing under Rashid's brilliance and succumbing to 152 all out.",
@@ -376,33 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rashid-khan-shubman-gill-power-gujarat-titans-to-crushing-77-run-win-over-rajasthan-royals/articleshow/130981916.cms",
     "time": "2026-05-09T18:04:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka Police to prioritise housing for SC/ST personnel facing caste bias in finding rented accommodation",
-    "desc": "The grievance committee noted that several police personnel belonging to Scheduled Castes and Scheduled Tribes were allegedly being denied rental homes on caste grounds. As a result, many were forced to live in distant areas, affecting their ability to report for duty on time",
-    "img": "https://th-i.thgim.com/public/incoming/srzbvo/article70960284.ece/alternates/LANDSCAPE_1200/13_mn%20New%20quarters%20of%20the%20Mangaluru%20city%20police%20in%20police%20lane.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-police-to-prioritise-housing-for-scst-personnel-facing-caste-bias-in-finding-rented-accommodation/article70946459.ece",
-    "time": "2026-05-09T18:01:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Elton John",
-    "desc": "Renowned music icon Elton John imparts his valuable insights, reminding us that while diligence and strategy are essential, true triumphs often come down to intuition and destiny. He encourages us to seize every moment with passion and conviction, drawing inspiration from his incredible path of overcoming obstacles to achieve global stardom.",
-    "img": "https://static.toiimg.com/photo/msid-130980669,imgsize-32060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-elton-john-you-can-work-as-hard-as-you-like-but-there-are-moments-when-its-just-about-a-hunch/articleshow/130980669.cms",
-    "time": "2026-05-09T17:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamilaga Vettri Kazhagam",
-    "desc": "The political organisation built by actor-turned-politician Vijay, which emerged as the single largest party in the Assembly, declares itself as a secular movement, rooted in the Tamil experience, and committed to social justice and equality",
-    "img": "https://th-i.thgim.com/public/news/national/p6oebd/article70960023.ece/alternates/LANDSCAPE_1200/Vijay_CM_Artxx.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamilaga-vettri-kazhagam-vijay-the-star-who-stormed-into-politics/article70960039.ece",
-    "time": "2026-05-09T17:20:30.000Z"
   },
   {
     "cat": "World",
@@ -423,15 +558,6 @@ const newsData_en = [
     "time": "2026-05-09T17:02:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Three-hour meeting fails to end impasse over Congress Chief Minister for Kerala",
-    "desc": "Deepa Dasmunsi, party general secretary in charge of Kerala, told the media after the meeting that the high command had time until May 23 to finalise the candidate; senior leaders said party chief Mallikarjun Kharge and Lok Sabha LoP Rahul Gandhi were visibly dismayed by the poster wars and public marches",
-    "img": "https://th-i.thgim.com/public/incoming/rlh4s4/article70960183.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%2019.38.59.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/impasse-over-congress-chief-minister-for-kerala/article70959697.ece",
-    "time": "2026-05-09T16:51:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "WFI shoots down Vinesh’s comeback",
     "desc": "The WFI also accused Vinesh of violating the UWW rule by competing in two weights, 50kg and 53kg trials (which was conducted by an ad-hoc committee as the WFI was not recognised by the Government then), in March 2024",
@@ -441,58 +567,22 @@ const newsData_en = [
     "time": "2026-05-09T16:42:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "5 life lessons from Michael Jackson's journey",
-    "desc": "Michael Jackson, the King of Pop, offered profound life lessons beyond his music. He emphasized personal responsibility for change, urging individuals to look inward. Jackson believed in dedicating oneself fully to any endeavor and highlighted love as the ultimate truth. He also asserted that truth ultimately prevails over falsehoods, advocating for hope and healing in a troubled world.",
-    "img": "https://static.toiimg.com/photo/msid-130980862,imgsize-53836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/5-life-lessons-from-michael-jacksons-journey-that-have-been-inspiring-generations/articleshow/130980829.cms",
-    "time": "2026-05-09T16:29:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mumbai Indians drop big Hardik Pandya, Surya update ahead of MI vs RCB clash",
     "desc": "Mumbai Indians will face Royal Challengers Bengaluru without star allrounder Hardik Pandya, who is still being evaluated by the medical team for a back spasm. Suryakumar Yadav will continue to captain the side in Pandya's absence for the crucial IPL 2026 encounter in Raipur.",
-    "img": "https://static.toiimg.com/photo/msid-130978770,imgsize-44788.cms",
+    "img": "https://static.toiimg.com/photo/msid-130986621,imgsize-124398.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-mumbai-indians-drop-big-hardik-pandya-suryakumar-yadav-update-ahead-of-mi-vs-rcb-clash/articleshow/130978779.cms",
     "time": "2026-05-09T16:27:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sonam announces name of second child, here's what Rudralokh means",
-    "desc": "Sonam Kapoor has revealed the name of her second child, Rudralokh Kapoor Ahuja, on social media. She explained the name's spiritual significance, linking it to her elder son Vayu and the divine force of Rudra. The announcement was met with warm congratulations from fans and industry colleagues.",
-    "img": "https://static.toiimg.com/photo/msid-130980812,imgsize-65630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-kapoor-anand-ahuja-announce-name-of-second-child-with-adorable-pics-heres-what-rudralokh-means/articleshow/130980787.cms",
-    "time": "2026-05-09T16:23:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vaibhav Sooryavanshi scripts history, becomes fastest ever to...",
     "desc": "Fifteen-year-old Vaibhav Sooryavanshi became the youngest cricketer globally to hit 100 T20 sixes before turning 20. He achieved this feat during an IPL 2026 match against Gujarat Titans, needing just 514 balls, significantly faster than Kieron Pollard's previous record. This milestone highlights Sooryavanshi's fearless power-hitting and rapid rise in the sport.",
-    "img": "https://static.toiimg.com/photo/msid-130980764,imgsize-149422.cms",
+    "img": "https://static.toiimg.com/photo/msid-130986569,imgsize-36598.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-vaibhav-sooryavanshi-scripts-history-becomes-fastest-ever-to-100-t20-sixes/articleshow/130980777.cms",
     "time": "2026-05-09T16:23:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sangakkara steps in to calm angry Archer after horror 11-ball over",
-    "desc": "Jofra Archer endured a disastrous opening over against Gujarat Titans, conceding 18 runs in an 11-ball spell marked by wides and a no-ball. Visibly frustrated, the pacer's struggles prompted Rajasthan Royals coach Kumar Sangakkara to intervene. The chaotic over saw Gujarat Titans openers capitalize on Archer's wayward bowling.",
-    "img": "https://static.toiimg.com/photo/msid-130980767,imgsize-64188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/kumar-sangakkara-steps-in-to-calm-angry-jofra-archer-after-horror-11-ball-over-watch/articleshow/130980754.cms",
-    "time": "2026-05-09T16:20:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sara, Rakul steer clear on rumours of catfight with Wamiqa",
-    "desc": "Amidst 'Pati Patni Aur Woh Do' promotions, rumors of a rift between leading ladies Sara Ali Khan and Rakul Preet Singh have been quashed. Both actresses clarified that there's no animosity, emphasizing professional respect and teamwork. Director Mudassar Aziz's script, they stated, ensures distinct roles, fostering a collaborative spirit for the film's success.",
-    "img": "https://static.toiimg.com/photo/msid-130980699,imgsize-58708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-ali-khan-rakul-preet-singh-steer-clear-on-rumours-of-catfight-with-wamiqa-gabbi-you-arent-going-to-be-silly/articleshow/130980691.cms",
-    "time": "2026-05-09T16:14:15.000Z"
   },
   {
     "cat": "World",
@@ -531,24 +621,6 @@ const newsData_en = [
     "time": "2026-05-09T15:11:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "The most perfect movie speeches of all time you should watch",
-    "desc": "Some of cinema's most unforgettable moments are not action sequences or plot twists but a single person standing in front of others and finding exactly the right words. These are the speeches that made audiences lean forward in their seats, the ones that have been quoted, studied, and rewatched so many times they have become part of the cultural fabric. Here are seven of the most perfect movie speeches ever committed to screen.",
-    "img": "https://static.toiimg.com/photo/msid-130952767,imgsize-64844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-most-perfect-movie-speeches-of-all-time-you-should-watch-scent-of-a-woman-blade-runner-and-more/photostory/130952767.cms",
-    "time": "2026-05-09T15:09:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kevin McKidd talks rumors of ‘Harry Potter’ casting",
-    "desc": "Kevin McKidd, known for his role on 'Grey's Anatomy', lightheartedly responded to speculation about casting in the 'Harry Potter' films, especially the character of Arthur Weasley. A confessed fan of the magical universe, he shared that he once had the opportunity to be a part of the franchise but turned it down due to prior obligations.",
-    "img": "https://static.toiimg.com/photo/msid-130979855,imgsize-69628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kevin-mckidd-reacts-to-rumours-of-being-cast-in-harry-potter-series-after-greys-anatomy-exit-never-say-never/articleshow/130979709.cms",
-    "time": "2026-05-09T15:04:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shubman Gill-Sai Sudharsan equal all-time IPL record",
     "desc": "Shubman Gill and Sai Sudharsan achieved a significant milestone for Gujarat Titans, registering their sixth century partnership for the opening wicket in IPL 2026. This remarkable feat against Rajasthan Royals matches the IPL record held by legendary opening pairs from Sunrisers Hyderabad. The duo's dominant performance once again provided a strong foundation for their team.",
@@ -556,33 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-shubman-gill-sai-sudharsan-equal-all-time-ipl-record/articleshow/130979786.cms",
     "time": "2026-05-09T14:57:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Archer's horror first over against GT enters unwanted IPL record books",
-    "desc": "Jofra Archer endured a forgettable start to his IPL 2026 campaign, bowling an 11-ball over for Rajasthan Royals against Gujarat Titans. Conceding 18 runs, Archer's struggles with line and rhythm saw him join an unwanted list of bowlers with the longest overs in IPL history. The dramatic over featured wides, a no-ball, and fielding lapses.",
-    "img": "https://static.toiimg.com/photo/msid-130979388,imgsize-23382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jofra-archers-horror-first-over-against-gujarat-titans-enters-unwanted-ipl-record-books/articleshow/130979307.cms",
-    "time": "2026-05-09T14:29:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I carried a lot of drinks’- Donovan Ferreira opens up on long wait for opportunities",
-    "desc": "Donovan Ferreira credits his IPL success this season to years of waiting for opportunities. Having finally secured regular game time with Rajasthan Royals, the South African batter is relishing his role as a finisher. His fearless hitting in the death overs has been crucial, fueled by a strong desire to prove himself after limited chances in previous seasons.",
-    "img": "https://static.toiimg.com/photo/msid-130979217,imgsize-166872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-i-carried-a-lot-of-drinks-donovan-ferreira-opens-up-on-long-wait-for-ipl-opportunities/articleshow/130979233.cms",
-    "time": "2026-05-09T14:23:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Big B on work ethics, says social media scrolling, family, friends are distractions",
-    "desc": "Amitabh Bachchan shares insights from his blog. He discusses Steve Jobs' focus philosophy, separating essential tasks from distractions. Bachchan also reflects on social media's impact on information and attention spans. He notes how technology has changed communication. The actor was last seen in Kalki 2898 AD.",
-    "img": "https://static.toiimg.com/photo/msid-130978937,imgsize-70612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-talks-about-work-ethics-and-how-social-media-scrolling-spending-more-time-with-family-friends-are-distractions-from-the-focus/articleshow/130978920.cms",
-    "time": "2026-05-09T14:06:48.000Z"
   },
   {
     "cat": "World",
@@ -619,24 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-will-lucknow-spoil-chennais-party-the-ipl-show/article70959316.ece",
     "time": "2026-05-09T13:33:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Rajasthan Royals will wear special pink jerseys against Gujarat Titans",
-    "desc": "Rajasthan Royals will don special pink jerseys for their IPL 2026 clash against Gujarat Titans, highlighting their 'Pink Promise Match' initiative. This event supports women-led development in Rajasthan, with solar electrification for six homes for every six hit. The unique jersey design, by 19-year-old Samiksha Rameshwar Mundada, symbolizes empowerment and community change.",
-    "img": "https://static.toiimg.com/photo/msid-130978107,imgsize-138370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-rajasthan-royals-will-wear-special-pink-jerseys-against-gujarat-titans/articleshow/130978120.cms",
-    "time": "2026-05-09T13:11:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Are Shedge, kya batting keli re': Suryansh reveals special chat with Rohit",
-    "desc": "Young allrounder Suryansh Shedge cherishes praise from Rohit Sharma after his explosive batting in the Syed Mushtaq Ali Trophy. He also shares valuable insights from heart-to-heart conversations with PBKS coach Ricky Ponting and captain Shreyas Iyer, focusing on preparation and staying present. Shedge is also receiving guidance from Jatin Paranjape on embracing the current moment.",
-    "img": "https://static.toiimg.com/photo/msid-130977365,imgsize-30100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-are-shedge-kya-batting-keli-re-punjab-kings-suryansh-shedge-reveals-special-chat-with-rohit-sharma/articleshow/130977345.cms",
-    "time": "2026-05-09T12:25:40.000Z"
   },
   {
     "cat": "Business",
@@ -801,15 +828,6 @@ const newsData_en = [
     "time": "2026-05-08T23:52:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Can't hold fuel losses indefinitely: Officials; crude averages $105 a barrel in May so far",
-    "desc": "Soaring crude oil prices, averaging $105.4 a barrel, are straining oil companies' finances as they sell fuel below cost. Despite government excise duty cuts, losses are unsustainable. Experts suggest gradual price hikes and innovative strategies to manage the transition to renewables while supporting companies' investments and the macroeconomy.",
-    "img": "https://static.toiimg.com/photo/msid-130968969,imgsize-31398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/cant-hold-fuel-losses-indefinitely-officials-crude-averages-105-a-barrel-in-may-so-far/articleshow/130968966.cms",
-    "time": "2026-05-08T23:47:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India scripts history, trounces Lebanon to make U17 Asian Cup quarterfinals",
     "desc": "India will face hosts China in the quarterfinal; India’s entry was confirmed after the Philippines and Chinese Taipei failed to win their final head-to-head Group C match by a margin of 12 goals or more",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/main-actor-nahin-hoon-movie-review-nawazuddin-siddiqui-aditya-kripalani-chitrangada-satarupa/article70954595.ece",
     "time": "2026-05-08T11:03:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump says Iran talks advancing despite rising tensions at Hormuz",
-    "desc": "U.S. President Donald Trump says Washington is negotiating with Iran despite a fresh exchange of fire, while maintaining that a ceasefire remains in place. Trump also suggested a deal could be reached soon, even as tensions persist in the Strait of Hormuz.",
-    "img": "https://th-i.thgim.com/public/incoming/9nj7cg/article70953923.ece/alternates/LANDSCAPE_1200/Rangasamy%20%204.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/trump-says-iran-talks-advancing-despite-rising-tensions-at-hormuz/article70953926.ece",
-    "time": "2026-05-08T04:58:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee falls 45 paise to 94.67 against U.S. dollar",
-    "desc": "At the interbank foreign exchange market, the rupee opened at 94.58 against the U.S. dollar, then lost momentum and touched 94.67 against the American currency, registering a fall of 45 paise over its previous close",
-    "img": "https://th-i.thgim.com/public/incoming/h1vn0u/article70953889.ece/alternates/LANDSCAPE_1200/Weekly-rupee-viGJGFSO918.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-falls-45-paise-to-9467-against-us-dollar/article70953864.ece",
-    "time": "2026-05-08T04:50:51.000Z"
   }
 ];
