@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Chennai Super Kings look to maintain winning ways",
+    "desc": "The stage is set for the 53rd game of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will be taking on Lucknow Super Giants at the MA Chidambaram Stadium in Chennai on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-lsg-live-cricket-score-chennai-super-kings-look-to-maintain-winning-ways-2026-05-10-1040581",
+    "time": "2026-05-10T09:21:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Out of the race': Wasim Jaffer predicts struggling side to miss out on IPL 2026 playoffs",
+    "desc": "The IPL (Indian Premier League) 2026 playoffs race is heating up. With the top six sides going at it for a shot at the top four, the race is slowly becoming interesting, with many teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/out-of-the-race-wasim-jaffer-predicts-struggling-side-to-miss-out-on-ipl-2026-playoffs-2026-05-10-1040580",
+    "time": "2026-05-10T09:08:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer slams Yashasvi Jaiswal's captaincy after GT dominate RR in Jaipur",
+    "desc": "Rajasthan Royals sustained a hefty loss against Gujarat Titans in the 52nd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 9th,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-slams-yashasvi-jaiswal-s-captaincy-after-gt-dominate-rr-in-jaipur-2026-05-10-1040576",
+    "time": "2026-05-10T08:00:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Chennai fare for IPL 2026 game 53?",
+    "desc": "The stage is set for the 53rd game of the ongoing IPL (Indian Premier League). Five-time champions Chennai Super Kings will be taking on Lucknow Super Giants at the MA Chidambaram Stadium in Chennai on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-lsg-weather-report-how-will-weather-in-chennai-fare-for-ipl-2026-game-53-2026-05-10-1040566",
+    "time": "2026-05-10T06:41:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pep Guardiola shows support for West Ham as Premier League title race heats up",
     "desc": "The ongoing Premier League season is approaching its end. With just a few match weeks left, it is worth noting that Arsenal are still in the lead and looking to become the league champions for...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-shubman-gill-shine-as-gt-march-to-second-in-ipl-2026-points-table-with-rr-win-2026-05-09-1040535",
     "time": "2026-05-09T17:41:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi downs world records with just one six in RR vs GT IPL 2026 clash",
-    "desc": "Rajasthan Royals teenage sensation Vaibhav Sooryavanshi shattered world records with his first six in the clash against the Gujarat Titans at the Sawai Mansingh Stadium on Saturday, May 9. Sooryavanshi, the 15-year-old prodigy, has made...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-downs-world-records-with-just-one-six-in-rr-vs-gt-ipl-2026-clash-2026-05-09-1040532",
-    "time": "2026-05-09T16:58:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PBKS act swiftly on BCCI's social media and hotel access guidelines, to hold meeting with players",
-    "desc": "Punjab Kings have acted swiftly on the Board of Control for Cricket in India's (BCCI) new social media and hotel access guidelines. The Kings will hold a meeting with the players after their net session...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-act-swiftly-on-bccis-social-media-and-hotel-access-guidelines-to-hold-meeting-with-players-2026-05-09-1040528",
-    "time": "2026-05-09T15:43:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jofra Archer bowls 11 balls in one over, registers all-time unwanted record during RR vs GT IPL 2026 clash",
-    "desc": "Jofra Archer achieved an all-time unwanted record as he bowled as many as 11 balls in the first over for Rajasthan Royals in the clash against the Gujarat Titans on Saturday, May 9. Archer was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-bowls-11-balls-in-one-over-registers-all-time-unwanted-record-during-rr-vs-gt-ipl-2026-clash-2026-05-09-1040525",
-    "time": "2026-05-09T14:57:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Rajasthan Royals wearing special pink jersey during IPL 2026 clash against Gujarat Titans?",
-    "desc": "Rajasthan Royals took the field in a special pink jersey for their Indian Premier League 2026 clash against the Gujarat Titans at the Sawai Mansingh Stadium in Jaipur. The Royals are without their captain, Riyan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-rajasthan-royals-wearing-special-pink-jersey-during-ipl-2026-clash-against-gujarat-titans-2026-05-09-1040519",
-    "time": "2026-05-09T14:02:20.000Z"
   }
 ];
