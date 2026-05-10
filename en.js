@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Railways staring at higher electricity costs after Supreme Court rules it qualifies as ‘consumer’",
+    "desc": "Indian Railways faces increased electricity costs following a Supreme Court ruling. The court declared the national transporter a \"consumer\" under the Electricity Act, making it liable for cross-subsidy and additional surcharges on open access power. This decision impacts the railways' operating ratio and power procurement expenses, overturning previous exemptions.",
+    "img": "https://static.toiimg.com/photo/msid-130998086,imgsize-940414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/railways-staring-at-higher-electricity-costs-after-supreme-court-rules-it-qualifies-as-consumer/articleshow/130998079.cms",
+    "time": "2026-05-10T18:38:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Secretary-General",
+    "desc": "Any disruption in the Indian Ocean will have a deep impact on the economy across the region, says Sanjiv Ranjan, Secretary-General of the Indian Ocean Rim Association; war in West Asia overshadows India’s agenda for IORA summit next year, marking 30 years of the grouping",
+    "img": "https://th-i.thgim.com/public/incoming/iwjc5k/article70963400.ece/alternates/LANDSCAPE_1200/11_SANJIV_RANJAN_07_05_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maritime-safety-and-security-is-of-primordial-importance-to-indian-ocean-region-secretary-general/article70962579.ece",
+    "time": "2026-05-10T18:38:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Highway PPP projects opened to PE, pension and venture funds",
+    "desc": "Government has opened highway project bids to venture capital, private equity, infrastructure, and pension funds, a significant policy change. This move aims to attract substantial private investment by allowing these financially robust entities to partner with experienced construction firms.",
+    "img": "https://static.toiimg.com/photo/msid-130998072,imgsize-834631.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/highway-ppp-projects-opened-to-pe-pension-and-venture-funds/articleshow/130998018.cms",
+    "time": "2026-05-10T18:37:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma-Naman Dhir catch confusion costs MI as RCB seal dramatic last-ball win",
+    "desc": "Royal Challengers Bengaluru snatched a dramatic victory from Mumbai Indians on the final ball in Raipur. Krunal Pandya's valiant 73 was ended by a spectacular catch, but RCB still needed 18 from 12. Despite Jasprit Bumrah's tight penultimate over, Raj Bawa couldn't defend the target, leading to a thrilling last-ball win for Bengaluru.",
+    "img": "https://static.toiimg.com/photo/msid-130997872,imgsize-1344693.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-tilak-varma-naman-dhir-catch-confusion-costs-mi-as-rcb-seal-dramatic-last-ball-win/articleshow/130997795.cms",
+    "time": "2026-05-10T18:24:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Breastfeeding and ‘bouncing back’ should not be romanticised",
+    "desc": "Soha Ali Khan recently opened up about the unrealistic expectations placed on mothers, saying that certain aspects of motherhood — especially breastfeeding and postpartum recovery — should stop being romanticised. The actress, who is married to Kunal Kemmu and shares daughter Inaaya Naumi Kemmu with him, spoke about the emotional and physical challenges women go through after childbirth.",
+    "img": "https://static.toiimg.com/photo/msid-130997504,imgsize-64580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/soha-ali-khan-says-breastfeeding-and-bouncing-back-after-pregnancy-should-not-be-romanticised-we-always-put-ourselves-last/articleshow/130997395.cms",
+    "time": "2026-05-10T18:06:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Move to secure technical sanction for STP in West Hill sparks protest",
+    "desc": "District Collector issues the direction at a recent meeting attended by officials from the Kozhikode Corporation, District Suchitwa Mission, State Pollution Control Board, and Local Self-Government department to initiate steps to obtain technical sanction for the project",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/opposition-mounts-over-move-to-secure-technical-sanction-for-west-hill-stp-project/article70961968.ece",
+    "time": "2026-05-10T17:45:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Governor’s role in government formation | Explained",
+    "desc": "What does Article 164(1) say about the appointment of the Chief Minister? When does the Governor use discretionary powers? Which commissions recommended guidelines for government formation in a hung Assembly? Why has the conduct of Governors in hung Assemblies raised concerns?",
+    "img": "https://th-i.thgim.com/public/incoming/cjtah2/article70963246.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000207B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/governors-role-in-government-formation-explained/article70962222.ece",
+    "time": "2026-05-10T17:42:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Please speed up my returns': Rahul Gandhi's response to his 'BJP-supporter' financer wins internet",
+    "desc": "A mutual fund distributor, a long-time BJP supporter, shared how Rahul Gandhi maintained a professional relationship despite political differences. Gandhi humorously responded, urging faster investment returns. This light-hearted exchange garnered significant attention online, with many praising the civility and humor, while some questioned the professional ethics of revealing the client relationship.",
+    "img": "https://static.toiimg.com/photo/msid-130996974,imgsize-837703.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/please-speed-up-my-returns-rahul-gandhis-response-to-his-bjp-supporter-financer-wins-internet/articleshow/130996870.cms",
+    "time": "2026-05-10T17:36:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Ariana Grande",
+    "desc": "Pop sensation Ariana Grande reflects on love's dual nature, calling it both terrifying and beautiful. She shared in a 2013 interview that despite the risks, love offers invaluable growth, knowledge, and cherished memories. Grande's personal journey and upcoming music, including her album 'Petal,' highlight her evolving experiences with relationships and her return to acting.",
+    "img": "https://static.toiimg.com/photo/msid-130995340,imgsize-29678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-by-ariana-grande-love-is-a-really-scary-thing-and-you-never-know-whats-going-to-happen-its-worth-the-fear/articleshow/130995214.cms",
+    "time": "2026-05-10T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I-PAC emerges as Trinamool’s fall guy after West Bengal Assembly poll debacle",
+    "desc": "Working for Trinamool Congress since 2021, political consultancy firm I-PAC has been instrumental in several past electoral victories for party; after 2026 Assembly poll debacle, a section of party leaders are blaming I-PAC for defeat",
+    "img": "https://th-i.thgim.com/public/incoming/uec3kb/article70963270.ece/alternates/LANDSCAPE_1200/PTI04_01_2025_000197A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/i-pac-emerges-as-trinamools-fall-guy-after-west-bengal-assembly-poll-debacle/article70962968.ece",
+    "time": "2026-05-10T17:01:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2 Indians safe after Hantavirus scare on cruise ship near Spain",
+    "desc": "Two Indian crew members aboard the Dutch cruise ship MV Hondius, which anchored off Spain due to a hantavirus scare, are confirmed healthy and asymptomatic. Evacuated to the Netherlands for quarantine, their well-being is being closely monitored by Indian authorities in coordination with Spanish officials. This incident highlights global health vigilance.",
+    "img": "https://static.toiimg.com/photo/msid-130995924,imgsize-1122571.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2-indians-safe-after-hantavirus-scare-on-cruise-ship-near-spain/articleshow/130995823.cms",
+    "time": "2026-05-10T16:43:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Golden duck! Virat Kohli equals unwanted IPL milestone against MI",
+    "desc": "Virat Kohli's IPL 2026 campaign hit a new low with a golden duck against Mumbai Indians, his second consecutive failure. Deepak Chahar claimed the crucial wicket, adding to Kohli's struggles against MI. Earlier, Mumbai Indians posted 166/7 despite a poor start, thanks to Tilak Varma's fifty and Naman Dhir's contribution.",
+    "img": "https://static.toiimg.com/photo/msid-130995848,imgsize-844563.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-falls-for-back-to-back-ducks-as-deepak-chahar-stuns-rcb-early/articleshow/130995728.cms",
+    "time": "2026-05-10T16:42:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "WFH, postpone foreign travel, use metro: PM Modi's 9 suggestions to mitigate impact of global crisis",
+    "desc": "Prime Minister Narendra Modi has urged citizens to adopt lifestyle changes to conserve foreign exchange and mitigate the economic impact of global energy crises. Key suggestions include reducing fuel consumption by using public transport, carpooling, and opting for electric vehicles, alongside reviving work-from-home policies and limiting discretionary spending on gold and foreign travel.",
+    "img": "https://static.toiimg.com/photo/msid-130995546,imgsize-35032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wfh-postpone-foreign-travel-use-metro-pm-modis-9-suggestions-to-mitigate-impact-of-global-crisis/articleshow/130995436.cms",
+    "time": "2026-05-10T16:26:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kiara reveals emotional story behind her Met Gala debut look",
+    "desc": "Kiara Advani recently opened up about the emotional story behind her much-talked-about Met Gala 2025 debut appearance. From revealing how her pregnancy became the inspiration behind the outfit to sharing how nervous she initially was about attending the global fashion event, the actress candidly spoke about the experience.",
+    "img": "https://static.toiimg.com/photo/msid-130995381,imgsize-72804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-reveals-emotional-story-behind-her-viral-met-gala-2025-debut-look-i-wanted-my-pregnancy-to-be-part-of-it/articleshow/130995298.cms",
+    "time": "2026-05-10T16:19:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I just wanted to...': Urvil Patel opens up after joint-fastest IPL fifty",
+    "desc": "Urvil Patel's explosive 65 off 23 balls, including a 13-ball fifty, powered Chennai Super Kings to a memorable victory. Simple instructions from coaches and captain Ruturaj Gaikwad, focusing on a stable base and hitting, were key to his record-equalling power-hitting display. Patel's fearless approach shattered records and set a new benchmark for batting at Chepauk.",
+    "img": "https://static.toiimg.com/photo/msid-130995386,imgsize-100760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-i-just-wanted-to-bat-according-to-the-situation-urvil-patel-opens-up-after-joint-fastest-ipl-fifty/articleshow/130995376.cms",
+    "time": "2026-05-10T16:19:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED probing alleged scams worth nearly ₹4,000 crore across the education sector",
+    "desc": "The latest case involves entities linked to Al-Falah Group, in which the agency recently re-arrested Group chief Jawad Ahmad Siddiqui for his alleged role in the use of forged papers to acquire land in Delhi.",
+    "img": "https://th-i.thgim.com/public/news/national/t7bv41/article70963125.ece/alternates/LANDSCAPE_1200/vbk-stock-enforcement%20directorate-ed1-reuters.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ed-probing-alleged-scams-worth-nearly-4000-crore-across-the-education-sector/article70962812.ece",
+    "time": "2026-05-10T16:01:21.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Amit Behl says Tanushree’s MeToo case against Nana was ‘false’",
     "desc": "Actor and former CINTAA senior executive committee member Amit Behl has spoken about handling the MeToo movement within the entertainment industry, claiming that while most allegations were genuine, some cases lacked substance including Tanushree Dutta's case against Nana Patekar and Horn Ok Pleassss director Rakesh Sarang. Amit also reflected on the emotional toll the movement took on him and the shocking names that surfaced during the period.",
@@ -7,6 +151,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amit-behl-says-tanushree-duttas-metoo-case-against-nana-patekar-was-false-no-physical-assault-involved-it-was-body-shaming/articleshow/130994671.cms",
     "time": "2026-05-10T15:33:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK chase 180-plus total after six years as Urvil Patel turns Chepauk into six-hitting show",
+    "desc": "Asked to bat first, LSG got off to a flying start through Josh Inglis, who smashed 85 off 33 balls as the visitors raced to 91 runs in the powerplay. However, CSK bowlers fought back strongly after the field restrictions, with Jamie Overton returning figures of 3/36 to help restrict LSG to 203/8.",
+    "img": "https://static.toiimg.com/photo/msid-130994774,imgsize-49932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/csk-finally-chase-180-plus-total-in-ipl-after-six-years-as-urvil-patel-turns-chepauk-into-six-hitting-show/articleshow/130994757.cms",
+    "time": "2026-05-10T15:28:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -43,24 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/how-us-iran-war-is-making-life-more-expensive-for-indians/articleshow/130994278.cms",
     "time": "2026-05-10T15:19:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi assures more support to Telangana, asks CM Revanth to collaborate with him",
-    "desc": "PM Narendra Modi inaugurates or lays foundation stone for Zaheerabad Industrial Park (National Investment and Manufacuting Zone), IOC terminal at Malkapur, multi-tracking of railway line between Kazipet and Vijayawada and PM Mitra Park in Warangal",
-    "img": "https://th-i.thgim.com/public/incoming/a0mifn/article70962164.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000367B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/centre-to-support-telangana-more-vigorously-pm-modi-in-hyderabad/article70962140.ece",
-    "time": "2026-05-10T15:12:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delay in textbook printing triggers political row ahead of school reopening",
-    "desc": "As per a workers’ union at the Kerala Books and Publication Society, only around 70% of the textbooks have been printed. Union leader says dues amounting to nearly ₹15 crore remain uncleared and the previous govt. could not ensure enough paper supply. KBPS MD denies charges, says issues have been resolved",
-    "img": "https://th-i.thgim.com/public/incoming/2t7ckp/article70962871.ece/alternates/LANDSCAPE_1200/80691_12_3_2026_13_1_20_1_MINISTER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/delay-in-textbook-printing-triggers-political-row-ahead-of-school-reopening/article70962611.ece",
-    "time": "2026-05-10T14:55:52.000Z"
   },
   {
     "cat": "Business",
@@ -108,13 +243,13 @@ const newsData_en = [
     "time": "2026-05-10T14:19:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Andhra Pradesh govt.’s move to help local products earn global brand recognition",
-    "desc": "The State initiates steps to develop Product Perfection Clusters in the Amaravati, Visakhapatnam and Tirupati economic regions to provide necessary support to industries, especially MSMEs, conforming to quality control standards, creating advanced logistics networks, doing international benchmarking and integrating them into the production cycle",
-    "img": "https://th-i.thgim.com/public/incoming/vdsddz/article70962629.ece/alternates/LANDSCAPE_1200/BLEFTB29_Araku_coffee_5.jpg",
+    "cat": "World",
+    "title": "15 security officials killed in militant attack in northwest Pakistan",
+    "desc": "The impact of the explosion led to the collapse of the roofs of several houses in the vicinity. The police post building was also razed to the ground, and several security personnel were buried under the rubble",
+    "img": "https://th-i.thgim.com/public/incoming/81gkn8/article70962546.ece/alternates/LANDSCAPE_1200/Pakistan_Suicide_Attack_1_748.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govts-move-to-help-local-products-earn-global-brand-recognition/article70962305.ece",
-    "time": "2026-05-10T14:03:53.000Z"
+    "url": "https://www.thehindu.com/news/international/15-security-officials-killed-in-militant-attack-in-northwest-pakistan/article70962458.ece",
+    "time": "2026-05-10T14:04:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -124,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-anne-hathaways-mom-corrected-her-posture-during-the-academy-awards-in-front-of-a-billion-people/articleshow/130993599.cms",
     "time": "2026-05-10T14:03:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Opposition mounts over move to secure technical sanction for West Hill STP project",
-    "desc": "District Collector issues the direction at a recent meeting attended by officials from the Kozhikode Corporation, District Suchitwa Mission, State Pollution Control Board, and Local Self-Government department to initiate steps to obtain technical sanction for the project",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/opposition-mounts-over-move-to-secure-technical-sanction-for-west-hill-stp-project/article70961968.ece",
-    "time": "2026-05-10T13:59:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -160,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-recalls-struggling-after-fugly-failed-even-ms-dhoni-didnt-help-much-after-kabir-singh-there-was-no-looking-back/articleshow/130993276.cms",
     "time": "2026-05-10T13:43:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "15 security officials killed in militant attack in northwest Pakistan",
-    "desc": "The impact of the explosion led to the collapse of the roofs of several houses in the vicinity. The police post building was also razed to the ground, and several security personnel were buried under the rubble",
-    "img": "https://th-i.thgim.com/public/incoming/81gkn8/article70962546.ece/alternates/LANDSCAPE_1200/Pakistan_Suicide_Attack_1_748.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/15-security-officials-killed-in-militant-attack-in-northwest-pakistan/article70962458.ece",
-    "time": "2026-05-10T13:35:54.000Z"
   },
   {
     "cat": "Sports",
@@ -205,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-urvil-patel-scripts-history-smashes-joint-fastest-ever-fifty-in-ipl-vs-lsg/articleshow/130992729.cms",
     "time": "2026-05-10T12:58:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK rally after Inglis blitz to stop LSG at 203/8",
-    "desc": "A lot of credit for the CSK comeback must go to Jamie Overton (3/36), who took the big wickets of Inglis and Rishabh Pant in a space of three balls, before Shahbaz Ahmed chipped in with an useful 43 off 25 balls.",
-    "img": "https://th-i.thgim.com/public/incoming/44sn5r/article70962340.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000480A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-chennai-super-kings-vs-lucknow-super-giants/article70961999.ece",
-    "time": "2026-05-10T12:39:45.000Z"
   },
   {
     "cat": "Politics",
@@ -450,15 +558,6 @@ const newsData_en = [
     "time": "2026-05-10T09:12:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A shared songbook, Runa Laila reassuring constant in delicate Indo-Bangla ties",
-    "desc": "Runa Laila, celebrating 50 years in Hindi films, continues to bridge India and Bangladesh through her music. Her powerful voice, first heard in 'Ek Se Badhkar Ek,' has been a constant amidst political shifts. Receiving the Minar-e-Dilli award, she emphasized music's healing power, a sentiment echoed by fans who find solace in her melodies.",
-    "img": "https://static.toiimg.com/photo/msid-130989685,imgsize-1292602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-shared-songbook-runa-laila-reassuring-constant-in-delicate-indo-bangla-ties/articleshow/130989692.cms",
-    "time": "2026-05-10T09:03:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Middle East turmoil to keep oil prices elevated for years, dent India’s GDP growth: ADB chief economist",
     "desc": "Asian Development Bank Chief Economist Albert Park forecasts elevated crude oil prices, averaging $96 per barrel in 2026 and $80 in 2027, due to prolonged Middle East tensions. This outlook suggests a 0.6% reduction in India's GDP growth for FY27, pushing inflation to 6.9% amid reliance on imported oil and gas.",
@@ -466,24 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-turmoil-to-keep-oil-prices-elevated-for-years-dent-indias-gdp-growth-adb-chief-economist/articleshow/130989453.cms",
     "time": "2026-05-10T09:02:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay’s cousin sisters write letter for him: 'Stronger than ever'",
-    "desc": "Vijay, the celebrated Tamil film icon, recently embraced his new role as Chief Minister of Tamil Nadu, an event that resonated deeply with his family. His cousin sisters wrote a poignant letter recognizing his dedication to public service, while his father, SA Chandrasekhar, revealed his overwhelming pride, stating that Vijay’s achievement is a collective win for the Tamil people. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130989382,imgsize-122412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/stronger-than-ever-always-our-vijay-anna-jana-nayagan-stars-cousin-sisters-keerthana-and-pallavi-surendar-pen-emotional-letter-before-swearing-in-ceremony-as-tamil-nadu-cm/articleshow/130989168.cms",
-    "time": "2026-05-10T08:40:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He is going to entertain you': R Ashwin backs Sooryavanshi for all-format superstar",
-    "desc": "Ravichandran Ashwin has lauded Rajasthan Royals' 15-year-old sensation Vaibhav Sooryavanshi, calling him a \"box-office player\" with the potential to represent India in all three formats. Despite RR's loss, Sooryavanshi impressed with his fearless batting, scoring 440 runs at a strike rate of 236.56 this IPL season.",
-    "img": "https://static.toiimg.com/photo/msid-130989353,imgsize-625829.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/he-is-going-to-entertain-you-r-ashwin-backs-vaibhav-sooryavanshi-for-indias-all-format-superstar/articleshow/130989330.cms",
-    "time": "2026-05-10T08:29:52.000Z"
   },
   {
     "cat": "Sports",
@@ -495,24 +576,6 @@ const newsData_en = [
     "time": "2026-05-10T08:24:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sara shares RARE throwback of Amrita on Mother’s Day 2026",
-    "desc": "Sara Ali Khan celebrated Mother's Day by sharing rare throwback photos of her mother Amrita Singh on Instagram, with fans noting their striking resemblance. The actress also opened up about the strong bond of her 'Pati Patni Aur Woh 2' cast. The film releases in theatres on May 15, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130989263,imgsize-30168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pati-patni-aur-woh-actress-sara-ali-khan-shares-rare-throwback-of-amrita-singh-on-mothers-day-2026-will-always-try-to-be-like-her/articleshow/130989263.cms",
-    "time": "2026-05-10T08:21:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Money’s all there': Stalin reacts to Vijay’s first speech, says Tamil Nadu debt 'well within permissible limits'",
-    "desc": "Tamil Nadu's new Chief Minister Vijay claimed the previous government left a Rs 10 lakh crore debt and an empty treasury. However, former CM M.K. Stalin refuted this, stating the state's debt is within limits and urging Vijay not to start his tenure with such claims. Vijay vowed transparency and prioritizing public welfare.",
-    "img": "https://static.toiimg.com/photo/msid-130988993,imgsize-40170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/moneys-all-there-stalin-reacts-to-vijays-first-speech-says-tamil-nadu-debt-well-within-permissible-limits/articleshow/130988964.cms",
-    "time": "2026-05-10T07:54:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Foreign portfolio investiors withdrew Rs 14,231 crore from Indian equities",
     "desc": "Foreign portfolio investors have withdrawn over Rs 2 lakh crore from Indian equities in 2026, with May seeing further outflows of Rs 14,231 crore. Persistent global macroeconomic uncertainties, including inflation and interest rate concerns, are driving this trend, making developed market debt more attractive. Despite overall selling, some selective interest remains in specific sectors and growth-oriented mid and small-cap stocks.",
@@ -520,42 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-may-trade-global-jitters-keep-fpis-on-edge-rs-14231-crore-pulled-out-in-may/articleshow/130988643.cms",
     "time": "2026-05-10T07:35:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Vile, brazen &amp; mischievous': CJI Surya Kant slams casteist remarks attributed to him on social media",
-    "desc": "Chief Justice of India Surya Kant has vehemently denied a fabricated social media quote attributed to him, calling the act \"vile, brazen and mischievous.\" The CJI stated that manufacturing and attributing such a quote to the highest judicial office is an act of dishonesty and social incitement.",
-    "img": "https://static.toiimg.com/photo/msid-130988792,imgsize-924454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vile-brazen-mischievous-cji-surya-kant-slams-casteist-remarks-attributed-to-him-on-social-media/articleshow/130988577.cms",
-    "time": "2026-05-10T07:25:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pawan Kalyan congratulates new Tamil Nadu CM Vijay",
-    "desc": "In a significant career shift, Thalapathy Vijay officially became Tamil Nadu's Chief Minister on May 10, 2026, a moment celebrated by industry peers such as Pawan Kalyan, R Madhavan, and Kamal Haasan who expressed their support. During his first address, he promised a governance model centered on integrity, social welfare, and the elimination of corruption, prioritizing the safety of women. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130988619,imgsize-57646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-congratulates-new-tamil-nadu-cm-vijay-i-wish-the-new-government-will-fulfil-the-aspirations-of-the-people/articleshow/130988540.cms",
-    "time": "2026-05-10T07:14:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deepika delivers as India beat China to clinch Archery World Cup gold",
-    "desc": "India’s women’s recurve archery team won a dramatic gold medal at the Archery World Cup in Shanghai after defeating hosts China 5-4 in a shoot-off. Deepika Kumari, Ankita Bhakat and teenager Kumkum Mohod held their nerve after a tense final ended 4-4. India had earlier stunned South Korea in the semifinals, securing their first women’s recurve World Cup gold since 2021.",
-    "img": "https://static.toiimg.com/photo/msid-130988528,imgsize-67062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/deepika-kumari-delivers-as-india-beat-china-to-clinch-gold-in-archery-world-cup-stage-2/articleshow/130988412.cms",
-    "time": "2026-05-10T07:07:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan breaks into top 10, surpasses Lasith Malinga",
-    "desc": "Rashid Khan achieved a significant IPL milestone, entering the top 10 wicket-takers with figures of 4/33 against Rajasthan Royals. His stellar performance, earning him Player of the Match, saw him surpass Lasith Malinga on the all-time list. Gujarat Titans secured an emphatic 77-run victory.",
-    "img": "https://static.toiimg.com/photo/msid-130987611,imgsize-94910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-gt-star-spinner-rashid-khan-breaks-into-top-10-surpasses-lasith-malinga/articleshow/130987595.cms",
-    "time": "2026-05-10T06:36:45.000Z"
   },
   {
     "cat": "World",
@@ -567,15 +594,6 @@ const newsData_en = [
     "time": "2026-05-10T05:59:06.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Chaos in Australian cricket? Five Senior players unhappy with new contracts",
-    "desc": "Cricket Australia faces internal unrest following the failed BBL privatisation, impacting national contracts and player satisfaction. Senior players are reportedly hesitant to sign due to financial terms and a desire for overseas league flexibility, with concerns over pay disparity and lucrative international offers shifting priorities.",
-    "img": "https://static.toiimg.com/photo/msid-130987220,imgsize-1156203.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/chaos-in-australian-cricket-five-senior-players-unhappy-with-new-contracts/articleshow/130987166.cms",
-    "time": "2026-05-10T05:54:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "FPI’s stake in Indian equities hits 14-year low",
     "desc": "FPIs were net sellers in Indian equities in four of the five trading sessions during the week ended May 8; on an aggregate basis, combining stock exchange and primary market flows, FPI equity outflows for the week stood at ₹14,207.20 crore; weekly trend reflects a broader structural shift",
@@ -583,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/fpis-stake-in-indian-equities-hits-14-year-low/article70961585.ece",
     "time": "2026-05-10T05:33:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli poised for history against MI, set to become first batter to...",
-    "desc": "Virat Kohli is on the cusp of another IPL record, needing just 28 runs against Mumbai Indians to become the first batter to score 1,000 IPL runs against them. This achievement would mark the fifth team he has surpassed this milestone against in his illustrious IPL career.",
-    "img": "https://static.toiimg.com/photo/msid-130986163,imgsize-43922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-poised-for-history-against-mi-set-to-become-first-batter-to-/articleshow/130986140.cms",
-    "time": "2026-05-10T04:12:28.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/rupee-falls-45-paise-to-9467-against-us-dollar/article70953864.ece",
     "time": "2026-05-08T04:50:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "U.S. trade court rules against Trump's global 10% tariff",
-    "desc": "The 2-1 ruling by the U.S. Court of International Trade, for now, blocks the tariffs from being implemented against just two companies and the state of Washington — but it could open doors to further such outcomes",
-    "img": "https://th-i.thgim.com/public/incoming/2flu1s/article70952885.ece/alternates/LANDSCAPE_1200/2026-05-06T171452Z_580191955_RC2T3LAYW9DI_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-trade-court-rules-against-trumps-global-10-tariff/article70952884.ece",
-    "time": "2026-05-07T22:33:17.000Z"
   }
 ];

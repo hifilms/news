@@ -217,15 +217,6 @@ const newsData_gu = [
   },
   {
     "cat": "Politics",
-    "title": "કોલકાતા: સુવેન્દુ અધિકારી બન્યા બંગાળના BJPના પ્રથમ મુખ્યમંત્રી, અગ્નિમિત્રા પોલ સહિત 5 વિધાયકોએ પણ લીધા મંત્રીપદના થપથ",
-    "desc": "પશ્ચિમ બંગાળમાં હાલમાં જ યોજાયેલી વિધાનસભા ચૂંટણીમાં ભાજપે ઐતિહાસિક જીત મેળવી અને મમતા બેનર્જી અને ટીએમસીને સજ્જડ હારનો સામનો કરાવ્યો. મમતા બેનર્જીને એકવાર નહીં પરંતુ બબ્બેવાર હરાવનારા ભવાનીપુર અને નંદીગ્રામથી ચૂંટણી જીતેલા સુવેન્દુ અધિકારીએ આજે બંગાળના મુખ્યમંત્રી પદના શપથ લીધા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/suvendu-adhikari-takes-oath-as-chief-minister-of-west-bengal-at-brigade-parade-ground-477118 ",
-    "time": "2026-05-09T06:53:27.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "કોણ છે માખનલાલ સરકાર? શપથગ્રહણ સમયે મંચ પર PM મોદીએ કેમ તેમના ચરણ સ્પર્શ કર્યા?",
     "desc": "લાંબા સમયથી રાજકીય અને સામાજિક વ્યક્તિત્વ ધરાવતા માખનલાલ સરકાર હાલ સમાચારમાં છવાયા છે. શપથ ગ્રહણ સમારોહ દરમિયાન વડાપ્રધાન નરેન્દ્ર મોદીના પગ સ્પર્શ કરતો ફોટો સામે આવ્યા બાદ લોકો આશ્ચર્ય પામી રહ્યા છે કે માખનલાલ સરકાર કોણ છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -376,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/a-stormy-rise-of-49-percent-in-just-4-days-this-stock-is-flying-like-a-rocket-the-company-got-a-big-relief-476862 ",
     "time": "2026-05-07T09:08:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ગંભીર બીમારીથી પિડાઈ રહ્યો છે પૂર્વ ભારતીય ક્રિકેટર, હોસ્પિટલમાં ચાલી રહી છે સારવાર",
-    "desc": "પૂર્વ ભારતીય ફાસ્ટ બોલર સલિલ અંકોલા ડિપ્રેશન સામે ઝઝૂમી રહ્યો છે અને પુણે નજીકના માનસિક સ્વાસ્થ્ય કેન્દ્રમાં સારવાર લઈ રહ્યો છે. તેની પત્ની રિયા અંકોલાએ ખુલાસો કર્યો કે 2024માં તેની માતાના અવસાન પછી તે ભાંગી પડ્યો હતો. અંકોલા હવે ઝડપથી સ્વસ્થ થઈ રહ્યો છે. ક્રિકેટ ઉપરાંત તેણે CID અને ફિલ્મોમાં પણ કામ કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/former-cricketer-salil-ankola-admitted-to-mental-health-care-center-due-to-depression-476845 ",
-    "time": "2026-05-07T07:09:57.000Z"
   },
   {
     "cat": "World",

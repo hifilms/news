@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "RCB clinch heart-stopping thriller to return to winning ways, MI, LSG out of IPL 2026 playoffs race",
+    "desc": "Royal Challengers Bengaluru edged past the Mumbai Indians in a heart-stopping last-over thriller to return to winning ways in the Indian Premier League 2026. RCB chased down a middling total of 167 on the final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-clinch-heart-stopping-thriller-to-return-to-winning-ways-mi-lsg-out-of-ipl-2026-playoffs-race-2026-05-10-1040619",
+    "time": "2026-05-10T18:20:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli climbs up on unwanted golden duck record after latest first-ball nought in RCB vs MI IPL 2026",
+    "desc": "Virat Kohli registered back-to-back ducks in the Indian Premier League 2026 after walking back for a first-ball nought against the Mumbai Indians at the Shaheed Veer Narayan Singh International Stadium, Raipur on Sunday, May 10....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-climbs-up-on-unwanted-golden-duck-record-after-latest-first-ball-nought-in-rcb-vs-mi-ipl-2026-2026-05-10-1040616",
+    "time": "2026-05-10T17:32:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch La Liga El Clasico in India?",
     "desc": "Barcelona and Real Madrid gear up for the El Clasico at the Camp Nou, which could define the champions of the La Liga 2026. Barca, 11 points clear of Madrid, need just a draw to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-announce-squad-for-womens-t20-world-cup-only-two-fast-bowlers-included-2026-05-10-1040588",
     "time": "2026-05-10T10:33:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai look to chase down 204 against Lucknow at Chepauk",
-    "desc": "The stage is set for the 53rd game of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will be taking on Lucknow Super Giants at the MA Chidambaram Stadium in Chennai on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-lsg-live-cricket-score-chennai-super-kings-look-to-maintain-winning-ways-2026-05-10-1040581",
-    "time": "2026-05-10T09:21:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Out of the race': Wasim Jaffer predicts struggling side to miss out on IPL 2026 playoffs",
-    "desc": "The IPL (Indian Premier League) 2026 playoffs race is heating up. With the top six sides going at it for a shot at the top four, the race is slowly becoming interesting, with many teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/out-of-the-race-wasim-jaffer-predicts-struggling-side-to-miss-out-on-ipl-2026-playoffs-2026-05-10-1040580",
-    "time": "2026-05-10T09:08:31.000Z"
   }
 ];
