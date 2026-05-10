@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Chennai Super Kings look to maintain winning ways",
+    "title": "Urvil Patel hits joint-fastest fifty in IPL history, breaks Suresh Raina's long-standing record",
+    "desc": "Chennai Super Kings batter Urvil Patel has etched his name into the history books as he has registered the joint-fastest fifty in the history of the Indian Premier League. Patel, who already boasts the fastest...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/urvil-patel-hits-joint-fastest-fifty-in-ipl-history-breaks-suresh-rainas-long-standing-record-2026-05-10-1040602",
+    "time": "2026-05-10T12:58:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "For first time at Chepauk! Josh Inglis creates IPL history after blistering fifty against CSK",
+    "desc": "Lucknow Super Giants batter Josh Inglis registered a major milestone during his blistering 85-run knock from 33 balls against the Chennai Super Kings at the MA Chidambaram Stadium in Chennai on Sunday, May 10. Inglis...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/for-first-time-at-chepauk-josh-inglis-creates-ipl-history-after-blistering-fifty-against-csk-2026-05-10-1040597",
+    "time": "2026-05-10T12:02:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India secure dramatic gold at Archery World Cup as Deepika leads team to glory",
+    "desc": "Veteran archer Deepika Kumari led the Indian women's team to a dramatic gold medal win over China at the Archery World Cup Stage 2 in Shanghai on Sunday. The Indian team of Deepika, Ankita Bhakat and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-secure-dramatic-gold-at-archery-world-cup-as-deepika-leads-team-to-glory-2026-05-10-1040593",
+    "time": "2026-05-10T11:28:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh announce squad for Women's T20 World Cup 2026, only two fast bowlers included",
+    "desc": "Bangladesh have announced their squad for the upcoming Women's T20 World Cup 2026, naming just two fast bowlers for the tournament that will be played in England. The squad features just two fast bowlers in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-announce-squad-for-womens-t20-world-cup-only-two-fast-bowlers-included-2026-05-10-1040588",
+    "time": "2026-05-10T10:33:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chennai look to chase down 204 against Lucknow at Chepauk",
     "desc": "The stage is set for the 53rd game of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will be taking on Lucknow Super Giants at the MA Chidambaram Stadium in Chennai on May...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-lsg-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-2026-05-10-1040551",
     "time": "2026-05-10T04:13:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan surpasses Sunil Narine, Ravindra Jadeja in elite list after brilliant showing against RR",
-    "desc": "Gujarat Titans was exceptional against Rajasthan Royals in the 52nd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 9th, and after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-surpasses-sunil-narine-ravindra-jadeja-in-elite-list-after-brilliant-showing-against-rajasthan-royals-2026-05-10-1040547",
-    "time": "2026-05-10T02:42:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Clean win for us': Shubman Gill hails his side after GT register statement victory against RR",
-    "desc": "Gujarat Titans registered a brilliant performance against Rajasthan Royals in the 52nd game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Sawai Mansingh Stadium in Jaipur on May 9th,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/clean-win-for-us-shubman-gill-hails-his-side-after-gt-register-statement-victory-against-rr-2026-05-10-1040543",
-    "time": "2026-05-10T01:42:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat storm to second in major overhaul to standings",
-    "desc": "Gujarat Titans registered their fourth straight win in the Indian Premier League 2026 after thrashing the Rajasthan Royals at the Sawai Mansingh Stadium on Saturday, May 9. Rashid Khan starred with a four-wicket haul, while...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-updated-points-table-after-rr-vs-gt-ipl-2026-clash-gujarat-storm-to-second-in-major-overhaul-to-standings-2026-05-09-1040538",
-    "time": "2026-05-09T18:28:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan, Shubman Gill shine as GT march to second in IPL 2026 points table with RR win",
-    "desc": "Rashid Khan laid the destruction work with the ball, while Shubman Gill set things up brilliantly with the bat as the Gujarat Titans handed the Rajasthan Royals a drubbing in their 11th match of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-shubman-gill-shine-as-gt-march-to-second-in-ipl-2026-points-table-with-rr-win-2026-05-09-1040535",
-    "time": "2026-05-09T17:41:32.000Z"
   }
 ];
