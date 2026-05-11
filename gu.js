@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ટ્રમ્પના એક નિર્ણય બાદ ફરી યુદ્ધ ભડકી ઉઠે તેવા એંધાણ, શું થશે પેટ્રોલ-ડીઝલ, ગેસનું?",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધને ખતમ કરવાની તમામ કોશિશો નિષ્ફળ જતી જોવા મળી રહી છે. એક બાજુ જ્યાં હોર્મુઝ બંધ થવાથી અને અમેરિકાએ કરેલી નાકાબંધીના કારણે દુનિયાભરમાં ઓઈલ અને ગેસનું સંકટ વધી રહ્યું છે ત્યાં બીજી બાજુ અમેરિકાએ ઈરાનનો શાંતિ પ્રસ્તાવ પણ ફગાવી દીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/donald-trump-rejects-irans-peace-proposal-will-tensions-in-the-middle-east-increase-477367 ",
+    "time": "2026-05-11T06:06:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું લોકડાઉનની જેમ વર્ક ફ્રોમ હોમ પાછું આવશે? કોરોનાકાળનો ઉલ્લેખ કરીને PM મોદીએ શું કહ્યું, તે ખાસ જાણો",
+    "desc": "મિડલ ઈસ્ટમાં અમેરિકા અને ઈરાન વચ્ચે જે યુદ્ધની સ્થિતિ છે તેના પગલે હવે ધીરે ધીરે અનેક દેશો તેના ભરડામાં આવતા જાય છે. પીએમ મોદીએ પણ રવિવારે દેશની જનતાને અપીલ કરી કે કોરોના સમયમાં જે રીતે વક્ર ફ્રોમ હોમને પ્રાધાન્ય અપાયું હતું તેવું કરવું જોઈએ. આ ઉપરાંત પેટ્રોલ ડીઝલ, ગોલ્ડનો વપરાશ ઘટાડવો જોઈએ અને બને એટલું જાહેર પરિવહનના સાધનો વાપરવા જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-pm-modi-said-about-work-from-home-referring-to-the-corona-period-you-should-know-477342 ",
+    "time": "2026-05-11T04:26:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay-Trisha Movies: વિજય થલપતિ-ત્રિશા કૃષ્ણનની ઓનસ્ક્રીન કેમેસ્ટ્રી છે જોરદાર, ઓટીટી પર જુઓ આ જોડીની 3 શાનદાર ફિલ્મો",
+    "desc": "તમિલનાડુના મુખ્યમંત્રી બનેલા થલપતિ વિજય અને ત્રિશા કૃષ્ણનની જોડીની ચર્ચા ઘણા સમયથી થઈ રહી છે. આ જોડીની ઓફસ્ક્રીન કેમેસ્ટ્રી તો ચર્ચામાં છે જ પણ જો તમારે આ જોડીને ઓનસ્ક્રીન કેમેસ્ટ્રી જોવી હોય તો ઓટીટી પર તેમની આ 3 ફિલ્મો જુઓ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/vijay-thalapathy-trisha-krishnan-movies-on-ott-must-watch-movies-of-vijay-thalapathy-on-ott-in-hindi-477341 ",
+    "time": "2026-05-11T03:30:29.000Z"
+  },
+  {
     "cat": "Business",
     "title": "&amp;#039;પેટ્રોલ અને ડીઝલનો વપરાશ ઘટાડવો પડશે...&amp;#039; વૈશ્વિક કટોકટી વચ્ચે PM મોદીનું મોટું નિવેદન",
     "desc": "વૈશ્વિક કટોકટી વચ્ચે PM મોદીનું મોટું નિવેદન સામે આવ્યું છે. PM મોદીએ કહ્યું કે, ભારત પાસે તેલનો વિશાળ ભંડાર નથી, આપણે વિદેશથી પેટ્રોલ અને ડીઝલ આયાત કરવાની ફરજ પડે છે. તેથી પેટ્રોલ, ગેસ અને ડીઝલનો સમજદારીપૂર્વક ઉપયોગ કરો.",
@@ -180,33 +207,6 @@ const newsData_gu = [
     "time": "2026-05-09T10:40:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સુવેન્દુથી સમ્રાટ....ભાજપના એવા મુખ્યમંત્રીઓ જે બીજા પક્ષોમાંથી આવ્યા અને ચારેબાજુ છવાઈ ગયા",
-    "desc": "રાજકારણમાં પક્ષપલટો એ કોઈ નવી વાત નથી. નેતાઓ એક પક્ષમાંથી બીજા પક્ષમાં જતા હોય છે. ક્યારેક એવું બને કે પક્ષપલટો કરીને નેતાજીનું ભાગ્ય સવરી જાય તો ક્યારેક કારકિર્દી પણ જોખમાઈ જાય છે. પરંતુ આજે અમે એવા નેતાઓની વાત કરીશું જે પક્ષપલટો કરીને ભાજપમાં આવ્યા અને મુખ્યમંત્રીપદ સુધી પહોંચ્યા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/from-suvendu-adhikari-to-samrat-choudhary-bjp-leaders-who-came-from-other-parties-reach-cm-position-477133 ",
-    "time": "2026-05-09T10:36:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કુંવારા નેતાઓની ક્લબમાં વધુ એકની એન્ટ્રી, ભારતીયો કુંવારા નેતા પર કેમ વધુ વિશ્વાસ કરે છે, આ છે મોટા કારણ",
-    "desc": "જો તમે અપરિણીત છો અને રાજકારણમાં છો તો સમજો કે તમે રાજકારણના લાંબી રેસના ઘોડા છો, તમારું મુખ્યમંત્રી પદ તો પાક્કુ જ છે. દેશના કુંવારા મુખ્યમંત્રીઓની બ્રિગેડમાં વધુ એક નામ સામેલ થયુ છે, સુવેન્દુ અધિકારી. આખરે કેમ દેશની જનતાને કુંવારા નેતાઓ પર વધુ ભરોસો હોય છે, જાણીએ આ પાછળનું રાજકીય ગણિત",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-bachelor-political-leaders-popular-in-indians-477141 ",
-    "time": "2026-05-09T10:05:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;મમ્મી, સાસરીયાવાળા મારે છે...&amp;#039; દીકરીનો છેલ્લો કોલ, માં પહોંચી તો મળી લાશ; 3 મહિના પહેલા જ કર્યા હતા લવ મેરેજ",
-    "desc": "જે દીકરીએ ત્રણ મહિના પહેલા પ્રેમ પર ભરોસો કરીને પોતાના જીવનની નવી સફર શરૂ કરી હતી, તેની કહાની હવે કરુણ મોતમાં પરિણમી છે. ગ્રેટર નોઈડાની રહેવાસી મોનિકાએ પરિવારની મરજી વિરુદ્ધ નહીં, પરંતુ પરિવારને મનાવીને અનુજ ચૌહાણ સાથે કોર્ટ મેરેજ કર્યા હતા. મોનિકાના મોતને લઈને તેની માતાનો આરોપ છે કે કરોડોની પ્રોપર્ટીની લાલચમાં દીકરીની હત્યા કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-noida-woman-suspicious-death-love-marriage-last-call-to-mother-477128 ",
-    "time": "2026-05-09T07:18:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6: બેટ્સમેન છે કે &amp;#039;સિક્સર મશીન&amp;#039;? આ અનોખો રેકોર્ડ તોડવો અસંભવ!",
     "desc": "ન્યૂઝીલેન્ડનો વિસ્ફોટક બેટ્સમેન ફિન એલન અત્યારે સોશિયલ મીડિયા અને ક્રિકેટ જગતમાં છવાયેલો છે. 8 મેની રાત્રે તેણે KKR તરફથી રમતા દિલ્હી કેપિટલ્સ સામે માત્ર 47 બોલમાં સદી ફટકારીને તરખાટ મચાવી દીધો હતો. આ એ જ એલન છે, જેણે T20 ક્રિકેટમાં એક એવો રેકોર્ડ બનાવ્યો છે જેને તોડવો કોઈ પણ બેટ્સમેન માટે લોઢાના ચણા ચાવવા જેવું છે.",
@@ -214,15 +214,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/new-zealands-finn-allen-holds-the-record-for-most-sixes-in-an-innings-in-t20-cricket-477126 ",
     "time": "2026-05-09T06:53:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોણ છે માખનલાલ સરકાર? શપથગ્રહણ સમયે મંચ પર PM મોદીએ કેમ તેમના ચરણ સ્પર્શ કર્યા?",
-    "desc": "લાંબા સમયથી રાજકીય અને સામાજિક વ્યક્તિત્વ ધરાવતા માખનલાલ સરકાર હાલ સમાચારમાં છવાયા છે. શપથ ગ્રહણ સમારોહ દરમિયાન વડાપ્રધાન નરેન્દ્ર મોદીના પગ સ્પર્શ કરતો ફોટો સામે આવ્યા બાદ લોકો આશ્ચર્ય પામી રહ્યા છે કે માખનલાલ સરકાર કોણ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-is-makhanlal-sarkar-pm-modi-touches-his-feet-on-stage-during-swearing-in-ceremony-477125 ",
-    "time": "2026-05-09T06:23:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -349,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/bcci-policy-became-a-curse-for-bowlers-in-ipl-reason-behind-the-fours-and-sixes-came-to-light-this-is-the-inside-story-476880 ",
     "time": "2026-05-07T10:49:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 વચ્ચે દુ:ખદ સમાચાર... વિરાટ કોહલીના સાથી ખેલાડીનું નિધન, કોહલીએ શેર કરી ભાવુક પોસ્ટ",
-    "desc": "IPL 2026 વચ્ચે ભારતીય ક્રિકેટમાં શોકનું મોજુ ફરી વળ્યું છે. વિરાટ કોહલીના અંડર-19 સમયેના સાથી ખેલાડીનું નિધન અમનપ્રીત સિંહ ગિલનું નિધન થયું છે. અમનપ્રીત સિંહ ગિલના નિધનના સમાચાર સાંભળીને વિરાટ કોહલી પણ સ્તબ્ધ થઈ ગયો છે. તેણે એક ભાવુક પોસ્ટ પણ શેર કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/former-india-cricketer-amanpreet-singh-gill-dies-at-36-virat-kohli-emotional-post-476879 ",
-    "time": "2026-05-07T10:47:02.000Z"
   },
   {
     "cat": "Business",
@@ -520,14 +502,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/saif-ali-khan-crime-thriller-film-releasing-netflix-on-15-may-2026-475797 ",
     "time": "2026-05-01T09:06:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અંકિતા લોખંડે વિકી જૈનનો પહેલો પ્રેમ નથી, અંકિતા પહેલા વિકીની લાઈફમાં હતી આ એક્ટ્રેસ",
-    "desc": "અંકિતા લોખંડે અને વિકી જૈનની જોડી ટીવીની લોકપ્રિય જોડીઓમાંથી એક છે. પરંતુ ખૂબ ઓછા લોકો એ વાત જાણે છે કે અંકિતા પહેલા વિકીની લાઈફમાં બીજી એક્ટ્રેસ હતી. આ એક્ટ્રેસ કોણ હતી ચાલો તમને પણ જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/vicky-jain-dated-actress-tia-bajpai-before-ankita-lokhande-vicky-jain-first-love-475721 ",
-    "time": "2026-05-01T02:40:38.000Z"
   }
 ];

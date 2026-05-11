@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tim David shows middle fingers to Mumbai Indians after RCB's dramatic win in Raipur",
+    "desc": "Royal Challengers Bengaluru’s dramatic last-ball victory over Mumbai Indians has sparked off-field attention after a viral video appeared to show Tim David reacting emotionally following the finish in Raipur. The footage circulating on social media...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tim-david-shows-middle-fingers-to-mumbai-indians-after-rcb-s-dramatic-win-in-raipur-watch-2026-05-11-1040649",
+    "time": "2026-05-11T05:20:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Varun Chakaravarthy walks with crutches, leg braces ahead KKR's high-voltage clash vs RCB",
+    "desc": "Kolkata Knight Riders spinner Varun Chakaravarthy was seen using crutches and wearing leg braces ahead of their high-profile clash against Royal Challengers Bengaluru in Raipur on May 13. It raises concerns about his availability for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakaravarthy-walks-with-crutches-leg-braces-ahead-kkr-s-high-voltage-clash-vs-rcb-watch-2026-05-11-1040639",
+    "time": "2026-05-11T03:40:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bhuvneshwar Kumar confesses enjoying six vs Raj Bawa more than four-wicket haul vs Mumbai Indians",
+    "desc": "Royal Challengers Bengaluru climbed to the top of the points table after a dramatic last-ball thriller in Raipur. In the final over of the game, the hosts required 15 runs with Romario Shepherd and Rasik...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-confesses-enjoying-six-vs-raj-bawa-more-than-four-wicket-haul-vs-mumbai-indians-2026-05-11-1040637",
+    "time": "2026-05-11T03:15:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Arsenal secure 1-0 win to extend lead in Premier League, West Ham left frustrated over goal cancellation",
     "desc": "Arsenal tightened their grip on the Premier League title race after surviving a chaotic finish to defeat West Ham United 1-0 in London. However, it wasn’t a neat win as the closing moments left the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/barcelona-vs-real-madrid-live-streaming-when-and-where-to-watch-la-liga-el-clasico-in-india-2026-05-10-1040613",
     "time": "2026-05-10T15:30:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai Super Kings overcome late scare after Urvil's blitz, end 180+ chase hoodoo with LSG win",
-    "desc": "Chennai Super Kings ended their 180+ hoodoo in IPL after gunning down 204 in their 11th match of the Indian Premier League 2026 on Sunday, May 10. CSK overcame a late scare at the MA...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-overcomes-late-scare-after-urvils-blitz-end-180-plus-chase-hoodoo-with-lsg-win-2026-05-10-1040610",
-    "time": "2026-05-10T14:34:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Hardik Pandya playing for MI in must-win IPL 2026 clash against RCB in Raipur?",
-    "desc": "Hardik Pandya missed out as the Mumbai Indians take on the Royal Challengers Bengaluru in their must-win Indian Premier League 2026 clash at the Shaheed Veer Narayan Singh International Stadium, Raipur, on Sunday, May 10....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-hardik-pandya-playing-for-mi-in-must-win-ipl-2026-clash-against-rcb-in-raipur-2026-05-10-1040607",
-    "time": "2026-05-10T13:49:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What was written on CSK star Urvil Patel's chit that he showed after hitting IPL's joint-fastest fifty?",
-    "desc": "Urvil Patel smashed the joint-fastest fifty in the history of the Indian Premier League during Chennai Super Kings' clash against the Lucknow Super Giants at the MA Chidambaram Stadium on Sunday, May 10. Patel was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-was-written-on-csk-star-urvil-patels-chit-that-he-showed-after-hitting-ipls-joint-fastest-fifty-2026-05-10-1040606",
-    "time": "2026-05-10T13:25:43.000Z"
   }
 ];
