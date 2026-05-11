@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Priyansh Arya creates history, achieves what Rohit Sharma, Virat Kohli have not in IPL during DC clash",
+    "desc": "Punjab Kings batter Priyansh Arya etched his name into the history books when he hit Mitchell Starc for a six on the first ball of the clash against the Delhi Capitals on Monday, May 11....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-creates-history-achieves-what-rohit-sharma-virat-kohli-have-not-in-ipl-during-dc-clash-2026-05-11-1040740",
+    "time": "2026-05-11T15:48:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Punjab Kings' players wearing black armbands during their IPL 2026 clash against DC?",
+    "desc": "Punjab Kings players were seen wearing black armbands during their Indian Premier League 2026 clash against the Delhi Capitals at the Himachal Pradesh Cricket Association Stadium, Dharamsala, on Monday, May 11. PBKS were asked to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-punjab-kings-players-wearing-black-armbands-during-their-ipl-2026-clash-against-dc-2026-05-11-1040736",
+    "time": "2026-05-11T15:02:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Kuldeep Yadav not playing for DC in must-win IPL 2026 clash against PBKS?",
+    "desc": "Kuldeep Yadav missed out as Delhi Capitals lock horns against the Punjab Kings in a must-win Indian Premier League 2026 clash at the Himachal Pradesh Cricket Association Stadium, Dharamsala, on Monday, May 11. Kuldeep was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-not-playing-for-dc-in-must-win-ipl-2026-clash-against-pbks-2026-05-11-1040728",
+    "time": "2026-05-11T13:54:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Mumbai Indians' body language is something I have never seen': Ex-MI, CSK star on team's early IPL 2026 exit",
+    "desc": "Mumbai Indians' wait for an IPL title continued as the five-time champions suffered an early elimination from the playoffs in the 2026 season. MI failed to defend 166 against the Royal Challengers Bengaluru and suffered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-body-language-is-something-i-have-never-seen-ex-mi-csk-star-on-teams-early-ipl-2026-exit-2026-05-11-1040723",
+    "time": "2026-05-11T13:05:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India stay on top of ICC ODI rankings, move one place up in Test standings in annual update",
     "desc": "The Indian men's team continue to dominate the ICC ODI rankings as the Champions Trophy winners stay on top in the ICC annual update released on Monday, May 11. India lead the ODI charts with...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/tim-david-shows-middle-fingers-to-mumbai-indians-after-rcb-s-dramatic-win-in-raipur-watch-2026-05-11-1040649",
     "time": "2026-05-11T05:20:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Varun Chakaravarthy walks with crutches, leg braces ahead KKR's high-voltage clash vs RCB",
-    "desc": "Kolkata Knight Riders spinner Varun Chakaravarthy was seen using crutches and wearing leg braces ahead of their high-profile clash against Royal Challengers Bengaluru in Raipur on May 13. It raises concerns about his availability for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakaravarthy-walks-with-crutches-leg-braces-ahead-kkr-s-high-voltage-clash-vs-rcb-watch-2026-05-11-1040639",
-    "time": "2026-05-11T03:40:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar Kumar confesses enjoying six vs Raj Bawa more than four-wicket haul vs Mumbai Indians",
-    "desc": "Royal Challengers Bengaluru climbed to the top of the points table after a dramatic last-ball thriller in Raipur. In the final over of the game, the hosts required 15 runs with Romario Shepherd and Rasik...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-confesses-enjoying-six-vs-raj-bawa-more-than-four-wicket-haul-vs-mumbai-indians-2026-05-11-1040637",
-    "time": "2026-05-11T03:15:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arsenal secure 1-0 win to extend lead in Premier League, West Ham left frustrated over goal cancellation",
-    "desc": "Arsenal tightened their grip on the Premier League title race after surviving a chaotic finish to defeat West Ham United 1-0 in London. However, it wasn’t a neat win as the closing moments left the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-secure-1-0-win-to-extend-lead-in-premier-league-west-ham-left-frustrated-over-goal-cancellation-in-95th-minute-2026-05-11-1040630",
-    "time": "2026-05-11T02:26:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia announce squads for series vs Pakistan, Bangladesh; Glenn Maxwell dropped from T20Is",
-    "desc": "Australia have announced a heavily reshaped squad for the upcoming white-ball tours of Pakistan and Bangladesh. They have added Under-19 captain Ollie Peake, who earned his maiden international call-up. The teenage batter has been selected...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-squads-for-series-vs-pakistan-bangladesh-glenn-maxwell-dropped-from-t20is-2026-05-11-1040627",
-    "time": "2026-05-11T01:48:15.000Z"
   }
 ];
