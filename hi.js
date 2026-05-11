@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "DC create history with win over PBKS, stay alive in IPL 2026 as Punjab slump to fourth straight loss",
+    "desc": "Delhi Capitals registered the highest-ever T20 chase at the HPCA Stadium, Dharamsala, as they hunted down 211 against the Punjab Kings in their IPL 2026 clash on Monday, May 11. DC handed PBKS their fourth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-create-history-with-win-over-pbks-stay-alive-in-ipl-2026-as-punjab-slump-to-fourth-straight-loss-2026-05-11-1040746",
+    "time": "2026-05-11T18:02:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tim David fined 30 per cent of match fees for 'obscene, offensive' gesture during RCB vs MI IPL 2026 clash",
+    "desc": "Royal Challengers Bengaluru all-rounder Tim David has been handed a 30 per cent fine of his match fees for breaching Article 2.6 of the IPL's Code of Conduct during the clash against the Mumbai Indians...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tim-david-fined-30-per-cent-of-match-fees-for-obscene-offensive-gesture-during-rcb-vs-mi-ipl-2026-clash-2026-05-11-1040744",
+    "time": "2026-05-11T17:34:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Priyansh Arya creates history, achieves what Rohit Sharma, Virat Kohli have not in IPL during DC clash",
     "desc": "Punjab Kings batter Priyansh Arya etched his name into the history books when he hit Mitchell Starc for a six on the first ball of the clash against the Delhi Capitals on Monday, May 11....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-dc-pitch-report-how-will-surface-at-hpca-stadium-in-dharamsala-play-2026-05-11-1040688",
     "time": "2026-05-11T08:44:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin calls for Bhuvneshwar Kumar's inclusion in Indian team, explains reason",
-    "desc": "Former India all-rounder Ravichandran Ashwin has backed veteran pacer Bhuvneshwar Kumar for a return to the national T20I setup after the pacer produced another match-winning display against Mumbai Indians in the ongoing IPL 2026. Notably,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-calls-for-bhuvneshwar-kumar-s-inclusion-in-indian-team-explains-reason-2026-05-11-1040682",
-    "time": "2026-05-11T08:07:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tim David shows middle fingers to Mumbai Indians after RCB's dramatic win in Raipur",
-    "desc": "Royal Challengers Bengaluru’s dramatic last-ball victory over Mumbai Indians has sparked off-field attention after a viral video appeared to show Tim David reacting emotionally following the finish in Raipur. The footage circulating on social media...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tim-david-shows-middle-fingers-to-mumbai-indians-after-rcb-s-dramatic-win-in-raipur-watch-2026-05-11-1040649",
-    "time": "2026-05-11T05:20:26.000Z"
   }
 ];

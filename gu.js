@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "પેન્સનરો માટે ખુશખબર! DRમાં 2%નો વધારો, જાણો 1 જાન્યુઆરીથી કેટલા રૂપિયા વધશે?",
+    "desc": "રેલવેએ પેન્શનર્સ અને ફેમિલી પેન્શનરો માટે DR (Dearness Relief) 58%થી વધારીને 60% કરી દીધી છે. આ વધારો 1 જાન્યુઆરી 2026થી લાગુ થશે, જેનાથી લાખો નિવૃત્ત કર્મચારીઓના માસિક પેન્શનમાં વધારો થશે. ચાલો સમજીએ કે, 10,000 રૂપિયાથી 70,000 રૂપિયા સુધીના બેઝિક પેન્શન ધરાવતા લોકોને કેટલો વધારાનો ફાયદો મળશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/good-news-from-the-railways-2-percent-hike-in-dr-announced-know-how-much-your-pay-will-increase-starting-january-1-477480 ",
+    "time": "2026-05-11T17:37:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "પેટ્રોલ અને ડીઝલને લઈને લોકો માટે રાહતના સમાચાર ! સરકારે આપ્યું મોટું અપડેટ, જાણો શું કહ્યું",
     "desc": "પશ્ચિમ એશિયામાં વધતા તણાવ અને યુદ્ધ જેવી પરિસ્થિતિઓ વચ્ચે ભારત સરકારે તેના નાગરિકોને રાહત આપી છે. સરકારે સ્પષ્ટતા કરી છે કે ભારતમાં ક્રૂડ ઓઇલ, પેટ્રોલ, ડીઝલ અને LPGનો પૂરતો સ્ટોક છે. તેથી નાગરિકોએ ગભરાવાની કે ફ્યુઅલનો સંગ્રહ કરવાની કોઈ જરૂર નથી.",
@@ -349,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-set-to-attract-a-50-crore-bid-in-the-next-ipl-auction-find-out-when-the-next-mega-auction-will-take-place-477054 ",
     "time": "2026-05-08T12:04:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મે મહિનામાં પાંચ દિવસ બંધ રહેશે SBI બેંક, તારીખ જોઈને જરૂરી કામકાજ પહેલા જ પતાવી લેજો",
-    "desc": "સ્ટેટ બેંક ઓફ ઈન્ડિયા (SBI) ના કર્મચારીઓ વિવિધ પડતર માંગણીઓને લઈને હડતાળ પર ઉતરવાના છે. ત્યારે હડતાળ અને રજાના માહોલને પગલે મે મહિનામાં પાંચ દિવસ એસબીઆઈ બેંક બંધ રહેવાની છે. ત્યારે જાણી લો કયા કયા દિવસે બેંક નહિ ખૂલે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sbi-strike-alert-state-bank-of-india-to-remain-closed-for-5-days-in-may-check-dates-477011 ",
-    "time": "2026-05-08T10:55:13.000Z"
   },
   {
     "cat": "Tech",

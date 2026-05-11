@@ -1,6 +1,123 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Education Budget will grow every year, says Telangana CM Revanth Reddy",
+    "desc": "Allocations to the sector would be gradually increased to 15% of the annual Budget, says Reddy, also the Education Minister, while launching the ‘Exclusive Education Week’ celebrations in Hyderabad; also unveils ₹1,700-crore infrastructure works for integrated school complexes, additional classrooms and pre-primary sections in government schools",
+    "img": "https://th-i.thgim.com/public/incoming/nrw8v7/article70966873.ece/alternates/LANDSCAPE_1200/_DSC4416.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/education-budget-will-grow-every-year-says-telangana-cm-revanth-reddy/article70966847.ece",
+    "time": "2026-05-11T19:23:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Amid AI push, LTM ramps up fresher hiring by 40%",
+    "desc": "LTM boosted fresher hiring by 40% and deployed over 1,500 AI agents in FY26 to enhance productivity. Simultaneously, the company increased reliance on overseas subcontractors, particularly in the US and Europe, while its permanent employee count grew overall, driven by India.",
+    "img": "https://static.toiimg.com/photo/msid-131023096,imgsize-18990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/amid-ai-push-ltm-ramps-up-fresher-hiring-by-40/articleshow/131023057.cms",
+    "time": "2026-05-11T19:19:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Father-son scenes in Animal drew from personal experiences’",
+    "desc": "Anil Kapoor recently opened up about the criticism surrounding Sandeep Reddy Vanga’s Animal and shared how deeply personal the father-son scenes in the film were for both him and co-star Ranbir Kapoor. The actor said that while people can have different opinions about a film after release, the team approached the project with complete sincerity.",
+    "img": "https://static.toiimg.com/photo/msid-131022721,imgsize-32534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-responds-to-criticism-around-animal-father-son-scenes-with-ranbir-kapoor-drew-from-personal-experiences/articleshow/131022570.cms",
+    "time": "2026-05-11T18:56:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Omar Abdullah’s ‘liquor consumption religion-centric’ comment sparks debate",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah defended the region's liquor policy, stating shops are for those whose religion permits consumption. His comments come amid a 100-day anti-drug campaign, with calls to extend it to liquor. Abdullah highlighted his government's efforts to prevent youth from consuming alcohol, including not opening new shops.",
+    "img": "https://static.toiimg.com/photo/msid-131022494,imgsize-1147323.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/omar-abdullahs-liquor-consumption-religion-centric-comment-sparks-debate/articleshow/131022491.cms",
+    "time": "2026-05-11T18:51:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The dressing room conundrum —a tight-rope walk",
+    "desc": "In team sports where, increasingly, there are as many members of the support staff as there are playing personnel, it is impossible to ‘police’ effectively; from Slapgate to vaping, the IPL has had its fair share of flashpoints, creating a bitter-sweet relationship",
+    "img": "https://th-i.thgim.com/public/sport/vhctgx/article70967227.ece/alternates/LANDSCAPE_1200/TH12ROMIBHINDER.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/the-dressing-room-conundrum-a-tight-rope-walk/article70967225.ece",
+    "time": "2026-05-11T18:49:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Won't beat around the bush': Shreyas Iyer fumes after Punjab Kings' defeat",
+    "desc": "Punjab Kings suffered their fourth straight IPL 2026 loss, falling by three wickets to Delhi Capitals in Dharamsala. Despite a strong 210/5, their bowling and fielding faltered, allowing DC to chase the target with aggressive half-centuries. Captain Shreyas Iyer expressed disappointment, highlighting execution lapses as the key issues.",
+    "img": "https://static.toiimg.com/photo/msid-131022172,imgsize-49810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/wont-beat-around-the-bush-shreyas-iyer-fumes-after-punjab-kings-defeat-to-delhi-capitals/articleshow/131022191.cms",
+    "time": "2026-05-11T18:35:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Axar Patel, David Miller power DC to record chase against PBKS",
+    "desc": "Delhi Capitals secured a thrilling three-wicket victory over Punjab Kings, chasing a massive 211 in Dharamsala. Counterattacking half-centuries from David Miller and Axar Patel were pivotal in the highest successful run chase at the venue. This crucial win keeps DC's IPL 2026 playoff aspirations alive, while PBKS suffered their fourth consecutive loss.",
+    "img": "https://static.toiimg.com/photo/msid-131021802,imgsize-832920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-axar-patel-david-miller-power-dc-to-record-chase-against-pbks/articleshow/131021491.cms",
+    "time": "2026-05-11T18:21:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aishwarya snubbed from L'Oreal Cannes campaign leaves fans upset",
+    "desc": "India’s association with the Cannes Film Festival has, for years, come with one constant visual — Aishwarya Rai Bachchan walking the red carpet for L'Oreal Paris. However, ahead of this year’s edition of the festival, fans were left confused and disappointed after the actress was noticeably absent from the brand’s latest promotional campaign. Alia, who recently joined L'Oreal Paris as a global ambassador, was prominently featured in the campaign video.",
+    "img": "https://static.toiimg.com/photo/msid-131021552,imgsize-106738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-snubbed-from-loreal-paris-cannes-campaign-leaves-fans-upset-alia-bhatt-takes-over-the-space/articleshow/131021398.cms",
+    "time": "2026-05-11T18:09:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court",
+    "desc": "This is the first Supreme Court hearing in the West Bengal SIR case after the election; in as many as 31 seats, the victory margins of the BJP were less than the number of votes deleted during the SIR, Trinamool leaders say",
+    "img": "https://th-i.thgim.com/public/incoming/9iambz/article70954324.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_I6FONF9M.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/will-hear-trinamool-pleas-on-victory-margins-being-less-than-deleted-votes-in-sir-says-supreme-court/article70965914.ece",
+    "time": "2026-05-11T17:38:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Martin Short",
+    "desc": "Veteran actor Martin Short shares profound wisdom on navigating life's inevitable hardships. He emphasizes that while tragedy strikes, the sun rises, urging us to carry on, maintain perspective, and learn from setbacks. Short's own experiences with profound personal losses underscore his message that true character is forged not just by survival, but by the wisdom gained from adversity.",
+    "img": "https://static.toiimg.com/photo/msid-131017647,imgsize-59394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-martin-short-bad-things-happen-and-yet-the-sun-still-comes-up-the-next-day-its-up-to-you-to-carry-on-living-your-life/articleshow/131017647.cms",
+    "time": "2026-05-11T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'They want me to take sanyaas, but I won’t give up': Vinesh Phogat",
+    "desc": "Wrestler Vinesh Phogat was denied entry to a domestic tournament in Gonda, Uttar Pradesh, her planned comeback event. Citing pending disciplinary proceedings and a notice she hadn't responded to, the Wrestling Federation of India (WFI) declared her suspended. Phogat, who accused former WFI chief Brij Bhushan Sharan Singh of sexual harassment, claims this is a conspiracy to force her retirement.",
+    "img": "https://static.toiimg.com/photo/msid-131020212,imgsize-73484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/they-want-me-to-take-sanyaas-but-i-wont-give-up-vinesh-phogat/articleshow/131020205.cms",
+    "time": "2026-05-11T17:19:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tim David lands in trouble after obscene gesture during RCB’s dramatic win over MI",
+    "desc": "Tim David faces a 30% match fee fine and two demerit points for an offensive gesture during RCB's nail-biting win over Mumbai Indians. The incident, captured during celebrations after RCB's elimination of Mumbai, saw David breach the IPL Code of Conduct. He accepted the sanction from the match referee, with the IPL confirming the penalty.",
+    "img": "https://static.toiimg.com/photo/msid-131019834,imgsize-1041914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-tim-david-lands-in-trouble-after-obscene-gesture-during-rcbs-dramatic-win-over-mi/articleshow/131019773.cms",
+    "time": "2026-05-11T17:09:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ponting's laughing reaction after KL Rahul wicket goes viral",
+    "desc": "Punjab Kings posted a formidable 210/5 against Delhi Capitals, with KL Rahul's early dismissal by Arshdeep Singh drawing a jubilant reaction from coach Ricky Ponting. Despite Priyansh Arya's explosive start, Delhi's bowlers fought back. Shreyas Iyer anchored Punjab's innings with a half-century, setting a challenging target.",
+    "img": "https://static.toiimg.com/photo/msid-131019770,imgsize-50568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ricky-pontings-laughing-reaction-after-kl-rahul-wicket-goes-viral-during-pbks-vs-dc-match-watch/articleshow/131019771.cms",
+    "time": "2026-05-11T17:06:39.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "News Analysis",
     "desc": "Several senior Congress leaders and ordinary workers feel let down by the party’s insouciance. IUML, which spearheaded the UDF poll campaign successfully in many constituencies, has reason to be annoyed. Congress’ central leadership should have anticipated the present scenario, more so with the AICC general secretary in charge of the organisation being in contention, and acted pre-emptively by laying out its criteria for the chief ministerial choice",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -108,24 +225,6 @@ const newsData_en = [
     "time": "2026-05-11T15:45:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Suvendu Adhikari approves implementation of Central schemes in first Cabinet meet, allocates portfolios to Ministers",
-    "desc": "The BJP government in West Bengal in its first cabinet meeting has decided to transfer land required by the BSF for erecting fencing along the border with Bangladesh and start the process of Census in the State with immediate effect.",
-    "img": "https://th-i.thgim.com/public/incoming/113q5g/article70964810.ece/alternates/LANDSCAPE_1200/PTI05_11_2026_000129A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-chief-minister-suvendu-adhikari-chairs-first-cabinet-meeting-finalises-six-projects/article70964807.ece",
-    "time": "2026-05-11T15:25:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Migrant workers of Munnar estates get a tourney to showcase hockey skills",
-    "desc": "Kanan Devan Hills Plantations to launch the inter-estate Ripple Tea Hockey Tournament on May 12 to “encourage sports enthusiasts among its workforce.” Workers from Odisha, West Bengal, Jharkhand, and Assam have been organising matches across estates in the region, prompting the company to launch the tourney",
-    "img": "https://th-i.thgim.com/public/incoming/2gz98n/article70966250.ece/alternates/LANDSCAPE_1200/80759_11_5_2026_18_42_55_1_HOCKEYMUNNAR.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/migrant-workers-of-munnar-estates-get-a-tourney-to-showcase-hockey-skills/article70966243.ece",
-    "time": "2026-05-11T15:19:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Priyansh and Sooryavanshi are the only batters in IPL history to ...",
     "desc": "Young batting sensations Priyansh Arya and Vaibhav Sooryavanshi are electrifying the IPL with their aggressive T20 style. Sooryavanshi, the youngest IPL centurion, and Arya, known for his rapid centuries, are leading a new generation of fearless batsmen, dominating powerplay overs and setting new benchmarks for strike rates and quick-fire fifties.",
@@ -187,6 +286,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-kohli-once-priyansh-arya-twice-punjab-kings-opener-enters-ipl-record-books/articleshow/131016928.cms",
     "time": "2026-05-11T14:35:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nitin Menon remains only Indian in ICC Elite Panel of Umpires",
+    "desc": "The International Cricket Council has maintained an unchanged list of match officials for the 2026-27 international season. Nitin Menon continues as the sole Indian on the ICC Elite Panel of Umpires, while Javagal Srinath remains the only Indian in the ICC Elite Panel of Match Referees. This decision reflects the consistency and high standards in international officiating.",
+    "img": "https://static.toiimg.com/photo/msid-131020518,imgsize-22394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nitin-menon-remains-only-indian-in-icc-elite-panel-of-umpires/articleshow/131020537.cms",
+    "time": "2026-05-11T14:31:00.000Z"
   },
   {
     "cat": "Sports",
@@ -324,24 +432,6 @@ const newsData_en = [
     "time": "2026-05-11T12:33:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anna Konidela posts warm pics from PM Modi’s visit to Pawan Kalyan’s residence",
-    "desc": "Andhra Pradesh Deputy CM Pawan Kalyan and his wife Anna Lezhneva hosted Prime Minister Narendra Modi at their Hyderabad residence. Anna shared heartwarming pictures of the family's interaction with the PM, highlighting Modi's concern for Pawan's health and his playful request for Anna to take good care of her husband.",
-    "img": "https://static.toiimg.com/photo/msid-131013897,imgsize-1030172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/anna-konidela-shares-warm-family-moments-from-pm-narendra-modis-visit-to-pawan-kalyans-hyderabad-home/articleshow/131013567.cms",
-    "time": "2026-05-11T12:22:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sachin Pilgaonkar wants to give Ranveer Singh Rs 100 token",
-    "desc": "Veteran actor Sachin Pilgaonkar lauded Ranveer Singh's intense yet restrained portrayal of a spy in 'Dhurandhar.' He highlighted Ranveer's ability to delve deep into characters, praising his controlled performance that maintained mystery. Pilgaonkar contrasted this with Akshaye Khanna's author-backed role, emphasizing the unique challenge Ranveer overcame, earning significant industry acclaim for his powerful turn.",
-    "img": "https://static.toiimg.com/photo/msid-131013811,imgsize-15816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sachin-pilgaonkar-wants-to-give-a-special-token-applauds-ranveer-singhs-performance-in-dhurandhar-main-definitely-usko-100-rupaye-dena-chahuga-jab-bhi-wo-milega/articleshow/131013811.cms",
-    "time": "2026-05-11T12:20:56.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "West Bengal govt sacks nominated board members, scraps service extensions beyond age 60",
     "desc": "In a separate direction, the state government also asked departments to discontinue the re-employment and service extensions granted to officers and officials who continued beyond the usual retirement age of 60 years. \"The government has issued an order to take necessary action to immediately terminate the tenures of the nominated members, directors, or chairpersons of different boards, organisations, non-statutory bodies and public sector undertakings of the state government,\" a senior bureaucrat said.",
@@ -450,15 +540,6 @@ const newsData_en = [
     "time": "2026-05-11T10:14:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "AIADMK at breaking point? Revolt brews against EPS after Tamil Nadu poll debacle",
-    "desc": "AIADMK faces internal turmoil following a significant electoral defeat in Tamil Nadu, with divisions surfacing over leadership and potential support for the new TVK government. MLAs arrived in separate groups for the assembly, highlighting a visible rift and raising questions about the party's future cohesion and relevance.",
-    "img": "https://static.toiimg.com/photo/msid-131010584,imgsize-64248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aiadmk-at-breaking-point-revolt-brews-against-eps-after-tamil-nadu-poll-debacle/articleshow/131010598.cms",
-    "time": "2026-05-11T10:01:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We'll make a decision': MI provide big update on Hardik Pandya",
     "desc": "Mumbai Indians skipper Hardik Pandya is sidelined with a back issue, missing consecutive IPL 2026 matches. Head coach Mahela Jayawardene confirmed the ongoing treatment, stating his return is day-to-day. This setback comes as MI, already eliminated from playoff contention, suffered another defeat, highlighting their disappointing season.",
@@ -513,24 +594,6 @@ const newsData_en = [
     "time": "2026-05-11T09:13:30.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Vinesh reaches Gonda amid fresh WFI standoff, insists she is eligible to compete",
-    "desc": "Wrestler Vinesh Phogat asserts her eligibility for the National Open Ranking Tournament in Gonda, despite the Wrestling Federation of India's (WFI) stance. WFI claims she must complete disciplinary proceedings and adhere to a mandatory notice period for retired athletes. Phogat argues she informed United World Wrestling of her intent to resume competition, but the federation remains unconvinced.",
-    "img": "https://static.toiimg.com/photo/msid-131009532,imgsize-34898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/vinesh-phogat-reaches-gonda-amid-fresh-wfi-standoff-insists-she-is-eligible-to-compete/articleshow/131009541.cms",
-    "time": "2026-05-11T09:12:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Best after Bumrah!’ Karthik’s old Bhuvi verdict goes viral after MI masterclass",
-    "desc": "Dinesh Karthik's high praise for Bhuvneshwar Kumar has resurfaced after the pacer's match-winning IPL 2026 performance. Kumar's stellar 4/23 against Mumbai Indians, followed by a crucial batting cameo, has reignited calls for his T20I return, with Ravichandran Ashwin backing the 'BringBackBhuvi' campaign. He currently leads the Purple Cap race.",
-    "img": "https://static.toiimg.com/photo/msid-131008975,imgsize-146634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/best-after-bumrah-dinesh-karthiks-old-bhuvneshwar-kumar-verdict-goes-viral-after-mi-masterclass/articleshow/131008971.cms",
-    "time": "2026-05-11T08:43:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Ashwini Vaishnaw reiterates PM Modi’s call to cut gold purchases: 'Do whatever best you can'",
     "desc": "Amidst the escalating Middle East conflict, Union Minister Ashwini Vaishnaw echoed PM Modi's call for Indians to reduce import spending and conserve foreign exchange. He urged citizens and businesses to make conscious choices to save forex, highlighting fuel expenditure as a key area for reduction. This initiative aims to protect the nation's economic interests as global energy supplies face strain.",
@@ -547,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-time-for-mumbai-indians-to-bench-suryakumar-yadav-and-tilak-varma-rest-jasprit-bumrah/articleshow/131007429.cms",
     "time": "2026-05-11T07:45:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Bring back Bhuvi!’ Ashwin makes big India T20I call after RCB star destroys MI",
-    "desc": "Ravichandran Ashwin advocates for Bhuvneshwar Kumar's return to India's T20I squad following his stellar all-round display for RCB. Kumar's exceptional bowling, and a crucial six in the final over, impressed Ashwin, who highlighted his ability to perform under pressure. Kumar currently leads the Purple Cap race, showcasing consistent wicket-taking prowess.",
-    "img": "https://static.toiimg.com/photo/msid-131007683,imgsize-39360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-bring-back-bhuvi-ashwin-makes-big-india-t20i-call-after-rcb-star-destroys-mi/articleshow/131007676.cms",
-    "time": "2026-05-11T07:40:46.000Z"
   },
   {
     "cat": "Business",
@@ -583,51 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/start-increasing-workload-bcci-sends-message-to-hopefuls-ahead-of-afghanistan-one-off-test/articleshow/131005462.cms",
     "time": "2026-05-11T06:06:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB coach Andy Flower fined after heated outburst during dramatic win over MI",
-    "desc": "Royal Challengers Bengaluru's thrilling win over Mumbai Indians was marred by a setback as head coach Andy Flower was fined for using audible obscenity during a tense moment. The incident occurred during a controversial boundary call, leading to a heated exchange. Despite this, RCB secured a crucial victory, while Mumbai Indians were eliminated from the playoff race.",
-    "img": "https://static.toiimg.com/photo/msid-131005571,imgsize-33796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rcb-coach-andy-flower-fined-after-heated-outburst-during-dramatic-win-over-mi/articleshow/131005582.cms",
-    "time": "2026-05-11T06:05:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why sector stocks plunged up to 9%",
-    "desc": "Jewellery stocks saw a sharp decline on Monday. Prime Minister Narendra Modi appealed to citizens to reduce gold purchases. This call aims to preserve foreign exchange reserves. Major jewellery companies experienced significant drops in their share prices. Investors reacted quickly to the potential demand impact. Indian equities opened lower amid global concerns.",
-    "img": "https://static.toiimg.com/photo/msid-131005486,imgsize-157169.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/jewellery-shares-lose-shine-why-sector-stocks-plunged-up-to-9/articleshow/131004939.cms",
-    "time": "2026-05-11T06:02:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PNB, Marico &amp; more: Top stocks to watch on May 11 — check list",
-    "desc": "Kotak Securities maintains an add rating on PNB with a revised target of Rs 125, citing steady profitability despite weaker core earnings than peers. Jefferies reiterates a buy on Marico, raising its target to Rs 960, with management confident in strong EBITDA growth.",
-    "img": "https://static.toiimg.com/photo/msid-131002642,imgsize-88630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pnb-marico-aadhar-housing-kei-industries-top-stocks-to-watch-on-may-11-check-list/articleshow/131002650.cms",
-    "time": "2026-05-11T03:23:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude jumps after Trump rejects Iran’s latest offer; Strait of Hormuz remains shut",
-    "desc": "Oil prices surged as President Trump rejected Iran's peace proposal, reigniting fears over global energy supply routes. Hopes for breakthrough talks faded, shifting market attention to Trump's upcoming visit to Beijing. Saudi Aramco warned of significant oil market losses, while tankers navigated the Strait of Hormuz with tracking systems off.",
-    "img": "https://static.toiimg.com/photo/msid-131002575,imgsize-2396604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-jumps-after-trump-rejects-irans-latest-offer-strait-of-hormuz-remains-shut/articleshow/131002228.cms",
-    "time": "2026-05-11T03:17:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Urvil’s six-hitting carnage: 200-6s-a-day, Dhoni’s special bat and a promise",
-    "desc": "Urvil Patel’s explosive 65 off 23 balls against Lucknow Super Giants announced the arrival of CSK’s newest six-hitting sensation. The wicketkeeper-batter smashed six sixes within his first eight balls, rewrote IPL records. Backed by advice, and even a specially weighted bat from MS Dhoni, Urvil’s power-hitting philosophy is shaped by a gruelling routine of 200 practice sixes a day.",
-    "img": "https://static.toiimg.com/photo/msid-131001510,imgsize-100760.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/urvil-patels-six-hitting-carnage-the-200-sixes-a-day-routine-dhonis-special-bat-and-mai-dhamaka-karunga-promise/articleshow/131001208.cms",
-    "time": "2026-05-11T01:54:23.000Z"
   },
   {
     "cat": "Sports",
@@ -756,15 +765,6 @@ const newsData_en = [
     "time": "2026-05-09T16:06:41.000Z"
   },
   {
-    "cat": "World",
-    "title": "Indonesian rescuers find 1 body after volcano eruption as search continues for 2 more",
-    "desc": "Rescuers on May 9, recovered the body of an Indonesian woman who was caught in a volcanic eruption at Mount Dukono on Indonesia’s remote island of Halmahera a day earlier, as search operations continued to find the bodies of two Singaporeans",
-    "img": "https://th-i.thgim.com/public/incoming/kwxe9i/article70959269.ece/alternates/LANDSCAPE_1200/Indonesia_Volcano_Hikers_Killed_369_3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indonesian-rescuers-find-1-body-after-volcano-eruption-as-search-continues-for-2-more/article70959068.ece",
-    "time": "2026-05-09T13:53:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ayush Shetty’s slow-burn ascent",
     "desc": "The 6’4” shuttler isn’t the quintessential prodigy. He did not win a National Championship in any age category. But he has beaten the world’s best in recent weeks, showing he belongs on the big stage. What does the 21-year-old need to contend for badminton’s most prestigious tournaments?",
@@ -828,24 +828,6 @@ const newsData_en = [
     "time": "2026-05-09T02:39:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "why Europe’s big clubs covet the Leipzig winger",
-    "desc": "The 19-year-old has turned heads in Germany with his catalogue of spectacular goals and dazzling dribbles. His game isn’t fully formed yet, but his breakthrough season in the Bundesliga suggests that there are seemingly no limits to just how good he can get",
-    "img": "https://th-i.thgim.com/public/incoming/u6rp4w/article70956982.ece/alternates/LANDSCAPE_1200/GettyImages-2257964909.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/yan-diomande-rb-leipzig-bundesliga-breakout-star-transfer-interest-liverpool-psg-bayern/article70956987.ece",
-    "time": "2026-05-09T01:18:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI bans ‘unauthorised’ entries in players’ rooms; warns of honey traps, security risk",
-    "desc": "In an elaborate advisory for the 10 IPL franchises, the BCCI has said that written authorisation from the team managers would be a must for guests to have access to the players’ and officials’ rooms",
-    "img": "https://th-i.thgim.com/public/incoming/1046kz/article70957022.ece/alternates/LANDSCAPE_1200/IMG_PTI09_29_2024_000173_2_1_CPESG7SB.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/bcci-bans-unauthorised-entries-in-players-rooms-warns-of-honey-traps-security-risk/article70957017.ece",
-    "time": "2026-05-09T00:35:39.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Samsung Galaxy A57 Review",
     "desc": "Priced at ₹56,999, the Galaxy A57 is over ₹10,000 more than the previous model. This places it firmly in the sub-flagship category, where it competes with devices like the Vivo X200T and Samsung Galaxy S25 FE",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/amazon-mx-player-to-be-integrated-with-prime-video/article70950510.ece",
     "time": "2026-05-07T09:47:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Indigenous actor Q’orianka Kilcher sues James Cameron, claims ‘Avatar’ used her face for Neytiri",
+    "desc": "Kilcher claims Cameron and several production companies, including The Walt Disney Company and Lightstorm Entertainment, used her likeness after seeing a photograph of her from ‘The New World’, in which she portrayed Pocahontas at the age of 14",
+    "img": "https://th-i.thgim.com/public/incoming/62dqoy/article70949824.ece/alternates/LANDSCAPE_1200/Britain_Hit_Me_Hard_and_Soft__The_Tour_Screening__9657.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/indigenous-actor-qorianka-kilcher-sues-james-cameron-claims-avatar-used-her-face-for-neytiri/article70949835.ece",
+    "time": "2026-05-07T07:09:15.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Top Google scientist says EU data measures pose privacy risk for users",
+    "desc": "The European Commission, which acts as the EU competition enforcer, has in recent ‌years cracked down on Big Tech via a slew of legislation to ‌ensure ⁠that users have more choices and smaller rivals room to ⁠compete",
+    "img": "https://th-i.thgim.com/public/incoming/oyboni/article70945512.ece/alternates/LANDSCAPE_1200/2026-05-05T183938Z_836594049_RC253LAA54AD_RTRMADP_3_EU-ALPHABET-ANTITRUST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/top-google-scientist-says-eu-data-measures-pose-privacy-risk-for-users/article70945497.ece",
+    "time": "2026-05-06T05:58:02.000Z"
   }
 ];
