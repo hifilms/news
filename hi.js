@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Arsenal secure 1-0 win to extend lead in Premier League, West Ham left frustrated over goal cancellation",
+    "desc": "Arsenal tightened their grip on the Premier League title race after surviving a chaotic finish to defeat West Ham United 1-0 in London. However, it wasn’t a neat win as the closing moments left the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arsenal-secure-1-0-win-to-extend-lead-in-premier-league-west-ham-left-frustrated-over-goal-cancellation-in-95th-minute-2026-05-11-1040630",
+    "time": "2026-05-11T02:26:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia announce squads for series vs Pakistan, Bangladesh; Glenn Maxwell dropped from T20Is",
+    "desc": "Australia have announced a heavily reshaped squad for the upcoming white-ball tours of Pakistan and Bangladesh. They have added Under-19 captain Ollie Peake, who earned his maiden international call-up. The teenage batter has been selected...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-squads-for-series-vs-pakistan-bangladesh-glenn-maxwell-dropped-from-t20is-2026-05-11-1040627",
+    "time": "2026-05-11T01:48:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Emotional Krunal Pandya recalls time with 'goat of this format', MI days after match-winning knock",
+    "desc": "Royal Challengers Bengaluru moved back to the top of the IPL 2026 points table after a thrilling win over Mumbai Indians in Raipur. Chasing 167 runs, the Rajat Patidar-led side was under all sorts of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/emotional-krunal-pandya-recalls-time-with-goat-of-this-format-mi-days-after-match-winning-knock-watch-2026-05-11-1040624",
+    "time": "2026-05-11T01:25:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Barcelona lift La Liga for 29th time, beat Real Madrid 2-0 in decisive El Classico",
+    "desc": "FC Barcelona secured the 29th league title in their history, beating rivals Real Madrid 2-0 in the El Classico at the Spotify Camp Nou. With that, the Catalan giants secured the La Liga, with three...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/barcelona-lift-la-liga-for-29th-time-beat-real-madrid-2-0-in-decisive-el-classico-2026-05-11-1040621",
+    "time": "2026-05-11T00:55:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "RCB clinch heart-stopping thriller to return to winning ways, MI, LSG out of IPL 2026 playoffs race",
     "desc": "Royal Challengers Bengaluru edged past the Mumbai Indians in a heart-stopping last-over thriller to return to winning ways in the Indian Premier League 2026. RCB chased down a middling total of 167 on the final...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-was-written-on-csk-star-urvil-patels-chit-that-he-showed-after-hitting-ipls-joint-fastest-fifty-2026-05-10-1040606",
     "time": "2026-05-10T13:25:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Urvil Patel hits joint-fastest fifty in IPL history, breaks Suresh Raina's long-standing record",
-    "desc": "Chennai Super Kings batter Urvil Patel has etched his name into the history books as he has registered the joint-fastest fifty in the history of the Indian Premier League. Patel, who already boasts the fastest...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/urvil-patel-hits-joint-fastest-fifty-in-ipl-history-breaks-suresh-rainas-long-standing-record-2026-05-10-1040602",
-    "time": "2026-05-10T12:58:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "For first time at Chepauk! Josh Inglis creates IPL history after blistering fifty against CSK",
-    "desc": "Lucknow Super Giants batter Josh Inglis registered a major milestone during his blistering 85-run knock from 33 balls against the Chennai Super Kings at the MA Chidambaram Stadium in Chennai on Sunday, May 10. Inglis...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/for-first-time-at-chepauk-josh-inglis-creates-ipl-history-after-blistering-fifty-against-csk-2026-05-10-1040597",
-    "time": "2026-05-10T12:02:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India secure dramatic gold at Archery World Cup as Deepika leads team to glory",
-    "desc": "Veteran archer Deepika Kumari led the Indian women's team to a dramatic gold medal win over China at the Archery World Cup Stage 2 in Shanghai on Sunday. The Indian team of Deepika, Ankita Bhakat and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-secure-dramatic-gold-at-archery-world-cup-as-deepika-leads-team-to-glory-2026-05-10-1040593",
-    "time": "2026-05-10T11:28:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh announce squad for Women's T20 World Cup 2026, only two fast bowlers included",
-    "desc": "Bangladesh have announced their squad for the upcoming Women's T20 World Cup 2026, naming just two fast bowlers for the tournament that will be played in England. The squad features just two fast bowlers in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-announce-squad-for-womens-t20-world-cup-only-two-fast-bowlers-included-2026-05-10-1040588",
-    "time": "2026-05-10T10:33:48.000Z"
   }
 ];
