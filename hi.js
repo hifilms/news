@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India stay on top of ICC ODI rankings, move one place up in Test standings in annual update",
+    "desc": "The Indian men's team continue to dominate the ICC ODI rankings as the Champions Trophy winners stay on top in the ICC annual update released on Monday, May 11. India lead the ODI charts with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-stay-on-top-of-icc-odi-rankings-move-one-place-up-in-test-standings-in-annual-update-2026-05-11-1040709",
+    "time": "2026-05-11T11:32:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB head coach Andy Flower fined for 'use of an audible obscenity' during RCB vs MI IPL 2026 match",
+    "desc": "Royal Challengers Bengaluru head coach Andy Flower has been hit with a 15 per cent fine for breaching the IPL code of conduct during his team's clash against the Mumbai Indians at the Shaheed Veer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-head-coach-andy-flower-fined-for-use-of-an-audible-obscenity-during-rcb-vs-mi-ipl-2026-match-2026-05-11-1040702",
+    "time": "2026-05-11T10:46:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs CHN AFC U17 Women's Asian Cup live streaming: When and where to watch quarterfinal in India?",
+    "desc": "India women's U17 team is one step away from history as they lock horns against the Chinese side in the quarterfinal of the AFC U17 women's Asian Cup on Monday, May 11. The Women's team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/ind-vs-chn-afc-u17-womens-asian-cup-live-streaming-when-and-where-to-watch-quarterfinal-in-india-2026-05-11-1040696",
+    "time": "2026-05-11T10:20:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at HPCA Stadium in Dharamsala play?",
+    "desc": "Punjab Kings will host Delhi Capitals in their forthcoming IPL 2026 clash at the Himachal Pradesh Cricket Association Stadium in Dharamsala on May 11. Notably, the Shreyas Iyer-led side arrives at their second home venue...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-dc-pitch-report-how-will-surface-at-hpca-stadium-in-dharamsala-play-2026-05-11-1040688",
+    "time": "2026-05-11T08:44:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravichandran Ashwin calls for Bhuvneshwar Kumar's inclusion in Indian team, explains reason",
+    "desc": "Former India all-rounder Ravichandran Ashwin has backed veteran pacer Bhuvneshwar Kumar for a return to the national T20I setup after the pacer produced another match-winning display against Mumbai Indians in the ongoing IPL 2026. Notably,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-calls-for-bhuvneshwar-kumar-s-inclusion-in-indian-team-explains-reason-2026-05-11-1040682",
+    "time": "2026-05-11T08:07:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tim David shows middle fingers to Mumbai Indians after RCB's dramatic win in Raipur",
     "desc": "Royal Challengers Bengaluru’s dramatic last-ball victory over Mumbai Indians has sparked off-field attention after a viral video appeared to show Tim David reacting emotionally following the finish in Raipur. The footage circulating on social media...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-squads-for-series-vs-pakistan-bangladesh-glenn-maxwell-dropped-from-t20is-2026-05-11-1040627",
     "time": "2026-05-11T01:48:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Emotional Krunal Pandya recalls time with 'goat of this format', MI days after match-winning knock",
-    "desc": "Royal Challengers Bengaluru moved back to the top of the IPL 2026 points table after a thrilling win over Mumbai Indians in Raipur. Chasing 167 runs, the Rajat Patidar-led side was under all sorts of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/emotional-krunal-pandya-recalls-time-with-goat-of-this-format-mi-days-after-match-winning-knock-watch-2026-05-11-1040624",
-    "time": "2026-05-11T01:25:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Barcelona lift La Liga for 29th time, beat Real Madrid 2-0 in decisive El Classico",
-    "desc": "FC Barcelona secured the 29th league title in their history, beating rivals Real Madrid 2-0 in the El Classico at the Spotify Camp Nou. With that, the Catalan giants secured the La Liga, with three...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/barcelona-lift-la-liga-for-29th-time-beat-real-madrid-2-0-in-decisive-el-classico-2026-05-11-1040621",
-    "time": "2026-05-11T00:55:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB clinch heart-stopping thriller to return to winning ways, MI, LSG out of IPL 2026 playoffs race",
-    "desc": "Royal Challengers Bengaluru edged past the Mumbai Indians in a heart-stopping last-over thriller to return to winning ways in the Indian Premier League 2026. RCB chased down a middling total of 167 on the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-clinch-heart-stopping-thriller-to-return-to-winning-ways-mi-lsg-out-of-ipl-2026-playoffs-race-2026-05-10-1040619",
-    "time": "2026-05-10T18:20:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli climbs up on unwanted golden duck record after latest first-ball nought in RCB vs MI IPL 2026",
-    "desc": "Virat Kohli registered back-to-back ducks in the Indian Premier League 2026 after walking back for a first-ball nought against the Mumbai Indians at the Shaheed Veer Narayan Singh International Stadium, Raipur on Sunday, May 10....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-climbs-up-on-unwanted-golden-duck-record-after-latest-first-ball-nought-in-rcb-vs-mi-ipl-2026-2026-05-10-1040616",
-    "time": "2026-05-10T17:32:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch La Liga El Clasico in India?",
-    "desc": "Barcelona and Real Madrid gear up for the El Clasico at the Camp Nou, which could define the champions of the La Liga 2026. Barca, 11 points clear of Madrid, need just a draw to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/barcelona-vs-real-madrid-live-streaming-when-and-where-to-watch-la-liga-el-clasico-in-india-2026-05-10-1040613",
-    "time": "2026-05-10T15:30:03.000Z"
   }
 ];

@@ -1,5 +1,122 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "શું ખરેખર સરળ છે &amp;#039;વર્ક ફ્રોમ હોમ&amp;#039;? પીએમ મોદીની અપીલ બાદ ફરી શરૂ થઈ ચર્ચા",
+    "desc": "આજના સમયમાં જ્યારે વૈશ્વિક અર્થતંત્ર અને પર્યાવરણ બન્ને નાજુક વળાંક પર ઉભા છે, ત્યારે વડાપ્રધાન નરેન્દ્ર મોદીએ ફરી એકવાર 'વર્ક ફ્રોમ હોમ' (WFH)ને લઈને મોટી અપીલ કરી છે. પીએમની આ અપીલ માત્ર વર્ક-કલ્ચર બદલવા પૂરતી સીમિત નથી, પરંતુ તેની પાછળ ક્રૂડ ઓઈલના વધતા આયાત બિલને ઘટાડવા, કરોડો લિટર પેટ્રોલ-ડીઝલ બચાવવા અને ઝેરીલા પ્રદૂષણથી પૃથ્વીને બચાવવાનું એક મોટું ગ્લોબલ વિઝન છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/is-work-from-home-really-easy-discussion-resumes-after-pm-modi-appeal-477446 ",
+    "time": "2026-05-11T12:02:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લોકડાઉનનો ખતરો? મોદીની અપીલ પાછળનો આર્થિક ખેલ સમજો, 22 લાખ કરોડ રૂપિયા છે કારણ",
+    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીના હૈદરાબાદમાં કરેલા તાજેતરના ભાષણની દેશભરમાં વ્યાપક ચર્ચા થઈ રહી છે. પીએમ મોદીએ કરેલી અપીલો બાદ સોશિયલ મીડિયામાં લોકડાઉન અને કોવિડ જેવી સ્થિતિની અફવાઓ ચાલી રહી છે. કેજરીવાલે તો સોશિયલ મીડિયામાં પોસ્ટ કરી આર્થિક સંકટને હવા આપી છે તો પીએમ મોદીએ કેમ કરી અપીલો એ જાણવી જરૂરી છે. તમને ખબર નહીં હોય તો પીએમ મોદીની અપીલો એ દૂરંદેશી ભરેલી છે. ભારત હાલમાં આ પાછળ દર વર્ષે 22 લાખ કરોડનું વિદેશી હૂંડિયામણ ગુમાવે છે. જાણી લો આ આર્ટિકલમાં...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-gold-appeal-not-to-buy-for-1-year-work-form-home-this-is-impacts-on-indian-economy-477443 ",
+    "time": "2026-05-11T11:47:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;પોર્ન સ્ટાર&amp;#039; સાથે જોવા મળ્યો વિરાટ કોહલી ? સોશિયલ મીડિયા પર ફોટો વાયરલ, જાણો શું છે હકીકત",
+    "desc": "વિરાટ કોહલી હાલમાં IPL 2026માં રોયલ ચેલેન્જર્સ બેંગલુરુ માટે રમી રહ્યો છે. આ સિઝનમાં તેણે શાનદાર પ્રદર્શન કર્યું છે. આ દરમિયાન સોશિયલ મીડિયા પર એક ફોટોગ્રાફ ઝડપથી વાયરલ થઈ રહ્યો છે. જેમાં તે પોર્ન સ્ટાર સાથે જોવા મળી રહ્યો છે, ત્યારે શું છે સમગ્ર હકીકત તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-kendra-lust-photo-viral-on-social-media-know-the-truth-behind-it-477434 ",
+    "time": "2026-05-11T11:36:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રકુલ પ્રીતે ગુજરાતના ગીરમાં જંગલ સફારીના નિયમો તોડ્યા ? અધિકારીઓએ જણાવ્યું કારણ, જાણો",
+    "desc": "રકુલ પ્રીતિનો આ વાયરલ વીડિયો ગુજરાતના ગીર રાષ્ટ્રીય ઉદ્યાનનો છે, જ્યાં તે જોવા મળી રહી છે. રકુલનો આ વીડિયો વાયરલ થતાં જ નેટીઝન્સ તેને ટ્રોલ કરી રહ્યા છે, વન્યજીવન સંરક્ષણ નિયમોનું ઉલ્લંઘન કરવા બદલ તેની ટીકા કરી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/rakul-preet-broke-the-rules-of-gujarat-gir-jungle-safari-officials-reveal-the-real-reason-behind-the-viral-video-know-477426 ",
+    "time": "2026-05-11T11:09:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારતના આ રાજ્યોમાં મળે છે સૌથી સસ્તું સોનું, જાણો તેના પાછળનું કારણ અને કેટલી થશે બચત",
+    "desc": "સોનાના ભાવ સતત જોવા મળી રહેલા ઉતાર-ચઢાવ વચ્ચે હવે ગોલ્ડ ખરીદવું ખૂબ જ મુશ્કેલ બની ગયું છે, પરંતુ ભારતમાં કેટલાક એવા રાજ્યો પણ છે જ્યાં અન્ય રાજ્યોની સરખામણીમાં સોનું થોડું સસ્તું મળે છે. જાણો આ રાજ્યો વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/cheapest-gold-is-available-in-these-states-of-india-know-the-reason-behind-it-and-how-much-you-will-save-477425 ",
+    "time": "2026-05-11T10:59:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PM મોદીએ લોકોને 1 વર્ષ સુધી સોનું ન ખરીદવા માટે કેમ અપીલ કરી? એક્સપર્ટે જણાવ્યાં કારણો",
+    "desc": "પીએમ મોદીએ દેશવાસીઓને અપીલ કરી કે એક વર્ષ સુધી સોનું ખરીદવાનું ટાળવું જોઈએ. જરૂર ન હોય તો ન ખરીદવું. ત્યારે લોકોના મનમાં એ પ્રશ્ન પણ થઈ રહ્યો છે કે સોનું ન ખરીદવા માટે પીએમએ શાં માટે અપીલ કરી હશે? એક્સપર્ટે આ અપીલ પાછળ છૂપાયેલા 3 કારણો સમજાવ્યા છે. જે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/expert-reveals-3-reasons-behind-pm-modi-appeal-not-to-buy-gold-for-a-year-477423 ",
+    "time": "2026-05-11T10:51:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આ વીક OTT માટે ખાસ, મચઅવેટેડ ફિલ્મ ધુરંધર 2 સહિત ક્રાઈમ-થ્રીલર સીરીઝ થશે રિલીઝ",
+    "desc": "આ વીક ઓટીટી લવર્સ માટે ખાસ રહેવાનું છે. કારણ કે આ વીકમાં એક જ દિવસ દમદાર ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ થશે. સૌથી ખાસ વાત તો એ છે કે આ વીકમાં ધુરંધર 2 પણ ઓટીટી પર રિલીઝ થઈ જવાની છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-ott-release-date-confirm-15-may-2026-new-movie-and-web-series-releasing-on-ott-477420 ",
+    "time": "2026-05-11T10:26:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI-LSG બાદ હવે આ બે ટીમોનો વારો, IPL 2026માંથી થઈ શકે છે બહાર, પ્લેઓફની રેસ બની રોમાંચક",
+    "desc": "બે ટીમો સત્તાવાર રીતે IPL 2026 પ્લેઓફની રેસમાંથી બહાર થઈ ગઈ છે. હવે વધુ ટીમો પર લટકતી તલવાર છે. હકીકતમાં આમાંથી એક ટીમ માટે આજથી જ મુશ્કેલી ઊભી થઈ શકે છે. ત્યારે આ બે ટીમો કઈ છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-playoffs-scenario-dc-and-kkr-in-danger-of-elimination-477418 ",
+    "time": "2026-05-11T10:17:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પંજાબ કિંગ્સ vs દિલ્હી કેપિટલ્સ મેચ પર વરસાદનો ખતરો ! જો મેચ રદ થાય તો કોને થશે ફાયદો ?",
+    "desc": "IPL 2026ની 55મી મેચમાં આજે 11 મેના રોજ પંજાબ કિંગ્સ અને દિલ્હી કેપિટલ્સ ટકરાશે. આ મેચ ધર્મશાળાના HPCA સ્ટેડિયમ ખાતે સાંજે 7:30 વાગ્યે શરૂ થશે. મેચ દરમિયાન હવામાન કેવું રહેશે તે અંગે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/dharmashala-weather-report-who-will-benefit-if-the-pbks-vs-dc-match-is-cancelled-477402 ",
+    "time": "2026-05-11T09:00:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI સામેની મેચ દરમિયાન RCBના આ ખેલાડીએ કરી અશ્લીલ હરકત, IPL 2026માં રમવા પર લાગશે બેન ?",
+    "desc": "IPL 2026 દરમિયાન RCB અને MI વચ્ચે એક રોમાંચક મેચ રમાઈ હતી. આ મેચ દરમિયાન ટિમ ડેવિડે એક અશ્લીલ હરકત કરી હતી, જેનો એક વીડિયો સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે. ડેવિડે IPLના નિયમોનું ઉલ્લંઘન કર્યું છે, જેના માટે તેને શિસ્તભંગની કાર્યવાહીનો સામનો કરવો પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-rcb-vs-mi-match-tim-david-obscene-gesture-sparks-controversy-477399 ",
+    "time": "2026-05-11T08:16:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "આ છે દેશની સૌથી સુરક્ષિત SUV! ક્રેશ ટેસ્ટમાં મળ્યા 5-સ્ટાર, કિંમત માત્ર ₹5,64,990 થી શરૂ",
+    "desc": "ભારતમાં કાર ખરીદવા સમયે હવે માત્ર માઇલેજ અને ફીચર્સ જ નહીં, પરંતુ સેફ્ટી પણ સૌથી મોટું ફેક્ટર બની ગયું છે. Bharat NCAP 2026 ના નવા રેટિંગ્સમાં કેટલીક કારોએ શાનદાર રેન્ક હાસિલ કરી બધાને ચોંકાવ્યા છે. ખાસ વાત છે કે બે SUVs એ પરફેક્ટ 32/32 નો સ્કોર હાસિલ કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/this-is-the-safest-suv-in-the-country-5-star-in-crash-test-price-starts-from-just-%E2%82%B9564990-477396 ",
+    "time": "2026-05-11T07:57:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PM મોદીએ કહ્યું-1 વર્ષ સુધી સોનું ન ખરીદો, આજે બજાર ખુલતા જ સોનામાં કડાકો, જાણો લેટેસ્ટ રેટ",
+    "desc": "પીએમ મોદીએ સોના પર જે નિવેદન આપ્યું ત્યારબાદ આજે નવા અઠવાડિયાના પહેલા જ દિવસે સોના અને ચાંદીના ભાવમાં અસર જોવા મળી રહી છે. MCX પર સવારથી જ સોનું લાલ નિશાનમાં જોવા મળી રહ્યું છે જ્યારે રિટેલ બજારમાં પણ સોનામાં કડાકો જોવા મળ્યો છે. આજના સોના અને ચાંદીના ભાવ ખાસ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/pm-modi-appeal-dont-buy-gold-for-1-year-today-gold-price-down-check-mcx-retail-rates-477386 ",
+    "time": "2026-05-11T07:54:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સોમનાથ મંદિરના પુન:નિર્માણ સામે પંડિત નહેરુને શું વાંધો હતો? કેમ નહતા ગયા ઉદ્ધાટનમાં",
+    "desc": "સોમનાથ મંદિર માટે વર્ષ 2026 ખુબ મહત્વનું છે કારણ કે આ વર્ષમાં તેના પુન:નિર્માણને 75 વર્ષ પૂરા થઈ રહ્યા છે જેની ઉજવણી રૂપે સોમનાથ અમૃત મહોત્સવ ઉજવાઈ રહ્યો છે અને આ વર્ષમાં મંદિર પર પ્રથમ આક્રમણને 1000 વર્ષ પૂરા થયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-did-pandit-jawaharlal-nehru-oppose-the-reconstruction-of-somnath-temple-477373 ",
+    "time": "2026-05-11T07:04:04.000Z"
+  },
+  {
     "cat": "World",
     "title": "ટ્રમ્પના એક નિર્ણય બાદ ફરી યુદ્ધ ભડકી ઉઠે તેવા એંધાણ, શું થશે પેટ્રોલ-ડીઝલ, ગેસનું?",
     "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધને ખતમ કરવાની તમામ કોશિશો નિષ્ફળ જતી જોવા મળી રહી છે. એક બાજુ જ્યાં હોર્મુઝ બંધ થવાથી અને અમેરિકાએ કરેલી નાકાબંધીના કારણે દુનિયાભરમાં ઓઈલ અને ગેસનું સંકટ વધી રહ્યું છે ત્યાં બીજી બાજુ અમેરિકાએ ઈરાનનો શાંતિ પ્રસ્તાવ પણ ફગાવી દીધો છે.",
@@ -126,15 +243,6 @@ const newsData_gu = [
     "time": "2026-05-10T03:52:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "બંગાળ તો ફતેહ થઈ ગયું, હવે આ દક્ષિણ ભારતીય રાજ્ય પર છે ભાજપની નજર!",
-    "desc": "બંગાળમાં ભાજપ માટે જીત ખુબ અઘરી ગણવામાં આવતી હતી કારણ કે વર્ષોથી મમતા બેનર્જીનો ગઢ રહેલા પશ્ચિમ બંગાળમાં ભાજપ માટે સીટો વધારીને સત્તા સુધી પહોંચવું એ સરળ નહતું. આમ છતાં ભાજપે એ કરી બતાવ્યું. હવે ભાજપ માટે આવા જ કેટલાક અઘરા રાજ્યોમાં મજબૂત પક્ષોના ગઢના કાંકરા ખેરવવાની તૈયારી થઈ રહી છે. જાણો કયા રાજ્યો પર છે નજર, શું છે રોડમેપ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/now-bjp-eyeing-on-south-indian-states-what-is-the-strategy-477219 ",
-    "time": "2026-05-10T02:05:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "રાજસ્થાન રોયલ્સને 77 રને હરાવી ટોપ-2માં પહોંચ્યું ગુજરાત ટાઇટન્સ... RR ટોપ-4માંથી બહાર",
     "desc": "IPL 2026માં રાજસ્થાન રોયલ્સને ગુજરાત ટાઇટન્સ સામે 77 રનથી મોટી હારનો સામનો કરવો પડ્યો છે. રાજસ્થાનનો સવાઈ માનસિંહ સ્ટેડિયમ ખાતે આ સતત ત્રીજો પરાજય છે. આ સાથે જ ગુજરાત પોઈન્ટ ટેબલમાં બીજા નંબરે પહોંચી ગયું છે.",
@@ -142,15 +250,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rr-vs-gt-ipl-2026-rajasthan-royals-vs-gujarat-titans-match-highlights-477203 ",
     "time": "2026-05-09T18:06:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેરળના મુખ્યમંત્રી કોણ ? ખડગે અને રાહુલ ગાંધી લેશે અંતિમ નિર્ણય, દિલ્હીમાં ચાલી 3 કલાક બેઠક",
-    "desc": "કોંગ્રેસના મહાસચિવ દીપા દાસ મુનશીએ જણાવ્યું છે કે કેરળના નવા મુખ્યમંત્રી અંગે અંતિમ નિર્ણય કોંગ્રેસ પ્રમુખ મલ્લિકાર્જુન ખડગે અને રાહુલ ગાંધી લેશે. દિલ્હીમાં યોજાયેલી લાંબી બેઠક બાદ તેમણે માહિતી આપી કે કોંગ્રેસના તમામ ધારાસભ્યોએ હાઇકમાન્ડને નિર્ણય લેવા માટે અધિકૃત કર્યા છે અને ટૂંક સમયમાં નામની જાહેરાત કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-will-be-the-chief-minister-of-kerala-kharge-and-rahul-gandhi-will-take-the-final-decision-477195 ",
-    "time": "2026-05-09T16:46:49.000Z"
   },
   {
     "cat": "Business",
@@ -315,42 +414,6 @@ const newsData_gu = [
     "time": "2026-05-07T14:30:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026માં આ દિવસે મેદાનમાં ઉતરશે MS ધોની, તારીખ આવી સામે ! દિગ્ગજ ખેલાડીએ કર્યો ખુલાસો",
-    "desc": "IPL 2026માં અત્યાર સુધી ધોની એક પણ મેચ રમવા માટે મેદાનમાં ઉતર્યો નથી. પરિણામે ચાહકો તે ક્ષણની આતુરતાથી રાહ જોઈ રહ્યા છે જ્યારે તે ચેન્નાઈની જર્સીમાં મેદાન પર ઉતરશે. આ વચ્ચે પૂર્વ ક્રિકેટરે ચોક્કસ દિવસનો ખુલાસો કર્યો છે કે આ દિવસે ધોની CSK માટે રમવા માટે મેદાનમાં ઉતરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/mohammad-kaif-big-claim-ms-dhoni-will-play-for-csk-on-18th-may-476910 ",
-    "time": "2026-05-07T12:21:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 વચ્ચે પેટ કમિન્સને મળી 113 કરોડની ઓફર, શું છોડી દેશે સનરાઈઝર્સ હૈદરાબાદ ?",
-    "desc": "IPL 2026 વચ્ચે પેટ કમિન્સને એક મોટી ઓફર મળી છે. ક્રિકેટ ઓસ્ટ્રેલિયાએ તેના કરારને ત્રણ વર્ષ માટે લંબાવતા તેને 12 મિલિયન ડોલર એટલે કે લગભગ રૂપિયા 113 કરોડની ઓફર કરવામાં આવી છે, ત્યારે સવાલ એ છે કે શું આ ઓફર બાદ પેટ કમિન્સ IPLમાં નહીં રમે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pat-cummins-receives-12-million-dollars-contract-from-cricket-australia-during-ipl-2026-476891 ",
-    "time": "2026-05-07T11:02:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCIની એક પોલિસી IPLમાં બોલરો માટે બની કાળ, ચોગ્ગા-સિક્સરની રમઝટ પાછળનું અસલી કારણ આવ્યું સામે; આ છે ઇનસાઈડ સ્ટોરી",
-    "desc": "IPL 2026ની સીઝનમાં બેટ્સમેનો જોરદાર ફોર્મમાં જોવા મળી રહ્યા છે. દરેક મેચમાં રનોનો વરસાદ જોવા મળી રહ્યો છે. આ સીઝનમાં દર બીજી મેચમાં 200+ રન બની રહ્યા છે અને પ્રહાડ જેવો જોવા મળતો આ સ્કોર ઘણી વખત ચેઝ પણ થઈ જાય છે. હવે તેની પાછળનું કારણ સામે આવ્યું છે. BCCIની એક પોલિસી બોલરો માટે કાળ સાબિત થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-policy-became-a-curse-for-bowlers-in-ipl-reason-behind-the-fours-and-sixes-came-to-light-this-is-the-inside-story-476880 ",
-    "time": "2026-05-07T10:49:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "માત્ર 4 દિવસમાં 49%ની તોફાની તેજી, રોકેટની જેમ ઉડી રહ્યો છે આ શેર, કંપનીને મળી મોટી રાહત",
-    "desc": "કંપનીના શેરમાં મોટો ઘટાડો થયો પછી શેરમાં રોકેટ જેમ વધારો થઈ રહ્યો છે, 4 દિવસમાં કંપનીના શેરમાં 50 ટકા જેટલો ઉછાળો આવી ચુક્યો છે. રોકાણકારોને 4 દિવસની અંદર શેરનો ભાવ 50 ટકા સુધી વધી ગયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/a-stormy-rise-of-49-percent-in-just-4-days-this-stock-is-flying-like-a-rocket-the-company-got-a-big-relief-476862 ",
-    "time": "2026-05-07T09:08:41.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈરાન અમે અમેરિકા વચ્ચે ડીલ ફાઇનલ, પરંતુ ઇસ્લામાબાદમાં નહીં યોજાઈ બેઠક! જાણો 2 કારણ",
     "desc": "ઇસ્લામાબાદમાં બેઠક પર સંકટના વાદળો છવાયા છે. કારણ કે જિનેવામાં બેઠકને લઈને ચર્ચા થઈ રહી છે. તો એક અમેરિકી પત્રકારને ડોનાલ્ડ ટ્રમ્પે પાકિસ્તાન જવાથી રોકી દીધા છે. ટ્રમ્પે ન્યૂયોર્ક પોસ્ટના પત્રકારને કહ્યું કે અત્યારે તમે ઇસ્લામાબાદ ન જાવો.",
@@ -459,15 +522,6 @@ const newsData_gu = [
     "time": "2026-05-02T10:38:45.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "5-સ્ટાર AC ખરીદવું જોઈએ કે ઇન્વર્ટર AC ? જાણો શેમાં આવશે ઓછું વીજ બિલ",
-    "desc": "જ્યારે લોકો એસી ખરીદવા માટે દુકાને જાય છે, ત્યારે દુકાનદાર એટલા બધા વિકલ્પો આપે છે કે તેઓ મૂંઝવણમાં મુકાઈ જાય છે. એક પ્રશ્ન જે હંમેશા લોકોના મનમાં રહે છે કે કયું એસી ખરીદવું જોઈએ 5-સ્ટાર એસી કે ઇન્વર્ટર એસી ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/5-star-ac-vs-inverter-ac-which-ac-is-the-best-for-save-more-electricity-475989 ",
-    "time": "2026-05-02T10:36:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "મે મહિનાના ફર્સ્ટ વીકેન્ડ પર ઓટીટી પર જોવા માટે છે ઘણું બધું નવું, ચેક કરી લો લીસ્ટ",
     "desc": "મે મહિનાની શરુઆત ઓટીટી માટે ધમાકેદાર રહી છે. કારણ કે મે મહિનાના પહેલા વીકેન્ડમાં ઓટીટી પર નાના-મોટા સૌ કોઈ માટે ફિલ્મો અને સીરીઝ રિલીઝ થઈ છે. આ વીકેન્ડમાં કયા ઓટીટી પ્લેટફોર્મ પર શું નવું છે ફટાફટ જાણી લો.",
@@ -484,23 +538,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kapil-sharma-show-special-episode-on-netflix-with-ranveer-allahbadia-and-samay-raina-475945 ",
     "time": "2026-05-02T06:37:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બોક્સ ઓફિસ પર છવાઈ ગઈ રિતેશ દેશમુખની ફિલ્મ રાજા શિવાજી, પહેલા દિવસે કેટલી કમાણી કરી જાણો",
-    "desc": "રિતેશ દેશમુખની ફિલ્મ રાજા શિવાજી શુક્રવારે રિલીઝ થઈ ચુકી છે. ફિલ્મને લોકો તરફથી સારો પ્રતિસાદ મળી રહ્યો છે તે વાત ફિલ્મની પહેલા દિવસની કમાણીને જોતાં કહી શકાય છે. ફિલ્મની કમાણી કેટલી થઈ અને ફિલ્મ કેવી છે ચાલો તમને પણ જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/riteish-deshmukh-film-raja-shivaji-review-and-first-day-box-office-collection-in-gujarati-475904 ",
-    "time": "2026-05-02T03:04:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "નેટફ્લિક્સ પર જોવા મળશે સૈફ અલી ખાનની ક્રાઈમ થ્રિલર ફિલ્મ કર્તવ્ય, 3 વર્ષના ઈંતેઝાર પછી મળી રિલીઝ ડેટ",
-    "desc": "શાહરુખ ખાનના રેડ ચીલી બેનર હેઠળ બનેલી સૈફ અલી ખાન અને રસીકા દુગ્ગલની ફિલ્મ કર્તવ્ય મે મહિનામાં ઓટીટી પર રિલીઝ થશે. આ ફિલ્મ છેલ્લા 3 વર્ષથી અટકેલી હતી. અંતે હવે મે મહિનામાં ફિલ્મને ઓટીટી પર રિલીઝ કરી દેવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/saif-ali-khan-crime-thriller-film-releasing-netflix-on-15-may-2026-475797 ",
-    "time": "2026-05-01T09:06:33.000Z"
   }
 ];
