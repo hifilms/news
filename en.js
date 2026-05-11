@@ -1,6 +1,87 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "PM Modi repackaging failure as moral advice, says Congress",
+    "desc": "Opposition parties are criticizing PM Modi's call for austerity amidst the West Asia crisis, labeling it a tactic to evade accountability for economic failures. Leaders like Rahul Gandhi and Mallikarjun Kharge argue the PM is shifting responsibility onto the public. Akhilesh Yadav and Tejashwi Yadav also questioned the timing and perceived hypocrisy of these austerity demands.",
+    "img": "https://static.toiimg.com/photo/msid-131023925,imgsize-25886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-repackaging-failure-as-moral-advice-says-congress/articleshow/131023922.cms",
+    "time": "2026-05-11T21:44:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi to depart for 5-nation tour on Friday, beginning with UAE",
+    "desc": "Prime Minister Narendra Modi embarks on a five-nation tour starting Friday, with the UAE as his first stop. He will meet President Mohamed bin Zayed Al Nahyan to discuss bilateral and regional issues, including energy cooperation. This visit marks his first to a Gulf country since the West Asia conflict began.",
+    "img": "https://static.toiimg.com/photo/msid-131023705,imgsize-24270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-depart-for-5-nation-tour-on-friday-beginning-with-uae/articleshow/131023702.cms",
+    "time": "2026-05-11T21:23:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress calls ex-chiefs of Kerala unit to brainstorm on next CM",
+    "desc": "Congress is expanding consultations to select Kerala's new chief minister, with AICC general secretary K C Venugopal and leader of opposition V D Satheesan vying for the top post. The party leadership is engaging with former state presidents and other leaders to ensure the final nominee is well-received, amid speculation and potential backlash.",
+    "img": "https://static.toiimg.com/photo/msid-131023699,imgsize-40690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-calls-ex-chiefs-of-kerala-unit-to-brainstorm-on-next-cm/articleshow/131023695.cms",
+    "time": "2026-05-11T21:18:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trisha’s blue saree at Vijay’s swearing-in reminds fans of Aishwarya",
+    "desc": "The swearing-in ceremony of Thalapathy Vijay as the Chief Minister of Tamil Nadu turned into one of the biggest talking points online this week. While videos from the event — ranging from the actor-politician’s speech to his power dressing — quickly went viral, it was Trisha Krishnan who unexpectedly grabbed social media’s attention with her elegant appearance at the ceremony. Internet users dug up an old photograph of Aishwarya from her meeting with former Prime Minister Atal Bihari Vajpayee in 2000, where the actress wore a similar blue saree with golden embroidery.",
+    "img": "https://static.toiimg.com/photo/msid-131023591,imgsize-75974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnans-blue-saree-at-vijays-swearing-in-reminds-fans-of-aishwarya-rai-bachchans-iconic-look-with-atal-bihari-vajpayee/articleshow/131023568.cms",
+    "time": "2026-05-11T20:37:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPM",
+    "desc": "CPM's MA Baby defended Kerala CM Pinarayi Vijayan, stating the party's defeat is a collective responsibility, not an individual's. He emphasized self-criticism and corrective measures for the entire leadership. Baby also expressed concern over the rise of right-wing forces and the BJP's gains in Kerala.",
+    "img": "https://static.toiimg.com/photo/msid-131023419,imgsize-43790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wrong-to-single-out-pinarayi-vijayan-for-taking-moral-responsibility-for-poll-defeat-cpm/articleshow/131023417.cms",
+    "time": "2026-05-11T19:58:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sarvam AI",
+    "desc": "India must urgently develop its own frontier-scale AI models to avoid becoming a passive consumer and to shape global technology rules, according to Sarvam AI co-founder Pratyush Kumar. The company is preparing to train a trillion-parameter AI model, emphasizing the need for strategic capability and ownership of foundational models to capture economic value and prevent repeating past technological revolution mistakes.",
+    "img": "https://static.toiimg.com/photo/msid-131023360,imgsize-44132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-must-build-its-own-ai-models-sarvam-ai/articleshow/131023283.cms",
+    "time": "2026-05-11T19:38:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Metal recycling shines amid high prices",
+    "desc": "Indians are increasingly recycling and exchanging old gold jewelry for new pieces due to rising prices and volatility. This trend has significantly boosted exchange programs at retailers like P.N. Gadgil & Sons and Tanishq, with consumers opting for lower caratages and alternative jewelry to manage costs.",
+    "img": "https://static.toiimg.com/photo/msid-131023311,imgsize-101754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/old-is-gold-metal-recycling-shines-amid-high-prices/articleshow/131023279.cms",
+    "time": "2026-05-11T19:37:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Equity MFs see net inflows of '38.4k crore, slight fall in April",
+    "desc": "Despite volatile markets, investors continued to pour money into mutual funds in April, with equity funds seeing Rs 38,440 crore in net inflows and debt funds experiencing a significant Rs 2.47 lakh crore. This marks the 62nd consecutive month of equity inflows, indicating a balanced, allocation-focused approach by investors seeking diversified strategies to navigate market fluctuations.",
+    "img": "https://static.toiimg.com/photo/msid-131023249,imgsize-26976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/equity-mfs-see-net-inflows-of-38-4k-crore-slight-fall-in-april/articleshow/131023153.cms",
+    "time": "2026-05-11T19:27:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "No reform complacency, to ensure macro stability: Shaktikanta Das",
+    "desc": "The government remains committed to reforms and policy certainty, aiming for macroeconomic stability and global competitiveness, according to Principal Secretary Shaktikanta Das. He urged Indian businesses to build resilience by strengthening balance sheets, diversifying markets, and investing in R&D. Recent FTAs are expected to boost integration into global value chains.",
+    "img": "https://static.toiimg.com/photo/msid-131023166,imgsize-1280594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/no-reform-complacency-to-ensure-macro-stability-shaktikanta-das/articleshow/131023150.cms",
+    "time": "2026-05-11T19:27:35.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Education Budget will grow every year, says Telangana CM Revanth Reddy",
     "desc": "Allocations to the sector would be gradually increased to 15% of the annual Budget, says Reddy, also the Education Minister, while launching the ‘Exclusive Education Week’ celebrations in Hyderabad; also unveils ₹1,700-crore infrastructure works for integrated school complexes, additional classrooms and pre-primary sections in government schools",
     "img": "https://th-i.thgim.com/public/incoming/nrw8v7/article70966873.ece/alternates/LANDSCAPE_1200/_DSC4416.JPG",
@@ -16,6 +97,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/amid-ai-push-ltm-ramps-up-fresher-hiring-by-40/articleshow/131023057.cms",
     "time": "2026-05-11T19:19:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Four Groww investors to sell 4.3% in co, eye $500 million",
+    "desc": "Four major investors, including Peak XV and Sequoia, are selling a 4.3% stake in fintech firm Groww, valued at approximately $500 million. This move comes as the lock-in period for pre-IPO shareholders is set to expire soon, potentially releasing shares worth over Rs 81,000 crore into the market.",
+    "img": "https://static.toiimg.com/photo/msid-131023110,imgsize-21456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/four-groww-investors-to-sell-4-3-in-co-eye-500-million/articleshow/131023055.cms",
+    "time": "2026-05-11T19:19:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -424,24 +514,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘Project Hail Mary’ OTT: When to watch Ryan Gosling’s film",
-    "desc": "Fresh off its successful box office journey, Ryan Gosling's 'Project Hail Mary' has launched globally in a digital format, now embracing a variety of Indian languages. Meanwhile, audiences in India eagerly anticipate Ranveer Singh's 'Dhurandhar 2' on JioHotstar, as its Netflix international release stirs conversations about content censorship and the timing of its domestic streaming arrival.",
-    "img": "https://static.toiimg.com/photo/msid-131014061,imgsize-63382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/project-hail-mary-ott-release-india-when-and-where-to-watch-ryan-gosling-led-space-film-before-ranveer-singh-starrer-dhurandhar-2/articleshow/131014061.cms",
-    "time": "2026-05-11T12:33:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "West Bengal govt sacks nominated board members, scraps service extensions beyond age 60",
-    "desc": "In a separate direction, the state government also asked departments to discontinue the re-employment and service extensions granted to officers and officials who continued beyond the usual retirement age of 60 years. \"The government has issued an order to take necessary action to immediately terminate the tenures of the nominated members, directors, or chairpersons of different boards, organisations, non-statutory bodies and public sector undertakings of the state government,\" a senior bureaucrat said.",
-    "img": "https://static.toiimg.com/photo/msid-131013345,imgsize-40514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-govt-sacks-nominated-board-members-scraps-service-extensions-beyond-age-60/articleshow/131013068.cms",
-    "time": "2026-05-11T11:57:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar' actor Gaurav Gera defends Ranveer amidst five vanity van rumours",
     "desc": "Gaurav Gera has dismissed rumors of Ranveer Singh demanding multiple vanity vans on the sets of 'Dhurandhar'. Gera shared a playful anecdote of Ranveer mimicking his 'Chutki' character, highlighting the actor's fun nature. While Farah Khan joked about the vanity van demands, Gera clarified he didn't witness such extravagance.",
     "img": "https://static.toiimg.com/photo/msid-131013312,imgsize-50970.cms",
@@ -457,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-bhuvneshwar-kumar-should-be-back-in-india-colours-ex-india-cricketer-urges-selectors-for-recall/articleshow/131013167.cms",
     "time": "2026-05-11T11:54:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi slams PM's fuel appeal; NIA probes Bengaluru explosives on PM's convoy route &amp; more",
-    "desc": "Rahul Gandhi criticizes PM Modi's economic appeals as a sign of failure, while a security scare involving explosives near the PM's convoy route prompts an NIA investigation. Meanwhile, Iran defends its peace proposal against US \"unreasonable demands,\" and a US passenger from a Hantavirus-hit cruise tests positive but shows no symptoms.",
-    "img": "https://static.toiimg.com/photo/msid-131013208,imgsize-38486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-rahul-gandhi-slams-pms-fuel-appeal-nia-probes-bengaluru-explosives-on-pms-convoy-route-more/articleshow/131012547.cms",
-    "time": "2026-05-11T11:51:16.000Z"
   },
   {
     "cat": "World",
@@ -549,15 +612,6 @@ const newsData_en = [
     "time": "2026-05-11T09:57:29.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Why PM Modi wants Indians to avoid buying gold for a year",
-    "desc": "Prime Minister Modi urged Indians to halt gold purchases for a year to protect foreign exchange reserves, a call supported by GTRI which highlighted a surge in gold imports straining the trade balance. Union Minister Ashwini Vaishnaw echoed the appeal, emphasizing reduced import spending amid Middle East conflict, leading to a sell-off in jewellery stocks.",
-    "img": "https://static.toiimg.com/photo/msid-131010472,imgsize-2487998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/why-pm-modi-wants-indians-to-avoid-buying-gold-for-a-year/articleshow/131010333.cms",
-    "time": "2026-05-11T09:54:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Worth fighting for’: Krunal’s painful scar photo goes viral after RCB-MI thriller",
     "desc": "Krunal Pandya battled severe cramps to score a match-winning 73 off 46 balls, powering Royal Challengers Bengaluru to a thrilling last-ball victory against his former franchise, Mumbai Indians. Despite immense physical pain, Pandya's resilience and crucial partnerships revived RCB's chase, securing a vital win that knocked MI out of playoff contention.",
@@ -576,15 +630,6 @@ const newsData_en = [
     "time": "2026-05-11T09:33:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "No plan to hike gold and silver import duties, US-India trade talks expected soon: Govt source",
-    "desc": "Government sources indicate no immediate plans to hike gold and silver import duties, despite calls to curb non-essential gold purchases. Meanwhile, India anticipates US trade talks addressing pending issues, including a Section 301 probe, though a comprehensive deal remains distant. India has contested US allegations of structural overcapacity, urging the termination of the investigation.",
-    "img": "https://static.toiimg.com/photo/msid-131009654,imgsize-88148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/no-plan-to-hike-gold-and-silver-import-duties-us-india-trade-talks-expected-soon-govt-source/articleshow/131009242.cms",
-    "time": "2026-05-11T09:17:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Gracias El Clasico’: Title look of Tovino Thomas-Nazriya Nazim starrer unveiled",
     "desc": "The leading duo unveiled the title look of the film during the kickoff of the El Clasico match-up between Barcelona FC and Real Madrid, streaming it live through their social media handles at 12.30 am.",
@@ -594,15 +639,6 @@ const newsData_en = [
     "time": "2026-05-11T09:13:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Ashwini Vaishnaw reiterates PM Modi’s call to cut gold purchases: 'Do whatever best you can'",
-    "desc": "Amidst the escalating Middle East conflict, Union Minister Ashwini Vaishnaw echoed PM Modi's call for Indians to reduce import spending and conserve foreign exchange. He urged citizens and businesses to make conscious choices to save forex, highlighting fuel expenditure as a key area for reduction. This initiative aims to protect the nation's economic interests as global energy supplies face strain.",
-    "img": "https://static.toiimg.com/photo/msid-131008268,imgsize-97924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ashwini-vaishnaw-reiterates-pm-modis-call-to-cut-gold-purchases-do-whatever-best-you-can/articleshow/131007637.cms",
-    "time": "2026-05-11T08:12:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Time for Mumbai Indians to bench Suryakumar Yadav and Tilak Varma; rest Jasprit Bumrah",
     "desc": "Mumbai Indians crashed out of the IPL after a loss to the Royal Challengers Bengaluru, marking their sixth consecutive season without a trophy. Inconsistent performances from the likes of Suryakumar Yadav and Tilak Varma and a lack of support for Jasprit Bumrah have plagued the team. Yet, Head coach Mahela Jayawardene continues to back the 'core group' despite the struggles.",
@@ -610,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-time-for-mumbai-indians-to-bench-suryakumar-yadav-and-tilak-varma-rest-jasprit-bumrah/articleshow/131007429.cms",
     "time": "2026-05-11T07:45:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nitin Gadkari inaugurates Multi Lane Free Flow tolling on UER-II in Delhi: How will it help commuters?",
-    "desc": "Delhi's Urban Extension Road-II now features Multi Lane Free Flow tolling. This technology allows vehicles to pass without stopping. Road Transport Minister Nitin Gadkari inaugurated the system. This upgrade aims to improve connectivity for nearby villages and habitations. It also supports smoother urban traffic flow. This barrier-less tolling system is a significant step in modernizing India's transport infrastructure.",
-    "img": "https://static.toiimg.com/photo/msid-131006735,imgsize-79064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-inaugurates-multi-lane-free-flow-tolling-on-uer-ii-in-delhi-how-will-it-help-commuters/articleshow/131006407.cms",
-    "time": "2026-05-11T06:55:43.000Z"
   },
   {
     "cat": "World",
@@ -756,15 +783,6 @@ const newsData_en = [
     "time": "2026-05-09T16:12:14.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
-    "desc": "On the appointment of the two Labour Party grandees, Mr. Starmer said that as Britain’s longest-serving chancellor, former PM Gordon Brown is well placed to work with international allies to boost the country’s security and resilience",
-    "img": "https://th-i.thgim.com/public/incoming/kh2xbp/article70960064.ece/alternates/LANDSCAPE_1200/Britain_Elections_69_82.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-pm-starmer-turns-to-labour-party-grandees-after-tough-local-election-verdict/article70959672.ece",
-    "time": "2026-05-09T16:06:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ayush Shetty’s slow-burn ascent",
     "desc": "The 6’4” shuttler isn’t the quintessential prodigy. He did not win a National Championship in any age category. But he has beaten the world’s best in recent weeks, showing he belongs on the big stage. What does the 21-year-old need to contend for badminton’s most prestigious tournaments?",
@@ -817,15 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/large-scale-banking-fraud-involving-anil-ambanis-adag-requires-thorough-probe-says-sc/article70955604.ece",
     "time": "2026-05-09T04:08:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA to stage separate World Cup opening ceremonies in Mexico, Canada and U.S.",
-    "desc": "The ‌biggest World Cup in history kicks off on June ‌11 in Mexico City, where ‌Grammy ⁠Award-winning Mexican pop band Mana ⁠will be performing as part of a lineup that also includes Alejandro Fernandez and ​Belinda",
-    "img": "https://th-i.thgim.com/public/incoming/8nkykl/article70958018.ece/alternates/LANDSCAPE_1200/2026-05-08T230750Z_1344745318_RC245LAP6K2W_RTRMADP_3_SOCCER-WORLDCUP-USA-HOUSTON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-to-stage-separate-world-cup-opening-ceremonies-in-mexico-canada-and-us/article70958013.ece",
-    "time": "2026-05-09T02:39:05.000Z"
   },
   {
     "cat": "Tech",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/indigenous-actor-qorianka-kilcher-sues-james-cameron-claims-avatar-used-her-face-for-neytiri/article70949835.ece",
     "time": "2026-05-07T07:09:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Top Google scientist says EU data measures pose privacy risk for users",
-    "desc": "The European Commission, which acts as the EU competition enforcer, has in recent ‌years cracked down on Big Tech via a slew of legislation to ‌ensure ⁠that users have more choices and smaller rivals room to ⁠compete",
-    "img": "https://th-i.thgim.com/public/incoming/oyboni/article70945512.ece/alternates/LANDSCAPE_1200/2026-05-05T183938Z_836594049_RC253LAA54AD_RTRMADP_3_EU-ALPHABET-ANTITRUST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/top-google-scientist-says-eu-data-measures-pose-privacy-risk-for-users/article70945497.ece",
-    "time": "2026-05-06T05:58:02.000Z"
   }
 ];
