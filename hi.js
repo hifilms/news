@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tottenham secure a point against Leeds United amid battling relegation in Premier League",
+    "desc": "Tottenham Hotspur missed a major opportunity to strengthen their position in the Premier League survival race after being held by Leeds United at home. Head coach Roberto De Zerbi was visibly furious on the touchline...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/tottenham-secure-a-point-against-leeds-united-amid-battling-relegation-in-premier-league-2026-05-12-1040766",
+    "time": "2026-05-12T02:31:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer blames bowlers and fielding effort after Punjab Kings' defeat to Delhi Capitals in IPL 2026",
+    "desc": "Punjab Kings suffered their fourth consecutive defeat in the ongoing IPL 2026. Against Delhi Capitals, the Shreyas Iyer-led side suffered a three-wicket defeat, which can complicate their progress to the playoffs. They posted 210 runs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-blames-bowlers-and-fielding-effort-after-punjab-kings-defeat-to-delhi-capitals-in-ipl-2026-2026-05-12-1040761",
+    "time": "2026-05-12T02:05:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Organiser Satadru Dutta to file defamation case, calls out 'failure of administration'",
+    "desc": "The G.O.A.T event organiser Satadru Dutta has accused the West Bengal Police and local administration of mishandling security arrangements during Lionel Messi’s recent India tour. He claimed to be unfairly blamed and arrested after chaos...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-goat-tour-organiser-satadru-dutta-to-file-defamation-case-calls-out-failure-of-administration-and-police-2026-05-12-1040755",
+    "time": "2026-05-12T01:31:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Report",
+    "desc": "Veteran South Africa pacer Shabnim Ismail is set to reverse her international retirement and could be in contention for the upcoming Women’s T20 World Cup 2026. She retired from international cricket two years ago and,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-star-set-to-reverse-retirement-ahead-of-the-t20-world-cup-2026-report-2026-05-12-1040753",
+    "time": "2026-05-12T01:02:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "DC create history with win over PBKS, stay alive in IPL 2026 as Punjab slump to fourth straight loss",
     "desc": "Delhi Capitals registered the highest-ever T20 chase at the HPCA Stadium, Dharamsala, as they hunted down 211 against the Punjab Kings in their IPL 2026 clash on Monday, May 11. DC handed PBKS their fourth...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-body-language-is-something-i-have-never-seen-ex-mi-csk-star-on-teams-early-ipl-2026-exit-2026-05-11-1040723",
     "time": "2026-05-11T13:05:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India stay on top of ICC ODI rankings, move one place up in Test standings in annual update",
-    "desc": "The Indian men's team continue to dominate the ICC ODI rankings as the Champions Trophy winners stay on top in the ICC annual update released on Monday, May 11. India lead the ODI charts with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-stay-on-top-of-icc-odi-rankings-move-one-place-up-in-test-standings-in-annual-update-2026-05-11-1040709",
-    "time": "2026-05-11T11:32:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB head coach Andy Flower fined for 'use of an audible obscenity' during RCB vs MI IPL 2026 match",
-    "desc": "Royal Challengers Bengaluru head coach Andy Flower has been hit with a 15 per cent fine for breaching the IPL code of conduct during his team's clash against the Mumbai Indians at the Shaheed Veer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-head-coach-andy-flower-fined-for-use-of-an-audible-obscenity-during-rcb-vs-mi-ipl-2026-match-2026-05-11-1040702",
-    "time": "2026-05-11T10:46:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs CHN AFC U17 Women's Asian Cup live streaming: When and where to watch quarterfinal in India?",
-    "desc": "India women's U17 team is one step away from history as they lock horns against the Chinese side in the quarterfinal of the AFC U17 women's Asian Cup on Monday, May 11. The Women's team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ind-vs-chn-afc-u17-womens-asian-cup-live-streaming-when-and-where-to-watch-quarterfinal-in-india-2026-05-11-1040696",
-    "time": "2026-05-11T10:20:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at HPCA Stadium in Dharamsala play?",
-    "desc": "Punjab Kings will host Delhi Capitals in their forthcoming IPL 2026 clash at the Himachal Pradesh Cricket Association Stadium in Dharamsala on May 11. Notably, the Shreyas Iyer-led side arrives at their second home venue...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-dc-pitch-report-how-will-surface-at-hpca-stadium-in-dharamsala-play-2026-05-11-1040688",
-    "time": "2026-05-11T08:44:05.000Z"
   }
 ];
