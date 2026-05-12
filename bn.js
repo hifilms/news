@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "তামিলনাড়ুতে এক ধাক্কায় বন্ধ ৭১৭ মদের দোকান, কড়া নির্দেশ মুখ্যমন্ত্রী বিজয়ের: কিন্তু কেন?",
+    "desc": "তামিলনাড়ুর মুখ্যমন্ত্রী হিসেবে শপথ নিয়েই বড় সিদ্ধান্ত নিলেন সি. জোসেফ বিজয়। রাজ্যের ৭১৭টি সরকারি মদের দোকান বন্ধের নির্দেশ দিলেন তিনি। স্কুল, মন্দির ও বাস স্ট্যান্ডের কাছাকাছি থাকা এই দোকানগুলি আগামী ১৪ দিনের মধ্যে বন্ধ হবে। মাদক-মুক্ত তামিলনাড়ু গড়ার পথে এটিই বিজয়ের প্রথম বড় পদক্ষেপ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tamil-nadu-cm-vijay-orders-717-tasmac-liquor-shops-closure_653683.html ",
+    "time": "2026-05-12T10:42:12.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "সুপারস্টার থেকে মুখ্যমন্ত্রী: একসময় দুবেলা জুটত না খাবার, বিজয়ের শপথে চোখে জল বাবার",
     "desc": "শূন্য থেকে শুরু করে আজ রাজ্যের শীর্ষাসনে! তামিলনাড়ুর নতুন মুখ্যমন্ত্রী হিসেবে শপথ নিলেন বিজয় থালাপতি। ছেলের সাফল্যে চোখে জল বাবা এস এ চন্দ্রশেখরের। দারিদ্র্যের সেই কঠিন দিনগুলো মনে করে আবেগপ্রবণ গোটা পরিবার। সিনেমার পর্দার থালাপতি এখন বাস্তব জীবনের জননেতা। এক নতুন লড়াইয়ের শুরু!",
@@ -52,15 +61,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/operation-sindoor-turns-anniversary-spotlight-on-indias-top-security-leadership_653043.html ",
     "time": "2026-05-08T09:13:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাত ১:০৫, শুরু অপারেশন সিঁদুর- ৮৮ ঘণ্টায় যেভাবে পাক সন্ত্রাসের কোমর ভাঙে ভারত",
-    "desc": "৭ মে পহেলগাঁও হামলার প্রতিশোধ নিতে ভারতীয় সেনাবাহিনী 'অপারেশন সিঁদুর' চালায়। মাত্র ৮৮ ঘণ্টায় পাকিস্তান ও পিওকে-র ৯টি বড় জঙ্গি ঘাঁটি এবং ১১টি পাক বিমানঘাঁটি ধ্বংস করা হয়। এই নিখুঁত অভিযানে ১০০-র বেশি জঙ্গি খতম হয় এবং পাকিস্তানের আধুনিক যুদ্ধবিমান ও মিসাইল ব্যবস্থা অকেজো হয়ে যায়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/operation-sindoor-indias-deadly-revenge-on-pakistan-terror-hubs_653039.html ",
-    "time": "2026-05-08T07:52:39.000Z"
   },
   {
     "cat": "World",
@@ -171,15 +171,6 @@ const newsData_bn = [
     "time": "2026-05-02T16:18:53.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "প্যান্টের ভিতরে ঢুকে পা জড়িয়ে উপরে ওঠে কোবরা, দেয় ভয়ংকর ছোবল, পুরুষাঙ্গে? সাপুড়ের ভয়াল খেলা",
     "desc": "পর্যটকের শরীরে বিষক্রিয়ার স্পষ্ট লক্ষণ। তাঁর হৃদরোগে আক্রান্ত হওয়ার মতো অবস্থা হয়। তাঁকে দ্রুত হাসপাতালে নিয়ে যাওয়ার ব্যবস্থা হয়। তার আগে কৃত্রিম উপায়ে শ্বাস-প্রশ্বাস সচল করার চেষ্টাও করা হয়। কিন্তু শেষ পর্যন্ত কিছুই কাজে এল না!",
@@ -187,23 +178,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/snake-bites-tourist-tourist-dies-after-cobra-bites-in-snake-charmer-show-cobra-crawl-into-tourists-trousers-during-show-egypt_651511.html ",
     "time": "2026-04-29T10:45:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "700% More Urban Poor By 2050: থাকবে না কোনও টাকাকড়ি, ৭০০% মানুষ আরও গরিব হবে- চরম সতর্কতা বিশ্বব্যাংকের, কেন?",
-    "desc": "বিশ্বব্যাংক বলছে, চরম গরম আর শুধু ঋতুভিত্তিক অস্বস্তি নয়—এটি দ্রুতই বিশ্বের অন্যতম প্রাণঘাতী ও অর্থনৈতিকভাবে ক্ষতিকারক নাগরিক সমস্যায় পরিণত হচ্ছে। বিশ্বব্যাংক সতর্ক করেছে, ২০৫০ সালের মধ্যে চরম তাপে ক্ষতিগ্রস্ত শহুরে দরিদ্র মানুষের সংখ্যা বিশ্বজুড়ে ৭০০% পর্যন্ত বাড়তে পারে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/silent-killer-extreme-heat-700-percent-more-urban-poor-by-2050-world-bank-warns_651103.html ",
-    "time": "2026-04-27T11:25:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

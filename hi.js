@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How surface at Narendra Modi Stadium in Ahmedabad is expected to play?",
+    "desc": "Gujarat Titans and Sunrisers Hyderabad are set to lock horns in a high-stakes encounter at the Narendra Modi Stadium in Ahmedabad on Tuesday, May 12, as the race for the playoffs heats up more than...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-srh-ipl-2026-pitch-report-how-surface-at-narendra-modi-stadium-in-ahmedabad-is-expected-to-play-2026-05-12-1040833",
+    "time": "2026-05-12T10:42:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sakshi Malik backs Vinesh Phogat after WFI denied entry; urges PM Modi, Sports Minister to intervene",
+    "desc": "Sakshi Malik has come out in support of Vinesh Phogat amid the wrestler’s ongoing dispute with the Wrestling Federation of India (WFI) over her comeback to competitive wrestling. The Rio Olympic medallist criticised the federation...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sakshi-malik-backs-vinesh-phogat-after-wfi-denied-entry-urges-pm-modi-sports-minister-to-interfere-2026-05-12-1040822",
+    "time": "2026-05-12T09:33:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa announce T20 World Cup 2026 squad; Shabnim Ismail returns, breaking international retirement",
+    "desc": "Veteran fast bowler Shabnim Ismail reversed her retirement and has been named in South Africa’s T20 World Cup 2026 squad. The 37-year-old stepped away from international cricket in 2023, but has been included in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-announce-t20-world-cup-2026-squad-shabnim-ismail-returns-breaking-international-retirement-2026-05-12-1040813",
+    "time": "2026-05-12T08:35:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Neeraj Chopra's name missing from Rome Diamond League? Sachin Yadav to make debut",
+    "desc": "Two-time Olympic medallist Neeraj Chopra is very likely to miss the Rome leg of the Diamond League as he is still recovering from a back injury. The entry list released for the June 4 event...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/why-is-neeraj-chopra-s-name-missing-from-rome-diamond-league-sachin-yadav-to-make-debut-2026-05-12-1040805",
+    "time": "2026-05-12T07:32:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI punishes Axar Patel after Delhi's emphatic win over Punjab Kings in IPL 2026",
     "desc": "The Board of Control for Cricket in India (BCCI) punished Delhi Capitals captain Axar Patel after their emphatic win over Punjab Kings in Dharamsala. He was found guilty of maintaining a slow over-rate during the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/south-africa-star-set-to-reverse-retirement-ahead-of-the-t20-world-cup-2026-report-2026-05-12-1040753",
     "time": "2026-05-12T01:02:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "DC create history with win over PBKS, stay alive in IPL 2026 as Punjab slump to fourth straight loss",
-    "desc": "Delhi Capitals registered the highest-ever T20 chase at the HPCA Stadium, Dharamsala, as they hunted down 211 against the Punjab Kings in their IPL 2026 clash on Monday, May 11. DC handed PBKS their fourth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-create-history-with-win-over-pbks-stay-alive-in-ipl-2026-as-punjab-slump-to-fourth-straight-loss-2026-05-11-1040746",
-    "time": "2026-05-11T18:02:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tim David fined 30 per cent of match fees for 'obscene, offensive' gesture during RCB vs MI IPL 2026 clash",
-    "desc": "Royal Challengers Bengaluru all-rounder Tim David has been handed a 30 per cent fine of his match fees for breaching Article 2.6 of the IPL's Code of Conduct during the clash against the Mumbai Indians...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tim-david-fined-30-per-cent-of-match-fees-for-obscene-offensive-gesture-during-rcb-vs-mi-ipl-2026-clash-2026-05-11-1040744",
-    "time": "2026-05-11T17:34:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Priyansh Arya creates history, achieves what Rohit Sharma, Virat Kohli have not in IPL during DC clash",
-    "desc": "Punjab Kings batter Priyansh Arya etched his name into the history books when he hit Mitchell Starc for a six on the first ball of the clash against the Delhi Capitals on Monday, May 11....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-creates-history-achieves-what-rohit-sharma-virat-kohli-have-not-in-ipl-during-dc-clash-2026-05-11-1040740",
-    "time": "2026-05-11T15:48:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Punjab Kings' players wearing black armbands during their IPL 2026 clash against DC?",
-    "desc": "Punjab Kings players were seen wearing black armbands during their Indian Premier League 2026 clash against the Delhi Capitals at the Himachal Pradesh Cricket Association Stadium, Dharamsala, on Monday, May 11. PBKS were asked to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-punjab-kings-players-wearing-black-armbands-during-their-ipl-2026-clash-against-dc-2026-05-11-1040736",
-    "time": "2026-05-11T15:02:10.000Z"
   }
 ];

@@ -1,12 +1,111 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "કલાકો સુધી ચાલ્યા પછી પણ રૂમ ઠંડો નથી કરતુ AC, હોઈ શકે છે આ કારણ, જાણો",
+    "desc": "જ્યારે કાળઝાળ ગરમીમાં એસી યોગ્ય રીતે કામ ન કરે, ત્યારે તે તકલીફ પેદા કરી શકે છે. કેટલાક લોકો ફરિયાદ કરે છે કે કલાકો સુધી એસી ચલાવ્યા પછી પણ ઠંડુ થતું નથી. જાણો તેનું કારણ શું છે અને તેને કેવી રીતે ઠીક કરી શકાય, આ લેખમાં અમે તમને જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/ac-does-not-cool-the-room-even-after-running-for-hours-this-could-be-the-reason-know-this-477571 ",
+    "time": "2026-05-12T10:37:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું દેશમાં લાગશે લૉકડાઉન? PM મોદીની પેટ્રોલ-ડીઝલ બચાવવાની અપીલ પર પેટ્રોલિયમ મંત્રીની પ્રતિક્રિયા",
+    "desc": "પ્રધાનમંત્રી મોદીએ ઈરાન યુદ્ધ વચ્ચે લોકોને પેટ્રોલ-ડીઝલ બચાવવાની અપીલ કરી છે. પીએમ મોદીએ 24 કલાકમાં બે વખત દેશવાસીઓને આ પ્રકારની અપીલ કરી છે. ઈરાન યુદ્ધને કારણે દુનિયામાં ક્રૂડની સપ્લાય ટાઇટ થવાને કારણે તેની કિંમતમાં તેજી આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-the-status-of-petrol-and-diesel-stocks-in-the-country-petroleum-minister-hardeep-singh-puri-gave-answer-477563 ",
+    "time": "2026-05-12T10:17:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અક્ષર પટેલે જાણી જોઈને છોડ્યો કેચ ? મેચ ફિક્સિંગના લાગ્યા આરોપ, જાણો શું છે વાયરલ વીડિયો પાછળની હકીકત",
+    "desc": "IPL 2026માં પંજાબ કિંગ્સ સામે દિલ્હી કેપિટલ્સે શાનદાર જીત નોંધાવી હતી. જો કે, આ મેચમાં કેચ છોડ્યા બાદ અક્ષર પટેલ વિવાદમાં આવ્યો છે. સોશિયલ મીડિયામાં લોકો તેના પર મેચ ફિક્સિંગના આરોપ લગાવી રહ્યા છે, ત્યારે શું છે સમગ્ર હકીકત તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/akshar-patel-drop-the-catch-match-fixing-allegations-know-the-truth-behind-viral-video-477562 ",
+    "time": "2026-05-12T09:53:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LPG પર મોટા સમાચાર! 7 દિવસમાં જવાબ ન આપ્યો તો સબસિડી બંધ, આવી ગયો નવો નિયમ",
+    "desc": "LPG સબસિડીને લઈને મોટા સમાચાર સામે આવ્યા છે. જો તમે પણ એલપીજી સબસિડી લઈ રહ્યાં છો અને તમારી આવક વધુ છે, તો તમારા ફોનના ઇનબોક્સ પર નજર રાખો. જી હાં, કારણ કે ગેસ એજન્સીઓ તમારી સબસિડી ખતમ કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-is-planing-to-stop-lpg-subsidy-those-whose-annual-income-is-more-than-10-lakhs-477547 ",
+    "time": "2026-05-12T09:21:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GPS ટ્રેકર, સ્ટ્રોન્ગ કંટ્રોલ રૂમ અને કડક સુરક્ષા, છતાં કેમ લીક થઈ ગયું NEET નું પેપર?",
+    "desc": "નીટ યુજી પરીક્ષા રદ્દ થઈ ગઈ છે. આ પહેલા લીકને લઈને બબાલ શરૂ થઈ ગઈ છે. આવો તે સમજવાનો પ્રયાસ કરીએ કે પરીક્ષાનું પેપર કઈ રીતે તૈયાર કરવામાં આવે છે અને સ્ટ્રોન્ગ રૂમ શું હોય છે, અહીં પેપર હાઈ સિક્યોરિટીમાં રાખવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gps-trackers-a-robust-control-room-and-tight-security-how-then-did-the-neet-exam-paper-get-leaked-477559 ",
+    "time": "2026-05-12T09:16:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એક ઝટકે ચાંદી 11000 રૂપિયા મોંઘી, સોનાના ભાવમાં પણ બંપર વધારો, જાણો આજનો કેરેટ પ્રમાણે લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં કાલે કડાકા બાદ આજે અચાનક ભાવમાં વધારો જોવા મળ્યો છે. ચાંદી તો 11 હજાર રૂપિયા જેટલી ઉછળી. સોનું પણ 1500 રૂપિયા જેટલું મોંઘુ થયું. અચાનક ભાવ કેમ ઉછળ્યા અને આજના લેટેસ્ટ રેટ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/silver-rate-up-by-by-11000-rupees-gold-prices-also-increase-sharply-check-latest-rate-477551 ",
+    "time": "2026-05-12T08:07:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NEET UG પરીક્ષા રદ્દ, CBI કરશે પેપર લીકની તપાસ, આ મહિને લેવાઈ હતી પરીક્ષા",
+    "desc": "રાજસ્થાનથી ઉભો થયેલો નીટ વિવાદ આખરે પોતાના અંજામ સુધી પહોંચી ગયો છે. NTA એ નીટ યુજી પરીક્ષા 2026ને રદ્દ કરી દીધી છે. દાવો કરવામાં આવી રહ્યો છે કે પરીક્ષાના 125 સવાલ ગેસ પેપર સાથે મેચ થઈ રહ્યાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/neet-ug-exam-cancelled-cbi-to-investigate-paper-leak-477531 ",
+    "time": "2026-05-12T07:31:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગેસ સિલિન્ડર બુકિંગના નિયમો બદલાયા, જાણો હવે કેટલા દિવસમાં બુક કરી શકાશે સિલિન્ડર",
+    "desc": "જો તમે ગેસ સિલિન્ડરનો ઉપયોગ કરો છો, તો આ સમાચાર તમારા માટે ખૂબ જ મહત્વપૂર્ણ છે. ગેસ સિલિન્ડરના ભાવથી લઈને નવા બુકિંગ નિયમોમાં ફેરફાર થયો છે. ત્યારે હવે કેટલા દિવસમાં સિલિન્ડર બુક કરી શકાશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gas-cylinder-booking-new-rule-know-latest-lpg-cylinder-price-477548 ",
+    "time": "2026-05-12T07:27:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વસ્તી ગણતરીમાં ખોટી માહિતી આપી, સરકારી કામમાં બાધા બનશો તો મર્યા સમજો, તમારા લેવાશે મોટું એક્શન",
+    "desc": "આગામી જુન મહિનાથી ગુજરાતમાં વસ્તી ગણતરીનો પ્રારંભ થશે. આવામાં એક નાગરિક તરીકે તમારે કેટલીક બાબતો જાણી લેવી જરૂરી છે. જો તમે વસ્તી ગણતરીની ટીમને ખોટી માહિતી આપો છો, અથવા તેમને ઘરમાં આવતા રોકો છો, તો તમને ભારે દંડ ચૂકવવો પડશે, અથવા જેલની હવા પણ ખાવી પડી શકે છે. ખોટી માહિતી આપનારને થશે જેલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/provision-of-fine-and-imprisonment-for-providing-false-information-in-gujarat-census-2027-vasti-ganatri-477532 ",
+    "time": "2026-05-12T07:05:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કોણ છે માધવ તિવારી ? જે ડૂબતી દિલ્હીનો બન્યો સહારો, માત્ર 8 બોલમાં જ પલટી નાખી મેચ !",
+    "desc": "દિલ્હી કેપિટલ્સના યુવા ઓલરાઉન્ડર માધવ તિવારીએ IPL 2026માં પંજાબ કિંગ્સ સામેની મેચમાં બેટ અને બોલ બંનેથી શાનદાર પ્રદર્શન કર્યું, જેના કારણે ટીમને યાદગાર જીત મળી. 22 વર્ષીય ખેલાડીએ બે વિકેટ લીધી અને માત્ર આઠ બોલમાં અણનમ 18 રન બનાવીને 'પ્લેયર ઓફ ધ મેચ'નો એવોર્ડ મેળવ્યો. તેના પ્રયાસોને કારણે દિલ્હીની પ્લેઓફમાં પહોંચવાની આશા જીવંત રહી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-madhav-tiwari-delhi-capitals-win-hero-in-dc-vs-pbks-match-ipl-2026-477521 ",
+    "time": "2026-05-12T06:43:52.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "જીતના જશ્ન વચ્ચે દિલ્હી કેપિટલ્સ માટે ખરાબ સમાચાર ! કેપ્ટન અક્ષર પટેલ સામે BCCIની મોટી કાર્યવાહી",
     "desc": "દિલ્હી કેપિટલ્સના કેપ્ટન અક્ષર પટેલને IPL 2026માં પંજાબ કિંગ્સ સામેની મેચ દરમિયાન સ્લો ઓવર રેટ બદલ ₹12 લાખનો દંડ ફટકારવામાં આવ્યો છે. ધર્મશાલામાં રમાયેલી મેચમાં દિલ્હી કેપિટલ્સે પંજાબ કિંગ્સને 3 વિકેટથી હરાવીને પ્લેઓફની આશા જીવંત રાખી છે. આ સિઝનમાં દિલ્હીનો પહેલો સ્લો ઓવર રેટ ગુનો હતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/delhi-capital-captain-axar-patel-fined-12-lakh-for-slow-over-rate-against-pbks-match-477516 ",
-    "time": "2026-05-12T05:57:59.000Z"
+    "time": "2026-05-12T06:25:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "યુદ્ધ ભડકે તેવી આશંકા, શું ભારતમાં લાગશે લોકડાઉન? ઉર્જા સંકટ ખાળવા રાજ્યો પાસે કયા કયા વિકલ્પ",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે ફરી પરિસ્થિતિ વિકટ થાય તેવા સંકેત મળી રહ્યા છે. આ બધા વચ્ચે ઉર્જા સંકટ પણ વધે તેવી ભીતિ છે ત્યારે એવી ચર્ચાઓ છે કે શું ભારતમાં લોકડાઉન લાગી શકે? આ સ્થિતિને પહોંચી વળવા માટે રાજ્યો પાસે કયા કયા વિકલ્પો છે તે પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-options-do-states-have-to-overcome-the-energy-check-details-477520 ",
+    "time": "2026-05-12T06:23:57.000Z"
   },
   {
     "cat": "Sports",
@@ -216,42 +315,6 @@ const newsData_gu = [
     "time": "2026-05-10T12:23:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોણ ચૂકવે છે ધારાસભ્યોના ઘરનું વીજળી બિલ? શું તેના માટે પણ મળે છે અલગથી ભથ્થું? જાણો",
-    "desc": "ભારતમાં ધારાસભ્યોને વીજળીના ખર્ચમાં છૂટ મળે છે. ભારતમાં ધારાસભ્યોને પગાર ઉપરાંત મફત વીજળી અથવા વીજ ભથ્થાની સુવિધા મળે છે. સરકારી આવાસનું બિલ રાજ્ય સરકાર સીધું ચૂકવે છે અથવા નક્કી કરેલી મર્યાદા સુધીના ખર્ચની ભરપાઈ ભથ્થા દ્વારા કરવામાં આવે છે. ચાલો જાણીએ કે આ છૂટ કેટલી હોય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-pays-the-electricity-bill-of-mla-houses-is-there-a-separate-allowance-for-that-too-know-477293 ",
-    "time": "2026-05-10T11:56:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હાલ નવું ઘર ખરીદવા ઉતાવળ કરવી કે નહિ, કે હજી 6 મહિના રાહ જોવી, રિયલ એસ્ટેટના નિષ્ણાતોએ આપ્યો જવાબ",
-    "desc": "રિયલ એસ્ટેટમાં હાલ ચારેતરફ મંદીના વાદળો મંડરાયા છે. આવામા નવું ઘર ખરીદવું કે નહિ તે મોટી મૂંઝવણ છે. નાઈટ ફ્રેન્ક દ્વારા રિયલ માર્કેટનો રિપોર્ટ જાહેર કરવામાં આવ્યો છે, જેમાં નિષ્ણાતોએ હાલની પ્રોપર્ટી માર્કેટની સ્થિતિ વર્ણવી છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/real-estate-market-update-new-house-buy-or-wait-477283 ",
-    "time": "2026-05-10T11:06:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતમાં છે દુનિયાની સૌથી મોટી સ્કૂલ... જાણો શું છે તેનું નામ અને ક્યાં આવેલી છે",
-    "desc": "દુનિયાની સૌથી મોટી સ્કૂલ ભારતમાં આવેલી છે, ત્યારે આ સ્કૂલ ક્યાં આવેલી છે, તેનું નામ શું છે, તેની સ્થાપના ક્યારે થઈ હતી અને આ સ્કૂલમાં કેટલા બાળકો છે, તેમજ કેટલો સ્ટાફ છે, તેના વિશે વિગતવાર આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/worlds-largest-school-in-india-city-montessori-school-lucknow-477281 ",
-    "time": "2026-05-10T09:59:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8માં પગાર પંચનો આ નવું ફોર્મ્યુલા બદલશે કર્મચારીઓની કિસ્મત! પગાર ઉપરાંત પેન્શન અને ભથ્થા પર થશે સીધી અસર",
-    "desc": "8માં પગાર પંચનું નવું ફેમિલી યુનિટ ફોર્મ્યુલા ચર્ચાનો વિષય બન્યું છે. આ ફોર્મ્યુલા દ્વારા અંદાજ લગાવવામાં આવે છે કે, 1 કર્મચારીના પરિવારને (જેમાં સામાન્ય રીતે પતિ/પત્ની અને 2 બાળકો સામેલ હોય છે) જીવનનિર્વાહ માટે ઓછામાં ઓછા કેટલા રૂપિયાની જરૂર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/new-formula-of-the-8th-pay-commission-will-change-the-fate-of-employees-apart-from-salary-it-will-have-a-direct-impact-on-pension-and-allowances-477276 ",
-    "time": "2026-05-10T09:15:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ના હોય ! એક બોલમાં 3 વિકેટ... ક્રિકેટના મેદાન પર ક્યારે થયો હતો આવો ચમત્કાર ?",
     "desc": "એક જ બોલ પર ત્રણ વિકેટ પડવી એ ચોક્કસપણે મુશ્કેલ છે, પણ તે અશક્ય નથી. ક્રિકેટના મેદાન પર એક જ બોલ પર ત્રણ વિકેટ પડવાની અસાધારણ ઘટના ખરેખર બની શકે છે. ત્યારે કોણે અને કેવી રીતે 1 બોલમાં 3 વિકેટ લીધી હતી, તેના વિશે આ લેખમાં જાણીશું.",
@@ -297,15 +360,6 @@ const newsData_gu = [
     "time": "2026-05-09T18:06:59.000Z"
   },
   {
-    "cat": "Business",
-    "title": "રોજના માત્ર 3 રૂપિયા કમાતો આ ગુજરાતી છોકરો બન્યો નમકીનનો બાદશાહ... આજે છે ₹40,000 કરોડની કંપનીનો માલિક",
-    "desc": "ચંદુભાઈની પહેલી મોટી સફળતા એક થિયેટર કેન્ટીનમાં શરૂ થઈ. તેમણે ત્યાં અગાઉ મળતા સેન્ડવીચને બદલે બટાકાની વેફર વેચવાનું શરૂ કર્યું. આશરે ₹20,000ના રોકાણ સાથે ચંદુભાઈએ આ તક ઝડપી લીધી. એક નાના શેડમાં કલાકો સુધી અથાક મહેનત કરીને તેમણે સ્થાનિક દુકાનોને વેફર સપ્લાય કરવાનું શરૂ કર્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/success-story-of-chandubhai-virani-balaji-wafers-rupee-40000-crore-company-477194 ",
-    "time": "2026-05-09T16:25:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL વચ્ચે યશસ્વીને મળી નોટિસ...જો ફરી આ ભૂલ કરી તો લાગશે પ્રતિબંધ ! મહિલા ક્રિકેટર પણ શંકાના ઘેરામાં",
     "desc": "IPL 2026 વચ્ચે રાજસ્થાન રોયલ્સના ઓપનર યશસ્વી જયસ્વાલને મોટો ઝટકો લાગ્યો છે. જયસ્વાલને તેણે કરેલી એક મોટી ભૂલ અંગે નોટિસ ફટકારવામાં આવી છે. જો તે આ ભૂલ ફરીવાર કરશે તો તેના પર પ્રતિબંધ પણ લાગી શકે છે. આ મામલે એક મહિલા ક્રિકેટરનું નામ પણ સામેલ છે.",
@@ -340,24 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/sheikh-hasina-congratulates-suvendu-adhikari-nasiruddin-patwari-controversial-statement-477144 ",
     "time": "2026-05-09T10:49:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "નિકોલસ પૂરને કેમ પકડ્યો હતો કૃણાલ પંડ્યાનો કોલર ? હકીકત આવી સામે",
-    "desc": "મેચ પછી લખનૌ સુપર જાયન્ટ્સનો સ્ટાર બેટ્સમેન નિકોલસ પૂરન રોયલ ચેલેન્જર્સ બેંગલુરુના ઓલરાઉન્ડર કૃણાલ પંડ્યાનો કોલર પકડ્યો હતો. જે બાદ ચાહકોમાં ચર્ચા શરૂ થઈ હતી કે કે બંને ખેલાડીઓ વચ્ચે ઝઘડો થયો હતો. ત્યારે શું છે સમગ્ર હકીકત તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-did-nicholas-pooran-grab-krunal-pandyas-collar-know-the-reason-477143 ",
-    "time": "2026-05-09T10:40:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6: બેટ્સમેન છે કે &amp;#039;સિક્સર મશીન&amp;#039;? આ અનોખો રેકોર્ડ તોડવો અસંભવ!",
-    "desc": "ન્યૂઝીલેન્ડનો વિસ્ફોટક બેટ્સમેન ફિન એલન અત્યારે સોશિયલ મીડિયા અને ક્રિકેટ જગતમાં છવાયેલો છે. 8 મેની રાત્રે તેણે KKR તરફથી રમતા દિલ્હી કેપિટલ્સ સામે માત્ર 47 બોલમાં સદી ફટકારીને તરખાટ મચાવી દીધો હતો. આ એ જ એલન છે, જેણે T20 ક્રિકેટમાં એક એવો રેકોર્ડ બનાવ્યો છે જેને તોડવો કોઈ પણ બેટ્સમેન માટે લોઢાના ચણા ચાવવા જેવું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/new-zealands-finn-allen-holds-the-record-for-most-sixes-in-an-innings-in-t20-cricket-477126 ",
-    "time": "2026-05-09T06:53:37.000Z"
   },
   {
     "cat": "Entertainment",
