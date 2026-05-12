@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Tech",
+    "title": "રિમોટ વગર સ્પ્લિટ એસી કેવી રીતે ચાલુ કરવું? 99% લોકો નથી જાણતા આ ટ્રિક",
+    "desc": "ઘણા લોકો બેટરી ખતમ થઈ જાય છે અથવા રિમોટ ખોવાઈ જાય છે ત્યારે ચિંતિત થઈ જાય છે. પરંતુ ગભરાવાની કોઈ જરૂર નથી. દરેક સ્પ્લિટ એસીમાં એક નાનું, છુપાયેલું બટન હોય છે જેનાથી તમે ACને સરળતાથી ચાલુ કરી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/how-to-turn-on-a-split-ac-without-a-remote-99-percent-of-people-dont-know-this-trick-477594 ",
+    "time": "2026-05-12T13:41:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PM-કિસાન યોજનાના નિયમોમાં મોટો ફેરફાર, આ કામ ન કર્યું તો ખાતામાં નહીં આવે 2000નો હપ્તો; જાણો",
+    "desc": "ખેડૂતો માટે મહત્ત્વના સમાચાર સામે આવ્યા છે. પ્રધાનમંત્રી કિસાન સમ્માન નિધિ (PM-KISAN) યોજનાના નિયમોમાં મહત્વપૂર્ણ ફેરફાર કરવામાં આવ્યા છે PM-કિસાન યોજનાના લાભાર્થીઓ માટે હવે વાર્ષિક e-KYC ફરજિયાત કરવામાં આવ્યું છે. ચાલો જાણીએ કેવી રીતે કરવું e-KYC.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/agriculture/big-change-in-pm-kisan-scheme-rules-if-you-donot-do-this-the-installment-of-2000-will-not-come-in-your-account-know-477592 ",
+    "time": "2026-05-12T12:28:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પ્લેઓફમાં ક્વોલિફાય થવા માટે કઈ ટીમને કેટલી જીતની જરૂર ? જાણો પોઈન્ટ ટેબલનું સંપૂર્ણ સમીકરણ",
+    "desc": "IPL 2026 હવે તેના અંતિમ તબક્કામાં છે, લીગ તબક્કામાં ફક્ત થોડી જ મેચો બાકી છે. હાલમાં આઠ ટીમો પ્લેઓફ માટે રેસમાં છે. ત્યારે પ્લેઓફમાં ક્વોલિફાય થવા માટે કઈ ટીમને કેટલી જીતની જરૂર છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-playoff-qualification-scenario-all-teams-gujarat-titans-rcb-csk-punjab-kings-477591 ",
+    "time": "2026-05-12T12:25:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 વચ્ચે રાહુલ દ્રવિડે T20 લીગમાં ખરીદી ટીમ, ભારતીય દિગ્ગજ ખેલાડીને બનાવ્યો કેપ્ટન, જાણો",
+    "desc": "જેમ જેમ IPL 2026 તેના અંતિમ તબક્કાની નજીક આવી રહી છે, તેમ તેમ ઉત્સાહ વધી રહ્યો છે. સમગ્ર ક્રિકેટ જગત હાલમાં IPL પર ધ્યાન કેન્દ્રિત કરી રહ્યું છે. આ વિશ્વની સૌથી મોટી T20 લીગની ચર્ચા દરેક જગ્યાએ થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/amidst-ipl-2026-rahul-dravid-buys-team-in-t20-league-makes-indian-legend-captain-know-477590 ",
+    "time": "2026-05-12T12:21:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આ વર્ષે સમય કરતાં વહેલું આવશે ચોમાસું, આ વિસ્તારોમાં વાવાઝોડા સાથે વરસાદની આગાહી",
+    "desc": "દેશમાં ચોમાસું સમય કરતાં વહેલું આવી શકે છે. સામાન્ય રીતે ચોમાસું 1 જૂન સુધીમાં કેરળ પહોંચે છે. જો કે, આ વખતે તે વહેલું આવી શકે છે. હવામાન નિષ્ણાતો માને છે કે દક્ષિણ-પૂર્વ બંગાળની ખાડી અને અંદામાન સમુદ્રમાં હવામાન ચોમાસાની વહેલી શરૂઆત માટે હવામાન અનુકૂળ સાબિત થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/early-monsoon-alert-in-india-weather-update-rainfall-prediction-monsoon-2026-477589 ",
+    "time": "2026-05-12T11:57:43.000Z"
+  },
+  {
+    "cat": "Tech",
     "title": "કલાકો સુધી ચાલ્યા પછી પણ રૂમ ઠંડો નથી કરતુ AC, હોઈ શકે છે આ કારણ, જાણો",
     "desc": "જ્યારે કાળઝાળ ગરમીમાં એસી યોગ્ય રીતે કામ ન કરે, ત્યારે તે તકલીફ પેદા કરી શકે છે. કેટલાક લોકો ફરિયાદ કરે છે કે કલાકો સુધી એસી ચલાવ્યા પછી પણ ઠંડુ થતું નથી. જાણો તેનું કારણ શું છે અને તેને કેવી રીતે ઠીક કરી શકાય, આ લેખમાં અમે તમને જણાવીશું.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -270,15 +315,6 @@ const newsData_gu = [
     "time": "2026-05-11T06:06:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "શું લોકડાઉનની જેમ વર્ક ફ્રોમ હોમ પાછું આવશે? કોરોનાકાળનો ઉલ્લેખ કરીને PM મોદીએ શું કહ્યું, તે ખાસ જાણો",
-    "desc": "મિડલ ઈસ્ટમાં અમેરિકા અને ઈરાન વચ્ચે જે યુદ્ધની સ્થિતિ છે તેના પગલે હવે ધીરે ધીરે અનેક દેશો તેના ભરડામાં આવતા જાય છે. પીએમ મોદીએ પણ રવિવારે દેશની જનતાને અપીલ કરી કે કોરોના સમયમાં જે રીતે વક્ર ફ્રોમ હોમને પ્રાધાન્ય અપાયું હતું તેવું કરવું જોઈએ. આ ઉપરાંત પેટ્રોલ ડીઝલ, ગોલ્ડનો વપરાશ ઘટાડવો જોઈએ અને બને એટલું જાહેર પરિવહનના સાધનો વાપરવા જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-pm-modi-said-about-work-from-home-referring-to-the-corona-period-you-should-know-477342 ",
-    "time": "2026-05-11T04:26:30.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vijay-Trisha Movies: વિજય થલપતિ-ત્રિશા કૃષ્ણનની ઓનસ્ક્રીન કેમેસ્ટ્રી છે જોરદાર, ઓટીટી પર જુઓ આ જોડીની 3 શાનદાર ફિલ્મો",
     "desc": "તમિલનાડુના મુખ્યમંત્રી બનેલા થલપતિ વિજય અને ત્રિશા કૃષ્ણનની જોડીની ચર્ચા ઘણા સમયથી થઈ રહી છે. આ જોડીની ઓફસ્ક્રીન કેમેસ્ટ્રી તો ચર્ચામાં છે જ પણ જો તમારે આ જોડીને ઓનસ્ક્રીન કેમેસ્ટ્રી જોવી હોય તો ઓટીટી પર તેમની આ 3 ફિલ્મો જુઓ.",
@@ -286,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/vijay-thalapathy-trisha-krishnan-movies-on-ott-must-watch-movies-of-vijay-thalapathy-on-ott-in-hindi-477341 ",
     "time": "2026-05-11T03:30:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "&amp;#039;પેટ્રોલ અને ડીઝલનો વપરાશ ઘટાડવો પડશે...&amp;#039; વૈશ્વિક કટોકટી વચ્ચે PM મોદીનું મોટું નિવેદન",
-    "desc": "વૈશ્વિક કટોકટી વચ્ચે PM મોદીનું મોટું નિવેદન સામે આવ્યું છે. PM મોદીએ કહ્યું કે, ભારત પાસે તેલનો વિશાળ ભંડાર નથી, આપણે વિદેશથી પેટ્રોલ અને ડીઝલ આયાત કરવાની ફરજ પડે છે. તેથી પેટ્રોલ, ગેસ અને ડીઝલનો સમજદારીપૂર્વક ઉપયોગ કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/pm-modi-statement-on-petrol-diesel-use-amid-rising-west-asia-tensions-477315 ",
-    "time": "2026-05-10T15:25:03.000Z"
   },
   {
     "cat": "Sports",
@@ -361,30 +388,12 @@ const newsData_gu = [
   },
   {
     "cat": "Sports",
-    "title": "IPL વચ્ચે યશસ્વીને મળી નોટિસ...જો ફરી આ ભૂલ કરી તો લાગશે પ્રતિબંધ ! મહિલા ક્રિકેટર પણ શંકાના ઘેરામાં",
-    "desc": "IPL 2026 વચ્ચે રાજસ્થાન રોયલ્સના ઓપનર યશસ્વી જયસ્વાલને મોટો ઝટકો લાગ્યો છે. જયસ્વાલને તેણે કરેલી એક મોટી ભૂલ અંગે નોટિસ ફટકારવામાં આવી છે. જો તે આ ભૂલ ફરીવાર કરશે તો તેના પર પ્રતિબંધ પણ લાગી શકે છે. આ મામલે એક મહિલા ક્રિકેટરનું નામ પણ સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/yashasvi-jaiswal-and-shafali-verma-receive-nada-notices-for-missed-dope-test-477158 ",
-    "time": "2026-05-09T14:46:39.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "IPL 2026 વચ્ચે અચાનક બદલાઈ ગયો રાજસ્થાન રોયલ્સનો કેપ્ટન, જાણો કોને મળી ટીમની કમાન",
     "desc": "IPL 2026ની 52મી મેચમાં રાજસ્થાન રોયલ્સ ગુજરાત ટાઇટન્સનો સામનો કરી રહી છે. છેલ્લી વખત જ્યારે આ બંને ટીમો ટકરાઈ હતી, ત્યારે ગુજરાતનો નિયમિત કેપ્ટન શુભમન ગિલ રમ્યા નહોતો. આજે રિયાન પરાગ બહાર છે. તેની ગેરહાજરીમાં યશસ્વી જયસ્વાલ રાજસ્થાન રોયલ્સનું નેતૃત્વ કરી રહ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rajasthan-royals-new-captain-yashasvi-jaiswal-why-riyan-parag-not-playing-against-gt-477190 ",
     "time": "2026-05-09T14:37:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિનેશ ફોગાટને મોટો ઝટકો, WFIએ લગાવ્યો પ્રતિબંધ, જાણો શું છે સમગ્ર ઘટના",
-    "desc": "રેસલિંગ ફેડરેશન ઓફ ઈન્ડિયા (WFI)એ મહિલા રેસલર વિનેશ ફોગાટ સામે મોટી કાર્યવાહી કરી છે. એન્ટી ડોપિંગ નિયમોનું ઉલ્લંઘન કરવા બદલ તેના પર અસ્થાયી પ્રતિબંધ મૂકવામાં આવ્યો છે. પરિણામે તે નેશનલ ઓપન રેન્કિંગ રેસલિંગ ટુર્નામેન્ટમાં ભાગ લઈ શકશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/wfi-show-cause-notice-to-vinesh-phogat-and-ban-in-domestic-events-till-june-26-477162 ",
-    "time": "2026-05-09T11:56:31.000Z"
   },
   {
     "cat": "World",
