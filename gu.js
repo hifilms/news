@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "જીતના જશ્ન વચ્ચે દિલ્હી કેપિટલ્સ માટે ખરાબ સમાચાર ! કેપ્ટન અક્ષર પટેલ સામે BCCIની મોટી કાર્યવાહી",
+    "desc": "દિલ્હી કેપિટલ્સના કેપ્ટન અક્ષર પટેલને IPL 2026માં પંજાબ કિંગ્સ સામેની મેચ દરમિયાન સ્લો ઓવર રેટ બદલ ₹12 લાખનો દંડ ફટકારવામાં આવ્યો છે. ધર્મશાલામાં રમાયેલી મેચમાં દિલ્હી કેપિટલ્સે પંજાબ કિંગ્સને 3 વિકેટથી હરાવીને પ્લેઓફની આશા જીવંત રાખી છે. આ સિઝનમાં દિલ્હીનો પહેલો સ્લો ઓવર રેટ ગુનો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/delhi-capital-captain-axar-patel-fined-12-lakh-for-slow-over-rate-against-pbks-match-477516 ",
+    "time": "2026-05-12T05:57:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પંજાબ કિંગ્સની સતત 4 હારથી અકળાયો શ્રેયસ ઐયર, જાણો કોને ગણાવ્યો હારનો જવાબદાર",
+    "desc": "સતત ચાર હાર બાદ પંજાબ કિંગ્સનો કેપ્ટન શ્રેયસ ઐયર આખરે અકળાયો છે. હાર બાદ તેણે ટીમના બોલરોને આડે હાથ લીધા અને હારનું મુખ્ય કારણ નબળી ફિલ્ડિંગ પણ ગણાવી. ઐયરે વધુમાં સ્વીકાર્યું કે આ પીચ પર કુલ 210 રન પૂરતા હતા અને તેનો સફળતાપૂર્વક બચાવ કરી શકાયો હોત.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shreyas-iyer-statement-after-pajanb-kings-loss-against-delhi-capitals-477506 ",
+    "time": "2026-05-12T05:22:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાન સંકટ વચ્ચે ચીનના પ્રવાસે જશે ડોનાલ્ડ ટ્રમ્પ, જિનપિંગ સાથે થશે દ્વિપક્ષીય વાર્તા, બંને દેશો વચ્ચે થઈ શકે છે કરાર",
+    "desc": "ઈરાન સંકટ અને હોર્મુઝ નાકાબંધીને કારણે વિશ્વમાં ઉથલપાથલ જોવા મળી રહી છે. આ વચ્ચે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ ચીનની મુલાકાતે જઈ રહ્યાં છે. ચીનના પ્રવાસ પહેલા ટ્રમ્પે સોશિયલ મીડિયા પર પોસ્ટ કરી શી જિનપિંગની પ્રશંસા કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/donald-trump-will-go-on-a-three-day-visit-to-china-bilateral-meeting-will-be-held-between-the-two-countries-477485 ",
+    "time": "2026-05-12T03:28:59.000Z"
+  },
+  {
     "cat": "Business",
     "title": "પેન્સનરો માટે ખુશખબર! DRમાં 2%નો વધારો, જાણો 1 જાન્યુઆરીથી કેટલા રૂપિયા વધશે?",
     "desc": "રેલવેએ પેન્શનર્સ અને ફેમિલી પેન્શનરો માટે DR (Dearness Relief) 58%થી વધારીને 60% કરી દીધી છે. આ વધારો 1 જાન્યુઆરી 2026થી લાગુ થશે, જેનાથી લાખો નિવૃત્ત કર્મચારીઓના માસિક પેન્શનમાં વધારો થશે. ચાલો સમજીએ કે, 10,000 રૂપિયાથી 70,000 રૂપિયા સુધીના બેઝિક પેન્શન ધરાવતા લોકોને કેટલો વધારાનો ફાયદો મળશે?",
@@ -349,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-swift-hydrogen-no-need-to-refuel-with-petrol-anymore-run-on-water-based-fuel-find-out-what-this-new-technology-477069 ",
     "time": "2026-05-08T14:16:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPLની આગામી હરાજીમાં વૈભવ સૂર્યવંશી પર લાગશે 50 કરોડની બોલી! જાણો ક્યારે યોજાશે આગામી મેગા ઓક્શન",
-    "desc": "IPL 2026માં જો કોઈ ખેલાડી સૌથી વધુ ચર્ચામાં હોય તો તે વૈભવ સૂર્યવંશી છે. પોતાની વિસ્ફોટક બેટિંગથી વૈભવ કમાલ કરી રહ્યો છે અને હવે તે માલામાલ થવાની તૈયારીમાં છે. અટકળો લગાવવામાં આવી રહી છે કે તેના પર 50 કરોડ રૂપિયા સુધીની બોલી લાગી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-set-to-attract-a-50-crore-bid-in-the-next-ipl-auction-find-out-when-the-next-mega-auction-will-take-place-477054 ",
-    "time": "2026-05-08T12:04:17.000Z"
   },
   {
     "cat": "Tech",

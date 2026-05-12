@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI punishes Axar Patel after Delhi's emphatic win over Punjab Kings in IPL 2026",
+    "desc": "The Board of Control for Cricket in India (BCCI) punished Delhi Capitals captain Axar Patel after their emphatic win over Punjab Kings in Dharamsala. He was found guilty of maintaining a slow over-rate during the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-punishes-axar-patel-after-delhi-s-emphatic-win-over-punjab-kings-in-ipl-2026-2026-05-12-1040782",
+    "time": "2026-05-12T04:41:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Madhav Tiwari? Delhi's 21-year-old fast-bowling all-rounder wins POTM vs Punjab Kings",
+    "desc": "Delhi Capitals’ Madhav Tiwari proved his mettle in his second-ever match in the IPL. Against Punjab Kings, the all-rounder stole the show with the ball and later played an important cameo with the bat, helping...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-madhav-tiwari-delhi-s-21-year-old-fast-bowling-all-rounder-wins-potm-vs-punjab-kings-2026-05-12-1040770",
+    "time": "2026-05-12T03:03:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tottenham secure a point against Leeds United amid battling relegation in Premier League",
     "desc": "Tottenham Hotspur missed a major opportunity to strengthen their position in the Premier League survival race after being held by Leeds United at home. Head coach Roberto De Zerbi was visibly furious on the touchline...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-are-punjab-kings-players-wearing-black-armbands-during-their-ipl-2026-clash-against-dc-2026-05-11-1040736",
     "time": "2026-05-11T15:02:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Kuldeep Yadav not playing for DC in must-win IPL 2026 clash against PBKS?",
-    "desc": "Kuldeep Yadav missed out as Delhi Capitals lock horns against the Punjab Kings in a must-win Indian Premier League 2026 clash at the Himachal Pradesh Cricket Association Stadium, Dharamsala, on Monday, May 11. Kuldeep was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-not-playing-for-dc-in-must-win-ipl-2026-clash-against-pbks-2026-05-11-1040728",
-    "time": "2026-05-11T13:54:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Mumbai Indians' body language is something I have never seen': Ex-MI, CSK star on team's early IPL 2026 exit",
-    "desc": "Mumbai Indians' wait for an IPL title continued as the five-time champions suffered an early elimination from the playoffs in the 2026 season. MI failed to defend 166 against the Royal Challengers Bengaluru and suffered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-body-language-is-something-i-have-never-seen-ex-mi-csk-star-on-teams-early-ipl-2026-exit-2026-05-11-1040723",
-    "time": "2026-05-11T13:05:16.000Z"
   }
 ];
