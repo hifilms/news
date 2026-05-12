@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Alia Bhatt says Indian cinema still caters more to men",
+    "desc": "While women-led films in Hollywood continue to dominate the global box office, Alia Bhatt feels Indian cinema still largely focuses on catering to male viewers. The actress, who is currently attending the Cannes Film Festival, recently spoke about the need for more gender-neutral storytelling in Indian films. According to her, cinema should focus on stories rather than whether the lead actor is male or female.",
+    "img": "https://static.toiimg.com/photo/msid-131049774,imgsize-51752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-says-indian-cinema-still-caters-more-to-men-despite-success-of-women-led-films-globally-why-focus-on-only-one-gender/articleshow/131049756.cms",
+    "time": "2026-05-12T21:46:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI busts graft ring in Punjab Vigilance Bureau",
+    "desc": "The CBI has uncovered a corruption ring involving the Punjab Vigilance Bureau, arresting three individuals for allegedly accepting payments to resolve official complaints. Vikas Goyal, his son Raghav Goyal, and associate Ankit Wadhwa are accused of facilitating these illicit deals. OP Rana, reader to the DG (Vigilance), is currently at large.",
+    "img": "https://static.toiimg.com/photo/msid-131049770,imgsize-15216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cbi-busts-graft-ring-in-punjab-vigilance-bureau/articleshow/131049740.cms",
+    "time": "2026-05-12T21:38:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Insurance pool of Rs 13,000 crore for Indian ships",
+    "desc": "The Indian government has launched a $1.5 billion Bharat Maritime Insurance Pool, backed by a $1.4 billion sovereign guarantee, to offer risk cover for Indian vessels on international routes, including war zones. This initiative aims to reduce shipping insurance premiums and guarantee coverage even when global insurers withdraw due to rising risks.",
+    "img": "https://static.toiimg.com/photo/msid-131049561,imgsize-14318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/insurance-pool-of-rs-13000-crore-for-indian-ships/articleshow/131049554.cms",
+    "time": "2026-05-12T21:31:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI takes over Suvendu ex-aide murder probe",
+    "desc": "The CBI has filed an FIR and initiated an investigation into the murder of Chandranath Rath, former personal assistant to West Bengal CM Suvendu Adhikari. A seven-member SIT, led by a DIG-rank officer, has been formed to probe the case, with a meeting held at CBI headquarters to review developments and seek remand of arrested suspects.",
+    "img": "https://static.toiimg.com/photo/msid-131049550,imgsize-73258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cbi-takes-over-suvendu-ex-aide-murder-probe/articleshow/131049542.cms",
+    "time": "2026-05-12T21:27:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AICC begins consultations with Kerala leaders in New Delhi to decide on Congress’ CM candidate",
+    "desc": "The high command, according to a party insider, is reportedly seeking bipartisan support of top leaders, including former KPCC presidents, to restore the period of organisational and alliance stability, which delivered the Congress the momentous win",
+    "img": "https://th-i.thgim.com/public/incoming/72xoay/article70968711.ece/alternates/LANDSCAPE_1200/AICC-summons-toGORFVFMNH.6.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/aicc-begins-consultations-with-kerala-leaders-in-new-delhi-to-decide-on-congress-chief-minister-candidate/article70968619.ece",
+    "time": "2026-05-12T21:21:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gen Z pros embrace 'portfolio careers' as side hustles surge",
+    "desc": "India's Gen Z workforce is increasingly adopting portfolio careers, with 75% of Gen Z entrepreneurs managing multiple income streams, a trend driven by a desire for flexibility and autonomy. This shift, amplified by AI and digital tools, sees professionals building businesses, freelancing, and monetizing skills, making entrepreneurship more accessible than ever.",
+    "img": "https://static.toiimg.com/photo/msid-131049484,imgsize-65406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gen-z-pros-embrace-portfolio-careers-as-side-hustles-surge/articleshow/131049480.cms",
+    "time": "2026-05-12T21:06:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Entry-level smartphone market shrinks 59%",
+    "desc": "India's entry-level smartphone market experienced a significant decline in Q1 2026, with shipments plunging 59% due to rising component costs. This \"forced premiumisation\" pushed consumers towards mid-range devices, boosting the Rs 10,000-Rs 20,000 segment. Overall smartphone average selling price reached a record Rs 30,000.",
+    "img": "https://static.toiimg.com/photo/msid-131049465,imgsize-188908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/entry-level-smartphone-market-shrinks-59/articleshow/131049457.cms",
+    "time": "2026-05-12T21:05:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Mitsui OSK",
+    "desc": "Mitsui OSK Lines anticipates further container rate increases due to a gap between rising bunker oil costs and freight rates, particularly in Asia. While a prolonged conflict could impact demand, the company remains bullish on India's growth, expanding its fleet for energy and vehicle transport.",
+    "img": "https://static.toiimg.com/photo/msid-131049447,imgsize-19378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/freights-may-see-further-rise-mitsui-osk/articleshow/131049449.cms",
+    "time": "2026-05-12T20:58:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Global challenges a wake-up call for India Inc: Piyush Goyal",
+    "desc": "Commerce and Industry Minister Piyush Goyal urged Indian industry to embrace self-efficiency and productivity amidst global challenges. He emphasized reducing import dependence, leveraging free trade agreements, and moving from \"assembled in India\" to \"designed, engineered, and manufactured in India\" to strengthen the economy and achieve export targets.",
+    "img": "https://static.toiimg.com/photo/msid-131049437,imgsize-643451.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/global-challenges-a-wake-up-call-for-india-inc-piyush-goyal/articleshow/131049436.cms",
+    "time": "2026-05-12T20:51:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sharib had ‘zero money’ before TFM; Nasreen sold jewellery",
+    "desc": "Before becoming a household name with his role as JK Talpade in The Family Man, Sharib Hashmi went through a 15-year-long struggle filled with financial hardships, uncertainty, and emotional breakdowns. Sharib and his wife Nasreen Hashmi opened up about the difficult years they faced after the actor quit his stable job at MTV to pursue acting full-time.",
+    "img": "https://static.toiimg.com/photo/msid-131049426,imgsize-67314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sharib-hashmi-recalls-struggling-with-zero-money-before-the-family-man-success-wife-nasreen-sold-jewellery-to-support-his-dream/articleshow/131049416.cms",
+    "time": "2026-05-12T20:48:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "CEA V Anantha Nageswaran",
+    "desc": "India faces a significant \"live balance of payments stress test\" due to the West Asian crisis, impacting inflation and currency, Chief Economic Advisor V Anantha Nageswaran stated. He emphasized that managing the current account and preventing currency depreciation are key macroeconomic goals for FY27.",
+    "img": "https://static.toiimg.com/photo/msid-131049431,imgsize-29974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/crisis-in-west-asia-a-live-bop-stress-test-cea-v-anantha-nageswaran/articleshow/131049428.cms",
+    "time": "2026-05-12T20:48:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Higher food prices drive April retail inflation to 3.5%",
+    "desc": "Retail inflation edged up to 3.5% in April, driven by a rise in food prices. While fuel inflation slowed, restaurant services saw a significant price jump due to higher LPG costs. Consumer durables like cars and air conditioners, however, became cheaper. Experts note upside risks to the inflation outlook despite the softer-than-expected reading.",
+    "img": "https://static.toiimg.com/photo/msid-131049424,imgsize-57964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/higher-food-prices-drive-april-retail-inflation-to-3-5/articleshow/131049420.cms",
+    "time": "2026-05-12T20:44:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Introspect on reputational cost of aiding terror exporter Pakistan, India tells China",
+    "desc": "India's MEA urged China to consider the reputational damage of backing Pakistan's terrorist infrastructure, following reports of Chinese tech assistance during last year's Operation Sindoor. The ministry stated these reports corroborated existing knowledge, emphasizing that supporting such infrastructure impacts a nation's standing.",
+    "img": "https://static.toiimg.com/photo/msid-131049207,imgsize-839739.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/introspect-on-reputational-cost-of-aiding-terror-exporter-pakistan-india-tells-china/articleshow/131049200.cms",
+    "time": "2026-05-12T19:53:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rahul Dev recalls insensitive behaviour during Mukul’s funeral",
+    "desc": "Rahul Dev recently opened up about the difficult time following the death of his brother, actor Mukul Dev, and called out the insensitive behaviour of some sections of the media during the funeral proceedings. Mukul Dev passed away on May 23, 2025, following a brief illness and a period in the ICU. Rahul Dev said he was disturbed by the way personal grief was being covered during his brother’s final journey.",
+    "img": "https://static.toiimg.com/photo/msid-131049182,imgsize-51414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rahul-dev-recalls-insensitive-behaviour-of-media-during-brother-mukul-devs-funeral-people-came-just-to-take-photographs/articleshow/131049162.cms",
+    "time": "2026-05-12T19:49:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Floor test will be smooth; have received letters from EPS, Velumani factions: T.N. Assembly Speaker",
+    "desc": "“It is by the grace of God that Mr. Vijay has won. Our leader is going to prove his majority on May 13,” says Prabhakar, who exudes confidence that the young first-time MLAs will exceed expectations",
+    "img": "https://th-i.thgim.com/public/incoming/bhqaix/article70971521.ece/alternates/LANDSCAPE_1200/20260512077L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/floor-test-will-be-smooth-have-received-letters-from-eps-velumani-factions-speaker/article70971501.ece",
+    "time": "2026-05-12T19:47:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iltija Mufti blames ‘NC-BJP nexus’ for her X suspension",
+    "desc": "Iltija Mufti, daughter of Mehbooba Mufti, claims the National Conference, in league with the BJP, suspended her X account. She alleges this follows her criticism of the NC and the proposed removal of Urdu as a mandatory language. Her Facebook page was also recently deactivated, impacting her political outreach.",
+    "img": "https://static.toiimg.com/photo/msid-131049059,imgsize-60494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iltija-mufti-blames-nc-bjp-nexus-for-her-x-suspension/articleshow/131049056.cms",
+    "time": "2026-05-12T19:32:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "2 Pakistanis among 5 sent to 25-day custody for terror acts in J&amp;K",
     "desc": "Five people have been sent to judicial custody for 25 days. The group includes two Pakistani nationals. This development is part of an NIA case concerning terror activities. Earlier, a grenade and bullets were seized from a suspect in Srinagar. His interrogation led to the arrest of the other four individuals.",
@@ -333,15 +477,6 @@ const newsData_en = [
     "time": "2026-05-12T14:16:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Thalapathy Vijay’s top box office hits before his political journey",
-    "desc": "Thalapathy Vijay, a powerhouse in Tamil cinema for three decades, has delivered massive box office successes like 'Leo' and 'The Greatest Of All Time' before venturing into full-time politics. His films consistently break records, with 'Leo' becoming his highest earner. Other notable hits include 'Bigil', 'Varisu', and 'Mersal', solidifying his status as a leading actor.",
-    "img": "https://static.toiimg.com/photo/msid-131041759,imgsize-42398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/from-leo-to-mersal-thalapathy-vijays-top-box-office-hits-before-his-political-journey/articleshow/131041702.cms",
-    "time": "2026-05-12T14:04:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why GT changed jersey colour against Sunrisers Hyderabad",
     "desc": "Pat Cummins won the toss and chose to field as Sunrisers Hyderabad faced Gujarat Titans. The Titans sported a special lavender jersey to support cancer awareness. Both teams, with identical points, retained their playing XIs for the crucial IPL 2026 encounter. Captains Cummins and Gill expressed confidence in their strategies.",
@@ -358,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/isko-sack-kab-karoge-pakistan-captain-shan-masood-faces-massive-backlash-after-humiliating-bangladesh-defeat/articleshow/131040894.cms",
     "time": "2026-05-12T13:34:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chitagranda Singh was to do a film with 'Dhurandhar' director Aditya Dhar",
-    "desc": "Actress Chitrangada Singh reminisced about a shelved film, 'Sufi,' she was set to star in with director Aditya Dhar. She expressed admiration for Dhar's directorial prowess, especially after his recent success with 'Dhurandhar.' Singh is currently preparing for her upcoming film, 'Maatrubhumi,' alongside Salman Khan.",
-    "img": "https://static.toiimg.com/photo/msid-131040690,imgsize-42722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chitagranda-singh-was-to-do-a-film-with-dhurandhar-director-aditya-dhar-but-it-never-got-made-he-had-written-an-amazing-character-for-me/articleshow/131040612.cms",
-    "time": "2026-05-12T13:18:00.000Z"
   },
   {
     "cat": "Sports",
@@ -430,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mouni-roys-husband-suraj-nambiar-deletes-his-instagram-account-amid-divorce-rumours/articleshow/131039083.cms",
     "time": "2026-05-12T12:17:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The unseen burden of India’s nurses",
-    "desc": "Indian nurses, the backbone of healthcare, are critically undervalued despite their expanded roles in patient care, crisis management, and emotional support. Facing severe shortages and overwhelming workloads, their vital contributions often go unrecognized, a situation exacerbated by the pandemic. A reckoning is needed to truly appreciate and support these frontline caregivers.",
-    "img": "https://static.toiimg.com/photo/msid-131039067,imgsize-1329537.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beyond-caregiving-the-unseen-burden-of-indias-nurses/articleshow/131038924.cms",
-    "time": "2026-05-12T12:16:45.000Z"
   },
   {
     "cat": "Sports",
@@ -540,15 +657,6 @@ const newsData_en = [
     "time": "2026-05-12T08:53:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How bullion industry plans to cut India’s import bill",
-    "desc": "Facing a widening trade deficit, India's Prime Minister urges reduced gold purchases. Industry bodies propose tapping into the nation's vast household gold reserves. Their plan involves using refined household gold for domestic demand and channeling imported gold into jewellery exports via gold metal loans, aiming to boost working capital and cut imports.",
-    "img": "https://static.toiimg.com/photo/msid-131033889,imgsize-2697064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/from-buying-less-gold-to-cashing-in-old-reserves-how-bullion-industry-plans-to-cut-indias-import-bill/articleshow/131031311.cms",
-    "time": "2026-05-12T08:48:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Those eyes don't lie': Krunal feels Virat Kohli still has 'a lot left to give’",
     "desc": "Krunal Pandya continues to be a vital all-rounder for RCB in their IPL 2026 title defence, recently scoring a match-winning 73 despite severe cramps against Mumbai Indians. He also achieved his 100th IPL wicket and draws inspiration from Virat Kohli's unwavering intensity and dedication, having previously won Player of the Match in two IPL finals.",
@@ -556,24 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/those-eyes-dont-lie-krunal-pandya-feels-virat-kohli-still-has-a-lot-left-to-give/articleshow/131033309.cms",
     "time": "2026-05-12T08:32:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Taco’ out, ‘Nacho’ in? Wall Street coins new Trump term before China visit",
-    "desc": "Wall Street's market sentiment has shifted from 'TACO' (Trump Always Chickens Out) to 'NACHO' (Not A Chance Hormuz Opens), reflecting growing pessimism about the Strait of Hormuz crisis. Investors now anticipate a prolonged period of elevated oil prices and shipping risks, moving away from assumptions of a quick resolution.",
-    "img": "https://static.toiimg.com/photo/msid-131033046,imgsize-537511.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/taco-out-nacho-in-wall-street-coins-new-donald-trump-term-before-china-visit/articleshow/131032726.cms",
-    "time": "2026-05-12T07:57:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "69 days of crude, 45 days of LPG stock: Petroleum minister Hardeep Puri assures ‘no supply issue’ amid West Asia crisis",
-    "desc": "Union Minister Hardeep Singh Puri assured stable fuel and cooking gas supplies, stating the country holds 69 days of crude oil and LNG reserves and 45 days of LPG. Daily LPG production has been significantly increased to 54,000 tonnes amid Middle East geopolitical tensions. Puri also echoed Prime Minister Modi's call for austerity to mitigate economic pressures.",
-    "img": "https://static.toiimg.com/photo/msid-131032686,imgsize-1289585.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/69-days-of-crude-45-days-of-lpg-stock-petroleum-minister-hardeep-puri-assures-no-supply-issue-amid-west-asia-crisis/articleshow/131032067.cms",
-    "time": "2026-05-12T07:51:15.000Z"
   },
   {
     "cat": "Sports",
@@ -594,15 +684,6 @@ const newsData_en = [
     "time": "2026-05-12T07:28:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Why did stock market crash today? Sensex closes over 1,400 points down",
-    "desc": "One of the key triggers behind the market decline was renewed uncertainty surrounding the US-Iran conflict. US President Donald Trump said the ceasefire with Iran was “on life support” after Tehran rejected Washington’s latest proposal aimed at ending the conflict. Trump described Iran’s demands as “garbage.”",
-    "img": "https://static.toiimg.com/photo/msid-131029955,imgsize-99504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-today-may-12-2026-top-reasons-why-sensex-nifty50-are-down-today-us-iran-war-crude-oil-prices-rupee-decline/articleshow/131029919.cms",
-    "time": "2026-05-12T06:01:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "WSJ",
     "desc": "An American newspaper said the UAE's attacks targeted a refinery located on Iran's Lavan Island and took place \"around the time\" U.S. President Donald Trump was \"announcing a cease-fire in the war\" after a five-week air strike campaign",
@@ -619,33 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rs-12-lakh-fine-for-delhi-capitals-captain-axar-patel-after-win-vs-punjab-kings/articleshow/131028639.cms",
     "time": "2026-05-12T04:50:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US, UK sanctions target Iran-linked network accused of plotting attacks and moving funds",
-    "desc": "The US and UK have imposed separate sanctions targeting individuals, companies, and networks involved in Iran's oil sales, financial transactions, and alleged hostile activities. These measures aim to disrupt Iran's oil exports to China and cut off funding for the IRGC, while the UK focuses on shadow banking and destabilizing operations linked to criminal networks.",
-    "img": "https://static.toiimg.com/photo/msid-131028296,imgsize-1910402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-uk-sanctions-target-iran-linked-network-accused-of-plotting-attacks-and-moving-funds/articleshow/131027675.cms",
-    "time": "2026-05-12T04:23:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee at 95.6: Currency crashes to record low as US-Iran ceasefire jitters send oil soaring",
-    "desc": "The Indian Rupee hit a record low of 95.63 against the US dollar amid escalating geopolitical tensions and fragile investor sentiment. Intensifying Middle East conflict, rising oil prices, and sustained foreign fund outflows are pressuring the currency. This economic uncertainty is also reflected in a significant dip in domestic stock markets.",
-    "img": "https://static.toiimg.com/photo/msid-131028159,imgsize-1696377.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-at-95-6-currency-crashes-to-record-low-as-us-iran-ceasefire-jitters-send-oil-soaring/articleshow/131028104.cms",
-    "time": "2026-05-12T04:16:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil &amp; gas royalty rejig: What govt big upstream reform means",
-    "desc": "The Indian government has rationalised royalty rates and methodologies for crude oil, natural gas, and casing head condensate to simplify regulations and boost the upstream energy sector. This move aims to bring greater clarity, consistency, and predictability to the oil and gas regime, encouraging fresh investments in exploration and production activities.",
-    "img": "https://static.toiimg.com/photo/msid-131028024,imgsize-28956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-gas-royalty-rejig-what-govt-big-upstream-reform-means/articleshow/131027475.cms",
-    "time": "2026-05-12T04:14:05.000Z"
   },
   {
     "cat": "Sports",
@@ -844,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
