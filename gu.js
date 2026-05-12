@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "કોણ છે રાધાન પંડિત? જેમને તમિલનાડુના CM વિજયે બનાવ્યા તેમના OSD, જયલલિતા સાથે પણ છે ખાસ કનેક્શન!",
+    "desc": "તમિલનાડુના મુખ્યમંત્રી વિજય થલાપતિએ જ્યોતિષી રાધાન પંડિતને તેમના OSD (ઓફિસર ઓન સ્પેશિયલ ડ્યુટી) તરીકે નિયુક્ત કર્યા છે. રાધાન પંડિતે વિજયની પાર્ટીની ઐતિહાસિક જીતની જાહેરાત અગાઉથી જ કરી દીધી હતી. આ ઉપરાંત તેમણે વિજયના શપથ ગ્રહણનો સમય પણ નક્કી કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-radhan-pandit-he-was-made-osd-by-tamil-nadu-cm-vijay-and-also-has-a-special-connection-with-jayalalithaa-477615 ",
+    "time": "2026-05-12T17:47:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "50 ઓવરમાં 823 રનનો ટારગેટ અને 794 રનની વિશાળ જીત, IPL દરમિયાન જોવા મળી એક ઐતિહાસિક વનડે મેચ",
+    "desc": "ભારતમાં હાલમાં IPLની ધુમ ચાલી રહી છે, ત્યારે એક એવો રેકોર્ડ બન્યો છે, જેને તોડવો લગભગ અશક્ય લાગે છે. આ મેચમાં 822 રન બનાવ્યા હતા અને 823 રનનો ટારગેટ આપવામાં આવ્યો હતો, જેના જવાબમાં વિપક્ષી ટીમ માત્ર 28 બોલમાં ઓલઆઉટ થઈ ગઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/a-target-of-823-runs-in-50-overs-and-a-huge-win-of-794-runs-a-historic-odi-match-was-witnessed-during-the-ipl-477614 ",
+    "time": "2026-05-12T17:18:19.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "મંત્રીઓની મુસાફરી પર લગામ, અધિકારીઓને સૂચના! ઇંધણ બચાવવા માટે સરકારની મોટી તૈયારી",
     "desc": "પીએમ મોદીએ દેશના લોકોને ઈંધણ બચાવવાની અપીલ કરી છે. સાથે જ વર્ક ફ્રોમ હોમ માટે પણ અનુરોધ કર્યો છે. હવે સરકાર પોતાના મંત્રીઓ અને અધિકારીઓ પર પણ આવા જ પ્રતિબંધો લાગુ કરવા જઈ રહી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -394,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rr-vs-gt-ipl-2026-rajasthan-royals-vs-gujarat-titans-match-highlights-477203 ",
     "time": "2026-05-09T18:06:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 વચ્ચે અચાનક બદલાઈ ગયો રાજસ્થાન રોયલ્સનો કેપ્ટન, જાણો કોને મળી ટીમની કમાન",
-    "desc": "IPL 2026ની 52મી મેચમાં રાજસ્થાન રોયલ્સ ગુજરાત ટાઇટન્સનો સામનો કરી રહી છે. છેલ્લી વખત જ્યારે આ બંને ટીમો ટકરાઈ હતી, ત્યારે ગુજરાતનો નિયમિત કેપ્ટન શુભમન ગિલ રમ્યા નહોતો. આજે રિયાન પરાગ બહાર છે. તેની ગેરહાજરીમાં યશસ્વી જયસ્વાલ રાજસ્થાન રોયલ્સનું નેતૃત્વ કરી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rajasthan-royals-new-captain-yashasvi-jaiswal-why-riyan-parag-not-playing-against-gt-477190 ",
-    "time": "2026-05-09T14:37:53.000Z"
   },
   {
     "cat": "World",

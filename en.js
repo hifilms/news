@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "2 Pakistanis among 5 sent to 25-day custody for terror acts in J&amp;K",
+    "desc": "Five people have been sent to judicial custody for 25 days. The group includes two Pakistani nationals. This development is part of an NIA case concerning terror activities. Earlier, a grenade and bullets were seized from a suspect in Srinagar. His interrogation led to the arrest of the other four individuals.",
+    "img": "https://static.toiimg.com/photo/msid-131048973,imgsize-832070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2-pakistanis-among-5-sent-to-25-day-custody-for-terror-acts-in-jk/articleshow/131048985.cms",
+    "time": "2026-05-12T19:27:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farooq joins liquor debate, says even Sheikh Abdullah didn’t favour prohibition; Mirwaiz, BJP seek ban",
+    "desc": "National Conference president Farooq Abdullah weighed in on a liquor ban debate in Jammu and Kashmir, citing his father's 1977 stance that revenue generation was key. He argued that prohibition wouldn't stop consumption, as people would source alcohol from outside. Abdullah also questioned critics' silence when liquor shops previously opened across the region.",
+    "img": "https://static.toiimg.com/photo/msid-131048896,imgsize-54636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/farooq-joins-liquor-debate-says-even-sheikh-abdullah-didnt-favour-prohibition-mirwaiz-bjp-seek-ban/articleshow/131048864.cms",
+    "time": "2026-05-12T19:22:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Terrorist killed, Poonch infiltration bid foiled",
+    "desc": "Army troops foiled an infiltration attempt in Poonch's Krishna Ghati sector on Tuesday, neutralizing one terrorist approximately 300 meters inside the Indian side of the Line of Control. This incident follows several other thwarted infiltration bids in the Jammu region in recent months, highlighting ongoing vigilance along the LoC.",
+    "img": "https://static.toiimg.com/photo/msid-131048824,imgsize-57788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/terrorist-killed-poonch-infiltration-bid-foiled/articleshow/131048832.cms",
+    "time": "2026-05-12T19:16:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EAM’s bilateral with Iran’s Araghchi on Friday, energy disruption &amp; connectivity on agenda",
+    "desc": "External Affairs Minister S Jaishankar will host his Iranian counterpart for bilateral talks focusing on energy and connectivity concerns, including stranded LPG tankers and Chabahar port operations. This meeting, occurring during the BRICS foreign ministers' gathering, aims to address regional conflicts and foster cooperation among member states.",
+    "img": "https://static.toiimg.com/photo/msid-131048740,imgsize-22832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eams-bilateral-with-irans-araghchi-on-friday-energy-disruption-connectivity-on-agenda/articleshow/131048743.cms",
+    "time": "2026-05-12T19:13:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will FIFA World Cup 2026 be broadcast in India? Here's the latest update",
+    "desc": "FIFA confirmed ongoing discussions for media rights in India for the 2026 World Cup, with no official broadcaster yet announced. The Delhi High Court has issued notices regarding the broadcast, as talks in other territories like China also remain unsettled. Fans await confirmation on television and digital platform coverage for the expanded tournament.",
+    "img": "https://static.toiimg.com/photo/msid-131048578,imgsize-27728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/will-fifa-world-cup-2026-be-broadcast-in-india-heres-the-latest-update/articleshow/131048583.cms",
+    "time": "2026-05-12T19:05:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia turns heads with jaw-dropping red carpet look at Cannes",
+    "desc": "After much anticipation, Alia Bhatt finally made her first appearance at the Cannes Film Festival, and her red carpet look instantly grabbed everyone’s attention. Representing L'Oreal Paris at the opening ceremony on May 12, Alia stunned in a custom peach couture gown by Tamara Ralph, styled by Rhea Kapoor.",
+    "img": "https://static.toiimg.com/photo/msid-131048093,imgsize-59466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-turns-heads-with-jaw-dropping-red-carpet-look-at-cannes-2026-in-dreamy-peach-gown/articleshow/131048036.cms",
+    "time": "2026-05-12T18:35:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill's 'it will not be easy for them' message goes viral",
+    "desc": "Gujarat Titans secured a commanding 82-run victory over Sunrisers Hyderabad. This win propelled Gujarat Titans to the top of the Indian Premier League 2026 standings. Half-centuries from Sai Sudharsan and Washington Sundar set a strong total. Kagiso Rabada and Jason Holder then dismantled the Sunrisers Hyderabad batting lineup. Gujarat Titans achieved their fifth consecutive win.",
+    "img": "https://static.toiimg.com/photo/msid-131047607,imgsize-63912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-shubman-gills-it-will-not-be-easy-for-them-message-goes-viral-after-gujarat-titans-crush-sunrisers-hyderabad/articleshow/131047425.cms",
+    "time": "2026-05-12T18:15:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sharib’s wife recalls oral cancer diagnosis, battling 6th relapse",
+    "desc": "Sharib Hashmi and his wife Nasreen Hashmi recently opened up about their emotional battle with cancer and how the journey strengthened their relationship over the years. Nasreen revealed that she was first diagnosed with oral cancer in 2018, around the same time Sharib’s career was witnessing a major breakthrough with The Family Man.",
+    "img": "https://static.toiimg.com/photo/msid-131047419,imgsize-39762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sharib-hashmis-wife-nasreen-hashmi-recalls-oral-cancer-diagnosis-now-battling-her-sixth-relapse-he-never-left-my-side/articleshow/131047275.cms",
+    "time": "2026-05-12T18:10:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "GT storm to top of table as Rabada leads SRH demolition in 82-run thrashing",
+    "desc": "Gujarat Titans secured a dominant 82-run victory over Sunrisers Hyderabad. Sai Sudharsan and Washington Sundar built a crucial partnership to set a competitive total. The Gujarat bowling attack then dismantled Hyderabad's batting order. Kagiso Rabada and Jason Holder were instrumental in restricting the opposition. This win propelled Gujarat Titans to the top of the IPL 2026 standings.",
+    "img": "https://static.toiimg.com/photo/msid-131047147,imgsize-171126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-gt-storm-to-top-of-table-as-kagiso-rabada-leads-srh-demolition-in-82-run-thrashing/articleshow/131047137.cms",
+    "time": "2026-05-12T18:04:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Unfair trade practice’: Consumer commission pulls up EPFO over decade-long PF delay, orders Rs 50,000 compensation",
+    "desc": "Chandigarh Consumer Commission penalised EPFO Rs 50,000 for a decade-long delay in transferring provident fund. Software glitches were dismissed as an excuse for the significant lapse. The commission found EPFO guilty of deficiency in service and unfair trade practice, ordering compensation for the employee's prolonged wait for his PF funds.",
+    "img": "https://static.toiimg.com/photo/msid-131046510,imgsize-303064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/unfair-trade-practice-consumer-commission-pulls-up-epfo-over-decade-long-pf-delay-orders-rs-50000-compensation/articleshow/131045857.cms",
+    "time": "2026-05-12T17:42:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Education Ministry gives fresh push for implementation of PM-SHRI in Bengal, Kerala, and T.N. post elections",
+    "desc": "Launched in September 2022, this five-year initiative aims to transform over 14,500 schools into “exemplar institutions” that lead the way in implementing the National Education Policy (NEP) 2020; only a limited time is left for the scheme to complete its five-year duration, the Ministry stated in a letter issued to the States",
+    "img": "https://th-i.thgim.com/public/incoming/1bzdc8/article70971394.ece/alternates/LANDSCAPE_1200/20260512319L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/education-ministry-gives-fresh-push-for-implementation-of-pm-shri-in-bengal-kerala-and-tn-post-elections/article70970906.ece",
+    "time": "2026-05-12T17:34:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Four cheetah cubs die at Kuno in suspected leopard attack",
+    "desc": "The deaths in Madhya Pradesh hold significance as the four cubs were the first to be born in the open forest since India’s reintroduction programme for the big cat species — Project Cheetah — was launched in 2022; this is the largest number of cheetah casualties at Kuno in one instance, which witnessed the birth of several cubs in recent months.",
+    "img": "https://th-i.thgim.com/public/incoming/jgl81t/article70971369.ece/alternates/LANDSCAPE_1200/20260303013L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/four-cheetah-cubs-die-at-kuno-in-suspected-leopard-attack/article70970676.ece",
+    "time": "2026-05-12T17:25:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kagiso Rabada enters elite IPL club with historic powerplay bowling feat",
+    "desc": "Kagiso Rabada's exceptional IPL 2026 bowling has reached historic heights, with his latest powerplay demolition of Sunrisers Hyderabad taking him to 16 wickets for the season. This feat places him alongside IPL legends for most powerplay wickets in a single edition. Rabada's fiery spell crippled SRH's chase, ensuring Gujarat Titans secured a crucial victory.",
+    "img": "https://static.toiimg.com/photo/msid-131045732,imgsize-124020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kagiso-rabada-enters-elite-ipl-club-with-historic-powerplay-bowling-feat/articleshow/131045725.cms",
+    "time": "2026-05-12T17:19:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NTA cancels NEET-UG 2026, to conduct re-test after alleged paper leak",
+    "desc": "NTA to announce re-test schedule in seven to 10 days; no new registration, fees; “any move short of cancelling exams would signal that those trying to scam the system would have succeeded,” says NTA DG",
+    "img": "https://th-i.thgim.com/public/incoming/4t0nqx/article70968710.ece/alternates/LANDSCAPE_1200/MEMAU_3_5_2026_19_33_11_1_6005.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/neet-ug-2026-cancelled-to-be-reconducted-paper-leak-nta-may-12-2026/article70968713.ece",
+    "time": "2026-05-12T17:09:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rakesh Bedi reacts to Rs 1 cr bonus after Dhurandhar success",
+    "desc": "The Revenge, thanks to his fan-favourite character Jameel Jamali and the viral dialogue, “Bachcha hai tu mera.” Amid reports claiming that the actor received a Rs 1 crore bonus from the makers following the film’s success, Bedi has now reacted to the ongoing buzz with his trademark humour.",
+    "img": "https://static.toiimg.com/photo/msid-131045164,imgsize-23764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakesh-bedi-reacts-to-rs-1-crore-bonus-buzz-after-dhurandhar-success-uska-fayda-mujhe-bhi-toh-hona-chahiye-na/articleshow/131045088.cms",
+    "time": "2026-05-12T16:53:12.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Nia DaCosta on '28 Years Later: The Bone Temple’ box office",
     "desc": "The Bone Temple's' box office performance, which reportedly fell short of expectations and failed to recoup its production budget. Despite the financial outcome, DaCosta remains proud of the film, highlighting her personal satisfaction with the project and her enjoyment in making it.",
@@ -34,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-csk-likely-to-rope-in-uae-raised-karnataka-batter-macneil-hadley-noronha/articleshow/131044225.cms",
     "time": "2026-05-12T16:19:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AIADMK reacts sharply to rebel MLAs, AMMK expels party's lone legislator",
-    "desc": "Ahead of the crucial floor test where TVK-led government is set to prove its majority in the Legislative Assembly and amid a split in AIADMK, AMMK's lone MLA S. Kamaraj expelled from party for announcing his support to TVK.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-floor-test-aiadmk-party-split-palaniswami-velumani-live-updates-may-12-2026/article70968227.ece",
-    "time": "2026-05-12T16:08:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -243,24 +369,6 @@ const newsData_en = [
     "time": "2026-05-12T13:18:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mouni Roy’s old Suraj Nambiar quote resurfaces amid divorce buzz",
-    "desc": "Mouni Roy and Suraj Nambiar are allegedly navigating some rough waters in their marriage, as their social media activity shows they've unfollowed one another on Instagram. This revelation brings to light an earlier interview with Mouni, where she spoke about the benefits of marriage in resolving conflicts swiftly and mentioned the importance of prioritizing giving over receiving.",
-    "img": "https://static.toiimg.com/photo/msid-131040506,imgsize-981417.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mouni-roys-old-comment-on-fights-with-suraj-nambiar-resurfaces-amid-divorce-rumors-give-more-love-be-there-for-each-other/articleshow/131040506.cms",
-    "time": "2026-05-12T13:10:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' OTT: Thalapathy Vijay’s film sparks streaming war",
-    "desc": "Thalapathy Vijay's film 'Jana Nayagan' is experiencing a massive streaming war for its OTT rights following his significant political victory. Despite earlier release complications and a cancelled deal with Amazon Prime Video, renewed interest from multiple platforms highlights Vijay's elevated popularity and market value as Chief Minister of Tamil Nadu.",
-    "img": "https://static.toiimg.com/photo/msid-131040437,imgsize-48920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-ott-thalapathy-vijays-film-sparks-massive-streaming-war-after-the-actors-political-triumph/articleshow/131040403.cms",
-    "time": "2026-05-12T13:07:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘A mature captain never...': Former India cricketer questions Axar Patel’s leadership",
     "desc": "Mohammad Kaif criticized Axar Patel for publicly singling out teammate Kuldeep Yadav during Delhi Capitals' challenging IPL 2026 season. Kaif emphasized that experienced captains avoid public criticism, especially of proven performers like Kuldeep, advocating for team-focused accountability instead. Despite this, Axar played a crucial captain's knock in a recent win.",
@@ -286,24 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israel-sent-iron-dome-batteries-personnel-to-uae-us-ambassador-to-israel/article70969752.ece",
     "time": "2026-05-12T12:49:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jennifer Harmon, Broadway actress and 'One Life to Live' star, dies at 82",
-    "desc": "Broadway veteran Jennifer Harmon, known for her role as Cathy Craig Lord on 'One Life to Live', has passed away at 82. Her extensive career spanned nearly five decades, featuring 21 Broadway productions and numerous television appearances. Harmon, who earned a Daytime Emmy nomination for her soap opera work, died in New York.",
-    "img": "https://static.toiimg.com/photo/msid-131039945,imgsize-63598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/jennifer-harmon-broadway-actress-and-one-life-to-live-star-dies-at-82/articleshow/131039880.cms",
-    "time": "2026-05-12T12:46:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How wealthy is Mouni Roy’s husband?",
-    "desc": "Divorce rumours swirl around Mouni Roy and Suraj Nambiar after alleged social media unfollows. Nambiar, a Dubai-based investment banker, reportedly boasts a net worth of Rs 50-60 crore from his business ventures. The couple also co-launched an educational platform and are linked to Mouni's hospitality projects. Official confirmation on separation rumours is pending.",
-    "img": "https://static.toiimg.com/photo/msid-131039885,imgsize-68474.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suraj-nambiar-net-worth-how-wealthy-is-mouni-roys-husband-amid-ongoing-separation-speculation/articleshow/131039864.cms",
-    "time": "2026-05-12T12:42:48.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +450,6 @@ const newsData_en = [
     "time": "2026-05-12T12:15:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why Vijay's floor test in Tamil Nadu is really a survival test for AIADMK",
-    "desc": "Tamil Nadu's trust vote for CM-designate Vijay is overshadowed by a potential AIADMK rupture. Senior rebels are questioning party chief Palaniswami's leadership, accusing him of seeking an understanding with the rival DMK. This internal strife could signal the AIADMK's terminal decline as its MLAs consider shifting loyalty.",
-    "img": "https://static.toiimg.com/photo/msid-131038562,imgsize-1601285.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-vijays-floor-test-in-tamil-nadu-is-really-a-survival-test-for-aiadmk/articleshow/131038380.cms",
-    "time": "2026-05-12T11:56:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bangladesh stun Pakistan by 104 runs as Nahid Rana’s five-for seals historic Test win",
     "desc": "Bangladesh secured a commanding 104-run victory over Pakistan in the first Test, taking a 1-0 series lead. Nahid Rana's exceptional bowling spell dismantled Pakistan's chase after a promising start by debutant Abdullah Fazal. This historic win marks Bangladesh's first home Test triumph against Pakistan, signaling a significant shift in red-ball cricket.",
@@ -376,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-stun-pakistan-by-104-runs-as-nahid-ranas-five-for-seals-historic-test-win/articleshow/131038394.cms",
     "time": "2026-05-12T11:48:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Atmosphere of unease': Oppn reacts to PM Modi's 'sudden' austerity call; Pawar, Thackeray raise red flags",
-    "desc": "In light of PM Modi's push for austerity amidst the escalating Middle Eastern tensions, Sharad Pawar has called for a collaborative all-party dialogue to assess potential economic repercussions. Meanwhile, Raj Thackeray raised eyebrows over the timing of this call, noting the lavish election campaigns and planned international jaunts.",
-    "img": "https://static.toiimg.com/photo/msid-131038136,imgsize-47764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/atmosphere-of-unease-oppn-reacts-to-pm-modis-sudden-austerity-call-pawar-thackeray-raise-red-flags/articleshow/131037807.cms",
-    "time": "2026-05-12T11:39:24.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +486,6 @@ const newsData_en = [
     "time": "2026-05-12T11:11:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "One vote, two Tirupatturs: DMK flags postal ballot mix-up after HC order",
-    "desc": "A single vote separated winners in a Tamil Nadu election, leading to a Madras High Court order. The court barred a TVK MLA from voting in the assembly floor test due to a potential postal vote mix-up. The DMK claims a recount could equalize votes, necessitating a coin toss. The election officer cited EVM issues and postal ballot re-verification.",
-    "img": "https://static.toiimg.com/photo/msid-131037322,imgsize-42932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/one-vote-two-tirupatturs-dmk-flags-postal-ballot-mix-up-after-hc-order/articleshow/131036656.cms",
-    "time": "2026-05-12T11:07:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Frozen for four years despite rising crude costs",
     "desc": "India assures stable fuel supplies despite global disruptions and rising crude prices. However, unchanged domestic rates are causing significant losses for oil marketing companies, leading to a pressing question about potential price hikes. The government faces a fiscal burden from absorbing price shocks through tax cuts.",
@@ -439,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/losing-rs-1000-crore-a-day-petrol-minister-puri-highlights-mounting-losses-for-omcs-as-fuel-prices-remain-unchanged-for-4-years/articleshow/131036130.cms",
     "time": "2026-05-12T10:31:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu CM Vijay meets AIADMK rebel leaders ahead of crucial floor test",
-    "desc": "Tamil Nadu faces an AIADMK internal conflict as Vijay's new government prepares for a floor test. A faction led by CV Shanmugam pledged support to Vijay, defying party directives. Agri SS Krishnamurthy warned rebel MLAs of action, while OS Manian asserted 47 MLAs back Edappadi K Palaniswami. This rift highlights deep divisions within the AIADMK following recent poll performance.",
-    "img": "https://static.toiimg.com/photo/msid-131038157,imgsize-71664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aiadmk-vs-aiadmk-how-support-to-vijays-tvk-has-split-ammas-party-again/articleshow/131036138.cms",
-    "time": "2026-05-12T10:29:45.000Z"
   },
   {
     "cat": "Sports",
@@ -496,15 +550,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "37-yo SA legend makes retirement u-turn to join Women's T20 WC squad",
-    "desc": "South Africa women's national cricket team have announced their squad for the ICC Women's T20 World Cup 2026, with veteran pacer Shabnim Ismail making a surprise return from retirement. Led by Laura Wolvaardt, the Proteas will aim for their first ICC title after back-to-back runner-up finishes. Experienced players like Marizanne Kapp and Dane van Niekerk also feature in the squad.",
-    "img": "https://static.toiimg.com/photo/msid-131033865,imgsize-58528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/37-year-old-south-africa-legend-announces-retirement-u-turn-to-make-womens-t20-world-cup-squad/articleshow/131033695.cms",
-    "time": "2026-05-12T08:47:04.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Those eyes don't lie': Krunal feels Virat Kohli still has 'a lot left to give’",
     "desc": "Krunal Pandya continues to be a vital all-rounder for RCB in their IPL 2026 title defence, recently scoring a match-winning 73 despite severe cramps against Mumbai Indians. He also achieved his 100th IPL wicket and draws inspiration from Virat Kohli's unwavering intensity and dedication, having previously won Player of the Match in two IPL finals.",
     "img": "https://static.toiimg.com/photo/msid-131033649,imgsize-1044033.cms",
@@ -549,15 +594,6 @@ const newsData_en = [
     "time": "2026-05-12T07:28:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Honestly, at this point...': Bhuvneshwar gives calm response to India return",
-    "desc": "Bhuvneshwar Kumar's stellar IPL 2026 form for Royal Challengers Bengaluru, marked by 21 wickets and a match-winning performance against Mumbai Indians, fuels speculation about an India return. Despite the buzz, the veteran pacer remains focused on his team's success, stating he's not setting long-term goals but cherishes his career achievements.",
-    "img": "https://static.toiimg.com/photo/msid-131030571,imgsize-28122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/honestly-at-this-point-bhuvneshwar-kumar-gives-calm-response-to-india-return-speculation/articleshow/131030452.cms",
-    "time": "2026-05-12T06:29:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why did stock market crash today? Sensex closes over 1,400 points down",
     "desc": "One of the key triggers behind the market decline was renewed uncertainty surrounding the US-Iran conflict. US President Donald Trump said the ceasefire with Iran was “on life support” after Tehran rejected Washington’s latest proposal aimed at ending the conflict. Trump described Iran’s demands as “garbage.”",
@@ -574,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uae-attacked-iran-last-month-wsj/article70968355.ece",
     "time": "2026-05-12T05:22:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi 'a slight liability in the field'? Former India batter flags RR",
-    "desc": "Sanjay Manjrekar expresses concern over Vaibhav Sooryavanshi's limited role as an Impact Player in IPL 2026. He argues that restricting the 15-year-old to just batting hinders his overall cricketing development, emphasizing the importance of fielding experience and pressure situations for a complete cricketer.",
-    "img": "https://static.toiimg.com/photo/msid-131029026,imgsize-76768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshi-a-slight-liability-in-the-field-former-india-batter-flags-rr/articleshow/131028864.cms",
-    "time": "2026-05-12T05:16:15.000Z"
   },
   {
     "cat": "Sports",
@@ -619,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/oil-gas-royalty-rejig-what-govt-big-upstream-reform-means/articleshow/131027475.cms",
     "time": "2026-05-12T04:14:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why India turned down Russia's LNG despite Middle East-driven supply concerns",
-    "desc": "India has reportedly rejected Russian LNG cargoes under US sanctions, despite energy security worries. A sanctioned Russian LNG shipment is now stranded near Singapore as India navigates compliance risks. While India continues to import Russian crude, LNG is harder to conceal from global tracking systems. Discussions are ongoing for non-sanctioned Russian supplies.",
-    "img": "https://static.toiimg.com/photo/msid-131027466,imgsize-1047510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-turns-down-russias-sanctioned-lng-despite-supply-concerns-driven-by-middle-east-tensions/articleshow/131026800.cms",
-    "time": "2026-05-12T03:29:45.000Z"
   },
   {
     "cat": "Sports",
@@ -711,15 +729,6 @@ const newsData_en = [
     "time": "2026-05-10T05:33:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Playing in IPL has helped upgrade my all-format batting, says Bethell",
-    "desc": "The 22-year-old has played just six matches in his ongoing two-year stint with the 2025 champion and has found a place in the playing eleven this time only due to the injury suffered by compatriot Phil Salt",
-    "img": "https://th-i.thgim.com/public/incoming/qzezhw/article70960368.ece/alternates/LANDSCAPE_1200/11908_9_5_2026_20_19_6_1_DSC_8836.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/playingin-iplhas-helped-upgrade-myall-format-batting-says-bethell/article70960103.ece",
-    "time": "2026-05-09T20:58:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Amma Ariyan’: Restored version of Kerala filmmaker John Abraham’s cult classic to premiere at Cannes",
     "desc": "The film with a cult following, restored by the not-for-profit organisation Film Heritage Foundation, is the only Indian feature film selected for world premiere at the festival this year. The premiere is scheduled on May 16",
@@ -736,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/french-artist-thomas-henriot-draws-lines-that-move-through-light-time-and-memory/article70946282.ece",
     "time": "2026-05-09T04:52:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Extremely shy’ to direct arrest as first option, no need to sensationalise probe: SC in Anil Ambani’s ADAG ‘bank fraud’ case",
-    "desc": "CBI report estimates loss to public sector banks and LIC at over ₹27,000 crore in seven cases involving Anil Ambani’s ADAG and its firms. Top court says arrest must be last resort, and not first option.",
-    "img": "https://th-i.thgim.com/public/incoming/6mm9ib/article70955772.ece/alternates/LANDSCAPE_1200/ED-attaches-AniGNDFKVF93.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/large-scale-banking-fraud-involving-anil-ambanis-adag-requires-thorough-probe-says-sc/article70955604.ece",
-    "time": "2026-05-09T04:08:23.000Z"
   },
   {
     "cat": "Tech",
