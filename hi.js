@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will KKR star turn up for crucial IPL 2026 game against RCB?",
+    "desc": "Kolkata Knight Riders are sweating over Varun Chakravarthy's injury as they gear up to face the Royal Challengers Bengaluru in their 11th clash of the Indian Premier League 2026 at the Shaheed Veer Narayan Singh...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakravarthy-injury-update-will-kkr-star-turn-up-for-crucial-ipl-2026-game-against-rcb-2026-05-12-1040875",
+    "time": "2026-05-12T15:26:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why are GT wearing lavender jersey for their IPL 2026 clash against SRH in Ahmedabad?",
     "desc": "Gujarat Titans are wearing a special lavender jersey as they host Sunrisers Hyderabad at the Narendra Modi Stadium in Ahmedabad, with the battle for the playoffs getting as intense as it could ever be. GT and...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-punishes-axar-patel-after-delhi-s-emphatic-win-over-punjab-kings-in-ipl-2026-2026-05-12-1040782",
     "time": "2026-05-12T04:41:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Madhav Tiwari? Delhi's 21-year-old fast-bowling all-rounder wins POTM vs Punjab Kings",
-    "desc": "Delhi Capitals’ Madhav Tiwari proved his mettle in his second-ever match in the IPL. Against Punjab Kings, the all-rounder stole the show with the ball and later played an important cameo with the bat, helping...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-madhav-tiwari-delhi-s-21-year-old-fast-bowling-all-rounder-wins-potm-vs-punjab-kings-2026-05-12-1040770",
-    "time": "2026-05-12T03:03:46.000Z"
   }
 ];
