@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'How will we survive with just Rs 125?'",
+    "desc": "Fresh scrutiny has fallen on conditions within Indian women’s football after a video allegedly involving players from Suruchi Sangha circulated widely on social media during the ongoing Indian Women’s League 2 season. The footage, which spread...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/how-will-we-survive-with-just-rs-125-viral-video-sparks-outrage-over-conditions-in-iwl-2-watch-2026-05-13-1040904",
+    "time": "2026-05-13T02:36:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK sign Ramakrishna Ghosh's replacement with three league games remaining in IPL 2026",
+    "desc": "Chennai Super Kings are set to complete the deal to bring in Karnataka all-rounder Macneil Hadley Noronha as cover for injured player Ramakrishna Ghosh for the remainder of IPL 2026. The franchise has already informed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-sign-ramakrishna-ghosh-s-replacement-with-three-league-games-remaining-in-ipl-2026-2026-05-13-1040899",
+    "time": "2026-05-13T01:46:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Florentino Perez calls for new election in Real Madrid, blasts Spanish media over campaigning against him",
+    "desc": "Real Madrid president Florentino Perez has rejected speculation surrounding his future at the club after a dreadful season. Last evening, he called for an emergency press conference after a board meeting, where he announced plans...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/florentino-perez-calls-for-new-election-in-real-madrid-blasts-spanish-media-over-campaigning-against-him-2026-05-13-1040897",
+    "time": "2026-05-13T01:26:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia announce T20 World Cup 2026 squad; Darcie Brown omitted for young left-arm seamer",
+    "desc": "Australia have announced their squad for the upcoming Women’s T20 World Cup in England. Sophie Molineux, who took over the captaincy after Alyssa Healy announced her retirement, will continue to lead the side. It will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-squad-for-t20-world-cup-2026-darcie-brown-omitted-for-young-left-arm-seamer-2026-05-13-1040894",
+    "time": "2026-05-13T00:55:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MS Dhoni's ticket for Lucknow booked ahead of LSG clash; suspense on Hardik Pandya continues",
     "desc": "MS Dhoni might be on the flight to Lucknow as the Chennai Super Kings management has booked his ticket for the city ahead of the team's upcoming Indian Premier League 2026 fixture against the Lucknow...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-create-history-against-pakistan-with-104-run-win-in-dhaka-after-nahids-fifer-2026-05-12-1040854",
     "time": "2026-05-12T13:29:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WTC updated points table after Bangladesh's historic win over Pakistan in Dhaka",
-    "desc": "Pakistan committed hara-kiri as they lost out on the first Test of the two-match series against Bangladesh on Tuesday, May 12. The Shan Masood-led side was in control to at least settle for a draw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-bangladeshs-historic-win-over-pakistan-in-dhaka-2026-05-12-1040846",
-    "time": "2026-05-12T12:12:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 uncapped Indians who have set the stage on fire in IPL 2026",
-    "desc": "The Indian Premier League has always been a platform for the next-generation stars to hog the limelight and stake their claims for higher honours. The league has already built some of the top Indian cricketers...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-uncapped-indians-who-have-set-the-stage-on-fire-in-ipl-2026-2026-05-12-1040842",
-    "time": "2026-05-12T11:32:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How surface at Narendra Modi Stadium in Ahmedabad is expected to play?",
-    "desc": "Gujarat Titans and Sunrisers Hyderabad are set to lock horns in a high-stakes encounter at the Narendra Modi Stadium in Ahmedabad on Tuesday, May 12, as the race for the playoffs heats up more than...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-srh-ipl-2026-pitch-report-how-surface-at-narendra-modi-stadium-in-ahmedabad-is-expected-to-play-2026-05-12-1040833",
-    "time": "2026-05-12T10:42:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sakshi Malik backs Vinesh Phogat after WFI denied entry; urges PM Modi, Sports Minister to intervene",
-    "desc": "Sakshi Malik has come out in support of Vinesh Phogat amid the wrestler’s ongoing dispute with the Wrestling Federation of India (WFI) over her comeback to competitive wrestling. The Rio Olympic medallist criticised the federation...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sakshi-malik-backs-vinesh-phogat-after-wfi-denied-entry-urges-pm-modi-sports-minister-to-interfere-2026-05-12-1040822",
-    "time": "2026-05-12T09:33:29.000Z"
   }
 ];
