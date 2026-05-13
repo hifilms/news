@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ટ્રમ્પ મોટા ઉપાડે ચીન તો પહોંચ્યા પણ શી જિનપિંગે સ્વાગત પણ ના કર્યું, ડ્રેગનનો દુનિયાને સીધો મેસેજ",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ બેઇજિંગ પહોંચ્યા છે, પરંતુ ચીનના રાષ્ટ્રપતિ શી જિનપિંગ તેમને આવકારવા એરપોર્ટ પર આવ્યા નહોતા. આજે બંને વચ્ચે કોઈ મુલાકાત પણ થશે નહીં. એટલું જ નહીં ટ્રમ્પ આજે કોઈપણ જાહેર કાર્યક્રમોમાં ભાગ લેશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-xi-jinping-did-not-receive-donald-trump-at-beijing-airport-477782 ",
+    "time": "2026-05-13T16:56:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "શહેરમાં રોજિંદા ઉપયોગ માટે 5 શાનદાર કાર,  34 KM સુધી મળશે માઇલેજ",
+    "desc": "પેટ્રોલ અને ડીઝલની વધતી કિંમતો વચ્ચે લોકો સીએનજી કાર પસંદ કરી રહ્યાં છે. તેવામાં આજે અમે તમને પાંચ સીએનજી કાર વિશે માહિતી આપીશું, જે દરરોજ ઓફિસે આવવા-જવા માટે સૌથી સારી છે. આ કારમાં શાનદાર માઇલેજની સાથે ઘણા લેટેસ્ટ ફીચર્સ પણ મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/five-best-cng-cars-for-daily-ues-celerio-tata-punchhyundai-exter-maruti-suzuki-fronx-477779 ",
+    "time": "2026-05-13T15:15:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આ સરકારી કર્મચારીઓને મોટી ભેટ ! આ મહિનાથી જ વધી જશે પગાર, નોટિફિકેશન જાહેર",
+    "desc": "ભારતીય રેલવેએ તેના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA)અને મોંઘવારી રાહત (DR)માં 2% વધારો કર્યો છે. રેલવે કર્મચારીઓનું DA તેમના મૂળ પગારના 58%થી વધીને 60% થશે. વધુમાં જાન્યુઆરીથી એપ્રિલ મહિના સુધીનું એરિયર પણ મે મહિનાના પગાર સાથે આપવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/indian-railways-da-hike-2-percent-for-railway-employees-dr-hike-477764 ",
+    "time": "2026-05-13T14:41:41.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ડિવોર્સની વાત પર મૌની રોયે આપ્યું રિએકશન, ઈંસ્ટા પર શેર કર્યો ખાસ મેસેજ",
     "desc": "છેલ્લા 2 દિવસથી ઈંટરનેટ પર મૌની રોયના ડિવોર્સની ચર્ચાઓ ચાલી રહી છે. તેવામાં હવે અભિનેત્રીએ આ અંગે પહેલીવાર રિએક્શન આપી દીધું છે. મૌની રોયએ તેના ઈંસ્ટાગ્રામ પર સ્ટોરી પોસ્ટ કરી છે જેમાં ખાસ મેસેજ શેર કર્યો છે.",
@@ -376,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/donald-trump-will-go-on-a-three-day-visit-to-china-bilateral-meeting-will-be-held-between-the-two-countries-477485 ",
     "time": "2026-05-12T03:28:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેન્સનરો માટે ખુશખબર! DRમાં 2%નો વધારો, જાણો 1 જાન્યુઆરીથી કેટલા રૂપિયા વધશે?",
-    "desc": "રેલવેએ પેન્શનર્સ અને ફેમિલી પેન્શનરો માટે DR (Dearness Relief) 58%થી વધારીને 60% કરી દીધી છે. આ વધારો 1 જાન્યુઆરી 2026થી લાગુ થશે, જેનાથી લાખો નિવૃત્ત કર્મચારીઓના માસિક પેન્શનમાં વધારો થશે. ચાલો સમજીએ કે, 10,000 રૂપિયાથી 70,000 રૂપિયા સુધીના બેઝિક પેન્શન ધરાવતા લોકોને કેટલો વધારાનો ફાયદો મળશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-from-the-railways-2-percent-hike-in-dr-announced-know-how-much-your-pay-will-increase-starting-january-1-477480 ",
-    "time": "2026-05-11T17:37:32.000Z"
   },
   {
     "cat": "Sports",

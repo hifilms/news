@@ -1,12 +1,237 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "L'Oreal Paris calls Aishwarya 'a living legend' after backlash",
+    "desc": "Aishwarya Rai Bachchan’s absence from L'Oréal Paris’ latest Cannes Film Festival promotional posters created a massive buzz online, with fans expressing shock and disappointment over the actress not featuring in the campaign visuals. As the backlash grew, fans directly tagged the beauty brand on Instagram demanding an explanation. Reacting to the growing chatter, the brand’s official Instagram account called Aishwarya 'a living legend' in their response.",
+    "img": "https://static.toiimg.com/photo/msid-131071633,imgsize-43890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/loreal-paris-calls-aishwarya-rai-bachchan-a-living-legend-after-facing-backlash-over-her-absence-from-cannes-posters/articleshow/131071553.cms",
+    "time": "2026-05-13T16:51:39.000Z"
+  },
+  {
     "cat": "Sports",
-    "title": "Pakistan honours Shahid Afridi with Hilal-e-Imtiaz, nation’s 2nd-highest civilian award",
+    "title": "Virat Kohli scripts IPL history, overtakes MS Dhoni, Rohit Sharma for a big milestone",
+    "desc": "Virat Kohli has etched his name in IPL history on Wednesday, becoming the most-capped player with his 279th appearance for Royal Challengers Bengaluru. This significant milestone places him ahead of legends like MS Dhoni and Rohit Sharma. Kohli's enduring presence underscores his pivotal role in the league's evolution since its inception.",
+    "img": "https://static.toiimg.com/photo/msid-131071617,imgsize-135912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-overtakes-ms-dhoni-rohit-sharma-for-historic-ipl-record/articleshow/131071605.cms",
+    "time": "2026-05-13T16:50:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Centre increases MSP for kharif crops, farm groups say rise inadequate amid rising input costs",
+    "desc": "While Centre says MSP levels have been increased significantly compared to those in 2013-14, farmer organisations criticise new rates, saying they do not factor in possible “disastrous impact” of India-United States trade Deal and other free trade agreements on agriculture sector",
+    "img": "https://th-i.thgim.com/public/incoming/a7rl1p/article70974026.ece/alternates/LANDSCAPE_1200/20260430233L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/government-hikes-paddy-msp-by-72-to-2441qtl-sunflower-seed-sees-steepest-rise-at-622/article70973917.ece",
+    "time": "2026-05-13T16:44:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA brings back ‘narco-terror’ accused from Portugal",
+    "desc": "The National Investigation Agency has arrested an alleged “narco-terror” accused after securing his extradition from Portugal. The agency says he played a key role in a terror-financing network linked to Hizb-ul-Mujahideen, involving drug trafficking and hawala channels. Here’s what we know.",
+    "img": "https://th-i.thgim.com/public/incoming/6t3a7d/article70975562.ece/alternates/LANDSCAPE_1200/prateek%20yadav.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/nia-brings-back-narco-terror-accused-from-portugal/article70975565.ece",
+    "time": "2026-05-13T16:40:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Historic! Sarah Taylor appointed as first woman coach in England men’s cricket team",
+    "desc": "Former England wicketkeeper Sarah Taylor has been appointed as the fielding coach for the senior men's Test team for the upcoming series against New Zealand. ECB Director of Cricket Rob Key praised Taylor's expertise, calling her \"one of the best in the business.\" This short-term role comes as regular fielding coach Carl Hopkinson is unavailable due to IPL commitments.",
+    "img": "https://static.toiimg.com/photo/msid-131071082,imgsize-83938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/historic-sarah-taylor-appointed-as-first-woman-coach-in-england-mens-cricket-team/articleshow/131070670.cms",
+    "time": "2026-05-13T16:33:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bad news for CSK fans! Dhoni skips Lucknow trip as comeback wait continues",
+    "desc": "Fans' hopes for MS Dhoni's return to the Chennai Super Kings were dashed as the veteran missed their crucial match against Lucknow Super Giants. Despite travel arrangements being made, Dhoni opted out due to a lingering calf injury. His absence continues to be a major talking point for CSK, who are currently in playoff contention.",
+    "img": "https://static.toiimg.com/photo/msid-131070970,imgsize-54310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-bad-news-for-csk-fans-ms-dhoni-skips-lucknow-trip-as-comeback-wait-continues/articleshow/131070990.cms",
+    "time": "2026-05-13T16:21:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress high command defers announcement of Kerala CM designate to May 14",
+    "desc": "High command asks Congress MLAs-elect to report to Indira Bhavan in Thiruvananthapuram, even as Congress workers congregate in front of the houses of Venugopal, Chennithala and Satheesan in anticipation of the momentous announcement from New Delhi",
+    "img": "https://th-i.thgim.com/public/incoming/crw4q9/article70975450.ece/alternates/LANDSCAPE_1200/Sathesan01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cong-high-command-defers-announcement-of-kerala-cm-designate-to-thursday/article70974983.ece",
+    "time": "2026-05-13T16:09:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We’ve missed his presence': MI star bowler on Hardik Pandya’s absence",
+    "desc": "Mumbai Indians all-rounder Corbin Bosch acknowledged the significant impact of captain Hardik Pandya's absence on their disappointing IPL season. Bosch stated that the team has missed Pandya's leadership and on-field contributions, contributing to their struggles in crucial moments. The side has failed to deliver complete performances, with key moments consistently going against them.",
+    "img": "https://static.toiimg.com/photo/msid-131068178,imgsize-133546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-weve-missed-his-presence-mi-star-bowler-on-hardik-pandyas-absence/articleshow/131067958.cms",
+    "time": "2026-05-13T15:53:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kunickaa defends Trisha's presence at Vijay’s swearing-in ceremony",
+    "desc": "Veteran actress Kunickaa Sadanand has come out in support of Trisha Krishnan and strongly reacted to a social media user who made objectionable remarks about the actress over her bond with Thalapathy Vijay. The controversy began after an X user shared a post about Trisha Krishnan. The post left Kunickaa Sadanand furious.",
+    "img": "https://static.toiimg.com/photo/msid-131070281,imgsize-49080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kunickaa-sadanand-defends-trisha-krishnan-amid-trolling-over-emotional-moment-at-thalapathy-vijays-swearing-in-ceremony/articleshow/131070252.cms",
+    "time": "2026-05-13T15:47:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No talks were held with DMK, says Palaniswami",
+    "desc": "Countering rebel leader C.Ve. Shanmugam’s claim, the AIADMK general secretary alleges that the rebel MLAs, including some former Ministers, voted in favour of the TVK government’s motion of confidence, driven by “a desire for ministerial positions”",
+    "img": "https://th-i.thgim.com/public/incoming/p5le7y/article70975219.ece/alternates/LANDSCAPE_1200/DSC_9246.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/no-talks-were-held-with-dmk-says-palaniswami/article70974169.ece",
+    "time": "2026-05-13T15:41:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Gold and silver import duties doubled following Modi’s appeal",
+    "desc": "In today’s episode Union government steps up austerity measures as the West Asia crisis deepens, with the Centre doubling gold and silver import duty and BJP leaders cutting convoy sizes, U.S. President Donald Trump’s China visit, and more.",
+    "img": "https://th-i.thgim.com/public/news/national/jq832u/article70975239.ece/alternates/LANDSCAPE_1200/MAY%2013%20THUMB.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-gold-and-silver-import-duties-doubled-following-modis-appeal-above-the-fold-13052026/article70975199.ece",
+    "time": "2026-05-13T15:39:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Saurabh Dubey? Pacer replaces Varun Chakravarthy in KKR vs RCB clash",
+    "desc": "Kolkata Knight Riders made a surprise switch, bringing in left-arm pacer Saurabh Dubey for the injured Varun Chakravarthy in a crucial IPL 2026 match against RCB. Dubey, a domestic player for Vidarbha, gets his long-awaited IPL debut after previously being part of the Sunrisers Hyderabad squad without playing. This unexpected inclusion highlights KKR's strategic move under pressure.",
+    "img": "https://static.toiimg.com/photo/msid-131070113,imgsize-11834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-who-is-saurabh-dubey-pacer-replaces-varun-chakravarthy-in-kkr-vs-rcb-clash/articleshow/131070090.cms",
+    "time": "2026-05-13T15:35:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "List on the bourses to thrive, IT Minister Lokesh tells MSMEs",
+    "desc": "Stating that the government is working in a mission mode to create 20 lakh jobs in both the public and private sectors in five years and restore ‘Brand A.P.’, the IT Minister says the MSMEs play a major supportive role in achieving it",
+    "img": "https://th-i.thgim.com/public/incoming/zh2tq1/article70975260.ece/alternates/LANDSCAPE_1200/10745_13_5_2026_20_28_23_1_IMG_20260513_WA0064.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/list-on-the-bourses-to-thrive-it-minister-lokesh-tells-msmes/article70975085.ece",
+    "time": "2026-05-13T15:27:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'AIADMK has been steadily declining': CV Shanmugam targets EPS after removal from party posts",
+    "desc": "AIADMK leader CV Shanmugam criticized party chief Edappadi K Palaniswami, alleging continuous electoral setbacks since he assumed leadership after Jayalalithaa's death. Shanmugam highlighted that while the party faced defeats before, Jayalalithaa had the capability to bring it back to power, a feat he claims EPS has failed to achieve, leading to worsening electoral performance.",
+    "img": "https://static.toiimg.com/photo/msid-131069694,imgsize-31796.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/aiadmk-has-been-steadily-declining-cv-shanmugam-targets-eps-after-removal-from-party-posts/articleshow/131069500.cms",
+    "time": "2026-05-13T15:15:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Varun Chakaravarthy is not playing in KKR’s crucial clash vs RCB",
+    "desc": "Kolkata Knight Riders face a significant blow as star spinner Varun Chakaravarthy is ruled out of their IPL 2026 clash against Royal Challengers Bengaluru due to an injury sustained in the previous match. Uncapped pacer Saurabh Dubey makes his IPL debut as KKR navigates this crucial encounter without their key bowler, who has been instrumental in their recent resurgence.",
+    "img": "https://static.toiimg.com/photo/msid-131069604,imgsize-117798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-varun-chakaravarthy-is-not-playing-in-kkrs-crucial-clash-vs-rcb/articleshow/131069560.cms",
+    "time": "2026-05-13T15:12:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chandrababu Naidu bats for data-driven governance to build robust economy",
+    "desc": "The Gross State Domestic Product estimates should no longer rely solely on conventional quarterly and annual assessment methods, he says, and calls for adopting real-time monitoring systems capable of tracking economic activity every month across districts and mandals",
+    "img": "https://th-i.thgim.com/public/incoming/icm6kf/article70975165.ece/alternates/LANDSCAPE_1200/10745_13_5_2026_20_6_48_1_IMG_20260513_WA0062.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidu-bats-for-data-driven-governance-to-build-robust-economy/article70975021.ece",
+    "time": "2026-05-13T15:10:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "With better than Rajdhani experience &amp; 160 kmph speed, can Vande Bharat sleeper trains be a game-changer for Indian Railways?",
+    "desc": "Over 250 new Vande Bharat sleeper trains are in the pipeline for rollout over the next few years - all with the aim to revamp long-distance rail travel and offer a world-class service experience to passengers.",
+    "img": "https://static.toiimg.com/photo/msid-131069274,imgsize-79622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/with-better-than-rajdhani-experience-160-kmph-speed-can-vande-bharat-sleeper-trains-be-a-game-changer-for-indian-railways/articleshow/131069233.cms",
+    "time": "2026-05-13T15:04:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'If this deadlock is not resolved, multiple clubs will now shut down'",
+    "desc": "Indian Super League (ISL) clubs face an uncertain future due to a deadlock with the AIFF over commercial rights. Clubs are pushing for a collaborative operational model, citing financial woes and a lack of clarity that threatens their continued participation and the league's ecosystem.",
+    "img": "https://static.toiimg.com/photo/msid-131068893,imgsize-86574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/isl-if-this-deadlock-is-not-resolved-multiple-clubs-will-now-shut-down/articleshow/131068772.cms",
+    "time": "2026-05-13T14:49:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We did not fire Sreejesh’: Hockey India responds after legend's explosive allegation",
+    "desc": "Hockey India clarified that legendary goalkeeper PR Sreejesh's tenure as junior men's coach concluded as per contract, denying claims of him being \"fired.\" The federation stated his position was advertised and a new coach selected on merit. An alternative development role was offered but declined. Hockey India emphasised its commitment to developing Indian coaches.",
+    "img": "https://static.toiimg.com/photo/msid-131069123,imgsize-65036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/we-did-not-fire-pr-sreejesh-hockey-india-responds-after-legends-explosive-foreign-coach-allegation/articleshow/131069001.cms",
+    "time": "2026-05-13T14:47:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Any person can put up anything': PBKS coach slams social media noise",
+    "desc": "Punjab Kings are prioritizing on-field performance amidst social media scrutiny. Assistant bowling coach Trevor Gonsalves emphasized the team's focus on cricket, stating experienced players can handle external noise. The franchise has urged fans to verify information, as fake narratives spread rapidly. Despite recent losses and off-field chatter, the team remains in playoff contention.",
+    "img": "https://static.toiimg.com/photo/msid-131068908,imgsize-179896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-any-person-can-put-up-anything-pbks-coach-slams-social-media-noise/articleshow/131068811.cms",
+    "time": "2026-05-13T14:41:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Boys Season 5 Episode 7' ending explained",
+    "desc": "Homelander, now immortal, seizes control of the White House, declaring himself 'God'. Billy Butcher devises a desperate plan using Soldier Boy's tech. Tragically, Frenchie sacrifices himself to radiation poisoning. Meanwhile, Oh-Father aids Homelander, revealing Sister Sage's location. The series finale airs May 20, 2026, promising shocking events and deaths, though the universe expands with spin-offs.",
+    "img": "https://static.toiimg.com/photo/msid-131068818,imgsize-111356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-boys-season-5-episode-7-ending-explained-homelander-chooses-violence-while-this-character-departs/articleshow/131068754.cms",
+    "time": "2026-05-13T14:38:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Talwiinder faces backlash as he collaborates with Pakistani singer Hasan",
+    "desc": "Indian singer Talwiinder's surprise appearance at Pakistani artist Hasan Raheem's Toronto concert has ignited a debate. While some fans celebrated the cross-border musical collaboration, others criticized the move amid ongoing India-Pakistan tensions. The incident has sparked discussions online regarding the separation of art and politics.",
+    "img": "https://static.toiimg.com/photo/msid-131068760,imgsize-41580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/talwiinder-faces-backlash-from-social-media-as-he-collaborates-with-pakistani-singer-hasan-raheem-this-is-not-a-joke/articleshow/131068622.cms",
+    "time": "2026-05-13T14:31:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Mother Dairy hikes milk prices by Rs 2 per litre from May 14",
+    "desc": "Mother Dairy and Amul have both increased milk prices by Rs 2 per litre, effective May 14. This move by India's leading dairy brands is attributed to rising costs of cattle feed, fuel, and packaging. Amul cited a substantial increase in cattle feed costs and a hike in procurement prices for farmers.",
+    "img": "https://static.toiimg.com/photo/msid-131068698,imgsize-640952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/mother-dairy-hikes-milk-prices-by-rs-2-per-litre-from-may-14/articleshow/131068600.cms",
+    "time": "2026-05-13T14:28:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan honours Shahid Afridi with Hilal-e-Imtiaz, fourth cricketer to receive it",
     "desc": "Former Pakistan captain Shahid Afridi has been honored with the Hilal-e-Imtiaz, Pakistan's second-highest civilian award, for his significant contributions to cricket and his extensive service to the national team. This prestigious recognition marks him as the fourth cricketer to receive this honour, celebrating his impactful white-ball career and global franchise presence.",
     "img": "https://static.toiimg.com/photo/msid-131068283,imgsize-36942.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-honours-shahid-afridi-with-hilal-e-imtiaz-nations-second-highest-civilian-award-watch/articleshow/131068127.cms",
     "time": "2026-05-13T14:10:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel Shetty says granddaughter Evaarah is Athiya 2.0",
+    "desc": "Veteran actor Suniel Shetty is overjoyed to be a grandfather at 64, doting on his granddaughter Evaarah, daughter of Athiya Shetty and KL Rahul. He describes Evaarah as Athiya's '2.0 version' and cherishes every moment spent with her. The couple recently celebrated Evaarah's first birthday.",
+    "img": "https://static.toiimg.com/photo/msid-131068282,imgsize-34692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-says-granddaughter-evaarah-is-daughter-athiya-shettys-2-0-version-says-hes-eager-to-return-home-to-ghar-ki-lakshmi/articleshow/131068265.cms",
+    "time": "2026-05-13T14:10:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘It is the right thing’: Former Army chief Naravane backs RSS general secretary Hosabale on dialogue with Pakistan",
+    "desc": "Former Army chief General (retired) Manoj Mukund Naravane has endorsed Rashtriya Swayamsevak Sangh (RSS) general secretary Dattatreya Hosabale's call for increased people-to-people contact between India and Pakistan. Naravane believes stronger citizen ties can improve bilateral relations between the two countries, stating common people share similar concerns and have no stake in politics. Hosabale is the RSS number two after Sangh chief Mohan Bhagwat.",
+    "img": "https://static.toiimg.com/photo/msid-131068293,imgsize-37358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/common-people-have-nothing-to-do-with-politics-former-army-chief-naravane-backs-rss-general-secretary-hosabale-on-dialogue-with-pakistan/articleshow/131067754.cms",
+    "time": "2026-05-13T14:07:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rahul-dev-says-the-industry-had-forgotten-him-when-he-returned-to-work-4-5-years-after-his-wifes-death-i-wasnt-getting-work/articleshow/131068005.cms",
     "time": "2026-05-13T13:59:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rubber rally breaks records, but growers cautious",
-    "desc": "Board officials attribute the dramatic spike to the conflict in West Asia, which has disrupted crude oil supplies and, in turn, affected the production of synthetic rubber. However, with the peak production season in Southeast Asia set to begin soon, they expect prices to stabilise in the near term",
-    "img": "https://th-i.thgim.com/public/incoming/qukkt0/article70974697.ece/alternates/LANDSCAPE_1200/80687_13_5_2026_18_53_1_2_IMG20260323125419.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/rubber-rally-breaks-records-but-growers-cautious/article70974172.ece",
-    "time": "2026-05-13T13:51:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -198,15 +414,6 @@ const newsData_en = [
     "time": "2026-05-13T11:58:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ayushmann Khurrana defends 'Pati Patni Aur Woh Do'",
-    "desc": "Ayushmann Khurrana clarifies that 'Pati Patni Aur Woh Do' is a comedy of errors, not an endorsement of infidelity. He emphasizes the film's focus on confusion and misunderstandings, with his character portrayed as a loving husband. Co-star Rakul Preet Singh praises Ayushmann's grounded nature and their reunion.",
-    "img": "https://static.toiimg.com/photo/msid-131064584,imgsize-70872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-mudassar-aziz-ayushmann-khurrana-defends-pati-patni-aur-woh-do-we-are-not-glorifying-infidelity-more-of-a-comedy-of-errors/articleshow/131064546.cms",
-    "time": "2026-05-13T11:42:35.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "After PM Modi’s austerity call, Amit Shah, BJP CMs cut convoy size to save fuel",
     "desc": "Prime Minister Modi's austerity drive to cut fuel consumption has prompted a wave of similar measures across the government. Union ministers, chief ministers, and governors are significantly reducing convoy sizes and encouraging public transport. This initiative aims to curb unnecessary travel and promote economical fuel usage nationwide.",
@@ -234,24 +441,6 @@ const newsData_en = [
     "time": "2026-05-13T11:08:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rakesh Bedi's witty encounter with traffic police",
-    "desc": "A hilarious video of veteran actor Rakesh Bedi being recognised by traffic police officers from his role in 'Dhurandhar' has gone viral. The actor kept everyone entertained with his witty one-liners, including \"Ab challan mat kaat dena.\" On the work front, he will next be seen in 'Hai Jawani Toh Ishq Hona Hai' releasing on June 5.",
-    "img": "https://static.toiimg.com/photo/msid-131063763,imgsize-32610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-star-rakesh-bedis-witty-encounter-with-traffic-police-who-turned-into-his-biggest-fans-goes-viral/articleshow/131063763.cms",
-    "time": "2026-05-13T11:05:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rakul Preet Singh reacts to Jackky Bhagnani's 'situationship' remark",
-    "desc": "Rakul Preet Singh addressed her husband Jackky Bhagnani's \"situationship\" comment, clarifying it was a playful remark taken out of context. She explained that the joke, made during a joint interview about relationships, was blown out of proportion and not meant to be taken seriously. Singh also shared her views on modern relationships and the evolving perception of marriage.",
-    "img": "https://static.toiimg.com/photo/msid-131063597,imgsize-33172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakul-preet-singh-reacts-to-jackky-bhagnanis-situationship-remark-people-dont-know-about-our-life-it-was-taken-out-of-context/articleshow/131063489.cms",
-    "time": "2026-05-13T11:00:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The Siraj-Rabada powerplay blueprint: Test-match lengths, T20 destruction",
     "desc": "Mohammad Siraj and Kagiso Rabada have become IPL 2026's most lethal new-ball pair, bowling the entire powerplay in five consecutive games. Their relentless 'Test-match length' bowling, consistently hitting good and back-of-length areas, ripped through SRH's top order, claiming 4 wickets within the first 6 overs. This bowling prowess has been the driving force behind Gujarat Titans' success this season.",
@@ -259,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-the-siraj-rabada-powerplay-blueprint-test-match-lengths-t20-destruction/articleshow/131063313.cms",
     "time": "2026-05-13T10:55:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Boys Season 5 Episode 7’: Where and when to watch",
-    "desc": "The penultimate episode of 'The Boys' Season 5, 'The Frenchman, the Female, and the Man Called Mother’s Milk,' has arrived, featuring intense action and Homelander's escalating power. The season finale, 'Blood and Bone,' is set to air on May 20, 2026, concluding the main series while spin-offs continue the universe.",
-    "img": "https://static.toiimg.com/photo/msid-131063359,imgsize-32012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-boys-season-5-episode-7-where-and-when-to-watch-homelanders-chaos/articleshow/131063328.cms",
-    "time": "2026-05-13T10:54:46.000Z"
   },
   {
     "cat": "Sports",
@@ -315,15 +495,6 @@ const newsData_en = [
     "time": "2026-05-13T10:08:38.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Big plus for RCB': Kaif highlights major Varun Chakaravarthy concern for KKR",
-    "desc": "Former India batter Mohammad Kaif believes spinner Varun Chakaravarthy's potential absence against RCB would be a significant boost for Bengaluru. Chakaravarthy's recent return to form has been crucial for KKR's winning streak, but an injury concern looms. Kaif highlighted Virat Kohli's comfort against faster spinners, suggesting his absence would benefit RCB.",
-    "img": "https://static.toiimg.com/photo/msid-131061445,imgsize-39356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/big-plus-for-rcb-mohammad-kaif-highlights-major-varun-chakaravarthy-concern-for-kkr/articleshow/131061444.cms",
-    "time": "2026-05-13T09:47:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Narco-terror crackdown: NIA arrests Hizb-ul-Mujahideen mastermind Iqbal Singh after extradition from Portugal",
     "desc": "National Investigation Agency has arrested Iqbal Singh alias Shera. He is a wanted narco-terrorist. His extradition from Portugal followed diplomatic and legal efforts. Shera is considered the mastermind in a Hizb-ul-Mujahideen terror financing case. His arrest is a significant breakthrough in tackling Pakistan-backed narco-terror networks.",
@@ -360,17 +531,8 @@ const newsData_en = [
     "time": "2026-05-13T09:00:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Prabhsimran Singh shuts down 'fake narratives' with 'shushing' emoji Insta story",
-    "desc": "Punjab Kings opener Prabhsimran Singh has responded to online criticism regarding his form and fitness, echoing co-owner Preity Zinta's stance against misinformation. Despite recent struggles, Singh remains a key scorer for PBKS, who are facing a crucial must-win match against Mumbai Indians after a four-game losing streak.",
-    "img": "https://static.toiimg.com/photo/msid-131060583,imgsize-1096892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/prabhsimran-singh-hits-back-with-shushing-emoji-story-amid-pbks-social-media-criticism/articleshow/131060411.cms",
-    "time": "2026-05-13T08:57:14.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 56 [LIVE]: Ranveer Singh film inches toward Rs 1,150 crore",
+    "title": "'Dhurandhar 2' BO day 56 [LIVE]: Ranveer Singh film nets Rs 1144.21 crore on 8th Wednesday",
     "desc": "The Revenge' continues its historic theatrical run, reaching a staggering Rs. 1,143.89 crore India net and Rs. 1,795.60 crore worldwide gross by Day 56. Currently the highest-grossing Hindi film ever, the Ranveer Singh starrer now sets its sights on surpassing 'Pushpa 2's domestic record of Rs. 1,234.10 crore. Despite entering its eighth week, the espionage thriller maintains steady momentum, fueled by powerhouse performances and a gritty narrative that has redefined Indian cinema benchmarks.",
     "img": "https://static.toiimg.com/photo/msid-131059714,imgsize-307598.cms",
     "src": "indiatimes.com",
@@ -414,24 +576,6 @@ const newsData_en = [
     "time": "2026-05-13T07:56:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "GT’s second-half surge explained: Jason Holder gamble, opening consistency and bowling brutality",
-    "desc": "Gujarat Titans, after a slow start in IPL 2026, are on the cusp of playoff qualification with eight wins from twelve matches. Their resurgence is fueled by a dominant opening pair, the impactful inclusion of Jason Holder, and a lethal bowling attack that has stifled opposition batting.",
-    "img": "https://static.toiimg.com/photo/msid-131059198,imgsize-1307666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/gujarat-titans-second-half-ipl-2026-surge-explained-jason-holder-gamble-opening-consistency-and-bowling-brutality/articleshow/131059036.cms",
-    "time": "2026-05-13T07:48:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu CM Vijay revokes astrologer's appointment as OSD after allies raise objections",
-    "desc": "Tamil Nadu Chief Minister Vijay has revoked the appointment of his astrologer, Radhan Pandit, as Officer on Special Duty (Political) following opposition criticism. The decision came a day after the appointment, which had drawn objections that personal beliefs should not influence governance. Pandit, a close aide and party spokesperson, was to assist in political coordination and advisory functions.",
-    "img": "https://static.toiimg.com/photo/msid-131058953,imgsize-32836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/facing-backlash-tamil-nadu-cm-vijay-revokes-astrologer-rickey-radhan-pandits-appointment/articleshow/131058919.cms",
-    "time": "2026-05-13T07:38:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government doubles import duty on gold & silver, effective rate now at 18.4%",
     "desc": "Industry players and experts warn that this decision will not only encourage a shift to smuggling but will also have other negative effects on employment. The government has not yet released an official statement on the duty hikes",
@@ -450,24 +594,6 @@ const newsData_en = [
     "time": "2026-05-13T07:14:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bengal chief secretary Manoj Kumar Agarwal orders crackdown on illegal toll booths in Bengal",
-    "desc": "West Bengal's new BJP government has launched a swift crackdown on illegal toll and drop gates across the state. Chief Secretary Manoj Kumar Agarwal issued the directive, ordering immediate closure of all unauthorized collection points. District administrations are tasked with identifying and removing these illegal operations, with a report due by May 15.",
-    "img": "https://static.toiimg.com/photo/msid-131058238,imgsize-974636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-chief-secretary-manoj-kumar-agarwal-orders-crackdown-on-illegal-toll-booths-in-bengal/articleshow/131058245.cms",
-    "time": "2026-05-13T07:07:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Wanted drug lord Prabhdeep Singh extradited to India from Azerbaijan",
-    "desc": "India has successfully extradited fugitive Prabhdeep Singh from Azerbaijan, a key figure in a major international drug investigation. Singh, wanted under an Interpol Red Notice, was brought back by a Delhi Police team. This repatriation, a result of multi-agency efforts, marks a significant win against organized crime and adds to India's growing success in bringing wanted criminals back home.",
-    "img": "https://static.toiimg.com/photo/msid-131057773,imgsize-485423.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/wanted-drug-lord-prabhdeep-singh-extradited-to-india-from-azerbaijan/articleshow/131057361.cms",
-    "time": "2026-05-13T06:53:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will gold, silver price rally on May 13, 2026 sustain in coming days?",
     "desc": "Gold and silver prices are rallying in the domestic market due to the sudden hike in import duties. In the coming days they are expected to align closer to the international prices, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.",
@@ -477,15 +603,6 @@ const newsData_en = [
     "time": "2026-05-13T06:49:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Wrestling's global governing body backs WFI in Vinesh Phogat standoff",
-    "desc": "According to messages accessed by TOI, UWW president Nenad Lalovic informed the WFI that, as the national federation, it was well within its rights to seek explanations from Vinesh and take any action it deemed appropriate after reviewing her response to the show-cause notice issued last Saturday.",
-    "img": "https://static.toiimg.com/photo/msid-131057416,imgsize-34898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/wrestlings-global-governing-body-uww-backs-wfi-in-vinesh-phogat-standoff/articleshow/131057343.cms",
-    "time": "2026-05-13T06:32:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "West Asia war not hurting India inflation yet; flags fuel and crop risks ahead",
     "desc": "India's retail inflation remains largely unaffected by West Asian conflict, with SBI retaining its FY27 forecast at 4.5%. While imported inflation eased slightly, rising food prices, particularly tomatoes, are a key driver. Future trends hinge on energy price pass-through and summer crop progress, with the RBI flagging upside risks.",
@@ -493,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/west-asia-war-not-hurting-india-inflation-yet-says-sbi-flags-fuel-and-crop-risks-ahead/articleshow/131054405.cms",
     "time": "2026-05-13T06:31:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pat Cummins fined after GT loss, joins unwanted list alongside Iyer, Pandya",
-    "desc": "Sunrisers Hyderabad captain Pat Cummins faces a Rs 12 lakh fine. This penalty is for a slow over rate during their IPL 2026 match against Gujarat Titans. The team suffered a significant defeat. This marks the team's first such offense this season. Several other captains have also been fined for similar violations.",
-    "img": "https://static.toiimg.com/photo/msid-131056736,imgsize-994739.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-pat-cummins-fined-after-gt-loss-joins-unwanted-list-alongside-shreyas-iyer-hardik-pandya/articleshow/131056504.cms",
-    "time": "2026-05-13T05:58:46.000Z"
   },
   {
     "cat": "Business",
@@ -520,33 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/buy-or-sell-stock-recommendation-by-brokers-for-may-13-2026-indian-hotels-upl-oberoi-realty-pvr-nuvama/articleshow/131053533.cms",
     "time": "2026-05-13T03:14:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude slips after three-day rally as markets track Iran ceasefire",
-    "desc": "Oil prices dipped Wednesday after a three-day rally, with traders watching the Iran conflict's ceasefire and the Trump-Xi summit. Despite a slight fall, crude remains above $100 a barrel due to ongoing supply fears. Analysts predict elevated prices for months, impacting global inflation and potentially delaying US interest rate cuts.",
-    "img": "https://static.toiimg.com/photo/msid-131052766,imgsize-964151.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-13-may-2026-crude-slips-after-three-day-rally-as-markets-track-iran-ceasefire-and-donald-trump-xi-jinping-summit/articleshow/131052748.cms",
-    "time": "2026-05-13T02:11:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "GT surge to 99.6%, where do other teams stand?",
-    "desc": "With 14 games left, Gujarat Titans are almost guaranteed a top-four finish with a 99.6% chance, while RCB also has a strong 88.1% probability. Sunrisers Hyderabad and Punjab Kings' playoff hopes are still alive but diminished. Chennai Super Kings and Rajasthan Royals hold a slight edge for the top four, with Kolkata Knight Riders and Delhi Capitals facing slim chances.",
-    "img": "https://static.toiimg.com/photo/msid-131064203,imgsize-110056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-scenarios-with-14-matches-to-go-gt-surge-to-99-6-as-srh-slip-to-76-8-odds-for-each-team-explained/articleshow/131048346.cms",
-    "time": "2026-05-13T01:33:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold, silver import duty raised to 15% from 6% as govt moves to curb imports, support rupee",
-    "desc": "India has significantly increased import tariffs on gold and silver to 15% from 6% to curb imports and protect foreign exchange reserves. This move follows Prime Minister Modi's appeal for citizens to avoid gold purchases for a year, aiming to narrow the trade deficit and support the rupee amid global economic pressures.",
-    "img": "https://static.toiimg.com/photo/msid-131052486,imgsize-1098080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-import-duty-raised-to-15-from-6-as-govt-moves-to-curb-imports-support-rupee/articleshow/131052319.cms",
-    "time": "2026-05-13T01:12:22.000Z"
   },
   {
     "cat": "Business",
@@ -646,33 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/gracias-el-clasico-title-look-of-tovino-thomas-nazriya-nazim-starrer-unveiled/article70964730.ece",
     "time": "2026-05-11T09:13:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar and Krunal put RCB on top, show MI the door",
-    "desc": "The veteran seamer scalps four to restrict the five-time champion to 166 for seven; the all-rounder produces a fighting fifty to steady the holder in a tricky chase; Bosch’s four-wicket haul in vain; the result also eliminates LSG from the playoffs race",
-    "img": "https://th-i.thgim.com/public/incoming/hv09y6/article70963425.ece/alternates/LANDSCAPE_1200/11908_10_5_2026_21_12_41_5_DSC_6216.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-bhuvneshwar-and-krunal-put-rcb-on-top-show-mi-the-door/article70963428.ece",
-    "time": "2026-05-10T19:01:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Global jitters keep FPIs on edge, ₹14,231 crore pulled out in May",
-    "desc": "With this, the total outflow of Foreign Portfolio Investors from the equity market has crossed ₹2 lakh crore in 2026, which is higher than the ₹1.66 lakh crore pulled out during the entire 2025, according to data with NSDL",
-    "img": "https://th-i.thgim.com/public/incoming/vgxdlr/article70962863.ece/alternates/LANDSCAPE_1200/BL-FPI_G1UFV97DT.1GLRFV8VT7.3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/global-jitters-keep-fpis-on-edge-14231-crore-pulled-out-in-may/article70962584.ece",
-    "time": "2026-05-10T14:54:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FMCG companies bracing for another round of price increases amid inflation",
-    "desc": "While the companies have already hiked prices by 3%-5%, executives indicate further increase citing inflationary pressure arising from volatile crude oil prices, higher logistics costs, currency depreciation, and disruptions in global supply chains amid geopolitical tensions",
-    "img": "https://th-i.thgim.com/public/incoming/xz0447/article70962790.ece/alternates/LANDSCAPE_1200/TH30-ANCHOR_GSAGALFPC6TN.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/fmcg-companies-bracing-for-another-round-of-price-increases-amid-inflation/article70962562.ece",
-    "time": "2026-05-10T14:31:52.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli downs MS Dhoni's historic IPL record with milestone appearance in RCB vs KKR clash",
+    "desc": "Virat Kohli has shattered a huge MS Dhoni record with his appearance in the Royal Challengers Bengaluru vs Kolkata Knight Riders Indian Premier League 2026 clash at the Shaheed Veer Narayan Singh International Stadium, Raipur,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-downs-ms-dhonis-historic-ipl-record-with-milestone-appearance-in-rcb-vs-kkr-clash-2026-05-13-1041026",
+    "time": "2026-05-13T16:30:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sarah Taylor named England men's Test fielding coach for New Zealand series in a historic moment",
+    "desc": "Former England women's cricket team wicketkeeper Sarah Taylor has been named as the fielding coach for the men's side for their upcoming three-match Test series against New Zealand. Taylor, 36, has worked previously with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sarah-taylor-named-england-mens-test-fielding-coach-for-new-zealand-series-in-a-historic-moment-2026-05-13-1041024",
+    "time": "2026-05-13T16:14:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Varun Chakravarthy not playing for KKR in crucial IPL 2026 clash against RCB?",
+    "desc": "Varun Chakravarthy missed out as Kolkata Knight Riders take on Royal Challengers Bengaluru in their 11th match of the Indian Premier League 2026 at the Shaheed Veer Narayan Singh International Stadium, Raipur on Wednesday, May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakravarthy-not-playing-for-kkr-in-crucial-ipl-2026-clash-against-rcb-2026-05-13-1041021",
+    "time": "2026-05-13T15:16:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sreejesh slams Hockey India for removal as India U-21 coach, HI says contract 'officially over'",
+    "desc": "Two-time Olympic medallist PR Sreejesh has hit out at Hockey India for his removal from the U-21 coach position, alleging that the governing body is preferring a foreign coach in his place. Sreejesh made a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/sreejesh-slams-hockey-india-for-removal-as-india-u21-coach-hi-says-contract-officially-over-2026-05-13-1041017",
+    "time": "2026-05-13T14:59:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Warm-up fixtures for Women's T20 World Cup 2026 announced, India to play two matches",
     "desc": "The International Cricket Council (ICC) on Wednesday announced the warm-up fixtures for the upcoming Women's T20 World Cup 2026. The tournament, which gets underway on June 12, will witness 12 teams locking horns for the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-rcb-pitch-report-how-will-the-surface-at-svns-stadium-in-raipur-play-2026-05-13-1040966",
     "time": "2026-05-13T09:27:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "AB de Villiers",
-    "desc": "Former South Africa captain AB de Villiers has urged caution around the growing excitement surrounding teenage batting sensation Vaibhav Sooryavanshi. He believes that the youngster is yet to face the biggest examination of his career,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-needs-to-be-groomed-for-longer-formats-of-the-game-ab-de-villiers-2026-05-13-1040957",
-    "time": "2026-05-13T08:18:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Report",
-    "desc": "With the IPL 2026 season entering its closing phase, the Board of Control for Cricket in India has shifted focus toward India’s upcoming international commitments, starting with a one-off Test against Afghanistan next month. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-selectors-keep-close-eye-on-future-prospects-as-squad-for-afghanistan-test-will-be-picked-soon-report-2026-05-13-1040951",
-    "time": "2026-05-13T07:41:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI punishes Pat Cummins after Sunrisers Hyderabad's embarrassing 82-run defeat to Gujarat Titans",
-    "desc": "The Board of Control for Cricket in India (BCCI) handed Sunrisers Hyderabad captain Pat Cummins a fine of INR 12 lakhs after their defeat to Gujarat Titans in the ongoing IPL 2026. He was found...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-punishes-pat-cummins-after-sunrisers-hyderabad-s-embarrassing-82-run-defeat-to-gujarat-titans-2026-05-13-1040933",
-    "time": "2026-05-13T05:48:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI skipper trains alone in Mumbai, didn't travel with squad to Dharamsala",
-    "desc": "MI skipper Hardik Pandya didn’t travel with the rest of the players to Dharamsala for their IPL 2026 clash against Punjab Kings. He remained in Mumbai, continuing his rehabilitation as the all-rounder shared clips of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-injury-update-mi-skipper-trains-alone-in-mumbai-didn-t-travel-with-squad-to-dharamsala-2026-05-13-1040908",
-    "time": "2026-05-13T03:30:35.000Z"
   }
 ];
