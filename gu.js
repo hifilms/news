@@ -1,12 +1,102 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "પેટ્રોલ-ડીઝલના ભાવ પર RBIના ગવર્નરનું મોટું નિવેદન, ઈશારામાં કહી દીધુ કે સરકાર ક્યારે ભાવ વધારશે?",
+    "desc": "વેસ્ટ એશિયામાં જે રીતે ઈરાન અને અમેરિકા વચ્ચે ખેંચતાણની સ્થિતિ છે તે ગંભીર સંકેત આપી રહી છે કે યુદ્ધની સ્થિતિ લાંબા સમય સુધી ખેંચાઈ શકે છે. આ બધા વચ્ચે રિઝર્વ બેંકના ગવર્નરે સ્વિટ્ઝરલેન્ડમાં આયોજિત એક સમિટમાં એવો સંકેત આપ્યો કે સરકાર પેટ્રોલ ડીઝલના ભાવ વધારાને ક્યાં સુધી કંટ્રોલમાં રાખી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/rbi-governor-big-statement-on-crude-oil-prices-what-he-hinted-check-here-477729 ",
+    "time": "2026-05-13T11:26:30.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "WhatsApp, UPI બધું જ થઈ શકે છે બંધ ? ઈરાનના આ પગલાથી દુનિયામાં મચી જશે હાહાકાર",
+    "desc": "શું દુનિયાભરમાં ઈન્ટરનેટની ચાવી ઈરાન પાસે છે ? હકીકતમાં ઈરાન દાવો કરી રહ્યું છે કે હોર્મુઝ સ્ટ્રેટમાંથી પસાર થતા અંડર સી કેબલ્સનું મેન્ટેનન્સ સંપૂર્ણપણે તે કરશે. તેથી ટેક કંપનીઓને પણ ઈરાનના નિયમોનું પાલન કરવું પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-us-war-hormuz-starait-crisis-iran-threat-digital-toll-undersea-internet-cables-477727 ",
+    "time": "2026-05-13T11:25:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મેચના ગણતરીના કલાકો પહેલા KKRને મોટો ઝટકો, મેચ વિનર ખેલાડી ઈજાગ્રસ્ત, રહાણેનું વધ્યું ટેન્શન",
+    "desc": "IPL 2026માં RCB સામેની મહત્વપૂર્ણ મેચ પહેલા કોલકાતા નાઈટ રાઈડર્સના સ્ટાર સ્પિનર વરુણ ચક્રવર્તીની ઈજાએ ટીમની ચિંતા વધારી દીધી છે. સહાયક કોચ શેન વોટસને વરુણની ફિટનેસ અને મથેશા પથિરાનાની પસંદગી અંગે એક મોટી અપડેટ આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-kkr-varun-chakravarthy-injured-before-match-against-rcb-477724 ",
+    "time": "2026-05-13T10:43:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જો ભારતમાં &amp;#039;એનર્જી લૉકડાઉન&amp;#039; લાગશે તો શું-શું બંધ થઈ જશે? જાણો કેવી રીતે બદલાઈ જશે તમારૂ રોજિંદુ જીવન",
+    "desc": "મધ્યપૂર્વમાં લાંબા સમયથી ચાલી રહેલું સંકટ દુનિયા માટે સતત મુશ્કેલી ઉભી કરી રહ્યું છે. ઈરાન સંકટને કારણે હોર્મુઝ માર્ગ પર ભયાનક અસર પડી છે, જેથી સપ્લાય ચેન ખોરવાઈ ગઈ છે. દુનિયાભરના દેશોમાં પેટ્રોલ અને ડીઝલની કિંમતોમાં વધારો થયો છે. તેવામાં પ્રધાનમંત્રી મોદીએ પણ દેશની જનતાને વર્ક ફ્રોમ હોમ, એક વર્ષ સુધી સોનું ન ખરીદવું અને પેટ્રોલ-ડીઝલના વાહનોનો ઓછો ઉપયોગ કરવાની સલાહ આપી છે. તેવામાં આજે અમે તમને જણાવીશું કે જો ભારતમાં એનર્જી લોકડાઉન લાગૂ કરવામાં આવે તો શું થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/if-there-is-an-energy-lockdown-in-india-what-will-be-shut-down-possible-restrictions-how-daily-life-would-change-477723 ",
+    "time": "2026-05-13T10:36:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હોમ લોન ચુકવવા સમયે ન કરો આ ભૂલ, બાકી થઈ શકે છે નુકસાન",
+    "desc": "ઘર ખરીદવું બધાનું સપનું હોય છે, પરંતુ હોમ લોન જલ્દી ખતમ કરવી પણ મોટી જવાબદારી હોય છે. આ કારણે ઘણા લોકો રોકડમાં લોન ચુકવવાનો વિકલ્પ પસંદ કરે છે, પરંતુ આ પ્રક્રિયા હંમેશા ફાયદાકારક રહેતી નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/never-make-the-mistake-of-paying-home-loan-in-cash-you-will-get-into-trouble-477705 ",
+    "time": "2026-05-13T09:45:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "16 વર્ષ પછી છોડી રહી છું ભારત, પણ ઈરાન પાછી નહીં ફરું, અભિનેત્રી મંદાના કરીમીને મોતનો ડર",
+    "desc": "16 વર્ષ ભારતમાં રહ્યા બાદ, મંદાના કરીમીએ સુરક્ષા કારણોસર દેશ છોડવાનો નિર્ણય લીધો છે. તેમણે ઇન્સ્ટાગ્રામ પર ચાહકોને જણાવ્યું હતું કે ભારત તેમના માટે બીજા ઘર જેવું છે. ભારત છોડતાં તે ભાવુક થઈ ગઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/i-am-leaving-india-after-16-years-but-will-not-return-to-iran-actress-mandana-karimi-fears-death-477704 ",
+    "time": "2026-05-13T09:40:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "9 વેધર સિસ્ટમ એક્ટિવ! ક્યાંક આકરી ગરમી તો ક્યાંક કરા સાથે વરસાદ; જાણો ક્યારે થશે ચોમાસાનું આગમન?",
+    "desc": "આ વર્ષે મે મહિનામાં દેશનું વાતાવરણ અસામાન્ય રીતે ઠંડું રહ્યું છે. ભારે વરસાદ, વાવાઝોડું, કરા અને ભારે પવન સાથે ઘણી વેધર સિસ્ટમ સક્રિય છે. મે મહિનાના પ્રથમ સપ્તાહમાં 79% વધુ વરસાદ નોંધાયો છે. સુપર અલ-નીનોને કારણે હવામાનમાં હજુ વધુ પલટો જોવા મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/9-weather-systems-active-somewhere-intense-heat-somewhere-rain-with-hail-know-when-the-monsoon-will-arrive-477703 ",
+    "time": "2026-05-13T09:38:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારતીયો માત્ર વિદેશ પ્રવાસ અને સોનામાં દર વર્ષે કરે છે આટલા કરોડનો ખર્ચ, આંકડો જાણીને આંખો થઈ જશે પહોંળી!",
+    "desc": "પીએમ મોદીએ હાલમાં જ અપીલ કરી છે કે, તમે બિનજરૂરી વિદેશ યાત્રા ન કરો. વર્ષભર માટે વિદેશી પ્રવાસન સ્થળોની ફરવાનું રોકી દો. આનાથી મહત્વપૂર્ણ વિદેશી હૂંડિયામણની બચત થશે. શું તમે જાણો છો કે, વિદેશ પ્રવાસ કરનાર એક વ્યક્તિ ઓછામાં ઓછું કેટલું વિદેશી હૂંડિયામણ ખર્ચ કરે છે? અમે આ અંગે ભારતમાં ટ્રાવેલ એજન્ટોની સૌથી મોટી સંસ્થા 'ટ્રાવેલ એજન્ટ્સ એસોસિએશન ઓફ ઇન્ડિયા' (TAAI)ના નોર્ધન રીજનના જનરલ સેક્રેટરી અને 'એસએ સાઉથઇન્ડ ટ્રાવેલ્સ પ્રાઇવેટ લિમિટેડ'ના એમડી અનુરાગ અગ્રવાલ સાથે વાત કરી. જાણો પૂરી વિગત.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/indians-spend-so-many-crores-every-year-on-foreign-travel-and-gold-alone-knowing-the-figure-will-make-your-eyes-widen-477699 ",
+    "time": "2026-05-13T09:11:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "મૌની રોયએ સૂરજ નાંબિયારને કર્યો અનફોલો, એક્સ્ટ્રા મેરિટલ અફેર અને ડિવોર્સની ચર્ચાએ પકડ્યું જોર",
+    "desc": "મૌની રોય અને તેના પતિ સૂરજ નાંબિયાર વચ્ચે બધું બરાબર નથી ચાલી રહ્યું. જોરશોરથી ચર્ચાઓ થઈ રહી છે કે આ ક્યુટ કપલના લગ્ન તુટી ગયા છે. ડિવોર્સની વાત સામે આવ્યા પછી સૂરજ નાંબિયારે એવું કામ કર્યું જેનાથી સંબંધ તુટ્યાની અટકળોને વેગ મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-unfollows-suraj-nambiar-on-instagram-extramarital-affair-and-divorce-rumour-spread-477632 ",
+    "time": "2026-05-13T08:55:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલ અને ગેસ પર લાગુ થશે કોટા સિસ્ટમ? આ દેશોની જેમ હવે મળશે માત્ર 5 લીટર ઓઈલ? જાણો ફ્યુઅલ રેશનિંગનો નિયમ",
+    "desc": "મિડલ ઈસ્ટમાં વધતા તણાવ અને ઓઈલ પુરવઠા સંકટ વચ્ચે દુનિયાના ઘણા દેશોમાં ફ્યુલ રેશનિંગ લાગુ કરવામાં આવી રહ્યું છે. જો ભવિષ્યમાં હાલાત વધુ બગડશે તો ભારતમાં પણ આવા પગલાં લેવામાં આવી શકે છે. જો ભારતમાં કોટા સિસ્ટમ લાગુ થાય છે, તો તમે તમારી મરજી મુજબ પેટ્રોલ, ડીઝલ કે ગેસ ખરીદી શકશો નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-quota-system-be-implemented-on-petrol-diesel-and-gas-like-these-countries-will-you-now-get-only-5-liters-of-oil-know-the-rules-of-fuel-rationing-477684 ",
+    "time": "2026-05-13T07:35:42.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "PM મોદીએ પોતે કરી શરૂઆત, કાફલામાં ઘટશે ગાડીઓ, જાણો હવે કેટલી ગાડીઓ અને કમાન્ડો રહેશે?",
     "desc": "ઈરાન અને અમેરિકા વચ્ચેની યુદ્ધ જેવી સ્થિતિ હજું થાળે પડી નથી. હોર્મુઝ સંકટ પણ યથાવત છે ત્યારે આ બધા વચ્ચે પીએમ મોદીએ દેશવાસીઓને ઈંધણ અને સોનાનો વપરાશ ઘટાડવા માટે અપીલ કરી હતી. જેને લઈને પીએમ મોદીએ પોતે પણ એક મોટો નિર્ણય લીધો છે. પીએમ મોદીના કાફલાને ઘટાડવામાં આવશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pm-modi-in-action-mode-the-size-of-convoy-will-be-reduced-to-save-fuel-477667 ",
-    "time": "2026-05-13T06:17:43.000Z"
+    "time": "2026-05-13T06:42:33.000Z"
   },
   {
     "cat": "Business",
@@ -61,15 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/when-udayanidhi-stalin-spat-venom-about-sanatan-dharma-what-was-cm-vijay-reaction-find-out-477639 ",
     "time": "2026-05-13T03:14:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મૌની રોયએ સૂરજ નાંબિયારને કર્યો અનફોલો, એક્સ્ટ્રા મેરિટલ અફેર અને ડિવોર્સની ચર્ચાએ પકડ્યું જોર",
-    "desc": "મૌની રોય અને તેના પતિ સૂરજ નાંબિયાર વચ્ચે બધું બરાબર નથી ચાલી રહ્યું. જોરશોરથી ચર્ચાઓ થઈ રહી છે કે આ ક્યુટ કપલના લગ્ન તુટી ગયા છે. ડિવોર્સની વાત સામે આવ્યા પછી સૂરજ નાંબિયારે એવું કામ કર્યું જેનાથી સંબંધ તુટ્યાની અટકળોને વેગ મળ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-unfollows-suraj-nambiar-on-instagram-extramarital-affair-and-divorce-rumour-spread-477632 ",
-    "time": "2026-05-13T03:08:24.000Z"
   },
   {
     "cat": "Business",
@@ -288,33 +369,6 @@ const newsData_gu = [
     "time": "2026-05-11T17:37:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પેટ્રોલ અને ડીઝલને લઈને લોકો માટે રાહતના સમાચાર ! સરકારે આપ્યું મોટું અપડેટ, જાણો શું કહ્યું",
-    "desc": "પશ્ચિમ એશિયામાં વધતા તણાવ અને યુદ્ધ જેવી પરિસ્થિતિઓ વચ્ચે ભારત સરકારે તેના નાગરિકોને રાહત આપી છે. સરકારે સ્પષ્ટતા કરી છે કે ભારતમાં ક્રૂડ ઓઇલ, પેટ્રોલ, ડીઝલ અને LPGનો પૂરતો સ્ટોક છે. તેથી નાગરિકોએ ગભરાવાની કે ફ્યુઅલનો સંગ્રહ કરવાની કોઈ જરૂર નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/government-said-petrol-diesel-and-lpg-sufficient-stock-in-india-do-not-panic-477448 ",
-    "time": "2026-05-11T12:32:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "લોકડાઉનનો ખતરો? મોદીની અપીલ પાછળનો આર્થિક ખેલ સમજો, 22 લાખ કરોડ રૂપિયા છે કારણ",
-    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ હૈદરાબાદમાં કરેલા તાજેતરના ભાષણની દેશભરમાં વ્યાપક ચર્ચા થઈ રહી છે. પીએમ મોદીએ કરેલી અપીલો બાદ સોશિયલ મીડિયામાં લોકડાઉન અને કોવિડ જેવી સ્થિતિની અફવાઓ ચાલી રહી છે. કેજરીવાલે તો સોશિયલ મીડિયામાં પોસ્ટ કરી આર્થિક સંકટને હવા આપી છે તો પીએમ મોદીએ કેમ કરી અપીલો એ જાણવું પણ તમારે ખાસ જરૂરી છે. તમને ખબર નહીં હોય કે પીએમ મોદીની અપીલો એ દૂરંદેશી ભરેલી છે. ભારત હાલમાં આ પાછળ દર વર્ષે 22 લાખ કરોડનું વિદેશી હૂંડિયામણ ગુમાવે છે. જાણી લો આ આર્ટિકલમાં...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-gold-appeal-not-to-buy-for-1-year-work-form-home-this-is-impacts-on-indian-economy-477443 ",
-    "time": "2026-05-11T12:12:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું ખરેખર સરળ છે &amp;#039;વર્ક ફ્રોમ હોમ&amp;#039;? પીએમ મોદીની અપીલ બાદ ફરી શરૂ થઈ ચર્ચા",
-    "desc": "આજના સમયમાં જ્યારે વૈશ્વિક અર્થતંત્ર અને પર્યાવરણ બન્ને નાજુક વળાંક પર ઉભા છે, ત્યારે વડાપ્રધાન નરેન્દ્ર મોદીએ ફરી એકવાર 'વર્ક ફ્રોમ હોમ' (WFH)ને લઈને મોટી અપીલ કરી છે. પીએમની આ અપીલ માત્ર વર્ક-કલ્ચર બદલવા પૂરતી સીમિત નથી, પરંતુ તેની પાછળ ક્રૂડ ઓઈલના વધતા આયાત બિલને ઘટાડવા, કરોડો લિટર પેટ્રોલ-ડીઝલ બચાવવા અને ઝેરીલા પ્રદૂષણથી પૃથ્વીને બચાવવાનું એક મોટું ગ્લોબલ વિઝન છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/is-work-from-home-really-easy-discussion-resumes-after-pm-modi-appeal-477446 ",
-    "time": "2026-05-11T12:02:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "&amp;#039;પોર્ન સ્ટાર&amp;#039; સાથે જોવા મળ્યો વિરાટ કોહલી ? સોશિયલ મીડિયા પર ફોટો વાયરલ, જાણો શું છે હકીકત",
     "desc": "વિરાટ કોહલી હાલમાં IPL 2026માં રોયલ ચેલેન્જર્સ બેંગલુરુ માટે રમી રહ્યો છે. આ સિઝનમાં તેણે શાનદાર પ્રદર્શન કર્યું છે. આ દરમિયાન સોશિયલ મીડિયા પર એક ફોટોગ્રાફ ઝડપથી વાયરલ થઈ રહ્યો છે. જેમાં તે પોર્ન સ્ટાર સાથે જોવા મળી રહ્યો છે, ત્યારે શું છે સમગ્ર હકીકત તેના વિશે આ લેખમાં જાણીશું.",
@@ -331,24 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rakul-preet-broke-the-rules-of-gujarat-gir-jungle-safari-officials-reveal-the-real-reason-behind-the-viral-video-know-477426 ",
     "time": "2026-05-11T11:09:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભારતના આ રાજ્યોમાં મળે છે સૌથી સસ્તું સોનું, જાણો તેના પાછળનું કારણ અને કેટલી થશે બચત",
-    "desc": "સોનાના ભાવ સતત જોવા મળી રહેલા ઉતાર-ચઢાવ વચ્ચે હવે ગોલ્ડ ખરીદવું ખૂબ જ મુશ્કેલ બની ગયું છે, પરંતુ ભારતમાં કેટલાક એવા રાજ્યો પણ છે જ્યાં અન્ય રાજ્યોની સરખામણીમાં સોનું થોડું સસ્તું મળે છે. જાણો આ રાજ્યો વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/cheapest-gold-is-available-in-these-states-of-india-know-the-reason-behind-it-and-how-much-you-will-save-477425 ",
-    "time": "2026-05-11T10:59:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM મોદીએ લોકોને 1 વર્ષ સુધી સોનું ન ખરીદવા માટે કેમ અપીલ કરી? એક્સપર્ટે જણાવ્યાં કારણો",
-    "desc": "પીએમ મોદીએ દેશવાસીઓને અપીલ કરી કે એક વર્ષ સુધી સોનું ખરીદવાનું ટાળવું જોઈએ. જરૂર ન હોય તો ન ખરીદવું. ત્યારે લોકોના મનમાં એ પ્રશ્ન પણ થઈ રહ્યો છે કે સોનું ન ખરીદવા માટે પીએમએ શાં માટે અપીલ કરી હશે? એક્સપર્ટે આ અપીલ પાછળ છૂપાયેલા 3 કારણો સમજાવ્યા છે. જે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/expert-reveals-3-reasons-behind-pm-modi-appeal-not-to-buy-gold-for-a-year-477423 ",
-    "time": "2026-05-11T10:51:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -450,24 +486,6 @@ const newsData_gu = [
     "time": "2026-05-10T08:27:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "49 ચોગ્ગા, 4 સિક્સર અને 379 રન... ટ્રિપલ સદી ફટકારનાર સુપરસ્ટાર આજે ગુમનામ, બ્રાયન લારાનો 400 રનનો રેકોર્ડ તોડવાની ખૂબ જ નજીક હતો આ ભારતીય",
-    "desc": "ભારતમાં હાલ આઈપીએલ માહોલ છવાયેલો છે. અનેક નવા નામો બહાર આવી રહ્યા છે જે પોતાના શાનદાર પ્રદર્શનથી ટીમ ઈન્ડિયાના દરવાજા ખટખટાવવા માટે તૈયાર છે. પરંતુ કેટલાક એવા પણ ખેલાડીઓ છે જેઓ એક સમયે 'હીરો' હતા પણ હવે ગુમનામ થઈ ગયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/49-fours-4-sixes-and-379-runs-the-superstar-who-scored-a-triple-century-is-unknown-today-this-indian-was-very-close-to-breaking-brian-lara-record-of-400-runs-477250 ",
-    "time": "2026-05-10T06:52:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI સામે ચાલીને કૂવામાં પડ્યું! પોતે જ બુમરાહના ખરાબ ફોર્મ માટે જવાબદાર? દિગ્ગજ ખેલાડીએ શું કહ્યું તે જાણો",
-    "desc": "આઈપીએલ 2026ની સીઝન ભારતના ખૂંખાર ગણાતા બોલર જસપ્રીત બુમરાહ માટે એક ખરાબ સપના જેવી જઈ રહી છે. કારણ કે બોલિંગમાં જોઈએ એવું પ્રદર્શન થઈ રહ્યું નથી. ગત સીઝનમાં 12 મેચમાં 18 વિકેટ લેનાર બુમરાહ આ વખતે મુંબઈ ઈન્ડિયન્સ માટે 10 મેચમાં માત્ર 3 વિકેટ લઈ શક્યો. એક સમયે ભારતના સ્ટાર બોલર રહી ચૂકેલા ઉમેશ યાદવે બુમરાહ વિશે શું કહ્યું તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-responsible-for-bumrahs-poor-form-in-ipl-2026-know-what-umesh-yadav-said-477230 ",
-    "time": "2026-05-10T03:52:31.000Z"
-  },
-  {
     "cat": "World",
     "title": "બંગાળમાં હવે ભાજપની સરકાર...બાંગ્લાદેશના આ દિગ્ગજ નેતા ખુશ, પણ કટ્ટરપંથી ભડક્યા",
     "desc": "બંગાળમાં આજથી ભાજપની સરકાર....અને સુવેન્દુ અધિકારીએ આજે રાજ્યના મુખ્યમંત્રી પદના શપથ લીધા. પરંતુ લાગે છે કે બાંગ્લાદેશના કટ્ટપંથીઓને આ સમાચાર પચ્યા નથી. જો કે પૂર્વ મુખ્યમંત્રી શેખ હસીનાએ પશ્ચિમ બંગાળના નવા મુખ્યમંત્રીને શુભેચ્છાઓ પાઠવી છે.",
@@ -567,15 +585,6 @@ const newsData_gu = [
     "time": "2026-05-06T17:39:41.000Z"
   },
   {
-    "cat": "World",
-    "title": "પેટ્રોલ, LPG મુદ્દે હવે રહેશે શાંતિ! હોર્મુઝ સંકટ પર આવ્યા સૌથી મોટા સમાચાર",
-    "desc": "પેટ્રોલ-ડીઝલ, LPGના ભાવ વધારાનું સંકટ તોળાઈ રહ્યું હતું તેમાં હવે કદાચ શાંતિ મળી શકે છે કારણ કે હોર્મુઝ સ્ટ્રેટ પર એક સારા સમાચાર આવ્યા છે. ઈરાન અને અમેરિકા મોટી ડીલની નજીક પહોંચ્યા હોવાનું સૂત્રોના હવાલે જાણવા મળી રહ્યું છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-us-war-big-update-middle-east-conflict-america-iran-deal-update-one-pae-mou-hormuz-news-476754 ",
-    "time": "2026-05-06T10:52:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "શા માટે ફિલ્મો IMDb પરનું રેટિંગ ફિલ્મો અને વેબ સીરીઝ માટે હોય મહત્વનું, જાણો IMDB રેટિંગ વિશે બધું જ",
     "desc": "ફિલ્મ કે વેબ સીરીઝ જોતા પહેલા લોકો તેનું આઈએમડીબી રેટિંગ ચેક કરે છે. જો રેટિંગ સારું હોય તો જ ફિલ્મ જોવા જેવી છે એવું માનવામાં આવે છે. પરંતુ શું તમે આ રેટિંગ સિસ્ટમ શું છે અને તેનું આટલું મહત્વ શા માટે છે જાણો છો ? ચાલો તમને જણાવીએ.",
@@ -646,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-on-netflix-in-hindi-web-series-thriller-web-series-glory-is-trending-on-netflix-india-476328 ",
     "time": "2026-05-04T05:47:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મે મહિનાના ફર્સ્ટ વીકેન્ડ પર ઓટીટી પર જોવા માટે છે ઘણું બધું નવું, ચેક કરી લો લીસ્ટ",
-    "desc": "મે મહિનાની શરુઆત ઓટીટી માટે ધમાકેદાર રહી છે. કારણ કે મે મહિનાના પહેલા વીકેન્ડમાં ઓટીટી પર નાના-મોટા સૌ કોઈ માટે ફિલ્મો અને સીરીઝ રિલીઝ થઈ છે. આ વીકેન્ડમાં કયા ઓટીટી પ્લેટફોર્મ પર શું નવું છે ફટાફટ જાણી લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/may-first-week-ott-release-new-film-and-series-to-watch-on-ott-in-first-weekend-of-may-2026-475964 ",
-    "time": "2026-05-02T07:57:11.000Z"
   }
 ];
