@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI punishes Pat Cummins after Sunrisers Hyderabad's embarrassing 82-run defeat to Gujarat Titans",
+    "desc": "The Board of Control for Cricket in India (BCCI) handed Sunrisers Hyderabad captain Pat Cummins a fine of INR 12 lakhs after their defeat to Gujarat Titans in the ongoing IPL 2026. He was found...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-punishes-pat-cummins-after-sunrisers-hyderabad-s-embarrassing-82-run-defeat-to-gujarat-titans-2026-05-13-1040933",
+    "time": "2026-05-13T05:48:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI skipper trains alone in Mumbai, didn't travel with squad to Dharamsala",
+    "desc": "MI skipper Hardik Pandya didn’t travel with the rest of the players to Dharamsala for their IPL 2026 clash against Punjab Kings. He remained in Mumbai, continuing his rehabilitation as the all-rounder shared clips of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-injury-update-mi-skipper-trains-alone-in-mumbai-didn-t-travel-with-squad-to-dharamsala-2026-05-13-1040908",
+    "time": "2026-05-13T03:30:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'How will we survive with just Rs 125?'",
     "desc": "Fresh scrutiny has fallen on conditions within Indian women’s football after a video allegedly involving players from Suruchi Sangha circulated widely on social media during the ongoing Indian Women’s League 2 season. The footage, which spread...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/varun-chakravarthy-injury-update-will-kkr-star-turn-up-for-crucial-ipl-2026-game-against-rcb-2026-05-12-1040875",
     "time": "2026-05-12T15:26:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are GT wearing lavender jersey for their IPL 2026 clash against SRH in Ahmedabad?",
-    "desc": "Gujarat Titans are wearing a special lavender jersey as they host Sunrisers Hyderabad at the Narendra Modi Stadium in Ahmedabad, with the battle for the playoffs getting as intense as it could ever be. GT and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-gt-wearing-lavender-jersey-for-their-ipl-2026-clash-against-srh-in-ahmedabad-2026-05-12-1040861",
-    "time": "2026-05-12T13:48:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh create history against Pakistan with 104-run win in Dhaka after Nahid's fifer",
-    "desc": "Bangladesh registered an emphatic win over Pakistan in the first Test of the two-match series at home after clinching the opener at the Shere Bangla National Stadium by 104 runs. The hosts set up a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-create-history-against-pakistan-with-104-run-win-in-dhaka-after-nahids-fifer-2026-05-12-1040854",
-    "time": "2026-05-12T13:29:38.000Z"
   }
 ];

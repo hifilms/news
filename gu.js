@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "PM મોદીએ પોતે કરી શરૂઆત, કાફલામાં ઘટશે ગાડીઓ, જાણો હવે કેટલી ગાડીઓ અને કમાન્ડો રહેશે?",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચેની યુદ્ધ જેવી સ્થિતિ હજું થાળે પડી નથી. હોર્મુઝ સંકટ પણ યથાવત છે ત્યારે આ બધા વચ્ચે પીએમ મોદીએ દેશવાસીઓને ઈંધણ અને સોનાનો વપરાશ ઘટાડવા માટે અપીલ કરી હતી. જેને લઈને પીએમ મોદીએ પોતે પણ એક મોટો નિર્ણય લીધો છે. પીએમ મોદીના કાફલાને ઘટાડવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-in-action-mode-the-size-of-convoy-will-be-reduced-to-save-fuel-477667 ",
+    "time": "2026-05-13T06:17:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રેલવે,બેંક બાદ હવે આ સરકારી કર્મચારીઓનું વધ્યું મોંઘવારી ભથ્થું, DA 60% એ પહોંચ્યું; જાણો પગારમાં કેટલો થશે વધારો",
+    "desc": "ગ્રામીણ ડાક સેવકોના લાખો (GDS) કર્મચારીઓના મોંઘવારી ભથ્થા (DA) માં વધારો કરવામાં આવ્યો છે. ગ્રામીણ ડાક સેવકો (GDS) ના DA (DPS) ને 58% થી વધારીને 60% કરવામાં આવ્યું છે. 1 જાન્યુઆરી, 2026 થી તેમને બેસિક ટાઈમ રિલેટેડ કન્ટીન્યૂટી એલાઉન્સ પર 60 ટકા મોંઘવારી ભથ્થું મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/railway-and-bank-employees-after-dearness-allowance-hiked-for-these-government-employees-da-reaches-60-477645 ",
+    "time": "2026-05-13T04:25:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "નવા લેબર કોડમાં કર્મચારીઓને મોજે દરિયા! અઠવાડિયામાં 4 દિવસ કામ અને 3 દિવસની રજા! ઓવરટાઇમ પર મળશે ડબલ પગાર",
+    "desc": "નવા લેબર કોડ હેઠળ હવે કંપનીઓ પાસે તેમના કર્મચારીઓને અઠવાડિયામાં માત્ર 4 દિવસ કામ અને 3 દિવસની રજા આપવાનો વિકલ્પ હશે. જાણો કેવી રીતે બદલાવાની છે તમારી વર્ક-લાઇફ અને શું છે તે શરતો જે તમારા માટે જાણવી ખૂબ જ જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/new-labor-code-employees-4-days-of-work-and-3-days-off-in-a-week-double-pay-for-overtime-477644 ",
+    "time": "2026-05-13T04:17:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સરકારે રાતોરાત લીધેલા નિર્ણયથી સોનું 9000 રૂપિયા મોંઘુ, ચાંદીના ભાવમાં 16000નો વધારો, જાણો લેટેસ્ટ રેટ",
+    "desc": "સરકારે રાતોરાત એક એવો નિર્ણય લીધો જેના કારણે આજે વાયદા બજાર ખુલતાની સાથે જ સોનું અને ચાંદી આકાશે આંબી રહ્યા છે. સોનાના ભાવમાં 9000 અને ચાંદીના ભાવમાં 16000 રૂપિયાનો વધારો જોવા મળ્યો. જાણો હાલ ભાવ ક્યાં પહોંચ્યા અને કયો નિર્ણય લેવાયો જેની આવી તીવ્ર અસર જોવા મળી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sudden-sharp-increase-in-gold-and-silver-prices-on-mcx-check-latest-rates-import-duty-decision-effect-477643 ",
+    "time": "2026-05-13T04:14:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "13 દેશોમાં વર્ક ફ્રોમ હોમ, તો ક્યાંક વિદેશ પ્રવાસ પર પ્રતિબંધ... ઇંધણ બચાવવા માટે કયા દેશે શું નિર્ણયો લીધા? જાણો",
+    "desc": "ઈરાન-અમેરિકા યુદ્ધની અસર હવે જોવા મળી રહી છે. આખી દુનિયા ઊર્જા સંકટનો સામનો કરી રહી છે. આ કારણે અલગ-અલગ દેશોએ તેના માટે પગલાં ભરવાનું શરૂ કરી દીધું છે. આજે અમે તમને જણાવી રહ્યા છીએ કે, કયા દેશોએ શું પગલાં લીધાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/work-from-home-in-13-countries-foreign-travel-banned-in-some-what-decisions-did-countries-take-to-save-fuel-know-477642 ",
+    "time": "2026-05-13T04:10:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સપા નેતા અખિલેશ યાદવને મોટો ઝટકો, ભાઈ પ્રતિકનું નિધન, છેલ્લી ઈન્સ્ટાગ્રામ પોસ્ટ થઈ વાયરલ",
+    "desc": "ભાજપના નેતા અપર્ણા યાદવના પતિ અને મુલાયમ સિંહ યાદવના પુત્ર પ્રતિક યાદવનું નિધન થયું છે. તેઓ મુલાયમ સિંહ અને તેમના બીજા પત્ની સાધના ગુપ્તાના પુત્ર હતા. અપર્ણા યાદવ અને પ્રતિક યાદવ વચ્ચે તાજેતરમાં ખટરાગના સમાચારો પણ સામે આવ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pratik-yadav-son-of-mulayam-singh-yadav-passes-away-viral-instagram-post-477640 ",
+    "time": "2026-05-13T03:40:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઉદયનિધિ સ્ટાલિન જ્યારે સનાતન ધર્મ વિશે ઝેર ઓક્યું, ત્યારે કેવી હતી સીએમ વિજયની પ્રતિક્રિયા ? જાણો",
+    "desc": "ભાજપના મુખ્ય પ્રવક્તા નારાયણન તિરૂપતિએ દાવો કર્યો હતો કે ડીએમકેની તાજેતરમાં સત્તા પરથી હકાલપટ્ટી આવા વિભાજનકારી વાણીકલાનું સીધું પરિણામ હતું. તિરૂપતિએ ચેતવણી આપી હતી કે જો ડીએમકે ધાર્મિક લાગણીઓનું અપમાન કરવાનું ચાલુ રાખશે, તો તમિલનાડુના લોકો તેને સંપૂર્ણપણે ભૂંસી નાખશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/when-udayanidhi-stalin-spat-venom-about-sanatan-dharma-what-was-cm-vijay-reaction-find-out-477639 ",
+    "time": "2026-05-13T03:14:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "મૌની રોયએ સૂરજ નાંબિયારને કર્યો અનફોલો, એક્સ્ટ્રા મેરિટલ અફેર અને ડિવોર્સની ચર્ચાએ પકડ્યું જોર",
+    "desc": "મૌની રોય અને તેના પતિ સૂરજ નાંબિયાર વચ્ચે બધું બરાબર નથી ચાલી રહ્યું. જોરશોરથી ચર્ચાઓ થઈ રહી છે કે આ ક્યુટ કપલના લગ્ન તુટી ગયા છે. ડિવોર્સની વાત સામે આવ્યા પછી સૂરજ નાંબિયારે એવું કામ કર્યું જેનાથી સંબંધ તુટ્યાની અટકળોને વેગ મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-unfollows-suraj-nambiar-on-instagram-extramarital-affair-and-divorce-rumour-spread-477632 ",
+    "time": "2026-05-13T03:08:24.000Z"
+  },
+  {
     "cat": "Business",
     "title": "સોનું અને ચાંદી વધુ મોંઘું થશે! સરકારે રાતોરાત લીધો મોટો નિર્ણય, આજે ઘરેણાંના શેરોમાં મચી શકે છે હલચલ !",
     "desc": "પીએમ મોદી દ્વારા લોકોને સોનું ન ખરીદવાની અપીલ કર્યાના બે દિવસ પછી, કેન્દ્ર સરકારે સોના અને ચાંદી પર મોટો નિર્ણય કર્યો છે. આજે શેરબજારમાં દાગીનાના સ્ટોકમાં આની અસર જોવા મળી શકે છે. આજે બુલિયન માર્કેટમાં સોનાના ભાવમાં વધારો થવાની ધારણા છે.",
@@ -324,24 +396,6 @@ const newsData_gu = [
     "time": "2026-05-11T07:57:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "PM મોદીએ કહ્યું-1 વર્ષ સુધી સોનું ન ખરીદો, આજે બજાર ખુલતા જ સોનામાં કડાકો, જાણો લેટેસ્ટ રેટ",
-    "desc": "પીએમ મોદીએ સોના પર જે નિવેદન આપ્યું ત્યારબાદ આજે નવા અઠવાડિયાના પહેલા જ દિવસે સોના અને ચાંદીના ભાવમાં અસર જોવા મળી રહી છે. MCX પર સવારથી જ સોનું લાલ નિશાનમાં જોવા મળી રહ્યું છે જ્યારે રિટેલ બજારમાં પણ સોનામાં કડાકો જોવા મળ્યો છે. આજના સોના અને ચાંદીના ભાવ ખાસ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/pm-modi-appeal-dont-buy-gold-for-1-year-today-gold-price-down-check-mcx-retail-rates-477386 ",
-    "time": "2026-05-11T07:54:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સોમનાથ મંદિરના પુન:નિર્માણ સામે પંડિત નહેરુને શું વાંધો હતો? કેમ નહતા ગયા ઉદ્ધાટનમાં",
-    "desc": "સોમનાથ મંદિર માટે વર્ષ 2026 ખુબ મહત્વનું છે કારણ કે આ વર્ષમાં તેના પુન:નિર્માણને 75 વર્ષ પૂરા થઈ રહ્યા છે જેની ઉજવણી રૂપે સોમનાથ અમૃત મહોત્સવ ઉજવાઈ રહ્યો છે અને આ વર્ષમાં મંદિર પર પ્રથમ આક્રમણને 1000 વર્ષ પૂરા થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-did-pandit-jawaharlal-nehru-oppose-the-reconstruction-of-somnath-temple-477373 ",
-    "time": "2026-05-11T07:04:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પના એક નિર્ણય બાદ ફરી યુદ્ધ ભડકી ઉઠે તેવા એંધાણ, શું થશે પેટ્રોલ-ડીઝલ, ગેસનું?",
     "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધને ખતમ કરવાની તમામ કોશિશો નિષ્ફળ જતી જોવા મળી રહી છે. એક બાજુ જ્યાં હોર્મુઝ બંધ થવાથી અને અમેરિકાએ કરેલી નાકાબંધીના કારણે દુનિયાભરમાં ઓઈલ અને ગેસનું સંકટ વધી રહ્યું છે ત્યાં બીજી બાજુ અમેરિકાએ ઈરાનનો શાંતિ પ્રસ્તાવ પણ ફગાવી દીધો છે.",
@@ -412,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/who-is-responsible-for-bumrahs-poor-form-in-ipl-2026-know-what-umesh-yadav-said-477230 ",
     "time": "2026-05-10T03:52:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રાજસ્થાન રોયલ્સને 77 રને હરાવી ટોપ-2માં પહોંચ્યું ગુજરાત ટાઇટન્સ... RR ટોપ-4માંથી બહાર",
-    "desc": "IPL 2026માં રાજસ્થાન રોયલ્સને ગુજરાત ટાઇટન્સ સામે 77 રનથી મોટી હારનો સામનો કરવો પડ્યો છે. રાજસ્થાનનો સવાઈ માનસિંહ સ્ટેડિયમ ખાતે આ સતત ત્રીજો પરાજય છે. આ સાથે જ ગુજરાત પોઈન્ટ ટેબલમાં બીજા નંબરે પહોંચી ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rr-vs-gt-ipl-2026-rajasthan-royals-vs-gujarat-titans-match-highlights-477203 ",
-    "time": "2026-05-09T18:06:59.000Z"
   },
   {
     "cat": "World",
@@ -610,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/may-first-week-ott-release-new-film-and-series-to-watch-on-ott-in-first-weekend-of-may-2026-475964 ",
     "time": "2026-05-02T07:57:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કપિલ શર્માના શોનો સમય રૈના અને રણવીર ઈલાહાબાદિયાનો એપિસોડ સ્ટ્રીમ કરવા પાછળ છે ખાસ કારણ, જાણો તમે પણ",
-    "desc": "સમય રૈના અને રણવીર ઈલાહાબાદિયાએ એક વર્ષે પહેલા એક એપિસોડ સાથે કર્યો હતો અને દેશભરમાં હોબાળો મચી ગયો હતો. વિવાદ અને પોલીસ કેસ બાદ પહેલીવાર આ બંને ફરી એકવાર સાથે જોવા મળશે કપિલ શર્માના શોમાં. આ એપિસોડ ધમાકેદાર હશે તેવું લાગી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/kapil-sharma-show-special-episode-on-netflix-with-ranveer-allahbadia-and-samay-raina-475945 ",
-    "time": "2026-05-02T06:37:22.000Z"
   }
 ];
