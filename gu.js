@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
-    "cat": "World",
-    "title": "પેટ્રોલ-ડીઝલના ભાવ પર RBIના ગવર્નરનું મોટું નિવેદન, ઈશારામાં કહી દીધુ કે સરકાર ક્યારે ભાવ વધારશે?",
-    "desc": "વેસ્ટ એશિયામાં જે રીતે ઈરાન અને અમેરિકા વચ્ચે ખેંચતાણની સ્થિતિ છે તે ગંભીર સંકેત આપી રહી છે કે યુદ્ધની સ્થિતિ લાંબા સમય સુધી ખેંચાઈ શકે છે. આ બધા વચ્ચે રિઝર્વ બેંકના ગવર્નરે સ્વિટ્ઝરલેન્ડમાં આયોજિત એક સમિટમાં એવો સંકેત આપ્યો કે સરકાર પેટ્રોલ ડીઝલના ભાવ વધારાને ક્યાં સુધી કંટ્રોલમાં રાખી શકે છે.",
+    "cat": "Entertainment",
+    "title": "ડિવોર્સની વાત પર મૌની રોયે આપ્યું રિએકશન, ઈંસ્ટા પર શેર કર્યો ખાસ મેસેજ",
+    "desc": "છેલ્લા 2 દિવસથી ઈંટરનેટ પર મૌની રોયના ડિવોર્સની ચર્ચાઓ ચાલી રહી છે. તેવામાં હવે અભિનેત્રીએ આ અંગે પહેલીવાર રિએક્શન આપી દીધું છે. મૌની રોયએ તેના ઈંસ્ટાગ્રામ પર સ્ટોરી પોસ્ટ કરી છે જેમાં ખાસ મેસેજ શેર કર્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/rbi-governor-big-statement-on-crude-oil-prices-what-he-hinted-check-here-477729 ",
-    "time": "2026-05-13T11:26:30.000Z"
+    "url": " http://zeenews.india.com/gujarati/entertainment/actress-mouni-roy-first-reaction-after-divorce-news-spread-what-mouni-roy-said-about-marriage-477743 ",
+    "time": "2026-05-13T13:21:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એવું કયું પક્ષી છે, જે દૂધમાંથી પાણી અલગ કરી શકે છે ? એક ક્લિકમાં જાણી લો જવાબ",
+    "desc": "જ્યારે પણ અભ્યાસ કે સ્પર્ધાત્મક પરીક્ષાની વાત આવે ત્યારે એક વસ્તુ આપમેળે તેનો અભિન્ન ભાગ બની જાય છે અને તે છે જનરલ નોલેજ. સરકારી નોકરીની તૈયારી કરતા ઉમેદવારો માટે જનરલ નોલેજ સૌથી મહત્વપૂર્ણ વિષય છે. ત્યારે આ લેખમાં આજે અમે તમારા માટે આવા જ કેટલાક સવાલો અને જવાબ લઈને આવ્યા છે, જે તમને ઉપયોગી થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gk-quiz-which-bird-can-separate-water-from-milk-know-the-answer-477741 ",
+    "time": "2026-05-13T13:09:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "દિવસો સુધી યાદ રહી જાય એવી થ્રિલર ફિલ્મ જોવી હોય તો જીયો હોટસ્ટાર પર જુઓ આ ફિલ્મ",
+    "desc": "જો તમે જોરદાર મિસ્ટ્રી થ્રિલર ફિલ્મ જોવા માંગો છો અને તમને સારો ઓપ્શન નથી મળી રહ્યો તો ચાલો તમને જીયો હોટસ્ટારની બેસ્ટ ફિલ્મ વિશે જણાવીએ. આ ફિલ્મ ડાર્ક કોમેડી મિસ્ટ્રી થ્રિલર ફિલ્મ છે. આવી ફિલ્મ તમે આજ સુધી જોઈ નહીં હોય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-thriller-mystery-movie-in-hindi-on-ott-jio-hotstar-sookshmadarshini-477739 ",
+    "time": "2026-05-13T12:44:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્રિકેટ છે કે વિડિયો ગેમ? એક જ મેચમાં ખડકાયો 822 રનનો ડુંગર, આખી ટીમ માત્ર 28 રનમાં ઓલઆઉટ",
+    "desc": "ભારતમાં હાલમાં IPLની ધુમ ચાલી રહી છે, ત્યારે એક એવો રેકોર્ડ બન્યો છે, જેને તોડવો લગભગ અશક્ય લાગે છે. આ મેચમાં 822 રન બનાવ્યા હતા અને 823 રનનો ટારગેટ આપવામાં આવ્યો હતો, જેના જવાબમાં વિપક્ષી ટીમ માત્ર 28 બોલમાં ઓલઆઉટ થઈ ગઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/a-target-of-823-runs-in-50-overs-and-a-huge-win-of-794-runs-a-historic-odi-match-was-witnessed-during-the-ipl-477614 ",
+    "time": "2026-05-13T11:37:57.000Z"
   },
   {
     "cat": "Tech",
@@ -15,7 +42,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-us-war-hormuz-starait-crisis-iran-threat-digital-toll-undersea-internet-cables-477727 ",
-    "time": "2026-05-13T11:25:59.000Z"
+    "time": "2026-05-13T11:30:28.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પેટ્રોલ-ડીઝલના ભાવ પર RBIના ગવર્નરનું મોટું નિવેદન, ઈશારામાં કહી દીધુ કે સરકાર ક્યારે ભાવ વધારશે?",
+    "desc": "વેસ્ટ એશિયામાં જે રીતે ઈરાન અને અમેરિકા વચ્ચે ખેંચતાણની સ્થિતિ છે તે ગંભીર સંકેત આપી રહી છે કે યુદ્ધની સ્થિતિ લાંબા સમય સુધી ખેંચાઈ શકે છે. આ બધા વચ્ચે રિઝર્વ બેંકના ગવર્નરે સ્વિટ્ઝરલેન્ડમાં આયોજિત એક સમિટમાં એવો સંકેત આપ્યો કે સરકાર પેટ્રોલ ડીઝલના ભાવ વધારાને ક્યાં સુધી કંટ્રોલમાં રાખી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/rbi-governor-big-statement-on-crude-oil-prices-what-he-hinted-check-here-477729 ",
+    "time": "2026-05-13T11:26:30.000Z"
   },
   {
     "cat": "Sports",
@@ -171,15 +207,6 @@ const newsData_gu = [
     "time": "2026-05-12T17:47:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "50 ઓવરમાં 823 રનનો ટારગેટ અને 794 રનની વિશાળ જીત, IPL દરમિયાન જોવા મળી એક ઐતિહાસિક વનડે મેચ",
-    "desc": "ભારતમાં હાલમાં IPLની ધુમ ચાલી રહી છે, ત્યારે એક એવો રેકોર્ડ બન્યો છે, જેને તોડવો લગભગ અશક્ય લાગે છે. આ મેચમાં 822 રન બનાવ્યા હતા અને 823 રનનો ટારગેટ આપવામાં આવ્યો હતો, જેના જવાબમાં વિપક્ષી ટીમ માત્ર 28 બોલમાં ઓલઆઉટ થઈ ગઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/a-target-of-823-runs-in-50-overs-and-a-huge-win-of-794-runs-a-historic-odi-match-was-witnessed-during-the-ipl-477614 ",
-    "time": "2026-05-12T17:18:19.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "મંત્રીઓની મુસાફરી પર લગામ, અધિકારીઓને સૂચના! ઇંધણ બચાવવા માટે સરકારની મોટી તૈયારી",
     "desc": "પીએમ મોદીએ દેશના લોકોને ઈંધણ બચાવવાની અપીલ કરી છે. સાથે જ વર્ક ફ્રોમ હોમ માટે પણ અનુરોધ કર્યો છે. હવે સરકાર પોતાના મંત્રીઓ અને અધિકારીઓ પર પણ આવા જ પ્રતિબંધો લાગુ કરવા જઈ રહી છે.",
@@ -333,15 +360,6 @@ const newsData_gu = [
     "time": "2026-05-12T06:25:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "યુદ્ધ ભડકે તેવી આશંકા, શું ભારતમાં લાગશે લોકડાઉન? ઉર્જા સંકટ ખાળવા રાજ્યો પાસે કયા કયા વિકલ્પ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે ફરી પરિસ્થિતિ વિકટ થાય તેવા સંકેત મળી રહ્યા છે. આ બધા વચ્ચે ઉર્જા સંકટ પણ વધે તેવી ભીતિ છે ત્યારે એવી ચર્ચાઓ છે કે શું ભારતમાં લોકડાઉન લાગી શકે? આ સ્થિતિને પહોંચી વળવા માટે રાજ્યો પાસે કયા કયા વિકલ્પો છે તે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-options-do-states-have-to-overcome-the-energy-check-details-477520 ",
-    "time": "2026-05-12T06:23:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "પંજાબ કિંગ્સની સતત 4 હારથી અકળાયો શ્રેયસ ઐયર, જાણો કોને ગણાવ્યો હારનો જવાબદાર",
     "desc": "સતત ચાર હાર બાદ પંજાબ કિંગ્સનો કેપ્ટન શ્રેયસ ઐયર આખરે અકળાયો છે. હાર બાદ તેણે ટીમના બોલરોને આડે હાથ લીધા અને હારનું મુખ્ય કારણ નબળી ફિલ્ડિંગ પણ ગણાવી. ઐયરે વધુમાં સ્વીકાર્યું કે આ પીચ પર કુલ 210 રન પૂરતા હતા અને તેનો સફળતાપૂર્વક બચાવ કરી શકાયો હોત.",
@@ -466,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/honda-cb1000-hornet-sp-recalled-due-technical-issue-477294 ",
     "time": "2026-05-10T12:23:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ના હોય ! એક બોલમાં 3 વિકેટ... ક્રિકેટના મેદાન પર ક્યારે થયો હતો આવો ચમત્કાર ?",
-    "desc": "એક જ બોલ પર ત્રણ વિકેટ પડવી એ ચોક્કસપણે મુશ્કેલ છે, પણ તે અશક્ય નથી. ક્રિકેટના મેદાન પર એક જ બોલ પર ત્રણ વિકેટ પડવાની અસાધારણ ઘટના ખરેખર બની શકે છે. ત્યારે કોણે અને કેવી રીતે 1 બોલમાં 3 વિકેટ લીધી હતી, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/cricket-record-3-wickets-in-1-ball-know-who-created-the-record-477275 ",
-    "time": "2026-05-10T09:03:42.000Z"
   },
   {
     "cat": "World",
@@ -646,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/khatron-ke-khiladi-season-15-confirm-actors-name-12-stars-including-gaurav-khanna-harsh-gujral-476451 ",
     "time": "2026-05-04T13:19:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "નેટફ્લિક્સ પર નંબર વન બની થ્રીલર વેબ સીરીઝ, દમદાર સ્ટોરીનો ક્લાઈમેક્સ જોઈ દંગ રહી ગયા દર્શકો",
-    "desc": "નેટફ્લિક્સ પર તાજેતરમાં જ થ્રીલર વેબ સીરીઝ રિલીઝ થઈ છે. આ સીરીઝ 7 જ એપિસોડની છે પણ લોકો તેના ખૂબ વખાણ કરી રહ્યા છે. સીરીઝ જોનાર દર્શકોનું કહેવું છે કે સીરીઝનો ક્લાઈમેક્સ તેને બેસ્ટ અને મસ્ટ વોચ બનાવી દે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-on-netflix-in-hindi-web-series-thriller-web-series-glory-is-trending-on-netflix-india-476328 ",
-    "time": "2026-05-04T05:47:32.000Z"
   }
 ];

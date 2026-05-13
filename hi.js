@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Warm-up fixtures for Women's T20 World Cup 2026 announced, India to play two matches",
+    "desc": "The International Cricket Council (ICC) on Wednesday announced the warm-up fixtures for the upcoming Women's T20 World Cup 2026. The tournament, which gets underway on June 12, will witness 12 teams locking horns for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/warm-up-fixtures-for-womens-t20-world-cup-2026-announced-india-to-play-two-matches-2026-05-13-1041013",
+    "time": "2026-05-13T14:09:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England announce squad for first Test against New Zealand, make seven changes from Ashes horror",
+    "desc": "England have named their squad for the first of the three Tests against New Zealand, with seven changes to the side that went down 1-4 to Australia in the Ashes. The major dropouts for this...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-squad-for-first-test-against-new-zealand-make-seven-changes-from-ashes-horror-2026-05-13-1041003",
+    "time": "2026-05-13T13:22:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is CSK's new IPL signee, Macneil Hadley Noronha, the replacement for Ramakrishna Ghosh?",
+    "desc": "Chennai Super Kings have roped in Macneil Hadley Noronha as a replacement for Ramakrishna Ghosh for the remainder of the Indian Premier League 2026. Ghosh, who made his IPL debut in the clash against the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-csks-new-ipl-signee-macneil-hadley-noronha-the-replacement-for-ramakrishna-ghosh-2026-05-13-1040989",
+    "time": "2026-05-13T11:49:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mohammad Kaif claims eighth-placed team in points table can still qualify for IPL 2026 playoffs",
     "desc": "Former Indian cricketer Mohammad Kaif has predicted a tough fight between the teams for the IPL 2026 playoffs, highlighting that the top four teams can't breathe easy. With only 14 league stage matches to go,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-injury-update-mi-skipper-trains-alone-in-mumbai-didn-t-travel-with-squad-to-dharamsala-2026-05-13-1040908",
     "time": "2026-05-13T03:30:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'How will we survive with just Rs 125?'",
-    "desc": "Fresh scrutiny has fallen on conditions within Indian women’s football after a video allegedly involving players from Suruchi Sangha circulated widely on social media during the ongoing Indian Women’s League 2 season. The footage, which spread...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/how-will-we-survive-with-just-rs-125-viral-video-sparks-outrage-over-conditions-in-iwl-2-watch-2026-05-13-1040904",
-    "time": "2026-05-13T02:36:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK sign Ramakrishna Ghosh's replacement with three league games remaining in IPL 2026",
-    "desc": "Chennai Super Kings are set to complete the deal to bring in Karnataka all-rounder Macneil Hadley Noronha as cover for injured player Ramakrishna Ghosh for the remainder of IPL 2026. The franchise has already informed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-sign-ramakrishna-ghosh-s-replacement-with-three-league-games-remaining-in-ipl-2026-2026-05-13-1040899",
-    "time": "2026-05-13T01:46:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Florentino Perez calls for new election in Real Madrid, blasts Spanish media over campaigning against him",
-    "desc": "Real Madrid president Florentino Perez has rejected speculation surrounding his future at the club after a dreadful season. Last evening, he called for an emergency press conference after a board meeting, where he announced plans...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/florentino-perez-calls-for-new-election-in-real-madrid-blasts-spanish-media-over-campaigning-against-him-2026-05-13-1040897",
-    "time": "2026-05-13T01:26:13.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "'ভয়মুক্ত হয়ে কাজ করুন', চার তারকা বিধায়কের কাঁধে টলিউডের গুরুদায়িত্ব? নির্দেশ মুখ্যমন্ত্রীর",
+    "desc": "টলিউডে এবার শুদ্ধিকরণ! নবান্নে সচিব ও তারকা বিধায়কদের নিয়ে বিশেষ বৈঠক করলেন মুখ্যমন্ত্রী শুভেন্দু অধিকারী। রূপা গঙ্গোপাধ্যায়, রুদ্রনীল ঘোষ, পাপিয়া অধিকারী, হিরণ চট্টোপাধ্যায়দের দিলেন বড় দায়িত্ব। মুখ্যমন্ত্রীর স্পষ্ট বার্তা— \"ভয়মুক্ত হয়ে কাজ করুন।\" টালিগঞ্জ থেকে কি এবার তবে সিন্ডিকেট রাজের অবসান হতে চলেছে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/cm-suvendu-adhikari-meeting-star-mlas-tollywood-reform-report_653857.html ",
+    "time": "2026-05-13T13:28:44.000Z"
+  },
+  {
     "cat": "Business",
     "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
     "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
@@ -151,15 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/middle-east-on-edge-trump-slams-irans-proposal_652134.html ",
     "time": "2026-05-03T05:24:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Children's Little Theatre (CLT) 75th Anniversary: শর্মিলা ঠাকুরের হাতেখড়ি এখানেই, পঁচাত্তরে চিল্ড্রেনস লিটল থিয়েটার: সত্যজিতের তুলিতে উজ্জ্বল ‘অবন মহল’",
-    "desc": "পঁচাত্তর বছরে পা দিল ছোটদের আনন্দের ঘর ‘চিল্ড্রেনস লিটল থিয়েটার’ (CLT)! সত্যজিৎ রায়ের আঁকা লোগো থেকে শর্মিলা ঠাকুরের অভিনয় জীবনের হাতেখড়ি— সিএলটি-র ঝুলিতে রয়েছে কতশত ইতিহাস। আগামী ৮ মে ২০২৬ থেকে শুরু হচ্ছে বছরব্যাপী হীরক জয়ন্তী উৎসব।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/clt-kolkata-75th-anniversary-satyajit-ray-sharmila-tagore_652102.html ",
-    "time": "2026-05-02T16:18:53.000Z"
   },
   {
     "cat": "Business",
