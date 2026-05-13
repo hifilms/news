@@ -1,5 +1,32 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "'Structural flaws exposed': Vijay calls for NEET to be abolished after paper leak",
+    "desc": "Tamil Nadu CM renews calls to scrap NEET after exam cancellation due to alleged paper leak, citing disadvantages for rural and disadvantaged students. The CBI has arrested five individuals, with investigations pointing to a leak originating in Nashik and spreading through coaching networks. Protests intensify nationwide demanding accountability.",
+    "img": "https://static.toiimg.com/photo/msid-131077314,imgsize-532986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/structural-flaws-exposed-vijay-calls-for-neet-to-be-abolished-after-paper-leak/articleshow/131077316.cms",
+    "time": "2026-05-13T21:47:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mom-to-be Deepika oozes pregnancy glow as she returns to Mumbai",
+    "desc": "After wrapping up a shooting schedule in Cape Town for Shah Rukh Khan’s upcoming film King, actor Deepika Padukone returned to Mumbai in the early hours of Thursday, marking her first public appearance since announcing her second pregnancy with husband Ranveer Singh. Fans were quick to point out her visible pregnancy glow in the viral videos from the airport.",
+    "img": "https://static.toiimg.com/photo/msid-131077016,imgsize-103.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mom-to-be-deepika-padukone-oozes-pregnancy-glow-as-she-returns-to-mumbai-after-cape-town-schedule-of-king-with-shah-rukh-khan/articleshow/131077011.cms",
+    "time": "2026-05-13T21:22:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Salman, SRK should do age-appropriate roles’: Mohan Kapur",
+    "desc": "Mohan Kapur got candid about Bollywood superstars, changing audience expectations and why even stars like Shah Rukh Khan, Salman Khan and Akshay Kumar cannot survive without strong scripts. From comparing repetitive films to “biryani every day” to saying no actor is bigger than a good script, Mohan shared his honest take on the industry.",
+    "img": "https://static.toiimg.com/photo/msid-131076784,imgsize-42484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-shah-rukh-khan-should-do-age-appropriate-roles-mohan-kapur-says-its-unfair-to-write-stars-off-after-flops/articleshow/131076755.cms",
+    "time": "2026-05-13T20:18:22.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Kohli’s masterful knock powers Royal Challengers to the top",
     "desc": "The Bengaluru opener, who was dismissed for a duck in the last two games, roars back with an unbeaten century to guide his side to a facile win over Knight Riders; his 92-run partnership with Padikkal puts the home team on the road to victory",
@@ -205,15 +232,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/government-hikes-paddy-msp-by-72-to-2441qtl-sunflower-seed-sees-steepest-rise-at-622/article70973917.ece",
     "time": "2026-05-13T16:44:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NIA brings back ‘narco-terror’ accused from Portugal",
-    "desc": "The National Investigation Agency has arrested an alleged “narco-terror” accused after securing his extradition from Portugal. The agency says he played a key role in a terror-financing network linked to Hizb-ul-Mujahideen, involving drug trafficking and hawala channels. Here’s what we know.",
-    "img": "https://th-i.thgim.com/public/incoming/6t3a7d/article70975562.ece/alternates/LANDSCAPE_1200/prateek%20yadav.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/nia-brings-back-narco-terror-accused-from-portugal/article70975565.ece",
-    "time": "2026-05-13T16:40:34.000Z"
   },
   {
     "cat": "Sports",
@@ -441,15 +459,6 @@ const newsData_en = [
     "time": "2026-05-13T13:03:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CBI arrests five accused, raids multiple locations",
-    "desc": "The CBI has arrested five individuals and launched nationwide searches in connection with alleged irregularities and a paper leak for the NEET UG-2026 examination. The investigation follows a complaint from the Union education ministry, with charges including criminal conspiracy and cheating. The NTA had previously cancelled the exam, affecting nearly 23 lakh candidates, due to suspected circulation of leaked questions.",
-    "img": "https://static.toiimg.com/photo/msid-131066583,imgsize-110892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-ug-paper-leak-case-cbi-arrests-five-accused-raids-multiple-locations/articleshow/131066403.cms",
-    "time": "2026-05-13T12:59:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "When Rana Daggubati admitted he dated 'Karuppu' actress and 'decade old friend' Trisha Krishnan",
     "desc": "Rana Daggubati’s past relationship with Trisha Krishnan continues to trend as fans revisit his honest admission on 'Koffee With Karan'. While Trisha is currently linked with the Chief Minister of Tamil Nadu, Thalapathy Vijay following her appearance at his political swearing-in ceremony, Rana’s throwback moment of handling their split with grace stands out. Discover what the 'Baahubali' star said about their decade-long friendship, their brief stint as a couple, and why they ultimately decided to part ways.",
@@ -466,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/3-idiots-sequel-buzz-madhavan-sharman-joshi-return-expected-aamir-khan-film-to-have-time-jump-reports/articleshow/131066076.cms",
     "time": "2026-05-13T12:38:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth’s 'Jailer 2' release to be pushed to THIS holiday weekend",
-    "desc": "Rajinikanth's highly anticipated 'Jailer 2' has been postponed from its initial August release to September 4, coinciding with the Krishna Jayanthi holiday. This strategic delay aims to allow ample time for post-production. The film boasts an even larger ensemble cast, including special appearances from Mohanlal and Shiva Rajkumar, following the massive success of the first installment.",
-    "img": "https://static.toiimg.com/photo/msid-131065736,imgsize-120788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-jailer-2-eyes-new-release-date-nelson-dilipkumars-directorial-to-be-pushed-to-this-holiday-weekend/articleshow/131065717.cms",
-    "time": "2026-05-13T12:24:54.000Z"
   },
   {
     "cat": "Sports",
@@ -495,33 +495,6 @@ const newsData_en = [
     "time": "2026-05-13T12:22:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "12 years, 12 judges, 2 favourable orders, RTI applicant yet to get info",
-    "desc": "After a decade-long legal battle, the Delhi High Court has ordered the National Medical Commission to provide information on former MCI president Dr. Ketan Desai, sought via an RTI application. The court rejected the NMC's plea to reapply, emphasizing transparency and fairness in disclosing details of a corruption complaint and registration status.",
-    "img": "https://static.toiimg.com/photo/msid-131065574,imgsize-744366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/12-years-12-judges-2-favourable-orders-rti-applicant-yet-to-get-info/articleshow/131065569.cms",
-    "time": "2026-05-13T12:21:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Don't you understand the extent of our victory?' Vijay lambasts DMK after floor test win",
-    "desc": "Tamil Nadu Chief Minister Vijay's government won a trust vote with 144 MLAs supporting it. Following the victory, Vijay penned an open letter to the public, criticizing the opposition DMK for attempting to undermine his administration. He highlighted his party's electoral performance and commitment to secular values, while accusing the DMK of hypocrisy in coalition politics.",
-    "img": "https://static.toiimg.com/photo/msid-131065510,imgsize-945787.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-you-understand-the-extent-of-our-victory-vijay-lambasts-dmk-after-floor-test-win/articleshow/131065522.cms",
-    "time": "2026-05-13T12:16:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanjay Gupta on the Rs 300 crore gamble behind Dhurandhar",
-    "desc": "Filmmaker Sanjay Gupta praised Aditya Dhar's vision behind 'Dhurandhar', calling it a massive risk given Ranveer Singh's career low and Dhar's limited filmmaking experience. He credited the Ambanis' backing as a key factor in the film's success. The two-part franchise has reportedly crossed Rs 3000 crore worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-131065470,imgsize-39104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-at-all-time-low-aditya-dhar-had-1-film-sanjay-gupta-weighs-in-on-the-rs-300-crore-gamble-behind-dhurandhar/articleshow/131065470.cms",
-    "time": "2026-05-13T12:13:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What happens if RCB vs KKR is washed out in Raipur? Playoff race explained",
     "desc": "Rain in Raipur threatens the IPL 2026 clash between Royal Challengers Bengaluru and Kolkata Knight Riders, potentially impacting playoff hopes. A washout would significantly boost RCB's qualification chances, keeping them second. For KKR, it's a damaging blow, pushing them to seventh and demanding wins in all remaining games after an earlier tied contest.",
@@ -529,6 +502,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-what-happens-if-rcb-vs-kkr-is-washed-out-in-raipur-playoff-race-explained/articleshow/131064900.cms",
     "time": "2026-05-13T11:59:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Odyssey' vs 'Troy': Nolan's film called biggest DOWNGRADE",
+    "desc": "Christopher Nolan's upcoming film, 'The Odyssey,' is facing significant online backlash. Critics are targeting casting choices, including Elliot Page as Achilles' ghost and Lupita Nyong'o in dual roles as Helen and her sister. Comparisons to Wolfgang Petersen's 'Troy' are rife, with debates centering on modern reinterpretations and racial casting.",
+    "img": "https://static.toiimg.com/photo/msid-131061365,imgsize-134874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-vs-troy-lupita-nyongo-replacing-diane-kruger-elliot-page-replacing-brad-pitt-sparks-backlash-christopher-nolans-film-called-biggest-downgrade-in-cinematic-history/articleshow/131059789.cms",
+    "time": "2026-05-13T11:09:44.000Z"
   },
   {
     "cat": "World",
@@ -709,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/gracias-el-clasico-title-look-of-tovino-thomas-nazriya-nazim-starrer-unveiled/article70964730.ece",
     "time": "2026-05-11T09:13:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Amma Ariyan’: Restored version of Kerala filmmaker John Abraham’s cult classic to premiere at Cannes",
-    "desc": "The film with a cult following, restored by the not-for-profit organisation Film Heritage Foundation, is the only Indian feature film selected for world premiere at the festival this year. The premiere is scheduled on May 16",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/wy7vfk/article70956287.ece/alternates/LANDSCAPE_1200/8.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-filmmaker-john-abrahams-cult-classic-amma-ariyans-restored-version-to-premiere-at-cannes/article70956305.ece",
-    "time": "2026-05-09T05:09:00.000Z"
   },
   {
     "cat": "Tech",
