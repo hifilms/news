@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli's century guides RCB home in record chase against KKR, takes team to top of IPL 2026 points table",
+    "desc": "Virat Kohli smashed a stellar century in the Royal Challengers Bengaluru's 12th match of the Indian Premier League 2026 as he helped his team chase a record target of 193 against the Kolkata Knight Riders...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohlis-century-guides-rcb-home-in-record-chase-against-kkr-takes-team-to-top-of-ipl-2026-points-table-2026-05-14-1041038",
+    "time": "2026-05-13T18:50:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli creates history, becomes first Indian to 14000 T20 runs during RCB vs KKR clash",
+    "desc": "Virat Kohli has added another feather to his illustrious cap as he completed 14000 runs in T20 cricket. Kohli achieved the feat during Royal Challengers Bengaluru's IPL 2026 clash against the Kolkata Knight Riders at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-creates-history-becomes-first-indian-to-14000-t20-runs-during-rcb-vs-kkr-clash-2026-05-13-1041037",
+    "time": "2026-05-13T18:28:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli celebrates scoring first run against KKR like milestone after twin ducks",
+    "desc": "Royal Challengers Bengaluru star batter Virat Kohli finally got off the mark after registering back-to-back ducks in the Indian Premier League 2026. Kohli hit a single off debutant Saurabh Dubey in the second innings of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-celebrates-scoring-first-run-against-kkr-like-milestone-after-twin-ducks-watch-2026-05-13-1041034",
+    "time": "2026-05-13T18:05:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli downs MS Dhoni's historic IPL record with milestone appearance in RCB vs KKR clash",
     "desc": "Virat Kohli has shattered a huge MS Dhoni record with his appearance in the Royal Challengers Bengaluru vs Kolkata Knight Riders Indian Premier League 2026 clash at the Shaheed Veer Narayan Singh International Stadium, Raipur,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/who-is-csks-new-ipl-signee-macneil-hadley-noronha-the-replacement-for-ramakrishna-ghosh-2026-05-13-1040989",
     "time": "2026-05-13T11:49:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Kaif claims eighth-placed team in points table can still qualify for IPL 2026 playoffs",
-    "desc": "Former Indian cricketer Mohammad Kaif has predicted a tough fight between the teams for the IPL 2026 playoffs, highlighting that the top four teams can't breathe easy. With only 14 league stage matches to go,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-kaif-claims-eighth-placed-team-in-points-table-can-still-qualify-for-ipl-2026-playoffs-2026-05-13-1040980",
-    "time": "2026-05-13T11:08:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Not Virat Kohli or Vaibhav Sooryavanshi, South Africa great picks 25-year-old to win orange cap in IPL 2026",
-    "desc": "The race for the Indian Premier League 2026 playoffs has intense subplots. The battle for the orange cap and the purple cap is in full swing as players are giving it their all to win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-virat-kohli-or-vaibhav-sooryavanshi-south-africa-great-picks-25-year-old-to-win-orange-cap-in-ipl-2026-2026-05-13-1040976",
-    "time": "2026-05-13T10:30:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will the surface at SVNS Stadium in Raipur play?",
-    "desc": "IPL 2025 champions Royal Challengers Bengaluru will host IPL 2024 champions Kolkata Knight Riders on May 13 in Raipur. As things stand, the hosts are currently second on the points table and a win over...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-rcb-pitch-report-how-will-the-surface-at-svns-stadium-in-raipur-play-2026-05-13-1040966",
-    "time": "2026-05-13T09:27:33.000Z"
   }
 ];

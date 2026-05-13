@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Kohli’s masterful knock powers Royal Challengers to the top",
+    "desc": "The Bengaluru opener, who was dismissed for a duck in the last two games, roars back with an unbeaten century to guide his side to a facile win over Knight Riders; his 92-run partnership with Padikkal puts the home team on the road to victory",
+    "img": "https://th-i.thgim.com/public/incoming/hutdyg/article70975822.ece/alternates/LANDSCAPE_1200/2026-05-13T184335Z_1551724302_UP1EM5D1G0J06_RTRMADP_3_CRICKET-IPL-RCB-KKR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/kohlis-masterful-knock-powers-royal-challengers-to-the-top/article70975813.ece",
+    "time": "2026-05-13T19:42:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Annakili@50: The extraordinary journey of maestro Ilaiyaraaja",
+    "desc": "If there had been no Panchu Arunachalam, there would have been no Ilaiyaraaja or Gangai Amaran. He was our first god. He lit the light in our lives, says Gangai Amaran, younger brother of Ilaiyaraaja, who was the rhythm guitarist for the film",
+    "img": "https://th-i.thgim.com/public/incoming/afmkwq/article70975817.ece/alternates/LANDSCAPE_1200/Ilayaraja__1_.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/annakili50-the-extraordinary-journey-of-maestro-ilaiyaraaja/article70975382.ece",
+    "time": "2026-05-13T19:39:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India should have stepped into vacuum left by U.S. as guarantor of security in West Asia: Talmiz Ahmad",
+    "desc": "Strategic Autonomy, Energy Security and Global Responsibility’, the former Ambassador remarked that “India is not a serious role-player as far as West Asia and the crisis over the last two and a half years is concerned.”",
+    "img": "https://th-i.thgim.com/public/news/cities/chennai/3u159a/article70973589.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-13%20at%2011.34.23.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/india-should-have-stepped-into-vacuum-left-by-us-as-guarantor-of-security-in-west-asia-talmiz-ahmad/article70973440.ece",
+    "time": "2026-05-13T19:21:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhagyashree reveals why she initially rejected Maine Pyar Kiya",
+    "desc": "Veteran actress Bhagyashree got nostalgic as she revisited memories of Maine Pyar Kiya, her bond with Salman Khan and the film’s unbelievable craze. From revealing why she initially rejected the film to recalling sacks full of fan letters arriving at her home, Bhagyashree opened up about several untold moments from the cult classic.",
+    "img": "https://static.toiimg.com/photo/msid-131076163,imgsize-41186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhagyashree-reveals-why-she-initially-rejected-maine-pyar-kiya-recalls-bonding-with-salman-khan-we-were-like-college-friends/articleshow/131076093.cms",
+    "time": "2026-05-13T19:15:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB go top after Kohli masterclass; KKR playoff hopes fade",
+    "desc": "Royal Challengers Bengaluru reclaimed the top spot in the IPL 2026 points table with a six-wicket win over Kolkata Knight Riders. Virat Kohli's unbeaten 105 guided RCB to their eighth victory, propelling them to 16 points and a superior net run rate. The defeat leaves KKR in eighth place, struggling to keep their playoff hopes alive.",
+    "img": "https://static.toiimg.com/photo/msid-131076138,imgsize-44190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-points-table-after-match-57-rcb-go-top-after-kohli-masterclass-kkr-playoff-hopes-fade/articleshow/131075914.cms",
+    "time": "2026-05-13T19:12:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Chase-master' Kohli returns to form with century as RCB gun down 193 vs KKR",
+    "desc": "Kohli reached his fifty off 32 balls and shared a key 92-run partnership with Devdutt Padikkal, who made 39 off 27 balls with seven fours. Kohli later brought up his century with a single off Arora, registering his ninth IPL hundred, the most by any batter in the tournament’s history.",
+    "img": "https://static.toiimg.com/photo/msid-131076038,imgsize-39736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/chase-master-virat-kohli-returns-to-form-with-century-as-rcb-gun-down-193-against-kkr/articleshow/131065794.cms",
+    "time": "2026-05-13T19:06:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Big blow for Chennai Super Kings! Jamie Overton heads home",
+    "desc": "Chennai Super Kings face another blow as all-rounder Jamie Overton returns to the UK for a thigh injury assessment. The England international was a key performer with 14 wickets and 136 runs. This latest setback adds to CSK's growing injury list, impacting their playoff aspirations despite their resilience. The team continues to battle an ongoing crisis.",
+    "img": "https://static.toiimg.com/photo/msid-131075191,imgsize-108460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-big-blow-for-chennai-super-kings-jamie-overton-heads-home-as-csks-injury-list-grows/articleshow/131075188.cms",
+    "time": "2026-05-13T18:39:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli enters uncharted territory with unique IPL batting milestone",
+    "desc": "Virat Kohli achieved a significant IPL milestone, becoming the first player with 12 seasons of 400+ runs and the most capped player with 279 appearances. He silenced critics with a crucial half-century against KKR, continuing his strong record against them. KKR posted 192/4, driven by Angkrish Raghuvanshi's career-best 71 and Rinku Singh's unbeaten 49.",
+    "img": "https://static.toiimg.com/photo/msid-131074670,imgsize-121030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-enters-uncharted-territory-with-unique-ipl-batting-milestone/articleshow/131074672.cms",
+    "time": "2026-05-13T18:17:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Parag Tyagi on rumours around Shefali Jariwala’s death",
+    "desc": "Parag Tyagi has once again reacted to the rumours surrounding wife Shefali Jariwala’s death on June 27, 2025, and dismissed several bizarre claims circulating on social media. In a recent conversation, Parag clarified that Shefali never took injections for dieting, fairness or anti-ageing purposes and urged people to stop believing “WhatsApp University.”",
+    "img": "https://static.toiimg.com/photo/msid-131074519,imgsize-59860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/parag-tyagi-breaks-silence-on-rumours-around-shefali-jariwalas-death-if-anti-ageing-injections-existed-everyone-would-take-them/articleshow/131073875.cms",
+    "time": "2026-05-13T18:12:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘It was truly heartbreaking’: Rashid, Nabi visit hospitalised Shapoor Zadran",
+    "desc": "Afghanistan's cricket stars Rashid Khan and Mohammad Nabi visited former teammate Shapoor Zadran in a Greater Noida hospital. Zadran is battling a rare, life-threatening immune disorder. Nabi shared a heartfelt update, expressing his pain at seeing the once-feared bowler hospitalized and praying for his swift recovery and return to loved ones.",
+    "img": "https://static.toiimg.com/photo/msid-131073869,imgsize-74552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/it-was-truly-heartbreaking-rashid-khan-mohammad-nabi-visit-hospitalised-shapoor-zadran-in-emotional-reunion/articleshow/131073843.cms",
+    "time": "2026-05-13T18:05:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Local transport, storage and human handling are the weakest links in conducting NEET, according to panel report",
+    "desc": "K. Radhakrishnan Committee had sought overhaul of National Testing Agency; it explained that while doing away with third-party involvement in the exam process is recommended, a district-wise assessment of infrastructure — especially in rural areas — is equally important",
+    "img": "https://th-i.thgim.com/public/incoming/yjrxem/article70975720.ece/alternates/LANDSCAPE_1200/10217_3_5_2026_19_59_55_3_DSC_9111.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/local-transport-storage-and-human-handling-are-the-weakest-links-in-conducting-neet-according-to-panel-report/article70974678.ece",
+    "time": "2026-05-13T17:51:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How the anti-defection law is going to operate in the AIADMK case?",
+    "desc": "There are two grounds for disqualification in the event of defection — when a member voluntarily gives up membership of his or her political party and when a member votes or abstains from voting contrary to any direction issued by his or her political party",
+    "img": "https://th-i.thgim.com/public/incoming/purfq1/article70975631.ece/alternates/LANDSCAPE_1200/DSC_9240.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/how-the-anti-defection-law-is-going-to-operate-in-the-aiadmk-case/article70975597.ece",
+    "time": "2026-05-13T17:40:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli’s animated celebration after first run vs KKR goes viral — Watch",
+    "desc": "Virat Kohli's first run against KKR sparked an animated celebration, a moment of immense relief after two consecutive ducks. This emotional display resonated widely, overshadowing his milestone of becoming the most-capped IPL player ever. Kohli's single, a significant personal victory, captured the attention of fans and social media alike, highlighting his passion on the field.",
+    "img": "https://static.toiimg.com/photo/msid-131072533,imgsize-21882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohlis-animated-celebration-after-first-run-vs-kkr-goes-viral-watch/articleshow/131072557.cms",
+    "time": "2026-05-13T17:33:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi Police arrests influencer 'The Skin Doctor' over posts on Kapur family",
+    "desc": "Delhi Police arrested social media influencer Dr Neelam Singh alias The Skin Doctor. She allegedly posted tweets targeting the Kapur family. This followed the death of businessman Sunjay Kapur in London. His mother had requested a criminal investigation into the circumstances of his passing. The police are continuing their investigation into the matter.",
+    "img": "https://static.toiimg.com/photo/msid-131072304,imgsize-8436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sunjay-kapur-death-case-delhi-police-arrests-influencer-the-skin-doctor-over-posts-on-kapur-family/articleshow/131072075.cms",
+    "time": "2026-05-13T17:18:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Record alert! Bhuvneshwar Kumar achieves huge milestone vs KKR",
+    "desc": "Bhuvneshwar Kumar has equalled Yuzvendra Chahal's record for the most wickets against Kolkata Knight Riders in IPL history, claiming his 33rd scalp. The veteran seamer achieved this milestone with a crucial powerplay wicket, continuing his impressive form for Royal Challengers Bengaluru. Despite KKR posting a strong total, Bhuvneshwar's achievement marked a significant personal milestone in the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-131072222,imgsize-167666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-record-alert-bhuvneshwar-kumar-achieves-huge-milestone-vs-kkr/articleshow/131072209.cms",
+    "time": "2026-05-13T17:17:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'One can wake up a Hindu, have lunch as a Muslim and go to sleep as a Christian', this argument from rationalists could lead to absurdity: SC",
+    "desc": "A rationalist group presented a novel argument in the Supreme Court. They stated Article 25 of the Constitution permits individuals to change their religious affiliation throughout the day. This interpretation sparked debate among the judges. The court considered the implications of such freedom on religious practices and traditions. The discussion highlighted the balance between individual conscience and established religious customs.",
+    "img": "https://static.toiimg.com/photo/msid-131072265,imgsize-1464911.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/one-can-wake-up-a-hindu-have-lunch-as-a-muslim-and-go-to-sleep-as-a-christian-this-argument-from-rationalists-could-lead-to-absurdity-sc/articleshow/131072225.cms",
+    "time": "2026-05-13T17:15:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC makes installation of location tracking devices, alarm buttons a must for public service vehicles",
+    "desc": "The Supreme Court has mandated the installation of Vehicle Location Tracking Devices and alarm buttons in all public service vehicles. This decision aims to enhance passenger safety, particularly for vulnerable groups. States and UTs must verify installation for fitness certificates and permits, addressing a concerningly low compliance rate.",
+    "img": "https://static.toiimg.com/photo/msid-131072248,imgsize-804301.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-makes-installation-of-location-tracking-devices-alarm-buttons-a-must-for-public-service-vehicles/articleshow/131072175.cms",
+    "time": "2026-05-13T17:15:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Learned to stop jumping in at first sign of..'",
+    "desc": "James McAvoy, known for his versatile acting roles, shared a profound life lesson learned from past relationships. He emphasized the importance of observing patterns over time rather than rushing into romance based solely on initial attraction. This wisdom, gained through experience, guides his approach to love and commitment.",
+    "img": "https://static.toiimg.com/photo/msid-131072120,imgsize-56412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-james-mcavoy-i-learned-from-a-string-of-failed-relationships-learned-to-stop-jumping-in-at-first-sign-of-attraction/articleshow/131072092.cms",
+    "time": "2026-05-13T17:08:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "State MSP bonuses fuelling excess rice procurement, warns CACP",
+    "desc": "Excessive rice stocks have accumulated in the central pool, nearly 4.4 times higher than stocking norms, due to states offering bonuses over MSP and an open-ended procurement policy. CACP recommends limiting procurement, especially in surplus states, and reviewing the open-ended policy to curb rising subsidy burdens.",
+    "img": "https://static.toiimg.com/photo/msid-131072065,imgsize-1544979.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/state-msp-bonuses-fuelling-excess-rice-procurement-warns-cacp/articleshow/131072036.cms",
+    "time": "2026-05-13T17:06:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka government withdraws 2022 hijab ban order in educational institutes, permits 'limited' religious symbols",
+    "desc": "Karnataka has withdrawn the previous BJP government's order banning hijabs in educational institutions, now permitting limited traditional and faith-based symbols like hijabs, turbans, and sacred threads. The new guidelines aim to balance discipline with constitutional values of equality and inclusion, ensuring no student is denied access for wearing permitted symbols.",
+    "img": "https://static.toiimg.com/photo/msid-131071687,imgsize-863791.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/karnataka-government-withdraws-2022-hijab-ban-order-in-educational-institutes-permits-limited-religious-symbols/articleshow/131071563.cms",
+    "time": "2026-05-13T16:55:07.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "L'Oreal Paris calls Aishwarya 'a living legend' after backlash",
     "desc": "Aishwarya Rai Bachchan’s absence from L'Oréal Paris’ latest Cannes Film Festival promotional posters created a massive buzz online, with fans expressing shock and disappointment over the actress not featuring in the campaign visuals. As the backlash grew, fans directly tagged the beauty brand on Instagram demanding an explanation. Reacting to the growing chatter, the brand’s official Instagram account called Aishwarya 'a living legend' in their response.",
@@ -54,15 +234,6 @@ const newsData_en = [
     "time": "2026-05-13T16:21:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress high command defers announcement of Kerala CM designate to May 14",
-    "desc": "High command asks Congress MLAs-elect to report to Indira Bhavan in Thiruvananthapuram, even as Congress workers congregate in front of the houses of Venugopal, Chennithala and Satheesan in anticipation of the momentous announcement from New Delhi",
-    "img": "https://th-i.thgim.com/public/incoming/crw4q9/article70975450.ece/alternates/LANDSCAPE_1200/Sathesan01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cong-high-command-defers-announcement-of-kerala-cm-designate-to-thursday/article70974983.ece",
-    "time": "2026-05-13T16:09:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We’ve missed his presence': MI star bowler on Hardik Pandya’s absence",
     "desc": "Mumbai Indians all-rounder Corbin Bosch acknowledged the significant impact of captain Hardik Pandya's absence on their disappointing IPL season. Bosch stated that the team has missed Pandya's leadership and on-field contributions, contributing to their struggles in crucial moments. The side has failed to deliver complete performances, with key moments consistently going against them.",
@@ -79,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kunickaa-sadanand-defends-trisha-krishnan-amid-trolling-over-emotional-moment-at-thalapathy-vijays-swearing-in-ceremony/articleshow/131070252.cms",
     "time": "2026-05-13T15:47:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No talks were held with DMK, says Palaniswami",
-    "desc": "Countering rebel leader C.Ve. Shanmugam’s claim, the AIADMK general secretary alleges that the rebel MLAs, including some former Ministers, voted in favour of the TVK government’s motion of confidence, driven by “a desire for ministerial positions”",
-    "img": "https://th-i.thgim.com/public/incoming/p5le7y/article70975219.ece/alternates/LANDSCAPE_1200/DSC_9246.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/no-talks-were-held-with-dmk-says-palaniswami/article70974169.ece",
-    "time": "2026-05-13T15:41:47.000Z"
   },
   {
     "cat": "World",
@@ -109,15 +271,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "List on the bourses to thrive, IT Minister Lokesh tells MSMEs",
-    "desc": "Stating that the government is working in a mission mode to create 20 lakh jobs in both the public and private sectors in five years and restore ‘Brand A.P.’, the IT Minister says the MSMEs play a major supportive role in achieving it",
-    "img": "https://th-i.thgim.com/public/incoming/zh2tq1/article70975260.ece/alternates/LANDSCAPE_1200/10745_13_5_2026_20_28_23_1_IMG_20260513_WA0064.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/list-on-the-bourses-to-thrive-it-minister-lokesh-tells-msmes/article70975085.ece",
-    "time": "2026-05-13T15:27:42.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'AIADMK has been steadily declining': CV Shanmugam targets EPS after removal from party posts",
     "desc": "AIADMK leader CV Shanmugam criticized party chief Edappadi K Palaniswami, alleging continuous electoral setbacks since he assumed leadership after Jayalalithaa's death. Shanmugam highlighted that while the party faced defeats before, Jayalalithaa had the capability to bring it back to power, a feat he claims EPS has failed to achieve, leading to worsening electoral performance.",
     "img": "https://static.toiimg.com/photo/msid-131069694,imgsize-31796.cms",
@@ -133,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-varun-chakaravarthy-is-not-playing-in-kkrs-crucial-clash-vs-rcb/articleshow/131069560.cms",
     "time": "2026-05-13T15:12:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chandrababu Naidu bats for data-driven governance to build robust economy",
-    "desc": "The Gross State Domestic Product estimates should no longer rely solely on conventional quarterly and annual assessment methods, he says, and calls for adopting real-time monitoring systems capable of tracking economic activity every month across districts and mandals",
-    "img": "https://th-i.thgim.com/public/incoming/icm6kf/article70975165.ece/alternates/LANDSCAPE_1200/10745_13_5_2026_20_6_48_1_IMG_20260513_WA0062.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidu-bats-for-data-driven-governance-to-build-robust-economy/article70975021.ece",
-    "time": "2026-05-13T15:10:05.000Z"
   },
   {
     "cat": "Business",
@@ -378,24 +522,6 @@ const newsData_en = [
     "time": "2026-05-13T12:13:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nick Pasqual found guilty of stabbing and attempted murder",
-    "desc": "Actor Nick Pasqual, known for a guest role on 'How I Met Your Mother,' has been convicted of attempted murder. A Los Angeles jury found him guilty of stabbing his former girlfriend over 20 times after breaking into her home. The conviction also includes charges of residential burglary and forcible sexual assault.",
-    "img": "https://static.toiimg.com/photo/msid-131065346,imgsize-79092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/how-i-met-your-mother-actor-nick-pasqual-found-guilty-of-stabbing-and-attempted-murder/articleshow/131065198.cms",
-    "time": "2026-05-13T12:09:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mouni-Suraj's marriage ended six months ago, haven't applied for divorce yet",
-    "desc": "Mouni Roy and Suraj Nambiar's marriage is reportedly over, with sources revealing they separated six months ago. While divorce hasn't been filed, Mouni has consulted lawyers. Speculation arose after they unfollowed each other on Instagram and Mouni removed couple photos. Reports suggest Suraj felt overshadowed by Mouni's fame.",
-    "img": "https://static.toiimg.com/photo/msid-131065234,imgsize-48858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mouni-roy-suraj-nambiars-marriage-ended-six-months-ago-but-havent-applied-for-divorce-yet-report/articleshow/131064829.cms",
-    "time": "2026-05-13T12:06:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What happens if RCB vs KKR is washed out in Raipur? Playoff race explained",
     "desc": "Rain in Raipur threatens the IPL 2026 clash between Royal Challengers Bengaluru and Kolkata Knight Riders, potentially impacting playoff hopes. A washout would significantly boost RCB's qualification chances, keeping them second. For KKR, it's a damaging blow, pushing them to seventh and demanding wins in all remaining games after an earlier tied contest.",
@@ -403,105 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-what-happens-if-rcb-vs-kkr-is-washed-out-in-raipur-playoff-race-explained/articleshow/131064900.cms",
     "time": "2026-05-13T11:59:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Kolkata Knight Riders can qualify for IPL 2026 playoffs",
-    "desc": "With only 11 days remaining in the IPL 2026 league stage, the playoff race is wide open. Kolkata Knight Riders have staged a remarkable comeback, winning four consecutive matches. They now sit eighth with nine points and a game in hand. KKR must win all their remaining four fixtures to keep their playoff hopes alive.",
-    "img": "https://static.toiimg.com/photo/msid-131064952,imgsize-241714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rcb-vs-kkr-how-kolkata-knight-riders-can-qualify-for-ipl-2026-playoffs/articleshow/131064941.cms",
-    "time": "2026-05-13T11:58:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After PM Modi’s austerity call, Amit Shah, BJP CMs cut convoy size to save fuel",
-    "desc": "Prime Minister Modi's austerity drive to cut fuel consumption has prompted a wave of similar measures across the government. Union ministers, chief ministers, and governors are significantly reducing convoy sizes and encouraging public transport. This initiative aims to curb unnecessary travel and promote economical fuel usage nationwide.",
-    "img": "https://static.toiimg.com/photo/msid-131064523,imgsize-1006128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/after-pm-modis-austerity-call-amit-shah-bjp-cms-cut-convoy-size-to-save-fuel/articleshow/131063810.cms",
-    "time": "2026-05-13T11:38:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don’t know how Vaibhav Sooryavanshi will last': AB de Villiers raises alarm",
-    "desc": "AB de Villiers lauded Rajasthan Royals' 15-year-old Vaibhav Sooryavanshi's white-ball prowess, but cautioned that his long-term success hinges on adapting to multi-format cricket. While Sooryavanshi's IPL and U19 numbers are exceptional, de Villiers stressed the need for exposure to ODIs and Tests to truly test his mettle and uncover new layers of his game.",
-    "img": "https://static.toiimg.com/photo/msid-131063841,imgsize-88610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-i-dont-know-how-vaibhav-sooryavanshi-will-last-ab-de-villiers-raises-alarm-over-rr-prodigy/articleshow/131063775.cms",
-    "time": "2026-05-13T11:31:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'EPS has no such idea': Rebel AIADMK MLA Shanmugam turns 'betrayer' charge on party chief",
-    "desc": "AIADMK faces a severe internal crisis as a faction of MLAs, led by C.V. Shanmugam, openly rebelled against party chief Edappadi Palaniswami. They allege EPS explored aligning with the DMK and abandoned the party's core anti-DMK stance.",
-    "img": "https://static.toiimg.com/photo/msid-131063800,imgsize-819901.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eps-has-no-such-idea-rebel-aiadmk-mla-shanmugam-turns-betrayer-charge-on-party-chief/articleshow/131062887.cms",
-    "time": "2026-05-13T11:08:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The Siraj-Rabada powerplay blueprint: Test-match lengths, T20 destruction",
-    "desc": "Mohammad Siraj and Kagiso Rabada have become IPL 2026's most lethal new-ball pair, bowling the entire powerplay in five consecutive games. Their relentless 'Test-match length' bowling, consistently hitting good and back-of-length areas, ripped through SRH's top order, claiming 4 wickets within the first 6 overs. This bowling prowess has been the driving force behind Gujarat Titans' success this season.",
-    "img": "https://static.toiimg.com/photo/msid-131063471,imgsize-158738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-the-siraj-rabada-powerplay-blueprint-test-match-lengths-t20-destruction/articleshow/131063313.cms",
-    "time": "2026-05-13T10:55:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli’s strong record against KKR faces toughest challenge in Sunil Narine",
-    "desc": "Virat Kohli, IPL's leading run-scorer, faces Kolkata Knight Riders in IPL 2026. Despite a strong season, he seeks to break a rare duck streak. Kohli boasts an impressive record against KKR, but faces a significant challenge from Sunil Narine, who has historically contained him.",
-    "img": "https://static.toiimg.com/photo/msid-131063373,imgsize-697797.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohlis-strong-record-against-kkr-faces-toughest-challenge-in-sunil-narine/articleshow/131063234.cms",
-    "time": "2026-05-13T10:53:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Assam cabinet clears draft UCC Bill, to be tabled in Assembly on May 26",
-    "desc": "Assam's cabinet has approved the Uniform Civil Code Bill, slated for introduction in the Assembly on May 26. This move aligns with the BJP's commitment to a common set of civil laws for marriage, divorce, and inheritance, aiming for legal uniformity across communities. The state government emphasises prioritising Assam's identity and development agenda while enacting this significant legislation.",
-    "img": "https://static.toiimg.com/photo/msid-131062952,imgsize-492637.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-cabinet-clears-draft-ucc-bill-to-be-tabled-in-assembly-on-may-26/articleshow/131062721.cms",
-    "time": "2026-05-13T10:36:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ISL clubs propose club-led model for operations, commercialisation",
-    "desc": "Indian Super League clubs, excluding East Bengal, have proposed a club-led model for future league operations and commercialisation. They aim to manage responsibilities, citing local market knowledge and cost-saving potential. This proposal comes ahead of a crucial meeting with the AIFF president Kalyan Chaubey on May 22.",
-    "img": "https://static.toiimg.com/photo/msid-131062288,imgsize-544801.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/isl-clubs-propose-club-led-model-for-operations-commercialisation-limit-genius-sports-scope/articleshow/131062291.cms",
-    "time": "2026-05-13T10:13:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhishek Bachchan reacts to being called 'Shambu Raje' at a traffic signal",
-    "desc": "Abhishek Bachchan is celebrating the success of 'Raja Shivaji,' where he portrays Sambhaji Shahaji Bhosale. The film's strong box office performance and the audience's emotional connection, with one fan calling him 'Shambhu Raje,' have deeply moved the actor. Bachchan's decision to join the project was heavily influenced by his trust in director Riteish Deshmukh.",
-    "img": "https://static.toiimg.com/photo/msid-131062441,imgsize-39050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-was-called-shambu-raje-at-a-traffic-signal-after-raja-shivaji-it-has-never-happened-to-me-before/articleshow/131062442.cms",
-    "time": "2026-05-13T10:13:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mulayam Singh Yadav's son Prateek poisoned? SP leader makes shock claim",
-    "desc": "Samajwadi Party leader Ravidas Mehrotra alleged that Prateek Yadav's death was not normal, suggesting poison as a possible cause due to reported bruises and his healthy lifestyle. Prateek Yadav, 38, passed away in Lucknow, with doctors declaring him brought dead at the hospital. His death has prompted condolences from political leaders across party lines.",
-    "img": "https://static.toiimg.com/photo/msid-131062321,imgsize-56618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mulayam-singh-yadavs-son-prateek-poisoned-sp-leader-makes-shock-claim/articleshow/131062213.cms",
-    "time": "2026-05-13T10:08:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Narco-terror crackdown: NIA arrests Hizb-ul-Mujahideen mastermind Iqbal Singh after extradition from Portugal",
-    "desc": "National Investigation Agency has arrested Iqbal Singh alias Shera. He is a wanted narco-terrorist. His extradition from Portugal followed diplomatic and legal efforts. Shera is considered the mastermind in a Hizb-ul-Mujahideen terror financing case. His arrest is a significant breakthrough in tackling Pakistan-backed narco-terror networks.",
-    "img": "https://static.toiimg.com/photo/msid-131061511,imgsize-118032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/narco-terror-crackdown-nia-arrests-hizb-ul-mujahideen-mastermind-iqbal-singh-after-extradition-from-portugal/articleshow/131061366.cms",
-    "time": "2026-05-13T09:40:50.000Z"
   },
   {
     "cat": "World",
@@ -522,15 +549,6 @@ const newsData_en = [
     "time": "2026-05-13T09:20:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian MBA student wins $20,000 Stanford prize for clean energy and emerging markets work",
-    "desc": "Stanford MBA graduate Sithara Rasheed received the 2026 Stanford Impact Leader Prize for her decade of work in climate finance and innovation. Her efforts at the Rockefeller Foundation, including designing the DART program and leading the eGUIDE initiative, have significantly impacted renewable energy deployment and AI planning in Africa and Asia.",
-    "img": "https://static.toiimg.com/photo/msid-131060617,imgsize-760769.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-mba-student-wins-20000-stanford-prize-for-clean-energy-and-emerging-markets-work/articleshow/131060594.cms",
-    "time": "2026-05-13T09:00:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar 2' BO day 56 [LIVE]: Ranveer Singh film nets Rs 1144.21 crore on 8th Wednesday",
     "desc": "The Revenge' continues its historic theatrical run, reaching a staggering Rs. 1,143.89 crore India net and Rs. 1,795.60 crore worldwide gross by Day 56. Currently the highest-grossing Hindi film ever, the Ranveer Singh starrer now sets its sights on surpassing 'Pushpa 2's domestic record of Rs. 1,234.10 crore. Despite entering its eighth week, the espionage thriller maintains steady momentum, fueled by powerhouse performances and a gritty narrative that has redefined Indian cinema benchmarks.",
@@ -540,15 +558,6 @@ const newsData_en = [
     "time": "2026-05-13T08:30:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bengal CM Suvendu Adhikari retains Bhabanipur, the seat where he defeated Mamata, over Nandigram",
-    "desc": "West Bengal Chief Minister Suvendu Adhikari has chosen to keep the Bhabanipur seat and will vacate Nandigram, despite winning both in the recent assembly elections. Adhikari, who previously defeated Mamata Banerjee in Nandigram, had challenged her again by contesting from Bhabanipur. He stated his inability to hold MLA positions from two constituencies and has taken his oath from Bhabanipur.",
-    "img": "https://static.toiimg.com/photo/msid-131059983,imgsize-821670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-cm-suvendu-adhikari-retains-bhabanipur-the-seat-where-he-defeated-mamata-over-nandigram/articleshow/131059802.cms",
-    "time": "2026-05-13T08:26:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. appeals court halts order declaring Trump’s global 10% tariff illegal",
     "desc": "The U.S. Court of Appeals for the Federal Circuit on May 12 issued a brief order that included an administrative stay on the CIT’s order, setting a schedule for both sides to file briefs on the matter",
@@ -556,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-appeals-court-halts-order-declaring-trumps-global-10-tariff-illegal/article70973205.ece",
     "time": "2026-05-13T08:25:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya trains for over three hours but set to miss PBKS fixture in Dharamsala",
-    "desc": "Mumbai Indians captain Hardik Pandya's intense training session fuels speculation amid his absence due to back spasms. While the team cites recovery, his vigorous workout raises questions about his availability. Pandya and stand-in skipper Suryakumar Yadav are currently away from the squad, impacting the team's forgettable season where they have already been eliminated from playoff race.",
-    "img": "https://static.toiimg.com/photo/msid-131059361,imgsize-25278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-hardik-pandya-training-mumbai-indians-vs-punjab-kings-fixture-dharamsala/articleshow/131059336.cms",
-    "time": "2026-05-13T08:19:37.000Z"
   },
   {
     "cat": "Business",
@@ -622,15 +622,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "PVR, UPL &amp; more: Top stocks on brokers' radar today",
-    "desc": "Indian Hotels saw strong Q4FY26 results with revenue up 14% and profit by 15%, driven by robust hotel operations. UPL's Q4FY26 revenue grew 18%, but earnings were impacted by provisions. Oberoi Realty's Mumbai market shows promise, while PVR reported a 24% revenue jump. Nuvama's wealth and asset servicing segments are performing well.",
-    "img": "https://static.toiimg.com/photo/msid-131053608,imgsize-59646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/buy-or-sell-stock-recommendation-by-brokers-for-may-13-2026-indian-hotels-upl-oberoi-realty-pvr-nuvama/articleshow/131053533.cms",
-    "time": "2026-05-13T03:14:59.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "The toll of structural adjustments on the global South and a case for accountability",
     "desc": "In the 1980s, IMF and World Bank put conditions on financing the global South. Decades later, many countries in the regions struggle with weak public health systems and high levels of poverty. The institutions owe reparations for the damage caused, a new paper argues.",
     "img": "https://th-i.thgim.com/public/news/tlmeq4/article70971384.ece/alternates/LANDSCAPE_1200/iStock-517252335.jpg",
@@ -664,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/pedro-almodovar-blasts-oscars-2026-for-silence-on-gaza-and-trump-says-hollywood-is-too-frightened-to-speak-out/article70968590.ece",
     "time": "2026-05-12T11:11:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "UAE's main gas complex to resume full capacity next year after attacks",
-    "desc": "ADNOC Gas said the Habshan site in the capital Abu Dhabi, which supplies gas across the UAE, was operating at 60% and \"the company is currently working towards achieving 80% restoration by the end of 2026, with full capacity restored in 2027\"",
-    "img": "https://th-i.thgim.com/public/news/national/fiecba/article70969156.ece/alternates/LANDSCAPE_1200/iStock-502090275.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uaes-main-gas-complex-to-resume-full-capacity-next-year-after-attacks/article70968997.ece",
-    "time": "2026-05-12T09:38:32.000Z"
   },
   {
     "cat": "Entertainment",
