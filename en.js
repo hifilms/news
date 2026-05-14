@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Big B stood by Amjad Khan’s family after near-fatal accident",
+    "desc": "Late actor Amjad Khan’s son Shadaab Khan recently opened up about the tragic road accident that changed his father’s life forever and revealed how Amitabh Bachchan stood firmly by the family during the difficult period. Shadaab also emotionally recalled the night his father passed away in 1992. The trauma left a deep emotional scar on him.",
+    "img": "https://static.toiimg.com/photo/msid-131103383,imgsize-33380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-stood-by-amjad-khans-family-after-near-fatal-accident-reveals-son-shadaab-khan-recalled-his-fathers-final-night/articleshow/131103378.cms",
+    "time": "2026-05-14T21:48:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The Revenge OTT release",
+    "desc": "The Revenge in a copyright dispute over the alleged unauthorised use of the iconic song “Tirchi Topiwale” from Tridev. However, the court directed Super Cassettes Industries Pvt. Ltd., popularly known as T-Series, to deposit Rs 50 lakh within four weeks before the court.",
+    "img": "https://static.toiimg.com/photo/msid-131103062,imgsize-31684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-hc-refuses-stay-on-dhurandhar-the-revenge-ott-release-in-tirchi-topiwale-copyright-case-directs-t-series-to-deposit-rs-50-lakh/articleshow/131103051.cms",
+    "time": "2026-05-14T21:14:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "One dead, several injured in landslide in Jamuria coal mines in West Bengal; many feared missing",
+    "desc": "It is reported that, during the blasting process of mining, there was “air blast” in section 27 of the Kunustoria coal mines, leading to collapse of multiple pillars and trigging a landslide. Workers alleged lack of supervision and safety measures",
+    "img": "https://th-i.thgim.com/public/news/ve1z96/article70979954.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-14%20at%209.23.09%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/one-dead-several-injured-in-landslide-in-jamuria-coal-mines-in-west-bengal-many-feared-missing/article70979054.ece",
+    "time": "2026-05-14T21:12:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shadaab recalls Salim Khan quietly paying for Amjad Khan's last rites",
+    "desc": "Actor-writer Shadaab Khan recently opened up about the emotional phase following the death of his father, legendary actor Amjad Khan, and revealed how screenwriter Salim Khan silently supported the family during the difficult time. Amjad Khan, best remembered for his iconic portrayal of Gabbar Singh in Sholay, died on July 27, 1992, at the age of 51 in Mumbai after suffering a heart attack.",
+    "img": "https://static.toiimg.com/photo/msid-131102783,imgsize-38294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amjad-khans-son-shadaab-khan-recalls-salim-khan-quietly-paying-for-his-fathers-last-rites-pathanon-ki-fitrat-hoti-hai-/articleshow/131102756.cms",
+    "time": "2026-05-14T20:12:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trading in organs illegally in Kerala, with forged documents",
+    "desc": "A State-wide raid held on May 8 exposed an extensive organ trade racket in which forged documents were used to bypass laws that plug loopholes in organ donation. Five cases were registered, nine people arrested, and fabricated documents seized. The illegal trade thrives on patients’ desperate need for transplant and the monetary benefits that come the donors’ way.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/trading-in-organs-illegally-in-kerala-with-forged-documents/article70975472.ece",
+    "time": "2026-05-14T20:10:13.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "BRICS consensus on West Asia uncertain as Iran, UAE spar at meeting",
     "desc": "BRICS foreign ministers are struggling to agree on a joint statement concerning West Asia. Tensions flared between the UAE and Iran during the meeting. Iran accused the UAE of direct involvement in aggression. India's External Affairs Minister stressed the importance of consensus for new members. The outcome of the meeting remains uncertain.",
@@ -181,15 +226,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "One dead, several injured in landslide in Jamuria coal mines in West Bengal; many feared missing",
-    "desc": "It is reported that, during the blasting process of mining, there was “air blast” in section 27 of the Kunustoria coal mines, leading to collapse of multiple pillars and trigging a landslide. Workers alleged lack of supervision and safety measures",
-    "img": "https://th-i.thgim.com/public/news/ve1z96/article70979954.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-14%20at%209.23.09%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/one-dead-several-injured-in-landslide-in-jamuria-coal-mines-in-west-bengal-many-feared-missing/article70979054.ece",
-    "time": "2026-05-14T16:37:25.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Care, courage &amp; clinical excellence take centre stage",
     "desc": "Excellence in maternity care transcends mere statistics, focusing on compassionate, respectful treatment and holistic patient well-being. The Times Future of Maternity Awards 2026 jury emphasized communication and outcome indicators over raw numbers. Winners were recognized for their commitment to quality care, from preconception to post-birth, ensuring both mother and child thrive.",
     "img": "https://static.toiimg.com/photo/msid-131098552,imgsize-1008946.cms",
@@ -205,15 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/cuba-ready-to-consider-100-million-us-aid-offer-minister/article70979428.ece",
     "time": "2026-05-14T16:32:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "111 dead as heavy rain, lightning wreak havoc across Uttar Pradesh",
-    "desc": "At least 72 injuries and 179 livestock losses reported from 26 districts as heavy rain, strong winds and thunderstorms wreak havoc; large-scale storms, lightning, and thunder strikes caused significant damage across several districts over the past 36 hours",
-    "img": "https://th-i.thgim.com/public/incoming/7rzm6b/article70977077.ece/alternates/LANDSCAPE_1200/PTI05_14_2026_000075A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-rain-storm-death-toll-updates/article70976987.ece",
-    "time": "2026-05-14T16:28:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,24 +468,6 @@ const newsData_en = [
     "time": "2026-05-14T13:07:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Zack Snyder posts old shot from ‘Wonder Woman 1854’",
-    "desc": "In a thrilling reveal, Director Zack Snyder has shared a rare black and white photograph from the 'Wonder Woman 1854' project, showcasing a group of diverse warriors. This intriguing glimpse into a storyline that didn't make the cut has sparked enthusiasm among fans, many of whom wish to see such dynamic narratives woven back into the DC universe.",
-    "img": "https://static.toiimg.com/photo/msid-131093781,imgsize-166530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zack-snyder-shares-old-shot-from-wonder-woman-1854-sparks-debate-about-dc-universe-future/articleshow/131093715.cms",
-    "time": "2026-05-14T12:41:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif Ali Khan reveals 'Main Khiladi Tu Anari' was copied from Hollywood film 'The Hard Way'",
-    "desc": "Ahead of his Netflix return in the gritty cop drama 'Kartavya', releasing on May 15, 2026, Saif Ali Khan has made a surprising admission regarding his 1994 cult classic, 'Main Khiladi Tu Anari'. The actor revealed that the film was a blatant, unauthorized copy of the 1991 Hollywood buddy-comedy 'The Hard Way', starring Michael J. Fox and James Woods. \"We just lifted it without taking any rights,\" Khan confessed, noting the irony of his journey from a \"star playing a cop\" to becoming one of India's most respected actors in uniform.",
-    "img": "https://static.toiimg.com/photo/msid-131093461,imgsize-136254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-reveals-main-khiladi-tu-anari-was-copied-from-hollywood-film-the-hard-way-we-just-lifted-it-without-taking-rights/articleshow/131093016.cms",
-    "time": "2026-05-14T12:34:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Ab toh India ke liye thodi na khelna hai...’: Kohli’s remark goes viral — watch",
     "desc": "Virat Kohli's scintillating 105* off 60 balls powered Royal Challengers Bengaluru to a six-wicket victory over Kolkata Knight Riders. The star batter's playful banter with Manish Pandey, caught on stump mic, also captured fan attention. Kohli's century propelled him past 14,000 T20 runs, making him the fastest Indian to achieve this milestone.",
@@ -466,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ab-toh-india-ke-liye-thodi-na-khelna-hai-virat-kohlis-hilarious-remark-goes-viral-watch/articleshow/131093481.cms",
     "time": "2026-05-14T12:33:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Inside Congress' 10-day showdown",
-    "desc": "After a tense 10-day wait and intense internal lobbying, VD Satheesan has been named the next Chief Minister of Kerala. The Congress-led UDF's sweeping victory in the assembly elections triggered a fierce leadership race, with supporters of Satheesan, KC Venugopal, and Ramesh Chennithala campaigning vigorously. The party high command ultimately made the decision after extensive consultations.",
-    "img": "https://static.toiimg.com/photo/msid-131093380,imgsize-56190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-vd-satheesan-became-kerala-cm-inside-congress-10-day-showdown/articleshow/131092800.cms",
-    "time": "2026-05-14T12:28:30.000Z"
   },
   {
     "cat": "World",
@@ -493,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/50-years-of-tamil-movie-annakili-the-extraordinary-journey-of-maestro-ilaiyaraaja/article70975382.ece",
     "time": "2026-05-14T11:59:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tara Sutaria stuns in a Rs 1.32 lakh outfit at Cannes 2026",
-    "desc": "Tara Sutaria turned heads at Cannes 2026 in a Rs 1.32 lakh all-black Rhea Costa ensemble at the Red Sea Film Foundation's Women In Cinema event. Her old-Hollywood inspired look sparked comparisons with Alia Bhatt's Cannes wardrobe, with netizens saying she deserves equal, if not more, attention at the festival.",
-    "img": "https://static.toiimg.com/photo/msid-131092423,imgsize-39696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/she-needs-more-attention-than-alia-bhatt-tara-sutaria-stuns-in-a-rs-1-32-lakh-all-black-outfit-at-cannes-2026/articleshow/131092423.cms",
-    "time": "2026-05-14T11:46:12.000Z"
   },
   {
     "cat": "World",
@@ -754,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/deepak-punia-says-disruption-after-the-2023-wrestlers-protest-hurt-his-career-momentum/article70968816.ece",
     "time": "2026-05-12T08:53:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The dressing room conundrum —a tight-rope walk",
-    "desc": "In team sports where, increasingly, there are as many members of the support staff as there are playing personnel, it is impossible to ‘police’ effectively; from Slapgate to vaping, the IPL has had its fair share of flashpoints, creating a bitter-sweet relationship",
-    "img": "https://th-i.thgim.com/public/sport/vhctgx/article70967227.ece/alternates/LANDSCAPE_1200/TH12ROMIBHINDER.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/the-dressing-room-conundrum-a-tight-rope-walk/article70967225.ece",
-    "time": "2026-05-11T18:49:24.000Z"
   },
   {
     "cat": "Tech",
