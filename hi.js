@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Manish Pandey's one-hand blinder leaves Virat Kohli, Tim David stunned in IPL 2026",
+    "desc": "Manish Pandey produced one of the most astonishing fielding efforts of IPL 2026 during Kolkata Knight Riders’ clash against Royal Challengers Bengaluru in Raipur. He pulled off a remarkable one-handed catch to dismiss Tim David,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/manish-pandey-s-one-hand-blinder-leaves-virat-kohli-tim-david-stunned-in-ipl-2026-watch-2026-05-14-1041054",
+    "time": "2026-05-14T02:22:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK player returns home with injury, franchise shares update ahead of LSG clash in IPL 2026",
+    "desc": "Chennai Super Kings have been dealt another injury concern at a critical stage of IPL 2026, with England all-rounder Jamie Overton heading back home for medical attention after suffering a right thigh injury. The development...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-player-returns-home-with-injury-franchise-shares-update-ahead-of-lsg-clash-in-ipl-2026-2026-05-14-1041050",
+    "time": "2026-05-14T01:41:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can Kolkata Knight Riders still qualify for IPL 2026 playoffs after defeat to RCB in Raipur?",
+    "desc": "Kolkata Knight Riders forced their way back into the IPL 2026 playoff conversation after a dramatic turnaround that seemed highly unlikely after their first six games. They were at the bottom of the table with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-kolkata-knight-riders-still-qualify-for-ipl-2026-playoffs-after-defeat-to-rcb-in-raipur-2026-05-14-1041048",
+    "time": "2026-05-14T01:14:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli matches Rohit Sharma in legendary IPL record list with century vs KKR in Raipur",
+    "desc": "Star Royal Challengers Bengaluru batter Virat Kohli once again proved his mettle in the blockbuster clash against Kolkata Knight Riders in the ongoing IPL 2026. After two consecutive ducks, the Delhi-born returned to his natural...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-matches-rohit-sharma-in-legendary-ipl-record-list-with-century-vs-kkr-in-raipur-2026-05-14-1041044",
+    "time": "2026-05-14T00:49:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli's century guides RCB home in record chase against KKR, takes team to top of IPL 2026 points table",
     "desc": "Virat Kohli smashed a stellar century in the Royal Challengers Bengaluru's 12th match of the Indian Premier League 2026 as he helped his team chase a record target of 193 against the Kolkata Knight Riders...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakravarthy-not-playing-for-kkr-in-crucial-ipl-2026-clash-against-rcb-2026-05-13-1041021",
     "time": "2026-05-13T15:16:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sreejesh slams Hockey India for removal as India U-21 coach, HI says contract 'officially over'",
-    "desc": "Two-time Olympic medallist PR Sreejesh has hit out at Hockey India for his removal from the U-21 coach position, alleging that the governing body is preferring a foreign coach in his place. Sreejesh made a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/sreejesh-slams-hockey-india-for-removal-as-india-u21-coach-hi-says-contract-officially-over-2026-05-13-1041017",
-    "time": "2026-05-13T14:59:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Warm-up fixtures for Women's T20 World Cup 2026 announced, India to play two matches",
-    "desc": "The International Cricket Council (ICC) on Wednesday announced the warm-up fixtures for the upcoming Women's T20 World Cup 2026. The tournament, which gets underway on June 12, will witness 12 teams locking horns for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/warm-up-fixtures-for-womens-t20-world-cup-2026-announced-india-to-play-two-matches-2026-05-13-1041013",
-    "time": "2026-05-13T14:09:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England announce squad for first Test against New Zealand, make seven changes from Ashes horror",
-    "desc": "England have named their squad for the first of the three Tests against New Zealand, with seven changes to the side that went down 1-4 to Australia in the Ashes. The major dropouts for this...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-squad-for-first-test-against-new-zealand-make-seven-changes-from-ashes-horror-2026-05-13-1041003",
-    "time": "2026-05-13T13:22:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is CSK's new IPL signee, Macneil Hadley Noronha, the replacement for Ramakrishna Ghosh?",
-    "desc": "Chennai Super Kings have roped in Macneil Hadley Noronha as a replacement for Ramakrishna Ghosh for the remainder of the Indian Premier League 2026. Ghosh, who made his IPL debut in the clash against the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-csks-new-ipl-signee-macneil-hadley-noronha-the-replacement-for-ramakrishna-ghosh-2026-05-13-1040989",
-    "time": "2026-05-13T11:49:58.000Z"
   }
 ];
