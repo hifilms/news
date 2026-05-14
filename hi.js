@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Hard to replace Varun'",
+    "desc": "Royal Challengers Bengaluru defeated Kolkata Knight Riders by six wickets to move to the top of the IPL 2026 points table. Batting first, the Ajinkya Rahane-led side posted 192 runs on the board, which the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hard-to-replace-varun-kkr-head-coach-abhishek-nayar-reflects-after-defeat-to-rcb-in-ipl-2026-2026-05-14-1041094",
+    "time": "2026-05-14T06:03:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Senior Australia players demand better pay, threats to compete in overseas league if demands not met: Report",
+    "desc": "Pressure is building across Australia’s domestic cricket system as senior cricketers weigh up the financial gap between the Big Bash League and overseas franchise tournaments. They have reportedly reached out to Cricket Australia with concerns...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/senior-australia-players-demand-better-pay-threats-to-compete-in-overseas-league-if-demands-not-met-report-2026-05-14-1041064",
+    "time": "2026-05-14T03:23:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England spinner retires from red-ball cricket, played Manchester Test against India in 2025",
+    "desc": "England international Liam Dawson has announced his retirement from first-class cricket with immediate effect. The Hampshire all-rounder represented the national team in four Test matches and was back in the scheme of things during India’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-spinner-retires-from-red-ball-cricket-played-manchester-test-against-india-in-2025-2026-05-14-1041060",
+    "time": "2026-05-14T03:00:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Manish Pandey's one-hand blinder leaves Virat Kohli, Tim David stunned in IPL 2026",
     "desc": "Manish Pandey produced one of the most astonishing fielding efforts of IPL 2026 during Kolkata Knight Riders’ clash against Royal Challengers Bengaluru in Raipur. He pulled off a remarkable one-handed catch to dismiss Tim David,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-celebrates-scoring-first-run-against-kkr-like-milestone-after-twin-ducks-watch-2026-05-13-1041034",
     "time": "2026-05-13T18:05:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli downs MS Dhoni's historic IPL record with milestone appearance in RCB vs KKR clash",
-    "desc": "Virat Kohli has shattered a huge MS Dhoni record with his appearance in the Royal Challengers Bengaluru vs Kolkata Knight Riders Indian Premier League 2026 clash at the Shaheed Veer Narayan Singh International Stadium, Raipur,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-downs-ms-dhonis-historic-ipl-record-with-milestone-appearance-in-rcb-vs-kkr-clash-2026-05-13-1041026",
-    "time": "2026-05-13T16:30:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarah Taylor named England men's Test fielding coach for New Zealand series in a historic moment",
-    "desc": "Former England women's cricket team wicketkeeper Sarah Taylor has been named as the fielding coach for the men's side for their upcoming three-match Test series against New Zealand. Taylor, 36, has worked previously with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sarah-taylor-named-england-mens-test-fielding-coach-for-new-zealand-series-in-a-historic-moment-2026-05-13-1041024",
-    "time": "2026-05-13T16:14:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Varun Chakravarthy not playing for KKR in crucial IPL 2026 clash against RCB?",
-    "desc": "Varun Chakravarthy missed out as Kolkata Knight Riders take on Royal Challengers Bengaluru in their 11th match of the Indian Premier League 2026 at the Shaheed Veer Narayan Singh International Stadium, Raipur on Wednesday, May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakravarthy-not-playing-for-kkr-in-crucial-ipl-2026-clash-against-rcb-2026-05-13-1041021",
-    "time": "2026-05-13T15:16:44.000Z"
   }
 ];
