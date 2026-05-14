@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India A squad for tri-series against Sri Lanka, Afghanistan announced, Vaibhav Sooryavanshi included",
+    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and announced India A’s squad for the upcoming tri-series in Sri Lanka. It is worth noting that India A...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-a-squad-for-tri-series-against-sri-lanka-afghanistan-announced-vaibhav-sooryavanshi-included-2026-05-14-1041142",
+    "time": "2026-05-14T11:01:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at HPCA Stadium in Dharamsala play?",
+    "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 will see Punjab Kings taking on Mumbai Indians. The two sides will meet at the HPCA Stadium in Dharamsala on May 14th, and both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-mi-pitch-report-how-will-surface-at-hpca-stadium-in-dharamsala-play-2026-05-14-1041137",
+    "time": "2026-05-14T10:27:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Three IPL franchises considering change in captaincy after disappointing IPL 2026",
+    "desc": "The pressure surrounding leadership decisions in IPL franchises is beginning to intensify as multiple teams prepare for internal reviews after disappointing campaigns in the 2026 season. Among the names facing the strongest scrutiny are Axar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/three-ipl-franchises-considering-change-in-captaincy-after-disappointing-ipl-2026-2026-05-14-1041126",
+    "time": "2026-05-14T08:57:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Saturday's Kolkata derby between East Bengal, Mohun Bagan can decide ISL winner, five clubs await result",
+    "desc": "The 2026 edition of the Indian Super League season has reached the business end of the tournament. Even though only a handful of games remain, the title race is wide open, as it not just...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/saturday-s-kolkata-derby-between-east-bengal-mohun-bagan-can-decide-isl-winner-five-clubs-await-result-2026-05-14-1041107",
+    "time": "2026-05-14T07:17:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Hard to replace Varun'",
     "desc": "Royal Challengers Bengaluru defeated Kolkata Knight Riders by six wickets to move to the top of the IPL 2026 points table. Batting first, the Ajinkya Rahane-led side posted 192 runs on the board, which the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/how-can-kolkata-knight-riders-still-qualify-for-ipl-2026-playoffs-after-defeat-to-rcb-in-raipur-2026-05-14-1041048",
     "time": "2026-05-14T01:14:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli matches Rohit Sharma in legendary IPL record list with century vs KKR in Raipur",
-    "desc": "Star Royal Challengers Bengaluru batter Virat Kohli once again proved his mettle in the blockbuster clash against Kolkata Knight Riders in the ongoing IPL 2026. After two consecutive ducks, the Delhi-born returned to his natural...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-matches-rohit-sharma-in-legendary-ipl-record-list-with-century-vs-kkr-in-raipur-2026-05-14-1041044",
-    "time": "2026-05-14T00:49:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli's century guides RCB home in record chase against KKR, takes team to top of IPL 2026 points table",
-    "desc": "Virat Kohli smashed a stellar century in the Royal Challengers Bengaluru's 12th match of the Indian Premier League 2026 as he helped his team chase a record target of 193 against the Kolkata Knight Riders...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohlis-century-guides-rcb-home-in-record-chase-against-kkr-takes-team-to-top-of-ipl-2026-points-table-2026-05-14-1041038",
-    "time": "2026-05-13T18:50:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli creates history, becomes first Indian to 14000 T20 runs during RCB vs KKR clash",
-    "desc": "Virat Kohli has added another feather to his illustrious cap as he completed 14000 runs in T20 cricket. Kohli achieved the feat during Royal Challengers Bengaluru's IPL 2026 clash against the Kolkata Knight Riders at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-creates-history-becomes-first-indian-to-14000-t20-runs-during-rcb-vs-kkr-clash-2026-05-13-1041037",
-    "time": "2026-05-13T18:28:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli celebrates scoring first run against KKR like milestone after twin ducks",
-    "desc": "Royal Challengers Bengaluru star batter Virat Kohli finally got off the mark after registering back-to-back ducks in the Indian Premier League 2026. Kohli hit a single off debutant Saurabh Dubey in the second innings of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-celebrates-scoring-first-run-against-kkr-like-milestone-after-twin-ducks-watch-2026-05-13-1041034",
-    "time": "2026-05-13T18:05:58.000Z"
   }
 ];

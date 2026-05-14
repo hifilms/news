@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "તૈયારી રાખજો! સોના-ચાંદી બાદ આ 5 મોટા નિર્ણય લઈ શકે છે સરકાર, જાણો શું અસર પડી શકે",
+    "desc": "હાલમાં જ પીએમ મોદીએ દેશવાસીઓને અપીલ કરી હતી કે એક વર્ષ સુધી બને એટલી સોનાના દાગીનાની ખરીદી ટાળવી. આ ઉપરાંત પેટ્રોલ ડીઝલના વપરાશને ઘટાડવા માટે પણ અપીલ કરી હતી. સોના અને ચાંદી પર તો મોટો નિર્ણય પણ લઈ લેવાયો અને ઈમ્પોર્ટ ડ્યૂટી વધારી દેવાઈ જેના લીધે ભાવ વધી ગયા. હવે એવા અનુમાનો થઈ રહ્યા છે કે સરકાર બીજા પણ કેટલાક પગલાં ભરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-gold-and-silver-possibility-that-government-can-take-some-big-action-477851 ",
+    "time": "2026-05-14T11:09:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;અમને હવે તમારી જરૂર નથી, તમે જઈ શકો છો... &amp;#039; MIનું હાર્દિક પંડ્યાને ટાટા-બાય બાય ! પૂર્વ ક્રિકેટરના નિવેદનથી હોબાળો",
+    "desc": "IPL 2026ની સિઝન મુંબઈ ઈન્ડિયન્સના કેપ્ટન હાર્દિક પંડ્યા માટે અત્યંત ખરાબ સાબિત થઈ છે. મુંબઈની ટીમ પ્લેઓફમાંથી બહાર થઈ ગઈ છે. હાર્દિક પંડ્યા હવે શંકાના ઘેરામાં છે અને ઈજાને કારણે છેલ્લી બે મેચથી પ્લેઈંગ ઈલેવનમાંથી બહાર થઈ ગયો છે. હવે એક નિવેદન સામે આવ્યું છે, જેમાં કહેવામાં આવ્યું છે કે મુંબઈએ હાર્દિકને બાય-બાય કહી દીધું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/mumbai-indians-will-release-hardik-pandya-kris-srikkanth-makes-big-claim-477845 ",
+    "time": "2026-05-14T10:22:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LPG અંગે સરકારનો મોટો નિર્ણય, ગેસ સપ્લાય માટે બનાવ્યો 40,000 કરોડનો પ્લાન",
+    "desc": "મિડિલ ઈસ્ટમાં અમેરિકા અને ઈરાન વચ્ચેના તણાવને કારણે જો હોર્મુઝ સ્ટ્રેટ (Hormuz Strait) બ્લોક થાય, તો ભારતમાં ગેસનું સંકટ ઘેરું બની શકે છે. પરંતુ ભવિષ્યમાં આવી સમસ્યા ન સર્જાય તે માટે કેન્દ્ર સરકારે એક ખાસ યોજના બનાવી છે. જો આ યોજના સફળ થશે તો ભારતને ન તો હોર્મુઝ સ્ટ્રેટની જરૂર પડશે કે ન તો ગેસ ટેન્કરોનું ટેન્શન રહેશે. ચાલો જાણીએ કે ભારત સરકારનો આ પ્લાન શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/cylinder-new-update-government-decision-regarding-lpg-40000-crore-plan-formulated-for-gas-supply-477841 ",
+    "time": "2026-05-14T09:51:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "16 પોઈન્ટ હોવા છતાં પ્લેઓફમાંથી બહાર થઈ શકે છે RCB ! આ સમીકરણે વધાર્યું ટીમનું ટેન્શન",
+    "desc": "ડિફેન્ડિંગ ચેમ્પિયન રોયલ ચેલેન્જર્સ બેંગ્લોર પોઈન્ટ ટેબલમાં ટોચના સ્થાને પહોંચી ગયું છે, તેણે 12 મેચમાંથી 8 મેચ જીતી છે. 16 પોઈન્ટ સાથે ટીમ પ્લેઓફમાં સ્થાન મેળવવા માટે મજબૂત દાવેદાર તરીકે ઉભી છે. જો કે, બાકીની મેચોના આધારે એક ચોક્કસ સમીકરણ બની રહ્યું છે, જેણે ટીમનું ટેન્શન વધાર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-playoffs-equation-rcb-may-be-out-of-playoffs-despite-having-16-points-477834 ",
+    "time": "2026-05-14T09:22:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારત પર ખતરો ! ફરી એકવાર આવી રહ્યું છે ઘાતક &amp;#039;સુપર અલ નીનો&amp;#039; ? છેલ્લે આવ્યું ત્યારે કરોડો લોકોએ ગુમાવ્યા હતા જીવ",
+    "desc": "પેસિફિક મહાસાગર પર 'સુપર અલ નીનો'નો ખતરો મંડરાઈ રહ્યો છે. છેલ્લે 1877માં આવ્યું હતું ત્યારે તેના કારણે વિશ્વભરમાં કરોડો લોકોએ જીવ ગુમાવ્યા હતા. ત્યારે ભારતના ચોમાસા, કૃષિ અને અર્થતંત્ર પર તેની કેવી વિનાશક અસર પડી શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/super-el-nino-1877-history-repeat-risk-2026-india-monsoon-impact-477825 ",
+    "time": "2026-05-14T08:42:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આનંદો...LPG પર આવ્યા એક સાથે બે સારા સમાચાર  જાણીને ઉછળી પડશો",
+    "desc": "LPG સિલિન્ડરના ભાવ વધારાની ચિંતાઓ વચ્ચે એલપીજી પર બે સારા સમાચાર આવ્યા છે. જે તમારે જાણવા ખાસ જરૂરી છે. આ ઉપરાંત આજે એલપીજી કોમર્શિયલ અને ઘરેલુ ગેસ બાટલાના શું ભાવ છે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/good-news-on-lpg-tanker-mv-sunshine-cross-hormuz-strait-and-latest-lpg-rate-in-ahmedabad-477823 ",
+    "time": "2026-05-14T08:18:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Thar ખરીદનારાઓ માટે ખુશખબર ! કંપની આ મહિને આપી રહી છે 1 લાખથી વધુનું ડિસ્કાઉન્ટ, જાણો નવી કિંમત",
+    "desc": "Thar ખરીદવાનું વિચારી રહેલા લોકો માટે સારા સમાચાર સામે આવ્યા છે. કંપની રૂપિયા 1 લાખથી વધુનું ડિસ્કાઉન્ટ ઓફર કરી રહી છે, ત્યારે આ લેખમાં જાણીશું કે કંપની કયા મોડલ પર કેટલા રૂપિયાનું ડિસ્કાઉન્ટ આપી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/mahindra-thar-roxx-discounts-more-than-1-lakh-in-may-2026-477822 ",
+    "time": "2026-05-14T07:52:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભર ઉનાળે ભયંકર આંધી તોફાન અને વરસાદે તારાજી સર્જી, યુવક હવામાં ઉડ્યો, 100થી વધુ લોકોના મોત",
+    "desc": "એક બાજુ જ્યાં ગુજરાત સહિત દેશના અનેક ભાગોમાં કાળઝાળ ગરમી છે અને હિટવેવ લોકોને હેરાન પરેશાન કરી રહી છે. લોકો ગરમીથી હેરાન પરેશાન થઈ ગયા છે. યુપીમાં બુધવારે ભારે આંધી તોફાન સાથે વરસાદ પડતા 100 જેટલા લોકોએ જીવ ગુમાવ્યા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/up-news-terrible-storm-and-heavy-rain-wreaks-havoc-many-people-died-check-latest-update-477810 ",
+    "time": "2026-05-14T07:40:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વિરાટ કોહલીએ રચ્યો ઇતિહાસ, રોહિત અને ધોનીને પણ છોડ્યા પાછળ, બનાવ્યા અનેક મહારેકોર્ડ",
+    "desc": "KKR સામેની મેચ માટે મેદાનમાં ઉતરતાની સાથે જ વિરાટ કોહલીએ IPLના ઇતિહાસમાં એક નવો રેકોર્ડ બનાવ્યો છે. પોતાની 279મી મેચ રમીને તે લીગમાં સૌથી વધુ મેચ રમનાર ખેલાડી બન્યો છે. તેણે એમએસ ધોની અને રોહિત શર્માને પણ પાછળ છોડી દીધા છે. આ ઉપરાંત કોહલીએ આ મેચમાં બીજા પણ કેટલાક રેકોર્ડ પોતાના નામે કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rcb-vs-kkr-virat-kohli-breaks-ms-dhoni-and-rohit-sharma-ipl-record-477812 ",
+    "time": "2026-05-14T06:49:18.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "380 વિકેટ, 10 હજારથી વધુ રન... સનરાઇઝર્સના ઓલરાઉન્ડરે IPL 2026 વચ્ચે અચાનક નિવૃત્તિની કરી જાહેરાત",
     "desc": "ઈંગ્લેન્ડના અનુભવી સ્પિન ઓલરાઉન્ડર લિયામ ડોસને અચાનક ફર્સ્ટ-ક્લાસ ક્રિકેટમાંથી નિવૃત્તિની જાહેરાત કરીને બધાને ચોંકાવી દીધા છે. 36 વર્ષીય ડોસન હવે ફક્ત સફેદ બોલની ક્રિકેટ રમતો જોવા મળશે. સનરાઇઝર્સ ઇસ્ટર્ન કેપ તરફથી રમતા ડોસને પોતાની લાંબી કારકિર્દી દરમિયાન 218 ફર્સ્ટ-ક્લાસ મેચોમાં 380 વિકેટ લીધી અને 10,828 રન બનાવ્યા છે.",
@@ -270,24 +351,6 @@ const newsData_gu = [
     "time": "2026-05-13T02:26:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોણ છે રાધાન પંડિત? જેમને તમિલનાડુના CM વિજયે બનાવ્યા તેમના OSD, જયલલિતા સાથે પણ છે ખાસ કનેક્શન!",
-    "desc": "તમિલનાડુના મુખ્યમંત્રી વિજય થલાપતિએ જ્યોતિષી રાધાન પંડિતને તેમના OSD (ઓફિસર ઓન સ્પેશિયલ ડ્યુટી) તરીકે નિયુક્ત કર્યા છે. રાધાન પંડિતે વિજયની પાર્ટીની ઐતિહાસિક જીતની જાહેરાત અગાઉથી જ કરી દીધી હતી. આ ઉપરાંત તેમણે વિજયના શપથ ગ્રહણનો સમય પણ નક્કી કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-is-radhan-pandit-he-was-made-osd-by-tamil-nadu-cm-vijay-and-also-has-a-special-connection-with-jayalalithaa-477615 ",
-    "time": "2026-05-12T17:47:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મંત્રીઓની મુસાફરી પર લગામ, અધિકારીઓને સૂચના! ઇંધણ બચાવવા માટે સરકારની મોટી તૈયારી",
-    "desc": "પીએમ મોદીએ દેશના લોકોને ઈંધણ બચાવવાની અપીલ કરી છે. સાથે જ વર્ક ફ્રોમ હોમ માટે પણ અનુરોધ કર્યો છે. હવે સરકાર પોતાના મંત્રીઓ અને અધિકારીઓ પર પણ આવા જ પ્રતિબંધો લાગુ કરવા જઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/restrictions-on-ministers-travel-instructions-to-officials-government-big-preparations-to-save-fuel-477605 ",
-    "time": "2026-05-12T15:41:08.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "રિમોટ વગર સ્પ્લિટ એસી કેવી રીતે ચાલુ કરવું? 99% લોકો નથી જાણતા આ ટ્રિક",
     "desc": "ઘણા લોકો બેટરી ખતમ થઈ જાય છે અથવા રિમોટ ખોવાઈ જાય છે ત્યારે ચિંતિત થઈ જાય છે. પરંતુ ગભરાવાની કોઈ જરૂર નથી. દરેક સ્પ્લિટ એસીમાં એક નાનું, છુપાયેલું બટન હોય છે જેનાથી તમે ACને સરળતાથી ચાલુ કરી શકો છો.",
@@ -324,15 +387,6 @@ const newsData_gu = [
     "time": "2026-05-12T12:21:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "આ વર્ષે સમય કરતાં વહેલું આવશે ચોમાસું, આ વિસ્તારોમાં વાવાઝોડા સાથે વરસાદની આગાહી",
-    "desc": "દેશમાં ચોમાસું સમય કરતાં વહેલું આવી શકે છે. સામાન્ય રીતે ચોમાસું 1 જૂન સુધીમાં કેરળ પહોંચે છે. જો કે, આ વખતે તે વહેલું આવી શકે છે. હવામાન નિષ્ણાતો માને છે કે દક્ષિણ-પૂર્વ બંગાળની ખાડી અને અંદામાન સમુદ્રમાં હવામાન ચોમાસાની વહેલી શરૂઆત માટે હવામાન અનુકૂળ સાબિત થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/early-monsoon-alert-in-india-weather-update-rainfall-prediction-monsoon-2026-477589 ",
-    "time": "2026-05-12T11:57:43.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "કલાકો સુધી ચાલ્યા પછી પણ રૂમ ઠંડો નથી કરતુ AC, હોઈ શકે છે આ કારણ, જાણો",
     "desc": "જ્યારે કાળઝાળ ગરમીમાં એસી યોગ્ય રીતે કામ ન કરે, ત્યારે તે તકલીફ પેદા કરી શકે છે. કેટલાક લોકો ફરિયાદ કરે છે કે કલાકો સુધી એસી ચલાવ્યા પછી પણ ઠંડુ થતું નથી. જાણો તેનું કારણ શું છે અને તેને કેવી રીતે ઠીક કરી શકાય, આ લેખમાં અમે તમને જણાવીશું.",
@@ -340,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ac-does-not-cool-the-room-even-after-running-for-hours-this-could-be-the-reason-know-this-477571 ",
     "time": "2026-05-12T10:37:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું દેશમાં લાગશે લૉકડાઉન? PM મોદીની પેટ્રોલ-ડીઝલ બચાવવાની અપીલ પર પેટ્રોલિયમ મંત્રીની પ્રતિક્રિયા",
-    "desc": "પ્રધાનમંત્રી મોદીએ ઈરાન યુદ્ધ વચ્ચે લોકોને પેટ્રોલ-ડીઝલ બચાવવાની અપીલ કરી છે. પીએમ મોદીએ 24 કલાકમાં બે વખત દેશવાસીઓને આ પ્રકારની અપીલ કરી છે. ઈરાન યુદ્ધને કારણે દુનિયામાં ક્રૂડની સપ્લાય ટાઇટ થવાને કારણે તેની કિંમતમાં તેજી આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-is-the-status-of-petrol-and-diesel-stocks-in-the-country-petroleum-minister-hardeep-singh-puri-gave-answer-477563 ",
-    "time": "2026-05-12T10:17:24.000Z"
   },
   {
     "cat": "Sports",
@@ -367,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/government-is-planing-to-stop-lpg-subsidy-those-whose-annual-income-is-more-than-10-lakhs-477547 ",
     "time": "2026-05-12T09:21:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "GPS ટ્રેકર, સ્ટ્રોન્ગ કંટ્રોલ રૂમ અને કડક સુરક્ષા, છતાં કેમ લીક થઈ ગયું NEET નું પેપર?",
-    "desc": "નીટ યુજી પરીક્ષા રદ્દ થઈ ગઈ છે. આ પહેલા લીકને લઈને બબાલ શરૂ થઈ ગઈ છે. આવો તે સમજવાનો પ્રયાસ કરીએ કે પરીક્ષાનું પેપર કઈ રીતે તૈયાર કરવામાં આવે છે અને સ્ટ્રોન્ગ રૂમ શું હોય છે, અહીં પેપર હાઈ સિક્યોરિટીમાં રાખવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gps-trackers-a-robust-control-room-and-tight-security-how-then-did-the-neet-exam-paper-get-leaked-477559 ",
-    "time": "2026-05-12T09:16:54.000Z"
   },
   {
     "cat": "Business",
@@ -466,24 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-playoffs-scenario-dc-and-kkr-in-danger-of-elimination-477418 ",
     "time": "2026-05-11T10:17:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પંજાબ કિંગ્સ vs દિલ્હી કેપિટલ્સ મેચ પર વરસાદનો ખતરો ! જો મેચ રદ થાય તો કોને થશે ફાયદો ?",
-    "desc": "IPL 2026ની 55મી મેચમાં આજે 11 મેના રોજ પંજાબ કિંગ્સ અને દિલ્હી કેપિટલ્સ ટકરાશે. આ મેચ ધર્મશાળાના HPCA સ્ટેડિયમ ખાતે સાંજે 7:30 વાગ્યે શરૂ થશે. મેચ દરમિયાન હવામાન કેવું રહેશે તે અંગે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/dharmashala-weather-report-who-will-benefit-if-the-pbks-vs-dc-match-is-cancelled-477402 ",
-    "time": "2026-05-11T09:00:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI સામેની મેચ દરમિયાન RCBના આ ખેલાડીએ કરી અશ્લીલ હરકત, IPL 2026માં રમવા પર લાગશે બેન ?",
-    "desc": "IPL 2026 દરમિયાન RCB અને MI વચ્ચે એક રોમાંચક મેચ રમાઈ હતી. આ મેચ દરમિયાન ટિમ ડેવિડે એક અશ્લીલ હરકત કરી હતી, જેનો એક વીડિયો સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે. ડેવિડે IPLના નિયમોનું ઉલ્લંઘન કર્યું છે, જેના માટે તેને શિસ્તભંગની કાર્યવાહીનો સામનો કરવો પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-rcb-vs-mi-match-tim-david-obscene-gesture-sparks-controversy-477399 ",
-    "time": "2026-05-11T08:16:29.000Z"
   },
   {
     "cat": "Tech",
@@ -655,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/now-a-device-has-been-developed-that-can-read-peoples-minds-know-how-it-works-476620 ",
     "time": "2026-05-05T14:15:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હોન્ડાની આ કાર પર મળી રહ્યું છે લાખોનું ડિસ્કાઉન્ટ ! રૂપિયા 2.12 લાખ સુધીની થશે બચત",
-    "desc": "જો તમે હોન્ડા કાર ખરીદવાનું વિચારી રહ્યા છો, તો આ તક તમારા માટે શાનદાર છે. મે 2026માં કંપની તેની ફેમસ કાર પર લાખો રૂપિયાનું ડિસ્કાઉન્ટ ઓફર કરી રહી છે, જેમાં કેટલાક મોડેલો પર ₹2 લાખથી વધુનું ડિસ્કાઉન્ટ મળી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/honda-cars-discount-may-2026-honda-elevate-honda-city-476602 ",
-    "time": "2026-05-05T12:30:13.000Z"
   },
   {
     "cat": "Entertainment",
