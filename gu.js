@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ગમે ત્યારે વધી શકે છે પેટ્રોલ-ડીઝલ-ગેસના ભાવ, પેટ્રોલમાં ₹14 અને ડીઝલમાં ₹42ની ખોટ",
+    "desc": "બ્લૂમબર્ગનો રિપોર્ટ અને પેટ્રોલિયમ મંત્રાલયના હરદીપ પુરીના શબ્દો પર નજર કરીએ તો દેશમાં ગમે ત્યારે પેટ્રોલ-ડીઝલના ભાવ વધી શકે છે, નાગરિકો માટે બ્લૂમબર્ગનો રિપોર્ટ એક ચેતવણી સમાન છે. રિપોર્ટ કહે છે કે, ભારતની પેટ્રોલિયમ કંપનીઓ હાલમાં ભારે નુકસાનીનો સામનો કરી રહી છે. આ સંજોગોમાં પેટ્રોલ, ડીઝલ અને ગેસ સિલિન્ડરના ભાવ વધી શકે છે. તો જાણો આ સંકટ વચ્ચે ભારત પાસે કેટલો જથ્થો ઉપલબ્ધ છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-gas-prices-may-increase-anytime-in-india-477884 ",
+    "time": "2026-05-14T14:00:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ચીન પહોંચેલા અમેરિકી અધિકારી કેમ ન લઈ ગયા પોતાના ફોન-લેપટોપ, જાસૂસીનો ડર કે અન્ય કારણ?",
+    "desc": "ચીનમાં અમેરિકી અધિકારીઓએ ડિજિટલ લોકડાઉનની સાથે પ્રવેશ કર્યો. ચીનની યાત્રા દરમિયાન ટ્રમ્પની સાથે ઘણા અધિકારી પોતાના પર્સનલ ફોન અને લેપટોપ લઈ ગયા નથી. તેની જર્યાએ તે એવી ડિવાઇસ લઈ ગયા, જેમાં જરૂરી ડેટા નહતો જેથી જાસૂસી અને ડેટા ચોરી જેવી સમસ્યાથી બચી શકાય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-did-us-officials-arriving-in-china-not-bring-their-phones-and-laptops-trump-digital-lockdown-477885 ",
+    "time": "2026-05-14T13:52:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Petrol- Diesel Price Hike: ભારતમાં કઈ રીતે નક્કી થાય છે પેટ્રોલ-ડીઝલના ભાવ? ક્યારે થાય છે રેટની સમીક્ષા, અહીં સમજો ગણિત",
+    "desc": "ઈરાન સંકટને કારણે પેટ્રોલ અને ડીઝલના ભાવમાં વધારો જોવા મળી રહ્યો છે. તેવામાં ઘણા લોકોના મનમાં સવાલ છે કે આખરે આ બધા તેલના ભાવ કઈ રીતે નક્કી થાય છે અને તેની સમીક્ષા ક્યારે કરવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/who-decides-the-price-of-petrol-and-diesel-in-india-how-is-the-price-review-done-477869 ",
+    "time": "2026-05-14T12:42:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઓઈલ સંકટ ભારતના અર્થતંત્ર પર કેટલો મોટો ખતરો ? સરકાર કેમ કરી રહી છે પેટ્રોલ-ડીઝલ બચાવવાની અપીલ, શું દેશ પર તોળાઈ રહ્યું છે સંકટ ?",
+    "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થવાથી ગ્લોબલ ઓઈલ સપ્લાય ચેઈન પર મોટી અસર પડી રહી છે. પરિસ્થિતિ હવે શરૂઆતમાં ધારણા કરતાં પણ વધુ ગંભીર લાગે છે. ત્યારે જો ઈરાન અને અમેરિકા વચ્ચેનું યુદ્ધ લાંબુ ચાલશે અને હોર્મુઝ સ્ટ્રેટનો નીવેડો નહીં આવે તો ભારતના અર્થતંત્ર માટે કેટલો મોટો ખતરો છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/crude-oil-crisis-impact-on-india-economy-government-appealing-to-save-fuel-477867 ",
+    "time": "2026-05-14T12:23:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રીલંકા પ્રવાસ માટે ટીમ ઈન્ડિયાની જાહેરાત, 15 વર્ષીય વૈભવ સૂર્યવંશીની એન્ટ્રી, બદલાઈ ગયો કેપ્ટન !",
+    "desc": "BCCIએ જૂન 2026માં શ્રીલંકામાં યોજાનારી ત્રિકોણીય શ્રેણી માટે ભારત 'A' ટીમની જાહેરાત કરી છે. તિલક વર્માને કેપ્ટનશીપ સોંપવામાં આવી છે, જ્યારે રિયાન પરાગ વાઈસ-કેપ્ટન હશે. વૈભવ સૂર્યવંશી, પ્રિયાંશ આર્ય અને અંશુલ કંબોજ જેવા યુવા ખેલાડીઓને ટીમમાં તક આપવામાં આવી છે. શ્રીલંકા 'A' અને અફઘાનિસ્તાન 'A' પણ શ્રેણીમાં ભાગ લેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-a-squad-for-sri-lanka-tri-series-captain-tilak-varma-vaibhav-sooryavanshi-477853 ",
+    "time": "2026-05-14T11:31:09.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "તૈયારી રાખજો! સોના-ચાંદી બાદ આ 5 મોટા નિર્ણય લઈ શકે છે સરકાર, જાણો શું અસર પડી શકે",
     "desc": "હાલમાં જ પીએમ મોદીએ દેશવાસીઓને અપીલ કરી હતી કે એક વર્ષ સુધી બને એટલી સોનાના દાગીનાની ખરીદી ટાળવી. આ ઉપરાંત પેટ્રોલ ડીઝલના વપરાશને ઘટાડવા માટે પણ અપીલ કરી હતી. સોના અને ચાંદી પર તો મોટો નિર્ણય પણ લઈ લેવાયો અને ઈમ્પોર્ટ ડ્યૂટી વધારી દેવાઈ જેના લીધે ભાવ વધી ગયા. હવે એવા અનુમાનો થઈ રહ્યા છે કે સરકાર બીજા પણ કેટલાક પગલાં ભરી શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -279,15 +324,6 @@ const newsData_gu = [
     "time": "2026-05-13T07:35:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM મોદીએ પોતે કરી શરૂઆત, કાફલામાં ઘટશે ગાડીઓ, જાણો હવે કેટલી ગાડીઓ અને કમાન્ડો રહેશે?",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચેની યુદ્ધ જેવી સ્થિતિ હજું થાળે પડી નથી. હોર્મુઝ સંકટ પણ યથાવત છે ત્યારે આ બધા વચ્ચે પીએમ મોદીએ દેશવાસીઓને ઈંધણ અને સોનાનો વપરાશ ઘટાડવા માટે અપીલ કરી હતી. જેને લઈને પીએમ મોદીએ પોતે પણ એક મોટો નિર્ણય લીધો છે. પીએમ મોદીના કાફલાને ઘટાડવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-in-action-mode-the-size-of-convoy-will-be-reduced-to-save-fuel-477667 ",
-    "time": "2026-05-13T06:42:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "રેલવે,બેંક બાદ હવે આ સરકારી કર્મચારીઓનું વધ્યું મોંઘવારી ભથ્થું, DA 60% એ પહોંચ્યું; જાણો પગારમાં કેટલો થશે વધારો",
     "desc": "ગ્રામીણ ડાક સેવકોના લાખો (GDS) કર્મચારીઓના મોંઘવારી ભથ્થા (DA) માં વધારો કરવામાં આવ્યો છે. ગ્રામીણ ડાક સેવકો (GDS) ના DA (DPS) ને 58% થી વધારીને 60% કરવામાં આવ્યું છે. 1 જાન્યુઆરી, 2026 થી તેમને બેસિક ટાઈમ રિલેટેડ કન્ટીન્યૂટી એલાઉન્સ પર 60 ટકા મોંઘવારી ભથ્થું મળશે.",
@@ -322,24 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/work-from-home-in-13-countries-foreign-travel-banned-in-some-what-decisions-did-countries-take-to-save-fuel-know-477642 ",
     "time": "2026-05-13T04:10:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સપા નેતા અખિલેશ યાદવને મોટો ઝટકો, ભાઈ પ્રતિકનું નિધન, છેલ્લી ઈન્સ્ટાગ્રામ પોસ્ટ થઈ વાયરલ",
-    "desc": "ભાજપના નેતા અપર્ણા યાદવના પતિ અને મુલાયમ સિંહ યાદવના પુત્ર પ્રતિક યાદવનું નિધન થયું છે. તેઓ મુલાયમ સિંહ અને તેમના બીજા પત્ની સાધના ગુપ્તાના પુત્ર હતા. અપર્ણા યાદવ અને પ્રતિક યાદવ વચ્ચે તાજેતરમાં ખટરાગના સમાચારો પણ સામે આવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pratik-yadav-son-of-mulayam-singh-yadav-passes-away-viral-instagram-post-477640 ",
-    "time": "2026-05-13T03:40:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઉદયનિધિ સ્ટાલિન જ્યારે સનાતન ધર્મ વિશે ઝેર ઓક્યું, ત્યારે કેવી હતી સીએમ વિજયની પ્રતિક્રિયા ? જાણો",
-    "desc": "ભાજપના મુખ્ય પ્રવક્તા નારાયણન તિરૂપતિએ દાવો કર્યો હતો કે ડીએમકેની તાજેતરમાં સત્તા પરથી હકાલપટ્ટી આવા વિભાજનકારી વાણીકલાનું સીધું પરિણામ હતું. તિરૂપતિએ ચેતવણી આપી હતી કે જો ડીએમકે ધાર્મિક લાગણીઓનું અપમાન કરવાનું ચાલુ રાખશે, તો તમિલનાડુના લોકો તેને સંપૂર્ણપણે ભૂંસી નાખશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/when-udayanidhi-stalin-spat-venom-about-sanatan-dharma-what-was-cm-vijay-reaction-find-out-477639 ",
-    "time": "2026-05-13T03:14:08.000Z"
   },
   {
     "cat": "Business",
@@ -403,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/akshar-patel-drop-the-catch-match-fixing-allegations-know-the-truth-behind-viral-video-477562 ",
     "time": "2026-05-12T09:53:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "LPG પર મોટા સમાચાર! 7 દિવસમાં જવાબ ન આપ્યો તો સબસિડી બંધ, આવી ગયો નવો નિયમ",
-    "desc": "LPG સબસિડીને લઈને મોટા સમાચાર સામે આવ્યા છે. જો તમે પણ એલપીજી સબસિડી લઈ રહ્યાં છો અને તમારી આવક વધુ છે, તો તમારા ફોનના ઇનબોક્સ પર નજર રાખો. જી હાં, કારણ કે ગેસ એજન્સીઓ તમારી સબસિડી ખતમ કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-is-planing-to-stop-lpg-subsidy-those-whose-annual-income-is-more-than-10-lakhs-477547 ",
-    "time": "2026-05-12T09:21:57.000Z"
   },
   {
     "cat": "Business",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-ott-release-date-confirm-15-may-2026-new-movie-and-web-series-releasing-on-ott-477420 ",
     "time": "2026-05-11T10:26:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI-LSG બાદ હવે આ બે ટીમોનો વારો, IPL 2026માંથી થઈ શકે છે બહાર, પ્લેઓફની રેસ બની રોમાંચક",
-    "desc": "બે ટીમો સત્તાવાર રીતે IPL 2026 પ્લેઓફની રેસમાંથી બહાર થઈ ગઈ છે. હવે વધુ ટીમો પર લટકતી તલવાર છે. હકીકતમાં આમાંથી એક ટીમ માટે આજથી જ મુશ્કેલી ઊભી થઈ શકે છે. ત્યારે આ બે ટીમો કઈ છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-playoffs-scenario-dc-and-kkr-in-danger-of-elimination-477418 ",
-    "time": "2026-05-11T10:17:04.000Z"
   },
   {
     "cat": "Tech",
@@ -628,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ksbkbt-2-upcoming-biggest-twist-what-will-be-true-face-of-niyati-and-riyansh-latest-update-ksbkbt-2-476923 ",
     "time": "2026-05-07T14:30:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન અમે અમેરિકા વચ્ચે ડીલ ફાઇનલ, પરંતુ ઇસ્લામાબાદમાં નહીં યોજાઈ બેઠક! જાણો 2 કારણ",
-    "desc": "ઇસ્લામાબાદમાં બેઠક પર સંકટના વાદળો છવાયા છે. કારણ કે જિનેવામાં બેઠકને લઈને ચર્ચા થઈ રહી છે. તો એક અમેરિકી પત્રકારને ડોનાલ્ડ ટ્રમ્પે પાકિસ્તાન જવાથી રોકી દીધા છે. ટ્રમ્પે ન્યૂયોર્ક પોસ્ટના પત્રકારને કહ્યું કે અત્યારે તમે ઇસ્લામાબાદ ન જાવો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/deal-finalized-between-iran-and-the-us%E2%80%94but-no-meeting-in-islamabad-here-are-2-reasons-476843 ",
-    "time": "2026-05-07T06:51:00.000Z"
   },
   {
     "cat": "Entertainment",

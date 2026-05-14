@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jasprit Bumrah to lead MI against PBKS, five-time champions achieve unique feat ahead of fiery clash",
+    "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 will see Mumbai Indians taking on Punjab Kings. The two sides will meet at the HPCA Stadium in Dharamsala on May 14th, and ahead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-to-lead-mi-against-pbks-five-time-champions-achieve-unique-feat-ahead-of-fiery-clash-2026-05-14-1041165",
+    "time": "2026-05-14T13:46:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings look to get back to winning ways",
+    "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 will see Punjab Kings taking on Mumbai Indians. The two sides will meet at the HPCA Stadium in Dharamsala, and while Mumbai Indians have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-mi-live-cricket-score-punjab-kings-look-to-get-back-to-winning-ways-2026-05-14-1041158",
+    "time": "2026-05-14T13:06:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chennai Super Kings name Dian Forrester as replacement signing for injured Jamie Overton",
+    "desc": "Chennai Super Kings have come forward and announced South Africa’s batting all-rounder Dian Forrester as a replacement signing for the injured Jamie Overton for the remaining IPL (Indian Premier League) 2026 season. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-name-dian-forrester-as-replacement-signing-for-injured-jamie-overton-2026-05-14-1041152",
+    "time": "2026-05-14T12:12:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India A squad for tri-series against Sri Lanka, Afghanistan announced, Vaibhav Sooryavanshi included",
     "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and announced India A’s squad for the upcoming tri-series in Sri Lanka. It is worth noting that India A...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-spinner-retires-from-red-ball-cricket-played-manchester-test-against-india-in-2025-2026-05-14-1041060",
     "time": "2026-05-14T03:00:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manish Pandey's one-hand blinder leaves Virat Kohli, Tim David stunned in IPL 2026",
-    "desc": "Manish Pandey produced one of the most astonishing fielding efforts of IPL 2026 during Kolkata Knight Riders’ clash against Royal Challengers Bengaluru in Raipur. He pulled off a remarkable one-handed catch to dismiss Tim David,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manish-pandey-s-one-hand-blinder-leaves-virat-kohli-tim-david-stunned-in-ipl-2026-watch-2026-05-14-1041054",
-    "time": "2026-05-14T02:22:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK player returns home with injury, franchise shares update ahead of LSG clash in IPL 2026",
-    "desc": "Chennai Super Kings have been dealt another injury concern at a critical stage of IPL 2026, with England all-rounder Jamie Overton heading back home for medical attention after suffering a right thigh injury. The development...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-player-returns-home-with-injury-franchise-shares-update-ahead-of-lsg-clash-in-ipl-2026-2026-05-14-1041050",
-    "time": "2026-05-14T01:41:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Kolkata Knight Riders still qualify for IPL 2026 playoffs after defeat to RCB in Raipur?",
-    "desc": "Kolkata Knight Riders forced their way back into the IPL 2026 playoff conversation after a dramatic turnaround that seemed highly unlikely after their first six games. They were at the bottom of the table with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-kolkata-knight-riders-still-qualify-for-ipl-2026-playoffs-after-defeat-to-rcb-in-raipur-2026-05-14-1041048",
-    "time": "2026-05-14T01:14:53.000Z"
   }
 ];
