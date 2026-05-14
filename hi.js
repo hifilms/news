@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mumbai Indians register stellar victory in Dharamsala, hand Punjab Kings their fifth straight defeat",
+    "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 saw Punjab Kings take on Mumbai Indians. The two sides met at the HPCA Stadium in Dharamsala on May 14th, and the game saw...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-register-stellar-victory-in-dharamsala-hand-punjab-kings-their-fifth-straight-defeat-2026-05-14-1041182",
+    "time": "2026-05-14T17:59:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Priyansh Arya joins Amabati Rayudu in elite list despite subpar start against Mumbai Indians",
+    "desc": "Punjab Kings and Mumbai Indians locked horns in the 58th game of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the HPCA Stadium in Dharamsala on May 14th, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-joins-amabati-rayudu-in-elite-list-despite-subpar-start-against-mumbai-indians-2026-05-14-1041181",
+    "time": "2026-05-14T17:32:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Priyansh Arya, Prabhsimran Singh achieve stellar feat with decent start against Mumbai Indians in Dharamsala",
     "desc": "Punjab Kings took on Mumbai Indians in the 58th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the HPCA Stadium in Dharamsala on May 14th, and the clash began...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/three-ipl-franchises-considering-change-in-captaincy-after-disappointing-ipl-2026-2026-05-14-1041126",
     "time": "2026-05-14T08:57:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Saturday's Kolkata derby between East Bengal, Mohun Bagan can decide ISL winner, five clubs await result",
-    "desc": "The 2026 edition of the Indian Super League season has reached the business end of the tournament. Even though only a handful of games remain, the title race is wide open, as it not just...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/saturday-s-kolkata-derby-between-east-bengal-mohun-bagan-can-decide-isl-winner-five-clubs-await-result-2026-05-14-1041107",
-    "time": "2026-05-14T07:17:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Hard to replace Varun'",
-    "desc": "Royal Challengers Bengaluru defeated Kolkata Knight Riders by six wickets to move to the top of the IPL 2026 points table. Batting first, the Ajinkya Rahane-led side posted 192 runs on the board, which the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hard-to-replace-varun-kkr-head-coach-abhishek-nayar-reflects-after-defeat-to-rcb-in-ipl-2026-2026-05-14-1041094",
-    "time": "2026-05-14T06:03:23.000Z"
   }
 ];

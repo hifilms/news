@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "BRICS consensus on West Asia uncertain as Iran, UAE spar at meeting",
+    "desc": "BRICS foreign ministers are struggling to agree on a joint statement concerning West Asia. Tensions flared between the UAE and Iran during the meeting. Iran accused the UAE of direct involvement in aggression. India's External Affairs Minister stressed the importance of consensus for new members. The outcome of the meeting remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-131102349,imgsize-714516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/brics-consensus-on-west-asia-uncertain-as-iran-uae-spar-at-meeting/articleshow/131102377.cms",
+    "time": "2026-05-14T19:25:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Remove import duty on cotton to ensure supply, CM Vijay urges Modi",
+    "desc": "Of late, the industry is facing severe crisis due to increase in cotton price, and consequently yarn prices. I understand this is caused primarily due to shortage of cotton production and increase in trading activity in the country, Mr. Vijay said",
+    "img": "https://th-i.thgim.com/public/incoming/rjro6e/article70980275.ece/alternates/LANDSCAPE_1200/20260512105L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/remove-import-duty-on-cotton-to-ensure-supply-cm-vijay-urges-modi/article70979198.ece",
+    "time": "2026-05-14T19:11:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "High-flying Royal Challengers feel at home in unfamiliar conditions",
+    "desc": "Though the defending champion has won only two of its five away games this season, Patidar’s men have come out on top in both their fixtures at Raipur, which is their second home venue; talisman Kohli’s remarkable run has been a key feature of RCB being on the verge of a playoff spot",
+    "img": "https://th-i.thgim.com/public/incoming/sw4o8n/article70979683.ece/alternates/LANDSCAPE_1200/11908_13_5_2026_21_5_28_1_DSC_8536.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/high-flying-royal-challengers-feel-at-home-in-unfamiliar-conditions/article70979669.ece",
+    "time": "2026-05-14T18:49:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda claims the bad publicity against him was ‘pre-planned’",
+    "desc": "Govinda recently opened up like never before during a candid chat with Mukesh Khanna. The actor spoke about turning down big-money film offers, dealing with controversies and bad publicity, as well as how he now reacts to trolling and criticism. Speaking about the time when reports claimed he was not getting work, Govinda revealed that he had actually rejected projects worth Rs 100 crore.",
+    "img": "https://static.toiimg.com/photo/msid-131101642,imgsize-29534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-claims-the-bad-publicity-against-him-was-pre-planned-reacts-to-social-media-trolling-kaam-bolega-lafaz-nahi/articleshow/131101565.cms",
+    "time": "2026-05-14T18:39:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5th straight loss leaves PBKS in must-win mode; MI register 4th win",
+    "desc": "Mumbai Indians secured a crucial six-wicket victory against Punjab Kings, keeping IPL 2026 playoff hopes alive for several teams. While RCB and GT lead the standings, KKR and PBKS face must-win scenarios. MI and LSG are officially out, but the race for the remaining playoff spots remains intensely competitive with just a few games left.",
+    "img": "https://static.toiimg.com/photo/msid-131101052,imgsize-72968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/updated-ipl-2026-points-table-after-pbks-vs-mi-match-fifth-straight-loss-leaves-pbks-in-must-win-mode-mi-register-fourth-win/articleshow/131100573.cms",
+    "time": "2026-05-14T18:11:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uttar Pradesh police invoke NSA against two accused held  during workers’ protest in Noida",
+    "desc": "The lawyers representing Satyam and Aakriti, however, said the police have not submitted any documents in the court supporting the invocation of NSA; “Further procedure is petitioned in the High Court,” said advocate Choudhary Ali Zia Kabir.",
+    "img": "https://th-i.thgim.com/public/incoming/nbgqgb/article70980193.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000245B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/uttar-pradesh-police-invoke-nsa-against-two-accused-held-during-workers-protest-in-noida/article70974836.ece",
+    "time": "2026-05-14T18:03:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suriya’s ‘Karuppu’ producer issues legal notice over leaked content; Producers Council seeks relief from Qube provider",
+    "desc": "The Tamil Producers Council has issued a letter to the film’s Qube Service Provider seeking compensation for the losses suffered by the producer due to the unauthorised activation of the Key Delivery Message, which led to the illegal screenings of the film in northern states of India",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/vu7dxv/article70980162.ece/alternates/LANDSCAPE_1200/HH77BmcbIAAucWS.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/suriya-karuppu-producer-issues-legal-notice-against-circulating-leaked-content-council-seeks-relief-from-qube-provider/article70980119.ece",
+    "time": "2026-05-14T17:47:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "V.D. Satheesan to be next Chief Minister of Kerala as Congress leadership ends suspense",
+    "desc": "AICC announced its choice at noon in Delhi after three-hour meeting between K.C. Venugopal, Rahul Gandhi, Mallikarjun Kharge; UDF meet on May 15, 2026 expected to name Ministers to be sworn in with CM on May 18, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/mgcdqt/article70977348.ece/alternates/LANDSCAPE_1200/JA08VD02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/vd-satheesan-congress-chief-minister-announcement-aicc-may-14-2026/article70977361.ece",
+    "time": "2026-05-14T17:39:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Rule needs to change ASAP’: Ashwin slams DRS after late drama in PBKS vs MI clash",
+    "desc": "Ravichandran Ashwin has demanded an urgent rule change for DRS after a controversial final-ball lbw reversal in the IPL. Punjab Kings were denied a leg-bye when an on-field 'out' decision was overturned, with Ashwin arguing the incorrect call cost them a run and the rule needs immediate IPL adoption.",
+    "img": "https://static.toiimg.com/photo/msid-131099927,imgsize-48988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rule-needs-to-change-asap-ravichandran-ashwin-slams-drs-after-late-drama-in-punjab-kings-vs-mumbai-indians/articleshow/131099828.cms",
+    "time": "2026-05-14T17:32:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Allahabad HC seeks report from CBI, ED disproportionate assets complaint against Rahul Gandhi",
+    "desc": "The court tells all parties to submit their responses within eight weeks and updated status of the complaint be included in these filings. It also tells the agencies to examine the allegations and take steps as permitted under law.",
+    "img": "https://th-i.thgim.com/public/incoming/gq6qxy/article70980156.ece/alternates/LANDSCAPE_1200/PTI05_08_2026_000296B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/allahabad-hc-seeks-report-from-cbi-ed-disproportionate-assets-complaint-against-rahul-gandhi/article70979914.ece",
+    "time": "2026-05-14T17:32:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Bruce Willis",
+    "desc": "In the film 'Bandits', Bruce Willis delivers a striking quote about the unpredictability of life that resonates deeply. The movie, which intertwines a quirky bank heist with humor and heart, features stellar performances by Willis, Cate Blanchett, and Billy Bob Thornton. Despite his retirement due to frontotemporal dementia, his legacy as a cinematic trailblazer remains cherished and celebrated.",
+    "img": "https://static.toiimg.com/photo/msid-131098352,imgsize-29590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-bruce-willis-one-of-the-things-we-liked-to-remind-ourselves-when-the-actors-dialogue-taught-us-about-taking-a-chance-on-things/articleshow/131098352.cms",
+    "time": "2026-05-14T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "10 days of ‘manthan’ for Kerala’s ‘simhasanam’: Why Congress picked VD Satheesan over KC Venugopal",
+    "desc": "After intense deliberations, VD Satheesan has been chosen as Kerala's new Chief Minister, overcoming strong contenders KC Venugopal and Ramesh Chennithala. Key factors included alliance support, grassroots sentiment, and Satheesan's vocal opposition to the incumbent government, making him the preferred choice for a stable UDF administration.",
+    "img": "https://static.toiimg.com/photo/msid-131099585,imgsize-105124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/10-days-of-manthan-for-keralas-simhasanam-why-congress-picked-vd-satheesan-over-kc-venugopal/articleshow/131099193.cms",
+    "time": "2026-05-14T17:20:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence",
+    "desc": "Calcutta High Court directed the West Bengal police to ensure that if “any citizen irrespective of his/her party affiliation is illegally thrown out of his shop/house/property etc. due to post-poll violence, he/she shall be given a safe return to his shop/house/property etc”.",
+    "img": "https://th-i.thgim.com/public/incoming/juqwbs/article70977238.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-14%20at%2011.33.00.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-appears-before-calcutta-high-court-to-argue-post-poll-violence-case/article70977256.ece",
+    "time": "2026-05-14T17:17:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI's Raj Bawa flies to his left to complete stunning catch vs PBKS",
+    "desc": "The wicket came in the 14th over when Shardul Thakur bowled a full delivery on the pads. Shedge tried to flick it towards short midwicket, but the ball went in the air. Raj Bawa moved quickly to his left and completed the catch with a dive, ending Shedge’s innings on 8 off 5 balls.",
+    "img": "https://static.toiimg.com/photo/msid-131098899,imgsize-30600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mis-raj-bawa-flies-to-his-left-to-complete-stunning-catch-in-ipl-vs-pbks-watch/articleshow/131098824.cms",
+    "time": "2026-05-14T17:06:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Is that a promotion or a demotion?’: Sreejesh hits back at Hockey India with explosive post",
+    "desc": "Hockey legend PR Sreejesh publicly challenged Hockey India's decision not to renew his junior coaching contract, questioning the federation's development program and its heavy reliance on foreign coaches. He expressed concern over the perceived demotion from chief coach to goalkeeper coach, sparking a high-profile dispute over opportunities for Indian coaching talent.",
+    "img": "https://static.toiimg.com/photo/msid-131099140,imgsize-111500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/is-that-a-promotion-or-a-demotion-pr-sreejesh-hits-back-at-hockey-india-with-explosive-post/articleshow/131099121.cms",
+    "time": "2026-05-14T17:03:10.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘Spider-Man: Brand New Day’ new poster unveiled",
     "desc": "Brand New Day' has just dropped, revealing a bold new look for Tom Holland's beloved web-slinger. Positioned four years post-'No Way Home,' Peter Parker navigates life in solitude, with his previous existence wiped clean. As he confronts dangerous new adversaries and limited means, he fights to rediscover his true self in an escalating crisis.",
@@ -127,24 +262,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Trinamool party office, clock tower demolished in West Bengal",
-    "desc": "A Kolkata Municipal Corporation team demolished a green clock tower in south Kolkata’s Garia area; in North 24 Parganas’ Naihati area, an illegal Trinamool party office was razed; authorities said the party office was constructed on land belonging to the Railways.",
-    "img": "https://th-i.thgim.com/public/incoming/ycp8pw/article70979444.ece/alternates/LANDSCAPE_1200/PTI05_14_2026_000052B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/bulldozer-razes-trinamool-party-office-clock-tower-in-bengal/article70978630.ece",
-    "time": "2026-05-14T15:38:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Construction of JSW Rayalaseema Steel plant to begin in three weeks",
-    "desc": "The integrated steel plant is coming up with a huge financial outlay of ₹4,500 crore to provide 1,000 jobs, while in the second phase, ₹11,850 crore will be pumped in to generate 1,500 more jobs",
-    "img": "https://th-i.thgim.com/public/incoming/3cw4lp/article70979784.ece/alternates/LANDSCAPE_1200/PTI12_27_2018_000098A_20572.jpg-47be7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/construction-of-jsw-rayalaseema-steel-plant-to-begin-in-three-weeks/article70979114.ece",
-    "time": "2026-05-14T15:35:55.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Kalyan Banerjee returns as Lok Sabha chief whip",
     "desc": "Mamata Banerjee has appointed Kalyan Banerjee as the Trinamool Congress's new Chief Whip in the Lok Sabha, replacing Kakoli Ghosh Dastidar. This move, following a recent electoral setback, signals the party's emphasis on political aggression and loyalty. Kalyan Banerjee's return highlights his prominent role in defending the party legally and politically during challenging times.",
     "img": "https://static.toiimg.com/photo/msid-131097588,imgsize-42620.cms",
@@ -171,15 +288,6 @@ const newsData_en = [
     "time": "2026-05-14T15:21:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SIR is weakening democracy, say activists",
-    "desc": "In 150 Assembly seats in West Bengal, the winning margin was less than voter deletions due to SIR, says Anjali Bharadwaj, questioning the fairness of the polls; vote dacoity took place openly, alleges Harsh Mander",
-    "img": "https://th-i.thgim.com/public/incoming/xekhof/article70979632.ece/alternates/LANDSCAPE_1200/MEMAU_14_5_2026_18_12_40_1_9008.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sir-is-weakening-democracy-say-activists/article70979395.ece",
-    "time": "2026-05-14T15:16:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Off Campus’ team talks about book adaptation",
     "desc": "The writer behind the viral 'Off Campus' series adaptation, Louisa Levy, discusses fan-favorite storylines and narrative choices. She explains the decision to shift the Allie and Dean romance focus to Logan for the first season, aiming to deepen his character arc. Levy emphasizes her commitment to honoring the beloved book moments for the show's dedicated fanbase.",
@@ -187,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/off-campus-writer-louisa-levy-weighs-in-on-changes-in-the-series-compared-to-book-it-just-made-more-narrative-sense/articleshow/131096856.cms",
     "time": "2026-05-14T15:08:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Online OP ticket booking system fully operational in govt. hospitals in Wayanad",
-    "desc": "The application allows users to identify hospitals with speciality doctors and book appointments easily. Information regarding laboratory tests and their rates, blood banks, pay wards, radiology services, and ambulance facilities can also be accessed instantly",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/online-op-ticket-booking-system-fully-operational-in-govt-hospitals-in-wayanad/article70978711.ece",
-    "time": "2026-05-14T15:05:28.000Z"
   },
   {
     "cat": "Business",
@@ -297,15 +396,6 @@ const newsData_en = [
     "time": "2026-05-14T13:34:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All about Michael Jackson’s estate dispute and what’s going on",
-    "desc": "Michael Jackson's estate has been embroiled in disputes since his 2009 passing. While executors John Branca and John McClain managed assets, including selling parts of his music catalog and Neverland Ranch, beneficiaries like Paris Jackson raised concerns about financial mismanagement and alleged 'skimming.' A recent legal victory for Paris saw executors ordered to return substantial bonus payments to the estate.",
-    "img": "https://static.toiimg.com/photo/msid-131093940,imgsize-42621.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/legal-dispute-surrounding-michael-jacksons-estate-from-the-legends-demise-to-paris-jacksons-legal-win/articleshow/131093940.cms",
-    "time": "2026-05-14T13:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Nikhat Zareen misses Asian Games and CWG after shock trial defeat",
     "desc": "Two-time world champion Nikhat Zareen has been surprisingly defeated in national trials, missing selection for the 2026 Commonwealth and Asian Games. Competing in the 51kg category, Zareen lost to Sakshi Chaudhary, marking a significant upset in Indian boxing. This outcome follows recent inconsistencies and a shift to a trial-based selection system.",
@@ -334,15 +424,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sunaina Roshan’s viral weight‑loss journey after hospital scare",
-    "desc": "After facing a health scare from jaundice, Sunaina Roshan opened up about her inspiring journey to wellness, fueled by the poignant realization of wanting to be present for her family. She highlighted that the real transformation started within her mindset, paving the way for physical changes that emphasized strength and resilience in pursuit of a balanced life.",
-    "img": "https://static.toiimg.com/photo/msid-131094876,imgsize-59070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshans-sister-sunaina-roshan-shares-viral-weight-loss-transformation-after-hospital-scare-fear-became-my-fuel/articleshow/131094659.cms",
-    "time": "2026-05-14T13:16:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Sharib on working more to afford wife's medical bills after Cancer relapses 6th time",
     "desc": "Actor Sharib Hashmi is supporting his wife, Nasreen, through her sixth cancer relapse, which has spread to multiple organs. Despite immense emotional and financial strain, he remains hopeful as she responds positively to chemotherapy and immunotherapy. Sharib is actively seeking more work to cover the exorbitant medical expenses, prioritizing financial stability over project quality to afford future treatments.",
     "img": "https://static.toiimg.com/photo/msid-131094707,imgsize-44400.cms",
@@ -358,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/janta-mandate-gone-for-a-toss-bjp-claims-new-kerala-cm-will-be-remote-controlled-by-iuml/articleshow/131094322.cms",
     "time": "2026-05-14T13:07:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Start catching well, please!’: Aaron Finch warns PBKS against poor fielding ahead of MI clash",
-    "desc": "Aaron Finch warns that Mumbai Indians, despite their IPL 2026 standing, are a dangerous 'nothing to lose' opponent against Punjab Kings. Finch highlighted PBKS's poor fielding, citing 19 dropped catches this season as a major concern that has cost them crucial points and jeopardized their playoff hopes.",
-    "img": "https://static.toiimg.com/photo/msid-131093787,imgsize-289922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/start-catching-well-please-aaron-finch-warns-pbks-against-poor-fielding-ahead-of-mi-clash/articleshow/131093800.cms",
-    "time": "2026-05-14T12:41:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +495,6 @@ const newsData_en = [
     "time": "2026-05-14T11:59:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "CSK sign Dian Forrester as replacement for injured Jamie Overton",
-    "desc": "Chennai Super Kings have signed South African all-rounder Dian Forrester as a replacement for the injured Jamie Overton for the remainder of IPL 2026. Forrester, a left-handed batter and right-arm pacer, brings T20 experience and a strong domestic record to the injury-hit CSK squad. The franchise hopes he can quickly fill the void as they push for a playoff spot.",
-    "img": "https://static.toiimg.com/photo/msid-131092478,imgsize-39888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-chennai-super-kings-sign-dian-forrester-as-replacement-for-injured-jamie-overton/articleshow/131092455.cms",
-    "time": "2026-05-14T11:47:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tara Sutaria stuns in a Rs 1.32 lakh outfit at Cannes 2026",
     "desc": "Tara Sutaria turned heads at Cannes 2026 in a Rs 1.32 lakh all-black Rhea Costa ensemble at the Red Sea Film Foundation's Women In Cinema event. Her old-Hollywood inspired look sparked comparisons with Alia Bhatt's Cannes wardrobe, with netizens saying she deserves equal, if not more, attention at the festival.",
@@ -466,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/what-is-trumps-project-vault/article70643464.ece",
     "time": "2026-05-14T11:22:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two days WFH, weekly 'no vehicle day': Delhi CM Rekha Gupta unveils fuel-saving steps after PM Modi's call",
-    "desc": "Delhi Chief Minister Rekha Gupta has unveiled significant austerity measures, slashing official vehicle fuel quotas by 20% and mandating Metro use for ministers and officers every Monday. A weekly 'No Vehicle Day' and a six-month ban on new vehicle purchases are also in effect.",
-    "img": "https://static.toiimg.com/photo/msid-131091450,imgsize-43932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/two-days-wfh-weekly-no-vehicle-day-delhi-cm-rekha-gupta-unveils-fuel-saving-steps-after-pm-modis-call/articleshow/131091289.cms",
-    "time": "2026-05-14T11:18:02.000Z"
   },
   {
     "cat": "Sports",
@@ -514,39 +568,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "India squads for Afghanistan Test, ODIs likely to be picked on May 19",
-    "desc": "Indian selectors are poised to finalise squads for the Afghanistan Test and subsequent ODIs on May 19. Shubman Gill is expected to lead a strong batting lineup for the Test. With Jasprit Bumrah likely to be rested for the contest that doesn't form part of the World Test Championship, plenty of fresh faces are expected to make the cut. Regarding the ODI selection, no major surprises are expected",
-    "img": "https://static.toiimg.com/photo/msid-131089525,imgsize-127326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-squads-for-afghanistan-test-odis-likely-to-be-picked-on-may-19/articleshow/131089176.cms",
-    "time": "2026-05-14T10:08:44.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Drug ban low, WTC high, now IPL blitz: Rabada reflects on roller-coaster 12 months",
     "desc": "Rabada missed a majority of last year's IPL to serve a one-month ban for cocaine abuse. But he bounced back within weeks in June 2025 to be a part of the WTC title-winning South African team",
     "img": "https://th-i.thgim.com/public/incoming/gawu17/article70977964.ece/alternates/LANDSCAPE_1200/IPL%202026%201.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/drug-ban-low-wtc-high-now-ipl-blitz-rabada-reflects-on-roller-coaster-12-months/article70977945.ece",
     "time": "2026-05-14T10:02:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Everything is made up': Pat Cummins rubbishes claims of SA20 NOC from CA",
-    "desc": "Pat Cummins has vehemently denied reports suggesting senior Australian cricketers might skip the home summer for lucrative overseas franchise leagues. While acknowledging the growing financial pull of T20 tournaments, Cummins stated that claims about SA20 NOCs and The Hundred offers are fabricated. He emphasized that current Australian players prioritize representing their country, though this commitment may not last indefinitely.",
-    "img": "https://static.toiimg.com/photo/msid-131089324,imgsize-48580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/everything-is-made-up-pat-cummins-rubbishes-claims-of-sa20-noc-from-cricket-australia/articleshow/131089251.cms",
-    "time": "2026-05-14T09:53:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S.-China summit: Taiwan issue could lead to ‘conflict’, Xi warns Trump",
-    "desc": "But beyond the pomp as he welcomed President Trump, President Xi used less effusive tones, saying the two sides “should be partners and not rivals” and highlighting the issue of self-ruled democratic Taiwan — which Beijing claims as its territory — straight off the bat",
-    "img": "https://th-i.thgim.com/public/incoming/n2sg60/article70977026.ece/alternates/LANDSCAPE_1200/China_Trump_16977.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/xi-warns-trump-taiwan-issue-could-lead-to-conflict-as-us-china-summit-starts/article70976999.ece",
-    "time": "2026-05-14T09:51:13.000Z"
   },
   {
     "cat": "Business",
@@ -585,15 +612,6 @@ const newsData_en = [
     "time": "2026-05-14T08:02:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Will Hardik Pandya play today against Punjab Kings in Dharamsala?",
-    "desc": "Mumbai Indians face Punjab Kings in Dharamsala, with captain Hardik Pandya highly unlikely to play due to back spasms. Suryakumar Yadav's availability is also uncertain as he remains in Mumbai after the birth of his child. Despite being eliminated, MI can impact Punjab's playoff hopes.",
-    "img": "https://static.toiimg.com/photo/msid-131084862,imgsize-71520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-hardik-pandya-play-today-against-punjab-kings-in-dharamsala/articleshow/131084688.cms",
-    "time": "2026-05-14T06:31:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Report",
     "desc": "India has requested the US to extend its waiver on Russian oil imports due to ongoing disruptions in the Strait of Hormuz. This waiver, crucial for stabilizing oil markets, is set to expire on May 16. Despite US pressure to reduce discounted Russian oil purchases, India prioritizes stable energy supplies, warning of economic consequences from market volatility.",
@@ -601,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-asks-us-for-waiver-on-russian-oil-as-iran-war-squeezes-energy-supply-report/articleshow/131084613.cms",
     "time": "2026-05-14T06:30:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History-maker at 12, how Faustino Oro became 'Messi of Chess'",
-    "desc": "Faustino Oro, a 12-year-old Argentine chess prodigy known as the “Messi of Chess,” has become the second-youngest Grandmaster in history. TimesofIndia.com follows his journey from learning chess during the COVID lockdown in Buenos Aires to moving to Barcelona and competing globally. Despite tougher FIDE rules, Oro’s talent, discipline, and love for the game helped him succeed.",
-    "img": "https://static.toiimg.com/photo/msid-131084186,imgsize-82222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/history-maker-at-12-how-argentine-faustino-oro-became-messi-of-chess/articleshow/131084127.cms",
-    "time": "2026-05-14T06:21:05.000Z"
   },
   {
     "cat": "World",
@@ -664,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-trading-today-on-may-14-2026-rupee-inches-towards-96-currency-touches-record-low-against-us-dollar/articleshow/131082022.cms",
     "time": "2026-05-14T04:27:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock recommendations for May 14, 2026",
-    "desc": "Grasim Industries, Hindustan Unilever, and National Aluminium Co have been shortlisted as the top stocks to buy today (May 14, 2026) by Aakash K Hindocha, Deputy Vice President - WM Research, Nuvama Professional Clients Group. The expert also shares his outlook for Nifty, and Bank Nifty.",
-    "img": "https://static.toiimg.com/photo/msid-131081302,imgsize-57514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-may-14-2026-grasim-industries-hindustan-unilever-national-aluminium-co-best-stocks-to-buy-today/articleshow/131081281.cms",
-    "time": "2026-05-14T03:08:00.000Z"
   },
   {
     "cat": "Sports",
