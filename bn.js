@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "থালাপতি জ্বরে কাঁপছে চেন্নাই, বিজয়ের জন্য ৬৫৪ কিমি পথ পায়ে হেঁটে চেন্নাইয়ে 'ফ্যান' দম্পতি",
+    "desc": "প্রিয় তারকার জন্য সবকিছুই সম্ভব! তামিলনাড়ুর নবনির্বাচিত মুখ্যমন্ত্রী থালপতি বিজয়ের সঙ্গে দেখা করতে কেরালাম থেকে চেন্নাই পর্যন্ত ৬৫৪ কিমি পায়ে হেঁটে পাড়ি দিচ্ছেন এক দম্পতি। মহম্মদ রফি ও শাহানামোলের এই 'থালাপতি প্রেম' এখন নেটপাড়ায় তুঙ্গে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/kerala-couple-650km-walk-to-meet-tamil-nadu-cm-thalapathy-vijay_654047.html ",
+    "time": "2026-05-14T14:04:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "বাংলার উচ্চশিক্ষার ভোলবদল: নয়া সরকারের কাছে উপাচার্য বিশ্বজয় চট্টোপাধ্যায়ের ৭ দফা মাস্টারপ্ল্যান",
     "desc": "বাংলার উচ্চশিক্ষাকে বিশ্বমানের উচ্চতায় নিয়ে যেতে নতুন সরকারের কাছে একগুচ্ছ যুগান্তকারী সুপারিশ পেশ করলেন অধ্যাপক ড. বিশ্বজয় চট্টোপাধ্যায়। কৃত্রিম বুদ্ধিমত্তা (AI), সেমিকন্ডাক্টর কোর্স থেকে শুরু করে ক্যাম্পাসকে রাজনীতিমুক্ত করা—রাজ্যের মেধার বিকাশ ও কর্মসংস্থান নিশ্চিত করতে এই রোডম্যাপ কি বদলে দেবে আগামীর মানচিত্র?",
@@ -16,6 +25,15 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/cm-suvendu-adhikari-meeting-star-mlas-tollywood-reform-report_653857.html ",
     "time": "2026-05-13T13:28:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
   },
   {
     "cat": "Sports",
@@ -153,6 +171,15 @@ const newsData_bn = [
     "time": "2026-05-03T05:24:28.000Z"
   },
   {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
     "cat": "World",
     "title": "প্যান্টের ভিতরে ঢুকে পা জড়িয়ে উপরে ওঠে কোবরা, দেয় ভয়ংকর ছোবল, পুরুষাঙ্গে? সাপুড়ের ভয়াল খেলা",
     "desc": "পর্যটকের শরীরে বিষক্রিয়ার স্পষ্ট লক্ষণ। তাঁর হৃদরোগে আক্রান্ত হওয়ার মতো অবস্থা হয়। তাঁকে দ্রুত হাসপাতালে নিয়ে যাওয়ার ব্যবস্থা হয়। তার আগে কৃত্রিম উপায়ে শ্বাস-প্রশ্বাস সচল করার চেষ্টাও করা হয়। কিন্তু শেষ পর্যন্ত কিছুই কাজে এল না!",
@@ -160,5 +187,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/snake-bites-tourist-tourist-dies-after-cobra-bites-in-snake-charmer-show-cobra-crawl-into-tourists-trousers-during-show-egypt_651511.html ",
     "time": "2026-04-29T10:45:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

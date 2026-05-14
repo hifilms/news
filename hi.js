@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Priyansh Arya, Prabhsimran Singh achieve stellar feat with decent start against Mumbai Indians in Dharamsala",
+    "desc": "Punjab Kings took on Mumbai Indians in the 58th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the HPCA Stadium in Dharamsala on May 14th, and the clash began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-prabhsimran-singh-achieve-stellar-feat-with-decent-start-against-mumbai-indians-in-dharamsala-2026-05-14-1041173",
+    "time": "2026-05-14T15:48:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Absolutely class': Aaron Finch hails Virat Kohli after his exceptional ton against Kolkata Knight Riders",
+    "desc": "Royal Challengers Bengaluru registered a brilliant victory against Kolkata Knight Riders in the 57th game of the ongoing IPL (Indian Premier League) 2026. After KKR posted a total of 192 runs in the first innings,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/absolutely-class-aaron-finch-hails-virat-kohli-after-his-exceptional-ton-against-kolkata-knight-riders-2026-05-14-1041170",
+    "time": "2026-05-14T14:45:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jasprit Bumrah to lead MI against PBKS, five-time champions achieve unique feat ahead of fiery clash",
     "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 will see Mumbai Indians taking on Punjab Kings. The two sides will meet at the HPCA Stadium in Dharamsala on May 14th, and ahead...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Punjab Kings look to get back to winning ways",
+    "title": "Punjab Kings post 200 runs in the first innings",
     "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 will see Punjab Kings taking on Mumbai Indians. The two sides will meet at the HPCA Stadium in Dharamsala, and while Mumbai Indians have...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hard-to-replace-varun-kkr-head-coach-abhishek-nayar-reflects-after-defeat-to-rcb-in-ipl-2026-2026-05-14-1041094",
     "time": "2026-05-14T06:03:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Senior Australia players demand better pay, threats to compete in overseas league if demands not met: Report",
-    "desc": "Pressure is building across Australia’s domestic cricket system as senior cricketers weigh up the financial gap between the Big Bash League and overseas franchise tournaments. They have reportedly reached out to Cricket Australia with concerns...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/senior-australia-players-demand-better-pay-threats-to-compete-in-overseas-league-if-demands-not-met-report-2026-05-14-1041064",
-    "time": "2026-05-14T03:23:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England spinner retires from red-ball cricket, played Manchester Test against India in 2025",
-    "desc": "England international Liam Dawson has announced his retirement from first-class cricket with immediate effect. The Hampshire all-rounder represented the national team in four Test matches and was back in the scheme of things during India’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-spinner-retires-from-red-ball-cricket-played-manchester-test-against-india-in-2025-2026-05-14-1041060",
-    "time": "2026-05-14T03:00:06.000Z"
   }
 ];
