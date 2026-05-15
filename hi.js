@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Chennai Super Kings look to maintain winning ways",
+    "desc": "Game 59 of the ongoing IPL (Indian Premier League) 2026 sees Lucknow Super Giants taking on Chennai Super Kings. The two sides meet at the Ekana Stadium in Lucknow, and it could be interesting to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-csk-live-cricket-score-chennai-super-kings-look-to-maintain-winning-ways-2026-05-15-1041297",
+    "time": "2026-05-15T13:06:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Amazing talent': Wasim Jaffer hails Tilak Varma for spectacular winning knock against Punjab Kings",
+    "desc": "Mumbai Indians registered a brilliant victory against Punjab Kings in the 58th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the HPCA Stadium in Dharamsala, and the clash saw...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wasim-jaffer-hails-tilak-varma-for-spectacular-winning-knock-against-punjab-kings-2026-05-15-1041296",
+    "time": "2026-05-15T12:50:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Reset mentally': Mark Boucher weighs in on how Punjab Kings can bounce back after five straight losses",
+    "desc": "The ongoing IPL (Indian Premier League) 2026 season has been a roller coaster ride for the 2025 finalists Punjab Kings. Led by Shreyas Iyer, the side kicked off their season with a string of victories...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/reset-mentally-mark-boucher-weighs-in-on-how-punjab-kings-can-bounce-back-after-five-straight-losses-2026-05-15-1041290",
+    "time": "2026-05-15T12:03:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC slaps Pakistan with hefty fine, hands WTC points deduction after first Test loss against Bangladesh",
     "desc": "In a major development, the ICC (International Cricket Council) has come forward and announced that they have docked eight points from Pakistan’s WTC (World Test Championship) tally and have also fined players 40 per cent...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-names-his-choice-for-india-s-t20i-captaincy-after-suryakumar-yadav-era-2026-05-15-1041210",
     "time": "2026-05-15T03:32:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh's alleged 'casual racism' against Tilak Varma goes viral, netizens react",
-    "desc": "Punjab Kings pacer Arshdeep Singh has found himself in yet another controversy after his video with Mumbai Indians batter Tilak Varma went viral. On Snapchat, he recorded a video with Tilak and Naman Dhir and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-s-alleged-casual-racism-against-tilak-varma-goes-viral-watch-2026-05-15-1041206",
-    "time": "2026-05-15T03:07:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can they still qualify?",
-    "desc": "Mumbai Indians defeated Punjab Kings by six wickets in their IPL 2026 clash at the HPCA Stadium in Dharamsala. Tilak Varma starred in the chase, scoring unbeaten 75 runs off 33 balls, while opener Ryan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-lose-control-of-playoffs-spot-after-defeat-to-mumbai-indians-how-can-they-still-qualify-2026-05-15-1041202",
-    "time": "2026-05-15T02:35:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Preity Zinta engages in long, tense discussion with Ricky Ponting after PBKS' fifth straight IPL 2026 defeat",
-    "desc": "Punjab Kings’ dominant start to IPL 2026 has unravelled dramatically, with the team suffering its fifth consecutive loss on Thursday. Their six-wicket defeat to Mumbai Indians at the HPCA Stadium in Dharamsala has left playoff...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/preity-zinta-engages-in-long-tense-discussion-with-ricky-ponting-after-pbks-fifth-straight-ipl-2026-defeat-2026-05-15-1041198",
-    "time": "2026-05-15T02:05:16.000Z"
   }
 ];

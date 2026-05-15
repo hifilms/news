@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "બાબા વેંગાની એલિયન્સ વિશે ડરામણી ભવિષ્યવાણી થઈ રહી છે વાયરલ, દુનિયામાં મચી ગયો ખળભળાટ !",
+    "desc": "બાબા વેંગાની ભવિષ્યવાણી ફરી એકવાર ચર્ચામાં આવી ગઈ છે, 161 ખાનગી ફાઈલોની માહિતી બહાર આવતાની સાથે જ બાબા વેંગા અને નોસ્ટ્રાડેમસની ભવિષ્યવાણી સાચી પડી હોવાનું લાગી રહ્યું છે અને માનવ એલિયનના સંપર્કમાં આવ્યા છે તેમ પણ લાગી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/baba-venga-scary-prophecy-about-aliens-is-going-viral-creating-a-stir-in-the-world-478000 ",
+    "time": "2026-05-15T13:05:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "17 કરોડની ચાંદી ભરેલી વેન પલટી, મુંબઈ-અમદાવાદ હાઈ-વે પર મચી અફરાતફરી",
+    "desc": "કરોડો રૂપિયાની ચાંદી લઈને ગુજરાત જઈ રહેલી એક વેન અચાનક પલટી જતા મોટો અકસ્માત થયો છે. વેન પરથી ચાલકે કાબૂ ગુમાવતા તે રસ્તા પર પલટી ગઈ હતી. ઘટનાને પગલે હાઈવે પર થોડા સમય માટે વાહનોની લાંબી કતારો લાગી ગઈ હતી",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/a-van-carrying-silver-worth-17-crore-overturned-creating-a-commotion-on-the-mumbai-ahmedabad-highway-477999 ",
+    "time": "2026-05-15T12:56:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ભારત એકલું નથી, દુનિયાના 24 દેશોએ પણ વધાર્યા પેટ્રોલ-ડીઝલના ભાવ, એક દેશમાં તો 112% ભાવ વધ્યો",
+    "desc": "દુનિયાભરમાં પેટ્રોલ-ડીઝલના ભાવમાં તેજી આવી છે. મ્યાનમાર, પાકિસ્તાન અને શ્રીલંકા સહિત અનેક દેશોમાં બળતણ મોંઘું બન્યું છે. ભારતમાં પણ આજે પેટ્રોલ-ડીઝલના ભાવ વધારાયા છે. ત્યારે વિશ્વના કયા દેશોમાં કેટલા ભાવ વધાર્યા છે તે ચાર્જ જુઓ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/global-energy-crisis-24-countries-in-world-petrol-diesel-price-hike-477988 ",
+    "time": "2026-05-15T11:55:45.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Petrol-Diesel Price: 3 રૂપિયા વધારો તો હજુ શરૂઆત...ઓઈલ કંપનીઓનો અસલ ખેલ હજુ બાકી! શું હજું મોંઘુ થઈ શકે પેટ્રોલ-ડીઝલ?",
     "desc": "આખરે જે ડર હતો તે સાચો પડ્યો અને પેટ્રોલ અને ડીઝલના ભાવ આજે 3 રૂપિયા પ્રતિ લીટર વધ્યા. જો કે લોકોને હજુ પણ આ ભાવમાં વધારો થાય તેવો ડર છે કારણ કે એવા રિપોર્ટ્સ હતા કે ભાવમાં મોટો વધારો થઈ શકે છે ત્યારે એ આશંકા હજુ પણ રહે કે શું ભાવમાં હજુ વધારો થઈ શકે છે? આવી ભીતિ રહેવા પાછળ શું કારણ એ પણ જાણો.",
@@ -70,15 +97,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/predictions-of-4-world-economists-on-economic-recession-2026-477926 ",
     "time": "2026-05-15T06:26:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભર ઉનાળે ભયંકર આંધી તોફાન અને વરસાદે તારાજી સર્જી, યુવક હવામાં ઉડ્યો, 100થી વધુ લોકોના મોત",
-    "desc": "એક બાજુ જ્યાં ગુજરાત સહિત દેશના અનેક ભાગોમાં કાળઝાળ ગરમી છે અને હિટવેવ લોકોને હેરાન પરેશાન કરી રહી છે. લોકો ગરમીથી હેરાન પરેશાન થઈ ગયા છે. યુપીમાં બુધવારે ભારે આંધી તોફાન સાથે વરસાદ પડતા 100 જેટલા લોકોએ જીવ ગુમાવ્યા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/up-news-terrible-storm-and-heavy-rain-wreaks-havoc-many-people-died-check-latest-update-477810 ",
-    "time": "2026-05-15T06:18:34.000Z"
   },
   {
     "cat": "Politics",
@@ -655,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-baleno-becomes-number-1-car-in-hatchback-segment-sells-18306-units-in-april-476978 ",
     "time": "2026-05-08T06:04:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ક્રુઝ શિપ પરથી 29 લોકો નીચે ઉતર્યા અને 12 દેશોમાં ગયા, આ વચ્ચે જહાજ પર કેવી રીતે ફેલાયો ખતરનાક હંતા વાયરસ, જુઓ Inside Story",
-    "desc": "દુનિયા હજી કોવિડમાંથી માંડ માંડ બહાર આવી છે, ત્યાં ખતરનાક સ્ટ્રેને દુનિયાની ઊંઘ ઉડાવી દીધી છે. એક ક્રુઝ શિપ પર ફેલાયેલા હંતા વાયરસે હવે આંતરરાષ્ટ્રીય સ્તર પર હડકંપ મચાવી દીધો છે. કારણ કે, આ સંક્રમણ દુનિયામા ઓછામાં ઓછા 12 દેશો સુધી પહોંચી ગયું છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/hanta-virus-spread-in-12-countries-from-26-passengers-by-mv-hondius-cruise-476976 ",
-    "time": "2026-05-08T05:37:28.000Z"
   },
   {
     "cat": "Entertainment",
