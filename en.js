@@ -1,6 +1,51 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "John Travolta wins honorary Palme d'Or win",
+    "desc": "Hollywood star John Travolta received a surprise honorary Palme d'Or at Cannes for his directorial debut, \"Propeller One-Way Night Coach.\" Visibly emotional, he called the award \"beyond the Oscar.\" Travolta, who also wrote the film based on his novel, walked the red carpet with his daughter Ella Bleu. This marks another instance of Cannes bestowing this prestigious honor unexpectedly.",
+    "img": "https://static.toiimg.com/photo/msid-131127586,imgsize-57948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/john-travolta-tears-up-over-honorary-palme-dor-at-cannes-film-festival-makes-directorial-debut-with-propeller-one-way-night-coach/articleshow/131127574.cms",
+    "time": "2026-05-15T21:29:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aalim refuses to work with celebs whose managers ‘mistreat’ them",
+    "desc": "Celebrity hairstylist Aalim Hakim has taken a strong stand against toxic behaviour in the entertainment industry, announcing that he will no longer work with celebrities whose managers allegedly disrespect or mistreat creative professionals and crew members behind the scenes. His statement quickly struck a chord with several members of the film industry, many of whom extended their support in the comments section.",
+    "img": "https://static.toiimg.com/photo/msid-131127543,imgsize-62758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aalim-hakim-refuses-to-work-with-celebrities-whose-managers-mistreat-crew-members-kajol-bobby-deol-arjun-rampal-react/articleshow/131127535.cms",
+    "time": "2026-05-15T21:02:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amjad Khan’s son Shadaab: ‘Big producers exploited strugglers'",
+    "desc": "Late actor Amjad Khan’s son Shadaab Khan has made shocking revelations about the darker side of the film industry, recalling how his father stood up against exploitation, withheld wages and alleged casting couch culture during his time as president of the Cine Artists Association. Shadaab admitted that being the son of the legendary actor was “a total disadvantage” in today’s industry and said the film world has drastically changed from what it once was.",
+    "img": "https://static.toiimg.com/photo/msid-131127368,imgsize-34404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amjad-khans-son-shadaab-khan-recalls-casting-couch-culture-in-bollywood-big-producers-exploited-strugglers-my-father-fought-for-them/articleshow/131127356.cms",
+    "time": "2026-05-15T20:13:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Monsoon to reach Kerala on May 26, says IMD",
+    "desc": "Last year, the monsoon set in over Kerala on May 24 — its earliest arrival since 2009; IMD’s operational forecasts of the date of monsoon onset over Kerala during the past 21 years (2005-2025) were proved to be correct except in 2015",
+    "img": "https://th-i.thgim.com/public/incoming/ephlb3/article70982353.ece/alternates/LANDSCAPE_1200/Clouds05.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-meteorological-department-southwest-monsoon-kerala-may-26/article70982338.ece",
+    "time": "2026-05-15T19:36:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Growing ‘attacks’on the judiciary by ‘parasites’, CJI Surya Kant says",
+    "desc": "“There are parasites in society who attack the system... they don’t get any employment and don’t have any place in the profession. Some of them become media, some of them become social media, some of them become RTI activists, and they start attacking everyone,” the CJI observed",
+    "img": "https://th-i.thgim.com/public/incoming/v7exuf/article70982997.ece/alternates/LANDSCAPE_1200/DSC_8328A.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/thousands-in-black-robes-with-doubtful-degrees-says-cji-surya-kant/article70982893.ece",
+    "time": "2026-05-15T19:26:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Trisha blushes after fan mentions Vijay at Karuppu screening",
     "desc": "Trisha Krishnan once again grabbed attention amid ongoing dating rumours with Vijay after her latest public appearance in Chennai. The actress was seen blushing and smiling when a fan asked her to convey regards to the Tamil Nadu Chief Minister, further fuelling speculation around their rumoured relationship. Though neither Vijay nor Trisha has addressed the speculation publicly, fans continue to closely track their appearances and interactions.",
     "img": "https://static.toiimg.com/photo/msid-131126701,imgsize-33538.cms",
@@ -79,15 +124,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/updated-ipl-2026-points-table-after-lsg-vs-csk-match-lucknow-super-giants-push-chennai-super-kings-to-sixth-with-commanding-win/articleshow/131124952.cms",
     "time": "2026-05-15T18:12:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJI Kant",
-    "desc": "“There are parasites in society who attack the system... they don’t get any employment and don’t have any place in the profession. Some of them become media, some of them become social media, some of them become RTI activists, and they start attacking everyone,” the CJI observed",
-    "img": "https://th-i.thgim.com/public/incoming/v7exuf/article70982997.ece/alternates/LANDSCAPE_1200/DSC_8328A.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/thousands-in-black-robes-with-doubtful-degrees-says-cji-surya-kant/article70982893.ece",
-    "time": "2026-05-15T17:39:59.000Z"
   },
   {
     "cat": "Sports",
@@ -288,6 +324,15 @@ const newsData_en = [
     "time": "2026-05-15T14:43:56.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Anurag says he's fed up of making movies, says Cannes is much more than red carpet",
+    "desc": "Filmmaker Anurag Kashyap, usually a fixture at Cannes with his films, is at the festival this year seeking clarity on cinema's future amidst AI and industry shifts. He's observing emerging filmmakers, hoping to reignite his passion. Kashyap also laments the red carpet overshadowing the actual cinematic experience, urging a return to film appreciation.",
+    "img": "https://static.toiimg.com/photo/msid-131118845,imgsize-35788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-feels-lost-is-fed-up-of-making-films-obsession-with-cannes-is-only-the-red-carpet-but-the-festival-is-beyond-that/articleshow/131118820.cms",
+    "time": "2026-05-15T14:30:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "IPL 2026 breaks records as reach crosses 1.1 billion amid thrilling playoff race",
     "desc": "IPL 2026 has shattered all previous records, attracting over 1.1 billion viewers across TV and digital platforms. The league's thrilling unpredictability has fueled unprecedented fan engagement, with digital platforms showing significant growth. Regional language viewership has surged by an impressive 42%, highlighting the tournament's expanding appeal beyond major metros.",
@@ -387,15 +432,6 @@ const newsData_en = [
     "time": "2026-05-15T12:31:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kylie Jenner talks about how everyone reacted to her pregnancy",
-    "desc": "Kylie Jenner candidly revealed her anxieties about her first pregnancy at 19, fearing her parents' reaction. She shared that Kris and Caitlyn Jenner were surprisingly supportive, with no anger expressed. Jenner emphasized her personal decision-making process and her readiness to embrace motherhood, even if alone. She also reflected on her evolving role as a mother.",
-    "img": "https://static.toiimg.com/photo/msid-131117379,imgsize-158702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kylie-jenner-reveals-kris-and-caitlyns-reaction-to-her-pregnancy-at-19-i-was-freaking-out-no-one-was-angry/articleshow/131117233.cms",
-    "time": "2026-05-15T12:13:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Youngsters like cockroaches': CJI on unemployed youth turning activists, attacking everyone",
     "desc": "Chief Justice of India Surya Kant likened some unemployed youth to \"cockroaches\" who become activists attacking institutions. He made these remarks while hearing a lawyer's plea for senior advocate designation, questioning the petitioner's conduct and social media posts. The court emphasized that senior designation is earned, not chased.",
@@ -405,15 +441,6 @@ const newsData_en = [
     "time": "2026-05-15T12:03:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The unnecessary hate..'",
-    "desc": "Alia Bhatt faced trolling at Cannes after some photographers seemingly didn't recognize her. Actress Ayesha Khan defended Bhatt, highlighting her achievements and criticizing the negativity. Despite the online criticism, Bhatt shared her Cannes look and subtly responded to a negative comment, emphasizing her presence and representation.",
-    "img": "https://static.toiimg.com/photo/msid-131117117,imgsize-37836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-khan-slams-people-trolling-alia-bhatt-as-she-comes-out-in-her-support-the-unncessary-hate-she-breathes-and-people-have-/articleshow/131117062.cms",
-    "time": "2026-05-15T12:01:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Short trip, big results: 7 crucial deals inked by PM Modi in UAE",
     "desc": "India and the UAE solidified their friendship with seven key agreements during PM Modi's visit. These pacts focus on energy security, including strategic petroleum reserves and LPG supply, alongside a significant defense partnership. Further collaborations will boost India's maritime sector and establish a supercomputer cluster, with the UAE committing $5 billion in investments.",
@@ -421,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/short-trip-big-results-7-crucial-deals-inked-by-pm-modi-in-uae/articleshow/131116535.cms",
     "time": "2026-05-15T12:01:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jennifer Aniston's Bangs Warning: Playful Instagram post goes viral; fans want fringe more",
-    "desc": "Jennifer Aniston playfully cautioned fans against cutting bangs, sharing throwback photos from past roles. Despite her warning, fans and celebrity friends lauded her enduring style, with many inspired to try the look. Aniston's iconic \"Rachel\" haircut from 'Friends' cemented her status as a hair trendsetter, a legacy she continues with her Lolavie haircare line.",
-    "img": "https://static.toiimg.com/photo/msid-131117016,imgsize-49994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-issues-fans-with-think-before-you-bang-warning-for-throwback-pictures-from-horrible-bosses-marley-me-and-friends/articleshow/131117016.cms",
-    "time": "2026-05-15T11:59:25.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/decentralise-conduct-of-neet-ug-exam-act-against-nta-ima-urges-centre-after-paper-leak/articleshow/131115704.cms",
     "time": "2026-05-15T11:13:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anupam Kher on challenging himself at 71, returning to theatre after 550 films",
-    "desc": "Veteran actor Anupam Kher, despite a prolific career of 550 films, embraces new challenges, returning to theatre with 'Jaane Pehchaane Anjaane'. He attributes his sustained excitement to a fear of failure and a refusal to take himself too seriously, constantly pushing his boundaries and making things difficult for himself to avoid complacency.",
-    "img": "https://static.toiimg.com/photo/msid-131115294,imgsize-33552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-opens-up-on-challenging-himself-at-71-and-returning-to-theatre-after-doing-550-films-i-dont-take-myself-seriously-exclusive/articleshow/131115277.cms",
-    "time": "2026-05-15T10:48:42.000Z"
   },
   {
     "cat": "Business",
@@ -583,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-retreat-as-iran-war-worries-inflation-fears-weigh-on-markets/articleshow/131109720.cms",
     "time": "2026-05-15T06:12:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s oil stock down 15% since US-Iran war; here’s what it means",
-    "desc": "Analysts believe that if supply disruptions persist for an extended period, refiners may eventually have to scale back refinery runs or reduce crude processing activity. They say this could partly explain Prime Minister Narendra Modi urging citizens to conserve fuel.",
-    "img": "https://static.toiimg.com/photo/msid-131109709,imgsize-101786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/strait-of-hormuz-uncertainty-chokes-crude-imports-indias-oil-stock-down-15-since-us-iran-war-heres-what-it-means/articleshow/131109488.cms",
-    "time": "2026-05-15T06:06:00.000Z"
   },
   {
     "cat": "Business",
