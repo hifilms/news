@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "નેટફ્લિક્સ પર ચાર મહિનાથી ટોપ 10માં છવાઈ છે આ સસ્પેન્સ થ્રિલર ફિલ્મ, દરેક સીનમાં જોવા મળશે એક જોરદાર ટ્વિસ્ટ !",
+    "desc": "આ ફિલ્મ 5 ડિસેમ્બર, 2025ના રોજ સિનેમાઘરોમાં રિલીઝ થઈ હતી. આ ફિલ્મ ખૂબ જ સફળ રહી હતી. હાલમાં, તે OTT પ્લેટફોર્મ Netflix પર ધૂમ મચાવી રહી છે. આ ફિલ્મને IMDb તરફથી પણ મજબૂત રેટિંગ મળ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/this-suspense-thriller-film-has-been-in-the-top-10-on-netflix-for-four-months-a-powerful-twist-will-be-seen-in-every-scene-478021 ",
+    "time": "2026-05-15T16:24:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બેસિક સેલેરીમાં DA મર્જ..., 8મા પગાર પંચ તરફથી કેન્દ્રીય કર્મચારીઓને ભેટ?",
+    "desc": "કર્મચારી સંગઠનો ઇચ્છે છે કે મોંઘવારી ભથ્થું (DA) મૂળ પગારમાં સમાવિષ્ટ થાય. સંગઠનોના મતે, આ જરૂરી છે કારણ કે પગારના અનેક ઘટકો મૂળ પગાર સાથે જોડાયેલા છે, જેમાં ઘર ભાડું ભથ્થું (HRA), પરિવહન ભથ્થું, પેન્શન અને ઇન્ક્રીમેન્ટનો સમાવેશ થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/da-merger-in-basic-salary-a-gift-to-central-employees-from-the-8th-pay-commission-478010 ",
+    "time": "2026-05-15T14:42:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોંઘવારીનો &amp;#039;ચોથો ગિયર&amp;#039;: દૂધ-પેટ્રોલના ભાવ વધ્યા, હવે RBI વધારશે હોમ-કાર લોનનો EMI, મિડલક્લાસનો મરો",
+    "desc": "જથ્થાબંધ ફુગાવો 8.30 ટકાના રેકોર્ડ સ્તરે પહોંચી ગયો છે. જેના કારણ RBI આગામી મહિનાઓમાં રેપો રેટમાં વધારાનો સંકેત આપે છે, પેટ્રોલ-ડિઝલ અને CNGમાં પણ વધારે મોંઘા થવાના છે. તમને લાગશે કે આ અલગ સમસ્યાઓ છે, પરંતુ વાસ્તવમાં, તે એક ખૂબ જ ખતરનાક સાંકળ સાથે જોડાયેલી ત્રણ કડીઓ છે, આ મુસીબત પશ્ચિમ એશિયામાં યુદ્ધ અને અલ નીનોની અસરથી શરૂ થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/fourth-gear-of-inflation-milk-petrol-prices-increased-now-rbi-will-increase-emi-of-home-car-loans-middle-class-will-be-affected-478009 ",
+    "time": "2026-05-15T14:13:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારતમાં કેમ મોંઘા થયા પેટ્રોલ-ડીઝલ અને દૂધ? હવે સંકટમાં છે 9000000 ભારતીયોની નોકરી",
+    "desc": "મિડલ ઈસ્ટ (મધ્ય પૂર્વ) માં ચાલી રહેલા યુદ્ધની અસર હવે સીધી ભારતીય પરિવારોના રસોડા અને ખિસ્સા પર દેખાવા લાગી છે. અમેરિકા અને ઈરાન વચ્ચે વધી રહેલા સૈન્ય તણાવને કારણે દેશમાં દૂધ, પેટ્રોલ, ડીઝલ અને રસોઈ ગેસ સહિતની અનેક આવશ્યક ચીજવસ્તુઓ મોંઘી થઈ ગઈ છે. આર્થિક નિષ્ણાતોનું સ્પષ્ટપણે માનવું છે કે જો બંને દેશો વચ્ચેનો આ સંઘર્ષ જલ્દી શાંત નહીં થાય, તો આગામી દિવસોમાં તેના અત્યંત ભયાનક પરિણામો જોવા મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-have-petrol-diesel-and-milk-become-more-expensive-in-india-now-the-livelihoods-of-9-million-indians-are-at-risk-478008 ",
+    "time": "2026-05-15T14:06:36.000Z"
+  },
+  {
     "cat": "World",
     "title": "બાબા વેંગાની એલિયન્સ વિશે ડરામણી ભવિષ્યવાણી થઈ રહી છે વાયરલ, દુનિયામાં મચી ગયો ખળભળાટ !",
     "desc": "બાબા વેંગાની ભવિષ્યવાણી ફરી એકવાર ચર્ચામાં આવી ગઈ છે, 161 ખાનગી ફાઈલોની માહિતી બહાર આવતાની સાથે જ બાબા વેંગા અને નોસ્ટ્રાડેમસની ભવિષ્યવાણી સાચી પડી હોવાનું લાગી રહ્યું છે અને માનવ એલિયનના સંપર્કમાં આવ્યા છે તેમ પણ લાગી રહ્યું છે.",
@@ -486,15 +522,6 @@ const newsData_gu = [
     "time": "2026-05-13T04:10:55.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનું અને ચાંદી વધુ મોંઘું થશે! સરકારે રાતોરાત લીધો મોટો નિર્ણય, આજે ઘરેણાંના શેરોમાં મચી શકે છે હલચલ !",
-    "desc": "પીએમ મોદી દ્વારા લોકોને સોનું ન ખરીદવાની અપીલ કર્યાના બે દિવસ પછી, કેન્દ્ર સરકારે સોના અને ચાંદી પર મોટો નિર્ણય કર્યો છે. આજે શેરબજારમાં દાગીનાના સ્ટોકમાં આની અસર જોવા મળી શકે છે. આજે બુલિયન માર્કેટમાં સોનાના ભાવમાં વધારો થવાની ધારણા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-will-become-more-expensive-the-government-took-a-big-decision-overnight-there-will-be-a-stir-in-jewelry-stocks-today-477630 ",
-    "time": "2026-05-13T02:26:23.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "રિમોટ વગર સ્પ્લિટ એસી કેવી રીતે ચાલુ કરવું? 99% લોકો નથી જાણતા આ ટ્રિક",
     "desc": "ઘણા લોકો બેટરી ખતમ થઈ જાય છે અથવા રિમોટ ખોવાઈ જાય છે ત્યારે ચિંતિત થઈ જાય છે. પરંતુ ગભરાવાની કોઈ જરૂર નથી. દરેક સ્પ્લિટ એસીમાં એક નાનું, છુપાયેલું બટન હોય છે જેનાથી તમે ACને સરળતાથી ચાલુ કરી શકો છો.",
@@ -502,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/how-to-turn-on-a-split-ac-without-a-remote-99-percent-of-people-dont-know-this-trick-477594 ",
     "time": "2026-05-12T13:41:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM-કિસાન યોજનાના નિયમોમાં મોટો ફેરફાર, આ કામ ન કર્યું તો ખાતામાં નહીં આવે 2000નો હપ્તો; જાણો",
-    "desc": "ખેડૂતો માટે મહત્ત્વના સમાચાર સામે આવ્યા છે. પ્રધાનમંત્રી કિસાન સમ્માન નિધિ (PM-KISAN) યોજનાના નિયમોમાં મહત્વપૂર્ણ ફેરફાર કરવામાં આવ્યા છે PM-કિસાન યોજનાના લાભાર્થીઓ માટે હવે વાર્ષિક e-KYC ફરજિયાત કરવામાં આવ્યું છે. ચાલો જાણીએ કેવી રીતે કરવું e-KYC.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/agriculture/big-change-in-pm-kisan-scheme-rules-if-you-donot-do-this-the-installment-of-2000-will-not-come-in-your-account-know-477592 ",
-    "time": "2026-05-12T12:28:49.000Z"
   },
   {
     "cat": "Sports",
@@ -718,14 +736,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ott-latest-release-in-hindi-new-film-releasing-on-ott-on-6-and-8-may-2026-476650 ",
     "time": "2026-05-06T03:18:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કોઈ પણ પગે પડે ત્યારે શા માટે ગુસ્સે થાય છે અમિતાભ બચ્ચન? સામે આવ્યું રમુજી કારણ, જાણો",
-    "desc": "અમિતાભ બચ્ચન એક અનુભવી અભિનેતા છે, પરંતુ જો કોઈ યુવાન અભિનેતા સેટ પર તેમના પગ સ્પર્શ કરે છે તો તેઓ ખૂબ જ ચિડાઈ જાય છે. આ પાછળનું કારણ ખૂબ જ રસપ્રદ અને શીખવા જેવું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/why-does-amitabh-bachchan-get-angry-whenever-someone-steps-on-him-the-funny-reason-has-come-to-light-know-this-476598 ",
-    "time": "2026-05-05T12:00:24.000Z"
   }
 ];

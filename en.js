@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "‘Not an iota of truth’: PM Modi dismisses report of restriction on foreign travels via tax",
+    "desc": "Prime Minister Narendra Modi has vehemently denied reports suggesting the government was considering a cess or tax on foreign travel. He stated there was no truth to these claims and reiterated the commitment to improving 'Ease of Doing Business' and 'Ease of Living' for citizens, dismissing any notion of imposing such restrictions.",
+    "img": "https://static.toiimg.com/photo/msid-131122753,imgsize-27880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/not-an-iota-of-truth-pm-modi-dismisses-report-of-restriction-on-foreign-travels-via-tax/articleshow/131122763.cms",
+    "time": "2026-05-15T16:33:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Pitt’ star Noah Wyle’s net worth",
+    "desc": "Noah Wyle, renowned for his iconic role in 'ER' and his current work on 'The Pitt,' has amassed a net worth of $10 million. His time on 'ER' was lucrative, with impressive episode fees and bonuses that contributed to his wealth.",
+    "img": "https://static.toiimg.com/photo/msid-131120565,imgsize-39170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/noah-wyle-net-worth-how-the-pitt-star-built-and-rebuilt-his-million-dollar-fortune-of-usd-10m-after-a-massive-loss/articleshow/131120565.cms",
+    "time": "2026-05-15T16:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ECI orders probe into voting by foreign nationals in the Tamil Nadu Assembly election",
+    "desc": "A report has been sought from the returning officers of at least two cities and five districts across the State on how the foreigners managed to vote despite the Special Intensive Revision of the electoral rolls",
+    "img": "https://th-i.thgim.com/public/incoming/9xfud7/article70984513.ece/alternates/LANDSCAPE_1200/9712_23_4_2026_13_55_23_3__DSC1639.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/eci-orders-probe-into-voting-by-foreign-nationals-in-the-tamil-nadu-assembly-election/article70983594.ece",
+    "time": "2026-05-15T16:23:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Seth Rogen about his film 'Tangles' at Cannes",
+    "desc": "Seth Rogen's animated film 'Tangles,' a poignant story about Alzheimer's based on Sarah Leavitt's memoir, premiered at Cannes, leaving the actor deeply emotional. Witnessing the decade-long project resonate with a live audience for the first time on the big screen proved an overwhelming, moving experience for Rogen, who also voices a character in the film alongside a star-studded cast.",
+    "img": "https://static.toiimg.com/photo/msid-131122527,imgsize-56478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/seth-rogen-opens-up-about-tangles-premiere-at-cannes-film-festival-i-was-crying-a-lot-throughout-the-entire-thing/articleshow/131122490.cms",
+    "time": "2026-05-15T16:20:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PM Modi’s UAE visit: How India will benefit from agreements on strategic petroleum reserves, LPG",
+    "desc": "Experts have hailed the MOUs, calling them game-changing for India’s energy security in the long-term. The importance of having strategic petroleum reserves has been brought to light with stark clarity due to the US-Iran war.",
+    "img": "https://static.toiimg.com/photo/msid-131122302,imgsize-87474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modis-uae-visit-how-india-energy-security-will-benefit-from-agreements-on-strategic-petroleum-reserves-lpg-explained/articleshow/131122104.cms",
+    "time": "2026-05-15T16:09:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Demand for gold loans rising, more people resorting to pledging their gold ornaments, says Muthoot Finance MD",
+    "desc": "In FY26 the company’s consolidated Profit after Tax (PAT) increased 98% YoY to ₹10,607 crore. Its consolidated Loan Assets Under Management grew 49% YoY to ₹1,81,916 crore in FY26. Board declares dividend of ₹30 per share.",
+    "img": "https://th-i.thgim.com/public/incoming/6ppyb0/article70984470.ece/alternates/LANDSCAPE_1200/Muthoot-FinanceG2VFVTNBM.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/demand-for-gold-loans-rising-more-people-resorting-to-pledging-their-gold-ornaments-says-muthoot-finance-md/article70983902.ece",
+    "time": "2026-05-15T16:09:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Drake reveals his father is battling cancer",
+    "desc": "Rapper Drake has revealed his father, Dennis Graham, is battling cancer in his new song 'Make Them Cry'. The emotional track details Drake's personal struggles and family responsibilities. Graham, a musician himself, has since posted a supportive message on social media, prompting an outpouring of well wishes from fans for his health journey.",
+    "img": "https://static.toiimg.com/photo/msid-131122186,imgsize-119940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/drake-reveals-his-father-is-battling-cancer-in-new-iceman-song-make-them-cry/articleshow/131122186.cms",
+    "time": "2026-05-15T16:04:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Keneeshaa Francis quits social media after emotional videos",
+    "desc": "Singer Keneeshaa Francis has announced that she is stepping away from social media and leaving Chennai amid the ongoing controversy surrounding her alleged relationship with actor Ravi Mohan after his separation from wife Aarti Ravi. In a lengthy and emotional note shared online, Keneeshaa said she was “giving up” after months of online trolling, public scrutiny and controversy.",
+    "img": "https://static.toiimg.com/photo/msid-131122098,imgsize-89258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/keneeshaa-francis-quits-social-media-after-emotional-videos-on-ravi-mohan-aarti-ravi-separation-ive-left-chennai-i-give-up/articleshow/131121599.cms",
+    "time": "2026-05-15T15:57:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No order without hearing us': Hindu party files caveat in SC after HC Bhojshala verdict",
+    "desc": "Following the Madhya Pradesh High Court's ruling that the Bhojshala-Kamal Maula complex is a temple of Goddess Saraswati, caveat pleas were filed in the Supreme Court. These precautionary legal notices were lodged by Hindu litigants anticipating a challenge to the verdict from the Muslim side.",
+    "img": "https://static.toiimg.com/photo/msid-131121963,imgsize-99716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-order-without-hearing-us-hindu-party-files-caveat-in-sc-after-hc-bhojshala-verdict/articleshow/131121939.cms",
+    "time": "2026-05-15T15:46:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Monsoon to reach Kerala on May 26, says IMD",
+    "desc": "Last year, the monsoon set in over Kerala on May 24 — its earliest arrival since 2009; IMD’s operational forecasts of the date of monsoon onset over Kerala during the past 21 years (2005-2025) were proved to be correct except in 2015",
+    "img": "https://th-i.thgim.com/public/incoming/ephlb3/article70982353.ece/alternates/LANDSCAPE_1200/Clouds05.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-meteorological-department-southwest-monsoon-kerala-may-26/article70982338.ece",
+    "time": "2026-05-15T15:37:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Opposition slams fuel price hike, BJP says ‘unavoidable’",
+    "desc": "a new political row erupts after petrol and diesel prices were hiked by ₹3 per litre. We also track Prime Minister Narendra Modi’s crucial visit to the UAE, more than 100 people lose their lives in devastating storms and lightning strikes across Uttar Pradesh, while new developments emerge in the U.S. bribery case involving Gautam Adani and Sagar Adani, and more.",
+    "img": "https://th-i.thgim.com/public/news/national/70iii3/article70984248.ece/alternates/LANDSCAPE_1200/MAY%2015%20THUMB%204.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-opposition-slams-fuel-price-hike-bjp-says-unavoidable-above-the-fold-15052026/article70984249.ece",
+    "time": "2026-05-15T15:28:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sumit Kundu scripts strong comeback; India’s CWG, Asiad boxing squad announced",
+    "desc": "After a grueling two-year battle with injuries and doubts, Sumit Kundu has made a remarkable comeback to secure his spot in the Indian boxing contingent for the CWG and Asian Games. He triumphed in the men's 70kg division, overcoming a serious ACL and meniscus injury that had threatened his career.",
+    "img": "https://static.toiimg.com/photo/msid-131121421,imgsize-28224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/boxing/sumit-kundu-scripts-strong-comeback-after-almost-quitting-sport-indias-cwg-asiad-boxing-squad-announced/articleshow/131121341.cms",
+    "time": "2026-05-15T15:17:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Profit more than doubles to Rs 2,965 crore; India operations drive growth despite global headwinds",
+    "desc": "Tata Steel reported a more than two-fold jump in consolidated net profit to Rs 2,965 crore for the January-March quarter of FY26, driven by strong India operations and improved volumes. For the full fiscal year, net profit surged over three times to Rs 10,885.82 crore, with steel production and deliveries also seeing an increase.",
+    "img": "https://static.toiimg.com/photo/msid-131121189,imgsize-411592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-steel-q4-results-profit-more-than-doubles-to-rs-2965-crore-india-operations-drive-growth-despite-global-headwinds/articleshow/131121179.cms",
+    "time": "2026-05-15T15:04:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kamal Haasan on rising costs and film spending",
+    "desc": "Veteran actor Kamal Haasan urged the Indian film industry to unite against rising costs impacting production and entertainment spending. He stressed that economic corrections must not harm workers' welfare, advocating for reduced waste, better planning, and local shooting. Haasan called for an industry-wide meeting to discuss sustainable practices for cinema's future.",
+    "img": "https://static.toiimg.com/photo/msid-131121076,imgsize-24236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasan-pens-open-letter-on-rising-cinema-costs-amid-film-industry-crisis-every-rupee-spent-must-serve-the-film-not-extravagance/articleshow/131121034.cms",
+    "time": "2026-05-15T14:59:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Akki on fire’: Akash Singh’s emotional celebration after dismissing Ruturaj, Samson",
+    "desc": "Akash Singh made an immediate impact in his IPL 2026 debut for Lucknow Super Giants, taking two crucial wickets inside the powerplay. He celebrated by displaying a special paper message, which quickly went viral. The left-arm pacer dismissed CSK's Ruturaj Gaikwad and Sanju Samson, shifting momentum in LSG's favor.",
+    "img": "https://static.toiimg.com/photo/msid-131120925,imgsize-55506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/akki-on-fire-akash-singh-celebrates-in-style-after-dismissing-ruturaj-gaikwad-sanju-samson-watch/articleshow/131120920.cms",
+    "time": "2026-05-15T14:47:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Obnoxious statement': Kapil Sibal lashes out at RSS leader Dattatreya Hosabale over Pakistan remarks",
+    "desc": "Rajya Sabha MP Kapil Sibal has strongly criticized RSS general secretary Dattatreya Hosabale's suggestion for continued dialogue with Pakistan. Sibal labeled the remarks as 'obnoxious' and questioned the RSS leader's standing to make such statements. He highlighted the perceived double standard in political reactions to dialogue proposals.",
+    "img": "https://static.toiimg.com/photo/msid-131120868,imgsize-47826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/obnoxious-statement-kapil-sibal-lashes-out-at-rss-leader-dattatreya-hosabale-over-pakistan-remarks/articleshow/131120611.cms",
+    "time": "2026-05-15T14:43:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 breaks records as reach crosses 1.1 billion amid thrilling playoff race",
+    "desc": "IPL 2026 has shattered all previous records, attracting over 1.1 billion viewers across TV and digital platforms. The league's thrilling unpredictability has fueled unprecedented fan engagement, with digital platforms showing significant growth. Regional language viewership has surged by an impressive 42%, highlighting the tournament's expanding appeal beyond major metros.",
+    "img": "https://static.toiimg.com/photo/msid-131120298,imgsize-662890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-breaks-records-as-reach-crosses-1-1-billion-amid-thrilling-playoff-race/articleshow/131120314.cms",
+    "time": "2026-05-15T14:15:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI arrests 'kingpin', a Chemistry professor from Pune",
+    "desc": "CBI arrested a Chemistry teacher, identified as the \"kingpin\" behind the NEET-2026 paper leak, from Pune. The teacher, PV Kulkarni, allegedly conducted special coaching classes dictating leaked questions and answers to students. The medical entrance exam was subsequently cancelled, with a re-examination scheduled for June 21.",
+    "img": "https://static.toiimg.com/photo/msid-131119601,imgsize-106312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/neet-paper-leak-2026-cbi-arrests-kingpin-a-chemistry-professor-from-pune/articleshow/131119187.cms",
+    "time": "2026-05-15T13:44:25.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'What have you done for Punjab?': Arshdeep sparks fresh row after Tilak controversy",
     "desc": "Pacer Arshdeep Singh faces renewed criticism following a sharp social media retort to a fan questioning his Punjab Kings affiliation. This controversy follows an earlier uproar over alleged remarks about teammate Tilak Varma's skin tone. These incidents intensify scrutiny on the bowler's online conduct, with calls for stricter action growing louder.",
@@ -7,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/what-have-you-done-for-punjab-arshdeep-singh-sparks-fresh-row-after-tilak-varma-controversy/articleshow/131119038.cms",
     "time": "2026-05-15T13:26:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Thousands in black robes with doubtful degrees,’ says CJI Surya Kant",
-    "desc": "The comments came while a Bench of CJI Kant and Justice Joymalya Bagchi was pulling up a lawyer for “pursuing” a senior advocate designation. It said there were already “parasites” in society who attack the system and asked the petitioner whether he wanted to join hands with them.",
-    "img": "https://th-i.thgim.com/public/incoming/v7exuf/article70982997.ece/alternates/LANDSCAPE_1200/DSC_8328A.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/thousands-in-black-robes-with-doubtful-degrees-says-cji-surya-kant/article70982893.ece",
-    "time": "2026-05-15T13:26:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,24 +243,6 @@ const newsData_en = [
     "time": "2026-05-15T12:31:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Vaiko to protest demanding urgent repairs to Shenbagavalli Dam",
-    "desc": "Pointing out that water stored in a dam built in 1773 AD across the Shenbagavalli river benefits farmers in both Tamil Nadu and Kerala, Mr. Vaiko called for the repair of cracks that appeared in the dam around 1935 and the reconstruction of a breached portion of the main canal",
-    "img": "https://th-i.thgim.com/public/incoming/intm27/article70982712.ece/alternates/LANDSCAPE_1200/MDMK_02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/vaiko-to-protest-demanding-urgent-repairs-to-shenbagavalli-dam/article70982445.ece",
-    "time": "2026-05-15T12:31:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three minor boys arrested for blackmailing schoolgirl, circulating private videos in Krishnagiri",
-    "desc": "The trio created a fake account and sent her a follow request on Instagram. They downloaded her images from her profile and had them morphed into unrelated obscene photos, which they later used to blackmail her",
-    "img": "https://th-i.thgim.com/public/incoming/ui0emp/article70982424.ece/alternates/LANDSCAPE_1200/iStock-1127811063.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/three-minor-boys-arrested-for-blackmailing-schoolgirl-circulating-private-videos-in-krishnagiri/article70982147.ece",
-    "time": "2026-05-15T12:26:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kylie Jenner talks about how everyone reacted to her pregnancy",
     "desc": "Kylie Jenner candidly revealed her anxieties about her first pregnancy at 19, fearing her parents' reaction. She shared that Kris and Caitlyn Jenner were surprisingly supportive, with no anger expressed. Jenner emphasized her personal decision-making process and her readiness to embrace motherhood, even if alone. She also reflected on her evolving role as a mother.",
@@ -115,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kylie-jenner-reveals-kris-and-caitlyns-reaction-to-her-pregnancy-at-19-i-was-freaking-out-no-one-was-angry/articleshow/131117233.cms",
     "time": "2026-05-15T12:13:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Allahabad HC grants bail to group of men held over Ganga iftar row",
-    "desc": "According to the complaint filed by Rajat Jaiswal, the President of the Varanasi chapter of the BJP Yuva Morcha, the accused broke their Ramzan fast on a boat in the Ganga on March 15, ate meat, and threw the leftover waste into the “holy” river",
-    "img": "https://th-i.thgim.com/public/incoming/u1j24r/article70982784.ece/alternates/LANDSCAPE_1200/Prayer-meeting-GEIFPP834.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-grants-bail-to-group-of-men-held-over-ganga-iftar-row/article70982753.ece",
-    "time": "2026-05-15T12:09:29.000Z"
   },
   {
     "cat": "Politics",
@@ -225,33 +351,6 @@ const newsData_en = [
     "time": "2026-05-15T11:26:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Manish Chaudhari on awkward first meeting with SRK",
-    "desc": "The Revenge' will start streaming in India from June 5, with a grand digital premiere on June 4 at 7 PM. International viewers had already been watching the uncensored 'Raw & Undekha' cut on Netflix since May 14, sparking a huge buzz on social media.",
-    "img": "https://static.toiimg.com/photo/msid-131116066,imgsize-20404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-said-we-met-when-you-were-naked-we-hugged-manish-chaudhari-recalls-awkward-first-meeting-with-king-star-on-sets-of-aryan-khans-the-bads-of-bollywood/articleshow/131116066.cms",
-    "time": "2026-05-15T11:17:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Kartavya’ Twitter review: Saif Ali Khan’s gritty cop drama impresses fans",
-    "desc": "Saif Ali Khan's 'Kartavya' offers a grounded, gritty investigative drama, eschewing Bollywood's typical extravagance for realism and emotional tension. The film, praised for its dark narrative and Saif's compelling performance as an honest cop battling corruption and personal turmoil, draws comparisons to 'Sacred Games' for its raw intensity. Despite predictable plot points, it's an engaging watch for thriller fans.",
-    "img": "https://static.toiimg.com/photo/msid-131116013,imgsize-4858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kartavya-twitter-review-saif-ali-khans-gritty-cop-drama-impresses-with-raw-storytelling-despite-predictable-twists/articleshow/131115959.cms",
-    "time": "2026-05-15T11:17:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Court refuses to stop Dhurandhar 2 makers from using Oye Oye song in OTT version",
-    "desc": "The Revenge', citing significant investment by the filmmakers. The court found the plaintiff's delayed action disadvantageous and deemed it impractical to allow the song in theatres but ban it on OTT platforms. T-Series was ordered to deposit ₹50 lakh.",
-    "img": "https://static.toiimg.com/photo/msid-131116035,imgsize-56066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-oye-oye-song-row-high-court-refuses-to-stop-aditya-dhar-from-using-the-song-in-the-ott-release-of-the-film/articleshow/131115961.cms",
-    "time": "2026-05-15T11:16:56.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Decentralise conduct of NEET-UG exam, act against NTA: IMA urges Centre after paper leak",
     "desc": "The Indian Medical Association has urged the government to decentralize NEET-UG exams and implement online testing to prevent future paper leaks. Expressing deep concern over the NEET-UG 2026 irregularities, the IMA called for a CBI probe, swift arrests, and fast-track courts to restore public trust in the selection process for aspiring doctors.",
@@ -333,15 +432,6 @@ const newsData_en = [
     "time": "2026-05-15T10:22:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Actress’ massive net worth &amp; lavish lifestyle",
-    "desc": "Bollywood's 'Dhak Dhak Girl', Madhuri Dixit, continues to shine with an estimated net worth of Rs 250 crore. Her earnings stem from lucrative film roles, reality show judging, and high-profile brand endorsements. The actress also boasts a luxurious car collection and impressive Mumbai properties alongside her husband, Dr. Shriram Nene.",
-    "img": "https://static.toiimg.com/photo/msid-131114518,imgsize-43134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-birthday-madhuri-dixit-inside-the-actress-massive-net-worth-luxury-homes-and-lavish-lifestyle/articleshow/131114445.cms",
-    "time": "2026-05-15T10:16:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Tamil Nadu CM Vijay urges PM Modi",
     "desc": "Of late, the industry is facing severe crisis due to increase in cotton price, and consequently yarn prices. I understand this is caused primarily due to shortage of cotton production and increase in trading activity in the country, Mr. Vijay said",
@@ -396,15 +486,6 @@ const newsData_en = [
     "time": "2026-05-15T09:21:20.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Feels like a different game altogether': Kohli reveals Rahul chat on T20 cricket",
-    "desc": "T20 cricket has transformed significantly, demanding technique, innovation, and adaptability from batters, while bowlers employ new strategies to counter high scores. Despite the rise of young talent, experienced players like Virat Kohli and Bhuvneshwar Kumar continue to excel, proving age is no barrier in the evolving game. Kohli emphasizes T20's shift into a distinct, high-intensity format.",
-    "img": "https://static.toiimg.com/photo/msid-131113286,imgsize-16396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/it-feels-like-a-different-game-altogether-virat-kohli-reveals-kl-rahul-chat-on-t20-cricket/articleshow/131113206.cms",
-    "time": "2026-05-15T09:18:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Inside Vijay’s ‘Leo’-inspired cafe in Kashmir",
     "desc": "Sifar Cafe in Anantnag district, 40 kilometres from Pahalgam in South Kashmir, has become the epicentre of tourists from South India. It is the exact location where the new Tamil Nadu Chief Minister Vijay’s 2023 hit film Leo was shot. In the week since he assumed the role as Chief Minister, Sifar has seen a 90% spike in tourists from Tamil Nadu. Visitors throng the location, recreating Vijay’s walk. They also order ‘chocolate coffee’, a famous device used in the film to further the plot.",
@@ -412,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-inside-vijays-leo-inspired-cafe-in-kashmir/article70982219.ece",
     "time": "2026-05-15T08:40:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Welcome To The Jungle' teaser: Akshay returns as Rajeev for comic chaos",
-    "desc": "Get ready for a dose of hilarious chaos as Akshay Kumar unveils the teaser for 'Welcome To The Jungle,' hitting cinemas on June 26, 2026. The franchise known for its slapstick humor and outrageous situations promises more madness. Fans are buzzing with excitement, anticipating another blockbuster from the beloved 'Welcome' universe.",
-    "img": "https://static.toiimg.com/photo/msid-131111423,imgsize-50978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/welcome-to-the-jungle-teaser-akshay-kumar-returns-as-rajeev-for-more-comic-chaos-with-disha-patani-lara-dutta-shreyas-talpade-in-tow-watch/articleshow/131111477.cms",
-    "time": "2026-05-15T07:37:12.000Z"
   },
   {
     "cat": "Sports",
@@ -451,33 +523,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Arshdeep Singh should be banned': Ex-India star fumes",
-    "desc": "Punjab Kings bowler Arshdeep Singh faces backlash after a video surfaced showing him allegedly making a racially insensitive remark to Mumbai Indians batter Tilak Varma. Former India spinner Laxman Sivaramakrishnan strongly condemned the comment, recalling his own experiences with skin tone-based mockery and demanding strict action against Arshdeep.",
-    "img": "https://static.toiimg.com/photo/msid-131110386,imgsize-48194.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/arshdeep-singh-should-be-banned-ex-india-star-fumes-over-alleged-racist-remark-on-tilak-varma/articleshow/131110392.cms",
-    "time": "2026-05-15T06:38:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Trading away honour': Congress slams PM Modi after reports of India seeking US waiver on Russian oil",
-    "desc": "India has reportedly sought an extension from the US to continue importing Russian oil, with the current waiver expiring May 16. The Congress party has sharply criticized PM Modi, accusing his government of \"trading away India’s honour and dignity\" and compromising energy security by \"groveling before America\" for permission.",
-    "img": "https://static.toiimg.com/photo/msid-131110315,imgsize-812438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trading-away-honour-congress-slams-pm-modi-after-reports-of-india-seeking-us-waiver-on-russian-oil/articleshow/131110251.cms",
-    "time": "2026-05-15T06:34:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court quashes Delhi HC order suspending Kuldeep Singh Sengar's life term",
-    "desc": "The Supreme Court has overturned the Delhi High Court's suspension of former BJP MLA Kuldeep Singh Sengar's life sentence in the Unnao rape case. The apex court has ordered the High Court to re-examine the matter within two months, ensuring a fresh decision free from prior influences.",
-    "img": "https://static.toiimg.com/photo/msid-131109864,imgsize-840377.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/unnao-rape-case-supreme-court-quashes-delhi-hc-order-suspending-kuldeep-singh-sengars-life-term/articleshow/131109894.cms",
-    "time": "2026-05-15T06:19:38.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Kieron Pollard fined 15% match fee after Mumbai's win against Punjab",
     "desc": "Mumbai Indians batting coach Kieron Pollard has been fined and received a demerit point. This follows a breach of the IPL Code of Conduct. Pollard used audible obscenity during a match against Punjab Kings. He admitted to the offense. The incident occurred in the 19th over. This happened during the second innings of the game.",
     "img": "https://static.toiimg.com/photo/msid-131109842,imgsize-33464.cms",
@@ -493,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-retreat-as-iran-war-worries-inflation-fears-weigh-on-markets/articleshow/131109720.cms",
     "time": "2026-05-15T06:12:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After NEET UG paper leak, education minister Dharmendra Pradhan announces computer-based exams from next year",
-    "desc": "Union Education Minister Dharmendra Pradhan announced NEET UG exams will be computer-based from next year, emphasizing zero tolerance for malpractices amid paper leak allegations. A re-examination is scheduled for June 21st, with the investigation handed over to the CBI to address the examination mafia and ensure fairness for deserving students.",
-    "img": "https://static.toiimg.com/photo/msid-131110120,imgsize-1102027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/after-neet-ug-paper-leak-education-minister-dharmendra-pradhan-announces-computer-based-exams-from-next-year/articleshow/131109783.cms",
-    "time": "2026-05-15T06:11:25.000Z"
   },
   {
     "cat": "Business",
@@ -522,42 +558,6 @@ const newsData_en = [
     "time": "2026-05-15T05:32:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NEET UG exam 2026 rescheduled for June 21 after paper leak row",
-    "desc": "The National Testing Agency has announced a re-examination for NEET (UG) 2026 on Sunday, June 21, following the cancellation of the May 3 exam due to alleged irregularities. Investigators uncovered evidence of a \"guess paper\" with numerous questions closely matching the actual exam, prompting a CBI probe into the matter.",
-    "img": "https://static.toiimg.com/photo/msid-131109026,imgsize-217364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-ug-exam-2026-rescheduled-for-june-21-after-paper-leak-row/articleshow/131107927.cms",
-    "time": "2026-05-15T04:21:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Peace can't be piecemeal': India voices concern over Strait of Hormuz, Gaza at BRICS conclave",
-    "desc": "India's External Affairs Minister S. Jaishankar urged BRICS nations to find practical solutions to geopolitical crises, emphasizing the threat to global energy and economic security from West Asian tensions. He stressed dialogue, diplomacy, and respect for sovereignty, while also highlighting concerns over unilateral sanctions, terrorism, and the need for UN Security Council reform.",
-    "img": "https://static.toiimg.com/photo/msid-131107826,imgsize-767378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/peace-cant-be-piecemeal-india-voices-concern-over-strait-of-hormuz-gaza-at-brics-conclave/articleshow/131107800.cms",
-    "time": "2026-05-15T04:11:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi's fresh swipe at PM Modi over India-US trade deal: 'Compromised PM'",
-    "desc": "Rahul Gandhi has accused Prime Minister Narendra Modi of striking a \"deal for Adani's release\" with the US, rather than a genuine trade agreement. The Congress party echoed these sentiments, labeling the pact \"one-sided\" and alleging it aims to close fraud cases against Gautam Adani in America, suggesting Modi is compromised and subservient to US demands.",
-    "img": "https://static.toiimg.com/photo/msid-131107793,imgsize-313460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhis-fresh-swipe-at-pm-modi-over-india-us-trade-deal-compromised-pm/articleshow/131107663.cms",
-    "time": "2026-05-15T04:10:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jude Felix criticises Hockey India for removing PR Sreejesh after just 15 months",
-    "desc": "Former India hockey captain Jude Felix criticized Hockey India's decision to remove PR Sreejesh as coach after just 15 months, deeming it a wrong move. Felix suggested Sreejesh, a decorated player, could have been instrumental in developing a new generation of goalkeepers. He also questioned the reliance on foreign coaches and the lack of grassroots development in Indian hockey.",
-    "img": "https://static.toiimg.com/photo/msid-131107755,imgsize-537576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/jude-felix-criticises-hockey-india-for-removing-pr-sreejesh-after-just-15-months/articleshow/131107749.cms",
-    "time": "2026-05-15T04:08:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "CNG prices hiked by Rs 2/kg after petrol, diesel revision; check rates in your city",
     "desc": "CNG prices have jumped by Rs 2 per kg across India, following recent hikes in petrol and diesel. This surge, attributed to the West Asia conflict impacting global energy supplies, sees Delhi's CNG now at Rs 79.09 per kg. Fuel rates have climbed significantly after a long period of stability, raising concerns about energy security.",
@@ -567,51 +567,6 @@ const newsData_en = [
     "time": "2026-05-15T03:55:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi embarks on 5-nation tour to deepen India's strategic ties — what's on agenda",
-    "desc": "Prime Minister Narendra Modi begins a significant five-nation tour. He will visit the United Arab Emirates, Netherlands, Sweden, Norway, and Italy. The visits aim to boost India's engagement with Europe and the Gulf region. Discussions will focus on trade, investment, energy, and technology. This tour underscores India's growing global partnerships.",
-    "img": "https://static.toiimg.com/photo/msid-131107367,imgsize-536950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-embarks-on-5-nation-tour-to-deepen-indias-strategic-ties-whats-on-agenda/articleshow/131107368.cms",
-    "time": "2026-05-15T03:36:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Elections over, vasooli shuru': Opposition hits out at PM Modi over fuel hike with 'mahangayi man' jab",
-    "desc": "Fuel prices have increased across India. Petrol and diesel rates have gone up by Rs 3 per litre. Opposition parties are criticising the Modi government. They state that elections are over and price recovery has begun. This hike comes amid global energy price surges. India had previously absorbed these pressures. State-owned oil companies are now adjusting prices.",
-    "img": "https://static.toiimg.com/photo/msid-131107340,imgsize-133770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/elections-over-vasooli-shuru-oppn-hits-out-at-pm-modi-over-fuel-hike-with-mahangayi-man-jab/articleshow/131107243.cms",
-    "time": "2026-05-15T03:30:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tata Power, Adani Ports &amp; more: Top stocks on brokers' radar today",
-    "desc": "HSBC initiates SRF coverage with a buy, citing strong growth potential in specialty chemicals and performance films. Jefferies is bullish on Grasim, expecting increased capital availability for growth. Nomura sees Adani Ports expanding its marine business significantly in Europe. CLSA maintains a hold on Tata Power, believing the worst is over.",
-    "img": "https://static.toiimg.com/photo/msid-131107066,imgsize-89170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/buy-or-sell-stock-recommendation-by-brokers-for-may-15-2026-srf-grasim-adani-ports-sez-tata-power-neuland-labs/articleshow/131106994.cms",
-    "time": "2026-05-15T03:10:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don't see that happening': Bumrah on ODI captaincy after MI win",
-    "desc": "Jasprit Bumrah captained Mumbai Indians for the first time in IPL 2026, leading them to a six-wicket victory against Punjab Kings. This leadership role came in the absence of regular captains Hardik Pandya and Suryakumar Yadav. Bumrah, who has captained India in Tests and T20Is, expressed his enjoyment of the experience and praised the team's execution.",
-    "img": "https://static.toiimg.com/photo/msid-131107060,imgsize-33638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-dont-see-that-happening-jasprit-bumrah-cracks-joke-on-odi-captaincy-after-mumbai-indians-win/articleshow/131107071.cms",
-    "time": "2026-05-15T03:10:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock recommendations for May 15, 2026",
-    "desc": "Bajaj Broking Research has chosen NMDC, and Jayaswal Neco Industries as the top stock picks for May 15, 2026. The brokerage has shared its target prices and time period to attain it. Let’s take a look:",
-    "img": "https://static.toiimg.com/photo/msid-131106712,imgsize-88844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-may-15-2026-nmdc-jayaswal-neco-industries-stocks-to-buy-today/articleshow/131106687.cms",
-    "time": "2026-05-15T02:49:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "External Affairs Minister Jaishankar hits out at ‘unilateral’ sanctions days before expiry of U.S.’ Russian oil waiver",
     "desc": "U.S.’ second waiver on purchase of Russian crude oil is set to expire May 16; India’s oil imports from Moscow have surged to about 1.96 million barrels per day in May since the start of the month",
@@ -619,24 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-hits-out-at-unilateral-sanctions-days-before-expiry-of-us-russian-oil-waiver/article70979156.ece",
     "time": "2026-05-15T02:49:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Drained Nikhat Zareen suffers shock trials exit",
-    "desc": "Two-time world champion Nikhat Zareen faced a shocking defeat in boxing trials, missing out on CWG and Asian Games. She revealed the immense physical and mental strain caused by a chaotic two-week preparation, citing administrative tussles between BFI and SAI as a major factor. Despite the setback, Zareen plans to focus on rebuilding her fitness for the LA Olympics.",
-    "img": "https://static.toiimg.com/photo/msid-131106215,imgsize-46558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/boxing/torturous-for-boxers-drained-nikhat-zareen-suffers-shock-trials-exit/articleshow/131106217.cms",
-    "time": "2026-05-15T02:06:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PBKS slump to 43.8% as GT and RCB tighten playoff grip",
-    "desc": "With playoffs in sight for some and out of reach for others, the IPL race intensifies. Gujarat Titans and Royal Challengers Bangalore are nearing qualification, while Sunrisers Hyderabad are strong contenders. Chennai Super Kings and Rajasthan Royals hold even chances for the top four, as Punjab Kings' hopes dwindle. Kolkata Knight Riders and Delhi Capitals face slim prospects.",
-    "img": "https://static.toiimg.com/photo/msid-131105926,imgsize-81482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-scenarios-with-12-matches-to-go-pbks-slump-to-43-8-as-gt-and-rcb-tighten-playoff-grip-odds-for-each-team-explained/articleshow/131105921.cms",
-    "time": "2026-05-15T01:20:47.000Z"
   },
   {
     "cat": "Sports",
@@ -837,15 +774,6 @@ const newsData_en = [
     "time": "2026-05-12T14:18:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Deepak Punia says disruption after the 2023 wrestlers’ protest hurt his career momentum",
-    "desc": "\"I am here to earn a chance for Asian Games only, otherwise why am I here?...\" says Deepak Punia reflecting on 2023 wrestlers protest after winning the 92 kg category in Senior Open Ranking Wrestling tournament",
-    "img": "https://th-i.thgim.com/public/incoming/o29pzy/article70968853.ece/alternates/LANDSCAPE_1200/6607_11_5_2026_11_15_5_1_IMG_20260511_111042.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/deepak-punia-says-disruption-after-the-2023-wrestlers-protest-hurt-his-career-momentum/article70968816.ece",
-    "time": "2026-05-12T08:53:43.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "AI-enabled oversight layer for continuous electoral roll monitoring",
     "desc": "SIR 2.0 exposed structural weaknesses in electoral roll revision processes; an AI-enabled oversight layer integrated with ECINet could continuously monitor electoral operations, detect anomalies and discriminatory patterns in real time, and strengthen transparency, neutrality, and accountability",
@@ -898,5 +826,59 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

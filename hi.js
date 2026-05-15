@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'They don't need my service': Mushfiqur Rahim opens up on his potential ODI comeback",
+    "desc": "The stage is set for the second Test of the ongoing series between Pakistan and Bangladesh. The two sides will face off for the second Test at the Sylhet International Cricket Stadium, and ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/they-don-t-need-my-service-mushfiqur-rahim-opens-up-on-his-potential-odi-comeback-2026-05-15-1041312",
+    "time": "2026-05-15T15:38:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Schedule for India A's tri-series in Sri Lanka announced, set to kick off on June 9",
+    "desc": "In a major development, the schedule for the tri-series between India A, Sri Lanka A, and Afghanistan A has been announced. Sri Lanka will be hosting the two sides across the series, and it is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/schedule-for-india-a-s-tri-series-in-sri-lanka-announced-set-to-kick-off-on-june-9-2026-05-15-1041307",
+    "time": "2026-05-15T14:17:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chennai Super Kings look to maintain winning ways",
     "desc": "Game 59 of the ongoing IPL (Indian Premier League) 2026 sees Lucknow Super Giants taking on Chennai Super Kings. The two sides meet at the Ekana Stadium in Lucknow, and it could be interesting to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-breaks-novak-djokovic-s-legendary-record-matches-rafael-nadal-in-another-legendary-feat-2026-05-15-1041241",
     "time": "2026-05-15T07:38:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar Kumar's 'are you good enough to hit me' attitude impresses Virat Kohli",
-    "desc": "Royal Challengers Bengaluru pacer Bhuvneshwar Kumar has rediscovered his rhythm in the ongoing IPL 2026. He has claimed 22 wickets so far in the ongoing season and is the leading wicket-taker of the cash-rich league....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-s-are-you-good-enough-to-hit-me-attitude-impresses-virat-kohli-2026-05-15-1041218",
-    "time": "2026-05-15T05:05:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Shastri names his choice for India's T20I captaincy after Suryakumar Yadav era",
-    "desc": "Former India coach Ravi Shastri has identified Sanju Samson as a potential future captain for India’s T20I team. Under the leadership of Suryakumar Yadav, the Men in Blue won the T20 World Cup 2026, but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-names-his-choice-for-india-s-t20i-captaincy-after-suryakumar-yadav-era-2026-05-15-1041210",
-    "time": "2026-05-15T03:32:30.000Z"
   }
 ];
