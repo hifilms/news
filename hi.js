@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How can they still qualify?",
+    "desc": "Mumbai Indians defeated Punjab Kings by six wickets in their IPL 2026 clash at the HPCA Stadium in Dharamsala. Tilak Varma starred in the chase, scoring unbeaten 75 runs off 33 balls, while opener Ryan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-lose-control-of-playoffs-spot-after-defeat-to-mumbai-indians-how-can-they-still-qualify-2026-05-15-1041202",
+    "time": "2026-05-15T02:35:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Preity Zinta engages in long, tense discussion with Ricky Ponting after PBKS' fifth straight IPL 2026 defeat",
+    "desc": "Punjab Kings’ dominant start to IPL 2026 has unravelled dramatically, with the team suffering its fifth consecutive loss on Thursday. Their six-wicket defeat to Mumbai Indians at the HPCA Stadium in Dharamsala has left playoff...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/preity-zinta-engages-in-long-tense-discussion-with-ricky-ponting-after-pbks-fifth-straight-ipl-2026-defeat-2026-05-15-1041198",
+    "time": "2026-05-15T02:05:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France announce FIFA World Cup 2026 squad; Real Madrid star misses out, Deschamps explains reason",
+    "desc": "France manager Didier Deschamps unveiled his squad for the 2026 FIFA World Cup on Thursday, leaving out several high-profile names. Among the biggest omissions was Real Madrid midfielder Eduardo Camavinga, who had featured in France’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/france-announce-fifa-world-cup-2026-squad-real-madrid-star-misses-out-deschamps-explains-reason-2026-05-15-1041196",
+    "time": "2026-05-15T01:24:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bernabeu turns on Kylian Mbappe, who calls out Arbeloa after Real Madrid's 2-0 win over Oveido",
+    "desc": "Real Madrid registered a comfortable 2-0 victory over Real Oviedo in their La Liga clash at the Santiago Bernabeu. However, after the game, the atmosphere changed in the Spanish capital as a new controversy broke...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bernabeu-turns-on-kylian-mbappe-who-calls-out-arbeloa-after-real-madrid-s-2-0-win-over-oveido-2026-05-15-1041194",
+    "time": "2026-05-15T01:04:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mumbai Indians register stellar victory in Dharamsala, hand Punjab Kings their fifth straight defeat",
     "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 saw Punjab Kings take on Mumbai Indians. The two sides met at the HPCA Stadium in Dharamsala on May 14th, and the game saw...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-mi-live-cricket-score-punjab-kings-look-to-get-back-to-winning-ways-2026-05-14-1041158",
     "time": "2026-05-14T13:06:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai Super Kings name Dian Forrester as replacement signing for injured Jamie Overton",
-    "desc": "Chennai Super Kings have come forward and announced South Africa’s batting all-rounder Dian Forrester as a replacement signing for the injured Jamie Overton for the remaining IPL (Indian Premier League) 2026 season. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-name-dian-forrester-as-replacement-signing-for-injured-jamie-overton-2026-05-14-1041152",
-    "time": "2026-05-14T12:12:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India A squad for tri-series against Sri Lanka, Afghanistan announced, Vaibhav Sooryavanshi included",
-    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and announced India A’s squad for the upcoming tri-series in Sri Lanka. It is worth noting that India A...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-a-squad-for-tri-series-against-sri-lanka-afghanistan-announced-vaibhav-sooryavanshi-included-2026-05-14-1041142",
-    "time": "2026-05-14T11:01:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at HPCA Stadium in Dharamsala play?",
-    "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 will see Punjab Kings taking on Mumbai Indians. The two sides will meet at the HPCA Stadium in Dharamsala on May 14th, and both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-mi-pitch-report-how-will-surface-at-hpca-stadium-in-dharamsala-play-2026-05-14-1041137",
-    "time": "2026-05-14T10:27:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Three IPL franchises considering change in captaincy after disappointing IPL 2026",
-    "desc": "The pressure surrounding leadership decisions in IPL franchises is beginning to intensify as multiple teams prepare for internal reviews after disappointing campaigns in the 2026 season. Among the names facing the strongest scrutiny are Axar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/three-ipl-franchises-considering-change-in-captaincy-after-disappointing-ipl-2026-2026-05-14-1041126",
-    "time": "2026-05-14T08:57:43.000Z"
   }
 ];
