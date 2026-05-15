@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bhuvneshwar Kumar's 'are you good enough to hit me' attitude impresses Virat Kohli",
+    "desc": "Royal Challengers Bengaluru pacer Bhuvneshwar Kumar has rediscovered his rhythm in the ongoing IPL 2026. He has claimed 22 wickets so far in the ongoing season and is the leading wicket-taker of the cash-rich league....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-s-are-you-good-enough-to-hit-me-attitude-impresses-virat-kohli-2026-05-15-1041218",
+    "time": "2026-05-15T05:05:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravi Shastri names his choice for India's T20I captaincy after Suryakumar Yadav era",
+    "desc": "Former India coach Ravi Shastri has identified Sanju Samson as a potential future captain for India’s T20I team. Under the leadership of Suryakumar Yadav, the Men in Blue won the T20 World Cup 2026, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-names-his-choice-for-india-s-t20i-captaincy-after-suryakumar-yadav-era-2026-05-15-1041210",
+    "time": "2026-05-15T03:32:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh's alleged casual racism against Tilak Varma goes viral",
+    "desc": "Punjab Kings pacer Arshdeep Singh has found himself in yet another controversy after his video with Mumbai Indians batter Tilak Varma went viral. On Snapchat, he recorded a video with Tilak and Naman Dhir and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-s-alleged-casual-racism-against-tilak-varma-goes-viral-watch-2026-05-15-1041206",
+    "time": "2026-05-15T03:07:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How can they still qualify?",
     "desc": "Mumbai Indians defeated Punjab Kings by six wickets in their IPL 2026 clash at the HPCA Stadium in Dharamsala. Tilak Varma starred in the chase, scoring unbeaten 75 runs off 33 balls, while opener Ryan...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-prabhsimran-singh-achieve-stellar-feat-with-decent-start-against-mumbai-indians-in-dharamsala-2026-05-14-1041173",
     "time": "2026-05-14T15:48:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Absolutely class': Aaron Finch hails Virat Kohli after his exceptional ton against Kolkata Knight Riders",
-    "desc": "Royal Challengers Bengaluru registered a brilliant victory against Kolkata Knight Riders in the 57th game of the ongoing IPL (Indian Premier League) 2026. After KKR posted a total of 192 runs in the first innings,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/absolutely-class-aaron-finch-hails-virat-kohli-after-his-exceptional-ton-against-kolkata-knight-riders-2026-05-14-1041170",
-    "time": "2026-05-14T14:45:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah to lead MI against PBKS, five-time champions achieve unique feat ahead of fiery clash",
-    "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 will see Mumbai Indians taking on Punjab Kings. The two sides will meet at the HPCA Stadium in Dharamsala on May 14th, and ahead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-to-lead-mi-against-pbks-five-time-champions-achieve-unique-feat-ahead-of-fiery-clash-2026-05-14-1041165",
-    "time": "2026-05-14T13:46:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings post 200 runs in the first innings",
-    "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 will see Punjab Kings taking on Mumbai Indians. The two sides will meet at the HPCA Stadium in Dharamsala, and while Mumbai Indians have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-mi-live-cricket-score-punjab-kings-look-to-get-back-to-winning-ways-2026-05-14-1041158",
-    "time": "2026-05-14T13:06:53.000Z"
   }
 ];

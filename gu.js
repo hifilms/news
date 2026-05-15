@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "આર્થિક મંદી પર દુનિયાના 4 અર્થશાસ્ત્રીઓની આ ભવિષ્યવાણીઓ અવગણશે, તો ભારત મોટા ખાડામાં પડશે!",
+    "desc": "Global Economic Recession 2026 ; દુનિયા વૈશ્વિક મંદી તરફ આગળ ધપી રહી છે. જો આવું જ ચાલ્યું તો ભારત પણ ખતરામાં આવી શકે છે. ભારત પર વૈશ્વિક મંદીની શું અસર થશે, વિશ્વના અર્થશાસ્ત્રીઓએ શું ભવિષ્યવાણી કરી છે, તેના પર હવે વિચાર કરવાનો સમય આવી ગયો છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/predictions-of-4-world-economists-on-economic-recession-2026-477926 ",
+    "time": "2026-05-15T06:26:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભર ઉનાળે ભયંકર આંધી તોફાન અને વરસાદે તારાજી સર્જી, યુવક હવામાં ઉડ્યો, 100થી વધુ લોકોના મોત",
+    "desc": "એક બાજુ જ્યાં ગુજરાત સહિત દેશના અનેક ભાગોમાં કાળઝાળ ગરમી છે અને હિટવેવ લોકોને હેરાન પરેશાન કરી રહી છે. લોકો ગરમીથી હેરાન પરેશાન થઈ ગયા છે. યુપીમાં બુધવારે ભારે આંધી તોફાન સાથે વરસાદ પડતા 100 જેટલા લોકોએ જીવ ગુમાવ્યા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/up-news-terrible-storm-and-heavy-rain-wreaks-havoc-many-people-died-check-latest-update-477810 ",
+    "time": "2026-05-15T06:18:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પેપર લીક બાદ મોટો નિર્ણય, આગામી વર્ષથી ઓનલાઈન લેવાશે NEETની પરીક્ષા, શિક્ષણમંત્રીની જાહેરાત",
+    "desc": "NEET પેપર લીકથી નિરાશ થઈ ગયેલા વિદ્યાર્થીઓ માટે રાહતના સમાચાર સામે આવ્યા છે. નેશનલ ટેસ્ટિંગ એજન્સી અને પેપર લીકના સમાચાર વચ્ચે આખરે કેન્દ્રીય શિક્ષણમંત્રી પ્રથમવાર મીડિયાની સામે આવ્યા છે. તેમણે ન માત્ર ગેરરીતિની વાત સ્વીકારી પરંતુ ડેમેજ કંટ્રોલ કરતા મોટી જાહેરાત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/we-have-zero-tolerance-towards-malpractices-and-this-is-a-long-fight-against-the-examination-mafia-says-union-education-minister-dharmendra-pradhan-477923 ",
+    "time": "2026-05-15T06:15:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પેટ્રોલ-ડીઝલ અને સોના પર અપીલ બાદ હવે શું થશે? વિદેશ પ્રવાસેથી આવી PM મોદી યોજશે મોટી બેઠક",
+    "desc": "કેન્દ્ર સરકાર આપદામાં અવસર કહેવતને ચરીતાર્થ કરવા તરફ આગળ વધતા પશ્ચિમ એશિયા સંકટને પણ અવસરની જેમ જોઈ રહી છે. કોરોના કાળમાં શરૂ કરવામાં આવેલા સુધારા અને સરળતાની દિશામાં વધુ એક પગલું આગળ વધવાની તૈયારી છે. પીએમ મોદી વિદેશ પ્રવાસ બાદ એક મોટી બેઠક યોજવાના છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/a-minister-of-council-meeting-will-be-held-on-may-21-under-the-chairmanship-of-pm-modi-this-issue-will-be-discussed-477919 ",
+    "time": "2026-05-15T05:31:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સવાર સવારમાં મોટો ઝટકો, ભાવ વધારા બાદ અમદાવાદ સહિત શહેરોમાં એક લીટર પેટ્રોલ-ડીઝલનો નવો રેટ",
+    "desc": "આજે સવાર સવારમાં દેશવાસીઓને મોટો ઝટકો મળ્યો છે કારણ કે પેટ્રોલ અને ડીઝલના ભાવમાં વધારો ઝીંકાયો છે. જેની ભીતિ સેવાઈ રહી હતી આખરે તે જ જોવા મળ્યું છે. જાણો ગુજરાતના મોટા શહેરોમાં પેટ્રોલ અને ડીઝલના આજના નવા ભાવ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-price-increased-check-ahmedabad-petrol-price-rajkot-surat-vadodara-latest-petrol-diesel-rate-477907 ",
+    "time": "2026-05-15T05:06:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પેટ્રોલ-ડીઝલ બાદ હવે LPG સિલિન્ડરનો વારો? વધી શકે છે રેટ, જાણો અમદાવાદ સહિત શહેરોમાં આજનો ભાવ",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચેની તંગ સ્થિતિ થાળે પડી રહી નથી જેની લપેટમાં હવે ધીરે ધીરે ભારત પણ આવતું જોવા મળી રહ્યું છે. આજે સવારે પેટ્રોલ અને ડીઝલના ભાવ વધ્યા અને હવે રાંધણ ગેસનો બાટલો પણ મોંઘો થાય તેવી ભીતિ સેવાઈ રહી છે. જાણો આજના લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-cylinder-price-today-in-ahmedabad-surat-rajkot-vadodara-check-latest-price-in-your-city-477909 ",
+    "time": "2026-05-15T04:37:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અભિનેત્રી મૌની રોયના ડિવોર્સની વાત સાચી નીકળી, મૌની પછી સૂરજે પણ લગ્નની તસવીરો ડીલીટ કરી",
+    "desc": "મૌની રોયના ડિવોર્સની વાત અફવા નહીં પણ સાચી નીકળી છે. 2 દિવસથી સોશિયલ મીડિયા પર ચાલતી ચર્ચાઓ પર પૂર્ણવિરામ મુકવા મૌની રોયે જ સત્તાવાર રીતે જાહેર કરી દીધું છે કે તે અને સૂરજ નાંબિયાર અલગ થઈ ગયા છે. સાથે જ સૂરજ નાંબિયારે પણ મૌની રોયની બધી જ તસવીરો ડીલીટ કરી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-announced-divorce-suraj-nambiar-deleted-all-photos-of-mouni-roy-from-his-instagram-477906 ",
+    "time": "2026-05-15T02:58:43.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મધ્યમ વર્ગને મોટો ઝટકો, પેટ્રોલ-ડીઝલના ભાવમાં 3 રુપિયા સુધીનો વધારો, જાણો નવા રેટ",
     "desc": "15 મે 2026 ના રોજ સૌથી મોટો ઝટકો લોકોને મળ્યો છે. આજે સરકારે પેટ્રોલ અને ડીઝલના ભાવમાં 3 રુપિયાથી વધુનો વધારો ઝીંક્યો છે. જેના કારણે પેટ્રોલ અને ડીઝલના ભાવ વધી ચુક્યા છે. હવે પેટ્રોલ ડીઝલ કયા ભાવે મળશે ચેક કરી લો.",
@@ -135,15 +198,6 @@ const newsData_gu = [
     "time": "2026-05-14T07:52:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભર ઉનાળે ભયંકર આંધી તોફાન અને વરસાદે તારાજી સર્જી, યુવક હવામાં ઉડ્યો, 100થી વધુ લોકોના મોત",
-    "desc": "એક બાજુ જ્યાં ગુજરાત સહિત દેશના અનેક ભાગોમાં કાળઝાળ ગરમી છે અને હિટવેવ લોકોને હેરાન પરેશાન કરી રહી છે. લોકો ગરમીથી હેરાન પરેશાન થઈ ગયા છે. યુપીમાં બુધવારે ભારે આંધી તોફાન સાથે વરસાદ પડતા 100 જેટલા લોકોએ જીવ ગુમાવ્યા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/up-news-terrible-storm-and-heavy-rain-wreaks-havoc-many-people-died-check-latest-update-477810 ",
-    "time": "2026-05-14T07:40:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વિરાટ કોહલીએ રચ્યો ઇતિહાસ, રોહિત અને ધોનીને પણ છોડ્યા પાછળ, બનાવ્યા અનેક મહારેકોર્ડ",
     "desc": "KKR સામેની મેચ માટે મેદાનમાં ઉતરતાની સાથે જ વિરાટ કોહલીએ IPLના ઇતિહાસમાં એક નવો રેકોર્ડ બનાવ્યો છે. પોતાની 279મી મેચ રમીને તે લીગમાં સૌથી વધુ મેચ રમનાર ખેલાડી બન્યો છે. તેણે એમએસ ધોની અને રોહિત શર્માને પણ પાછળ છોડી દીધા છે. આ ઉપરાંત કોહલીએ આ મેચમાં બીજા પણ કેટલાક રેકોર્ડ પોતાના નામે કર્યા છે.",
@@ -178,15 +232,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-china-visit-chinese-president-xi-jinping-trump-meeting-477796 ",
     "time": "2026-05-14T04:36:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સંકટ વચ્ચે ભારતનું &amp;#039;ટ્રમ્પ કાર્ડ&amp;#039;... ઓઈલ માટે રશિયા સાથે કર્યું એવું સેટિંગ કે હવે અમેરિકા પણ કંઈ નહીં કરી શકે",
-    "desc": "આંતરરાષ્ટ્રીય બજારમાં પણ બ્રેન્ટ ક્રૂડના ભાવમાં તીવ્ર વધારો થયો છે. બુધવારે બ્રેન્ટ ક્રૂડ 108 ડોલર પ્રતિ બેરલની ઉપર ટ્રેડ થઈ રહ્યું છે. જે આ વર્ષે અત્યાર સુધીમાં આશરે 78%નો વધારો દર્શાવે છે. આ બધાની વચ્ચે ભારતે ઓઈલ માટે રશિયા સાથે એવું સેટિંગ કર્યું છે કે હવે અમેરિકા પણ કંઈ નહીં કરી શકે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-boosts-russian-oil-imports-to-record-levels-ahead-of-us-waiver-expiry-477784 ",
-    "time": "2026-05-13T17:58:12.000Z"
   },
   {
     "cat": "Sports",
@@ -234,15 +279,6 @@ const newsData_gu = [
     "time": "2026-05-13T13:21:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એવું કયું પક્ષી છે, જે દૂધમાંથી પાણી અલગ કરી શકે છે ? એક ક્લિકમાં જાણી લો જવાબ",
-    "desc": "જ્યારે પણ અભ્યાસ કે સ્પર્ધાત્મક પરીક્ષાની વાત આવે ત્યારે એક વસ્તુ આપમેળે તેનો અભિન્ન ભાગ બની જાય છે અને તે છે જનરલ નોલેજ. સરકારી નોકરીની તૈયારી કરતા ઉમેદવારો માટે જનરલ નોલેજ સૌથી મહત્વપૂર્ણ વિષય છે. ત્યારે આ લેખમાં આજે અમે તમારા માટે આવા જ કેટલાક સવાલો અને જવાબ લઈને આવ્યા છે, જે તમને ઉપયોગી થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gk-quiz-which-bird-can-separate-water-from-milk-know-the-answer-477741 ",
-    "time": "2026-05-13T13:09:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "દિવસો સુધી યાદ રહી જાય એવી થ્રિલર ફિલ્મ જોવી હોય તો જીયો હોટસ્ટાર પર જુઓ આ ફિલ્મ",
     "desc": "જો તમે જોરદાર મિસ્ટ્રી થ્રિલર ફિલ્મ જોવા માંગો છો અને તમને સારો ઓપ્શન નથી મળી રહ્યો તો ચાલો તમને જીયો હોટસ્ટારની બેસ્ટ ફિલ્મ વિશે જણાવીએ. આ ફિલ્મ ડાર્ક કોમેડી મિસ્ટ્રી થ્રિલર ફિલ્મ છે. આવી ફિલ્મ તમે આજ સુધી જોઈ નહીં હોય.",
@@ -288,15 +324,6 @@ const newsData_gu = [
     "time": "2026-05-13T10:43:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "જો ભારતમાં &amp;#039;એનર્જી લૉકડાઉન&amp;#039; લાગશે તો શું-શું બંધ થઈ જશે? જાણો કેવી રીતે બદલાઈ જશે તમારૂ રોજિંદુ જીવન",
-    "desc": "મધ્યપૂર્વમાં લાંબા સમયથી ચાલી રહેલું સંકટ દુનિયા માટે સતત મુશ્કેલી ઉભી કરી રહ્યું છે. ઈરાન સંકટને કારણે હોર્મુઝ માર્ગ પર ભયાનક અસર પડી છે, જેથી સપ્લાય ચેન ખોરવાઈ ગઈ છે. દુનિયાભરના દેશોમાં પેટ્રોલ અને ડીઝલની કિંમતોમાં વધારો થયો છે. તેવામાં પ્રધાનમંત્રી મોદીએ પણ દેશની જનતાને વર્ક ફ્રોમ હોમ, એક વર્ષ સુધી સોનું ન ખરીદવું અને પેટ્રોલ-ડીઝલના વાહનોનો ઓછો ઉપયોગ કરવાની સલાહ આપી છે. તેવામાં આજે અમે તમને જણાવીશું કે જો ભારતમાં એનર્જી લોકડાઉન લાગૂ કરવામાં આવે તો શું થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-there-is-an-energy-lockdown-in-india-what-will-be-shut-down-possible-restrictions-how-daily-life-would-change-477723 ",
-    "time": "2026-05-13T10:36:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "હોમ લોન ચુકવવા સમયે ન કરો આ ભૂલ, બાકી થઈ શકે છે નુકસાન",
     "desc": "ઘર ખરીદવું બધાનું સપનું હોય છે, પરંતુ હોમ લોન જલ્દી ખતમ કરવી પણ મોટી જવાબદારી હોય છે. આ કારણે ઘણા લોકો રોકડમાં લોન ચુકવવાનો વિકલ્પ પસંદ કરે છે, પરંતુ આ પ્રક્રિયા હંમેશા ફાયદાકારક રહેતી નથી.",
@@ -313,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/i-am-leaving-india-after-16-years-but-will-not-return-to-iran-actress-mandana-karimi-fears-death-477704 ",
     "time": "2026-05-13T09:40:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "9 વેધર સિસ્ટમ એક્ટિવ! ક્યાંક આકરી ગરમી તો ક્યાંક કરા સાથે વરસાદ; જાણો ક્યારે થશે ચોમાસાનું આગમન?",
-    "desc": "આ વર્ષે મે મહિનામાં દેશનું વાતાવરણ અસામાન્ય રીતે ઠંડું રહ્યું છે. ભારે વરસાદ, વાવાઝોડું, કરા અને ભારે પવન સાથે ઘણી વેધર સિસ્ટમ સક્રિય છે. મે મહિનાના પ્રથમ સપ્તાહમાં 79% વધુ વરસાદ નોંધાયો છે. સુપર અલ-નીનોને કારણે હવામાનમાં હજુ વધુ પલટો જોવા મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/9-weather-systems-active-somewhere-intense-heat-somewhere-rain-with-hail-know-when-the-monsoon-will-arrive-477703 ",
-    "time": "2026-05-13T09:38:06.000Z"
   },
   {
     "cat": "Business",
@@ -450,15 +468,6 @@ const newsData_gu = [
     "time": "2026-05-12T09:53:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "એક ઝટકે ચાંદી 11000 રૂપિયા મોંઘી, સોનાના ભાવમાં પણ બંપર વધારો, જાણો આજનો કેરેટ પ્રમાણે લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીમાં કાલે કડાકા બાદ આજે અચાનક ભાવમાં વધારો જોવા મળ્યો છે. ચાંદી તો 11 હજાર રૂપિયા જેટલી ઉછળી. સોનું પણ 1500 રૂપિયા જેટલું મોંઘુ થયું. અચાનક ભાવ કેમ ઉછળ્યા અને આજના લેટેસ્ટ રેટ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/silver-rate-up-by-by-11000-rupees-gold-prices-also-increase-sharply-check-latest-rate-477551 ",
-    "time": "2026-05-12T08:07:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "કોણ છે માધવ તિવારી ? જે ડૂબતી દિલ્હીનો બન્યો સહારો, માત્ર 8 બોલમાં જ પલટી નાખી મેચ !",
     "desc": "દિલ્હી કેપિટલ્સના યુવા ઓલરાઉન્ડર માધવ તિવારીએ IPL 2026માં પંજાબ કિંગ્સ સામેની મેચમાં બેટ અને બોલ બંનેથી શાનદાર પ્રદર્શન કર્યું, જેના કારણે ટીમને યાદગાર જીત મળી. 22 વર્ષીય ખેલાડીએ બે વિકેટ લીધી અને માત્ર આઠ બોલમાં અણનમ 18 રન બનાવીને 'પ્લેયર ઓફ ધ મેચ'નો એવોર્ડ મેળવ્યો. તેના પ્રયાસોને કારણે દિલ્હીની પ્લેઓફમાં પહોંચવાની આશા જીવંત રહી.",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/donald-trump-will-go-on-a-three-day-visit-to-china-bilateral-meeting-will-be-held-between-the-two-countries-477485 ",
     "time": "2026-05-12T03:28:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;પોર્ન સ્ટાર&amp;#039; સાથે જોવા મળ્યો વિરાટ કોહલી ? સોશિયલ મીડિયા પર ફોટો વાયરલ, જાણો શું છે હકીકત",
-    "desc": "વિરાટ કોહલી હાલમાં IPL 2026માં રોયલ ચેલેન્જર્સ બેંગલુરુ માટે રમી રહ્યો છે. આ સિઝનમાં તેણે શાનદાર પ્રદર્શન કર્યું છે. આ દરમિયાન સોશિયલ મીડિયા પર એક ફોટોગ્રાફ ઝડપથી વાયરલ થઈ રહ્યો છે. જેમાં તે પોર્ન સ્ટાર સાથે જોવા મળી રહ્યો છે, ત્યારે શું છે સમગ્ર હકીકત તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-kendra-lust-photo-viral-on-social-media-know-the-truth-behind-it-477434 ",
-    "time": "2026-05-11T11:36:53.000Z"
   },
   {
     "cat": "Entertainment",
