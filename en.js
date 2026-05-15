@@ -1,9 +1,171 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Trisha blushes after fan mentions Vijay at Karuppu screening",
+    "desc": "Trisha Krishnan once again grabbed attention amid ongoing dating rumours with Vijay after her latest public appearance in Chennai. The actress was seen blushing and smiling when a fan asked her to convey regards to the Tamil Nadu Chief Minister, further fuelling speculation around their rumoured relationship. Though neither Vijay nor Trisha has addressed the speculation publicly, fans continue to closely track their appearances and interactions.",
+    "img": "https://static.toiimg.com/photo/msid-131126701,imgsize-33538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnan-blushes-after-fan-mentions-thalapathy-vijay-at-karuppu-screening-amid-dating-rumours/articleshow/131126672.cms",
+    "time": "2026-05-15T19:00:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Akash, Marsh on fire as LSG delivers a body blow to CSK",
+    "desc": "The young left-arm pacer rocks the visiting side’s top-order with an unchanged spell in his first game of the season; the swashbuckling opener’s 38-ball 90 paves the way for a thumping win; rookie Kartik’s fighting knock goes in vain",
+    "img": "https://th-i.thgim.com/public/incoming/v3vov/article70984849.ece/alternates/LANDSCAPE_1200/IPL%202026%20LSG%20VS%20CSK%2056.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-akash-marsh-on-fire-as-lsg-delivers-a-body-blow-to-csk/article70984837.ece",
+    "time": "2026-05-15T18:56:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seminar on influence of Western Ghats on farming and economy held",
+    "desc": "Principal Secretary of Department of Forest, Environment and Ecology Srinivasulu said that despite high ecological and scientific significance of the Western Ghats, commoners living around Western Ghats were yet to fully appreciate its value for the future of humanity.",
+    "img": "https://th-i.thgim.com/public/incoming/futq2l/article70984848.ece/alternates/LANDSCAPE_1200/DJI_20260109115902_0495_D.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/seminar-on-influence-of-western-ghats-on-farming-and-economy-held/article70983877.ece",
+    "time": "2026-05-15T18:54:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Election Commission orders probe into voting by foreign nationals in Tamil Nadu Assembly elections",
+    "desc": "A report has been sought from the returning officers of at least two cities and five districts across the State on how the foreigners managed to vote despite the Special Intensive Revision of the electoral rolls",
+    "img": "https://th-i.thgim.com/public/incoming/9xfud7/article70984513.ece/alternates/LANDSCAPE_1200/9712_23_4_2026_13_55_23_3__DSC1639.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/eci-orders-probe-into-voting-by-foreign-nationals-in-the-tamil-nadu-assembly-election/article70983594.ece",
+    "time": "2026-05-15T18:47:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Indian chess needs more big-ticket, Super GM tournaments",
+    "desc": "The country is currently the sport’s super power, but its emerging players must compete regularly against the world’s top stars to attain an elite level. They must not be forced to find the means to travel around the globe for this opportunity. Besides, high-category events featuring the likes of Carlsen, Caruana and Nakamura will only help the game’s marketing in India",
+    "img": "https://th-i.thgim.com/public/incoming/vwzdpj/article70983812.ece/alternates/LANDSCAPE_1200/IMG_TH04GCL_2_1_B1DDPD1I.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/why-indian-chess-needs-more-big-ticket-super-gm-tournaments/article70983791.ece",
+    "time": "2026-05-15T18:46:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How ‘Kvaradona’ entered the Ballon d’Or conversation",
+    "desc": "Khvicha Kvaratskhelia has put together a Champions League campaign that has made him a legitimate candidate for football’s top individual honour — almost ironic for such a selfless team player. The PSG winger has decided big matches with jaw-dropping moments, powering the defending European champion to another final",
+    "img": "https://th-i.thgim.com/public/incoming/vukg44/article70983886.ece/alternates/LANDSCAPE_1200/GettyImages-2273604231.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/how-kvaradona-entered-the-ballon-dor-conversation/article70983894.ece",
+    "time": "2026-05-15T18:45:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Those who want to leave can go': Mamata Banerjee amid internal dissent after Bengal poll debacle",
+    "desc": "Following a significant electoral defeat, West Bengal Chief Minister Mamata Banerjee has told unhappy party leaders they are free to leave, vowing to rebuild the Trinamool Congress. She urged loyalists to restore damaged party offices and reconnect with grassroots workers, asserting the party will not bow down despite the perceived \"looting\" of the people's mandate.",
+    "img": "https://static.toiimg.com/photo/msid-131125836,imgsize-42160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/those-who-want-to-leave-can-go-mamata-banerjee-amid-internal-dissent-after-bengal-poll-debacle/articleshow/131125862.cms",
+    "time": "2026-05-15T18:27:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saif Ali Khan",
+    "desc": "In this conversation with Shreyas Pande, Saif Ali Khan, Rasika Dugal and Manish Chaudhari open up about their upcoming film, ‘Kartavya’, reflecting on their favourite crime-thriller tropes, Saif’s process of working on dialects, the advice he received from Amitabh Bachchan and Deepak Dobriyal, their thoughts on the current streaming landscape, and more",
+    "img": "https://th-i.thgim.com/public/incoming/5y3czf/article70984793.ece/alternates/LANDSCAPE_1200/mamata%204.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/saif-ali-khan-rasika-dugal-manish-chaudhari-interview/article70984799.ece",
+    "time": "2026-05-15T18:14:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LSG push CSK to sixth with commanding win",
+    "desc": "Lucknow Super Giants dented Chennai Super Kings' playoff hopes with a dominant seven-wicket victory. Akash Singh's stellar bowling performance restricted CSK to 187, a target LSG comfortably chased with 20 balls remaining. This loss pushed CSK to sixth in the IPL 2026 standings, while RCB lead the table.",
+    "img": "https://static.toiimg.com/photo/msid-131125610,imgsize-69758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/updated-ipl-2026-points-table-after-lsg-vs-csk-match-lucknow-super-giants-push-chennai-super-kings-to-sixth-with-commanding-win/articleshow/131124952.cms",
+    "time": "2026-05-15T18:12:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJI Kant",
+    "desc": "“There are parasites in society who attack the system... they don’t get any employment and don’t have any place in the profession. Some of them become media, some of them become social media, some of them become RTI activists, and they start attacking everyone,” the CJI observed",
+    "img": "https://th-i.thgim.com/public/incoming/v7exuf/article70982997.ece/alternates/LANDSCAPE_1200/DSC_8328A.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/thousands-in-black-robes-with-doubtful-degrees-says-cji-surya-kant/article70982893.ece",
+    "time": "2026-05-15T17:39:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘It motivates me’: Akash Singh reveals story behind viral note celebration",
+    "desc": "Akash Singh's electrifying IPL 2026 debut saw him claim three crucial wickets for Lucknow Super Giants against Chennai Super Kings. His unique wicket celebration, involving a motivational note, highlighted his determined mindset. Singh emphasised the importance of mental dominance and aggressive play, stating his goal is to 'dominate' in the IPL, a reward for his season-long persistence and hard work.",
+    "img": "https://static.toiimg.com/photo/msid-131124481,imgsize-34372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-it-motivates-me-akash-singh-reveals-story-behind-viral-note-celebration-watch/articleshow/131124308.cms",
+    "time": "2026-05-15T17:37:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi dismisses reports of govt mulling tax on foreign travel",
+    "desc": "The Prime Minister’s response follows a news report that suggested that the government was considering levying a tax or a cess or a surcharge on foreign travel but no final decision had been taken yet.",
+    "img": "https://th-i.thgim.com/public/incoming/bjruuf/article70984627.ece/alternates/LANDSCAPE_1200/20260506172L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/no-question-of-putting-such-restrictions-on-foreign-travel-pm-modi-dismisses-reports-of-govt-mulling-taxation-on-foreign-travel/article70984620.ece",
+    "time": "2026-05-15T17:31:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Samuel L. Jackson",
+    "desc": "Renowned actor Samuel L. Jackson, whose illustrious career spans several decades, champions the importance of advocacy through one’s voice. He passionately declares, 'If you have an opportunity to use your voice, you should use it,' emphasizing the vital role each individual plays in fostering societal progress.",
+    "img": "https://static.toiimg.com/photo/msid-131122041,imgsize-27834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-samuel-l-jackson-if-you-have-an-opportunity-to-use-your-voice-you-should-use-it/articleshow/131122041.cms",
+    "time": "2026-05-15T17:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celina Jaitly pens emotional note for Preity Zinta",
+    "desc": "Celina Jaitly shared a heartfelt note for her close friend Preity Zinta after joining her in Dharamsala to cheer for Punjab Kings. The emotional post comes at a difficult time for Celina, days after Mumbai Police registered an FIR against her husband Peter Haag following her domestic violence allegations.",
+    "img": "https://static.toiimg.com/photo/msid-131124130,imgsize-79652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-pens-emotional-note-for-preity-zinta-amid-domestic-violence-case-against-husband-peter-haag-biggest-lights-in-my-life/articleshow/131124036.cms",
+    "time": "2026-05-15T17:27:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt imposes Rs 3/litre windfall tax on petrol exports, cuts diesel and ATF export levies",
+    "desc": "The government has imposed a Rs 3 per litre windfall tax on petrol exports while reducing levies on diesel and aviation fuel. These revised rates, effective May 16, aim to ensure domestic fuel availability and prevent excessive profits from elevated global crude oil prices amid the West Asia conflict.",
+    "img": "https://static.toiimg.com/photo/msid-131124097,imgsize-617183.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-levies-rs-3/litre-windfall-tax-on-petrol-exports-amid-rising-oil-prices/articleshow/131124088.cms",
+    "time": "2026-05-15T17:25:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Robin Singh parts ways with Mumbai Indians after 16-year journey",
+    "desc": "Former India all-rounder Robin Singh has officially departed from the Mumbai Indians franchise after a 16-year association. Singh confirmed his exit from both the IPL team and MI Emirates, concluding a significant support-staff tenure. He was instrumental in the franchise's success, being part of all five IPL title wins and two Champions League T20 triumphs.",
+    "img": "https://static.toiimg.com/photo/msid-131123571,imgsize-15912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/end-of-an-era-robin-singh-parts-ways-with-mumbai-indians-after-16-year-journey/articleshow/131123558.cms",
+    "time": "2026-05-15T17:08:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Press Club of India urges Uttar Pradesh govt. to withdraw NSA against journalist Satyam Verma",
+    "desc": "The PCI urged the UP government to withdraw the move against Mr. Verma and free the senior journalist from detention, stating that the UP police invoked the NSA after nearly a month of his arrest.",
+    "img": "https://th-i.thgim.com/public/incoming/4wj298/article70984607.ece/alternates/LANDSCAPE_1200/PTI04_13_2026_000100A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/press-club-of-india-urges-uttar-pradesh-govt-to-withdraw-nsa-against-journalist-satyam-verma/article70982976.ece",
+    "time": "2026-05-15T16:55:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 crashes OTT servers in Pakistan? Viral video claims",
+    "desc": "The Revenge has turned into a massive global phenomenon ever since its theatrical release on March 19. The action drama reportedly earned over Rs 1,800 crore worldwide, becoming the second-highest-grossing Indian film ever. While Indian audiences are still waiting for the film’s OTT debut on June 4, the movie has already premiered in Pakistan — and if viral claims are to be believed, the craze around the film allegedly became so intense that Netflix servers crashed within minutes of release.",
+    "img": "https://static.toiimg.com/photo/msid-131123135,imgsize-38928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-crashes-ott-servers-in-pakistan-viral-video-claims-fans-stayed-up-till-midnight-for-ranveer-singh-starrer/articleshow/131123053.cms",
+    "time": "2026-05-15T16:47:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘Not an iota of truth’: PM Modi dismisses report of restriction on foreign travels via tax",
     "desc": "Prime Minister Narendra Modi has vehemently denied reports suggesting the government was considering a cess or tax on foreign travel. He stated there was no truth to these claims and reiterated the commitment to improving 'Ease of Doing Business' and 'Ease of Living' for citizens, dismissing any notion of imposing such restrictions.",
-    "img": "https://static.toiimg.com/photo/msid-131122753,imgsize-27880.cms",
+    "img": "https://static.toiimg.com/photo/msid-131122911,imgsize-31172.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/not-an-iota-of-truth-pm-modi-dismisses-report-of-restriction-on-foreign-travels-via-tax/articleshow/131122763.cms",
     "time": "2026-05-15T16:33:56.000Z"
@@ -16,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/noah-wyle-net-worth-how-the-pitt-star-built-and-rebuilt-his-million-dollar-fortune-of-usd-10m-after-a-massive-loss/articleshow/131120565.cms",
     "time": "2026-05-15T16:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ECI orders probe into voting by foreign nationals in the Tamil Nadu Assembly election",
-    "desc": "A report has been sought from the returning officers of at least two cities and five districts across the State on how the foreigners managed to vote despite the Special Intensive Revision of the electoral rolls",
-    "img": "https://th-i.thgim.com/public/incoming/9xfud7/article70984513.ece/alternates/LANDSCAPE_1200/9712_23_4_2026_13_55_23_3__DSC1639.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/eci-orders-probe-into-voting-by-foreign-nationals-in-the-tamil-nadu-assembly-election/article70983594.ece",
-    "time": "2026-05-15T16:23:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/no-order-without-hearing-us-hindu-party-files-caveat-in-sc-after-hc-bhojshala-verdict/articleshow/131121939.cms",
     "time": "2026-05-15T15:46:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monsoon to reach Kerala on May 26, says IMD",
-    "desc": "Last year, the monsoon set in over Kerala on May 24 — its earliest arrival since 2009; IMD’s operational forecasts of the date of monsoon onset over Kerala during the past 21 years (2005-2025) were proved to be correct except in 2015",
-    "img": "https://th-i.thgim.com/public/incoming/ephlb3/article70982353.ece/alternates/LANDSCAPE_1200/Clouds05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-meteorological-department-southwest-monsoon-kerala-may-26/article70982338.ece",
-    "time": "2026-05-15T15:37:25.000Z"
   },
   {
     "cat": "World",
@@ -298,48 +442,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Akshay Kumar has charged Rs 40 crore for 'Golmaal 5?",
-    "desc": "Akshay Kumar is reportedly commanding a massive fee of ₹35-40 crore for his appearance in 'Golmaal 5', a figure exceeding Ajay Devgn's upfront remuneration due to a profit-sharing agreement. The 'Sooryavanshi' actor is set to shoot for 18-22 days, joining the existing ensemble in Rohit Shetty's highly anticipated comedy entertainer.",
-    "img": "https://static.toiimg.com/photo/msid-131116787,imgsize-33734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-akshay-kumar-charging-rs-40-crore-for-golmaal-5-more-than-ajay-devgns-fees-heres-what-we-know/articleshow/131116796.cms",
-    "time": "2026-05-15T11:50:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer's Dhurandhar 2 'Raw &amp; Undekha' cut to stream on THIS",
-    "desc": "The Revenge will stream in India from June 5, with a grand digital premiere on June 4 at 7 PM. While international viewers have been watching the uncensored 'Raw & Undekha' cut on Netflix since May 14, Indian fans are now equally excited about the OTT release.",
-    "img": "https://static.toiimg.com/photo/msid-131116710,imgsize-31408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-ott-release-date-in-india-confirmed-ranveer-singhs-raw-undekha-cut-to-stream-on-this-platform-from-june-5/articleshow/131116710.cms",
-    "time": "2026-05-15T11:46:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "How Tagore’s songs were ahead of their time in form and feeling",
     "desc": "The Nobel-laureate’s songs, popularly referred to as Rabindra Sangeet, are dynamic texts open to reinterpretation, allowing each generation to find new meaning in themes of freedom, love, and humanity — revisiting the Tagore’s musical oeuvre on his 165th birth anniversary",
     "img": "https://th-i.thgim.com/public/news/national/pwmc9a/article70981575.ece/alternates/LANDSCAPE_1200/tagore%20FR.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/celebrating-tagore-165th-rabindrasangeet-and-his-legacy/article70969213.ece",
     "time": "2026-05-15T11:40:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gwyneth Paltrow reacts to Selena Gomez’s love for fast food",
-    "desc": "In a quirky revelation on the Goop podcast, music producer Benny Blanco shared insights into his wife Selena Gomez's unconventional food preferences, playfully labeling her diet as reminiscent of a 5-year-old's palette. Morning drive-thru meals and an apparent disdain for greens paint an amusing picture, which made Gwyneth Paltrow, a staunch believer in health-conscious eating, gasp in disbelief.",
-    "img": "https://static.toiimg.com/photo/msid-131116390,imgsize-63554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/this-is-not-goop-approved-gwyneth-paltrow-stunned-as-benny-blanco-reveals-selena-gomezs-fast-food-diet/articleshow/131116390.cms",
-    "time": "2026-05-15T11:34:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Drake drops three new albums leading with ‘Iceman’",
-    "desc": "Global music sensation Drake has surprised fans with a monumental triple album release. Dropping simultaneously at midnight, the rapper unveiled 'Iceman,' 'Maid of Honour,' and 'Habibti,' featuring a total of 43 tracks. These new projects boast collaborations with prominent artists like Future and 21 Savage, with 'Iceman' itself referencing the iconic Top Gun character.",
-    "img": "https://static.toiimg.com/photo/msid-131116393,imgsize-139980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/drake-drops-3-new-albums-today-complete-guide-to-iceman-maid-of-honour-and-habibti-featuring-43-songs/articleshow/131116256.cms",
-    "time": "2026-05-15T11:32:49.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +468,6 @@ const newsData_en = [
     "time": "2026-05-15T11:13:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ICC punishes Pakistan after historic Bangladesh Test defeat; fined, docked WTC points",
-    "desc": "Pakistan face a double blow after their shocking Test defeat to Bangladesh. The ICC has fined the team 40% of their match fee and deducted eight crucial points from their World Test Championship standings due to a slow over-rate. This significant penalty pushes Pakistan down to eighth place, impacting their championship aspirations.",
-    "img": "https://static.toiimg.com/photo/msid-131115557,imgsize-92440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-punishes-pakistan-after-historic-bangladesh-test-defeat-fined-40-match-fee-docked-eight-wtc-points/articleshow/131115341.cms",
-    "time": "2026-05-15T10:58:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anupam Kher on challenging himself at 71, returning to theatre after 550 films",
     "desc": "Veteran actor Anupam Kher, despite a prolific career of 550 films, embraces new challenges, returning to theatre with 'Jaane Pehchaane Anjaane'. He attributes his sustained excitement to a fear of failure and a refusal to take himself too seriously, constantly pushing his boundaries and making things difficult for himself to avoid complacency.",
@@ -376,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-opens-up-on-challenging-himself-at-71-and-returning-to-theatre-after-doing-550-films-i-dont-take-myself-seriously-exclusive/articleshow/131115277.cms",
     "time": "2026-05-15T10:48:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Lucknow Super Giants can make or break CSK’s playoff hopes?",
-    "desc": "Chennai Super Kings face a critical IPL 2026 match against Lucknow Super Giants. A victory propels CSK towards the top four, boosting their playoff chances significantly. However, a loss would plunge them into a precarious situation, heavily reliant on other teams' results and potentially jeopardizing their season. This encounter is a definitive turning point for their qualification hopes.",
-    "img": "https://static.toiimg.com/photo/msid-131115063,imgsize-1120903.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/csk-vs-lsg-how-lucknow-can-make-or-break-chennais-ipl-2026-playoff-hopes/articleshow/131114924.cms",
-    "time": "2026-05-15T10:37:31.000Z"
   },
   {
     "cat": "Business",
@@ -412,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/imd-predicts-onset-of-monsoon-over-kerala-on-may-26/articleshow/131114593.cms",
     "time": "2026-05-15T10:23:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Clear case for leadership’: Shastri backs Samson as future India T20I captain",
-    "desc": "Former India coach Ravi Shastri champions Sanju Samson for T20I captaincy, citing his stellar performances and leadership experience. Shastri believes Samson's recent match-winning displays, particularly in the T20 World Cup and IPL, make him a strong contender to lead India within the next few years, potentially before the 2028 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-131114704,imgsize-26578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/clear-case-for-leadership-ravi-shastri-backs-sanju-samson-as-future-india-t20i-captain/articleshow/131114591.cms",
-    "time": "2026-05-15T10:23:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'India stands shoulder-to-shoulder with UAE': PM Modi in Abu Dhabi, condemns attacks, signs strategic defence pact",
-    "desc": "Prime Minister Modi strongly condemned attacks on the UAE during talks with President Al Nahyan, reaffirming India's unwavering support for regional peace and stability. The leaders solidified strategic ties with key agreements on defence, energy, and investments totaling $5 billion. Modi expressed gratitude for a warm welcome, calling the UAE his 'second home'.",
-    "img": "https://static.toiimg.com/photo/msid-131114687,imgsize-37170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-stands-shoulder-to-shoulder-with-uae-pm-modi-in-abu-dhabi-condemns-attacks-signs-strategic-defence-pact/articleshow/131114128.cms",
-    "time": "2026-05-15T10:22:53.000Z"
   },
   {
     "cat": "Business",
@@ -468,15 +540,6 @@ const newsData_en = [
     "time": "2026-05-15T09:26:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi receives F-16 escort as he lands in UAE on first leg of five-nation tour",
-    "desc": "Prime Minister Narendra Modi commenced a five-nation tour in the UAE, receiving a ceremonial escort and holding high-level talks with President Mohamed bin Zayed Al Nahyan. The visit aims to bolster India's partnerships in trade, technology, and clean energy with the UAE and European nations, with significant opportunities anticipated for Indian exporters.",
-    "img": "https://static.toiimg.com/photo/msid-131113447,imgsize-9330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-receives-f-16-escort-as-he-lands-in-uae-on-first-leg-of-five-nation-tour/articleshow/131113138.cms",
-    "time": "2026-05-15T09:26:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s trade deficit widens to $28.38 billion in April as imports jump 10%; Middle East shipments fall 31.6%",
     "desc": "India's merchandise trade deficit surged to $28.38 billion in April, driven by a 10% rise in imports despite a significant drop in shipments from the Middle East. Elevated crude oil prices and global supply disruptions contributed to increased import costs, raising concerns about the external sector and the rupee's stability.",
@@ -493,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-inside-vijays-leo-inspired-cafe-in-kashmir/article70982219.ece",
     "time": "2026-05-15T08:40:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya likely to return for KKR clash, confirms MI teammate",
-    "desc": "Mumbai Indians' captain Hardik Pandya is sidelined with a back spasm, missing three consecutive matches. All-rounder Shardul Thakur provided an update, suggesting Pandya could return for the May 20th match against Kolkata Knight Riders. Despite the team's elimination from IPL 2026, Pandya's absence and poor form have been significant factors in their disappointing season.",
-    "img": "https://static.toiimg.com/photo/msid-131111027,imgsize-50504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/hardik-pandya-likely-to-return-for-kkr-clash-confirms-mumbai-indians-teammate/articleshow/131110989.cms",
-    "time": "2026-05-15T07:15:45.000Z"
   },
   {
     "cat": "Business",
@@ -522,15 +576,6 @@ const newsData_en = [
     "time": "2026-05-15T06:57:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Kieron Pollard fined 15% match fee after Mumbai's win against Punjab",
-    "desc": "Mumbai Indians batting coach Kieron Pollard has been fined and received a demerit point. This follows a breach of the IPL Code of Conduct. Pollard used audible obscenity during a match against Punjab Kings. He admitted to the offense. The incident occurred in the 19th over. This happened during the second innings of the game.",
-    "img": "https://static.toiimg.com/photo/msid-131109842,imgsize-33464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kieron-pollard-fined-15-match-fee-after-mumbais-win-against-punjab/articleshow/131109795.cms",
-    "time": "2026-05-15T06:15:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Markets retreat as Iran war worries, inflation fears weigh on markets",
     "desc": "Asian markets saw a downturn Friday, with investor enthusiasm for AI stocks waning due to inflation worries, high oil prices, and Middle East tensions. Despite this, Wall Street reached new peaks overnight, buoyed by tech gains and strong corporate earnings. Investors are closely watching US-China trade talks for any significant breakthroughs.",
@@ -547,24 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/strait-of-hormuz-uncertainty-chokes-crude-imports-indias-oil-stock-down-15-since-us-iran-war-heres-what-it-means/articleshow/131109488.cms",
     "time": "2026-05-15T06:06:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude rises over 1% as Trump warns Iran, Hormuz concerns persist",
-    "desc": "Global oil prices surged as President Trump expressed impatience with Iran, fueling fears of Strait of Hormuz disruptions. Brent and WTI crude saw significant weekly gains amid uncertainty over the Iran conflict and supply concerns. Despite claims of increased vessel crossings, the Strait remains a critical choke point, with maritime incidents further heightening market anxieties about tight supply.",
-    "img": "https://static.toiimg.com/photo/msid-131109110,imgsize-40322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-rises-over-1-as-donald-trump-warns-iran-hormuz-concerns-persist/articleshow/131108474.cms",
-    "time": "2026-05-15T05:32:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "CNG prices hiked by Rs 2/kg after petrol, diesel revision; check rates in your city",
-    "desc": "CNG prices have jumped by Rs 2 per kg across India, following recent hikes in petrol and diesel. This surge, attributed to the West Asia conflict impacting global energy supplies, sees Delhi's CNG now at Rs 79.09 per kg. Fuel rates have climbed significantly after a long period of stability, raising concerns about energy security.",
-    "img": "https://static.toiimg.com/photo/msid-131106455,imgsize-116518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/cng-prices-hiked-by-rs-2/kg-after-petrol-diesel-revision-check-rates-in-your-city/articleshow/131106201.cms",
-    "time": "2026-05-15T03:55:43.000Z"
   },
   {
     "cat": "Business",
@@ -675,24 +702,6 @@ const newsData_en = [
     "time": "2026-05-14T12:13:27.000Z"
   },
   {
-    "cat": "World",
-    "title": "Sleepless in Tehran as crowds rally behind the flag",
-    "desc": "A slogan on a wall nearby in Farsi read, “Meydan bashuma, khayabane ba ma”. ‘The battlefield is yours. The streets are ours.’ Addressed to the Islamic Revolutionary Guard Corps (IRGC), it was a message to the soldiers to focus on the battlefield with ordinary Iranians in control of their homes",
-    "img": "https://th-i.thgim.com/public/incoming/kagozl/article70934727.ece/alternates/LANDSCAPE_1200/APTOPIX_Iran_War_81861.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sleepless-in-tehran-as-crowds-rally-behind-the-flag/article70934728.ece",
-    "time": "2026-05-14T11:43:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What is Trump’s Project Vault?",
-    "desc": "The Trump administration’s initiative aims to create a reserve of critical minerals to protect its domestic industries from any disruption, as witnessed when China restricted export of rare earth magnets to retaliate against U.S. tariffs, causing a near shutdown of car manufacturing operations in the U.S. and the world over",
-    "img": "https://th-i.thgim.com/public/incoming/29mt30/article70645096.ece/alternates/LANDSCAPE_1200/Trump_45749.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-is-trumps-project-vault/article70643464.ece",
-    "time": "2026-05-14T11:22:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Cancelled abroad, centrestage in India: Kanye West heads to Delhi",
     "desc": "Cancelled by Australia, barred from the UK and dropped from Wireless Festival, Kanye West now heads to India for his debut in New Delhi. His arrival offers a window into the country’s booming concert economy where songs are tweaked, spontaneity is scripted and controversy is carefully managed",
@@ -754,24 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/kohlis-masterful-knock-powers-royal-challengers-to-the-top/article70975813.ece",
     "time": "2026-05-13T19:42:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Centre increases MSP for kharif crops, farm groups say rise inadequate amid rising input costs",
-    "desc": "While Centre says MSP levels have been increased significantly compared to those in 2013-14, farmer organisations criticise new rates, saying they do not factor in possible “disastrous impact” of India-United States trade Deal and other free trade agreements on agriculture sector",
-    "img": "https://th-i.thgim.com/public/incoming/a7rl1p/article70974026.ece/alternates/LANDSCAPE_1200/20260430233L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/government-hikes-paddy-msp-by-72-to-2441qtl-sunflower-seed-sees-steepest-rise-at-622/article70973917.ece",
-    "time": "2026-05-13T16:44:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "We cannot overthink and overanalyse, says PBKS coach Bahutule",
-    "desc": "“Obviously, everyone is disappointed, but we cannot overthink and overanalyse. In a couple of days’ time, we will be playing Mumbai Indians here (on Thursday). It is important to take the learnings from this game,” Bahutule said",
-    "img": "https://th-i.thgim.com/public/incoming/a8z046/article70970568.ece/alternates/LANDSCAPE_1200/08_RVM_4815.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-we-cannot-overthink-and-overanalyse-says-pbks-coach-bahutule/article70970376.ece",
-    "time": "2026-05-12T14:18:32.000Z"
   },
   {
     "cat": "Tech",

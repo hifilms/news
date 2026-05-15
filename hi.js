@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mitchell Marsh's masterclass bulldozes Chennai Super Kings out of Lucknow, propels LSG to dominant victory",
+    "desc": "Lucknow Super Giants registered a brilliant victory against Chennai Super Kings in the 59th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Ekana Stadium in Lucknow on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-marsh-s-masterclass-bulldozes-chennai-super-kings-out-of-lucknow-propels-lsg-to-dominant-victory-2026-05-15-1041323",
+    "time": "2026-05-15T18:08:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "JioStar accumulates highest ever reach as IPL 2026 playoffs race heats up",
+    "desc": "The IPL (Indian Premier League) 2026 playoffs race has been one for the ages so far. With sides sitting in first place not having secured playoffs 12 games into the tournament, the race is wide...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jiostar-accumulates-highest-ever-reach-as-ipl-2026-playoffs-race-heats-up-2026-05-15-1041320",
+    "time": "2026-05-15T17:39:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rachin Ravindra returns home, leaves Kolkata Knight Riders' camp ahead of England Tests",
+    "desc": "In a major development for Kolkata Knight Riders, star batter Rachin Ravindra has left the side’s camp to better focus on New Zealand’s upcoming tour of England. It is worth noting that New Zealand will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rachin-ravindra-returns-home-leaves-kolkata-knight-riders-camp-ahead-of-england-tests-2026-05-15-1041317",
+    "time": "2026-05-15T17:05:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'They don't need my service': Mushfiqur Rahim opens up on his potential ODI comeback",
     "desc": "The stage is set for the second Test of the ongoing series between Pakistan and Bangladesh. The two sides will face off for the second Test at the Sylhet International Cricket Stadium, and ahead of...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-csk-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-2026-05-15-1041273",
     "time": "2026-05-15T10:19:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB finally announce Nuwan Thushara's replacement for IPL 2026, CSK reveal new player",
-    "desc": "Royal Challengers Bengaluru have officially named a replacement for Sri Lankan pacer Nuwan Thushara after the fast bowler failed to obtain a No Objection Certificate from Sri Lanka Cricket. Thushara had initially considered legal action...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-finally-announce-nuwan-thushara-s-replacement-for-ipl-2026-csk-reveal-new-player-2026-05-15-1041266",
-    "time": "2026-05-15T09:36:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli sends clear message on India future, says 'If I have to prove my worth, it's not meant to be'",
-    "desc": "Virat Kohli has made it clear that his future with the Indian cricket team will depend on one thing and that is trust. The former India captain, who now plays only ODI cricket for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-sends-clear-message-on-india-future-says-if-i-have-to-prove-my-worth-it-s-not-meant-to-be-2026-05-15-1041252",
-    "time": "2026-05-15T08:24:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner breaks Novak Djokovic's legendary record, matches Rafael Nadal in another legendary feat",
-    "desc": "Jannik Sinner continued his extraordinary dominance on the ATP Tour by moving into the semi-finals of the Italian Open. He also set a new record for consecutive victories at Masters 1000 events. The world number...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-breaks-novak-djokovic-s-legendary-record-matches-rafael-nadal-in-another-legendary-feat-2026-05-15-1041241",
-    "time": "2026-05-15T07:38:22.000Z"
   }
 ];
