@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC slaps Pakistan with hefty fine, hands WTC points deduction after first Test loss against Bangladesh",
+    "desc": "In a major development, the ICC (International Cricket Council) has come forward and announced that they have docked eight points from Pakistan’s WTC (World Test Championship) tally and have also fined players 40 per cent...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-slaps-pakistan-with-hefty-fine-hands-wtc-points-deduction-after-first-test-loss-against-bangladesh-2026-05-15-1041282",
+    "time": "2026-05-15T11:02:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Ekana Stadium in Lucknow play?",
+    "desc": "The 59th game of the ongoing IPL (Indian Premier League) 2026 sees Lucknow Super Giants taking on Chennai Super Kings. The two sides will meet at the Ekana Stadium in Lucknow on May 15th. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-csk-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-2026-05-15-1041273",
+    "time": "2026-05-15T10:19:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB finally announce Nuwan Thushara's replacement for IPL 2026, CSK reveal new player",
+    "desc": "Royal Challengers Bengaluru have officially named a replacement for Sri Lankan pacer Nuwan Thushara after the fast bowler failed to obtain a No Objection Certificate from Sri Lanka Cricket. Thushara had initially considered legal action...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-finally-announce-nuwan-thushara-s-replacement-for-ipl-2026-csk-reveal-new-player-2026-05-15-1041266",
+    "time": "2026-05-15T09:36:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli sends clear message on India future, says 'If I have to prove my worth, it's not meant to be'",
+    "desc": "Virat Kohli has made it clear that his future with the Indian cricket team will depend on one thing and that is trust. The former India captain, who now plays only ODI cricket for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-sends-clear-message-on-india-future-says-if-i-have-to-prove-my-worth-it-s-not-meant-to-be-2026-05-15-1041252",
+    "time": "2026-05-15T08:24:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner breaks Novak Djokovic's legendary record, matches Rafael Nadal in another legendary feat",
+    "desc": "Jannik Sinner continued his extraordinary dominance on the ATP Tour by moving into the semi-finals of the Italian Open. He also set a new record for consecutive victories at Masters 1000 events. The world number...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-breaks-novak-djokovic-s-legendary-record-matches-rafael-nadal-in-another-legendary-feat-2026-05-15-1041241",
+    "time": "2026-05-15T07:38:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bhuvneshwar Kumar's 'are you good enough to hit me' attitude impresses Virat Kohli",
     "desc": "Royal Challengers Bengaluru pacer Bhuvneshwar Kumar has rediscovered his rhythm in the ongoing IPL 2026. He has claimed 22 wickets so far in the ongoing season and is the leading wicket-taker of the cash-rich league....",
     "img": "",
@@ -19,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Arshdeep Singh's alleged casual racism against Tilak Varma goes viral",
+    "title": "Arshdeep Singh's alleged 'casual racism' against Tilak Varma goes viral, netizens react",
     "desc": "Punjab Kings pacer Arshdeep Singh has found himself in yet another controversy after his video with Mumbai Indians batter Tilak Varma went viral. On Snapchat, he recorded a video with Tilak and Naman Dhir and...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/preity-zinta-engages-in-long-tense-discussion-with-ricky-ponting-after-pbks-fifth-straight-ipl-2026-defeat-2026-05-15-1041198",
     "time": "2026-05-15T02:05:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "France announce FIFA World Cup 2026 squad; Real Madrid star misses out, Deschamps explains reason",
-    "desc": "France manager Didier Deschamps unveiled his squad for the 2026 FIFA World Cup on Thursday, leaving out several high-profile names. Among the biggest omissions was Real Madrid midfielder Eduardo Camavinga, who had featured in France’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/france-announce-fifa-world-cup-2026-squad-real-madrid-star-misses-out-deschamps-explains-reason-2026-05-15-1041196",
-    "time": "2026-05-15T01:24:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bernabeu turns on Kylian Mbappe, who calls out Arbeloa after Real Madrid's 2-0 win over Oveido",
-    "desc": "Real Madrid registered a comfortable 2-0 victory over Real Oviedo in their La Liga clash at the Santiago Bernabeu. However, after the game, the atmosphere changed in the Spanish capital as a new controversy broke...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bernabeu-turns-on-kylian-mbappe-who-calls-out-arbeloa-after-real-madrid-s-2-0-win-over-oveido-2026-05-15-1041194",
-    "time": "2026-05-15T01:04:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians register stellar victory in Dharamsala, hand Punjab Kings their fifth straight defeat",
-    "desc": "The 58th game of the ongoing IPL (Indian Premier League) 2026 saw Punjab Kings take on Mumbai Indians. The two sides met at the HPCA Stadium in Dharamsala on May 14th, and the game saw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-register-stellar-victory-in-dharamsala-hand-punjab-kings-their-fifth-straight-defeat-2026-05-14-1041182",
-    "time": "2026-05-14T17:59:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Priyansh Arya joins Amabati Rayudu in elite list despite subpar start against Mumbai Indians",
-    "desc": "Punjab Kings and Mumbai Indians locked horns in the 58th game of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the HPCA Stadium in Dharamsala on May 14th, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-joins-amabati-rayudu-in-elite-list-despite-subpar-start-against-mumbai-indians-2026-05-14-1041181",
-    "time": "2026-05-14T17:32:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Priyansh Arya, Prabhsimran Singh achieve stellar feat with decent start against Mumbai Indians in Dharamsala",
-    "desc": "Punjab Kings took on Mumbai Indians in the 58th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the HPCA Stadium in Dharamsala on May 14th, and the clash began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-prabhsimran-singh-achieve-stellar-feat-with-decent-start-against-mumbai-indians-in-dharamsala-2026-05-14-1041173",
-    "time": "2026-05-14T15:48:10.000Z"
   }
 ];
