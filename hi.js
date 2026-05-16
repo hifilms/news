@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PM Modi weighs in on India's sporting relations with the Netherlands, discusses hosting the Olympics",
+    "desc": "Prime Minister Narendra Modi took centre stage and laid out the aspirations for India on his two-day trip to the Netherlands. One of the most talked-about points from the PM’s visit to the country has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pm-modi-weighs-in-on-india-s-sporting-relations-with-the-netherlands-discusses-hosting-the-olympics-2026-05-16-1041407",
+    "time": "2026-05-16T13:11:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Very impressed': Former India cricketer hails Chennai Super Kings' star for brilliant knock against LSG",
+    "desc": "Lucknow Super Giants registered a brilliant win against Chennai Super Kings in the 59th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Ekana Stadium in Lucknow on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/very-impressed-former-india-cricketer-hails-chennai-super-kings-star-for-brilliant-knock-against-lsg-2026-05-16-1041400",
+    "time": "2026-05-16T12:08:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Satwik-Chirag reach Thailand Open 2026 final, defeating Malaysian pair in penultimate clash",
+    "desc": "In a major moment for Satwiksairaj Rankireddy and Chirag Shetty, the Indian duo have reached their first final of the 2026 season, qualifying for the Thailand Open 2026 final. It is worth noting that the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-reach-thailand-open-2026-final-defeating-malaysian-pair-in-penultimate-clash-2026-05-16-1041394",
+    "time": "2026-05-16T11:17:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Eden Gardens in Kolkata play?",
+    "desc": "The 60th game of the ongoing IPL (Indian Premier League) 2026 sees Kolkata Knight Riders taking on Gujarat Titans. The two sides will meet at Eden Gardens in Kolkata on May 16th. The two sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-gt-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-2026-05-16-1041384",
+    "time": "2026-05-16T10:12:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan announce squad for Women's T20 World Cup 2026, five players set for maiden appearance",
     "desc": "Pakistan have announced their squad for the upcoming Women's T20 World Cup 2026 and the T20I bilateral series against Ireland and the West Indies. Five players are in line for their first appearance for the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-2nd-test-live-cricket-score-bangladesh-vs-pakistan-sylhet-international-cricket-stadium-latest-match-updates-scorecard-playing-xis-2026-05-16-1041345",
     "time": "2026-05-16T03:34:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fatima Sana creates history, slams fastest fifty in Women T20Is during Zimbabwe blitzkrieg",
-    "desc": "Pakistan captain Fatima Sana rewrote the history books when she slammed the fastest-ever fifty in Women T20Is during his blitzkrieg against Zimbabwe in the third and final T20I at the National Stadium in Karachi on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/fatima-sana-creates-history-slams-fastest-fifty-in-women-t20is-during-zimbabwe-blitzkrieg-2026-05-16-1041341",
-    "time": "2026-05-16T03:13:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Sylhet match in India?",
-    "desc": "Bangladesh and Pakistan are set to lock horns in the second and final Test of their series at the Sylhet International Cricket Stadium, Sylhet, beginning on Saturday, May 16. Bangladesh marked their first-ever home Test...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-2nd-test-live-streaming-when-and-where-to-watch-sylhet-match-in-india-2026-05-16-1041338",
-    "time": "2026-05-16T02:33:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why didn't Rishabh Pant come out to bat in LSG vs CSK IPL 2026 clash? Lucknow skipper reveals",
-    "desc": "Rishabh Pant didn't turn up to bat despite Lucknow Super Giants losing three wickets in a hurry after a marathon opening wicket stand of 135 between Mitchell Marsh and Josh Inglis in their chase against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-didnt-rishabh-pant-come-out-to-bat-in-lsg-vs-csk-ipl-2026-clash-lucknow-skipper-reveals-2026-05-16-1041335",
-    "time": "2026-05-16T01:56:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can CSK qualify for IPL 2026 playoffs after drubbing to LSG in Lucknow?",
-    "desc": "Chennai Super Kings' chances for the IPL 2026 playoffs took a dent when they suffered a drubbing to the Lucknow Super Giants in their 12th match of the tournament on Friday, May 15. The Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-csk-qualify-for-ipl-2026-playoffs-after-drubbing-to-lsg-in-lucknow-2026-05-16-1041333",
-    "time": "2026-05-16T01:19:16.000Z"
   }
 ];

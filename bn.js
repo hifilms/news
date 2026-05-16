@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "আপাতত মিলল স্বস্তি, আগাম জামিন শ্রীজাতর! কবিকে কী কী শর্ত দিল আদালত?",
+    "desc": "২০১৯ সালের বিতর্কিত মামলায় কৃষ্ণনগর জেলা আদালতে হাজিরা দিয়ে শর্তসাপেক্ষে আগাম জামিন পেলেন বিশিষ্ট কবি শ্রীজাত বন্দ্যোপাধ্যায়। তবে জামিন মিললেও আদালতের অনুমতি ছাড়া কলকাতা এবং কৃষ্ণনগরের বাইরে যেতে পারবেন না তিনি। একদিকে যখন সংস্কৃতিমহল একে 'বাকস্বাধীনতায় হস্তক্ষেপ' বলছে, অন্যদিকে বিরোধীদের দাবি, ধর্মীয় ভাবাবেগকে গুরুত্ব দিয়েই এই রায়। ঠিক কী কী শর্ত দিল আদালত?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/poet-srijato-bandyopadhyay-granted-conditional-anticipatory-bail-krishnanagar-court_654247.html ",
+    "time": "2026-05-16T12:53:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ভয়ংকর: স্বামীকে মেরে টুকরো টুকরো দেহ ড্রামে, কাটা মুণ্ডু প্রতিবেশীর ফ্রিজে, আর বাকিটা?",
+    "desc": "শুধু তাই নয়, হত্যার তিন দিন পর মরদেহের হাড় ও হাত-পা বিভিন্ন স্থানে ফেলে দিয়ে, অবশিষ্টাংশ মাংস ফ্রিজে সংরক্ষণ করতে গিয়ে দুর্গন্ধ ছড়ালে স্থানীয়দের সহায়তায় পুলিস তাকে গ্রেফতার করে। গত শুক্রবার (১৫ মে) রাতে এই নৃশংস ঘটনার রহস্য সামনে আসে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/in-bangladesh-wife-killed-husband-and-put-the-deadbody-in-drum-and-rest-of-the-part-in-freeze-to-avoid-smelling_654242.html ",
+    "time": "2026-05-16T11:27:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আগামী সপ্তাহে টানা ছ'দিন বন্ধ থাকবে এই রাষ্ট্রায়ত্ত ব্যাংক? কী হবে পরিষেবা? আপনার অ্যাকাউন্ট আছে এখানে?",
+    "desc": "ছুটি ও ধর্মঘটের সূচি এমনভাবে পড়েছে যে সপ্তাহের একটা বড় অংশ ব্যাংক বন্ধ থাকবে। সাধারণ সরকারি ছুটি, দ্বিতীয় বা চতুর্থ শনিবার এবং রবিবারের সাপ্তাহিক ছুটির সাথে এই ধর্মঘটের দিনগুলো মিলে যাওয়ায় দেশের বেশ কয়েকটি রাজ্যে টানা ৬ দিন ব্যাংকিং পরিষেবা স্তব্ধ হতে চলেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/six-day-this-bank-branch-closure-may-impact-cash-cheque-and-loan-services-here-you-check_654239.html ",
+    "time": "2026-05-16T10:14:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "জ্বর থেকে লিভারে ভয়ংকর সংক্রমণ, অকালেই চলে গেলেন জনপ্রিয় কনটেন্ট ক্রিয়েটর-অভিনেত্রী কারিনা",
     "desc": "চিকিৎসাধীন অবস্থায় চেন্নাইয়ের সিএমসি হাসপাতালে শেষ নিশ্বাস ত্যাগ করলেন বাংলাদেশের জনপ্রিয় কনটেন্ট ক্রিয়েটর ও অভিনেত্রী কারিনা কায়সার। লিভারের গুরুতর সমস্যায় ভুগছিলেন তিনি। তাঁর এই আকস্মিক ও অকাল প্রয়াণে ঢাকাই বিনোদন জগতে নেমে এসেছে গভীর শোকের ছায়া।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -142,15 +169,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/prosenjit-chatterjee-clarifies-political-rumors-rudranil-ghosh-phone-call_652699.html ",
     "time": "2026-05-05T13:53:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "পানিহাটিতে জয়ী অভয়ার মা, 'প্রার্থনার জোর বাড়ল': আবেগঘন পোস্ট মিমি-অঙ্কুশ-শ্রুতি-সৌরভের",
-    "desc": "ব্যক্তিগত শোক আর ন্যায়বিচারের দাবিকে সঙ্গী করে পানিহাটিতে বাজিমাত করলেন রত্না দেবনাথ। তৃণমূল প্রার্থীকে পরাজিত করে বিধানসভায় পৌঁছলেন আরজি করের সেই নির্যাতিতা চিকিৎসকের মা। রত্না দেবীর এই জয়ে আবেগপ্রবণ টলিপাড়া— শ্রুতি দাসের প্রণাম থেকে মিমির শুভেচ্ছাবার্তা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/ratna-debnath-wins-panihati-seat-mimi-chakraborty-shruti-das-ankush-hazra-saurav-das-reaction_652675.html ",
-    "time": "2026-05-05T11:13:53.000Z"
   },
   {
     "cat": "World",

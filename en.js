@@ -1,5 +1,239 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Shekhar backs John as next James Bond",
+    "desc": "Filmmaker Shekhar Kapur has endorsed John Abraham for the next James Bond role, citing his screen presence and \"Bond Charm.\" Abraham responded with gratitude, humorously noting he'd practice his martini order. The suggestion ignited social media debate, with users proposing other actors and discussing Abraham's suitability. Abraham's next project is a biographical drama.",
+    "img": "https://static.toiimg.com/photo/msid-131137606,imgsize-36596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-kapur-backs-john-abraham-as-next-james-bond-fan-says-no-bro-if-youre-going-indian-then-it-would-be-arjun-rampal/articleshow/131137571.cms",
+    "time": "2026-05-16T12:42:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJI Surya Kant clarifies ‘parasites’ remarks, says youth are pillars of country",
+    "desc": "\"It is totally baseless to suggest that I criticised the youth of our nation. Not only am I proud of our present and future human resource, but every youth of India inspires me,” the CJI said in a statement.",
+    "img": "https://th-i.thgim.com/public/incoming/8ad66l/article70986831.ece/alternates/LANDSCAPE_1200/_JAI7900.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cji-surya-kant-clarifies-parasites-remarks-says-pained-over-media-reports/article70986796.ece",
+    "time": "2026-05-16T12:42:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No feud with KC Venugopal? Kerala CM-designate VD Satheesan breaks silence",
+    "desc": "Kerala CM-designate VD Satheesan and senior leader KC Venugopal dismissed reports of internal feuds, asserting that all organizational and cabinet decisions are made jointly through consultations. The oath-taking ceremony for the new Congress-led UDF government is scheduled for May 18, with cabinet formation discussions underway.",
+    "img": "https://static.toiimg.com/photo/msid-131137515,imgsize-63760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-feud-with-kc-venugopal-kerala-cm-designate-vd-satheesan-breaks-silence/articleshow/131137080.cms",
+    "time": "2026-05-16T12:36:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pooja admits she 'wasn't good actress'",
+    "desc": "Pooja Bedi candidly shared her journey, admitting acting wasn't her forte but she excelled as a sex symbol. She reflected on her marriage to Farhan Furniturewala, valuing their children and his continued friendship post-divorce. Bedi emphasized her decision to separate was for her well-being, finding happiness in both marriage and divorce.",
+    "img": "https://static.toiimg.com/photo/msid-131137495,imgsize-52370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bedi-admits-she-wasnt-good-actress-reveals-she-distracted-people-by-being-sensual/articleshow/131137494.cms",
+    "time": "2026-05-16T12:33:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka shares adorable PICTURES of daughter Malti Marie Chopra Jonas’",
+    "desc": "Priyanka Chopra shared a delightful Instagram photo dump, offering fans a glimpse into her \"current era.\" The collection featured adorable moments with her daughter Malti Marie, including a heartwarming picture of Malti with a horse and a sweet video of her smiling.",
+    "img": "https://static.toiimg.com/photo/msid-131137436,imgsize-44406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-shares-adorable-pictures-of-daughter-malti-marie-chopra-jonas-says-soft-launch-of-my-current-era/articleshow/131137399.cms",
+    "time": "2026-05-16T12:29:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditi Rao Hydari dazzles fans in elegant saree look",
+    "desc": "Aditi Rao Hydari captivated fans with a recent social media post showcasing her in a traditional saree, humorously remarking on its 'revolutionary' styling. The actress, adorned in an intricately embroidered brown saree and a statement necklace, exuded royal charm. This follows her heartfelt birthday wish for husband Siddharth, whom she affectionately calls her 'manicorn'.",
+    "img": "https://static.toiimg.com/photo/msid-131137338,imgsize-275508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aditi-rao-hydari-wins-hearts-with-elegant-saree-photos-says-wearing-a-saree-the-traditional-way-revolutionary-i-know/articleshow/131137250.cms",
+    "time": "2026-05-16T12:27:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: European countries in talks with Tehran for Hormuz transit, Iran state TV says",
+    "desc": "\"Following the passage of ships from East Asian countries, notably China, Japan and Pakistan, we received information today indicating that Europeans have also begun negotiations with the Revolutionary Guards navy\" to get permission to pass, state television reported",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-ceasefire-hezbollah/article70985891.ece",
+    "time": "2026-05-16T12:24:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Sack Dharmendra Pradhan now': Rahul Gandhi says NEET paper leak 'betrayed' 22 lakh aspirants",
+    "desc": "Congress leader Rahul Gandhi has intensified his attack on the Centre regarding the NEET-UG 2026 paper leak. He is demanding the immediate removal of Union Education Minister Dharmendra Pradhan. The National Testing Agency cancelled the examination due to evidence of question paper circulation. The Central Bureau of Investigation is investigating the matter. The exam will be re-conducted on June 21.",
+    "img": "https://static.toiimg.com/photo/msid-131137464,imgsize-1029896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sack-dharmendra-pradhan-now-rahul-gandhi-says-neet-paper-leak-betrayed-22-lakh-aspirants/articleshow/131137048.cms",
+    "time": "2026-05-16T12:07:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not too many smart heads there': Rayudu questions CSK leadership",
+    "desc": "Former India batter Ambati Rayudu lamented Chennai Super Kings' lack of experienced heads on the field during their loss to Lucknow Super Giants. He highlighted young pacer Anshul Kamboj's struggles against Mitchell Marsh and Nicholas Pooran, suggesting senior players could have offered crucial support. Rayudu defended Kamboj, attributing his tough outing to exceptional batting.",
+    "img": "https://static.toiimg.com/photo/msid-131136938,imgsize-216992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-not-too-many-smart-heads-there-ambati-rayudu-questions-csk-leadership/articleshow/131136935.cms",
+    "time": "2026-05-16T12:06:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "time, watch details and guide",
+    "desc": "Vienna is set to host the Eurovision 2026 Grand Final on May 16th, marking the contest's 70th anniversary. Following Austria's 2025 victory, 25 nations will compete for the coveted title. Viewers can tune in via BBC channels or stream online, with a dual jury and public vote deciding the ultimate winner.",
+    "img": "https://static.toiimg.com/photo/msid-131136711,imgsize-204704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/eurovision-2026-grand-finale-where-to-watch-time-and-full-guide-to-viennas-biggest-music-night/articleshow/131136674.cms",
+    "time": "2026-05-16T12:04:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Didn’t understand the value of our language': Ankit on 'Laalo premiere at Cannes 2026",
+    "desc": "Gujarati cinema achieves a milestone as 'Laalo – Krishna Sada Sahaayate' premieres at the Cannes Film Festival. Director Ankit Sakhiya expressed pride as international audiences connected emotionally with the devotional drama, highlighting the global appreciation for Gujarati culture and language. Sakhiya credits his heritage for this prestigious international recognition.",
+    "img": "https://static.toiimg.com/photo/msid-131136734,imgsize-44500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/didnt-understand-the-value-of-our-language-ankit-sakhiya-on-laalo-krishna-sada-sahaayate-premiere-at-cannes-2026-exclusive/articleshow/131136690.cms",
+    "time": "2026-05-16T11:48:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi moves from 'Achiever' to 'Exemplar' category in LEADS 2025",
+    "desc": "Delhi Chief Minister Rekha Gupta on Saturday said that the national capital has secured a place in the highest 'Exemplar' category in the Logistics Ease Across Different States (LEADS) 2025 Index, marking a major jump from its earlier 'Achiever' status.",
+    "img": "https://static.toiimg.com/photo/msid-131136639,imgsize-1082914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-moves-from-achiever-to-exemplar-category-in-leads-2025/articleshow/131136639.cms",
+    "time": "2026-05-16T11:47:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal Government orders re-verification of caste certificates issued since 2011",
+    "desc": "About 1.69 crore SC, ST and OBC certificates have been issued in the State since 2011; a letter issued by the Backward Classes Welfare Department to all District Magistrates on May 14 says about 47.8 lakh certificates, which include 32.51 lakh SC certificates, 6.65 lakh ST certificates and 8.64 lakh OBC certificates, were issued under the Duare Sarkar camps during the previous Trinamool Congress regime.",
+    "img": "https://th-i.thgim.com/public/incoming/4pdmji/article70986255.ece/alternates/LANDSCAPE_1200/20260513090L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-caste-certificates-verification-since-2011-bjp-minister-tudu/article70986241.ece",
+    "time": "2026-05-16T11:44:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Laalo' creates history at Cannes: First Gujarati film to reach the global stage",
+    "desc": "Gujarati film 'Laalo - Krishna Sada Sahaayate' has made history as the first from the language to be showcased at the Cannes Film Festival. The achievement is being celebrated as a significant milestone for regional Indian cinema, with the team expressing gratitude and hope for future growth.",
+    "img": "https://static.toiimg.com/photo/msid-131136569,imgsize-53636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/laalo-creates-history-at-cannes-first-gujarati-film-to-reach-the-global-stage-makers-say-nothing-but-gratitude-dreams-and-our-cinema/articleshow/131136282.cms",
+    "time": "2026-05-16T11:37:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Old Kareena-Abhishek Interviews: Kareena hailed Abhishek as “better”; later called him very special",
+    "desc": "In an unexpected twist, old praises from Kareena Kapoor about Abhishek Bachchan's talent have come to light, dating back to before their film debut in 'Refugee.' She predicted that he would eclipse the illustrious legacy of his father, Amitabh Bachchan, and regarded him as a dear companion.",
+    "img": "https://static.toiimg.com/photo/msid-131136512,imgsize-35618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-once-predicted-abhishek-would-be-better-than-amitabh-bachchan-he-is-going-to-be-better-than-the-best/articleshow/131136512.cms",
+    "time": "2026-05-16T11:34:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saif Ali Khan",
+    "desc": "In this conversation with Shreyas Pande, Saif Ali Khan, Rasika Dugal and Manish Chaudhari open up about their upcoming film, ‘Kartavya’, reflecting on their favourite crime-thriller tropes, Saif’s process of working on dialects, the advice he received from Amitabh Bachchan and Deepak Dobriyal, their thoughts on the current streaming landscape, and more",
+    "img": "https://th-i.thgim.com/public/incoming/5y3czf/article70984793.ece/alternates/LANDSCAPE_1200/mamata%204.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/saif-ali-khan-rasika-dugal-manish-chaudhari-interview/article70984799.ece",
+    "time": "2026-05-16T11:29:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "10 ministers allotted portfolios, CM Vijay keeps home, police &amp; public administration",
+    "desc": "The Tamil Nadu Lok Bhavan has announced portfolio allocations for the new cabinet. Chief Minister C Joseph Vijay will lead the government. He has retained key departments. Other ministers have been assigned portfolios including finance, health, and education. This marks a significant administrative development for the new government.",
+    "img": "https://static.toiimg.com/photo/msid-131136372,imgsize-875708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-cabinet-10-ministers-allotted-portfolios-cm-vijay-keeps-home-police-public-administration/articleshow/131136228.cms",
+    "time": "2026-05-16T11:26:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala CRZ controversy raises broader questions on environmental governance",
+    "desc": "Central to the issue is whether the updated Coastal Zone Management Plans (CZMPs) should adhere to urban boundaries as they existed on January 18, 2019, or as they exist when the CZMP is approved. Kerala’s updated CZMP was approved on October 16, 2024.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-crz-controversy-raises-broader-questions-on-environmental-governance/article70986679.ece",
+    "time": "2026-05-16T11:24:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Not comfortable’: Kohli slams invasive camera culture after Williamson chat turns into a ‘moment’",
+    "desc": "Cricketer Virat Kohli finds constant camera monitoring during Indian Premier League practice sessions intrusive. He believes players need peace to prepare without every move being recorded and analyzed. Kohli feels this constant exposure impacts his ability to experiment freely. He calls for clearer boundaries regarding player consent and behind-the-scenes access. Kohli's concerns arise despite his strong performance this IPL season.",
+    "img": "https://static.toiimg.com/photo/msid-131136100,imgsize-989641.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/not-comfortable-virat-kohli-slams-invasive-camera-culture-after-kane-williamson-chat-turns-into-a-moment/articleshow/131135824.cms",
+    "time": "2026-05-16T11:16:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ayushmann once broke up with Tahira after Roadies win",
+    "desc": "Ayushmann Khurrana confessed to behaving like a \"deep red flag\" in his early relationship with Tahira Kashyap, even breaking up with her at 20 to focus on himself after winning 'MTV Roadies'. Now, he humorously labels himself a \"green flag husband,\" reflecting on his journey and even revealing a past sperm donation during a 'Roadies' task.",
+    "img": "https://static.toiimg.com/photo/msid-131135821,imgsize-55430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-ayushmann-khurrana-once-broke-up-with-tahira-post-roadies-win-said-dont-have-time-for-relationships/articleshow/131135821.cms",
+    "time": "2026-05-16T10:51:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daniel Craig once said he’d return as Bond for money",
+    "desc": "Daniel Craig, renowned for his James Bond role, expressed profound exhaustion after filming 'Spectre', even stating he'd rather self-harm than reprise the part. He admitted a return would only be for financial reasons, highlighting the struggle between the character's demands and his acting instincts. Craig poured everything into 'Spectre', contributing script ideas and ensuring Sam Mendes' return.",
+    "img": "https://static.toiimg.com/photo/msid-131135669,imgsize-66714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/daniel-craig-once-said-he-would-only-return-as-james-bond-for-the-money/articleshow/131135632.cms",
+    "time": "2026-05-16T10:38:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jason Statham’s \"$33 million 'forever home'\" near UK location",
+    "desc": "Hollywood power couple Jason Statham and Rosie Huntington-Whiteley are building a $33 million 'forever home' on England's South Coast. The striking, U-shaped brutalist design features five bedrooms, a private beach, and extensive grounds including a lake and treehouse. This move signifies Rosie's return to her rural roots, seeking a slower, grounded lifestyle away from a 'destination-driven' existence.",
+    "img": "https://static.toiimg.com/photo/msid-131135585,imgsize-89992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/all-about-jason-statham-and-rosie-huntington-whiteleys-33-million-forever-home-near-unexpected-seaside-location/articleshow/131135521.cms",
+    "time": "2026-05-16T10:32:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Misquoted my oral observations': CJI Surya Kant clarifies 'cockroach' remarks on unemployed youth",
+    "desc": "Chief Justice of India Surya Kant clarified his remarks comparing some unemployed youth to 'cockroaches,' stating his comments were misquoted and targeted individuals using fake degrees in professions. He expressed pride in India's youth, calling them pillars of a developed nation, and emphasized his respect for them. The clarification followed controversy over his observations during a court hearing.",
+    "img": "https://static.toiimg.com/photo/msid-131135499,imgsize-41700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/misquoted-my-oral-observations-cji-surya-kant-clarifies-cockroach-remarks-on-unemployed-youth/articleshow/131135453.cms",
+    "time": "2026-05-16T10:26:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Decoding Taylor Swift and Travis Kelce date night looks",
+    "desc": "Taylor Swift and Travis Kelce are making headlines with their stylish date nights, sparking wedding rumors. From blue hues in NYC to edgy black ensembles in London, the couple consistently turns heads. Their coordinated outfits, featuring florals and classic styles, fuel speculation about their upcoming nuptials and even potential album hints.",
+    "img": "https://static.toiimg.com/photo/msid-131135454,imgsize-122364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelces-twinning-spring-outfits-in-new-york-decoding-their-recent-date-night-looks/articleshow/131135198.cms",
+    "time": "2026-05-16T10:22:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Financial systems must remain connected to real economy, PM’s principal secretary PK Mishra cautions against speculation",
+    "desc": "Principal Secretary PK Mishra cautioned financial systems against excessive speculation and market instability, emphasizing their connection to the real economy and citizens' lives. He highlighted India's digital public infrastructure, including the JAM trinity and UPI, as transformative forces for financial inclusion and credit access, particularly for underserved populations.",
+    "img": "https://static.toiimg.com/photo/msid-131135440,imgsize-720523.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/financial-systems-must-remain-connected-to-real-economy-pms-principal-secretary-pk-mishra-cautions-against-speculation/articleshow/131135313.cms",
+    "time": "2026-05-16T10:20:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What's 'jihadi drug'? Rs 182 crore Captagon seized under Operation Ragepill",
+    "desc": "India has achieved a significant breakthrough in its fight against drug trafficking with the first-ever seizure of Captagon, dubbed the 'Jihadi drug', worth Rs 182 crore. Under 'Operation Ragepill', authorities intercepted 227.7 kg of the substance, destined for the Middle East, and arrested a foreign national. This operation underscores the government's zero-tolerance policy against narcotics.",
+    "img": "https://static.toiimg.com/photo/msid-131135324,imgsize-969813.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/whats-jihadi-drug-rs-182-crore-captagon-seized-under-operation-ragepill/articleshow/131135118.cms",
+    "time": "2026-05-16T10:10:58.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Can Centre shield OMCs with Rs 3 cushion, or will rupee flip the script?",
     "desc": "The government increased fuel prices by Rs 3 per litre to support oil marketing companies facing losses due to high global crude oil prices and a weakening rupee. However, further rupee depreciation could negate these gains, with companies incurring significant daily losses. The price hike offers limited relief, covering only a fraction of projected losses.",
@@ -63,6 +297,15 @@ const newsData_en = [
     "time": "2026-05-16T09:32:33.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Why are Telugu cinema’s exhibitors and producers at loggerheads?",
+    "desc": "With exhibitors and producers at loggerheads over percentage revenue sharing system as opposed to a fixed rental model, the Telugu film industry is split wide open ahead of the release of Ram Charan’s ‘Peddi’. A sub committee has been constituted to address the issues and arrive at an amicable solution",
+    "img": "https://th-i.thgim.com/public/incoming/mbpgju/article70982356.ece/alternates/LANDSCAPE_1200/peddi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/why-are-telugu-cinemas-exhibitors-and-producers-at-loggerheads/article70981933.ece",
+    "time": "2026-05-16T09:27:10.000Z"
+  },
+  {
     "cat": "World",
     "title": "Sri Lanka imposes 50% surcharge on car imports to protect currency from further slide",
     "desc": "The rupee has seen over 3% depreciation against the dollar by mid this month due to prevailing external pressures — primarily the Iran war — which has led to a massive surge in fuel import bill",
@@ -99,15 +342,6 @@ const newsData_en = [
     "time": "2026-05-16T09:02:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The Housemaid’s Secret’ is being sold at the Cannes film market for USD 70 million",
-    "desc": "At the Cannes Film Market, buzz is electrifying for 'The Housemaid's Secret,' the much-awaited sequel to 'The Housemaid.' With pre-sales soaring to an impressive USD 70-80 million, this project is set to maximize its storytelling potential, spotlighting Sydney Sweeney and Michele Morrone in prominent roles next to Kirsten Dunst.",
-    "img": "https://static.toiimg.com/photo/msid-131134463,imgsize-128596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sydney-sweeney-and-amanda-seyfrieds-the-housemaid-sequel-fast-tracked-valued-at-usd-70-mil-at-cannes-film-market/articleshow/131134463.cms",
-    "time": "2026-05-16T09:00:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Coffee giant to lay off 300 workers across US in $400 million restructuring",
     "desc": "Starbucks is laying off approximately 300 US-based roles as it consolidates its office network and shutters several locations. This move is part of a broader strategy to achieve \"durable, profitable growth\" by reducing complexity and costs. The company expects additional international job cuts as it reviews its global support structure.",
@@ -115,42 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/starbucks-pours-a-bitter-brew-coffee-giant-to-lay-off-300-workers-across-us-in-400m-restructuring/articleshow/131133688.cms",
     "time": "2026-05-16T08:43:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Australia wins Audience Poll in Eurovision Song Contest",
-    "desc": "Australian music icon Delta Goodrem has captured the hearts of Eurovision fans, leading the Audience Poll for the 2026 Grand Final with an impressive 15.5% of the total votes. While we await the final verdict, previous polls have shown that public opinion can sometimes diverge from the official outcome.",
-    "img": "https://static.toiimg.com/photo/msid-131134274,imgsize-68782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/eurovision-song-contest-2026-australia-wins-audience-poll-round-by-15-5/articleshow/131134245.cms",
-    "time": "2026-05-16T08:41:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cricketer calls it his best decision; couple share meat-free food stories",
-    "desc": "Cricket superstar Virat Kohli attributes his transition to a vegetarian lifestyle to the influence of his wife, Anushka Sharma. This change wasn't just about health; it was a reflection of their shared empathy for animals. As new parents, the couple now delves into a world of culinary adventures together, reaffirming their dedication to a mindful and harmonious living.",
-    "img": "https://static.toiimg.com/photo/msid-131134219,imgsize-3116572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-says-he-can-never-eat-meat-again-due-to-anushka-sharmas-influence-she-has-given-me-new-lease-on-life/articleshow/131134219.cms",
-    "time": "2026-05-16T08:36:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'He created a PHENOMENAL empire': Saif opens up about SRK",
-    "desc": "Saif Ali Khan lauded Shah Rukh Khan's early career confidence, highlighting his bold salary negotiations and unwavering belief in his worth. Saif revealed SRK's conviction in his body language and vision, which he credits for building a phenomenal empire and defining a generation of Bollywood. SRK's image, Saif noted, is synonymous with Bollywood itself. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131134050,imgsize-132192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/he-created-a-phenomenal-empire-saif-ali-khan-opens-up-about-shah-rukh-khans-confidence-and-self-belief/articleshow/131134034.cms",
-    "time": "2026-05-16T08:32:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aarti Ravi' REACTS post Ravi Mohan’s emotional press meet",
-    "desc": "Aarti Ravi has issued a strong statement on social media, warning against disturbing a \"sleeping lioness\" and asserting her readiness to protect her dignity and children. This follows emotional press interactions from Ravi Mohan, who spoke about his divorce and children, and Keneeshaa Francis's departure from social media amidst trolling.",
-    "img": "https://static.toiimg.com/photo/msid-131134177,imgsize-124512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/never-wake-a-sleeping-lion-aarti-ravi-reacts-post-ravi-mohans-emotional-press-meet-and-keneeshaas-social-media-exit/articleshow/131134156.cms",
-    "time": "2026-05-16T08:32:23.000Z"
   },
   {
     "cat": "Sports",
@@ -162,13 +360,13 @@ const newsData_en = [
     "time": "2026-05-16T08:31:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "John Travolta recalled a terrifying mid-air ordeal",
-    "desc": "Hollywood star John Travolta recounted a terrifying near-death experience during a London premiere. He revealed a total electrical failure over Washington D.C. in 1992, with his family aboard, leaving him believing he would die. Miraculously, he managed an emergency landing, a harrowing event that inspired his role in 'The Shepherd'.",
-    "img": "https://static.toiimg.com/photo/msid-131134144,imgsize-69496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-thought-it-was-over-when-john-travolta-reflected-on-his-most-frightening-flying-experience/articleshow/131134123.cms",
-    "time": "2026-05-16T08:31:44.000Z"
+    "cat": "Business",
+    "title": "Ratan Tata Trusts ‘not aware’ of Venu Srinivasan’s complaint, reviewing Charity Commissioner’s order",
+    "desc": "It is reiterated that the direction was issued ex parte, with no notice being given to the Sir Ratan Tata Trust and no hearing being afforded to it, before the direction was issued,” the Tata Trusts said in the statement",
+    "img": "https://th-i.thgim.com/public/incoming/qjv5ex/article70986075.ece/alternates/LANDSCAPE_1200/venutvs1_30.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/tata-trusts-examining-ex-parte-order-complaint-filed-by-venu-srinivasan/article70985996.ece",
+    "time": "2026-05-16T08:31:39.000Z"
   },
   {
     "cat": "Politics",
@@ -178,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/people-are-forced-to-travel-in-bullock-carts-congress-stages-protest-over-fuel-milk-price-hike/articleshow/131133909.cms",
     "time": "2026-05-16T08:17:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Martin Short notes similar last words of his wife and daughter",
-    "desc": "Actor Martin Short shared poignant reflections on the final words of his late wife, Nancy Dolman, and daughter, Katherine Short, both uttering \"let me go.\" He drew parallels between terminal illnesses like cancer and mental health struggles, advocating for open discussion and destigmatization of suicide.",
-    "img": "https://static.toiimg.com/photo/msid-131133898,imgsize-96820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/martin-short-draws-parallels-between-the-last-words-of-his-wife-and-daughter-i-dont-see-any-difference/articleshow/131133865.cms",
-    "time": "2026-05-16T08:07:51.000Z"
   },
   {
     "cat": "Politics",
@@ -207,24 +396,6 @@ const newsData_en = [
     "time": "2026-05-16T08:04:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Angry Ravi Mohan BREAKS SILENCE on the divorce controversy",
-    "desc": "Actor Ravi Mohan has broken his silence on his divorce from Aarti, addressing rumors linking singer Keneeshaa Francis to their separation. He emotionally stated his silence was not weakness and vowed to not act until his divorce is finalized. Mohan also expressed pain over not being allowed to see his children.",
-    "img": "https://static.toiimg.com/photo/msid-131133746,imgsize-107220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/saadhu-mirandhaal-kaadu-kolladhu-angry-ravi-mohan-breaks-silence-on-the-divorce-controversy-after-keneeshaas-social-media-exit/articleshow/131133718.cms",
-    "time": "2026-05-16T07:52:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Parvathy breaks career-long habit for Prithviraj's 'i, Nobody'",
-    "desc": "Actress Parvathy Thiruvothu has embarked on a groundbreaking journey in her craft for the soon-to-be-released film 'i, Nobody.' Breaking free from her past habit of steering clear of monitor reviews after filming, this decision stems from the project’s prioritization of dynamic movement and body language.",
-    "img": "https://static.toiimg.com/photo/msid-131133550,imgsize-37596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/parvathy-thiruvothu-breaks-career-long-habit-for-prithvirajs-i-nobody/articleshow/131133550.cms",
-    "time": "2026-05-16T07:41:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Not easy to replace Rohit': Ashwin defends Pandya amid MI struggles",
     "desc": "Mumbai Indians have endured a disappointing IPL 2026, failing to reach the playoffs after just four wins in 12 matches. Captain Hardik Pandya has faced criticism for his batting and leadership, but Ravichandran Ashwin defended him, stating it's unfair to solely blame the captain when the team has underperformed collectively.",
@@ -232,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/not-easy-to-replace-rohit-sharma-ashwin-defends-hardik-pandya-amid-mumbai-indians-struggles/articleshow/131133612.cms",
     "time": "2026-05-16T07:41:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kendall Jenner and Jacob Elordi fuel dating rumors with breakfast in Hawaii",
-    "desc": "Supermodel Kendall Jenner and actor Jacob Elordi are reportedly enjoying a budding romance, recently spotted vacationing in Hawaii and grabbing breakfast in Los Angeles. Their connection, which began a few months ago, has sparked fan excitement, with earlier sightings at the Vanity Fair Oscars Party and Coachella. Both have navigated high-profile relationships in the past.",
-    "img": "https://static.toiimg.com/photo/msid-131133444,imgsize-107448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kendall-jenner-and-jacob-elordi-share-an-intimate-breakfast-in-hawaii-during-vacation-amid-their-fueling-dating-rumors/articleshow/131133425.cms",
-    "time": "2026-05-16T07:28:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor recalls nonstop 20s grind",
-    "desc": "Sonakshi Sinha, who debuted with 'Dabangg', revealed her 20s were a whirlwind of back-to-back projects, leaving no personal time and leading to burnout. She worked relentlessly, often doing double shifts. Upon entering her 30s, Sonakshi consciously chose to slow down, prioritizing self-care and a more balanced approach to her career and life, realizing there's more beyond just work.",
-    "img": "https://static.toiimg.com/photo/msid-131133365,imgsize-23224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/my-entire-20s-went-into-work-system-actress-sonakshi-sinha-reveals-her-career-burnout-claims-she-did-double-shifts/articleshow/131133218.cms",
-    "time": "2026-05-16T07:18:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Khushi got REJECTED and Janhvi was picked for 'Peddi'",
-    "desc": "Director Buchi Babu Sana revealed Janhvi Kapoor was cast in 'Peddi' after her sister Khushi Kapoor, initially considered, was deemed too young for the role. The filmmaker described the awkward but necessary conversation with both sisters, emphasizing Janhvi's suitability for the character. The sports drama, starring Ram Charan, releases June 4, 2026. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131133330,imgsize-144490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/peddi-director-buchi-babu-sana-reveals-why-he-rejected-khushi-kapoor-and-narrated-the-story-to-janhvi-kapoor-realised-she-is-too/articleshow/131133299.cms",
-    "time": "2026-05-16T07:17:09.000Z"
   },
   {
     "cat": "Politics",
@@ -313,24 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/will-erode-goodwill-congress-warns-vijay-against-inducting-aiadmk-rebel-mlas-into-tamil-nadu-govt/articleshow/131132554.cms",
     "time": "2026-05-16T06:08:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mouni keeps wedding pictures with Suraj on socials",
-    "desc": "Actress Mouni Roy and husband Suraj Nambiar have confirmed their separation, leading to renewed attention on their social media. Despite the split, Roy has not deleted wedding photos or affectionate posts, which fans are revisiting. The couple released a joint statement expressing disappointment over media intrusion into their private lives.",
-    "img": "https://static.toiimg.com/photo/msid-131132314,imgsize-63748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mouni-roy-keeps-wedding-pictures-with-suraj-nambiar-on-socials-old-romantic-posts-go-viral-after-divorce-announcement/articleshow/131132304.cms",
-    "time": "2026-05-16T05:50:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tata Trusts examining ex parte order, complaint filed by Venu Srinivasan",
-    "desc": "It is reiterated that the direction was issued ex parte, with no notice being given to the Sir Ratan Tata Trust and no hearing being afforded to it, before the direction was issued,” the Tata Trusts said in the statement",
-    "img": "https://th-i.thgim.com/public/incoming/qkl0um/article70986075.ece/alternates/LANDSCAPE_1200/venutvs1_30.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/tata-trusts-examining-ex-parte-order-complaint-filed-by-venu-srinivasan/article70985996.ece",
-    "time": "2026-05-16T05:48:28.000Z"
   },
   {
     "cat": "Business",
@@ -414,15 +540,6 @@ const newsData_en = [
     "time": "2026-05-16T03:37:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From semiconductors to water",
-    "desc": "Prime Minister Narendra Modi arrived in the Netherlands for the second leg of his five-nation tour, aiming to deepen bilateral ties. He will hold talks with Dutch Prime Minister Rob Jetten, call on King Willem-Alexander and Queen Maxima, and address the Indian community.",
-    "img": "https://static.toiimg.com/photo/msid-131130967,imgsize-46558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-semiconductors-to-water-whats-on-pm-modis-netherlands-agenda/articleshow/131130956.cms",
-    "time": "2026-05-16T03:34:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "Ex-Sinaloa security chief first of 10 indicted Mexican officials to surrender to U.S. authorities",
     "desc": "Other defendants include Gov Ruben Rocha Moya and Mayor Juan de Dios Gamez Mendivil of the Sinaloa state capital of Culiacan, both of whom said they were taking temporary leaves of absence to deal with the charges",
@@ -430,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ex-sinaloa-security-chief-first-of-10-indicted-mexican-officials-to-surrender-to-us-authorities/article70985884.ece",
     "time": "2026-05-16T02:53:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'The only thing can harm us ... ': Rishabh Pant opens up",
-    "desc": "Despite a victory over Chennai Super Kings, Lucknow Super Giants captain Rishabh Pant expressed dejection over the team's disappointing IPL 2026 season. LSG, already eliminated, secured a seven-wicket win powered by Mitchell Marsh and Nicholas Pooran, but Pant highlighted frustrations with implementing the team's thought process effectively.",
-    "img": "https://static.toiimg.com/photo/msid-131130667,imgsize-33738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/the-only-thing-can-harm-us-rishabh-pant-opens-up-despite-lsg-win-vs-csk/articleshow/131130640.cms",
-    "time": "2026-05-16T02:48:22.000Z"
   },
   {
     "cat": "Sports",
@@ -475,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jasprit-bumrahs-captaincy-begins-with-control/articleshow/131130156.cms",
     "time": "2026-05-16T01:15:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Ek din ka mukhya mantri': Jasprit Bumrah reacts after MI captaincy debut",
-    "desc": "Jasprit Bumrah captained Mumbai Indians for the first time in IPL 2026, leading them to a win against Punjab Kings. Drawing a parallel to the film 'Nayak', Bumrah expressed his enjoyment of the role. This experience adds to his prior captaincy stints with the Indian national team in Tests and T20Is.",
-    "img": "https://static.toiimg.com/photo/msid-131130079,imgsize-41492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/jasprit-bumrahs-ek-din-ka-mukhya-mantri-remark-goes-viral-after-captaincy-debut-for-mumbai-indians/articleshow/131130074.cms",
-    "time": "2026-05-16T00:59:02.000Z"
   },
   {
     "cat": "World",
@@ -531,15 +630,6 @@ const newsData_en = [
     "time": "2026-05-15T18:45:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Saif Ali Khan",
-    "desc": "In this conversation with Shreyas Pande, Saif Ali Khan, Rasika Dugal and Manish Chaudhari open up about their upcoming film, ‘Kartavya’, reflecting on their favourite crime-thriller tropes, Saif’s process of working on dialects, the advice he received from Amitabh Bachchan and Deepak Dobriyal, their thoughts on the current streaming landscape, and more",
-    "img": "https://th-i.thgim.com/public/incoming/5y3czf/article70984793.ece/alternates/LANDSCAPE_1200/mamata%204.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/saif-ali-khan-rasika-dugal-manish-chaudhari-interview/article70984799.ece",
-    "time": "2026-05-15T18:14:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Govt imposes Rs 3/litre windfall tax on petrol exports, cuts diesel and ATF export levies",
     "desc": "The government has imposed a Rs 3 per litre windfall tax on petrol exports while reducing levies on diesel and aviation fuel. These revised rates, effective May 16, aim to ensure domestic fuel availability and prevent excessive profits from elevated global crude oil prices amid the West Asia conflict.",
@@ -547,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/centre-levies-rs-3/litre-windfall-tax-on-petrol-exports-amid-rising-oil-prices/articleshow/131124088.cms",
     "time": "2026-05-15T17:25:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM Modi’s UAE visit: How India will benefit from agreements on strategic petroleum reserves, LPG",
-    "desc": "Experts have hailed the MOUs, calling them game-changing for India’s energy security in the long-term. The importance of having strategic petroleum reserves has been brought to light with stark clarity due to the US-Iran war.",
-    "img": "https://static.toiimg.com/photo/msid-131122302,imgsize-87474.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modis-uae-visit-how-india-energy-security-will-benefit-from-agreements-on-strategic-petroleum-reserves-lpg-explained/articleshow/131122104.cms",
-    "time": "2026-05-15T16:09:32.000Z"
   },
   {
     "cat": "Business",
@@ -817,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

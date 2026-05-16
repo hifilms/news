@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "NEET કેસમાં મોટી ધરપકડ, NTA ના એક્સપર્ટ ટીચરે જ લીક કરાવ્યું હતું બાયોલોજીનું પેપર",
+    "desc": "NEET-UG 2026 પેપર લીક કેસમાં સીબીઆઈએ પુણેના સીનિયર બોટની ટીચર મનીષા ગુરૂનાથ મંડારેની ધરપકડ કરી છે. મનીષા મંડારેને નીટ-યુટી બાયોલોજી પેપર લીકની માસ્ટરમાઇન્ડ માનવામાં આવી રહી છે. આ પહેલા કેમેસ્ટ્રી એક્સપર્ટ પીવી કુલકર્ણીની ધરપકડ થઈ ચૂકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/neet-paper-leak-case-cbi-arrests-senior-botany-teacher-manisha-mandhare-478124 ",
+    "time": "2026-05-16T12:05:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આકાશ સિંહના &amp;#039;નોટ સેલિબ્રેશન&amp;#039;ને લઈને વિવાદ, ચિઠ્ઠીમાં એવું તો શું લખ્યું હતું કે દિગ્ગજોએ કરી ટીકા",
+    "desc": "લખનૌ સુપર જાયન્ટ્સના ફાસ્ટ બોલર આકાશ સિંહે ચેન્નાઈ સુપર કિંગ્સ સામે શાનદાર બોલિંગ પ્રદર્શન કર્યું હતું અને ત્રણ વિકેટ લીધી હતી. વિકેટ લીધા બાદ 'નોટ સેલિબ્રેશન' કર્યું હતું. જો કે, આ નોટ સેલિબ્રેશન ઘણા ક્રિકેટ દિગ્ગજોને પસંદ આવ્યું નથી, તેમણે સેલિબ્રેશનની આ સ્ટાઈલની આકરી ટીકા કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ambati-rayudu-and-dale-steyn-criticized-akash-singh-note-celebration-478123 ",
+    "time": "2026-05-16T11:28:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "તૂટશે 149 વર્ષ જુનો રેકોર્ડ ! આવી રહી છે દુષ્કાળ, પૂર, વિનાશ જેવી મોટી આફત? જાણો",
+    "desc": "વૈજ્ઞાનિકો કહે છે કે સુપર અલ નીનો હવે ફક્ત એક ઐતિહાસિક ચેતવણી નથી. 1877-78માં વિશ્વએ તેનો સૌથી શક્તિશાળી અલ નીનો અનુભવ કર્યો હતો, જેના કારણે વૈશ્વિક દુષ્કાળ, પાક નિષ્ફળતા, દુષ્કાળ અને રોગના વિનાશક ચક્ર શરૂ થયા હતા. 2026માં પણ આવી જ પરિસ્થિતિ ફરી ઊભી થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/149-year-old-record-will-be-broken-is-a-major-disaster-like-drought-flood-destruction-coming-know-478117 ",
+    "time": "2026-05-16T11:26:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "પેટ્રોલ-ડીઝલની ચિંતા છોડો, આ છે 5 શાનદાર ઈલેક્ટ્રિક SUV, મળશે 638 km સુધીની રેન્જ",
+    "desc": "આજકાલ પેટ્રોલ અને ડીઝલની સતત વધી રહેલી કિંમતથી લોકો પરેશાન છે. તેવામાં દેશમાં ઈલેક્ટ્રિક ગાડીની ડિમાન્ડ વધી રહી છે. જો તમે પણ નવી ઈવી ખરીદવાનો પ્લાન કરી રહ્યાં છો તો અમે તમને પાંચ શાનદાર ઈલેક્ટ્રિક કાર વિશે માહિતી આપીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/best-electric-suvs-in-india-you-will-get-a-range-of-up-to-638-km-478116 ",
+    "time": "2026-05-16T11:17:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ ગુજરાતી ક્રિકેટરને ટીમ ઈન્ડિયામાં ના મળ્યો ભાવ, હવે આ દેશ માટે રમી રહ્યો છે ક્રિકેટ",
+    "desc": "ટીમ ઈન્ડિયાના વર્લ્ડ કપ વિનર અને આ ગુજરાતી ક્રિકેટરને ટીમ ઈન્ડિયામાં ક્યારેય ભાવ મળ્યો નહોતો. પરિણામે આ ક્રિકેટર હવે બીજા દેશ માટે ક્રિકેટ રમી રહ્યો છે. સ્મિત પટેલ એક એવો ભારતીય ખેલાડી છે, જે હાલમાં યુએસ ક્રિકેટ ટીમનો સભ્ય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-under-19-cricketer-smit-patel-playing-for-us-cricket-478109 ",
+    "time": "2026-05-16T10:47:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અમદાવાદમાં ICC બોર્ડ મીટિંગ... મોહસિન નકવીને અપાયું આમંત્રણ, શું ભારત આવશે PCB ચેરમેન?",
+    "desc": "ભારત અને પાકિસ્તાન વચ્ચે સંબંધો ખરાબ છે. ભારતીય ક્રિકેટ બોર્ડ અને પાકિસ્તાન ક્રિકેટ બોર્ડ વચ્ચે પણ વિવાદ જોવા મળ્યો હતો. તેવામાં બધાની નજર તેના પર છે કે આગામી આઈસીસી બોર્ડ મીટિંગમાં હાજરી આપવા પાકિસ્તાન ક્રિકેટ બોર્ડના ચેરમેન ભારત આવશે કે નહીં?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-board-meeting-to-be-held-in-ahmedabad-on-may-30-and-31-will-pcb-chairman-mohsin-naqvi-come-to-india-478107 ",
+    "time": "2026-05-16T10:36:32.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "પેટ્રોલ-ડીઝલ બાદ હવે આ વસ્તુઓના ભાવ વધારા માટે પણ તૈયારી રાખજો, વિશેષજ્ઞોની ચેતવણી!",
     "desc": "ઈરાન અને અમેરિકા વચ્ચે તણાવ ઘટવાનું નામ લેતો નથી. જેને લીધે હોર્મુઝ સંકટ અને તેના પગલે ઓઈલ-ગેસ સંકટ તીવ્ર બની રહ્યું છે. જેની અસર હવે અનેક દેશોમાં જોવા મળી રહી છે. ભારત પણ બાકાત નથી. ભારતમાં ગઈ કાલે જ પેટ્રોલ અને ડીઝલના ભાવમાં 3 રૂપિયાનો વધારો થયો. આ વધારાના કારણે બીજી પણ અનેક વસ્તુઓનો ભાવ વધારો તોળાઈ રહ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -16,15 +70,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-both-cheap-from-all-time-high-check-latest-gold-silver-rate-478085 ",
     "time": "2026-05-16T08:38:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પ્રતિ લીટર 21-35 રૂપિયાનું નુકસાન! છતાં પેટ્રોલ-ડીઝલના કેમ 3 રૂ. જ વધ્યા ભાવ, હજું કેટલા વધી શકે ભાવ? વિગતો ખાસ જાણો",
-    "desc": "પેટ્રોલ અને ડીઝલ પર 3 રૂપિયા ભાવ વધારો ઝીંકાયો પરંતુ હજુ પણ ભાવ વધે તેવો ડર લોકોને છે. આ 3 રૂપિયાના ભાવ વધારાથી કંપનીઓનું કેટલું નુકસાન સરભર થશે અને એક્સપર્ટ્સ હજુ પણ શું ચેતવણી આપી રહ્યા છે તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/despite-big-loss-why-did-the-prices-of-petrol-and-diesel-increase-by-only-3-rs-only-478054 ",
-    "time": "2026-05-16T07:36:36.000Z"
   },
   {
     "cat": "Tech",
@@ -288,24 +333,6 @@ const newsData_gu = [
     "time": "2026-05-14T15:31:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NEET નાબૂદ થઈ તો શું થશે, NEET પહેલા કેવી રીતે ડોક્ટર બનતા હતા, કેમ બદલાઈ જૂની સિસ્ટમ, જાણો",
-    "desc": "નીટની પરીક્ષા રદ થયા બાદ તમિલનાડુની નવી રચાયેલી સરકારના મુખ્યમંત્રી વિજય થલપતિએ NEET પરીક્ષા નાબૂદ કરવાની માંગ કરી. ત્યારે વિચારો કે, જો નીટ નહિ હોય તો પછી કેવી રીતે મેડિકલમાં એડમિશન મળશે, NEET નો બીજો ઓપ્શન શું છે તે પણ જાણીએ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-will-happen-if-neet-abolished-from-india-cm-vijay-thalapati-demand-477887 ",
-    "time": "2026-05-14T14:40:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગમે ત્યારે વધી શકે છે પેટ્રોલ-ડીઝલ-ગેસના ભાવ, પેટ્રોલમાં ₹14 અને ડીઝલમાં ₹42ની ખોટ",
-    "desc": "બ્લૂમબર્ગનો રિપોર્ટ અને પેટ્રોલિયમ મંત્રાલયના હરદીપ પુરીના શબ્દો પર નજર કરીએ તો દેશમાં ગમે ત્યારે પેટ્રોલ-ડીઝલના ભાવ વધી શકે છે, નાગરિકો માટે બ્લૂમબર્ગનો રિપોર્ટ એક ચેતવણી સમાન છે. રિપોર્ટ કહે છે કે, ભારતની પેટ્રોલિયમ કંપનીઓ હાલમાં ભારે નુકસાનીનો સામનો કરી રહી છે. આ સંજોગોમાં પેટ્રોલ, ડીઝલ અને ગેસ સિલિન્ડરના ભાવ વધી શકે છે. તો જાણો આ સંકટ વચ્ચે ભારત પાસે કેટલો જથ્થો ઉપલબ્ધ છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-gas-prices-may-increase-anytime-in-india-477884 ",
-    "time": "2026-05-14T14:08:25.000Z"
-  },
-  {
     "cat": "World",
     "title": "ચીન પહોંચેલા અમેરિકી અધિકારી કેમ ન લઈ ગયા પોતાના ફોન-લેપટોપ, જાસૂસીનો ડર કે અન્ય કારણ?",
     "desc": "ચીનમાં અમેરિકી અધિકારીઓએ ડિજિટલ લોકડાઉનની સાથે પ્રવેશ કર્યો. ચીનની યાત્રા દરમિયાન ટ્રમ્પની સાથે ઘણા અધિકારી પોતાના પર્સનલ ફોન અને લેપટોપ લઈ ગયા નથી. તેની જર્યાએ તે એવી ડિવાઇસ લઈ ગયા, જેમાં જરૂરી ડેટા નહતો જેથી જાસૂસી અને ડેટા ચોરી જેવી સમસ્યાથી બચી શકાય.",
@@ -322,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/who-decides-the-price-of-petrol-and-diesel-in-india-how-is-the-price-review-done-477869 ",
     "time": "2026-05-14T12:42:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઓઈલ સંકટ ભારતના અર્થતંત્ર પર કેટલો મોટો ખતરો ? સરકાર કેમ કરી રહી છે પેટ્રોલ-ડીઝલ બચાવવાની અપીલ, શું દેશ પર તોળાઈ રહ્યું છે સંકટ ?",
-    "desc": "હોર્મુઝ સ્ટ્રેટ બંધ થવાથી ગ્લોબલ ઓઈલ સપ્લાય ચેઈન પર મોટી અસર પડી રહી છે. પરિસ્થિતિ હવે શરૂઆતમાં ધારણા કરતાં પણ વધુ ગંભીર લાગે છે. ત્યારે જો ઈરાન અને અમેરિકા વચ્ચેનું યુદ્ધ લાંબુ ચાલશે અને હોર્મુઝ સ્ટ્રેટનો નીવેડો નહીં આવે તો ભારતના અર્થતંત્ર માટે કેટલો મોટો ખતરો છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/crude-oil-crisis-impact-on-india-economy-government-appealing-to-save-fuel-477867 ",
-    "time": "2026-05-14T12:23:11.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +486,6 @@ const newsData_gu = [
     "time": "2026-05-13T12:44:59.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ક્રિકેટ છે કે વિડિયો ગેમ? એક જ મેચમાં ખડકાયો 822 રનનો ડુંગર, આખી ટીમ માત્ર 28 રનમાં ઓલઆઉટ",
-    "desc": "ભારતમાં હાલમાં IPLની ધુમ ચાલી રહી છે, ત્યારે એક એવો રેકોર્ડ બન્યો છે, જેને તોડવો લગભગ અશક્ય લાગે છે. આ મેચમાં 822 રન બનાવ્યા હતા અને 823 રનનો ટારગેટ આપવામાં આવ્યો હતો, જેના જવાબમાં વિપક્ષી ટીમ માત્ર 28 બોલમાં ઓલઆઉટ થઈ ગઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/a-target-of-823-runs-in-50-overs-and-a-huge-win-of-794-runs-a-historic-odi-match-was-witnessed-during-the-ipl-477614 ",
-    "time": "2026-05-13T11:37:57.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "WhatsApp, UPI બધું જ થઈ શકે છે બંધ ? ઈરાનના આ પગલાથી દુનિયામાં મચી જશે હાહાકાર",
     "desc": "શું દુનિયાભરમાં ઈન્ટરનેટની ચાવી ઈરાન પાસે છે ? હકીકતમાં ઈરાન દાવો કરી રહ્યું છે કે હોર્મુઝ સ્ટ્રેટમાંથી પસાર થતા અંડર સી કેબલ્સનું મેન્ટેનન્સ સંપૂર્ણપણે તે કરશે. તેથી ટેક કંપનીઓને પણ ઈરાનના નિયમોનું પાલન કરવું પડશે.",
@@ -576,24 +585,6 @@ const newsData_gu = [
     "time": "2026-05-12T13:41:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "પ્લેઓફમાં ક્વોલિફાય થવા માટે કઈ ટીમને કેટલી જીતની જરૂર ? જાણો પોઈન્ટ ટેબલનું સંપૂર્ણ સમીકરણ",
-    "desc": "IPL 2026 હવે તેના અંતિમ તબક્કામાં છે, લીગ તબક્કામાં ફક્ત થોડી જ મેચો બાકી છે. હાલમાં આઠ ટીમો પ્લેઓફ માટે રેસમાં છે. ત્યારે પ્લેઓફમાં ક્વોલિફાય થવા માટે કઈ ટીમને કેટલી જીતની જરૂર છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-playoff-qualification-scenario-all-teams-gujarat-titans-rcb-csk-punjab-kings-477591 ",
-    "time": "2026-05-12T12:25:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 વચ્ચે રાહુલ દ્રવિડે T20 લીગમાં ખરીદી ટીમ, ભારતીય દિગ્ગજ ખેલાડીને બનાવ્યો કેપ્ટન, જાણો",
-    "desc": "જેમ જેમ IPL 2026 તેના અંતિમ તબક્કાની નજીક આવી રહી છે, તેમ તેમ ઉત્સાહ વધી રહ્યો છે. સમગ્ર ક્રિકેટ જગત હાલમાં IPL પર ધ્યાન કેન્દ્રિત કરી રહ્યું છે. આ વિશ્વની સૌથી મોટી T20 લીગની ચર્ચા દરેક જગ્યાએ થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/amidst-ipl-2026-rahul-dravid-buys-team-in-t20-league-makes-indian-legend-captain-know-477590 ",
-    "time": "2026-05-12T12:21:54.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "કલાકો સુધી ચાલ્યા પછી પણ રૂમ ઠંડો નથી કરતુ AC, હોઈ શકે છે આ કારણ, જાણો",
     "desc": "જ્યારે કાળઝાળ ગરમીમાં એસી યોગ્ય રીતે કામ ન કરે, ત્યારે તે તકલીફ પેદા કરી શકે છે. કેટલાક લોકો ફરિયાદ કરે છે કે કલાકો સુધી એસી ચલાવ્યા પછી પણ ઠંડુ થતું નથી. જાણો તેનું કારણ શું છે અને તેને કેવી રીતે ઠીક કરી શકાય, આ લેખમાં અમે તમને જણાવીશું.",
@@ -682,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/instagram-has-closed-the-accounts-of-millions-of-people-if-you-want-to-keep-your-account-safe-do-not-make-these-5-mistakes-477021 ",
     "time": "2026-05-08T09:07:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "₹5.99 લાખની આ 5-સીટર પર તૂટી પડ્યા ગ્રાહક, બની દેશની નંબર-1 કાર, 30 km આપે છે માઇલેજ",
-    "desc": "મારૂતિ સુઝુકીની કાર દેશમાં સૌથી વધુ પસંદ કરવામાં આવે છે. દર મહિને ટોપ-10 વેચાણના લિસ્ટમાં મારૂતિની ઘણી કાર સામેલ હોય છે. મારૂતિ સુઝુકી બલેનો એપ્રિલ-2026મા સૌથી વધુ વેચાતી હેચબેક રહી છે. આવો આ કાર વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-baleno-becomes-number-1-car-in-hatchback-segment-sells-18306-units-in-april-476978 ",
-    "time": "2026-05-08T06:04:28.000Z"
   },
   {
     "cat": "Entertainment",
