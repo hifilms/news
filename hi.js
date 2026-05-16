@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch Sylhet match in India?",
+    "desc": "Bangladesh and Pakistan are set to lock horns in the second and final Test of their series at the Sylhet International Cricket Stadium, Sylhet, beginning on Saturday, May 16. Bangladesh marked their first-ever home Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-2nd-test-live-streaming-when-and-where-to-watch-sylhet-match-in-india-2026-05-16-1041338",
+    "time": "2026-05-16T02:33:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why didn't Rishabh Pant come out to bat in LSG vs CSK IPL 2026 clash? Lucknow skipper reveals",
+    "desc": "Rishabh Pant didn't turn up to bat despite Lucknow Super Giants losing three wickets in a hurry after a marathon opening wicket stand of 135 between Mitchell Marsh and Josh Inglis in their chase against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-didnt-rishabh-pant-come-out-to-bat-in-lsg-vs-csk-ipl-2026-clash-lucknow-skipper-reveals-2026-05-16-1041335",
+    "time": "2026-05-16T01:56:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can CSK qualify for IPL 2026 playoffs after drubbing to LSG in Lucknow?",
+    "desc": "Chennai Super Kings' chances for the IPL 2026 playoffs took a dent when they suffered a drubbing to the Lucknow Super Giants in their 12th match of the tournament on Friday, May 15. The Super...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-csk-qualify-for-ipl-2026-playoffs-after-drubbing-to-lsg-in-lucknow-2026-05-16-1041333",
+    "time": "2026-05-16T01:19:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mitchell Marsh's masterclass bulldozes Chennai Super Kings out of Lucknow, propels LSG to dominant victory",
     "desc": "Lucknow Super Giants registered a brilliant victory against Chennai Super Kings in the 59th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Ekana Stadium in Lucknow on May...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/wasim-jaffer-hails-tilak-varma-for-spectacular-winning-knock-against-punjab-kings-2026-05-15-1041296",
     "time": "2026-05-15T12:50:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Reset mentally': Mark Boucher weighs in on how Punjab Kings can bounce back after five straight losses",
-    "desc": "The ongoing IPL (Indian Premier League) 2026 season has been a roller coaster ride for the 2025 finalists Punjab Kings. Led by Shreyas Iyer, the side kicked off their season with a string of victories...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/reset-mentally-mark-boucher-weighs-in-on-how-punjab-kings-can-bounce-back-after-five-straight-losses-2026-05-15-1041290",
-    "time": "2026-05-15T12:03:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC slaps Pakistan with hefty fine, hands WTC points deduction after first Test loss against Bangladesh",
-    "desc": "In a major development, the ICC (International Cricket Council) has come forward and announced that they have docked eight points from Pakistan’s WTC (World Test Championship) tally and have also fined players 40 per cent...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-slaps-pakistan-with-hefty-fine-hands-wtc-points-deduction-after-first-test-loss-against-bangladesh-2026-05-15-1041282",
-    "time": "2026-05-15T11:02:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Ekana Stadium in Lucknow play?",
-    "desc": "The 59th game of the ongoing IPL (Indian Premier League) 2026 sees Lucknow Super Giants taking on Chennai Super Kings. The two sides will meet at the Ekana Stadium in Lucknow on May 15th. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-csk-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-2026-05-15-1041273",
-    "time": "2026-05-15T10:19:26.000Z"
   }
 ];
