@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Karjat MLA Rohit Pawar hits out at CJI comment on youngsters",
+    "desc": "Surya Kant and Justice Joymalya Bagchi pulled up a lawyer for “pursuing” a senior advocate designation, saying that there are already “parasites” in society who attack the system, and asked the petitioner whether he wanted to join hands with them",
+    "img": "https://th-i.thgim.com/public/incoming/tlin96/article70988456.ece/alternates/LANDSCAPE_1200/PTI02_23_2026_000108B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/karjat-mla-rohit-pawar-hits-out-at-cji-comment-on-youngsters/article70987773.ece",
+    "time": "2026-05-16T20:35:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Amjad Khan kaunsa villain hai?’: Son recalls Tom Alter’s anecdote",
+    "desc": "Nearly five decades after its release, Sholay continues to remain one of Indian cinema’s most iconic films. But according to actor-writer Shadaab Khan, son of legendary actor Amjad Khan, the film was not instantly embraced by audiences when it first hit theatres in 1975. Shadaab recalled a fascinating anecdote once narrated to him by late actor Tom Alter about how dramatically opinions around Sholay changed within just a few months of its release.",
+    "img": "https://static.toiimg.com/photo/msid-131145492,imgsize-42124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amjad-khan-kaunsa-villain-hai-son-shadaab-khan-recalls-tom-alters-anecdote-about-a-waiter-mocking-sholay-before-its-success/articleshow/131145487.cms",
+    "time": "2026-05-16T20:30:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman recalls terrifying stunt mishaps on Jaagruti, Patthar Ke Phool sets",
+    "desc": "Over the years, Salman Khan has established himself as one of Bollywood’s biggest action stars, pulling off everything from gravity-defying jumps to intense combat scenes on screen. While audiences often cheer for these larger-than-life moments in theatres, the actor recently revealed that some of these sequences came dangerously close to turning into real-life accidents.",
+    "img": "https://static.toiimg.com/photo/msid-131145390,imgsize-39564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-recalls-terrifying-80-foot-jump-mishap-on-jaagruti-sets-reveals-patthar-ke-phool-stunt-left-him-unable-to-breathe/articleshow/131145364.cms",
+    "time": "2026-05-16T19:53:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Allen, Raghuvanshi and Narine help Knight Riders stay alive",
+    "desc": "The opener slams a 35-ball 93; the No. 3 batter adds 108 off just 52 deliveries for the unbroken third wicket with Green to take the home team to 247; poor catching hurts Titans; the wily spinner returns figures of two for 29 to thwart the visitor",
+    "img": "https://th-i.thgim.com/public/incoming/dv4ujt/article70988426.ece/alternates/LANDSCAPE_1200/021.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-allen-raghuvanshi-and-narine-help-knight-riders-stay-alive/article70988424.ece",
+    "time": "2026-05-16T19:17:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Elderly dead, 7 in hospital after consuming wild vegetable in Rajouri",
+    "desc": "Tragedy struck Rajouri's Mohra village as a 60-year-old man succumbed to suspected food poisoning after consuming a wild vegetable. Seven others, including two young children, were hospitalized following the incident affecting two families. Investigations are underway to determine the exact cause of the severe illness that led to the fatality and hospitalizations.",
+    "img": "https://static.toiimg.com/photo/msid-131145058,imgsize-514233.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-elderly-dead-7-in-hospital-after-consuming-wild-vegetable-in-rajouri/articleshow/131145123.cms",
+    "time": "2026-05-16T19:09:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katrina shares adorable glimpse of baby Vihaan on Vicky's b'day",
+    "desc": "As Vicky Kaushal turned 38 on May 16, wife Katrina Kaif made the day extra special with a heartfelt birthday note that gave fans a rare glimpse into their life as parents. Along with unseen pictures from the intimate celebration, Katrina also shared an adorable moment featuring their baby boy and a special cake that read, “Happy Birthday Papa.”",
+    "img": "https://static.toiimg.com/photo/msid-131144986,imgsize-72082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-shares-adorable-glimpse-of-baby-vihaan-while-wishing-vicky-kaushal-on-his-38th-birthday-my-heart-is-full-and-grateful/articleshow/131144961.cms",
+    "time": "2026-05-16T19:05:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Anti-terror search operation launched across J&amp;K’s Poonch district",
+    "desc": "Jammu and Kashmir's Poonch district is under a massive security sweep following a foiled infiltration bid. Forces are conducting extensive searches across multiple locations after an intruder was neutralized near the Line of Control. Heightened security measures, including stringent vehicle checks, are in place amid unconfirmed reports of a high-profile foreign terrorist presence.",
+    "img": "https://static.toiimg.com/photo/msid-131144712,imgsize-923308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/anti-terror-search-operation-launched-across-jks-poonch-district/articleshow/131143963.cms",
+    "time": "2026-05-16T18:52:35.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'We didn’t deserve to win'- Shubman Gill’s brutal verdict after GT defeat",
     "desc": "Shubman Gill attributed Gujarat Titans' 29-run loss to Kolkata Knight Riders to poor fielding, stating the team \"didn't deserve to win\" after dropping multiple crucial catches. Despite a strong batting performance led by Gill's 85, GT fell short of KKR's 248, with dropped catches allowing KKR's batsmen to score heavily.",
@@ -43,6 +106,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-my-father-aanjjan-srivastavs-accident-in-2002-weve-seen-days-when-we-struggled-to-survive-ranjana-aanjjan-exclusive/articleshow/131142520.cms",
     "time": "2026-05-16T17:39:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "V.D. Satheesan",
+    "desc": "A self-described supporter of Nehruvian socialism, the Congress leader who steered the party-led alliance, out of power for a decade, to an emphatic victory over the Left Democratic Front in Kerala, is now set to take the reins of the State",
+    "img": "https://th-i.thgim.com/public/news/national/hw4f0h/article70988218.ece/alternates/LANDSCAPE_1200/VD_Satheesan_CM-Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/vd-satheesan-the-nehruvian-revivalist/article70988221.ece",
+    "time": "2026-05-16T17:15:54.000Z"
   },
   {
     "cat": "Sports",
@@ -97,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/twinkle-khanna-recalls-astrologers-akshay-kumar-prediction/articleshow/131140892.cms",
     "time": "2026-05-16T16:04:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Robert Vadra secures pre-arrest bail in Shikohpur land transaction case",
-    "desc": "According to allegations, 3.53 acres was acquired by Vadra for ₹7.5 crore in 2008 and sold to a real estate firm for ₹58 crore in 2012; investigators allege the acquisition involved false declarations and that a commercial licence for the property was obtained using influence in the government.",
-    "img": "https://th-i.thgim.com/public/incoming/qjwifs/article70988049.ece/alternates/LANDSCAPE_1200/VADRA%20ED_17_04_8.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/haryana/robert-vadra-secures-pre-arrest-bail-in-shikohpur-land-transaction-case/article70987481.ece",
-    "time": "2026-05-16T15:53:29.000Z"
   },
   {
     "cat": "Business",
@@ -279,15 +342,6 @@ const newsData_en = [
     "time": "2026-05-16T12:04:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Didn’t understand the value of our language': Ankit on 'Laalo premiere at Cannes 2026",
-    "desc": "Gujarati cinema achieves a milestone as 'Laalo – Krishna Sada Sahaayate' premieres at the Cannes Film Festival. Director Ankit Sakhiya expressed pride as international audiences connected emotionally with the devotional drama, highlighting the global appreciation for Gujarati culture and language. Sakhiya credits his heritage for this prestigious international recognition.",
-    "img": "https://static.toiimg.com/photo/msid-131136734,imgsize-44500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/didnt-understand-the-value-of-our-language-ankit-sakhiya-on-laalo-krishna-sada-sahaayate-premiere-at-cannes-2026-exclusive/articleshow/131136690.cms",
-    "time": "2026-05-16T11:48:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Delhi moves from 'Achiever' to 'Exemplar' category in LEADS 2025",
     "desc": "Delhi Chief Minister Rekha Gupta on Saturday said that the national capital has secured a place in the highest 'Exemplar' category in the Logistics Ease Across Different States (LEADS) 2025 Index, marking a major jump from its earlier 'Achiever' status.",
@@ -295,24 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/delhi-moves-from-achiever-to-exemplar-category-in-leads-2025/articleshow/131136639.cms",
     "time": "2026-05-16T11:47:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Laalo' creates history at Cannes: First Gujarati film to reach the global stage",
-    "desc": "Gujarati film 'Laalo - Krishna Sada Sahaayate' has made history as the first from the language to be showcased at the Cannes Film Festival. The achievement is being celebrated as a significant milestone for regional Indian cinema, with the team expressing gratitude and hope for future growth.",
-    "img": "https://static.toiimg.com/photo/msid-131136569,imgsize-53636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/laalo-creates-history-at-cannes-first-gujarati-film-to-reach-the-global-stage-makers-say-nothing-but-gratitude-dreams-and-our-cinema/articleshow/131136282.cms",
-    "time": "2026-05-16T11:37:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Old Kareena-Abhishek Interviews: Kareena hailed Abhishek as “better”; later called him very special",
-    "desc": "In an unexpected twist, old praises from Kareena Kapoor about Abhishek Bachchan's talent have come to light, dating back to before their film debut in 'Refugee.' She predicted that he would eclipse the illustrious legacy of his father, Amitabh Bachchan, and regarded him as a dear companion.",
-    "img": "https://static.toiimg.com/photo/msid-131136512,imgsize-35618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-once-predicted-abhishek-would-be-better-than-amitabh-bachchan-he-is-going-to-be-better-than-the-best/articleshow/131136512.cms",
-    "time": "2026-05-16T11:34:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +378,6 @@ const newsData_en = [
     "time": "2026-05-16T11:16:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Misquoted my oral observations': CJI Surya Kant clarifies 'cockroach' remarks on unemployed youth",
-    "desc": "Chief Justice of India Surya Kant clarified his remarks comparing some unemployed youth to 'cockroaches,' stating his comments were misquoted and targeted individuals using fake degrees in professions. He expressed pride in India's youth, calling them pillars of a developed nation, and emphasized his respect for them. The clarification followed controversy over his observations during a court hearing.",
-    "img": "https://static.toiimg.com/photo/msid-131135453,imgsize-41700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/misquoted-my-oral-observations-cji-surya-kant-clarifies-cockroach-remarks-on-unemployed-youth/articleshow/131135453.cms",
-    "time": "2026-05-16T10:26:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Financial systems must remain connected to real economy, PM’s principal secretary PK Mishra cautions against speculation",
     "desc": "Principal Secretary PK Mishra cautioned financial systems against excessive speculation and market instability, emphasizing their connection to the real economy and citizens' lives. He highlighted India's digital public infrastructure, including the JAM trinity and UPI, as transformative forces for financial inclusion and credit access, particularly for underserved populations.",
@@ -358,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/financial-systems-must-remain-connected-to-real-economy-pms-principal-secretary-pk-mishra-cautions-against-speculation/articleshow/131135313.cms",
     "time": "2026-05-16T10:20:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What's 'jihadi drug'? Rs 182 crore Captagon seized under Operation Ragepill",
-    "desc": "India has achieved a significant breakthrough in its fight against drug trafficking with the first-ever seizure of Captagon, dubbed the 'Jihadi drug', worth Rs 182 crore. Under 'Operation Ragepill', authorities intercepted 227.7 kg of the substance, destined for the Middle East, and arrested a foreign national. This operation underscores the government's zero-tolerance policy against narcotics.",
-    "img": "https://static.toiimg.com/photo/msid-131135324,imgsize-969813.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/whats-jihadi-drug-rs-182-crore-captagon-seized-under-operation-ragepill/articleshow/131135118.cms",
-    "time": "2026-05-16T10:10:58.000Z"
   },
   {
     "cat": "Business",
