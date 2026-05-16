@@ -46,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Bangladesh look for 2-0 sweep in Sylhet",
+    "title": "Pakistan bowlers rip through Bangladesh in Sylhet",
     "desc": "Bangladesh aim to complete a memorable series sweep as they take on Pakistan in the second and final Test at the Sylhet International Cricket Stadium. Riding high on confidence after their impressive victory in the...",
     "img": "",
     "src": "indiatvnews.com",
