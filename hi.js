@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI fines LSG captain Rishabh Pant for breach of IPL Code of Conduct during thumping win over CSK",
+    "desc": "The Board of Control for Cricket in India (BCCI) has handed Lucknow Super Giants captain Rishabh Pant a fine of Rs 12 lakh for his team maintaining a slow over rate during the clash against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-fines-lsg-captain-rishabh-pant-for-breach-of-ipl-code-of-conduct-during-thumping-win-over-csk-2026-05-16-1041352",
+    "time": "2026-05-16T04:23:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Babar Azam playing for Pakistan in 2nd Test against Bangladesh in Sylhet?",
+    "desc": "Babar Azam returned to the Pakistan side for their second Test against Bangladesh at the Sylhet International Cricket Stadium, Sylhet, as the Men in Green look to bounce back from their first Test drubbing. Babar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-babar-azam-playing-for-pakistan-in-2nd-test-against-bangladesh-in-sylhet-2026-05-16-1041347",
+    "time": "2026-05-16T03:58:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh look for 2-0 sweep in Sylhet",
+    "desc": "Bangladesh aim to complete a memorable series sweep as they take on Pakistan in the second and final Test at the Sylhet International Cricket Stadium. Riding high on confidence after their impressive victory in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-2nd-test-live-cricket-score-bangladesh-vs-pakistan-sylhet-international-cricket-stadium-latest-match-updates-scorecard-playing-xis-2026-05-16-1041345",
+    "time": "2026-05-16T03:34:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fatima Sana creates history, slams fastest fifty in Women T20Is during Zimbabwe blitzkrieg",
+    "desc": "Pakistan captain Fatima Sana rewrote the history books when she slammed the fastest-ever fifty in Women T20Is during his blitzkrieg against Zimbabwe in the third and final T20I at the National Stadium in Karachi on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/fatima-sana-creates-history-slams-fastest-fifty-in-women-t20is-during-zimbabwe-blitzkrieg-2026-05-16-1041341",
+    "time": "2026-05-16T03:13:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch Sylhet match in India?",
     "desc": "Bangladesh and Pakistan are set to lock horns in the second and final Test of their series at the Sylhet International Cricket Stadium, Sylhet, beginning on Saturday, May 16. Bangladesh marked their first-ever home Test...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rachin-ravindra-returns-home-leaves-kolkata-knight-riders-camp-ahead-of-england-tests-2026-05-15-1041317",
     "time": "2026-05-15T17:05:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'They don't need my service': Mushfiqur Rahim opens up on his potential ODI comeback",
-    "desc": "The stage is set for the second Test of the ongoing series between Pakistan and Bangladesh. The two sides will face off for the second Test at the Sylhet International Cricket Stadium, and ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/they-don-t-need-my-service-mushfiqur-rahim-opens-up-on-his-potential-odi-comeback-2026-05-15-1041312",
-    "time": "2026-05-15T15:38:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Schedule for India A's tri-series in Sri Lanka announced, set to kick off on June 9",
-    "desc": "In a major development, the schedule for the tri-series between India A, Sri Lanka A, and Afghanistan A has been announced. Sri Lanka will be hosting the two sides across the series, and it is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/schedule-for-india-a-s-tri-series-in-sri-lanka-announced-set-to-kick-off-on-june-9-2026-05-15-1041307",
-    "time": "2026-05-15T14:17:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai Super Kings look to maintain winning ways",
-    "desc": "Game 59 of the ongoing IPL (Indian Premier League) 2026 sees Lucknow Super Giants taking on Chennai Super Kings. The two sides meet at the Ekana Stadium in Lucknow, and it could be interesting to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-csk-live-cricket-score-chennai-super-kings-look-to-maintain-winning-ways-2026-05-15-1041297",
-    "time": "2026-05-15T13:06:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Amazing talent': Wasim Jaffer hails Tilak Varma for spectacular winning knock against Punjab Kings",
-    "desc": "Mumbai Indians registered a brilliant victory against Punjab Kings in the 58th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the HPCA Stadium in Dharamsala, and the clash saw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wasim-jaffer-hails-tilak-varma-for-spectacular-winning-knock-against-punjab-kings-2026-05-15-1041296",
-    "time": "2026-05-15T12:50:40.000Z"
   }
 ];

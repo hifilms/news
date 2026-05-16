@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "জ্বর থেকে লিভারে ভয়ংকর সংক্রমণ, অকালেই চলে গেলেন জনপ্রিয় কনটেন্ট ক্রিয়েটর-অভিনেত্রী কারিনা",
+    "desc": "অকালেই নিভে গেল এক উজ্জ্বল নক্ষত্র। চিকিৎসাধীন অবস্থায় চেন্নাইয়ের সিএমসি হাসপাতালে শেষ নিশ্বাস ত্যাগ করলেন জনপ্রিয় কনটেন্ট ক্রিয়েটর ও অভিনেত্রী কারিনা কায়সার। লিভারের গুরুতর সমস্যায় ভুগছিলেন তিনি। তাঁর এই আকস্মিক ও অকাল প্রয়াণে বিনোদন জগতে নেমে এসেছে গভীর শোকের ছায়া।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/actress-content-creator-kaarina-kaisar-passes-away-chennai_654195.html ",
+    "time": "2026-05-16T05:18:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "থালাপতি জ্বরে কাঁপছে চেন্নাই, বিজয়ের জন্য ৬৫৪ কিমি পথ পায়ে হেঁটে চেন্নাইয়ে 'ফ্যান' দম্পতি",
     "desc": "প্রিয় তারকার জন্য সবকিছুই সম্ভব! তামিলনাড়ুর নবনির্বাচিত মুখ্যমন্ত্রী থালপতি বিজয়ের সঙ্গে দেখা করতে কেরালাম থেকে চেন্নাই পর্যন্ত ৬৫৪ কিমি পায়ে হেঁটে পাড়ি দিচ্ছেন এক দম্পতি। মহম্মদ রফি ও শাহানামোলের এই 'থালাপতি প্রেম' এখন নেটপাড়ায় তুঙ্গে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -142,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/ratna-debnath-wins-panihati-seat-mimi-chakraborty-shruti-das-ankush-hazra-saurav-das-reaction_652675.html ",
     "time": "2026-05-05T11:13:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শ্যামপুরে পদ্ম-ঝড়: ব্যক্তিগত বিতর্ক ছাপিয়ে জয়ের হাসি হিরণের মুখে, কী বলছেন স্ত্রী অনিন্দিতা?",
-    "desc": "সব বিতর্ক ও জল্পনা সরিয়ে শ্যামপুর বিধানসভা কেন্দ্রে ২২২৬০ ভোটে জয়ী হলেন বিজেপি প্রার্থী হিরণ্ময় চট্টোপাধ্যায় (হিরণ)। ঘরের ছেলের এই জয়ে উচ্ছ্বসিত স্ত্রী অনিন্দিতা চট্টোপাধ্যায়। অনিন্দিতার কথায়, \"হিরণ তো শেষমেশ আমার মেয়ের বাবা, ওর জয়ে আমরা সবাই খুব খুশি।\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/hiran-chatterjee-wins-shyampur-election-wife-anindita-reaction-2026_652629.html ",
-    "time": "2026-05-05T08:43:00.000Z"
   },
   {
     "cat": "World",
