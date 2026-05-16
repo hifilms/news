@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Punjab Kings address Arshdeep Singh's social media drama amid run of poor form",
+    "desc": "Punjab Kings, despite getting off to a stellar start for the ongoing IPL (Indian Premier League) 2026 season, have fallen down a steep hill. The side has not lost five straight games in the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-address-arshdeep-singh-s-social-media-drama-amid-run-of-poor-form-2026-05-16-1041415",
+    "time": "2026-05-16T14:59:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans look to keep on with title charge",
+    "desc": "Kolkata Knight Riders and Gujarat Titans will take on each other in the 60th game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the Eden Gardens in Kolkata on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-gt-live-cricket-score-gujarat-titans-look-to-keep-on-with-title-charge-2026-05-16-1041409",
+    "time": "2026-05-16T13:44:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PM Modi weighs in on India's sporting relations with the Netherlands, discusses hosting the Olympics",
     "desc": "Prime Minister Narendra Modi took centre stage and laid out the aspirations for India on his two-day trip to the Netherlands. One of the most talked-about points from the PM’s visit to the country has...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-fines-lsg-captain-rishabh-pant-for-breach-of-ipl-code-of-conduct-during-thumping-win-over-csk-2026-05-16-1041352",
     "time": "2026-05-16T04:23:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Babar Azam playing for Pakistan in 2nd Test against Bangladesh in Sylhet?",
-    "desc": "Babar Azam returned to the Pakistan side for their second Test against Bangladesh at the Sylhet International Cricket Stadium, Sylhet, as the Men in Green look to bounce back from their first Test drubbing. Babar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-babar-azam-playing-for-pakistan-in-2nd-test-against-bangladesh-in-sylhet-2026-05-16-1041347",
-    "time": "2026-05-16T03:58:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan bowlers rip through Bangladesh in Sylhet",
-    "desc": "Bangladesh aim to complete a memorable series sweep as they take on Pakistan in the second and final Test at the Sylhet International Cricket Stadium. Riding high on confidence after their impressive victory in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-2nd-test-live-cricket-score-bangladesh-vs-pakistan-sylhet-international-cricket-stadium-latest-match-updates-scorecard-playing-xis-2026-05-16-1041345",
-    "time": "2026-05-16T03:34:55.000Z"
   }
 ];

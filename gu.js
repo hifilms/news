@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ભારતના આ રાજ્યને કહેવાય છે &amp;#039;સોલ્ટ કેપિટલ&amp;#039;, આખા દેશને પૂરું પાડે છે મીઠું, વિદેશમાં પણ થાય છે નિકાસ",
+    "desc": "મીઠાનો ઉપયોગ ભોજનનો સ્વાદ વધારવા માટે થાય છે. પ્રાચીન કાળથી ભોજનમાં મીઠાનો ઉપયોગ થતો આવ્યો છે. ત્યારે ભારતમાં એક રાજ્ય છે, જે 'સોલ્ટ કેપિટલ' તરીકે ઓળખાય છે ? ત્યારે આ રાજ્ય કયું છે અને કેમ તેને 'સોલ્ટ કેપિટલ' તરીકે ઓળખવામાં આવે છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gk-which-state-is-known-as-the-salt-capital-of-india-478157 ",
+    "time": "2026-05-16T15:24:53.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "NEET કેસમાં મોટી ધરપકડ, NTA ના એક્સપર્ટ ટીચરે જ લીક કરાવ્યું હતું બાયોલોજીનું પેપર",
     "desc": "NEET-UG 2026 પેપર લીક કેસમાં સીબીઆઈએ પુણેના સીનિયર બોટની ટીચર મનીષા ગુરૂનાથ મંડારેની ધરપકડ કરી છે. મનીષા મંડારેને નીટ-યુટી બાયોલોજી પેપર લીકની માસ્ટરમાઇન્ડ માનવામાં આવી રહી છે. આ પહેલા કેમેસ્ટ્રી એક્સપર્ટ પીવી કુલકર્ણીની ધરપકડ થઈ ચૂકી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -289,15 +298,6 @@ const newsData_gu = [
   },
   {
     "cat": "Politics",
-    "title": "સવાર સવારમાં મોટો ઝટકો, ભાવ વધારા બાદ અમદાવાદ સહિત શહેરોમાં એક લીટર પેટ્રોલ-ડીઝલનો નવો રેટ",
-    "desc": "આજે સવાર સવારમાં દેશવાસીઓને મોટો ઝટકો મળ્યો છે કારણ કે પેટ્રોલ અને ડીઝલના ભાવમાં વધારો ઝીંકાયો છે. જેની ભીતિ સેવાઈ રહી હતી આખરે તે જ જોવા મળ્યું છે. જાણો ગુજરાતના મોટા શહેરોમાં પેટ્રોલ અને ડીઝલના આજના નવા ભાવ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-price-increased-check-ahmedabad-petrol-price-rajkot-surat-vadodara-latest-petrol-diesel-rate-477907 ",
-    "time": "2026-05-15T05:06:54.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "પેટ્રોલ-ડીઝલ બાદ હવે LPG સિલિન્ડરનો વારો? વધી શકે છે રેટ, જાણો અમદાવાદ સહિત શહેરોમાં આજનો ભાવ",
     "desc": "ઈરાન અને અમેરિકા વચ્ચેની તંગ સ્થિતિ થાળે પડી રહી નથી જેની લપેટમાં હવે ધીરે ધીરે ભારત પણ આવતું જોવા મળી રહ્યું છે. આજે સવારે પેટ્રોલ અને ડીઝલના ભાવ વધ્યા અને હવે રાંધણ ગેસનો બાટલો પણ મોંઘો થાય તેવી ભીતિ સેવાઈ રહી છે. જાણો આજના લેટેસ્ટ રેટ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -313,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-announced-divorce-suraj-nambiar-deleted-all-photos-of-mouni-roy-from-his-instagram-477906 ",
     "time": "2026-05-15T02:58:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મધ્યમ વર્ગને મોટો ઝટકો, પેટ્રોલ-ડીઝલના ભાવમાં 3 રુપિયા સુધીનો વધારો, જાણો નવા રેટ",
-    "desc": "15 મે 2026 ના રોજ સૌથી મોટો ઝટકો લોકોને મળ્યો છે. આજે સરકારે પેટ્રોલ અને ડીઝલના ભાવમાં 3 રુપિયાથી વધુનો વધારો ઝીંક્યો છે. જેના કારણે પેટ્રોલ અને ડીઝલના ભાવ વધી ચુક્યા છે. હવે પેટ્રોલ ડીઝલ કયા ભાવે મળશે ચેક કરી લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-price-hike-3-rupees-on-15-may-2026-here-is-detail-new-rate-of-petrol-and-diesel-477905 ",
-    "time": "2026-05-15T02:18:54.000Z"
   },
   {
     "cat": "World",
@@ -558,15 +549,6 @@ const newsData_gu = [
     "time": "2026-05-13T07:35:42.000Z"
   },
   {
-    "cat": "Business",
-    "title": "રેલવે,બેંક બાદ હવે આ સરકારી કર્મચારીઓનું વધ્યું મોંઘવારી ભથ્થું, DA 60% એ પહોંચ્યું; જાણો પગારમાં કેટલો થશે વધારો",
-    "desc": "ગ્રામીણ ડાક સેવકોના લાખો (GDS) કર્મચારીઓના મોંઘવારી ભથ્થા (DA) માં વધારો કરવામાં આવ્યો છે. ગ્રામીણ ડાક સેવકો (GDS) ના DA (DPS) ને 58% થી વધારીને 60% કરવામાં આવ્યું છે. 1 જાન્યુઆરી, 2026 થી તેમને બેસિક ટાઈમ રિલેટેડ કન્ટીન્યૂટી એલાઉન્સ પર 60 ટકા મોંઘવારી ભથ્થું મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/railway-and-bank-employees-after-dearness-allowance-hiked-for-these-government-employees-da-reaches-60-477645 ",
-    "time": "2026-05-13T04:25:15.000Z"
-  },
-  {
     "cat": "World",
     "title": "13 દેશોમાં વર્ક ફ્રોમ હોમ, તો ક્યાંક વિદેશ પ્રવાસ પર પ્રતિબંધ... ઇંધણ બચાવવા માટે કયા દેશે શું નિર્ણયો લીધા? જાણો",
     "desc": "ઈરાન-અમેરિકા યુદ્ધની અસર હવે જોવા મળી રહી છે. આખી દુનિયા ઊર્જા સંકટનો સામનો કરી રહી છે. આ કારણે અલગ-અલગ દેશોએ તેના માટે પગલાં ભરવાનું શરૂ કરી દીધું છે. આજે અમે તમને જણાવી રહ્યા છીએ કે, કયા દેશોએ શું પગલાં લીધાં છે.",
@@ -664,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-swift-hydrogen-no-need-to-refuel-with-petrol-anymore-run-on-water-based-fuel-find-out-what-this-new-technology-477069 ",
     "time": "2026-05-08T14:16:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ઇન્સ્ટાગ્રામે બંધ કર્યા લાખો લોકોના એકાઉન્ટ, જો તમે તમારા એકાઉન્ટને સુરક્ષિત રાખવા માંગતા હો, તો ભૂલથી પણ ન કરો આ 5 ભૂલો",
-    "desc": "Instagram એ લાખો વપરાશકર્તાઓ માટે નકલી અને સ્પામ એકાઉન્ટ બંધ કરી દીધા છે. જો તમે તમારા Instagram એકાઉન્ટને સુરક્ષિત રાખવા માંગતા હો, તો આ ભૂલો કરવાનું ટાળો, નહીં તો તમારું એકાઉન્ટ સસ્પેન્ડ અથવા ડિલીટ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/instagram-has-closed-the-accounts-of-millions-of-people-if-you-want-to-keep-your-account-safe-do-not-make-these-5-mistakes-477021 ",
-    "time": "2026-05-08T09:07:41.000Z"
   },
   {
     "cat": "Entertainment",
