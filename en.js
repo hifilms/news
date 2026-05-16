@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'We didn’t deserve to win'- Shubman Gill’s brutal verdict after GT defeat",
+    "desc": "Shubman Gill attributed Gujarat Titans' 29-run loss to Kolkata Knight Riders to poor fielding, stating the team \"didn't deserve to win\" after dropping multiple crucial catches. Despite a strong batting performance led by Gill's 85, GT fell short of KKR's 248, with dropped catches allowing KKR's batsmen to score heavily.",
+    "img": "https://static.toiimg.com/photo/msid-131144331,imgsize-144926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-we-didnt-deserve-to-win-shubman-gills-brutal-verdict-after-gt-defeat-to-kkr/articleshow/131144365.cms",
+    "time": "2026-05-16T18:37:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sai Sudharsan scripts T20 history, becomes fastest-ever to...",
+    "desc": "Sai Sudharsan etched his name in T20 history, becoming the fastest batter to 3000 runs in just 78 innings. Despite Gujarat Titans' loss, Sudharsan showcased his brilliance with an unbeaten 53 and extended his record of consecutive 50+ scores for the franchise to four. He currently leads IPL 2026 in runs.",
+    "img": "https://static.toiimg.com/photo/msid-131144081,imgsize-173234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-sai-sudharsan-scripts-t20-history-becomes-fastest-ever-to-3000-runs/articleshow/131144015.cms",
+    "time": "2026-05-16T18:24:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM SHRI set to be a tightrope walk for UDF government in Kerala",
+    "desc": "Nearly ₹1,100 crore of Samagra Shiksha funds have been withheld by the Union government since 2023-24; CM-designate V.D. Satheesan had slammed the LDF govt. when it signed on to the scheme in October last year",
+    "img": "https://th-i.thgim.com/public/incoming/7k4s98/article70987706.ece/alternates/LANDSCAPE_1200/6678_5_3_2026_10_48_4_2_CLASS_2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/pm-shri-implementation-a-tightrope-ahead-for-udf-govt-in-kerala/article70987645.ece",
+    "time": "2026-05-16T18:10:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chola-era Anaimangalam Plates, in possession of Leiden University since 1862, returned to India",
+    "desc": "The plates will be handed over to the Archaeological Survey of India (ASI) in New Delhi; the ASI, which functions under the Union Ministry of Culture, will decide whether and where the objects will be exhibited in India.",
+    "img": "https://th-i.thgim.com/public/incoming/8gdply/article70987927.ece/alternates/LANDSCAPE_1200/AP05_16_2026_000431A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chola-era-anaimangalam-plates-in-possession-of-leiden-university-since-1862-returned-to-india/article70987678.ece",
+    "time": "2026-05-16T17:44:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'After my father’s accident, we struggled to survive': Ranjana",
+    "desc": "After spending nearly 15 years immersed in theatre, Ranjana Aanjjan has finally stepped into the world of screen acting with Chand Tara — a project that has already earned the distinction of having its trailer screened at the prestigious Cannes Film Festival. In this candid conversation with ETimes, Ranjana opens up about the overwhelming transition from stage to screen, her father’s unwavering support, the financial struggles that shaped her middle-class upbringing, and the life lessons she learned from icons.",
+    "img": "https://static.toiimg.com/photo/msid-131142797,imgsize-54856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-my-father-aanjjan-srivastavs-accident-in-2002-weve-seen-days-when-we-struggled-to-survive-ranjana-aanjjan-exclusive/articleshow/131142520.cms",
+    "time": "2026-05-16T17:39:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKR’s 18 crore gamble under threat as Pathirana walks off mid-over on debut",
+    "desc": "Matheesha Pathirana's much-anticipated IPL 2026 debut for KKR ended prematurely due to an injury scare, just eight balls into his spell. Despite the concern, the Sri Lankan pacer completed his over before leaving the field. This happened as KKR's batters, led by Finn Allen's explosive 93, dominated Gujarat Titans, posting a massive 247/2.",
+    "img": "https://static.toiimg.com/photo/msid-131142029,imgsize-1149712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kkrs-18-crore-gamble-under-threat-as-matheesha-pathirana-walks-off-mid-over-on-debut/articleshow/131142007.cms",
+    "time": "2026-05-16T17:03:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Raghuvanshi joins Gambhir in elite club as KKR smash highest-ever total vs GT",
+    "desc": "Angkrish Raghuvanshi's stellar IPL 2026 season continues with an unbeaten 82, guiding Kolkata Knight Riders to a colossal 247/2 against Gujarat Titans. This marks his fifth 50-plus score, placing him among KKR's elite and in rare company league-wide for batsmen his age. His composure and acceleration were key in KKR's third-highest total ever.",
+    "img": "https://static.toiimg.com/photo/msid-131141460,imgsize-207876.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-angkrish-raghuvanshi-joins-gautam-gambhir-in-elite-club-as-kkr-smash-highest-ever-total-vs-gt/articleshow/131141441.cms",
+    "time": "2026-05-16T16:32:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "10 actors who rejected roles that later became iconic",
+    "desc": "Some actors turn down roles because of scheduling conflicts, creative differences, or simply bad timing. But every once in a while, a rejected role becomes legendary and changes someone else’s career forever. Here are 10 actors who walked away from parts that later became some of the most iconic performances in film history.",
+    "img": "https://static.toiimg.com/photo/msid-131139317,imgsize-55634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-will-smith-to-emily-blunt-10-actors-who-rejected-roles-that-later-became-iconic/photostory/131139317.cms",
+    "time": "2026-05-16T16:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman took a loan to buy a Rolex worth Rs 9 lakh for Salim Khan",
+    "desc": "Salman Khan may be one of Bollywood’s biggest stars, but the actor says the first luxurious thing he ever purchased after entering films was for his father, veteran writer Salim Khan. And to buy it, he had to borrow money. In a recent conversation, Salman recalled taking a loan to purchase a Rolex watch for his father at a time when he had barely started earning.",
+    "img": "https://static.toiimg.com/photo/msid-131141076,imgsize-36846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-recalls-taking-a-loan-to-buy-a-rolex-worth-rs-9-lakh-for-father-salim-khan-do-you-think-of-yourself-as-some-king/articleshow/131141047.cms",
+    "time": "2026-05-16T16:12:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Divya Bharti refused 'Aankhen' over Chunky Pandey pairing",
+    "desc": "Producer Pahlaj Nihalani opened up about a dramatic moment during the production of 'Aankhen' when Divya Bharti abruptly exited the film. The reason? She was less than thrilled to find out she would star opposite Chunky Pandey rather than her desired co-star, Govinda.",
+    "img": "https://static.toiimg.com/photo/msid-131141008,imgsize-39016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-divya-bharti-refused-aankhen-over-chunky-pandey-pairing-claims-producer-pahlaj-nihalani/articleshow/131141008.cms",
+    "time": "2026-05-16T16:08:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Twinkle Khanna recalls astrologer’s Akshay Kumar prediction",
+    "desc": "Twinkle Khanna recently opened up about a fascinating prediction made by her late father Rajesh Khanna's astrologer, who foresaw her future with Akshay Kumar long before they were ever introduced. It's intriguing to think how the universe works, especially considering that this connection solidified after the disappointing outcome of her film 'Mela.",
+    "img": "https://static.toiimg.com/photo/msid-131140892,imgsize-26724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/twinkle-khanna-recalls-astrologers-akshay-kumar-prediction/articleshow/131140892.cms",
+    "time": "2026-05-16T16:04:30.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Robert Vadra secures pre-arrest bail in Shikohpur land transaction case",
     "desc": "According to allegations, 3.53 acres was acquired by Vadra for ₹7.5 crore in 2008 and sold to a real estate firm for ₹58 crore in 2012; investigators allege the acquisition involved false declarations and that a commercial licence for the property was obtained using influence in the government.",
@@ -37,57 +136,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Thikkodiyan, Uroob, and K. Raghavan back on AIR, thanks to AI",
-    "desc": "In a play broadcast on All India Radio on Saturday as part of the All Kerala Radio Drama Festival, the voices of the two writers and the composer were recreated using AI. Their original voices were sourced from the AIR archives. The festival, popular during AIR’s heydey, was revived after eight years.",
-    "img": "https://th-i.thgim.com/public/sport/gb3szb/article70987399.ece/alternates/LANDSCAPE_1200/air.drama.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/thikkodiyan-uroob-and-k-raghavan-back-on-air-thanks-to-ai/article70987330.ece",
-    "time": "2026-05-16T15:00:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Idukki farmers urge govt. to address land-related issues",
-    "desc": "Key grievances include a construction ban and ongoing disputes between the Forest and Revenue departments over the Cardamom Hills Reserve lands. They are calling for immediate government intervention to resume vital construction projects and support local eco-tourism initiatives.",
-    "img": "https://th-i.thgim.com/public/incoming/vi6qps/article70987640.ece/alternates/LANDSCAPE_1200/80759_16_5_2026_18_29_14_1_CHR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/idukki-farmers-urge-govt-to-address-land-related-issues/article70987446.ece",
-    "time": "2026-05-16T14:57:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NCB makes first-ever seizure of captagon, arrests Syrian national",
-    "desc": "Union Home Minister Amit Shah congratulates the NCB for busting the syndicate through ‘Operation Ragepill’; he terms captagon, which is a serious law enforcement and public health concern in West Asian countries, as a ‘jihadi drug’",
-    "img": "https://th-i.thgim.com/public/news/qla6rq/article70987572.ece/alternates/LANDSCAPE_1200/Arrested%20Syrian%20national%20NCB%20drugs.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/first-ever-consignment-of-captagon-drug-seized-says-amit-shah/article70986342.ece",
-    "time": "2026-05-16T14:54:01.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Illegally constituted': MEA rejects Pakistan-backed Court of Arbitration ruling on Indus Waters Treaty",
     "desc": "India has once again rejected the Court of Arbitration formed under the Indus Waters Treaty. The External Affairs Ministry stated that India never recognized the court's establishment. Any proceedings or awards from this court are considered null and void. India's decision to keep the Indus Waters Treaty in abeyance remains unchanged.",
     "img": "https://static.toiimg.com/photo/msid-131139929,imgsize-91316.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/illegally-constituted-mea-rejects-pakistan-backed-court-of-arbitration-ruling-on-indus-waters-treaty/articleshow/131139827.cms",
     "time": "2026-05-16T14:53:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "a tightrope ahead for UDF govt. in Kerala",
-    "desc": "Nearly ₹1,100 crore of Samagra Shiksha funds have been withheld by the Union government since 2023-24; CM-designate V.D. Satheesan had slammed the LDF govt. when it signed on to the scheme in October last year",
-    "img": "https://th-i.thgim.com/public/incoming/7k4s98/article70987706.ece/alternates/LANDSCAPE_1200/6678_5_3_2026_10_48_4_2_CLASS_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/pm-shri-implementation-a-tightrope-ahead-for-udf-govt-in-kerala/article70987645.ece",
-    "time": "2026-05-16T14:41:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Slew of development initiatives will ensure reverse migration to North Andhra region, asserts Chief Minister Chandrababu Naidu",
-    "desc": "Cautioning people against electing the ‘destructive’ YSRCP again, the Chief Minister says the NDA government is endeavouring to rebuild the State and restore the lost glory; he promises to complete several irrigation projects in the region by 2027",
-    "img": "https://th-i.thgim.com/public/incoming/h1nz8r/article70987711.ece/alternates/LANDSCAPE_1200/10215_16_5_2026_16_43_28_1_WHATSAPPIMAGE2026_05_16AT43441PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/slew-of-development-initiatives-will-ensure-reverse-migration-to-north-andhra-region-asserts-chief-minister-chandrababu-naidu/article70987344.ece",
-    "time": "2026-05-16T14:41:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -163,7 +217,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "No feud with KC Venugopal? Kerala CM-designate VD Satheesan breaks silence",
+    "title": "'No feud with KC Venugopal!' Kerala CM-designate VD Satheesan breaks silence",
     "desc": "Kerala CM-designate VD Satheesan and senior leader KC Venugopal dismissed reports of internal feuds, asserting that all organizational and cabinet decisions are made jointly through consultations. The oath-taking ceremony for the new Congress-led UDF government is scheduled for May 18, with cabinet formation discussions underway.",
     "img": "https://static.toiimg.com/photo/msid-131137515,imgsize-63760.cms",
     "src": "indiatimes.com",
@@ -288,33 +342,6 @@ const newsData_en = [
     "time": "2026-05-16T11:16:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ayushmann once broke up with Tahira after Roadies win",
-    "desc": "Ayushmann Khurrana confessed to behaving like a \"deep red flag\" in his early relationship with Tahira Kashyap, even breaking up with her at 20 to focus on himself after winning 'MTV Roadies'. Now, he humorously labels himself a \"green flag husband,\" reflecting on his journey and even revealing a past sperm donation during a 'Roadies' task.",
-    "img": "https://static.toiimg.com/photo/msid-131135821,imgsize-55430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-ayushmann-khurrana-once-broke-up-with-tahira-post-roadies-win-said-dont-have-time-for-relationships/articleshow/131135821.cms",
-    "time": "2026-05-16T10:51:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Daniel Craig once said he’d return as Bond for money",
-    "desc": "Daniel Craig, renowned for his James Bond role, expressed profound exhaustion after filming 'Spectre', even stating he'd rather self-harm than reprise the part. He admitted a return would only be for financial reasons, highlighting the struggle between the character's demands and his acting instincts. Craig poured everything into 'Spectre', contributing script ideas and ensuring Sam Mendes' return.",
-    "img": "https://static.toiimg.com/photo/msid-131135669,imgsize-66714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/daniel-craig-once-said-he-would-only-return-as-james-bond-for-the-money/articleshow/131135632.cms",
-    "time": "2026-05-16T10:38:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jason Statham’s \"$33 million 'forever home'\" near UK location",
-    "desc": "Hollywood power couple Jason Statham and Rosie Huntington-Whiteley are building a $33 million 'forever home' on England's South Coast. The striking, U-shaped brutalist design features five bedrooms, a private beach, and extensive grounds including a lake and treehouse. This move signifies Rosie's return to her rural roots, seeking a slower, grounded lifestyle away from a 'destination-driven' existence.",
-    "img": "https://static.toiimg.com/photo/msid-131135585,imgsize-89992.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/all-about-jason-statham-and-rosie-huntington-whiteleys-33-million-forever-home-near-unexpected-seaside-location/articleshow/131135521.cms",
-    "time": "2026-05-16T10:32:50.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Misquoted my oral observations': CJI Surya Kant clarifies 'cockroach' remarks on unemployed youth",
     "desc": "Chief Justice of India Surya Kant clarified his remarks comparing some unemployed youth to 'cockroaches,' stating his comments were misquoted and targeted individuals using fake degrees in professions. He expressed pride in India's youth, calling them pillars of a developed nation, and emphasized his respect for them. The clarification followed controversy over his observations during a court hearing.",
@@ -322,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/misquoted-my-oral-observations-cji-surya-kant-clarifies-cockroach-remarks-on-unemployed-youth/articleshow/131135453.cms",
     "time": "2026-05-16T10:26:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Decoding Taylor Swift and Travis Kelce date night looks",
-    "desc": "Taylor Swift and Travis Kelce are making headlines with their stylish date nights, sparking wedding rumors. From blue hues in NYC to edgy black ensembles in London, the couple consistently turns heads. Their coordinated outfits, featuring florals and classic styles, fuel speculation about their upcoming nuptials and even potential album hints.",
-    "img": "https://static.toiimg.com/photo/msid-131135454,imgsize-122364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelces-twinning-spring-outfits-in-new-york-decoding-their-recent-date-night-looks/articleshow/131135198.cms",
-    "time": "2026-05-16T10:22:29.000Z"
   },
   {
     "cat": "Business",
@@ -360,15 +378,6 @@ const newsData_en = [
     "time": "2026-05-16T09:55:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Imran Khan says single fathers lack support while raising Imara",
-    "desc": "Actor Imran Khan candidly discussed the emotional challenges of navigating single fatherhood. He shared that some parents hesitate to set up playdates for his daughter, Imara, due to societal perceptions of him being a single dad.",
-    "img": "https://static.toiimg.com/photo/msid-131134944,imgsize-109646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-on-raising-imara-alone-claims-single-fathers-do-not-get-the-same-support-i-pack-her-dabba-drive-her-to-school/articleshow/131134944.cms",
-    "time": "2026-05-16T09:42:33.000Z"
-  },
-  {
     "cat": "World",
     "title": "Israel-Lebanon ceasefire extended by 45 days, but fresh strikes raise concerns",
     "desc": "Israel and Lebanon have agreed to extend their fragile ceasefire by 45 days, with the United States pushing for a long-term solution. However, fresh Israeli strikes and ongoing tensions with Hezbollah are raising concerns about how stable the truce really is. Watch the full update.",
@@ -376,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/israel-lebanon-ceasefire-extended-by-45-days-but-fresh-strikes-raise-concerns/article70986586.ece",
     "time": "2026-05-16T09:41:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Decade of crises for world’: PM Modi warns ‘past achievements could be wiped away’ by Middle East war",
-    "desc": "Prime Minister Modi warned that ongoing global conflicts and instability risk undoing decades of development and plunging populations into poverty. Addressing the Indian diaspora in The Hague, he emphasized the critical need for resilient and trusted global supply chains, highlighting India's cooperation with the Netherlands in this area. He also celebrated the diaspora's cultural preservation and India's recent economic transformation.",
-    "img": "https://static.toiimg.com/photo/msid-131134949,imgsize-954968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/decade-of-crises-for-world-pm-modi-warns-past-achievements-could-be-wiped-away-by-middle-east-war/articleshow/131134820.cms",
-    "time": "2026-05-16T09:39:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +423,6 @@ const newsData_en = [
     "time": "2026-05-16T08:43:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Virat Kohli reveals why RCB winning IPL title earlier 'wouldn't have felt even 5% the same'",
-    "desc": "Virat Kohli revealed the immense emotional weight lifted after Royal Challengers Bengaluru finally clinched their maiden IPL title after 18 years. He stated that a victory earlier in his career wouldn't have felt as special, highlighting the profound joy derived from overcoming decades of pressure and heartbreak alongside franchise icons and the city of Bengaluru.",
-    "img": "https://static.toiimg.com/photo/msid-131134097,imgsize-92066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-kohli-reveals-why-rcb-winning-ipl-title-earlier-wouldnt-have-felt-even-5-the-same/articleshow/131134100.cms",
-    "time": "2026-05-16T08:31:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Ratan Tata Trusts ‘not aware’ of Venu Srinivasan’s complaint, reviewing Charity Commissioner’s order",
     "desc": "It is reiterated that the direction was issued ex parte, with no notice being given to the Sir Ratan Tata Trust and no hearing being afforded to it, before the direction was issued,” the Tata Trusts said in the statement",
@@ -448,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hasan-ali-leaves-field-on-stretcher-after-head-injury-during-ban-vs-pak-2nd-test-watch/articleshow/131133859.cms",
     "time": "2026-05-16T08:04:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not easy to replace Rohit': Ashwin defends Pandya amid MI struggles",
-    "desc": "Mumbai Indians have endured a disappointing IPL 2026, failing to reach the playoffs after just four wins in 12 matches. Captain Hardik Pandya has faced criticism for his batting and leadership, but Ravichandran Ashwin defended him, stating it's unfair to solely blame the captain when the team has underperformed collectively.",
-    "img": "https://static.toiimg.com/photo/msid-131133604,imgsize-54982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/not-easy-to-replace-rohit-sharma-ashwin-defends-hardik-pandya-amid-mumbai-indians-struggles/articleshow/131133612.cms",
-    "time": "2026-05-16T07:41:05.000Z"
   },
   {
     "cat": "Sports",
@@ -495,24 +477,6 @@ const newsData_en = [
     "time": "2026-05-16T05:31:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "KKR hope to stay alive, Gujarat Titans eye playoff",
-    "desc": "Kolkata Knight Riders seek to improve their home record at Eden Gardens after a mixed start to the season. Despite a recent defeat, they face a formidable Gujarat Titans, who are on a five-match winning streak and aiming for a playoff spot. KKR's bowling unit will be tested by GT's strong opening pair and a potent bowling attack.",
-    "img": "https://static.toiimg.com/photo/msid-131131874,imgsize-68196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kkr-hope-to-stay-alive-gujarat-titans-eye-playoff/articleshow/131131836.cms",
-    "time": "2026-05-16T05:06:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "HI removes support staff member over sexual misconduct allegations",
-    "desc": "Jharkhand government removed hockey coach Sudhir Golla from the Eklavya Hockey Training Centre in Ranchi due to absenteeism and harassment complaints from girl trainees. Hockey India also removed him from an U-18 boys' camp in Bhopal following the allegations. This incident highlights ongoing concerns about misconduct in Indian hockey's grassroots setups.",
-    "img": "https://static.toiimg.com/photo/msid-131132342,imgsize-121820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-india-removes-support-staff-member-from-national-camp-over-sexual-misconduct-allegations/articleshow/131132329.cms",
-    "time": "2026-05-16T04:21:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vicky Kaushal, Katrina Kaif’s Rs 265 crore empire decoded",
     "desc": "Bollywood's beloved duo, Vicky Kaushal and Katrina Kaif, have established themselves not only as top-tier actors but also as savvy entrepreneurs, boasting a remarkable fortune of over INR 265 crore. Their financial success is not merely from acting—Katrina’s brand, Kay Beauty, has significantly elevated their earnings, while Vicky's recent projects ensure a healthy paycheck.",
@@ -520,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-and-katrina-kaif-combined-net-worth-inside-their-rs-265-crore-empire-from-sea-facing-juhu-home-luxury-cars-to-business-assets/articleshow/131111021.cms",
     "time": "2026-05-16T04:16:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Ban these chits!’: Rayudu terms Akash Singh ‘chit’ celebration 'rubbish'",
-    "desc": "Akash Singh's IPL 2026 debut for Lucknow Super Giants was marked by a unique celebration involving a self-written paper chit after taking crucial wickets. While the gesture went viral, former CSK batter Ambati Rayudu criticized it as 'rubbish' and likened it to using cheat notes in an exam.",
-    "img": "https://static.toiimg.com/photo/msid-131130818,imgsize-641848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ban-these-chits-ambati-rayudu-terms-akash-singh-viral-chit-celebration-rubbish/articleshow/131130779.cms",
-    "time": "2026-05-16T04:14:48.000Z"
   },
   {
     "cat": "World",
@@ -781,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/50-years-of-annakili-the-film-that-launched-ilaiyaraajas-career/article70975723.ece",
     "time": "2026-05-14T04:36:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kohli’s masterful knock powers Royal Challengers to the top",
-    "desc": "The Bengaluru opener, who was dismissed for a duck in the last two games, roars back with an unbeaten century to guide his side to a facile win over Knight Riders; his 92-run partnership with Padikkal puts the home team on the road to victory",
-    "img": "https://th-i.thgim.com/public/incoming/hutdyg/article70975822.ece/alternates/LANDSCAPE_1200/2026-05-13T184335Z_1551724302_UP1EM5D1G0J06_RTRMADP_3_CRICKET-IPL-RCB-KKR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/kohlis-masterful-knock-powers-royal-challengers-to-the-top/article70975813.ece",
-    "time": "2026-05-13T19:42:18.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kolkata Knight Riders keep playoffs dream alive, register dominant win over Gujarat Titans",
+    "desc": "The 60th game of the ongoing IPL (Indian Premier League) 2026 saw Kolkata Knight Riders hosting Gujarat Titans. The two sides played at the Eden Gardens in Kolkata on May 16th, and the clash began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-keep-playoffs-dream-alive-register-dominant-win-over-gujarat-titans-2026-05-16-1041424",
+    "time": "2026-05-16T18:06:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill joins Virat Kohli and Sachin Tendulkar in an elite list with resilient knock against KKR",
+    "desc": "The 60th game of the ongoing IPL (Indian Premier League) 2026 saw Kolkata Knight Riders hosting Gujarat Titans at the Eden Gardens in Kolkata on May 16th. The clash begins with KKR coming in to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-joins-virat-kohli-and-sachin-tendulkar-in-an-elite-list-with-resilient-knock-against-kkr-2026-05-16-1041422",
+    "time": "2026-05-16T17:36:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohsin Naqvi not invited for IPL 2026 final, set to attend ICC board meet in Ahmedabad virtually",
+    "desc": "In a major development, recent reports have emerged that state that the PCB (Pakistan Cricket Board) chairman Mohisn Naqvi has not been invited to the IPL (Indian Premier League) 2026 final in Ahmedabad, and he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohsin-naqvi-not-invited-for-ipl-2026-final-set-to-attend-icc-board-meet-in-ahmedabad-virtually-2026-05-16-1041418",
+    "time": "2026-05-16T16:12:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Punjab Kings address Arshdeep Singh's social media drama amid run of poor form",
     "desc": "Punjab Kings, despite getting off to a stellar start for the ongoing IPL (Indian Premier League) 2026 season, have fallen down a steep hill. The side has not lost five straight games in the tournament...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-squad-for-womens-t20-world-cup-2026-five-players-set-for-maiden-appearance-2026-05-16-1041371",
     "time": "2026-05-16T07:52:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hasan Ali stretchered off after taking blow to head during BAN vs PAK 2nd Test in Sylhet",
-    "desc": "Pakistan fast bowler Hasan Ali was stretchered off the field on the first day of the second Test match against Bangladesh at the Sylhet International Cricket Stadium, Sylhet, on Saturday, May 16. Hasan suffered a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hasan-ali-stretchered-off-after-taking-blow-to-head-during-ban-vs-pak-2nd-test-in-sylhet-watch-2026-05-16-1041367",
-    "time": "2026-05-16T07:16:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Police issues notice to DDCA CEOs over alleged IPL ticket black marketing at Arun Jaitley Stadium",
-    "desc": "The crime branch of the Delhi Police has issued notices to two CEO level officers and one of their personal assistants of the Delhi & District Cricket Association (DDCA) over an alleged black marketing of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-police-issues-notice-to-ddca-ceos-over-alleged-ipl-ticket-black-marketing-at-arun-jaitley-stadium-2026-05-16-1041360",
-    "time": "2026-05-16T06:00:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI fines LSG captain Rishabh Pant for breach of IPL Code of Conduct during thumping win over CSK",
-    "desc": "The Board of Control for Cricket in India (BCCI) has handed Lucknow Super Giants captain Rishabh Pant a fine of Rs 12 lakh for his team maintaining a slow over rate during the clash against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-fines-lsg-captain-rishabh-pant-for-breach-of-ipl-code-of-conduct-during-thumping-win-over-csk-2026-05-16-1041352",
-    "time": "2026-05-16T04:23:31.000Z"
   }
 ];
