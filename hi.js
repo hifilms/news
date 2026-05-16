@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan announce squad for Women's T20 World Cup 2026, five players set for maiden appearance",
+    "desc": "Pakistan have announced their squad for the upcoming Women's T20 World Cup 2026 and the T20I bilateral series against Ireland and the West Indies. Five players are in line for their first appearance for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-squad-for-womens-t20-world-cup-2026-five-players-set-for-maiden-appearance-2026-05-16-1041371",
+    "time": "2026-05-16T07:52:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hasan Ali stretchered off after taking blow to head during BAN vs PAK 2nd Test in Sylhet",
+    "desc": "Pakistan fast bowler Hasan Ali was stretchered off the field on the first day of the second Test match against Bangladesh at the Sylhet International Cricket Stadium, Sylhet, on Saturday, May 16. Hasan suffered a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hasan-ali-stretchered-off-after-taking-blow-to-head-during-ban-vs-pak-2nd-test-in-sylhet-watch-2026-05-16-1041367",
+    "time": "2026-05-16T07:16:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Police issues notice to DDCA CEOs over alleged IPL ticket black marketing at Arun Jaitley Stadium",
+    "desc": "The crime branch of the Delhi Police has issued notices to two CEO level officers and one of their personal assistants of the Delhi & District Cricket Association (DDCA) over an alleged black marketing of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-police-issues-notice-to-ddca-ceos-over-alleged-ipl-ticket-black-marketing-at-arun-jaitley-stadium-2026-05-16-1041360",
+    "time": "2026-05-16T06:00:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI fines LSG captain Rishabh Pant for breach of IPL Code of Conduct during thumping win over CSK",
     "desc": "The Board of Control for Cricket in India (BCCI) has handed Lucknow Super Giants captain Rishabh Pant a fine of Rs 12 lakh for his team maintaining a slow over rate during the clash against...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/how-can-csk-qualify-for-ipl-2026-playoffs-after-drubbing-to-lsg-in-lucknow-2026-05-16-1041333",
     "time": "2026-05-16T01:19:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Marsh's masterclass bulldozes Chennai Super Kings out of Lucknow, propels LSG to dominant victory",
-    "desc": "Lucknow Super Giants registered a brilliant victory against Chennai Super Kings in the 59th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Ekana Stadium in Lucknow on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-marsh-s-masterclass-bulldozes-chennai-super-kings-out-of-lucknow-propels-lsg-to-dominant-victory-2026-05-15-1041323",
-    "time": "2026-05-15T18:08:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "JioStar accumulates highest ever reach as IPL 2026 playoffs race heats up",
-    "desc": "The IPL (Indian Premier League) 2026 playoffs race has been one for the ages so far. With sides sitting in first place not having secured playoffs 12 games into the tournament, the race is wide...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jiostar-accumulates-highest-ever-reach-as-ipl-2026-playoffs-race-heats-up-2026-05-15-1041320",
-    "time": "2026-05-15T17:39:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rachin Ravindra returns home, leaves Kolkata Knight Riders' camp ahead of England Tests",
-    "desc": "In a major development for Kolkata Knight Riders, star batter Rachin Ravindra has left the side’s camp to better focus on New Zealand’s upcoming tour of England. It is worth noting that New Zealand will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rachin-ravindra-returns-home-leaves-kolkata-knight-riders-camp-ahead-of-england-tests-2026-05-15-1041317",
-    "time": "2026-05-15T17:05:58.000Z"
   }
 ];

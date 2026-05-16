@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
     "cat": "Politics",
-    "title": "પ્રતિ લીટર 21-35 રૂપિયાનું નુકસાન, છતાં પેટ્રોલ-ડીઝલના કેમ 3 રૂ. જ વધ્યા ભાવ, હજું કેટલા વધી શકે ભાવ? વિગતો ખાસ જાણો",
+    "title": "પ્રતિ લીટર 21-35 રૂપિયાનું નુકસાન! છતાં પેટ્રોલ-ડીઝલના કેમ 3 રૂ. જ વધ્યા ભાવ, હજું કેટલા વધી શકે ભાવ? વિગતો ખાસ જાણો",
     "desc": "પેટ્રોલ અને ડીઝલ પર 3 રૂપિયા ભાવ વધારો ઝીંકાયો પરંતુ હજુ પણ ભાવ વધે તેવો ડર લોકોને છે. આ 3 રૂપિયાના ભાવ વધારાથી કંપનીઓનું કેટલું નુકસાન સરભર થશે અને એક્સપર્ટ્સ હજુ પણ શું ચેતવણી આપી રહ્યા છે તે પણ ખાસ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/despite-big-loss-why-did-the-prices-of-petrol-and-diesel-increase-by-only-3-rs-only-478054 ",
-    "time": "2026-05-16T05:36:13.000Z"
+    "time": "2026-05-16T07:36:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AC ચલાવવા છતાં આવશે ઓછું બિલ! રિમોટના આ ફીચરને આજે જ કરો ઓન",
+    "desc": "જો તમારું AC આખી રાત ચાલ્યા પછી જરૂરત કરતાં વધુ ઠંડક કરી દે છે અને વીજળીનું બિલ પણ વધારી રહ્યું છે, તો હવે ટેન્શન લેવાની જરૂર નથી. AC ના રિમોટમાં રહેલું એક ખાસ બટન તમારા રૂમનું ટેમ્પરેચર (તાપમાન) પોતાની મેળે એડજસ્ટ કરી શકે છે. આનાથી માત્ર આરામદાયક ઊંઘ જ નથી મળતી, પરંતુ વીજળીનો વપરાશ પણ ઘણો ઓછો થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/running-ac-will-also-bring-low-bill-turn-on-this-feature-of-the-remote-today-478074 ",
+    "time": "2026-05-16T07:27:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL વચ્ચે બીજા લગ્ન કરશે હાર્દિક પંડ્યા, GF માહિકા શર્મા સાથે આ દિવસે લેશે સાત ફેરા? જાણો સત્ય",
+    "desc": "ક્રિકેટર હાર્દિક પંડ્યા મેદાનમાં પોતાના પ્રદર્શનની સાથે લવ લાઇફને કારણે પણ ચર્ચામાં રહે છે. હવે તેવી ચર્ચા છે કે હાર્દિક પંડ્યા જલ્દી પોતાની ગર્લફ્રેન્ડ માહિકી શર્મા સાથે લગ્ન કરવાનો છે. આખરે આ સમાચારમાં કેટલું સત્ય છે? આવો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-wedding-rumours-cricketr-married-with-girlfriend-mahieka-sharma-soon-478072 ",
+    "time": "2026-05-16T07:10:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;પપ્પા બસમાં દૂધ અને છાશ મોકલી આપજો&amp;#039; પિતા સાથે છેલ્લી વાતચીત બાદ નીટ છાત્રનો આપઘાત",
+    "desc": "રાજસ્થાનના સીકરમાં નીટના છાત્ર 22 વર્ષીય પ્રદીપ માહીચે પરીક્ષા રદ્દ થવાના તણાવમાં આપઘાત કર્યો છે. પ્રદીપ ત્રણ બહેનોનો એકમાત્ર ભાઈ હતો અને પરીક્ષામાં તેને સારા માર્ક્સ આવવાની આશા હતી પરંતુ તેનું સપનું ભ્રષ્ટ તંત્રએ છીનવી લીધું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/neet-student-pradeep-mahich-commits-suicide-in-sikar-student-was-depressed-after-paper-leak-478069 ",
+    "time": "2026-05-16T06:58:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "હવામાં આંગળીઓ ફેરવો અને WhatsApp પર મેસેજ મોકલો! Metaનો અદ્ભુત ચમત્કાર",
+    "desc": "હવે મેસેજ ટાઇપ કરવા માટે ન તો ફોન પકડવાની જરૂર પડશે અને ન તો કીબોર્ડની. Meta કંપનીએ એવો અદ્ભુત ચમત્કાર કર્યો છે કે હવે તમે માત્ર હવામાં આંગળીઓ ફેરવીને WhatsApp પર મેસેજ મોકલી શકશો. જાણો કેવી રીતે કામ કરશે આ ફ્યુચરિસ્ટિક (ભવિષ્યનું) ફીચર.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/wave-your-fingers-in-the-air-and-the-message-will-be-sent-to-whatsapp-a-marvel-from-meta-478059 ",
+    "time": "2026-05-16T06:11:45.000Z"
   },
   {
     "cat": "World",
@@ -565,24 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ac-does-not-cool-the-room-even-after-running-for-hours-this-could-be-the-reason-know-this-477571 ",
     "time": "2026-05-12T10:37:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અક્ષર પટેલે જાણી જોઈને છોડ્યો કેચ ? મેચ ફિક્સિંગના લાગ્યા આરોપ, જાણો શું છે વાયરલ વીડિયો પાછળની હકીકત",
-    "desc": "IPL 2026માં પંજાબ કિંગ્સ સામે દિલ્હી કેપિટલ્સે શાનદાર જીત નોંધાવી હતી. જો કે, આ મેચમાં કેચ છોડ્યા બાદ અક્ષર પટેલ વિવાદમાં આવ્યો છે. સોશિયલ મીડિયામાં લોકો તેના પર મેચ ફિક્સિંગના આરોપ લગાવી રહ્યા છે, ત્યારે શું છે સમગ્ર હકીકત તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/akshar-patel-drop-the-catch-match-fixing-allegations-know-the-truth-behind-viral-video-477562 ",
-    "time": "2026-05-12T09:53:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોણ છે માધવ તિવારી ? જે ડૂબતી દિલ્હીનો બન્યો સહારો, માત્ર 8 બોલમાં જ પલટી નાખી મેચ !",
-    "desc": "દિલ્હી કેપિટલ્સના યુવા ઓલરાઉન્ડર માધવ તિવારીએ IPL 2026માં પંજાબ કિંગ્સ સામેની મેચમાં બેટ અને બોલ બંનેથી શાનદાર પ્રદર્શન કર્યું, જેના કારણે ટીમને યાદગાર જીત મળી. 22 વર્ષીય ખેલાડીએ બે વિકેટ લીધી અને માત્ર આઠ બોલમાં અણનમ 18 રન બનાવીને 'પ્લેયર ઓફ ધ મેચ'નો એવોર્ડ મેળવ્યો. તેના પ્રયાસોને કારણે દિલ્હીની પ્લેઓફમાં પહોંચવાની આશા જીવંત રહી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-madhav-tiwari-delhi-capitals-win-hero-in-dc-vs-pbks-match-ipl-2026-477521 ",
-    "time": "2026-05-12T06:43:52.000Z"
   },
   {
     "cat": "World",
