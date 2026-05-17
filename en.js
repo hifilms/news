@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'We shouldn’t be in top 4': Riyan Parag’s brutal RR reality check after defeat",
+    "desc": "Rajasthan Royals captain Riyan Parag admitted his team let a winning position slip against Delhi Capitals, citing a dramatic collapse after reaching 160 for 2 in 14 overs. Parag lamented the team's poor execution in middle and death overs, as well as in the field, stating they were not up to the mark.",
+    "img": "https://static.toiimg.com/photo/msid-131160806,imgsize-190220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-we-shouldnt-be-in-top-4-riyan-parags-brutal-rr-reality-check-after-dc-defeat/articleshow/131160739.cms",
+    "time": "2026-05-17T18:39:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 DC vs RR",
+    "desc": "Starc’s superb 4/40 sparked a dramatic collapse after Rajasthan had stormed to 160 for two in 14 overs, with the visitors eventually managing only 33 runs while losing six wickets to finish at 193 for eight",
+    "img": "https://th-i.thgim.com/public/incoming/stal7k/article70991281.ece/alternates/LANDSCAPE_1200/36_IPL_T20_MATCH_RR_DC_17_05_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capitals-vs-rajasthan-royals-mitchel-starc-vaibhav-sooryavanshi-match-updates/article70990789.ece",
+    "time": "2026-05-17T18:35:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Riyan Parag’s late gamble backfires as DC stay alive with win over RR",
+    "desc": "Vaibhav Sooryavanshi smashed his way to a new IPL record for sixes by an Indian batter. Despite his explosive start, Rajasthan Royals could not reach a commanding total. Delhi Capitals chased well initially but also lost wickets. In a tense finish, Delhi Capitals secured a home win, breaking their losing streak.",
+    "img": "https://static.toiimg.com/photo/msid-131160383,imgsize-154598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-riyan-parags-late-gamble-backfires-as-delhi-capitals-stay-alive-with-win-over-rr/articleshow/131160384.cms",
+    "time": "2026-05-17T18:20:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman drops cryptic note about loneliness while flaunting chiseled body",
+    "desc": "Salman Khan's recent shirtless Instagram post, showcasing his sculpted physique, has sparked widespread attention. While fans praised his fitness, an accompanying emotional caption about being \"alone and lonely\" has led to speculation about hidden meanings and a desire for his raw acting talent to be seen on screen again.",
+    "img": "https://static.toiimg.com/photo/msid-131160158,imgsize-33092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-drops-cryptic-note-about-loneliness-while-flaunting-chiseled-body-gets-fans-worried-bhai-never-posts-something-this-deep/articleshow/131160137.cms",
+    "time": "2026-05-17T17:58:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul scripts history, breaks AB de Villiers record for most...",
+    "desc": "KL Rahul achieved a significant milestone, becoming the player with the most 50+ scores against Rajasthan Royals in IPL history with his ninth half-century. This also marked his 50th IPL fifty overall, placing him among elite Indian batters. Despite his composed 56, his dismissal at a crucial juncture impacted Delhi's chase.",
+    "img": "https://static.toiimg.com/photo/msid-131159597,imgsize-151792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-scripts-history-breaks-ab-de-villiers-record-for-most-50-scores-vs-rr/articleshow/131159588.cms",
+    "time": "2026-05-17T17:38:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Chadwick Boseman",
+    "desc": "In a stirring address to Howard University graduates in 2018, the late Chadwick Boseman passionately encouraged young minds to uncover their true purpose in life, labeling it as the core of their being. He spoke from personal experience, reflecting on his own struggles, including his courageous fight against cancer, and underscored the importance of resilience in the face of adversity.",
+    "img": "https://static.toiimg.com/photo/msid-131158046,imgsize-290318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-chadwick-boseman-purpose-is-an-essential-element-of-you-it-is-the-reason-/articleshow/131158046.cms",
+    "time": "2026-05-17T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Throwing non-veg food waste in Ganga could hurt religious sentiments: Allahabad HC on iftar party row",
+    "desc": "The FIR was lodged on March 16 based on a complaint filed by Rajat Jaiswal, the president of the Varanasi chapter of the BJP Yuva Morcha, claiming that the incident hurt the sentiments of the Hindus.",
+    "img": "https://th-i.thgim.com/public/incoming/qv1j0e/article70991342.ece/alternates/LANDSCAPE_1200/Prayer-meeting-GEIFPP834.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/throwing-non-veg-food-waste-in-ganga-could-hurt-religious-sentiments-allahabad-hc-on-iftar-party-row/article70991332.ece",
+    "time": "2026-05-17T17:18:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "High-level inquiry committee set up to probe fire in Rajdhani Express: Railway Board",
+    "desc": "The fire erupted at 5.15 a.m. in the B-1 passenger coach of the train between Vikramgarh Alot and Lunirichha stations under the Kota Railway division, one-and-a-half hours after it left the Ratlam Junction in Madhya Pradesh",
+    "img": "https://th-i.thgim.com/public/incoming/il6iuw/article70991338.ece/alternates/LANDSCAPE_1200/20260517059L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/high-level-inquiry-committee-set-up-to-probe-fire-in-rajdhani-express-railway-board/article70991327.ece",
+    "time": "2026-05-17T17:16:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parth Pawar meets Fadnavis amid reports of rift within NCP",
+    "desc": "NCP sources said the two leaders briefly discussed issues within the NCP as well. “A seat in Rajya Sabha is getting vacant. We have a few names in mind. This was also discussed,” a leader said.",
+    "img": "https://th-i.thgim.com/public/news/national/9em49z/article70991336.ece/alternates/LANDSCAPE_1200/Devendra%20Fadnavis.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/parth-pawar-meets-fadnavis-amid-reports-of-rift-within-ncp/article70991243.ece",
+    "time": "2026-05-17T17:16:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sri Sri Ravi Shankar’s Art of Living marks 45 years; Karnataka governor, Union MoS attend celebrations",
+    "desc": "The Art of Living's Bengaluru center celebrated its 45th anniversary, honoring founder Gurudev Sri Sri Ravi Shankar. Dignitaries, including Karnataka Governor Thawar Chand Gehlot and Union Minister Sanjay Seth, attended a special satsang and meditation program. The event highlighted the organization's humanitarian work and Gurudev's efforts to make wellness practices accessible.",
+    "img": "https://static.toiimg.com/photo/msid-131158343,imgsize-646756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sri-sri-ravi-shankars-art-of-living-marks-45-years-karnataka-governor-union-mos-attend-celebrations/articleshow/131158142.cms",
+    "time": "2026-05-17T16:38:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selena Gomez on how Lupus affected her beauty brand",
+    "desc": "Selena Gomez has revealed how her battle with Lupus, which causes arthritis, significantly influenced her beauty brand's packaging. She explained that the need for easy-to-open products stemmed from her own struggles, leading her to design items accessible to everyone, especially those with dexterity issues. This thoughtful approach ensures her brand is inclusive and user-friendly for all ages.",
+    "img": "https://static.toiimg.com/photo/msid-131158127,imgsize-61324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/when-selena-gomez-revealed-that-her-beauty-brands-packaging-is-influenced-because-of-her-lupus/articleshow/131158077.cms",
+    "time": "2026-05-17T16:34:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran media says ‘no tangible concessions’ in U.S. response to Iran proposal",
+    "desc": "The Fars news agency said Washington had presented a five-point list which included a demand for Iran to keep only one nuclear site in operation and transfer its stockpile of highly enriched uranium to the United States",
+    "img": "https://th-i.thgim.com/public/incoming/o5gx0t/article70991223.ece/alternates/LANDSCAPE_1200/Iran_Daily_Life_45375.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-media-says-no-tangible-concessions-in-us-response-to-iran-proposal/article70991193.ece",
+    "time": "2026-05-17T16:21:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We will welcome you with flowers': Bengal BJP chief's sarcastic invite to Abhishek Banerjee for Falta repoll",
+    "desc": "West Bengal BJP chief Samik Bhattacharya sarcastically invited TMC leader Abhishek Banerjee to campaign in Falta ahead of the May 21 repoll, claiming the TMC has been 'sent into exile' by the state's people. Bhattacharya alleged the TMC leadership has disappeared following electoral setbacks and expressed confidence in BJP's victory, urging TMC workers to campaign freely.",
+    "img": "https://static.toiimg.com/photo/msid-131157647,imgsize-63910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-will-welcome-you-with-flowers-bengal-bjp-chiefs-sarcastic-invite-to-abhishek-banerjee-for-falta-repoll/articleshow/131157453.cms",
+    "time": "2026-05-17T16:02:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 PBKS vs RCB",
+    "desc": "The left-hander makes the most of a rare opportunity to lift the defending champion to an above-par score; the veteran seamer’s early strikes and Hazlewood’s brilliance at the death leave PBKS on the brink of elimination",
+    "img": "https://th-i.thgim.com/public/incoming/s7ak60/article70991100.ece/alternates/LANDSCAPE_1200/31_RVM_0326.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/pbks-rcb-match-sunday-may-17-updates/article70990063.ece",
+    "time": "2026-05-17T15:44:59.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘Pillale Sampada’ to boost population growth, address declining fertility rate in Andhra Pradesh",
     "desc": "With the Total Fertility Rate in the State falling below the national rate of 1.9, the government is considering financial incentives for larger families as part of its long-term strategy to ensure workforce availability and economic sustainability",
@@ -9,7 +135,7 @@ const newsData_en = [
     "time": "2026-05-17T15:32:13.000Z"
   },
   {
-    "cat": "Politics",
+    "cat": "World",
     "title": "India, Netherlands upgrade ties; sign 17 MoUs on water, renewable energy, and semiconductors",
     "desc": "MEA pushes back on Dutch concerns over press freedom and minority rights in India. PM Jetten raises child abduction case with PM Modi. Agreements signed include a semiconductor fabrication project between TATA Electronics and Dutch company ASML",
     "img": "https://th-i.thgim.com/public/incoming/9h52e4/article70988592.ece/alternates/LANDSCAPE_1200/PTI05_17_2026_000006B.jpg",
@@ -108,15 +234,6 @@ const newsData_en = [
     "time": "2026-05-17T14:27:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "72.42% polling in municipal councils, nagar panchayats",
-    "desc": "Voting was held simultaneously in 64 wards in the four municipal corporations of Dharamshala, Solan, Mandi and Palampur, 229 wards in 25 municipal councils and 156 wards in 22 nagar panchayats in a single phase, with as many as 1,147 candidates in the fray for 449 posts",
-    "img": "https://th-i.thgim.com/public/incoming/o65oj9/article70990825.ece/alternates/LANDSCAPE_1200/20260517376L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-pradesh-municipal-council-nagar-panchayat-elections-may-17-2026/article70990786.ece",
-    "time": "2026-05-17T14:23:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Aamir reveals he doesn't like attending film screenings because he can't lie",
     "desc": "Aamir Khan revealed his aversion to film screenings, admitting he struggles to feign enjoyment for movies he dislikes. He explained that late feedback is often futile, as filmmakers have little time for changes. Khan also shared humorous advice on diplomatic responses to less-than-stellar films and urged young directors to embrace constructive criticism for improvement.",
@@ -133,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ruthless-rcb-storm-into-playoffs-as-punjab-kings-slump-to-sixth-straight-defeat/articleshow/131155990.cms",
     "time": "2026-05-17T14:14:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UDF government formation negotiations in Kerala turn into a roller-coaster political ride",
-    "desc": "Media speculation about prospective Ministers and their respective portfolios reaches feverish pitch as television channels air interchanging chyrons about the make-up of the next government on a day when whispers in the corridors of power take the form of news",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/udf-government-formation-negotiations-in-kerala-turn-into-a-roller-coaster-political-ride/article70990298.ece",
-    "time": "2026-05-17T14:03:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -352,8 +460,8 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Probe ordered, railway traffic disrupted — top developments",
-    "desc": "A fire erupted in the Thiruvananthapuram-Hazrat Nizamuddin Rajdhani Express in Ratlam, Madhya Pradesh. All 68 passengers were safely evacuated. The blaze disrupted rail traffic on the busy Mumbai-Delhi route. In a separate incident, a van carrying repair equipment overturned, injuring five railway staff members. Restoration efforts are underway.",
+    "title": "High-level probe ordered, railway traffic disrupted — top developments",
+    "desc": "A fire erupted in the Thiruvananthapuram-Hazrat Nizamuddin Rajdhani Express in Ratlam, Madhya Pradesh. No injuries were reported; all 68 passengers were safely evacuated. The blaze disrupted rail traffic on the busy Mumbai-Delhi route. In a separate incident, a van carrying repair equipment overturned, injuring five railway staff members. Restoration efforts are underway.",
     "img": "https://static.toiimg.com/photo/msid-131152530,imgsize-1053910.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/fire-in-rajdhani-express-probe-ordered-railway-traffic-disrupted-top-developments/articleshow/131152345.cms",
@@ -369,33 +477,6 @@ const newsData_en = [
     "time": "2026-05-17T10:40:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Emraan Hashmi recalls near-stampede situation in Kolkata",
-    "desc": "Eighteen years on, 'Jannat' remains a beloved romantic thriller. Emraan Hashmi, recalling a chaotic Kolkata promotional event, shared how overwhelming fan frenzy during the film's release marked a career turning point. The movie's compelling story and iconic music, including hits like ‘Zara Sa’, cemented its cult status. Hashmi is now gearing up for 'Awarapan 2'.",
-    "img": "https://static.toiimg.com/photo/msid-131152278,imgsize-59758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-recalls-near-stampede-situation-in-kolkata-during-2008-ipl-era-as-jannat-turns-18-i-was-moved-into-a-bathroom-to-manage-the-crowd/articleshow/131152269.cms",
-    "time": "2026-05-17T10:31:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Leader of opposition has right to suggest': BJP ally on Rahul Gandhi's NEET charges",
-    "desc": "The BJP has responded to Rahul Gandhi's demand for Education Minister Dharmendra Pradhan's resignation over the NEET-UG 2026 paper leak. Party leaders stated that while the opposition has the right to suggest, the government is committed to dismantling the leak network and ensuring accountability. Investigations are ongoing, with arrests made.",
-    "img": "https://static.toiimg.com/photo/msid-131152193,imgsize-57678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/leader-of-opposition-has-right-to-suggest-bjp-ally-on-rahul-gandhis-neet-charges/articleshow/131152010.cms",
-    "time": "2026-05-17T10:21:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How railway staff quickly rescued passengers from burning Rajdhani Express",
-    "desc": "A fire erupted in a Rajdhani Express coach in Ratlam, Madhya Pradesh early Sunday morning. All 68 passengers were safely evacuated from the B-1 coach within 15 minutes. The blaze also damaged the luggage van. The affected coach was detached. Five railway staff were injured in a separate accident during rescue operations. Train traffic on the Mumbai-Delhi route was affected.",
-    "img": "https://static.toiimg.com/photo/msid-131152098,imgsize-68244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-how-railway-staff-quickly-rescued-passengers-from-burning-thiruvananthapuramhazrat-nizamuddin-rajdhani-express/articleshow/131151202.cms",
-    "time": "2026-05-17T10:16:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why is RCB captain Rajat Patidar not playing vs Punjab Kings?",
     "desc": "Royal Challengers Bengaluru are without captain Rajat Patidar for their IPL 2026 clash against Punjab Kings, with Jitesh Sharma leading the side. Patidar is recovering well and is expected to return for the next match in Hyderabad. RCB currently sits atop the IPL 2026 points table.",
@@ -403,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/why-is-rcb-captain-rajat-patidar-not-playing-vs-punjab-kings-explained/articleshow/131151739.cms",
     "time": "2026-05-17T09:47:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vicky thanks fans after intimate 38th birthday with Katrina and son",
-    "desc": "Vicky Kaushal turned 38 and was overwhelmed by the love from his fans, describing his birthday as \"sukoon aur pyaar se bharaa.\" Wife Katrina Kaif also shared sweet family photos, including a precious moment with their son Vihaan. Vicky is currently shooting for Sanjay Leela Bhansali's 'Love & War'.",
-    "img": "https://static.toiimg.com/photo/msid-131151497,imgsize-66766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sukoon-aur-pyaar-se-bharaa-vicky-kaushal-pens-a-heartfelt-thank-you-note-for-fans-after-intimate-38th-birthday-with-katrina-kaif-and-son-vihaan/articleshow/131151497.cms",
-    "time": "2026-05-17T09:22:41.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +531,6 @@ const newsData_en = [
     "time": "2026-05-17T08:17:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Babar Azam breaks Ben Stokes' WTC record during BAN vs PAK second Test",
-    "desc": "Babar Azam's resilient 68 guided Pakistan through a tough spot on Day 2 against Bangladesh, marking his return from injury. This crucial half-century propelled him past Ben Stokes in the ICC World Test Championship's most fifty-plus scores list, showcasing his consistent performance in the prestigious tournament.",
-    "img": "https://static.toiimg.com/photo/msid-131150722,imgsize-35162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-breaks-ben-stokes-world-test-championship-record-during-ban-vs-pak-second-test/articleshow/131150703.cms",
-    "time": "2026-05-17T07:57:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Top 10 firms bleed Rs 3.12 lakh crore in market cap; Reliance biggest loser",
     "desc": "Indian markets experienced a significant downturn last week, with the top 10 most valued firms losing Rs 3.12 lakh crore. Geopolitical tensions, a weakening rupee, and rising inflation, exacerbated by surging crude oil prices, drove the decline. Reliance Industries saw the steepest fall, while Bharti Airtel was the sole gainer among the giants.",
@@ -493,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-shreyas-iyer-on-the-verge-of-history-set-to-become-5th-captain-to-/articleshow/131149883.cms",
     "time": "2026-05-17T06:31:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill enters exclusive captaincy list with Virat, Sachin",
-    "desc": "Shubman Gill etched his name in IPL history, becoming one of the few captains to achieve multiple 500-run seasons. Despite Gujarat Titans' loss, Gill's 85 against Kolkata Knight Riders secured his second such milestone. He joins legends like Tendulkar and Kohli in this elite club, showcasing consistent batting prowess while leading his team.",
-    "img": "https://static.toiimg.com/photo/msid-131149398,imgsize-78100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-shubman-gill-enters-exclusive-captaincy-list-with-virat-kohli-sachin-tendulkar/articleshow/131149388.cms",
-    "time": "2026-05-17T05:40:53.000Z"
   },
   {
     "cat": "Business",
@@ -538,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/20000-tonne-lpg-carrier-symi-arrives-in-gujarat-after-crossing-strait-of-hormuz/articleshow/131148631.cms",
     "time": "2026-05-17T04:15:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How PBKS vs RCB could decide Chennai Super Kings’ IPL 2026 playoff fate",
-    "desc": "Chennai Super Kings' IPL 2026 playoff hopes hinge on the Punjab Kings vs. Royal Challengers Bengaluru match. An RCB victory would simplify CSK's path to qualification, allowing them to control their destiny by winning their remaining two games. A PBKS win, however, would intensify the pressure and potentially lead to a Net Run Rate battle.",
-    "img": "https://static.toiimg.com/photo/msid-131148362,imgsize-1055973.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/how-pbks-vs-rcb-could-decide-chennai-super-kings-ipl-2026-playoff-fate/articleshow/131148336.cms",
-    "time": "2026-05-17T03:17:36.000Z"
   },
   {
     "cat": "Sports",
@@ -648,24 +693,6 @@ const newsData_en = [
     "time": "2026-05-16T06:24:13.000Z"
   },
   {
-    "cat": "World",
-    "title": "Ukrainian plane carrying explosives grounded in Trinidad and Tobago",
-    "desc": "The plane, coming from the Bahamas, landed on Thursday (May 14) at Piarco International Airport in Port of Spain to refuel and was then due to fly on to Libya via Cape Verde, raising police suspicions",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ukrainian-plane-carrying-explosives-grounded-in-trinidad-and-tobago/article70985935.ece",
-    "time": "2026-05-16T04:05:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Ex-Sinaloa security chief first of 10 indicted Mexican officials to surrender to U.S. authorities",
-    "desc": "Other defendants include Gov Ruben Rocha Moya and Mayor Juan de Dios Gamez Mendivil of the Sinaloa state capital of Culiacan, both of whom said they were taking temporary leaves of absence to deal with the charges",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ex-sinaloa-security-chief-first-of-10-indicted-mexican-officials-to-surrender-to-us-authorities/article70985884.ece",
-    "time": "2026-05-16T02:53:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Charity Commissioner directs Tata Trusts to defer Saturday’s Board meeting",
     "desc": "The order followed Advocate Katyayani Agrawal’s email requesting the Charity Commissioner’s urgent intervention for a violation of Section 30A(2) of the Maharashtra Public Trusts Act concerning the number of perpetual trustees in a public trust",
@@ -754,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-hits-out-at-unilateral-sanctions-days-before-expiry-of-us-russian-oil-waiver/article70979156.ece",
     "time": "2026-05-15T02:49:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli and the art of agelessness",
-    "desc": "The 37-year-old is showing no signs of stopping despite being closer to the end of his storied career; the unbeaten IPL century on Wednesday was just another reminder of the enviable force that he is in the ever-evolving T20 game",
-    "img": "https://th-i.thgim.com/public/incoming/i71dx/article70980267.ece/alternates/LANDSCAPE_1200/11908_13_5_2026_23_26_15_4_DSC_4355.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/virat-kohli-and-the-art-of-agelessness/article70980259.ece",
-    "time": "2026-05-15T00:38:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

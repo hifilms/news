@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Delhi Capitals put a hamper on Rajasthan Royals' playoffs push, register dominant five-wicket win",
+    "desc": "Game 62 of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Rajasthan Royals. The two sides met at the Arun Jaitley Stadium in Delhi on May 17th, and the clash began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-put-a-hamper-on-rajasthan-royals-playoffs-push-register-dominant-five-wicket-win-2026-05-17-1041508",
+    "time": "2026-05-17T18:15:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant set to be relieved of his Test vice-captaincy duties ahead of Afghanistan series: Report",
+    "desc": "In a major development, star India batter Rishabh Pant is reportedly set to be relieved of his duties as the vice-captain of the Indian Test team. It is worth noting that the reports stated that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-set-to-be-relieved-of-his-test-vice-captaincy-duties-ahead-of-afghanistan-series-report-2026-05-17-1041505",
+    "time": "2026-05-17T17:13:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi surpasses Abhishek Sharma, achieves huge feat with quickfire start against Delhi Capitals",
     "desc": "Star India batter Vaibhav Sooryavanshi has taken world cricket by storm. The 15-year-old has been exceptional for Rajasthan Royals in the ongoing edition of the IPL (Indian Premier League) 2026, and he showcased his class...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-rajat-patidar-not-playing-for-rcb-in-ipl-2026-clash-against-pbks-2026-05-17-1041463",
     "time": "2026-05-17T09:46:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sai Sudharsan downs T20 world record after valiant fifty during KKR vs GT IPL 2026 clash",
-    "desc": "Gujarat Titans star Sai Sudharsan etched his name into the history books after a valiant half-century during the clash against the Kolkata Knight Riders at the Eden Gardens on Saturday, May 16. Sudharsan battled an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-downs-t20-world-record-after-valiant-fifty-during-kkr-vs-gt-ipl-2026-clash-2026-05-17-1041437",
-    "time": "2026-05-17T02:54:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kolkata Knight Riders keep playoffs dream alive, register dominant win over Gujarat Titans",
-    "desc": "The 60th game of the ongoing IPL (Indian Premier League) 2026 saw Kolkata Knight Riders hosting Gujarat Titans. The two sides played at the Eden Gardens in Kolkata on May 16th, and the clash began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-keep-playoffs-dream-alive-register-dominant-win-over-gujarat-titans-2026-05-16-1041424",
-    "time": "2026-05-16T18:06:15.000Z"
   }
 ];
