@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "রসনায় রসভঙ্গ; দামি হচ্ছে বিরিয়ানি টু বার্গার, পিৎজা-স্যান্ডউইচের জন্যও খসাতে হবে বেশি কড়ি",
+    "desc": "প্রতি বছরই সেপ্টেম্বর নাগাদ রেস্তোরাঁগুলি তাদের বিভিন্ন আইটেমের প্রাইস রিভাইজ করে। ন্যাশনাল রেস্তোরাঁ অ্যাসোসিয়েশন অফ ইন্ডিয়া (National Restaurants Association of India) তথা এনআরএআই (NRAI)-এর প্রতিনিধিরা জানান, এ বছর তাঁদের হাতে তার আগেই দাম বাড়ানো ছাড়া আর কোনও উপায় নেই!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/biryani-price-hike-burgers-pizza-sandwiches-to-get-costlier-as-fuel-price-hike-food-industry_654326.html ",
+    "time": "2026-05-17T12:48:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "পুলিস আমাদের কিচ্ছু করতে পারবে না: চার বছর ধরে দু'বোনকে লাগাতার গণধর্ষণ, শেষে চরম পদক্ষেপ",
+    "desc": "গণধর্ষণ ও ব্ল্যাকমেইলের শিকার হয়ে দুই বোনের আত্মহত্যা। গত চার বছর ধরে অত্যাচারের পর গত মার্চ মাসে বড় বোন মারা যান। পুলিসে বারবার অভিযোগ করেও ছোট বোন কোনও বিচার পাননি। উলটে অপরাধীদের হুমকির মুখে পড়ে গত শুক্রবার তিনিও বিষ খেয়ে আত্মহত্যা করেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/two-sisters-ends-life-after-facing-years-of-physical-assault-and-blackmail_654319.html ",
+    "time": "2026-05-17T11:32:07.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "বড় খবর: অরূপ বিশ্বাসের বিরুদ্ধে ১০০ কোটির মানহানি মামলা শতদ্রু দত্তর, 'সরকার বদলেছে, মেসিকে আবার কলকাতায় আনবই'",
     "desc": "আমি জেল থেকে ছাড়া পাবার পর মেসির বাবার সঙ্গে কথা হয়েছে। পশ্চিমবঙ্গে যে সরকার বদল হয়ে গেছে সেটা ওদের এখনো জানায়নি জানাব। পাপিয়া অধিকারী যেমন বলছেন তিনি মেসিকে আবার কলকাতায় আনতে চান, একদম ঠিক আমার সেই পরিকল্পনা রয়েছে। মেসিকে আবার আমি কলকাতায় নিয়ে আসবই আসব'।",
@@ -45,15 +63,6 @@ const newsData_bn = [
     "time": "2026-05-16T05:18:53.000Z"
   },
   {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "থালাপতি জ্বরে কাঁপছে চেন্নাই, বিজয়ের জন্য ৬৫৪ কিমি পথ পায়ে হেঁটে চেন্নাইয়ে 'ফ্যান' দম্পতি",
     "desc": "প্রিয় তারকার জন্য সবকিছুই সম্ভব! তামিলনাড়ুর নবনির্বাচিত মুখ্যমন্ত্রী থালপতি বিজয়ের সঙ্গে দেখা করতে কেরালাম থেকে চেন্নাই পর্যন্ত ৬৫৪ কিমি পায়ে হেঁটে পাড়ি দিচ্ছেন এক দম্পতি। মহম্মদ রফি ও শাহানামোলের এই 'থালাপতি প্রেম' এখন নেটপাড়ায় তুঙ্গে।",
@@ -79,15 +88,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/cm-suvendu-adhikari-meeting-star-mlas-tollywood-reform-report_653857.html ",
     "time": "2026-05-13T13:28:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
   },
   {
     "cat": "Sports",
@@ -196,23 +196,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/middle-east-on-edge-trump-slams-irans-proposal_652134.html ",
     "time": "2026-05-03T05:24:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

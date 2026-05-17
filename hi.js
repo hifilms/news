@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli equals Alex Hales in elite list with resilient knock against PBKS",
+    "desc": "Punjab Kings took on Royal Challengers Bengaluru in the 61st game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the HPCA Stadium in Dharamsala on May 17th, and the game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-equals-alex-hales-in-elite-list-with-resilient-knock-against-pbks-2026-05-17-1041483",
+    "time": "2026-05-17T12:00:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Arun Jaitley Stadium in Delhi play?",
+    "desc": "The 62nd game of the ongoing IPL (Indian Premier League) 2026 sees Delhi Capitals taking on Rajasthan Royals. The two sides will meet at the Arun Jaitley Stadium in Delhi on May 17th. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rr-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-05-17-1041470",
+    "time": "2026-05-17T10:58:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Royal Challengers Bengaluru look to solidify playoffs spot",
     "desc": "Punjab Kings host Royal Challengers Bengaluru in the 61st game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the HPCA Stadium in Dharamsala and both teams will be looking to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohsin-naqvi-not-invited-for-ipl-2026-final-set-to-attend-icc-board-meet-in-ahmedabad-virtually-2026-05-16-1041418",
     "time": "2026-05-16T16:12:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings address Arshdeep Singh's social media drama amid run of poor form",
-    "desc": "Punjab Kings, despite getting off to a stellar start for the ongoing IPL (Indian Premier League) 2026 season, have fallen down a steep hill. The side has not lost five straight games in the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-address-arshdeep-singh-s-social-media-drama-amid-run-of-poor-form-2026-05-16-1041415",
-    "time": "2026-05-16T14:59:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans look to keep on with title charge",
-    "desc": "Kolkata Knight Riders and Gujarat Titans will take on each other in the 60th game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the Eden Gardens in Kolkata on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-gt-live-cricket-score-gujarat-titans-look-to-keep-on-with-title-charge-2026-05-16-1041409",
-    "time": "2026-05-16T13:44:03.000Z"
   }
 ];
