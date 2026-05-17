@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi surpasses Abhishek Sharma, achieves huge feat with quickfire start against Delhi Capitals",
+    "desc": "Star India batter Vaibhav Sooryavanshi has taken world cricket by storm. The 15-year-old has been exceptional for Rajasthan Royals in the ongoing edition of the IPL (Indian Premier League) 2026, and he showcased his class...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-surpasses-abhishek-sharma-achieves-huge-feat-with-quickfire-start-against-delhi-capitals-2026-05-17-1041498",
+    "time": "2026-05-17T15:26:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals look to break into the top four",
+    "desc": "The 62nd game of the ongoing IPL (Indian Premier League) 2026 sees Delhi Capitals hosting Rajasthan Royals at the Arun Jaitley Stadium in Delhi. The clash begins on a positive note for Delhi as the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rr-live-cricket-score-rajasthan-royals-look-to-break-into-the-top-four-2026-05-17-1041492",
+    "time": "2026-05-17T14:08:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Royal Challengers Bengaluru qualify for IPL 2026 playoffs, defeat Punjab Kings by 23 runs",
+    "desc": "Royal Challengers Bengaluru were brilliant in the 61st game of the ongoing IPL (Indian Premier League) 2026. The side took on Punjab Kings at the HPCA Stadium in Dharamsala on May 17th, and after brilliant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-hand-punjab-kings-another-dreaded-defeat-register-dominant-23-run-victory-2026-05-17-1041491",
+    "time": "2026-05-17T13:50:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings etch name in unwanted list after first innings chaos against Royal Challengers Bengaluru",
+    "desc": "The 61st game of the ongoing IPL (Indian Premier League) 2026 saw Punjab Kings hosting Royal Challengers Bengaluru. The two sides met at the HPCA Stadium in Dharamsala on May 17th, and the clash saw...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-etch-name-in-unwanted-list-after-first-innings-chaos-against-royal-challengers-bengaluru-2026-05-17-1041489",
+    "time": "2026-05-17T13:26:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli equals Alex Hales in elite list with resilient knock against PBKS",
     "desc": "Punjab Kings took on Royal Challengers Bengaluru in the 61st game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the HPCA Stadium in Dharamsala on May 17th, and the game...",
     "img": "",
@@ -19,7 +55,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Royal Challengers Bengaluru look to solidify playoffs spot",
+    "title": "Royal Challengers Bengaluru defeat Punjab Kings by 23 runs",
     "desc": "Punjab Kings host Royal Challengers Bengaluru in the 61st game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the HPCA Stadium in Dharamsala and both teams will be looking to...",
     "img": "",
     "src": "indiatvnews.com",
@@ -34,24 +70,6 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-rajat-patidar-not-playing-for-rcb-in-ipl-2026-clash-against-pbks-2026-05-17-1041463",
     "time": "2026-05-17T09:46:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohamed Salah drops strong message after Liverpool face shock defeat against Aston Villa",
-    "desc": "Liverpool FC has been going through a roller coaster of a season in the Premier League. With Arne Slot’s side looking to finish in the top four of the league, the side was handed a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mohamed-salah-drops-strong-message-after-liverpool-face-shock-defeat-against-aston-villa-2026-05-16-1041421",
-    "time": "2026-05-17T07:30:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PBKS vs RCB Head-to-Head record ahead of game 61 in IPL 2026",
-    "desc": "The stage is set for the 61st game of the ongoing IPL (Indian Premier League) 2026. Punjab Kings will be taking on Royal Challengers Bengaluru at the HPCA Stadium in Dharamsala on May 17th. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-rcb-head-to-head-record-ahead-of-game-61-in-ipl-2026-2026-05-16-1041420",
-    "time": "2026-05-17T05:30:01.000Z"
   },
   {
     "cat": "Sports",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-keep-playoffs-dream-alive-register-dominant-win-over-gujarat-titans-2026-05-16-1041424",
     "time": "2026-05-16T18:06:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill joins Virat Kohli and Sachin Tendulkar in an elite list with resilient knock against KKR",
-    "desc": "The 60th game of the ongoing IPL (Indian Premier League) 2026 saw Kolkata Knight Riders hosting Gujarat Titans at the Eden Gardens in Kolkata on May 16th. The clash begins with KKR coming in to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-joins-virat-kohli-and-sachin-tendulkar-in-an-elite-list-with-resilient-knock-against-kkr-2026-05-16-1041422",
-    "time": "2026-05-16T17:36:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohsin Naqvi not invited for IPL 2026 final, set to attend ICC board meet in Ahmedabad virtually",
-    "desc": "In a major development, recent reports have emerged that state that the PCB (Pakistan Cricket Board) chairman Mohisn Naqvi has not been invited to the IPL (Indian Premier League) 2026 final in Ahmedabad, and he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohsin-naqvi-not-invited-for-ipl-2026-final-set-to-attend-icc-board-meet-in-ahmedabad-virtually-2026-05-16-1041418",
-    "time": "2026-05-16T16:12:41.000Z"
   }
 ];

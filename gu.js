@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સામાન્ય લોકો માટે એલર્ટ! પેટ્રોલ-ડીઝલ બાદ હવે આ વસ્તુઓ પણ થશે મોંઘી, રિપોર્ટે વધારી લોકોની ચિંતા",
+    "desc": "ભારતમાં એપ્રિલ 2026 દરમિયાન જથ્થાબંધ મોંઘવારી દર 8.3% સુધી પહોંચી ગયો છે, જે છેલ્લા 42 મહિનાના સૌથી ઉચ્ચા સ્તર પર છે. ક્રૂડ ઓઈલ, ઈંધણ અને ધાતુઓની વધતી કિંમતોએ મોંઘવારીમાં વધુ વધારો કર્યો છે. હવે રિપોર્ટ છે કે, આગામી સમયમાં ખાવા-પીવાની વસ્તુઓ પણ મોંઘી થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/alert-for-common-people-after-petrol-diesel-now-these-things-will-also-become-expensive-report-increases-people-concern-478278 ",
+    "time": "2026-05-17T14:52:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "હુમલાના ભય વચ્ચે અમેરિકાએ ઈરાન સામે રાખી આ 5 શરતો, હવે શું કરશે ખામનેઈ?",
+    "desc": "અમેરિકાએ શરત મૂકી છે કે ઈરાન 400 કિલોગ્રામ એનરિચ્ડ યુરેનિયમ તેને સોપી દે. તેમાં એવી પણ શરત મૂકવામાં આવી છે કે ઈરાનની પરમાણુ સુવિધાઓનો માત્ર એક સેટ કાર્યરત રહે. અમેરિકાએ ઈરાનની વિદેશમાં રહેલી 25 ટકા સંપત્તિ છોડવાનો પણ ઇનકાર કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/amidst-the-threat-of-attack-america-has-put-these-5-conditions-against-iran-what-will-khamenei-do-now-478277 ",
+    "time": "2026-05-17T14:21:18.000Z"
+  },
+  {
     "cat": "World",
     "title": "નેધરલેન્ડ્સથી ગુજરાત માટે આવ્યા સારા સમાચાર! PM મોદીએ કરી મોટી ડીલ, જાણો",
     "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદી તેમના પાંચ દેશોના પ્રવાસના બીજા દિવસે નેધરલેન્ડ પહોંચ્યા. પીએમ મોદીએ એક એવો સોદો કર્યો જે ચીન માટે ચિંતા ઉભી કરે તેવી શક્યતા છે. તેમની મુલાકાત દરમિયાન, પીએમએ એક મોટા કરાર પર હસ્તાક્ષર કર્યા છે.",
@@ -583,15 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/rbi-governor-big-statement-on-crude-oil-prices-what-he-hinted-check-here-477729 ",
     "time": "2026-05-13T11:26:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "હોમ લોન ચુકવવા સમયે ન કરો આ ભૂલ, બાકી થઈ શકે છે નુકસાન",
-    "desc": "ઘર ખરીદવું બધાનું સપનું હોય છે, પરંતુ હોમ લોન જલ્દી ખતમ કરવી પણ મોટી જવાબદારી હોય છે. આ કારણે ઘણા લોકો રોકડમાં લોન ચુકવવાનો વિકલ્પ પસંદ કરે છે, પરંતુ આ પ્રક્રિયા હંમેશા ફાયદાકારક રહેતી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/never-make-the-mistake-of-paying-home-loan-in-cash-you-will-get-into-trouble-477705 ",
-    "time": "2026-05-13T09:45:05.000Z"
   },
   {
     "cat": "Entertainment",
