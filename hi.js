@@ -1,12 +1,21 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "All the squads announced for Women's T20 World Cup 2026 so far",
-    "desc": "The Women's T20 World Cup 2026 is less than a month away as England holds its breath to host the sporting extravaganza in June-July. The tournament has been expanded, as - for the first time...",
+    "title": "PBKS vs RCB Head-to-Head record ahead of game 61 in IPL 2026",
+    "desc": "The stage is set for the 61st game of the ongoing IPL (Indian Premier League) 2026. Punjab Kings will be taking on Royal Challengers Bengaluru at the HPCA Stadium in Dharamsala on May 17th. The...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/all-the-squads-announced-for-womens-t20-world-cup-2026-so-far-2026-05-16-1041377",
-    "time": "2026-05-17T01:30:01.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-rcb-head-to-head-record-ahead-of-game-61-in-ipl-2026-2026-05-16-1041420",
+    "time": "2026-05-17T05:30:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sai Sudharsan downs T20 world record after valiant fifty during KKR vs GT IPL 2026 clash",
+    "desc": "Gujarat Titans star Sai Sudharsan etched his name into the history books after a valiant half-century during the clash against the Kolkata Knight Riders at the Eden Gardens on Saturday, May 16. Sudharsan battled an...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-downs-t20-world-record-after-valiant-fifty-during-kkr-vs-gt-ipl-2026-clash-2026-05-17-1041437",
+    "time": "2026-05-17T02:54:38.000Z"
   },
   {
     "cat": "Sports",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-reach-thailand-open-2026-final-defeating-malaysian-pair-in-penultimate-clash-2026-05-16-1041394",
     "time": "2026-05-16T11:17:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Eden Gardens in Kolkata play?",
-    "desc": "The 60th game of the ongoing IPL (Indian Premier League) 2026 sees Kolkata Knight Riders taking on Gujarat Titans. The two sides will meet at Eden Gardens in Kolkata on May 16th. The two sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-gt-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-2026-05-16-1041384",
-    "time": "2026-05-16T10:12:04.000Z"
   }
 ];
