@@ -1,12 +1,66 @@
 const newsData_en = [
   {
-    "cat": "Sports",
-    "title": "'We shouldn’t be in top 4': Riyan Parag’s brutal RR reality check after defeat",
-    "desc": "Rajasthan Royals captain Riyan Parag admitted his team let a winning position slip against Delhi Capitals, citing a dramatic collapse after reaching 160 for 2 in 14 overs. Parag lamented the team's poor execution in middle and death overs, as well as in the field, stating they were not up to the mark.",
-    "img": "https://static.toiimg.com/photo/msid-131160806,imgsize-190220.cms",
+    "cat": "Entertainment",
+    "title": "'Michael' reclaims box office crown; crosses USD 700 million mark",
+    "desc": "Michael Jackson's biopic 'Michael' has surged back to the top of the North American box office, raking in USD 26.1 million. Meanwhile, the low-budget thriller 'Obsession' surprised everyone, exceeding expectations with USD 16.1 million. 'The Devil Wears Prada 2' secured second place, while 'Mortal Kombat II' saw a significant drop.",
+    "img": "https://static.toiimg.com/photo/msid-131161965,imgsize-100880.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-we-shouldnt-be-in-top-4-riyan-parags-brutal-rr-reality-check-after-dc-defeat/articleshow/131160739.cms",
-    "time": "2026-05-17T18:39:26.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/michael-reclaims-the-top-box-office-spot-as-it-crosses-usd-700-million-mark-the-devil-wears-prada-2-headed-for-usd-550-million-haul/articleshow/131161779.cms",
+    "time": "2026-05-17T21:41:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ordinance to up SC judges from 33 to 37 promulgated",
+    "desc": "President promulgated ordinance to increase Supreme Court judges' strength from 33 to 37, bringing the total to 38 including the CJI. This move aims to address the mounting pendency of over 90,000 cases before the apex court. The ordinance will be presented for replacement by a bill in the upcoming monsoon session.",
+    "img": "https://static.toiimg.com/photo/msid-131161961,imgsize-1280605.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ordinance-to-up-sc-judges-from-33-to-37-promulgated/articleshow/131161787.cms",
+    "time": "2026-05-17T21:32:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Weather &amp; then war lead to tears in India’s onion basket",
+    "desc": "Maharashtra's onion farmers face devastating losses as prices plummet far below production costs. A combination of bumper harvests, weak demand, export disruptions, and unseasonal rains has led to crops rotting and farmers selling at a significant deficit. Many are demanding government intervention and compensation for their distress.",
+    "img": "https://static.toiimg.com/photo/msid-131161784,imgsize-1837570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/weather-then-war-lead-to-tears-in-indias-onion-basket/articleshow/131161785.cms",
+    "time": "2026-05-17T21:30:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kharif output dips by over 10% across states in El Niño years: Study",
+    "desc": "El Niño's shadow looms over India's monsoon. Past El Niño years saw key kharif crops like paddy and maize suffer over 10% output reduction in numerous districts. This study highlights vulnerable areas and stresses the need for district-level climate-resilient planning. Policymakers are urged to strengthen contingency plans for drought-tolerant varieties and efficient water management to protect farmers.",
+    "img": "https://static.toiimg.com/photo/msid-131161776,imgsize-1974679.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kharif-output-dips-by-over-10-across-states-in-el-nio-years-study/articleshow/131161775.cms",
+    "time": "2026-05-17T21:23:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Boost for tech, trade &amp; defence as India, Sweden become ‘strategic partners’",
+    "desc": "India and Sweden have elevated their ties to a strategic partnership, signing an action plan for 2026-2030 covering green transition, technology, trade, and defence. Prime Minister Modi emphasized shared democratic values and innovation, highlighting growing defence cooperation moving beyond a buyer-seller dynamic. Discussions also explored strengthening supply chains and sustainable mobility.",
+    "img": "https://static.toiimg.com/photo/msid-131161768,imgsize-837118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/boost-for-tech-trade-defence-as-india-sweden-become-strategic-partners/articleshow/131161769.cms",
+    "time": "2026-05-17T21:18:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shekhar Suman slams stand-up comedians of today for vulgur comedy",
+    "desc": "Shekhar Suman expressed disappointment with the current state of stand-up comedy, citing a decline in quality due to reliance on vulgarity and abusive language over strong writing. He believes modern comedians have abandoned original thought, resorting to stolen jokes and an \"easy way out\" to elicit laughs, unlike the brilliant scripting of past shows.",
+    "img": "https://static.toiimg.com/photo/msid-131161665,imgsize-39976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-suman-slams-stand-up-comedians-of-today-for-vulgur-comedy-some-people-think-abusive-language-is-cool/articleshow/131161664.cms",
+    "time": "2026-05-17T20:13:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With CM and three Ministers, Ernakulam gets strong representation in Cabinet",
+    "desc": "Angamaly MLA Roji M. John of the Congress, Piravom legislator Anoop Jacob of Kerala Congress (Jacob), and Kalamassery MLA V. E. Abdul Gafoor of the Indian Union Muslim League will be sworn in as Ministers",
+    "img": "https://th-i.thgim.com/public/incoming/9ihzrj/article70991446.ece/alternates/LANDSCAPE_1200/ANKAMALY-%20ROJI%20M%20JOHN.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/with-cm-and-three-ministers-ernakulam-gets-strong-representation-in-cabinet/article70991273.ece",
+    "time": "2026-05-17T19:37:12.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +69,34 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/stal7k/article70991281.ece/alternates/LANDSCAPE_1200/36_IPL_T20_MATCH_RR_DC_17_05_DELHI.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capitals-vs-rajasthan-royals-mitchel-starc-vaibhav-sooryavanshi-match-updates/article70990789.ece",
-    "time": "2026-05-17T18:35:52.000Z"
+    "time": "2026-05-17T19:26:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Big B shares video of ancient Hindu Vishnu temple in Iran, netizens thank him",
+    "desc": "Amitabh Bachchan shared an Instagram video highlighting the historic Bandar Abbas Vishnu Temple in Iran, built in 1892 for Indian Hindu traders. This post illuminated a lesser-known Indo-Iranian historical connection, showcasing the significant role of Indian merchants in the region during the 19th century.",
+    "img": "https://static.toiimg.com/photo/msid-131161324,imgsize-28304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchans-drops-priceless-video-of-ancient-hindu-vishnu-temple-in-iran-made-in-1892-netizens-thank-him-for-making-them-aware/articleshow/131161300.cms",
+    "time": "2026-05-17T19:16:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RTC employees’ union opposes privatisation move",
+    "desc": "Accusing the government of trying to hand over valuable assets and operations to private companies in the name of electric bus services, it calls for a round-table with various trade unions in Vijayawada on May 26 to decide the future course of action",
+    "img": "https://th-i.thgim.com/public/incoming/fspai4/article70991121.ece/alternates/LANDSCAPE_1200/DSC_4353.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/rtc-employees-union-opposes-privatisation-move/article70990879.ece",
+    "time": "2026-05-17T19:12:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We shouldn’t be in top 4': Riyan Parag’s brutal RR reality check after defeat",
+    "desc": "Rajasthan Royals captain Riyan Parag admitted his team let a winning position slip against Delhi Capitals, citing a dramatic collapse after reaching 160 for 2 in 14 overs. Parag lamented the team's poor execution in middle and death overs, as well as in the field, stating they were not up to the mark.",
+    "img": "https://static.toiimg.com/photo/msid-131160806,imgsize-190220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-we-shouldnt-be-in-top-4-riyan-parags-brutal-rr-reality-check-after-dc-defeat/articleshow/131160739.cms",
+    "time": "2026-05-17T18:39:26.000Z"
   },
   {
     "cat": "Sports",
@@ -124,15 +205,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/pbks-rcb-match-sunday-may-17-updates/article70990063.ece",
     "time": "2026-05-17T15:44:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Pillale Sampada’ to boost population growth, address declining fertility rate in Andhra Pradesh",
-    "desc": "With the Total Fertility Rate in the State falling below the national rate of 1.9, the government is considering financial incentives for larger families as part of its long-term strategy to ensure workforce availability and economic sustainability",
-    "img": "https://th-i.thgim.com/public/incoming/cv4p52/article70991077.ece/alternates/LANDSCAPE_1200/IMG_iStock-1654076152_2_1_2TFHTB03.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/pillale-sampada-to-boost-population-growth-address-declining-fertility-rate-in-andhra-pradesh/article70990777.ece",
-    "time": "2026-05-17T15:32:13.000Z"
   },
   {
     "cat": "World",
@@ -414,69 +486,6 @@ const newsData_en = [
     "time": "2026-05-17T11:38:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TTV Dhinakaran warns expelled MLA S Kamaraj of disqualification",
-    "desc": "TTV Dhinakaran announced AMMK MLA S Kamaraj faces disqualification for supporting the ruling TVK government during a floor test. Dhinakaran accused Kamaraj of betrayal and stated the party will pursue disqualification, calling the TVK's acceptance of support 'horse-trading'. He removed Kamaraj from the party, vowing to take necessary steps.",
-    "img": "https://static.toiimg.com/photo/msid-131152684,imgsize-52324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tvk-floor-test-support-sparks-row-ttv-dhinakaran-warns-expelled-mla-s-kamaraj-of-disqualification/articleshow/131152531.cms",
-    "time": "2026-05-17T11:36:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mouni follows back Suraj days after announcing separation",
-    "desc": "Mouni Roy and Suraj Nambiar have sparked fresh buzz after briefly re-following each other on Instagram following their separation. Fans noticed one-sided activity, with Mouni still following Suraj while he doesn’t. She has retained old photos, even as rumours and speculation involving Disha Patani continue online to spread further widely.",
-    "img": "https://static.toiimg.com/photo/msid-131153050,imgsize-26358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mouni-roy-follows-suraj-nambiar-back-days-after-announcing-separation-but-has-he-followed-her-back-social-media-clues-raise-major-questions/articleshow/131153050.cms",
-    "time": "2026-05-17T11:18:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The truth behind teenage ‘attitude’ and ‘mood swings’",
-    "desc": "Teenagers' emotions are often dismissed as drama or phases, but they can signify real stress, loneliness, or anxiety. A significant gap exists between how teens and adults communicate and experience pressure, especially with the rise of social media and intense academic competition. Understanding and listening without judgment are crucial for bridging this disconnect.",
-    "img": "https://static.toiimg.com/photo/msid-131152280,imgsize-1134483.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/growing-up-unheard-the-truth-behind-teenage-attitude-and-mood-swings/articleshow/131151691.cms",
-    "time": "2026-05-17T11:02:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meghan Markle shares new photo of Lilibet",
-    "desc": "In a heartwarming gesture, Meghan Markle shared a cherished snapshot of their daughter Lilibet, revealing her vibrant red locks – a beautiful resemblance to Prince Harry. This delightful moment follows the couple's nostalgic tribute to their son Archie on his seventh birthday, giving fans a rare peek into their family dynamics while remaining committed to shielding their children's privacy.",
-    "img": "https://static.toiimg.com/photo/msid-131152612,imgsize-119826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-shares-rare-glimpse-of-princess-lilibets-fiery-red-hair-in-mirror-selfie-calls-her-mamas-little-helper/articleshow/131152433.cms",
-    "time": "2026-05-17T10:58:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why PM Modi visited Netherlands’ Afsluitdijk dam: The Dutch model India may need",
-    "desc": "Prime Minister Narendra Modi's visit to the Afsluitdijk dam in the Netherlands highlighted Dutch expertise in water management, relevant to India's ambitious Kalpasar Project. This mega-project aims to create a freshwater reservoir in Gujarat, addressing water scarcity and flood protection, mirroring the multi-functional Dutch approach to climate resilience.",
-    "img": "https://static.toiimg.com/photo/msid-131152489,imgsize-101378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-pm-modi-visited-netherlands-afsluitdijk-dam-the-dutch-model-india-may-need/articleshow/131151801.cms",
-    "time": "2026-05-17T10:50:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "High-level probe ordered, railway traffic disrupted — top developments",
-    "desc": "A fire erupted in the Thiruvananthapuram-Hazrat Nizamuddin Rajdhani Express in Ratlam, Madhya Pradesh. No injuries were reported; all 68 passengers were safely evacuated. The blaze disrupted rail traffic on the busy Mumbai-Delhi route. In a separate incident, a van carrying repair equipment overturned, injuring five railway staff members. Restoration efforts are underway.",
-    "img": "https://static.toiimg.com/photo/msid-131152530,imgsize-1053910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fire-in-rajdhani-express-probe-ordered-railway-traffic-disrupted-top-developments/articleshow/131152345.cms",
-    "time": "2026-05-17T10:49:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Why Gina Carano was fired from ‘The Mandalorian’",
-    "desc": "Gina Carano's controversial social media posts led to her firing from 'The Mandalorian' in 2021. Her comparison of conservatives to Jewish people under the Nazis and a bio interpreted as mocking pronouns sparked backlash. Three years later, Carano sued the studio for wrongful termination, reportedly funded by Elon Musk, and the lawsuit was settled.",
-    "img": "https://static.toiimg.com/photo/msid-131152421,imgsize-129440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/why-was-gina-carano-fired-from-the-mandalorian-inside-the-social-media-scandals-and-settlement/articleshow/131152378.cms",
-    "time": "2026-05-17T10:40:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why is RCB captain Rajat Patidar not playing vs Punjab Kings?",
     "desc": "Royal Challengers Bengaluru are without captain Rajat Patidar for their IPL 2026 clash against Punjab Kings, with Jitesh Sharma leading the side. Patidar is recovering well and is expected to return for the next match in Hyderabad. RCB currently sits atop the IPL 2026 points table.",
@@ -637,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/saif-ali-khan-rasika-dugal-manish-chaudhari-interview/article70984799.ece",
     "time": "2026-05-16T11:29:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Financial systems must remain connected to real economy, PM’s principal secretary PK Mishra cautions against speculation",
-    "desc": "Principal Secretary PK Mishra cautioned financial systems against excessive speculation and market instability, emphasizing their connection to the real economy and citizens' lives. He highlighted India's digital public infrastructure, including the JAM trinity and UPI, as transformative forces for financial inclusion and credit access, particularly for underserved populations.",
-    "img": "https://static.toiimg.com/photo/msid-131135440,imgsize-720523.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/financial-systems-must-remain-connected-to-real-economy-pms-principal-secretary-pk-mishra-cautions-against-speculation/articleshow/131135313.cms",
-    "time": "2026-05-16T10:20:48.000Z"
   },
   {
     "cat": "World",
