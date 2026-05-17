@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "All the squads announced for Women's T20 World Cup 2026 so far",
+    "desc": "The Women's T20 World Cup 2026 is less than a month away as England holds its breath to host the sporting extravaganza in June-July. The tournament has been expanded, as - for the first time...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/all-the-squads-announced-for-womens-t20-world-cup-2026-so-far-2026-05-16-1041377",
+    "time": "2026-05-17T01:30:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kolkata Knight Riders keep playoffs dream alive, register dominant win over Gujarat Titans",
     "desc": "The 60th game of the ongoing IPL (Indian Premier League) 2026 saw Kolkata Knight Riders hosting Gujarat Titans. The two sides played at the Eden Gardens in Kolkata on May 16th, and the clash began...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-gt-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-2026-05-16-1041384",
     "time": "2026-05-16T10:12:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan announce squad for Women's T20 World Cup 2026, five players set for maiden appearance",
-    "desc": "Pakistan have announced their squad for the upcoming Women's T20 World Cup 2026 and the T20I bilateral series against Ireland and the West Indies. Five players are in line for their first appearance for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-squad-for-womens-t20-world-cup-2026-five-players-set-for-maiden-appearance-2026-05-16-1041371",
-    "time": "2026-05-16T07:52:06.000Z"
   }
 ];

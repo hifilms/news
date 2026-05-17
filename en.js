@@ -1,12 +1,201 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'Team looks more united': Ex-selector on MI without Hardik Pandya",
+    "desc": "Kris Srikkanth observes a revitalized Mumbai Indians, showcasing renewed energy and dominance despite Hardik Pandya's absence. Jasprit Bumrah's captaincy brought a lighter, more united team atmosphere, leading to impressive individual performances and a crucial win. This shift in momentum suggests a strong will to succeed, even when facing challenges.",
+    "img": "https://static.toiimg.com/photo/msid-131148086,imgsize-57278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/team-looks-more-united-ex-selector-on-mumbai-indians-without-hardik-pandya/articleshow/131148088.cms",
+    "time": "2026-05-17T02:30:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yograj Singh seeks anticipatory bail in 'Lukkhe' series row",
+    "desc": "In a twist of controversy, former cricketer Yograj Singh has approached the court for anticipatory bail following an FIR linked to his character's disparaging comments about women in the web series 'Lukkhe'. The offensive clip has ignited outrage, prompting the Punjab Women's Commission to act on its own accord, calling for a thorough investigation. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131147909,imgsize-106644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuvraj-singhs-father-yograj-singh-seeks-anticipatory-bail-in-fir-linked-to-lukkhe-series-controversy/articleshow/131147908.cms",
+    "time": "2026-05-17T02:05:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Patriot' BO day 16: Falls below Rs 10 lakh",
+    "desc": "Mammootty and Mohanlal's spy thriller 'Patriot' is experiencing a slowdown in Indian box office collections, now earning under Rs 10 lakh daily. Despite this, strong overseas performance has propelled the film's worldwide gross towards Rs 80 crore. The movie, a political thriller about a surveillance scandal, has garnered praise for Mohanlal's powerful portrayal and technical excellence.",
+    "img": "https://static.toiimg.com/photo/msid-131147961,imgsize-364170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-box-office-collections-day-16-mammootty-and-mohanlal-film-falls-below-rs-10-lakh-worldwide-total-reaches-rs-79-66-cr/articleshow/131147952.cms",
+    "time": "2026-05-17T01:57:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why is the Prime Minister advocating austerity?",
+    "desc": "What are the seven set of suggestions that Prime Minister Narendra Modi made for the public? How has the war in West Asia impacted various sectors in India and how will these cutbacks help? What measures is the government taking?",
+    "img": "https://th-i.thgim.com/public/incoming/ivsk6a/article70987854.ece/alternates/LANDSCAPE_1200/jewellery%20shop%202-%20price%20board.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-is-the-prime-minister-advocating-austerity/article70987838.ece",
+    "time": "2026-05-17T01:55:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Relief out of reach",
+    "desc": "Nearly a year after the Marathwada floods in Maharashtra, many farmers affected by the destruction that followed say they are still waiting for parts of the compensation the government promised. Snehal Mutha finds that some have taken additional loans for the next crop, while some have given farming a break for the year",
+    "img": "https://th-i.thgim.com/public/incoming/3h36v4/article70986426.ece/alternates/LANDSCAPE_1200/11908_14_5_2026_18_2_42_1_DSC_7172.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/spotlight-on-relief-out-of-reach-marathwadafloods-in-maharashtra/article70986417.ece",
+    "time": "2026-05-17T01:41:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Styles launched his tour with a full Amsterdam setlist",
+    "desc": "Harry Styles kicked off his expansive 'Together Together' tour in Amsterdam, featuring a 50-stop global residency. The ambitious undertaking, spanning May to December, includes a significant New York leg with 30 dates. The tour champions charitable causes like Choose Love and HeadCount, while also prioritizing environmental sustainability through Live Nation's Green Nation initiative.",
+    "img": "https://static.toiimg.com/photo/msid-131147903,imgsize-304626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-kicked-off-together-together-tour-in-amsterdam-full-opening-night-setlist-revealed/articleshow/131147899.cms",
+    "time": "2026-05-17T01:41:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why has the RSS called for dialogue with Pakistan?",
+    "desc": "What did RSS leader Dattatreya Hosabale say about ties with Pakistan and what reactions did his remarks trigger in India and Pakistan? Can his statement be read as reflecting government policy? What has the RSS’s stance on talks with Pakistan been?",
+    "img": "https://th-i.thgim.com/public/incoming/s3a9un/article70987847.ece/alternates/LANDSCAPE_1200/PTI05_13_2026_000153B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-has-the-rss-called-for-dialogue-with-pakistan/article70987850.ece",
+    "time": "2026-05-17T01:32:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What KKR and GT need to reach IPL 2026 playoffs",
+    "desc": "With 10 games left, LSG and MI are out, while GT and RCB are nearing playoff qualification. SRH and RR have strong chances for the top four, with PBKS holding an even shot. CSK's playoff hopes have diminished, and KKR and DC face slim chances.",
+    "img": "https://static.toiimg.com/photo/msid-131147876,imgsize-127142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-scenarios-with-10-matches-to-go-kkrs-chances-rise-to-10-odds-for-each-team-explained/articleshow/131147873.cms",
+    "time": "2026-05-17T01:32:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Raja Shivaji' BO Day 16: Riteish starrer eyes Rs 100 cr mark",
+    "desc": "Riteish Deshmukh's historical epic 'Raja Shivaji' is impressing audiences despite initial doubts, chronicling the life of warrior king Chhatrapati Shivaji Maharaj. The film has achieved a significant box office milestone, nearing Rs 96 crore gross collection. Despite some VFX critiques, the cast and crew's dedication to a tight budget is highlighted, with Abhishek Bachchan emphasizing the disparity with Hollywood productions. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131147836,imgsize-86788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/raja-shivaji-box-office-collection-day-16-riteish-deshmukhs-epic-drama-eyes-rs-100-crore-mark/articleshow/131147830.cms",
+    "time": "2026-05-17T01:22:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rapper Vedan in TROUBLE",
+    "desc": "Rapper Vedan is facing a daunting legal hurdle as scientific examinations verify that a tiger tooth featured on his necklace is indeed legitimate. The Kerala Forest Department is gearing up to file formal charges following this revelation during an unrelated investigation. Although Vedan insists that the necklace was a present, the source of the gift has yet to be identified.",
+    "img": "https://static.toiimg.com/photo/msid-131147837,imgsize-42376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/rapper-vedan-tiger-tooth-case-scientific-test-confirms-necklace-is-genuine-forest-department-set-to-file-chargesheet/articleshow/131147829.cms",
+    "time": "2026-05-17T01:19:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What Bulgaria's Dara received after Eurovision 2026 win",
+    "desc": "Bulgaria's Dara triumphed at Eurovision 2026 in Vienna with 'Bangaranga', securing 516 points. While no cash prize is awarded, Dara received the coveted Crystal Microphone trophy. This win, like those of past legends ABBA and Celine Dion, promises significant international music career opportunities. Israel and Romania followed in the 70th edition.",
+    "img": "https://static.toiimg.com/photo/msid-131147814,imgsize-84732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bulgarias-dara-wins-70th-eurovision-song-contest-heres-what-the-winner-took-home/articleshow/131147811.cms",
+    "time": "2026-05-17T01:14:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 musical performances in the FIFA World Cup",
+    "desc": "Anthems have a long tradition of bringing people together and representing a community, but only a few can make people get up and dance their hearts out. Many prominent singers, across the globe, have collaborated to perform their songs at the FIFA World Cup. In 2026, Shakira, Madonna, and BTS will co-headline at the Final Halftime Show in New Jersey, USA. The performance will be curated by Chris Martin of Coldplay. However, there have been many performers in the past that the fans just can’t get over. Let’s take a look at the top 5 FIFA World Cup performers of all time.",
+    "img": "https://static.toiimg.com/photo/msid-131147796,imgsize-59768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-madonna-and-bts-to-co-headline-fifa-halftime-show-a-look-at-the-top-5-performers-of-all-time/photostory/131147796.cms",
+    "time": "2026-05-17T01:06:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Karjat MLA Rohit Pawar hits out at CJI comment on youngsters",
     "desc": "Surya Kant and Justice Joymalya Bagchi pulled up a lawyer for “pursuing” a senior advocate designation, saying that there are already “parasites” in society who attack the system, and asked the petitioner whether he wanted to join hands with them",
     "img": "https://th-i.thgim.com/public/incoming/tlin96/article70988456.ece/alternates/LANDSCAPE_1200/PTI02_23_2026_000108B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/maharashtra/karjat-mla-rohit-pawar-hits-out-at-cji-comment-on-youngsters/article70987773.ece",
-    "time": "2026-05-16T20:35:39.000Z"
+    "time": "2026-05-17T01:06:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Behind Arshdeep's struggles: Punjab Kings discover 'restrictions' in pacer's body",
+    "desc": "Punjab Kings bowler Arshdeep Singh struggled this IPL season. Physical issues and off-field distractions affected his performance. Team management believes they have found solutions. Singh is now feeling better physically. He needs to regain his form to help Punjab Kings. Leaders like Singh and Iyer must guide the team through this tough phase.",
+    "img": "https://static.toiimg.com/photo/msid-131147763,imgsize-48542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/behind-arshdeep-singhs-struggles-punjab-kings-discover-restrictions-in-pacers-body/articleshow/131147764.cms",
+    "time": "2026-05-17T00:58:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ravi Mohan's ‘Idly Nadigai’ comment triggers Khushbu Sundar",
+    "desc": "Actor Ravi Mohan has publicly detailed marital struggles, alleging emotional distress and interference from an unnamed actress. Social media speculates this refers to Khushbu Sundar, who responded cryptically on X. Mohan also claimed his wife pressured him into marriage and spoke of financial difficulties and alleged black magic, stating he's suffering immensely.",
+    "img": "https://static.toiimg.com/photo/msid-131147743,imgsize-102716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ravi-mohans-idly-nadigai-comment-triggers-khushbu-sundar-reaction-thank-you-for-proving-me-right/articleshow/131147736.cms",
+    "time": "2026-05-17T00:48:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Athiradi' BO day 3: Tovino Thomas film grows 20%",
+    "desc": "Tovino Thomas's latest comedy-drama, 'Athiradi', has captivated audiences and smashed box office records, earning a phenomenal ₹33.89 crore globally within its first three days. With standout performances by Basil Joseph and Vineeth Sreenivasan, the film has received glowing reviews, highlighted by ETimes' impressive 4-star rating for its striking visuals and engaging narrative.",
+    "img": "https://static.toiimg.com/photo/msid-131147705,imgsize-166980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/athiradi-box-office-collections-day-3-tovino-thomas-and-vineeth-sreenivasan-film-grows-20-crosses-rs-33-89-cr-worldwide/articleshow/131147702.cms",
+    "time": "2026-05-17T00:33:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Pati Patni Aur Woh Do' BO Day 2: Film fails to cross Rs 10 cr mark",
+    "desc": "Ayushmann Khurrana's 'Pati Patni Aur Woh Do' debuted with a respectable Rs 4 crore and surged by 43% on its second day to clinch Rs 5.75 crore. The film's total earnings stand at Rs 9.75 crore net in India and Rs 2 crore internationally, though it fell short of matching its 2019 counterpart's weekend performance. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131147659,imgsize-228640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/pati-patni-aur-woh-do-box-office-collection-day-2-ayushmann-khurrana-starrer-witnesses-growth-but-fails-to-cross-rs-10-crore-mark/articleshow/131147651.cms",
+    "time": "2026-05-17T00:18:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Karuppu' BO day 2: Suriya's film surges 51%",
+    "desc": "Suriya's 'Karuppu' is setting the box office ablaze, boasting a remarkable 51% increase in earnings on its second day with an impressive Rs 23.40 crore. This gripping tale of a lawyer standing up to a deity has struck a chord with viewers, especially in Tamil Nadu, where ticket sales remain robust.",
+    "img": "https://static.toiimg.com/photo/msid-131147662,imgsize-119376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karuppu-box-office-collections-day-2-suriya-and-trisha-krishnans-film-surges-51-crosses-rs-66-04-cr-worldwide/articleshow/131147658.cms",
+    "time": "2026-05-17T00:16:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Litton Das century rescues Bangladesh on opening day of second test against Pakistan",
+    "desc": "Litton Das hammered 126 runs off 159 balls with 16 fours and two sixes to help Bangladesh post 278 all out in its first innings before Pakistan reached 21 without loss at stumps, trailing by 257",
+    "img": "https://th-i.thgim.com/public/incoming/ic80zk/article70989022.ece/alternates/LANDSCAPE_1200/AFP_B3223A7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/litton-das-century-rescues-bangladesh-on-opening-day-of-second-test-against-pakistan/article70988589.ece",
+    "time": "2026-05-16T23:38:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi in The Netherlands",
+    "desc": "Prime Minister Modi warned that global challenges like pandemics, wars, and energy crises could push a large population back into poverty, potentially undoing decades of progress. He highlighted India's \"unprecedented\" transformation under his leadership, urging the diaspora to join the nation's journey towards becoming a developed country.",
+    "img": "https://static.toiimg.com/photo/msid-131147593,imgsize-1370249.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gains-of-past-decades-will-be-lost-if-crisis-continues-pm-modi-in-the-netherlands/articleshow/131147592.cms",
+    "time": "2026-05-16T23:31:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Charging McIlroy grabs share of the PGA lead",
+    "desc": "Midway co-leaders Maverick McNealy and Alex Smalley were preparing to tee off when McIlroy joined them atop the leaderboard at four-under par with a five-foot birdie putt at the 13th after blasting out of a bunker",
+    "img": "https://th-i.thgim.com/public/incoming/1o9ff1/article70988582.ece/alternates/LANDSCAPE_1200/2026-05-16T192331Z_1432623327_MT1USATODAY28975745_RTRMADP_3_PGA-PGA-CHAMPIONSHIP-THIRD-ROUND.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/charging-mcilroy-grabs-share-of-the-pga-lead/article70988583.ece",
+    "time": "2026-05-16T23:05:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Suvendu targets Abhishek, says all his properties will be accounted for",
+    "desc": "West Bengal Chief Minister Suvendu Adhikari held his first public meeting after winning elections at Falta, which falls under the Diamond Harbour Lok Sabha seat held by Abhishek Banerjee; Re-polling in the Falta assembly seat will be held on May 21",
+    "img": "https://th-i.thgim.com/public/incoming/cidko2/article70987379.ece/alternates/LANDSCAPE_1200/PTI05_15_2026_000163B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-cm-suvendu-adhikari-alleges-diamond-harbour-people-denied-voting-rights-for-decade/article70987305.ece",
+    "time": "2026-05-16T22:00:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,6 +268,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-sai-sudharsan-scripts-t20-history-becomes-fastest-ever-to-3000-runs/articleshow/131144015.cms",
     "time": "2026-05-16T18:24:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A summer story",
+    "desc": "Searing summer heat has already caused the electricity demand in Tamil Nadu to touch an all-time high this year, even as power managers struggle to maintain sustained power supply. While extensive infrastructure upgrades and anticipatory power purchase agreements are in place, the reality of a financial crisis in the power sector cannot be wished away, says R. Srikanth",
+    "img": "https://th-i.thgim.com/public/incoming/xnzebt/article70988323.ece/alternates/LANDSCAPE_1200/9865_31_10_2025_16_7_28_2_DSC_8527.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-summer-story/article70988333.ece",
+    "time": "2026-05-16T18:13:19.000Z"
   },
   {
     "cat": "Politics",
@@ -207,15 +405,6 @@ const newsData_en = [
     "time": "2026-05-16T14:53:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Malavika reacts to uncomfortable question about Vijay-Trisha",
-    "desc": "Malavika Mohanan recently found herself dealing with an uncomfortable situation during a media interaction after she was asked a question involving Vijay and Trisha Krishnan. The actress responded sharply at the event, and after the clip began circulating widely on social media, she took to X to clarify her stance and call for respectful interactions.",
-    "img": "https://static.toiimg.com/photo/msid-131139675,imgsize-73748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/malavika-mohanan-reacts-after-being-asked-uncomfortable-question-about-vijay-and-trisha-krishnan-what-all-questions-are-you-asking-me/articleshow/131139651.cms",
-    "time": "2026-05-16T14:35:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sunil Narine scripts history, becomes first overseas player to...",
     "desc": "Sunil Narine achieved a significant milestone on Saturday, completing 200 Indian Premier League appearances. He is the first overseas player to reach this mark. Narine has been a key player for Kolkata Knight Riders since 2012. He is recognized for his exceptional bowling economy and has also become a powerful hitter.",
@@ -225,15 +414,6 @@ const newsData_en = [
     "time": "2026-05-16T14:06:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Belmont Cameli helped friend through kidney donation chain",
-    "desc": "Actor Belmont Cameli's selfless act of donating a kidney to a stranger initiated a remarkable 14-person chain, ultimately saving seven lives, including his childhood friend Brendan Flaherty. This complex organ swap, requiring immense patience and coordination, highlights Cameli's profound generosity. His inspiring story has resurfaced as his career gains momentum, drawing attention to this life-altering kindness.",
-    "img": "https://static.toiimg.com/photo/msid-131138738,imgsize-88690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/belmont-cameli-once-gave-up-a-kidney-through-a-swap-programme-to-help-his-childhood-friend/articleshow/131138721.cms",
-    "time": "2026-05-16T13:48:42.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Centre approves key NTA appointments as uproar over NEET paper leak intensifies",
     "desc": "Amidst the NEET-UG 2026 paper leak scandal, the government has appointed four new officials to key positions within the National Testing Agency (NTA). The CBI continues its investigation, recently arresting a senior teacher from Pune identified as a key source of leaked Biology questions. Protests and legal challenges are escalating, with demands for accountability and the NTA's dissolution.",
@@ -241,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/centre-approves-key-nta-appointments-as-uproar-over-neet-paper-leak-intensifies/articleshow/131138668.cms",
     "time": "2026-05-16T13:39:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pooja Bedi recalls telling Protima Bedi she was a ‘bad mother’",
-    "desc": "Pooja Bedi recently opened up about her unconventional childhood, revealing how her parents — actor Kabir Bedi and legendary classical dancer-model Protima Bedi — raised her with complete freedom and very few rules. Interestingly, the actress also admitted that despite growing up in such an open environment, she eventually became a much stricter parent herself.",
-    "img": "https://static.toiimg.com/photo/msid-131138613,imgsize-51566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bedi-recalls-telling-protima-bedi-she-was-a-bad-mother-you-never-gave-me-a-curfew/articleshow/131138561.cms",
-    "time": "2026-05-16T13:37:15.000Z"
   },
   {
     "cat": "Politics",
@@ -270,60 +441,6 @@ const newsData_en = [
     "time": "2026-05-16T13:11:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shekhar backs John as next James Bond",
-    "desc": "Filmmaker Shekhar Kapur has endorsed John Abraham for the next James Bond role, citing his screen presence and \"Bond Charm.\" Abraham responded with gratitude, humorously noting he'd practice his martini order. The suggestion ignited social media debate, with users proposing other actors and discussing Abraham's suitability. Abraham's next project is a biographical drama.",
-    "img": "https://static.toiimg.com/photo/msid-131137606,imgsize-36596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-kapur-backs-john-abraham-as-next-james-bond-fan-says-no-bro-if-youre-going-indian-then-it-would-be-arjun-rampal/articleshow/131137571.cms",
-    "time": "2026-05-16T12:42:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No feud with KC Venugopal!' Kerala CM-designate VD Satheesan breaks silence",
-    "desc": "Kerala CM-designate VD Satheesan and senior leader KC Venugopal dismissed reports of internal feuds, asserting that all organizational and cabinet decisions are made jointly through consultations. The oath-taking ceremony for the new Congress-led UDF government is scheduled for May 18, with cabinet formation discussions underway.",
-    "img": "https://static.toiimg.com/photo/msid-131137515,imgsize-63760.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-feud-with-kc-venugopal-kerala-cm-designate-vd-satheesan-breaks-silence/articleshow/131137080.cms",
-    "time": "2026-05-16T12:36:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pooja admits she 'wasn't good actress'",
-    "desc": "Pooja Bedi candidly shared her journey, admitting acting wasn't her forte but she excelled as a sex symbol. She reflected on her marriage to Farhan Furniturewala, valuing their children and his continued friendship post-divorce. Bedi emphasized her decision to separate was for her well-being, finding happiness in both marriage and divorce.",
-    "img": "https://static.toiimg.com/photo/msid-131137495,imgsize-52370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bedi-admits-she-wasnt-good-actress-reveals-she-distracted-people-by-being-sensual/articleshow/131137494.cms",
-    "time": "2026-05-16T12:33:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka shares adorable PICTURES of daughter Malti Marie Chopra Jonas’",
-    "desc": "Priyanka Chopra shared a delightful Instagram photo dump, offering fans a glimpse into her \"current era.\" The collection featured adorable moments with her daughter Malti Marie, including a heartwarming picture of Malti with a horse and a sweet video of her smiling.",
-    "img": "https://static.toiimg.com/photo/msid-131137436,imgsize-44406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-shares-adorable-pictures-of-daughter-malti-marie-chopra-jonas-says-soft-launch-of-my-current-era/articleshow/131137399.cms",
-    "time": "2026-05-16T12:29:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aditi Rao Hydari dazzles fans in elegant saree look",
-    "desc": "Aditi Rao Hydari captivated fans with a recent social media post showcasing her in a traditional saree, humorously remarking on its 'revolutionary' styling. The actress, adorned in an intricately embroidered brown saree and a statement necklace, exuded royal charm. This follows her heartfelt birthday wish for husband Siddharth, whom she affectionately calls her 'manicorn'.",
-    "img": "https://static.toiimg.com/photo/msid-131137338,imgsize-275508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aditi-rao-hydari-wins-hearts-with-elegant-saree-photos-says-wearing-a-saree-the-traditional-way-revolutionary-i-know/articleshow/131137250.cms",
-    "time": "2026-05-16T12:27:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Sack Dharmendra Pradhan now': Rahul Gandhi says NEET paper leak 'betrayed' 22 lakh aspirants",
-    "desc": "Congress leader Rahul Gandhi has intensified his attack on the Centre regarding the NEET-UG 2026 paper leak. He is demanding the immediate removal of Union Education Minister Dharmendra Pradhan. The National Testing Agency cancelled the examination due to evidence of question paper circulation. The Central Bureau of Investigation is investigating the matter. The exam will be re-conducted on June 21.",
-    "img": "https://static.toiimg.com/photo/msid-131137464,imgsize-1029896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sack-dharmendra-pradhan-now-rahul-gandhi-says-neet-paper-leak-betrayed-22-lakh-aspirants/articleshow/131137048.cms",
-    "time": "2026-05-16T12:07:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Not too many smart heads there': Rayudu questions CSK leadership",
     "desc": "Former India batter Ambati Rayudu lamented Chennai Super Kings' lack of experienced heads on the field during their loss to Lucknow Super Giants. He highlighted young pacer Anshul Kamboj's struggles against Mitchell Marsh and Nicholas Pooran, suggesting senior players could have offered crucial support. Rayudu defended Kamboj, attributing his tough outing to exceptional batting.",
@@ -334,39 +451,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "time, watch details and guide",
-    "desc": "Vienna is set to host the Eurovision 2026 Grand Final on May 16th, marking the contest's 70th anniversary. Following Austria's 2025 victory, 25 nations will compete for the coveted title. Viewers can tune in via BBC channels or stream online, with a dual jury and public vote deciding the ultimate winner.",
-    "img": "https://static.toiimg.com/photo/msid-131136711,imgsize-204704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/eurovision-2026-grand-finale-where-to-watch-time-and-full-guide-to-viennas-biggest-music-night/articleshow/131136674.cms",
-    "time": "2026-05-16T12:04:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi moves from 'Achiever' to 'Exemplar' category in LEADS 2025",
-    "desc": "Delhi Chief Minister Rekha Gupta on Saturday said that the national capital has secured a place in the highest 'Exemplar' category in the Logistics Ease Across Different States (LEADS) 2025 Index, marking a major jump from its earlier 'Achiever' status.",
-    "img": "https://static.toiimg.com/photo/msid-131136639,imgsize-1082914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-moves-from-achiever-to-exemplar-category-in-leads-2025/articleshow/131136639.cms",
-    "time": "2026-05-16T11:47:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Saif Ali Khan",
     "desc": "In this conversation with Shreyas Pande, Saif Ali Khan, Rasika Dugal and Manish Chaudhari open up about their upcoming film, ‘Kartavya’, reflecting on their favourite crime-thriller tropes, Saif’s process of working on dialects, the advice he received from Amitabh Bachchan and Deepak Dobriyal, their thoughts on the current streaming landscape, and more",
     "img": "https://th-i.thgim.com/public/incoming/5y3czf/article70984793.ece/alternates/LANDSCAPE_1200/mamata%204.png",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/saif-ali-khan-rasika-dugal-manish-chaudhari-interview/article70984799.ece",
     "time": "2026-05-16T11:29:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "10 ministers allotted portfolios, CM Vijay keeps home, police &amp; public administration",
-    "desc": "The Tamil Nadu Lok Bhavan has announced portfolio allocations for the new cabinet. Chief Minister C Joseph Vijay will lead the government. He has retained key departments. Other ministers have been assigned portfolios including finance, health, and education. This marks a significant administrative development for the new government.",
-    "img": "https://static.toiimg.com/photo/msid-131136372,imgsize-875708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-cabinet-10-ministers-allotted-portfolios-cm-vijay-keeps-home-police-public-administration/articleshow/131136228.cms",
-    "time": "2026-05-16T11:26:12.000Z"
   },
   {
     "cat": "Sports",
@@ -450,24 +540,6 @@ const newsData_en = [
     "time": "2026-05-16T08:31:39.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Hasan Ali leaves field on stretcher after head injury during BAN vs PAK 2nd test",
-    "desc": "Pakistan's Hasan Ali suffered a head injury after a nasty blow while attempting a return catch on day one of the second Test against Bangladesh. He was taken off on a stretcher but thankfully returned to the field later. Earlier, Pakistan's seamers had a strong start, taking early wickets.",
-    "img": "https://static.toiimg.com/photo/msid-131133891,imgsize-963426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hasan-ali-leaves-field-on-stretcher-after-head-injury-during-ban-vs-pak-2nd-test-watch/articleshow/131133859.cms",
-    "time": "2026-05-16T08:04:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Major setback for Cricket Canada as ICC halts funding for six months",
-    "desc": "The International Cricket Council has suspended funding to Cricket Canada for six months due to governance concerns, a significant financial blow as ICC distributions form nearly 63% of its revenue. This follows allegations of breaches in governance, financial oversight, and administrative functioning, alongside ongoing investigations into match integrity and former CEO controversies.",
-    "img": "https://static.toiimg.com/photo/msid-131133159,imgsize-877175.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/major-setback-for-cricket-canada-as-icc-halts-funding-for-six-months/articleshow/131133082.cms",
-    "time": "2026-05-16T06:59:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India-Brics trade booms to $416 billion, but deficit keeps rising",
     "desc": "India's trade with BRICS countries surged over five years, with imports growing significantly faster than exports. This has led to a near doubling of India's trade deficit with the bloc, now reaching $224 billion, primarily driven by increased purchases from Russia and China.",
@@ -495,15 +567,6 @@ const newsData_en = [
     "time": "2026-05-16T05:31:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vicky Kaushal, Katrina Kaif’s Rs 265 crore empire decoded",
-    "desc": "Bollywood's beloved duo, Vicky Kaushal and Katrina Kaif, have established themselves not only as top-tier actors but also as savvy entrepreneurs, boasting a remarkable fortune of over INR 265 crore. Their financial success is not merely from acting—Katrina’s brand, Kay Beauty, has significantly elevated their earnings, while Vicky's recent projects ensure a healthy paycheck.",
-    "img": "https://static.toiimg.com/photo/msid-131111021,imgsize-45724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-and-katrina-kaif-combined-net-worth-inside-their-rs-265-crore-empire-from-sea-facing-juhu-home-luxury-cars-to-business-assets/articleshow/131111021.cms",
-    "time": "2026-05-16T04:16:59.000Z"
-  },
-  {
     "cat": "World",
     "title": "Ukrainian plane carrying explosives grounded in Trinidad and Tobago",
     "desc": "The plane, coming from the Bahamas, landed on Thursday (May 14) at Piarco International Airport in Port of Spain to refuel and was then due to fly on to Libya via Cape Verde, raising police suspicions",
@@ -529,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ex-sinaloa-security-chief-first-of-10-indicted-mexican-officials-to-surrender-to-us-authorities/article70985884.ece",
     "time": "2026-05-16T02:53:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Names don't determine success': Prasidh explains secret behind Gujarat Titans' resurgence",
-    "desc": "After a stuttering start to IPL 2026, Gujarat Titans have emerged as one of the tournament’s most complete sides, with a relentless bowling attack led by Kagiso Rabada, Mohammed Siraj, Prasidh Krishna. Speaking to the Teamofindia.com, Prasidh opens up on GT’s turnaround, the team’s hard-length bowling philosophy, Shubman Gill’s calm leadership and his own evolution after last season’s Purple Cap-winning campaign.",
-    "img": "https://static.toiimg.com/photo/msid-131122045,imgsize-174916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-as-a-smart-bowler-you-keep-repeating-what-works-how-gujarat-titans-hard-length-strategy-is-overwhelming-teams/articleshow/131122036.cms",
-    "time": "2026-05-16T02:30:00.000Z"
   },
   {
     "cat": "Business",
@@ -601,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/demand-for-gold-loans-rising-more-people-resorting-to-pledging-their-gold-ornaments-says-muthoot-finance-md/article70983902.ece",
     "time": "2026-05-15T16:09:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Opposition slams fuel price hike, BJP says ‘unavoidable’",
-    "desc": "a new political row erupts after petrol and diesel prices were hiked by ₹3 per litre. We also track Prime Minister Narendra Modi’s crucial visit to the UAE, more than 100 people lose their lives in devastating storms and lightning strikes across Uttar Pradesh, while new developments emerge in the U.S. bribery case involving Gautam Adani and Sagar Adani, and more.",
-    "img": "https://th-i.thgim.com/public/news/national/70iii3/article70984248.ece/alternates/LANDSCAPE_1200/MAY%2015%20THUMB%204.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-opposition-slams-fuel-price-hike-bjp-says-unavoidable-above-the-fold-15052026/article70984249.ece",
-    "time": "2026-05-15T15:28:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -676,15 +721,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Actor’s most heartwarming family moments",
-    "desc": "The Surgical Strike’ and ‘Sardar Udham’. While his professional journey continues to soar, it is his close-knit relationship with his loved ones that often wins hearts online. Here’s a look at six adorable family moments that perfectly capture Vicky Kaushal’s warm and grounded personality.",
-    "img": "https://static.toiimg.com/photo/msid-131093519,imgsize-55678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-birthday-vicky-kaushal-with-katrina-kaif-sunny-kaushal-and-family-inside-the-actors-most-heartwarming-moments/photostory/131093519.cms",
-    "time": "2026-05-14T18:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Suriya’s ‘Karuppu’ producer issues legal notice over leaked content; Producers Council seeks relief from Qube provider",
     "desc": "The Tamil Producers Council has issued a letter to the film’s Qube Service Provider seeking compensation for the losses suffered by the producer due to the unauthorised activation of the Key Delivery Message, which led to the illegal screenings of the film in northern states of India",
     "img": "https://th-i.thgim.com/public/entertainment/movies/vu7dxv/article70980162.ece/alternates/LANDSCAPE_1200/HH77BmcbIAAucWS.jfif",
@@ -727,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-a-squad-for-sri-lanka-tri-series/article70978901.ece",
     "time": "2026-05-14T13:24:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Drug ban low, WTC high, now IPL blitz: Rabada reflects on roller-coaster 12 months",
-    "desc": "Rabada missed a majority of last year's IPL to serve a one-month ban for cocaine abuse. But he bounced back within weeks in June 2025 to be a part of the WTC title-winning South African team",
-    "img": "https://th-i.thgim.com/public/incoming/gawu17/article70977964.ece/alternates/LANDSCAPE_1200/IPL%202026%201.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/drug-ban-low-wtc-high-now-ipl-blitz-rabada-reflects-on-roller-coaster-12-months/article70977945.ece",
-    "time": "2026-05-14T10:02:41.000Z"
   },
   {
     "cat": "Entertainment",
