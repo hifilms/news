@@ -1,6 +1,312 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "Why is RCB captain Rajat Patidar not playing vs Punjab Kings?",
+    "desc": "Royal Challengers Bengaluru are without captain Rajat Patidar for their IPL 2026 clash against Punjab Kings, with Jitesh Sharma leading the side. Patidar is recovering well and is expected to return for the next match in Hyderabad. RCB currently sits atop the IPL 2026 points table.",
+    "img": "https://static.toiimg.com/photo/msid-131151734,imgsize-43414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/why-is-rcb-captain-rajat-patidar-not-playing-vs-punjab-kings-explained/articleshow/131151739.cms",
+    "time": "2026-05-17T09:47:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vicky thanks fans after intimate 38th birthday with Katrina and son",
+    "desc": "Vicky Kaushal turned 38 and was overwhelmed by the love from his fans, describing his birthday as \"sukoon aur pyaar se bharaa.\" Wife Katrina Kaif also shared sweet family photos, including a precious moment with their son Vihaan. Vicky is currently shooting for Sanjay Leela Bhansali's 'Love & War'.",
+    "img": "https://static.toiimg.com/photo/msid-131151497,imgsize-66766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sukoon-aur-pyaar-se-bharaa-vicky-kaushal-pens-a-heartfelt-thank-you-note-for-fans-after-intimate-38th-birthday-with-katrina-kaif-and-son-vihaan/articleshow/131151497.cms",
+    "time": "2026-05-17T09:22:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Big blow for RCB! Rajat Patidar misses PBKS clash, Jitesh Sharma to lead",
+    "desc": "Royal Challengers Bengaluru will be without captain Rajat Patidar for their IPL 2026 clash against Punjab Kings. Jitesh Sharma will lead the side in Patidar's absence, who missed travel and practice due to an undisclosed reason. Patidar is expected to return for RCB's final league game.",
+    "img": "https://static.toiimg.com/photo/msid-131151421,imgsize-43762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-big-blow-for-rcb-rajat-patidar-misses-pbks-clash-jitesh-sharma-to-lead/articleshow/131151399.cms",
+    "time": "2026-05-17T09:16:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saif on the meme fest around his ‘Kartavya’ poster touching gesture",
+    "desc": "Saif Ali Khan addressed his viral moment of touching his film poster for 'Kartavya', explaining it was a gesture of good luck for the entire team, not a personal plea for blessings. He admitted the act looked bizarre online but took the resulting memes in good humour, showcasing a sporting attitude towards the internet's amusement.",
+    "img": "https://static.toiimg.com/photo/msid-131151218,imgsize-62448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-on-the-meme-fest-around-his-kartavya-poster-touching-gesture-i-was-like-good-luck-to-us-all-its-absolutely-mad/articleshow/131151200.cms",
+    "time": "2026-05-17T08:55:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "About John Lennon’s last interview",
+    "desc": "Steven Soderbergh's documentary beautifully encapsulates John Lennon’s final moments in a revealing interview conducted mere hours before his tragic passing. The intimate dialogue with Yoko Ono navigates complex topics such as human experience, societal change, and Lennon’s deep reflections on the concept of death.",
+    "img": "https://static.toiimg.com/photo/msid-131151154,imgsize-143572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/until-im-dead-and-buried-john-lennons-haunting-final-words-revealed-in-new-cannes-documentary-john-lennon-the-last-interview-by-steven-soderbergh/articleshow/131151154.cms",
+    "time": "2026-05-17T08:48:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Straight away’: Ravi Shastri backs Sooryavanshi for India debut next month",
+    "desc": "Former India coach Ravi Shastri believes teenage sensation Vaibhav Sooryavanshi is ready for a senior India debut, potentially as early as next month on the Ireland tour. Shastri urged selectors to fast-track the Rajasthan Royals opener into the T20 setup, citing his impressive IPL form and fearless batting against experienced bowlers.",
+    "img": "https://static.toiimg.com/photo/msid-131151165,imgsize-193138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/id-be-looking-into-him-straight-away-ravi-shastri-backs-vaibhav-sooryavanshi-for-india-debut-next-month/articleshow/131151177.cms",
+    "time": "2026-05-17T08:48:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heartbreak for India! Satwik-Chirag finish runners up at Thailand Open",
+    "desc": "India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, finished as runners-up at the Thailand Open 2026 after a close 21-12, 25-23 loss to Indonesia's Leo Rolly Carnando and Daniel Marthin. Despite a strong comeback in the second game, the Indian duo narrowly missed their first title of the season.",
+    "img": "https://static.toiimg.com/photo/msid-131151124,imgsize-73344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/heartbreak-for-india-satwik-chirag-finish-runners-up-at-thailand-open-2026/articleshow/131151120.cms",
+    "time": "2026-05-17T08:44:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Why haven't you sacked education minister?' Rahul Gandhi slams PM Modi over NEET-UG paper leak",
+    "desc": "Rahul Gandhi criticized Prime Minister Modi over the NEET-UG 2026 paper leak, questioning the inaction of Union Education Minister Dharmendra Pradhan. Gandhi drew parallels to the 2024 leak, highlighting repeated paper leaks and the government's response. The NEET-UG 2026 exam was cancelled due to paper leaks, affecting 23 lakh aspirants, with the CBI investigating the matter.",
+    "img": "https://static.toiimg.com/photo/msid-131151102,imgsize-33712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-havent-you-sacked-education-minister-rahul-gandhi-slams-pm-modi-over-neet-ug-paper-leak/articleshow/131151101.cms",
+    "time": "2026-05-17T08:42:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Satwik-Chirag save four championship points before settling for runner-up finish",
+    "desc": "World No. 4 Satwik and Chirag looked off-colour in the opening game but showed great mental fortitude under pressure in the second to almost take the match to the decider before losing 12-21 23-25 in the summit clash",
+    "img": "https://th-i.thgim.com/public/incoming/6d7tw9/article70989912.ece/alternates/LANDSCAPE_1200/IMG_Sports_Yonex_Sunrise_2_1_N7DS3HP7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/thailand-open-badminton-championship-on-may-17-2026/article70989905.ece",
+    "time": "2026-05-17T08:28:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saurabh Dwivedi gets TROLLED over acting in Saif's 'Kartavya'",
+    "desc": "Saif Ali Khan's new crime drama 'Kartavya' is drawing mixed reactions, with journalist-turned-actor Saurabh Dwivedi facing severe online backlash for his performance. Viewers on X have criticized his acting as wooden and compared his dialogue delivery to a news report. Many feel his portrayal was so weak that even Arjun Kapoor would be a significant improvement. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131150884,imgsize-37964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-kapoor-is-10-times-better-journalist-turned-actor-saurabh-dwivedi-brutally-trolled-for-his-debut-in-saif-ali-khan-starrer-kartavya/articleshow/131150844.cms",
+    "time": "2026-05-17T08:26:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Foreign investors pull Rs 27,000 crore in May; 2026 outflows cross Rs 2.2 lakh crore mark",
+    "desc": "Foreign investors have continued their withdrawal from Indian equities, with net outflows reaching Rs 27,048 crore this month. This selling spree, totaling Rs 2.2 lakh crore in 2026, is driven by global macroeconomic uncertainty, geopolitical tensions, and a stronger US dollar making developed markets more attractive.",
+    "img": "https://static.toiimg.com/photo/msid-131150895,imgsize-2166328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-selling-foreign-investors-pull-rs-27000-crore-in-may-2026-outflows-cross-rs-2-2-lakh-crore-mark/articleshow/131150641.cms",
+    "time": "2026-05-17T08:17:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Among top source markets, US expects biggest fall in visitors from India this year",
+    "desc": "US forecasts a significant drop in Indian visitors by over 4% in 2026, making it the second largest overseas source market after the UK. This decline is attributed to visa issues, reduced flight connectivity, high airfares, and a depreciating rupee. Japan and Brazil are expected to surpass India in visitor numbers.",
+    "img": "https://static.toiimg.com/photo/msid-131150899,imgsize-196667.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/among-top-source-markets-us-expects-biggest-fall-in-visitors-from-india-this-year/articleshow/131150876.cms",
+    "time": "2026-05-17T08:16:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Urvashi's Cannes look sparks copying row: '...Gigi Hadid's saree'",
+    "desc": "Urvashi Rautela's Cannes appearance sparked a massive copying row on social media, as her ivory and gold saree looked strikingly similar to Gigi Hadid's iconic look. Fashion page Diet Sabya and several users trolled her mercilessly for it. On the work front, she was last seen in Daaku Maharaj.",
+    "img": "https://static.toiimg.com/photo/msid-131150886,imgsize-102124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urvashi-rautelas-cannes-2026-look-sparks-copying-row-first-indian-woman-to-wear-a-first-copy-of-gigi-hadids-saree/articleshow/131150886.cms",
+    "time": "2026-05-17T08:14:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam breaks Ben Stokes' WTC record during BAN vs PAK second Test",
+    "desc": "Babar Azam's resilient 68 guided Pakistan through a tough spot on Day 2 against Bangladesh, marking his return from injury. This crucial half-century propelled him past Ben Stokes in the ICC World Test Championship's most fifty-plus scores list, showcasing his consistent performance in the prestigious tournament.",
+    "img": "https://static.toiimg.com/photo/msid-131150722,imgsize-35162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-breaks-ben-stokes-world-test-championship-record-during-ban-vs-pak-second-test/articleshow/131150703.cms",
+    "time": "2026-05-17T07:57:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Top 10 firms bleed Rs 3.12 lakh crore in market cap; Reliance biggest loser",
+    "desc": "Indian markets experienced a significant downturn last week, with the top 10 most valued firms losing Rs 3.12 lakh crore. Geopolitical tensions, a weakening rupee, and rising inflation, exacerbated by surging crude oil prices, drove the decline. Reliance Industries saw the steepest fall, while Bharti Airtel was the sole gainer among the giants.",
+    "img": "https://static.toiimg.com/photo/msid-131150586,imgsize-92166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-top-10-firms-bleed-rs-3-12-lakh-crore-in-market-cap-reliance-biggest-loser/articleshow/131149897.cms",
+    "time": "2026-05-17T07:57:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I had to see him’: Ganguly reveals why he briefly delayed Dhoni’s India call-up",
+    "desc": "Sourav Ganguly revealed he personally scouted MS Dhoni, travelling to Jamshedpur to witness his domestic prowess before his national selection. Ganguly emphasised fast-tracking exceptional talent, believing it crucial for player development. This philosophy, coupled with Saba Karim's initial praise for Dhoni's six-hitting ability, led to his swift integration into the Indian team, shaping a legendary career.",
+    "img": "https://static.toiimg.com/photo/msid-131150660,imgsize-62596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-had-to-see-him-before-final-call-sourav-ganguly-reveals-why-he-briefly-delayed-ms-dhonis-india-call-up/articleshow/131150631.cms",
+    "time": "2026-05-17T07:50:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Jane Fonda ask Alia to step aside on red carpet at Cannes?",
+    "desc": "A brief video from Cannes featuring Alia Bhatt, Jane Fonda, Heidi Klum, and Carlos Sainz has ignited social media debate. Viewers are divided over whether Fonda asked Bhatt to step aside for photos, with the clip's unclear audio fueling speculation. Bhatt's earlier red carpet appearance also drew attention for photographers' focus elsewhere. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131150556,imgsize-110248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-hollywood-legend-jane-fonda-ask-alia-bhatt-to-step-aside-on-the-red-carpet-with-heidi-klum-and-carlos-sainz-watch-viral-cannes-video/articleshow/131150552.cms",
+    "time": "2026-05-17T07:49:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Recipe for ecological disaster’: Congress writes to Rajnath Singh flagging environmental concerns over Great Nicobar project",
+    "desc": "Congress leader Jairam Ramesh has urged Defence Minister Rajnath Singh to reconsider the Great Nicobar Island Project, deeming it an \"ecological disaster.\" He argued that while strengthening defence is crucial, the project's commercial aspects outweigh security needs and could harm the region's ecology and tribal rights. Ramesh proposed alternative infrastructure expansions with lower environmental impacts.",
+    "img": "https://static.toiimg.com/photo/msid-131150501,imgsize-51368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/recipe-for-ecological-disaster-congress-flags-environmental-concerns-over-great-nicobar-project-in-letter-to-rajnath-singh/articleshow/131150410.cms",
+    "time": "2026-05-17T07:48:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "V.D. Satheesan",
+    "desc": "A self-described supporter of Nehruvian socialism, the Congress leader who steered the party-led alliance, out of power for a decade, to an emphatic victory over the Left Democratic Front in Kerala, is now set to take the reins of the State",
+    "img": "https://th-i.thgim.com/public/news/national/hw4f0h/article70988218.ece/alternates/LANDSCAPE_1200/VD_Satheesan_CM-Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/vd-satheesan-the-nehruvian-revivalist/article70988221.ece",
+    "time": "2026-05-17T07:41:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varun, Kriti's 'Tera Ho Jaun' dance sends the internet into a frenzy",
+    "desc": "Varun Dhawan and Kriti Sanon delighted fans with a fun dance video to 'Tera Ho Jaun' from their upcoming film 'Hai Jawani Toh Ishq Hona Hi Hai'. Joined by Nupur Sanon, Stenben, and Varun Sharma, their energetic performance, along with an adorable dog, became a viral sensation, with fans calling it their favorite internet moment.",
+    "img": "https://static.toiimg.com/photo/msid-131150550,imgsize-61548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-and-kriti-sanons-tera-ho-jaun-dance-reunion-sends-the-internet-into-a-frenzy-nupur-sanon-reacts/articleshow/131150525.cms",
+    "time": "2026-05-17T07:39:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Major anti-encroachment drive conducted to clear out Howrah station area in Bengal",
+    "desc": "Many temporary stalls and structures occupying footpaths and public spaces near the bus stand and Ganga ghat area were removed using bulldozers and earthmovers as part of a railway land clearance initiative for passengers' convenience",
+    "img": "https://th-i.thgim.com/public/incoming/xw8itl/article70989830.ece/alternates/LANDSCAPE_1200/PTI05_17_2026_000042B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/major-anti-encroachment-drive-conducted-to-clear-out-howrah-station-area-in-bengal/article70989803.ece",
+    "time": "2026-05-17T07:35:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer and Aditya hug and iron out differences in secret closed-door meeting",
+    "desc": "Ranveer Singh, riding high on two back-to-back hits, recently met Yash Raj Films' Aditya Chopra in a closed-door meeting, where the two ironed out their differences and discussed future collaborations. Chopra has promised a feature film within six months. Ranveer also has Immortals of Meluha and Pralay in the pipeline.",
+    "img": "https://static.toiimg.com/photo/msid-131150449,imgsize-26040.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-and-aditya-chopra-hug-and-iron-out-differences-in-secret-closed-door-meeting-amid-dhurandhar-success-report/articleshow/131150449.cms",
+    "time": "2026-05-17T07:26:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Not Vijay! THIS Tamil actor used ‘Ilaya Thalapathy’ first",
+    "desc": "While Vijay is globally recognized as 'Thalapathy,' the title's origin traces back to actor Saravanan, who was reportedly the original 'Ilaya Thalapathy' in the 1990s. Saravanan gracefully ceded the title as Vijay's popularity grew, allowing it to become synonymous with the star. Saravanan continues his acting career in supporting roles.",
+    "img": "https://static.toiimg.com/photo/msid-131150418,imgsize-140138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/not-vijay-but-this-tamil-actor-was-the-original-ilaya-thalapathy-long-before-mersal-star-all-about-salem-event-that-changed-everything/articleshow/131150395.cms",
+    "time": "2026-05-17T07:23:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HeLa to a new world where progress in science matches dignity for patient",
+    "desc": "The omission of Henrietta Lacks, who donated the immortal cells that have facilitated biomedical research, from scientific history is a rare wrong that has been righted, recently. Thanks to the battle her family fought, today, more regulations will govern ethical research.",
+    "img": "https://th-i.thgim.com/public/incoming/os4172/article70989679.ece/alternates/LANDSCAPE_1200/Hela.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/hela-to-a-new-worldwhereprogress-in-science-matches-dignity-for-patient/article70989564.ece",
+    "time": "2026-05-17T07:17:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anurag Kashyap faces criminal case in anti-Brahmin post row",
+    "desc": "In a significant legal development, a court in Gujarat has initiated criminal proceedings against filmmaker Anurag Kashyap, citing his recent social media comments that allegedly target the Brahmin community. Citing concerns over potential communal discord, the court has issued a non-bailable warrant for his arrest. As of now, Kashyap has not publicly responded to the unfolding situation. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131150250,imgsize-111474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-criminal-case-after-surat-court-rules-on-controversial-anti-brahmin-post-on-twitter-non-bailable-warrant-issued/articleshow/131150233.cms",
+    "time": "2026-05-17T07:11:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Raaka' director Atlee and wife Priya reveal name of newborn daughter",
+    "desc": "Filmmaker Atlee Kumar and his wife Priya have revealed their newborn daughter's name, Miyou, meaning \"beauty, gentleness & love.\" The couple welcomed their second child in April 2026, sharing the news on Instagram alongside their son Meer. This personal milestone coincides with Atlee's work on the pan-Indian film 'Raaka'.",
+    "img": "https://static.toiimg.com/photo/msid-131150006,imgsize-32348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/raaka-director-atlee-and-wife-priya-reveal-adorable-name-of-their-newborn-daughter-with-son-meer-what-does-miyou-mean-our-art-of-love-now-has-a-name/articleshow/131150005.cms",
+    "time": "2026-05-17T06:57:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Brad Pitt",
+    "desc": "'The essence of our existence is intertwined with those we connect with, leaving an indelible imprint on who we are.' He underscored that the real value lies not in personal accolades, but in the vibrant relationships that influence our creative paths and foster personal evolution.",
+    "img": "https://static.toiimg.com/photo/msid-131150095,imgsize-64612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-brad-pitt-i-dont-know-if-any-of-what-we-do-matters-in-the-end-what-i-do-know-that-matters-is-people-we-hitch-ourselves-to-/articleshow/131150095.cms",
+    "time": "2026-05-17T06:56:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Granite quarrying ‘kicking up dust’",
+    "desc": "The villages of Kuppam, Bangarupalem and Palamaner in Andhra Pradesh’s Chittoor district have been witnessing year-round granite mining activities. Although a regulatory system is in place, many operators resort to illegal quarrying which has repeatedly come under the scrutiny of the National Green Tribunal. The issue even drew political attention when TDP chief N. Chandrababu Naidu inspected quarries a few years ago, and expressed concern over unchecked mining, environmental damage and revenue loss, reports K. Umashanker",
+    "img": "https://th-i.thgim.com/public/incoming/5y0atk/article70980006.ece/alternates/LANDSCAPE_1200/10745_14_5_2026_19_12_17_1_3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/granite-quarrying-kicking-up-dust/article70979990.ece",
+    "time": "2026-05-17T06:32:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer on the verge of history, set to become 5th captain to...",
+    "desc": "Shreyas Iyer is set to captain Punjab Kings in his 100th IPL match, a significant milestone. He joins an elite group of captains with this achievement. Iyer boasts an impressive win percentage and has led three different franchises to IPL finals. This landmark game comes as PBKS battles to revive their playoff hopes after a string of defeats.",
+    "img": "https://static.toiimg.com/photo/msid-131149872,imgsize-878839.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-shreyas-iyer-on-the-verge-of-history-set-to-become-5th-captain-to-/articleshow/131149883.cms",
+    "time": "2026-05-17T06:31:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Rahmat Shah no more? Viral post sparks panic among fans",
+    "desc": "A social media post by Karim Janat mistakenly led fans to believe Afghanistan batter Rahmat Shah had passed away due to an inaccurate Instagram translation. The post was actually a condolence message for the death of Rahmat Shah's mother, not the cricketer himself. The confusion was clarified, confirming Rahmat Shah is alive.",
+    "img": "https://static.toiimg.com/photo/msid-131149796,imgsize-49262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/is-afghanistan-star-cricketer-rahmat-shah-no-more-viral-social-media-post-sparks-panic-among-fans/articleshow/131149779.cms",
+    "time": "2026-05-17T06:24:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priya Dutt shares RARE PICS of father Sunil Dutt and young Sanjay Dutt",
+    "desc": "Priya Dutt shared a nostalgic family photograph featuring a young Sanjay Dutt and their father, Sunil Dutt. Her accompanying emotional note expressed gratitude for the bonds that have shaped her life. The post resonated with fans, who fondly remembered the Dutt family and Sunil Dutt's enduring legacy.",
+    "img": "https://static.toiimg.com/photo/msid-131149758,imgsize-44618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priya-dutt-shares-rare-family-pics-featuring-father-sunil-dutt-and-a-young-sanjay-dutt-fans-get-emotional-beautiful-family/articleshow/131149607.cms",
+    "time": "2026-05-17T06:17:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan on working with Sooraj Barjatya and Sanjay Dutt",
+    "desc": "Salman Khan reflected on his decades-long journey in Bollywood. He spoke about his bond with Sooraj Barjatya, his iconic shirtless song Oh Oh Jaane Jaana, and his belief that \"Taj Mahal is never built on hate.\" He next stars in Maatrubhumi and SVC63.",
+    "img": "https://static.toiimg.com/photo/msid-131149698,imgsize-17030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maatrubhumi-star-salman-khan-on-working-with-sooraj-barjatya-and-sanjay-dutt-work-with-people-whom-you-like-taj-mahal-is-never-built-on-hate/articleshow/131149698.cms",
+    "time": "2026-05-17T06:09:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shekhar Suman recalls moment he interviewed Bal Thackeray",
+    "desc": "Shekhar Suman returns to television with his new YouTube show, 'Shekhar Tonite,' featuring Union Minister Nitin Gadkari. During the premiere, Suman recounted a memorable 3 AM call from Bal Thackeray, leading to a bold on-air exchange where Thackeray declared himself a fascist, stating India needed one. This electrifying interview remains a highlight for Suman. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131149595,imgsize-104152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-suman-recalls-how-bal-thackeray-called-him-at-3-am-and-agreed-to-an-interview-the-very-next-day-that-man-had-an-aura-about-him/articleshow/131149543.cms",
+    "time": "2026-05-17T06:03:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhamaal 4’ posponted: Ajay Devgn gives Akshay Kumar's film a solo run",
+    "desc": "Bollywood sees rare coordination as Ajay Devgn reportedly shifts 'Dhamaal 4' release to July 17, avoiding a clash with Akshay Kumar's 'Welcome To The Jungle' on June 26. This mutual decision, driven by friendship and business acumen, aims to benefit both family comedies and audiences by providing breathing room. The move highlights industry unity and smart release strategy.",
+    "img": "https://static.toiimg.com/photo/msid-131149619,imgsize-49984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhamaal-4-postponed-ajay-devgn-gives-akshay-kumar-starrer-welcome-to-the-jungle-a-solo-run/articleshow/131149611.cms",
+    "time": "2026-05-17T06:03:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill enters exclusive captaincy list with Virat, Sachin",
     "desc": "Shubman Gill etched his name in IPL history, becoming one of the few captains to achieve multiple 500-run seasons. Despite Gujarat Titans' loss, Gill's 85 against Kolkata Knight Riders secured his second such milestone. He joins legends like Tendulkar and Kohli in this elite club, showcasing consistent batting prowess while leading his team.",
     "img": "https://static.toiimg.com/photo/msid-131149398,imgsize-78100.cms",
@@ -25,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-suman-recalls-how-atal-bihari-vajpayee-stopped-his-motorcade-to-praise-him-for-his-mimicry-when-you-mimic-me-i-laugh-the-loudest/articleshow/131149401.cms",
     "time": "2026-05-17T05:38:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "HeLa to a new world where progress in science matches dignity for patient",
-    "desc": "The omission of Henrietta Lacks, who donated the immortal cells that have facilitated biomedical research, from scientific history is a rare wrong that has been righted, recently. Thanks to the battle her family fought, today, more regulations will govern ethical research.",
-    "img": "https://th-i.thgim.com/public/incoming/os4172/article70989679.ece/alternates/LANDSCAPE_1200/Hela.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/hela-to-a-new-worldwhereprogress-in-science-matches-dignity-for-patient/article70989564.ece",
-    "time": "2026-05-17T05:31:41.000Z"
   },
   {
     "cat": "Business",
@@ -126,24 +423,6 @@ const newsData_en = [
     "time": "2026-05-17T04:31:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Josh Duhamel and Audra Mari welcome second child together",
-    "desc": "In a heartwarming turn of events, actor Josh Duhamel and his wife Audra Mari proudly introduced their newest family member, a charming baby girl named Rocca de Leon Duhamel. With this addition, the beloved star of 'Transformers' has embraced fatherhood for the third time, sharing tender moments as his two-year-old son Shepherd meets his little sister.",
-    "img": "https://static.toiimg.com/photo/msid-131148806,imgsize-148118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/josh-duhamel-and-his-wife-audra-mari-welcome-newborn-daughter-rocca-de-leon/articleshow/131148791.cms",
-    "time": "2026-05-17T04:28:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Director Buchi Babu rejected 3 AR Rahman tunes for ‘Peddi’",
-    "desc": "Director Buchi Babu Sana revealed he rejected three tunes from AR Rahman for Ram Charan's 'Peddi', emphasizing his clear vision. He also shared pitching Janhvi Kapoor's role to her sister Khushi first. The village-based sports action drama, featuring Charan in dual roles, is set for a June 4 release with the trailer dropping tomorrow.",
-    "img": "https://static.toiimg.com/photo/msid-131148751,imgsize-642804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-director-buchi-babu-sana-reveals-he-rejected-three-ar-rahman-tunes-for-ram-charan-starrer/articleshow/131148723.cms",
-    "time": "2026-05-17T04:16:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "20,000-tonne LPG carrier Symi arrives in Gujarat after crossing Strait of Hormuz",
     "desc": "A Marshall Islands-flagged LPG carrier carrying nearly 20,000 tonnes of fuel safely docked in Kandla, having crossed the Strait of Hormuz. This marks a crucial energy supply movement amidst ongoing Middle East conflict, which has disrupted India's crude reserves by nearly 15%.",
@@ -151,33 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/20000-tonne-lpg-carrier-symi-arrives-in-gujarat-after-crossing-strait-of-hormuz/articleshow/131148631.cms",
     "time": "2026-05-17T04:15:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mohanlal joins hands with Dileesh Pothan",
-    "desc": "A highly anticipated collaboration between Malayalam superstar Mohanlal and acclaimed director Dileesh Pothan has been officially confirmed by producer Antony Perumbavoor. Reports also suggest Asif Ali will feature in a significant role. This project, produced by Shibu Baby John, promises a fresh cinematic experience for audiences. Mohanlal is currently engaged with 'Athimanoharam' and 'Drishyam 3' is slated for release next.",
-    "img": "https://static.toiimg.com/photo/msid-131148737,imgsize-125710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-star-mohanlal-joins-hands-with-dileesh-pothan-antony-perumbavoor-confirms-new-film/articleshow/131148710.cms",
-    "time": "2026-05-17T04:14:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rihanna and A$AP Rocky rent out a slime museum son’s birthday",
-    "desc": "Rihanna and A$AP Rocky threw an extravagant fourth birthday bash for their son RZA, renting out an entire slime museum in New York City. The couple, along with their other children, enjoyed a night filled with slime attractions and custom balloon decor. This follows last year's colorful museum party, showcasing their flair for unique celebrations.",
-    "img": "https://static.toiimg.com/photo/msid-131148722,imgsize-27092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihanna-and-aap-rocky-rent-out-a-slime-museum-in-nyc-for-their-sons-4th-birthday/articleshow/131148711.cms",
-    "time": "2026-05-17T04:12:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ayushmann Khurrana says, 'Maine saare taboo topics khatam'",
-    "desc": "Ayushmann Khurrana, celebrated for his thought-provoking roles, is now embracing the world of family-centric films. With a sense of having navigated through the realm of societal taboos, he recognizes the shifting dynamics of post-pandemic audiences. This pivot marks his intention to create relatable content that resonates with families, aiming for box office triumph following some recent flops.",
-    "img": "https://static.toiimg.com/photo/msid-131148492,imgsize-106738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayushmann-khurrana-says-hes-focusing-only-on-family-entertainers-now-saare-taboo-topics-khatam-kar-diye-hain/articleshow/131148461.cms",
-    "time": "2026-05-17T04:04:06.000Z"
   },
   {
     "cat": "Sports",
@@ -189,15 +441,6 @@ const newsData_en = [
     "time": "2026-05-17T03:46:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Megan Fox reveals her ‘super strict’ diet",
-    "desc": "Megan Fox embodies fitness with her incredible physique, especially those chiseled abs. Her commitment to health is unwavering, as she meticulously follows a rigorous diet that eliminates most carbs and junk food. In her quest for a pristine lifestyle, she stays away from both alcohol and caffeine.",
-    "img": "https://static.toiimg.com/photo/msid-131148406,imgsize-39082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-megan-fox-revealed-her-super-strict-diet-and-said-i-cut-out-all-bread/articleshow/131148385.cms",
-    "time": "2026-05-17T03:40:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How PBKS vs RCB could decide Chennai Super Kings’ IPL 2026 playoff fate",
     "desc": "Chennai Super Kings' IPL 2026 playoff hopes hinge on the Punjab Kings vs. Royal Challengers Bengaluru match. An RCB victory would simplify CSK's path to qualification, allowing them to control their destiny by winning their remaining two games. A PBKS win, however, would intensify the pressure and potentially lead to a Net Run Rate battle.",
@@ -205,24 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/how-pbks-vs-rcb-could-decide-chennai-super-kings-ipl-2026-playoff-fate/articleshow/131148336.cms",
     "time": "2026-05-17T03:17:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farah Khan RUBBISHES Saif's 'Main Hoon Na' casting claim",
-    "desc": "Bollywood director Farah Khan has refuted actor Saif Ali Khan's claim that she rejected him for a role in her 2004 hit 'Main Hoon Na'. Saif had stated Shah Rukh Khan had offered him a part, but Farah later intervened. Farah Khan, however, expressed surprise, stating, \"First I'm hearing of this,\" leaving fans to speculate about the film's casting history. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131148230,imgsize-137322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-rubbishes-saif-ali-khans-main-hoon-na-casting-claim-first-im-hearing-this/articleshow/131148223.cms",
-    "time": "2026-05-17T03:02:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ravi Mohan and Aarti Ravi divorce row explained",
-    "desc": "Ravi Mohan breaks his silence regarding his recent separation from Aarti Ravi and his entanglement with singer Keneeshaa Francis, who has now departed from Chennai due to negative public reactions. In a heartfelt statement, Ravi recounts the emotional challenges he's faced over the years and his battle to maintain a relationship with his sons.",
-    "img": "https://static.toiimg.com/photo/msid-131148222,imgsize-69344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ravi-mohan-and-aarti-ravi-divorce-row-explained-keneeshaa-francis-steps-away-actor-puts-film-career-on-hold/articleshow/131148215.cms",
-    "time": "2026-05-17T02:56:19.000Z"
   },
   {
     "cat": "Sports",
@@ -234,24 +459,6 @@ const newsData_en = [
     "time": "2026-05-17T02:51:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Meghan Markle got fashion help from Princess Lilibet",
-    "desc": "Meghan Markle recently delighted her followers with an adorable Instagram post featuring her fashion-savvy daughter, Princess Lilibet, dishing out style tips from their stunning walk-in closet. This update comes on the heels of heartwarming family celebrations, such as a fun-filled trip to Disneyland for Archie and Lilibet's birthdays.",
-    "img": "https://static.toiimg.com/photo/msid-131148018,imgsize-110120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meghan-markle-shares-a-sweet-mirror-selfie-as-princess-lilibet-steps-in-as-her-little-fashion-helper/articleshow/131148008.cms",
-    "time": "2026-05-17T02:42:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zoë Kravitz dances at the Harry Styles tour’s opening night",
-    "desc": "At Harry Styles' electrifying concert in Amsterdam, Zoë Kravitz lit up the scene, sharing playful moments with his mother on the dance floor. Whispers are swirling that she may have contributed her voice to the tour's intro video, hinting at a potential collaboration. This sighting has sparked fresh excitement regarding their rumored secret engagement.",
-    "img": "https://static.toiimg.com/photo/msid-131148134,imgsize-41108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/zo-kravitz-dances-at-the-opening-night-of-harry-styles-together-together-tour-in-amsterdam/articleshow/131148021.cms",
-    "time": "2026-05-17T02:34:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Srikkanth",
     "desc": "Kris Srikkanth lauded Jasprit Bumrah's captaincy in Mumbai Indians' win over Punjab Kings. Bumrah's leadership inspired bowlers like Shardul Thakur and Deepak Chahar, who took crucial wickets. The team displayed a strong will to win, with Tilak Varma's explosive batting sealing the chase. Srikkanth highlighted Bumrah's encouraging presence as a key factor in the bowlers' confidence and performance.",
@@ -259,24 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-jasprit-bumrah-coming-in-as-captain-a-fantastic-move-kris-srikkanth/articleshow/131148088.cms",
     "time": "2026-05-17T02:30:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yograj Singh seeks anticipatory bail in 'Lukkhe' series row",
-    "desc": "In a twist of controversy, former cricketer Yograj Singh has approached the court for anticipatory bail following an FIR linked to his character's disparaging comments about women in the web series 'Lukkhe'. The offensive clip has ignited outrage, prompting the Punjab Women's Commission to act on its own accord, calling for a thorough investigation. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131147909,imgsize-106644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuvraj-singhs-father-yograj-singh-seeks-anticipatory-bail-in-fir-linked-to-lukkhe-series-controversy/articleshow/131147908.cms",
-    "time": "2026-05-17T02:05:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Patriot' BO day 16: Falls below Rs 10 lakh",
-    "desc": "Mammootty and Mohanlal's spy thriller 'Patriot' is experiencing a slowdown in Indian box office collections, now earning under Rs 10 lakh daily. Despite this, strong overseas performance has propelled the film's worldwide gross towards Rs 80 crore. The movie, a political thriller about a surveillance scandal, has garnered praise for Mohanlal's powerful portrayal and technical excellence.",
-    "img": "https://static.toiimg.com/photo/msid-131147961,imgsize-364170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-box-office-collections-day-16-mammootty-and-mohanlal-film-falls-below-rs-10-lakh-worldwide-total-reaches-rs-79-66-cr/articleshow/131147952.cms",
-    "time": "2026-05-17T01:57:13.000Z"
   },
   {
     "cat": "Politics",
@@ -297,15 +486,6 @@ const newsData_en = [
     "time": "2026-05-17T01:41:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Harry Styles launched his tour with a full Amsterdam setlist",
-    "desc": "Harry Styles kicked off his expansive 'Together Together' tour in Amsterdam, featuring a 50-stop global residency. The ambitious undertaking, spanning May to December, includes a significant New York leg with 30 dates. The tour champions charitable causes like Choose Love and HeadCount, while also prioritizing environmental sustainability through Live Nation's Green Nation initiative.",
-    "img": "https://static.toiimg.com/photo/msid-131147903,imgsize-304626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-kicked-off-together-together-tour-in-amsterdam-full-opening-night-setlist-revealed/articleshow/131147899.cms",
-    "time": "2026-05-17T01:41:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Why has the RSS called for dialogue with Pakistan?",
     "desc": "What did RSS leader Dattatreya Hosabale say about ties with Pakistan and what reactions did his remarks trigger in India and Pakistan? Can his statement be read as reflecting government policy? What has the RSS’s stance on talks with Pakistan been?",
@@ -322,33 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-scenarios-with-10-matches-to-go-kkrs-chances-rise-to-10-odds-for-each-team-explained/articleshow/131147873.cms",
     "time": "2026-05-17T01:32:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Raja Shivaji' BO Day 16: Riteish starrer eyes Rs 100 cr mark",
-    "desc": "Riteish Deshmukh's historical epic 'Raja Shivaji' is impressing audiences despite initial doubts, chronicling the life of warrior king Chhatrapati Shivaji Maharaj. The film has achieved a significant box office milestone, nearing Rs 96 crore gross collection. Despite some VFX critiques, the cast and crew's dedication to a tight budget is highlighted, with Abhishek Bachchan emphasizing the disparity with Hollywood productions. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131147836,imgsize-86788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/raja-shivaji-box-office-collection-day-16-riteish-deshmukhs-epic-drama-eyes-rs-100-crore-mark/articleshow/131147830.cms",
-    "time": "2026-05-17T01:22:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rapper Vedan in TROUBLE",
-    "desc": "Rapper Vedan is facing a daunting legal hurdle as scientific examinations verify that a tiger tooth featured on his necklace is indeed legitimate. The Kerala Forest Department is gearing up to file formal charges following this revelation during an unrelated investigation. Although Vedan insists that the necklace was a present, the source of the gift has yet to be identified.",
-    "img": "https://static.toiimg.com/photo/msid-131147837,imgsize-42376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/rapper-vedan-tiger-tooth-case-scientific-test-confirms-necklace-is-genuine-forest-department-set-to-file-chargesheet/articleshow/131147829.cms",
-    "time": "2026-05-17T01:19:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 musical performances in the FIFA World Cup",
-    "desc": "Anthems have a long tradition of bringing people together and representing a community, but only a few can make people get up and dance their hearts out. Many prominent singers, across the globe, have collaborated to perform their songs at the FIFA World Cup. In 2026, Shakira, Madonna, and BTS will co-headline at the Final Halftime Show in New Jersey, USA. The performance will be curated by Chris Martin of Coldplay. However, there have been many performers in the past that the fans just can’t get over. Let’s take a look at the top 5 FIFA World Cup performers of all time.",
-    "img": "https://static.toiimg.com/photo/msid-131147796,imgsize-59768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-madonna-and-bts-to-co-headline-fifa-halftime-show-a-look-at-the-top-5-performers-of-all-time/photostory/131147796.cms",
-    "time": "2026-05-17T01:06:25.000Z"
   },
   {
     "cat": "Politics",
@@ -396,15 +549,6 @@ const newsData_en = [
     "time": "2026-05-16T23:05:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Suvendu targets Abhishek, says all his properties will be accounted for",
-    "desc": "West Bengal Chief Minister Suvendu Adhikari held his first public meeting after winning elections at Falta, which falls under the Diamond Harbour Lok Sabha seat held by Abhishek Banerjee; Re-polling in the Falta assembly seat will be held on May 21",
-    "img": "https://th-i.thgim.com/public/incoming/cidko2/article70987379.ece/alternates/LANDSCAPE_1200/PTI05_15_2026_000163B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-cm-suvendu-adhikari-alleges-diamond-harbour-people-denied-voting-rights-for-decade/article70987305.ece",
-    "time": "2026-05-16T22:00:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Allen, Raghuvanshi and Narine help Knight Riders stay alive",
     "desc": "The opener slams a 35-ball 93; the No. 3 batter adds 108 off just 52 deliveries for the unbroken third wicket with Green to take the home team to 247; poor catching hurts Titans; the wily spinner returns figures of two for 29 to thwart the visitor",
@@ -423,60 +567,6 @@ const newsData_en = [
     "time": "2026-05-16T19:09:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Anti-terror search operation launched across J&amp;K’s Poonch district",
-    "desc": "Jammu and Kashmir's Poonch district is under a massive security sweep following a foiled infiltration bid. Forces are conducting extensive searches across multiple locations after an intruder was neutralized near the Line of Control. Heightened security measures, including stringent vehicle checks, are in place amid unconfirmed reports of a high-profile foreign terrorist presence.",
-    "img": "https://static.toiimg.com/photo/msid-131144712,imgsize-923308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/anti-terror-search-operation-launched-across-jks-poonch-district/articleshow/131143963.cms",
-    "time": "2026-05-16T18:52:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We didn’t deserve to win'- Shubman Gill’s brutal verdict after GT defeat",
-    "desc": "Shubman Gill attributed Gujarat Titans' 29-run loss to Kolkata Knight Riders to poor fielding, stating the team \"didn't deserve to win\" after dropping multiple crucial catches. Despite a strong batting performance led by Gill's 85, GT fell short of KKR's 248, with dropped catches allowing KKR's batsmen to score heavily.",
-    "img": "https://static.toiimg.com/photo/msid-131144331,imgsize-144926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-we-didnt-deserve-to-win-shubman-gills-brutal-verdict-after-gt-defeat-to-kkr/articleshow/131144365.cms",
-    "time": "2026-05-16T18:37:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sai Sudharsan scripts T20 history, becomes fastest-ever to...",
-    "desc": "Sai Sudharsan etched his name in T20 history, becoming the fastest batter to 3000 runs in just 78 innings. Despite Gujarat Titans' loss, Sudharsan showcased his brilliance with an unbeaten 53 and extended his record of consecutive 50+ scores for the franchise to four. He currently leads IPL 2026 in runs.",
-    "img": "https://static.toiimg.com/photo/msid-131144081,imgsize-173234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-sai-sudharsan-scripts-t20-history-becomes-fastest-ever-to-3000-runs/articleshow/131144015.cms",
-    "time": "2026-05-16T18:24:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM SHRI set to be a tightrope walk for UDF government in Kerala",
-    "desc": "Nearly ₹1,100 crore of Samagra Shiksha funds have been withheld by the Union government since 2023-24; CM-designate V.D. Satheesan had slammed the LDF govt. when it signed on to the scheme in October last year",
-    "img": "https://th-i.thgim.com/public/incoming/7k4s98/article70987706.ece/alternates/LANDSCAPE_1200/6678_5_3_2026_10_48_4_2_CLASS_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/pm-shri-implementation-a-tightrope-ahead-for-udf-govt-in-kerala/article70987645.ece",
-    "time": "2026-05-16T18:10:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR’s 18 crore gamble under threat as Pathirana walks off mid-over on debut",
-    "desc": "Matheesha Pathirana's much-anticipated IPL 2026 debut for KKR ended prematurely due to an injury scare, just eight balls into his spell. Despite the concern, the Sri Lankan pacer completed his over before leaving the field. This happened as KKR's batters, led by Finn Allen's explosive 93, dominated Gujarat Titans, posting a massive 247/2.",
-    "img": "https://static.toiimg.com/photo/msid-131142029,imgsize-1149712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kkrs-18-crore-gamble-under-threat-as-matheesha-pathirana-walks-off-mid-over-on-debut/articleshow/131142007.cms",
-    "time": "2026-05-16T17:03:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Raghuvanshi joins Gambhir in elite club as KKR smash highest-ever total vs GT",
-    "desc": "Angkrish Raghuvanshi's stellar IPL 2026 season continues with an unbeaten 82, guiding Kolkata Knight Riders to a colossal 247/2 against Gujarat Titans. This marks his fifth 50-plus score, placing him among KKR's elite and in rare company league-wide for batsmen his age. His composure and acceleration were key in KKR's third-highest total ever.",
-    "img": "https://static.toiimg.com/photo/msid-131141460,imgsize-207876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-angkrish-raghuvanshi-joins-gautam-gambhir-in-elite-club-as-kkr-smash-highest-ever-total-vs-gt/articleshow/131141441.cms",
-    "time": "2026-05-16T16:32:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Global financial environment is extremely challenging, cautions Chief Economic Advisor Nageswaran",
     "desc": "The country should act with urgency, strategic clarity and institutional confidence to secure its place in a rapidly changing global order. Trade skills such as electricians, skilled construction workers and technicians will remain among the most protected and essential jobs in the emerging economy",
@@ -484,33 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/global-financial-environment-is-extremely-challenging-cautions-chief-economic-advisor-nageswaran/article70987329.ece",
     "time": "2026-05-16T15:37:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finn Allen creates KKR history, joins elite six-hitting club",
-    "desc": "Finn Allen's explosive batting continued as he smashed 10 sixes against Gujarat Titans, marking his second IPL innings with such a feat. The KKR opener narrowly missed a century with a blistering 93 off 35 balls, a new KKR record against GT. His aggressive play offers a significant boost to the defending champions' playoff hopes.",
-    "img": "https://static.toiimg.com/photo/msid-131140333,imgsize-199436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-finn-allen-creates-kkr-history-joins-elite-six-hitting-club/articleshow/131140238.cms",
-    "time": "2026-05-16T15:23:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Illegally constituted': MEA rejects Pakistan-backed Court of Arbitration ruling on Indus Waters Treaty",
-    "desc": "India has once again rejected the Court of Arbitration formed under the Indus Waters Treaty. The External Affairs Ministry stated that India never recognized the court's establishment. Any proceedings or awards from this court are considered null and void. India's decision to keep the Indus Waters Treaty in abeyance remains unchanged.",
-    "img": "https://static.toiimg.com/photo/msid-131139929,imgsize-91316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/illegally-constituted-mea-rejects-pakistan-backed-court-of-arbitration-ruling-on-indus-waters-treaty/articleshow/131139827.cms",
-    "time": "2026-05-16T14:53:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Narine scripts history, becomes first overseas player to...",
-    "desc": "Sunil Narine achieved a significant milestone on Saturday, completing 200 Indian Premier League appearances. He is the first overseas player to reach this mark. Narine has been a key player for Kolkata Knight Riders since 2012. He is recognized for his exceptional bowling economy and has also become a powerful hitter.",
-    "img": "https://static.toiimg.com/photo/msid-131139175,imgsize-88342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-sunil-narine-scripts-history-becomes-first-overseas-player-to-complete-200-ipl-matches/articleshow/131139086.cms",
-    "time": "2026-05-16T14:06:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -585,15 +648,6 @@ const newsData_en = [
     "time": "2026-05-16T08:31:39.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-Brics trade booms to $416 billion, but deficit keeps rising",
-    "desc": "India's trade with BRICS countries surged over five years, with imports growing significantly faster than exports. This has led to a near doubling of India's trade deficit with the bloc, now reaching $224 billion, primarily driven by increased purchases from Russia and China.",
-    "img": "https://static.toiimg.com/photo/msid-131132488,imgsize-1273791.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-brics-trade-booms-to-416-billion-but-deficit-keeps-rising/articleshow/131132047.cms",
-    "time": "2026-05-16T06:44:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Cancelled abroad, centrestage in India: Kanye West heads to Delhi",
     "desc": "Cancelled by Australia, barred from the UK and dropped from Wireless Festival, Kanye West now heads to India for his debut in New Delhi. His arrival offers a window into the country’s booming concert economy where songs are tweaked, spontaneity is scripted and controversy is carefully managed",
@@ -601,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/cancelled-abroad-centrestage-in-india-kanye-west-heads-to-delhi/article70924251.ece",
     "time": "2026-05-16T06:24:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why your next meal may cost more?",
-    "desc": "Get ready for pricier meals as India's restaurants and delivery apps plan a 5-10% food cost increase from next week. Soaring fuel prices, coupled with LPG shortages and staff issues, are forcing businesses to pass on rising transportation, packaging, and input expenses. This move disrupts annual pricing cycles, impacting dining out and delivery costs.",
-    "img": "https://static.toiimg.com/photo/msid-131132134,imgsize-1538286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/biryani-on-a-budget-why-your-next-meal-may-cost-more/articleshow/131131371.cms",
-    "time": "2026-05-16T05:31:07.000Z"
   },
   {
     "cat": "World",
@@ -628,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ex-sinaloa-security-chief-first-of-10-indicted-mexican-officials-to-surrender-to-us-authorities/article70985884.ece",
     "time": "2026-05-16T02:53:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "17 years later, the imprints remain",
-    "desc": "Years after the civil war ended, the Tamils of Sri Lanka continue to face poverty, high unemployment, and land-takeovers. They believe that governments have done little to devise a comprehensive plan for the war-battered northern and eastern regions. While a generation of children is growing up with little understanding of the conflict, their parents are grappling with discrimination and deprivation, reports Meera Srinivasan",
-    "img": "https://th-i.thgim.com/public/incoming/fkpkax/article70984339.ece/alternates/LANDSCAPE_1200/AFP_34T477T.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sri-lanka-civil-war-17-years-later-the-imprints-remain/article70984264.ece",
-    "time": "2026-05-15T22:40:41.000Z"
   },
   {
     "cat": "Business",
@@ -801,15 +837,6 @@ const newsData_en = [
     "time": "2026-05-14T08:02:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "The film that launched Ilaiyaraaja’s career",
-    "desc": "Fifty years have passed like a fleeting moment, but the songs of Annakili continue to haunt generations of music lovers. With the film’s release began the extraordinary musical journey of Ilaiyaraaja, whose career would later rise to unparalleled heights. Gangai Amaran, who worked closely with his brother during the composing sessions and served as the rhythm guitarist for the film, recalls those memorable days with B. Kolappan. “The higher octaves in the humming of the song ‘Annakili Unnai Theduthey’ symbolically foreshadowed the great heights Ilaiyaraaja was destined to achieve,” he said.",
-    "img": "https://th-i.thgim.com/public/incoming/jifr14/article70975721.ece/alternates/LANDSCAPE_1200/Editorial%20.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/50-years-of-annakili-the-film-that-launched-ilaiyaraajas-career/article70975723.ece",
-    "time": "2026-05-14T04:36:58.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "AI-enabled oversight layer for continuous electoral roll monitoring",
     "desc": "SIR 2.0 exposed structural weaknesses in electoral roll revision processes; an AI-enabled oversight layer integrated with ECINet could continuously monitor electoral operations, detect anomalies and discriminatory patterns in real time, and strengthen transparency, neutrality, and accountability",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
   }
 ];

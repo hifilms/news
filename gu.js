@@ -1,6 +1,96 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "પંજાબ સામેની મેચમાં અચાનક બદલાયો RCBનો કેપ્ટન, આ ખેલાડીને મળી ટીમની કમાન",
+    "desc": "IPL 2026માં RCBને પહેલીવાર પોતાનો કેપ્ટન બદલવો પડ્યો છે. પંજાબ કિંગ્સ સામેની મેચ નિયમિત કેપ્ટન રજત પાટીદાર રમી રહ્યો નથી. ત્યારે ટીમની કમાન જીતેશ શર્માને સોંપવામાં આવી છે. ત્યારે રજત પાટીદારને કેમ રમી રહ્યો નથી અને ટીમની પ્લેઈંગ ઈલેવન વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rcb-captain-changed-why-is-rajat-patidar-not-playing-against-punjab-kings-478236 ",
+    "time": "2026-05-17T10:05:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કેટલો ખતરનાક છે ઇબોલા વાયરસ, જેનાથી કોંગોમાં 80 લોકોના મોત, WHOએ ગ્લોબલ હેલ્થ ઈમરજન્સીની કરી જાહેર",
+    "desc": "આ વાયરસ વાંદરાઓથી ફેલાય છે અને દર વર્ષે 15000થી વધુના મોતનું કારણ બને છે. એક અહેવાલ મુજબ, મધ્ય અને પશ્ચિમ એશિયામાં સૌથી વધુ કેસ જોવા મળે છે. તેનું નામ ડેમોક્રેટિક રિપબ્લિક ઓફ કોંગોમાં આવેલી નદી પરથી રાખવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/how-dangerous-is-the-ebola-virus-which-has-killed-80-people-in-congo-who-has-declared-a-global-health-emergency-478235 ",
+    "time": "2026-05-17T10:00:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS ધોની આ દિવસે રમશે તેની છેલ્લી IPL મેચ ! CSK લિજેન્ડને ચેન્નાઈમાં મળી શકે છે વિદાય",
+    "desc": "MS ધોની 18 મેના રોજ IPLમાં છેલ્લી વખત જોવા મળી શકે છે. જો તે આ મેચમાં નહીં રમે, તો તે ફરીથી જોવા મળે તેવી શક્યતા ઓછી છે. 44 વર્ષીય ધોની હાલમાં ઈજાના કારણે બહાર છે. ત્યારે જોવાનું એ રહેશે કે ધોની 18 મેએ રમશે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ms-dhoni-will-play-his-last-ipl-match-on-18-may-harsha-bhogle-478227 ",
+    "time": "2026-05-17T09:23:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "iPhone પર WhatsApp ચેટ માટે નવું ફીચર, Meta એ શરૂ કર્યું ટેસ્ટિંગ; જાણો કેવી રીતે કરશે કામ અને ક્યારે થશે લોન્ચ?",
+    "desc": "આઇફોન (iPhone) યુઝર્સ માટે વોટ્સએપ એક નવું ફીચર લોન્ચ કરવાની તૈયારી કરી રહ્યું છે. મેટા કંપનીએ હાલમાં જ આ ફીચરનું ટેસ્ટિંગ શરૂ કર્યું છે, જે જો સફળ રહેશે તો ટૂંક સમયમાં જ ચેટિંગના અનુભવને વધુ બહેતર બનાવવા માટે આ નવું ફીચર રોલ આઉટ (લોન્ચ) કરી દેવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/new-feature-for-whatsapp-chats-on-iphone-meta-begins-testing-find-out-how-it-works-and-when-it-will-launch-478225 ",
+    "time": "2026-05-17T08:44:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "20,000 ટન LPG લઈને ભારત પહોંચ્યું જહાજ, હોર્મુઝ સ્ટ્રેટમાં ઈરાન અને અમેરિકાને કેવી રીતે આપ્યો ચકમો",
+    "desc": "મિડલ ઈસ્ટમાં વધતા તણાવ અને ઓઈલ સંકટ વચ્ચે ભારત માટે રાહતના સમાચાર સામે આવ્યા છે. 20,000 ટન LPG સાથે 'સિમી' જહાજ સુરક્ષિત રીતે ગુજરાતના કંડલા બંદરે પહોંચી ગયું છે. ત્યારે આ જહાજ હોર્મુઝ સ્ટ્રેટમાં ઈરાન અને અમેરિકાને કેવી રીતે ચકમો આપીને ભારત પહોંચ્યું તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-tanker-mv-symi-reaches-india-after-crossing-strait-of-hormuz-478224 ",
+    "time": "2026-05-17T08:23:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઇબોલા વાયરસ કેટલો ખતરનાક છે? કોંગોમાં 80 લોકોના મોત, WHOની ગ્લોબલ ઇમરજન્સીની જાહેરાત",
+    "desc": "આ વાયરસ વાંદરાઓ દ્વારા ફેલાય છે અને તેના કારણે દર વર્ષે 15,000 થી વધુ લોકોના મોત થાય છે. એક અહેવાલ મુજબ, મધ્ય અને પશ્ચિમ એશિયામાં આના દર્દીઓ સૌથી વધુ જોવા મળે છે. ડેમોક્રેટિક રિપબ્લિક ઓફ કોંગોની એક નદીના નામ પરથી આ વાયરસનું નામ રાખવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/how-dangerous-is-the-ebola-virus-80-dead-in-congo-who-declares-global-health-emergency-478208 ",
+    "time": "2026-05-17T08:08:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગેસ કનેક્શન પર મોટો નિર્ણય, જૂનમાં થઈ જશે સસ્પેન્ડ, શું છે ‘નો ડ્યુઅલ કનેક્શન’ નિયમ?",
+    "desc": "દેશમાં છેલ્લા 2 મહિનાથી ઘરેલું-કોમર્શિયલ સિલિન્ડર, કુકિંગ ગેસ, LPG-PNG કનેક્શન ખૂબ ચર્ચામાં છે. જ્યારથી ઈરાન-અમેરિકા યુદ્ધ શરૂ થયું અને હોર્મુઝ સ્ટ્રેટ (Strait of Hormuz) બ્લોક થઈ, ત્યારથી દેશમાં LPG સંકટ ઘેરાયું છે. આ સમસ્યાના ઉકેલ માટે કેન્દ્ર સરકારે LPG કનેક્શન સંબંધિત નિયમો બદલ્યા છે અને લોકોને રાહત આપી છે. આ નિયમોમાંથી એક 'નો ડ્યુઅલ કનેક્શન' (No Dual Connection) નો નિયમ પણ છે, જેને લઈને નવું અપડેટ આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/major-decision-on-gas-connections-set-to-be-suspended-in-june-what-is-the-no-dual-connection-rule-478207 ",
+    "time": "2026-05-17T07:39:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "વધતી મોંઘવારી વચ્ચે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરનો આજનો ભાવ",
+    "desc": "જો તમે આજે તમારી કારની ફ્યુઅલ ટાંકી ભરવાનું વિચારી રહ્યા છો, તો થોડી રાહ જુઓ. કારણ કે પેટ્રોલ અને ડીઝલના નવા દરો હમણાં જ જાહેર થયા છે. આજે તમારા શહેરમાં પેટ્રોલ અને ડીઝલના ભાવ શું છે તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-know-latest-rate-in-your-city-478206 ",
+    "time": "2026-05-17T07:36:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોંઘવારી ભથ્થા અંગે નવું અપડેટ, કેન્દ્રીય કર્મચારીઓ માટે ક્યારે થશે DA એરિયર્સની જાહેરાત?",
+    "desc": "દેશભરના કેન્દ્રીય કર્મચારીઓ જ્યાં એક તરફ 8મા પગાર પંચ (8th Pay Commission)ના અમલીકરણની રાહ જોઈ રહ્યા છે, ત્યાં બીજી તરફ 7મા પગાર પંચ અંતર્ગત વર્ષના બીજા ભાગના મોંઘવારી ભથ્થા (DA)માં વધારાની પણ રાહ જોવાઈ રહી છે. આ અંગે એક નવું અપડેટ આવ્યું છે, તો ચાલો જાણીએ કે મોંઘવારી ભથ્થામાં વધારા અંગે ક્યારે નિર્ણય લેવાશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/new-update-regarding-the-dearness-allowance-find-out-when-the-da-arrears-announcement-will-be-made-for-central-government-employees-478205 ",
+    "time": "2026-05-17T06:58:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "પ્રાઈમ વીડિયોની એવી વેબ સીરીઝ જેને જોયા પછી હનુમાન ચાલીસા બોલવા લાગશો, OTT પર આ સીરીઝે સનસની મચાવી હતી",
+    "desc": "જો તમે ઓટીટી પર હોરર વેબ સીરીઝ જોવાના શોખીન છો તો એક એવી વેબ સીરીઝ વિશે જાણો જેને જોયા પછી મનમાં હનુમાન ચાલીસા બોલવા લાગશો. આ વેબ સીરીઝને આઈએમડીબી પર જોરદાર રેટિંગ પણ મળ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/prime-video-best-horror-hindi-web-series-khauf-web-series-story-imdb-rating-478196 ",
+    "time": "2026-05-17T06:21:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "6,6,6,6,6,6,6,6,6,6,6... T20માં ભારતના આ ખૂંખાર બેટ્સમેનની વિસ્ફોટક બેટિંગ, 28 બોલમાં ઠોકી સૌથી ફાસ્ટ સદી!",
     "desc": "25 વર્ષીય ભારતીય ઓપનર અભિષેક શર્માએ T20 ક્રિકેટમાં સૌથી ઝડપી સદીનો એક મહારેકોર્ડ પોતાના નામે કર્યો છે. 5 ડિસેમ્બર 2024ના રોજ મેઘાલય સામે રમાયેલી સૈયદ મુશ્તાક અલી T20 ટ્રોફીની એક મેચમાં અભિષેક શર્માએ માત્ર 28 બોલમાં સદી ફટકારી દીધી હતી. આ સાથે જ તેણે T20 ક્રિકેટના ઇતિહાસમાં કોઈ ભારતીય દ્વારા નોંધાયેલી સૌથી ઝડપી સદીના મહારેકોર્ડની બરાબરી કરી લીધી હતી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -306,24 +396,6 @@ const newsData_gu = [
     "time": "2026-05-15T06:26:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પેપર લીક બાદ મોટો નિર્ણય, આગામી વર્ષથી ઓનલાઈન લેવાશે NEETની પરીક્ષા, શિક્ષણમંત્રીની જાહેરાત",
-    "desc": "NEET પેપર લીકથી નિરાશ થઈ ગયેલા વિદ્યાર્થીઓ માટે રાહતના સમાચાર સામે આવ્યા છે. નેશનલ ટેસ્ટિંગ એજન્સી અને પેપર લીકના સમાચાર વચ્ચે આખરે કેન્દ્રીય શિક્ષણમંત્રી પ્રથમવાર મીડિયાની સામે આવ્યા છે. તેમણે ન માત્ર ગેરરીતિની વાત સ્વીકારી પરંતુ ડેમેજ કંટ્રોલ કરતા મોટી જાહેરાત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/we-have-zero-tolerance-towards-malpractices-and-this-is-a-long-fight-against-the-examination-mafia-says-union-education-minister-dharmendra-pradhan-477923 ",
-    "time": "2026-05-15T06:15:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પેટ્રોલ-ડીઝલ અને સોના પર અપીલ બાદ હવે શું થશે? વિદેશ પ્રવાસેથી આવી PM મોદી યોજશે મોટી બેઠક",
-    "desc": "કેન્દ્ર સરકાર આપદામાં અવસર કહેવતને ચરીતાર્થ કરવા તરફ આગળ વધતા પશ્ચિમ એશિયા સંકટને પણ અવસરની જેમ જોઈ રહી છે. કોરોના કાળમાં શરૂ કરવામાં આવેલા સુધારા અને સરળતાની દિશામાં વધુ એક પગલું આગળ વધવાની તૈયારી છે. પીએમ મોદી વિદેશ પ્રવાસ બાદ એક મોટી બેઠક યોજવાના છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/a-minister-of-council-meeting-will-be-held-on-may-21-under-the-chairmanship-of-pm-modi-this-issue-will-be-discussed-477919 ",
-    "time": "2026-05-15T05:31:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અભિનેત્રી મૌની રોયના ડિવોર્સની વાત સાચી નીકળી, મૌની પછી સૂરજે પણ લગ્નની તસવીરો ડીલીટ કરી",
     "desc": "મૌની રોયના ડિવોર્સની વાત અફવા નહીં પણ સાચી નીકળી છે. 2 દિવસથી સોશિયલ મીડિયા પર ચાલતી ચર્ચાઓ પર પૂર્ણવિરામ મુકવા મૌની રોયે જ સત્તાવાર રીતે જાહેર કરી દીધું છે કે તે અને સૂરજ નાંબિયાર અલગ થઈ ગયા છે. સાથે જ સૂરજ નાંબિયારે પણ મૌની રોયની બધી જ તસવીરો ડીલીટ કરી દીધી છે.",
@@ -403,24 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/mahindra-thar-roxx-discounts-more-than-1-lakh-in-may-2026-477822 ",
     "time": "2026-05-14T07:52:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિરાટ કોહલીએ રચ્યો ઇતિહાસ, રોહિત અને ધોનીને પણ છોડ્યા પાછળ, બનાવ્યા અનેક મહારેકોર્ડ",
-    "desc": "KKR સામેની મેચ માટે મેદાનમાં ઉતરતાની સાથે જ વિરાટ કોહલીએ IPLના ઇતિહાસમાં એક નવો રેકોર્ડ બનાવ્યો છે. પોતાની 279મી મેચ રમીને તે લીગમાં સૌથી વધુ મેચ રમનાર ખેલાડી બન્યો છે. તેણે એમએસ ધોની અને રોહિત શર્માને પણ પાછળ છોડી દીધા છે. આ ઉપરાંત કોહલીએ આ મેચમાં બીજા પણ કેટલાક રેકોર્ડ પોતાના નામે કર્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-vs-kkr-virat-kohli-breaks-ms-dhoni-and-rohit-sharma-ipl-record-477812 ",
-    "time": "2026-05-14T06:49:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "380 વિકેટ, 10 હજારથી વધુ રન... સનરાઇઝર્સના ઓલરાઉન્ડરે IPL 2026 વચ્ચે અચાનક નિવૃત્તિની કરી જાહેરાત",
-    "desc": "ઈંગ્લેન્ડના અનુભવી સ્પિન ઓલરાઉન્ડર લિયામ ડોસને અચાનક ફર્સ્ટ-ક્લાસ ક્રિકેટમાંથી નિવૃત્તિની જાહેરાત કરીને બધાને ચોંકાવી દીધા છે. 36 વર્ષીય ડોસન હવે ફક્ત સફેદ બોલની ક્રિકેટ રમતો જોવા મળશે. સનરાઇઝર્સ ઇસ્ટર્ન કેપ તરફથી રમતા ડોસને પોતાની લાંબી કારકિર્દી દરમિયાન 218 ફર્સ્ટ-ક્લાસ મેચોમાં 380 વિકેટ લીધી અને 10,828 રન બનાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/sunrisers-dashing-cricketer-liam-dawson-suddenly-retired-in-the-middle-of-ipl-2026-477808 ",
-    "time": "2026-05-14T06:10:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -522,15 +576,6 @@ const newsData_gu = [
     "time": "2026-05-13T09:40:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ભારતીયો માત્ર વિદેશ પ્રવાસ અને સોનામાં દર વર્ષે કરે છે આટલા કરોડનો ખર્ચ, આંકડો જાણીને આંખો થઈ જશે પહોંળી!",
-    "desc": "પીએમ મોદીએ હાલમાં જ અપીલ કરી છે કે, તમે બિનજરૂરી વિદેશ યાત્રા ન કરો. વર્ષભર માટે વિદેશી પ્રવાસન સ્થળોની ફરવાનું રોકી દો. આનાથી મહત્વપૂર્ણ વિદેશી હૂંડિયામણની બચત થશે. શું તમે જાણો છો કે, વિદેશ પ્રવાસ કરનાર એક વ્યક્તિ ઓછામાં ઓછું કેટલું વિદેશી હૂંડિયામણ ખર્ચ કરે છે? અમે આ અંગે ભારતમાં ટ્રાવેલ એજન્ટોની સૌથી મોટી સંસ્થા 'ટ્રાવેલ એજન્ટ્સ એસોસિએશન ઓફ ઇન્ડિયા' (TAAI)ના નોર્ધન રીજનના જનરલ સેક્રેટરી અને 'એસએ સાઉથઇન્ડ ટ્રાવેલ્સ પ્રાઇવેટ લિમિટેડ'ના એમડી અનુરાગ અગ્રવાલ સાથે વાત કરી. જાણો પૂરી વિગત.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/indians-spend-so-many-crores-every-year-on-foreign-travel-and-gold-alone-knowing-the-figure-will-make-your-eyes-widen-477699 ",
-    "time": "2026-05-13T09:11:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "મૌની રોયએ સૂરજ નાંબિયારને કર્યો અનફોલો, એક્સ્ટ્રા મેરિટલ અફેર અને ડિવોર્સની ચર્ચાએ પકડ્યું જોર",
     "desc": "મૌની રોય અને તેના પતિ સૂરજ નાંબિયાર વચ્ચે બધું બરાબર નથી ચાલી રહ્યું. જોરશોરથી ચર્ચાઓ થઈ રહી છે કે આ ક્યુટ કપલના લગ્ન તુટી ગયા છે. ડિવોર્સની વાત સામે આવ્યા પછી સૂરજ નાંબિયારે એવું કામ કર્યું જેનાથી સંબંધ તુટ્યાની અટકળોને વેગ મળ્યો છે.",
@@ -565,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ac-does-not-cool-the-room-even-after-running-for-hours-this-could-be-the-reason-know-this-477571 ",
     "time": "2026-05-12T10:37:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન સંકટ વચ્ચે ચીનના પ્રવાસે જશે ડોનાલ્ડ ટ્રમ્પ, જિનપિંગ સાથે થશે દ્વિપક્ષીય વાર્તા, બંને દેશો વચ્ચે થઈ શકે છે કરાર",
-    "desc": "ઈરાન સંકટ અને હોર્મુઝ નાકાબંધીને કારણે વિશ્વમાં ઉથલપાથલ જોવા મળી રહી છે. આ વચ્ચે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ ચીનની મુલાકાતે જઈ રહ્યાં છે. ચીનના પ્રવાસ પહેલા ટ્રમ્પે સોશિયલ મીડિયા પર પોસ્ટ કરી શી જિનપિંગની પ્રશંસા કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-will-go-on-a-three-day-visit-to-china-bilateral-meeting-will-be-held-between-the-two-countries-477485 ",
-    "time": "2026-05-12T03:28:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -628,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/actress-nauheed-cyrusi-said-she-is-not-getting-role-because-she-is-not-ready-to-do-kissing-and-intimate-scenes-on-screen-477116 ",
     "time": "2026-05-09T06:00:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હવે પેટ્રોલ પુરાવવાની જરૂર નથી? પાણીથી બનેલા ફ્યુઅલ પર દોડશે મારૂતિ સ્વિફ્ટ, જાણો શું છે નવી ટેકનોલોજી",
-    "desc": "Maruti Swift હવે પેટ્રોલ કે CNG નહીં, પરંતુ એક નવી ટેકનોલોજી પર દોડવાની તૈયારીમાં છે. કંપનીએ Vienna Motor Symposium 2026 માં આનું નવું પ્રોટોટાઈપ રજૂ કર્યું છે. જાણો કેવી રીતે કામ કરે છે આ ફ્યુચર કાર અને ભારતમાં ક્યાર સુધી જોવા મળી શકે છે તેની ઝલક....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-swift-hydrogen-no-need-to-refuel-with-petrol-anymore-run-on-water-based-fuel-find-out-what-this-new-technology-477069 ",
-    "time": "2026-05-08T14:16:27.000Z"
   },
   {
     "cat": "Entertainment",

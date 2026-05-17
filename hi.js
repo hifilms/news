@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Royal Challengers Bengaluru look to solidify playoffs spot",
+    "desc": "Punjab Kings host Royal Challengers Bengaluru in the 61st game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the HPCA Stadium in Dharamsala and both teams will be looking to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-rcb-live-cricket-score-royal-challengers-bengaluru-look-to-solidify-playoffs-spot-2026-05-17-1041464",
+    "time": "2026-05-17T10:00:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Rajat Patidar not playing for RCB in IPL 2026 clash against PBKS?",
+    "desc": "Royal Challengers Bengaluru captain Rajat Patidar missed out in their IPL 2026 clash against the Punjab Kings at the Himachal Pradesh Cricket Association Stadium, Dharamsala, on Sunday, May 17. Jitesh Sharma turned up as the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rajat-patidar-not-playing-for-rcb-in-ipl-2026-clash-against-pbks-2026-05-17-1041463",
+    "time": "2026-05-17T09:46:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohamed Salah drops strong message after Liverpool face shock defeat against Aston Villa",
+    "desc": "Liverpool FC has been going through a roller coaster of a season in the Premier League. With Arne Slot’s side looking to finish in the top four of the league, the side was handed a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mohamed-salah-drops-strong-message-after-liverpool-face-shock-defeat-against-aston-villa-2026-05-16-1041421",
+    "time": "2026-05-17T07:30:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PBKS vs RCB Head-to-Head record ahead of game 61 in IPL 2026",
     "desc": "The stage is set for the 61st game of the ongoing IPL (Indian Premier League) 2026. Punjab Kings will be taking on Royal Challengers Bengaluru at the HPCA Stadium in Dharamsala on May 17th. The...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-gt-live-cricket-score-gujarat-titans-look-to-keep-on-with-title-charge-2026-05-16-1041409",
     "time": "2026-05-16T13:44:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PM Modi weighs in on India's sporting relations with the Netherlands, discusses hosting the Olympics",
-    "desc": "Prime Minister Narendra Modi took centre stage and laid out the aspirations for India on his two-day trip to the Netherlands. One of the most talked-about points from the PM’s visit to the country has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pm-modi-weighs-in-on-india-s-sporting-relations-with-the-netherlands-discusses-hosting-the-olympics-2026-05-16-1041407",
-    "time": "2026-05-16T13:11:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very impressed': Former India cricketer hails Chennai Super Kings' star for brilliant knock against LSG",
-    "desc": "Lucknow Super Giants registered a brilliant win against Chennai Super Kings in the 59th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Ekana Stadium in Lucknow on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/very-impressed-former-india-cricketer-hails-chennai-super-kings-star-for-brilliant-knock-against-lsg-2026-05-16-1041400",
-    "time": "2026-05-16T12:08:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satwik-Chirag reach Thailand Open 2026 final, defeating Malaysian pair in penultimate clash",
-    "desc": "In a major moment for Satwiksairaj Rankireddy and Chirag Shetty, the Indian duo have reached their first final of the 2026 season, qualifying for the Thailand Open 2026 final. It is worth noting that the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-reach-thailand-open-2026-final-defeating-malaysian-pair-in-penultimate-clash-2026-05-16-1041394",
-    "time": "2026-05-16T11:17:04.000Z"
   }
 ];

@@ -7,14 +7,5 @@ const newsData_mr = [
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/news/maharashtra-live-blog-updates-todays-breaking-news-14-may-2026-vidhan-parishad-neet-paper-leak-case-nashik-tcs-nida-khan-narendra-modi-gold-silver-rate-tamil-nadu-politics-maharashtra-politics-1423984",
     "time": "2026-05-14T01:53:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "20026 ची NEET परीक्षा रद्द, विद्यार्थ्यांना पुन्हा पेपर द्यावा लागणार",
-    "desc": "मुंबईच्या पाणीपुरवठ्यात येत्या 15 मेपासून 10 टक्के पाणीकपात करण्याचा निर्णय मुंबई महापालिकेनं घेतलाय. जलाशयांमधील पाणीसाठा घटल्याने खबरदारी म्हणून बृहन्मुंबई महानगरपालिका प्रशासनाने हा निर्णय घेतला आहे. सर्व नागरिकांनी पाण्याचा काटकसरीने वापर करावा, असे आवाहन देखील महापालिकेकडून करण्यात आलंय. यंदाच्या मोसमात एल निनोच्या परिणामामुळं पर्जन्यमान सरासरीपेक्षा कमी राहण्याचा अंदाज भारतीय हवामान विभागानं वर्तवला आहे. त्यात वाढत्या तापमानामुळं सातही जलाशयांमधल्या पाणीसाठ्याच्या बाष्पीभवनाचा वेग वाढला आहे. या परिस्थितीत जलसंपदा विभाग, महाराष्ट्र शासन यांच्या निर्देशानुसार मुंबईत शुक्रवारपासून 10 टक्के पाणीकपात लागू करण्यात येणार आहे.",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/12/3d2d18e676acdbe8be926851c5354c141778548158318987_original.jpg",
-    "src": "abplive.com",
-    "url": "https://marathi.abplive.com/news/maharashtra-live-blog-updates-todays-breaking-news-12-may-2026-narendra-modi-gold-silver-rate-tamil-nadu-politics-maharashtra-politics-1423707",
-    "time": "2026-05-12T01:13:13.000Z"
   }
 ];
