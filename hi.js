@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'If we keep losing like this, we shouldn't be in top four': Riyan Parag after RR's loss to DC",
+    "desc": "Rajasthan Royals bottled up a chance to keep one of their foot in the IPL 2026 playoffs after losing to Delhi Capitals at the Arun Jaitley Stadium on Sunday, May 17. RR's underwhelming end to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/if-we-keep-losing-like-this-we-shouldnt-be-in-top-four-riyan-parag-after-rrs-loss-to-dc-2026-05-18-1041517",
+    "time": "2026-05-18T02:33:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What teams need to reach knockouts after DC beat RR?",
+    "desc": "The race to the playoffs for the Indian Premier League 2026 is heating up now, as seven teams are fighting for the remaining three spots in the knockouts, with the points table still wide open...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-playoffs-qualification-scenarios-what-teams-need-to-reach-knockouts-after-dc-beat-rr-2026-05-18-1041515",
+    "time": "2026-05-18T01:39:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Delhi Capitals put a hamper on Rajasthan Royals' playoffs push, register dominant five-wicket win",
     "desc": "Game 62 of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Rajasthan Royals. The two sides met at the Arun Jaitley Stadium in Delhi on May 17th, and the clash began...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rr-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-05-17-1041470",
     "time": "2026-05-17T10:58:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Royal Challengers Bengaluru defeat Punjab Kings by 23 runs",
-    "desc": "Punjab Kings host Royal Challengers Bengaluru in the 61st game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the HPCA Stadium in Dharamsala and both teams will be looking to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-rcb-live-cricket-score-royal-challengers-bengaluru-look-to-solidify-playoffs-spot-2026-05-17-1041464",
-    "time": "2026-05-17T10:00:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Rajat Patidar not playing for RCB in IPL 2026 clash against PBKS?",
-    "desc": "Royal Challengers Bengaluru captain Rajat Patidar missed out in their IPL 2026 clash against the Punjab Kings at the Himachal Pradesh Cricket Association Stadium, Dharamsala, on Sunday, May 17. Jitesh Sharma turned up as the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rajat-patidar-not-playing-for-rcb-in-ipl-2026-clash-against-pbks-2026-05-17-1041463",
-    "time": "2026-05-17T09:46:37.000Z"
   }
 ];
