@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Shakira acquitted in tax fraud case; court orders 55 mn refund",
+    "desc": "Shakira has been cleared by a Spanish court in a tax fraud case, with over 55 million euros in fines ordered to be returned. The court found insufficient proof of her residency in Spain for the 2011 tax year, stating she did not spend the required 183 days.",
+    "img": "https://static.toiimg.com/photo/msid-131185831,imgsize-51528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-acquitted-in-spanish-tax-fraud-case-court-orders-55-million-euro-tax-refund/articleshow/131185802.cms",
+    "time": "2026-05-18T21:27:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CAA applicants must declare passport status, surrender foreign passports: Home Ministry",
+    "desc": "Home Ministry notifies amendment to Citizenship Rules; move comes days after BJP came to power for the first time in West Bengal where a large number of Matua community, the intended beneficiaries of CAA legislation reside",
+    "img": "https://th-i.thgim.com/public/incoming/m7yag4/article70995570.ece/alternates/LANDSCAPE_1200/Matuas-pushed-iGRRFM3G2D.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/caa-applicants-must-declare-passport-status-surrender-foreign-passports-mha/article70995357.ece",
+    "time": "2026-05-18T20:48:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India is now free from Maoism, says Amit Shah at Bastar",
+    "desc": "Home Minister says the country is largely free from security challenges of Jammu & Kashmir, the Northeast, and Naxalism; he urges the people of Bastar to “accept” about 3,000 surrendered Naxals and help them become part of the mainstream",
+    "img": "https://th-i.thgim.com/public/incoming/1zcaia/article70995374.ece/alternates/LANDSCAPE_1200/PTI05_18_2026_000364B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-is-now-maoist-free-declares-shah-with-pride/article70995112.ece",
+    "time": "2026-05-18T20:22:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Kane, voice of The Powerpuff Girls and Star Wars, dies at 64",
+    "desc": "Tom Kane, best known for voicing Professor Utonium in the beloved animated series The Powerpuff Girls, has passed away at the age of 64. The veteran voice actor’s death was confirmed by TMZ through his representative. According to his representative, Zach McGinnis, Tom Kane died due to complications arising from the stroke he suffered in 2020. The actor had reportedly been hospitalised in Kansas City and passed away at the hospital.",
+    "img": "https://static.toiimg.com/photo/msid-131185670,imgsize-36740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-kane-voice-of-professor-utonium-in-the-powerpuff-girls-and-yoda-in-star-wars-the-clone-wars-passes-away-at-64/articleshow/131185652.cms",
+    "time": "2026-05-18T20:19:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says delaying Iran attack at request of Gulf leaders",
+    "desc": "Donald Trump said he had “further instructed them to be prepared to go forward with a full, large scale assault of Iran, on a moment’s notice, in the event that an acceptable Deal is not reached”",
+    "img": "https://th-i.thgim.com/public/incoming/w9jqup/article70995561.ece/alternates/LANDSCAPE_1200/Trump-Nigeria-G0NG0A4R0.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-delaying-iran-attack-at-request-of-gulf-leaders/article70995563.ece",
+    "time": "2026-05-18T20:18:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman says mom got worried after his ‘alone and lonely’ post",
+    "desc": "Salman Khan recently left fans worried after sharing a cryptic note on loneliness on social media. The superstar’s post quickly went viral, with many netizens speculating if something was bothering him personally. However, Salman has now broken his silence and clarified that the post was not about his own life. The actor also revealed that his mother, Salma Khan, became concerned after seeing the reactions online.",
+    "img": "https://static.toiimg.com/photo/msid-131185506,imgsize-102702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-says-mother-salma-khan-got-worried-after-his-alone-and-lonely-post-went-viral-i-was-not-talking-about-myself/articleshow/131185439.cms",
+    "time": "2026-05-18T19:50:34.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "The Titan maker",
     "desc": "Control with the ball, crucial lower-order runs, and composure under pressure — Holder has changed the rhythm of Titans’ season. Now, they look like one of the most complete teams in the tournament and are gathering momentum going into the playoffs",
@@ -25,15 +79,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ishan-kishan-shines-as-srh-qualify-for-playoffs-after-beating-csk-by-five-wickets/articleshow/131184708.cms",
     "time": "2026-05-18T18:53:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CAA applicants must declare passport status, surrender foreign passports: MHA",
-    "desc": "Home Ministry notifies amendment to Citizenship Rules; move comes days after BJP came to power for the first time in West Bengal where a large number of Matua community, the intended beneficiaries of CAA legislation reside",
-    "img": "https://th-i.thgim.com/public/news/national/csmby1/article70995490.ece/alternates/LANDSCAPE_1200/iStock-182664496.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/caa-applicants-must-declare-passport-status-surrender-foreign-passports-mha/article70995357.ece",
-    "time": "2026-05-18T18:23:33.000Z"
   },
   {
     "cat": "Business",
@@ -70,15 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-mel-gibson-the-thing-were-all-looking-for-is-happiness-even-for-five-minutes-a-day-were-very-lucky/articleshow/131181255.cms",
     "time": "2026-05-18T17:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India is now Maoist-free, declares Shah, ‘with pride’",
-    "desc": "Home Minister says the country is largely free from security challenges of Jammu & Kashmir, the Northeast, and Naxalism; he urges the people of Bastar to “accept” about 3,000 surrendered Naxals and help them become part of the mainstream",
-    "img": "https://th-i.thgim.com/public/incoming/1zcaia/article70995374.ece/alternates/LANDSCAPE_1200/PTI05_18_2026_000364B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-is-now-maoist-free-declares-shah-with-pride/article70995112.ece",
-    "time": "2026-05-18T17:28:21.000Z"
   },
   {
     "cat": "Sports",
@@ -196,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/how-indias-lpg-shortage-fuel-export-restrictions-are-raising-gasoline-prices-in-california-explained/articleshow/131181051.cms",
     "time": "2026-05-18T16:07:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "U.S. nuclear industry delegation meets Jitendra Singh, explores private investment avenues in India",
-    "desc": "Jitendra Singh told the delegation that India aimed to scale up nuclear capacity from the current 8.8 GW to 100 GW by 2047 — a roughly 12-fold expansion that forms a key plank of ‘Viksit Bharat’ vision",
-    "img": "https://th-i.thgim.com/public/news/national/h2t2h2/article70995182.ece/alternates/LANDSCAPE_1200/US%20delegation.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/us-nuclear-industry-delegation-meets-jitendra-singh-explores-private-investment-avenues-in-india/article70994640.ece",
-    "time": "2026-05-18T16:02:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -379,15 +406,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ram Charan thanks Salman, Aamir Khan for inspiring sports dramas",
-    "desc": "Ram Charan underwent a significant physical transformation for his wrestling role in 'Peddi,' drawing inspiration from Salman Khan and Aamir Khan's demanding film roles. He revealed the intense physical and emotional toll, including numerous injuries, but found immense joy and motivation in the project, calling it a special and fulfilling journey.",
-    "img": "https://static.toiimg.com/photo/msid-131178502,imgsize-120410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-ram-charan-thanks-salman-khan-and-aamir-khan-for-paving-the-way-for-such-sports-drama-with-sultan-and-dangal/articleshow/131178260.cms",
-    "time": "2026-05-18T13:45:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Tabu gifted gold bangles to Saroj Khan after Rang De shoot",
     "desc": "Tabu's dedication to mastering Saroj Khan's challenging choreography for the song 'Rang De' from 'Thakshak' is revealed by dance artiste Rubina Khan. Tabu's hard work, despite physical stiffness, paid off, leading to her generous gifts to the choreographer and crew. Her compassionate nature was further highlighted when she personally tended to an injured dancer.",
     "img": "https://static.toiimg.com/photo/msid-131178029,imgsize-34316.cms",
@@ -432,24 +450,6 @@ const newsData_en = [
     "time": "2026-05-18T12:34:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Twisha Sharma's father seeks fresh autopsy; Yogi warns against namaz on roads &amp; more",
-    "desc": "Twisha Sharma's father demands a fresh autopsy at AIIMS-Delhi, alleging a cover-up and accusing his son-in-law of drug addiction. Meanwhile, Yogi Adityanath warns of 'other methods' if namaz continues on UP roads. West Bengal's new government scraps religion-based schemes and the OBC list. India reaffirms its commitment to buying Russian crude oil, prioritizing energy security.",
-    "img": "https://static.toiimg.com/photo/msid-131176091,imgsize-66702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-twisha-sharmas-father-seeks-fresh-autopsy-yogi-warns-against-namaz-on-roads-more/articleshow/131175902.cms",
-    "time": "2026-05-18T12:13:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parliamentry panel summons NTA chief after NEET paper leak; reform in focus",
-    "desc": "​NTA chairperson Pradeep Kumar Joshi and other bureaucrats have been summoned for deliberations on May 21. The Parliamentary Standing Committee on Education, Women, Children, Youth and Sports will seek the views of top education ministry bureaucrats on the alleged paper leak and reforms of NTA, which holds centralised admission tests to various undergraduate courses, on May 21, a Rajya Sabha notice said according to PTI.",
-    "img": "https://static.toiimg.com/photo/msid-131176336,imgsize-150116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliamentry-panel-summons-nta-chief-after-neet-paper-leak-reform-in-focus/articleshow/131175908.cms",
-    "time": "2026-05-18T12:09:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Iran’s World Cup football team leaves for Turkiye: media",
     "desc": "The team, who are in Group G, are due to kick off their campaign against New Zealand in Los Angeles on June 15, before facing Belgium in the same city and then Egypt in Seattle",
@@ -477,33 +477,6 @@ const newsData_en = [
     "time": "2026-05-18T11:29:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Raja Shivaji' becomes highest grossing Marathi film worldwide, beating Sairat",
-    "desc": "Riteish Deshmukh's historical epic 'Raja Shivaji' has surpassed 'Sairat' to become the highest-grossing Marathi film globally, earning Rs 114.80 crore worldwide. The film achieved this milestone with strong box office performance, particularly in its opening weeks, driven by audience word-of-mouth and a deep emotional connect with the subject matter.",
-    "img": "https://static.toiimg.com/photo/msid-131175093,imgsize-186148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/riteish-deshmukhs-raja-shivaji-creates-history-becomes-the-highest-grossing-maratha-film-globally-with-rs-114-crore-beats-sairat/articleshow/131175119.cms",
-    "time": "2026-05-18T11:27:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Suvendu govt ends religion-based schemes in Bengal, scraps state OBC list",
-    "desc": "The BJP government has also done away with the exisiting state OBC list in accordance with the Calcutta high court judgement and would set up a panel to decide quota eligibility. Last year on July 28, however, the CJI-led bench of the Supreme Court had vacated high court's stay on implementation of the new OBC list that had a total of 140 sub-groups under OBC-A and OBC-B categories, including 80 belonging to the Muslim community.",
-    "img": "https://static.toiimg.com/photo/msid-131175287,imgsize-623362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/suvendu-govt-ends-religion-based-schemes-in-bengal-scraps-state-obc-list/articleshow/131174070.cms",
-    "time": "2026-05-18T11:23:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan's ex girlfriend Sangeeta Bijlani gushes over his shirtless PIC",
-    "desc": "Salman Khan's recent shirtless photo and introspective caption about loneliness sparked fan concern. Adding to the buzz, ex-girlfriend Sangeeta Bijlani's fiery comment on the post evoked nostalgia. The former couple, who were once close to marriage, maintain a friendly relationship. Salman is currently preparing for upcoming projects, including one inspired by the Galwan Valley clash.",
-    "img": "https://static.toiimg.com/photo/msid-131174574,imgsize-38218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-ex-girlfriend-sangeeta-bijlani-gushes-over-his-shirtless-pic-netizens-cant-believe-he-is-60/articleshow/131174233.cms",
-    "time": "2026-05-18T11:06:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'What derailed our campaign was inability to…'- PBKS coach’s honest admission",
     "desc": "Punjab Kings suffered their sixth consecutive defeat against RCB, jeopardizing their IPL 2026 playoff chances. Fast bowling coach James Hopes cited an inability to control key moments as the primary reason for their downfall. Despite strong training, the team needs to regroup and restore belief before their final league fixture against Lucknow Super Giants.",
@@ -529,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nse-launches-electronic-gold-receipts-trading-today-what-are-egrs-how-do-they-work-and-what-investors-should-know/articleshow/131172696.cms",
     "time": "2026-05-18T09:53:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala CM Satheesan forms SIT to probe 2023 attacks on Congress workers during Left regime",
-    "desc": "A fierce political faceoff had ensued three years back during the Left regime when Congress workers were thrashed for waving black flags at Vijayan's motorcade, leading to an intense war of words between two rival factions in the coastal state. Calling Vijayan Kerala's \"most cruel\" home minister, senior Congress leader MM Hassan had alleged that Youth Congress protesters were beaten up for waving black flags at the CM's motorcade.",
-    "img": "https://static.toiimg.com/photo/msid-131172534,imgsize-35372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-cm-satheesan-forms-sit-to-probe-2023-attacks-on-congress-workers-during-left-regime/articleshow/131172011.cms",
-    "time": "2026-05-18T09:42:07.000Z"
   },
   {
     "cat": "Sports",
@@ -666,15 +630,6 @@ const newsData_en = [
     "time": "2026-05-17T17:20:20.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran media says ‘no tangible concessions’ in U.S. response to Iran proposal",
-    "desc": "The Fars news agency said Washington had presented a five-point list which included a demand for Iran to keep only one nuclear site in operation and transfer its stockpile of highly enriched uranium to the United States",
-    "img": "https://th-i.thgim.com/public/incoming/o5gx0t/article70991223.ece/alternates/LANDSCAPE_1200/Iran_Daily_Life_45375.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-media-says-no-tangible-concessions-in-us-response-to-iran-proposal/article70991193.ece",
-    "time": "2026-05-17T16:21:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 PBKS vs RCB",
     "desc": "The left-hander makes the most of a rare opportunity to lift the defending champion to an above-par score; the veteran seamer’s early strikes and Hazlewood’s brilliance at the death leave PBKS on the brink of elimination",
@@ -684,15 +639,6 @@ const newsData_en = [
     "time": "2026-05-17T15:44:59.000Z"
   },
   {
-    "cat": "World",
-    "title": "India, Netherlands upgrade ties; sign 17 MoUs on water, renewable energy, and semiconductors",
-    "desc": "MEA pushes back on Dutch concerns over press freedom and minority rights in India. PM Jetten raises child abduction case with PM Modi. Agreements signed include a semiconductor fabrication project between TATA Electronics and Dutch company ASML",
-    "img": "https://th-i.thgim.com/public/incoming/9h52e4/article70988592.ece/alternates/LANDSCAPE_1200/PTI05_17_2026_000006B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
-    "time": "2026-05-17T15:25:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ISL",
     "desc": "FOOTBALL | While Inter Kashi created the better chances, both teams were unable to find the net in a battle defined by resolute defending. SC Delhi goalkeeper Nora Fernandes was the standout player with six saves",
@@ -700,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/isl-sc-delhi-and-inter-kashi-play-out-a-goalless-draw/article70990837.ece",
     "time": "2026-05-17T14:42:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Taiwan won't be sacrificed, U.S. arms sales a commitment: President responds to Trump",
-    "desc": "Mr. Lai’s comments were his first direct response to the summit last week in Beijing between U.S. President Trump and his Chinese counterpart Xi Jinping that raised concerns in democratically governed Taiwan about U.S. backing for the island",
-    "img": "https://th-i.thgim.com/public/incoming/ulbu4u/article70990836.ece/alternates/LANDSCAPE_1200/2026-05-17T080033Z_2021790961_RC2UALAGNF95_RTRMADP_3_CHINA-USA-TAIWAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/taiwan-wont-be-sacrificed-us-arms-sales-a-commitment-president-responds-to-trump/article70990781.ece",
-    "time": "2026-05-17T14:27:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -819,15 +756,6 @@ const newsData_en = [
     "time": "2026-05-15T19:30:08.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Demand for gold loans rising, more people resorting to pledging their gold ornaments, says Muthoot Finance MD",
-    "desc": "In FY26 the company’s consolidated Profit after Tax (PAT) increased 98% YoY to ₹10,607 crore. Its consolidated Loan Assets Under Management grew 49% YoY to ₹1,81,916 crore in FY26. Board declares dividend of ₹30 per share.",
-    "img": "https://th-i.thgim.com/public/incoming/6ppyb0/article70984470.ece/alternates/LANDSCAPE_1200/Muthoot-FinanceG2VFVTNBM.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/demand-for-gold-loans-rising-more-people-resorting-to-pledging-their-gold-ornaments-says-muthoot-finance-md/article70983902.ece",
-    "time": "2026-05-15T16:09:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "How Tagore’s songs were ahead of their time in form and feeling",
     "desc": "The Nobel-laureate’s songs, popularly referred to as Rabindra Sangeet, are dynamic texts open to reinterpretation, allowing each generation to find new meaning in themes of freedom, love, and humanity — revisiting the Tagore’s musical oeuvre on his 165th birth anniversary",
@@ -898,5 +826,59 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
