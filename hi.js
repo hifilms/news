@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Massive lifeline for CSK after PBKS, RR lose on action-packed Sunday in IPL 2026",
+    "desc": "Chennai Super Kings have been handed a massive lifeline as two of the most-wanted results have gone their way in the fight for the Indian Premier League 2026 playoffs. On an action-packed Sunday on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/massive-lifeline-for-csk-after-pbks-rr-lose-on-action-packed-sunday-in-ipl-2026-2026-05-18-1041542",
+    "time": "2026-05-18T06:44:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Injury concern for Ravindra Jadeja? RR coach reveals exact reason why all-rounder missed DC vs RR IPL clash",
+    "desc": "Ravindra Jadeja's absence from the Rajasthan Royals' line-up for their Indian Premier League 2026 clash against the Delhi Capitals raised a few eyebrows. Returning from his own hamstring injury, RR captain Riyan Parag revealed at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/injury-concern-for-ravindra-jadeja-rr-coach-reveals-exact-reason-why-all-rounder-missed-dc-vs-rr-ipl-clash-2026-05-18-1041534",
+    "time": "2026-05-18T06:03:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner completes Career Golden Masters, breaks Novak Djokovic's record after Italian Open win",
+    "desc": "Jannik Sinner defeated Casper Ruud in the Italian Open final to complete his Career Golden Masters and etch his name into the history books. Sinner has now added the only missing ATP Masters 1000 title...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-completes-career-golden-masters-breaks-novak-djokovics-record-after-italian-open-win-2026-05-18-1041530",
+    "time": "2026-05-18T04:55:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul breaks AB de Villiers all-time record after strong fifty against RR in Delhi",
+    "desc": "Delhi Capitals opener KL Rahul has shattered a major AB de Villiers record with a strong half-century against the Rajasthan Royals in their 13th match of the Indian Premier League 2026. Rahul anchored the 194-run...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-breaks-ab-de-villiers-all-time-record-after-strong-fifty-against-rr-in-delhi-2026-05-18-1041521",
+    "time": "2026-05-18T03:10:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'If we keep losing like this, we shouldn't be in top four': Riyan Parag after RR's loss to DC",
     "desc": "Rajasthan Royals bottled up a chance to keep one of their foot in the IPL 2026 playoffs after losing to Delhi Capitals at the Arun Jaitley Stadium on Sunday, May 17. RR's underwhelming end to...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rr-live-cricket-score-rajasthan-royals-look-to-break-into-the-top-four-2026-05-17-1041492",
     "time": "2026-05-17T14:08:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Royal Challengers Bengaluru qualify for IPL 2026 playoffs, defeat Punjab Kings by 23 runs",
-    "desc": "Royal Challengers Bengaluru were brilliant in the 61st game of the ongoing IPL (Indian Premier League) 2026. The side took on Punjab Kings at the HPCA Stadium in Dharamsala on May 17th, and after brilliant...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-hand-punjab-kings-another-dreaded-defeat-register-dominant-23-run-victory-2026-05-17-1041491",
-    "time": "2026-05-17T13:50:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings etch name in unwanted list after first innings chaos against Royal Challengers Bengaluru",
-    "desc": "The 61st game of the ongoing IPL (Indian Premier League) 2026 saw Punjab Kings hosting Royal Challengers Bengaluru. The two sides met at the HPCA Stadium in Dharamsala on May 17th, and the clash saw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-etch-name-in-unwanted-list-after-first-innings-chaos-against-royal-challengers-bengaluru-2026-05-17-1041489",
-    "time": "2026-05-17T13:26:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli equals Alex Hales in elite list with resilient knock against PBKS",
-    "desc": "Punjab Kings took on Royal Challengers Bengaluru in the 61st game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the HPCA Stadium in Dharamsala on May 17th, and the game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-equals-alex-hales-in-elite-list-with-resilient-knock-against-pbks-2026-05-17-1041483",
-    "time": "2026-05-17T12:00:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Arun Jaitley Stadium in Delhi play?",
-    "desc": "The 62nd game of the ongoing IPL (Indian Premier League) 2026 sees Delhi Capitals taking on Rajasthan Royals. The two sides will meet at the Arun Jaitley Stadium in Delhi on May 17th. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rr-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-2026-05-17-1041470",
-    "time": "2026-05-17T10:58:23.000Z"
   }
 ];

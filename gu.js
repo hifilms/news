@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ઇંધણ સંકટના કારણે બદલાઈ જશે IPL 2026નું શેડ્યૂલ ? અરૂણ ધૂમલે તોડ્યું મૌન",
+    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા સંઘર્ષ વચ્ચે પીએમ મોદીની ઇંધણ બચાવવાની અપીલ બાદ વેપારી સંગઠન CTIએ IPL 2026ના શેડ્યૂલમાં ફેરફાર કરવા અથવા બંધ બારણે મેચો યોજવા રમતગમત મંત્રીને પત્ર લખ્યો છે. આ અંગે હવે IPL ચેરમેન અરૂણ ધૂમલનું નિવેદન સામે આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fuel-shortage-to-cause-rescheduling-of-ipl-2026-arun-dhumal-breaks-silence-478323 ",
+    "time": "2026-05-18T06:40:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સ્ટાર, મોત, સન્નાટો..... અને ઘણા સવાલ, Sushant Singh Rajput ની અધૂરી કહાની!",
+    "desc": "14 જૂન, 2020ના એક સમાચારે દેશને હચમચાવી દીધો હતો. 34 વર્ષના એક અભિનેતાએ પોતાની મહેનતથી ઓળખ બનાવી પરંતુ તેની પોતાની કહાની અધૂરી ગઈ હઈ. સુશાંત સિંહ રાજપૂત આજે માત્ર એક નામ નહીં, પરંતુ એક સવાલ છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-dark-secret-suicide-or-murder-sushant-singh-rajput-unfinished-story-478319 ",
+    "time": "2026-05-18T06:06:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આંદમાન સુધી તો પહોંચી ગયું ચોમાસું, પણ અરબ સાગરમાં શું હલચલ ચાલી રહી છે? જાણો ચિંતાજનક આગાહી",
+    "desc": "અંગ દઝાડતી ગરમી અને લૂના થપેડાથી ત્રાહિમામ લોકો હવે કાગડોળે વરસાદની રાહ જોઈ રહ્યા છે. આગાહી મુજબ ચોમાસું આંદમાન અને નિકોબાર ટાપુઓ સુધી તો પહોંચી ગયું છે અને 26મી આસપાસ કેરળ પહોંચવાની આગાહી છે. પરંતુ હવામાન નિષ્ણાંતે અરબ સાગરને લઈને એક એવી વાત જણાવી છે જે ચોમાસા મુદ્દે ચિંતાજનક છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/monsoon-2026-latest-update-reach-to-andaman-nicobar-anti-cyclone-active-in-arab-sagar-478318 ",
+    "time": "2026-05-18T06:05:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અફઘાનિસ્તાન સામેની સિરીઝ માટે આવતીકાલે થશે ટીમ ઈન્ડિયાની જાહેરાત, આ ખેલાડીઓને મળશે તક",
+    "desc": "IPL બાદ ટીમ ઈન્ડિયા જૂન 2026માં ઘરઆંગણે અફઘાનિસ્તાન સામે એક ટેસ્ટ મેચ અને ત્રણ મેચની વન-ડે આંતરરાષ્ટ્રીય શ્રેણી રમવાનું છે. આ માટે ટીમની જાહેરાત આવતીકાલે થવાની છે, ત્યારે કયા ખેલાડીઓને ભારતીય ટીમમાં તક મળી શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-test-and-odi-squad-against-afghanistan-shubman-gill-virat-kohli-478309 ",
+    "time": "2026-05-18T05:22:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "પ્રાઈમ વીડિયોની ખૌફનાક ફિલ્મ, લોકકથા પર આધારિત હોરર ફિલ્મ એકલા જોવાનું ટાળવું, સપનામાં પણ દેખાશે ચૂડેલ",
+    "desc": "જો તમે કોઈ એવી ફિલ્મ જોવા માંગો છો જે મનમાં ખૌફ ઊભો કરી દે તો પ્રાઈમ વીડિયોની આ ફિલ્મ આજે જ જુઓ. આ ફિલ્મ લોકકથા પર આધારિત હોરર ફિલ્મ છે. આ ફિલ્મ 1 કલાક અને 48 મિનિટની જ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/prime-video-horror-movie-pechi-do-not-watch-this-film-alone-478297 ",
+    "time": "2026-05-18T05:01:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટ્રમ્પની ચાલ ભારે પડી! સવાર સવારમાં સોનું જોરદાર ધડામ, દોઢ મહિનાના નીચલા સ્તરે પહોંચ્યું",
+    "desc": "સોનું અને ચાંદી વળી પાછા કરવટ લઈ રહ્યા છે. ગત સપ્તાહે ભારે તેજી અને ત્યારબાદ આવેલો કડાકો આજે નવા અઠવાડિયાના પહેલા દિવસે પણ ચાલુ જોવા મળ્યો છે. વૈશ્વિક બજારમાં સોના-ચાંદીના ભાવ ઘટ્યા જેની અસર ભારતીય બજાર ઉપર પણ જોવા મળી રહી છે. MCX પર સોનું અને ચાંદી લાલ નિશાન સાથે જોવા મળી રહ્યા છે. રિટેલ બજારમાં પણ કદાચ ભાવમાં કડાકો જોવા મળી શકે છે. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fall-in-global-market-also-impact-on-mcx-aaj-no-sona-chandi-no-bhav-478298 ",
+    "time": "2026-05-18T03:56:34.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મુંબઈ-અમદાવાદ બુલેટ ટ્રેન સાથે ભારતે રચ્યો ઇતિહાસ, ટનલ ખોદવા માટે નીચે ઉતરી 350 ટનની &amp;#039;મહાકટર&amp;#039;",
     "desc": "મુંબઈ-અમદાવાદ બુલેટ ટ્રેન પ્રોજેક્ટમાં એક મોટો અને ઐતિહાસિક સીમાચિહ્ન પ્રાપ્ત થયો છે. 350 ટન વજનનો એક વિશાળ કટરહેડ સફળતાપૂર્વક મુંબઈના વિક્રોલી શાફ્ટમાં ઉતારવામાં આવ્યો. દેશના સૌથી પડકારજનક અને હાઇ-ટેક ઇન્ફ્રાસ્ટ્રક્ચર પ્રોજેક્ટ્સમાંના એકમાં આ એક મોટી સિદ્ધિ માનવામાં આવી રહી છે.",
@@ -369,15 +423,6 @@ const newsData_gu = [
     "time": "2026-05-16T04:05:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સરકારે પેટ્રોલ-ડીઝલ પર ફરીથી લીધો મોટો નિર્ણય, ભાવમાં શું ફરક પડ્યો? જાણો આજના પેટ્રોલ-ડીઝલના ભાવ",
-    "desc": "વૈશ્વિક સ્તરે ક્રૂડ ઓઈલના ભાવમાં ઉછાળાના પગલે ઘર આંગણે પણ પેટ્રોલ અને ડીઝલના ભાવમાં વધારો નોંધાયો. આ બધા વચ્ચે પેટ્રોલ પર સરકારે વધુ એક મોટો નિર્ણય લીધો. તો શું ફરીથી ભાવ પર અસર કરશે કે નહીં? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-news-govennment-impose-3-rs-windfall-tax-on-petrol-export-check-latest-petrol-diesel-price-478042 ",
-    "time": "2026-05-16T03:54:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ધુરંધર 2 ના Uncut વર્ઝનની ઓટીટી રિલીઝ ડેટ ફાઈનલ, ભારતમાં આ તારીખે ઓટીટી પર સ્ટ્રીમ થશે ફિલ્મ",
     "desc": "ભારતમાં ધુરંધર 2 ઓટીટી પર જોવા માટે લોકોએ હજુ થોડી ધીરજ રાખવી પડશે. પરંતુ આ ધીરજના ફળ દર્શકોને મીઠાં મળશે, કારણ કે ઓટીટી પર ધુરંધરનું અનકટ અને રો વર્ઝન રિલીઝ થશે. ભારતમાં ધુરંધર 2 ની ઓટીટી રિલીઝ ડેટ પણ ફાઈનલ થઈ ચુકી છે.",
@@ -522,15 +567,6 @@ const newsData_gu = [
     "time": "2026-05-14T13:52:28.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Petrol- Diesel Price Hike: ભારતમાં કઈ રીતે નક્કી થાય છે પેટ્રોલ-ડીઝલના ભાવ? ક્યારે થાય છે રેટની સમીક્ષા, અહીં સમજો ગણિત",
-    "desc": "ઈરાન સંકટને કારણે પેટ્રોલ અને ડીઝલના ભાવમાં વધારો જોવા મળી રહ્યો છે. તેવામાં ઘણા લોકોના મનમાં સવાલ છે કે આખરે આ બધા તેલના ભાવ કઈ રીતે નક્કી થાય છે અને તેની સમીક્ષા ક્યારે કરવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/who-decides-the-price-of-petrol-and-diesel-in-india-how-is-the-price-review-done-477869 ",
-    "time": "2026-05-14T12:42:51.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Thar ખરીદનારાઓ માટે ખુશખબર ! કંપની આ મહિને આપી રહી છે 1 લાખથી વધુનું ડિસ્કાઉન્ટ, જાણો નવી કિંમત",
     "desc": "Thar ખરીદવાનું વિચારી રહેલા લોકો માટે સારા સમાચાર સામે આવ્યા છે. કંપની રૂપિયા 1 લાખથી વધુનું ડિસ્કાઉન્ટ ઓફર કરી રહી છે, ત્યારે આ લેખમાં જાણીશું કે કંપની કયા મોડલ પર કેટલા રૂપિયાનું ડિસ્કાઉન્ટ આપી રહી છે.",
@@ -556,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-china-visit-chinese-president-xi-jinping-trump-meeting-477796 ",
     "time": "2026-05-14T04:36:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટ્રમ્પ મોટા ઉપાડે ચીન તો પહોંચ્યા પણ શી જિનપિંગે સ્વાગત પણ ના કર્યું, ડ્રેગનનો દુનિયાને સીધો મેસેજ",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ બેઇજિંગ પહોંચ્યા છે, પરંતુ ચીનના રાષ્ટ્રપતિ શી જિનપિંગ તેમને આવકારવા એરપોર્ટ પર આવ્યા નહોતા. આજે બંને વચ્ચે કોઈ મુલાકાત પણ થશે નહીં. એટલું જ નહીં ટ્રમ્પ આજે કોઈપણ જાહેર કાર્યક્રમોમાં ભાગ લેશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-xi-jinping-did-not-receive-donald-trump-at-beijing-airport-477782 ",
-    "time": "2026-05-13T16:56:32.000Z"
   },
   {
     "cat": "Tech",
@@ -700,23 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-film-bhooth-bangla-ott-streming-partner-bhooth-bangla-film-ott-release-476975 ",
     "time": "2026-05-08T05:27:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધુરંધર 3ની ચાલી રહી છે તૈયારી? વર્ષના અંત સુધીમાં ચાહકોને એક મોટું સરપ્રાઇઝ, જાણો",
-    "desc": "ફિલ્મ નિર્માતાઓએ આ વર્ષના અંતમાં દર્શકો માટે એક સરપ્રાઈઝનો સંકેત આપ્યો, હોવાથી ધુરંધર 3 વિશે અટકળો વધી ગઈ છે. આ સરપ્રાઈઝના સમાચાર સાથે, ચાહકો એવું માનવા લાગ્યા છે કે તેઓ ધુરંધર 3 રિલીઝ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/preparations-underway-for-dhurandhar-3-a-big-surprise-for-fans-by-the-end-of-the-year-know-476958 ",
-    "time": "2026-05-08T04:14:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "તમને શું લાગે છે રિયો અને નિયતિ સાચે ભોળા છે કે પછી અંશનો બદલો લેવા કરી રહ્યા છે નાટક ?",
-    "desc": "ક્યુંકી સાસ ભી કભી બહુ થી શો માં તાજેતરમાં જ નિયતિ અને રેયાંશની એન્ટ્રી થઈ છે. આ ટ્વીસ્ટ એવો હશે જેની કોઈએ કલ્પના પણ કરી નહીં હોય. આ વાત શોમાં નિયતિ તરીકે એન્ટ્રી કરનાર અભિનેત્રી પરખ મદાને કરી છે. જેના પછી ચર્ચા શરુ થઈ છે કે રેયાંશ અને નિયતિ દેખાય છે તેવા ખરેખર નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ksbkbt-2-upcoming-biggest-twist-what-will-be-true-face-of-niyati-and-riyansh-latest-update-ksbkbt-2-476923 ",
-    "time": "2026-05-07T14:30:36.000Z"
   }
 ];
