@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why are CSK above RR in IPL 2026 points table despite having same points and net run rate?",
+    "desc": "The IPL (Indian Premier League) 2026’s group stage phase is coming to an end, with just one or two games left per side, and the top four of the tournament are yet to be decided....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-csk-above-rr-in-ipl-2026-points-table-despite-having-same-points-and-net-run-rate-2026-05-18-1041578",
+    "time": "2026-05-18T11:29:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Chennai fare for IPL 2026 game 63?",
+    "desc": "The stage is set for the 63rd game of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will take on Sunrisers Hyderabad at the MA Chidambaram Stadium in Chennai on May 18th. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-srh-weather-report-how-will-weather-in-chennai-fare-for-ipl-2026-game-63-2026-05-18-1041564",
+    "time": "2026-05-18T10:15:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammad Kaif delivers verdict on Vaibhav Sooryavanshi's fielding before potential India call-up",
+    "desc": "Former India cricketer Mohammad Kaif has highlighted that Rajasthan Royals sensation Vaibhav Sooryavanshi needs to work on his fielding before he gets to play for India. While Sooryavanshi has made the headlines for his blistering...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-kaif-delivers-verdict-on-vaibhav-sooryavanshis-fielding-before-potential-india-call-up-2026-05-18-1041561",
+    "time": "2026-05-18T09:36:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CIC reverses its order",
+    "desc": "The Central Information Commission (CIC) on Monday ruled that the Board of Control for Cricket in India (BCCI) does not qualify as a \"public authority\" under the RTI Act, stating that the body is neither...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-not-a-public-authority-under-rti-act-cic-reverses-its-order-2026-05-18-1041558",
+    "time": "2026-05-18T09:12:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Massive lifeline for CSK after PBKS, RR lose on action-packed Sunday in IPL 2026",
     "desc": "Chennai Super Kings have been handed a massive lifeline as two of the most-wanted results have gone their way in the fight for the Indian Premier League 2026 playoffs. On an action-packed Sunday on May...",
     "img": "",
@@ -43,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/if-we-keep-losing-like-this-we-shouldnt-be-in-top-four-riyan-parag-after-rrs-loss-to-dc-2026-05-18-1041517",
     "time": "2026-05-18T02:33:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What teams need to reach knockouts after DC beat RR?",
-    "desc": "The race to the playoffs for the Indian Premier League 2026 is heating up now, as seven teams are fighting for the remaining three spots in the knockouts, with the points table still wide open...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-playoffs-qualification-scenarios-what-teams-need-to-reach-knockouts-after-dc-beat-rr-2026-05-18-1041515",
-    "time": "2026-05-18T01:39:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals put a hamper on Rajasthan Royals' playoffs push, register dominant five-wicket win",
-    "desc": "Game 62 of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Rajasthan Royals. The two sides met at the Arun Jaitley Stadium in Delhi on May 17th, and the clash began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-put-a-hamper-on-rajasthan-royals-playoffs-push-register-dominant-five-wicket-win-2026-05-17-1041508",
-    "time": "2026-05-17T18:15:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant set to be relieved of his Test vice-captaincy duties ahead of Afghanistan series: Report",
-    "desc": "In a major development, star India batter Rishabh Pant is reportedly set to be relieved of his duties as the vice-captain of the Indian Test team. It is worth noting that the reports stated that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-set-to-be-relieved-of-his-test-vice-captaincy-duties-ahead-of-afghanistan-series-report-2026-05-17-1041505",
-    "time": "2026-05-17T17:13:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi surpasses Abhishek Sharma, achieves huge feat with quickfire start against Delhi Capitals",
-    "desc": "Star India batter Vaibhav Sooryavanshi has taken world cricket by storm. The 15-year-old has been exceptional for Rajasthan Royals in the ongoing edition of the IPL (Indian Premier League) 2026, and he showcased his class...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-surpasses-abhishek-sharma-achieves-huge-feat-with-quickfire-start-against-delhi-capitals-2026-05-17-1041498",
-    "time": "2026-05-17T15:26:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals look to break into the top four",
-    "desc": "The 62nd game of the ongoing IPL (Indian Premier League) 2026 sees Delhi Capitals hosting Rajasthan Royals at the Arun Jaitley Stadium in Delhi. The clash begins on a positive note for Delhi as the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-rr-live-cricket-score-rajasthan-royals-look-to-break-into-the-top-four-2026-05-17-1041492",
-    "time": "2026-05-17T14:08:50.000Z"
   }
 ];

@@ -1,5 +1,113 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "ન પેટ્રોલની રામાયણ, EV ચાર્જિંગની ચિંતા નહીં... મોંઘવારીને માત દેવા આવી રહી છે, મારુતિ અને ટાટાની પહેલી ફ્લેક્સ ફ્યુઅલ કાર, જાણો",
+    "desc": "ભારતનું ઓટો ક્ષેત્ર પેટ્રોલ અને ઇલેક્ટ્રિક વાહનોથી આગળ વધીને ફ્લેક્સ-ફ્યુઅલ ટેકનોલોજી તરફ ઝડપથી આગળ વધી રહ્યું છે. મારુતિ સુઝુકી અને ટાટા મોટર્સ આ વર્ષે તેમના પ્રથમ ફ્લેક્સ-ફ્યુઅલ વાહનો લોન્ચ કરવાની તૈયારી કરી રહ્યા છે. મારુતિ ફ્રોન્ક્સ અને ટાટા પંચના ફ્લેક્સ-ફ્યુઅલ મોડેલો E85 અને E100 જેવા હાઈ-ઇથેનોલ મિશ્રણ પર ચાલી શકશે, જે સંભવિત રીતે તેલ આયાત પર નિર્ભરતા અને બળતણ ખર્ચ બંનેમાં ઘટાડો કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/no-petrol-problem-no-worries-about-ev-charging-inflation-is-coming-to-an-end-maruti-and-tata-first-flex-fuel-car-know-478375 ",
+    "time": "2026-05-18T12:21:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સ્માર્ટફોનનું ખાલી બોક્સ ફેંકી દેતા નહીં! કચરો સમજવાની ભૂલ પડી શકે છે ભારે, જાણો તેના અનેક ફાયદા",
+    "desc": "મોબાઈલ લીધા પછી સ્માર્ટફોનનું બોક્સનું કોઈ કામ નથી તેમ સમજીને મોટા ભાગના લોકો તેને ફેકી દે છે, ત્યારે આ નાનું બોક્સ અનેક કામમાં આવી શકે છે અને તેને જ્યારે પણ તમે મોબાઈલ વેચવા જાઓ ત્યારે પણ તે ખુબ જ કામમાં આવે છે, અને ફોનની કિંમતમાં પણ વધારો કરી દે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/dont-throw-away-the-empty-smartphone-box-misunderstanding-it-as-garbage-can-be-a-big-mistake-know-its-many-benefits-478364 ",
+    "time": "2026-05-18T11:45:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "100 રૂપિયાની નોટ પર કેટલી ભાષાઓ લખેલી છે ? 99% લોકો નહીં જાણતા હોય સાચો જવાબ",
+    "desc": "શું તમને ખબર છે કે 100 રૂપિયાની નોટ પર કેટલી ભાષાઓ લખેલી હોય છે ? જો ના જાણતા હોવ તો આ લેખમાં અમે તમને આ પ્રશ્નનો જવાબ તેમજ આવા કેટલાક GK સંબંધિત અન્ય પ્રશ્નો અને તેમના જવાબો વિશે જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gk-quiz-how-many-languages-%E2%80%8B%E2%80%8Bare-written-on-the-100-rupee-indian-note-478362 ",
+    "time": "2026-05-18T11:42:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સતત 6 હાર છતાં પ્લેઓફમાં પહોંચી શકે છે પંજાબ... એક જીત બદલી નાખશે સંપૂર્ણ સમીકરણ, આ બે ટીમોનું વધશે ટેન્શન",
+    "desc": "IPL 2026ની શાનદાર શરૂઆત કરનાર પંજાબ કિંગ્સ છેલ્લી છ મેચોથી જીત માટે ઝંખી રહી છે. શ્રેયસ ઐયરની ટીમને 19મી સીઝનમાં સતત છઠ્ઠી હારનો સામનો કરવો પડ્યો છે. જો કે, પંજાબ કિંગ્સ માટે પ્લેઓફનો દરવાજો હજુ પણ ખુલ્લો છે. જાણો કેવી રીતે પંજાબ પ્લેઓફમાં પહોંચી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/how-punjab-kings-reach-ipl-playoffs-after-6-consecutive-losses-478356 ",
+    "time": "2026-05-18T11:30:03.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "કેટલા રૂપિયામાં પેટ્રોલ કાર બની શકે છે CNG? કેટલી આપે છે એવરેજ ?  જાણો",
+    "desc": "CNG કારની માંગ વધી રહી છે. નવી CNG કાર ખરીદવાની સાથે, ઘણા લોકો તેમની જૂની પેટ્રોલ કાર પર CNG કીટ પણ લગાવી રહ્યા છે, જેથી તેમનો પેટ્રોલનો ખર્ચ ઓછો થાય. જો કે, CNG કીટ લગાવતા પહેલા, કેટલાક મહત્વપૂર્ણ નિયમો અને ખર્ચને સમજવું ખૂબ જ મહત્વપૂર્ણ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/how-much-can-a-petrol-car-be-converted-to-cng-how-much-does-it-cost-on-average-find-out-478357 ",
+    "time": "2026-05-18T10:57:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમદાવાદ પ્લેન ક્રેશ વિશે મહિનાઓ પછી ચોંકાવનારી વાત સામે આવી, છેલ્લી ઘડી સુધી પાયલોટ....",
+    "desc": "ગયા વર્ષે 12મી જૂનના રોજ અમદાવાદથી લંડન જવા ઉપડેલું વિમાન ગણતરીની પળોમાં જ ક્રેશ થઈ ગયું અને 250થી વધુ લોકોના જીવ ગયા. આ અકસ્માત વિશે હવે એક ચોંકાવનારી માહિતી સામે આવી છે. જાણીને તમારા રૂવાડાં ઊભા થઈ જશે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/shocking-revelation-about-ahmedabad-plane-crash-pilot-held-control-till-the-last-moment-478354 ",
+    "time": "2026-05-18T10:49:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "PM મોદી જે નોર્વે દેશ ગયા ત્યાં કેટલી છે ભારતના 500 રૂપિયાની કિંમત ? જાણીને ચોકી જશો",
+    "desc": "PM મોદી નોર્વેની રાજધાની ઓસ્લો પહોંચ્યા છે. તેઓ 19 મેના રોજ ત્રીજા ભારત-નોર્ડિક સમિટમાં ભાગ લેશે, જ્યાં વિવિધ પ્રાદેશિક અને વૈશ્વિક મુદ્દાઓ પર ચર્ચા કરવામાં આવશે. આ મહત્વપૂર્ણ મુલાકાત દરમિયાન, ત્યાં ભારતીય રૂપિયાનું મૂલ્ય સમજવું રસપ્રદ છે. વિનિમય દર મુજબ, નોર્વેમાં 500 ભારતીય રૂપિયાની કિંમત ફક્ત 47.90 નોર્વેજીયન ક્રોન છે. આ મજબૂતાઈ પાછળની આર્થિક ગણતરીઓ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/pm-modi-visited-norway-where-the-indian-500-rupee-note-is-worth-you-will-be-shocked-to-know-478355 ",
+    "time": "2026-05-18T10:41:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "દુનિયાના આ શહેરમાં, &amp;#039;મરવું&amp;#039; ગેરકાયદેસર છે! યમરાજના આગમાન પહેલા શહેર છોડી દે છે લોકો, કારણ જાણી ચોંકી જશો",
+    "desc": "આ શહેરમાં જીવન શાંતિથી પસાર થાય છે, પરંતુ મરવું તે ગુનો છે. યમરાજના આગમાન પહેલા લોકોએ ફરજીયાત આ જગ્યા છોડવી પડે છે. તંત્રના આ નિયમ પાછળ કોઈ અંધવિશ્વાસ કે તાનાશાહી નથી પરંતુ એક વૈજ્ઞાનિક સત્ય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/norway-town-where-dying-is-illegal-longyearbyen-norway-death-ban-mystery-478351 ",
+    "time": "2026-05-18T10:08:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પ્રેમાનંદ મહારાજની તબિયત લથડી, અનિશ્ચિતકાળ સુધી પદયાત્રા-એકાંતિક દર્શન બંધ",
+    "desc": "પ્રેમાનંદ મહારાજની તબિયત લથડી છે. જેના કારણે પદયાત્રા અને એકાંતિક દર્શન અનિશ્ચિતકાળ સુધી સ્થગિત કરવામાં આવ્યા છે. હજારો ભક્તો તેમના દર્શન કર્યા વિના પાછા ફર્યા અને તેમના ઝડપી સ્વસ્થ થવા માટે પ્રાર્થના કરી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/premanand-maharaj-health-deteriorated-padayatra-indefinitely-postponed-478339 ",
+    "time": "2026-05-18T08:44:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold પર જે પી મોર્ગનની ચોંકાવનારી ભવિષ્યવાણી, સોનાના ભાવ પર અનુમાન ઘટાડ્યું, ખાસ જાણો",
+    "desc": "જો તમને સોનું ભેગુ કરવાનો શોખ હોય અને સોનું ખરીદવાની ઈચ્છા થતી હોય તો તમારા માટે આ સમાચાર કામના છે. સોનાના ભાવ પર કેટલીક ભવિષ્યવાણીઓ સામે આવી છે જે તમારે જાણવા જેવી છે. જે પી મોર્ગને વધતી વૈશ્વિક અનિશ્ચિતતાઓ અને અન્ય કારણોસર સોનાના ભાવ પર અનુમાન ઘટાડી દીધુ છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/jp-morgan-gold-price-forecast-changed-lowers-due-to-weak-demand-check-details-478338 ",
+    "time": "2026-05-18T08:26:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આંદમાન સુધી તો પહોંચી ગયું ચોમાસું, પણ અરબ સાગરમાં શું હલચલ ચાલી રહી છે? જાણો ચિંતાજનક આગાહી",
+    "desc": "અંગ દઝાડતી ગરમી અને લૂના થપેડાથી ત્રાહિમામ લોકો હવે કાગડોળે વરસાદની રાહ જોઈ રહ્યા છે. આગાહી મુજબ ચોમાસું આંદમાન અને નિકોબાર ટાપુઓ સુધી તો પહોંચી ગયું છે અને 26મી આસપાસ કેરળ પહોંચવાની આગાહી છે. પરંતુ હવામાન નિષ્ણાંતે અરબ સાગરને લઈને એક એવી વાત જણાવી છે જે ચોમાસા મુદ્દે ચિંતાજનક છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/monsoon-2026-latest-update-reach-to-andaman-nicobar-anti-cyclone-active-in-arab-sagar-478318 ",
+    "time": "2026-05-18T08:10:35.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "આ છે દેશની 10 સૌથી સુરક્ષિત કાર, ખરીદતા પહેલા ચેક કરી લો લિસ્ટ",
+    "desc": "કાર ખરીદતા પહેલા એ જાણવું ખૂબ જ જરૂરી છે કે અકસ્માતની સ્થિતિમાં કાર તમને કેટલી સુરક્ષા પૂરી પાડશે. જો તમે પણ નવી કાર ખરીદવાનું વિચારી રહ્યા છો, તો આ સમાચાર તમારા માટે ઉપયોગી છે. આ લેખમાં દેશની 10 સૌથી સુરક્ષિત કાર વિશે જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/top-10-safest-cars-in-india-check-the-list-before-buying-478333 ",
+    "time": "2026-05-18T07:22:55.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ઇંધણ સંકટના કારણે બદલાઈ જશે IPL 2026નું શેડ્યૂલ ? અરૂણ ધૂમલે તોડ્યું મૌન",
     "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા સંઘર્ષ વચ્ચે પીએમ મોદીની ઇંધણ બચાવવાની અપીલ બાદ વેપારી સંગઠન CTIએ IPL 2026ના શેડ્યૂલમાં ફેરફાર કરવા અથવા બંધ બારણે મેચો યોજવા રમતગમત મંત્રીને પત્ર લખ્યો છે. આ અંગે હવે IPL ચેરમેન અરૂણ ધૂમલનું નિવેદન સામે આવ્યું છે.",
@@ -16,15 +124,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-dark-secret-suicide-or-murder-sushant-singh-rajput-unfinished-story-478319 ",
     "time": "2026-05-18T06:06:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આંદમાન સુધી તો પહોંચી ગયું ચોમાસું, પણ અરબ સાગરમાં શું હલચલ ચાલી રહી છે? જાણો ચિંતાજનક આગાહી",
-    "desc": "અંગ દઝાડતી ગરમી અને લૂના થપેડાથી ત્રાહિમામ લોકો હવે કાગડોળે વરસાદની રાહ જોઈ રહ્યા છે. આગાહી મુજબ ચોમાસું આંદમાન અને નિકોબાર ટાપુઓ સુધી તો પહોંચી ગયું છે અને 26મી આસપાસ કેરળ પહોંચવાની આગાહી છે. પરંતુ હવામાન નિષ્ણાંતે અરબ સાગરને લઈને એક એવી વાત જણાવી છે જે ચોમાસા મુદ્દે ચિંતાજનક છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/monsoon-2026-latest-update-reach-to-andaman-nicobar-anti-cyclone-active-in-arab-sagar-478318 ",
-    "time": "2026-05-18T06:05:56.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +459,6 @@ const newsData_gu = [
     "time": "2026-05-16T10:36:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પેટ્રોલ-ડીઝલ બાદ હવે આ વસ્તુઓના ભાવ વધારા માટે પણ તૈયારી રાખજો, વિશેષજ્ઞોની ચેતવણી!",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે તણાવ ઘટવાનું નામ લેતો નથી. જેને લીધે હોર્મુઝ સંકટ અને તેના પગલે ઓઈલ-ગેસ સંકટ તીવ્ર બની રહ્યું છે. જેની અસર હવે અનેક દેશોમાં જોવા મળી રહી છે. ભારત પણ બાકાત નથી. ભારતમાં ગઈ કાલે જ પેટ્રોલ અને ડીઝલના ભાવમાં 3 રૂપિયાનો વધારો થયો. આ વધારાના કારણે બીજી પણ અનેક વસ્તુઓનો ભાવ વધારો તોળાઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-petrol-and-diesel-now-be-prepared-for-the-price-hike-of-these-items-as-well-daily-cost-of-living-478095 ",
-    "time": "2026-05-16T09:26:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "હાઈથી હજુ પણ ખુબ સસ્તા છે ગોલ્ડ-સિલ્વર, સોનું 17000 અને ચાંદી 1.17 લાખ રૂપિયા સસ્તી",
     "desc": "વીતેલા સપ્તાહમાં સોના અને ચાંદીમાં ભારે ઉથલપાથલ જોવા મળી. ભાવમાં તેજી પણ જોવા મળી અને ત્યારબાદ ભાવમાં ભારે ઘટાડો પણ જોવા મળ્યો. સપ્તાહમાં સોના-ચાંદીમાં શું ફેરફાર રહ્યો અને ઓલટાઈમ હાઈથી અત્યારે શું પરિસ્થિતિ છે એ પણ જાણો.",
@@ -394,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-wedding-rumours-cricketr-married-with-girlfriend-mahieka-sharma-soon-478072 ",
     "time": "2026-05-16T07:10:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;પપ્પા બસમાં દૂધ અને છાશ મોકલી આપજો&amp;#039; પિતા સાથે છેલ્લી વાતચીત બાદ નીટ છાત્રનો આપઘાત",
-    "desc": "રાજસ્થાનના સીકરમાં નીટના છાત્ર 22 વર્ષીય પ્રદીપ માહીચે પરીક્ષા રદ્દ થવાના તણાવમાં આપઘાત કર્યો છે. પ્રદીપ ત્રણ બહેનોનો એકમાત્ર ભાઈ હતો અને પરીક્ષામાં તેને સારા માર્ક્સ આવવાની આશા હતી પરંતુ તેનું સપનું ભ્રષ્ટ તંત્રએ છીનવી લીધું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/neet-student-pradeep-mahich-commits-suicide-in-sikar-student-was-depressed-after-paper-leak-478069 ",
-    "time": "2026-05-16T06:58:31.000Z"
   },
   {
     "cat": "Tech",
@@ -495,15 +576,6 @@ const newsData_gu = [
     "time": "2026-05-15T11:03:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "12 મેચ બાકી, 2 ટીમો બહાર, 8 ટીમ માટે હજુ પણ તક... IPL પ્લેઓફ માટે જટિલ સમીકરણ",
-    "desc": "IPL 2026ના લીગ સ્ટેજમાં હવે 12 મેચ બાકી છે, પરંતુ પ્લેઓફની તસવીર લગભગ સ્પષ્ટ થવા લાગી છે. GT અને RCB 99% આગામી રાઉન્ડમાં પહોંચી ગયા છે, જ્યારે સનરાઇઝર્સ હૈદરાબાદ મજબૂત સ્થિતિમાં છે. મુંબઈ સામે હાર બાદ પંજાબને ઝટકો લાગ્યો છે. કોલકત્તા અને દિલ્હીની આગામી રાઉન્ડમાં પહોંચવાની આશા નહિવત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-playoff-race-which-four-teams-will-reach-the-playoffs-top-4-scenairos-477968 ",
-    "time": "2026-05-15T09:31:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "LPG પર આવ્યા ગુડ ન્યૂઝ, ભારત-UAE વચ્ચે થઈ મોટી ડીલ, મળશે મોટી રાહત!",
     "desc": "હાલ દેશમાં જે ઉર્જા સંકટ જોવા મળી રહ્યું છે તેમાં રાહત મળે તેવા સમાચાર આવ્યા છે. પીએમ મોદી હાલ યુએઈ પ્રવાસે છે અને અહીં ભારત અને યુએઈ વચ્ચે એક મોટી ડીલ થઈ છે. જાણો આ ડીલ વિશે.",
@@ -558,15 +630,6 @@ const newsData_gu = [
     "time": "2026-05-14T15:31:43.000Z"
   },
   {
-    "cat": "World",
-    "title": "ચીન પહોંચેલા અમેરિકી અધિકારી કેમ ન લઈ ગયા પોતાના ફોન-લેપટોપ, જાસૂસીનો ડર કે અન્ય કારણ?",
-    "desc": "ચીનમાં અમેરિકી અધિકારીઓએ ડિજિટલ લોકડાઉનની સાથે પ્રવેશ કર્યો. ચીનની યાત્રા દરમિયાન ટ્રમ્પની સાથે ઘણા અધિકારી પોતાના પર્સનલ ફોન અને લેપટોપ લઈ ગયા નથી. તેની જર્યાએ તે એવી ડિવાઇસ લઈ ગયા, જેમાં જરૂરી ડેટા નહતો જેથી જાસૂસી અને ડેટા ચોરી જેવી સમસ્યાથી બચી શકાય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-did-us-officials-arriving-in-china-not-bring-their-phones-and-laptops-trump-digital-lockdown-477885 ",
-    "time": "2026-05-14T13:52:28.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Thar ખરીદનારાઓ માટે ખુશખબર ! કંપની આ મહિને આપી રહી છે 1 લાખથી વધુનું ડિસ્કાઉન્ટ, જાણો નવી કિંમત",
     "desc": "Thar ખરીદવાનું વિચારી રહેલા લોકો માટે સારા સમાચાર સામે આવ્યા છે. કંપની રૂપિયા 1 લાખથી વધુનું ડિસ્કાઉન્ટ ઓફર કરી રહી છે, ત્યારે આ લેખમાં જાણીશું કે કંપની કયા મોડલ પર કેટલા રૂપિયાનું ડિસ્કાઉન્ટ આપી રહી છે.",
@@ -583,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/prime-video-hindi-web-series-sapne-vs-everyone-season-2-no-1-highest-rating-on-imdb-477798 ",
     "time": "2026-05-14T05:05:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ચીનના રાષ્ટ્રપતિએ વૈશ્વિક નેતૃત્વ મુદ્દે ટ્રમ્પને આપી દીધી મોટી સલાહ, જાણો શું કહ્યું?",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ હાલ ચીનના પ્રવાસે છે અને સમગ્ર દુનિયાની નજર તેમના પર છે. એકબાજુ ઈરાન સાથે સમુ સુથરું કરવાના પ્રયત્નો થઈ રહ્યા છે અને બીજી બાજુ અમેરિકા ચીન સાથે પણ સંબંધો સુધારવાની કોશિશ કરી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-china-visit-chinese-president-xi-jinping-trump-meeting-477796 ",
-    "time": "2026-05-14T04:36:09.000Z"
   },
   {
     "cat": "Tech",
@@ -684,15 +738,6 @@ const newsData_gu = [
     "time": "2026-05-11T10:26:40.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "આ છે દેશની સૌથી સુરક્ષિત SUV! ક્રેશ ટેસ્ટમાં મળ્યા 5-સ્ટાર, કિંમત માત્ર ₹5,64,990 થી શરૂ",
-    "desc": "ભારતમાં કાર ખરીદવા સમયે હવે માત્ર માઇલેજ અને ફીચર્સ જ નહીં, પરંતુ સેફ્ટી પણ સૌથી મોટું ફેક્ટર બની ગયું છે. Bharat NCAP 2026 ના નવા રેટિંગ્સમાં કેટલીક કારોએ શાનદાર રેન્ક હાસિલ કરી બધાને ચોંકાવ્યા છે. ખાસ વાત છે કે બે SUVs એ પરફેક્ટ 32/32 નો સ્કોર હાસિલ કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/this-is-the-safest-suv-in-the-country-5-star-in-crash-test-price-starts-from-just-%E2%82%B9564990-477396 ",
-    "time": "2026-05-11T07:57:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vijay-Trisha Movies: વિજય થલપતિ-ત્રિશા કૃષ્ણનની ઓનસ્ક્રીન કેમેસ્ટ્રી છે જોરદાર, ઓટીટી પર જુઓ આ જોડીની 3 શાનદાર ફિલ્મો",
     "desc": "તમિલનાડુના મુખ્યમંત્રી બનેલા થલપતિ વિજય અને ત્રિશા કૃષ્ણનની જોડીની ચર્ચા ઘણા સમયથી થઈ રહી છે. આ જોડીની ઓફસ્ક્રીન કેમેસ્ટ્રી તો ચર્ચામાં છે જ પણ જો તમારે આ જોડીને ઓનસ્ક્રીન કેમેસ્ટ્રી જોવી હોય તો ઓટીટી પર તેમની આ 3 ફિલ્મો જુઓ.",
@@ -702,15 +747,6 @@ const newsData_gu = [
     "time": "2026-05-11T03:30:29.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Hondaના આ બાઇકમાં આવી ખામી, કંપનીએ જાહેર કર્યું રિકોલ... ચેક કરી લો તમારી બાઈક તો નથી ને આમાં ?",
-    "desc": "હોન્ડાએ તેની એક મોટરસાઇકલ માટે રિકોલ જાહેર કર્યું છે. આ બાઈકમાં ખામી આવતા તેને કંપનીએ પાછી ખેંચવાની જાહેરાત કરી છે. ત્યારે આ બાઈક કઈ છે અને કઈ ખામીના કારણે પરત ખેંચવામાં આવી છે. તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/honda-cb1000-hornet-sp-recalled-due-technical-issue-477294 ",
-    "time": "2026-05-10T12:23:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "&amp;quot;ઇંટીમેટ સીન કરવા તૈયાર હોય તેને જ ફિલ્મોમાં કામ મળે..&amp;quot; જાણીતી અભિનેત્રીએ સોશિયલ મીડિયા પર શેર કરી ચોંકાવનારી વાતો",
     "desc": "સલમાન ખાન સાથે કામ કરી ચુકેલી અભિનેત્રીએ તેની ઈંસ્ટાગ્રામ પોસ્ટમાં એક મોટો ધડાકો કર્યો છે. અભિનેત્રીનું કહેવું છે કે ઈંડસ્ટ્રીમાં કામ તેને મળે છે જે ઓનસ્ક્રીન કિસીંગ સીન અને હીરો સાથે ઇંટીમેટ સીન કરવા તૈયાર હોય. આ વાત કોણે કહી છે અને શા માટે કરી છે જાણો વિસ્તારપૂર્વક.",
@@ -718,14 +754,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/actress-nauheed-cyrusi-said-she-is-not-getting-role-because-she-is-not-ready-to-do-kissing-and-intimate-scenes-on-screen-477116 ",
     "time": "2026-05-09T06:00:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અક્ષય કુમારની હોરર કોમેડી ફિલ્મ ભૂત બંગલા કયા ઓટીટી પ્લેટફોર્મ પર ક્યારે આવશે જાણો",
-    "desc": "અક્ષય કુમારની હોરર કોમેડી ફિલ્મ હવે ઓટીટી પર ક્યારે આવશે તે વાત જાણવા લોકો આતુર થયા છે. ભૂત બંગલા ફિલ્મની ઓટીટી રિલીઝ માટે તમે પણ રાહ જોઈ રહ્યા છો તો ચાલો તમને જણાવીએ આ અંગેની જાણકારી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-film-bhooth-bangla-ott-streming-partner-bhooth-bangla-film-ott-release-476975 ",
-    "time": "2026-05-08T05:27:29.000Z"
   }
 ];
