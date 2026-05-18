@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunrisers Hyderabad reach IPL 2026 knockouts, register thrilling win over Chennai Super Kings",
+    "desc": "Chennai Super Kings took on Sunrisers Hyderabad in the 63rd game of the ongoing IPL (Indian Premier League) 2026 season. The two sides met at the MA Chidambaram Stadium in Chennai on May 18th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-reach-the-ipl-2026-knockouts-register-thrilling-win-over-chennai-super-kings-2026-05-18-1041615",
+    "time": "2026-05-18T18:13:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Incredibly smart': KL Rahul weighs in on facing Jofra Archer, reflects on Abishek Porel's potential",
     "desc": "The IPL (Indian Premier League) 2026 playoff race is approaching its end. The sides only have one or two matches left in the league phase of the tournament. With the top four still undecided, the...",
     "img": "",
@@ -19,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Chennai Super Kings aim to keep playoffs race alive",
+    "title": "Sunrisers Hyderabad defeat Chennai Super Kings by five wickets",
     "desc": "Chennai Super Kings and Sunrisers Hyderabad take on each other in the 62nd game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the MA Chidambaram Stadium in Chennai, and both...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammad-kaif-delivers-verdict-on-vaibhav-sooryavanshis-fielding-before-potential-india-call-up-2026-05-18-1041561",
     "time": "2026-05-18T09:36:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CIC reverses its order",
-    "desc": "The Central Information Commission (CIC) on Monday ruled that the Board of Control for Cricket in India (BCCI) does not qualify as a \"public authority\" under the RTI Act, stating that the body is neither...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-not-a-public-authority-under-rti-act-cic-reverses-its-order-2026-05-18-1041558",
-    "time": "2026-05-18T09:12:04.000Z"
   }
 ];

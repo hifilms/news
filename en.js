@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "The Titan maker",
+    "desc": "Control with the ball, crucial lower-order runs, and composure under pressure — Holder has changed the rhythm of Titans’ season. Now, they look like one of the most complete teams in the tournament and are gathering momentum going into the playoffs",
+    "img": "https://th-i.thgim.com/public/incoming/r1zyid/article70995539.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_818_5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/the-titanmaker/article70995536.ece",
+    "time": "2026-05-18T19:29:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mouni shares first glimpse from Cannes amid separation from Suraj",
+    "desc": "Mouni Roy is continuing to stay committed to her professional journey despite going through a difficult phase in her personal life. The actress, who recently confirmed her separation from husband Suraj Nambiar after four years of marriage, has now headed to the Cannes Film Festival for the screening of her film Bombay Stories.",
+    "img": "https://static.toiimg.com/photo/msid-131184857,imgsize-54760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mouni-roy-shares-glamorous-first-glimpse-from-cannes-amid-separation-from-suraj-nambiar-stuns-in-elegant-black-outfit/articleshow/131184794.cms",
+    "time": "2026-05-18T18:59:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SRH qualify for playoffs after beating CSK by 5 wickets",
+    "desc": "Sunrisers Hyderabad qualified for the IPL 2026 playoffs after a five-wicket win over Chennai Super Kings at Chepauk. Ishan Kishan scored 70 and added 75 runs with Heinrich Klaasen (47) in the chase of 181. Earlier, Pat Cummins starred with 3/28 as SRH joined Royal Challengers Bengaluru and Gujarat Titans in the playoffs.",
+    "img": "https://static.toiimg.com/photo/msid-131184753,imgsize-110230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ishan-kishan-shines-as-srh-qualify-for-playoffs-after-beating-csk-by-five-wickets/articleshow/131184708.cms",
+    "time": "2026-05-18T18:53:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CAA applicants must declare passport status, surrender foreign passports: MHA",
+    "desc": "Home Ministry notifies amendment to Citizenship Rules; move comes days after BJP came to power for the first time in West Bengal where a large number of Matua community, the intended beneficiaries of CAA legislation reside",
+    "img": "https://th-i.thgim.com/public/news/national/csmby1/article70995490.ece/alternates/LANDSCAPE_1200/iStock-182664496.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/caa-applicants-must-declare-passport-status-surrender-foreign-passports-mha/article70995357.ece",
+    "time": "2026-05-18T18:23:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Elon Musk loses lawsuit against OpenAI",
+    "desc": "A jury in Oakland ruled Elon Musk waited too long to sue OpenAI and its leaders, a decision that significantly benefits the AI company and its founders. The jury found Musk's lawsuit barred by the statute of limitations, a finding the judge indicated she agrees with. This ruling comes as OpenAI prepares for a potential IPO.",
+    "img": "https://static.toiimg.com/photo/msid-131183533,imgsize-790917.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/elon-musk-loses-lawsuit-against-openai/articleshow/131183530.cms",
+    "time": "2026-05-18T18:04:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rare! Gukesh's challenger Sindarov plays against bedridden Firouzja",
+    "desc": "Alireza Firouzja stunned the chess world by playing his Round 5 classical game against Javokhir Sindarov from a hotel room bed at the Superbet Chess Classic Romania 2026 after suffering an ankle injury. The extraordinary setup quickly went viral. Earlier, R Praggnanandhaa defeated Sindarov in a significant round-two encounter in Bucharest.",
+    "img": "https://static.toiimg.com/photo/msid-131183464,imgsize-35716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/rare-d-gukeshs-world-cship-challenger-sindarov-plays-classical-chess-against-bedridden-alireza-firouzja-watch/articleshow/131183159.cms",
+    "time": "2026-05-18T18:02:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daisy reveals what happened after she rejected Salman’s Bodyguard",
+    "desc": "Daisy Shah may have made her Bollywood breakthrough opposite Salman Khan in Jai Ho, but before that, the actress had actually turned down Hazel Keech's role in Bodyguard. In a recent interview, Daisy recalled the difficult moment when she said no to Salman Khan’s Bodyguard and revealed how tense the atmosphere became afterward.",
+    "img": "https://static.toiimg.com/photo/msid-131182803,imgsize-84698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daisy-shah-reveals-what-happened-after-she-rejected-hazel-keechs-role-in-salman-khans-bodyguard-there-was-pin-drop-silence/articleshow/131182750.cms",
+    "time": "2026-05-18T17:32:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Mel Gibson",
+    "desc": "Mel Gibson emphasizes the elusive nature of happiness, urging us to cherish fleeting moments of joy and serenity. He believes true contentment isn't found in success but in appreciating even brief instances of peace. This perspective encourages embracing life's imperfections and valuing small blessings, highlighting that genuine happiness, however brief, is a profound gift.",
+    "img": "https://static.toiimg.com/photo/msid-131181318,imgsize-84038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-mel-gibson-the-thing-were-all-looking-for-is-happiness-even-for-five-minutes-a-day-were-very-lucky/articleshow/131181255.cms",
+    "time": "2026-05-18T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India is now Maoist-free, declares Shah, ‘with pride’",
+    "desc": "Home Minister says the country is largely free from security challenges of Jammu & Kashmir, the Northeast, and Naxalism; he urges the people of Bastar to “accept” about 3,000 surrendered Naxals and help them become part of the mainstream",
+    "img": "https://th-i.thgim.com/public/incoming/1zcaia/article70995374.ece/alternates/LANDSCAPE_1200/PTI05_18_2026_000364B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-is-now-maoist-free-declares-shah-with-pride/article70995112.ece",
+    "time": "2026-05-18T17:28:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK's 'Arjuna' who refuses to attack",
+    "desc": "Among all batters who have faced at least 100 balls in the powerplay this season, Gaikwad has the lowest strike rate — 124.6. For comparison, Vaibhav Sooryavanshi has scored at 244.51 and Abhishek Sharma at 228.87.",
+    "img": "https://static.toiimg.com/photo/msid-131182082,imgsize-53770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ruturaj-gaikwad-csks-arjuna-who-refuses-to-attack/articleshow/131181675.cms",
+    "time": "2026-05-18T17:23:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "FIR against government officials for not doing Census work",
     "desc": "A complaint by a Census official alleges the employees concerned defied government orders by not collecting data and not making a single entry in the designated house listing operation (HLO) mobile app, despite repeated warnings to begin their work",
@@ -9,13 +99,13 @@ const newsData_en = [
     "time": "2026-05-18T17:20:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "U.S. Treasury to extend sanction waiver on Russian seaborne oil, source says",
-    "desc": "The waiver will last another 30 days and was ‌sought by several poor and vulnerable countries cut off from Gulf oil supplies by the Iran war ‌and the closure of the Strait of Hormuz, ‌the ⁠source said.",
-    "img": "https://th-i.thgim.com/public/incoming/1y83ex/article70995351.ece/alternates/LANDSCAPE_1200/2026-05-18T073720Z_411931971_RC2IBLAL5LGX_RTRMADP_3_G7-FINANCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-extend-sanction-waiver-on-russian-seaborne-oil/article70995346.ece",
-    "time": "2026-05-18T17:16:24.000Z"
+    "cat": "Sports",
+    "title": "Dhoni enters field at Chepauk for final home appearance of IPL 2026",
+    "desc": "MS Dhoni thrilled Chepauk fans with a brief on-field appearance during CSK’s final home game of IPL 2026 against Sunrisers Hyderabad, despite missing the match through injury. The emotional moment came during the mid-innings team photo. Earlier, Ravi Shastri confirmed through Ruturaj Gaikwad that Dhoni was still unfit, while CSK managed 180/7 batting first.",
+    "img": "https://static.toiimg.com/photo/msid-131182448,imgsize-60706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ms-dhoni-enters-field-at-chepauk-for-final-home-appearance-of-ipl-2026-watch/articleshow/131181749.cms",
+    "time": "2026-05-18T17:16:44.000Z"
   },
   {
     "cat": "Politics",
@@ -52,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/andy-grammer-and-aijia-announce-third-pregnancy-release-hilarious-video-to-share-the-news/articleshow/131181731.cms",
     "time": "2026-05-18T16:46:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arun",
-    "desc": "Mayank Yadav made a sensational debut in the IPL two years ago, when he took three for 27 for the Lucknow Super Giants against the Punjab Kings, was named the “Player of the Match”, and clocked 155.8 kmph",
-    "img": "https://th-i.thgim.com/public/incoming/rd9bpj/article70994574.ece/alternates/LANDSCAPE_1200/IPL%202026%2010.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/we-have-to-take-care-of-rare-talent-mayank-arun/article70994584.ece",
-    "time": "2026-05-18T16:46:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +432,6 @@ const newsData_en = [
     "time": "2026-05-18T12:34:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Janhvi Kapoor calls Buchi Babu ‘Most Rowdy director’",
-    "desc": "Janhvi Kapoor lauded director Buchi Babu Sana as India's 'Most Rowdy Director' at the trailer launch of their film 'Peddi'. She expressed immense happiness seeing the trailer with the audience for the first time and spoke about her deep bond with Sana, calling him her best friend.",
-    "img": "https://static.toiimg.com/photo/msid-131176555,imgsize-128906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-trailer-launch-janhvi-kapoor-calls-buchi-babu-sana-most-rowdy-director-in-india-talks-about-her-bond-with-the-director/articleshow/131176440.cms",
-    "time": "2026-05-18T12:22:08.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Twisha Sharma's father seeks fresh autopsy; Yogi warns against namaz on roads &amp; more",
     "desc": "Twisha Sharma's father demands a fresh autopsy at AIIMS-Delhi, alleging a cover-up and accusing his son-in-law of drug addiction. Meanwhile, Yogi Adityanath warns of 'other methods' if namaz continues on UP roads. West Bengal's new government scraps religion-based schemes and the OBC list. India reaffirms its commitment to buying Russian crude oil, prioritizing energy security.",
@@ -376,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/parliamentry-panel-summons-nta-chief-after-neet-paper-leak-reform-in-focus/articleshow/131175908.cms",
     "time": "2026-05-18T12:09:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ann Robinson passes away at 96",
-    "desc": "The world has lost a true icon with the passing of Ann Robinson at 96, the veteran actress and renowned stuntwoman who captivated audiences as Sylvia in the 1953 classic 'The War Of The Worlds.' Robinson's legacy continued with her return in Spielberg's 2005 version, and she slipped away peacefully at her home in Los Angeles.",
-    "img": "https://static.toiimg.com/photo/msid-131176112,imgsize-63838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ann-robinson-stuntwoman-and-cult-sci-fi-legend-dies-at-96-death-revealed-eight-months-later/articleshow/131175949.cms",
-    "time": "2026-05-18T12:01:58.000Z"
   },
   {
     "cat": "Sports",
@@ -430,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/suvendu-govt-ends-religion-based-schemes-in-bengal-scraps-state-obc-list/articleshow/131174070.cms",
     "time": "2026-05-18T11:23:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Peddi’ trailer: Ram Charan fights for his people through sports and spirit",
-    "desc": "Ram Charan and Janhvi Kapoor star in the upcoming sports action drama 'Peddi,' directed by Buchi Babu Sana. The recently released trailer showcases Ram Charan as a revered athlete, a 'deity on the playground,' who fights oppression through sports. The film, featuring a stellar cast and AR Rahman's music, hits theaters on June 4.",
-    "img": "https://static.toiimg.com/photo/msid-131174601,imgsize-656280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-trailer-out-ram-charan-shines-as-fearless-village-hero-in-intense-trailer/articleshow/131174515.cms",
-    "time": "2026-05-18T11:08:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -523,15 +577,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Above my pay grade’: Badani questions CA’s decision to release Starc late",
-    "desc": "Delhi Capitals kept their IPL 2026 playoff hopes alive with a win, but player availability, especially Mitchell Starc's, remains a season-long concern. Coach Hemang Badani highlighted the challenges of overseas player access due to national board decisions. Starc's match-winning four-wicket haul proved his value, earning him praise for professionalism and mentorship.",
-    "img": "https://static.toiimg.com/photo/msid-131171487,imgsize-77346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-above-my-pay-grade-dc-coach-hemang-badani-questions-cricket-australias-decision-to-release-mitchell-starc-late/articleshow/131171417.cms",
-    "time": "2026-05-18T08:46:14.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Fit lag raha hu na': Dhoni trains with NSG as CSK fans wait for Chepauk return",
     "desc": "MS Dhoni's visit to the NSG Hub, showcasing his fitness and shooting skills, coincides with a high-stakes IPL 2026 match for CSK. With Dhoni sidelined by injury and speculation rife about his final Chepauk appearance, fans anticipate an emotional farewell, regardless of his playing status. The team's playoff hopes hinge on upcoming wins.",
     "img": "https://static.toiimg.com/photo/msid-131170074,imgsize-656497.cms",
@@ -567,24 +612,6 @@ const newsData_en = [
     "time": "2026-05-18T07:19:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Not happening today!’: Is Ashwin hinting at MS Dhoni’s retirement in 2027?",
-    "desc": "Chennai Super Kings fans are buzzing with anticipation for MS Dhoni's potential appearance in their final home game against Sunrisers Hyderabad. Despite cryptic social media posts from R Ashwin hinting at his absence, Dhoni's recent net session has fueled speculation. The team's 'Lap of Honour' announcement further intensified retirement talks, making this match a highly emotional affair.",
-    "img": "https://static.toiimg.com/photo/msid-131169273,imgsize-189432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/not-happening-today-is-ashwin-hinting-at-ms-dhonis-retirement-in-2027/articleshow/131169220.cms",
-    "time": "2026-05-18T06:55:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I would be very surprised’: Gavaskar casts doubt over Dhoni’s Chepauk return",
-    "desc": "Speculation is rife about MS Dhoni's potential return for Chennai Super Kings' crucial final home game against Sunrisers Hyderabad. However, Sunil Gavaskar has strongly dismissed the possibility, citing Dhoni's year-long absence from competitive cricket and the significant risk involved in a must-win encounter. Gavaskar believes Dhoni, a true team player, wouldn't disrupt the current winning combination.",
-    "img": "https://static.toiimg.com/photo/msid-131169125,imgsize-159278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-would-be-very-surprised-sunil-gavaskar-casts-doubt-over-ms-dhonis-chepauk-return-in-must-win-csk-clash/articleshow/131168388.cms",
-    "time": "2026-05-18T06:48:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Exhibits that define Hyderabad’s iconic museum",
     "desc": "Marking its diamond jubilee this year, alongside International Museum Day on May 18?, Hyderabad’s Salar Jung Museum brings together nearly 48,000 artefacts across 40 galleries, spanning Mughal, European and Far Eastern traditions. Short on time? Here are our highlights - from a musical clock to veiled Rebecca",
@@ -603,15 +630,6 @@ const newsData_en = [
     "time": "2026-05-18T05:49:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘I didn’t drop him because…’: Ganguly reveals how he fought selectors for Dravid",
-    "desc": "Sourav Ganguly revealed he shielded Rahul Dravid from selectors concerned about his ODI strike rate. Ganguly insisted on Dravid's value, working with him to adapt his game and even having him keep wickets to balance the team. This strategic backing and flexibility were crucial in building a competitive Indian ODI side.",
-    "img": "https://static.toiimg.com/photo/msid-131167527,imgsize-73862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-didnt-drop-him-because-sourav-ganguly-reveals-how-he-fought-selectors-for-rahul-dravid-reshaped-indias-odi-team/articleshow/131167439.cms",
-    "time": "2026-05-18T05:30:01.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "how your keyboard is stealing the soul of language",
     "desc": "Predictive keyboards, AI systems are not just helping us communicate faster; they may slowly shape how humans think and write; as people select rather than construct language, the diversity and unpredictability that give communication its human ‘soul’ risk shrinking into statistical averages",
@@ -619,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-predictability-pandemic-how-your-keyboard-is-stealing-the-soul-of-language/article70991160.ece",
     "time": "2026-05-18T05:16:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "With 8 games to go, RCB officially qualify; DC’s chances rise to 19.5%",
-    "desc": "With eight games remaining, LSG and MI are out of playoff contention. RCB has qualified. GT are assured of a top-four points finish but could miss out. SRH have a high chance of making the top four. CSK and RR have less than even chances for the top four. PBKS, DC, and KKR's playoff hopes are diminishing.",
-    "img": "https://static.toiimg.com/photo/msid-131164331,imgsize-65436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-scenarios-with-8-matches-to-go-rcb-officially-qualify-dcs-chances-rise-to-19-5-odds-for-each-team-explained/articleshow/131164311.cms",
-    "time": "2026-05-18T01:38:32.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/taiwan-wont-be-sacrificed-us-arms-sales-a-commitment-president-responds-to-trump/article70990781.ece",
     "time": "2026-05-17T14:27:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump administration promotes program to check voter eligibility; critics fear a midterm purge",
-    "desc": "The scanning of state voter rolls at the national level is part of a broader effort by Republican President Donald Trump to federalise certain election functions and promote his messaging that elections are marred by noncitizen voting, even though instances of that are rare.",
-    "img": "https://th-i.thgim.com/public/incoming/imlith/article70990266.ece/alternates/LANDSCAPE_1200/Trump_41361.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-administration-promote-program-to-check-voter-eligibility-critics-fear-a-midterm-purge/article70990206.ece",
-    "time": "2026-05-17T12:50:04.000Z"
   },
   {
     "cat": "Entertainment",
