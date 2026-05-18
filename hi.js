@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Incredibly smart': KL Rahul weighs in on facing Jofra Archer, reflects on Abishek Porel's potential",
+    "desc": "The IPL (Indian Premier League) 2026 playoff race is approaching its end. The sides only have one or two matches left in the league phase of the tournament. With the top four still undecided, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/incredibly-smart-kl-rahul-weighs-in-on-facing-jofra-archer-reflects-on-abishek-porel-s-potential-2026-05-18-1041612",
+    "time": "2026-05-18T17:03:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pat Cummins surpasses Hardik Pandya in elite list with spectacular performance against CSK",
+    "desc": "The 63rd game of the ongoing IPL (Indian Premier League) 2026 saw Chennai Super Kings taking on Sunrisers Hyderabad at the MA Chidambaram Stadium in Chennai. The clash began with Chennai Super Kings coming into...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-surpasses-hardik-pandya-in-elite-list-with-spectacular-performance-against-csk-2026-05-18-1041609",
+    "time": "2026-05-18T15:52:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chennai Super Kings aim to keep playoffs race alive",
+    "desc": "Chennai Super Kings and Sunrisers Hyderabad take on each other in the 62nd game of the ongoing IPL (Indian Premier League) 2026. The two sides meet at the MA Chidambaram Stadium in Chennai, and both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-srh-live-cricket-score-chennai-super-kings-aim-to-keep-playoffs-race-alive-2026-05-18-1041599",
+    "time": "2026-05-18T14:17:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni misses Chennai Super Kings' final home game of the IPL 2026, hosts opt to bat first in Chepauk",
+    "desc": "The stage is set for the 63rd game of the ongoing IPL (Indian Premier League) 2026 season. Chennai Super Kings are taking on Sunrisers Hyderabad at the MA Chidambaram Stadium in Chepauk, and ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-misses-chennai-super-kings-final-home-game-of-the-ipl-2026-hosts-opt-to-bat-first-in-chepauk-2026-05-18-1041596",
+    "time": "2026-05-18T14:04:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Needs to improve': Mohammad Kaif points out Vaibhav Sooryavanshi's weak spot as RR's subpar form continues",
+    "desc": "Rajasthan Royals’ IPL (Indian Premier League) 2026 season has been derailed. The side got off to a brilliant start to the season, winning consecutive matches. However, with the group stage coming to an end, Rajasthan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/needs-to-improve-mohammad-kaif-points-out-vaibhav-sooryavanshi-s-weak-spot-as-rr-s-subpar-form-continues-2026-05-18-1041591",
+    "time": "2026-05-18T13:32:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer blames 'internal problems' in RR's camp after loss against DC",
+    "desc": "Rajasthan Royals’ horrible form in the ongoing IPL (Indian Premier League) 2026 season continued as the side lost its third straight game of the season. Taking on Delhi Capitals at the Arun Jaitley Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-blames-internal-problems-in-rr-s-camp-after-loss-against-dc-2026-05-18-1041587",
+    "time": "2026-05-18T12:42:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why are CSK above RR in IPL 2026 points table despite having same points and net run rate?",
     "desc": "The IPL (Indian Premier League) 2026’s group stage phase is coming to an end, with just one or two games left per side, and the top four of the tournament are yet to be decided....",
     "img": "",
@@ -34,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-not-a-public-authority-under-rti-act-cic-reverses-its-order-2026-05-18-1041558",
     "time": "2026-05-18T09:12:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Massive lifeline for CSK after PBKS, RR lose on action-packed Sunday in IPL 2026",
-    "desc": "Chennai Super Kings have been handed a massive lifeline as two of the most-wanted results have gone their way in the fight for the Indian Premier League 2026 playoffs. On an action-packed Sunday on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/massive-lifeline-for-csk-after-pbks-rr-lose-on-action-packed-sunday-in-ipl-2026-2026-05-18-1041542",
-    "time": "2026-05-18T06:44:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Injury concern for Ravindra Jadeja? RR coach reveals exact reason why all-rounder missed DC vs RR IPL clash",
-    "desc": "Ravindra Jadeja's absence from the Rajasthan Royals' line-up for their Indian Premier League 2026 clash against the Delhi Capitals raised a few eyebrows. Returning from his own hamstring injury, RR captain Riyan Parag revealed at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/injury-concern-for-ravindra-jadeja-rr-coach-reveals-exact-reason-why-all-rounder-missed-dc-vs-rr-ipl-clash-2026-05-18-1041534",
-    "time": "2026-05-18T06:03:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner completes Career Golden Masters, breaks Novak Djokovic's record after Italian Open win",
-    "desc": "Jannik Sinner defeated Casper Ruud in the Italian Open final to complete his Career Golden Masters and etch his name into the history books. Sinner has now added the only missing ATP Masters 1000 title...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-completes-career-golden-masters-breaks-novak-djokovics-record-after-italian-open-win-2026-05-18-1041530",
-    "time": "2026-05-18T04:55:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul breaks AB de Villiers all-time record after strong fifty against RR in Delhi",
-    "desc": "Delhi Capitals opener KL Rahul has shattered a major AB de Villiers record with a strong half-century against the Rajasthan Royals in their 13th match of the Indian Premier League 2026. Rahul anchored the 194-run...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-breaks-ab-de-villiers-all-time-record-after-strong-fifty-against-rr-in-delhi-2026-05-18-1041521",
-    "time": "2026-05-18T03:10:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If we keep losing like this, we shouldn't be in top four': Riyan Parag after RR's loss to DC",
-    "desc": "Rajasthan Royals bottled up a chance to keep one of their foot in the IPL 2026 playoffs after losing to Delhi Capitals at the Arun Jaitley Stadium on Sunday, May 17. RR's underwhelming end to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/if-we-keep-losing-like-this-we-shouldnt-be-in-top-four-riyan-parag-after-rrs-loss-to-dc-2026-05-18-1041517",
-    "time": "2026-05-18T02:33:08.000Z"
   }
 ];
