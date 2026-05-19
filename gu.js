@@ -1,12 +1,111 @@
 const newsData_gu = [
   {
-    "cat": "Tech",
-    "title": "WhatsApp પર કેવી રીતે રેકોર્ડ કરી શકાય છે કોઈ પણ કોલ? મોટાભાગના લોકો નથી જાણતા આ ટ્રીક",
-    "desc": "હવે WhatsApp કોલ રેકોર્ડ કરવો પહેલાં જેટલો મુશ્કેલ નથી રહ્યો. Android અને iPhone યુઝર્સ કેટલીક સરળ રીતોની મદદથી જરૂરી કોલ્સ સેવ કરી શકે છે. જો કે, રેકોર્ડિંગ કરતી વખતે પ્રાઇવસી (ગોપનીયતા) અને કાનૂની નિયમોનું ધ્યાન રાખવું ખૂબ જ જરૂરી છે.",
+    "cat": "Sports",
+    "title": "અફઘાનિસ્તાન સામેની ટેસ્ટ અને ODI સિરીઝ માટે ભારતીય ટીમની જાહેરાત... જાણો રોહિત અને કોહલીનું શું થયું",
+    "desc": "અફઘાનિસ્તાન સામેની આગામી ODI અને ટેસ્ટ શ્રેણી માટે ટીમ ઈન્ડિયાની જાહેરાત કરવામાં આવી છે. આજે BCCIની પસંદગી સમિતિની મળેલી બેઠક બાદ ટીમની જાહેરાત કરવામાં આવી છે. ત્યારે આ લેખમાં જાણીશું કે ટીમમાં કયા ખેલાડીઓને તક મળી છે અને કોનું પત્તુ કપાયું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/how-to-record-whatsapp-calls-on-android-and-iphone-whatsapp-call-record-kaise-kare-explained-478452 ",
-    "time": "2026-05-19T06:30:57.000Z"
+    "url": " http://zeenews.india.com/gujarati/sports/india-squad-for-test-and-odi-series-against-afghanistan-shubman-gill-rohit-sharma-virat-kohli-478499 ",
+    "time": "2026-05-19T11:21:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સોના અને પેટ્રોલ પર પીએમ મોદીની અપીલને લોકો કેટલી હદ સુધી સાંભળી રહ્યા છે? જાણો લક્ષદીપના આંકડા દ્વારા",
+    "desc": "વડા પ્રધાન નરેન્દ્ર મોદીએ તાજેતરમાં નાગરિકોને આગામી વર્ષ માટે સોનું ખરીદવાથી દૂર રહેવાની અપીલ કરી હતી. કેટલાક લોકો પીએમ મોદીની પેટ્રોલ-ગોલ્ડ અપીલની અસર પર સવાલ ઉઠાવી રહ્યા છે. 2024માં પીએમ મોદીની લક્ષદ્વીપ મુલાકાતની તેની અસર સ્પષ્ટ થશે. ચાલો જાણીએ કે લક્ષદ્વીપના ડેટા શું દર્શાવે છે..",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/to-what-extent-are-people-listening-to-pm-modi-appeal-on-gold-and-petrol-find-out-through-lakshadweep-statistics-478495 ",
+    "time": "2026-05-19T10:34:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારતમાં પેટ્રોલ-ડીઝલના ભાવ વધારવાનો અધિકાર કોની પાસે છે ? જાણો કોણ નક્કી કરે છે ફ્યુઅલના રેટ",
+    "desc": "દેશમાં પેટ્રોલ-ડીઝલના ભાવમાં સમયાંતરે વધારો ઘટાડો થતો હોય છે, તેથી લોકોના મનમાં વારંવાર આ પ્રશ્ન આવતો હોય છે કે ભારતમાં પેટ્રોલ અને ડીઝલના ભાવ કોણ નક્કી કરે છે. ત્યારે આ લેખમાં આ સવાલનો જવાબ જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/who-decides-the-prices-of-petrol-and-diesel-in-india-478494 ",
+    "time": "2026-05-19T10:23:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આધાર કાર્ડ ધારકો માટે ખુશખબર, UIDAI એ લંબાવી ફ્રીમાં અપડેટ કરવાની તારીખ",
+    "desc": "દેશભરના આધાર કાર્ડ ધારકો માટે સારા સમાચાર છે. UIDAI એ કોઈ પણ ફી ચૂકવ્યા વિના આધાર કાર્ડને ઓનલાઈન અપડેટ કરવાની ડેડલાઈન (અંતિમ તારીખ) લંબાવી દીધી છે. લોકો UIDAI ની ઓફિશિયલ વેબસાઈટ myAadhaar પર ઓનલાઈન અરજી કરીને કોઈ પણ ફી આપ્યા વગર પોતાનું આધાર કાર્ડ અપડેટ કરાવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/new-aadhaar-update-good-news-for-aadhaar-card-holder-uidai-extends-deadline-for-free-updates-478493 ",
+    "time": "2026-05-19T10:08:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું મંદિરોના ખજાનામાં પડેલું 4000 ટન સોનું સરકાર કરશે જપ્ત? આવી ગયો નાણામંત્રાલયનો જવાબ",
+    "desc": "ભારતમાં સોના સાથે જોડાયેલા ઘણા નિયમોમાં ફેરફાર કરવામાં આવ્યો છે. સોનાની આયાત પર શુલ્ક વધારવાને લઈને લિમિટ નક્કી કરવામાં આવી છે. આ વચ્ચે સમાચાર આવ્યા કે સરકાર મંદિરોમાં રાખેલા સોનાને મોનેટાઇઝેશન સ્કીમ સાથે જોડી શકે છે. હવે તેના પર નાણામંત્રાલયનો જવાબ આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/4000-tons-of-gold-stored-in-temple-will-the-government-seize-it-finance-ministry-responds-to-gold-monetization-scheme-478492 ",
+    "time": "2026-05-19T09:58:07.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "8000mAh બેટરી સાથે આવી રહ્યો છે Realme 16T! મિરર સેલ્ફી કેમેરા જેવા દમદાર ફીચર્સ, કિંમત થઈ લીક",
+    "desc": "8000mAh બેટરી, 144Hz ડિસ્પ્લે અને AI કેમેરા…Realme 16T લોન્ચ થતા પહેલા જ ચર્ચામાં આવી ગયો છે. કિંમત લીક થયા બાદ હવે સ્પષ્ટ થઈ ગયું છે કે આ ફોન મિડ-રેન્જ માર્કેટમાં મોટી ટક્કર આપવા જઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/realme-16t-arriving-with-an-8000mah-battery-packed-with-impressive-features-like-a-mirror-selfie-camera-price-leaked-478472 ",
+    "time": "2026-05-19T09:35:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રાતે 2 વાગ્યે શાહરૂખ ખાને કબરમાંથી કાઢ્યો હતો પોતાના શ્વાનનો મૃતદેહ, વર્ષો બાદ સામે આવ્યો કિંગખાનનો એ કિસ્સો",
+    "desc": "શાહરૂખ ખાનનો એક જૂનો કિસ્સો હાલ સોશિયલ મીડિયા પર ડોગ લવર્સમાં ચર્ચાનું કેન્દ્ર બન્યો છે. ગૌરી ખાને જણાવ્યું હતું કે, શાહરૂખ ખાને અડધી રાતે પોતાના પાળતૂ શ્વાનને કબરમાંથી કાઢીને તેનો મૃતદેહ ઘર લઈ આવ્યા હતા. રખડતા શ્વાન પર સુપ્રીમ કોર્ટના ચુકાદા બાદ આ કિસ્સો વાયરલ થઈ રહ્યો છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shahrukh-khan-pet-dog-deadbody-midnight-incidence-on-supreme-court-street-dog-judgement-478468 ",
+    "time": "2026-05-19T08:44:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સરકારી કર્મચારીઓ અને પેન્શનર્સ માટે અત્યંત મહત્વના સમાચાર, ક્યારથી મળશે વધેલો પગાર અને પેન્શન?",
+    "desc": "આઠમાં પગાર પંચ અંગે કેન્દ્ર સરકારના કર્મચારીઓ ખુબ જ આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે. તેની નાનામાં નાની અપડેટ અંગે જાણવામાં પણ તેઓ રસ ધરાવે છે. કર્મચારીઓમાં એ વાત વિશે ઉત્સુકતા રહેતી હોય છે કે તેમનો પગાર કેટલો વધશે અને વધેલો પગાર ક્યારથી મળવાનો શરૂ થશે? હવે આ વિશે એક મોટું અપડેટ સામે આવ્યું છે. ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-big-update-for-central-government-employees-regarding-revised-salary-478467 ",
+    "time": "2026-05-19T08:39:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર્દિક પંડ્યા MI છોડીને KKRમાં જોડાશે ? એક ફોટાના કારણે શરૂ થયો અટકળોનો દોર",
+    "desc": "IPL 2026માં હાર્દિક પંડ્યાનું પ્રદર્શન નિરાશાજનક રહ્યું છે અને એવી અફવાઓ પણ ફેલાઈ રહી છે કે તે મુંબઈ ઇન્ડિયન્સ છોડી શકે છે. આગામી સીઝન પહેલા તે બીજી ટીમમાં ટ્રેડ થાય તેવી શક્યતા છે. ત્યારે આ બધાની વચ્ચે એક ફોટો સામે આવ્યો છે, જેના કારણે હાર્દિકના KKRમાં જોડાવા અંગે અટકળો શરૂ થઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-hardik-pandya-leave-mi-and-join-kkr-a-photo-has-sparked-speculation-478466 ",
+    "time": "2026-05-19T08:32:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોરોના બાદ શું ભારતમાં પણ વધી રહ્યો છે ઈબોલા વાયરસ? જાણો કેવી રીતે ફેલાય છે અને કેટલો ખતરનાક છે આ વાયરસ",
+    "desc": "દુનિયામાં વધુ એક વાયરસ ફેલાવા લાગ્યો છે, જેને લઈને લોકોમાં ડરનો માહોલ સર્જાઈ રહ્યો છે. તેવામાં અહીં જાણો કે શું ભારત પણ ઈબોલા વાયરસની ઝપેટમાં છે કે નહીં, અને આ વાયરસથી બચવા માટે કઈ સાવચેતીઓ રાખવી જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/is-the-ebola-virus-on-the-rise-in-india-as-well-learn-how-the-ebola-virus-spreads-and-just-how-dangerous-it-is-478457 ",
+    "time": "2026-05-19T07:26:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "15મી ઓવરના ત્રીજા બોલે એવું તો શું થયું કે સંજુ અને ક્લાસેન વચ્ચે થઈ બબાલ, જુઓ Video",
+    "desc": "ચેન્નાઈ સુપર કિંગ્સને સનરાઇઝર્સ હૈદરાબાદ સામે 5 વિકેટથી હારનો સામનો કરવો પડ્યો. મેચ બાદ સનરાઇઝર્સ હૈદરાબાદની જીત પર ઓછી અને સંજુ સેમસન અને હેનરિક ક્લાસેન વચ્ચેની બબાલની વધારે ચર્ચા હતી. ત્યારે શું હતી સમગ્ર ઘટના તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-csk-vs-srh-match-sanju-samson-vs-heinrich-klaasen-fight-video-478456 ",
+    "time": "2026-05-19T07:25:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બાપરે! આ વર્ષે સોનું 26000 અને ચાંદી 40000 જેટલી મોંઘી થઈ, લેટેસ્ટ રેટ જાણી ધબકારા વધી જશે",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે ઉછાળો જોવા મળ્યો છે. વાયદા બજારમાં સવારે થોડા સમય માટે નરમાઈ દાખવ્યા બાદ સોનું ઉછળ્યું. જ્યારે રિટેલ બજારમાં સોનું અને ચાંદી બંને વધારા સાથે જોવા મળ્યા છે. બંને કિંમતી ધાતુઓના લેટેસ્ટ રેટ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-gold-and-silver-prices-rise-check-today-ahmedabad-vadodara-rajkot-surat-rates-478455 ",
+    "time": "2026-05-19T07:22:16.000Z"
   },
   {
     "cat": "World",
@@ -15,7 +114,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/petrol-price-hike-gasoline-affordability-report-on-indian-478451 ",
-    "time": "2026-05-19T06:27:24.000Z"
+    "time": "2026-05-19T07:20:23.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "WhatsApp પર કેવી રીતે રેકોર્ડ કરી શકાય છે કોઈ પણ કોલ? મોટાભાગના લોકો નથી જાણતા આ ટ્રીક",
+    "desc": "હવે WhatsApp કોલ રેકોર્ડ કરવો પહેલાં જેટલો મુશ્કેલ નથી રહ્યો. Android અને iPhone યુઝર્સ કેટલીક સરળ રીતોની મદદથી જરૂરી કોલ્સ સેવ કરી શકે છે. જો કે, રેકોર્ડિંગ કરતી વખતે પ્રાઇવસી (ગોપનીયતા) અને કાનૂની નિયમોનું ધ્યાન રાખવું ખૂબ જ જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/how-to-record-whatsapp-calls-on-android-and-iphone-whatsapp-call-record-kaise-kare-explained-478452 ",
+    "time": "2026-05-19T06:30:57.000Z"
   },
   {
     "cat": "Sports",
@@ -97,15 +205,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-weakness-exposed-how-true-is-mohammad-kaifs-accusation-against-the-15-year-old-player-find-out-478378 ",
     "time": "2026-05-18T13:17:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ખેડૂતો સાથેના સૌથી મોટા કૌભાંડનો પર્દાફાશ, આ કંપનીઓ સરકારી યુરિયાની કરે છે ચોરી, જાણો",
-    "desc": "થોડા દિવસો પહેલા ઝી ન્યૂઝે 'ઓપરેશન કિસાન' માં જણાવ્યું હતું કે, કેવી રીતે ખેડૂતોના હકનું યુરિયા પ્લાયવુડ બનાવતી કંપનીઓ લઈ જઈ રહી છે. હવે વારો છે 'ઓપરેશન કિસાન પાર્ટ-2' નો. આજે આપણે ખુલાસો કરીશું કે, કેવી રીતે સિસ્ટમની નિષ્ફળતા અને પોલીસની બેદરકારીનો ફાયદો ઉઠાવીને વચેટિયાઓ, સરકારી અધિકારીઓ અને પ્લાયવુડ ફેક્ટરીઓ ખેડૂતોના વપરાશમાં આવતા યુરિયાની લૂંટ ચલાવી રહ્યા છે. ખેડૂતોના યુરિયાનો ઉપયોગ કરતી ફેક્ટરીઓને સરકારી અધિકારીઓ અને કાયદાનો સહેજ પણ ડર નથી. એક-એક પુરાવા પ્લાયવુડ કંપનીઓના જૂઠાણાનો પર્દાફાશ કરશે. ઓપરેશન કિસાન પાર્ટ-2.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/biggest-scam-with-farmers-exposed-these-companies-steal-government-urea-know-478286 ",
-    "time": "2026-05-18T12:58:01.000Z"
   },
   {
     "cat": "Politics",
@@ -360,15 +459,6 @@ const newsData_gu = [
     "time": "2026-05-17T12:01:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મોંઘવારીનો વધુ એક માર ! સરકાર વધારવા જઈ રહી છે મહિનાનું લાઈટ બિલ ? નવી દરખાસ્તથી ભારે હોબાળો",
-    "desc": "દેશમાં વીજ બિલિંગની પદ્ધતિમાં ટૂંક સમયમાં ફેરફાર થઈ શકે છે. સેન્ટ્રલ ઇલેક્ટ્રિસિટી ઓથોરિટી (CEA)એ વીજ કંપનીઓ દ્વારા વસૂલવામાં આવતા નિશ્ચિત માસિક ચાર્જમાં વધારો સૂચવતો પ્રસ્તાવ રજૂ કર્યો છે. આનો અર્થ એ થઈ શકે છે કે ગ્રાહકોએ વધુ બિલ ચૂકવવા પડી શકે છે, ભલે તેમનો વીજળીનો વપરાશ ઓછો હોય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/electricity-bill-will-be-increased-cea-proposes-sharp-rise-in-fixed-monthly-charges-478243 ",
-    "time": "2026-05-17T11:41:27.000Z"
-  },
-  {
     "cat": "World",
     "title": "આવી રહી છે મોટી તબાહી? વૈશ્વિક સંકટ વચ્ચે વડાપ્રધાન મોદીએ દુનિયાને આપી ચેતવણી, જાણો શું કહ્યું?",
     "desc": "વડાપ્રધાન નરેન્દ્ર મોદીએ વૈશ્વિક ઊર્જા સંકટ વચ્ચે દુનિયાને ચેતવણી આપી છે. નેધરલેન્ડ્સના હેગમાં પીએમ મોદીએ કહ્યું કે, આ દાયકામાં માનવતા સામે સતત પડકારો આવી રહ્યા છે. વર્તમાન ઊર્જા સંકટ અંગે તેમણે કહ્યું કે, જો પરિસ્થિતિ નહીં સુધરે, તો પાછલા કેટલાક દાયકાઓની સિદ્ધિઓ પર પાણી ફરી વળશે.",
@@ -376,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/is-disaster-looming-amidst-a-global-crisis-prime-minister-modi-warns-the-world-what-did-he-say-478242 ",
     "time": "2026-05-17T11:12:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ટ્રેનથી પાર્સલ કરી કેવી રીતે મોકલવી બાઈક? જાણો સંપૂર્ણ પ્રોસેસ અને કેટલો થશે ખર્ચ, જાણો સંપૂર્ણ વિગતે",
-    "desc": "આજે મોટાભાગના લોકોને નોકરી અથવા કોઈ કામ માટે રાજ્યની બહાર કે બીજા જિલ્લામાં સ્થાઈ થવુ પડે છે કે 2થી 5 વર્ષ ત્યા રહેવા જવુ પડે છે, ત્યારે પોતે જે બાઈક ખરીદી હોય તે ઘરેથી ચલાવી લઈ જવામાં ખુબ પ્રોબ્લમ થાય છે, ત્યારે તેનો એક સારો વિકલ્પ ટ્રેન બની શકે છે, જેના દ્વારા તે તમારી નવી જગ્યા પર બાઈક આરામથી પહોચાડી શકે છે. ત્યારે ટ્રેનથી બાઈક મોકલવાની સમગ્ર પ્રોસેસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-to-send-a-bike-by-parcel-by-train-know-the-complete-process-and-how-much-it-will-cost-know-in-full-detail-478240 ",
-    "time": "2026-05-17T11:02:01.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +504,6 @@ const newsData_gu = [
     "time": "2026-05-17T08:44:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "20,000 ટન LPG લઈને ભારત પહોંચ્યું જહાજ, હોર્મુઝ સ્ટ્રેટમાં ઈરાન અને અમેરિકાને કેવી રીતે આપ્યો ચકમો",
-    "desc": "મિડલ ઈસ્ટમાં વધતા તણાવ અને ઓઈલ સંકટ વચ્ચે ભારત માટે રાહતના સમાચાર સામે આવ્યા છે. 20,000 ટન LPG સાથે 'સિમી' જહાજ સુરક્ષિત રીતે ગુજરાતના કંડલા બંદરે પહોંચી ગયું છે. ત્યારે આ જહાજ હોર્મુઝ સ્ટ્રેટમાં ઈરાન અને અમેરિકાને કેવી રીતે ચકમો આપીને ભારત પહોંચ્યું તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-tanker-mv-symi-reaches-india-after-crossing-strait-of-hormuz-478224 ",
-    "time": "2026-05-17T08:23:37.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઇબોલા વાયરસ કેટલો ખતરનાક છે? કોંગોમાં 80 લોકોના મોત, WHOની ગ્લોબલ ઇમરજન્સીની જાહેરાત",
     "desc": "આ વાયરસ વાંદરાઓ દ્વારા ફેલાય છે અને તેના કારણે દર વર્ષે 15,000 થી વધુ લોકોના મોત થાય છે. એક અહેવાલ મુજબ, મધ્ય અને પશ્ચિમ એશિયામાં આના દર્દીઓ સૌથી વધુ જોવા મળે છે. ડેમોક્રેટિક રિપબ્લિક ઓફ કોંગોની એક નદીના નામ પરથી આ વાયરસનું નામ રાખવામાં આવ્યું છે.",
@@ -459,15 +531,6 @@ const newsData_gu = [
     "time": "2026-05-17T07:36:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મોંઘવારી ભથ્થા અંગે નવું અપડેટ, કેન્દ્રીય કર્મચારીઓ માટે ક્યારે થશે DA એરિયર્સની જાહેરાત?",
-    "desc": "દેશભરના કેન્દ્રીય કર્મચારીઓ જ્યાં એક તરફ 8મા પગાર પંચ (8th Pay Commission)ના અમલીકરણની રાહ જોઈ રહ્યા છે, ત્યાં બીજી તરફ 7મા પગાર પંચ અંતર્ગત વર્ષના બીજા ભાગના મોંઘવારી ભથ્થા (DA)માં વધારાની પણ રાહ જોવાઈ રહી છે. આ અંગે એક નવું અપડેટ આવ્યું છે, તો ચાલો જાણીએ કે મોંઘવારી ભથ્થામાં વધારા અંગે ક્યારે નિર્ણય લેવાશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/new-update-regarding-the-dearness-allowance-find-out-when-the-da-arrears-announcement-will-be-made-for-central-government-employees-478205 ",
-    "time": "2026-05-17T06:58:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "પ્રાઈમ વીડિયોની એવી વેબ સીરીઝ જેને જોયા પછી હનુમાન ચાલીસા બોલવા લાગશો, OTT પર આ સીરીઝે સનસની મચાવી હતી",
     "desc": "જો તમે ઓટીટી પર હોરર વેબ સીરીઝ જોવાના શોખીન છો તો એક એવી વેબ સીરીઝ વિશે જાણો જેને જોયા પછી મનમાં હનુમાન ચાલીસા બોલવા લાગશો. આ વેબ સીરીઝને આઈએમડીબી પર જોરદાર રેટિંગ પણ મળ્યું છે.",
@@ -486,15 +549,6 @@ const newsData_gu = [
     "time": "2026-05-17T05:51:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "મફતનો એક પોઈન્ટ KKRને અપાવશે પ્લેઓફની ટિકિટ, જાણો કેવી રીતે",
-    "desc": "શનિવારે રમાયેલી IPL મેચમાં કોલકાતા નાઈટ રાઈડર્સે ગુજરાત ટાઇટન્સને 29 રનથી હરાવ્યું. આ મેચમાં પ્રથમ બેટિંગ કરતા KKRએ 20 ઓવરમાં 2 વિકેટ ગુમાવીને 247 રન બનાવ્યા, જેના જવાબમાં ગુજરાત 20 ઓવરમાં 4 વિકેટ ગુમાવીને 218 રન જ બનાવી શક્યું. KKRની જીત સાથે પ્લેઓફની રેસ વધુ રોમાંચક બની છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/kolkata-knight-riders-can-still-qualify-for-ipl-2026-playoffs-know-how-478187 ",
-    "time": "2026-05-17T05:13:15.000Z"
-  },
-  {
     "cat": "World",
     "title": "સુંદર ચહેરો, ભયાનક ઈરાદા, ઓસામા હતો સાચો પ્રેમ... કોણ છે આ મહિલા, જેના ખૌફથી કાંપતી હતી દુનિયા?",
     "desc": "બ્રિટનમાં જન્મેલી સમન્થા લેથવેટ (Samantha Lewthwaite) ઉર્ફે ‘વ્હાઇટ વિડો’ દુનિયાની સૌથી ખતરનાક મહિલા આતંકવાદીઓમાં ગણાય છે. અલ-શબાબ અને અલ-કાયદા સાથે જોડાયેલી સમન્થા પર કેટલાય મોટા આતંકી હુમલાના આરોપ છે. પરંતુ શું તમે જાણો છો કે માત્ર સમન્થા જ નહીં, દુનિયામાં આવી ઘણી મહિલા આતંકીઓ છે જેમણે ભારે તબાહી મચાવી છે. ચાલો, આ અહેવાલમાં એક-એક કરીને આ મહિલા આતંકવાદીઓ વિશે જાણીએ...",
@@ -504,15 +558,6 @@ const newsData_gu = [
     "time": "2026-05-17T03:48:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "આકાશ સિંહના &amp;#039;નોટ સેલિબ્રેશન&amp;#039;ને લઈને વિવાદ, ચિઠ્ઠીમાં એવું તો શું લખ્યું હતું કે દિગ્ગજોએ કરી ટીકા",
-    "desc": "લખનૌ સુપર જાયન્ટ્સના ફાસ્ટ બોલર આકાશ સિંહે ચેન્નાઈ સુપર કિંગ્સ સામે શાનદાર બોલિંગ પ્રદર્શન કર્યું હતું અને ત્રણ વિકેટ લીધી હતી. વિકેટ લીધા બાદ 'નોટ સેલિબ્રેશન' કર્યું હતું. જો કે, આ નોટ સેલિબ્રેશન ઘણા ક્રિકેટ દિગ્ગજોને પસંદ આવ્યું નથી, તેમણે સેલિબ્રેશનની આ સ્ટાઈલની આકરી ટીકા કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ambati-rayudu-and-dale-steyn-criticized-akash-singh-note-celebration-478123 ",
-    "time": "2026-05-16T11:28:39.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "પેટ્રોલ-ડીઝલની ચિંતા છોડો, આ છે 5 શાનદાર ઈલેક્ટ્રિક SUV, મળશે 638 km સુધીની રેન્જ",
     "desc": "આજકાલ પેટ્રોલ અને ડીઝલની સતત વધી રહેલી કિંમતથી લોકો પરેશાન છે. તેવામાં દેશમાં ઈલેક્ટ્રિક ગાડીની ડિમાન્ડ વધી રહી છે. જો તમે પણ નવી ઈવી ખરીદવાનો પ્લાન કરી રહ્યાં છો તો અમે તમને પાંચ શાનદાર ઈલેક્ટ્રિક કાર વિશે માહિતી આપીશું.",
@@ -520,24 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/best-electric-suvs-in-india-you-will-get-a-range-of-up-to-638-km-478116 ",
     "time": "2026-05-16T11:17:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ ગુજરાતી ક્રિકેટરને ટીમ ઈન્ડિયામાં ના મળ્યો ભાવ, હવે આ દેશ માટે રમી રહ્યો છે ક્રિકેટ",
-    "desc": "ટીમ ઈન્ડિયાના વર્લ્ડ કપ વિનર અને આ ગુજરાતી ક્રિકેટરને ટીમ ઈન્ડિયામાં ક્યારેય ભાવ મળ્યો નહોતો. પરિણામે આ ક્રિકેટર હવે બીજા દેશ માટે ક્રિકેટ રમી રહ્યો છે. સ્મિત પટેલ એક એવો ભારતીય ખેલાડી છે, જે હાલમાં યુએસ ક્રિકેટ ટીમનો સભ્ય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-under-19-cricketer-smit-patel-playing-for-us-cricket-478109 ",
-    "time": "2026-05-16T10:47:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "હાઈથી હજુ પણ ખુબ સસ્તા છે ગોલ્ડ-સિલ્વર, સોનું 17000 અને ચાંદી 1.17 લાખ રૂપિયા સસ્તી",
-    "desc": "વીતેલા સપ્તાહમાં સોના અને ચાંદીમાં ભારે ઉથલપાથલ જોવા મળી. ભાવમાં તેજી પણ જોવા મળી અને ત્યારબાદ ભાવમાં ભારે ઘટાડો પણ જોવા મળ્યો. સપ્તાહમાં સોના-ચાંદીમાં શું ફેરફાર રહ્યો અને ઓલટાઈમ હાઈથી અત્યારે શું પરિસ્થિતિ છે એ પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-both-cheap-from-all-time-high-check-latest-gold-silver-rate-478085 ",
-    "time": "2026-05-16T08:38:23.000Z"
   },
   {
     "cat": "Tech",
@@ -585,15 +612,6 @@ const newsData_gu = [
     "time": "2026-05-15T16:24:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "બેસિક સેલેરીમાં DA મર્જ..., 8મા પગાર પંચ તરફથી કેન્દ્રીય કર્મચારીઓને ભેટ?",
-    "desc": "કર્મચારી સંગઠનો ઇચ્છે છે કે મોંઘવારી ભથ્થું (DA) મૂળ પગારમાં સમાવિષ્ટ થાય. સંગઠનોના મતે, આ જરૂરી છે કારણ કે પગારના અનેક ઘટકો મૂળ પગાર સાથે જોડાયેલા છે, જેમાં ઘર ભાડું ભથ્થું (HRA), પરિવહન ભથ્થું, પેન્શન અને ઇન્ક્રીમેન્ટનો સમાવેશ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/da-merger-in-basic-salary-a-gift-to-central-employees-from-the-8th-pay-commission-478010 ",
-    "time": "2026-05-15T14:42:14.000Z"
-  },
-  {
     "cat": "World",
     "title": "બાબા વેંગાની એલિયન્સ વિશે ડરામણી ભવિષ્યવાણી થઈ રહી છે વાયરલ, દુનિયામાં મચી ગયો ખળભળાટ !",
     "desc": "બાબા વેંગાની ભવિષ્યવાણી ફરી એકવાર ચર્ચામાં આવી ગઈ છે, 161 ખાનગી ફાઈલોની માહિતી બહાર આવતાની સાથે જ બાબા વેંગા અને નોસ્ટ્રાડેમસની ભવિષ્યવાણી સાચી પડી હોવાનું લાગી રહ્યું છે અને માનવ એલિયનના સંપર્કમાં આવ્યા છે તેમ પણ લાગી રહ્યું છે.",
@@ -601,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/baba-venga-scary-prophecy-about-aliens-is-going-viral-creating-a-stir-in-the-world-478000 ",
     "time": "2026-05-15T13:05:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ભારત એકલું નથી, દુનિયાના 24 દેશોએ પણ વધાર્યા પેટ્રોલ-ડીઝલના ભાવ, એક દેશમાં તો 112% ભાવ વધ્યો",
-    "desc": "દુનિયાભરમાં પેટ્રોલ-ડીઝલના ભાવમાં તેજી આવી છે. મ્યાનમાર, પાકિસ્તાન અને શ્રીલંકા સહિત અનેક દેશોમાં બળતણ મોંઘું બન્યું છે. ભારતમાં પણ આજે પેટ્રોલ-ડીઝલના ભાવ વધારાયા છે. ત્યારે વિશ્વના કયા દેશોમાં કેટલા ભાવ વધાર્યા છે તે ચાર્જ જુઓ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/global-energy-crisis-24-countries-in-world-petrol-diesel-price-hike-477988 ",
-    "time": "2026-05-15T11:55:45.000Z"
   },
   {
     "cat": "Tech",
@@ -693,15 +702,6 @@ const newsData_gu = [
     "time": "2026-05-13T12:44:59.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "WhatsApp, UPI બધું જ થઈ શકે છે બંધ ? ઈરાનના આ પગલાથી દુનિયામાં મચી જશે હાહાકાર",
-    "desc": "શું દુનિયાભરમાં ઈન્ટરનેટની ચાવી ઈરાન પાસે છે ? હકીકતમાં ઈરાન દાવો કરી રહ્યું છે કે હોર્મુઝ સ્ટ્રેટમાંથી પસાર થતા અંડર સી કેબલ્સનું મેન્ટેનન્સ સંપૂર્ણપણે તે કરશે. તેથી ટેક કંપનીઓને પણ ઈરાનના નિયમોનું પાલન કરવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-us-war-hormuz-starait-crisis-iran-threat-digital-toll-undersea-internet-cables-477727 ",
-    "time": "2026-05-13T11:30:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "16 વર્ષ પછી છોડી રહી છું ભારત, પણ ઈરાન પાછી નહીં ફરું, અભિનેત્રી મંદાના કરીમીને મોતનો ડર",
     "desc": "16 વર્ષ ભારતમાં રહ્યા બાદ, મંદાના કરીમીએ સુરક્ષા કારણોસર દેશ છોડવાનો નિર્ણય લીધો છે. તેમણે ઇન્સ્ટાગ્રામ પર ચાહકોને જણાવ્યું હતું કે ભારત તેમના માટે બીજા ઘર જેવું છે. ભારત છોડતાં તે ભાવુક થઈ ગઈ હતી.",
@@ -745,14 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/vijay-thalapathy-trisha-krishnan-movies-on-ott-must-watch-movies-of-vijay-thalapathy-on-ott-in-hindi-477341 ",
     "time": "2026-05-11T03:30:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "&amp;quot;ઇંટીમેટ સીન કરવા તૈયાર હોય તેને જ ફિલ્મોમાં કામ મળે..&amp;quot; જાણીતી અભિનેત્રીએ સોશિયલ મીડિયા પર શેર કરી ચોંકાવનારી વાતો",
-    "desc": "સલમાન ખાન સાથે કામ કરી ચુકેલી અભિનેત્રીએ તેની ઈંસ્ટાગ્રામ પોસ્ટમાં એક મોટો ધડાકો કર્યો છે. અભિનેત્રીનું કહેવું છે કે ઈંડસ્ટ્રીમાં કામ તેને મળે છે જે ઓનસ્ક્રીન કિસીંગ સીન અને હીરો સાથે ઇંટીમેટ સીન કરવા તૈયાર હોય. આ વાત કોણે કહી છે અને શા માટે કરી છે જાણો વિસ્તારપૂર્વક.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/actress-nauheed-cyrusi-said-she-is-not-getting-role-because-she-is-not-ready-to-do-kissing-and-intimate-scenes-on-screen-477116 ",
-    "time": "2026-05-09T06:00:19.000Z"
   }
 ];
