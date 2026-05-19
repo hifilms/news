@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MS Dhoni's retirement fear sparks as Suresh Raina reveals chat with ex-CSK captain after last home game",
+    "desc": "MS Dhoni's retirement talks from the Indian Premier League have sparked more after Suresh Raina revealed the chat he had with the former CSK skipper after their last home game of the season on Monday,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-retirement-fear-sparks-as-suresh-raina-reveals-chat-with-ex-csk-captain-after-last-home-game-2026-05-19-1041663",
+    "time": "2026-05-19T06:35:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BBL 2026-27 opener set to take place in Chennai after positive feedback from BCCI, TNCA",
+    "desc": "The opening match of the Big Bash League 2026-27 is in line to take place in Chennai after Cricket Australia (CA) received positive feedback from the Tamil Nadu Cricket Association (TNCA) and the Board of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bbl-2026-2027-opener-set-to-take-place-in-chennai-after-positive-feedback-from-bcci-tnca-2026-05-19-1041654",
+    "time": "2026-05-19T05:31:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Ruturaj Gaikwad can do more': CSK coach Stephen Fleming on captain's underwhelming outings in IPL 2026",
+    "desc": "Chennai Super Kings head coach Stephen Fleming has thrown his weight behind captain Ruturaj Gaikwad, but conceded that he could 'do more' after his underwhelming performances in the Indian Premier League 2026. Gaikwad had set...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-can-do-more-csk-coach-stephen-fleming-on-captains-underwhelming-outings-in-ipl-2026-2026-05-19-1041646",
+    "time": "2026-05-19T04:31:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanju Samson makes MS Dhoni-esque stumping to dismiss Heinrich Klaasen, leads to verbal exchange",
     "desc": "Sanju Samson had an MS Dhoni-esque moment when he stumped to dismiss Heinrich Klaasen in Chennai Super Kings' clash against the Sunrisers Hyderabad at the MA Chidambaram Stadium on Monday, May 18. Klaasen and Ishan...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-srh-live-cricket-score-chennai-super-kings-aim-to-keep-playoffs-race-alive-2026-05-18-1041599",
     "time": "2026-05-18T14:17:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni misses Chennai Super Kings' final home game of the IPL 2026, hosts opt to bat first in Chepauk",
-    "desc": "The stage is set for the 63rd game of the ongoing IPL (Indian Premier League) 2026 season. Chennai Super Kings are taking on Sunrisers Hyderabad at the MA Chidambaram Stadium in Chepauk, and ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-misses-chennai-super-kings-final-home-game-of-the-ipl-2026-hosts-opt-to-bat-first-in-chepauk-2026-05-18-1041596",
-    "time": "2026-05-18T14:04:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Needs to improve': Mohammad Kaif points out Vaibhav Sooryavanshi's weak spot as RR's subpar form continues",
-    "desc": "Rajasthan Royals’ IPL (Indian Premier League) 2026 season has been derailed. The side got off to a brilliant start to the season, winning consecutive matches. However, with the group stage coming to an end, Rajasthan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/needs-to-improve-mohammad-kaif-points-out-vaibhav-sooryavanshi-s-weak-spot-as-rr-s-subpar-form-continues-2026-05-18-1041591",
-    "time": "2026-05-18T13:32:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer blames 'internal problems' in RR's camp after loss against DC",
-    "desc": "Rajasthan Royals’ horrible form in the ongoing IPL (Indian Premier League) 2026 season continued as the side lost its third straight game of the season. Taking on Delhi Capitals at the Arun Jaitley Stadium in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-blames-internal-problems-in-rr-s-camp-after-loss-against-dc-2026-05-18-1041587",
-    "time": "2026-05-18T12:42:35.000Z"
   }
 ];

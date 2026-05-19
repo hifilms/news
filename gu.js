@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "WhatsApp પર કેવી રીતે રેકોર્ડ કરી શકાય છે કોઈ પણ કોલ? મોટાભાગના લોકો નથી જાણતા આ ટ્રીક",
+    "desc": "હવે WhatsApp કોલ રેકોર્ડ કરવો પહેલાં જેટલો મુશ્કેલ નથી રહ્યો. Android અને iPhone યુઝર્સ કેટલીક સરળ રીતોની મદદથી જરૂરી કોલ્સ સેવ કરી શકે છે. જો કે, રેકોર્ડિંગ કરતી વખતે પ્રાઇવસી (ગોપનીયતા) અને કાનૂની નિયમોનું ધ્યાન રાખવું ખૂબ જ જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/how-to-record-whatsapp-calls-on-android-and-iphone-whatsapp-call-record-kaise-kare-explained-478452 ",
+    "time": "2026-05-19T06:30:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "તમારી મહેનતની કમાણીનો કેટલો ભાગ પી જાય છે પેટ્રોલ, નવા રિપોર્ટમાં ખુલાસો",
+    "desc": "ભારતના પાડોશી દેશની વાત કરીએ તો મ્યાનમાર, પાકિસ્તાન, અને નેપાળમાં પેટ્રોલની સ્થિતિ બહુ જ કફોી છે. આ દેશોમાં 40 લીટર પેટ્રોલ પૂરવવા માટે એક મહિનાની કમાણીનો 47 ટકાથી 52 ટકા હિસ્સો ખર્ચ કરવો પડી રહ્યો છે. પેટ્રોલની કિંમત અને તેના ઉપયોગ વિશે ગેસોલિન એફોર્ડેબિલિટી રિપોર્ટ શું કહે છે તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/petrol-price-hike-gasoline-affordability-report-on-indian-478451 ",
+    "time": "2026-05-19T06:27:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રોહિત કે વિરાટમાંથી એકનું પત્તુ કપાશે ! 2027 વર્લ્ડ કપ અંગે ચોંકાવનારું અપડેટ, આ બે ખેલાડીઓ પર પણ લટકતી તલવાર",
+    "desc": "સમગ્ર દેશમાં IPLનો માહોલ છવાયેલો છે, પરંતુ ટીમ ઈન્ડિયાના દૃષ્ટિકોણથી આજનો દિવસ મહત્વપૂર્ણ દિવસ છે. કારણ કે આજે અજિત અગરકરની આગેવાની હેઠળની પસંદગી સમિતિ એક મહત્વપૂર્ણ બેઠક યોજવા જઈ રહી છે. આ બેઠકનું મુખ્ય કેન્દ્રબિંદુ રોહિત શર્મા અને વિરાટ કોહલી જેવા દિગ્ગજ ખેલાડીઓ હશે. નવી અપડેટ્સ અનુસાર, આ બંનેમાંથી એક 2027 ODI વર્લ્ડ કપમાંથી બહાર થવાની શક્યતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shocking-update-either-rohit-sharma-or-virat-kohli-will-be-missed-2027-world-cup-478450 ",
+    "time": "2026-05-19T06:17:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારતીય નાગરિકતા મેળવવાના નિયમો બદલાયા, પૂરી કરવી પડશે આ નવી શરત; વાંચો સરકારનો નિર્ણય",
+    "desc": "ભારતીય નાગરિકતા મેળવવી હવે સરળ નહીં હોય, કારણ કે ભારત સરકારે નાગરિકતાના નિયમોમાં મહત્વપૂર્ણ ફેરફાર કર્યો છે. ગૃહ મંત્રાલય (MHA) એ નવા ફેરફારોનું ડ્રાફ્ટ નોટિફિકેશન પણ બહાર પાડી દીધું છે. નવા નિયમો અનુસાર, નાગરિકતા મેળવવા માટે હવે એક ખાસ શરત પૂરી કર્યા પછી જ અરજી મંજૂર કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/rules-for-getting-indian-citizenship-have-changed-this-new-condition-will-have-to-be-fulfilled-read-the-governments-decision-478448 ",
+    "time": "2026-05-19T06:09:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "હોર્મુઝ સંકટ વચ્ચે આવ્યા ખુશખબર, હવે કોઈ પણ રોકટોક વગર ભારત આવશે રશિયન ઓઈલ",
+    "desc": "હોર્મુઝ સંકટના કારણે ભારતમાં પણ ધીરે ધીરે હવે અસર જોવા મળી રહી છે. એક જ અઠવાડિયામાં પેટ્રોલ અને ડીઝલના ભાવ બેવાર વધ્યા છે. અનેક ઠેકાણે સીએનજીના ભાવ પણ વધ્યા છે. આ બધા વચ્ચે ભારત માટે એક સારા સમાચાર પણ આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/good-news-for-india-as-us-extends-sanctions-waiver-for-russian-oil-check-details-for-more-update-478446 ",
+    "time": "2026-05-19T05:54:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;સમગ્ર દેશના રસ્તાઓ પરથી રખડતા કૂતરાઓને હટાવવામાં આવશે&amp;#039;, સુપ્રીમ કોર્ટનો મોટો નિર્ણય",
+    "desc": "દેશભરના શ્વાન પ્રેમીઓ (ડૉગ લવર્સ)ને આજે સુપ્રીમ કોર્ટ તરફથી મોટો ઝટકો લાગ્યો છે, કારણ કે સુપ્રીમ કોર્ટે રખડતા કૂતરાઓને લઈને વર્ષ 2025માં લાગુ કરવામાં આવેલો આદેશ યથાવત રાખ્યો છે. આમાં કોઈપણ પ્રકારનો ફેરફાર કરવાનો ઇનકાર કરીને તમામ અરજીઓ ફગાવી દેવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/stray-dogs-will-be-removed-from-the-roads-of-the-entire-country-a-major-decision-of-the-supreme-court-478445 ",
+    "time": "2026-05-19T05:52:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SRH સામે હાર્યા બાદ પણ પ્લેઓફમાં પહોંચી શકે છે ચેન્નાઈ સુપર કિંગ્સ, જાણો કેવી રીતે",
+    "desc": "પાંચ વખતની ચેમ્પિયન ચેન્નાઈ સુપર કિંગ્સ હજુ પણ પ્લેઓફની રેસમાં જીવંત છે. જોકે, હવે તેના માટે સમીકરણ ખૂબ જટિલ બની ગયું છે. આ પાંચ ચોક્કસ શરતો પૂરી થાય તો જ ચેન્નાઈ ટોપ-4માં સ્થાન મેળવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-chennai-super-kings-can-reach-the-playoffs-even-after-losing-to-srh-478444 ",
+    "time": "2026-05-19T05:26:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG કે PNG? 1 જુલાઈથી લાગૂ થશે આ નિયમ, જાણો શું થયો છે ફેરફાર",
+    "desc": "ઘણા લોકોના ઘરમાં પીએનજી અને એલપીજી બંને કનેક્શન હોય છે પરંતુ જો તમારા ઘરે પણ આ રીતે બંને પ્રકારના ગેસ કનેક્શન હોય તો આ માહિતી ખાસ જાણજો નહીં તો પછી પસ્તાવવાનો વારો આવી શકે છે. મિડલ ઈસ્ટમાં ચાલતા તણાવના પગલે ઘર આંગણે પણ એલપીજી અને ફ્યૂલની સમસ્યાના કારણે સરકારે કેટલાક પગલાં ભર્યા છે. જાણો આ નો ડ્યૂલ કનેક્શન નિયમ વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/no-dual-connection-rule-customers-having-both-lpg-and-png-connection-need-to-know-478434 ",
+    "time": "2026-05-19T05:07:33.000Z"
+  },
+  {
     "cat": "Business",
     "title": "મોટા સમાચાર! ફરી ક્યારે વધશે પેટ્રોલ અને ડિઝલના ભાવ ? કેન્દ્ર સરકારના જવાબે વધારી ચિંતા",
     "desc": "મધ્ય પૂર્વમાં ચાલી રહેલા તણાવ અને ક્રૂડ ઓઈલના વધતા ભાવ વચ્ચે, દેશમાં ઈંધણના ભાવ અંગે અનિશ્ચિતતા યથાવત છે. સૌથી મોટો પ્રશ્ન એ છે કે પેટ્રોલ અને ડીઝલના ભાવ ક્યારે વધશે? કેન્દ્રની મોદી સરકારે સ્પષ્ટતા કરી છે કે તે હાલમાં કોઈ સમયમર્યાદા કે અંદાજ આપી શકતી નથી.",
@@ -432,15 +504,6 @@ const newsData_gu = [
     "time": "2026-05-17T03:48:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારતના આ રાજ્યને કહેવાય છે &amp;#039;સોલ્ટ કેપિટલ&amp;#039;, આખા દેશને પૂરું પાડે છે મીઠું, વિદેશમાં પણ થાય છે નિકાસ",
-    "desc": "મીઠાનો ઉપયોગ ભોજનનો સ્વાદ વધારવા માટે થાય છે. પ્રાચીન કાળથી ભોજનમાં મીઠાનો ઉપયોગ થતો આવ્યો છે. ત્યારે ભારતમાં એક રાજ્ય છે, જે 'સોલ્ટ કેપિટલ' તરીકે ઓળખાય છે ? ત્યારે આ રાજ્ય કયું છે અને કેમ તેને 'સોલ્ટ કેપિટલ' તરીકે ઓળખવામાં આવે છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gk-which-state-is-known-as-the-salt-capital-of-india-478157 ",
-    "time": "2026-05-16T15:24:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "આકાશ સિંહના &amp;#039;નોટ સેલિબ્રેશન&amp;#039;ને લઈને વિવાદ, ચિઠ્ઠીમાં એવું તો શું લખ્યું હતું કે દિગ્ગજોએ કરી ટીકા",
     "desc": "લખનૌ સુપર જાયન્ટ્સના ફાસ્ટ બોલર આકાશ સિંહે ચેન્નાઈ સુપર કિંગ્સ સામે શાનદાર બોલિંગ પ્રદર્શન કર્યું હતું અને ત્રણ વિકેટ લીધી હતી. વિકેટ લીધા બાદ 'નોટ સેલિબ્રેશન' કર્યું હતું. જો કે, આ નોટ સેલિબ્રેશન ઘણા ક્રિકેટ દિગ્ગજોને પસંદ આવ્યું નથી, તેમણે સેલિબ્રેશનની આ સ્ટાઈલની આકરી ટીકા કરી હતી.",
@@ -468,15 +531,6 @@ const newsData_gu = [
     "time": "2026-05-16T10:47:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અમદાવાદમાં ICC બોર્ડ મીટિંગ... મોહસિન નકવીને અપાયું આમંત્રણ, શું ભારત આવશે PCB ચેરમેન?",
-    "desc": "ભારત અને પાકિસ્તાન વચ્ચે સંબંધો ખરાબ છે. ભારતીય ક્રિકેટ બોર્ડ અને પાકિસ્તાન ક્રિકેટ બોર્ડ વચ્ચે પણ વિવાદ જોવા મળ્યો હતો. તેવામાં બધાની નજર તેના પર છે કે આગામી આઈસીસી બોર્ડ મીટિંગમાં હાજરી આપવા પાકિસ્તાન ક્રિકેટ બોર્ડના ચેરમેન ભારત આવશે કે નહીં?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-board-meeting-to-be-held-in-ahmedabad-on-may-30-and-31-will-pcb-chairman-mohsin-naqvi-come-to-india-478107 ",
-    "time": "2026-05-16T10:36:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "હાઈથી હજુ પણ ખુબ સસ્તા છે ગોલ્ડ-સિલ્વર, સોનું 17000 અને ચાંદી 1.17 લાખ રૂપિયા સસ્તી",
     "desc": "વીતેલા સપ્તાહમાં સોના અને ચાંદીમાં ભારે ઉથલપાથલ જોવા મળી. ભાવમાં તેજી પણ જોવા મળી અને ત્યારબાદ ભાવમાં ભારે ઘટાડો પણ જોવા મળ્યો. સપ્તાહમાં સોના-ચાંદીમાં શું ફેરફાર રહ્યો અને ઓલટાઈમ હાઈથી અત્યારે શું પરિસ્થિતિ છે એ પણ જાણો.",
@@ -493,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/running-ac-will-also-bring-low-bill-turn-on-this-feature-of-the-remote-today-478074 ",
     "time": "2026-05-16T07:27:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL વચ્ચે બીજા લગ્ન કરશે હાર્દિક પંડ્યા, GF માહિકા શર્મા સાથે આ દિવસે લેશે સાત ફેરા? જાણો સત્ય",
-    "desc": "ક્રિકેટર હાર્દિક પંડ્યા મેદાનમાં પોતાના પ્રદર્શનની સાથે લવ લાઇફને કારણે પણ ચર્ચામાં રહે છે. હવે તેવી ચર્ચા છે કે હાર્દિક પંડ્યા જલ્દી પોતાની ગર્લફ્રેન્ડ માહિકી શર્મા સાથે લગ્ન કરવાનો છે. આખરે આ સમાચારમાં કેટલું સત્ય છે? આવો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-wedding-rumours-cricketr-married-with-girlfriend-mahieka-sharma-soon-478072 ",
-    "time": "2026-05-16T07:10:21.000Z"
   },
   {
     "cat": "Tech",
@@ -549,15 +594,6 @@ const newsData_gu = [
     "time": "2026-05-15T14:42:14.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મોંઘવારીનો &amp;#039;ચોથો ગિયર&amp;#039;: દૂધ-પેટ્રોલના ભાવ વધ્યા, હવે RBI વધારશે હોમ-કાર લોનનો EMI, મિડલક્લાસનો મરો",
-    "desc": "જથ્થાબંધ ફુગાવો 8.30 ટકાના રેકોર્ડ સ્તરે પહોંચી ગયો છે. જેના કારણ RBI આગામી મહિનાઓમાં રેપો રેટમાં વધારાનો સંકેત આપે છે, પેટ્રોલ-ડિઝલ અને CNGમાં પણ વધારે મોંઘા થવાના છે. તમને લાગશે કે આ અલગ સમસ્યાઓ છે, પરંતુ વાસ્તવમાં, તે એક ખૂબ જ ખતરનાક સાંકળ સાથે જોડાયેલી ત્રણ કડીઓ છે, આ મુસીબત પશ્ચિમ એશિયામાં યુદ્ધ અને અલ નીનોની અસરથી શરૂ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/fourth-gear-of-inflation-milk-petrol-prices-increased-now-rbi-will-increase-emi-of-home-car-loans-middle-class-will-be-affected-478009 ",
-    "time": "2026-05-15T14:13:13.000Z"
-  },
-  {
     "cat": "World",
     "title": "બાબા વેંગાની એલિયન્સ વિશે ડરામણી ભવિષ્યવાણી થઈ રહી છે વાયરલ, દુનિયામાં મચી ગયો ખળભળાટ !",
     "desc": "બાબા વેંગાની ભવિષ્યવાણી ફરી એકવાર ચર્ચામાં આવી ગઈ છે, 161 ખાનગી ફાઈલોની માહિતી બહાર આવતાની સાથે જ બાબા વેંગા અને નોસ્ટ્રાડેમસની ભવિષ્યવાણી સાચી પડી હોવાનું લાગી રહ્યું છે અને માનવ એલિયનના સંપર્કમાં આવ્યા છે તેમ પણ લાગી રહ્યું છે.",
@@ -585,15 +621,6 @@ const newsData_gu = [
     "time": "2026-05-15T11:03:42.000Z"
   },
   {
-    "cat": "World",
-    "title": "LPG પર આવ્યા ગુડ ન્યૂઝ, ભારત-UAE વચ્ચે થઈ મોટી ડીલ, મળશે મોટી રાહત!",
-    "desc": "હાલ દેશમાં જે ઉર્જા સંકટ જોવા મળી રહ્યું છે તેમાં રાહત મળે તેવા સમાચાર આવ્યા છે. પીએમ મોદી હાલ યુએઈ પ્રવાસે છે અને અહીં ભારત અને યુએઈ વચ્ચે એક મોટી ડીલ થઈ છે. જાણો આ ડીલ વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/pm-modi-uae-visit-defence-energy-deals-investment-commitment-check-details-lpg-update-477967 ",
-    "time": "2026-05-15T09:25:09.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "મોંઘા રિચાર્જથી છુટકારો! માત્ર 44 રૂપિયામાં આખું વર્ષ ચાલશે Jio સિમ! બસ અપનાવો આ ટ્રિક",
     "desc": "શું તમે જાણો છો કે મોંઘા રિચાર્જ વગર પણ જિયો નંબરને એક્ટિવ રાખી શકાય છે? જો તમે માત્ર ઇનકમિંગ કોલ અને ઓટીપી માટે સિમનો ઉપયોગ કરો છો, તો એક નાની ટ્રિક તમારા પૈસા બચાવી શકે છે. આજે અમે તમને તે વિશે માહિતી આપીશું.",
@@ -610,15 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-april-2026-sales-report-maruti-dzire-top-selling-cars-477929 ",
     "time": "2026-05-15T06:49:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "આર્થિક મંદી પર દુનિયાના 4 અર્થશાસ્ત્રીઓની આ ભવિષ્યવાણીઓ અવગણશે, તો ભારત મોટા ખાડામાં પડશે!",
-    "desc": "Global Economic Recession 2026 ; દુનિયા વૈશ્વિક મંદી તરફ આગળ ધપી રહી છે. જો આવું જ ચાલ્યું તો ભારત પણ ખતરામાં આવી શકે છે. ભારત પર વૈશ્વિક મંદીની શું અસર થશે, વિશ્વના અર્થશાસ્ત્રીઓએ શું ભવિષ્યવાણી કરી છે, તેના પર હવે વિચાર કરવાનો સમય આવી ગયો છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/predictions-of-4-world-economists-on-economic-recession-2026-477926 ",
-    "time": "2026-05-15T06:26:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -700,24 +718,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-unfollows-suraj-nambiar-on-instagram-extramarital-affair-and-divorce-rumour-spread-477632 ",
     "time": "2026-05-13T08:55:52.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "રિમોટ વગર સ્પ્લિટ એસી કેવી રીતે ચાલુ કરવું? 99% લોકો નથી જાણતા આ ટ્રિક",
-    "desc": "ઘણા લોકો બેટરી ખતમ થઈ જાય છે અથવા રિમોટ ખોવાઈ જાય છે ત્યારે ચિંતિત થઈ જાય છે. પરંતુ ગભરાવાની કોઈ જરૂર નથી. દરેક સ્પ્લિટ એસીમાં એક નાનું, છુપાયેલું બટન હોય છે જેનાથી તમે ACને સરળતાથી ચાલુ કરી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/how-to-turn-on-a-split-ac-without-a-remote-99-percent-of-people-dont-know-this-trick-477594 ",
-    "time": "2026-05-12T13:41:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "કલાકો સુધી ચાલ્યા પછી પણ રૂમ ઠંડો નથી કરતુ AC, હોઈ શકે છે આ કારણ, જાણો",
-    "desc": "જ્યારે કાળઝાળ ગરમીમાં એસી યોગ્ય રીતે કામ ન કરે, ત્યારે તે તકલીફ પેદા કરી શકે છે. કેટલાક લોકો ફરિયાદ કરે છે કે કલાકો સુધી એસી ચલાવ્યા પછી પણ ઠંડુ થતું નથી. જાણો તેનું કારણ શું છે અને તેને કેવી રીતે ઠીક કરી શકાય, આ લેખમાં અમે તમને જણાવીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/ac-does-not-cool-the-room-even-after-running-for-hours-this-could-be-the-reason-know-this-477571 ",
-    "time": "2026-05-12T10:37:26.000Z"
   },
   {
     "cat": "Entertainment",
