@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sanju Samson makes MS Dhoni-esque stumping to dismiss Heinrich Klaasen, leads to verbal exchange",
+    "desc": "Sanju Samson had an MS Dhoni-esque moment when he stumped to dismiss Heinrich Klaasen in Chennai Super Kings' clash against the Sunrisers Hyderabad at the MA Chidambaram Stadium on Monday, May 18. Klaasen and Ishan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-makes-ms-dhoni-esque-stumping-to-dismiss-heinrich-klaasen-leads-to-verbal-exchange-watch-2026-05-19-1041634",
+    "time": "2026-05-19T02:48:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni hugs Suresh Raina as CSK take lap of honour after last home game of IPL 2026",
+    "desc": "MS Dhoni met his longtime teammate Suresh Raina as the Chennai Super Kings took a lap of honour after playing their last home game of the IPL 2026 at the MA Chidambaram Stadium on Monday,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-hugs-suresh-raina-as-csk-take-lap-of-honour-after-last-home-game-of-ipl-2026-watch-2026-05-19-1041630",
+    "time": "2026-05-19T02:13:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can CSK still qualify for IPL 2026 playoffs after loss to Sunrisers Hyderabad?",
+    "desc": "Chennai Super Kings' hopes of qualifying for the Indian Premier League 2026 took a nosedive after the Ruturaj Gaikwad-led side suffered a loss in their 13th match of the tournament at the MA Chidambaram Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-csk-still-qualify-for-ipl-2026-playoffs-after-loss-to-sunrisers-hyderabad-2026-05-19-1041624",
+    "time": "2026-05-19T01:21:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sunrisers Hyderabad reach IPL 2026 knockouts, register thrilling win over Chennai Super Kings",
     "desc": "Chennai Super Kings took on Sunrisers Hyderabad in the 63rd game of the ongoing IPL (Indian Premier League) 2026 season. The two sides met at the MA Chidambaram Stadium in Chennai on May 18th, and...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-blames-internal-problems-in-rr-s-camp-after-loss-against-dc-2026-05-18-1041587",
     "time": "2026-05-18T12:42:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are CSK above RR in IPL 2026 points table despite having same points and net run rate?",
-    "desc": "The IPL (Indian Premier League) 2026’s group stage phase is coming to an end, with just one or two games left per side, and the top four of the tournament are yet to be decided....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-csk-above-rr-in-ipl-2026-points-table-despite-having-same-points-and-net-run-rate-2026-05-18-1041578",
-    "time": "2026-05-18T11:29:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Chennai fare for IPL 2026 game 63?",
-    "desc": "The stage is set for the 63rd game of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will take on Sunrisers Hyderabad at the MA Chidambaram Stadium in Chennai on May 18th. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-srh-weather-report-how-will-weather-in-chennai-fare-for-ipl-2026-game-63-2026-05-18-1041564",
-    "time": "2026-05-18T10:15:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Kaif delivers verdict on Vaibhav Sooryavanshi's fielding before potential India call-up",
-    "desc": "Former India cricketer Mohammad Kaif has highlighted that Rajasthan Royals sensation Vaibhav Sooryavanshi needs to work on his fielding before he gets to play for India. While Sooryavanshi has made the headlines for his blistering...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-kaif-delivers-verdict-on-vaibhav-sooryavanshis-fielding-before-potential-india-call-up-2026-05-18-1041561",
-    "time": "2026-05-18T09:36:38.000Z"
   }
 ];
