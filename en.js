@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Hayden Panettiere names woman who put her in bed with Brit singer",
+    "desc": "A Reckoning'. An acquaintance, 'Stella McAmis', allegedly led an 18-year-old Panettiere to a yacht cabin to meet a famous British singer. Panettiere claims McAmis urged her into bed with the shirtless singer, stating, \"He has a huge d***.",
+    "img": "https://static.toiimg.com/photo/msid-131211354,imgsize-91444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettiere-names-woman-who-told-her-to-get-into-bed-with-famous-british-singer/articleshow/131211354.cms",
+    "time": "2026-05-19T21:50:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Ladna nahi bhoola’",
+    "desc": "After losing his cool and scolding photographers outside Mumbai’s Hinduja Hospital, superstar Salman Khan has now shared a strong reaction on social media, questioning the behaviour of paparazzi outside hospitals. Salman Khan warned photographers against trying to exploit emotional situations and said he still knows how to fight back despite his age.",
+    "img": "https://static.toiimg.com/photo/msid-131211343,imgsize-30978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-warns-paparazzi-after-hospital-incident-saath-saal-ka-ho-gaya-hoon-lekin-ladna-nahiin-bhoola/articleshow/131211142.cms",
+    "time": "2026-05-19T21:41:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court notice on plea that U.P. Police played ‘agent provocateur’ in Noida workers’ violence",
+    "desc": "Rather than fulfilling its role as a welfare state, the petition says Uttar Pradesh had used its police officers to covertly become part of WhatsApp groups of the protestors; the entire prosecution was vitiated when the investigating agency itself acted as the ‘architect of the unrest’, it says",
+    "img": "https://th-i.thgim.com/public/incoming/de2m4f/article70998209.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_JEG07V87.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-notice-on-plea-that-up-police-played-agent-provocateur-in-noida-workers-violence/article70997869.ece",
+    "time": "2026-05-19T20:52:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘If it was a loan, then why call it fraud publicly?’",
+    "desc": "Rajpal Yadav has opened up about the Rs 5 crore fraud allegations against him, saying the matter has been misunderstood and unnecessarily sensationalised. Speaking about the controversy, Rajpal Yadav said that if the amount involved had been much larger, he would have understood the seriousness surrounding the allegations.",
+    "img": "https://static.toiimg.com/photo/msid-131210994,imgsize-61868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-breaks-silence-on-rs-5-crore-fraud-allegations-if-it-was-a-loan-then-why-call-it-fraud-publicly/articleshow/131210980.cms",
+    "time": "2026-05-19T20:43:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan loses cool, scolds photographers outside hospital",
+    "desc": "A video of superstar Salman Khan losing his cool and scolding photographers outside Mumbai’s Hinduja Hospital has gone viral on social media. The incident took place on Tuesday night after a few photographers allegedly followed Salman Khan to the hospital and repeatedly called out to him while he was leaving the premises.",
+    "img": "https://static.toiimg.com/photo/msid-131210763,imgsize-34940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-loses-cool-scolds-photographers-outside-mumbai-hospital-video-goes-viral/articleshow/131210705.cms",
+    "time": "2026-05-19T19:46:10.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Sooryavanshi’s stunning knock takes Royals closer to playoffs",
     "desc": "The teen sensation smashes 93 off just 38 balls to set up a facile win; stand-in skipper Jaiswal and Jurel also get going in the chase; LSG openers Marsh and Inglis’ fireworks in vain; a victory over MI would seal the Rajasthan side’s qualification",
@@ -162,24 +207,6 @@ const newsData_en = [
     "time": "2026-05-19T16:22:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Farmers oppose Bengaluru’s new international cricket stadium",
-    "desc": "Farmers say that the area for the proposed stadium lies in proximity to the Karadikkal-Mahadeshwara wildlife corridor, and that building a huge stadium in this area will have a serious and adverse impact on the environment and wildlife",
-    "img": "https://th-i.thgim.com/public/incoming/gwbthx/article70999361.ece/alternates/LANDSCAPE_1200/_DSC5387.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/farmers-oppose-bengalurus-new-international-cricket-stadium/article70997357.ece",
-    "time": "2026-05-19T16:11:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I think they will not go to that extent': Shanmugam warns CPM to reconsider support if TVK inducts AIADMK rebels into cabinet",
-    "desc": "The CPM has warned it will reconsider its support for the Tamilaga Vettri Kazhagam government. This comes if the ruling party includes the rebel faction of the AIADMK in its cabinet. CPM state secretary P Shanmugam stated this at a press conference. The party's support was initially to prevent President's Rule and BJP's influence.",
-    "img": "https://static.toiimg.com/photo/msid-131205651,imgsize-758818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-think-they-will-not-go-to-that-extent-shanmugam-warns-cpm-to-reconsider-support-if-tvk-inducts-aiadmk-rebels-into-cabinet/articleshow/131205596.cms",
-    "time": "2026-05-19T16:09:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tom Hanks supports Rita Wilson’s Broadway project",
     "desc": "In a dazzling showcase of talent, Tom Hanks stole the spotlight at the New York premiere of 'Celebrity Autobiography,' a play produced by none other than Rita Wilson, his cherished wife. Looking dapper, Hanks was a proud spectator as Wilson engaged with the vibrant cast of celebrities.",
@@ -189,24 +216,6 @@ const newsData_en = [
     "time": "2026-05-19T16:05:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Human-wildlife interactions a challenge, but India’s coexistence-based management approach addressing them: Yadav",
-    "desc": "India's Union environment minister Bhupender Yadav highlighted the nation's \"coexistence-based management\" approach to tackle human-wildlife conflict amidst growing economies. He emphasized that conservation efforts extend beyond mere numbers, focusing on habitat expansion, connectivity, and multi-species protection, including tigers, lions, leopards, snow leopards, and cheetahs, with the International Big Cat Alliance poised to foster cross-border cooperation.",
-    "img": "https://static.toiimg.com/photo/msid-131205570,imgsize-27568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/human-wildlife-interactions-a-challenge-but-indias-coexistence-based-management-approach-addressing-them-yadav/articleshow/131205518.cms",
-    "time": "2026-05-19T16:04:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kavery Nambisan On Memory, Imagination, And Writing From Intimacy",
-    "desc": "Kavery Nambisan is a surgeon and a novelist from Karnataka. She has won the Tata Excellence Award for her work in tea plantations in Tamil Nadu. She has written articles and essays on medical and literary issues. Her novels include ‘The Scent of Pepper’, ‘The Story That Must Not Be Told’ and ‘A Town Like Ours’. Her two non-fiction books are ‘A Luxury Called Health’ and ‘Cherry Red, Cherry Black’. Today she discusses her latest novel, ‘Rising Sons’.",
-    "img": "https://static.toiimg.com/photo/msid-131205464,imgsize-62916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kavery-nambisan-on-memory-imagination-and-writing-from-intimacy/articleshow/131204886.cms",
-    "time": "2026-05-19T15:57:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Currency falls to 96.70 against dollar after eighth straight session of losses",
     "desc": "The Indian rupee hit a record low of 96.70 against the US dollar on Tuesday, extending its losing streak to eight sessions. Rising crude oil prices, foreign fund outflows, and a strong dollar due to global risk aversion are key factors. Forex traders also cited supply-chain disruptions. The Reserve Bank of India's intervention and import restrictions might offer some support.",
@@ -214,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-at-record-low-currency-falls-to-96-70-against-dollar-after-eighth-straight-session-of-losses/articleshow/131205204.cms",
     "time": "2026-05-19T15:42:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How Vijay’s astrologer row put spotlight on politicians’ ‘star’ connection",
-    "desc": "Tamil Nadu Chief Minister C. Joseph Vijay appointed his spiritual advisor as Officer on Special Duty. Public outcry led to the swift revocation of this appointment. This event underscores the deep-rooted influence of astrology in Indian politics. Many leaders privately consult astrologers for crucial decisions. This practice continues despite public scrutiny and modern governance.",
-    "img": "https://static.toiimg.com/photo/msid-131204575,imgsize-727700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-vijays-astrologer-row-put-spotlight-on-politicians-star-connection/articleshow/131204125.cms",
-    "time": "2026-05-19T15:39:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,15 +333,6 @@ const newsData_en = [
     "time": "2026-05-19T13:34:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Dharmendra Pradhan orders foolproof re-test",
-    "desc": "Amid the NEET-UG 2026 paper leak controversy, the NTA has announced significant institutional and technological reforms, including hiring a CTO and strengthening oversight. Union Education Minister Dharmendra Pradhan chaired a review meeting, emphasizing secure and foolproof conduct for the upcoming re-examination, with enhanced coordination with state authorities.",
-    "img": "https://static.toiimg.com/photo/msid-131202527,imgsize-1093355.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nta-revamp-after-neet-leak-dharmendra-pradhan-orders-foolproof-re-test/articleshow/131202480.cms",
-    "time": "2026-05-19T13:29:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "CRICKET",
     "desc": "The spin duo of Manav Suthar and Harsh Dubey along with lanky pacer Gurnoor Brar earn their maiden Test call-up; Bumrah and Jadeja rested; Prince Yadav gets a look-in for the ODI series to follow",
@@ -358,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eight-years-ago-today-meghan-markle-celebrates-eight-years-of-marriage-with-prince-harry-shares-unseen-pictures/articleshow/131201947.cms",
     "time": "2026-05-19T13:07:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UP govt blacklists firm, suspends engineers after probe into lapses",
-    "desc": "Following a water tank collapse in Bareilly, Uttar Pradesh authorities have blacklisted construction firm NCC and inspection agency BLG Construction Services. An FIR has been lodged, and several officials, including an executive engineer and junior engineers, have been suspended or terminated. The firms face fines and are ordered to reconstruct the tank, with a statewide safety audit now mandated.",
-    "img": "https://static.toiimg.com/photo/msid-131202029,imgsize-964316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bareilly-water-tank-collapse-up-govt-blacklists-firm-suspends-engineers-after-probe-into-lapses/articleshow/131202057.cms",
-    "time": "2026-05-19T13:03:16.000Z"
   },
   {
     "cat": "Sports",
@@ -412,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-didnt-have-a-vanity-van-during-rehnaa-hai-terre-dil-mein-with-r-madhavan-recalls-daisy-shah-who-was-a-background-dancer-that-time/articleshow/131199395.cms",
     "time": "2026-05-19T11:33:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gaten Matarazzo to star in Jonathan Larson's musical 'Rent'",
-    "desc": "In an exciting turn of events, Gaten Matarazzo, known for his role in Stranger Things, will be making his West End debut in Jonathan Larson's legendary musical, 'Rent.' The 23-year-old star, who has already made waves on Broadway with performances in 'Les Misérables' and 'Into the Woods,' is set to take the stage in London starting October 8, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131199176,imgsize-31744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-star-gaten-matarazzo-to-make-london-stage-debut-with-jonathan-larsons-musical-rent/articleshow/131198921.cms",
-    "time": "2026-05-19T11:18:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chris Rock reunites with ex-wife Malaak Compton",
-    "desc": "Chris Rock and ex-wife Malaak Compton-Rock reunited to celebrate their daughter Zahra's graduation from the University of Southern California. Zahra earned a degree from the School of Dramatic Arts and the College of Letters, Arts and Sciences with high honors. Malaak shared proud moments on social media, highlighting Zahra's academic achievements and her passion for literature.",
-    "img": "https://static.toiimg.com/photo/msid-131198659,imgsize-85926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/congratulations-zahra-chris-rock-reunites-with-ex-wife-malaak-compton-to-celebrate-daughters-graduation/articleshow/131198554.cms",
-    "time": "2026-05-19T11:09:13.000Z"
   },
   {
     "cat": "Sports",
