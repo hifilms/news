@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli reveals reason behind quitting India captaincy",
+    "desc": "Star batter Virat Kohli finally revealed the reason behind quitting the India captaincy. The Delhi-born was asked to step aside from the role in T20I cricket and was later removed from ODIs as well, with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-reveals-reason-behind-quitting-india-captaincy-2026-05-19-1041743",
+    "time": "2026-05-19T16:04:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Riyan Parag not playing for Rajasthan Royals' must-win game vs LSG in IPL 2026?",
+    "desc": "Rajasthan Royals were forced to drop Riyan Parag in their must-win clash against Lucknow Super Giants at the Sawai Mansingh Stadium in Jaipur. Stand-in captain Yashasvi Jaiswal confirmed that the India all-rounder is dealing with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-riyan-parag-not-playing-for-rajasthan-royals-must-win-game-vs-lsg-in-ipl-2026-2026-05-19-1041731",
+    "time": "2026-05-19T13:56:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Aiden Markram not playing for Lucknow Super Giants vs RR in IPL 2026?",
+    "desc": "Lucknow Super Giants’ overseas all-rounder Aiden Markram has left the squad to travel to South Africa. He won’t be returning for LSG’s final league game against Punjab Kings as well. Captain Rishabh Pant confirmed that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-aiden-markram-not-playing-for-lucknow-super-giants-vs-rr-in-ipl-2026-2026-05-19-1041728",
+    "time": "2026-05-19T13:50:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo, at 41, will play his sixth FIFA World Cup as Portugal announce 27-man squad",
+    "desc": "Cristiano Ronaldo is set to feature in a sixth World Cup at the age of 41 after Portugal named a 27-man squad for the tournament, with an additional symbolic selection included in remembrance of Diogo...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-at-41-will-play-his-sixth-fifa-world-cup-as-portugal-announce-27-man-squad-2026-05-19-1041724",
+    "time": "2026-05-19T13:20:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi in India's scheme of things in white-ball cricket, indicates chief selector Ajit Agarkar",
+    "desc": "Discussion around Vaibhav Sooryavanshi’s rapid rise has intensified after a breakthrough IPL 2026 season. The Rajasthan Royals opener has amassed 486 runs in 12 matches this season, at a blistering strike rate of 234.78. He...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-in-india-s-scheme-of-things-in-white-ball-cricket-indicates-chief-selector-ajit-agarkar-2026-05-19-1041716",
+    "time": "2026-05-19T12:28:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Which India cricketers earned their maiden call-ups in Afghanistan series?",
     "desc": "Four cricketers have earned their maiden India call-ups for the upcoming Test and three-match ODI series against Afghanistan, scheduled to begin on June 6. Manav Suthar, Gurnoor Brar and Harsh Dubey were named in the...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-duo-ruled-out-of-ipl-2026-ahead-of-marquee-clash-against-kkr-2026-05-19-1041685",
     "time": "2026-05-19T09:25:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Thank you for everything you've done for the sport': Mark Boucher hails MS Dhoni's legacy",
-    "desc": "Former South Africa cricketer Mark Boucher hailed MS Dhoni and his legacy after the Chennai Super Kings' cricketer's potential last appearance at the MA Chidambaram Stadium in Chennai. Dhoni made his first appearance at a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/thank-you-for-everything-youve-done-for-the-sport-mark-boucher-hails-ms-dhonis-legacy-2026-05-19-1041677",
-    "time": "2026-05-19T08:29:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni's retirement fear sparks as Suresh Raina reveals chat with ex-CSK captain after last home game",
-    "desc": "MS Dhoni's retirement talks from the Indian Premier League have sparked more after Suresh Raina revealed the chat he had with the former CSK skipper after their last home game of the season on Monday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-retirement-fear-sparks-as-suresh-raina-reveals-chat-with-ex-csk-captain-after-last-home-game-2026-05-19-1041663",
-    "time": "2026-05-19T06:35:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BBL 2026-27 opener set to take place in Chennai after positive feedback from BCCI, TNCA",
-    "desc": "The opening match of the Big Bash League 2026-27 is in line to take place in Chennai after Cricket Australia (CA) received positive feedback from the Tamil Nadu Cricket Association (TNCA) and the Board of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bbl-2026-2027-opener-set-to-take-place-in-chennai-after-positive-feedback-from-bcci-tnca-2026-05-19-1041654",
-    "time": "2026-05-19T05:31:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Ruturaj Gaikwad can do more': CSK coach Stephen Fleming on captain's underwhelming outings in IPL 2026",
-    "desc": "Chennai Super Kings head coach Stephen Fleming has thrown his weight behind captain Ruturaj Gaikwad, but conceded that he could 'do more' after his underwhelming performances in the Indian Premier League 2026. Gaikwad had set...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-can-do-more-csk-coach-stephen-fleming-on-captains-underwhelming-outings-in-ipl-2026-2026-05-19-1041646",
-    "time": "2026-05-19T04:31:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson makes MS Dhoni-esque stumping to dismiss Heinrich Klaasen, leads to verbal exchange",
-    "desc": "Sanju Samson had an MS Dhoni-esque moment when he stumped to dismiss Heinrich Klaasen in Chennai Super Kings' clash against the Sunrisers Hyderabad at the MA Chidambaram Stadium on Monday, May 18. Klaasen and Ishan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-makes-ms-dhoni-esque-stumping-to-dismiss-heinrich-klaasen-leads-to-verbal-exchange-watch-2026-05-19-1041634",
-    "time": "2026-05-19T02:48:31.000Z"
   }
 ];

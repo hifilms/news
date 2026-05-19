@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સરકારી કર્મચારીઓ માટે મોટી ખુશખબર! કેબિનેટ સચિવે પેન્શન સહિતની આ 5 માંગણીઓ પર આપ્યું મોટું આશ્વાસન",
+    "desc": "NC-JCMની 49મી વાર્ષિક બેઠકમાં કેન્દ્રીય કર્મચારીઓ અને પેન્શનરો સાથે જોડાયેલા કેટલાક મોટા મુદ્દાઓ પર ચર્ચા થઈ હતી. આ બેઠકમાં દર 5 વર્ષે પેન્શન વધારવા, ફેમિલી પેન્શનમાં સુધારો કરવા, દિવ્યાંગ આશ્રિતો માટે નિયમો સરળ બનાવવા અને OPS લાગુ કરવા જેવી માંગણીઓ ઉઠાવવામાં આવી. કેબિનેટ સચિવે આ માંગણીઓને લઈને મોટી ખાતરી આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-good-news-for-government-employees-cabinet-secretary-gave-big-assurance-on-these-5-demands-including-pension-478528 ",
+    "time": "2026-05-19T16:52:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBIની મોટી કાર્યવાહી, આ બેંકનું લાઇસન્સ કર્યું રદ, ગ્રાહકોના જમા પૈસાનું શું થશે?",
+    "desc": "RBIએ જણાવ્યું હતું કે આ સહકારી બેંક 19 મે, 2026ના રોજ કામકાજ બંધ થયા પછી બેંકિંગ પ્રવૃત્તિઓ કરી શકશે નહીં, બેંક પર RBIના આ નિર્ણયથી ગ્રાહકોમાં ભય ફેલાયો છે અને પોતાની મુળી મેળવવા માટે પ્રયાસો કરી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/rbis-big-action-this-banks-license-has-been-cancelled-what-will-happen-to-the-customers-deposits-478524 ",
+    "time": "2026-05-19T14:51:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું સોના અને ચાંદીમાં રોકાણ કરવાનો આ યોગ્ય સમય છે? JP મોર્ગનની મોટી ભવિષ્યવાણી, જાણો",
+    "desc": "ટૂંકા ગાળાની માંગમાં ઘટાડો થવાને કારણે વૈશ્વિક રોકાણ બેંક JPMorganએ 2026 માટે સોનાના સરેરાશ ભાવનો અંદાજ ઘટાડ્યો છે. જો કે, બેંક માને છે કે લાંબા ગાળે, ભૂ-રાજકીય તણાવ અને આર્થિક અનિશ્ચિતતાઓને કારણે, સોના અને ચાંદીના ભાવમાં તીવ્ર વધારો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/jp-morgans-big-prediction-is-this-the-right-time-to-invest-in-gold-and-silver-478522 ",
+    "time": "2026-05-19T14:04:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "1 લાખની ઈલેક્ટ્રિક બાઇક પર તૂટી પડ્યા ગ્રાહકો, 15 દિવસમાં 25000ની પાર થયું બુકિંગ, 180 KM છે રેન્જ",
+    "desc": "ભારતમાં ઇલેક્ટ્રિક ટુ-વ્હીલર બજાર ઝડપથી વધી રહ્યું છે, અને હવે માત્ર ઇલેક્ટ્રિક સ્કૂટર જ નહીં પરંતુ ઇલેક્ટ્રિક મોટરસાઇકલની માંગ પણ વધી રહી છે. આ નવી ઇલેક્ટ્રિક બાઇક લોન્ચ થયાના માત્ર 15 દિવસમાં 25,000થી વધુ બુકિંગ મેળવી ચૂકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/customers-are-crazy-about-the-1-lakh-electric-bike-bookings-crossed-25000-in-15-days-range-is-180-km-478515 ",
+    "time": "2026-05-19T13:17:17.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "અફઘાનિસ્તાન સામેની ટેસ્ટ અને ODI સિરીઝ માટે ભારતીય ટીમની જાહેરાત... જાણો રોહિત અને કોહલીનું શું થયું",
     "desc": "અફઘાનિસ્તાન સામેની આગામી ODI અને ટેસ્ટ શ્રેણી માટે ટીમ ઈન્ડિયાની જાહેરાત કરવામાં આવી છે. આજે BCCIની પસંદગી સમિતિની મળેલી બેઠક બાદ ટીમની જાહેરાત કરવામાં આવી છે. ત્યારે આ લેખમાં જાણીશું કે ટીમમાં કયા ખેલાડીઓને તક મળી છે અને કોનું પત્તુ કપાયું છે.",
@@ -396,24 +432,6 @@ const newsData_gu = [
     "time": "2026-05-17T16:59:08.000Z"
   },
   {
-    "cat": "Business",
-    "title": "આ ચોકલેટ બ્રાન્ડે રચ્યો ઇતિહાસ! લોકોને તેનો સ્વાદ ખૂબ ગમ્યો, 10મા ક્રમેથી કૂદીને પહેલા નંબરે પહોંચી ગઈ કંપની, જાણો",
-    "desc": "ભારત હવે વિશ્વમાં આ ચોકલેટ માટે સૌથી મોટું બજાર બની ગયું છે. એક દાયકા પહેલા આ ચોકલેટ બ્રાન્ડ માટે તે 10મા ક્રમે હતું, પરંતુ હવે તે જાપાન, બ્રાઝિલ અને યુરોપ જેવા બજારોને પાછળ છોડી ચૂક્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-chocolate-brand-created-history-people-liked-its-taste-a-lot-the-company-jumped-from-10th-place-to-number-one-know-this-478287 ",
-    "time": "2026-05-17T16:26:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સામાન્ય લોકો માટે એલર્ટ! પેટ્રોલ-ડીઝલ બાદ હવે આ વસ્તુઓ પણ થશે મોંઘી, રિપોર્ટે વધારી લોકોની ચિંતા",
-    "desc": "ભારતમાં એપ્રિલ 2026 દરમિયાન જથ્થાબંધ મોંઘવારી દર 8.3% સુધી પહોંચી ગયો છે, જે છેલ્લા 42 મહિનાના સૌથી ઉચ્ચા સ્તર પર છે. ક્રૂડ ઓઈલ, ઈંધણ અને ધાતુઓની વધતી કિંમતોએ મોંઘવારીમાં વધુ વધારો કર્યો છે. હવે રિપોર્ટ છે કે, આગામી સમયમાં ખાવા-પીવાની વસ્તુઓ પણ મોંઘી થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/alert-for-common-people-after-petrol-diesel-now-these-things-will-also-become-expensive-report-increases-people-concern-478278 ",
-    "time": "2026-05-17T14:52:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "હુમલાના ભય વચ્ચે અમેરિકાએ ઈરાન સામે રાખી આ 5 શરતો, હવે શું કરશે ખામનેઈ?",
     "desc": "અમેરિકાએ શરત મૂકી છે કે ઈરાન 400 કિલોગ્રામ એનરિચ્ડ યુરેનિયમ તેને સોપી દે. તેમાં એવી પણ શરત મૂકવામાં આવી છે કે ઈરાનની પરમાણુ સુવિધાઓનો માત્ર એક સેટ કાર્યરત રહે. અમેરિકાએ ઈરાનની વિદેશમાં રહેલી 25 ટકા સંપત્તિ છોડવાનો પણ ઇનકાર કર્યો છે.",
@@ -513,24 +531,6 @@ const newsData_gu = [
     "time": "2026-05-17T08:08:15.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ગેસ કનેક્શન પર મોટો નિર્ણય, જૂનમાં થઈ જશે સસ્પેન્ડ, શું છે ‘નો ડ્યુઅલ કનેક્શન’ નિયમ?",
-    "desc": "દેશમાં છેલ્લા 2 મહિનાથી ઘરેલું-કોમર્શિયલ સિલિન્ડર, કુકિંગ ગેસ, LPG-PNG કનેક્શન ખૂબ ચર્ચામાં છે. જ્યારથી ઈરાન-અમેરિકા યુદ્ધ શરૂ થયું અને હોર્મુઝ સ્ટ્રેટ (Strait of Hormuz) બ્લોક થઈ, ત્યારથી દેશમાં LPG સંકટ ઘેરાયું છે. આ સમસ્યાના ઉકેલ માટે કેન્દ્ર સરકારે LPG કનેક્શન સંબંધિત નિયમો બદલ્યા છે અને લોકોને રાહત આપી છે. આ નિયમોમાંથી એક 'નો ડ્યુઅલ કનેક્શન' (No Dual Connection) નો નિયમ પણ છે, જેને લઈને નવું અપડેટ આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/major-decision-on-gas-connections-set-to-be-suspended-in-june-what-is-the-no-dual-connection-rule-478207 ",
-    "time": "2026-05-17T07:39:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "વધતી મોંઘવારી વચ્ચે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરનો આજનો ભાવ",
-    "desc": "જો તમે આજે તમારી કારની ફ્યુઅલ ટાંકી ભરવાનું વિચારી રહ્યા છો, તો થોડી રાહ જુઓ. કારણ કે પેટ્રોલ અને ડીઝલના નવા દરો હમણાં જ જાહેર થયા છે. આજે તમારા શહેરમાં પેટ્રોલ અને ડીઝલના ભાવ શું છે તે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-know-latest-rate-in-your-city-478206 ",
-    "time": "2026-05-17T07:36:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "પ્રાઈમ વીડિયોની એવી વેબ સીરીઝ જેને જોયા પછી હનુમાન ચાલીસા બોલવા લાગશો, OTT પર આ સીરીઝે સનસની મચાવી હતી",
     "desc": "જો તમે ઓટીટી પર હોરર વેબ સીરીઝ જોવાના શોખીન છો તો એક એવી વેબ સીરીઝ વિશે જાણો જેને જોયા પછી મનમાં હનુમાન ચાલીસા બોલવા લાગશો. આ વેબ સીરીઝને આઈએમડીબી પર જોરદાર રેટિંગ પણ મળ્યું છે.",
@@ -538,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/prime-video-best-horror-hindi-web-series-khauf-web-series-story-imdb-rating-478196 ",
     "time": "2026-05-17T06:21:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "6,6,6,6,6,6,6,6,6,6,6... T20માં ભારતના આ ખૂંખાર બેટ્સમેનની વિસ્ફોટક બેટિંગ, 28 બોલમાં ઠોકી સૌથી ફાસ્ટ સદી!",
-    "desc": "25 વર્ષીય ભારતીય ઓપનર અભિષેક શર્માએ T20 ક્રિકેટમાં સૌથી ઝડપી સદીનો એક મહારેકોર્ડ પોતાના નામે કર્યો છે. 5 ડિસેમ્બર 2024ના રોજ મેઘાલય સામે રમાયેલી સૈયદ મુશ્તાક અલી T20 ટ્રોફીની એક મેચમાં અભિષેક શર્માએ માત્ર 28 બોલમાં સદી ફટકારી દીધી હતી. આ સાથે જ તેણે T20 ક્રિકેટના ઇતિહાસમાં કોઈ ભારતીય દ્વારા નોંધાયેલી સૌથી ઝડપી સદીના મહારેકોર્ડની બરાબરી કરી લીધી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/devastating-innings-by-indias-dreaded-batsman-in-t20-fastest-century-off-28-balls-478190 ",
-    "time": "2026-05-17T05:51:48.000Z"
   },
   {
     "cat": "World",
@@ -673,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/prime-video-hindi-web-series-sapne-vs-everyone-season-2-no-1-highest-rating-on-imdb-477798 ",
     "time": "2026-05-14T05:05:10.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શહેરમાં રોજિંદા ઉપયોગ માટે 5 શાનદાર કાર,  34 KM સુધી મળશે માઇલેજ",
-    "desc": "પેટ્રોલ અને ડીઝલની વધતી કિંમતો વચ્ચે લોકો સીએનજી કાર પસંદ કરી રહ્યાં છે. તેવામાં આજે અમે તમને પાંચ સીએનજી કાર વિશે માહિતી આપીશું, જે દરરોજ ઓફિસે આવવા-જવા માટે સૌથી સારી છે. આ કારમાં શાનદાર માઇલેજની સાથે ઘણા લેટેસ્ટ ફીચર્સ પણ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/five-best-cng-cars-for-daily-ues-celerio-tata-punchhyundai-exter-maruti-suzuki-fronx-477779 ",
-    "time": "2026-05-13T15:15:08.000Z"
   },
   {
     "cat": "Entertainment",
