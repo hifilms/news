@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Carlos Alcaraz, two-time champion, opts out of Wimbledon 2026",
+    "desc": "Carlos Alcaraz will not defend his Wimbledon crown this year after deciding to withdraw from the tournament due to an ongoing wrist problem. The Spaniard, who lifted the title at the All England Club in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-two-time-champion-opts-out-of-wimbledon-2026-2026-05-19-1041751",
+    "time": "2026-05-19T18:15:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi decimates LSG, Rajasthan enter top four as IPL 2026 playoffs scenario intensifies",
+    "desc": "15-year-old Vaibhav Sooryavanshi launched a scathing attack on Lucknow Super Giants in Rajasthan Royals’ must-win game in Jaipur. Chasing a mammoth total of 221 runs, the hosts were expected to feel some sort of pressure,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-decimates-lsg-rajasthan-enter-top-four-as-ipl-2026-playoffs-scenario-intensifies-2026-05-19-1041750",
+    "time": "2026-05-19T17:55:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli reveals reason behind quitting India captaincy",
     "desc": "Star batter Virat Kohli finally revealed the reason behind quitting the India captaincy. The Delhi-born was asked to step aside from the role in T20I cricket and was later removed from ODIs as well, with...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-defends-ishan-kishan-s-celebration-after-game-vs-csk-says-i-enjoyed-it-2026-05-19-1041693",
     "time": "2026-05-19T10:29:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester City shortlists coach to replace Pep Guardiola, Spaniard to leave after current season",
-    "desc": "Manchester City are moving toward a managerial transition that could mark the end of one of the club’s most successful eras. With Pep Guardiola expected to depart after Sunday’s Premier League fixture against Aston Villa...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-city-shortlists-coach-to-replace-pep-guardiola-spaniard-to-leave-after-current-season-2026-05-19-1041687",
-    "time": "2026-05-19T09:57:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians duo ruled out of IPL 2026 ahead of marquee clash against KKR",
-    "desc": "Mumbai Indians cricketers Quinton de Kock and Raj Bawa are ruled out of the ongoing IPL 2026. The franchise confirmed the development, stating that the South Africa international suffered a tendon injury in his left...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-duo-ruled-out-of-ipl-2026-ahead-of-marquee-clash-against-kkr-2026-05-19-1041685",
-    "time": "2026-05-19T09:25:09.000Z"
   }
 ];

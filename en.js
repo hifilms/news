@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "Sooryavanshi’s stunning knock takes Royals closer to playoffs",
+    "desc": "The teen sensation smashes 93 off just 38 balls to set up a facile win; stand-in skipper Jaiswal and Jurel also get going in the chase; LSG openers Marsh and Inglis’ fireworks in vain; a victory over MI would seal the Rajasthan side’s qualification",
+    "img": "https://th-i.thgim.com/public/incoming/uaajwo/article70999652.ece/alternates/LANDSCAPE_1200/PTI05_19_2026_000448A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-rr-vs-lsg-sooryavanshis-stunning-knock-takes-royals-closer-to-playoffs/article70999657.ece",
+    "time": "2026-05-19T18:57:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BBL in Chennai — franchise cricket takes a new direction",
+    "desc": "India’s interest in the sport — in terms of fans, finance, venues, television interest — is of such a magnitude that it effectively runs world cricket. The interest shown by the BBL is hardly unique",
+    "img": "https://th-i.thgim.com/public/incoming/vy7eip/article70998101.ece/alternates/LANDSCAPE_1200/AFP_93X89AP.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bbl-in-chennai-franchise-cricket-takes-a-new-direction/article70998115.ece",
+    "time": "2026-05-19T18:49:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIADMK district secretaries, senior functionaries rally behind Palaniswami",
+    "desc": "In a press release, the AIADMK attributed to the victory of 53 candidates put up by the party and its allies in the recent election to Mr. Palaniswami’s State-wide campaign. However, it did not mention the number of district secretaries who attended the meeting, as against the total of 82",
+    "img": "https://th-i.thgim.com/public/incoming/jq3s59/article70998709.ece/alternates/LANDSCAPE_1200/4871_19_5_2026_14_7_57_1_DSC_4121.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-district-secretaries-senior-functionaries-rally-behind-palaniswami/article70998461.ece",
+    "time": "2026-05-19T18:30:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi’s 93 keeps Rajasthan Royals’ playoff hopes alive",
+    "desc": "Vaibhav Sooryavanshi smashed a sensational 93 off 38 balls as Rajasthan Royals defeated Lucknow Super Giants by seven wickets to stay alive in the IPL 2026 playoff race. Mitchell Marsh’s 96 had powered LSG to 220/5 earlier, but Sooryavanshi’s fearless hitting and Dhruv Jurel’s unbeaten fifty guided RR to a stunning chase in Jaipur.",
+    "img": "https://static.toiimg.com/photo/msid-131209349,imgsize-154080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-vaibhav-sooryavanshis-93-keeps-rajasthan-royals-playoff-hopes-alive/articleshow/131209067.cms",
+    "time": "2026-05-19T18:27:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Petrol, diesel prices up 90 paise; second hike within a week",
+    "desc": "The steepest hike was in Kolkata – in comparison to Delhi, Mumbai and Chennai – where the price of petrol was hiked by 96 paise to ₹109.70/litre and that of diesel by 94 paise to ₹96.07/litre.",
+    "img": "https://th-i.thgim.com/public/incoming/hg0ia3/article70996402.ece/alternates/LANDSCAPE_1200/DSC_4978.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/petrol-diesel-price-hike-fuel-rise-may-19-2026/article70996398.ece",
+    "time": "2026-05-19T17:44:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Missing myself a little’",
+    "desc": "Rhea Chakraborty has decided to take a step back from social media, revealing that the constant noise and pressure of staying connected online have started to feel overwhelming. On Tuesday, the actress shared an emotional note on social media, admitting that she has been missing her old self and wants to reconnect with reality by living more in the moment.",
+    "img": "https://static.toiimg.com/photo/msid-131207922,imgsize-39882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-chakraborty-announces-social-media-break-lately-ive-been-missing-myself-a-little/articleshow/131207596.cms",
+    "time": "2026-05-19T17:41:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Grace Jones turns 78",
+    "desc": "Grace Jones, the iconic Jamaican singer and model, marks her 78th birthday on May 19, 2026. Known for her bold artistry and unique style, Jones rose to fame in the late 1970s with successful disco albums and later starred in films like 'Conan the Destroyer' and as May Day in 'A View to a Kill'.",
+    "img": "https://static.toiimg.com/photo/msid-131207807,imgsize-91110.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grace-jones-turns-78-celebrating-rebellious-music-avant-garde-fashion-and-a-prolific-career/articleshow/131207586.cms",
+    "time": "2026-05-19T17:40:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi scripts history, becomes first-ever Indian player to...",
+    "desc": "Vaibhav Sooryavanshi created IPL history by becoming the first Indian batter to hit 50 sixes in a single season. The 15-year-old smashed 93 off 38 balls, including 10 sixes, for Rajasthan Royals against Lucknow Super Giants. His explosive innings helped Rajasthan stay in the chase after Mitchell Marsh’s 96 powered LSG to 220/5.",
+    "img": "https://static.toiimg.com/photo/msid-131207836,imgsize-51284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-vaibhav-sooryavanshi-scripts-history-becomes-first-ever-indian-player-to-/articleshow/131206857.cms",
+    "time": "2026-05-19T17:39:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Ship scarcity hits U.S. imports",
+    "desc": "In March, 4.5 lakh LPG shipments left the U.S. for India, up from 3.2 lakh and 2.7 lakh tonnes in previous months, as per data from Kpler; subsequent months saw shipments drop to 3.72 lakh tonnes and 1.67 lakh tonnes due to less carrier availability",
+    "img": "https://th-i.thgim.com/public/incoming/x3i7wk/article70999586.ece/alternates/LANDSCAPE_1200/2026-03-16T132217Z_1679008328_RC2M5KANAIIS_RTRMADP_3_IRAN-CRISIS-INDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/lpg-ship-scarcity-hits-us-imports/article70999561.ece",
+    "time": "2026-05-19T17:39:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristaldi",
+    "desc": "With Punjab FC enjoying immense success in age-group tournaments organised by the All India Football Federation, Cristaldi, who is Technical Director, Youth Programme, at the club, threw light on the role that he is hoping to play in shaping a better future for the sport in this country",
+    "img": "https://th-i.thgim.com/public/incoming/kgne2h/article70999563.ece/alternates/LANDSCAPE_1200/TH21-CRIS.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/lack-of-infrastructure-a-major-challenge-at-grassroots-level-cristaldi/article70999559.ece",
+    "time": "2026-05-19T17:37:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Don’t want to be dependent on cricket all my life: Kohli",
     "desc": "Let’s see what happens in a few years’ time and where life takes me, says the superstar at the RCB Innovation Lab Indian Sports Summit; the 37-year-old feels longevity across formats is the the true marker of a player",
     "img": "https://th-i.thgim.com/public/incoming/3o2skj/article70999525.ece/alternates/LANDSCAPE_1200/_DSC6041.jpeg",
@@ -117,15 +207,6 @@ const newsData_en = [
     "time": "2026-05-19T15:57:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Shia Muslims in Kashmir divided over moon sighting for Id-ul-Azha",
-    "desc": "The moon sighting grouping, Ruet-e-Hilal Committee, of the All J&K Shia Association (AJKSA) says the crescent moon of Zul Hijjah was not sighted on May 18 and hence Id will be celebrated on May 27, while Sunnis and some Shia faithfuls will observe it on May 28",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/shia-muslims-in-kashmir-divided-over-moon-sighting-for-id-ul-azha/article70998919.ece",
-    "time": "2026-05-19T15:57:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Currency falls to 96.70 against dollar after eighth straight session of losses",
     "desc": "The Indian rupee hit a record low of 96.70 against the US dollar on Tuesday, extending its losing streak to eight sessions. Rising crude oil prices, foreign fund outflows, and a strong dollar due to global risk aversion are key factors. Forex traders also cited supply-chain disruptions. The Reserve Bank of India's intervention and import restrictions might offer some support.",
@@ -169,6 +250,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/youve-always-been-there-pv-sindhus-post-for-virat-kohli-goes-viral/articleshow/131203857.cms",
     "time": "2026-05-19T15:02:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Naseeruddin says his sons wake him up at 3am to show him his bad films",
+    "desc": "Veteran actor Naseeruddin Shah, attending the trailer launch of Imtiaz Ali's 'Main Vaapas Aaunga', candidly admitted to delivering some poor performances, humorously noting his sons show them to him at 3 am. He praised Ali's brilliant writing and directorial approach, highlighting his dedication to actors' performances.",
+    "img": "https://static.toiimg.com/photo/msid-131203972,imgsize-46386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/naseeruddin-shah-says-his-sons-wake-him-up-at-3am-to-show-him-his-bad-films-i-would-rather-sleep/articleshow/131203744.cms",
+    "time": "2026-05-19T15:00:52.000Z"
   },
   {
     "cat": "Business",
@@ -306,33 +396,6 @@ const newsData_en = [
     "time": "2026-05-19T12:34:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Roadshow, garlands, rousing welcome for rape accused after bail in Ghaziabad; Akhilesh Yadav slams BJP government",
-    "desc": "An alleged rape accused in Ghaziabad received a triumphant welcome from supporters upon his bail, with videos showing him being carried on shoulders amidst cheers and a procession. Samajwadi Party chief Akhilesh Yadav criticized the state government, calling the reception reprehensible and highlighting the perceived hypocrisy.",
-    "img": "https://static.toiimg.com/photo/msid-131201043,imgsize-718681.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/up-shocker-roadshow-garlands-rousing-welcome-for-rape-accused-after-bail-in-ghaziabad-akhilesh-yadav-slams-bjp-government/articleshow/131199933.cms",
-    "time": "2026-05-19T12:30:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Who wins and who loses when AI comes for the workplace",
-    "desc": "AI adoption is reshaping the job market, with significant tech job cuts reported and AI capable of performing a substantial portion of the US labor market's work. While AI automates tasks rather than eliminating entire jobs, younger workers in entry-level roles are disproportionately affected.",
-    "img": "https://static.toiimg.com/photo/msid-131200982,imgsize-1601848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-wins-and-who-loses-when-ai-comes-for-the-workplace/articleshow/131200060.cms",
-    "time": "2026-05-19T12:29:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Keralam's new UDF Govt forms expert panel to prepare White Paper on State's finances",
-    "desc": "Kerala's new UDF government, led by CM VD Satheesan, has formed a special committee to prepare a White Paper on the state's financial condition, headed by ex-cabinet secretary KM Chandrasekhar. This move follows allegations of financial mismanagement by the previous government. The cabinet also established an SIT to probe attacks during the Nava Kerala Yatra.",
-    "img": "https://static.toiimg.com/photo/msid-131200024,imgsize-93280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/keralams-new-udf-govt-forms-expert-panel-to-prepare-white-paper-on-states-finances/articleshow/131199723.cms",
-    "time": "2026-05-19T11:57:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘I am getting to do roles which I wouldn’t have got otherwise after forty’",
     "desc": "The actor, along with Sonakshi Sinha and Ashutosh Gowariker, opens up about collaborating with Ashwiny Iyer Tiwary in ‘System’, Jyotika’s shift to Hindi films, how Sonakshi and Ashutosh brought realism to their performances, and more",
@@ -349,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-didnt-have-a-vanity-van-during-rehnaa-hai-terre-dil-mein-with-r-madhavan-recalls-daisy-shah-who-was-a-background-dancer-that-time/articleshow/131199395.cms",
     "time": "2026-05-19T11:33:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sebastian, Renate moved as Fjord gets Cannes ovation",
-    "desc": "Sebastian Stan and Renate Reinsve were moved as their film 'Fjord' earned a 10-minute standing ovation at Cannes. The drama depicts a Romanian-Norwegian family's life unraveling in Norway after authorities remove their children over alleged abuse. The powerful story, exploring clashes between faith, norms, and state power, deeply resonated with the audience, eliciting gasps and strong emotional responses.",
-    "img": "https://static.toiimg.com/photo/msid-131199065,imgsize-89110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sebastian-stan-and-renate-reinsve-tear-up-as-fjord-gets-10-minute-standing-ovation-at-cannes-2026-film-festival/articleshow/131199065.cms",
-    "time": "2026-05-19T11:27:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Promise or pressure? Why TMC candidate Jahangir Khan withdrew from Falta repoll",
-    "desc": "Trinamool Congress candidate Jahangir Khan withdrew from Falta's re-poll, citing a \"special package\" for the area's development. The TMC, however, stated his decision was personal, alleging pressure and intimidation against their workers by the BJP. The Election Commission ordered re-polling due to \"severe electoral offences\" and subversion of the democratic process.",
-    "img": "https://static.toiimg.com/photo/msid-131199061,imgsize-917815.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/promise-or-pressure-why-tmc-candidate-jahangir-khan-withdrew-from-falta-repoll/articleshow/131197914.cms",
-    "time": "2026-05-19T11:19:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -414,15 +459,6 @@ const newsData_en = [
     "time": "2026-05-19T10:46:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Russia’s Vladimir Putin to visit India for Brics summit in September",
-    "desc": "Russian President Vladimir Putin will attend the BRICS summit in New Delhi on September 12-13. Kremlin aide Yury Ushakov confirmed his participation in the national capital. This visit marks a significant diplomatic event for India amidst global geopolitical shifts and growing BRICS collaboration. Details on his schedule are anticipated.",
-    "img": "https://static.toiimg.com/photo/msid-131197975,imgsize-60450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/russias-vladimir-putin-to-visit-india-for-brics-summit-in-september/articleshow/131197989.cms",
-    "time": "2026-05-19T10:42:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who is Gurnoor Brar? Spotted by Shubman Gill, impressed Shikhar Dhawan with pace, being groomed by Ashish Nehra",
     "desc": "Spotted early by Shubman Gill, backed by Shikhar Dhawan and mentored by Ashish Nehra, Punjab pacer Gurnoor Brar’s rise has been shaped by pace, setbacks and learning curves. From a late start to India A success, the six-foot-five quick is now firmly on the national radar as India search for fast-bowling depth. The lanky fast bowler on Tuesday has received a maiden Indian call -up for both Tests and ODIs.",
@@ -432,15 +468,6 @@ const newsData_en = [
     "time": "2026-05-19T10:40:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "The Maharashtra Files is all set to hit theatres on THIS date",
-    "desc": "The trailer of 'The Maharashtra Files', directed by Sanjivkumar Rathod, was launched on May 18. The Marathi film is a bold political drama revolving around corruption, land acquisition, and the misuse of power. Featuring Mangesh Desai, Usha Nadkarni, and Sayaji Shinde, the film is set to release on May 29, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131197912,imgsize-38952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/after-the-kashmir-files-and-the-bengal-files-the-maharashtra-files-is-all-set-to-hit-theatres-on-this-date/articleshow/131197912.cms",
-    "time": "2026-05-19T10:36:34.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SC asks SpiceJet to move Delhi HC for extension of time to deposit ₹144 crore",
     "desc": "The High Court had on May 4 dismissed pleas moved by SpiceJet and its promoter Ajay Singh seeking a review of an earlier order asking the airline to deposit ₹144 crore in connection with its legal dispute with Kalanithi Maran and Kal Airways",
@@ -448,15 +475,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/dispute-with-maran-sc-asks-spicejet-to-move-delhi-hc-for-extension-of-time-to-deposit-144-crore/article70997519.ece",
     "time": "2026-05-19T10:15:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NCSC issues notice to Punjab over use of casteist words in questionnaire",
-    "desc": "In a significant move, the National Commission for Scheduled Castes has responded to the Punjab authorities regarding serious allegations of caste-based discrimination being recorded in an official Census document. The Commission plans to delve into this issue under Article 338 of the Constitution and has requested a detailed action report within a strict 15-day timeline.",
-    "img": "https://static.toiimg.com/photo/msid-131197026,imgsize-1368250.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/census-2027-ncsc-issues-notice-to-punjab-over-use-of-casteist-words-in-questionnaire/articleshow/131196828.cms",
-    "time": "2026-05-19T09:58:22.000Z"
   },
   {
     "cat": "Business",
@@ -478,30 +496,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "When Madhavan spoke about moving to Dubai for Vedaant's swimming training",
-    "desc": "Actor R. Madhavan and his wife relocated to Dubai during the Covid-19 lockdown to ensure their son Vedaant's swimming career continued uninterrupted. This crucial decision proved beneficial, with Vedaant excelling in his sport. Madhavan also expressed his concern about Vedaant remaining grounded amidst early fame and success.",
-    "img": "https://static.toiimg.com/photo/msid-131196424,imgsize-63882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-revealed-he-moved-to-dubai-for-son-vedaants-swimming-training-was-concerned-about-his-early-fame-this-recognition-will-soon-fade/articleshow/131196283.cms",
-    "time": "2026-05-19T09:31:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar 2' BO day 62 [LIVE]: Eyes Rs 1150 crore before OTT release",
     "desc": "The Revenge' continues its historic, record-shattering theatrical run, hitting a domestic net of Rs. 1,146.16 crore by Day 62. Already ruling the roost as the highest-grossing Hindi film of all time, the Ranveer Singh-starrer is now targeting the Rs. 1,150 crore milestone while chasing 'Pushpa 2’s domestic record of Rs. 1,234.10 crore. Boasting a massive worldwide gross of Rs. 1,798.36 crore, the film maintains steady theatrical momentum across India even as its raw, international version hits streaming platforms.",
     "img": "https://static.toiimg.com/photo/msid-131195975,imgsize-222430.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-62-live-ranveer-singh-film-within-touching-distance-of-rs-1150-crore-net-pushpa-2-domestic-record-rs-88-crore-away-amid-ott-release-buzz/articleshow/131195975.cms",
     "time": "2026-05-19T09:17:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'CM Adhikari promised ...': Jahangir Khan exits Falta repoll; TMC says 'succumbed to pressure'",
-    "desc": "Trinamool Congress candidate Jahangir Khan has withdrawn his nomination for the Falta re-poll, days before voting. The Election Commission had previously scrapped the original polls due to severe electoral offenses and subversion of the democratic process. Observer reports highlighted significant irregularities, including EVM tampering and voter intimidation. This development follows criticism from West Bengal Chief Minister Suvendu Adhikari.",
-    "img": "https://static.toiimg.com/photo/msid-131195967,imgsize-30748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-tmc-candidate-jahangir-khan-withdraws-from-falta-repoll-2-days-ahead-of-voting/articleshow/131195909.cms",
-    "time": "2026-05-19T09:10:23.000Z"
   },
   {
     "cat": "Sports",
@@ -511,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/kya-middle-stump-udaya-bey-rohit-sharmas-funny-eden-act-leaves-mi-kkr-in-splits-watch/articleshow/131195919.cms",
     "time": "2026-05-19T09:10:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Massive blow for LSG as star player leaves camp before final two games",
-    "desc": "Aiden Markram has departed the Lucknow Super Giants camp for personal reasons. He will miss the remaining IPL 2026 league matches. This impacts LSG's final two games against Rajasthan Royals and Punjab Kings. Rajasthan Royals are still in contention for a playoff spot. Their upcoming matches are crucial for their qualification hopes.",
-    "img": "https://static.toiimg.com/photo/msid-131195832,imgsize-124002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-massive-blow-for-lsg-as-star-player-leaves-camp-before-final-two-games/articleshow/131195858.cms",
-    "time": "2026-05-19T09:04:27.000Z"
   },
   {
     "cat": "Business",
@@ -565,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/baseless-centre-rejects-rumours-over-turning-temple-gold-into-reserve/articleshow/131190992.cms",
     "time": "2026-05-19T05:15:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Currency slips to 96.38 against US dollar amid Middle East tensions",
-    "desc": "The Indian rupee continued its decline against the US dollar, falling 18 paise to 96.38 amid rising crude oil prices and Middle East tensions. The currency has lost over 5% since late February, with concerns over geopolitical instability and foreign portfolio investor outflows pressuring its value.",
-    "img": "https://static.toiimg.com/photo/msid-131190532,imgsize-1791631.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/no-relief-for-rupee-currency-slips-to-96-38-against-us-dollar-amid-middle-east-tensions-rupee-trading-on-may-19-2026/articleshow/131190356.cms",
-    "time": "2026-05-19T04:29:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Liberty Mutual hikes stake in Indian arm",
-    "desc": "In a strategic pivot, Liberty Mutual Insurance has raised its stake in Liberty General Insurance to an impressive 74%. This latest increase follows a similar upswing in September 2025, affirming Liberty Mutual's dominance after Videocon stepped back in 2018. With its reinforced foundation, the Indian insurer is set to pursue expansive opportunities in the retail and commercial insurance sectors.",
-    "img": "https://static.toiimg.com/photo/msid-131189894,imgsize-1095874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/liberty-mutual-hikes-stake-in-indian-arm/articleshow/131189713.cms",
-    "time": "2026-05-19T03:40:48.000Z"
   },
   {
     "cat": "World",
@@ -727,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capitals-vs-rajasthan-royals-mitchel-starc-vaibhav-sooryavanshi-match-updates/article70990789.ece",
     "time": "2026-05-17T19:26:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 PBKS vs RCB",
-    "desc": "The left-hander makes the most of a rare opportunity to lift the defending champion to an above-par score; the veteran seamer’s early strikes and Hazlewood’s brilliance at the death leave PBKS on the brink of elimination",
-    "img": "https://th-i.thgim.com/public/incoming/s7ak60/article70991100.ece/alternates/LANDSCAPE_1200/31_RVM_0326.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/pbks-rcb-match-sunday-may-17-updates/article70990063.ece",
-    "time": "2026-05-17T15:44:59.000Z"
   },
   {
     "cat": "Entertainment",
