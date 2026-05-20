@@ -1,6 +1,15 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Adnan Sami was set to collaborate with MJ before his death",
+    "desc": "Singer and composer Adnan Sami recently opened up about a missed international collaboration that could have become one of the biggest moments of his career. In a conversation, Adnan revealed that he was in talks to work with the legendary Michael Jackson and his brothers on a world music album before the pop icon’s untimely death.",
+    "img": "https://static.toiimg.com/photo/msid-131235446,imgsize-70340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adnan-sami-reveals-he-was-set-to-collaborate-with-michael-jackson-before-the-singers-death-with-his-passing-the-album-also-ended/articleshow/131235436.cms",
+    "time": "2026-05-20T21:23:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Salman accepts paparazzi’s apology at Raja Shivaji success party",
     "desc": "Salman Khan was recently seen accepting an apology from paparazzi after expressing anger over their alleged invasion of privacy during a hospital visit. The incident took place at the success party of Raja Shivaji in Mumbai on Wednesday, where photographers apologised to the actor for their behaviour a day earlier.",
     "img": "https://static.toiimg.com/photo/msid-131235210,imgsize-32870.cms",
@@ -153,15 +162,6 @@ const newsData_en = [
     "time": "2026-05-20T16:54:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "No Ebola cases reported in India yet; government ramps up surveillance after WHO alert",
-    "desc": "India has reported no Ebola cases, despite the WHO declaring it a public health emergency. The health ministry has strengthened nationwide surveillance and preparedness measures, including sharing detailed SOPs with states and Union Territories. The country has prior experience in handling similar outbreaks.",
-    "img": "https://static.toiimg.com/photo/msid-131231358,imgsize-1651467.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-ebola-cases-reported-in-india-yet-government-ramps-up-surveillance-after-who-alert/articleshow/131231310.cms",
-    "time": "2026-05-20T16:50:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anupam Kher defends Alia Bhatt amid Cannes trolling",
     "desc": "Veteran actor Anupam Kher has come out in support of Alia Bhatt after the actress faced trolling during her recent appearance at the Cannes Film Festival. Kher, who recently won the Best Supporting Actor award at the UK Asian Film Festival Flame Awards for his Indo-Canadian film Calorie, spoke strongly against online negativity and praised Alia for the way she handled criticism.",
@@ -169,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-defends-alia-bhatt-amid-cannes-trolling-losers-want-to-get-noticed-by-criticising-something-iconic/articleshow/131231163.cms",
     "time": "2026-05-20T16:36:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi conferred Food and Agricultural Organisation's highest honour, Agricola Medal, for contribution to global food security",
-    "desc": "Prime Minister Narendra Modi received the FAO Agricola Medal, the UN's highest agriculture honour, for his work on food security and sustainable farming. He dedicated the award to India's farmers and agricultural community, emphasizing the nation's shift towards 'Producing Better' with a focus on biodiversity and technology. Modi highlighted India's commitment to human welfare and global responsibility.",
-    "img": "https://static.toiimg.com/photo/msid-131231114,imgsize-663936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-conferred-food-and-agricultural-organisations-highest-honour-agricola-medal-for-contribution-to-global-food-security/articleshow/131230844.cms",
-    "time": "2026-05-20T16:34:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -259,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-hits-new-record-low-near-97-against-dollar-oil-prices-and-bond-yields-keep-pressure-on-currency/articleshow/131229927.cms",
     "time": "2026-05-20T15:02:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "From handing Centre ‘Chicken’s Neck’ to Vande Mataram mandate: 11 key decisions in 12 days by Suvendu government",
-    "desc": "West Bengal's new BJP government is enacting swift policy changes, replacing TMC schemes with central programs like Ayushman Bharat and Annapurna Yojna. Mandatory 'Vande Mataram' in schools, revised OBC reservations, and increased age limits for government jobs are among the key decisions. The administration is also scrutinizing caste certificates and initiating corruption probes.",
-    "img": "https://static.toiimg.com/photo/msid-131229871,imgsize-486779.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-from-handing-centre-chickens-neck-to-vande-mataram-mandate-11-key-decisions-in-12-days-by-suvendu-government/articleshow/131223244.cms",
-    "time": "2026-05-20T14:59:35.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +342,6 @@ const newsData_en = [
     "time": "2026-05-20T13:20:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Italy PM Meloni’s ‘parishram’ pitch steals spotlight at PM Modi press meet in Rome",
-    "desc": "Italian Prime Minister Giorgia Meloni used the Hindi phrase 'parishram hi safalta ki kunji hai' to describe the growing India-Italy ties, emphasizing hard work as key to success. The two nations upgraded their bilateral relations to a Special Strategic Partnership, unveiling a Joint Strategic Action Plan for 2025-2029, aiming for a 20 billion euro trade target.",
-    "img": "https://static.toiimg.com/photo/msid-131227884,imgsize-945705.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/italy-pm-melonis-parishram-pitch-steals-spotlight-at-pm-modi-press-meet-in-rome/articleshow/131227649.cms",
-    "time": "2026-05-20T13:10:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ranji Trophy from Oct 11; Duleep Trophy on August 23",
     "desc": "The BCCI has announced the 2026-27 domestic cricket schedule, featuring 1,788 matches across various men's and women's categories. The Ranji Trophy will continue its two-phase format, commencing on October 11, while the Duleep Trophy kicks off the season on August 23. Notable changes include the U-23 one-day and Vizzy Trophy inter-zonal university competitions shifting to T20 format.",
@@ -412,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/where-is-aishwarya-rai-after-days-of-fan-speculation-update-on-her-much-awaited-cannes-2026-appearance-finally-revealed/articleshow/131227138.cms",
     "time": "2026-05-20T12:32:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi and Meloni elevate strategic ties; fathers 'selling' daughters in Afghanistan &amp; more",
-    "desc": "India and Italy elevated their bilateral ties to a Special Strategic Partnership, focusing on AI, space, and innovation. Meanwhile, Kerala's new cabinet ministers were assigned portfolios, and the WHO warned of a high local Ebola risk in Congo and Uganda, though the global threat remains low. Disturbing reports from Afghanistan reveal families selling daughters due to extreme poverty.",
-    "img": "https://static.toiimg.com/photo/msid-131227209,imgsize-957537.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-pm-modi-and-meloni-elevate-strategic-ties-fathers-selling-daughters-in-afghanistan-more/articleshow/131226532.cms",
-    "time": "2026-05-20T12:30:38.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
