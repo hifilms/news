@@ -1,12 +1,75 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "આ ચોમાસું ક્યાંથી આવે છે? 17 હજાર કિ.મી દૂર બેઠેલા &amp;#039;નાના બાળક&amp;#039;ના કારણે આખા ભારતનું કેમ વધ્યું ટેન્શન?",
+    "desc": "ચોમાસું અંદમાન સાગર સુધી પહોંચી ગયું છે અને 26 તારીખ સુધીમાં કેરળ પહોંચવાની સંભાવના છે. જોકે, આગળની સ્થિતિ બહુ સારી દેખાઈ રહી નથી. ભારતથી હજારો કિલોમીટર દૂર થઈ રહેલી એક હલચલ ટેન્શન વધારી રહી છે. ચોમાસાનું આખું વિજ્ઞાન વિગતવાર વાંચો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/monsoon-2026-india-from-where-one-or-two-times-why-a-child-at-peru-tension-whole-country-478585 ",
+    "time": "2026-05-20T06:32:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મોહમ્મદ શમીને કેમ ના મળ્યું ટીમમાં સ્થાન ? ચીફ સિલેક્ટર અજિત અગરકરે આપ્યો ચોંકાવનારો જવાબ",
+    "desc": "ઘરેલુ ક્રિકેટમાં શાનદાર પ્રદર્શન કરવા છતાં મોહમ્મદ શમીની ફરી એકવાર અવગણના કરવામાં આવી છે. તેને અફઘાનિસ્તાન સામેની ટેસ્ટ અને ODI શ્રેણી માટે પસંદ કરવામાં આવ્યો નથી. દરમિયાન ટીમ ઈન્ડિયાના મુખ્ય પસંદગીકારે આ નિર્ણય પાછળનું કારણ જણાવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-mohammed-shami-out-of-team-india-chief-selector-ajit-agarkar-gave-answer-478584 ",
+    "time": "2026-05-20T06:15:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગુજરાતના મુસાફરોને મોટો ઝટકો: સ્પાઈસજેટ 1 જૂનથી તમામ 12 ફ્લાઈટો બંધ કરશે! જાણો કયા શહેરોને લાગશે ફટકો?",
+    "desc": "ગુજરાતના મુસાફરોને મોટો ઝટકો. સ્પાઈસજેટ 1 જૂનથી 12 ફ્લાઈટો બંધ કરશે! ગંભીર નાણાકીય કટોકટી અને કાનૂની વિવાદોનો સામનો કરી રહેલી સ્પાઈસજેટ એરલાઇન્સે મોટો નિર્ણય લીધો છે. આગામી 1 જૂનથી ગુજરાતના અમદાવાદ, કંડલા અને ભાવનગર સ્ટેશનથી ઓપરેટ થતી તમામ 12 ફ્લાઈટો બંધ થઈ જશે. એરલાઇન્સે પોતાની ઓફિશિયલ બુકિંગ સિસ્ટમ પરથી પણ આ રૂટ્સ હટાવી દીધા છે, જેના કારણે એડવાન્સ બુકિંગ કરાવનારા પેસેન્જરો મુશ્કેલીમાં મુકાયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-blow-to-gujarat-passengers-spicejet-to-stop-all-12-flights-from-june-1-478571 ",
+    "time": "2026-05-20T05:26:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સરકારી કર્મચારીઓને પ્રમોશન માંગવાનો કોઈ અધિકાર નથી, સુપ્રીમ કોર્ટનો મહત્વનો ચુકાદો",
+    "desc": "દેશની સર્વોચ્ચ અદાલત સુપ્રીમ કોર્ટે સરકારી કર્મચારીઓના પ્રમોશન સંબંધિત એક મોટો ચુકાદો આપ્યો છે. જે સરકારી કર્મચારીઓ જાણવો ખુબ જરૂરી છે. કોર્ટે કહ્યું કે સરકારી કર્મચારીઓને જૂના નિયમો હેઠળ જ પ્રમોશન મેળવવાનો કોઈ કાનૂની હક નથી. કોર્ટે કહ્યું કે સરકારને પ્રશાસનિક સુધારાઓ માટે નિમણૂક પ્રક્રિયા અને સેવા નિયમોમાં ફેરફાર કરવાી પૂરી શક્તિ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/supreme-court-big-verdict-on-government-employees-promotion-478566 ",
+    "time": "2026-05-20T04:54:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બિહાર કરતા આઠ ગણી વધારે છે આ બંને રાજ્યોની માથાદીઠ આવક, જાણો બેરોજગારીમાં ગુજરાતનો નંબર",
+    "desc": "ભારતનું અર્થતંત્ર ઝડપથી વિકસી રહ્યું છે. ઉત્તર પ્રદેશ સહિત પાંચ રાજ્યો ભારતના GDPમાં આશરે 48% હિસ્સો ધરાવે છે, જ્યારે નીચેના 10 રાજ્યો 3% કરતા ઓછું યોગદાન આપે છે. માથાદીઠ આવકની દ્રષ્ટિએ બિહાર સૌથી નીચે ક્રમે છે, જ્યારે બે રાજ્યો તેનાથી આઠ ગણા વધારે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/the-per-capita-income-of-these-two-states-is-eight-times-more-than-bihar-know-gujarat-number-in-unemployment-478570 ",
+    "time": "2026-05-20T04:31:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઈરાનની એક ચાલથી સોનું ધડામ થઈ બે મહિનાના નીચલા સ્તરે પહોંચ્યું, ભાવમાં મોટો કડાકો, જાણો રેટ",
+    "desc": "સોના અને ચાંદીના ભાવમાં વૈશ્વિક અસ્થિરતાઓ અને મિડલ ઈસ્ટ સંકટના પગલે સતત ઉથલપાથલ જોવા મળી રહી છે. વૈશ્વિક સ્તરે આજે સોનાના ભાવમાં મોટો કડાકો જોવા મળ્યો છે. ઘરઆંગણે પણ અસર જોવા મળી રહી છે. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-drop-in-gold-price-in-international-market-after-iran-big-claim-check-latest-rates-aaj-no-sona-no-bhav-478568 ",
+    "time": "2026-05-20T04:28:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "લાપતા થયા પછી પંજાબી સિંગરની લાશ નહેરમાંથી મળી, કેનેડામાં રહેતા એક તરફી પ્રેમી પર હત્યા કર્યાની શંકા",
+    "desc": "પંજાબી મ્યૂઝિક ઈંડસ્ટ્રીની લોકપ્રિય ગાયિકા ઈંદર કૌર 13 મે થી લાપતા હતી અને અંતે તેનો મૃતદેહ લુધિયાણાની એક કેનાલમાંથી મળી આવ્યો છે. ગાયિકાના પરિવારનો આક્ષેપ છે કે કેનેડામાં રહેતા એક પરણિત વ્યક્તિએ ગાયિકાની હત્યાનું ષડયંત્ર રચ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/punjabi-singer-inder-kaur-body-found-in-canal-crime-ludhiana-family-doubt-on-one-sided-lover-from-caneda-478565 ",
+    "time": "2026-05-20T03:35:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "PM મોદી અને ટ્રમ્પની આવતા મહિને થશે મુલાકાત, જાણો કયા દેશમાં મળશે",
     "desc": "ભારતના વડા પ્રધાન નરેન્દ્ર મોદી અને અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ જૂનમાં દરમિયાન મળી શકે છે. આ સમાચાર એવા સમયે આવ્યા છે, જ્યારે હાલમાં જ અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ ચીનનો પ્રવાસ કર્યો છે. ત્યારે જોવાનું રહેશે કે પીએમ મોદી અને ડોનાલ્ડ ટ્રમ્પની મુલાકાતમાં ચીન વિશે કોઈ મુદ્દે ચર્ચા થશે કે નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pm-modi-and-trump-will-meet-next-month-know-in-which-country-they-will-meet-478552 ",
-    "time": "2026-05-20T02:36:19.000Z"
+    "time": "2026-05-20T03:24:29.000Z"
   },
   {
     "cat": "Business",
@@ -333,15 +396,6 @@ const newsData_gu = [
     "time": "2026-05-18T10:08:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પ્રેમાનંદ મહારાજની તબિયત લથડી, અનિશ્ચિતકાળ સુધી પદયાત્રા-એકાંતિક દર્શન બંધ",
-    "desc": "પ્રેમાનંદ મહારાજની તબિયત લથડી છે. જેના કારણે પદયાત્રા અને એકાંતિક દર્શન અનિશ્ચિતકાળ સુધી સ્થગિત કરવામાં આવ્યા છે. હજારો ભક્તો તેમના દર્શન કર્યા વિના પાછા ફર્યા અને તેમના ઝડપી સ્વસ્થ થવા માટે પ્રાર્થના કરી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/premanand-maharaj-health-deteriorated-padayatra-indefinitely-postponed-478339 ",
-    "time": "2026-05-18T08:44:52.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold પર જે પી મોર્ગનની ચોંકાવનારી ભવિષ્યવાણી, સોનાના ભાવ પર અનુમાન ઘટાડ્યું, ખાસ જાણો",
     "desc": "જો તમને સોનું ભેગુ કરવાનો શોખ હોય અને સોનું ખરીદવાની ઈચ્છા થતી હોય તો તમારા માટે આ સમાચાર કામના છે. સોનાના ભાવ પર કેટલીક ભવિષ્યવાણીઓ સામે આવી છે જે તમારે જાણવા જેવી છે. જે પી મોર્ગને વધતી વૈશ્વિક અનિશ્ચિતતાઓ અને અન્ય કારણોસર સોનાના ભાવ પર અનુમાન ઘટાડી દીધુ છે. જાણો વિગતો.",
@@ -349,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/jp-morgan-gold-price-forecast-changed-lowers-due-to-weak-demand-check-details-478338 ",
     "time": "2026-05-18T08:26:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આંદમાન સુધી તો પહોંચી ગયું ચોમાસું, પણ અરબ સાગરમાં શું હલચલ ચાલી રહી છે? જાણો ચિંતાજનક આગાહી",
-    "desc": "અંગ દઝાડતી ગરમી અને લૂના થપેડાથી ત્રાહિમામ લોકો હવે કાગડોળે વરસાદની રાહ જોઈ રહ્યા છે. આગાહી મુજબ ચોમાસું આંદમાન અને નિકોબાર ટાપુઓ સુધી તો પહોંચી ગયું છે અને 26મી આસપાસ કેરળ પહોંચવાની આગાહી છે. પરંતુ હવામાન નિષ્ણાંતે અરબ સાગરને લઈને એક એવી વાત જણાવી છે જે ચોમાસા મુદ્દે ચિંતાજનક છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/monsoon-2026-latest-update-reach-to-andaman-nicobar-anti-cyclone-active-in-arab-sagar-478318 ",
-    "time": "2026-05-18T08:10:35.000Z"
   },
   {
     "cat": "Tech",
@@ -403,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/prime-video-horror-movie-pechi-do-not-watch-this-film-alone-478297 ",
     "time": "2026-05-18T05:01:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ટ્રમ્પની ચાલ ભારે પડી! સવાર સવારમાં સોનું જોરદાર ધડામ, દોઢ મહિનાના નીચલા સ્તરે પહોંચ્યું",
-    "desc": "સોનું અને ચાંદી વળી પાછા કરવટ લઈ રહ્યા છે. ગત સપ્તાહે ભારે તેજી અને ત્યારબાદ આવેલો કડાકો આજે નવા અઠવાડિયાના પહેલા દિવસે પણ ચાલુ જોવા મળ્યો છે. વૈશ્વિક બજારમાં સોના-ચાંદીના ભાવ ઘટ્યા જેની અસર ભારતીય બજાર ઉપર પણ જોવા મળી રહી છે. MCX પર સોનું અને ચાંદી લાલ નિશાન સાથે જોવા મળી રહ્યા છે. રિટેલ બજારમાં પણ કદાચ ભાવમાં કડાકો જોવા મળી શકે છે. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fall-in-global-market-also-impact-on-mcx-aaj-no-sona-chandi-no-bhav-478298 ",
-    "time": "2026-05-18T03:56:34.000Z"
   },
   {
     "cat": "World",
@@ -504,15 +540,6 @@ const newsData_gu = [
     "time": "2026-05-17T10:00:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "MS ધોની આ દિવસે રમશે તેની છેલ્લી IPL મેચ ! CSK લિજેન્ડને ચેન્નાઈમાં મળી શકે છે વિદાય",
-    "desc": "MS ધોની 18 મેના રોજ IPLમાં છેલ્લી વખત જોવા મળી શકે છે. જો તે આ મેચમાં નહીં રમે, તો તે ફરીથી જોવા મળે તેવી શક્યતા ઓછી છે. 44 વર્ષીય ધોની હાલમાં ઈજાના કારણે બહાર છે. ત્યારે જોવાનું એ રહેશે કે ધોની 18 મેએ રમશે કે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ms-dhoni-will-play-his-last-ipl-match-on-18-may-harsha-bhogle-478227 ",
-    "time": "2026-05-17T09:23:11.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "iPhone પર WhatsApp ચેટ માટે નવું ફીચર, Meta એ શરૂ કર્યું ટેસ્ટિંગ; જાણો કેવી રીતે કરશે કામ અને ક્યારે થશે લોન્ચ?",
     "desc": "આઇફોન (iPhone) યુઝર્સ માટે વોટ્સએપ એક નવું ફીચર લોન્ચ કરવાની તૈયારી કરી રહ્યું છે. મેટા કંપનીએ હાલમાં જ આ ફીચરનું ટેસ્ટિંગ શરૂ કર્યું છે, જે જો સફળ રહેશે તો ટૂંક સમયમાં જ ચેટિંગના અનુભવને વધુ બહેતર બનાવવા માટે આ નવું ફીચર રોલ આઉટ (લોન્ચ) કરી દેવામાં આવશે.",
@@ -601,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/this-suspense-thriller-film-has-been-in-the-top-10-on-netflix-for-four-months-a-powerful-twist-will-be-seen-in-every-scene-478021 ",
     "time": "2026-05-15T16:24:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "બાબા વેંગાની એલિયન્સ વિશે ડરામણી ભવિષ્યવાણી થઈ રહી છે વાયરલ, દુનિયામાં મચી ગયો ખળભળાટ !",
-    "desc": "બાબા વેંગાની ભવિષ્યવાણી ફરી એકવાર ચર્ચામાં આવી ગઈ છે, 161 ખાનગી ફાઈલોની માહિતી બહાર આવતાની સાથે જ બાબા વેંગા અને નોસ્ટ્રાડેમસની ભવિષ્યવાણી સાચી પડી હોવાનું લાગી રહ્યું છે અને માનવ એલિયનના સંપર્કમાં આવ્યા છે તેમ પણ લાગી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/baba-venga-scary-prophecy-about-aliens-is-going-viral-creating-a-stir-in-the-world-478000 ",
-    "time": "2026-05-15T13:05:52.000Z"
   },
   {
     "cat": "Tech",

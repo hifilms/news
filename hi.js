@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Updated WTC points table after Bangladesh register 2-0 sweep over Pakistan, India slip one place",
+    "desc": "Bangladesh completed a 2-0 sweep after defeating Pakistan in the second and final Test of the series at the Sylhet International Cricket Stadium, Sylhet, on Wednesday, May 20. Taijul Islam starred with the ball in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/updated-wtc-points-table-after-bangladesh-register-sweep-over-pakistan-india-slip-one-place-2026-05-20-1041802",
+    "time": "2026-05-20T06:21:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibav Sooryavanshi becomes first Indian to achieve major IPL record after six-hitting spree against LSG",
+    "desc": "Vaibhav Sooryavanshi continue to break new grounds as the teenage sensation has been smashing records one after the other. At just 15, he has redefined T20 batting and has set the ceiling extremely high. He...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibav-sooryavanshi-becomes-first-indian-to-achieve-major-ipl-record-after-six-hitting-spree-against-lsg-2026-05-20-1041795",
+    "time": "2026-05-20T05:38:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arsenal crowned Premier League champions after 22 years as Man City draws with Bournemouth",
+    "desc": "Arsenal ended their 22-year-long wait to become the Premier League champions after Manchester City played a 1-1 draw with Bournemouth at the Vitality Stadium on Tuesday. The result meant the City stayed four points behind...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arsenal-crowned-premier-league-champions-after-22-years-as-man-city-draws-with-bournemouth-2026-05-20-1041791",
+    "time": "2026-05-20T04:43:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rajasthan Royals create T20 world record after chasing down 221 against LSG in Jaipur",
     "desc": "Rajasthan Royals etched their name into the history books after chasing down a strong 221-run target against the Lucknow Super Giants at the Sawai Mansingh Stadium on Tuesday, May 19. Vaibhav Sooryavanshi turned out to...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-riyan-parag-not-playing-for-rajasthan-royals-must-win-game-vs-lsg-in-ipl-2026-2026-05-19-1041731",
     "time": "2026-05-19T13:56:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Aiden Markram not playing for Lucknow Super Giants vs RR in IPL 2026?",
-    "desc": "Lucknow Super Giants’ overseas all-rounder Aiden Markram has left the squad to travel to South Africa. He won’t be returning for LSG’s final league game against Punjab Kings as well. Captain Rishabh Pant confirmed that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-aiden-markram-not-playing-for-lucknow-super-giants-vs-rr-in-ipl-2026-2026-05-19-1041728",
-    "time": "2026-05-19T13:50:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo, at 41, will play his sixth FIFA World Cup as Portugal announce 27-man squad",
-    "desc": "Cristiano Ronaldo is set to feature in a sixth World Cup at the age of 41 after Portugal named a 27-man squad for the tournament, with an additional symbolic selection included in remembrance of Diogo...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-at-41-will-play-his-sixth-fifa-world-cup-as-portugal-announce-27-man-squad-2026-05-19-1041724",
-    "time": "2026-05-19T13:20:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi in India's scheme of things in white-ball cricket, indicates chief selector Ajit Agarkar",
-    "desc": "Discussion around Vaibhav Sooryavanshi’s rapid rise has intensified after a breakthrough IPL 2026 season. The Rajasthan Royals opener has amassed 486 runs in 12 matches this season, at a blistering strike rate of 234.78. He...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-in-india-s-scheme-of-things-in-white-ball-cricket-indicates-chief-selector-ajit-agarkar-2026-05-19-1041716",
-    "time": "2026-05-19T12:28:49.000Z"
   }
 ];
