@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Djokovic, Sabalenka among others plan to stage protest ahead of French Open over prize money structure",
+    "desc": "A growing dispute over prize-money allocation at the French Open is set to spill into public view during Roland Garros, with several leading tennis players preparing a coordinated media protest ahead of the tournament. According...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/djokovic-sabalenka-among-others-plan-to-stage-protest-ahead-of-french-open-over-prize-money-structure-2026-05-20-1041872",
+    "time": "2026-05-20T17:41:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni leaves CSK camp ahead of final league game against Gujarat, will only return if team qualifies",
+    "desc": "Legendary captain MS Dhoni has already left the Chennai Super Kings camp ahead of the final IPL 2026 league game against Gujarat Titans. The veteran cricketer hasn’t played a single game this season and it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-leaves-csk-camp-ahead-of-final-league-game-against-gujarat-will-only-return-on-one-condition-2026-05-20-1041867",
+    "time": "2026-05-20T16:21:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup 2026 broadcast still in jeopardy, DD Sports also rejects request",
+    "desc": "With nearly 20 days left for the FIFA World Cup 2026 to begin, uncertainty remains regarding its broadcasting in India. The issue reached the Delhi High Court earlier in the week, where Prasar Bharati clarified...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-broadcast-still-in-jeopardy-dd-sports-also-rejects-request-2026-05-20-1041863",
+    "time": "2026-05-20T15:35:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cameron Green, Saurabh Dubey rattle Mumbai Indians' top order in KKR’s must-win clash in IPL 2026",
     "desc": "Cameron Green endured a difficult first half of IPL 2026, facing heavy criticism for his limited contribution with the ball. Even after he began bowling regularly, the Australian all-rounder struggled to make an impact, leading...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/blow-for-pakistan-star-batters-not-available-for-odi-series-against-australia-2026-05-20-1041822",
     "time": "2026-05-20T08:56:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Najmul Hossain Shanto becomes Bangladesh's most successful Test captain, Shan hit another low after 2-0 sweep",
-    "desc": "Najmul Hossain Shanto has etched his name into the history books, and so have Bangladesh after sweeping Pakistan 2-0 in the second Test at the Sylhet International Cricket Stadium, Sylhet on Wednesday, May 20. Defending...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/najmul-hossain-shanto-becomes-bangladeshs-most-successful-test-captain-shan-hit-another-low-after-sweep-2026-05-20-1041809",
-    "time": "2026-05-20T07:33:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Updated WTC points table after Bangladesh register 2-0 sweep over Pakistan, India slip one place",
-    "desc": "Bangladesh completed a 2-0 sweep after defeating Pakistan in the second and final Test of the series at the Sylhet International Cricket Stadium, Sylhet, on Wednesday, May 20. Taijul Islam starred with the ball in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/updated-wtc-points-table-after-bangladesh-register-sweep-over-pakistan-india-slip-one-place-2026-05-20-1041802",
-    "time": "2026-05-20T06:21:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibav Sooryavanshi becomes first Indian to achieve major IPL record after six-hitting spree against LSG",
-    "desc": "Vaibhav Sooryavanshi continue to break new grounds as the teenage sensation has been smashing records one after the other. At just 15, he has redefined T20 batting and has set the ceiling extremely high. He...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibav-sooryavanshi-becomes-first-indian-to-achieve-major-ipl-record-after-six-hitting-spree-against-lsg-2026-05-20-1041795",
-    "time": "2026-05-20T05:38:39.000Z"
   }
 ];
