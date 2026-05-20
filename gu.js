@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ચોમાસા અંગે સારા અને ખરાબ સમાચાર! જાણો ગુજરાતમાં ક્યારે આવશે વરસાદ? દેશમાં કેવું રહેશે ચોમાસું",
+    "desc": "સમગ્ર દેશની નજર હવે ચોમાસાના આગમન પર છે. ચોમાસાના આગમન બાદ લોકોને ગરમીથી રાહત મળી શકે છે. આ વર્ષે કેરળમાં ચોમાસું જલ્દી પહોંચવાની સંભાવના વ્યક્ત કરવામાં આવી છે. પરંતુ ચોમાસાને લઈને સારા અને ખરાબ બંને સમાચાર સામે આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/good-and-bad-news-about-monsoon-india-monsoon-2026-gujarat-rain-monsoon-478645 ",
+    "time": "2026-05-20T12:35:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સોની લિવ પર ફરીથી આવી રહ્યો મિશ્રા પરિવાર, જોઈ લો ગુલ્લક સીઝન 5 નું ટ્રેલર અને રિલીઝ ડેટ",
+    "desc": "સોની લિવની લોકપ્રિય વેબ સીરીઝમાંથી એક ગુલ્લક પણ છે. ગુલ્લક વેબ સીરીઝની 4 સીઝન રિલીઝ થઈ ચુકી છે અને હવે 5 મી સીઝનનું ટ્રેલર રિલીઝ થયું છે. આ સાથે જ વેબ સીરીઝ ક્યારથી જોવા મળશે તેની તારીખ પણ સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/tvf-famous-family-comedy-web-series-gullak-season-5-release-date-and-trailer-478644 ",
+    "time": "2026-05-20T12:34:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PM Modi અને Meloni ના વાયરલ વીડિયો પર બોલીવુડની અદાકારોએ કરી મજેદાર કોમેન્ટ્સ, ચેક કરો કોણે શું કહ્યું ?",
+    "desc": "વડાપ્રધાન મોદીએ ઈટલીના પીએમ જોર્જિયા મેલોનીને પારલે મેલોડી ચોકલેટ ગિફ્ટ કરી તેનો વીડિયો જેટલી ઝડપથી વાયરલ થયો એટલી જ ઝડપથી આ વીડિયો પર બોલીવુડના કલાકારો મજેદાર રિએકશન આપી રહ્યા છે. તો ચાલો તમને જણાવીએ આ વાયરલ વીડિયો પણ કોણે શું કોમેન્ટ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/pm-modi-and-meloni-melody-chocolate-video-bollywood-celebs-priyanka-chopra-shweta-tiwari-reaction-on-video-478641 ",
+    "time": "2026-05-20T12:04:59.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "શું શાકભાજી, દૂધ, રાશનથી નક્કી થશે સરકારી કર્મચારીઓનો પગાર? 3490 કેલરીનો ફોર્મ્યૂલા કેમ છે ચર્ચામાં",
     "desc": "આઠમાં પગાર પંચ વિશે જે ચર્ચાઓ થઈ રહી છે તેમાં આ 3490 કેલરીનો આંકડો કેમ ચર્ચામાં આવ્યો છે અને કર્મચારી સંગઠનોની શું માંગણી છે, શું હવે ખાવાની વસ્તુઓથી નક્કી થશે કર્મચારીઓના પગાર? તે ખાસ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -369,15 +396,6 @@ const newsData_gu = [
     "time": "2026-05-19T05:07:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ફરવા જાઓ ત્યારે સાવધાન, જોવા મળ્યું હાથીઓનું રૌદ્ર સ્વરૂપ, મહિલા મુસાફરે ગુમાવ્યો જીવ, વીડિયો જોઈને રૂંવાડા ઉભા થઈ જશે",
-    "desc": "કર્ણાટકના કોડગુ જિલ્લાના પ્રખ્યાત દુબારે એલિફંટ કૈંપમાં એક દર્દનાક અકસ્માતથી લોકોને આઘાત લાગ્યો છે, ચેન્નઈથી ફરવા આવેલી 33 વર્ષની મહિલા તે હાથીઓના લડાઈની શિકાર બની જ્યારે તે હાથીઓને સ્નાન કરતા જોવા આવી હતી. આ સમય દરમ્યાન હાથીઓ લડવા લાગ્યા અને બેકાબુ બની ગયા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/dubare-karnataka-elephant-camp-accident-the-fierce-form-of-elephants-a-female-passenger-lost-her-life-watch-video-478381 ",
-    "time": "2026-05-18T13:51:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વૈભવ સૂર્યવંશીની ખુલી પોલ, 15 વર્ષના ખેલાડી પર મોહમ્મદ કૈફનો આરોપ કેટલો સાચો? જાણો",
     "desc": "IPL 2026માં વૈભવ સૂર્યવંશીની બેટિંગ હેડલાઇન્સમાં ચમકી રહી છે. જો કે, તેના પર કૈફે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે. જે હાલ ચર્ચામાં છે અને તેના પર લોકો અનેક રીતે કમેન્ટ કરી રહ્યા છે, ત્યારે અમે પણ તેના વિશે જાણકારી મેળવવાનો પ્રયત્ન કર્યો છે, ચાલો જાણીએ.",
@@ -385,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-weakness-exposed-how-true-is-mohammad-kaifs-accusation-against-the-15-year-old-player-find-out-478378 ",
     "time": "2026-05-18T13:17:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભગવો રંગ અને એરક્રાફ્ટ જેવી ડિઝાઇન... સામે આવ્યો દેશની પહેલી બુલેટ ટ્રેનનો ફર્સ્ટ લુક",
-    "desc": "ભારતીય રેલવેએ દેશની પહેલી બુલેટ ટ્રેનની ડિઝાઇન જાહેર કરી દીધી છે. ફોટામાં ટ્રેનનો આગળનો ભાગ એરક્રાફ્ટ જેવો જોવા મળી રહ્યો છે. ટ્રેન પર આપવામાં આવેલી ભગવા અને કાળા રંગની સ્ટ્રાઇપ ડિઝાઇન તેને ખૂબ જ પ્રીમિયમ અને ફ્યુચરિસ્ટિક લુક આપી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bullet-train-saffron-color-and-aircraft-like-design-photos-of-the-country-first-bullet-train-surfaced-478376 ",
-    "time": "2026-05-18T12:55:28.000Z"
   },
   {
     "cat": "Tech",
@@ -736,23 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-unfollows-suraj-nambiar-on-instagram-extramarital-affair-and-divorce-rumour-spread-477632 ",
     "time": "2026-05-13T08:55:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રકુલ પ્રીતે ગુજરાતના ગીરમાં જંગલ સફારીના નિયમો તોડ્યા ? અધિકારીઓએ જણાવ્યું કારણ, જાણો",
-    "desc": "રકુલ પ્રીતિનો આ વાયરલ વીડિયો ગુજરાતના ગીર રાષ્ટ્રીય ઉદ્યાનનો છે, જ્યાં તે જોવા મળી રહી છે. રકુલનો આ વીડિયો વાયરલ થતાં જ નેટીઝન્સ તેને ટ્રોલ કરી રહ્યા છે, વન્યજીવન સંરક્ષણ નિયમોનું ઉલ્લંઘન કરવા બદલ તેની ટીકા કરી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/rakul-preet-broke-the-rules-of-gujarat-gir-jungle-safari-officials-reveal-the-real-reason-behind-the-viral-video-know-477426 ",
-    "time": "2026-05-11T11:09:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આ વીક OTT માટે ખાસ, મચઅવેટેડ ફિલ્મ ધુરંધર 2 સહિત ક્રાઈમ-થ્રીલર સીરીઝ થશે રિલીઝ",
-    "desc": "આ વીક ઓટીટી લવર્સ માટે ખાસ રહેવાનું છે. કારણ કે આ વીકમાં એક જ દિવસ દમદાર ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ થશે. સૌથી ખાસ વાત તો એ છે કે આ વીકમાં ધુરંધર 2 પણ ઓટીટી પર રિલીઝ થઈ જવાની છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-ott-release-date-confirm-15-may-2026-new-movie-and-web-series-releasing-on-ott-477420 ",
-    "time": "2026-05-11T10:26:40.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cameron Green, Saurabh Dubey rattle Mumbai Indians' top order in KKR’s must-win clash in IPL 2026",
+    "desc": "Cameron Green endured a difficult first half of IPL 2026, facing heavy criticism for his limited contribution with the ball. Even after he began bowling regularly, the Australian all-rounder struggled to make an impact, leading...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cameron-green-saurabh-dubey-rattle-mumbai-indians-top-order-in-kkr-s-must-win-clash-in-ipl-2026-2026-05-20-1041859",
+    "time": "2026-05-20T14:43:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Matheesha Pathirana not playing vs Mumbai Indians in KKR's must-win clash in IPL 2026?",
+    "desc": "Kolkata Knight Riders are without Matheesha Pathirana for their crucial IPL 2026 clash against Mumbai Indians. The Sri Lankan fast bowler, who made his debut for KKR against Gujarat Titans, walked off after bowling only...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-vs-mumbai-indians-in-kkr-s-must-win-clash-in-ipl-2026-2026-05-20-1041853",
+    "time": "2026-05-20T13:54:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI announce 2026-27 domestic schedule; Ranji Trophy begins on October 11, groups revealed",
+    "desc": "BCCI has released the domestic cricket calendar for the 2026-27 season. The officials mapped out an expansive schedule that stretches across age groups, formats and both genders. The upcoming season will feature 1,788 matches, making...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announce-2026-27-domestic-schedule-ranji-trophy-begins-on-october-11-groups-revealed-2026-05-20-1041842",
+    "time": "2026-05-20T12:23:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will Hardik Pandya and Suryakumar Yadav return to play for Mumbai Indians against KKR?",
     "desc": "Kolkata Knight Riders will host Mumbai Indians on April 20 in a high-voltage clash at the Eden Gardens. For the visitors, the match carries no extra pressure, as they are already eliminated from the playoffs...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibav-sooryavanshi-becomes-first-indian-to-achieve-major-ipl-record-after-six-hitting-spree-against-lsg-2026-05-20-1041795",
     "time": "2026-05-20T05:38:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arsenal crowned Premier League champions after 22 years as Man City draws with Bournemouth",
-    "desc": "Arsenal ended their 22-year-long wait to become the Premier League champions after Manchester City played a 1-1 draw with Bournemouth at the Vitality Stadium on Tuesday. The result meant the City stayed four points behind...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-crowned-premier-league-champions-after-22-years-as-man-city-draws-with-bournemouth-2026-05-20-1041791",
-    "time": "2026-05-20T04:43:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals create T20 world record after chasing down 221 against LSG in Jaipur",
-    "desc": "Rajasthan Royals etched their name into the history books after chasing down a strong 221-run target against the Lucknow Super Giants at the Sawai Mansingh Stadium on Tuesday, May 19. Vaibhav Sooryavanshi turned out to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-create-t20-world-record-after-chasing-down-221-against-lsg-in-jaipur-2026-05-20-1041771",
-    "time": "2026-05-20T02:51:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We are a fu**ing good team': Rishabh Pant after LSG's ninth loss in IPL 2026",
-    "desc": "Lucknow Super Giants captain Rishabh Pant used the word expletive 'F' in his team's assessment despite their ninth loss in the Indian Premier League 2026, with the latest one coming against the Rajasthan Royals on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/we-are-a-fucking-good-team-rishabh-pant-after-lsgs-ninth-loss-in-ipl-2026-watch-2026-05-20-1041766",
-    "time": "2026-05-20T02:19:26.000Z"
   }
 ];
