@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KKR remain alive in IPL playoffs race with typical win over Mumbai Indians at Eden Gardens",
+    "desc": "During their most successful years, Kolkata Knight Riders often relied on a simple but effective approach. Their spinners would control the game in the middle overs before a top-order batter, frequently Gautam Gambhir, guided the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-remain-alive-in-ipl-playoffs-race-with-typical-win-over-mumbai-indians-at-eden-gardens-2026-05-21-1041876",
+    "time": "2026-05-20T18:47:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Djokovic, Sabalenka among others plan to stage protest ahead of French Open over prize money structure",
     "desc": "A growing dispute over prize-money allocation at the French Open is set to spill into public view during Roland Garros, with several leading tennis players preparing a coordinated media protest ahead of the tournament. According...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-boost-for-rcb-ahead-of-ipl-2026-playoffs-england-stars-return-confirmed-2026-05-20-1041824",
     "time": "2026-05-20T09:34:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Blow for Pakistan, star batters not available for ODI series against Australia",
-    "desc": "Pakistan have been dealt a blow ahead of their ODI series against Australia as they will be without star batters Fakhar Zaman and Saim Ayub for the three-match series that kicks off on May 30....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/blow-for-pakistan-star-batters-not-available-for-odi-series-against-australia-2026-05-20-1041822",
-    "time": "2026-05-20T08:56:20.000Z"
   }
 ];

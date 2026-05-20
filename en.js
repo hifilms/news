@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Salman accepts paparazzi’s apology at Raja Shivaji success party",
+    "desc": "Salman Khan was recently seen accepting an apology from paparazzi after expressing anger over their alleged invasion of privacy during a hospital visit. The incident took place at the success party of Raja Shivaji in Mumbai on Wednesday, where photographers apologised to the actor for their behaviour a day earlier.",
+    "img": "https://static.toiimg.com/photo/msid-131235210,imgsize-32870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sorry-bhai-sorry-salman-khan-accepts-paparazzis-apology-at-raja-shivaji-success-party-after-hospital-controversy/articleshow/131235193.cms",
+    "time": "2026-05-20T19:59:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Iran examining U.S. proposal, as Trump says in 'final stages' of talks",
+    "desc": "\"We must strengthen our preparations for an effective and forceful response to any potential attacks,\" said Mr. Ghalibaf in an audio message on his website, adding that \"Iran will never give in to intimidation, under any circumstances.\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-live-strait-of-hormuz-updates-us-putin-trump-may-20-2026/article71000732.ece",
+    "time": "2026-05-20T19:37:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We've been quite poor': Hardik Pandya's blunt verdict on Mumbai Indians' IPL campaign",
+    "desc": "Mumbai Indians captain Hardik Pandya expressed frustration over his team's poor fielding, a key factor in their loss to Kolkata Knight Riders. Despite opportunities, dropped catches proved costly. Pandya also felt the batting lineup was about 20 runs short of a competitive total. KKR's win keeps their playoff hopes alive.",
+    "img": "https://static.toiimg.com/photo/msid-131234879,imgsize-69154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/weve-been-quite-poor-hardik-pandyas-blunt-verdict-on-mumbai-indians-ipl-campaign/articleshow/131234882.cms",
+    "time": "2026-05-20T19:28:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Taking it one game at a time': Rahane shares KKR mantra after win vs MI",
+    "desc": "Ajinkya Rahane praised Sunil Narine, Varun Chakaravarthy and Manish Pandey after Kolkata Knight Riders beat Mumbai Indians by four wickets to stay alive in the IPL 2026 playoff race. Rahane highlighted Manish’s attitude despite limited opportunities and credited KKR’s recent success to staying focused “one game at a time”.",
+    "img": "https://static.toiimg.com/photo/msid-131234734,imgsize-262120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-taking-it-one-game-at-a-time-ajinkya-rahane-shares-kkr-mantra-after-win-over-mumbai-indians/articleshow/131234732.cms",
+    "time": "2026-05-20T19:16:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKR beat MI to stay alive as playoff race heads into final round",
+    "desc": "Kolkata Knight Riders defeated Mumbai Indians by four wickets in a rain-affected IPL 2026 clash to keep their playoff hopes alive. MI managed only 147/8 after another poor batting display. Manish Pandey scored 45 and Rovman Powell made 40 as KKR chased down the target in 18.5 overs, with Rinku Singh hitting the winning runs.",
+    "img": "https://static.toiimg.com/photo/msid-131234576,imgsize-223238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kkr-beat-mi-by-four-wickets-to-stay-alive-as-playoff-race-heads-into-final-round/articleshow/131234476.cms",
+    "time": "2026-05-20T19:01:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Tejasvi Singh Dahiya? KKR's Rs 3 crore concussion substitute vs Mumbai Indians",
+    "desc": "Tejasvi Singh Dahiya entered the IPL 2026 spotlight as a concussion substitute for Angkrish Raghuvanshi during a Kolkata Knight Riders match. The 23-year-old wicketkeeper-batter from Delhi was acquired by KKR for Rs 3 crore after a stellar Delhi Premier League campaign, marking a significant turnaround from being unsold in the previous auction.",
+    "img": "https://static.toiimg.com/photo/msid-131234451,imgsize-23862.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/who-is-tejasvi-singh-dahiya-kkrs-rs-3-crore-concussion-substitute-vs-mumbai-indians/articleshow/131234404.cms",
+    "time": "2026-05-20T18:56:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mamta, Divya were arrogant; Sanjay, Mithun treated us like friends'",
+    "desc": "Veteran background dancer Rubina Khan recently opened up about her experience working in Bollywood and shared interesting stories about the behaviour of actors on film sets. In a conversation, Rubina spoke about stars who treated dancers warmly, while also recalling how some actresses maintained distance during shoots.",
+    "img": "https://static.toiimg.com/photo/msid-131234454,imgsize-39532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mamta-kulkarni-divya-bharti-were-arrogant-sanjay-dutt-mithun-chakraborty-treated-us-like-friends-reveals-dancer-rubina-khan/articleshow/131234352.cms",
+    "time": "2026-05-20T18:56:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCW seeks action taken report from Madhya Pradesh government",
+    "desc": "Details sought regarding FIR provisions, status of accused persons’ arrest and interrogation, efforts to arrest absconding husband, passport impoundment status, CCTV footage, call records, electronic and forensic evidence, post-mortem report and action taken on any prior complaints",
+    "img": "https://th-i.thgim.com/public/incoming/hfa1dm/article71001635.ece/alternates/LANDSCAPE_1200/20260518528L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-ncw-seeks-report-details-on-accused-husband/article71001554.ece",
+    "time": "2026-05-20T18:55:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court inclined to grant bail to 2020 Delhi riots accused Tasleem Ahmed and Abdul Khalid Saifi",
+    "desc": "Court says it is prima facie inclined to grant bail to 2020 Delhi riots accused Tasleem Ahmed and Abdul Khalid Saifi; ASG argues that conflicting views on bail in UAPA cases need to be settled by a larger Bench",
+    "img": "https://th-i.thgim.com/public/latest-news/gq3vym/article71003645.ece/alternates/LANDSCAPE_1200/KhalidSaifi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-inclined-to-grant-bail-to-2020-delhi-riots-accused-adjourns-hearing/article71002137.ece",
+    "time": "2026-05-20T18:22:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre tells Supreme Court no new hydel projects should come up in upper Ganga",
+    "desc": "Three Union Ministries submit common affidavit in top court saying the government is not in favour of permitting any new projects in the Alaknanda and Bhagirathi river basins in Uttarakhand, apart from the seven already commissioned",
+    "img": "https://th-i.thgim.com/public/incoming/bmiaul/article71003642.ece/alternates/LANDSCAPE_1200/20230814256L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-tells-supreme-court-no-new-hydel-projects-should-come-up-in-upper-ganga/article71002375.ece",
+    "time": "2026-05-20T18:20:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Adnan Sami reacts to trolling over meeting RSS chief Mohan Bhagwat",
+    "desc": "Singer Adnan Sami has never shied away from speaking his mind, and the musician has once again addressed the trolling surrounding him with complete honesty. Recently, Adnan’s meeting with RSS Chief Mohan Bhagwat sparked reactions online, with several social media users criticising the singer. Now, in a recent conversation, Adnan said he no longer cares about public judgment and believes people are too quick to form opinions without knowing the truth.",
+    "img": "https://static.toiimg.com/photo/msid-131233164,imgsize-70108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adnan-sami-reacts-to-trolling-over-meeting-rss-chief-mohan-bhagwat-i-dont-give-a-st-what-anybody-thinks/articleshow/131233117.cms",
+    "time": "2026-05-20T18:01:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Key outcomes of PM Modi–Meloni meeting in Rome",
+    "desc": "India and Italy have elevated their ties to a Special Strategic Partnership, fostering deeper cooperation in defence, technology, and trade. A defence roadmap for co-development and co-production of military platforms was agreed upon, alongside an ambitious €20 billion trade target by 2029. Discussions also covered global security, including West Asia and Ukraine, and maritime cooperation.",
+    "img": "https://static.toiimg.com/photo/msid-131233161,imgsize-1220301.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-strategic-partnership-upgrade-to-defence-roadmap-key-outcomes-of-pm-modimeloni-meeting-in-rome/articleshow/131232883.cms",
+    "time": "2026-05-20T18:01:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lakshya, Prannoy crash out in opening round",
+    "desc": "Lakshya Sen and HS Prannoy suffered first-round exits at the Malaysia Masters 2026, ending India’s men’s singles challenge early. While Lakshya lost in straight games, Prannoy went down in a marathon three-game match. In women’s singles, Malvika Bansod, Ashmita Chaliha and Devika Sihag advanced to the next round.",
+    "img": "https://static.toiimg.com/photo/msid-131233069,imgsize-82422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/malaysia-masters-2026-badminton-tournament-lakshya-sen-hs-prannoy-crash-out-in-opening-round/articleshow/131232849.cms",
+    "time": "2026-05-20T17:54:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress set to join Tamil Nadu’s first coalition government on May 21",
+    "desc": "“We invite VCK leader Thol. Thirumavalavan to be part of the Council of Ministers. This is the wish of the Chief Minister as well. Similarly, the IUML should also join the Council of Ministers,” Minister Aadhav Arjuna told reporters in Chennai.",
+    "img": "https://th-i.thgim.com/public/incoming/gkd87e/article71001135.ece/alternates/LANDSCAPE_1200/DSC_6677.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-extends-open-invitation-to-vck-iuml-to-be-part-of-vijay-led-cabinet/article71000953.ece",
+    "time": "2026-05-20T17:51:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deepak Chahar mocks viral 'chit celebration' with hilarious no-chit act",
+    "desc": "Deepak Chahar humorously mimicked the viral 'chit celebration' trend during MI vs KKR, pretending to pull out an imaginary note after taking a wicket, much to his teammates' amusement. This trend, started by Abhishek Sharma, has seen mixed reactions, with some former cricketers criticizing it as 'rubbish'.",
+    "img": "https://static.toiimg.com/photo/msid-131232578,imgsize-85594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/deepak-chahar-mocks-viral-chit-celebration-with-hilarious-no-chit-act-during-kkr-vs-mi-match-watch/articleshow/131232582.cms",
+    "time": "2026-05-20T17:33:46.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "After 14 years, MI's Tilak Varma scripts rare 'unwanted' IPL record",
     "desc": "Mumbai Indians faced Kolkata Knight Riders with no playoff pressure. Their batting collapsed, failing to post a competitive total. Tilak Varma set a 14-year-old IPL record for a slow strike rate. KKR bowlers maintained pressure, restricting MI to 147/8. Corbin Bosch provided some late hitting for Mumbai.",
@@ -72,24 +207,6 @@ const newsData_en = [
     "time": "2026-05-20T16:17:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NCW seeks action taken report from Madhya Pradesh government",
-    "desc": "Details sought regarding FIR provisions, status of accused persons’ arrest and interrogation, efforts to arrest absconding husband, passport impoundment status, CCTV footage, call records, electronic and forensic evidence, post-mortem report and action taken on any prior complaints",
-    "img": "https://th-i.thgim.com/public/incoming/hfa1dm/article71001635.ece/alternates/LANDSCAPE_1200/20260518528L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-ncw-seeks-report-details-on-accused-husband/article71001554.ece",
-    "time": "2026-05-20T16:14:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chemists across A.P. protest against unregulated e-pharmacy, pricing practices",
-    "desc": "Protesting associations accuse online pharmacy platforms of operating without adequate regulatory oversight, warning that the unchecked sale of medicines online had led to repeated use of prescriptions and easy access to antibiotics and habit-forming drug",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chemists-across-ap-protest-against-unregulated-e-pharmacy-pricing-practices/article71002567.ece",
-    "time": "2026-05-20T15:51:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why is India obsessed with the yellow metal?",
     "desc": "India's enduring love for gold spans centuries, evolving from tradition to modern investment. Women hold vast reserves, and the market is set for significant growth. Digital gold and ETFs are gaining traction alongside traditional jewellery. Gold remains a symbol of prosperity, security, and auspiciousness for Indians across generations.",
@@ -160,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/veteran-hockey-coach-baldev-singh-to-be-honoured-with-prestigious-padma-shri/articleshow/131229198.cms",
     "time": "2026-05-20T14:48:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: Iran chief negotiator says preparing 'forceful response' to potential attacks",
-    "desc": "\"We must strengthen our preparations for an effective and forceful response to any potential attacks,\" said Mr. Ghalibaf in an audio message on his website, adding that \"Iran will never give in to intimidation, under any circumstances.\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-live-strait-of-hormuz-updates-us-putin-trump-may-20-2026/article71000732.ece",
-    "time": "2026-05-20T14:44:12.000Z"
   },
   {
     "cat": "Business",
@@ -324,15 +432,6 @@ const newsData_en = [
     "time": "2026-05-20T12:23:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Road namaz not prayer but disturbance’: VHP seeks nationwide ban",
-    "desc": "The Vishva Hindu Parishad has urged state governments to prohibit namaz on roads, citing constitutional and judicial directives. The organization also called on religious leaders to encourage adherence to the law, warning against practices that disrupt public life and traffic. This appeal comes amidst increased administrative scrutiny of public prayers ahead of Eid.",
-    "img": "https://static.toiimg.com/photo/msid-131227035,imgsize-1466417.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/road-namaz-not-prayer-but-disturbance-vhp-seeks-nationwide-ban/articleshow/131227019.cms",
-    "time": "2026-05-20T12:22:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Plane crash near Taylor Swift’s Rhode Island home",
     "desc": "A devastating plane accident occurred near the picturesque Rhode Island retreat of pop sensation Taylor Swift, resulting in the untimely death of a promising young flight instructor. The single-engine Cessna tragically crashed in proximity to Westerly State Airport on May 18, 2026.",
@@ -369,24 +468,6 @@ const newsData_en = [
     "time": "2026-05-20T12:02:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Cocktail 2's Mashooqa: Shahid and Kriti's song accused of copying",
-    "desc": "Cocktail 2's new song Mashooqa, featuring Shahid Kapoor and Kriti Sanon, has landed in controversy after netizens claimed its tune was copied from a 1993 Italian track by Bibi & Coco. While some defended composer Pritam, calling it sampling, others pointed out that plagiarism allegations against him are nothing new.",
-    "img": "https://static.toiimg.com/photo/msid-131226612,imgsize-49024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cocktail-2-mashooqa-shahid-kapoor-and-kriti-sanons-song-accused-of-copying-1993-italian-track-fans-say-pritam-cant-stop-copying/articleshow/131226612.cms",
-    "time": "2026-05-20T12:01:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Allu Arjun shares heartfelt birthday wish for Jr. NTR",
-    "desc": "Allu Arjun sent a special birthday wish to Jr. NTR. He called him 'Bava' and praised the 'Dragon' glimpse. The upcoming film 'Dragon' is highly anticipated. Fans celebrated the actors' friendship and the intense teaser. The movie is set for release next year. The birthday wish and teaser created significant buzz.",
-    "img": "https://static.toiimg.com/photo/msid-131226584,imgsize-130044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bava-allu-arjun-shares-heartfelt-birthday-wish-for-jr-ntr-raaka-star-praises-dragon-glimpse/articleshow/131226561.cms",
-    "time": "2026-05-20T12:01:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "We can't micro-manage the workload of players during IPL: Saikia",
     "desc": "The BCCI has rested several key players, including Jasprit Bumrah, Ravindra Jadeja, and Axar Patel, for the upcoming series against Afghanistan due to injuries and workload management. This has reignited the debate on whether the BCCI should control centrally contracted players' workloads during the IPL.",
@@ -421,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/biz-men-hnis-rural-customers-top-bank-branch-visits-students-least-reliant/articleshow/131225869.cms",
     "time": "2026-05-20T11:31:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Darshan Thoogudeepa meets wife Vijayalakshmi and son in Jail",
-    "desc": "Actor Darshan Thoogudeepa, facing a murder case, had an emotional jail meeting with his wife Vijayalakshmi and son Vineesh. Despite the reunion, he reportedly did not eat the fruits brought by his family and remained withdrawn afterwards. The meeting occurred after his bail petition was rejected by the Supreme Court.",
-    "img": "https://static.toiimg.com/photo/msid-131225793,imgsize-179680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/darshan-thoogudeepa-meets-wife-vijayalakshmi-and-son-in-jail-emotional-kannada-actor-did-not-eat-friuits-brought-by-family/articleshow/131225759.cms",
-    "time": "2026-05-20T11:23:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I won't leave MI unless ... ': Tilak drops major Mumbai Indians future hint",
-    "desc": "Tilak Varma reaffirmed his loyalty to Mumbai Indians, saying he will not leave until he wins an IPL title with the franchise. Despite MI’s disappointing 2026 season, the young batter remains committed to the team’s legacy. Meanwhile, Kolkata Knight Riders face a must-win clash against MI at Eden Gardens to keep their slim playoff hopes alive in IPL 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131225745,imgsize-182658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-i-wont-leave-mi-unless-tilak-varma-drops-major-mumbai-indians-future-hint/articleshow/131225469.cms",
-    "time": "2026-05-20T11:21:57.000Z"
   },
   {
     "cat": "Business",
@@ -487,15 +550,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'We are not even 15%': Virat Kohli's honest admission on Indian Hockey players' fitness standards",
-    "desc": "Cricket icon Virat Kohli lauded the exceptional fitness of Indian hockey players, admitting cricketers fall far short of their physical demands. Kohli stated hockey players operate at a \"completely different physical level,\" a sentiment echoed by Indian men's hockey captain Harmanpreet Singh, who expressed gratitude for the recognition of his sport's demanding nature.",
-    "img": "https://static.toiimg.com/photo/msid-131223247,imgsize-1197002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-are-not-even-15-virat-kohlis-honest-admission-on-indian-hockey-players-fitness-standards/articleshow/131223137.cms",
-    "time": "2026-05-20T09:48:41.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Big boost for RCB! Phil Salt set for return ahead of IPL 2026 playoffs",
     "desc": "Explosive opener Phil Salt is set to return for Royal Challengers Bengaluru ahead of the IPL 2026 playoffs after recovering from a finger injury. His return provides a significant boost to RCB's strong top-order, which struggled in his absence.",
     "img": "https://static.toiimg.com/photo/msid-131222644,imgsize-91012.cms",
@@ -523,15 +577,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi creating 'Gayle-level fear', says Pathan as 59-sixes record nears",
-    "desc": "Teenage sensation Vaibhav Sooryavanshi's explosive 93 off 38 balls, including 10 sixes, kept Rajasthan Royals' playoff hopes alive. Former India all-rounder Irfan Pathan lauded the 15-year-old's maturity and off-side play, comparing his fear factor among bowlers to Chris Gayle's peak. Sooryavanshi is now threatening Gayle's IPL record of 59 sixes in a season.",
-    "img": "https://static.toiimg.com/photo/msid-131221343,imgsize-29340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshi-creating-gayle-level-fear-says-pathan-as-59-sixes-record-nears/articleshow/131221298.cms",
-    "time": "2026-05-20T08:24:03.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "After five humbling defeats, Gill and co. to ditch raging turners at home",
     "desc": "After debacles in home Tests against New Zealand and South Africa, India are set to move away from raging turners and return to traditional pitches with gradual wear and tear. Carefully selected venues and black/mixed soil surfaces are expected to shape India’s strategy. India will play Afghanistan in a one-off Test match from June 6.",
     "img": "https://static.toiimg.com/photo/msid-131221108,imgsize-44610.cms",
@@ -547,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/at-white-house-briefing-vance-says-iran-war-wont-be-forever/article71000848.ece",
     "time": "2026-05-20T07:27:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘We are humans too...’: Parag urges IPL commentators to ‘talk about cricket’",
-    "desc": "Rajasthan Royals skipper Riyan Parag urged commentators and experts to cease personal criticism and focus solely on cricket. He emphasised players' hard work and preparation, highlighting that setbacks don't negate their efforts. Parag stressed the importance of respecting the sport and its athletes, advocating for discussions centered on the game itself.",
-    "img": "https://static.toiimg.com/photo/msid-131220192,imgsize-75810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/we-are-humans-too-we-make-mistakes-riyan-parag-urges-ipl-commentators-to-talk-about-cricket/articleshow/131220026.cms",
-    "time": "2026-05-20T07:24:41.000Z"
   },
   {
     "cat": "Tech",
@@ -801,15 +837,6 @@ const newsData_en = [
     "time": "2026-05-16T11:29:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Why are Telugu cinema’s exhibitors and producers at loggerheads?",
-    "desc": "With exhibitors and producers at loggerheads over percentage revenue sharing system as opposed to a fixed rental model, the Telugu film industry is split wide open ahead of the release of Ram Charan’s ‘Peddi’. A sub committee has been constituted to address the issues and arrive at an amicable solution",
-    "img": "https://th-i.thgim.com/public/incoming/mbpgju/article70982356.ece/alternates/LANDSCAPE_1200/peddi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/why-are-telugu-cinemas-exhibitors-and-producers-at-loggerheads/article70981933.ece",
-    "time": "2026-05-16T09:27:10.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Government issues warning for these Android smartphone and tablet users",
     "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
