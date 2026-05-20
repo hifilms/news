@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rajasthan Royals create T20 world record after chasing down 221 against LSG in Jaipur",
+    "desc": "Rajasthan Royals etched their name into the history books after chasing down a strong 221-run target against the Lucknow Super Giants at the Sawai Mansingh Stadium on Tuesday, May 19. Vaibhav Sooryavanshi turned out to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-create-t20-world-record-after-chasing-down-221-against-lsg-in-jaipur-2026-05-20-1041771",
+    "time": "2026-05-20T02:51:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We are a fu**ing good team': Rishabh Pant after LSG's ninth loss in IPL 2026",
+    "desc": "Lucknow Super Giants captain Rishabh Pant used the word expletive 'F' in his team's assessment despite their ninth loss in the Indian Premier League 2026, with the latest one coming against the Rajasthan Royals on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-are-a-fucking-good-team-rishabh-pant-after-lsgs-ninth-loss-in-ipl-2026-watch-2026-05-20-1041766",
+    "time": "2026-05-20T02:19:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 updated points table after RR's stellar win over LSG as PBKS fall out of top four",
+    "desc": "Vaibhav Sooryavanshi guided the Rajasthan Royals to a stellar win over the Lucknow Super Giants in a must-win clash in the Indian Premier League 2026 on Tuesday, May 19. Sooryavanshi delivered yet another jaw-dropping batting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-rrs-stellar-win-over-lsg-as-pbks-fall-out-of-top-four-2026-05-20-1041762",
+    "time": "2026-05-20T01:36:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Carlos Alcaraz, two-time champion, opts out of Wimbledon 2026",
     "desc": "Carlos Alcaraz will not defend his Wimbledon crown this year after deciding to withdraw from the tournament due to an ongoing wrist problem. The Spaniard, who lifted the title at the All England Club in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-in-india-s-scheme-of-things-in-white-ball-cricket-indicates-chief-selector-ajit-agarkar-2026-05-19-1041716",
     "time": "2026-05-19T12:28:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which India cricketers earned their maiden call-ups in Afghanistan series?",
-    "desc": "Four cricketers have earned their maiden India call-ups for the upcoming Test and three-match ODI series against Afghanistan, scheduled to begin on June 6. Manav Suthar, Gurnoor Brar and Harsh Dubey were named in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-india-cricketers-earned-their-maiden-call-ups-in-afghanistan-series-2026-05-19-1041711",
-    "time": "2026-05-19T11:56:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant axed as vice-captain of Test squad, Rohit-Kohli retain spot in ODIs",
-    "desc": "India have dropped Rishabh Pant as vice-captain of the Test squad. BCCI wanted to give the cricketer a breathing space after a lean patch in white-ball cricket. KL Rahul has been announced as Shubman Gill’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-axed-as-vice-captain-of-test-squad-rohit-kohli-retain-spot-in-odis-2026-05-19-1041697",
-    "time": "2026-05-19T10:48:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin defends Ishan Kishan's celebration after game vs CSK, says 'I enjoyed it'",
-    "desc": "Ishan Kishan’s animated post-match celebration after Sunrisers Hyderabad’s win over Chennai Super Kings at Chepauk has continued to be one of the most debated moments in the ongoing IPL 2026. Notably, the keeper-batter launched a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-defends-ishan-kishan-s-celebration-after-game-vs-csk-says-i-enjoyed-it-2026-05-19-1041693",
-    "time": "2026-05-19T10:29:30.000Z"
   }
 ];
