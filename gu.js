@@ -1,6 +1,105 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "શું શાકભાજી, દૂધ, રાશનથી નક્કી થશે સરકારી કર્મચારીઓનો પગાર? 3490 કેલરીનો ફોર્મ્યૂલા કેમ છે ચર્ચામાં",
+    "desc": "આઠમાં પગાર પંચ વિશે જે ચર્ચાઓ થઈ રહી છે તેમાં આ 3490 કેલરીનો આંકડો કેમ ચર્ચામાં આવ્યો છે અને કર્મચારી સંગઠનોની શું માંગણી છે, શું હવે ખાવાની વસ્તુઓથી નક્કી થશે કર્મચારીઓના પગાર? તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-latest-update-what-is-3490-calories-formula-government-employees-should-know-478637 ",
+    "time": "2026-05-20T11:25:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળથી લઈને રાજસ્થાન સુધી, ટ્રેનોમાં કોણ લગાવી રહ્યું છે આગ? રેલવેને મોટા ષડયંત્રની શંકા",
+    "desc": "ભારતીય રેલવેએ ખુલાસો કર્યો છે કે, હાલમાં ટ્રેનોમાં લાગેલી આગ કોઈ અકસ્માત નથી, પરંતુ 'અસામાજિક તત્વો'નું મોટું ષડયંત્ર છે. હાવડા, કોટા અને રતલામ અકસ્માતોની RPF તપાસ કરી રહી છે. મુસાફરી કરતા પહેલાં વાંચો રેલવેનું આ મોટું એલર્ટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/from-bengal-to-rajasthan-who-is-setting-trains-on-fire-railways-suspects-a-big-conspiracy-478634 ",
+    "time": "2026-05-20T11:09:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPLમાં સૌથી વધુ કમાણી કરનાર ટોપ-3 ક્રિકેટર... રોહિત અને ધોની કરતા પણ આગળ છે આ દિગ્ગજ ખેલાડી",
+    "desc": "એમાં કોઈ શંકા નથી કે IPL એ વિશ્વની સૌથી ધનિક T20 ક્રિકેટ લીગ છે. અહીં ખેલાડીઓ રાતોરાત કરોડપતિ બની જાય છે. છેલ્લા 18 વર્ષથી આ લીગ દર વર્ષે સફળતાના નવા સીમાચિહ્નો હાંસલ કરી રહી છે. તાજેતરના એક અહેવાલમાં IPLમાંથી સૌથી વધુ કમાણી કરતા ટોપ-3 ખેલાડીઓનો ખુલાસો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/richest-players-in-ipl-virat-kohli-rohit-sharma-ms-dhoni-478632 ",
+    "time": "2026-05-20T10:53:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઘરમાં કેટલું સોનું રાખી શકાય ? જો આનાથી વધારે રાખ્યું તો સરકાર કરશે જપ્ત, ભરવો પડશે 86% સુધીનો ટેક્સ",
+    "desc": "આજકાલ સોનું એક ચર્ચાનો વિષય બની ગયું છે. સરકારે સોનાની આયાત પર વિવિધ નિયંત્રણો લગાવ્યા છે, પરંતુ શું તમે જાણો છો કે તમે ઘરમાં કેટલું સોનું રાખી શકો છો ? જો તમારા ઘરમાં નિર્ધારિત મર્યાદા કરતાં વધુ સોનું હોય તો શું થાય ? તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-is-the-gold-limit-to-keep-in-home-know-the-rules-478628 ",
+    "time": "2026-05-20T10:04:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "નથી આવી રહી ગેસ સબસિડી? મોબાઈલ નંબરથી આ રીતે કરો ચેક; મિનિટોમાં ખબર પડી જશે ખાતામાં પૈસા આવ્યા કે નહીં",
+    "desc": "આજે પણ દેશના કરોડો લોકો એલપીજી ગેસ સિલિન્ડર પર મળતી સબસિડીનો લાભ ઉઠાવે છે. જો કે, ઘણા લોકોને એ ખબર જ નથી પડતી કે સબસિડીના પૈસા તેમના બેંક ખાતામાં આવ્યા છે કે નહીં. આવા સમયે લોકો ગેસ એજન્સીના ચક્કર લગાવતા રહે છે, જ્યારે આ કામ ઘરે બેઠા પણ સરળતાથી થઈ શકે છે. જો તમારો મોબાઈલ નંબર ગેસ કનેક્શન અને બેંક ખાતા સાથે લિંક હોય, તો ઘરે બેઠા જ થોડી મિનિટોમાં સબસિડીનું સ્ટેટસ ચેક કરી શકાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/not-receiving-your-gas-subsidy-heres-how-to-check-using-your-mobile-number-478619 ",
+    "time": "2026-05-20T09:28:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર બાદ રિષભ પંતે ગુમાવ્યો પિત્તો, ગુસ્સામાં બોલ્યો અપશબ્દ, જાણો કઈ વાતથી થયો આટલો નારાજ",
+    "desc": "IPL 2026માં રિષભ પંતની આગેવાની હેઠળની લખનૌ સુપર જાયન્ટ્સનું પ્રદર્શન નિરાશાજનક રહ્યું છે. પ્લેઓફની રેસમાંથી પહેલાથી જ બહાર થઈ ગયેલી LSGને મંગળવારે રાજસ્થાન રોયલ્સ સામે કારમી હારનો સામનો કરવો પડ્યો. હાર બાદ પંતે ગુસ્સામાં એક વિચિત્ર નિવેદન આપ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rishabh-pant-statement-after-defeat-against-rajasthan-royals-use-abusive-words-478616 ",
+    "time": "2026-05-20T09:19:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દીકરીના લગ્ન માટે મળશે પૈસા! 11 શહેરોમાં બનશે ટાઉનશિપ; સરકારની મોટી જાહેરાત, જાણો શું છે પ્લાન?",
+    "desc": "બિહારમાં 11 નવા સેટેલાઇટ ટાઉનશીપ પ્રોજેક્ટ્સ માટે પોતાની જમીન દાનમાં આપનારા ભાડૂતોને મુખ્યમંત્રી સમ્રાટ ચૌધરીએ નોંધપાત્ર રાહત આપી છે. મુખ્યમંત્રીએ જાહેરાત કરી હતી કે દીકરીના લગ્ન કે કોઈપણ આફતના કિસ્સામાં, જમીન માલિકો જિલ્લા મેજિસ્ટ્રેટને અરજી કરી શકે છે અને તેમની જમીનનું ચાર ગણું વળતર સીધા તેમના બેંક ખાતામાં મેળવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bihar-cm-samrat-chaudhary-announces-plan-find-out-the-details-478615 ",
+    "time": "2026-05-20T08:59:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આ વખતે ઐશ્વર્યા રાય પ્રતિષ્ઠિત કાન્સ ફિલ્મ ફેસ્ટિવલમાં જોવા મળશે? ખાસ જાણો",
+    "desc": "અતિ પ્રતિષ્ઠિત એવા કાન્સ ફિલ્મ ફેસ્ટિવલની 12મી મેથી શરૂઆત થઈ ત્યારથી ઐશ્વર્યા રાય ખુબ ચર્ચામાં છે કારણ કે આ વખતે આલિયા ભટ્ટ રેડ કાર્પેટ પર જવા મળી ત્યારે તેણે ઐશ્વર્યા રાયને રિપ્લેસ કરી એવી સોશિયલ મીડિયામાં વાતો થવા લાગી હતી પરંતુ હવે ઐશ્વર્યા રાય વિશે જે સમાચાર આવી રહ્યા છે તે જાણીને અભિનેત્રીના ચાહકો ખુશ થઈ જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/will-aishwarya-rai-be-seen-at-the-prestigious-cannes-film-festival-this-time-478596 ",
+    "time": "2026-05-20T07:59:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઈરાનની એક ચાલથી સોનું ધડામ થઈ બે મહિનાના નીચલા સ્તરે પહોંચ્યું, ભાવમાં મોટો કડાકો, જાણો રેટ",
+    "desc": "સોના અને ચાંદીના ભાવમાં વૈશ્વિક અસ્થિરતાઓ અને મિડલ ઈસ્ટ સંકટના પગલે સતત ઉથલપાથલ જોવા મળી રહી છે. વૈશ્વિક સ્તરે આજે સોનાના ભાવમાં મોટો કડાકો જોવા મળ્યો છે. ઘરઆંગણે પણ અસર જોવા મળી રહી છે. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-drop-in-gold-price-in-international-market-after-iran-big-claim-check-latest-rates-aaj-no-sona-no-bhav-478568 ",
+    "time": "2026-05-20T07:12:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટીમ ઇન્ડિયામાં હવે ગુજરાત ટાઇટન્સની લોબી ? વનડે અને ટેસ્ટમાં GTના 11 ખેલાડીઓને મળ્યું સ્થાન",
+    "desc": "અફઘાનિસ્તાન સામેની શ્રેણી માટે ભારતની ODI અને ટેસ્ટ ટીમમાં ગુજરાત ટાઇટન્સના ખેલાડીઓની નોંધપાત્ર સંખ્યાને લઈને સોશિયલ મીડિયા પર ચર્ચા શરૂ થઈ છે. ગુજરાત ટાઇટન્સના ચાર ખેલાડીઓએ ODI ટીમમાં સ્થાન મેળવ્યું છે, જ્યારે સાત ખેલાડીઓએ ટેસ્ટ ટીમમાં સ્થાન મેળવ્યું છે. તેથી ચાહકો ટીમ ઈન્ડિયામાં ગુજરાત ટાઇટન્સની લોબી અંગે ચર્ચા કરી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/gujarat-titans-11-players-in-india-squad-for-test-and-odi-series-vs-afghanistan-478595 ",
+    "time": "2026-05-20T07:12:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગુજરાત પહોંચ્યો 20 હજાર ટન LPG, જાણો ભારતમાં આનાથી કેટલા દિવસ કામ ચાલશે?",
+    "desc": "પશ્ચિમ એશિયામાં ચાલી રહેલા તણાવ વચ્ચે 20 હજાર ટન એલપીજી (LPG) લઈને 'સિમી' નામનું જહાજ ગુજરાતના કંડલા પોર્ટ પર પહોંચી ગયું છે. ચાલો જાણીએ કે આટલા મોટા જથ્થાની ગેસ વપરાશ ભારતમાં કેટલા દિવસમાં થઈ જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/20000-tonnes-of-lpg-has-arrived-in-gujarat-find-out-how-many-days-supply-this-provides-for-india-478594 ",
+    "time": "2026-05-20T07:01:53.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "આ ચોમાસું ક્યાંથી આવે છે? 17 હજાર કિ.મી દૂર બેઠેલા &amp;#039;નાના બાળક&amp;#039;ના કારણે આખા ભારતનું કેમ વધ્યું ટેન્શન?",
     "desc": "ચોમાસું અંદમાન સાગર સુધી પહોંચી ગયું છે અને 26 તારીખ સુધીમાં કેરળ પહોંચવાની સંભાવના છે. જોકે, આગળની સ્થિતિ બહુ સારી દેખાઈ રહી નથી. ભારતથી હજારો કિલોમીટર દૂર થઈ રહેલી એક હલચલ ટેન્શન વધારી રહી છે. ચોમાસાનું આખું વિજ્ઞાન વિગતવાર વાંચો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -43,15 +142,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/the-per-capita-income-of-these-two-states-is-eight-times-more-than-bihar-know-gujarat-number-in-unemployment-478570 ",
     "time": "2026-05-20T04:31:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઈરાનની એક ચાલથી સોનું ધડામ થઈ બે મહિનાના નીચલા સ્તરે પહોંચ્યું, ભાવમાં મોટો કડાકો, જાણો રેટ",
-    "desc": "સોના અને ચાંદીના ભાવમાં વૈશ્વિક અસ્થિરતાઓ અને મિડલ ઈસ્ટ સંકટના પગલે સતત ઉથલપાથલ જોવા મળી રહી છે. વૈશ્વિક સ્તરે આજે સોનાના ભાવમાં મોટો કડાકો જોવા મળ્યો છે. ઘરઆંગણે પણ અસર જોવા મળી રહી છે. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-drop-in-gold-price-in-international-market-after-iran-big-claim-check-latest-rates-aaj-no-sona-no-bhav-478568 ",
-    "time": "2026-05-20T04:28:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -207,15 +297,6 @@ const newsData_gu = [
     "time": "2026-05-19T07:25:13.000Z"
   },
   {
-    "cat": "Business",
-    "title": "બાપરે! આ વર્ષે સોનું 26000 અને ચાંદી 40000 જેટલી મોંઘી થઈ, લેટેસ્ટ રેટ જાણી ધબકારા વધી જશે",
-    "desc": "સોના અને ચાંદીના ભાવમાં આજે ઉછાળો જોવા મળ્યો છે. વાયદા બજારમાં સવારે થોડા સમય માટે નરમાઈ દાખવ્યા બાદ સોનું ઉછળ્યું. જ્યારે રિટેલ બજારમાં સોનું અને ચાંદી બંને વધારા સાથે જોવા મળ્યા છે. બંને કિંમતી ધાતુઓના લેટેસ્ટ રેટ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-gold-and-silver-prices-rise-check-today-ahmedabad-vadodara-rajkot-surat-rates-478455 ",
-    "time": "2026-05-19T07:22:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "તમારી મહેનતની કમાણીનો કેટલો ભાગ પી જાય છે પેટ્રોલ, નવા રિપોર્ટમાં ખુલાસો",
     "desc": "ભારતના પાડોશી દેશની વાત કરીએ તો મ્યાનમાર, પાકિસ્તાન, અને નેપાળમાં પેટ્રોલની સ્થિતિ બહુ જ કફોી છે. આ દેશોમાં 40 લીટર પેટ્રોલ પૂરવવા માટે એક મહિનાની કમાણીનો 47 ટકાથી 52 ટકા હિસ્સો ખર્ચ કરવો પડી રહ્યો છે. પેટ્રોલની કિંમત અને તેના ઉપયોગ વિશે ગેસોલિન એફોર્ડેબિલિટી રિપોર્ટ શું કહે છે તે જાણો.",
@@ -288,15 +369,6 @@ const newsData_gu = [
     "time": "2026-05-19T05:07:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મોટા સમાચાર! ફરી ક્યારે વધશે પેટ્રોલ અને ડિઝલના ભાવ ? કેન્દ્ર સરકારના જવાબે વધારી ચિંતા",
-    "desc": "મધ્ય પૂર્વમાં ચાલી રહેલા તણાવ અને ક્રૂડ ઓઈલના વધતા ભાવ વચ્ચે, દેશમાં ઈંધણના ભાવ અંગે અનિશ્ચિતતા યથાવત છે. સૌથી મોટો પ્રશ્ન એ છે કે પેટ્રોલ અને ડીઝલના ભાવ ક્યારે વધશે? કેન્દ્રની મોદી સરકારે સ્પષ્ટતા કરી છે કે તે હાલમાં કોઈ સમયમર્યાદા કે અંદાજ આપી શકતી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-when-will-the-prices-of-petrol-and-diesel-increase-again-the-central-government-response-has-increased-concerns-478392 ",
-    "time": "2026-05-18T17:13:44.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ફરવા જાઓ ત્યારે સાવધાન, જોવા મળ્યું હાથીઓનું રૌદ્ર સ્વરૂપ, મહિલા મુસાફરે ગુમાવ્યો જીવ, વીડિયો જોઈને રૂંવાડા ઉભા થઈ જશે",
     "desc": "કર્ણાટકના કોડગુ જિલ્લાના પ્રખ્યાત દુબારે એલિફંટ કૈંપમાં એક દર્દનાક અકસ્માતથી લોકોને આઘાત લાગ્યો છે, ચેન્નઈથી ફરવા આવેલી 33 વર્ષની મહિલા તે હાથીઓના લડાઈની શિકાર બની જ્યારે તે હાથીઓને સ્નાન કરતા જોવા આવી હતી. આ સમય દરમ્યાન હાથીઓ લડવા લાગ્યા અને બેકાબુ બની ગયા હતા.",
@@ -342,15 +414,6 @@ const newsData_gu = [
     "time": "2026-05-18T11:45:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "100 રૂપિયાની નોટ પર કેટલી ભાષાઓ લખેલી છે ? 99% લોકો નહીં જાણતા હોય સાચો જવાબ",
-    "desc": "શું તમને ખબર છે કે 100 રૂપિયાની નોટ પર કેટલી ભાષાઓ લખેલી હોય છે ? જો ના જાણતા હોવ તો આ લેખમાં અમે તમને આ પ્રશ્નનો જવાબ તેમજ આવા કેટલાક GK સંબંધિત અન્ય પ્રશ્નો અને તેમના જવાબો વિશે જણાવીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gk-quiz-how-many-languages-%E2%80%8B%E2%80%8Bare-written-on-the-100-rupee-indian-note-478362 ",
-    "time": "2026-05-18T11:42:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "સતત 6 હાર છતાં પ્લેઓફમાં પહોંચી શકે છે પંજાબ... એક જીત બદલી નાખશે સંપૂર્ણ સમીકરણ, આ બે ટીમોનું વધશે ટેન્શન",
     "desc": "IPL 2026ની શાનદાર શરૂઆત કરનાર પંજાબ કિંગ્સ છેલ્લી છ મેચોથી જીત માટે ઝંખી રહી છે. શ્રેયસ ઐયરની ટીમને 19મી સીઝનમાં સતત છઠ્ઠી હારનો સામનો કરવો પડ્યો છે. જો કે, પંજાબ કિંગ્સ માટે પ્લેઓફનો દરવાજો હજુ પણ ખુલ્લો છે. જાણો કેવી રીતે પંજાબ પ્લેઓફમાં પહોંચી શકે છે.",
@@ -369,15 +432,6 @@ const newsData_gu = [
     "time": "2026-05-18T10:57:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અમદાવાદ પ્લેન ક્રેશ વિશે મહિનાઓ પછી ચોંકાવનારી વાત સામે આવી, છેલ્લી ઘડી સુધી પાયલોટ....",
-    "desc": "ગયા વર્ષે 12મી જૂનના રોજ અમદાવાદથી લંડન જવા ઉપડેલું વિમાન ગણતરીની પળોમાં જ ક્રેશ થઈ ગયું અને 250થી વધુ લોકોના જીવ ગયા. આ અકસ્માત વિશે હવે એક ચોંકાવનારી માહિતી સામે આવી છે. જાણીને તમારા રૂવાડાં ઊભા થઈ જશે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/shocking-revelation-about-ahmedabad-plane-crash-pilot-held-control-till-the-last-moment-478354 ",
-    "time": "2026-05-18T10:49:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "PM મોદી જે નોર્વે દેશ ગયા ત્યાં કેટલી છે ભારતના 500 રૂપિયાની કિંમત ? જાણીને ચોકી જશો",
     "desc": "PM મોદી નોર્વેની રાજધાની ઓસ્લો પહોંચ્યા છે. તેઓ 19 મેના રોજ ત્રીજા ભારત-નોર્ડિક સમિટમાં ભાગ લેશે, જ્યાં વિવિધ પ્રાદેશિક અને વૈશ્વિક મુદ્દાઓ પર ચર્ચા કરવામાં આવશે. આ મહત્વપૂર્ણ મુલાકાત દરમિયાન, ત્યાં ભારતીય રૂપિયાનું મૂલ્ય સમજવું રસપ્રદ છે. વિનિમય દર મુજબ, નોર્વેમાં 500 ભારતીય રૂપિયાની કિંમત ફક્ત 47.90 નોર્વેજીયન ક્રોન છે. આ મજબૂતાઈ પાછળની આર્થિક ગણતરીઓ જાણો.",
@@ -394,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/norway-town-where-dying-is-illegal-longyearbyen-norway-death-ban-mystery-478351 ",
     "time": "2026-05-18T10:08:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold પર જે પી મોર્ગનની ચોંકાવનારી ભવિષ્યવાણી, સોનાના ભાવ પર અનુમાન ઘટાડ્યું, ખાસ જાણો",
-    "desc": "જો તમને સોનું ભેગુ કરવાનો શોખ હોય અને સોનું ખરીદવાની ઈચ્છા થતી હોય તો તમારા માટે આ સમાચાર કામના છે. સોનાના ભાવ પર કેટલીક ભવિષ્યવાણીઓ સામે આવી છે જે તમારે જાણવા જેવી છે. જે પી મોર્ગને વધતી વૈશ્વિક અનિશ્ચિતતાઓ અને અન્ય કારણોસર સોનાના ભાવ પર અનુમાન ઘટાડી દીધુ છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/jp-morgan-gold-price-forecast-changed-lowers-due-to-weak-demand-check-details-478338 ",
-    "time": "2026-05-18T08:26:51.000Z"
   },
   {
     "cat": "Tech",
@@ -495,15 +540,6 @@ const newsData_gu = [
     "time": "2026-05-17T12:26:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "કિંગ કોહલીનો કમાલ ! IPLમાં બનાવ્યો અસંભવ રેકોર્ડ... સચિન તેંડુલકરને પણ છોડ્યો પાછળ",
-    "desc": "વિરાટ કોહલી IPLનો સૌથી સફળ બેટ્સમેન છે. 19મી સીઝનમાં તેણે એક એવો રેકોર્ડ બનાવ્યો છે, જેને તોડવો લગભગ અશક્ય લાગે છે. આ સાથે કોહલીએ સાબિત કર્યું છે કે જ્યારે રેકોર્ડની વાત આવે છે, ત્યારે તેની બરાબરી કરવી અન્ય બેટ્સમેનો માટે લગભગ અશક્ય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-new-ipl-record-most-500-plus-runs-in-ipl-seasons-478252 ",
-    "time": "2026-05-17T12:22:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "આવી ગઈ પ્રલયની ચોક્કસ તારીખ? 66 વર્ષ પહેલા વૈજ્ઞાનિકે કરી હતી ભવિષ્યવાણી, આ દિવસે ખતમ થઈ જશે માનવ સભ્યતા!",
     "desc": "વર્ષ 1960માં એક પ્રખ્યાત વૈજ્ઞાનિક હેન્ઝ વોન ફોર્સ્ટરે કંઈક એવો દાવો કર્યો હતો, જેણે આખી દુનિયાને ચોંકાવી દીધી હતી. તેમના રિસર્ચ અનુસાર, 13 નવેમ્બર 2026 એ તારીખ છે જ્યારે માનવ સભ્યતા એક મોટા સંકટ અથવા પરિવર્તનના આરે આવીને ઊભી રહેશે. આ જ તારીખ જણાવવામાં આવી હતી, જેને કેટલાક લોકોએ દુનિયાના અંત સાથે જોડીને જોવાનું શરૂ કરી દીધું. અહીં જાણો શું છે તેની હકીકત?",
@@ -520,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/is-disaster-looming-amidst-a-global-crisis-prime-minister-modi-warns-the-world-what-did-he-say-478242 ",
     "time": "2026-05-17T11:12:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પંજાબ સામેની મેચમાં અચાનક બદલાયો RCBનો કેપ્ટન, આ ખેલાડીને મળી ટીમની કમાન",
-    "desc": "IPL 2026માં RCBને પહેલીવાર પોતાનો કેપ્ટન બદલવો પડ્યો છે. પંજાબ કિંગ્સ સામેની મેચ નિયમિત કેપ્ટન રજત પાટીદાર રમી રહ્યો નથી. ત્યારે ટીમની કમાન જીતેશ શર્માને સોંપવામાં આવી છે. ત્યારે રજત પાટીદારને કેમ રમી રહ્યો નથી અને ટીમની પ્લેઈંગ ઈલેવન વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-captain-changed-why-is-rajat-patidar-not-playing-against-punjab-kings-478236 ",
-    "time": "2026-05-17T10:05:26.000Z"
   },
   {
     "cat": "World",
@@ -601,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/wave-your-fingers-in-the-air-and-the-message-will-be-sent-to-whatsapp-a-marvel-from-meta-478059 ",
     "time": "2026-05-16T06:11:45.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "દુનિયામાં વધુ એક ખતરનાક વાયરસની એન્ટ્રી : 65 લોકોના જીવ ગયા, WHO પણ એલર્ટ થયું",
-    "desc": "હંતા વાયરસથી હજુ છુટકારો મળ્યો નથી, ત્યાં વિશ્વમાં વધુ એક વાયરસની એન્ટ્રી થઈ છે. ઈબોલા વાયરસે ફરી આક્રમણ કર્યું છે. ઈબોલા વાયરસે આફ્રિકાના કોંગોમાં 65 લોકોના જીવ લઈ લીધા છે. આ ઘટનાથી WHO પણ એલર્ટ થઈ ગયું છે, અને 5 લાખ ડોલરની મદદ પણ મોકલી છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/dangerous-ebloa-virus-entry-in-african-country-congo-65-died-478049 ",
-    "time": "2026-05-16T04:05:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -736,14 +754,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-ott-release-date-confirm-15-may-2026-new-movie-and-web-series-releasing-on-ott-477420 ",
     "time": "2026-05-11T10:26:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay-Trisha Movies: વિજય થલપતિ-ત્રિશા કૃષ્ણનની ઓનસ્ક્રીન કેમેસ્ટ્રી છે જોરદાર, ઓટીટી પર જુઓ આ જોડીની 3 શાનદાર ફિલ્મો",
-    "desc": "તમિલનાડુના મુખ્યમંત્રી બનેલા થલપતિ વિજય અને ત્રિશા કૃષ્ણનની જોડીની ચર્ચા ઘણા સમયથી થઈ રહી છે. આ જોડીની ઓફસ્ક્રીન કેમેસ્ટ્રી તો ચર્ચામાં છે જ પણ જો તમારે આ જોડીને ઓનસ્ક્રીન કેમેસ્ટ્રી જોવી હોય તો ઓટીટી પર તેમની આ 3 ફિલ્મો જુઓ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/vijay-thalapathy-trisha-krishnan-movies-on-ott-must-watch-movies-of-vijay-thalapathy-on-ott-in-hindi-477341 ",
-    "time": "2026-05-11T03:30:29.000Z"
   }
 ];

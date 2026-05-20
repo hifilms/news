@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will Hardik Pandya and Suryakumar Yadav return to play for Mumbai Indians against KKR?",
+    "desc": "Kolkata Knight Riders will host Mumbai Indians on April 20 in a high-voltage clash at the Eden Gardens. For the visitors, the match carries no extra pressure, as they are already eliminated from the playoffs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-hardik-pandya-and-suryakumar-yadav-return-to-play-for-mumbai-indians-against-kkr-2026-05-20-1041833",
+    "time": "2026-05-20T11:16:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shan Masood leaves captaincy future to PCB after 12 defeats in 16 Test matches",
+    "desc": "Pakistan suffered yet another humiliating defeat as Bangladesh beat them by 78 runs in Sylhet to seal the Test series. After the game, captain Shan Masood refused to speculate on his future as captain, leaving...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shan-masood-leaves-captaincy-future-to-pcb-after-12-defeats-in-16-test-matches-2026-05-20-1041825",
+    "time": "2026-05-20T10:23:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Phil Salt boost for RCB ahead of IPL 2026 playoffs, England star's return confirmed",
+    "desc": "Royal Challengers Bengaluru have been handed a big boost ahead of the IPL 2026 playoffs as Phil Salt is set to return to India later this week, ESPNCricinfo reported. Salt had missed the last few...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-boost-for-rcb-ahead-of-ipl-2026-playoffs-england-stars-return-confirmed-2026-05-20-1041824",
+    "time": "2026-05-20T09:34:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Blow for Pakistan, star batters not available for ODI series against Australia",
+    "desc": "Pakistan have been dealt a blow ahead of their ODI series against Australia as they will be without star batters Fakhar Zaman and Saim Ayub for the three-match series that kicks off on May 30....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/blow-for-pakistan-star-batters-not-available-for-odi-series-against-australia-2026-05-20-1041822",
+    "time": "2026-05-20T08:56:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Najmul Hossain Shanto becomes Bangladesh's most successful Test captain, Shan hit another low after 2-0 sweep",
+    "desc": "Najmul Hossain Shanto has etched his name into the history books, and so have Bangladesh after sweeping Pakistan 2-0 in the second Test at the Sylhet International Cricket Stadium, Sylhet on Wednesday, May 20. Defending...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/najmul-hossain-shanto-becomes-bangladeshs-most-successful-test-captain-shan-hit-another-low-after-sweep-2026-05-20-1041809",
+    "time": "2026-05-20T07:33:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Updated WTC points table after Bangladesh register 2-0 sweep over Pakistan, India slip one place",
     "desc": "Bangladesh completed a 2-0 sweep after defeating Pakistan in the second and final Test of the series at the Sylhet International Cricket Stadium, Sylhet, on Wednesday, May 20. Taijul Islam starred with the ball in...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/we-are-a-fucking-good-team-rishabh-pant-after-lsgs-ninth-loss-in-ipl-2026-watch-2026-05-20-1041766",
     "time": "2026-05-20T02:19:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 updated points table after RR's stellar win over LSG as PBKS fall out of top four",
-    "desc": "Vaibhav Sooryavanshi guided the Rajasthan Royals to a stellar win over the Lucknow Super Giants in a must-win clash in the Indian Premier League 2026 on Tuesday, May 19. Sooryavanshi delivered yet another jaw-dropping batting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-rrs-stellar-win-over-lsg-as-pbks-fall-out-of-top-four-2026-05-20-1041762",
-    "time": "2026-05-20T01:36:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz, two-time champion, opts out of Wimbledon 2026",
-    "desc": "Carlos Alcaraz will not defend his Wimbledon crown this year after deciding to withdraw from the tournament due to an ongoing wrist problem. The Spaniard, who lifted the title at the All England Club in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-two-time-champion-opts-out-of-wimbledon-2026-2026-05-19-1041751",
-    "time": "2026-05-19T18:15:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi decimates LSG, Rajasthan enter top four as IPL 2026 playoffs scenario intensifies",
-    "desc": "15-year-old Vaibhav Sooryavanshi launched a scathing attack on Lucknow Super Giants in Rajasthan Royals’ must-win game in Jaipur. Chasing a mammoth total of 221 runs, the hosts were expected to feel some sort of pressure,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-decimates-lsg-rajasthan-enter-top-four-as-ipl-2026-playoffs-scenario-intensifies-2026-05-19-1041750",
-    "time": "2026-05-19T17:55:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli reveals reason behind quitting India captaincy",
-    "desc": "Star batter Virat Kohli finally revealed the reason behind quitting the India captaincy. The Delhi-born was asked to step aside from the role in T20I cricket and was later removed from ODIs as well, with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-reveals-reason-behind-quitting-india-captaincy-2026-05-19-1041743",
-    "time": "2026-05-19T16:04:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Riyan Parag not playing for Rajasthan Royals' must-win game vs LSG in IPL 2026?",
-    "desc": "Rajasthan Royals were forced to drop Riyan Parag in their must-win clash against Lucknow Super Giants at the Sawai Mansingh Stadium in Jaipur. Stand-in captain Yashasvi Jaiswal confirmed that the India all-rounder is dealing with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-riyan-parag-not-playing-for-rajasthan-royals-must-win-game-vs-lsg-in-ipl-2026-2026-05-19-1041731",
-    "time": "2026-05-19T13:56:44.000Z"
   }
 ];
