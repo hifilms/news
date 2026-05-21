@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan's Mohammad Amir granted UK visa, eligible to play IPL next year",
+    "desc": "Former Pakistan pacer Mohammad Amir could now feature in the IPL auction after acquiring British citizenship. The left-arm pacer stepped away from international cricket for the second time following the 2024 T20 World Cup. He...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-mohammad-amir-granted-uk-visa-eligible-to-play-ipl-next-year-2026-05-21-1041897",
+    "time": "2026-05-21T02:53:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why can't Angkrish Raghuvanshi play KKR's final league game against Delhi Capitals in IPL 2026?",
+    "desc": "Kolkata Knight Riders will be without young batter Angkrish Raghuvanshi for their final league-stage fixture against Delhi Capitals at Eden Gardens on Sunday, May 24. The 21-year-old sustained a concussion late during the first innings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-can-t-angkrish-raghuvanshi-play-kkr-s-final-league-game-against-delhi-capitals-in-ipl-2026-2026-05-21-1041894",
+    "time": "2026-05-21T02:12:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deepak Chahar, Robin Minz stare at each other as catch goes begging vs KKR",
+    "desc": "Mumbai Indians’ Deepak Chahar and Robin Minz recreated a famous moment during their high-voltage clash against Kolkata Knight Riders at the iconic Eden Gardens. Notably, in the 10th over of the game, when the hosts...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/peak-pakistan-moment-deepak-chahar-robin-minz-stare-at-each-other-as-catch-goes-begging-vs-kkr-watch-2026-05-21-1041889",
+    "time": "2026-05-21T01:32:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Unai Emery lifts his 5th Europa League title as Aston Villa decimate Freiburg in final",
+    "desc": "Aston Villa completed one of the most memorable nights in the club’s modern history by defeating SC Freiburg 3-0 in the Europa League final in Istanbul. With that, the England club ended a 30-year wait...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/unai-emery-lifts-his-5th-europa-league-title-as-aston-villa-decimate-freiburg-in-final-2026-05-21-1041882",
+    "time": "2026-05-21T00:51:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KKR remain alive in IPL playoffs race with typical win over Mumbai Indians at Eden Gardens",
     "desc": "During their most successful years, Kolkata Knight Riders often relied on a simple but effective approach. Their spinners would control the game in the middle overs before a top-order batter, frequently Gautam Gambhir, guided the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-vs-mumbai-indians-in-kkr-s-must-win-clash-in-ipl-2026-2026-05-20-1041853",
     "time": "2026-05-20T13:54:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announce 2026-27 domestic schedule; Ranji Trophy begins on October 11, groups revealed",
-    "desc": "BCCI has released the domestic cricket calendar for the 2026-27 season. The officials mapped out an expansive schedule that stretches across age groups, formats and both genders. The upcoming season will feature 1,788 matches, making...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announce-2026-27-domestic-schedule-ranji-trophy-begins-on-october-11-groups-revealed-2026-05-20-1041842",
-    "time": "2026-05-20T12:23:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Hardik Pandya and Suryakumar Yadav return to play for Mumbai Indians against KKR?",
-    "desc": "Kolkata Knight Riders will host Mumbai Indians on April 20 in a high-voltage clash at the Eden Gardens. For the visitors, the match carries no extra pressure, as they are already eliminated from the playoffs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-hardik-pandya-and-suryakumar-yadav-return-to-play-for-mumbai-indians-against-kkr-2026-05-20-1041833",
-    "time": "2026-05-20T11:16:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shan Masood leaves captaincy future to PCB after 12 defeats in 16 Test matches",
-    "desc": "Pakistan suffered yet another humiliating defeat as Bangladesh beat them by 78 runs in Sylhet to seal the Test series. After the game, captain Shan Masood refused to speculate on his future as captain, leaving...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shan-masood-leaves-captaincy-future-to-pcb-after-12-defeats-in-16-test-matches-2026-05-20-1041825",
-    "time": "2026-05-20T10:23:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phil Salt boost for RCB ahead of IPL 2026 playoffs, England star's return confirmed",
-    "desc": "Royal Challengers Bengaluru have been handed a big boost ahead of the IPL 2026 playoffs as Phil Salt is set to return to India later this week, ESPNCricinfo reported. Salt had missed the last few...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-boost-for-rcb-ahead-of-ipl-2026-playoffs-england-stars-return-confirmed-2026-05-20-1041824",
-    "time": "2026-05-20T09:34:20.000Z"
   }
 ];
