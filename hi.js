@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gujarat Titans knock Chennai Super Kings out of IPL 2026, register statement win in Ahmedabad",
+    "desc": "Gujarat Titans put forth a brilliant performance in the 66th game of the ongoing IPL (Indian Premier League) 2026 and defeated Chennai Super Kings at the Narendra Modi Stadium, knocking them out of the competition....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-knock-chennai-super-kings-out-of-ipl-2026-register-statement-win-in-ahmedabad-2026-05-21-1042007",
+    "time": "2026-05-21T17:54:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Anshul Kamboj surpasses Rashid Khan in an unwanted list after expensive spell against GT",
     "desc": "Gujarat Titans hosted Chennai Super Kings in the 66th game of the ongoing IPL (Indian Premier League). The two sides met at the Narendra Modi Stadium in Ahmedabad, and Gujarat Titans, batting first, put forth...",
     "img": "",
@@ -28,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "GT in command, CSK looking straight at elimination",
+    "title": "GT knock CSK out of IPL 2026, register 89-run victory",
     "desc": "Gujarat Titans and Chennai Super Kings take on each other at the Narendra Modi Stadium in Ahmedabad in the 66th game of the ongoing IPL (Indian Premier League) 2026. It is worth noting that Gujarat...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shane-watson-lauds-varun-chakaravarthy-for-playing-with-pain-against-mumbai-indians-in-ipl-2026-2026-05-21-1041933",
     "time": "2026-05-21T07:18:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New all-time record set in IPL following KKR's win over Mumbai at Eden Gardens",
-    "desc": "Kolkata Knight Riders’ four-wicket win over Mumbai Indians at Eden Gardens has not only kept their playoff hopes alive but also pushed IPL 2026 into record territory for successful run chases in the history of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-all-time-record-set-in-ipl-following-kkr-s-win-over-mumbai-at-eden-gardens-2026-05-21-1041911",
-    "time": "2026-05-21T04:39:18.000Z"
   }
 ];

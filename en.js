@@ -6,16 +6,133 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/6gxllo/article71007654.ece/alternates/LANDSCAPE_1200/TH17-Vijaita-A-GACFNR82Q.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/ladakh/ladakh-leaders-to-meet-home-ministry-officials-tomorrow-sonam-wangchuk-part-of-delegation/article71007304.ece",
-    "time": "2026-05-21T16:53:26.000Z"
+    "time": "2026-05-21T19:30:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Manipur DGP moved to Cabinet Secretariat",
+    "desc": "Rajiv Singh has been appointed Secretary (Security) in the Cabinet Secretariat. He had been appointed as Manipur’s police chief by relaxing service conditions after an ethnic violence erupted in the State on May 3, 2023.",
+    "img": "https://th-i.thgim.com/public/news/national/1rt3e5/article71007957.ece/alternates/LANDSCAPE_1200/HAfLShhbIAAB-Kx.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/manipur-dgp-moved-to-cabinet-secretariat/article71007866.ece",
+    "time": "2026-05-21T19:27:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aishwarya Rai heads to Cannes 2026 with daughter Aaradhya",
+    "desc": "Aishwarya Rai Bachchan was spotted leaving Mumbai for the Cannes Film Festival on Thursday night along with her daughter Aaradhya Bachchan, putting an end to rumours surrounding her absence from this year’s prestigious event. Over the years, Aishwarya Rai Bachchan, 52, has become one of India’s most recognisable and celebrated faces at Cannes. Therefore, fans were quick to notice her absence when L'Oreal Paris shared visuals from its latest Cannes campaign featuring several of its global ambassadors.",
+    "img": "https://static.toiimg.com/photo/msid-131251386,imgsize-34256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-heads-to-cannes-2026-with-daughter-aaradhya-bachchan-amid-rumours-of-her-absence-from-this-years-festival/articleshow/131251346.cms",
+    "time": "2026-05-21T19:22:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Summer showers, strong winds damage over 200 houses in Ernakulam",
+    "desc": "Heavy rain and gusty winds battered eastern regions, including Aluva and Kothamangalam, during the third week of April. In Ernakulam district, crops on 2,306.62 hectares were damaged between March 1 and May 18 this year",
+    "img": "https://th-i.thgim.com/public/incoming/5af2ma/article71007681.ece/alternates/LANDSCAPE_1200/Summer_Rain02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/summer-showers-strong-winds-damage-over-200-houses-in-ernakulam/article70994317.ece",
+    "time": "2026-05-21T19:19:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian Union Muslim League’s makeover from an ally to an electoral powerhouse in Kerala",
+    "desc": "The Indian Union Muslim League, the second-largest constituent in the Congress-led United Democratic Front in Kerala, has socially and politically refashioned itself to emerge as a significant player in the State while scripting its political success. Ultimately, the party has found its role extended far beyond the 22 seats, its best electoral performance in the Kerala State Assembly elections . Abdul Latheef Naha tracks the transformation of the party, which has a decisive presence in the Malabar region",
+    "img": "https://th-i.thgim.com/public/incoming/ggysme/article71007159.ece/alternates/LANDSCAPE_1200/IUML.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/indian-union-muslim-leagues-makeover-from-an-ally-to-an-electoral-powerhouse-in-kerala/article71005369.ece",
+    "time": "2026-05-21T19:05:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Dhoni play in IPL 2027? Gaikwad gives 'next year' update",
+    "desc": "MS Dhoni's participation in IPL 2027 is uncertain. Chennai Super Kings captain Ruturaj Gaikwad stated that even the team is unaware of Dhoni's return next season. Dhoni missed IPL 2026 due to injury. CSK's campaign ended with a loss to Gujarat Titans. The team faced challenges with injuries and a young squad.",
+    "img": "https://static.toiimg.com/photo/msid-131250709,imgsize-60304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/will-ms-dhoni-play-in-ipl-2027-csk-captain-ruturaj-gaikwad-gives-next-year-update/articleshow/131250687.cms",
+    "time": "2026-05-21T18:34:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK faces a challenge as allies set to join TVK government",
+    "desc": "While the Congress abandoned the DMK soon after polls and joined Chief Minister C Joseph Vijay’s Cabinet on Thursday, the IUML and VCK are set to join the Ministry on Friday, signalling the end of their relations with the DMK",
+    "img": "https://th-i.thgim.com/public/incoming/ho5iu7/article71007688.ece/alternates/LANDSCAPE_1200/DMK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-faces-a-challenge-as-allies-set-to-join-tvk-government/article71007679.ece",
+    "time": "2026-05-21T18:30:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Styles and Zoe Kravitz are reportedly planning an intimate Christmas wedding",
+    "desc": "Love is in the air as Harry Styles and Zoe Kravitz prepare to exchange vows this Christmas in an exclusive UK ceremony. Following a series of charming public outings and engagement rumors, the couple plans to celebrate their love with an intimate gathering of friends and family.",
+    "img": "https://static.toiimg.com/photo/msid-131250563,imgsize-46174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-and-zoe-kravitz-are-reportedly-planning-an-intimate-christmas-wedding-report/articleshow/131250409.cms",
+    "time": "2026-05-21T18:21:10.000Z"
   },
   {
     "cat": "World",
-    "title": "Iran-Israel war LIVE: Iran's Hormuz authority claims control of waters south of UAE port",
+    "title": "Pulwama terror attack mastermind Hamza Burhan killed by unknown gunmen in PoK",
+    "desc": "Burhan alias Arjumand Gulzar Dar, alias Doctor, a commander of the Al Badr terror group, was designated as a terrorist by India in April 2022 for his involvement in a series of terror acts in Jammu and Kashmir",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pulwama-terror-attack-mastermind-hamza-burhan-killed-by-unknown-gunmen-in-pok/article71007904.ece",
+    "time": "2026-05-21T18:10:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK knocked out as GT's top-order machine rolls on",
+    "desc": "Shubman Gill scored 64 off 37 balls while B Sai Sudharsan made 84 off 53 balls as the opening pair added 125 runs. It was their seventh century partnership in the IPL, the most by any pair in the tournament’s history.",
+    "img": "https://static.toiimg.com/photo/msid-131250354,imgsize-61204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/titans-too-tall-csk-knocked-out-of-ipl-playoffs-race-as-gujarats-top-order-machine-rolls-on/articleshow/131250303.cms",
+    "time": "2026-05-21T18:06:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Even before 1st industry PSLV flies, IN-SPACe offers full PSLV tech transfer",
+    "desc": "India's space regulator is offering full technology transfer for the reliable PSLV rocket to private firms, aiming to boost commercial launches. This follows a similar move for the SSLV. Despite delays in the first industry-built PSLV and SSLV, the government seeks an industry-driven launch ecosystem, signaling a major shift from ISRO's production model.",
+    "img": "https://static.toiimg.com/photo/msid-131250034,imgsize-619039.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/even-before-1st-industry-pslv-flies-in-space-offers-full-pslv-tech-transfer/articleshow/131250013.cms",
+    "time": "2026-05-21T17:41:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war updates: Iran's Hormuz authority claims control of waters south of UAE port",
     "desc": "Iran warned on Wednesday, May 20, that war in West Asia would spread far beyond the region if the United States and Israel resumed their attacks after President Donald Trump threatened to strike again unless a deal is reached.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-us-war-may-21-2026-live-updates/article71004744.ece",
-    "time": "2026-05-21T16:46:36.000Z"
+    "time": "2026-05-21T17:35:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Higher AC use pushes power demand to 271 MW for first time",
+    "desc": "India's power demand hit an unprecedented 270.8 GW due to intense heat and widespread air conditioner use, nearing 2026 projections. This marks the fourth consecutive day of record-breaking demand. Officials assure grid stability, attributing local outages to distribution issues. Further demand hikes are anticipated as extreme temperatures persist.",
+    "img": "https://static.toiimg.com/photo/msid-131249793,imgsize-875105.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/higher-ac-use-pushes-power-demand-to-271-mw-for-first-time/articleshow/131249786.cms",
+    "time": "2026-05-21T17:21:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Kirk Douglas",
+    "desc": "Legendary actor Kirk Douglas, who carved his own path in Hollywood, famously declared, \"I don’t need a critic to tell me I’m an actor.\" Rising from poverty, he championed independence and self-belief, proving that true worth comes from within. Douglas's remarkable career, marked by grit and passion, inspired many to live life on their own terms.",
+    "img": "https://static.toiimg.com/photo/msid-131249736,imgsize-92590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-kirk-douglas-i-dont-need-a-critic-to-tell-me-im-an-actor/articleshow/131249717.cms",
+    "time": "2026-05-21T17:16:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay Dutt's daughter Trishala on battling weight issues after mother's demise",
+    "desc": "Sanjay Dutt's daughter, Trishala, opened up about the profound impact of her mother Richa Sharma's death from brain cancer when she was eight. She also detailed her struggles with childhood bullying, weight issues, and public scrutiny due to her famous family background, highlighting a lack of emotional support during her formative years.",
+    "img": "https://static.toiimg.com/photo/msid-131249663,imgsize-26834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutts-daughter-trishala-opens-up-on-battling-weight-problems-and-being-bullied-people-think-if-you-are-a-celebritys-daughter-you-have-to-look-/articleshow/131249599.cms",
+    "time": "2026-05-21T17:04:41.000Z"
   },
   {
     "cat": "Sports",
@@ -25,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ms-dhoni-misses-entire-ipl-2026-league-stage-for-csk-a-first-in-tournament-history/articleshow/131249310.cms",
     "time": "2026-05-21T16:35:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMK faces a challenge as allies set to join TVK government",
-    "desc": "While the Congress abandoned the DMK soon after polls and joined Chief Minister C Joseph Vijay’s Cabinet on Thursday, the IUML and VCK are set to join the Ministry on Friday signalling the end of their relations with the DMK",
-    "img": "https://th-i.thgim.com/public/incoming/ho5iu7/article71007688.ece/alternates/LANDSCAPE_1200/DMK.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-faces-a-challenge-as-allies-set-to-join-tvk-government/article71007679.ece",
-    "time": "2026-05-21T16:29:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,15 +243,6 @@ const newsData_en = [
     "time": "2026-05-21T15:19:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "KMRL offers to ease traffic congestion during monsoon",
-    "desc": "More traffic wardens will be deputed at key locations to regulate traffic flow and assist pedestrians. An internal committee has been constituted to continuously monitor traffic safety and coordinate necessary interventions during the monsoon period",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kmrl-offers-to-ease-traffic-congestion-during-monsoon/article71007018.ece",
-    "time": "2026-05-21T15:18:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shubman Gill-Sudharsan script history, equal Kohli-Gayle's massive T20 feat",
     "desc": "Shubman Gill and Sai Sudharsan achieved their 10th century partnership in T20s, equalling a record held by legendary pairs. They reached this milestone in just 46 innings, significantly faster than others. The Gujarat Titans duo also set an IPL record with their seventh opening century stand.",
@@ -151,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/shubman-gill-sai-sudharsan-script-history-equal-virat-kohli-chris-gayles-massive-t20-feat/articleshow/131248555.cms",
     "time": "2026-05-21T15:06:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Demonstrate ‘speed of doing business’ on the ground, A.P. Chief Minister Chandrababu Naidu tells officials",
-    "desc": "Industrial projects approved by SIPB and agreements reached at Partnership Summit must break ground by September this year and commence operations by December 2028, says the Chief Minister, while suggesting a single dashboard to monitor project approvals, grounding status and employment generation",
-    "img": "https://th-i.thgim.com/public/incoming/swwdje/article71007309.ece/alternates/LANDSCAPE_1200/10215_21_5_2026_20_28_26_1_WHATSAPPIMAGE2026_05_21AT80706PM1.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/demonstrate-speed-of-doing-business-on-the-ground-ap-chief-minister-chandrababu-naidu-tells-officials/article71006539.ece",
-    "time": "2026-05-21T15:04:15.000Z"
   },
   {
     "cat": "World",
@@ -369,33 +459,6 @@ const newsData_en = [
     "time": "2026-05-21T12:14:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Brooklyn Beckham wishes Victoria's father for 80th birthday",
-    "desc": "Brooklyn Beckham celebrated his grandfather Anthony Adams' 80th birthday with a personal Instagram story, sharing a warm moment while the rest of the family attended a lavish party. Victoria Beckham posted highlights from the grand celebration, featuring David, Romeo, Cruz, and Harper. The event showcased the family's festive spirit, though Brooklyn chose a separate, intimate tribute.",
-    "img": "https://static.toiimg.com/photo/msid-131246733,imgsize-40742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-beckham-wishes-victorias-father-for-80th-birthday-skips-grand-party-x-i-love-you-so-much/articleshow/131246554.cms",
-    "time": "2026-05-21T12:07:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "What led to the Hai Jawani Toh Ishq Hona Hai trailer launch being called off?",
-    "desc": "The trailer launch of Varun Dhawan, Mrunal Thakur, and Pooja Hegde starrer 'Hai Jawani Toh Ishq Hona Hai' was suddenly called off after fans and media had already arrived at the venue. Producer Ramesh Taurani cited a \"technical glitch.\" The film has also been caught in a legal dispute over the use of \"Chunari Chunari.\"",
-    "img": "https://static.toiimg.com/photo/msid-131246672,imgsize-78340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/legal-trouble-or-technical-glitch-what-led-to-the-hai-jawani-toh-ishq-hona-hai-trailer-launch-being-called-off/articleshow/131246672.cms",
-    "time": "2026-05-21T12:06:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif opens up on Tiger Pataudi's different brand of confidence, he rarely spoke",
-    "desc": "Saif Ali Khan recently honored his father, Tiger Pataudi, at a memorial lecture in Kolkata. He recalled Pataudi's quiet confidence and his transformative impact on Indian cricket, instilling a winning mindset. Saif emphasised his father's belief in self-belief, a key to the team's competitive spirit.",
-    "img": "https://static.toiimg.com/photo/msid-131246628,imgsize-64298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-says-sharmila-tagore-would-be-exasperated-as-mansoor-ali-khan-didnt-speak-about-his-achievements-different-brand-of-confidence/articleshow/131246404.cms",
-    "time": "2026-05-21T12:04:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Tension nahi lene ka': Sooryavanshi before 10 sixes carnage",
     "desc": "Rajasthan Royals' 15-year-old Vaibhav Sooryavanshi delivered a match-winning 93 off 38 balls, including 10 sixes, to chase down 221 against LSG. He reassured coach Sangakkara, stating, 'ho jayega,' and then proceeded to keep playoff hopes alive. Sooryavanshi also became the youngest Indian to hit 50 IPL sixes in a season.",
@@ -424,48 +487,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Atlee calls Suriya's ‘Karuppu’ stunning theatrical entertainer",
-    "desc": "Director Atlee has lauded Suriya's latest film 'Karuppu' as a stunning theatrical entertainer and a mass commercial blockbuster, praising RJ Balaji's direction and the entire team's efforts. The movie, despite initial release troubles, is performing exceptionally well at the box office, crossing the Rs 100 crore mark in its first week and garnering strong audience appreciation.",
-    "img": "https://static.toiimg.com/photo/msid-131246319,imgsize-128960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/atlee-calls-karuppu-stunning-theatrical-entertainer-suriya-sir-you-killed-it-lauds-raaka-director/articleshow/131246268.cms",
-    "time": "2026-05-21T11:46:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anupam Kher called Mahesh Bhatt 'the biggest fraud' when he was removed from 'Saaransh'",
-    "desc": "Anupam Kher, then 27, was removed from his debut film 'Saaransh' just days before shooting, replaced by a bigger star. Devastated, he confronted director Mahesh Bhatt, calling him a 'fraud' and 'cheat'. This emotional outburst, however, led Bhatt to reconsider, ultimately casting Kher in the role that defined his career and earned him acclaim.",
-    "img": "https://static.toiimg.com/photo/msid-131246163,imgsize-40782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-calls-mahesh-bhatt-the-biggest-fraud-when-he-was-removed-from-saaransh-i-was-crying-inconsolably/articleshow/131245951.cms",
-    "time": "2026-05-21T11:41:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bokhla gye log'; Amitabh's mysterious midnight Tweet creates buzz",
-    "desc": "Amitabh Bachchan's cryptic X post on May 21, 2026, featuring his signature 'T' numbering, has sparked widespread fan speculation. The message, \"People got flustered and expressed their opinions — whether anyone understood them or not, they definitely ended up getting back what they gave,\" led to various interpretations, from philosophical musings to humorous takes, amidst ongoing health rumors.",
-    "img": "https://static.toiimg.com/photo/msid-131245828,imgsize-30460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bokhla-gye-log-vichar-vyakt-kiye-amitabh-bachchans-mysterious-midnight-tweet-creates-buzz-fan-says-melody-khao-khud-jan-jao/articleshow/131245800.cms",
-    "time": "2026-05-21T11:13:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar 2' BO day 64 [LIVE]: Can Ranveer Singh film net Rs 3.65 crore?",
     "desc": "The Revenge' is entering the final stretch of its historic theatrical run with India net at Rs. 1,146.35 crore, Rs. 1,150 crore virtually certain, and the 'Pushpa 2' domestic record sitting Rs. 87.75 crore away. With its highly anticipated dual-platform OTT release officially locked for June 4, 2026, the film is racing against time to make the most out its final theatrical run. Amid this, fans looking forward to revisiting the high-octane spy drama can catch it on streaming platforms next month. 'Dhurandhar 2' is opting for a unique dual-platform digital release of JioHotstar premiere on June 4. The movie is already streaming on Netflix under the title 'Dhurandhar: The Revenge — Raw and Uncut', boasting extended graphic sequences.",
     "img": "https://static.toiimg.com/photo/msid-131245698,imgsize-73744.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-64-live-ranveer-singh-film-just-rs-3-65-crore-from-rs-1150-crore-net-ahead-of-its-ott-release-on-june-4/articleshow/131245615.cms",
     "time": "2026-05-21T11:06:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The storm brewing inside India’s favourite cup",
-    "desc": "India's beloved chai faces unprecedented challenges. Climate stress, rising costs, and global conflicts are impacting tea production and exports, making your daily cup more expensive. Despite these pressures, the nation's deep emotional connection to tea, a symbol of hospitality and connection, ensures its enduring cultural significance.",
-    "img": "https://static.toiimg.com/photo/msid-131245598,imgsize-174482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/international-tea-day-2026-the-storm-brewing-inside-indias-favourite-cup/articleshow/131244496.cms",
-    "time": "2026-05-21T10:57:52.000Z"
   },
   {
     "cat": "Business",
@@ -475,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-rebounds-after-rbi-support-how-long-will-the-recovery-momentum-last/articleshow/131245379.cms",
     "time": "2026-05-21T10:46:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Congress insults tricolour abroad': Piyush Goyal slams Rahul Gandhi's 'gaddar' jab at PM Modi",
-    "desc": "Union Minister Piyush Goyal strongly criticized Rahul Gandhi and the Congress party for using derogatory language against Prime Minister Narendra Modi. Goyal emphasized India's enhanced global reputation and robust strategic partnerships, citing strong ties with the US and significant investment deals secured during Prime Minister Modi's recent foreign visits. These engagements underscore India's growing influence and trusted partnership status worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-131245172,imgsize-38904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-insults-tricolour-abroad-piyush-goyal-slams-rahul-gandhis-gaddar-jab-at-pm-modi/articleshow/131245066.cms",
-    "time": "2026-05-21T10:31:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Time will answer': DK Shivakumar on Karnataka CM buzz amid leadership change speculation",
-    "desc": "Karnataka Deputy Chief Minister DK Shivakumar stated that \"time will decide\" his potential elevation to Chief Minister, amidst growing speculation of a leadership change in the state's Congress government. This comes as the Siddaramaiah-led government approaches a significant milestone, fueling discussions about a possible power-sharing arrangement.",
-    "img": "https://static.toiimg.com/photo/msid-131244477,imgsize-57310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/time-will-answer-dk-shivakumar-on-karnataka-cm-buzz-amid-leadership-change-speculation/articleshow/131243761.cms",
-    "time": "2026-05-21T09:54:33.000Z"
   },
   {
     "cat": "Business",
@@ -567,24 +576,6 @@ const newsData_en = [
     "time": "2026-05-21T08:42:21.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Amra Korbo Joy': Bangladesh celebrate Pakistan Test sweep with special victory song",
-    "desc": "Bangladesh achieved a historic 2-0 Test series whitewash against Pakistan, culminating in an emotional dressing room celebration. Players united to sing \"Amra Korbo Joy\" after their dominant 78-run victory in the second Test. This triumph signifies Bangladesh's growing confidence and consistency in Test cricket.",
-    "img": "https://static.toiimg.com/photo/msid-131242759,imgsize-150196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/amra-korbo-joy-bangladesh-celebrate-pakistan-test-sweep-with-special-victory-song-watch/articleshow/131242749.cms",
-    "time": "2026-05-21T08:01:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Five contenders",
-    "desc": "The Indian Super League 2025-26 season culminates in a thrilling title race, with five teams vying for glory. East Bengal, Mohun Bagan, and Bengaluru FC are level on points, but only the Kolkata giants can add to their tally. Punjab FC, Mumbai City FC and Jamshedpur FC are close behind, setting the stage for a dramatic finale.",
-    "img": "https://static.toiimg.com/photo/msid-131242154,imgsize-93654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/isl-scenarios-five-contenders-who-will-win-the-title-on-the-last-matchday/articleshow/131242026.cms",
-    "time": "2026-05-21T07:35:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "NVIDIA clocks record breaking $81 billion revenue powered by AI wave",
     "desc": "NVIDIA has achieved record-breaking first quarter results for fiscal year 2027. Revenue surged significantly, fueled by strong demand for its data center and AI offerings. The company is also updating its business segment reporting structure. NVIDIA anticipates continued strong performance in the upcoming quarter.",
@@ -601,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modis-five-nation-tour-secures-nearly-40-billion-investment-pipeline-for-india/articleshow/131241647.cms",
     "time": "2026-05-21T07:11:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I grew up watching CSK play': Sai Sudharsan shares Chennai connection",
-    "desc": "Gujarat Titans opener Sai Sudharsan shared his deep emotional ties to Chennai Super Kings ahead of their IPL 2026 clash. He fondly recalled idolizing CSK during his childhood, making his maiden IPL century against them in 2024 particularly special. Sudharsan, a consistent performer, continues his impressive run this season.",
-    "img": "https://static.toiimg.com/photo/msid-131241960,imgsize-860751.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-i-grew-up-watching-csk-play-sai-sudharsan-shares-chennai-connection-ahead-of-ahmedabad-clash/articleshow/131241930.cms",
-    "time": "2026-05-21T07:10:49.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
   }
 ];
