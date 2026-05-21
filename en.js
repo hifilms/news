@@ -1,5 +1,32 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Lupita defends her casting as Helen of Troy in 'The Odyssey'",
+    "desc": "Lupita Nyong'o, cast as Helen of Troy in Christopher Nolan's 'The Odyssey', addresses online criticism and racism. She defends the director's vision, highlighting the mythological nature of the story and the cast's global representation. Nyong'o emphasizes exploring characters beyond mere beauty, stating the film spans worlds and aims for an epic narrative.",
+    "img": "https://static.toiimg.com/photo/msid-131252206,imgsize-108504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lupita-nyongo-defends-her-casting-as-helen-of-troy-in-christopher-nolans-the-odyssey-says-you-cant-perform-beauty/articleshow/131251961.cms",
+    "time": "2026-05-21T21:49:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana steps out wearing mangalsutra; fans ask, ‘Is she married?’",
+    "desc": "Kangana Ranaut has once again grabbed the internet’s attention after a recent video of the actress-politician surfaced online. In the now-viral clip, Kangana was seen wearing a mangalsutra and green bangles, leaving fans speculating whether she had secretly tied the knot.",
+    "img": "https://static.toiimg.com/photo/msid-131251937,imgsize-36502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-steps-out-wearing-mangalsutra-and-green-bangles-fans-ask-is-she-married/articleshow/131251899.cms",
+    "time": "2026-05-21T21:01:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "political catchphrases turn dance anthems in Kolkata",
+    "desc": "Why are Kolkata club-goers dancing to Mamata Banerjee’s ‘Hamba Hamba’ and the BJP’s ‘Mach Chor’ ? From campaign songs and election slogans to viral reels and packed dancefloors, Bengal’s political techno remixes are blurring the lines between propaganda, memes and nightlife",
+    "img": "https://th-i.thgim.com/public/incoming/bmuadi/article71005416.ece/alternates/LANDSCAPE_1200/humba%20screengrab.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/politics-to-parties-kolkatas-latest-viral-trend-has-people-dancing-to-political-slogans/article70996818.ece",
+    "time": "2026-05-21T20:44:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Ladakh leaders to meet Home Ministry officials on May 22, Sonam Wangchuk part of delegation",
     "desc": "This is the first such meeting of members of the Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA), the two bodies representing Leh and Kargil districts respectively, since February 4; the KDA and LAB have been demanding constitutional safeguards such as Statehood and inclusion of Ladakh under the Sixth Schedule",
@@ -108,15 +135,6 @@ const newsData_en = [
     "time": "2026-05-21T17:35:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Higher AC use pushes power demand to 271 MW for first time",
-    "desc": "India's power demand hit an unprecedented 270.8 GW due to intense heat and widespread air conditioner use, nearing 2026 projections. This marks the fourth consecutive day of record-breaking demand. Officials assure grid stability, attributing local outages to distribution issues. Further demand hikes are anticipated as extreme temperatures persist.",
-    "img": "https://static.toiimg.com/photo/msid-131249793,imgsize-875105.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/higher-ac-use-pushes-power-demand-to-271-mw-for-first-time/articleshow/131249786.cms",
-    "time": "2026-05-21T17:21:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Quote of the day by Kirk Douglas",
     "desc": "Legendary actor Kirk Douglas, who carved his own path in Hollywood, famously declared, \"I don’t need a critic to tell me I’m an actor.\" Rising from poverty, he championed independence and self-belief, proving that true worth comes from within. Douglas's remarkable career, marked by grit and passion, inspired many to live life on their own terms.",
@@ -133,6 +151,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutts-daughter-trishala-opens-up-on-battling-weight-problems-and-being-bullied-people-think-if-you-are-a-celebritys-daughter-you-have-to-look-/articleshow/131249599.cms",
     "time": "2026-05-21T17:04:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HC grants bail to Salim Malik in UAPA case",
+    "desc": "The Bench notes that Malik has been in custody for more than five years and 10 months and the stage of the trial is that arguments on the charges are being presently heard. Suggesting that the trial is going to take some time, it also considers his alleged role in the case to grant him bail",
+    "img": "https://th-i.thgim.com/public/incoming/nl410p/article71007725.ece/alternates/LANDSCAPE_1200/IMG_NORTH_EAST_DELHI_VIO_2_1_SQBBEQS8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-hc-grants-bail-to-salim-malik-in-uapa-case/article71007127.ece",
+    "time": "2026-05-21T16:42:40.000Z"
   },
   {
     "cat": "Sports",
@@ -189,24 +216,6 @@ const newsData_en = [
     "time": "2026-05-21T15:49:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How States are managing the surging summer power demand",
-    "desc": "India’s electricity demand has surged sharply, with peak demand touching an all-time high of 256.1 GW in April, making it harder for States to manage supply during high-demand hours and exposing them to costly short-term market purchases and stressed distribution networks",
-    "img": "https://th-i.thgim.com/public/news/national/977p6e/article71003572.ece/alternates/LANDSCAPE_1200/iStock-1006632712.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/how-states-are-managing-the-surging-summer-power-demand/article71002402.ece",
-    "time": "2026-05-21T15:45:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MPs grill NTA officials, DG says 'was not leaked through system'",
-    "desc": "NTA chief Abhishek Singh told a parliamentary panel the NEET-UG 2026 paper wasn't leaked via their system, with the CBI investigating. Officials presented reforms, noting 70% of Radhakrishnan Committee recommendations are implemented. The agency faces a 25% staff shortage and is considering computer-based testing for future exams.",
-    "img": "https://static.toiimg.com/photo/msid-131249709,imgsize-1491942.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-paper-leak-mps-grill-nta-officials-dg-says-was-not-leaked-through-system/articleshow/131248924.cms",
-    "time": "2026-05-21T15:43:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sanjay travels to the US for check-up years after cancer recovery",
     "desc": "Sanjay Dutt, who has been maintaining a packed work schedule across multiple film industries, recently travelled to the United States for what is believed to be his routine annual medical examination. The actor’s health continues to remain a matter of public interest ever since he battled stage 4 lung cancer in 2020.",
@@ -214,33 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/years-after-being-declared-cancer-free-sanjay-dutt-heads-to-los-angeles-for-annual-health-check-up-report/articleshow/131248719.cms",
     "time": "2026-05-21T15:37:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Forced to convert and marry': 23-year-old woman accuses man she met online abuse over years",
-    "desc": "A 23-year-old woman has accused a man and his associates of kidnapping, gang-raping, and forcing her into marriage after allegedly coercing religious conversion in Jamia Nagar. Police have arrested four of the six accused, with the main suspect already in jail for another case. The woman reported being befriended online and sexually assaulted repeatedly between 2021 and 2025.",
-    "img": "https://static.toiimg.com/photo/msid-131248810,imgsize-580636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/forced-to-convert-and-marry-23-year-old-woman-accuses-man-she-met-online-abuse-over-years/articleshow/131248819.cms",
-    "time": "2026-05-21T15:33:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Calcutta HC refuses to stay cattle slaughter restrictions ahead of festival",
-    "desc": "The Calcutta High Court has upheld the West Bengal government's restrictions on slaughtering certain animals ahead of Bakr Eid. The court found the notification aligned with previous directives, emphasizing that cow sacrifice isn't a mandatory Islamic practice. Authorities must now decide on exemptions within 24 hours, ensuring proper certification and infrastructure for any permitted slaughter.",
-    "img": "https://static.toiimg.com/photo/msid-131248731,imgsize-1625516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-an-essential-part-of-eid-calcutta-hc-refuses-to-stay-cattle-slaughter-restrictions-ahead-of-festival/articleshow/131248729.cms",
-    "time": "2026-05-21T15:20:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Umar Khalid moves Delhi HC seeking 15-day interim bail after trial court rejected 'unreasonable' plea",
-    "desc": "Umar Khalid has approached the Delhi High Court for 15 days' interim bail, from May 22 to June 5, to attend his uncle's Chehlum ceremony and care for his mother undergoing surgery. A trial court had previously denied his request, deeming it not necessary. Khalid argues the trial court's assessment was incorrect.",
-    "img": "https://static.toiimg.com/photo/msid-131248721,imgsize-899129.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/umar-khalid-moves-delhi-hc-seeking-15-day-interim-bail-after-trial-court-rejected-unreasonable-plea/articleshow/131248491.cms",
-    "time": "2026-05-21T15:19:07.000Z"
   },
   {
     "cat": "Sports",
@@ -279,15 +261,6 @@ const newsData_en = [
     "time": "2026-05-21T14:37:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bosch bets on JVs to speed up next-gen mobility push",
-    "desc": "German auto technology supplier Bosch is shifting towards partnerships and joint ventures to accelerate development and market entry in new mobility technologies. This strategic move, exemplified by a new JV with TSF Group for commercial vehicle air systems, aims to leverage complementary strengths for quicker market access and innovation.",
-    "img": "https://static.toiimg.com/photo/msid-131248306,imgsize-802984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bosch-bets-on-jvs-to-speed-up-next-gen-mobility-push/articleshow/131248299.cms",
-    "time": "2026-05-21T14:36:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "MGK calls Yungblud 'Pinocchio' for rising ticket prices",
     "desc": "Tensions are flaring in the music world as MGK and Yungblud clash over the skyrocketing prices of concert tickets. MGK has called out Yungblud for alleged double standards, pointing out that he canceled shows due to low ticket sales yet was spotted dining at an upscale eatery.",
@@ -313,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/injury-scare-for-csk-sanju-samson-leaves-field-mid-match-vs-gujarat-titans/articleshow/131248195.cms",
     "time": "2026-05-21T14:23:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi-Meloni chemistry: How Italy became the heart of India's Europe bet",
-    "desc": "India is pivoting towards Europe as traditional partnerships become unreliable. The burgeoning India-Italy relationship, spearheaded by Prime Ministers Modi and Meloni, is central to this strategy. This partnership is building crucial economic architecture, including the India-Middle East-Europe Economic Corridor and a potential EU Free Trade Agreement, positioning Europe as India's primary strategic focus.",
-    "img": "https://static.toiimg.com/photo/msid-131248117,imgsize-1217798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-meloni-chemistry-how-italy-became-the-heart-of-indias-europe-bet/articleshow/131248103.cms",
-    "time": "2026-05-21T14:15:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,15 +342,6 @@ const newsData_en = [
     "time": "2026-05-21T13:38:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'I, Vadasseri Damodara Menon Satheesan': Why Kerala Congress leaders are not happy with their own CM",
-    "desc": "Kerala CM VD Satheesan faces a political storm over using his full legal name, including 'Menon', during his oath. Critics within his party argue it contradicts the Congress's secular image and signals caste politics. Satheesan defended the move, stating it was to honor his late parents, not a political statement.",
-    "img": "https://static.toiimg.com/photo/msid-131247728,imgsize-1084629.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-vadasseri-damodara-menon-satheesan-why-kerala-congress-leaders-are-not-happy-with-their-own-cm/articleshow/131247649.cms",
-    "time": "2026-05-21T13:38:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'We are actively working on making adjustments'",
     "desc": "Harry Styles' team is addressing fan concerns about obstructed views on the 'Together, Together' tour. Adjustments to the stage, particularly front bridges in Amsterdam and London, will be made starting Friday. Future venues will also see modifications to improve visibility while prioritizing safety. The team thanks fans for their patience as they work to enhance the concert experience.",
@@ -403,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/my-face-literally-shook-boman-irani-gets-emotional-recalling-his-heartwarming-meeting-with-dharmendra/articleshow/131247571.cms",
     "time": "2026-05-21T13:18:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Won’t stop until Dharmendra Pradhan resigns': Rahul Gandhi targets Centre over NEET paper leak, action by cops against protesters",
-    "desc": "Rahul Gandhi has demanded Union Education Minister Dharmendra Pradhan's resignation over the NEET paper leak, accusing the Centre of neglecting student concerns. He pledged the Congress's continued fight for affected students, advocating for a robust examination system.",
-    "img": "https://static.toiimg.com/photo/msid-131247455,imgsize-640909.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/wont-stop-until-dharmendra-pradhan-resigns-rahul-gandhi-targets-centre-over-neet-paper-leak-action-by-cops-against-protesters/articleshow/131247460.cms",
-    "time": "2026-05-21T13:07:11.000Z"
   },
   {
     "cat": "Business",
@@ -433,30 +379,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ilaiyaraaja faces setback in ‘En Iniya Pon Nilave’ copyright case",
-    "desc": "The Delhi High Court upheld an interim injunction favoring Saregama India Limited, ruling that composer Ilaiyaraaja could not assign rights to lyrics or sound recordings of \"En Iniya Pon Nilave.\" The court clarified that while Ilaiyaraaja retains copyright over the musical composition, this does not extend to the lyrics or the sound recording, which Saregama validly acquired.",
-    "img": "https://static.toiimg.com/photo/msid-131246844,imgsize-141134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ilaiyaraaja-faces-setback-in-en-iniya-pon-nilave-copyright-case-delhi-high-court-upholds-rights-over-iconic-song/articleshow/131246844.cms",
-    "time": "2026-05-21T12:20:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Kolkata's latest viral trend has people dancing to political slogans",
     "desc": "Why are Kolkata club-goers dancing to Mamata Banerjee’s ‘Hamba Hamba’ and the BJP’s ‘Mach Chor’ ? From campaign songs and election slogans to viral reels and packed dancefloors, Bengal’s political techno remixes are blurring the lines between propaganda, memes and nightlife",
     "img": "https://th-i.thgim.com/public/incoming/bmuadi/article71005416.ece/alternates/LANDSCAPE_1200/humba%20screengrab.png",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/politics-to-parties-kolkatas-latest-viral-trend-has-people-dancing-to-political-slogans/article70996818.ece",
     "time": "2026-05-21T12:17:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did financial betrayal push K. Rajan to suicide? Daughter answers",
-    "desc": "Veteran producer K. Rajan's death has sparked speculation. His daughter Rajeshwari denies rumors of financial betrayal. She states her father lent money to many producers and distributors. He was reportedly distressed over the non-repayment of nearly Rs 20 crore. The family seeks action from film associations to recover the dues. They urge against spreading false information.",
-    "img": "https://static.toiimg.com/photo/msid-131246779,imgsize-73824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/did-financial-betrayal-push-k-rajan-to-suicide-daughter-rajeshwari-reacts-to-speculation-around-the-producers-death/articleshow/131246769.cms",
-    "time": "2026-05-21T12:14:53.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshis-message-to-sangakkara-before-10-sixes-carnage-watch/articleshow/131246475.cms",
     "time": "2026-05-21T12:00:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "5K 40–49 female category: Women who turned running into a way of life",
-    "desc": "The Times Internet Half Marathon 2026 saw inspiring women compete in the 5K 40-49 female category. Rachana Joshi won, showcasing a family's shared passion for running. Sangeeta Thap secured first runner-up with a strong performance. Megha Bindlish, a new runner, achieved second runner-up. The event highlighted fitness, family, and personal growth.",
-    "img": "https://static.toiimg.com/photo/msid-131246449,imgsize-786587.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/5k-4049-female-category-women-who-turned-running-into-a-way-of-life-times-internet-half-marathon-2026/articleshow/131246445.cms",
-    "time": "2026-05-21T11:54:23.000Z"
   },
   {
     "cat": "Business",
@@ -783,15 +702,6 @@ const newsData_en = [
     "time": "2026-05-19T13:58:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "CRICKET",
-    "desc": "The spin duo of Manav Suthar and Harsh Dubey along with lanky pacer Gurnoor Brar earn their maiden Test call-up; Bumrah and Jadeja rested; Prince Yadav gets a look-in for the ODI series to follow",
-    "img": "https://th-i.thgim.com/public/incoming/r240i9/article70998333.ece/alternates/LANDSCAPE_1200/2150_23_11_2025_16_8_22_1_IND_SA_23112025_32.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/cricket-rahul-re-named-vice-captain-for-one-off-test-against-afghanistan/article70998228.ece",
-    "time": "2026-05-19T13:10:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘I am getting to do roles which I wouldn’t have got otherwise after forty’",
     "desc": "The actor, along with Sonakshi Sinha and Ashutosh Gowariker, opens up about collaborating with Ashwiny Iyer Tiwary in ‘System’, Jyotika’s shift to Hindi films, how Sonakshi and Ashutosh brought realism to their performances, and more",
@@ -898,5 +808,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
