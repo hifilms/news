@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "GT vs CSK Head-to-Head record ahead of game 66 in IPL 2026",
+    "desc": "Game 66 of the ongoing IPL (Indian Premier League) 2026 saw Gujarat Titans taking on Chennai Super Kings. The two sides will meet at the Narendra Modi Stadium in Ahmedabad on May 21, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-csk-head-to-head-record-ahead-of-game-66-in-ipl-2026-2026-05-21-1041962",
+    "time": "2026-05-21T11:40:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Such a mastermind': Sai Sudharsan hails skipper Shubman Gill ahead of CSK clash",
+    "desc": "The stage is set for the 66th game of the ongoing IPL (Indian Premier League) 2026. Gujarat Titans will take on Chennai Super Kings at the Narendra Modi Stadium in Ahmedabad on May 21. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/such-a-mastermind-sai-sudharsan-hails-skipper-shubman-gill-ahead-of-csk-clash-2026-05-21-1041950",
+    "time": "2026-05-21T10:08:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will the surface at the Narendra Modi Stadium in Ahmedabad play?",
+    "desc": "Chennai Super Kings head into a crucial clash against Gujarat Titans in Ahmedabad knowing there is little room left for error in their IPL 2026 campaign. Another defeat will shut the door on their playoff...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-csk-pitch-report-how-will-the-surface-at-the-narendra-modi-stadium-in-ahmedabad-play-2026-05-21-1041940",
+    "time": "2026-05-21T08:21:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shane Watson lauds Varun Chakaravarthy for playing with pain against Mumbai Indians in IPL 2026",
+    "desc": "Kolkata Knight Riders kept their IPL 2026 playoff hopes alive with a win over Mumbai Indians at Eden Gardens. After the match, assistant coach Shane Watson revealed that spinner Varun Chakravarthy played the match while...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shane-watson-lauds-varun-chakaravarthy-for-playing-with-pain-against-mumbai-indians-in-ipl-2026-2026-05-21-1041933",
+    "time": "2026-05-21T07:18:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New all-time record set in IPL following KKR's win over Mumbai at Eden Gardens",
     "desc": "Kolkata Knight Riders’ four-wicket win over Mumbai Indians at Eden Gardens has not only kept their playoff hopes alive but also pushed IPL 2026 into record territory for successful run chases in the history of...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/unai-emery-lifts-his-5th-europa-league-title-as-aston-villa-decimate-freiburg-in-final-2026-05-21-1041882",
     "time": "2026-05-21T00:51:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR remain alive in IPL playoffs race with typical win over Mumbai Indians at Eden Gardens",
-    "desc": "During their most successful years, Kolkata Knight Riders often relied on a simple but effective approach. Their spinners would control the game in the middle overs before a top-order batter, frequently Gautam Gambhir, guided the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-remain-alive-in-ipl-playoffs-race-with-typical-win-over-mumbai-indians-at-eden-gardens-2026-05-21-1041876",
-    "time": "2026-05-20T18:47:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Djokovic, Sabalenka among others plan to stage protest ahead of French Open over prize money structure",
-    "desc": "A growing dispute over prize-money allocation at the French Open is set to spill into public view during Roland Garros, with several leading tennis players preparing a coordinated media protest ahead of the tournament. According...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/djokovic-sabalenka-among-others-plan-to-stage-protest-ahead-of-french-open-over-prize-money-structure-2026-05-20-1041872",
-    "time": "2026-05-20T17:41:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni leaves CSK camp ahead of final league game against Gujarat, will only return if team qualifies",
-    "desc": "Legendary captain MS Dhoni has already left the Chennai Super Kings camp ahead of the final IPL 2026 league game against Gujarat Titans. The veteran cricketer hasn’t played a single game this season and it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-leaves-csk-camp-ahead-of-final-league-game-against-gujarat-will-only-return-on-one-condition-2026-05-20-1041867",
-    "time": "2026-05-20T16:21:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026 broadcast still in jeopardy, DD Sports also rejects request",
-    "desc": "With nearly 20 days left for the FIFA World Cup 2026 to begin, uncertainty remains regarding its broadcasting in India. The issue reached the Delhi High Court earlier in the week, where Prasar Bharati clarified...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-broadcast-still-in-jeopardy-dd-sports-also-rejects-request-2026-05-20-1041863",
-    "time": "2026-05-20T15:35:33.000Z"
   }
 ];

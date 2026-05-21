@@ -1,5 +1,95 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "બોબી દેઓલની ફિલ્મ બંદરનું ટ્રેલર રિલીઝ, 5 જૂને બોક્સ ઓફિસ પર થશે રિલીઝ",
+    "desc": "બોબી દેઓલની મચ અવેટેડ ફિલ્મ બંદરનું ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે. આ ટ્રેલરને લોકો તરફથી મિક્સ રિએકશન મળી રહ્યા છે. બંદર ફિલ્મના ટ્રેલર સાથે તેની રિલીઝ ડેટ પણ સામે આવી છે. આ ફિલ્મ 5 જૂને બોક્સ ઓફિસ પર રિલીઝ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-upcoming-movie-bandar-trailer-watch-now-film-releasing-on-5-june-2026-box-office-478742 ",
+    "time": "2026-05-21T12:07:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારતીય ક્રિકેટ ટીમમાં અચાનક ફેરફાર, જાણો કોણ થયું બહાર અને કોને મળી એન્ટ્રી",
+    "desc": "ભારતની 'A' ટીમ જૂનમાં શ્રીલંકા અને અફઘાનિસ્તાન સામે ત્રિકોણીય શ્રેણી રમશે. આ ટુર્નામેન્ટ માટેની ટીમની જાહેરાત પહેલાથી જ કરવામાં આવી હતી. જોકે, BCCIએ હવે તેમાં ફેરફાર કર્યો છે. ત્યારે આ લેખમાં જાણીશું કે, ટીમમાંથી કોણ બહાર થયું છે અને કોને એન્ટ્રી મળી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/anukul-roy-replace-harsh-dubey-india-a-squad-for-tri-series-in-sri-lanka-478726 ",
+    "time": "2026-05-21T11:07:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સરકારી કર્મચારીઓની લાગી બમ્પર લોટરી! મોંઘવારી ભથ્થું વધીને થયું 60%, જાણો કેટલો વધશે પગાર",
+    "desc": "ઉત્તર પ્રદેશના લાખો રાજ્ય કર્મચારીઓ માટે ગુડ ન્યૂઝ આવ્યા છે. લાંબી રાહ જોયા બાદ સરકારે મોંઘવારી ભથ્થામાં (DA) 2 ટકાના વધારાની જાહેરાત કરી દીધી છે, જેનાથી હવે તે 58 ટકાથી વધીને 60 ટકા થઈ ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/up-govt-government-employees-bumper-lottery-dearness-allowance-increased-to-60-percent-know-how-much-salary-will-increase-478724 ",
+    "time": "2026-05-21T10:24:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5 હાર પછી 7 મેચમાં 6 જીત, KKRએ પલટી નાખ્યું પ્લેઓફનું સમીકરણ, જાણો કેવી રીતે પહોંચશે ટોપ-4માં",
+    "desc": "કોલકાતા નાઈટ રાઈડર્સે 5 હાર બાદ તેની છેલ્લી સાત મેચોમાંથી છ મેચ જીત મેળવી છે. જેના કારણે ટીમ પાસે હવે પ્લેઓફમાં સ્થાન મેળવવાની સુવર્ણ તક છે. ત્યારે KKR કેવી રીતે પ્લેઓફમાં પહોંચી શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-kkr-playoff-qualification-scenario-after-match-against-mumbai-indians-478712 ",
+    "time": "2026-05-21T09:30:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AIનો ઉપયોગ કરો, પરંતુ માણસના વિચારને ક્યારેય ઓછા ન આંકો: ડો. સુભાષ ચંદ્રા",
+    "desc": "એસ્સેલ ગ્રુપે આજે પોતાની ઐતિહાસિક જર્નીના 100 વર્ષ પૂરા કર્યા અને તે નિમિત્તે આજે યોજાયેલા એક કાર્યક્રમમાં એસ્સેલ ગ્રુપના ચેરમેન ડો. સુભાષ ચંદ્રાએ સંબોધન કર્યું. તેમણે આર્ટિફિશિયલ ઈન્ટેલિજન્સ પર એક સ્પષ્ટ સંદેશ પણ આપ્યો કે AI નો ઉપયોગ કરો...પરંતુ માણસના વિચારને ક્યારેય ઓછા ન આંકો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/dr-subhash-chandra-speaks-on-ai-and-human-thinking-100-years-of-essel-group-478705 ",
+    "time": "2026-05-21T09:05:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Esselgroup@100 : કેવી રીતે પડ્યું &amp;#039;Essel&amp;#039; ગ્રુપનું નામ...જાણો 100 વર્ષના વ્યવસાયિક વારસાની કહાની",
+    "desc": "વર્ષ 2026માં Essel Groupએ પોતાની સફળતાના 100 વર્ષ પૂર્ણ કર્યા છે. આ અવસરે ચેરમેન ડૉ. સુભાષ ચંદ્રાએ ગ્રુપના નામ પાછળની રસપ્રદ કહાની શેર કરી હતી. શરૂઆતમાં કંપનીનું નામ 'સુભાષ ચંદ્રા લક્ષ્મીનારાયણ' હતું, ત્યારે કેવી રીતે 'Essel' નામ પડ્યું, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-story-behind-the-name-essel-group-and-100-years-of-business-legacy-478703 ",
+    "time": "2026-05-21T08:59:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રિયલ ક્રાઈમ સ્ટોરી પર આધારિત Zee5 ની સાઈકો થ્રિલર, આ ફિલ્મ જોતાં જોતાં હાથ-પગ ઠંડા પડી જશે",
+    "desc": "જો તમને ડાર્ક, સાઈકોથ્રિલર અને સત્ય ઘટના પર આધારિત ફિલ્મો જોવાનો શોખ છે તો zee5 પર આજે જ આ ફિલ્મ જુઓ. આ ફિલ્મમાં કોઈ હીરો નથી પણ ફિલ્મની અભિનેત્રીઓએ એટલો અદ્ભુત અભિનય કર્યો છે કે તેને જોતાં જોતાં તમારા હાથ-પગ ઠંડા પડી જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/underrated-movie-of-zee5-posham-pa-dark-thriller-movie-based-on-true-murder-crime-hindi-thriller-movie-zee5-478704 ",
+    "time": "2026-05-21T08:50:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘નિશ્ચિતતા સાથે સતત આગળ વધતા રહો,’ Essel ગ્રુપના 100 વર્ષ પર ડૉ. સુભાષ ચંદ્રાનું સંબોધન",
+    "desc": "એસેલ ગ્રુપે તમામ ક્ષેત્રોમાં છેલ્લા 10 દાયકા દરમિયાન વેલ્યુ ક્રિએશનનો એક પ્રભાવશાળી ટ્રેક રેકોર્ડ બનાવ્યો છે. ગ્રાહકોને સર્વશ્રેષ્ઠ સેવાઓ આપવાના ઉદ્દેશ્ય સાથે ગ્રુપની કંપનીઓ હંમેશાં નવીનતમ સંશોધનો અને શ્રેષ્ઠ મૂલ્ય પ્રદાન કરવાનો પ્રયાસ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/keep-moving-with-certainty-dr-subhash-chandra-as-essel-group-turns-100-478700 ",
+    "time": "2026-05-21T07:53:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PM સૂર્ય ઘર યોજનામાં કેટલી મળશે સબસિડી? જાણો કેવી રીતે ઉઠાવવો સ્કીમનો ફાયદો; વીજળીનું બિલ થશે ઓછું",
+    "desc": "મફત વીજળી યોજના અંતર્ગત દેશભરમાં સૌર ઊર્જાને પ્રોત્સાહન આપવાની દિશામાં ઝડપથી કામ કરવામાં આવી રહ્યું છે. આ યોજનાનો ઉદ્દેશ્ય દેશભરમાં એક કરોડ ઘરોની છત પર સોલર પેનલ લગાવીને ગ્રાહકોને દર મહિને 300 યુનિટ સુધી મફત વીજળી પૂરી પાડવાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-much-subsidy-will-be-available-under-the-pm-surya-ghar-scheme-learn-how-to-avail-the-benefits-of-the-scheme-478699 ",
+    "time": "2026-05-21T07:30:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મુંબઈ ઈન્ડિયન્સને આ ભૂલ પડી ગઈ ભારે ! હાથમાં આવેલી તક ગુમાવી, હાર્દિક પંડ્યા તેના ખેલાડીઓથી જ નારાજ",
+    "desc": "IPL 2026માં બુધારે મુંબઈ ઈન્ડિયન્સ અને કોલકાત્તા નાઈટ રાઈડર્સ વચ્ચે મેચ યોજાઈ હતી. આ મેચમાં મુંબઈ ઈન્ડિયન્સને કારમી હારનો સામનો કરવો પડ્યો હતો. આ મેચમાં ટીમે એક મોટી ભૂલ કરી હતી, જે ટીમ માટે મોંઘી સાબિત થઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/mumbai-indians-loss-reason-dipak-chahar-dropped-easy-catch-hardik-pandya-reaction-viral-478697 ",
+    "time": "2026-05-21T07:16:23.000Z"
+  },
+  {
     "cat": "Business",
     "title": "PM મોદીની મહત્વપૂર્ણ બેઠક પહેલા જાહેર થયા પેટ્રોલ-ડીઝલના નવા ભાવ, જાણો શું છે હાલના ભાવ",
     "desc": "ક્રૂડ ઓઇલના વધતા ભાવ વચ્ચે પીએમ નરેન્દ્ર મોદી આજે પેટ્રોલ અને ડીઝલના ભાવ તેમજ ઓઈલ કંપનીઓને થયેલા નુકસાનની સમીક્ષા કરવા માટે એક મોટી બેઠક યોજવાના છે. ત્યારે આ બેઠક પહેલા પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર થયા છે.",
@@ -225,15 +315,6 @@ const newsData_gu = [
     "time": "2026-05-20T05:26:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સરકારી કર્મચારીઓને પ્રમોશન માંગવાનો કોઈ અધિકાર નથી, સુપ્રીમ કોર્ટનો મહત્વનો ચુકાદો",
-    "desc": "દેશની સર્વોચ્ચ અદાલત સુપ્રીમ કોર્ટે સરકારી કર્મચારીઓના પ્રમોશન સંબંધિત એક મોટો ચુકાદો આપ્યો છે. જે સરકારી કર્મચારીઓ જાણવો ખુબ જરૂરી છે. કોર્ટે કહ્યું કે સરકારી કર્મચારીઓને જૂના નિયમો હેઠળ જ પ્રમોશન મેળવવાનો કોઈ કાનૂની હક નથી. કોર્ટે કહ્યું કે સરકારને પ્રશાસનિક સુધારાઓ માટે નિમણૂક પ્રક્રિયા અને સેવા નિયમોમાં ફેરફાર કરવાી પૂરી શક્તિ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/supreme-court-big-verdict-on-government-employees-promotion-478566 ",
-    "time": "2026-05-20T04:54:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "બિહાર કરતા આઠ ગણી વધારે છે આ બંને રાજ્યોની માથાદીઠ આવક, જાણો બેરોજગારીમાં ગુજરાતનો નંબર",
     "desc": "ભારતનું અર્થતંત્ર ઝડપથી વિકસી રહ્યું છે. ઉત્તર પ્રદેશ સહિત પાંચ રાજ્યો ભારતના GDPમાં આશરે 48% હિસ્સો ધરાવે છે, જ્યારે નીચેના 10 રાજ્યો 3% કરતા ઓછું યોગદાન આપે છે. માથાદીઠ આવકની દ્રષ્ટિએ બિહાર સૌથી નીચે ક્રમે છે, જ્યારે બે રાજ્યો તેનાથી આઠ ગણા વધારે છે.",
@@ -250,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/punjabi-singer-inder-kaur-body-found-in-canal-crime-ludhiana-family-doubt-on-one-sided-lover-from-caneda-478565 ",
     "time": "2026-05-20T03:35:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM મોદી અને ટ્રમ્પની આવતા મહિને થશે મુલાકાત, જાણો કયા દેશમાં મળશે",
-    "desc": "ભારતના વડા પ્રધાન નરેન્દ્ર મોદી અને અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ જૂનમાં દરમિયાન મળી શકે છે. આ સમાચાર એવા સમયે આવ્યા છે, જ્યારે હાલમાં જ અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ ચીનનો પ્રવાસ કર્યો છે. ત્યારે જોવાનું રહેશે કે પીએમ મોદી અને ડોનાલ્ડ ટ્રમ્પની મુલાકાતમાં ચીન વિશે કોઈ મુદ્દે ચર્ચા થશે કે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-and-trump-will-meet-next-month-know-in-which-country-they-will-meet-478552 ",
-    "time": "2026-05-20T03:24:29.000Z"
   },
   {
     "cat": "Business",
@@ -304,24 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/india-squad-for-test-and-odi-series-against-afghanistan-shubman-gill-rohit-sharma-virat-kohli-478499 ",
     "time": "2026-05-19T11:21:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સોના અને પેટ્રોલ પર પીએમ મોદીની અપીલને લોકો કેટલી હદ સુધી સાંભળી રહ્યા છે? જાણો લક્ષદીપના આંકડા દ્વારા",
-    "desc": "વડા પ્રધાન નરેન્દ્ર મોદીએ તાજેતરમાં નાગરિકોને આગામી વર્ષ માટે સોનું ખરીદવાથી દૂર રહેવાની અપીલ કરી હતી. કેટલાક લોકો પીએમ મોદીની પેટ્રોલ-ગોલ્ડ અપીલની અસર પર સવાલ ઉઠાવી રહ્યા છે. 2024માં પીએમ મોદીની લક્ષદ્વીપ મુલાકાતની તેની અસર સ્પષ્ટ થશે. ચાલો જાણીએ કે લક્ષદ્વીપના ડેટા શું દર્શાવે છે..",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/to-what-extent-are-people-listening-to-pm-modi-appeal-on-gold-and-petrol-find-out-through-lakshadweep-statistics-478495 ",
-    "time": "2026-05-19T10:34:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભારતમાં પેટ્રોલ-ડીઝલના ભાવ વધારવાનો અધિકાર કોની પાસે છે ? જાણો કોણ નક્કી કરે છે ફ્યુઅલના રેટ",
-    "desc": "દેશમાં પેટ્રોલ-ડીઝલના ભાવમાં સમયાંતરે વધારો ઘટાડો થતો હોય છે, તેથી લોકોના મનમાં વારંવાર આ પ્રશ્ન આવતો હોય છે કે ભારતમાં પેટ્રોલ અને ડીઝલના ભાવ કોણ નક્કી કરે છે. ત્યારે આ લેખમાં આ સવાલનો જવાબ જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/who-decides-the-prices-of-petrol-and-diesel-in-india-478494 ",
-    "time": "2026-05-19T10:23:04.000Z"
   },
   {
     "cat": "Tech",
@@ -475,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/top-10-safest-cars-in-india-check-the-list-before-buying-478333 ",
     "time": "2026-05-18T07:22:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઇંધણ સંકટના કારણે બદલાઈ જશે IPL 2026નું શેડ્યૂલ ? અરૂણ ધૂમલે તોડ્યું મૌન",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા સંઘર્ષ વચ્ચે પીએમ મોદીની ઇંધણ બચાવવાની અપીલ બાદ વેપારી સંગઠન CTIએ IPL 2026ના શેડ્યૂલમાં ફેરફાર કરવા અથવા બંધ બારણે મેચો યોજવા રમતગમત મંત્રીને પત્ર લખ્યો છે. આ અંગે હવે IPL ચેરમેન અરૂણ ધૂમલનું નિવેદન સામે આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fuel-shortage-to-cause-rescheduling-of-ipl-2026-arun-dhumal-breaks-silence-478323 ",
-    "time": "2026-05-18T06:40:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -718,23 +763,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-thriller-mystery-movie-in-hindi-on-ott-jio-hotstar-sookshmadarshini-477739 ",
     "time": "2026-05-13T12:44:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "16 વર્ષ પછી છોડી રહી છું ભારત, પણ ઈરાન પાછી નહીં ફરું, અભિનેત્રી મંદાના કરીમીને મોતનો ડર",
-    "desc": "16 વર્ષ ભારતમાં રહ્યા બાદ, મંદાના કરીમીએ સુરક્ષા કારણોસર દેશ છોડવાનો નિર્ણય લીધો છે. તેમણે ઇન્સ્ટાગ્રામ પર ચાહકોને જણાવ્યું હતું કે ભારત તેમના માટે બીજા ઘર જેવું છે. ભારત છોડતાં તે ભાવુક થઈ ગઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/i-am-leaving-india-after-16-years-but-will-not-return-to-iran-actress-mandana-karimi-fears-death-477704 ",
-    "time": "2026-05-13T09:40:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મૌની રોયએ સૂરજ નાંબિયારને કર્યો અનફોલો, એક્સ્ટ્રા મેરિટલ અફેર અને ડિવોર્સની ચર્ચાએ પકડ્યું જોર",
-    "desc": "મૌની રોય અને તેના પતિ સૂરજ નાંબિયાર વચ્ચે બધું બરાબર નથી ચાલી રહ્યું. જોરશોરથી ચર્ચાઓ થઈ રહી છે કે આ ક્યુટ કપલના લગ્ન તુટી ગયા છે. ડિવોર્સની વાત સામે આવ્યા પછી સૂરજ નાંબિયારે એવું કામ કર્યું જેનાથી સંબંધ તુટ્યાની અટકળોને વેગ મળ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-unfollows-suraj-nambiar-on-instagram-extramarital-affair-and-divorce-rumour-spread-477632 ",
-    "time": "2026-05-13T08:55:52.000Z"
   }
 ];
