@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "PM મોદીની મહત્વપૂર્ણ બેઠક પહેલા જાહેર થયા પેટ્રોલ-ડીઝલના નવા ભાવ, જાણો શું છે હાલના ભાવ",
+    "desc": "ક્રૂડ ઓઇલના વધતા ભાવ વચ્ચે પીએમ નરેન્દ્ર મોદી આજે પેટ્રોલ અને ડીઝલના ભાવ તેમજ ઓઈલ કંપનીઓને થયેલા નુકસાનની સમીક્ષા કરવા માટે એક મોટી બેઠક યોજવાના છે. ત્યારે આ બેઠક પહેલા પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર થયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-prices-today-pm-modi-key-meeting-for-fuel-know-latest-rate-in-your-city-478695 ",
+    "time": "2026-05-21T06:33:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વંદે માતરમ્ પર BJP સરકારનો મોટો નિર્ણય, જાણો બંગાળમાં CM સુવેન્દુ અધિકારીએ 12 દિવસમાં કરી કઈ 11 જાહેરાત?",
+    "desc": "આઝાદી પછી બંગાળમાં પહેલીવાર ભાજપ (BJP) ની સરકાર બની છે અને CM સુવેન્દુ અધિકારી ફૂલ એક્શન મોડમાં છે. સરકાર બન્યાને 12 દિવસ થઈ ગયા છે અને આ 12 દિવસમાં સુવેન્દુની સરકારે 11 મોટા નિર્ણયો લઈને દેશવાસીઓને ચોંકાવી દીધા છે અને ભાજપના ઈરાદા પણ સ્પષ્ટ કરી દીધા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bjp-governments-major-decision-on-vande-mataram-11-announcements-did-cm-suvendu-adhikari-make-in-bengal-within-just-12-days-478693 ",
+    "time": "2026-05-21T06:25:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Airtel યુઝર્સની મોજ! એક જ રિચાર્જમાં ચાલશે 2 SIM, સાથે મળશે આ OTTના પ્રાઇમ બેનિફિટ્સ",
+    "desc": "Airtel પોતાના ગ્રાહકો માટે એક એવો શાનદાર પોસ્ટપેડ પ્લાન લઈને આવ્યું છે, જેમાં એક જ રિચાર્જ પર બે સિમ કાર્ડનો ઉપયોગ કરી શકાય છે. આ પ્લાન કંપનીની ઓફિશિયલ વેબસાઇટ પર લિસ્ટ થયેલો છે અને ફેમિલી યુઝર્સ માટે ખૂબ જ ફાયદાકારક માનવામાં આવી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/airtel-users-rejoice-two-sims-on-a-single-recharge-plus-get-prime-benefits-for-these-ott-platforms-478682 ",
+    "time": "2026-05-21T05:52:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "નિવૃત્તિ બાદ ટેસ્ટ ક્રિકેટમાં વાપસી કરશે વિરાટ કોહલી ! કોચે આપ્યું અચાનક મોટું અપડેટ",
+    "desc": "વિરાટ કોહલીએ ટેસ્ટ ક્રિકેટમાંથી નિવૃત્તિ લીધાને એક વર્ષથી વધુ સમય વીતી ગયો હોવા છતાં ચાહકો હજુ પણ ઈચ્છે છે કે તે પોતાના નિર્ણય પર પુનર્વિચાર કરે અને ફરી એકવાર ભારત માટે આ ફોર્મેટમાં રમે. આ વચ્ચે વિરાટ કોહલીના બાળપણના કોચ રાજકુમાર શર્માએ એક મહત્વપૂર્ણ અપડેટ આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-virat-kohli-to-return-to-test-cricket-after-retirement-childhood-coach-gives-big-update-478681 ",
+    "time": "2026-05-21T05:28:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Esselgroup@100: ટાઈપરાઈટરથી ટેલિપ્રોમ્પ્ટર સુધી...કઈ રીતે મીડિયાની દુનિયાનો બેતાજ બાદશાહ બન્યું Essel Group",
+    "desc": "1926થી શરૂ થયેલી એસ્સેલ ગ્રુપની જર્ની અનેક પડકારો અને માઈલસ્ટોન પાર કરીને 100 વર્ષ બાદ 2026માં એક યાદગાર જર્ની બનીને ઉભરી છે. કઈ રીતે એસ્સેલ ગ્રુપ મીડિયાની દુનિયામાં એક આગવું સ્થાન મેળવીને બેતાજ બાદશાહ બન્યું એ પણ રોચક ગાથા છે. ખાસ જાણો આ 100 વર્ષની પ્રેરણાદાયક જર્નીની કહાની...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/esselgroup-100-years-from-typewriter-to-teleprompter-how-became-media-giant-478680 ",
+    "time": "2026-05-21T05:23:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બુલંદીની દાસ્તાન: એમ જ કોઈ નથી બની જતું નંબર-1, Essel ગ્રુપે જ્યારે સેટ કર્યા માર્કેટના નવા ટ્રેન્ડ",
+    "desc": "ભારતના કોર્પોરેટ ઇતિહાસમાં કેટલાક એવા નામ છે જેમણે માત્ર વ્યવસાય જ નહીં પરંતુ સમગ્ર ઉદ્યોગોની દિશા પણ બદલી નાખી. એસ્સેલ ગ્રુપ તે પસંદગીના જૂથોમાંથી એક છે. 1926માં હરિયાણામાં શરૂ થયેલી આ યાત્રાને હવે 100 વર્ષ પૂર્ણ થયા છે, અને આ સમય દરમિયાન જૂથે ભારતીય બજારમાં નવા વલણો સ્થાપિત કરનારા ઘણા પગલાં લીધા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/essel-group-of-100-years-dedication-innovation-and-bold-ideas-that-shaped-business-empire-478677 ",
+    "time": "2026-05-21T04:23:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;આદમપુર&amp;#039;ના A થી &amp;#039;ZEE&amp;#039; ના Z સુધી... Essel Groupએ 100 વર્ષોના ઈતિહાસમાં 190થી વધુ દેશોમાં સફળતાની પાંખો ફેલાવી",
+    "desc": "Essel Group તેના 100 વર્ષની અભૂતપૂર્વ યાત્રામાં... કે જે આદમપુરના એથી શરૂ થઈ અને ZEEના Z સુધી સફળતાપૂર્વક પહોંચી. આ યાત્રામાં અનેક જોખમો, પડકારો અને સંઘર્ષો રહ્યા પરંતુ પરિવારે હાર માનવાની જગ્યાએ અખૂટ સાહસ અને દ્રઢ નિશ્ચયથી દરેક સંકટને અવસરમાં પલટી નાખ્યો. જાણો આ સફળતાની કહાની....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/100-years-of-essel-group-spread-its-wings-of-success-to-over-190-countries-in-world-478675 ",
+    "time": "2026-05-21T03:58:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Esselgroup@100: જ્યારે સમયે કરી કદર, સમાજે આપ્યું સન્માન; ગૌરવની અનોખી ક્ષણો...",
+    "desc": "100 વર્ષના સફર દરમિયાન એસ્સેલ ગ્રુપે માત્ર વ્યવસાયમાં જ નહીં પરંતુ સામાજિક સેવામાં પણ પોતાનું આગવું સ્થાન બનાવ્યું છે. આંતરરાષ્ટ્રીય પુરસ્કારો, મીડિયા માન્યતા અને શિક્ષણ અને સશક્તિકરણ જેવા સામાજિક કાર્ય દ્વારા, ગ્રુપે માત્ર ભારતમાં જ નહીં પરંતુ વૈશ્વિક સ્તરે એક મજબૂત છબી બનાવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/essel-group-completes-100-years-a-legacy-of-growth-vision-global-impact-478676 ",
+    "time": "2026-05-21T03:50:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ચોમાસા અંગે સારા અને ખરાબ સમાચાર! જાણો ગુજરાતમાં ક્યારે આવશે વરસાદ? દેશમાં કેવું રહેશે ચોમાસું",
     "desc": "સમગ્ર દેશની નજર હવે ચોમાસાના આગમન પર છે. ચોમાસાના આગમન બાદ લોકોને ગરમીથી રાહત મળી શકે છે. આ વર્ષે કેરળમાં ચોમાસું જલ્દી પહોંચવાની સંભાવના વ્યક્ત કરવામાં આવી છે. પરંતુ ચોમાસાને લઈને સારા અને ખરાબ બંને સમાચાર સામે આવ્યા છે.",
@@ -252,24 +324,6 @@ const newsData_gu = [
     "time": "2026-05-19T10:23:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "આધાર કાર્ડ ધારકો માટે ખુશખબર, UIDAI એ લંબાવી ફ્રીમાં અપડેટ કરવાની તારીખ",
-    "desc": "દેશભરના આધાર કાર્ડ ધારકો માટે સારા સમાચાર છે. UIDAI એ કોઈ પણ ફી ચૂકવ્યા વિના આધાર કાર્ડને ઓનલાઈન અપડેટ કરવાની ડેડલાઈન (અંતિમ તારીખ) લંબાવી દીધી છે. લોકો UIDAI ની ઓફિશિયલ વેબસાઈટ myAadhaar પર ઓનલાઈન અરજી કરીને કોઈ પણ ફી આપ્યા વગર પોતાનું આધાર કાર્ડ અપડેટ કરાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/new-aadhaar-update-good-news-for-aadhaar-card-holder-uidai-extends-deadline-for-free-updates-478493 ",
-    "time": "2026-05-19T10:08:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શું મંદિરોના ખજાનામાં પડેલું 4000 ટન સોનું સરકાર કરશે જપ્ત? આવી ગયો નાણામંત્રાલયનો જવાબ",
-    "desc": "ભારતમાં સોના સાથે જોડાયેલા ઘણા નિયમોમાં ફેરફાર કરવામાં આવ્યો છે. સોનાની આયાત પર શુલ્ક વધારવાને લઈને લિમિટ નક્કી કરવામાં આવી છે. આ વચ્ચે સમાચાર આવ્યા કે સરકાર મંદિરોમાં રાખેલા સોનાને મોનેટાઇઝેશન સ્કીમ સાથે જોડી શકે છે. હવે તેના પર નાણામંત્રાલયનો જવાબ આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/4000-tons-of-gold-stored-in-temple-will-the-government-seize-it-finance-ministry-responds-to-gold-monetization-scheme-478492 ",
-    "time": "2026-05-19T09:58:07.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "8000mAh બેટરી સાથે આવી રહ્યો છે Realme 16T! મિરર સેલ્ફી કેમેરા જેવા દમદાર ફીચર્સ, કિંમત થઈ લીક",
     "desc": "8000mAh બેટરી, 144Hz ડિસ્પ્લે અને AI કેમેરા…Realme 16T લોન્ચ થતા પહેલા જ ચર્ચામાં આવી ગયો છે. કિંમત લીક થયા બાદ હવે સ્પષ્ટ થઈ ગયું છે કે આ ફોન મિડ-રેન્જ માર્કેટમાં મોટી ટક્કર આપવા જઈ રહ્યો છે.",
@@ -288,15 +342,6 @@ const newsData_gu = [
     "time": "2026-05-19T08:44:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સરકારી કર્મચારીઓ અને પેન્શનર્સ માટે અત્યંત મહત્વના સમાચાર, ક્યારથી મળશે વધેલો પગાર અને પેન્શન?",
-    "desc": "આઠમાં પગાર પંચ અંગે કેન્દ્ર સરકારના કર્મચારીઓ ખુબ જ આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે. તેની નાનામાં નાની અપડેટ અંગે જાણવામાં પણ તેઓ રસ ધરાવે છે. કર્મચારીઓમાં એ વાત વિશે ઉત્સુકતા રહેતી હોય છે કે તેમનો પગાર કેટલો વધશે અને વધેલો પગાર ક્યારથી મળવાનો શરૂ થશે? હવે આ વિશે એક મોટું અપડેટ સામે આવ્યું છે. ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-big-update-for-central-government-employees-regarding-revised-salary-478467 ",
-    "time": "2026-05-19T08:39:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "હાર્દિક પંડ્યા MI છોડીને KKRમાં જોડાશે ? એક ફોટાના કારણે શરૂ થયો અટકળોનો દોર",
     "desc": "IPL 2026માં હાર્દિક પંડ્યાનું પ્રદર્શન નિરાશાજનક રહ્યું છે અને એવી અફવાઓ પણ ફેલાઈ રહી છે કે તે મુંબઈ ઇન્ડિયન્સ છોડી શકે છે. આગામી સીઝન પહેલા તે બીજી ટીમમાં ટ્રેડ થાય તેવી શક્યતા છે. ત્યારે આ બધાની વચ્ચે એક ફોટો સામે આવ્યો છે, જેના કારણે હાર્દિકના KKRમાં જોડાવા અંગે અટકળો શરૂ થઈ છે.",
@@ -304,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/will-hardik-pandya-leave-mi-and-join-kkr-a-photo-has-sparked-speculation-478466 ",
     "time": "2026-05-19T08:32:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોરોના બાદ શું ભારતમાં પણ વધી રહ્યો છે ઈબોલા વાયરસ? જાણો કેવી રીતે ફેલાય છે અને કેટલો ખતરનાક છે આ વાયરસ",
-    "desc": "દુનિયામાં વધુ એક વાયરસ ફેલાવા લાગ્યો છે, જેને લઈને લોકોમાં ડરનો માહોલ સર્જાઈ રહ્યો છે. તેવામાં અહીં જાણો કે શું ભારત પણ ઈબોલા વાયરસની ઝપેટમાં છે કે નહીં, અને આ વાયરસથી બચવા માટે કઈ સાવચેતીઓ રાખવી જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/is-the-ebola-virus-on-the-rise-in-india-as-well-learn-how-the-ebola-virus-spreads-and-just-how-dangerous-it-is-478457 ",
-    "time": "2026-05-19T07:26:33.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +387,6 @@ const newsData_gu = [
     "time": "2026-05-19T06:17:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારતીય નાગરિકતા મેળવવાના નિયમો બદલાયા, પૂરી કરવી પડશે આ નવી શરત; વાંચો સરકારનો નિર્ણય",
-    "desc": "ભારતીય નાગરિકતા મેળવવી હવે સરળ નહીં હોય, કારણ કે ભારત સરકારે નાગરિકતાના નિયમોમાં મહત્વપૂર્ણ ફેરફાર કર્યો છે. ગૃહ મંત્રાલય (MHA) એ નવા ફેરફારોનું ડ્રાફ્ટ નોટિફિકેશન પણ બહાર પાડી દીધું છે. નવા નિયમો અનુસાર, નાગરિકતા મેળવવા માટે હવે એક ખાસ શરત પૂરી કર્યા પછી જ અરજી મંજૂર કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/rules-for-getting-indian-citizenship-have-changed-this-new-condition-will-have-to-be-fulfilled-read-the-governments-decision-478448 ",
-    "time": "2026-05-19T06:09:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "હોર્મુઝ સંકટ વચ્ચે આવ્યા ખુશખબર, હવે કોઈ પણ રોકટોક વગર ભારત આવશે રશિયન ઓઈલ",
     "desc": "હોર્મુઝ સંકટના કારણે ભારતમાં પણ ધીરે ધીરે હવે અસર જોવા મળી રહી છે. એક જ અઠવાડિયામાં પેટ્રોલ અને ડીઝલના ભાવ બેવાર વધ્યા છે. અનેક ઠેકાણે સીએનજીના ભાવ પણ વધ્યા છે. આ બધા વચ્ચે ભારત માટે એક સારા સમાચાર પણ આવ્યા છે.",
@@ -367,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/good-news-for-india-as-us-extends-sanctions-waiver-for-russian-oil-check-details-for-more-update-478446 ",
     "time": "2026-05-19T05:54:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;સમગ્ર દેશના રસ્તાઓ પરથી રખડતા કૂતરાઓને હટાવવામાં આવશે&amp;#039;, સુપ્રીમ કોર્ટનો મોટો નિર્ણય",
-    "desc": "દેશભરના શ્વાન પ્રેમીઓ (ડૉગ લવર્સ)ને આજે સુપ્રીમ કોર્ટ તરફથી મોટો ઝટકો લાગ્યો છે, કારણ કે સુપ્રીમ કોર્ટે રખડતા કૂતરાઓને લઈને વર્ષ 2025માં લાગુ કરવામાં આવેલો આદેશ યથાવત રાખ્યો છે. આમાં કોઈપણ પ્રકારનો ફેરફાર કરવાનો ઇનકાર કરીને તમામ અરજીઓ ફગાવી દેવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/stray-dogs-will-be-removed-from-the-roads-of-the-entire-country-a-major-decision-of-the-supreme-court-478445 ",
-    "time": "2026-05-19T05:52:42.000Z"
   },
   {
     "cat": "Sports",
@@ -475,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-dark-secret-suicide-or-murder-sushant-singh-rajput-unfinished-story-478319 ",
     "time": "2026-05-18T06:06:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અફઘાનિસ્તાન સામેની સિરીઝ માટે આવતીકાલે થશે ટીમ ઈન્ડિયાની જાહેરાત, આ ખેલાડીઓને મળશે તક",
-    "desc": "IPL બાદ ટીમ ઈન્ડિયા જૂન 2026માં ઘરઆંગણે અફઘાનિસ્તાન સામે એક ટેસ્ટ મેચ અને ત્રણ મેચની વન-ડે આંતરરાષ્ટ્રીય શ્રેણી રમવાનું છે. આ માટે ટીમની જાહેરાત આવતીકાલે થવાની છે, ત્યારે કયા ખેલાડીઓને ભારતીય ટીમમાં તક મળી શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-test-and-odi-squad-against-afghanistan-shubman-gill-virat-kohli-478309 ",
-    "time": "2026-05-18T05:22:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -682,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-announced-divorce-suraj-nambiar-deleted-all-photos-of-mouni-roy-from-his-instagram-477906 ",
     "time": "2026-05-15T02:58:43.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Thar ખરીદનારાઓ માટે ખુશખબર ! કંપની આ મહિને આપી રહી છે 1 લાખથી વધુનું ડિસ્કાઉન્ટ, જાણો નવી કિંમત",
-    "desc": "Thar ખરીદવાનું વિચારી રહેલા લોકો માટે સારા સમાચાર સામે આવ્યા છે. કંપની રૂપિયા 1 લાખથી વધુનું ડિસ્કાઉન્ટ ઓફર કરી રહી છે, ત્યારે આ લેખમાં જાણીશું કે કંપની કયા મોડલ પર કેટલા રૂપિયાનું ડિસ્કાઉન્ટ આપી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/mahindra-thar-roxx-discounts-more-than-1-lakh-in-may-2026-477822 ",
-    "time": "2026-05-14T07:52:16.000Z"
   },
   {
     "cat": "Entertainment",

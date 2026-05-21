@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New all-time record set in IPL following KKR's win over Mumbai at Eden Gardens",
+    "desc": "Kolkata Knight Riders’ four-wicket win over Mumbai Indians at Eden Gardens has not only kept their playoff hopes alive but also pushed IPL 2026 into record territory for successful run chases in the history of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-all-time-record-set-in-ipl-following-kkr-s-win-over-mumbai-at-eden-gardens-2026-05-21-1041911",
+    "time": "2026-05-21T04:39:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma's ODI future is not secured as BCCI worried about his fitness status: Reports",
+    "desc": "Even though former India captain Rohit Sharma is picked for the upcoming three-match ODI series against Afghanistan, his fitness remains a major concern. The 39-year-old has been added to the subject of fitness as the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-s-odi-future-is-not-secured-as-bcci-worried-about-his-fitness-status-reports-2026-05-21-1041902",
+    "time": "2026-05-21T03:36:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan's Mohammad Amir granted UK visa, eligible to play IPL next year",
     "desc": "Former Pakistan pacer Mohammad Amir could now feature in the IPL auction after acquiring British citizenship. The left-arm pacer stepped away from international cricket for the second time following the 2024 T20 World Cup. He...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-broadcast-still-in-jeopardy-dd-sports-also-rejects-request-2026-05-20-1041863",
     "time": "2026-05-20T15:35:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cameron Green, Saurabh Dubey rattle Mumbai Indians' top order in KKR’s must-win clash in IPL 2026",
-    "desc": "Cameron Green endured a difficult first half of IPL 2026, facing heavy criticism for his limited contribution with the ball. Even after he began bowling regularly, the Australian all-rounder struggled to make an impact, leading...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cameron-green-saurabh-dubey-rattle-mumbai-indians-top-order-in-kkr-s-must-win-clash-in-ipl-2026-2026-05-20-1041859",
-    "time": "2026-05-20T14:43:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Matheesha Pathirana not playing vs Mumbai Indians in KKR's must-win clash in IPL 2026?",
-    "desc": "Kolkata Knight Riders are without Matheesha Pathirana for their crucial IPL 2026 clash against Mumbai Indians. The Sri Lankan fast bowler, who made his debut for KKR against Gujarat Titans, walked off after bowling only...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-vs-mumbai-indians-in-kkr-s-must-win-clash-in-ipl-2026-2026-05-20-1041853",
-    "time": "2026-05-20T13:54:06.000Z"
   }
 ];
