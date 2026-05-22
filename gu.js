@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "બોલ્ડ લુક અને પ્રીમિયમ ફીચર્સ સાથે આવી રહી છે Nissanની આ નવી SUV, ક્રેટા-સેલ્ટોસને આપશે ટક્કર",
+    "desc": "ભારતીય SUV માર્કેટમાં ટૂંક સમયમાં જ એક મોટો ધમાકો થવા જઈ રહ્યો છે. Nissan પોતાની નવી મિડ-સાઈઝ SUV Tekton લોન્ચ કરવા જઈ રહી છે, જે સીધી રીતે Hyundai Creta અને Kia Seltosને ટક્કર આપશે. ચાલો જાણીએ તેની વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/new-nissan-tekton-suv-debut-on-9-july-what-to-expect-478821 ",
+    "time": "2026-05-22T06:31:48.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ભારતની 5 સૌથી સસ્તી CNG કાર, ઓછા ખર્ચમાં વધુ માઇલેજ, કિંમત 4.62 લાખથી શરૂ",
+    "desc": "પેટ્રોલ-ડીઝલની કિંમતો આજે કાર ખરીદનારા માટે એક ચિંતાનો વિષય બની રહી છે. તેવામાં પેટ્રોલ કારના મુલાબકે CNG કારો એક સસ્તો અને સારો વિકલ્પ બની રહી છે. ફેક્ટરી-ફિટેડ સીએનજી મોડલ ઓછા ખર્ચમાં વધુ ચલાવી શકાય છે અને દરરોજના ઉપયોગ માટે વિશ્વાસપાત્ર માનવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/india-5-most-affordable-cng-cars-high-mileage-at-low-cost-prices-start-at-%E2%82%B94-62-lakhs-478807 ",
+    "time": "2026-05-22T06:25:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Awas Yojana 2.0: 1 કરોડ લોકોને મળશે ઘરનું ઘર, તમે પણ કરી શકો છો અરજી, જાણો વિગત",
+    "desc": "પ્રધાનમંત્રી આવાસ યોજના શહેરી 2.0 (PMAY-U 2.0) હેઠળ સરકાર 1 કરોડ નવા પાક્કા મકાન આપવા જઈ રહી છે. જો તમે પણ શહેરમાં તમારા સપનાનું ઘર બનાવવા કે ખરીદવા ઈચ્છો છો તો સત્તાવાર પોર્ટલ પર અરજી કરી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pradhan-mantri-awas-yojana-online-application-process-for-1-crore-new-houses-started-know-details-478812 ",
+    "time": "2026-05-22T06:15:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કોણ છે ગુજરાતી ફિલ્મ ‘જયેશભાઈ જોરદાર’ ફેમ હેમંત મોદી? જાણો આશ્ચર્યજનક હાઈ-પ્રોફાઈલ કારકિર્દી, હવે આખી જિંદગી જેલમાં!",
+    "desc": "Who Is Hemant Modi? હત્યાના કેસમાં આજીવન કેદની સજામાંથી ફરાર થયા બાદ 12 વર્ષ સુધી નાસતા ફરતા હેમંત મોદી ઉર્ફે હેમંત વૈષ્ણવની અમદાવાદમાંથી ધરપકડ કરવામાં આવી છે. અમદાવાદ ક્રાઈમ બ્રાન્ચના અધિકારીઓએ તેને ઘી કાંટા મેટ્રો સ્ટેશન પાસેથી ઝડપી પાડ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/who-is-gujarati-film-jayeshbhai-jordaar-fame-hemant-modi-ranveer-singh-co-star-arrested-after-skipping-parole-for-over-a-decade-478809 ",
+    "time": "2026-05-22T05:43:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મુખ્તાર અંસારીનો પુત્ર કોકરોચ જનતા પાર્ટીમાંથી લડશે ચૂંટણી? Video થયો વાયરલ",
+    "desc": "હાલ જો કોઈ પાર્ટીની સોશિયલ મીડિયામાં સૌથી વધુ ચર્ચા હોય તો તે છે કોકરોચ જનતા પાર્ટી (CJP). હવે મુખ્તાર અંસારીના પુત્ર અને મઉના વિધાયક અબ્બાસ અંસારીએ પણ આ પાર્ટીનો ઉલ્લેખ કર્યો છે. શું તેઓ આગામી ચૂંટણી આ પાર્ટીના ચિન્હ પર લડશે? જાણો તેમણે શું કહ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/aabas-ansari-on-cockroach-janata-party-cjp-statement-gone-viral-watch-video-478808 ",
+    "time": "2026-05-22T05:32:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP કેટલા વર્ષ પછી સત્તામાંથી બહાર થઈ જશે? એક્સિસ માય ઈન્ડિયાના ફાઉન્ડર પ્રદીપ ગુપ્તાની મોટી ભવિષ્યવાણી",
+    "desc": "જાણીતા ચૂંટણી વિશ્લેષક અને એક્સિસ માઈ ઈન્ડિયાના ચીફ પ્રદીપ ગુપ્તાના જણાવ્યા અનુસાર, દેશના રાજકારણમાં ભારતીય જનતા પાર્ટી (BJP)નો દબદબો આગામી 20 વર્ષ સુધી કાયમ રહી શકે છે. ગુપ્તાએ જણાવ્યું કે ભારતીય લોકશાહીમાં પક્ષો લાંબા સમયના ચક્રમાં રાજ કરે છે. જેમ ક્યારેક કોંગ્રેસનું એકચક્રી શાસન હતું, તેમ જ અત્યારે ભાજપનો દોર ચાલી રહ્યો છે. જો કે, તેમણે જનતાની વધતી જતી અપેક્ષાઓ અને વિપક્ષ સામેના પડકારોનો પણ ઉલ્લેખ કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bjps-rule-will-last-for-the-next-20-years-axis-my-indias-pradeep-gupta-predicts-what-did-he-say-about-the-congress-478806 ",
+    "time": "2026-05-22T05:24:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દેશમાં અહીં મળે છે સૌથી સસ્તું પેટ્રોલ-ડીઝલ, જાણો અમદાવાદ સહિત શહેરોમાં આજના ભાવ",
+    "desc": "ઓઈલ કંપનીઓએ સવારે 6 વાગે ફરીથી પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કર્યા છે. દેશમાં સૌથી સસ્તું અને સૌથી મોંઘુ પેટ્રોલ ડીઝલ ક્યાં વેચાય છે અને ગુજરાતના મુખ્ય શહેરોમાં આજે પેટ્રોલ ડીઝલના શું ભાવ છે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/where-is-the-cheapest-petrol-and-diesel-sold-in-india-know-petrol-price-in-ahmedabad-today-478803 ",
+    "time": "2026-05-22T04:50:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG સંકટની અફવાઓ વચ્ચે સરકારે આપ્યા મોટા ખુશખબર, જાણો અમદાવાદ સહિત શહેરોમાં શું છે બાટલાનો ભાવ",
+    "desc": "મીડિલ ઈસ્ટમાં ભારે તણાવ અને સંકટને પગલે અનેક દેશોમાં એલપીજી, પેટ્રોલ, ડીઝલની સમસ્યાઓ જોવા મળી રહી છે, જો કે ભારત સરકારના સતત પ્રયત્નો છે કે દેશના લોકોને આ મામલે કોઈ સમસ્યા ન થાય. આ બધા વચ્ચે એલપીજી પર એક સારા સમાચાર આવ્યા છે. આજના એલપીજી બાટલાના ભાવ પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/middle-east-crisis-good-news-about-lpg-check-latest-ahmedabad-lpg-cylinder-pirce-478797 ",
+    "time": "2026-05-22T03:24:39.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ટ્વિશા શર્માની છેલ્લી ફિલ્મ OTT પર કરી રહી છે ટ્રેંડ, અભિનેત્રી છેલ્લી ફિલ્મ પણ હતી મર્ડર મિસ્ટ્રી",
     "desc": "અભિનેત્રી, મોડલ ટ્વિશા શર્માના મોતની ઘટના પછી તેની છેલ્લી ફિલ્મ ટ્રેંડ કરવા લાગી છે. જોગાનુજોગ ટ્વિશા શર્માની છેલ્લી ફિલ્મ પણ એક મર્ડર મિસ્ટ્રી થ્રિલર ફિલ્મ છે. 2021 માં આવેલી આ ફિલ્મ હવે ઓટીટી પર ટ્રેંડ થઈ રહી છે.",
@@ -196,33 +268,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/essel-group-of-100-years-dedication-innovation-and-bold-ideas-that-shaped-business-empire-478677 ",
     "time": "2026-05-21T04:23:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;આદમપુર&amp;#039;ના A થી &amp;#039;ZEE&amp;#039; ના Z સુધી... Essel Groupએ 100 વર્ષોના ઈતિહાસમાં 190થી વધુ દેશોમાં સફળતાની પાંખો ફેલાવી",
-    "desc": "Essel Group તેના 100 વર્ષની અભૂતપૂર્વ યાત્રામાં... કે જે આદમપુરના એથી શરૂ થઈ અને ZEEના Z સુધી સફળતાપૂર્વક પહોંચી. આ યાત્રામાં અનેક જોખમો, પડકારો અને સંઘર્ષો રહ્યા પરંતુ પરિવારે હાર માનવાની જગ્યાએ અખૂટ સાહસ અને દ્રઢ નિશ્ચયથી દરેક સંકટને અવસરમાં પલટી નાખ્યો. જાણો આ સફળતાની કહાની....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/100-years-of-essel-group-spread-its-wings-of-success-to-over-190-countries-in-world-478675 ",
-    "time": "2026-05-21T03:58:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Esselgroup@100: જ્યારે સમયે કરી કદર, સમાજે આપ્યું સન્માન; ગૌરવની અનોખી ક્ષણો...",
-    "desc": "100 વર્ષના સફર દરમિયાન એસ્સેલ ગ્રુપે માત્ર વ્યવસાયમાં જ નહીં પરંતુ સામાજિક સેવામાં પણ પોતાનું આગવું સ્થાન બનાવ્યું છે. આંતરરાષ્ટ્રીય પુરસ્કારો, મીડિયા માન્યતા અને શિક્ષણ અને સશક્તિકરણ જેવા સામાજિક કાર્ય દ્વારા, ગ્રુપે માત્ર ભારતમાં જ નહીં પરંતુ વૈશ્વિક સ્તરે એક મજબૂત છબી બનાવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/essel-group-completes-100-years-a-legacy-of-growth-vision-global-impact-478676 ",
-    "time": "2026-05-21T03:50:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ચોમાસા અંગે સારા અને ખરાબ સમાચાર! જાણો ગુજરાતમાં ક્યારે આવશે વરસાદ? દેશમાં કેવું રહેશે ચોમાસું",
-    "desc": "સમગ્ર દેશની નજર હવે ચોમાસાના આગમન પર છે. ચોમાસાના આગમન બાદ લોકોને ગરમીથી રાહત મળી શકે છે. આ વર્ષે કેરળમાં ચોમાસું જલ્દી પહોંચવાની સંભાવના વ્યક્ત કરવામાં આવી છે. પરંતુ ચોમાસાને લઈને સારા અને ખરાબ બંને સમાચાર સામે આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/good-and-bad-news-about-monsoon-india-monsoon-2026-gujarat-rain-monsoon-478645 ",
-    "time": "2026-05-20T12:35:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,15 +549,6 @@ const newsData_gu = [
     "time": "2026-05-18T11:45:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "સતત 6 હાર છતાં પ્લેઓફમાં પહોંચી શકે છે પંજાબ... એક જીત બદલી નાખશે સંપૂર્ણ સમીકરણ, આ બે ટીમોનું વધશે ટેન્શન",
-    "desc": "IPL 2026ની શાનદાર શરૂઆત કરનાર પંજાબ કિંગ્સ છેલ્લી છ મેચોથી જીત માટે ઝંખી રહી છે. શ્રેયસ ઐયરની ટીમને 19મી સીઝનમાં સતત છઠ્ઠી હારનો સામનો કરવો પડ્યો છે. જો કે, પંજાબ કિંગ્સ માટે પ્લેઓફનો દરવાજો હજુ પણ ખુલ્લો છે. જાણો કેવી રીતે પંજાબ પ્લેઓફમાં પહોંચી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/how-punjab-kings-reach-ipl-playoffs-after-6-consecutive-losses-478356 ",
-    "time": "2026-05-18T11:30:03.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "કેટલા રૂપિયામાં પેટ્રોલ કાર બની શકે છે CNG? કેટલી આપે છે એવરેજ ?  જાણો",
     "desc": "CNG કારની માંગ વધી રહી છે. નવી CNG કાર ખરીદવાની સાથે, ઘણા લોકો તેમની જૂની પેટ્રોલ કાર પર CNG કીટ પણ લગાવી રહ્યા છે, જેથી તેમનો પેટ્રોલનો ખર્ચ ઓછો થાય. જો કે, CNG કીટ લગાવતા પહેલા, કેટલાક મહત્વપૂર્ણ નિયમો અને ખર્ચને સમજવું ખૂબ જ મહત્વપૂર્ણ છે.",
@@ -729,15 +765,6 @@ const newsData_gu = [
     "time": "2026-05-15T08:03:30.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "33.73 KM માઇલેજ, સનરૂફ અને 6 એરબેગ! આ કાર ખરીદવા પડાપડી!, કિંમત માત્ર ₹6.26 લાખથી શરૂ",
-    "desc": "Maruti Suzuki એ એપ્રિલ 2026મા એકવાર ફરી ભારતીય બજારમાં પોતાનો દબદબો સાબિત કર્યો છે. કંપનીના વેચાણમાં 35 ટકાથી વધુનો વધારો થયો છે. ડિઝાયર કંપનીની સૌથી વધુ વેચાતી કાર છે. તો વેગનઆર, બલેનો, ફ્રોન્ક્સ અને સ્વિફ્ટની માંગમાં પણ વધારો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-april-2026-sales-report-maruti-dzire-top-selling-cars-477929 ",
-    "time": "2026-05-15T06:49:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અભિનેત્રી મૌની રોયના ડિવોર્સની વાત સાચી નીકળી, મૌની પછી સૂરજે પણ લગ્નની તસવીરો ડીલીટ કરી",
     "desc": "મૌની રોયના ડિવોર્સની વાત અફવા નહીં પણ સાચી નીકળી છે. 2 દિવસથી સોશિયલ મીડિયા પર ચાલતી ચર્ચાઓ પર પૂર્ણવિરામ મુકવા મૌની રોયે જ સત્તાવાર રીતે જાહેર કરી દીધું છે કે તે અને સૂરજ નાંબિયાર અલગ થઈ ગયા છે. સાથે જ સૂરજ નાંબિયારે પણ મૌની રોયની બધી જ તસવીરો ડીલીટ કરી દીધી છે.",
@@ -754,14 +781,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/prime-video-hindi-web-series-sapne-vs-everyone-season-2-no-1-highest-rating-on-imdb-477798 ",
     "time": "2026-05-14T05:05:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ડિવોર્સની વાત પર મૌની રોયે આપ્યું રિએકશન, ઈંસ્ટા પર શેર કર્યો ખાસ મેસેજ",
-    "desc": "છેલ્લા 2 દિવસથી ઈંટરનેટ પર મૌની રોયના ડિવોર્સની ચર્ચાઓ ચાલી રહી છે. તેવામાં હવે અભિનેત્રીએ આ અંગે પહેલીવાર રિએક્શન આપી દીધું છે. મૌની રોયએ તેના ઈંસ્ટાગ્રામ પર સ્ટોરી પોસ્ટ કરી છે જેમાં ખાસ મેસેજ શેર કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/actress-mouni-roy-first-reaction-after-divorce-news-spread-what-mouni-roy-said-about-marriage-477743 ",
-    "time": "2026-05-13T13:21:42.000Z"
   }
 ];

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How can Sunrisers Hyderabad finish in top two ahead of RCB clash?",
+    "desc": "The stage is set for the 67th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will be hosting Royal Challengers Bengaluru at the Rajiv Gandhi International Stadium on May 22nd. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-playoffs-scenario-how-can-sunrisers-hyderabad-finish-in-top-two-ahead-of-rcb-clash-2026-05-22-1042047",
+    "time": "2026-05-22T05:50:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Rajiv Gandhi International Stadium in Hyderabad play?",
+    "desc": "The 67th game of the ongoing IPL (Indian Premier League) 2026 sees Sunrisers Hyderabad taking on Royal Challengers Bengaluru. The two sides will meet at the Rajiv Gandhi International Stadium in Hyderabad on May 22nd....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rcb-pitch-report-how-will-surface-at-rajiv-gandhi-international-stadium-in-hyderabad-play-2026-05-22-1042040",
+    "time": "2026-05-22T04:58:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Some deja vu': Shubman Gill reviews Gujarat Titans' IPL 2026 campaign after securing a top-two finish",
+    "desc": "Gujarat Titans have been one of the most consistent sides in the ongoing IPL (Indian Premier League) 2026; the side has secured a top-two finish in the league standings and will compete in Qualifier 1...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/some-deja-vu-shubman-gill-reviews-gujarat-titans-ipl-2026-campaign-after-securing-a-top-two-finish-2026-05-22-1042033",
+    "time": "2026-05-22T04:03:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI slams Ruturaj Gaikwad and co. with hefty fine after Chennai Super Kings crash out of IPL 2026",
+    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and slapped a hefty fine against Ruturaj Gaikwad and Chennai Super Kings’ players for maintaining a slow over-rate against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-slams-ruturaj-gaikwad-and-co-with-hefty-fine-after-chennai-super-kings-crash-out-of-ipl-2026-2026-05-22-1042026",
+    "time": "2026-05-22T03:01:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Hard miss for us': Ruturaj Gaikwad weighs in on MS Dhoni's availability in IPL 2027 after group stage exit",
     "desc": "Chennai Super Kings’ campaign in the IPL (Indian Premier League) 2026 came to an end. The side has been eliminated from the tournament’s group stages after losing the 66th game of the tournament against Gujarat...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-csk-live-cricket-score-chennai-super-kings-hope-to-keep-qualification-hopes-alive-2026-05-21-1041976",
     "time": "2026-05-21T13:20:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Comeback story of this IPL season': Suresh Raina hails KKR star after recent stellar showings",
-    "desc": "Former India cricketer Suresh Raina recently came forward and talked about the recent performances of star Kolkata Knight Riders bowler Kartik Tyagi. It is worth noting that Kartik Tyagi has been exceptional for Kolkata Knight...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/comeback-story-of-this-ipl-season-suresh-raina-hails-kolkata-knight-riders-star-after-recent-stellar-show-2026-05-21-1041973",
-    "time": "2026-05-21T13:00:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "GT vs CSK Head-to-Head record ahead of game 66 in IPL 2026",
-    "desc": "Game 66 of the ongoing IPL (Indian Premier League) 2026 saw Gujarat Titans taking on Chennai Super Kings. The two sides will meet at the Narendra Modi Stadium in Ahmedabad on May 21, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-csk-head-to-head-record-ahead-of-game-66-in-ipl-2026-2026-05-21-1041962",
-    "time": "2026-05-21T11:40:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Such a mastermind': Sai Sudharsan hails skipper Shubman Gill ahead of CSK clash",
-    "desc": "The stage is set for the 66th game of the ongoing IPL (Indian Premier League) 2026. Gujarat Titans will take on Chennai Super Kings at the Narendra Modi Stadium in Ahmedabad on May 21. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/such-a-mastermind-sai-sudharsan-hails-skipper-shubman-gill-ahead-of-csk-clash-2026-05-21-1041950",
-    "time": "2026-05-21T10:08:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will the surface at the Narendra Modi Stadium in Ahmedabad play?",
-    "desc": "Chennai Super Kings head into a crucial clash against Gujarat Titans in Ahmedabad knowing there is little room left for error in their IPL 2026 campaign. Another defeat will shut the door on their playoff...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-csk-pitch-report-how-will-the-surface-at-the-narendra-modi-stadium-in-ahmedabad-play-2026-05-21-1041940",
-    "time": "2026-05-21T08:21:35.000Z"
   }
 ];
