@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "માધુરી દીક્ષિતને આવા અવતારમાં આજ સુધી નહીં જોઈ હોય, મજેદાર છે માં બહેન ફિલ્મનું ટ્રેલર, જોઈ લો ફટાફટ",
+    "desc": "માધુરી દીક્ષિતની અપકમિંગ ફિલ્મ માં બહેનનું ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે. આ ટ્રેલર જોઈને તમને મજા પડી જશે. ફિલ્મનું ટ્રેલર જોઈને લાગે છે કે આ ફિલ્મ જોવાની મજા આવશે. આ ફિલ્મ નેટફ્લિક્સ પર રિલીઝ થવાની છે એટલે તમે ફિલ્મ ઘર બેઠા જોઈ શકશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/madhuri-dixit-never-before-netflix-movie-maa-behen-trailer-watch-here-478878 ",
+    "time": "2026-05-22T13:58:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દુનિયાના 100 સૌથી ગરમ શહેરોમાં 97 ભારતમાં, આકાશમાંથી વરસી આગ! ગુજરાતમાં પણ ગરમીનું તાંડવ",
+    "desc": "IMDએ 22 મેથી 27 મે વચ્ચે દિલ્હી અને ઉત્તર ભારતના મોટા ભાગોમાં લૂથી લઈને ભીષણ લૂની સ્થિતિ રહેવાની આગાહી કરી છે. ઉત્તર પ્રદેશનું આગ્રા 44°C સાથે 90મા ક્રમે છે, જ્યારે રાજસ્થાનનું ભરતપુર 44°C સાથે 97મા ક્રમે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/97-of-the-100-hottest-cities-in-the-world-are-in-india-fire-rains-from-the-sky-heatwave-in-gujarat-too-478870 ",
+    "time": "2026-05-22T12:57:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "2 લાખને પાર જશે સોનું ? એક્સપર્ટે જણાવ્યું કે આ કારણે આવવાની છે તેજી, જાણો",
+    "desc": "સોનાના ભાવમાં ટૂંક સમયમાં મોટો ઉછાળો આવી શકે છે. એક્સપર્ટે ભવિષ્યવાણી કરી છે કે વૈશ્વિક બજારમાં તેજીને કારણે ભારતમાં સોનાનો ભાવ 53,000 રૂપિયા વધી શકે છે. જો આવું થાય, તો 10 ગ્રામ સોનાનો ભાવ 2.12 લાખ રૂપિયાને વટાવી જશે. વધતા જતા ભૂ-રાજકીય તણાવ, દેવું અને ફુગાવા આ મોટા ઉછાળાના મુખ્ય કારણો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-gold-cross-2-lakh-expert-said-that-this-is-the-reason-for-the-boom-know-478866 ",
+    "time": "2026-05-22T11:52:16.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "MS Dhoni Scam? CSK પર લાગ્યો ફેન્સને છેતરવાનો આરોપ, શ્રીકાંતના નિવેદનથી IPLમાં આવ્યું તોફાન",
     "desc": "IPL 2026માં ચેન્નાઈ સુપર કિંગ્સ એક મોટા વિવાદમાં ફસાઈ ગઈ છે, જ્યાં પૂર્વ ભારતીય ક્રિકેટર ક્રિષ્નામાચારી શ્રીકાંતે ફ્રેન્ચાઈઝી પર ફેન્સને ગેરમાર્ગે દોરવાનો આરોપ લગાવ્યો છે. સોશિયલ મીડિયા પર વાયરલ થઈ રહેલા 'MS Dhoni Scam' ટ્રેન્ડ વચ્ચે આરોપ છે કે, ટીમે કેપ્ટન MS Dhoniની ફિટનેસ અંગે સ્પષ્ટ માહિતી આપી ન હતી અને સતત તેમની સંભવિત વાપસીના સંકેતો આપ્યા.",
@@ -297,15 +324,6 @@ const newsData_gu = [
     "time": "2026-05-21T06:33:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "વંદે માતરમ્ પર BJP સરકારનો મોટો નિર્ણય, જાણો બંગાળમાં CM સુવેન્દુ અધિકારીએ 12 દિવસમાં કરી કઈ 11 જાહેરાત?",
-    "desc": "આઝાદી પછી બંગાળમાં પહેલીવાર ભાજપ (BJP) ની સરકાર બની છે અને CM સુવેન્દુ અધિકારી ફૂલ એક્શન મોડમાં છે. સરકાર બન્યાને 12 દિવસ થઈ ગયા છે અને આ 12 દિવસમાં સુવેન્દુની સરકારે 11 મોટા નિર્ણયો લઈને દેશવાસીઓને ચોંકાવી દીધા છે અને ભાજપના ઈરાદા પણ સ્પષ્ટ કરી દીધા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bjp-governments-major-decision-on-vande-mataram-11-announcements-did-cm-suvendu-adhikari-make-in-bengal-within-just-12-days-478693 ",
-    "time": "2026-05-21T06:25:56.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Airtel યુઝર્સની મોજ! એક જ રિચાર્જમાં ચાલશે 2 SIM, સાથે મળશે આ OTTના પ્રાઇમ બેનિફિટ્સ",
     "desc": "Airtel પોતાના ગ્રાહકો માટે એક એવો શાનદાર પોસ્ટપેડ પ્લાન લઈને આવ્યું છે, જેમાં એક જ રિચાર્જ પર બે સિમ કાર્ડનો ઉપયોગ કરી શકાય છે. આ પ્લાન કંપનીની ઓફિશિયલ વેબસાઇટ પર લિસ્ટ થયેલો છે અને ફેમિલી યુઝર્સ માટે ખૂબ જ ફાયદાકારક માનવામાં આવી રહ્યો છે.",
@@ -394,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/will-aishwarya-rai-be-seen-at-the-prestigious-cannes-film-festival-this-time-478596 ",
     "time": "2026-05-20T07:59:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઈરાનની એક ચાલથી સોનું ધડામ થઈ બે મહિનાના નીચલા સ્તરે પહોંચ્યું, ભાવમાં મોટો કડાકો, જાણો રેટ",
-    "desc": "સોના અને ચાંદીના ભાવમાં વૈશ્વિક અસ્થિરતાઓ અને મિડલ ઈસ્ટ સંકટના પગલે સતત ઉથલપાથલ જોવા મળી રહી છે. વૈશ્વિક સ્તરે આજે સોનાના ભાવમાં મોટો કડાકો જોવા મળ્યો છે. ઘરઆંગણે પણ અસર જોવા મળી રહી છે. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-drop-in-gold-price-in-international-market-after-iran-big-claim-check-latest-rates-aaj-no-sona-no-bhav-478568 ",
-    "time": "2026-05-20T07:12:56.000Z"
   },
   {
     "cat": "Sports",
@@ -684,15 +693,6 @@ const newsData_gu = [
     "time": "2026-05-17T11:12:08.000Z"
   },
   {
-    "cat": "World",
-    "title": "કેટલો ખતરનાક છે ઇબોલા વાયરસ, જેનાથી કોંગોમાં 80 લોકોના મોત, WHOએ ગ્લોબલ હેલ્થ ઈમરજન્સીની કરી જાહેર",
-    "desc": "આ વાયરસ વાંદરાઓથી ફેલાય છે અને દર વર્ષે 15000થી વધુના મોતનું કારણ બને છે. એક અહેવાલ મુજબ, મધ્ય અને પશ્ચિમ એશિયામાં સૌથી વધુ કેસ જોવા મળે છે. તેનું નામ ડેમોક્રેટિક રિપબ્લિક ઓફ કોંગોમાં આવેલી નદી પરથી રાખવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/how-dangerous-is-the-ebola-virus-which-has-killed-80-people-in-congo-who-has-declared-a-global-health-emergency-478235 ",
-    "time": "2026-05-17T10:00:49.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "iPhone પર WhatsApp ચેટ માટે નવું ફીચર, Meta એ શરૂ કર્યું ટેસ્ટિંગ; જાણો કેવી રીતે કરશે કામ અને ક્યારે થશે લોન્ચ?",
     "desc": "આઇફોન (iPhone) યુઝર્સ માટે વોટ્સએપ એક નવું ફીચર લોન્ચ કરવાની તૈયારી કરી રહ્યું છે. મેટા કંપનીએ હાલમાં જ આ ફીચરનું ટેસ્ટિંગ શરૂ કર્યું છે, જે જો સફળ રહેશે તો ટૂંક સમયમાં જ ચેટિંગના અનુભવને વધુ બહેતર બનાવવા માટે આ નવું ફીચર રોલ આઉટ (લોન્ચ) કરી દેવામાં આવશે.",
@@ -772,14 +772,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-announced-divorce-suraj-nambiar-deleted-all-photos-of-mouni-roy-from-his-instagram-477906 ",
     "time": "2026-05-15T02:58:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "TVF ની આ વેબ સીરીઝ જોઈ દર્શકો થયા ક્રેઝી, IMDb પર હાઈએસ્ટ રેટીંગ સાથે બની નંબર 1, તમે જોઈ છે કે નહીં ?",
-    "desc": "TVF ની વધુ એક દમદાર વેબ સીરીઝ ચર્ચામાં છે. આ સીરીઝ જ્યારથી સ્ટ્રીમ થઈ છે ત્યારથી લોકો તેના વખાણ કરી રહ્યા છે. આ વેબ સીરીઝ એટલી જોરદાર છે કે હવે તે IMDb પર હાઈએસ્ટ રેટીંગ સાથે નંબર 1 પર આવી ગઈ છે. જો તમે આ સીરીઝ હજુ સુધી જોઈ નથી તો ફટાફટ જુઓ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/prime-video-hindi-web-series-sapne-vs-everyone-season-2-no-1-highest-rating-on-imdb-477798 ",
-    "time": "2026-05-14T05:05:10.000Z"
   }
 ];
