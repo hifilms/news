@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "গলায় মঙ্গলসূত্র, হাতে সবুজ চুড়ি; গোপনে বিয়ে সারলেন? ক্যামেরা দেখেই আড়ালে কঙ্গনা",
+    "desc": "সিনেমার গন্ডি পেরিয়ে কঙ্গনা পা রাখেন রাজনীতিতে ৷ সেখানে তাঁর সহকর্মী রাজনীতিবিদ ও অভিনেতা চিরাগ পাসোয়ানের সঙ্গে কঙ্গনার গভীর বন্ধুত্বপূর্ণ সম্পর্ক নিয়ে চর্চা হতে থাকে ৷ তাই বলে সরাসরি মঙ্গলসূত্র পরে সকলের সামনে হেঁটে গেলেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/actress-and-politician-kangana-ranaut-marriage-speculations-video-viral-shows-ranaut-with-a-mangalsutra_654888.html ",
+    "time": "2026-05-22T08:16:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Debaloy-Ankita Controversy: ৩ কোটির মানহানি মামলার পাল্টা নোটিস অঙ্কিতাকে, আইনি পথে দেবালয়",
     "desc": "এই সমস্যার সূত্রপাত হয় কয়েক দিন আগে। গত সপ্তাহে সোশ্যাল মিডিয়ায় টলিউডের একটি অন্য বিষয় নিয়ে একটি পোস্ট করেন দেবালয়। সেখানেই অঙ্কিতা একটি মন্তব্য করেন, \"তোমার মতো নোংরা পারভার্ট ব্রাহ্মণদের কী করে শ্রদ্ধা করি বলো তো? যারা নিজের বন্ধুর মেয়ের পিঠে হাত বোলাতে ছাড়ে না।\"",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -133,24 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/pm-modi-gifts-melody-chocolate-to-italy-pm-giorgia-meloni-viral-video_654634.html ",
     "time": "2026-05-20T09:27:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "তৃণমূল আমলে শিক্ষায় নজিরবিহীন দুর্নীতি নিয়ে তোপ সুপ্রিম কোর্টের: ন্যূনতম পড়াশোনা জানেনা তারাই মাদ্রাসার শিক্ষক?",
-    "desc": "একটি মামলার শুনানিতে সুপ্রিম কোর্টের বিচারপতি দীপঙ্কর দত্ত রাজ্যের মাদ্রাসা নিয়োগের অস্বচ্ছতা নিয়ে যে মন্তব্য করেছেন, তা নজিরবিহীন। সাফ ভাষায় আদালত জানিয়েছে, উপযুক্ত যোগ্যতা ছাড়াই মাদ্রাসাগুলোতে শুধু ‘পছন্দের’ লোকেদের চাকরি দেওয়া হয়েছে এবং এর পিছনে কীসের লেনদেন হয়েছে, তা সবারই জানা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-on-madrasa-teachers-recruitment-scam-corruption-in-tmc-govt_654505.html ",
-    "time": "2026-05-19T12:15:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ঐতিহাসিক 'সুপ্রিম' রায়: রাস্তাঘাটে কোনওভাবেই থাকবে না পথকুকুর, সরাতেই হবে; হিংস্র বা পাগলা সারমেয়দের নিষ্কৃতিমৃত্যু",
-    "desc": "এর আগে ২০২৫ সালের ২৫ নভেম্বর আদালত যে অন্তর্বর্তী নির্দেশিকা জারি করেছিল, পশুপ্রেমী ও বিভিন্ন স্বেচ্ছাসেবী সংগঠনের (NGO) করা পুনর্বিবেচনার একগুচ্ছ আবেদন খারিজ করে মঙ্গলবারের শুনানিতে সেই আগের সিদ্ধান্তেই সম্পূর্ণ অনড় রইল আদালত। শীর্ষ আদালতের সাফ বার্তা, মানুষের জীবনের মূল্যে বা জননিরাপত্তাকে বিঘ্নিত করে কোনও সিদ্ধান্ত নেওয়া সম্ভব নয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-on-stray-dogs-public-safety-cannot-be-ignored-near-schools-hospitals_654486.html ",
-    "time": "2026-05-19T08:22:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -313,24 +304,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/bjp-bengal-victory-raises-hopes-for-teesta-deal-bangladesh-optimistic_652893.html ",
     "time": "2026-05-06T15:36:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিজেপিকে শুভেচ্ছা জানিয়েই টলিউডের ব্যান কালচার নিয়ে সরব দেব, বদলাচ্ছে সমীকরণ?",
-    "desc": "২০২৪-এর লোকসভা নির্বাচনে বাংলায় বিজেপির অভাবনীয় উত্থান এবং রাজনৈতিক পালাবদলের আবহে অবশেষে মুখ খুললেন তৃণমূল কংগ্রেসের তারকা সাংসদ তথা টলিউড সুপারস্টার দেব। গত দুদিনের নীরবতা ভেঙে দেবের এই সুচিন্তিত এবং গঠনমূলক প্রতিক্রিয়া বর্তমানে রাজনৈতিক ও বিনোদন জগতে আলোচনার কেন্দ্রবিন্দু হয়ে দাঁড়িয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dev-congratulates-bjp-bengal-victory-appeal-for-ghatal-master-plan-and-artistic-freedom_652858.html ",
-    "time": "2026-05-06T13:03:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'আমাকেও ব্যান করেছিল বিশ্বাস ব্রাদার্স', জয়ের পরেই টলিউডের ‘মাফিয়া রাজ’ খতমের ডাক রুদ্রনীলের",
-    "desc": "২০২৬-এর বিধানসভা নির্বাচনে গঙ্গার ধারের গুরুত্বপূর্ণ কেন্দ্র শিবপুরে পদ্ম ফুটিয়ে বিধানসভার পথে অভিনেতা রুদ্রনীল ঘোষ। জয়ের পরই একদিকে যেমন তাঁর গলায় শোনা গেল ‘বিকশিত শিবপুর’-এর অঙ্গীকার, অন্যদিকে টলিউডের অন্দরে ‘মাফিয়া রাজ’ এবং ‘বিশ্বাস ব্রাদার্স’-এর বিরুদ্ধে বিস্ফোরক অভিযোগ আনলেন এই অভিনেতা-রাজনীতিবিদ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rudranil-ghosh-wins-shibpur-election-2026-tollywood-mafia-raj-allegations_652823.html ",
-    "time": "2026-05-06T11:27:34.000Z"
   },
   {
     "cat": "Business",

@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "MS Dhoni Scam? CSK પર લાગ્યો ફેન્સને છેતરવાનો આરોપ, શ્રીકાંતના નિવેદનથી IPLમાં આવ્યું તોફાન",
+    "desc": "IPL 2026માં ચેન્નાઈ સુપર કિંગ્સ એક મોટા વિવાદમાં ફસાઈ ગઈ છે, જ્યાં પૂર્વ ભારતીય ક્રિકેટર ક્રિષ્નામાચારી શ્રીકાંતે ફ્રેન્ચાઈઝી પર ફેન્સને ગેરમાર્ગે દોરવાનો આરોપ લગાવ્યો છે. સોશિયલ મીડિયા પર વાયરલ થઈ રહેલા 'MS Dhoni Scam' ટ્રેન્ડ વચ્ચે આરોપ છે કે, ટીમે કેપ્ટન MS Dhoniની ફિટનેસ અંગે સ્પષ્ટ માહિતી આપી ન હતી અને સતત તેમની સંભવિત વાપસીના સંકેતો આપ્યા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ms-dhoni-scam-csk-accused-of-cheating-fans-srikkanth-statement-creates-a-storm-in-ipl-478858 ",
+    "time": "2026-05-22T11:20:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;કોકરોચ જનતા પાર્ટી&amp;#039;એ કયા મુદ્દે સુરક્ષા એજન્સીઓની ઊંઘ ઉડાડી, શું નીકળ્યું ગુજરાત કનેક્શન?",
+    "desc": "સીજેઆઈની એક કમેન્ટ બાદ અસ્તિત્વમાં આવેલી કોકરોચ જનતા પાર્ટીએ જે સ્પીડથી સોશિયલ મીડિયામાં લોકો સુધી પહોંચ મેળવી છે તે કોઈ સામાન્ય વાત ન કહી શકાય. તેની અભૂતપૂર્વક ડિજિટલ પહોંચે દેશની સુરક્ષા એજન્સીઓની પણ રાતોની ઊંઘ ઉડાવી છે. તપાસમાં શું ગુજરાત કનેક્શન નીકળ્યું તે પણ ખાસ જાણવા જેવું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-cockroach-janta-party-become-national-security-concern-shocking-details-as-per-report-478852 ",
+    "time": "2026-05-22T11:11:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "દીકરાના લગ્નમાં જઈશ તો મરીશ, નહીં જઉ તો પણ મરીશ! આવું કેમ બોલ્યા ટ્રમ્પ?",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા તણાવ વચ્ચે ડોનાલ્ડ ટ્રમ્પે એક મોટું નિવેદન આવ્યું છે. વાત જાણે એમ છે કે તેમના પુત્રના લગ્ન છે અને તેમાં તેમની હાજરી અંગે હજુ તેઓ દુવિધામાં છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-statement-about-attending-son-wedding-478849 ",
+    "time": "2026-05-22T11:07:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનું થયું જુનું, પ્રોપર્ટીનો પણ ગયો જમાનો, હવે આ જગ્યાએ રોકાણ કરી રહ્યા છે દેશના યુવાનો",
+    "desc": "ભારતમાં રોકાણ કરવાની રીત જલ્દીથી બદલાઈ રહી છે, સેબીની રિપોર્ટ મુજબ હવે લોકો સોના અને પ્રોપર્ટ છોડીને આ જગ્યાએ રોકાણ કરી રહ્યા છે, ખાસ કરીને યુવાન રોકાણકારોનો તેમા મોટો ભાગ છે, સારા રિટર્નની આશાએ લોકો તેમા સૌથી વધારે આગળ વધી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-is-old-property-is-also-gone-now-the-youth-of-the-country-are-investing-in-this-place-478853 ",
+    "time": "2026-05-22T10:46:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જો આ તારીખ સુધી હોર્મુઝ નહીં ખુલે તો તેલની તબાહી નક્કી, 200 ડોલરને પાર જશે ક્રૂડ! મેકેન્ઝીની ચેતવણી ભારત માટે ચિંતાજનક કેમ?",
+    "desc": "હોર્મુઝ બંધ રહેવાનું પરિણામ દુનિયા ભોગવી રહી છે. હવે તેના પર મોટી ચેતવણી આપવામાં આવી છે. જો હોર્મુઝ જલ્દી નહીં ખુલે તો કાચા તેલની કિંમત 200 ડોલરને પાર પહોંચી જશે. આ ચેતવણીએ ભારત માટે પણ ચિંતા ઉભી કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/crude-oil-price-may-cross-200-energy-firm-warns-478851 ",
+    "time": "2026-05-22T10:00:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રિલાયન્સમાં ભાગીદારી ઘટાડીને અમેરિકન ગ્રુપે અદાણીને આપ્યું મોટું રોકાણ",
+    "desc": "અદાણી ગ્રુપની અનેક કંપનીઓમાં ગત એક વર્ષમાં તેજી આવી છે. ગૌતમ અદાણી ફરી એશિયાના નંબર વન અમીર બન્યા છે. અમેરિકામાં એક મોટા ગ્રુપે હાલ અદાણીની કંપનીમાં ભાગીદારી ખરીદી કરી છે. જ્યારે કે રિલાયન્સમાં પોતાનુ હોલ્ડિંગ ઘટાડ્યું",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gautam-adani-beats-mukesh-ambani-capital-group-investment-adani-reliance-shares-478848 ",
+    "time": "2026-05-22T09:23:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 માં ખરાબ પ્રદર્શન બાદ આ 5 ખેલાડીઓને રિલીઝ કરી દેશે CSK! લિસ્ટમાં 14.20 કરોડનો પ્લેયર પણ સામેલ",
+    "desc": "IPL 2026 માંથી CSK બહાર થઈ ગઈ છે અને આગામી મિની ઓક્શન પહેલા કેટલાક ખેલાડીઓને રિલીઝ કરવાનો નિર્ણય કરી શકે છે. આવો તે 5 ખેલાડીઓ વિશે જાણીએ જેને ચેન્નઈ પોતાની ટીમમાંથી બહાર કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/chennai-super-kings-may-release-these-5-players-ahead-of-mini-auction-2027-478842 ",
+    "time": "2026-05-22T08:06:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખામેનેઈના એક નિવેદનથી સોનું ધડામ, અમદાવાદમાં ઘટીને કેટલો થયો સોનાનો રેટ? કેરેટ પ્રમાણે આજનો ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવમાં સતત ઉથલપાથલ જોવા મળી રહી છે. મિડલ ઈસ્ટના સંકટની અસર ક્રૂડ ઓઈલ અને તેની અસર સોના ચાંદી પર જોવા મળી છે. આજે વૈશ્વિક બજાર અને ઘરઆંગણે સોનાના ભાવમાં ઘટાડો જોવા મળ્યો જ્યારે રિટેલ બજારમાં ચાંદીનો ભાવ ઉછળ્યો. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-down-after-khamenei-statement-check-today-ahmedabad-gold-silver-price-aaj-no-sona-no-bhav-478835 ",
+    "time": "2026-05-22T07:44:20.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "બોલ્ડ લુક અને પ્રીમિયમ ફીચર્સ સાથે આવી રહી છે Nissanની આ નવી SUV, ક્રેટા-સેલ્ટોસને આપશે ટક્કર",
     "desc": "ભારતીય SUV માર્કેટમાં ટૂંક સમયમાં જ એક મોટો ધમાકો થવા જઈ રહ્યો છે. Nissan પોતાની નવી મિડ-સાઈઝ SUV Tekton લોન્ચ કરવા જઈ રહી છે, જે સીધી રીતે Hyundai Creta અને Kia Seltosને ટક્કર આપશે. ચાલો જાણીએ તેની વિગતો.",
@@ -261,15 +333,6 @@ const newsData_gu = [
     "time": "2026-05-21T05:23:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "બુલંદીની દાસ્તાન: એમ જ કોઈ નથી બની જતું નંબર-1, Essel ગ્રુપે જ્યારે સેટ કર્યા માર્કેટના નવા ટ્રેન્ડ",
-    "desc": "ભારતના કોર્પોરેટ ઇતિહાસમાં કેટલાક એવા નામ છે જેમણે માત્ર વ્યવસાય જ નહીં પરંતુ સમગ્ર ઉદ્યોગોની દિશા પણ બદલી નાખી. એસ્સેલ ગ્રુપ તે પસંદગીના જૂથોમાંથી એક છે. 1926માં હરિયાણામાં શરૂ થયેલી આ યાત્રાને હવે 100 વર્ષ પૂર્ણ થયા છે, અને આ સમય દરમિયાન જૂથે ભારતીય બજારમાં નવા વલણો સ્થાપિત કરનારા ઘણા પગલાં લીધા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/essel-group-of-100-years-dedication-innovation-and-bold-ideas-that-shaped-business-empire-478677 ",
-    "time": "2026-05-21T04:23:31.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સોની લિવ પર ફરીથી આવી રહ્યો મિશ્રા પરિવાર, જોઈ લો ગુલ્લક સીઝન 5 નું ટ્રેલર અને રિલીઝ ડેટ",
     "desc": "સોની લિવની લોકપ્રિય વેબ સીરીઝમાંથી એક ગુલ્લક પણ છે. ગુલ્લક વેબ સીરીઝની 4 સીઝન રિલીઝ થઈ ચુકી છે અને હવે 5 મી સીઝનનું ટ્રેલર રિલીઝ થયું છે. આ સાથે જ વેબ સીરીઝ ક્યારથી જોવા મળશે તેની તારીખ પણ સામે આવી છે.",
@@ -396,33 +459,6 @@ const newsData_gu = [
     "time": "2026-05-20T03:35:16.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સરકારી કર્મચારીઓ માટે મોટી ખુશખબર! કેબિનેટ સચિવે પેન્શન સહિતની આ 5 માંગણીઓ પર આપ્યું મોટું આશ્વાસન",
-    "desc": "NC-JCMની 49મી વાર્ષિક બેઠકમાં કેન્દ્રીય કર્મચારીઓ અને પેન્શનરો સાથે જોડાયેલા કેટલાક મોટા મુદ્દાઓ પર ચર્ચા થઈ હતી. આ બેઠકમાં દર 5 વર્ષે પેન્શન વધારવા, ફેમિલી પેન્શનમાં સુધારો કરવા, દિવ્યાંગ આશ્રિતો માટે નિયમો સરળ બનાવવા અને OPS લાગુ કરવા જેવી માંગણીઓ ઉઠાવવામાં આવી. કેબિનેટ સચિવે આ માંગણીઓને લઈને મોટી ખાતરી આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-good-news-for-government-employees-cabinet-secretary-gave-big-assurance-on-these-5-demands-including-pension-478528 ",
-    "time": "2026-05-19T16:52:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBIની મોટી કાર્યવાહી, આ બેંકનું લાઇસન્સ કર્યું રદ, ગ્રાહકોના જમા પૈસાનું શું થશે?",
-    "desc": "RBIએ જણાવ્યું હતું કે આ સહકારી બેંક 19 મે, 2026ના રોજ કામકાજ બંધ થયા પછી બેંકિંગ પ્રવૃત્તિઓ કરી શકશે નહીં, બેંક પર RBIના આ નિર્ણયથી ગ્રાહકોમાં ભય ફેલાયો છે અને પોતાની મુળી મેળવવા માટે પ્રયાસો કરી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/rbis-big-action-this-banks-license-has-been-cancelled-what-will-happen-to-the-customers-deposits-478524 ",
-    "time": "2026-05-19T14:51:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શું સોના અને ચાંદીમાં રોકાણ કરવાનો આ યોગ્ય સમય છે? JP મોર્ગનની મોટી ભવિષ્યવાણી, જાણો",
-    "desc": "ટૂંકા ગાળાની માંગમાં ઘટાડો થવાને કારણે વૈશ્વિક રોકાણ બેંક JPMorganએ 2026 માટે સોનાના સરેરાશ ભાવનો અંદાજ ઘટાડ્યો છે. જો કે, બેંક માને છે કે લાંબા ગાળે, ભૂ-રાજકીય તણાવ અને આર્થિક અનિશ્ચિતતાઓને કારણે, સોના અને ચાંદીના ભાવમાં તીવ્ર વધારો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/jp-morgans-big-prediction-is-this-the-right-time-to-invest-in-gold-and-silver-478522 ",
-    "time": "2026-05-19T14:04:06.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "1 લાખની ઈલેક્ટ્રિક બાઇક પર તૂટી પડ્યા ગ્રાહકો, 15 દિવસમાં 25000ની પાર થયું બુકિંગ, 180 KM છે રેન્જ",
     "desc": "ભારતમાં ઇલેક્ટ્રિક ટુ-વ્હીલર બજાર ઝડપથી વધી રહ્યું છે, અને હવે માત્ર ઇલેક્ટ્રિક સ્કૂટર જ નહીં પરંતુ ઇલેક્ટ્રિક મોટરસાઇકલની માંગ પણ વધી રહી છે. આ નવી ઇલેક્ટ્રિક બાઇક લોન્ચ થયાના માત્ર 15 દિવસમાં 25,000થી વધુ બુકિંગ મેળવી ચૂકી છે.",
@@ -511,24 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/good-news-for-india-as-us-extends-sanctions-waiver-for-russian-oil-check-details-for-more-update-478446 ",
     "time": "2026-05-19T05:54:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SRH સામે હાર્યા બાદ પણ પ્લેઓફમાં પહોંચી શકે છે ચેન્નાઈ સુપર કિંગ્સ, જાણો કેવી રીતે",
-    "desc": "પાંચ વખતની ચેમ્પિયન ચેન્નાઈ સુપર કિંગ્સ હજુ પણ પ્લેઓફની રેસમાં જીવંત છે. જોકે, હવે તેના માટે સમીકરણ ખૂબ જટિલ બની ગયું છે. આ પાંચ ચોક્કસ શરતો પૂરી થાય તો જ ચેન્નાઈ ટોપ-4માં સ્થાન મેળવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-chennai-super-kings-can-reach-the-playoffs-even-after-losing-to-srh-478444 ",
-    "time": "2026-05-19T05:26:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીની ખુલી પોલ, 15 વર્ષના ખેલાડી પર મોહમ્મદ કૈફનો આરોપ કેટલો સાચો? જાણો",
-    "desc": "IPL 2026માં વૈભવ સૂર્યવંશીની બેટિંગ હેડલાઇન્સમાં ચમકી રહી છે. જો કે, તેના પર કૈફે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે. જે હાલ ચર્ચામાં છે અને તેના પર લોકો અનેક રીતે કમેન્ટ કરી રહ્યા છે, ત્યારે અમે પણ તેના વિશે જાણકારી મેળવવાનો પ્રયત્ન કર્યો છે, ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-weakness-exposed-how-true-is-mohammad-kaifs-accusation-against-the-15-year-old-player-find-out-478378 ",
-    "time": "2026-05-18T13:17:42.000Z"
   },
   {
     "cat": "Tech",
@@ -684,15 +702,6 @@ const newsData_gu = [
     "time": "2026-05-17T08:44:50.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઇબોલા વાયરસ કેટલો ખતરનાક છે? કોંગોમાં 80 લોકોના મોત, WHOની ગ્લોબલ ઇમરજન્સીની જાહેરાત",
-    "desc": "આ વાયરસ વાંદરાઓ દ્વારા ફેલાય છે અને તેના કારણે દર વર્ષે 15,000 થી વધુ લોકોના મોત થાય છે. એક અહેવાલ મુજબ, મધ્ય અને પશ્ચિમ એશિયામાં આના દર્દીઓ સૌથી વધુ જોવા મળે છે. ડેમોક્રેટિક રિપબ્લિક ઓફ કોંગોની એક નદીના નામ પરથી આ વાયરસનું નામ રાખવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/how-dangerous-is-the-ebola-virus-80-dead-in-congo-who-declares-global-health-emergency-478208 ",
-    "time": "2026-05-17T08:08:15.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "પ્રાઈમ વીડિયોની એવી વેબ સીરીઝ જેને જોયા પછી હનુમાન ચાલીસા બોલવા લાગશો, OTT પર આ સીરીઝે સનસની મચાવી હતી",
     "desc": "જો તમે ઓટીટી પર હોરર વેબ સીરીઝ જોવાના શોખીન છો તો એક એવી વેબ સીરીઝ વિશે જાણો જેને જોયા પછી મનમાં હનુમાન ચાલીસા બોલવા લાગશો. આ વેબ સીરીઝને આઈએમડીબી પર જોરદાર રેટિંગ પણ મળ્યું છે.",
@@ -754,15 +763,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/to-avoid-petrol-diesel-cng-price-hike-in-india-buy-cheapest-ev-vehicles-477984 ",
     "time": "2026-05-15T11:03:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "મોંઘા રિચાર્જથી છુટકારો! માત્ર 44 રૂપિયામાં આખું વર્ષ ચાલશે Jio સિમ! બસ અપનાવો આ ટ્રિક",
-    "desc": "શું તમે જાણો છો કે મોંઘા રિચાર્જ વગર પણ જિયો નંબરને એક્ટિવ રાખી શકાય છે? જો તમે માત્ર ઇનકમિંગ કોલ અને ઓટીપી માટે સિમનો ઉપયોગ કરો છો, તો એક નાની ટ્રિક તમારા પૈસા બચાવી શકે છે. આજે અમે તમને તે વિશે માહિતી આપીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/jio-sim-will-be-active-for-a-one-year-for-just-rs-44-jio-11-rupees-plan-help-you-477938 ",
-    "time": "2026-05-15T08:03:30.000Z"
   },
   {
     "cat": "Entertainment",

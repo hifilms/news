@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'It has been so fu***** fun'",
+    "desc": "Pep Guardiola revealed his decision to leave Manchester City at the end of the 2025-26 season. The decision arrives despite the Spaniard still having a year left on his contract. This season, the 55-year-old guided...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/it-has-been-so-fu-fun-pep-guardiola-announces-decision-to-leave-manchester-city-after-a-decade-2026-05-22-1042088",
+    "time": "2026-05-22T10:45:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England announce FIFA World Cup 2026 squad; Trent, Foden, Palmer dropped by Tuchel",
+    "desc": "England manager Thomas Tuchel has finalised his squad for the 2026 World Cup, leaving several established names out of the marquee competition. Among the biggest surprises is the exclusion of Trent Alexander-Arnold, with full-back places...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/england-announce-fifa-world-cup-2026-squad-trent-foden-palmer-dropped-by-tuchel-2026-05-22-1042082",
+    "time": "2026-05-22T10:12:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi high court slams WFI over Vinesh Phogat's 'ineligible' decision, asks for expert evaluation",
+    "desc": "The controversy surrounding Indian wrestler Vinesh Phogat has taken the country by storm. It is worth noting that the WFI (Wrestling Federation of India) declared Vinesh Phogat ineligible for the upcoming Asian Games. Notably, Phogat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/delhi-high-court-slams-wfi-over-vinesh-phogat-s-ineligible-decision-asks-for-expert-evaluation-2026-05-22-1042075",
+    "time": "2026-05-22T09:19:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Made a big difference': Devdutt Padikkal reflects on batting alongside Virat Kohli, ponders on his IPL career",
+    "desc": "Defending IPL (Indian Premier League) champions Royal Challengers Bengaluru have been in brilliant form in the ongoing edition of the tournament. Coming into the competition, RCB have managed to stay atop the standings ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/made-a-big-difference-devdutt-padikkal-reflects-on-batting-alongside-virat-kohli-ponders-on-his-ipl-career-2026-05-22-1042071",
+    "time": "2026-05-22T08:57:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SRH vs RCB Head-to-Head record ahead of game 67 in IPL 2026",
+    "desc": "Game 67 of the ongoing IPL (Indian Premier League) 2026 sees Sunrisers Hyderabad taking on Royal Challengers Bengaluru. The two sides met at the Rajiv Gandhi International Stadium in Hyderabad on May 22nd, and both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rcb-head-to-head-record-ahead-of-game-67-in-ipl-2026-2026-05-22-1042061",
+    "time": "2026-05-22T07:59:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Seven is too low': Zaheer Khan questions Chennai Super Kings' decision-making after loss against GT",
+    "desc": "Chennai Super Kings succumbed to a hefty loss against Gujarat Titans in the 67th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Narendra Modi Stadium in Ahmedabad, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/seven-is-too-low-zaheer-khan-questions-chennai-super-kings-decision-making-after-loss-against-gt-2026-05-22-1042055",
+    "time": "2026-05-22T07:19:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How can Sunrisers Hyderabad finish in top two ahead of RCB clash?",
     "desc": "The stage is set for the 67th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will be hosting Royal Challengers Bengaluru at the Rajiv Gandhi International Stadium on May 22nd. It is...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-slams-ruturaj-gaikwad-and-co-with-hefty-fine-after-chennai-super-kings-crash-out-of-ipl-2026-2026-05-22-1042026",
     "time": "2026-05-22T03:01:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Hard miss for us': Ruturaj Gaikwad weighs in on MS Dhoni's availability in IPL 2027 after group stage exit",
-    "desc": "Chennai Super Kings’ campaign in the IPL (Indian Premier League) 2026 came to an end. The side has been eliminated from the tournament’s group stages after losing the 66th game of the tournament against Gujarat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hard-miss-for-us-ruturaj-gaikwad-weighs-in-on-ms-dhoni-s-availability-in-ipl-2027-after-group-stage-exit-2026-05-22-1042022",
-    "time": "2026-05-22T02:22:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans knock Chennai Super Kings out of IPL 2026, register statement win in Ahmedabad",
-    "desc": "Gujarat Titans put forth a brilliant performance in the 66th game of the ongoing IPL (Indian Premier League) 2026 and defeated Chennai Super Kings at the Narendra Modi Stadium, knocking them out of the competition....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-knock-chennai-super-kings-out-of-ipl-2026-register-statement-win-in-ahmedabad-2026-05-21-1042007",
-    "time": "2026-05-21T17:54:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anshul Kamboj surpasses Rashid Khan in an unwanted list after expensive spell against GT",
-    "desc": "Gujarat Titans hosted Chennai Super Kings in the 66th game of the ongoing IPL (Indian Premier League). The two sides met at the Narendra Modi Stadium in Ahmedabad, and Gujarat Titans, batting first, put forth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/anshul-kamboj-surpasses-rashid-khan-in-an-unwanted-list-after-expensive-spell-against-gt-2026-05-21-1042001",
-    "time": "2026-05-21T16:54:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Angkrish Raghuvanshi ruled out of IPL 2026 with finger injury",
-    "desc": "In a major blow for Kolkata Knight Riders, star batter Angkrish Raghuvanshi has been ruled out of the IPL 2026. Sources confirmed to India TV digital that Raghuvanshi could be out for as long as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/exclusive-angkrish-raghuvanshi-ruled-out-of-ipl-2026-with-finger-injury-2026-05-21-1041994",
-    "time": "2026-05-21T15:27:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer heaps praise on Manish Pandey, Sunil Narine after KKR's victory over MI",
-    "desc": "Kolkata Knight Riders have made a superb comeback in the IPL 2026 season, after a horrid start to their campaign. The three-time champions are well in the race for the knockouts but are depending on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-heaps-praise-on-manish-pandey-sunil-narine-after-kkr-s-victory-over-mi-2026-05-21-1041987",
-    "time": "2026-05-21T14:40:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "GT knock CSK out of IPL 2026, register 89-run victory",
-    "desc": "Gujarat Titans and Chennai Super Kings take on each other at the Narendra Modi Stadium in Ahmedabad in the 66th game of the ongoing IPL (Indian Premier League) 2026. It is worth noting that Gujarat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-csk-live-cricket-score-chennai-super-kings-hope-to-keep-qualification-hopes-alive-2026-05-21-1041976",
-    "time": "2026-05-21T13:20:15.000Z"
   }
 ];
