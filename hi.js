@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Hard miss for us': Ruturaj Gaikwad weighs in on MS Dhoni's availability in IPL 2027 after group stage exit",
+    "desc": "Chennai Super Kings’ campaign in the IPL (Indian Premier League) 2026 came to an end. The side has been eliminated from the tournament’s group stages after losing the 66th game of the tournament against Gujarat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hard-miss-for-us-ruturaj-gaikwad-weighs-in-on-ms-dhoni-s-availability-in-ipl-2027-after-group-stage-exit-2026-05-22-1042022",
+    "time": "2026-05-22T02:22:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gujarat Titans knock Chennai Super Kings out of IPL 2026, register statement win in Ahmedabad",
     "desc": "Gujarat Titans put forth a brilliant performance in the 66th game of the ongoing IPL (Indian Premier League) 2026 and defeated Chennai Super Kings at the Narendra Modi Stadium, knocking them out of the competition....",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-csk-pitch-report-how-will-the-surface-at-the-narendra-modi-stadium-in-ahmedabad-play-2026-05-21-1041940",
     "time": "2026-05-21T08:21:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shane Watson lauds Varun Chakaravarthy for playing with pain against Mumbai Indians in IPL 2026",
-    "desc": "Kolkata Knight Riders kept their IPL 2026 playoff hopes alive with a win over Mumbai Indians at Eden Gardens. After the match, assistant coach Shane Watson revealed that spinner Varun Chakravarthy played the match while...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shane-watson-lauds-varun-chakaravarthy-for-playing-with-pain-against-mumbai-indians-in-ipl-2026-2026-05-21-1041933",
-    "time": "2026-05-21T07:18:56.000Z"
   }
 ];

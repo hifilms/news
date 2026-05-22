@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "ટ્વિશા શર્માની છેલ્લી ફિલ્મ OTT પર કરી રહી છે ટ્રેંડ, અભિનેત્રી છેલ્લી ફિલ્મ પણ હતી મર્ડર મિસ્ટ્રી",
+    "desc": "અભિનેત્રી, મોડલ ટ્વિશા શર્માના મોતની ઘટના પછી તેની છેલ્લી ફિલ્મ ટ્રેંડ કરવા લાગી છે. જોગાનુજોગ ટ્વિશા શર્માની છેલ્લી ફિલ્મ પણ એક મર્ડર મિસ્ટ્રી થ્રિલર ફિલ્મ છે. 2021 માં આવેલી આ ફિલ્મ હવે ઓટીટી પર ટ્રેંડ થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/twisha-sharma-last-murder-mystery-thriller-film-on-prime-video-trending-movie-478789 ",
+    "time": "2026-05-22T02:23:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "NTA ચીફનો મોટો દાવો! ‘NEETમાં પેપર લીક નથી થયું’, સંસદની પેનલ સામે કહી ચોંકાવનારી વાત",
     "desc": "NEET પેપર લીક વિવાદ વચ્ચે NTA ચીફે સંસદની સ્થાયી સમિતિ સમક્ષ મોટો દાવો કર્યો છે. એજન્સીનું કહેવું છે કે, NEETમાં આખું પેપર લીક નહોતું થયું, પરંતુ માત્ર કેટલાક પ્રશ્નો જ બહાર આવ્યા હતા. જાણો બેઠકમાં શું-શું કહેવામાં આવ્યું અને હવે વિદ્યાર્થીઓ પર તેની શું અસર પડી શકે છે.",
@@ -754,14 +763,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/actress-mouni-roy-first-reaction-after-divorce-news-spread-what-mouni-roy-said-about-marriage-477743 ",
     "time": "2026-05-13T13:21:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "દિવસો સુધી યાદ રહી જાય એવી થ્રિલર ફિલ્મ જોવી હોય તો જીયો હોટસ્ટાર પર જુઓ આ ફિલ્મ",
-    "desc": "જો તમે જોરદાર મિસ્ટ્રી થ્રિલર ફિલ્મ જોવા માંગો છો અને તમને સારો ઓપ્શન નથી મળી રહ્યો તો ચાલો તમને જીયો હોટસ્ટારની બેસ્ટ ફિલ્મ વિશે જણાવીએ. આ ફિલ્મ ડાર્ક કોમેડી મિસ્ટ્રી થ્રિલર ફિલ્મ છે. આવી ફિલ્મ તમે આજ સુધી જોઈ નહીં હોય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-thriller-mystery-movie-in-hindi-on-ott-jio-hotstar-sookshmadarshini-477739 ",
-    "time": "2026-05-13T12:44:59.000Z"
   }
 ];
