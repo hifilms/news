@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "કેન્દ્રીય મંત્રી જીતનરામ માંઝી પર હુમલો, સ્ટેજ પર ભાષણ દરમિયાન પથ્થરમારો; પહેલાં પણ મળી ચૂકી છે ધમકી",
+    "desc": "કેન્દ્રીય મંત્રી જીતનરામ માંઝી પર ગયાજી જિલ્લાના ખિઝરસરાયમાં આયોજિત એક કાર્યક્રમ દરમિયાન પથ્થરમારો કરવામાં આવ્યો. માંઝી જ્યારે ભાષણ આપી રહ્યા હતા ત્યારે તેમને નિશાન બનાવીને પથ્થર ફેંકવામાં આવ્યા. તેમને પહેલાં પણ હુમલાની ધમકી મળી ચૂકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/union-minister-jitan-ram-manjhi-attacked-stone-pelted-during-speech-on-stage-threats-have-been-received-before-478913 ",
+    "time": "2026-05-22T17:04:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કર્મચારીઓને એક જ ઝટકામાં બનાવી દીધા કરોડપતિ, દરેક કર્મચારીને મળશે ₹2.85 કરોડ !",
+    "desc": "સેમસંગ ઇલેક્ટ્રોનિક્સે તેના સેમિકન્ડક્ટર વિભાગના આશરે 78,000 કર્મચારીઓને 26.6 બિલિયન ડોલર અથવા આશરે 2.24 લાખ કરોડ રૂપિયાનું જંગી બોનસ આપવાની જાહેરાત કરી છે. સરેરાશ, દરેક કર્મચારીને આશરે 2.85 કરોડ રૂપિયા મળશે. કંપનીએ AI ચિપ્સની વધતી માંગ, યુનિયન દબાણ અને સંભવિત હડતાળને ટાળવા માટે આ નિર્ણય લીધો છે. આ બોનસ 2027ની શરૂઆતમાં વહેંચવામાં આવશે અને ફક્ત ચિપ વિભાગના કર્મચારીઓને જ ફાયદો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/samsung-company-has-made-its-employees-millionaires-each-employee-will-get-a-bonus-of-rs-2-85-crore-478892 ",
+    "time": "2026-05-22T14:42:45.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "માધુરી દીક્ષિતને આવા અવતારમાં આજ સુધી નહીં જોઈ હોય, મજેદાર છે માં બહેન ફિલ્મનું ટ્રેલર, જોઈ લો ફટાફટ",
     "desc": "માધુરી દીક્ષિતની અપકમિંગ ફિલ્મ માં બહેનનું ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે. આ ટ્રેલર જોઈને તમને મજા પડી જશે. ફિલ્મનું ટ્રેલર જોઈને લાગે છે કે આ ફિલ્મ જોવાની મજા આવશે. આ ફિલ્મ નેટફ્લિક્સ પર રિલીઝ થવાની છે એટલે તમે ફિલ્મ ઘર બેઠા જોઈ શકશો.",
@@ -286,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/underrated-movie-of-zee5-posham-pa-dark-thriller-movie-based-on-true-murder-crime-hindi-thriller-movie-zee5-478704 ",
     "time": "2026-05-21T08:50:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘નિશ્ચિતતા સાથે સતત આગળ વધતા રહો,’ Essel ગ્રુપના 100 વર્ષ પર ડૉ. સુભાષ ચંદ્રાનું સંબોધન",
-    "desc": "એસેલ ગ્રુપે તમામ ક્ષેત્રોમાં છેલ્લા 10 દાયકા દરમિયાન વેલ્યુ ક્રિએશનનો એક પ્રભાવશાળી ટ્રેક રેકોર્ડ બનાવ્યો છે. ગ્રાહકોને સર્વશ્રેષ્ઠ સેવાઓ આપવાના ઉદ્દેશ્ય સાથે ગ્રુપની કંપનીઓ હંમેશાં નવીનતમ સંશોધનો અને શ્રેષ્ઠ મૂલ્ય પ્રદાન કરવાનો પ્રયાસ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/keep-moving-with-certainty-dr-subhash-chandra-as-essel-group-turns-100-478700 ",
-    "time": "2026-05-21T07:53:25.000Z"
   },
   {
     "cat": "Business",
@@ -682,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/has-the-exact-date-of-the-apocalypse-arrived-66-years-ago-scientist-predicted-that-human-civilization-would-end-on-this-very-day-478251 ",
     "time": "2026-05-17T12:01:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "આવી રહી છે મોટી તબાહી? વૈશ્વિક સંકટ વચ્ચે વડાપ્રધાન મોદીએ દુનિયાને આપી ચેતવણી, જાણો શું કહ્યું?",
-    "desc": "વડાપ્રધાન નરેન્દ્ર મોદીએ વૈશ્વિક ઊર્જા સંકટ વચ્ચે દુનિયાને ચેતવણી આપી છે. નેધરલેન્ડ્સના હેગમાં પીએમ મોદીએ કહ્યું કે, આ દાયકામાં માનવતા સામે સતત પડકારો આવી રહ્યા છે. વર્તમાન ઊર્જા સંકટ અંગે તેમણે કહ્યું કે, જો પરિસ્થિતિ નહીં સુધરે, તો પાછલા કેટલાક દાયકાઓની સિદ્ધિઓ પર પાણી ફરી વળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/is-disaster-looming-amidst-a-global-crisis-prime-minister-modi-warns-the-world-what-did-he-say-478242 ",
-    "time": "2026-05-17T11:12:08.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ireland announce Test squad vs New Zealand, Paul Stirling, key pacers ruled out",
+    "desc": "Ireland have named four uncapped young cricketers in their 14-member squad for the historic Test against New Zealand in Belfast. Among the fresh faces are opener Jake Egan and fast bowlers Tom Mayes, Reuben Wilson...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ireland-announce-test-squad-vs-new-zealand-paul-stirling-key-pacers-ruled-out-2026-05-22-1042124",
+    "time": "2026-05-22T16:00:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 cricketers who can replace Angkrish Raghuvanshi in the playing XI for KKR",
+    "desc": "Kolkata Knight Riders batter Angkrish Raghuvanshi has been ruled out of the IPL 2026, as India TV confirmed last evening. The 21-year-old fractured a finger on his left hand and is expected to miss at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-angkrish-raghuvanshi-in-the-playing-xi-for-kkr-2026-05-22-1042118",
+    "time": "2026-05-22T14:49:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why are neither Jacob Bethell nor Phil Salt playing for RCB vs Sunrisers Hyderabad in IPL 2026",
     "desc": "Royal Challengers Bengaluru will miss the service of both Jacob Bethell and Phil Salt in the blockbuster clash against Sunrisers Hyderabad at the Rajiv Gandhi International Stadium. After Salt suffered an injury earlier in the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rcb-head-to-head-record-ahead-of-game-67-in-ipl-2026-2026-05-22-1042061",
     "time": "2026-05-22T07:59:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Seven is too low': Zaheer Khan questions Chennai Super Kings' decision-making after loss against GT",
-    "desc": "Chennai Super Kings succumbed to a hefty loss against Gujarat Titans in the 67th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Narendra Modi Stadium in Ahmedabad, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/seven-is-too-low-zaheer-khan-questions-chennai-super-kings-decision-making-after-loss-against-gt-2026-05-22-1042055",
-    "time": "2026-05-22T07:19:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Sunrisers Hyderabad finish in top two ahead of RCB clash?",
-    "desc": "The stage is set for the 67th game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will be hosting Royal Challengers Bengaluru at the Rajiv Gandhi International Stadium on May 22nd. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-playoffs-scenario-how-can-sunrisers-hyderabad-finish-in-top-two-ahead-of-rcb-clash-2026-05-22-1042047",
-    "time": "2026-05-22T05:50:42.000Z"
   }
 ];
