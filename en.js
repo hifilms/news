@@ -1,6 +1,33 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Bengal CM on first visit to Delhi after taking charge, meets President, Prime Minister and Home Minister",
+    "desc": "The West Bengal Chief Minister posted on social media that the Prime Minister Narendra Modi re-emphasized his vision of Sabka Saath, Sabka Vikas and reiterated that the development of West Bengal remains a top priority for the Central Government.",
+    "img": "https://th-i.thgim.com/public/incoming/326lw1/article71012556.ece/alternates/LANDSCAPE_1200/PTI05_22_2026_000282B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-on-first-visit-to-delhi-after-taking-charge-meets-president-prime-minister-and-home-minister/article71011958.ece",
+    "time": "2026-05-22T21:36:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bobby Deol hid Aashram from his family over intimate scenes",
+    "desc": "Bobby Deol recently opened up about the struggles, insecurities, and comeback phase of his career while speaking to Shekhar Suman on his chat show. From discussing intimate scenes in Aashram to becoming “Lord Bobby” on social media, the actor candidly reflected on the emotional lows that shaped him.",
+    "img": "https://static.toiimg.com/photo/msid-131268140,imgsize-26730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-reveals-why-he-hid-aashram-from-his-family-over-intimate-scenes-i-only-told-my-wife-she-is-my-backbone/articleshow/131268138.cms",
+    "time": "2026-05-22T20:51:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sneha Ullal says doing Salman’s Lucky at 16 was a compromise",
+    "desc": "No Time for Love. Often remembered for her striking resemblance to Aishwarya Rai Bachchan, Sneha recently opened up about her unexpected Bollywood debut, the sacrifices fame brought into her life, and how her mother’s cancer battle influenced her decision to enter films.",
+    "img": "https://static.toiimg.com/photo/msid-131267878,imgsize-38698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchans-lookalike-sneha-ullal-says-doing-salman-khans-lucky-at-16-was-a-compromise-amid-mothers-cancer-battle/articleshow/131267848.cms",
+    "time": "2026-05-22T19:36:22.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Rubio's maiden India visit aims to repair strained ties; boost Quad cooperation",
     "desc": "The top U.S. diplomat is scheduled to hold wide-ranging talks with External Affairs Minister S. Jaishankar, in addition to meeting Prime Minister Narendra Modi and attending a meeting of the Quad Foreign Ministers in New Delhi",
     "img": "https://th-i.thgim.com/public/incoming/5e1k9c/article71012380.ece/alternates/LANDSCAPE_1200/Sweden_NATO_Foreign_Ministers_78_6.jpg",
@@ -270,15 +297,6 @@ const newsData_en = [
     "time": "2026-05-22T15:09:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Has America finally got its FOMO wake-up call?",
-    "desc": "Global powers are now vying for India's attention, recognizing its growing influence. While the US seeks to bolster trade, India has been actively forging significant trade agreements, positioning itself as a reliable and indispensable partner in a shifting geopolitical landscape.",
-    "img": "https://static.toiimg.com/photo/msid-131265241,imgsize-921788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/marco-rubio-india-visit-has-america-finally-got-its-fomo-wake-up-call/articleshow/131265223.cms",
-    "time": "2026-05-22T14:58:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Virat Kohli reaction after Rasikh gives fiery send-off to Travis Head goes viral",
     "desc": "Rasikh Salam Dar's fiery yorker dismantled Travis Head's stumps, igniting a passionate celebration from the young pacer and a pumped-up Virat Kohli. Head's aggressive 26 off 16 balls ended abruptly, giving RCB a crucial breakthrough. Defending champions RCB, already playoff-bound in IPL 2026, faced Sunrisers Hyderabad in a key clash.",
@@ -369,15 +387,6 @@ const newsData_en = [
     "time": "2026-05-22T13:20:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "When governor holds the key to people's verdict",
-    "desc": "In India's democracy, fractured election mandates often shift power to governors, who become arbiters of government formation. The recent Tamil Nadu election saw actor-turned-politician Vijay's party emerge as the single largest, but the governor's discretion in inviting him to form the government sparked debate over constitutional conventions and political arithmetic.",
-    "img": "https://static.toiimg.com/photo/msid-131264274,imgsize-1088473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-game-of-numbers-when-governor-holds-the-key-to-peoples-verdict/articleshow/131264193.cms",
-    "time": "2026-05-22T13:17:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Were Rekha and Raj Babbar having an affair? His son Arya Babbar reacts",
     "desc": "Raj Babbar's son, Arya Babbar, addressed rumors of his father's affair with Rekha with humor. He playfully suggested that any admiration for the beautiful actress would be a natural human reaction. Arya also commented on celebrity gossip, emphasizing a positive outlook on life.",
@@ -441,15 +450,6 @@ const newsData_en = [
     "time": "2026-05-22T12:14:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajkummar's Raftaar gets new release date",
-    "desc": "Rajkummar Rao’s 'Raftaar' releases October 16 for Dussehra. Directed by Aditya Nimbalkar and produced by Patralekhaa, it stars Keerthy Suresh. Set in the ed-tech world, it explores ambition, love, and power struggles as a start-up rises amid moral conflicts and high-stakes success.",
-    "img": "https://static.toiimg.com/photo/msid-131263396,imgsize-24974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajkummar-raos-raftaar-gets-new-release-date-set-for-dussehra-theatrical-launch-on-october-16/articleshow/131263396.cms",
-    "time": "2026-05-22T12:11:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "AIIB launches $10 billion support facility for countries hit by Middle East conflict, India among key shareholders",
     "desc": "India's second-largest shareholder, the Asian Infrastructure Investment Bank (AIIB), has launched a $10 billion fund to aid member nations grappling with the Middle East conflict's economic fallout. This facility offers crucial support for energy and food security, alongside economic resilience, through fast-disbursing aid and liquidity for affected countries and businesses.",
@@ -460,30 +460,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Harry Styles says Radiohead song played during his first time",
-    "desc": "During the Ivor Novello Awards, Harry Styles expressed his admiration for Radiohead's deep-rooted effect on both his music and personal life while giving a nod to Thom Yorke. He recounted how 'Talk Show Host' played a pivotal role in his first romantic encounter and revealed how 'Exit Music' ignited the creative flame for 'Watermelon Sugar.",
-    "img": "https://static.toiimg.com/photo/msid-131263073,imgsize-56528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-says-he-lost-his-virginity-during-the-intro-of-radioheads-talk-show-host/articleshow/131263073.cms",
-    "time": "2026-05-22T11:50:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Juhi Chawla's son Arjun Mehta graduates from Columbia university",
     "desc": "Juhi Chawla celebrates her son Arjun Mehta's graduation from Columbia University, following daughter Jahnavi's similar academic success at the Ivy League institution. Juhi shared joyful glimpses of Arjun's New York ceremony, highlighting his proud walk across the stage. The family's academic achievements continue to shine.",
     "img": "https://static.toiimg.com/photo/msid-131263004,imgsize-66664.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/juhi-chawlas-son-arjun-mehta-graduates-from-columbia-university-after-her-daughter-jahnavi-mehta/articleshow/131262935.cms",
     "time": "2026-05-22T11:41:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NDA may lose seat, Congress set to gain; TVK debut likely",
-    "desc": "Biennial elections for 26 Rajya Sabha seats will be held on June 18, with the BJP-led NDA expected to lose one seat. The Congress-led opposition could see its tally improve to five seats. The elections will cover 12 states, with bypolls also scheduled for Maharashtra and Tamil Nadu.",
-    "img": "https://static.toiimg.com/photo/msid-131262979,imgsize-2375882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-polls-on-june-18-nda-may-lose-seat-congress-set-to-gain-tvk-debut-likely/articleshow/131262963.cms",
-    "time": "2026-05-22T11:39:52.000Z"
   },
   {
     "cat": "Sports",
