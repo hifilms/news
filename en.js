@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Rubio's maiden India visit aims to repair strained ties; boost Quad cooperation",
+    "desc": "The top U.S. diplomat is scheduled to hold wide-ranging talks with External Affairs Minister S. Jaishankar, in addition to meeting Prime Minister Narendra Modi and attending a meeting of the Quad Foreign Ministers in New Delhi",
+    "img": "https://th-i.thgim.com/public/incoming/5e1k9c/article71012380.ece/alternates/LANDSCAPE_1200/Sweden_NATO_Foreign_Ministers_78_6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rubios-maiden-india-visit-aims-to-repair-strained-ties-boost-quad-cooperation/article71012335.ece",
+    "time": "2026-05-22T19:30:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of kharif season, Dharwad Deputy Commissioner warns traders of strict action ‘creating artificial scarcity’",
+    "desc": "In the wake of early showers and expected onset of monsoon in the first week of June, farmers in Dharwad district have already started pre sowing activities and, Deputy Commissioner of Dharwad Snehal R. held a video conference with officials and dealers of seeds and fertilisers and farmer leaders",
+    "img": "https://th-i.thgim.com/public/incoming/iiq2r/article71012373.ece/alternates/LANDSCAPE_1200/2699_22_5_2026_19_45_54_1_23HUBLIDC_VCMEET.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/ahead-of-kharif-season-dharwad-deputy-commissioner-warns-traders-of-strict-action-creating-artificial-scarcity/article71011369.ece",
+    "time": "2026-05-22T19:15:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB captain Rajat Patidar overtakes Chris Gayle in six-hitting feat",
+    "desc": "Rajat Patidar has etched his name in IPL history, surpassing Chris Gayle for the third-fastest batter to 100 sixes. Achieving this milestone in just 933 deliveries, Patidar showcased his power-hitting prowess during a challenging chase against Sunrisers Hyderabad. His impactful innings, including a crucial six that secured RCB's top-two finish, highlights his growing importance for the team.",
+    "img": "https://static.toiimg.com/photo/msid-131266977,imgsize-153136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rcb-captain-rajat-patidar-overtakes-chris-gayle-in-explosive-six-hitting-feat/articleshow/131266986.cms",
+    "time": "2026-05-22T18:35:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB secure top-two berth despite 55 runs crushing defeat to SRH",
+    "desc": "Sunrisers Hyderabad's explosive batting secured a 55-run victory over Royal Challengers Bengaluru. Despite the loss, RCB clinched the top spot in the league table, powered by stellar performances from Abhishek Sharma, Ishan Kishan, and Heinrich Klaasen. RCB's chase, though falling short of the target, successfully achieved their crucial goal of crossing 166 runs to secure a top-two playoff finish.",
+    "img": "https://static.toiimg.com/photo/msid-131266970,imgsize-165388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rcb-secure-top-two-berth-despite-55-runs-crushing-defeat-to-srh/articleshow/131266973.cms",
+    "time": "2026-05-22T18:28:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Development is not about factories or roads; we must connect with people’",
+    "desc": "Maharashtra Deputy CM Eknath Shinde highlights the importance of projects in Maoist-affected areas of the State, batting for a cluster-based approach to development that covers multiple villages; he says the government’s monthly aid scheme for women will not be halted at any cost",
+    "img": "https://th-i.thgim.com/public/incoming/5kp8mi/article71012282.ece/alternates/LANDSCAPE_1200/emma_11908_22_5_2026_18_55_21_5_DSC_4962.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/development-is-not-about-factories-or-roads-we-must-connect-with-people/article71011593.ece",
+    "time": "2026-05-22T18:23:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Watch",
+    "desc": "Aishwarya Rai Bachchan has finally made her much-awaited red carpet appearance at the Cannes Film Festival 2026, putting all speculation around her absence to rest. The cameras refused to stop clicking the moment Aishwarya stepped onto the red carpet. The actress was also seen spending time with her close friend Eva Longoria.",
+    "img": "https://static.toiimg.com/photo/msid-131266752,imgsize-103108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-owns-the-cannes-2026-red-carpet-like-a-queen-reunites-with-eva-longoria-fans-call-her-shutterbugs-favourite/articleshow/131266712.cms",
+    "time": "2026-05-22T17:57:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aryna Sabalenka and Jannik Sinner lead French Open protest over prize money, player benefits",
+    "desc": "Top tennis players at the French Open are limiting Media Day engagements to protest Grand Slam revenue distribution. Stars like Aryna Sabalenka and Jannik Sinner are demanding a higher share of tournament revenue, improved benefits, and a greater say in the sport's decisions. This united stand aims to secure better financial security and influence for players.",
+    "img": "https://static.toiimg.com/photo/msid-131266687,imgsize-118060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/aryna-sabalenka-and-jannik-sinner-lead-french-open-protest-over-prize-money-player-benefits/articleshow/131266688.cms",
+    "time": "2026-05-22T17:55:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "youth caught in cricket betting trap",
+    "desc": "The rise of social media and easily accessible money-making applications has significantly altered the dynamics of betting and gambling in the State. Recent police crackdowns have uncovered syndicates linked to international networks, involving hundreds of mule bank accounts and transactions worth hundreds of crores of rupees. Officials warn that many individuals—particularly unemployed youth and students—are falling into severe debt, addiction, and psychological distress. This highlights the urgent need for awareness campaigns, counselling initiatives, and stronger digital regulations, writes Harish Gilai.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/debt-and-distress-youth-caught-in-cricket-betting-trap/article71006571.ece",
+    "time": "2026-05-22T17:52:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by ‘The Boroughs’ star Bill Pullman",
+    "desc": "Veteran actor Bill Pullman, known for his diverse roles, shared a powerful message about overcoming internal 'static noise' that hinders goals. He emphasizes that while distractions like self-doubt and fear are inevitable, conscious effort and self-discipline are key to clearing them out and achieving success. Pullman's latest project, 'The Boroughs,' showcases his continued acting prowess.",
+    "img": "https://static.toiimg.com/photo/msid-131265755,imgsize-65792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-the-boroughs-star-bill-pullman-youre-always-carrying-something-you-have-to-school-yourself-to-clean-that-out/articleshow/131265718.cms",
+    "time": "2026-05-22T17:30:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Import duty hike may reduce India's demand by 50-60 tonnes in 2026; WGC flags impact",
+    "desc": "India's gold demand is projected to drop by 50-60 tonnes in 2026, a 10% decrease, following a significant import duty hike. The World Gold Council notes this could also boost unofficial gold inflows, a trend observed historically with higher duties. Consumer sentiment and economic factors will also play a role.",
+    "img": "https://static.toiimg.com/photo/msid-131266369,imgsize-1013352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-demand-outlook-import-duty-hike-may-reduce-indias-demand-by-50-60-tonnes-in-2026-wgc-flags-impact/articleshow/131266372.cms",
+    "time": "2026-05-22T17:23:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "husband taken into custody, M.P. HC allows second autopsy",
+    "desc": "Earlier, Samarth Singh reached the Jabalpur district court on the evening of May 22, to surrender, his lawyer said; the anticipatory bail application was filed before the high court on May 21, 2026, after a subordinate court turned down his plea last week",
+    "img": "https://th-i.thgim.com/public/incoming/bew52r/article71012197.ece/alternates/LANDSCAPE_1200/20260522348L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-absconding-husband-jabalpur-district-court/article71010876.ece",
+    "time": "2026-05-22T17:11:44.000Z"
+  },
+  {
     "cat": "World",
     "title": "U.S. releases second batch of government declassified UFO files",
     "desc": "One of the 222 files released ‌on Friday (May 22, 2026) contains 116 pages of documentation relating to a series of reported sightings and investigations in a top-secret facility in Sandia, New ‌Mexico, from 1948 to 1950",
@@ -16,6 +115,24 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/reconstituted-pac-meets-bjp-objects-to-panel-taking-up-issuessuomotu/article71011835.ece",
     "time": "2026-05-22T16:56:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli scripts all-time T20 record, leaves Babar Azam and Gayle behind",
+    "desc": "Virat Kohli has etched his name in T20 cricket history, now holding the record for the most 50-plus partnerships. This latest milestone was achieved during the IPL 2026 match against Sunrisers Hyderabad, where he and Venkatesh Iyer forged another significant opening stand. Kohli's remarkable consistency continues to set new benchmarks in the sport.",
+    "img": "https://static.toiimg.com/photo/msid-131266129,imgsize-45336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-kohli-scripts-all-time-t20-record-leaves-babar-azam-and-chris-gayle-behind/articleshow/131266090.cms",
+    "time": "2026-05-22T16:53:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bhuvneshwar Kumar equals unwanted all-time IPL record during SRH carnage",
+    "desc": "Bhuvneshwar Kumar hit an unwanted IPL record, conceding 50+ runs for the ninth time. Sunrisers Hyderabad's explosive batting, led by Abhishek Sharma and Heinrich Klaasen, dismantled Royal Challengers Bengaluru's bowling attack on a flat pitch. SRH posted a massive 255/4, highlighting their batting prowess and exposing RCB's bowling weaknesses ahead of the playoffs.",
+    "img": "https://static.toiimg.com/photo/msid-131266091,imgsize-120276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-bhuvneshwar-kumar-equals-unwanted-all-time-ipl-record-during-srh-carnage/articleshow/131266065.cms",
+    "time": "2026-05-22T16:47:26.000Z"
   },
   {
     "cat": "Politics",
@@ -43,15 +160,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-notifies-final-draft-of-minimum-wages-with-average-increase-of-60/article71011111.ece",
     "time": "2026-05-22T16:32:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India successfully test-launches Agni-1 ballistic missile",
-    "desc": "India successfully test-fired its short-range ballistic missile, Agni-1, from Chandipur, Odisha. The Strategic Forces Command oversaw the launch, which validated all operational and technical parameters. This successful test underscores the nation's robust defense capabilities, as Agni 1 to 4 missiles, with ranges up to 3,500 km, are already deployed.",
-    "img": "https://static.toiimg.com/photo/msid-131265968,imgsize-1030043.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-successfully-test-launches-agni-1-ballistic-missile/articleshow/131265957.cms",
-    "time": "2026-05-22T16:27:36.000Z"
   },
   {
     "cat": "Sports",
@@ -126,15 +234,6 @@ const newsData_en = [
     "time": "2026-05-22T15:57:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Husband taken into custody from Jabalpur court premises",
-    "desc": "Earlier, Samarth Singh reached the Jabalpur district court on the evening of May 22, to surrender, his lawyer said; the anticipatory bail application was filed before the high court on May 21, 2026, after a subordinate court turned down his plea last week",
-    "img": "https://th-i.thgim.com/public/incoming/kkilo0/article71011068.ece/alternates/LANDSCAPE_1200/20260522293L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-absconding-husband-jabalpur-district-court/article71010876.ece",
-    "time": "2026-05-22T15:55:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Delhi HC slams WFI for denying Vinesh Phogat a chance to participate in the Asian Games trials",
     "desc": "WFI revised selection criteria to exclude wrestlers without 2025 or 2026 medals, termed Ms. Phogat’s 2024 Olympics disqualification a “national shame”, provoking the court’s ire; Ms. Phogat has not competed since December 2024, and had a baby in July 2025",
@@ -142,24 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/delhi-hc-pulls-up-wrestling-federation-over-decision-to-declare-vinesh-phogat-ineligible/article71009667.ece",
     "time": "2026-05-22T15:52:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CSIR‑IICT technology powers India’s compressed biogas scale-up",
-    "desc": "From rotting market waste to farm residue, India’s twin waste crisis is finding a sustainable solution in compressed biogas. Backed by CSIR-IICT innovations, the technology transforms organic waste into clean fuel, boosting farmer incomes, reducing pollution, and advancing the country’s circular economy goals",
-    "img": "https://th-i.thgim.com/public/incoming/tcjhza/article71011327.ece/alternates/LANDSCAPE_1200/006_NGP07.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/csir%E2%80%90iict-technology-powers-indias-compressed-biogas-scale-up/article71010761.ece",
-    "time": "2026-05-22T15:43:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court refers UAPA bail curbs to larger Bench for ‘authoritative’ ruling",
-    "desc": "Amid “perceived conflict” among Benches, top court refuses to examine “correctness of observations” made in a recent ruling; it grants interim bail to two Delhi riots accused; Additional Solicitor General says courts must strike balance between “interests of society” and “rights of accused”",
-    "img": "https://th-i.thgim.com/public/incoming/en4ykl/article71011874.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGRCG0OSNB.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-refers-uapa-bail-curbs-to-larger-bench-for-authoritative-ruling/article71010781.ece",
-    "time": "2026-05-22T15:41:32.000Z"
   },
   {
     "cat": "Sports",
@@ -279,15 +360,6 @@ const newsData_en = [
     "time": "2026-05-22T13:51:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Captain Patidar back for RCB; SRH opt to bat in Hyderabad",
-    "desc": "Sunrisers Hyderabad captain Pat Cummins won the toss and chose to bat against Royal Challengers Bengaluru in their IPL 2026 playoff clash. Both teams have already secured their playoff berths. Cummins expressed a desire to test strategies and enjoy the game before the serious business of the finals begins. Rajat Patidar returns to captain RCB.",
-    "img": "https://static.toiimg.com/photo/msid-131264681,imgsize-57444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-captain-rajat-patidar-back-for-rcb-srh-opt-to-bat-in-hyderabad/articleshow/131264680.cms",
-    "time": "2026-05-22T13:46:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Madhuri and Triptii face chaos in the film",
     "desc": "Madhuri Dixit, Triptii Dimri and Dharna Durga star in Maa Behen, a chaotic family drama directed by Suresh Triveni. The trailer shows conflict, crime, and comedy after a sudden death. Ravi Kishan and others join the cast. The film streams on Netflix on June 4.",
@@ -397,15 +469,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Shaan’s wife Radhika opens up about depression",
-    "desc": "Radhika Mukherji, wife of singer Shaan, revealed she battled severe depression over the past year. Sharing her healing journey on Instagram, she credited her husband and family for their unwavering support. Radhika also celebrated earning a diploma in Integrative Counselling Therapy, calling it her proudest birthday gift.",
-    "img": "https://static.toiimg.com/photo/msid-131263041,imgsize-34448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hardest-phase-of-life-shaans-wife-radhika-mukherji-opens-up-about-depression-credits-the-singer-for-support/articleshow/131263041.cms",
-    "time": "2026-05-22T11:42:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Juhi Chawla's son Arjun Mehta graduates from Columbia university",
     "desc": "Juhi Chawla celebrates her son Arjun Mehta's graduation from Columbia University, following daughter Jahnavi's similar academic success at the Ivy League institution. Juhi shared joyful glimpses of Arjun's New York ceremony, highlighting his proud walk across the stage. The family's academic achievements continue to shine.",
     "img": "https://static.toiimg.com/photo/msid-131263004,imgsize-66664.cms",
@@ -421,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-polls-on-june-18-nda-may-lose-seat-congress-set-to-gain-tvk-debut-likely/articleshow/131262963.cms",
     "time": "2026-05-22T11:39:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Perfect Crown' gets more backlash over KOCCA funding",
-    "desc": "South Korean drama 'Perfect Crown' faces intense public backlash over historical inaccuracies and claims of portraying Korea as a Chinese tributary state. The controversy intensified with the revelation of a 2 billion KRW government funding from KOCCA, sparking outrage over taxpayer money being used for a historically insensitive production.",
-    "img": "https://static.toiimg.com/photo/msid-131262939,imgsize-31854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/perfect-crown-backlash-update-fans-and-netizens-debate-over-kocca-funding-controversy/articleshow/131262939.cms",
-    "time": "2026-05-22T11:37:23.000Z"
   },
   {
     "cat": "Sports",
@@ -459,24 +513,6 @@ const newsData_en = [
     "time": "2026-05-22T10:58:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC refers UAPA bail question to larger bench, avoids responding to remarks on Umar Khalid, Sharjeel Imam verdict",
-    "desc": "The Supreme Court on Friday chose not to comment on observations questioning its earlier bail denial to activists Umar Khalid and Sharjeel Imam. While hearing bail pleas for other riot accused, the bench indicated it might grant interim bail, but will consider Delhi Police's plea for a larger bench review on UAPA bail norms.",
-    "img": "https://static.toiimg.com/photo/msid-131261844,imgsize-30296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-refers-uapa-bail-question-to-larger-bench-avoids-responding-to-remarks-on-umar-khalid-sharjeel-imam-verdict/articleshow/131261024.cms",
-    "time": "2026-05-22T10:42:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dept of space gives nod for space tech facilities in Tamil Nadu, Gujarat",
-    "desc": "India is set to revolutionize its private space manufacturing landscape with new Common Technical Facilities launching in Gujarat and Tamil Nadu. These innovative shared spaces will harness cutting-edge testing and integration infrastructure, paving the way for startups and companies to craft advanced spacecraft and launch vehicles more efficiently.",
-    "img": "https://static.toiimg.com/photo/msid-131262044,imgsize-239324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dept-of-space-gives-nod-for-space-tech-facilities-in-tamil-nadu-gujarat/articleshow/131261849.cms",
-    "time": "2026-05-22T10:41:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SBI Mutual Fund raises Bandhan Bank bet, stake crosses 5% mark after fresh share purchase",
     "desc": "SBI Mutual Fund has boosted its investment in Bandhan Bank. The fund's stake now exceeds five percent after buying more shares. This move was reported on May 20, 2026. Bandhan Bank shares saw a slight increase on Friday. Investors are watching this development closely.",
@@ -495,15 +531,6 @@ const newsData_en = [
     "time": "2026-05-22T10:00:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Copying Vaibhav Sooryavanshi would be 'foolish', says Devdutt Padikkal",
-    "desc": "Devdutt Padikkal lauded teenage sensation Vaibhav Sooryavanshi as a \"rare talent,\" deeming any attempt to replicate his unique batting style \"foolish.\" Sooryavanshi's explosive 93 off 38 balls made him the youngest to score 500+ T20 runs in a season, surpassing Padikkal's previous record. Both left-handers have been impactful players for their franchises.",
-    "img": "https://static.toiimg.com/photo/msid-131260857,imgsize-29340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-copying-vaibhav-sooryavanshi-would-be-foolish-says-devdutt-padikkal/articleshow/131260718.cms",
-    "time": "2026-05-22T09:31:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Is Kangana Ranaut married? Here is the TRUTH behind the mangalsutra",
     "desc": "Kangana Ranaut's recent appearance in a traditional married look outside a Mumbai theatre sparked marriage rumors. However, a source clarified she was shooting for 'Queen 2' and had no time to change before a dentist appointment. The sequel, reportedly in production, will explore similar themes of self-discovery.",
@@ -520,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-babbar-had-another-affair-after-smita-patils-death-reveals-arya-babbar-which-child-would-like-hearing-that/articleshow/131260266.cms",
     "time": "2026-05-22T08:49:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Not in the best interest of sports’: Delhi HC asks govt to ensure Vinesh’s Asiad trials participation",
-    "desc": "The Delhi High Court strongly criticised the Wrestling Federation of India for deeming Vinesh Phogat ineligible, suspecting rule changes targeted her post-maternity break. The court questioned the federation's actions, emphasising motherhood shouldn't disadvantage athletes, and directed the Centre to form an expert panel to assess her fitness for the Asian Games trials, ensuring her participation.",
-    "img": "https://static.toiimg.com/photo/msid-131260174,imgsize-39546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/not-in-the-best-interest-of-sports-delhi-high-court-asks-govt-to-ensure-vinesh-phogats-asian-games-trials-participation/articleshow/131260172.cms",
-    "time": "2026-05-22T08:40:05.000Z"
   },
   {
     "cat": "Tech",
@@ -610,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-22-may-2026-markets-rise-on-hopes-of-us-iran-breakthrough-oil-inflation-worries-persist/articleshow/131254968.cms",
     "time": "2026-05-22T03:41:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You want to see Abhishek, Klaasen, Trav, Ishan at their full flight'",
-    "desc": "Pat Cummins opens up on SRH’s fearless brand of cricket, the changing landscape of T20 batting, workload management, and surviving as an all-format fast bowler. The Australia captain also reflects on leadership, adapting to modern cricket, and the “wow” moment Vaibhav Sooryavanshi produced while taking on bowlers in the IPL",
-    "img": "https://static.toiimg.com/photo/msid-131255382,imgsize-167182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/pat-cummins-abhishek-klaassen-trav-ishan-shouldnt-be-told-that-they-can-only-bat-a-certain-way-you-want-to-see-them-at-their-full-flight/articleshow/131255368.cms",
-    "time": "2026-05-22T03:26:53.000Z"
   },
   {
     "cat": "Business",
@@ -729,15 +738,6 @@ const newsData_en = [
     "time": "2026-05-20T23:00:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Ship scarcity hits U.S. imports",
-    "desc": "In March, 4.5 lakh LPG shipments left the U.S. for India, up from 3.2 lakh and 2.7 lakh tonnes in previous months, as per data from Kpler; subsequent months saw shipments drop to 3.72 lakh tonnes and 1.67 lakh tonnes due to less carrier availability",
-    "img": "https://th-i.thgim.com/public/incoming/x3i7wk/article70999586.ece/alternates/LANDSCAPE_1200/2026-03-16T132217Z_1679008328_RC2M5KANAIIS_RTRMADP_3_IRAN-CRISIS-INDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/lpg-ship-scarcity-hits-us-imports/article70999561.ece",
-    "time": "2026-05-20T14:37:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India drops to 6th in WTC table after Bangladesh sweeps Pakistan 2-0",
     "desc": "Bangladesh now have 58.33% points with two wins, one loss and a draw in four Tests while India have 48.15% points from nine Tests, four wins and as many defeats along with a drawn Test",
@@ -781,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/decoding-the-musk-vs-altman-verdict/article70999519.ece",
     "time": "2026-05-20T02:38:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Islam takes four wickets as Bangladesh closes in on series sweep against Pakistan after Day 4four",
-    "desc": "Mohammad Rizwan was batting on 75 as the last hope for Pakistan, with Sajid Khan on 8 at stumps. Salman Agha and skipper Shan Masood added 71 runs each to help Pakistan take the test to a fifth day",
-    "img": "https://th-i.thgim.com/public/incoming/2hnw1y/article70999849.ece/alternates/LANDSCAPE_1200/AFP_B3AD3BF.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/islam-takes-four-wickets-as-bangladesh-closes-in-on-series-sweep-against-pakistan-after-day-4four/article70999848.ece",
-    "time": "2026-05-19T23:14:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
     "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

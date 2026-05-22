@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "টলিপাড়ায় ধুন্ধুমার: কোটি টাকার দুর্নীতির অভিযোগ, EIMPA হাউসে ধাক্কাধাক্কিতে অসুস্থ সভাপতি পিয়া",
+    "desc": "টলিপাড়ায় নজিরবিহীন কেলেঙ্কারি! উত্তাল EIMPA হাউস! ইস্টার্ন ইন্ডিয়া মোশন পিকচার্স অ্যাসোসিয়েশন (EIMPA)-এর যৌথ সাধারণ সভাকে কেন্দ্র করে আজ রণক্ষেত্রের চেহারা নিল বি.এন. সরকার সরণি। বর্তমান কমিটির বিরুদ্ধে কোটি কোটি টাকার আর্থিক তছরুপ, বহিরাগতদের সঙ্গে গোপন চুক্তি এবং হাইকোর্টের নির্দেশ অমান্য করার মারাত্মক অভিযোগ। সভা চলাকালীন বিশিষ্ট ব্যক্তিত্ব পিয়া সেনগুপ্তর হাতের একটি রহস্যময় ‘হলুদ ফাইল’ কেড়ে নিতে তেড়ে এলেন কিছু সদস্য! সদস্যদের কণ্ঠরোধের চেষ্টার অভিযোগে তোলপাড় চলচ্চিত্র মহল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/impa-house-chaos-corruption-scam-allegations-piya-sengupta-yellow-file_654965.html ",
+    "time": "2026-05-22T18:39:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "গলায় মঙ্গলসূত্র, হাতে সবুজ চুড়ি; গোপনে বিয়ে সারলেন? ক্যামেরা দেখেই আড়ালে কঙ্গনা",
     "desc": "সিনেমার গন্ডি পেরিয়ে কঙ্গনা পা রাখেন রাজনীতিতে ৷ সেখানে তাঁর সহকর্মী রাজনীতিবিদ ও অভিনেতা চিরাগ পাসোয়ানের সঙ্গে কঙ্গনার গভীর বন্ধুত্বপূর্ণ সম্পর্ক নিয়ে চর্চা হতে থাকে ৷ তাই বলে সরাসরি মঙ্গলসূত্র পরে সকলের সামনে হেঁটে গেলেন।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -216,15 +225,6 @@ const newsData_bn = [
     "time": "2026-05-16T05:18:53.000Z"
   },
   {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "থালাপতি জ্বরে কাঁপছে চেন্নাই, বিজয়ের জন্য ৬৫৪ কিমি পথ পায়ে হেঁটে চেন্নাইয়ে 'ফ্যান' দম্পতি",
     "desc": "প্রিয় তারকার জন্য সবকিছুই সম্ভব! তামিলনাড়ুর নবনির্বাচিত মুখ্যমন্ত্রী থালপতি বিজয়ের সঙ্গে দেখা করতে কেরালাম থেকে চেন্নাই পর্যন্ত ৬৫৪ কিমি পায়ে হেঁটে পাড়ি দিচ্ছেন এক দম্পতি। মহম্মদ রফি ও শাহানামোলের এই 'থালাপতি প্রেম' এখন নেটপাড়ায় তুঙ্গে।",
@@ -241,15 +241,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/cm-suvendu-adhikari-meeting-star-mlas-tollywood-reform-report_653857.html ",
     "time": "2026-05-13T13:28:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -304,23 +295,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/bjp-bengal-victory-raises-hopes-for-teesta-deal-bangladesh-optimistic_652893.html ",
     "time": "2026-05-06T15:36:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

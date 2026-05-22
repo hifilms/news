@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "આ હતા દુનિયાના સૌથી અમીર વ્યક્તિ, જેની સામે એલન મસ્ક પણ લાગશે ગરીબ! સંપત્તિ એટલી કે જાણીને નહીં આવે વિશ્વાસ",
+    "desc": "ઈતિહાસના સૌથી અમીર શાસક મંસા મૂસાની સંપત્તિ આગળ આજના અબજોપતિઓ પણ ગરમી લાગે છે. સોનાની ખાણો, વિશાળ સામ્રાજ્ય અને વ્યાપારિક માર્ગો પર નિયંત્રણ રાખનારા આ રાજાની કહાની આજે પણ દુનિયાને હેરાન કરી દે છે. ચાલો જાણીએ કોણ હતા મંસા મૂસા?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/this-was-the-richest-person-in-the-world-in-front-of-whom-even-elon-musk-would-feel-poor-wealth-so-much-that-even-knowing-it-will-not-bring-trust-478915 ",
+    "time": "2026-05-22T18:11:47.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "કેન્દ્રીય મંત્રી જીતનરામ માંઝી પર હુમલો, સ્ટેજ પર ભાષણ દરમિયાન પથ્થરમારો; પહેલાં પણ મળી ચૂકી છે ધમકી",
     "desc": "કેન્દ્રીય મંત્રી જીતનરામ માંઝી પર ગયાજી જિલ્લાના ખિઝરસરાયમાં આયોજિત એક કાર્યક્રમ દરમિયાન પથ્થરમારો કરવામાં આવ્યો. માંઝી જ્યારે ભાષણ આપી રહ્યા હતા ત્યારે તેમને નિશાન બનાવીને પથ્થર ફેંકવામાં આવ્યા. તેમને પહેલાં પણ હુમલાની ધમકી મળી ચૂકી છે.",
@@ -682,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/hathras-16-day-web-series-on-ott-zee5-web-series-based-on-true-crime-of-hathras-kand-2020-478253 ",
     "time": "2026-05-17T12:26:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "આવી ગઈ પ્રલયની ચોક્કસ તારીખ? 66 વર્ષ પહેલા વૈજ્ઞાનિકે કરી હતી ભવિષ્યવાણી, આ દિવસે ખતમ થઈ જશે માનવ સભ્યતા!",
-    "desc": "વર્ષ 1960માં એક પ્રખ્યાત વૈજ્ઞાનિક હેન્ઝ વોન ફોર્સ્ટરે કંઈક એવો દાવો કર્યો હતો, જેણે આખી દુનિયાને ચોંકાવી દીધી હતી. તેમના રિસર્ચ અનુસાર, 13 નવેમ્બર 2026 એ તારીખ છે જ્યારે માનવ સભ્યતા એક મોટા સંકટ અથવા પરિવર્તનના આરે આવીને ઊભી રહેશે. આ જ તારીખ જણાવવામાં આવી હતી, જેને કેટલાક લોકોએ દુનિયાના અંત સાથે જોડીને જોવાનું શરૂ કરી દીધું. અહીં જાણો શું છે તેની હકીકત?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/has-the-exact-date-of-the-apocalypse-arrived-66-years-ago-scientist-predicted-that-human-civilization-would-end-on-this-very-day-478251 ",
-    "time": "2026-05-17T12:01:20.000Z"
   },
   {
     "cat": "Tech",

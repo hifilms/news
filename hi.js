@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "5 ISL clubs write to AIFF over clarity regarding future; show concern, demand answers",
+    "desc": "A growing standoff between Indian Super League clubs and the All India Football Federation has intensified after the league game of the 2025-26 season. Multiple clubs have publicly warned that their long-term involvement in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/5-isl-clubs-write-to-aiff-over-clarity-regarding-future-show-concern-demand-answers-2026-05-22-1042134",
+    "time": "2026-05-22T18:17:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB suffer embarrassing defeat to Hyderabad in IPL 2026, yet seal spot in top two spot alongside GT",
+    "desc": "In their final league game of the season, Royal Challengers Bengaluru suffered an embarrassing 55-run defeat to Sunrisers Hyderabad in the IPL 2026. They were schooled with the ball in the first innings and multiple...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-suffer-embarrassing-defeat-to-hyderabad-in-ipl-2026-yet-seal-spot-in-top-two-spot-alongside-gt-2026-05-22-1042133",
+    "time": "2026-05-22T17:59:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Even to be in conversation with Sachin Tendulkar is enough for me'",
+    "desc": "Joe Root has reflected on the scale of Sachin Tendulkar’s achievements while continuing his own climb up the all-time Test run charts. The England batter, currently second on the all-time list with 13,943 runs, trails...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/even-to-be-in-conversation-with-sachin-tendulkar-is-enough-for-me-joe-root-on-breaking-test-record-2026-05-22-1042129",
+    "time": "2026-05-22T17:19:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ireland announce Test squad vs New Zealand, Paul Stirling, key pacers ruled out",
     "desc": "Ireland have named four uncapped young cricketers in their 14-member squad for the historic Test against New Zealand in Belfast. Among the fresh faces are opener Jake Egan and fast bowlers Tom Mayes, Reuben Wilson...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/england-announce-fifa-world-cup-2026-squad-trent-foden-palmer-dropped-by-tuchel-2026-05-22-1042082",
     "time": "2026-05-22T10:12:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi high court slams WFI over Vinesh Phogat's 'ineligible' decision, asks for expert evaluation",
-    "desc": "The controversy surrounding Indian wrestler Vinesh Phogat has taken the country by storm. It is worth noting that the WFI (Wrestling Federation of India) declared Vinesh Phogat ineligible for the upcoming Asian Games. Notably, Phogat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/delhi-high-court-slams-wfi-over-vinesh-phogat-s-ineligible-decision-asks-for-expert-evaluation-2026-05-22-1042075",
-    "time": "2026-05-22T09:19:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Made a big difference': Devdutt Padikkal reflects on batting alongside Virat Kohli, ponders on his IPL career",
-    "desc": "Defending IPL (Indian Premier League) champions Royal Challengers Bengaluru have been in brilliant form in the ongoing edition of the tournament. Coming into the competition, RCB have managed to stay atop the standings ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/made-a-big-difference-devdutt-padikkal-reflects-on-batting-alongside-virat-kohli-ponders-on-his-ipl-career-2026-05-22-1042071",
-    "time": "2026-05-22T08:57:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SRH vs RCB Head-to-Head record ahead of game 67 in IPL 2026",
-    "desc": "Game 67 of the ongoing IPL (Indian Premier League) 2026 sees Sunrisers Hyderabad taking on Royal Challengers Bengaluru. The two sides met at the Rajiv Gandhi International Stadium in Hyderabad on May 22nd, and both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rcb-head-to-head-record-ahead-of-game-67-in-ipl-2026-2026-05-22-1042061",
-    "time": "2026-05-22T07:59:44.000Z"
   }
 ];
