@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Delhi HC clears Vinesh Phogat for Asian Games trials after WFI initially denied",
+    "desc": "India wrestler Vinesh Phogat has received a major legal boost ahead of the Asian Games selection process after the Delhi High Court ruled in her favour and directed that she be allowed to participate in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/delhi-hc-clears-vinesh-phogat-for-asian-games-trials-after-wfi-initially-denied-2026-05-23-1042236",
+    "time": "2026-05-23T18:09:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Age hasn't come into it': Trevor Penney hails Vaibhav Sooryavanshi for exceptional IPL 2026 season",
+    "desc": "Rajasthan Royals are all set to take on Mumbai Indians in a must-win clash in the 69th game of the ongoing IPL (Indian Premier League) 2026. The side will play at the Wankhede Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/age-hasn-t-come-into-it-trevor-penney-hails-vaibhav-sooryavanshi-for-exceptional-ipl-2026-season-2026-05-23-1042235",
+    "time": "2026-05-23T18:02:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer leads by example as Punjab thump Lucknow to remain alive in IPL 2026 playoffs race",
+    "desc": "After suffering six consecutive defeats, Punjab Kings returned to winning ways in the clash against Lucknow Super Giants at the Ekana. Their back was against the wall and they needed something extraordinary to turn the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-leads-by-example-as-punjab-thump-lucknow-to-remain-alive-in-ipl-2026-playoffs-race-2026-05-23-1042234",
+    "time": "2026-05-23T17:40:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI announce replacements for Quinton de Kock and Raj Angad Bawa ahead of final clash of the season",
+    "desc": "Five-time IPL (Indian Premier League) champions Mumbai Indians have come forward and announced the replacement signings of the injured duo of Quinton de Kock and Raj Angad Bawa. The side announced the signing of Mahipal...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-announce-replacements-for-quinton-de-kock-and-raj-angad-bawa-ahead-of-final-clash-of-the-season-2026-05-23-1042233",
+    "time": "2026-05-23T16:47:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh flops again in PBKS' must-win game vs LSG, extends lead in unwanted list",
+    "desc": "In Punjab Kings’ must-win game against Lucknow Super Giants, pacer Arshdeep Singh endured one of the most expensive spells of his IPL career. Expected to spearhead the attack in such a high-voltage encounter, the left-arm...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-flops-again-in-pbks-must-win-game-vs-lsg-extends-lead-in-unwanted-list-2026-05-23-1042231",
+    "time": "2026-05-23T16:44:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'We are hungry'",
     "desc": "The Indian team have left for England for the upcoming Women’s T20 World Cup. Defining all the odds, the Harmanpreet Kaur-led side won the ODI World Cup at home in November and that should give...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mi-head-coach-mahela-jayawardene-shares-fitness-update-on-rohit-sharma-ahead-of-clash-vs-rr-2026-05-23-1042221",
     "time": "2026-05-23T14:25:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings hold onto hope, limit LSG to a subpar total",
-    "desc": "Punjab Kings will take on Lucknow Super Giants in the 68th game of the ongoing IPL (Indian Premier League) 2026. The two sides will meet at the Ekana Stadium in Lucknow. It is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-pbks-live-cricket-score-punjab-kings-hold-onto-dear-life-opt-to-bowl-in-must-win-clash-2026-05-23-1042218",
-    "time": "2026-05-23T13:55:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Mitchell Marsh not playing vs Punjab Kings in LSG's final league game of IPL 2026?",
-    "desc": "Australia international Mitchell Marsh isn’t available for Lucknow Super Giants’ high-profile clash against Punjab Kings at the IPL 2026. He has reportedly left for Pakistan to take part in the three-match ODI series. In his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-marsh-not-playing-vs-punjab-kings-in-lsg-s-final-league-game-of-ipl-2026-2026-05-23-1042217",
-    "time": "2026-05-23T13:50:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Really stuck with me': Mukul Choudhary opens up on his conversations with Virat Kohli",
-    "desc": "Lucknow Super Giants’ up-and-coming batter Mukul Choudhary has been one of the most talked-about talents in the ongoing IPL (Indian Premier League) 2026 season. With him winning a game for LSG in the season as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/really-stuck-with-me-mukul-choudhary-opens-up-on-his-conversations-with-virat-kohli-2026-05-23-1042211",
-    "time": "2026-05-23T12:32:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did Rachin Ravindra leave KKR camp before end of IPL 2026 season? New Zealand international reveals",
-    "desc": "Rachin Ravindra left the Kolkata Knight Riders camp to join the New Zealand squad for the upcoming Test assignment against Ireland and England later in June. Notably, the all-rounder didn’t feature in any matches for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-rachin-ravindra-leave-kkr-camp-before-end-of-ipl-2026-season-new-zealand-international-reveals-2026-05-23-1042208",
-    "time": "2026-05-23T12:12:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester United's Bruno Fernandes named Premier League Player of the Season",
-    "desc": "In a major moment for Manchester United’s star midfielder, Bruno Fernandes has been awarded the Premier League Player of the Season award for his brilliant performances throughout the season for Manchester United in the Premier...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-united-s-bruno-fernandes-named-premier-league-player-of-the-season-2026-05-23-1042206",
-    "time": "2026-05-23T12:00:58.000Z"
   }
 ];
