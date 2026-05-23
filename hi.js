@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Not RCB, GT favourites to win IPL 2026? Fascinating stat favours 2022 champions to bag second crown",
+    "desc": "The top three places in the Indian Premier League 2026 have been confirmed after Sunrisers Hyderabad failed to take the first spot in the points table. RCB topped the league, while SRH finished third. Gujarat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-rcb-gt-favourites-to-win-ipl-2026-fascinating-stat-favours-2022-champions-to-bag-second-crown-2026-05-23-1042146",
+    "time": "2026-05-23T02:12:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli refuses handshake with Travis Head after on-field exchange in Hyderabad",
+    "desc": "Virat Kohli avoided a handshake with Australian cricketer Travis Head after Sunrisers Hyderabad's win over the Royal Challengers Bengaluru in the Indian Premier League 2026 on Friday, May 22. Kohli and Head were involved in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-refuses-handshake-with-travis-head-after-on-field-exchange-in-hyderabad-watch-2026-05-23-1042142",
+    "time": "2026-05-23T01:33:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "5 ISL clubs write to AIFF over clarity regarding future; show concern, demand answers",
     "desc": "A growing standoff between Indian Super League clubs and the All India Football Federation has intensified after the league game of the 2025-26 season. Multiple clubs have publicly warned that their long-term involvement in the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-odi-squad-for-australia-series-babar-azam-returns-while-mohammad-rizwan-dropped-2026-05-22-1042097",
     "time": "2026-05-22T11:49:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It has been so fu***** fun'",
-    "desc": "Pep Guardiola revealed his decision to leave Manchester City at the end of the 2025-26 season. The decision arrives despite the Spaniard still having a year left on his contract. This season, the 55-year-old guided...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/it-has-been-so-fu-fun-pep-guardiola-announces-decision-to-leave-manchester-city-after-a-decade-2026-05-22-1042088",
-    "time": "2026-05-22T10:45:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England announce FIFA World Cup 2026 squad; Trent, Foden, Palmer dropped by Tuchel",
-    "desc": "England manager Thomas Tuchel has finalised his squad for the 2026 World Cup, leaving several established names out of the marquee competition. Among the biggest surprises is the exclusion of Trent Alexander-Arnold, with full-back places...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/england-announce-fifa-world-cup-2026-squad-trent-foden-palmer-dropped-by-tuchel-2026-05-22-1042082",
-    "time": "2026-05-22T10:12:17.000Z"
   }
 ];
