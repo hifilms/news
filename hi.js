@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Really stuck with me': Mukul Choudhary opens up on his conversations with Virat Kohli",
+    "desc": "Lucknow Super Giants’ up-and-coming batter Mukul Choudhary has been one of the most talked-about talents in the ongoing IPL (Indian Premier League) 2026 season. With him winning a game for LSG in the season as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/really-stuck-with-me-mukul-choudhary-opens-up-on-his-conversations-with-virat-kohli-2026-05-23-1042211",
+    "time": "2026-05-23T12:32:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why did Rachin Ravindra leave KKR camp before end of IPL 2026 season? New Zealand international reveals",
+    "desc": "Rachin Ravindra left the Kolkata Knight Riders camp to join the New Zealand squad for the upcoming Test assignment against Ireland and England later in June. Notably, the all-rounder didn’t feature in any matches for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-rachin-ravindra-leave-kkr-camp-before-end-of-ipl-2026-season-new-zealand-international-reveals-2026-05-23-1042208",
+    "time": "2026-05-23T12:12:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester United's Bruno Fernandes named Premier League Player of the Season",
+    "desc": "In a major moment for Manchester United’s star midfielder, Bruno Fernandes has been awarded the Premier League Player of the Season award for his brilliant performances throughout the season for Manchester United in the Premier...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-s-bruno-fernandes-named-premier-league-player-of-the-season-2026-05-23-1042206",
+    "time": "2026-05-23T12:00:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Ekana Stadium in Lucknow play?",
+    "desc": "The 68th game of the ongoing IPL (Indian Premier League) 2026 will see Lucknow Super Giants taking on Punjab Kings. The two sides will meet at the Ekana Stadium in Lucknow on May 23, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-pbks-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-2026-05-23-1042198",
+    "time": "2026-05-23T10:46:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup 2026 will finally be broadcast in India, officials secure deal for marquee tournament: Report",
+    "desc": "On Friday evening, several FIFA officials landed in India to discuss the FIFA World Cup media rights with several broadcasters. After a lengthy discussion with several companies, an agreement is reported to be secured. Notably,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/fifa-world-cup-2026-will-finally-be-broadcast-in-india-officials-secure-deal-for-marquee-tournament-report-2026-05-23-1042197",
+    "time": "2026-05-23T10:38:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PBKS receive big boost in IPL 2026 playoff hopes, another LSG star leaves squad ahead of last league game",
     "desc": "Punjab Kings have received a major boost to their hopes for the IPL 2026 playoffs as Lucknow Super Giants are set to be without two of their star overseas players for the clash at the...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shatters-major-t20-world-record-despite-blip-against-srh-in-hyderabad-2026-05-23-1042157",
     "time": "2026-05-23T04:53:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Heinrich Klaasen creates T20 world record, becomes first-ever player to achieve major milestone in IPL 2026",
-    "desc": "Former South Africa batter and Sunrisers Hyderabad star Heinrich Klaasen has etched his name into the history books. The hard-hitting middle-order batter achieved a huge milestone during the Indian Premier League 2026, continuing his stellar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/heinrich-klaasen-creates-t20-world-record-becomes-first-ever-player-to-achieve-major-milestone-in-ipl-2026-2026-05-23-1042152",
-    "time": "2026-05-23T04:08:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Top 3 locked in, four-way battle for fourth spot",
-    "desc": "Sunrisers Hyderabad defeated defending champions Royal Challengers Bengaluru in their final league stage match in the Indian Premier League 2026 on Friday, but could not secure a top-two finish. SRH had put up 255/4 batting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-top-3-locked-in-four-way-battle-for-fourth-spot-2026-05-23-1042150",
-    "time": "2026-05-23T03:40:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Not RCB, GT favourites to win IPL 2026? Fascinating stat favours 2022 champions to bag second crown",
-    "desc": "The top three places in the Indian Premier League 2026 have been confirmed after Sunrisers Hyderabad failed to take the first spot in the points table. RCB topped the league, while SRH finished third. Gujarat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-rcb-gt-favourites-to-win-ipl-2026-fascinating-stat-favours-2022-champions-to-bag-second-crown-2026-05-23-1042146",
-    "time": "2026-05-23T02:12:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli refuses handshake with Travis Head after on-field exchange in Hyderabad",
-    "desc": "Virat Kohli avoided a handshake with Australian cricketer Travis Head after Sunrisers Hyderabad's win over the Royal Challengers Bengaluru in the Indian Premier League 2026 on Friday, May 22. Kohli and Head were involved in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-refuses-handshake-with-travis-head-after-on-field-exchange-in-hyderabad-watch-2026-05-23-1042142",
-    "time": "2026-05-23T01:33:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 ISL clubs write to AIFF over clarity regarding future; show concern, demand answers",
-    "desc": "A growing standoff between Indian Super League clubs and the All India Football Federation has intensified after the league game of the 2025-26 season. Multiple clubs have publicly warned that their long-term involvement in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/5-isl-clubs-write-to-aiff-over-clarity-regarding-future-show-concern-demand-answers-2026-05-22-1042134",
-    "time": "2026-05-22T18:17:55.000Z"
   }
 ];

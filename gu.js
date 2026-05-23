@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "ભાવ વધારા બાદ પણ આ શહેરમાં 86 રૂપિયે મળી રહ્યું છે પેટ્રોલ, જાણો શું છે ડીઝલનો ભાવ",
+    "desc": "10 દિવસમાં 3 વખત પેટ્રોલ અને ડીઝલના ભાવમાં વધારો થયો છે. આજે પણ પેટ્રોલના ભાવ 87 પૈસા વધયા છે, જ્યારે ડીઝલના ભાવમાં પણ 91 પૈસાનો વધારો થયો છે. આ વધારા છતાં આ શહેરમાં પેટ્રોલ 86 રૂપિયે પ્રતિ લિટર મળી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/cheap-petrol-and-diesel-are-available-in-port-blair-even-after-price-hike-479005 ",
+    "time": "2026-05-23T12:17:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રિલીઝ થયાની સાથે જ હીટ થઈ ગઈ આ સીરીઝ, 7 એપિસોડની ક્રાઈમ થ્રિલર સીરીઝ પાછળ પાગલ થયા લોકો",
+    "desc": "ક્રાઈમ થ્રિલર સીરીઝ જોવાના શોખીનો માટે zee5 પર 7 એપિસોડની જોરદાર વેબ સીરીઝ રિલીઝ થઈ છે. આ વેબ સીરીઝ રિલીઝ થયાની સાથે જ હીટ થઈ ગઈ છે. જો તમે રેટિંગને ધ્યાનમાં રાખીને પણ વેબ સીરીઝ જુઓ છો તો પણ આ વેબ સીરીઝ 9.1 રેટિંગ સાથે મસ્ટ વોચ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/satrangi-badle-ka-khel-web-series-ott-hindi-crime-thriller-series-with-highest-imdb-rating-479004 ",
+    "time": "2026-05-23T12:07:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પોઇન્ટ્સ ટેબલમાં ટોપ પર RCB, છતાં GT બનશે ચેમ્પિયન? આંકડાઓએ વધારી બેંગલુરુ ફેન્સની ચિંતા",
+    "desc": "IPL 2026 ના લીગ સ્ટેજમાં રોયલ ચેલેન્જર્સ બેંગલુરુએ શાનદાર પ્રદર્શન કરીને પોઇન્ટ્સ ટેબલમાં પ્રથમ સ્થાન મેળવ્યું છે, જ્યારે ગુજરાત ટાઇટન્સ બીજા ક્રમે રહી છે. જોકે, IPL ઇતિહાસનો એક રસપ્રદ આંકડો આ વખતે ગુજરાતને ખિતાબનું સૌથી મોટું દાવેદાર ગણાવી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-rcb-tops-the-points-table-but-will-gt-still-as-champions-statistics-heighten-anxiety-for-bengaluru-fans-478992 ",
+    "time": "2026-05-23T11:31:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "એક પણ મેચ રમ્યા વિના IPL ફાઇનલમાં પહોંચી શકે છે RCB, જાણો કેવી રીતે થશે આ ચમત્કાર",
+    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોર એક પણ મેચ રમ્યા વિના IPL 2026ની ફાઇનલમાં પહોંચી શકે છે. RCB અને ગુજરાત ટાઇટન્સ વચ્ચે IPL 2026 ક્વોલિફાયર-1 મંગળવાર, 26 મેના રોજ રમાશે, ત્યારે આ લેખમાં જાણીશું કે, RCBને કયા સંજાગોમાં સીધી ફાઇનલની ટિકિટ મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rcb-can-reach-ipl-2026-final-without-playing-a-single-match-know-how-this-will-happen-478991 ",
+    "time": "2026-05-23T11:21:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મેચના ગણતરીના કલાકો પહેલા પંજાબ કિંગ્સ માટે ગુડ ન્યૂઝ... LSGનો સ્ટાર બેટ્સમેન નહીં રમે છેલ્લી મેચ, જાણો શું છે કારણ",
+    "desc": "LSGનો ઓપનર મિશેલ માર્શ આ મેચમાં રમશે નહીં. માર્શ આ સિઝનમાં લખનૌ સુપર જાયન્ટ્સ માટે સૌથી વધુ રન બનાવનાર ખેલાડી છે. આ પહેલા અનુભવી બેટ્સમેન એડન માર્કરમ પણ વ્યક્તિગત કારણોસર દક્ષિણ આફ્રિકા પરત ફર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-lucknow-super-giants-vs-punjab-kings-mitchell-marsh-unavailable-478983 ",
+    "time": "2026-05-23T10:45:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમેરિકાના વિદેશ મંત્રી માર્કો રુબિયો સાથે ભારત આવેલી શક્તિશાળી મહિલા કોણ છે? ત્રીજી વ્યક્તિ પણ છે ખૂબ જ ખાસ",
+    "desc": "અમેરિકાના વિદેશ મંત્રી માર્કો રુબિયો શનિવારે ભારતની તેમની પહેલી મુલાકાત માટે કોલકાતા પહોંચ્યા. એરપોર્ટ પર તેમનું સ્વાગત અમેરિકી રાજદૂત સર્જિયો ગોરે કર્યું. ભારતની મુલાકાતે રુબિયો સાથે આવેલા અન્ય બે શક્તિશાળી વ્યક્તિઓ કોણ છે તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-the-powerful-woman-who-came-to-india-with-us-secretary-of-state-marco-rubio-the-third-person-is-also-very-special-478980 ",
+    "time": "2026-05-23T10:27:33.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "જો પેટ્રોલ-ડીઝલ પર GST લાગુ પડે તો દૂર થઈ જશે બધી ચિંતા, 22 રૂપિયા ઘટી જશે કિંમત",
     "desc": "પેટ્રોલ અને ડીઝલની કિંમતોમાં છેલ્લા એક સપ્તાહમાં ત્રીજીવાર વધારો થયો છે. વધતી કિંમતો વચ્ચે આ બંને પ્રોડક્ટને જીએસટી હેઠળ લાવવાની ચર્ચા શરૂ થઈ ગઈ છે. જો તમે પણ વિચારો છો કે તેલ પર જીએસટી લાગવાથી કેટલો ફાયદો થશે, તો આવો તમને ઉદાહરણ સાથે સમજાવીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -306,15 +360,6 @@ const newsData_gu = [
     "time": "2026-05-22T04:50:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "LPG સંકટની અફવાઓ વચ્ચે સરકારે આપ્યા મોટા ખુશખબર, જાણો અમદાવાદ સહિત શહેરોમાં શું છે બાટલાનો ભાવ",
-    "desc": "મીડિલ ઈસ્ટમાં ભારે તણાવ અને સંકટને પગલે અનેક દેશોમાં એલપીજી, પેટ્રોલ, ડીઝલની સમસ્યાઓ જોવા મળી રહી છે, જો કે ભારત સરકારના સતત પ્રયત્નો છે કે દેશના લોકોને આ મામલે કોઈ સમસ્યા ન થાય. આ બધા વચ્ચે એલપીજી પર એક સારા સમાચાર આવ્યા છે. આજના એલપીજી બાટલાના ભાવ પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/middle-east-crisis-good-news-about-lpg-check-latest-ahmedabad-lpg-cylinder-pirce-478797 ",
-    "time": "2026-05-22T03:24:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ટ્વિશા શર્માની છેલ્લી ફિલ્મ OTT પર કરી રહી છે ટ્રેંડ, અભિનેત્રી છેલ્લી ફિલ્મ પણ હતી મર્ડર મિસ્ટ્રી",
     "desc": "અભિનેત્રી, મોડલ ટ્વિશા શર્માના મોતની ઘટના પછી તેની છેલ્લી ફિલ્મ ટ્રેંડ કરવા લાગી છે. જોગાનુજોગ ટ્વિશા શર્માની છેલ્લી ફિલ્મ પણ એક મર્ડર મિસ્ટ્રી થ્રિલર ફિલ્મ છે. 2021 માં આવેલી આ ફિલ્મ હવે ઓટીટી પર ટ્રેંડ થઈ રહી છે.",
@@ -322,24 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/twisha-sharma-last-murder-mystery-thriller-film-on-prime-video-trending-movie-478789 ",
     "time": "2026-05-22T02:23:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NTA ચીફનો મોટો દાવો! ‘NEETમાં પેપર લીક નથી થયું’, સંસદની પેનલ સામે કહી ચોંકાવનારી વાત",
-    "desc": "NEET પેપર લીક વિવાદ વચ્ચે NTA ચીફે સંસદની સ્થાયી સમિતિ સમક્ષ મોટો દાવો કર્યો છે. એજન્સીનું કહેવું છે કે, NEETમાં આખું પેપર લીક નહોતું થયું, પરંતુ માત્ર કેટલાક પ્રશ્નો જ બહાર આવ્યા હતા. જાણો બેઠકમાં શું-શું કહેવામાં આવ્યું અને હવે વિદ્યાર્થીઓ પર તેની શું અસર પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/nta-chief-big-claim-there-was-no-paper-leak-in-neet-he-said-something-shocking-in-front-of-a-parliamentary-panel-478788 ",
-    "time": "2026-05-21T17:46:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોકરોચ જનતા પાર્ટી તો બનાવી લીધી પણ &amp;#039;કોકરોચ&amp;#039; ચૂંટણી ચિહ્ન મળવું મુશ્કેલ, જાણો ચૂંટણી પંચના નિયમો",
-    "desc": "કોકરોચ જનતા પાર્ટી સોશિયલ મીડિયા પર ઝડપથી ચર્ચા આવી ગઈ છે. ચૂંટણી લડવા માટે પાર્ટીએ પહેલા ચૂંટણી પંચમાં રજિસ્ટ્રેશન કરાવવું પડશે. સૌથી મોટો પડકાર તેના ચૂંટણી ચિહ્નને લઈને છે, કારણ કે ECIના નિયમો નવા પશુ-આધારિત પ્રતીકની પરવાનગી આપતા નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cockroach-janata-party-has-been-formed-but-it-is-difficult-to-get-the-cockroach-election-symbol-know-the-rules-of-the-election-commission-478787 ",
-    "time": "2026-05-21T17:09:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -477,15 +504,6 @@ const newsData_gu = [
     "time": "2026-05-20T10:04:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "નથી આવી રહી ગેસ સબસિડી? મોબાઈલ નંબરથી આ રીતે કરો ચેક; મિનિટોમાં ખબર પડી જશે ખાતામાં પૈસા આવ્યા કે નહીં",
-    "desc": "આજે પણ દેશના કરોડો લોકો એલપીજી ગેસ સિલિન્ડર પર મળતી સબસિડીનો લાભ ઉઠાવે છે. જો કે, ઘણા લોકોને એ ખબર જ નથી પડતી કે સબસિડીના પૈસા તેમના બેંક ખાતામાં આવ્યા છે કે નહીં. આવા સમયે લોકો ગેસ એજન્સીના ચક્કર લગાવતા રહે છે, જ્યારે આ કામ ઘરે બેઠા પણ સરળતાથી થઈ શકે છે. જો તમારો મોબાઈલ નંબર ગેસ કનેક્શન અને બેંક ખાતા સાથે લિંક હોય, તો ઘરે બેઠા જ થોડી મિનિટોમાં સબસિડીનું સ્ટેટસ ચેક કરી શકાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/not-receiving-your-gas-subsidy-heres-how-to-check-using-your-mobile-number-478619 ",
-    "time": "2026-05-20T09:28:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "હાર બાદ રિષભ પંતે ગુમાવ્યો પિત્તો, ગુસ્સામાં બોલ્યો અપશબ્દ, જાણો કઈ વાતથી થયો આટલો નારાજ",
     "desc": "IPL 2026માં રિષભ પંતની આગેવાની હેઠળની લખનૌ સુપર જાયન્ટ્સનું પ્રદર્શન નિરાશાજનક રહ્યું છે. પ્લેઓફની રેસમાંથી પહેલાથી જ બહાર થઈ ગયેલી LSGને મંગળવારે રાજસ્થાન રોયલ્સ સામે કારમી હારનો સામનો કરવો પડ્યો. હાર બાદ પંતે ગુસ્સામાં એક વિચિત્ર નિવેદન આપ્યું હતું.",
@@ -538,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/customers-are-crazy-about-the-1-lakh-electric-bike-bookings-crossed-25000-in-15-days-range-is-180-km-478515 ",
     "time": "2026-05-19T13:17:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અફઘાનિસ્તાન સામેની ટેસ્ટ અને ODI સિરીઝ માટે ભારતીય ટીમની જાહેરાત... જાણો રોહિત અને કોહલીનું શું થયું",
-    "desc": "અફઘાનિસ્તાન સામેની આગામી ODI અને ટેસ્ટ શ્રેણી માટે ટીમ ઈન્ડિયાની જાહેરાત કરવામાં આવી છે. આજે BCCIની પસંદગી સમિતિની મળેલી બેઠક બાદ ટીમની જાહેરાત કરવામાં આવી છે. ત્યારે આ લેખમાં જાણીશું કે ટીમમાં કયા ખેલાડીઓને તક મળી છે અને કોનું પત્તુ કપાયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-squad-for-test-and-odi-series-against-afghanistan-shubman-gill-rohit-sharma-virat-kohli-478499 ",
-    "time": "2026-05-19T11:21:01.000Z"
   },
   {
     "cat": "Tech",
@@ -718,14 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-ott-release-india-jiohotstar-dhurandhar-2-uncut-version-release-date-june-2026-478040 ",
     "time": "2026-05-16T03:21:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "નેટફ્લિક્સ પર ચાર મહિનાથી ટોપ 10માં છવાઈ છે આ સસ્પેન્સ થ્રિલર ફિલ્મ, દરેક સીનમાં જોવા મળશે એક જોરદાર ટ્વિસ્ટ !",
-    "desc": "આ ફિલ્મ 5 ડિસેમ્બર, 2025ના રોજ સિનેમાઘરોમાં રિલીઝ થઈ હતી. આ ફિલ્મ ખૂબ જ સફળ રહી હતી. હાલમાં, તે OTT પ્લેટફોર્મ Netflix પર ધૂમ મચાવી રહી છે. આ ફિલ્મને IMDb તરફથી પણ મજબૂત રેટિંગ મળ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/this-suspense-thriller-film-has-been-in-the-top-10-on-netflix-for-four-months-a-powerful-twist-will-be-seen-in-every-scene-478021 ",
-    "time": "2026-05-15T16:24:23.000Z"
   }
 ];
