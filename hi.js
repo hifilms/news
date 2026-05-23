@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'We are hungry'",
+    "desc": "The Indian team have left for England for the upcoming Women’s T20 World Cup. Defining all the odds, the Harmanpreet Kaur-led side won the ODI World Cup at home in November and that should give...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-are-hungry-smriti-mandhana-determined-for-t20-world-cup-2026-success-in-england-2026-05-23-1042228",
+    "time": "2026-05-23T15:37:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch DFB Pokal final on TV and stream online in India?",
+    "desc": "The stage is set for the summit clash of the DFB Pokal, the domestic league cup of Germany. The final sees league champions Bayern Munich taking on VFB Stuttgart at the Olympiastadion in Berlin on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bayern-munich-vs-vfb-stuttgart-live-when-and-where-to-watch-dfb-pokal-final-on-tv-and-stream-online-in-india-2026-05-23-1042227",
+    "time": "2026-05-23T15:32:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals sign Punjab's spinner as replacement for injured Ravi Singh",
+    "desc": "In a major development for Rajasthan Royals, the side has come forward and announced the signing of Punjab’s all-rounder Emanjot Chahal as a replacement signing for Ravi Singh. It is worth noting that Ravi Singh...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-sign-punjab-s-spinner-as-replacement-for-injured-ravi-singh-2026-05-23-1042225",
+    "time": "2026-05-23T15:12:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB's star opener ruled out of IPL 2026, franchise confirmed ahead of Qualifier 1 vs GT",
+    "desc": "England opener Jacob Bethell has been ruled out of the remainder of the IPL 2026. Royal Challengers Bengaluru confirmed the development on their social media, confirming that the 22-year-old has hurt his ring finger during...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-s-star-opener-ruled-out-of-ipl-2026-franchise-confirmed-ahead-of-qualifier-1-vs-gt-2026-05-23-1042223",
+    "time": "2026-05-23T14:47:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI head coach Mahela Jayawardene shares fitness update on Rohit Sharma ahead of clash vs RR",
+    "desc": "Mumbai Indians head coach Mahela Jayawardene has dismissed suggestions that Rohit Sharma’s role as an Impact Substitute is linked to lingering fitness concerns. He revealed that the former captain has fully recovered from the hamstring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-head-coach-mahela-jayawardene-shares-fitness-update-on-rohit-sharma-ahead-of-clash-vs-rr-2026-05-23-1042221",
+    "time": "2026-05-23T14:25:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings hold onto hope, limit LSG to a subpar total",
+    "desc": "Punjab Kings will take on Lucknow Super Giants in the 68th game of the ongoing IPL (Indian Premier League) 2026. The two sides will meet at the Ekana Stadium in Lucknow. It is worth noting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-pbks-live-cricket-score-punjab-kings-hold-onto-dear-life-opt-to-bowl-in-must-win-clash-2026-05-23-1042218",
+    "time": "2026-05-23T13:55:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Mitchell Marsh not playing vs Punjab Kings in LSG's final league game of IPL 2026?",
+    "desc": "Australia international Mitchell Marsh isn’t available for Lucknow Super Giants’ high-profile clash against Punjab Kings at the IPL 2026. He has reportedly left for Pakistan to take part in the three-match ODI series. In his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-marsh-not-playing-vs-punjab-kings-in-lsg-s-final-league-game-of-ipl-2026-2026-05-23-1042217",
+    "time": "2026-05-23T13:50:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Really stuck with me': Mukul Choudhary opens up on his conversations with Virat Kohli",
     "desc": "Lucknow Super Giants’ up-and-coming batter Mukul Choudhary has been one of the most talked-about talents in the ongoing IPL (Indian Premier League) 2026 season. With him winning a game for LSG in the season as...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/manchester-united-s-bruno-fernandes-named-premier-league-player-of-the-season-2026-05-23-1042206",
     "time": "2026-05-23T12:00:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Ekana Stadium in Lucknow play?",
-    "desc": "The 68th game of the ongoing IPL (Indian Premier League) 2026 will see Lucknow Super Giants taking on Punjab Kings. The two sides will meet at the Ekana Stadium in Lucknow on May 23, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-pbks-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-2026-05-23-1042198",
-    "time": "2026-05-23T10:46:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026 will finally be broadcast in India, officials secure deal for marquee tournament: Report",
-    "desc": "On Friday evening, several FIFA officials landed in India to discuss the FIFA World Cup media rights with several broadcasters. After a lengthy discussion with several companies, an agreement is reported to be secured. Notably,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/fifa-world-cup-2026-will-finally-be-broadcast-in-india-officials-secure-deal-for-marquee-tournament-report-2026-05-23-1042197",
-    "time": "2026-05-23T10:38:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PBKS receive big boost in IPL 2026 playoff hopes, another LSG star leaves squad ahead of last league game",
-    "desc": "Punjab Kings have received a major boost to their hopes for the IPL 2026 playoffs as Lucknow Super Giants are set to be without two of their star overseas players for the clash at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-receive-big-boost-for-ipl-2026-playoffs-another-lsg-star-leaves-squad-ahead-of-last-league-game-2026-05-23-1042186",
-    "time": "2026-05-23T09:07:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can PBKS qualify for IPL 2026 playoffs as they face LSG in do-or-die clash?",
-    "desc": "Punjab Kings will have one final chance to bring their Indian Premier League 2026 campaign back on track when they face Lucknow Super Giants in their last league stage match of the tournament. Having started...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-pbks-qualify-for-ipl-2026-playoffs-as-they-face-lsg-in-do-or-die-clash-2026-05-23-1042182",
-    "time": "2026-05-23T08:42:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I won't drop Venkatesh Iyer for Phil Salt': Virender Sehwag calls bold change call for RCB ahead of playoffs",
-    "desc": "Former India cricketer Virender Sehwag put his weight behind Venkatesh Iyer after the RCB batter's strong performances in the limited opportunities that he has had in the IPL 2026. Iyer has batted only four times...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-wont-drop-venkatesh-iyer-for-phil-salt-virender-sehwag-calls-bold-change-call-for-rcb-ahead-of-playoffs-2026-05-23-1042177",
-    "time": "2026-05-23T08:08:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "George Russell leads Mercedes one-two in Sprint qualifying for Canadian GP in team's first major update",
-    "desc": "Mercedes driver George Russell bounced back to take the pole position at the Canadian GP Sprint qualifying after pipping teammate and championship leader Kimi Antonelli at the Circuit Gilles Villeneuve. Russell had seen his teammate...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/george-russell-leads-mercedes-one-two-in-sprint-qualifying-for-canadian-gp-in-teams-first-major-update-2026-05-23-1042169",
-    "time": "2026-05-23T06:36:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli shatters major T20 world record despite blip against SRH in Hyderabad",
-    "desc": "Virat Kohli had a bit of an off-day with the bat in Royal Challengers Bengaluru's IPL 2026 clash against the Sunrisers Hyderabad on Friday; however, the batting maestro shattered a major T20 world record despite...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shatters-major-t20-world-record-despite-blip-against-srh-in-hyderabad-2026-05-23-1042157",
-    "time": "2026-05-23T04:53:47.000Z"
   }
 ];
