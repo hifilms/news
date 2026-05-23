@@ -1,12 +1,39 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Abhishek's 2014 tweet on Aishwarya's Cannes look goes viral",
+    "desc": "Aishwarya Rai Bachchan is dazzling at the 79th Cannes Film Festival, earning widespread praise for her 'boss lady' feathered suit finale. This year's fashion triumphs have fans revisiting Abhishek Bachchan's 2014 tweet, where he expressed his awe at her stunning red carpet presence. Her iconic Cannes journey began in 2002, and she continues to captivate with every appearance.",
+    "img": "https://static.toiimg.com/photo/msid-131285293,imgsize-45874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/eyes-wide-open-abhishek-bachchans-old-tweet-on-seeing-aishwarya-rai-bachchan-at-2014-cannes-red-carpet-goes-viral-again/articleshow/131285282.cms",
+    "time": "2026-05-23T19:32:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK, Congress trade barbs over the latter’s post-poll alliance with the TVK",
+    "desc": "Speaking at a DMK youth wing meeting, Leader of the Opposition Udhayanidhi Stalin slams the Congress and says the national party is responsible for the BJP’s continuous victories in the country and alleges that the DMK has carried such a party on its shoulders in the Lok Sabha and recent Assembly elections",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/as2eat/article71015730.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-23%20at%208.38.01%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/war-of-words-between-dmk-and-congress-over-pre-and-post-poll-allegiances/article71015278.ece",
+    "time": "2026-05-23T19:10:35.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "TVK government will fall one day, says M.K. Stalin",
     "desc": "Addressing the party’s youth wing meeting, he asserts that what has happened in T.N. is “not a political tsunami, but a cinema tsunami” and likenes public support for Vijay to a child’s fascination with a new doll",
     "img": "https://th-i.thgim.com/public/incoming/4lh9h7/article71015724.ece/alternates/LANDSCAPE_1200/9868_16_4_2026_19_35_33_3_SPEACH_3_EDITED.JPEG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-government-will-fall-one-day-says-mk-stalin/article71015716.ece",
-    "time": "2026-05-23T18:58:41.000Z"
+    "time": "2026-05-23T19:09:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Raul Castro",
+    "desc": "The Trump administration, which has imposed a punishing blockade on Cuba, has indicted the 94-year old former revolutionary leader and President, in a replay of the farcical accusations that led to the U.S. abduction of Venezuelan President Nicolas Maduro early this year",
+    "img": "https://th-i.thgim.com/public/news/national/fnqe6t/article71015483.ece/alternates/LANDSCAPE_1200/Raul_Castro_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/raul-castro-the-old-man-and-the-siege/article71015484.ece",
+    "time": "2026-05-23T18:52:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -178,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/huge-blow-for-rcb-star-player-leaves-ipl-2026-camp-just-before-playoffs/articleshow/131282100.cms",
     "time": "2026-05-23T15:39:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sangeetha’s brush with a rampaging elephant",
-    "desc": "She was trapped in her car which was right in the way of the marauding elephant. The animal lifted the car, kept it suspended in the air for a moment, dropped it back and moved on",
-    "img": "https://th-i.thgim.com/public/incoming/82wc27/article71015314.ece/alternates/LANDSCAPE_1200/80688_23_5_2026_19_57_52_3_JANEESH_KKN2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/a-second-chance-at-life-sangeethas-brush-with-a-rampaging-elephant/article71014886.ece",
-    "time": "2026-05-23T15:34:10.000Z"
   },
   {
     "cat": "Politics",
@@ -450,15 +468,6 @@ const newsData_en = [
     "time": "2026-05-23T11:06:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Swipe, scroll, repeat",
-    "desc": "Social media's pervasive influence is reshaping childhood, impacting attention spans, emotional regulation, and self-esteem among Indian youth. Experts and parents highlight concerns over digital addiction, cyberbullying, and the erosion of real-world interactions. While acknowledging its benefits, the article stresses the need for balanced, mindful usage and open communication to navigate this digital landscape.",
-    "img": "https://static.toiimg.com/photo/msid-131277957,imgsize-1208170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/feature-swipe-scroll-repeat-how-social-media-algorithms-are-shaping-young-minds/articleshow/131277399.cms",
-    "time": "2026-05-23T10:52:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Aaradhya joins Aishwarya Rai on Cannes red carpet",
     "desc": "In a dazzling debut, Aaradhya Bachchan joined her glamorous mother Aishwarya Rai Bachchan on the red carpet at Cannes for the 'Lights On Women's Worth' event. Once a familiar face from the sidelines, Aaradhya embraced the limelight in an eye-catching red gown, signaling a thrilling transition into the spotlight that enchanted the audience and sparked enthusiastic accolades.",
@@ -466,24 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aaradhya-bachchans-cannes-journey-with-aishwarya-rai-comes-full-circle-with-red-carpet-debut/articleshow/131277931.cms",
     "time": "2026-05-23T10:50:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'India-US will continue to work closely for global good': PM Modi after meeting Marco Rubio",
-    "desc": "US Secretary of State Marco Rubio met with Prime Minister Narendra Modi in New Delhi, discussing deepening strategic ties across defense, trade, technology, and the Indo-Pacific. Rubio's visit, which includes meetings with Quad foreign ministers, highlights the strong partnership between the two nations, rooted in shared values and cooperation.",
-    "img": "https://static.toiimg.com/photo/msid-131278067,imgsize-1122618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-a-vital-partner-marco-rubio-meets-pm-modi-eam-jaishankar-in-new-delhi/articleshow/131277241.cms",
-    "time": "2026-05-23T10:37:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'49% followers from Pakistan': BJP claims Cockroach Janta Party holds only 9% support from India",
-    "desc": "The BJP has alleged that nearly half of the social media support for the viral 'Cockroach Janta Party' originates from Pakistan, with less than 10% from India. The party claims the digital campaign, which targets issues like unemployment and exam leaks, is a foreign influence operation aimed at destabilizing India.",
-    "img": "https://static.toiimg.com/photo/msid-131277764,imgsize-595712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/49-followers-from-pakistan-bjp-claims-cockroach-janta-party-holds-only-9-support-from-india/articleshow/131277705.cms",
-    "time": "2026-05-23T10:37:05.000Z"
   },
   {
     "cat": "Sports",
@@ -504,15 +495,6 @@ const newsData_en = [
     "time": "2026-05-23T10:07:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "West Bengal shifts Bakrid holiday to May 28, cancels earlier dates",
-    "desc": "The West Bengal government has rescheduled the Id-Ud-Zoha (Bakrid) public holiday to May 28, 2026, cancelling previous dates. Meanwhile, the Calcutta High Court upheld the state's notification restricting the slaughter of certain animals ahead of the festival, citing Supreme Court rulings.",
-    "img": "https://static.toiimg.com/photo/msid-131277401,imgsize-1602670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-shifts-bakrid-holiday-to-may-28-cancels-earlier-dates/articleshow/131277388.cms",
-    "time": "2026-05-23T10:04:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Iran war squeezes NRI deposits, overseas Indians pull out nearly $2 billion in March",
     "desc": "Overseas Indians withdrew nearly $2 billion more than they deposited in Indian bank accounts in March, driven by a fall in Non-Resident External Rupee Accounts and Non-Resident Ordinary accounts. This trend, linked to geopolitical uncertainty from the Iran war, saw total NRI deposits decline to $165.65 billion.",
@@ -529,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/irfan-pathan-explains-virat-kohli-travis-head-spat-says-rcb-star-plays-with-australian-style-intensity/articleshow/131276829.cms",
     "time": "2026-05-23T09:17:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' Day 65: Film narrowly misses Rs 1800 cr global mark",
-    "desc": "The Revenge' continues its remarkable theatrical run, crossing nine weeks and amassing over Rs 1790 crore globally. The spy thriller, directed by Aditya Dhar, has achieved the highest first-week collection in Indian cinema history. On its 65th day, the film added another Rs 13 lakh to its impressive Rs 1,146.88 crore net collection in India.",
-    "img": "https://static.toiimg.com/photo/msid-131276450,imgsize-106170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-65-ranveer-singhs-spy-thriller-narrowly-misses-rs-1800-crore-worldwide-mark/articleshow/131276422.cms",
-    "time": "2026-05-23T08:45:28.000Z"
   },
   {
     "cat": "World",
@@ -621,15 +594,6 @@ const newsData_en = [
     "time": "2026-05-23T01:36:25.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Import duty hike may reduce India's demand by 50-60 tonnes in 2026; WGC flags impact",
-    "desc": "India's gold demand is projected to drop by 50-60 tonnes in 2026, a 10% decrease, following a significant import duty hike. The World Gold Council notes this could also boost unofficial gold inflows, a trend observed historically with higher duties. Consumer sentiment and economic factors will also play a role.",
-    "img": "https://static.toiimg.com/photo/msid-131266369,imgsize-1013352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-demand-outlook-import-duty-hike-may-reduce-indias-demand-by-50-60-tonnes-in-2026-wgc-flags-impact/articleshow/131266372.cms",
-    "time": "2026-05-22T17:23:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. releases second batch of government declassified UFO files",
     "desc": "One of the 222 files released ‌on Friday (May 22, 2026) contains 116 pages of documentation relating to a series of reported sightings and investigations in a top-secret facility in Sandia, New ‌Mexico, from 1948 to 1950",
@@ -637,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-releases-second-batch-of-government-declassified-ufo-files/article71012121.ece",
     "time": "2026-05-22T16:57:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's tryst with oil shocks: How crude prices shaped economy and policy in last five decades",
-    "desc": "India's economy has faced significant challenges from global oil price surges over the past fifty years. From the 1973 Arab embargo to the recent Hormuz disruption, these shocks have impacted inflation and foreign exchange reserves. Policymakers have continuously adapted strategies to manage these crises, balancing economic stability with consumer needs.",
-    "img": "https://static.toiimg.com/photo/msid-131265752,imgsize-1340875.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-tryst-with-oil-shocks-how-crude-prices-shaped-economy-and-policy-in-last-five-decades/articleshow/131265685.cms",
-    "time": "2026-05-22T16:09:00.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-pins-hopes-on-mediator-pakistan-in-push-to-end-iran-war/article71008992.ece",
     "time": "2026-05-22T07:51:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pulwama terror attack mastermind Hamza Burhan killed by unknown gunmen in PoK",
-    "desc": "Burhan alias Arjumand Gulzar Dar, alias Doctor, a commander of the Al Badr terror group, was designated as a terrorist by India in April 2022 for his involvement in a series of terror acts in Jammu and Kashmir",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pulwama-terror-attack-mastermind-hamza-burhan-killed-by-unknown-gunmen-in-pok/article71007904.ece",
-    "time": "2026-05-22T07:15:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +844,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
