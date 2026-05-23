@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PBKS receive big boost in IPL 2026 playoff hopes, another LSG star leaves squad ahead of last league game",
+    "desc": "Punjab Kings have received a major boost to their hopes for the IPL 2026 playoffs as Lucknow Super Giants are set to be without two of their star overseas players for the clash at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-receive-big-boost-for-ipl-2026-playoffs-another-lsg-star-leaves-squad-ahead-of-last-league-game-2026-05-23-1042186",
+    "time": "2026-05-23T09:07:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can PBKS qualify for IPL 2026 playoffs as they face LSG in do-or-die clash?",
+    "desc": "Punjab Kings will have one final chance to bring their Indian Premier League 2026 campaign back on track when they face Lucknow Super Giants in their last league stage match of the tournament. Having started...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-pbks-qualify-for-ipl-2026-playoffs-as-they-face-lsg-in-do-or-die-clash-2026-05-23-1042182",
+    "time": "2026-05-23T08:42:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I won't drop Venkatesh Iyer for Phil Salt': Virender Sehwag calls bold change call for RCB ahead of playoffs",
+    "desc": "Former India cricketer Virender Sehwag put his weight behind Venkatesh Iyer after the RCB batter's strong performances in the limited opportunities that he has had in the IPL 2026. Iyer has batted only four times...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-wont-drop-venkatesh-iyer-for-phil-salt-virender-sehwag-calls-bold-change-call-for-rcb-ahead-of-playoffs-2026-05-23-1042177",
+    "time": "2026-05-23T08:08:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "George Russell leads Mercedes one-two in Sprint qualifying for Canadian GP in team's first major update",
+    "desc": "Mercedes driver George Russell bounced back to take the pole position at the Canadian GP Sprint qualifying after pipping teammate and championship leader Kimi Antonelli at the Circuit Gilles Villeneuve. Russell had seen his teammate...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/george-russell-leads-mercedes-one-two-in-sprint-qualifying-for-canadian-gp-in-teams-first-major-update-2026-05-23-1042169",
+    "time": "2026-05-23T06:36:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli shatters major T20 world record despite blip against SRH in Hyderabad",
     "desc": "Virat Kohli had a bit of an off-day with the bat in Royal Challengers Bengaluru's IPL 2026 clash against the Sunrisers Hyderabad on Friday; however, the batting maestro shattered a major T20 world record despite...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/5-isl-clubs-write-to-aiff-over-clarity-regarding-future-show-concern-demand-answers-2026-05-22-1042134",
     "time": "2026-05-22T18:17:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB suffer embarrassing defeat to Hyderabad in IPL 2026, yet seal spot in top two spot alongside GT",
-    "desc": "In their final league game of the season, Royal Challengers Bengaluru suffered an embarrassing 55-run defeat to Sunrisers Hyderabad in the IPL 2026. They were schooled with the ball in the first innings and multiple...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-suffer-embarrassing-defeat-to-hyderabad-in-ipl-2026-yet-seal-spot-in-top-two-spot-alongside-gt-2026-05-22-1042133",
-    "time": "2026-05-22T17:59:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Even to be in conversation with Sachin Tendulkar is enough for me'",
-    "desc": "Joe Root has reflected on the scale of Sachin Tendulkar’s achievements while continuing his own climb up the all-time Test run charts. The England batter, currently second on the all-time list with 13,943 runs, trails...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/even-to-be-in-conversation-with-sachin-tendulkar-is-enough-for-me-joe-root-on-breaking-test-record-2026-05-22-1042129",
-    "time": "2026-05-22T17:19:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ireland announce Test squad vs New Zealand, Paul Stirling, key pacers ruled out",
-    "desc": "Ireland have named four uncapped young cricketers in their 14-member squad for the historic Test against New Zealand in Belfast. Among the fresh faces are opener Jake Egan and fast bowlers Tom Mayes, Reuben Wilson...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ireland-announce-test-squad-vs-new-zealand-paul-stirling-key-pacers-ruled-out-2026-05-22-1042124",
-    "time": "2026-05-22T16:00:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 cricketers who can replace Angkrish Raghuvanshi in the playing XI for KKR",
-    "desc": "Kolkata Knight Riders batter Angkrish Raghuvanshi has been ruled out of the IPL 2026, as India TV confirmed last evening. The 21-year-old fractured a finger on his left hand and is expected to miss at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-angkrish-raghuvanshi-in-the-playing-xi-for-kkr-2026-05-22-1042118",
-    "time": "2026-05-22T14:49:06.000Z"
   }
 ];

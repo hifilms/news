@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "જો પેટ્રોલ-ડીઝલ પર GST લાગુ પડે તો દૂર થઈ જશે બધી ચિંતા, 22 રૂપિયા ઘટી જશે કિંમત",
+    "desc": "પેટ્રોલ અને ડીઝલની કિંમતોમાં છેલ્લા એક સપ્તાહમાં ત્રીજીવાર વધારો થયો છે. વધતી કિંમતો વચ્ચે આ બંને પ્રોડક્ટને જીએસટી હેઠળ લાવવાની ચર્ચા શરૂ થઈ ગઈ છે. જો તમે પણ વિચારો છો કે તેલ પર જીએસટી લાગવાથી કેટલો ફાયદો થશે, તો આવો તમને ઉદાહરણ સાથે સમજાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-prices-could-drop-by-%E2%82%B922-if-gst-is-applied-here-is-the-calculation-478977 ",
+    "time": "2026-05-23T09:57:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "લાઈટ બિલમાંથી છુટકારો! જાણો 1.5 ટનના AC માટે કેટલા kWની સોલર પેનલ જોઈએ?",
+    "desc": "ગરમી વધતાં, ઘરોમાં 1.5 ટનના એસી સામાન્ય બની ગયા છે, જે 1.2થી 1.8 કિલોવોટ વીજળી વાપરે છે અને દરરોજ આશરે 8થી 14 યુનિટ વીજળીનો ઉપયોગ કરી શકે છે. આના કારણે વીજળીના બિલમાં ઝડપથી વધારો થયો છે, જેના કારણે ઘણા લોકો સૌર ઉર્જા તરફ વળ્યા છે. સૌર પેનલ સૂર્યપ્રકાશમાંથી વીજળી ઉત્પન્ન કરે છે, અને યોગ્ય સિસ્ટમ કદ પસંદ કરવાથી લાંબા ગાળે વીજળીના બિલમાં 70થી 90 ટકા સુધીની બચત થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/get-rid-of-electricity-bills-find-out-how-many-kw-of-solar-panels-are-needed-for-a-1-5-ton-ac-478965 ",
+    "time": "2026-05-23T09:21:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "દર મહિને 10,000ની કમાણી... પોસ્ટ ઓફિસની આ યોજના છે શાનદાર",
+    "desc": "પોસ્ટ ઓફિસ વિવિધ યોજનાઓ ચલાવે છે અને તેમાંથી એક MIS છે. આ યોજના હેઠળ, દર મહિને મોટી આવક મેળવી શકાય છે. ત્યારે આ યોજના અંતર્ગત તમે રિસ્ક વિના કેવી રીતે દર મહિને મોટી કમાણી કરી શકો છો, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/post-office-mis-scheme-regular-income-check-full-details-478956 ",
+    "time": "2026-05-23T08:38:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઐશ્વર્યા રાય બચ્ચનનું બ્લૂ ગાઉન છે સ્પેશિયલ, ડ્રેસ પર જડેલા છે હજારો ક્રિસ્ટલ્સ, ચેક કરો ડિટેલ્સ",
+    "desc": "ઐશ્વર્યા રાય બચ્ચને કાન્સ 2026 ના રેડ કાર્પેટ પર ઉતરી પોતાની સુંદરતાનો જાદુ ફરી ચલાવી દીધો છે. શુક્રવારે ઐશ્વર્યા બ્લૂ રંગના ગાઉનમાં સજ્જ થઈ રેડ કાર્પેટ પર ઉતરી હતી. ઐશ્વર્યાનું આ ગાઉન ચર્ચાનો વિષય બન્યું છે કારણ કે તે ખાસ છે. આ ગાઉનમાં શું ખાસ છે ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/what-is-special-about-aishwarya-rai-bachchan-cannes-2026-blue-gown-here-is-details-478953 ",
+    "time": "2026-05-23T07:49:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શિમલા-મનાલી છોડો ! ઉનાળામાં સ્વર્ગ સમાન છે ભારતના આ 5 સ્થળો... કુદરતી સૌંદર્ય જોઈને મન મોહી જશે",
+    "desc": "જો તમે ઉનાળાના વેકેશન દરમિયાન ભીડ અને ટ્રાફિકથી દૂર કોઈ શાંત, સુંદર સ્થળ પર જવાનું આયોજન કરી રહ્યા છો, તો આ સમાચાર તમારા માટે છે. આજે અમે તમને ભારતના કેટલાક એવા સ્થળો વિશે જણાવીશું જ્યાં તમે તમારા પરિવાર સાથે પ્રકૃતિ, શાંતિ અને ઠંડા હવામાનનો આનંદ માણી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/summer-best-travel-destinations-for-family-trip-chopta-kanatal-haflong-478950 ",
+    "time": "2026-05-23T07:27:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કોણ છે ગુજરાતી ફિલ્મ ‘જયેશભાઈ જોરદાર’ ફેમ હેમંત મોદી? જાણો આશ્ચર્યજનક હાઈ-પ્રોફાઈલ કારકિર્દી, હવે આખી જિંદગી જેલમાં!",
+    "desc": "Who Is Hemant Modi? હત્યાના કેસમાં આજીવન કેદની સજામાંથી ફરાર થયા બાદ 12 વર્ષ સુધી નાસતા ફરતા હેમંત મોદી ઉર્ફે હેમંત વૈષ્ણવની અમદાવાદમાંથી ધરપકડ કરવામાં આવી છે. અમદાવાદ ક્રાઈમ બ્રાન્ચના અધિકારીઓએ તેને ઘી કાંટા મેટ્રો સ્ટેશન પાસેથી ઝડપી પાડ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/who-is-gujarati-film-jayeshbhai-jordaar-fame-hemant-modi-ranveer-singh-co-star-arrested-after-skipping-parole-for-over-a-decade-478809 ",
+    "time": "2026-05-23T07:07:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અફઘાનિસ્તાન સામેની ટેસ્ટમાં બદલાઈ જશે ટીમ ઈન્ડિયાની પ્લેઈંગ-11... આ બે ખેલાડીઓનું ડેબ્યૂ પાક્કું ! જાણો કોનું કપાશે પત્તુ",
+    "desc": "BCCIએ અફઘાનિસ્તાન સામેની એકમાત્ર ટેસ્ટ મેચ માટે ટીમની જાહેરાત કરી છે. હવે જોવાનું એ છે કે પ્લેઈંગ ઈલેવનમાં કયા ખેલાડીઓને તક મળશે અને કયા ખેલાડીઓને બહાર બેસવું પડશે. આ વખતે ટીમમાં નવા ચહેરાઓનો પણ સમાવેશ કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-predicted-playing-xi-against-afghanistan-test-shubman-gill-478948 ",
+    "time": "2026-05-23T06:50:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "તો SRH બનશે ચેમ્પિયન! બની ગયો 2016 જેવો જાદુઈ સંયોગ, વિરોધી ટીમ પણ ચોંકી જશે",
+    "desc": "આઈપીએલનું ટાઈટલ પેટ કમિન્સની સનરાઇઝર્સ હૈદરાબાદ જીતી શકે છે. આ દાવો અમે કરી રહ્યાં નથી, પરંતુ 67 મેચ બાદ પોઈન્ટ ટેબલની તસવીરે એક એવો સંયોગ બનાવ્યો છે, જે SRH ને 10 વર્ષ પહેલાની જેમ ચેમ્પિયન બનાવી રહ્યો છે, આવો વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/srh-title-win-is-all-but-certain-a-magical-coincidence-identical-to-2016-has-emerged-478938 ",
+    "time": "2026-05-23T06:17:20.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ચાલુ મેચે કોહલી અને હેડ બાખડ્યા ! મેચ બાદ હાથ પણ ના મિલાવ્યો, જુઓ Video",
     "desc": "શુક્રવારે IPL 2026ની 67મી મેચ સનરાઇઝર્સ હૈદરાબાદ અને રોયલ ચેલેન્જર્સ બેંગલુરુ વચ્ચે રમાઈ હતી. આ મેચમાં મેદાન પર હાઇ-વોલ્ટેજ ડ્રામા જોવા મળ્યો હતો. મેચ દરમિયાન વિરાટ કોહલી અને ટ્રેવિસ હેડ વચ્ચે ઝઘડો થયો. ત્યારે શું છે સમગ્ર ઘટના તેના વિશે આ લેખમાં જાણીશું.",
@@ -207,15 +279,6 @@ const newsData_gu = [
     "time": "2026-05-22T06:15:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "કોણ છે ગુજરાતી ફિલ્મ ‘જયેશભાઈ જોરદાર’ ફેમ હેમંત મોદી? જાણો આશ્ચર્યજનક હાઈ-પ્રોફાઈલ કારકિર્દી, હવે આખી જિંદગી જેલમાં!",
-    "desc": "Who Is Hemant Modi? હત્યાના કેસમાં આજીવન કેદની સજામાંથી ફરાર થયા બાદ 12 વર્ષ સુધી નાસતા ફરતા હેમંત મોદી ઉર્ફે હેમંત વૈષ્ણવની અમદાવાદમાંથી ધરપકડ કરવામાં આવી છે. અમદાવાદ ક્રાઈમ બ્રાન્ચના અધિકારીઓએ તેને ઘી કાંટા મેટ્રો સ્ટેશન પાસેથી ઝડપી પાડ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/who-is-gujarati-film-jayeshbhai-jordaar-fame-hemant-modi-ranveer-singh-co-star-arrested-after-skipping-parole-for-over-a-decade-478809 ",
-    "time": "2026-05-22T05:43:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "મુખ્તાર અંસારીનો પુત્ર કોકરોચ જનતા પાર્ટીમાંથી લડશે ચૂંટણી? Video થયો વાયરલ",
     "desc": "હાલ જો કોઈ પાર્ટીની સોશિયલ મીડિયામાં સૌથી વધુ ચર્ચા હોય તો તે છે કોકરોચ જનતા પાર્ટી (CJP). હવે મુખ્તાર અંસારીના પુત્ર અને મઉના વિધાયક અબ્બાસ અંસારીએ પણ આ પાર્ટીનો ઉલ્લેખ કર્યો છે. શું તેઓ આગામી ચૂંટણી આ પાર્ટીના ચિન્હ પર લડશે? જાણો તેમણે શું કહ્યું.",
@@ -277,24 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/cockroach-janata-party-has-been-formed-but-it-is-difficult-to-get-the-cockroach-election-symbol-know-the-rules-of-the-election-commission-478787 ",
     "time": "2026-05-21T17:09:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઝારખંડના નાનકડા સૂરજની બર્થ પાર્ટી કેમ વાયરલ થઈ? માસુમને ગિફ્ટ આપવા UPI માંગી રહ્યાં છે લોકો",
-    "desc": "ઝારખંડના સૂરજ કુમાર નામના એક બાળકની બર્થડે પાર્ટીનો વીડિયો વાયરલ થયો છે. ગરીબ બાળકનો જન્મદિવસ ઉજવતો આ વીડિયો બહુ જ ભાવુક કરી દે તેવો છે. 100 રૂપિયાની આ બર્થડે પાર્ટી કેમ વાયરલ થઈ રહી છે, જાણો",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/jharkhand-boy-surat-birthday-maggi-party-viral-on-social-media-478786 ",
-    "time": "2026-05-21T16:36:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દેશને મળ્યા પહેલા AI મિનિસ્ટર, કેન્દ્ર નહીં પણ આ રાજ્યથી થઈ શરૂઆત; આખરે શું કરશે AI મંત્રાલય?",
-    "desc": "જો થોડા પાયાના કામોને છોડી દઈએ, તો આજે આર્ટિફિશિયલ ઇન્ટેલિજન્સ (AI) વગરના જીવનની કલ્પના પણ નકામી લાગવા માંડી છે. આર્ટિફિશિયલ ઇન્ટેલિજન્સના મહત્વને જોતા દેશને તેના પહેલા AI મંત્રી મળી ગયા છે. આ પહેલ કેન્દ્ર સરકારે નહીં પરંતુ એક રાજ્યે કરી છે, જેના કારણે હવે તેના પાડોશી રાજ્યો પર પણ AI મંત્રીની નિમણૂક કરવાનું દબાણ વધી ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/country-got-its-first-ai-minister-not-from-the-centre-but-from-this-state-know-478745 ",
-    "time": "2026-05-21T12:49:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +513,6 @@ const newsData_gu = [
     "time": "2026-05-20T07:12:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ગુજરાત પહોંચ્યો 20 હજાર ટન LPG, જાણો ભારતમાં આનાથી કેટલા દિવસ કામ ચાલશે?",
-    "desc": "પશ્ચિમ એશિયામાં ચાલી રહેલા તણાવ વચ્ચે 20 હજાર ટન એલપીજી (LPG) લઈને 'સિમી' નામનું જહાજ ગુજરાતના કંડલા પોર્ટ પર પહોંચી ગયું છે. ચાલો જાણીએ કે આટલા મોટા જથ્થાની ગેસ વપરાશ ભારતમાં કેટલા દિવસમાં થઈ જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/20000-tonnes-of-lpg-has-arrived-in-gujarat-find-out-how-many-days-supply-this-provides-for-india-478594 ",
-    "time": "2026-05-20T07:01:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "મોહમ્મદ શમીને કેમ ના મળ્યું ટીમમાં સ્થાન ? ચીફ સિલેક્ટર અજિત અગરકરે આપ્યો ચોંકાવનારો જવાબ",
     "desc": "ઘરેલુ ક્રિકેટમાં શાનદાર પ્રદર્શન કરવા છતાં મોહમ્મદ શમીની ફરી એકવાર અવગણના કરવામાં આવી છે. તેને અફઘાનિસ્તાન સામેની ટેસ્ટ અને ODI શ્રેણી માટે પસંદ કરવામાં આવ્યો નથી. દરમિયાન ટીમ ઈન્ડિયાના મુખ્ય પસંદગીકારે આ નિર્ણય પાછળનું કારણ જણાવ્યું છે.",
@@ -484,24 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/why-mohammed-shami-out-of-team-india-chief-selector-ajit-agarkar-gave-answer-478584 ",
     "time": "2026-05-20T06:15:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ગુજરાતના મુસાફરોને મોટો ઝટકો: સ્પાઈસજેટ 1 જૂનથી તમામ 12 ફ્લાઈટો બંધ કરશે! જાણો કયા શહેરોને લાગશે ફટકો?",
-    "desc": "ગુજરાતના મુસાફરોને મોટો ઝટકો. સ્પાઈસજેટ 1 જૂનથી 12 ફ્લાઈટો બંધ કરશે! ગંભીર નાણાકીય કટોકટી અને કાનૂની વિવાદોનો સામનો કરી રહેલી સ્પાઈસજેટ એરલાઇન્સે મોટો નિર્ણય લીધો છે. આગામી 1 જૂનથી ગુજરાતના અમદાવાદ, કંડલા અને ભાવનગર સ્ટેશનથી ઓપરેટ થતી તમામ 12 ફ્લાઈટો બંધ થઈ જશે. એરલાઇન્સે પોતાની ઓફિશિયલ બુકિંગ સિસ્ટમ પરથી પણ આ રૂટ્સ હટાવી દીધા છે, જેના કારણે એડવાન્સ બુકિંગ કરાવનારા પેસેન્જરો મુશ્કેલીમાં મુકાયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-blow-to-gujarat-passengers-spicejet-to-stop-all-12-flights-from-june-1-478571 ",
-    "time": "2026-05-20T05:26:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બિહાર કરતા આઠ ગણી વધારે છે આ બંને રાજ્યોની માથાદીઠ આવક, જાણો બેરોજગારીમાં ગુજરાતનો નંબર",
-    "desc": "ભારતનું અર્થતંત્ર ઝડપથી વિકસી રહ્યું છે. ઉત્તર પ્રદેશ સહિત પાંચ રાજ્યો ભારતના GDPમાં આશરે 48% હિસ્સો ધરાવે છે, જ્યારે નીચેના 10 રાજ્યો 3% કરતા ઓછું યોગદાન આપે છે. માથાદીઠ આવકની દ્રષ્ટિએ બિહાર સૌથી નીચે ક્રમે છે, જ્યારે બે રાજ્યો તેનાથી આઠ ગણા વધારે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/the-per-capita-income-of-these-two-states-is-eight-times-more-than-bihar-know-gujarat-number-in-unemployment-478570 ",
-    "time": "2026-05-20T04:31:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -547,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shahrukh-khan-pet-dog-deadbody-midnight-incidence-on-supreme-court-street-dog-judgement-478468 ",
     "time": "2026-05-19T08:44:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હાર્દિક પંડ્યા MI છોડીને KKRમાં જોડાશે ? એક ફોટાના કારણે શરૂ થયો અટકળોનો દોર",
-    "desc": "IPL 2026માં હાર્દિક પંડ્યાનું પ્રદર્શન નિરાશાજનક રહ્યું છે અને એવી અફવાઓ પણ ફેલાઈ રહી છે કે તે મુંબઈ ઇન્ડિયન્સ છોડી શકે છે. આગામી સીઝન પહેલા તે બીજી ટીમમાં ટ્રેડ થાય તેવી શક્યતા છે. ત્યારે આ બધાની વચ્ચે એક ફોટો સામે આવ્યો છે, જેના કારણે હાર્દિકના KKRમાં જોડાવા અંગે અટકળો શરૂ થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/will-hardik-pandya-leave-mi-and-join-kkr-a-photo-has-sparked-speculation-478466 ",
-    "time": "2026-05-19T08:32:49.000Z"
   },
   {
     "cat": "World",
@@ -657,24 +666,6 @@ const newsData_gu = [
     "time": "2026-05-18T05:01:51.000Z"
   },
   {
-    "cat": "World",
-    "title": "દેશ માટે કેમ મહત્વનો છે PM મોદીનો સ્વિડન પ્રવાસ, આ મુદ્દાઓ છે મહત્વના, જાણો",
-    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદી પાંચ દેશોના ની યાત્રાના બીજા તબક્કામાં સ્વિડ પહોંચ્યા છે, જ્યાં સ્વીડિશ વાયુસેનાના ગ્રિપેન ફાઇટર જેટ્સે તેમના વિમાનને એસ્કોર્ટ કરીને સર્વોચ્ચ સન્માન આપ્યું હતું. આ યાત્રા દરમિયાન ડિફેન્સ, ગ્રીન ટ્રાંઝિશન, વેપાર અને ટેક્નોલોજી જેવા મહત્વના ક્ષેત્રોમાં ભારત-સ્વીડન વચ્ચે વ્યૂહાત્મક સંબંધો વધુ મજબૂત બનશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-is-pm-modi-visit-to-sweden-important-for-the-country-these-issues-are-important-know-478289 ",
-    "time": "2026-05-17T17:00:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "&amp;#039;જો પરિસ્થિતિ જલ્દી નહીં બદલાય તો વિનાશ નિશ્ચિત&amp;#039;, પીએમ મોદીએ નેધરલેન્ડથી વિશ્વને આપી ચેતવણી",
-    "desc": "નેધરલેન્ડ્સના હેગમાં, વડા પ્રધાન મોદીએ વૈશ્વિક ઊર્જા કટોકટી અને રશિયા-યુક્રેન અને ઈરાન-અમેરિકા યુદ્ધો વિશે વિશ્વને કડક ચેતવણી આપી હતી. વડા પ્રધાને જણાવ્યું હતું કે જો પરિસ્થિતિ ટૂંક સમયમાં સુધરશે નહીં, તો છેલ્લા કેટલાક દાયકાઓના લાભો ખોવાઈ જશે અને મોટી વસ્તી ફરીથી ગરીબીમાં ધકેલાઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/if-the-situation-does-not-change-soon-destruction-is-certain-pm-modi-warns-the-world-from-the-netherlands-478288 ",
-    "time": "2026-05-17T16:59:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સામૂહિક બળાત્કારની સત્ય ઘટના પર આધારિત ડોક્યુમેન્ટ્રી OTT પર રિલીઝ, યુવતી સાથે જે થયું તેની હકીકત જોઈ ધ્રુજી જશો",
     "desc": "સત્ય ઘટના પર આધારિત એક ડોક્યુમેન્ટ્રી ઓટીટી પર રિલીઝ થઈ છે. આ સીરીઝ રિલીઝ થયાની સાથે જ ચર્ચાનો વિષય બની છે. આ ડોક્યુમેન્ટ્રીમાં 2020 માં બનેલી ઘટનાનું સત્ય દેખાડવામાં આવ્યું છે. યુવતી સાથે બનેલી ઘટનાની હકીકત જાણી તમે પણ ધ્રુજી જશો.",
@@ -720,15 +711,6 @@ const newsData_gu = [
     "time": "2026-05-16T07:27:02.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "હવામાં આંગળીઓ ફેરવો અને WhatsApp પર મેસેજ મોકલો! Metaનો અદ્ભુત ચમત્કાર",
-    "desc": "હવે મેસેજ ટાઇપ કરવા માટે ન તો ફોન પકડવાની જરૂર પડશે અને ન તો કીબોર્ડની. Meta કંપનીએ એવો અદ્ભુત ચમત્કાર કર્યો છે કે હવે તમે માત્ર હવામાં આંગળીઓ ફેરવીને WhatsApp પર મેસેજ મોકલી શકશો. જાણો કેવી રીતે કામ કરશે આ ફ્યુચરિસ્ટિક (ભવિષ્યનું) ફીચર.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/wave-your-fingers-in-the-air-and-the-message-will-be-sent-to-whatsapp-a-marvel-from-meta-478059 ",
-    "time": "2026-05-16T06:11:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ધુરંધર 2 ના Uncut વર્ઝનની ઓટીટી રિલીઝ ડેટ ફાઈનલ, ભારતમાં આ તારીખે ઓટીટી પર સ્ટ્રીમ થશે ફિલ્મ",
     "desc": "ભારતમાં ધુરંધર 2 ઓટીટી પર જોવા માટે લોકોએ હજુ થોડી ધીરજ રાખવી પડશે. પરંતુ આ ધીરજના ફળ દર્શકોને મીઠાં મળશે, કારણ કે ઓટીટી પર ધુરંધરનું અનકટ અને રો વર્ઝન રિલીઝ થશે. ભારતમાં ધુરંધર 2 ની ઓટીટી રિલીઝ ડેટ પણ ફાઈનલ થઈ ચુકી છે.",
@@ -745,23 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/this-suspense-thriller-film-has-been-in-the-top-10-on-netflix-for-four-months-a-powerful-twist-will-be-seen-in-every-scene-478021 ",
     "time": "2026-05-15T16:24:23.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "પેટ્રોલ-ડીઝલના કકળાટથી દૂર રહેવું હોય તો આજે જ ખરીદો આ સસ્તા ઈલેક્ટ્રિક વાહનો, એક ચાર્જમાં સડસડાટ દોડશે ગાડી",
-    "desc": "તેલ સંકટ અને એનર્જિ ક્રાઈસીસને પગલે આખરે ભારતમાં પેટ્રોલ-ડીઝલ અને સીએનજીના ભાવ આસમાને પહોંચી ગયા છે. હજી પણ આ ભાવ વધી શકે છે. આવી સ્થિતિમાં જો તમારી પાસે ઈલેક્ટ્રિક કાર અને બાઈક-સ્કૂટર હોય તો તમારે પેટ્રોલ-ડીઝલના ભાવ વધારા માટે ટેન્શન કરવાની કોઈ જરૂર નથી. હવે ઈલેક્ટ્રિક કારની ડિમાન્ડ વધી શકે છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/to-avoid-petrol-diesel-cng-price-hike-in-india-buy-cheapest-ev-vehicles-477984 ",
-    "time": "2026-05-15T11:03:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અભિનેત્રી મૌની રોયના ડિવોર્સની વાત સાચી નીકળી, મૌની પછી સૂરજે પણ લગ્નની તસવીરો ડીલીટ કરી",
-    "desc": "મૌની રોયના ડિવોર્સની વાત અફવા નહીં પણ સાચી નીકળી છે. 2 દિવસથી સોશિયલ મીડિયા પર ચાલતી ચર્ચાઓ પર પૂર્ણવિરામ મુકવા મૌની રોયે જ સત્તાવાર રીતે જાહેર કરી દીધું છે કે તે અને સૂરજ નાંબિયાર અલગ થઈ ગયા છે. સાથે જ સૂરજ નાંબિયારે પણ મૌની રોયની બધી જ તસવીરો ડીલીટ કરી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/mouni-roy-announced-divorce-suraj-nambiar-deleted-all-photos-of-mouni-roy-from-his-instagram-477906 ",
-    "time": "2026-05-15T02:58:43.000Z"
   }
 ];
