@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli shatters major T20 world record despite blip against SRH in Hyderabad",
+    "desc": "Virat Kohli had a bit of an off-day with the bat in Royal Challengers Bengaluru's IPL 2026 clash against the Sunrisers Hyderabad on Friday; however, the batting maestro shattered a major T20 world record despite...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shatters-major-t20-world-record-despite-blip-against-srh-in-hyderabad-2026-05-23-1042157",
+    "time": "2026-05-23T04:53:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heinrich Klaasen creates T20 world record, becomes first-ever player to achieve major milestone in IPL 2026",
+    "desc": "Former South Africa batter and Sunrisers Hyderabad star Heinrich Klaasen has etched his name into the history books. The hard-hitting middle-order batter achieved a huge milestone during the Indian Premier League 2026, continuing his stellar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/heinrich-klaasen-creates-t20-world-record-becomes-first-ever-player-to-achieve-major-milestone-in-ipl-2026-2026-05-23-1042152",
+    "time": "2026-05-23T04:08:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Top 3 locked in, four-way battle for fourth spot",
+    "desc": "Sunrisers Hyderabad defeated defending champions Royal Challengers Bengaluru in their final league stage match in the Indian Premier League 2026 on Friday, but could not secure a top-two finish. SRH had put up 255/4 batting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-top-3-locked-in-four-way-battle-for-fourth-spot-2026-05-23-1042150",
+    "time": "2026-05-23T03:40:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Not RCB, GT favourites to win IPL 2026? Fascinating stat favours 2022 champions to bag second crown",
     "desc": "The top three places in the Indian Premier League 2026 have been confirmed after Sunrisers Hyderabad failed to take the first spot in the points table. RCB topped the league, while SRH finished third. Gujarat...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-angkrish-raghuvanshi-in-the-playing-xi-for-kkr-2026-05-22-1042118",
     "time": "2026-05-22T14:49:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are neither Jacob Bethell nor Phil Salt playing for RCB vs Sunrisers Hyderabad in IPL 2026",
-    "desc": "Royal Challengers Bengaluru will miss the service of both Jacob Bethell and Phil Salt in the blockbuster clash against Sunrisers Hyderabad at the Rajiv Gandhi International Stadium. After Salt suffered an injury earlier in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-neither-jacob-bethell-nor-phil-salt-playing-for-rcb-vs-sunrisers-hyderabad-in-ipl-2026-2026-05-22-1042114",
-    "time": "2026-05-22T13:50:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vijay Shankar retires from Indian cricket, says 'faced unreal hate and negativity'",
-    "desc": "Vijay Shankar has announced his retirement from Indian cricket. It means, that the all-rounder will no longer feature in the IPL or play in Indian domestic cricket. He aims to explore opportunities overseas after more...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vijay-shankar-retires-from-indian-cricket-says-faced-unreal-hate-and-negativity-2026-05-22-1042110",
-    "time": "2026-05-22T13:26:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan announce ODI squad for Australia series; Babar Azam returns, while Mohammad Rizwan dropped",
-    "desc": "Pakistan have announced a 16-member squad for the upcoming ODI series against Australia, starting May 30 in Rawalpindi. The three-match series will mark Babar Azam’s return to the national setup, while Mohammad Rizwan has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-odi-squad-for-australia-series-babar-azam-returns-while-mohammad-rizwan-dropped-2026-05-22-1042097",
-    "time": "2026-05-22T11:49:49.000Z"
   }
 ];

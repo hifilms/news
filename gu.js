@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ચાલુ મેચે કોહલી અને હેડ બાખડ્યા ! મેચ બાદ હાથ પણ ના મિલાવ્યો, જુઓ Video",
+    "desc": "શુક્રવારે IPL 2026ની 67મી મેચ સનરાઇઝર્સ હૈદરાબાદ અને રોયલ ચેલેન્જર્સ બેંગલુરુ વચ્ચે રમાઈ હતી. આ મેચમાં મેદાન પર હાઇ-વોલ્ટેજ ડ્રામા જોવા મળ્યો હતો. મેચ દરમિયાન વિરાટ કોહલી અને ટ્રેવિસ હેડ વચ્ચે ઝઘડો થયો. ત્યારે શું છે સમગ્ર ઘટના તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-and-travis-head-fight-in-srh-vs-rcb-match-ipl-2026-video-viral-478937 ",
+    "time": "2026-05-23T06:03:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 વચ્ચે મોટા સમાચાર... સ્ટાર ઓલરાઉન્ડરે ભારતીય ક્રિકેટમાંથી અચાનક લીધી નિવૃત્તિ, ભાવુક પોસ્ટમાં છલકાયું દર્દ",
+    "desc": "ટીમ ઈન્ડિયા માટે 12 વનડે અને 9 ટી20 મેચ રમનાર વિજય શંકરે ભારતીય ક્રિકેટને અલવિદા કહી દીધું છે. 35 વર્ષીય વિજય શંકર 2019ના વનડે વર્લ્ડ કપ માટે ભારતીય ટીમનો ભાગ હતો. ત્યારે વિજય શંકરે અચાનક નિવૃત્તિની જાહેરાત કરીને તેના ચાહકોને ચોંકાવી દીધા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/all-rounder-vijay-shankar-announces-retirement-from-indian-cricket-478927 ",
+    "time": "2026-05-23T05:17:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કર્મચારીઓને તો લોટરી લાગશે! હેલ્પરથી લઈને સીનિયર્સ સુધી જાણો કેટલો વધી શકે પગાર",
+    "desc": "રેલવેના જૂનિયર એન્જિનિયર, સીનિયર સેક્શન એન્જિનિયર, આસિસ્ટન્ટ મેનેજર અને અન્ય ટેક્નિકલ કર્મચારીઓ માટે આઠમું પગાર પંચ મોટી ખુશખબરી લાવી શકે છે. જો IRTSA ની માંગણીઓ સ્વીકારવામાં આવે તો લાખો કર્મચારીઓના પગારમાં મોટો ઉછાળો આવી શકે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-irtsa-railway-employees-demands-about-salary-hra-etc-478923 ",
+    "time": "2026-05-23T05:04:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેરળ બાદ કયા શહેરોમાંથી ફરી ફરીને ચોમાસું ગુજરાત સુધી પહોંચે છે જાણો, આવો છે મોન્સુન રુટ",
+    "desc": "ભારતમાં સૌથી પહેલા ચોમાસુ ક્યાં આવે છે તે તો સૌ કોઈ જાણે છે. પરંતુ આ ચોમાસાના તમારા શહેર સુધી આવતા કેટલો સમય લાગે છે. કેરળથી કયા રુટથી થઈને ગુજરાત સુધી ચોમાસું પહોંચે છે. તે જાણો",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-monsoon-route-kerala-to-gujarat-arrival-date-478921 ",
+    "time": "2026-05-23T04:36:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "મોટો ઘટસ્ફોટ! અમેરિકી રાષ્ટ્રપતિ ટ્રમ્પની પુત્રી ઈવાંકાની હત્યાની કોશિશ, ચોંકાવનારી વિગતો",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના પરિવાર વિશે એક ચોંકાવનારા સમાચાર આવ્યા છે. તેમની પુત્રી ઈવાંકા ટ્રમ્પની હત્યા માટે થઈ રહેલા ષડયંત્રનો પર્દાફાશ થયો છે. ષડયંત્ર ઘડનારો ઈરાકી નાગરિક હોવાનું કહેવાય છે અને તેને કાસિમ સુલેમાનીની હત્યાનો બદલો લેવો હતો એ વાત સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-irgc-trained-mohammad-al-saadi-wanted-to-kill-donald-trump-daughter-ivanka-trump-478920 ",
+    "time": "2026-05-23T04:05:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પેટ્રોલ-ડીઝલ, CNGના વધ્યા ભાવ, જાણો અમદાવાદ સહિત શહેરોમાં એક લીટર પેટ્રોલ-ડીઝલનો આજનો રેટ",
+    "desc": "માત્ર 10 જ દિવસમાં ફરી એકવાર પેટ્રોલ અને ડીઝલના ભાવમાં વધારો જોવા મળ્યો છે. આ ઉપરાંત અનેક ઠેકાણે સીએનજીના પણ ભાવ વધ્યા છે. ભાવવધારા બાદ ગુજરાતના મુખ્ય શહેરોમાં પેટ્રોલ અને ડીઝલના ભાવ કેટલા થયા તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-price-again-increased-check-one-ltr-petrol-price-in-ahmedabad-vadodara-surat-rajkot-478918 ",
+    "time": "2026-05-23T03:39:22.000Z"
+  },
+  {
     "cat": "World",
     "title": "આ હતા દુનિયાના સૌથી અમીર વ્યક્તિ, જેની સામે એલન મસ્ક પણ લાગશે ગરીબ! સંપત્તિ એટલી કે જાણીને નહીં આવે વિશ્વાસ",
     "desc": "ઈતિહાસના સૌથી અમીર શાસક મંસા મૂસાની સંપત્તિ આગળ આજના અબજોપતિઓ પણ ગરમી લાગે છે. સોનાની ખાણો, વિશાળ સામ્રાજ્ય અને વ્યાપારિક માર્ગો પર નિયંત્રણ રાખનારા આ રાજાની કહાની આજે પણ દુનિયાને હેરાન કરી દે છે. ચાલો જાણીએ કોણ હતા મંસા મૂસા?",
@@ -243,15 +297,6 @@ const newsData_gu = [
     "time": "2026-05-21T12:49:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "આ વિસ્તારો માટે 24 કલાક ભારે ! વાવાઝોડા સાથે તૂટી પડશે ભારે વરસાદ, હવામાન વિભાગની મોટી આગાહી",
-    "desc": "ફરી એકવાર વરસાદ અને વાવાઝોડું દેશભરમાં લોકોની મુશ્કેલીઓમાં વધારો કરી શકે છે. હવામાન વિભાગના જણાવ્યા અનુસાર, 22 મેના રોજ યુપી, બિહાર અને પંજાબ સહિત 16 રાજ્યોમાં ભારે વરસાદ અને વાવાઝોડાની સંભાવના છે. આ દરમિયાન 90 કિલોમીટર પ્રતિ કલાકની ઝડપે પવન ફૂંકાઈ શકે છે જે વિનાશ લાવી શકે છે. પૂર્વીય રાજ્યોમાં પાકને નુકસાન થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/imd-heavy-rain-alert-in-16-states-weather-update-rain-prediction-478743 ",
-    "time": "2026-05-21T12:30:17.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બોબી દેઓલની ફિલ્મ બંદરનું ટ્રેલર રિલીઝ, 5 જૂને બોક્સ ઓફિસ પર થશે રિલીઝ",
     "desc": "બોબી દેઓલની મચ અવેટેડ ફિલ્મ બંદરનું ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે. આ ટ્રેલરને લોકો તરફથી મિક્સ રિએકશન મળી રહ્યા છે. બંદર ફિલ્મના ટ્રેલર સાથે તેની રિલીઝ ડેટ પણ સામે આવી છે. આ ફિલ્મ 5 જૂને બોક્સ ઓફિસ પર રિલીઝ થશે.",
@@ -268,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/anukul-roy-replace-harsh-dubey-india-a-squad-for-tri-series-in-sri-lanka-478726 ",
     "time": "2026-05-21T11:07:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સરકારી કર્મચારીઓની લાગી બમ્પર લોટરી! મોંઘવારી ભથ્થું વધીને થયું 60%, જાણો કેટલો વધશે પગાર",
-    "desc": "ઉત્તર પ્રદેશના લાખો રાજ્ય કર્મચારીઓ માટે ગુડ ન્યૂઝ આવ્યા છે. લાંબી રાહ જોયા બાદ સરકારે મોંઘવારી ભથ્થામાં (DA) 2 ટકાના વધારાની જાહેરાત કરી દીધી છે, જેનાથી હવે તે 58 ટકાથી વધીને 60 ટકા થઈ ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/up-govt-government-employees-bumper-lottery-dearness-allowance-increased-to-60-percent-know-how-much-salary-will-increase-478724 ",
-    "time": "2026-05-21T10:24:55.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +558,6 @@ const newsData_gu = [
     "time": "2026-05-19T08:32:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "15મી ઓવરના ત્રીજા બોલે એવું તો શું થયું કે સંજુ અને ક્લાસેન વચ્ચે થઈ બબાલ, જુઓ Video",
-    "desc": "ચેન્નાઈ સુપર કિંગ્સને સનરાઇઝર્સ હૈદરાબાદ સામે 5 વિકેટથી હારનો સામનો કરવો પડ્યો. મેચ બાદ સનરાઇઝર્સ હૈદરાબાદની જીત પર ઓછી અને સંજુ સેમસન અને હેનરિક ક્લાસેન વચ્ચેની બબાલની વધારે ચર્ચા હતી. ત્યારે શું હતી સમગ્ર ઘટના તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-csk-vs-srh-match-sanju-samson-vs-heinrich-klaasen-fight-video-478456 ",
-    "time": "2026-05-19T07:25:13.000Z"
-  },
-  {
     "cat": "World",
     "title": "તમારી મહેનતની કમાણીનો કેટલો ભાગ પી જાય છે પેટ્રોલ, નવા રિપોર્ટમાં ખુલાસો",
     "desc": "ભારતના પાડોશી દેશની વાત કરીએ તો મ્યાનમાર, પાકિસ્તાન, અને નેપાળમાં પેટ્રોલની સ્થિતિ બહુ જ કફોી છે. આ દેશોમાં 40 લીટર પેટ્રોલ પૂરવવા માટે એક મહિનાની કમાણીનો 47 ટકાથી 52 ટકા હિસ્સો ખર્ચ કરવો પડી રહ્યો છે. પેટ્રોલની કિંમત અને તેના ઉપયોગ વિશે ગેસોલિન એફોર્ડેબિલિટી રિપોર્ટ શું કહે છે તે જાણો.",
@@ -547,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/how-to-record-whatsapp-calls-on-android-and-iphone-whatsapp-call-record-kaise-kare-explained-478452 ",
     "time": "2026-05-19T06:30:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રોહિત કે વિરાટમાંથી એકનું પત્તુ કપાશે ! 2027 વર્લ્ડ કપ અંગે ચોંકાવનારું અપડેટ, આ બે ખેલાડીઓ પર પણ લટકતી તલવાર",
-    "desc": "સમગ્ર દેશમાં IPLનો માહોલ છવાયેલો છે, પરંતુ ટીમ ઈન્ડિયાના દૃષ્ટિકોણથી આજનો દિવસ મહત્વપૂર્ણ દિવસ છે. કારણ કે આજે અજિત અગરકરની આગેવાની હેઠળની પસંદગી સમિતિ એક મહત્વપૂર્ણ બેઠક યોજવા જઈ રહી છે. આ બેઠકનું મુખ્ય કેન્દ્રબિંદુ રોહિત શર્મા અને વિરાટ કોહલી જેવા દિગ્ગજ ખેલાડીઓ હશે. નવી અપડેટ્સ અનુસાર, આ બંનેમાંથી એક 2027 ODI વર્લ્ડ કપમાંથી બહાર થવાની શક્યતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shocking-update-either-rohit-sharma-or-virat-kohli-will-be-missed-2027-world-cup-478450 ",
-    "time": "2026-05-19T06:17:12.000Z"
   },
   {
     "cat": "World",
@@ -655,24 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/if-the-situation-does-not-change-soon-destruction-is-certain-pm-modi-warns-the-world-from-the-netherlands-478288 ",
     "time": "2026-05-17T16:59:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હુમલાના ભય વચ્ચે અમેરિકાએ ઈરાન સામે રાખી આ 5 શરતો, હવે શું કરશે ખામનેઈ?",
-    "desc": "અમેરિકાએ શરત મૂકી છે કે ઈરાન 400 કિલોગ્રામ એનરિચ્ડ યુરેનિયમ તેને સોપી દે. તેમાં એવી પણ શરત મૂકવામાં આવી છે કે ઈરાનની પરમાણુ સુવિધાઓનો માત્ર એક સેટ કાર્યરત રહે. અમેરિકાએ ઈરાનની વિદેશમાં રહેલી 25 ટકા સંપત્તિ છોડવાનો પણ ઇનકાર કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/amidst-the-threat-of-attack-america-has-put-these-5-conditions-against-iran-what-will-khamenei-do-now-478277 ",
-    "time": "2026-05-17T14:21:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "નેધરલેન્ડ્સથી ગુજરાત માટે આવ્યા સારા સમાચાર! PM મોદીએ કરી મોટી ડીલ, જાણો",
-    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદી તેમના પાંચ દેશોના પ્રવાસના બીજા દિવસે નેધરલેન્ડ પહોંચ્યા. પીએમ મોદીએ એક એવો સોદો કર્યો જે ચીન માટે ચિંતા ઉભી કરે તેવી શક્યતા છે. તેમની મુલાકાત દરમિયાન, પીએમએ એક મોટા કરાર પર હસ્તાક્ષર કર્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/good-news-for-gujarat-from-netherlands-pm-modi-made-a-big-deal-know-this-478256 ",
-    "time": "2026-05-17T13:05:51.000Z"
   },
   {
     "cat": "Entertainment",
