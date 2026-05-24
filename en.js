@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘The Mandalorian and Grogu’ tops box office with USD 165 mn haul",
+    "desc": "The Mandalorian and Grogu debuted to a respectable $82 million domestically, exceeding expectations but falling short of record-breaking figures. While not a blockbuster opening, its lower production budget and strong audience scores, particularly from younger viewers, suggest a path to profitability. This performance comes as the Star Wars franchise navigates a period of transition.",
+    "img": "https://static.toiimg.com/photo/msid-131296728,imgsize-249686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/star-wars-the-mandalorian-and-grogu-tops-global-box-office-charts-with-usd-165-million-haul-obsession-crosses-usd-70-million-worldwide/articleshow/131296707.cms",
+    "time": "2026-05-24T21:30:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonali recalls being labelled ‘comic relief’ in Aamir's Sarfarosh",
+    "desc": "Sonali Bendre opened up about her journey in films, the pressures of stardom, battling self-doubt, and how surviving cancer transformed her understanding of success. Reflecting on her career, the actor particularly revisited the legacy of Sarfarosh and revealed that the film was initially dismissed by many.",
+    "img": "https://static.toiimg.com/photo/msid-131296708,imgsize-22904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonali-bendre-recalls-being-labelled-comic-relief-in-aamir-khan-starrer-sarfarosh-despite-films-success-i-never-got-nominated/articleshow/131296705.cms",
+    "time": "2026-05-24T21:02:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anita Kanwal on battling self-doubt, feeling 'useless' in industry",
+    "desc": "Veteran actress Anita Kanwal made an emotional revelation about battling self-doubt, feeling “useless” and struggling with the lack of meaningful work despite spending over four decades in the entertainment industry. The actress opened up about her personal and professional struggles, including raising two children as a single mother while juggling 13 television shows at one point in her career.",
+    "img": "https://static.toiimg.com/photo/msid-131296569,imgsize-130470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anita-kanwal-on-battling-self-doubt-feeling-useless-despite-4-decades-in-the-industry-i-just-pray-at-times-that-god-just-take-me/articleshow/131296538.cms",
+    "time": "2026-05-24T20:02:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Master plan to transform Kochi into model city to come up in six months, says Satheesan",
+    "desc": "Grand civic receptions accorded to the new Chief Minister in the city and Paravur; actor Mammootty says Satheesan has been entrusted with a huge responsibility; Kochi will be developed on a ‘twin-city’ model, says the CM",
+    "img": "https://th-i.thgim.com/public/incoming/14bb63/article71018638.ece/alternates/LANDSCAPE_1200/Satheesan14.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/master-plan-to-transform-kochi-into-model-city-to-come-up-in-six-months-says-satheesan/article71017722.ece",
+    "time": "2026-05-24T19:21:58.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "KL Rahul, Kuldeep Yadav power DC to dominant win over KKR",
     "desc": "Delhi Capitals concluded their IPL 2026 campaign with a dominant 40-run victory over Kolkata Knight Riders. KL Rahul's blistering 60 set the tone for Delhi's imposing 203, while Kuldeep Yadav's crucial three-wicket haul dismantled KKR's chase. Despite a strong start from Ajinkya Rahane, KKR faltered, finishing their season with a loss.",
@@ -162,15 +198,6 @@ const newsData_en = [
     "time": "2026-05-24T15:22:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Lakhs of tribals gather at Red Fort to demand removal of converted Muslims, Christians from ST list",
-    "desc": "Nearly 1.5 lakh tribal people from across India gathered at the Red Fort, demanding the removal of converted Muslims and Christians from the Scheduled Tribe category. Organized by the Janajati Suraksha Manch, the event aimed to build support for a constitutional amendment under Article 342 to de-list converted tribals.",
-    "img": "https://static.toiimg.com/photo/msid-131294080,imgsize-1276785.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/lakhs-of-tribals-gather-at-red-fort-to-demand-removal-of-converted-muslims-christians-from-st-list/articleshow/131294027.cms",
-    "time": "2026-05-24T15:22:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We don't pick age, we ... ': Sangakkara's bold statement after RR enter playoffs",
     "desc": "Rajasthan Royals secured their IPL 2026 playoff spot with a crucial 30-run victory over Mumbai Indians. Jofra Archer starred with a blistering 32 off 15 balls and a vital 3-wicket spell, earning him Player of the Match. Young spinner Yash Raj Punja also impressed with two wickets.",
@@ -187,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/suryakumar-yadav-becomes-only-second-batter-after-rohit-sharma-to-cross-4000-runs-for-mi/articleshow/131293788.cms",
     "time": "2026-05-24T14:46:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP's Debangshu Panda wins with nearly 1.5 lakh votes, TMC’s Jahangir Khan restricted to 7k",
-    "desc": "BJP's Debangshu Panda secured a decisive victory in the Falta repoll, winning by over a lakh votes. The Election Commission ordered the repoll due to \"severe electoral offences\" during the initial April 29 polling. This high-stakes seat for TMC saw their candidate finish a distant fourth after withdrawing from campaigning but remaining on the ballot.",
-    "img": "https://static.toiimg.com/photo/msid-130674987,imgsize-71202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/falta-repoll-result-2026-bjps-debangshu-panda-wins-with-nearly-1-5-lakh-votes-tmcs-jahangir-khan-restricted-to-7k/articleshow/130674153.cms",
-    "time": "2026-05-24T14:45:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -216,24 +234,6 @@ const newsData_en = [
     "time": "2026-05-24T14:25:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pune school principal shared questions for money, CBI tells court",
-    "desc": "A school principal, Manisha Sanjay Havaldar, was arrested by the CBI in connection with the NEET-UG 2026 paper leak. She allegedly shared exam questions with students for money, conspiring with another lecturer. Havaldar admitted to sharing Physics questions and receiving payments, later deleting chats and burning notes.",
-    "img": "https://static.toiimg.com/photo/msid-131293448,imgsize-54920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-paper-leak-pune-school-principal-shared-questions-for-money-cbi-tells-court/articleshow/131293448.cms",
-    "time": "2026-05-24T14:24:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CBI probe sought in Supreme Court over ‘Cockroach Janta Party’ campaign, fake advocates",
-    "desc": "A Supreme Court plea seeks a CBI probe into the \"Cockroach Janta Party\" and alleged fake advocates, amidst a political storm over the viral digital campaign. The group, which gained traction discussing unemployment and exam leaks, saw its website taken down. Founder Abhijeet Dipke accused the government of suppression and claimed to have received death threats.",
-    "img": "https://static.toiimg.com/photo/msid-131293614,imgsize-532022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cbi-probe-sought-in-supreme-court-over-cockroach-janta-party-campaign-fake-advocates/articleshow/131293498.cms",
-    "time": "2026-05-24T14:24:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Beartooth singer Caleb Shomo comes out as gay",
     "desc": "Beartooth frontman Caleb Shomo has publicly revealed he is gay, addressing years of speculation. He shared on social media that this identity has profoundly shaped his music, which often explored themes of self-hatred and hopelessness. Shomo also detailed his decade-long struggle with alcohol as a coping mechanism, now seeing sobriety as a path to self-acceptance and reconciliation with his sexuality.",
@@ -252,15 +252,6 @@ const newsData_en = [
     "time": "2026-05-24T13:51:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Education ministry directs deployment of IIT Madras, IIT Kanpur experts to fix CBSE post-result portal glitches",
-    "desc": "IIT Madras and IIT Kanpur professors will now help CBSE fix its post-result services portal. This comes after students and parents reported widespread technical glitches and confusion regarding re-evaluation fees. The move aims to ensure a smooth, reliable, and transparent system for students seeking to review their exam papers.",
-    "img": "https://static.toiimg.com/photo/msid-131293300,imgsize-1138284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/education-ministry-directs-deployment-of-iit-madras-iit-kanpur-experts-to-fix-cbse-post-result-portal-glitches/articleshow/131293301.cms",
-    "time": "2026-05-24T13:49:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "AR Rahman opens up on working with Hans Zimmer on Ramayana",
     "desc": "The buzz around Ramayana has only grown stronger ever since the teaser of Nitesh Tiwari’s ambitious mythological drama was unveiled. Starring Ranbir Kapoor in the lead, the two-part cinematic spectacle is already being hailed as one of the costliest and most ambitious projects in Indian cinema, with reports suggesting that the film is being mounted on a staggering budget of nearly Rs 4000 crore. Amid the excitement, music maestro AR Rahman has now opened up about collaborating with celebrated German composer Hans Zimmer for the film’s soundtrack, calling it an “epic collaboration.”",
@@ -277,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/there-is-no-rush-in-that-direction-brad-pitt-and-ines-de-ramon-are-not-going-to-get-married-anytime-soon/articleshow/131292995.cms",
     "time": "2026-05-24T13:11:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Loans, PG rent &amp; coaching fees: The crushing cost of NEET-UG 2026",
-    "desc": "NEET-UG 2026 exam cancellation due to paper leak has deeply affected lakhs of students. Families face financial strain and students endure immense mental pressure. This incident raises serious questions about the integrity of competitive examinations in India. The system's credibility is shaken, while also impacting the aspirations of countless young individuals.",
-    "img": "https://static.toiimg.com/photo/msid-131293033,imgsize-97340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/loans-pg-rent-coaching-fees-the-crushing-cost-of-neet-ug-2026/articleshow/131292144.cms",
-    "time": "2026-05-24T13:09:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -324,15 +306,6 @@ const newsData_en = [
     "time": "2026-05-24T12:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Jaishankar holds talks with Rubio, reviews India-US strategic cooperation",
-    "desc": "External Affairs Minister S. Jaishankar met with US Secretary of State Marco Rubio in New Delhi to review the India-US Comprehensive Global Strategic Partnership. Discussions covered trade, energy, defense, AI, and counter-terrorism, with both sides emphasizing their 'strategic ally' status and shared interests. India highlighted its strategy to diversify energy sources for security amid global uncertainties.",
-    "img": "https://static.toiimg.com/photo/msid-131292583,imgsize-1382698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jaishankar-holds-talks-with-rubio-reviews-india-us-strategic-cooperation/articleshow/131292593.cms",
-    "time": "2026-05-24T12:29:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jadeja mocks Shardul in wild IPL moment after dramatic no-ball twist",
     "desc": "A dramatic final over saw Ravindra Jadeja turn the tables on former CSK teammate Shardul Thakur. After Thakur thought he had Jadeja caught, a no-ball overturned the dismissal. Jadeja then unleashed two boundaries on the free-hit and subsequent ball, adding a playful taunt that delighted fans and spiced up the tense IPL clash.",
@@ -361,15 +334,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Inde Navarrette is staying away from social media posts",
-    "desc": "Rising star Inde Navarrette is consciously avoiding social media during the promotion of her upcoming horror film 'Obsession'. She's prioritizing her mental well-being, only engaging with feedback shared directly by her team and family. Navarrette expressed immense pride in her performance, pouring her all into the character of Nikki, who becomes the subject of a terrifying wish.",
-    "img": "https://static.toiimg.com/photo/msid-131292151,imgsize-48888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/obsession-breakout-star-inde-navarrette-is-completely-banning-social-media-protecting-myself-first/articleshow/131292111.cms",
-    "time": "2026-05-24T11:55:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Aishwarya Rai stuns in feathered couture at Cannes 2026",
     "desc": "Aishwarya Rai Bachchan captivated at Cannes 2026 with a custom Fjolla Nila gown featuring crystal embellishments and a dramatic feathered cape. Her diverse fashion choices, including outfits by Cheney Chan and Amit Aggarwal, garnered significant praise online. She also attended the Lights on Women's Worth event with her daughter, Aaradhya.",
     "img": "https://static.toiimg.com/photo/msid-131292239,imgsize-24104.cms",
@@ -387,15 +351,6 @@ const newsData_en = [
     "time": "2026-05-24T11:54:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Feared Ladakh would become another Manipur’: Sonam Wangchuk says recent MHA talks signal positive shift but trust deficit remains",
-    "desc": "Activist Sonam Wangchuk acknowledged a positive step in talks between Ladakh representatives and the Centre, but warned trust-building remains incomplete. He cited unresolved protest cases and institutional issues, fearing Ladakh could become \"another Manipur\" due to growing unrest. Wangchuk stressed that government intent will be judged by actions on these outstanding matters.",
-    "img": "https://static.toiimg.com/photo/msid-131292192,imgsize-910950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/feared-ladakh-would-become-another-manipur-sonam-wangchuk-says-recent-mha-talks-signal-positive-shift-but-trust-deficit-remains/articleshow/131292169.cms",
-    "time": "2026-05-24T11:48:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mumbai Indians bring back rare 11-year-old strategy vs RR",
     "desc": "Mumbai Indians tried a new tactic in their final league match. They used three overs of spin in the Powerplay against Rajasthan Royals. This unusual strategy was also seen against Lucknow Super Giants earlier in IPL 2026. It is a rare move for the team in their IPL history. Mumbai Indians have had a mixed season in IPL 2026.",
@@ -405,24 +360,6 @@ const newsData_en = [
     "time": "2026-05-24T11:46:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Last rites of Twisha Sharma performed at Bhopal crematorium 12 days after her death",
-    "desc": "Twisha Sharma's funeral was held in Bhopal as her family continues to demand justice in the alleged dowry death case. The Supreme Court has taken suo motu cognisance of the matter, citing institutional bias, while a second post-mortem is being conducted. Her husband, the prime accused, has been arrested and remanded to police custody.",
-    "img": "https://static.toiimg.com/photo/msid-131292229,imgsize-1331564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/last-rites-of-twisha-sharma-performed-at-bhopal-crematorium-12-days-after-her-death/articleshow/131292056.cms",
-    "time": "2026-05-24T11:36:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Natalie Cassidy is training to become a carer",
-    "desc": "Following her father's passing, 'Eastenders' star Natalie Cassidy is embarking on a new career path as a professional carer. Her journey, documented in a new feature, is driven by her personal experience caring for her father and a desire to highlight the challenges within Britain's caring system. Cassidy aims to make a difference by offering her support to others.",
-    "img": "https://static.toiimg.com/photo/msid-131291998,imgsize-97792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eastenders-star-natalie-cassidy-is-training-to-become-a-professional-carer-after-her-fathers-sudden-passing-spurred-me-on-to-do-this/articleshow/131291980.cms",
-    "time": "2026-05-24T11:28:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Going to be beneficial to both': Rubio gives update on 'sustainable' India-US trade deal",
     "desc": "US Secretary of State Marco Rubio indicated a \"beneficial\" and \"sustainable\" trade deal with India is likely, following significant progress. He emphasized that the Trump administration's trade policy aims to address global imbalances, not target specific nations. Rubio's visit also included discussions on critical minerals, energy, and defense, while India raised concerns about US visa policies.",
@@ -430,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/going-to-be-beneficial-to-both-rubio-gives-update-on-sustainable-india-us-trade-deal/articleshow/131291577.cms",
     "time": "2026-05-24T11:23:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan gets emotional after David announces retirement",
-    "desc": "Karan Johar got emotional after David Dhawan revealed that 'Hai Jawani Toh Ishq Hona Hai' would be his last film. Posting on Instagram, Karan called him \"an institution\" and \"No. 1 man always.\" The film, David's fourth collaboration with Varun Dhawan, is set to release on June 5.",
-    "img": "https://static.toiimg.com/photo/msid-131291832,imgsize-27154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-pens-emotional-post-after-david-dhawan-announces-retirement-from-filmmaking-with-hai-jawani-toh-ishq-hona-hai-no-1-man-always/articleshow/131291832.cms",
-    "time": "2026-05-24T11:10:51.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/at-google-io-2026-alphabet-rewrites-search-playbook-unveils-gemini-35-flash/article71001008.ece",
     "time": "2026-05-20T06:26:22.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Decoding the Musk vs. Altman verdict",
+    "desc": "OpenAI was founded as a nonprofit aiming to build ethical, open-source artificial general intelligence. Years later, Elon Musk filed a lawsuit accusing CEO Sam Altman, OpenAI president Greg Brockman, and Microsoft of manipulating him into donating to a public-interest organisation which later created a for-profit subsidiary.",
+    "img": "https://th-i.thgim.com/public/incoming/4j53qg/article70999526.ece/alternates/LANDSCAPE_1200/2276427545.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/decoding-the-musk-vs-altman-verdict/article70999519.ece",
+    "time": "2026-05-20T02:38:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I am getting to do roles which I wouldn’t have got otherwise after forty’",
+    "desc": "The actor, along with Sonakshi Sinha and Ashutosh Gowariker, opens up about collaborating with Ashwiny Iyer Tiwary in ‘System’, Jyotika’s shift to Hindi films, how Sonakshi and Ashutosh brought realism to their performances, and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/avl8pe/article70995461.ece/alternates/LANDSCAPE_1200/Cover%2014.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/jyotika-on-working-in-hindi-ott-system-sonakshi-sinha-ashutosh-gowariker-ashwiny-iyer-tiwari/article70995395.ece",
+    "time": "2026-05-19T11:54:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The world’s first and only rotating boat lift",
+    "desc": "On May 24, 2002, the Falkirk Wheel was officially opened by Queen Elizabeth II as part of her Golden Jubilee celebrations. The world’s first and only rotating boat lift is an engineering feat of excellence that connects the Forth & Clyde and Union Canals in Scotland. A.S.Ganesh takes you on this waterway to tell you more about this unique wheel…",
+    "img": "https://th-i.thgim.com/public/incoming/p7u4uf/article70964997.ece/alternates/LANDSCAPE_1200/24istb%20Falkirk%20Wheel%204.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
+    "time": "2026-05-19T05:07:08.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "how your keyboard is stealing the soul of language",
+    "desc": "Predictive keyboards, AI systems are not just helping us communicate faster; they may slowly shape how humans think and write; as people select rather than construct language, the diversity and unpredictability that give communication its human ‘soul’ risk shrinking into statistical averages",
+    "img": "https://th-i.thgim.com/public/news/national/e1rcu0/article70991318.ece/alternates/LANDSCAPE_1200/iStock-613685546.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/the-predictability-pandemic-how-your-keyboard-is-stealing-the-soul-of-language/article70991160.ece",
+    "time": "2026-05-18T05:16:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
