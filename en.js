@@ -1,12 +1,120 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "KL Rahul, Kuldeep Yadav power DC to dominant win over KKR",
+    "desc": "Delhi Capitals concluded their IPL 2026 campaign with a dominant 40-run victory over Kolkata Knight Riders. KL Rahul's blistering 60 set the tone for Delhi's imposing 203, while Kuldeep Yadav's crucial three-wicket haul dismantled KKR's chase. Despite a strong start from Ajinkya Rahane, KKR faltered, finishing their season with a loss.",
+    "img": "https://static.toiimg.com/photo/msid-131295759,imgsize-233790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kl-rahul-kuldeep-yadav-power-delhi-capitals-to-dominant-win-over-kkr/articleshow/131295768.cms",
+    "time": "2026-05-24T18:19:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Abhimanyu reacts to Saurabh’s trolling after acting debut",
+    "desc": "Abhimanyu Singh has weighed in on the trolling faced by journalist Saurabh Dwivedi after his acting debut in Kartavya. Speaking in a recent interview, the actor said that while every profession deserves respect, acting is a completely different craft that cannot be mastered overnight.",
+    "img": "https://static.toiimg.com/photo/msid-131295588,imgsize-72068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhimanyu-singh-reacts-to-saurabh-dwivedis-trolling-after-acting-debut-in-saif-ali-khans-kartavya-saanp-ke-bill-me-haath-nahi-daalte/articleshow/131295503.cms",
+    "time": "2026-05-24T18:07:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dev Kumar Meena clinches gold in record-breaking pole vault event",
+    "desc": "A thrilling National Senior Athletics Federation Competition saw Dev Kumar Meena and Kuldeep Kumar shatter the pole vault national record, both clearing 5.45m. Murali Sreeshankar and Sarvesh Anil Kushare also secured gold in long jump and high jump respectively, meeting Commonwealth Games standards. Tejas Shirse dominated hurdles, while Ravina triumphed in the 10,000m race walk.",
+    "img": "https://static.toiimg.com/photo/msid-131295218,imgsize-78524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/dev-kumar-meena-clinches-gold-in-record-breaking-pole-vault-event/articleshow/131295438.cms",
+    "time": "2026-05-24T17:57:11.000Z"
+  },
+  {
     "cat": "Politics",
+    "title": "I wasn’t allowed to see her body, mother of murdered girl alleges",
+    "desc": "The mother of the 10-year-old girl, who was sexually assaulted and killed near Coimbatore, said her husband took the child’s body to his native place in Salem and cremated it without her consent or allowing her to see the mortal remains",
+    "img": "https://th-i.thgim.com/public/incoming/6w9y2w/article71018780.ece/alternates/LANDSCAPE_1200/Kannampalayam%20tank%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/i-wasnt-allowed-to-see-her-body-mother-of-murdered-girl-alleges/article71018717.ece",
+    "time": "2026-05-24T17:49:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Robert Duvall",
+    "desc": "Veteran actor Robert Duvall, a Hollywood legend, champions daydreaming as a crucial first step towards achieving goals. He emphasizes that visualizing success fuels motivation and provides the foundation for taking that initial, often daunting, step. Duvall's perspective suggests imagination is not a waste of time but a powerful tool for personal growth and accomplishment.",
+    "img": "https://static.toiimg.com/photo/msid-131293820,imgsize-57580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-robert-duvall-if-you-dont-daydream-and-kind-of-plan-things-out-you-have-to-start-someplace/articleshow/131293799.cms",
+    "time": "2026-05-24T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘He told me no more...’: Jofra Archer explains how RR coach unlocked his best bowling rhythm",
+    "desc": "Jofra Archer's explosive all-round performance, including 3 for 17 and a quickfire 32, powered Rajasthan Royals to a crucial 30-run victory over Mumbai Indians. Archer revealed that a directive from the coaching staff to focus on high pace, rather than slower balls, was key to his bowling transformation this season.",
+    "img": "https://static.toiimg.com/photo/msid-131295092,imgsize-91576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/he-told-me-no-more-jofra-archer-explains-how-rr-coach-unlocked-his-best-bowling-rhythm/articleshow/131295102.cms",
+    "time": "2026-05-24T17:23:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UP ranks second in power consumption amid heatwave, but faces supply disruptions",
+    "desc": "Uttar Pradesh is the second-highest power consumer in India. Rising summer temperatures are straining the electricity grid. Several thermal power plants are shut down, causing significant power cuts, especially in rural areas. The state is facing a substantial shortfall in power generation. Efforts are underway to secure additional electricity from other states and through power exchanges to meet the demand.",
+    "img": "https://static.toiimg.com/photo/msid-131294798,imgsize-1021950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/up-ranks-second-in-power-consumption-amid-heatwave-but-faces-supply-disruptions/articleshow/131294816.cms",
+    "time": "2026-05-24T16:45:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We gave him the best opportunity': Pollard's big statement on Hardik Pandya",
+    "desc": "Mumbai Indians concluded their disappointing IPL 2026 campaign with a loss to Rajasthan Royals, finishing ninth. Batting coach Kieron Pollard acknowledged that skipper Hardik Pandya's leadership did not unfold as hoped, but emphasized the season's failure was a collective one. The franchise will now assess the reasons for their downfall before making future decisions.",
+    "img": "https://static.toiimg.com/photo/msid-131294763,imgsize-73060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/kieron-pollard-makes-big-statement-on-hardik-pandya-after-mumbai-indians-poor-ipl-2026-campaign/articleshow/131294755.cms",
+    "time": "2026-05-24T16:42:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "WB government directs districts to set up holding centres for detained illegal foreigners",
+    "desc": "The development comes days after Chief Minister Suvendu Adhikari said that his government would follow a new policy of “detect, delete and deport” while dealing with “illegal infiltrators”. Last year in May, Union Ministry of Home Affairs (MHA) directed all States and Union Territories to identify and verify illegal immigrants from Bangladesh and Myanmar (Rohingyas) within 30 days",
+    "img": "https://th-i.thgim.com/public/incoming/ib5aeg/article71018664.ece/alternates/LANDSCAPE_1200/PTI05_21_2026_000472B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/wb-government-directs-districts-to-set-up-holding-centres-for-detained-illegal-foreigners/article71018365.ece",
+    "time": "2026-05-24T16:21:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I love Prime Minister Modi': Trump makes surprise live call during US embassy event in Delhi",
+    "desc": "US President Donald Trump made a surprise audio call during the US Embassy's 250th Independence Day celebrations in Delhi, expressing his admiration for PM Modi and calling him \"great\" and \"my friend.\" Trump emphasized the close US-India relationship, stating India can count on the US \"100%\" and that the two nations have \"never been closer\".",
+    "img": "https://static.toiimg.com/photo/msid-131294636,imgsize-89208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-love-prime-minister-modi-trump-makes-surprise-live-call-during-us-embassy-event-in-delhi/articleshow/131294511.cms",
+    "time": "2026-05-24T16:15:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana slams trolls targeting Aishwarya’s looks and weight",
+    "desc": "Actor-politician Kangana Ranaut has come out strongly in support of Aishwarya Rai Bachchan after the latter faced online criticism over her recent appearances at the Cannes Film Festival. Taking to Instagram Stories on Sunday, Kangana slammed trolls targeting Aishwarya’s looks and weight, while stressing that fashion is a personal form of expression and women do not need to cater to public expectations.",
+    "img": "https://static.toiimg.com/photo/msid-131294556,imgsize-80672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-slams-trolls-targeting-aishwarya-rai-bachchans-looks-and-weight-get-used-to-seeing-older-women-on-red-carpets/articleshow/131294492.cms",
+    "time": "2026-05-24T16:13:00.000Z"
+  },
+  {
+    "cat": "World",
     "title": "Jaishankar addresses National Day reception at the U.S. Embassy",
     "desc": "U.S. President Donald Trump calls U.S. Ambassador to India Sergio Gor and says that he \"loves India, loves Modi\"; U.S. Secretary of State Marco Rubio said that the two nations will soon seal a trade deal",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/marco-rubio-india-visit-live-updates-donald-trump-official-to-meet-s-jaishankar-pm-modi-may-24-2026/article71017144.ece",
-    "time": "2026-05-24T15:54:15.000Z"
+    "time": "2026-05-24T15:58:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indians cut overseas travel spending to $1.9 billion in March: RBI",
+    "desc": "Indian overseas travel spending saw a significant drop in March, with remittances falling by over $212 million from February. This decline, attributed to rising oil prices and a weakening rupee, occurred despite travel remaining the largest component of outward remittances under the Liberalised Remittance Scheme.",
+    "img": "https://static.toiimg.com/photo/msid-131294340,imgsize-25636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indians-cut-overseas-travel-spending-to-1-9-billion-in-march-rbi/articleshow/131294190.cms",
+    "time": "2026-05-24T15:53:07.000Z"
   },
   {
     "cat": "Politics",
@@ -99,15 +207,6 @@ const newsData_en = [
     "time": "2026-05-24T14:36:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress targets PM Modi over Marco Rubio’s trade claim, seeks answers on U.S. imports",
-    "desc": "Referring to Rubio’s recent statement that India had committed to purchasing $500 billion worth of U.S. goods over five years, Congress general secretary (communications) Jairam Ramesh says India’s yearly imports from the country, currently at about $52.9 billion, will have to be doubled to fulfil this commitment",
-    "img": "https://th-i.thgim.com/public/incoming/mcbvwm/article71017858.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG91G0BBCC.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/compromised-pm-appeasing-good-friend-congress-on-rubios-india-trade-remarks/article71017809.ece",
-    "time": "2026-05-24T14:28:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Big B’s Sunday darshan outside Jalsa turns chaotic after fan faints",
     "desc": "Megastar Amitabh Bachchan’s weekly Sunday darshan outside his Mumbai residence, Jalsa, witnessed a tense moment this weekend after a fan reportedly fainted amid the huge crowd gathered to see the actor. Videos from the incident have surfaced online and are now circulating widely across social media platforms.",
@@ -120,7 +219,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "Pune school principal shared questions for money, CBI tells court",
     "desc": "A school principal, Manisha Sanjay Havaldar, was arrested by the CBI in connection with the NEET-UG 2026 paper leak. She allegedly shared exam questions with students for money, conspiring with another lecturer. Havaldar admitted to sharing Physics questions and receiving payments, later deleting chats and burning notes.",
-    "img": "https://static.toiimg.com/photo/msid-131293612,imgsize-54920.cms",
+    "img": "https://static.toiimg.com/photo/msid-131293448,imgsize-54920.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/neet-paper-leak-pune-school-principal-shared-questions-for-money-cbi-tells-court/articleshow/131293448.cms",
     "time": "2026-05-24T14:24:05.000Z"
@@ -351,24 +450,6 @@ const newsData_en = [
     "time": "2026-05-24T11:10:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Eight, including seven women, drown in Uttara Kannada river tragedy near Bhatkal",
-    "desc": "Tragedy struck Karnataka's Uttara Kannada district on Sunday as at least eight individuals, predominantly women, lost their lives after being swept away while bathing in the Thatte Hakkalu river near Bhatkal. A massive search and rescue operation is underway, with authorities concerned the grim toll may escalate. Further updates are anticipated as the situation unfolds.",
-    "img": "https://static.toiimg.com/photo/msid-131291766,imgsize-23342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eight-including-seven-women-drown-in-uttara-kannada-river-tragedy-near-bhatkal/articleshow/131291742.cms",
-    "time": "2026-05-24T11:04:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor-Travis' cutest moments from their NBA game date night",
-    "desc": "Taylor Swift and Travis Kelce captivated fans at an NBA game, showcasing their affection with sweet gestures and playful antics. From sharing a gum to Kelce's epic beer chug on the jumbotron, the couple radiated joy. Swift's blushing reaction and their shared moments, including holding hands and posing with fans, made for an unforgettable night.",
-    "img": "https://static.toiimg.com/photo/msid-131291602,imgsize-43686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelces-date-night-at-the-nba-game-a-look-at-their-most-adorable-moments/articleshow/131291491.cms",
-    "time": "2026-05-24T10:47:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "When and where will banks remain closed? Check state-wise list",
     "desc": "Bank customers across India should note extended holiday closures from May 26-28, 2026, impacting numerous states for national and religious observances like Kazi Nazrul Islam's birth anniversary and Eid-ul-Adha. Remember, second and fourth Saturdays also mean branch shutdowns. Plan ahead for essential services, as digital banking remains fully operational.",
@@ -376,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holidays-for-the-week-starting-may-25-when-and-where-will-banks-remain-closed-check-state-wise-list/articleshow/131291224.cms",
     "time": "2026-05-24T10:45:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aishwarya dishes advice for newcomers at Cannes 2026",
-    "desc": "Aishwarya Rai Bachchan delivered a showstopping red carpet moment at Cannes 2026 in a stunning abyss-blue gown by Amit Aggarwal. Speaking to Brut, she offered heartfelt advice to newcomers saying, \"Go out there, discover your passion, and be true to your choices. Everything else will find its place.\"",
-    "img": "https://static.toiimg.com/photo/msid-131291591,imgsize-59938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-dishes-golden-advice-for-aspiring-artists-and-newcomers-at-cannes-2026-too-much-is-manufactured-today-be-your-own-best-friend/articleshow/131291591.cms",
-    "time": "2026-05-24T10:44:37.000Z"
   },
   {
     "cat": "Sports",
@@ -414,33 +486,6 @@ const newsData_en = [
     "time": "2026-05-24T10:25:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Mungerilal ke haseen sapne’: CM Fadnavis mocks Rahul Gandhi’s remark predicting NDA’s fall as mere ‘daydream’",
-    "desc": "Maharashtra Chief Minister Devendra Fadnavis dismissed Rahul Gandhi's prediction of the NDA government's collapse as \"daydreaming,\" comparing it to a popular television serial. Fadnavis made these remarks while inaugurating a logistics park in Nagpur, highlighting its potential to boost the manufacturing sector and strengthen the city's position as a logistics hub.",
-    "img": "https://static.toiimg.com/photo/msid-131291323,imgsize-891334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mungerilal-ke-haseen-sapne-cm-fadnavis-mocks-rahul-gandhis-remark-predicting-ndas-fall-as-mere-daydream/articleshow/131291290.cms",
-    "time": "2026-05-24T10:18:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fame and stardom have always been natural for Miley Cyrus",
-    "desc": "Recently celebrated with a Hollywood Walk of Fame star, Miley Cyrus expressed how her childhood immersed in the entertainment industry has shaped her perspective on stardom. Growing up alongside her country musician father, the bustle of tours and film sets was her everyday life, rendering Hollywood's glitz and glamour less daunting.",
-    "img": "https://static.toiimg.com/photo/msid-131291295,imgsize-35620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/i-never-felt-like-a-fish-out-of-water-miley-cyrus-on-how-hollywood-stardom-never-shocked-her/articleshow/131291295.cms",
-    "time": "2026-05-24T10:18:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "11 test pilots, 6 flight engineers pass out from AFTPS",
-    "desc": "Seventeen officers completed a 48-week training program at the Air Force Test Pilots School. The graduating batch included personnel from the Indian Air Force, Army, and Navy. Chief of Air Staff Air Chief Marshal AP Singh presented awards to outstanding performers. The officers will now join the Aircraft and Systems Testing Establishment.",
-    "img": "https://static.toiimg.com/photo/msid-131291058,imgsize-2005495.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/11-test-pilots-6-flight-engineers-pass-out-from-aftps/articleshow/131291061.cms",
-    "time": "2026-05-24T09:53:40.000Z"
-  },
-  {
     "cat": "World",
     "title": "24 killed, many injured in blast near railway track in Pakistan’s Balochistan",
     "desc": "The explosion occurred on Sunday, May 24, near Chaman Phatak railway station in Quetta; Baloch Liberation Army claimed responsibility for the attack; Babar Yousafzai, the spokesperson to the Home Minister, said that all relevant institutions have been placed on high alert following an explosion in the city.",
@@ -451,21 +496,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 67 [LIVE]: Can Ranveer Singh film net Rs 1150 crore this weekend?",
+    "title": "'Dhurandhar 2' BO day 67 [LIVE]: Ranveer Singh film nets Rs 1147.58 crore on 10th Sunday",
     "desc": "The Revenge', starring Ranveer Singh, enters its final theatrical stretch on Day 67. With an official JioHotstar domestic OTT release date locked for June 4, 2026, the box office juggernaut is racing to secure its next massive milestone. The film currently sits just Rs 3.65 crore away from crossing the monumental Rs 1150 crore net domestic mark in India. Fans looking forward to the high-octane action can also gear up for its dual-platform digital release next month, which features the unfiltered \"Raw & Undekha\" cut.",
     "img": "https://static.toiimg.com/photo/msid-131290735,imgsize-84848.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-67-live-ranveer-singh-film-rs-3-42-crore-from-rs-1150-crore-net-amid-ott-release-of-raw-undekha-version-on-june-4/articleshow/131290735.cms",
     "time": "2026-05-24T09:18:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Future of 22 lakh children at stake': Rahul Gandhi vows continued NEET paper leak protests until Dharmendra Pradhan resigns",
-    "desc": "Rahul Gandhi demands Education Minister Dharmendra Pradhan's resignation over the NEET-UG 2026 controversy, vowing continued protests until a foolproof system prevents future paper leaks. The NSUI also called for the minister's resignation and an impartial investigation, as the NTA claims only some questions, not the full paper, were leaked.",
-    "img": "https://static.toiimg.com/photo/msid-131290774,imgsize-76858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/future-of-22-lakh-children-at-stake-rahul-gandhi-vows-continued-neet-paper-leak-protests-until-dharmendra-pradhan-resigns/articleshow/131290674.cms",
-    "time": "2026-05-24T09:18:07.000Z"
   },
   {
     "cat": "Sports",
@@ -493,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-approves-irans-request-to-move-2026-world-cup-training-base-from-us-to-mexico/articleshow/131289859.cms",
     "time": "2026-05-24T07:21:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kane's hat-trick in DFB Pokal final powers Bayern to domestic double",
-    "desc": "Harry Kane scored a hat trick as Bayern Munich defeated VfB Stuttgart 3-0 in the German Cup final to complete a domestic double. The match also saw fan protests and fireworks against the German Football Association. Kane finished the season with an incredible 61 goals across all competitions.",
-    "img": "https://static.toiimg.com/photo/msid-131289778,imgsize-149958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/harry-kane-turns-hero-with-hat-trick-in-dfb-pokal-final-as-bayern-munich-secure-domestic-double/articleshow/131289746.cms",
-    "time": "2026-05-24T07:12:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Missing one England game doesn't bothers him': Archer backed amid criticism over IPL priority",
-    "desc": "Jofra Archer is reportedly unfazed by criticism in England over missing the first Test against New Zealand due to IPL commitments with Rajasthan Royals. Assistant coach Trevor Penny said Archer remains relaxed despite comments from former captains Michael Atherton and Michael Vaughan. Meanwhile, Jacob Bethell has left the IPL after suffering a finger injury.",
-    "img": "https://static.toiimg.com/photo/msid-131289597,imgsize-176386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/dont-think-missing-one-game-for-england-bothers-him-jofra-archer-backed-amid-criticism-over-ipl-priority/articleshow/131289597.cms",
-    "time": "2026-05-24T06:52:55.000Z"
   },
   {
     "cat": "Sports",
@@ -610,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-agreement-with-iran-largely-negotiated-includes-opening-strait/article71015849.ece",
     "time": "2026-05-24T01:19:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'A genuine human error': Ram Charan apologises to Jasprit Bumrah",
-    "desc": "Actor Ram Charan went viral after mistakenly mentioning football while praising Jasprit Bumrah at Peddi’s music launch in Bhopal. He later apologised, calling it a “genuine human error.” Meanwhile, Mumbai Indians coach Mahela Jayawardene revealed Bumrah battled an injury during IPL 2026 but said the pacer has regained rhythm and confidence in recent matches.",
-    "img": "https://static.toiimg.com/photo/msid-131287760,imgsize-56376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/actor-ram-charan-apologises-to-jasprit-bumrah-after-on-stage-goof-up-it-was-a-genuine-human-error/articleshow/131287707.cms",
-    "time": "2026-05-24T01:03:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -754,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/whither-alexander-zverev-the-forlorn-scion-of-the-lost-generation/article71012400.ece",
     "time": "2026-05-23T05:13:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "After petrol, diesel, CNG prices hiked for third time by Re 1 per kg",
-    "desc": "CNG prices have seen a third hike in under ten days, now costing Rs 81.09 per kg in Delhi. This follows recent increases in petrol and diesel prices, driven by surging global crude oil costs due to Middle East tensions. Transport operators are protesting, demanding fare revisions and a rollback of fuel surcharges.",
-    "img": "https://static.toiimg.com/photo/msid-131271531,imgsize-160148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/after-petrol-diesel-cng-prices-hiked-for-third-time-fuel-rates-increased-by-re-1-per-kg-check-rates-in-your-city/articleshow/131271317.cms",
-    "time": "2026-05-23T03:23:35.000Z"
   },
   {
     "cat": "Sports",
