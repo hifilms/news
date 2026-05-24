@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ভয়, অনুশোচনার বিন্দুমাত্র নেই শয়তান সমর্থের মুখে: অন্তঃসত্ত্বা তিশার মৃত্যুর তদন্তে একাধিক চাঞ্চল্যকর তথ্য",
+    "desc": "তিশার স্বামী সমর্থ সিং এখন পুলিসের হেফাজতে আছেন। পুলিস এই ৭ দিন ধরে তাঁকে খুব কড়াভাবে জিজ্ঞাসাবাদ করবে। তিশার বাপের বাড়ির লোক বলছেন এটি একটি 'খুন', আর শ্বশুরবাড়ির লোক বলছেন এটি 'আত্মহত্যা'। তবে পুলিস কোনও তাড়াহুড়ো না করে সিসিটিভি ফুটেজ, ফোনের রেকর্ড এবং ডাক্তারের রিপোর্টের ওপর ভিত্তি করে আসল সত্যিটা খোঁজার চেষ্টা করছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/twisha-sharma-case-husband-samarth-singh-in-police-custody-investigators-probe-discrepancies_655200.html ",
+    "time": "2026-05-24T11:24:24.000Z"
+  },
+  {
     "cat": "World",
     "title": "ভয়ংকরতম খনি বিস্ফোরণ: সালফার আর কার্বন মনোক্সাইডের আগুনবিষে ২৫০ শ্রমিকই",
     "desc": "শুক্রবার সময় তখন সন্ধে সাড়ে ৭টা। বেজিং থেকে ৫২০ কিলোমিটার দক্ষিণ-পশ্চিমে লিউশেনইউ কয়লাখনিতে ঘটল ভয়ংকর এক দুর্ঘটনা। খননকার্য চলাকালীন খনির ভিতরে জমে থাকা কার্বন মনোক্সাইডের মাত্রা আচমকা বেড়ে গিয়ে ঘটে এই ভয়াবহ বিস্ফোরণ এবং অগ্নিকান্ড। বিস্ফোরণের আগে কি কোনও সতর্কতা জারি হয়েছিল?",
@@ -7,6 +16,15 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/deadliest-coal-mine-explosion-china-coal-mine-blast-90-miners-killed-so-far_655182.html ",
     "time": "2026-05-24T09:36:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
   },
   {
     "cat": "Politics",
@@ -126,15 +144,6 @@ const newsData_bn = [
     "time": "2026-05-21T03:52:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "সময়ের প্রশংসা, সমাজের সম্মান, গৌরবের অনন্য মুহূর্ত...",
-    "desc": "এসেল গ্রুপ তাদের ১০০ বছরের যাত্রাপথে নানা চড়াই-উতরাই ও ৫টি বড় সংকট পার করেছে। শ্রী জগন্নাথ গোয়েঙ্কার তিনটি মূল মন্ত্র—\"ভয় পেও না, সংকল্পে অবিচল থাকো এবং সত্যের পথে চলো\"—গ্রুপটির ঘুরে দাঁড়ানোর মূল শক্তি ও অনুপ্রেরণা হিসেবে কাজ করেছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/essel-group-100-years-celebration-awards-achievements-subhash-chandra-legacy-story_654723.html ",
-    "time": "2026-05-21T03:41:06.000Z"
-  },
-  {
     "cat": "World",
     "title": "টানা ছুটি বকরি ইদে; হোটেল আর ফ্লাইট বুকিংয়ের ধুম পড়ে গিয়েছে; কবে থেকে কবে বন্ধ সব?",
     "desc": "ইদের ছুটি ২৯ মে পর্যন্ত। ১ জুন থেকে কাজে ফিরবে সকলে। এ বছর বকরি কবে, তা নিয়ে প্রাথমিক ভাবে সংশয় ছিল। অবশেষে তা মিটে যায়। এ বছর ভারতে ইদ-উল-আধা কবে পালিত হবে, তা নিয়েও বিভ্রান্তি তৈরি হয়। ২৭ না ২৮ মে-- কবে বকরি ইদ এ দেশে?",
@@ -142,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/uae-eid-al-adha-holidays-2026-announced-public-holiday-dates-long-weekend-school-break-and-travel-rush-details_654687.html ",
     "time": "2026-05-20T14:40:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "১৯০ দেশে উদযাপিত ১৩তম আন্তর্জাতিক ‘আর্ট অফ গিভিং’ দিবস, মেগা অনুষ্ঠানে চাঁদের হাট",
-    "desc": "ত্যাগের আনন্দই প্রকৃত আলো। ডঃ অচ্যুত সামন্তের অনুপ্রেরণায় বিশ্বের ১৯০টি দেশে সাড়ম্বরে উদযাপিত হলো ১৩তম আন্তর্জাতিক ‘আর্ট অফ গিভিং’ দিবস। এবারের থিম \"Share to Shine\"-কে সামনে রেখে বিশ্বজুড়ে প্রায় ২.৫ কোটি মানুষের মুখে হাসি ফোটালো এই আন্দোলন। ভুবনেশ্বরের মেগা অনুষ্ঠানে শানের কণ্ঠে থিম সং প্রকাশ থেকে শুরু করে লিয়েন্ডার পেজের উপস্থিতি— সব মিলিয়ে এক অনন্য মানবিকতার সাক্ষী থাকলো বিশ্ববাসী।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/13th-international-art-of-giving-day-celebrated-globally-achyuta-samanta_654643.html ",
-    "time": "2026-05-20T11:32:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -189,15 +189,6 @@ const newsData_bn = [
     "time": "2026-05-18T06:58:20.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "বড় খবর: অরূপ বিশ্বাসের বিরুদ্ধে ১০০ কোটির মানহানি মামলা শতদ্রু দত্তর, 'সরকার বদলেছে, মেসিকে আবার কলকাতায় আনবই'",
-    "desc": "আমি জেল থেকে ছাড়া পাবার পর মেসির বাবার সঙ্গে কথা হয়েছে। পশ্চিমবঙ্গে যে সরকার বদল হয়ে গেছে সেটা ওদের এখনো জানায়নি জানাব। পাপিয়া অধিকারী যেমন বলছেন তিনি মেসিকে আবার কলকাতায় আনতে চান, একদম ঠিক আমার সেই পরিকল্পনা রয়েছে। মেসিকে আবার আমি কলকাতায় নিয়ে আসবই আসব'।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/satadru-dutta-will-lodge-100-crore-defamation-case-on-arup-biswas-over-messi-event_654251.html ",
-    "time": "2026-05-16T14:23:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "আপাতত মিলল স্বস্তি, আগাম জামিন শ্রীজাতর! কবিকে কী কী শর্ত দিল আদালত?",
     "desc": "২০১৯ সালের বিতর্কিত মামলায় কৃষ্ণনগর জেলা আদালতে হাজিরা দিয়ে শর্তসাপেক্ষে আগাম জামিন পেলেন বিশিষ্ট কবি শ্রীজাত বন্দ্যোপাধ্যায়। তবে জামিন মিললেও আদালতের অনুমতি ছাড়া কলকাতা এবং কৃষ্ণনগরের বাইরে যেতে পারবেন না তিনি। একদিকে যখন সংস্কৃতিমহল একে 'বাকস্বাধীনতায় হস্তক্ষেপ' বলছে, অন্যদিকে বিরোধীদের দাবি, ধর্মীয় ভাবাবেগকে গুরুত্ব দিয়েই এই রায়। ঠিক কী কী শর্ত দিল আদালত?",
@@ -225,6 +216,15 @@ const newsData_bn = [
     "time": "2026-05-16T05:18:53.000Z"
   },
   {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "থালাপতি জ্বরে কাঁপছে চেন্নাই, বিজয়ের জন্য ৬৫৪ কিমি পথ পায়ে হেঁটে চেন্নাইয়ে 'ফ্যান' দম্পতি",
     "desc": "প্রিয় তারকার জন্য সবকিছুই সম্ভব! তামিলনাড়ুর নবনির্বাচিত মুখ্যমন্ত্রী থালপতি বিজয়ের সঙ্গে দেখা করতে কেরালাম থেকে চেন্নাই পর্যন্ত ৬৫৪ কিমি পায়ে হেঁটে পাড়ি দিচ্ছেন এক দম্পতি। মহম্মদ রফি ও শাহানামোলের এই 'থালাপতি প্রেম' এখন নেটপাড়ায় তুঙ্গে।",
@@ -241,6 +241,15 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/cm-suvendu-adhikari-meeting-star-mlas-tollywood-reform-report_653857.html ",
     "time": "2026-05-13T13:28:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,5 +277,23 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/amid-tvk-thalapathy-surge-dmk-and-aiadmk-reportedly-hold-behind-the-scenes-talks_652895.html ",
     "time": "2026-05-06T16:21:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

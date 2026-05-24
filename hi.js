@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kolkata Knight Riders announce Luvnith Sisodia as Matheesha Pathirana's replacement",
+    "desc": "In a major development for Kolkata Knight Riders, the three-time IPL (Indian Premier League) champions came forward and announced the signing of Luvnith Sisodia as the replacement for the injured Matheesha Pathirana. The signing was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-announce-luvnith-sisodia-as-matheesha-pathirana-s-replacement-2026-05-24-1042298",
+    "time": "2026-05-24T12:12:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will the surface at Eden Gardens in Kolkata play?",
+    "desc": "The stage is set for the 70th game of the ongoing IPL (Indian Premier League) 2026. Kolkata Knight Riders will take on Delhi Capitals at the Eden Gardens in Kolkata on May 24. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-dc-pitch-report-how-will-the-surface-at-eden-gardens-in-kolkata-play-2026-05-24-1042293",
+    "time": "2026-05-24T11:23:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Jasprit Bumrah not playing vs Rajasthan Royals in MI's final league game of IPL 2026?",
     "desc": "The 69th game of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians hosting Rajasthan Royals at the Wankhede Stadium in Mumbai. The two sides meet on May 24, and while MI have already...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Royals look to book final playoff spot at Wankhede",
+    "title": "Rajasthan Royals post 205 runs in the first innings",
     "desc": "Rajasthan Royals take on Mumbai Indians in a must-win clash in the Indian Premier League 2026, with the final playoff spot hanging in the balance. Although Mumbai were eliminated from playoff contention early, their final...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mumbai-weather-report-will-rain-play-spoilsport-in-mi-vs-rr-ipl-2026-match-at-wankhede-2026-05-24-1042257",
     "time": "2026-05-24T05:05:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR head coach Abhishek Nayar hails Varun Chakravarthy for braving injuries through IPL 2026",
-    "desc": "Kolkata Knight Riders head coach Abhishek Nayar hailed Varun Chakravarthy's commitment to playing through injuries for the franchise in the Indian Premier League 2026. Varun has been hit with several issues after his hot and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-head-coach-abhishek-nayar-hails-varun-chakravarthy-for-braving-injuries-through-ipl-2026-2026-05-24-1042254",
-    "time": "2026-05-24T04:11:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sachin Tendulkar reacts to son Arjun's performance on maiden IPL 2026 outing for LSG",
-    "desc": "Former cricketer and legend Sachin Tendulkar praised his son Arjun for his impressive performance on Lucknow Super Giants' debut in the Indian Premier League 2026 on Saturday, May 23. Arjun, who was previously part of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sachin-tendulkar-reacts-to-son-arjuns-performance-on-maiden-ipl-2026-outing-for-lsg-2026-05-24-1042247",
-    "time": "2026-05-24T02:44:30.000Z"
   }
 ];

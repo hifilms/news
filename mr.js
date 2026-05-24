@@ -1,9 +1,9 @@
 const newsData_mr = [
   {
     "cat": "Sports",
-    "title": "मुंबई इंडियन्सने राजस्थान रॉयल्सविरुद्ध जिंकली नाणेफेक; हार्दिक पांड्याचा मोठा निर्णय, जाणून घ्या Live अपडेट्स",
+    "title": "रियान पराग, वैभव सूर्यवंशी फेल, तरी राजस्थान रॉयल्सने मुंबईसमोर ठेवले 206 धावांचे लक्ष्य, जाणून घ्या Live अपडेट्स",
     "desc": "आयपीएल 2026 चा गट टप्पा आज संपत आहे. चालू हंगामातील हा शेवटचा दुहेरी सामना आहे. दिवसाच्या पहिल्या सामन्यात राजस्थान रॉयल्सचा सामना मुंबई इंडियन्सशी होणार आहे. राजस्थानसाठी हा 'करो किंवा मरो' सामना आहे. विजय मिळवल्यास ते थेट प्लेऑफसाठी पात्र ठरतील, तर पराभव झाल्यास गट टप्प्यातच त्यांचा प्रवास संपेल. या सामन्यात मुंबई अनपेक्षित विजय मिळवू शकते का, हे पाहणे उत्सुकतेचे ठरेल. &nbsp;",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/24/f51055bc62f009ed6f9b36f6a0eb614017796132310101378_original.jpg",
+    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/24/07eab52a6cf9daaa120d606c5cc9c85217796246474381378_original.jpg",
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/sports/cricket/mi-vs-rr-live-score-updates-ipl-2026-yashasvi-jaiswal-vaibhav-sooryavanshi-dhruv-jurel-rohit-sharma-hardik-pandya-marathi-news-1425293",
     "time": "2026-05-24T09:00:44.000Z"
