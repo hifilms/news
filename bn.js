@@ -126,24 +126,6 @@ const newsData_bn = [
     "time": "2026-05-21T04:12:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘আদমপুর’-এর ‘A’ থেকে ‘ZEE’-র ‘Z’, শতবর্ষে ১৯০টিরও বেশি দেশে সাফল্যের পতাকা উড়িয়েছে Essel Group",
-    "desc": "শ্রী জগন্নাথ গোয়েঙ্কার (এসেল গ্রুপের বর্তমান চেয়ারপারসন ড. সুভাষ চন্দ্রের ঠাকুরদা) নেতৃত্বে ৩ ভাই ব্যবসায় বড় কিছু করার স্বপ্ন দেখেন। জীবন জীবিকা নির্বাহ নয়, বরং বড় কিছু করার তাগিদে তাঁরা গঙ্গানগরের ভাদরা এবং ওকারা (বর্তমান মিন্ট গুমরি) অঞ্চলে ব্যবসা সম্প্রসারণের চেষ্টা করেন",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/essel-group-100-years-history-celebration-adampur-to-zee-subhash-chandra-success-story_654725.html ",
-    "time": "2026-05-21T04:07:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মাইলফলক ছুঁয়ে নতুন দৃষ্টান্ত, সময়ের কষ্টিপাথরে যা পেয়েছে স্বীকৃতি",
-    "desc": "শস্য মান্ডি থেকে শুরু হওয়া এক স্বপ্ন আজ শতবর্ষ প্রাচীন এক সাফল্যের ইতিহাস! ১৯২৬ সালে হরিয়ানার আদমপুর থেকে শ্রী জগন্নাথ গোয়েঙ্কার হাত ধরে যে যাত্রার সূচনা হয়েছিল, আজ ২০২৬-এ দাঁড়িয়ে তা ষষ্ঠ প্রজন্মের হাত ধরে এক অনন্য উচ্চতায় পৌঁছেছে। বিগত ১০০ বছরে ৫টি বড় ঝড়ও যার ভিত্তি নাড়াতে পারেনি, রইল সেই ঐতিহ্যবাহী 'এসেল গ্রুপ'-এর গৌরবময় সফরের গল্প।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/essel-group-100-years-milestones-history-timeline-subhash-chandra-story_654724.html ",
-    "time": "2026-05-21T03:52:23.000Z"
-  },
-  {
     "cat": "World",
     "title": "টানা ছুটি বকরি ইদে; হোটেল আর ফ্লাইট বুকিংয়ের ধুম পড়ে গিয়েছে; কবে থেকে কবে বন্ধ সব?",
     "desc": "ইদের ছুটি ২৯ মে পর্যন্ত। ১ জুন থেকে কাজে ফিরবে সকলে। এ বছর বকরি কবে, তা নিয়ে প্রাথমিক ভাবে সংশয় ছিল। অবশেষে তা মিটে যায়। এ বছর ভারতে ইদ-উল-আধা কবে পালিত হবে, তা নিয়েও বিভ্রান্তি তৈরি হয়। ২৭ না ২৮ মে-- কবে বকরি ইদ এ দেশে?",
@@ -268,15 +250,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/vijay-sworn-in-as-tamil-nadu-cm-amid-family-issues-and-trisha-rumors_653352.html ",
     "time": "2026-05-10T10:02:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিরাট খবর: এক হচ্ছে যাচ্ছে ৫০ বছরের পুরনো দুই শত্রু DMK-AIDMK? থালাপতি বিজয়কে আটকাতে তামিলনাড়ুর নতুন গেম",
-    "desc": "কংগ্রেসের এই ‘পিঠে ছুরি মারা’ আচরণে ডিএমকে নেতৃত্ব ক্ষুব্ধ। কানিমাঝি এনভিএন সোমু জানিয়েছেন যে, দুর্দিনেও ডিএমকে কংগ্রেসের পাশে ছিল, কিন্তু কংগ্রেসের এই সিদ্ধান্ত চরম বিশ্বাসঘাতকতা। ডিএমকে এখন চেষ্টা করছে অবশিষ্ট ছোট দলগুলোকে নিজেদের পক্ষে রেখে বিজয়ের সংখ্যাগরিষ্ঠতা আটকানোর।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/amid-tvk-thalapathy-surge-dmk-and-aiadmk-reportedly-hold-behind-the-scenes-talks_652895.html ",
-    "time": "2026-05-06T16:21:02.000Z"
   },
   {
     "cat": "Business",

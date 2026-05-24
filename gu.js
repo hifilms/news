@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સરકારે CNG, LNG અને હાઇડ્રોજન ફ્યુઅલ પર લીધો મોટો નિર્ણય! લાગુ કર્યો આ નવો નિયમ, જાણો ગ્રાહકોનો ફાયદો કે નુકસાન?",
+    "desc": "ભારત સરકારે ક્લીન એનર્જીને પ્રોત્સાહન આપવા અને ગ્રાહકોને યોગ્ય માત્રામાં ઇંધણ આપવા માટે મોટું પગલું ભર્યું છે. હવે પેટ્રોલ-ડીઝલની સાથે CNG, LNG અને હાઇડ્રોજન ફ્યુઅલ ડિસ્પેન્સરની પણ સરકારી તપાસ અને વેરિફિકેશન થશે. નવા નિયમોથી ઇંધણની ચોરી અને ઓછી માત્રા આપવા જેવી ફરિયાદો પર રોક લગાવવામાં મદદ મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-takes-big-decision-on-cng-lng-and-hydrogen-fuel-this-new-rule-has-been-implemented-know-the-benefit-or-harm-to-consumers-479139 ",
+    "time": "2026-05-24T15:12:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ઇલેક્ટ્રિક કારની બેટરી ખતમ થઈ જાય ત્યારે શું થાય છે? જાણો ટર્ટલ મોડ અને અન્ય મહત્વપૂર્ણ બાબતો",
+    "desc": "ઇલેક્ટ્રિક કારની લોકપ્રિયતા દિવસેને દિવસે વધી રહી છે. પરંતુ શું તમે જાણો છો કે જો ઇલેક્ટ્રિક કારની બેટરી ખતમ થઈ જાય તો શું થાય છે? કારના કયા ફીચર્સ કામ કરે છે અને કયા કામ કરવાનું બંધ કરે છે? ચાલો સમજઈ કે જ્યારે EV બેટરી ખતમ થઈ જાય ત્યારે શું થાય છે અને તમે શું કરી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/what-happens-when-an-electric-car-battery-runs-out-know-turtle-mode-and-other-important-things-479130 ",
+    "time": "2026-05-24T13:40:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "બાળકો પેદા કરવામાં ભારતના આ 6 રાજ્ય છે આગળ, જાણો બાકીના રાજ્યની હાલત, દિલ્હી છે સૌથી પાછળ",
     "desc": "2024 માં ભારતનો કુલ પ્રજનન દર 2.1થી ઘટીને 1.9 થયો છે. 6 રાજ્યો સિવાય, પ્રજનન દર રિપ્લેસમેન્ટ સ્તરથી નીચે છે. દિલ્હીમાં સૌથી ઓછો પ્રજનન દર 1.2 છે, ત્યારબાદ કેરળ, તમિલનાડુ અને પશ્ચિમ બંગાળનો ક્રમ આવે છે 1.3 જ્યારે TFR 2.1 હોય છે, ત્યારે તેને રિપ્લેસમેન્ટ લેવલ માનવામાં આવે છે.",
@@ -531,15 +549,6 @@ const newsData_gu = [
     "time": "2026-05-21T08:50:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "PM સૂર્ય ઘર યોજનામાં કેટલી મળશે સબસિડી? જાણો કેવી રીતે ઉઠાવવો સ્કીમનો ફાયદો; વીજળીનું બિલ થશે ઓછું",
-    "desc": "મફત વીજળી યોજના અંતર્ગત દેશભરમાં સૌર ઊર્જાને પ્રોત્સાહન આપવાની દિશામાં ઝડપથી કામ કરવામાં આવી રહ્યું છે. આ યોજનાનો ઉદ્દેશ્ય દેશભરમાં એક કરોડ ઘરોની છત પર સોલર પેનલ લગાવીને ગ્રાહકોને દર મહિને 300 યુનિટ સુધી મફત વીજળી પૂરી પાડવાનો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-much-subsidy-will-be-available-under-the-pm-surya-ghar-scheme-learn-how-to-avail-the-benefits-of-the-scheme-478699 ",
-    "time": "2026-05-21T07:30:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "મુંબઈ ઈન્ડિયન્સને આ ભૂલ પડી ગઈ ભારે ! હાથમાં આવેલી તક ગુમાવી, હાર્દિક પંડ્યા તેના ખેલાડીઓથી જ નારાજ",
     "desc": "IPL 2026માં બુધારે મુંબઈ ઈન્ડિયન્સ અને કોલકાત્તા નાઈટ રાઈડર્સ વચ્ચે મેચ યોજાઈ હતી. આ મેચમાં મુંબઈ ઈન્ડિયન્સને કારમી હારનો સામનો કરવો પડ્યો હતો. આ મેચમાં ટીમે એક મોટી ભૂલ કરી હતી, જે ટીમ માટે મોંઘી સાબિત થઈ હતી.",
@@ -547,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/mumbai-indians-loss-reason-dipak-chahar-dropped-easy-catch-hardik-pandya-reaction-viral-478697 ",
     "time": "2026-05-21T07:16:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM મોદીની મહત્વપૂર્ણ બેઠક પહેલા જાહેર થયા પેટ્રોલ-ડીઝલના નવા ભાવ, જાણો શું છે હાલના ભાવ",
-    "desc": "ક્રૂડ ઓઇલના વધતા ભાવ વચ્ચે પીએમ નરેન્દ્ર મોદી આજે પેટ્રોલ અને ડીઝલના ભાવ તેમજ ઓઈલ કંપનીઓને થયેલા નુકસાનની સમીક્ષા કરવા માટે એક મોટી બેઠક યોજવાના છે. ત્યારે આ બેઠક પહેલા પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-prices-today-pm-modi-key-meeting-for-fuel-know-latest-rate-in-your-city-478695 ",
-    "time": "2026-05-21T06:33:59.000Z"
   },
   {
     "cat": "Tech",
@@ -675,15 +675,6 @@ const newsData_gu = [
     "time": "2026-05-18T10:57:14.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "આ છે દેશની 10 સૌથી સુરક્ષિત કાર, ખરીદતા પહેલા ચેક કરી લો લિસ્ટ",
-    "desc": "કાર ખરીદતા પહેલા એ જાણવું ખૂબ જ જરૂરી છે કે અકસ્માતની સ્થિતિમાં કાર તમને કેટલી સુરક્ષા પૂરી પાડશે. જો તમે પણ નવી કાર ખરીદવાનું વિચારી રહ્યા છો, તો આ સમાચાર તમારા માટે ઉપયોગી છે. આ લેખમાં દેશની 10 સૌથી સુરક્ષિત કાર વિશે જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/top-10-safest-cars-in-india-check-the-list-before-buying-478333 ",
-    "time": "2026-05-18T07:22:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સ્ટાર, મોત, સન્નાટો..... અને ઘણા સવાલ, Sushant Singh Rajput ની અધૂરી કહાની!",
     "desc": "14 જૂન, 2020ના એક સમાચારે દેશને હચમચાવી દીધો હતો. 34 વર્ષના એક અભિનેતાએ પોતાની મહેનતથી ઓળખ બનાવી પરંતુ તેની પોતાની કહાની અધૂરી ગઈ હઈ. સુશાંત સિંહ રાજપૂત આજે માત્ર એક નામ નહીં, પરંતુ એક સવાલ છે?",
@@ -700,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/prime-video-horror-movie-pechi-do-not-watch-this-film-alone-478297 ",
     "time": "2026-05-18T05:01:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સામૂહિક બળાત્કારની સત્ય ઘટના પર આધારિત ડોક્યુમેન્ટ્રી OTT પર રિલીઝ, યુવતી સાથે જે થયું તેની હકીકત જોઈ ધ્રુજી જશો",
-    "desc": "સત્ય ઘટના પર આધારિત એક ડોક્યુમેન્ટ્રી ઓટીટી પર રિલીઝ થઈ છે. આ સીરીઝ રિલીઝ થયાની સાથે જ ચર્ચાનો વિષય બની છે. આ ડોક્યુમેન્ટ્રીમાં 2020 માં બનેલી ઘટનાનું સત્ય દેખાડવામાં આવ્યું છે. યુવતી સાથે બનેલી ઘટનાની હકીકત જાણી તમે પણ ધ્રુજી જશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/hathras-16-day-web-series-on-ott-zee5-web-series-based-on-true-crime-of-hathras-kand-2020-478253 ",
-    "time": "2026-05-17T12:26:56.000Z"
   }
 ];

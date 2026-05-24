@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Good when things go to plan': Riyan Parag opens up after Rajasthan Royals qualify for the IPL 2026 playoffs",
+    "desc": "Rajasthan Royals registered a brilliant win against Mumbai Indians in the 69th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Wankhede Stadium in Mumbai on May 24, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/good-when-things-go-to-plan-riyan-parag-opens-up-after-rajasthan-royals-qualify-for-the-ipl-2026-playoffs-2026-05-24-1042314",
+    "time": "2026-05-24T15:44:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals secure IPL playoffs berth, registering a statement win over Mumbai Indians",
+    "desc": "The 69th game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Mumbai Indians. The two sides locked horns at the Wankhede Stadium in Mumbai on May 24th, and it was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-secure-ipl-playoffs-berth-registering-a-statement-win-over-mumbai-indians-2026-05-24-1042306",
+    "time": "2026-05-24T14:25:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma equals Glenn Maxwell's tally in unwanted list with yet another duck against Rajasthan Royals",
+    "desc": "Rajasthan Royals took on Mumbai Indians at the Wankhede Stadium in the 69th game of the ongoing IPL (Indian Premier League) 2026. The clash began with Rajasthan Royals coming in to bat first, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-equals-glenn-maxwell-s-tally-in-unwanted-list-with-yet-another-duck-against-rajasthan-royals-2026-05-24-1042305",
+    "time": "2026-05-24T13:58:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kolkata Knight Riders look to put in good showing",
+    "desc": "Game 70 of the ongoing IPL (Indian Premier League) 2026 sees Kolkata Knight Riders taking on Delhi Capitals. The two sides take on each other at the Eden Gardens in Kolkata, and while Delhi Capitals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-dc-live-cricket-score-kolkata-knight-riders-look-to-put-in-good-showing-2026-05-24-1042303",
+    "time": "2026-05-24T13:29:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kolkata Knight Riders announce Luvnith Sisodia as Matheesha Pathirana's replacement",
     "desc": "In a major development for Kolkata Knight Riders, the three-time IPL (Indian Premier League) champions came forward and announced the signing of Luvnith Sisodia as the replacement for the injured Matheesha Pathirana. The signing was...",
     "img": "",
@@ -28,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Rajasthan Royals post 205 runs in the first innings",
+    "title": "Rajasthan Royals thump Mumbai Indians by 30 runs",
     "desc": "Rajasthan Royals take on Mumbai Indians in a must-win clash in the Indian Premier League 2026, with the final playoff spot hanging in the balance. Although Mumbai were eliminated from playoff contention early, their final...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/formula-1/george-russell-snatches-canadian-gp-pole-from-kimi-antonelli-after-sprint-clash-as-battle-intensifies-2026-05-24-1042277",
     "time": "2026-05-24T08:41:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Roland Garros in India?",
-    "desc": "The main draw of the French Open 2026 kicks off on May 24 as a red-hot Jannik Sinner begins his hunt for a Career Grand Slam. Having famously denied the Musketeers' Cup last time in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/french-open-2026-live-streaming-details-when-and-where-to-watch-roland-garros-in-india-2026-05-24-1042269",
-    "time": "2026-05-24T07:16:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Riyan Parag, Ravindra Jadeja injury updates: Will RR stars take field for must-win IPL 2026 clash against MI?",
-    "desc": "Rajasthan Royals would be hoping to see two of their stars, Riyan Parag and Ravindra Jadeja, back in action as they face Mumbai Indians in a must-win clash at the Wankhede on Sunday, May 23....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-ravindra-jadeja-injury-updates-will-rr-stars-take-field-for-must-win-ipl-2026-clash-against-mi-2026-05-24-1042264",
-    "time": "2026-05-24T06:28:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant's captaincy at LSG under 'consideration for reset' after horror IPL, confirms franchise director",
-    "desc": "Rishabh Pant's captaincy at the Lucknow Super Giants seems to be under threat as the franchise global director of cricket, Tom Moody, has said that the franchise would need to 'consider a reset' on the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pants-captaincy-at-lsg-under-consideration-for-reset-after-horror-ipl-confirms-franchise-director-2026-05-24-1042260",
-    "time": "2026-05-24T05:45:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain play spoilsport in MI vs RR IPL 2026 match at Wankhede?",
-    "desc": "Mumbai Indians will host Rajasthan Royals in what stands as the most crucial match for the IPL 2026 playoffs scenario on Sunday, May 24. MI were among the early teams to have been eliminated from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-weather-report-will-rain-play-spoilsport-in-mi-vs-rr-ipl-2026-match-at-wankhede-2026-05-24-1042257",
-    "time": "2026-05-24T05:05:28.000Z"
   }
 ];
