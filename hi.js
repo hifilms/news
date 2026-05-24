@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sachin Tendulkar reacts to son Arjun's performance on maiden IPL 2026 outing for LSG",
+    "desc": "Former cricketer and legend Sachin Tendulkar praised his son Arjun for his impressive performance on Lucknow Super Giants' debut in the Indian Premier League 2026 on Saturday, May 23. Arjun, who was previously part of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sachin-tendulkar-reacts-to-son-arjuns-performance-on-maiden-ipl-2026-outing-for-lsg-2026-05-24-1042247",
+    "time": "2026-05-24T02:44:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer achieves IPL history, becomes first-ever captain to register major milestone after hundred",
+    "desc": "Shreyas Iyer etched his name into the history books as he slammed a masterful century in their do-or-die clash against the Lucknow Super Giants on Saturday, May 23. Needing 197 to keep their playoff hopes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-achieves-ipl-history-becomes-first-ever-captain-to-register-major-milestone-after-hundred-2026-05-24-1042245",
+    "time": "2026-05-24T02:07:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can PBKS, RR and KKR qualify for knockouts?",
+    "desc": "Punjab Kings finally ended their losing streak by defeating the Lucknow Super Giants in their last match of the Indian Premier League 2026 group stage at the Ekana Cricket Stadium on Saturday, May 23. Captain...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-playoffs-qualification-scenario-how-can-pbks-rr-and-kkr-qualify-for-knockouts-2026-05-24-1042243",
+    "time": "2026-05-24T01:24:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Delhi HC clears Vinesh Phogat for Asian Games trials after WFI initially denied",
     "desc": "India wrestler Vinesh Phogat has received a major legal boost ahead of the Asian Games selection process after the Delhi High Court ruled in her favour and directed that she be allowed to participate in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/bayern-munich-vs-vfb-stuttgart-live-when-and-where-to-watch-dfb-pokal-final-on-tv-and-stream-online-in-india-2026-05-23-1042227",
     "time": "2026-05-23T15:32:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals sign Punjab's spinner as replacement for injured Ravi Singh",
-    "desc": "In a major development for Rajasthan Royals, the side has come forward and announced the signing of Punjab’s all-rounder Emanjot Chahal as a replacement signing for Ravi Singh. It is worth noting that Ravi Singh...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-sign-punjab-s-spinner-as-replacement-for-injured-ravi-singh-2026-05-23-1042225",
-    "time": "2026-05-23T15:12:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB's star opener ruled out of IPL 2026, franchise confirmed ahead of Qualifier 1 vs GT",
-    "desc": "England opener Jacob Bethell has been ruled out of the remainder of the IPL 2026. Royal Challengers Bengaluru confirmed the development on their social media, confirming that the 22-year-old has hurt his ring finger during...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-s-star-opener-ruled-out-of-ipl-2026-franchise-confirmed-ahead-of-qualifier-1-vs-gt-2026-05-23-1042223",
-    "time": "2026-05-23T14:47:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI head coach Mahela Jayawardene shares fitness update on Rohit Sharma ahead of clash vs RR",
-    "desc": "Mumbai Indians head coach Mahela Jayawardene has dismissed suggestions that Rohit Sharma’s role as an Impact Substitute is linked to lingering fitness concerns. He revealed that the former captain has fully recovered from the hamstring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-head-coach-mahela-jayawardene-shares-fitness-update-on-rohit-sharma-ahead-of-clash-vs-rr-2026-05-23-1042221",
-    "time": "2026-05-23T14:25:14.000Z"
   }
 ];
