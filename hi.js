@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Ravindra Jadeja's been nursing an injury': RR coach Sangakkara after team qualifies for IPL 2026 playoffs",
+    "desc": "Ravindra Jadeja's fitness remains a major talking point for the Rajasthan Royals in the Indian Premier League 2026. The India all-rounder, who made a crucial 11-ball 19 in RR's must-win clash against the Mumbai Indians,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadejas-been-nursing-an-injury-rr-coach-sangakkara-after-team-qualifies-for-ipl-2026-playoffs-2026-05-25-1042335",
+    "time": "2026-05-25T02:58:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul creates history, becomes first-ever player to achieve major six-hitting record in IPL",
+    "desc": "Delhi Capitals star batter KL Rahul has etched his name into the history books despite his team's underwhelming performance in the Indian Premier League 2026. DC closed their below-par IPL campaign with a 40-run win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-creates-history-becomes-first-ever-player-to-achieve-major-six-hitting-record-in-ipl-2026-05-25-1042332",
+    "time": "2026-05-25T02:25:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL to have new multi-time champion, CSK, MI, KKR to receive new member in special club",
+    "desc": "The Indian Premier League 2026 playoffs have been set in stone as Rajasthan Royals became the last team to book its spot in the knockouts after their win over Mumbai Indians in the second last...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-to-have-new-multi-time-champion-csk-mi-kkr-to-receive-new-member-in-special-club-2026-05-25-1042329",
+    "time": "2026-05-25T01:34:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Delhi Capitals register a dominant win over Kolkata Knight Riders, defeat three-time champions by 40 runs",
     "desc": "The 70th and final league phase game of the IPL (Indian Premier League) 2026 saw Kolkata Knight Riders taking on Delhi Capitals. The two sides met at the Eden Gardens in Kolkata on May 24,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-dc-live-cricket-score-kolkata-knight-riders-look-to-put-in-good-showing-2026-05-24-1042303",
     "time": "2026-05-24T13:29:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kolkata Knight Riders announce Luvnith Sisodia as Matheesha Pathirana's replacement",
-    "desc": "In a major development for Kolkata Knight Riders, the three-time IPL (Indian Premier League) champions came forward and announced the signing of Luvnith Sisodia as the replacement for the injured Matheesha Pathirana. The signing was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-announce-luvnith-sisodia-as-matheesha-pathirana-s-replacement-2026-05-24-1042298",
-    "time": "2026-05-24T12:12:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will the surface at Eden Gardens in Kolkata play?",
-    "desc": "The stage is set for the 70th game of the ongoing IPL (Indian Premier League) 2026. Kolkata Knight Riders will take on Delhi Capitals at the Eden Gardens in Kolkata on May 24. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-dc-pitch-report-how-will-the-surface-at-eden-gardens-in-kolkata-play-2026-05-24-1042293",
-    "time": "2026-05-24T11:23:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Jasprit Bumrah not playing vs Rajasthan Royals in MI's final league game of IPL 2026?",
-    "desc": "The 69th game of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians hosting Rajasthan Royals at the Wankhede Stadium in Mumbai. The two sides meet on May 24, and while MI have already...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-vs-rajasthan-royals-in-mi-s-final-league-game-of-ipl-2026-2026-05-24-1042286",
-    "time": "2026-05-24T10:19:08.000Z"
   }
 ];
