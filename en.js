@@ -1,6 +1,24 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Abhimanyu recalls near-death experience with Vijay on moving train",
+    "desc": "Abhimanyu Singh has opened up about his successful journey in the South film industry and his memorable experience working with Vijay. In a recent interaction, the actor spoke about the overwhelming love he received after Rakta Charitra and even recalled a terrifying near-death experience while shooting an action sequence with Vijay.",
+    "img": "https://static.toiimg.com/photo/msid-131317329,imgsize-32366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhimanyu-singh-recalls-near-death-experience-with-thalapathy-vijay-on-moving-train-says-south-audience-stars-ki-pooja-karti-hai/articleshow/131317327.cms",
+    "time": "2026-05-25T21:01:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Intense speculation as Siddaramaiah and Shivakumar head to Delhi for meeting on May 26",
+    "desc": "Though Congress General Secretary in-charge of Karnataka Randeep Singh Surjewala said it would be a consultation meeting ahead of the elections to Rajya Sabha and Legislative Council, speculation on the leadership issue has refused to die down",
+    "img": "https://th-i.thgim.com/public/incoming/6wt2rx/article71022670.ece/alternates/LANDSCAPE_1200/_DSC8995.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-siddaramaiah-heading-to-delhi-on-may-26-amid-talk-of-cabinet-reshuffle-leadership-rajya-sabha-council-elections/article71020440.ece",
+    "time": "2026-05-25T19:21:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Anita Kanwal recalls helping Shah Rukh Khan in his early days",
     "desc": "Veteran actress Anita Kanwal recently opened up about knowing Shah Rukh Khan since his Delhi theatre days, helping casting people connect with him during his struggling years, and the harsh realities faced by character actors in the entertainment industry today. She also spoke about the changing culture of Bollywood, and why reaching out to big stars and filmmakers is no longer easy.",
     "img": "https://static.toiimg.com/photo/msid-131316587,imgsize-43160.cms",
@@ -351,15 +369,6 @@ const newsData_en = [
     "time": "2026-05-25T13:38:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India can prevent power shortages, help cut power bills by doubling efficiency of ACs: Study",
-    "desc": "India can avert power shortages and save consumers up to Rs 2.5 lakh crore by doubling air conditioner energy efficiency over the next decade. A new study suggests this move will significantly reduce peak demand, preventing blackouts and costly grid fixes. Higher efficiency ACs, despite initial costs, offer substantial long-term savings.",
-    "img": "https://static.toiimg.com/photo/msid-131310945,imgsize-709310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-can-prevent-power-shortages-help-cut-power-bills-by-doubling-efficiency-of-acs-study/articleshow/131310886.cms",
-    "time": "2026-05-25T13:37:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Has Paresh Rawal quit Hera Pheri 3 again?",
     "desc": "Viral reports claiming Paresh Rawal has quit 'Hera Pheri 3' are actually year-old news from 2025 that has resurfaced online. The dispute between Paresh and Akshay Kumar over Rs 25 crore was reportedly resolved last year, with Paresh returning to the franchise. Baburao is still very much on board.",
@@ -387,15 +396,6 @@ const newsData_en = [
     "time": "2026-05-25T13:12:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sitharaman flags concerns over '3Fs' amid Gulf conflict; Bengal govt opens first 'holding centre' &amp; more",
-    "desc": "India's economy faces pressure from the US-Iran conflict, impacting fuel prices, fertiliser subsidies, and forex reserves, Finance Minister Sitharaman warned. Meanwhile, West Bengal opened its first holding centre for suspected illegal Bangladeshi nationals. In Karnataka, a leadership decision for the Congress is imminent, while Iran demands $12 billion in frozen assets before US talks.",
-    "img": "https://static.toiimg.com/photo/msid-131310382,imgsize-1052367.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-sitharaman-flags-concerns-over-3fs-amid-gulf-conflict-bengal-govt-opens-first-holding-centre-more/articleshow/131310077.cms",
-    "time": "2026-05-25T13:01:02.000Z"
-  },
-  {
     "cat": "World",
     "title": "WHO chief says suspected Ebola deaths at 220 and ‘epidemic is outpacing us’",
     "desc": "“We are ⁠urgently scaling up operations, but at the moment the epidemic is outpacing ​us,” WHO chief Mr. Tedros ‌said; he urged countries bordering the Democratic Republic of Congo — the epicentre of the outbreak — to take immediate action",
@@ -403,15 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/health/who-chief-says-suspected-ebola-deaths-at-220-and-epidemic-is-outpacing-us/article71021209.ece",
     "time": "2026-05-25T12:54:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "President Murmu confers Padma Awards at Rashtrapati Bhavan; actor Dharmendra honoured posthumously",
-    "desc": "President Droupadi Murmu presented 66 Padma awards at Rashtrapati Bhavan. Violinist N Rajam received Padma Vibhushan. Actor Dharmendra was honored posthumously with Padma Vibhushan. Actor Prosenjit Chatterjee received Padma Shri. The ceremony recognized distinguished service in various fields. A total of 131 Padma awards were approved for 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131310211,imgsize-838517.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/president-murmu-confers-padma-awards-at-rashtrapati-bhavan-actor-dharmendra-honoured-posthumously/articleshow/131310072.cms",
-    "time": "2026-05-25T12:50:33.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +414,6 @@ const newsData_en = [
     "time": "2026-05-25T12:48:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay’s viral gifts that grabbed attention",
-    "desc": "Tamil star Vijay's recent viral gifts, including a 'GOAT' film number plate from Venkat Prabhu and a Virat Kohli-signed bat, have sparked widespread discussion. These presents, resonating with his political aspirations and known love for cricket, highlight his significant public appeal. Emotional fan gestures also underscore his deep connection with followers.",
-    "img": "https://static.toiimg.com/photo/msid-131310125,imgsize-247850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/virat-kohlis-signed-bat-to-goats-cm-2026-number-plate-vijays-viral-gifts-that-grabbed-attention/articleshow/131310115.cms",
-    "time": "2026-05-25T12:46:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Indian-origin player Nishesh Basavareddy stuns seventh seed Taylor Fritz in French Open",
     "desc": "Wild card entrant Basavareddy, an American citizen now, beat world number nine Fritz 7-6(5), 7-6(5), 6-7(9), 6-1 in a gruelling match that lasted two hours and 45 minutes on Sunday to reach the second round",
@@ -441,15 +423,6 @@ const newsData_en = [
     "time": "2026-05-25T12:36:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Police visit TMC leader Abhishek Banerjee's Kolkata residence; officials call it 'routine exercise'",
-    "desc": "Kolkata Police visited Trinamool Congress MP Abhishek Banerjee's residence, citing a routine exercise and removing security equipment. This follows notices from the Kolkata Municipal Corporation regarding alleged unauthorized construction at properties linked to Banerjee, including his official home. Banerjee has accused the BJP of political vendetta over the civic action.",
-    "img": "https://static.toiimg.com/photo/msid-131310323,imgsize-56976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-police-visit-tmc-leader-abhishek-banerjees-kolkata-residence-officials-call-it-routine-exercise/articleshow/131309553.cms",
-    "time": "2026-05-25T12:22:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How it will change what you eat, how you travel and what you can afford",
     "desc": "Fuel prices have risen sharply, adding to household expenses and transportation costs. This surge, driven by global events, is straining supply chains and impacting everyday goods. Oil marketing companies are seeing stock gains. The government faces a balancing act between consumer relief and revenue. The economic outlook remains a focus amidst these challenges.",
@@ -457,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-price-hike-impact-how-it-will-change-what-you-eat-how-you-travel-and-what-you-can-afford/articleshow/131307075.cms",
     "time": "2026-05-25T12:21:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Detect, delete and deport’ push: BJP government opens first migrant holding centre in West Bengal, houses 9 suspected Bangladeshis",
-    "desc": "West Bengal's BJP government has launched its 'detect, delete and deport' policy, opening a holding center in Malda for illegal foreign nationals. Nine suspected Bangladeshi nationals are currently housed there, awaiting verification and legal procedures. This initiative aims to streamline the deportation process for apprehended individuals, as mandated by a new national law.",
-    "img": "https://static.toiimg.com/photo/msid-131309368,imgsize-686674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/detect-delete-and-deport-push-bjp-government-opens-first-migrant-holding-centre-in-west-bengal-houses-9-suspected-bangladeshis/articleshow/131309134.cms",
-    "time": "2026-05-25T12:11:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka leadership change decision likely in 2-3 days as Congress high command meets Siddaramaiah",
-    "desc": "A Karnataka leadership change decision is imminent within days following crucial Congress meetings. Chief Minister Siddaramaiah met with party leaders amid ongoing speculation about a potential shift. Discussions also covered Rajya Sabha and MLC polls, and a minor cabinet reshuffle has already occurred, with portfolios being reassigned.",
-    "img": "https://static.toiimg.com/photo/msid-131309018,imgsize-858911.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/karnataka-leadership-change-decision-likely-in-2-3-days-as-congress-high-command-meets-siddaramaiah/articleshow/131309029.cms",
-    "time": "2026-05-25T11:56:19.000Z"
   },
   {
     "cat": "Sports",
@@ -664,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-dip-below-100-per-barrel-on-may-25-2026-as-us-iran-peace-talks-hopeful-strait-of-hormuz-closure-nears-three-month-mark/articleshow/131299576.cms",
     "time": "2026-05-25T02:39:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ITC, LIC &amp; more: Top stocks to watch today",
-    "desc": "Goldman Sachs maintains a neutral stance on ITC, anticipating cigarette tax impacts. Citigroup is bullish on LIC, citing strong operational performance and margin expansion. Jefferies raises its target for Nykaa, impressed by robust growth and improving margins. CLSA sees significant potential in Honasa, with strong revenue and margin growth. Morgan Stanley remains overweight on LG Electronics India, despite margin pressures.",
-    "img": "https://static.toiimg.com/photo/msid-131299668,imgsize-584531.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/itc-lic-more-top-stocks-to-watch-on-may-25-check-list/articleshow/131299608.cms",
-    "time": "2026-05-25T02:37:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Petrol, diesel rates raised by over Rs 2; fourth increase in two weeks",
-    "desc": "Fuel prices have seen another significant jump, with petrol and diesel costs rising by Rs 2.61 and Rs 2.71 per litre respectively. This marks the fourth increase in under two weeks, pushing cumulative hikes close to Rs 7.5 per litre. Consumers face mounting pressure as import costs climb due to global crude oil prices and a weaker rupee.",
-    "img": "https://static.toiimg.com/photo/msid-131299643,imgsize-1712142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-price-hiked-again-petrol-diesel-rates-raised-by-over-rs-2-fourth-increase-in-two-weeks/articleshow/131299026.cms",
-    "time": "2026-05-25T01:06:29.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/when-god-has-to-fix-your-film-karuppu-deus-ex-machina-explained-fmm-21/article70995303.ece",
     "time": "2026-05-21T03:10:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Samsung faces major strike after pay talks with union falls apart",
+    "desc": "Union leaders have demanded a compensation structure in which Samsung would commit to spend 15% of its annual operating profit on employee bonuses and scrap bonus caps, which are currently set at 50% of annual salaries",
+    "img": "https://th-i.thgim.com/public/incoming/1pjppc/article71001233.ece/alternates/LANDSCAPE_1200/2026-05-20T031354Z_1017432056_RC2RCLA9O5VY_RTRMADP_3_SAMSUNG-DISPUTE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/samsung-faces-major-strike-after-pay-talks-with-union-falls-apart/article71001186.ece",
+    "time": "2026-05-20T08:49:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "At Google I/O 2026, Alphabet rewrites search playbook, unveils Gemini 3.5 Flash",
+    "desc": "Google launched AI Mode roughly a year ago and the feature has already crossed a billion monthly active users, with queries more than doubling each quarter. In the most recent quarter, overall Google Search queries hit an all-time high.",
+    "img": "https://th-i.thgim.com/public/sci-tech/technology/l5802/article71000973.ece/alternates/LANDSCAPE_1200/AhaConvert_Google%20CEO%20Sundar%20Pichai%20during%20Google%20I_O%202026%20Keynote.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/at-google-io-2026-alphabet-rewrites-search-playbook-unveils-gemini-35-flash/article71001008.ece",
+    "time": "2026-05-20T06:26:22.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Decoding the Musk vs. Altman verdict",
+    "desc": "OpenAI was founded as a nonprofit aiming to build ethical, open-source artificial general intelligence. Years later, Elon Musk filed a lawsuit accusing CEO Sam Altman, OpenAI president Greg Brockman, and Microsoft of manipulating him into donating to a public-interest organisation which later created a for-profit subsidiary.",
+    "img": "https://th-i.thgim.com/public/incoming/4j53qg/article70999526.ece/alternates/LANDSCAPE_1200/2276427545.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/decoding-the-musk-vs-altman-verdict/article70999519.ece",
+    "time": "2026-05-20T02:38:52.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The world’s first and only rotating boat lift",
+    "desc": "On May 24, 2002, the Falkirk Wheel was officially opened by Queen Elizabeth II as part of her Golden Jubilee celebrations. The world’s first and only rotating boat lift is an engineering feat of excellence that connects the Forth & Clyde and Union Canals in Scotland. A.S.Ganesh takes you on this waterway to tell you more about this unique wheel…",
+    "img": "https://th-i.thgim.com/public/incoming/p7u4uf/article70964997.ece/alternates/LANDSCAPE_1200/24istb%20Falkirk%20Wheel%204.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
+    "time": "2026-05-19T05:07:08.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
