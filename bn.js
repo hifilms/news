@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "মেয়েদের শ্বশুরবাড়িতে খুন হওয়ার চেয়ে ডিভোর্স দিয়ে বাপের বাড়ি ফেরা বেটার: ত্বিশা শর্মা মৃত্যু মামলায় সরকারের বড় কথা",
+    "desc": "ত্বিশার মৃত্যুর পর তাঁর পরিবার ন্যায়বিচারের দাবিতে মধ্যপ্রদেশের মুখ্যমন্ত্রী মোহন যাদবের বাসভবনের বাইরে তীব্র বিক্ষোভ হয়। প্রাথমিক ময়নাতদন্তের রিপোর্টে বহু খামতি ছিল বলে দাবি করে ত্বিশার পরিবার দিল্লির এইমস (AIIMS)-এর দ্বারস্থ হয়েছিল। তাদের অভিযোগ ছিল, ত্বিশার শরীরে আঘাতের চিহ্ন থাকা সত্ত্বেও প্রথম ময়নাতদন্তে তা সঠিকভাবে খতিয়ে দেখা হয়নি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/twisha-sharma-case-gets-major-twist-as-supreme-court-supports-cbi-inquiry_655301.html ",
+    "time": "2026-05-25T12:02:49.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ভয়, অনুশোচনার বিন্দুমাত্র নেই শয়তান সমর্থের মুখে: অন্তঃসত্ত্বা তিশার মৃত্যুর তদন্তে একাধিক চাঞ্চল্যকর তথ্য",
     "desc": "তিশার স্বামী সমর্থ সিং এখন পুলিসের হেফাজতে আছেন। পুলিস এই ৭ দিন ধরে তাঁকে খুব কড়াভাবে জিজ্ঞাসাবাদ করবে। তিশার বাপের বাড়ির লোক বলছেন এটি একটি 'খুন', আর শ্বশুরবাড়ির লোক বলছেন এটি 'আত্মহত্যা'। তবে পুলিস কোনও তাড়াহুড়ো না করে সিসিটিভি ফুটেজ, ফোনের রেকর্ড এবং ডাক্তারের রিপোর্টের ওপর ভিত্তি করে আসল সত্যিটা খোঁজার চেষ্টা করছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -16,6 +25,15 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/deadliest-coal-mine-explosion-china-coal-mine-blast-90-miners-killed-so-far_655182.html ",
     "time": "2026-05-24T09:36:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
   },
   {
     "cat": "Politics",
@@ -52,42 +70,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/ankita-chakraborty-debaloy-bhattacharyya-controversy-debaloy-3-crore-defamation-suit-against-ankita_654811.html ",
     "time": "2026-05-21T13:35:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "খতম পুলওয়ামার মাস্টারমাইন্ড হামজা বুরহান; নিহত ভারতীয় সেনা-জওয়ানের আত্মার শান্তি?",
-    "desc": "পুলওয়ামা ঘটেছিল ২০১৯ সালের ১৪ ফেব্রুয়ারি। জঙ্গিরা সেনা জওয়ানদের কনভয় লক্ষ্য করে হামলা চালিয়েছিল। এই হামলায় ৪০ জনেরও বেশি জওয়ান মারা গিয়েছিলেন। পেশায় শিক্ষক বলে দাবি করা হামজা এই পুলওয়ামা হামলার মাস্টারমাইন্ড বা ছিল বলে জানা গিয়েছিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/pulwama-mastermind-killed-pulwama-attack-mastermind-hamza-burhan-killed-in-pok-gunned-down-by-unknown-assailants_654755.html ",
-    "time": "2026-05-21T11:04:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মানুষের মৌলিকত্বের পরিপূরক নয় AI; 'চরৈবেতি, চরৈবেতি' মন্ত্রই হোক আগামীর পাথেয়: ড. সুভাষ চন্দ্র",
-    "desc": "এসেল গ্রুপের শতবর্ষে সংস্থার দেশব্যাপী সকল কর্মীবৃন্দের সঙ্গে টাউনহল অনুষ্ঠানে যোগ দিলেন গ্রুপের চেয়ারম্যান ড. সুভাষ চন্দ্র। কর্মীদের সঙ্গে শেয়ার করে নিলেন মূল্যবান কিছু কথা, কিছু অভিজ্ঞতা। কী বললেন এসেল গ্রুপের চেয়ারম্যান ড. সুভাষ চন্দ্র?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/essel-group-chairman-dr-subhash-chandra-insight-on-ai-in-human-life-and-team-spirit_654754.html ",
-    "time": "2026-05-21T10:40:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India's First Bullet Train: ভারতের এই অজ গাঁ থেকেই 'ছুটবে' দেশের প্রথম বুলেট ট্রেন; আদিবাসী গ্রামে রেল-যজ্ঞ",
-    "desc": "মুম্বইয়ের কাছে পালঘরের সাখারে গ্রামে বুলেট ট্রেনের জন্য মস্ত বড় এক কারখানা তৈরি হয়েছে। এখানে ট্রেনের উড়ালপুল তৈরি করার জন্য বিশাল ওজনের কংক্রিটের চাঁই বা গির্ডার বানানো হচ্ছে। দিন-রাত এক করে জাপানের চেয়েও দ্রুত গতিতে এই কাজ চলছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/mumbai-ahmedabad-bullet-train-project-progress-in-palghars-sakhare-village_654743.html ",
-    "time": "2026-05-21T10:16:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ওয়াটার মেট্রো; ভূগর্ভে বা ভূতলে নয়, মেট্রো এবার জলতলেও, জমা পড়ল রিপোর্ট: পরিবহণে বিরাট বিপ্লব",
-    "desc": "কয়েকদিন আগে বন্দর, জাহাজ চলাচল ও জলপথ মন্ত্রক জানিয়েছিল, সড়কপথের বিকল্প হিসেবে তারা ‘ওয়াটার মেট্রো’র কথা ভেবেছে। শুধু তাই নয়, অভ্যন্তরীণ জলপথ পরিবহণকে আরও উন্নত ও প্রসারিত করতে 'জাতীয় ওয়াটার মেট্রো নীতি'র একটি খসড়াও তৈরি করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/water-metro-in-cities-india-plans-water-metro-rollout-in-18-cities-after-kochi-model-success_654739.html ",
-    "time": "2026-05-21T09:07:18.000Z"
   },
   {
     "cat": "World",
@@ -162,6 +144,15 @@ const newsData_bn = [
     "time": "2026-05-16T05:18:53.000Z"
   },
   {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "থালাপতি জ্বরে কাঁপছে চেন্নাই, বিজয়ের জন্য ৬৫৪ কিমি পথ পায়ে হেঁটে চেন্নাইয়ে 'ফ্যান' দম্পতি",
     "desc": "প্রিয় তারকার জন্য সবকিছুই সম্ভব! তামিলনাড়ুর নবনির্বাচিত মুখ্যমন্ত্রী থালপতি বিজয়ের সঙ্গে দেখা করতে কেরালাম থেকে চেন্নাই পর্যন্ত ৬৫৪ কিমি পায়ে হেঁটে পাড়ি দিচ্ছেন এক দম্পতি। মহম্মদ রফি ও শাহানামোলের এই 'থালাপতি প্রেম' এখন নেটপাড়ায় তুঙ্গে।",
@@ -180,6 +171,15 @@ const newsData_bn = [
     "time": "2026-05-13T13:28:44.000Z"
   },
   {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "সুপারস্টার থেকে মুখ্যমন্ত্রী: একসময় দুবেলা জুটত না খাবার, বিজয়ের শপথে চোখে জল বাবার",
     "desc": "শূন্য থেকে শুরু করে আজ রাজ্যের শীর্ষাসনে! তামিলনাড়ুর নতুন মুখ্যমন্ত্রী হিসেবে শপথ নিলেন বিজয় থালাপতি। ছেলের সাফল্যে চোখে জল বাবা এস এ চন্দ্রশেখরের। দারিদ্র্যের সেই কঠিন দিনগুলো মনে করে আবেগপ্রবণ গোটা পরিবার। সিনেমার পর্দার থালাপতি এখন বাস্তব জীবনের জননেতা। এক নতুন লড়াইয়ের শুরু!",
@@ -196,5 +196,23 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/vijay-sworn-in-as-tamil-nadu-cm-amid-family-issues-and-trisha-rumors_653352.html ",
     "time": "2026-05-10T10:02:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

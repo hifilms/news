@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Spain reveals squad for FIFA World Cup 2026; no Real Madrid players selected to go to USA",
+    "desc": "With the FIFA World Cup 2026 all set to kick off on June 11, 2026, and with the marquee tournament right around the corner, the Spanish FA took centre stage and announced their squad for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/spain-reveals-squad-for-fifa-world-cup-2026-no-real-madrid-players-selected-to-go-to-the-usa-2026-05-25-1042420",
+    "time": "2026-05-25T13:37:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India women's skipper Harmanpreet Kaur awarded with Padma Shri award from President Murmu: Watch",
+    "desc": "The captain of the Indian women’s cricket team, Harmanpreet Kaur, has been awarded the Padma Shri award, which is India's fourth-highest civilian honour. It is worth noting that the central government had announced a list...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-women-s-skipper-harmanpreet-kaur-awarded-with-padma-shri-award-from-president-murmu-watch-2026-05-25-1042414",
+    "time": "2026-05-25T12:22:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravichandran Ashwin points out Jasprit Bumrah's subpar performances for MI after IPL 2026 campaign",
+    "desc": "The IPL (Indian Premier League) 2026 group stage phase has come to an end. The top four sides of the tournament have been selected and have made it to the playoffs. One of the teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-points-out-jasprit-bumrah-s-subpar-performances-for-mi-after-ipl-2026-campaign-2026-05-25-1042403",
+    "time": "2026-05-25T11:21:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Done that job brilliantly': Piyush Chawla hails Shubman Gill over his captaincy ahead of IPL playoffs",
+    "desc": "The stage is set for the playoffs of the IPL (Indian Premier League) 2026. The top four sides of the tournament have been decided and they will be battling it out for a spot in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/done-that-job-brilliantly-piyush-chawla-hails-shubman-gill-over-his-captaincy-ahead-of-ipl-playoffs-2026-05-25-1042393",
+    "time": "2026-05-25T10:18:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'If they continue this way, they have strong chance to win IPL': Ex-India pacer picks tournament's contenders",
     "desc": "Former India fast bowler Vinay Kumar has predicted that if Royal Challengers Bengaluru continue playing the way they are, they have a 'strong chance' of winning the Indian Premier League 2026. Defending champions RCB topped...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/formula-1/kimi-antonelli-creates-f1-history-after-bagging-fourth-straight-win-of-season-russell-retires-at-canadian-gp-2026-05-25-1042344",
     "time": "2026-05-25T04:47:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Ravindra Jadeja's been nursing an injury': RR coach Sangakkara after team qualifies for IPL 2026 playoffs",
-    "desc": "Ravindra Jadeja's fitness remains a major talking point for the Rajasthan Royals in the Indian Premier League 2026. The India all-rounder, who made a crucial 11-ball 19 in RR's must-win clash against the Mumbai Indians,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadejas-been-nursing-an-injury-rr-coach-sangakkara-after-team-qualifies-for-ipl-2026-playoffs-2026-05-25-1042335",
-    "time": "2026-05-25T02:58:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul creates history, becomes first-ever player to achieve major six-hitting record in IPL",
-    "desc": "Delhi Capitals star batter KL Rahul has etched his name into the history books despite his team's underwhelming performance in the Indian Premier League 2026. DC closed their below-par IPL campaign with a 40-run win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-creates-history-becomes-first-ever-player-to-achieve-major-six-hitting-record-in-ipl-2026-05-25-1042332",
-    "time": "2026-05-25T02:25:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL to have new multi-time champion, CSK, MI, KKR to receive new member in special club",
-    "desc": "The Indian Premier League 2026 playoffs have been set in stone as Rajasthan Royals became the last team to book its spot in the knockouts after their win over Mumbai Indians in the second last...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-to-have-new-multi-time-champion-csk-mi-kkr-to-receive-new-member-in-special-club-2026-05-25-1042329",
-    "time": "2026-05-25T01:34:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals register a dominant win over Kolkata Knight Riders, defeat three-time champions by 40 runs",
-    "desc": "The 70th and final league phase game of the IPL (Indian Premier League) 2026 saw Kolkata Knight Riders taking on Delhi Capitals. The two sides met at the Eden Gardens in Kolkata on May 24,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-register-a-dominant-win-over-kolkata-knight-riders-defeat-three-time-champions-by-40-runs-2026-05-24-1042325",
-    "time": "2026-05-24T18:07:01.000Z"
   }
 ];
