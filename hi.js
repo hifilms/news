@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sri Lanka announces squads for multi-format series against WI, Kusal Mendis handed white-ball captaincy",
+    "desc": "SLC (Sri Lanka Cricket) recently came forward and announced their squads for the upcoming multi-format series against the West Indies. It is worth noting that Sri Lanka will take on the Windies across three ODIs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-announces-squads-for-multi-format-series-against-west-indies-kusal-mendis-handed-white-ball-captaincy-2026-05-25-1042437",
+    "time": "2026-05-25T18:24:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check the schedule, venues, timings ahead of Qualifier 1",
+    "desc": "The stage is set for the playoffs of the IPL (Indian Premier League) 2026. The four sides have solidified their spot in the knockout rounds of the tournament and will begin the playoffs on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-playoffs-check-the-schedule-venues-timings-ahead-of-qualifier-1-2026-05-25-1042435",
+    "time": "2026-05-25T17:15:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'A difficult season': Former India cricketer weighs in KKR's IPL 2026 campaign after group stage exit",
     "desc": "Kolkata Knight Riders were close to reaching the IPL (Indian Premier League) 2026 playoffs, but their dreams ended on the final day of the group phase. With Rajasthan Royals defeating Mumbai Indians on May 24th,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-head-coach-backs-ageing-cummins-starc-hazlewood-to-play-odi-world-cup-2027-2026-05-25-1042379",
     "time": "2026-05-25T08:44:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why KKR kept playing Varun Chakravarthy despite multiple injuries? Skipper Ajinkya Rahane reveals exact reason",
-    "desc": "Varun Chakravarthy braved several injuries to keep playing for the Kolkata Knight Riders in the Indian Premier League 2026, showing immense commitment towards the franchise. Assistant coach Shane Watson and head coach Abhishek Nayar had...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-kkr-kept-playing-varun-chakravarthy-despite-multiple-injuries-skipper-ajinkya-rahane-reveals-exact-reason-2026-05-25-1042363",
-    "time": "2026-05-25T07:07:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Travis Head's wife reveals online abuse after Virat Kohli episode in IPL 2026",
-    "desc": "Travis Head's wife, Jessica, made a revelation of online abuse targeted at their friends and families after her husband's on-field spat with Virat Kohli in the Indian Premier League 2026. Head and Kohli were involved...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/travis-heads-wife-reveals-online-abuse-after-virat-kohli-episode-in-ipl-2026-2026-05-25-1042357",
-    "time": "2026-05-25T06:18:56.000Z"
   }
 ];

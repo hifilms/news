@@ -1,12 +1,120 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Anita Kanwal recalls helping Shah Rukh Khan in his early days",
+    "desc": "Veteran actress Anita Kanwal recently opened up about knowing Shah Rukh Khan since his Delhi theatre days, helping casting people connect with him during his struggling years, and the harsh realities faced by character actors in the entertainment industry today. She also spoke about the changing culture of Bollywood, and why reaching out to big stars and filmmakers is no longer easy.",
+    "img": "https://static.toiimg.com/photo/msid-131316587,imgsize-43160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anita-kanwal-recalls-helping-shah-rukh-khan-in-his-early-days-never-reached-out-for-work-unko-yaad-bhi-nahi-hoga-yeh-sab/articleshow/131316301.cms",
+    "time": "2026-05-25T18:56:27.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "Over 200 tourists stranded in Gulmarg’s high-altitude cable cars rescued",
+    "title": "Kerala HC enhances sentence of 12 accused to life imprisonment, acquits one",
+    "desc": "Madhu’s mother and the Kerala government had filed appeals seeking enhanced punishment for the accused. The mentally challenged tribal youth was killed following the allegation that he had stolen rice from a grocery shop in February 2018",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/7dlu9b/article71020164.ece/alternates/LANDSCAPE_1200/IMG_Madhu.jpg_2_1_THAOCBH9.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/madhu-lynching-case-kerala-high-court-acquits-first-accused/article71020153.ece",
+    "time": "2026-05-25T18:54:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eric André talks about getting his blocked OTT account back",
+    "desc": "Comedian Eric André humorously revealed he used his ex-partner's streaming account for years after being locked out of his own. He only regained access to his Netflix account after discussing his new film, 'Little Brother,' with high-ranking Netflix officials. Andre also shared his positive experience working with John Cena on the film, describing their on-set dynamic.",
+    "img": "https://static.toiimg.com/photo/msid-131315757,imgsize-66516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-andr-says-he-got-his-ott-account-restored-because-of-little-brother-i-talked-to-people-very-high-up/articleshow/131315605.cms",
+    "time": "2026-05-25T18:17:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Will NSE and BSE remain closed for Bakri Eid this week?",
+    "desc": "Stock markets will observe a shortened trading week with a closure on Thursday, May 28, for Bakri Eid. This marks the second holiday this month. Investors can anticipate several more market holidays throughout 2026, including those for Muharram, Ganesh Chaturthi, and Diwali. While some holidays fall on weekends, a special Muhurat Trading session is expected.",
+    "img": "https://static.toiimg.com/photo/msid-131315042,imgsize-964992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-will-nse-and-bse-remain-closed-for-bakri-eid-28-may-2026-this-week/articleshow/131315012.cms",
+    "time": "2026-05-25T17:55:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celina reacts to Twisha Sharma death case amid divorce battle",
+    "desc": "Celina Jaitly has reacted to the shocking death of Twisha Sharma with a deeply emotional note on abuse, isolation, and the hidden struggles women often endure in marriages. The 33-year-old Twisha Sharma was found dead at her home in Bhopal. Her family has accused her husband and mother-in-law of dowry harassment and abetment to suicide. The case has triggered widespread outrage across the country.",
+    "img": "https://static.toiimg.com/photo/msid-131314977,imgsize-37930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-reacts-to-twisha-sharma-death-case-amid-divorce-battle-with-husband-peter-haag-marriage-is-not-always-happily-ever-after/articleshow/131314944.cms",
+    "time": "2026-05-25T17:44:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Currency rises 34 paise against dollar amid hopes of US-Iran peace deal",
+    "desc": "The Indian rupee strengthened significantly against the US dollar, closing at 95.26, driven by positive global sentiment surrounding a potential US-Iran peace deal and easing West Asian tensions. RBI Governor's assurance of orderly forex market movements and positive remarks on the rupee's valuation also boosted confidence.",
+    "img": "https://static.toiimg.com/photo/msid-131314857,imgsize-85594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-rally-currency-rises-34-paise-against-dollar-amid-hopes-of-us-iran-peace-deal/articleshow/131314636.cms",
+    "time": "2026-05-25T17:38:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 300 tourists stranded in Gulmarg’s high-altitude cable cars rescued",
     "desc": "Panic gripped the tourists stranded in 65 gondolas after a technical slag, even as the weather turned inclement, with strong winds and rains lashing Gulmarg; the rescue operation lasted over four hours; 15 SDRF teams were deployed",
     "img": "https://th-i.thgim.com/public/incoming/eu489p/article71022499.ece/alternates/LANDSCAPE_1200/36-Technical%20Issue%20Halts%20Gulmarg%20Gondola-SGR-25-05-2026.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/over-200-tourists-stranded-in-gulmargs-high-altitude-cable-cars-rescued/article71022123.ece",
-    "time": "2026-05-25T16:58:14.000Z"
+    "time": "2026-05-25T17:32:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israeli fire kills six-year-old girl and a woman in Gaza, medics say",
+    "desc": "Medics said the Israeli airstrike on a tent encampment of displaced families in ‌the Mawasi area of Khan Younis, in the south of ‌the enclave, had killed six-year-old Mennatallah ‌Abu Libda ⁠and a 31-year-old woman, Hanan ⁠Mahmoud",
+    "img": "https://th-i.thgim.com/public/incoming/2zoma9/article71022556.ece/alternates/LANDSCAPE_1200/APTOPIX_Israel_Palestinians_Gaza__7478.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israeli-fire-kills-six-year-old-girl-and-a-woman-in-gaza-medics-say/article71022541.ece",
+    "time": "2026-05-25T17:30:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Christopher Walken",
+    "desc": "Christopher Walken's unforgettable remark from Batman Returns, 'I wish I could hand out world peace and unconditional love, wrapped in a big bow,' carries a poignant message that transcends the film's villainy. It reflects a heartfelt aspiration for universal peace and compassion, echoing the sentiments of countless hearts around the globe.",
+    "img": "https://static.toiimg.com/photo/msid-131313614,imgsize-57008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-christopher-walken-i-wish-i-could-hand-out-world-peace-and-unconditional-love/articleshow/131313576.cms",
+    "time": "2026-05-25T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI takes over case after Supreme Court order; FIR re-registered in Bhopal",
+    "desc": "The CBI has taken over the Twisha Sharma death case investigation following a Supreme Court directive. A team has arrived in Bhopal to begin the probe, with the apex court also ordering both families to refrain from media interviews. Meanwhile, the Madhya Pradesh High Court will hear challenges to the anticipatory bail granted to the mother-in-law on May 27.",
+    "img": "https://static.toiimg.com/photo/msid-131314522,imgsize-40184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/twisha-sharma-death-cbi-takes-over-case-after-supreme-court-order-fir-re-registered-in-bhopal/articleshow/131314155.cms",
+    "time": "2026-05-25T17:26:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Willing to listen to people’: Govt open to feedback on LTCG, STCG taxes, says Sitharaman",
+    "desc": "Finance minister Nirmala Sitharaman expressed openness to investor concerns regarding capital gains tax, assuring that the government will consider stakeholder suggestions. She also defended recent fuel price hikes, attributing them to global crude oil costs and highlighting the government's prior absorption of excise duties.",
+    "img": "https://static.toiimg.com/photo/msid-131314357,imgsize-661417.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/willing-to-listen-to-people-government-open-to-feedback-on-ltcg-stcg-taxes-says-nirmala-sitharaman/articleshow/131314150.cms",
+    "time": "2026-05-25T17:17:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government re-enacts Covid time protocol for flyers from Ebola hotspots to prevent spread in India",
+    "desc": "Airlines flying to India from Ebola hotspots like DRC and Uganda must now ensure passengers complete self-declaration forms before arrival. Thermal screening will be conducted, and symptomatic individuals will be seated at the rear of the aircraft. This proactive measure aims to prevent potential Ebola transmission, mirroring past COVID-19 protocols.",
+    "img": "https://static.toiimg.com/photo/msid-131314352,imgsize-1036727.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-re-enacts-covid-time-protocol-for-flyers-from-ebola-hotspots-prevent-spread-in-india/articleshow/131314317.cms",
+    "time": "2026-05-25T17:17:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar CM",
+    "desc": "BJP leader and MP from Darbhanga Parliamentary seat, Gopal Ji Thakur, met Union Education Minister and Minister of State for Education, and demanded the inclusion of Maithili language as a subject in the CBSE curriculum.",
+    "img": "https://th-i.thgim.com/public/incoming/2is66o/article71020513.ece/alternates/LANDSCAPE_1200/PTI05_24_2026_000152A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-hails-cbses-decision-to-include-maithili-in-curriculum/article71020457.ece",
+    "time": "2026-05-25T17:15:23.000Z"
   },
   {
     "cat": "World",
@@ -88,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/riz-ahmed-claims-he-was-approached-to-join-the-secret-service-3-times-they-took-me-into-a-side-room-put-me-in-an-arm-lock-/articleshow/131313001.cms",
     "time": "2026-05-25T15:51:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India-China issues, impact of global conflicts, and the role of middle powers in spotlight at Huddle 2026",
-    "desc": "The theme of this year’s Huddle set to be held in Bengaluru on June 5 and 6 is ‘The World in Transition’; senior diplomats and experts on global affairs will discuss possible solutions to conflicts in West Asia and Europe",
-    "img": "https://th-i.thgim.com/public/incoming/1rxgs4/article71022255.ece/alternates/LANDSCAPE_1200/Huddle_47.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-china-issues-impact-of-global-conflicts-and-the-role-of-middle-powers-in-spotlight-at-huddle-2026/article71021967.ece",
-    "time": "2026-05-25T15:45:10.000Z"
   },
   {
     "cat": "Politics",
@@ -333,15 +432,6 @@ const newsData_en = [
     "time": "2026-05-25T12:46:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anoushka on fan lifting her without consent, 'brought past trauma'",
-    "desc": "Grammy-nominated sitarist Anoushka Shankar recently spoke about a fan lifting her without consent during a post-show interaction. She shared that the incident brought back past trauma and childhood memories. Despite coming a long way in her healing journey, she admitted that one moment was enough to reopen old wounds.",
-    "img": "https://static.toiimg.com/photo/msid-131310113,imgsize-14540.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anoushka-shankar-opens-up-about-fan-lifting-her-without-consent-says-it-brought-back-past-trauma/articleshow/131310113.cms",
-    "time": "2026-05-25T12:44:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Indian-origin player Nishesh Basavareddy stuns seventh seed Taylor Fritz in French Open",
     "desc": "Wild card entrant Basavareddy, an American citizen now, beat world number nine Fritz 7-6(5), 7-6(5), 6-7(9), 6-1 in a gruelling match that lasted two hours and 45 minutes on Sunday to reach the second round",
@@ -349,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/indian-origin-player-nishesh-basavareddy-stuns-seventh-seed-taylor-fritz-in-french-open/article71021171.ece",
     "time": "2026-05-25T12:36:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hema Malini accepts Dharmendra's posthumous Padma Vibhushan; Ahana breaks down",
-    "desc": "In a poignant moment at the prestigious awards ceremony, Hema Malini graciously accepted the Padma Vibhushan on behalf of her beloved late husband, Dharmendra, honoring his remarkable six-decade journey in cinema. The celebration also highlighted the talents of Satish Shah, who received a Padma Shri, and the melodious Alka Yagnik, awarded the Padma Bhushan.",
-    "img": "https://static.toiimg.com/photo/msid-131309485,imgsize-117318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-accepts-dharmendras-posthumous-padma-vibhushan-from-president-droupadi-murmu-daughter-aahana-gets-teary-eyed/articleshow/131309289.cms",
-    "time": "2026-05-25T12:22:51.000Z"
   },
   {
     "cat": "Politics",
@@ -378,15 +459,6 @@ const newsData_en = [
     "time": "2026-05-25T12:21:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "FWICE issues official non-cooperation directive over Don 3 dispute with Farhan",
-    "desc": "FWICE has issued a non-cooperation directive against Ranveer Singh following his sudden exit from Farhan Akhtar's 'Don 3'. The complaint was filed through IFTDA, with Excel Entertainment reportedly seeking Rs 40 crore in compensation. The Producers Guild of India may also intervene to resolve the dispute.",
-    "img": "https://static.toiimg.com/photo/msid-131309388,imgsize-13674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-banned-fwice-issues-official-non-cooperation-directive-over-don-3-dispute-with-farhan-akhtar/articleshow/131309388.cms",
-    "time": "2026-05-25T12:13:10.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Detect, delete and deport’ push: BJP government opens first migrant holding centre in West Bengal, houses 9 suspected Bangladeshis",
     "desc": "West Bengal's BJP government has launched its 'detect, delete and deport' policy, opening a holding center in Malda for illegal foreign nationals. Nine suspected Bangladeshi nationals are currently housed there, awaiting verification and legal procedures. This initiative aims to streamline the deportation process for apprehended individuals, as mandated by a new national law.",
@@ -396,15 +468,6 @@ const newsData_en = [
     "time": "2026-05-25T12:11:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘I want to create my own music’",
-    "desc": "Vedang Raina, channeling Kishore Kumar, has sung for his character in Imtiaz Ali's 'Main Main Vaapas Aaunga' under A.R. Rahman's direction. The 'Jigra' actor, who previously sang a Kishore Kumar classic in 'Jigra', aspires to create his own music and hopes to sing for his future film roles.",
-    "img": "https://static.toiimg.com/photo/msid-131309181,imgsize-37946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/main-vaapas-aaunga-actor-vedang-raina-sings-for-his-character-just-like-kishor-kumar-i-want-to-create-my-own-music-exclusive/articleshow/131309190.cms",
-    "time": "2026-05-25T12:04:59.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Karnataka leadership change decision likely in 2-3 days as Congress high command meets Siddaramaiah",
     "desc": "A Karnataka leadership change decision is imminent within days following crucial Congress meetings. Chief Minister Siddaramaiah met with party leaders amid ongoing speculation about a potential shift. Discussions also covered Rajya Sabha and MLC polls, and a minor cabinet reshuffle has already occurred, with portfolios being reassigned.",
@@ -412,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/karnataka-leadership-change-decision-likely-in-2-3-days-as-congress-high-command-meets-siddaramaiah/articleshow/131309029.cms",
     "time": "2026-05-25T11:56:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Girls shouldn't give up education and do domestic work': SC stresses access to toilets, sanitary napkins",
-    "desc": "The Supreme Court has emphasized that girls must not abandon education due to a lack of sanitary napkins and functional, gender-segregated toilets in schools. The Centre has been directed to ensure effective implementation of its previous orders, urging states to provide free sanitary pads and adequate toilet facilities for all students.",
-    "img": "https://static.toiimg.com/photo/msid-131308951,imgsize-654733.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/girls-shouldnt-give-up-education-and-do-domestic-work-sc-stresses-access-to-toilets-sanitary-napkins/articleshow/131308944.cms",
-    "time": "2026-05-25T11:51:52.000Z"
   },
   {
     "cat": "Sports",
@@ -459,24 +513,6 @@ const newsData_en = [
     "time": "2026-05-25T10:59:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Trump is a big fan of India, PM Modi': Rubio pushes back against anti-India rhetoric",
-    "desc": "US Secretary of State Marco Rubio refuted claims of rising anti-India rhetoric in the United States, stating President Trump is a \"big fan\" of India and Prime Minister Modi. Rubio dismissed systemic hostility, emphasising Washington's commitment to strengthening ties and downplaying online \"crazy stuff\" as unrepresentative.",
-    "img": "https://static.toiimg.com/photo/msid-131309202,imgsize-41966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trump-is-a-big-fan-of-india-pm-modi-rubio-pushes-back-against-anti-india-rhetoric/articleshow/131307752.cms",
-    "time": "2026-05-25T10:54:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Share traits of destruction': Mallikarjun Kharge on PM Modi and Donald Trump's 'mutual appreciation'",
-    "desc": "Congress president Mallikarjun Kharge criticized Prime Minister Narendra Modi and former US President Donald Trump, stating they share a similarity in \"destruction\" which fuels their mutual praise. This comes after Trump expressed his \"love\" for PM Modi and India during a call to the US ambassador in New Delhi.",
-    "img": "https://static.toiimg.com/photo/msid-131307166,imgsize-47782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/share-traits-of-destruction-mallikarjun-kharge-on-pm-modi-and-donald-trumps-mutual-appreciation/articleshow/131307119.cms",
-    "time": "2026-05-25T10:31:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘A phenomenal achievement’: Tendulkar reacts as Gurindervir scripts history",
     "desc": "Gurindervir Singh has etched his name in Indian athletics history, becoming the nation's fastest ever in the men's 100m with a stunning 10.09-second run. This remarkable feat, which also shattered the national record, earned him praise from cricket legend Sachin Tendulkar. The sprinter's performance also secured his spot for the 2026 Commonwealth Games.",
@@ -484,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/a-phenomenal-achievement-sachin-tendulkar-reacts-as-gurindervir-singh-scripts-history-with-record-breaking-sprint/articleshow/131306958.cms",
     "time": "2026-05-25T10:26:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Tried expeditiously, severe punishment': Tamil Nadu CM orders swift action in sexual crime cases",
-    "desc": "Tamil Nadu chief minister C Joseph Vijay has ordered swift action on sexual crime cases following a horrific incident in Coimbatore. He directed police to expedite investigations, ensure severe punishment for culprits and implement precautionary measures. The directive comes amid rising criticism over the state's law and order situation, with opposition leaders highlighting recent murders and assaults.",
-    "img": "https://static.toiimg.com/photo/msid-131306871,imgsize-568617.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tried-expeditiously-severe-punishment-tamil-nadu-cm-orders-swift-action-in-sexual-crime-cases/articleshow/131306884.cms",
-    "time": "2026-05-25T10:21:56.000Z"
   },
   {
     "cat": "Business",
@@ -550,15 +577,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'They have the right to say'",
-    "desc": "D Gukesh admitted criticism over his recent poor form is fair, saying, “They have the right to say what they feel and I have the right to do my best.” Since winning the world title against Ding Liren in 2024, Gukesh has struggled for consistency, drawing criticism from legends like Magnus Carlsen and Anatoly Karpov.",
-    "img": "https://static.toiimg.com/photo/msid-131305248,imgsize-47982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-breaks-silence-on-criticism-they-have-the-right-to-say/articleshow/131305211.cms",
-    "time": "2026-05-25T08:31:23.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Last-minute IPL replacements eligible for retention",
     "desc": "On Saturday, May 23, Mumbai Indians announced the signing of Mahipal Lomror and Ruchit Ahir as replacements for Quinton de Kock and Raj Bawa respectively, while Rajasthan Royals signed Emanjot Chahal in place of Ravi Singh.",
     "img": "https://th-i.thgim.com/public/incoming/jphssc/article71020307.ece/alternates/LANDSCAPE_1200/IMG_LATEST_IPL_TROPHY_2_1_GBFT6SSJ.jpg",
@@ -592,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-gukeshs-test-koneru-humpys-return-why-should-you-be-excited/articleshow/131303861.cms",
     "time": "2026-05-25T07:34:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bizarre! Rapper Travis Scott dragged into Virat Kohli-Travis Head IPL storm",
-    "desc": "A bizarre mix-up has seen fans troll American rapper Travis Scott, mistaking him for cricketer Travis Head due to their shared first name. This online chaos follows an on-field spat between Head and Virat Kohli during an IPL match. The abuse has extended to Head's wife and family, highlighting the dark side of fan culture and the need for empathy.",
-    "img": "https://static.toiimg.com/photo/msid-131304223,imgsize-96864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/bizarre-rapper-travis-scott-dragged-into-virat-kohli-travis-head-ipl-storm-after-social-media-blunder/articleshow/131304135.cms",
-    "time": "2026-05-25T07:19:26.000Z"
   },
   {
     "cat": "Business",
@@ -765,15 +774,6 @@ const newsData_en = [
     "time": "2026-05-24T02:27:19.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
-    "desc": "Iranian Foreign Ministry spokesman Esmaeil Baghaei noted what he called “a trend towards rapprochement,” but said, “it does not necessarily mean that we and the United States will reach an agreement on the important issues”",
-    "img": "https://th-i.thgim.com/public/incoming/utlv3u/article71015850.ece/alternates/LANDSCAPE_1200/2026-05-23T162229Z_665726687_RC2LELACE4JD_RTRMADP_3_IRAN-CRISIS-TRUMP-DRAFT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-says-agreement-with-iran-largely-negotiated-includes-opening-strait/article71015849.ece",
-    "time": "2026-05-24T01:19:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Fjord’ by Romania’s Cristian Mungiu wins Cannes’ top prize",
     "desc": "Mungiu, who joins the small ​club of directors with two Palme d’Or ‌prizes after winning in 2007 with “4 Months, 3 Weeks and 2 Days,” said his film was a plea for tolerance, inclusion and empathy",
@@ -781,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/fjord-by-romanias-cristian-mungiu-wins-cannes-top-prize/article71016771.ece",
     "time": "2026-05-24T01:00:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Raul Castro",
-    "desc": "The Trump administration, which has imposed a punishing blockade on Cuba, has indicted the 94-year old former revolutionary leader and President, in a replay of the farcical accusations that led to the U.S. abduction of Venezuelan President Nicolas Maduro early this year",
-    "img": "https://th-i.thgim.com/public/news/national/fnqe6t/article71015483.ece/alternates/LANDSCAPE_1200/Raul_Castro_Art.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/raul-castro-the-old-man-and-the-siege/article71015484.ece",
-    "time": "2026-05-23T18:52:58.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/hyderabads-salar-jung-museum-turns-75-exhibits-that-define-the-iconic-museum/article70923294.ece",
     "time": "2026-05-21T09:36:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When God has to fix your film",
+    "desc": "Why Deus Ex Machina often feels like cheating, When divine intervention actually works, How movies like Bruce Almighty, Liar Liar and OMG – Oh My God! make the device work, and why Karuppu creates such divided reactions.",
+    "img": "https://th-i.thgim.com/public/incoming/pft1kw/article70995298.ece/alternates/LANDSCAPE_1200/Cinema_thumb%20.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/when-god-has-to-fix-your-film-karuppu-deus-ex-machina-explained-fmm-21/article70995303.ece",
+    "time": "2026-05-21T03:10:00.000Z"
   }
 ];
