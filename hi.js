@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'If they continue this way, they have strong chance to win IPL': Ex-India pacer picks tournament's contenders",
+    "desc": "Former India fast bowler Vinay Kumar has predicted that if Royal Challengers Bengaluru continue playing the way they are, they have a 'strong chance' of winning the Indian Premier League 2026. Defending champions RCB topped...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/if-they-continue-this-way-they-have-strong-chance-to-win-ipl-ex-india-pacer-picks-tournaments-contenders-2026-05-25-1042381",
+    "time": "2026-05-25T09:21:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia head coach backs ageing Cummins, Starc, Hazlewood to play ODI World Cup 2027",
+    "desc": "Australia head coach Andrew McDonald has put his weight behind the star Aussie trio of Pat Cummins, Mitchell Starc and Josh Hazelwood for the ODI World Cup 2027, stating that the Australian think tank has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-head-coach-backs-ageing-cummins-starc-hazlewood-to-play-odi-world-cup-2027-2026-05-25-1042379",
+    "time": "2026-05-25T08:44:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why KKR kept playing Varun Chakravarthy despite multiple injuries? Skipper Ajinkya Rahane reveals exact reason",
+    "desc": "Varun Chakravarthy braved several injuries to keep playing for the Kolkata Knight Riders in the Indian Premier League 2026, showing immense commitment towards the franchise. Assistant coach Shane Watson and head coach Abhishek Nayar had...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-kkr-kept-playing-varun-chakravarthy-despite-multiple-injuries-skipper-ajinkya-rahane-reveals-exact-reason-2026-05-25-1042363",
+    "time": "2026-05-25T07:07:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Travis Head's wife reveals online abuse after Virat Kohli episode in IPL 2026",
+    "desc": "Travis Head's wife, Jessica, made a revelation of online abuse targeted at their friends and families after her husband's on-field spat with Virat Kohli in the Indian Premier League 2026. Head and Kohli were involved...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/travis-heads-wife-reveals-online-abuse-after-virat-kohli-episode-in-ipl-2026-2026-05-25-1042357",
+    "time": "2026-05-25T06:18:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya's captaincy at MI at risk? Kieron Pollard makes honest admission after horror IPL 2026",
+    "desc": "Mumbai Indians endured a horror IPL 2026 as they finished ninth in the points table after their 10th loss of the season to Rajasthan Royals on Sunday, May 24. Hardik Pandya's captaincy at the franchise...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandyas-captaincy-at-mi-at-risk-kieron-pollard-makes-honest-admission-after-horror-ipl-2026-2026-05-25-1042348",
+    "time": "2026-05-25T05:18:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kimi Antonelli creates F1 history after bagging fourth straight win of season, Russell retires at Canadian GP",
+    "desc": "Teenage prodigy Kimi Antonelli continued his meteoric rise as he clinched his fourth straight win of the season after winning the Canadian GP on Sunday, May 24. Antonelli extended the championship lead over teammate George...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/formula-1/kimi-antonelli-creates-f1-history-after-bagging-fourth-straight-win-of-season-russell-retires-at-canadian-gp-2026-05-25-1042344",
+    "time": "2026-05-25T04:47:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Ravindra Jadeja's been nursing an injury': RR coach Sangakkara after team qualifies for IPL 2026 playoffs",
     "desc": "Ravindra Jadeja's fitness remains a major talking point for the Rajasthan Royals in the Indian Premier League 2026. The India all-rounder, who made a crucial 11-ball 19 in RR's must-win clash against the Mumbai Indians,...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-register-a-dominant-win-over-kolkata-knight-riders-defeat-three-time-champions-by-40-runs-2026-05-24-1042325",
     "time": "2026-05-24T18:07:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi achieves huge feat with brilliant catch to dismiss Ryan Rickelton against Mumbai Indians",
-    "desc": "Rajasthan Royals qualified for the knockout stages of the ongoing IPL (Indian Premier League) 2026. The side defeated Mumbai Indians in the 69th game of the season and secured their place at the fourth spot...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-achieves-huge-feat-with-brilliant-catch-to-dismiss-ryan-rickelton-against-mumbai-indians-2026-05-24-1042322",
-    "time": "2026-05-24T17:43:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Over 20,000 children attend Mumbai Indians' annual ESA game, Nita Ambani calls it 'cherished day for all'",
-    "desc": "As the Mumbai Indians (MI) played its last game of the 19th season of the Indian Premier League (IPL), the Wankhede Stadium in Mumbai turned into a sea of blue, with 20,000 children from all...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/over-20-000-children-attend-mumbai-indians-annual-esa-game-nita-ambani-calls-it-cherished-day-for-all-2026-05-24-1042315",
-    "time": "2026-05-24T15:59:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Good when things go to plan': Riyan Parag opens up after Rajasthan Royals qualify for the IPL 2026 playoffs",
-    "desc": "Rajasthan Royals registered a brilliant win against Mumbai Indians in the 69th game of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Wankhede Stadium in Mumbai on May 24, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/good-when-things-go-to-plan-riyan-parag-opens-up-after-rajasthan-royals-qualify-for-the-ipl-2026-playoffs-2026-05-24-1042314",
-    "time": "2026-05-24T15:44:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals secure IPL playoffs berth, registering a statement win over Mumbai Indians",
-    "desc": "The 69th game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Mumbai Indians. The two sides locked horns at the Wankhede Stadium in Mumbai on May 24th, and it was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-secure-ipl-playoffs-berth-registering-a-statement-win-over-mumbai-indians-2026-05-24-1042306",
-    "time": "2026-05-24T14:25:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma equals Glenn Maxwell's tally in unwanted list with yet another duck against Rajasthan Royals",
-    "desc": "Rajasthan Royals took on Mumbai Indians at the Wankhede Stadium in the 69th game of the ongoing IPL (Indian Premier League) 2026. The clash began with Rajasthan Royals coming in to bat first, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-equals-glenn-maxwell-s-tally-in-unwanted-list-with-yet-another-duck-against-rajasthan-royals-2026-05-24-1042305",
-    "time": "2026-05-24T13:58:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals defeat Kolkata Knight Riders by 40 runs",
-    "desc": "Game 70 of the ongoing IPL (Indian Premier League) 2026 sees Kolkata Knight Riders taking on Delhi Capitals. The two sides take on each other at the Eden Gardens in Kolkata, and while Delhi Capitals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-dc-live-cricket-score-kolkata-knight-riders-look-to-put-in-good-showing-2026-05-24-1042303",
-    "time": "2026-05-24T13:29:05.000Z"
   }
 ];

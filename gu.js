@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "6 દિવસ પહેલા કેરળમાં પહોંચી જશે ચોમાસું! આ વિસ્તારમાં ધોધમાર વરસાદનું એલર્ટ જાહેર",
+    "desc": "ભારતીય હવામાન વિજ્ઞાન વિભાગે પ્રમાણે આ વર્ષે સાઉથવેસ્ટ મોનસૂન પોતાના સામાન્ય સમયથી છ દિવસ પહેલા જ કેરળના કિનારે ટકરાવાનું છે. મોનસૂન કેરળમાં 26 મેએ પ્રવેશ કરી શકે છે, જ્યારે તેની સામાન્ય તારીખ 1 જૂન હોય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/monsoon-rain-alert-monsoon-is-set-to-hit-kerala-6-days-ahead-of-schedule-an-alert-for-rainfall-has-been-issued-for-these-regions-479199 ",
+    "time": "2026-05-25T09:58:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્વોલિફાયર-1 જીતનારી ટીમ બનશે IPL 2026ની ચેમ્પિયન, પૂર્વ વિકેટકીપરની મોટી ભવિષ્યવાણી",
+    "desc": "IPL 2026 પ્લેઓફ મંગળવારથી શરૂ થશે. પ્રથમ ક્વોલિફાયરમાં ગુજરાત ટાઇટન્સ અને રોયલ ચેલેન્જર્સ બેંગલુરુ ટકરાશે. આ મેચમાં જે ટીમ જીતશે તે સીધી ફાઇનલમાં પહોંચશે. દરમિયાન પૂર્વ વિકેટકીપર-બેટ્સમેન દીપ દાસગુપ્તાએ ભવિષ્યવાણી કરી છે કે જે પણ ટીમ ક્વોલિફાયર 1 જીતશે તે ટુર્નામેન્ટ પણ જીતશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/the-team-that-wins-qualifier-1-will-become-the-champion-of-ipl-2026-deep-dasgupta-479193 ",
+    "time": "2026-05-25T09:05:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અક્ષય કુમારનું ભોજપુરી ગીત તમે જોયું કે નહીં ? શબ્દો સમજાશે નહીં પણ અક્ષયને જોઈને લોટપોટ થઈ જશો",
+    "desc": "ઈંટરનેટ પર અક્ષય કુમારનો ભોજપુરી અંદાજ છવાઈ ગયો છે. વેલકમ ટૂ જંગલ ફિલ્મનું ધમાકેદાર ભોજપુરી ગીત રિલીઝ થયું છે. આ ગીતમાં અક્ષય કુમાર અને અક્ષરા સિંહની જોડીએ ધમાલ મચાવી છે. તડકતા ફડકતા ગીતની મજા લોકો રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-bhojpuri-song-ghis-ghis-viral-welcome-to-the-jungle-new-song-479192 ",
+    "time": "2026-05-25T08:55:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સેનાનો પિત્તો ગયો! આખી એક પલટન હથિયારો લઈને પોલીસ કમિશ્નર કચેરીએ પહોંચી, સાથી જવાનને અપાવ્યો ન્યાય",
+    "desc": "તમે કદાચ આવા દ્રશ્યોની કલ્પના ફક્ત ફિલ્મોમાં કરી શકો પણ વાસ્તવિક જીવનમાં આ શક્ય બન્યું છે. જ્યારે એક સાથી જવાનને ન્યાય આપવામાં સિસ્ટમ ઉણી ઉતરી તો ITBPના 50થી વધુ જવાનો હથિયારો સાથે મેદાને આવ્યા અને કાનપુરની પોલીસ કમિશ્નર કચેરીને ઘેરીને સાથીને ન્યાય અપાવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-50-itbp-personnel-arrive-at-kanpur-police-commissioners-office-with-weapons-479191 ",
+    "time": "2026-05-25T08:19:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલના ભાવ વધવાથી દેશના સામાન્ય નાગરિકો પર પડશે મોંઘવારીનો માર ! જાણો શું શું થઈ શકે છે મોંઘું",
+    "desc": "દેશમાં પેટ્રોલ અને ડીઝલના ભાવમાં આજે ફરી એકવાર વધારો થયો છે. છેલ્લા 11 દિવસમાં પેટ્રોલ-ડીઝલના ભાવમાં કુલ 6થી 7 રૂપિયાનો વધારો થયો છે. આ મોંઘવારીની સીધી અસર લોકોના ખિસ્સા, ઘરના બજેટ અને તેમના રોજિંદા જીવન પર પડશે, કારણ કે ફિયુઅલના ભાવમાં વધારો થવાથી અન્ય વિવિધ ચીજવસ્તુઓની કિંમતમાં વધારો થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-hike-impact-on-goods-kitchen-products-vegetables-and-fruits-479187 ",
+    "time": "2026-05-25T07:33:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "30 જૂન પહેલા કરી લેજો આ કામ, બાકી બંધ થઈ જશે એલપીજી સબસિડી, ખાતામાં નહીં આવે પૈસા",
+    "desc": "આજકાલ ગેસ સિલિન્ડરને લઈને લોકો પરેશાન થઈ રહ્યાં છે. સાથે સરકારના નવા-નવા નિયમથી પણ લોકો મુંજવણમાં મુાકાઈ રહ્યાં છે. હવે ગેસ સબસિડીને લઈને જાહેરાત કરવામાં આવી છે. તમે પણ જાણો શું છે આ નવો નિયમ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/these-people-lpg-subsidy-will-stop-after-june-30-lpg-subsidy-ke-niyam-479186 ",
+    "time": "2026-05-25T07:20:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "33Km માઇલેજ, 5 સ્ટાર સેફ્ટી, આ  CNG કાર બની લોકોની પહેલી પસંદ, પ્રીમિયમ ફીચર્સથી છે લેસ",
+    "desc": "મારૂતિ સુઝુકી ડિઝાયર સીએનજી દેશમાં સૌથી વધુ વેચાતી કારમાં સામેલ છે. નાણાકીય વર્ષ 025-2026મા તેના 1.35 લાખથી વધુ યુનિટ્સ વેચાયા છે. 33.73 km/kg માઇલેજ, 5-સ્ટાર સેફ્ટી રેટિંગ, 6 એરબેગ, 360 ડિગ્રી કેમેરા અને આધુનિક ફીચર્સ તેને ખાસ બનાવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-dzire-cng-most-selling-car-in-india-33km-mileage-5-star-safety-479161 ",
+    "time": "2026-05-25T05:43:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "માત્ર પેટ્રોલ-ડીઝલ જ નહીં, સોનું પણ થયું મોંઘું... ચાંદીના ભાવમાં પણ ઉછાળો, જાણો નવા ભાવ",
+    "desc": "ભારતમાં છેલ્લા 11 દિવસમાં પેટ્રોલ અને ડીઝલના ભાવમાં ચોથી વખત વધારો કરવામાં આવ્યો છે. અત્યાર સુધીમાં પેટ્રોલના ભાવમાં 7 રૂપિયાથી વધુનો વધારો થયો છે. તો આજે સોનાના ભાવમાં પણ ઉછાળો જોવા મળ્યો છે, તો ચાંદીના ભાવમાં પણ વધારો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-rate-hike-after-crude-oil-price-fall-know-latest-rate-479151 ",
+    "time": "2026-05-25T03:56:27.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "પતિ રોજ અલગ અલગ છોકરી સાથે પાર્ટી કરે તો ચાલે... દુબઈના અરબપતિની પત્નીએ કહેલી વાતથી શરુ થયો વિવાદ",
     "desc": "નેટફ્લિક્સ પર એક નવો શો સ્ટ્રીમ થયો છે જેનું નામ છે દેશી બ્લિંગ. આ શોના કારણે ઈંટરનેટ પર એક વિવાદ શરુ થયો છે. શોમાં દુબઈના બિઝનેસમેનની પત્ની એવું કહેતી જોવા મળે છે કે તેનો પતિ પાર્ટીનો શોખીન છે અને રોજ તે અલગ અલગ છોકરી સાથે પાર્ટી કરે તેમાં કોઈ વાંધો નથી. બસ રોજ એક જ છોકરી ન હોવી જોઈએ... આ વાતથી સોશિયલ મીડિયા પર લોકો ભડકી ગયા છે.",
@@ -378,15 +450,6 @@ const newsData_gu = [
     "time": "2026-05-23T04:05:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પેટ્રોલ-ડીઝલ, CNGના વધ્યા ભાવ, જાણો અમદાવાદ સહિત શહેરોમાં એક લીટર પેટ્રોલ-ડીઝલનો આજનો રેટ",
-    "desc": "માત્ર 10 જ દિવસમાં ફરી એકવાર પેટ્રોલ અને ડીઝલના ભાવમાં વધારો જોવા મળ્યો છે. આ ઉપરાંત અનેક ઠેકાણે સીએનજીના પણ ભાવ વધ્યા છે. ભાવવધારા બાદ ગુજરાતના મુખ્ય શહેરોમાં પેટ્રોલ અને ડીઝલના ભાવ કેટલા થયા તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-price-again-increased-check-one-ltr-petrol-price-in-ahmedabad-vadodara-surat-rajkot-478918 ",
-    "time": "2026-05-23T03:39:22.000Z"
-  },
-  {
     "cat": "World",
     "title": "આ હતા દુનિયાના સૌથી અમીર વ્યક્તિ, જેની સામે એલન મસ્ક પણ લાગશે ગરીબ! સંપત્તિ એટલી કે જાણીને નહીં આવે વિશ્વાસ",
     "desc": "ઈતિહાસના સૌથી અમીર શાસક મંસા મૂસાની સંપત્તિ આગળ આજના અબજોપતિઓ પણ ગરમી લાગે છે. સોનાની ખાણો, વિશાળ સામ્રાજ્ય અને વ્યાપારિક માર્ગો પર નિયંત્રણ રાખનારા આ રાજાની કહાની આજે પણ દુનિયાને હેરાન કરી દે છે. ચાલો જાણીએ કોણ હતા મંસા મૂસા?",
@@ -394,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/this-was-the-richest-person-in-the-world-in-front-of-whom-even-elon-musk-would-feel-poor-wealth-so-much-that-even-knowing-it-will-not-bring-trust-478915 ",
     "time": "2026-05-22T18:11:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેન્દ્રીય મંત્રી જીતનરામ માંઝી પર હુમલો, સ્ટેજ પર ભાષણ દરમિયાન પથ્થરમારો; પહેલાં પણ મળી ચૂકી છે ધમકી",
-    "desc": "કેન્દ્રીય મંત્રી જીતનરામ માંઝી પર ગયાજી જિલ્લાના ખિઝરસરાયમાં આયોજિત એક કાર્યક્રમ દરમિયાન પથ્થરમારો કરવામાં આવ્યો. માંઝી જ્યારે ભાષણ આપી રહ્યા હતા ત્યારે તેમને નિશાન બનાવીને પથ્થર ફેંકવામાં આવ્યા. તેમને પહેલાં પણ હુમલાની ધમકી મળી ચૂકી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/union-minister-jitan-ram-manjhi-attacked-stone-pelted-during-speech-on-stage-threats-have-been-received-before-478913 ",
-    "time": "2026-05-22T17:04:03.000Z"
   },
   {
     "cat": "World",
@@ -468,33 +522,6 @@ const newsData_gu = [
     "time": "2026-05-22T10:00:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "રિલાયન્સમાં ભાગીદારી ઘટાડીને અમેરિકન ગ્રુપે અદાણીને આપ્યું મોટું રોકાણ",
-    "desc": "અદાણી ગ્રુપની અનેક કંપનીઓમાં ગત એક વર્ષમાં તેજી આવી છે. ગૌતમ અદાણી ફરી એશિયાના નંબર વન અમીર બન્યા છે. અમેરિકામાં એક મોટા ગ્રુપે હાલ અદાણીની કંપનીમાં ભાગીદારી ખરીદી કરી છે. જ્યારે કે રિલાયન્સમાં પોતાનુ હોલ્ડિંગ ઘટાડ્યું",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gautam-adani-beats-mukesh-ambani-capital-group-investment-adani-reliance-shares-478848 ",
-    "time": "2026-05-22T09:23:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 માં ખરાબ પ્રદર્શન બાદ આ 5 ખેલાડીઓને રિલીઝ કરી દેશે CSK! લિસ્ટમાં 14.20 કરોડનો પ્લેયર પણ સામેલ",
-    "desc": "IPL 2026 માંથી CSK બહાર થઈ ગઈ છે અને આગામી મિની ઓક્શન પહેલા કેટલાક ખેલાડીઓને રિલીઝ કરવાનો નિર્ણય કરી શકે છે. આવો તે 5 ખેલાડીઓ વિશે જાણીએ જેને ચેન્નઈ પોતાની ટીમમાંથી બહાર કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/chennai-super-kings-may-release-these-5-players-ahead-of-mini-auction-2027-478842 ",
-    "time": "2026-05-22T08:06:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ખામેનેઈના એક નિવેદનથી સોનું ધડામ, અમદાવાદમાં ઘટીને કેટલો થયો સોનાનો રેટ? કેરેટ પ્રમાણે આજનો ભાવ",
-    "desc": "સોના અને ચાંદીના ભાવમાં સતત ઉથલપાથલ જોવા મળી રહી છે. મિડલ ઈસ્ટના સંકટની અસર ક્રૂડ ઓઈલ અને તેની અસર સોના ચાંદી પર જોવા મળી છે. આજે વૈશ્વિક બજાર અને ઘરઆંગણે સોનાના ભાવમાં ઘટાડો જોવા મળ્યો જ્યારે રિટેલ બજારમાં ચાંદીનો ભાવ ઉછળ્યો. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-rate-down-after-khamenei-statement-check-today-ahmedabad-gold-silver-price-aaj-no-sona-no-bhav-478835 ",
-    "time": "2026-05-22T07:44:20.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "બોલ્ડ લુક અને પ્રીમિયમ ફીચર્સ સાથે આવી રહી છે Nissanની આ નવી SUV, ક્રેટા-સેલ્ટોસને આપશે ટક્કર",
     "desc": "ભારતીય SUV માર્કેટમાં ટૂંક સમયમાં જ એક મોટો ધમાકો થવા જઈ રહ્યો છે. Nissan પોતાની નવી મિડ-સાઈઝ SUV Tekton લોન્ચ કરવા જઈ રહી છે, જે સીધી રીતે Hyundai Creta અને Kia Seltosને ટક્કર આપશે. ચાલો જાણીએ તેની વિગતો.",
@@ -529,24 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-upcoming-movie-bandar-trailer-watch-now-film-releasing-on-5-june-2026-box-office-478742 ",
     "time": "2026-05-21T12:07:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારતીય ક્રિકેટ ટીમમાં અચાનક ફેરફાર, જાણો કોણ થયું બહાર અને કોને મળી એન્ટ્રી",
-    "desc": "ભારતની 'A' ટીમ જૂનમાં શ્રીલંકા અને અફઘાનિસ્તાન સામે ત્રિકોણીય શ્રેણી રમશે. આ ટુર્નામેન્ટ માટેની ટીમની જાહેરાત પહેલાથી જ કરવામાં આવી હતી. જોકે, BCCIએ હવે તેમાં ફેરફાર કર્યો છે. ત્યારે આ લેખમાં જાણીશું કે, ટીમમાંથી કોણ બહાર થયું છે અને કોને એન્ટ્રી મળી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/anukul-roy-replace-harsh-dubey-india-a-squad-for-tri-series-in-sri-lanka-478726 ",
-    "time": "2026-05-21T11:07:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 હાર પછી 7 મેચમાં 6 જીત, KKRએ પલટી નાખ્યું પ્લેઓફનું સમીકરણ, જાણો કેવી રીતે પહોંચશે ટોપ-4માં",
-    "desc": "કોલકાતા નાઈટ રાઈડર્સે 5 હાર બાદ તેની છેલ્લી સાત મેચોમાંથી છ મેચ જીત મેળવી છે. જેના કારણે ટીમ પાસે હવે પ્લેઓફમાં સ્થાન મેળવવાની સુવર્ણ તક છે. ત્યારે KKR કેવી રીતે પ્લેઓફમાં પહોંચી શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-kkr-playoff-qualification-scenario-after-match-against-mumbai-indians-478712 ",
-    "time": "2026-05-21T09:30:36.000Z"
   },
   {
     "cat": "Tech",
@@ -664,23 +673,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/dont-throw-away-the-empty-smartphone-box-misunderstanding-it-as-garbage-can-be-a-big-mistake-know-its-many-benefits-478364 ",
     "time": "2026-05-18T11:45:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "કેટલા રૂપિયામાં પેટ્રોલ કાર બની શકે છે CNG? કેટલી આપે છે એવરેજ ?  જાણો",
-    "desc": "CNG કારની માંગ વધી રહી છે. નવી CNG કાર ખરીદવાની સાથે, ઘણા લોકો તેમની જૂની પેટ્રોલ કાર પર CNG કીટ પણ લગાવી રહ્યા છે, જેથી તેમનો પેટ્રોલનો ખર્ચ ઓછો થાય. જો કે, CNG કીટ લગાવતા પહેલા, કેટલાક મહત્વપૂર્ણ નિયમો અને ખર્ચને સમજવું ખૂબ જ મહત્વપૂર્ણ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/how-much-can-a-petrol-car-be-converted-to-cng-how-much-does-it-cost-on-average-find-out-478357 ",
-    "time": "2026-05-18T10:57:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સ્ટાર, મોત, સન્નાટો..... અને ઘણા સવાલ, Sushant Singh Rajput ની અધૂરી કહાની!",
-    "desc": "14 જૂન, 2020ના એક સમાચારે દેશને હચમચાવી દીધો હતો. 34 વર્ષના એક અભિનેતાએ પોતાની મહેનતથી ઓળખ બનાવી પરંતુ તેની પોતાની કહાની અધૂરી ગઈ હઈ. સુશાંત સિંહ રાજપૂત આજે માત્ર એક નામ નહીં, પરંતુ એક સવાલ છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-dark-secret-suicide-or-murder-sushant-singh-rajput-unfinished-story-478319 ",
-    "time": "2026-05-18T06:06:57.000Z"
   }
 ];
