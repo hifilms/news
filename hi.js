@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'A difficult season': Former India cricketer weighs in KKR's IPL 2026 campaign after group stage exit",
+    "desc": "Kolkata Knight Riders were close to reaching the IPL (Indian Premier League) 2026 playoffs, but their dreams ended on the final day of the group phase. With Rajasthan Royals defeating Mumbai Indians on May 24th,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/a-difficult-season-former-india-cricketer-weighs-in-kkr-s-ipl-2026-campaign-after-group-stage-exit-2026-05-25-1042431",
+    "time": "2026-05-25T16:17:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former Australia cricketer slams Delhi Capitals after subpar IPL 2026 campaign",
+    "desc": "The IPL (Indian Premier League) 2026’s group stage phase has come to an end, the top four sides in Royal Challengers Bengaluru, Punjab Kings, Rajasthan Royals, and Sunrisers Hyderabad will be playing in the knockout...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-australia-cricketer-slams-delhi-capitals-after-subpar-ipl-2026-campaign-2026-05-25-1042428",
+    "time": "2026-05-25T15:10:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Spain reveals squad for FIFA World Cup 2026; no Real Madrid players selected to go to USA",
     "desc": "With the FIFA World Cup 2026 all set to kick off on June 11, 2026, and with the marquee tournament right around the corner, the Spanish FA took centre stage and announced their squad for...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/travis-heads-wife-reveals-online-abuse-after-virat-kohli-episode-in-ipl-2026-2026-05-25-1042357",
     "time": "2026-05-25T06:18:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya's captaincy at MI at risk? Kieron Pollard makes honest admission after horror IPL 2026",
-    "desc": "Mumbai Indians endured a horror IPL 2026 as they finished ninth in the points table after their 10th loss of the season to Rajasthan Royals on Sunday, May 24. Hardik Pandya's captaincy at the franchise...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandyas-captaincy-at-mi-at-risk-kieron-pollard-makes-honest-admission-after-horror-ipl-2026-2026-05-25-1042348",
-    "time": "2026-05-25T05:18:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kimi Antonelli creates F1 history after bagging fourth straight win of season, Russell retires at Canadian GP",
-    "desc": "Teenage prodigy Kimi Antonelli continued his meteoric rise as he clinched his fourth straight win of the season after winning the Canadian GP on Sunday, May 24. Antonelli extended the championship lead over teammate George...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/kimi-antonelli-creates-f1-history-after-bagging-fourth-straight-win-of-season-russell-retires-at-canadian-gp-2026-05-25-1042344",
-    "time": "2026-05-25T04:47:51.000Z"
   }
 ];

@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Over 200 tourists stranded in Gulmarg’s high-altitude cable cars rescued",
+    "desc": "Panic gripped the tourists stranded in 65 gondolas after a technical slag, even as the weather turned inclement, with strong winds and rains lashing Gulmarg; the rescue operation lasted over four hours; 15 SDRF teams were deployed",
+    "img": "https://th-i.thgim.com/public/incoming/eu489p/article71022499.ece/alternates/LANDSCAPE_1200/36-Technical%20Issue%20Halts%20Gulmarg%20Gondola-SGR-25-05-2026.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/over-200-tourists-stranded-in-gulmargs-high-altitude-cable-cars-rescued/article71022123.ece",
+    "time": "2026-05-25T16:58:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Jailed Kurdish leader says 'no time to lose' for Turkey peace process",
+    "desc": "In a message published by a delegation of lawmakers from the pro-Kurdish DEM party, who visited him on Imrali prison island on May 24, Mr. Ocalan said prolonging the peace process would only \"generate risk\"",
+    "img": "https://th-i.thgim.com/public/incoming/r1b350/article71022511.ece/alternates/LANDSCAPE_1200/EUROPEAN_COURT_OCALAN_FRA101.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/jailed-kurdish-leader-says-no-time-to-lose-for-turkey-peace-process/article71022483.ece",
+    "time": "2026-05-25T16:56:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt says fuel stocks adequate amid panic buying in some states",
+    "desc": "Government assures sufficient fuel stocks amid panic buying and dryouts in select states. Joint Secretary Sujata Sharma cited increased demand and logistical issues, not shortages. Fuel prices have risen significantly, with state-run companies still facing losses. Citizens are urged to conserve fuel and explore alternatives.",
+    "img": "https://static.toiimg.com/photo/msid-131313831,imgsize-1519528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gulf-crisis-government-says-fuel-stocks-adequate-amid-panic-buying-in-some-states-urges-public-to-avoid-hoarding/articleshow/131313714.cms",
+    "time": "2026-05-25T16:44:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pope Leo XIV makes historic apology for Holy See's own role in legitimising slavery",
+    "desc": "Past Popes have apologised for Christians' involvement in the trans-Atlantic slave trade. But no Pope has ever publicly acknowledged, much less apologised for, the role that past popes themselves played in giving European sovereigns explicit authority to subjugate and enslave “infidels.”",
+    "img": "https://th-i.thgim.com/public/incoming/51y31j/article71022455.ece/alternates/LANDSCAPE_1200/Vatican_Pope_Encyclical_8_718.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pope-leo-xiv-makes-historic-apology-for-holy-sees-own-role-in-legitimising-slavery/article71022196.ece",
+    "time": "2026-05-25T16:38:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alfred Molina's net worth",
+    "desc": "Veteran actor Alfred Molina, celebrated for his iconic villainous roles, is enjoying a remarkable career resurgence. With an estimated net worth of USD 10 million, his wealth stems from over 200 acting credits, including \"Spider-Man 2,\" \"Chocolat,\" and \"The Da Vinci Code.\" Recent projects like \"The Boroughs\" and \"Remarkably Bright Creatures\" highlight his enduring talent and continued presence in Hollywood.",
+    "img": "https://static.toiimg.com/photo/msid-131313314,imgsize-89844.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/all-about-alfred-molinas-net-worth-how-rich-is-the-spider-man-villain-after-a-decades-long-hollywood-career/articleshow/131313255.cms",
+    "time": "2026-05-25T16:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saba Azad reacts to Deepika Padukone’s 8-hour workday row",
+    "desc": "Saba Azad has spoken out about the challenges women continue to face in society and the entertainment industry, months after reports surrounding Deepika Padukone’s alleged exit from Spirit and the sequel to Kalki 2898 AD sparked debate over work conditions for actresses in Bollywood.",
+    "img": "https://static.toiimg.com/photo/msid-131313399,imgsize-31124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saba-azad-reacts-to-deepika-padukones-8-hour-workday-row-we-still-dont-respect-women-who-have-just-given-birth/articleshow/131313290.cms",
+    "time": "2026-05-25T16:20:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition parties criticise CM  Vijay over a spate of crimes across Tamil Nadu",
+    "desc": "“Is this Tamil Nadu or Uttar Pradesh? Where is your Singapen Athiradi Padai ? Why is the Chief Minister, who delivered valour-tinged dialogues before the election, refusing to open his mouth,” asks Leader of the Opposition Udhayanidhi Stalin",
+    "img": "https://th-i.thgim.com/public/news/cities/chennai/h1j88m/article71020729.ece/alternates/LANDSCAPE_1200/Untitled%20design%2034.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/opposition-parties-criticise-cmvijayover-a-spate-of-crimes-acrosstamil-nadu/article71020533.ece",
+    "time": "2026-05-25T16:15:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Fuel prices up ₹7.5 in 10 days after fourth hike by ₹2.8 per litre",
+    "desc": "Petrol crosses ₹100/litre mark in Delhi after four years; Finance Minister Nirmala Sitharaman says government to take ₹1 lakh crore revenue hit for reducing Central excise duty on petrol and diesel by ₹10 a litre",
+    "img": "https://th-i.thgim.com/public/incoming/4gb5kn/article71019674.ece/alternates/LANDSCAPE_1200/20260523287L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/petrol-diesel-prices-hiked-for-fourth-time-in-10-days-may-25-2026/article71019671.ece",
+    "time": "2026-05-25T16:13:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Inside Delhi Capitals’ failed IPL campaign",
+    "desc": "DC ended sixth in the table with seven wins and seven defeats, extending their playoff drought to five straight seasons. It was also the second consecutive season in which the combination of head coach Hemang Badani and captain Axar Patel failed to guide the franchise into the top four.",
+    "img": "https://static.toiimg.com/photo/msid-131313173,imgsize-64954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/poor-home-record-to-toothless-bowling-and-slow-batting-inside-delhi-capitals-failed-ipl-2026-campaign/articleshow/131313020.cms",
+    "time": "2026-05-25T16:06:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Riz Ahmed almost joined the secret service",
+    "desc": "In an unexpected twist in his career story, Riz Ahmed disclosed that he faced not one, but three attempts to lure him into the secret services. The first encounter took place at an airport after his gripping performance in 'The Road to Guantánamo,' where he found himself in a heated interrogation about his intentions in the film industry.",
+    "img": "https://static.toiimg.com/photo/msid-131313001,imgsize-7332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/riz-ahmed-claims-he-was-approached-to-join-the-secret-service-3-times-they-took-me-into-a-side-room-put-me-in-an-arm-lock-/articleshow/131313001.cms",
+    "time": "2026-05-25T15:51:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India-China issues, impact of global conflicts, and the role of middle powers in spotlight at Huddle 2026",
+    "desc": "The theme of this year’s Huddle set to be held in Bengaluru on June 5 and 6 is ‘The World in Transition’; senior diplomats and experts on global affairs will discuss possible solutions to conflicts in West Asia and Europe",
+    "img": "https://th-i.thgim.com/public/incoming/1rxgs4/article71022255.ece/alternates/LANDSCAPE_1200/Huddle_47.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-china-issues-impact-of-global-conflicts-and-the-role-of-middle-powers-in-spotlight-at-huddle-2026/article71021967.ece",
+    "time": "2026-05-25T15:45:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘If he knew history ...’: Iran mocks Marco Rubio's Taj Mahal visit",
+    "desc": "Iran's Hyderabad Consulate criticized US Secretary of State Marco Rubio's Taj Mahal visit, asserting Iranian architects built the monument while the US threatens Iranian civilization. This follows Rubio's India trip and comes after Iran rejected his energy market claims. The consulate's remarks also alluded to past US threats during regional conflicts.",
+    "img": "https://static.toiimg.com/photo/msid-131312706,imgsize-993401.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/if-he-knew-history-iran-mocks-marco-rubios-taj-mahal-visit/articleshow/131312491.cms",
+    "time": "2026-05-25T15:32:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Year of the woman farmer': IFFCO honours achievers at AGM, reports Rs 4,585cr profit",
+    "desc": "IFFCO honored women achievers from Jammu & Kashmir and Gujarat for the first time at its 55th AGM, recognizing their contributions to agriculture and women's empowerment. The cooperative reported a profit of Rs 4,585 crore and announced employee incentives, including a minimum wage of Rs 20,000 for lower-level staff.",
+    "img": "https://static.toiimg.com/photo/msid-131312648,imgsize-1146846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/year-of-the-woman-farmer-iffco-honours-achievers-at-agm-reports-rs-4585cr-profit/articleshow/131312633.cms",
+    "time": "2026-05-25T15:32:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer reacts after FWICE issues non-cooperation directive over Don 3 exit",
+    "desc": "FWICE issued a non-cooperation directive against Ranveer Singh over his exit from 'Don 3', after he failed to respond to three formal notices. Ranveer's spokesperson said he chose to maintain silence with dignity. FWICE President BN Tiwari declared that no one, not even a superstar, is above industry rules.",
+    "img": "https://static.toiimg.com/photo/msid-131312456,imgsize-28542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-breaks-silence-after-fwice-issues-non-cooperation-directive-over-don-3-exit/articleshow/131312456.cms",
+    "time": "2026-05-25T15:18:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "The Englishman had left for the U.K. after suffering a finger injury in the game against Delhi Capitals on April 18. Salt was set to rejoin the squad ahead of the playoffs but he was not present during practice on the eve of the game",
+    "img": "https://th-i.thgim.com/public/incoming/6t2t77/article71022102.ece/alternates/LANDSCAPE_1200/_DSC2094.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-salt-is-fit-but-we-havent-decided-our-team-patidar/article71022083.ece",
+    "time": "2026-05-25T15:13:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "South Indian cinema is buzzing with major updates! Ram Charan's 'Peddi' is set for a June 4 release after dubbing completion. Jagapathi Babu lauded Prabhas and SS Rajamouli's support and humility. Vijay's 'Jana Nayagan' might hit screens June 19. Shwetha Menon addressed AMMA controversy, and Mammootty received his third honorary doctorate.",
+    "img": "https://static.toiimg.com/photo/msid-131312325,imgsize-127372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mammootty-missing-padma-awards-jana-nayagan-new-release-date-to-ram-charans-peddi-dubbing-top-5-south-stories-of-the-day/articleshow/131312317.cms",
+    "time": "2026-05-25T15:07:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cockroach Janta Party founder moves Delhi HC after social media accounts blocked amid online crackdown",
+    "desc": "Cockroach Janta Party founder Abhijeet Dipke has approached the Delhi High Court challenging the Centre's blocking of the group's social media accounts. The satirical movement, which gained viral traction discussing unemployment and exam leaks, saw its X account suspended on national security grounds. Dipke also alleged hacking of other accounts.",
+    "img": "https://static.toiimg.com/photo/msid-131312141,imgsize-42272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cockroach-janta-party-founder-moves-delhi-hc-after-social-media-accounts-blocked-amid-online-crackdown/articleshow/131311185.cms",
+    "time": "2026-05-25T14:55:14.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Diljit Dosanjh's Ludhiana home receives bomb threat email",
     "desc": "Days after singer Diljit Dosanjh's manager Gurpartap Singh Kang's house was allegedly attacked in Haryana, a bomb threat email targeting Diljit's Ludhiana residence was sent to the Ludhiana Municipal Corporation. The email, allegedly from the 'Khalistan National Party', also threatened the Mayor's residence. Police have been deployed at the singer's home.",
@@ -7,6 +160,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjhs-ludhiana-home-receives-bomb-threat-email-police-deployed-after-managers-house-attack/articleshow/131311883.cms",
     "time": "2026-05-25T14:35:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not in my control': Patidar on IPL final moving from Bengaluru to Ahmedabad",
+    "desc": "Defending champions Royal Challengers Bengaluru will face Gujarat Titans in Qualifier 1 for a direct spot in the IPL 2026 final, which will be held in Ahmedabad. RCB captain Rajat Patidar acknowledged the challenging conditions for bowlers this season, with even 200-plus scores not guaranteeing safety. He emphasized the team's focus on execution and staying calm under pressure.",
+    "img": "https://static.toiimg.com/photo/msid-131311799,imgsize-42606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/its-not-in-my-control-rajat-patidar-on-ipl-2026-final-moving-from-bengaluru-to-ahmedabad/articleshow/131311807.cms",
+    "time": "2026-05-25T14:31:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -61,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/he-is-under-observation-rcb-sweating-on-phil-salt-call-ahead-of-ipl-2026-qualifier-1-vs-gt/articleshow/131311034.cms",
     "time": "2026-05-25T13:54:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Eight years on, Madhu’s lynching still pricks Kerala’s conscience",
-    "desc": "The 27-year-old tribal man was accused of stealing food and lynched to death by a mob in Attappady on February 22, 2018. Post-mortem examination found extensive trauma, including fatal injuries to the back of the head, fractured ribs and 42 wounds on his body",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/eight-years-on-madhus-lynching-still-pricks-keralas-conscience/article71021217.ece",
-    "time": "2026-05-25T13:51:06.000Z"
   },
   {
     "cat": "Politics",
@@ -261,24 +414,6 @@ const newsData_en = [
     "time": "2026-05-25T11:56:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ashutosh Rana posts on 25th anniversary with Renuka Shahane",
-    "desc": "Actor Ashutosh Rana celebrated his 25th wedding anniversary with wife Renuka Shahane, marking their silver jubilee with a heartfelt social media post. He shared a touching tribute, reflecting on their journey together and the profound nature of marriage. The post included a video of their wedding and photos, celebrating their enduring bond.",
-    "img": "https://static.toiimg.com/photo/msid-131309017,imgsize-110836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashutosh-rana-pens-emotional-note-for-renuka-shahane-on-25th-anniversary-anand-se-purna-samay-tezi-se-beet-jata-hai/articleshow/131308976.cms",
-    "time": "2026-05-25T11:55:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Do Padma Award 2026 winners get cash rewards? What stars receive",
-    "desc": "This year's Padma Awards, India's highest civilian accolades, shone a spotlight on luminaries such as Mammootty, Alka Yagnik, and R. Madhavan. While the awards honor extraordinary contributions to society, they come without monetary rewards or travel benefits. Instead, winners are presented with a medallion and a certificate from the President, celebrating their impact on our cultural landscape and public life.",
-    "img": "https://static.toiimg.com/photo/msid-131308934,imgsize-105708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/do-padma-award-2026-winners-get-cash-rewards-what-mammootty-alka-yagnik-r-madhavan-and-others-will-actually-receive/articleshow/131308934.cms",
-    "time": "2026-05-25T11:53:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Girls shouldn't give up education and do domestic work': SC stresses access to toilets, sanitary napkins",
     "desc": "The Supreme Court has emphasized that girls must not abandon education due to a lack of sanitary napkins and functional, gender-segregated toilets in schools. The Centre has been directed to ensure effective implementation of its previous orders, urging states to provide free sanitary pads and adequate toilet facilities for all students.",
@@ -297,15 +432,6 @@ const newsData_en = [
     "time": "2026-05-25T11:42:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Thalapathy Vijay's 'Jana Nayagan' release date OUT",
-    "desc": "Thalapathy Vijay's final film, 'Jana Nayagan,' is reportedly eyeing a June 19, 2026 release, ahead of his birthday. Despite previous delays due to censor issues and an online leak, the producer assures the censor process is nearing completion. Fans eagerly await the official announcement for Vijay's grand worldwide theatrical farewell.",
-    "img": "https://static.toiimg.com/photo/msid-131308643,imgsize-123868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-date-out-thalapathy-vijay-starrer-plans-big-screens-arrival-ahead-of-the-actors-birthday-19-june-2026/articleshow/131308623.cms",
-    "time": "2026-05-25T11:39:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Which are the top gainers and losers on NSE &amp; BSE today? Check list",
     "desc": "Stock markets surged on Monday, with Sensex and Nifty crossing significant milestones. Easing West Asian tensions and falling crude oil prices fueled investor optimism, particularly after US President Trump indicated a deal with Iran was largely negotiated. Banking stocks led the rally, while global markets also saw gains.",
@@ -313,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-gainers-and-losers-on-nse-bse-on-may-25-2026-check-list/articleshow/131308367.cms",
     "time": "2026-05-25T11:34:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Marshals’ Season 1 dedicated to Lenny Hancock",
-    "desc": "The first season of 'Yellowstone' spin-off 'Marshals' concluded with a touching tribute to crew member Lenny Hancock, who tragically passed away in December at 54. Hancock, a prop master on the show, died in a UTV accident. His 17-year-old son has set up a funding page to honor his father's legacy and continue their shared racing dream.",
-    "img": "https://static.toiimg.com/photo/msid-131308476,imgsize-67628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/who-is-lenny-hancock-yellowstone-spin-off-marshals-pays-a-heartbreaking-finale-tribute-to-late-crew-member/articleshow/131308382.cms",
-    "time": "2026-05-25T11:29:28.000Z"
   },
   {
     "cat": "Business",
@@ -505,24 +622,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘A tough season’: Emotional Pant video goes viral amid LSG captaincy uncertainty",
-    "desc": "Rishabh Pant's emotional thank you to fans after Lucknow Super Giants' disastrous IPL 2026 campaign has gone viral amid leadership change speculation. The team's bottom-place finish and Pant's struggles with captaincy and batting have intensified scrutiny, with the franchise reportedly considering major decisions.",
-    "img": "https://static.toiimg.com/photo/msid-131303407,imgsize-28648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-its-been-a-tough-season-emotional-rishabh-pant-video-goes-viral-amid-lsg-captaincy-uncertainty/articleshow/131303398.cms",
-    "time": "2026-05-25T06:26:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia backs ageing Big Three as Team India faces Kohli-Rohit dilemma",
-    "desc": "Cricket Australia has publicly backed its veteran pace trio for the 2027 ODI World Cup, prioritising experience despite fitness concerns. In stark contrast, Team India faces uncertainty regarding Rohit Sharma, Virat Kohli, and Ravindra Jadeja's futures, hinting at a significant transition phase for the national team as the next World Cup looms.",
-    "img": "https://static.toiimg.com/photo/msid-131302506,imgsize-106504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/2027-odi-world-cup-cricket-australia-backs-ageing-big-three-as-team-india-faces-virat-kohli-rohit-sharma-dilemma/articleshow/131302513.cms",
-    "time": "2026-05-25T05:27:02.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Dhauladhar views, playoffs mood",
     "desc": "On Sunday, the Gujarat Titans trained with full intensity ahead of their Qualifier 1 against Royal Challengers Bengaluru (RCB) at the Himachal Pradesh Cricket Association (HPCA) Stadium in Dharamsala. Captain Shubman Gill and pacer Kagiso Rabada were notable absentees from the three-hour training session.",
     "img": "https://static.toiimg.com/photo/msid-131301671,imgsize-152688.cms",
@@ -547,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-on-recovery-track-on-may-25-2026-currency-jumps-40-paise-to-95-2-against-us-dollar-amid-middle-east-peace-hopes/articleshow/131301099.cms",
     "time": "2026-05-25T04:34:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How the season collapsed, moment by moment",
-    "desc": "Five-time champions Chennai Super Kings missed the IPL playoffs for the third consecutive season after a disappointing 2026 campaign. Injuries, an underperforming overseas contingent, and a lack of consistent rhythm plagued the team this year. Despite individual bright spots, CSK face a significant tactical reset to regain their championship form.",
-    "img": "https://static.toiimg.com/photo/msid-131300020,imgsize-100018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/csk-ipl-2026-autopsy-how-the-season-collapsed-moment-by-moment/articleshow/131299855.cms",
-    "time": "2026-05-25T03:25:29.000Z"
   },
   {
     "cat": "Business",
@@ -729,24 +819,6 @@ const newsData_en = [
     "time": "2026-05-23T05:43:59.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "the ‘all-world’ English gentleman with Indian roots",
-    "desc": "The 31-year-old’s triumph at the PGA Championship was one of golf’s great underdog stories. How did he step up on one of the sport’s biggest stages? Why does he wear two gloves and use protective covers for his irons? And why does no opponent have a bad word to say about him?",
-    "img": "https://th-i.thgim.com/public/incoming/elrzfg/article71012404.ece/alternates/LANDSCAPE_1200/Aaron%20Rai%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/major-champion-aaron-rai-the-all-world-english-gentleman-with-indian-roots/article71012402.ece",
-    "time": "2026-05-23T05:19:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Whither Alexander Zverev, the forlorn scion of the lost generation?",
-    "desc": "Sandwiched between two eras of dominance, the 6’6” German is in a peculiar position. He is ranked a creditable third behind Jannik Sinner and Carlos Alcaraz, although a distant one at that. And while he has made two of his three Major finals over the last two years with an upgraded game, the dream of a first Grand Slam title still seems distant ahead of Roland-Garros",
-    "img": "https://th-i.thgim.com/public/incoming/5rbj3t/article71012408.ece/alternates/LANDSCAPE_1200/Alexander%20Zverev%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/whither-alexander-zverev-the-forlorn-scion-of-the-lost-generation/article71012400.ece",
-    "time": "2026-05-23T05:13:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Star Wars: The Mandalorian and Grogu’ movie review: This might not be the way",
     "desc": "Grogu is sweet as ever, cooing and gobbling sundry creepy crawlies, while Pedro Pascal’s Din Djarin is brave and dashing. However, one wishes Jon Favreau had pushed the envelope a little further beyond a bunch of quests for Baby Yoda’s big screen debut",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/hyderabads-salar-jung-museum-turns-75-exhibits-that-define-the-iconic-museum/article70923294.ece",
     "time": "2026-05-21T09:36:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When God has to fix your film",
-    "desc": "Why Deus Ex Machina often feels like cheating, When divine intervention actually works, How movies like Bruce Almighty, Liar Liar and OMG – Oh My God! make the device work, and why Karuppu creates such divided reactions.",
-    "img": "https://th-i.thgim.com/public/incoming/pft1kw/article70995298.ece/alternates/LANDSCAPE_1200/Cinema_thumb%20.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/when-god-has-to-fix-your-film-karuppu-deus-ex-machina-explained-fmm-21/article70995303.ece",
-    "time": "2026-05-21T03:10:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Samsung faces major strike after pay talks with union falls apart",
-    "desc": "Union leaders have demanded a compensation structure in which Samsung would commit to spend 15% of its annual operating profit on employee bonuses and scrap bonus caps, which are currently set at 50% of annual salaries",
-    "img": "https://th-i.thgim.com/public/incoming/1pjppc/article71001233.ece/alternates/LANDSCAPE_1200/2026-05-20T031354Z_1017432056_RC2RCLA9O5VY_RTRMADP_3_SAMSUNG-DISPUTE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/samsung-faces-major-strike-after-pay-talks-with-union-falls-apart/article71001186.ece",
-    "time": "2026-05-20T08:49:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "At Google I/O 2026, Alphabet rewrites search playbook, unveils Gemini 3.5 Flash",
-    "desc": "Google launched AI Mode roughly a year ago and the feature has already crossed a billion monthly active users, with queries more than doubling each quarter. In the most recent quarter, overall Google Search queries hit an all-time high.",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/l5802/article71000973.ece/alternates/LANDSCAPE_1200/AhaConvert_Google%20CEO%20Sundar%20Pichai%20during%20Google%20I_O%202026%20Keynote.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/at-google-io-2026-alphabet-rewrites-search-playbook-unveils-gemini-35-flash/article71001008.ece",
-    "time": "2026-05-20T06:26:22.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Decoding the Musk vs. Altman verdict",
-    "desc": "OpenAI was founded as a nonprofit aiming to build ethical, open-source artificial general intelligence. Years later, Elon Musk filed a lawsuit accusing CEO Sam Altman, OpenAI president Greg Brockman, and Microsoft of manipulating him into donating to a public-interest organisation which later created a for-profit subsidiary.",
-    "img": "https://th-i.thgim.com/public/incoming/4j53qg/article70999526.ece/alternates/LANDSCAPE_1200/2276427545.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/decoding-the-musk-vs-altman-verdict/article70999519.ece",
-    "time": "2026-05-20T02:38:52.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The world’s first and only rotating boat lift",
-    "desc": "On May 24, 2002, the Falkirk Wheel was officially opened by Queen Elizabeth II as part of her Golden Jubilee celebrations. The world’s first and only rotating boat lift is an engineering feat of excellence that connects the Forth & Clyde and Union Canals in Scotland. A.S.Ganesh takes you on this waterway to tell you more about this unique wheel…",
-    "img": "https://th-i.thgim.com/public/incoming/p7u4uf/article70964997.ece/alternates/LANDSCAPE_1200/24istb%20Falkirk%20Wheel%204.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
-    "time": "2026-05-19T05:07:08.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
