@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ક્વોલિફાયર-1માં બદલાઈ જશે RCBની પ્લેઈંગ-11, વિરાટ સાથે કોણ કરશે ઓપનિંગ ? કેપ્ટન પાટીદારે આપ્યો જવાબ",
+    "desc": "IPL 2026ની પહેલી ક્વોલિફાયરમાં RCB અને ગુજરાત ટાઇટન્સ આમને સામને હશે. સૌથી મોટો પ્રશ્ન એ છે કે આ મેચમાં વિરાટ કોહલીની સાથે RCB માટે કોણ ઓપનિંગ કરશે ? આ ઉપરાંત RCBની પ્લેઈંગ-11 કેવી હશે ? તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-qualifier-1-rcb-playing-11-phil-slat-opening-with-virat-kohli-rajat-patidar-statement-479270 ",
+    "time": "2026-05-26T06:07:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોરોના જેવું લોકડાઉન ફરી લાગશે? ઇબોલાને લઈને દેશમાં હાઈ એલર્ટ, જાણો સરકાર અને DGCAની એડવાઇઝરી",
+    "desc": "દેશમાં ઇબોલા વાયરસને લઈને હાઈ એલર્ટ જાહેર કરવામાં આવ્યું છે. જોકે, દેશમાં હાલમાં ઇબોલાનો એક પણ કેસ નથી, તેમ છતાં કેન્દ્રીય સ્વાસ્થ્ય મંત્રી જે.પી. નડ્ડાએ આ સંક્રમણને પહોંચી વળવાની તૈયારીઓ માટે એક હાઈ-લેવલ મીટિંગ બોલાવીને સમીક્ષા કરી અને જરૂરી નિર્દેશો આપ્યા છે. બીજી તરફ, ડાયરેક્ટોરેટ જનરલ ઓફ સિવિલ એવિએશન (DGCA) એ પણ SOP જાહેર કરી છે અને તેનું ચુસ્તપણે પાલન કરવા જણાવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/will-a-covid-style-lockdown-be-reimposed-high-alert-declared-in-the-country-over-ebola-read-the-advisories-issued-479268 ",
+    "time": "2026-05-26T05:59:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL વચ્ચે સ્ટાર ક્રિકેટરે અચાનક નિવૃત્તિની કરી જાહેરાત, ધોની અને કોહલીની કેપ્ટનશીપમાં રમી ચૂક્યો છે આ ખેલાડી",
+    "desc": "IPL 2026માં આજથી પ્લેઓફ રાઉન્ડ શરૂ થવાનો છે. તે પહેલા એક મોટા સમાચાર સામે આવ્યા છે. ધોની, રોહિત શર્મા અને વિરાટ કોહલીની કેપ્ટનશીપમાં રમી ચૂકેલા સ્ટાર ખેલાડીએ 35 વર્ષની ઉંમરે અચાનક નિવૃત્તિની જાહેરાત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/cricketer-murugan-ashwin-announces-retirement-from-domestic-cricket-and-ipl-479266 ",
+    "time": "2026-05-26T05:35:56.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "&amp;#039;કોકરોચ જનતા પાર્ટી&amp;#039; પર ચીફ જસ્ટિસનું લેટેસ્ટ નિવેદન, જાણો હવે CJI સૂર્યકાંતે શું કહ્યું",
     "desc": "કોકરોચ જનતા પાર્ટીનો મુદ્દો ભારતના મુખ્ય ન્યાયાધીશ (CJI)ની 16 મેની ટિપ્પણી પછી ઉભો થયો હતો, જ્યારે તેમણે મીડિયા અહેવાલો પર તીવ્ર ચિંતા વ્યક્ત કરી હતી અને સ્પષ્ટતા કરી હતી કે કેટલાક વર્ગોએ તેમના શબ્દોનું ખોટું અર્થઘટન કર્યું છે.",
@@ -414,15 +441,6 @@ const newsData_gu = [
     "time": "2026-05-23T07:49:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "શિમલા-મનાલી છોડો ! ઉનાળામાં સ્વર્ગ સમાન છે ભારતના આ 5 સ્થળો... કુદરતી સૌંદર્ય જોઈને મન મોહી જશે",
-    "desc": "જો તમે ઉનાળાના વેકેશન દરમિયાન ભીડ અને ટ્રાફિકથી દૂર કોઈ શાંત, સુંદર સ્થળ પર જવાનું આયોજન કરી રહ્યા છો, તો આ સમાચાર તમારા માટે છે. આજે અમે તમને ભારતના કેટલાક એવા સ્થળો વિશે જણાવીશું જ્યાં તમે તમારા પરિવાર સાથે પ્રકૃતિ, શાંતિ અને ઠંડા હવામાનનો આનંદ માણી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/summer-best-travel-destinations-for-family-trip-chopta-kanatal-haflong-478950 ",
-    "time": "2026-05-23T07:27:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કોણ છે ગુજરાતી ફિલ્મ ‘જયેશભાઈ જોરદાર’ ફેમ હેમંત મોદી? જાણો આશ્ચર્યજનક હાઈ-પ્રોફાઈલ કારકિર્દી, હવે આખી જિંદગી જેલમાં!",
     "desc": "Who Is Hemant Modi? હત્યાના કેસમાં આજીવન કેદની સજામાંથી ફરાર થયા બાદ 12 વર્ષ સુધી નાસતા ફરતા હેમંત મોદી ઉર્ફે હેમંત વૈષ્ણવની અમદાવાદમાંથી ધરપકડ કરવામાં આવી છે. અમદાવાદ ક્રાઈમ બ્રાન્ચના અધિકારીઓએ તેને ઘી કાંટા મેટ્રો સ્ટેશન પાસેથી ઝડપી પાડ્યો હતો.",
@@ -430,24 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/who-is-gujarati-film-jayeshbhai-jordaar-fame-hemant-modi-ranveer-singh-co-star-arrested-after-skipping-parole-for-over-a-decade-478809 ",
     "time": "2026-05-23T07:07:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અફઘાનિસ્તાન સામેની ટેસ્ટમાં બદલાઈ જશે ટીમ ઈન્ડિયાની પ્લેઈંગ-11... આ બે ખેલાડીઓનું ડેબ્યૂ પાક્કું ! જાણો કોનું કપાશે પત્તુ",
-    "desc": "BCCIએ અફઘાનિસ્તાન સામેની એકમાત્ર ટેસ્ટ મેચ માટે ટીમની જાહેરાત કરી છે. હવે જોવાનું એ છે કે પ્લેઈંગ ઈલેવનમાં કયા ખેલાડીઓને તક મળશે અને કયા ખેલાડીઓને બહાર બેસવું પડશે. આ વખતે ટીમમાં નવા ચહેરાઓનો પણ સમાવેશ કરવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-predicted-playing-xi-against-afghanistan-test-shubman-gill-478948 ",
-    "time": "2026-05-23T06:50:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "તો SRH બનશે ચેમ્પિયન! બની ગયો 2016 જેવો જાદુઈ સંયોગ, વિરોધી ટીમ પણ ચોંકી જશે",
-    "desc": "આઈપીએલનું ટાઈટલ પેટ કમિન્સની સનરાઇઝર્સ હૈદરાબાદ જીતી શકે છે. આ દાવો અમે કરી રહ્યાં નથી, પરંતુ 67 મેચ બાદ પોઈન્ટ ટેબલની તસવીરે એક એવો સંયોગ બનાવ્યો છે, જે SRH ને 10 વર્ષ પહેલાની જેમ ચેમ્પિયન બનાવી રહ્યો છે, આવો વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/srh-title-win-is-all-but-certain-a-magical-coincidence-identical-to-2016-has-emerged-478938 ",
-    "time": "2026-05-23T06:17:20.000Z"
   },
   {
     "cat": "World",
@@ -612,15 +612,6 @@ const newsData_gu = [
     "time": "2026-05-19T09:35:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "રાતે 2 વાગ્યે શાહરૂખ ખાને કબરમાંથી કાઢ્યો હતો પોતાના શ્વાનનો મૃતદેહ, વર્ષો બાદ સામે આવ્યો કિંગખાનનો એ કિસ્સો",
-    "desc": "શાહરૂખ ખાનનો એક જૂનો કિસ્સો હાલ સોશિયલ મીડિયા પર ડોગ લવર્સમાં ચર્ચાનું કેન્દ્ર બન્યો છે. ગૌરી ખાને જણાવ્યું હતું કે, શાહરૂખ ખાને અડધી રાતે પોતાના પાળતૂ શ્વાનને કબરમાંથી કાઢીને તેનો મૃતદેહ ઘર લઈ આવ્યા હતા. રખડતા શ્વાન પર સુપ્રીમ કોર્ટના ચુકાદા બાદ આ કિસ્સો વાયરલ થઈ રહ્યો છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shahrukh-khan-pet-dog-deadbody-midnight-incidence-on-supreme-court-street-dog-judgement-478468 ",
-    "time": "2026-05-19T08:44:08.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "WhatsApp પર કેવી રીતે રેકોર્ડ કરી શકાય છે કોઈ પણ કોલ? મોટાભાગના લોકો નથી જાણતા આ ટ્રીક",
     "desc": "હવે WhatsApp કોલ રેકોર્ડ કરવો પહેલાં જેટલો મુશ્કેલ નથી રહ્યો. Android અને iPhone યુઝર્સ કેટલીક સરળ રીતોની મદદથી જરૂરી કોલ્સ સેવ કરી શકે છે. જો કે, રેકોર્ડિંગ કરતી વખતે પ્રાઇવસી (ગોપનીયતા) અને કાનૂની નિયમોનું ધ્યાન રાખવું ખૂબ જ જરૂરી છે.",
@@ -637,14 +628,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/no-petrol-problem-no-worries-about-ev-charging-inflation-is-coming-to-an-end-maruti-and-tata-first-flex-fuel-car-know-478375 ",
     "time": "2026-05-18T12:21:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સ્માર્ટફોનનું ખાલી બોક્સ ફેંકી દેતા નહીં! કચરો સમજવાની ભૂલ પડી શકે છે ભારે, જાણો તેના અનેક ફાયદા",
-    "desc": "મોબાઈલ લીધા પછી સ્માર્ટફોનનું બોક્સનું કોઈ કામ નથી તેમ સમજીને મોટા ભાગના લોકો તેને ફેકી દે છે, ત્યારે આ નાનું બોક્સ અનેક કામમાં આવી શકે છે અને તેને જ્યારે પણ તમે મોબાઈલ વેચવા જાઓ ત્યારે પણ તે ખુબ જ કામમાં આવે છે, અને ફોનની કિંમતમાં પણ વધારો કરી દે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/dont-throw-away-the-empty-smartphone-box-misunderstanding-it-as-garbage-can-be-a-big-mistake-know-its-many-benefits-478364 ",
-    "time": "2026-05-18T11:45:24.000Z"
   }
 ];

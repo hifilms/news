@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will rain spoil RCB vs GT IPL 2026 Qualifier 1 at HPCA Stadium?",
+    "desc": "Dharamsala weather will be in focus as Royal Challengers Bengaluru take on Gujarat Titans in the Qualifier 1 at the HPCA Stadium in Dharamsala on Tuesday, May 26. With the spot in the final up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dharamsala-weather-will-rain-spoil-rcb-vs-gt-ipl-2026-qualifier-1-at-hpca-stadium-2026-05-26-1042469",
+    "time": "2026-05-26T05:43:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi above MS Dhoni, Andre Russell in major IPL record, eyes all-time feat as playoffs beckon",
+    "desc": "Rajasthan Royals' teenage sensation has been turning heads with his jaw-dropping batting outings in the Indian Premier League. The 15-year-old has been instrumental in RR's progress to the playoffs, having scored 583 runs and being...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-above-ms-dhoni-andre-russell-in-major-ipl-record-eyes-all-time-feat-as-playoffs-beckon-2026-05-26-1042463",
+    "time": "2026-05-26T04:51:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer's sister blasts social media abuse on viral clip, says 'you guys are literally harassing me'",
+    "desc": "Shreyas Iyer's sister, Shresta Iyer, revealed that she has been receiving social media abuse over the video she and her team made after the Punjab Kings shared a washed-out point with the Kolkata Knight Riders,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyers-sister-blasts-social-media-abuse-on-viral-clip-says-you-guys-are-literally-harassing-2026-05-26-1042451",
+    "time": "2026-05-26T02:51:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will star opener play for RCB in Qualifier 1 against GT? Rajat Patidar opens up",
     "desc": "Royal Challengers Bengaluru are fretting over Phil Salt's availability for their Qualifier 1 against the Gujarat Titans on May 26, as the opening batter is up against time for the Dharamsala clash. Salt had suffered...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-women-s-skipper-harmanpreet-kaur-awarded-with-padma-shri-award-from-president-murmu-watch-2026-05-25-1042414",
     "time": "2026-05-25T12:22:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin points out Jasprit Bumrah's subpar performances for MI after IPL 2026 campaign",
-    "desc": "The IPL (Indian Premier League) 2026 group stage phase has come to an end. The top four sides of the tournament have been selected and have made it to the playoffs. One of the teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-points-out-jasprit-bumrah-s-subpar-performances-for-mi-after-ipl-2026-campaign-2026-05-25-1042403",
-    "time": "2026-05-25T11:21:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Done that job brilliantly': Piyush Chawla hails Shubman Gill over his captaincy ahead of IPL playoffs",
-    "desc": "The stage is set for the playoffs of the IPL (Indian Premier League) 2026. The top four sides of the tournament have been decided and they will be battling it out for a spot in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/done-that-job-brilliantly-piyush-chawla-hails-shubman-gill-over-his-captaincy-ahead-of-ipl-playoffs-2026-05-25-1042393",
-    "time": "2026-05-25T10:18:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If they continue this way, they have strong chance to win IPL': Ex-India pacer picks tournament's contenders",
-    "desc": "Former India fast bowler Vinay Kumar has predicted that if Royal Challengers Bengaluru continue playing the way they are, they have a 'strong chance' of winning the Indian Premier League 2026. Defending champions RCB topped...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/if-they-continue-this-way-they-have-strong-chance-to-win-ipl-ex-india-pacer-picks-tournaments-contenders-2026-05-25-1042381",
-    "time": "2026-05-25T09:21:33.000Z"
   }
 ];
