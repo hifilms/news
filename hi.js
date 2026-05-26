@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "RCB decimate Gujarat Titans to seal spot in IPL 2026 final, register second biggest win in playoffs history",
+    "desc": "Royal Challengers Bengaluru decimated Gujarat Titans in the IPL 2026 Qualifier 1 at the HPCA Stadium in Dharamsala. Batting first, Venkatsesh Iyer set the tone for the defending champions, but he failed to live up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-decimate-gujarat-titans-to-seal-spot-in-ipl-2026-final-register-second-biggest-win-in-playoffs-history-2026-05-26-1042571",
+    "time": "2026-05-26T18:13:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Daniil Medvedev, former world number one, exits French Open in first round after defeat to Australian wildcard",
     "desc": "Daniil Medvedev’s campaign at Roland Garros once again ended early, reinforcing a pattern that has followed him across the clay season and more broadly, recent Grand Slam events. The former world No. 1 exited the...",
     "img": "",
@@ -46,8 +55,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Bengaluru shatter Gujarat's batting unit, who lose six wickets in 9 overs",
-    "desc": "Royal Challengers Bengaluru decimated Gujarat Titans in the first innings of Qualifier 1. Captain Rajat Patidar led from the front, scoring an unbeaten 93 runs off just 33 balls. Courtesy of his blistering batting, RCB...",
+    "title": "Bengaluru seal spot in final with 92-run win against Gujarat Titans",
+    "desc": "Royal Challengers Bengaluru decimated Gujarat Titans in Qualifier 1. Captain Rajat Patidar led from the front, scoring an unbeaten 93 runs off just 33 balls. Courtesy of his blistering batting, RCB posted the highest-ever playoff...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-qualifier-1-ipl-cricket-match-score-live-updates-today-at-hpca-stadium-dharamsala-virat-kohli-bhuvneshwar-kumar-shubman-gill-sai-sudharsan-1042537",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-pitch-report-how-will-surface-at-hpca-stadium-in-dharamsala-play-2026-05-26-1042514",
     "time": "2026-05-26T09:52:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 battles that can decide the outcome of this contest",
-    "desc": "Royal Challengers Bengaluru and Gujarat Titans will battle it out in Qualifier 1 of the Indian Premier League 2026 as a spot in the final remains up for grabs. RCB have looked like a team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-ipl-2026-qualifier-3-battles-that-can-decide-the-outcome-of-this-contest-2026-05-26-1042509",
-    "time": "2026-05-26T09:41:20.000Z"
   }
 ];

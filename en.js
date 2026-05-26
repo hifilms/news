@@ -1,6 +1,69 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Shahana opens up on open relationships, multiple partners",
+    "desc": "Shahana Goswami has candidly spoken about her evolving views on love, open relationships, multiple partners and physical intimacy following her breakup with Milind Soman. During a recent conversation, the actress reflected on heartbreak, emotional freedom and unconventional relationship dynamics. The actress also admitted that she no longer believes in the idea of having one “primary” partner.",
+    "img": "https://static.toiimg.com/photo/msid-131337094,imgsize-45018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahana-goswami-on-open-relationships-multiple-partners-after-breakup-with-milind-soman-i-dont-believe-in-control-or-rules-in-love/articleshow/131336921.cms",
+    "time": "2026-05-26T19:48:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'm not worried about ... ': Rajat Patidar after RCB storm into IPL final",
+    "desc": "Rajat Patidar's explosive 93 off 33 balls, featuring 9 sixes, propelled Royal Challengers Bengaluru to a record 254/5 and a dominant 92-run victory over Gujarat Titans. This commanding performance secured RCB's spot in their second consecutive IPL final, showcasing a fearless, attacking mindset.",
+    "img": "https://static.toiimg.com/photo/msid-131336736,imgsize-39808.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/im-not-worried-about-my-wicket-rajat-patidar-after-rcb-storm-into-ipl-2026-final/articleshow/131336750.cms",
+    "time": "2026-05-26T19:13:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 Qualifier 1",
+    "desc": "The skipper smashes an unbeaten 93 off just 33 balls as the defending champion racks up 254 for five, the highest score ever in a playoff game; GT gets bundled out for 162 in its reply",
+    "img": "https://th-i.thgim.com/public/incoming/tpftc0/article71026345.ece/alternates/LANDSCAPE_1200/IPL%202026%20GT%20vs%20RCB%2040.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/gujarat-titans-elect-to-bowl-against-rcb-in-qualifier-1/article71025758.ece",
+    "time": "2026-05-26T19:12:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Would like to forget': Shubman Gill admits Gujarat Titans' nightmare",
+    "desc": "Gujarat Titans suffered a crushing defeat against Royal Challengers Bengaluru in IPL 2026 Qualifier 1, failing to chase a record 254/5. Skipper Shubman Gill admitted the team's fielding and bowling were below par, leading to a heavy loss. GT now heads to Qualifier 2 after RCB secured a direct final spot.",
+    "img": "https://static.toiimg.com/photo/msid-131336234,imgsize-29050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/would-like-to-forget-shubman-gill-admits-gujarat-titans-nightmare-vs-rcb-in-ipl-2026-qualifier-1/articleshow/131336113.cms",
+    "time": "2026-05-26T18:43:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahana recalls dating Milind, who was 21 years older than her",
+    "desc": "Shahana Goswami has spoken candidly about her past relationship with actor-model Milind Soman, years before he married Ankita Konwar in 2018. In a recent interaction, Shahana recalled how she first connected with Milind as a teenage fan and reflected on why their relationship eventually came to an end.",
+    "img": "https://static.toiimg.com/photo/msid-131335505,imgsize-31670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahana-goswami-recalls-love-story-with-milind-soman-who-was-21-years-older-than-her-till-the-very-end-we-were-in-love/articleshow/131335443.cms",
+    "time": "2026-05-26T18:20:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rebel AIADMK MLA Balakrishna Reddy backs EPS, submits apology letter amid party turmoil",
+    "desc": "AIADMK faces internal turmoil as Hosur MLA P Balakrishna Reddy backs Edappadi K Palaniswami, signaling a potential truce. This follows multiple rebel MLAs submitting apology letters to avoid disqualification after voting against party lines. The party's strength in the Assembly has dwindled due to recent resignations, intensifying a 'horse-trading' row.",
+    "img": "https://static.toiimg.com/photo/msid-131334733,imgsize-845916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-political-crisis-rebel-aiadmk-mla-balakrishna-reddy-backs-eps-submits-apology-letter-amid-party-turmoil/articleshow/131334538.cms",
+    "time": "2026-05-26T17:45:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government softens stance on repossession of Delhi Gymkhana Club premises",
+    "desc": "The Centre clarified in Delhi High Court that June 5 was an \"option\" for the Delhi Gymkhana Club to vacate, not a forced handover. This statement offered relief to club members and employees after a previous letter indicated a forceful repossession for defence purposes. The government's revised stance suggests a more restrained approach to the club's eviction.",
+    "img": "https://static.toiimg.com/photo/msid-131334578,imgsize-1600096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-softens-stance-on-repossession-of-delhi-gymkhana-club-premises/articleshow/131334567.cms",
+    "time": "2026-05-26T17:39:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Zoya calls robbery at her production office an ‘internal job’",
     "desc": "Zoya Akhtar has spoken out about the alleged hard disk theft at Tiger Baby Films, the banner she co-founded with filmmaker Reema Kagti. The case, involving the reported disappearance of 66 hard disks containing crucial production material, has triggered concern in the entertainment industry.",
     "img": "https://static.toiimg.com/photo/msid-131334378,imgsize-36444.cms",
@@ -75,7 +138,7 @@ const newsData_en = [
     "cat": "Sports",
     "title": "RCB create massive record, register highest total in IPL playoffs history",
     "desc": "Royal Challengers Bengaluru achieved a record-breaking score of 254/5 against Gujarat Titans in IPL Qualifier 1. This marks the highest total ever in IPL playoff history. Rajat Patidar led the charge with an unbeaten 93 off 33 balls. Virat Kohli and Krunal Pandya also contributed significantly to the massive total.",
-    "img": "https://static.toiimg.com/photo/msid-131332805,imgsize-75860.cms",
+    "img": "https://static.toiimg.com/photo/msid-131332798,imgsize-75860.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rcb-create-massive-record-register-highest-total-in-ipl-playoffs-history/articleshow/131332798.cms",
     "time": "2026-05-26T16:04:20.000Z"
@@ -459,24 +522,6 @@ const newsData_en = [
     "time": "2026-05-26T10:54:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Clear violation': In letter to PM Modi, Tamil Nadu CM Vijay urges stop Karnataka’s Mekedatu dam project",
-    "desc": "Tamil Nadu Chief Minister M.K. Stalin urged Prime Minister Narendra Modi to block Karnataka's Mekedatu dam project, citing a Supreme Court violation. Stalin emphasized safeguarding state rights and farmers' welfare, following Karnataka's deputy chief minister's announcement of submitting the Detailed Project Report soon. This dispute over Cauvery river water is a long-standing issue.",
-    "img": "https://static.toiimg.com/photo/msid-131327349,imgsize-41982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/clear-violation-in-letter-to-pm-modi-tamil-nadu-cm-vijay-urges-stop-karnatakas-mekedatu-dam-project/articleshow/131327353.cms",
-    "time": "2026-05-26T10:43:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Infiltration a major challenge': Amit Shah says panel on 'unnatural demographic change' set up",
-    "desc": "The government has formed a high-level committee to investigate demographic shifts in India, driven by illegal immigration and other \"unnatural causes.\" Chaired by retired Justice Prakash Prabhakar Naoleker, the panel will assess population changes, analyze abnormal shifts across communities, and propose solutions. This initiative follows Prime Minister Modi's concerns about demographic changes impacting national security and social structures.",
-    "img": "https://static.toiimg.com/photo/msid-131327288,imgsize-678713.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/infiltration-a-major-challenge-amit-shah-says-panel-on-unnatural-demographic-change-set-up/articleshow/131327194.cms",
-    "time": "2026-05-26T10:40:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Counterfeit bars, coins flood Indian markets",
     "desc": "Rising silver prices are fueling a surge of impure silver bars and coins in India, prompting calls for mandatory BIS hallmarking and licensing for refiners. Industry experts report widespread use of scrap silver containing prohibited elements, with limited quality testing infrastructure exacerbating concerns. Commodity exchanges are preparing to introduce quality-certified silver bars to standardize supply and enhance market trust.",
@@ -484,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/silver-rally-comes-with-a-dark-shine-counterfeit-bars-coins-flood-indian-markets/articleshow/131326060.cms",
     "time": "2026-05-26T10:39:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Song lyrics of the day by Jennifer Lopez",
-    "desc": "Jennifer Lopez, a multifaceted icon, continues to captivate audiences with her enduring music and acting career. Her song 'On My Way' from 'Marry Me' reflects a journey of overcoming heartbreaks to find hope and true connection. Lopez's 2011 hit 'On the Floor' recently resurged in popularity, and she is set to star in the upcoming Netflix romantic-comedy 'Office Romance'.",
-    "img": "https://static.toiimg.com/photo/msid-131327199,imgsize-22616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/song-lyrics-of-the-day-by-jennifer-lopez-and-every-heartbreak-was-a-yellow-brick-road-/articleshow/131327201.cms",
-    "time": "2026-05-26T10:37:50.000Z"
   },
   {
     "cat": "Sports",
@@ -522,24 +558,6 @@ const newsData_en = [
     "time": "2026-05-26T09:45:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Speaker accepts fourth MLA’s resignation in a fresh setback; party strength drops to 43",
-    "desc": "Tamil Nadu Assembly Speaker accepted AIADMK MLA Esakki Subaya's resignation, marking the fourth such departure in two days. This escalates internal turmoil within the opposition party, reducing its strength. Allegations of 'horse-trading' are rife as defectors join the ruling party, prompting AIADMK to threaten legal action if resignations aren't scrutinized.",
-    "img": "https://static.toiimg.com/photo/msid-131326192,imgsize-811874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aiadmk-political-crisis-speaker-accepts-fourth-mlas-resignation-in-a-fresh-setback-party-strength-drops-to-43/articleshow/131326096.cms",
-    "time": "2026-05-26T09:44:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Suvendu govt announces Rs 5 fish-rice meals, liquor ban near schools and temples",
-    "desc": "West Bengal Chief Minister Suvendu Adhikari unveiled significant welfare initiatives, including subsidised fish-rice meals for Rs 5 at 400 canteens and Rs 3,000 monthly financial aid for women under the Annapurna Yojana. New regulations will restrict liquor shops within a kilometre of educational and religious sites, reinforcing a commitment to the rule of law over personal rule.",
-    "img": "https://static.toiimg.com/photo/msid-131326162,imgsize-79742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-suvendu-govt-announces-rs-5-fish-rice-meals-liquor-ban-near-schools-and-temples/articleshow/131326171.cms",
-    "time": "2026-05-26T09:41:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ashoke Pandit on Ranveer's 'Don 3' row: 'Not a BAN'",
     "desc": "The Federation of Western India Cine Employees (FWICE) has issued a non-cooperation directive against Ranveer Singh over his exit from 'Don 3', citing a Rs 45 crore pre-production loss for producer Farhan Akhtar. FWICE clarifies it's not a ban, but a call for members not to work with the actor until the dispute is resolved. Read on to know more in detail.",
@@ -556,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/mikel-artetas-arsenal-a-winning-machine-that-never-ran-out-of-steam/article71018932.ece",
     "time": "2026-05-26T09:19:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kate Hudson fumes with anger after being dragged in drama",
-    "desc": "Actress Kate Hudson is reportedly furious after being wrongly implicated in the past drama between Lance Armstrong and Sheryl Crow. Despite social media speculation, sources insist Hudson was not involved in their 2006 split, as her relationship with Armstrong began much later. She feels unfairly dragged into a narrative that doesn't involve her.",
-    "img": "https://static.toiimg.com/photo/msid-131325726,imgsize-36382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kate-hudson-fumes-with-anger-after-being-dragged-into-lance-armstrong-sheryl-crow-drama-people-instantly-assumed-it-was-her/articleshow/131325737.cms",
-    "time": "2026-05-26T09:11:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -657,15 +666,6 @@ const newsData_en = [
     "time": "2026-05-26T05:06:32.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India, Canada eye 'game changer' deal; aim to triple bilateral trade to $50 billion by 2030",
-    "desc": "India and Canada are accelerating free trade agreement negotiations, aiming to boost bilateral trade to $50 billion by 2030. Both nations are committed to deepening economic ties, with a \"Team Canada\" business delegation set to visit India later this year to explore new opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-131321572,imgsize-1085766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-canada-eye-game-changer-deal-aim-to-triple-bilateral-trade-to-50bn-by-2030/articleshow/131321554.cms",
-    "time": "2026-05-26T04:49:02.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump demands widespread sign-up to Abraham Accords as part of Iran peace deal",
     "desc": "“After all the work done by the United States to try and pull this very complex puzzle together, it should be mandatory that all of these Countries, at a minimum, simultaneously, sign onto the Abraham Accords”",
@@ -673,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-demands-widespread-sign-up-to-abraham-accords-as-part-of-iran-peace-deal/article71021478.ece",
     "time": "2026-05-26T03:57:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Away from Kohli vs Gill, Bhuvi vs Siraj may decide the contest",
-    "desc": "Amid the Virat Kohli–Shubman Gill spotlight and Dharamsala’s batting-friendly conditions, IPL Qualifier 1 could be decided not by the big hitters but by the bowlers. With both Gujarat Titans and Royal Challengers Bengaluru boasting disciplined and in-form attacks featuring Bhuvneshwar Kumar, Mohammed Siraj, Kagiso Rabada and Rashid Khan, the battle for early breakthroughs and composure in key overs may determine who books a direct ticket to the final.",
-    "img": "https://static.toiimg.com/photo/msid-131320524,imgsize-56026.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-qualifier-1-away-from-virat-kohli-vs-shubman-gill-spotlight-bhuvneshwar-kumar-vs-mohammed-siraj-may-decide-the-contest/articleshow/131320373.cms",
-    "time": "2026-05-26T02:47:42.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
