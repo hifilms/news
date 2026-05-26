@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will star opener play for RCB in Qualifier 1 against GT? Rajat Patidar opens up",
+    "desc": "Royal Challengers Bengaluru are fretting over Phil Salt's availability for their Qualifier 1 against the Gujarat Titans on May 26, as the opening batter is up against time for the Dharamsala clash. Salt had suffered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-injury-update-will-star-opener-play-for-rcb-in-qualifier-1-against-gt-rajat-patidar-opens-up-2026-05-26-1042447",
+    "time": "2026-05-26T01:59:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sri Lanka announces squads for multi-format series against WI, Kusal Mendis handed white-ball captaincy",
     "desc": "SLC (Sri Lanka Cricket) recently came forward and announced their squads for the upcoming multi-format series against the West Indies. It is worth noting that Sri Lanka will take on the Windies across three ODIs...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/if-they-continue-this-way-they-have-strong-chance-to-win-ipl-ex-india-pacer-picks-tournaments-contenders-2026-05-25-1042381",
     "time": "2026-05-25T09:21:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia head coach backs ageing Cummins, Starc, Hazlewood to play ODI World Cup 2027",
-    "desc": "Australia head coach Andrew McDonald has put his weight behind the star Aussie trio of Pat Cummins, Mitchell Starc and Josh Hazelwood for the ODI World Cup 2027, stating that the Australian think tank has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-head-coach-backs-ageing-cummins-starc-hazlewood-to-play-odi-world-cup-2027-2026-05-25-1042379",
-    "time": "2026-05-25T08:44:23.000Z"
   }
 ];
