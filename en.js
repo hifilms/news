@@ -1,6 +1,24 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Kit Harington hints at Jon Snow series revival",
+    "desc": "Fans of the 'Game of Thrones' universe have a glimmer of hope as actor Kit Harington suggests the Jon Snow spin-off isn't entirely dead. He revealed that while development attempts were made, the team paused the project, unable to find a compelling story.",
+    "img": "https://static.toiimg.com/photo/msid-131337498,imgsize-232908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kit-harington-hints-at-jon-snow-series-revival-says-game-of-thrones-spin-off-could-be-picked-up-again/articleshow/131337287.cms",
+    "time": "2026-05-26T21:53:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat rushes to hug Anushka after RCB storm into IPL 2026 final",
+    "desc": "Virat Kohli and Anushka Sharma once again melted hearts online after Royal Challengers Bengaluru (RCB) stormed into the IPL 2026 final with a dominant win over Gujarat Titans (GT) in Qualifier 1 at Dharamsala on Tuesday. Moments after RCB secured their place in the final, Virat was seen rushing towards the stands to embrace Anushka Sharma in a heartfelt hug.",
+    "img": "https://static.toiimg.com/photo/msid-131337213,imgsize-37490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-rushes-to-hug-anushka-sharma-after-rcb-storm-into-ipl-2026-final-fans-call-it-pure-love/articleshow/131337207.cms",
+    "time": "2026-05-26T20:20:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Shahana opens up on open relationships, multiple partners",
     "desc": "Shahana Goswami has candidly spoken about her evolving views on love, open relationships, multiple partners and physical intimacy following her breakup with Milind Soman. During a recent conversation, the actress reflected on heartbreak, emotional freedom and unconventional relationship dynamics. The actress also admitted that she no longer believes in the idea of having one “primary” partner.",
     "img": "https://static.toiimg.com/photo/msid-131337094,imgsize-45018.cms",
@@ -142,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rcb-create-massive-record-register-highest-total-in-ipl-playoffs-history/articleshow/131332798.cms",
     "time": "2026-05-26T16:04:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mundamveli residents lay day-long siege to GCDA office",
-    "desc": "Residents raise fresh concerns over the alleged violation of mandatory distance norms separating the 110 kV EHT line passing through their neighbourhood from the twin towers. They allege that the construction has put lives and properties at risk",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/mundamveli-residents-lay-day-long-siege-to-gcda-office/article71025302.ece",
-    "time": "2026-05-26T16:03:52.000Z"
   },
   {
     "cat": "Politics",
@@ -423,24 +432,6 @@ const newsData_en = [
     "time": "2026-05-26T12:42:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Uninterrupted flow of global commerce’: Quad launches Indo-Pacific energy security framework amid Hormuz crisis",
-    "desc": "The Quad nations have launched a new energy security framework for the Indo-Pacific, focusing on strategic fuel reserves and emergency response to counter supply disruptions. This initiative, announced after a meeting in New Delhi, also emphasizes maritime surveillance, critical minerals cooperation, and trusted infrastructure projects, aiming to bolster regional stability and economic resilience.",
-    "img": "https://static.toiimg.com/photo/msid-131329752,imgsize-1115781.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uninterrupted-flow-of-global-commerce-quad-launches-indo-pacific-energy-security-framework-amid-hormuz-crisis/articleshow/131329617.cms",
-    "time": "2026-05-26T12:34:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No reality': Congress says no tussle between Siddaramaiah, DKS for Karnataka CM post",
-    "desc": "Congress dismissed speculation of a power tussle between Karnataka CM Siddaramaiah and Deputy CM DK Shivakumar. Party leaders stated discussions focused solely on upcoming Rajya Sabha and Legislative Council elections. The high command has intervened previously to manage tensions between the two leaders.",
-    "img": "https://static.toiimg.com/photo/msid-131329455,imgsize-80454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/only-speculation-no-reality-at-all-on-cm-post-tussle-congress-high-command-maintains-status-quo-in-karnataka/articleshow/131329503.cms",
-    "time": "2026-05-26T12:23:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kajol recalls 'Fanaa' shoot with Aamir Khan in minus 27 degrees",
     "desc": "Kajol looked back at the arduous two decades since 'Fanaa' premiered, recalling a particularly chilling moment during filming in Poland when the mercury dipped to minus 27 degrees Celsius. While she shivered in a light salwar kameez on a vast, frozen lake, Aamir Khan remained comfortably warm in his thick attire.",
@@ -459,42 +450,6 @@ const newsData_en = [
     "time": "2026-05-26T11:53:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mouni Roy mysteriously deletes sweet post for Disha Patani amid trolling",
-    "desc": "Mouni Roy's loving shout-out to Disha Patani, affectionately referring to her as a 'little sister,' delighted fans online, only to be quickly deleted. This tender exchange coincides with news of Mouni's split from Suraj Nambiar, who has publicly denied any allegations of issues or third-party entanglements, asking for privacy as they navigate this personal chapter.",
-    "img": "https://static.toiimg.com/photo/msid-131328845,imgsize-165858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mouni-roy-mysteriously-deletes-sweet-post-for-disha-patani-amid-trolling-backlash-missing-my-lil-sister-come-back-soon/articleshow/131328791.cms",
-    "time": "2026-05-26T11:49:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tusshar Kapoor on 'Golmaal 5' update: 'It’s been a joyride'",
-    "desc": "Tusshar Kapoor revealed 'Golmaal 5' shoot is nearly complete, with 80-90% done. He praised director Rohit Shetty's dedication and shared excitement about working with Akshay Kumar again. Kapoor also detailed how his iconic silent character, Lucky, evolved with vocalizations and a 'bada**' attitude, a concept still loved by fans.",
-    "img": "https://static.toiimg.com/photo/msid-131328690,imgsize-9576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tushar-kapoor-drops-massive-update-on-golmaal-5-and-reuniting-with-rohit-shetty-and-akshay-kumar-its-been-a-joyride/articleshow/131328690.cms",
-    "time": "2026-05-26T11:47:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Key accused used fake identity online to procure explosive materials, set up lab at Al Falah",
-    "desc": "NIA probe into the Red Fort blast reveals the prime accused, Dr. Umer Un Nabi, used a fake identity on IndiaMART to procure chemicals and set up a makeshift lab in Faridabad. He experimented with explosive materials, including a specialized anode, learning techniques from radical literature to produce dangerous substances.",
-    "img": "https://static.toiimg.com/photo/msid-131328400,imgsize-475490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/red-fort-car-blast-key-accused-used-fake-identity-online-to-procure-explosive-materials-set-up-lab-at-al-falah/articleshow/131328369.cms",
-    "time": "2026-05-26T11:30:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Jaldi jaldi bhago nahi toh…’ : Bengal CM Suvendu Adhikari warns illegal Bangladeshis, seeks fast deportation",
-    "desc": "West Bengal Chief Minister Suvendu Adhikari urged authorities to expedite the deportation of alleged illegal Bangladeshi nationals gathered at the Hakimpur checkpoint. He emphasized the state's 'detect, delete and deport' policy, aiming to remove infiltrators and protect Indian citizens.",
-    "img": "https://static.toiimg.com/photo/msid-131328287,imgsize-486776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jaldi-jaldi-bhago-nahi-toh-bengal-cm-suvendu-adhikari-warns-illegal-bangladeshis-seeks-fast-deportation/articleshow/131328040.cms",
-    "time": "2026-05-26T11:25:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "Highlights of Quad Foreign Ministers’ meeting",
     "desc": "The Quad grouping has announced major new initiatives to strengthen cooperation across the Indo-Pacific. At a meeting in New Delhi, chaired by External Affairs Minister S. Jaishankar, leaders from India, the United States, Australia, and Japan came together to address growing strategic challenges in the region. We look at the key announcements.",
@@ -511,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/union-bank-plans-rs-8000-crore-fund-raise-board-clears-rs-3000-crore-equity-issue/articleshow/131327290.cms",
     "time": "2026-05-26T10:58:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jamiat chief urges Muslims to avoid prohibited animal sacrifice, social media posts on slaughtered animals",
-    "desc": "Jamiat Ulama-i-Hind chief Maulana Arshad Madani urged Muslims to avoid sacrificing prohibited animals and advised caution during Eid-ul-Azha. He suggested consulting authorities if buffalo sacrifice faces obstruction and to avoid social media displays of slaughtered animals. Former VP Hamid Ansari echoed Madani's call to not slaughter cows and proposed declaring the cow the national animal.",
-    "img": "https://static.toiimg.com/photo/msid-131327578,imgsize-929083.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jamiat-chief-urges-muslims-to-avoid-prohibited-animal-sacrifice-social-media-posts-on-slaughtered-animals/articleshow/131327509.cms",
-    "time": "2026-05-26T10:54:24.000Z"
   },
   {
     "cat": "Business",
@@ -655,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status-calls-south-most-hostile/article70778208.ece",
     "time": "2026-05-26T05:21:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee slips to 95.43 against US dollar as hope for Middle East peace dims",
-    "desc": "The Indian Rupee experienced a dip early Tuesday, influenced by strong US dollar demand and rising crude oil prices. Geopolitical tensions and fresh attacks against Iran are impacting market sentiment. While the Reserve Bank of India's interventions are expected to stabilize the currency, ongoing peace talks and oil price fluctuations remain key factors to watch.",
-    "img": "https://static.toiimg.com/photo/msid-131322052,imgsize-1696377.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-slips-to-95-43-against-us-dollar-as-hope-for-middle-east-peace-dims/articleshow/131322037.cms",
-    "time": "2026-05-26T05:06:32.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
