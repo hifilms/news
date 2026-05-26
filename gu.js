@@ -1,5 +1,158 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ઠુકરા કે મેરા પ્યાર, મેરા ... ગર્લફ્રેન્ડ દ્વારા મળેલા દગા બાદ કર્યું એવું કામ, થઈ રહ્યા છે વખાણ !",
+    "desc": "ગોરખપુરના ઉત્કર્ષ શ્રીવાસ્તવને તેમણે તેમના અંગત જીવનમાં એક મુશ્કેલ પડકાર, બ્રેકઅપનો સામનો કરવો પડ્યો, પરંતુ તેમણે તે પીડાને પોતાની પ્રેરણામાં ફેરવી દીધી. તેની મહેનતની ચર્ચા આજે પણ પણ જિલ્લામાં થઈ રહી છે અને લોકો તેની મિશાલ આપી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/know-what-utkarsh-shrivastava-of-gorakhpur-did-after-being-cheated-by-his-girlfriend-479337 ",
+    "time": "2026-05-26T15:52:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ચાંદી ખરીદનારાઓ સાવધાન! BISએ આપી ચેતવણી, જરૂર વાંચો આ રિપોર્ટ",
+    "desc": "ભારતમાં ચાંદીના વધતા ભાવ અને રોકાણની માંગ વચ્ચે, એક રિપોર્ટ બહાર આવ્યો છે. ઉદ્યોગ એક્સપર્ટ કહે છે કે ઘણા ચાંદીના બાર, સિક્કા અને દાગીના 999 શુદ્ધતા ધોરણને પૂર્ણ કરતા નથી અને તેમાં નિકલ અને સીસા જેવા પ્રતિબંધિત તત્વો હોય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/silver-buyers-beware-bis-warns-must-read-this-report-479335 ",
+    "time": "2026-05-26T14:25:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કર્ણાટકમાં સિદ્ધારમૈયાના શાસનનો અંત? કોંગ્રેસ હાઈકમાન્ડે આપ્યો આદેશ, આગળ શું?",
+    "desc": "કર્ણાટકમાં ચાલી રહેલા હાઈ વોલ્ટેજ ડ્રામાનો અંત આવ્યો હોય તેવું લાગી રહ્યું છે. એવા અહેવાલ છે કે કર્ણાટકને નવા મુખ્યમંત્રી મળવા જઈ રહ્યા છે, જ્યારથી સિદ્ધારમૈયાએ કર્ણાટકના CMનું પદ સંભાળ્યું ત્યારથી વિવાદ ચાલી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/end-of-siddaramaiahs-rule-in-karnataka-congress-high-command-has-given-an-order-what-next-479328 ",
+    "time": "2026-05-26T13:47:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "આ છે સૌથી સસ્તો પ્લાન! માત્ર 51 રૂપિયામાં 28 દિવસ સુધી મળશે દરરોજ 2GB ડેટા અને અનલિમિટેડ કોલની મજા",
+    "desc": "BSNLના 51 રૂપિયાવાળા પ્રીપેડ પ્લાનમાં અનલિમિટેડ વોઇસ કોલિંગ, રોજ 2GB ડેટા અને દરરોજ 100 SMS મળે છે. યુઝર્સને સિમ કાર્ડ મફત આપવામાં આવે છે. આ પ્રીપેડ પ્લાનની વેલિડિટી 28 દિવસની છે. નોંધનીય છે કે, આ ઓફર મર્યાદિત સમય માટે જ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/this-is-the-cheapest-plan-for-just-rs-51-you-will-get-2gb-data-and-unlimited-calls-every-day-for-28-days-479327 ",
+    "time": "2026-05-26T13:31:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ફરી ભડક્યું યુદ્ધ? હોર્મૂઝ સ્ટ્રેટ પાસે થયેલા વિસ્ફોટે દુનિયાનું ધ્યાન ખેંચ્યું, જાણી લો શું છે આ મામલો",
+    "desc": "શું અમેરિકા અને ઈરાન વચ્ચે ફરી એકવાર યુદ્ધ ભડકવાનું છે? શું મિડલ ઈસ્ટ ફરી એકવાર જંગની કગાર પર છે? આવા તમામ સવાલ છે, જે ફરી લોકોના મનમાં ઉઠી રહ્યા છે. જેનું કારણ છે ઈરાનની મિસાઈલ સાઈટ પર થયેલો હુમલો. આ હુમલો કોણે અને શા માટે કર્યો, ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-iran-conflict-war-broke-out-again-the-explosion-near-the-strait-of-hormuz-caught-the-world-attention-know-what-this-matter-is-479325 ",
+    "time": "2026-05-26T12:50:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પાકિસ્તાનના PMની ફરી થઈ બેઈજ્જતી, ટ્રમ્પે શાહબાઝને બતાવી દીધી ઔકાત!",
+    "desc": "શું પાડોશી દેશ પાકિસ્તાનમાં લોકશાહી માત્ર દેખાવ પુરતી જ છે? શું ત્યાંના પ્રધાનમંત્રી શહબાઝ શરીફ માત્ર એક મહોરું જ છે? આ સવાલ ઉભા કર્યા છે દુનિયાના સૌથી શક્તિશાળી દેશના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે. જેમણે સઊદી અરબના ક્રાઉન પ્રિન્સ, યુએઈ અને તુર્કીના રાષ્ટ્રપતિનું નામ તો ઈજ્જતથી લીધું પણ વાત જ્યારે પાકિસ્તાનની આવા તો પીએમ શહબાઝ શરીફને માખીને જેમ કાઢીને ફેંકી દીધા. શું છે આ ઘટના? ચાલો વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/pakistan-pm-was-insulted-again-trump-showed-shahbaz-his-status-479323 ",
+    "time": "2026-05-26T12:24:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "તાજમહેલનું ઈરાન સાથે શું છે કનેક્શન? જેને લઈને તેહરાને અમેરિકાના વિદેશ મંત્રી પર કર્યો કટાક્ષ",
+    "desc": "તાજમહેલનું ઈરાન કનેક્શન તેની ફારસી વાસ્તુકલા અને મુમતાજ મહલના ઈરાની મૂળના હોવા સાથે જોડાયેલું છે. ભારત પ્રવાસે આવેલા અમેરિકાના વિદેશ મંત્રી માર્કો રુબિયોએ તાજમહેલના વખાણ કર્યા હતા, જેના પર તેહરાને કટાક્ષ કરતા કહ્યું કે, જો તેમને ઈતિહાસની થોડી પણ જાણકારી હોત, તો તેઓ એ ફારસી અને ઈરાની વારસાની પ્રશંસા કરે છે જેને અમેરિકા સતત નિશાન બનાવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-the-connection-of-taj-mahal-with-iran-tehran-taunted-the-us-secretary-of-state-regarding-this-479311 ",
+    "time": "2026-05-26T11:25:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "દુનિયામાં સૌથી વધારે બાઈક ચલાવનારો દેશ કયો છે ? ભારતમાં વધુ વસ્તી હોવા છતાં પણ છે પાછળ, જાણો કોણ છે નંબર 1",
+    "desc": "વિશ્વના ઘણા દેશોમાં મોટરસાયકલ રોજિંદા જીવનનો એક અભિન્ન ભાગ બની ગઈ છે. એક નવા અહેવાલમાં એશિયન દેશોમાં તેમનું વર્ચસ્વ છતું થયું છે. ભારત વિશ્વના સૌથી મોટા ટુ-વ્હીલર બજારોમાંનું એક છે, જ્યાં લાખો લોકો દરરોજ બાઇક અને સ્કૂટરનો ઉપયોગ કરે છે, પરંતુ અન્ય દેશો બીજા અને ત્રીજા ક્રમે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/which-country-has-the-most-bike-riders-in-the-world-despite-having-a-large-population-india-is-still-behind-know-who-is-number-1-479308 ",
+    "time": "2026-05-26T11:17:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રાત્રે 10 વાગ્યા બાદ ટ્રેનમાં ન કરો આ 6 કામ, બાકી એક ભૂલ અને આવી જશે આફત",
+    "desc": "ટ્રેનની સફર અને રાતની ટ્રેન... બારીમાંથી આવતી ઠંડી હવા અને ટ્રેનના અવાજ વચ્ચે શાંતિથી આરામ... હંમેશા લાંબી સફર લોકો ટ્રેનમાં એટલા માટે કરે છે, જેથી આરામ કરી શકાય. પરંતુ શું તમે ક્યારેય વિચાર્યું છે કે ટ્રેનમાં રાત્રે સફર કરવાના કેટલાક નિયમ પણ હોય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/indian-railway-night-rules-for-passenger-dont-do-these-6-things-on-the-train-after-10-pm-479310 ",
+    "time": "2026-05-26T11:01:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આ રાજ્યોમાં હજુ પણ 100 રૂપિયાથી ઓછામાં વેચાઈ રહ્યું છે પેટ્રોલ, જાણો ક્યાં છે સૌથી વધુ ભાવ",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચેના તણાવ વચ્ચે દેશમાં પેટ્રોલના ભાવ સતત વધી રહ્યા છે અને ઘણા રાજ્યોમાં ભાવ પ્રતિ લિટર 100 રૂપિયાને વટાવી ગયા છે. ત્યારે કેટલીક જગ્યાએ હજુ પણ પેટ્રોલ 100 રૂપિયાથી ઓછામાં વેચાઈ રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-petrol-is-selling-for-under-100-in-these-states-479309 ",
+    "time": "2026-05-26T10:56:48.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ભારતની સૌથી સસ્તી EV ખરીદવાનો છે પ્લાન? જાણો 5 મોટી વાતો, રેન્જ 230 કિમી",
+    "desc": "MG Comet EV ભારતની સૌથી સસ્તી કોમ્પેક્ટ ઈલેક્ટ્રિક કારમાં સામેલ છે, જે ખાસ કરી શહેરના ટ્રાફિકથી ભરેલા રસ્તા માટે બનાવવામાં આવી છે. તેની કિંમત 7.62 લાખ રૂપિયાથી શરૂ થઈ 9.99 લાખ રૂપિયા સુધી જાય છે. BaaS પ્લાન દ્વારા તેની શરૂઆતી કિંમત ઘટાડી શકાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/mg-comet-ev-is-india-cheapest-electric-car-know-its-price-and-features-479303 ",
+    "time": "2026-05-26T10:16:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જૂન મહિનામાં 13 દિવસ બંધ રહેશે બેંકો, જાણી લો કઈ-કઈ તારીખે અને કેમ રહેશે રજા?",
+    "desc": "જૂન મહિનો શરૂ થવા જઈ રહ્યો છે અને રિઝર્વ બેંક ઓફ ઇન્ડિયા (RBI) દ્વારા બેંક રજાઓની યાદી જાહેર કરી દેવામાં આવી છે. જો તમારું બેંકને લગતું કોઈ કામ બાકી હોય, તો આ રજાઓનું લિસ્ટ જોઈને જ તમારું પ્લાનિંગ કરજો જેથી બેંક ધક્કો ન થાય. ચાલો જાણીએ જૂન મહિનામાં બેંકો ક્યારે-ક્યારે બંધ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bank-holidays-banks-to-remain-closed-for-13-days-in-june-which-dates-will-be-holidays-during-the-30-day-month-479301 ",
+    "time": "2026-05-26T09:36:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સવાર કે રાત્રે, પેટ્રોલ કે ડીઝલ ભરવાનો બેસ્ટ સમય કયો છે? જાણો આ વાયરલ દાવા પાછળનું સત્ય!",
+    "desc": "પેટ્રોલ અને ડીઝલના વધતા ભાવ વચ્ચે, સોશિયલ મીડિયા પર એક જૂનો દાવો ફરી ચર્ચામાં આવી રહ્યો છે. વાયરલ થયેલા દાવામાં દાવો કરવામાં આવ્યો છે કે વહેલી સવારે અથવા મોડી રાત્રે ઇંધણ ભરવાથી વધુ ઇંધણ મળે છે અને પૈસાની બચત થાય છે. કારણ એ આપવામાં આવ્યું છે કે ઠંડા હવામાનમાં ઇંધણ વધુ ઘટ્ટ હોય છે. પરંતુ શું આ ખરેખર સાચું છે? ચાલો સત્ય શોધી કાઢીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/what-is-the-best-time-to-fill-up-petrol-or-diesel-morning-or-night-know-the-truth-behind-this-viral-claim-479299 ",
+    "time": "2026-05-26T09:31:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ધર્મશાળાથી આવ્યા ચિંતાજનક સમાચાર, આજની મેચ પર મંડરાઈ રહ્યો છે મોટો ખતરો !",
+    "desc": "ધર્મશાલામાં યોજાનારી IPL 2026ની ક્વોલિફાયર-1માં RCB અને ગુજરાત ટાઇટન્સ વચ્ચેની મેચ પર વરસાદનો ખતરો મંડરાઈ રહ્યો છે. ધર્મશાલામાં હવામાન ખરાબ હોવાથી ગુજરાત ટાઇટન્સ ટીમ ચિંતિત છે. જો વરસાદ મેચમાં વિક્ષેપ પાડે છે, તો કોણ ફાઇનલમાં પહોંચશે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-qualifier-1-rcb-vs-gt-dharamshala-weather-report-rain-prediction-479297 ",
+    "time": "2026-05-26T09:14:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ફટાફટ પતાવી લો બેંકનું કામ ! 27 અને 28 મેના રોજ બંધ રહેશે બેંકો, જાણો શું છે કારણ",
+    "desc": "બકરી ઈદ 2026ની બેંક રજાને લઈને મૂંઝવણ ઊભી થઈ છે. કેટલાક રાજ્યોમાં 27 મેના રોજ બેંકો બંધ રહેશે, જ્યારે મહારાષ્ટ્ર, તેલંગાણા સહિતના કેટલાક રાજ્યોમાં 28 મેના રોજ રજા રહેશે. ત્યારે આ લેખમાં જાણીશું કે તમારા વિસ્તારમાં બકરી ઈદની રજા ક્યારે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bakrid-2026-bank-holidays-will-bank-closed-on-27-or-28-may-2026-479294 ",
+    "time": "2026-05-26T08:25:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટ્રમ્પની 3 મોટી શરતો, જેના કારણે અટક્યો છે ઈરાન-અમેરિકાનો શાંતિ કરાર, જાણો",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે ઐતિહાસિક શાંતિ કરાર પર હસ્તાક્ષર કરવામાં અડંગો ઉભો થયો છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ દ્વારા લગાવવામાં આવેલી કેટલીક નવી અને કડક શરતોને કારણે કરારની સમયમર્યાદા હવે જોખમમાં મુકાઈ ગઈ છે. જાણો ટ્રમ્પની કઈ શરતો સમસ્યાનું કારણ બની રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-3-big-conditions-due-to-which-the-iran-us-peace-agreement-has-been-stalled-know-479295 ",
+    "time": "2026-05-26T08:23:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદીના ભાવમાં કડાકો ! ચાંદી એક જ ઝાટકે 4400 રૂપિયા ઘટી... સોનું પણ થયું સસ્તું, જાણો નવા ભાવ",
+    "desc": "મંગળવારે ફ્યુચર્સ ટ્રેડિંગ શરૂ થતાં જ સોના અને ચાંદીના ભાવમાં ઘટાડો થયો હતો. ખાસ કરીને ચાંદીમાં એક જ ઝાટકે 4,400 રૂપિયાથી વધુનો ઘટાડો થયો હતો અને હવે તે ઓલ ટાઈમ હાઈથી પ્રતિ કિલોગ્રામ ₹1.85 લાખ સસ્તી મળી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/silver-price-crash-gold-also-down-check-gold-silver-rate-today-479290 ",
+    "time": "2026-05-26T07:24:18.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ક્વોલિફાયર-1માં બદલાઈ જશે RCBની પ્લેઈંગ-11, વિરાટ સાથે કોણ કરશે ઓપનિંગ ? કેપ્ટન પાટીદારે આપ્યો જવાબ",
     "desc": "IPL 2026ની પહેલી ક્વોલિફાયરમાં RCB અને ગુજરાત ટાઇટન્સ આમને સામને હશે. સૌથી મોટો પ્રશ્ન એ છે કે આ મેચમાં વિરાટ કોહલીની સાથે RCB માટે કોણ ઓપનિંગ કરશે ? આ ઉપરાંત RCBની પ્લેઈંગ-11 કેવી હશે ? તેના વિશે આ લેખમાં જાણીશું.",
@@ -288,24 +441,6 @@ const newsData_gu = [
     "time": "2026-05-24T06:35:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "RR, PBKS કે KKR... કોણ હશે પ્લેઓફમાં પહોંચનારી ચોથી ટીમ ? આ ટીમ માટે છે સૌથી સરળ રસ્તો",
-    "desc": "IPL 2026ના પ્લેઓફમાં પહોંચનારી ચોથી ટીમ કઈ હશે ? તે મોટો પ્રશ્ન છે. પંજાબ કિંગ્સ, રાજસ્થાન રોયલ્સ, અથવા KKR આ ત્રણ ટીમોમાંથી કોઈ એક પ્લેઓફમાં પહોંચી શકે છે, ત્યારે દરેક ટીમના પ્લેઓફના સમીકરણો પર એક નજર કરીએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rr-pbks-or-kkr-who-will-be-the-fourth-team-to-reach-ipl-2026-playoffs-479058 ",
-    "time": "2026-05-24T05:42:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "નસીબ એવું પલટાયું કે, 10 હજારના પગાર સાથે શરૂઆત કરનાર 150 કરોડના ટર્નઓવરવાળી કંપનીના માલિક બન્યો",
-    "desc": "ભોપાલ રહેનારા અમિત નિગમના પારિવારિક દબાણને બાજુ પર મૂકીને પોતાની એક અલગ ઓળખ બનાવી છે. તેઓએ માત્ર 10,0000 રૂપિયાના પગારથી પોતાના કરિયરની શરૂઆત કરી હતી. આજે તેઓ 150 કરોડ રૂપિયાના ટર્નઓવરવાળી કંપનીના માલિક છે, શું છે અમિત નિગમનો બિઝનેસ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/success-story-of-amit-nigam-from-10000-rupees-salary-to-150-crore-turnover-company-479054 ",
-    "time": "2026-05-24T04:22:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "મોંઘા થઈ રહેલા પેટ્રોલ-ડીઝલથી સોનું સસ્તું કઈ રીતે? ધડાધડ ઘટાડા બાદ હવે શું છે સોનાનો ભાવ..ખાસ જાણો",
     "desc": "જ્યારથી ઈરાન યુદ્ધ શરૂ થયું છે ત્યારથી ક્રૂડ ઓઈલના ભાવમાં ભડકો અને સોના તથા ચાંદીના ભાવમાં નરમાઈનો માહોલ જોવા મળી રહ્યો છે. ત્યારે વિચાર એ આવે કે વૈશ્વિક સ્તરે અનિશ્ચતતાવાળો માહોલ હોય ત્યારે સુરક્ષિત રોકાણની માંગણી વધતી હોય છે. પરંતુ હાલ તો ઉલ્ટી ગંગા જોવા મળી રહી છે. ક્રૂડના ભાવ વધતા જાય છે અને સોનું કડાકામાં જોવા મળી રહ્યું છે.",
@@ -342,24 +477,6 @@ const newsData_gu = [
     "time": "2026-05-23T13:56:13.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સમય પહેલા લોન બંધ કરી દઈએ તો શું થાય છે? ચુકવણી કરતા પહેલા પ્રીપેમેન્ટ ચાર્જનો સંપૂર્ણ ખેલ",
-    "desc": "જો તમારા નામે લોન ચાલુ છે અને તમે તેને ફોરક્લોઝર કરવા માંગો છો, તો આ સમાચાર તમારા માટે ઉપયોગી સાબિત થઈ શકે છે. અનેક લોકો લોન ટુંકા ગાળા માટે લેવા માગે છે પણ તેમની લોન મંજૂર થતી નથી કે પછી વધારે વર્ષો પસંદ કરવામાં આવે તો જ લોન આપવામાં આવે છે. તેના કારણે પણ અનેક લોકો પૈસા ભરીને લોન વહેલા બંધ કરાવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-happens-if-we-close-the-loan-early-the-whole-prepayment-charge-game-before-repayment-479018 ",
-    "time": "2026-05-23T13:18:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભાવ વધારા બાદ પણ આ શહેરમાં 86 રૂપિયે મળી રહ્યું છે પેટ્રોલ, જાણો શું છે ડીઝલનો ભાવ",
-    "desc": "10 દિવસમાં 3 વખત પેટ્રોલ અને ડીઝલના ભાવમાં વધારો થયો છે. આજે પણ પેટ્રોલના ભાવ 87 પૈસા વધયા છે, જ્યારે ડીઝલના ભાવમાં પણ 91 પૈસાનો વધારો થયો છે. આ વધારા છતાં આ શહેરમાં પેટ્રોલ 86 રૂપિયે પ્રતિ લિટર મળી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/cheap-petrol-and-diesel-are-available-in-port-blair-even-after-price-hike-479005 ",
-    "time": "2026-05-23T12:17:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રિલીઝ થયાની સાથે જ હીટ થઈ ગઈ આ સીરીઝ, 7 એપિસોડની ક્રાઈમ થ્રિલર સીરીઝ પાછળ પાગલ થયા લોકો",
     "desc": "ક્રાઈમ થ્રિલર સીરીઝ જોવાના શોખીનો માટે zee5 પર 7 એપિસોડની જોરદાર વેબ સીરીઝ રિલીઝ થઈ છે. આ વેબ સીરીઝ રિલીઝ થયાની સાથે જ હીટ થઈ ગઈ છે. જો તમે રેટિંગને ધ્યાનમાં રાખીને પણ વેબ સીરીઝ જુઓ છો તો પણ આ વેબ સીરીઝ 9.1 રેટિંગ સાથે મસ્ટ વોચ છે.",
@@ -369,51 +486,6 @@ const newsData_gu = [
     "time": "2026-05-23T12:07:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "પોઇન્ટ્સ ટેબલમાં ટોપ પર RCB, છતાં GT બનશે ચેમ્પિયન? આંકડાઓએ વધારી બેંગલુરુ ફેન્સની ચિંતા",
-    "desc": "IPL 2026 ના લીગ સ્ટેજમાં રોયલ ચેલેન્જર્સ બેંગલુરુએ શાનદાર પ્રદર્શન કરીને પોઇન્ટ્સ ટેબલમાં પ્રથમ સ્થાન મેળવ્યું છે, જ્યારે ગુજરાત ટાઇટન્સ બીજા ક્રમે રહી છે. જોકે, IPL ઇતિહાસનો એક રસપ્રદ આંકડો આ વખતે ગુજરાતને ખિતાબનું સૌથી મોટું દાવેદાર ગણાવી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-rcb-tops-the-points-table-but-will-gt-still-as-champions-statistics-heighten-anxiety-for-bengaluru-fans-478992 ",
-    "time": "2026-05-23T11:31:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "એક પણ મેચ રમ્યા વિના IPL ફાઇનલમાં પહોંચી શકે છે RCB, જાણો કેવી રીતે થશે આ ચમત્કાર",
-    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોર એક પણ મેચ રમ્યા વિના IPL 2026ની ફાઇનલમાં પહોંચી શકે છે. RCB અને ગુજરાત ટાઇટન્સ વચ્ચે IPL 2026 ક્વોલિફાયર-1 મંગળવાર, 26 મેના રોજ રમાશે, ત્યારે આ લેખમાં જાણીશું કે, RCBને કયા સંજાગોમાં સીધી ફાઇનલની ટિકિટ મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-can-reach-ipl-2026-final-without-playing-a-single-match-know-how-this-will-happen-478991 ",
-    "time": "2026-05-23T11:21:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મેચના ગણતરીના કલાકો પહેલા પંજાબ કિંગ્સ માટે ગુડ ન્યૂઝ... LSGનો સ્ટાર બેટ્સમેન નહીં રમે છેલ્લી મેચ, જાણો શું છે કારણ",
-    "desc": "LSGનો ઓપનર મિશેલ માર્શ આ મેચમાં રમશે નહીં. માર્શ આ સિઝનમાં લખનૌ સુપર જાયન્ટ્સ માટે સૌથી વધુ રન બનાવનાર ખેલાડી છે. આ પહેલા અનુભવી બેટ્સમેન એડન માર્કરમ પણ વ્યક્તિગત કારણોસર દક્ષિણ આફ્રિકા પરત ફર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-lucknow-super-giants-vs-punjab-kings-mitchell-marsh-unavailable-478983 ",
-    "time": "2026-05-23T10:45:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અમેરિકાના વિદેશ મંત્રી માર્કો રુબિયો સાથે ભારત આવેલી શક્તિશાળી મહિલા કોણ છે? ત્રીજી વ્યક્તિ પણ છે ખૂબ જ ખાસ",
-    "desc": "અમેરિકાના વિદેશ મંત્રી માર્કો રુબિયો શનિવારે ભારતની તેમની પહેલી મુલાકાત માટે કોલકાતા પહોંચ્યા. એરપોર્ટ પર તેમનું સ્વાગત અમેરિકી રાજદૂત સર્જિયો ગોરે કર્યું. ભારતની મુલાકાતે રુબિયો સાથે આવેલા અન્ય બે શક્તિશાળી વ્યક્તિઓ કોણ છે તે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-is-the-powerful-woman-who-came-to-india-with-us-secretary-of-state-marco-rubio-the-third-person-is-also-very-special-478980 ",
-    "time": "2026-05-23T10:27:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "જો પેટ્રોલ-ડીઝલ પર GST લાગુ પડે તો દૂર થઈ જશે બધી ચિંતા, 22 રૂપિયા ઘટી જશે કિંમત",
-    "desc": "પેટ્રોલ અને ડીઝલની કિંમતોમાં છેલ્લા એક સપ્તાહમાં ત્રીજીવાર વધારો થયો છે. વધતી કિંમતો વચ્ચે આ બંને પ્રોડક્ટને જીએસટી હેઠળ લાવવાની ચર્ચા શરૂ થઈ ગઈ છે. જો તમે પણ વિચારો છો કે તેલ પર જીએસટી લાગવાથી કેટલો ફાયદો થશે, તો આવો તમને ઉદાહરણ સાથે સમજાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-prices-could-drop-by-%E2%82%B922-if-gst-is-applied-here-is-the-calculation-478977 ",
-    "time": "2026-05-23T09:57:32.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "લાઈટ બિલમાંથી છુટકારો! જાણો 1.5 ટનના AC માટે કેટલા kWની સોલર પેનલ જોઈએ?",
     "desc": "ગરમી વધતાં, ઘરોમાં 1.5 ટનના એસી સામાન્ય બની ગયા છે, જે 1.2થી 1.8 કિલોવોટ વીજળી વાપરે છે અને દરરોજ આશરે 8થી 14 યુનિટ વીજળીનો ઉપયોગ કરી શકે છે. આના કારણે વીજળીના બિલમાં ઝડપથી વધારો થયો છે, જેના કારણે ઘણા લોકો સૌર ઉર્જા તરફ વળ્યા છે. સૌર પેનલ સૂર્યપ્રકાશમાંથી વીજળી ઉત્પન્ન કરે છે, અને યોગ્ય સિસ્ટમ કદ પસંદ કરવાથી લાંબા ગાળે વીજળીના બિલમાં 70થી 90 ટકા સુધીની બચત થઈ શકે છે.",
@@ -421,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/get-rid-of-electricity-bills-find-out-how-many-kw-of-solar-panels-are-needed-for-a-1-5-ton-ac-478965 ",
     "time": "2026-05-23T09:21:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "દર મહિને 10,000ની કમાણી... પોસ્ટ ઓફિસની આ યોજના છે શાનદાર",
-    "desc": "પોસ્ટ ઓફિસ વિવિધ યોજનાઓ ચલાવે છે અને તેમાંથી એક MIS છે. આ યોજના હેઠળ, દર મહિને મોટી આવક મેળવી શકાય છે. ત્યારે આ યોજના અંતર્ગત તમે રિસ્ક વિના કેવી રીતે દર મહિને મોટી કમાણી કરી શકો છો, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/post-office-mis-scheme-regular-income-check-full-details-478956 ",
-    "time": "2026-05-23T08:38:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -601,32 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/customers-are-crazy-about-the-1-lakh-electric-bike-bookings-crossed-25000-in-15-days-range-is-180-km-478515 ",
     "time": "2026-05-19T13:17:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "8000mAh બેટરી સાથે આવી રહ્યો છે Realme 16T! મિરર સેલ્ફી કેમેરા જેવા દમદાર ફીચર્સ, કિંમત થઈ લીક",
-    "desc": "8000mAh બેટરી, 144Hz ડિસ્પ્લે અને AI કેમેરા…Realme 16T લોન્ચ થતા પહેલા જ ચર્ચામાં આવી ગયો છે. કિંમત લીક થયા બાદ હવે સ્પષ્ટ થઈ ગયું છે કે આ ફોન મિડ-રેન્જ માર્કેટમાં મોટી ટક્કર આપવા જઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/realme-16t-arriving-with-an-8000mah-battery-packed-with-impressive-features-like-a-mirror-selfie-camera-price-leaked-478472 ",
-    "time": "2026-05-19T09:35:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "WhatsApp પર કેવી રીતે રેકોર્ડ કરી શકાય છે કોઈ પણ કોલ? મોટાભાગના લોકો નથી જાણતા આ ટ્રીક",
-    "desc": "હવે WhatsApp કોલ રેકોર્ડ કરવો પહેલાં જેટલો મુશ્કેલ નથી રહ્યો. Android અને iPhone યુઝર્સ કેટલીક સરળ રીતોની મદદથી જરૂરી કોલ્સ સેવ કરી શકે છે. જો કે, રેકોર્ડિંગ કરતી વખતે પ્રાઇવસી (ગોપનીયતા) અને કાનૂની નિયમોનું ધ્યાન રાખવું ખૂબ જ જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/how-to-record-whatsapp-calls-on-android-and-iphone-whatsapp-call-record-kaise-kare-explained-478452 ",
-    "time": "2026-05-19T06:30:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ન પેટ્રોલની રામાયણ, EV ચાર્જિંગની ચિંતા નહીં... મોંઘવારીને માત દેવા આવી રહી છે, મારુતિ અને ટાટાની પહેલી ફ્લેક્સ ફ્યુઅલ કાર, જાણો",
-    "desc": "ભારતનું ઓટો ક્ષેત્ર પેટ્રોલ અને ઇલેક્ટ્રિક વાહનોથી આગળ વધીને ફ્લેક્સ-ફ્યુઅલ ટેકનોલોજી તરફ ઝડપથી આગળ વધી રહ્યું છે. મારુતિ સુઝુકી અને ટાટા મોટર્સ આ વર્ષે તેમના પ્રથમ ફ્લેક્સ-ફ્યુઅલ વાહનો લોન્ચ કરવાની તૈયારી કરી રહ્યા છે. મારુતિ ફ્રોન્ક્સ અને ટાટા પંચના ફ્લેક્સ-ફ્યુઅલ મોડેલો E85 અને E100 જેવા હાઈ-ઇથેનોલ મિશ્રણ પર ચાલી શકશે, જે સંભવિત રીતે તેલ આયાત પર નિર્ભરતા અને બળતણ ખર્ચ બંનેમાં ઘટાડો કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/no-petrol-problem-no-worries-about-ev-charging-inflation-is-coming-to-an-end-maruti-and-tata-first-flex-fuel-car-know-478375 ",
-    "time": "2026-05-18T12:21:17.000Z"
   }
 ];

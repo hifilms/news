@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Will rain spoil RCB vs GT IPL 2026 Qualifier 1 at HPCA Stadium?",
-    "desc": "Dharamsala weather will be in focus as Royal Challengers Bengaluru take on Gujarat Titans in the Qualifier 1 at the HPCA Stadium in Dharamsala on Tuesday, May 26. With the spot in the final up...",
+    "title": "Daniil Medvedev, former world number one, exits French Open in first round after defeat to Australian wildcard",
+    "desc": "Daniil Medvedev’s campaign at Roland Garros once again ended early, reinforcing a pattern that has followed him across the clay season and more broadly, recent Grand Slam events. The former world No. 1 exited the...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dharamsala-weather-will-rain-spoil-rcb-vs-gt-ipl-2026-qualifier-1-at-hpca-stadium-2026-05-26-1042469",
-    "time": "2026-05-26T05:43:31.000Z"
+    "url": "https://www.indiatvnews.com/sports/tennis/daniil-medvedev-former-world-number-one-exits-french-open-in-first-round-after-defeat-to-australian-wildcard-2026-05-26-1042569",
+    "time": "2026-05-26T16:33:55.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi above MS Dhoni, Andre Russell in major IPL record, eyes all-time feat as playoffs beckon",
-    "desc": "Rajasthan Royals' teenage sensation has been turning heads with his jaw-dropping batting outings in the Indian Premier League. The 15-year-old has been instrumental in RR's progress to the playoffs, having scored 583 runs and being...",
+    "title": "RCB set new IPL record following Rajat Patidar's 93-run onslaught against Gujarat Titans in Qualifier 1",
+    "desc": "Royal Challengers Bengaluru posted 254 runs on the board in the first innings of the Qualifier 1 against Gujarat Titans at the HPCA Stadium in Dharamsala. With that, they set the record for the highest...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-above-ms-dhoni-andre-russell-in-major-ipl-record-eyes-all-time-feat-as-playoffs-beckon-2026-05-26-1042463",
-    "time": "2026-05-26T04:51:31.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-set-new-ipl-record-following-rajat-patidar-s-93-run-onslaught-against-gujarat-titans-in-qualifier-1-2026-05-26-1042568",
+    "time": "2026-05-26T16:07:07.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Shreyas Iyer's sister blasts social media abuse on viral clip, says 'you guys are literally harassing me'",
-    "desc": "Shreyas Iyer's sister, Shresta Iyer, revealed that she has been receiving social media abuse over the video she and her team made after the Punjab Kings shared a washed-out point with the Kolkata Knight Riders,...",
+    "title": "Afghanistan announce Test, ODI squad for India series; Rashid Khan left out of red-ball game",
+    "desc": "Afghanistan have announced their squads for the upcoming tour of India. The selection has drawn significant attention after star spinner Rashid Khan was left out of the Test setup. The spinner previously noted that playing...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyers-sister-blasts-social-media-abuse-on-viral-clip-says-you-guys-are-literally-harassing-2026-05-26-1042451",
-    "time": "2026-05-26T02:51:02.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-announce-test-odi-squad-for-india-series-rashid-khan-left-out-of-red-ball-game-2026-05-26-1042558",
+    "time": "2026-05-26T14:43:21.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Will star opener play for RCB in Qualifier 1 against GT? Rajat Patidar opens up",
-    "desc": "Royal Challengers Bengaluru are fretting over Phil Salt's availability for their Qualifier 1 against the Gujarat Titans on May 26, as the opening batter is up against time for the Dharamsala clash. Salt had suffered...",
+    "title": "Why is Phil Salt not playing vs Gujarat Titans in IPL 2026 Qualifier 1?",
+    "desc": "Royal Challengers Bengaluru opener Phil Salt will miss the Qualifier 1 clash against Gujarat Titans at the HPCA Stadium in Dharamsala. The keeper-batter suffered a finger injury earlier in the season and has now been...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-injury-update-will-star-opener-play-for-rcb-in-qualifier-1-against-gt-rajat-patidar-opens-up-2026-05-26-1042447",
-    "time": "2026-05-26T01:59:14.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-phil-salt-not-playing-vs-gujarat-titans-in-ipl-2026-qualifier-1-2026-05-26-1042555",
+    "time": "2026-05-26T13:42:54.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Sri Lanka announces squads for multi-format series against WI, Kusal Mendis handed white-ball captaincy",
-    "desc": "SLC (Sri Lanka Cricket) recently came forward and announced their squads for the upcoming multi-format series against the West Indies. It is worth noting that Sri Lanka will take on the Windies across three ODIs...",
+    "title": "Former India cricketer to play Lanka Premier League after announcing retirement",
+    "desc": "Former India cricketer Vijay Shankar has signed for Kandy Royals for the upcoming Lanka Premier League. The 35-year-old announced his retirement from India cricket just last week and has already found a new destination on...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-announces-squads-for-multi-format-series-against-west-indies-kusal-mendis-handed-white-ball-captaincy-2026-05-25-1042437",
-    "time": "2026-05-25T18:24:06.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-to-play-lanka-premier-league-after-announcing-retirement-2026-05-26-1042540",
+    "time": "2026-05-26T12:26:05.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Check the schedule, venues, timings ahead of Qualifier 1",
-    "desc": "The stage is set for the playoffs of the IPL (Indian Premier League) 2026. The four sides have solidified their spot in the knockout rounds of the tournament and will begin the playoffs on May...",
+    "title": "Bengaluru shatter Gujarat's batting unit, who lose six wickets in 9 overs",
+    "desc": "Royal Challengers Bengaluru decimated Gujarat Titans in the first innings of Qualifier 1. Captain Rajat Patidar led from the front, scoring an unbeaten 93 runs off just 33 balls. Courtesy of his blistering batting, RCB...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-playoffs-check-the-schedule-venues-timings-ahead-of-qualifier-1-2026-05-25-1042435",
-    "time": "2026-05-25T17:15:45.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-qualifier-1-ipl-cricket-match-score-live-updates-today-at-hpca-stadium-dharamsala-virat-kohli-bhuvneshwar-kumar-shubman-gill-sai-sudharsan-1042537",
+    "time": "2026-05-26T11:58:12.000Z"
   },
   {
     "cat": "Sports",
-    "title": "'A difficult season': Former India cricketer weighs in KKR's IPL 2026 campaign after group stage exit",
-    "desc": "Kolkata Knight Riders were close to reaching the IPL (Indian Premier League) 2026 playoffs, but their dreams ended on the final day of the group phase. With Rajasthan Royals defeating Mumbai Indians on May 24th,...",
+    "title": "Mitchell Marsh ruled out Pakistan ODIs, Australia name new captain for three-match series",
+    "desc": "Australia captain Mitchell Marsh has been ruled out of the upcoming ODI series against Pakistan, starting May 30. The all-rounder is reportedly suffering from an ankle injury, which also forced him to sit out in...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/a-difficult-season-former-india-cricketer-weighs-in-kkr-s-ipl-2026-campaign-after-group-stage-exit-2026-05-25-1042431",
-    "time": "2026-05-25T16:17:17.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-marsh-ruled-out-pakistan-odis-australia-name-new-captain-for-three-match-series-2026-05-26-1042523",
+    "time": "2026-05-26T10:38:53.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Former Australia cricketer slams Delhi Capitals after subpar IPL 2026 campaign",
-    "desc": "The IPL (Indian Premier League) 2026’s group stage phase has come to an end, the top four sides in Royal Challengers Bengaluru, Punjab Kings, Rajasthan Royals, and Sunrisers Hyderabad will be playing in the knockout...",
+    "title": "Lionel Messi doubtful for FIFA World Cup? Argentine star leaves field with hamstring injury",
+    "desc": "Lionel Messi’s fitness has become a major concern for Argentina ahead of the upcoming FIFA World Cup. The 38-year-old picked up a hamstring injury during Inter Miami’s league game against Philadelphia and was forced to...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-australia-cricketer-slams-delhi-capitals-after-subpar-ipl-2026-campaign-2026-05-25-1042428",
-    "time": "2026-05-25T15:10:59.000Z"
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-doubtful-for-fifa-world-cup-argentine-star-leaves-field-with-hamstring-injury-2026-05-26-1042519",
+    "time": "2026-05-26T10:17:56.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Spain reveals squad for FIFA World Cup 2026; no Real Madrid players selected to go to USA",
-    "desc": "With the FIFA World Cup 2026 all set to kick off on June 11, 2026, and with the marquee tournament right around the corner, the Spanish FA took centre stage and announced their squad for...",
+    "title": "How will surface at HPCA Stadium in Dharamsala play?",
+    "desc": "Defending champions Royal Challengers Bengaluru will face Gujarat Titans in Qualifier 1 of the Indian Premier League (IPL). With nine wins each in 14 games, both teams finished with 18 points, with RCB topping the...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/spain-reveals-squad-for-fifa-world-cup-2026-no-real-madrid-players-selected-to-go-to-the-usa-2026-05-25-1042420",
-    "time": "2026-05-25T13:37:43.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-pitch-report-how-will-surface-at-hpca-stadium-in-dharamsala-play-2026-05-26-1042514",
+    "time": "2026-05-26T09:52:38.000Z"
   },
   {
     "cat": "Sports",
-    "title": "India women's skipper Harmanpreet Kaur awarded with Padma Shri award from President Murmu: Watch",
-    "desc": "The captain of the Indian women’s cricket team, Harmanpreet Kaur, has been awarded the Padma Shri award, which is India's fourth-highest civilian honour. It is worth noting that the central government had announced a list...",
+    "title": "3 battles that can decide the outcome of this contest",
+    "desc": "Royal Challengers Bengaluru and Gujarat Titans will battle it out in Qualifier 1 of the Indian Premier League 2026 as a spot in the final remains up for grabs. RCB have looked like a team...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-women-s-skipper-harmanpreet-kaur-awarded-with-padma-shri-award-from-president-murmu-watch-2026-05-25-1042414",
-    "time": "2026-05-25T12:22:49.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-ipl-2026-qualifier-3-battles-that-can-decide-the-outcome-of-this-contest-2026-05-26-1042509",
+    "time": "2026-05-26T09:41:20.000Z"
   }
 ];
