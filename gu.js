@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "600 રનનો અસંભવ વર્લ્ડ રેકોર્ડ, 15 વર્ષના વૈભવ સૂર્યવંશીએ રચ્યો ઇતિહાસ; ક્રિકેટ ઇતિહાસમાં પહેલીવાર થયો આ ચમત્કાર",
+    "desc": "15 વર્ષના વિસ્ફોટક બેટ્સમેન વૈભવ સૂર્યવંશી એકવાર ફરી તોફાન આવ્યું છે. તેમણે હૈદરાબાદના બોલરોની લાઇન-લેન્થ બગાડીને મૂકી દીધી હતી. મેદાન પર ઉતર્યાની થોડી જ મિનિટોમાં વૈભવ સૂર્યવંશીએ ઇતિહાસ રચી દીધો. આ વિસ્ફોટક ઓપનરે એવો કરિશ્મા કર્યો છે કે મોટા-મોટા બેટ્સમેનો પણ પાછળ રહી ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/impossible-world-record-of-600-runs-15-year-old-vaibhav-suryavanshi-created-history-this-miracle-happened-for-the-first-time-in-cricket-history-479449 ",
+    "time": "2026-05-27T17:15:58.000Z"
+  },
+  {
     "cat": "Business",
     "title": "મકાન માલિક પરત નથી આપી રહ્યો Security Deposit? તો શું કરી શકે ભાડુઆત, જાણો કાયદો",
     "desc": "જો તમારો મકાન માલિક સિક્યોરિટી ડિપોઝિટ પરત આપવામાં આનાકાની કરે છે, તો ભાડા કરાર, ચેટ અને ઘરની તસવીરો તમારી મદદ કરી શકે છે. જાણો કઈ રીતે આ પુરાવા દ્વારા તમે લીગલ નોટિસ, પોલીસ કે કોર્ટનો સહારો લઈ તમારા પૈસા પરત લઈ શકો છો.",
@@ -385,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/monsoon-rain-alert-monsoon-is-set-to-hit-kerala-6-days-ahead-of-schedule-an-alert-for-rainfall-has-been-issued-for-these-regions-479199 ",
     "time": "2026-05-25T09:58:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ક્વોલિફાયર-1 જીતનારી ટીમ બનશે IPL 2026ની ચેમ્પિયન, પૂર્વ વિકેટકીપરની મોટી ભવિષ્યવાણી",
-    "desc": "IPL 2026 પ્લેઓફ મંગળવારથી શરૂ થશે. પ્રથમ ક્વોલિફાયરમાં ગુજરાત ટાઇટન્સ અને રોયલ ચેલેન્જર્સ બેંગલુરુ ટકરાશે. આ મેચમાં જે ટીમ જીતશે તે સીધી ફાઇનલમાં પહોંચશે. દરમિયાન પૂર્વ વિકેટકીપર-બેટ્સમેન દીપ દાસગુપ્તાએ ભવિષ્યવાણી કરી છે કે જે પણ ટીમ ક્વોલિફાયર 1 જીતશે તે ટુર્નામેન્ટ પણ જીતશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/the-team-that-wins-qualifier-1-will-become-the-champion-of-ipl-2026-deep-dasgupta-479193 ",
-    "time": "2026-05-25T09:05:32.000Z"
   },
   {
     "cat": "Entertainment",
