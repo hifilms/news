@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi misses fastest IPL century record by a whisker, walks back shattered",
+    "desc": "Vaibhav Sooryavanshi decimated Sunrisers Hyderabad bowlers in the IPL 2026 Eliminator. The 15-year-old left the Hyderabad bowling attack in complete disarray, clearing the ropes at will and registering 12 sixes during his stay in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-misses-chris-gayle-s-ipl-record-by-a-whisker-walked-back-shattered-2026-05-27-1042700",
+    "time": "2026-05-27T14:59:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi breaks all-time IPL record following monstrous innings vs SRH in IPL 2026 Eliminator",
+    "desc": "Vaibhav Sooryavanshi produced a record-shattering display at just 15 years of age, rewriting the IPL record books with a breathtaking innings against Sunrisers Hyderabad. The Rajasthan Royals opener dismantled the Hyderabad attack with fearless strokeplay,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-all-time-ipl-record-following-monstrous-innings-vs-srh-in-ipl-2026-eliminator-2026-05-27-1042697",
+    "time": "2026-05-27T14:29:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan lose quick wickets after Sooryavanshi, Jurel show",
+    "desc": "Sunrisers Hyderabad captain Pat Cummins won the toss and elected to field first against Rajasthan Royals. The skipper confirmed that the team made one change to the playing XI, as Praful Hinge returned to the scheme...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rr-eliminator-live-cricket-score-updates-sunrisers-hyderabad-rajasthan-royals-ipl-2026-match-today-at-pca-new-cricket-stadium-1042680",
+    "time": "2026-05-27T12:03:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will MS Dhoni play for CSK in IPL 2027? CEO Kasi Viswanathan answers",
+    "desc": "Five-time IPL-winning captain, MS Dhoni, spent the entire season on the sidelines. Even when Chennai Super Kings were struggling for consistency, the keeper-batter was nowhere to be seen, as he was reportedly nurturing an injury....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-ms-dhoni-play-for-csk-in-ipl-2027-ceo-kasi-viswanathan-answers-2026-05-27-1042676",
+    "time": "2026-05-27T11:39:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at MYSC Stadium in Mullanpur play?",
+    "desc": "The Eliminator clash of the IPL 2026 will see Sunrisers Hyderabad taking on Rajasthan Royals in Mullanpur. The Pat Cummins-led side has been one of the most dominant teams in the competition, but consistency is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rr-pitch-report-how-will-surface-at-mysc-stadium-in-mullanpur-play-2026-05-27-1042665",
+    "time": "2026-05-27T11:06:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "D Gukesh, Praggnanandhaa suffer defeat in Norway Chess; Divya Deshmukh continues winning run",
+    "desc": "India suffered major setbacks at the Norway Chess open section on Tuesday as D Gukesh and R Praggnanandhaa both fell short in Armageddon tie-breaks after hard-fought classical contests. Divya Deshmukh, on the other hand, kept...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/d-gukesh-praggnanandhaa-suffer-defeat-in-norway-chess-divya-deshmukh-continues-winning-run-2026-05-27-1042661",
+    "time": "2026-05-27T10:26:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Check head-to-head records of two sides before IPL 2026 Eliminator",
     "desc": "Sunrisers Hyderabad are up against Rajasthan Royals in the IPL 2026 Eliminator as two batting powerhouses collide in Mullanpur, New Chandigarh. SRH finished third after failing to defeat the Royal Challengers Bengaluru by a sufficient...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/randhir-singh-olympian-and-indias-first-shooting-gold-medallist-at-asian-games-passes-away-2026-05-27-1042634",
     "time": "2026-05-27T07:38:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL to be moved to September-October window? IPL chairman reveals major 'suggestion' for expanding league",
-    "desc": "The Indian Premier League could be split into two windows and moved to the September-October months, IPL chairman Arun Dhumal hinted to Sportstar. The IPL governing body is looking to increase the number of IPL...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-to-be-moved-to-september-october-window-ipl-chairman-reveals-major-suggestion-for-expanding-league-2026-05-27-1042614",
-    "time": "2026-05-27T06:06:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rahul Tewatia shatters MS Dhoni's record after lone effort in GT's loss to RCB in Qualifier 1",
-    "desc": "Gujarat Titans middle-order batter Rahul Tewatia put up a lone hand in what was otherwise a gloomy night for his team with the bat against the Royal Challengers Bengaluru in Qualifier 1 of the IPL...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rahul-tewatia-shatters-ms-dhonis-record-after-lone-effort-in-gt-s-loss-to-rcb-in-qualifier-1-2026-05-27-1042606",
-    "time": "2026-05-27T05:00:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill admits GT were 'not up to mark' in fielding after suffering RCB drubbing",
-    "desc": "Gujarat Titans captain Shubman Gill rued the costly errors his team made while fielding against the Royal Challengers Bengaluru in the Qualifier 1 at the HPCA Stadium in Dharamsala. The Titans dropped as many as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-admits-gt-were-not-up-to-mark-in-fielding-after-suffering-rcb-drubbing-2026-05-27-1042603",
-    "time": "2026-05-27T04:26:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajat Patidar creates T20 world record after jaw-dropping display in RCB vs GT IPL 2026 Qualifier 1",
-    "desc": "It was yet another special night for Rajat Patidar in an IPL playoff. From his 2022 Eliminator masterclass against the Lucknow Super Giants to his 2026 carnage in Qualifier 1 against the Gujarat Titans, Patidar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-creates-t20-world-record-after-jaw-dropping-display-in-rcb-vs-gt-ipl-2026-qualifier-1-2026-05-27-1042592",
-    "time": "2026-05-27T02:54:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajat Patidar only second captain in 19-year-old IPL history to achieve massive record as RCB reach final",
-    "desc": "Rajat Patidar etched his name into the record books as he led the Royal Challengers Bengaluru into their fifth final of the Indian Premier League. Led by Patidar himself, it was an ultra-dominating performance by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-only-second-captain-in-19-year-old-ipl-history-to-achieve-massive-record-as-rcb-reach-final-2026-05-27-1042587",
-    "time": "2026-05-27T02:18:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History on RCB's side to defend IPL title after handing GT a drubbing in Dharamsala",
-    "desc": "Royal Challengers Bengaluru took a major leap towards defending their Indian Premier League title after handing Gujarat Titans a huge drubbing in Qualifier 1 on Tuesday, May 26. Rajat Patidar decimated the Titans with his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/history-on-rcbs-side-to-defend-ipl-title-after-handing-gt-a-drubbing-in-dharamsala-2026-05-27-1042582",
-    "time": "2026-05-27T01:16:25.000Z"
   }
 ];

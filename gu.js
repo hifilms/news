@@ -1,6 +1,69 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "મકાન માલિક પરત નથી આપી રહ્યો Security Deposit? તો શું કરી શકે ભાડુઆત, જાણો કાયદો",
+    "desc": "જો તમારો મકાન માલિક સિક્યોરિટી ડિપોઝિટ પરત આપવામાં આનાકાની કરે છે, તો ભાડા કરાર, ચેટ અને ઘરની તસવીરો તમારી મદદ કરી શકે છે. જાણો કઈ રીતે આ પુરાવા દ્વારા તમે લીગલ નોટિસ, પોલીસ કે કોર્ટનો સહારો લઈ તમારા પૈસા પરત લઈ શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/if-the-landlord-is-not-returning-the-security-deposit-what-can-the-tenant-do-know-the-law-479433 ",
+    "time": "2026-05-27T15:23:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સરકારી કર્મચારીઓને 20 મહિનાનું એરિયર્સ તો મળશે, પણ આ ભથ્થાંના રૂપિયા હાથમાં નહીં આવે! જાણો કેમ",
+    "desc": "રિપોર્ટ અનુસાર, પંચની ભલામણો લાગુ કરવામાં વિલંબ થવાને કારણે કર્મચારીઓને 20 થી 24 મહિના સુધીનું એરિયર્સ મળી શકે છે. જો કે, નિષ્ણાતોનું માનવું છે કે, માત્ર DA (મોંઘવારી ભથ્થું)નું એરિયર્સ મળવાની શક્યતા વધુ છે, જ્યારે HRA અને ટ્રાન્સપોર્ટ એલાઉન્સના એરિયર્સ પર સસ્પેન્સ યથાવત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-government-employees-will-get-20-months-of-arrears-but-the-money-for-these-allowances-will-not-be-in-their-hands-know-479432 ",
+    "time": "2026-05-27T15:05:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગુજરાતીઓને મોટી રાહત ! પાડોશી રાજ્યો કરતાં 10થી 12 રૂપિયા સસ્તું મળી રહ્યું છે પેટ્રોલ",
+    "desc": "દેશભરમાં પેટ્રોલ અને ડીઝલની બૂમરાણ વચ્ચે તમે ચોંકી જશો કે પડોશી રાજ્યો કરતાં ગુજરાતમાં 10થી 12 રૂપિયા સસ્તું મળી રહ્યું છે પેટ્રોલ. આ મોટો તફાવત રાજ્ય સરકારોના વેટ અને સેસના કારણે છે. ગુજરાતમાં વેટ ઓછો હોવાનો ફાયદો ગુજરાતી પ્રજાને મળી રહ્યો છે. દેશમાં સૌથી ઉંચો પેટ્રોલનો ભાવ આંધ્રપ્રદેશમાં છે જ્યાં 115 રૂપિયાએ એક લિટર પેટ્રોલ મળી રહ્યું છે.અહીં તમે જાણી લો ગુજરાતના પડોશમાં કેટલો છે પ્રતિલિટર પેટ્રોલનો ભાવ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gujarat-petrol-price-cheaper-than-maharashtra-and-rajasthan-479420 ",
+    "time": "2026-05-27T13:11:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "યુદ્ધ વચ્ચે રશિયા કેમ વેચી રહ્યું છે પોતાનું સોનું? તૂટ્યો 24 વર્ષનો રેકોર્ડ, શું આ કોઈ મોટી આફતનો સંકેત?",
+    "desc": "વર્ષ 2002થી 2025 વચ્ચે 1900 ટનથી વધુ સોનું ખરીદનાર રશિયા આજે સોનું વેચી રહ્યું છે. વર્ષના શરૂઆતના મહિનાઓમાં જ રશિયાએ આશરે 28 ટનથી વધુ સોનું વેચી દીધું. રશિયાનો આ નિર્ણય આગામી સમયમાં કોઈ મોટી આફત આવવાનો સંકેત છે કે પછી તેની પાછળ કોઈ અલગ જ કહાની છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-is-russia-selling-its-gold-in-the-midst-of-war-24-year-record-has-been-broken-is-this-a-sign-of-a-major-disaster-479412 ",
+    "time": "2026-05-27T11:57:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL શેડ્યૂલમાં થશે ફેરફાર ! હવે બે તબક્કામાં રમાશે આ ટુર્નામેન્ટ, જાણો શું છે BCCIનો માસ્ટરપ્લાન",
+    "desc": "IPLમાં આવનારા સમયમાં ઘણા મોટા ફેરફારો જોવા મળી શકે છે. મેચોની સંખ્યા વધારવાની તૈયારી છે, તો ટુર્નામેન્ટને બે તબક્કામાં યોજવા પર પણ વિચારણા કરવામાં આવી રહી છે. જો કે, આ યોજનાને સંપૂર્ણ રીતે અમલમાં મૂકવામાં થોડો સમય લાગશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-can-played-in-two-phases-september-october-window-arun-dhumal-reveals-bcci-plan-479410 ",
+    "time": "2026-05-27T11:40:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "વર્ષ 2026મા હોમ લોન લેવાનો છે પ્લાન, તો જરૂર અપનાવો આ ટ્રિક, ટેક્સની સાથે ખર્ચમાં થશે બચત",
+    "desc": "જો તમે પણ હોમ લોન લઈ પોતાનું ઘર લેવાનું વિચારી રહ્યાં છો તો આ સમાચાર તમારે વાંચવા જોઈએ. આજે અમે તમને એવી ટ્રિક વિશે જણાવીશું, જેનાથી તમે ટેક્સમાં સારી બચત કરી શકો છો અને હોમ લોનમાં તમારો ખર્ચ પણ બચાવી શકો છો. આવો જાણીએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/home-loan-tips-if-you-want-to-take-a-home-loandefinitely-adopt-this-trick-you-will-save-on-expenses-along-with-taxes-479400 ",
+    "time": "2026-05-27T10:37:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભીષણ ગરમીથી બચવા માટે PM મોદીએ દેશવાસીઓને કરી અપીલ, આ રીતે રાખજો ધ્યાન, નહીં તો...",
+    "desc": "દેશભરમાં આકાશમાંથી વરસતી આગ અને રેકોર્ડ તોડતા તાપમાન વચ્ચે વડાપ્રધાન નરેન્દ્ર મોદીએ જનતાને સતર્ક રહેવાની અપીલ કરી છે. પીએમ મોદીએ વૃદ્ધોના સ્વાસ્થ્યનું ધ્યાન રાખવા અને વટેમાર્ગુઓ તથા અબોલ પક્ષીઓ માટે પાણીની વ્યવસ્થા કરવાની વાત કહી છે. ચાલો જાણીએ કે આ ભીષણ ગરમીથી બચવા માટે વડાપ્રધાને શું ખાસ સલાહ આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-appealed-to-the-countrymen-to-avoid-the-scorching-heat-take-care-of-the-elderly-and-animals-479396 ",
+    "time": "2026-05-27T09:42:45.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "તેલની મોંધવારી ATMમાં રોકડ સંકટ લઈને આવી, ખાલી મશીનો વધારી શકે છે ટેંશન ! બેંકોને કંપનીઓની ચેતવણી, રાખી આ માંગ",
     "desc": "તેલના વધતા ભાવ ATM રોકડ સેવાઓ પર પણ અસર કરી શકે છે. ATM રોકડ આપનારા કહે છે કે પેટ્રોલ અને ડીઝલના વધતા ભાવ તેમના સંચાલન ખર્ચમાં વધારો કરી રહ્યા છે. ખર્ચ ઘટાડવા માટે, તેઓ ATM મશીનોમાં રોકડ જમા કરાવવાની આવર્તન ઘટાડી શકે છે. તેમણે IBAને સેવા ખર્ચમાં વધારો કરવા અંગે પણ પત્ર લખ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,15 +414,6 @@ const newsData_gu = [
     "time": "2026-05-25T08:19:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "પેટ્રોલ-ડીઝલના ભાવ વધવાથી દેશના સામાન્ય નાગરિકો પર પડશે મોંઘવારીનો માર ! જાણો શું શું થઈ શકે છે મોંઘું",
-    "desc": "દેશમાં પેટ્રોલ અને ડીઝલના ભાવમાં આજે ફરી એકવાર વધારો થયો છે. છેલ્લા 11 દિવસમાં પેટ્રોલ-ડીઝલના ભાવમાં કુલ 6થી 7 રૂપિયાનો વધારો થયો છે. આ મોંઘવારીની સીધી અસર લોકોના ખિસ્સા, ઘરના બજેટ અને તેમના રોજિંદા જીવન પર પડશે, કારણ કે ફિયુઅલના ભાવમાં વધારો થવાથી અન્ય વિવિધ ચીજવસ્તુઓની કિંમતમાં વધારો થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-hike-impact-on-goods-kitchen-products-vegetables-and-fruits-479187 ",
-    "time": "2026-05-25T07:33:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "30 જૂન પહેલા કરી લેજો આ કામ, બાકી બંધ થઈ જશે એલપીજી સબસિડી, ખાતામાં નહીં આવે પૈસા",
     "desc": "આજકાલ ગેસ સિલિન્ડરને લઈને લોકો પરેશાન થઈ રહ્યાં છે. સાથે સરકારના નવા-નવા નિયમથી પણ લોકો મુંજવણમાં મુાકાઈ રહ્યાં છે. હવે ગેસ સબસિડીને લઈને જાહેરાત કરવામાં આવી છે. તમે પણ જાણો શું છે આ નવો નિયમ.",
@@ -396,24 +450,6 @@ const newsData_gu = [
     "time": "2026-05-25T02:18:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Petrol-Diesel Price: પેટ્રોલના ભાવ વારંવાર 87 પૈસા જ કેમ વધી રહ્યા છે? આખરે શું છે તેની પાછળનું કારણ",
-    "desc": "દેશમાં પેટ્રોલ અને ડીઝલના ભાવમાં સતત વધારો થઈ રહ્યો છે. છેલ્લા કેટલાક દિવસોમાં પેટ્રોલના ભાવ બે વાર 87 પૈસા પ્રતિ લીટર વધારવામાં આવ્યા છે. ઘણા લોકોના મનમાં પ્રશ્ન ઉભો થાય છે કે આખરે પેટ્રોલના ભાવ વારંવાર 87 પૈસા જ કેમ વધી રહ્યા છે. ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-price-why-are-petrol-prices-increasing-by-87-paise-repeatedly-what-is-the-reason-behind-this-479143 ",
-    "time": "2026-05-24T16:57:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 વચ્ચે આવ્યા ખરાબ સમાચાર ! ભારતીય ખેલાડીનું ફિલ્ડ પર હાર્ટ એટેક આવતા મોત, જાણો",
-    "desc": "IPL 2026 સીઝન દરમિયાન, ભારતીય ક્રિકેટ ચાહકોને એક દુઃખદ સમાચાર મળ્યા છે. ભારતીય ટીમના સ્ટાર્સ કેએલ રાહુલ, મયંક અગ્રવાલ, રોબિન ઉથપ્પા અને મનીષ પાંડે સાથે રમનાર 39 વર્ષીય ખેલાડીનું નિધન થયું છે. આખું ક્રિકેટ જગત આ નુકસાન પર શોક વ્યક્ત કરી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bad-news-came-in-the-middle-of-ipl-2026-indian-player-dies-of-heart-attack-on-the-field-know-479142 ",
-    "time": "2026-05-24T16:51:30.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ઇલેક્ટ્રિક કારની બેટરી ખતમ થઈ જાય ત્યારે શું થાય છે? જાણો ટર્ટલ મોડ અને અન્ય મહત્વપૂર્ણ બાબતો",
     "desc": "ઇલેક્ટ્રિક કારની લોકપ્રિયતા દિવસેને દિવસે વધી રહી છે. પરંતુ શું તમે જાણો છો કે જો ઇલેક્ટ્રિક કારની બેટરી ખતમ થઈ જાય તો શું થાય છે? કારના કયા ફીચર્સ કામ કરે છે અને કયા કામ કરવાનું બંધ કરે છે? ચાલો સમજઈ કે જ્યારે EV બેટરી ખતમ થઈ જાય ત્યારે શું થાય છે અને તમે શું કરી શકો છો.",
@@ -439,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/indira-gandhi-was-upset-with-this-statement-about-the-bachchan-family-rift-between-both-the-families-479108 ",
     "time": "2026-05-24T10:42:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મુંબઈની ટીમમાં સૌરાષ્ટ્રના ક્રિકેટરની એન્ટ્રી, ટુર્નામેન્ટના અંતમાં MIનો મોટો દાવ",
-    "desc": "મુંબઈ ઈન્ડિયન્સ પ્લેઓફની રેસમાંથી બહાર થઈ ગયું છે, પરંતુ રાજસ્થાન રોયલ્સ માટે આ કરો યા મરો જેવી મેચ છે. મુંબઈ ઈન્ડિયન્સે તેની છેલ્લી મેચ પહેલા બે ખેલાડીઓના રિપ્લેસમેન્ટની જાહેરાત કરી હતી. જેમાં એક સૌરાષ્ટ્રના ક્રિકેટરનો પણ સમાવેશ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/mumbai-indians-sign-ruchit-ahir-and-mahipal-lomror-as-replacements-479092 ",
-    "time": "2026-05-24T09:59:15.000Z"
   },
   {
     "cat": "World",
@@ -612,15 +639,6 @@ const newsData_gu = [
     "time": "2026-05-21T12:07:59.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "AIનો ઉપયોગ કરો, પરંતુ માણસના વિચારને ક્યારેય ઓછા ન આંકો: ડો. સુભાષ ચંદ્રા",
-    "desc": "એસ્સેલ ગ્રુપે આજે પોતાની ઐતિહાસિક જર્નીના 100 વર્ષ પૂરા કર્યા અને તે નિમિત્તે આજે યોજાયેલા એક કાર્યક્રમમાં એસ્સેલ ગ્રુપના ચેરમેન ડો. સુભાષ ચંદ્રાએ સંબોધન કર્યું. તેમણે આર્ટિફિશિયલ ઈન્ટેલિજન્સ પર એક સ્પષ્ટ સંદેશ પણ આપ્યો કે AI નો ઉપયોગ કરો...પરંતુ માણસના વિચારને ક્યારેય ઓછા ન આંકો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/dr-subhash-chandra-speaks-on-ai-and-human-thinking-100-years-of-essel-group-478705 ",
-    "time": "2026-05-21T09:05:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રિયલ ક્રાઈમ સ્ટોરી પર આધારિત Zee5 ની સાઈકો થ્રિલર, આ ફિલ્મ જોતાં જોતાં હાથ-પગ ઠંડા પડી જશે",
     "desc": "જો તમને ડાર્ક, સાઈકોથ્રિલર અને સત્ય ઘટના પર આધારિત ફિલ્મો જોવાનો શોખ છે તો zee5 પર આજે જ આ ફિલ્મ જુઓ. આ ફિલ્મમાં કોઈ હીરો નથી પણ ફિલ્મની અભિનેત્રીઓએ એટલો અદ્ભુત અભિનય કર્યો છે કે તેને જોતાં જોતાં તમારા હાથ-પગ ઠંડા પડી જશે.",
@@ -628,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/underrated-movie-of-zee5-posham-pa-dark-thriller-movie-based-on-true-murder-crime-hindi-thriller-movie-zee5-478704 ",
     "time": "2026-05-21T08:50:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Airtel યુઝર્સની મોજ! એક જ રિચાર્જમાં ચાલશે 2 SIM, સાથે મળશે આ OTTના પ્રાઇમ બેનિફિટ્સ",
-    "desc": "Airtel પોતાના ગ્રાહકો માટે એક એવો શાનદાર પોસ્ટપેડ પ્લાન લઈને આવ્યું છે, જેમાં એક જ રિચાર્જ પર બે સિમ કાર્ડનો ઉપયોગ કરી શકાય છે. આ પ્લાન કંપનીની ઓફિશિયલ વેબસાઇટ પર લિસ્ટ થયેલો છે અને ફેમિલી યુઝર્સ માટે ખૂબ જ ફાયદાકારક માનવામાં આવી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/airtel-users-rejoice-two-sims-on-a-single-recharge-plus-get-prime-benefits-for-these-ott-platforms-478682 ",
-    "time": "2026-05-21T05:52:50.000Z"
   },
   {
     "cat": "Entertainment",
