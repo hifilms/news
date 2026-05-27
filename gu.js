@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "રેલ્વેએ અમદાવાદ સહિક આ રૂટની 77 ટ્રેનો કરી કેન્સલ, અનેક એક્સપ્રેસ ટ્રેનોના બદલ્યા રૂટ અને ટાઈમિંગ, જાણો",
+    "desc": "ભારતીય રેલ્વેએ જૂન 2026 માટે મોટી સંખ્યામાં ટ્રેનો રદ કરી છે. જો તમે પણ જૂનમાં ટ્રેનની મુસાફરી કરવાના છો, તો સ્ટેશન પર જતા પહેલા રેલ્વે એપ, NTES અથવા IRCTC પ્લેટફોર્મ પર તમારી ટ્રેનનું લાઇવ સ્ટેટસ ચેક કરવાનું ભૂલશો નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/railways-cancels-77-trains-on-this-route-including-ahmedabad-changes-routes-and-timings-of-many-express-trains-know-479342 ",
+    "time": "2026-05-27T02:26:39.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ઠુકરા કે મેરા પ્યાર, મેરા ... ગર્લફ્રેન્ડ દ્વારા મળેલા દગા બાદ કર્યું એવું કામ, થઈ રહ્યા છે વખાણ !",
     "desc": "ગોરખપુરના ઉત્કર્ષ શ્રીવાસ્તવને તેમણે તેમના અંગત જીવનમાં એક મુશ્કેલ પડકાર, બ્રેકઅપનો સામનો કરવો પડ્યો, પરંતુ તેમણે તે પીડાને પોતાની પ્રેરણામાં ફેરવી દીધી. તેની મહેનતની ચર્ચા આજે પણ પણ જિલ્લામાં થઈ રહી છે અને લોકો તેની મિશાલ આપી રહ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -405,15 +414,6 @@ const newsData_gu = [
     "time": "2026-05-24T09:29:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "WHOએ હવે આ વાયરસને લઈને વૈશ્વિક આરોગ્ય કટોકટી જાહેર કરી, ભારત પણ એક્શન મોડમાં",
-    "desc": "થોડા વર્ષો પહેલા કોરોના નામની મહામારીએ આખા વિશ્વને હચમચાવી દીધુ હતું અને વળી પાછો એક નવો વાયરસ દુનિયાને પોતાના ભરડામાં લેવા માટે ધમપછાડા કરી રહ્યો છે. વિશ્વ આરોગ્ય સંગઠને આ મામલે વૈશ્વિક સ્વાસ્થ્ય કટોકટી પણ જાહેર કરી છે. ભારતે પણ સ્થિતિની ગંભીરતા જોતા કેટલાક આફ્રીકી દેશો માટે ટ્રાવેલ એડવાઈઝરી જાહેર કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-news-who-global-health-emergency-about-ebola-outbreak-india-issues-travel-advisory-479084 ",
-    "time": "2026-05-24T08:24:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ત્રણ વાર રિજેક્ટ થયું હતું આ સુપરહિટ વરસાદી ગીત, સેન્સર બોર્ડે અશ્લીલ ગણાવ્યું હતું, છતાં આજે પોપ્યુલર છે",
     "desc": "બોલિવુડમાં અનેક ગીતો આવ્યા અને ગયા, પરંતું કેટલાક ગીતો જ લોકોને પસંદ આવે છે. તેમાંથી એક ગીત છે ‘ડમ ડમ ડીગા ડીગા, મોસમ ભીગા ભીગા...’ શું તમને ખબર છે આ ગીત અનેકવાર રિજેક્ટ થયું છે, આખરે કેવી રીતે સેન્સર બોર્ડ દ્વારા રિજેક્ટ કરાયેલું ગીત સ્ક્રીન પર પહોંચ્યું, જાણો",
@@ -457,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/are-you-thinking-of-buying-an-ac-make-sure-to-check-these-4-things-otherwise-you-may-suffer-big-losses-know-this-479028 ",
     "time": "2026-05-23T14:40:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શેરબજારમાં મોટી તબાહીનું એલર્ટ! રોબર્ટ કિયોસાકીએ જણાવ્યું કે કેટલું મોંઘુ થશે સોનું અને ચાંદી ? જાણો",
-    "desc": "કિયોસાકીએ પ્રખ્યાત બજાર વ્યૂહરચનાકાર જીમ રિકર્ડ્સને ટાંકીને કહ્યું કે રિકર્ડ્સ માને છે કે સોનાનો ભાવ એક દિવસ પ્રતિ ઔંસ એક લાખ ડોલર સુધી પહોંચી શકે છે. કિયોસાકીએ પોતે ભવિષ્યવાણી કરી હતી કે ચાંદીનો ભાવ પ્રતિ ઔંસ બસો ડોલર સુધી પહોંચી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/alert-of-a-major-crash-in-the-stock-market-robert-kiyosaki-said-how-expensive-gold-and-silver-will-become-find-out-479019 ",
-    "time": "2026-05-23T13:56:13.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rajat Patidar creates T20 world record after jaw-dropping display in RCB vs GT IPL 2026 Qualifier 1",
+    "desc": "It was yet another special night for Rajat Patidar in an IPL playoff. From his 2022 Eliminator masterclass against the Lucknow Super Giants to his 2026 carnage in Qualifier 1 against the Gujarat Titans, Patidar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-creates-t20-world-record-after-jaw-dropping-display-in-rcb-vs-gt-ipl-2026-qualifier-1-2026-05-27-1042592",
+    "time": "2026-05-27T02:54:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajat Patidar only second captain in 19-year-old IPL history to achieve massive record as RCB reach final",
+    "desc": "Rajat Patidar etched his name into the record books as he led the Royal Challengers Bengaluru into their fifth final of the Indian Premier League. Led by Patidar himself, it was an ultra-dominating performance by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-only-second-captain-in-19-year-old-ipl-history-to-achieve-massive-record-as-rcb-reach-final-2026-05-27-1042587",
+    "time": "2026-05-27T02:18:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History on RCB's side to defend IPL title after handing GT a drubbing in Dharamsala",
+    "desc": "Royal Challengers Bengaluru took a major leap towards defending their Indian Premier League title after handing Gujarat Titans a huge drubbing in Qualifier 1 on Tuesday, May 26. Rajat Patidar decimated the Titans with his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/history-on-rcbs-side-to-defend-ipl-title-after-handing-gt-a-drubbing-in-dharamsala-2026-05-27-1042582",
+    "time": "2026-05-27T01:16:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "RCB decimate Gujarat Titans to seal spot in IPL 2026 final, register second biggest win in playoffs history",
     "desc": "Royal Challengers Bengaluru decimated Gujarat Titans in the IPL 2026 Qualifier 1 at the HPCA Stadium in Dharamsala. Batting first, Venkatsesh Iyer set the tone for the defending champions, but he failed to live up...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-qualifier-1-ipl-cricket-match-score-live-updates-today-at-hpca-stadium-dharamsala-virat-kohli-bhuvneshwar-kumar-shubman-gill-sai-sudharsan-1042537",
     "time": "2026-05-26T11:58:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Marsh ruled out Pakistan ODIs, Australia name new captain for three-match series",
-    "desc": "Australia captain Mitchell Marsh has been ruled out of the upcoming ODI series against Pakistan, starting May 30. The all-rounder is reportedly suffering from an ankle injury, which also forced him to sit out in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-marsh-ruled-out-pakistan-odis-australia-name-new-captain-for-three-match-series-2026-05-26-1042523",
-    "time": "2026-05-26T10:38:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi doubtful for FIFA World Cup? Argentine star leaves field with hamstring injury",
-    "desc": "Lionel Messi’s fitness has become a major concern for Argentina ahead of the upcoming FIFA World Cup. The 38-year-old picked up a hamstring injury during Inter Miami’s league game against Philadelphia and was forced to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-doubtful-for-fifa-world-cup-argentine-star-leaves-field-with-hamstring-injury-2026-05-26-1042519",
-    "time": "2026-05-26T10:17:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at HPCA Stadium in Dharamsala play?",
-    "desc": "Defending champions Royal Challengers Bengaluru will face Gujarat Titans in Qualifier 1 of the Indian Premier League (IPL). With nine wins each in 14 games, both teams finished with 18 points, with RCB topping the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-pitch-report-how-will-surface-at-hpca-stadium-in-dharamsala-play-2026-05-26-1042514",
-    "time": "2026-05-26T09:52:38.000Z"
   }
 ];
