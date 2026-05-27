@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Sooryavanshi, Archer carry Royals into Qualifier 2",
+    "desc": "The teen prodigy smashes 97 off just 29 balls with five fours and 12 sixes as the Rajasthan side makes 243 for eight; the pacer accounts for the top three in his opening spell to dash Sunrisers’ hopes",
+    "img": "https://th-i.thgim.com/public/incoming/hyzitl/article71030879.ece/alternates/LANDSCAPE_1200/16_RVM_5544.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-eliminator-qualifier-rajasthan-royals-sunrisers-hyderabad-match-updates/article71030883.ece",
+    "time": "2026-05-27T21:38:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matthew Perry's assistant sentenced to 3 yrs in prison",
+    "desc": "Matthew Perry's personal assistant, Kenneth Iwamasa, received a three-year, five-month prison sentence for his role in the actor's fatal ketamine overdose. Iwamasa, who supplied and injected the drug, was described as an enabler and de facto doctor. Prosecutors sought the sentence, highlighting his reckless conduct leading to Perry's death. The case concludes a lengthy investigation.",
+    "img": "https://static.toiimg.com/photo/msid-131358884,imgsize-175830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/matthew-perrys-assistant-sentenced-to-more-than-3-years-in-prison-for-role-in-actors-ketamine-overdose/articleshow/131358877.cms",
+    "time": "2026-05-27T21:16:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pooja recalls Soni Razdan feeling ‘guilty’ over Mahesh-Kiran split",
+    "desc": "Actor-filmmaker Pooja Bhatt has opened up about her family’s complicated personal history, revealing how Soni Razdan once admitted she felt “very guilty” about her relationship with filmmaker Mahesh Bhatt. Speaking in an interview, Pooja reflected on her parents’ separation, Mahesh Bhatt’s relationship with late actor Parveen Babi, and the emotional maturity with which her family eventually dealt with it all.",
+    "img": "https://static.toiimg.com/photo/msid-131358890,imgsize-49278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bhatt-recalls-soni-razdan-feeling-very-guilty-over-mahesh-bhatt-kiran-bhatt-separation-her-bond-with-alia-shaheen-bhatt/articleshow/131358874.cms",
+    "time": "2026-05-27T21:11:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Madhya Pradesh HC quashes anticipatory bail of retired judge Giribala Singh",
+    "desc": "Solicitor General Tushar Mehta, representing the Madhya Pradesh Government, argued that “he manner in which anticipatory bail was obtained, creates doubt that the trial Court did not consider the aspect relevant for granting anticipatory bail”",
+    "img": "https://th-i.thgim.com/public/incoming/gamrmr/article71030945.ece/alternates/LANDSCAPE_1200/20260526092L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-singh-death-case-madhya-pradesh-hc-quashes-anticipatory-bail-of-retired-judge-giribala-singh/article71030927.ece",
+    "time": "2026-05-27T20:55:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Prasenjit Bose",
+    "desc": "Prasenjit Bose serves as the chairperson, SIR Committee of West Bengal Pradesh Congress Committee emphasised that with over 60 % electors restored to voter list by the tribunals it is clear that genuine electors were deprived of their right to vote in the 2026 West Bengal assembly election",
+    "img": "https://th-i.thgim.com/public/incoming/k2l8gw/article71030929.ece/alternates/LANDSCAPE_1200/IMG_Prasenjit_Bose_2_1_3RET51RR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/rate-at-which-west-bengal-tribunals-restoring-names-of-deleted-electors-proves-genuine-voters-not-allowed-to-vote-prasenjit-bose/article71030409.ece",
+    "time": "2026-05-27T20:12:42.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "APDR writes to West Bengal Human Rights Commission",
     "desc": "Association of Protection of Democratic Rights (APDR), a well known civil rights organisation in a letter to WBHRC has highlighted two instances at Golabari police station on May 24 and at Sankrail police station on May 25, where two accused were paraded in their underwear.",
@@ -478,15 +523,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sri Sri Ravi Shankar meets Bollywood celebs, Vikrant Massey, Sunil Grover",
-    "desc": "Bollywood stars Vikrant Massey, Sunil Grover, Rajkumar Hirani, and Sajid Nadiadwala recently met spiritual leader Sri Sri Ravi Shankar. Massey discussed portraying the guru in 'White,' while Grover humorously questioned his career. Hirani recalled shooting 'PK' at the Art of Living Centre, highlighting Ravi Shankar's surprising approval.",
-    "img": "https://static.toiimg.com/photo/msid-131348006,imgsize-104238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sri-sri-ravi-shankar-meets-bollywood-celebrities-vikrant-massey-shares-his-experience-of-playing-him-in-white/articleshow/131347890.cms",
-    "time": "2026-05-27T10:46:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Song lyrics of the day by Harry Styles",
     "desc": "Harry Styles, the celebrated British singer, continues to captivate audiences with his music and relatable stage presence. Beyond his chart-topping hits and personal life, Styles champions mental health and encourages self-acceptance, as seen in his poignant lyrics. His current tour faces minor technical challenges, while rumors swirl about a potential engagement to Zoe Kravitz.",
     "img": "https://static.toiimg.com/photo/msid-131345404,imgsize-48476.cms",
@@ -502,24 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/srh-could-be-dangerous-for-rr-ipl-show-2026/article71028818.ece",
     "time": "2026-05-27T10:11:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Emily in Paris’ and ‘The Lincoln Lawyer’ to bid goodbye to their OTT home",
-    "desc": "Get ready for the final curtain call as Netflix announces the upcoming sixth season of 'Emily in Paris' will be its last, bidding adieu to Emily Cooper's Parisian adventures. Similarly, 'The Lincoln Lawyer' is also concluding its run with its final season. Both shows promise a memorable send-off for their dedicated fanbases.",
-    "img": "https://static.toiimg.com/photo/msid-131345508,imgsize-35160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/emily-in-paris-and-the-lincoln-lawyer-to-bid-goodbye-to-their-ott-home-with-their-final-season/articleshow/131345509.cms",
-    "time": "2026-05-27T10:05:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Central Consumer Protection Authority cracks down on online sale of hazardous chemicals, explosive substances",
-    "desc": "The Central Consumer Protection Authority (CCPA), under the Consumer Protection Act, 2019, has initiated regulatory action against the \"unauthorized online sale and advertisement of hazardous chemicals, explosive substances, and related precursors on digital platforms\" to strengthen consumer safety, public security and responsible e-commerce practices.",
-    "img": "https://static.toiimg.com/photo/msid-131346640,imgsize-19140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/central-consumer-protection-authority-cracks-down-on-online-sale-of-hazardous-chemicals-explosive-substances/articleshow/131346533.cms",
-    "time": "2026-05-27T09:59:00.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/sears-tower-tallest-for-nearly-25-years-now-ranked-25th/article70896858.ece",
     "time": "2026-05-22T03:58:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
