@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "તેલની મોંધવારી ATMમાં રોકડ સંકટ લઈને આવી, ખાલી મશીનો વધારી શકે છે ટેંશન ! બેંકોને કંપનીઓની ચેતવણી, રાખી આ માંગ",
+    "desc": "તેલના વધતા ભાવ ATM રોકડ સેવાઓ પર પણ અસર કરી શકે છે. ATM રોકડ આપનારા કહે છે કે પેટ્રોલ અને ડીઝલના વધતા ભાવ તેમના સંચાલન ખર્ચમાં વધારો કરી રહ્યા છે. ખર્ચ ઘટાડવા માટે, તેઓ ATM મશીનોમાં રોકડ જમા કરાવવાની આવર્તન ઘટાડી શકે છે. તેમણે IBAને સેવા ખર્ચમાં વધારો કરવા અંગે પણ પત્ર લખ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/oil-price-hike-brings-cash-crisis-in-atms-empty-machines-can-increase-tension-companies-warn-banks-keep-this-demand-479394 ",
+    "time": "2026-05-27T09:20:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Jioનો ધમાકો ! 200 રૂપિયામાં 15 એપ્સની મોજ, અનલિમિટેડ 5G અને 1000થી વધારે લાઈવ ટીવી પણ, જાણો",
+    "desc": "Reliance Jioએ 200 રૂપિયાના નવા OTT Pass લોન્ચ કર્યો છે, જેમાં 15 પ્રીમિયમ OTT એપ્સ 1000થી વધારે લાઈવ ટીવી ચેનલ, 30 જીબી ડેટા અને Unlimited 5Gનો પણ મળશે ફાયદો, તે 28 દિવસની વેલિડિટી સાથે આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/jio-200-ott-pass-15-apps-unlimited-5g-and-more-than-1000-live-tv-channels-for-rs-200-know-479375 ",
+    "time": "2026-05-27T08:10:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રાજસ્થાન રોયલ્સ માટે ખતરો બનશે IPLનો આ નિયમ ? SRH સામે એલિમિનેટર મેચ રમ્યા વિના જ બહાર થઈ શકે છે RR",
+    "desc": "IPL 2026માં આજે સનરાઇઝર્સ હૈદરાબાદ અને રાજસ્થાન રોયલ્સ વચ્ચે એલિમિનેટર મેચ રમાશે. જો કે, IPLનો એક નિયમ રાજસ્થાન રોયલ્સ માટે ખતરો બની શકે છે, આ નિયમને કારણે RR એક પણ મેચ રમ્યા વિના ટુર્નામેન્ટમાંથી બહાર થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/this-ipl-rule-hurt-to-rajasthan-royals-if-eliminator-match-cancelled-rr-will-be-eliminated-479374 ",
+    "time": "2026-05-27T07:42:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલ બાદ હવે CNGના ભાવમાં ભડકો; અદાણી ગેસે એક ઝાટકે વધારી દીધો આટલો ભાવ!",
+    "desc": "અમદાવાદમાં CNGના ભાવમાં ફરી એકવાર વધારો થતાં વાહનચાલકો અને ટ્રાન્સપોર્ટ વ્યવસાય સાથે જોડાયેલા લોકો પર આર્થિક ભાર વધ્યો છે. અદાણી ગેસ સપ્લાય દ્વારા આપવામાં આવતા CNGના દરમાં આજથી પ્રતિ કિલો બે રૂપિયાનો વધારો લાગુ કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-and-diesel-after-cng-prices-surge-again-adani-gas-hikes-rates-by-2-per-kg-479367 ",
+    "time": "2026-05-27T07:13:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB vs GT મેચમાં અજીબ ઘટના... જે બોલ પર ફોર આવી એ જ બોલ પર આઉટ થયો બેટ્સમેન, જાણો કેવી રીતે",
+    "desc": "IPL 2026ના ક્વોલિફાયર 1માં પ્રથમ ઇનિંગ દરમિયાન રોમાંચક મુકાબલો રહ્યો. RCBએ નોકઆઉટ મેચમાં અત્યાર સુધીનો સૌથી વધુ સ્કોર બનાવ્યો, ગુજરાતને 254 રનનો વિશાળ ટાર્ગેટ આપ્યો હતો. આ દરમિયાન સાઈ સુદર્શન એવી રીતે આઉટ થયો કે અમ્પાયર પણ સ્તબ્ધ થઈ ગયા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rcb-vs-gt-ipl-2026-qualifier-1-sai-sudharsan-hit-wicket-video-viral-479369 ",
+    "time": "2026-05-27T06:42:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રણવીર સિંહ પહેલા આ કલાકારો પર પણ FWICE લગાવી ચુકી છે પ્રતિબંધ, એક એક્ટર ઈંડસ્ટ્રીમાંથી થઈ ગયો ગાયબ",
+    "desc": "સોમવારે બોલીવુડના ધુરંધર રણવીર સિંહ પર FWICE એ પ્રતિબંધ જાહેર કર્યો છે. આ વાતથી ખળભળાટ મચી ગયો છે પરંતુ શું તમે જાણો છો કે રણવીર સિંહ પહેલા કેટલા એક્ટર્સ વિરુદ્ધ આવા પ્રતિબંધ લાગી ચુક્યા છે ? જો તમને નથી ખબર તો ચાલો તમને જણાવીએ કયા એક્ટર પર કયા કારણોસર FWICE પ્રતિબંધ લગાવી ચુકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/actors-who-faced-fwice-banned-before-ranveer-singh-who-were-banned-by-fwice-in-bollywood-479365 ",
+    "time": "2026-05-27T06:09:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં આજે ભાવ વધ્યા કે ઘટ્યા",
+    "desc": "બુધવાર, 27 મેના રોજ, દેશભરમાં પેટ્રોલ અને ડીઝલના ભાવ જાહેર કરવામાં આવ્યા છે. સરકારી ઓઈલ કંપનીઓએ વહેલી સવારે પેટ્રોલ-ડીઝલના ભાવ જાહેર કર્યા હતા, ત્યારે આ લેખમાં જાણીશું કે, તમારા શહેરમાં આજના ભાવમાં વધારો થયો છે કે ઘટાડો કે પછી ભાવ સ્થિર રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-know-latest-fuel-rate-in-ahmedabad-479366 ",
+    "time": "2026-05-27T06:08:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB સામે ગુજરાત ટાઈટન્સ કેમ હાર્યું ? જાણો શુભમન ગિલે કોના પર ફોડ્યું હારનું ઠીકરું",
+    "desc": "IPL 2026ના ક્વોલિફાયર-1માં RCBએ ગુજરાત ટાઇટન્સને એકતરફી મુકાબલામાં હરાવીને ફાઇનલમાં સ્થાન મેળવ્યું. રજત પાટીદારની માત્ર 33 બોલમાં અણનમ 93 રનની વિસ્ફોટક ઇનિંગ અને બોલરોના વિનાશક પ્રદર્શન સામે GT સંપૂર્ણપણે ભાંગી પડ્યું. હાર બાદ કેપ્ટન શુભમન ગિલે હારના મુખ્ય કારણો જણાવ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-qualifier-1-rcb-vs-gt-shubman-gill-statement-on-loss-against-rcb-479363 ",
+    "time": "2026-05-27T05:31:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારતની નવી ટેકનોલોજી! પાણીમાં ઇથેનોલ મિક્સ કરીને બનશે રસોઈ, ગડકરીએ રજૂ કર્યો કોમર્શિયલ LPGનો સસ્તો વિકલ્પ",
+    "desc": "કેન્દ્રીય મંત્રી નીતિન ગડકરીએ ઇથેનોલ ચાલતા સ્વદેશી રસોઈ ચૂલા ટેકનોલોજીનું અનાવરણ કર્યું, જે કોમર્શિયલ LPG કરતા સસ્તી છે. આ ચૂલો ઇથેનોલ અને પાણીના મિશ્રણ પર ચાલે છે અને કાચા તેલ પર ભારતની નિર્ભરતા ઘટાડવામાં મદદ કરશે, અને યુવાનોમાં વિજ્ઞાનને પ્રોત્સાહન આપવા માટે 40 કરોડ રૂપિયાની પહેલની પણ જાહેરાત કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/indias-new-technology-cooking-will-be-done-by-mixing-ethanol-with-water-gadkari-introduced-a-cheaper-alternative-to-commercial-lpg-479352 ",
+    "time": "2026-05-27T03:34:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "રેલ્વેએ અમદાવાદ સહિક આ રૂટની 77 ટ્રેનો કરી કેન્સલ, અનેક એક્સપ્રેસ ટ્રેનોના બદલ્યા રૂટ અને ટાઈમિંગ, જાણો",
     "desc": "ભારતીય રેલ્વેએ જૂન 2026 માટે મોટી સંખ્યામાં ટ્રેનો રદ કરી છે. જો તમે પણ જૂનમાં ટ્રેનની મુસાફરી કરવાના છો, તો સ્ટેશન પર જતા પહેલા રેલ્વે એપ, NTES અથવા IRCTC પ્લેટફોર્મ પર તમારી ટ્રેનનું લાઇવ સ્ટેટસ ચેક કરવાનું ભૂલશો નહીં.",
@@ -297,15 +378,6 @@ const newsData_gu = [
     "time": "2026-05-25T05:43:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "માત્ર પેટ્રોલ-ડીઝલ જ નહીં, સોનું પણ થયું મોંઘું... ચાંદીના ભાવમાં પણ ઉછાળો, જાણો નવા ભાવ",
-    "desc": "ભારતમાં છેલ્લા 11 દિવસમાં પેટ્રોલ અને ડીઝલના ભાવમાં ચોથી વખત વધારો કરવામાં આવ્યો છે. અત્યાર સુધીમાં પેટ્રોલના ભાવમાં 7 રૂપિયાથી વધુનો વધારો થયો છે. તો આજે સોનાના ભાવમાં પણ ઉછાળો જોવા મળ્યો છે, તો ચાંદીના ભાવમાં પણ વધારો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-rate-hike-after-crude-oil-price-fall-know-latest-rate-479151 ",
-    "time": "2026-05-25T03:56:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "પતિ રોજ અલગ અલગ છોકરી સાથે પાર્ટી કરે તો ચાલે... દુબઈના અરબપતિની પત્નીએ કહેલી વાતથી શરુ થયો વિવાદ",
     "desc": "નેટફ્લિક્સ પર એક નવો શો સ્ટ્રીમ થયો છે જેનું નામ છે દેશી બ્લિંગ. આ શોના કારણે ઈંટરનેટ પર એક વિવાદ શરુ થયો છે. શોમાં દુબઈના બિઝનેસમેનની પત્ની એવું કહેતી જોવા મળે છે કે તેનો પતિ પાર્ટીનો શોખીન છે અને રોજ તે અલગ અલગ છોકરી સાથે પાર્ટી કરે તેમાં કોઈ વાંધો નથી. બસ રોજ એક જ છોકરી ન હોવી જોઈએ... આ વાતથી સોશિયલ મીડિયા પર લોકો ભડકી ગયા છે.",
@@ -342,15 +414,6 @@ const newsData_gu = [
     "time": "2026-05-24T16:51:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સરકારે CNG, LNG અને હાઇડ્રોજન ફ્યુઅલ પર લીધો મોટો નિર્ણય! લાગુ કર્યો આ નવો નિયમ, જાણો ગ્રાહકોનો ફાયદો કે નુકસાન?",
-    "desc": "ભારત સરકારે ક્લીન એનર્જીને પ્રોત્સાહન આપવા અને ગ્રાહકોને યોગ્ય માત્રામાં ઇંધણ આપવા માટે મોટું પગલું ભર્યું છે. હવે પેટ્રોલ-ડીઝલની સાથે CNG, LNG અને હાઇડ્રોજન ફ્યુઅલ ડિસ્પેન્સરની પણ સરકારી તપાસ અને વેરિફિકેશન થશે. નવા નિયમોથી ઇંધણની ચોરી અને ઓછી માત્રા આપવા જેવી ફરિયાદો પર રોક લગાવવામાં મદદ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-takes-big-decision-on-cng-lng-and-hydrogen-fuel-this-new-rule-has-been-implemented-know-the-benefit-or-harm-to-consumers-479139 ",
-    "time": "2026-05-24T15:12:56.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ઇલેક્ટ્રિક કારની બેટરી ખતમ થઈ જાય ત્યારે શું થાય છે? જાણો ટર્ટલ મોડ અને અન્ય મહત્વપૂર્ણ બાબતો",
     "desc": "ઇલેક્ટ્રિક કારની લોકપ્રિયતા દિવસેને દિવસે વધી રહી છે. પરંતુ શું તમે જાણો છો કે જો ઇલેક્ટ્રિક કારની બેટરી ખતમ થઈ જાય તો શું થાય છે? કારના કયા ફીચર્સ કામ કરે છે અને કયા કામ કરવાનું બંધ કરે છે? ચાલો સમજઈ કે જ્યારે EV બેટરી ખતમ થઈ જાય ત્યારે શું થાય છે અને તમે શું કરી શકો છો.",
@@ -358,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/what-happens-when-an-electric-car-battery-runs-out-know-turtle-mode-and-other-important-things-479130 ",
     "time": "2026-05-24T13:40:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બાળકો પેદા કરવામાં ભારતના આ 6 રાજ્ય છે આગળ, જાણો બાકીના રાજ્યની હાલત, દિલ્હી છે સૌથી પાછળ",
-    "desc": "2024 માં ભારતનો કુલ પ્રજનન દર 2.1થી ઘટીને 1.9 થયો છે. 6 રાજ્યો સિવાય, પ્રજનન દર રિપ્લેસમેન્ટ સ્તરથી નીચે છે. દિલ્હીમાં સૌથી ઓછો પ્રજનન દર 1.2 છે, ત્યારબાદ કેરળ, તમિલનાડુ અને પશ્ચિમ બંગાળનો ક્રમ આવે છે 1.3 જ્યારે TFR 2.1 હોય છે, ત્યારે તેને રિપ્લેસમેન્ટ લેવલ માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/these-6-states-of-india-are-ahead-in-childbearing-know-the-condition-of-the-rest-of-the-states-479127 ",
-    "time": "2026-05-24T12:30:33.000Z"
   },
   {
     "cat": "World",
@@ -421,24 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/why-was-dum-dum-diga-diga-rejected-by-censor-board-479082 ",
     "time": "2026-05-24T07:46:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "દેશના આ શહેરમાં પેટ્રોલ ₹113.53 અને ડીઝલ ₹101.55 એ પહોંચ્યું, ફ્યુઅલના નવા ભાવ જાહેર",
-    "desc": "આજે રવિવારે ઓઇલ માર્કેટિંગ કંપનીઓએ પેટ્રોલ અને ડીઝલના ભાવ જાહેર કર્યા છે. છેલ્લા 10 દિવસમાં પેટ્રોલ અને ડીઝલના ભાવમાં 3 વખત વધારો કરવામાં આવ્યો છે, ત્યારે આજના ભાવમાં કોઈ ફેરફાર થયો છે કે ભાવ સ્થિર છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-know-latest-fuel-rate-in-india-479057 ",
-    "time": "2026-05-24T07:11:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મોંઘા થઈ રહેલા પેટ્રોલ-ડીઝલથી સોનું સસ્તું કઈ રીતે? ધડાધડ ઘટાડા બાદ હવે શું છે સોનાનો ભાવ..ખાસ જાણો",
-    "desc": "જ્યારથી ઈરાન યુદ્ધ શરૂ થયું છે ત્યારથી ક્રૂડ ઓઈલના ભાવમાં ભડકો અને સોના તથા ચાંદીના ભાવમાં નરમાઈનો માહોલ જોવા મળી રહ્યો છે. ત્યારે વિચાર એ આવે કે વૈશ્વિક સ્તરે અનિશ્ચતતાવાળો માહોલ હોય ત્યારે સુરક્ષિત રોકાણની માંગણી વધતી હોય છે. પરંતુ હાલ તો ઉલ્ટી ગંગા જોવા મળી રહી છે. ક્રૂડના ભાવ વધતા જાય છે અને સોનું કડાકામાં જોવા મળી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-does-rising-crude-oil-prices-affect-gold-prices-check-the-price-of-gold-per-carat-479052 ",
-    "time": "2026-05-24T03:49:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,14 +673,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/punjabi-singer-inder-kaur-body-found-in-canal-crime-ludhiana-family-doubt-on-one-sided-lover-from-caneda-478565 ",
     "time": "2026-05-20T03:35:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "1 લાખની ઈલેક્ટ્રિક બાઇક પર તૂટી પડ્યા ગ્રાહકો, 15 દિવસમાં 25000ની પાર થયું બુકિંગ, 180 KM છે રેન્જ",
-    "desc": "ભારતમાં ઇલેક્ટ્રિક ટુ-વ્હીલર બજાર ઝડપથી વધી રહ્યું છે, અને હવે માત્ર ઇલેક્ટ્રિક સ્કૂટર જ નહીં પરંતુ ઇલેક્ટ્રિક મોટરસાઇકલની માંગ પણ વધી રહી છે. આ નવી ઇલેક્ટ્રિક બાઇક લોન્ચ થયાના માત્ર 15 દિવસમાં 25,000થી વધુ બુકિંગ મેળવી ચૂકી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/customers-are-crazy-about-the-1-lakh-electric-bike-bookings-crossed-25000-in-15-days-range-is-180-km-478515 ",
-    "time": "2026-05-19T13:17:17.000Z"
   }
 ];

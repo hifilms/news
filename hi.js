@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Check head-to-head records of two sides before IPL 2026 Eliminator",
+    "desc": "Sunrisers Hyderabad are up against Rajasthan Royals in the IPL 2026 Eliminator as two batting powerhouses collide in Mullanpur, New Chandigarh. SRH finished third after failing to defeat the Royal Challengers Bengaluru by a sufficient...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rr-ipl-2026-h2h-stats-check-head-to-head-records-of-two-sides-before-eliminator-2026-05-27-1042650",
+    "time": "2026-05-27T09:19:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi headache in Pat Cummins' mind, SRH skipper confirms extra prep ahead of Eliminator",
+    "desc": "Vaibhav Sooryavanshi has been one batter oppositions have found difficult to contain in the IPL 2026. The 15-year-old sensation has set the stage alight with the jaw-dropping performances throughout the IPL 2026 and is in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-headache-in-pat-cummins-mind-srh-skipper-confirms-extra-prep-ahead-of-eliminator-2026-05-27-1042646",
+    "time": "2026-05-27T08:49:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Eyes on Vaibhav Sooryavanshi as SRH-RR batting powerhouses collide in New Chandigarh",
+    "desc": "Vaibhav Sooryavanshi will be at the centre stage in his first IPL playoff game as Rajasthan Royals take on Sunrisers Hyderabad in the Eliminator at the Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur. So...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eyes-on-vaibhav-sooryavanshi-as-srh-rr-batting-powerhouses-collide-in-new-chandigarh-2026-05-27-1042642",
+    "time": "2026-05-27T08:32:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Randhir Singh, Olympian and India's first shooting gold medallist at Asian Games, passes away",
+    "desc": "Randhir Singh, who was India's first-ever shooting gold medallist at the Asian Games, passed away on Wednesday. The former shooter was 79 when he breathed his last. Randhir is known for his contributions both on and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/randhir-singh-olympian-and-indias-first-shooting-gold-medallist-at-asian-games-passes-away-2026-05-27-1042634",
+    "time": "2026-05-27T07:38:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL to be moved to September-October window? IPL chairman reveals major 'suggestion' for expanding league",
+    "desc": "The Indian Premier League could be split into two windows and moved to the September-October months, IPL chairman Arun Dhumal hinted to Sportstar. The IPL governing body is looking to increase the number of IPL...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-to-be-moved-to-september-october-window-ipl-chairman-reveals-major-suggestion-for-expanding-league-2026-05-27-1042614",
+    "time": "2026-05-27T06:06:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rahul Tewatia shatters MS Dhoni's record after lone effort in GT's loss to RCB in Qualifier 1",
+    "desc": "Gujarat Titans middle-order batter Rahul Tewatia put up a lone hand in what was otherwise a gloomy night for his team with the bat against the Royal Challengers Bengaluru in Qualifier 1 of the IPL...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rahul-tewatia-shatters-ms-dhonis-record-after-lone-effort-in-gt-s-loss-to-rcb-in-qualifier-1-2026-05-27-1042606",
+    "time": "2026-05-27T05:00:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill admits GT were 'not up to mark' in fielding after suffering RCB drubbing",
+    "desc": "Gujarat Titans captain Shubman Gill rued the costly errors his team made while fielding against the Royal Challengers Bengaluru in the Qualifier 1 at the HPCA Stadium in Dharamsala. The Titans dropped as many as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-admits-gt-were-not-up-to-mark-in-fielding-after-suffering-rcb-drubbing-2026-05-27-1042603",
+    "time": "2026-05-27T04:26:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rajat Patidar creates T20 world record after jaw-dropping display in RCB vs GT IPL 2026 Qualifier 1",
     "desc": "It was yet another special night for Rajat Patidar in an IPL playoff. From his 2022 Eliminator masterclass against the Lucknow Super Giants to his 2026 carnage in Qualifier 1 against the Gujarat Titans, Patidar...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/history-on-rcbs-side-to-defend-ipl-title-after-handing-gt-a-drubbing-in-dharamsala-2026-05-27-1042582",
     "time": "2026-05-27T01:16:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB decimate Gujarat Titans to seal spot in IPL 2026 final, register second biggest win in playoffs history",
-    "desc": "Royal Challengers Bengaluru decimated Gujarat Titans in the IPL 2026 Qualifier 1 at the HPCA Stadium in Dharamsala. Batting first, Venkatsesh Iyer set the tone for the defending champions, but he failed to live up...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-decimate-gujarat-titans-to-seal-spot-in-ipl-2026-final-register-second-biggest-win-in-playoffs-history-2026-05-26-1042571",
-    "time": "2026-05-26T18:13:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daniil Medvedev, former world number one, exits French Open in first round after defeat to Australian wildcard",
-    "desc": "Daniil Medvedev’s campaign at Roland Garros once again ended early, reinforcing a pattern that has followed him across the clay season and more broadly, recent Grand Slam events. The former world No. 1 exited the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/daniil-medvedev-former-world-number-one-exits-french-open-in-first-round-after-defeat-to-australian-wildcard-2026-05-26-1042569",
-    "time": "2026-05-26T16:33:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB set new IPL record following Rajat Patidar's 93-run onslaught against Gujarat Titans in Qualifier 1",
-    "desc": "Royal Challengers Bengaluru posted 254 runs on the board in the first innings of the Qualifier 1 against Gujarat Titans at the HPCA Stadium in Dharamsala. With that, they set the record for the highest...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-set-new-ipl-record-following-rajat-patidar-s-93-run-onslaught-against-gujarat-titans-in-qualifier-1-2026-05-26-1042568",
-    "time": "2026-05-26T16:07:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan announce Test, ODI squad for India series; Rashid Khan left out of red-ball game",
-    "desc": "Afghanistan have announced their squads for the upcoming tour of India. The selection has drawn significant attention after star spinner Rashid Khan was left out of the Test setup. The spinner previously noted that playing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-announce-test-odi-squad-for-india-series-rashid-khan-left-out-of-red-ball-game-2026-05-26-1042558",
-    "time": "2026-05-26T14:43:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Phil Salt not playing vs Gujarat Titans in IPL 2026 Qualifier 1?",
-    "desc": "Royal Challengers Bengaluru opener Phil Salt will miss the Qualifier 1 clash against Gujarat Titans at the HPCA Stadium in Dharamsala. The keeper-batter suffered a finger injury earlier in the season and has now been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-phil-salt-not-playing-vs-gujarat-titans-in-ipl-2026-qualifier-1-2026-05-26-1042555",
-    "time": "2026-05-26T13:42:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer to play Lanka Premier League after announcing retirement",
-    "desc": "Former India cricketer Vijay Shankar has signed for Kandy Royals for the upcoming Lanka Premier League. The 35-year-old announced his retirement from India cricket just last week and has already found a new destination on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-to-play-lanka-premier-league-after-announcing-retirement-2026-05-26-1042540",
-    "time": "2026-05-26T12:26:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bengaluru seal spot in final with 92-run win against Gujarat Titans",
-    "desc": "Royal Challengers Bengaluru decimated Gujarat Titans in Qualifier 1. Captain Rajat Patidar led from the front, scoring an unbeaten 93 runs off just 33 balls. Courtesy of his blistering batting, RCB posted the highest-ever playoff...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-qualifier-1-ipl-cricket-match-score-live-updates-today-at-hpca-stadium-dharamsala-virat-kohli-bhuvneshwar-kumar-shubman-gill-sai-sudharsan-1042537",
-    "time": "2026-05-26T11:58:12.000Z"
   }
 ];
