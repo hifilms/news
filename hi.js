@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dhruv Jurel shares his role for Rajasthan Royals, says 'I'm meant to keep the ship steady'",
+    "desc": "Rajasthan Royals’ keeper-batter Dhruv Jurel played a vital innings in the IPL 2026 Eliminator against Sunrisers Hyderabad in Mullanpur. Youngster Vaibhav Sooryavanshi set the tone with his blistering batting of 97 runs off 29 balls,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dhruv-jurel-shares-his-role-for-rajasthan-royals-says-i-m-meant-to-keep-the-ship-steady-2026-05-28-1042828",
+    "time": "2026-05-28T11:55:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Esha Singh sets new world record, wins ISSF World Cup in women's 25m pistol event",
+    "desc": "India’s Esha Singh created history at the ISSF World Cup in Munich after winning gold in the women’s 25m pistol event. She also set a world record score with 43 hits out of 50 in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/esha-singh-sets-new-world-record-wins-issf-world-cup-in-women-s-25m-pistol-event-2026-05-28-1042809",
+    "time": "2026-05-28T10:36:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heinrich Klaasen and Ishan Kishan achieve huge feat, join list of legendary batters as IPL 2026 campaign ends",
+    "desc": "The IPL (Indian Premier League) 2026 campaign has come to an end for Sunrisers Hyderabad. The side took on Rajasthan Royals in the eliminator of the tournament in Mullanpur on May 27th, and Royals managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/heinrich-klaasen-and-ishan-kishan-achieve-huge-feat-join-list-of-legendary-batters-as-ipl-2026-campaign-ends-2026-05-28-1042799",
+    "time": "2026-05-28T09:37:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Would make a comeback': Former India cricketer backs star RR batter to return back to form",
+    "desc": "Rajasthan Royals have reached Qualifier 2 of the ongoing IPL (Indian Premier League) 2026. The side defeated Sunrisers Hyderabad in the eliminator and will take on Gujarat Titans in Q2 in hopes of booking their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/would-make-a-comeback-former-india-cricketer-backs-star-rr-batter-to-return-back-to-form-2026-05-28-1042793",
+    "time": "2026-05-28T09:10:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check head-to-head records of two sides before IPL 2026 Qualifier 2",
+    "desc": "The stage is set for Qualifier 2 of the ongoing IPL (Indian Premier League) 2026. Rajasthan Royals will be taking on Gujarat Titans at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rr-h2h-stats-check-head-to-head-records-of-two-sides-before-ipl-2026-qualifier-2-2026-05-28-1042777",
+    "time": "2026-05-28T07:31:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'He's hitting everything': Ambati Rayudu makes bold claim around Vaibhav Sooryavanshi after whirlwind innings",
     "desc": "15-year-old Vaibhav Sooryavanshi has been one of the biggest finds for Rajasthan Royals. Competing in his second season in the tournament, Vaibhav is the current orange cap holder and one of the most in-form batters...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/can-t-ask-for-much-more-pat-cummins-opens-up-after-sunrisers-hyderabad-face-elimination-at-the-hands-of-rr-2026-05-28-1042732",
     "time": "2026-05-28T02:11:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RR vs SRH eliminator clash breaks all-time IPL record after exceptional innings by Vaibhav Sooryavanshi",
-    "desc": "The eliminator of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Sunrisers Hyderabad. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, on May 27th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-srh-eliminator-clash-breaks-all-time-ipl-record-after-exceptional-innings-by-vaibhav-sooryavanshi-2026-05-28-1042727",
-    "time": "2026-05-28T01:18:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Unity Cup in India?",
-    "desc": "India have arrived in England for the Unity Cup 2026, marking a rare overseas appearance in a tournament that also features Nigeria, Jamaica and Zimbabwe. The four-nation competition follows a knockout format and carries added...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-vs-jamaica-live-when-and-where-to-watch-unity-cup-in-india-2026-05-27-1042715",
-    "time": "2026-05-27T17:58:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi, Archer help Rajasthan decimate SRH in IPL Eliminator, set date with Gujarat for spot in final",
-    "desc": "Rajasthan Royals put up a stunning show against Sunrisers Hyderabad in the IPL 2026 Eliminator, securing a 47 run win. The game was expected to be competitive with both teams boasting a sensational batting unit,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sooryavanshi-archer-help-rajasthan-decimate-srh-in-ipl-eliminator-set-date-with-gujarat-for-spot-in-final-2026-05-27-1042714",
-    "time": "2026-05-27T17:55:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Netherlands announce FIFA World Cup 2026 squad, key players miss out",
-    "desc": "The Netherlands have announced their squad for the upcoming FIFA World Cup 2026. A few notable omissions and surprise inclusions have shaped the group heading into the tournament in the United States, Canada and Mexico. Among...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/netherlands-announce-fifa-world-cup-2026-squad-key-players-miss-out-2026-05-27-1042711",
-    "time": "2026-05-27T17:14:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi's carnage vs SRH gets internet talking, netizens call for immediate India call-up",
-    "desc": "Vaibhav Sooryavanshi turned the IPL 2026 Eliminator into his personal stage with an innings that stunned players, fans and commentators alike. At just 15 years old, the Rajasthan Royals opener produced one of the most...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-s-carnage-vs-srh-gets-internet-talking-netizens-call-for-immediate-india-call-up-2026-05-27-1042707",
-    "time": "2026-05-27T16:20:06.000Z"
   }
 ];

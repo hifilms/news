@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
-    "cat": "Tech",
-    "title": "33Km થી વધુ માઇલેજ, કિંમત 5 લાખથી ઓછી, નાના પરિવાર માટે બેસ્ટ 2 CNG કાર",
-    "desc": "પેટ્રોલ અને ડીઝલની વધી રહેલી કિંમત વચ્ચે દેશમાં સીએનજી કારની માંગ સતત વધી રહી છે. મારૂતિ સુઝુકી જેવી કંપનીઓ પોતાના ઘણા વેરિએન્ટમાં સીએનજી ઓફર કરે છે. આજે અમે તમને મારૂતિની બે સસ્તી સીએનજી કાર વિશે જણાવીશું.",
+    "cat": "Politics",
+    "title": "ડી.કે. શિવકુમાર કેવી રીતે બન્યા કોંગ્રેસના સંકટમોચક? ગુજરાતથી હિમાચલ સુધી અનેક ઓપરેશન લોટસ કરી ચૂક્યા છે ફેઈલ",
+    "desc": "ડી.કે. શિવકુમાર કર્ણાટકના આગામી મુખ્યમંત્રી બનવા જઈ રહ્યા છે. તેઓ માત્ર સોનિયા ગાંધીના વિશ્વાસુ જ નથી માનવામાં આવતા, પરંતુ ઘણી વખત તેમણે કોંગ્રેસને સંકટમાંથી ઉગારી છે. આ જ કારણે તેમને પાર્ટીના 'સંકટમોચક' પણ કહેવામાં આવે છે. તેઓ કર્ણાટકથી લઈને ગુજરાત સુધી પોતાનો દમ બતાવી ચૂક્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/india-most-affordable-cng-cars-maruti-s-presso-and-alto-mileage-more-than-33km-price-less-than-5-lakhs-479473 ",
-    "time": "2026-05-28T06:40:43.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/how-did-dk-shivakumar-become-the-congress-troubleshooter-from-gujarat-to-himachal-many-operations-have-failed-479517 ",
+    "time": "2026-05-28T11:30:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "દુનિયાની રહસ્યમય નદી, જેના પર આજ સુધી નથી બનાવી શકાયો એક પણ પુલ, જાણો કેમ",
+    "desc": "દુનિયાની બીજી સૌથી મોટી નદી એમેઝોન પર આજ સુધી કોઈ પુલ બનાવવામાં આવ્યો નથી. એન્જિનિયરો પણ આ નદી પર પુલ બનાવવામાં નિષ્ફળ ગયા છે, ત્યારે આ લેખમાં જાણીશું કે આ નદી પર કેમ પુલ બાંધી શકાતો નથી અને તેની પાછળનું કારણ શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-amazon-river-has-no-bridge-know-the-reason-behind-it-479515 ",
+    "time": "2026-05-28T11:24:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશીને ટીમ ઇન્ડિયામાં તક મળવી મુશ્કેલ, સિલેક્ટર્સ સામે છે આ મોટી સમસ્યા",
+    "desc": "IPL 2026માં વૈભવ સૂર્યવંશીના વિસ્ફોટક પ્રદર્શન બાદ તેને શક્ય તેટલી વહેલી તકે ટીમ ઈન્ડિયામાં તક આપવાની માંગ વધી રહી છે. દરમિયાન પૂર્વ ભારતીય ક્રિકેટર અને વર્તમાન કોમેન્ટેટર આકાશ ચોપરાએ જણાવ્યું છે કે વૈભવની ટીમ ઈન્ડિયામાં પસંદગી માટે વિલંબ કેમ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-difficult-for-vaibhav-suryavanshi-to-get-chance-in-team-india-aakash-chopra-explains-479513 ",
+    "time": "2026-05-28T10:56:56.000Z"
   },
   {
     "cat": "Tech",
@@ -15,7 +33,61 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/meta-big-announcement-now-you-have-to-pay-to-use-instagram-whatsapp-facebook-479472 ",
-    "time": "2026-05-28T06:18:51.000Z"
+    "time": "2026-05-28T10:24:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "એન્ટિલિયામાં ફ્લેટ, માલદીવમાં આઈલેન્ડ અને ₹30 કરોડની ઓફર ! સૂર્યવંશીની મુંબઈ ઇન્ડિયન્સમાં થશે એન્ટ્રી ?",
+    "desc": "વૈભવ સૂર્યવંશી IPL 2026માં રાજસ્થાન રોયલ્સ માટે ધૂમ મચાવી રહ્યો છે. તેણે એલિમિનેટર મેચમાં SRH સામે ધમાકેદાર ઈનિંગ રમી હતી. હવે તેને મુંબઈ ઇન્ડિયન્સ તરફથી મોટી ઓફર મળી હોવાની અફવાઓ સામે આવી છે. ત્યારે IPLના પૂર્વ ચેરમેન લલિત મોદીએ આ અફવાઓ પર ભાર મૂક્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/lalit-modi-slams-rumours-of-vaibhav-suryavanshi-getting-offer-to-join-mumbai-indians-479476 ",
+    "time": "2026-05-28T10:24:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અમદાવાદમાં પેટ્રોલ ₹102ને પાર, તો ડીઝલ ₹100ની નજીક... જાણો તમારા શહેરમાં શું છે આજના ભાવ",
+    "desc": "ક્રૂડ ઓઇલ સંકટ વચ્ચે દિલ્હી અને મુંબઈ જેવા મોટો શહેરોમાં પેટ્રોલ અને ડીઝલના ભાવ રેકોર્ડ સ્તરે પહોંચી ગયા છે. તો અમદાવાદમાં પેટ્રોલ ₹102ને પાર પહોંચ્યું છે, ત્યારે તમારા શહેરના આજના ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-ahmedabad-delhi-mumbai-latest-fuel-rates-479496 ",
+    "time": "2026-05-28T10:23:47.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "6 એરબેગ્સ, પેટ્રોલ-CNG અને EV એકસાથે... ટાટાની સૌથી સસ્તી કાર લોન્ચ, જાણો શું છે કિંમત",
+    "desc": "ભારતમાં Tata Tiago 2026 લોન્ચ કરવામાં આવી છે. આ કંપનીની એન્ટ્રી-લેવલ કાર છે. આધુનિક ફીચર્સથી સજ્જ આ કાર આ સેગમેન્ટમાં તેના સ્પર્ધકો કરતાં એડવાન્સ છે. કારમાં 360-ડિગ્રી કેમેરા અને વાયરલેસ ચાર્જિંગ જેવી સુવિધાઓ ઉમેરવામાં આવી છે. આ કાર પેટ્રોલ, CNG અને EV વેરિઅન્ટમાં લોન્ચ કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tata-tiago-2026-launch-in-india-know-price-and-features-479498 ",
+    "time": "2026-05-28T08:58:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગારપંચ અંગે ખરાબ સમાચાર! લાખો કર્મચારીઓની આશા પર ફરી વળ્યું પાણી?",
+    "desc": "કર્મચારી યુનિયનો તરફથી આઠમાં પગાર પંચ હેઠળ ફિટમેન્ટ ફેક્ટર 3.83 કરવાની માંગ કરવામાં આવી રહી છે. આ સિવાય પણ યુનિયનો તરફથી ઘણી માંગ કરવામાં આવી છે. પરંતુ હવે કર્મચારી યુનિયનોને આશા છે કે સરકાર કોઈ વચ્ચેનો રસ્તો પસંદ કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bad-news-regarding-the-8th-pay-commission-what-is-the-government-plan-on-salary-hike-479493 ",
+    "time": "2026-05-28T07:49:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઘર બેઠા જોઈ શકશો અક્ષય કુમારની ફિલ્મ ભૂત બંગલા, ચેક કરી લો કઈ તારીખે ઓટીટી પર થશે રિલીઝ",
+    "desc": "અક્ષય કુમારની હોરર કોમેડી ફિલ્મ ઓટીટી પર જોવાની રાહ જોતાં દર્શકો માટે સારા સમાચાર છે. આ ફિલ્મ ટુંક સમયમાં ઓટીટી પર સ્ટ્રીમ થશે. તો ફટાફટ જાણી લો ભૂત બંગલા ફિલ્મ કયા ઓટીટી પ્લેટફોર્મ પર અને કઈ તારીખે રિલીઝ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-bhooth-bangla-movie-releasing-on-netflix-here-is-ott-release-date-479475 ",
+    "time": "2026-05-28T07:05:14.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "33Km થી વધુ માઇલેજ, કિંમત 5 લાખથી ઓછી, નાના પરિવાર માટે બેસ્ટ 2 CNG કાર",
+    "desc": "પેટ્રોલ અને ડીઝલની વધી રહેલી કિંમત વચ્ચે દેશમાં સીએનજી કારની માંગ સતત વધી રહી છે. મારૂતિ સુઝુકી જેવી કંપનીઓ પોતાના ઘણા વેરિએન્ટમાં સીએનજી ઓફર કરે છે. આજે અમે તમને મારૂતિની બે સસ્તી સીએનજી કાર વિશે જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/india-most-affordable-cng-cars-maruti-s-presso-and-alto-mileage-more-than-33km-price-less-than-5-lakhs-479473 ",
+    "time": "2026-05-28T06:40:43.000Z"
   },
   {
     "cat": "Politics",
@@ -333,15 +405,6 @@ const newsData_gu = [
     "time": "2026-05-26T08:23:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોના-ચાંદીના ભાવમાં કડાકો ! ચાંદી એક જ ઝાટકે 4400 રૂપિયા ઘટી... સોનું પણ થયું સસ્તું, જાણો નવા ભાવ",
-    "desc": "મંગળવારે ફ્યુચર્સ ટ્રેડિંગ શરૂ થતાં જ સોના અને ચાંદીના ભાવમાં ઘટાડો થયો હતો. ખાસ કરીને ચાંદીમાં એક જ ઝાટકે 4,400 રૂપિયાથી વધુનો ઘટાડો થયો હતો અને હવે તે ઓલ ટાઈમ હાઈથી પ્રતિ કિલોગ્રામ ₹1.85 લાખ સસ્તી મળી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/silver-price-crash-gold-also-down-check-gold-silver-rate-today-479290 ",
-    "time": "2026-05-26T07:24:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ક્વોલિફાયર-1માં બદલાઈ જશે RCBની પ્લેઈંગ-11, વિરાટ સાથે કોણ કરશે ઓપનિંગ ? કેપ્ટન પાટીદારે આપ્યો જવાબ",
     "desc": "IPL 2026ની પહેલી ક્વોલિફાયરમાં RCB અને ગુજરાત ટાઇટન્સ આમને સામને હશે. સૌથી મોટો પ્રશ્ન એ છે કે આ મેચમાં વિરાટ કોહલીની સાથે RCB માટે કોણ ઓપનિંગ કરશે ? આ ઉપરાંત RCBની પ્લેઈંગ-11 કેવી હશે ? તેના વિશે આ લેખમાં જાણીશું.",
@@ -378,15 +441,6 @@ const newsData_gu = [
     "time": "2026-05-25T16:37:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "15% ટેક્સ પછી પણ, સોનાની દુકાનોની બહાર લાગી છે લાઇનો, શું ફરી વધશે સોનાના ભાવ ? જાણો ખેલ",
-    "desc": "ભારતમાં, સોનું ફક્ત રોકાણ જ નથી, પરંતુ તે પરંપરા અને ભાવના સાથે પણ જોડાયેલું છે. પીએમ નરેન્દ્ર મોદી દ્વારા નાગરિકોને એક વર્ષ સુધી સોનું ખરીદવાથી દૂર રહેવાની અપીલ અને સરકારે સોનાની આયાત ડ્યુટી 6 ટકાથી વધારીને 15 ટકા કરવા છતાં, ભારતીયોની ખરીદીમાં કોઈ ઘટાડો થયો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/even-after-15-percent-tax-queues-are-forming-outside-gold-shops-will-gold-prices-increase-again-know-the-game-479232 ",
-    "time": "2026-05-25T16:17:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "7 કરોડમાં બનેલી હોરર ફિલ્મ ઓબ્સેશને 11 દિવસમાં કમાઈ લીધા 750 કરોડ, ભારતમાં આ તારીખથી જોવા મળશે",
     "desc": "એક હોરર ફિલ્મ છે જેની ચર્ચા જોરશોરથી થઈ રહી છે. આ ફિલ્મ તાજેતરમાં જ રિલીઝ થઈ છે અને આ ફિલ્મે કમાણીની બાબતમાં ધુરંધર 2 નો રેકોર્ડ પણ તોડી નાખ્યો છે. આ ફિલ્મ માત્ર 7 કરોડના ખર્ચે બની છે અને તેણે અત્યાર સુધીમાં 750 કરોડની કમાણી કરી લીધી છે. આ ફિલ્મ કઈ છે જાણી લો તમે પણ.",
@@ -394,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/curry-barker-horror-film-obsession-7-crore-budget-earned-750-crore-obsession-horror-film-india-release-date-479204 ",
     "time": "2026-05-25T11:05:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "જો વરસાદના કારણે પ્લેઓફ મેચ રદ થાય તો કેવી રીતે નક્કી થશે વિજેતા ? જાણો શું છે નિયમ",
-    "desc": "IPL 2026 પ્લેઓફ મેચો 26 મેથી શરૂ થવાની છે. જો આ મેચો દરમિયાન વરસાદના કારણે રદ થાય છે, તો પરિણામ કેવી રીતે નક્કી થશે અને કઈ ટીમને વિજેતા જાહેર કરવામાં આવશે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-if-playoff-match-is-canceled-due-to-rain-how-will-the-winner-be-decided-479200 ",
-    "time": "2026-05-25T10:29:31.000Z"
   },
   {
     "cat": "Politics",
@@ -430,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/why-50-itbp-personnel-arrive-at-kanpur-police-commissioners-office-with-weapons-479191 ",
     "time": "2026-05-25T08:19:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "30 જૂન પહેલા કરી લેજો આ કામ, બાકી બંધ થઈ જશે એલપીજી સબસિડી, ખાતામાં નહીં આવે પૈસા",
-    "desc": "આજકાલ ગેસ સિલિન્ડરને લઈને લોકો પરેશાન થઈ રહ્યાં છે. સાથે સરકારના નવા-નવા નિયમથી પણ લોકો મુંજવણમાં મુાકાઈ રહ્યાં છે. હવે ગેસ સબસિડીને લઈને જાહેરાત કરવામાં આવી છે. તમે પણ જાણો શું છે આ નવો નિયમ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/these-people-lpg-subsidy-will-stop-after-june-30-lpg-subsidy-ke-niyam-479186 ",
-    "time": "2026-05-25T07:20:51.000Z"
   },
   {
     "cat": "Tech",
@@ -655,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/will-aishwarya-rai-be-seen-at-the-prestigious-cannes-film-festival-this-time-478596 ",
     "time": "2026-05-20T07:59:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "લાપતા થયા પછી પંજાબી સિંગરની લાશ નહેરમાંથી મળી, કેનેડામાં રહેતા એક તરફી પ્રેમી પર હત્યા કર્યાની શંકા",
-    "desc": "પંજાબી મ્યૂઝિક ઈંડસ્ટ્રીની લોકપ્રિય ગાયિકા ઈંદર કૌર 13 મે થી લાપતા હતી અને અંતે તેનો મૃતદેહ લુધિયાણાની એક કેનાલમાંથી મળી આવ્યો છે. ગાયિકાના પરિવારનો આક્ષેપ છે કે કેનેડામાં રહેતા એક પરણિત વ્યક્તિએ ગાયિકાની હત્યાનું ષડયંત્ર રચ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/punjabi-singer-inder-kaur-body-found-in-canal-crime-ludhiana-family-doubt-on-one-sided-lover-from-caneda-478565 ",
-    "time": "2026-05-20T03:35:16.000Z"
   }
 ];
