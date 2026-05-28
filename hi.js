@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Can't ask for much more': Pat Cummins opens up after Sunrisers Hyderabad face elimination at the hands of RR",
+    "desc": "Sunrisers Hyderabad have been eliminated from the IPL (Indian Premier League) 2026, taking on Rajasthan Royals in the eliminator of the tournament at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, on May 27th,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/can-t-ask-for-much-more-pat-cummins-opens-up-after-sunrisers-hyderabad-face-elimination-at-the-hands-of-rr-2026-05-28-1042732",
+    "time": "2026-05-28T02:11:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RR vs SRH eliminator clash breaks all-time IPL record after exceptional innings by Vaibhav Sooryavanshi",
+    "desc": "The eliminator of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Sunrisers Hyderabad. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, on May 27th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-srh-eliminator-clash-breaks-all-time-ipl-record-after-exceptional-innings-by-vaibhav-sooryavanshi-2026-05-28-1042727",
+    "time": "2026-05-28T01:18:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch Unity Cup in India?",
     "desc": "India have arrived in England for the Unity Cup 2026, marking a rare overseas appearance in a tournament that also features Nigeria, Jamaica and Zimbabwe. The four-nation competition follows a knockout format and carries added...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/will-ms-dhoni-play-for-csk-in-ipl-2027-ceo-kasi-viswanathan-answers-2026-05-27-1042676",
     "time": "2026-05-27T11:39:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MYSC Stadium in Mullanpur play?",
-    "desc": "The Eliminator clash of the IPL 2026 will see Sunrisers Hyderabad taking on Rajasthan Royals in Mullanpur. The Pat Cummins-led side has been one of the most dominant teams in the competition, but consistency is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rr-pitch-report-how-will-surface-at-mysc-stadium-in-mullanpur-play-2026-05-27-1042665",
-    "time": "2026-05-27T11:06:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "D Gukesh, Praggnanandhaa suffer defeat in Norway Chess; Divya Deshmukh continues winning run",
-    "desc": "India suffered major setbacks at the Norway Chess open section on Tuesday as D Gukesh and R Praggnanandhaa both fell short in Armageddon tie-breaks after hard-fought classical contests. Divya Deshmukh, on the other hand, kept...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/d-gukesh-praggnanandhaa-suffer-defeat-in-norway-chess-divya-deshmukh-continues-winning-run-2026-05-27-1042661",
-    "time": "2026-05-27T10:26:20.000Z"
   }
 ];
