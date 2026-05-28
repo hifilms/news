@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ભારતને મળ્યો હોર્મુઝનો વિકલ્પ, 1 જૂનથી મળશે ઓઈલ માટે નવો માર્ગ! શું સસ્તું થશે પેટ્રોલ-ડીઝલ અને LPG?",
+    "desc": "1 જૂન 2026થી ભારત-ઓમાન ફ્રી ટ્રેડ એગ્રીમેન્ટ (FTA) લાગુ થવા જઈ રહ્યો છે. જેનાથી માત્ર ટેરિફ ફ્રી વેપાર જ નહીં થાય, પરંતુ ભારતને ખાડી દેશો, આફ્રિકા અને યુરોપ સુધી નવો ટ્રેડ રૂટ પણ મળશે. ભારતને હોર્મુઝ ઓફ સ્ટ્રેટનો એક શ્રેષ્ઠ વિકલ્પ મળી જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/india-gets-hold-of-the-key-to-hormuz-a-new-route-for-oil-will-be-available-from-june-1-will-petrol-diesel-and-lpg-become-cheaper-479568 ",
+    "time": "2026-05-28T17:47:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1947માં શું હતો ભારતમાં પેટ્રોલનો ભાવ? આજના ભાવમાં તો મળતું હતું આટલા લીટરથી ઇંધણ! જાણો 78 વર્ષોમાં કેવી રીતે વધી કિંમતો",
+    "desc": "દિલ્હી સહિત દેશના મોટા મહાનગરોમાં પેટ્રોલનો ભાવ 100 રૂપિયાને પાર થઈ ગયો છે. જ્યારે ડીઝલની કિંમત પણ 100 રૂપિયા પ્રતિ લીટરની આસપાસ પહોંચી ગઈ છે. પરંતુ શું તમે જાણો છો 1947માં દેશને આઝાદી મળી હતી તે સમયે પેટ્રોલ અને ડીઝલનો ભાવ શું હતો? ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-was-the-price-of-petrol-in-india-in-1947-at-today-price-this-much-fuel-was-available-per-liter-know-how-prices-have-increased-in-78-years-479547 ",
+    "time": "2026-05-28T16:33:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેન્શન સંબંધિત આ નિયમોમાં બદલાવ કરશે મોદી સરકાર? કેન્દ્રીય કર્મચારીઓને થશે મોટી અસર",
+    "desc": "સરકારના સ્તરે એક એવી વ્યવસ્થા પર વિચાર ચાલી રહ્યો છે જેમાં કર્મચારીઓને પોતાનું પેન્શન માળખું પસંદ કરવાની વધુ સ્વતંત્રતા મળી શકે છે. કર્મચારી સંગઠનોનો દાવો છે કે, આગામી બે થી ચાર મહિનામાં આ દિશામાં પ્રગતિ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-modi-government-change-these-rules-related-to-pension-central-employees-will-be-affected-a-lot-479541 ",
+    "time": "2026-05-28T15:04:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "નથી કોઈ મૂર્તિ કે ખજાનો... તો પછી કાળા કપડાથી ઢંકાયેલા કાબાની અંદર શું છે, કોને મળે છે તેમાં જવાની પરવાનગી? જાણો",
+    "desc": "હજ યાત્રા સત્તાવાર રીતે શરૂ થઈ ગઈ છે. દુનિયાભરમાંથી લાખો યાત્રાળુઓ સાઉદી અરેબિયા પહોંચ્યા છે. યાત્રાળુઓ મક્કામાં કાબાની પરિક્રમા કરી રહ્યા છે અને વિશાળ તંબુ શહેર મીનામાં નમાઝ અદા કરી રહ્યા છે. આ દરમિયાન ચાલો જાણીએ કે કાબાની અંદર શું હોય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/what-is-inside-the-kaaba-covered-with-black-cloth-who-gets-permission-to-enter-it-know-479530 ",
+    "time": "2026-05-28T13:01:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPLના આ નિયમને કારણે રાજસ્થાન થઈ શકે છે બહાર, ગુજરાત ટાઇટન્સને રમ્યા વિના ફાઇનલમાં મળી શકે છે એન્ટ્રી",
+    "desc": "IPL 2026માં ફાઇનલ સિવાય અન્ય કોઈ મેચ માટે રિઝર્વ ડે રાખવામાં આવ્યો નથી. આનો સ્પષ્ટ અર્થ એ થાય છે કે મેચનું પરિણામ નિર્ધારિત તારીખે જ નક્કી થશે, ભલે ગમે તે થાય. આ સંજોગોમાં પ્રશ્ન એ થાય કે જો GT vs RR ક્વોલિફાયર 2 મેચ વરસાદને કારણે ધોવાઈ જાય, તો 31 મેના રોજ રોયલ ચેલેન્જર્સ બેંગલુરુ સામે ફાઇનલ કોણ રમશે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/what-happen-if-gt-vs-rr-ipl-2026-qualifier-2-match-is-cancelled-due-to-rain-479527 ",
+    "time": "2026-05-28T12:28:35.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ડી.કે. શિવકુમાર કેવી રીતે બન્યા કોંગ્રેસના સંકટમોચક? ગુજરાતથી હિમાચલ સુધી અનેક ઓપરેશન લોટસ કરી ચૂક્યા છે ફેઈલ",
     "desc": "ડી.કે. શિવકુમાર કર્ણાટકના આગામી મુખ્યમંત્રી બનવા જઈ રહ્યા છે. તેઓ માત્ર સોનિયા ગાંધીના વિશ્વાસુ જ નથી માનવામાં આવતા, પરંતુ ઘણી વખત તેમણે કોંગ્રેસને સંકટમાંથી ઉગારી છે. આ જ કારણે તેમને પાર્ટીના 'સંકટમોચક' પણ કહેવામાં આવે છે. તેઓ કર્ણાટકથી લઈને ગુજરાત સુધી પોતાનો દમ બતાવી ચૂક્યા છે.",
@@ -360,15 +405,6 @@ const newsData_gu = [
     "time": "2026-05-26T10:16:59.000Z"
   },
   {
-    "cat": "Business",
-    "title": "જૂન મહિનામાં 13 દિવસ બંધ રહેશે બેંકો, જાણી લો કઈ-કઈ તારીખે અને કેમ રહેશે રજા?",
-    "desc": "જૂન મહિનો શરૂ થવા જઈ રહ્યો છે અને રિઝર્વ બેંક ઓફ ઇન્ડિયા (RBI) દ્વારા બેંક રજાઓની યાદી જાહેર કરી દેવામાં આવી છે. જો તમારું બેંકને લગતું કોઈ કામ બાકી હોય, તો આ રજાઓનું લિસ્ટ જોઈને જ તમારું પ્લાનિંગ કરજો જેથી બેંક ધક્કો ન થાય. ચાલો જાણીએ જૂન મહિનામાં બેંકો ક્યારે-ક્યારે બંધ રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bank-holidays-banks-to-remain-closed-for-13-days-in-june-which-dates-will-be-holidays-during-the-30-day-month-479301 ",
-    "time": "2026-05-26T09:36:53.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "સવાર કે રાત્રે, પેટ્રોલ કે ડીઝલ ભરવાનો બેસ્ટ સમય કયો છે? જાણો આ વાયરલ દાવા પાછળનું સત્ય!",
     "desc": "પેટ્રોલ અને ડીઝલના વધતા ભાવ વચ્ચે, સોશિયલ મીડિયા પર એક જૂનો દાવો ફરી ચર્ચામાં આવી રહ્યો છે. વાયરલ થયેલા દાવામાં દાવો કરવામાં આવ્યો છે કે વહેલી સવારે અથવા મોડી રાત્રે ઇંધણ ભરવાથી વધુ ઇંધણ મળે છે અને પૈસાની બચત થાય છે. કારણ એ આપવામાં આવ્યું છે કે ઠંડા હવામાનમાં ઇંધણ વધુ ઘટ્ટ હોય છે. પરંતુ શું આ ખરેખર સાચું છે? ચાલો સત્ય શોધી કાઢીએ.",
@@ -385,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-qualifier-1-rcb-vs-gt-dharamshala-weather-report-rain-prediction-479297 ",
     "time": "2026-05-26T09:14:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ફટાફટ પતાવી લો બેંકનું કામ ! 27 અને 28 મેના રોજ બંધ રહેશે બેંકો, જાણો શું છે કારણ",
-    "desc": "બકરી ઈદ 2026ની બેંક રજાને લઈને મૂંઝવણ ઊભી થઈ છે. કેટલાક રાજ્યોમાં 27 મેના રોજ બેંકો બંધ રહેશે, જ્યારે મહારાષ્ટ્ર, તેલંગાણા સહિતના કેટલાક રાજ્યોમાં 28 મેના રોજ રજા રહેશે. ત્યારે આ લેખમાં જાણીશું કે તમારા વિસ્તારમાં બકરી ઈદની રજા ક્યારે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bakrid-2026-bank-holidays-will-bank-closed-on-27-or-28-may-2026-479294 ",
-    "time": "2026-05-26T08:25:50.000Z"
   },
   {
     "cat": "World",
@@ -466,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-bhojpuri-song-ghis-ghis-viral-welcome-to-the-jungle-new-song-479192 ",
     "time": "2026-05-25T08:55:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સેનાનો પિત્તો ગયો! આખી એક પલટન હથિયારો લઈને પોલીસ કમિશ્નર કચેરીએ પહોંચી, સાથી જવાનને અપાવ્યો ન્યાય",
-    "desc": "તમે કદાચ આવા દ્રશ્યોની કલ્પના ફક્ત ફિલ્મોમાં કરી શકો પણ વાસ્તવિક જીવનમાં આ શક્ય બન્યું છે. જ્યારે એક સાથી જવાનને ન્યાય આપવામાં સિસ્ટમ ઉણી ઉતરી તો ITBPના 50થી વધુ જવાનો હથિયારો સાથે મેદાને આવ્યા અને કાનપુરની પોલીસ કમિશ્નર કચેરીને ઘેરીને સાથીને ન્યાય અપાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-50-itbp-personnel-arrive-at-kanpur-police-commissioners-office-with-weapons-479191 ",
-    "time": "2026-05-25T08:19:26.000Z"
   },
   {
     "cat": "Tech",
@@ -610,24 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-irgc-trained-mohammad-al-saadi-wanted-to-kill-donald-trump-daughter-ivanka-trump-478920 ",
     "time": "2026-05-23T04:05:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "આ હતા દુનિયાના સૌથી અમીર વ્યક્તિ, જેની સામે એલન મસ્ક પણ લાગશે ગરીબ! સંપત્તિ એટલી કે જાણીને નહીં આવે વિશ્વાસ",
-    "desc": "ઈતિહાસના સૌથી અમીર શાસક મંસા મૂસાની સંપત્તિ આગળ આજના અબજોપતિઓ પણ ગરમી લાગે છે. સોનાની ખાણો, વિશાળ સામ્રાજ્ય અને વ્યાપારિક માર્ગો પર નિયંત્રણ રાખનારા આ રાજાની કહાની આજે પણ દુનિયાને હેરાન કરી દે છે. ચાલો જાણીએ કોણ હતા મંસા મૂસા?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/this-was-the-richest-person-in-the-world-in-front-of-whom-even-elon-musk-would-feel-poor-wealth-so-much-that-even-knowing-it-will-not-bring-trust-478915 ",
-    "time": "2026-05-22T18:11:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "કર્મચારીઓને એક જ ઝટકામાં બનાવી દીધા કરોડપતિ, દરેક કર્મચારીને મળશે ₹2.85 કરોડ !",
-    "desc": "સેમસંગ ઇલેક્ટ્રોનિક્સે તેના સેમિકન્ડક્ટર વિભાગના આશરે 78,000 કર્મચારીઓને 26.6 બિલિયન ડોલર અથવા આશરે 2.24 લાખ કરોડ રૂપિયાનું જંગી બોનસ આપવાની જાહેરાત કરી છે. સરેરાશ, દરેક કર્મચારીને આશરે 2.85 કરોડ રૂપિયા મળશે. કંપનીએ AI ચિપ્સની વધતી માંગ, યુનિયન દબાણ અને સંભવિત હડતાળને ટાળવા માટે આ નિર્ણય લીધો છે. આ બોનસ 2027ની શરૂઆતમાં વહેંચવામાં આવશે અને ફક્ત ચિપ વિભાગના કર્મચારીઓને જ ફાયદો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/samsung-company-has-made-its-employees-millionaires-each-employee-will-get-a-bonus-of-rs-2-85-crore-478892 ",
-    "time": "2026-05-22T14:42:45.000Z"
   },
   {
     "cat": "Entertainment",

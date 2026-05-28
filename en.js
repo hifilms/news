@@ -1,5 +1,437 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "‘Future is here’: Yousuf compares Sooryavanshi to 'young, fearless' Afridi after IPL carnage",
+    "desc": "Fifteen-year-old Vaibhav Sooryavanshi's explosive 97 off 29 balls against Sunrisers Hyderabad in the IPL 2026 Eliminator has stunned the cricket world, drawing comparisons to Shahid Afridi. The Rajasthan Royals sensation shattered records for most runs by an uncapped batter and most sixes in a season, showcasing fearless batting that has bowlers on edge.",
+    "img": "https://static.toiimg.com/photo/msid-131375455,imgsize-60420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/future-is-here-mohammad-yousuf-compares-vaibhav-sooryavanshi-to-young-fearless-shahid-afridi-after-ipl-carnage/articleshow/131375294.cms",
+    "time": "2026-05-28T17:28:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Former AIADMK Minister Vellamandi Natarajan joins TVK",
+    "desc": "“After the election, the AIADMK split into two. All of this is not right. As far as the TVK is concerned, they have accepted all our leaders, including Periyar, Anna, MGR, and Jayalalithaa. That is why I have come and joined here,” he told The Hindu",
+    "img": "https://th-i.thgim.com/public/news/cities/chennai/2qnz6v/article71032136.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-28%20at%2011.22.45.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/former-aiadmk-minister-vellamandi-natarajan-joins-tvk/article71032108.ece",
+    "time": "2026-05-28T17:24:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "All eyes on Sooryavanshi as Royals and Titans battle for a place in final",
+    "desc": "If GT sends back the red-hot opener early, pressure will be enormous on the rest of the RR batting unit; Archer holds the key for the Rajasthan side against the top three of Gill, Sai Sudharsan and Buttler who have done the bulk of the scoring for the Gujarat outfit",
+    "img": "https://th-i.thgim.com/public/incoming/liz57/article71034011.ece/alternates/LANDSCAPE_1200/20_RVM_5559.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-gujarat-titans-vs-rajasthan-royals/article71033739.ece",
+    "time": "2026-05-28T17:19:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "KJo unfollows SRK, Alia, Kareena and Manish; PC still on list",
+    "desc": "Filmmaker Karan Johar has left social media users surprised after netizens noticed a major change in his Instagram following list. The director-producer, who enjoys a massive following of over 17 million on the platform, appears to have unfollowed several Bollywood celebrities, including some of his closest friends and long-time collaborators.",
+    "img": "https://static.toiimg.com/photo/msid-131375016,imgsize-126168.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-unfollows-shah-rukh-khan-alia-bhatt-kareena-kapoor-and-manish-malhotra-on-instagram-priyanka-chopra-still-on-list/articleshow/131375004.cms",
+    "time": "2026-05-28T17:12:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "National Health Accounts figures indicate high burden of health care costs on people",
+    "desc": "As per the latest figures from the National Health Accounts Estimates for India 2022-23, out of pocket expenditure is nearly half of the current health expenditure. Experts flag continued high level of unregulated privatisation, leading to major inequities in access to healthcare.",
+    "img": "https://th-i.thgim.com/public/sport/tennis/rt9c71/article71034679.ece/alternates/LANDSCAPE_1200/Health.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/national-health-accounts-figures-indicate-high-burden-of-health-care-costs-on-people/article71034428.ece",
+    "time": "2026-05-28T17:01:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I start from scratch with each movie'",
+    "desc": "Christian Bale believes in starting each film from scratch, wiping his slate clean to avoid relying on past acting tricks. This approach allows him to embrace reinvention and offer audiences a fresh perspective with every role. He emphasizes evolving and restarting the process to maintain authenticity and avoid mechanical performances.",
+    "img": "https://static.toiimg.com/photo/msid-131374795,imgsize-49618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-christian-bale-i-start-from-scratch-with-each-movie-i-wipe-the-slate-/articleshow/131374802.cms",
+    "time": "2026-05-28T16:51:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt. plans security protocol for fishing harbours under CISF oversight",
+    "desc": "A senior government official says the CISF will design a security template and guide the local administration in managing the security protocol. There are 1,547 notified fish landing centres and fishing harbours in 13 coastal States and UTs",
+    "img": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
+    "time": "2026-05-28T16:44:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Reliance bets big on AI to reshape content, streaming and viewer engagement",
+    "desc": "Reliance Industries is making artificial intelligence central to its media and entertainment strategy. The company aims to drive growth across streaming, television, and digital content. AI will redefine entertainment and audience engagement. Reliance is integrating AI into core operations for efficiency and to reshape content creation. This move is set to build deeper fan engagement and open new monetization opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-131374462,imgsize-542384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/reliance-bets-big-on-ai-to-reshape-content-streaming-and-viewer-engagement/articleshow/131374404.cms",
+    "time": "2026-05-28T16:38:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Reble reacts to ‘strange’ accusations after Dhurandhar success",
+    "desc": "Daiaphi Lamare, popularly known by her stage name Reble, has opened up about the backlash and strange accusations she faced after achieving mainstream success with the soundtrack of the blockbuster film Dhurandhar, with some accusing her of “selling out” or even linking her music to satanic themes because of references to “demons” in her lyrics.",
+    "img": "https://static.toiimg.com/photo/msid-131374092,imgsize-75998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daiaphi-lamare-aka-reble-reacts-to-strange-accusations-after-dhurandhar-success-people-think-you-sold-your-soul/articleshow/131373929.cms",
+    "time": "2026-05-28T16:20:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Siddaramaiah exits, but trouble may just begin for Shivakumar and Rahul Gandhi",
+    "desc": "Outgoing Karnataka CM Siddaramaiah's last-minute acceptance of the caste census report presents a political dilemma for successor DK Shivakumar. The report, potentially validating the strength of backward classes, could alienate dominant communities. This also challenges Rahul Gandhi's national push for caste data, risking accusations of hypocrisy if not acted upon.",
+    "img": "https://static.toiimg.com/photo/msid-131374007,imgsize-56204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/caste-survey-siddaramaiah-exits-but-trouble-may-just-begin-for-shivakumar-and-rahul-gandhi/articleshow/131373871.cms",
+    "time": "2026-05-28T16:17:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Siddaramaiah refuses Congress high command's Rajya Sabha offer: Pressure tactic or long-term strategy?",
+    "desc": "Siddaramaiah rejected a Rajya Sabha offer, opting to remain in Karnataka politics after resigning as Chief Minister. This decision complicates the transition for successor DK Shivakumar, as Siddaramaiah retains influence and potential leverage. His move signals a long-term strategy to shape state politics and potentially influence future elections.",
+    "img": "https://static.toiimg.com/photo/msid-131373982,imgsize-45052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/karnataka-cm-siddaramaiah-refuses-rajya-sabha-offer-pressure-tactic-shivakumar-or-long-term-strategy/articleshow/131373842.cms",
+    "time": "2026-05-28T16:16:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "London Spirit reveal heritage-inspired blue jersey for The Hundred 2026",
+    "desc": "London Spirit has unveiled a new blue kit for The Hundred, incorporating the MCC's iconic \"egg and bacon\" colours to honour Lord's heritage. This tribute aligns with the franchise's majority ownership by the MCC, the owner of the \"Home of Cricket.\" The team aims for a title challenge with a star-studded squad and new coaching additions.",
+    "img": "https://static.toiimg.com/photo/msid-131373569,imgsize-1085788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/london-spirit-reveal-heritage-inspired-blue-jersey-for-the-hundred-2026-season/articleshow/131373526.cms",
+    "time": "2026-05-28T16:08:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC unveils all-female officiating panel for Women’s T20 World Cup 2026",
+    "desc": "The ICC has unveiled an all-female officiating panel for the 2026 Women's T20 World Cup in England and Wales. This marks the third consecutive edition with only women umpires and referees. Veteran Claire Polosak leads the 14-umpire and 4-referee team, with several debutants set to officiate in the prestigious tournament.",
+    "img": "https://static.toiimg.com/photo/msid-131373764,imgsize-29374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-unveils-all-female-officiating-panel-for-womens-t20-world-cup-2026/articleshow/131373752.cms",
+    "time": "2026-05-28T16:05:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Id prayers shifted to Brigade Ground in Kolkata as Bengal govt. imposes fresh curbs on Bakrid celebrations",
+    "desc": "Morning namaz moved from Red Road to Brigade Parade Ground this year, while public animal slaughter and roadside festivities remain prohibited under the new rules of the BJP government in the State; Hindu cow owners complain of economic distress due to sluggish cattle sale.",
+    "img": "https://th-i.thgim.com/public/news/k1uuob/article71034453.ece/alternates/LANDSCAPE_1200/IMG20260528083637.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/id-prayers-shifted-to-brigade-ground-in-kolkata-as-bengal-govt-imposes-fresh-curbs-on-bakrid-celebrations/article71033750.ece",
+    "time": "2026-05-28T15:56:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. reimposes sanctions on UN expert on Palestinians",
+    "desc": "A notice on the Treasury Department's website showed that it had reimposed a sanctions designation on Ms. Albanese that blacklists her globally, making it impossible for her to use major credit cards or carry out bank transactions.",
+    "img": "https://th-i.thgim.com/public/incoming/9hglnw/article71034479.ece/alternates/LANDSCAPE_1200/Palestinian_Investigator_Sanctions_09204.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-reimposes-sanctions-on-un-expert-on-palestinians/article71034468.ece",
+    "time": "2026-05-28T15:44:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah says panel on ‘artificial’ demographic change will examine need for new law",
+    "desc": "A high-level committee, tasked with examining \"artificial\" demographic shifts due to illegal immigration, will also assess the need for a new law. Union Home Minister Amit Shah stated the panel, headed by Justice Prakash Prabhakar Naoleker, will report within a year.",
+    "img": "https://static.toiimg.com/photo/msid-131373328,imgsize-957369.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-says-panel-on-artificial-demographic-change-will-examine-need-for-new-law/articleshow/131373106.cms",
+    "time": "2026-05-28T15:31:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. treasury officials moot $250 note featuring Trump",
+    "desc": "According to the U.S. federal law, only deceased persons can be featured on currency notes; the U.S. Congress will have to pass a new law to allow Trump’s portrait to feature on a currency note.",
+    "img": "https://th-i.thgim.com/public/incoming/xrdpja/article71034400.ece/alternates/LANDSCAPE_1200/2026-05-28T054422Z_1227286113_RC2SHLA97VYW_RTRMADP_3_USA-TRUMP-EPSTEIN-DEFAMATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-treasury-officials-moot-250-note-featuring-trump/article71034328.ece",
+    "time": "2026-05-28T15:31:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Sooryavanshi storm ended SRH’s title dream after dramatic revival",
+    "desc": "Sunrisers Hyderabad staged a remarkable IPL 2026 turnaround, becoming a feared batting unit. Despite a strong league run, their title hopes were dashed by RR opener Vaibhav Sooryavanshi's sensational knock. The team's reliance on an explosive top order and lack of Powerplay wickets ultimately proved their undoing in the playoffs.",
+    "img": "https://static.toiimg.com/photo/msid-131373254,imgsize-192320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/srh-ipl-2026-autopsy-vaibhav-sooryavanshi-storm-ends-sunrisers-hyderabads-title-dream-after-dramatic-revival/articleshow/131373186.cms",
+    "time": "2026-05-28T15:27:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We will try to take Sooryavanshi out early’: GT coach before clash against RR",
+    "desc": "Gujarat Titans assistant coach Parthiv Patel highlighted stopping Vaibhav Sooryavanshi early as a major priority for their IPL 2026 Qualifier 2 clash against Rajasthan Royals. The 15-year-old sensation is in red-hot form, recently smashing 97 off 29 balls. GT has analyzed his batting and hopes to execute a plan to contain his fearless approach.",
+    "img": "https://static.toiimg.com/photo/msid-131373115,imgsize-170510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/we-will-try-to-take-vaibhav-sooryavanshi-out-early-gujarat-titans-coach-before-clash-against-rr/articleshow/131373147.cms",
+    "time": "2026-05-28T15:21:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TDP rooted in principles laid down by NTR, says Rammohan Naidu",
+    "desc": "The party is committed to the welfare of the Backward Classes and weaker sections, and will ensure the Central programmes and funds reach them, says the Civil Aviation Minister; several projects taking tangible shape due to the cooperation of the Centre, says Pemmasani Chandra Sekhar",
+    "img": "https://th-i.thgim.com/public/incoming/qt0xjl/article71034351.ece/alternates/LANDSCAPE_1200/20260528492L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-rooted-in-principles-laid-down-by-ntr-says-rammohan-naidu/article71034199.ece",
+    "time": "2026-05-28T15:18:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Resident Alien Season 4': The cancelled show gets OTT home",
+    "desc": "Previously cancelled sci-fi hit 'Resident Alien' is set to conclude its four-season run with its final season premiering on June 6, 2026, on Netflix U.S. After finding a global OTT home, the show will wrap up alien Harry Vanderspeigle's journey in Colorado, offering fans a respectful ending.",
+    "img": "https://static.toiimg.com/photo/msid-131373042,imgsize-22046.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/resident-alien-the-cancelled-show-gets-ott-home-season-4-to-drop-and-bid-goodbye/articleshow/131373044.cms",
+    "time": "2026-05-28T15:10:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China vows to support Cuba against 'power politics and bullying'",
+    "desc": "China will continue to uphold justice and speak out on Cuba's behalf, support the just cause of the Cuban people, and contribute to the development of Cuba's economy and the improvement of its people's livelihoods, says China's Foreign Minister Wang Yi",
+    "img": "https://th-i.thgim.com/public/incoming/oek01v/article71034325.ece/alternates/LANDSCAPE_1200/UN_China_66478.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-vows-to-support-cuba-against-power-politics-and-bullying/article71034291.ece",
+    "time": "2026-05-28T15:08:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Centre plans coal gasification-based urea policy to cut gas import dependence",
+    "desc": "India is finalizing a new policy to boost urea production using coal gasification, aiming to slash reliance on imported natural gas and enhance self-sufficiency in fertilizer. This strategic move, expected within a month, leverages domestic coal reserves to secure vital agricultural inputs and conserve foreign exchange. The initiative aligns with broader government efforts to diversify feedstock for fertilizer manufacturing.",
+    "img": "https://static.toiimg.com/photo/msid-131373031,imgsize-590754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-plans-coal-gasification-based-urea-policy-to-cut-gas-import-dependence/articleshow/131373019.cms",
+    "time": "2026-05-28T15:08:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fuel price surge, West Asia crisis: Karnataka Travels owners’ association seeks urgent economic relief measures",
+    "desc": "Karnataka State Travels Owners’ Association says that the State government earns approximately ₹23,000 crore to ₹24,000 crore annually through VAT and sales tax on petrol and diesel, with the current petrol VAT rate standing at nearly 29.84%",
+    "img": "https://th-i.thgim.com/public/incoming/ih42nr/article71034318.ece/alternates/LANDSCAPE_1200/DSC_9956.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/fuel-price-surge-west-asia-crisis-karnataka-travels-owners-association-seeks-urgent-economic-relief-measures/article71032731.ece",
+    "time": "2026-05-28T15:03:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pooja admits she shared a ‘spark’ with Aamir during DHKMN shoot",
+    "desc": "Pooja Bhatt recently revisited her Dil Hai Ke Manta Nahin days with Aamir Khan and admitted that while the two shared a “spark” and undeniable chemistry during the filming of the 1991 romantic drama, it never turned into a real-life relationship. Speaking about their chemistry during the shoot, Pooja said she genuinely enjoyed working with Aamir and acknowledged the strong connection they shared on screen.",
+    "img": "https://static.toiimg.com/photo/msid-131372950,imgsize-82302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bhatt-admits-she-shared-a-spark-with-aamir-khan-during-dil-hai-ke-manta-nahin-shoot-but-nothing-tangible-happened/articleshow/131372902.cms",
+    "time": "2026-05-28T15:01:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Is Tamil Nadu witnessing its own ‘Operation Lotus’?",
+    "desc": "Politics in Tamil Nadu has entered a disturbing and controversial phase after four All India Anna Dravida Munnetra Kazhagam MLAs resigned and joined the ruling Tamilaga Vettri Kazhagam led by Chief Minister C. Joseph Vijay. Critics have likened the development to the BJP’s much-criticised “Operation Lotus” strategy seen in several States. Is this simply the reality of coalition-era politics, or does it amount to a betrayal of TVK’s promise of clean and ethical governance?",
+    "img": "https://th-i.thgim.com/public/incoming/372sdy/article71034230.ece/alternates/LANDSCAPE_1200/%E2%80%98Operation%20Lotus%E2%80%99%20%20%20%20%20in%20Tamil%20Nadu%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-is-tamil-nadu-witnessing-its-own-operation-lotus-focus-tamil-nadu/article71034294.ece",
+    "time": "2026-05-28T14:58:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI(M) urges Tamil Nadu govt to appeal against HC order banning cow slaughter",
+    "desc": "A summer vacation Bench comprising of Justices G. R. Swaminathan and V. Lakshminarayanan had directed the Chief Secretary and the Director General of Police/Head of Police Force (DGP/HoPF) to ensure no cow or calf is slaughtered anywhere in Tamil Nadu either on the eve of Bakrid or on any other day.",
+    "img": "https://th-i.thgim.com/public/incoming/p7w2j6/article71034266.ece/alternates/LANDSCAPE_1200/DSC_7029.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cpim-urges-tamil-nadu-govt-to-appeal-against-hc-order-banning-cow-slaughter/article71034231.ece",
+    "time": "2026-05-28T14:55:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Paul Heaton announces a massive tour, alongside Rianne Downey",
+    "desc": "Paul Heaton, formerly of The Housemartins and The Beautiful South, has unveiled exciting news for his fans. He is releasing a new album titled 'Jenius' and embarking on a major tour. The album, exploring themes of love, loneliness, and community, will be available on August 21, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-131372565,imgsize-36026.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/paul-heaton-announces-a-massive-tour-alongside-rianne-downey-following-the-upcoming-release-of-his-jenius-album/articleshow/131372474.cms",
+    "time": "2026-05-28T14:29:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'India’s Got Latent' Season 2: Samay Raina confirms shoot; fans await panel, release",
+    "desc": "Filming for 'India's Got Latent' Season 2 is officially underway, confirmed comedian Samay Raina. Fans eagerly awaiting the show's return received the update via Instagram, with a behind-the-scenes glimpse of Raina on set. This follows weeks of speculation and a viral leaked photo hinting at potential guests, building significant anticipation for the new season.",
+    "img": "https://static.toiimg.com/photo/msid-131372471,imgsize-1233670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/samay-raina-drops-first-official-update-on-indias-got-latent-season-2-uski-bhi-shooting-chalu-hai/articleshow/131372471.cms",
+    "time": "2026-05-28T14:25:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner collapses in Paris heat, crashes out of French Open in second round",
+    "desc": "World number one Jannik Sinner dramatically crashed out of the French Open after a stunning physical collapse in the Paris heat. Leading by two sets, Sinner faltered under 32-degree temperatures, losing 18 consecutive points and ultimately the match to Juan Manuel Cerundolo. This shocking exit ends his 30-match winning streak and opens up the men's draw.",
+    "img": "https://static.toiimg.com/photo/msid-131372454,imgsize-130278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/jannik-sinner-collapses-in-paris-heat-crashes-out-of-french-open-in-stunning-second-round-shock/articleshow/131372455.cms",
+    "time": "2026-05-28T14:24:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neymar likely to miss Brazil World Cup 2026 opener due to serious calf injury confirmed in medical scan- reports",
+    "desc": "Neymar Jr.’s 2026 World Cup participation has been thrown into doubt after Brazil’s medical team confirmed a grade-two calf injury requiring up to three weeks of recovery. The setback has disrupted Brazil’s preparations under Carlo Ancelotti, with key friendlies now in question and a tight race against time before their opening match. Despite Neymar’s optimism, medical staff remain cautious about his fitness timeline.",
+    "img": "https://static.toiimg.com/photo/msid-131372266,imgsize-107726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/neymar-likely-to-miss-brazil-world-cup-2026-opener-due-to-serious-calf-injury-confirmed-in-medical-scan-reports/articleshow/131371622.cms",
+    "time": "2026-05-28T14:18:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pooja responds to Rahul Bhatt’s 'better than Alia' remark",
+    "desc": "Pooja Bhatt has reacted to brother Rahul Bhatt’s recent remark comparing her to Alia Bhatt. While Rahul had claimed that Pooja was “better” than Alia, the actor-filmmaker clarified that the two belong to different generations and have approached the industry in very different ways. Pooja also praised little Raha Kapoor and said the toddler already has the qualities of a future star.",
+    "img": "https://static.toiimg.com/photo/msid-131372284,imgsize-68354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bhatt-responds-to-rahul-bhatts-better-than-alia-bhatt-remark-calls-her-an-upgraded-model-raha-is-born-to-be-an-actress/articleshow/131372195.cms",
+    "time": "2026-05-28T14:17:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US stock markets today (May 28, 2026): Wall Street stays near record highs despite fresh jump in oil prices",
+    "desc": "Indian markets remained steady near record highs despite rising oil prices due to Iran tensions. Strong corporate earnings, particularly from Dollar Tree and Kohl's, bolstered investor confidence. While some companies faced headwinds from higher fuel costs, others like Snowflake saw significant gains driven by AI growth. Inflation data showed a slight acceleration, impacting Treasury yields.",
+    "img": "https://static.toiimg.com/photo/msid-131372064,imgsize-937404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-markets-today-may-28-2026-wall-street-stays-near-record-highs-despite-fresh-jump-in-oil-prices/articleshow/131372068.cms",
+    "time": "2026-05-28T14:12:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neymar suffers injury scare ahead of World Cup, Brazil sweat on fitness update",
+    "desc": "Brazil faces a significant World Cup setback. Star forward Neymar is now doubtful for the tournament's initial matches. He sustained a calf injury during training. Medical scans reveal a grade two muscle problem. Neymar is expected to be out for two to three weeks. This means he will miss warm-up games.",
+    "img": "https://static.toiimg.com/photo/msid-131372071,imgsize-164208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/neymar-suffers-injury-scare-ahead-of-world-cup-brazil-sweat-on-fitness-update/articleshow/131372079.cms",
+    "time": "2026-05-28T14:11:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Venus Williams and Hailey Baptiste withdraw from women's doubles",
+    "desc": "Williams, who turns 46 next month, was a singles wild-card entry at the Australian Open. She lost in the first round and became the oldest woman to compete in an Australian Open singles main draw.",
+    "img": "https://th-i.thgim.com/public/incoming/yxdbet/article71033874.ece/alternates/LANDSCAPE_1200/2226379661.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/french-open-2026-venus-williams-and-hailey-baptiste-withdraw-from-womens-doubles/article71033870.ece",
+    "time": "2026-05-28T13:42:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BN Tiwari reacts to Poonam Dhillon’s Ranveer Singh remark",
+    "desc": "A dispute over 'Don 3' sees FWICE president BN Tiwari and CINTAA president Poonam Dhillon exchanging views. Tiwari sought Dhillon's mediation, while she expressed surprise at FWICE's stance, emphasizing CINTAA wasn't consulted. FWICE clarifies it's not a ban, but seeks Ranveer Singh's explanation.",
+    "img": "https://static.toiimg.com/photo/msid-131371307,imgsize-122262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fwice-president-bn-tiwari-responds-to-poonam-dhillon-over-ranveer-singh-don-3-controversy-says-if-she-knows-ranveer-well-she-should-mediate/articleshow/131371276.cms",
+    "time": "2026-05-28T13:23:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jungkook reacts after Instagram suspension shocks BTS fans",
+    "desc": "BTS star Jungkook's Instagram account vanished, leaving fans bewildered. He later revealed a TikTok post showing a suspension notice citing intellectual property rights violations. This incident mirrors similar AI-driven deactivations affecting other K-pop artists, sparking concern and speculation among ARMY about the platform's automated actions.",
+    "img": "https://static.toiimg.com/photo/msid-131371209,imgsize-834677.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/what-happened-to-jungkooks-social-media-profile-bts-star-reacts-to-abrupt-account-suspension-leaving-fans-in-panic/articleshow/131371209.cms",
+    "time": "2026-05-28T13:17:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Ranji performances ignored by selectors’: Lad calls IPL ‘shortcut’ to Indian team",
+    "desc": "Veteran cricketer Siddhesh Lad expresses concern over the current state of Indian cricket selection. He states that consistent performance in the Indian Premier League, not the Ranji Trophy, is now the benchmark for national team selection. Lad feels this devalues domestic cricket and discourages promising young players from focusing on longer formats.",
+    "img": "https://static.toiimg.com/photo/msid-131371171,imgsize-17710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-performances-ignored-by-selectors-siddhesh-lad-calls-ipl-shortcut-to-indian-team/articleshow/131371109.cms",
+    "time": "2026-05-28T13:14:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi’s open-and-shut case for India T20I call-up",
+    "desc": "‘If it ain’t broke, don’t fix it’ may be a sound maxim to heed in usual circumstances, but there is nothing normal about a 15-year-old virtually breaking down the selection door with each passing innings in a sublime IPL campaign",
+    "img": "https://th-i.thgim.com/public/incoming/d73hl5/article71033161.ece/alternates/LANDSCAPE_1200/2150_18_4_2026_18_22_42_1_IPLRR_18042026_05.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/vaibhav-sooryavanshis-open-and-shut-case-for-india-t20i-call-up/article71032629.ece",
+    "time": "2026-05-28T13:09:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Song lyrics of the day by Olivia Rodrigo",
+    "desc": "Olivia Rodrigo's upcoming album, 'You Seem Pretty Sad for a Girl So in Love,' features confessional lyrics and intimate rock beats. Her new singles, 'Drop Dead' and 'The Cure,' explore relationship dynamics. 'The Cure' highlights the internal struggles that external love cannot fix, emphasizing self-acceptance of personal 'toxins'.",
+    "img": "https://static.toiimg.com/photo/msid-131370894,imgsize-26206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/song-lyrics-of-the-day-by-olivia-rodrigo-it-dont-matter-how-your-love-feels-anymore-itll-never-be-the-cure/articleshow/131370854.cms",
+    "time": "2026-05-28T12:58:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shobhaa De slams FWICE’s non-cooperation directive over 'Don 3' row",
+    "desc": "Author Shobhaa De criticizes the Federation of Western India Cine Employees' non-cooperation directive against Ranveer Singh, likening the Bollywood dispute to the Delhi Gymkhana Club controversy. She views the situation as power politics and praises Singh's strategic silence, which she believes enhances his brand. De questions the organization's overreach, advocating for private or legal resolutions to protect industry workers.",
+    "img": "https://static.toiimg.com/photo/msid-131370907,imgsize-4858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shobhaa-de-slams-fwices-non-cooperation-directive-over-don-3-row-ranveer-singh-is-the-delhi-gymkhana-of-bollywood/articleshow/131370844.cms",
+    "time": "2026-05-28T12:57:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ashutosh Gowariker says acting now feels liberating",
+    "desc": "Ashutosh Gowariker, the versatile actor and filmmaker, reveals that the current acting environment offers a refreshing sense of freedom. He reminisces about the earlier days of his career, where there was immense pressure to conform to the archetype of the 'hero.' Today, he finds joy in exploring nuanced roles that prioritize character depth over mere looks.",
+    "img": "https://static.toiimg.com/photo/msid-131370705,imgsize-34636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashutosh-gowariker-opens-up-on-why-acting-at-his-age-is-completely-liberating-you-dont-have-to-worry-about-hairstyle/articleshow/131370705.cms",
+    "time": "2026-05-28T12:52:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka CM Siddaramaiah resigns from post; CBI arrests mother-in-law in Twisha death probe &amp; more",
+    "desc": "Karnataka CM Siddaramaiah has resigned, paving the way for DK Shivakumar. Meanwhile, CBI detained Twisha Sharma’s mother-in-law after her anticipatory bail was cancelled. Fresh US-Iran tensions simmer as Kuwait reports a missile attack. Japan halted Indian mango imports due to quarantine concerns, and North Korea rejected the Quad's denuclearisation call.",
+    "img": "https://static.toiimg.com/photo/msid-131370814,imgsize-732473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-karnataka-cm-siddaramaiah-resigns-from-post-cbi-arrests-mother-in-law-in-twisha-death-probe-more/articleshow/131370611.cms",
+    "time": "2026-05-28T12:51:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s Chungreng Koren submits Japan’s Miyaguchi to advance in Road to UFC",
+    "desc": "India's Chungreng Koren secured a crucial second-round submission victory over previously unbeaten Ryuho Miyaguchi via rear-naked choke at Road to UFC Season 5. This win propels Koren into the semifinals, overcoming personal struggles and a late call-up to the tournament. The result also sets up a potential rematch with Rabindra Dhant for a UFC contract.",
+    "img": "https://static.toiimg.com/photo/msid-131370651,imgsize-54608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/mma/news/indias-chungreng-koren-submits-japans-ryuho-miyaguchi-to-advance-in-road-to-ufc/articleshow/131370690.cms",
+    "time": "2026-05-28T12:43:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSG, Arsenal would go all out in quest for European glory: Westwood",
+    "desc": "The Englishman believes the pressure will be less on both sides since they have won the domestic league titles; the Kerala Blasters interim coach feels the upcoming World Cup would have no effect on the contest",
+    "img": "https://th-i.thgim.com/public/incoming/cfdgnb/article71033564.ece/alternates/LANDSCAPE_1200/AFP_B47G7G3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/psg-arsenal-would-go-all-out-in-quest-for-european-glory-westwood/article71033573.ece",
+    "time": "2026-05-28T12:42:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LIC reviews Rs 60,000 crore real estate portfolio, may explore separate subsidiary",
+    "desc": "LIC is undertaking a comprehensive review of its substantial real estate holdings, valued at over Rs 60,000 crore, to boost returns for policyholders and shareholders. The insurer is exploring options, including a potential separate subsidiary, to manage these assets more effectively. This strategic move aims to optimize yields from its vast property portfolio.",
+    "img": "https://static.toiimg.com/photo/msid-131370351,imgsize-602386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/lic-reviews-rs-60000-crore-real-estate-portfolio-may-explore-separate-subsidiary/articleshow/131370333.cms",
+    "time": "2026-05-28T12:35:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Best buy in IPL history’: Lalit Modi’s massive verdict on Vaibhav Sooryavanshi",
+    "desc": "Rajasthan Royals' Vaibhav Sooryavanshi, at just 15, is being hailed as IPL's greatest signing. He smashed a 97 off 29 balls in an Eliminator, pushing RR to Qualifier 2. The teenager now holds the record for most sixes in an IPL season with 65 and is the first to score 600 runs before turning 16.",
+    "img": "https://static.toiimg.com/photo/msid-131370366,imgsize-164500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/best-buy-in-ipl-history-lalit-modis-massive-verdict-on-vaibhav-sooryavanshi/articleshow/131370377.cms",
+    "time": "2026-05-28T12:30:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinesh’s comeback hits fresh roadblock as WFI moves SC against Delhi HC order",
+    "desc": "Olympian Vinesh Phogat faces a new challenge as the Wrestling Federation of India (WFI) appeals to the Supreme Court, questioning her eligibility for the 2026 Asian Games trials. The WFI argues the Delhi High Court order allowing her participation was premature, citing retirement and missed test allegations. The federation insists selection is merit-based, not on special exemptions.",
+    "img": "https://static.toiimg.com/photo/msid-131370426,imgsize-40212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/vinesh-phogats-comeback-hits-fresh-roadblock-as-wfi-moves-supreme-court-against-delhi-hc-order/articleshow/131370448.cms",
+    "time": "2026-05-28T12:27:05.000Z"
+  },
+  {
     "cat": "World",
     "title": "Israeli strikes kill at least 14 across southern Lebanon ahead of Washington talks",
     "desc": "Lebanese and Israeli military officials are set to hold their first security talks on Friday in the U.S. capital; the talks have extended a nominal ceasefire that went into effect April 17, although the attacks have since intensified, while sparing the Lebanese capital Beirut.",
@@ -10,12 +442,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Supreme Court stays its order till July 22 to seal structures within 100-metre prohibited zone at Delhi Golf Club",
-    "desc": "With regard to nine other monuments in the club, the apex court said there shall be no activity permitted within 20 metres radius of those buildings. This direction was also kept in abeyance by the court",
-    "img": "https://th-i.thgim.com/public/incoming/a4zizj/article71033141.ece/alternates/LANDSCAPE_1200/bl28-Think2-MidGE0G1L1Q3.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-stays-its-order-to-seal-structures-within-100m-prohibited-zone-at-delhi-golf-club/article71033088.ece",
-    "time": "2026-05-28T12:12:38.000Z"
+    "title": "After CM exit &amp; declining Rajya Sabha seat, what's next for 'accidental politician' Siddaramaiah",
+    "desc": "Karnataka Chief Minister Siddaramaiah has resigned, concluding a prolonged power struggle with Deputy CM D.K. Shivakumar. Despite being offered a Rajya Sabha seat and a national party role, Siddaramaiah declined, stating his commitment to serving as an MLA. His departure marks the end of a significant era in state politics, built on welfare and backward class mobilization.",
+    "img": "https://static.toiimg.com/photo/msid-131370163,imgsize-31596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/karnataka-leadership-change-after-cm-exit-declining-rajya-sabha-seat-whats-next-for-accidental-politician-siddaramaiah/articleshow/131370025.cms",
+    "time": "2026-05-28T12:11:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -37,7 +469,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Matter of pride’: Sooryavanshi’s priceless reaction to Sachin’s praise",
+    "title": "‘Matter of pride’: Sooryavanshi’s priceless reaction to Tendulkar’s praise",
     "desc": "Vaibhav Sooryavanshi received high praise from Sachin Tendulkar for his IPL 2026 performance. The young cricketer scored 97 runs off 29 balls, helping Rajasthan Royals win. Tendulkar lauded Sooryavanshi's batting technique. This recognition is a significant motivator for the 15-year-old. Rajasthan Royals will now play Gujarat Titans for a spot in the final.",
     "img": "https://static.toiimg.com/photo/msid-131369761,imgsize-921657.cms",
     "src": "indiatimes.com",
@@ -63,15 +495,6 @@ const newsData_en = [
     "time": "2026-05-28T11:41:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Visakhapatnam Collector seeks parties’ cooperation for SIR of electoral roll",
-    "desc": "District Collector M. Abhishikt Kishor asks political parties to help with the SIR of electoral rolls, the first in 23 years, as the draft roll is due on July 21 and the final on September 22",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/ggag06/article71033287.ece/alternates/LANDSCAPE_1200/coll.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnam-collector-seeks-parties-cooperation-for-sir-of-electoral-roll/article71032996.ece",
-    "time": "2026-05-28T11:38:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Stan Lee returns in AI project for books and digital media",
     "desc": "Stan Lee's larger-than-life persona is getting a modern twist! His distinctive voice and image are now part of an interactive AI marketplace, letting fans listen to him narrate popular stories and grace approved media projects. This initiative, born from a partnership with Stan Lee Universe and ElevenLabs, also includes dynamic tools for crafting visuals and soundtracks inspired by Lee's genius.",
@@ -88,42 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicolas-cage-changes-his-official-name-to-avoid-being-a-clown-cousin-says-im-nick-cage-in-life/articleshow/131369378.cms",
     "time": "2026-05-28T11:34:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "D.K. Shivakumar: Congress troubleshooter poised to become Chief Minister of Karnataka",
-    "desc": "D.K. Shivakumar’s proximity to the party’s top brass, particularly Sonia Gandhi and Priyanka Gandhi Vadra, is believed to have strengthened his claim after a prolonged power struggle with Chief Minister Siddaramaiah over the last three years",
-    "img": "https://th-i.thgim.com/public/incoming/gi2c4v/article71033138.ece/alternates/LANDSCAPE_1200/_KMK5442.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-congress-troubleshooter-poised-to-become-chief-minister-of-karnataka/article71032582.ece",
-    "time": "2026-05-28T11:34:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Regional parties' income falls 52% in 2024-25; 21 spent more than they earned: ADR report",
-    "desc": "Among regional parties, the highest income was declared by the Telugu Desam Party (TDP) at ₹228.31 crore, constituting 19.14% of the total income, followed closely by the All India Trinamool Congress (AITC) and the YSR Congress",
-    "img": "https://th-i.thgim.com/public/incoming/b2vo00/article71033261.ece/alternates/LANDSCAPE_1200/iStock-910060330.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/regional-parties-income-adr-report/article71033233.ece",
-    "time": "2026-05-28T11:28:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi’s open-and-shut case for India T20I call-up",
-    "desc": "‘If it ain’t broke, don’t fix it’ may be a sound maxim to heed in usual circumstances, but there is nothing normal about a 15-year-old virtually breaking down the selection door with each passing innings in a sublime IPL campaign",
-    "img": "https://th-i.thgim.com/public/incoming/d73hl5/article71033161.ece/alternates/LANDSCAPE_1200/2150_18_4_2026_18_22_42_1_IPLRR_18042026_05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/vaibhav-sooryavanshis-open-and-shut-case-for-india-t20i-call-up/article71032629.ece",
-    "time": "2026-05-28T11:13:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Emily in Paris’ star Paul shares heartfelt words",
-    "desc": "French actor Pierre Deny, known for his role as Louis de Léon in 'Emily in Paris,' has passed away at 69 after a battle with ALS. Deny, who appeared in seasons 3 and 4, was also a prolific actor in French television. His co-star Paul Forman and Deny's daughters confirmed his death, remembering his warmth and talent.",
-    "img": "https://static.toiimg.com/photo/msid-131368985,imgsize-31908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/pierre-deny-passes-away-emily-in-paris-star-paul-forman-shares-heartfelt-words-heartbroken-to-hear-/articleshow/131368925.cms",
-    "time": "2026-05-28T11:12:48.000Z"
   },
   {
     "cat": "Politics",
@@ -153,15 +540,6 @@ const newsData_en = [
     "time": "2026-05-28T11:02:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Severe heatwave in Rajasthan for next 48 hours, rain from May 29",
-    "desc": "Maximum temperatures in most parts of the State are expected to remain between 44 and 46° Celsius, while some areas in the Bikaner and Kota divisions and the Shekhawati region may record temperatures of 46-47° Celsius",
-    "img": "https://th-i.thgim.com/public/incoming/wop16s/article71033147.ece/alternates/LANDSCAPE_1200/20260527224L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/severe-heatwave-in-rajasthan-for-next-48-hours-rain-from-may-29/article71033098.ece",
-    "time": "2026-05-28T11:02:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "81% of Indians hunting for better salary",
     "desc": "A recent survey reveals that only 29% of Indian employees are satisfied with their salaries, with 81% planning to ask for a raise due to rising living costs. Millennials are most proactive, with 90% seeking increases, and a significant 68% of Indian respondents expect over a 10% pay rise, exceeding global averages.",
@@ -169,33 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/payday-pain-81-of-indians-hunting-for-better-salary-what-is-their-next-move/articleshow/131367320.cms",
     "time": "2026-05-28T10:49:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cockroach Janta Party: lessons for the ruling party and Opposition",
-    "desc": "The online satirical phenomena the Cockroach Janta Party, has gained a lot of traction online and in political discourse. It has also become, in a sense, a lightning rod, of a narrative tug of war rather than what it is – a signal to political parties across the spectrum. We analyse how the BJP and the opposition parties have responded to this.",
-    "img": "https://th-i.thgim.com/public/incoming/p9pdza/article71033072.ece/alternates/LANDSCAPE_1200/CJP.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-cockroach-janta-party-lessons-for-the-ruling-party-and-opposition/article71033068.ece",
-    "time": "2026-05-28T10:47:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Poultry farmers in Namakkal deny claims of long-term egg storage for noon meal scheme",
-    "desc": "In a social media post, former BJP State president K. Annamalai alleged that contractors had procured nearly 20 crore eggs when prices dropped to ₹3.70 apiece in March and stored them for long-term supply to schools",
-    "img": "https://th-i.thgim.com/public/incoming/3zh3s6/article71032878.ece/alternates/LANDSCAPE_1200/9868_28_3_2026_12_33_29_3_EGG_NAMAKKAL_3.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/poultry-farmers-in-namakkal-deny-claims-of-long-term-egg-storage-for-noon-meal-scheme/article71032593.ece",
-    "time": "2026-05-28T10:34:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘3 Idiots’ sequel delayed as Aamir Khan focuses on Lala Amarnath biographical drama",
-    "desc": "Aamir Khan has greenlit Ashutosh Gowariker's 1952 India-Pakistan cricket drama, pushing the '3 Idiots' sequel to mid-2027 due to script development. Farhan Akhtar joins the sports film as a co-producer and in a key role, with both actors set for cricket training. The '3 Idiots' sequel faces delays as Aamir awaits a refined screenplay.",
-    "img": "https://static.toiimg.com/photo/msid-131368171,imgsize-57036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/3-idiots-sequel-faces-delay-as-aamir-khan-focuses-on-ashutosh-gowarikers-lala-amarnath-biographical-drama/articleshow/131368142.cms",
-    "time": "2026-05-28T10:33:07.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +567,6 @@ const newsData_en = [
     "time": "2026-05-28T10:14:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sayaji Shinde plants 6.5 lakh trees to honour mother’s memory",
-    "desc": "Renowned actor Sayaji Shinde, who has left an indelible mark with his performances in films like 'Shool' and 'Sarkar Raj', has embarked on an inspiring environmental campaign known as Sahyadri Devrai. This initiative has successfully planted over 650,000 trees across Maharashtra, all sparked by Shinde's profound love for his mother and a strong resolve to address local drought issues.",
-    "img": "https://static.toiimg.com/photo/msid-131367589,imgsize-12574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sarkar-raj-actor-sayaji-shinde-planted-more-than-6-5-lakh-trees-across-maharashtra-to-keep-his-mothers-memory-alive-i-wanted-to-go-beyond-fame/articleshow/131367589.cms",
-    "time": "2026-05-28T10:08:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "UBS report",
     "desc": "Global wealth is shifting away from the US dollar, with wealthy families and their offices expressing declining confidence in its reserve currency status. Driven by geopolitical worries and sovereign debt concerns, nearly two-thirds anticipate a weaker dollar.",
@@ -243,33 +585,6 @@ const newsData_en = [
     "time": "2026-05-28T10:00:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "VCK in TVK-led government: Thirumavalavan calls upon cadre to ‘let go and move on’",
-    "desc": "“DMK leaders like A. Raja are criticising us. We are pained...but we understand their point of view as well. The DMK cadre will not be able to accept the VCK joining hands with the TVK, which has severely criticised the DMK,” stated Mr. Thirumavalavan.",
-    "img": "https://th-i.thgim.com/public/incoming/1sjiee/article71032820.ece/alternates/LANDSCAPE_1200/THOL_THIRUMAVALAVAN_VCK_PRESIDENT_4.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/vck-in-tvk-led-government-thirumavalavan-calls-upon-cadre-to-let-go-and-move-on-from-being-critical-of-dmk/article71030085.ece",
-    "time": "2026-05-28T09:54:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pooja Bhatt spills the beans on her past relationship with Bobby Deol",
-    "desc": "Pooja Bhatt fondly reminisces about her past relationship with Bobby Deol, calling it a magical time. She emphasizes the importance of maintaining dignity and grace when discussing past relationships, especially as Bobby is now happily married with children and experiencing a career resurgence. Bhatt also lauded his powerful performance in 'Animal'.",
-    "img": "https://static.toiimg.com/photo/msid-131367481,imgsize-95686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bhatt-spills-the-beans-on-her-past-relationship-with-bobby-deol-it-was-a-magical-time-of-my-life/articleshow/131367463.cms",
-    "time": "2026-05-28T09:52:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Keanu Reeves backs Carl Rinsch before ‘White Horse’ sentencing",
-    "desc": "Hollywood star Keanu Reeves has appealed to a federal judge for leniency for filmmaker Carl Rinsch, convicted in an $11 million Netflix fraud case. Rinsch, who directed Reeves in '47 Ronin', faces sentencing for allegedly misusing funds meant for the unfinished sci-fi series 'White Horse'. Reeves described Rinsch as a visionary artist and a friend.",
-    "img": "https://static.toiimg.com/photo/msid-131367340,imgsize-39884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/keanu-reeves-supports-white-horse-director-carl-rinsch-before-sentencing-in-my-opinion-carl-is-an-exceptional-artist/articleshow/131367340.cms",
-    "time": "2026-05-28T09:47:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi's three-word post goes viral after his brutal knock against SRH",
     "desc": "In a stunning display of talent, the young prodigy Vaibhav Sooryavanshi showcased his prowess by scoring an electrifying 97 runs off just 29 balls. This performance almost set a new benchmark, falling just short of Chris Gayle's record for the fastest century in IPL history. With an astonishing 65 sixes this season, he has also eclipsed Gayle’s previous record.",
@@ -277,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshis-three-word-social-media-post-goes-viral-after-his-brutal-knock-against-srh-in-ipl/articleshow/131367276.cms",
     "time": "2026-05-28T09:46:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Andhra Pradesh officials say Odisha blocking census collection in Kotia villages",
-    "desc": "Tribal Welfare Minister Gummadi Sandhya Rani has asked Chief Minister N. Chandrababu Naidu to protect the people of the disputed Kotia villages, where Odisha officials have reportedly stopped Andhra Pradesh staff from collecting census data",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/31thud/article71032454.ece/alternates/LANDSCAPE_1200/Kotia.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-officials-say-odisha-blocking-census-collection-in-kotia-villages/article71032129.ece",
-    "time": "2026-05-28T09:42:03.000Z"
   },
   {
     "cat": "Politics",
@@ -297,24 +603,6 @@ const newsData_en = [
     "time": "2026-05-28T09:39:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Blast' actress Abhirami welcomes the change in Tamil cinema",
-    "desc": "Actress Abhirami discusses her transformative role in 'Blast,' highlighting a significant physical change and her appreciation for evolving opportunities for women in Tamil cinema. She reveals a past back injury spurred her fitness journey, crediting her team for the demanding action sequences and expressing concerns about AI's impact on dubbing artists.",
-    "img": "https://static.toiimg.com/photo/msid-131367242,imgsize-107910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/abhirami-welcomes-the-change-in-tamil-cinema-blast-actress-says-stereotypes-have-been-broken-exclusive/articleshow/131367251.cms",
-    "time": "2026-05-28T09:37:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Emotional scenes as Abdul Rahim arrives home in Kerala after serving 20-year jail term in Saudi",
-    "desc": "A native of Kodampuzha in Kozhikode district of Kerala, Abdul Rahim was imprisoned and sentenced to death in 2006 for the murder of 14-year-old differently abled son of his employer. His jail term ended on May 19",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/gyn3d7/article71032792.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-28%20at%2014.55.11.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/emotional-scenes-as-abdul-rahim-arrives-home-in-kerala-after-serving-20-year-jail-term-in-saudi/article71032143.ece",
-    "time": "2026-05-28T09:27:31.000Z"
-  },
-  {
     "cat": "World",
     "title": "One Sri Lankan officer’s transformative train adventure through India",
     "desc": "Forty days, some 13,000 kilometres, km, and 24 trains crisscrossing India — that sums up Saman Athaudahetti’s February and March, as he chased his long-held dream of exploring this neighbouring country through its railway network",
@@ -322,24 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/travel/a-journey-of-the-heart-one-sri-lankan-officers-transformative-train-adventure-through-india/article70897052.ece",
     "time": "2026-05-28T09:26:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu’s rights of utmost importance, never said will surrender that: Higher Education Minister",
-    "desc": "He was responding to a controversy stoked by his statement in Madurai on Wednesday that the new government need not follow the policies of the previous government, particularly with regard to the Chief Minister serving as the Chancellor of universities",
-    "img": "https://th-i.thgim.com/public/incoming/x21zbr/article71032505.ece/alternates/LANDSCAPE_1200/DSC_1256.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/states-rights-of-utmost-importance-never-said-will-surrender-that-higher-education-minister/article71032052.ece",
-    "time": "2026-05-28T09:24:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Govinda burped on my face, I considered it blessing’: Rakhi Sawant",
-    "desc": "Rakhi Sawant, post 'Bigg Boss Marathi', is sharing candid life stories. She revealed her challenging childhood, early struggles in Bollywood, and even a surprising encounter on the sets of 'Joru Ka Ghulam' where she landed an item song by chance and experienced a memorable moment with Govinda. Her journey, marked by hardships and triumphs, is now being unveiled.",
-    "img": "https://static.toiimg.com/photo/msid-131367050,imgsize-122878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-burped-on-my-face-but-i-considered-it-blessing-rakhi-sawant-recalls-bizarre-incident-from-joru-ka-ghulam-sets/articleshow/131366866.cms",
-    "time": "2026-05-28T09:24:06.000Z"
   },
   {
     "cat": "Sports",
@@ -352,66 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Viola Davis",
-    "desc": "Viola Davis, the illustrious Oscar-winning actress, shares her transformative journey in the memoir 'Finding Me.' She candidly discusses how life's obstacles can serve as stepping stones to redefine who we are. By reflecting on her past struggles, she illustrates that strength emerges from adversity, fostering resilience and a profound capacity for love.",
-    "img": "https://static.toiimg.com/photo/msid-131366829,imgsize-52808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-viola-davis-my-biggest-discovery-was-that-you-can-literally-re-create-your-life-i-have-fight-in-me-i-had-love/articleshow/131366779.cms",
-    "time": "2026-05-28T09:04:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar 2' BO day 71 [LIVE]: Ranveer Singh film eyes final Rs. 1,150 crore mark",
     "desc": "The Revenge', starring Ranveer Singh, enters the final stretch of its monumental theatrical run on Day 71. With an official JioHotstar domestic OTT release date locked for June 4, 2026, the sequel is now racing to secure its next massive milestone. The film currently sits just over Rs. 1.95 crore away from crossing the monumental Rs. 1,150 crore net domestic mark in India. However, with the streaming countdown ticking away, the ultimate dream of toppling 'Pushpa 2’s lifetime domestic record appears to be fading fast.",
     "img": "https://static.toiimg.com/photo/msid-131366715,imgsize-66778.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-71-live-ranveer-singh-film-just-rs-1-95-crore-away-from-rs-1150-crore-net-amid-ott-countdown-and-fwice-directive/articleshow/131366695.cms",
     "time": "2026-05-28T09:02:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Does Ben Affleck feel happy about Jennifer Lopez and Brett Goldstein?",
-    "desc": "Jennifer Lopez is generating buzz with co-star Brett Goldstein for their upcoming film 'Office Romance.' Rumors of a real-life romance have surfaced, with insiders claiming their relationship is 'strictly professed.' Meanwhile, ex-partner Ben Affleck reportedly feels relieved and ready to move on, finding happiness in Lopez finding new love.",
-    "img": "https://static.toiimg.com/photo/msid-131366731,imgsize-35782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/does-ben-affleck-feel-happy-about-the-rumoured-couple-jennifer-lopez-brett-goldstein-heres-what-we-know/articleshow/131366671.cms",
-    "time": "2026-05-28T08:59:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "A.R. Rahman to co-produce Shekhar Kapur’s 'Masoom' sequel",
-    "desc": "The Next Generation,' focusing on migration and fractured families. Oscar-winning composer A.R. Rahman joins as co-producer, drawn by the script's emotional depth. The film explores the meaning of 'home' and belonging in a changing world, with original cast members Naseeruddin Shah and Shabana Azmi expected to return.",
-    "img": "https://static.toiimg.com/photo/msid-131366637,imgsize-71676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/a-r-rahman-to-co-produce-shekhar-kapurs-masoom-sequel-starring-naseeruddin-shah-shabana-azmi-manoj-bajpayee-and-nithya-menen/articleshow/131366616.cms",
-    "time": "2026-05-28T08:52:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Naga Chaitanya‘s ‘Vrushakarma’ release buzz",
-    "desc": "Naga Chaitanya's upcoming mystical adventure thriller, 'Vrushakarma', directed by Karthik Dandu, is reportedly facing a potential delay from its initial August-October release window. The film, which boasts extensive visual effects and fantasy elements, is said to be moving towards a December 2026 theatrical debut due to extended post-production work. Shooting for the project is nearly complete.",
-    "img": "https://static.toiimg.com/photo/msid-131366623,imgsize-180738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vrushakarma-release-date-is-naga-chaitanya-starrer-mystical-adventure-thriller-expected-to-hit-in-december-2026-/articleshow/131366588.cms",
-    "time": "2026-05-28T08:51:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "\"Sorry Mr D &amp; Vignesh Raja…\" Fan apologises after 'Kara' OTT release",
-    "desc": "Dhanush's crime thriller 'Kara,' initially met with mixed reviews, is now garnering significant praise on Netflix. Many viewers who skipped it in theaters regret their decision, citing misleading negative reviews. The film's interval and bank robbery sequences are particularly lauded, with fans apologizing to the makers for the initial lukewarm reception.",
-    "img": "https://static.toiimg.com/photo/msid-131366544,imgsize-130046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-ott-review-sorry-mr-d-vignesh-rajafan-apologises-to-kara-makers-for-believing-fake-negative-reviews/articleshow/131366507.cms",
-    "time": "2026-05-28T08:46:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Horrific crash, setbacks and the wait: Abneet struggles, but keeps India dream alive",
-    "desc": "​Footballer Abneet Bharti, currently with Academia del Balompie Boliviano, suffered a career setback after a cycling accident in Bolivia left him injured and unable to play. Bharti’s dream of representing India has already been hindered by bureaucratic challenges, but he remains determined to earn his first cap despite ongoing obstacles.",
-    "img": "https://static.toiimg.com/photo/msid-131366338,imgsize-124870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/horrific-crash-setbacks-and-the-wait-abneet-bharti-struggles-but-keeps-india-dream-alive/articleshow/131366271.cms",
-    "time": "2026-05-28T08:38:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +639,6 @@ const newsData_en = [
     "time": "2026-05-28T08:32:39.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Indian badminton icon PV Sindhu storms into Singapore Open quarterfinals",
-    "desc": "PV Sindhu stormed into the Singapore Open quarterfinals with a dominant 21-9, 21-12 win over Riko Gunji. She next faces top seed An Se Young. In men’s doubles, Satwiksairaj Rankireddy and Chirag Shetty advanced after a tough three-game battle, while mixed doubles pair Dhruv Kapila and Tanisha Crasto also reached the last eight.",
-    "img": "https://static.toiimg.com/photo/msid-131366298,imgsize-115692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/indian-badminton-icon-pv-sindhu-storms-into-singapore-open-quarterfinals/articleshow/131366190.cms",
-    "time": "2026-05-28T08:31:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump appears to threaten to ‘blow up’ ally Oman over Strait of Hormuz control",
     "desc": "The U.S. President said Oman must \"behave\" or he would \"blow them up,\" when he was asked if he would accept a short-term deal to allow Iran and the Gulf state to control the Strait of Hormuz",
@@ -439,24 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-appears-to-threaten-to-blow-up-ally-oman-over-strait-of-hormuz-control/article71032429.ece",
     "time": "2026-05-28T08:24:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kiefer Sutherland's 'Grey': All about the musical comeback",
-    "desc": "Kiefer Sutherland is set to release his fourth studio album, 'Grey,' on May 29, 2026. This cinematic country offering delves into introspection, beginning with somber tunes and evolving towards a hopeful conclusion. A standout track, 'Simpler Times,' reflects on childhood memories and the joy of simpler experiences, inspired by his own family's growth.",
-    "img": "https://static.toiimg.com/photo/msid-131366235,imgsize-29818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kiefer-sutherland-grey-all-you-need-to-know-about-his-musical-comeback/articleshow/131366256.cms",
-    "time": "2026-05-28T08:23:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tendulkar explains Vaibhav Sooryavanshi’s 'outstanding' batting aspect",
-    "desc": "Vaibhav Sooryavanshi’s sensational 97 off 29 balls against SRH in the IPL 2026 Eliminator earned praise from cricket legends worldwide. The 15-year-old RR batter smashed 12 sixes and broke Chris Gayle’s record for most sixes in an IPL season. Sachin Tendulkar, Yuvraj Singh, AB de Villiers, Michael Vaughan and others hailed the teenager’s fearless batting as Rajasthan Royals reached Qualifier 2.",
-    "img": "https://static.toiimg.com/photo/msid-131365538,imgsize-71156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-sachin-tendulkar-explains-vaibhav-sooryavanshis-outstanding-batting-aspect/articleshow/131365316.cms",
-    "time": "2026-05-28T07:38:15.000Z"
   },
   {
     "cat": "Politics",
@@ -513,15 +702,6 @@ const newsData_en = [
     "time": "2026-05-28T07:18:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘India debut can wait’: Ex-cricketer explains why Sooryavanshi’s time has not come yet",
-    "desc": "Vaibhav Sooryavanshi's explosive 97 off 29 balls in IPL 2026 has fueled calls for his India debut. However, Aakash Chopra advises patience, stating the 15-year-old has ample time and selectors must consider current performers before rushing his inclusion.",
-    "img": "https://static.toiimg.com/photo/msid-131364851,imgsize-29340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshis-india-debut-can-wait-ex-india-cricketer-aakash-chopra/articleshow/131364607.cms",
-    "time": "2026-05-28T07:02:17.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Dharmendra Pradhan issues clarification, takes swipe at Rahul Gandhi",
     "desc": "Union Education Minister Dharmendra Pradhan addressed concerns over CBSE Class 12 evaluation discrepancies, assuring no one would be spared if irregularities are found. He criticized Rahul Gandhi's frustration over electoral defeats, accusing him of opposing India's scientific progress. Pradhan emphasized the government's commitment to student well-being and transparency in the digital evaluation system.",
@@ -529,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/cbse-exam-discrepancy-claims-dharmendra-pradhan-issues-clarification-takes-swipe-at-rahul-gandhi/articleshow/131364550.cms",
     "time": "2026-05-28T06:57:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hinge's aggression after dismissing Sooryavanshi doesn't sit well with fans",
-    "desc": "Vaibhav Sooryavanshi’s explosive 97 off 29 balls against SRH became the highlight of the IPL 2026 Eliminator. Fans criticised SRH pacer Praful Hinge’s aggressive celebration after dismissing the 15-year-old batter, while Abhishek Sharma’s supportive gesture towards Vaibhav earned praise online. Sooryavanshi’s innings, featuring 12 sixes, powered Rajasthan Royals to 243/8 and helped them dominate the knockout clash.",
-    "img": "https://static.toiimg.com/photo/msid-131364583,imgsize-44280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/watch-praful-hinges-aggression-after-dismissing-vaibhav-sooryavanshi-doesnt-sit-well-with-fans/articleshow/131363889.cms",
-    "time": "2026-05-28T06:36:59.000Z"
   },
   {
     "cat": "Business",
@@ -558,24 +729,6 @@ const newsData_en = [
     "time": "2026-05-28T06:10:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India bakes under record heat as UN warns five more years of climate extremes",
-    "desc": "Indian states are reeling from an extreme heat wave, with Rajasthan hitting 48.2°C, reflecting the urgent climate crises facing the country and beyond. According to a UN analysis, there's a dire 75% likelihood that we will breach the 1.5°C temperature limit by 2030.",
-    "img": "https://static.toiimg.com/photo/msid-131363939,imgsize-166322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-bakes-under-record-heat-as-un-warns-five-more-years-of-climate-extremes/articleshow/131363846.cms",
-    "time": "2026-05-28T05:57:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Verbal abuse, misogyny': Former TMC MP Kakoli Ghosh Dastidar writes to Om Birla against party MP Kalyan Banerjee",
-    "desc": "Trinamool Congress MP Kakoli Ghosh Dastidar has lodged a formal complaint with Lok Sabha Speaker Om Birla against party MP Kalyan Banerjee, accusing him of repeated verbal abuse within Parliament. This complaint follows Dastidar's recent resignations from key party posts and public criticism of the TMC's leadership and political consultancy firm I-PAC after the party's electoral performance.",
-    "img": "https://static.toiimg.com/photo/msid-131363737,imgsize-1059162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/verbal-abuse-misogyny-tmc-mp-kakoli-ghosh-dastidar-writes-to-om-birla-against-party-mp-kalyan-banerjee/articleshow/131363615.cms",
-    "time": "2026-05-28T05:37:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi, Archer carry Royals into Qualifier 2",
     "desc": "The teen prodigy smashes 97 off just 29 balls with five fours and 12 sixes as the Rajasthan side makes 243 for eight; the pacer accounts for the top three in his opening spell to dash Sunrisers’ hopes",
@@ -585,60 +738,6 @@ const newsData_en = [
     "time": "2026-05-28T05:36:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ashwin fumes at SRH batting collapse, advises 'management to think' Head’s future",
-    "desc": "R Ashwin lambasted Sunrisers Hyderabad's reckless batting in their IPL Eliminator loss, particularly criticizing Ishan Kishan's unnecessary shot and Travis Head's overall season. Ashwin suggested SRH management must re-evaluate Head's future, stating a lack of game awareness cost them a winnable chase against Rajasthan Royals.",
-    "img": "https://static.toiimg.com/photo/msid-131363528,imgsize-759123.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/r-ashwin-fumes-at-srh-batting-collapse-advises-management-to-think-travis-heads-future/articleshow/131363463.cms",
-    "time": "2026-05-28T05:21:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Crystal Palace clinch their first-ever European trophy",
-    "desc": "Crystal Palace won their first-ever European trophy after beating Rayo Vallecano 1-0 in the Conference League final. Jean-Philippe Mateta scored the winning goal in the second half, giving outgoing manager Oliver Glasner a perfect farewell. The victory also secured Palace a Europa League spot next season. Rayo Vallecano missed out in their first major European final despite creating a few chances.",
-    "img": "https://static.toiimg.com/photo/msid-131362945,imgsize-182226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/crystal-palace-clinch-their-first-ever-european-trophy-after-beating-rayo-vallecano-1-0-in-uefa-conference-league-final/articleshow/131362897.cms",
-    "time": "2026-05-28T04:32:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Esha Singh sets world records as Indian shooter wins 25m pistol gold",
-    "desc": "Esha Singh achieved a remarkable feat at the ISSF Munich World Cup, clinching gold in the women's 25m pistol event with two new world records. Her exceptional performance saw her shoot 43 in the final, surpassing previous senior and junior records. This victory, with a significant margin over the silver medalist, boosts her confidence for upcoming major championships.",
-    "img": "https://static.toiimg.com/photo/msid-131362655,imgsize-101908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/issf-world-cup-esha-singh-wins-25m-pistol-gold-with-double-world-records/articleshow/131362655.cms",
-    "time": "2026-05-28T04:05:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL chairman opens up on honey-trap concerns, calls it 'very clean tournament'",
-    "desc": "IPL governing council chairman Arun Dhumal distanced himself from speculation surrounding BCCI secretary Devajit Saikia's 'honey-trap' remark, saying no such incident had surfaced during IPL 2026 and described the tournament as a 'very clean' season.",
-    "img": "https://static.toiimg.com/photo/msid-131358806,imgsize-25344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/exclusive-arun-dhumal-dismisses-honey-trap-concerns-asserts-ipl-2026-a-clean-tournament/articleshow/131358802.cms",
-    "time": "2026-05-28T03:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi's 97 was not power-hitting alone, it was calculated assault",
-    "desc": "Vaibhav Sooryavanshi produced an innings that felt like a glimpse into cricket's future, smashing 97 off just 29 balls in the IPL Eliminator, leaving Sunrisers Hyderabad with no answers. Though he fell three runs short of a record-breaking century, the 15-year-old's fearless strokeplay, tactical maturity and breathtaking power ensured Mullanpur witnessed an innings that may live forever in IPL folklore.",
-    "img": "https://static.toiimg.com/photo/msid-131358751,imgsize-233022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/madness-in-mullanpur-vaibhav-sooryavanshis-97-was-not-power-hitting-alone-it-was-calculated-assault/articleshow/131358701.cms",
-    "time": "2026-05-28T02:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India suffer 2-0 defeat to Jamaica, set to play third-place match at Unity Cup",
-    "desc": "India lost 0-2 to Jamaica in the Unity Cup 2026 semifinal at The Valley in London. Courtney Clarke gave Jamaica an early lead before Kaheim Dixon sealed the win with a late solo goal. India showed improvement in the second half, but Chhangte’s goal was ruled offside. Sandesh Jhingan impressed defensively, while Ryan Williams suffered an injury. India next faces Zimbabwe in the third-place playoff.",
-    "img": "https://static.toiimg.com/photo/msid-131361631,imgsize-169726.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-suffer-2-0-defeat-to-jamaica-set-to-play-third-place-match-at-unity-cup/articleshow/131361485.cms",
-    "time": "2026-05-28T02:11:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oil prices jump 3% amid US-Iran standoff",
     "desc": "Oil prices saw a dip as hopes for a US-Iran deal to ease Middle East tensions and reopen the Strait of Hormuz emerged. Despite earlier drops, crude prices are recovering slightly. President Trump emphasized his focus on preventing Iran's nuclear ambitions and ensuring the Strait's accessibility, warning against interference.",
@@ -646,24 +745,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-on-may-28-2026-three-months-of-hormuz-chaos-oil-prices-ease-amid-hopes-of-us-iran-peace-deal/articleshow/131361433.cms",
     "time": "2026-05-28T01:56:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Historic for India! Praggnanandhaa shocks Magnus Carlsen in Norway; 3rd win for Divya",
-    "desc": "India's R Praggnanandhaa scripted a sensational repeat of history at the Norway Chess tournament in Oslo, stunning local hero and World No. 1 Magnus Carlsen in a 62-move classical encounter. Meanwhile, debutante Divya Deshmukh continued her dream run in the women's section, defeating tournament leader Bibisara Assaubayeva to secure her third consecutive Armageddon victory.",
-    "img": "https://static.toiimg.com/photo/msid-131361380,imgsize-80906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-shocks-world-no-1-magnus-carlsen-in-classical-3rd-straight-armageddon-win-for-divya-deshmukh/articleshow/131361310.cms",
-    "time": "2026-05-28T01:27:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Are BSE, NSE closed for trading on May 28?",
-    "desc": "Dalal Street participants will experience a shortened trading week as both NSE and BSE will be closed on Thursday, May 28, for Bakri Id. This holiday follows the Maharashtra Day closure and is one of 16 scheduled for 2026. Commodity markets will have a partial closure, with MCX resuming evening trade while NCDEX remains shut.",
-    "img": "https://static.toiimg.com/photo/msid-131362104,imgsize-2462153.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-on-bakri-id-are-bse-nse-closed-for-trading-on-may-28/articleshow/131356000.cms",
-    "time": "2026-05-27T17:17:19.000Z"
   },
   {
     "cat": "World",
@@ -691,24 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/hezbollah-says-clashed-with-israeli-troops-in-south-lebanon-beyond-yellow-line/article71030380.ece",
     "time": "2026-05-27T15:25:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Moody’s flags higher risks for Indian banks from Middle East crisis as oil prices stay elevated",
-    "desc": "Moody's Ratings has identified Indian banks as highly exposed to Middle East crisis risks due to the nation's significant energy import dependence. Sustained high oil prices could pressure inflation, interest rates, and borrower cash flows, impacting loan quality. Despite these challenges, Indian banks possess adequate capital and provisioning buffers to absorb potential credit losses.",
-    "img": "https://static.toiimg.com/photo/msid-131353757,imgsize-770655.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/moodys-flags-higher-risks-for-indian-banks-from-middle-east-crisis-as-oil-prices-stay-elevated/articleshow/131353761.cms",
-    "time": "2026-05-27T14:53:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US stock markets today (May 27, 2026): Wall Street stays near record highs as easing oil prices lift sentiment",
-    "desc": "Wall Street neared record highs as falling crude oil prices eased inflation concerns, boosting investor sentiment. Major indices saw gains, with technology and retail stocks performing well. However, oil and gas companies faced pressure, while Treasury yields declined amid reduced inflation worries.",
-    "img": "https://static.toiimg.com/photo/msid-131353119,imgsize-1400936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-markets-today-may-27-2026-wall-street-stays-near-record-highs-as-easing-oil-prices-lift-sentiment/articleshow/131353138.cms",
-    "time": "2026-05-27T14:19:28.000Z"
   },
   {
     "cat": "Business",
@@ -819,24 +882,6 @@ const newsData_en = [
     "time": "2026-05-27T06:30:50.000Z"
   },
   {
-    "cat": "World",
-    "title": "Under U.S. pressure, Cuba appeals for international help",
-    "desc": "U.S. President Donald Trump has openly mused about taking over communist Cuba, saying that after the U.S. attack in January that ousted Nicolas Maduro in Venezuela, Havana could be his next target for military action and big change",
-    "img": "https://th-i.thgim.com/public/incoming/a2wi0l/article71027511.ece/alternates/LANDSCAPE_1200/CUBA%20INDIA%20DELHI%202026_16_05_26.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/under-us-pressure-cuba-appeals-for-international-help/article71027501.ece",
-    "time": "2026-05-27T04:17:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Canada imposes Ebola-related travel ban, Bahamas to increase screening",
-    "desc": "Canadian citizens, permanent residents and other foreign nationals who have been in affected areas in ⁠recent weeks and do not have symptoms will have to quarantine for 21 days from May 30, ‌according to a statement from Canada’s public health agency",
-    "img": "https://th-i.thgim.com/public/incoming/hdlyjf/article71027479.ece/alternates/LANDSCAPE_1200/2026-05-26T183857Z_1810368346_RC2ZGLA38BK9_RTRMADP_3_HEALTH-EBOLA-CONGO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/canada-imposes-ebola-related-travel-ban-bahamas-to-increase-screening/article71027475.ece",
-    "time": "2026-05-27T04:07:31.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "How safe is India’s critical national infrastructure?",
     "desc": "Over the last few decades, critical infrastructure and services have been scaled up through automation, the Internet of Things and AI. However, this has also made them more vulnerable to attacks through IoT devices, highlighting the need for a policy framework to safeguard our infrastructure",
@@ -846,33 +891,6 @@ const newsData_en = [
     "time": "2026-05-26T18:02:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "China, Pakistan agree to 'unswervingly safeguard' bilateral ties",
-    "desc": "Statement was issued at the end of Prime Minister Shehbaz Sharif's official visit to China from May 23-26 at invitation of Premier Li Qiang. During his visit, two sides signed a number of cooperation documents in various fields",
-    "img": "https://th-i.thgim.com/public/incoming/ey8cbg/article71026568.ece/alternates/LANDSCAPE_1200/AP05_25_2026_000557A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-pakistan-agree-to-unswervingly-safeguard-bilateral-ties/article71026538.ece",
-    "time": "2026-05-26T17:29:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "North Korea launches ballistic missile, other weapons over sea in latest show of force",
-    "desc": "The missile fired from Jongju, a city near the North’s west coast, flew about 80 kilometres (50 miles), South Korea’s Joint Chiefs of Staff said. North Korea launched other kinds of projectiles, it said, but didn’t elaborate",
-    "img": "https://th-i.thgim.com/public/incoming/n6nuto/article71023674.ece/alternates/LANDSCAPE_1200/North_Korea_04711.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/north-korea-fires-unidentified-projectile-south-korea-military-says/article71023670.ece",
-    "time": "2026-05-26T17:13:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran accuses U.S. of breaking truce after new strikes",
-    "desc": "Iranian state media reported overnight blasts in the southern port city of Bandar Abbas, near the Strait of Hormuz, and the country’s Revolutionary Guards said its forces had downed a U.S. drone entering its airspace and had fired at an F-35 fighter jet",
-    "img": "https://th-i.thgim.com/public/incoming/7vtr2k/article71026517.ece/alternates/LANDSCAPE_1200/2026-05-25T080733Z_2082015877_RC26GLAJ8QCN_RTRMADP_3_IRAN-CRISIS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-accuses-us-of-breaking-truce-after-new-strikes/article71026498.ece",
-    "time": "2026-05-26T17:09:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Praveen Chithravel is ‘impatient’ to set the record straight in the Commonwealth Games",
     "desc": "‘I know I’m one of the best athletes in the world. In big events, I want to fight with all the (top) athletes. I want to show who I am, (someone) from India,’ says Praveen, who will turn 25 soon",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/athletics/praveen-chithravel-is-impatient-to-set-the-record-straight-in-the-commonwealth-games/article71024632.ece",
     "time": "2026-05-26T12:44:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mikel Arteta’s Arsenal — a winning machine that never ran out of steam",
-    "desc": "After three successive near-misses in the Premier League, the Gunners went one step further to end a 22-year wait; a ‘dream’ double is within sight as the London giants gear up for the Champions League final",
-    "img": "https://th-i.thgim.com/public/incoming/yqif0e/article71018933.ece/alternates/LANDSCAPE_1200/AFP_B3WV3TA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/mikel-artetas-arsenal-a-winning-machine-that-never-ran-out-of-steam/article71018932.ece",
-    "time": "2026-05-26T09:19:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'",
-    "desc": "“I’m delighted to be wrong about this, ‌I ⁠thought there would have been more impact on entry-level white-collar jobs being eliminated by ⁠now than has actually happened,” Sam Altman told CBA Chief Executive Matt Comyn",
-    "img": "https://th-i.thgim.com/public/incoming/ikvmnw/article71024123.ece/alternates/LANDSCAPE_1200/2026-05-26T073711Z_1570248417_RC2UMCA6GNXA_RTRMADP_3_AUSTRALIA-OPENAI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/openais-altman-says-ai-unlikely-to-lead-to-jobs-apocalypse/article71024120.ece",
-    "time": "2026-05-26T08:29:21.000Z"
   }
 ];
