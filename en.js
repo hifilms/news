@@ -1,7 +1,124 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "UN to posthumously honour 2 Indian peacekeepers today; chief Guterres to also honour Major Abhilasha Barak",
+    "desc": "India's unwavering commitment to UN peacekeeping is highlighted as two brave soldiers, Lance Havildar Harbhajan Singh and Naib Subedar Sujit Kumar Pradhan, will be posthumously honored with the Dag Hammarskjold Medal. Major Abhilasha Barak, a pioneering combat helicopter pilot, also receives the Military Gender Advocate of the Year award for her exceptional work.",
+    "img": "https://static.toiimg.com/photo/msid-131379029,imgsize-670763.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/un-to-posthumously-honour-2-indian-peacekeepers-today-chief-guterres-to-also-honour-major-abhilasha-barak/articleshow/131378926.cms",
+    "time": "2026-05-28T22:13:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad scores win over Angelina as Judge orders new deposition",
+    "desc": "Brad Pitt scores a legal win in the Chateau Miraval dispute as a judge orders a key figure to re-testify. Attorneys for the Stoli side allegedly blocked crucial questions regarding Yuri Shefler's involvement in Jolie's stake sale. This ruling follows recent back-and-forth legal victories for both Pitt and Jolie concerning winery-related communications and emails.",
+    "img": "https://static.toiimg.com/photo/msid-131377907,imgsize-102756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-scores-win-over-angelina-jolie-in-winery-dispute-court-orders-another-deposition-over-blocked-testimony-in-actresss-sale-of-stake/articleshow/131377726.cms",
+    "time": "2026-05-28T22:11:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jat Sikh Kewal Singh Dhillon made Punjab chief ahead of polls",
+    "desc": "The BJP has appointed Kewal Singh Dhillon as its Punjab president, a strategic move to appeal to the influential Jat Sikh community ahead of assembly polls. This appointment, alongside changes in Delhi, Haryana, and Tripura, signals the party's ambition to expand its voter base beyond urban Hindus in Punjab.",
+    "img": "https://static.toiimg.com/photo/msid-131377918,imgsize-813386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-rejigs-4-state-units-jat-sikh-kewal-singh-dhillon-made-punjab-chief-ahead-of-polls/articleshow/131377915.cms",
+    "time": "2026-05-28T21:52:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saba Azad on period shame, finding safe gynacs and green flags",
+    "desc": "Actor and musician Saba Azad got candid about women’s health, sexuality, periods and the stigma around visiting gynecologists. While promoting the second season of her show Who’s Your Gynac?, Saba spoke at length about the shame women continue to face around their bodies and reproductive health.",
+    "img": "https://static.toiimg.com/photo/msid-131377912,imgsize-41424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saba-azad-opens-up-on-womens-health-period-shame-finding-safe-gynacs-and-green-flags-in-relationships-men-should-inform-themselves/articleshow/131377903.cms",
+    "time": "2026-05-28T21:50:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift Vienna concert attacker sentenced to 15 yrs in prison",
+    "desc": "An Austrian court has sentenced Beran A., 21, to 15 years in prison for planning a knife and bomb attack at a Taylor Swift concert in Vienna. Authorities thwarted the plot, leading to the cancellation of Swift's August 2024 shows. Beran A. also admitted to charges related to terrorism and networking with the Islamic State group.",
+    "img": "https://static.toiimg.com/photo/msid-131377722,imgsize-131902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swifts-vienna-concert-attacker-sentenced-to-15-years-in-prison-found-guilty-on-multiple-charges/articleshow/131377718.cms",
+    "time": "2026-05-28T21:23:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Raha made me better, Ramayana wanted me to be better for Raha’",
+    "desc": "Actor Ranbir Kapoor and filmmaker Nitesh Tiwari have opened up about the emotional and creative journey behind their ambitious adaptation of Ramayana, calling the film one of the most meaningful experiences of their lives. Ranbir also emotionally connected the experience of working on the film with becoming a father to daughter Raha.",
+    "img": "https://static.toiimg.com/photo/msid-131377683,imgsize-210680.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-says-ramayana-changed-his-value-system-raha-made-me-a-better-person-and-ramayana-wanted-me-to-be-better-for-raha/articleshow/131377672.cms",
+    "time": "2026-05-28T20:19:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cyprus’s desire to buy BrahMos, Kamikaze drones from India alarms Turkey",
+    "desc": "Cyprus is seeking to acquire BrahMos cruise missiles and kamikaze drones from India, a move that has alarmed Türkiye. This potential defense deal, possibly part of an EU program, could significantly alter the regional military balance in the Eastern Mediterranean. The acquisition follows a roadmap for bilateral defense cooperation between India and Cyprus.",
+    "img": "https://static.toiimg.com/photo/msid-131377557,imgsize-1647943.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cypruss-desire-to-buy-brahmos-kamikaze-drones-from-india-alarms-trkiye/articleshow/131377555.cms",
+    "time": "2026-05-28T19:42:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After divorce, Sussanne never wanted love again before meeting Arslan",
+    "desc": "Sussanne Khan and Arslan Goni have opened up about their relationship, love, family bond and life together. The couple, who have been together for nearly five years now, reflected on finding love unexpectedly, balancing their hectic careers and protecting the sanctity of their relationship from public scrutiny. Sussanne also opened up about how her sons, Hrehaan and Hredaan, gradually bonded with Arslan over the years.",
+    "img": "https://static.toiimg.com/photo/msid-131377516,imgsize-91334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-hrithik-roshan-divorce-sussanne-khan-says-she-never-wanted-love-again-before-meeting-arslan-goni-sons-hrehaan-hridaan-adore-him/articleshow/131377454.cms",
+    "time": "2026-05-28T19:32:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Adivasis demand halt to tiger safari push, evictions in south India forests",
+    "desc": "Indigenous communities in Karnataka, Kerala, and Tamil Nadu are protesting wildlife tourism and tiger reserve expansion. They accuse authorities and conservation groups of commercializing ancestral lands, evicting families, and ignoring their rights. A joint declaration demands an immediate halt to relocations and recognition of their land rights, calling forced conservation 'colonization'.",
+    "img": "https://static.toiimg.com/photo/msid-131377528,imgsize-1719603.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/adivasis-demand-halt-to-tiger-safari-push-evictions-in-south-india-forests/articleshow/131376913.cms",
+    "time": "2026-05-28T18:39:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Dolby Cinema changing Bengaluru’s big-screen experience?",
+    "desc": "Bengaluru’s movie scene just got an upgrade with the launch of Dolby Cinema at AMB Cinemas. As movie buffs debate whether Dolby or IMAX reigns supreme, AMB is on a mission to bring the buzz back to the Majestic area, once the heart of cinema",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/2jevfl/article71034760.ece/alternates/LANDSCAPE_1200/Dolby.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/dolby-cinema-bengaluru-amb-cinemas-mahesh-babu-dhurandhar-michael-dolby-imax/article71030922.ece",
+    "time": "2026-05-28T18:16:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After unfollowing SRK, Alia, KJo says, ‘It’s a digital detox’",
+    "desc": "After triggering massive speculation online with his sudden Instagram unfollow spree, filmmaker Karan Johar has finally clarified why several Bollywood celebrities disappeared from his following list. The director-producer revealed that the move was simply part of a “digital detox” and not linked to any fallout with his industry friends.",
+    "img": "https://static.toiimg.com/photo/msid-131376228,imgsize-78842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-unfollowing-shah-rukh-khan-alia-bhatt-and-other-celebs-karan-johar-says-its-a-digital-detox/articleshow/131376202.cms",
+    "time": "2026-05-28T18:04:33.000Z"
+  },
+  {
     "cat": "Sports",
-    "title": "‘Future is here’: Yousuf compares Sooryavanshi to 'young, fearless' Afridi after IPL carnage",
+    "title": "‘As a leader, Patidar has absorbed pressure well’: Karthik opens up on RCB captain",
+    "desc": "Dinesh Karthik, now an RCB mentor, reflects on the team's championship defense, highlighting Rajat Patidar's calm leadership and Devdutt Padikkal's evolving game. He shares insights on coaching international stars, adapting to their independence, and the crucial mindset for finishers. Karthik emphasises that team combinations, not just individual selection, define value.",
+    "img": "https://static.toiimg.com/photo/msid-131375924,imgsize-126708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/as-a-leader-rajat-patidar-has-absorbed-pressure-well-dinesh-karthik-opens-up-on-rcb-captain/articleshow/131375742.cms",
+    "time": "2026-05-28T17:57:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government warns industrial consumers against purchase from retail pumps",
+    "desc": "The government has issued a stern warning to industries diverting diesel purchases to retail outlets, causing artificial shortages. Despite ample supplies, bulk consumers are exploiting price differences, impacting ordinary citizens. States are urged to form special squads to crack down on such violations and hoarders, ensuring uninterrupted fuel availability for all.",
+    "img": "https://static.toiimg.com/photo/msid-131375884,imgsize-947141.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-warns-industrial-consumers-against-purchase-from-retail-pumps/articleshow/131375732.cms",
+    "time": "2026-05-28T17:53:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Future is here’: Yousuf compares Sooryavanshi to young Afridi after IPL carnage",
     "desc": "Fifteen-year-old Vaibhav Sooryavanshi's explosive 97 off 29 balls against Sunrisers Hyderabad in the IPL 2026 Eliminator has stunned the cricket world, drawing comparisons to Shahid Afridi. The Rajasthan Royals sensation shattered records for most runs by an uncapped batter and most sixes in a season, showcasing fearless batting that has bowlers on edge.",
     "img": "https://static.toiimg.com/photo/msid-131375455,imgsize-60420.cms",
     "src": "indiatimes.com",
@@ -225,24 +342,6 @@ const newsData_en = [
     "time": "2026-05-28T15:01:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Is Tamil Nadu witnessing its own ‘Operation Lotus’?",
-    "desc": "Politics in Tamil Nadu has entered a disturbing and controversial phase after four All India Anna Dravida Munnetra Kazhagam MLAs resigned and joined the ruling Tamilaga Vettri Kazhagam led by Chief Minister C. Joseph Vijay. Critics have likened the development to the BJP’s much-criticised “Operation Lotus” strategy seen in several States. Is this simply the reality of coalition-era politics, or does it amount to a betrayal of TVK’s promise of clean and ethical governance?",
-    "img": "https://th-i.thgim.com/public/incoming/372sdy/article71034230.ece/alternates/LANDSCAPE_1200/%E2%80%98Operation%20Lotus%E2%80%99%20%20%20%20%20in%20Tamil%20Nadu%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-is-tamil-nadu-witnessing-its-own-operation-lotus-focus-tamil-nadu/article71034294.ece",
-    "time": "2026-05-28T14:58:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI(M) urges Tamil Nadu govt to appeal against HC order banning cow slaughter",
-    "desc": "A summer vacation Bench comprising of Justices G. R. Swaminathan and V. Lakshminarayanan had directed the Chief Secretary and the Director General of Police/Head of Police Force (DGP/HoPF) to ensure no cow or calf is slaughtered anywhere in Tamil Nadu either on the eve of Bakrid or on any other day.",
-    "img": "https://th-i.thgim.com/public/incoming/p7w2j6/article71034266.ece/alternates/LANDSCAPE_1200/DSC_7029.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cpim-urges-tamil-nadu-govt-to-appeal-against-hc-order-banning-cow-slaughter/article71034231.ece",
-    "time": "2026-05-28T14:55:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Paul Heaton announces a massive tour, alongside Rianne Downey",
     "desc": "Paul Heaton, formerly of The Housemartins and The Beautiful South, has unveiled exciting news for his fans. He is releasing a new album titled 'Jenius' and embarking on a major tour. The album, exploring themes of love, loneliness, and community, will be available on August 21, 2026.",
@@ -450,24 +549,6 @@ const newsData_en = [
     "time": "2026-05-28T12:11:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajkummar Rao begins shooting for Sourav Ganguly biopic at Eden Gardens",
-    "desc": "The Sourav Ganguly Story', has moved to Kolkata, with Rajkummar Rao portraying the former captain. Shooting is underway at iconic locations like Ganguly's Behala residence and Eden Gardens, recreating his early life and cricketing milestones. The biopic promises to capture his journey from a young boy to a celebrated icon.",
-    "img": "https://static.toiimg.com/photo/msid-131370000,imgsize-100522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajkummar-rao-begins-shooting-for-sourav-ganguly-biopic-at-eden-gardens-and-maidan-post-ipl-2026-season/articleshow/131369950.cms",
-    "time": "2026-05-28T12:01:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sussanne remembers mother Zarine Khan on Eid al-Adha",
-    "desc": "Sussanne Khan paid a touching tribute to her late mother, Zarine Khan, on Eid al-Adha, sharing cherished old photographs and expressing her deep longing. The emotional social media post, remembering Zarine's warmth and life lessons, resonated with fans and industry friends alike, who offered prayers and supportive messages.",
-    "img": "https://static.toiimg.com/photo/msid-131369876,imgsize-33676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sussanne-khan-remembers-mother-zarine-khan-on-eid-al-adha-says-miss-u-maddddddly-in-emotional-tribute/articleshow/131369905.cms",
-    "time": "2026-05-28T11:56:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Matter of pride’: Sooryavanshi’s priceless reaction to Tendulkar’s praise",
     "desc": "Vaibhav Sooryavanshi received high praise from Sachin Tendulkar for his IPL 2026 performance. The young cricketer scored 97 runs off 29 balls, helping Rajasthan Royals win. Tendulkar lauded Sooryavanshi's batting technique. This recognition is a significant motivator for the 15-year-old. Rajasthan Royals will now play Gujarat Titans for a spot in the final.",
@@ -475,42 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/matter-of-pride-vaibhav-sooryavanshis-priceless-reaction-to-sachin-tendulkars-praise/articleshow/131369649.cms",
     "time": "2026-05-28T11:49:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ananya shares post after her 'Chand Mera Dil' Bharatanatyam controversy",
-    "desc": "Ananya Panday shared a cheerful photo dump from France, seemingly addressing backlash over a dance sequence in 'Chand Mera Dil'. The actress, who remained silent amid criticism, posted pictures of family, food, and scenic views with the caption 'Life is beautiful.' Fans flooded her comments with support, praising her performance in the film.",
-    "img": "https://static.toiimg.com/photo/msid-131369648,imgsize-37792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/life-is-beautiful-ananya-panday-shares-calm-new-post-after-her-chand-mera-dil-bharatanatyam-controversy/articleshow/131369654.cms",
-    "time": "2026-05-28T11:44:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Henry Cavill’s ‘Voltron’ skips theaters for streaming release",
-    "desc": "Henry Cavill's live-action Voltron movie is heading straight to Prime Video, bypassing theaters. The Amazon MGM Studios adaptation of the beloved 1980s series, featuring a star-studded cast including Sterling K. Brown, is set for a 2027 release. Director Rawson Marshall Thurber promises a \"heartfelt, big, bodacious, and dynamic\" reimagining for a new generation.",
-    "img": "https://static.toiimg.com/photo/msid-131369515,imgsize-892494.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/henry-cavills-live-action-voltron-skips-theatrical-release-for-streaming-its-big-bodacious-and-dynamic/articleshow/131369515.cms",
-    "time": "2026-05-28T11:41:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Stan Lee returns in AI project for books and digital media",
-    "desc": "Stan Lee's larger-than-life persona is getting a modern twist! His distinctive voice and image are now part of an interactive AI marketplace, letting fans listen to him narrate popular stories and grace approved media projects. This initiative, born from a partnership with Stan Lee Universe and ElevenLabs, also includes dynamic tools for crafting visuals and soundtracks inspired by Lee's genius.",
-    "img": "https://static.toiimg.com/photo/msid-131369375,imgsize-50930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/marvel-legend-stan-lee-returns-in-massive-new-voice-and-image-ai-project-focused-on-books-and-digital-media/articleshow/131369375.cms",
-    "time": "2026-05-28T11:34:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nicolas Cage changes his official name to avoid being a ‘clown cousin’",
-    "desc": "Actor Nicolas Cage has officially changed his name to Nicolas Cage. He was previously known as Nicolas Kim Coppola. The actor chose to be the patriarch of his own Cage line. He felt it was better than being a distant relative of the Coppola family. Cage's name was inspired by comic books.",
-    "img": "https://static.toiimg.com/photo/msid-131369374,imgsize-21170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicolas-cage-changes-his-official-name-to-avoid-being-a-clown-cousin-says-im-nick-cage-in-life/articleshow/131369378.cms",
-    "time": "2026-05-28T11:34:26.000Z"
   },
   {
     "cat": "Politics",
@@ -549,15 +594,6 @@ const newsData_en = [
     "time": "2026-05-28T10:49:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why Israel’s Haifa Port has become critical to India’s trade and strategic ambitions",
-    "desc": "India's strategic foothold in the Middle East strengthens with the Adani Group's acquisition of Israel's Port of Haifa. This vital hub is poised to become a cornerstone of the India-Middle East-Europe Economic Corridor, promising faster trade routes. Despite regional tensions, operations remain secure, underscoring its importance for India's economic and connectivity ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-131367646,imgsize-38044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-israels-haifa-port-has-become-critical-to-indias-trade-and-strategic-ambitions/articleshow/131367233.cms",
-    "time": "2026-05-28T10:29:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Change team’: Ex-India cricketer asks Yashasvi Jaiswal to leave RR",
     "desc": "Yashasvi Jaiswal, once seen as India's next batting star, faces inconsistent white-ball opportunities and is overshadowed by his IPL partner Vaibhav Sooryavanshi. Former cricketer Ambati Rayudu suggests Jaiswal needs a team change, proposing Mumbai Indians as a logical destination for his development.",
@@ -592,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshis-three-word-social-media-post-goes-viral-after-his-brutal-knock-against-srh-in-ipl/articleshow/131367276.cms",
     "time": "2026-05-28T09:46:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'It was by mistake that I entered politics': Karnataka CM Siddaramaiah resigns from post, DK Shivakumar to take over",
-    "desc": "Karnataka Chief Minister Siddaramaiah has resigned, paving the way for Deputy CM D.K. Shivakumar to take the top post. This transition follows months of speculation and high-level meetings in Delhi. Photos showcasing unity between the leaders were shared, signaling an amicable power handover after the Congress high command's directive for a leadership change.",
-    "img": "https://static.toiimg.com/photo/msid-131367733,imgsize-44728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/karnataka-cm-siddaramaiah-resigns-from-post-dk-shivakumar-to-take-over/articleshow/131366970.cms",
-    "time": "2026-05-28T09:39:15.000Z"
   },
   {
     "cat": "World",
@@ -648,24 +675,6 @@ const newsData_en = [
     "time": "2026-05-28T08:24:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karnataka CM likely to step down; DKS, Siddaramaiah bonhomie: What happened at key breakfast meeting",
-    "desc": "Karnataka Chief Minister Siddaramaiah announced his resignation during a breakfast meeting with ministers, paving the way for Deputy CM DK Shivakumar to take over. Shivakumar's gesture of touching Siddaramaiah's feet underscored the expected leadership transition, with celebrations already beginning outside his residence.",
-    "img": "https://static.toiimg.com/photo/msid-131365513,imgsize-766055.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/karnataka-cm-likely-to-step-down-dks-siddaramaiah-bonhomie-what-happened-at-key-breakfast-meeting/articleshow/131363610.cms",
-    "time": "2026-05-28T07:36:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India, China discuss border management, trans-border rivers",
-    "desc": "India and China convened their 35th border talks in Beijing, reviewing the Line of Actual Control and discussing measures for peace. Both nations expressed satisfaction with progress in border areas, deeming it crucial for normalizing bilateral ties. Discussions covered delimitation, management, and cooperation, with India pushing for an early expert meeting on trans-border rivers. Diplomatic and military exchanges will continue.",
-    "img": "https://static.toiimg.com/photo/msid-131365420,imgsize-40346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/35th-wmcc-meeting-india-china-discuss-border-management-trans-border-rivers/articleshow/131365327.cms",
-    "time": "2026-05-28T07:30:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi tipped to hit '100 sixes' in an IPL season after shattering Gayle's record",
     "desc": "Fifteen-year-old Vaibhav Sooryavanshi has rewritten IPL history, smashing Chris Gayle's record for most sixes in a season with 65. His explosive 97 off 29 balls propelled Rajasthan Royals to Qualifier 2. Commentator Aakash Chopra lauded his power and maturity, predicting he could one day reach an astonishing 100 sixes in a single IPL season.",
@@ -673,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshi-tipped-to-hit-100-sixes-in-an-ipl-season-after-shattering-gayles-record/articleshow/131365334.cms",
     "time": "2026-05-28T07:27:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Won't play any more French players'",
-    "desc": "After conquering French talent Valentin Royer in a challenging four-set encounter, Novak Djokovic voiced his discontent with the Ville de Paris crowd, who booed him during the match. He revealed a desire to steer clear of facing any more French competitors after also besting one in the first round at Roland Garros.",
-    "img": "https://static.toiimg.com/photo/msid-131364686,imgsize-21302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/novak-djokovic-hits-out-at-paris-crowd-after-boos-i-wont-play-any-more-french-players/articleshow/131364686.cms",
-    "time": "2026-05-28T07:23:38.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-price-hike-and-omc-profits-are-indias-oil-firms-really-making-windfall-gains/articleshow/131364222.cms",
     "time": "2026-05-28T07:18:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dharmendra Pradhan issues clarification, takes swipe at Rahul Gandhi",
-    "desc": "Union Education Minister Dharmendra Pradhan addressed concerns over CBSE Class 12 evaluation discrepancies, assuring no one would be spared if irregularities are found. He criticized Rahul Gandhi's frustration over electoral defeats, accusing him of opposing India's scientific progress. Pradhan emphasized the government's commitment to student well-being and transparency in the digital evaluation system.",
-    "img": "https://static.toiimg.com/photo/msid-131364679,imgsize-94544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cbse-exam-discrepancy-claims-dharmendra-pradhan-issues-clarification-takes-swipe-at-rahul-gandhi/articleshow/131364550.cms",
-    "time": "2026-05-28T06:57:41.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/athletics/praveen-chithravel-is-impatient-to-set-the-record-straight-in-the-commonwealth-games/article71024632.ece",
     "time": "2026-05-26T12:44:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'",
+    "desc": "“I’m delighted to be wrong about this, ‌I ⁠thought there would have been more impact on entry-level white-collar jobs being eliminated by ⁠now than has actually happened,” Sam Altman told CBA Chief Executive Matt Comyn",
+    "img": "https://th-i.thgim.com/public/incoming/ikvmnw/article71024123.ece/alternates/LANDSCAPE_1200/2026-05-26T073711Z_1570248417_RC2UMCA6GNXA_RTRMADP_3_AUSTRALIA-OPENAI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/openais-altman-says-ai-unlikely-to-lead-to-jobs-apocalypse/article71024120.ece",
+    "time": "2026-05-26T08:29:21.000Z"
   }
 ];
