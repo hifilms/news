@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "33Km થી વધુ માઇલેજ, કિંમત 5 લાખથી ઓછી, નાના પરિવાર માટે બેસ્ટ 2 CNG કાર",
+    "desc": "પેટ્રોલ અને ડીઝલની વધી રહેલી કિંમત વચ્ચે દેશમાં સીએનજી કારની માંગ સતત વધી રહી છે. મારૂતિ સુઝુકી જેવી કંપનીઓ પોતાના ઘણા વેરિએન્ટમાં સીએનજી ઓફર કરે છે. આજે અમે તમને મારૂતિની બે સસ્તી સીએનજી કાર વિશે જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/india-most-affordable-cng-cars-maruti-s-presso-and-alto-mileage-more-than-33km-price-less-than-5-lakhs-479473 ",
+    "time": "2026-05-28T06:40:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Metaની મોટી જાહેરાત, હવે ઇન્સ્ટાગ્રામ અને વોટ્સએપ વાપરવા માટે ચૂકવવા પડશે પૈસા !",
+    "desc": "મેટાએ આખરે એક મોટી જાહેરાત કરી છે, જેમાં ઇન્સ્ટાગ્રામ, ફેસબુક અને વોટ્સએપ માટે નવા પેઇડ સબ્સ્ક્રિપ્શન પ્લાન લોન્ચ કરવામાં આવ્યા છે. યુઝર્સે હવે પ્લસ વર્ઝન માટે મહિને ચાર્જ ચૂકવવો પડશે. આ વિગતો કંપની દ્વારા આપવામાં આવી છે. આ પ્લસ પ્લાન હેઠળ યુઝર્સને નવા અને ખાસ ફીચર્સ મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/meta-big-announcement-now-you-have-to-pay-to-use-instagram-whatsapp-facebook-479472 ",
+    "time": "2026-05-28T06:18:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બિહારના પટનામાં મોટી દુર્ઘટના: ગંગા નદીમાં ભારે પવનના કારણે બોટ પલટી, 3ના મોત, 5 હજુ પણ લાપતા",
+    "desc": "ગુરુવારે સવારે 5 વાગ્યાની આસપાસ પટનામાં ગંગા નદીમાં 15 થી 16 લોકોને લઈ જતી એક હોડી પલટી ગઈ. 3 લોકોના મોત થયાના અહેવાલ છે, અને સાત લોકો ગુમ છે. મોટાભાગના ભોગ બનનારાઓમાં મહિલાઓ અને બાળકો હતા. મૃતકોની ઓળખ લીલા દેવી (40), નીલમ કુમારી (30) અને કાશી કુમાર (15) તરીકે થઈ છે. હોડીમાં સવાર બધા બરહ પોલીસ સ્ટેશન વિસ્તાર હેઠળ આવતા માસૂમગંજ બિંદ ટોલીના રહેવાસી હતા. શ્રવણ કુમાર, રાહુલ કુમાર, મમતા દેવી, ટુનટુનની પુત્રવધૂ, કબુત્રી કુમારી અને બે છોકરીઓ ગુમ છે; શોધ ચાલુ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bihar-boat-capsize-in-patna-two-people-found-dead-and-five-missing-in-ganga-river-479461 ",
+    "time": "2026-05-28T04:19:50.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "600 રનનો અસંભવ વર્લ્ડ રેકોર્ડ, 15 વર્ષના વૈભવ સૂર્યવંશીએ રચ્યો ઇતિહાસ; ક્રિકેટ ઇતિહાસમાં પહેલીવાર થયો આ ચમત્કાર",
     "desc": "15 વર્ષના વિસ્ફોટક બેટ્સમેન વૈભવ સૂર્યવંશી એકવાર ફરી તોફાન આવ્યું છે. તેમણે હૈદરાબાદના બોલરોની લાઇન-લેન્થ બગાડીને મૂકી દીધી હતી. મેદાન પર ઉતર્યાની થોડી જ મિનિટોમાં વૈભવ સૂર્યવંશીએ ઇતિહાસ રચી દીધો. આ વિસ્ફોટક ઓપનરે એવો કરિશ્મા કર્યો છે કે મોટા-મોટા બેટ્સમેનો પણ પાછળ રહી ગયા છે.",
@@ -360,15 +387,6 @@ const newsData_gu = [
     "time": "2026-05-25T16:17:20.000Z"
   },
   {
-    "cat": "Business",
-    "title": "PNG કનેક્શન ધારકો માટે નવો નિયમ, LPG સરેન્ડર કરવાની કોઈ ઝંઝટ નહીં, જાણો નવો આદેશ",
-    "desc": "કેન્દ્ર સરકારે 25 મે, 2026 થી લાગુ થનારા LPG કંટ્રોલ ઓર્ડરમાં એક નવો સુધારો લાગુ કર્યો છે. આ સુધારા હેઠળ, જે LPG ગ્રાહકો તેમના ઘરે PNG કનેક્શન મેળવે છે તેમની પાસે હવે બે અનુકૂળ વિકલ્પો હશે, તેઓ PNG મળ્યાના 30 દિવસની અંદર તેમનું LPG કનેક્શન રદ કરી શકે છે, અથવા તેઓ ટ્રાન્સફર વાઉચર મેળવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/new-rule-for-png-connection-holders-no-hassle-to-surrender-lpg-know-the-new-order-479228 ",
-    "time": "2026-05-25T15:19:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "7 કરોડમાં બનેલી હોરર ફિલ્મ ઓબ્સેશને 11 દિવસમાં કમાઈ લીધા 750 કરોડ, ભારતમાં આ તારીખથી જોવા મળશે",
     "desc": "એક હોરર ફિલ્મ છે જેની ચર્ચા જોરશોરથી થઈ રહી છે. આ ફિલ્મ તાજેતરમાં જ રિલીઝ થઈ છે અને આ ફિલ્મે કમાણીની બાબતમાં ધુરંધર 2 નો રેકોર્ડ પણ તોડી નાખ્યો છે. આ ફિલ્મ માત્ર 7 કરોડના ખર્ચે બની છે અને તેણે અત્યાર સુધીમાં 750 કરોડની કમાણી કરી લીધી છે. આ ફિલ્મ કઈ છે જાણી લો તમે પણ.",
@@ -439,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/desi-bling-show-controversy-of-tabinda-sanpal-said-her-husband-satis-sanpal-party-with-different-girls-479150 ",
     "time": "2026-05-25T03:11:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પેટ્રોલ ડીઝલના ભાવમાં ભડકો, પેટ્રોલ-ડીઝલમાં 2 રુપિયાથી વધુનો વધારો ઝીંકાયો",
-    "desc": "પેટ્રોલ ડીઝલના ભાવ ભડકે બળી રહ્યા છે, છેલ્લા 11 દિવસમાં આજે ચોથી વખત પેટ્રોલ ડીઝલના ભાવમાં વધારો થયો છે. સોમવારે પેટ્રોલ અને ડીઝલના ભાવમાં 2 રુપિયાથી વધુનો વધારો ઝીંકાયો છે. ચેક કરી લો આજના ભાવ વધારા પછી પેટ્રોલ ડીઝલના ભાવ કેટલા થયા છે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-price-hike-monday-25-may-2026-todays-petrol-diesel-price-479147 ",
-    "time": "2026-05-25T02:18:48.000Z"
   },
   {
     "cat": "Tech",
@@ -592,33 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/madhuri-dixit-never-before-netflix-movie-maa-behen-trailer-watch-here-478878 ",
     "time": "2026-05-22T13:58:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "દીકરાના લગ્નમાં જઈશ તો મરીશ, નહીં જઉ તો પણ મરીશ! આવું કેમ બોલ્યા ટ્રમ્પ?",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા તણાવ વચ્ચે ડોનાલ્ડ ટ્રમ્પે એક મોટું નિવેદન આવ્યું છે. વાત જાણે એમ છે કે તેમના પુત્રના લગ્ન છે અને તેમાં તેમની હાજરી અંગે હજુ તેઓ દુવિધામાં છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-statement-about-attending-son-wedding-478849 ",
-    "time": "2026-05-22T11:07:08.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "બોલ્ડ લુક અને પ્રીમિયમ ફીચર્સ સાથે આવી રહી છે Nissanની આ નવી SUV, ક્રેટા-સેલ્ટોસને આપશે ટક્કર",
-    "desc": "ભારતીય SUV માર્કેટમાં ટૂંક સમયમાં જ એક મોટો ધમાકો થવા જઈ રહ્યો છે. Nissan પોતાની નવી મિડ-સાઈઝ SUV Tekton લોન્ચ કરવા જઈ રહી છે, જે સીધી રીતે Hyundai Creta અને Kia Seltosને ટક્કર આપશે. ચાલો જાણીએ તેની વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/new-nissan-tekton-suv-debut-on-9-july-what-to-expect-478821 ",
-    "time": "2026-05-22T06:31:48.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ભારતની 5 સૌથી સસ્તી CNG કાર, ઓછા ખર્ચમાં વધુ માઇલેજ, કિંમત 4.62 લાખથી શરૂ",
-    "desc": "પેટ્રોલ-ડીઝલની કિંમતો આજે કાર ખરીદનારા માટે એક ચિંતાનો વિષય બની રહી છે. તેવામાં પેટ્રોલ કારના મુલાબકે CNG કારો એક સસ્તો અને સારો વિકલ્પ બની રહી છે. ફેક્ટરી-ફિટેડ સીએનજી મોડલ ઓછા ખર્ચમાં વધુ ચલાવી શકાય છે અને દરરોજના ઉપયોગ માટે વિશ્વાસપાત્ર માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/india-5-most-affordable-cng-cars-high-mileage-at-low-cost-prices-start-at-%E2%82%B94-62-lakhs-478807 ",
-    "time": "2026-05-22T06:25:41.000Z"
   },
   {
     "cat": "Entertainment",
