@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ઈરાન સાથે શાંતિ વાતચીત વચ્ચે હોર્મુઝ પર ટ્રમ્પની મોટી જાહેરાત, ટ્રુથ પર આપી માહિતી, જાણો",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા તણાવ વચ્ચે, રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઘણી જાહેરાતો કરી છે. તેમણે કહ્યું કે તમામ યુએસ નૌકાદળ નાકાબંધી હટાવવામાં આવશે. ટ્રમ્પે કહ્યું કે ઈરાન સાથેનો સોદો લગભગ અંતિમ સ્વરૂપ પામી ગયો છે અને ટૂંક સમયમાં નિર્ણય લેવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trumps-big-announcement-on-hormuz-amidst-peace-talks-with-iran-information-given-on-truth-know-479683 ",
+    "time": "2026-05-29T17:08:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જીવ જોખમમાં મૂકીને હોર્મુઝમાંથી કેવી રીતે નીકળી રહ્યા છે ભારતીય જહાજો, હેરાન કરી દેશે આ કહાની",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચેનું યુદ્ધ હજુ ટક્યું નથી. જો કે, સીઝફાયરના કારણે થોડી રાહત ચોક્કસ મળી છે, પણ સ્ટ્રેટ ઓફ હોર્મુઝ હજુ પણ પૂરી રીતે ખુલ્લું નથી. આ બધાની વચ્ચે કેટલાક જહાજો પેટ્રોલિયમ પદાર્થો લઈને ભારત આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-indian-ships-are-leaving-hormuz-risking-their-lives-this-story-will-shock-you-479674 ",
+    "time": "2026-05-29T15:59:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બાબા બાગેશ્વરના બદલાયા સૂર, કોકરોચ જનતા પાર્ટી અંગેના નિવેદનથી રાજકારણ ગરમાયું! જાણો શું કહ્યુ?",
+    "desc": "બાગેશ્વર ધામના મહંત પંડિત ધીરેન્દ્ર કૃષ્ણ શાસ્ત્રી હાલમાં ઉત્તરાખંડના બદ્રીનાથમાં મોટું નિવેદન આપ્યું છે. આ કાર્યક્રમ દરમિયાન તેમણે દેશની રાજનીતિ અને સામાન્ય જનતાને લગતા અનેક મહત્વપૂર્ણ મુદ્દાઓ ઉઠાવ્યા. સોશિયલ મીડિયા પર વાયરલ થયેલી ‘કોકરોચ પાર્ટી’ને લઈને બાબા બાગેશ્વરે એક એવું ચોંકાવનારું નિવેદન આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/baba-bageshwar-change-of-tone-statement-about-cockroach-janata-party-heated-up-politics-479672 ",
+    "time": "2026-05-29T15:18:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઋષભ પંતે છોડી લખનૌ સુપર જાયન્ટ્સની કેપ્ટનશીપ, સતત 2 ખરાબ સીઝન બાદ લીધો મોટો નિર્ણય",
+    "desc": "લખનૌ સુપર જાયન્ટ્સ માટે IPL 2026ની સીઝન સમાપ્ત થતાની સાથે જ એક મોટા સમાચાર સામે આવી છે. લખનૌના કેપ્ટન અને તેમના 27 કરોડના ખેલાડી ઋષભ પંતે લખનૌ સુપર જાયન્ટ્સની કેપ્ટનશીપ છોડી દીધી છે. ફ્રેન્ચાઇઝીએ આ માહિતી ટ્વિટ દ્વારા શેર કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rishabh-pant-leaves-lucknow-super-giants-captaincy-takes-big-decision-after-2-consecutive-bad-seasons-479662 ",
+    "time": "2026-05-29T13:17:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશી પર IPL 2026 ક્વોલિફાયર 2 પહેલા મોટો દાવો, જાણો GT સામે કેવું છે પ્રદર્શન",
+    "desc": "વૈભવ સૂર્યવંશી અંગે એક મોટો દાવો કરવામાં આવ્યો છે. IPL 2026માં આ દાવાની પહોંચ કેટલી હદ સુધી પહોંચી છે તે RR vs GT વચ્ચેના ક્વોલિફાયર 2 ના પરિણામો પછી જાહેર થશે. વૈભવ સૂર્યવંશી અંગે આ દાવો તેમના કોચ મનીષ ઓઝા દ્વારા કરવામાં આવ્યો છે અને તેનો ગુજરાત સામે રેકોર્ડ પણ કેવો છે તે પણ જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rr-vs-gt-big-claim-on-vaibhav-suryavanshi-before-ipl-2026-qualifier-2-know-how-is-his-performance-against-gt-479661 ",
+    "time": "2026-05-29T13:08:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વીજળીથી લઈને LPG ગેસ સિલિન્ડર સુધી, 1 જૂનથી બદલાઈ રહ્યા છે આ 7 નિયમ ! તમારા ખિસ્સા પર કરશે સીધી અસર, જાણો",
+    "desc": "મે મહિનો પુરો થવા જઈ રહ્યો છે અને જુન મહિનાની શરૂઆત થવા જઈ રહી છે, અને 1લી જૂન તેની સાથે ઘણા મોટા ફેરફારો લઈને આવી રહી છે. જો તમે તમારા બજેટ વિશે ચિંતિત છો, તો આ સમાચાર તમારા માટે ખૂબ જ મહત્વપૂર્ણ છે. 1 જૂન, 2026થી, UPI પેમેન્ટ, LPG સિલિન્ડરના ભાવ, બેંકિંગ નિયમો અને રેલ્વેથી લઈને દરેક બાબતમાં મોટા ફેરફારો થવાના છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/these-7-rules-are-changing-from-june-1-they-will-have-a-direct-impact-on-your-pocket-know-479659 ",
+    "time": "2026-05-29T12:48:12.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "આગ લાગતા પહેલા AC આપે છે આ સંકેત, જો ધ્યાન ન આપ્યું તો થશે મોટું નુકસાન, આ રીતે રહો સુરક્ષિત",
     "desc": "ગરમી વધવાની સાથે એસીમાં આગ લાગવાની ઘટનાઓમાં પણ વધારો થઈ રહ્યો છે, અનેક નાના-નાના પ્રોબ્લમ છે, જેના કારણે તમારા ACમાં આગ લાગી શકે છે અને મોટી દુર્ધટનાઓ થાય છે, પણ આ નાની બાબતોનું ધ્યાન રાખીને તમે એસીના મોટા ખર્ચાથી બચી શકો છો.",
@@ -414,15 +468,6 @@ const newsData_gu = [
     "time": "2026-05-27T05:31:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ભારતની નવી ટેકનોલોજી! પાણીમાં ઇથેનોલ મિક્સ કરીને બનશે રસોઈ, ગડકરીએ રજૂ કર્યો કોમર્શિયલ LPGનો સસ્તો વિકલ્પ",
-    "desc": "કેન્દ્રીય મંત્રી નીતિન ગડકરીએ ઇથેનોલ ચાલતા સ્વદેશી રસોઈ ચૂલા ટેકનોલોજીનું અનાવરણ કર્યું, જે કોમર્શિયલ LPG કરતા સસ્તી છે. આ ચૂલો ઇથેનોલ અને પાણીના મિશ્રણ પર ચાલે છે અને કાચા તેલ પર ભારતની નિર્ભરતા ઘટાડવામાં મદદ કરશે, અને યુવાનોમાં વિજ્ઞાનને પ્રોત્સાહન આપવા માટે 40 કરોડ રૂપિયાની પહેલની પણ જાહેરાત કરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/indias-new-technology-cooking-will-be-done-by-mixing-ethanol-with-water-gadkari-introduced-a-cheaper-alternative-to-commercial-lpg-479352 ",
-    "time": "2026-05-27T03:34:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "રેલ્વેએ અમદાવાદ સહિક આ રૂટની 77 ટ્રેનો કરી કેન્સલ, અનેક એક્સપ્રેસ ટ્રેનોના બદલ્યા રૂટ અને ટાઈમિંગ, જાણો",
     "desc": "ભારતીય રેલ્વેએ જૂન 2026 માટે મોટી સંખ્યામાં ટ્રેનો રદ કરી છે. જો તમે પણ જૂનમાં ટ્રેનની મુસાફરી કરવાના છો, તો સ્ટેશન પર જતા પહેલા રેલ્વે એપ, NTES અથવા IRCTC પ્લેટફોર્મ પર તમારી ટ્રેનનું લાઇવ સ્ટેટસ ચેક કરવાનું ભૂલશો નહીં.",
@@ -522,15 +567,6 @@ const newsData_gu = [
     "time": "2026-05-26T09:31:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ધર્મશાળાથી આવ્યા ચિંતાજનક સમાચાર, આજની મેચ પર મંડરાઈ રહ્યો છે મોટો ખતરો !",
-    "desc": "ધર્મશાલામાં યોજાનારી IPL 2026ની ક્વોલિફાયર-1માં RCB અને ગુજરાત ટાઇટન્સ વચ્ચેની મેચ પર વરસાદનો ખતરો મંડરાઈ રહ્યો છે. ધર્મશાલામાં હવામાન ખરાબ હોવાથી ગુજરાત ટાઇટન્સ ટીમ ચિંતિત છે. જો વરસાદ મેચમાં વિક્ષેપ પાડે છે, તો કોણ ફાઇનલમાં પહોંચશે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-qualifier-1-rcb-vs-gt-dharamshala-weather-report-rain-prediction-479297 ",
-    "time": "2026-05-26T09:14:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પની 3 મોટી શરતો, જેના કારણે અટક્યો છે ઈરાન-અમેરિકાનો શાંતિ કરાર, જાણો",
     "desc": "ઈરાન અને અમેરિકા વચ્ચે ઐતિહાસિક શાંતિ કરાર પર હસ્તાક્ષર કરવામાં અડંગો ઉભો થયો છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ દ્વારા લગાવવામાં આવેલી કેટલીક નવી અને કડક શરતોને કારણે કરારની સમયમર્યાદા હવે જોખમમાં મુકાઈ ગઈ છે. જાણો ટ્રમ્પની કઈ શરતો સમસ્યાનું કારણ બની રહી છે.",
@@ -538,24 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trump-3-big-conditions-due-to-which-the-iran-us-peace-agreement-has-been-stalled-know-479295 ",
     "time": "2026-05-26T08:23:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોરોના જેવું લોકડાઉન ફરી લાગશે? ઇબોલાને લઈને દેશમાં હાઈ એલર્ટ, જાણો સરકાર અને DGCAની એડવાઇઝરી",
-    "desc": "દેશમાં ઇબોલા વાયરસને લઈને હાઈ એલર્ટ જાહેર કરવામાં આવ્યું છે. જોકે, દેશમાં હાલમાં ઇબોલાનો એક પણ કેસ નથી, તેમ છતાં કેન્દ્રીય સ્વાસ્થ્ય મંત્રી જે.પી. નડ્ડાએ આ સંક્રમણને પહોંચી વળવાની તૈયારીઓ માટે એક હાઈ-લેવલ મીટિંગ બોલાવીને સમીક્ષા કરી અને જરૂરી નિર્દેશો આપ્યા છે. બીજી તરફ, ડાયરેક્ટોરેટ જનરલ ઓફ સિવિલ એવિએશન (DGCA) એ પણ SOP જાહેર કરી છે અને તેનું ચુસ્તપણે પાલન કરવા જણાવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/will-a-covid-style-lockdown-be-reimposed-high-alert-declared-in-the-country-over-ebola-read-the-advisories-issued-479268 ",
-    "time": "2026-05-26T05:59:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;કોકરોચ જનતા પાર્ટી&amp;#039; પર ચીફ જસ્ટિસનું લેટેસ્ટ નિવેદન, જાણો હવે CJI સૂર્યકાંતે શું કહ્યું",
-    "desc": "કોકરોચ જનતા પાર્ટીનો મુદ્દો ભારતના મુખ્ય ન્યાયાધીશ (CJI)ની 16 મેની ટિપ્પણી પછી ઉભો થયો હતો, જ્યારે તેમણે મીડિયા અહેવાલો પર તીવ્ર ચિંતા વ્યક્ત કરી હતી અને સ્પષ્ટતા કરી હતી કે કેટલાક વર્ગોએ તેમના શબ્દોનું ખોટું અર્થઘટન કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/chief-justices-latest-statement-on-cockroach-janata-party-know-now-what-cji-surya-kant-said-479233 ",
-    "time": "2026-05-25T16:37:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -718,14 +736,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/underrated-movie-of-zee5-posham-pa-dark-thriller-movie-based-on-true-murder-crime-hindi-thriller-movie-zee5-478704 ",
     "time": "2026-05-21T08:50:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સોની લિવ પર ફરીથી આવી રહ્યો મિશ્રા પરિવાર, જોઈ લો ગુલ્લક સીઝન 5 નું ટ્રેલર અને રિલીઝ ડેટ",
-    "desc": "સોની લિવની લોકપ્રિય વેબ સીરીઝમાંથી એક ગુલ્લક પણ છે. ગુલ્લક વેબ સીરીઝની 4 સીઝન રિલીઝ થઈ ચુકી છે અને હવે 5 મી સીઝનનું ટ્રેલર રિલીઝ થયું છે. આ સાથે જ વેબ સીરીઝ ક્યારથી જોવા મળશે તેની તારીખ પણ સામે આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tvf-famous-family-comedy-web-series-gullak-season-5-release-date-and-trailer-478644 ",
-    "time": "2026-05-20T12:34:39.000Z"
   }
 ];

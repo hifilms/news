@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "বলিউডে তুলকালাম, কেন ডেভিড ধাওয়ানের বিরুদ্ধে ৪০০ কোটির মামলা ঠুকলেন বাসু ভাগনানি?",
+    "desc": "পরিচালক ডেভিড ধাওয়ান এবং টিপস মিউজিকের বিরুদ্ধে ৪০০ কোটি টাকার মামলা করলেন প্রযোজক বাসু ভাগনানি। শর্ত না মানলে আরও ১০০ কোটির জরিমানা! বরুণ ধাওয়ানের আগামী ছবি 'হ্যায় জওয়ানি তো ইশক হোনা হ্যায়' কি তবে বড়সড় বিপাকে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/vashu-bhagnani-david-dhawan-tips-chunnari-chunnari-400-crore-lawsuit_655905.html ",
+    "time": "2026-05-29T15:02:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "নন্দনে দেখানো হবে অনীক দত্তের ছবি: ঘোষণা মন্ত্রী অগ্নিমিত্রা পালের, কী বলছেন স্ত্রী-কন্যা?",
+    "desc": "চলে গেলেন পরিচালক অনীক দত্ত। কিন্তু মৃত্যুর পরেই কাটতে চলেছে তাঁর ছবির হল না পাওয়ার জট। শুক্রবার মন্ত্রী অগ্নিমিত্রা পাল ঘোষণা করলেন, নন্দনে দেখানো হবে প্রয়াত পরিচালকের সব ছবি। অন্যদিকে বিজেপি বিধায়ক রূপা গঙ্গোপাধ্যায়ের অভিযোগ, \"রাজনৈতিক প্রতিহিংসার শিকার অনীক।\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/anik-dutta-death-nandan-movie-screening-agnimitra-paul-controversy_655901.html ",
+    "time": "2026-05-29T13:31:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মৃত্যুুর আগের ঠিক ১৫ মিনিটেই লুকিয়ে বড় রহস্য: ফোন থেকে জোর করে ২০ লক্ষ টাকা ট্রান্সফার, ভয়ংকর CCTV ফুটেজ",
+    "desc": "ত্বিশার পরিবারের দাবি, মৃত্যুর কিছুক্ষণ আগে ত্বিশার অ্যাকাউন্ট থেকে প্রায় ২০ লক্ষ টাকার শেয়ার ও মিউচুয়াল ফান্ডে জোর করে ট্রান্সফার বা বিক্রি করার চেষ্টা করা হয়েছিল। সিবিআই এখন খতিয়ে দেখছে যে, এই বিপুল অঙ্কের আর্থিক লেনদেনের সঙ্গে ত্বিশার উপর চলা অত্যাচার এবং তাঁর এই আকস্মিক মৃত্যুর কোনও সরাসরি সংযোগ রয়েছে কি না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/twisha-sharma-death-case-20-lakh-share-transfer-and-call-logs-under-cbi-scanner-in-final-probe-hours_655897.html ",
+    "time": "2026-05-29T12:59:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "খারিজ পরমব্রতর আবেদন, চলবে তদন্ত: বড় নির্দেশ আদালতের",
     "desc": "টলিউড অভিনেতা পরমব্রত চট্টোপাধ্যায়ের বিরুদ্ধে দায়ের হওয়া মামলার তদন্ত চলবে। ২০২১ সালের একটি সোশ্যাল মিডিয়া পোস্টের জেরে গড়িয়াহাট থানায় হওয়া এফআইআর খারিজের আবেদন নিয়ে আদালতের দ্বারস্থ হয়েছিলেন অভিনেতা। আদালত তদন্ত জারি রাখার নির্দেশ দিলেও পরমব্রতকে দিল চার সপ্তাহের বিশেষ 'রক্ষাকবচ'। এই সময়ের মধ্যে তাঁর বিরুদ্ধে কোনও কড়া পদক্ষেপ করতে পারবে না পুলিস।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -171,6 +198,15 @@ const newsData_bn = [
     "time": "2026-05-24T09:36:03.000Z"
   },
   {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "টলিপাড়ায় ধুন্ধুমার: কোটি টাকার দুর্নীতির অভিযোগ, EIMPA হাউসে ধাক্কাধাক্কিতে অসুস্থ সভাপতি পিয়া",
     "desc": "টলিপাড়ায় নজিরবিহীন কেলেঙ্কারি! উত্তাল EIMPA হাউস! ইস্টার্ন ইন্ডিয়া মোশন পিকচার্স অ্যাসোসিয়েশন (EIMPA)-এর যৌথ সাধারণ সভাকে কেন্দ্র করে আজ রণক্ষেত্রের চেহারা নিল বি.এন. সরকার সরণি। বর্তমান কমিটির বিরুদ্ধে কোটি কোটি টাকার আর্থিক তছরুপ, বহিরাগতদের সঙ্গে গোপন চুক্তি এবং হাইকোর্টের নির্দেশ অমান্য করার মারাত্মক অভিযোগ। সভা চলাকালীন বিশিষ্ট ব্যক্তিত্ব পিয়া সেনগুপ্তর হাতের একটি রহস্যময় ‘হলুদ ফাইল’ কেড়ে নিতে তেড়ে এলেন কিছু সদস্য! সদস্যদের কণ্ঠরোধের চেষ্টার অভিযোগে তোলপাড় চলচ্চিত্র মহল।",
@@ -207,15 +243,6 @@ const newsData_bn = [
     "time": "2026-05-20T14:40:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "বন্ধ ঘরে জোর করে চুমু খাওয়ার চেষ্টা, দেবালয়কে আইনি নোটিস অঙ্কিতার, পাল্টা পরিচালকের",
-    "desc": "সোশ্যাল মিডিয়ার দেওয়াল পেরিয়ে এবার আইনি দরজায় টলিউডের কাস্টিং কাউচ ও হেনস্থার বিতর্ক। টলিউডের জনপ্রিয় পরিচালক দেবালয় ভট্টাচার্যের বিরুদ্ধে শ্লীলতাহানি এবং জোরপূর্বক চুম্বনের চেষ্টার মতো বিস্ফোরক অভিযোগ এনে আইনি পথে হাঁটলেন অভিনেত্রী অঙ্কিতা চক্রবর্তী। সোমবার এক সাংবাদিক বৈঠক ডেকে অঙ্কিতা স্পষ্ট জানিয়ে দেন, দেবালয়ের বিরুদ্ধে তিনি আইনি নোটিস পাঠিয়েছেন। আগামী ৭ দিনের মধ্যে পরিচালককে সোশ্যাল মিডিয়ায় এই ঘটনার সত্যতা স্বীকার করে বিবৃতি দিতে হবে। অন্যথায় তাঁর বিরুদ্ধে এফআইআর (FIR) দায়ের করা হবে বলেও হুঁশিয়ারি দিয়েছেন অভিনেত্রী।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/ankita-chakraborty-legal-notice-to-director-debaloy-bhattacharya-molestation-allegation_654445.html ",
-    "time": "2026-05-18T15:41:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "মোদীজির বিরাট সাফল্য, নেদারল্যান্ডসের মাটি থেকে ১০০০ বছরের পুরনো চোল তাম্রফলক জয় করলেন তিনি",
     "desc": "প্রধানমন্ত্রী নরেন্দ্র মোদীর সফরকালে ডাচ প্রধানমন্ত্রী রব জেটেন আনুষ্ঠানিকভাবে চোলযুগের তামার থালা ভারতের হাতে হস্তান্তর করেন। হস্তান্তর করা এই ঐতিহাসিক নিদর্শনগুলির দুটি সেট। এই সব প্লেটে মূলত প্রাচীন তামিল ও সংস্কৃত ভাষায় খোদাই করে কিছু লেখা রয়েছে।",
@@ -225,12 +252,39 @@ const newsData_bn = [
     "time": "2026-05-18T14:48:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "আপাতত মিলল স্বস্তি, আগাম জামিন শ্রীজাতর! কবিকে কী কী শর্ত দিল আদালত?",
-    "desc": "২০১৯ সালের বিতর্কিত মামলায় কৃষ্ণনগর জেলা আদালতে হাজিরা দিয়ে শর্তসাপেক্ষে আগাম জামিন পেলেন বিশিষ্ট কবি শ্রীজাত বন্দ্যোপাধ্যায়। তবে জামিন মিললেও আদালতের অনুমতি ছাড়া কলকাতা এবং কৃষ্ণনগরের বাইরে যেতে পারবেন না তিনি। একদিকে যখন সংস্কৃতিমহল একে 'বাকস্বাধীনতায় হস্তক্ষেপ' বলছে, অন্যদিকে বিরোধীদের দাবি, ধর্মীয় ভাবাবেগকে গুরুত্ব দিয়েই এই রায়। ঠিক কী কী শর্ত দিল আদালত?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/poet-srijato-bandyopadhyay-granted-conditional-anticipatory-bail-krishnanagar-court_654247.html ",
-    "time": "2026-05-16T12:53:39.000Z"
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

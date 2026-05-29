@@ -1,7 +1,61 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Rishabh Pant quits LSG captaincy after IPL 2026; What exactly went wrong?",
+    "title": "Shubman Gill trumps Vaibhav Sooryavanshi to steer Gujarat Titans into IPL 2026 final vs RCB",
+    "desc": "Gujarat Titans decimated Rajasthan Royals in Qualifier 2 of the IPL 2026. Vaibhav Sooryavanshi initially launched a scathing attack on the Shubman Gill-led side, but he barely had any support from the other end. His...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-trumps-vaibhav-sooryavanshi-to-steer-gujarat-titans-into-ipl-2026-final-vs-rcb-2026-05-29-1042957",
+    "time": "2026-05-29T17:54:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur reveals Amol Muzumdar's fiery speech that transformed India's ODI WC 2025 campaign",
+    "desc": "India captain Harmanpreet Kaur has recalled a defining moment from the team’s World Cup-winning campaign, revealing how head coach Amol Muzumdar delivered a rare emotional message after a difficult phase in the tournament. Notably, India’s campaign...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-reveals-amol-muzumdar-s-fiery-speech-that-transformed-india-s-odi-wc-2023-campaign-2026-05-29-1042952",
+    "time": "2026-05-29T16:49:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi breaks Andre Russell's IPL record, misses century by just four runs",
+    "desc": "It’s fair to say that we are all living in Vaibhav Sooryavanshi’s world. After playing a blistering knock of 97 runs off 29 balls in the previous match, the 15-year-old showed some maturity in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-andre-russell-s-ipl-record-misses-century-by-just-four-runs-2026-05-29-1042951",
+    "time": "2026-05-29T16:08:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi becomes first cricketer in IPL history to register major record",
+    "desc": "Vaibhav Sooryavanshi has been a force to reckon with in the ongoing IPL 2026. The 15-year-old has broken some of the major records this season and against Gujarat Titans in Qualifier 2, he became the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-becomes-first-cricketer-in-ipl-history-to-register-major-record-2026-05-29-1042942",
+    "time": "2026-05-29T14:42:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why did the toss happen twice during GT vs RR clash in IPL 2026? WATCH VIDEO",
+    "desc": "A rare controversy unfolded during the IPL 2026 Qualifier 2 between Gujarat Titans and Rajasthan Royals when the toss had to be conducted twice. Shubman Gill initially flipped the coin, after which Riyan Parag called...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-the-toss-happen-twice-during-gt-vs-rr-clash-in-ipl-2026-2026-05-29-1042939",
+    "time": "2026-05-29T13:40:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans beat Rajasthan Royals, set date with RCB in final",
+    "desc": "Rajasthan Royals arrive in Qualifier 2 carrying momentum, noise and a teenage sensation who has suddenly become the biggest attraction of the IPL playoffs. Vaibhav Sooryavanshi’s breathtaking assault against Sunrisers Hyderabad has shifted attention sharply...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rr-ipl-qualifier-2-cricket-score-live-updates-gujarat-titans-rajasthan-royals-match-today-at-pca-new-cricket-stadium-2026-05-29-1042933",
+    "time": "2026-05-29T12:27:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What exactly went wrong?",
     "desc": "Rishabh Pant has stepped down as Lucknow Super Giants captain following the IPL 2026 season. During his two-year stint, LSG failed to secure a playoff berth, managing only 10 wins under his leadership. The franchise...",
     "img": "",
     "src": "indiatvnews.com",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mullanpur-new-chandigarh-weather-will-rain-play-spoilsport-in-gt-vs-rr-ipl-2026-qualifier-2-2026-05-29-1042916",
     "time": "2026-05-29T09:22:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinesh Phogat given nod to participate in Asian Games trials by Supreme Court",
-    "desc": "The Supreme Court allowed wrestler Vinesh Phogat to participate in the Asian Games trials, refusing to stay a Delhi High Court order that granted relief to her. In the petition filed by the Wrestling Federation...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-given-nod-to-participate-in-asian-games-trials-by-supreme-court-2026-05-29-1042907",
-    "time": "2026-05-29T08:38:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Team's win more important than my century; want to lift IPL title': Vaibhav Sooryavanshi ahead of Qualifier 2",
-    "desc": "Vaibhav Sooryavanshi has called the team's win is far more important for him than his centuries, double centuries or even triple hundreds. Sooryavanshi has missed two centuries by a whisker after getting dismissed in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/teams-win-more-important-than-my-century-want-to-lift-ipl-title-vaibhav-sooryavanshi-ahead-of-qualifier-2-2026-05-29-1042901",
-    "time": "2026-05-29T07:55:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RR's batting might up against GT's disciplined bowling in fight for IPL 2026 final",
-    "desc": "The batting might of the Rajasthan Royals will be up against arguably the best bowling side of the tournament, the Gujarat Titans, in Qualifier 2 of the Indian Premier League 2026. It will be some...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rrs-batting-might-up-against-gts-disciplined-bowling-in-fight-for-ipl-2026-final-2026-05-29-1042898",
-    "time": "2026-05-29T07:17:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI bans smart sunglasses in PMOA for IPL 2026, violators to be hit with penalties",
-    "desc": "The Board of Control for Cricket in India's Anti-Corruption Unit has banned the usage of smart sunglasses by players and match officials in the Players and Match Officials Area (PMOA), due to their advanced communication...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-bans-smart-sunglasses-in-pmoa-for-ipl-2026-violators-to-be-hit-with-penalties-2026-05-29-1042888",
-    "time": "2026-05-29T05:54:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi to lead Argentina in FIFA World Cup 2026 as icon set for his sixth appearance",
-    "desc": "Lionel Messi is set to make his sixth FIFA World Cup appearance as he has been named to lead Argentina for the upcoming showpiece that kicks off on June 12. There was speculation about his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-to-lead-argentina-in-fifa-world-cup-2026-as-icon-set-for-his-sixth-appearance-2026-05-29-1042882",
-    "time": "2026-05-29T04:05:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi set to break huge Andre Russell record after downing Chris Gayle's feat",
-    "desc": "Teenage sensation Vaibhav Sooryavanshi is on the threshold of another huge record as Rajasthan Royals gear up to face Gujarat Titans in Qualifier 2 of the Indian Premier League 2026 on Friday, May 29. Sooryavanshi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-set-to-break-huge-andre-russell-record-after-downing-chris-gayles-feat-2026-05-29-1042872",
-    "time": "2026-05-29T02:33:32.000Z"
   }
 ];
