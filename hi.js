@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi breaks down in tears after Rajasthan Royals fail to qualify for IPL 2026 final",
+    "desc": "Rajasthan Royals’ IPL 2026 journey came to a heartbreaking end in Mullanpur on Friday night and the emotions of the moment were written all over Vaibhav Sooryavanshi’s face after the match. Minutes after Gujarat Titans...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-down-in-tears-after-rajasthan-royals-fail-to-qualify-for-ipl-2026-final-watch-2026-05-29-1042960",
+    "time": "2026-05-29T18:27:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Riyan Parag's animated chat with Sooryavanshi goes viral after 15-year-old departs for 96 vs GT",
+    "desc": "Gujarat Titans booked their place in the IPL 2026 final after a commanding victory over Rajasthan Royals in Qualifier 2. However, much of the post-match discussion revolved around another memorable outing from teenage sensation Vaibhav...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-s-animated-chat-with-vaiabhav-sooryavanshi-goes-viral-after-15-year-old-departs-for-96-vs-gt-watch-2026-05-29-1042959",
+    "time": "2026-05-29T18:13:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill trumps Vaibhav Sooryavanshi to steer Gujarat Titans into IPL 2026 final vs RCB",
     "desc": "Gujarat Titans decimated Rajasthan Royals in Qualifier 2 of the IPL 2026. Vaibhav Sooryavanshi initially launched a scathing attack on the Shubman Gill-led side, but he barely had any support from the other end. His...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-hardik-pandya-as-mumbai-indians-captain-in-ipl-2027-2026-05-29-1042926",
     "time": "2026-05-29T11:23:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MYS Int'l Cricket Stadium in Mullanpur play?",
-    "desc": "After a dominating win over Sunrisers Hyderabad in the IPL 2026 Eliminator, Rajasthan Royals will now take on Gujarat Titans in Qualifier 2. The winner of the match will go on to play Royal Challengers...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rr-pitch-report-how-will-surface-at-mys-int-l-cricket-stadium-in-mullanpur-play-2026-05-29-1042921",
-    "time": "2026-05-29T10:21:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mullanpur, New Chandigarh weather: Will rain play spoilsport in GT vs RR IPL 2026 Qualifier 2?",
-    "desc": "Weather in Mullanpur, New Chandigarh, will be in focus when the Gujarat Titans take on the Rajasthan Royals in Qualifier 2 of the Indian Premier League 2026 on Friday, May 29. Apart from Vaibhav Sooryavanshi's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mullanpur-new-chandigarh-weather-will-rain-play-spoilsport-in-gt-vs-rr-ipl-2026-qualifier-2-2026-05-29-1042916",
-    "time": "2026-05-29T09:22:23.000Z"
   }
 ];

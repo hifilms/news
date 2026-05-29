@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Uttar Pradesh emphasised to prevent water-borne diseases in rural areas through community driven participation",
+    "desc": "Mr. Shekhar, a 2004 batch Indian Administrative Service (IAS) officer, added that the women associated with Field Testing work are being paid honorarium according to the prescribed rates for the testing work carried out by them",
+    "img": "https://th-i.thgim.com/public/incoming/8py1tn/article71039237.ece/alternates/LANDSCAPE_1200/2203738175.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-emphasised-to-prevent-water-borne-diseases-in-rural-areas-through-community-driven-participation/article71038420.ece",
+    "time": "2026-05-29T22:11:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Helen Mirren faces 'antisemitic' abuse; UK police review video",
+    "desc": "UK police said Friday officers were trying to contact Oscar-winning actor Helen Mirren and \"reviewing\" video footage which shows her \"being subjected to antisemitic verbal abuse\". \"We are aware of a video circulating online, showing a man and a woman being subjected to antisemitic verbal abuse,\" a police spokesperson said.",
+    "img": "https://static.toiimg.com/photo/msid-131399191,imgsize-21432.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/helen-mirren-faces-antisemitic-abuse-uk-police-review-video/articleshow/131398480.cms",
+    "time": "2026-05-29T22:04:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'HOTD' S3: Final trailer unleashes dragons, war in Westeros- WATCH",
+    "desc": "Prepare for an epic clash as 'House of the Dragon' Season 3 unleashes its final trailer, promising all-out war and dragonfire across Westeros. Premiering June 21, the new footage plunges viewers into a burning city and brutal battles, highlighting the devastating Battle of the Gullet.",
+    "img": "https://static.toiimg.com/photo/msid-131398485,imgsize-62092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/house-of-the-dragon-season-3-final-trailer-emma-darcys-rhaenyra-targaryen-and-matt-smiths-daemon-targaryen-bring-dragons-war-and-bloodshed-to-westeros/articleshow/131398479.cms",
+    "time": "2026-05-29T21:46:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Dutt sought Thackeray’s help during Sanjay’s 1993 case",
+    "desc": "As Sanjay Dutt remains one of Bollywood’s most talked-about stars, conversations around the turbulent phase of his life during the 1993 Mumbai blasts case continue to resurface even today. One such moment was veteran actor and politician Sunil Dutt candidly opening up about seeking help from Shiv Sena supremo Bal Thackeray when his son was arrested under TADA and the Arms Act.",
+    "img": "https://static.toiimg.com/photo/msid-131398671,imgsize-85660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sunil-dutt-revealed-why-he-sought-bal-thackerays-help-during-sanjay-dutts-1993-case-and-his-friendship-with-haji-mastan/articleshow/131398668.cms",
+    "time": "2026-05-29T21:41:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Honey Singh opens up on life after divorce from Shalini Talwar",
+    "desc": "Singer and rapper Yo Yo Honey Singh recently reflected on love, heartbreak, marriage and emotional healing, years after his divorce from former wife Shalini Talwar was finalised. Now, opening up about how the experience changed him emotionally, Honey Singh admitted that divorce taught him the importance of solitude and self-love.",
+    "img": "https://static.toiimg.com/photo/msid-131398471,imgsize-99434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/honey-singh-opens-up-on-life-after-divorce-from-shalini-talwar-loneliness-and-heartbreak-you-came-alone-and-you-will-leave-alone/articleshow/131398456.cms",
+    "time": "2026-05-29T21:01:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress holds talks with Hemant Soren on fielding party nominee from one of 2 Rajya Sabha seats going to polls in Jharkhand",
+    "desc": "One seat became vacant following the death of former Jharkhand Mukti Morcha president and former CM Shibu Soren last year, while the second will fall vacant on June 21 when the term of BJP leader Deepak Prakash ends",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/v5pbb9/article71039076.ece/alternates/LANDSCAPE_1200/29_BM_Soren.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/congress-holds-talks-with-hemant-soren-on-fielding-party-nominee-from-one-of-2-rajya-sabha-seats-going-to-polls-in-jharkhand/article71037888.ece",
+    "time": "2026-05-29T20:39:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi High Court upholds TRAI regulations capping television ads to 12 minutes per hour",
+    "desc": "Court says broadcasters cannot claim an ‘unfettered right to exploit spectrum for commercial purposes’, adding that ‘excessive or uneven commercial intrusion is a direct impairment of the right of consumers to a fair and reasonable viewing experience’",
+    "img": "https://th-i.thgim.com/public/news/national/xma9ec/article71038740.ece/alternates/LANDSCAPE_1200/iStock-1194888655.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delhi-hc-upholds-trai-regulations-capping-television-ads-to-12-minutes-per-hour/article71037352.ece",
+    "time": "2026-05-29T20:09:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonakshi says Shatrughan Sinha 'always gave freedom to choose'",
+    "desc": "Sonakshi Sinha may be dealing with “reverse nepotism” in her latest film System, but the actress says she never experienced anything similar in her real life despite being the daughter of veteran actor Shatrughan Sinha. Talking about the freedom she received growing up, Sonakshi Sinha said her father always allowed her to make her own choices.",
+    "img": "https://static.toiimg.com/photo/msid-131398341,imgsize-55222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-says-father-shatrughan-sinha-never-made-life-difficult-for-her-he-has-always-given-me-the-freedom-to-choose-my-path/articleshow/131398325.cms",
+    "time": "2026-05-29T19:55:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court says NEET paper leak traumatised entire families; points to ‘ad-hocism’ in NTA",
+    "desc": "The NTA filed an affidavit in the apex court over the corrective steps taken following NEET-UG paper leak and said the decision to cancel the examination was taken in the interest of students and in recognition of the trust underpinning the national examination system",
+    "img": "https://th-i.thgim.com/public/incoming/p1z48a/article71036503.ece/alternates/LANDSCAPE_1200/21TH_PARLEY_GS8GAIG0S4P0.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nta-outlines-corrective-measures-after-neet-ug-paper-leak-in-affidavit-before-sc/article71036504.ece",
+    "time": "2026-05-29T19:17:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gill masterclass guides Titans past Royals into final",
+    "desc": "The skipper puts on 167 with Sai Sudharsan to make short work of the 215-run target; Sooryavanshi's gem goes in vain as the Gujarat side makes it to the summit clash for the third time in five seasons",
+    "img": "https://th-i.thgim.com/public/incoming/gxi97q/article71038686.ece/alternates/LANDSCAPE_1200/20260529365L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-qualifier-2-gujarat-titans-vs-rajasthan-royals/article71037882.ece",
+    "time": "2026-05-29T19:17:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 Orange Cap &amp; Purple Cap: Sooryavanshi stays on top, Rabada surges ahead",
+    "desc": "The IPL 2026 Orange and Purple Cap races are set for a thrilling conclusion. Vaibhav Sooryavanshi leads the Orange Cap race, but Shubman Gill and Sai Sudharsan are close behind. Kagiso Rabada has taken the lead in the Purple Cap standings. The final match will decide the tournament's top performers.",
+    "img": "https://static.toiimg.com/photo/msid-131398017,imgsize-65616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-orange-cap-and-purple-cap-after-qualifier-2-sooryavanshi-stays-on-top-rabada-surges-ahead/articleshow/131397938.cms",
+    "time": "2026-05-29T19:16:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government defends Farmer Discom proposal",
+    "desc": "Metering will not be introduced for agricultural consumers under the proposed model, says TGRPDCL Chairman and Managing Director Musharraf Ali Faruqui; the existing Telangana discoms were under severe financial stress, with accumulated losses reaching ₹69,741 crore by FY 2025 with the government departments alone reportedly owing ₹54,090 crore in outstanding arrears",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/government-defends-farmerdiscomproposal/article71038738.ece",
+    "time": "2026-05-29T19:12:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer Singh poses with Arsenal star Declan Rice in Budapest",
+    "desc": "Ranveer Singh was recently photographed with Declan Rice in Budapest ahead of a major football fixture, with the image surfacing at a time when the actor continues to remain in the headlines over his reported exit from Don 3. Ranveer also bumped into a couple who were his fans during his time in Budapest and happily posed for a selfie with them.",
+    "img": "https://static.toiimg.com/photo/msid-131397998,imgsize-91548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-poses-with-arsenal-star-declan-rice-in-budapest-amid-ongoing-fwice-ban-over-don-3-controversy-with-farhan-akhtar/articleshow/131397983.cms",
+    "time": "2026-05-29T19:10:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Major shock! After Sinner, Djokovic knocked out of French Open 2026",
+    "desc": "French Open 2026 witnessed two huge upsets as Novak Djokovic and Jannik Sinner crashed out of the tournament. Teenager Joao Fonseca stunned Djokovic in a five-set thriller after coming back from two sets down. Earlier, World No. 1 Sinner collapsed physically in extreme Paris heat and lost to Juan Manuel Cerundolo, ending his 30-match winning streak and opening up the men’s draw.",
+    "img": "https://static.toiimg.com/photo/msid-131397899,imgsize-143848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/major-shock-in-roland-garros-after-jannik-sinner-novak-djokovic-knocked-out-of-french-open-2026/articleshow/131397903.cms",
+    "time": "2026-05-29T19:07:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I might have to tape his hand’: Gill’s hilarious reaction to Sai's hit-wicket dismissal",
+    "desc": "Gujarat Titans captain Shubman Gill spoke about Sai Sudharsan's unusual back-to-back hit-wicket dismissals. Despite this, Gill and Sudharsan's record partnership powered Gujarat Titans to a massive win. Gill's century and Sudharsan's quickfire fifty secured their place in the IPL 2026 final. The team's strong understanding was a key factor in their success.",
+    "img": "https://static.toiimg.com/photo/msid-131397881,imgsize-120394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-might-have-to-tape-his-hand-shubman-gills-hilarious-reaction-to-sudharsans-hit-wicket-dismissal/articleshow/131397879.cms",
+    "time": "2026-05-29T19:01:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala’s Pariyathukavu residents hope government intervention will put an end to eviction threat",
+    "desc": "Pariyathukavu, a settlement in Ernakulam district, occupied by seven Dalit families for decades, has become the epicentre of a socio-political controversy with attempts to evict the residents, who have been engaged in a prolonged legal battle to protect their homes. G. Ragesh visits the area to gauge the gravity of the situation as both the residents and the claimants of the land await anxiously for finality",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralas-pariyathukavu-residents-hope-government-intervention-will-put-an-end-to-eviction-threat/article71030563.ece",
+    "time": "2026-05-29T18:58:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He doesn't slog': Parag lauds Sooryavanshi's 96-run knock despite RR loss",
+    "desc": "Riyan Parag praised Vaibhav Sooryavanshi after Rajasthan Royals’ IPL 2026 exit, saying the 15-year-old “doesn't slog” and instead “calculates and plays his shots”. Sooryavanshi smashed 96 off 47 balls, but Gujarat Titans chased down 215 comfortably thanks to Shubman Gill’s 104 and Sai Sudharsan’s 58. Gujarat reached their third IPL final and will face RCB in Ahmedabad.",
+    "img": "https://static.toiimg.com/photo/msid-131397701,imgsize-161880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/he-doesnt-slog-riyan-parag-lauds-vaibhav-sooryavanshis-96-run-knock-despite-rr-defeat/articleshow/131397352.cms",
+    "time": "2026-05-29T18:45:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Operation Sheruwali enters Day 7; searches continue in J&amp;K’s Rajouri",
+    "desc": "Security forces are in the seventh day of a relentless hunt for two to three terrorists in Rajouri's dense forests. The joint operation, bolstered by helicopters, drones, and sniffer dogs, intensified with heavy firing and shelling. A terrorist hideout was also discovered and destroyed. Top officers are overseeing the critical anti-terror mission.",
+    "img": "https://static.toiimg.com/photo/msid-131397378,imgsize-942099.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/operation-sheruwali-enters-day-7-searches-continue-in-jks-rajouri/articleshow/131397371.cms",
+    "time": "2026-05-29T18:33:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill’s stunning century powers GT into IPL 2026 final against RCB",
+    "desc": "Gujarat Titans reached their third IPL final after defeating Rajasthan Royals. Shubman Gill scored a magnificent century to guide Gujarat in their chase. Rajasthan had posted a strong total thanks to Vaibhav Sooryavanshi's brilliant knock. Gujarat's opening partnership was key to their success. They will now face Royal Challengers Bengaluru in the final.",
+    "img": "https://static.toiimg.com/photo/msid-131397260,imgsize-164438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/shubman-gills-stunning-century-powers-gt-into-ipl-2026-final-after-record-chase/articleshow/131397262.cms",
+    "time": "2026-05-29T18:27:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bizarre! Sai becomes first batter ever to get out hit-wicket twice in IPL season",
+    "desc": "Sai Sudharsan suffered another bizarre hit-wicket dismissal during Gujarat Titans’ IPL 2026 Qualifier 2 clash against Rajasthan Royals. Batting on 58, his bat slipped and hit the stumps while playing a shot off Brijesh Sharma. It was his second straight hit-wicket dismissal and third overall in IPL history, equalling Andre Russell and Shoaib Malik’s men’s T20 record.",
+    "img": "https://static.toiimg.com/photo/msid-131397079,imgsize-120368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/bizarre-dismissal-sai-sudharsan-becomes-first-batter-ever-to-get-out-hit-wicket-twice-in-ipl-season-watch/articleshow/131396841.cms",
+    "time": "2026-05-29T18:12:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varun seeks legal protection against personality rights misuse",
+    "desc": "Varun Dhawan has secured interim relief from the Delhi High Court in a case related to the unauthorised use of his identity online. The actor recently approached the court seeking protection of his personality rights amid the growing circulation of deepfake content and objectionable material on digital platforms.",
+    "img": "https://static.toiimg.com/photo/msid-131396695,imgsize-36476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-joins-salman-khan-amitabh-bachchan-jackie-shroff-and-others-in-seeking-legal-protection-against-personality-rights-misuse/articleshow/131396611.cms",
+    "time": "2026-05-29T17:52:38.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Sai Sudharsan scripts history, joins Virat Kohli &amp; Chris Gayle in elite IPL club",
     "desc": "Sai Sudharsan achieved a remarkable feat in IPL 2026 Qualifier 2, joining Virat Kohli and Chris Gayle by scoring 700+ runs for the second consecutive season. He also equaled David Warner's nine 50-plus scores in a single IPL edition. Sudharsan and Shubman Gill's monumental opening stand set new IPL playoff partnership records.",
@@ -90,15 +279,6 @@ const newsData_en = [
     "time": "2026-05-29T16:35:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi HC upholds TRAI regulations capping television ads to 12 minutes per hour",
-    "desc": "Court says broadcasters cannot claim an ‘unfettered right to exploit spectrum for commercial purposes’, adding that ‘excessive or uneven commercial intrusion is a direct impairment of the right of consumers to a fair and reasonable viewing experience’",
-    "img": "https://th-i.thgim.com/public/news/national/xma9ec/article71038740.ece/alternates/LANDSCAPE_1200/iStock-1194888655.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-hc-upholds-trai-regulations-capping-television-ads-to-12-minutes-per-hour/article71037352.ece",
-    "time": "2026-05-29T16:30:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ranveer tried to patch up but ‘Farhan-Zoya unwilling to work'",
     "desc": "The reported fallout between filmmaker Farhan Akhtar and actor Ranveer Singh following the latter’s exit from Don 3 has reportedly escalated further. According to an insider close to the matter, Ranveer Singh allegedly attempted to smooth over tensions by offering to collaborate on another film with either Farhan Akhtar or his sister Zoya Akhtar. However, the insider claimed that the proposal was turned down immediately.",
@@ -142,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adnan-sami-reacts-to-people-questioning-his-patriotism-because-he-was-born-in-pakistan-though-he-chose-to-be-an-indian-citizen-main-unko-maaf-karta-hu/articleshow/131394340.cms",
     "time": "2026-05-29T15:51:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court says NEET paper leak traumatised entire families; points to ‘ad-hocism’ in NTA",
-    "desc": "The NTA filed an affidavit in the apex court over the corrective steps taken following NEET-UG paper leak and said the decision to cancel the examination was taken in the interest of students and in recognition of the trust underpinning the national examination system",
-    "img": "https://th-i.thgim.com/public/incoming/p1z48a/article71036503.ece/alternates/LANDSCAPE_1200/21TH_PARLEY_GS8GAIG0S4P0.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nta-outlines-corrective-measures-after-neet-ug-paper-leak-in-affidavit-before-sc/article71036504.ece",
-    "time": "2026-05-29T15:48:26.000Z"
   },
   {
     "cat": "Politics",
@@ -343,48 +514,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Gukesh in splits after Javokhir Sindarov asked to sing on his B-day",
-    "desc": "D Gukesh enjoyed a funny birthday moment during Norway Chess 2026 celebrations as players sang for his 20th birthday before a sailing event in Oslo. Laughter erupted after Wesley So jokingly asked Javokhir Sindarov, Gukesh’s future World Championship challenger, to sing a song. Earlier, Magnus Carlsen defeated Gukesh in Round 4, while Bibisara Assaubayeva continued leading the women’s standings.",
-    "img": "https://static.toiimg.com/photo/msid-131392583,imgsize-60278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-in-splits-after-javokhir-sindarov-asked-to-sing-on-his-birthday/articleshow/131390515.cms",
-    "time": "2026-05-29T14:02:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Great Grand Superhero' review: Fans praise Jackie Shroff",
-    "desc": "Aliens Ka Aagman' is delighting audiences as a fun family entertainer. Early reviews on X highlight its warm tone and Jackie's endearing superhero grandfather role, sparking comparisons with Tiger Shroff's 'A Flying Jatt'. The film is praised for its refreshing embrace of fun and Jackie's natural charm, reviving the inner child.",
-    "img": "https://static.toiimg.com/photo/msid-131392025,imgsize-164528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-great-grand-superhero-twitter-review-fans-call-jackie-shroff-film-warm-fun-and-refreshing/articleshow/131392025.cms",
-    "time": "2026-05-29T13:49:24.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Drama before first ball! RR win controversial re-toss against GT in Qualifier 2",
     "desc": "Confusion reigned at the toss for the Rajasthan Royals vs. Gujarat Titans match, necessitating a re-flip. Rajasthan captain Riyan Parag's initial call was deemed unclear, leading to a second toss which he again won, opting to bat. Gujarat's Shubman Gill also admitted a preference for batting first on the used pitch, anticipating it would slow down.",
     "img": "https://static.toiimg.com/photo/msid-131392285,imgsize-148152.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/drama-before-first-ball-rajasthan-royals-win-controversial-re-toss-against-gujarat-titans-in-qualifier-2/articleshow/131392303.cms",
     "time": "2026-05-29T13:48:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jailer 2' actress Edin Rose recalls losing Bollywood roles",
-    "desc": "Actress Edin Rose, set to star in 'Jailer 2', lauded the South Indian film industry for its welcoming nature, contrasting it with Bollywood's body-shaming experiences. She revealed losing projects in Hindi cinema due to her 'curvier' body type, being asked to reduce her hips, which she found unrealistic.",
-    "img": "https://static.toiimg.com/photo/msid-131392295,imgsize-93458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/jailer-2-actress-edin-rose-recalls-losing-bollywood-projects-critisizes-hindi-cinema-for-body-shaming-calls-south-cinema-welcoming/articleshow/131392203.cms",
-    "time": "2026-05-29T13:43:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sobhita Dhulipala calls 'Vettuvam' her best work yet",
-    "desc": "Sobhita Dhulipala is set to star in Pa Ranjith's upcoming Tamil film 'Vettuvam,' describing it as her best performance to date. She revealed audiences will see her in a \"crazy\" and \"apocalyptic\" avatar, with the movie promising action, dance, and intense drama across various time periods. The film also features Arya and Dinesh.",
-    "img": "https://static.toiimg.com/photo/msid-131392045,imgsize-76526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sobhita-dhulipala-calls-pa-ranjiths-vettuvam-her-career-best-performance-teases-crazy-avatar-in-the-film/articleshow/131391854.cms",
-    "time": "2026-05-29T13:33:58.000Z"
   },
   {
     "cat": "Politics",
@@ -405,33 +540,6 @@ const newsData_en = [
     "time": "2026-05-29T13:09:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Bumrah emerges top choice to lead MI; SKY least preferred",
-    "desc": "Following another disappointing IPL season, Mumbai Indians fans overwhelmingly favour pace spearhead Jasprit Bumrah to take over captaincy for IPL 2027. A poll revealed over 44% support for Bumrah, who has been a key player for the franchise. Rohit Sharma and Tilak Varma also received significant votes, while Suryakumar Yadav was least preferred.",
-    "img": "https://static.toiimg.com/photo/msid-131390563,imgsize-189956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/toi-sports-poll-jasprit-bumrah-emerges-top-choice-to-lead-mumbai-indians-suryakumar-yadav-least-preferred/articleshow/131390579.cms",
-    "time": "2026-05-29T12:59:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pooja Singh breaks 14-yr-old NR, wins historic Asian U20 high jump gold — Watch",
-    "desc": "Teenage high jumper Pooja Singh made history at the Asian U20 Athletics Championships, clinching gold with a 1.93m leap. This stunning performance not only made her the first Indian woman to win this title but also shattered the 14-year-old senior National Record. Her achievement also meets the qualification standard for the Commonwealth Games 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131391176,imgsize-47312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/pooja-singh-breaks-14-year-old-national-record-wins-historic-asian-u20-high-jump-gold-watch/articleshow/131391048.cms",
-    "time": "2026-05-29T12:49:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amitabh Bachchan gets back to work after rumours of health concern",
-    "desc": "Amitabh Bachchan shared his thoughts on embracing routine and positivity as he returned to work. He also expressed admiration for his young co-stars, praising their confidence and maturity. The legendary actor continues to connect with fans through his blog, sharing personal observations and philosophical musings.",
-    "img": "https://static.toiimg.com/photo/msid-131390823,imgsize-28058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-gets-back-to-work-after-rumours-of-health-concerns-good-day-to-return-to-routine/articleshow/131390796.cms",
-    "time": "2026-05-29T12:33:22.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Siddaramaiah meets Congress high command in Delhi a day after resignation",
     "desc": "Outgoing Karnataka CM Siddaramaiah met with Congress leaders in Delhi, fulfilling his promise to resign and paving the way for a transition. He reportedly sought cabinet berths for his son and loyalists, while the party prepares for a state unit reorganization where he is expected to play a key role.",
@@ -439,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/siddaramaiah-meets-congress-high-command-in-delhi-a-day-after-resignation-whats-on-his-wishlist/articleshow/131390792.cms",
     "time": "2026-05-29T12:32:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Pant’s Rs 27 crore LSG move turned into an IPL disaster in just two seasons",
-    "desc": "Rishabh Pant has stepped down as Lucknow Super Giants captain after two disappointing IPL seasons. Bought for a record Rs 27 crore, Pant's tenure saw LSG finish bottom in IPL 2026, extending their playoff drought. His individual form also struggled to justify the hefty price tag, impacting his national team prospects.",
-    "img": "https://static.toiimg.com/photo/msid-131390447,imgsize-106528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/how-rishabh-pants-rs-27-crore-lsg-move-turned-into-an-ipl-disaster-in-just-two-seasons/articleshow/131390461.cms",
-    "time": "2026-05-29T12:22:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -475,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rishabh-pant-steps-down-as-lucknow-super-giants-captain/articleshow/131389885.cms",
     "time": "2026-05-29T11:40:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ram Charan’s Pehelwan prep on vegetarian diet",
-    "desc": "Ram Charan discussed his upcoming film 'Peddi', revealing that while the overall project was fueled by passion, embodying a wrestler presented a significant challenge. His impressive physique for the role was achieved through a strict vegetarian diet and traditional training. The village-based drama, directed by Buchi Babu Sana, sees Charan as a \"crossover athlete\" fighting for the oppressed.",
-    "img": "https://static.toiimg.com/photo/msid-131389745,imgsize-80470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/being-pehelwan-is-tough-ram-charan-talks-about-transforming-into-an-athlete-for-peddi-with-vegetarian-diet/articleshow/131389620.cms",
-    "time": "2026-05-29T11:34:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -531,42 +621,6 @@ const newsData_en = [
     "time": "2026-05-29T10:02:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 72 [LIVE]: Will it net Rs 1150 crore mark before OTT debut?",
-    "desc": "The Revenge'. With a worldwide gross that has comfortably soared past the Rs. 1,800 crore mark, the blockbuster sequel is now within striking distance of breaching the coveted Rs. 1150 crore net milestone in India. However, with its unrated \"Raw & Undekha\" cut scheduled to premiere on JioHotstar on June 4, 2026, the film has less than a week left to maximize its theatrical footfalls. While the ambitious dream of dethroning 'Pushpa 2’s ultimate domestic record has faded, 'Dhurandhar 2' continues to cement its status as an all-time box office legend.",
-    "img": "https://static.toiimg.com/photo/msid-131387788,imgsize-169134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-72-live-ranveer-singh-film-inches-toward-rs-1150-crore-amid-ticking-ott-clock-and-fwice-directive/articleshow/131387592.cms",
-    "time": "2026-05-29T10:01:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'PM Modi personally monitoring': What Centre, NTA told Supreme Court on NEET paper leak",
-    "desc": "Prime Minister Modi is personally overseeing the NEET UG re-examination process following paper leaks. The Centre informed the Supreme Court about new security mechanisms for the June 21 exam. The NTA has implemented extensive reforms, including enhanced CCTV surveillance and forensic analysis, to prevent future irregularities and ensure fairness for students.",
-    "img": "https://static.toiimg.com/photo/msid-131387748,imgsize-31968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-personally-monitoring-what-centre-nta-told-supreme-court-on-neet-paper-leak/articleshow/131387769.cms",
-    "time": "2026-05-29T09:59:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Pak operative procured arms, ammunition, IEDs via drone drops': NIA raids 12 locations across 4 states in terror conspiracy case",
-    "desc": "The National Investigation Agency is conducting searches in four states. This is part of a probe into a Pakistan-linked terror plot. The plot involved drone-delivered arms and planned blasts in Indian cities. Investigators are targeting local supporters of the terror module. The operation aims to uncover a wider terror network.",
-    "img": "https://static.toiimg.com/photo/msid-131389652,imgsize-73466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pak-operative-procured-arms-ammunition-ieds-via-drone-drops-nia-raids-12-locations-across-4-states-in-terror-conspiracy-case/articleshow/131387667.cms",
-    "time": "2026-05-29T09:54:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘What’s it like when nothing’s under your feet?’ Ajit Doval poses three questions to Russian cosmonauts",
-    "desc": "During his visit to Moscow, National Security Advisor Ajit Doval took a moment to connect with Russian cosmonauts aboard the International Space Station. He eagerly asked about their adventures in microgravity and the rigors of preparing for spacewalks. This interaction highlighted the strengthening of Indo-Russian collaboration in space exploration.",
-    "img": "https://static.toiimg.com/photo/msid-131387555,imgsize-28344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/whats-it-like-when-nothings-under-your-feet-ajit-doval-poses-three-questions-to-russian-cosmonauts/articleshow/131386373.cms",
-    "time": "2026-05-29T09:53:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Financial institutions report over 10,000 cases of fraud involving ₹48,000 crore in FY26: RBI data",
     "desc": "An assessment of bank group-wise fraud cases over the last three years indicates that although number of frauds for public and private sector banks has reduced, amount involved has increased over the years, say RBI Report",
@@ -574,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/financial-institutions-report-over-10000-cases-of-fraud-involving-48000-crore-in-fy26-rbi-data/article71036689.ece",
     "time": "2026-05-29T09:52:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi vs new-ball attack",
-    "desc": "The anticipation builds for IPL 2026's Qualifier 2, where Gujarat Titans face off against Rajasthan Royals, but one player has everyone buzzing – the 15-year-old Vaibhav Sooryavanshi. His explosive capabilities during powerplays have shaken up the competition this season. Can GT's ace bowlers, Rabada and Siraj, rein in this young dynamo and prevent him from orchestrating another unforgettable knockout spectacle?",
-    "img": "https://static.toiimg.com/photo/msid-131386529,imgsize-127554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/gt-vs-rr-ipl-2026-qualifier-2-sooryavanshi-fear-factor-or-top-order-vs-new-ball-battle-what-will-decide-rcbs-opponent/articleshow/131386529.cms",
-    "time": "2026-05-29T09:36:22.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
