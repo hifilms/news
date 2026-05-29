@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi set to break huge Andre Russell record after downing Chris Gayle's feat",
+    "desc": "Teenage sensation Vaibhav Sooryavanshi is on the threshold of another huge record as Rajasthan Royals gear up to face Gujarat Titans in Qualifier 2 of the Indian Premier League 2026 on Friday, May 29. Sooryavanshi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-set-to-break-huge-andre-russell-record-after-downing-chris-gayles-feat-2026-05-29-1042872",
+    "time": "2026-05-29T02:33:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya's captaincy at Mumbai Indians set to end, his place in team in doubt as MI review poor season",
+    "desc": "Hardik Pandya's days as captain of the Mumbai Indians are reportedly set to end as the franchise's think tank will review the poor season, where MI finished ninth in the IPL 2026 points table. Hardik...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandyas-captaincy-at-mumbai-indians-set-to-end-his-place-in-team-in-doubt-as-mi-review-poor-season-2026-05-29-1042870",
+    "time": "2026-05-29T01:52:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "For second time in 20 years! Nandni Sharma achieves huge record on debut as India beat England in T20I opener",
+    "desc": "Nandni Sharma, Jemimah Rodrigues and Yastika Bhatia starred as India defeated England in the first T20I of their three-match series on Thursday, May 28, at County Ground, Chelmsford. Nandni sizzled with three wickets as she...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/for-second-time-in-20-years-nandni-sharma-achieves-huge-record-on-debut-as-india-beat-england-in-t20i-opener-2026-05-29-1042868",
+    "time": "2026-05-29T01:21:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former cricketer back Abhishek, Samson as T20I openers despite Vaibhav Sooryavanshi's historic IPL season",
     "desc": "Former India batter Aakash Chopra has urged selectors not to rush Vaibhav Suryavanshi into the national team despite the Rajasthan Royals opener’s sensational IPL 2026 campaign. His remarks came just after the 15-year-old produced another...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-all-female-panel-of-match-officials-for-women-s-t20-world-cup-four-indians-selected-2026-05-28-1042833",
     "time": "2026-05-28T12:30:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhruv Jurel shares his role for Rajasthan Royals, says 'I'm meant to keep the ship steady'",
-    "desc": "Rajasthan Royals’ keeper-batter Dhruv Jurel played a vital innings in the IPL 2026 Eliminator against Sunrisers Hyderabad in Mullanpur. Youngster Vaibhav Sooryavanshi set the tone with his blistering batting of 97 runs off 29 balls,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dhruv-jurel-shares-his-role-for-rajasthan-royals-says-i-m-meant-to-keep-the-ship-steady-2026-05-28-1042828",
-    "time": "2026-05-28T11:55:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Esha Singh sets new world record, wins ISSF World Cup in women's 25m pistol event",
-    "desc": "India’s Esha Singh created history at the ISSF World Cup in Munich after winning gold in the women’s 25m pistol event. She also set a world record score with 43 hits out of 50 in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/esha-singh-sets-new-world-record-wins-issf-world-cup-in-women-s-25m-pistol-event-2026-05-28-1042809",
-    "time": "2026-05-28T10:36:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Heinrich Klaasen and Ishan Kishan achieve huge feat, join list of legendary batters as IPL 2026 campaign ends",
-    "desc": "The IPL (Indian Premier League) 2026 campaign has come to an end for Sunrisers Hyderabad. The side took on Rajasthan Royals in the eliminator of the tournament in Mullanpur on May 27th, and Royals managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/heinrich-klaasen-and-ishan-kishan-achieve-huge-feat-join-list-of-legendary-batters-as-ipl-2026-campaign-ends-2026-05-28-1042799",
-    "time": "2026-05-28T09:37:11.000Z"
   }
 ];
