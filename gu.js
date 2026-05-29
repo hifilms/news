@@ -1,6 +1,78 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "ઓછા EMI નો મતલબ હંમેશા સસ્તી લોન નહીં, બેંકની આ &amp;#039;ગેમથી બચો&amp;#039;, ઘટશે વ્યાજનું ભારણ",
+    "desc": "મોટા ભાગના લોકો લોન લેવા સમયે માત્ર ઈએમઆઈ જોઈ નિર્ણય કરવાનું શરૂ કરે છે. જો ઈએમઆઈ બજેટમાં હોય તો તે કોઈ વિલંબ કર્યા વગર લોન લે છે, પરંતુ આ રીત તમારા પર ભારે પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/the-low-emi-trap-why-a-lower-monthly-payment-doesnt-mean-a-cheaper-loan-479602 ",
+    "time": "2026-05-29T06:48:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કરન જોહરે આલિયા, કરીના, શાહરુખ સહિત દરેકને કર્યા અનફોલો, બસ આ એક એક્ટ્રેસને હવે કરે છે ફોલો",
+    "desc": "કરન જોહરે ઈંસ્ટાગ્રામમાં આખેઆખા બોલીવુડને અનફોલો કરી દીધું છે. કરન જોહરે શાહરુખ, આલિયા સહિતના પોતાના નજીકના એક્ટર્સને અનફોલો કરવાનું કારણ ડિજિટલ ડિટોક્સ ગણાવ્યું છે. બધાને અનફોલો કરી દેનાર કરન જોહર હવે માત્ર એક જ અભિનેત્રીને ફોલો કરે છે. આ હસીના કોણ છે જાણી લો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/why-karan-johar-unfollowed-bollywood-celebs-karan-follow-only-priyanka-chopra-on-instagram-479598 ",
+    "time": "2026-05-29T06:14:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "7 લોકોના પરિવાર માટે શાનદાર છે આ 5 કાર, વેચાણમાં પણ છે નંબર-1; 26 km સુધી મળે છે માઇલેજ",
+    "desc": "ભારતમાં 7-સીટર કારની માંગ સતત વધી રહી છે. લોકો ફેમિલી સફર માટે સેવન સીટર કાર ખરીદે છે. દેશમાં અનેક કંપનીઓ 7-સીટર કાર ઓફર કરી રહી છે. આજે અમે તમને ફેમિલી માટે પાંચ શાનદાર સેવન સીટર કાર વિશે માહિતી આપીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/best-family-7-seater-cars-of-2026-toyota-innova-maruti-suzuki-ertiga-tata-safari-479597 ",
+    "time": "2026-05-29T06:00:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Petrol-Diesel Price: આ મહિને 18% સસ્તું થયું ક્રૂડ ઓઈલ! એક લીટર પેટ્રોલ-ડીઝલનો આજનો ભાવ ખાસ જાણો",
+    "desc": "વૈશ્વિક સ્થિતિઓને પગલે ક્રૂડ ઓઈલમાં સતત ઉતાર ચડાવ જોવા મળ્યો છે. જો કે રાહતના સમાચાર એ છે કે ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળ્યો છે. ત્યારે શું ઘર આંગણે પેટ્રોલ અને ડીઝલના ભાવમાં ફેરફાર જોવા મળશે ખરો? જાણો આજના પેટ્રોલ ડીઝલના લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-latest-price-today-in-ahmedabad-vadodara-surat-rajkot-check-today-rate-479591 ",
+    "time": "2026-05-29T05:26:30.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "વોટ્સએપ હવે ફ્રીમાં નહિ ચાલે! દર મહિને ઈન્સ્ટા, ફેસબુક, વોટ્સએપનો આટલો ચાર્જ વસૂલાશે, Meta એ લોન્ચ કર્યા પ્લાન",
+    "desc": "અત્યાર સુધી જે સુવિધાઓ તમને ફ્રીમાં મળતી હતી, અને લોકો તેના માધ્યમથી રૂપિયા કમાતા હતા, તે હવે સરળ નહિ બને. કારણ કે, મેટાએ ફેસબુક, ઈન્સ્ટાગ્રામ અને વોટ્સએપના યુઝર્સ પાસેથી ચાર્જ વસૂલવાનું મન બનાવી લીધું છે. જાણો આ ફીચર્સના પ્લાનથી લઈને ચાર્જ, અને નવી સુવિધાની તમામ માહિતી",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/instagram-facebook-whatsapp-will-charge-every-month-meta-launches-plans-479572 ",
+    "time": "2026-05-29T05:15:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર્દિક પંડ્યા પાસેથી છીનવાશે કેપ્ટનશીપ! મુંબઈ ઈન્ડિયન્સમાં મોટી હલચલ, કોણ બનશે નવો કેપ્ટન?",
+    "desc": "IPL 2026 ખતમ થતાં પહેલા મુંબઈ ઈન્ડિયન્સ કેમ્પમાંથી મોટા સમાચાર સામે આવી રહ્યાં છે. મુંબઈના નિરાશાજનક પ્રદર્શન બાદ હાર્દિક પંડ્યા પાસેથી કેપ્ટનશિપ છીનવાઈ શકે છે. મુંબઈની ટીમ 14 મેચમાં માત્ર 4 જીત સાથે પોઈન્ટ ટેબલમાં નવમાં સ્થાને રહી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-will-be-stripped-of-the-captaincy-who-will-become-the-new-captain-of-mumbai-indians-479590 ",
+    "time": "2026-05-29T05:00:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વિનાશકારી તોફાનના ભણકારા! IMDએ મૂસળધાર વરસાદનું એલર્ટ જાહેર કર્યું, ક્યાં પહોંચ્યું ચોમાસું? જાણો",
+    "desc": "કાળઝાળ ગરમી વચ્ચે થોડી રાહત આપતા સમાચાર આવ્યા છે. દેશમાં અનેક ઠેકાણે વરસાદની આગાહી છે. ભારે પવન ફૂંકાઈ શકે છે. ગુજરાતમાં આવતી કાલથી 2 જૂન સુધી વરસાદની આગાહી કરવામાં આવી છે. ક્યાં કયાં વરસાદ પડી શકે છે તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/all-india-weather-forecast-imd-latest-prediction-gujarat-weather-update-heavy-rain-thunderstorm-479579 ",
+    "time": "2026-05-29T04:35:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હમીરપુરમાં ભારે આંધી-તોફાનના કારણે નિર્માણધીન પુલ તૂટ્યો, 6 મજૂરોના મોત, અનેક કાટમાળમાં દટાયા",
+    "desc": "વળી પાછો એક નિર્માણધીન પુલ દુર્ઘટનાગ્રસ્ત થયો અને અનેક મજૂરોનો ભોગ લઈ ગયો. ઉત્તર પ્રદેશના હમીરપુરમાં ઘટેલા આ ઘટનામાં બેતવા નદી પર બની રહેલા પુલનો એક મોટો હિસ્સો તૂટી પડ્યો જેણે ઓછામાં ઓછા 6 મજૂરોના ભોગ લીધા અને અનેક લોકો ઘાયલ પણ થયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bridge-under-construction-collapsed-several-laborers-died-many-injured-in-hamirpur-up-479570 ",
+    "time": "2026-05-29T03:09:08.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "ભારતને મળ્યો હોર્મુઝનો વિકલ્પ, 1 જૂનથી મળશે ઓઈલ માટે નવો માર્ગ! શું સસ્તું થશે પેટ્રોલ-ડીઝલ અને LPG?",
     "desc": "1 જૂન 2026થી ભારત-ઓમાન ફ્રી ટ્રેડ એગ્રીમેન્ટ (FTA) લાગુ થવા જઈ રહ્યો છે. જેનાથી માત્ર ટેરિફ ફ્રી વેપાર જ નહીં થાય, પરંતુ ભારતને ખાડી દેશો, આફ્રિકા અને યુરોપ સુધી નવો ટ્રેડ રૂટ પણ મળશે. ભારતને હોર્મુઝ ઓફ સ્ટ્રેટનો એક શ્રેષ્ઠ વિકલ્પ મળી જશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -387,15 +459,6 @@ const newsData_gu = [
     "time": "2026-05-26T11:01:12.000Z"
   },
   {
-    "cat": "Business",
-    "title": "આ રાજ્યોમાં હજુ પણ 100 રૂપિયાથી ઓછામાં વેચાઈ રહ્યું છે પેટ્રોલ, જાણો ક્યાં છે સૌથી વધુ ભાવ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચેના તણાવ વચ્ચે દેશમાં પેટ્રોલના ભાવ સતત વધી રહ્યા છે અને ઘણા રાજ્યોમાં ભાવ પ્રતિ લિટર 100 રૂપિયાને વટાવી ગયા છે. ત્યારે કેટલીક જગ્યાએ હજુ પણ પેટ્રોલ 100 રૂપિયાથી ઓછામાં વેચાઈ રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-petrol-is-selling-for-under-100-in-these-states-479309 ",
-    "time": "2026-05-26T10:56:48.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભારતની સૌથી સસ્તી EV ખરીદવાનો છે પ્લાન? જાણો 5 મોટી વાતો, રેન્જ 230 કિમી",
     "desc": "MG Comet EV ભારતની સૌથી સસ્તી કોમ્પેક્ટ ઈલેક્ટ્રિક કારમાં સામેલ છે, જે ખાસ કરી શહેરના ટ્રાફિકથી ભરેલા રસ્તા માટે બનાવવામાં આવી છે. તેની કિંમત 7.62 લાખ રૂપિયાથી શરૂ થઈ 9.99 લાખ રૂપિયા સુધી જાય છે. BaaS પ્લાન દ્વારા તેની શરૂઆતી કિંમત ઘટાડી શકાય છે.",
@@ -475,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/curry-barker-horror-film-obsession-7-crore-budget-earned-750-crore-obsession-horror-film-india-release-date-479204 ",
     "time": "2026-05-25T11:05:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "6 દિવસ પહેલા કેરળમાં પહોંચી જશે ચોમાસું! આ વિસ્તારમાં ધોધમાર વરસાદનું એલર્ટ જાહેર",
-    "desc": "ભારતીય હવામાન વિજ્ઞાન વિભાગે પ્રમાણે આ વર્ષે સાઉથવેસ્ટ મોનસૂન પોતાના સામાન્ય સમયથી છ દિવસ પહેલા જ કેરળના કિનારે ટકરાવાનું છે. મોનસૂન કેરળમાં 26 મેએ પ્રવેશ કરી શકે છે, જ્યારે તેની સામાન્ય તારીખ 1 જૂન હોય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/monsoon-rain-alert-monsoon-is-set-to-hit-kerala-6-days-ahead-of-schedule-an-alert-for-rainfall-has-been-issued-for-these-regions-479199 ",
-    "time": "2026-05-25T09:58:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -594,15 +648,6 @@ const newsData_gu = [
     "time": "2026-05-23T12:07:53.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "લાઈટ બિલમાંથી છુટકારો! જાણો 1.5 ટનના AC માટે કેટલા kWની સોલર પેનલ જોઈએ?",
-    "desc": "ગરમી વધતાં, ઘરોમાં 1.5 ટનના એસી સામાન્ય બની ગયા છે, જે 1.2થી 1.8 કિલોવોટ વીજળી વાપરે છે અને દરરોજ આશરે 8થી 14 યુનિટ વીજળીનો ઉપયોગ કરી શકે છે. આના કારણે વીજળીના બિલમાં ઝડપથી વધારો થયો છે, જેના કારણે ઘણા લોકો સૌર ઉર્જા તરફ વળ્યા છે. સૌર પેનલ સૂર્યપ્રકાશમાંથી વીજળી ઉત્પન્ન કરે છે, અને યોગ્ય સિસ્ટમ કદ પસંદ કરવાથી લાંબા ગાળે વીજળીના બિલમાં 70થી 90 ટકા સુધીની બચત થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/get-rid-of-electricity-bills-find-out-how-many-kw-of-solar-panels-are-needed-for-a-1-5-ton-ac-478965 ",
-    "time": "2026-05-23T09:21:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ઐશ્વર્યા રાય બચ્ચનનું બ્લૂ ગાઉન છે સ્પેશિયલ, ડ્રેસ પર જડેલા છે હજારો ક્રિસ્ટલ્સ, ચેક કરો ડિટેલ્સ",
     "desc": "ઐશ્વર્યા રાય બચ્ચને કાન્સ 2026 ના રેડ કાર્પેટ પર ઉતરી પોતાની સુંદરતાનો જાદુ ફરી ચલાવી દીધો છે. શુક્રવારે ઐશ્વર્યા બ્લૂ રંગના ગાઉનમાં સજ્જ થઈ રેડ કાર્પેટ પર ઉતરી હતી. ઐશ્વર્યાનું આ ગાઉન ચર્ચાનો વિષય બન્યું છે કારણ કે તે ખાસ છે. આ ગાઉનમાં શું ખાસ છે ચાલો તમને જણાવીએ.",
@@ -682,14 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/pm-modi-and-meloni-melody-chocolate-video-bollywood-celebs-priyanka-chopra-shweta-tiwari-reaction-on-video-478641 ",
     "time": "2026-05-20T12:04:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આ વખતે ઐશ્વર્યા રાય પ્રતિષ્ઠિત કાન્સ ફિલ્મ ફેસ્ટિવલમાં જોવા મળશે? ખાસ જાણો",
-    "desc": "અતિ પ્રતિષ્ઠિત એવા કાન્સ ફિલ્મ ફેસ્ટિવલની 12મી મેથી શરૂઆત થઈ ત્યારથી ઐશ્વર્યા રાય ખુબ ચર્ચામાં છે કારણ કે આ વખતે આલિયા ભટ્ટ રેડ કાર્પેટ પર જવા મળી ત્યારે તેણે ઐશ્વર્યા રાયને રિપ્લેસ કરી એવી સોશિયલ મીડિયામાં વાતો થવા લાગી હતી પરંતુ હવે ઐશ્વર્યા રાય વિશે જે સમાચાર આવી રહ્યા છે તે જાણીને અભિનેત્રીના ચાહકો ખુશ થઈ જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/will-aishwarya-rai-be-seen-at-the-prestigious-cannes-film-festival-this-time-478596 ",
-    "time": "2026-05-20T07:59:42.000Z"
   }
 ];

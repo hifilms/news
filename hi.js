@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI bans smart sunglasses in PMOA for IPL 2026, violators to be hit with penalties",
+    "desc": "The Board of Control for Cricket in India's Anti-Corruption Unit has banned the usage of smart sunglasses by players and match officials in the Players and Match Officials Area (PMOA), due to their advanced communication...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-bans-smart-sunglasses-in-pmoa-for-ipl-2026-violators-to-be-hit-with-penalties-2026-05-29-1042888",
+    "time": "2026-05-29T05:54:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi to lead Argentina in FIFA World Cup 2026 as icon set for his sixth appearance",
+    "desc": "Lionel Messi is set to make his sixth FIFA World Cup appearance as he has been named to lead Argentina for the upcoming showpiece that kicks off on June 12. There was speculation about his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-to-lead-argentina-in-fifa-world-cup-2026-as-icon-set-for-his-sixth-appearance-2026-05-29-1042882",
+    "time": "2026-05-29T04:05:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi set to break huge Andre Russell record after downing Chris Gayle's feat",
     "desc": "Teenage sensation Vaibhav Sooryavanshi is on the threshold of another huge record as Rajasthan Royals gear up to face Gujarat Titans in Qualifier 2 of the Indian Premier League 2026 on Friday, May 29. Sooryavanshi...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/debate-around-vaibhav-sooryavanshi-s-age-must-end-urges-gujarat-titans-coach-parthiv-patel-2026-05-28-1042845",
     "time": "2026-05-28T15:07:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner crashes out of second round French Open as Argentina's Juan Cerundolo pulls off stunning win",
-    "desc": "World No. 1 Jannik Sinner suffered a shock exit from the French Open after losing 6-3, 6-2, 5-7, 1-6 and 1-6 to Argentina’s Juan Manuel Cerundolo in the second round at Roland Garros on Thursday. Sinner appeared...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-crashes-out-of-second-round-french-open-as-argentina-s-juan-cerundolo-pulls-off-stunning-win-2026-05-28-1042837",
-    "time": "2026-05-28T13:46:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC announces all-female panel of match officials for Women's T20 World Cup, four Indians selected",
-    "desc": "The International Cricket Council (ICC) has announced 18 match officials for the upcoming Women’s T20 World Cup 2026, scheduled to begin on June 12 in England and Wales. It will mark the third instance when...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-all-female-panel-of-match-officials-for-women-s-t20-world-cup-four-indians-selected-2026-05-28-1042833",
-    "time": "2026-05-28T12:30:22.000Z"
   }
 ];
