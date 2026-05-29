@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rishabh Pant quits LSG captaincy after IPL 2026; What exactly went wrong?",
+    "desc": "Rishabh Pant has stepped down as Lucknow Super Giants captain following the IPL 2026 season. During his two-year stint, LSG failed to secure a playoff berth, managing only 10 wins under his leadership. The franchise...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-quits-lsg-captaincy-after-ipl-2026-what-exactly-went-wrong-2026-05-29-1042929",
+    "time": "2026-05-29T11:45:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 players who can replace Hardik Pandya as Mumbai Indians captain in IPL 2027",
+    "desc": "All signs indicate that Mumbai Indians are set to sack Hardik Pandya as their captain in the upcoming edition of the IPL. After helping Gujarat Titans win the 2022 edition of the cash-rich league and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-hardik-pandya-as-mumbai-indians-captain-in-ipl-2027-2026-05-29-1042926",
+    "time": "2026-05-29T11:23:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at MYS Int'l Cricket Stadium in Mullanpur play?",
+    "desc": "After a dominating win over Sunrisers Hyderabad in the IPL 2026 Eliminator, Rajasthan Royals will now take on Gujarat Titans in Qualifier 2. The winner of the match will go on to play Royal Challengers...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rr-pitch-report-how-will-surface-at-mys-int-l-cricket-stadium-in-mullanpur-play-2026-05-29-1042921",
+    "time": "2026-05-29T10:21:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mullanpur, New Chandigarh weather: Will rain play spoilsport in GT vs RR IPL 2026 Qualifier 2?",
+    "desc": "Weather in Mullanpur, New Chandigarh, will be in focus when the Gujarat Titans take on the Rajasthan Royals in Qualifier 2 of the Indian Premier League 2026 on Friday, May 29. Apart from Vaibhav Sooryavanshi's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mullanpur-new-chandigarh-weather-will-rain-play-spoilsport-in-gt-vs-rr-ipl-2026-qualifier-2-2026-05-29-1042916",
+    "time": "2026-05-29T09:22:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinesh Phogat given nod to participate in Asian Games trials by Supreme Court",
+    "desc": "The Supreme Court allowed wrestler Vinesh Phogat to participate in the Asian Games trials, refusing to stay a Delhi High Court order that granted relief to her. In the petition filed by the Wrestling Federation...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-given-nod-to-participate-in-asian-games-trials-by-supreme-court-2026-05-29-1042907",
+    "time": "2026-05-29T08:38:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Team's win more important than my century; want to lift IPL title': Vaibhav Sooryavanshi ahead of Qualifier 2",
+    "desc": "Vaibhav Sooryavanshi has called the team's win is far more important for him than his centuries, double centuries or even triple hundreds. Sooryavanshi has missed two centuries by a whisker after getting dismissed in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/teams-win-more-important-than-my-century-want-to-lift-ipl-title-vaibhav-sooryavanshi-ahead-of-qualifier-2-2026-05-29-1042901",
+    "time": "2026-05-29T07:55:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RR's batting might up against GT's disciplined bowling in fight for IPL 2026 final",
+    "desc": "The batting might of the Rajasthan Royals will be up against arguably the best bowling side of the tournament, the Gujarat Titans, in Qualifier 2 of the Indian Premier League 2026. It will be some...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rrs-batting-might-up-against-gts-disciplined-bowling-in-fight-for-ipl-2026-final-2026-05-29-1042898",
+    "time": "2026-05-29T07:17:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI bans smart sunglasses in PMOA for IPL 2026, violators to be hit with penalties",
     "desc": "The Board of Control for Cricket in India's Anti-Corruption Unit has banned the usage of smart sunglasses by players and match officials in the Players and Match Officials Area (PMOA), due to their advanced communication...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-set-to-break-huge-andre-russell-record-after-downing-chris-gayles-feat-2026-05-29-1042872",
     "time": "2026-05-29T02:33:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya's captaincy at Mumbai Indians set to end, his place in team in doubt as MI review poor season",
-    "desc": "Hardik Pandya's days as captain of the Mumbai Indians are reportedly set to end as the franchise's think tank will review the poor season, where MI finished ninth in the IPL 2026 points table. Hardik...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandyas-captaincy-at-mumbai-indians-set-to-end-his-place-in-team-in-doubt-as-mi-review-poor-season-2026-05-29-1042870",
-    "time": "2026-05-29T01:52:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "For second time in 20 years! Nandni Sharma achieves huge record on debut as India beat England in T20I opener",
-    "desc": "Nandni Sharma, Jemimah Rodrigues and Yastika Bhatia starred as India defeated England in the first T20I of their three-match series on Thursday, May 28, at County Ground, Chelmsford. Nandni sizzled with three wickets as she...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/for-second-time-in-20-years-nandni-sharma-achieves-huge-record-on-debut-as-india-beat-england-in-t20i-opener-2026-05-29-1042868",
-    "time": "2026-05-29T01:21:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former cricketer back Abhishek, Samson as T20I openers despite Vaibhav Sooryavanshi's historic IPL season",
-    "desc": "Former India batter Aakash Chopra has urged selectors not to rush Vaibhav Suryavanshi into the national team despite the Rajasthan Royals opener’s sensational IPL 2026 campaign. His remarks came just after the 15-year-old produced another...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-cricketer-back-abhishek-samson-as-t20i-openers-despite-vaibhav-sooryavanshi-s-historic-ipl-season-2026-05-28-1042857",
-    "time": "2026-05-28T18:01:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is captain Harmanpreet Kaur not playing vs England in first T20I in Chelmsford?",
-    "desc": "India have rested captain Harmanpreet Kaur from the first T20I against England at the County Ground in Chelmsford. In her absence, Smriti Mandha is leading the side. The stand-in captain confirmed that Harmanpreet is perfectly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-captain-harmanpreet-kaur-not-playing-vs-england-in-first-t20i-in-chelmsford-2026-05-28-1042855",
-    "time": "2026-05-28T17:29:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies announce squad for T20 World Cup 2026, Hayley Matthews named captain",
-    "desc": "Cricket West Indies announced a 15-member squad for the upcoming Women’s T20 World Cup 2026, with Hayley Matthews set to captain the side. They will enter the competition aiming to reclaim the title they last...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-announce-squad-for-t20-world-cup-2026-hayley-matthews-named-captain-2026-05-28-1042851",
-    "time": "2026-05-28T16:40:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Juan Manuel Cerundolo? Rafael Nadal fan eliminates World no 1 Jannik Sinner from French Open",
-    "desc": "Juan Manuel Cerundolo stunned World No. 1 Jannik Sinner in a dramatic five-set encounter at Roland Garros. The Argentine produced one of the standout results of this French Open, as he eliminated the favourite Sinner...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/who-is-juan-manuel-cerundolo-rafael-nadal-fan-eliminates-world-no-1-jannik-sinner-from-french-open-2026-05-28-1042848",
-    "time": "2026-05-28T15:42:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Debate around Vaibhav Sooryavanshi's age must end, urges Gujarat Titans coach Parthiv Patel",
-    "desc": "Gujarat Titans assistant coach Parthiv Patel has called for an end to discussions surrounding Vaibhav Sooryavanshi’s age, saying the focus should remain on the Rajasthan Royals opener’s performances ahead of Qualifier 2. Notably, Parthiv’s comments...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/debate-around-vaibhav-sooryavanshi-s-age-must-end-urges-gujarat-titans-coach-parthiv-patel-2026-05-28-1042845",
-    "time": "2026-05-28T15:07:45.000Z"
   }
 ];

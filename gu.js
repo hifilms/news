@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "આગ લાગતા પહેલા AC આપે છે આ સંકેત, જો ધ્યાન ન આપ્યું તો થશે મોટું નુકસાન, આ રીતે રહો સુરક્ષિત",
+    "desc": "ગરમી વધવાની સાથે એસીમાં આગ લાગવાની ઘટનાઓમાં પણ વધારો થઈ રહ્યો છે, અનેક નાના-નાના પ્રોબ્લમ છે, જેના કારણે તમારા ACમાં આગ લાગી શકે છે અને મોટી દુર્ધટનાઓ થાય છે, પણ આ નાની બાબતોનું ધ્યાન રાખીને તમે એસીના મોટા ખર્ચાથી બચી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/ac-gives-this-signal-before-a-fire-if-not-paid-attention-then-there-will-be-a-big-loss-stay-safe-like-this-479639 ",
+    "time": "2026-05-29T11:01:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વનડે ફોર્મેટમાં ત્રિપલ સદી... સૌથી ઝડપી 97 રન તો કંઈ નથી, આ હતી વૈભવના કરિયરની સૌથી વિધ્વંસક ઇનિંગ",
+    "desc": "IPL 2026ના ક્વોલિફાયર 2માં શુભમન ગિલની ગુજરાત ટાઇટન્સ અને રિયાન પરાગની રાજસ્થાન રોયલ્સ આમને-સામને હશે. ત્યારે આખી દુનિયાની નજર વૈભવ સૂર્યવશી પર હશે. IPL 2026માં વૈભવ સૂર્યવશીએ શરૂઆતથી તબાહી મચાવી છે. 15 વર્ષીય યુવા વિસ્ફોટક બેટ્સમેને ક્વોલિફાયર-1માં સનરાઇઝર્સ હૈદરાબાદ સામે 29 બોલમાં શાનદાર 97 રન ફટકાર્યા હતા. પરંતુ શું તમે જાણો છો, આ તો કંઈ નથી વૈભવ એક વખત 300 રન પણ ફટકારી ચૂક્યો છે. સૂર્યવંશીએ પોતાની આ સૌથી ખતરનાક ઇનિંગનો ખુલાસો કેવિન પીટરસન સામે કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/triple-century-in-odi-format-97-runs-is-nothing-this-was-the-most-devastating-innings-of-vaibhav-career-479632 ",
+    "time": "2026-05-29T09:50:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ચીનમાં કેમ પુષ્કળ પ્રમાણમાં વંદાઓનો ઉછેર કરવામાં આવે છે? કારણ જાણીને ચોંકી જશો",
+    "desc": "આજકાલ કોકરોચ (વંદો) નામ ખુબ ચર્ચામાં છે. દેશના સીજેઆઈએ કરેલી ટિપ્પણી બાદ રાતોરાત સોશિયલ મીડિયામાં ફૂટી નીકળેલી કોકરોચ જનતા પાર્ટી સોશિયલ મીડિયામાં સેન્સેશન બનેલી છે ત્યારે ચીનમાં પણ મોટા પાયે કોકરોચ પાળવામાં આવે છે. શું તમને તેનું કારણ ખબર છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-cockrach-breeding-or-farming-in-china-is-booming-check-interesting-things-479624 ",
+    "time": "2026-05-29T09:13:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનાના ભાવમાં આજે મોટો ફેરફાર, ગજબ સ્થિતિ જોવા મળી રહી છે, જાણો કેરેટ પ્રમાણે લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં આજે ભારે ઉતાર ચડાવ જોવા મળી રહ્યા છે. એક બાજુ જ્યાં વાયદા બજારમાં ભાવ તૂટ્યા છે તો રિટેલ બજારમાં સોનું અને ચાંદી ઉછાળા મારતા જોવા મળ્યા છે. જાણો આજનો સોના અને ચાંદીનો કેરેટ પ્રમાણે ભાવ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-today-mcx-and-ibja-latest-rates-aaj-no-sona-ane-chandi-no-bhav-479621 ",
+    "time": "2026-05-29T08:12:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 ફાઇનલ પહેલા BCCIએ આ વસ્તુ પર લગાવ્યો પ્રતિબંધ, ખેલાડીઓ માટે ચેતવણી જાહેર",
+    "desc": "ભારતીય ક્રિકેટ કંટ્રોલ બોર્ડે ઈન્ડિયન પ્રીમિય લીગ દરમિયાન ખેલાડીઓના સ્માર્ટ ગ્લાસને લઈને કડક પ્રતિબંધ લગાવવાનો નિર્દેશ આપ્યો છે. આ નિર્ણય એન્ટી-કરપ્શન એન્ડ સિક્યોરિટી યુનિટના રિપોર્ટ બાદ લેવામાં આવ્યો છે. હવે પ્રતિબંધિત એરિયામાં ખેલાડી સ્માર્ટ ગ્લાસનો ઉપયોગ કરી શકશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-issues-new-directive-to-players-ban-on-wearing-smart-glasses-in-restricted-areas-479614 ",
+    "time": "2026-05-29T07:43:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ફેમસ ટીવી સેલિબ્રિટીને થયું બ્રેસ્ટ કેન્સર, પોસ્ટ શેર કરી ફેન્સને કહ્યું, મારા માટે પ્રાર્થના કરો",
+    "desc": "ટીવીના જાણીતા સેલિબ્રિટી અને રિયાલીટી શોના વિનર શેફ પંકજ ભદૌરિયાને બ્રેસ્ટ કેન્સર થયું છે. આ વાત પંજક ભદૌરિયાએ સોશિયલ મીડિયા દ્વારા કંફર્મ કરી છે. સાથે જ તેણે ઈંસ્ટાગ્રામ સ્ટોરી શેર કરી જણાવ્યું હતું કે 29 મે ના રોજ તેની સર્જરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/tv-celebrity-and-master-chef-show-winner-pankaj-bhadouria-diagnosed-breast-cancer-479613 ",
+    "time": "2026-05-29T07:22:16.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ઓછા EMI નો મતલબ હંમેશા સસ્તી લોન નહીં, બેંકની આ &amp;#039;ગેમથી બચો&amp;#039;, ઘટશે વ્યાજનું ભારણ",
     "desc": "મોટા ભાગના લોકો લોન લેવા સમયે માત્ર ઈએમઆઈ જોઈ નિર્ણય કરવાનું શરૂ કરે છે. જો ઈએમઆઈ બજેટમાં હોય તો તે કોઈ વિલંબ કર્યા વગર લોન લે છે, પરંતુ આ રીત તમારા પર ભારે પડી શકે છે.",
@@ -387,15 +441,6 @@ const newsData_gu = [
     "time": "2026-05-26T15:52:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ચાંદી ખરીદનારાઓ સાવધાન! BISએ આપી ચેતવણી, જરૂર વાંચો આ રિપોર્ટ",
-    "desc": "ભારતમાં ચાંદીના વધતા ભાવ અને રોકાણની માંગ વચ્ચે, એક રિપોર્ટ બહાર આવ્યો છે. ઉદ્યોગ એક્સપર્ટ કહે છે કે ઘણા ચાંદીના બાર, સિક્કા અને દાગીના 999 શુદ્ધતા ધોરણને પૂર્ણ કરતા નથી અને તેમાં નિકલ અને સીસા જેવા પ્રતિબંધિત તત્વો હોય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/silver-buyers-beware-bis-warns-must-read-this-report-479335 ",
-    "time": "2026-05-26T14:25:16.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કર્ણાટકમાં સિદ્ધારમૈયાના શાસનનો અંત? કોંગ્રેસ હાઈકમાન્ડે આપ્યો આદેશ, આગળ શું?",
     "desc": "કર્ણાટકમાં ચાલી રહેલા હાઈ વોલ્ટેજ ડ્રામાનો અંત આવ્યો હોય તેવું લાગી રહ્યું છે. એવા અહેવાલ છે કે કર્ણાટકને નવા મુખ્યમંત્રી મળવા જઈ રહ્યા છે, જ્યારથી સિદ્ધારમૈયાએ કર્ણાટકના CMનું પદ સંભાળ્યું ત્યારથી વિવાદ ચાલી રહ્યો છે.",
@@ -495,15 +540,6 @@ const newsData_gu = [
     "time": "2026-05-26T08:23:06.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ક્વોલિફાયર-1માં બદલાઈ જશે RCBની પ્લેઈંગ-11, વિરાટ સાથે કોણ કરશે ઓપનિંગ ? કેપ્ટન પાટીદારે આપ્યો જવાબ",
-    "desc": "IPL 2026ની પહેલી ક્વોલિફાયરમાં RCB અને ગુજરાત ટાઇટન્સ આમને સામને હશે. સૌથી મોટો પ્રશ્ન એ છે કે આ મેચમાં વિરાટ કોહલીની સાથે RCB માટે કોણ ઓપનિંગ કરશે ? આ ઉપરાંત RCBની પ્લેઈંગ-11 કેવી હશે ? તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-qualifier-1-rcb-playing-11-phil-slat-opening-with-virat-kohli-rajat-patidar-statement-479270 ",
-    "time": "2026-05-26T06:07:38.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કોરોના જેવું લોકડાઉન ફરી લાગશે? ઇબોલાને લઈને દેશમાં હાઈ એલર્ટ, જાણો સરકાર અને DGCAની એડવાઇઝરી",
     "desc": "દેશમાં ઇબોલા વાયરસને લઈને હાઈ એલર્ટ જાહેર કરવામાં આવ્યું છે. જોકે, દેશમાં હાલમાં ઇબોલાનો એક પણ કેસ નથી, તેમ છતાં કેન્દ્રીય સ્વાસ્થ્ય મંત્રી જે.પી. નડ્ડાએ આ સંક્રમણને પહોંચી વળવાની તૈયારીઓ માટે એક હાઈ-લેવલ મીટિંગ બોલાવીને સમીક્ષા કરી અને જરૂરી નિર્દેશો આપ્યા છે. બીજી તરફ, ડાયરેક્ટોરેટ જનરલ ઓફ સિવિલ એવિએશન (DGCA) એ પણ SOP જાહેર કરી છે અને તેનું ચુસ્તપણે પાલન કરવા જણાવ્યું છે.",
@@ -511,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/will-a-covid-style-lockdown-be-reimposed-high-alert-declared-in-the-country-over-ebola-read-the-advisories-issued-479268 ",
     "time": "2026-05-26T05:59:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL વચ્ચે સ્ટાર ક્રિકેટરે અચાનક નિવૃત્તિની કરી જાહેરાત, ધોની અને કોહલીની કેપ્ટનશીપમાં રમી ચૂક્યો છે આ ખેલાડી",
-    "desc": "IPL 2026માં આજથી પ્લેઓફ રાઉન્ડ શરૂ થવાનો છે. તે પહેલા એક મોટા સમાચાર સામે આવ્યા છે. ધોની, રોહિત શર્મા અને વિરાટ કોહલીની કેપ્ટનશીપમાં રમી ચૂકેલા સ્ટાર ખેલાડીએ 35 વર્ષની ઉંમરે અચાનક નિવૃત્તિની જાહેરાત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/cricketer-murugan-ashwin-announces-retirement-from-domestic-cricket-and-ipl-479266 ",
-    "time": "2026-05-26T05:35:56.000Z"
   },
   {
     "cat": "Politics",
@@ -630,15 +657,6 @@ const newsData_gu = [
     "time": "2026-05-24T02:58:37.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "શું તમે AC ખરીદવાનું વિચારી રહ્યા છો? આ 4 વસ્તુઓ ચોક્કસ ચેક કરી લેજો નહીંતર થઈ શકે છે મોટું નુકસાન, જાણો",
-    "desc": "ખોટો એસી પસંદ કરવાથી માત્ર ઠંડક પર જ અસર થતી નથી પણ વીજળીના બિલમાં પણ વધારો થઈ શકે છે. તેથી, ચોક્કસ પરિબળોને ધ્યાનમાં લઈને લેવામાં આવેલ નિર્ણય લાંબા ગાળે વીજળીના બિલ અને આરામ બંનેને ફાયદો કરાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/are-you-thinking-of-buying-an-ac-make-sure-to-check-these-4-things-otherwise-you-may-suffer-big-losses-know-this-479028 ",
-    "time": "2026-05-23T14:40:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રિલીઝ થયાની સાથે જ હીટ થઈ ગઈ આ સીરીઝ, 7 એપિસોડની ક્રાઈમ થ્રિલર સીરીઝ પાછળ પાગલ થયા લોકો",
     "desc": "ક્રાઈમ થ્રિલર સીરીઝ જોવાના શોખીનો માટે zee5 પર 7 એપિસોડની જોરદાર વેબ સીરીઝ રિલીઝ થઈ છે. આ વેબ સીરીઝ રિલીઝ થયાની સાથે જ હીટ થઈ ગઈ છે. જો તમે રેટિંગને ધ્યાનમાં રાખીને પણ વેબ સીરીઝ જુઓ છો તો પણ આ વેબ સીરીઝ 9.1 રેટિંગ સાથે મસ્ટ વોચ છે.",
@@ -664,15 +682,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/who-is-gujarati-film-jayeshbhai-jordaar-fame-hemant-modi-ranveer-singh-co-star-arrested-after-skipping-parole-for-over-a-decade-478809 ",
     "time": "2026-05-23T07:07:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મોટો ઘટસ્ફોટ! અમેરિકી રાષ્ટ્રપતિ ટ્રમ્પની પુત્રી ઈવાંકાની હત્યાની કોશિશ, ચોંકાવનારી વિગતો",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના પરિવાર વિશે એક ચોંકાવનારા સમાચાર આવ્યા છે. તેમની પુત્રી ઈવાંકા ટ્રમ્પની હત્યા માટે થઈ રહેલા ષડયંત્રનો પર્દાફાશ થયો છે. ષડયંત્ર ઘડનારો ઈરાકી નાગરિક હોવાનું કહેવાય છે અને તેને કાસિમ સુલેમાનીની હત્યાનો બદલો લેવો હતો એ વાત સામે આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-irgc-trained-mohammad-al-saadi-wanted-to-kill-donald-trump-daughter-ivanka-trump-478920 ",
-    "time": "2026-05-23T04:05:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -718,14 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tvf-famous-family-comedy-web-series-gullak-season-5-release-date-and-trailer-478644 ",
     "time": "2026-05-20T12:34:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "PM Modi અને Meloni ના વાયરલ વીડિયો પર બોલીવુડની અદાકારોએ કરી મજેદાર કોમેન્ટ્સ, ચેક કરો કોણે શું કહ્યું ?",
-    "desc": "વડાપ્રધાન મોદીએ ઈટલીના પીએમ જોર્જિયા મેલોનીને પારલે મેલોડી ચોકલેટ ગિફ્ટ કરી તેનો વીડિયો જેટલી ઝડપથી વાયરલ થયો એટલી જ ઝડપથી આ વીડિયો પર બોલીવુડના કલાકારો મજેદાર રિએકશન આપી રહ્યા છે. તો ચાલો તમને જણાવીએ આ વાયરલ વીડિયો પણ કોણે શું કોમેન્ટ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/pm-modi-and-meloni-melody-chocolate-video-bollywood-celebs-priyanka-chopra-shweta-tiwari-reaction-on-video-478641 ",
-    "time": "2026-05-20T12:04:59.000Z"
   }
 ];
