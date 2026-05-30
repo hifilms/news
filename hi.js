@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Arne Slot sacked as Liverpool manager; what went wrong and who will be new coach?",
+    "desc": "Liverpool have sacked head coach Arne Slot after the recently concluded Premier League season. In his first year in charge, the Dutch manager helped the Merseyside club win the league title, but what followed led...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arne-slot-sacked-as-liverpool-manager-what-went-wrong-and-who-will-be-new-coach-2026-05-30-1043031",
+    "time": "2026-05-30T12:20:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Unity Cup in India?",
+    "desc": "India's campaign at the 2026 Unity Cup will conclude with a battle for third place against Zimbabwe. Both sides fell short in their respective semi-final encounters at The Valley in London, but will have the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-vs-zimbabwe-live-when-and-where-to-watch-unity-cup-in-india-2026-05-30-1043029",
+    "time": "2026-05-30T11:58:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinesh Phogat's Asian Games dream over after suffering defeat to Meenakshi Goyat in semi-final",
+    "desc": "Meenakshi Goyat defeated Vinesh Phogat 6-4 in the semifinal of the Asian Games trials for women's 53kg category. With that, Vinesh’s dreams of representing India in the Asian Games came to an end. The encounter proved...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-s-asian-games-dream-is-over-after-suffering-defeat-to-meenakshi-goyat-in-semi-final-2026-05-30-1043022",
+    "time": "2026-05-30T11:24:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi included in India's probables for Asian Games; Suryakumar Yadav out, who will captain?",
     "desc": "India have submitted a list of 30 probable players to the Indian Olympic Association for the upcoming Asian Games. One of the biggest talking points from the preliminary group is the inclusion of 15-year-old batter...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-sai-sudharsan-create-t20-world-record-with-167run-partnership-vs-rr-in-qualifier-2-2026-05-30-1042982",
     "time": "2026-05-30T04:50:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WFI allows Vinesh Phogat to compete in 53kg category for Asian Games trails after Supreme Court's verdict",
-    "desc": "The Wrestling Federation of India (WFI) on Saturday allowed Olympian Vinesh Phogat to compete in the Asian Games trials in the 53kg weight category, reversing its stance of preventing her from taking part in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/wfi-allows-vinesh-phogat-to-compete-in-53kg-category-for-asian-games-trails-after-supreme-court-s-verdict-2026-05-30-1042981",
-    "time": "2026-05-30T04:36:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Sai Sudharsan avoid hit-wicket dismissals? GT batter makes admission after RR clash",
-    "desc": "Sai Sudharsan had sliced this to the third-man boundary for a four. GT were going on very well with a record 167-run stand for the opening wicket in their chase of 215. But then, suddenly,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-sai-sudharsan-avoid-hit-wicket-dismissals-gt-batter-makes-admission-after-rr-clash-2026-05-30-1042975",
-    "time": "2026-05-30T02:48:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans recorded highest-ever chase in IPL playoffs, is it the biggest in T20 cricket?",
-    "desc": "Gujarat Titans etched their name into the history books after hunting down the biggest-ever total in the Indian Premier League playoffs. Led by Shubman Gill's sublime 104, GT chased down 215 against the Rajasthan Royals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-recorded-highest-ever-chase-in-ipl-playoffs-is-it-the-biggest-in-t20-cricket-2026-05-30-1042971",
-    "time": "2026-05-30T02:19:59.000Z"
   }
 ];
