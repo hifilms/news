@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "રાજસ્થાન રોયલ્સની હારના 3 સૌથી મોટા &amp;#039;ગુનેગાર&amp;#039;... જેમણે ગુજરાતને અપાવી ફાઇનલની ટિકિટ !",
+    "desc": "રિયાન પરાગની આગેવાની હેઠળની રાજસ્થાન રોયલ્સે આખી સિઝન દરમિયાન અસાધારણ રીતે સારું પ્રદર્શન કર્યું, પરંતુ તેઓ મહત્વપૂર્ણ મેચમાં નિષ્ફળ ગયા. ક્વોલિફાયર-2માં ગુજરાત સામેની હારથી ફાઇનલમાં રમવાનું તેમનું સ્વપ્ન ચકનાચૂર થઈ ગયું. ત્યારે રાજસ્થાનની હારના 3 સૌથી મોટા વિલન કોણ હતા, તેના પર એક નજર કરીએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-gt-vs-rr-3-biggest-culprits-behind-rajasthan-royals-defeat-against-gujarat-titans-479727 ",
+    "time": "2026-05-30T06:18:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "59થી 173 પહોંચી ગઈ ભાજપ.... પંજાબ સ્થાનિક સ્વરાજ્ય ચૂંટણીમાં લગાવી લાંબી છલાંગ",
+    "desc": "પંજાબમાં સ્થાનિક સ્વરાજ્યની ચૂંટણીના પરિણામ જાહેર થઈ ગયા છે. તેમાં આમ આદમી પાર્ટીએ 958 સીટો પર જીત હાસિલ કરી છે. તો ભાજપને 172 સીટો જીતવામાં સફળતા મળી છે. પાછલી ચૂંટણી પ્રમાણે આ વખતે ભાજપે મોટી છલાંગ લગાવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/punjab-nikay-chunav-result-bjp-wins-172-seats-good-news-before-the-assembly-elections-479726 ",
+    "time": "2026-05-30T06:08:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AC ને રિમોટથી બંધ કરાઈ કે સ્વિચથી? મોટાભાગના લોકો આ કરે છે આ ભૂલ",
+    "desc": "શું તમે પણ ACને સીધુ સ્વિચથી બંધ કરો છો? જો હા તો આ આદત તમારા એસીની લાઇફ અને વીજળી બિલ બંને પર અસર કરી શકે છે. જાણો એસીને રિમોટથી બંધ કરવું યોગ્ય છે કે સ્વિચથી, અને વીજળી બચાવવા માટે યોગ્ય શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/should-you-turn-off-the-ac-with-the-remote-or-the-switch-most-people-make-this-big-mistake-479723 ",
+    "time": "2026-05-30T06:04:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1 જૂનથી LPGના બદલાઈ રહ્યા છે નિયમ, સિલિન્ડર થઈ શકે છે કેન્સલ, વિગતો ખાસ જાણો",
+    "desc": "પશ્ચિમ એશિયાના સંકટના ભરડામાં અનેક દેશો આવ્યા છે. ભારતમાં લોકોને તકલીફ ન પડે એટલા માટે કેટલાક ફેરફાર પણ કરવામાં આવ્યા છે. જેમાં એક જે ફેરફાર કરાયો છે તે હવે આગામી મહિનાની 1 તારીખ એટલે કે 1લી જૂનથી અમલી થઈ રહ્યો છે. આ ફેરફાર એલપીજી સિલિન્ડર કનેક્શન સંલગ્ન છે. તેના વિશે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-gas-big-update-connection-rule-what-other-changes-from-june-1-check-details-ulility-news-479724 ",
+    "time": "2026-05-30T06:03:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "વૃદ્ધાવસ્થા દૂર હડસેલી 120 વર્ષ સુધી જીવવા પુતિને બનાવ્યો જોરદાર પ્લાન! 24,69,09,00,00,000 નો કરશે ખર્ચો",
+    "desc": "મૃત્યુલોકમાં કોણ અમરપટ્ટો લઈને આવ્યું છે? પરંતુ આમ છતાં લાંબુ જીવન અને યુવાઅવસ્થા ટકાવી રાખવા માટે જાત જાતના અખતરાઓ થતા રહે છે. એક રિપોર્ટમાં દાવો કરાયો છે કે રશિયાના રાષ્ટ્રપતિ વ્લાદિમિર પુતિને એક ગુપ્ત એન્ટી એજિંગ પ્રોજેક્ટમાં 26 અબજ ડોલર જેટલું રોકાણ કર્યું છે. આ પ્રોજેક્ટની વિગતો ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/russian-president-vladimir-putin-26-billion-dollar-anti-aging-research-project-details-479715 ",
+    "time": "2026-05-30T05:31:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભયાનક અલ નીનોની જૂનથી જોવા મળશે અસર, ગરમીના તૂટશે રેકોર્ડ! IMDનું ચોમાસા પર ડરામણું અપડેટ",
+    "desc": "સમગ્ર દેશમાં કાળઝાળ ગરમી વચ્ચે એક બાજુ જ્યાં વરસાદની કાગડોળે રાહ જોવાઈ રહી છે ત્યાં IMD દ્વારા ચોમાસા અને અલ નીનો વિશે ચિંતાજનક વાત કરવામાં આવી છે. જો કે આ બધા વચ્ચે ગુજરાતમાં લોકોને ગરમીથી રાહત મળી શકે છે કારણ કે રાજ્ય હવામાન વિભાગે આજથી પાંચ દિવસ વરસાદની આગાહી કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/imd-latest-update-el-nino-monsoon-2026-gujarat-weather-forecast-rain-prediction-for-next-few-days-479703 ",
+    "time": "2026-05-30T03:12:27.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "જ્યારે દેબ મુખર્જીના કારણે રસ્તા પર આવી ગયો હતો ફરાહ ખાનનો પરિવાર, ફરાહ ખાને પોતે કર્યો ખુલાસો",
     "desc": "આજે તમને એક એવી ફિલ્મ વિશે જણાવીએ જે શુક્રવારે રિલીઝ થઈ અને સોમવાર સુધીમાં ફરાહ ખાનનો પરિવાર રસ્તા પર આવી ગયો હતો. જે ફરાહ ખાન આજે બોલીવુડમાં ખાસ સ્થાન ધરાવે છે, એક સમયે તેનો પરિવાર સૌથી મોટા આર્થિક સંકટમાં ફસાઈ ગયો હતો. આ ફિલ્મ કઈ હતી અને શું થયું હતું તે સમયે ચાલો તમને જણાવીએ.",
@@ -468,15 +522,6 @@ const newsData_gu = [
     "time": "2026-05-27T06:09:56.000Z"
   },
   {
-    "cat": "Business",
-    "title": "પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં આજે ભાવ વધ્યા કે ઘટ્યા",
-    "desc": "બુધવાર, 27 મેના રોજ, દેશભરમાં પેટ્રોલ અને ડીઝલના ભાવ જાહેર કરવામાં આવ્યા છે. સરકારી ઓઈલ કંપનીઓએ વહેલી સવારે પેટ્રોલ-ડીઝલના ભાવ જાહેર કર્યા હતા, ત્યારે આ લેખમાં જાણીશું કે, તમારા શહેરમાં આજના ભાવમાં વધારો થયો છે કે ઘટાડો કે પછી ભાવ સ્થિર રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-know-latest-fuel-rate-in-ahmedabad-479366 ",
-    "time": "2026-05-27T06:08:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "RCB સામે ગુજરાત ટાઈટન્સ કેમ હાર્યું ? જાણો શુભમન ગિલે કોના પર ફોડ્યું હારનું ઠીકરું",
     "desc": "IPL 2026ના ક્વોલિફાયર-1માં RCBએ ગુજરાત ટાઇટન્સને એકતરફી મુકાબલામાં હરાવીને ફાઇનલમાં સ્થાન મેળવ્યું. રજત પાટીદારની માત્ર 33 બોલમાં અણનમ 93 રનની વિસ્ફોટક ઇનિંગ અને બોલરોના વિનાશક પ્રદર્શન સામે GT સંપૂર્ણપણે ભાંગી પડ્યું. હાર બાદ કેપ્ટન શુભમન ગિલે હારના મુખ્ય કારણો જણાવ્યા હતા.",
@@ -502,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/know-what-utkarsh-shrivastava-of-gorakhpur-did-after-being-cheated-by-his-girlfriend-479337 ",
     "time": "2026-05-26T15:52:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કર્ણાટકમાં સિદ્ધારમૈયાના શાસનનો અંત? કોંગ્રેસ હાઈકમાન્ડે આપ્યો આદેશ, આગળ શું?",
-    "desc": "કર્ણાટકમાં ચાલી રહેલા હાઈ વોલ્ટેજ ડ્રામાનો અંત આવ્યો હોય તેવું લાગી રહ્યું છે. એવા અહેવાલ છે કે કર્ણાટકને નવા મુખ્યમંત્રી મળવા જઈ રહ્યા છે, જ્યારથી સિદ્ધારમૈયાએ કર્ણાટકના CMનું પદ સંભાળ્યું ત્યારથી વિવાદ ચાલી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/end-of-siddaramaiahs-rule-in-karnataka-congress-high-command-has-given-an-order-what-next-479328 ",
-    "time": "2026-05-26T13:47:44.000Z"
   },
   {
     "cat": "Tech",
@@ -540,15 +576,6 @@ const newsData_gu = [
     "time": "2026-05-26T12:24:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "તાજમહેલનું ઈરાન સાથે શું છે કનેક્શન? જેને લઈને તેહરાને અમેરિકાના વિદેશ મંત્રી પર કર્યો કટાક્ષ",
-    "desc": "તાજમહેલનું ઈરાન કનેક્શન તેની ફારસી વાસ્તુકલા અને મુમતાજ મહલના ઈરાની મૂળના હોવા સાથે જોડાયેલું છે. ભારત પ્રવાસે આવેલા અમેરિકાના વિદેશ મંત્રી માર્કો રુબિયોએ તાજમહેલના વખાણ કર્યા હતા, જેના પર તેહરાને કટાક્ષ કરતા કહ્યું કે, જો તેમને ઈતિહાસની થોડી પણ જાણકારી હોત, તો તેઓ એ ફારસી અને ઈરાની વારસાની પ્રશંસા કરે છે જેને અમેરિકા સતત નિશાન બનાવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-is-the-connection-of-taj-mahal-with-iran-tehran-taunted-the-us-secretary-of-state-regarding-this-479311 ",
-    "time": "2026-05-26T11:25:38.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "દુનિયામાં સૌથી વધારે બાઈક ચલાવનારો દેશ કયો છે ? ભારતમાં વધુ વસ્તી હોવા છતાં પણ છે પાછળ, જાણો કોણ છે નંબર 1",
     "desc": "વિશ્વના ઘણા દેશોમાં મોટરસાયકલ રોજિંદા જીવનનો એક અભિન્ન ભાગ બની ગઈ છે. એક નવા અહેવાલમાં એશિયન દેશોમાં તેમનું વર્ચસ્વ છતું થયું છે. ભારત વિશ્વના સૌથી મોટા ટુ-વ્હીલર બજારોમાંનું એક છે, જ્યાં લાખો લોકો દરરોજ બાઇક અને સ્કૂટરનો ઉપયોગ કરે છે, પરંતુ અન્ય દેશો બીજા અને ત્રીજા ક્રમે છે.",
@@ -556,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/which-country-has-the-most-bike-riders-in-the-world-despite-having-a-large-population-india-is-still-behind-know-who-is-number-1-479308 ",
     "time": "2026-05-26T11:17:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાત્રે 10 વાગ્યા બાદ ટ્રેનમાં ન કરો આ 6 કામ, બાકી એક ભૂલ અને આવી જશે આફત",
-    "desc": "ટ્રેનની સફર અને રાતની ટ્રેન... બારીમાંથી આવતી ઠંડી હવા અને ટ્રેનના અવાજ વચ્ચે શાંતિથી આરામ... હંમેશા લાંબી સફર લોકો ટ્રેનમાં એટલા માટે કરે છે, જેથી આરામ કરી શકાય. પરંતુ શું તમે ક્યારેય વિચાર્યું છે કે ટ્રેનમાં રાત્રે સફર કરવાના કેટલાક નિયમ પણ હોય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/indian-railway-night-rules-for-passenger-dont-do-these-6-things-on-the-train-after-10-pm-479310 ",
-    "time": "2026-05-26T11:01:12.000Z"
   },
   {
     "cat": "Tech",
@@ -664,15 +682,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/big-update-on-iran-us-deal-will-iran-give-up-its-enriched-uranium-479060 ",
     "time": "2026-05-24T09:46:26.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હવે પેટ્રોલનું ટેન્શન ખતમ ! મારુતિ આ દિવસે લોન્ચ કરશે દેશની પહેલી ફ્લેક્સ ફ્યૂઅલ કાર",
-    "desc": "મારુતિ સુઝુકી ભારતની પ્રથમ ફ્લેક્સ-ફ્યુઅલ કાર લોન્ચ કરવાની તૈયારી કરી રહી છે, જે 100% ઇથેનોલ (E100) પર ચાલે છે. આ કાર પેટ્રોલ અને ડીઝલ પર નિર્ભરતા ઘટાડવા તરફ એક મોટું પગલું છે. કંપનીએ અગાઉ E85 ફ્લેક્સ-ફ્યુઅલ મોડેલનું પ્રદર્શન કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/now-petrol-tension-is-over-maruti-will-launch-the-country-first-flex-fuel-car-on-this-day-479091 ",
-    "time": "2026-05-24T09:29:14.000Z"
   },
   {
     "cat": "Entertainment",

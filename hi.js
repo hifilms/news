@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How long it takes to heal from the issue that once Tendulkar dealt with?",
+    "desc": "Ravindra Jadeja was dealt with an injury scare as he walked off the field during Rajasthan Royals' IPL 2026 Qualifier 2 against the Gujarat Titans in Mullanpur, New Chandigarh. Jadeja was batting along with Vaibhav...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-tennis-elbow-injury-how-long-it-takes-to-heal-from-the-issue-that-once-tendulkar-dealt-with-2026-05-30-1042991",
+    "time": "2026-05-30T06:06:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill-Sai Sudharsan create T20 world record with 167-run partnership vs RR in Qualifier 2",
+    "desc": "Gujarat Titans captain Shubman Gill and fellow opener Sai Sudharsan shattered a huge T20 world record with their another batting masterclass on Friday, May 29. The two openers, who have been the batting lynchpins for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-sai-sudharsan-create-t20-world-record-with-167run-partnership-vs-rr-in-qualifier-2-2026-05-30-1042982",
+    "time": "2026-05-30T04:50:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WFI allows Vinesh Phogat to compete in 53kg category for Asian Games trails after Supreme Court's verdict",
+    "desc": "The Wrestling Federation of India (WFI) on Saturday allowed Olympian Vinesh Phogat to compete in the Asian Games trials in the 53kg weight category, reversing its stance of preventing her from taking part in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/wfi-allows-vinesh-phogat-to-compete-in-53kg-category-for-asian-games-trails-after-supreme-court-s-verdict-2026-05-30-1042981",
+    "time": "2026-05-30T04:36:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can Sai Sudharsan avoid hit-wicket dismissals? GT batter makes admission after RR clash",
+    "desc": "Sai Sudharsan had sliced this to the third-man boundary for a four. GT were going on very well with a record 167-run stand for the opening wicket in their chase of 215. But then, suddenly,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-sai-sudharsan-avoid-hit-wicket-dismissals-gt-batter-makes-admission-after-rr-clash-2026-05-30-1042975",
+    "time": "2026-05-30T02:48:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gujarat Titans recorded highest-ever chase in IPL playoffs, is it the biggest in T20 cricket?",
     "desc": "Gujarat Titans etched their name into the history books after hunting down the biggest-ever total in the Indian Premier League playoffs. Led by Shubman Gill's sublime 104, GT chased down 215 against the Rajasthan Royals...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-reveals-amol-muzumdar-s-fiery-speech-that-transformed-india-s-odi-wc-2023-campaign-2026-05-29-1042952",
     "time": "2026-05-29T16:49:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi breaks Andre Russell's IPL record, misses century by just four runs",
-    "desc": "It’s fair to say that we are all living in Vaibhav Sooryavanshi’s world. After playing a blistering knock of 97 runs off 29 balls in the previous match, the 15-year-old showed some maturity in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-andre-russell-s-ipl-record-misses-century-by-just-four-runs-2026-05-29-1042951",
-    "time": "2026-05-29T16:08:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi becomes first cricketer in IPL history to register major record",
-    "desc": "Vaibhav Sooryavanshi has been a force to reckon with in the ongoing IPL 2026. The 15-year-old has broken some of the major records this season and against Gujarat Titans in Qualifier 2, he became the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-becomes-first-cricketer-in-ipl-history-to-register-major-record-2026-05-29-1042942",
-    "time": "2026-05-29T14:42:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did the toss happen twice during GT vs RR clash in IPL 2026? WATCH VIDEO",
-    "desc": "A rare controversy unfolded during the IPL 2026 Qualifier 2 between Gujarat Titans and Rajasthan Royals when the toss had to be conducted twice. Shubman Gill initially flipped the coin, after which Riyan Parag called...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-the-toss-happen-twice-during-gt-vs-rr-clash-in-ipl-2026-2026-05-29-1042939",
-    "time": "2026-05-29T13:40:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans beat Rajasthan Royals, set date with RCB in final",
-    "desc": "Rajasthan Royals arrive in Qualifier 2 carrying momentum, noise and a teenage sensation who has suddenly become the biggest attraction of the IPL playoffs. Vaibhav Sooryavanshi’s breathtaking assault against Sunrisers Hyderabad has shifted attention sharply...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rr-ipl-qualifier-2-cricket-score-live-updates-gujarat-titans-rajasthan-royals-match-today-at-pca-new-cricket-stadium-2026-05-29-1042933",
-    "time": "2026-05-29T12:27:38.000Z"
   }
 ];
