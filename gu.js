@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "જ્યારે દેબ મુખર્જીના કારણે રસ્તા પર આવી ગયો હતો ફરાહ ખાનનો પરિવાર, ફરાહ ખાને પોતે કર્યો ખુલાસો",
+    "desc": "આજે તમને એક એવી ફિલ્મ વિશે જણાવીએ જે શુક્રવારે રિલીઝ થઈ અને સોમવાર સુધીમાં ફરાહ ખાનનો પરિવાર રસ્તા પર આવી ગયો હતો. જે ફરાહ ખાન આજે બોલીવુડમાં ખાસ સ્થાન ધરાવે છે, એક સમયે તેનો પરિવાર સૌથી મોટા આર્થિક સંકટમાં ફસાઈ ગયો હતો. આ ફિલ્મ કઈ હતી અને શું થયું હતું તે સમયે ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/farah-khan-family-became-poor-overnight-because-of-deb-mukherjee-movie-aisa-bhi-hota-hai-479701 ",
+    "time": "2026-05-30T02:26:37.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "રાજસ્થાનને હરાવીને IPL 2026 ની ફાઇનલમાં પહોંચ્યું ગુજરાત, અમદાવાદમાં આ દિવસે RCB સામે રમશે ફાઈનલ?",
     "desc": "IPL 2026 ક્વોલિફાયર 2 માં, ગુજરાત ટાઇટન્સે રાજસ્થાન રોયલ્સને 7 વિકેટથી હરાવીને ફાઇનલમાં પોતાનું સ્થાન નિશ્ચિત કર્યું. હવે તેઓ ટાઇટલ મુકાબલામાં રોયલ ચેલેન્જર્સ બેંગ્લોર સામે ટકરાશે. IPL 2026 ફાઇનલ ક્યારે અને ક્યાં રમાશે તે જાણો.",
@@ -736,14 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-upcoming-movie-bandar-trailer-watch-now-film-releasing-on-5-june-2026-box-office-478742 ",
     "time": "2026-05-21T12:07:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રિયલ ક્રાઈમ સ્ટોરી પર આધારિત Zee5 ની સાઈકો થ્રિલર, આ ફિલ્મ જોતાં જોતાં હાથ-પગ ઠંડા પડી જશે",
-    "desc": "જો તમને ડાર્ક, સાઈકોથ્રિલર અને સત્ય ઘટના પર આધારિત ફિલ્મો જોવાનો શોખ છે તો zee5 પર આજે જ આ ફિલ્મ જુઓ. આ ફિલ્મમાં કોઈ હીરો નથી પણ ફિલ્મની અભિનેત્રીઓએ એટલો અદ્ભુત અભિનય કર્યો છે કે તેને જોતાં જોતાં તમારા હાથ-પગ ઠંડા પડી જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/underrated-movie-of-zee5-posham-pa-dark-thriller-movie-based-on-true-murder-crime-hindi-thriller-movie-zee5-478704 ",
-    "time": "2026-05-21T08:50:24.000Z"
   }
 ];

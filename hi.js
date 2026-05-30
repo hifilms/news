@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gujarat Titans recorded highest-ever chase in IPL playoffs, is it the biggest in T20 cricket?",
+    "desc": "Gujarat Titans etched their name into the history books after hunting down the biggest-ever total in the Indian Premier League playoffs. Led by Shubman Gill's sublime 104, GT chased down 215 against the Rajasthan Royals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-recorded-highest-ever-chase-in-ipl-playoffs-is-it-the-biggest-in-t20-cricket-2026-05-30-1042971",
+    "time": "2026-05-30T02:19:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill becomes first captain to register massive IPL record after leading GT to IPL 2026 final",
+    "desc": "Gujarat Titans captain Shubman Gill played a stellar knock to guide his team to the final of the Indian Premier League 2026 after the seven-wicket win over Rajasthan Royals in the Qualifier 2 on Friday,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-becomes-first-captain-to-register-massive-ipl-record-after-leading-gt-to-ipl-2026-final-2026-05-30-1042968",
+    "time": "2026-05-30T01:37:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi breaks down in tears after Rajasthan Royals fail to qualify for IPL 2026 final",
     "desc": "Rajasthan Royals’ IPL 2026 journey came to a heartbreaking end in Mullanpur on Friday night and the emotions of the moment were written all over Vaibhav Sooryavanshi’s face after the match. Minutes after Gujarat Titans...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rr-ipl-qualifier-2-cricket-score-live-updates-gujarat-titans-rajasthan-royals-match-today-at-pca-new-cricket-stadium-2026-05-29-1042933",
     "time": "2026-05-29T12:27:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What exactly went wrong?",
-    "desc": "Rishabh Pant has stepped down as Lucknow Super Giants captain following the IPL 2026 season. During his two-year stint, LSG failed to secure a playoff berth, managing only 10 wins under his leadership. The franchise...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-quits-lsg-captaincy-after-ipl-2026-what-exactly-went-wrong-2026-05-29-1042929",
-    "time": "2026-05-29T11:45:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 players who can replace Hardik Pandya as Mumbai Indians captain in IPL 2027",
-    "desc": "All signs indicate that Mumbai Indians are set to sack Hardik Pandya as their captain in the upcoming edition of the IPL. After helping Gujarat Titans win the 2022 edition of the cash-rich league and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-hardik-pandya-as-mumbai-indians-captain-in-ipl-2027-2026-05-29-1042926",
-    "time": "2026-05-29T11:23:07.000Z"
   }
 ];
