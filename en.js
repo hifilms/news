@@ -1,6 +1,42 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Bobby Deol reveals both his sons want to become actors",
+    "desc": "Bobby Deol has revealed that both his sons, Aryaman and Dharam, are keen on pursuing careers in the entertainment industry, despite his efforts to expose them to different career paths. Speaking on Aap Ki Adalat, Bobby opened up about his children's interests, their talents and why the lure of cinema continues to attract the next generation of the Deol family.",
+    "img": "https://static.toiimg.com/photo/msid-131415480,imgsize-39466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-reveals-both-his-sons-aryaman-and-dharam-want-to-become-actors-i-thought-my-elder-son-would-settle-in-america/articleshow/131415462.cms",
+    "time": "2026-05-30T20:48:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Lebanon PM denounces Israeli campaign as fresh strikes hit south",
+    "desc": "A day after Israeli Prime Minister Benjamin Netanyahu said his forces had advanced deeper into Lebanon, his counterpart Nawaf Salam warned the country was facing a \"dangerous\" escalation, and called for \"a swift and real ceasefire\"",
+    "img": "https://th-i.thgim.com/public/incoming/1p8ioh/article71042713.ece/alternates/LANDSCAPE_1200/France_Lebanon_11945.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/lebanon-pm-denounces-israeli-campaign-as-fresh-strikes-hit-south/article71042707.ece",
+    "time": "2026-05-30T20:15:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gaurav deliberately disappeared from SM before Dhurandhar",
+    "desc": "Actor and content creator Gaurav Gera has received widespread appreciation for his performance in Aditya Dhar's Dhurandhar starring Ranveer Singh in the lead, but the actor says the film's success has not changed his outlook towards fame, ambition, or the way he approaches his career. Gera reflected on the overwhelming response to the film, the increase in offers, the debate around the film being labelled \"propaganda\" by some sections online, and why he consciously stayed away from the spotlight before the movie's release.",
+    "img": "https://static.toiimg.com/photo/msid-131415425,imgsize-67314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gaurav-gera-reveals-he-deliberately-disappeared-from-social-media-before-dhurandhar-ahankaar-ko-check-mein-rakhna-zaroori-hai/articleshow/131415417.cms",
+    "time": "2026-05-30T20:05:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSG retain Champions League title after penalty shootout win over Arsenal",
+    "desc": "Paris Saint-Germain clinched a historic second consecutive Champions League title, defeating Arsenal 4-3 on penalties after a 1-1 draw. Despite an early Arsenal lead, PSG fought back, with Dembélé equalizing from the spot. Missed penalties from Eze and Gabriel ultimately cost Arsenal, handing PSG another European crown and cementing Luis Enrique's managerial legacy.",
+    "img": "https://static.toiimg.com/photo/msid-131415459,imgsize-121436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/psg-retain-champions-league-title-after-penalty-shootout-win-over-arsenal/articleshow/131415240.cms",
+    "time": "2026-05-30T19:24:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Where is Jasmine Dhunna? Deepak Ramsay breaks silence on mystery",
     "desc": "Nearly four decades after Veerana turned her into one of Bollywood’s most unforgettable cult figures, actress Jasmine Dhunna continues to remain one of the industry's biggest mysteries. Now, filmmaker Deepak Ramsay has opened up about the actress’ sudden disappearance, revealing that even the Ramsay family no longer knows where she is.",
     "img": "https://static.toiimg.com/photo/msid-131414866,imgsize-48328.cms",
@@ -25,6 +61,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-peter-dinklage-i-waited-a-long-time-before-i-gave-myself-permission-to-fail/articleshow/131413653.cms",
     "time": "2026-05-30T17:46:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hormuz",
+    "desc": "The waterway connecting the Persian Gulf to the Arabian Sea has emerged as the most consequential battleground of the U.S.-Israeli war on Iran, with Tehran effectively taking control of the route and rattling energy markets and the global economy",
+    "img": "https://th-i.thgim.com/public/news/national/l7g0nw/article71042503.ece/alternates/LANDSCAPE_1200/TH31_U.S.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/profile/hormuz-the-strait-where-america-stalled/article71042506.ece",
+    "time": "2026-05-30T17:34:56.000Z"
   },
   {
     "cat": "Business",
@@ -333,15 +378,6 @@ const newsData_en = [
     "time": "2026-05-30T12:04:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rs 200-crore extortion case: Sukesh Chandrashekhar, Jacqueline Fernandez among 17 charged with money laundering",
-    "desc": "A Delhi court has ordered charges to be framed against 17 individuals, including Sukesh Chandrashekhar and Jacqueline Fernandez, in a Rs 200-crore extortion and money laundering case. The Enforcement Directorate's probe revealed Chandrashekhar allegedly ran a criminal network from jail, extorting vast sums. Proceeds were used for lavish purchases, leading to this significant legal development.",
-    "img": "https://static.toiimg.com/photo/msid-131409041,imgsize-1257133.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rs-200-crore-extortion-case-sukesh-chandrashekhar-jacqueline-fernandez-among-17-charged-with-money-laundering/articleshow/131409031.cms",
-    "time": "2026-05-30T12:04:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Throw age out of the window’: Rabada's blunt take on Vaibhav Sooryavanshi",
     "desc": "Gujarat Titans bowler Kagiso Rabada lauded Rajasthan Royals' Vaibhav Sooryavanshi. The 15-year-old's IPL 2026 season was marked by fearless batting and sharp reflexes. Sooryavanshi scored 776 runs, leading the tournament charts. Rabada emphasized the youngster's maturity and attacking approach, stating age is irrelevant to his performance. Gujarat Titans secured a spot in the IPL 2026 final.",
@@ -349,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/throw-age-out-of-the-window-kagiso-rabadas-blunt-take-on-vaibhav-sooryavanshi/articleshow/131408615.cms",
     "time": "2026-05-30T11:50:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'They wanted to kill me': TMC's Abhishek Banerjee attacked by mob, eggs &amp; stones hurled",
-    "desc": "Trinamool Congress leader Abhishek Banerjee faced an attack during a visit to Sonarpur South in West Bengal. Stones and eggs were thrown at his convoy. Banerjee was meeting families affected by post-poll violence. He alleged the BJP was behind the incident. This visit marked his first public appearance after the assembly election results.",
-    "img": "https://static.toiimg.com/photo/msid-131409277,imgsize-4866184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-abhishek-banerjee-beaten-stones-and-eggs-hurled-during-visit-to-bengals-sonarpur-tmc-mp-blames-bjp/articleshow/131408629.cms",
-    "time": "2026-05-30T11:48:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -385,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-once-said-he-was-sick-and-tired-of-his-baburao-imagei-would-like-to-get-rid-of-that-image-truly/articleshow/131408362.cms",
     "time": "2026-05-30T11:17:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Hours of uncertainty, then forced exit': CUET UG candidates claim harrowing time at a Noida centre",
-    "desc": "Students faced significant disruptions during the CUET-UG 2026 examination due to technical glitches and administrative confusion. Many were left waiting for hours at centers, with some exams not starting at all, leading to protests and questions about the NTA's operational preparedness.",
-    "img": "https://static.toiimg.com/photo/msid-131408281,imgsize-157532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hours-of-uncertainty-then-forced-exit-cuet-ug-candidates-claim-harrowing-time-at-a-noida-centre/articleshow/131408184.cms",
-    "time": "2026-05-30T11:10:00.000Z"
   },
   {
     "cat": "Business",
@@ -439,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/cannes-film-festival-2026-marks-a-landmark-year-for-queer-cinema/article71028930.ece",
     "time": "2026-05-30T10:12:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "West End Live announces the 2026 performance line-up",
-    "desc": "West End Live has revealed its 2026 performance schedule. Over fifty shows will take place at Trafalgar Square on June 20 and June 21, 2026. Popular musicals like 'Hercules' and 'The Lion King' will open the event. 'Phantom of the Opera' and 'Beetlejuice' will also feature. New additions include 'Les Misérables' and 'Mamma Mia!'.",
-    "img": "https://static.toiimg.com/photo/msid-131407007,imgsize-58954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/west-end-live-announces-the-2026-performance-line-up-heres-all-you-need-to-know-about-the-event/articleshow/131407026.cms",
-    "time": "2026-05-30T09:34:25.000Z"
   },
   {
     "cat": "Business",
@@ -511,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-hugh-jackman-halle-berry-and-other-actors-who-publicly-criticized-their-own-movies/photostory/131406225.cms",
     "time": "2026-05-30T08:22:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ruben Dias slams rumors of cheating about Maya Jama",
-    "desc": "Love Island host Maya Jama and footballer Ruben Dias have reportedly ended their 18-month relationship. Dias has publicly denied cheating rumors, calling them unacceptable clickbait and emphasizing the private nature of their split. He stressed that not all breakups involve betrayal and called for respect for both himself and Jama.",
-    "img": "https://static.toiimg.com/photo/msid-131406142,imgsize-31684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/ruben-dias-slams-rumors-of-cheating-in-his-former-relationship-with-maya-jama-says-i-draw-the-line-on-whats-acceptable/articleshow/131406108.cms",
-    "time": "2026-05-30T08:13:24.000Z"
   },
   {
     "cat": "Business",
