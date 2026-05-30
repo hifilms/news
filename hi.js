@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Did Kai Havertz score the fastest goal in UCL final history? Arsenal forward also joins Cristiano Ronaldo club",
+    "desc": "Arsenal struck first in the UEFA Champions League 2025-26 final as Kai Havertz handed the Premier League champions an early advantage against Paris Saint-Germain in Budapest on Saturday. The German forward found the breakthrough just...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/did-kai-havertz-score-the-fastest-goal-in-ucl-final-history-arsenal-forward-also-joins-cristiano-ronaldo-club-2026-05-30-1043060",
+    "time": "2026-05-30T17:49:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur registers major record before Indian batters collapse chasing 169 vs England",
+    "desc": "India suffered a 26-run defeat to England in the second T20I of the three-match series. With the T20 World Cup 2026 just days away, the match offered a perfect opportunity for the Indian team to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-registers-major-record-before-indian-batters-collapse-chasing-169-vs-england-2026-05-30-1043057",
+    "time": "2026-05-30T16:45:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch UEFA Champions League final in India?",
     "desc": "Arsenal and Paris Saint-Germain will meet in the UEFA Champions League final on Saturday at the Puskas Arena, with both clubs carrying sharply different ambitions into Europe’s biggest night. The match brings together a first-time...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-included-in-india-s-probables-for-asian-games-suryakumar-yadav-out-who-will-captain-2026-05-30-1043016",
     "time": "2026-05-30T10:38:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arsenal in hunt for best season after Premier League win, how can they beat PSG in Champions League final?",
-    "desc": "Arsenal are in a hunt for their best-ever European season after winning the Premier League title after 22 years. They are up against defending champions Paris Saint-Germain in the Champions League final as they bid...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-in-hunt-for-best-season-after-premier-league-win-how-can-they-beat-psg-in-champions-league-final-2026-05-30-1043012",
-    "time": "2026-05-30T09:36:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Not RCB, GT tipped to win IPL 2026 title by 2011 World Cup winner, gives no nonsense reason",
-    "desc": "Gujarat Titans will be locking horns against the Royal Challengers Bengaluru in the final of the Indian Premier League 2026 on Sunday, May 31. The Titans entered their third final after beating the Rajasthan Royals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-rcb-gt-tipped-to-win-ipl-2026-title-by-2011-world-cup-winner-gives-no-nonsense-reason-2026-05-30-1043008",
-    "time": "2026-05-30T08:52:19.000Z"
   }
 ];

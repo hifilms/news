@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Where is Jasmine Dhunna? Deepak Ramsay breaks silence on mystery",
+    "desc": "Nearly four decades after Veerana turned her into one of Bollywood’s most unforgettable cult figures, actress Jasmine Dhunna continues to remain one of the industry's biggest mysteries. Now, filmmaker Deepak Ramsay has opened up about the actress’ sudden disappearance, revealing that even the Ramsay family no longer knows where she is.",
+    "img": "https://static.toiimg.com/photo/msid-131414866,imgsize-48328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/where-is-jasmine-dhunna-deepak-ramsay-opens-up-on-the-mystery-behind-veerana-stars-disappearance-she-stopped-taking-calls/articleshow/131414794.cms",
+    "time": "2026-05-30T18:54:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pooja felt lonely in marriage with Manish, didn’t want children",
+    "desc": "Actor-filmmaker Pooja Bhatt has opened up about the real reason her marriage to former husband Manish Makhija did not work, revealing that it was a growing sense of loneliness—not infidelity or conflict—that led her to walk away from the relationship after 11 years. Pooja met Manish while working on her directorial debut Paap. The couple tied the knot in a private ceremony in Goa in 2003 before parting ways in 2014.",
+    "img": "https://static.toiimg.com/photo/msid-131414030,imgsize-57126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bhatt-says-she-realised-her-marriage-with-manish-makhija-was-over-when-she-felt-lonely-and-didnt-want-children-i-lost-myself/articleshow/131413951.cms",
+    "time": "2026-05-30T18:03:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Peter Dinklage",
+    "desc": "Actor Peter Dinklage shared a powerful message with college students, encouraging them to embrace failure as a catalyst for growth. He revealed he waited a long time before permitting himself to fail, highlighting how external validation can hinder progress. Dinklage urged individuals to demonstrate their readiness through action rather than seeking permission.",
+    "img": "https://static.toiimg.com/photo/msid-131413675,imgsize-74112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-peter-dinklage-i-waited-a-long-time-before-i-gave-myself-permission-to-fail/articleshow/131413653.cms",
+    "time": "2026-05-30T17:46:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Textile industry welcomes import tax waiver, sees boost for exports and MSMEs",
+    "desc": "The Centre has exempted customs duties on cotton imports for five months until October 30, aiming to boost availability and reduce costs for India's textile sector. This move is expected to enhance competitiveness, particularly benefiting MSMEs and enabling garment exporters to secure orders more effectively amidst global volatility.",
+    "img": "https://static.toiimg.com/photo/msid-131412919,imgsize-809378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cotton-duty-relief-textile-industry-welcomes-import-tax-waiver-sees-boost-for-exports-and-msmes/articleshow/131412867.cms",
+    "time": "2026-05-30T16:57:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "D.K. Shivakumar meets Governor Gehlot, stakes claim to form new govt in Karnataka",
+    "desc": "Governor Thaawarchand Ghehlot, in a communique to Mr. Shivakumar, has invited him to take the oath at 4.05 p.m. on Wednesday; it is expected to be a simple event at the Glass House on the Governor’s residential premises.",
+    "img": "https://th-i.thgim.com/public/news/national/oyz4d3/article71041898.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-30%20at%207.09.57%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-elected-leader-of-congress-legislative-party-in-karnataka/article71041528.ece",
+    "time": "2026-05-30T16:56:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tenacious Titans up against hot favourite Royal Challengers in final showdown",
+    "desc": "The clash offers a chance for the home team to exact revenge on the defending champion for the heavy loss in Qualifier 1; a lot will depend on how the Gujarat side’s in-form opening pair Gill and Sai Sudharsan performs",
+    "img": "https://th-i.thgim.com/public/incoming/g488m3/article71042060.ece/alternates/LANDSCAPE_1200/010Nets.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-tenacious-titans-up-against-hot-favourite-royal-challengers-in-final-showdown/article71041686.ece",
+    "time": "2026-05-30T16:51:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "CBeebies star Justin Fletcher moves in Samantha Dorrance",
+    "desc": "Beloved CBeebies presenter Justin Fletcher, 55, has reportedly found love with co-star Samantha Dorrance, 21 years his junior. The couple, who met on a pantomime production, have moved into a £2.5 million farmhouse. An insider revealed they are \"madly in love,\" with their shared passion for musical theatre a key bond. This marks Fletcher's first public romance.",
+    "img": "https://static.toiimg.com/photo/msid-131412482,imgsize-65178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/cbeebies-star-justin-fletcher-moves-in-with-his-21-year-younger-co-star-samantha-dorrance-madly-in-love/articleshow/131412486.cms",
+    "time": "2026-05-30T16:32:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pakistani journalist flubs with poser on India's Agni-6; how US war secretary Peter Hegseth reacted",
+    "desc": "A Pakistani journalist's query about India's alleged Agni-6 ICBM test at the Shangri-La Dialogue was based on misinformation. India confirmed a recent test involved an advanced Agni missile with MIRV technology, not the Agni-6. US Secretary of Defense Pete Hegseth avoided singling out either India or Pakistan as a threat.",
+    "img": "https://static.toiimg.com/photo/msid-131412259,imgsize-40366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pakistani-journalist-flubs-with-poser-on-indias-agni-6-how-us-war-secretary-peter-hegseth-reacted/articleshow/131411399.cms",
+    "time": "2026-05-30T16:20:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anita reveals daughter Pooja was left shaken by ‘compromise’ demands",
+    "desc": "Veteran actress Anita Kanwal has spoken candidly about the struggles her daughter, actress Pooja Kanwal, faced while trying to establish herself in the entertainment industry. Reflecting on the difficult phase, Anita revealed that she put her own flourishing career on hold, accompanied her daughter on shoots across the country and abroad, and shielded her from inappropriate propositions that left her emotionally shaken.",
+    "img": "https://static.toiimg.com/photo/msid-131412260,imgsize-98158.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anita-kanwal-reveals-daughter-pooja-was-left-shaken-by-compromise-demands-in-showbiz-i-left-my-career-at-its-peak-to-be-with-her/articleshow/131412211.cms",
+    "time": "2026-05-30T16:14:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Over 1.2 million join Cockroach Janta Party, says founder Abhijeet Dipke",
     "desc": "The Cockroach Janta Party, founded by Abhijeet Dipke, has emerged as a viral online movement attracting over 1.2 million members. What began as satire has evolved into a platform highlighting youth unemployment, exam paper leaks and growing frustration among young Indians.",
@@ -7,6 +88,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-over-12-million-join-cockroach-janta-party-says-founder-abhijeet-dipke/article71042350.ece",
     "time": "2026-05-30T15:59:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab govt clears regularisation framework for over 65,000 employees to end contractual system",
+    "desc": "Punjab's Cabinet has approved a plan to end contractual employment, paving the way for over 65,000 workers across 51 departments to be regularized. This historic decision aims to provide job security and dignity, transitioning outsourced staff to contractual roles and eventually to permanent positions. The move ensures direct employer-employee relationships and benefits for thousands serving the state.",
+    "img": "https://static.toiimg.com/photo/msid-131412153,imgsize-679828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/punjab-govt-clears-regularisation-framework-for-over-65000-employees-to-end-contractual-system/articleshow/131412120.cms",
+    "time": "2026-05-30T15:57:04.000Z"
   },
   {
     "cat": "Politics",
@@ -72,15 +162,6 @@ const newsData_en = [
     "time": "2026-05-30T15:14:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Tenacious Titans up against hot-favourite Royal Challengers in final showdown",
-    "desc": "The clash offers a chance for the home team to exact revenge on the defending champion for the heavy loss in Qualifier 1; a lot will depend on how the Gujarat side’s in-form opening pair Gill and Sai Sudharsan performs",
-    "img": "https://th-i.thgim.com/public/incoming/g488m3/article71042060.ece/alternates/LANDSCAPE_1200/010Nets.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-tenacious-titans-up-against-hot-favourite-royal-challengers-in-final-showdown/article71041686.ece",
-    "time": "2026-05-30T15:08:09.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Scorching heat, cleaner air: Delhi’s May weather swings between extremes",
     "desc": "Delhi experienced a weather paradox in May, facing its hottest month in two years alongside its cleanest air quality in approximately five. Intense heatwaves and unusually warm nights were punctuated by pre-monsoon showers and strong winds, which significantly improved air quality, offering a welcome respite.",
@@ -99,15 +180,6 @@ const newsData_en = [
     "time": "2026-05-30T15:00:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Public health alert as influenza cases surge in Kerala",
-    "desc": "Viruses, such as Influenza B and A(H3N2 and H1N1), respiratory synctical virus (RSV) and COVID-19, are co-circulating in the community. Health department has advised people to maintain respiratory hygiene and etiquette and to use masks in public places as these viruses are highly transmissible.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/public-health-alert-as-influenza-cases-surge-in-kerala/article71041367.ece",
-    "time": "2026-05-30T14:58:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Celina served legal notices by Peter Haag and FIL over defamation",
     "desc": "Celina Jaitly, who has been embroiled in a legal battle with her estranged husband Peter Haag, has now been served two legal notices by Peter and her father-in-law, Dr. Wolfgang J. Haag. The notices pertain to alleged defamatory statements made in public amid the couple’s ongoing matrimonial and child custody proceedings in Austria.",
@@ -124,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-eaeu-trade-talks-gain-momentum-interim-deal-for-select-goods-under-discussion/articleshow/131411252.cms",
     "time": "2026-05-30T14:41:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Evict me by force, says Rabri Devi on her bungalow being allotted to a Bihar Minister",
-    "desc": "‘Yes, I can see that Samrat Choudhary, who has become the Chief Minister only recently, is quite excited. Let him get me evicted by force. I am not going to vacate the premises,’ said Rabri",
-    "img": "https://th-i.thgim.com/public/incoming/yugrdz/article71040947.ece/alternates/LANDSCAPE_1200/PTI8_25_2017_000055B.JPEG-05b34.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/evict-me-by-force-says-rabri-devi-on-her-bungalow-being-allotted-to-a-bihar-minister/article71040882.ece",
-    "time": "2026-05-30T14:35:39.000Z"
   },
   {
     "cat": "Business",
@@ -333,24 +396,6 @@ const newsData_en = [
     "time": "2026-05-30T11:10:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "When and Where to Watch Live in India",
-    "desc": "Arsenal and Paris Saint-Germain are set to clash in the UEFA Champions League 2025-26 final at Budapest's Puskás Aréna. Arsenal seeks their first European title after a 22-year Premier League drought, while defending champions PSG aim to retain their trophy, a feat last achieved by Real Madrid.",
-    "img": "https://static.toiimg.com/photo/msid-131408178,imgsize-1176483.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/arsenal-vs-psg-uefa-champions-league-final-when-and-where-to-watch-live-in-india/articleshow/131408144.cms",
-    "time": "2026-05-30T11:07:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "CM Vijay saddened by Ajith’s mother’s death",
-    "desc": "Tamil superstar Ajith Kumar is mourning the loss of his mother, Mohini Mani, who passed away at 85 after battling age-related health issues. The family, who also lost Ajith's father last year, received condolences from Tamil Nadu Chief Minister M.K. Stalin. Ajith Kumar is reportedly returning from Dubai for the funeral.",
-    "img": "https://static.toiimg.com/photo/msid-131407985,imgsize-162018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/cm-vijay-mourns-the-demise-of-tamil-star-ajith-kumars-mother-mohini-mani-deeply-saddened/articleshow/131407928.cms",
-    "time": "2026-05-30T10:51:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre withdraws draft Sugarcane Control Order after pushback from khandsari units, farmers",
     "desc": "The Centre has withdrawn the draft Sugarcane (Control) Order, 2026, following objections from state governments and stakeholders. The proposed framework aimed to update the 1966 order and regulate ethanol and khandsari sectors. Concerns over redefining khandsari units and potential impacts on small-scale operations led to the withdrawal for further review.",
@@ -378,24 +423,6 @@ const newsData_en = [
     "time": "2026-05-30T10:31:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Varun joins others in seeking personality rights protection",
-    "desc": "Varun Dhawan has approached the Delhi High Court seeking protection of his personality rights against the unauthorised use of his identity online. The court indicated it was inclined to grant interim relief. He joins several celebrities including Salman Khan and Aishwarya Rai Bachchan who have sought similar legal protection.",
-    "img": "https://static.toiimg.com/photo/msid-131407732,imgsize-25034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-joins-salman-khan-aishwarya-rai-bachchan-and-others-in-seeking-personality-rights-protection-delhi-high-court-inclined-to-pass-interim-order/articleshow/131407732.cms",
-    "time": "2026-05-30T10:30:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Extremely unhygienic': FSSAI issues notice to IRCTC after video shows catering staff washing utensils in train toilet",
-    "desc": "FSSAI has issued a statutory notice to IRCTC after a viral video showed catering staff washing utensils in a train toilet on the Lokmanya Tilak Terminus-Ernakulam Duronto Express. The food regulator called the act extremely unhygienic and a serious food safety concern, demanding an immediate action taken report and explanation.",
-    "img": "https://static.toiimg.com/photo/msid-131407649,imgsize-891841.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/extremely-unhygienic-fssai-issues-notice-to-irctc-after-video-shows-catering-staff-washing-utensils-in-train-toilet-video/articleshow/131407516.cms",
-    "time": "2026-05-30T10:24:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No Suryakumar in Asian Games longlist; Sooryavanshi among 30 probables",
     "desc": "Teenage sensation Vaibhav Sooryavanshi makes India's 30-member men's cricket probables for the 2026 Asian Games. Notably absent are T20I captain Suryakumar Yadav and skipper Shubman Gill due to a scheduling clash with the West Indies series. This forces a two-team strategy, with a younger core potentially emerging for future T20 tournaments.",
@@ -415,48 +442,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Vishal's sharp take on Pune Porsche case",
-    "desc": "A viral video of Vedant Agarwal, accused in the Pune Porsche crash, celebrating with his family has sparked outrage. Actor Vishal strongly condemned the display, questioning the family's actions and the potential influence of wealth on the legal proceedings. He appealed to national leaders to intervene, emphasizing that such behavior sets a poor societal example.",
-    "img": "https://static.toiimg.com/photo/msid-131407442,imgsize-130734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/2024-pune-porsche-crash-case-tamil-actor-vishal-reacts-to-agarwal-familys-viral-video-says-what-goes-around-comes-around/articleshow/131407398.cms",
-    "time": "2026-05-30T10:07:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Even if you slit my throat ... ': TMC MP Abhishek Banerjee defiant after FIR, CID summons",
-    "desc": "Trinamool Congress leader Abhishek Banerjee has defiantly responded to summons from the West Bengal CID, vowing not to be intimidated by investigative agencies. He stated that even facing severe threats would not make him yield. The summons follows a series of legal challenges and a recent visit by Kolkata Police to his residence, which was described as routine.",
-    "img": "https://static.toiimg.com/photo/msid-131407376,imgsize-33504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/even-if-you-slit-my-throat-tmc-mp-abhishek-banerjee-defiant-after-fir-cid-summons/articleshow/131407099.cms",
-    "time": "2026-05-30T10:05:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arun Govil speaks on backlash over Ranbir's Ramayana",
-    "desc": "Veteran actor Arun Govil, who will play King Dasharath in Nitesh Tiwari's Ramayana, said nobody wants to see another Rama, explaining the backlash Ranbir Kapoor faced. However, he called Ranbir a good actor. Ranbir also revealed he will play both Lord Rama and Lord Parshurama in the film releasing on Diwali 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131407203,imgsize-26414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nobody-wants-to-see-another-ram-arun-govil-speaks-on-backlash-over-ranbir-kapoors-ramayana-calls-him-good-actor/articleshow/131407203.cms",
-    "time": "2026-05-30T09:44:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "West End Live announces the 2026 performance line-up",
     "desc": "West End Live has revealed its 2026 performance schedule. Over fifty shows will take place at Trafalgar Square on June 20 and June 21, 2026. Popular musicals like 'Hercules' and 'The Lion King' will open the event. 'Phantom of the Opera' and 'Beetlejuice' will also feature. New additions include 'Les Misérables' and 'Mamma Mia!'.",
     "img": "https://static.toiimg.com/photo/msid-131407007,imgsize-58954.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/west-end-live-announces-the-2026-performance-line-up-heres-all-you-need-to-know-about-the-event/articleshow/131407026.cms",
     "time": "2026-05-30T09:34:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karisma Kapoor’s raw transformation in ‘Brown’ trailer leaves fans stunned",
-    "desc": "Karisma Kapoor enthralls viewers with her compelling performance as Rita Brown in the much-anticipated series 'Brown.' Her shift from glamour to a raw, emotionally layered role has garnered widespread acclaim, highlighting a stunning evolution in her acting journey. Fans are rallying around this fearless, authentic depiction, celebrating a significant milestone for the cherished actress in the streaming realm.",
-    "img": "https://static.toiimg.com/photo/msid-131406978,imgsize-37316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karisma-kapoors-brown-trailer-biwi-no-1-actress-raw-transformation-in-the-glimpse-leaves-fans-stunned-watch/articleshow/131406978.cms",
-    "time": "2026-05-30T09:29:47.000Z"
   },
   {
     "cat": "Business",
@@ -595,15 +586,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Pant steps down, Pandya may be on way out",
-    "desc": "LSG had made Rishabh Pant captain after bidding Rs 27 crore for him, making him the most expensive player in IPL history. On the other hand, MI stirred a controversy when they brought Hardik Pandya back to their fold from Gujarat Titans and named him captain, replacing Rohit Sharma, then India’s captain across all three formats.",
-    "img": "https://static.toiimg.com/photo/msid-131403523,imgsize-55672.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-captaincy-churn-rishabh-pant-steps-down-hardik-pandya-may-be-on-way-out/articleshow/131403503.cms",
-    "time": "2026-05-30T03:46:22.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Does Ranji Trophy count? Examining the logic of picking Gurnoor Brar over Auqib Nabi",
     "desc": "There is more to selection than plain numbers. With fast bowlers, possessing attributes that supplement the prevailing pace attack is a serious consideration. India hasn’t had a genuinely tall quick who can unsettle batters with variable bounce since Ishant Sharma’s exit — this seems to have worked in the 6’5” Gurnoor’s favour, but Nabi may still have the selectors’ eye",
     "img": "https://th-i.thgim.com/public/incoming/oixbyy/article71039079.ece/alternates/LANDSCAPE_1200/_DSC0498.JPG",
@@ -619,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/i-would-like-an-indian-chess-championship-with-big-money-and-all-the-top-players-aravindh-chithambaram/article71039084.ece",
     "time": "2026-05-30T02:11:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians concerned about numerous dressing room 'leaks'",
-    "desc": "Mumbai Indians faced a dismal IPL 2026, plagued by persistent dressing room unrest and damaging leaks of sensitive information. This internal turmoil, escalating since Hardik Pandya's captaincy, has frustrated franchise figures and insiders alike. Management is now prioritising an immediate crackdown on these breaches to restore the team's former glory.",
-    "img": "https://static.toiimg.com/photo/msid-131402579,imgsize-215722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mumbai-indians-concerned-about-numerous-dressing-room-leaks/articleshow/131402570.cms",
-    "time": "2026-05-30T01:53:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-qualifier-2-gujarat-titans-vs-rajasthan-royals/article71037882.ece",
     "time": "2026-05-30T01:32:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Holder outshone IPL 2026's biggest buys",
-    "desc": "IPL auctions are often won on perception in December, but the real story usually emerges months later. While franchises splashed massive sums on Cameron Green, Matheesha Pathirana and Liam Livingstone, the smartest buys of IPL 2026 quietly came from the Rs 7-9 crore bracket. Jason Holder topped the charts by a distance, Josh Inglis maximised limited opportunities, and Ravi Bishnoi delivered steady returns. Meanwhile, several marquee signings struggled with injuries, poor form and role mismatches, turning auction-night hype into underwhelming seasons.",
-    "img": "https://static.toiimg.com/photo/msid-131402326,imgsize-183514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/the-rs-7-crore-bargain-vs-the-rs-25-crore-gamble-how-jason-holder-outshone-ipl-2026s-biggest-auction-buys/articleshow/131402321.cms",
-    "time": "2026-05-30T01:08:44.000Z"
   },
   {
     "cat": "Sports",
@@ -745,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/stock-markets-climb-in-early-trade-amid-drop-in-oil-prices/article71035952.ece",
     "time": "2026-05-29T06:11:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "All eyes on Sooryavanshi as Royals and Titans battle for a place in final",
-    "desc": "If GT sends back the red-hot opener early, pressure will be enormous on the rest of the RR batting unit; Archer holds the key for the Rajasthan side against the top three of Gill, Sai Sudharsan and Buttler who have done the bulk of the scoring for the Gujarat outfit",
-    "img": "https://th-i.thgim.com/public/incoming/liz57/article71034011.ece/alternates/LANDSCAPE_1200/20_RVM_5559.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-gujarat-titans-vs-rajasthan-royals/article71033739.ece",
-    "time": "2026-05-28T17:19:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +853,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "શું ગયા વખતની સરખામણીમાં ઈનામની રકમ વધશે? વિજેતા અને રનરઅપ ટીમને કેટલી રકમ મળશે?",
+    "desc": "IPL 2026 સીઝનના વિજેતાનો નિર્ણય થવામાં હવે વધુ સમય બાકી નથી. RCB અને ગુજરાત પોતાના બીજા ખિતાબ માટે પ્રયત્નશીલ રહેશે. ચાહકો પણ IPL ઈનામી રકમ માટે ઉત્સાહી છે. ચાલો જાણીએ કે આ વખતે વિજેતા અને રનર-અપને કેટલી રકમ મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-the-prize-money-increase-compared-to-last-time-how-much-will-the-winning-and-runner-up-teams-receive-479801 ",
+    "time": "2026-05-30T16:50:39.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "એન્ટી વુમન ફિલ્મ છે બોબી દેઓલની બંદર? પ્રોડ્યૂસર ખોલ્યું રહસ્ય, ટ્વિશા વર્મા કેસનો કર્યો ઉલ્લેખ",
     "desc": "બોબી દેઓલની ફિલ્મ, બંદર, મહિલા વિરોધી ફિલ્મ છે કે નહીં તે અંગે ઘણો સસ્પેન્સ છે. નિર્માતા નિખિલ દ્વિવેદીએ હવે બંદરની કહાની જાહેર કરી છે અને ત્વિષા શર્મા કેસ પર પણ પોતાના મંતવ્યો વ્યક્ત કર્યા છે.",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/india-most-affordable-cng-cars-maruti-s-presso-and-alto-mileage-more-than-33km-price-less-than-5-lakhs-479473 ",
     "time": "2026-05-28T06:40:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બિહારના પટનામાં મોટી દુર્ઘટના: ગંગા નદીમાં ભારે પવનના કારણે બોટ પલટી, 3ના મોત, 5 હજુ પણ લાપતા",
-    "desc": "ગુરુવારે સવારે 5 વાગ્યાની આસપાસ પટનામાં ગંગા નદીમાં 15 થી 16 લોકોને લઈ જતી એક હોડી પલટી ગઈ. 3 લોકોના મોત થયાના અહેવાલ છે, અને સાત લોકો ગુમ છે. મોટાભાગના ભોગ બનનારાઓમાં મહિલાઓ અને બાળકો હતા. મૃતકોની ઓળખ લીલા દેવી (40), નીલમ કુમારી (30) અને કાશી કુમાર (15) તરીકે થઈ છે. હોડીમાં સવાર બધા બરહ પોલીસ સ્ટેશન વિસ્તાર હેઠળ આવતા માસૂમગંજ બિંદ ટોલીના રહેવાસી હતા. શ્રવણ કુમાર, રાહુલ કુમાર, મમતા દેવી, ટુનટુનની પુત્રવધૂ, કબુત્રી કુમારી અને બે છોકરીઓ ગુમ છે; શોધ ચાલુ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bihar-boat-capsize-in-patna-two-people-found-dead-and-five-missing-in-ganga-river-479461 ",
-    "time": "2026-05-28T04:19:50.000Z"
   },
   {
     "cat": "Sports",
