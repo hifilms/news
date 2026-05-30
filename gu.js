@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "એન્ટી વુમન ફિલ્મ છે બોબી દેઓલની બંદર? પ્રોડ્યૂસર ખોલ્યું રહસ્ય, ટ્વિશા વર્મા કેસનો કર્યો ઉલ્લેખ",
+    "desc": "બોબી દેઓલની ફિલ્મ, બંદર, મહિલા વિરોધી ફિલ્મ છે કે નહીં તે અંગે ઘણો સસ્પેન્સ છે. નિર્માતા નિખિલ દ્વિવેદીએ હવે બંદરની કહાની જાહેર કરી છે અને ત્વિષા શર્મા કેસ પર પણ પોતાના મંતવ્યો વ્યક્ત કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/is-bohi-deol-bandar-an-anti-woman-film-producer-reveals-the-secret-mentions-twisha-verma-case-479797 ",
+    "time": "2026-05-30T14:30:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટ્રમ્પ હોર્મુઝ પરથી નાકાબંધી હટાવશે, તો શું ભારતમાં પેટ્રોલ અને ડીઝલ સસ્તું થશે? જાણો ક્યાં ફસાઈ શકે છે પેચ",
+    "desc": "ઈરાન યુદ્ધ પછી, ભારત તેલ અને ગેસ સંકટનો સામનો કરી રહ્યું છે. તેના કારણે કિંમતોમાં વધારો થયો છે. જો ટ્રમ્પ હોર્મુઝ પરનો નાકાબંધી હટાવે તો ભારતમાં પેટ્રોલ અને ડીઝલના ભાવ સસ્તા થશે કે કેમ તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/if-trump-lifts-the-blockade-on-hormuz-will-petrol-and-diesel-prices-become-cheaper-in-india-know-479795 ",
+    "time": "2026-05-30T14:06:05.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "સરકારી અધિકારીઓની ખુરશીઓ પર પાથરવામાં આવે છે સફેદ ટુવાલ ? બ્રિટિશ યુગ સાથે જોડાયો છે તેનો ઇતિહાસ, જાણો",
+    "title": "સરકારી અધિકારીઓની ખુરશીઓ પર કેમ પાથરવામાં આવે છે સફેદ ટુવાલ ? બ્રિટિશ યુગ સાથે જોડાયો છે તેનો ઇતિહાસ, જાણો",
     "desc": "સરકારી અધિકારીઓની ખુરશીઓ પર સફેદ ટુવાલ કેમ પાથરવામાં આવે છે? બ્રિટિશ યુગથી ચાલી આવતી આ પરંપરાના ઇતિહાસ, ગરમી અને સ્વચ્છતા સાથે તેનો સંબંધ અને આજે પણ સરકારી કચેરીઓમાં તે શા માટે પ્રચલિત છે તે વિશે જાણીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/white-towels-are-placed-on-the-chairs-of-government-officials-its-history-is-linked-to-the-british-era-know-this-479788 ",
-    "time": "2026-05-30T13:21:11.000Z"
+    "time": "2026-05-30T13:57:51.000Z"
   },
   {
     "cat": "Sports",
@@ -504,24 +522,6 @@ const newsData_gu = [
     "time": "2026-05-27T17:15:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મકાન માલિક પરત નથી આપી રહ્યો Security Deposit? તો શું કરી શકે ભાડુઆત, જાણો કાયદો",
-    "desc": "જો તમારો મકાન માલિક સિક્યોરિટી ડિપોઝિટ પરત આપવામાં આનાકાની કરે છે, તો ભાડા કરાર, ચેટ અને ઘરની તસવીરો તમારી મદદ કરી શકે છે. જાણો કઈ રીતે આ પુરાવા દ્વારા તમે લીગલ નોટિસ, પોલીસ કે કોર્ટનો સહારો લઈ તમારા પૈસા પરત લઈ શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/if-the-landlord-is-not-returning-the-security-deposit-what-can-the-tenant-do-know-the-law-479433 ",
-    "time": "2026-05-27T15:23:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારી કર્મચારીઓને 20 મહિનાનું એરિયર્સ તો મળશે, પણ આ ભથ્થાંના રૂપિયા હાથમાં નહીં આવે! જાણો કેમ",
-    "desc": "રિપોર્ટ અનુસાર, પંચની ભલામણો લાગુ કરવામાં વિલંબ થવાને કારણે કર્મચારીઓને 20 થી 24 મહિના સુધીનું એરિયર્સ મળી શકે છે. જો કે, નિષ્ણાતોનું માનવું છે કે, માત્ર DA (મોંઘવારી ભથ્થું)નું એરિયર્સ મળવાની શક્યતા વધુ છે, જ્યારે HRA અને ટ્રાન્સપોર્ટ એલાઉન્સના એરિયર્સ પર સસ્પેન્સ યથાવત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-government-employees-will-get-20-months-of-arrears-but-the-money-for-these-allowances-will-not-be-in-their-hands-know-479432 ",
-    "time": "2026-05-27T15:05:11.000Z"
-  },
-  {
     "cat": "World",
     "title": "યુદ્ધ વચ્ચે રશિયા કેમ વેચી રહ્યું છે પોતાનું સોનું? તૂટ્યો 24 વર્ષનો રેકોર્ડ, શું આ કોઈ મોટી આફતનો સંકેત?",
     "desc": "વર્ષ 2002થી 2025 વચ્ચે 1900 ટનથી વધુ સોનું ખરીદનાર રશિયા આજે સોનું વેચી રહ્યું છે. વર્ષના શરૂઆતના મહિનાઓમાં જ રશિયાએ આશરે 28 ટનથી વધુ સોનું વેચી દીધું. રશિયાનો આ નિર્ણય આગામી સમયમાં કોઈ મોટી આફત આવવાનો સંકેત છે કે પછી તેની પાછળ કોઈ અલગ જ કહાની છે?",
@@ -745,14 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/twisha-sharma-last-murder-mystery-thriller-film-on-prime-video-trending-movie-478789 ",
     "time": "2026-05-22T02:23:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બોબી દેઓલની ફિલ્મ બંદરનું ટ્રેલર રિલીઝ, 5 જૂને બોક્સ ઓફિસ પર થશે રિલીઝ",
-    "desc": "બોબી દેઓલની મચ અવેટેડ ફિલ્મ બંદરનું ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે. આ ટ્રેલરને લોકો તરફથી મિક્સ રિએકશન મળી રહ્યા છે. બંદર ફિલ્મના ટ્રેલર સાથે તેની રિલીઝ ડેટ પણ સામે આવી છે. આ ફિલ્મ 5 જૂને બોક્સ ઓફિસ પર રિલીઝ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-upcoming-movie-bandar-trailer-watch-now-film-releasing-on-5-june-2026-box-office-478742 ",
-    "time": "2026-05-21T12:07:59.000Z"
   }
 ];

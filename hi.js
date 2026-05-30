@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch UEFA Champions League final in India?",
+    "desc": "Arsenal and Paris Saint-Germain will meet in the UEFA Champions League final on Saturday at the Puskas Arena, with both clubs carrying sharply different ambitions into Europe’s biggest night. The match brings together a first-time...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arsenal-vs-psg-live-when-and-where-to-watch-uefa-champions-league-final-in-india-2026-05-30-1043050",
+    "time": "2026-05-30T15:00:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Does Rajat Patidar want to be next India T20I captain? RCB skipper answers ahead of IPL final vs GT",
+    "desc": "Under the able leadership of Rajat Patidar, Royal Challengers Bengaluru won the IPL in 2025 and have once again qualified for the summit clash in the 2026 season. Despite so, Patidar’s name is not among...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/do-rajat-patidar-want-to-be-next-india-t20i-captain-rcb-skipper-answers-ahead-of-ipl-final-vs-gt-2026-05-30-1043047",
+    "time": "2026-05-30T14:38:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Satvik, Chirag make history, beat world no. 1 to qualify for Singapore Open final",
+    "desc": "Satwiksairaj Rankireddy and Chirag Shetty powered their way into the men’s doubles final of the Singapore Open Super 750. The fourth-seeded Indian pair got the better of number-one-ranked Korea’s Kim Won Ho and Seo Seung...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/satvik-chirag-make-history-beat-world-no-1-to-qualify-for-singapore-open-final-2026-05-30-1043040",
+    "time": "2026-05-30T13:24:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Arne Slot sacked as Liverpool manager; what went wrong and who will be new coach?",
     "desc": "Liverpool have sacked head coach Arne Slot after the recently concluded Premier League season. In his first year in charge, the Dutch manager helped the Merseyside club win the league title, but what followed led...",
     "img": "",
@@ -52,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/not-rcb-gt-tipped-to-win-ipl-2026-title-by-2011-world-cup-winner-gives-no-nonsense-reason-2026-05-30-1043008",
     "time": "2026-05-30T08:52:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 players favourite to win French Open 2026 after Djokovic, Sinner exits",
-    "desc": "The French Open draw has been blown wide open after the shocking exits of Novak Djokovic and Jannik Sinner. Djokovic, who was on a hunt for a 25th Major, suffered a third-round defeat to Brazil's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/3-players-favourite-to-win-french-open-2026-after-djokovic-sinner-exits-2026-05-30-1043004",
-    "time": "2026-05-30T08:18:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Novak Djokovic play in French Open ever again after suffering shock loss to Joao Fonseca?",
-    "desc": "Novak Djokovic was stunned in the third round by Brazil's Joao Fonseca in the French Open 2026 as the Serb lost a marathon game 4-6, 4-6, 6-3, 7-5, 7-5 on Friday, May 29. Djokovic was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/will-novak-djokovic-play-in-french-open-ever-again-after-suffering-shock-loss-to-joao-fonseca-2026-05-30-1042993",
-    "time": "2026-05-30T06:45:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How long it takes to heal from the issue that once Tendulkar dealt with?",
-    "desc": "Ravindra Jadeja was dealt with an injury scare as he walked off the field during Rajasthan Royals' IPL 2026 Qualifier 2 against the Gujarat Titans in Mullanpur, New Chandigarh. Jadeja was batting along with Vaibhav...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-tennis-elbow-injury-how-long-it-takes-to-heal-from-the-issue-that-once-tendulkar-dealt-with-2026-05-30-1042991",
-    "time": "2026-05-30T06:06:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill-Sai Sudharsan create T20 world record with 167-run partnership vs RR in Qualifier 2",
-    "desc": "Gujarat Titans captain Shubman Gill and fellow opener Sai Sudharsan shattered a huge T20 world record with their another batting masterclass on Friday, May 29. The two openers, who have been the batting lynchpins for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-sai-sudharsan-create-t20-world-record-with-167run-partnership-vs-rr-in-qualifier-2-2026-05-30-1042982",
-    "time": "2026-05-30T04:50:35.000Z"
   }
 ];
