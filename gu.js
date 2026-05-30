@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "LPGના ગ્રાહકો માટે આવ્યું મોટું અપડેટ, સરકાર સપ્લાય માટે કરી રહી છે આ વ્યવસ્થા",
+    "desc": "મિડલ ઈસ્ટમાં હજુ પણ સ્થિતિ થાળે પડી નથી જેના કારણે વૈશ્વિક ઉર્જા સંકટ યથાવત છે. આ સ્થિતિને પગલે સરકારે એવી દિશામાં કામ કરી રહી છે કે ભવિષ્યમાં આવી સ્થિતિ ઊભી થાય તો દેશવાસીઓને કોઈ પણ પ્રકારની મુશ્કેલીનો સામનો ન કરવો પડે. ઘરેલુ એલપીજીનું પ્રોડક્શન રેકોર્ડ લેવલ 52000 ટન દૈનિક સ્તરે પહોંચ્યું છે. જાણો વધુ વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-update-on-strategic-lpg-reserve-check-what-government-said-479750 ",
+    "time": "2026-05-30T10:18:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મહિલાએ IT મેનેજરની લાખોની નોકરી છોડી અને હવે ચલાવે છે રીક્ષા, કારણ જાણીને અચંબિત થઈ જશો",
+    "desc": "માણસ કામ શેના માટે કરે છે? તો તમે કહેશો કે પેટનો ખાડો પૂરવા માટે, સદ્ધર થવા માટે, ખુબ પૈસા કમાવવા માટે. પરંતુ શું ખુબ પૈસા કમાવવાથી પણ માણસને એ ખુશી મળે તે ગેરંટી છે ખરી? આવું જ કઈક આ આઈટી મેનેજર મહિલા સાથે થયું છે. તેની કહાની ખાસ જાણવા જેવી છે જે અનેક લોકોને પ્રેરણા પૂરી પાડી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/social-media-viral-story-of-a-woman-who-left-it-job-and-became-auto-driver-479771 ",
+    "time": "2026-05-30T10:15:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રાજસ્થાન રોયલ્સના આ ખેલાડીએ ટીમને આપ્યો દગો ? કોચ સંગાકારાએ લગાવ્યા ગંભીર આરોપ",
+    "desc": "ક્વોલિફાયર-2માં ગુજરાત ટાઇટન્સ સામે કારમી હાર સાથે રાજસ્થાન રોયલ્સ IPL 2026માંથી બહાર ફેંકાઈ ગયું છે. આ હાર પછી કુમાર સંગાકારાએ તેની ટીમના એક ખેલાડી પર સીધો આરોપ લગાવ્યો અને જણાવ્યું હતું કે તેણે ટીમ સાથે દગો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rr-coach-sangakkara-questions-sam-curran-ipl-absence-after-surrey-comeback-479768 ",
+    "time": "2026-05-30T09:55:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "2 કે 5 નહીં, જૂનમાં કુલ 11 દિવસ બંધ રહેશે બેંકો ! જાણો RBIએ કેમ આપી આટલી રજા",
+    "desc": "દર વર્ષે RBI દ્વારા રજાઓનું કેલેન્ડર બહાર પાડવામાં આવે છે. જે મુજબ જૂન મહિનામાં 2 કે 5 નહીં, પરંતુ કુલ 11 દિવસ બેંકો બંધ રહેવાની છે. ત્યારે જૂન મહિનાની બેંક રજાઓની યાદી પર એક નજર કરીએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/rbi-bank-holiday-list-banks-will-be-closed-11-days-in-june-2026-479751 ",
+    "time": "2026-05-30T09:14:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અંબાલાલ પટેલની વરસાદને લઈને મોટી આગાહી, અમદાવાદમાં IPL ફાઈનલના દિવસે આવશે વરસાદ ?",
+    "desc": "અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમ ખાતે IPL 2026ની ફાઈનલ રોયલ ચેલેન્જર્સ બેંગ્લોર અને ગુજરાત ટાઇટન્સ વચ્ચે રમાશે. આ મેચના એક દિવસ પહેલા અંબાલાલ પટેલની વરસાદની આગાહીએ ચાહકોની ચિંતા વધારી દીધી છે. ત્યારે આ લેખમાં જાણીશું કે, IPL ફાઈનલના દિવસે અમદાવાદમાં વરસાદની શક્યતા છે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-final-ahmedabad-weather-update-ambalal-patel-rain-prediction-479735 ",
+    "time": "2026-05-30T08:10:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હાઈથી હજુ પણ સોનું 19000 અને ચાંદી 122000 રૂપિયા સસ્તા, આવતા સપ્તાહે શું રહેશે સ્થિતિ?",
+    "desc": "સોનું અને ચાંદી વીતેલા સપ્તાહમાં ગગડેલા જોવા મળ્યા. IBJA અને MCX બંને પર અઠવાડિયાના છેલ્લા કારોબારી દિવસે સુસ્તી સાથે બંધ થયા હતા. સોના ચાંદીની સાપ્તાહિક મૂવમેન્ટ અને ઓલટાઈમ હાઈથી હવે ક્યાં પહોંચ્યા તથા લેટેસ્ટ રેટ...બધુ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-are-still-very-cheap-from-all-time-high-also-check-weekly-gold-silver-rate-explainer-479734 ",
+    "time": "2026-05-30T07:49:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "જો IPL 2026ની ફાઇનલ વરસાદને કારણે રદ થાય તો કોણ બનશે ચેમ્પિયન ? જાણો શું છે નિયમ",
+    "desc": "IPL 2026ની ફાઇનલ 31 મેના રોજ રોયલ ચેલેન્જર્સ બેંગ્લોર અને ગુજરાત ટાઇટન્સ વચ્ચે રમાશે. જો વરસાદના કારણે આ મેચ ન રમાઈ શકે તો શું થાય ? કોણ બનશે ચેમ્પિયન ? જો તમારા મનમાં પણ આ સવાલ છે, તો આ લેખમાં આ તમામ સવાલોના જવાબ જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/if-ipl-2026-final-washed-out-due-to-rain-who-become-champion-know-the-rules-479732 ",
+    "time": "2026-05-30T07:18:02.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "રાજસ્થાન રોયલ્સની હારના 3 સૌથી મોટા &amp;#039;ગુનેગાર&amp;#039;... જેમણે ગુજરાતને અપાવી ફાઇનલની ટિકિટ !",
     "desc": "રિયાન પરાગની આગેવાની હેઠળની રાજસ્થાન રોયલ્સે આખી સિઝન દરમિયાન અસાધારણ રીતે સારું પ્રદર્શન કર્યું, પરંતુ તેઓ મહત્વપૂર્ણ મેચમાં નિષ્ફળ ગયા. ક્વોલિફાયર-2માં ગુજરાત સામેની હારથી ફાઇનલમાં રમવાનું તેમનું સ્વપ્ન ચકનાચૂર થઈ ગયું. ત્યારે રાજસ્થાનની હારના 3 સૌથી મોટા વિલન કોણ હતા, તેના પર એક નજર કરીએ...",
@@ -450,15 +513,6 @@ const newsData_gu = [
     "time": "2026-05-27T11:40:28.000Z"
   },
   {
-    "cat": "Business",
-    "title": "વર્ષ 2026મા હોમ લોન લેવાનો છે પ્લાન, તો જરૂર અપનાવો આ ટ્રિક, ટેક્સની સાથે ખર્ચમાં થશે બચત",
-    "desc": "જો તમે પણ હોમ લોન લઈ પોતાનું ઘર લેવાનું વિચારી રહ્યાં છો તો આ સમાચાર તમારે વાંચવા જોઈએ. આજે અમે તમને એવી ટ્રિક વિશે જણાવીશું, જેનાથી તમે ટેક્સમાં સારી બચત કરી શકો છો અને હોમ લોનમાં તમારો ખર્ચ પણ બચાવી શકો છો. આવો જાણીએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/home-loan-tips-if-you-want-to-take-a-home-loandefinitely-adopt-this-trick-you-will-save-on-expenses-along-with-taxes-479400 ",
-    "time": "2026-05-27T10:37:26.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ભીષણ ગરમીથી બચવા માટે PM મોદીએ દેશવાસીઓને કરી અપીલ, આ રીતે રાખજો ધ્યાન, નહીં તો...",
     "desc": "દેશભરમાં આકાશમાંથી વરસતી આગ અને રેકોર્ડ તોડતા તાપમાન વચ્ચે વડાપ્રધાન નરેન્દ્ર મોદીએ જનતાને સતર્ક રહેવાની અપીલ કરી છે. પીએમ મોદીએ વૃદ્ધોના સ્વાસ્થ્યનું ધ્યાન રાખવા અને વટેમાર્ગુઓ તથા અબોલ પક્ષીઓ માટે પાણીની વ્યવસ્થા કરવાની વાત કહી છે. ચાલો જાણીએ કે આ ભીષણ ગરમીથી બચવા માટે વડાપ્રધાને શું ખાસ સલાહ આપી છે.",
@@ -466,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pm-modi-appealed-to-the-countrymen-to-avoid-the-scorching-heat-take-care-of-the-elderly-and-animals-479396 ",
     "time": "2026-05-27T09:42:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "તેલની મોંધવારી ATMમાં રોકડ સંકટ લઈને આવી, ખાલી મશીનો વધારી શકે છે ટેંશન ! બેંકોને કંપનીઓની ચેતવણી, રાખી આ માંગ",
-    "desc": "તેલના વધતા ભાવ ATM રોકડ સેવાઓ પર પણ અસર કરી શકે છે. ATM રોકડ આપનારા કહે છે કે પેટ્રોલ અને ડીઝલના વધતા ભાવ તેમના સંચાલન ખર્ચમાં વધારો કરી રહ્યા છે. ખર્ચ ઘટાડવા માટે, તેઓ ATM મશીનોમાં રોકડ જમા કરાવવાની આવર્તન ઘટાડી શકે છે. તેમણે IBAને સેવા ખર્ચમાં વધારો કરવા અંગે પણ પત્ર લખ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/oil-price-hike-brings-cash-crisis-in-atms-empty-machines-can-increase-tension-companies-warn-banks-keep-this-demand-479394 ",
-    "time": "2026-05-27T09:20:37.000Z"
   },
   {
     "cat": "Tech",
@@ -486,33 +531,6 @@ const newsData_gu = [
     "time": "2026-05-27T08:10:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "રાજસ્થાન રોયલ્સ માટે ખતરો બનશે IPLનો આ નિયમ ? SRH સામે એલિમિનેટર મેચ રમ્યા વિના જ બહાર થઈ શકે છે RR",
-    "desc": "IPL 2026માં આજે સનરાઇઝર્સ હૈદરાબાદ અને રાજસ્થાન રોયલ્સ વચ્ચે એલિમિનેટર મેચ રમાશે. જો કે, IPLનો એક નિયમ રાજસ્થાન રોયલ્સ માટે ખતરો બની શકે છે, આ નિયમને કારણે RR એક પણ મેચ રમ્યા વિના ટુર્નામેન્ટમાંથી બહાર થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/this-ipl-rule-hurt-to-rajasthan-royals-if-eliminator-match-cancelled-rr-will-be-eliminated-479374 ",
-    "time": "2026-05-27T07:42:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેટ્રોલ-ડીઝલ બાદ હવે CNGના ભાવમાં ભડકો; અદાણી ગેસે એક ઝાટકે વધારી દીધો આટલો ભાવ!",
-    "desc": "અમદાવાદમાં CNGના ભાવમાં ફરી એકવાર વધારો થતાં વાહનચાલકો અને ટ્રાન્સપોર્ટ વ્યવસાય સાથે જોડાયેલા લોકો પર આર્થિક ભાર વધ્યો છે. અદાણી ગેસ સપ્લાય દ્વારા આપવામાં આવતા CNGના દરમાં આજથી પ્રતિ કિલો બે રૂપિયાનો વધારો લાગુ કરવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-and-diesel-after-cng-prices-surge-again-adani-gas-hikes-rates-by-2-per-kg-479367 ",
-    "time": "2026-05-27T07:13:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB vs GT મેચમાં અજીબ ઘટના... જે બોલ પર ફોર આવી એ જ બોલ પર આઉટ થયો બેટ્સમેન, જાણો કેવી રીતે",
-    "desc": "IPL 2026ના ક્વોલિફાયર 1માં પ્રથમ ઇનિંગ દરમિયાન રોમાંચક મુકાબલો રહ્યો. RCBએ નોકઆઉટ મેચમાં અત્યાર સુધીનો સૌથી વધુ સ્કોર બનાવ્યો, ગુજરાતને 254 રનનો વિશાળ ટાર્ગેટ આપ્યો હતો. આ દરમિયાન સાઈ સુદર્શન એવી રીતે આઉટ થયો કે અમ્પાયર પણ સ્તબ્ધ થઈ ગયા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-vs-gt-ipl-2026-qualifier-1-sai-sudharsan-hit-wicket-video-viral-479369 ",
-    "time": "2026-05-27T06:42:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રણવીર સિંહ પહેલા આ કલાકારો પર પણ FWICE લગાવી ચુકી છે પ્રતિબંધ, એક એક્ટર ઈંડસ્ટ્રીમાંથી થઈ ગયો ગાયબ",
     "desc": "સોમવારે બોલીવુડના ધુરંધર રણવીર સિંહ પર FWICE એ પ્રતિબંધ જાહેર કર્યો છે. આ વાતથી ખળભળાટ મચી ગયો છે પરંતુ શું તમે જાણો છો કે રણવીર સિંહ પહેલા કેટલા એક્ટર્સ વિરુદ્ધ આવા પ્રતિબંધ લાગી ચુક્યા છે ? જો તમને નથી ખબર તો ચાલો તમને જણાવીએ કયા એક્ટર પર કયા કારણોસર FWICE પ્રતિબંધ લગાવી ચુકી છે.",
@@ -520,33 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/actors-who-faced-fwice-banned-before-ranveer-singh-who-were-banned-by-fwice-in-bollywood-479365 ",
     "time": "2026-05-27T06:09:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB સામે ગુજરાત ટાઈટન્સ કેમ હાર્યું ? જાણો શુભમન ગિલે કોના પર ફોડ્યું હારનું ઠીકરું",
-    "desc": "IPL 2026ના ક્વોલિફાયર-1માં RCBએ ગુજરાત ટાઇટન્સને એકતરફી મુકાબલામાં હરાવીને ફાઇનલમાં સ્થાન મેળવ્યું. રજત પાટીદારની માત્ર 33 બોલમાં અણનમ 93 રનની વિસ્ફોટક ઇનિંગ અને બોલરોના વિનાશક પ્રદર્શન સામે GT સંપૂર્ણપણે ભાંગી પડ્યું. હાર બાદ કેપ્ટન શુભમન ગિલે હારના મુખ્ય કારણો જણાવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-qualifier-1-rcb-vs-gt-shubman-gill-statement-on-loss-against-rcb-479363 ",
-    "time": "2026-05-27T05:31:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રેલ્વેએ અમદાવાદ સહિક આ રૂટની 77 ટ્રેનો કરી કેન્સલ, અનેક એક્સપ્રેસ ટ્રેનોના બદલ્યા રૂટ અને ટાઈમિંગ, જાણો",
-    "desc": "ભારતીય રેલ્વેએ જૂન 2026 માટે મોટી સંખ્યામાં ટ્રેનો રદ કરી છે. જો તમે પણ જૂનમાં ટ્રેનની મુસાફરી કરવાના છો, તો સ્ટેશન પર જતા પહેલા રેલ્વે એપ, NTES અથવા IRCTC પ્લેટફોર્મ પર તમારી ટ્રેનનું લાઇવ સ્ટેટસ ચેક કરવાનું ભૂલશો નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/railways-cancels-77-trains-on-this-route-including-ahmedabad-changes-routes-and-timings-of-many-express-trains-know-479342 ",
-    "time": "2026-05-27T02:26:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઠુકરા કે મેરા પ્યાર, મેરા ... ગર્લફ્રેન્ડ દ્વારા મળેલા દગા બાદ કર્યું એવું કામ, થઈ રહ્યા છે વખાણ !",
-    "desc": "ગોરખપુરના ઉત્કર્ષ શ્રીવાસ્તવને તેમણે તેમના અંગત જીવનમાં એક મુશ્કેલ પડકાર, બ્રેકઅપનો સામનો કરવો પડ્યો, પરંતુ તેમણે તે પીડાને પોતાની પ્રેરણામાં ફેરવી દીધી. તેની મહેનતની ચર્ચા આજે પણ પણ જિલ્લામાં થઈ રહી છે અને લોકો તેની મિશાલ આપી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/know-what-utkarsh-shrivastava-of-gorakhpur-did-after-being-cheated-by-his-girlfriend-479337 ",
-    "time": "2026-05-26T15:52:52.000Z"
   },
   {
     "cat": "Tech",

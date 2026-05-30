@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi included in India's probables for Asian Games; Suryakumar Yadav out, who will captain?",
+    "desc": "India have submitted a list of 30 probable players to the Indian Olympic Association for the upcoming Asian Games. One of the biggest talking points from the preliminary group is the inclusion of 15-year-old batter...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-included-in-india-s-probables-for-asian-games-suryakumar-yadav-out-who-will-captain-2026-05-30-1043016",
+    "time": "2026-05-30T10:38:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arsenal in hunt for best season after Premier League win, how can they beat PSG in Champions League final?",
+    "desc": "Arsenal are in a hunt for their best-ever European season after winning the Premier League title after 22 years. They are up against defending champions Paris Saint-Germain in the Champions League final as they bid...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arsenal-in-hunt-for-best-season-after-premier-league-win-how-can-they-beat-psg-in-champions-league-final-2026-05-30-1043012",
+    "time": "2026-05-30T09:36:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Not RCB, GT tipped to win IPL 2026 title by 2011 World Cup winner, gives no nonsense reason",
+    "desc": "Gujarat Titans will be locking horns against the Royal Challengers Bengaluru in the final of the Indian Premier League 2026 on Sunday, May 31. The Titans entered their third final after beating the Rajasthan Royals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-rcb-gt-tipped-to-win-ipl-2026-title-by-2011-world-cup-winner-gives-no-nonsense-reason-2026-05-30-1043008",
+    "time": "2026-05-30T08:52:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 players favourite to win French Open 2026 after Djokovic, Sinner exits",
+    "desc": "The French Open draw has been blown wide open after the shocking exits of Novak Djokovic and Jannik Sinner. Djokovic, who was on a hunt for a 25th Major, suffered a third-round defeat to Brazil's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/3-players-favourite-to-win-french-open-2026-after-djokovic-sinner-exits-2026-05-30-1043004",
+    "time": "2026-05-30T08:18:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Novak Djokovic play in French Open ever again after suffering shock loss to Joao Fonseca?",
+    "desc": "Novak Djokovic was stunned in the third round by Brazil's Joao Fonseca in the French Open 2026 as the Serb lost a marathon game 4-6, 4-6, 6-3, 7-5, 7-5 on Friday, May 29. Djokovic was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/will-novak-djokovic-play-in-french-open-ever-again-after-suffering-shock-loss-to-joao-fonseca-2026-05-30-1042993",
+    "time": "2026-05-30T06:45:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How long it takes to heal from the issue that once Tendulkar dealt with?",
     "desc": "Ravindra Jadeja was dealt with an injury scare as he walked off the field during Rajasthan Royals' IPL 2026 Qualifier 2 against the Gujarat Titans in Mullanpur, New Chandigarh. Jadeja was batting along with Vaibhav...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-recorded-highest-ever-chase-in-ipl-playoffs-is-it-the-biggest-in-t20-cricket-2026-05-30-1042971",
     "time": "2026-05-30T02:19:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill becomes first captain to register massive IPL record after leading GT to IPL 2026 final",
-    "desc": "Gujarat Titans captain Shubman Gill played a stellar knock to guide his team to the final of the Indian Premier League 2026 after the seven-wicket win over Rajasthan Royals in the Qualifier 2 on Friday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-becomes-first-captain-to-register-massive-ipl-record-after-leading-gt-to-ipl-2026-final-2026-05-30-1042968",
-    "time": "2026-05-30T01:37:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi breaks down in tears after Rajasthan Royals fail to qualify for IPL 2026 final",
-    "desc": "Rajasthan Royals’ IPL 2026 journey came to a heartbreaking end in Mullanpur on Friday night and the emotions of the moment were written all over Vaibhav Sooryavanshi’s face after the match. Minutes after Gujarat Titans...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-down-in-tears-after-rajasthan-royals-fail-to-qualify-for-ipl-2026-final-watch-2026-05-29-1042960",
-    "time": "2026-05-29T18:27:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Riyan Parag's animated chat with Sooryavanshi goes viral after 15-year-old departs for 96 vs GT",
-    "desc": "Gujarat Titans booked their place in the IPL 2026 final after a commanding victory over Rajasthan Royals in Qualifier 2. However, much of the post-match discussion revolved around another memorable outing from teenage sensation Vaibhav...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-s-animated-chat-with-vaiabhav-sooryavanshi-goes-viral-after-15-year-old-departs-for-96-vs-gt-watch-2026-05-29-1042959",
-    "time": "2026-05-29T18:13:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill trumps Vaibhav Sooryavanshi to steer Gujarat Titans into IPL 2026 final vs RCB",
-    "desc": "Gujarat Titans decimated Rajasthan Royals in Qualifier 2 of the IPL 2026. Vaibhav Sooryavanshi initially launched a scathing attack on the Shubman Gill-led side, but he barely had any support from the other end. His...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-trumps-vaibhav-sooryavanshi-to-steer-gujarat-titans-into-ipl-2026-final-vs-rcb-2026-05-29-1042957",
-    "time": "2026-05-29T17:54:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur reveals Amol Muzumdar's fiery speech that transformed India's ODI WC 2025 campaign",
-    "desc": "India captain Harmanpreet Kaur has recalled a defining moment from the team’s World Cup-winning campaign, revealing how head coach Amol Muzumdar delivered a rare emotional message after a difficult phase in the tournament. Notably, India’s campaign...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-reveals-amol-muzumdar-s-fiery-speech-that-transformed-india-s-odi-wc-2023-campaign-2026-05-29-1042952",
-    "time": "2026-05-29T16:49:08.000Z"
   }
 ];
