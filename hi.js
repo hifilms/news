@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Satwik, Chirag script history by becoming first Indian pair to win Singapore Open",
+    "desc": "Satwiksairaj Rankireddy and Chirag Shetty defeated Indonesia's Fajar Alfian and Muhammad Fikri to help India lift the maiden Singapore Open title. After losing the opening game 18-21, the Indian duo responded strongly to take the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-script-history-by-becoming-first-indian-pair-to-win-singapore-open-2026-05-31-1043127",
+    "time": "2026-05-31T12:11:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans hope to forget ghosts of the past, set sights on title",
+    "desc": "The stage is set for the final of the IPL (Indian Premier League) 2026. Royal Challengers Bengaluru will take on Gujarat Titans at the Narendra Modi Stadium in Ahmedabad. Both sides are taking on each...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-ipl-final-live-score-gujarat-titans-hope-to-forget-ghosts-of-the-past-set-sights-on-title-1043126",
+    "time": "2026-05-31T12:07:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How has Virat Kohli fared at the Narendra Modi Stadium ahead of IPL 2026 final against GT? Check records",
+    "desc": "The stage is set for the summit clash of the IPL (Indian Premier League) 2026. Defending champions Royal Challengers Bengaluru will take on Gujarat Titans at the Narendra Modi Stadium in Ahmedabad on May 31....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-has-virat-kohli-fared-at-the-narendra-modi-stadium-ahead-of-ipl-2026-final-against-gt-check-records-2026-05-31-1043124",
+    "time": "2026-05-31T11:31:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch IPL 2026 final on TV and stream online in India?",
+    "desc": "Royal Challengers Bengaluru will play Gujarat Titans in the IPL 2026 final at the Narendra Modi Stadium in Ahmedabad. Both sides won nine fixtures each in their league stage and qualified as the first and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-live-when-and-where-to-watch-ipl-2026-final-on-tv-and-stream-online-in-india-2026-05-31-1043123",
+    "time": "2026-05-31T11:23:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kohli vs Rabada, Gill vs Bhuvneshwar; 5 battles that can decide the title",
     "desc": "The battle lines have already been drawn. The stage is set as Royal Challengers Bengaluru and Gujarat Titans battle it out for arguably the most coveted cricket franchise title in the world - the Indian...",
     "img": "",
@@ -52,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/more-trouble-for-gujarat-titans-2022-champions-suffer-delayed-flight-issues-ahead-of-ipl-2026-final-2026-05-31-1043071",
     "time": "2026-05-31T01:59:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSG deny Arsenal to defend Champions League title, establish supremacy to become third club to huge record",
-    "desc": "Paris Saint-Germain and Luis Enrique etched their name into the history books after beating Premier League winners Arsenal in the Champions League 2026 final to defend their title at the Puskas Arena, Budapest, on Saturday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/psg-deny-arsenal-to-defend-champions-league-title-establish-supremacy-to-become-third-club-to-huge-record-2026-05-31-1043068",
-    "time": "2026-05-31T01:26:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Did Kai Havertz score the fastest goal in UCL final history? Arsenal forward also joins Cristiano Ronaldo club",
-    "desc": "Arsenal struck first in the UEFA Champions League 2025-26 final as Kai Havertz handed the Premier League champions an early advantage against Paris Saint-Germain in Budapest on Saturday. The German forward found the breakthrough just...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/did-kai-havertz-score-the-fastest-goal-in-ucl-final-history-arsenal-forward-also-joins-cristiano-ronaldo-club-2026-05-30-1043060",
-    "time": "2026-05-30T17:49:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur registers major record before Indian batters collapse chasing 169 vs England",
-    "desc": "India suffered a 26-run defeat to England in the second T20I of the three-match series. With the T20 World Cup 2026 just days away, the match offered a perfect opportunity for the Indian team to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-registers-major-record-before-indian-batters-collapse-chasing-169-vs-england-2026-05-30-1043057",
-    "time": "2026-05-30T16:45:46.000Z"
   }
 ];
