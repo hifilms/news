@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Here's how much every award winner won",
+    "desc": "Royal Challengers Bengaluru delivered another clinical performance on the biggest night of the season, defeating Gujarat Titans by five wickets to retain the IPL title. Their bowlers laid the foundation early, with Bhuvneshwar Kumar, Josh...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-prize-money-here-s-how-much-every-award-winner-won-2026-06-01-1043162",
+    "time": "2026-05-31T18:59:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "List of awards won by Vaibhav Sooryavanshi in his exceptional IPL 2026 campaign",
+    "desc": "The IPL (Indian Premier League) 2026 has come to an end, and defending champions Royal Challengers Bengaluru have won the big one again, defeating Gujarat Titans in the summit clash of the tournament. With RCB...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/list-of-awards-won-by-vaibhav-sooryavanshi-in-his-exceptional-ipl-2026-campaign-2026-06-01-1043158",
+    "time": "2026-05-31T18:49:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli hails Royal Challengers Bengaluru's quality after historic second IPL triumph",
+    "desc": "The IPL (Indian Premier League) 2026 ends with Royal Challengers Bengaluru scripting history and clinching their second straight IPL title. The side took on Gujarat Titans in the summit clash of the tournament at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-hails-royal-challengers-bengaluru-s-quality-after-historic-second-ipl-triumph-2026-05-31-1043163",
+    "time": "2026-05-31T18:27:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajat Patidar leads new-age RCB to back-to-back IPL titles, beat GT in final",
+    "desc": "2009, 2011, 2016 - RCB’s years of agony. Three times the team from Bengaluru qualified for the final and on each occasion, the night ended in misery. Yet, they kept fighting, but nothing worked. With...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/from-unattainable-to-inevitable-rajat-patidar-leads-new-age-rcb-to-back-to-back-ipl-titles-beat-gt-in-final-2026-05-31-1043160",
+    "time": "2026-05-31T17:56:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is the lowest successfully defended total in IPL final history?",
+    "desc": "The IPL (Indian Premier League) 2026 final saw Royal Challengers Bengaluru taking on Gujarat Titans. The two sides met at the Narendra Modi Stadium in Ahmedabad, and the clash saw RCB coming in to bowl...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-the-lowest-successfully-defended-total-in-ipl-final-history-2026-05-31-1043153",
+    "time": "2026-05-31T16:14:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi achieves IPL immortality despite not featuring in 2026 final",
     "desc": "The IPL (Indian Premier League) 2026’s orange cap race has come to an end, and it is 15-year-old Vaibhav Sooryavanshi who has snagged the IPL orange cap for the 2026 season. At just 15 years...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-rcb-bowling-first-in-ipl-2026-final-a-curse-for-the-defending-champions-2026-05-31-1043139",
     "time": "2026-05-31T13:49:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Vaibhav Sooryavanshi in Ahmedabad to watch IPL 2026 final between RCB vs GT? WATCH VIDEO",
-    "desc": "The IPL 2026 final will be played between defending champions Royal Challengers Bengaluru and Gujarat Titans at the Narendra Modi Stadium in Ahmedabad. Now, despite Rajasthan Royals being ruled out of the competition, teenage sensation...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-in-ahmedabad-to-watch-ipl-2026-final-between-rcb-vs-gt-watch-video-2026-05-31-1043136",
-    "time": "2026-05-31T13:27:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satwik, Chirag script history by becoming first Indian pair to win Singapore Open",
-    "desc": "Satwiksairaj Rankireddy and Chirag Shetty defeated Indonesia's Fajar Alfian and Muhammad Fikri to help India lift the maiden Singapore Open title. After losing the opening game 18-21, the Indian duo responded strongly to take the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-script-history-by-becoming-first-indian-pair-to-win-singapore-open-2026-05-31-1043127",
-    "time": "2026-05-31T12:11:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans amass 155 in the first innings, RCB set eyes on second title",
-    "desc": "The stage is set for the final of the IPL (Indian Premier League) 2026. Royal Challengers Bengaluru will take on Gujarat Titans at the Narendra Modi Stadium in Ahmedabad. Both sides are taking on each...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-ipl-final-live-score-gujarat-titans-hope-to-forget-ghosts-of-the-past-set-sights-on-title-1043126",
-    "time": "2026-05-31T12:07:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How has Virat Kohli fared at the Narendra Modi Stadium ahead of IPL 2026 final against GT? Check records",
-    "desc": "The stage is set for the summit clash of the IPL (Indian Premier League) 2026. Defending champions Royal Challengers Bengaluru will take on Gujarat Titans at the Narendra Modi Stadium in Ahmedabad on May 31....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-has-virat-kohli-fared-at-the-narendra-modi-stadium-ahead-of-ipl-2026-final-against-gt-check-records-2026-05-31-1043124",
-    "time": "2026-05-31T11:31:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch IPL 2026 final on TV and stream online in India?",
-    "desc": "Royal Challengers Bengaluru will play Gujarat Titans in the IPL 2026 final at the Narendra Modi Stadium in Ahmedabad. Both sides won nine fixtures each in their league stage and qualified as the first and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-live-when-and-where-to-watch-ipl-2026-final-on-tv-and-stream-online-in-india-2026-05-31-1043123",
-    "time": "2026-05-31T11:23:37.000Z"
   }
 ];
