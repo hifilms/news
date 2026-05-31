@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "હોંગકોંગમાં ગુંજ્યું ગુજરાતનું નામ, ખેત મજૂરની દીકરીએ એશિયન એથ્લેટિક્સ ચેમ્પિયનશિપમાં જીત્યો રજત ચંદ્રક",
+    "desc": "ચોરવાડનાં ખેત મજુરની દીકરી કાજલ વાજાએ એશિયન અંડર-20 એથ્લેટિક્સ ચેમ્પિયનશિપમાં રજત ચંદ્રક જીત્યો છે. સ્પર્ધામાં શ્રેષ્ઠ પ્રદર્શન કરવા માટે કાજલે આ વર્ષે ધોરણ-12ની પરીક્ષા એક વર્ષ ડ્રોપ લઈને તનતોડ મહેનત કરી અને તેની મહેનત રંગ લાવી છે. હોંગકોંગમાં યોજાયેલી સ્પર્ધામાં 4x100 મીટર રિલેમાં ભારતને નવો રાષ્ટ્રીય રેકોર્ડ બનાવવામાં મહત્વપૂર્ણ યોગદાન આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/gujarat-name-echoed-in-hong-kong-kajal-waja-daughter-of-a-farm-laborer-won-a-silver-medal-at-the-asian-athletics-championship-479903 ",
+    "time": "2026-05-31T15:22:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PMનું માની લીધુ કે પછી તેલના ઊંચા ભાવના કારણે મોહભંગ કર્યો, 20000 ઘટ્યો સોનાનો ભાવ, છતાં નથી આવી રહ્યા ખરીદદારો, ડિમાંડ 70% ઘટી",
+    "desc": "આ વર્ષે યુદ્ધ શરૂ થયું ત્યારથી, સોનાના ભાવમાં તેની ટોચની કિંમત કરતાં 20,000 રૂપિયા જેટલો ઘટાડો થયો છે, પરંતુ જ્વેલર્સની દુકાનો અને શોરૂમમાં ગ્રાહકોનો અભાવ છે. લોકો સોનું ખરીદવાને બદલે જૂનું સોનું વેચી રહ્યા છે. માંગમાં ઘટાડો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-drops-by-20000-yet-buyers-are-not-coming-demand-drops-by-70-percent-479902 ",
+    "time": "2026-05-31T14:43:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "શું ગરમીમાં ઘટી જાય છે ઇલેક્ટ્રિક કારની માઇલેજ? 30 હજાર વાહનો પર થયો ટેસ્ટ, સામે આવ્યું ચોંકાવનારું સત્ય!",
+    "desc": "ઇલેક્ટ્રિક કારોનો ઉપયોગ ઝડપથી વધી રહ્યો છે. પેટ્રોલ અને ડીઝલના વધતા ભાવ વચ્ચે લોકો EV (ઇલેક્ટ્રિક વ્હીકલ)ને એક સારો વિકલ્પ માની રહ્યા છે. ઉનાળામાં ઇલેક્ટ્રિક કારની રેન્જ કેટલી ઘટે છે? ત્યારે ચાલો જાણીએ 30 હજાર EV પર થયેલા ટેસ્ટમાં શું આવ્યું સામે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/does-the-mileage-of-electric-cars-decrease-in-heat-tests-were-conducted-on-30-thousand-vehicles-shocking-truth-revealed-479901 ",
+    "time": "2026-05-31T14:39:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "RCB કે ગુજરાત",
     "desc": "આજે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમ ખાતે સાંજે 7:30 વાગ્યે રોયલ ચેલેન્જર્સ બેંગ્લોર અને ગુજરાત ટાઇટન્સ વચ્ચે IPL 2026ની ફાઇનલ મેચ રમાશે. IPL 2026ની ફાઇનલ પહેલા અચાનક એક મોટી ભવિષ્યવાણી સામે આવી છે. જેમાં આ વખતે કોણ ચેમ્પિયન બનશે તેની ભવિષ્યવાણી કરવામાં આવી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -342,15 +369,6 @@ const newsData_gu = [
     "time": "2026-05-30T02:26:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "રાજસ્થાનને હરાવીને IPL 2026 ની ફાઇનલમાં પહોંચ્યું ગુજરાત, અમદાવાદમાં આ દિવસે RCB સામે રમશે ફાઈનલ?",
-    "desc": "IPL 2026 ક્વોલિફાયર 2 માં, ગુજરાત ટાઇટન્સે રાજસ્થાન રોયલ્સને 7 વિકેટથી હરાવીને ફાઇનલમાં પોતાનું સ્થાન નિશ્ચિત કર્યું. હવે તેઓ ટાઇટલ મુકાબલામાં રોયલ ચેલેન્જર્સ બેંગ્લોર સામે ટકરાશે. IPL 2026 ફાઇનલ ક્યારે અને ક્યાં રમાશે તે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/gujarat-titans-reached-the-final-of-ipl-2026-by-defeating-rr-will-they-play-the-final-against-rcb-on-this-day-in-ahmedabad-479685 ",
-    "time": "2026-05-29T18:23:29.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈરાન સાથે શાંતિ વાતચીત વચ્ચે હોર્મુઝ પર ટ્રમ્પની મોટી જાહેરાત, ટ્રુથ પર આપી માહિતી, જાણો",
     "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા તણાવ વચ્ચે, રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઘણી જાહેરાતો કરી છે. તેમણે કહ્યું કે તમામ યુએસ નૌકાદળ નાકાબંધી હટાવવામાં આવશે. ટ્રમ્પે કહ્યું કે ઈરાન સાથેનો સોદો લગભગ અંતિમ સ્વરૂપ પામી ગયો છે અને ટૂંક સમયમાં નિર્ણય લેવામાં આવશે.",
@@ -376,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/baba-bageshwar-change-of-tone-statement-about-cockroach-janata-party-heated-up-politics-479672 ",
     "time": "2026-05-29T15:18:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઋષભ પંતે છોડી લખનૌ સુપર જાયન્ટ્સની કેપ્ટનશીપ, સતત 2 ખરાબ સીઝન બાદ લીધો મોટો નિર્ણય",
-    "desc": "લખનૌ સુપર જાયન્ટ્સ માટે IPL 2026ની સીઝન સમાપ્ત થતાની સાથે જ એક મોટા સમાચાર સામે આવી છે. લખનૌના કેપ્ટન અને તેમના 27 કરોડના ખેલાડી ઋષભ પંતે લખનૌ સુપર જાયન્ટ્સની કેપ્ટનશીપ છોડી દીધી છે. ફ્રેન્ચાઇઝીએ આ માહિતી ટ્વિટ દ્વારા શેર કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rishabh-pant-leaves-lucknow-super-giants-captaincy-takes-big-decision-after-2-consecutive-bad-seasons-479662 ",
-    "time": "2026-05-29T13:17:52.000Z"
   },
   {
     "cat": "Politics",
@@ -475,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/instagram-facebook-whatsapp-will-charge-every-month-meta-launches-plans-479572 ",
     "time": "2026-05-29T05:15:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભારતને મળ્યો હોર્મુઝનો વિકલ્પ, 1 જૂનથી મળશે ઓઈલ માટે નવો માર્ગ! શું સસ્તું થશે પેટ્રોલ-ડીઝલ અને LPG?",
-    "desc": "1 જૂન 2026થી ભારત-ઓમાન ફ્રી ટ્રેડ એગ્રીમેન્ટ (FTA) લાગુ થવા જઈ રહ્યો છે. જેનાથી માત્ર ટેરિફ ફ્રી વેપાર જ નહીં થાય, પરંતુ ભારતને ખાડી દેશો, આફ્રિકા અને યુરોપ સુધી નવો ટ્રેડ રૂટ પણ મળશે. ભારતને હોર્મુઝ ઓફ સ્ટ્રેટનો એક શ્રેષ્ઠ વિકલ્પ મળી જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/india-gets-hold-of-the-key-to-hormuz-a-new-route-for-oil-will-be-available-from-june-1-will-petrol-diesel-and-lpg-become-cheaper-479568 ",
-    "time": "2026-05-28T17:47:41.000Z"
   },
   {
     "cat": "World",
@@ -664,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/desi-bling-show-controversy-of-tabinda-sanpal-said-her-husband-satis-sanpal-party-with-different-girls-479150 ",
     "time": "2026-05-25T03:11:55.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ઇલેક્ટ્રિક કારની બેટરી ખતમ થઈ જાય ત્યારે શું થાય છે? જાણો ટર્ટલ મોડ અને અન્ય મહત્વપૂર્ણ બાબતો",
-    "desc": "ઇલેક્ટ્રિક કારની લોકપ્રિયતા દિવસેને દિવસે વધી રહી છે. પરંતુ શું તમે જાણો છો કે જો ઇલેક્ટ્રિક કારની બેટરી ખતમ થઈ જાય તો શું થાય છે? કારના કયા ફીચર્સ કામ કરે છે અને કયા કામ કરવાનું બંધ કરે છે? ચાલો સમજઈ કે જ્યારે EV બેટરી ખતમ થઈ જાય ત્યારે શું થાય છે અને તમે શું કરી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/what-happens-when-an-electric-car-battery-runs-out-know-turtle-mode-and-other-important-things-479130 ",
-    "time": "2026-05-24T13:40:07.000Z"
   },
   {
     "cat": "World",
