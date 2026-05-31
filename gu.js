@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલ બાદ શું 1 જૂને વધશે LPGના ભાવ? જાણો &amp;#039;એક ઘર, એક કનેક્શન&amp;#039;નો નવો નિયમ",
+    "desc": "દર મહિનાની 1 તારીખે ઓઇલ કંપનીઓ ગેસ સિલિન્ડરની કિંમતોમાં ફેરફાર કરે છે. ઈરાન યુદ્ધના કારણે ઊભા થયેલા ઉર્જા સંકટને લીધે દેશમાં છેલ્લા એક મહિનામાં ઘણી વખત પેટ્રોલ-ડીઝલના ભાવ વધ્યા છે. ગેસની કિંમતોમાં ફેરફારની સાથે-સાથે સિલિન્ડર સાથે જોડાયેલા નિયમોમાં પણ મોટા ફેરફાર કરવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-lpg-prices-increase-after-petrol-diesel-on-june-1-know-the-new-rule-of-one-house-one-connection-479857 ",
+    "time": "2026-05-31T08:35:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ફરી રેતીનું ભયાનક ડમરીઓ સાથે વાવાઝોડાનું ભયાનક એલર્ટ; 20 રાજ્યો માટે 48 કલાકનું એલર્ટ, આગામી 5 દિવસ કેવું રહેશે હવામાન?",
+    "desc": "દેશભરમાં વેસ્ટર્ન ડિસ્ટર્બન્સ (પશ્ચિમી વિક્ષોભ) અને ચોમાસાના આગમનને કારણે હવામાન ખુશનુમા બન્યું છે. ઉત્તર-પશ્ચિમ ભારતના આશરે 15 રાજ્યોમાં છેલ્લા 15 દિવસથી કાળઝાળ ગરમીથી રાહત મળી છે. હવામાન વિભાગે આગામી 2 દિવસ સુધી હવામાન આવું જ રહેવાની ધારણા વ્યક્ત કરી છે. આ સાથે જ ચોમાસાને લઈને પણ અપડેટ જાહેર કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/warning-of-severe-sandstorms-48-hour-alert-for-20-states-what-will-the-weather-be-like-over-the-next-5-days-479849 ",
+    "time": "2026-05-31T07:42:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ડુંગળીની વાસ રોમાંટિક સીનમાં બની વીલન, હિરોઈનની નજીક જવું પણ બોબી માટે હતું મુશ્કેલ, તમને ખબર છે આ ઘટના વિશે ?",
+    "desc": "બોબી દેઓલ તેની આગામી ફિલ્મ બંદરના કારણે ચર્ચામાં છે. આ સિવાય હાલ તેની ચર્ચા અન્ય એક ઘટના માટે પણ થઈ રહી છે. આ ઘટના તેની ફિલ્મ ગુપ્તના શૂટિંગ સમયની છે. જ્યારે રોમાંટિક સીન કરવો બોબી દેઓલ માટે માથાનો દુખાવો બની ગયો હતો. અને તેનું કારણ હતી ડુંગળીની વાસ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-manisha-koirala-bad-breath-story-of-gupt-movie-shooting-479842 ",
+    "time": "2026-05-31T07:20:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગુજરાત સાવધાન ! IPLનો આ સંયોગ RCBના પક્ષમાં, શું GT બદલશે ઈતિહાસ ?",
+    "desc": "IPL 2026ની ફાઇનલ પહેલા RCBના પક્ષમાં એક રસપ્રદ રેકોર્ડ છે. 2018થી IPLમાં ક્વોલિફાયર 1 જીતનારી ટીમે ફાઇનલ પણ જીતી છે. આ વખતે RCBએ ક્વોલિફાયર 1માં ગુજરાત ટાઇટન્સને હરાવીને ફાઇનલમાં સીધું સ્થાન મેળવ્યું. તેથી પ્રશ્ન એ છે કે શું ઇતિહાસનું પુનરાવર્તન થશે કે ગુજરાત ટાઇટન્સ આ ટ્રેન્ડને તોડીને બીજી વખત ચેમ્પિયન બનશે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-history-on-rcb-side-qualifier-1-winner-never-lost-final-since-2018-479841 ",
+    "time": "2026-05-31T07:01:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "H-1B Visa Rules: અમેરિકાનો મોટો યુ-ટર્ન: ગ્રીન કાર્ડની પ્રક્રિયા દરમિયાન પ્રવાસીઓએ હવે નહીં છોડવો પડે દેશ",
+    "desc": "અમેરિકામાં રહીને ગ્રીન કાર્ડ (Green Card)ની રાહ જોઈ રહેલા લાખો ભારતીય પ્રોફેશનલ્સ અને H-1B વિઝા ધારકો માટે એક મોટા અને રાહતભર્યા સમાચાર સામે આવ્યા છે. યુએસ સિટીઝનશિપ એન્ડ ઇમિગ્રેશન સર્વિસીસ (USCIS) એ તાજેતરમાં ઊભા થયેલા એક મોટા ભ્રમને દૂર કરતા સ્પષ્ટ કર્યું છે કે, લાયક H-1B વર્કર્સને ગ્રીન કાર્ડની અરજી પ્રક્રિયા દરમિયાન અમેરિકા છોડવાની જરૂર નહીં પડે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/h-1b-visa-rules-americas-big-u-turn-tourists-will-no-longer-have-to-leave-the-country-during-the-green-card-process-479840 ",
+    "time": "2026-05-31T07:00:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એક્સપોર્ટ ડ્યુટીમાં ઘટાડાની જાહેરાત વચ્ચે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો શું છે આજનો ભાવ",
+    "desc": "દેશમાં પેટ્રોલ અને ડીઝલના વધતા જતા ભાવ વચ્ચે, કેન્દ્ર સરકારે પેટ્રોલ-ડીઝલ પરની એક્સપોર્ટ ડ્યુટી ઘટાડવાની જાહેરાત કરી છે. જે જૂનથી અમલમાં આવશે. ત્યારે આ બધાની વચ્ચે સરકારી ઓઈલ કંપનીઓએ પેટ્રોલ-ડીઝલના આજના ભાવ જાહેર કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-govt-cuts-export-duty-on-petrol-diesel-and-atf-479832 ",
+    "time": "2026-05-31T05:45:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1997માં જે સમુદ્રે ભારતને દુષ્કાળથી બચાવ્યું હતું, 2026માં તે &amp;#039;શાંત&amp;#039; છે: અલ નીનોના ખતરાએ વધાર્યું IMDનું ટેન્શન",
+    "desc": "હવામાન વિભાગના સેટેલાઇટ્સમાંથી આવી રહેલા તાજા આંકડાઓએ દેશના ધબકારા વધારી દીધા છે. આ વર્ષે ભારતના ચોમાસા પર અલ નીનોનો પડછાયો મંડરાઈ રહ્યો છે, જેના કારણે દુષ્કાળનો ખતરો 60% સુધી વધી ગયો છે. ઇતિહાસ સાક્ષી છે કે વર્ષ 1997માં પણ આવો જ મહા-સંકટ આવ્યો હતો, પરંતુ ત્યારે આપણા પોતાના હિંદ મહાસાગરે સુરક્ષા કવચ બનીને ખતરાને ટાળી દીધો હતો. પરંતુ આ વખતે...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ocean-that-saved-india-from-drought-in-1997-silent-in-2026-el-nino-threat-raises-imd-tension-479830 ",
+    "time": "2026-05-31T05:16:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ફેમસ ભોજપુરી એક્ટ્રેસ રસ્તા પર ભીખ માંગવા મજબૂર બની, હાલત જોઈ પોલીસે મેન્ટલ હોસ્પિટલ મોકલી",
+    "desc": "ગ્લેમરસ લાઈફની ડરામણી અને ડાર્ક સાઈડ સામે આવી છે. એક સમયે ભોજપુરી ફિલ્મોમાં કરિયર ચમકનારી મિતાલી શર્માને લઈને દાવો કરવામાં આવ્યો છે કે, તેની માનસિક હાલત એટલી હદે કથળી ગઈ છે કે, તે રસ્તા પર ભીખ માંગવા મજબૂર બની છે. પોલીસ તેને ઉઠાવીને લઈ ગઈ અને હાલ સારવાર શરૂ કરાવી છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/famous-bhojpuri-actress-mitali-sharma-forced-to-beg-on-the-road-seeing-her-condition-479828 ",
+    "time": "2026-05-31T04:32:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અમદાવાદમાં IPL ફાઇનલ ફીવર: વરસાદ પડશે તો પણ ટેન્શન નહીં! હોટેલ ભાડામાં 10000%નો વધારો, જાણો ટ્રાફિક-સુરક્ષા",
+    "desc": "અમદાવાદમાં આઈપીએલ ફાઇનલ મેચને પગલે હોટેલ ઉદ્યોગમાં તેજી: હોટેલોના ભાડામાં ૩૦૦% થી ૧૦૦૦% સુધીનો અભૂતપૂર્વ વધારો. સ્ટેડિયમની નજીકની સામાન્ય હોટેલ્સના ભાવ ₹૩,૫૦૦થી વધીને ₹૩૫,૦૦૦ સુધી અને લક્ઝરી હોટેલ્સના ભાવ ₹૫૦,૦૦૦ને પાર પહોંચ્યા. મેચ પૂર્ણ થયા બાદ દર્શકોને ઘરે પહોંચાડવા માટે AMTS અને BRTS બસની પણ વ્યવસ્થા કરવામાં આવી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-final-fever-in-ahmedabad-hotel-rents-increase-by-1000-traffic-and-security-arrangements-in-place-479825 ",
+    "time": "2026-05-31T03:47:40.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "શું ગયા વખતની સરખામણીમાં ઈનામની રકમ વધશે? વિજેતા અને રનરઅપ ટીમને કેટલી રકમ મળશે?",
     "desc": "IPL 2026 સીઝનના વિજેતાનો નિર્ણય થવામાં હવે વધુ સમય બાકી નથી. RCB અને ગુજરાત પોતાના બીજા ખિતાબ માટે પ્રયત્નશીલ રહેશે. ચાહકો પણ IPL ઈનામી રકમ માટે ઉત્સાહી છે. ચાલો જાણીએ કે આ વખતે વિજેતા અને રનર-અપને કેટલી રકમ મળી શકે છે.",
@@ -387,15 +468,6 @@ const newsData_gu = [
     "time": "2026-05-28T17:47:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "1947માં શું હતો ભારતમાં પેટ્રોલનો ભાવ? આજના ભાવમાં તો મળતું હતું આટલા લીટરથી ઇંધણ! જાણો 78 વર્ષોમાં કેવી રીતે વધી કિંમતો",
-    "desc": "દિલ્હી સહિત દેશના મોટા મહાનગરોમાં પેટ્રોલનો ભાવ 100 રૂપિયાને પાર થઈ ગયો છે. જ્યારે ડીઝલની કિંમત પણ 100 રૂપિયા પ્રતિ લીટરની આસપાસ પહોંચી ગઈ છે. પરંતુ શું તમે જાણો છો 1947માં દેશને આઝાદી મળી હતી તે સમયે પેટ્રોલ અને ડીઝલનો ભાવ શું હતો? ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-was-the-price-of-petrol-in-india-in-1947-at-today-price-this-much-fuel-was-available-per-liter-know-how-prices-have-increased-in-78-years-479547 ",
-    "time": "2026-05-28T16:33:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "પેન્શન સંબંધિત આ નિયમોમાં બદલાવ કરશે મોદી સરકાર? કેન્દ્રીય કર્મચારીઓને થશે મોટી અસર",
     "desc": "સરકારના સ્તરે એક એવી વ્યવસ્થા પર વિચાર ચાલી રહ્યો છે જેમાં કર્મચારીઓને પોતાનું પેન્શન માળખું પસંદ કરવાની વધુ સ્વતંત્રતા મળી શકે છે. કર્મચારી સંગઠનોનો દાવો છે કે, આગામી બે થી ચાર મહિનામાં આ દિશામાં પ્રગતિ થઈ શકે છે.",
@@ -421,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/what-happen-if-gt-vs-rr-ipl-2026-qualifier-2-match-is-cancelled-due-to-rain-479527 ",
     "time": "2026-05-28T12:28:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ડી.કે. શિવકુમાર કેવી રીતે બન્યા કોંગ્રેસના સંકટમોચક? ગુજરાતથી હિમાચલ સુધી અનેક ઓપરેશન લોટસ કરી ચૂક્યા છે ફેઈલ",
-    "desc": "ડી.કે. શિવકુમાર કર્ણાટકના આગામી મુખ્યમંત્રી બનવા જઈ રહ્યા છે. તેઓ માત્ર સોનિયા ગાંધીના વિશ્વાસુ જ નથી માનવામાં આવતા, પરંતુ ઘણી વખત તેમણે કોંગ્રેસને સંકટમાંથી ઉગારી છે. આ જ કારણે તેમને પાર્ટીના 'સંકટમોચક' પણ કહેવામાં આવે છે. તેઓ કર્ણાટકથી લઈને ગુજરાત સુધી પોતાનો દમ બતાવી ચૂક્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-did-dk-shivakumar-become-the-congress-troubleshooter-from-gujarat-to-himachal-many-operations-have-failed-479517 ",
-    "time": "2026-05-28T11:30:31.000Z"
   },
   {
     "cat": "World",
@@ -459,24 +522,6 @@ const newsData_gu = [
     "time": "2026-05-28T10:24:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "એન્ટિલિયામાં ફ્લેટ, માલદીવમાં આઈલેન્ડ અને ₹30 કરોડની ઓફર ! સૂર્યવંશીની મુંબઈ ઇન્ડિયન્સમાં થશે એન્ટ્રી ?",
-    "desc": "વૈભવ સૂર્યવંશી IPL 2026માં રાજસ્થાન રોયલ્સ માટે ધૂમ મચાવી રહ્યો છે. તેણે એલિમિનેટર મેચમાં SRH સામે ધમાકેદાર ઈનિંગ રમી હતી. હવે તેને મુંબઈ ઇન્ડિયન્સ તરફથી મોટી ઓફર મળી હોવાની અફવાઓ સામે આવી છે. ત્યારે IPLના પૂર્વ ચેરમેન લલિત મોદીએ આ અફવાઓ પર ભાર મૂક્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/lalit-modi-slams-rumours-of-vaibhav-suryavanshi-getting-offer-to-join-mumbai-indians-479476 ",
-    "time": "2026-05-28T10:24:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અમદાવાદમાં પેટ્રોલ ₹102ને પાર, તો ડીઝલ ₹100ની નજીક... જાણો તમારા શહેરમાં શું છે આજના ભાવ",
-    "desc": "ક્રૂડ ઓઇલ સંકટ વચ્ચે દિલ્હી અને મુંબઈ જેવા મોટો શહેરોમાં પેટ્રોલ અને ડીઝલના ભાવ રેકોર્ડ સ્તરે પહોંચી ગયા છે. તો અમદાવાદમાં પેટ્રોલ ₹102ને પાર પહોંચ્યું છે, ત્યારે તમારા શહેરના આજના ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-ahmedabad-delhi-mumbai-latest-fuel-rates-479496 ",
-    "time": "2026-05-28T10:23:47.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "6 એરબેગ્સ, પેટ્રોલ-CNG અને EV એકસાથે... ટાટાની સૌથી સસ્તી કાર લોન્ચ, જાણો શું છે કિંમત",
     "desc": "ભારતમાં Tata Tiago 2026 લોન્ચ કરવામાં આવી છે. આ કંપનીની એન્ટ્રી-લેવલ કાર છે. આધુનિક ફીચર્સથી સજ્જ આ કાર આ સેગમેન્ટમાં તેના સ્પર્ધકો કરતાં એડવાન્સ છે. કારમાં 360-ડિગ્રી કેમેરા અને વાયરલેસ ચાર્જિંગ જેવી સુવિધાઓ ઉમેરવામાં આવી છે. આ કાર પેટ્રોલ, CNG અને EV વેરિઅન્ટમાં લોન્ચ કરવામાં આવી છે.",
@@ -484,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tata-tiago-2026-launch-in-india-know-price-and-features-479498 ",
     "time": "2026-05-28T08:58:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગારપંચ અંગે ખરાબ સમાચાર! લાખો કર્મચારીઓની આશા પર ફરી વળ્યું પાણી?",
-    "desc": "કર્મચારી યુનિયનો તરફથી આઠમાં પગાર પંચ હેઠળ ફિટમેન્ટ ફેક્ટર 3.83 કરવાની માંગ કરવામાં આવી રહી છે. આ સિવાય પણ યુનિયનો તરફથી ઘણી માંગ કરવામાં આવી છે. પરંતુ હવે કર્મચારી યુનિયનોને આશા છે કે સરકાર કોઈ વચ્ચેનો રસ્તો પસંદ કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bad-news-regarding-the-8th-pay-commission-what-is-the-government-plan-on-salary-hike-479493 ",
-    "time": "2026-05-28T07:49:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -511,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/india-most-affordable-cng-cars-maruti-s-presso-and-alto-mileage-more-than-33km-price-less-than-5-lakhs-479473 ",
     "time": "2026-05-28T06:40:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "600 રનનો અસંભવ વર્લ્ડ રેકોર્ડ, 15 વર્ષના વૈભવ સૂર્યવંશીએ રચ્યો ઇતિહાસ; ક્રિકેટ ઇતિહાસમાં પહેલીવાર થયો આ ચમત્કાર",
-    "desc": "15 વર્ષના વિસ્ફોટક બેટ્સમેન વૈભવ સૂર્યવંશી એકવાર ફરી તોફાન આવ્યું છે. તેમણે હૈદરાબાદના બોલરોની લાઇન-લેન્થ બગાડીને મૂકી દીધી હતી. મેદાન પર ઉતર્યાની થોડી જ મિનિટોમાં વૈભવ સૂર્યવંશીએ ઇતિહાસ રચી દીધો. આ વિસ્ફોટક ઓપનરે એવો કરિશ્મા કર્યો છે કે મોટા-મોટા બેટ્સમેનો પણ પાછળ રહી ગયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/impossible-world-record-of-600-runs-15-year-old-vaibhav-suryavanshi-created-history-this-miracle-happened-for-the-first-time-in-cricket-history-479449 ",
-    "time": "2026-05-27T17:15:58.000Z"
   },
   {
     "cat": "World",
@@ -721,29 +748,11 @@ const newsData_gu = [
   },
   {
     "cat": "Entertainment",
-    "title": "કોણ છે ગુજરાતી ફિલ્મ ‘જયેશભાઈ જોરદાર’ ફેમ હેમંત મોદી? જાણો આશ્ચર્યજનક હાઈ-પ્રોફાઈલ કારકિર્દી, હવે આખી જિંદગી જેલમાં!",
-    "desc": "Who Is Hemant Modi? હત્યાના કેસમાં આજીવન કેદની સજામાંથી ફરાર થયા બાદ 12 વર્ષ સુધી નાસતા ફરતા હેમંત મોદી ઉર્ફે હેમંત વૈષ્ણવની અમદાવાદમાંથી ધરપકડ કરવામાં આવી છે. અમદાવાદ ક્રાઈમ બ્રાન્ચના અધિકારીઓએ તેને ઘી કાંટા મેટ્રો સ્ટેશન પાસેથી ઝડપી પાડ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/who-is-gujarati-film-jayeshbhai-jordaar-fame-hemant-modi-ranveer-singh-co-star-arrested-after-skipping-parole-for-over-a-decade-478809 ",
-    "time": "2026-05-23T07:07:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "માધુરી દીક્ષિતને આવા અવતારમાં આજ સુધી નહીં જોઈ હોય, મજેદાર છે માં બહેન ફિલ્મનું ટ્રેલર, જોઈ લો ફટાફટ",
     "desc": "માધુરી દીક્ષિતની અપકમિંગ ફિલ્મ માં બહેનનું ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે. આ ટ્રેલર જોઈને તમને મજા પડી જશે. ફિલ્મનું ટ્રેલર જોઈને લાગે છે કે આ ફિલ્મ જોવાની મજા આવશે. આ ફિલ્મ નેટફ્લિક્સ પર રિલીઝ થવાની છે એટલે તમે ફિલ્મ ઘર બેઠા જોઈ શકશો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/madhuri-dixit-never-before-netflix-movie-maa-behen-trailer-watch-here-478878 ",
     "time": "2026-05-22T13:58:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ટ્વિશા શર્માની છેલ્લી ફિલ્મ OTT પર કરી રહી છે ટ્રેંડ, અભિનેત્રી છેલ્લી ફિલ્મ પણ હતી મર્ડર મિસ્ટ્રી",
-    "desc": "અભિનેત્રી, મોડલ ટ્વિશા શર્માના મોતની ઘટના પછી તેની છેલ્લી ફિલ્મ ટ્રેંડ કરવા લાગી છે. જોગાનુજોગ ટ્વિશા શર્માની છેલ્લી ફિલ્મ પણ એક મર્ડર મિસ્ટ્રી થ્રિલર ફિલ્મ છે. 2021 માં આવેલી આ ફિલ્મ હવે ઓટીટી પર ટ્રેંડ થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/twisha-sharma-last-murder-mystery-thriller-film-on-prime-video-trending-movie-478789 ",
-    "time": "2026-05-22T02:23:27.000Z"
   }
 ];

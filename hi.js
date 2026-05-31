@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Yellow alert issued on IPL 2026 final day, will rain wash clash out?",
+    "desc": "Ahmedabad was beaming bright and sunny on the morning of Sunday, May 31, before a yellow alert from the local met department made the fans anxious as the Royal Challengers Bengaluru meet the Gujarat Titans...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ahmedabad-weather-report-yellow-alert-issued-on-ipl-2026-final-day-will-rain-wash-clash-out-2026-05-31-1043105",
+    "time": "2026-05-31T08:34:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill awaits his crowning moment, Rajat Patidar looks to carve his legacy as IPL 2026 final beckons",
+    "desc": "Shubman Gill is waiting for that one moment which will put his leadership credentials at the top of everyone's minds. The India ODI and Test captain has had some mixed results since he took over...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-awaits-his-crowning-moment-rajat-patidar-looks-to-carve-his-legacy-as-ipl-final-beckons-2026-05-31-1043095",
+    "time": "2026-05-31T06:56:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PM Modi heaps praise on record-breakers Gurindervir, Vishal and others",
+    "desc": "Prime Minister Narendra Modi on Sunday heaped praise on record-breaking athletes Gurindervir Singh, Vishal TK, Tejaswin Shankar, Dev Meena and Kuldeep Kumar for their performances at the recently held National Senior Athletics Federation Competition in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/mann-ki-baat-episode-134-pm-modi-heaps-praise-on-record-breakers-gurindervir-vishal-tejaswin-and-dev-2026-05-31-1043092",
+    "time": "2026-05-31T06:16:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "More trouble for Gujarat Titans? 2022 champions suffer delayed flight issues ahead of IPL 2026 final",
     "desc": "Gujarat Titans arrived in Ahmedabad late at night on the eve of their Indian Premier League 2026 final against the Royal Challengers Bengaluru on Sunday, May 31. GT had dealt with a lot of travel...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/do-rajat-patidar-want-to-be-next-india-t20i-captain-rcb-skipper-answers-ahead-of-ipl-final-vs-gt-2026-05-30-1043047",
     "time": "2026-05-30T14:38:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satvik, Chirag make history, beat world no. 1 to qualify for Singapore Open final",
-    "desc": "Satwiksairaj Rankireddy and Chirag Shetty powered their way into the men’s doubles final of the Singapore Open Super 750. The fourth-seeded Indian pair got the better of number-one-ranked Korea’s Kim Won Ho and Seo Seung...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satvik-chirag-make-history-beat-world-no-1-to-qualify-for-singapore-open-final-2026-05-30-1043040",
-    "time": "2026-05-30T13:24:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arne Slot sacked as Liverpool manager; what went wrong and who will be new coach?",
-    "desc": "Liverpool have sacked head coach Arne Slot after the recently concluded Premier League season. In his first year in charge, the Dutch manager helped the Merseyside club win the league title, but what followed led...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arne-slot-sacked-as-liverpool-manager-what-went-wrong-and-who-will-be-new-coach-2026-05-30-1043031",
-    "time": "2026-05-30T12:20:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Unity Cup in India?",
-    "desc": "India's campaign at the 2026 Unity Cup will conclude with a battle for third place against Zimbabwe. Both sides fell short in their respective semi-final encounters at The Valley in London, but will have the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-vs-zimbabwe-live-when-and-where-to-watch-unity-cup-in-india-2026-05-30-1043029",
-    "time": "2026-05-30T11:58:13.000Z"
   }
 ];
