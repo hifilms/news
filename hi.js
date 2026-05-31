@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kohli vs Rabada, Gill vs Bhuvneshwar; 5 battles that can decide the title",
+    "desc": "The battle lines have already been drawn. The stage is set as Royal Challengers Bengaluru and Gujarat Titans battle it out for arguably the most coveted cricket franchise title in the world - the Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-gt-ipl-2026-final-kohli-vs-rabada-gill-vs-bhuvneshwar-5-battles-that-can-decide-the-title-2026-05-31-1043110",
+    "time": "2026-05-31T09:38:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is Virat Kohli's record in IPL finals as RCB look for second straight crown?",
+    "desc": "Virat Kohli would be in focus as the Royal Challengers Bengaluru take on the Gujarat Titans in the final of the Indian Premier League 2026 at the Narendra Modi Stadium in Ahmedabad on Sunday, May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-virat-kohlis-record-in-ipl-finals-as-rcb-look-for-second-straight-crown-2026-05-31-1043107",
+    "time": "2026-05-31T09:03:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Yellow alert issued on IPL 2026 final day, will rain wash clash out?",
     "desc": "Ahmedabad was beaming bright and sunny on the morning of Sunday, May 31, before a yellow alert from the local met department made the fans anxious as the Royal Challengers Bengaluru meet the Gujarat Titans...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Shubman Gill awaits his crowning moment, Rajat Patidar looks to carve his legacy as IPL 2026 final beckons",
+    "title": "Shubman Gill awaits his first crowning moment, Rajat Patidar looks to carve his legacy as IPL final beckons",
     "desc": "Shubman Gill is waiting for that one moment which will put his leadership credentials at the top of everyone's minds. The India ODI and Test captain has had some mixed results since he took over...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-registers-major-record-before-indian-batters-collapse-chasing-169-vs-england-2026-05-30-1043057",
     "time": "2026-05-30T16:45:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch UEFA Champions League final in India?",
-    "desc": "Arsenal and Paris Saint-Germain will meet in the UEFA Champions League final on Saturday at the Puskas Arena, with both clubs carrying sharply different ambitions into Europe’s biggest night. The match brings together a first-time...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-vs-psg-live-when-and-where-to-watch-uefa-champions-league-final-in-india-2026-05-30-1043050",
-    "time": "2026-05-30T15:00:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Does Rajat Patidar want to be next India T20I captain? RCB skipper answers ahead of IPL final vs GT",
-    "desc": "Under the able leadership of Rajat Patidar, Royal Challengers Bengaluru won the IPL in 2025 and have once again qualified for the summit clash in the 2026 season. Despite so, Patidar’s name is not among...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/do-rajat-patidar-want-to-be-next-india-t20i-captain-rcb-skipper-answers-ahead-of-ipl-final-vs-gt-2026-05-30-1043047",
-    "time": "2026-05-30T14:38:41.000Z"
   }
 ];

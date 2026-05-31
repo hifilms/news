@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Song lyrics of the day by Adele",
+    "desc": "Global music icon Adele, celebrated for her powerful vocals and heartfelt songwriting, has captivated audiences worldwide. Her poignant lyrics, like those in 'To Be Loved,' explore the painful sacrifices made in relationships and the courage to embrace truth. Despite her immense success and numerous awards, the acclaimed singer is currently on hiatus, leaving fans eager for her next musical chapter.",
+    "img": "https://static.toiimg.com/photo/msid-131421747,imgsize-22372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/song-lyrics-of-the-day-by-adele-to-be-loved-and-love-at-the-highest-count-means-to-lose-all-the-things-i-cant-live-without/articleshow/131421713.cms",
+    "time": "2026-05-31T10:38:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about the OTT 7-part series ‘Midnight Mass’",
+    "desc": "Mike Flanagan's 'Midnight Mass' is captivating audiences on Netflix with its blend of action, thriller, and supernatural themes. This seven-part series, set on Crockett Island, explores faith and miracles through the arrival of a charismatic priest. Originally conceived as a novel, the project evolved into a deeply personal mini-series for Flanagan, delving into profound questions about life and death.",
+    "img": "https://static.toiimg.com/photo/msid-131421678,imgsize-118128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/midnight-mass-cast-plot-and-you-need-to-know-about-mike-flanagans-7-part-horror-series-on-hidden-vampire-lore/articleshow/131421666.cms",
+    "time": "2026-05-31T10:34:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade talks to resume on June 1 as both sides push to finalise interim pact",
+    "desc": "Senior officials from India and the US are meeting in New Delhi to finalize an interim trade agreement and advance broader bilateral trade talks. Discussions will cover market access, customs, and investment, with potential recalibration of the deal due to recent US tariff changes. The agreement aims to boost trade and economic security between the two nations.",
+    "img": "https://static.toiimg.com/photo/msid-131421647,imgsize-32894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-talks-to-resume-on-june-1-as-both-sides-push-to-finalise-interim-pact/articleshow/131421588.cms",
+    "time": "2026-05-31T10:26:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The Sulur horror story of child sexual assault and murder",
+    "desc": "The shocking sexual assault and murder of a 10-year-old girl near Sulur in Coimbatore comes as a reminder that constant vigilance and creating a safe society for women and girls should be among the top priorities for the new government in Tamil Nadu",
+    "img": "https://th-i.thgim.com/public/incoming/5vea5c/article71042463.ece/alternates/LANDSCAPE_1200/sulur_historical%20persp.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-sulur-horror-story-of-child-sexual-assault-and-murder-in-tn-coimbatore-may-2026/article71042444.ece",
+    "time": "2026-05-31T10:26:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Discussions underway to appoint new KPCC chief, says Kharge",
+    "desc": "The Leader of Opposition in Rajya Sabha addressed key queries regarding the formation of new council of Ministers and the appointment of a new State unit president, and rumours surrounding multiple Deputy Chief Minister (DCM) posts",
+    "img": "https://th-i.thgim.com/public/incoming/gb9m74/article71044231.ece/alternates/LANDSCAPE_1200/20260529239L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/discussions-underway-to-appoint-new-kpcc-chief-says-kharge/article71044205.ece",
+    "time": "2026-05-31T10:20:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bobby Deol on 'heartbreak' of being replaced in 'Jab We Met' made him better",
+    "desc": "being replaced in the 2007 romantic classic 'Jab We Met.' The actor revealed that he originally discovered director Imtiaz Ali's talent, brought Kareena Kapoor on board, and pitched the project to a production house, only to be dropped for Shahid Kapoor when his market value dipped. Reflecting on the betrayal almost two decades later, Bobby explained how he channeled his \"hurt and anger\" into fuel for his massive career resurgence including hits like 'Aashram', 'Animal', and his upcoming role as the tormented pop star Samar Mehra in 'Bandar.'",
+    "img": "https://static.toiimg.com/photo/msid-131421507,imgsize-220886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-says-heartbreak-of-being-replaced-in-jab-we-met-made-him-a-better-actor-i-decided-the-hurt-and-anger-should-become-my-strength/articleshow/131421397.cms",
+    "time": "2026-05-31T10:08:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Analysing the link between adaptability and species success of Elvira rat, Cutch rock rat",
+    "desc": "R. Brawin Kumar, a wildlife biologist, told the rock rats are primary food sources for species such as the Bengal fox. “Their protection and presence in these landscapes is crucial for the local rocky ecosystems they inhabit,” he said.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/lol1yh/article71044262.ece/alternates/LANDSCAPE_1200/Cutch_Rock_Rat.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/analysing-the-link-between-adaptability-and-species-success-of-elvira-rat-cutch-rock-rat/article71044108.ece",
+    "time": "2026-05-31T10:08:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Marilyn Monroe look-alikes break Guinness World Record",
+    "desc": "In a spectacular celebration of glamour and nostalgia, Palm Springs became the host of an unprecedented gathering of over a thousand Marilyn Monroe look-alikes, clinching a Guinness World Record. This vibrant homage coincided with the icon's centennial birthday, as fans embraced her classic blonde locks and iconic white dress.",
+    "img": "https://static.toiimg.com/photo/msid-131421486,imgsize-59380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/marilyn-monroe-look-alikes-celebrate-stars-100th-birthday-shatter-guinness-world-record-for-gathering/articleshow/131421486.cms",
+    "time": "2026-05-31T10:05:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suriya gifts luxury 'Batman edition' car to 'Karuppu' cinematographer",
+    "desc": "Following the massive box office triumph of 'Karuppu,' actor Suriya has gifted cinematographer GK Vishnu a special 'Batman edition' Mahindra BE6. Vishnu expressed his heartfelt gratitude on social media, calling Suriya a 'God' with a huge heart. This gesture highlights Suriya's appreciation for Vishnu's exceptional cinematography, which significantly contributed to the film's blockbuster success.",
+    "img": "https://static.toiimg.com/photo/msid-131421328,imgsize-152092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-gifts-luxury-batman-edition-luxury-car-to-karuppu-cinematographer-gk-vishnu-following-box-office-success/articleshow/131421318.cms",
+    "time": "2026-05-31T09:46:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tendulkar's major IPL suggestion: Scrap Impact Player rule, allow 5 overs per bowler",
+    "desc": "Cricket legend Sachin Tendulkar has advocated for significant IPL rule changes, including the removal of the Impact Player rule, which he believes heavily favors batters. Tendulkar also proposed a bowling powerplay and allowing one bowler to deliver five overs to restore game balance.",
+    "img": "https://static.toiimg.com/photo/msid-131421235,imgsize-31914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/sachin-tendulkars-major-ipl-suggestion-scrap-impact-player-rule-allow-5-overs-per-bowler/articleshow/131421143.cms",
+    "time": "2026-05-31T09:34:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What will guide market sentiments this week?",
+    "desc": "Dalal Street anticipates a busy week driven by the RBI's interest rate decision, key economic data, and global developments like the US-Iran situation and crude oil prices. Investors will closely track manufacturing and services PMI, GDP growth, and foreign exchange reserves for market direction.",
+    "img": "https://static.toiimg.com/photo/msid-131421125,imgsize-102420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-outlook-what-will-guide-market-sentiments-this-week/articleshow/131421057.cms",
+    "time": "2026-05-31T09:23:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "The Bench said a person's awareness that they are being employed in the sex industry or prostitution does not exclude them from being a victim of trafficking, as they may have been deceived about the conditions of work, which later turned out to be exploitative",
+    "img": "https://th-i.thgim.com/public/incoming/rl6tee/article71044175.ece/alternates/LANDSCAPE_1200/bl28-Think2-MidGE0G1L1Q3.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pocso-act-applies-if-victim-of-commercial-sex-trafficking-is-minor-supreme-court/article71044156.ece",
+    "time": "2026-05-31T09:20:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jab We Met' actress Divya pens heartbreaking tribute for late daughter Mihika",
+    "desc": "Actress Divya Seth Shah shared a poignant video montage, remembering her late daughter Mihika. The actress finds solace in everyday moments, seeing signs of Mihika's presence in nature, pets, and cherished photographs. Mihika passed away at 23 in August 2024. Divya continues to honor her daughter's memory through heartfelt social media tributes.",
+    "img": "https://static.toiimg.com/photo/msid-131421111,imgsize-39870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jab-we-met-actress-divya-seth-shah-pens-heartbreaking-tribute-for-late-daughter-mihika-everywhere-i-look-i-see-only-you/articleshow/131421118.cms",
+    "time": "2026-05-31T09:18:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Josh Hazlewood's perfect record in T20 could boost RCB against GT",
+    "desc": "Royal Challengers Bengaluru eyes back-to-back IPL titles, banking on Josh Hazlewood's incredible T20 finals record. The Australian pacer boasts a perfect five-from-five record in title deciders, consistently delivering crucial wickets and performances under immense pressure. Despite a mixed IPL 2026 season, Hazlewood remains RCB's key weapon against Gujarat Titans.",
+    "img": "https://static.toiimg.com/photo/msid-131421021,imgsize-901384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-final-why-josh-hazlewoods-perfect-record-in-t20-finals-could-boost-rcb-against-gt/articleshow/131421001.cms",
+    "time": "2026-05-31T09:09:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matt Brown passes away at 43",
+    "desc": "In a heartbreaking revelation, Matt Brown, known from Alaskan Bush People, has died at the age of 43. His brother, Bear, shared an emotional tribute, highlighting Matt's battle with addiction and the tragic circumstances surrounding his suspected suicide. With search efforts halted by harsh weather conditions, authorities maintain their investigation into the matter.",
+    "img": "https://static.toiimg.com/photo/msid-131420967,imgsize-318718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alaskan-bush-people-star-matt-brown-passes-away-at-43-brother-bear-brown-confirms-in-social-media-post/articleshow/131420934.cms",
+    "time": "2026-05-31T09:00:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "MIS-TEEQ reunite on ‘BGT’ 2026 finale stage",
+    "desc": "Mis-Teeq made a spectacular return at the 'Britain's Got Talent' finale, captivating audiences with their first live performance in over two decades. Fans took to social media in celebration as Alesha Dixon, Sabrina Washington, and Su-Elise Nash wowed the crowd with an energetic mash-up of their beloved 2000s anthems.",
+    "img": "https://static.toiimg.com/photo/msid-131420926,imgsize-149564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britains-got-talent-2026-mis-teeq-reunite-after-22-years-on-stage-ahead-of-reunion-concert/articleshow/131420891.cms",
+    "time": "2026-05-31T08:57:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "South Indian stars who are great swimmers",
+    "desc": "South Indian stars are embracing swimming for fitness and recreation. R Madhavan's son is a state-level swimmer, while Lakshmi Manchu credits her skills for surviving a near-fatal incident. Ram Charan is a certified scuba diver, and Dhanush showcased his swimming prowess in underwater scenes for 'Maryan', highlighting the aquatic talents of these actors.",
+    "img": "https://static.toiimg.com/photo/msid-131420907,imgsize-96012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/r-madhavan-lakshmi-manchu-ram-charan-and-other-south-india-stars-who-are-expert-swimmers/articleshow/131420821.cms",
+    "time": "2026-05-31T08:54:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Who will replace DK Shivakumar as state president? Kharge says Congress looking for right leader",
+    "desc": "Congress president Mallikarjun Kharge stated that the party is actively searching for a new Karnataka Pradesh Congress Committee (KPCC) president to strengthen the organization for upcoming elections. Discussions regarding the new Karnataka cabinet composition are ongoing, with a phased expansion potentially occurring after the June 3 swearing-in ceremony.",
+    "img": "https://static.toiimg.com/photo/msid-131420859,imgsize-42112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/who-will-replace-dk-shivakumar-as-state-president-kharge-says-congress-looking-for-right-leader/articleshow/131420753.cms",
+    "time": "2026-05-31T08:49:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'A chat with anti-national Soros agents': Rahul Gandhi's dig at BJP as he meets CBSE students",
+    "desc": "Rahul Gandhi met CBSE Class 12 students labelled 'anti-national' after questioning an incorrect Physics answer sheet. The board later admitted an error. Gandhi criticised the government's response, stating the students deserve a secure future and that problems can't be solved by denying them. The incident highlighted scrutiny of the board's evaluation process.",
+    "img": "https://static.toiimg.com/photo/msid-131420771,imgsize-58022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/a-chat-with-anti-national-soros-agents-rahul-gandhis-dig-at-bjp-as-he-meets-cbse-students/articleshow/131420701.cms",
+    "time": "2026-05-31T08:40:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP alleges Mamata pressured private hospital to admit Abhishek Banerjee",
+    "desc": "Making the allegation in an X post, West Bengal BJP spokesperson Debjit Sarkar shared an audio clip in which Mamata Banerjee was purportedly heard expressing anger over the hospital's reluctance to admit the Diamond Harbour MP",
+    "img": "https://th-i.thgim.com/public/incoming/qxcu0o/article71044064.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000426B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bjp-alleges-mamata-pressured-private-hospital-to-admit-abhishek-banerjee/article71044055.ece",
+    "time": "2026-05-31T08:40:21.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Why is India pushing for coal gasification?",
     "desc": "What is coal gasification and how does it have the potential to substitute imports? What technical challenges does high-ash Indian coal pose for gasification? Where does India stand with respect to coal gasification and related technology?",
@@ -18,13 +198,40 @@ const newsData_en = [
     "time": "2026-05-31T08:32:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court",
-    "desc": "The Bench said a person's awareness that they are being employed in the sex industry or prostitution does not exclude them from being a victim of trafficking, as they may have been deceived about the conditions of work, which later turned out to be exploitative",
-    "img": "https://th-i.thgim.com/public/incoming/rl6tee/article71044175.ece/alternates/LANDSCAPE_1200/bl28-Think2-MidGE0G1L1Q3.5.jpg.jpg",
+    "cat": "Entertainment",
+    "title": "Quote of the day by Mads Mikkelsen",
+    "desc": "Mads Mikkelsen's acting philosophy centers on finding the light in villains and flaws in heroes, reflecting the complex nature of humanity. He believes characters are shaped by their imperfections and pasts, pushing audiences to question intentions. This approach has led to his acclaimed roles, challenging conventional portrayals of good and evil.",
+    "img": "https://static.toiimg.com/photo/msid-131420658,imgsize-29814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-mads-mikkelsen-i-always-try-to-find-something-i-like-about-the-bad-guys/articleshow/131420657.cms",
+    "time": "2026-05-31T08:30:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Backrooms' to 'Midsommar': Where to watch the best horror movies right now",
+    "desc": "Horror is one of those genres where finding the right film on the right night can genuinely change your relationship with the dark. Whether you want something that burrows under your skin slowly or something that makes you check every corner of the room before bed, the best horror films are not just scary but genuinely, uncomfortably alive. Here are nine of the best horror movies streaming right now and exactly where to find them.",
+    "img": "https://static.toiimg.com/photo/msid-131420059,imgsize-49632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/backrooms-to-midsommar-where-to-watch-the-best-horror-movies-right-now/photostory/131420059.cms",
+    "time": "2026-05-31T08:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan’s niece Alizeh Agnihotri opens up on nepotism",
+    "desc": "Alizeh Agnihotri, post her debut, is prioritizing challenging roles over rapid visibility, emphasizing authenticity. She acknowledges industry privilege but stresses the importance of carving her own identity. Agnihotri believes audience feedback and personal artistic inspiration are paramount, advocating for talent over constant social media presence, viewing her career as a marathon.",
+    "img": "https://static.toiimg.com/photo/msid-131420638,imgsize-74628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-niece-alizeh-agnihotri-opens-up-on-nepotism-acknowledges-privilege-we-dont-worry-about-rent-its-not-hard/articleshow/131420632.cms",
+    "time": "2026-05-31T08:24:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hormuz",
+    "desc": "The waterway connecting the Persian Gulf to the Arabian Sea has emerged as the most consequential battleground of the U.S.-Israeli war on Iran, with Tehran effectively taking control of the route and rattling energy markets and the global economy",
+    "img": "https://th-i.thgim.com/public/incoming/stenci/article71043793.ece/alternates/LANDSCAPE_1200/2026-05-30T075752Z_968363709_RC2JJLAKKRZQ_RTRMADP_3_IRAN-CRISIS.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pocso-act-applies-if-victim-of-commercial-sex-trafficking-is-minor-supreme-court/article71044156.ece",
-    "time": "2026-05-31T08:29:34.000Z"
+    "url": "https://www.thehindu.com/profile/hormuz-the-strait-where-america-stalled/article71042506.ece",
+    "time": "2026-05-31T08:20:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -55,7 +262,7 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "How Middle East conflict is rewriting your kitchen math — Explained in 10 charts",
+    "title": "Middle East conflict is rewriting your kitchen math — Explained in 10 charts",
     "desc": "Geopolitical tensions in the Middle East are directly impacting household budgets, driving up prices for everyday essentials like cooking oil, milk, and bread. Soaring global crude oil prices and a weakening rupee are increasing import, fuel, and transportation costs, leading to a domino effect on consumer goods and even healthcare services.",
     "img": "https://static.toiimg.com/photo/msid-131420245,imgsize-5376222.cms",
     "src": "indiatimes.com",
@@ -108,24 +315,6 @@ const newsData_en = [
     "time": "2026-05-31T07:24:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ajith Kumar’s massive net worth, luxury car collection",
-    "desc": "Tamil cinema star Ajith Kumar, known for his racing passion and simple lifestyle, recently marked his comeback with 'Good Bad Ugly'. Born in Secunderabad, his journey began far from films, involving mechanics and motor racing. Despite a net worth of Rs 350 crore and luxury assets, he maintains a grounded persona.",
-    "img": "https://static.toiimg.com/photo/msid-131420077,imgsize-109592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/from-mechanic-to-kollywood-superstar-ajith-kumars-massive-net-worth-luxury-car-collection-and-sea-facing-thiruvanmiyur-mansion/articleshow/131420032.cms",
-    "time": "2026-05-31T07:20:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Naga Chaitanya’s romantic birthday wish for Sobhita",
-    "desc": "Naga Chaitanya celebrated wife Sobhita Dhulipala's birthday with a heartfelt social media post, sharing cherished moments and expressing his gratitude. The couple's affectionate exchange, including Sobhita's sweet reply, delighted fans. This public display of affection comes amidst news of Naga Chaitanya's legal proceedings concerning his past relationship with Samantha Ruth Prabhu.",
-    "img": "https://static.toiimg.com/photo/msid-131420036,imgsize-356196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanya-shares-a-romantic-birthday-post-for-wife-sobhita-dhulipala-grateful-i-get-to-do-life-with-you/articleshow/131420013.cms",
-    "time": "2026-05-31T07:15:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "Japan Defence Chief takes swipe at China at security meet",
     "desc": "Under Prime Minister Sanae Takaichi, Japan has quickened its pivot towards a more proactive defence policy, further shaking off — with U.S. encouragement — its pacifist outlook in place since the end of World War II",
@@ -133,15 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/japan-defence-chief-takes-swipe-at-china-at-security-meet/article71043857.ece",
     "time": "2026-05-31T07:10:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP alleges Mamata pressured private hospital to admit Abhishek Banerjee",
-    "desc": "Making the allegation in an X post, West Bengal BJP spokesperson Debjit Sarkar shared an audio clip in which Mamata Banerjee was purportedly heard expressing anger over the hospital's reluctance to admit the Diamond Harbour MP",
-    "img": "https://th-i.thgim.com/public/incoming/qxcu0o/article71044064.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000426B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/bjp-alleges-mamata-pressured-private-hospital-to-admit-abhishek-banerjee/article71044055.ece",
-    "time": "2026-05-31T07:09:44.000Z"
   },
   {
     "cat": "Politics",
@@ -162,15 +342,6 @@ const newsData_en = [
     "time": "2026-05-31T07:03:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sanjay Gupta flags CBFC age restriction violations at 'Obsession' screening",
-    "desc": "\"Who is checking IDs?\" Bollywood director Sanjay Gupta sounds the alarm after witnessing a theater packed with minors watching the new A-rated Hollywood horror sensation 'Obsession'. Written and directed by Curry Barker, the psychological thriller follows a simple wish that twists into a terrifying, deadly infatuation. Despite the Central Board of Film Certification (CBFC) cutting extreme scenes before its May 29 release, the film has set the Indian box office on fire, pulling in over Rs. 4.50 crore in just two days. Read on to discover the full story behind the controversy and the film's massive box office run.",
-    "img": "https://static.toiimg.com/photo/msid-131419876,imgsize-87168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-gupta-shocked-to-see-underage-kids-watch-a-rated-obsession-in-packed-theatre-its-amazing-how-this-film-is-a-sensation/articleshow/131419800.cms",
-    "time": "2026-05-31T06:59:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "After attack on Abhishek Banerjee, TMC MP Kalyan Banerjee 'targeted' in Hooghly",
     "desc": "TMC leader Kalyan Banerjee alleged he was attacked by BJP workers near Chanditala Police Station in West Bengal's Hooghly district while submitting a deputation on post-poll violence. Banerjee claimed he was hit on the head with a stone and accused the police of inaction, calling it an attempt to murder.",
@@ -189,33 +360,6 @@ const newsData_en = [
     "time": "2026-05-31T06:52:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ravi Mohan breaks vow to join Lokesh Kanagaraj's LCU film 'Benz'",
-    "desc": "Actor Ravi Mohan joins Lokesh Kanagaraj's LCU film 'Benz'. This comes after he stated he would not act until his divorce was finalized. Mohan's inclusion adds to the film's star power. 'Benz' is directed by Bakkiyaraj Kannan and features Raghava Lawrence and Nivin Pauly. The movie expands the LCU universe. Mohan also has other projects in production.",
-    "img": "https://static.toiimg.com/photo/msid-131419744,imgsize-381402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ravi-mohan-breaks-divorce-sabbatical-vow-to-join-lokesh-kanagarajs-lcu-film-benz-alongside-raghava-lawrence-and-nivin-pauly-welcome-to-the-universe/articleshow/131419712.cms",
-    "time": "2026-05-31T06:37:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The Sulur horror story of child sexual assault and murder",
-    "desc": "The shocking sexual assault and murder of a 10-year-old girl near Sulur in Coimbatore comes as a reminder that constant vigilance and creating a safe society for women and girls should be among the top priorities for the new government in Tamil Nadu",
-    "img": "https://th-i.thgim.com/public/incoming/5vea5c/article71042463.ece/alternates/LANDSCAPE_1200/sulur_historical%20persp.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-sulur-horror-story-of-child-sexual-assault-and-murder-in-tn-coimbatore-may-2026/article71042444.ece",
-    "time": "2026-05-31T06:24:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rizwan on growing up in Mumbai slums to living in 40,000 sq ft Dubai mansion",
-    "desc": "Rizwan Sajan, known for his lavish lifestyle on 'Dubai Bling', began his journey from humble beginnings in Mumbai. Facing financial constraints, a childhood desire to afford school canteen snacks at 14 sparked his entrepreneurial spirit. Starting with a Rs 1,000 loan, his first book reselling venture proved successful, laying the groundwork for his future business empire.",
-    "img": "https://static.toiimg.com/photo/msid-131419578,imgsize-18428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/dubai-bling-star-rizwan-sajan-on-growing-up-in-mumbai-slums-to-living-in-40000-sq-ft-dubai-mansion-money-is-just-a-byproduct/articleshow/131419582.cms",
-    "time": "2026-05-31T06:10:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Ugly face of BJP's politics of revenge': Opposition leaders condemn attack on TMC's Abhishek",
     "desc": "Stones, eggs and abuses were hurled at the Diamond Harbour MP when he visited Sonarpur town on the outskirts of Kolkata to meet the family of a TMC worker who was allegedly killed in post-poll violence",
@@ -223,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/ugly-face-of-bjps-politics-of-revenge-opposition-leaders-condemn-attack-on-tmcs-abhishek/article71043765.ece",
     "time": "2026-05-31T06:09:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jacob Elordi's best work to watch on OTT: 'Euphoria', 'Saltburn', and more",
-    "desc": "Jacob Elordi arrived in Hollywood as a teen heartthrob and quietly, almost stubbornly, refused to stay in that lane. In just a few years, he has built a filmography that demonstrates an actor actively seeking out complexity, discomfort, and roles that ask something genuinely difficult of him. Here are six of his best performances and where to find them.",
-    "img": "https://static.toiimg.com/photo/msid-131419567,imgsize-43182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jacob-elordis-best-work-to-watch-on-ott-euphoria-saltburn-and-more/photostory/131419567.cms",
-    "time": "2026-05-31T06:08:56.000Z"
   },
   {
     "cat": "Politics",
@@ -243,33 +378,6 @@ const newsData_en = [
     "time": "2026-05-31T06:05:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Disclosure Day': Emily Blunt reveals she is 'a bit terrified' of AI",
-    "desc": "Golden Globe winner Emily Blunt expressed her fear of Artificial Intelligence, opting for organic vocalizations over AI for a scene in her upcoming film 'Disclosure Day.' She believes AI diminishes human connection in filmmaking, a stance she has voiced previously. The actress's decision highlights a growing concern within Hollywood regarding the integration of AI in creative processes.",
-    "img": "https://static.toiimg.com/photo/msid-131419532,imgsize-30638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/disclosure-day-emily-blunt-reveals-she-is-a-bit-terrified-of-ai-thus-she-refused-to-use-it-in-the-movie/articleshow/131419541.cms",
-    "time": "2026-05-31T06:05:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Manoj Bajpayee BREAKS SILENCE on 'Ghooskhor Pandat' threats",
-    "desc": "Manoj Bajpayee opens up about the swirling controversies around his film previously named 'Ghooskhor Pandat'. Despite the turbulence of threats and negative feedback, he stays grounded, praising his team's quick acknowledgment and readiness to change the title. Bajpayee calls for a measured approach from viewers and underscores that creative minds can always reimagine their work. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131419441,imgsize-54182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-breaks-silence-on-ghooskhor-pandat-threats-and-title-change-i-dont-have-that-energy-and-time-to-argue/articleshow/131419420.cms",
-    "time": "2026-05-31T06:00:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "H Vinoth’s response on Vijay's 'Jana Nayagan' release fuels debate",
-    "desc": "Director H. Vinoth cryptically stated he lacks the courage to reveal the full truth behind the delayed release of Vijay's 'Jana Nayagan,' fueling speculation. Minister Rajmohan offered hope, assuring fans the film's certification is progressing and its release will be a celebratory event. Debates also persist over Vijay's on-screen title.",
-    "img": "https://static.toiimg.com/photo/msid-131419479,imgsize-89996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-do-not-have-the-courage-to-tell-all-the-truth-h-vinoth-on-vijay-starrer-jana-nayagan-as-release-delay-fuels-debate/articleshow/131419458.cms",
-    "time": "2026-05-31T05:59:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How has Virat Kohli fared against Gujarat Titans?",
     "desc": "Virat Kohli's exceptional record against Gujarat Titans, boasting 503 runs at 71.85, continues to be a focal point as Royal Challengers Bengaluru face GT in the IPL 2026 final. Having already surpassed 600 runs this season, Kohli aims to extend his dominance in this crucial encounter.",
@@ -277,33 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rcb-v-gt-ipl-2026-final-how-has-virat-kohli-fared-against-gujarat-titans/articleshow/131419324.cms",
     "time": "2026-05-31T05:40:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer Singh applauds Arsenal on ‘historic season' despite defeat to PSG",
-    "desc": "Bollywood star Ranveer Singh lauded Arsenal's valiant effort in the Champions League final despite their loss to PSG. He celebrated a \"historic season\" and expressed unwavering belief in the team's future. The actor, a devoted fan since 2001, shared his pride in the squad's fighting spirit, even as their quest for European glory continues after a Premier League triumph.",
-    "img": "https://static.toiimg.com/photo/msid-131419262,imgsize-77466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-applauds-arsenal-on-historic-season-despite-champions-league-defeat-to-psg-proud-of-the-boys/articleshow/131419255.cms",
-    "time": "2026-05-31T05:32:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift and Travis Kelce's wedding: These not invited",
-    "desc": "Taylor Swift's wedding guest list reportedly excludes former friend Karlie Kloss due to her association with Scooter Braun. Blake Lively and Ryan Reynolds are also said to be on the 'no-no' list. Swift is prioritizing guests who have played significant roles in her life, reflecting her desire for lasting connections.",
-    "img": "https://static.toiimg.com/photo/msid-131419212,imgsize-33492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelces-wedding-these-three-people-are-reportedly-off-the-guest-list-due-to-a-brewing-feud/articleshow/131419203.cms",
-    "time": "2026-05-31T05:26:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Noel Gallagher sparks romance rumours with 30 years younger woman",
-    "desc": "Oasis frontman Noel Gallagher is reportedly sparking romance rumors with 28-year-old marketing manager Nina Johnson, following a night out in London. Despite online comparisons to Leonardo DiCaprio due to their age gap, the couple is reportedly unfazed by the criticism. Gallagher, recently divorced from Sara MacDonald, finds Johnson a \"breath of fresh air.\"",
-    "img": "https://static.toiimg.com/photo/msid-131419156,imgsize-23334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/oasis-band-member-noel-gallagher-sparks-romance-rumors-with-a-woman-30-years-younger-than-him/articleshow/131419163.cms",
-    "time": "2026-05-31T05:18:09.000Z"
   },
   {
     "cat": "Sports",
@@ -344,20 +425,11 @@ const newsData_en = [
   {
     "cat": "Politics",
     "title": "'You are arrogant': Mamata Banerjee heard scolding Kolkata hospital authorities",
-    "desc": "A video shows Mamata Banerjee confronting hospital officials in Kolkata, reportedly over her nephew Abhishek Banerjee's treatment after an alleged attack. BJP leaders criticized Banerjee, accusing her of pressuring the hospital despite reports of no major injuries. The incident follows an alleged stone-pelting attack on Abhishek Banerjee during a visit.",
+    "desc": "A video shows Mamata Banerjee confronting hospital officials in Kolkata, reportedly over her nephew Abhishek Banerjee's treatment after an alleged attack. BJP leaders criticised Banerjee, accusing her of pressuring the hospital despite reports of no major injuries. The incident follows an alleged stone-pelting attack on Abhishek Banerjee during a visit.",
     "img": "https://static.toiimg.com/photo/msid-131418939,imgsize-903820.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/you-are-arrogant-mamata-banerjee-heard-scolding-kolkata-hospital-authorities/articleshow/131418458.cms",
     "time": "2026-05-31T04:11:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hormuz",
-    "desc": "The waterway connecting the Persian Gulf to the Arabian Sea has emerged as the most consequential battleground of the U.S.-Israeli war on Iran, with Tehran effectively taking control of the route and rattling energy markets and the global economy",
-    "img": "https://th-i.thgim.com/public/incoming/stenci/article71043793.ece/alternates/LANDSCAPE_1200/2026-05-30T075752Z_968363709_RC2JJLAKKRZQ_RTRMADP_3_IRAN-CRISIS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/profile/hormuz-the-strait-where-america-stalled/article71042506.ece",
-    "time": "2026-05-31T03:59:11.000Z"
   },
   {
     "cat": "Sports",
@@ -603,15 +675,6 @@ const newsData_en = [
     "time": "2026-05-30T13:46:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "How Nihal Sarin secured India's first-ever Esports Nations Cup chess invite",
-    "desc": "While Nihal and his S8UL teammate Aravindh Chithambaram have both successfully qualified for the upcoming Esports World Cup (EWC) 2026 Chess main event, Nihal stands alone as India's premier direct invitee for the country-based ENC tournament, where he will represent Team India Esports.",
-    "img": "https://static.toiimg.com/photo/msid-131409772,imgsize-54036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/how-nihal-sarin-became-first-indian-chess-player-to-get-esports-nations-cup-invite-will-he-be-the-only-one/articleshow/131409788.cms",
-    "time": "2026-05-30T13:03:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Govt waives cotton import duty till October 30 to boost supplies, ease input costs",
     "desc": "The government has waived customs duties on cotton imports for five months until October 30, 2026, effective June 1, 2026. This measure aims to boost cotton availability for the domestic textile industry, reduce input costs for manufacturers, and support SMEs. The exemption is intended to benefit the entire value chain, including consumers, while considering domestic farmers' interests.",
@@ -682,15 +745,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/tesla-slashes-model-y-price-by-up-to-rs-9-lakh-in-india-to-spur-demand/articleshow/131404665.cms",
     "time": "2026-05-30T08:42:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "70% drop in gold demand: Import duty hike from 6% to 15% rattles buyers",
-    "desc": "India's gold demand has plummeted by nearly 70% following a government increase in import duty from 6% to 15%. This, coupled with rising fuel and food prices, has significantly dampened consumer sentiment and spending on discretionary items like gold.",
-    "img": "https://static.toiimg.com/photo/msid-131406036,imgsize-82422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/70-drop-in-gold-demand-import-duty-hike-from-6-to-15-rattles-buyers/articleshow/131405953.cms",
-    "time": "2026-05-30T08:04:55.000Z"
   },
   {
     "cat": "World",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/finance-ministry-to-conduct-factory-visits-for-ground-level-inputs-ahead-of-budget-planning/article71031978.ece",
     "time": "2026-05-28T06:10:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Social media as bad for children as smoking, British doctors say",
-    "desc": "“The ​question isn’t whether we are going to act; we will, whether that is a ban on social media ⁠for the under-16s or restrictions on key features and functions,” Technology Secretary Liz ⁠Kendall told BBC",
-    "img": "https://th-i.thgim.com/public/incoming/1lh8j4/article71027569.ece/alternates/LANDSCAPE_1200/CHILDREN%20M0BILE%20DELHI%202026_04_02_2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/social-media-as-bad-for-children-as-smoking-british-doctors-say/article71027551.ece",
-    "time": "2026-05-27T08:04:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Motorola Razr Fold Review",
-    "desc": "The foldable segment may not be the most crowded, but it is fiercely competitive and in India, the stakes have never been higher. Motorola steps into this evolving market with the Motorola Razr Fold, priced at ₹1,49,999",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/8mbze2/article71024445.ece/alternates/LANDSCAPE_1200/1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-razr-fold-review-a-genuinely-impressive-package/article71024383.ece",
-    "time": "2026-05-27T07:34:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How safe is India’s critical national infrastructure?",
-    "desc": "Over the last few decades, critical infrastructure and services have been scaled up through automation, the Internet of Things and AI. However, this has also made them more vulnerable to attacks through IoT devices, highlighting the need for a policy framework to safeguard our infrastructure",
-    "img": "https://th-i.thgim.com/public/incoming/p5ojvq/article71026612.ece/alternates/LANDSCAPE_1200/2026-03-16T230431Z_1282920369_RC2GXHAR2HH3_RTRMADP_3_INDIA-COALMINE-CLOSURE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/how-safe-is-indias-critical-national-infrastructure/article71026609.ece",
-    "time": "2026-05-26T18:02:28.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'",
-    "desc": "“I’m delighted to be wrong about this, ‌I ⁠thought there would have been more impact on entry-level white-collar jobs being eliminated by ⁠now than has actually happened,” Sam Altman told CBA Chief Executive Matt Comyn",
-    "img": "https://th-i.thgim.com/public/incoming/ikvmnw/article71024123.ece/alternates/LANDSCAPE_1200/2026-05-26T073711Z_1570248417_RC2UMCA6GNXA_RTRMADP_3_AUSTRALIA-OPENAI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/openais-altman-says-ai-unlikely-to-lead-to-jobs-apocalypse/article71024120.ece",
-    "time": "2026-05-26T08:29:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "As tech hiring hits a pause",
-    "desc": "The demand for the Indian tech talent, predominantly concentrated in Bengaluru, seems to be on a downward slope. Once a lucrative sector for aspirational young Indians, there is a lull in hiring in the ITeS sector. The Hindu speaks to experts who say the shift is structural not cyclical",
-    "img": "https://th-i.thgim.com/public/incoming/9wcm2k/article71006783.ece/alternates/LANDSCAPE_1200/Banks-step-up-hGTNG0NNEA.6.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/as-tech-hiring-hits-a-pause/article71003373.ece",
-    "time": "2026-05-25T10:10:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

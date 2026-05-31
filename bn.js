@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "হাঁটু মুড়ে বস, উঠলেই অ্যাসিড ঢেলে দেব! ৪ ঘণ্টা ধরে স্ত্রীর উপর অকথ্য অত্যাচার, শেষে যা হল...",
+    "desc": "স্ত্রীকে ঘরে আটকে রেখে চার ঘণ্টা ধরে নৃশংস অত্যাচার। অত্যাচার সহ্য করতে না পেরে তরুণীটি বাপের বাড়িতে পালিয়ে যান। কিন্তু অভিযুক্ত সেখানে গিয়েও তাঁর ওপর ছুরি নিয়ে হামলা চালায়। পুলিস জানায়, ২৫ বছর বয়সী আরবাজ একজন কুখ্যাত অপরাধী",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/mumbai-crim-husband-arrested-for-brutal-assault-on-wife_656032.html ",
+    "time": "2026-05-31T09:41:21.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ব্যাক-টু-ব্যাক চাম্পিয়ন্স লিগ পিএসজি-র, রুদ্ধশ্বাস ফাইনালের ফয়সলা পেনাল্টিতে",
     "desc": "ম্যাচের শুরুটা অবশ্য আর্সেনালের পরিকল্পনা অনুযায়ী হয়েছিল। খেলার ছয় মিনিটেই কাই হাভার্টজের চমৎকার কোণাকুণি শটে লিড নেয় গানাররা। প্রথমার্ধে পিএসজি ৭৬ শতাংশ বল দখলে রাখলেও আর্সেনালের রক্ষণ ভাঙতে পারেনি। ফলে ১-০ ব্যবধানে এগিয়ে থেকেই প্রথমার্ধ শেষ করে উত্তর লন্ডনের ক্লাবটি।",
@@ -223,15 +232,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actress-and-politician-kangana-ranaut-marriage-speculations-video-viral-shows-ranaut-with-a-mangalsutra_654888.html ",
     "time": "2026-05-22T08:16:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Debaloy-Ankita Controversy: ৩ কোটির মানহানি মামলার পাল্টা নোটিস অঙ্কিতাকে, আইনি পথে দেবালয়",
-    "desc": "এই সমস্যার সূত্রপাত হয় কয়েক দিন আগে। গত সপ্তাহে সোশ্যাল মিডিয়ায় টলিউডের একটি অন্য বিষয় নিয়ে একটি পোস্ট করেন দেবালয়। সেখানেই অঙ্কিতা একটি মন্তব্য করেন, \"তোমার মতো নোংরা পারভার্ট ব্রাহ্মণদের কী করে শ্রদ্ধা করি বলো তো? যারা নিজের বন্ধুর মেয়ের পিঠে হাত বোলাতে ছাড়ে না।\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/ankita-chakraborty-debaloy-bhattacharyya-controversy-debaloy-3-crore-defamation-suit-against-ankita_654811.html ",
-    "time": "2026-05-21T13:35:38.000Z"
   },
   {
     "cat": "World",

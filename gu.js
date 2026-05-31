@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "&amp;#039;સિલેક્શન મારા હાથમાં નથી...&amp;#039; T20 ટીમમાંથી બહાર થવા પર શુભમન ગિલનું છલકાયું દર્દ",
+    "desc": "IPL 2026માં બેટથી શાનદાર પ્રદર્શન કરનાર શુભમન ગિલે હવે ભારતીય T20 ટીમમાં વાપસી અંગે એક મોટું નિવેદન આપ્યું છે. ગુજરાત ટાઇટન્સને ફાઇનલમાં પહોંચાડનાર ગિલે સ્પષ્ટપણે કહ્યું કે તે સતત તેની રમત પર કામ કરી રહ્યો છે અને જો તેને તક આપવામાં આવે તો તે ભારતીય ટીમ માટે રમવા માટે તૈયાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-statement-on-t20-comeback-dreams-after-ipl-2026-performance-479878 ",
+    "time": "2026-05-31T10:36:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અચાનક અધવચ્ચે જ રોકી દેવામાં આવી કેદારનાથ યાત્રા, જાણો શું છે કારણ? ભક્તોને સલામત સ્થળોએ રોકવામાં આવ્યા",
+    "desc": "હવામાન વિભાગે આગામી કલાકોમાં ભારે વરસાદ, ભારે પવન અને તોફાનની આગાહી કરી છે. સંભવિત જોખમને ધ્યાનમાં રાખીને, કેદારનાથ ધામ તરફ જતા યાત્રાળુઓને વિવિધ સ્ટોપ અને હોલ્ડિંગ વિસ્તારોમાં રોકવામાં આવ્યા છે અને સુરક્ષિત રાખવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/kedarnath-yatra-suddenly-stopped-midway-know-what-is-the-reason-devotees-were-stopped-at-safe-places-479877 ",
+    "time": "2026-05-31T10:30:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સૌથી ડરામણી ફિલ્મો, આ 5 ફિલ્મો જોવામાં ભલભલાનો પરસેવો છૂટી જાય, એકલા હોવ ત્યારે ભૂલથી પણ ન જોતા",
+    "desc": "જો તમે હોરર થ્રિલર ફિલ્મો જોવાના શોખીન હોય અને તમને લાગતું હોય કે તમે ભયંકર હોરર ફિલ્મો જોઈ ચુક્યા છો તો તમે આ 5 ફિલ્મો પણ જોયેલી હશે. અને જો આ 5 ફિલ્મો નથી જોઈ તો જેટલી હિંમત હોય એટલી હિંમત એકઠી કરી આ ફિલ્મો જીયો હોટસ્ટાર પર જોવા બેસો. આ ફિલ્મોના ક્લાઈમેક્સ તમારા હોશ ઉડાવી દેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/5-most-scary-horror-movies-on-ott-in-hindi-jio-hotstar-5-must-watch-horror-thriller-movies-479876 ",
+    "time": "2026-05-31T10:27:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફિલ સોલ્ટ IPL ફાઇનલમાં RCB માટે રમશે ? કેપ્ટન રજત પાટીદાર આપ્યું અપડેટ",
+    "desc": "IPL 2026ની ફાઇનલ પહેલા રોયલ ચેલેન્જર્સ બેંગ્લોરના કેપ્ટન રજત પાટીદારે સ્ટાર ઓપનર ફિલ સોલ્ટની ફિટનેસ અંગે એક મોટી અપડેટ આપી. આંગળીની ઇજાને કારણે લાંબા સમયથી બહાર રહેલો સોલ્ટ હવે ટીમ સાથે પ્રેક્ટિસ કરી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-phil-salt-play-for-rcb-in-ipl-final-captain-rajat-patidar-gives-update-479874 ",
+    "time": "2026-05-31T09:38:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચ અંગે 2 મોટા નિર્ણય, મેમોરેન્ડમ અને પે લેવલ પર મોટું અપડેટ, જાણો અહીં બંને આદેશ",
+    "desc": "8th Pay Commissionને લઈને કેન્દ્રીય કર્મચારીઓ માટે 2 મોટી જાહેરાતો કરવામાં આવી છે. આમાંની એક જાહેરાત પંચ દ્વારા મેમોરેન્ડમ સબમિટ કરવા અંગેની છે, જ્યારે બીજી જાહેરાત કેન્દ્ર સરકાર દ્વારા નોન-ફંક્શનલ અપગ્રેડેશન (NFU) ને લઈને કરવામાં આવી છે. આ નિર્ણયોથી કેન્દ્રીય કર્મચારીઓને 8મા પગાર પંચની ભલામણો લાગુ થાય તે પહેલાં જ મોટો ફાયદો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-two-major-decisions-related-to-the-8th-pay-commission-updates-issued-on-memorandum-and-pay-levels-479858 ",
+    "time": "2026-05-31T08:51:01.000Z"
+  },
+  {
     "cat": "Business",
     "title": "પેટ્રોલ-ડીઝલ બાદ શું 1 જૂને વધશે LPGના ભાવ? જાણો &amp;#039;એક ઘર, એક કનેક્શન&amp;#039;નો નવો નિયમ",
     "desc": "દર મહિનાની 1 તારીખે ઓઇલ કંપનીઓ ગેસ સિલિન્ડરની કિંમતોમાં ફેરફાર કરે છે. ઈરાન યુદ્ધના કારણે ઊભા થયેલા ઉર્જા સંકટને લીધે દેશમાં છેલ્લા એક મહિનામાં ઘણી વખત પેટ્રોલ-ડીઝલના ભાવ વધ્યા છે. ગેસની કિંમતોમાં ફેરફારની સાથે-સાથે સિલિન્ડર સાથે જોડાયેલા નિયમોમાં પણ મોટા ફેરફાર કરવામાં આવ્યા છે.",
@@ -432,15 +477,6 @@ const newsData_gu = [
     "time": "2026-05-29T05:15:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "હાર્દિક પંડ્યા પાસેથી છીનવાશે કેપ્ટનશીપ! મુંબઈ ઈન્ડિયન્સમાં મોટી હલચલ, કોણ બનશે નવો કેપ્ટન?",
-    "desc": "IPL 2026 ખતમ થતાં પહેલા મુંબઈ ઈન્ડિયન્સ કેમ્પમાંથી મોટા સમાચાર સામે આવી રહ્યાં છે. મુંબઈના નિરાશાજનક પ્રદર્શન બાદ હાર્દિક પંડ્યા પાસેથી કેપ્ટનશિપ છીનવાઈ શકે છે. મુંબઈની ટીમ 14 મેચમાં માત્ર 4 જીત સાથે પોઈન્ટ ટેબલમાં નવમાં સ્થાને રહી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-will-be-stripped-of-the-captaincy-who-will-become-the-new-captain-of-mumbai-indians-479590 ",
-    "time": "2026-05-29T05:00:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "વિનાશકારી તોફાનના ભણકારા! IMDએ મૂસળધાર વરસાદનું એલર્ટ જાહેર કર્યું, ક્યાં પહોંચ્યું ચોમાસું? જાણો",
     "desc": "કાળઝાળ ગરમી વચ્ચે થોડી રાહત આપતા સમાચાર આવ્યા છે. દેશમાં અનેક ઠેકાણે વરસાદની આગાહી છે. ભારે પવન ફૂંકાઈ શકે છે. ગુજરાતમાં આવતી કાલથી 2 જૂન સુધી વરસાદની આગાહી કરવામાં આવી છે. ક્યાં કયાં વરસાદ પડી શકે છે તે જાણો.",
@@ -448,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/all-india-weather-forecast-imd-latest-prediction-gujarat-weather-update-heavy-rain-thunderstorm-479579 ",
     "time": "2026-05-29T04:35:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હમીરપુરમાં ભારે આંધી-તોફાનના કારણે નિર્માણધીન પુલ તૂટ્યો, 6 મજૂરોના મોત, અનેક કાટમાળમાં દટાયા",
-    "desc": "વળી પાછો એક નિર્માણધીન પુલ દુર્ઘટનાગ્રસ્ત થયો અને અનેક મજૂરોનો ભોગ લઈ ગયો. ઉત્તર પ્રદેશના હમીરપુરમાં ઘટેલા આ ઘટનામાં બેતવા નદી પર બની રહેલા પુલનો એક મોટો હિસ્સો તૂટી પડ્યો જેણે ઓછામાં ઓછા 6 મજૂરોના ભોગ લીધા અને અનેક લોકો ઘાયલ પણ થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bridge-under-construction-collapsed-several-laborers-died-many-injured-in-hamirpur-up-479570 ",
-    "time": "2026-05-29T03:09:08.000Z"
   },
   {
     "cat": "Business",
@@ -486,15 +513,6 @@ const newsData_gu = [
     "time": "2026-05-28T13:01:38.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPLના આ નિયમને કારણે રાજસ્થાન થઈ શકે છે બહાર, ગુજરાત ટાઇટન્સને રમ્યા વિના ફાઇનલમાં મળી શકે છે એન્ટ્રી",
-    "desc": "IPL 2026માં ફાઇનલ સિવાય અન્ય કોઈ મેચ માટે રિઝર્વ ડે રાખવામાં આવ્યો નથી. આનો સ્પષ્ટ અર્થ એ થાય છે કે મેચનું પરિણામ નિર્ધારિત તારીખે જ નક્કી થશે, ભલે ગમે તે થાય. આ સંજોગોમાં પ્રશ્ન એ થાય કે જો GT vs RR ક્વોલિફાયર 2 મેચ વરસાદને કારણે ધોવાઈ જાય, તો 31 મેના રોજ રોયલ ચેલેન્જર્સ બેંગલુરુ સામે ફાઇનલ કોણ રમશે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/what-happen-if-gt-vs-rr-ipl-2026-qualifier-2-match-is-cancelled-due-to-rain-479527 ",
-    "time": "2026-05-28T12:28:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "દુનિયાની રહસ્યમય નદી, જેના પર આજ સુધી નથી બનાવી શકાયો એક પણ પુલ, જાણો કેમ",
     "desc": "દુનિયાની બીજી સૌથી મોટી નદી એમેઝોન પર આજ સુધી કોઈ પુલ બનાવવામાં આવ્યો નથી. એન્જિનિયરો પણ આ નદી પર પુલ બનાવવામાં નિષ્ફળ ગયા છે, ત્યારે આ લેખમાં જાણીશું કે આ નદી પર કેમ પુલ બાંધી શકાતો નથી અને તેની પાછળનું કારણ શું છે.",
@@ -502,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-amazon-river-has-no-bridge-know-the-reason-behind-it-479515 ",
     "time": "2026-05-28T11:24:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીને ટીમ ઇન્ડિયામાં તક મળવી મુશ્કેલ, સિલેક્ટર્સ સામે છે આ મોટી સમસ્યા",
-    "desc": "IPL 2026માં વૈભવ સૂર્યવંશીના વિસ્ફોટક પ્રદર્શન બાદ તેને શક્ય તેટલી વહેલી તકે ટીમ ઈન્ડિયામાં તક આપવાની માંગ વધી રહી છે. દરમિયાન પૂર્વ ભારતીય ક્રિકેટર અને વર્તમાન કોમેન્ટેટર આકાશ ચોપરાએ જણાવ્યું છે કે વૈભવની ટીમ ઈન્ડિયામાં પસંદગી માટે વિલંબ કેમ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-difficult-for-vaibhav-suryavanshi-to-get-chance-in-team-india-aakash-chopra-explains-479513 ",
-    "time": "2026-05-28T10:56:56.000Z"
   },
   {
     "cat": "Tech",
@@ -745,14 +754,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/what-is-special-about-aishwarya-rai-bachchan-cannes-2026-blue-gown-here-is-details-478953 ",
     "time": "2026-05-23T07:49:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "માધુરી દીક્ષિતને આવા અવતારમાં આજ સુધી નહીં જોઈ હોય, મજેદાર છે માં બહેન ફિલ્મનું ટ્રેલર, જોઈ લો ફટાફટ",
-    "desc": "માધુરી દીક્ષિતની અપકમિંગ ફિલ્મ માં બહેનનું ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે. આ ટ્રેલર જોઈને તમને મજા પડી જશે. ફિલ્મનું ટ્રેલર જોઈને લાગે છે કે આ ફિલ્મ જોવાની મજા આવશે. આ ફિલ્મ નેટફ્લિક્સ પર રિલીઝ થવાની છે એટલે તમે ફિલ્મ ઘર બેઠા જોઈ શકશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/madhuri-dixit-never-before-netflix-movie-maa-behen-trailer-watch-here-478878 ",
-    "time": "2026-05-22T13:58:50.000Z"
   }
 ];
