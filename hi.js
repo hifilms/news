@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "More trouble for Gujarat Titans? 2022 champions suffer delayed flight issues ahead of IPL 2026 final",
+    "desc": "Gujarat Titans arrived in Ahmedabad late at night on the eve of their Indian Premier League 2026 final against the Royal Challengers Bengaluru on Sunday, May 31. GT had dealt with a lot of travel...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/more-trouble-for-gujarat-titans-2022-champions-suffer-delayed-flight-issues-ahead-of-ipl-2026-final-2026-05-31-1043071",
+    "time": "2026-05-31T01:59:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSG deny Arsenal to defend Champions League title, establish supremacy to become third club to huge record",
+    "desc": "Paris Saint-Germain and Luis Enrique etched their name into the history books after beating Premier League winners Arsenal in the Champions League 2026 final to defend their title at the Puskas Arena, Budapest, on Saturday,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/psg-deny-arsenal-to-defend-champions-league-title-establish-supremacy-to-become-third-club-to-huge-record-2026-05-31-1043068",
+    "time": "2026-05-31T01:26:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Did Kai Havertz score the fastest goal in UCL final history? Arsenal forward also joins Cristiano Ronaldo club",
     "desc": "Arsenal struck first in the UEFA Champions League 2025-26 final as Kai Havertz handed the Premier League champions an early advantage against Paris Saint-Germain in Budapest on Saturday. The German forward found the breakthrough just...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/india-vs-zimbabwe-live-when-and-where-to-watch-unity-cup-in-india-2026-05-30-1043029",
     "time": "2026-05-30T11:58:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinesh Phogat's Asian Games dream over after suffering defeat to Meenakshi Goyat in semi-final",
-    "desc": "Meenakshi Goyat defeated Vinesh Phogat 6-4 in the semifinal of the Asian Games trials for women's 53kg category. With that, Vinesh’s dreams of representing India in the Asian Games came to an end. The encounter proved...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-s-asian-games-dream-is-over-after-suffering-defeat-to-meenakshi-goyat-in-semi-final-2026-05-30-1043022",
-    "time": "2026-05-30T11:24:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi included in India's probables for Asian Games; Suryakumar Yadav out, who will captain?",
-    "desc": "India have submitted a list of 30 probable players to the Indian Olympic Association for the upcoming Asian Games. One of the biggest talking points from the preliminary group is the inclusion of 15-year-old batter...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-included-in-india-s-probables-for-asian-games-suryakumar-yadav-out-who-will-captain-2026-05-30-1043016",
-    "time": "2026-05-30T10:38:42.000Z"
   }
 ];
