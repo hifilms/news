@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Lebanon says Israeli dawn strike on south killed eight, including three women",
+    "desc": "The massacre committed by the Israeli enemy in a raid on the town of Deir Zahrani, Nabatieh district, at dawn on Sunday...resulted in eight martyrs, including three women, and 19 wounded, including five children and six women, says Ministry in a statement",
+    "img": "https://th-i.thgim.com/public/incoming/h9lzmn/article71045945.ece/alternates/LANDSCAPE_1200/Lebanon_Israel_Iran_War_4_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/lebanon-says-israeli-dawn-strike-on-south-killed-eight-including-three-women/article71045944.ece",
+    "time": "2026-05-31T21:03:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'We were wearing garbage bags': Farah recalls KKHH BTS",
+    "desc": "Filmmaker Farah Khan reminisced about the 'Kuch Kuch Hota Hai' shoot, recalling freezing temperatures in Scotland where the cast wore garbage bags for warmth. Meanwhile, she celebrated a proud moment as her triplets, Diva, Anya, and Czar, graduated from high school, sharing joyful family pictures with fans.",
+    "img": "https://static.toiimg.com/photo/msid-131429448,imgsize-46020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-were-wearing-garbage-bags-it-was-freezing-cold-says-farah-khan-as-she-recalls-kuch-kuch-hota-hai-bts-with-kajol-shah-rukh-khan-tanisha-mukerji-visited-them/articleshow/131429447.cms",
+    "time": "2026-05-31T20:35:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Daughters killed for dowry",
+    "desc": "In the past three weeks, 33-year-old Twisha Sharma’s death over alleged dowry harassment has seen alleged procedural lapses and institutional bias by Bhopal Police. As her mother-in-law, a retired judge, slandered her daughter-in-law, a former model on TV channels, Twisha’s parents and sibling stood up against the influential in-laws. An exhausting timeline of the case and the debate it has sparked about walking out of a bad marriage",
+    "img": "https://th-i.thgim.com/public/incoming/opfpiy/article71044702.ece/alternates/LANDSCAPE_1200/Twisha_7.JPG.jpeg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/daughters-killed-for-dowry/article71044688.ece",
+    "time": "2026-05-31T20:18:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIR enumeration phase begins in Odisha, Mizoram, Sikkim and Manipur",
+    "desc": "Enumeration forms must be submitted by June 28 to be included in draft electoral rolls; this is part of the third phase of the SIR, which will complete the process across the country except Himachal, J&K, Ladakh",
+    "img": "https://th-i.thgim.com/public/incoming/xtye6y/article71044546.ece/alternates/LANDSCAPE_1200/IMG_20260222210L_2_1_BTG15KH3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/enumeration-phase-of-sir-begins-in-four-states/article71044518.ece",
+    "time": "2026-05-31T19:56:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Stuff you dream of... wanting to hit the winning run’: Kohli reveals lifelong IPL wish",
+    "desc": "Chasemaster Virat Kohli fulfilled a long-held dream by hitting the winning six to secure Royal Challengers Bengaluru's second IPL title. His unbeaten 75, featuring his fastest IPL fifty, guided RCB to a five-wicket victory. Kohli emphasised the team's strength and the fans' unwavering support as key to their championship success.",
+    "img": "https://static.toiimg.com/photo/msid-131429343,imgsize-50502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/stuff-you-dream-of-wanting-to-hit-the-winning-run-virat-kohli-reveals-lifelong-ipl-final-wish/articleshow/131429310.cms",
+    "time": "2026-05-31T19:56:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How every piece of the puzzle fell into place for Royal Challengers Bengaluru",
+    "desc": "Every major RCB win in IPL 2026 featured a different hero. Sometimes it was Kohli. Sometimes Patidar. Sometimes Padikkal. Sometimes David. Sometimes Krunal. Sometimes Bhuvneshwar. Sometimes it was the bowlers operating as a collective unit. That was the defining characteristic of this championship side. The first IPL trophy ended one of the league's longest waits. The second confirmed something even more important. Royal Challengers Bengaluru are no longer a franchise chasing history. They may well be on their way to creating one.",
+    "img": "https://static.toiimg.com/photo/msid-131429000,imgsize-471904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-how-every-piece-of-the-puzzle-fell-into-place-for-royal-challengers-bengaluru/articleshow/131429000.cms",
+    "time": "2026-05-31T19:46:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Adalats, DLSAs have no authority to grant divorce: Allahabad High Court",
+    "desc": "The court, in an order passed on April 30, said the power to dissolve a marriage rests exclusively with family courts, while the authority of Lok Adalats is limited to facilitating settlements between parties, and it cannot render judicial decisions.",
+    "img": "https://th-i.thgim.com/public/incoming/868tz3/article71045873.ece/alternates/LANDSCAPE_1200/Prayer-meeting-GEIFPP834.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/lok-adalats-dlsas-have-no-authority-to-grant-divorce-allahabad-high-court/article71045869.ece",
+    "time": "2026-05-31T19:31:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I feel a bit under pressure’: Sooryavanshi’s hilarious confession steals show",
+    "desc": "Fifteen-year-old Vaibhav Sooryavanshi, despite Rajasthan Royals not reaching the IPL 2026 final, emerged as a standout performer. He clinched the Orange Cap with a record-breaking 776 runs at a staggering strike rate, alongside the MVP and Emerging Player awards. His humble admission of nervousness during the presentation charmed audiences, highlighting the young talent's remarkable season.",
+    "img": "https://static.toiimg.com/photo/msid-131429106,imgsize-54430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-feel-a-bit-under-pressure-vaibhav-sooryavanshis-hilarious-confession-steals-show-after-dream-ipl-2026-season/articleshow/131429074.cms",
+    "time": "2026-05-31T19:31:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mini Mathur, Kabir Khan's daughter Sairah graduates, proud mom pens note",
+    "desc": "Mini Mathur and Kabir Khan celebrated their daughter Sairah's International Baccalaureate diploma graduation. Sairah completed her two-year program with dedication. The family shared joyful moments from the ceremony. Mini expressed pride in Sairah's kindness and compassion. She also thanked Oberoi International School teachers for their support. Separately, Mini commented on actor Kirti Kulhari's remarks about domestic worker wages.",
+    "img": "https://static.toiimg.com/photo/msid-131429083,imgsize-55058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mini-mathur-kabir-khans-daughter-sairah-graduates-proud-mother-pens-emotional-note-time-for-her-to-fly-and-shine/articleshow/131429017.cms",
+    "time": "2026-05-31T19:28:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How much did RCB and GT earn this season?",
+    "desc": "Royal Challengers Bengaluru secured the IPL 2026 title and a ₹20 crore prize. Gujarat Titans finished as runners-up, earning ₹13 crore. Rajasthan Royals received ₹7 crore for their third-place finish. Sunrisers Hyderabad took home ₹6.5 crore. The total prize pool for the four playoff teams was over ₹46.5 crore, concluding a successful season.",
+    "img": "https://static.toiimg.com/photo/msid-131428195,imgsize-224808.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-prize-money-how-much-did-champions-rcb-and-runners-up-gt-earn-this-season/articleshow/131428167.cms",
+    "time": "2026-05-31T19:14:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat-Anushka's PDA wins the internet as RCB wins IPL 2026",
+    "desc": "Royal Challengers Bengaluru clinched their second consecutive IPL title, defeating Gujarat Titans in the 2026 final. Virat Kohli's unbeaten 75 led the chase, and his celebratory moments with Anushka Sharma at the stadium quickly went viral, captivating fans online.",
+    "img": "https://static.toiimg.com/photo/msid-131428551,imgsize-38336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-anushka-sharma-take-over-the-internet-yet-again-their-adorable-moments-go-viral-as-rcb-win-ipl-2026-netizens-gush-over-their-pda/articleshow/131428501.cms",
+    "time": "2026-05-31T19:00:39.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Virat Kohli seals IPL title with six, Anushka Sharma erupts in wild celebration",
     "desc": "Virat Kohli's masterful unbeaten 75 guided Royal Challengers Bengaluru to a thrilling five-wicket victory over Gujarat Titans in the IPL 2026 final. Kohli struck the winning six, securing RCB's second IPL title and igniting jubilant celebrations. His rapid half-century and calm anchoring of the chase proved decisive in the dramatic finale.",
@@ -16,6 +115,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/the-persecution-of-consent/article65960513.ece",
     "time": "2026-05-31T18:48:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar BJP’s Pandit Deendayal Upadhyaya mega training campaign-2026 concludes",
+    "desc": "Chief Minister Samrat Choudhary addressed the concluding session in Bhagalpur, while State President Sanjay Saraogi addressed training sessions in Motihari and Valmikinagar. Around 20,000 party workers across 52 organisational districts received Ideological and Organisational Training.",
+    "img": "https://th-i.thgim.com/public/news/national/frsgzl/article71045786.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-31%20at%2019.56.43.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-bjps-pandit-deendayal-upadhyaya-mega-training-campaign-2026-concludes/article71045306.ece",
+    "time": "2026-05-31T18:31:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -66,7 +174,7 @@ const newsData_en = [
     "cat": "Sports",
     "title": "RCB's new era, Kohli's old magic: Defending champions outclass GT in IPL final",
     "desc": "Virat Kohli produced a masterful unbeaten 75 after Royal Challengers Bengaluru's (RCB) pace attack dismantled Gujarat Titans at the Narendra Modi Stadium in Ahmedabad on Sunday. Rajat Patidar's men secured a second successive IPL title with a commanding five-wicket victory. Rajat Patidar also became only the third captain to have won back-to-back IPL titles after MS Dhoni and Rohit Sharma.",
-    "img": "https://static.toiimg.com/photo/msid-131427493,imgsize-35374.cms",
+    "img": "https://static.toiimg.com/photo/msid-131429296,imgsize-186274.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rcbs-new-era-virat-kohlis-old-magic-defending-champions-outclass-gujarat-titans-in-ipl-final/articleshow/131427490.cms",
     "time": "2026-05-31T18:06:39.000Z"
@@ -208,6 +316,15 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
+    "title": "Dua Lipa and Callum Turner get married in London",
+    "desc": "The music and film world is abuzz after pop star Dua Lipa and actor Callum Turner quietly sealed their love in a charming private ceremony in London. While a grand celebration is expected to take place in Sicily, the couple's heartfelt exchange of vows at Old Marylebone Town Hall was attended by only a few close friends and family.",
+    "img": "https://static.toiimg.com/photo/msid-131425525,imgsize-175076.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipa-callum-turner-get-married-at-london-registry-office-the-couple-will-have-second-wedding-in-sicily-next-week/articleshow/131425494.cms",
+    "time": "2026-05-31T16:00:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "When Kumar Sanu spoke about fights with Anu Malik before he would praise him",
     "desc": "Veteran singer Kumar Sanu shared a humorous anecdote about music composer Anu Malik's unpredictable recording sessions. Malik once harshly criticized Sanu's first take as 'disgusting,' only to call hours later praising his 'exceptional' performance. This tale highlights their creative dynamic behind numerous Bollywood hits.",
     "img": "https://static.toiimg.com/photo/msid-131425412,imgsize-29478.cms",
@@ -324,15 +441,6 @@ const newsData_en = [
     "time": "2026-05-31T13:53:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Why the IPL 2026 Final toss left both RCB and GT smiling in Ahmedabad",
-    "desc": "Royal Challengers Bengaluru opted to bowl first in the IPL 2026 final against Gujarat Titans. Skipper Rajat Patidar backed his team's strong chasing record on a batting-friendly pitch. Gujarat Titans captain Shubman Gill also admitted he would have batted first, highlighting the toss's favorable outcome for both sides. One change sees Arshad Khan replace Sai Kishore for GT.",
-    "img": "https://static.toiimg.com/photo/msid-131424013,imgsize-124756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/why-the-ipl-2026-final-toss-left-both-rcb-and-gt-smiling-in-ahmedabad/articleshow/131423836.cms",
-    "time": "2026-05-31T13:48:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Top life lessons from Meryl Streep that are worth holding onto",
     "desc": "Meryl Streep, a celebrated actress, shares her wisdom on leading a meaningful life and career. She emphasizes bringing your whole self to work, trusting your own judgment over external opinions, and embracing change as the only constant. Streep's advice encourages authenticity and resilience in navigating life's challenges.",
@@ -349,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ruturaj-gaikwad-replaces-injured-riyan-parag-in-india-a-squad/article71044834.ece",
     "time": "2026-05-31T13:27:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Birthday heartbreak for Swiatek! Four-time champion crashes out of French Open",
-    "desc": "A new women's champion is guaranteed at Roland-Garros after four-time winner Iga Swiatek was stunningly defeated by Marta Kostyuk. The Ukrainian's impressive clay-court form saw her overcome Swiatek, marking a significant upset. With Coco Gauff also out, the path is clear for a first-time French Open winner, as veteran Sorana Cirstea also advanced.",
-    "img": "https://static.toiimg.com/photo/msid-131423727,imgsize-187490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/birthday-heartbreak-for-iga-swiatek-four-time-champion-crashes-out-as-roland-garros-guarantees-a-first-time-queen/articleshow/131423728.cms",
-    "time": "2026-05-31T13:23:39.000Z"
   },
   {
     "cat": "Politics",
@@ -414,15 +513,6 @@ const newsData_en = [
     "time": "2026-05-31T12:33:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Niall Horan on meeting Liam Payne the last time",
-    "desc": "Niall Horan reflects on his final meeting with Liam Payne in Argentina, just weeks before the tragic news of his passing. Horan expressed disbelief and cherished their shared memories, finding laughter amidst the sadness. He also revealed his tribute song, 'End of an Era,' believing Payne would have loved its style, a sentiment echoed by Louis Tomlinson's dedication.",
-    "img": "https://static.toiimg.com/photo/msid-131422984,imgsize-90486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/niall-horan-recalls-last-meeting-with-liam-payne-it-means-my-last-memory-of-him-was-happy/articleshow/131422936.cms",
-    "time": "2026-05-31T12:23:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Two-year title drought ends! Satwik-Chirag win maiden Singapore Open",
     "desc": "Satwiksairaj Rankireddy and Chirag Shetty clinched their maiden Singapore Open title, ending a two-year wait for a trophy. The Indian duo staged a remarkable comeback, defeating Indonesia's Fajar Alfian and Muhammad Shohibul Fikri 18-21, 21-17, 21-16 in a thrilling final. This historic victory marks their first doubles title at the prestigious Singapore Open and their ninth World Tour crown.",
@@ -430,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/two-year-title-drought-ends-satwik-chirag-win-maiden-singapore-open/articleshow/131422952.cms",
     "time": "2026-05-31T12:22:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Indrans confirms role in 'D55' alongside Dhanush and Mammootty",
-    "desc": "Veteran actor Indrans has confirmed his participation in the upcoming Tamil film 'D55,' starring alongside Dhanush and Mammootty. Directed by Rajkumar Periasamy, the movie boasts an impressive ensemble cast including Sai Pallavi and Sreeleela. Periasamy has hinted the film will celebrate unsung heroes, adding to the growing anticipation for this star-studded project.",
-    "img": "https://static.toiimg.com/photo/msid-131422822,imgsize-112800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/after-winning-a-role-in-suriyas-karuppu-indrans-confirms-role-in-d55-alongside-dhanush-and-mammootty/articleshow/131422815.cms",
-    "time": "2026-05-31T12:10:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tusshar Kapoor completes 25 years in Bollywood",
-    "desc": "Tusshar Kapoor marks a remarkable 25-year journey in Bollywood, reveling in the laughter brought about by the 'Golmaal' and 'Welcome' franchises. As he steps into more serious terrain with an upcoming political drama, 'Janaadesh', he also readies himself for the fun-filled escapades of 'Welcome To The Jungle' and 'Golmaal 5'.",
-    "img": "https://static.toiimg.com/photo/msid-131422806,imgsize-76444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tusshar-kapoor-on-25-years-in-bollywood-ill-never-stop-doing-the-welcomes-and-golmaals-theyre-my-bread-and-butter/articleshow/131422782.cms",
-    "time": "2026-05-31T12:07:37.000Z"
   },
   {
     "cat": "Politics",
@@ -460,30 +532,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Why Vaibhav Sooryavanshi is in Ahmedabad despite RR missing the IPL Final",
-    "desc": "Vaibhav Sooryavanshi, a 15-year-old from Rajasthan Royals, is set to be a major attraction at the IPL 2026 final. He has had an exceptional season, leading in runs and sixes. Sooryavanshi is expected to win multiple awards. His performance has redefined T20 batting possibilities. The final will feature Royal Challengers Bengaluru and Gujarat Titans.",
-    "img": "https://static.toiimg.com/photo/msid-131422521,imgsize-146898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/why-vaibhav-sooryavanshi-is-in-ahmedabad-despite-rajasthan-royals-missing-the-ipl-final/articleshow/131422451.cms",
-    "time": "2026-05-31T11:47:26.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Police issue advisory on post-IPL 2026 final celebrations in Bengaluru",
     "desc": "Once the final result is announced, the public should not engage in any kind of celebrations in public places, the police said, adding that maintaining law and order, public peace, and safety is the responsibility of every citizen.",
     "img": "https://th-i.thgim.com/public/incoming/gkng3z/article71044482.ece/alternates/LANDSCAPE_1200/RCB%20fans_2.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/police-issue-advisory-on-post-ipl-2026-final-celebrations-in-bengaluru/article71044462.ece",
     "time": "2026-05-31T11:39:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Producer Thanu on negative claims around Silambarasan’s discipline",
-    "desc": "Producer Kalaipuli S. Thanu has refuted rumors of Silambarasan's tardiness on the 'Arasan' sets, stating the actor arrives an hour early and is a dedicated performer. Thanu also confirmed a health issue faced by Silambarasan, emphasizing the actor's commitment to Vetrimaaran's vision. The producer anticipates a significant career milestone for Silambarasan with the film.",
-    "img": "https://static.toiimg.com/photo/msid-131422433,imgsize-79220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/producer-thanu-shuts-down-negative-claims-surrounding-silambarasans-discipline-and-lateness-on-sets-for-arasan-he-arrives-an-hour-early/articleshow/131422424.cms",
-    "time": "2026-05-31T11:39:28.000Z"
   },
   {
     "cat": "Politics",
@@ -520,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-outlook-what-will-guide-market-sentiments-this-week/articleshow/131421057.cms",
     "time": "2026-05-31T09:23:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Who will replace DK Shivakumar as state president? Kharge says Congress looking for right leader",
-    "desc": "Congress president Mallikarjun Kharge stated that the party is actively searching for a new Karnataka Pradesh Congress Committee (KPCC) president to strengthen the organization for upcoming elections. Discussions regarding the new Karnataka cabinet composition are ongoing, with a phased expansion potentially occurring after the June 3 swearing-in ceremony.",
-    "img": "https://static.toiimg.com/photo/msid-131420859,imgsize-42112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-will-replace-dk-shivakumar-as-state-president-kharge-says-congress-looking-for-right-leader/articleshow/131420753.cms",
-    "time": "2026-05-31T08:49:09.000Z"
   },
   {
     "cat": "Business",
@@ -702,15 +747,6 @@ const newsData_en = [
     "time": "2026-05-30T12:31:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Carbon rules, sustainability mandates make compliance a business priority, say experts",
-    "desc": "New environmental regulations, like the EU's carbon tax and India's proposed credit trading scheme, are making ESG a crucial business compliance issue, not just voluntary reporting. Experts warn companies without robust carbon data systems risk losing competitiveness. Implementation readiness and data credibility are now paramount for navigating these evolving global standards and securing green finance.",
-    "img": "https://static.toiimg.com/photo/msid-131409015,imgsize-1332753.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/esg-shift-carbon-rules-sustainability-mandates-make-compliance-a-business-priority-say-experts/articleshow/131408968.cms",
-    "time": "2026-05-30T12:04:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Koothu-p-Pattarai’s Pataliputhram: A haunting allegory of exploitation and survival",
     "desc": "Gnana Rajasekaran’s Pataliputhram, directed by K.R. Rajaravivarma, is a haunting exploration of labour, survival and systemic inequality. Through movement, music and powerful performances, the play examines alienation, caste discrimination and the existential struggle for dignity in a world shaped by exploitation and hunger.",
@@ -781,24 +817,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/fashion/how-mohit-rai-styled-aishwarya-rai-bachchan-for-cannes-2026/article71024967.ece",
     "time": "2026-05-30T01:51:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gill masterclass guides Titans past Royals into final",
-    "desc": "The skipper puts on 167 with Sai Sudharsan to make short work of the 215-run target; Sooryavanshi's gem goes in vain as the Gujarat side makes it to the summit clash for the third time in five seasons",
-    "img": "https://th-i.thgim.com/public/incoming/ea8091/article71040082.ece/alternates/LANDSCAPE_1200/58_RVM_9898.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-qualifier-2-gujarat-titans-vs-rajasthan-royals/article71037882.ece",
-    "time": "2026-05-30T01:32:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Teen star Pooja Singh smashes high jump senior national record during Asian U20 Championships",
-    "desc": "Pooja setting a new national record was not a surprise as she is also the current Asian champion. Sh.e won the women's high gold at the Asian Championships in South Korea last year with a 1.89m effort",
-    "img": "https://th-i.thgim.com/public/incoming/rkwb5o/article71039241.ece/alternates/LANDSCAPE_1200/_DSC6046.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/teen-star-pooja-singh-smashes-high-jump-senior-national-record-during-asian-u20-championships/article71038982.ece",
-    "time": "2026-05-29T22:41:20.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/social-media-as-bad-for-children-as-smoking-british-doctors-say/article71027551.ece",
     "time": "2026-05-27T08:04:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Motorola Razr Fold Review",
-    "desc": "The foldable segment may not be the most crowded, but it is fiercely competitive and in India, the stakes have never been higher. Motorola steps into this evolving market with the Motorola Razr Fold, priced at ₹1,49,999",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/8mbze2/article71024445.ece/alternates/LANDSCAPE_1200/1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-razr-fold-review-a-genuinely-impressive-package/article71024383.ece",
-    "time": "2026-05-27T07:34:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How safe is India’s critical national infrastructure?",
-    "desc": "Over the last few decades, critical infrastructure and services have been scaled up through automation, the Internet of Things and AI. However, this has also made them more vulnerable to attacks through IoT devices, highlighting the need for a policy framework to safeguard our infrastructure",
-    "img": "https://th-i.thgim.com/public/incoming/p5ojvq/article71026612.ece/alternates/LANDSCAPE_1200/2026-03-16T230431Z_1282920369_RC2GXHAR2HH3_RTRMADP_3_INDIA-COALMINE-CLOSURE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/how-safe-is-indias-critical-national-infrastructure/article71026609.ece",
-    "time": "2026-05-26T18:02:28.000Z"
   }
 ];
