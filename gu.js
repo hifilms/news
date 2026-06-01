@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "મોંઘવારીનો મોટો ઝટકો, LPG સિલિન્ડરના ભાવમાં ફરી તોતિંગ વધારો, જાણો અમદાવાદ સહિત શહેરોમાં ભાવ",
+    "desc": "જૂન મહિનો શરૂ થતા જ સામાન્ય જનતા વળી પાછો મોટો ઝટકો લાગ્યો છે. કારણ કે આજથી કોમર્શિયલ ગેસ સિલિન્ડરના ભાવમાં તોતિંગ વધારો ઝીંકાયો છે. આ સાથે નાના સિલિન્ડરના ભાવ પણ વધ્યા છે. જાણો વિગતો. તમારા શહેરમાં શું છે ભાવ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-commercial-cylinders-price-hiked-check-latest-rates-ahmedabad-vadodara-surat-rajkot-479949 ",
+    "time": "2026-06-01T03:21:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 ફાઇનલ બાદ દુર્ઘટના, ગુજરાત ટાઇટન્સની ટીમ બસમાં લાગી આગ, માંડ માંડ બચ્યા ખેલાડીઓ",
+    "desc": "IPL 2026ની ફાઇનલ હાર્યા બાદ ગુજરાત ટાઇટન્સની ટીમની બસ હોટલ પરત ફરતી વખતે શોર્ટ સર્કિટને કારણે આગ લાગી હતી. સદનસીબે, શુભમન ગિલ સહિત તમામ ખેલાડીઓને સુરક્ષિત રીતે બહાર કાઢવામાં આવ્યા, જોકે તેઓ લગભગ એક કલાક સુધી રસ્તા પર ફસાયેલા રહ્યા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/gujarat-titans-team-bus-catches-fire-after-ipl-2026-final-players-evacuated-479948 ",
+    "time": "2026-06-01T03:15:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રાજસ્થાન રોયલ્સનો એક ક્રિકેટર કરતો એવા મેસેજ કે બ્લોક કરવો પડ્યો..  તારક મેહતા ફેમ નેહલનો વધુ એક ધડાકો",
+    "desc": "થોડા સમય પહેલા જ લાલો ફિલ્મના એક્ટર કરણ જોશી દ્વારા આપત્તિજનક મેસેજ કર્યાનો ખુલાસો કરી ઈંટરનેટ પર છવાઈ ગયેલી એક્ટ્રેલ નેહલ વાડોલિયાએ વધુ એક ધડાકો કર્યો છે. આ વખતે તેણે રાજસ્થાન રોયલ્સ ટીમના એક ક્રિકેટરનું નામ લઈ ચોંકાવનારી વાત કરી છે. શું છે આ મામલો ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/tmkoc-fame-actress-nehal-vadoliya-rajasthan-royals-team-divorcee-cricketer-messaged-her-479947 ",
+    "time": "2026-06-01T03:05:51.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "પાટીદારની કેપ્ટનશીપ, વિરાટ-ભુવી-કૃણાલનું શાનદાર પ્રદર્શન... RCB બેક-ટુ-બેક ચેમ્પિયન, આ 5 મુખ્ય કારણો બન્યા વિનિંગ ફોર્મ્યુલા",
     "desc": "આઈપીએલ 2026ની ફાઇનલમાં ગુજરાત ટાઇટન્સને હરાવીને આરસીબીએ સતત બીજી વખત ખિતાબ જીત્યો છે. કેપ્ટન રજત પાટીદારના શાનદાર નેતૃત્વ, કોચ એન્ડી ફ્લાવરની આક્રમક રણનીતિ અને વિરાટ કોહલી તેમજ ભુવનેશ્વર કુમારના દમદાર પ્રદર્શને બેંગલુરુને ફરી એકવાર ચેમ્પિયન બનાવવામાં મુખ્ય ભૂમિકા ભજવી છે. હેડ કોચ એન્ડી ફ્લાવરે જે દ્રષ્ટિકોણને ટૂર્નામેન્ટ પહેલાં આધાર બનાવ્યો હતો, તેણે ટીમને ચેમ્પિયન બનાવીને જ દમ લીધો.",
@@ -232,15 +259,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/famous-bhojpuri-actress-mitali-sharma-forced-to-beg-on-the-road-seeing-her-condition-479828 ",
     "time": "2026-05-31T04:32:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અમદાવાદમાં IPL ફાઇનલ ફીવર: વરસાદ પડશે તો પણ ટેન્શન નહીં! હોટેલ ભાડામાં 10000%નો વધારો, જાણો ટ્રાફિક-સુરક્ષા",
-    "desc": "અમદાવાદમાં આઈપીએલ ફાઇનલ મેચને પગલે હોટેલ ઉદ્યોગમાં તેજી: હોટેલોના ભાડામાં ૩૦૦% થી ૧૦૦૦% સુધીનો અભૂતપૂર્વ વધારો. સ્ટેડિયમની નજીકની સામાન્ય હોટેલ્સના ભાવ ₹૩,૫૦૦થી વધીને ₹૩૫,૦૦૦ સુધી અને લક્ઝરી હોટેલ્સના ભાવ ₹૫૦,૦૦૦ને પાર પહોંચ્યા. મેચ પૂર્ણ થયા બાદ દર્શકોને ઘરે પહોંચાડવા માટે AMTS અને BRTS બસની પણ વ્યવસ્થા કરવામાં આવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-final-fever-in-ahmedabad-hotel-rents-increase-by-1000-traffic-and-security-arrangements-in-place-479825 ",
-    "time": "2026-05-31T03:47:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -718,14 +736,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/satrangi-badle-ka-khel-web-series-ott-hindi-crime-thriller-series-with-highest-imdb-rating-479004 ",
     "time": "2026-05-23T12:07:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઐશ્વર્યા રાય બચ્ચનનું બ્લૂ ગાઉન છે સ્પેશિયલ, ડ્રેસ પર જડેલા છે હજારો ક્રિસ્ટલ્સ, ચેક કરો ડિટેલ્સ",
-    "desc": "ઐશ્વર્યા રાય બચ્ચને કાન્સ 2026 ના રેડ કાર્પેટ પર ઉતરી પોતાની સુંદરતાનો જાદુ ફરી ચલાવી દીધો છે. શુક્રવારે ઐશ્વર્યા બ્લૂ રંગના ગાઉનમાં સજ્જ થઈ રેડ કાર્પેટ પર ઉતરી હતી. ઐશ્વર્યાનું આ ગાઉન ચર્ચાનો વિષય બન્યું છે કારણ કે તે ખાસ છે. આ ગાઉનમાં શું ખાસ છે ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/what-is-special-about-aishwarya-rai-bachchan-cannes-2026-blue-gown-here-is-details-478953 ",
-    "time": "2026-05-23T07:49:14.000Z"
   }
 ];
