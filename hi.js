@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former England cricketer backs Vaibhav Sooryavanshi to make India debut after exceptional IPL season",
+    "desc": "The IPL (Indian Premier League) 2026 was exceptional for 15-year-old Vaibhav Sooryavanshi. Playing his first full season, Sooryavanshi was the star performer for Rajasthan Royals, winning the IPL orange cap, scoring 776 runs to his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-england-cricketer-backs-vaibhav-sooryavanshi-to-make-india-debut-after-exceptional-ipl-season-2026-06-01-1043287",
+    "time": "2026-06-01T18:27:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is the favourite to win the French Open 2026 after Sinner and Djokovic's elimination? Andy Roddick reveals",
+    "desc": "The ongoing French Open 2026 has taken quite an interesting turn. The tournament began with Carlos Alcaraz having pulled out due to injury. With Alcaraz out, many opined that it could be clear ways for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/who-is-the-favourite-to-win-the-french-open-2026-after-sinner-and-djokovic-s-elimination-andy-roddick-reveals-2026-06-01-1043284",
+    "time": "2026-06-01T17:39:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Harbhajan Singh weighed in on Shubman Gill's dismissal against RCB in IPL 2026 final",
     "desc": "The IPL (Indian Premier League) 2026 final saw Gujarat Titans lose the marquee clash against defending champions Royal Challengers Bengaluru. The two sides met at the Narendra Modi Stadium in Ahmedabad, and after GT posted...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-is-similar-to-ms-dhoni-rohit-sharma-ex-india-selectors-big-praise-to-rcbs-winning-skipper-2026-06-01-1043234",
     "time": "2026-06-01T09:32:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Virat Kohli be in action next after winning IPL 2026 for RCB?",
-    "desc": "Virat Kohli's 'stuff of dreams' saw him lift the Indian Premier League 2026 title for the second time as the Royal Challengers Bengaluru defended the crown that they won last year. Kohli, who has carried...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-will-virat-kohli-be-in-action-next-after-winning-ipl-2026-for-rcb-2026-06-01-1043225",
-    "time": "2026-06-01T09:06:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What does Shimron Hetmyer's return to West Indies' ODI squad for Sri Lanka series mean?",
-    "desc": "Shimron Hetmyer made a return to the West Indies squad for the upcoming ODI series against Sri Lanka, as did Alzarri Joseph, as the Windies gear up for the crucial contests at home. Hetmyer is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-does-shimron-hetmyers-return-to-west-indies-odi-squad-for-sri-lanka-series-mean-2026-06-01-1043221",
-    "time": "2026-06-01T08:40:50.000Z"
   }
 ];

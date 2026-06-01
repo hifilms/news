@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "દેશમાં આખરે ક્યારે આવશે ચોમાસું, શું છે મોડું થવાનું કારણ? જાણો વારંવાર તારીખ કેમ આગળ વધારી રહ્યું છે IMD",
+    "desc": "IMDએ પહેલાં કહ્યું હતું કે ચોમાસું 26 મેના રોજ કેરળ પહોંચી જશે, પરંતુ હજી સુધી ચોમાસું કેરળ પહોંચ્યું નથી. અરબી સમુદ્ર પર પશ્ચિમી પવનોની ગતિ ખૂબ જ ઓછી છે. આ કારણે ચોમાસાની શરૂઆત થઈ શકતી નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/when-will-the-monsoon-finally-arrive-in-the-country-what-is-the-reason-for-the-delay-know-why-imd-is-repeatedly-pushing-the-date-forward-480063 ",
+    "time": "2026-06-01T17:51:27.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "CBSE વિદ્યાર્થીઓ માટે મોટા સમાચાર! રાત્રે 12 વાગ્યા પહેલા એક્ટિવ થશે રી-ઈવેલ્યુએશન લિંક, જાણો વેબસાઇટ",
     "desc": "CBSE 12મા ધોરણના વિદ્યાર્થીઓ માટે થોડી રાહત છે. પુનઃમૂલ્યાંકન અને પુનઃચેકિંગ પોર્ટલ ટૂંક સમયમાં લાઇવ થઈ રહ્યું છે. વિલંબનું કારણ, IIT કાનપુરની ટેકનિકલ ટીમે શું કહ્યું અને વિદ્યાર્થીઓએ આગળ શું કરવું જોઈએ તે વિશે જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/should-you-turn-off-the-ac-with-the-remote-or-the-switch-most-people-make-this-big-mistake-479723 ",
     "time": "2026-05-30T06:04:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "1 જૂનથી LPGના બદલાઈ રહ્યા છે નિયમ, સિલિન્ડર થઈ શકે છે કેન્સલ, વિગતો ખાસ જાણો",
-    "desc": "પશ્ચિમ એશિયાના સંકટના ભરડામાં અનેક દેશો આવ્યા છે. ભારતમાં લોકોને તકલીફ ન પડે એટલા માટે કેટલાક ફેરફાર પણ કરવામાં આવ્યા છે. જેમાં એક જે ફેરફાર કરાયો છે તે હવે આગામી મહિનાની 1 તારીખ એટલે કે 1લી જૂનથી અમલી થઈ રહ્યો છે. આ ફેરફાર એલપીજી સિલિન્ડર કનેક્શન સંલગ્ન છે. તેના વિશે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-gas-big-update-connection-rule-what-other-changes-from-june-1-check-details-ulility-news-479724 ",
-    "time": "2026-05-30T06:03:38.000Z"
   },
   {
     "cat": "World",

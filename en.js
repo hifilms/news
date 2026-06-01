@@ -1,12 +1,219 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Government cuts Kharif fertiliser demand estimate on weak monsoon outlook",
+    "desc": "India anticipates reduced fertilizer use this Kharif season. This comes as the monsoon forecast suggests below-normal rainfall. Urea demand is now projected at 190 lakh tonnes, down from 194 lakh tonnes. Diammonium Phosphate demand is also lowered to 60 lakh tonnes. Government assures ample stocks of rice, wheat, and pulses for domestic needs.",
+    "img": "https://static.toiimg.com/photo/msid-131450078,imgsize-74052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-cuts-kharif-fertiliser-demand-estimate-on-weak-monsoon-outlook/articleshow/131450079.cms",
+    "time": "2026-06-01T20:29:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India reviews duty sop on Scotch in UK trade deal",
+    "desc": "India is reviewing tariff concessions on Scotch and other goods in its trade deal with the UK. This action is contingent on the UK addressing India's concerns regarding steel quotas and duties. UK Trade Secretary Peter Kyle is set to meet with India's Commerce and Industry Minister Piyush Goyal to resolve this deadlock.",
+    "img": "https://static.toiimg.com/photo/msid-131450047,imgsize-72332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-reviews-duty-sop-on-scotch-in-uk-trade-deal/articleshow/131450046.cms",
+    "time": "2026-06-01T20:14:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oman offers to up petchem, fertiliser supply as FTA kicks in",
+    "desc": "India and Oman have launched a free trade agreement, enabling concessional or zero tariffs on a vast majority of goods. Oman also offered a food security pact, willing to supply more fertilizer and petrochemicals to India. The agreement includes visa benefits for Indian workers and faster pharmaceutical approvals.",
+    "img": "https://static.toiimg.com/photo/msid-131450041,imgsize-53382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/oman-offers-to-up-petchem-fert-supply-as-fta-kicks-in/articleshow/131450031.cms",
+    "time": "2026-06-01T20:07:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "UPI transactions near 30L cr, increase 19%",
+    "desc": "Digital payments are booming as UPI transactions hit 2,320 crore in May, a significant jump from April. This surge reflects a robust 24% year-on-year volume growth. Meanwhile, National Electronic Toll Collection also saw a healthy month-on-month increase in both transaction numbers and value, indicating continued digital adoption across various payment platforms.",
+    "img": "https://static.toiimg.com/photo/msid-131450022,imgsize-37860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-transactions-near-30l-cr-increase-19/articleshow/131450021.cms",
+    "time": "2026-06-01T20:04:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says Netanyahu agreed not to send troops to Beirut",
+    "desc": "Likewise, through highly placed Representatives, I had a very good call with Hezbollah, and they agreed that all shooting will stop -- That Israel will not attack them, and they will not attack Israel, says U.S. President Donald Trump",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
+    "time": "2026-06-01T20:02:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Triptii Dimri reveals what she admires most about Madhuri Dixit",
+    "desc": "Triptii Dimri has opened up about her experience of working with veteran star Madhuri Dixit, showering praise on the actress for her humility, kindness and grounded nature. During a recent interaction for their upcoming project, Triptii said that getting to know Madhuri personally made her admire the iconic actress even more.",
+    "img": "https://static.toiimg.com/photo/msid-131450011,imgsize-82290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/triptii-dimri-reveals-what-she-admires-most-about-madhuri-dixit-even-if-i-become-a-star-of-her-stature-id-want-those-qualities/articleshow/131449997.cms",
+    "time": "2026-06-01T20:01:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "At 3.2%, GST collection growth slowest in 6 months",
+    "desc": "GST collections in May saw a modest 3.2% rise to Rs 1.94 lakh crore. While domestic revenue dipped, officials attribute this to a one-off telecom payment in the previous year, asserting underlying consumption remains robust across sectors. Import GST also surged, driven by increased demand for commodities and electronics.",
+    "img": "https://static.toiimg.com/photo/msid-131449998,imgsize-27670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/at-3-2-gst-collection-growth-slowest-in-6-months/articleshow/131449992.cms",
+    "time": "2026-06-01T19:55:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Steering Infosys through two critical successions",
+    "desc": "Nandan Nilekani is poised for a third term as Infosys chairman. His focus will be on succession planning, with rules requiring his exit at 75. The company is strengthening its leadership bench. Nilekani also faces the challenge of preparing Infosys for the evolving AI-driven technology landscape. This ensures stability and future growth for the IT giant.",
+    "img": "https://static.toiimg.com/photo/msid-131449986,imgsize-41892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/nandan-nilekani-at-71-steering-infosys-through-two-critical-successions/articleshow/131449978.cms",
+    "time": "2026-06-01T19:49:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Industrial output growth slows to 4.9% from 5.7%",
+    "desc": "Industrial production growth eased to 4.9% in April 2026, impacted by a dip in mining. However, manufacturing and electricity generation showed robust gains, pushing sequential output higher. Capital goods and infrastructure segments continue to expand strongly, indicating sustained investment, though consumer goods growth remains moderate.",
+    "img": "https://static.toiimg.com/photo/msid-131449927,imgsize-56922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/industrial-output-growth-slows-to-4-9-from-5-7/articleshow/131449920.cms",
+    "time": "2026-06-01T19:37:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sensex down 2.2k pts in four sessions as Gulf stays on boil",
+    "desc": "Dalal Street witnessed a significant downturn as crude oil prices surged due to West Asia tensions, leading to a 508-point drop in the Sensex. Foreign funds continued their selling spree, with outflows exceeding Rs 2.5 lakh crore this year. Investors are now awaiting the RBI's policy meeting and focusing on stock-specific opportunities amid a range-bound market.",
+    "img": "https://static.toiimg.com/photo/msid-131449898,imgsize-1214436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-down-2-2k-pts-in-four-sessions-as-gulf-stays-on-boil/articleshow/131449888.cms",
+    "time": "2026-06-01T19:33:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K to set up rehabilitation centres for drug addicts",
+    "desc": "Jammu and Kashmir is set to establish government-run rehabilitation centers statewide to aid recovering addicts. Lieutenant Governor Manoj Sinha highlighted the campaign's success in disrupting drug trafficking, leading to increased public reporting and treatment-seeking. Over 900 FIRs and over 1,000 arrests have been made, targeting the financial roots of terrorism.",
+    "img": "https://static.toiimg.com/photo/msid-131449150,imgsize-1034853.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-to-set-up-rehabilitation-centres-for-drug-addicts/articleshow/131449156.cms",
+    "time": "2026-06-01T18:44:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran suspends talks with U.S. over Israel’s Lebanon strikes",
+    "desc": "If the Houthis, Iran’s allies in Yemen, open a new front in the conflict, one obvious target would be ​the Bab El Mandeb ‌Strait off the coast of Yemen, a key shipping chokepoint and narrow passageway that controls sea traffic towards the Suez Canal",
+    "img": "https://th-i.thgim.com/public/incoming/tzbzvu/article71049148.ece/alternates/LANDSCAPE_1200/2026-05-15T104631Z_170516312_RC2L9LAFNNRX_RTRMADP_3_INDIA-BRICS-ARAQCHI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece",
+    "time": "2026-06-01T18:41:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lalit Modi defends Sushmita Sen against 'gold digger' tag",
+    "desc": "Businessman and former IPL chairman Lalit Modi has come out strongly in support of former partner Sushmita Sen, dismissing the criticism and \"gold digger\" allegations that surfaced when the two made headlines for their relationship in 2022. In a recent conversation, Modi reflected on his relationship with Sushmita and said he was disappointed by the narrative that emerged online after he announced their romance on social media.",
+    "img": "https://static.toiimg.com/photo/msid-131449056,imgsize-76728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lalit-modi-defends-sushmita-sen-against-gold-digger-tag-she-paid-for-everything-i-was-like-a-kept-boyfriend/articleshow/131449021.cms",
+    "time": "2026-06-01T18:37:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sonam Wangchuk says key points omitted from Ladakh talks draft, warns of hunger strike",
+    "desc": "Fresh disagreements have emerged regarding Ladakh's political future. The Leh Apex Body claims the Centre omitted crucial details from a draft record of recent talks. They are demanding corrections and warning of renewed protests, including hunger strikes. The Ladakh chief secretary stated the summary document was shared in good faith and invited objections.",
+    "img": "https://static.toiimg.com/photo/msid-131449017,imgsize-37992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wangchuk-says-key-points-omitted-from-ladakh-talks-draft-warns-of-hunger-strike/articleshow/131449033.cms",
+    "time": "2026-06-01T18:36:09.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Chief Minister Vijay promises inclusive and corruption-free government",
     "desc": "The TVK government will never compromise on secularism, State rights, sharing of river water, or social justice, he says at a public meeting organised to thank the voters of Tiruchi East, from where he was elected to the Assembly, besides Perambur in Chennai",
     "img": "https://th-i.thgim.com/public/incoming/3zux6s/article71049833.ece/alternates/LANDSCAPE_1200/TH%20TRI-18.jpg.jpeg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/chief-minister-vijay-promises-an-inclusive-and-corruption-free-government/article71049289.ece",
-    "time": "2026-06-01T17:23:44.000Z"
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-promises-an-inclusive-and-corruption-free-government/article71049289.ece",
+    "time": "2026-06-01T18:20:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Harrison Ford",
+    "desc": "Veteran actor Harrison Ford advises focusing on personal usefulness and hard work rather than imitating others' success. He emphasizes discovering how to leverage one's unique personality and understanding to contribute meaningfully. True achievement stems from authenticity and self-discovery, not from chasing someone else's definition of accomplishment.",
+    "img": "https://static.toiimg.com/photo/msid-131448415,imgsize-22024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-harrison-ford-work-hard-and-figure-out-how-to-be-useful-dont-try-to-imitate-anybody-elses-success/articleshow/131448453.cms",
+    "time": "2026-06-01T18:11:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gram Sabha consent fabricated to divert forest for mining bauxite, say villagers in Odisha’s Koraput",
+    "desc": "Villagers from Balda and Banur villages allege that Kalinga Alumina Limited, an Adani subsidiary, the panchayat, and district officials colluded to forge the signatures of dead, injured, and absent people on resolutions that consented to the mining",
+    "img": "https://th-i.thgim.com/public/news/national/dnb5g6/article71050016.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-01%20at%2011.28.47%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/gram-sabha-consent-fabricated-to-divert-forest-for-mining-bauxite-say-villagers-in-odishas-koraput/article71048380.ece",
+    "time": "2026-06-01T18:01:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'AC-on, AC-off' mileage tests mandatory for new cars from next April",
+    "desc": "Starting next April, carmakers must test new vehicle mileage with and without air conditioning, a move by the government to offer consumers more realistic fuel efficiency figures. This transparency aims to empower buyers' decisions. Existing models will receive an extended compliance period. The new norms apply to both petrol, diesel, and electric vehicles, reflecting India's distinct driving conditions.",
+    "img": "https://static.toiimg.com/photo/msid-131447758,imgsize-806201.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ac-on-ac-off-mileage-tests-mandatory-for-new-cars-from-next-april/articleshow/131447704.cms",
+    "time": "2026-06-01T17:44:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IIP growth slows to 4.9% as new data shows dip in mining activity",
+    "desc": "The IIP series, which till now had 2011-12 as its base year, has now been updated to 2022-23; the new basket of goods to calculate IIP consists of 1,042 products mapped to 463 item groups; within the manufacturing sector, which constitutes about 75% of the IIP basket of goods, six industries contracted",
+    "img": "https://th-i.thgim.com/public/incoming/w4hxf7/article71048763.ece/alternates/LANDSCAPE_1200/2026-06-01T085525Z_985014665_RC2Z6GAJSWV4_RTRMADP_3_INDIA-STEEL-CHINA-IMPORTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/industrial-output-growth-lowers-to-49-in-april/article71048727.ece",
+    "time": "2026-06-01T17:41:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kohli, Bhuvneshwar and the band that believed",
+    "desc": "The veterans showed they still have enough fuel left in the tank to dominate as Royal Challengers Bengaluru retained the IPL crown with ease; Patidar, unperturbed by the expectations, scripted his own piece of history by winning back-to-back trophies",
+    "img": "https://th-i.thgim.com/public/incoming/ij9t4p/article71049967.ece/alternates/LANDSCAPE_1200/013Group.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/kohli-bhuvneshwar-and-the-band-that-believed/article71049978.ece",
+    "time": "2026-06-01T17:40:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Myanmar not to allow use of its territory by anti-India elements: President Min Aung Hlaing",
+    "desc": "India to train Myanmar military for UN peacekeeping; discussions between the two countries include the issue of continued detention of former leader and Nobel laureate Aung San Suu Kyi as well as infrastructure projects such as the Kaladan Multimodal Transit Transport Project and the trilateral Moreh-Mae Tsot highway to connect India’s northeast with Myanmar via Thailand",
+    "img": "https://th-i.thgim.com/public/incoming/c97q7j/article71048438.ece/alternates/LANDSCAPE_1200/20260601107L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/myanmar-assures-india-its-territory-wont-be-used-against-new-delhis-security-interests/article71048243.ece",
+    "time": "2026-06-01T17:38:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bobby recalls being beaten by mom for speaking Hindi in school",
+    "desc": "Bobby Deol recently opened up about his childhood and revealed how his mother, Prakash Kaur, would discipline him for not taking his studies seriously. Appearing on Aap Ki Adaalat, Bobby shared several amusing memories from his school days, admitting that he was never fond of attending classes and often got into trouble at home because of it.",
+    "img": "https://static.toiimg.com/photo/msid-131447576,imgsize-84428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-recalls-being-beaten-by-mother-prakash-kaur-for-speaking-hindi-in-an-english-medium-school-slippers-were-her-go-to-weapon/articleshow/131447404.cms",
+    "time": "2026-06-01T17:34:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Factory output grows at slower pace of 4.9% in April, shows government data based on new series",
+    "desc": "This is the first data released after the revision of the base year to 2022-23 and the rejigging of the index constituents. The factory output, measured in terms of the Index of Industrial Production (IIP), expanded by 5.7% in April 2025.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/factory-output-grows-at-slower-pace-of-49-in-april-shows-government-data-based-on-new-series/article71049934.ece",
+    "time": "2026-06-01T17:32:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Check SGB premature withdrawal dates, eligibility and process",
+    "desc": "Sovereign Gold Bond (SGB) investors who purchased bonds between 2019 and 2021 can now apply for premature redemption in June 2026. The Reserve Bank of India has opened redemption windows for five specific bond tranches, requiring investors to submit requests within strict timelines to avoid rejection.",
+    "img": "https://static.toiimg.com/photo/msid-131447187,imgsize-931361.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sovereign-gold-bond-redemption-in-june-2026-check-sgb-premature-withdrawal-dates-eligibility-and-process/articleshow/131447195.cms",
+    "time": "2026-06-01T17:20:30.000Z"
   },
   {
     "cat": "Politics",
@@ -54,15 +261,6 @@ const newsData_en = [
     "time": "2026-06-01T16:40:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "I came to know about my brother’s death only through Google search: Himachal Pradesh accident victim’s sister",
-    "desc": "A tourist taxi carrying seven visitors from Bengaluru and a local driver is feared to have plunged into a deep gorge along the treacherous Bairagarh-Sach Pass-Killar road in the remote Churah subdivision of Himachal Pradesh’s Chamba district on the night of May 29, leaving all eight occupants feared dead",
-    "img": "https://th-i.thgim.com/public/incoming/z3c2l4/article71049825.ece/alternates/LANDSCAPE_1200/20260531285L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/i-came-to-know-about-my-brothers-death-only-through-google-search-himachal-pradesh-accident-victims-sister/article71048728.ece",
-    "time": "2026-06-01T16:36:14.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "When Madhavan said he took wife Sarita with him for outdoor shoots as there were beautiful women",
     "desc": "Actor R Madhavan's enduring popularity is highlighted. His successful marriage to Sarita is a key focus. Madhavan shares insights into their relationship, emphasizing equality and mutual respect. He credits filmmaker Mani Ratnam for advice that helped navigate industry challenges. Sarita's support and humor are also noted. Their bond continues to be an inspiration.",
@@ -81,15 +279,6 @@ const newsData_en = [
     "time": "2026-06-01T16:16:40.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran suspends talks with U.S. over Israel’s Lebanon strikes",
-    "desc": "If the Houthis, Iran’s allies in Yemen, open a new front in the conflict, one obvious target would be ​the Bab El Mandeb ‌Strait off the coast of Yemen, a key shipping chokepoint and narrow passageway that controls sea traffic towards the Suez Canal",
-    "img": "https://th-i.thgim.com/public/incoming/jsfvwx/article71049148.ece/alternates/LANDSCAPE_1200/2026-05-15T104631Z_170516312_RC2L9LAFNNRX_RTRMADP_3_INDIA-BRICS-ARAQCHI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece",
-    "time": "2026-06-01T15:59:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kangana was heartbroken by her parents' reaction to Gangster",
     "desc": "Actor-politician Kangana Ranaut has revealed that her parents were far from impressed after watching her breakthrough film Gangster, admitting that their reaction left her deeply hurt. The actress, who is currently promoting her upcoming film Bharat Bhhagya Viddhaata, shared that it was only after she received a National Award that her family began to appreciate her achievements.",
@@ -106,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-falls-34-paise-to-close-at-95-19-against-us-dollar-amid-rising-crude-prices/articleshow/131445862.cms",
     "time": "2026-06-01T15:50:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Telangana’s 12-year growth story faces headwinds",
-    "desc": "The growth in services sector from employing 26.6% in 2014 to 33% in the current year has led to a jump in per capita income of the State, albeit with huge disparities between districts closer to the capital and those away from it",
-    "img": "https://th-i.thgim.com/public/incoming/c5ujuc/article71049606.ece/alternates/LANDSCAPE_1200/_DSC0359.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/telanganas-12-year-growth-story-faces-headwinds/article71049420.ece",
-    "time": "2026-06-01T15:37:31.000Z"
   },
   {
     "cat": "Politics",
@@ -279,15 +459,6 @@ const newsData_en = [
     "time": "2026-06-01T13:09:50.000Z"
   },
   {
-    "cat": "World",
-    "title": "Myanmar assures India its territory won’t be used against New Delhi’s security interests",
-    "desc": "Foreign Secretary Vikram Misri said the talks between the two sides focused on the entire gamut of bilateral issues that included trade and economic ties, defence and security related issues, border management, development assistance as well as the regional situation.",
-    "img": "https://th-i.thgim.com/public/incoming/c97q7j/article71048438.ece/alternates/LANDSCAPE_1200/20260601107L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/myanmar-assures-india-its-territory-wont-be-used-against-new-delhis-security-interests/article71048243.ece",
-    "time": "2026-06-01T13:05:29.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Vijay targets ‘family politics’ in first big rally; India, US inch closer to interim trade deal &amp; more",
     "desc": "Actor Vijay has declared the Tamil Nadu political landscape a direct contest between his party and the DMK, criticizing \"family politics.\" Meanwhile, escalating Middle East tensions saw US strikes on Iranian facilities after a drone incident. K Annamalai's Delhi visit fuels speculation about a potential new political direction, while India and the US are nearing an interim trade deal.",
@@ -360,15 +531,6 @@ const newsData_en = [
     "time": "2026-06-01T12:21:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Centre floats second global tender for 70 lakh tonne urea despite surge in prices",
-    "desc": "Amidst a volatile global market and Middle East disruptions, India has launched a second tender for 70 lakh tonnes of urea to secure sufficient fertilizer for the kharif season. Despite soaring international prices, the government is ensuring supplies, with 25 lakh tonnes of urea and 50 lakh tonnes of DAP already procured.",
-    "img": "https://static.toiimg.com/photo/msid-131442514,imgsize-823042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-floats-second-global-tender-for-70-lakh-tonne-urea-despite-surge-in-prices/articleshow/131442487.cms",
-    "time": "2026-06-01T12:16:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why football’s most passionate fans may be in India",
     "desc": "In Kerala, West Bengal and several other places across India, the FIFA World Cup is a homecoming — of fan clubs, midnight screenings, bike rallies and WhatsApp groups that spring back to life every four years",
@@ -387,15 +549,6 @@ const newsData_en = [
     "time": "2026-06-01T12:05:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "New IIP series shows factory output rises 4.9% in April, manufacturing leads with 6.2% expansion",
-    "desc": "India's industrial production saw a robust 4.9% growth in April 2026, propelled by a strong manufacturing sector. The newly revised IIP series, with a 2022-23 base year, highlights significant gains in motor vehicles, electrical equipment, and machinery. Investment-linked sectors like capital goods also showed impressive surges, indicating positive economic momentum.",
-    "img": "https://static.toiimg.com/photo/msid-131442221,imgsize-589216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/new-iip-series-shows-factory-output-rises-4-9-in-april-manufacturing-leads-with-6-2-expansion/articleshow/131442245.cms",
-    "time": "2026-06-01T12:04:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "How Mammootty convinced Indrans to buy a smartphone",
     "desc": "Veteran actor Indrans, lauded for his role in 'Karuppu', revealed he only recently bought a smartphone, admitting he still struggles with its features, including online payments. Malayalam star Mammootty's practical question about confidential calls convinced Indrans to embrace the digital age, a revelation endearing him further to fans.",
@@ -403,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/how-mammootty-convinced-indrans-to-buy-a-smartphone-karuppu-actor-reveals-the-truth-behind-viral-online-payment-scene/articleshow/131442226.cms",
     "time": "2026-06-01T12:03:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tusshar on drifting apart from Kareena on day one during MKKH",
-    "desc": "As Tusshar Kapoor completes 25 years in Bollywood, he recalled working with Kareena Kapoor in his debut film 'Mujhe Kucch Kehna Hai'. He described her as fearless and confident, saying, \"She's like a hero.\" Tusshar added that their contrasting personalities initially made it hard to bond on set.",
-    "img": "https://static.toiimg.com/photo/msid-131442290,imgsize-34428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shes-an-extrovert-im-an-introvert-tusshar-kapoor-on-drifting-apart-from-kareena-kapoor-on-day-one-during-mujhe-kucch-kehna-hai/articleshow/131442290.cms",
-    "time": "2026-06-01T12:03:05.000Z"
   },
   {
     "cat": "Sports",
@@ -423,51 +567,6 @@ const newsData_en = [
     "time": "2026-06-01T11:40:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Madhuri Dixit says she was living her dream life in Denver, was just Mrs Nene",
-    "desc": "Madhuri Dixit Nene cherished her time in the US as 'Mrs. Nene,' enjoying anonymity and focusing on family. She found the experience liberating, living her dream with her husband and children. Upon returning to India, she resumed her career, while her husband, initially unaware of her stardom, has now become well-integrated into the film fraternity.",
-    "img": "https://static.toiimg.com/photo/msid-131441405,imgsize-40346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhuri-dixit-recalls-her-husband-dr-sriram-nene-was-shocked-to-see-her-stardom-says-her-life-in-denver-was-liberating-where-she-was-just-a-wife-and-mom/articleshow/131441376.cms",
-    "time": "2026-06-01T11:17:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Will talk in 2 days': BJP leader K Annamalai on speculation over new party in Tamil Nadu",
-    "desc": "Former Tamil Nadu BJP president K Annamalai has fueled speculation about his political future by traveling to Delhi and offering a cryptic \"Please wait\" when asked about reports of launching a new party. This comes amid posters from supporters in Coimbatore calling for him to lead, amplifying discussions about his next move after the 2026 assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-131441361,imgsize-51142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-talk-in-2-days-bjp-leader-k-annamalai-on-speculation-over-new-party-in-tamil-nadu/articleshow/131441343.cms",
-    "time": "2026-06-01T11:14:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prabhas starrer 'Spirit' takes over Hyderabad’s iconic Vimal Theatre",
-    "desc": "Prabhas's upcoming film 'Spirit' is currently filming intense cop sequences at Hyderabad's iconic Vimal Theatre. Director Sandeep Reddy Vanga is helming the high-octane crime-drama, which has already generated immense anticipation following the success of 'Animal'. The production has drawn thousands of fans eager to see Prabhas, necessitating significant security measures.",
-    "img": "https://static.toiimg.com/photo/msid-131441320,imgsize-210840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-starrer-spirit-takes-over-hyderabads-iconic-vimal-theatre-as-sandeep-reddy-vanga-shoots-high-octane-cop-sequences/articleshow/131441290.cms",
-    "time": "2026-06-01T11:12:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Why hate India?' BJP hits back at Kapil Sibal over 'ashamed to live in India' remark",
-    "desc": "BJP has strongly criticized Congress MP Kapil Sibal for his remarks on democracy, accusing him of \"hating India\" and selectively ignoring violence. Sibal's comments followed an alleged attack on TMC MP Abhishek Banerjee in West Bengal. The BJP questioned Sibal's silence on past incidents while criticizing the ruling party.",
-    "img": "https://static.toiimg.com/photo/msid-131441313,imgsize-928108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-hate-india-bjp-hits-back-at-kapil-sibal-over-ashamed-to-live-in-india-remark/articleshow/131441039.cms",
-    "time": "2026-06-01T11:12:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "UPI clocked its biggest month in May, transactions surpass Rs 29.90 lakh crore",
-    "desc": "India's UPI transactions reached record highs in May, with 23.2 billion transactions valued at Rs 29.90 lakh crore. This growth, driven by summer travel and seasonal spending, signifies a healthy upward trajectory for the digital payments ecosystem. Future expansion is anticipated through Credit-on-UPI and cross-border initiatives.",
-    "img": "https://static.toiimg.com/photo/msid-131441140,imgsize-1744225.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/may-saw-most-digital-payments-upi-clocked-its-biggest-month-transactions-surpass-rs-29-90-lakh-crore/articleshow/131440889.cms",
-    "time": "2026-06-01T11:04:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "French Open heavily fines player for 'very difficult for a woman' remark",
     "desc": "French Open organisers fined Paraguayan player Adolfo Daniel Vallejo 65,000 euros after he said his second-round match should have been umpired by a man. Vallejo criticised Brazilian official Ana Carvalho following his loss to Moise Kouame, claiming she struggled to control the crowd. Tournament director Amelie Mauresmo called the remarks unacceptable, while Vallejo insisted his comments were about crowd management, not officiating ability.",
@@ -477,42 +576,6 @@ const newsData_en = [
     "time": "2026-06-01T10:55:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India’s manufacturing PMI rises to 3-month high in May on strong domestic demand",
-    "desc": "India's manufacturing sector saw its fastest growth in three months during May, fueled by robust domestic demand and infrastructure projects. New orders surged, though rising Middle East conflict costs continue to challenge manufacturers. Despite higher input expenses, companies expanded output and hiring, with positive sentiment for future growth.",
-    "img": "https://static.toiimg.com/photo/msid-131440866,imgsize-1363763.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-manufacturing-pmi-rises-to-3-month-high-in-may-on-strong-domestic-demand/articleshow/131440354.cms",
-    "time": "2026-06-01T10:51:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'All major issues settled': Centre's big update on US-India trade deal",
-    "desc": "India and the United States are nearing the finalization of their first bilateral trade agreement tranche, with most key details settled. A high-level US delegation is in New Delhi for crucial negotiations, aiming to conclude an interim pact. Both nations are confident of signing the agreement soon, building on a framework established in February.",
-    "img": "https://static.toiimg.com/photo/msid-131440584,imgsize-60542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-first-tranche-set-to-be-signed-soon-as-all-major-points-settled-says-centre/articleshow/131440503.cms",
-    "time": "2026-06-01T10:40:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-Oman trade pact: Govt builds 'Plan B' amid Hormuz crisis",
-    "desc": "Amidst Middle East chaos impacting the Strait of Hormuz, India's new free trade agreement with Oman, effective June 1, offers a strategic alternative. Oman's location outside the Strait provides a reliable gateway for trade and energy, as evidenced by recent import surges from the nation.",
-    "img": "https://static.toiimg.com/photo/msid-131439867,imgsize-156488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-oman-trade-pact-govt-builds-plan-b-amid-hormuz-crisis-why-deal-is-key-for-energy-future/articleshow/131439854.cms",
-    "time": "2026-06-01T10:07:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brad Pitt and Angelina Jolie's Chateau Miraval lawsuit",
-    "desc": "Brad Pitt and Angelina Jolie's legal battle over their French winery, Chateau Miraval, continues years after their divorce. Jolie sold her shares to a Russian millionaire, sparking a lawsuit from Pitt who claimed a breach of agreement. Recent rulings have seen Pitt gain a larger stake, while the legal fight over the estate persists.",
-    "img": "https://static.toiimg.com/photo/msid-131439856,imgsize-82984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-angelina-jolies-chateau-miraval-lawsuit-a-complete-timeline-of-love-lease-and-lawsuits/articleshow/131439779.cms",
-    "time": "2026-06-01T10:04:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Virat, I know you get a lot of attention': Kohli called 'heartbeat' of RCB",
     "desc": "Virat Kohli starred with an unbeaten 75 as RCB beat Gujarat Titans by five wickets in the IPL final, securing another title. The veteran finished the season with 675 runs and was hailed by coach Andy Flower as the team’s “heartbeat.” While fans celebrated Kohli’s heroics, RCB skipped a public homecoming, with captain Rajat Patidar dedicating the trophy to supporters lost in last year’s tragedy.",
@@ -520,24 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-i-know-you-get-a-lot-of-attention-kohli-called-heartbeat-of-rcb-dressing-room-after-ipl-title/articleshow/131439270.cms",
     "time": "2026-06-01T09:59:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why are Infosys, TCS and Tech Mahindra shares surging despite AI disruption fears?",
-    "desc": "Indian IT stocks surged Monday, with major players like Infosys and TCS gaining up to 5%. This rebound follows months of AI-driven pessimism, as investors reassess sector valuations ahead of a key US Federal Reserve meeting. Technical indicators suggest a potential short-term recovery, though analysts caution it might be a retracement within a broader trend.",
-    "img": "https://static.toiimg.com/photo/msid-131439411,imgsize-475931.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/it-stocks-rally-why-are-infosys-tcs-and-tech-mahindra-shares-surging-despite-ai-disruption-fears/articleshow/131439306.cms",
-    "time": "2026-06-01T09:42:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'We thank India': Africa CDC on emergency Ebola aid as Congo battles Ebola outbreak",
-    "desc": "India has dispatched vital medical supplies, including diagnostics and therapeutics, to aid the Democratic Republic of Congo's fight against the escalating Bundibugyo Ebola outbreak. The Africa CDC expressed deep gratitude for this crucial assistance, which was channeled through its regional hub in Uganda and is now being deployed to affected areas.",
-    "img": "https://static.toiimg.com/photo/msid-131439087,imgsize-730183.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-thank-india-africa-cdc-on-emergency-ebola-aid-as-congo-battles-ebola-outbreak/articleshow/131439015.cms",
-    "time": "2026-06-01T09:23:32.000Z"
   },
   {
     "cat": "Sports",
@@ -556,24 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/upi-transactions-hit-record-high-of-299-lakh-crore-in-may/article71047411.ece",
     "time": "2026-06-01T08:54:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trump once slammed Biden for touching US oil reserves, now he's draining it: Report",
-    "desc": "The U.S. is drawing heavily from its Strategic Petroleum Reserve, releasing approximately 50 million barrels since the conflict with Iran began. These withdrawals are pushing emergency oil stockpiles to multi-decade lows, with significant amounts being exported. Analysts warn this depletion necessitates future replacements, potentially leading to higher prices globally.",
-    "img": "https://static.toiimg.com/photo/msid-131438413,imgsize-103974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-once-slammed-biden-for-touching-us-oil-reserves-now-hes-draining-it-report/articleshow/131438140.cms",
-    "time": "2026-06-01T08:41:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "GT's IPL 2026 season: Consistent yet incomplete as title dream ends in final heartbreak",
-    "desc": "Gujarat Titans narrowly missed the IPL 2026 title, falling to Royal Challengers Bengaluru in a home final. Despite a shaky start, the consistent Titans reached their third final in five seasons, showcasing strong performances from Gill, Sudharsan, and Buttler. Their bowling attack, led by Rabada and Siraj, also impressed throughout the campaign.",
-    "img": "https://static.toiimg.com/photo/msid-131438157,imgsize-95034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/gujarat-titans-ipl-2026-season-consistent-yet-incomplete-as-title-dream-ends-in-final-heartbreak/articleshow/131438152.cms",
-    "time": "2026-06-01T08:26:22.000Z"
   },
   {
     "cat": "Sports",
@@ -601,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-we-have-not-just-played-we-dominated-this-year-says-rcb-skipper-patidar/article71047133.ece",
     "time": "2026-06-01T06:39:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Russia imposes aviation fuel export ban until November 30",
-    "desc": "Russia has banned aviation fuel exports until November 30 to ensure domestic supply stability amid falling refinery output. This move follows Ukrainian attacks on energy facilities, which have reduced Russia's fuel processing capacity. The restriction aims to prevent shortages and maintain domestic market equilibrium.",
-    "img": "https://static.toiimg.com/photo/msid-131435900,imgsize-255030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/russia-imposes-aviation-fuel-export-ban-until-november-30/articleshow/131435822.cms",
-    "time": "2026-06-01T06:37:23.000Z"
   },
   {
     "cat": "Sports",
@@ -747,15 +765,6 @@ const newsData_en = [
     "time": "2026-05-30T20:16:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Tenacious Titans up against hot favourite Royal Challengers in final showdown",
-    "desc": "The clash offers a chance for the home team to exact revenge on the defending champion for the heavy loss in Qualifier 1; a lot will depend on how the Gujarat side’s in-form opening pair Gill and Sai Sudharsan performs",
-    "img": "https://th-i.thgim.com/public/incoming/g488m3/article71042060.ece/alternates/LANDSCAPE_1200/010Nets.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-tenacious-titans-up-against-hot-favourite-royal-challengers-in-final-showdown/article71041686.ece",
-    "time": "2026-05-30T16:51:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Cannes Film Festival 2026 marks a landmark year for queer cinema",
     "desc": "From lesbian romances and trans resistance dramas to queer soldiers and sexually fluid protagonists, this year’s Cannes Film Festival saw an unprecedented surge of queer storytelling — not at the margins, but at the very centre of global cinema",
@@ -763,24 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/cannes-film-festival-2026-marks-a-landmark-year-for-queer-cinema/article71028930.ece",
     "time": "2026-05-30T15:45:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 Final RCB vs GT",
-    "desc": "“There is familiarity when we play in Ahmedabad. We know the wicket, we know the ground, we know the kind of cricket we need to play to win,” GT captain Shubman Gill said ahead of the final",
-    "img": "https://th-i.thgim.com/public/incoming/ea91ry/article71042105.ece/alternates/LANDSCAPE_1200/02Stadium%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-final-rcb-vs-gt-we-know-the-wicket-and-the-ground-gt-skipper-gill-admits-to-home-ground-advantage/article71041902.ece",
-    "time": "2026-05-30T15:30:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wrestling trials",
-    "desc": "The star wrestler, returning to competition almost two years after the Paris Olympics heartbreak, loses to Meenakshi in the 53kg category semifinals; Dipanshee, Antim, Manisha, Mansi, Nisha, and Priya claim their spots for the continental event",
-    "img": "https://th-i.thgim.com/public/incoming/bkfld3/article71041843.ece/alternates/LANDSCAPE_1200/SPORTS%20WRESTLING%20DELHI%202026_30_05_21.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/wrestling-trials-vineshs-comeback-dreams-end-loses-in-trials-for-asian-games/article71041836.ece",
-    "time": "2026-05-30T15:14:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
