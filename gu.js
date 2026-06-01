@@ -1,12 +1,120 @@
 const newsData_gu = [
   {
-    "cat": "Politics",
-    "title": "મોંઘવારીનો મોટો ઝટકો, LPG સિલિન્ડરના ભાવમાં ફરી તોતિંગ વધારો, જાણો અમદાવાદ સહિત શહેરોમાં ભાવ",
-    "desc": "જૂન મહિનો શરૂ થતા જ સામાન્ય જનતા વળી પાછો મોટો ઝટકો લાગ્યો છે. કારણ કે આજથી કોમર્શિયલ ગેસ સિલિન્ડરના ભાવમાં તોતિંગ વધારો ઝીંકાયો છે. આ સાથે નાના સિલિન્ડરના ભાવ પણ વધ્યા છે. જાણો વિગતો. તમારા શહેરમાં શું છે ભાવ?",
+    "cat": "Sports",
+    "title": "જે ટીમમાં ગયા, તેને ચેમ્પિયન બનાવી... T20 ક્રિકેટના &amp;#039;ચમત્કારી&amp;#039; કોચ, જેણે બદલી નાખ્યું RCBનું ભાગ્ય",
+    "desc": "રોયલ ચેલેન્જર્સ બેંગલુરૂએ રવિવારે રાત્રે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ગુજરાત ટાઈટન્સને પાંચ વિકેટે હરાવી સતત બીજીવાર આઈપીએલ ટ્રોફી કબજે કરી છે. આરસીબીની જીતમાં ઘણા ખેલાડીઓનું મહત્વનું યોગદાન રહ્યું છે, પરંતુ એક વ્યક્તિ એવી છે જેણે પડદા પાછળ રહી ટીમને વિજેતા બનાવવામાં મહત્વની ભૂમિકા ભજવી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-commercial-cylinders-price-hiked-check-latest-rates-ahmedabad-vadodara-surat-rajkot-479949 ",
-    "time": "2026-06-01T03:21:56.000Z"
+    "url": " http://zeenews.india.com/gujarati/sports/head-coach-andy-flower-role-in-rcb-victory-which-turned-the-team-fortunes-around-479996 ",
+    "time": "2026-06-01T11:12:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB સામેની હાર બાદ એવું શું થયું કે ગુજરાતના ખેલાડીઓ રસ્તા પર બેઠેલા જોવા મળ્યા ? મોહમ્મદ સિરાજે શેર કરી તસવીર",
+    "desc": "RCB સામે IPL ફાઇનલમાં હાર્યા બાદ ગુજરાત ટાઇટન્સની ટીમ જ્યારે હોટલ પર પરત ફરી રહી હતી ત્યારે તેમની સાથે એક દુર્ઘટના ઘટી હતી. જેના કારણે ટીમ અટવાઈ ગઈ હતી. મોહમ્મદ સિરાજે રસ્તા પર બેઠેલા ખેલાડીઓનો ફોટો શેર કર્યો હતો, ત્યારે શું હતી સમગ્ર ઘટના તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-gujarat-titans-players-on-road-after-defeat-against-rcb-mohammed-siraj-shared-photo-479987 ",
+    "time": "2026-06-01T09:43:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઉપરાષ્ટ્રપતિએ કોને આપી &amp;#039;કોકરોચ&amp;#039; ચેતવણી? કહ્યું- યોગ્ય જાણકારી નહીં પહોંચે તો...",
+    "desc": "દેશના સીજેઆઈની કોકરોચ પર એક ટિપ્પણી અને રાતોરાત સોશિયલ મીડિયા પર અસ્તિત્વમાં આવી ગઈ કોકરોચ જનતા પાર્ટી. જેને ઈન્ટરનેટની દુનિયામાં ખુબ સારો પ્રતિભાવ મળી રહ્યો છે. સોશિયલ મીડિયા પ્લેટફોર્મ ઈન્સ્ટાગ્રામ પર આ પાર્ટીના 22 મિલિયનથી વધુ ફોલોઅર્સ ટૂંકા ગાળામાં થયા છે. હવે દેશના ઉપરાષ્ટ્રપતિ સીપી રાધાકૃષ્ને આ મુદ્દે પત્રકારોને એક મોટી શીખામણ આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cockroach-janta-party-what-vice-president-cp-radhakrishnan-said-about-cjp-479984 ",
+    "time": "2026-06-01T09:16:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બંગાળ સરકારમાં મંત્રી બન્યો ટીમ ઈન્ડિયાનો આ ધુરંધર... CM શુભેન્દુએ સોંપી મોટી જવાબદારી",
+    "desc": "ક્રિકેટના મેદાન પર પોતાની સ્પીડ અને આક્રમક બોલિંગથી પોતાનું નામ બનાવનાર અશોક ડિંડા હવે રાજકીય પીચ પર નવી જવાબદારી નિભાવી રહ્યા છે. અશોક ડિંડાએ બંગાળ સરકારમાં રાજ્યમંત્રી તરીકે શપથ લીધા છે, જે તેમની રાજકીય ઇનિંગ્સના સૌથી મહત્વપૂર્ણ પ્રકરણની શરૂઆત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/west-bengal-cabinet-expansion-former-cricketer-ashok-dinda-becomes-minister-479982 ",
+    "time": "2026-06-01T08:47:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કંકોત્રી અપાઈ ગઈ, હોટલ પણ બુક થઈ ગઈ... અચાનક આવ્યો એક ફોન કોલ અને બદલાઈ ગઈ RCBના કેપ્ટનની કિસ્મત",
+    "desc": "રજત પાટીદારની કહાની IPLની સૌથી ભાવુક અને યાદગાર કહાનીઓમાંની એક છે. રજત કે જેણે એક સમયે RCBમાં જોડાવા માટે પોતાના લગ્ન મુલતવી રાખ્યા હતા અને હવે તેણે ટીમના કેપ્ટન તરીકે સતત બીજી વખત ટીમને ટાઇટલ અપાવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rcb-back-to-back-champions-captain-rajat-patidar-how-single-phone-call-changed-his-life-479978 ",
+    "time": "2026-06-01T08:00:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "નવા મહિનાના પહેલા જ દિવસે સોનાના ભાવમાં મોટો ઘટાડો, ચાંદી પણ ગગડી, 10 ગ્રામ સોનાનો ભાવ ખાસ જાણો",
+    "desc": "નવા મહિનાનો પહેલો જ દિવસ અને આજે સોનાના ભાવમાં જોરદાર કડાકો જોવા મળ્યો છે. ચાંદીના ભાવમાં ઘટાડો નોંધાયો છે. સવારે MCX પર ભાવ લાલ નિશાનમાં ખુલ્યા હતા અને રિટેલ બજારમાં પણ સોનું ગગડ્યું છે. જાણો આજના સોના અને ચાંદીના લેટેસ્ટ ભાવ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/drop-in-gold-prices-on-the-first-day-of-june-silver-also-fell-check-latest-price-aaj-no-sona-no-bhav-479975 ",
+    "time": "2026-06-01T07:21:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રજત પાટીદારે ધોની અને રોહિતની કરી બરાબરી, આ સિદ્ધિ મેળવનાર ત્રીજો કેપ્ટન બન્યો",
+    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોરે IPL 2026 ફાઇનલ જીતીને બીજી વખત ઇતિહાસ રચ્યો છે. રોયલ ચેલેન્જર્સ બેંગ્લોરે ગુજરાત ટાઇટન્સને 5 વિકેટથી હરાવ્યું હતું. આ સાથે RCBના કેપ્ટન રજત પાટીદારે સતત બીજી IPL ટ્રોફી જીતીને ધોની અને રોહિત શર્માના રેકોર્ડની બરાબરી કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rajat-patidar-joins-ms-dhoni-rohit-sharma-club-after-win-back-to-back-ipl-trophy-479970 ",
+    "time": "2026-06-01T06:48:04.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "10 લાખના બજેટમાં Tata Tiago EV બેસ્ટ છે કે Tata Punch EV? ખરીદતા પહેલા જાણો બંનેના ફીચર્સ",
+    "desc": "શું તમે પણ વધતા પેટ્રોલ-ડીઝલના ભાવ વચ્ચે ઈલેક્ટ્રિક કાર ખરીદવાનું વિચારી રહ્યાં છો? પરંતુ પરેશાન છો કે 10 લાખના બજેટમાં Tata Tiago EV બેસ્ટ છે કે Tata Punch EV, આવો જાણીએ તમારા માટે કઈ કાર સારી રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tata-tiago-ev-vs-punch-ev-under-10-lakhs-know-price-and-features-updates-479966 ",
+    "time": "2026-06-01T06:18:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઇલના ભાવમાં વધઘટ વચ્ચે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં શું છે આજનો ભાવ",
+    "desc": "સરકારી ઓઈલ કંપનીઓ દ્વારા આજે, 1 જૂનના રોજ દેશભરમાં પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા છે. ત્યારે પેટ્રોલ-ડીઝલના ભાવમાં કોઈ ફેરફાર થયો છે કે પછી ભાવ યથાવત છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-check-latest-fuel-rate-in-your-city-479965 ",
+    "time": "2026-06-01T06:16:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG રેટ, કનેક્શન, UPI-ATM સંબંધિત નિયમો, કારો....જાણો આજથી કયા ફેરફાર અમલી થયા? ખિસ્સા પર પડશે અસર",
+    "desc": "આજથી નવા મહિનાની શરૂઆત થઈ છે. આજે 1 જૂન 2026નો દિવસ છે. નવા મહિનાની શરૂઆત સાથે તમને અનેક નાણાકીય ફેરફાર જોવા મળવાના છે. ખાસ જાણો તેના વિશે કે તમારા ખિસ્સા પર તેની શું અસર થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-changes-from-june-check-lpg-cylinder-rate-atm-upi-bank-new-rule-etc-479960 ",
+    "time": "2026-06-01T05:50:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશીએ એકલાએ જીત્યા 5 એવોર્ડ... એક ક્લિકમાં જાણો કોણે જીત્યો કયો એવોર્ડ",
+    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોરે ગુજરાત ટાઈટન્સને હરાવીને IPL 2026ની ટ્રોફી જીતી લીધી છે. તો વૈભવે એકલાએ પાંચ એવોર્ડ જીત્યા હતા. ત્યારે આ IPLની સિઝનમાં કયા ખેલાડીએ અથવા ટીમે કયો એવોર્ડ જીત્યો છે, તેના પર એક નજર કરીએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-awards-winners-list-know-who-won-orange-cap-purple-cap-479958 ",
+    "time": "2026-06-01T05:23:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાનમાં નેતૃત્વના ફાડિયા પડ્યા? રાષ્ટ્રપતિ મસૂદ પેજેશકિયન વિશે રિપોર્ટમાં મોટો દાવો, આખરે શું છે સત્ય",
+    "desc": "એક બાજુ જ્યાં અમેરિકા સાથે બધુ સમુસુથરું પડતું નથી ત્યાં હવે ઈરાનમાં નેતૃત્વમાં પણ ખટપટના સમાચાર સામે આવી રહ્યા છે. રિપોર્ટમાં દાવો કરાયો છે કે ઈરાનના રાષ્ટ્રપતિ મસૂદ પેજેશકિયને રાજીનામાની રજૂઆત કરી છે. આખરે શું છે આ મામલાનું સત્ય તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/big-claim-in-report-about-iran-president-masoud-pezeshkian-what-is-the-truth-479956 ",
+    "time": "2026-06-01T04:58:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રનથી લઈને સેન્ચુરી સુધી... IPL 2026માં બન્યા 10 મોટા રેકોર્ડ, 18 વર્ષ લાંબા ઇતિહાસમાં પહેલીવાર થયું આવું",
+    "desc": "IPL 2026માં એવા 10 રેકોર્ડ બન્યા છે, જે અગાઉ એક પણ સિઝનમાં બન્યા નથી, તો આ સિઝનમાં અનેક રેકોર્ડ તૂટ્યા પણ છે. વૈભવ સૂર્યવંશીએ આ સિઝનમાં તોફાન મચાવ્યું છે. આ સિઝન દરમિયાન કયા રેકોર્ડ બન્યા છે, તેના પર એક નજર કરીએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/10-big-records-created-in-ipl-2026-for-the-first-time-in-18-years-of-ipl-history-479954 ",
+    "time": "2026-06-01T04:39:53.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +123,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/gujarat-titans-team-bus-catches-fire-after-ipl-2026-final-players-evacuated-479948 ",
-    "time": "2026-06-01T03:15:21.000Z"
+    "time": "2026-06-01T04:21:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026ની ફાઇનલમાં કેમ હાર્યું ગુજરાત ટાઈટન્સ ? કેપ્ટન શુભમન ગિલે જણાવ્યા હારના કારણો",
+    "desc": "IPL 2026માં ગુજરાત ટાઇટન્સે શાનદાર પ્રદર્શન કરીને ફાઇનલમાં સ્થાન મેળવ્યું હતું. જોકે, ફાઇનલ મેચમાં ગુજરાત ટાઇટન્સ પહેલી ઓવરથી જ સ્પર્ધામાંથી બહાર થઈ ગયું હોય તેવું લાગતું હતું. હાર બાદ કેપ્ટન શુભમન ગિલે તેની પાછળના કારણો જણાવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-gujarat-titans-lose-in-ipl-2026-final-captain-shubman-gill-tell-reasons-479951 ",
+    "time": "2026-06-01T03:49:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મોંઘવારીનો મોટો ઝટકો, LPG સિલિન્ડરના ભાવમાં ફરી તોતિંગ વધારો, જાણો અમદાવાદ સહિત શહેરોમાં ભાવ",
+    "desc": "જૂન મહિનો શરૂ થતા જ સામાન્ય જનતા વળી પાછો મોટો ઝટકો લાગ્યો છે. કારણ કે આજથી કોમર્શિયલ ગેસ સિલિન્ડરના ભાવમાં તોતિંગ વધારો ઝીંકાયો છે. આ સાથે નાના સિલિન્ડરના ભાવ પણ વધ્યા છે. જાણો વિગતો. તમારા શહેરમાં શું છે ભાવ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-commercial-cylinders-price-hiked-check-latest-rates-ahmedabad-vadodara-surat-rajkot-479949 ",
+    "time": "2026-06-01T03:21:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,15 +216,6 @@ const newsData_gu = [
     "time": "2026-05-31T17:04:38.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "હોંગકોંગમાં ગુંજ્યું ગુજરાતનું નામ, ખેત મજૂરની દીકરીએ એશિયન એથ્લેટિક્સ ચેમ્પિયનશિપમાં જીત્યો રજત ચંદ્રક",
-    "desc": "ચોરવાડનાં ખેત મજુરની દીકરી કાજલ વાજાએ એશિયન અંડર-20 એથ્લેટિક્સ ચેમ્પિયનશિપમાં રજત ચંદ્રક જીત્યો છે. સ્પર્ધામાં શ્રેષ્ઠ પ્રદર્શન કરવા માટે કાજલે આ વર્ષે ધોરણ-12ની પરીક્ષા એક વર્ષ ડ્રોપ લઈને તનતોડ મહેનત કરી અને તેની મહેનત રંગ લાવી છે. હોંગકોંગમાં યોજાયેલી સ્પર્ધામાં 4x100 મીટર રિલેમાં ભારતને નવો રાષ્ટ્રીય રેકોર્ડ બનાવવામાં મહત્વપૂર્ણ યોગદાન આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/gujarat-name-echoed-in-hong-kong-kajal-waja-daughter-of-a-farm-laborer-won-a-silver-medal-at-the-asian-athletics-championship-479903 ",
-    "time": "2026-05-31T15:22:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "PMનું માની લીધુ કે પછી તેલના ઊંચા ભાવના કારણે મોહભંગ કર્યો, 20000 ઘટ્યો સોનાનો ભાવ, છતાં નથી આવી રહ્યા ખરીદદારો, ડિમાંડ 70% ઘટી",
     "desc": "આ વર્ષે યુદ્ધ શરૂ થયું ત્યારથી, સોનાના ભાવમાં તેની ટોચની કિંમત કરતાં 20,000 રૂપિયા જેટલો ઘટાડો થયો છે, પરંતુ જ્વેલર્સની દુકાનો અને શોરૂમમાં ગ્રાહકોનો અભાવ છે. લોકો સોનું ખરીદવાને બદલે જૂનું સોનું વેચી રહ્યા છે. માંગમાં ઘટાડો થયો છે.",
@@ -117,15 +234,6 @@ const newsData_gu = [
     "time": "2026-05-31T14:39:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "RCB કે ગુજરાત",
-    "desc": "આજે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમ ખાતે સાંજે 7:30 વાગ્યે રોયલ ચેલેન્જર્સ બેંગ્લોર અને ગુજરાત ટાઇટન્સ વચ્ચે IPL 2026ની ફાઇનલ મેચ રમાશે. IPL 2026ની ફાઇનલ પહેલા અચાનક એક મોટી ભવિષ્યવાણી સામે આવી છે. જેમાં આ વખતે કોણ ચેમ્પિયન બનશે તેની ભવિષ્યવાણી કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-will-won-ipl-2026-trophy-ravichandran-ashwin-big-prediction-before-final-479887 ",
-    "time": "2026-05-31T12:16:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "શું તમને ખબર છે ટ્રકની પાછળ &amp;#039;હોર્ન, ઓકે, પ્લીઝ&amp;#039; કેમ લખેલું હોય છે? બીજા વિશ્વયુદ્ધ સાથે છે તેનું કનેક્શન",
     "desc": "તમે કદાચ ઘણીવાર ટ્રકની પાછળ \"હોર્ન, ઓકે, પ્લીઝ\" લખેલું વાક્ય જોયું હશે. શું તમે ક્યારેય વિચાર્યું હશે કે આ કેમ લખેલું હોય છે? દેશભરના ટ્રક ડ્રાઇવરોની કાર પર આ જ વાક્ય કેમ લખેલું હોય છે? ચાલો સમજી તેનો મતલબ શું છે અને ટ્રક પાછળ કેમ લખવામાં આવે છે.",
@@ -133,24 +241,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/why-is-horn-ok-please-written-on-the-back-of-a-truck-it-has-a-connection-to-world-war-ii-479882 ",
     "time": "2026-05-31T11:19:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "નેપાળે રચ્યો ઇતિહાસ, T20Iમાં બીજી વખત આ કારનામું કરીને બનાવ્યો નવો વર્લ્ડ રેકોર્ડ",
-    "desc": "નેપાળની ટીમે ફરી એકવાર T20I મેચમાં 300થી વધુ રન ફટકારી દીધા છે. આ સાથે જ નેપાળે એક નવો વર્લ્ડ રેકોર્ડ બનાવી દીધો છે. T20 ક્રિકેટમાં અન્ય કોઈ ટીમે એકથી વધુ વખત એક ઇનિંગ્સમાં 300 રન બનાવ્યા નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/nepal-created-history-achieved-this-feat-for-the-second-time-in-t20i-setting-a-new-world-record-479880 ",
-    "time": "2026-05-31T10:57:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;સિલેક્શન મારા હાથમાં નથી...&amp;#039; T20 ટીમમાંથી બહાર થવા પર શુભમન ગિલનું છલકાયું દર્દ",
-    "desc": "IPL 2026માં બેટથી શાનદાર પ્રદર્શન કરનાર શુભમન ગિલે હવે ભારતીય T20 ટીમમાં વાપસી અંગે એક મોટું નિવેદન આપ્યું છે. ગુજરાત ટાઇટન્સને ફાઇનલમાં પહોંચાડનાર ગિલે સ્પષ્ટપણે કહ્યું કે તે સતત તેની રમત પર કામ કરી રહ્યો છે અને જો તેને તક આપવામાં આવે તો તે ભારતીય ટીમ માટે રમવા માટે તૈયાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-statement-on-t20-comeback-dreams-after-ipl-2026-performance-479878 ",
-    "time": "2026-05-31T10:36:35.000Z"
   },
   {
     "cat": "Politics",
@@ -169,15 +259,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/5-most-scary-horror-movies-on-ott-in-hindi-jio-hotstar-5-must-watch-horror-thriller-movies-479876 ",
     "time": "2026-05-31T10:27:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ફિલ સોલ્ટ IPL ફાઇનલમાં RCB માટે રમશે ? કેપ્ટન રજત પાટીદાર આપ્યું અપડેટ",
-    "desc": "IPL 2026ની ફાઇનલ પહેલા રોયલ ચેલેન્જર્સ બેંગ્લોરના કેપ્ટન રજત પાટીદારે સ્ટાર ઓપનર ફિલ સોલ્ટની ફિટનેસ અંગે એક મોટી અપડેટ આપી. આંગળીની ઇજાને કારણે લાંબા સમયથી બહાર રહેલો સોલ્ટ હવે ટીમ સાથે પ્રેક્ટિસ કરી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/will-phil-salt-play-for-rcb-in-ipl-final-captain-rajat-patidar-gives-update-479874 ",
-    "time": "2026-05-31T09:38:47.000Z"
   },
   {
     "cat": "Business",
@@ -214,15 +295,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-manisha-koirala-bad-breath-story-of-gupt-movie-shooting-479842 ",
     "time": "2026-05-31T07:20:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ગુજરાત સાવધાન ! IPLનો આ સંયોગ RCBના પક્ષમાં, શું GT બદલશે ઈતિહાસ ?",
-    "desc": "IPL 2026ની ફાઇનલ પહેલા RCBના પક્ષમાં એક રસપ્રદ રેકોર્ડ છે. 2018થી IPLમાં ક્વોલિફાયર 1 જીતનારી ટીમે ફાઇનલ પણ જીતી છે. આ વખતે RCBએ ક્વોલિફાયર 1માં ગુજરાત ટાઇટન્સને હરાવીને ફાઇનલમાં સીધું સ્થાન મેળવ્યું. તેથી પ્રશ્ન એ છે કે શું ઇતિહાસનું પુનરાવર્તન થશે કે ગુજરાત ટાઇટન્સ આ ટ્રેન્ડને તોડીને બીજી વખત ચેમ્પિયન બનશે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-history-on-rcb-side-qualifier-1-winner-never-lost-final-since-2018-479841 ",
-    "time": "2026-05-31T07:01:50.000Z"
   },
   {
     "cat": "Politics",
@@ -414,15 +486,6 @@ const newsData_gu = [
     "time": "2026-05-29T15:18:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "વીજળીથી લઈને LPG ગેસ સિલિન્ડર સુધી, 1 જૂનથી બદલાઈ રહ્યા છે આ 7 નિયમ ! તમારા ખિસ્સા પર કરશે સીધી અસર, જાણો",
-    "desc": "મે મહિનો પુરો થવા જઈ રહ્યો છે અને જુન મહિનાની શરૂઆત થવા જઈ રહી છે, અને 1લી જૂન તેની સાથે ઘણા મોટા ફેરફારો લઈને આવી રહી છે. જો તમે તમારા બજેટ વિશે ચિંતિત છો, તો આ સમાચાર તમારા માટે ખૂબ જ મહત્વપૂર્ણ છે. 1 જૂન, 2026થી, UPI પેમેન્ટ, LPG સિલિન્ડરના ભાવ, બેંકિંગ નિયમો અને રેલ્વેથી લઈને દરેક બાબતમાં મોટા ફેરફારો થવાના છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/these-7-rules-are-changing-from-june-1-they-will-have-a-direct-impact-on-your-pocket-know-479659 ",
-    "time": "2026-05-29T12:48:12.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "આગ લાગતા પહેલા AC આપે છે આ સંકેત, જો ધ્યાન ન આપ્યું તો થશે મોટું નુકસાન, આ રીતે રહો સુરક્ષિત",
     "desc": "ગરમી વધવાની સાથે એસીમાં આગ લાગવાની ઘટનાઓમાં પણ વધારો થઈ રહ્યો છે, અનેક નાના-નાના પ્રોબ્લમ છે, જેના કારણે તમારા ACમાં આગ લાગી શકે છે અને મોટી દુર્ધટનાઓ થાય છે, પણ આ નાની બાબતોનું ધ્યાન રાખીને તમે એસીના મોટા ખર્ચાથી બચી શકો છો.",
@@ -441,15 +504,6 @@ const newsData_gu = [
     "time": "2026-05-29T09:13:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનાના ભાવમાં આજે મોટો ફેરફાર, ગજબ સ્થિતિ જોવા મળી રહી છે, જાણો કેરેટ પ્રમાણે લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીમાં આજે ભારે ઉતાર ચડાવ જોવા મળી રહ્યા છે. એક બાજુ જ્યાં વાયદા બજારમાં ભાવ તૂટ્યા છે તો રિટેલ બજારમાં સોનું અને ચાંદી ઉછાળા મારતા જોવા મળ્યા છે. જાણો આજનો સોના અને ચાંદીનો કેરેટ પ્રમાણે ભાવ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-today-mcx-and-ibja-latest-rates-aaj-no-sona-ane-chandi-no-bhav-479621 ",
-    "time": "2026-05-29T08:12:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ફેમસ ટીવી સેલિબ્રિટીને થયું બ્રેસ્ટ કેન્સર, પોસ્ટ શેર કરી ફેન્સને કહ્યું, મારા માટે પ્રાર્થના કરો",
     "desc": "ટીવીના જાણીતા સેલિબ્રિટી અને રિયાલીટી શોના વિનર શેફ પંકજ ભદૌરિયાને બ્રેસ્ટ કેન્સર થયું છે. આ વાત પંજક ભદૌરિયાએ સોશિયલ મીડિયા દ્વારા કંફર્મ કરી છે. સાથે જ તેણે ઈંસ્ટાગ્રામ સ્ટોરી શેર કરી જણાવ્યું હતું કે 29 મે ના રોજ તેની સર્જરી છે.",
@@ -457,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tv-celebrity-and-master-chef-show-winner-pankaj-bhadouria-diagnosed-breast-cancer-479613 ",
     "time": "2026-05-29T07:22:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઓછા EMI નો મતલબ હંમેશા સસ્તી લોન નહીં, બેંકની આ &amp;#039;ગેમથી બચો&amp;#039;, ઘટશે વ્યાજનું ભારણ",
-    "desc": "મોટા ભાગના લોકો લોન લેવા સમયે માત્ર ઈએમઆઈ જોઈ નિર્ણય કરવાનું શરૂ કરે છે. જો ઈએમઆઈ બજેટમાં હોય તો તે કોઈ વિલંબ કર્યા વગર લોન લે છે, પરંતુ આ રીત તમારા પર ભારે પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/the-low-emi-trap-why-a-lower-monthly-payment-doesnt-mean-a-cheaper-loan-479602 ",
-    "time": "2026-05-29T06:48:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -484,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/best-family-7-seater-cars-of-2026-toyota-innova-maruti-suzuki-ertiga-tata-safari-479597 ",
     "time": "2026-05-29T06:00:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Petrol-Diesel Price: આ મહિને 18% સસ્તું થયું ક્રૂડ ઓઈલ! એક લીટર પેટ્રોલ-ડીઝલનો આજનો ભાવ ખાસ જાણો",
-    "desc": "વૈશ્વિક સ્થિતિઓને પગલે ક્રૂડ ઓઈલમાં સતત ઉતાર ચડાવ જોવા મળ્યો છે. જો કે રાહતના સમાચાર એ છે કે ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળ્યો છે. ત્યારે શું ઘર આંગણે પેટ્રોલ અને ડીઝલના ભાવમાં ફેરફાર જોવા મળશે ખરો? જાણો આજના પેટ્રોલ ડીઝલના લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-latest-price-today-in-ahmedabad-vadodara-surat-rajkot-check-today-rate-479591 ",
-    "time": "2026-05-29T05:26:30.000Z"
   },
   {
     "cat": "Tech",
@@ -666,15 +702,6 @@ const newsData_gu = [
     "time": "2026-05-25T08:55:19.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "33Km માઇલેજ, 5 સ્ટાર સેફ્ટી, આ  CNG કાર બની લોકોની પહેલી પસંદ, પ્રીમિયમ ફીચર્સથી છે લેસ",
-    "desc": "મારૂતિ સુઝુકી ડિઝાયર સીએનજી દેશમાં સૌથી વધુ વેચાતી કારમાં સામેલ છે. નાણાકીય વર્ષ 025-2026મા તેના 1.35 લાખથી વધુ યુનિટ્સ વેચાયા છે. 33.73 km/kg માઇલેજ, 5-સ્ટાર સેફ્ટી રેટિંગ, 6 એરબેગ, 360 ડિગ્રી કેમેરા અને આધુનિક ફીચર્સ તેને ખાસ બનાવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-dzire-cng-most-selling-car-in-india-33km-mileage-5-star-safety-479161 ",
-    "time": "2026-05-25T05:43:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "પતિ રોજ અલગ અલગ છોકરી સાથે પાર્ટી કરે તો ચાલે... દુબઈના અરબપતિની પત્નીએ કહેલી વાતથી શરુ થયો વિવાદ",
     "desc": "નેટફ્લિક્સ પર એક નવો શો સ્ટ્રીમ થયો છે જેનું નામ છે દેશી બ્લિંગ. આ શોના કારણે ઈંટરનેટ પર એક વિવાદ શરુ થયો છે. શોમાં દુબઈના બિઝનેસમેનની પત્ની એવું કહેતી જોવા મળે છે કે તેનો પતિ પાર્ટીનો શોખીન છે અને રોજ તે અલગ અલગ છોકરી સાથે પાર્ટી કરે તેમાં કોઈ વાંધો નથી. બસ રોજ એક જ છોકરી ન હોવી જોઈએ... આ વાતથી સોશિયલ મીડિયા પર લોકો ભડકી ગયા છે.",
@@ -700,15 +727,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/indira-gandhi-was-upset-with-this-statement-about-the-bachchan-family-rift-between-both-the-families-479108 ",
     "time": "2026-05-24T10:42:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું ઈરાન પોતાનો યુરેનિયમનો જથ્થો જતો નહીં કરે? જાણો શું છે લેટેસ્ટ અપડેટ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે સંભવિત પીસ ડીલ પર જાણે ભ્રમની સ્થિતિ જોવા મળી રહી છે. પહેલા એવો રિપોર્ટ આવ્યો કે ઈરન પોતાનું હાઈલી એનરિચ્ડ યુરેનિયમ સોંપવા માટે તૈયાર થઈ ગયું છે. પરંતુ હવે ઈરાને સ્પષ્ટ કર્યું છે કે તેણે આવી કોઈ સમજૂતિ કરી નથી. વધુ વિગતો જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/big-update-on-iran-us-deal-will-iran-give-up-its-enriched-uranium-479060 ",
-    "time": "2026-05-24T09:46:26.000Z"
   },
   {
     "cat": "Entertainment",

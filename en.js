@@ -1,12 +1,471 @@
 const newsData_en = [
   {
-    "cat": "Sports",
-    "title": "Kohli meets Sooryavanshi after RCB's back-to-back title triumph",
-    "desc": "Virat Kohli led Royal Challengers Bengaluru to their second consecutive IPL title, sealing the victory with a signature six. Post-match, Kohli shared a heartwarming moment with 15-year-old Vaibhav Sooryavanshi, who dominated the awards ceremony with multiple accolades after a record-breaking season.",
-    "img": "https://static.toiimg.com/photo/msid-131432905,imgsize-972754.cms",
+    "cat": "Politics",
+    "title": "'Will talk in 2 days': BJP leader K Annamalai on speculation over new party in Tamil Nadu",
+    "desc": "Former Tamil Nadu BJP president K Annamalai has fueled speculation about his political future by traveling to Delhi and offering a cryptic \"Please wait\" when asked about reports of launching a new party. This comes amid posters from supporters in Coimbatore calling for him to lead, amplifying discussions about his next move after the 2026 assembly elections.",
+    "img": "https://static.toiimg.com/photo/msid-131441361,imgsize-51142.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/watch-virat-kohli-meets-vaibhav-sooryavanshi-after-rcbs-back-to-back-title-triumph/articleshow/131432859.cms",
-    "time": "2026-06-01T03:08:21.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/will-talk-in-2-days-bjp-leader-k-annamalai-on-speculation-over-new-party-in-tamil-nadu/articleshow/131441343.cms",
+    "time": "2026-06-01T11:14:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Why hate India?' BJP hits back at Kapil Sibal over 'ashamed to live in India' remark",
+    "desc": "BJP has strongly criticized Congress MP Kapil Sibal for his remarks on democracy, accusing him of \"hating India\" and selectively ignoring violence. Sibal's comments followed an alleged attack on TMC MP Abhishek Banerjee in West Bengal. The BJP questioned Sibal's silence on past incidents while criticizing the ruling party.",
+    "img": "https://static.toiimg.com/photo/msid-131441313,imgsize-928108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-hate-india-bjp-hits-back-at-kapil-sibal-over-ashamed-to-live-in-india-remark/articleshow/131441039.cms",
+    "time": "2026-06-01T11:12:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "UPI clocked its biggest month in May, transactions surpass Rs 29.90 lakh crore",
+    "desc": "India's UPI transactions reached record highs in May, with 23.2 billion transactions valued at Rs 29.90 lakh crore. This growth, driven by summer travel and seasonal spending, signifies a healthy upward trajectory for the digital payments ecosystem. Future expansion is anticipated through Credit-on-UPI and cross-border initiatives.",
+    "img": "https://static.toiimg.com/photo/msid-131441140,imgsize-1744225.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/may-saw-most-digital-payments-upi-clocked-its-biggest-month-transactions-surpass-rs-29-90-lakh-crore/articleshow/131440889.cms",
+    "time": "2026-06-01T11:04:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "French Open heavily fines player for 'very difficult for a woman' remark",
+    "desc": "French Open organisers fined Paraguayan player Adolfo Daniel Vallejo 65,000 euros after he said his second-round match should have been umpired by a man. Vallejo criticised Brazilian official Ana Carvalho following his loss to Moise Kouame, claiming she struggled to control the crowd. Tournament director Amelie Mauresmo called the remarks unacceptable, while Vallejo insisted his comments were about crowd management, not officiating ability.",
+    "img": "https://static.toiimg.com/photo/msid-131440918,imgsize-23084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/it-has-to-be-refereed-by-a-man-french-open-heavily-fines-player-for-very-difficult-for-a-woman-remark/articleshow/131440520.cms",
+    "time": "2026-06-01T10:55:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIADMK functionary found dead in Thanjavur; Palaniswami announces ₹55-lakh solatium",
+    "desc": "The police discovered a video posted by the functionary on social media, stating he was upset over the recent developments in the AIADMK, and had thus decided to take the extreme step of ending his life",
+    "img": "https://th-i.thgim.com/public/news/cities/chennai/k1ca43/article71047518.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-01%20131858.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-functionary-found-dead-in-thanjavur-palaniswami-announces-55-lakh-solatium/article71047163.ece",
+    "time": "2026-06-01T10:53:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s manufacturing PMI rises to 3-month high in May on strong domestic demand",
+    "desc": "India's manufacturing sector saw its fastest growth in three months during May, fueled by robust domestic demand and infrastructure projects. New orders surged, though rising Middle East conflict costs continue to challenge manufacturers. Despite higher input expenses, companies expanded output and hiring, with positive sentiment for future growth.",
+    "img": "https://static.toiimg.com/photo/msid-131440866,imgsize-1363763.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-manufacturing-pmi-rises-to-3-month-high-in-may-on-strong-domestic-demand/articleshow/131440354.cms",
+    "time": "2026-06-01T10:51:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'All major issues settled': Centre's big update on US-India trade deal",
+    "desc": "India and the United States are nearing the finalization of their first bilateral trade agreement tranche, with most key details settled. A high-level US delegation is in New Delhi for crucial negotiations, aiming to conclude an interim pact. Both nations are confident of signing the agreement soon, building on a framework established in February.",
+    "img": "https://static.toiimg.com/photo/msid-131440584,imgsize-60542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-first-tranche-set-to-be-signed-soon-as-all-major-points-settled-says-centre/articleshow/131440503.cms",
+    "time": "2026-06-01T10:40:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Imtiaz says Ranbir can bring reality to the character of Lord Ram in 'Ramayana'",
+    "desc": "Director Imtiaz Ali expressed excitement for Ranbir Kapoor's portrayal of Lord Ram in 'Ramayana', believing the role will be transformative for the actor. Ali praised Kapoor's ability to embody characters, anticipating a humane and personal approach to the iconic role.",
+    "img": "https://static.toiimg.com/photo/msid-131440576,imgsize-30216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imtiaz-ali-says-ranbir-kapoor-can-bring-reality-to-the-character-of-lord-ram-in-ramayana-it-will-be-beneficial-for-him/articleshow/131440368.cms",
+    "time": "2026-06-01T10:38:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vicky Kaushal’s father Sham Kaushal shares secret cameo from 'Dangal'",
+    "desc": "Action director Sham Kaushal surprised fans by sharing a throwback photo from Aamir Khan's 'Dangal' sets, revealing his brief role as an akhara guru. A veteran of Bollywood action for over four decades, Kaushal's extensive filmography includes hits like 'Bajrangi Bhaijaan' and 'Animal'. The post highlights a lesser-known aspect of his involvement in the acclaimed sports drama.",
+    "img": "https://static.toiimg.com/photo/msid-131440330,imgsize-68900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushals-father-sham-kaushal-reveals-secret-cameo-with-rare-throwback-from-dangal-thanks-nitesh-tiwari-for-akhara-guru-role/articleshow/131440292.cms",
+    "time": "2026-06-01T10:29:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samay reacts to viral AI video of him kissing Ranveer",
+    "desc": "A viral AI-generated video claiming to show Samay Raina kissing Ranveer Allahbadia at an IPL match left fans amused. Samay reacted on social media writing, \"Help me @instagram.\" Ranveer is yet to respond. The two previously courted controversy over Samay's show, India's Got Latent.",
+    "img": "https://static.toiimg.com/photo/msid-131440193,imgsize-22998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/indias-got-latent-season-2-star-samay-raina-reacts-to-viral-ai-generated-video-of-him-kissing-ranveer-allahbadia-at-ipl-match-help-me/articleshow/131440193.cms",
+    "time": "2026-06-01T10:20:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Daughters killed for dowry",
+    "desc": "In the past three weeks, 33-year-old Twisha Sharma’s death over alleged dowry harassment has seen alleged procedural lapses and institutional bias by Bhopal Police. As her mother-in-law, a retired judge, slandered her daughter-in-law, a former model on TV channels, Twisha’s parents and sibling stood up against the influential in-laws. An exhausting timeline of the case and the debate it has sparked about walking out of a bad marriage",
+    "img": "https://th-i.thgim.com/public/incoming/opfpiy/article71044702.ece/alternates/LANDSCAPE_1200/Twisha_7.JPG.jpeg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/daughters-killed-for-dowry/article71044688.ece",
+    "time": "2026-06-01T10:08:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-Oman trade pact: Govt builds 'Plan B' amid Hormuz crisis",
+    "desc": "Amidst Middle East chaos impacting the Strait of Hormuz, India's new free trade agreement with Oman, effective June 1, offers a strategic alternative. Oman's location outside the Strait provides a reliable gateway for trade and energy, as evidenced by recent import surges from the nation.",
+    "img": "https://static.toiimg.com/photo/msid-131439867,imgsize-156488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-oman-trade-pact-govt-builds-plan-b-amid-hormuz-crisis-why-deal-is-key-for-energy-future/articleshow/131439854.cms",
+    "time": "2026-06-01T10:07:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad Pitt and Angelina Jolie's Chateau Miraval lawsuit",
+    "desc": "Brad Pitt and Angelina Jolie's legal battle over their French winery, Chateau Miraval, continues years after their divorce. Jolie sold her shares to a Russian millionaire, sparking a lawsuit from Pitt who claimed a breach of agreement. Recent rulings have seen Pitt gain a larger stake, while the legal fight over the estate persists.",
+    "img": "https://static.toiimg.com/photo/msid-131439856,imgsize-82984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-angelina-jolies-chateau-miraval-lawsuit-a-complete-timeline-of-love-lease-and-lawsuits/articleshow/131439779.cms",
+    "time": "2026-06-01T10:04:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Virat, I know you get a lot of attention': Kohli called 'heartbeat' of RCB",
+    "desc": "Virat Kohli starred with an unbeaten 75 as RCB beat Gujarat Titans by five wickets in the IPL final, securing another title. The veteran finished the season with 675 runs and was hailed by coach Andy Flower as the team’s “heartbeat.” While fans celebrated Kohli’s heroics, RCB skipped a public homecoming, with captain Rajat Patidar dedicating the trophy to supporters lost in last year’s tragedy.",
+    "img": "https://static.toiimg.com/photo/msid-131439729,imgsize-34152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-i-know-you-get-a-lot-of-attention-kohli-called-heartbeat-of-rcb-dressing-room-after-ipl-title/articleshow/131439270.cms",
+    "time": "2026-06-01T09:59:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup 2026",
+    "desc": "In Kerala, West Bengal and several other places across India, the FIFA World Cup is a homecoming — of fan clubs, midnight screenings, bike rallies and WhatsApp groups that spring back to life every four years",
+    "img": "https://th-i.thgim.com/public/incoming/yb63h/article71032804.ece/alternates/LANDSCAPE_1200/IMG_80689_17_11_2022_18__2_1_8BAHEG1N.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/society/fifa-world-cup-2026-football-fans-india-kerala-bengal/article71023927.ece",
+    "time": "2026-06-01T09:59:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Anushka Sharma is...': Virat fans get emotional after RCB wins",
+    "desc": "Once trolled for Virat Kohli's bad days, Anushka Sharma is now being celebrated as RCB's lucky charm. RCB beat Gujarat Titans in a one-sided final in Ahmedabad, with Virat top-scoring and winning Player of the Match. Fans flooded social media with love for Anushka after the victory.",
+    "img": "https://static.toiimg.com/photo/msid-131439723,imgsize-22864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anushka-sharma-is-our-lucky-charm-virat-kohli-fans-get-emotional-after-rcb-clinches-second-ipl-title-victory/articleshow/131439723.cms",
+    "time": "2026-06-01T09:57:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why are Infosys, TCS and Tech Mahindra shares surging despite AI disruption fears?",
+    "desc": "Indian IT stocks surged Monday, with major players like Infosys and TCS gaining up to 5%. This rebound follows months of AI-driven pessimism, as investors reassess sector valuations ahead of a key US Federal Reserve meeting. Technical indicators suggest a potential short-term recovery, though analysts caution it might be a retracement within a broader trend.",
+    "img": "https://static.toiimg.com/photo/msid-131439411,imgsize-475931.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/it-stocks-rally-why-are-infosys-tcs-and-tech-mahindra-shares-surging-despite-ai-disruption-fears/articleshow/131439306.cms",
+    "time": "2026-06-01T09:42:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Following GK Vishnu, Suriya gifts Sai Abhyankkar and editor Kalaivanan",
+    "desc": "Tamil superstar Suriya has gifted Mahindra BE 6 electric luxury SUVs, valued at Rs. 30 lakh each, to music composer Sai Abhyankkar, editor Kalaivanan, and cinematographer G.K. Vishnu. This generous gesture honors their significant contributions to the blockbuster film 'Karuppu,' which has surpassed Rs. 300 crore worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-131439186,imgsize-88208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/following-gk-vishnu-suriya-gifts-karuppu-composer-sai-abhyankkar-and-editor-kalaivanan-with-luxury-cars/articleshow/131439170.cms",
+    "time": "2026-06-01T09:30:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We thank India': Africa CDC on emergency Ebola aid as Congo battles Ebola outbreak",
+    "desc": "India has dispatched vital medical supplies, including diagnostics and therapeutics, to aid the Democratic Republic of Congo's fight against the escalating Bundibugyo Ebola outbreak. The Africa CDC expressed deep gratitude for this crucial assistance, which was channeled through its regional hub in Uganda and is now being deployed to affected areas.",
+    "img": "https://static.toiimg.com/photo/msid-131439087,imgsize-730183.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-thank-india-africa-cdc-on-emergency-ebola-aid-as-congo-battles-ebola-outbreak/articleshow/131439015.cms",
+    "time": "2026-06-01T09:23:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "16 Netflix shows ending in 2026",
+    "desc": "The streaming world is saying goodbye to numerous shows in 2026. A significant number of series have either been cancelled or are concluding their planned runs. From Westerns like 'The Abandons' to popular dramas such as 'The Lincoln Lawyer', viewers are seeing the end of many beloved programs this year.",
+    "img": "https://static.toiimg.com/photo/msid-131438382,imgsize-128328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/16-netflix-shows-ending-in-2026-with-love-meghan-the-night-agent-the-lincoln-lawyer-and-more-leaving-their-ott-home/articleshow/131438120.cms",
+    "time": "2026-06-01T09:05:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katrina drops unseen PICS from Vicky's b'day, her hair steals the show",
+    "desc": "Katrina Kaif shared unseen pictures from a family vacation, featuring a glimpse of her son Vihaan and her 'Rapunzel' like hair. The actress also detailed her search for the best hot chocolate and coffee during their travels. Vicky Kaushal previously praised Katrina as a superhero and warrior for her strength during pregnancy and motherhood.",
+    "img": "https://static.toiimg.com/photo/msid-131438757,imgsize-86248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-drops-unseen-pics-from-vicky-kaushals-birthday-son-vihaan-reads-gajapati-kulapati-but-its-her-hair-that-steals-the-show-pics-inside/articleshow/131438543.cms",
+    "time": "2026-06-01T09:00:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zee Entertainment's Unite8 Sports to broadcast FIFA World Cup in India",
+    "desc": "Football fans in India can rejoice as Zee Entertainment Enterprises Limited (ZEEL) has secured broadcast rights for the 2026 and 2030 FIFA World Cups, along with the 2027 FIFA Women's World Cup and other FIFA events until 2034.",
+    "img": "https://static.toiimg.com/photo/msid-131438657,imgsize-28592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/official-zee-entertainments-unite8-sports-to-broadcast-fifa-world-cup-in-india/articleshow/131438593.cms",
+    "time": "2026-06-01T08:55:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "UPI transactions hit record high of ₹29.9 lakh crore in May",
+    "desc": "National Payments Corporation of India (NPCI) said the value of transactions was at ₹29.03 lakh crore in April against ₹25.14 lakh crore in the same month a year ago, registering a 19% growth on an annual basis",
+    "img": "https://th-i.thgim.com/public/incoming/vuxdaz/article71047459.ece/alternates/LANDSCAPE_1200/DSC_6824.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/upi-transactions-hit-record-high-of-299-lakh-crore-in-may/article71047411.ece",
+    "time": "2026-06-01T08:54:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diljit Dosanjh on headlining London’s Wembley Stadium",
+    "desc": "Punjabi superstar Diljit Dosanjh will perform at London's Wembley Stadium on September 12, 2026 — a first for South Asian artists. Announcing it at his Toronto show, Diljit called it historic, emotionally recalling his mother's belief in him, though she'd never heard of Wembley.",
+    "img": "https://static.toiimg.com/photo/msid-131438462,imgsize-12690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-michael-jackson-queen-diljit-dosanjh-becomes-the-first-punjabi-artist-to-headline-londons-iconic-wembley-stadium-shares-emotional-story-my-mom-used-to-say-whenever-you-have-a-problem-something-good-happens/articleshow/131438462.cms",
+    "time": "2026-06-01T08:49:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Saw him do fantastic stuff'",
+    "desc": "Legendary reggae artist Shaggy, after an impressive 30-year journey, remains untouched by monotony, claiming it's an allergy to him. He has skillfully shaped a dynamic '2026 remix' of his beloved musical style. His dedication to embracing sounds from around the globe has led him to Indian melodies, collaborating with the vibrant Mika Singh and discovering Bhangra through Apache Indian. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131438218,imgsize-112984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-winner-reggae-icon-shaggy-praises-diljit-dosanjh-recalls-spotting-him-on-the-tonight-show-i-saw-him-do-fantastic-stuff/articleshow/131438184.cms",
+    "time": "2026-06-01T08:47:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Charan and Janhvi Kapoor starrer 'Peddi' OTT details",
+    "desc": "Ram Charan's upcoming sports drama, 'Peddi,' directed by Buchi Babu Sana, is set for a June 4 theatrical release. The film, co-starring Janhvi Kapoor, has reportedly secured a Netflix OTT deal, though the digital premiere date remains unannounced. The movie promises an emotional and impactful climax, with a star-studded cast.",
+    "img": "https://static.toiimg.com/photo/msid-131438509,imgsize-131548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-ott-release-ram-charan-and-janhvi-kapoors-sport-drama-locks-post-theatrical-streaming-partner/articleshow/131438454.cms",
+    "time": "2026-06-01T08:47:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump once slammed Biden for touching US oil reserves, now he's draining it: Report",
+    "desc": "The U.S. is drawing heavily from its Strategic Petroleum Reserve, releasing approximately 50 million barrels since the conflict with Iran began. These withdrawals are pushing emergency oil stockpiles to multi-decade lows, with significant amounts being exported. Analysts warn this depletion necessitates future replacements, potentially leading to higher prices globally.",
+    "img": "https://static.toiimg.com/photo/msid-131438413,imgsize-103974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-once-slammed-biden-for-touching-us-oil-reserves-now-hes-draining-it-report/articleshow/131438140.cms",
+    "time": "2026-06-01T08:41:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Steve Carell",
+    "desc": "finding humor without cruelty. His career, from 'The Office' to 'The Big Short,' showcases a fundamental decency, prioritizing sincerity and dignity over mockery. Carell believes in laughing with characters, not at them, a principle that defines his impactful performances and resonates deeply with audiences.",
+    "img": "https://static.toiimg.com/photo/msid-131437597,imgsize-81922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-steve-carell-i-think-you-can-find-the-humour-in-a-situation-without-being-mean-spirited-or-cruel-/articleshow/131437564.cms",
+    "time": "2026-06-01T08:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "GT's IPL 2026 season: Consistent yet incomplete as title dream ends in final heartbreak",
+    "desc": "Gujarat Titans narrowly missed the IPL 2026 title, falling to Royal Challengers Bengaluru in a home final. Despite a shaky start, the consistent Titans reached their third final in five seasons, showcasing strong performances from Gill, Sudharsan, and Buttler. Their bowling attack, led by Rabada and Siraj, also impressed throughout the campaign.",
+    "img": "https://static.toiimg.com/photo/msid-131438157,imgsize-95034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/gujarat-titans-ipl-2026-season-consistent-yet-incomplete-as-title-dream-ends-in-final-heartbreak/articleshow/131438152.cms",
+    "time": "2026-06-01T08:26:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Court orders charges against Jacqueline in Rs 200 cr money laundering case",
+    "desc": "A court has observed prima facie material suggesting Jacqueline Fernandez accepted expensive gifts from Sukesh Chandrasekhar despite knowing his criminal background. Charges are to be framed against all accused, with the court remarking Fernandez was in connivance to conceal proceeds of crime, including gifts and transfers to her family.",
+    "img": "https://static.toiimg.com/photo/msid-131438096,imgsize-61310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/court-orders-charges-against-jacqueline-fernandez-in-rs-200-crore-sukesh-money-laundering-case-says-she-accepted-luxury-gifts-knew-of-his-criminal-past/articleshow/131437897.cms",
+    "time": "2026-06-01T08:22:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Abhishek Banerjee to move court over attack in West Bengal",
+    "desc": "Trinamool Congress MP Abhishek Banerjee will inform the Lok Sabha Speaker about a mob attack on him in West Bengal and plans to move court. The incident, where he was injured, has sparked a political row, with the TMC accusing the BJP of orchestrating the assault and the BJP claiming it reflects public anger.",
+    "img": "https://static.toiimg.com/photo/msid-131437907,imgsize-871017.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/abhishek-banerjee-to-move-court-over-attack-in-west-bengal/articleshow/131437814.cms",
+    "time": "2026-06-01T08:15:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anupam's mom Dulari steals show with unscripted 'ramp walk'",
+    "desc": "In a delightful X post, Anupam Kher shared a charming glimpse into his life with his mother, Dulari Kher, striking a chord with everyone who grew up in Indian middle-class households. He cleverly pointed out how thoughtful gifts often remain untouched, but his mother's exuberant 'ramp walk' with her latest present showcased that true affection shines through small, simple gestures.",
+    "img": "https://static.toiimg.com/photo/msid-131437819,imgsize-139580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gifting-mom-is-risky-anupam-kher-decodes-middle-class-homes-as-mother-dulari-steals-the-show-with-unscripted-ramp-walk/articleshow/131437702.cms",
+    "time": "2026-06-01T08:07:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nepal PM Balendra Shah's 'encroaching' India remark sparks row: What is the border dispute about?",
+    "desc": "In a recent address, Nepal's Prime Minister ignited tensions by addressing Indian 'encroachments' along the border, which necessitated a swift clarification from officials in Kathmandu. The territorial dispute involving Kalapani, Lipulekh, and Limpiyadhura stretches back to a treaty signed in 1816 and hinges on the interpretation of the Kali River's source.",
+    "img": "https://static.toiimg.com/photo/msid-131437700,imgsize-28486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nepal-pm-balendra-shahs-encroaching-india-remark-sparks-row-what-is-the-border-dispute-about/articleshow/131437565.cms",
+    "time": "2026-06-01T08:03:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Heather McComb, marries Scott Michael Campbell",
+    "desc": "Actress Heather McComb has embarked on a new chapter in her life, tying the knot with Scott Michael Campbell during an intimate ceremony in the picturesque setting of Missoula, Montana. Surrounded by close friends and family, the couple embraced their newfound commitment, with McComb reflecting on the overwhelming love and support she received.",
+    "img": "https://static.toiimg.com/photo/msid-131437750,imgsize-89212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beeks-ex-wife-heather-mccomb-marries-scott-michael-campbell-our-hearts-are-full-and-humbled/articleshow/131437694.cms",
+    "time": "2026-06-01T08:03:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lilly on growing up with SRK and Will Smith as her only mirrors",
+    "desc": "With a heart full of gratitude, Lilly Singh shares her enthusiasm for joining 'Deli Boys 2', a series that resonates with her enduring mission for authentic South Asian visibility. She points out the need for 'complex' brown characters in media, marking a bold shift from the one-dimensional depictions often found in earlier representations. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131436965,imgsize-60314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lilly-singh-on-growing-up-with-shah-rukh-khan-and-will-smith-as-her-only-mirrors-i-look-like-two-men-when-i-do-comedy/articleshow/131436910.cms",
+    "time": "2026-06-01T07:56:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mel Brooks honors Eddie Murphy",
+    "desc": "Eddie Murphy was recently honored at the prestigious 51st AFI Life Achievement Awards, where the 99-year-old comedy legend Mel Brooks took center stage to celebrate him as the 'modern king' of humor. Brooks emphasized the groundbreaking nature of Murphy's career, which has spanned from his early days on 'Saturday Night Live' to a myriad of iconic film roles.",
+    "img": "https://static.toiimg.com/photo/msid-131437525,imgsize-66466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mel-brooks-honors-eddie-murphy-at-51st-afi-event-calls-him-the-one-who-broke-barriers-to-drive-culture-forward/articleshow/131437483.cms",
+    "time": "2026-06-01T07:51:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Euphoria 3' ending explained",
+    "desc": "After three seasons of chaos, addiction, and heartbreak, 'Euphoria' delivered its most devastating episode to date, with four major characters meeting their end in a 90-minute finale that may very well have signed the show's own death warrant. Here is a full breakdown of everything that happened and what it all means.",
+    "img": "https://static.toiimg.com/photo/msid-131436946,imgsize-54590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-3-ending-explained-series-finale-features-four-major-characters-deaths/photostory/131436946.cms",
+    "time": "2026-06-01T07:21:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Inflation man has cracked the whip again': Congress slams PM Modi over commercial LPG price hike",
+    "desc": "The Congress party has strongly criticized the Centre for increasing commercial LPG cylinder prices by up to Rs 53.50 from June 1, accusing Prime Minister Modi of burdening citizens. The opposition highlighted that commercial LPG prices have cumulatively risen by Rs 1,571.50 since the year began, also noting a Rs 11 hike in 5-kg FTL cylinders.",
+    "img": "https://static.toiimg.com/photo/msid-131436686,imgsize-1369422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/inflation-man-has-cracked-the-whip-again-congress-slams-pm-modi-over-commercial-lpg-price-hike/articleshow/131436400.cms",
+    "time": "2026-06-01T07:13:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Inside RCB's winning machine: The masterminds behind consecutive IPL titles",
+    "desc": "RCB's back-to-back IPL titles were built on more than performances on the field. From Andy Flower and Mo Bobat to Dinesh Karthik, Malolan Rangarajan and Omkar Salvi, a formidable backroom team laid the foundations for the franchise's sustained success.",
+    "img": "https://static.toiimg.com/photo/msid-131435778,imgsize-101644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/inside-rcbs-winning-machine-the-masterminds-behind-back-to-back-ipl-titles/articleshow/131435696.cms",
+    "time": "2026-06-01T06:47:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'There was a legend ... ': Sooryavanshi recalls hearing Gavaskar stories",
+    "desc": "Vaibhav Sooryavanshi, the IPL 2026 Orange Cap winner, revealed his father's profound influence, drawing inspiration from tales of Sunil Gavaskar. His father would recount how Gavaskar fearlessly faced fast bowlers without a helmet, motivating a young Vaibhav during challenging practice sessions against bouncers. These stories fueled his journey to becoming a record-shattering teenage sensation.",
+    "img": "https://static.toiimg.com/photo/msid-131435962,imgsize-1052500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/there-was-a-legend-vaibhav-sooryavanshi-recalls-hearing-sunil-gavaskar-stories-from-father/articleshow/131435761.cms",
+    "time": "2026-06-01T06:44:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We have not just played, we dominated this year,’ says RCB skipper Patidar",
+    "desc": "“To be honest, last year was a lot of pressure; this year was more calm because of the way we played throughout the tournament; I think we have not just played, we dominated this year,” says Patidar",
+    "img": "https://th-i.thgim.com/public/incoming/lxfvpc/article71047156.ece/alternates/LANDSCAPE_1200/VIS_2199.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-we-have-not-just-played-we-dominated-this-year-says-rcb-skipper-patidar/article71047133.ece",
+    "time": "2026-06-01T06:39:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Russia imposes aviation fuel export ban until November 30",
+    "desc": "Russia has banned aviation fuel exports until November 30 to ensure domestic supply stability amid falling refinery output. This move follows Ukrainian attacks on energy facilities, which have reduced Russia's fuel processing capacity. The restriction aims to prevent shortages and maintain domestic market equilibrium.",
+    "img": "https://static.toiimg.com/photo/msid-131435900,imgsize-255030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/russia-imposes-aviation-fuel-export-ban-until-november-30/articleshow/131435822.cms",
+    "time": "2026-06-01T06:37:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gross GST revenues rise 3.2% to over Rs 1.94 lakh crore in May",
+    "desc": "India's Goods and Services Tax collections in May surpassed Rs 1.94 lakh crore, marking a 3.2% year-on-year increase. While domestic revenue saw a slight dip, robust growth in import-linked taxes fueled the overall rise. Several states reported healthy SGST collection increases, though Delhi experienced a significant decline.",
+    "img": "https://static.toiimg.com/photo/msid-131435781,imgsize-714361.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gross-gst-revenues-rise-3-2-to-over-rs-1-94-lakh-crore-in-may/articleshow/131435790.cms",
+    "time": "2026-06-01T06:28:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB's rise across IPL, WPL feels closer to the Manchester City model",
+    "desc": "Royal Challengers Bengaluru's journey from perennial underachievers to champions is complete. With back-to-back IPL titles and two WPL crowns in three seasons, RCB have evolved from a star-driven franchise into a system-driven team. Their journey from one of the teams making up the numbers mirrors the transformation - and success - of Manchester City in England.",
+    "img": "https://static.toiimg.com/photo/msid-131435322,imgsize-172720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rcbs-rise-across-ipl-wpl-feels-closer-to-the-manchester-city-model/articleshow/131435028.cms",
+    "time": "2026-06-01T06:09:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Beware of pickpockets': Rahul slams Govt. over CBSE re-evaluation cost",
+    "desc": "A student may have to pay up to ₹2,000 just to ensure the accurate evaluation of their own answer sheet, said Rahul Gandhi. ‘Just imagine the revenue CBSE is generating when four lakh students have submitted such applications,’ he added",
+    "img": "https://th-i.thgim.com/public/incoming/exed1b/article71047038.ece/alternates/LANDSCAPE_1200/PTI05_31_2026_000144B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/beware-of-pickpockets-rahul-slams-govt-over-cbse-re-evaluation-cost/article71047035.ece",
+    "time": "2026-06-01T06:05:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We asked ourselves a question last year ... ': Virat Kohli's special post",
+    "desc": "Royal Challengers Bengaluru secured their second IPL title by defeating Gujarat Titans. Star batter Virat Kohli expressed his joy and pride in the team's historic achievement. He highlighted the collective effort and the squad's depth throughout the season. Kohli also spoke about adapting his game and the confidence the team gained.",
+    "img": "https://static.toiimg.com/photo/msid-131435278,imgsize-72142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-kohlis-special-post-after-rcbs-ipl-2026-triumph-we-asked-ourselves-a-question-last-year-/articleshow/131434964.cms",
+    "time": "2026-06-01T06:00:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli shines again with unbeaten 75, surpasses Rohit Sharma in elite list",
+    "desc": "Royal Challengers Bengaluru clinched their second consecutive IPL title, defeating Gujarat Titans in the 2026 final. Virat Kohli, aged 37, starred with an unbeaten 75, earning Player of the Match and becoming the second-oldest recipient. This victory also saw Kohli surpass Rohit Sharma for the most Player of the Match awards by an Indian player.",
+    "img": "https://static.toiimg.com/photo/msid-131434990,imgsize-84850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-shines-again-with-unbeaten-75-surpasses-rohit-sharma-in-elite-list/articleshow/131434938.cms",
+    "time": "2026-06-01T05:45:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Congo and Uganda report 263 confirmed Ebola cases with 43 deaths, Africa CDC says",
+    "desc": "More than 1,100 suspected cases ‌are being investigated, and 43 people are confirmed to ‌have died as a ‌result ⁠of the rare Bundibugyo strain of ⁠Ebola, Mr. Kaseya said in an FT op-ed published on May 31",
+    "img": "https://th-i.thgim.com/public/incoming/pk7acu/article71045149.ece/alternates/LANDSCAPE_1200/2026-05-31T123614Z_33829848_RC29KLAALM88_RTRMADP_3_HEALTH-EBOLA-WHO.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says/article71045060.ece",
+    "time": "2026-06-01T05:20:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What's the outlook for Nifty for June 1-June 5 week? Check list of top stock recommendations",
+    "desc": "Nuvama Wealth Management Ltd, and R R Kabel Ltd have been picked as the top stocks to buy in the June 1-June 5, 2026 week by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities:",
+    "img": "https://static.toiimg.com/photo/msid-131434709,imgsize-77082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-june-01-to-june-05-stock-recommendations-nuvama-wealth-management-ltd-rr-kabel/articleshow/131434673.cms",
+    "time": "2026-06-01T05:20:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB's historic title defence, Kohli's big-final heroics and Sooryavanshi's breakthrough",
+    "desc": "Royal Challengers Bengaluru etched their name in history by winning their second consecutive IPL title in 2026, defeating Gujarat Titans. Virat Kohli's stellar performance earned him Player of the Match in the final, while teenage sensation Vaibhav Sooryavanshi dominated with multiple individual awards, marking an explosive and record-laden season.",
+    "img": "https://static.toiimg.com/photo/msid-131434519,imgsize-1532969.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rcbs-historic-title-defence-kohlis-big-final-heroics-and-sooryavanshis-breakthrough-a-season-full-of-records/articleshow/131434397.cms",
+    "time": "2026-06-01T05:09:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajat Patidar's four-word post after joining Dhoni, Rohit with back-to-back IPL titles",
+    "desc": "Royal Challengers Bengaluru secured their second consecutive IPL title, defeating Gujarat Titans in the IPL 2026 final. Captain Rajat Patidar became the third skipper to achieve back-to-back titles, joining Dhoni and Sharma. Patidar highlighted the team's dominant performance and praised Virat Kohli's invaluable influence.",
+    "img": "https://static.toiimg.com/photo/msid-131433722,imgsize-55884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rajat-patidars-four-word-post-after-joining-ms-dhoni-rohit-sharma-with-back-to-back-ipl-titles/articleshow/131433734.cms",
+    "time": "2026-06-01T04:15:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Sitting inside CBSE': Rahul Gandhi's 'beware of pickpockets' warning amid OSM row; flags re-evaluation fees",
+    "desc": "Gandhi on Sunday stepped up his attack on Prime Minister Narendra Modi over the CBSE OSM controversy, accusing him of ignoring the concerns of 18.5 lakh students allegedly affected by irregularities in the board's answer-sheet scanning process. In a post on X, the leader of opposition in the Lok Sabha said the Prime Minister found time to speak on a range of issues during his monthly Mann Ki Baat address, but not about students whose answer sheets were allegedly not assessed properly.",
+    "img": "https://static.toiimg.com/photo/msid-131433721,imgsize-112256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sitting-inside-cbse-rahul-gandhis-beware-of-pickpockets-warning-amid-osm-row-flags-re-evaluation-fees/articleshow/131433591.cms",
+    "time": "2026-06-01T04:15:17.000Z"
   },
   {
     "cat": "Sports",
@@ -15,16 +474,16 @@ const newsData_en = [
     "img": "https://static.toiimg.com/photo/msid-131429000,imgsize-471904.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-how-every-piece-of-the-puzzle-fell-into-place-for-royal-challengers-bengaluru/articleshow/131429000.cms",
-    "time": "2026-06-01T03:02:49.000Z"
+    "time": "2026-06-01T03:59:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kendall-Jacob take romance to Japan",
-    "desc": "Hollywood's rumoured couple, Kendall Jenner and Jacob Elordi, have been spotted enjoying a romantic getaway in Japan. The pair, seen exploring the city and sharing a dinner date, have been the subject of dating reports for months. This latest sighting follows a series of public appearances, hinting at a blossoming romance after knowing each other socially for years.",
-    "img": "https://static.toiimg.com/photo/msid-131432844,imgsize-107776.cms",
+    "cat": "Sports",
+    "title": "Kohli meets Sooryavanshi after RCB's back-to-back title triumph",
+    "desc": "Virat Kohli led Royal Challengers Bengaluru to their second consecutive IPL title, sealing the victory with a signature six. Post-match, Kohli shared a heartwarming moment with 15-year-old Vaibhav Sooryavanshi, who dominated the awards ceremony with multiple accolades after a record-breaking season.",
+    "img": "https://static.toiimg.com/photo/msid-131432905,imgsize-972754.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kendall-jenner-and-euphoria-star-jacob-elordi-spotted-on-dinner-date-in-japan-pics/articleshow/131432288.cms",
-    "time": "2026-06-01T02:56:51.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/watch-virat-kohli-meets-vaibhav-sooryavanshi-after-rcbs-back-to-back-title-triumph/articleshow/131432859.cms",
+    "time": "2026-06-01T03:08:21.000Z"
   },
   {
     "cat": "Business",
@@ -45,60 +504,6 @@ const newsData_en = [
     "time": "2026-06-01T02:39:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kurt Russell talks about moving to Colorado with Goldie Hawn",
-    "desc": "Kurt Russell has revealed his move to Colorado with Goldie Hawn was driven by a desire for ranching life and personal fulfillment. The actor, who built his lodge there over 40 years ago, found it was the perfect place to live life on his own terms, despite warnings that leaving LA would end his career.",
-    "img": "https://static.toiimg.com/photo/msid-131432526,imgsize-98124.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kurt-russell-says-he-wanted-to-get-into-the-ranching-life-after-shifting-to-colorado-with-goldie-hawn/articleshow/131432396.cms",
-    "time": "2026-06-01T02:33:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' fans spot similarity",
-    "desc": "Following 'Drishyam 3's' release, a compelling debate has ignited online comparing Georgekutty from 'Drishyam' and Walter White from 'Breaking Bad'. Both characters, driven by a fierce desire to protect their families, undergo significant transformations. While their narrative arcs share striking similarities, particularly in their climactic moments, distinct emotional differences are also being explored by fans.",
-    "img": "https://static.toiimg.com/photo/msid-131432382,imgsize-186054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlals-drishyam-3-triggers-social-media-comparison-between-georgekutty-and-breaking-bads-heisenberg/articleshow/131432367.cms",
-    "time": "2026-06-01T02:30:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika documents Japan trip with Vijay in loved-up IG dump",
-    "desc": "Newlyweds Rashmika Mandanna and Vijay Deverakonda are enjoying married life, recently sharing glimpses of their Japan trip. Mandanna posted photos from their getaway, featuring her in traditional attire and exploring local sights. The couple, who married in Udaipur, also sparked fan attention with a subtle detail on Deverakonda's jewelry. Their next film together, 'Ranabaali', is set for release.",
-    "img": "https://static.toiimg.com/photo/msid-131432368,imgsize-136020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-documents-japan-trip-with-vijay-deverakonda-in-loved-up-social-media-dump-yukata-street-food-blurry-pics/articleshow/131432300.cms",
-    "time": "2026-06-01T02:29:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Disclosure Day' cast surprises Steven Spielberg with tribute",
-    "desc": "Stars of Steven Spielberg's new sci-fi thriller 'Disclosure Day' honored the legendary director with vintage movie tees. Josh O'Connor, Emily Blunt, and Colman Domingo sported shirts from 'E.T.', 'Jaws', and 'Jurassic Park', delighting Spielberg, who captured the moment. This marks Spielberg's return to the genre that defined much of his celebrated career.",
-    "img": "https://static.toiimg.com/photo/msid-131432312,imgsize-69212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/disclosure-day-emily-blunt-colman-domingo-and-josh-oconnor-pay-heartmelting-tribute-to-steven-spiellerg/articleshow/131432294.cms",
-    "time": "2026-06-01T02:21:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ahaan shoots romantic song; grooves to SRK's 'Challa'",
-    "desc": "Ahaan Panday has begun filming Ali Abbas Zafar's new movie in the UK, with set videos showcasing him in Birmingham and London. Fans are buzzing about his fresh look and a romantic song sequence with co-star Sharvari. One clip even featured the popular track \"Challa,\" sparking speculation about its inclusion in the film.",
-    "img": "https://static.toiimg.com/photo/msid-131432142,imgsize-126004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ahaan-panday-shoots-romantic-song-sequence-for-ali-abbas-zafars-next-with-sharvari-spotted-grooving-to-shah-rukh-khans-challa-with-nushka-sharma-katrina-kaif-watch/articleshow/131431992.cms",
-    "time": "2026-06-01T02:13:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul targets Centre over CBSE OSM row, alleges ‘fraud’ in scanning process",
-    "desc": "In a separate social media post, Congress communication chief Jairam Ramesh alleged a major data breach in the CBSE’s Class 12 examination system, claiming that answer sheets of nearly two million students were available in the public domain.",
-    "img": "https://th-i.thgim.com/public/incoming/odsf89/article71044768.ece/alternates/LANDSCAPE_1200/20260531165L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/revealing-chat-with-fellow-anti-national-soros-agents-rahuls-dig-at-govt-over-cbse-osm-row/article71044736.ece",
-    "time": "2026-06-01T02:04:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'One felt nice ... ': Virat Kohli dons special T-shirt, dances with Anushka",
     "desc": "Royal Challengers Bengaluru secured their second consecutive IPL title, defeating Gujarat Titans by five wickets. Virat Kohli, instrumental in the win with an unbeaten 75, celebrated joyfully with wife Anushka Sharma, wearing a special \"we did it twice\" T-shirt. Kohli highlighted the team's depth and confidence in their successful title defense.",
@@ -106,42 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-kohli-dons-special-t-shirt-dances-with-anushka-sharma-after-rcbs-ipl-2026-title-win-watch/articleshow/131432168.cms",
     "time": "2026-06-01T02:04:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Keanu Reeves and Alexandra Grant talk about their relationship",
-    "desc": "Keanu Reeves and Alexandra Grant, who have been together since 2017, have opened up about their profound relationship in a heartwarming discussion. Reeves affectionately described Grant as someone who makes love feel effortless, while Grant expressed that her artwork has taken on a brighter tone since they became an item.",
-    "img": "https://static.toiimg.com/photo/msid-131432164,imgsize-65568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/keanu-reeves-and-alexandra-grant-give-a-rare-look-into-their-relationship-my-paintings-become-happier/articleshow/131432093.cms",
-    "time": "2026-06-01T02:01:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Cylinder price raised by Rs 42-53.50, to now cost Rs 3,113.5 in Delhi",
-    "desc": "Commercial LPG prices have risen by up to Rs 53.50 per cylinder nationwide, effective June 1st. This adjustment aims to bolster fuel reserves amid West Asia conflict concerns. The government is pushing for 30 days of LPG reserves and intensifying anti-hoarding measures, assuring sufficient fuel stocks despite import reliance.",
-    "img": "https://static.toiimg.com/photo/msid-131432266,imgsize-1527263.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/commercial-lpg-gets-costlier-cylinder-price-raised-by-rs-42-53-50-to-now-cost-rs-3113-5-in-delhi/articleshow/131431856.cms",
-    "time": "2026-06-01T01:40:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Asif Ali backs Ansiba",
-    "desc": "Actor Asif Ali voiced support for Ansiba Hassan amid her allegations against Tini Tom, suggesting internal disputes should be resolved within organizations. Ansiba has renewed serious accusations, including a smear campaign and communal remarks by Tini Tom, leading her to step down as Joint Secretary. Tini Tom, denying the claims, stated he would leave matters to God.",
-    "img": "https://static.toiimg.com/photo/msid-131431918,imgsize-129614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/amma-controversy-asif-ali-backs-drishyam-3-actor-ansiba-hassan-tini-tom-says-he-is-leaving-everything-in-gods-hands/articleshow/131431898.cms",
-    "time": "2026-06-01T01:34:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dua Lipa and Callum Turner's relationship timeline",
-    "desc": "Pop sensation Dua Lipa and actor Callum Turner have exchanged vows in a private London ceremony, a prelude to their grand Italian wedding. The intimate civil ceremony saw the couple, surrounded by close family and friends, embark on their marital journey. Reports highlight Callum's emotional reaction to seeing Dua.",
-    "img": "https://static.toiimg.com/photo/msid-131431871,imgsize-77020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipa-marries-callum-turner-fans-revisit-the-couples-relationship-timeline-watch/articleshow/131431432.cms",
-    "time": "2026-06-01T01:30:47.000Z"
   },
   {
     "cat": "Sports",
@@ -153,42 +522,6 @@ const newsData_en = [
     "time": "2026-06-01T01:30:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Prince Harry branded 'Hijack Harry' amid royal backlash",
-    "desc": "Palace insiders have reportedly nicknamed Prince Harry \"Hijack Harry\" amid claims he and Meghan Markle deliberately time their announcements to overshadow royal events. This frustration resurfaced with their wedding anniversary photos coinciding with King Charles' Northern Ireland visit. Critics believe this is a calculated move to shift focus back to the Sussexes, causing significant irritation within royal circles.",
-    "img": "https://static.toiimg.com/photo/msid-131431810,imgsize-86422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/prince-harry-dubbed-hijack-harry-as-palace-insiders-accuse-him-and-meghan-markle-of-stealing-royal-spotlight/articleshow/131431801.cms",
-    "time": "2026-06-01T01:19:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Chand Mera Dil' crosses Rs 32 CRORE globally on Day 10",
-    "desc": "'Chand Mera Dil', featuring the captivating duo of Lakshya and Ananya Panday, has impressively garnered over Rs 24.30 crore in net collections across India by the end of its tenth day. Produced by the renowned Karan Johar, this romantic drama experienced a gradual surge in viewership on its second Sunday, culminating in a stunning worldwide gross of Rs 32.24 crore. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131431800,imgsize-201972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/chand-mera-dil-box-office-collection-day-10-lakshya-and-ananya-panday-starrer-crosses-rs-32-crore-worldwide-on-second-sunday/articleshow/131431782.cms",
-    "time": "2026-06-01T01:15:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "John Rzeznik recalls working with Taylor Swift in 2011",
-    "desc": "Goo Goo Dolls frontman John Rzeznik reminisced about his 2011 collaboration with Taylor Swift during her 'Speak Now' tour. He was impressed by Swift's maturity and professionalism at just 21. Rzeznik also noted how performing 'Iris' with Swift significantly boosted the song's popularity, leading to numerous covers. He expressed openness to performing at Swift and Travis Kelce's future wedding.",
-    "img": "https://static.toiimg.com/photo/msid-131431802,imgsize-126830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/goo-goo-dolls-member-john-rzeznik-recalls-working-with-taylor-swift-shares-what-impressed-him-the-most/articleshow/131431780.cms",
-    "time": "2026-06-01T01:15:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Kattalan' BO day 4: Antony Varghese film records major drop",
-    "desc": "Antony Varghese's action thriller 'Kattalan' experienced a significant drop in box office collections on its fourth day, falling by over 52% to Rs 61 lakhs. The film's total India net collection now stands at Rs 7.29 crore. Meanwhile, actor Parth Tiwari shared insights into crafting his character Robbie, emphasizing a nuanced portrayal over stereotypes.",
-    "img": "https://static.toiimg.com/photo/msid-131431776,imgsize-233712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kattalan-box-office-collection-day-4-antony-varghese-film-records-major-drop-india-net-total-reaches-rs-7-29-cr/articleshow/131431765.cms",
-    "time": "2026-06-01T01:08:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Virat Kohli's dhol dance with Pandya goes viral after RCB's title triumph",
     "desc": "Royal Challengers Bengaluru secured their second consecutive IPL title by defeating Gujarat Titans. Star batter Virat Kohli and all-rounder Krunal Pandya celebrated the historic win with dhols. Kohli's unbeaten 75 guided RCB to a clinical chase. This victory makes RCB the third franchise to defend their IPL crown. Kohli was named Player of the Match for his exceptional performance.",
@@ -198,96 +531,6 @@ const newsData_en = [
     "time": "2026-06-01T01:03:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "White Paper on State govt.’s finances is being finalised",
-    "desc": "While assuming office last month, CM Vijay said his govt. would release the document, alleging that the DMK govt. left behind an empty treasury. It is likely to be out in a few days, says an official",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-tamilnadu/xzn7r0/article71046319.ece/alternates/LANDSCAPE_1200/Tamil-Nadu-goveGIGG2685N.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/white-paper-on-state-govts-finances-is-being-finalised/article71045236.ece",
-    "time": "2026-06-01T00:57:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Blast' BO day 4: Arjun Sarja film records strong growth",
-    "desc": "Arjun Sarja's 'Blast' is making waves at the box office, crossing Rs 21 crore worldwide. The film saw a significant 31.9% jump on Day 4, collecting Rs 6 crore net domestically. Driven by strong Tamil occupancy, 'Blast' has garnered Rs 13.95 crore in India and Rs 5.55 crore overseas, showcasing encouraging performance.",
-    "img": "https://static.toiimg.com/photo/msid-131431684,imgsize-220372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/blast-box-office-collection-day-4-arjun-sarja-film-records-strong-growth-worldwide-total-reaches-rs-21-58-cr/articleshow/131431681.cms",
-    "time": "2026-06-01T00:51:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dua Lipa and Callum Turner’s relationship timeline",
-    "desc": "In a fairy tale ending, pop powerhouse Dua Lipa tied the knot with actor Callum Turner during a secluded ceremony in London. Their two-year romance, blossoming from a whimsical book-inspired first encounter, led to this heartfelt celebration. After persistent engagement whispers, the couple's private nuptials add a perfectly sweet chapter to their enchanting love story, leaving fans buzzing with excitement.",
-    "img": "https://static.toiimg.com/photo/msid-131431663,imgsize-117474.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipa-and-callum-turner-from-their-bookish-meet-cute-to-getting-married-in-london/articleshow/131431649.cms",
-    "time": "2026-06-01T00:43:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Angelina Jolie and Brad Pitt decade-long battle nears end",
-    "desc": "Angelina Jolie and Brad Pitt's decade-long legal wrangling over their children is reportedly winding down as twins Knox and Vivienne approach their 18th birthday. While their vineyard dispute continues, the custody battle is entering its final stages.",
-    "img": "https://static.toiimg.com/photo/msid-131431625,imgsize-83754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/angelina-jolie-and-brad-pitt-decade-long-battle-nears-end-twins-knox-and-vivienne-set-to-ring-in-18th-birthday/articleshow/131431488.cms",
-    "time": "2026-06-01T00:36:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ayushmann film crosses Rs 63 cr",
-    "desc": "In a remarkable showing, Ayushmann Khurrana's 'Pati Patni Aur Woh Do' has exhibited impressive box office resilience, collecting Rs 2 crore on its third Saturday. The film's overall earnings stand at a noteworthy Rs 46.95 crore in India and Rs 63.41 crore internationally, proving that its captivating storyline resonates well with audiences, even amid a bustling cinematic landscape. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131431609,imgsize-214296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/pati-patni-aur-woh-do-box-office-collection-day-17-ayushmann-khurrana-film-sees-slight-growth-crosses-rs-63-crore-globally/articleshow/131431600.cms",
-    "time": "2026-06-01T00:33:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Karuppu' BO day 17: Suriya film registers Sunday growth",
-    "desc": "Suriya's 'Karuppu' continues to captivate audiences, amassing an impressive Rs 182.45 crore domestically and edging towards Rs 300 crore on a global scale. The film experienced a notable surge in its earnings on day 17, with Tamil Nadu leading the box office race. Fans can look forward to streaming it soon, as Netflix has reportedly secured the digital rights.",
-    "img": "https://static.toiimg.com/photo/msid-131431587,imgsize-71786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karuppu-box-office-collection-day-17-suriya-film-registers-sunday-growth-worldwide-collection-reaches-rs-289-24-cr/articleshow/131431583.cms",
-    "time": "2026-06-01T00:28:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' BO day 11: Mohanlal film sees growth again",
-    "desc": "Mohanlal's 'Drishyam 3' is dominating the box office, crossing Rs 96.70 crore in India and Rs 116.75 crore overseas. The mystery drama continues its strong run into its second weekend, with Kerala leading regional collections. The film's worldwide total now stands at an impressive Rs 228.95 crore, captivating audiences.",
-    "img": "https://static.toiimg.com/photo/msid-131431502,imgsize-100458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-box-office-collection-day-11-mohanlal-film-sees-growth-again-worldwide-total-hits-rs-228-95-cr/articleshow/131431498.cms",
-    "time": "2026-06-01T00:06:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I never dreamed of captaining RCB and lifting the trophy’: Patidar's emotional confession",
-    "desc": "Royal Challengers Bengaluru have secured their second consecutive IPL title. Captain Rajat Patidar expressed his disbelief and joy after the team's victory over Gujarat Titans. The bowlers set up the win by restricting GT to 155. Virat Kohli's unbeaten 75 anchored the chase. Patidar credited the team's bowlers and the support of senior players for the success.",
-    "img": "https://static.toiimg.com/photo/msid-131429372,imgsize-185562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-never-dreamed-of-captaining-rcb-and-lifting-the-trophy-rajat-patidars-emotional-confession/articleshow/131429333.cms",
-    "time": "2026-06-01T00:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi creates IPL history, becomes first player to win...",
-    "desc": "Fifteen-year-old Vaibhav Sooryavanshi etched his name in IPL history, becoming the first player to clinch five major individual awards in the 2026 season. Despite Rajasthan Royals missing the final, Sooryavanshi dominated, leading in runs with 776 and smashing a record 72 sixes. His stellar performance earned him the Orange Cap, MVP, Emerging Player, Super Striker, and Super Sixes awards.",
-    "img": "https://static.toiimg.com/photo/msid-131429181,imgsize-1094601.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshi-creates-ipl-history-becomes-first-player-to-win-five-awards-in-a-single-season/articleshow/131429078.cms",
-    "time": "2026-05-31T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Players evacuated after team bus suffers short circuit",
-    "desc": "A disappointing IPL final defeat was followed by a tense off-field scare for Gujarat Titans as a short circuit in the team bus left players stranded for nearly an hour. The incident capped a gruelling week of travel, weather disruptions and high-pressure knockout matches. GT lost the final by five wickets against RCB at the Narendra Modi Stadium on Sunday.",
-    "img": "https://static.toiimg.com/photo/msid-131429694,imgsize-38940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/massive-scare-for-gujarat-titans-players-evacuated-after-team-bus-suffers-short-circuit-all-safe/articleshow/131429693.cms",
-    "time": "2026-05-31T21:57:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "Lebanon says Israeli dawn strike on south killed eight, including three women",
     "desc": "The massacre committed by the Israeli enemy in a raid on the town of Deir Zahrani, Nabatieh district, at dawn on Sunday...resulted in eight martyrs, including three women, and 19 wounded, including five children and six women, says Ministry in a statement",
@@ -295,96 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/lebanon-says-israeli-dawn-strike-on-south-killed-eight-including-three-women/article71045944.ece",
     "time": "2026-05-31T21:03:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Daughters killed for dowry",
-    "desc": "In the past three weeks, 33-year-old Twisha Sharma’s death over alleged dowry harassment has seen alleged procedural lapses and institutional bias by Bhopal Police. As her mother-in-law, a retired judge, slandered her daughter-in-law, a former model on TV channels, Twisha’s parents and sibling stood up against the influential in-laws. An exhausting timeline of the case and the debate it has sparked about walking out of a bad marriage",
-    "img": "https://th-i.thgim.com/public/incoming/opfpiy/article71044702.ece/alternates/LANDSCAPE_1200/Twisha_7.JPG.jpeg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/daughters-killed-for-dowry/article71044688.ece",
-    "time": "2026-05-31T20:18:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SIR enumeration phase begins in Odisha, Mizoram, Sikkim and Manipur",
-    "desc": "Enumeration forms must be submitted by June 28 to be included in draft electoral rolls; this is part of the third phase of the SIR, which will complete the process across the country except Himachal, J&K, Ladakh",
-    "img": "https://th-i.thgim.com/public/incoming/xtye6y/article71044546.ece/alternates/LANDSCAPE_1200/IMG_20260222210L_2_1_BTG15KH3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/enumeration-phase-of-sir-begins-in-four-states/article71044518.ece",
-    "time": "2026-05-31T19:56:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Stuff you dream of... wanting to hit the winning run’: Kohli reveals lifelong IPL wish",
-    "desc": "Chasemaster Virat Kohli fulfilled a long-held dream by hitting the winning six to secure Royal Challengers Bengaluru's second IPL title. His unbeaten 75, featuring his fastest IPL fifty, guided RCB to a five-wicket victory. Kohli emphasised the team's strength and the fans' unwavering support as key to their championship success.",
-    "img": "https://static.toiimg.com/photo/msid-131429343,imgsize-50502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/stuff-you-dream-of-wanting-to-hit-the-winning-run-virat-kohli-reveals-lifelong-ipl-final-wish/articleshow/131429310.cms",
-    "time": "2026-05-31T19:56:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lok Adalats, DLSAs have no authority to grant divorce: Allahabad High Court",
-    "desc": "The court, in an order passed on April 30, said the power to dissolve a marriage rests exclusively with family courts, while the authority of Lok Adalats is limited to facilitating settlements between parties, and it cannot render judicial decisions.",
-    "img": "https://th-i.thgim.com/public/incoming/868tz3/article71045873.ece/alternates/LANDSCAPE_1200/Prayer-meeting-GEIFPP834.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/lok-adalats-dlsas-have-no-authority-to-grant-divorce-allahabad-high-court/article71045869.ece",
-    "time": "2026-05-31T19:31:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I feel a bit under pressure’: Sooryavanshi’s hilarious confession steals show",
-    "desc": "Fifteen-year-old Vaibhav Sooryavanshi, despite Rajasthan Royals not reaching the IPL 2026 final, emerged as a standout performer. He clinched the Orange Cap with a record-breaking 776 runs at a staggering strike rate, alongside the MVP and Emerging Player awards. His humble admission of nervousness during the presentation charmed audiences, highlighting the young talent's remarkable season.",
-    "img": "https://static.toiimg.com/photo/msid-131429106,imgsize-54430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-feel-a-bit-under-pressure-vaibhav-sooryavanshis-hilarious-confession-steals-show-after-dream-ipl-2026-season/articleshow/131429074.cms",
-    "time": "2026-05-31T19:31:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much did RCB and GT earn this season?",
-    "desc": "Royal Challengers Bengaluru secured the IPL 2026 title and a ₹20 crore prize. Gujarat Titans finished as runners-up, earning ₹13 crore. Rajasthan Royals received ₹7 crore for their third-place finish. Sunrisers Hyderabad took home ₹6.5 crore. The total prize pool for the four playoff teams was over ₹46.5 crore, concluding a successful season.",
-    "img": "https://static.toiimg.com/photo/msid-131428195,imgsize-224808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-prize-money-how-much-did-champions-rcb-and-runners-up-gt-earn-this-season/articleshow/131428167.cms",
-    "time": "2026-05-31T19:14:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli seals IPL title with six, Anushka Sharma erupts in wild celebration",
-    "desc": "Virat Kohli's masterful unbeaten 75 guided Royal Challengers Bengaluru to a thrilling five-wicket victory over Gujarat Titans in the IPL 2026 final. Kohli struck the winning six, securing RCB's second IPL title and igniting jubilant celebrations. His rapid half-century and calm anchoring of the chase proved decisive in the dramatic finale.",
-    "img": "https://static.toiimg.com/photo/msid-131428438,imgsize-27922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/watch-virat-kohli-seals-title-with-six-anushka-sharma-erupts-in-wild-celebration-as-rcb-defend-ipl-crown/articleshow/131428287.cms",
-    "time": "2026-05-31T18:48:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The persecution of consent",
-    "desc": "It is important for the law, courts, and the police to handle with a degree of sensitivity the question of consensual, underage relationships, simply because the tangle ensuing from this ‘offence’ has upended many young lives",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/hwqhs1/article65960528.ece/alternates/LANDSCAPE_1200/pocso_ki30.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-persecution-of-consent/article65960513.ece",
-    "time": "2026-05-31T18:48:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bihar BJP’s Pandit Deendayal Upadhyaya mega training campaign-2026 concludes",
-    "desc": "Chief Minister Samrat Choudhary addressed the concluding session in Bhagalpur, while State President Sanjay Saraogi addressed training sessions in Motihari and Valmikinagar. Around 20,000 party workers across 52 organisational districts received Ideological and Organisational Training.",
-    "img": "https://th-i.thgim.com/public/news/national/frsgzl/article71045786.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-31%20at%2019.56.43.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/bihar-bjps-pandit-deendayal-upadhyaya-mega-training-campaign-2026-concludes/article71045306.ece",
-    "time": "2026-05-31T18:31:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rabada pips Bhuvneshwar to finish as leading wicket-taker",
-    "desc": "Kagiso Rabada secured the Purple Cap in IPL 2026, taking 29 wickets. Gujarat Titans fell in the final to Royal Challengers Bengaluru. This marks Rabada's second Purple Cap. Bhuvneshwar Kumar of RCB was close behind with 28 wickets. Jofra Archer and Rashid Khan also featured in the top wicket-takers list. Anshul Kamboj emerged as a breakout performer.",
-    "img": "https://static.toiimg.com/photo/msid-131427951,imgsize-108238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-purple-cap-kagiso-rabada-pips-bhuvneshwar-kumar-to-finish-as-leading-wicket-taker/articleshow/131427915.cms",
-    "time": "2026-05-31T18:28:40.000Z"
   },
   {
     "cat": "Sports",
@@ -397,33 +550,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Virat Kohli confronts Shubman Gill over controversial catch in IPL Final",
-    "desc": "Virat Kohli received a crucial lifeline in the IPL 2026 final. A diving catch by Shubman Gill was overturned after review. Kohli then played a match-winning unbeaten 75. Royal Challengers Bengaluru chased down the target with 12 balls remaining. This victory secured their second consecutive IPL title. RCB bowlers had earlier restricted Gujarat Titans.",
-    "img": "https://static.toiimg.com/photo/msid-131427596,imgsize-940798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-kohli-confronts-shubman-gill-over-controversial-catch-in-ipl-final-watch/articleshow/131427593.cms",
-    "time": "2026-05-31T18:12:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Bhuvi, Hazlewood and Rasikh blew GT away with a bowling masterclass",
-    "desc": "RCB's pace trio of Bhuvneshwar Kumar, Josh Hazlewood and Rasikh Salam Dar exploited hard lengths to perfection, sharing seven wickets and dismantling the Gujarat Titans' batting line-up before restricting them to 155 for 8. For GT, Washington Sundar's 50 not out was the top score.",
-    "img": "https://static.toiimg.com/photo/msid-131426547,imgsize-40240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-final-how-bhuvneshwar-kumar-josh-hazlewood-and-rasikh-dar-blew-gt-away-with-a-bowling-masterclass/articleshow/131426532.cms",
-    "time": "2026-05-31T18:11:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anushka Sharma gives Virat Kohli a standing ovation after his fifty in IPL final",
-    "desc": "Virat Kohli delivered a match-winning performance in the IPL 2026 final, scoring his fastest-ever IPL half-century off 25 balls. His wife, Anushka Sharma, was seen giving him a standing ovation from the stands, celebrating his crucial knock that helped Royal Challengers Bengaluru secure back-to-back titles.",
-    "img": "https://static.toiimg.com/photo/msid-131427617,imgsize-29764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/watch-anushka-sharma-gives-virat-kohli-a-standing-ovation-after-his-match-defining-fifty-in-ipl-final/articleshow/131427599.cms",
-    "time": "2026-05-31T18:09:50.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "RCB's new era, Kohli's old magic: Defending champions outclass GT in IPL final",
     "desc": "Virat Kohli produced a masterful unbeaten 75 after Royal Challengers Bengaluru's (RCB) pace attack dismantled Gujarat Titans at the Narendra Modi Stadium in Ahmedabad on Sunday. Rajat Patidar's men secured a second successive IPL title with a commanding five-wicket victory. Rajat Patidar also became only the third captain to have won back-to-back IPL titles after MS Dhoni and Rohit Sharma.",
     "img": "https://static.toiimg.com/photo/msid-131429296,imgsize-186274.cms",
@@ -432,76 +558,13 @@ const newsData_en = [
     "time": "2026-05-31T18:06:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "As six die in Delhi building collapse, residents allege authorities turned a blind eye to illegal construction",
-    "desc": "The building collapsed on a canteen where doctors preparing for tests such as NEET-PG and FMGE were having food on Saturday evening; residents say illegal construction continued despite a notice issued against it, and that the MCD had even told the court that the construction had been stopped.",
-    "img": "https://th-i.thgim.com/public/incoming/cjw8zl/article71045710.ece/alternates/LANDSCAPE_1200/30_Building_Collapsed_31_05_Delhi.jpg",
+    "cat": "Tech",
+    "title": "CBSE says OnMark portal ‘vulnerabilities’ contained amid security concerns",
+    "desc": "The CBSE’s statement comes after 19-year-old ethical hacker Nisarga Adhikary claimed that he had hacked the CBSE’s digital evaluation ecosystem; Mr. Adhikary explained that personal information of students was processed by Google’s Gemini in automation scripts prepared by quality assurance engineers of COEMPT",
+    "img": "https://th-i.thgim.com/public/incoming/97m0fb/article71044433.ece/alternates/LANDSCAPE_1200/NKV-CBSE%201.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/saket-building-collapse-delhi-death-toll-may-31-2026/article71043893.ece",
-    "time": "2026-05-31T17:59:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "College student dies after getting stuck in temple car wheel in Tiruchengode",
-    "desc": "When the temple car took a sharp left turn during procession, two young men who were closer to the back wheel of the temple car got stuck between the wheel and the wall of the building where the temple car is usually stationed.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/t2b48k/article71044387.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-31%20at%204.16.57%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/college-student-dies-after-getting-stuck-in-temple-car-wheel-in-tiruchengode/article71044228.ece",
-    "time": "2026-05-31T17:20:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Railways’ electrification push reduces diesel consumption by 63%",
-    "desc": "Indian Railways has significantly reduced its diesel consumption by 185 crore litres annually, a direct result of its ambitious electrification drive. With 99.6% of the broad-gauge network now electrified, diesel use has plummeted to 37% of 2016-17 levels, saving foreign exchange and insulating operations from global fuel price volatility.",
-    "img": "https://static.toiimg.com/photo/msid-131426361,imgsize-951161.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/railways-electrification-push-reduces-diesel-consumption-by-63/articleshow/131426344.cms",
-    "time": "2026-05-31T17:06:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US President Donald Trump’s daughter Tiffany visits Jaisalmer’s Sonar Fort",
-    "desc": "Tiffany Trump, daughter of US President Donald Trump, visited Rajasthan's historic Sonar Fort in Jaisalmer with her husband Michael Boulos. The couple received a traditional Rajasthani welcome and were briefed on the fort's rich history and culture. Enhanced security measures are in place across the city for their visit.",
-    "img": "https://static.toiimg.com/photo/msid-131425293,imgsize-1615481.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-president-donald-trumps-daughter-tiffany-visits-jaisalmers-sonar-fort/articleshow/131425248.cms",
-    "time": "2026-05-31T15:38:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold prices to track US–Iran peace talks, Fed signals and key data releases this week",
-    "desc": "Gold prices face a mixed outlook this week, influenced by US-Iran peace talks, oil market shifts, and crucial US economic data. Federal Reserve officials' speeches will also guide interest rate expectations, impacting bullion's near-term trajectory. Analysts suggest a sideways to corrective momentum for precious metals, with progress in peace discussions potentially easing safe-haven demand.",
-    "img": "https://static.toiimg.com/photo/msid-131424984,imgsize-242248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bullion-movement-gold-prices-to-track-usiran-peace-talks-fed-signals-and-key-data-releases-this-week/articleshow/131424989.cms",
-    "time": "2026-05-31T15:02:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "When and where will banks remain closed? Check state-wise list",
-    "desc": "Planning a bank visit in June requires checking the holiday list as branches in several states will be closed on specific dates for festivals like YMA Day, Raja Sankranti, Moharrum, and Muharram. Additionally, banks observe closures on the second and fourth Saturdays of each month, impacting physical branch operations.",
-    "img": "https://static.toiimg.com/photo/msid-131424813,imgsize-1811368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/june-2026-bank-holidays-when-and-where-will-banks-remain-closed-check-state-wise-list/articleshow/131424342.cms",
-    "time": "2026-05-31T14:47:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Congo and Uganda report 263 confirmed Ebola cases with 43 deaths, Africa CDC says",
-    "desc": "More than 1,100 suspected cases ‌are being investigated, and 43 people are confirmed to ‌have died as a ‌result ⁠of the rare Bundibugyo strain of ⁠Ebola, Mr. Kaseya said in an FT op-ed published on May 31",
-    "img": "https://th-i.thgim.com/public/incoming/pk7acu/article71045149.ece/alternates/LANDSCAPE_1200/2026-05-31T123614Z_33829848_RC29KLAALM88_RTRMADP_3_HEALTH-EBOLA-WHO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says/article71045060.ece",
-    "time": "2026-05-31T14:17:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s domestic air traffic falls 4.2% in April amid weak demand and rising costs",
-    "desc": "Domestic air travel experienced a dip in April, with passenger numbers falling 4.2% from March and 3.47% year-on-year. Airlines faced headwinds from softer demand and rising costs, leading to network adjustments. IndiGo expanded its market share to 65%, while Air India Group saw a decline. Operational performance varied, with IndiGo leading on-time flights.",
-    "img": "https://static.toiimg.com/photo/msid-131424062,imgsize-1835836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-domestic-air-traffic-falls-4-2-in-april-amid-weak-demand-and-rising-costs/articleshow/131423895.cms",
-    "time": "2026-05-31T13:53:29.000Z"
+    "url": "https://www.thehindu.com/news/national/cbse-says-onmark-portal-vulnerabilities-contained-amid-security-concerns/article71044420.ece",
+    "time": "2026-05-31T16:10:26.000Z"
   },
   {
     "cat": "Sports",
@@ -523,48 +586,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Seven of top-10 firms lose Rs 1.54 lakh crore",
-    "desc": "Seven of India's top 10 companies experienced a combined market valuation drop of Rs 1.54 lakh crore last week, with Reliance Industries leading the decline. This occurred as the BSE Sensex and NSE Nifty saw minor dips. Despite the losses, Reliance Industries maintained its position as the country's most-valued firm.",
-    "img": "https://static.toiimg.com/photo/msid-131421970,imgsize-107731.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-recap-seven-of-top-10-firms-lose-rs-1-54-lakh-crore-in-value-reliance-suffers-steepest-fall/articleshow/131421935.cms",
-    "time": "2026-05-31T11:04:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade talks to resume on June 1 as both sides push to finalise interim pact",
-    "desc": "Senior officials from India and the US are meeting in New Delhi to finalize an interim trade agreement and advance broader bilateral trade talks. Discussions will cover market access, customs, and investment, with potential recalibration of the deal due to recent US tariff changes. The agreement aims to boost trade and economic security between the two nations.",
-    "img": "https://static.toiimg.com/photo/msid-131421647,imgsize-32894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-talks-to-resume-on-june-1-as-both-sides-push-to-finalise-interim-pact/articleshow/131421588.cms",
-    "time": "2026-05-31T10:26:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What will guide market sentiments this week?",
-    "desc": "Dalal Street anticipates a busy week driven by the RBI's interest rate decision, key economic data, and global developments like the US-Iran situation and crude oil prices. Investors will closely track manufacturing and services PMI, GDP growth, and foreign exchange reserves for market direction.",
-    "img": "https://static.toiimg.com/photo/msid-131421125,imgsize-102420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-outlook-what-will-guide-market-sentiments-this-week/articleshow/131421057.cms",
-    "time": "2026-05-31T09:23:45.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Why is India pushing for coal gasification?",
     "desc": "What is coal gasification and how does it have the potential to substitute imports? What technical challenges does high-ash Indian coal pose for gasification? Where does India stand with respect to coal gasification and related technology?",
     "img": "https://th-i.thgim.com/public/incoming/yveuds/article71042629.ece/alternates/LANDSCAPE_1200/2026-05-26T111232Z_480139880_RC2GRDAR00QK_RTRMADP_3_INDIA-POWER-COAL-INDIA.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/why-is-india-pushing-for-coal-gasification/article71042276.ece",
     "time": "2026-05-31T08:35:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Foreign investors continue selling spree in May, pull out Rs 32,000 crore",
-    "desc": "Foreign portfolio investors continued their exit from Indian equities in May, withdrawing Rs 32,963 crore due to concerns over earnings growth and a weakening rupee. This outflow has pushed cumulative FPI withdrawals in 2026 to Rs 2.25 lakh crore, surpassing the entire previous year's figure. While selling intensity has eased, a turnaround in flows is unlikely without significant macroeconomic improvement.",
-    "img": "https://static.toiimg.com/photo/msid-131420694,imgsize-26600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-profile-foreign-investors-continue-selling-spree-in-may-pull-out-rs-32000-crore/articleshow/131420620.cms",
-    "time": "2026-05-31T08:32:18.000Z"
   },
   {
     "cat": "World",
@@ -664,24 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/theatre/the-absurdity-of-survival/article71028379.ece",
     "time": "2026-05-30T09:05:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India lose 2-3 against Australia to share 4-match women's hockey series",
-    "desc": "India had lost 1-2 against Australia in the series opener but bounced back strongly to beat the hosts 4-2 in shootout after both the sides were locked 1-1 at the end of regulation time in the second match",
-    "img": "https://th-i.thgim.com/public/incoming/sxobla/article71040812.ece/alternates/LANDSCAPE_1200/HJiIK3-akAAD8-D.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/india-lose-2-3-against-australia-to-share-4-match-womens-hockey-series/article71040782.ece",
-    "time": "2026-05-30T08:52:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026",
-    "desc": "In Kerala, West Bengal and several other places across India, the FIFA World Cup is a homecoming — of fan clubs, midnight screenings, bike rallies and WhatsApp groups that spring back to life every four years",
-    "img": "https://th-i.thgim.com/public/incoming/yb63h/article71032804.ece/alternates/LANDSCAPE_1200/IMG_80689_17_11_2022_18__2_1_8BAHEG1N.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/society/fifa-world-cup-2026-football-fans-india-kerala-bengal/article71023927.ece",
-    "time": "2026-05-30T06:22:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -790,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/openais-altman-says-ai-unlikely-to-lead-to-jobs-apocalypse/article71024120.ece",
     "time": "2026-05-26T08:29:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "As tech hiring hits a pause",
-    "desc": "The demand for the Indian tech talent, predominantly concentrated in Bengaluru, seems to be on a downward slope. Once a lucrative sector for aspirational young Indians, there is a lull in hiring in the ITeS sector. The Hindu speaks to experts who say the shift is structural not cyclical",
-    "img": "https://th-i.thgim.com/public/incoming/9wcm2k/article71006783.ece/alternates/LANDSCAPE_1200/Banks-step-up-hGTNG0NNEA.6.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/as-tech-hiring-hits-a-pause/article71003373.ece",
-    "time": "2026-05-25T10:10:44.000Z"
   },
   {
     "cat": "Tech",
