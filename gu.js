@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "CBSE વિદ્યાર્થીઓ માટે મોટા સમાચાર! રાત્રે 12 વાગ્યા પહેલા એક્ટિવ થશે રી-ઈવેલ્યુએશન લિંક, જાણો વેબસાઇટ",
+    "desc": "CBSE 12મા ધોરણના વિદ્યાર્થીઓ માટે થોડી રાહત છે. પુનઃમૂલ્યાંકન અને પુનઃચેકિંગ પોર્ટલ ટૂંક સમયમાં લાઇવ થઈ રહ્યું છે. વિલંબનું કારણ, IIT કાનપુરની ટેકનિકલ ટીમે શું કહ્યું અને વિદ્યાર્થીઓએ આગળ શું કરવું જોઈએ તે વિશે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-news-for-cbse-students-re-evaluation-link-will-be-active-before-12-midnight-know-the-website-480042 ",
+    "time": "2026-06-01T16:57:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પુતિનના 2 &amp;#039;સિક્રેટ બાળકો&amp;#039;! જેમની ઝલક આજ સુધી દુનિયાએ નથી જોઈ, જાણો ક્યાં અને કોણ રાખી રહ્યું છે સંભાળ?",
+    "desc": "રશિયાના રાષ્ટ્રપતિ સામાન્ય રીતે ખૂબ જ કડક સ્વભાવના માનવામાં આવે છે. તેમનાથી જોડાયેલી દરેક વસ્તુ ખૂબ જ સિક્રેટ રહે છે. હવે તેમની પર્સનલ લાઈઝને લઈને કેટલાક ખૂબ જ મોટા ખુલાસા થયા છે. એક ગુપ્ત રિપોર્ટમાં પુતિનના 2 બાળકો હોવાનો દાવો કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/putin-2-secret-children-the-world-has-not-seen-a-glimpse-of-them-till-date-know-where-and-who-is-taking-care-of-them-480040 ",
+    "time": "2026-06-01T16:28:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "નવો ફોન ક્યારે ખરીદવો? વર્ષના આ સમયે iPhone અને Samsung ફોન પણ હોય છે સૌથી સસ્તા",
+    "desc": "જો તમે નવો સ્માર્ટફોન ખરીદવાનું વિચારી રહ્યા છો, તો યોગ્ય સમય પસંદ કરવો ખૂબ જ મહત્વપૂર્ણ છે, કારણ કે વર્ષના અમુક મહિનાઓમાં કિંમતોમાં નોંધપાત્ર ઘટાડો થાય છે. ભારતમાં, ઓક્ટોબર અને નવેમ્બર ફોન ખરીદવા માટે શ્રેષ્ઠ સમય માનવામાં આવે છે, ખાસ કરીને જ્યારે iPhone, Samsung ફોન અને અન્ય બ્રાન્ડ નોંધપાત્ર ડિસ્કાઉન્ટ આપે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/when-to-buy-a-new-phone-iphones-and-samsung-phones-are-also-the-cheapest-at-this-time-of-year-480039 ",
+    "time": "2026-06-01T15:53:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Z બનશે &amp;#039;Home of Football&amp;#039;: રમતગમત ક્ષેત્રે એક નવી અને ઐતિહાસિક શરૂઆત!",
+    "desc": "જ્યારે તમારી ભુજાઓ અને સ્નાયુઓ થોડા વધુ મજબૂત થશે, ત્યારે તમે ગીતાને વધુ સારી રીતે સમજી શકશો. જ્યારે તમારામાં થોડું શક્તિશાળી રક્ત દોડશે, ત્યારે તમે કૃષ્ણની મહાન પ્રતિભા અને તેમની અપાર શક્તિને વધુ સારી રીતે સમજી શકશો. જ્યારે તમારું શરીર પોતાના પગ પર મજબૂતાઈથી ઊભું રહેશે અને તમે તમારી જાતને એક સશક્ત વ્યક્તિ તરીકે અનુભવશો, ત્યારે તમે ઉપનિષદો અને આત્મ-ગૌરવને વધુ સારી રીતે સમજી શકશો. આ રીતે આપણે આ બાબતોને આપણી જરૂરિયાતો પર લાગુ કરવી પડશે: સ્વામી વિવેકાનંદ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/fifa-world-cup-to-begin-with-exclusive-live-action-on-unite8-sports-channels-and-zee-5-from-11-june-2026-480037 ",
+    "time": "2026-06-01T14:30:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કેન્દ્રીય કર્મચારીઓ માટે ખુશખબર! 63% સુધી પહોંચી શકે છે મોંઘવારી ભથ્થું, મળ્યો આ મોટો સંકેત",
+    "desc": "એપ્રિલ 2026ના AICPI-IWના આંકડાઓએ કેન્દ્રીય કર્મચારીઓ માટે 3% મોંઘવારી ભથ્થું (DA) વધવાની આશા વધારી દીધી છે. મે 2025થી એપ્રિલ 2026 સુધીનો સરેરાશ AICPI-IW ઇન્ડેક્સ 147.51 રહ્યો છે, જેના આધારે DA આશરે 62.51% થાય છે અને તેને 63% સુધી રાઉન્ડ ઓફ કરી શકાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/good-news-for-central-employees-dearness-allowance-can-reach-63-percent-this-big-signal-received-480020 ",
+    "time": "2026-06-01T13:10:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વિરાટ કોહલી નહીં, આ &amp;#039;અનસંગ હીરો&amp;#039;એ બદલી RCBની કિસ્મત... કેપ્ટન રજત પાટીદારે ખોલ્યું મોટું રહસ્ય",
+    "desc": "રોયલ ચેલેન્જર્સ બેંગલુરુએ સતત બીજી વખત ટ્રોફી જીતીને IPLમાં પોતાની નવી બાદશાહત સ્થાપિત કરી દીધી છે. હવે રજત પાટીદારની નજર આગામી લક્ષ્ય પર છે. તેમણે સ્પષ્ટ સંકેત આપી દીધા છે કે, ટીમ અહીં જ અટકવાની નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/not-virat-kohli-this-unsung-hero-changed-rcb-fortunes-captain-rajat-patidar-reveals-a-big-secret-480008 ",
+    "time": "2026-06-01T12:26:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભાજપમાં મોટા ફેરબદલની શક્યતા! PM મોદીના આવાસે મળ્યા શાહ અને નબીન, રાજ્યસભા અને MLC ચૂંટણીઓ પર થઈ ચર્ચા",
+    "desc": "આગામી 24 રાજ્યસભા અને રાજ્ય વિધાન પરિષદ (MLC)ની ચૂંટણીઓ અંગે PM મોદીના નિવાસસ્થાને ભાજપ કેન્દ્રીય ચૂંટણી સમિતિની એક મહત્વપૂર્ણ બેઠક યોજાઈ હતી. આ બેઠકમાં અમિત શાહ, રાજનાથ સિંહ અને નીતિન નવીન હાજર રહ્યા હતા. ત્યારબાદ તરત જ, મહારાષ્ટ્રના 10 MLC ઉમેદવારોની યાદી જાહેર કરવામાં આવી હતી. બેઠકમાં સંભવિત મોટા સંગઠનાત્મક ફેરબદલોની પણ ચર્ચા કરવામાં આવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/possibility-of-a-big-change-in-bjp-shah-and-nabin-met-at-pm-modi-house-discussed-rajya-sabha-and-mlc-elections-480000 ",
+    "time": "2026-06-01T11:46:34.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "જે ટીમમાં ગયા, તેને ચેમ્પિયન બનાવી... T20 ક્રિકેટના &amp;#039;ચમત્કારી&amp;#039; કોચ, જેણે બદલી નાખ્યું RCBનું ભાગ્ય",
     "desc": "રોયલ ચેલેન્જર્સ બેંગલુરૂએ રવિવારે રાત્રે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ગુજરાત ટાઈટન્સને પાંચ વિકેટે હરાવી સતત બીજીવાર આઈપીએલ ટ્રોફી કબજે કરી છે. આરસીબીની જીતમાં ઘણા ખેલાડીઓનું મહત્વનું યોગદાન રહ્યું છે, પરંતુ એક વ્યક્તિ એવી છે જેણે પડદા પાછળ રહી ટીમને વિજેતા બનાવવામાં મહત્વની ભૂમિકા ભજવી છે.",
@@ -196,24 +259,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rcb-created-history-became-the-first-ipl-team-to-make-this-great-record-mumbai-indians-big-record-broken-479938 ",
     "time": "2026-05-31T17:58:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL ફાઇનલમાં વોશિંગ્ટન સુંદરના કેચ પર વિવાદ, અમ્પાયર સાથે RCB કેપ્ટન રજત પાટીદારે કરી દલીલ, VIDEO વાયરલ",
-    "desc": "IPL 2026માં ફરી એકવાર અમ્પાયરિંગ ચર્ચાનો વિષય બન્યો. ફાસ્ટ બોલર જેકબ ડફીના શોર્ટ બોલ પર પુલ શોટ રમતી વખતે વોશિંગ્ટન સુંદર ફાઇન લેગ પર કેચ થયો હતો, પરંતુ રિપ્લે જોયા પછી થર્ડ અમ્પાયરે તેને નોટ આઉટ જાહેર કર્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/controversy-over-washington-sundars-catch-in-ipl-final-rcb-captain-rajat-patidar-argues-with-umpire-video-goes-viral-479936 ",
-    "time": "2026-05-31T17:22:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીએ રચ્યો વધુ એક ઈતિહાસ, ઓરેન્જ કેપ જીતીને તોડ્યો શુભમન ગિલ-સાઈ સુદર્શનનો મહારેકોર્ડ",
-    "desc": "રાજસ્થાન રોયલ્સના 15 વર્ષીય વૈભવ સૂર્યવંશીએ IPL 2026માં ઓરેન્જ કેપ જીતીને ઈતિહાસ રચી દીધો છે. શુભમન ગિલ અને સાઈ સુદર્શનને પાછળ છોડીને તેણે 776 રન બનાવી સૌથી નાની ઉંમરના ઓરેન્જ કેપ જીતીને રેકોર્ડ બનાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-created-another-history-broke-the-great-record-of-shubman-gill-sai-sudarshan-by-winning-the-orange-cap-479935 ",
-    "time": "2026-05-31T17:04:38.000Z"
   },
   {
     "cat": "Business",
@@ -441,15 +486,6 @@ const newsData_gu = [
     "time": "2026-05-30T05:31:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભયાનક અલ નીનોની જૂનથી જોવા મળશે અસર, ગરમીના તૂટશે રેકોર્ડ! IMDનું ચોમાસા પર ડરામણું અપડેટ",
-    "desc": "સમગ્ર દેશમાં કાળઝાળ ગરમી વચ્ચે એક બાજુ જ્યાં વરસાદની કાગડોળે રાહ જોવાઈ રહી છે ત્યાં IMD દ્વારા ચોમાસા અને અલ નીનો વિશે ચિંતાજનક વાત કરવામાં આવી છે. જો કે આ બધા વચ્ચે ગુજરાતમાં લોકોને ગરમીથી રાહત મળી શકે છે કારણ કે રાજ્ય હવામાન વિભાગે આજથી પાંચ દિવસ વરસાદની આગાહી કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/imd-latest-update-el-nino-monsoon-2026-gujarat-weather-forecast-rain-prediction-for-next-few-days-479703 ",
-    "time": "2026-05-30T03:12:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "જ્યારે દેબ મુખર્જીના કારણે રસ્તા પર આવી ગયો હતો ફરાહ ખાનનો પરિવાર, ફરાહ ખાને પોતે કર્યો ખુલાસો",
     "desc": "આજે તમને એક એવી ફિલ્મ વિશે જણાવીએ જે શુક્રવારે રિલીઝ થઈ અને સોમવાર સુધીમાં ફરાહ ખાનનો પરિવાર રસ્તા પર આવી ગયો હતો. જે ફરાહ ખાન આજે બોલીવુડમાં ખાસ સ્થાન ધરાવે છે, એક સમયે તેનો પરિવાર સૌથી મોટા આર્થિક સંકટમાં ફસાઈ ગયો હતો. આ ફિલ્મ કઈ હતી અને શું થયું હતું તે સમયે ચાલો તમને જણાવીએ.",
@@ -466,24 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trumps-big-announcement-on-hormuz-amidst-peace-talks-with-iran-information-given-on-truth-know-479683 ",
     "time": "2026-05-29T17:08:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જીવ જોખમમાં મૂકીને હોર્મુઝમાંથી કેવી રીતે નીકળી રહ્યા છે ભારતીય જહાજો, હેરાન કરી દેશે આ કહાની",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચેનું યુદ્ધ હજુ ટક્યું નથી. જો કે, સીઝફાયરના કારણે થોડી રાહત ચોક્કસ મળી છે, પણ સ્ટ્રેટ ઓફ હોર્મુઝ હજુ પણ પૂરી રીતે ખુલ્લું નથી. આ બધાની વચ્ચે કેટલાક જહાજો પેટ્રોલિયમ પદાર્થો લઈને ભારત આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-indian-ships-are-leaving-hormuz-risking-their-lives-this-story-will-shock-you-479674 ",
-    "time": "2026-05-29T15:59:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બાબા બાગેશ્વરના બદલાયા સૂર, કોકરોચ જનતા પાર્ટી અંગેના નિવેદનથી રાજકારણ ગરમાયું! જાણો શું કહ્યુ?",
-    "desc": "બાગેશ્વર ધામના મહંત પંડિત ધીરેન્દ્ર કૃષ્ણ શાસ્ત્રી હાલમાં ઉત્તરાખંડના બદ્રીનાથમાં મોટું નિવેદન આપ્યું છે. આ કાર્યક્રમ દરમિયાન તેમણે દેશની રાજનીતિ અને સામાન્ય જનતાને લગતા અનેક મહત્વપૂર્ણ મુદ્દાઓ ઉઠાવ્યા. સોશિયલ મીડિયા પર વાયરલ થયેલી ‘કોકરોચ પાર્ટી’ને લઈને બાબા બાગેશ્વરે એક એવું ચોંકાવનારું નિવેદન આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/baba-bageshwar-change-of-tone-statement-about-cockroach-janata-party-heated-up-politics-479672 ",
-    "time": "2026-05-29T15:18:24.000Z"
   },
   {
     "cat": "Tech",
@@ -736,23 +754,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/why-was-dum-dum-diga-diga-rejected-by-censor-board-479082 ",
     "time": "2026-05-24T07:46:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કાન્સ ફિલ્મ ફેસ્ટિવલ 2026 નું સમાપન, એવોર્ડ મામલે ભારતના હાથ રહ્યા ખાલી, છેલ્લા દિવસે રેડ કાર્પેટ પર ઐશ્વર્યા છવાઈ ગઈ",
-    "desc": "કાન્સ ફિલ્મ ફેસ્ટિવલ 2026 નું સમાપન થઈ ગયું છે. આ ઈવેન્ટના છેલ્લા દિવસે રેડ કાર્પેટ પર ઐશ્વર્યા રાય બચ્ચન છવાઈ ગઈ હતી. જો કે એવોર્ડ મામલે આ વખતે ભારતના હાથ ખાલી રહ્યા છે. એક પણ ભારતીય ફિલ્મને એવોર્ડ મળ્યો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/cannes-2026-no-award-for-indian-film-aishwarya-rai-bachchan-cannes-2026-last-day-look-viral-479048 ",
-    "time": "2026-05-24T02:58:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રિલીઝ થયાની સાથે જ હીટ થઈ ગઈ આ સીરીઝ, 7 એપિસોડની ક્રાઈમ થ્રિલર સીરીઝ પાછળ પાગલ થયા લોકો",
-    "desc": "ક્રાઈમ થ્રિલર સીરીઝ જોવાના શોખીનો માટે zee5 પર 7 એપિસોડની જોરદાર વેબ સીરીઝ રિલીઝ થઈ છે. આ વેબ સીરીઝ રિલીઝ થયાની સાથે જ હીટ થઈ ગઈ છે. જો તમે રેટિંગને ધ્યાનમાં રાખીને પણ વેબ સીરીઝ જુઓ છો તો પણ આ વેબ સીરીઝ 9.1 રેટિંગ સાથે મસ્ટ વોચ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/satrangi-badle-ka-khel-web-series-ott-hindi-crime-thriller-series-with-highest-imdb-rating-479004 ",
-    "time": "2026-05-23T12:07:53.000Z"
   }
 ];

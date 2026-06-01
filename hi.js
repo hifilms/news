@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harbhajan Singh weighed in on Shubman Gill's dismissal against RCB in IPL 2026 final",
+    "desc": "The IPL (Indian Premier League) 2026 final saw Gujarat Titans lose the marquee clash against defending champions Royal Challengers Bengaluru. The two sides met at the Narendra Modi Stadium in Ahmedabad, and after GT posted...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harbhajan-singh-weighed-in-on-shubman-gill-s-dismissal-against-rcb-in-ipl-2026-final-2026-06-01-1043282",
+    "time": "2026-06-01T16:52:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star RCB batter found in breach of IPL Code of Conduct, handed fine and demerit points after title triumph",
+    "desc": "In a major development, Royal Challengers Bengaluru batter Tim David has been found in breach of the IPL (Indian Premier League) Code of Conduct and has been fined 50 per cent of his match fees....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-rcb-batter-found-in-breach-of-ipl-code-of-conduct-handed-fine-and-demerit-points-after-title-triumph-2026-06-01-1043280",
+    "time": "2026-06-01T16:37:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer hails Virat Kohli's performances after historic second IPL triumph",
+    "desc": "Virat Kohli was at the centre as Royal Challengers Bengaluru lifted their second straight IPL title. The side took on Gujarat Titans at the Narendra Modi Stadium in Ahmedabad in the IPL final on May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-virat-kohli-s-performances-after-historic-second-ipl-triumph-2026-06-01-1043276",
+    "time": "2026-06-01T15:38:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Lamine Yamal feature for Spain in first FIFA World Cup 2026 game? Head coach shares crucial update",
+    "desc": "The stage is set for the upcoming edition of the FIFA World Cup 2026. The marquee tournament will feature a total of 48 teams, and the 2010 champions, Spain, are being widely revered as one...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/will-lamine-yamal-feature-for-spain-in-first-fifa-world-cup-2026-game-head-coach-shares-crucial-update-2026-06-01-1043270",
+    "time": "2026-06-01T14:10:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why did ICC suspend Cricket Canada's membership after board meeting in Ahmedabad?",
+    "desc": "In a major development, the ICC (International Cricket Council) concluded its board meeting in Ahmedabad, and after the meeting concluded, the ICC came to the decision that it will be suspending the membership of Cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-icc-suspend-cricket-canada-s-membership-after-board-meeting-in-ahmedabad-2026-06-01-1043260",
+    "time": "2026-06-01T12:27:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former England cricketer slams Gujarat Titans' tactics after IPL final loss against RCB",
     "desc": "Gujarat Titans were left completely outclassed as they took on Royal Challengers Bengaluru in the IPL (Indian Premier League) 2026 final. The two sides met at the Narendra Modi Stadium in Ahmedabad, and RCB put...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-does-shimron-hetmyers-return-to-west-indies-odi-squad-for-sri-lanka-series-mean-2026-06-01-1043221",
     "time": "2026-06-01T08:40:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which is the only T20 final that Krunal Pandya has lost in his entire career as his IPL streak continues?",
-    "desc": "Krunal Pandya is undefeated in the Indian Premier League finals. Playing a crucial role in the Royal Challengers Bengaluru's 2026 title, the all-rounder clinched his fifth personal IPL title. This was his second-straight one for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-is-the-only-t20-final-that-krunal-pandya-has-lost-in-his-entire-career-as-his-ipl-streak-continues-2026-06-01-1043207",
-    "time": "2026-06-01T07:06:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli's first Player of the Match Award in IPL playoffs sees him down huge record",
-    "desc": "Virat Kohli steered the Royal Challengers Bengaluru to their second-straight Indian Premier League title after the bowlers set things up in the final against the Gujarat Titans on Sunday, May 31. Kohli scored a masterful...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohlis-first-player-of-the-match-award-in-ipl-playoffs-sees-down-huge-record-2026-06-01-1043202",
-    "time": "2026-06-01T06:18:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB to not hold victory parade after defending IPL title? Franchise sends message to fans",
-    "desc": "Royal Challengers Bengaluru sent a clear message to the fans after their second-straight Indian Premier League title win at the Narendra Modi Stadium in Ahmedabad. RCB defeated GT by five wickets after chasing down a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-to-not-hold-victory-parade-after-defending-ipl-title-franchise-sends-message-to-fans-2026-06-01-1043189",
-    "time": "2026-06-01T04:56:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I always want to dedicate this trophy to them': Rajat Patidar pays tribute after second straight IPL win",
-    "desc": "Royal Challengers Bengaluru achieved the IPL glory for second straight time after beating the Gujarat Titans in the IPL 2026 final on Sunday, May 31. RCB handed GT a drubbing in the final, just like...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-always-want-to-dedicate-this-trophy-to-them-rajat-patidar-pays-tribute-after-second-straight-ipl-win-2026-06-01-1043178",
-    "time": "2026-06-01T03:28:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB's golden days: From being chasers to two-time winners, how Bengaluru built the champion team?",
-    "desc": "\"We've had to wait for so long and then just to have a group of guys where you feel like you're stepping onto the ground, you don't need to be the one to step up...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-s-golden-days-from-being-chasers-to-two-time-winners-how-bengaluru-built-the-champion-team-2026-06-01-1043176",
-    "time": "2026-06-01T03:01:57.000Z"
   }
 ];
