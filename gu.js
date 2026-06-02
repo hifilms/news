@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "મમતા બેનર્જી માટે &amp;#039;પડતા પર પાટું&amp;#039; જેવી સ્થિતિ, સત્તા તો ગઈ હવે શું પાર્ટી પણ હાથમાંથી જશે?",
+    "desc": "પશ્ચિમ બંગાળના પૂર્વ મુખ્યમંત્રી મમતા બેનર્જીનો લાગે છે કે હાલ સમય સારો નથી. એક તો વિધાનસભા ચૂંટણીમાં કારમી હાર મળી, પોતે પણ ચૂંટણી હાર્યા અને હવે પાર્ટી પણ હાથમાંથી જાય તેવા સંકેત મળી રહ્યા છે. બંગાળમાં મહારાષ્ટ્ર મોડલની કેમ ચર્ચાઓ થઈ રહી છે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/will-mamata-banerjee-lose-party-and-symbol-can-the-maharashtra-model-be-seen-in-bengal-too-480070 ",
+    "time": "2026-06-02T03:18:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "દેશમાં આખરે ક્યારે આવશે ચોમાસું, શું છે મોડું થવાનું કારણ? જાણો વારંવાર તારીખ કેમ આગળ વધારી રહ્યું છે IMD",
     "desc": "IMDએ પહેલાં કહ્યું હતું કે ચોમાસું 26 મેના રોજ કેરળ પહોંચી જશે, પરંતુ હજી સુધી ચોમાસું કેરળ પહોંચ્યું નથી. અરબી સમુદ્ર પર પશ્ચિમી પવનોની ગતિ ખૂબ જ ઓછી છે. આ કારણે ચોમાસાની શરૂઆત થઈ શકતી નથી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -457,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-are-still-very-cheap-from-all-time-high-also-check-weekly-gold-silver-rate-explainer-479734 ",
     "time": "2026-05-30T07:49:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "59થી 173 પહોંચી ગઈ ભાજપ.... પંજાબ સ્થાનિક સ્વરાજ્ય ચૂંટણીમાં લગાવી લાંબી છલાંગ",
-    "desc": "પંજાબમાં સ્થાનિક સ્વરાજ્યની ચૂંટણીના પરિણામ જાહેર થઈ ગયા છે. તેમાં આમ આદમી પાર્ટીએ 958 સીટો પર જીત હાસિલ કરી છે. તો ભાજપને 172 સીટો જીતવામાં સફળતા મળી છે. પાછલી ચૂંટણી પ્રમાણે આ વખતે ભાજપે મોટી છલાંગ લગાવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/punjab-nikay-chunav-result-bjp-wins-172-seats-good-news-before-the-assembly-elections-479726 ",
-    "time": "2026-05-30T06:08:45.000Z"
   },
   {
     "cat": "Tech",

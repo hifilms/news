@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why has ICC approved trial of pink balls for Day Tests? Board also introduces IPL-like rule in ODIs, T20Is",
+    "desc": "The International Cricket Council has decided to approve a trial of the switch from a red ball to the pink ball ahead of the start of the Day Test match in a bid to mitigate...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-has-icc-approved-trial-of-pink-balls-for-day-tests-board-also-introduces-ipl-like-rule-in-odis-t20is-2026-06-02-1043299",
+    "time": "2026-06-02T02:28:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LPL going IPL way? Sri Lankan league introduces two major rule changes ahead of upcoming season",
+    "desc": "The Lanka Premier League has brought in the Indian Premier League's Impact player rule in one of the two major changes ahead of the upcoming season of the tournament. While the Impact player rule has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lpl-going-ipl-way-league-introduces-two-major-rule-changes-ahead-of-upcoming-season-2026-06-02-1043297",
+    "time": "2026-06-02T01:35:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former England cricketer backs Vaibhav Sooryavanshi to make India debut after exceptional IPL season",
     "desc": "The IPL (Indian Premier League) 2026 was exceptional for 15-year-old Vaibhav Sooryavanshi. Playing his first full season, Sooryavanshi was the star performer for Rajasthan Royals, winning the IPL orange cap, scoring 776 runs to his...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-england-cricketer-slams-gujarat-titans-tactics-after-ipl-final-loss-against-rcb-2026-06-01-1043251",
     "time": "2026-06-01T11:25:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phil Salt, Suyash Sharma achieve rare feat as Royal Challengers Bengaluru clinch second straight IPL title",
-    "desc": "Royal Challengers Bengaluru seemingly achieved the impossible and clinched their second straight IPL (Indian Premier League) title after they defeated Gujarat Titans in the summit clash of the tournament at the Narendra Modi Stadium in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-suyash-sharma-achieve-rare-feat-as-royal-challengers-bengaluru-clinch-second-straight-ipl-title-2026-06-01-1043241",
-    "time": "2026-06-01T10:32:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Rajat Patidar is similar to MS Dhoni, Rohit Sharma': Ex-India selector's big praise to RCB's winning skipper",
-    "desc": "Rajat Patidar etched his name into the history books as he became the third captain to defend an IPL title, joining a list featuring the likes of MS Dhoni and Rohit Sharma. Patidar has led...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-is-similar-to-ms-dhoni-rohit-sharma-ex-india-selectors-big-praise-to-rcbs-winning-skipper-2026-06-01-1043234",
-    "time": "2026-06-01T09:32:49.000Z"
   }
 ];
