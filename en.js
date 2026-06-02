@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "IndiGo to halt Manchester flight from August 31",
+    "desc": "IndiGo is temporarily halting its wide-body flights to Manchester from August 31 due to extended flight routes caused by airspace restrictions amid the Iran conflict. Rising aviation fuel costs and forex volatility have also contributed to this decision, leading the airline to return one of its leased Boeing 787-9 Dreamliners.",
+    "img": "https://static.toiimg.com/photo/msid-131473459,imgsize-32740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indigo-to-halt-manchester-flight-from-august-31/articleshow/131473457.cms",
+    "time": "2026-06-02T22:51:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Justice Mohana 12th woman to be sworn in as SC judge",
+    "desc": "Venkata Subramani Mohana's swearing-in as a Supreme Court judge marks a significant milestone, adding to the 12 women who have served on the bench. Her elevation follows Justice Indu Malhotra as the second advocate to reach this position. The apex court's history, which was exclusively male until 1989, has seen gradual progress in female representation.",
+    "img": "https://static.toiimg.com/photo/msid-131473453,imgsize-45396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/justice-mohana-12th-woman-to-be-sworn-in-as-sc-judge/articleshow/131473449.cms",
+    "time": "2026-06-02T22:49:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bobby Deol recalls sleeping beside Dharmendra till 14",
+    "desc": "Bobby Deol got emotional while speaking about his father, veteran actor Dharmendra, on Aap Ki Adalat, recalling childhood memories that continue to shape his life even today. From being affectionately nicknamed \"Kaddoo\" to waiting up late for his father to return from work, Bobby shared several personal anecdotes about growing up in the Deol household.",
+    "img": "https://static.toiimg.com/photo/msid-131473441,imgsize-59256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-recalls-sleeping-beside-father-dharmendra-till-14-even-after-marriage-my-wife-and-i-would-argue-because-/articleshow/131473433.cms",
+    "time": "2026-06-02T22:46:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Court summons Naveen Jindal, former coal secretary",
+    "desc": "A Delhi court has taken cognisance of charges against industrialist Naveen Jindal, former coal secretary P C Parekh, and others in a coal block allocation case. The charges include criminal conspiracy, cheating, and corruption, stemming from alleged irregularities in the allocation of the Gare Palma IV/1 coal block. The court has summoned the accused to appear on July 17.",
+    "img": "https://static.toiimg.com/photo/msid-131473438,imgsize-73478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/court-summons-naveen-jindal-former-coal-secretary/articleshow/131473437.cms",
+    "time": "2026-06-02T22:42:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED on Dawood's drug trail, raids 20 locations",
+    "desc": "A nationwide crackdown is underway to dismantle an international drug syndicate, with the ED conducting searches across 20 locations. The operation targets associates of fugitive don Dawood Ibrahim, following intelligence from a recently deported associate involved in mephedrone smuggling. The probe focuses on precursor chemical suppliers, manufacturers, traffickers, and hawala operators.",
+    "img": "https://static.toiimg.com/photo/msid-131473435,imgsize-26148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-on-dawoods-drug-trail-raids-20-locations/articleshow/131473430.cms",
+    "time": "2026-06-02T22:38:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No criminality, says Delhi court, closes Hindalco coal case",
+    "desc": "A Delhi court has discharged Hindalco Industries, its former president S K Tamotia, and former general manager PRS Mani in a decade-old coal block allocation case. The court found no evidence of criminal conspiracy or illegality, stating the CBI failed to establish its case.",
+    "img": "https://static.toiimg.com/photo/msid-131473429,imgsize-22004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-criminality-says-delhi-court-closes-hindalco-coal-case/articleshow/131473426.cms",
+    "time": "2026-06-02T22:35:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC junks MHA’s order rejecting IPS officer’s VRS plea",
+    "desc": "The Supreme Court has ordered the Home Ministry to reconsider its rejection of IPS officer Abdur Rahman's voluntary retirement request. The officer, facing charges including torture and a second marriage without consent, had sought retirement in 2019. The court emphasized a fresh examination of his plea, considering subsequent chargesheets and the state government's inability to conclude disciplinary proceedings.",
+    "img": "https://static.toiimg.com/photo/msid-131473423,imgsize-22004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-junks-mhas-order-rejecting-ips-officers-vrs-plea/articleshow/131473422.cms",
+    "time": "2026-06-02T22:32:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED searches at Vedanta premises in three cities",
+    "desc": "Enforcement Directorate officials conducted searches at multiple Vedanta Ltd locations across Delhi, Mumbai, and Udaipur on Monday. The agency is investigating suspected violations of the Foreign Exchange Management Act (FEMA) concerning brand royalty transactions between Vedanta Resources in the UK and its Indian subsidiary. Vedanta stated it is cooperating fully with the authorities.",
+    "img": "https://static.toiimg.com/photo/msid-131473419,imgsize-32602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-searches-at-vedanta-premises-in-three-cities/articleshow/131473415.cms",
+    "time": "2026-06-02T22:28:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP's Abhijeet Dipke",
+    "desc": "Cockroach Janta Party founder Abhijeet Dipke plans to return from the US on June 6 to lead a peaceful protest demanding the education minister's resignation over examination failures. Dipke anticipates arrest upon arrival but remains optimistic about support for his non-violent, constitutional demonstration at Jantar Mantar.",
+    "img": "https://static.toiimg.com/photo/msid-131473040,imgsize-39166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/may-be-arrested-but-still-returning-to-protest-cjps-dipke/articleshow/131472929.cms",
+    "time": "2026-06-02T22:17:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In sovereignty case, personal liberty takes back seat: SC",
+    "desc": "The Supreme Court emphasized that national sovereignty outweighs personal liberty, especially in cases involving threats to the nation, such as drug trafficking. The court highlighted inconsistent application of prolonged incarceration as grounds for bail, leading to disparate outcomes for similarly situated individuals.",
+    "img": "https://static.toiimg.com/photo/msid-131472539,imgsize-130342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-sovereignty-case-personal-liberty-takes-back-seat-sc/articleshow/131472356.cms",
+    "time": "2026-06-02T22:11:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dua shares romantic photos from wedding to Callum",
+    "desc": "Pop sensation Dua Lipa and actor Callum Turner have officially tied the knot in a private London ceremony. The newlyweds shared intimate photos from their courthouse wedding, showcasing Lipa's stunning bridal look. Celebrities like Gigi Hadid and Donatella Versace sent their congratulations.",
+    "img": "https://static.toiimg.com/photo/msid-131471451,imgsize-106700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipa-shares-romantic-wedding-photos-with-callum-turner-newly-weds-make-first-appearance-post-intimate-wedding/articleshow/131471233.cms",
+    "time": "2026-06-02T21:53:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBSE chief and secretary booted over OSM row, govt panel to probe procurement",
+    "desc": "The Centre has removed CBSE chairperson Rahul Singh and secretary Himanshu Gupta following criticism over the digital evaluation system's rollout. An inquiry has been ordered into the procurement of the on-screen marking system, with Lokhande Prashant Sitaram appointed as the new CBSE chairperson.",
+    "img": "https://static.toiimg.com/photo/msid-131471453,imgsize-57000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cbse-chief-and-secretary-booted-over-osm-row-govt-panel-to-probe-procurement/articleshow/131471450.cms",
+    "time": "2026-06-02T21:51:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In May, crude &amp; LPG supplies to India improved",
+    "desc": "India's crude oil and LPG supplies saw an improvement in May after disruptions in March and April, though not yet at pre-conflict levels. Russia remained the largest crude supplier, with the UAE emerging as the second-largest. While LPG imports from West Asia were disrupted, higher inflows from the US and domestic production helped meet demand.",
+    "img": "https://static.toiimg.com/photo/msid-131471448,imgsize-134554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-may-crude-lpg-supplies-to-india-improved/articleshow/131471442.cms",
+    "time": "2026-06-02T21:47:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Praggnanandhaa beats Carlsen again, closes in on lead",
+    "desc": "It’s more important for the tournament that I get this win than thinking that it’s Magnus. Of course, it’s great to do it against Magnus, but I think winning any game at this stage of the tournament is good, says Indian Grandmaster R. Praggnanandhaa",
+    "img": "https://th-i.thgim.com/public/incoming/sk4j8m/article71054613.ece/alternates/LANDSCAPE_1200/55186510092_c92f02757f_o.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/norway-chess-praggnanandhaa-beats-carlsen-again-closes-in-on-lead/article71054614.ece",
+    "time": "2026-06-02T21:45:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rules tightened for foreigners extending stay",
+    "desc": "Foreign nationals in India on a 180-day visa must now register before their visa expires, a shift from the previous 14-day grace period. New rules also mandate that extensions for stays exceeding 180 days are strictly for emergent situations, with no single extension permitted beyond the initial 180-day limit. These changes were announced by the MHA.",
+    "img": "https://static.toiimg.com/photo/msid-131471427,imgsize-69794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rules-tightened-for-foreigners-extending-stay/articleshow/131471423.cms",
+    "time": "2026-06-02T21:39:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "WMO's El Nino alert raises odds of severe impact on monsoon",
+    "desc": "El Nino is rapidly developing, with an 80% likelihood of formation, threatening to severely weaken India's monsoon and increase global extreme weather risks. The World Meteorological Organization warns of potentially moderate to strong El Nino conditions continuing until at least November, impacting India's entire four-month monsoon season and summer sowing.",
+    "img": "https://static.toiimg.com/photo/msid-131471379,imgsize-61240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wmos-el-nino-alert-raises-odds-of-severe-impact-on-monsoon/articleshow/131471238.cms",
+    "time": "2026-06-02T21:32:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manoj Bajpayee admits thinking of quitting acting for 10 years",
+    "desc": "Manoj Bajpayee has revealed that he has contemplated quitting acting several times over the past decade, admitting that the emotional burden of inhabiting complex characters often leaves a lasting impact on him. During a recent conversation, the actor also spoke candidly about ageing, mortality and the sacrifices that came with his pursuit of success.",
+    "img": "https://static.toiimg.com/photo/msid-131471230,imgsize-52424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-admits-he-has-thought-of-quitting-acting-for-10-years-i-lost-being-with-my-parents-not-all-of-it-was-worth-it/articleshow/131471226.cms",
+    "time": "2026-06-02T21:15:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Godrej starts wealth management business",
+    "desc": "Godrej Industries Group has unveiled its new wealth management venture, Godrej Wealth, aiming for a substantial Rs 1,00,000 crore in assets under management by 2031. This expansion into financial services targets affluent clients with investable assets of Rs 2 crore and above, offering comprehensive services including succession planning and global investments.",
+    "img": "https://static.toiimg.com/photo/msid-131471195,imgsize-37052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/godrej-starts-wealth-management-business/articleshow/131471186.cms",
+    "time": "2026-06-02T20:36:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Kotak prods India Inc to start investing again",
+    "desc": "Billionaire Uday Kotak urged Indian businesses to invest in the future, highlighting a global lag in AI technology. He cited Google's massive $80 billion AI infrastructure investment, noting its scale dwarfs India's entire listed market. Kotak called this a wake-up call for companies to prioritize future growth, especially after the IPL season concludes, emphasizing the 'business of business'.",
+    "img": "https://static.toiimg.com/photo/msid-131471182,imgsize-26400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/kotak-prods-india-inc-to-start-investing-again/articleshow/131471180.cms",
+    "time": "2026-06-02T20:30:48.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Five new judges join Supreme Court following increase in sanctioned strength",
     "desc": "The appointments come shortly after the Union government increased the court’s sanctioned strength from 33 to 37 judges, excluding the CJI; the latest round of elevations is also expected to balance regional representation and enhance gender diversity on the Bench",
     "img": "https://th-i.thgim.com/public/incoming/3utqqf/article71054479.ece/alternates/LANDSCAPE_1200/PTI06_02_2026_000084B.jpg",
@@ -16,6 +187,33 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/i-know-i-am-not-far-away-from-the-top-veer-chotrani/article71054468.ece",
     "time": "2026-06-02T20:28:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India slips to seventh in global market capitalisation ranking",
+    "desc": "India has dropped to seventh in global stock market valuation, overtaken by South Korea and Taiwan. This decline, attributed to sustained foreign fund selling and muted corporate earnings, contrasts with the AI chip leadership of South Korean and Taiwanese firms. Despite a recent Sensex uptick driven by domestic buying, foreign investors remain net sellers, impacting India's market cap.",
+    "img": "https://static.toiimg.com/photo/msid-131471177,imgsize-54152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-slips-to-seventh-in-global-market-capitalisation-ranking/articleshow/131471175.cms",
+    "time": "2026-06-02T20:27:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India, UK to narrow gaps to roll out trade deal",
+    "desc": "India and the UK are working to resolve outstanding issues, including steel quotas and duties, to expedite the implementation of their bilateral trade agreement. Discussions between Commerce Minister Piyush Goyal and UK Secretary of State Peter Kyle focused on overcoming these sticking points to advance economic engagement and strengthen the partnership.",
+    "img": "https://static.toiimg.com/photo/msid-131471173,imgsize-52058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-uk-to-narrow-gaps-to-roll-out-trade-deal/articleshow/131471171.cms",
+    "time": "2026-06-02T20:24:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government plans new indices to track informal mfg, services",
+    "desc": "The government is developing new indices to measure industrial and service sector production in India's vast informal economy. These will draw from extensive surveys to provide a clearer picture of the unorganized sector, moving beyond proxy methods that distorted data, especially post-pandemic. The new metrics aim to improve policymaking for millions reliant on this sector.",
+    "img": "https://static.toiimg.com/photo/msid-131471164,imgsize-88050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/government-plans-new-indices-to-track-informal-mfg-services/articleshow/131471158.cms",
+    "time": "2026-06-02T20:18:58.000Z"
   },
   {
     "cat": "Business",
@@ -91,39 +289,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Three cloudbursts trigger flash floods, road blockades in J&amp;K's Kishtwar &amp; Doda",
-    "desc": "Cloudbursts hit Jammu and Kashmir's Kishtwar and Doda districts on Tuesday. Flash floods and landslides followed, blocking the Kishtwar-Jammu highway. Several roads were also affected. No casualties or property damage were reported. Authorities launched restoration operations and issued advisories. Emergency teams remain on alert.",
-    "img": "https://static.toiimg.com/photo/msid-131470629,imgsize-416734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/three-cloudbursts-trigger-flash-floods-road-blockades-in-jks-kishtwar-doda/articleshow/131470628.cms",
-    "time": "2026-06-02T19:08:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shots fired outside Khan Sir's coaching centre; rivalry angle suspected",
-    "desc": "Shots were fired outside educator Khan Sir's coaching institute in Patna, injuring a security guard. The incident is suspected to be linked to rivalries between local coaching institute operators. The injured guard is receiving medical treatment, and authorities are gathering statements to further investigate the physical assault.",
-    "img": "https://static.toiimg.com/photo/msid-131470828,imgsize-39348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/patna-shots-fired-outside-khan-sirs-coaching-centre-rivalry-angle-suspected/articleshow/131470833.cms",
-    "time": "2026-06-02T19:05:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CISF jawan injured in accidental firing at Jammu railway station",
-    "desc": "A CISF jawan, Jaswinder Singh, sustained a foot injury due to accidental firing of his INSAS rifle at Jammu Tawi railway station on Tuesday. The incident occurred while he was on duty within the station premises. He was promptly taken to a hospital and is reported to be in stable condition.",
-    "img": "https://static.toiimg.com/photo/msid-131470559,imgsize-12792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cisf-jawan-injured-in-accidental-firing-at-jammu-railway-station/articleshow/131470558.cms",
-    "time": "2026-06-02T18:49:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ladakh talks talk of the town in Kashmir; Mehbooba gives unity call in letter to Omar",
-    "desc": "Former J&K CM Mehbooba Mufti urged political parties and civil society to unite for dialogue with the central government, drawing inspiration from Ladakh's successful engagement. She called for an all-party meeting to address the region's despair and uncertainty, emphasizing the need for a broad consensus post-2019.",
-    "img": "https://static.toiimg.com/photo/msid-131470501,imgsize-38800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ladakh-talks-talk-of-the-town-in-kashmir-mehbooba-gives-unity-call-in-letter-to-omar/articleshow/131470449.cms",
-    "time": "2026-06-02T18:44:12.000Z"
+    "title": "Ladakh up in arms over new liberal liquor policy introduced by L-G administration",
+    "desc": "Our stand is clear. We do not support the opening of 20 new wine shops or the unrestricted sale of alcohol in hotels, guest houses, and homestays, says Ladakh Buddhist Association (LBA) in a statement",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/ladakh-up-in-arms-over-new-liberal-liquor-policy-introduced-by-l-g-administration/article71053649.ece",
+    "time": "2026-06-02T19:19:53.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +387,6 @@ const newsData_en = [
     "time": "2026-06-02T16:53:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian students top UK higher educational applications, says official",
-    "desc": "Inaugurating the Tirupati branch of Academic Overseas Private Limited, UK Deputy High Commissioner (Andhra Pradesh and Telangana) says several of the prestigious universities in the UK continue to rank among the top institutions in the world",
-    "img": "https://th-i.thgim.com/public/incoming/31vqz4/article71054216.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-02%20at%2016.10.17.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/indian-students-top-uk-higher-educational-applications-says-official/article71053355.ece",
-    "time": "2026-06-02T16:50:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Deepika gets emotional at family wedding, Ranveer joins rituals",
     "desc": "Deepika Padukone and Ranveer Singh are winning hearts online after unseen pictures from a recent family wedding surfaced on social media. The photographs capture the star couple celebrating with relatives, participating in traditional ceremonies and sharing special moments with the newlyweds. The wedding photos come at a special time for the couple, who recently announced that they are expecting their second child.",
@@ -268,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-and-aditya-dhar-took-smaller-fees-and-benefited-from-backend-profit-sharing-deals-on-dhurandhar-as-costs-doubled-producer/articleshow/131466843.cms",
     "time": "2026-06-02T15:31:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "Exciting developments from the South film industry capture attention. Rajinikanth's 'Thalaivar 173' director buzz intensifies. Sivakarthikeyan's 'Seyon' song shoot goes viral. Priyanka Mohan becomes Honorary Ambassador for Korea Tourism. 'Raaka' prepares for a massive schedule. Trisha shares cherished memories from her May.",
-    "img": "https://static.toiimg.com/photo/msid-131466877,imgsize-161814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-173-director-buzz-trishas-magical-may-to-raakas-new-schedule-top-5-south-stories-of-the-day/articleshow/131466842.cms",
-    "time": "2026-06-02T15:26:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -325,33 +478,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sabrina Carpenter obtains restraining order against stalker",
-    "desc": "Singer Sabrina Carpenter has secured a temporary restraining order against a man who repeatedly tried to enter her Los Angeles home. The individual, identified as William Applegate, allegedly trespassed and claimed to know the singer. Surveillance footage and court declarations detail the alarming incidents. Applegate faces criminal charges for trespassing, with a future court hearing scheduled.",
-    "img": "https://static.toiimg.com/photo/msid-131465940,imgsize-23548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sabrina-carpenter-obtains-restraining-order-against-stalker-with-alarming-incidents-outside-her-la-residence/articleshow/131465970.cms",
-    "time": "2026-06-02T14:22:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KJR Rajesh opens up on Sivakarthikeyan's ‘Hero’ &amp; ‘Ayalaan’ loss",
-    "desc": "Producer KJR Rajesh faces a massive ₹120 crore loss. This stems from taking over Sivakarthikeyan's projects 'Hero' and 'Ayalaan' from 24 AM Studios. Delays and the COVID-19 pandemic significantly impacted 'Doctor' and 'Ayalaan'. Rajesh underestimated financial risks despite a banking background. Sivakarthikeyan also incurred a ₹55 crore loss. Two pending projects remain uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-131466015,imgsize-93674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sitting-with-crore-loss-producer-kjr-rajesh-breaks-silence-over-sivakarthikeyans-hero-and-ayalaan/articleshow/131465996.cms",
-    "time": "2026-06-02T14:17:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brooke Shields reveals THIS move helped her 'stay relevant'",
-    "desc": "Veteran actress Brooke Shields, 62, attributes her enduring Hollywood career to a diverse creative approach and a refusal to accept \"no.\" She consistently shifted her focus to new endeavors like writing and theatre, keeping her mind active and resilient. Shields emphasized the importance of not comparing herself to others while still valuing her own worth in the industry.",
-    "img": "https://static.toiimg.com/photo/msid-131465882,imgsize-66738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooke-shields-reveals-this-move-helped-her-stay-relevant-in-darker-times-it-kept-me-busy-and-creative/articleshow/131464216.cms",
-    "time": "2026-06-02T14:08:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Kangana Ranaut comes out in support on Ranveer Singh after FWICE's ban",
     "desc": "Ranveer Singh faces a ban from FWICE and IMPPA following a dispute with producer-director Farhan Akhtar over 'Don 3'. Kangana Ranaut has voiced support for Singh, drawing parallels to her own experiences with industry bans and asserting that increased status often brings adversaries. She believes Singh will overcome these challenges, comparing it to her own successful career despite obstacles.",
     "img": "https://static.toiimg.com/photo/msid-131465759,imgsize-32502.cms",
@@ -367,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-markets-today-june-2-2026-alphabet-slides-on-80-billion-stock-sale-plan-wall-street-rally-loses-steam/articleshow/131465739.cms",
     "time": "2026-06-02T13:59:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No role for third parties': India's clear message to Nepal after PM Balen Shah calls for UK, China intervention",
-    "desc": "India has firmly rejected any third-party involvement in resolving its boundary dispute with Nepal, asserting that bilateral mechanisms are in place. This response follows Nepal's Prime Minister's suggestion to include China and the UK in discussions. While most of the border is demarcated, unresolved segments and land usage issues persist.",
-    "img": "https://static.toiimg.com/photo/msid-131465330,imgsize-52374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-role-for-third-parties-indias-clear-message-to-nepal-after-pm-balen-shah-calls-for-uk-china-intervention/articleshow/131465170.cms",
-    "time": "2026-06-02T13:38:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -513,15 +630,6 @@ const newsData_en = [
     "time": "2026-06-02T09:02:22.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Mumbai-Ahmedabad bullet train project achieves major milestone as mountain tunnel breakthrough completed",
-    "desc": "India's first bullet train project, linking Mumbai and Ahmedabad, has reached a significant milestone with the successful launch of a viaduct over Ahmedabad's Kalupur flyover. This marks another engineering feat for the high-speed rail corridor, which is now in its advanced construction phase, promising faster travel between the two major cities.",
-    "img": "https://static.toiimg.com/photo/msid-131458598,imgsize-1153306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/infrastructure/mumbai-ahmedabad-bullet-train-project-achieves-major-milestone-as-mountain-tunnel-breakthrough-completed/articleshow/131458512.cms",
-    "time": "2026-06-02T07:52:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hardik Pandya to reach BCCI CoE on June 2",
     "desc": "Hardik Pandya is set to undergo fitness drills at the BCCI Centre of Excellence in Bengaluru from June 2, aiming for the ODI squad against Afghanistan. Meanwhile, the Test team begins training in Mullanpur for their one-off match. Auqib Nabi might be a late addition to the Test camp.",
@@ -529,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-to-reach-bcci-coe-on-june-2/articleshow/131457984.cms",
     "time": "2026-06-02T07:17:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US-Iran war impact: RBI likely sold $12 billion gold reserves to shield foreign currency assets, says report",
-    "desc": "To limit the impact of these external shocks, the government has stepped up measures aimed at reducing foreign exchange outflows and stabilising the economy. These steps include increases in fuel prices and a sharp rise in import duties on precious metals.",
-    "img": "https://static.toiimg.com/photo/msid-131457780,imgsize-53146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-impact-rbi-likely-sold-12-billion-gold-reserves-to-shield-foreign-currency-assets-says-report/articleshow/131457740.cms",
-    "time": "2026-06-02T07:11:16.000Z"
   },
   {
     "cat": "World",
@@ -556,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/would-not-be-a-great-idea-manjrekar-on-sending-vaibhav-sooryavanshi-overseas-too-soon/articleshow/131457672.cms",
     "time": "2026-06-02T07:02:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "H-1B hiring boost: Nvidia offers top salaries despite slowdown in foreign recruitment",
-    "desc": "While many tech firms scale back, Nvidia is aggressively hiring foreign talent via the H-1B visa program, increasing its certified positions. This surge reflects the company's immense demand for AI specialists and engineers, contrasting with competitors like Google and Amazon. CEO Jensen Huang emphasizes immigration's vital role in US technological leadership.",
-    "img": "https://static.toiimg.com/photo/msid-131457729,imgsize-462118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/h-1b-hiring-boost-nvidia-offers-top-salaries-despite-slowdown-in-foreign-recruitment/articleshow/131457242.cms",
-    "time": "2026-06-02T07:02:00.000Z"
   },
   {
     "cat": "Sports",
@@ -592,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/virat-kohli-and-rcb-dressing-room-roars-after-mo-bobats-bold-three-in-a-row-prediction-watch/articleshow/131455010.cms",
     "time": "2026-06-02T04:57:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude rises amid uncertainty over US-Iran negotiations and Hormuz reopening",
-    "desc": "Oil prices saw a slight uptick as US-Iran talks and the potential reopening of the Strait of Hormuz created market jitters. Conflicting signals from Washington and Tehran fueled uncertainty, with traders closely watching any progress or breakdown in negotiations. Developments around the crucial energy route remain a key focus, impacting global supply routes and risk sentiment.",
-    "img": "https://static.toiimg.com/photo/msid-131454372,imgsize-728057.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-02-june-2026-crude-rises-amid-uncertainty-over-us-iran-negotiations-and-hormuz-reopening/articleshow/131454138.cms",
-    "time": "2026-06-02T04:10:45.000Z"
   },
   {
     "cat": "Sports",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/social-media-as-bad-for-children-as-smoking-british-doctors-say/article71027551.ece",
     "time": "2026-05-27T08:04:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Motorola Razr Fold Review",
-    "desc": "The foldable segment may not be the most crowded, but it is fiercely competitive and in India, the stakes have never been higher. Motorola steps into this evolving market with the Motorola Razr Fold, priced at ₹1,49,999",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/8mbze2/article71024445.ece/alternates/LANDSCAPE_1200/1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-razr-fold-review-a-genuinely-impressive-package/article71024383.ece",
-    "time": "2026-05-27T07:34:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
   }
 ];
