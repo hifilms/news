@@ -1,12 +1,84 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "મહારાષ્ટ્ર કે રાજસ્થાન નહીં, આ છે દેશમાં સૌથી વધારે વીજળી ઉત્પન્ન કરતું રાજ્ય ? જાણો ગુજરાતનું સ્થાન",
+    "desc": "ઉનાળા દરમિયાન વધતી વીજળીની માંગ વચ્ચે, ઉત્તર પ્રદેશે 10 ટકા વધારાના વીજળી દરની વસૂલાત સ્થગિત કરી દીધી છે. રાજ્યમાં વીજળીની સતત વધતી માંગ સાથે, ખામીઓ અને વીજળી કાપની સંખ્યા વધી રહી છે. દેશના સૌથી મોટા રાજ્યોમાંનું એક હોવા છતાં, ઉત્તર પ્રદેશ વીજળી ઉત્પાદનમાં પાછળ છે. હવે પ્રશ્ન એ છે કે દેશમાં કયું રાજ્ય સૌથી વધુ વીજળી ઉત્પન્ન કરે છે અને શા માટે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/this-is-the-state-that-produces-the-most-electricity-in-the-country-know-the-position-of-gujarat-480169 ",
+    "time": "2026-06-02T15:14:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EDના મહારાષ્ટ્ર અને ગુજરાતમાં દરોડા, દાઉદના સાથીના ઘરે મોટી કાર્યવાહી, જાણો",
+    "desc": "મંગળવારે મહારાષ્ટ્ર અને ગુજરાતમાં અનેક સ્થળોએ એન્ફોર્સમેન્ટ ડિરેક્ટોરેટ (ED)એ દરોડા પાડ્યા હતા. ED અધિકારીઓએ જણાવ્યું હતું કે તાજેતરમાં તુર્કીથી ભારત મોકલવામાં આવેલા ડ્રગ તસ્કર મોહમ્મદ સલીમ ડોલા સામે મની લોન્ડરિંગ તપાસના ભાગ રૂપે દરોડા પાડવામાં આવ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ed-raids-in-maharashtra-and-gujarat-major-action-taken-at-the-house-of-dawoods-aide-know-480159 ",
+    "time": "2026-06-02T13:42:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICCએ બદલ્યા ટેસ્ટ ક્રિકેટના નિયમો, 1 જૂને લીધો એવો નિર્ણય, દુનિયા થઈ ગઈ હેરાન !",
+    "desc": "ICCએ ટેસ્ટ ક્રિકેટના નિયમોમાં નોંધપાત્ર ફેરફાર કર્યો છે. લાલ અને ગુલાબી બોલ બંનેનો ઉપયોગ હવે એક જ મેચમાં થઈ શકે છે. જો કે કોચને લઈને પણ નિર્ણય લેવામાં આવ્યો છે, આ નિર્ણય ખુબ જ મહત્વપૂર્ણ માનવામાં આવે છે અને હાલમાં તે ફક્ત ટ્રાયલ બેઝ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-changed-the-rules-of-test-cricket-took-this-decision-on-june-1-the-world-was-surprised-480157 ",
+    "time": "2026-06-02T13:18:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "લોનથી લઈને વિઝા સુધી... ITR ફાઈલ કરવાના આ છે 5 મોટા ફાયદા, ફાઈલ ન કરવા પર થશે આ નુકસાન",
+    "desc": "ITR (Income Tax Return) ફાઈલ કરવું એ માત્ર ટેક્સના નિયમોનું પાલન કરવા પૂરતું મર્યાદિત નથી. તે લોનથી લઈને ઘણા દેશોની વિઝા અરજીમાં એક મહત્વપૂર્ણ દસ્તાવેજ તરીકે કામ આવે છે. ચાલો તેના ફાયદા અને નુકસાન વિશે વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/from-loans-to-visa-these-are-the-5-major-benefits-of-filing-itr-these-are-the-losses-that-will-occur-if-you-do-not-file-480156 ",
+    "time": "2026-06-02T12:49:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર્દિક પંડ્યા ક્યારે થશે ફિટ ? રોહિત શર્માને પણ CoE તરફથી તેડું, બંનેની ફિટનેસ અંગે મોટું અપડેટ",
+    "desc": "સ્ટાર ઓલરાઉન્ડર હાર્દિક પંડ્યા IPL દરમિયાન ઈજાથી પીડાઈ રહ્યો હતો. રોહિત શર્મા પણ ટૂર્નામેન્ટ દરમિયાન ઘણા દિવસો સુધી ઈજાને કારણે બહાર રહ્યો હતો. અફઘાનિસ્તાન સામેની ODI શ્રેણી પહેલા આ બંને દિગ્ગજ ખેલાડીઓની ફિટનેસ અંગે એક નવું અપડેટ સામે આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-rohit-sharma-fitness-update-india-vs-afghanistan-series-480155 ",
+    "time": "2026-06-02T12:24:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "લોકરમાં રાખેલું સોનું બદલી શકે છે દેશની કિસ્મત, જાણી લો શું છે આ ગેમચેન્જર આઈડિયા",
+    "desc": "ભારતના ઘરો અને મંદિરોમાં પડેલું 32,000 ટન સોનું દેશની મોટી આર્થિક સંપત્તિ છે. જો આ સોનાને રિસાયકલ કરવામાં આવે, તો આયાત બિલ ઘટશે અને ફોરેક્સ રિઝર્વ મજબૂત થશે. આ માટે જ્વેલરી ઈન્ડસ્ટ્રીઝ સરકાર પર પ્રેશર કરી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/now-the-government-is-eyeing-gold-kept-in-homes-pm-modi-new-plan-to-reduce-import-bills-know-how-the-country-economy-will-benefit-480143 ",
+    "time": "2026-06-02T12:07:57.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "LPG સિલિન્ડર ધરાવતા ગ્રાહકો ખાસ જાણે, 30 જૂન સુધીમાં ફટાફટ પતાવજો આ કામ! જાણો સરકારનો નવો નિયમ",
     "desc": "મિડલ ઈસ્ટમાં તણાવના કારણે વૈશ્વિક ઉર્જા સંકટ જોવા મળી રહ્યું છે. જેના ભરડામાં માત્ર ભારત જ નહીં પરંતુ વિશ્વના અનેક દેશો આવેલા છે. ભારતમાં એલપીજીની સમસ્યા વચ્ચે સરકારે પણ ગ્રાહકોની સગવડ માટે અનેક પગલાં ભર્યા છે. આ ઉપરાંત એલપીજી અને પીએનજી સંલગ્ન કેટલાક એવા નિયમો પણ બદલાયા છે જે ગ્રાહકોએ જાણવા ખાસ જરૂરી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/important-update-about-lpg-connection-and-png-connection-users-should-know-480131 ",
-    "time": "2026-06-02T09:53:11.000Z"
+    "time": "2026-06-02T11:59:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EPFO ​3.0 : PF ટ્રાન્સફર અને ઉપાડની ઝંઝટ ખતમ ! હવે ATM અને UPIથી સીધા ખાતામાં આવશે પૈસા ?",
+    "desc": "EPFO 3.0 હેઠળ કર્મચારીઓને ભવિષ્યમાં UPI અને ATMથી PFના પૈસા ઉપાડવાની સુવિધા આપવામાં આવી શકે છે. આ નવી સિસ્ટમ PF ઉપાડ અને ટ્રાન્સફરને સંપૂર્ણપણે ડિજિટલ અને પેપરલેસ બનાવશે. કેન્દ્રીય મંત્રી મનસુખ માંડવિયાએ મે મહિનામાં આ સર્વિસની જાહેરાત કરી હતી. જો કે, હજુ સુધી લોન્ચની કોઈ ચોક્કસ તારીખ જાહેર કરાઈ નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/epfo-3-0-latest-update-pf-withdrawal-via-atm-upi-process-and-rules-480145 ",
+    "time": "2026-06-02T11:39:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારતીય ટીમમાં વધુ એક ખેલાડીની અચાનક એન્ટ્રી, ટેસ્ટમાં મળી શકે છે ડેબ્યૂની તક",
+    "desc": "અફઘાનિસ્તાન સામેની ટેસ્ટ મેચ માટે આકિબ નબી ટીમ ઈન્ડિયામાં જોડાયો છે. તેને બેકઅપ ખેલાડી તરીકે સામેલ કરવામાં આવ્યો છે. જમ્મુ-કાશ્મીર તરફથી રમતા આકિબે રણજી ટ્રોફીમાં શાનદાર પ્રદર્શન કર્યું હતું. તેને ડેબ્યૂ કરવાની તક મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-afg-auqib-nabi-joins-indian-team-before-afghanistan-test-480140 ",
+    "time": "2026-06-02T10:34:09.000Z"
   },
   {
     "cat": "Business",
@@ -288,33 +360,6 @@ const newsData_gu = [
     "time": "2026-06-01T04:58:41.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "રનથી લઈને સેન્ચુરી સુધી... IPL 2026માં બન્યા 10 મોટા રેકોર્ડ, 18 વર્ષ લાંબા ઇતિહાસમાં પહેલીવાર થયું આવું",
-    "desc": "IPL 2026માં એવા 10 રેકોર્ડ બન્યા છે, જે અગાઉ એક પણ સિઝનમાં બન્યા નથી, તો આ સિઝનમાં અનેક રેકોર્ડ તૂટ્યા પણ છે. વૈભવ સૂર્યવંશીએ આ સિઝનમાં તોફાન મચાવ્યું છે. આ સિઝન દરમિયાન કયા રેકોર્ડ બન્યા છે, તેના પર એક નજર કરીએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/10-big-records-created-in-ipl-2026-for-the-first-time-in-18-years-of-ipl-history-479954 ",
-    "time": "2026-06-01T04:39:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 ફાઇનલ બાદ દુર્ઘટના, ગુજરાત ટાઇટન્સની ટીમ બસમાં લાગી આગ, માંડ માંડ બચ્યા ખેલાડીઓ",
-    "desc": "IPL 2026ની ફાઇનલ હાર્યા બાદ ગુજરાત ટાઇટન્સની ટીમની બસ હોટલ પરત ફરતી વખતે શોર્ટ સર્કિટને કારણે આગ લાગી હતી. સદનસીબે, શુભમન ગિલ સહિત તમામ ખેલાડીઓને સુરક્ષિત રીતે બહાર કાઢવામાં આવ્યા, જોકે તેઓ લગભગ એક કલાક સુધી રસ્તા પર ફસાયેલા રહ્યા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/gujarat-titans-team-bus-catches-fire-after-ipl-2026-final-players-evacuated-479948 ",
-    "time": "2026-06-01T04:21:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026ની ફાઇનલમાં કેમ હાર્યું ગુજરાત ટાઈટન્સ ? કેપ્ટન શુભમન ગિલે જણાવ્યા હારના કારણો",
-    "desc": "IPL 2026માં ગુજરાત ટાઇટન્સે શાનદાર પ્રદર્શન કરીને ફાઇનલમાં સ્થાન મેળવ્યું હતું. જોકે, ફાઇનલ મેચમાં ગુજરાત ટાઇટન્સ પહેલી ઓવરથી જ સ્પર્ધામાંથી બહાર થઈ ગયું હોય તેવું લાગતું હતું. હાર બાદ કેપ્ટન શુભમન ગિલે તેની પાછળના કારણો જણાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-gujarat-titans-lose-in-ipl-2026-final-captain-shubman-gill-tell-reasons-479951 ",
-    "time": "2026-06-01T03:49:46.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "મોંઘવારીનો મોટો ઝટકો, LPG સિલિન્ડરના ભાવમાં ફરી તોતિંગ વધારો, જાણો અમદાવાદ સહિત શહેરોમાં ભાવ",
     "desc": "જૂન મહિનો શરૂ થતા જ સામાન્ય જનતા વળી પાછો મોટો ઝટકો લાગ્યો છે. કારણ કે આજથી કોમર્શિયલ ગેસ સિલિન્ડરના ભાવમાં તોતિંગ વધારો ઝીંકાયો છે. આ સાથે નાના સિલિન્ડરના ભાવ પણ વધ્યા છે. જાણો વિગતો. તમારા શહેરમાં શું છે ભાવ?",
@@ -331,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tmkoc-fame-actress-nehal-vadoliya-rajasthan-royals-team-divorcee-cricketer-messaged-her-479947 ",
     "time": "2026-06-01T03:05:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાટીદારની કેપ્ટનશીપ, વિરાટ-ભુવી-કૃણાલનું શાનદાર પ્રદર્શન... RCB બેક-ટુ-બેક ચેમ્પિયન, આ 5 મુખ્ય કારણો બન્યા વિનિંગ ફોર્મ્યુલા",
-    "desc": "આઈપીએલ 2026ની ફાઇનલમાં ગુજરાત ટાઇટન્સને હરાવીને આરસીબીએ સતત બીજી વખત ખિતાબ જીત્યો છે. કેપ્ટન રજત પાટીદારના શાનદાર નેતૃત્વ, કોચ એન્ડી ફ્લાવરની આક્રમક રણનીતિ અને વિરાટ કોહલી તેમજ ભુવનેશ્વર કુમારના દમદાર પ્રદર્શને બેંગલુરુને ફરી એકવાર ચેમ્પિયન બનાવવામાં મુખ્ય ભૂમિકા ભજવી છે. હેડ કોચ એન્ડી ફ્લાવરે જે દ્રષ્ટિકોણને ટૂર્નામેન્ટ પહેલાં આધાર બનાવ્યો હતો, તેણે ટીમને ચેમ્પિયન બનાવીને જ દમ લીધો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/patidar-captaincy-virat-bhuvi-krunal-brilliant-performance-rcb-back-to-back-champions-these-5-main-reasons-became-the-winning-formula-479943 ",
-    "time": "2026-05-31T18:59:44.000Z"
   },
   {
     "cat": "Business",
@@ -432,15 +468,6 @@ const newsData_gu = [
     "time": "2026-05-31T07:00:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "એક્સપોર્ટ ડ્યુટીમાં ઘટાડાની જાહેરાત વચ્ચે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો શું છે આજનો ભાવ",
-    "desc": "દેશમાં પેટ્રોલ અને ડીઝલના વધતા જતા ભાવ વચ્ચે, કેન્દ્ર સરકારે પેટ્રોલ-ડીઝલ પરની એક્સપોર્ટ ડ્યુટી ઘટાડવાની જાહેરાત કરી છે. જે જૂનથી અમલમાં આવશે. ત્યારે આ બધાની વચ્ચે સરકારી ઓઈલ કંપનીઓએ પેટ્રોલ-ડીઝલના આજના ભાવ જાહેર કર્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-govt-cuts-export-duty-on-petrol-diesel-and-atf-479832 ",
-    "time": "2026-05-31T05:45:26.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "1997માં જે સમુદ્રે ભારતને દુષ્કાળથી બચાવ્યું હતું, 2026માં તે &amp;#039;શાંત&amp;#039; છે: અલ નીનોના ખતરાએ વધાર્યું IMDનું ટેન્શન",
     "desc": "હવામાન વિભાગના સેટેલાઇટ્સમાંથી આવી રહેલા તાજા આંકડાઓએ દેશના ધબકારા વધારી દીધા છે. આ વર્ષે ભારતના ચોમાસા પર અલ નીનોનો પડછાયો મંડરાઈ રહ્યો છે, જેના કારણે દુષ્કાળનો ખતરો 60% સુધી વધી ગયો છે. ઇતિહાસ સાક્ષી છે કે વર્ષ 1997માં પણ આવો જ મહા-સંકટ આવ્યો હતો, પરંતુ ત્યારે આપણા પોતાના હિંદ મહાસાગરે સુરક્ષા કવચ બનીને ખતરાને ટાળી દીધો હતો. પરંતુ આ વખતે...",
@@ -466,24 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/is-bohi-deol-bandar-an-anti-woman-film-producer-reveals-the-secret-mentions-twisha-verma-case-479797 ",
     "time": "2026-05-30T14:30:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ટ્રમ્પ હોર્મુઝ પરથી નાકાબંધી હટાવશે, તો શું ભારતમાં પેટ્રોલ અને ડીઝલ સસ્તું થશે? જાણો ક્યાં ફસાઈ શકે છે પેચ",
-    "desc": "ઈરાન યુદ્ધ પછી, ભારત તેલ અને ગેસ સંકટનો સામનો કરી રહ્યું છે. તેના કારણે કિંમતોમાં વધારો થયો છે. જો ટ્રમ્પ હોર્મુઝ પરનો નાકાબંધી હટાવે તો ભારતમાં પેટ્રોલ અને ડીઝલના ભાવ સસ્તા થશે કે કેમ તે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/if-trump-lifts-the-blockade-on-hormuz-will-petrol-and-diesel-prices-become-cheaper-in-india-know-479795 ",
-    "time": "2026-05-30T14:06:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સરકારી અધિકારીઓની ખુરશીઓ પર કેમ પાથરવામાં આવે છે સફેદ ટુવાલ ? બ્રિટિશ યુગ સાથે જોડાયો છે તેનો ઇતિહાસ, જાણો",
-    "desc": "સરકારી અધિકારીઓની ખુરશીઓ પર સફેદ ટુવાલ કેમ પાથરવામાં આવે છે? બ્રિટિશ યુગથી ચાલી આવતી આ પરંપરાના ઇતિહાસ, ગરમી અને સ્વચ્છતા સાથે તેનો સંબંધ અને આજે પણ સરકારી કચેરીઓમાં તે શા માટે પ્રચલિત છે તે વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/white-towels-are-placed-on-the-chairs-of-government-officials-its-history-is-linked-to-the-british-era-know-this-479788 ",
-    "time": "2026-05-30T13:57:51.000Z"
   },
   {
     "cat": "Tech",
@@ -700,15 +709,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/mg-comet-ev-is-india-cheapest-electric-car-know-its-price-and-features-479303 ",
     "time": "2026-05-26T10:16:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સવાર કે રાત્રે, પેટ્રોલ કે ડીઝલ ભરવાનો બેસ્ટ સમય કયો છે? જાણો આ વાયરલ દાવા પાછળનું સત્ય!",
-    "desc": "પેટ્રોલ અને ડીઝલના વધતા ભાવ વચ્ચે, સોશિયલ મીડિયા પર એક જૂનો દાવો ફરી ચર્ચામાં આવી રહ્યો છે. વાયરલ થયેલા દાવામાં દાવો કરવામાં આવ્યો છે કે વહેલી સવારે અથવા મોડી રાત્રે ઇંધણ ભરવાથી વધુ ઇંધણ મળે છે અને પૈસાની બચત થાય છે. કારણ એ આપવામાં આવ્યું છે કે ઠંડા હવામાનમાં ઇંધણ વધુ ઘટ્ટ હોય છે. પરંતુ શું આ ખરેખર સાચું છે? ચાલો સત્ય શોધી કાઢીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/what-is-the-best-time-to-fill-up-petrol-or-diesel-morning-or-night-know-the-truth-behind-this-viral-claim-479299 ",
-    "time": "2026-05-26T09:31:52.000Z"
   },
   {
     "cat": "World",

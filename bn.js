@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "ক্ষমা চেয়েও পার পেলেন না রচনা বন্দ্যোপাধ্যায়, আরজি করের ভিডিও ঘিরে থানায় ডায়েরি",
+    "desc": "আরজি কর নির্যাতিতার নাম প্রকাশ্য ভিডিওতে বলে ফেলার জের! এবার আইনি বিপাকে জড়িয়ে পড়লেন তৃণমূল সাংসদ ও অভিনেত্রী রচনা বন্দ্যোপাধ্যায়। চারু মার্কেট থানায় তাঁর বিরুদ্ধে লিখিত অভিযোগ দায়ের করলেন এক আইনজীবী। যদিও বিষয়টিকে ‘অনিচ্ছাকৃত ভুল’ বলে আইনি পথেই লড়াইয়ের বার্তা দিলেন রচনা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rachana-banerjee-rg-kar-victim-identity-police-complaint_656298.html ",
+    "time": "2026-06-02T11:41:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "অবৈধভাবে বাস ও বাণিজ্যিক ট্রাক চালানোর অভিযোগ, ৩০ ভারতীয়কে ফেরত পাঠাচ্ছে আমেরিকা",
+    "desc": "ধৃতদের কাছ থেকে কর্মসংস্থানের অনুমতিপত্র উদ্ধার হয়েছে, সেগুলি মেয়াদোত্তীর্ণ। জো বাইডেন প্রশাসনের আমলে সেগুলি দেওয়া হয়েছিল। মার্কিন কর্তৃপক্ষ জানিয়েছে, ফেডারেল আইন অনুযায়ী সবার বিরুদ্ধে প্রয়োজনীয় প্রক্রিয়া সম্পন্ন করা হয়েছে এবং তাদের নিজ দেশে ফেরত পাঠানো হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/30-indians-caught-driving-trucks-illegally-in-us-face-deportation_656296.html ",
+    "time": "2026-06-02T11:34:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কেন্দ্রীয় নেতৃত্বের সঙ্গে দ্বিমত! সমস্ত পদ ছেড়ে বিরাট সিদ্ধান্ত বিজেপির হেভিওয়েটের, গড়বেন নিজের দল?",
+    "desc": "তামিলনাড়ু বিজেপির প্রধান নেতা কে. আন্নামালাই দল থেকে পদত্যাগ করেছেন। দলের কেন্দ্রীয় নেতৃত্বের সঙ্গে তাঁর বেশ কিছু নীতিগত বিষয়ে অমিল হচ্ছিল। বিশেষ করে নির্বাচনে অন্য দলের সঙ্গে জোট করার সিদ্ধান্ত তিনি মেনে নিতে পারেননি। ধারণা করা হচ্ছে, তিনি শীঘ্রই নিজের একটি নতুন রাজনৈতিক দল গঠন করতে পারেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tamil-nadu-leader-annamalai-resigns-from-bjp_656295.html ",
+    "time": "2026-06-02T11:17:35.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "আদালত চত্বরে ৫০০-র নোটের বৃষ্টি! টাকা কুড়োতে ব্যাপক হুড়োহুড়ি",
     "desc": "আইনজীবীর ২ লাখ টাকার ব্যাগ ছিনিয়ে নেয় একটি বাঁদর। ব্যাগটি নিয়ে বাঁদরটি সোজা একটি গাছে উঠে যায়। সেখানে খাবার না পেয়ে সে ওপর থেকে নোটের বৃষ্টি শুরু করে। পরে কলা ও জুস দিয়ে বাঁদরটিকে শান্ত করা হয় এবং প্রায় সব টাকা উদ্ধার করা সম্ভব হয়।",
@@ -16,6 +43,15 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/2172-crore-loan-settled-for-just-rs-579-crore-govt-body-narcl-under-fire-public-money-loss-of-rs1600-crore_656283.html ",
     "time": "2026-06-02T08:42:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
   },
   {
     "cat": "Politics",
@@ -216,6 +252,15 @@ const newsData_bn = [
     "time": "2026-05-24T09:36:03.000Z"
   },
   {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "টলিপাড়ায় ধুন্ধুমার: কোটি টাকার দুর্নীতির অভিযোগ, EIMPA হাউসে ধাক্কাধাক্কিতে অসুস্থ সভাপতি পিয়া",
     "desc": "টলিপাড়ায় নজিরবিহীন কেলেঙ্কারি! উত্তাল EIMPA হাউস! ইস্টার্ন ইন্ডিয়া মোশন পিকচার্স অ্যাসোসিয়েশন (EIMPA)-এর যৌথ সাধারণ সভাকে কেন্দ্র করে আজ রণক্ষেত্রের চেহারা নিল বি.এন. সরকার সরণি। বর্তমান কমিটির বিরুদ্ধে কোটি কোটি টাকার আর্থিক তছরুপ, বহিরাগতদের সঙ্গে গোপন চুক্তি এবং হাইকোর্টের নির্দেশ অমান্য করার মারাত্মক অভিযোগ। সভা চলাকালীন বিশিষ্ট ব্যক্তিত্ব পিয়া সেনগুপ্তর হাতের একটি রহস্যময় ‘হলুদ ফাইল’ কেড়ে নিতে তেড়ে এলেন কিছু সদস্য! সদস্যদের কণ্ঠরোধের চেষ্টার অভিযোগে তোলপাড় চলচ্চিত্র মহল।",
@@ -250,5 +295,41 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/netherlands-returns-11th-century-chola-copper-plates-to-india-during-pm-modi-visits-netherlands-pm-modi-in-netherlands_654442.html ",
     "time": "2026-05-18T14:48:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

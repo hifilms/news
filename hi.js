@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England name XII for Lord's Test against New Zealand, Emilio Gay set to make Test debut",
+    "desc": "With England all set to take on New Zealand in the first Test of the upcoming series, the ECB (England and Wales Cricket Board) came forward and announced England’s playing XII for the Lord’s Test....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-name-xii-for-lord-s-test-against-new-zealand-emilio-gay-set-to-make-test-debut-2026-06-02-1043403",
+    "time": "2026-06-02T15:43:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI announces appointment of Sairaj Bahutule as team India's new spin bowling coach",
+    "desc": "The BCCI (Board of Control for Cricket in India) took centre stage and announced the appointment of former India cricketer Sairaj Bahutule as the new spin bowling coach of the Indian men’s senior team. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-appointment-of-sairaj-bahutule-as-team-india-s-new-spin-bowling-coach-2026-06-02-1043394",
+    "time": "2026-06-02T13:42:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ENG-W vs IND-W 3rd T20I live streaming: When and where to watch series decider in India?",
+    "desc": "The stage is set for the series decider of the ongoing T20I series between England women and India women. The two sides are slated to meet at the Cooper Associates County Ground, Taunton, on June...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eng-w-vs-ind-w-3rd-t20i-live-streaming-when-and-where-to-watch-series-decider-in-india-2026-06-02-1043381",
+    "time": "2026-06-02T12:24:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "R Ashwin weighs in on LSG's strategy in not playing Ayush Badoni after dismal IPL season",
+    "desc": "The IPL (Indian Premier League) 2026 season was a forgettable one for Lucknow Super Giants. Playing their second year under the leadership of star India batter Rishabh Pant, Lucknow Super Giants became the first team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-weighs-in-on-lsg-s-strategy-in-not-playing-ayush-badoni-after-dismal-ipl-season-2026-06-02-1043371",
+    "time": "2026-06-02T11:18:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sydney Thunder announces appointment of Andrew Flintoff as head coach",
+    "desc": "In a major development, BBL (Big Bash League) franchise Sydney Thunder has come forward to announce the appointment of former England cricketer Andrew Flintoff as the side’s new head coach ahead of the upcoming edition...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sydney-thunder-announces-appointment-of-andrew-flintoff-as-head-coach-2026-06-02-1043361",
+    "time": "2026-06-02T10:28:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why has Anjum Chopra picked India as \"one of the favourites\" for Women's T20 World Cup 2026",
     "desc": "Former India cricketer Anjum Chopra has picked the Harmanpreet Kaur-led side as one of the favourites to win the upcoming Women's T20 World Cup 2026. The tournament, scheduled to take place in England, will kick...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/will-serena-williams-to-play-in-wimbledon-2026-tennis-legend-announces-comeback-at-44-2026-06-02-1043325",
     "time": "2026-06-02T06:32:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan set to host India in Delhi for T20I series; what does this mean?",
-    "desc": "India are set to play as visitors at home as Afghanistan are reportedly in line to host the Men in Blue for a T20I series in Delhi later in the year. If this happens, it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-to-play-at-home-as-visitors-as-afghanistan-turn-hosts-for-t20i-series-what-does-this-mean-2026-06-02-1043317",
-    "time": "2026-06-02T05:25:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Women's Champions Trophy 2027 moved, ICC announces Women's T20 World Cup 2028 qualification",
-    "desc": "The International Cricket Council (ICC) has announced the change of window for the inaugural Women's Champions Trophy, scheduled to take place in Sri Lanka next year. The International Board has confirmed that the tournament, featuring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/womens-champions-trophy-2027-moved-icc-announces-womens-t20-world-cup-2028-qualification-2026-06-02-1043313",
-    "time": "2026-06-02T04:44:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI breaks silence on Vaibhav Sooryavanshi's senior India call-up after historic IPL 2026",
-    "desc": "The Board of Control for Cricket in India (BCCI) secretary Devajit Saikia spoke about the potential call-up of teenage sensation Vaibhav Sooryavanshi into the senior Indian team. To answer the anticipation of all of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-breaks-silence-on-vaibhav-sooryavanshis-senior-india-call-up-after-historic-ipl-2026-2026-06-02-1043312",
-    "time": "2026-06-02T04:25:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why has ICC approved trial of pink ball for Day Tests? Board also introduces IPL-like rule in ODIs, T20Is",
-    "desc": "The International Cricket Council has decided to approve a trial of the switch from a red ball to the pink ball ahead of the start of the Day Test match in a bid to mitigate...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-has-icc-approved-trial-of-pink-balls-for-day-tests-board-also-introduces-ipl-like-rule-in-odis-t20is-2026-06-02-1043299",
-    "time": "2026-06-02T02:28:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LPL going IPL way? Sri Lankan league introduces two major rule changes ahead of upcoming season",
-    "desc": "The Lanka Premier League has brought in the Indian Premier League's Impact player rule in one of the two major changes ahead of the upcoming season of the tournament. While the Impact player rule has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lpl-going-ipl-way-league-introduces-two-major-rule-changes-ahead-of-upcoming-season-2026-06-02-1043297",
-    "time": "2026-06-02T01:35:16.000Z"
   }
 ];
