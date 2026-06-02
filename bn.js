@@ -1,12 +1,21 @@
 const newsData_bn = [
   {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
+    "cat": "Politics",
+    "title": "আদালত চত্বরে ৫০০-র নোটের বৃষ্টি! টাকা কুড়োতে ব্যাপক হুড়োহুড়ি",
+    "desc": "আইনজীবীর ২ লাখ টাকার ব্যাগ ছিনিয়ে নেয় একটি বাঁদর। ব্যাগটি নিয়ে বাঁদরটি সোজা একটি গাছে উঠে যায়। সেখানে খাবার না পেয়ে সে ওপর থেকে নোটের বৃষ্টি শুরু করে। পরে কলা ও জুস দিয়ে বাঁদরটিকে শান্ত করা হয় এবং প্রায় সব টাকা উদ্ধার করা সম্ভব হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/monkey-snatches-bag-with-2-lakh-rupees-showers-cash-from-tree-in-uttar-pradesh-court_656289.html ",
+    "time": "2026-06-02T09:51:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "২১৭২ কোটির ঋণ মাত্র ৫৭৯ কোটিতে রফা! কাঠগড়ায় সরকারি সংস্থা NARCL, আমজনতার ১৬০০ কোটির ক্ষতি?",
+    "desc": "ব্যাংকের টাকা জালিয়াতি ও ঋণ খেলাপিদের রুখতে প্রায় তিন বছর আগে সরকার গঠন করেছিল 'ন্যাশনাল অ্যাসেট রিকনস্ট্রাকশন কোম্পানি লিমিটেড' বা NARCL। এদের কাজ হল ব্যাংগুলোতে আটকে থাকা বড় বড় লোন বা 'ব্যাড লোন' উদ্ধার করা। জি মিডিয়ার হাতে আসা এক্সক্লুসিভ নথি ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/2172-crore-loan-settled-for-just-rs-579-crore-govt-body-narcl-under-fire-public-money-loss-of-rs1600-crore_656283.html ",
+    "time": "2026-06-02T08:42:43.000Z"
   },
   {
     "cat": "Politics",
@@ -126,15 +135,6 @@ const newsData_bn = [
     "time": "2026-05-28T13:51:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "একে মন ভরে না, চাই বহু শরীর! রাজ্য বহুগামিতা আইন করে নিষিদ্ধ করল সরকার, লিভ-ইনেও আনল কড়া নিয়ম",
-    "desc": "অসম বিধানসভায় অভিন্ন দেওয়ানি বিধি (Uniform Civil Code) কার্যকর করার জন্য বিল পেশ করল হিমন্ত বিশ্ব শর্মার সরকার। বহুবিবাহ নিষিদ্ধ করা এবং লিভ-ইন সম্পর্কের বাধ্যতামূলক রেজিস্ট্রেশনকে এই বিলের অন্যতম প্রধান শর্ত হিসেবে রাখা হয়েছে। এছাড়া বিয়ে করার ৬০ দিন এবং লিভ-ইন সম্পর্কের ৩০ দিনের মধ্যে সরকারকে জানিয়ে রেজিস্ট্রি করা বাধ্যতামূলক করা হয়েছে। এই নিয়ম না মানলে ১০,০০০ টাকা পর্যন্ত জরিমানা হতে পারে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/assam-ucc-bill-passed-polygamy-banned-and-live-in-registration-rules_655634.html ",
-    "time": "2026-05-28T05:02:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "মাথার খুলি ২ টুকরো! পাঁজর ভাঙা, ফুসফুসে জমাট রক্ত; ময়নাতদন্তের রিপোর্টে উঠে এল অনীক দত্তের মৃত্যুর আসল কারণ",
     "desc": "মাথার খুলি ও পাঁজর ভাঙা, ফুসফুসে রক্ত জমাট! সামনে এল পরিচালক অনীক দত্তর ময়নাতদন্তের প্রাথমিক রিপোর্ট। রিপোর্ট অনুযায়ী, অনেক উপর থেকে পড়ার কারণেই এই মারাত্মক আঘাত। অনীক দত্তর মতো একজন গুণী পরিচালকের ময়নাতদন্তের এই প্রাথমিক রিপোর্ট সামনে আসার পর স্বাভাবিকভাবেই শোকের ছায়া আরও ঘনীভূত হয়েছে। ময়নাতদন্তের এই প্রাথমিক পর্যবেক্ষণগুলি খতিয়ে দেখছেন তদন্তকারীরা।",
@@ -160,15 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/poonam-dhillon-cintaa-reacts-ranveer-singh-fwice-ban-don-3-dispute_655550.html ",
     "time": "2026-05-27T13:28:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "অ্যানোড কেনার ডেলিভারি চালানেই ব্রেক-থ্রু! ফ্ল্যাটের ল্যাবে বোমা বানিয়েই বিস্ফোরণ? ডিকোডেড লালকেল্লা ব্লাস্ট, ভয়ংকর রিপোর্ট",
-    "desc": "ফ্ল্যাটেই সাধারণ লবণের দ্রবণ থেকেই বিস্ফোরক তৈরির উপকরণ বানাত উমর নবি। ভুয়ো আইডি, অনলাইনে কেনা বিস্ফোরক উপকরণ আর বাড়ির ল্যাবেটরিতে বানানো বোমা- দিল্লি লালকেল্লা বিস্ফোরণ 'ডিকোড' করতে গিয়ে এনআইএ-র তদন্তকারীদের উঠে এসেছে একের পর এক চাঞ্চল্যকর তথ্য।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/nia-decode-behind-red-fort-blast-fake-ids-online-shopping-spree-and-homegrown-bomb-lab-in-7500-pages-chargesheet_655493.html ",
-    "time": "2026-05-27T09:00:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -225,15 +216,6 @@ const newsData_bn = [
     "time": "2026-05-24T09:36:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "টলিপাড়ায় ধুন্ধুমার: কোটি টাকার দুর্নীতির অভিযোগ, EIMPA হাউসে ধাক্কাধাক্কিতে অসুস্থ সভাপতি পিয়া",
     "desc": "টলিপাড়ায় নজিরবিহীন কেলেঙ্কারি! উত্তাল EIMPA হাউস! ইস্টার্ন ইন্ডিয়া মোশন পিকচার্স অ্যাসোসিয়েশন (EIMPA)-এর যৌথ সাধারণ সভাকে কেন্দ্র করে আজ রণক্ষেত্রের চেহারা নিল বি.এন. সরকার সরণি। বর্তমান কমিটির বিরুদ্ধে কোটি কোটি টাকার আর্থিক তছরুপ, বহিরাগতদের সঙ্গে গোপন চুক্তি এবং হাইকোর্টের নির্দেশ অমান্য করার মারাত্মক অভিযোগ। সভা চলাকালীন বিশিষ্ট ব্যক্তিত্ব পিয়া সেনগুপ্তর হাতের একটি রহস্যময় ‘হলুদ ফাইল’ কেড়ে নিতে তেড়ে এলেন কিছু সদস্য! সদস্যদের কণ্ঠরোধের চেষ্টার অভিযোগে তোলপাড় চলচ্চিত্র মহল।",
@@ -268,41 +250,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/netherlands-returns-11th-century-chola-copper-plates-to-india-during-pm-modi-visits-netherlands-pm-modi-in-netherlands_654442.html ",
     "time": "2026-05-18T14:48:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

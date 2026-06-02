@@ -1,7 +1,79 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Why has ICC approved trial of pink balls for Day Tests? Board also introduces IPL-like rule in ODIs, T20Is",
+    "title": "Why has Anjum Chopra picked India as \"one of the favourites\" for Women's T20 World Cup 2026",
+    "desc": "Former India cricketer Anjum Chopra has picked the Harmanpreet Kaur-led side as one of the favourites to win the upcoming Women's T20 World Cup 2026. The tournament, scheduled to take place in England, will kick...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-has-anjum-chopra-picked-india-as-one-of-the-favourites-for-womens-t20-world-cup-2026-2026-06-02-1043356",
+    "time": "2026-06-02T09:41:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Not Dhoni or Rohit, these three players have won hat-trick of IPL titles; two Indians on list",
+    "desc": "Winning an IPL title is an achievement in itself. It gives the teams and the players a different honour of being at the top of arguably the most challenging league in the world. The Royal...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-dhoni-or-rohit-these-three-players-have-won-hat-trick-of-ipl-titles-two-indians-on-list-2026-06-02-1043352",
+    "time": "2026-06-02T09:19:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Auqib Nabi picked to bowl in nets along with six others ahead of India's one-off Test against Afghanistan",
+    "desc": "Auqib Nabi has been picked to bowl in India's nets ahead of the upcoming one-off Test against Afghanistan, a BCCI source revealed. Nabi's non-selection from the Test squad for the Mullanpur Test had led to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-picked-to-bowl-in-nets-along-with-six-others-ahead-of-indias-one-off-test-against-afghanistan-2026-06-02-1043344",
+    "time": "2026-06-02T08:29:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which players have never won an IPL final after multiple attempts? India's T20 WC-winning vice-captain on list",
+    "desc": "The Indian Premier League 2026 drew curtains after the Royal Challengers Bengaluru lifted their second title by beating the Gujarat Titans in a one-sided final in Ahmedabad. From being chasers, RCB have turned into a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/which-players-have-never-won-an-ipl-final-after-multiple-attempts-indias-t20-wc-winning-vice-captain-on-list-2026-06-02-1043330",
+    "time": "2026-06-02T07:20:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Serena Williams play in Wimbledon 2026? Tennis legend announces comeback at 44 for dress-rehearsal event",
+    "desc": "Almost four years after playing her last professional singles match at the US Open 2022, tennis legend Serena Williams has announced her comeback to the sport she has dominated for nearly two decades. Williams hold...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/will-serena-williams-to-play-in-wimbledon-2026-tennis-legend-announces-comeback-at-44-2026-06-02-1043325",
+    "time": "2026-06-02T06:32:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Afghanistan set to host India in Delhi for T20I series; what does this mean?",
+    "desc": "India are set to play as visitors at home as Afghanistan are reportedly in line to host the Men in Blue for a T20I series in Delhi later in the year. If this happens, it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-to-play-at-home-as-visitors-as-afghanistan-turn-hosts-for-t20i-series-what-does-this-mean-2026-06-02-1043317",
+    "time": "2026-06-02T05:25:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Women's Champions Trophy 2027 moved, ICC announces Women's T20 World Cup 2028 qualification",
+    "desc": "The International Cricket Council (ICC) has announced the change of window for the inaugural Women's Champions Trophy, scheduled to take place in Sri Lanka next year. The International Board has confirmed that the tournament, featuring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/womens-champions-trophy-2027-moved-icc-announces-womens-t20-world-cup-2028-qualification-2026-06-02-1043313",
+    "time": "2026-06-02T04:44:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI breaks silence on Vaibhav Sooryavanshi's senior India call-up after historic IPL 2026",
+    "desc": "The Board of Control for Cricket in India (BCCI) secretary Devajit Saikia spoke about the potential call-up of teenage sensation Vaibhav Sooryavanshi into the senior Indian team. To answer the anticipation of all of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-breaks-silence-on-vaibhav-sooryavanshis-senior-india-call-up-after-historic-ipl-2026-2026-06-02-1043312",
+    "time": "2026-06-02T04:25:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why has ICC approved trial of pink ball for Day Tests? Board also introduces IPL-like rule in ODIs, T20Is",
     "desc": "The International Cricket Council has decided to approve a trial of the switch from a red ball to the pink ball ahead of the start of the Day Test match in a bid to mitigate...",
     "img": "",
     "src": "indiatvnews.com",
@@ -16,77 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/lpl-going-ipl-way-league-introduces-two-major-rule-changes-ahead-of-upcoming-season-2026-06-02-1043297",
     "time": "2026-06-02T01:35:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former England cricketer backs Vaibhav Sooryavanshi to make India debut after exceptional IPL season",
-    "desc": "The IPL (Indian Premier League) 2026 was exceptional for 15-year-old Vaibhav Sooryavanshi. Playing his first full season, Sooryavanshi was the star performer for Rajasthan Royals, winning the IPL orange cap, scoring 776 runs to his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-england-cricketer-backs-vaibhav-sooryavanshi-to-make-india-debut-after-exceptional-ipl-season-2026-06-01-1043287",
-    "time": "2026-06-01T18:27:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is the favourite to win the French Open 2026 after Sinner and Djokovic's elimination? Andy Roddick reveals",
-    "desc": "The ongoing French Open 2026 has taken quite an interesting turn. The tournament began with Carlos Alcaraz having pulled out due to injury. With Alcaraz out, many opined that it could be clear ways for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/who-is-the-favourite-to-win-the-french-open-2026-after-sinner-and-djokovic-s-elimination-andy-roddick-reveals-2026-06-01-1043284",
-    "time": "2026-06-01T17:39:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harbhajan Singh weighed in on Shubman Gill's dismissal against RCB in IPL 2026 final",
-    "desc": "The IPL (Indian Premier League) 2026 final saw Gujarat Titans lose the marquee clash against defending champions Royal Challengers Bengaluru. The two sides met at the Narendra Modi Stadium in Ahmedabad, and after GT posted...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harbhajan-singh-weighed-in-on-shubman-gill-s-dismissal-against-rcb-in-ipl-2026-final-2026-06-01-1043282",
-    "time": "2026-06-01T16:52:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star RCB batter found in breach of IPL Code of Conduct, handed fine and demerit points after title triumph",
-    "desc": "In a major development, Royal Challengers Bengaluru batter Tim David has been found in breach of the IPL (Indian Premier League) Code of Conduct and has been fined 50 per cent of his match fees....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-rcb-batter-found-in-breach-of-ipl-code-of-conduct-handed-fine-and-demerit-points-after-title-triumph-2026-06-01-1043280",
-    "time": "2026-06-01T16:37:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer hails Virat Kohli's performances after historic second IPL triumph",
-    "desc": "Virat Kohli was at the centre as Royal Challengers Bengaluru lifted their second straight IPL title. The side took on Gujarat Titans at the Narendra Modi Stadium in Ahmedabad in the IPL final on May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-virat-kohli-s-performances-after-historic-second-ipl-triumph-2026-06-01-1043276",
-    "time": "2026-06-01T15:38:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Lamine Yamal feature for Spain in first FIFA World Cup 2026 game? Head coach shares crucial update",
-    "desc": "The stage is set for the upcoming edition of the FIFA World Cup 2026. The marquee tournament will feature a total of 48 teams, and the 2010 champions, Spain, are being widely revered as one...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/will-lamine-yamal-feature-for-spain-in-first-fifa-world-cup-2026-game-head-coach-shares-crucial-update-2026-06-01-1043270",
-    "time": "2026-06-01T14:10:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did ICC suspend Cricket Canada's membership after board meeting in Ahmedabad?",
-    "desc": "In a major development, the ICC (International Cricket Council) concluded its board meeting in Ahmedabad, and after the meeting concluded, the ICC came to the decision that it will be suspending the membership of Cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-icc-suspend-cricket-canada-s-membership-after-board-meeting-in-ahmedabad-2026-06-01-1043260",
-    "time": "2026-06-01T12:27:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former England cricketer slams Gujarat Titans' tactics after IPL final loss against RCB",
-    "desc": "Gujarat Titans were left completely outclassed as they took on Royal Challengers Bengaluru in the IPL (Indian Premier League) 2026 final. The two sides met at the Narendra Modi Stadium in Ahmedabad, and RCB put...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-england-cricketer-slams-gujarat-titans-tactics-after-ipl-final-loss-against-rcb-2026-06-01-1043251",
-    "time": "2026-06-01T11:25:14.000Z"
   }
 ];

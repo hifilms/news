@@ -1,6 +1,105 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "LPG સિલિન્ડર ધરાવતા ગ્રાહકો ખાસ જાણે, 30 જૂન સુધીમાં ફટાફટ પતાવજો આ કામ! જાણો સરકારનો નવો નિયમ",
+    "desc": "મિડલ ઈસ્ટમાં તણાવના કારણે વૈશ્વિક ઉર્જા સંકટ જોવા મળી રહ્યું છે. જેના ભરડામાં માત્ર ભારત જ નહીં પરંતુ વિશ્વના અનેક દેશો આવેલા છે. ભારતમાં એલપીજીની સમસ્યા વચ્ચે સરકારે પણ ગ્રાહકોની સગવડ માટે અનેક પગલાં ભર્યા છે. આ ઉપરાંત એલપીજી અને પીએનજી સંલગ્ન કેટલાક એવા નિયમો પણ બદલાયા છે જે ગ્રાહકોએ જાણવા ખાસ જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/important-update-about-lpg-connection-and-png-connection-users-should-know-480131 ",
+    "time": "2026-06-02T09:53:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "₹2,172 કરોડની લોન, ₹579 કરોડમાં સેટલમેન્ટ, સવાલોના ઘેરામાં સરકારી કંપની NARCL",
+    "desc": "ગુજરાતીમાં એક કહેવત છે કે રીંગણા લઉં કે બે ચાર, ના ના લેને 10-12 આવી જ સ્થિતિ આ કેસમાં છે. સરકારી કંપની NARCLની રચના ત્રણ વર્ષ પહેલાં ફસાયેલી લોનની રિકવરી માટે કરવામાં આવી હતી. પરંતુ Agson Global Pvt. Ltd પાસેથી 2172 કરોડની લોન 579 કરોડમાં સેટલ કરવાના આરોપમાં હવે ખુદ NARCL સવાલોના ઘેરામાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/a-loan-of-rs-2172-crore-was-settled-for-rs-579-crore-by-narcl-480119 ",
+    "time": "2026-06-02T09:36:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "શું સુષ્મિતા સેન &amp;#039;ગોલ્ડ ડિગર&amp;#039; હતી, કેમ થયું હતું લલિત મોદી અને સુષ્મિતાનું બ્રેકઅપ?",
+    "desc": "થોડા વર્ષો પહેલા જ્યારે આઈપીએલના ોપૂર્વ કમિશનર અને બિઝનેસમેન લલિત મોદીએ અચાનક સુષ્મિતા સેન સાથે ફોટો શેર કર્યા અને રિલેશનશીપની સત્તાવાર રીતે જાહેરાત કરી હતી ત્યારે લોકો વિચારમાં પડી ગયા હતા. સોશિયલ મીડિયા પર તો જાણે વાવાઝોડું આવી ગયું હતું. હવે લલિત મોદીએ સુષ્મિતા સેન વિશે ખુલ્લા મનથી વાતો કરી છે. જાણો શું કહ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/lalit-modi-open-ups-about-his-relationship-with-sushmita-sen-why-did-they-break-up-480112 ",
+    "time": "2026-06-02T08:29:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ ખેલાડીને માત્ર 15 રન માટે મળ્યા રૂપિયા 13 કરોડ, જાણો કોણ છે આ ખેલાડી",
+    "desc": "IPL 2026માં ઘણા ખેલાડીઓ એવા હતા જેમની કિંમત ખૂબ ઊંચી હતી, પરંતુ તેઓ અપેક્ષાઓ મુજબ પ્રદર્શન કરવામાં નિષ્ફળ ગયા હતા. જો કે, આ યાદીમાં ટોપ પર સનરાઇઝર્સ હૈદરાબાદનો એક ખેલાડી હતો, જેને ટીમે ₹13 કરોડમાં ખરીદ્યો હતો. જ્યારે તેણે આખી સિઝનમાં માત્ર 15 રન જ બનાવ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-flop-player-this-cricketer-got-rs-13-crore-for-just-15-runs-480113 ",
+    "time": "2026-06-02T08:19:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL ખતમ હવે ક્યારે એક્શનમાં જોવા મળશે રોહિત-વિરાટ, જાણી લો ટીમ ઈન્ડિયાનું આગામી શેડ્યૂલ",
+    "desc": "IPL 2026 પછી ભારતીય ક્રિકેટ ટીમે હવે આંતરરાષ્ટ્રીય ક્રિકેટ પર ધ્યાન કેન્દ્રિત કરવું પડશે. આગામી છ મહિના તેમના માટે ખૂબ જ વ્યસ્ત રહેવાના છે. ત્યારે ટીમ ઈન્ડિયા હવે ક્યારે, ક્યાં અને કોની સામે રમશે ? તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/indian-cricket-team-schedule-rohit-sharma-virat-kohli-team-india-next-series-480106 ",
+    "time": "2026-06-02T07:14:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશીને ટીમ ઈન્ડિયામાં ક્યારે મળશે તક ? BCCIનું મોટું નિવેદન આવ્યું સામે",
+    "desc": "IPL 2026માં શાનદાર પ્રદર્શન બાદ હવે બધાના મનમાં એક જ સવાલ છે કે વૈભવ સૂર્યવંશીને ટીમ ઈન્ડિયામાં ક્યારે તક મળશે ? ત્યારે BCCI તરફથી હવે સંકેત મળી રહ્યા છે કે વૈભવ સૂર્યવંશી ટીમ ઈન્ડિયા માટે આંતરરાષ્ટ્રીય ક્રિકેટમાં ક્યારે ડેબ્યૂ કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/when-will-vaibhav-sooryavanshi-get-chance-in-team-india-bcc-big-update-480097 ",
+    "time": "2026-06-02T06:35:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું મકાન માલિક નોટિસ આપ્યા વગર ઘર ખાલી કરાવી શકે! જાણો શું કહે છે નિયમ?",
+    "desc": "મોટા ભાગના લોકો તે જાણે છે કે ભાડુઆત પાસે નોટિસ આપ્યા વગર ઘર ખાલી કરાવી શકાય નહીં. પરંતુ આ સંપૂર્ણ રીતે સાચું નથી. ઘણી પરિસ્થિતિ એવી હોય છે, જ્યારે નોટિસ આપ્યા વગર પણ ઘર ખાલી કરાવી શકાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/can-a-landlord-evict-a-tenant-without-any-notice-what-the-rules-say-tenant-rights-india-480096 ",
+    "time": "2026-06-02T06:25:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "11 વર્ષ બાદ શિલ્પા શિંદેનો ચોંકાવનારો ખુલાસો! &amp;#039;ભાભીજી ઘર પર હૈ&amp;#039;ના પ્રોડ્યુસર પર કર્યો હતો જાતીય સતામણીનો ખોટો કેસ, બોલી- &amp;#039;મજબૂરીમાં...&amp;#039;",
+    "desc": "ટીવી એક્ટ્રેસ શિલ્પા શિંદેએ તાજેતરમાં જ એક પોડકાસ્ટમાં પોતાના જૂના વિવાદ પર હોશ ઉડાવી દે તેવો ખુલાસો કર્યો છે. તેણે જણાવ્યું કે 'ભાભીજી ઘર પર હૈ' શો છોડ્યા બાદ તેના પર ભારે દબાણ હતું અને તેને કાનૂની લડાઈઓનો સામનો કરવો પડ્યો હતો. શિલ્પાએ એ પણ સ્વીકાર્યું કે તેણે પ્રોડ્યુસર પર સેક્સ્યુઅલ હેરેસમેન્ટ (જાતીય સતામણી)નો કેસ કર્યો હતો, જે સાચો નહોતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shilpa-shindes-shocking-revelation-a-false-harassment-case-was-filed-against-the-producer-of-bhabhiji-ghar-par-hain-480095 ",
+    "time": "2026-06-02T06:21:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ છે નીરવ મોદી અને વિજય માલ્યા પર એક્શન લેનારા સત્યવ્રત કુમાર, જેણે અચાનક VRS લઈ લીધું!",
+    "desc": "નીરવ મોદી, વિજય માલ્યા, મેહુલ ચોક્સી અને મહાદેવ બેટિંગ એપ જેવા હાઈપ્રોફાઈલ કેસની તપાસ કરનારા પૂર્વ ED અધિકારી સત્યવ્રત કુમારે સ્વૈચ્છિક નિવૃત્તિ જાહેર કરી છે, અચાનક તેઓએ કેમ કરિયરમાંથી વિદાય લેવાનું નક્કી કર્યુ. જાણો તેના કરિયર અને આ નિર્ણય વિશે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-satyavrat-kumar-took-action-against-nirav-modi-and-vijay-mallya-suddenly-took-vrs-480094 ",
+    "time": "2026-06-02T06:18:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 સમાપ્ત થતાં જ ICC એક્શનમાં, આ ટીમને કરવામાં આવી સસ્પેન્ડ",
+    "desc": "IPL 2026ના સમાપન પછી ICCએ ક્રિકેટ સંબંધિત ઘણા મોટા નિર્ણયો લીધા છે. અમદાવાદમાં યોજાયેલી લાંબી બેઠક દરમિયાન અનેક દરખાસ્તોને મંજૂરી આપવામાં આવી હતી. સૌથી મહત્વપૂર્ણ અપડેટ એ છે કે ICCએ સભ્યપદ જવાબદારીઓના ગંભીર ઉલ્લંઘનને ટાંકીને ક્રિકેટ કેનેડાને તાત્કાલિક અસરથી સસ્પેન્ડ કરી દીધું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-meeting-ahmedabad-icc-suspends-cricket-canada-with-immediate-effect-480093 ",
+    "time": "2026-06-02T06:06:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલના ભાવમાં વધારો થયો કે ઘટાડો ? એક ક્લિકમાં જાણો અમદાવાદમાં શું છે આજનો ભાવ",
+    "desc": "મિડલ ઈસ્ટમાં તણાવ વચ્ચે 2 જૂન, 2026ના રોજ પેટ્રોલ અને ડીઝલના ભાવ જાહેર કરવામાં આવ્યા છે. ક્રૂડ ઓઇલના ભાવમાં વધઘટથી સ્થાનિક બજારમાં પેટ્રોલ-ડીઝલના ભાવમાં કોઈ ફેરફાર થયો છે કે નહીં તેમજ અમદાવાદમાં આજના ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-know-latest-fuel-rate-in-ahmedabad-480089 ",
+    "time": "2026-06-02T05:36:52.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "મમતા બેનર્જી માટે &amp;#039;પડતા પર પાટું&amp;#039; જેવી સ્થિતિ, સત્તા તો ગઈ હવે શું પાર્ટી પણ હાથમાંથી જશે?",
     "desc": "પશ્ચિમ બંગાળના પૂર્વ મુખ્યમંત્રી મમતા બેનર્જીનો લાગે છે કે હાલ સમય સારો નથી. એક તો વિધાનસભા ચૂંટણીમાં કારમી હાર મળી, પોતે પણ ચૂંટણી હાર્યા અને હવે પાર્ટી પણ હાથમાંથી જાય તેવા સંકેત મળી રહ્યા છે. બંગાળમાં મહારાષ્ટ્ર મોડલની કેમ ચર્ચાઓ થઈ રહી છે તે પણ ખાસ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -243,42 +342,6 @@ const newsData_gu = [
     "time": "2026-05-31T18:59:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "આ રીતે ફાઈનલમાં ફસાઈ ગુજરાતની ટીમ, બેંગ્લોરની પેસ બોલરોએ કર્યો આ ખેલ, જાણો",
-    "desc": "રવિવારે IPL 2026ના ફાઇનલમાં, રોયલ ચેલેન્જર્સ બેંગ્લોરના બોલરોએ ગુજરાત ટાઇટન્સને પરાજિત કરવા માટે શાનદાર રણનીતિ અને શિસ્તબદ્ધ બોલિંગનો ઉપયોગ કર્યો. હાર્ડ લેન્થ અને શોર્ટ ડિલિવરીની તેમની રણનીતિ GTના બેટ્સમેન માટે ખૂબ જ સાબિત થઈ. રસિક સલામે ત્રણ વિકેટ લીધી, જ્યારે જોશ હેઝલવુડ અને ભુવનેશ્વર કુમારે બે-બે વિકેટ લીધી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/this-is-how-gujarat-team-got-trapped-in-the-final-bangalore-pace-bowlers-played-this-game-know-479942 ",
-    "time": "2026-05-31T18:55:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સતત બીજી ટ્રોફી અને 20 કરોડનું ઇનામ, RCB પર થયો રૂપિયાનો વરસાદ, જાણો ગુજરાતને કેટલા મળ્યા?",
-    "desc": "ગુજરાતની ટીમ 20 ઓવરમાં 8 વિકેટે 155 રન જ બનાવી શકી હતી. ગુજરાત ટાઇટન્સના 155ના ટાર્ગેટના જવાબમાં RCBની ટીમ 18 ઓવરમાં 5 વિકેટે 161 રન બનાવીને ફાઇનલમાં શાનદાર વિજય મેળવ્યો છે. ટીમ માટે દિગ્ગજ ખેલાડી વિરાટ કોહલીએ 42 બોલમાં સૌથી વધુ અણનમ 75 રન બનાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/second-consecutive-trophy-and-ipl-2026-winner-prize-of-20-crores-it-rained-on-rcb-know-how-much-gujarat-got-479940 ",
-    "time": "2026-05-31T18:20:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB સતત બીજી વખત જીત્યું IPLનું ટાઈટલ, ફાઇનલમાં GTને હરાવ્યું, જાણો",
-    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોરે ફાઇનલમાં ગુજરાત ટાઇટન્સને હરાવીને સતત બીજી વખત IPL ટાઇટલ જીત્યું, વિરાટ કોહલીની અડધી સદીને કારણે. RCB સતત બે IPL ટાઇટલ જીતનાર ત્રીજી ટીમ બની. અગાઉ, ચેન્નાઈ સુપર કિંગ્સ (CSK) એ 2010-11 માં બે વાર IPL ટાઇટલ જીત્યું હતું, અને મુંબઈ ઇન્ડિયન્સ (MI)એ 2019-20માં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-won-the-ipl-title-for-the-second-time-in-a-row-defeated-gt-in-the-final-know-479939 ",
-    "time": "2026-05-31T18:16:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCBએ રચ્યો ઇતિહાસ, આ મહારેકોર્ડ બનાવનારી IPLની પહેલી ટીમ; મુંબઈ ઇન્ડિયન્સનો મોટો રેકોર્ડ ધ્વસ્ત",
-    "desc": "RCBની ટીમે IPLના ફાઇનલમાં ઇતિહાસ રચવાનું કામ કર્યું છે. રોયલ ચેલેન્જર બેંગ્લોરના બોલરોએ તોફાની અંદાજમાં બોલિંગ કરીને એક એવો અદ્ભુત કારનામું કરી બતાવ્યું છે જે અન્ય કોઈ ટીમ કરી શકી ન હતી. હવે RCBએ મુંબઈ ઇન્ડિયન્સની ટીમનો રેકોર્ડ તોડી નાખ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-created-history-became-the-first-ipl-team-to-make-this-great-record-mumbai-indians-big-record-broken-479938 ",
-    "time": "2026-05-31T17:58:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "PMનું માની લીધુ કે પછી તેલના ઊંચા ભાવના કારણે મોહભંગ કર્યો, 20000 ઘટ્યો સોનાનો ભાવ, છતાં નથી આવી રહ્યા ખરીદદારો, ડિમાંડ 70% ઘટી",
     "desc": "આ વર્ષે યુદ્ધ શરૂ થયું ત્યારથી, સોનાના ભાવમાં તેની ટોચની કિંમત કરતાં 20,000 રૂપિયા જેટલો ઘટાડો થયો છે, પરંતુ જ્વેલર્સની દુકાનો અને શોરૂમમાં ગ્રાહકોનો અભાવ છે. લોકો સોનું ખરીદવાને બદલે જૂનું સોનું વેચી રહ્યા છે. માંગમાં ઘટાડો થયો છે.",
@@ -421,51 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/white-towels-are-placed-on-the-chairs-of-government-officials-its-history-is-linked-to-the-british-era-know-this-479788 ",
     "time": "2026-05-30T13:57:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાજસ્થાનમાં રેતીનું ભયાનક વંટોળ આવ્યું, દિવસે રાત પડી! ડરામણા તોફાનનો Video જોઈ હચમચી જશો",
-    "desc": "રાજસ્થાનની મરુ ભૂમિમાં પ્રકૃતિનું અત્યંત ડરામણું સ્વરૂપ જોવા મળ્યું. શ્રીગંગાનગર અને ચુરુના જિલ્લામાં શનિવારે બપોરે હવામાને એવી કરવટ બદલી કે, જોત જોતામાં કાળી રાત જેવો નજારો સર્જાઈ ગયો. આકાશમાં ઉઠેલા રેતનું વંટોળ આખા શહેર પર ફરી વળ્યું. રેતીના વંટોળે આખા શહેરના પોતાની બાહોમાં સમાવી લીધું હોય તેવો નજારો જોવા મળ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/terrible-sandstorm-hit-rajasthan-turning-day-into-night-video-will-shocked-you-479774 ",
-    "time": "2026-05-30T10:54:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "LPGના ગ્રાહકો માટે આવ્યું મોટું અપડેટ, સરકાર સપ્લાય માટે કરી રહી છે આ વ્યવસ્થા",
-    "desc": "મિડલ ઈસ્ટમાં હજુ પણ સ્થિતિ થાળે પડી નથી જેના કારણે વૈશ્વિક ઉર્જા સંકટ યથાવત છે. આ સ્થિતિને પગલે સરકારે એવી દિશામાં કામ કરી રહી છે કે ભવિષ્યમાં આવી સ્થિતિ ઊભી થાય તો દેશવાસીઓને કોઈ પણ પ્રકારની મુશ્કેલીનો સામનો ન કરવો પડે. ઘરેલુ એલપીજીનું પ્રોડક્શન રેકોર્ડ લેવલ 52000 ટન દૈનિક સ્તરે પહોંચ્યું છે. જાણો વધુ વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-update-on-strategic-lpg-reserve-check-what-government-said-479750 ",
-    "time": "2026-05-30T10:18:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહિલાએ IT મેનેજરની લાખોની નોકરી છોડી અને હવે ચલાવે છે રીક્ષા, કારણ જાણીને અચંબિત થઈ જશો",
-    "desc": "માણસ કામ શેના માટે કરે છે? તો તમે કહેશો કે પેટનો ખાડો પૂરવા માટે, સદ્ધર થવા માટે, ખુબ પૈસા કમાવવા માટે. પરંતુ શું ખુબ પૈસા કમાવવાથી પણ માણસને એ ખુશી મળે તે ગેરંટી છે ખરી? આવું જ કઈક આ આઈટી મેનેજર મહિલા સાથે થયું છે. તેની કહાની ખાસ જાણવા જેવી છે જે અનેક લોકોને પ્રેરણા પૂરી પાડી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/social-media-viral-story-of-a-woman-who-left-it-job-and-became-auto-driver-479771 ",
-    "time": "2026-05-30T10:15:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "2 કે 5 નહીં, જૂનમાં કુલ 11 દિવસ બંધ રહેશે બેંકો ! જાણો RBIએ કેમ આપી આટલી રજા",
-    "desc": "દર વર્ષે RBI દ્વારા રજાઓનું કેલેન્ડર બહાર પાડવામાં આવે છે. જે મુજબ જૂન મહિનામાં 2 કે 5 નહીં, પરંતુ કુલ 11 દિવસ બેંકો બંધ રહેવાની છે. ત્યારે જૂન મહિનાની બેંક રજાઓની યાદી પર એક નજર કરીએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/rbi-bank-holiday-list-banks-will-be-closed-11-days-in-june-2026-479751 ",
-    "time": "2026-05-30T09:14:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "હાઈથી હજુ પણ સોનું 19000 અને ચાંદી 122000 રૂપિયા સસ્તા, આવતા સપ્તાહે શું રહેશે સ્થિતિ?",
-    "desc": "સોનું અને ચાંદી વીતેલા સપ્તાહમાં ગગડેલા જોવા મળ્યા. IBJA અને MCX બંને પર અઠવાડિયાના છેલ્લા કારોબારી દિવસે સુસ્તી સાથે બંધ થયા હતા. સોના ચાંદીની સાપ્તાહિક મૂવમેન્ટ અને ઓલટાઈમ હાઈથી હવે ક્યાં પહોંચ્યા તથા લેટેસ્ટ રેટ...બધુ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-are-still-very-cheap-from-all-time-high-also-check-weekly-gold-silver-rate-explainer-479734 ",
-    "time": "2026-05-30T07:49:20.000Z"
   },
   {
     "cat": "Tech",
@@ -727,32 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/desi-bling-show-controversy-of-tabinda-sanpal-said-her-husband-satis-sanpal-party-with-different-girls-479150 ",
     "time": "2026-05-25T03:11:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હોર્મુઝ ખુલશે ! ઈરાન-અમેરિકા યુદ્ધ અંગે ગણતરીના કલાકોમાં મળશે &amp;#039;ગુડ ન્યૂઝ&amp;#039;... માર્કો રુબિયોની ભારતથી મોટી જાહેરાત",
-    "desc": "માર્કો રુબિયોએ તેમની ભારત મુલાકાત દરમિયાન એક મોટી જાહેરાત કરી છે. ઈરાન અને અમેરિકા વચ્ચે ચાલી રહેલા યુદ્ધ અંગે તેમણે કહ્યું કે ટૂંક સમયમાં જ દુનિયાને ગુડ ન્યૂઝ સાંભળવા મળશે. આ નિવેદન ખાસ કરીને મહત્વપૂર્ણ છે કારણ કે, રુબિયો પહેલા ડોનાલ્ડ ટ્રમ્પે પણ આવું જ નિવેદન આપ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-fm-marco-rubio-big-announcement-on-us-iran-war-and-strait-of-hormuz-479124 ",
-    "time": "2026-05-24T11:22:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બચ્ચન પરિવારના આ નિવેદનથી નારાજ હતા ઇન્દિરા ગાંધી, રાજીવ ગાંધીની હત્યા પછી આ કારણે બંને પરિવારોમાં પડી તિરાડ !",
-    "desc": "ઇન્દિરા ગાંધીની હત્યા પછી રાજીવના કહેવા પર અમિતાભ બચ્ચન રાજકારણમાં પ્રવેશ્યા હતા. જો કે, રાજકારણમાં તેમનો પ્રભાવ લાંબો સમય ટકી શક્યો નહીં, અને તેમણે કાયમ માટે રાજકારણ છોડી દીધું. પાછળથી, બંને પરિવારો વચ્ચેના સંબંધોમાં ખટાશ આવી ગઈ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/indira-gandhi-was-upset-with-this-statement-about-the-bachchan-family-rift-between-both-the-families-479108 ",
-    "time": "2026-05-24T10:42:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ત્રણ વાર રિજેક્ટ થયું હતું આ સુપરહિટ વરસાદી ગીત, સેન્સર બોર્ડે અશ્લીલ ગણાવ્યું હતું, છતાં આજે પોપ્યુલર છે",
-    "desc": "બોલિવુડમાં અનેક ગીતો આવ્યા અને ગયા, પરંતું કેટલાક ગીતો જ લોકોને પસંદ આવે છે. તેમાંથી એક ગીત છે ‘ડમ ડમ ડીગા ડીગા, મોસમ ભીગા ભીગા...’ શું તમને ખબર છે આ ગીત અનેકવાર રિજેક્ટ થયું છે, આખરે કેવી રીતે સેન્સર બોર્ડ દ્વારા રિજેક્ટ કરાયેલું ગીત સ્ક્રીન પર પહોંચ્યું, જાણો",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/why-was-dum-dum-diga-diga-rejected-by-censor-board-479082 ",
-    "time": "2026-05-24T07:46:22.000Z"
   }
 ];
