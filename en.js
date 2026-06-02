@@ -1,5 +1,239 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Five new judges join Supreme Court following increase in sanctioned strength",
+    "desc": "The appointments come shortly after the Union government increased the court’s sanctioned strength from 33 to 37 judges, excluding the CJI; the latest round of elevations is also expected to balance regional representation and enhance gender diversity on the Bench",
+    "img": "https://th-i.thgim.com/public/incoming/3utqqf/article71054479.ece/alternates/LANDSCAPE_1200/PTI06_02_2026_000084B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chief-justice-of-india-surya-kant-new-judges-to-supreme-court/article71050982.ece",
+    "time": "2026-06-02T20:30:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Veer Chotrani",
+    "desc": "After quietly climbing to World No. 40, the Mumbai lad has his eyes fixed on the Asian Games singles gold; the 24-year-old, who is the second highest-ranked men’s player in the country, feels he can improve further by working on the mental and physical aspects of his game",
+    "img": "https://th-i.thgim.com/public/incoming/rv2w0p/article71054471.ece/alternates/LANDSCAPE_1200/Veer%20Chotrani%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/i-know-i-am-not-far-away-from-the-top-veer-chotrani/article71054468.ece",
+    "time": "2026-06-02T20:28:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's AI advantage needs better articulation",
+    "desc": "Citi's Vis Raghavan notes muted FDI in India due to energy dependency and AI uncertainty, despite strong domestic sentiment. He highlights the need for India to articulate its AI-driven global economy position, emphasizing its cost advantage in compute and potential as a global AI hub.",
+    "img": "https://static.toiimg.com/photo/msid-131471153,imgsize-32384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/citi-indias-ai-advantage-needs-better-articulation/articleshow/131471152.cms",
+    "time": "2026-06-02T20:14:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oyo gets nod, Coke eyes listing of bottler's parent",
+    "desc": "Despite challenging global markets, several major Indian companies are pushing ahead with IPO plans. Oyo's parent, Prism, received regulatory approval for a Rs 6,650 crore offering. Coca-Cola is also exploring a $1 billion listing for its Indian bottling arm, Hindustan Coca-Cola Holdings, in 2027. Other notable firms like Zepto and Manipal Hospitals are also preparing to go public.",
+    "img": "https://static.toiimg.com/photo/msid-131471144,imgsize-27544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ipo-plans-oyo-gets-nod-coke-eyes-listing-of-bottlers-parent/articleshow/131471139.cms",
+    "time": "2026-06-02T20:08:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "High costs dampen summer for beverage companies",
+    "desc": "Companies are facing rising costs for both cans and glass bottles this summer, impacting beer and soft drink manufacturers. Supply disruptions from West Asia for aluminium cans and increased LPG costs have led to price hikes of 15-20% for packaging. Distributors anticipate a Rs 10 price increase for 300 ml Diet Coke cans.",
+    "img": "https://static.toiimg.com/photo/msid-131471129,imgsize-2223498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/high-costs-dampen-summer-for-beverage-companies/articleshow/131471123.cms",
+    "time": "2026-06-02T20:03:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Producer price index, revised wholesale price index set to come on June 15",
+    "desc": "India is set to introduce a Producer Price Index (PPI) on June 15, alongside a revised Wholesale Price Index (WPI). The government plans to phase out WPI within five years, adopting PPI as the primary measure for factory gate inflation. This move aligns India with global standards, offering a more comprehensive inflation metric.",
+    "img": "https://static.toiimg.com/photo/msid-131471115,imgsize-120996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/producer-price-index-revised-wholesale-price-index-set-to-come-on-june-15/articleshow/131471109.cms",
+    "time": "2026-06-02T19:57:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CCPA slaps Rs 5 lakh penalty on PhysicsWallah over ‘dark patterns’",
+    "desc": "PhysicsWallah has been fined ₹5 lakh by the CCPA for employing 'dark patterns' on its platform. The edtech firm allegedly auto-selected donations during checkout, collecting ₹2.5 crore from users without explicit consent. Concerns were also raised about inaccessible 'free courses' requiring personal data, impacting young consumers.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ccpa-slaps-rs-5-lakh-penalty-on-physicswallah-over-dark-patterns/articleshow/131471102.cms",
+    "time": "2026-06-02T19:52:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre to build Ring Road, Bypass projects only with states' share of fund",
+    "desc": "The Centre will fund urban decongestion projects on national highways only if states contribute financially, as per the new Urban Congestion Policy. Projects will be fully access-controlled, 4-lane corridors with closed tolling. States can contribute through land acquisition cost sharing, GST reimbursement, land pooling, or value capture mechanisms.",
+    "img": "https://static.toiimg.com/photo/msid-131471093,imgsize-81290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/centre-to-build-ring-road-bypass-projects-only-with-states-share-of-fund/articleshow/131471095.cms",
+    "time": "2026-06-02T19:49:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'You cannot stop someone's livelihood': Nikhil on Ranveer row",
+    "desc": "The ongoing dispute between Ranveer Singh and Excel Entertainment over Don 3, which recently led to the Federation of Western India Cine Employees (FWICE) issuing a non-cooperation directive against the actor, has sparked debate across the film industry. Producer and actor Nikhil Dwivedi has now weighed in on the controversy, saying that while industry bodies play an important role in mediation, contractual disputes should ultimately be resolved through legal channels.",
+    "img": "https://static.toiimg.com/photo/msid-131471088,imgsize-54734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-cannot-stop-someones-livelihood-nikhil-dwivedi-questions-fwices-non-cooperation-directive-against-ranveer-singh-in-don-3-dispute/articleshow/131471080.cms",
+    "time": "2026-06-02T19:47:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BMRCL to induct two more trains on Yellow Line from June 3, improve frequency",
+    "desc": "The Yellow Line connects R.V. Road and Bommasandra and has witnessed growing ridership since its launch. However, the pace of train induction has remained slow, resulting in overcrowded trains and inconvenience to commuters on the corridor.",
+    "img": "https://th-i.thgim.com/public/incoming/cptx82/article71054455.ece/alternates/LANDSCAPE_1200/2026-05-27T024203Z_1286926940_RC2P6LA2YU4K_RTRMADP_3_INDIA-SUMMIT-GCC-EVOLUTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bmrcl-to-induct-two-more-trains-on-yellow-line-from-june-3-improve-frequency/article71054171.ece",
+    "time": "2026-06-02T19:24:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three cloudbursts trigger flash floods, road blockades in J&amp;K's Kishtwar &amp; Doda",
+    "desc": "Cloudbursts hit Jammu and Kashmir's Kishtwar and Doda districts on Tuesday. Flash floods and landslides followed, blocking the Kishtwar-Jammu highway. Several roads were also affected. No casualties or property damage were reported. Authorities launched restoration operations and issued advisories. Emergency teams remain on alert.",
+    "img": "https://static.toiimg.com/photo/msid-131470629,imgsize-416734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/three-cloudbursts-trigger-flash-floods-road-blockades-in-jks-kishtwar-doda/articleshow/131470628.cms",
+    "time": "2026-06-02T19:08:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shots fired outside Khan Sir's coaching centre; rivalry angle suspected",
+    "desc": "Shots were fired outside educator Khan Sir's coaching institute in Patna, injuring a security guard. The incident is suspected to be linked to rivalries between local coaching institute operators. The injured guard is receiving medical treatment, and authorities are gathering statements to further investigate the physical assault.",
+    "img": "https://static.toiimg.com/photo/msid-131470828,imgsize-39348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/patna-shots-fired-outside-khan-sirs-coaching-centre-rivalry-angle-suspected/articleshow/131470833.cms",
+    "time": "2026-06-02T19:05:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CISF jawan injured in accidental firing at Jammu railway station",
+    "desc": "A CISF jawan, Jaswinder Singh, sustained a foot injury due to accidental firing of his INSAS rifle at Jammu Tawi railway station on Tuesday. The incident occurred while he was on duty within the station premises. He was promptly taken to a hospital and is reported to be in stable condition.",
+    "img": "https://static.toiimg.com/photo/msid-131470559,imgsize-12792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cisf-jawan-injured-in-accidental-firing-at-jammu-railway-station/articleshow/131470558.cms",
+    "time": "2026-06-02T18:49:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh talks talk of the town in Kashmir; Mehbooba gives unity call in letter to Omar",
+    "desc": "Former J&K CM Mehbooba Mufti urged political parties and civil society to unite for dialogue with the central government, drawing inspiration from Ladakh's successful engagement. She called for an all-party meeting to address the region's despair and uncertainty, emphasizing the need for a broad consensus post-2019.",
+    "img": "https://static.toiimg.com/photo/msid-131470501,imgsize-38800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ladakh-talks-talk-of-the-town-in-kashmir-mehbooba-gives-unity-call-in-letter-to-omar/articleshow/131470449.cms",
+    "time": "2026-06-02T18:44:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Onion farmers stage protest for third time, demand MSP of ₹3000",
+    "desc": "Farmers wore onion garlands and blocked the highway in the Ambegaon taluka of the Pune district. They demanded a guaranteed price of ₹3,000 per quintal and compensation for farmers who sold their produce at a lower rate.",
+    "img": "https://th-i.thgim.com/public/incoming/cdnwqk/article71054417.ece/alternates/LANDSCAPE_1200/2026-04-23T010858Z_1438792097_RC2JPKAWM52Q_RTRMADP_3_INDIA-DIGITAL-CURRENCY-WELFARE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/onion-farmers-stage-protest-for-third-time-demand-msp-of-3000/article71052204.ece",
+    "time": "2026-06-02T18:37:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bring in a new format without disrupting the existing system, says Prakash Padukone",
+    "desc": "Try both, like you have T20 cricket, 50-over matches and Tests. Why can’t we do that in badminton? It has been played for 15 to 20 years and people are used to it, says Prakash Padukone",
+    "img": "https://th-i.thgim.com/public/incoming/anplzu/article71054367.ece/alternates/LANDSCAPE_1200/10510_19-2-2019_17-4-49_3_PRAKASHPADUKONE_13.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/bring-in-a-new-format-without-disrupting-the-existing-system-says-prakash-padukone/article71053552.ece",
+    "time": "2026-06-02T17:52:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Contracts of nearly 150 ISL players expire, including some in current national team",
+    "desc": "The contracts of these players ended on Sunday and there has been uncertainty all around as the tussle between the All India Football Federation (AIFF) and the clubs continue over the future of the ISL next season.",
+    "img": "https://th-i.thgim.com/public/incoming/qemmx/article71054352.ece/alternates/LANDSCAPE_1200/PTI05_21_2026_000522B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/contracts-of-nearly-150-isl-players-expire-including-some-in-current-national-team/article71054345.ece",
+    "time": "2026-06-02T17:42:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBSE portal for re-evaluation faces glitches on first day; Aadhaar authentication made mandatory",
+    "desc": "The CBSE opened the portal on June 2, to enable applications for verification of issues observed in the scanned copies of answer sheets it had provided, and re-evaluation of answers; the portal would remain open till the midnight of June 6, the Board said.",
+    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/ga6snw/article71054230.ece/alternates/LANDSCAPE_1200/HJZDiUEbgAA_Qea.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/cbse-portal-for-re-evaluation-faces-glitches-on-first-day-aadhaar-authentication-made-mandatory/article71053717.ece",
+    "time": "2026-06-02T17:40:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MEA in response to Nepal PM while hosting country’s ruling party chief",
+    "desc": "MEA spokesperson responds to claims made by Balen Shah who had asserted that the boundary issue is a complex one with both India and Nepal having possession of each other’s territory and had sought intervention of the U.K. and China",
+    "img": "https://th-i.thgim.com/public/incoming/drz7o6/article71052699.ece/alternates/LANDSCAPE_1200/INDIA%20NEPAL%20BORDER_7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/no-role-for-any-third-parties-in-resolution-of-india-nepal-border-issue-mea/article71052660.ece",
+    "time": "2026-06-02T17:32:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "It is not just songs, Ilaiyaraaja is also integral to Manjanathi, says Mari Selvaraj",
+    "desc": "“Whenever the name Manjanathi came to my mind, I thought of adapting it into a film. Even then, I had decided that maestro Ilaiyaraaja should compose the music. When I met him and narrated the story, he agreed to score it,” the director said.",
+    "img": "https://th-i.thgim.com/public/latest-news/mth35a/article71054305.ece/alternates/LANDSCAPE_1200/IMG_1283.JPG.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/it-is-not-just-songs-ilaiyaraaja-is-also-integral-tomanjanathi-says-mari-selvaraj/article71054340.ece",
+    "time": "2026-06-02T17:31:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Bryan Cranston",
+    "desc": "Bryan Cranston, celebrated for his 'Breaking Bad' role, shares profound insights on how life's trials forge character. He believes adversity either strengthens individuals or exposes their vulnerabilities, leading to either resilience or breakdown. Cranston's philosophy, detailed in his memoir 'A Life in Parts,' emphasizes that our true mettle is revealed when facing pressure and making critical decisions.",
+    "img": "https://static.toiimg.com/photo/msid-131468370,imgsize-16428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-bryan-cranston-character-is-both-formed-and-revealed-when-we-are-testedunder-pressure/articleshow/131468454.cms",
+    "time": "2026-06-02T17:18:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel arms exports hit another all-time high: Ministry",
+    "desc": "\"Israel's all-time defence export record has been broken for the fifth consecutive year, with $19.2 billion in 2025 — a nearly 30% surge compared to the previous year, more than doubling in five years and quadrupling in a decade,\" says Defence Ministry",
+    "img": "https://th-i.thgim.com/public/incoming/ke676/article71054262.ece/alternates/LANDSCAPE_1200/2026-05-20T101703Z_1210285587_RC2XCLA8LCX4_RTRMADP_3_ISRAEL-PALESTINIANS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israel-arms-exports-hit-another-all-time-high-ministry/article71054235.ece",
+    "time": "2026-06-02T17:13:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India, UK work to resolve trade pact hurdles as CETA rollout faces delays",
+    "desc": "India and the UK are addressing key issues delaying the Comprehensive Economic and Trade Agreement (CETA) implementation, including Britain's steel safeguard measure and carbon border adjustment mechanism. These concerns could lead India to rebalance duty concessions on British products like Scotch whisky, impacting bilateral trade.",
+    "img": "https://static.toiimg.com/photo/msid-131468333,imgsize-818281.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-uk-work-to-resolve-trade-pact-hurdles-as-ceta-rollout-faces-delays/articleshow/131468256.cms",
+    "time": "2026-06-02T17:03:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pope names first lay woman to head Vatican department",
+    "desc": "Maria Montserrat Alvarado, currently president of the Catholic media outlet EWTN News, will take up her post on November 1, the Vatican said in a statement. She was born in Mexico City and studied in the United States",
+    "img": "https://th-i.thgim.com/public/incoming/ph7qi7/article71054225.ece/alternates/LANDSCAPE_1200/2026-05-30T175858Z_1261399331_RC2TJLA4C5E7_RTRMADP_3_POPE-ROSARY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pope-names-first-lay-woman-to-head-vatican-department/article71054176.ece",
+    "time": "2026-06-02T16:53:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian students top UK higher educational applications, says official",
+    "desc": "Inaugurating the Tirupati branch of Academic Overseas Private Limited, UK Deputy High Commissioner (Andhra Pradesh and Telangana) says several of the prestigious universities in the UK continue to rank among the top institutions in the world",
+    "img": "https://th-i.thgim.com/public/incoming/31vqz4/article71054216.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-02%20at%2016.10.17.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/indian-students-top-uk-higher-educational-applications-says-official/article71053355.ece",
+    "time": "2026-06-02T16:50:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika gets emotional at family wedding, Ranveer joins rituals",
+    "desc": "Deepika Padukone and Ranveer Singh are winning hearts online after unseen pictures from a recent family wedding surfaced on social media. The photographs capture the star couple celebrating with relatives, participating in traditional ceremonies and sharing special moments with the newlyweds. The wedding photos come at a special time for the couple, who recently announced that they are expecting their second child.",
+    "img": "https://static.toiimg.com/photo/msid-131467522,imgsize-152914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-gets-emotional-at-family-wedding-as-she-and-ranveer-singh-attend-celebrations-amid-second-pregnancy-announcement/articleshow/131467479.cms",
+    "time": "2026-06-02T16:18:20.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Not Harrison Ford but Tom Selleck was first choice for Indiana Jones",
     "desc": "Tom Selleck was the first choice for Indiana Jones. Steven Spielberg and George Lucas selected him. However, a contract for his TV show 'Magnum P.I.' prevented him from taking the part. Harrison Ford then stepped in. This decision led to a legendary film franchise. The series began in 1981 and continues to this day.",
@@ -27,15 +261,6 @@ const newsData_en = [
     "time": "2026-06-02T15:47:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tamil Nadu BJP leader K. Annamalai meets Amit Shah",
-    "desc": "Several media reports claimed that Mr. Annamalai also met BJP president Nitin Nabin and party national general secretary B.L. Santhosh, and tendered his resignation from the party, but there was no official confirmation on this",
-    "img": "https://th-i.thgim.com/public/incoming/7ldc5l/article71053467.ece/alternates/LANDSCAPE_1200/PTI06_02_2026_RPT155B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bjp-leader-k-annamalai-meets-amit-shah/article71053387.ece",
-    "time": "2026-06-02T15:33:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ranveer, Aditya took smaller fees and benefited from backend deals",
     "desc": "Revenge together earning more than Rs 3,000 crore worldwide. But according to producer Jyoti Deshpande, the journey to creating one of Indian cinema's biggest franchises was far from straightforward. She revealed how the makers navigated ballooning budgets, reimagined the project as a two-part saga midway through production, and adopted a unique risk-sharing model involving lead star Ranveer Singh and director Aditya Dhar.",
@@ -54,15 +279,6 @@ const newsData_en = [
     "time": "2026-06-02T15:26:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Film bodies in Kerala raise issues including ‘double taxation’ in meeting with Culture Minister",
-    "desc": "Another demand is for giving industry status to Malayalam film industry, which can make it eligible for various concessions. Minister says government will also consider demand for implementation of a single window system for clearances related to film shooting",
-    "img": "https://th-i.thgim.com/public/incoming/6y730l/article71053449.ece/alternates/LANDSCAPE_1200/NH02FilmIndustry04.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/film-bodies-in-kerala-raise-issues-including-double-taxation-in-meeting-with-culture-minister/article71053442.ece",
-    "time": "2026-06-02T15:25:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dinesh Vijan takes a dig at Shahid Kapoor's love life before he married Mira",
     "desc": "The trailer launch of 'Cocktail 2' saw actors Kriti Sanon and Rashmika Mandanna discuss first love and love triangles. Producer Dinesh Vijan humorously alluded to Shahid Kapoor's past relationships, calling them a 'hexagon,' to which Shahid wittily responded it was a 'circle.'",
@@ -79,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/a-historic-moment-for-indian-football-fans-shashi-tharoor-celebrates-as-indian-origin-duo-set-to-feature-at-fifa-world-cup-2026/articleshow/131466684.cms",
     "time": "2026-06-02T15:20:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Make Godavari Pushkarams in 2027 a landmark spiritual and cultural event, says Chief Minister Chandrababu Naidu",
-    "desc": "The Godavari basin, which hosts numerous ancient temples and sacred sites, offers immense potential for attracting devotees and visitors from across the country and abroad, he says; the government has already sanctioned 132 development works at an estimated cost of ₹211.97 crore for the mega congregation",
-    "img": "https://th-i.thgim.com/public/incoming/1n864m/article71053757.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-02%20at%2018.37.34.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/make-godavari-pushkarams-in-2027-a-landmark-spiritual-and-cultural-event-says-chief-minister-chandrababu-naidu/article71053410.ece",
-    "time": "2026-06-02T15:07:24.000Z"
   },
   {
     "cat": "Business",
@@ -162,15 +369,6 @@ const newsData_en = [
     "time": "2026-06-02T13:59:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How Ilaiyaraaja scored hits for debutant directors for free",
-    "desc": "On his birthday, a heartwarming story reveals Ilaiyaraaja's extraordinary generosity. The legendary composer often waived his fees for debutant directors, including P. Vasu and Manivannan, helping them launch their careers. His association with their films became a powerful promotional tool, solidifying his role in shaping new talent.",
-    "img": "https://static.toiimg.com/photo/msid-131465483,imgsize-67914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ilaiyaraaja-birthday-special-how-the-maestro-scored-breakthrough-hits-for-debutant-directors-for-free/articleshow/131465470.cms",
-    "time": "2026-06-02T13:44:41.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'No role for third parties': India's clear message to Nepal after PM Balen Shah calls for UK, China intervention",
     "desc": "India has firmly rejected any third-party involvement in resolving its boundary dispute with Nepal, asserting that bilateral mechanisms are in place. This response follows Nepal's Prime Minister's suggestion to include China and the UK in discussions. While most of the border is demarcated, unresolved segments and land usage issues persist.",
@@ -189,33 +387,6 @@ const newsData_en = [
     "time": "2026-06-02T13:12:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kangana plays nurse in 26/11 thriller",
-    "desc": "Kangana Ranaut plays a brave nurse in 'Bharat Bhagya Vidhata', inspired by the true story of hospital staff at Mumbai's Cama and Albless hospitals who saved nearly 400 patients during the 26/11 terror attacks. Directed by Manoj Taparia, the film releases on June 12th alongside three other major releases.",
-    "img": "https://static.toiimg.com/photo/msid-131464906,imgsize-10252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bharat-bhhagya-viddhaata-trailer-kangana-ranaut-plays-a-brave-nurse-in-edge-of-the-seat-26/11-thriller-that-honours-unsung-heroes-who-saved-400-lives-at-cama-hospital/articleshow/131464906.cms",
-    "time": "2026-06-02T13:10:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Janhvi Kapoor left shocked as fan breaches security at 'Peddi' event",
-    "desc": "A fan breached security at the 'Peddi' film launch, approaching Ram Charan and startling Janhvi Kapoor. Security intervened forcefully. Ram Charan then stepped in, speaking to the fan and ensuring his well-being. This calm reaction from the actor has earned widespread praise online. The incident highlights security concerns and the actor's respectful approach to fans.",
-    "img": "https://static.toiimg.com/photo/msid-131464777,imgsize-115840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/janhvi-kapoor-left-shocked-as-fan-breaches-security-at-peddi-event-ram-charans-calm-reaction-wins-internets-respect-watch/articleshow/131464681.cms",
-    "time": "2026-06-02T13:02:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bobby recalls refusing intimate scene with Manisha in Gupt",
-    "desc": "Bobby Deol recently recalled fun memories with his co-stars. He spoke about stomach-talk irritating Twinkle Khanna, fighting over hair with Rani Mukerji, nicknaming Preity Zinta \"Pritam Singh,\" and getting put off by onions during a scene with Manisha Koirala. Bobby next appears in Anurag Kashyap's 'Bandar', releasing June 5.",
-    "img": "https://static.toiimg.com/photo/msid-131464452,imgsize-26052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-recalls-refusing-intimate-scene-with-manisha-koirala-in-gupt-says-she-ate-so-many-onions/articleshow/131464452.cms",
-    "time": "2026-06-02T12:43:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sindhu advances at Indonesia Open; Lakshya, Srikanth crash out",
     "desc": "PV Sindhu battled past Thailand's Busanan Ongbamrungphan 25-23, 21-16 to reach the second round of the Indonesia Open and is likely to face world No. 1 An Se-young next. It was otherwise a disappointing day for India, with Kidambi Srikanth, Lakshya Sen, Malvika Bansod, Treesa-Gayatri, and Dhruv-Tanisha exiting, while Hariharan Amsakarunan and MR Arjun advanced.",
@@ -232,24 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/mozambique-says-people-killed-in-south-africa-xenophobic-attacks/article71051282.ece",
     "time": "2026-06-02T12:29:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Toy Story 5': Cast talks about children's phone addiction",
-    "desc": "Tom Hanks and Tim Allen, stars of the upcoming 'Toy Story 5,' shared concerns about children's mobile phone addiction. Hanks described the \"terror\" of seeing the blue glow of screens, while Allen noted how younger generations struggle with traditional storytelling due to short attention spans. The film's plot will reportedly feature a frog-shaped tablet rivaling the beloved toys.",
-    "img": "https://static.toiimg.com/photo/msid-131464050,imgsize-37498.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/toy-story-5-cast-talks-about-childrens-phone-addiction-tom-hank-says-strike-terror-into-the-heart/articleshow/131464069.cms",
-    "time": "2026-06-02T12:26:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Data vs. dahi-chini: Why AI can code your life, but only your mom can decode your face",
-    "desc": "AI offers structured advice for life's challenges, processing vast data to simulate reasoning. However, a mother's instinct, honed over decades, provides a deeper, more personal form of comfort and guidance. This contrast highlights the irreplaceable nature of maternal love and understanding in navigating everyday crises.",
-    "img": "https://static.toiimg.com/photo/msid-131463661,imgsize-1316661.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ai-vs-moms-who-really-understands-you-better/articleshow/131463464.cms",
-    "time": "2026-06-02T12:23:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -288,15 +441,6 @@ const newsData_en = [
     "time": "2026-06-02T12:02:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karnataka CM-designate Shivakumar, Siddaramaiah hold high-level meet with Kharge, Rahul over Cabinet plan",
-    "desc": "Congress leaders met in Delhi to finalise the Karnataka Cabinet. DK Shivakumar and Siddaramaiah discussed ministerial berths and deputy chief minister posts. The swearing-in ceremony for the new Chief Minister is scheduled for Wednesday. The party aims to form a stable government. Discussions are ongoing to finalize the complete list of ministers.",
-    "img": "https://static.toiimg.com/photo/msid-131463452,imgsize-35310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/karnataka-cm-designate-shivakumar-siddaramaiah-hold-high-level-meet-with-kharge-rahul-over-cabinet-plan/articleshow/131463032.cms",
-    "time": "2026-06-02T11:58:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Sooryavanshi combined Kohli &amp; Gayle to produce greatest IPL season",
     "desc": "If the question is which batter produced the most extreme combination of volume, speed and power across a single IPL season, the evidence points overwhelmingly in one direction. The IPL has seen bigger run tallies. It has seen cleaner six-hitters. What it had never seen before 2026 was a player score nearly 800 runs while striking at 237 and smashing 72 sixes. For 18 seasons, volume and violence existed separately. Vaibhav Sooryavanshi merged them, and that is why his IPL campaign 2026 may be one of the greatest batting seasons ever.",
@@ -313,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-chakraborty-reached-out-to-aryan-khan-during-his-drug-case-when-i-saw-what-he-was-going-through-it-took-me-back/articleshow/131462634.cms",
     "time": "2026-06-02T11:27:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Power consumption in May rose nearly 11% year-on-year",
-    "desc": "India's electricity consumption surged by nearly 11% in May year-on-year, fueled by intense heatwaves that drove up air conditioner usage. Peak demand reached an all-time high of 270.8 GW on May 21. Despite a subsequent decline, high power demand is anticipated to continue into June due to El Niño conditions.",
-    "img": "https://static.toiimg.com/photo/msid-131462760,imgsize-725406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/power-consumption-in-may-rose-nearly-11-year-on-year/articleshow/131462651.cms",
-    "time": "2026-06-02T11:27:13.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +594,6 @@ const newsData_en = [
     "time": "2026-06-02T04:57:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "US GM skips league for team event; aims to do justice to Olympiad",
-    "desc": "Chess prodigy Wesley So prioritizes the Olympiad over the Global Chess League, citing a desire to dedicate himself fully to team events. Having represented both the Philippines and the USA, So's decision reflects his commitment to the sport's traditional team format. He expressed hope that fellow American Hikaru Nakamura would also participate in the Olympiad.",
-    "img": "https://static.toiimg.com/photo/msid-131454727,imgsize-70188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/wesley-so-chooses-olympiad-over-global-chess-league/articleshow/131454727.cms",
-    "time": "2026-06-02T04:50:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude rises amid uncertainty over US-Iran negotiations and Hormuz reopening",
     "desc": "Oil prices saw a slight uptick as US-Iran talks and the potential reopening of the Strait of Hormuz created market jitters. Conflicting signals from Washington and Tehran fueled uncertainty, with traders closely watching any progress or breakdown in negotiations. Developments around the crucial energy route remain a key focus, impacting global supply routes and risk sentiment.",
@@ -495,15 +621,6 @@ const newsData_en = [
     "time": "2026-06-02T03:14:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stock market recommendations for June 2, 2026",
-    "desc": "Infosys has been recommended as a top buy call by Somil Mehta, Head of Retail Research at Mirae Asset ShareKhan on June 2, 2026. The expert has recommended DLF, and Cholamandalam Investment and Finance Company as sell calls. Target prices, stop loss and ranges have been shared.",
-    "img": "https://static.toiimg.com/photo/msid-131453420,imgsize-88140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-june-02-2026-dlf-infosys-cholamandalam-investment-and-finance-company-stocks-to-buy-or-sell-today/articleshow/131453384.cms",
-    "time": "2026-06-02T02:55:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump says Netanyahu agreed not to send troops to Beirut",
     "desc": "Likewise, through highly placed Representatives, I had a very good call with Hezbollah, and they agreed that all shooting will stop -- That Israel will not attack them, and they will not attack Israel, says U.S. President Donald Trump",
@@ -520,33 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-court-blocks-pentagon-from-removing-transgender-troops-for-now/article71050242.ece",
     "time": "2026-06-01T23:24:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India reviews duty sop on Scotch in UK trade deal",
-    "desc": "India is reviewing tariff concessions on Scotch and other goods in its trade deal with the UK. This action is contingent on the UK addressing India's concerns regarding steel quotas and duties. UK Trade Secretary Peter Kyle is set to meet with India's Commerce and Industry Minister Piyush Goyal to resolve this deadlock.",
-    "img": "https://static.toiimg.com/photo/msid-131450047,imgsize-72332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-reviews-duty-sop-on-scotch-in-uk-trade-deal/articleshow/131450046.cms",
-    "time": "2026-06-01T20:14:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oman offers to up petchem, fertiliser supply as FTA kicks in",
-    "desc": "India and Oman have launched a free trade agreement, enabling concessional or zero tariffs on a vast majority of goods. Oman also offered a food security pact, willing to supply more fertilizer and petrochemicals to India. The agreement includes visa benefits for Indian workers and faster pharmaceutical approvals.",
-    "img": "https://static.toiimg.com/photo/msid-131450041,imgsize-53382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/oman-offers-to-up-petchem-fert-supply-as-fta-kicks-in/articleshow/131450031.cms",
-    "time": "2026-06-01T20:07:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "UPI transactions near 30L cr, increase 19%",
-    "desc": "Digital payments are booming as UPI transactions hit 2,320 crore in May, a significant jump from April. This surge reflects a robust 24% year-on-year volume growth. Meanwhile, National Electronic Toll Collection also saw a healthy month-on-month increase in both transaction numbers and value, indicating continued digital adoption across various payment platforms.",
-    "img": "https://static.toiimg.com/photo/msid-131450022,imgsize-37860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-transactions-near-30l-cr-increase-19/articleshow/131450021.cms",
-    "time": "2026-06-01T20:04:30.000Z"
   },
   {
     "cat": "Sports",
@@ -628,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/eng-vs-ind-3rd-wt20i-india-look-for-better-effort-from-middle-order-batters-in-series-decider/article71048408.ece",
     "time": "2026-06-01T13:09:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "French Navy, backed by U.K., intercepted sanctioned tanker from Russia: French President Emmanuel Macron",
-    "desc": "France, with support from the U.K., intercepted a Russian-linked oil tanker in the Atlantic Ocean, stepping up efforts to enforce sanctions and disrupt the “shadow fleet” used by Moscow to sustain oil exports and finance its war in Ukraine",
-    "img": "https://th-i.thgim.com/public/incoming/zh3yok/article71048125.ece/alternates/LANDSCAPE_1200/France_Russia_Tanker_Intercepted_39961.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/france-intercepts-russian-oil-tanker-shadow-fleet-sanctions/article71048086.ece",
-    "time": "2026-06-01T12:43:59.000Z"
   },
   {
     "cat": "Sports",
@@ -817,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

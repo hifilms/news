@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "R Ashwin slams five-time IPL champions for dismal auction strategy after subpar season",
+    "desc": "The IPL (Indian Premier League) 2026 concluded with Royal Challengers Bengaluru winning their second straight title. The likes of Sunrisers Hyderabad, Rajasthan Royals, and Gujarat Titans managed to reach the knockout stages of the tournament. One...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-slams-five-time-ipl-champions-for-dismal-auction-strategy-after-subpar-season-2026-06-02-1043416",
+    "time": "2026-06-02T18:22:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Two spinners for sure': Former India cricketer picks his optimal India XI for one-off Test against AFG",
+    "desc": "The Indian team is all set to take on Afghanistan in a one-off Test match. The two sides will take on each other across one Test and three ODI matches, with the series kicking off...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/two-spinners-for-sure-former-india-cricketer-picks-his-optimal-india-xi-for-one-off-test-against-afg-2026-06-02-1043412",
+    "time": "2026-06-02T17:49:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Extra factor of motivation': Ruben Dias opens up on desire of lifting FIFA World Cup 2026 for Ronaldo",
+    "desc": "The FIFA World Cup 2026 is all set to kick off on June 11th, and 48 sides will be in the running to get their hands on the prestigious title. With the competition right around...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/extra-factor-of-motivation-ruben-dias-opens-up-on-desire-of-lifting-fifa-world-cup-2026-for-ronaldo-2026-06-02-1043407",
+    "time": "2026-06-02T16:35:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England name XII for Lord's Test against New Zealand, Emilio Gay set to make Test debut",
     "desc": "With England all set to take on New Zealand in the first Test of the upcoming series, the ECB (England and Wales Cricket Board) came forward and announced England’s playing XII for the Lord’s Test....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/not-dhoni-or-rohit-these-three-players-have-won-hat-trick-of-ipl-titles-two-indians-on-list-2026-06-02-1043352",
     "time": "2026-06-02T09:19:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Auqib Nabi picked to bowl in nets along with six others ahead of India's one-off Test against Afghanistan",
-    "desc": "Auqib Nabi has been picked to bowl in India's nets ahead of the upcoming one-off Test against Afghanistan, a BCCI source revealed. Nabi's non-selection from the Test squad for the Mullanpur Test had led to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-picked-to-bowl-in-nets-along-with-six-others-ahead-of-indias-one-off-test-against-afghanistan-2026-06-02-1043344",
-    "time": "2026-06-02T08:29:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which players have never won an IPL final after multiple attempts? India's T20 WC-winning vice-captain on list",
-    "desc": "The Indian Premier League 2026 drew curtains after the Royal Challengers Bengaluru lifted their second title by beating the Gujarat Titans in a one-sided final in Ahmedabad. From being chasers, RCB have turned into a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-players-have-never-won-an-ipl-final-after-multiple-attempts-indias-t20-wc-winning-vice-captain-on-list-2026-06-02-1043330",
-    "time": "2026-06-02T07:20:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Serena Williams play in Wimbledon 2026? Tennis legend announces comeback at 44 for dress-rehearsal event",
-    "desc": "Almost four years after playing her last professional singles match at the US Open 2022, tennis legend Serena Williams has announced her comeback to the sport she has dominated for nearly two decades. Williams hold...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/will-serena-williams-to-play-in-wimbledon-2026-tennis-legend-announces-comeback-at-44-2026-06-02-1043325",
-    "time": "2026-06-02T06:32:50.000Z"
   }
 ];
