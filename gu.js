@@ -1,6 +1,123 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "જે ઓફરને તમે ફ્રી માની રહ્યા છો, તે ખરેખર ખાલી કરી રહી છે તમારા ખિસ્સા ! સમજો તેની પાછળનો પુરો ખેલ",
+    "desc": "આજકાલ નવો મોબાઇલ ફોન, ટીવી કે ફ્રીજ ખરીદવું પહેલા કરતાં વધુ સરળ બની ગયું છે. ઓનલાઈન અને ઓફલાઈન કંપનીઓ ગ્રાહકોને આકર્ષવા માટે 'No Cost EMI' સ્કીમ ઓફર કરે છે. પરંતુ શું આ ઓફર ખરેખર એટલી જ ફાયદાકારક છે જેટલી દેખાય છે ? ત્યારે No Cost EMI પાછળ છુપાયેલી કડવી હકીકત વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/truth-behind-no-cost-emi-free-offer-actually-emptying-your-wallet-480262 ",
+    "time": "2026-06-03T10:50:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "માલવીય નગરના દર્દનાક અગ્નિકાંડ વિશે થયા અત્યંત ચોંકાવનારા ખુલાસા, આ માટે કોણ જવાબદાર?",
+    "desc": "દિલ્હીમાં આજે સવારે હોટલ-રેસ્ટોરન્ટમાં લાગેલી આગની ગોઝારી ઘટનામાં અત્યાર સુધીમાં 21 લોકોના મોતની પુષ્ટિ થઈ છે. આ મામલે કેટલાક એવા ખુલાસા થયા છે, બેદરકારી સામે આવી છે જેને જોતા કોણ જવાબદાર એ પ્રશ્ન ચોક્કસ ઉઠે છે. વિગતો ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/delhi-fire-shocking-revelations-about-the-tragic-fire-incident-in-malviya-nagar-480258 ",
+    "time": "2026-06-03T10:25:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનાના ભાવમાં મોટો કડાકો,ચાંદી પણ ખુબ સસ્તી થઈ, આગળ શું રહેશે સ્થિતિ? જાણો 10 ગ્રામ સોનાનો આજનો ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે જોરદાર કડાકો જોવા મળ્યો છે. વૈશ્વિક ડામાડોળ સ્થિતિના કારણે કિમતી ધાતુઓ પર દબાણ જોવા મળી રહ્યું છે. આજે સોનાના ભાવમાં 1000 રૂપિયા અને ચાંદીના ભાવમાં 3000 રૂપિયા સુધીનો કડાકો જોવા મળ્યો છે. ફટાફટ લેટેસ્ટ રેટ ખાસ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-became-cheaper-today-check-10-gram-gold-rate-aaj-no-sona-chandi-no-bhav-480256 ",
+    "time": "2026-06-03T09:59:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું RBIએ ચુપચાપ વેચી દીધું ₹1.14 લાખ કરોડનું સોનું ? સરકારનું આવ્યું પહેલું નિવેદન, જાણો",
+    "desc": "એક મીડિયા રિપોર્ટમાં દાવો કરવામાં આવ્યો છે કે RBIએ શાંતિથી 12 બિલિયન ડોલર એટલે કે આશરે 1.14 લાખ કરોડ રૂપિયાનું સોનું વેચી દીધું છે. સેન્ટ્રલ બેંકે 22 મેના રોજ પૂરા થયેલા બે અઠવાડિયામાં આ સોનું વેચી દીધું છે. સરકારે હવે આ બાબતની સ્પષ્ટતા કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/did-rbi-silently-sell-gold-worth-rs-1-14-lakh-crore-the-government-gave-its-first-statement-know-the-truth-480252 ",
+    "time": "2026-06-03T09:35:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અફઘાનિસ્તાન સામેની ODI શ્રેણી માટે કેવી હશે ભારતની પ્લેઇંગ XI ? કેપ્ટન ગિલ આ ખેલાડીઓને કરશે બહાર",
+    "desc": "IPL 2026ના સમાપન પછી ટીમ ઈન્ડિયા હવે આ મહિને અફઘાનિસ્તાન સામે એક ટેસ્ટ મેચ અને ત્રણ મેચની વનડે આંતરરાષ્ટ્રીય શ્રેણી રમવાનું છે. ભારત અને અફઘાનિસ્તાન વચ્ચે ત્રણ મેચની વનડે શ્રેણી 13 જૂનથી 20 જૂન દરમિયાન રમાશે. બંને ટીમો વચ્ચે પ્રથમ વનડે મેચ 13 જૂને ધર્મશાળાના HPCA સ્ટેડિયમ ખાતે રમાશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-afghanistan-odi-series-team-india-predicted-playing-xi-shubman-gill-480235 ",
+    "time": "2026-06-03T08:28:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 જીત્યા બાદ રજત પાટીદાર હવે આ ટીમની કરશે કેપ્ટનશીપ, વધુ એક ટ્રોફી પર રહેશે નજર",
+    "desc": "IPL 2026માં રોયલ ચેલેન્જર્સ બેંગ્લોરની ટીમે શાનદાર પ્રદર્શન કરીને સતત બે ટાઇટલ જીત્યા હતા. RCBની આ જીતનો બધો શ્રેય કેપ્ટન રજત પાટીદારને જાય છે. IPL પૂર્ણ થયા પછી હવે પાટીદાર આ આગામી ટુર્નામેન્ટમાં રમતો જોવા મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rajat-patidar-now-become-captain-of-gwalior-cheetahs-in-mpl-480233 ",
+    "time": "2026-06-03T07:28:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "શું તમે ફોનને 100% ચાર્જ કરો છો? જાણો તેના સૌથી મોટા ગેરફાયદા",
+    "desc": "જો તમે પણ તમારા ફોનને દરરોજ 100 ટકા ચાર્જ કરો છો, તો આ સમાચાર તમારા માટે ઉપયોગી છે. એક્સપર્ટના મતે, તમારા ફોનને વારંવાર ફુલ સુધી ચાર્જ કરવાથી બેટરીનું સ્વાસ્થ્ય ધીમે ધીમે બગડી શકે છે. ચાલો જાણીએ કે તમારા ફોનને ચાર્જ કરવા માટે શ્રેષ્ઠ ટકાવારી શું માનવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/do-you-charge-your-phone-to-100-percent-know-its-biggest-disadvantages-480232 ",
+    "time": "2026-06-03T07:16:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "જૂન મહિનામાં બોક્સ ઓફિસ પર રિલીઝ થશે 8 દમદાર ફિલ્મો, ચેક કરી ફિલ્મોનું લિસ્ટ",
+    "desc": "4 જૂન 2026 પછી એક પછી એક 8 ફિલ્મો બોક્સ ઓફિસ પર રિલીઝ થવાની છે. જૂન મહિનામાં એક્શન, કોમેડી, રોમાન્સ એમ દરેક પ્રકારની ફિલ્મો સિનેમા ઘરોમાં જોવા મળશે. તો તમે પણ ચેક કરી લો કઈ ફિલ્મ કઈ તારીખે રિલીઝ થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/june-2026-box-office-release-list-june-2026-hindi-movies-box-office-list-480229 ",
+    "time": "2026-06-03T07:12:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મહિલાઓને આજથી મળશે 3000 રૂપિયા, જાણો ક્યાં થઈ અન્નપૂર્ણા ભંડાર યોજનાની શરૂઆત, કઈ રીતે કરવી અરજી",
+    "desc": "પશ્ચિમ બંગાળમાં ભાજપની સરકાર તો બની ગઈ હવે વચન પૂરા કરવાની તૈયારીઓ થઈ રહી છે. રાજ્યમાં આજથી અન્નપૂર્ણા યોજના શરૂ થઈ રહી છે. જાણો યોજના હેઠળ કોને લાભ મળશે, અરજી કેવી રીતે કરવી, કયા કયા દસ્તાવેજોની જરૂર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/west-bengal-annapurna-bhandar-yojana-know-who-will-get-the-benefit-how-to-apply-480217 ",
+    "time": "2026-06-03T07:09:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઉકળી રહ્યું છે દરિયાનું પાણી, UNના આ એક નક્શાએ ગુજરાતને આપ્યું મોટું ટેન્શન",
+    "desc": "આ વખતે ચોમાસાના ચાર મહિના મોટી નવાજૂની રહે તેવા એંધાણ છે. સંયુકત રાષ્ટ્રની હવામાન એજન્સી તરફથી એક મેપ બહાર પાડવામાં આવ્યો છે જે સમગ્ર ગુજરાત સહિત ભારત માટે ચિંતા પેદા કરે તેવો છે. વિગતો ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/el-nino-update-this-one-map-of-the-un-wmo-is-big-alert-for-gujarat-as-well-as-india-480208 ",
+    "time": "2026-06-03T06:44:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આજે બદલાઈ ગયા પેટ્રોલ-ડીઝલના ભાવ ? જાણો તમારા શહેરના નવા ભાવ",
+    "desc": "બુધવાર, ૩ જૂનના રોજ પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા છે. કોઈ ફેરફાર થયો નથી. બંને ફ્યુઅલના ભાવ અગાઉના ભાવે ટ્રેડ થઈ રહ્યા છે. ત્યારે દેશના મુખ્ય શહેરોમાં આજના ભાવ શું છે, તેના પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-latest-fuel-rates-of-ahmedabad-delhi-480215 ",
+    "time": "2026-06-03T06:17:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zની Unite8 Sports ચેનલ લોન્ચ, FIFA વર્લ્ડ કપ 2026 સહિત અનેક રમતોનું થશે પ્રસારણ",
+    "desc": "માહિતી અને પ્રસારણ મંત્રાલયની મંજૂરી બાદ Zeeએ Unite8 Sports હેઠળ ચાર સ્પોર્ટ્સ ચેનલો લોન્ચ કરી છે. આ ચેનલો 500થી વધુ ડિસ્ટ્રિબ્યુશન પ્લેટફોર્મ્સ પર ઉપલબ્ધ છે અને ફૂટબોલ, ક્રિકેટ સહિત અનેક રમતોનું પ્રસારણ કરશે. 11 જૂનથી શરૂ થતા FIFA World Cup 2026નું વિશિષ્ટ પ્રસારણ પણ આ ચેનલો પર થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/zee-unite8-sports-channels-live-fifa-world-cup-2026-broadcast-india-480212 ",
+    "time": "2026-06-03T05:54:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "9 જૂનનો દિવસ ભારતના રાજકીય ઇતિહાસમાં સુવર્ણ અક્ષરે લખાશે! PM મોદી નેહરુનો આ રેકોર્ડ તોડશે!",
+    "desc": "સૌથી લાંબો સમય ચૂંટાયેલા વડાપ્રધાનનો વિક્રમ. 9 જૂને મોદી લાંબો સમય પીએમ રહેવાનો નેહરુનો રેકોર્ડ તોડશે. નેહરુ ૪,૩૯૭ દિવસ (૧૨ વર્ષ ૧૪ દિવસ) ચૂંટાયેલા પીએમ મોદી ૯ જૂને ૪,૩૯૮ દિવસ (૧૨ વર્ષ ૧૫ દિવસ) પૂરા કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/june-9-will-be-written-in-golden-letters-in-indias-political-history-pm-modi-will-break-this-record-of-nehru-480205 ",
+    "time": "2026-06-03T03:50:24.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "PF ખાતાધારકો માટે મહત્વપૂર્ણ સમાચાર! 8.25% વ્યાજ જમા કરવા પર મોટું અપડેટ, જાણો",
     "desc": "EPFOએ નાણાકીય વર્ષ 2025-26 માટે વ્યાજ દર 8.25 ટકા પર જાળવી રાખ્યો છે, પરંતુ લાખો ખાતાધારકોને હજુ સુધી તેમના ખાતામાં વ્યાજની એન્ટ્રીઓ જોવા મળી નથી. એક્સપર્ટ કહે છે કે આ એક સામાન્ય વહીવટી પ્રક્રિયા છે, કારણ કે વ્યાજ ક્રેડિટ માટે સરકારની મંજૂરી અને રેકોર્ડ અપડેટ્સની જરૂર પડે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -297,42 +414,6 @@ const newsData_gu = [
     "time": "2026-06-01T09:16:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બંગાળ સરકારમાં મંત્રી બન્યો ટીમ ઈન્ડિયાનો આ ધુરંધર... CM શુભેન્દુએ સોંપી મોટી જવાબદારી",
-    "desc": "ક્રિકેટના મેદાન પર પોતાની સ્પીડ અને આક્રમક બોલિંગથી પોતાનું નામ બનાવનાર અશોક ડિંડા હવે રાજકીય પીચ પર નવી જવાબદારી નિભાવી રહ્યા છે. અશોક ડિંડાએ બંગાળ સરકારમાં રાજ્યમંત્રી તરીકે શપથ લીધા છે, જે તેમની રાજકીય ઇનિંગ્સના સૌથી મહત્વપૂર્ણ પ્રકરણની શરૂઆત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/west-bengal-cabinet-expansion-former-cricketer-ashok-dinda-becomes-minister-479982 ",
-    "time": "2026-06-01T08:47:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કંકોત્રી અપાઈ ગઈ, હોટલ પણ બુક થઈ ગઈ... અચાનક આવ્યો એક ફોન કોલ અને બદલાઈ ગઈ RCBના કેપ્ટનની કિસ્મત",
-    "desc": "રજત પાટીદારની કહાની IPLની સૌથી ભાવુક અને યાદગાર કહાનીઓમાંની એક છે. રજત કે જેણે એક સમયે RCBમાં જોડાવા માટે પોતાના લગ્ન મુલતવી રાખ્યા હતા અને હવે તેણે ટીમના કેપ્ટન તરીકે સતત બીજી વખત ટીમને ટાઇટલ અપાવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-back-to-back-champions-captain-rajat-patidar-how-single-phone-call-changed-his-life-479978 ",
-    "time": "2026-06-01T08:00:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "નવા મહિનાના પહેલા જ દિવસે સોનાના ભાવમાં મોટો ઘટાડો, ચાંદી પણ ગગડી, 10 ગ્રામ સોનાનો ભાવ ખાસ જાણો",
-    "desc": "નવા મહિનાનો પહેલો જ દિવસ અને આજે સોનાના ભાવમાં જોરદાર કડાકો જોવા મળ્યો છે. ચાંદીના ભાવમાં ઘટાડો નોંધાયો છે. સવારે MCX પર ભાવ લાલ નિશાનમાં ખુલ્યા હતા અને રિટેલ બજારમાં પણ સોનું ગગડ્યું છે. જાણો આજના સોના અને ચાંદીના લેટેસ્ટ ભાવ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/drop-in-gold-prices-on-the-first-day-of-june-silver-also-fell-check-latest-price-aaj-no-sona-no-bhav-479975 ",
-    "time": "2026-06-01T07:21:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રજત પાટીદારે ધોની અને રોહિતની કરી બરાબરી, આ સિદ્ધિ મેળવનાર ત્રીજો કેપ્ટન બન્યો",
-    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોરે IPL 2026 ફાઇનલ જીતીને બીજી વખત ઇતિહાસ રચ્યો છે. રોયલ ચેલેન્જર્સ બેંગ્લોરે ગુજરાત ટાઇટન્સને 5 વિકેટથી હરાવ્યું હતું. આ સાથે RCBના કેપ્ટન રજત પાટીદારે સતત બીજી IPL ટ્રોફી જીતીને ધોની અને રોહિત શર્માના રેકોર્ડની બરાબરી કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rajat-patidar-joins-ms-dhoni-rohit-sharma-club-after-win-back-to-back-ipl-trophy-479970 ",
-    "time": "2026-06-01T06:48:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "10 લાખના બજેટમાં Tata Tiago EV બેસ્ટ છે કે Tata Punch EV? ખરીદતા પહેલા જાણો બંનેના ફીચર્સ",
     "desc": "શું તમે પણ વધતા પેટ્રોલ-ડીઝલના ભાવ વચ્ચે ઈલેક્ટ્રિક કાર ખરીદવાનું વિચારી રહ્યાં છો? પરંતુ પરેશાન છો કે 10 લાખના બજેટમાં Tata Tiago EV બેસ્ટ છે કે Tata Punch EV, આવો જાણીએ તમારા માટે કઈ કાર સારી રહેશે.",
@@ -342,15 +423,6 @@ const newsData_gu = [
     "time": "2026-06-01T06:18:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ક્રૂડ ઓઇલના ભાવમાં વધઘટ વચ્ચે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં શું છે આજનો ભાવ",
-    "desc": "સરકારી ઓઈલ કંપનીઓ દ્વારા આજે, 1 જૂનના રોજ દેશભરમાં પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા છે. ત્યારે પેટ્રોલ-ડીઝલના ભાવમાં કોઈ ફેરફાર થયો છે કે પછી ભાવ યથાવત છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-check-latest-fuel-rate-in-your-city-479965 ",
-    "time": "2026-06-01T06:16:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "LPG રેટ, કનેક્શન, UPI-ATM સંબંધિત નિયમો, કારો....જાણો આજથી કયા ફેરફાર અમલી થયા? ખિસ્સા પર પડશે અસર",
     "desc": "આજથી નવા મહિનાની શરૂઆત થઈ છે. આજે 1 જૂન 2026નો દિવસ છે. નવા મહિનાની શરૂઆત સાથે તમને અનેક નાણાકીય ફેરફાર જોવા મળવાના છે. ખાસ જાણો તેના વિશે કે તમારા ખિસ્સા પર તેની શું અસર થઈ શકે છે.",
@@ -358,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/big-changes-from-june-check-lpg-cylinder-rate-atm-upi-bank-new-rule-etc-479960 ",
     "time": "2026-06-01T05:50:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીએ એકલાએ જીત્યા 5 એવોર્ડ... એક ક્લિકમાં જાણો કોણે જીત્યો કયો એવોર્ડ",
-    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોરે ગુજરાત ટાઈટન્સને હરાવીને IPL 2026ની ટ્રોફી જીતી લીધી છે. તો વૈભવે એકલાએ પાંચ એવોર્ડ જીત્યા હતા. ત્યારે આ IPLની સિઝનમાં કયા ખેલાડીએ અથવા ટીમે કયો એવોર્ડ જીત્યો છે, તેના પર એક નજર કરીએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-awards-winners-list-know-who-won-orange-cap-purple-cap-479958 ",
-    "time": "2026-06-01T05:23:57.000Z"
   },
   {
     "cat": "World",
@@ -396,15 +459,6 @@ const newsData_gu = [
     "time": "2026-06-01T03:05:51.000Z"
   },
   {
-    "cat": "Business",
-    "title": "PMનું માની લીધુ કે પછી તેલના ઊંચા ભાવના કારણે મોહભંગ કર્યો, 20000 ઘટ્યો સોનાનો ભાવ, છતાં નથી આવી રહ્યા ખરીદદારો, ડિમાંડ 70% ઘટી",
-    "desc": "આ વર્ષે યુદ્ધ શરૂ થયું ત્યારથી, સોનાના ભાવમાં તેની ટોચની કિંમત કરતાં 20,000 રૂપિયા જેટલો ઘટાડો થયો છે, પરંતુ જ્વેલર્સની દુકાનો અને શોરૂમમાં ગ્રાહકોનો અભાવ છે. લોકો સોનું ખરીદવાને બદલે જૂનું સોનું વેચી રહ્યા છે. માંગમાં ઘટાડો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-drops-by-20000-yet-buyers-are-not-coming-demand-drops-by-70-percent-479902 ",
-    "time": "2026-05-31T14:43:11.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "શું ગરમીમાં ઘટી જાય છે ઇલેક્ટ્રિક કારની માઇલેજ? 30 હજાર વાહનો પર થયો ટેસ્ટ, સામે આવ્યું ચોંકાવનારું સત્ય!",
     "desc": "ઇલેક્ટ્રિક કારોનો ઉપયોગ ઝડપથી વધી રહ્યો છે. પેટ્રોલ અને ડીઝલના વધતા ભાવ વચ્ચે લોકો EV (ઇલેક્ટ્રિક વ્હીકલ)ને એક સારો વિકલ્પ માની રહ્યા છે. ઉનાળામાં ઇલેક્ટ્રિક કારની રેન્જ કેટલી ઘટે છે? ત્યારે ચાલો જાણીએ 30 હજાર EV પર થયેલા ટેસ્ટમાં શું આવ્યું સામે?",
@@ -412,24 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/does-the-mileage-of-electric-cars-decrease-in-heat-tests-were-conducted-on-30-thousand-vehicles-shocking-truth-revealed-479901 ",
     "time": "2026-05-31T14:39:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું તમને ખબર છે ટ્રકની પાછળ &amp;#039;હોર્ન, ઓકે, પ્લીઝ&amp;#039; કેમ લખેલું હોય છે? બીજા વિશ્વયુદ્ધ સાથે છે તેનું કનેક્શન",
-    "desc": "તમે કદાચ ઘણીવાર ટ્રકની પાછળ \"હોર્ન, ઓકે, પ્લીઝ\" લખેલું વાક્ય જોયું હશે. શું તમે ક્યારેય વિચાર્યું હશે કે આ કેમ લખેલું હોય છે? દેશભરના ટ્રક ડ્રાઇવરોની કાર પર આ જ વાક્ય કેમ લખેલું હોય છે? ચાલો સમજી તેનો મતલબ શું છે અને ટ્રક પાછળ કેમ લખવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-is-horn-ok-please-written-on-the-back-of-a-truck-it-has-a-connection-to-world-war-ii-479882 ",
-    "time": "2026-05-31T11:19:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અચાનક અધવચ્ચે જ રોકી દેવામાં આવી કેદારનાથ યાત્રા, જાણો શું છે કારણ? ભક્તોને સલામત સ્થળોએ રોકવામાં આવ્યા",
-    "desc": "હવામાન વિભાગે આગામી કલાકોમાં ભારે વરસાદ, ભારે પવન અને તોફાનની આગાહી કરી છે. સંભવિત જોખમને ધ્યાનમાં રાખીને, કેદારનાથ ધામ તરફ જતા યાત્રાળુઓને વિવિધ સ્ટોપ અને હોલ્ડિંગ વિસ્તારોમાં રોકવામાં આવ્યા છે અને સુરક્ષિત રાખવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/kedarnath-yatra-suddenly-stopped-midway-know-what-is-the-reason-devotees-were-stopped-at-safe-places-479877 ",
-    "time": "2026-05-31T10:30:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +477,6 @@ const newsData_gu = [
     "time": "2026-05-31T10:27:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ફરી રેતીનું ભયાનક ડમરીઓ સાથે વાવાઝોડાનું ભયાનક એલર્ટ; 20 રાજ્યો માટે 48 કલાકનું એલર્ટ, આગામી 5 દિવસ કેવું રહેશે હવામાન?",
-    "desc": "દેશભરમાં વેસ્ટર્ન ડિસ્ટર્બન્સ (પશ્ચિમી વિક્ષોભ) અને ચોમાસાના આગમનને કારણે હવામાન ખુશનુમા બન્યું છે. ઉત્તર-પશ્ચિમ ભારતના આશરે 15 રાજ્યોમાં છેલ્લા 15 દિવસથી કાળઝાળ ગરમીથી રાહત મળી છે. હવામાન વિભાગે આગામી 2 દિવસ સુધી હવામાન આવું જ રહેવાની ધારણા વ્યક્ત કરી છે. આ સાથે જ ચોમાસાને લઈને પણ અપડેટ જાહેર કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/warning-of-severe-sandstorms-48-hour-alert-for-20-states-what-will-the-weather-be-like-over-the-next-5-days-479849 ",
-    "time": "2026-05-31T07:42:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ડુંગળીની વાસ રોમાંટિક સીનમાં બની વીલન, હિરોઈનની નજીક જવું પણ બોબી માટે હતું મુશ્કેલ, તમને ખબર છે આ ઘટના વિશે ?",
     "desc": "બોબી દેઓલ તેની આગામી ફિલ્મ બંદરના કારણે ચર્ચામાં છે. આ સિવાય હાલ તેની ચર્ચા અન્ય એક ઘટના માટે પણ થઈ રહી છે. આ ઘટના તેની ફિલ્મ ગુપ્તના શૂટિંગ સમયની છે. જ્યારે રોમાંટિક સીન કરવો બોબી દેઓલ માટે માથાનો દુખાવો બની ગયો હતો. અને તેનું કારણ હતી ડુંગળીની વાસ.",
@@ -457,24 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-manisha-koirala-bad-breath-story-of-gupt-movie-shooting-479842 ",
     "time": "2026-05-31T07:20:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "H-1B Visa Rules: અમેરિકાનો મોટો યુ-ટર્ન: ગ્રીન કાર્ડની પ્રક્રિયા દરમિયાન પ્રવાસીઓએ હવે નહીં છોડવો પડે દેશ",
-    "desc": "અમેરિકામાં રહીને ગ્રીન કાર્ડ (Green Card)ની રાહ જોઈ રહેલા લાખો ભારતીય પ્રોફેશનલ્સ અને H-1B વિઝા ધારકો માટે એક મોટા અને રાહતભર્યા સમાચાર સામે આવ્યા છે. યુએસ સિટીઝનશિપ એન્ડ ઇમિગ્રેશન સર્વિસીસ (USCIS) એ તાજેતરમાં ઊભા થયેલા એક મોટા ભ્રમને દૂર કરતા સ્પષ્ટ કર્યું છે કે, લાયક H-1B વર્કર્સને ગ્રીન કાર્ડની અરજી પ્રક્રિયા દરમિયાન અમેરિકા છોડવાની જરૂર નહીં પડે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/h-1b-visa-rules-americas-big-u-turn-tourists-will-no-longer-have-to-leave-the-country-during-the-green-card-process-479840 ",
-    "time": "2026-05-31T07:00:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "1997માં જે સમુદ્રે ભારતને દુષ્કાળથી બચાવ્યું હતું, 2026માં તે &amp;#039;શાંત&amp;#039; છે: અલ નીનોના ખતરાએ વધાર્યું IMDનું ટેન્શન",
-    "desc": "હવામાન વિભાગના સેટેલાઇટ્સમાંથી આવી રહેલા તાજા આંકડાઓએ દેશના ધબકારા વધારી દીધા છે. આ વર્ષે ભારતના ચોમાસા પર અલ નીનોનો પડછાયો મંડરાઈ રહ્યો છે, જેના કારણે દુષ્કાળનો ખતરો 60% સુધી વધી ગયો છે. ઇતિહાસ સાક્ષી છે કે વર્ષ 1997માં પણ આવો જ મહા-સંકટ આવ્યો હતો, પરંતુ ત્યારે આપણા પોતાના હિંદ મહાસાગરે સુરક્ષા કવચ બનીને ખતરાને ટાળી દીધો હતો. પરંતુ આ વખતે...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ocean-that-saved-india-from-drought-in-1997-silent-in-2026-el-nino-threat-raises-imd-tension-479830 ",
-    "time": "2026-05-31T05:16:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -700,24 +709,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/which-country-has-the-most-bike-riders-in-the-world-despite-having-a-large-population-india-is-still-behind-know-who-is-number-1-479308 ",
     "time": "2026-05-26T11:17:02.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ભારતની સૌથી સસ્તી EV ખરીદવાનો છે પ્લાન? જાણો 5 મોટી વાતો, રેન્જ 230 કિમી",
-    "desc": "MG Comet EV ભારતની સૌથી સસ્તી કોમ્પેક્ટ ઈલેક્ટ્રિક કારમાં સામેલ છે, જે ખાસ કરી શહેરના ટ્રાફિકથી ભરેલા રસ્તા માટે બનાવવામાં આવી છે. તેની કિંમત 7.62 લાખ રૂપિયાથી શરૂ થઈ 9.99 લાખ રૂપિયા સુધી જાય છે. BaaS પ્લાન દ્વારા તેની શરૂઆતી કિંમત ઘટાડી શકાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/mg-comet-ev-is-india-cheapest-electric-car-know-its-price-and-features-479303 ",
-    "time": "2026-05-26T10:16:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટ્રમ્પની 3 મોટી શરતો, જેના કારણે અટક્યો છે ઈરાન-અમેરિકાનો શાંતિ કરાર, જાણો",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે ઐતિહાસિક શાંતિ કરાર પર હસ્તાક્ષર કરવામાં અડંગો ઉભો થયો છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ દ્વારા લગાવવામાં આવેલી કેટલીક નવી અને કડક શરતોને કારણે કરારની સમયમર્યાદા હવે જોખમમાં મુકાઈ ગઈ છે. જાણો ટ્રમ્પની કઈ શરતો સમસ્યાનું કારણ બની રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-3-big-conditions-due-to-which-the-iran-us-peace-agreement-has-been-stalled-know-479295 ",
-    "time": "2026-05-26T08:23:06.000Z"
   },
   {
     "cat": "Entertainment",
