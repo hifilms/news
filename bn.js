@@ -81,15 +81,6 @@ const newsData_bn = [
     "time": "2026-05-31T09:41:21.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ব্যাক-টু-ব্যাক চাম্পিয়ন্স লিগ পিএসজি-র, রুদ্ধশ্বাস ফাইনালের ফয়সলা পেনাল্টিতে",
-    "desc": "ম্যাচের শুরুটা অবশ্য আর্সেনালের পরিকল্পনা অনুযায়ী হয়েছিল। খেলার ছয় মিনিটেই কাই হাভার্টজের চমৎকার কোণাকুণি শটে লিড নেয় গানাররা। প্রথমার্ধে পিএসজি ৭৬ শতাংশ বল দখলে রাখলেও আর্সেনালের রক্ষণ ভাঙতে পারেনি। ফলে ১-০ ব্যবধানে এগিয়ে থেকেই প্রথমার্ধ শেষ করে উত্তর লন্ডনের ক্লাবটি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/psg-vs-arsenal-uefa-champions-league-final-match-report_656017.html ",
-    "time": "2026-05-31T05:21:42.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "চড়-থাপ্পড় থেকে জুতো বৃষ্টি, জনরোষে অভিষেক: তবে এই প্রথম নয়, ভারতের রাজনৈতিক ইতিহাসে বারবার আক্রান্ত হয়েছে শীর্ষ নেতৃত্ব",
     "desc": "সম্প্রতি সোনারপুরে অভিষেক বন্দ্যোপাধ্যায়ের ওপর হওয়া নজিরবিহীন হামলার ঘটনা আমাদের মনে করিয়ে দিচ্ছে ভারতীয় রাজনীতির এক অন্ধকার দিক। অতীতে শরদ পওয়ার থেকে শুরু করে অরবিন্দ কেজরিওয়ালের মতো হেভিওয়েট নেতারাও কীভাবে আমজনতার প্রত্যক্ষ ক্ষোভের মুখে পড়েছিলেন? কেন বারবার রাজনেতাদের দিকে ধেয়ে আসে জুতো বা ডিম?",
@@ -142,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actor-parambrata-chatterjee-investigation-to-continue-court-grants-four-weeks-protection_655859.html ",
     "time": "2026-05-29T11:51:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আবার বিষমদ! ৪৮ ঘণ্টায় প্রাণ কাড়ল ১২জনের, হাহাকার পরিবারের",
-    "desc": "পুণেতে বিষাক্ত মদ খেয়ে গত দু'দিনে ১২ জনের মৃত্যু হয়েছে। এই ঘটনায় আরও ৩ জন হাসপাতালে আশঙ্কাজনক অবস্থায় আছেন। পুলিস ইতিমধ্যেই মূল মদ সরবরাহকারীসহ ৮ জনকে গ্রেফতার করেছে। মুখ্যমন্ত্রী দেবেন্দ্র ফড়নবিস ঘটনার তদন্ত করে দোষীদের কঠোর শাস্তির নির্দেশ দিয়েছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/12-dead-and-many-critical-after-consuming-toxic-liquor-in-pune_655858.html ",
-    "time": "2026-05-29T11:41:16.000Z"
   },
   {
     "cat": "World",
@@ -270,15 +252,6 @@ const newsData_bn = [
     "time": "2026-05-22T18:39:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "গলায় মঙ্গলসূত্র, হাতে সবুজ চুড়ি; গোপনে বিয়ে সারলেন? ক্যামেরা দেখেই আড়ালে কঙ্গনা",
-    "desc": "সিনেমার গন্ডি পেরিয়ে কঙ্গনা পা রাখেন রাজনীতিতে ৷ সেখানে তাঁর সহকর্মী রাজনীতিবিদ ও অভিনেতা চিরাগ পাসোয়ানের সঙ্গে কঙ্গনার গভীর বন্ধুত্বপূর্ণ সম্পর্ক নিয়ে চর্চা হতে থাকে ৷ তাই বলে সরাসরি মঙ্গলসূত্র পরে সকলের সামনে হেঁটে গেলেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/actress-and-politician-kangana-ranaut-marriage-speculations-video-viral-shows-ranaut-with-a-mangalsutra_654888.html ",
-    "time": "2026-05-22T08:16:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "টানা ছুটি বকরি ইদে; হোটেল আর ফ্লাইট বুকিংয়ের ধুম পড়ে গিয়েছে; কবে থেকে কবে বন্ধ সব?",
     "desc": "ইদের ছুটি ২৯ মে পর্যন্ত। ১ জুন থেকে কাজে ফিরবে সকলে। এ বছর বকরি কবে, তা নিয়ে প্রাথমিক ভাবে সংশয় ছিল। অবশেষে তা মিটে যায়। এ বছর ভারতে ইদ-উল-আধা কবে পালিত হবে, তা নিয়েও বিভ্রান্তি তৈরি হয়। ২৭ না ২৮ মে-- কবে বকরি ইদ এ দেশে?",
@@ -286,15 +259,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/uae-eid-al-adha-holidays-2026-announced-public-holiday-dates-long-weekend-school-break-and-travel-rush-details_654687.html ",
     "time": "2026-05-20T14:40:15.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "মোদীজির বিরাট সাফল্য, নেদারল্যান্ডসের মাটি থেকে ১০০০ বছরের পুরনো চোল তাম্রফলক জয় করলেন তিনি",
-    "desc": "প্রধানমন্ত্রী নরেন্দ্র মোদীর সফরকালে ডাচ প্রধানমন্ত্রী রব জেটেন আনুষ্ঠানিকভাবে চোলযুগের তামার থালা ভারতের হাতে হস্তান্তর করেন। হস্তান্তর করা এই ঐতিহাসিক নিদর্শনগুলির দুটি সেট। এই সব প্লেটে মূলত প্রাচীন তামিল ও সংস্কৃত ভাষায় খোদাই করে কিছু লেখা রয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/netherlands-returns-11th-century-chola-copper-plates-to-india-during-pm-modi-visits-netherlands-pm-modi-in-netherlands_654442.html ",
-    "time": "2026-05-18T14:48:01.000Z"
   },
   {
     "cat": "Business",
