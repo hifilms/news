@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Rubio warns of Ukraine war 'escalation' risk",
+    "desc": "The remarks came after Ukrainian drones struck energy infrastructure in Russia's second-largest city, St. Petersburg, an attack Kyiv called retaliation for a mass wave of Russian strikes on Tuesday that killed at least 23 people.",
+    "img": "https://th-i.thgim.com/public/incoming/pihsqa/article71058739.ece/alternates/LANDSCAPE_1200/Senate_Appropriations_84_35.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/rubio-warns-of-ukraine-war-escalation-risk/article71058737.ece",
+    "time": "2026-06-03T22:47:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC collegium recommends 10 new judges for three HCs",
+    "desc": "The Supreme Court collegium, led by Chief Justice of India Surya Kant, has recommended ten advocates and judicial officers for appointment as judges to the High Courts of Karnataka, Himachal Pradesh, and Madhya Pradesh. The recommendations include six advocates for the Karnataka HC, three judicial officers for the Himachal Pradesh HC, and one advocate for the Madhya Pradesh HC.",
+    "img": "https://static.toiimg.com/photo/msid-131494179,imgsize-41700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-collegium-recommends-10-new-judges-for-three-hcs/articleshow/131494173.cms",
+    "time": "2026-06-03T22:34:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dua Lipa-Callum Turner off to Sicily for wedding celebrations",
+    "desc": "Dua Lipa and Callum Turner have jetted off to Sicily for their extravagant three-day wedding celebrations following an intimate civil ceremony in London. The newlyweds were spotted at the airport, all smiles, en route to Palermo for their grand GBP 1 million affair.",
+    "img": "https://static.toiimg.com/photo/msid-131493839,imgsize-106700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/newlyweds-dua-lipa-and-callum-turner-off-to-sicily-final-touches-for-three-day-wedding-celebration-in-palermo-underway-pics/articleshow/131492271.cms",
+    "time": "2026-06-03T22:34:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Have no political links, fight bigger than any party",
+    "desc": "Ahead of a June 6 protest, the satirical platform Cockroach Janta Party (CJP) appointed three spokespersons to address public anger over examination controversies. The group, demanding the Education Minister's resignation, dismissed claims of being proxies for political opponents, emphasizing their fight is larger than individual affiliations.",
+    "img": "https://static.toiimg.com/photo/msid-131494163,imgsize-51174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cjp-have-no-political-links-fight-bigger-than-any-party/articleshow/131494161.cms",
+    "time": "2026-06-03T22:30:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prakash reveals why he never forced Deepika to play badminton",
+    "desc": "Former badminton champion Prakash Padukone has opened up about the parenting philosophy that guided him while raising daughters Deepika Padukone and Anisha Padukone. In a recent interview, Prakash shared how he and his wife chose to support their daughters' passions rather than impose their own expectations. The veteran sports icon said parents need to understand the difference between a child's casual interest and genuine passion before making decisions about their future.",
+    "img": "https://static.toiimg.com/photo/msid-131494157,imgsize-96086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prakash-padukone-reveals-why-he-never-forced-deepika-padukone-to-play-badminton-her-first-love-was-always-being-in-front-of-the-camera/articleshow/131494147.cms",
+    "time": "2026-06-03T22:29:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ignore CJP, focus on NEET-CBSE stir",
+    "desc": "Congress plans to intensify its agitation on NEET-CBSE controversies over the next fortnight, urging members to focus on student and youth issues. The party is wary of rival political parties using the protests for their own agenda, drawing parallels to past movements. Youth Congress and NSUI are holding nationwide protests, emphasizing NEET as their primary concern.",
+    "img": "https://static.toiimg.com/photo/msid-131492367,imgsize-15676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cong-to-cadre-ignore-cjp-focus-on-neet-cbse-stir/articleshow/131494153.cms",
+    "time": "2026-06-03T22:26:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After PM Modi’s nudge, mantris carpool to reach cabinet meet at Seva Teerth",
+    "desc": "Several Union ministers carpooled to a cabinet meeting at Seva Teerth. This follows Prime Minister Narendra Modi's call to reduce vehicle fleets. Ministers like Nitin Gadkari, J P Nadda, Ashwini Vaishnaw, and Mansukh Mandaviya shared rides. This initiative emphasizes sustainability and leads by example amid global energy concerns. Earlier, ministers and chief ministers had reduced their convoys.",
+    "img": "https://static.toiimg.com/photo/msid-131494149,imgsize-40994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-pm-modis-nudge-mantris-carpool-to-reach-cabinet-meet-at-seva-teerth/articleshow/131494144.cms",
+    "time": "2026-06-03T22:22:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "On June 10, Modi will break Nehru’s record of longest elected PM stint",
+    "desc": "Narendra Modi is set to become the longest-serving unbroken head of government in India, surpassing Jawaharlal Nehru on June 10. Modi's tenure, beginning May 26, 2014, will reach 4,399 days, just ahead of Nehru's 4,398 days. This milestone highlights a significant shift in Indian political leadership and policy direction.",
+    "img": "https://static.toiimg.com/photo/msid-131493687,imgsize-47470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/on-june-10-modi-will-break-nehrus-record-of-longest-elected-pm-stint/articleshow/131493543.cms",
+    "time": "2026-06-03T22:14:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "If TMC splits, speaker's role key in recognising 'real party'",
+    "desc": "Trinamool Congress faces a significant crisis with a faction claiming majority MLA support. The West Bengal assembly speaker's role is crucial in identifying the \"original party,\" a decision guided by the Supreme Court's directives on party constitution and leadership structure outside the assembly, not just legislative numbers.",
+    "img": "https://static.toiimg.com/photo/msid-131492880,imgsize-118574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/if-tmc-splits-speakers-role-key-in-recognising-real-party/articleshow/131492446.cms",
+    "time": "2026-06-03T22:04:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cops abusing authority must be dealt with sternly",
+    "desc": "The Supreme Court sternly stated that police officers abusing their position must face strict consequences, as normal presumptions for accused individuals won't apply. It cancelled anticipatory bail for three Maharashtra police officers accused of harassing a family and extorting money after a search on a train.",
+    "img": "https://static.toiimg.com/photo/msid-131492273,imgsize-29884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-cops-abusing-authority-must-be-dealt-with-sternly/articleshow/131492272.cms",
+    "time": "2026-06-03T21:59:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC",
+    "desc": "The Supreme Court ruled that individuals with qualifications exceeding the maximum prescribed for a job can be disqualified. This decision aims to ensure employment opportunities for those with lower educational attainment, preventing overqualified candidates from displacing genuinely eligible applicants.",
+    "img": "https://static.toiimg.com/photo/msid-131492269,imgsize-393196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/can-bar-overqualified-person-from-job-sc/articleshow/131492268.cms",
+    "time": "2026-06-03T21:57:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jennifer Aniston's letter to Matthew Perry withdrawn from auction",
+    "desc": "A deeply personal letter from Jennifer Aniston to her late 'Friends' co-star Matthew Perry has been withdrawn from an upcoming charity auction. The heartfelt note, believed to be from the show's wrap in 2004, offered a rare glimpse into their bond and alluded to Perry's struggles. The auction aimed to benefit the Matthew Perry Foundation.",
+    "img": "https://static.toiimg.com/photo/msid-131492265,imgsize-97864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-anistons-heartfelt-letter-to-matthew-perry-withdrawn-from-upcoming-charity-auction/articleshow/131492097.cms",
+    "time": "2026-06-03T21:52:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Winds of change in West Bengal, Tamil Nadu may steady NDA's ship in Parliament",
+    "desc": "The BJP-led NDA sees a smoother legislative path as key opposition rivals TMC and DMK face internal challenges. A split within TMC and DMK's strained ties with Congress create opportunities for the ruling coalition to advance its agenda, including simultaneous elections, with renewed vigor.",
+    "img": "https://static.toiimg.com/photo/msid-131492266,imgsize-38190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/winds-of-change-in-west-bengal-tamil-nadu-may-steady-ndas-ship-in-parliament/articleshow/131492264.cms",
+    "time": "2026-06-03T21:50:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "SpaceX’s IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
+    "desc": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world’s first trillionaire",
+    "img": "https://th-i.thgim.com/public/incoming/f81bpf/article71058601.ece/alternates/LANDSCAPE_1200/2026-06-03T202449Z_1406795198_RC2TFCA4ZIEX_RTRMADP_3_SPACEX-IPO-PRICING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/spacexs-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire/article71058600.ece",
+    "time": "2026-06-03T21:24:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ibrahim pushes Palak back as paps spot them after movie date",
+    "desc": "Rumoured couple Ibrahim Ali Khan and Palak Tiwari have once again sparked dating speculation after a video from their latest movie outing surfaced online. As Ibrahim stepped out first and noticed the photographers waiting, he appeared to gesture towards Palak and nudged her to stay behind him as they exited the venue.",
+    "img": "https://static.toiimg.com/photo/msid-131492063,imgsize-44898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ibrahim-ali-khan-pushes-palak-tiwari-behind-him-as-paparazzi-surround-them-after-movie-date-video-goes-viral/articleshow/131492039.cms",
+    "time": "2026-06-03T20:59:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sebi bans Rajesh Exports' CMD for fin irregularities",
+    "desc": "Sebi has banned Rajesh Mehta, CMD of Rajesh Exports, from dealing in the company's shares pending further orders. The regulator's investigation revealed significant manipulation of accounts, particularly overseas subsidiary revenues, inflating them by an \"egregious\" 97%-99%. The company also failed to reflect a Rs 1,035 crore investment in African gold mines.",
+    "img": "https://static.toiimg.com/photo/msid-131492066,imgsize-23988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-bans-rajesh-exports-cmd-for-fin-irregularities/articleshow/131492064.cms",
+    "time": "2026-06-03T20:48:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI rejects bids for treasury bills, move signals lower rates",
+    "desc": "The RBI rejected bids for longer-term treasury bills, signaling discomfort with rising short-term yields ahead of its monetary policy decision. This move, aimed at softening interest rates, comes as the MPC meets to decide on rates, with a pause widely expected. Yields on government bonds subsequently fell.",
+    "img": "https://static.toiimg.com/photo/msid-131492059,imgsize-54846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-bids-for-treasury-bills-move-signals-lower-rates/articleshow/131492057.cms",
+    "time": "2026-06-03T20:44:12.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Bank of America chief",
     "desc": "Despite near-term volatility, India's appeal remains strong for strategic investors due to its scale and growth prospects. While foreign institutional investor participation has declined, Bank of America's India CEO Vikram Sahu believes capital will follow as regulatory friction eases and business conditions improve. Investor sentiment is showing signs of recovery, with a growing willingness to explore current market entry points.",
@@ -54,6 +207,15 @@ const newsData_en = [
     "time": "2026-06-03T19:52:14.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "India to play biggest-ever bilateral cricket series in New Zealand",
+    "desc": "India will take on the Black Caps in five T20Is, as many ODIs and two Tests across five major centres. The 12 matches would be the highest ever featuring a touring side in New Zealand's history.",
+    "img": "https://th-i.thgim.com/public/incoming/owh68p/article71058563.ece/alternates/LANDSCAPE_1200/6744_19_1_2026_9_47_21_1_116_RVM_2212.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-to-play-biggest-ever-bilateral-cricket-series-in-new-zealand/article71058561.ece",
+    "time": "2026-06-03T18:55:08.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Speculation mounts over TMC’s MPs, its heft in INDIA bloc",
     "desc": "The Trinamool Congress faces a significant internal crisis in West Bengal, raising questions about its national parliamentary strength and its role within the INDIA bloc. With a crucial opposition meeting scheduled, Mamata Banerjee's party is strategizing to maintain unity among its MPs and counter the BJP's influence amidst these developments.",
@@ -61,6 +223,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/speculation-mounts-over-tmcs-mps-its-heft-in-india-bloc/articleshow/131491228.cms",
     "time": "2026-06-03T18:50:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar government to run 50 additional pink buses",
+    "desc": "31 modern bus stands will be developed on the lines of the NOIDA, Mumbai bus stands. Intelligent Traffic Management System (ITMS) to be implemented under the PPP model to keep a tab on traffic violations.",
+    "img": "https://th-i.thgim.com/public/incoming/rb8rqo/article71058559.ece/alternates/LANDSCAPE_1200/IMG_27_BM_Pink_bus_2_1_JCEIEJF4.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-government-to-run-50-additional-pink-buses/article71057255.ece",
+    "time": "2026-06-03T18:49:54.000Z"
   },
   {
     "cat": "Politics",
@@ -106,6 +277,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fwice-to-respond-to-ranveer-singhs-legal-notice-amid-ongoing-don-3-row-bn-tiwari-says-we-never-wanted-to-pull-down-a-superstar/articleshow/131490212.cms",
     "time": "2026-06-03T18:15:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The Hindu Huddle 2026 — Art as a mirror to a world in transition",
+    "desc": "To be moderated by Narayan Lakshman, Opinion Editor of The Hindu and Curator of The Hindu Huddle, the session will feature artists Seema Kohli, Shilo Shiv Suleman, and art collector and founder of Bengaluru’s Museum of Art and Photography Abhishek Poddar",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-karnataka/t7hzg7/article71054734.ece/alternates/LANDSCAPE_1200/The-Hindu-HuddlG7MG2D5FS.2.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-art-as-a-mirror-to-a-world-in-transition/article71057993.ece",
+    "time": "2026-06-03T17:42:24.000Z"
   },
   {
     "cat": "Politics",
@@ -369,15 +549,6 @@ const newsData_en = [
     "time": "2026-06-03T13:48:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Who is Ritabrata Banerjee, man at the centre of turmoil",
-    "desc": "Expelled TMC leader Ritabrata Banerjee claims Speaker recognized him as opposition leader, signaling a major internal crisis. Fifty-eight rebel MLAs support this move, proposing a new leadership structure. This revolt, the party's biggest challenge, follows a significant election defeat and has prompted a TMC organizational overhaul.",
-    "img": "https://static.toiimg.com/photo/msid-131485619,imgsize-924472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-tmc-insider-to-rebel-leader-who-is-ritabrata-banerjee-man-at-the-centre-of-turmoil/articleshow/131485142.cms",
-    "time": "2026-06-03T13:42:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "From Bachchan's heroine to doing item song for Rs 2500, Aruna recalls her journey",
     "desc": "Veteran actress Aruna Irani shared her career struggles, detailing a three-year period without work after blockbuster hits. She bravely accepted a Marathi lavani role, which became a turning point, leading to renewed opportunities and a successful comeback. Her journey highlights resilience and the importance of never giving up.",
@@ -441,15 +612,6 @@ const newsData_en = [
     "time": "2026-06-03T13:15:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi hotel fire kills 21, including 17 foreigners; DK Shivakumar takes oath as Karnataka CM &amp; more",
-    "desc": "A devastating Delhi hotel fire claimed 21 lives, including 17 foreign nationals, with investigations revealing safety lapses and illegal expansion. In West Bengal, a TMC leader claimed rebel status as opposition leader. Meanwhile, India condemned a Kuwait airport attack that killed an Indian national. DK Shivakumar took oath as Karnataka CM, projecting Congress unity.",
-    "img": "https://static.toiimg.com/photo/msid-131485162,imgsize-51214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-delhi-hotel-fire-kills-21-including-17-foreigners-dk-shivakumar-takes-oath-as-karnataka-cm-more/articleshow/131484826.cms",
-    "time": "2026-06-03T13:10:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Aamir and Gauri complete relationship timeline",
     "desc": "Aamir Khan and Gauri Spratt, who reconnected after 25 years, went public at his 60th birthday celebration. The couple made their red carpet debut at the Macau International Comedy Festival. Reports now suggest the two will have a quiet, private wedding ceremony at his Mumbai home on July 5.",
@@ -468,15 +630,6 @@ const newsData_en = [
     "time": "2026-06-03T12:53:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Will 'Peddi' be Ram Charan's biggest blockbusters?",
-    "desc": "Ram Charan's highly anticipated rural sports drama 'Peddi' has released worldwide, aiming to be a massive blockbuster after 'RRR'. The film, featuring Janhvi Kapoor and a stellar cast, boasts impressive pre-release business and a pan-India release strategy. With a significant breakeven target and Netflix securing OTT rights, 'Peddi' carries immense expectations for box office success.",
-    "img": "https://static.toiimg.com/photo/msid-131484334,imgsize-71844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-review-will-ram-charan-deliver-one-of-the-biggest-blockbusters-of-his-career-after-rrr/articleshow/131484291.cms",
-    "time": "2026-06-03T12:50:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ayush scripts comeback win, reaches pre-quarters at Indonesia Open",
     "desc": "Ayush Shetty kept India’s hopes alive at the Indonesia Open with a remarkable comeback win over China’s Weng Hong Yang, reaching the pre-quarterfinals. Rohan Kapoor and Ruthvika Gadde also progressed in mixed doubles. However, Satwiksairaj Rankireddy and Chirag Shetty retired hurt from their opening match due to Satwik’s shoulder injury, while HS Prannoy suffered a first-round exit.",
@@ -484,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/indonesia-open-badminton-ayush-shetty-scripts-comeback-win-reaches-pre-quarterfinals/articleshow/131484213.cms",
     "time": "2026-06-03T12:35:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'You talk nonsense': Ashoke Pandit reacts to Kangana's comments on FWICE's ban",
-    "desc": "The dispute over 'Don 3' involving Ranveer Singh and Farhan Akhtar continues, with FWICE's ban on Akhtar now revoked. Ashoke Pandit criticized industry reactions, including Kangana Ranaut's, for lacking full facts. FWICE clarifies its stance targets professional commitments, not Ranveer personally, emphasizing accountability for producers and workers.",
-    "img": "https://static.toiimg.com/photo/msid-131484488,imgsize-65216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-talk-nonsense-ashoke-pandit-reacts-to-kangana-ranauts-comments-regarding-fwices-non-cooperation-directive-against-ranveer-singh/articleshow/131484438.cms",
-    "time": "2026-06-03T12:34:04.000Z"
   },
   {
     "cat": "Business",
@@ -511,24 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-movie-review-5-reasons-to-watch-ram-charan-and-janhvi-kapoor-starrer-peddi/articleshow/131482406.cms",
     "time": "2026-06-03T12:10:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Karuppu' actress Deepa’s father attacked in Thoothukudi",
-    "desc": "Actress Deepa's father, Pulavar Ganesan, was attacked by a gang in Thoothukudi. Ganesan sustained serious injuries and is undergoing treatment. Police have arrested three suspects in connection with the assault. The incident is reportedly linked to temple administration disputes. The attack has caused concern among locals and fans of the actress.",
-    "img": "https://static.toiimg.com/photo/msid-131483851,imgsize-109020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karuppu-actress-deepas-father-attacked-in-thoothukudi-police-arrest-three-suspects/articleshow/131483822.cms",
-    "time": "2026-06-03T12:03:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK-led alliance allots Tamil Nadu Rajya Sabha seat to Congress",
-    "desc": "The Tamilaga Vettri Kazhagam-led alliance has allocated a Rajya Sabha seat from Tamil Nadu to its partner, the Indian National Congress. This decision comes ahead of the biennial elections scheduled for June 18. The Congress had previously requested the seat, which will now be filled by their nominated candidate.",
-    "img": "https://static.toiimg.com/photo/msid-131483741,imgsize-1241566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tvk-led-alliance-allots-tamil-nadu-rajya-sabha-seat-to-congress/articleshow/131483633.cms",
-    "time": "2026-06-03T11:56:05.000Z"
   },
   {
     "cat": "Sports",
@@ -567,15 +693,6 @@ const newsData_en = [
     "time": "2026-06-03T11:27:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian national killed in Iranian drone attack on Kuwait airport",
-    "desc": "An Indian national tragically died in an Iranian drone attack on Kuwait airport. The incident, which also caused significant damage to a passenger terminal, occurred amidst escalating regional tensions. The US military reported intercepting multiple drones targeting its forces in Kuwait and stated Iranian missiles fell apart en route.",
-    "img": "https://static.toiimg.com/photo/msid-131483000,imgsize-1087511.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-national-killed-in-iranian-drone-attack-on-kuwait-airport/articleshow/131482794.cms",
-    "time": "2026-06-03T11:15:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India's Balaji, partner Marcelo bow out of Roland Garros after quarterfinals defeat",
     "desc": "N Sriram Balaji and Brazilian partner Marcelo Demoliner bowed out of the French Open men's doubles in the quarterfinals after losing to second seeds Harri Heliövaara and Henry Patten. Despite the defeat, the pair enjoyed a memorable run, including an upset win over the sixth seeds. In juniors, Arnav Paparkar exited singles but remains alive in boys' doubles.",
@@ -592,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/big-blow-for-srh-pat-cummins-leaves-ipl-2027-participation-in-doubt/articleshow/131481984.cms",
     "time": "2026-06-03T10:36:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rs 39,290 crore package get govt nod; ATF fund, coastal highway and Delhi-NCR vehicle scheme on list",
-    "desc": "The Union Cabinet approved a Rs 39,290 crore package for aviation, highways, and transport modernization. A significant Rs 10,000 crore was allocated for an Aviation Turbine Fuel Price Stabilisation Fund to manage fuel cost volatility.",
-    "img": "https://static.toiimg.com/photo/msid-131481912,imgsize-456011.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/key-cabinet-decisions-rs-39290-crore-package-get-govt-nod-atf-fund-coastal-highway-and-delhi-ncr-vehicle-scheme-on-list/articleshow/131481853.cms",
-    "time": "2026-06-03T10:21:49.000Z"
   },
   {
     "cat": "Sports",
@@ -790,113 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/triptii-dimri-maa-behen-interview-suresh-triveni-madhuri-dixit-netflix-film/article71048250.ece",
     "time": "2026-06-01T13:26:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India look for better effort from middle-order batters in series decider",
-    "desc": "With the series locked at 1-1, a victory in the decider will not just be another overseas bilateral win but a shot in the arm for either team before the start of the Women's T20 World Cup later this month",
-    "img": "https://th-i.thgim.com/public/incoming/ttqxxr/article71048449.ece/alternates/LANDSCAPE_1200/Britain_India_Womens_Cricket_63686.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/eng-vs-ind-3rd-wt20i-india-look-for-better-effort-from-middle-order-batters-in-series-decider/article71048408.ece",
-    "time": "2026-06-01T13:09:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why football’s most passionate fans may be in India",
-    "desc": "In Kerala, West Bengal and several other places across India, the FIFA World Cup is a homecoming — of fan clubs, midnight screenings, bike rallies and WhatsApp groups that spring back to life every four years",
-    "img": "https://th-i.thgim.com/public/incoming/yb63h/article71032804.ece/alternates/LANDSCAPE_1200/IMG_80689_17_11_2022_18__2_1_8BAHEG1N.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/society/fifa-world-cup-2026-football-fans-india-kerala-bengal/article71023927.ece",
-    "time": "2026-06-01T12:12:52.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "CBSE says OnMark portal ‘vulnerabilities’ contained amid security concerns",
-    "desc": "The CBSE’s statement comes after 19-year-old ethical hacker Nisarga Adhikary claimed that he had hacked the CBSE’s digital evaluation ecosystem; Mr. Adhikary explained that personal information of students was processed by Google’s Gemini in automation scripts prepared by quality assurance engineers of COEMPT",
-    "img": "https://th-i.thgim.com/public/incoming/97m0fb/article71044433.ece/alternates/LANDSCAPE_1200/NKV-CBSE%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cbse-says-onmark-portal-vulnerabilities-contained-amid-security-concerns/article71044420.ece",
-    "time": "2026-05-31T16:10:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cannes Film Festival 2026 marks a landmark year for queer cinema",
-    "desc": "From lesbian romances and trans resistance dramas to queer soldiers and sexually fluid protagonists, this year’s Cannes Film Festival saw an unprecedented surge of queer storytelling — not at the margins, but at the very centre of global cinema",
-    "img": "https://th-i.thgim.com/public/incoming/jfd6r3/article71032127.ece/alternates/LANDSCAPE_1200/Elephants%20in%20the%20Fog.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/cannes-film-festival-2026-marks-a-landmark-year-for-queer-cinema/article71028930.ece",
-    "time": "2026-05-30T15:45:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How Mohit Rai styled Aishwarya Rai Bachchan for Cannes 2026",
-    "desc": "At Cannes this year, Aishwarya Rai made heads turn in an electric blue Amit Aggarwal gown, and followed it up with blush pinks and feather boas. Celebrity stylist and designer Mohit Rai takes us behind the scenes",
-    "img": "https://th-i.thgim.com/public/life-and-style/epf8tr/article71024991.ece/alternates/LANDSCAPE_1200/FotoJet%2034.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/fashion/how-mohit-rai-styled-aishwarya-rai-bachchan-for-cannes-2026/article71024967.ece",
-    "time": "2026-05-30T01:51:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
