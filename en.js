@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Bank of America chief",
+    "desc": "Despite near-term volatility, India's appeal remains strong for strategic investors due to its scale and growth prospects. While foreign institutional investor participation has declined, Bank of America's India CEO Vikram Sahu believes capital will follow as regulatory friction eases and business conditions improve. Investor sentiment is showing signs of recovery, with a growing willingness to explore current market entry points.",
+    "img": "https://static.toiimg.com/photo/msid-131492053,imgsize-51720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/interest-in-india-strong-despite-volatility-bank-of-america-chief/articleshow/131492052.cms",
+    "time": "2026-06-03T20:41:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt sets aside Rs 10k crore to cap jet fuel price, keep air fares in check",
+    "desc": "The Indian government has allocated Rs 10,000 crore to stabilize jet fuel prices. This move aims to prevent airfares from becoming unaffordable for citizens and to support airline operations. The support will be provided as an interest-free advance to oil companies. This initiative is expected to maintain affordable air connectivity, boost tourism, and create employment opportunities across the country.",
+    "img": "https://static.toiimg.com/photo/msid-131492045,imgsize-85200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-sets-aside-rs-10k-crore-to-cap-jet-fuel-price-keep-air-fares-in-check/articleshow/131492038.cms",
+    "time": "2026-06-03T20:35:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Exporters keep tabs on USTR probe, trade talks",
+    "desc": "Indian exporters are closely monitoring US trade investigations and bilateral deal talks, expecting an advantage over rivals. While not overly concerned about a proposed 12.5% tariff on 54 countries, they are apprehensive about the same levy on China. Exporters are confident that ongoing negotiations will lead to mutually beneficial outcomes, especially for sectors like footwear and leather.",
+    "img": "https://static.toiimg.com/photo/msid-131492031,imgsize-47624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/exporters-keep-tabs-on-ustr-probe-trade-talks/articleshow/131492029.cms",
+    "time": "2026-06-03T20:27:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Soni Razdan admits she's a 'worried mom' to Alia and Shaheen",
+    "desc": "Soni Razdan has opened up about her parenting style and admitted that despite consciously trying to give her daughters space, she still worries about them and often finds herself checking in on them at odd hours. Soni revealed that she consciously tries to avoid interfering in her daughters' lives but admits that parental concern often takes over.",
+    "img": "https://static.toiimg.com/photo/msid-131492020,imgsize-140180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/soni-razdan-admits-shes-a-worried-mom-to-alia-bhatt-and-shaheen-bhatt-ill-message-them-in-the-middle-of-the-night/articleshow/131492015.cms",
+    "time": "2026-06-03T20:25:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tech stocks slide on AI fears, oil gives Dalal Street a headache",
+    "desc": "Persian Gulf tensions pushed crude prices near $100, weakening the rupee and causing the Sensex to plunge over 1,100 points mid-session. Despite initial losses, banking stocks rallied, aiding a partial recovery, while IT stocks crashed due to AI disruption fears. Foreign funds saw significant outflows.",
+    "img": "https://static.toiimg.com/photo/msid-131492021,imgsize-1214436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tech-stocks-slide-on-ai-fears-oil-gives-dalal-street-a-headache/articleshow/131492019.cms",
+    "time": "2026-06-03T20:22:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prakash Padukone on Deepika Padukone's depression battle",
+    "desc": "Badminton icon Prakash Padukone has spoken about daughter Deepika Padukone's decision to publicly discuss her battle with depression, revealing that the family fully supported her efforts to raise awareness around mental health. He revealed that Deepika's determination to work in the mental health space grew stronger after the loss of a friend.",
+    "img": "https://static.toiimg.com/photo/msid-131491939,imgsize-45088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prakash-padukone-opens-up-about-deepika-padukones-depression-battle-after-one-of-her-friends-passed-away-she-became-/articleshow/131491890.cms",
+    "time": "2026-06-03T19:52:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Speculation mounts over TMC’s MPs, its heft in INDIA bloc",
+    "desc": "The Trinamool Congress faces a significant internal crisis in West Bengal, raising questions about its national parliamentary strength and its role within the INDIA bloc. With a crucial opposition meeting scheduled, Mamata Banerjee's party is strategizing to maintain unity among its MPs and counter the BJP's influence amidst these developments.",
+    "img": "https://static.toiimg.com/photo/msid-131491251,imgsize-44710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/speculation-mounts-over-tmcs-mps-its-heft-in-india-bloc/articleshow/131491228.cms",
+    "time": "2026-06-03T18:50:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Day after texting brother about new job, Kolkata girl run over in UK by driver charged with DUI",
+    "desc": "A 28-year-old Kolkata woman, Anisha Chakraborty, was tragically killed in a hit-and-run incident in Birmingham, UK, just after completing her master's degree. She was on her way home from a pub outing when a black Audi RSQ8 struck her. Her family is awaiting the repatriation of her body, while a GoFundMe campaign has been launched to support the costs.",
+    "img": "https://static.toiimg.com/photo/msid-131490833,imgsize-20222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/day-after-texting-brother-about-new-job-kolkata-girl-run-over-in-uk-by-driver-charged-with-dui/articleshow/131490840.cms",
+    "time": "2026-06-03T18:32:22.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. sanctions alleged rebel commanders in DR Congo",
+    "desc": "The sanctions target Gustave Kubwayo, alleged to be the commander of FDLR, and John Imani Nzenze, alleged to be the March 23 (M23) commander and chief of intelligence, says the U.S. Treasury in a statement",
+    "img": "https://th-i.thgim.com/public/news/national/gwkgn1/article71058531.ece/alternates/LANDSCAPE_1200/2023-04-28T153209Z_1988354959_RC2QN0A7P2GW_RTRMADP_3_USA-BONDS-REFUNDING.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-sanctions-alleged-rebel-commanders-in-dr-congo/article71058523.ece",
+    "time": "2026-06-03T18:26:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "On Indo-China border, model village to come up in Ladakh for nomads",
+    "desc": "Ladakh's first model border village is being established at Chumur, a remote settlement at 16,700 feet along the India-China border. This initiative under the Vibrant Village Program will provide climate-resilient housing, enhance livelihoods through goat rearing and greenhouse cultivation, and integrate essential services to foster secure, permanent settlements and strengthen civil-defence cooperation.",
+    "img": "https://static.toiimg.com/photo/msid-131490672,imgsize-92220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/on-indo-china-border-model-village-to-come-up-in-ladakh-for-nomads/articleshow/131490640.cms",
+    "time": "2026-06-03T18:23:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "National Conference’s ‘secretive’ Dachigam huddle ends with Delhi protest plan for J&amp;K statehood",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah convened a strategy session with National Conference MLAs and MPs at Dachigam National Park. The meeting concluded with a call for a protest in New Delhi during Parliament's monsoon session, demanding the restoration of J&K's statehood. The party also resolved to push for a ban on liquor in the region.",
+    "img": "https://static.toiimg.com/photo/msid-131490540,imgsize-60062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/national-conferences-secretive-dachigam-huddle-ends-with-delhi-protest-plan-for-jk-statehood/articleshow/131490587.cms",
+    "time": "2026-06-03T18:18:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "FWICE to respond to Ranveer Singh's legal notice amid Don 3 row",
+    "desc": "The dispute between Ranveer Singh and the Federation of Western India Cine Employees (FWICE) appears to be softening, with the federation confirming that it will respond to the legal notice sent by the actor's team while continuing efforts to resolve the matter amicably. Addressing the legal notice received from Ranveer's representatives, FWICE president BN Tiwari said the federation would handle the matter through proper legal procedures.",
+    "img": "https://static.toiimg.com/photo/msid-131490392,imgsize-61548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fwice-to-respond-to-ranveer-singhs-legal-notice-amid-ongoing-don-3-row-bn-tiwari-says-we-never-wanted-to-pull-down-a-superstar/articleshow/131490212.cms",
+    "time": "2026-06-03T18:15:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IRCTC flags 9 crore user accounts, expands AI monitoring across railway kitchens",
+    "desc": "IRCTC has taken decisive action against ticket booking fraud, deactivating over three crore suspicious user IDs and verifying six crore more. Simultaneously, an AI-powered kitchen monitoring system, utilizing 2,394 cameras, now oversees 800 kitchens, detecting nine types of hygiene issues to ensure food quality for millions of passengers.",
+    "img": "https://static.toiimg.com/photo/msid-131489441,imgsize-48184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/irctc-flags-9-crore-user-accounts-expands-ai-monitoring-across-railway-kitchens/articleshow/131489338.cms",
+    "time": "2026-06-03T17:39:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anushka credits homeopathy for health journey; faces backlash",
+    "desc": "Anushka Sharma has found herself at the centre of a social media debate after endorsing homeopathy and sharing a video featuring renowned homeopathic physician Rajan Sankaran in conversation with entrepreneur Namita Thapar. The video drew a sharp response from hepatologist Cyriac Abby Philips, popularly known online as The Liver Doc, who has long been a vocal critic of homeopathy.",
+    "img": "https://static.toiimg.com/photo/msid-131489356,imgsize-75828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anushka-sharma-credits-homeopathy-for-her-health-journey-the-liver-doc-labels-it-a-triangle-of-shame/articleshow/131489281.cms",
+    "time": "2026-06-03T17:36:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Apple agrees to submit India financials in long-pending antitrust case",
+    "desc": "Apple has long ‌argued the case should be paused because it is separately seeking to quash India’s new antitrust penalty law that empowers the CCI to penalise companies on the basis of their global, not just Indian, turnover",
+    "img": "https://th-i.thgim.com/public/incoming/l1xy6v/article71058443.ece/alternates/LANDSCAPE_1200/2026-05-14T175409Z_1379866145_RC2P3EA3217N_RTRMADP_3_APPLE-OPENAI-LEGAL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/apple-agrees-to-submit-india-financials-in-long-pending-antitrust-case/article71058383.ece",
+    "time": "2026-06-03T17:30:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Brazil takes a historic HDI leap with focused planning and public spending",
+    "desc": "UN report reveals the country’s cash-transfer scheme has played a key role in raising its Human Development Index score from 0.744 in 2012 to 0.805 in 2024, on a scale from 0 to 1; as Brazil enters election cycle, the far-right narrative that the scheme discourages people from working draws backlash",
+    "img": "https://th-i.thgim.com/public/incoming/vinxz8/article71058103.ece/alternates/LANDSCAPE_1200/Brazil_WCup_Soccer_Decorations_57244.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/brazil-takes-a-historic-hdi-leap-with-focused-planning-and-public-spending/article71057526.ece",
+    "time": "2026-06-03T17:19:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt issues uniform framework for district GDP estimates with 2022-23 base year",
+    "desc": "The statistics ministry has released a uniform framework for district-level economic output estimates with a revised base year of 2022-23. This move aims to enhance consistency and comparability of economic data across all states and Union Territories. The guideline, incorporating stakeholder feedback, standardizes concepts, data sources, and methodologies for compiling Gross and Net District Domestic Product and per capita income.",
+    "img": "https://static.toiimg.com/photo/msid-131488799,imgsize-393207.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/district-economy-data-govt-issues-uniform-framework-for-district-gdp-estimates-with-2022-23-base-year/articleshow/131488711.cms",
+    "time": "2026-06-03T17:07:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Census fieldwork contradicts government data, enumerators asked to revisit, review data",
+    "desc": "Director Census Operations (DCO), Rajasthan, writes to all district functionaries that ‘during the analysis of field data collected so far, some discrepancies have been noticed’; enumerators allege they have been asked not to ‘select options that may show the government in poor light’",
+    "img": "https://th-i.thgim.com/public/incoming/taktco/article71058358.ece/alternates/LANDSCAPE_1200/CENSUS%20DELHI%202026_02_06_2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/census-fieldwork-contradicts-government-data-enumerators-asked-to-revisit-review-data/article71057474.ece",
+    "time": "2026-06-03T16:44:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You sit back down': Jos Buttler reveals why he batted at No. 4 in IPL 2026 final",
+    "desc": "Gujarat Titans faced Royal Challengers Bengaluru in the IPL 2026 final. A surprising move saw Nishant Sindhu bat ahead of Jos Buttler after Shubman Gill's early dismissal. Head coach Ashish Nehra explained it was a tactical choice to involve Sindhu more. The decision did not yield the desired results, contributing to Gujarat's defeat.",
+    "img": "https://static.toiimg.com/photo/msid-131488343,imgsize-105666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/you-sit-back-down-jos-buttler-reveals-why-he-batted-at-no-4-in-ipl-2026-final/articleshow/131488364.cms",
+    "time": "2026-06-03T16:41:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Venezuela's acting President Delcy Rodriguez arrives in India on 5-day visit",
+    "desc": "Venezuela's acting president, Delcy Rodriguez, is in India for a five-day visit aimed at boosting energy cooperation and exploring trade, investment, and technology partnerships. This visit comes as India seeks to diversify its oil sources amidst West Asian disruptions. Rodriguez will hold talks with Prime Minister Modi, building on existing energy ties, including a joint venture with ONGC Videsh.",
+    "img": "https://static.toiimg.com/photo/msid-131488355,imgsize-57506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/venezuelas-acting-president-delcy-rodriguez-arrives-in-india-on-5-day-visit/articleshow/131488272.cms",
+    "time": "2026-06-03T16:40:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee slides 40 paise to 95.76 against dollar as tariff concerns, oil prices weigh on sentiment",
+    "desc": "The rupee weakened by 40 paise to 95.76 against the US dollar due to proposed US tariffs, rising crude oil prices, and foreign fund outflows. Escalating geopolitical tensions in West Asia also contributed to the decline, impacting investor sentiment. Market participants now await the Reserve Bank of India's policy decision for further cues.",
+    "img": "https://static.toiimg.com/photo/msid-131488353,imgsize-918922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-slides-40-paise-to-95-76-against-dollar-as-tariff-concerns-oil-prices-weigh-on-sentiment/articleshow/131488298.cms",
+    "time": "2026-06-03T16:39:56.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Trinamool splits, expelled MLA Ritabrata Banerjee is Leader of Opposition in Bengal Assembly",
     "desc": "Ritabrata Banerjee claims support of 58 of 80 Trinamool MLAs but appeals to Mamata Banerjee remain ‘main advisor’; the development poses the biggest existential challenge for the Trinamool, which lost to the BJP in the recent Assembly elections",
@@ -36,6 +225,15 @@ const newsData_en = [
     "time": "2026-06-03T15:56:26.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Praggnanandhaa beats Carlsen again, closes in on lead",
+    "desc": "It’s more important for the tournament that I get this win than thinking that it’s Magnus. Of course, it’s great to do it against Magnus, but I think winning any game at this stage of the tournament is good, says Indian Grandmaster R. Praggnanandhaa",
+    "img": "https://th-i.thgim.com/public/incoming/sk4j8m/article71054613.ece/alternates/LANDSCAPE_1200/55186510092_c92f02757f_o.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/norway-chess-praggnanandhaa-beats-carlsen-again-closes-in-on-lead/article71054614.ece",
+    "time": "2026-06-03T15:50:57.000Z"
+  },
+  {
     "cat": "World",
     "title": "Delhi restaurant fire kills 21; safety lapses under scanner",
     "desc": "We track the devastating fire at a South Delhi restaurant that has claimed at least 21 lives, Karnataka’s leadership transition as D.K. Shivakumar takes oath as Chief Minister, and former Tamil Nadu BJP president K. Annamalai’s decision to launch a new political venture.",
@@ -43,33 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-delhi-restaurant-fire-kills-21-safety-lapses-under-scanner-above-the-fold-03062026/article71058168.ece",
     "time": "2026-06-03T15:46:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Victim in alleged murder case identified after four decades",
-    "desc": "The identification marks a major breakthrough in the investigation, reopened last year after Mohammad Ali, a native of Vengara in Malappuram, reportedly confessed to causing the death of a man at Koodaranhi in November 1986 when he was a teenager",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/victim-in-alleged-murder-case-identified-after-four-decades/article71057341.ece",
-    "time": "2026-06-03T15:41:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress stoking unwanted differences in the country, alleges A.P. Deputy CM Pawan Kalyan",
-    "desc": "Calling the party’s top brass to give up politics of convenience and do necessary course course corrections, he wonders why anyone who wishes to enter the electoral arena in other States be criticised and their attempts scuttled if Rahul Gandhi can contest elections in Wayanad, which is not his home State",
-    "img": "https://th-i.thgim.com/public/incoming/fe1iqj/article71058148.ece/alternates/LANDSCAPE_1200/vjkvg-jana%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/congress-stoking-unwanted-differences-in-the-country-alleges-ap-deputy-cm-pawan-kalyan/article71057845.ece",
-    "time": "2026-06-03T15:41:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "RTC unions oppose move to hand over electric buses to private operators",
-    "desc": "Alleging that prime lands belonging to depots are being handed over to private parties on lease, the unions say that a JAC will be formed to launch an agitation on issues affecting the corporation and its employees",
-    "img": "https://th-i.thgim.com/public/incoming/kprxat/article71058136.ece/alternates/LANDSCAPE_1200/05Bus.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/rtc-unions-oppose-move-to-hand-over-electric-buses-to-private-operators/article71057725.ece",
-    "time": "2026-06-03T15:36:34.000Z"
   },
   {
     "cat": "Business",
@@ -90,15 +261,6 @@ const newsData_en = [
     "time": "2026-06-03T15:29:39.000Z"
   },
   {
-    "cat": "World",
-    "title": "Brazil takes a historic HDI leap with focused planning and public spending",
-    "desc": "UN report reveals the country’s cash-transfer scheme has played a key role in raising its Human Development Index score from 0.744 in 2012 to 0.805 in 2024, on a scale from 0 to 1; as Brazil enters election cycle, the far-right narrative that the scheme discourages people from working draws backlash",
-    "img": "https://th-i.thgim.com/public/incoming/vinxz8/article71058103.ece/alternates/LANDSCAPE_1200/Brazil_WCup_Soccer_Decorations_57244.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/brazil-takes-a-historic-hdi-leap-with-focused-planning-and-public-spending/article71057526.ece",
-    "time": "2026-06-03T15:29:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Patidar must be in front of the queue': Clarke backs RCB captain for India call-up",
     "desc": "Rajat Patidar captained Royal Challengers Bengaluru to a second successive IPL title in 2026, scoring 501 runs at a strike rate of 192.69. Former Australian captain Michael Clarke highlighted Patidar as an underrated performer, emphasizing his leadership and middle-order batting prowess. Clarke believes Patidar's consecutive title wins warrant consideration for the Indian T20 and potentially ODI teams.",
@@ -117,15 +279,6 @@ const newsData_en = [
     "time": "2026-06-03T15:21:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sale of the famed Tirumala laddu peaks in May this year",
-    "desc": "TTD registers the highest-ever sale of 1.21 crore laddus in the month, surpassing the 1.10 crore sold in the corresponding month the previous year, which also reflects a sharp rise in pilgrim footfalls at the hill temple of Lord Venkateswara",
-    "img": "https://th-i.thgim.com/public/incoming/jmxv6h/article71057934.ece/alternates/LANDSCAPE_1200/TPCHA_17-4-2015_17-20-0_17042015PIX1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sale-of-the-famed-tirumala-laddu-peaks-in-may-this-year/article71057412.ece",
-    "time": "2026-06-03T15:18:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Players like Jofra might not play for England if ... ': Stokes reacts to Archer's criticism",
     "desc": "England captain Ben Stokes has defended Jofra Archer after criticism over the fast bowler missing the first Test against New Zealand following his IPL stint with Rajasthan Royals. Stokes said modern cricket offers players more opportunities than before and insisted Archer remains committed to England. He also warned that mishandling such situations could risk losing talented players from international cricket.",
@@ -142,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-economy-shows-resilience-amid-geopolitical-uncertainty-says-rbi-deputy-governor/articleshow/131487170.cms",
     "time": "2026-06-03T15:15:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "YSRCP protests removal of street food vendors, leaders detained",
-    "desc": "Cadres led by the party’s Tirupati constituency in-charge, Bhumana Abhinay Reddy, stage a demonstration and take out a walk in a bid to restore a food vending cart to a spot from which it was removed",
-    "img": "https://th-i.thgim.com/public/incoming/haxnwx/article71057980.ece/alternates/LANDSCAPE_1200/10745_3_6_2026_19_39_45_1_IMG_20260603_WA0067.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-protests-removal-of-street-food-vendors-leaders-detained/article71057656.ece",
-    "time": "2026-06-03T15:15:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -370,24 +514,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Don 3' was developed around Ranveer Singh for nearly three years",
-    "desc": "Ranveer Singh's unexpected decision to withdraw from 'Don 3' has sent shockwaves through the film community. Following an extensive 32-month process of careful planning, substantial financial backing, and rigorous preparations—action sequences being rehearsed until just days before—his exit in December 2025 leaves many speculating about the film's direction and next steps.",
-    "img": "https://static.toiimg.com/photo/msid-131483972,imgsize-56146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/don-3-was-developed-around-ranveer-singh-for-nearly-three-years-industry-circles-question-last-minute-exit/articleshow/131483944.cms",
-    "time": "2026-06-03T12:07:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhimanyu looks back on his time with Ranveer in Ram-Leela",
-    "desc": "Abhimanyu Singh, known for films like 'Aks' and 'Inspector Avinash 2', fondly recalled working with Ranveer Singh in 'Ram-Leela', calling him \"fun-loving and happy-go-lucky.\" He also celebrated Dhurandhar's success, flagged Bollywood's content-reach gap, and denied any knowledge of being part of Mom 2 with Khushi Kapoor.",
-    "img": "https://static.toiimg.com/photo/msid-131483368,imgsize-38200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/he-is-fun-loving-person-abhimanyu-singh-looks-back-on-his-time-with-ranveer-singh-in-goliyon-ki-raasleela-ram-leela/articleshow/131483368.cms",
-    "time": "2026-06-03T12:04:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Karuppu' actress Deepa’s father attacked in Thoothukudi",
     "desc": "Actress Deepa's father, Pulavar Ganesan, was attacked by a gang in Thoothukudi. Ganesan sustained serious injuries and is undergoing treatment. Police have arrested three suspects in connection with the assault. The incident is reportedly linked to temple administration disputes. The attack has caused concern among locals and fans of the actress.",
     "img": "https://static.toiimg.com/photo/msid-131483851,imgsize-109020.cms",
@@ -403,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/tvk-led-alliance-allots-tamil-nadu-rajya-sabha-seat-to-congress/articleshow/131483633.cms",
     "time": "2026-06-03T11:56:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celine Dion shares tribute",
-    "desc": "Celine Dion has paid a touching tribute to the late R&B legend Peabo Bryson, who passed away at 75. Remembering their iconic 'Beauty and the Beast' duet, Dion shared how Bryson's kindness and voice made her feel comfortable, highlighting his generous spirit and the joy he brought to music. His legacy will undoubtedly endure.",
-    "img": "https://static.toiimg.com/photo/msid-131483726,imgsize-36830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/peabo-bryson-passes-away-celine-dion-shares-tribute-for-late-singer-writes-his-talent-will-be-missed/articleshow/131483742.cms",
-    "time": "2026-06-03T11:55:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vicky says his heart sank when he returned to work after son Vihaan's birth",
-    "desc": "Vicky Kaushal, a new father to son Vihaan, reflects on how parenthood has deepened his appreciation for his own upbringing and the importance of leading by example. He also shared the emotional difficulty of his first separation from his child for a work commitment, now understanding parents' feelings about children growing up quickly.",
-    "img": "https://static.toiimg.com/photo/msid-131483559,imgsize-70946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-says-his-heart-sank-when-he-returned-to-work-after-son-vihaans-birth-appreciates-his-parents-more-after-becoming-a-father/articleshow/131483537.cms",
-    "time": "2026-06-03T11:45:27.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +594,6 @@ const newsData_en = [
     "time": "2026-06-03T10:36:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why TMC revolt is about Abhishek Banerjee, not Mamata",
-    "desc": "A Trinamool Congress rebellion is deepening, with expelled leader Ritabrata Banerjee challenging Abhishek Banerjee's authority rather than Mamata Banerjee's leadership. This internal strife, fueled by disputes over decision-making and the leader of opposition appointment, signals a proxy battle over succession, echoing past regional party struggles. The focus is on Abhishek's growing influence and organizational control.",
-    "img": "https://static.toiimg.com/photo/msid-131482509,imgsize-1326120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-tmc-revolt-is-about-abhishek-banerjee-not-mamata-banerjee-west-bengal/articleshow/131482061.cms",
-    "time": "2026-06-03T10:28:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rs 39,290 crore package get govt nod; ATF fund, coastal highway and Delhi-NCR vehicle scheme on list",
     "desc": "The Union Cabinet approved a Rs 39,290 crore package for aviation, highways, and transport modernization. A significant Rs 10,000 crore was allocated for an Aviation Turbine Fuel Price Stabilisation Fund to manage fuel cost volatility.",
@@ -513,24 +612,6 @@ const newsData_en = [
     "time": "2026-06-03T10:17:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Report",
-    "desc": "Aamir Khan and his partner Gauri Spratt are reportedly set to tie the knot on July 5, 2026. The couple, who have been living together for over a year, are planning a private, intimate ceremony at home with close family and friends.",
-    "img": "https://static.toiimg.com/photo/msid-131481651,imgsize-40968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-set-to-marry-gauri-spratt-in-july-in-an-intimate-ceremony-report/articleshow/131481505.cms",
-    "time": "2026-06-03T10:07:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Paranoia and fear’: Owaisi slams Centre over SIR, alleges exercise may create ‘permanent class of excluded Indians’",
-    "desc": "AIMIM chief Asaduddin Owaisi criticizes the Election Commission's voter list revision, fearing it could disenfranchise Muslims, women, migrants, and the poor, creating \"excluded Indians.\" He alleges the exercise, which has already removed millions, is a precursor to identifying illegal immigrants. The Supreme Court, however, has upheld the EC's authority to ensure accurate electoral rolls.",
-    "img": "https://static.toiimg.com/photo/msid-131481467,imgsize-813692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/paranoia-and-fear-owaisi-slams-centre-over-sir-alleges-exercise-may-create-permanent-class-of-excluded-indians/articleshow/131481348.cms",
-    "time": "2026-06-03T10:02:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Imagine that pressure at 15’: Buttler opens up on Vaibhav Sooryavanshi fever",
     "desc": "Teenage sensation Vaibhav Sooryavanshi, just 15, has been hailed as the IPL 2026's true star, even surpassing RCB's title win. Jos Buttler and Stuart Broad lauded his record-breaking 776 runs at a blistering strike rate. His immense popularity in India and global recognition are unprecedented for a player yet to debut internationally.",
@@ -538,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/imagine-that-pressure-at-15-jos-buttler-opens-up-on-vaibhav-sooryavanshi-fever/articleshow/131481075.cms",
     "time": "2026-06-03T09:50:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Baby boom over, India's population test begins now",
-    "desc": "India's birth rate has dropped below replacement levels. However, demographic trends vary significantly across the nation. While cities are seeing fewer births, some states like Bihar show different patterns. Families are having fewer children, impacting social structures. Infant mortality has decreased, but the first week of life remains critical.",
-    "img": "https://static.toiimg.com/photo/msid-131480919,imgsize-40942.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/baby-boom-over-indias-population-test-begins-now/articleshow/131480751.cms",
-    "time": "2026-06-03T09:49:49.000Z"
   },
   {
     "cat": "Sports",
@@ -567,42 +639,6 @@ const newsData_en = [
     "time": "2026-06-03T09:39:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Trump’s 12.5% additional tariffs move under Section 301: What does it mean for India &amp; trade deal talks?",
-    "desc": "The Section 301 probe launched by the US in March 2026 is a known variable in India’s trade deal talks with America. Yet, the proposal to impose duties on around 60 countries assumes significance at a time when a delegation from the US is in India to finalise terms of the India-US trade deal.",
-    "img": "https://static.toiimg.com/photo/msid-131479513,imgsize-70410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-12-5-additional-tariffs-move-under-section-301-what-does-it-mean-for-india-trade-deal-talks/articleshow/131479453.cms",
-    "time": "2026-06-03T09:33:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Ek bihari, sab pe bhari': Sooryavanshi receives Virat Kohli's special praise",
-    "desc": "Following Royal Challengers Bengaluru's second consecutive IPL title win, Virat Kohli shared a special moment with teenage sensation Vaibhav Sooryavanshi. Kohli, who was Player of the Match in the final, encouraged the young prodigy, who swept multiple season awards, to stay focused amidst his breakthrough campaign. Kohli's inspiring words and a memorable sign-off resonated with fans.",
-    "img": "https://static.toiimg.com/photo/msid-131480758,imgsize-792175.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ek-bihari-sab-pe-bhari-vaibhav-sooryavanshi-receives-virat-kohlis-special-praise/articleshow/131480560.cms",
-    "time": "2026-06-03T09:24:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'A win over Belal puts me in contention'",
-    "desc": "Gabriel Bonfim believes a win over former champion Belal Muhammad can establish him as a legitimate UFC welterweight contender. Riding a four-fight winning streak and coming off a statement knockout of Randy Brown, the Brazilian enters his second consecutive main event with growing confidence. Yet Muhammad's relentless pressure, wrestling and ability to thrive in long fights present a different challenge. For the former champion, it is a chance to halt a slide. For Bonfim, it is an opportunity to move closer to the title picture.",
-    "img": "https://static.toiimg.com/photo/msid-131480535,imgsize-76770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/mma/news/gabriel-bonfim-eyes-ufc-title-picture-a-win-over-belal-muhammad-puts-me-in-contention/articleshow/131480535.cms",
-    "time": "2026-06-03T09:21:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Cheaper gold by Rs 10 lakh",
-    "desc": "A recent surge in gold import duty has fueled a wave of smuggling, with illicit gold now available at discounts of up to Rs 10 lakh per kilogram. This creates a significant price disparity with legally imported bullion, mirroring trends seen after a similar duty hike in 2013. Industry experts warn of escalating unofficial imports.",
-    "img": "https://static.toiimg.com/photo/msid-131480381,imgsize-243942.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/cheaper-gold-by-rs-10-lakh-15-import-duty-prompts-smuggling-wave-in-india/articleshow/131479617.cms",
-    "time": "2026-06-03T09:00:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "It is not just songs, Ilaiyaraaja is also integral to ‘Manjanathi’: Mari Selvaraj",
     "desc": "“Whenever the name Manjanathi came to my mind, I thought of adapting it into a film. Even then, I had decided that maestro Ilaiyaraaja should compose the music. When I met him and narrated the story, he agreed to score it,” the director said.",
@@ -610,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/it-is-not-just-songs-ilaiyaraaja-is-also-integral-tomanjanathi-says-mari-selvaraj/article71054340.ece",
     "time": "2026-06-03T07:42:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "A new trade hurdle? India engaged with US over Section 301 probe linked to forced labour concerns",
-    "desc": "The Union government is engaging with the US concerning a Section 301 investigation into forced labor and industrial capacity. The US Trade Representative has identified India among countries with inadequate measures against goods made with forced labor, proposing potential tariffs. This occurs amidst ongoing bilateral trade deal discussions.",
-    "img": "https://static.toiimg.com/photo/msid-131478653,imgsize-771348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/a-new-trade-hurdle-india-engaged-with-us-over-section-301-probe-linked-to-forced-labour-concerns/articleshow/131478569.cms",
-    "time": "2026-06-03T07:26:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -630,24 +657,6 @@ const newsData_en = [
     "time": "2026-06-03T06:49:18.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Will gold, silver prices continue to be stuck in a range? Check June 3, 2026 outlook",
-    "desc": "While gold and silver prices are seeing some weakness, in the domestic market gold has managed to exhibit some resilience, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.",
-    "img": "https://static.toiimg.com/photo/msid-131477290,imgsize-62110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-june-03-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions/articleshow/131477256.cms",
-    "time": "2026-06-03T06:11:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why India is on the list",
-    "desc": "The US Trade Representative has proposed additional tariffs on goods from 54 economies, including India, over concerns about forced labor in supply chains. This move, stemming from a Section 301 investigation, could impact India's exports, particularly those relying on Chinese inputs, despite existing domestic prohibitions on forced labor.",
-    "img": "https://static.toiimg.com/photo/msid-131477248,imgsize-2414995.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-proposes-action-against-60-countries-over-forced-labour-concerns-why-india-is-on-the-list/articleshow/131477222.cms",
-    "time": "2026-06-03T06:03:28.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "The future of India’s chip industry",
     "desc": "A new NITI Aayog report says India’s semiconductor ecosystem is not yet equipped to fully meet domestic demand, while stressing the need to strengthen local manufacturing, as geopolitical pressures could potentially disrupt the electronics supply chain",
@@ -655,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
     "time": "2026-06-03T04:12:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Praggnanandhaa beats Carlsen again, closes in on lead",
-    "desc": "It’s more important for the tournament that I get this win than thinking that it’s Magnus. Of course, it’s great to do it against Magnus, but I think winning any game at this stage of the tournament is good, says Indian Grandmaster R. Praggnanandhaa",
-    "img": "https://th-i.thgim.com/public/incoming/sk4j8m/article71054613.ece/alternates/LANDSCAPE_1200/55186510092_c92f02757f_o.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/norway-chess-praggnanandhaa-beats-carlsen-again-closes-in-on-lead/article71054614.ece",
-    "time": "2026-06-03T02:33:25.000Z"
   },
   {
     "cat": "Sports",
