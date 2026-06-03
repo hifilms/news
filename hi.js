@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Schedule for India's historic tour of New Zealand announced, check complete fixtures of all-format visit",
+    "desc": "New Zealand Cricket (NZC) announced its International summer home schedule with an all-format India visit headlining the itinerary that also features trips from Sri Lanka men and Bangladesh women. In what will be New Zealand's largest...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/schedule-for-indias-historic-tour-of-new-zealand-announced-check-complete-fixtures-of-all-format-visit-2026-06-03-1043434",
+    "time": "2026-06-03T02:38:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur creates world record, closes in on another huge one during third T20I against England",
+    "desc": "India captain Harmanpreet Kaur etched her name into the history books once again as she became the most-capped women's international cricketer during the third T20I against England on Tuesday, June 2. Kaur, who had shattered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-creates-world-record-closes-in-on-another-huge-one-during-third-t20i-against-england-2026-06-03-1043429",
+    "time": "2026-06-03T02:16:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India bottle up series win as Capsey, Knight lead England chase down record total",
+    "desc": "The Indian women's team bottled up a chance of a series win over England after failing to defend 180 in the third and final T20I of the series at the Cooper Associates County Ground, Taunton,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-bottle-up-series-win-as-capsey-knight-lead-england-chase-down-record-total-2026-06-03-1043425",
+    "time": "2026-06-03T01:34:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "R Ashwin slams five-time IPL champions for dismal auction strategy after subpar season",
     "desc": "The IPL (Indian Premier League) 2026 concluded with Royal Challengers Bengaluru winning their second straight title. The likes of Sunrisers Hyderabad, Rajasthan Royals, and Gujarat Titans managed to reach the knockout stages of the tournament. One...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-weighs-in-on-lsg-s-strategy-in-not-playing-ayush-badoni-after-dismal-ipl-season-2026-06-02-1043371",
     "time": "2026-06-02T11:18:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sydney Thunder announces appointment of Andrew Flintoff as head coach",
-    "desc": "In a major development, BBL (Big Bash League) franchise Sydney Thunder has come forward to announce the appointment of former England cricketer Andrew Flintoff as the side’s new head coach ahead of the upcoming edition...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sydney-thunder-announces-appointment-of-andrew-flintoff-as-head-coach-2026-06-02-1043361",
-    "time": "2026-06-02T10:28:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why has Anjum Chopra picked India as \"one of the favourites\" for Women's T20 World Cup 2026",
-    "desc": "Former India cricketer Anjum Chopra has picked the Harmanpreet Kaur-led side as one of the favourites to win the upcoming Women's T20 World Cup 2026. The tournament, scheduled to take place in England, will kick...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-has-anjum-chopra-picked-india-as-one-of-the-favourites-for-womens-t20-world-cup-2026-2026-06-02-1043356",
-    "time": "2026-06-02T09:41:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Not Dhoni or Rohit, these three players have won hat-trick of IPL titles; two Indians on list",
-    "desc": "Winning an IPL title is an achievement in itself. It gives the teams and the players a different honour of being at the top of arguably the most challenging league in the world. The Royal...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-dhoni-or-rohit-these-three-players-have-won-hat-trick-of-ipl-titles-two-indians-on-list-2026-06-02-1043352",
-    "time": "2026-06-02T09:19:51.000Z"
   }
 ];

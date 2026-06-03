@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "PF ખાતાધારકો માટે મહત્વપૂર્ણ સમાચાર! 8.25% વ્યાજ જમા કરવા પર મોટું અપડેટ, જાણો",
+    "desc": "EPFOએ નાણાકીય વર્ષ 2025-26 માટે વ્યાજ દર 8.25 ટકા પર જાળવી રાખ્યો છે, પરંતુ લાખો ખાતાધારકોને હજુ સુધી તેમના ખાતામાં વ્યાજની એન્ટ્રીઓ જોવા મળી નથી. એક્સપર્ટ કહે છે કે આ એક સામાન્ય વહીવટી પ્રક્રિયા છે, કારણ કે વ્યાજ ક્રેડિટ માટે સરકારની મંજૂરી અને રેકોર્ડ અપડેટ્સની જરૂર પડે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/important-news-for-pf-account-holders-big-update-on-depositing-8-25-percent-interest-know-480204 ",
+    "time": "2026-06-03T03:38:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઈરાનનો કુવૈત અને બહેરીન પર હુમલો, ક્રૂડના ભાવમાં ભડકો, શું વધશે પેટ્રોલ-ડીઝલના ભાવ?",
+    "desc": "મિડલ ઈસ્ટમાં શાંતિ ક્યારે સ્થપાશે? આ સવાલ હવે બધાને કોરી ખાય છે. કારણ કે અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલી પીસ ડીલ વચ્ચે ઈરાને કુવૈત અને બહેરીન પર મિસાઈલ અને ડ્રોનથી હુમલો કરી નાખ્યો. માંડ માંડ અમેરિકા અને ઈરાન વચ્ચે સીઝ ફાયર પર સહમતી બની હતી તેના એક દિવસ પહેલા ઈઝરાયેલે લેબનોન પર હુમલો કર્યો હતો. હવે પાછા ક્રૂડના ભાવનાં વધારાના એંધાણ જોવા મળી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/iran-us-war-latest-update-crude-oil-price-increase-check-latest-petrol-diesel-rate-gujarat-major-cities-480203 ",
+    "time": "2026-06-03T03:19:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મહારાષ્ટ્ર કે રાજસ્થાન નહીં, આ છે દેશમાં સૌથી વધારે વીજળી ઉત્પન્ન કરતું રાજ્ય ? જાણો ગુજરાતનું સ્થાન",
     "desc": "ઉનાળા દરમિયાન વધતી વીજળીની માંગ વચ્ચે, ઉત્તર પ્રદેશે 10 ટકા વધારાના વીજળી દરની વસૂલાત સ્થગિત કરી દીધી છે. રાજ્યમાં વીજળીની સતત વધતી માંગ સાથે, ખામીઓ અને વીજળી કાપની સંખ્યા વધી રહી છે. દેશના સૌથી મોટા રાજ્યોમાંનું એક હોવા છતાં, ઉત્તર પ્રદેશ વીજળી ઉત્પાદનમાં પાછળ છે. હવે પ્રશ્ન એ છે કે દેશમાં કયું રાજ્ય સૌથી વધુ વીજળી ઉત્પન્ન કરે છે અને શા માટે.",
@@ -421,24 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/5-most-scary-horror-movies-on-ott-in-hindi-jio-hotstar-5-must-watch-horror-thriller-movies-479876 ",
     "time": "2026-05-31T10:27:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચ અંગે 2 મોટા નિર્ણય, મેમોરેન્ડમ અને પે લેવલ પર મોટું અપડેટ, જાણો અહીં બંને આદેશ",
-    "desc": "8th Pay Commissionને લઈને કેન્દ્રીય કર્મચારીઓ માટે 2 મોટી જાહેરાતો કરવામાં આવી છે. આમાંની એક જાહેરાત પંચ દ્વારા મેમોરેન્ડમ સબમિટ કરવા અંગેની છે, જ્યારે બીજી જાહેરાત કેન્દ્ર સરકાર દ્વારા નોન-ફંક્શનલ અપગ્રેડેશન (NFU) ને લઈને કરવામાં આવી છે. આ નિર્ણયોથી કેન્દ્રીય કર્મચારીઓને 8મા પગાર પંચની ભલામણો લાગુ થાય તે પહેલાં જ મોટો ફાયદો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-two-major-decisions-related-to-the-8th-pay-commission-updates-issued-on-memorandum-and-pay-levels-479858 ",
-    "time": "2026-05-31T08:51:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેટ્રોલ-ડીઝલ બાદ શું 1 જૂને વધશે LPGના ભાવ? જાણો &amp;#039;એક ઘર, એક કનેક્શન&amp;#039;નો નવો નિયમ",
-    "desc": "દર મહિનાની 1 તારીખે ઓઇલ કંપનીઓ ગેસ સિલિન્ડરની કિંમતોમાં ફેરફાર કરે છે. ઈરાન યુદ્ધના કારણે ઊભા થયેલા ઉર્જા સંકટને લીધે દેશમાં છેલ્લા એક મહિનામાં ઘણી વખત પેટ્રોલ-ડીઝલના ભાવ વધ્યા છે. ગેસની કિંમતોમાં ફેરફારની સાથે-સાથે સિલિન્ડર સાથે જોડાયેલા નિયમોમાં પણ મોટા ફેરફાર કરવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-lpg-prices-increase-after-petrol-diesel-on-june-1-know-the-new-rule-of-one-house-one-connection-479857 ",
-    "time": "2026-05-31T08:35:01.000Z"
   },
   {
     "cat": "Politics",
