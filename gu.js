@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "કેન્દ્રીય કર્મચારીઓના ટેક હોમ સેલરીમાં થશે બમ્પર વધારો? સરકાર લાગુ કરી શકે છે આ ખાસ ફોર્મ્યુલા!",
+    "desc": "આવતા વર્ષના પ્રથમ છ મહિનામાં પગાર પંચ પોતાની ભલામણો સરકારને સોંપી શકે છે. નિષ્ણાતોનું માનીએ તો સરકાર 2.86ની ફોર્મ્યુલા લાગુ કરી શકે છે. જો આવું થશે તો કેન્દ્રીય કર્મચારીઓની ટેક હોમ સેલરીમાં મોટો વધારો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-will-there-be-a-bumper-increase-in-the-take-home-salary-of-central-employees-government-can-implement-this-formula-480422 ",
+    "time": "2026-06-04T14:29:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "VARથી લઈને હાઇડ્રેશન બ્રેક સુધી... આ વખતે ફીફા વર્લ્ડ કપમાં શું છે નવું? મોટા બદલાવની ઇનસાઇડ સ્ટોરી",
+    "desc": "ફીફા વર્લ્ડ કપ 2026માં 48 ટીમો, 104 મેચો અને ત્રણ યજમાન દેશો (અમેરિકા, કેનેડા, મેક્સિકો) સાથે ફૂટબોલ ઇતિહાસનો સૌથી મોટો અને અનોખો મહાકુંભ યોજાવા જઈ રહ્યો છે. આ વખતે ટૂર્નામેન્ટમાં ઘણી વસ્તુઓ નવી જોવા મળશે. ચાલો તેના વિશે અહીં વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/explained-var-to-hydration-breaks-what-new-rules-in-this-fifa-world-cup-the-inside-story-of-the-big-changes-480413 ",
+    "time": "2026-06-04T13:09:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સેન્સર બોર્ડના &amp;#039;સિઝરમેન&amp;#039; કહેવાતા પહલાજ નિહલાની, શાહિદ કપૂરની ફિલ્મને લઈને થયો હતો હાઈ-વોલ્ટેજ ડ્રામા",
+    "desc": "બોલીવુડના જાણીતા પ્રોડ્યુસર અને સેન્સર બોર્ડના પૂર્વ ચેરમેન પહલાજ નિહલાનીનું 76 વર્ષની વયે લીવરની બીમારીના કારણે નિધન થયું છે. આજે બોલીવુડના કલાકારો તેમના નિધન પર દુ:ખની લાગણી વ્યક્ત કરી રહ્યા છે પણ જ્યારે તેઓ CBFC ના ચેરમેન હતા ત્યારે તેમના નિર્ણયોની ભારે આલોજના થતી. તેમાં પણ કેટલીક ફિલ્મોને લઈને તો હાઈ વોલ્ટેજ ડ્રામા થયા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/pahlaj-nihalani-controversies-as-chairman-of-censor-board-udta-punjab-and-lipstick-under-my-burkha-film-controversy-480400 ",
+    "time": "2026-06-04T11:57:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "લોહીની ઉલ્ટીઓ થઈ અને પછી શરુ થઈ મોત સામે જંગ, મુશ્કેલ સમયમાં પહલાજ નિહલાનીને મળવા પહોંચ્યો એક જ એક્ટર",
+    "desc": "બોલીવુડના દિગ્ગજ ફિલ્મ નિર્માતા પહલાજ નિહલાનીનું 76 વર્ષે નિધન થયું છે. પહલાજ નિહલાનીએ અનેક એક્ટર્સનું કરિયર બનાવવામાં મહત્વનો ફાળો આપ્યો છે. પરંતુ આજે તમને પહલાજ નિહલાની સાથે જોડાયેલી એક એવી ઘટના વિશે જણાવીએ જેમાં પહલાજ જીવન-મરણ વચ્ચે ઝોલાં ખાતા હતા અને તેમને મળવા માત્ર એક એક્ટર પહોંચ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/pahlaj-nihalani-passes-away-at-76-death-reason-liver-cirrhosis-unknown-story-of-pahlaj-nihalani-480394 ",
+    "time": "2026-06-04T11:42:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વિરાટ કોહલી બાદ હવે રોહિત શર્મા પણ થશે ODI સિરીઝમાંથી બહાર ? હાર્દિક પંડ્યા અંગે પણ સસ્પેન્સ",
+    "desc": "જો વિરાટ કોહલી બાદ રોહિત શર્મા પણ અફઘાનિસ્તાન શ્રેણીમાંથી બહાર થાય છે, તો તે ભારતીય ટીમ માટે બેવડો ઝટકો હશે. આવી સ્થિતિમાં ટીમ ઇન્ડિયાના યુવા ખેલાડીઓ પર એક મહત્વપૂર્ણ જવાબદારી આવશે અને તેમને પોતાને સાબિત કરવા માટે એક મોટું પ્લેટફોર્મ પણ મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/after-virat-kohli-will-rohit-sharma-also-be-out-of-odi-series-hardik-pandya-also-doubt-480398 ",
+    "time": "2026-06-04T11:38:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગેસ સિલિન્ડરની હોમ ડિલિવરી માટે ચૂકવવા પડશે રૂપિયા 25 ? LPG ગ્રાહકોએ આ નિયમ જાણવા જરૂરી",
+    "desc": "જો તમે ઘરેલુ, કોમર્શિયલ અથવા 5 કિલોના નાના ગેસ સિલિન્ડરનો ઉપયોગ કરો છો, તો આ સમાચાર તમારા માટે ખૂબ જ ઉપયોગી છે. ગેસ સિલિન્ડર ડિલિવરી સંબંધિત એક નવું અપડેટ બહાર પાડવામાં આવ્યું છે. જેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/lpg-price-chhotu-gas-cylinder-home-delivery-charge-and-rules-480396 ",
+    "time": "2026-06-04T11:18:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "₹1,200 થી શરૂઆત અને ₹15.15 લાખ કરોડનું કૌભાંડ! જાણો કોણ છે ગુજરાતી મૂળના રાજેશ મેહતા",
+    "desc": "સેબીએ એક વિસ્ફોટક ખુલાસો કર્યો છે. તેની તપાસમાં મોટું કૌભાંડ સામે આવ્યું છે. આ મામલો રાજેશ એક્સપોર્ટ્સ સાથે જોડાયેલો છે. સેબીએ કંપનીમાં ઘણી અનિયમિતતાને ઉજાગર કરી છે. કંપની પર 15.15 લાખ કરોડ રૂપિયાના કથિત કૌભાંડનો આરોપ છે. જાણો કોણ છે રાજેશ મેહતા?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/who-is-gujarati-origin-rajesh-mehta-whose-company-rajesh-exports-facing-sebi-ban-over-alleged-15-15-lakh-crore-fraud-480393 ",
+    "time": "2026-06-04T10:54:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;પંડ્યા પરિવારમાં...&amp;#039; કૃણાલ પંડ્યાએ હાર્દિક સાથેના સંબંધો પર તોડ્યું મૌન, જાણો શું કહ્યું",
+    "desc": "RCBએ IPL 2026ની ફાઇનલમાં ગુજરાત ટાઇટન્સને હરાવીને બીજી વખત ટાઇટલ જીત્યું. ત્યારે હવે આ જીત બાદ કૃણાલ પંડ્યાએ પણ તેના ભાઈ હાર્દિક સાથેના સંબંધો અંગે મૌન તોડ્યું છે. ત્યારે આ લેખમાં જાણીશું કે કૃણાલ પંડ્યાએ હાર્દિક સાથેના સંબંધો અંગે શું કહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/krunal-pandya-breaks-silence-on-his-bonding-with-brother-hardik-pandya-480391 ",
+    "time": "2026-06-04T10:37:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG Cylinder પર મળતી સબસિડી પર સરકારની મોટી કાર્યવાહી! આ લોકોના ખાતામાં હવે પૈસા નહીં આવે",
+    "desc": "જે લોકો સબસિડીવાળો એલપીજી સિલિન્ડર વાપરતા હોય તેમના માટે મોટા સમાચાર છે. સરકારના નિયમો મુજબ જો ગ્રાહકની આવક 10 લાખ રૂપિયાથી વધુ હોય તો તેઓ એલપીજી સબસિડી માટે પાત્ર નથી. હવે કડકાઈથી આ અંગે તપાસ હાથ ધરાઈ રહી છે. વધુ વિગતો જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-update-on-lpg-cylinder-subsidy-check-rule-regarding-annual-income-limit-what-is-data-mining-480387 ",
+    "time": "2026-06-04T10:04:39.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "સૂર્યવંશીના &amp;#039;વૈભવ&amp;#039;ને ચમકાવશે ગ્રહોની આ જુગલબંધી ! કુંડળીનો 11મો ભાવ આપી રહ્યો છે મોટા સંકેત",
     "desc": "IPL 2026માં વૈભવ સૂર્યવંશીના શાનદાર પ્રદર્શન બાદ હવે દરેક જગ્યાએ ચર્ચા છે કે શું ક્રિકેટ જગતને નવો ગ્લોબલ સુપરસ્ટાર મળી ગયો છે. ખાસ વાત એ છે કે વૈભવની કુંડળી પણ ઈન્ટરનેશનલ સુપરસ્ટાર બનવાના મજબૂત સંકેત આપી રહી છે.",
@@ -297,15 +378,6 @@ const newsData_gu = [
     "time": "2026-06-02T12:49:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "હાર્દિક પંડ્યા ક્યારે થશે ફિટ ? રોહિત શર્માને પણ CoE તરફથી તેડું, બંનેની ફિટનેસ અંગે મોટું અપડેટ",
-    "desc": "સ્ટાર ઓલરાઉન્ડર હાર્દિક પંડ્યા IPL દરમિયાન ઈજાથી પીડાઈ રહ્યો હતો. રોહિત શર્મા પણ ટૂર્નામેન્ટ દરમિયાન ઘણા દિવસો સુધી ઈજાને કારણે બહાર રહ્યો હતો. અફઘાનિસ્તાન સામેની ODI શ્રેણી પહેલા આ બંને દિગ્ગજ ખેલાડીઓની ફિટનેસ અંગે એક નવું અપડેટ સામે આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-rohit-sharma-fitness-update-india-vs-afghanistan-series-480155 ",
-    "time": "2026-06-02T12:24:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "લોકરમાં રાખેલું સોનું બદલી શકે છે દેશની કિસ્મત, જાણી લો શું છે આ ગેમચેન્જર આઈડિયા",
     "desc": "ભારતના ઘરો અને મંદિરોમાં પડેલું 32,000 ટન સોનું દેશની મોટી આર્થિક સંપત્તિ છે. જો આ સોનાને રિસાયકલ કરવામાં આવે, તો આયાત બિલ ઘટશે અને ફોરેક્સ રિઝર્વ મજબૂત થશે. આ માટે જ્વેલરી ઈન્ડસ્ટ્રીઝ સરકાર પર પ્રેશર કરી રહી છે.",
@@ -313,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/now-the-government-is-eyeing-gold-kept-in-homes-pm-modi-new-plan-to-reduce-import-bills-know-how-the-country-economy-will-benefit-480143 ",
     "time": "2026-06-02T12:07:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "LPG સિલિન્ડર ધરાવતા ગ્રાહકો ખાસ જાણે, 30 જૂન સુધીમાં ફટાફટ પતાવજો આ કામ! જાણો સરકારનો નવો નિયમ",
-    "desc": "મિડલ ઈસ્ટમાં તણાવના કારણે વૈશ્વિક ઉર્જા સંકટ જોવા મળી રહ્યું છે. જેના ભરડામાં માત્ર ભારત જ નહીં પરંતુ વિશ્વના અનેક દેશો આવેલા છે. ભારતમાં એલપીજીની સમસ્યા વચ્ચે સરકારે પણ ગ્રાહકોની સગવડ માટે અનેક પગલાં ભર્યા છે. આ ઉપરાંત એલપીજી અને પીએનજી સંલગ્ન કેટલાક એવા નિયમો પણ બદલાયા છે જે ગ્રાહકોએ જાણવા ખાસ જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/important-update-about-lpg-connection-and-png-connection-users-should-know-480131 ",
-    "time": "2026-06-02T11:59:12.000Z"
   },
   {
     "cat": "Business",
@@ -333,24 +396,6 @@ const newsData_gu = [
     "time": "2026-06-02T11:39:17.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ભારતીય ટીમમાં વધુ એક ખેલાડીની અચાનક એન્ટ્રી, ટેસ્ટમાં મળી શકે છે ડેબ્યૂની તક",
-    "desc": "અફઘાનિસ્તાન સામેની ટેસ્ટ મેચ માટે આકિબ નબી ટીમ ઈન્ડિયામાં જોડાયો છે. તેને બેકઅપ ખેલાડી તરીકે સામેલ કરવામાં આવ્યો છે. જમ્મુ-કાશ્મીર તરફથી રમતા આકિબે રણજી ટ્રોફીમાં શાનદાર પ્રદર્શન કર્યું હતું. તેને ડેબ્યૂ કરવાની તક મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-afg-auqib-nabi-joins-indian-team-before-afghanistan-test-480140 ",
-    "time": "2026-06-02T10:34:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "₹2,172 કરોડની લોન, ₹579 કરોડમાં સેટલમેન્ટ, સવાલોના ઘેરામાં સરકારી કંપની NARCL",
-    "desc": "ગુજરાતીમાં એક કહેવત છે કે રીંગણા લઉં કે બે ચાર, ના ના લેને 10-12 આવી જ સ્થિતિ આ કેસમાં છે. સરકારી કંપની NARCLની રચના ત્રણ વર્ષ પહેલાં ફસાયેલી લોનની રિકવરી માટે કરવામાં આવી હતી. પરંતુ Agson Global Pvt. Ltd પાસેથી 2172 કરોડની લોન 579 કરોડમાં સેટલ કરવાના આરોપમાં હવે ખુદ NARCL સવાલોના ઘેરામાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/a-loan-of-rs-2172-crore-was-settled-for-rs-579-crore-by-narcl-480119 ",
-    "time": "2026-06-02T09:36:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "શું સુષ્મિતા સેન &amp;#039;ગોલ્ડ ડિગર&amp;#039; હતી, કેમ થયું હતું લલિત મોદી અને સુષ્મિતાનું બ્રેકઅપ?",
     "desc": "થોડા વર્ષો પહેલા જ્યારે આઈપીએલના ોપૂર્વ કમિશનર અને બિઝનેસમેન લલિત મોદીએ અચાનક સુષ્મિતા સેન સાથે ફોટો શેર કર્યા અને રિલેશનશીપની સત્તાવાર રીતે જાહેરાત કરી હતી ત્યારે લોકો વિચારમાં પડી ગયા હતા. સોશિયલ મીડિયા પર તો જાણે વાવાઝોડું આવી ગયું હતું. હવે લલિત મોદીએ સુષ્મિતા સેન વિશે ખુલ્લા મનથી વાતો કરી છે. જાણો શું કહ્યું.",
@@ -358,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/lalit-modi-open-ups-about-his-relationship-with-sushmita-sen-why-did-they-break-up-480112 ",
     "time": "2026-06-02T08:29:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શું મકાન માલિક નોટિસ આપ્યા વગર ઘર ખાલી કરાવી શકે! જાણો શું કહે છે નિયમ?",
-    "desc": "મોટા ભાગના લોકો તે જાણે છે કે ભાડુઆત પાસે નોટિસ આપ્યા વગર ઘર ખાલી કરાવી શકાય નહીં. પરંતુ આ સંપૂર્ણ રીતે સાચું નથી. ઘણી પરિસ્થિતિ એવી હોય છે, જ્યારે નોટિસ આપ્યા વગર પણ ઘર ખાલી કરાવી શકાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/can-a-landlord-evict-a-tenant-without-any-notice-what-the-rules-say-tenant-rights-india-480096 ",
-    "time": "2026-06-02T06:25:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -628,23 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/actors-who-faced-fwice-banned-before-ranveer-singh-who-were-banned-by-fwice-in-bollywood-479365 ",
     "time": "2026-05-27T06:09:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ફરી ભડક્યું યુદ્ધ? હોર્મૂઝ સ્ટ્રેટ પાસે થયેલા વિસ્ફોટે દુનિયાનું ધ્યાન ખેંચ્યું, જાણી લો શું છે આ મામલો",
-    "desc": "શું અમેરિકા અને ઈરાન વચ્ચે ફરી એકવાર યુદ્ધ ભડકવાનું છે? શું મિડલ ઈસ્ટ ફરી એકવાર જંગની કગાર પર છે? આવા તમામ સવાલ છે, જે ફરી લોકોના મનમાં ઉઠી રહ્યા છે. જેનું કારણ છે ઈરાનની મિસાઈલ સાઈટ પર થયેલો હુમલો. આ હુમલો કોણે અને શા માટે કર્યો, ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-iran-conflict-war-broke-out-again-the-explosion-near-the-strait-of-hormuz-caught-the-world-attention-know-what-this-matter-is-479325 ",
-    "time": "2026-05-26T12:50:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "7 કરોડમાં બનેલી હોરર ફિલ્મ ઓબ્સેશને 11 દિવસમાં કમાઈ લીધા 750 કરોડ, ભારતમાં આ તારીખથી જોવા મળશે",
-    "desc": "એક હોરર ફિલ્મ છે જેની ચર્ચા જોરશોરથી થઈ રહી છે. આ ફિલ્મ તાજેતરમાં જ રિલીઝ થઈ છે અને આ ફિલ્મે કમાણીની બાબતમાં ધુરંધર 2 નો રેકોર્ડ પણ તોડી નાખ્યો છે. આ ફિલ્મ માત્ર 7 કરોડના ખર્ચે બની છે અને તેણે અત્યાર સુધીમાં 750 કરોડની કમાણી કરી લીધી છે. આ ફિલ્મ કઈ છે જાણી લો તમે પણ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/curry-barker-horror-film-obsession-7-crore-budget-earned-750-crore-obsession-horror-film-india-release-date-479204 ",
-    "time": "2026-05-25T11:05:30.000Z"
   }
 ];

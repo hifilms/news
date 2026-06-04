@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India Test cricketer announces retirement; played BGT, World Test Championship final vs Australia",
+    "desc": "Keeper-batter KS Bharat has announced his retirement from India cricketer. The 32-year-old made his international debut in 2023 against Australia in Nagpur. He was brought in a cover for Rishabh Pant, who was out of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-test-cricketer-announces-retirement-played-bgt-world-test-championship-final-vs-australia-2026-06-04-1043665",
+    "time": "2026-06-04T13:51:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lord's host 150th Test match during ENG vs NZ, which Indian ground hosted most red-ball matches?",
+    "desc": "Lord's Cricket Ground added another landmark chapter to its storied history on June 4 as the iconic London venue became the first ground in the world to host 150 men's Test matches. It hosted its first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lord-s-host-150th-test-match-during-eng-vs-nz-which-indian-ground-hosted-most-red-ball-matches-2026-06-04-1043657",
+    "time": "2026-06-04T12:52:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shaun Tait quits as Bangladesh pace bowling coach, reveals reason",
+    "desc": "Shaun Tait has stepped down as Bangladesh's fast bowling coach with immediate effect. He joined the Bangladesh squad in May last year. On Thursday, June 4, the former Australia pacer announced his decision to step...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shaun-tait-quits-as-bangladesh-pace-bowling-coach-reveals-reason-2026-06-04-1043650",
+    "time": "2026-06-04T12:05:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How is Rishabh Pant doing after losing India vice-captaincy and quitting LSG leadership?",
+    "desc": "India's upcoming Test against Afghanistan in New Chandigarh will mark the team's first red-ball assignment since a leadership reshuffle saw Rishabh Pant lose the vice-captaincy. KL Rahul has been announced as Shubman Gill’s new deputy....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-is-rishabh-pant-doing-after-losing-india-vice-captaincy-and-quitting-lsg-leadership-2026-06-04-1043637",
+    "time": "2026-06-04T10:59:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Jofra Archer not playing vs New Zealand in 1st Test at Lord's?",
+    "desc": "England were forced to drop Jofra Archer from their playing XI in the first Test against New Zealand at Lord’s to manage his workload. The ace pacer played 16 games for Rajasthan Royals in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jofra-archer-not-playing-vs-new-zealand-in-1st-test-at-lord-s-2026-06-04-1043624",
+    "time": "2026-06-04T10:01:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer weighs in on India's next T20I captaincy choice after Suryakumar Yadav",
     "desc": "Recent reports have suggested that ace batter Suryakumar Yadav’s time with the Indian team is coming to an end. After consistent subpar performances in the format and a dreadful IPL season, the BCCI (Board of...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-set-to-miss-odi-series-against-afghanistan-with-hamstring-injury-2026-06-04-1043584",
     "time": "2026-06-04T05:11:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Great ambassador after Kohli': Former India cricketer hails Shubman Gill ahead of Test match against AFG",
-    "desc": "With the IPL (Indian Premier League) 2026 coming to an end, the focus has once again shifted towards international cricket. The Indian team will be in action once more as they take on Afghanistan in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/great-ambassador-after-kohli-former-india-cricketer-hails-shubman-gill-ahead-of-test-match-against-afg-2026-06-04-1043581",
-    "time": "2026-06-04T04:59:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Suryakumar Yadav's future as India captain in turmoil despite winning T20 World Cup 2026?",
-    "desc": "After recently leading the Indian team to their second straight T20 World Cup title, reports have suggested that the BCCI (Board of Control for Cricket in India) is looking for a change in leadership, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-suryakumar-yadav-s-future-as-india-captain-in-turmoil-despite-winning-t20-world-cup-2026-2026-06-04-1043574",
-    "time": "2026-06-04T04:01:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Absolutely ludicrous': Simon Doull slams Jofra Archer for missing Test match after stellar IPL season",
-    "desc": "The IPL (Indian Premier League) 2026 has concluded, and world cricket has moved on to international cricket. With the tournament coming to an end, the focus has shifted to the upcoming Test series between England...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/absolutely-ludicrous-simon-doull-slams-jofra-archer-for-missing-test-match-after-stellar-ipl-season-2026-06-04-1043566",
-    "time": "2026-06-04T02:31:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kyle Walker questions England's squad selection ahead of FIFA World Cup 2026",
-    "desc": "The stage is set for the upcoming edition of the FIFA World Cup 2026. The marquee tournament will kick off on June 11th with 48 teams squaring off against each other in a bid to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/kyle-walker-questions-england-s-squad-selection-ahead-of-fifa-world-cup-2026-2026-06-04-1043560",
-    "time": "2026-06-04T01:27:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch England vs New Zealand in India?",
-    "desc": "England begin their Test summer against New Zealand at Lord’s on Thursday, June 4. After the embarrassing series loss in the Ashes, England are eager to bounce back in the longest format and have announced...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-nz-test-series-live-when-and-where-to-watch-england-vs-new-zealand-in-india-2026-06-03-1043549",
-    "time": "2026-06-03T17:59:10.000Z"
   }
 ];

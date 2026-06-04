@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "১৫১৫০০০০০ টাকার বিস্ময়কর কেলেঙ্কারি! আফ্রিকার স্বর্ণখনিতে ১০৩৫ কোটি টাকা! ইতিহাসের বৃহত্তম স্ক্যাম",
+    "desc": "তদন্ত শেষ না হওয়া পর্যন্ত রাজেশ এক্সপোর্টস এবং রাজেশ মেহেতার উপর নিষেধাজ্ঞা বহাল থাকবে বলে জানিয়েছে 'সেবি'। কেলেঙ্কারির অঙ্ক দেখে মাথা ঘুরে গিয়েছে সকলের! কেননা, অনেক দেশের তো বার্ষিক অর্থনৈতির উৎপাদনও ওই অঙ্কের ধারেকাছে থাকে না!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/rajesh-exports-sebi-case-inflated-bills-gold-mine-rajesh-exports-rajesh-mehta-rs-15-lakh-crore_656617.html ",
+    "time": "2026-06-04T11:46:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "মিলছে না চিকেন! মুরগির মাংসের সাপ্লাইয়ে বিরাট কোপ, বাজারে হাহাকার; রান্নাঘরে বিশাল সংকট",
+    "desc": "চিকেন রফতানিতে ধস বাণিজ্য পথগুলির অচলাবস্থা এবং চলতি সংঘাতের কারণে সৃষ্ট অর্থনৈতিক অনিশ্চয়তার মাঝে আঞ্চলিক ক্রেতাদের কম চাহিদাকেই প্রতিফলিত করে। সৌদি আরব, সংযুক্ত আরব আমিরশাহি এবং পারস্য উপসাগরীয় অঞ্চলের অন্যান্য দেশগুলি ব্রাজিলের মুরগির মাংস রফতানির একটি বড় অংশ জুড়ে রয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/chicken-crisis-brazilian-poultry-meat-exports-fell-by-nearly-25-percent-significantly-reduced-demand-for-imports_656612.html ",
+    "time": "2026-06-04T10:16:48.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "বিবাহিত কন্যারা বাবার পরিবার থেকে বাদ? এক মামলার পর্যবেক্ষণে বিরাট রায় সুপ্রিম কোর্টের",
     "desc": "সুপ্রিম কোর্টের রায়ে পরিষ্কার বলা হল, বিবাহিত কন্যাকে পরিবার থেকে বাদ দেওয়াটা অযৌক্তিক। সংশ্লিষ্ট মহল বলছে, লিঙ্গবৈষম্য দূর করার জন্য খুবই গুরুত্বপূর্ণ এই রায়। শীর্ষ আদালতের মন্তব্য, ছেলে বিয়ের পরও পরিবারের সদস্যই থাকেন, এদিকে মেয়েরা বাপের বাড়ির সদস্য হিসেবে গণ্য হন না! কেন?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -97,15 +115,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/history-of-indian-politicians-attacked-slapped-by-public-shoe-throwing-incidents_655981.html ",
     "time": "2026-05-30T16:16:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৫ মাস ধরে ছক, ঠান্ডা মাথায় পরিবারের ৪ জনকে খুনের পরও অনুশোচনাহীন! ১৭-র নাবালক ঠিক কতটা নৃশংস?",
-    "desc": "নাবালকের দাবি, এই লাগাতার মারধর ও অত্যাচারের কারণেই নিজের বাবার প্রতি তার মনে তীব্র ক্ষোভ, রাগ ও ঘৃণার জন্ম নেয়। সে প্রায়ই তার মাকে বলত যে, সে একদিন এই বাবাকে মেরেই ফেলবে। পুলিস জানতে পেরেছে, ছেলেটি হঠাৎ করে রেগে গিয়ে এই খুন করেনি। বরং সে অনেক আগে থেকেই বাবাকে খুন করার ছক কষেছিল। এই খুনের উদ্দেশ্যেই সে অনলাইনে একটি ধারাল ছুরি অর্ডার দিয়ে আনিয়ে রেখেছিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/rajasthan-teen-kills-4-family-members-and-burns-car-to-fake-accident_655957.html ",
-    "time": "2026-05-30T10:15:37.000Z"
   },
   {
     "cat": "Entertainment",
