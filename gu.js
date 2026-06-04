@@ -1,5 +1,104 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "સૂર્યવંશીના &amp;#039;વૈભવ&amp;#039;ને ચમકાવશે ગ્રહોની આ જુગલબંધી ! કુંડળીનો 11મો ભાવ આપી રહ્યો છે મોટા સંકેત",
+    "desc": "IPL 2026માં વૈભવ સૂર્યવંશીના શાનદાર પ્રદર્શન બાદ હવે દરેક જગ્યાએ ચર્ચા છે કે શું ક્રિકેટ જગતને નવો ગ્લોબલ સુપરસ્ટાર મળી ગયો છે. ખાસ વાત એ છે કે વૈભવની કુંડળી પણ ઈન્ટરનેશનલ સુપરસ્ટાર બનવાના મજબૂત સંકેત આપી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/spiritual/vaibhav-suryavanshi-kundli-11th-house-shubh-yog-break-many-records-480377 ",
+    "time": "2026-06-04T09:36:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વિરાટ કોહલીની જગ્યાએ કોને મળશે વનડે ટીમમાં તક ? જાણો કોણ છે મજબૂત દાવેદાર",
+    "desc": "અફઘાનિસ્તાન સામેની આગામી ODI શ્રેણીમાં વિરાટ કોહલી બહાર થતાં હવે તેના સ્થાને કોણ મેદાનમાં ઉતરશે ? આ અંગે ઘણા નામો સામે આવ્યા છે, જેમાં રજત પાટીદાર અને તિલક વર્મા સૌથી આગળ છે. ત્યારે આ લેખમાં જાણીશું કે કોહલીની જગ્યાએ કોને તક મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rajat-patidar-or-tilak-verma-who-will-replace-virat-kohli-in-odi-team-480362 ",
+    "time": "2026-06-04T08:52:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેરળમાં મેઘરાજાની પધરામણી; નૈઋત્ય ચોમાસાની ધમાકેદાર એન્ટ્રી, જાણો ગુજરાતમાં ક્યારે પહોંચશે? મોટી આગાહી",
+    "desc": "ભારતીય હવામાન વિભાગે દાવો કર્યો છે કે ચોમાસાએ કેરલમમાં પ્રવેશ કરી લીધો છે. તેની અસર કેરલમ ઉપરાંત તમિલનાડુ અને કર્ણાટકમાં કેટલીક જગ્યાએ આગામી 7 દિવસ ભારે વરસાદ થઈ શકે છે. આગામી દિવસોમાં મહારાષ્ટ્ર બાદ ગુજરાતમાં ચોમાસાનું આગમન થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/monsoon-arrives-in-kerala-southwest-monsoon-makes-a-strong-entry-alert-in-24-states-including-gujarat-480359 ",
+    "time": "2026-06-04T08:09:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સૂર્યાની કેપ્ટનશીપ પર સંકટ, ટીમ ઈન્ડિયાને મળશે નવો T20 કેપ્ટન ! આ ખેલાડી સંભાળી શકે છે ટીમની કમાન",
+    "desc": "T20 વર્લ્ડ કપ 2026 અને IPL 2026માં સૂર્યકુમાર યાદવના ખરાબ ફોર્મ બાદ ભારતીય T20 ટીમના કેપ્ટનશીપ અંગે ચર્ચાઓ તેજ બની છે. સૂત્રોના જણાવ્યા અનુસાર, શ્રેયસ ઐયર નવો કેપ્ટન બનવાની રેસમાં સૌથી આગળ છે, જ્યારે તિલક વર્મા અને ઇશાન કિશનને વાઈસ-કેપ્ટનશીપ માટે દાવેદાર માનવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-to-be-sacked-shreyas-iyer-may-be-team-india-next-t20-captain-480358 ",
+    "time": "2026-06-04T08:02:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "10 દિવસ બાદ ભારત-પાકિસ્તાન વચ્ચે મહાજંગ... જાણો ક્યાં અને ક્યારે જોઈ શકશો લાઈવ મેચ",
+    "desc": "12 જૂનથી મહિલા T20 વર્લ્ડ કપ 2026 શરૂ થવાનો છે. ODI વર્લ્ડ કપમાં ઇતિહાસ રચ્યા બાદ ભારતીય મહિલા ટીમની નજર હવે T20 વર્લ્ડ કપ પર છે. જો કે, ભારત અને પાકિસ્તાન વચ્ચેનો હાઇ-વોલ્ટેજ મુકાબલો ફાઈનલ કરતાં પણ વધારે ચર્ચામાં છે, ત્યારે આ મેચ ક્યારે અને ક્યાં રમાશે તેમજ તમે લાઈવ જોઈ શકશો તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/when-and-where-to-watch-ind-vs-pak-match-in-womens-t20-world-cup-2026-480355 ",
+    "time": "2026-06-04T07:26:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શું ICC ટ્રોફી જીતવી એ ભારતીય કેપ્ટનો માટે અભિશાપ છે? રોહિત શર્મા પછી સૂર્યકુમાર પર લટકતી તલવાર!",
+    "desc": "ટીમ ઈન્ડિયાને આઈસીસી ટ્રોફીમાં વિજેતા બનાવવી ભારતીય કેપ્ટનો માટે શ્રાપ બની રહ્યો છે. 2024મા તેની શરૂઆત થઈ અને 2026મા પણ આવું જોવા મળી રહ્યું છે. સતત ત્રણ વર્ષથી જોવા મળી રહ્યું છે કે આઈસીસી ટ્રોફી જીતાડનાર કેપ્ટન પાસેથી ટીમની કમાન છીનવાઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/despite-winning-the-icc-trophy-the-captain-lost-the-captaincy-suryakumar-yadav-was-included-in-rohit-sharma-list-480354 ",
+    "time": "2026-06-04T07:25:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હદ થઈ ગઈ...પહેલાં માસૂમનો હાથ-પગ સાજો કર્યો, પછી ડૉક્ટરે મરોડીને ફરી તોડી નાખ્યો; જાણો આખરે શું છે સમગ્ર મામલો?",
+    "desc": "મુઝફ્ફરનગર જિલ્લા હોસ્પિટલમાંથી એક ચોંકાવનારો મામલો સામે આવ્યો છે. એક વિધવા માતાએ આરોપ લગાવ્યો છે કે હોસ્પિટલના સ્ટાફે પહેલાં 25 હજાર રૂપિયા માંગ્યા હતા. પૈસા ન આપવા પર ડૉક્ટર્સે તેની 14 વર્ષની માનસિક રીતે અસ્વસ્થ દીકરીના પગને જબરદસ્તી મરોડીને ફરીથી તોડી નાખ્યો. એટલું જ નહીં, ડીએમના મફત સારવારના આદેશ હોવા છતાં આઠ હજાર રૂપિયા વસૂલવાનો પણ આરોપ લાગ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/doctor-re-breaks-childs-leg-after-mother-could-not-pay-bribe-cmo-had-directed-free-treatment-480348 ",
+    "time": "2026-06-04T06:49:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયાને મોટો ઝટકો, વિરાટ કોહલી અફઘાનિસ્તાન સામેની ODI સિરીઝમાંથી બહાર, જાણો શું છે કારણ",
+    "desc": "ટીમ ઈન્ડિયાના પૂર્વ કેપ્ટન અને સ્ટાર બેટ્સમેન વિરાટ કોહલી અફઘાનિસ્તાન સામેની ત્રણ મેચની ODI શ્રેણીનો ભાગ નહીં હોય. કોહલીએ 2026 IPLમાં RCB માટે દરેક મેચ રમી હતી. ત્યારે અચાનક વિરાટ કોહલી ODI સિરીઝમાંથી કેમ બહાર થયો છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/big-blow-to-team-india-virat-kohli-ruled-out-afghanistan-series-due-to-injury-480343 ",
+    "time": "2026-06-04T06:05:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોકરોચ જનતા પાર્ટીના 3 પ્રવક્તાઓ વિશે જાણો, કોનું ધ્રુવ રાઠી સાથે શું હતું કનેક્શન એ પણ જાણો",
+    "desc": "અત્યાર સુધી સોશિયલ મીડિયા પર છવાયેલી રહેલી કોકરોચ જનતા પાર્ટી હવે દેશના રાજકારણમાં ઝંપ લાવવાની તૈયારી કરી રહી છે. જેને લઈને પાર્ટીએ પોતાના 3 પ્રવક્તા પણ નિયુક્ત કર્યા છે. આ 3 પ્રવક્તાઓ વિશે ખાસ જાણો અને આગામી સમયમાં કોકરોચ જનતા પાર્ટીના શું પ્લાન છે તે પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/know-about-the-spokesperson-of-cockroach-janta-party-saurav-das-vijeta-dahiya-ashutosh-ranka-480344 ",
+    "time": "2026-06-04T06:00:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઈલના ભાવમાં ઘટાડા વચ્ચે જાહેર થયા પેટ્રોલ-ડીઝલના નવા ભાવ, જાણો તમારા શહેરમાં શું છે આજનો ભાવ",
+    "desc": "વૈશ્વિક સ્તરે ક્રૂડ ઓઇલના ભાવમાં ઘટાડો થયો છે, ત્યારે શું ભારતમાં પેટ્રોલ અને ડીઝલના ભાવમાં કોઈ ફેરફાર થયો છે કે કેમ ? તેમજ દેશના મુખ્ય શહેરોમાં પેટ્રોલ અને ડીઝલના આજના ભાવ શું છે, તેના પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-know-latest-petrol-rate-in-ahmedabad-480339 ",
+    "time": "2026-06-04T05:27:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટ્રમ્પના મનમાં છે શું? પહેલા નેતન્યાહૂ સાથે ગાળાગાળી કરી અને હવે ખેલ્યો મોટો દાવ",
+    "desc": "હાલમાં જ એવા અહેવાલ હતા કે ફોન પર વાતચીત દરમિયાન ડોનાલ્ડ ટ્રમ્પે ઈઝરાયેલી પીએમને આપત્તિજનક શબ્દોનો ઉપયોગ કરીને ખખડાવી નાખ્યા હતા. હવે ટ્રમ્પે વળી પાછા ચર્ચામાં છે અને આ વખતે એક એવું નિવેદન આપ્યું છે કે દુનિયા પણ આશ્ચર્યચકિત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-expresses-desire-to-meet-mojtoba-khamenei-480338 ",
+    "time": "2026-06-04T05:17:46.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "રણવીર સિંહની લીગલ નોટિસ પછી FWICE બેકફુટ પર, પ્રતિબંધ હટાવ્યો",
     "desc": "રણવીર સિંહ પર જ્યારે FWICE એ પ્રતિબંધ લગાવ્યો હતો ત્યારે બોલીવુડમાં ખળભળાટ મચી ગયો હતો. પરંતુ બુધવારે FWICE બેકફુટ પર આવી ગયું અને રણવીર સિંહ વિરુદ્ધ લગાવો બેન પરત લઈ લીધો. આવું થવા પાછળ રણવીર સિંહે ફટકારેલી નોટિસ છે. આ મામલો હવે ક્યાં પહોંચ્યો છે ચાલો તમને જણાવીએ.",
@@ -261,33 +360,6 @@ const newsData_gu = [
     "time": "2026-06-02T08:29:47.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "આ ખેલાડીને માત્ર 15 રન માટે મળ્યા રૂપિયા 13 કરોડ, જાણો કોણ છે આ ખેલાડી",
-    "desc": "IPL 2026માં ઘણા ખેલાડીઓ એવા હતા જેમની કિંમત ખૂબ ઊંચી હતી, પરંતુ તેઓ અપેક્ષાઓ મુજબ પ્રદર્શન કરવામાં નિષ્ફળ ગયા હતા. જો કે, આ યાદીમાં ટોપ પર સનરાઇઝર્સ હૈદરાબાદનો એક ખેલાડી હતો, જેને ટીમે ₹13 કરોડમાં ખરીદ્યો હતો. જ્યારે તેણે આખી સિઝનમાં માત્ર 15 રન જ બનાવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-flop-player-this-cricketer-got-rs-13-crore-for-just-15-runs-480113 ",
-    "time": "2026-06-02T08:19:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL ખતમ હવે ક્યારે એક્શનમાં જોવા મળશે રોહિત-વિરાટ, જાણી લો ટીમ ઈન્ડિયાનું આગામી શેડ્યૂલ",
-    "desc": "IPL 2026 પછી ભારતીય ક્રિકેટ ટીમે હવે આંતરરાષ્ટ્રીય ક્રિકેટ પર ધ્યાન કેન્દ્રિત કરવું પડશે. આગામી છ મહિના તેમના માટે ખૂબ જ વ્યસ્ત રહેવાના છે. ત્યારે ટીમ ઈન્ડિયા હવે ક્યારે, ક્યાં અને કોની સામે રમશે ? તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/indian-cricket-team-schedule-rohit-sharma-virat-kohli-team-india-next-series-480106 ",
-    "time": "2026-06-02T07:14:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીને ટીમ ઈન્ડિયામાં ક્યારે મળશે તક ? BCCIનું મોટું નિવેદન આવ્યું સામે",
-    "desc": "IPL 2026માં શાનદાર પ્રદર્શન બાદ હવે બધાના મનમાં એક જ સવાલ છે કે વૈભવ સૂર્યવંશીને ટીમ ઈન્ડિયામાં ક્યારે તક મળશે ? ત્યારે BCCI તરફથી હવે સંકેત મળી રહ્યા છે કે વૈભવ સૂર્યવંશી ટીમ ઈન્ડિયા માટે આંતરરાષ્ટ્રીય ક્રિકેટમાં ક્યારે ડેબ્યૂ કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/when-will-vaibhav-sooryavanshi-get-chance-in-team-india-bcc-big-update-480097 ",
-    "time": "2026-06-02T06:35:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "શું મકાન માલિક નોટિસ આપ્યા વગર ઘર ખાલી કરાવી શકે! જાણો શું કહે છે નિયમ?",
     "desc": "મોટા ભાગના લોકો તે જાણે છે કે ભાડુઆત પાસે નોટિસ આપ્યા વગર ઘર ખાલી કરાવી શકાય નહીં. પરંતુ આ સંપૂર્ણ રીતે સાચું નથી. ઘણી પરિસ્થિતિ એવી હોય છે, જ્યારે નોટિસ આપ્યા વગર પણ ઘર ખાલી કરાવી શકાય છે.",
@@ -306,60 +378,6 @@ const newsData_gu = [
     "time": "2026-06-02T06:21:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોણ છે નીરવ મોદી અને વિજય માલ્યા પર એક્શન લેનારા સત્યવ્રત કુમાર, જેણે અચાનક VRS લઈ લીધું!",
-    "desc": "નીરવ મોદી, વિજય માલ્યા, મેહુલ ચોક્સી અને મહાદેવ બેટિંગ એપ જેવા હાઈપ્રોફાઈલ કેસની તપાસ કરનારા પૂર્વ ED અધિકારી સત્યવ્રત કુમારે સ્વૈચ્છિક નિવૃત્તિ જાહેર કરી છે, અચાનક તેઓએ કેમ કરિયરમાંથી વિદાય લેવાનું નક્કી કર્યુ. જાણો તેના કરિયર અને આ નિર્ણય વિશે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-is-satyavrat-kumar-took-action-against-nirav-modi-and-vijay-mallya-suddenly-took-vrs-480094 ",
-    "time": "2026-06-02T06:18:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 સમાપ્ત થતાં જ ICC એક્શનમાં, આ ટીમને કરવામાં આવી સસ્પેન્ડ",
-    "desc": "IPL 2026ના સમાપન પછી ICCએ ક્રિકેટ સંબંધિત ઘણા મોટા નિર્ણયો લીધા છે. અમદાવાદમાં યોજાયેલી લાંબી બેઠક દરમિયાન અનેક દરખાસ્તોને મંજૂરી આપવામાં આવી હતી. સૌથી મહત્વપૂર્ણ અપડેટ એ છે કે ICCએ સભ્યપદ જવાબદારીઓના ગંભીર ઉલ્લંઘનને ટાંકીને ક્રિકેટ કેનેડાને તાત્કાલિક અસરથી સસ્પેન્ડ કરી દીધું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-meeting-ahmedabad-icc-suspends-cricket-canada-with-immediate-effect-480093 ",
-    "time": "2026-06-02T06:06:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેટ્રોલ-ડીઝલના ભાવમાં વધારો થયો કે ઘટાડો ? એક ક્લિકમાં જાણો અમદાવાદમાં શું છે આજનો ભાવ",
-    "desc": "મિડલ ઈસ્ટમાં તણાવ વચ્ચે 2 જૂન, 2026ના રોજ પેટ્રોલ અને ડીઝલના ભાવ જાહેર કરવામાં આવ્યા છે. ક્રૂડ ઓઇલના ભાવમાં વધઘટથી સ્થાનિક બજારમાં પેટ્રોલ-ડીઝલના ભાવમાં કોઈ ફેરફાર થયો છે કે નહીં તેમજ અમદાવાદમાં આજના ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-know-latest-fuel-rate-in-ahmedabad-480089 ",
-    "time": "2026-06-02T05:36:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મમતા બેનર્જી માટે &amp;#039;પડતા પર પાટું&amp;#039; જેવી સ્થિતિ, સત્તા તો ગઈ હવે શું પાર્ટી પણ હાથમાંથી જશે?",
-    "desc": "પશ્ચિમ બંગાળના પૂર્વ મુખ્યમંત્રી મમતા બેનર્જીનો લાગે છે કે હાલ સમય સારો નથી. એક તો વિધાનસભા ચૂંટણીમાં કારમી હાર મળી, પોતે પણ ચૂંટણી હાર્યા અને હવે પાર્ટી પણ હાથમાંથી જાય તેવા સંકેત મળી રહ્યા છે. બંગાળમાં મહારાષ્ટ્ર મોડલની કેમ ચર્ચાઓ થઈ રહી છે તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/will-mamata-banerjee-lose-party-and-symbol-can-the-maharashtra-model-be-seen-in-bengal-too-480070 ",
-    "time": "2026-06-02T03:18:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દેશમાં આખરે ક્યારે આવશે ચોમાસું, શું છે મોડું થવાનું કારણ? જાણો વારંવાર તારીખ કેમ આગળ વધારી રહ્યું છે IMD",
-    "desc": "IMDએ પહેલાં કહ્યું હતું કે ચોમાસું 26 મેના રોજ કેરળ પહોંચી જશે, પરંતુ હજી સુધી ચોમાસું કેરળ પહોંચ્યું નથી. અરબી સમુદ્ર પર પશ્ચિમી પવનોની ગતિ ખૂબ જ ઓછી છે. આ કારણે ચોમાસાની શરૂઆત થઈ શકતી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/when-will-the-monsoon-finally-arrive-in-the-country-what-is-the-reason-for-the-delay-know-why-imd-is-repeatedly-pushing-the-date-forward-480063 ",
-    "time": "2026-06-01T17:51:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CBSE વિદ્યાર્થીઓ માટે મોટા સમાચાર! રાત્રે 12 વાગ્યા પહેલા એક્ટિવ થશે રી-ઈવેલ્યુએશન લિંક, જાણો વેબસાઇટ",
-    "desc": "CBSE 12મા ધોરણના વિદ્યાર્થીઓ માટે થોડી રાહત છે. પુનઃમૂલ્યાંકન અને પુનઃચેકિંગ પોર્ટલ ટૂંક સમયમાં લાઇવ થઈ રહ્યું છે. વિલંબનું કારણ, IIT કાનપુરની ટેકનિકલ ટીમે શું કહ્યું અને વિદ્યાર્થીઓએ આગળ શું કરવું જોઈએ તે વિશે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-news-for-cbse-students-re-evaluation-link-will-be-active-before-12-midnight-know-the-website-480042 ",
-    "time": "2026-06-01T16:57:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "પુતિનના 2 &amp;#039;સિક્રેટ બાળકો&amp;#039;! જેમની ઝલક આજ સુધી દુનિયાએ નથી જોઈ, જાણો ક્યાં અને કોણ રાખી રહ્યું છે સંભાળ?",
     "desc": "રશિયાના રાષ્ટ્રપતિ સામાન્ય રીતે ખૂબ જ કડક સ્વભાવના માનવામાં આવે છે. તેમનાથી જોડાયેલી દરેક વસ્તુ ખૂબ જ સિક્રેટ રહે છે. હવે તેમની પર્સનલ લાઈઝને લઈને કેટલાક ખૂબ જ મોટા ખુલાસા થયા છે. એક ગુપ્ત રિપોર્ટમાં પુતિનના 2 બાળકો હોવાનો દાવો કરવામાં આવ્યો છે.",
@@ -376,24 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/when-to-buy-a-new-phone-iphones-and-samsung-phones-are-also-the-cheapest-at-this-time-of-year-480039 ",
     "time": "2026-06-01T15:53:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Z બનશે &amp;#039;Home of Football&amp;#039;: રમતગમત ક્ષેત્રે એક નવી અને ઐતિહાસિક શરૂઆત!",
-    "desc": "જ્યારે તમારી ભુજાઓ અને સ્નાયુઓ થોડા વધુ મજબૂત થશે, ત્યારે તમે ગીતાને વધુ સારી રીતે સમજી શકશો. જ્યારે તમારામાં થોડું શક્તિશાળી રક્ત દોડશે, ત્યારે તમે કૃષ્ણની મહાન પ્રતિભા અને તેમની અપાર શક્તિને વધુ સારી રીતે સમજી શકશો. જ્યારે તમારું શરીર પોતાના પગ પર મજબૂતાઈથી ઊભું રહેશે અને તમે તમારી જાતને એક સશક્ત વ્યક્તિ તરીકે અનુભવશો, ત્યારે તમે ઉપનિષદો અને આત્મ-ગૌરવને વધુ સારી રીતે સમજી શકશો. આ રીતે આપણે આ બાબતોને આપણી જરૂરિયાતો પર લાગુ કરવી પડશે: સ્વામી વિવેકાનંદ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/fifa-world-cup-to-begin-with-exclusive-live-action-on-unite8-sports-channels-and-zee-5-from-11-june-2026-480037 ",
-    "time": "2026-06-01T14:30:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓ માટે ખુશખબર! 63% સુધી પહોંચી શકે છે મોંઘવારી ભથ્થું, મળ્યો આ મોટો સંકેત",
-    "desc": "એપ્રિલ 2026ના AICPI-IWના આંકડાઓએ કેન્દ્રીય કર્મચારીઓ માટે 3% મોંઘવારી ભથ્થું (DA) વધવાની આશા વધારી દીધી છે. મે 2025થી એપ્રિલ 2026 સુધીનો સરેરાશ AICPI-IW ઇન્ડેક્સ 147.51 રહ્યો છે, જેના આધારે DA આશરે 62.51% થાય છે અને તેને 63% સુધી રાઉન્ડ ઓફ કરી શકાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-for-central-employees-dearness-allowance-can-reach-63-percent-this-big-signal-received-480020 ",
-    "time": "2026-06-01T13:10:12.000Z"
   },
   {
     "cat": "Tech",
@@ -621,15 +621,6 @@ const newsData_gu = [
     "time": "2026-05-27T11:57:05.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Jioનો ધમાકો ! 200 રૂપિયામાં 15 એપ્સની મોજ, અનલિમિટેડ 5G અને 1000થી વધારે લાઈવ ટીવી પણ, જાણો",
-    "desc": "Reliance Jioએ 200 રૂપિયાના નવા OTT Pass લોન્ચ કર્યો છે, જેમાં 15 પ્રીમિયમ OTT એપ્સ 1000થી વધારે લાઈવ ટીવી ચેનલ, 30 જીબી ડેટા અને Unlimited 5Gનો પણ મળશે ફાયદો, તે 28 દિવસની વેલિડિટી સાથે આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/jio-200-ott-pass-15-apps-unlimited-5g-and-more-than-1000-live-tv-channels-for-rs-200-know-479375 ",
-    "time": "2026-05-27T08:10:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રણવીર સિંહ પહેલા આ કલાકારો પર પણ FWICE લગાવી ચુકી છે પ્રતિબંધ, એક એક્ટર ઈંડસ્ટ્રીમાંથી થઈ ગયો ગાયબ",
     "desc": "સોમવારે બોલીવુડના ધુરંધર રણવીર સિંહ પર FWICE એ પ્રતિબંધ જાહેર કર્યો છે. આ વાતથી ખળભળાટ મચી ગયો છે પરંતુ શું તમે જાણો છો કે રણવીર સિંહ પહેલા કેટલા એક્ટર્સ વિરુદ્ધ આવા પ્રતિબંધ લાગી ચુક્યા છે ? જો તમને નથી ખબર તો ચાલો તમને જણાવીએ કયા એક્ટર પર કયા કારણોસર FWICE પ્રતિબંધ લગાવી ચુકી છે.",
@@ -646,15 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-iran-conflict-war-broke-out-again-the-explosion-near-the-strait-of-hormuz-caught-the-world-attention-know-what-this-matter-is-479325 ",
     "time": "2026-05-26T12:50:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "પાકિસ્તાનના PMની ફરી થઈ બેઈજ્જતી, ટ્રમ્પે શાહબાઝને બતાવી દીધી ઔકાત!",
-    "desc": "શું પાડોશી દેશ પાકિસ્તાનમાં લોકશાહી માત્ર દેખાવ પુરતી જ છે? શું ત્યાંના પ્રધાનમંત્રી શહબાઝ શરીફ માત્ર એક મહોરું જ છે? આ સવાલ ઉભા કર્યા છે દુનિયાના સૌથી શક્તિશાળી દેશના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે. જેમણે સઊદી અરબના ક્રાઉન પ્રિન્સ, યુએઈ અને તુર્કીના રાષ્ટ્રપતિનું નામ તો ઈજ્જતથી લીધું પણ વાત જ્યારે પાકિસ્તાનની આવા તો પીએમ શહબાઝ શરીફને માખીને જેમ કાઢીને ફેંકી દીધા. શું છે આ ઘટના? ચાલો વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/pakistan-pm-was-insulted-again-trump-showed-shahbaz-his-status-479323 ",
-    "time": "2026-05-26T12:24:22.000Z"
   },
   {
     "cat": "Entertainment",
