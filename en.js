@@ -1,12 +1,111 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP",
+    "desc": "Hitting out at Modi, Congress leader had said an unprecedented ‘economic tsunami’ was set to hit India; BJP IT Cell head Amit Malviya termed Rahul’s remarks ‘classic fear-mongering’, said the country remained the world’s fastest-growing major economy",
+    "img": "https://th-i.thgim.com/public/incoming/3ck5jf/article71062777.ece/alternates/LANDSCAPE_1200/18_BJP_Delegation_11_03_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rahul-selling-panic-promoting-baseless-conspiracy-theories-bjp/article71062207.ece",
+    "time": "2026-06-04T19:51:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nicobar port has no ‘strategic goals’, Finance Ministry body said in 2024",
+    "desc": "Centre has cited the ‘strategic’ nature of the proposed ₹81,000-crore Great Nicobar Project for not making public the contents of a report by a High Powered Committee (HPC) on the cumulative environmental impact of the project",
+    "img": "https://th-i.thgim.com/public/incoming/ckcmjd/article71062462.ece/alternates/LANDSCAPE_1200/20260428529L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/finance-ministry-body-once-flagged-great-nicobar-port-as-lacking-strategic-objectives/article71061723.ece",
+    "time": "2026-06-04T19:23:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Perception of bias against minorities propaganda aimed at tarnishing India’s image: Rijiju",
+    "desc": "Minority Affairs Minister Kiren Rijiju dismissed claims of discrimination against minorities in India as propaganda and a malicious campaign. He highlighted a significant increase in the ministry's budget over the past decade, from Rs 1,949 crore to Rs 4,115 crore, as evidence of the government's commitment.",
+    "img": "https://static.toiimg.com/photo/msid-131516109,imgsize-30602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/perception-of-bias-against-minorities-propaganda-aimed-at-tarnising-indias-image-rijiju/articleshow/131516085.cms",
+    "time": "2026-06-04T19:21:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel Shetty mourns Pahlaj Nihalani’s demise",
+    "desc": "The Indian film industry is mourning the loss of veteran producer and former CBFC chairperson Pahlaj Nihalani, who passed away in Mumbai on June 4 at the age of 76. According to reports, Nihalani had been battling liver-related ailments for some time. As tributes poured in from across the film fraternity, actor Suniel Shetty remembered the late filmmaker with an emotional note, recalling how Nihalani supported him during the early stages of his career.",
+    "img": "https://static.toiimg.com/photo/msid-131516059,imgsize-60692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-mourns-pahlaj-nihalanis-demise-he-was-one-of-the-first-people-to-believe-in-me/articleshow/131516041.cms",
+    "time": "2026-06-04T19:16:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka cabinet portfolios allocated, but disgruntlement remains",
+    "desc": "Priyank Kharge will be the new Home Minister, who will also hold IT & BT and e-governance. Deputy Chief Minister G. Parameshwara has been given Revenue and Sports, while Eshwar Khandre has been allocated Rural Development and Panchayat Raj. Byrathi Suresh has been given Transport.",
+    "img": "https://th-i.thgim.com/public/incoming/wj6ylo/article71062718.ece/alternates/LANDSCAPE_1200/1014370A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+    "time": "2026-06-04T18:45:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala government’s proposal for menstrual leave for schoolchildren opens door to a healthy debate",
+    "desc": "The Kerala government’s decision to provide menstrual leave for girl students has triggered a discussion on the menstrual health of women in the State. Aathira Haridas meets those who hail the decision and the ones denouncing it",
+    "img": "https://th-i.thgim.com/public/incoming/qg7nla/article71061412.ece/alternates/LANDSCAPE_1200/menstrua_leave_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/the-caring-period-kerala-governments-proposal-for-menstrual-leave-for-schoolchildren-opens-door-to-a-healthy-debate/article71061168.ece",
+    "time": "2026-06-04T18:33:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NC’s rebel MP Mehdi says he will join Delhi protest for J&amp;K statehood, Art 370; calls for broader movement",
+    "desc": "National Conference plans a New Delhi protest for statehood and \"constitutional guarantees,\" believed to refer to Article 370. Rebel MP Aga Ruhullah Mehdi expressed willingness to join, urging a broader movement and outreach to opposition parties for sustained public support in the Valley.",
+    "img": "https://static.toiimg.com/photo/msid-131515103,imgsize-45630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ncs-rebel-mp-mehdi-says-he-will-join-delhi-protest-for-jk-statehood-art-370-calls-for-broader-movement/articleshow/131515018.cms",
+    "time": "2026-06-04T18:32:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Energy tie-up tops India-Venezuela agenda as Modi meets Delcy",
+    "desc": "PM Narendra Modi holds “extensive discussions on expanding our cooperation in energy, critical minerals, technology”; Delcy Rodriguez calls India “one of the main destinations” for energy exports; Petroleum Minister Hardeep Puri announces visit by technical team to Venezuela",
+    "img": "https://th-i.thgim.com/public/incoming/7fozvi/article71060808.ece/alternates/LANDSCAPE_1200/04_PM_Narendra_Modi_04_06_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-holds-talks-with-venezuelas-acting-president/article71060770.ece",
+    "time": "2026-06-04T18:11:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Poonam expresses surprise over Upasana’s presence at FWICE PC",
+    "desc": "The controversy surrounding the Federation of Western India Cine Employees' (FWICE) now-withdrawn non-cooperation directive against actor Ranveer Singh has taken a new turn, with Cine and TV Artistes' Association (CINTAA) President Poonam Dhillon questioning the manner in which the decision was taken. Addressing questions about actor Upasana Singh's presence at FWICE's press conference, Dhillon clarified that CINTAA office-bearers had no prior knowledge of her participation.",
+    "img": "https://static.toiimg.com/photo/msid-131513713,imgsize-87990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/poonam-dhillon-expresses-surprise-over-upasana-singhs-presence-at-fwice-press-conference-amid-ranveer-singhs-don-3-row/articleshow/131513366.cms",
+    "time": "2026-06-04T17:44:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UP CM Yogi orders inspection of hotels, commercial establishments after Delhi's Malviya Nagar fire tragedy",
+    "desc": "Following a fatal fire in Delhi, Uttar Pradesh Chief Minister Yogi Adityanath has ordered comprehensive security inspections of hotels and commercial establishments across the state. Officials from multiple departments are tasked with ensuring fire safety systems are in place, with hotels required to submit audit reports. Strict legal action is threatened against violators.",
+    "img": "https://static.toiimg.com/photo/msid-131513203,imgsize-793907.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/up-cm-yogi-orders-inspection-of-hotels-commercial-establishments-after-delhis-malviya-nagar-fire-tragedy/articleshow/131513202.cms",
+    "time": "2026-06-04T17:34:45.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Political culture of Trinamool should not taint BJP, says West Bengal Minister Swapan Dasgupta",
     "desc": "Dasgupta’s comments come at a time of tumult in the Trinamool Congress legislature party; two-thirds of party MLAs have expressed their support to expelled Trinamool MLA Ritabrata Banerjee, who was appointed as the Leader of Opposition on Wednesday",
     "img": "https://th-i.thgim.com/public/incoming/9l5tt8/article71062547.ece/alternates/LANDSCAPE_1200/20260601064L.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/political-culture-of-trinamool-should-not-taint-bjp-says-west-bengal-minister-swapan-dasgupta/article71062155.ece",
     "time": "2026-06-04T17:30:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Jennifer Lopez",
+    "desc": "Jennifer Lopez believes mistakes are crucial for learning and growth, urging people to step out of their comfort zones. She shared this philosophy, emphasizing that challenges and failures are wake-up calls pushing us toward success. Lopez's career, marked by ups and downs, exemplifies this positive outlook on setbacks.",
+    "img": "https://static.toiimg.com/photo/msid-131509800,imgsize-71772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-jennifer-lopez-you-only-really-learn-in-this-world-from-the-mistakes-you-make-thats-when-you-grow/articleshow/131509699.cms",
+    "time": "2026-06-04T17:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -25,15 +124,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/pakistan-not-sending-team-to-india-for-asian-fencing-championships/articleshow/131512441.cms",
     "time": "2026-06-04T17:01:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Finance Ministry body once flagged Great Nicobar port as ‘lacking strategic objectives’",
-    "desc": "Centre has cited the ‘strategic’ nature of the proposed ₹81,000-crore Great Nicobar Project for not making public the contents of a report by a High Powered Committee (HPC) on the cumulative environmental impact of the project",
-    "img": "https://th-i.thgim.com/public/incoming/ckcmjd/article71062462.ece/alternates/LANDSCAPE_1200/20260428529L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/finance-ministry-body-once-flagged-great-nicobar-port-as-lacking-strategic-objectives/article71061723.ece",
-    "time": "2026-06-04T16:55:11.000Z"
   },
   {
     "cat": "Sports",
@@ -63,15 +153,6 @@ const newsData_en = [
     "time": "2026-06-04T16:45:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP",
-    "desc": "Claiming that the Modi government is facing an ‘institutional revolt’, the Congress leader says an unprecedented ‘economic tsunami’ is set to hit India as the BJP government had removed protections against international shocks, and its control over institutions has collapsed",
-    "img": "https://th-i.thgim.com/public/incoming/wgyjz7/article71062440.ece/alternates/LANDSCAPE_1200/20260603124L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rahul-selling-panic-promoting-baseless-conspiracy-theories-bjp/article71062207.ece",
-    "time": "2026-06-04T16:40:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Nepal cricket board apologises as Bhutan's Choden becomes first-ever to...",
     "desc": "Bhutan's Ritshi Choden became the first woman batter to be timed out in international cricket after taking more than 90 seconds to reach the crease during a T20I against Nepal in the ACC Premier Cup. Nepal's appeal was upheld, leaving Bhutan 0 for 2. Although the dismissal was legal, Nepal's cricket board later apologised, saying it went against the spirit of the game. Bhutan eventually lost by 51 runs.",
@@ -81,15 +162,6 @@ const newsData_en = [
     "time": "2026-06-04T16:23:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amit Shah",
-    "desc": "The Union Home Minister addressed the 73rd plenary session of the North Eastern Council in Shillong; he said the Chief Ministers of the region, scheduled to review the India-Bangladesh border security in Tripura on Friday, to shift their focus from law and order to shielding the rights of the citizens, as insurgency is no longer an issue",
-    "img": "https://th-i.thgim.com/public/incoming/qfjqat/article71062329.ece/alternates/LANDSCAPE_1200/20260604325L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/meghalaya/modi-government-made-northeast-a-hub-of-opportunities-amit-shah/article71062073.ece",
-    "time": "2026-06-04T16:15:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Harry Enfield talks about developing a ear condition",
     "desc": "Veteran comedian Harry Enfield has revealed he's partially deaf due to frequent freshwater swimming. Doctors discovered bony growths, known as Surfer's Ear, in his ear canals, a condition linked to prolonged exposure to cold water. While treatable, the removal process is reportedly very painful. Enfield has been open about his hearing challenges.",
@@ -97,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bad-education-star-harry-enfield-opens-up-about-his-health-says-hes-partially-deaf-reveals-he-developed-a-condition-from-swimming/articleshow/131511478.cms",
     "time": "2026-06-04T16:10:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress says Centre in ‘panic mode’ on economy, raises questions over LIC stake in firm under SEBI scanner",
-    "desc": "Congress general secretary (communications) Jairam Ramesh cited media reports claiming that the Centre was considering an ordinance to amend the Income Tax Act and remove the 12.5% long-term capital gains tax (LTCG) on investments made by FPIs in government securities",
-    "img": "https://th-i.thgim.com/public/incoming/6p7z93/article71062356.ece/alternates/LANDSCAPE_1200/07_Jairam_Ramesh_03_04_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/modi-government-in-panic-mode-on-current-economic-situation-congress/article71060174.ece",
-    "time": "2026-06-04T16:06:50.000Z"
   },
   {
     "cat": "Business",
@@ -169,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/enduring-strength-of-sangh-kumar-mangalam-birla-lauds-rss-for-its-century-of-service/articleshow/131510896.cms",
     "time": "2026-06-04T15:29:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Weather grounds Rahul’s Uttarakhand rallies, he takes on Modi government over video, phone",
-    "desc": "The Agniveer scheme has broken the ‘sacred understanding’ between soldiers and the government by ‘weakening long-term security and benefits for soldiers’; it would be reviewed and scrapped if his party came to power, the Congress leader says",
-    "img": "https://th-i.thgim.com/public/incoming/tyffin/article71062170.ece/alternates/LANDSCAPE_1200/West%20Bengal%20Assembly%20elections%202026%20%2028.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/weather-grounds-rahuls-uttarakhand-rallies-he-takes-on-modi-government-over-video-phone/article71061580.ece",
-    "time": "2026-06-04T15:29:42.000Z"
   },
   {
     "cat": "Politics",
@@ -495,15 +549,6 @@ const newsData_en = [
     "time": "2026-06-04T11:22:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bobby Deol says watching Alia Bhatt and Sharvari lead 'Alpha' was highlight",
-    "desc": "Bobby Deol hails 'Alpha' from Yash Raj Films as an exceptional commercial spectacle, celebrating the powerful performances delivered by Alia Bhatt and Sharvari in the inaugural female-led chapter of the YRF Spy Universe. Director Shiv Rawail's expertise has cultivated a wonderfully upbeat environment on set.",
-    "img": "https://static.toiimg.com/photo/msid-131505631,imgsize-58786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-says-watching-alia-bhatt-and-sharvari-lead-alpha-was-highlight-they-brought-tremendous-dedication-and-energy-to-their-roles/articleshow/131505607.cms",
-    "time": "2026-06-04T11:21:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee falls 7 paise to close at 95.83 against U.S. dollar",
     "desc": "At the interbank foreign exchange market, the rupee opened at 95.70 against the U.S. dollar, then touched an intra-day low of 95.85 and a high of 95.59 before closing at 95.83 (provisional), down 7 paise from its previous close",
@@ -531,13 +576,13 @@ const newsData_en = [
     "time": "2026-06-04T10:57:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kangana, Chunky, Randeep and other mourn the loss",
-    "desc": "The Hindi film industry mourns the passing of veteran producer and former CBFC chairperson Pahlaj Nihalani, aged 76. Nihalani, known for commercial entertainers like 'Aankhen', left a significant mark on Indian cinema. Tributes poured in from Randeep Hooda, Kangana Ranaut, and Taran Adarsh, remembering his extensive contributions and support for artists.",
-    "img": "https://static.toiimg.com/photo/msid-131504454,imgsize-60902.cms",
+    "cat": "Sports",
+    "title": "'Just want to quit tennis': Sabalenka after first French Open title ends",
+    "desc": "Aryna Sabalenka’s French Open title hopes ended after a dramatic quarterfinal collapse against Diana Shnaider. The world No. 1 led by a set and 4-1 in the second before losing 3-6, 7-5, 6-0. A devastated Sabalenka admitted she felt like quitting tennis after another major setback. Shnaider advanced to her first Grand Slam semifinal as Roland Garros continued to witness several shock upsets.",
+    "img": "https://static.toiimg.com/photo/msid-131504912,imgsize-27728.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pahlaj-nihalani-passes-away-at-76-kangana-ranaut-chunky-panday-randeep-hooda-and-other-b-town-celebs-mourn-the-loss/articleshow/131504469.cms",
-    "time": "2026-06-04T10:39:27.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/just-want-to-quit-tennis-world-no-1-aryna-sabalenka-after-dream-of-first-french-open-title-ends/articleshow/131504869.cms",
+    "time": "2026-06-04T10:46:06.000Z"
   },
   {
     "cat": "Sports",
@@ -594,15 +639,6 @@ const newsData_en = [
     "time": "2026-06-04T09:11:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP counters Rahul Gandhi's 'economic tsunami' warning amid Iran war: 'Stop selling panic'",
-    "desc": "The BJP has strongly refuted Rahul Gandhi's \"economic tsunami\" warning, calling it fear-mongering. Party leader Amit Malviya highlighted India's economic resilience with strong indicators like rising E-way bills and FDI, asserting the government has implemented measures to protect citizens and businesses from global shocks, contrasting it with the UPA era's economic vulnerabilities.",
-    "img": "https://static.toiimg.com/photo/msid-131501559,imgsize-782302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-counters-rahul-gandhis-economic-tsunami-warning-amid-iran-war-stop-selling-panic/articleshow/131501538.cms",
-    "time": "2026-06-04T09:03:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘World's long-term capital is looking at India’: Global investors betting big, says Piyush Goyal",
     "desc": "Global investors are showing strong confidence in India's future. Union Minister Piyush Goyal stated that India is set to be the world's fastest-growing economy for more than twenty years. Companies like Hyundai and JCB have seen significant returns by investing in India. The nation is becoming a manufacturing hub, serving both its large domestic market and global customers.",
@@ -610,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/worlds-long-term-capital-is-looking-at-india-global-investors-betting-big-says-piyush-goyal/articleshow/131501438.cms",
     "time": "2026-06-04T08:53:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vegan foods to get official FSSAI logo from July 2027",
-    "desc": "India's FSSAI has mandated a standardized green \"Vegan\" logo for all approved vegan food packages, effective July 1, 2027. This move aims to provide consumers with a clear, government-recognized mark, simplifying the identification of plant-based products and preventing misleading claims. The logo will help consumers confidently choose vegan options, distinguishing them from vegetarian products.",
-    "img": "https://static.toiimg.com/photo/msid-131499837,imgsize-426951.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vegan-foods-to-get-official-fssai-logo-from-july-2027/articleshow/131499808.cms",
-    "time": "2026-06-04T07:36:26.000Z"
   },
   {
     "cat": "Business",
@@ -646,6 +673,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/brazil-takes-a-historic-hdi-leap-with-focused-planning-and-public-spending/article71057526.ece",
     "time": "2026-06-04T04:31:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lalit Modi alleges Cong pressure during Kochi IPL row",
+    "desc": "Lalit Modi alleged that when he tried to stop the Kochi consortium from entering the IPL because of what he believed was an unfair equity arrangement involving Pushkar, the then United Progressive Alliance (UPA) government turned against him.",
+    "img": "https://static.toiimg.com/photo/msid-131496172,imgsize-48072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/sonia-gandhi-backed-shashi-tharoor-lalit-modi-alleges-congress-pressure-during-kochi-tuskers-ipl-controversy/articleshow/131496097.cms",
+    "time": "2026-06-04T04:27:05.000Z"
   },
   {
     "cat": "World",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/it-is-not-just-songs-ilaiyaraaja-is-also-integral-tomanjanathi-says-mari-selvaraj/article71054340.ece",
     "time": "2026-06-03T07:42:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Koothu-p-Pattarai’s Pataliputhram: A haunting allegory of exploitation and survival",
-    "desc": "Gnana Rajasekaran’s Pataliputhram, directed by K.R. Rajaravivarma, is a haunting exploration of labour, survival and systemic inequality. Through movement, music and powerful performances, the play examines alienation, caste discrimination and the existential struggle for dignity in a world shaped by exploitation and hunger.",
-    "img": "https://th-i.thgim.com/public/incoming/vt5u7o/article71036954.ece/alternates/LANDSCAPE_1200/BVR_6300.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/theatre/the-absurdity-of-survival/article71028379.ece",
-    "time": "2026-06-03T06:49:18.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The future of India’s chip industry",
-    "desc": "A new NITI Aayog report says India’s semiconductor ecosystem is not yet equipped to fully meet domestic demand, while stressing the need to strengthen local manufacturing, as geopolitical pressures could potentially disrupt the electronics supply chain",
-    "img": "https://th-i.thgim.com/public/incoming/r8d63e/article71054242.ece/alternates/LANDSCAPE_1200/20260529189L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
-    "time": "2026-06-03T04:12:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Veer Chotrani",
-    "desc": "After quietly climbing to World No. 40, the Mumbai lad has his eyes fixed on the Asian Games singles gold; the 24-year-old, who is the second highest-ranked men’s player in the country, feels he can improve further by working on the mental and physical aspects of his game",
-    "img": "https://th-i.thgim.com/public/incoming/rv2w0p/article71054471.ece/alternates/LANDSCAPE_1200/Veer%20Chotrani%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/i-know-i-am-not-far-away-from-the-top-veer-chotrani/article71054468.ece",
-    "time": "2026-06-03T01:19:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bring in a new format without disrupting the existing system, says Prakash Padukone",
-    "desc": "Try both, like you have T20 cricket, 50-over matches and Tests. Why can’t we do that in badminton? It has been played for 15 to 20 years and people are used to it, says Prakash Padukone",
-    "img": "https://th-i.thgim.com/public/incoming/anplzu/article71054367.ece/alternates/LANDSCAPE_1200/10510_19-2-2019_17-4-49_3_PRAKASHPADUKONE_13.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/bring-in-a-new-format-without-disrupting-the-existing-system-says-prakash-padukone/article71053552.ece",
-    "time": "2026-06-02T17:52:44.000Z"
   }
 ];

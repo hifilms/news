@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "কাজ পাইয়ে দিতে টাকা দাবি, সরাসরি যৌন প্রস্তাব, স্বরূপের বিরুদ্ধে ঠিক কী কী অভিযোগ?",
+    "desc": "স্টুডিয়োর স্পট বয়, লাইটম্যান থেকে শুরু করে বিভিন্ন সাধারণ টেকনিশিয়ানদের কাজের সুযোগ করে দেওয়ার নাম করে বা প্রভাব খাটিয়ে নিয়মিত টাকা তোলা হতো বলে অভিযোগ। অভিযোগকারিণীর দাবি এবং পুলিসের দায়ের করা মামলার ভিত্তিতে স্বরূপ বিশ্বাসের বিরুদ্ধে ঠিক কী কী অভিযোগ রয়েছেয?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/demanding-money-direct-physical-propositions-what-exactly-are-the-allegations-against-swarup-biswas_656703.html ",
+    "time": "2026-06-04T18:12:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "রণক্ষেত্র টলিউড: টেকনিশিয়ানদের ওপর ইট-ডিম বৃষ্টি, বিস্ফোরক রুদ্রনীল ঘোষ",
     "desc": "রণক্ষেত্র টলিপাড়া! নতুন সংগঠন ঘিরে ধুন্ধুমার টালিগঞ্জের টেকনিশিয়ান্স স্টুডিওতে। চলল ইট-ডিম বৃষ্টি, পরিস্থিতি সামলাতে নামল পুলিশ। এই নজিরবিহীন অশান্তির পর নন্দনে দাঁড়িয়ে বিস্ফোরক অভিনেতা রুদ্রনীল ঘোষ। আঙুল তুললেন 'বহিরাগত'দের দিকে। জানালেন, টলিপাড়ার এই অচলাবস্থা কাটাতে চূড়ান্ত সিদ্ধান্ত নেবেন খোদ মুখ্যমন্ত্রী শুভেন্দু অধিকারী।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -223,15 +232,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/kabir-suman-controversy-complaint-filed-at-netaji-nagar-police-station-kolkata_655435.html ",
     "time": "2026-05-26T16:55:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিজেপি জয়েন করতেই টলিউডে কোণঠাসা: 'শুটিঙে আলাদা ঘরে বসিয়ে রেখেছিল', টলিপাড়ায় ভয়ংকর অভিজ্ঞতা লকেটের",
-    "desc": "রাজনীতি ও টলিউডের একাংশের বিরুদ্ধে নজিরবিহীন ক্ষোভ উগরে দিলেন লকেট চট্টোপাধ্যায়। বিজেপিতে আসার অপরাধে কীভাবে তাঁর ৪-৫টি কাজ কেড়ে নেওয়া হয়েছিল এবং শুটিং ফ্লোরে ‘একঘরে’ করে রাখা হয়েছিল, টলিউডের বিস্ফোরক তথ্য সামনে আনলেন তিনি। পাশাপাশি কল্যাণ বন্দ্যোপাধ্যায়ের পুরনো মন্তব্য এবং নব্য বিজেপি সমর্থনকারীদের একহাত নিলেন লকেট।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/locket-chatterjee-explosive-remarks-on-kalyan-banerjee-and-tollywood_655429.html ",
-    "time": "2026-05-26T15:19:47.000Z"
   },
   {
     "cat": "World",

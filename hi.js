@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand wilt under England assault on Day 1 of Lord’s Test; Jamieson, Robinson dominate proceedings",
+    "desc": "England faced the wrath of New Zealand bowlers in the first innings. They were bundled for 140 runs in the first innings, resulting in the experts calling out the home team once again, especially as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-wilt-under-england-assault-on-day-1-of-lords-test-jamieson-robinson-dominate-proceedings-2026-06-04-1043698",
+    "time": "2026-06-04T18:24:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "No handshake, no photo: What happened in Roland Garros semis between Mirra Andreeva and Marta Kostyuk?",
     "desc": "Mirra Andreeva booked a place in her first Grand Slam final on Thursday after defeating Marta Kostyuk 6-1, 6-3 in the French Open semifinals at Court Philippe-Chatrier in Paris. The 19-year-old Russian completed the victory...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-india-s-next-t20i-captaincy-choice-after-suryakumar-yadav-2026-06-04-1043617",
     "time": "2026-06-04T09:16:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur opens up on Indian team's planning around Pratika Rawal's replacement in ODI WC 2025",
-    "desc": "The Indian women’s cricket team scripted history as they defeated South Africa in the ODI World Cup final in 2025. Led by Harmanpreet Kaur, the Women in Blue performed brilliantly throughout the tournament, defeating Australia...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-opens-up-on-indian-team-s-planning-around-pratika-rawal-s-replacement-in-odi-wc-2025-2026-06-04-1043613",
-    "time": "2026-06-04T08:57:24.000Z"
   }
 ];
