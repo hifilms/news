@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "મફત વીજળી સાથે કમાણીની તક! સરકારની આ સ્કીમ લાઈટ બિલમાંથી આપશે આઝાદી, જાણો",
+    "desc": "પીએમ સૂર્ય ઘર મફત વીજળી યોજનાથી દેશના 17 લાખથી વધુ પરિવારોના લાઈટ બિલ શૂન્ય થયા છે. આ સ્કીમ હેઠળ દર મહિને 300 યુનિટ ફ્રી વીજળી મળે છે. સાથે જ વધારાની વીજળી ગ્રીડને વેચીને ગ્રાહકો અત્યાર સુધીમાં 421 કરોડ રૂપિયાથી વધુની કમાણી કરી ચૂક્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/opportunity-to-earn-with-free-electricity-government-scheme-will-give-freedom-from-light-bills-know-480441 ",
+    "time": "2026-06-04T16:53:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આવી રહ્યું છે સસ્તુ પેટ્રોલ, રેગ્યુલર પેટ્રોલ કરતા સસ્તુ હશે, પેટ્રોલિયમ મંત્રીએ કહી મોટી વાત",
+    "desc": "કેન્દ્ર સરકાર E85 ફ્યુઅલને મોટા સ્તર પર લાગુ કરવાની તૈયારી કરી રહી છે. આજે મારુતિ સુઝુકીને પહેલી ફ્લેક્સ કારના લોન્ચિંગ પ્રસંગે કેન્દ્રીય પેટ્રોલિયમ મંત્રી હરદીપસિંહ પુરીએ કહ્યું કે, E85 ફ્યુઅલ સામાન્ય પેટ્રોલની સરખામણીમાં સસ્તુ હશે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cheap-petrol-e85-is-coming-petroleum-minister-said-big-thing-480426 ",
+    "time": "2026-06-04T16:14:19.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "કેન્દ્રીય કર્મચારીઓના ટેક હોમ સેલરીમાં થશે બમ્પર વધારો? સરકાર લાગુ કરી શકે છે આ ખાસ ફોર્મ્યુલા!",
     "desc": "આવતા વર્ષના પ્રથમ છ મહિનામાં પગાર પંચ પોતાની ભલામણો સરકારને સોંપી શકે છે. નિષ્ણાતોનું માનીએ તો સરકાર 2.86ની ફોર્મ્યુલા લાગુ કરી શકે છે. જો આવું થશે તો કેન્દ્રીય કર્મચારીઓની ટેક હોમ સેલરીમાં મોટો વધારો થશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,24 +369,6 @@ const newsData_gu = [
     "time": "2026-06-02T15:14:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EDના મહારાષ્ટ્ર અને ગુજરાતમાં દરોડા, દાઉદના સાથીના ઘરે મોટી કાર્યવાહી, જાણો",
-    "desc": "મંગળવારે મહારાષ્ટ્ર અને ગુજરાતમાં અનેક સ્થળોએ એન્ફોર્સમેન્ટ ડિરેક્ટોરેટ (ED)એ દરોડા પાડ્યા હતા. ED અધિકારીઓએ જણાવ્યું હતું કે તાજેતરમાં તુર્કીથી ભારત મોકલવામાં આવેલા ડ્રગ તસ્કર મોહમ્મદ સલીમ ડોલા સામે મની લોન્ડરિંગ તપાસના ભાગ રૂપે દરોડા પાડવામાં આવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ed-raids-in-maharashtra-and-gujarat-major-action-taken-at-the-house-of-dawoods-aide-know-480159 ",
-    "time": "2026-06-02T13:42:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICCએ બદલ્યા ટેસ્ટ ક્રિકેટના નિયમો, 1 જૂને લીધો એવો નિર્ણય, દુનિયા થઈ ગઈ હેરાન !",
-    "desc": "ICCએ ટેસ્ટ ક્રિકેટના નિયમોમાં નોંધપાત્ર ફેરફાર કર્યો છે. લાલ અને ગુલાબી બોલ બંનેનો ઉપયોગ હવે એક જ મેચમાં થઈ શકે છે. જો કે કોચને લઈને પણ નિર્ણય લેવામાં આવ્યો છે, આ નિર્ણય ખુબ જ મહત્વપૂર્ણ માનવામાં આવે છે અને હાલમાં તે ફક્ત ટ્રાયલ બેઝ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-changed-the-rules-of-test-cricket-took-this-decision-on-june-1-the-world-was-surprised-480157 ",
-    "time": "2026-06-02T13:18:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "લોનથી લઈને વિઝા સુધી... ITR ફાઈલ કરવાના આ છે 5 મોટા ફાયદા, ફાઈલ ન કરવા પર થશે આ નુકસાન",
     "desc": "ITR (Income Tax Return) ફાઈલ કરવું એ માત્ર ટેક્સના નિયમોનું પાલન કરવા પૂરતું મર્યાદિત નથી. તે લોનથી લઈને ઘણા દેશોની વિઝા અરજીમાં એક મહત્વપૂર્ણ દસ્તાવેજ તરીકે કામ આવે છે. ચાલો તેના ફાયદા અને નુકસાન વિશે વિગતવાર જાણીએ.",
@@ -376,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/from-loans-to-visa-these-are-the-5-major-benefits-of-filing-itr-these-are-the-losses-that-will-occur-if-you-do-not-file-480156 ",
     "time": "2026-06-02T12:49:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "લોકરમાં રાખેલું સોનું બદલી શકે છે દેશની કિસ્મત, જાણી લો શું છે આ ગેમચેન્જર આઈડિયા",
-    "desc": "ભારતના ઘરો અને મંદિરોમાં પડેલું 32,000 ટન સોનું દેશની મોટી આર્થિક સંપત્તિ છે. જો આ સોનાને રિસાયકલ કરવામાં આવે, તો આયાત બિલ ઘટશે અને ફોરેક્સ રિઝર્વ મજબૂત થશે. આ માટે જ્વેલરી ઈન્ડસ્ટ્રીઝ સરકાર પર પ્રેશર કરી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/now-the-government-is-eyeing-gold-kept-in-homes-pm-modi-new-plan-to-reduce-import-bills-know-how-the-country-economy-will-benefit-480143 ",
-    "time": "2026-06-02T12:07:57.000Z"
   },
   {
     "cat": "Business",

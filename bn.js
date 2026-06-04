@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "রণক্ষেত্র টলিউড: টেকনিশিয়ানদের ওপর ইট-ডিম বৃষ্টি, বিস্ফোরক রুদ্রনীল ঘোষ",
+    "desc": "রণক্ষেত্র টলিপাড়া! নতুন সংগঠন ঘিরে ধুন্ধুমার টালিগঞ্জের টেকনিশিয়ান্স স্টুডিওতে। চলল ইট-ডিম বৃষ্টি, পরিস্থিতি সামলাতে নামল পুলিশ। এই নজিরবিহীন অশান্তির পর নন্দনে দাঁড়িয়ে বিস্ফোরক অভিনেতা রুদ্রনীল ঘোষ। আঙুল তুললেন 'বহিরাগত'দের দিকে। জানালেন, টলিপাড়ার এই অচলাবস্থা কাটাতে চূড়ান্ত সিদ্ধান্ত নেবেন খোদ মুখ্যমন্ত্রী শুভেন্দু অধিকারী।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rudranil-ghosh-on-tollygunge-technician-studio-violence-cm-suvendu-adhikari-final-decision_656695.html ",
+    "time": "2026-06-04T15:50:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "১৫১৫০০০০০ টাকার বিস্ময়কর কেলেঙ্কারি! আফ্রিকার স্বর্ণখনিতে ১০৩৫ কোটি টাকা! ইতিহাসের বৃহত্তম স্ক্যাম",
     "desc": "তদন্ত শেষ না হওয়া পর্যন্ত রাজেশ এক্সপোর্টস এবং রাজেশ মেহেতার উপর নিষেধাজ্ঞা বহাল থাকবে বলে জানিয়েছে 'সেবি'। কেলেঙ্কারির অঙ্ক দেখে মাথা ঘুরে গিয়েছে সকলের! কেননা, অনেক দেশের তো বার্ষিক অর্থনৈতির উৎপাদনও ওই অঙ্কের ধারেকাছে থাকে না!",
@@ -223,15 +232,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/locket-chatterjee-explosive-remarks-on-kalyan-banerjee-and-tollywood_655429.html ",
     "time": "2026-05-26T15:19:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "আচমকাই প্রয়াত রমাকান্ত দায়ামা: ‘সব স্বপ্ন অপূর্ণই রয়ে গেল', কী কারণে মৃত্যু অভিনেতার?",
-    "desc": "বিনোদন জগতে শোকের ছায়া। চলে গেলেন প্রবীণ অভিনেতা রমাকান্ত দায়ামা। ‘চক দে! ইন্ডিয়া’, ‘ধনক’ এবং ‘স্ক্যাম ১৯৯২’-এর মতো জনপ্রিয় প্রজেক্টে তাঁর অভিনয় চিরস্মরণীয় হয়ে থাকবে। দীর্ঘ অসুস্থতার পর ৬৯ বছর বয়সে শেষ নিশ্বাস ত্যাগ করলেন এই গুণী শিল্পী।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/veteran-actor-ramakant-daayama-passes-away-at-69-chak-de-india-co-star_655409.html ",
-    "time": "2026-05-26T10:50:38.000Z"
   },
   {
     "cat": "World",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "No handshake, no photo: What happened in Roland Garros semis between Mirra Andreeva and Marta Kostyuk?",
+    "desc": "Mirra Andreeva booked a place in her first Grand Slam final on Thursday after defeating Marta Kostyuk 6-1, 6-3 in the French Open semifinals at Court Philippe-Chatrier in Paris. The 19-year-old Russian completed the victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/no-handshake-no-photo-what-happened-in-roland-garros-semis-between-mirra-andreeva-and-marta-kostyuk-2026-06-04-1043687",
+    "time": "2026-06-04T17:19:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI finalises Suryakumar Yadav's replacement as India T20I captain, Sooryavanshi set for maiden call-up",
+    "desc": "Shreyas Iyer is set to replace Suryakumar Yadav as India's T20I captain for the upcoming tours of Ireland and England. The move is part of India's long-term planning for the 2028 Los Angeles Olympics and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-finalises-suryakumar-yadav-s-replacement-as-india-t20i-captain-sooryavanshi-set-for-maiden-call-up-2026-06-04-1043677",
+    "time": "2026-06-04T15:29:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England batters show no signs of improvement after Ashes embarrassment as Jamieson crushes hosts at Lord's",
+    "desc": "England were humiliated in the Ashes 2025-26, as the Ben Stokes-led side suffered a 4-1 embarrassment. Since then, the Three Lions planned to play a modified version of Bazball, but in the first Test against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-batters-show-no-signs-of-improvement-after-ashes-embarrassment-as-jamieson-crushes-hosts-at-lord-s-2026-06-04-1043675",
+    "time": "2026-06-04T15:18:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India Test cricketer announces retirement; played BGT, World Test Championship final vs Australia",
     "desc": "Keeper-batter KS Bharat has announced his retirement from India cricketer. The 32-year-old made his international debut in 2023 against Australia in Nagpur. He was brought in a cover for Rishabh Pant, who was out of...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-opens-up-on-indian-team-s-planning-around-pratika-rawal-s-replacement-in-odi-wc-2025-2026-06-04-1043613",
     "time": "2026-06-04T08:57:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Body feels awesome': Pat Cummins keen on playing through the entirety of Australia's Test summer",
-    "desc": "Australia skipper Pat Cummins is back from the IPL (Indian Premier League) 2026 and is raring to go for the national team. With the national team’s busiest season on record upcoming, Cummins is holding out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/body-feels-awesome-pat-cummins-keen-on-playing-through-the-entirety-of-australia-s-test-summer-2026-06-04-1043603",
-    "time": "2026-06-04T07:26:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Bhuvneshwar Kumar make his India comeback after sensational IPL season? Former cricketer opines",
-    "desc": "The IPL (Indian Premier League) 2026 concluded with Royal Challengers Bengaluru winning their second straight title. The side dominated every team in the tournament throughout and managed to beat Gujarat Titans comfortably in the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-bhuvneshwar-kumar-make-his-india-comeback-after-sensational-ipl-season-former-cricketer-opines-2026-06-04-1043593",
-    "time": "2026-06-04T06:27:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli set to miss ODI series against Afghanistan due to hamstring injury",
-    "desc": "Star India batter Virat Kohli will be missing the Indian team's upcoming three-game ODI series against Afghanistan. It is worth noting that a hamstring injury is the reason for Virat Kohli missing the series, which...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-set-to-miss-odi-series-against-afghanistan-with-hamstring-injury-2026-06-04-1043584",
-    "time": "2026-06-04T05:11:32.000Z"
   }
 ];
