@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "રણવીર સિંહની લીગલ નોટિસ પછી FWICE બેકફુટ પર, પ્રતિબંધ હટાવ્યો",
+    "desc": "રણવીર સિંહ પર જ્યારે FWICE એ પ્રતિબંધ લગાવ્યો હતો ત્યારે બોલીવુડમાં ખળભળાટ મચી ગયો હતો. પરંતુ બુધવારે FWICE બેકફુટ પર આવી ગયું અને રણવીર સિંહ વિરુદ્ધ લગાવો બેન પરત લઈ લીધો. આવું થવા પાછળ રણવીર સિંહે ફટકારેલી નોટિસ છે. આ મામલો હવે ક્યાં પહોંચ્યો છે ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/latest-bollywood-news-fwice-on-backfoot-on-ranveer-singh-don-3-issue-here-is-latest-update-480315 ",
+    "time": "2026-06-04T02:13:29.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "FIFA World Cup 2026 જોવા માટે કેટલો કરવો પડશે ખર્ચ, જાણો zee5 and unite8 sports નું પેકેજ",
     "desc": "Fifa વર્લ્ડ કપ 2026ની યજમાની અમેરિકા, કેનેડા અને મેક્સિકો કરી રહ્યાં છે. નોર્થ અમેરિકામાં 1994 બાદ વિશ્વકપ રમાઈ રહ્યો છે. ટૂર્નામેન્ટમાં કુલ 104 મેચ જૂન અને જુલાઈ દરમિયાન રમાશે. ત્યારે આવો તમને જણાવીએ ભારતમાં ફીફા વર્લ્ડ કપ જોવા માટે તમારે કેટલો ખર્ચ કરવો પડશે.",
@@ -655,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/curry-barker-horror-film-obsession-7-crore-budget-earned-750-crore-obsession-horror-film-india-release-date-479204 ",
     "time": "2026-05-25T11:05:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અક્ષય કુમારનું ભોજપુરી ગીત તમે જોયું કે નહીં ? શબ્દો સમજાશે નહીં પણ અક્ષયને જોઈને લોટપોટ થઈ જશો",
-    "desc": "ઈંટરનેટ પર અક્ષય કુમારનો ભોજપુરી અંદાજ છવાઈ ગયો છે. વેલકમ ટૂ જંગલ ફિલ્મનું ધમાકેદાર ભોજપુરી ગીત રિલીઝ થયું છે. આ ગીતમાં અક્ષય કુમાર અને અક્ષરા સિંહની જોડીએ ધમાલ મચાવી છે. તડકતા ફડકતા ગીતની મજા લોકો રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-bhojpuri-song-ghis-ghis-viral-welcome-to-the-jungle-new-song-479192 ",
-    "time": "2026-05-25T08:55:19.000Z"
   }
 ];

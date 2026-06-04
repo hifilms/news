@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Absolutely ludicrous': Simon Doull slams Jofra Archer for missing Test match after stellar IPL season",
+    "desc": "The IPL (Indian Premier League) 2026 has concluded, and world cricket has moved on to international cricket. With the tournament coming to an end, the focus has shifted to the upcoming Test series between England...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/absolutely-ludicrous-simon-doull-slams-jofra-archer-for-missing-test-match-after-stellar-ipl-season-2026-06-04-1043566",
+    "time": "2026-06-04T02:31:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kyle Walker questions England's squad selection ahead of FIFA World Cup 2026",
+    "desc": "The stage is set for the upcoming edition of the FIFA World Cup 2026. The marquee tournament will kick off on June 11th with 48 teams squaring off against each other in a bid to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/kyle-walker-questions-england-s-squad-selection-ahead-of-fifa-world-cup-2026-2026-06-04-1043560",
+    "time": "2026-06-04T01:27:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch England vs New Zealand in India?",
     "desc": "England begin their Test summer against New Zealand at Lord’s on Thursday, June 4. After the embarrassing series loss in the Ashes, England are eager to bounce back in the longest format and have announced...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-happened-to-satwik-bai-issues-statement-after-sat-chi-retires-from-first-round-of-indonesia-open-2026-06-03-1043507",
     "time": "2026-06-03T11:24:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What did Virat Kohli say to Vaibhav Sooryavanshi after IPL 2026 final? WATCH VIDEO",
-    "desc": "After Royal Challengers Bengaluru’s successive IPL win at the Narendra Modi Stadium, star batter Virat Kohli was spotted having a chat with Vaibhav Sooryavanshi, who was invited to watch the final against Gujarat Titans. Two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-did-virat-kohli-say-to-vaibhav-sooryavanshi-after-ipl-2026-final-watch-video-2026-06-03-1043498",
-    "time": "2026-06-03T10:28:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch series opener in India?",
-    "desc": "With a focus on climbing up the ODI rankings and boosting their World Cup 2027 qualification, the West Indies host Sri Lanka for a three-match series in Jamaica from June 3 onwards. Lingering in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wi-vs-sl-1st-odi-live-streaming-details-when-and-where-to-watch-series-opener-in-india-2026-06-03-1043488",
-    "time": "2026-06-03T09:45:09.000Z"
   }
 ];
