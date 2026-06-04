@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Katy Perry-Justin Trudeau romance gets serious ahead of first anniversary",
+    "desc": "Pop star Katy Perry and Canadian Prime Minister Justin Trudeau are reportedly taking a significant step, introducing their children to each other. This move signals a deepening of their relationship as they aim to thoughtfully blend their families. The couple, who are said to be very serious, are preparing to celebrate their first anniversary together.",
+    "img": "https://static.toiimg.com/photo/msid-131516834,imgsize-52036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katy-perry-and-justin-trudeau-introduce-their-children-ahead-of-first-anniversary-relationship-grows-serious/articleshow/131516636.cms",
+    "time": "2026-06-04T21:51:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "El Nino is here, says European agency amid Pacific warming",
+    "desc": "The European weather agency has indicated El Nino has set in, with Pacific Ocean temperatures crossing the 0.5°C threshold in May. This development is expected to influence global weather patterns, including the Indian monsoon. While official declaration requires persistence, atmospheric changes are already being observed.",
+    "img": "https://static.toiimg.com/photo/msid-131516829,imgsize-104288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/el-nino-is-here-says-european-agency-amid-pacific-warming/articleshow/131516828.cms",
+    "time": "2026-06-04T21:40:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi good friend, India and U.S. will get to trade deal: Trump",
+    "desc": "We will get to a deal because I like your prime minister a lot. He is a good friend of mine. We get along great, and we are gonna make a deal, says U.S. President Donald Trump",
+    "img": "https://th-i.thgim.com/public/incoming/5m3gtc/article71062932.ece/alternates/LANDSCAPE_1200/TH28-Suhasini-CGLBFPD3A7.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-good-friend-india-and-us-will-get-to-trade-deal-trump/article71062810.ece",
+    "time": "2026-06-04T21:36:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Venezuela, a big energy source, comes calling",
+    "desc": "India is bolstering its energy security by deepening ties with Venezuela, a top crude oil supplier. Discussions between PM Modi and Venezuela's acting President focused on long-term energy contracts and cooperation in critical minerals, tech, and agriculture. This move diversifies India's oil sources amidst global supply chain challenges.",
+    "img": "https://static.toiimg.com/photo/msid-131516631,imgsize-69366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/venezuela-a-big-energy-source-comes-calling/articleshow/131516628.cms",
+    "time": "2026-06-04T21:25:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Monsoon arrives in Kerala, after 3-day delay",
+    "desc": "India's crucial southwest monsoon has officially arrived in Kerala, three days later than anticipated. This marks the start of the four-month rainy season vital for agriculture. While the forecast was slightly off, the India Meteorological Department expects the monsoon to advance further across the country in the coming days, bringing much-needed rainfall.",
+    "img": "https://static.toiimg.com/photo/msid-131516621,imgsize-91622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/monsoon-arrives-in-kerala-after-3-day-delay/articleshow/131516620.cms",
+    "time": "2026-06-04T21:16:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Court rejects filmmaker’s plea against Dhurandhar 2 OTT release",
+    "desc": "Director Aditya Dhar received legal relief after a Mumbai civil court refused to stay the OTT release of Dhurandhar 2 amid allegations that the film was based on a copied script. The legal development comes as Dhurandhar 2 begins its OTT run following a successful theatrical release. The film premiered digitally on June 4 and is now streaming on JioHotstar.",
+    "img": "https://static.toiimg.com/photo/msid-131516613,imgsize-72330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-dhar-gets-legal-relief-as-court-rejects-filmmaker-santosh-kumars-plea-against-dhurandhar-2-ott-release-amid-plagiarism-claims/articleshow/131516612.cms",
+    "time": "2026-06-04T21:08:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2 Union ministers don't figure among BJP's 1  1 Rajya Sabha picks",
+    "desc": "BJP's Rajya Sabha candidate list omits Union ministers Ravneet Singh Bittu and George Kurian, fueling cabinet reshuffle speculation. Notably, no outgoing MPs were renominated, with organizational functionaries securing berths. The party is yet to announce candidates from Jharkhand and Karnataka, leaving room for potential ministerial retention.",
+    "img": "https://static.toiimg.com/photo/msid-131516616,imgsize-47256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/buzz-of-cabinet-reshuffle-grows-2-union-ministers-dont-figure-among-bjps-11-rajya-sabha-picks/articleshow/131516614.cms",
+    "time": "2026-06-04T21:08:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India, US look at non-tariff measures",
+    "desc": "India and the US are nearing a trade agreement, with discussions extending beyond goods to encompass non-tariff measures, customs, and economic security. This comes as the US proposed additional tariffs on several countries, including India, over forced labor concerns. Both nations express optimism about finalizing a mutually beneficial deal soon.",
+    "img": "https://static.toiimg.com/photo/msid-131516610,imgsize-42684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-look-at-non-tariff-measures/articleshow/131516609.cms",
+    "time": "2026-06-04T20:57:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How Rajesh Mehta landed in Sebi crosshairs",
+    "desc": "Rajesh Mehta, once a prominent figure in Karnataka's jewellery scene with brands like Shubh and Laabh, has seen his retail ventures wind down amidst Sebi investigations. His journey began with gold refining and manufacturing, evolving into a global player after acquiring Swiss refinery Valcambi. A planned advanced display manufacturing facility in Telangana also faces uncertainty due to ongoing probes.",
+    "img": "https://static.toiimg.com/photo/msid-131516607,imgsize-55254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gleaming-rise-and-sudden-retreat-how-rajesh-mehta-landed-in-sebi-crosshairs/articleshow/131516606.cms",
+    "time": "2026-06-04T20:52:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Look at India as a base and not just a market': Piyush Goyal",
+    "desc": "Union Minister Piyush Goyal urged Indian industry and MNCs to establish manufacturing, design, and innovation hubs in India, leveraging the country for global supply chains and exports. He highlighted India's position as a credible alternative manufacturing hub and a safe investment destination, projecting it to remain the world's fastest-growing economy for decades.",
+    "img": "https://static.toiimg.com/photo/msid-131516604,imgsize-27602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/look-at-india-as-a-base-and-not-just-a-market-piyush-goyal/articleshow/131516598.cms",
+    "time": "2026-06-04T20:43:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Don't sell yourself short: Citi CEO Fraser to India",
+    "desc": "Citi CEO Jane Fraser urged India to focus on execution and long-term strengths, rather than short-term challenges. She highlighted India's compelling structural drivers like demographics and digital infrastructure, which global investors recognize. Fraser noted that while global factors cause volatility, India's structural story remains strong, with growing investor interest in domestic consumption, infrastructure, technology, and AI.",
+    "img": "https://static.toiimg.com/photo/msid-131516590,imgsize-16412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/dont-sell-yourself-short-citi-ceo-fraser-to-india/articleshow/131516587.cms",
+    "time": "2026-06-04T20:37:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Mehta contests Sebi order on Rs 15L cr inflated revenue",
+    "desc": "Sebi has banned Rajesh Exports chief Rajesh Mehta for allegedly inflating company revenues over several years. The regulator's investigation found significant discrepancies, particularly with its Swiss subsidiary Valcambi SA. Mehta claims a communication gap with Sebi, stating revenues are correct and the business is low-margin.",
+    "img": "https://static.toiimg.com/photo/msid-131516583,imgsize-55254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/mehta-contests-sebi-order-on-15l-cr-inflated-revenue/articleshow/131516579.cms",
+    "time": "2026-06-04T20:28:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "HDFC agents to stop mobilising government funds",
+    "desc": "HDFC Bank is halting its agents from collecting fixed deposits and CASA funds from government entities starting July 1. This move, which the bank attributes to its expanding branch network, comes amid scrutiny over incentives paid for government fund mobilization. The bank aims to streamline its operations and governance framework.",
+    "img": "https://static.toiimg.com/photo/msid-131516575,imgsize-31858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hdfc-agents-to-stop-mobilising-govt-funds/articleshow/131516572.cms",
+    "time": "2026-06-04T20:25:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Kuku files for Rs 3.5k cr IPO confidentially",
+    "desc": "Digital entertainment startup Kuku Technologies has confidentially filed for an IPO, aiming to raise up to Rs 3,500 crore. The company is targeting a valuation of up to Rs 15,000 crore and plans to list later this fiscal year. This move signals significant growth aspirations for the digital entertainment sector.",
+    "img": "https://static.toiimg.com/photo/msid-131516566,imgsize-9144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/kuku-files-for-3-5k-cr-ipo-confidentially/articleshow/131516563.cms",
+    "time": "2026-06-04T20:19:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Suspended Deputy Collector arrested for alleged sexual assault in Madhya Pradesh",
+    "desc": "According to the police, a 30-year-old woman gave a complaint in the Civil Lines police station in Morena city against Deputy Collector Arvind Mahour, alleging that he had sexually exploited her on multiple occasions by promising to marry her.",
+    "img": "https://th-i.thgim.com/public/incoming/eg6nhd/article71062787.ece/alternates/LANDSCAPE_1200/IMG_IMG_vbk-HANDCUFF-arr_2_1_75FST1AB.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/suspended-deputy-collector-arrested-for-alleged-sexual-assault-in-madhya-pradesh/article71062371.ece",
+    "time": "2026-06-04T20:04:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP",
     "desc": "Hitting out at Modi, Congress leader had said an unprecedented ‘economic tsunami’ was set to hit India; BJP IT Cell head Amit Malviya termed Rahul’s remarks ‘classic fear-mongering’, said the country remained the world’s fastest-growing major economy",
@@ -16,6 +151,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/finance-ministry-body-once-flagged-great-nicobar-port-as-lacking-strategic-objectives/article71061723.ece",
     "time": "2026-06-04T19:23:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas, Tare combine powers Falcons to a win",
+    "desc": "Tare and Iyer rolled back the years to help SOBO Mumbai Falcons register its first win of the T20 Mumbai, surviving a late wobble to secure a three-wicket victory against defending champion MSC Maratha Royals.",
+    "img": "https://th-i.thgim.com/public/sport/581psd/article71061860.ece/alternates/LANDSCAPE_1200/Shreyas%20Iyer%20of%20SOBO%20Mumbai%20Falcons%20hits%20a%20shot%20during%20a%20Nuvama%20Private%20T20%20Mumbai%20League%202026%20match%20at%20the%20Wankhede%20Stadium%20on%20June%204.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/shreyas-tare-combine-powers-falcons-to-a-win/article71061855.ece",
+    "time": "2026-06-04T19:22:15.000Z"
   },
   {
     "cat": "Politics",
@@ -450,24 +594,6 @@ const newsData_en = [
     "time": "2026-06-04T12:18:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Are fitness bands communication devices? Supreme Court to examine",
-    "desc": "The Supreme Court is examining whether fitness bands are communication devices, a classification disputed by importer GOQii Technologies. The company argues their devices are primarily measuring instruments, not for data transmission, but customs and a tribunal upheld the communication device classification due to Bluetooth connectivity and data sharing with coaches.",
-    "img": "https://static.toiimg.com/photo/msid-131507034,imgsize-823437.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/are-fitness-bands-communication-devices-supreme-court-to-examine/articleshow/131507042.cms",
-    "time": "2026-06-04T12:18:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'You could not criticise Abhishek': TMC rebel explains the breaking point of dissent",
-    "desc": "Trinamool Congress rebels have voiced dissent against Abhishek Banerjee, citing a post-election meeting where criticism of his leadership was forbidden. Expelled MLA Sandipan Saha stated legislators were instructed to applaud Banerjee despite electoral setbacks, highlighting growing resentment over concentrated power.",
-    "img": "https://static.toiimg.com/photo/msid-131506963,imgsize-94552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/you-could-not-criticise-abhishek-tmc-rebel-explains-the-breaking-point-of-dissent/articleshow/131506987.cms",
-    "time": "2026-06-04T12:15:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How FIFA is turning World Cup into an NBA, NFL-style made-for-TV event",
     "desc": "The 2026 FIFA World Cup will feature mandatory three-minute hydration breaks midway through each half, effectively splitting matches into four quarters regardless of weather conditions. The change gives coaches extra tactical time and allows broadcasters to air commercials, adding over 10 hours of stoppage time across the tournament. While some coaches support the move, others fear it could disrupt football’s traditional flow and rhythm.",
@@ -520,33 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-sp-charan-on-finding-his-own-voice/article71060883.ece",
     "time": "2026-06-04T11:30:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bandar gets A certificate from CBFC",
-    "desc": "Anurag Kashyap's dark drama Bandar, starring Bobby Deol, releases on June 5. The CBFC granted it an A certificate with no visual cuts but replaced several cuss words, including swapping \"b**** c***\" with \"banjo.\" The film runs for 2 hours, 10 minutes, and 27 seconds.",
-    "img": "https://static.toiimg.com/photo/msid-131505848,imgsize-45040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bandar-gets-a-certificate-from-cbfc-cuss-words-from-bobby-deols-film-replaced-with-banjo-and-other-mild-terms/articleshow/131505848.cms",
-    "time": "2026-06-04T11:30:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Who is the ‘ideal resident’? Inside India's housing society divide",
-    "desc": "A viral social media post ignited a debate on housing society rules, highlighting suspicions towards bachelors and young couples. While societies need regulations for smooth functioning, many residents feel unfairly scrutinized and stereotyped, leading to a clash between community order and personal autonomy.",
-    "img": "https://static.toiimg.com/photo/msid-131505699,imgsize-1190031.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bachelors-vs-families-who-is-the-ideal-resident-inside-indias-housing-society-divide/articleshow/131504153.cms",
-    "time": "2026-06-04T11:24:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nushrratt Bharuccha breaks silence on her viral clip of IPL finale",
-    "desc": "Nushrratt Bharuccha addressed a viral video controversy, clarifying that the audio clip was from a puppy crying at a friend's house. She shared additional footage and images to support her explanation, condemning the spread of false narratives and online trolling.",
-    "img": "https://static.toiimg.com/photo/msid-131505654,imgsize-24278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nushrratt-bharuccha-breaks-silence-on-her-viral-clip-of-ipl-finale-calm-your-wild-thoughts/articleshow/131505656.cms",
-    "time": "2026-06-04T11:22:10.000Z"
   },
   {
     "cat": "Business",
@@ -693,15 +792,6 @@ const newsData_en = [
     "time": "2026-06-04T04:17:10.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stock recommendations for June 4, 2026",
-    "desc": "Cyient, Timken India, and Bosch have been shortlisted as the top stocks to buy by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for June 4, 2026. The expert has also shared his outlook for Nifty, and Bank Nifty:",
-    "img": "https://static.toiimg.com/photo/msid-131495359,imgsize-91996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-june-04-2026-cyient-timken-india-bosch-best-stocks-to-buy-today/articleshow/131495341.cms",
-    "time": "2026-06-04T02:57:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I always try to stay one step ahead': Krunal Pandya",
     "desc": "Fresh off back-to-back IPL titles, Krunal Pandya reflects on his journey, emphasizing resilience and reinvention. He discusses his evolution as a bowler in the high-scoring T20 era, the influence of his late father, and his unwavering hunger for success. Pandya also shares insights on his son's unique cricket critiques and his hopes for an India recall.",
@@ -736,60 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/spacexs-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire/article71058600.ece",
     "time": "2026-06-03T21:24:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sebi bans Rajesh Exports' CMD for fin irregularities",
-    "desc": "Sebi has banned Rajesh Mehta, CMD of Rajesh Exports, from dealing in the company's shares pending further orders. The regulator's investigation revealed significant manipulation of accounts, particularly overseas subsidiary revenues, inflating them by an \"egregious\" 97%-99%. The company also failed to reflect a Rs 1,035 crore investment in African gold mines.",
-    "img": "https://static.toiimg.com/photo/msid-131492066,imgsize-23988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-bans-rajesh-exports-cmd-for-fin-irregularities/articleshow/131492064.cms",
-    "time": "2026-06-03T20:48:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI rejects bids for treasury bills, move signals lower rates",
-    "desc": "The RBI rejected bids for longer-term treasury bills, signaling discomfort with rising short-term yields ahead of its monetary policy decision. This move, aimed at softening interest rates, comes as the MPC meets to decide on rates, with a pause widely expected. Yields on government bonds subsequently fell.",
-    "img": "https://static.toiimg.com/photo/msid-131492059,imgsize-54846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-bids-for-treasury-bills-move-signals-lower-rates/articleshow/131492057.cms",
-    "time": "2026-06-03T20:44:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Bank of America chief",
-    "desc": "Despite near-term volatility, India's appeal remains strong for strategic investors due to its scale and growth prospects. While foreign institutional investor participation has declined, Bank of America's India CEO Vikram Sahu believes capital will follow as regulatory friction eases and business conditions improve. Investor sentiment is showing signs of recovery, with a growing willingness to explore current market entry points.",
-    "img": "https://static.toiimg.com/photo/msid-131492053,imgsize-51720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/interest-in-india-strong-despite-volatility-bank-of-america-chief/articleshow/131492052.cms",
-    "time": "2026-06-03T20:41:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt sets aside Rs 10k crore to cap jet fuel price, keep air fares in check",
-    "desc": "The Indian government has allocated Rs 10,000 crore to stabilize jet fuel prices. This move aims to prevent airfares from becoming unaffordable for citizens and to support airline operations. The support will be provided as an interest-free advance to oil companies. This initiative is expected to maintain affordable air connectivity, boost tourism, and create employment opportunities across the country.",
-    "img": "https://static.toiimg.com/photo/msid-131492045,imgsize-85200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-sets-aside-rs-10k-crore-to-cap-jet-fuel-price-keep-air-fares-in-check/articleshow/131492038.cms",
-    "time": "2026-06-03T20:35:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Exporters keep tabs on USTR probe, trade talks",
-    "desc": "Indian exporters are closely monitoring US trade investigations and bilateral deal talks, expecting an advantage over rivals. While not overly concerned about a proposed 12.5% tariff on 54 countries, they are apprehensive about the same levy on China. Exporters are confident that ongoing negotiations will lead to mutually beneficial outcomes, especially for sectors like footwear and leather.",
-    "img": "https://static.toiimg.com/photo/msid-131492031,imgsize-47624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/exporters-keep-tabs-on-ustr-probe-trade-talks/articleshow/131492029.cms",
-    "time": "2026-06-03T20:27:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tech stocks slide on AI fears, oil gives Dalal Street a headache",
-    "desc": "Persian Gulf tensions pushed crude prices near $100, weakening the rupee and causing the Sensex to plunge over 1,100 points mid-session. Despite initial losses, banking stocks rallied, aiding a partial recovery, while IT stocks crashed due to AI disruption fears. Foreign funds saw significant outflows.",
-    "img": "https://static.toiimg.com/photo/msid-131492021,imgsize-1214436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tech-stocks-slide-on-ai-fears-oil-gives-dalal-street-a-headache/articleshow/131492019.cms",
-    "time": "2026-06-03T20:22:49.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/education/thinking-ai-needs-to-be-integrated-deeply-into-every-curriculum-is-a-mistake/article71057707.ece",
     "time": "2026-06-03T14:55:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israel plans major West Bank settlement expansion despite legality concerns",
-    "desc": "Israel has approved plans for more than 2,000 new homes in Jewish settlements across the occupied West Bank, a move criticised by Palestinians and many countries that view the settlements as illegal under international law",
-    "img": "https://th-i.thgim.com/public/incoming/h8algz/article71057398.ece/alternates/LANDSCAPE_1200/2026-06-01T141929Z_1726215169_RC21LLA86LLH_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-SETTLERS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-plans-major-west-bank-settlement-expansion-amid-criticism/article71057301.ece",
-    "time": "2026-06-03T13:40:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "10-year-old Kerala girl with Down syndrome breaks barriers in music",
-    "desc": "She secures entries in International Book of World Records, India Book of Records, Worldwide Book of Records, Universal Record Book and Nobel World Records for performing the National Anthem on the keyboard in 1 minute and 25 seconds",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/5phni/article71056093.ece/alternates/LANDSCAPE_1200/Advika%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/10-year-old-kerala-girl-with-down-syndrome-breaks-barriers-in-music/article71056109.ece",
-    "time": "2026-06-03T13:21:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karisma Kapoor on her makeover in ‘Brown’: ‘The role was stripped of everything possible’",
-    "desc": "Karisma Kapoor, Jisshu Sengupta and Abhinay Deo open up about their upcoming thriller series, ‘Brown’, why Karisma didn’t want to be part of the show at first, how Abhinay worked on the visuals, Karisma’s thoughts on working in films after taking a break and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/oeh591/article71052445.ece/alternates/LANDSCAPE_1200/Karisma%20Kapoor.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/karisma-kapoor-on-her-makeover-in-brown-the-role-was-stripped-of-everything-possible/article71051813.ece",
-    "time": "2026-06-03T11:40:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "It is not just songs, Ilaiyaraaja is also integral to ‘Manjanathi’: Mari Selvaraj",
-    "desc": "“Whenever the name Manjanathi came to my mind, I thought of adapting it into a film. Even then, I had decided that maestro Ilaiyaraaja should compose the music. When I met him and narrated the story, he agreed to score it,” the director said.",
-    "img": "https://th-i.thgim.com/public/latest-news/mth35a/article71054305.ece/alternates/LANDSCAPE_1200/IMG_1283.JPG.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/it-is-not-just-songs-ilaiyaraaja-is-also-integral-tomanjanathi-says-mari-selvaraj/article71054340.ece",
-    "time": "2026-06-03T07:42:46.000Z"
   }
 ];
