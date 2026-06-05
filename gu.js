@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ઈરાન યુદ્ધ વચ્ચે આંદામાનમાં મળ્યો ગેસનો મહાભંડાર, ઓઈલ ઈન્ડિયાને મળી મોટી સફળતા; પેટ્રોલિયમ મંત્રીએ આપ્યા ગુડ ન્યૂઝ",
+    "desc": "આંદામાન ટાપુમાં ઊંડા પાણીમાં ભારતને ગેસનો વિશાળ ભંડાર મળ્યો છે. ભારતની નવરત્ન કંપની ઓઈલ ઈન્ડિયા લિમિટેડે (Oil India Limited) આ અંગે માહિતી આપી છે. પેટ્રોલિયમ મંત્રી હરદીપ સિંહ પુરીએ ગેસ ભંડાર વિશે વિગતવાર માહિતી શેર કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/amidst-the-iran-war-a-huge-gas-reserve-was-found-in-the-andamans-oil-india-got-a-big-success-petroleum-minister-gave-good-news-480541 ",
+    "time": "2026-06-05T17:47:36.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "33 કિમી માઈલેજ, સનરૂફ... કિંમત ₹6.26 લાખ! આ છે દેશની સૌથી વધુ વેચાતી કાર",
     "desc": "મે 2026માં ભારતીય કાર બજારે મજબૂત પ્રદર્શન કર્યું. મારુતિ સુઝુકીએ રેકોર્ડ વેચાણ નોંધાવ્યું, જેમાં કોમ્પેક્ટ સેડાન અને ક્રોસઓવર મોડેલોએ સૌથી વધુ માંગ અનુભવી. એકંદરે, મારુતિ સુઝુકીનું સ્થાનિક વેચાણ 1.93 લાખ યુનિટને વટાવી ગયું. જેમાં આ ગાડી ટોચનું સ્થાન ધરાવે છે.",
@@ -376,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/truth-behind-no-cost-emi-free-offer-actually-emptying-your-wallet-480262 ",
     "time": "2026-06-03T10:50:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "માલવીય નગરના દર્દનાક અગ્નિકાંડ વિશે થયા અત્યંત ચોંકાવનારા ખુલાસા, આ માટે કોણ જવાબદાર?",
-    "desc": "દિલ્હીમાં આજે સવારે હોટલ-રેસ્ટોરન્ટમાં લાગેલી આગની ગોઝારી ઘટનામાં અત્યાર સુધીમાં 21 લોકોના મોતની પુષ્ટિ થઈ છે. આ મામલે કેટલાક એવા ખુલાસા થયા છે, બેદરકારી સામે આવી છે જેને જોતા કોણ જવાબદાર એ પ્રશ્ન ચોક્કસ ઉઠે છે. વિગતો ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-fire-shocking-revelations-about-the-tragic-fire-incident-in-malviya-nagar-480258 ",
-    "time": "2026-06-03T10:25:47.000Z"
   },
   {
     "cat": "Business",

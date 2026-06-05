@@ -1,21 +1,174 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Kochi Corpn. to issue notice to CSML over streetlight maintenance",
+    "desc": "LED lights have drawn flak from councillors across political parties over their alleged erratic functioning and poor upkeep; CSML claims that at no point were more than 200 lights non-functional in a network of over 43,000 lights",
+    "img": "https://th-i.thgim.com/public/incoming/mvcn9w/article71067165.ece/alternates/LANDSCAPE_1200/10018_4_2_2026_20_23_53_1_STREET_LIGHTS_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kochi-corpn-to-issue-notice-tocsml-overstreetlightmaintenance/article71064653.ece",
+    "time": "2026-06-05T19:35:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi inspects indigenous defence systems at Surat facility, briefed about desi light tank Zorawar",
+    "desc": "Prime Minister Narendra Modi visited Larsen & Toubro's Armed Systems Complex in Surat, reviewing advanced defence equipment and indigenous armoured vehicles. He was briefed on 'Zorawar', India's first indigenous light battle tank designed for mountainous terrains and rapid deployment along the LAC.",
+    "img": "https://static.toiimg.com/photo/msid-131540270,imgsize-90308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-inspects-indigenous-defence-systems-at-surat-facility-briefed-about-desi-light-tank-zorawar/articleshow/131540266.cms",
+    "time": "2026-06-05T19:33:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Correcting ‘discrepancies’ is normal practice in statistical exercise, says Census official",
+    "desc": "There have been attempts to ‘misrepresent this normal exercise as data tampering, which is regrettable and factually inaccurate’, the official says; enumerators say they are being asked to edit data about open defecation and gas connection in particular",
+    "img": "https://th-i.thgim.com/public/incoming/atib76/article71067287.ece/alternates/LANDSCAPE_1200/20260519178L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/field-supervision-correcting-discrepancies-are-normal-practice-in-statistical-exercise-says-rgcci-director/article71066680.ece",
+    "time": "2026-06-05T19:21:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Luis Enrique joins the GOATs, but PSG success isn’t above reproach",
+    "desc": "The 56-year-old is now a part of an elite group of managers with three or more European Cup titles. And he did it with silky, selfless, attacking football. But while there is no doubt about Enrique’s quality or his influence on the modern game, the question of his legacy — specifically the Paris chapter, amid criticism of ‘sportswashing’ — is less straightforward",
+    "img": "https://th-i.thgim.com/public/incoming/78uh62/article71067271.ece/alternates/LANDSCAPE_1200/GettyImages-2278810804.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/luis-enrique-psg-champions-league-back-to-back-title-legacy-arsenal-final-2026/article71067277.ece",
+    "time": "2026-06-05T19:19:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Batters just keep getting better and better; but I think we are also bowling quicker: Issy Wong",
+    "desc": "In this conversation, the England fast-bowler previews the upcoming T20 World Cup, reminisces about her time with the Mumbai Indians, and reveals who the toughest opponents she has faced are. The 24-year-old also holds forth on the impact of The Hundred and describes what it was like to watch the 2017 World Cup final from the stands at Lord’s",
+    "img": "https://th-i.thgim.com/public/incoming/oox6a6/article71067280.ece/alternates/LANDSCAPE_1200/GettyImages-2215960149.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/issy-wong-england-t20-world-cup-wpl-mumbai-indians-interview/article71067283.ece",
+    "time": "2026-06-05T19:17:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madhoo recalls Nana Patekar slapped her for real in Yeshwant",
+    "desc": "Veteran actress Madhoo Shah has opened up about a memorable incident from the sets of the 1997 film Yeshwant, revealing that co-star Nana Patekar slapped her for real during an emotional scene — only for her to immediately slap him back.In a recent interview, Madhoo recalled how the experience became an unexpected lesson in method acting and changed the way she approached performances.",
+    "img": "https://static.toiimg.com/photo/msid-131539866,imgsize-72238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhoo-shah-recalls-nana-patekar-slapped-her-for-real-during-a-scene-in-yeshwant-says-she-hit-him-back-i-got-really-angry/articleshow/131539672.cms",
+    "time": "2026-06-05T18:48:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punished for a guilty system",
+    "desc": "A fire in a bed-and-breakfast took the lives of 21 people in South Delhi’s Malviya Nagar. Of these, 12 were foreign nationals, most in India for their families’ medical needs. The owner was allegedly misusing government permits and had no clearance from the fire department. Suruchi Kumari and Shrimansi Kaushik report on how, despite repeated announcements of government audits, on ground, compliance is a challenge",
+    "img": "https://th-i.thgim.com/public/incoming/anj8ee/article71066594.ece/alternates/LANDSCAPE_1200/FIRE_MALVIYA_NAGAR_HOTEL_DELHI_2026_04_06_17.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-hotel-fire-punished-for-a-guilty-system/article71066580.ece",
+    "time": "2026-06-05T18:47:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MCH incident sparks call for urgent clinical, medical audit of patient care procedures",
+    "desc": "Public health expert B. Ekbal emphasises that the incident reflects systemic failures rather than the negligence of a single junior staff member. He urges the Health dept. to implement robust monitoring protocols to ensure patient safety.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/mch-incident-triggers-call-for-immediate-clinical-and-medical-audit-of-patient-care-procedures/article71066642.ece",
+    "time": "2026-06-05T18:34:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift shares childhood video in cowboy hat",
+    "desc": "Taylor Swift's new country song, \"I Knew It, I Knew You,\" for Toy Story 5 has fans buzzing. A childhood video of Swift in a cowboy hat, reminiscent of Jessie, further delighted followers. The clip showcased her early charm, with fans celebrating her return to country roots and anticipating the film's release.",
+    "img": "https://static.toiimg.com/photo/msid-131539301,imgsize-51878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-shares-childhood-video-in-cowboy-hat-fans-call-it-the-cutest-thing-ever/articleshow/131539265.cms",
+    "time": "2026-06-05T18:32:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Heavy rains trigger landslide alert; evacuation ordered in Vilangad",
+    "desc": "Vadakara Revenue Divisional Officer appointed nodal officer to coordinate evacuation and relief camp operations, while Vadakara Tahsildar will serve as assistant nodal officer. District Police Chief (Kozhikode Rural) asked to deploy sufficient personnel to support evacuation plans and ensure security at relief camps and evacuated houses",
+    "img": "https://th-i.thgim.com/public/incoming/fm230u/article71067056.ece/alternates/LANDSCAPE_1200/06tvkzvilangad.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/heavy-rains-trigger-landslide-alert-evacuation-ordered-in-vilangad/article71065885.ece",
+    "time": "2026-06-05T18:17:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cloudburst, flashfloods damaged houses in J&amp;K’s Reasi",
+    "desc": "Flashfloods from a cloudburst in Reasi's Bathoi village on Thursday caused significant damage to homes and blocked roads with mudslides. Fortunately, no injuries or fatalities were reported. This marks the fifth such event in the Jammu region recently. Authorities are providing immediate assistance to affected families, while adverse weather also led to the suspension of pilgrimages in Kishtwar.",
+    "img": "https://static.toiimg.com/photo/msid-131539000,imgsize-67718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cloudburst-flashfloods-damaged-houses-in-jks-reasi/articleshow/131538989.cms",
+    "time": "2026-06-05T18:15:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Cabinet Trouble for D.K. Shivakumar as Ramalinga Reddy Resigns",
+    "desc": "In today’s episode, we look at Karnataka Chief Minister D.K. Shivakumar’s first political crisis, as Ramalinga Reddy resigns from Cabinet. We also ask our reporters to break down what K. Annamalai’s latest announcement means for Tamil Nadu politics.",
+    "img": "https://th-i.thgim.com/public/incoming/kr9l07/article71067208.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-05%20at%2020.41.30%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-cabinet-trouble-for-dk-shivakumar-as-ramalinga-reddy-resigns-above-the-fold-05062026/article71067211.ece",
+    "time": "2026-06-05T18:12:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh women’s group slams liquor sale nod, warns of stir",
+    "desc": "Ladakh's Buddhist women's wing is strongly opposing the Union Territory's new excise policy allowing liquor sales, fearing it will worsen social issues like drug abuse and domestic violence. They advocate for stricter drug control and warn of protests if the policy isn't reconsidered, emphasizing women's role in preserving the region's social fabric.",
+    "img": "https://static.toiimg.com/photo/msid-131538872,imgsize-29318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ladakh-womens-group-slams-liquor-sale-nod-warns-of-stir/articleshow/131538838.cms",
+    "time": "2026-06-05T18:11:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir's co-star Sanjana says only Hrithik can leave her star-struck",
+    "desc": "Sanjana Sanghi may have shared screen space with some of Bollywood's biggest stars from a young age, but she says very few celebrities have ever left her star-struck. In a recent interview, the Dil Bechara actress revealed that while she has always admired her co-stars, only one actor has the power to make her stumble — Hrithik Roshan. Sanjana, who made her Bollywood debut at the age of 14 in Rockstar alongside Ranbir Kapoor, reflected on her early days in the industry and how she managed to stay composed despite being surrounded by established stars.",
+    "img": "https://static.toiimg.com/photo/msid-131538612,imgsize-35678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjana-sanghi-says-only-hrithik-roshan-can-leave-her-star-struck-recalls-working-with-ranbir-kapoor-at-14-in-rockstar/articleshow/131538515.cms",
+    "time": "2026-06-05T17:59:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Save Soil–Cauvery Calling: Farmers' income jumps from Rs 30,000 to Rs 3 lakh per acre",
+    "desc": "A tree-based farming model by Save Soil–Cauvery Calling is transforming agriculture, boosting incomes from Rs 30,000 to Rs 2.5–3 lakh per acre. This ecological solution, accredited by UN bodies, has empowered farmers like Valluvan, enhancing soil health and crop yields. The movement aims to plant 242 crore trees, supporting hundreds of thousands of farmers with extensive training and resources.",
+    "img": "https://static.toiimg.com/photo/msid-131538395,imgsize-1472824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/save-soilcauvery-calling-farmers-income-jumps-from-rs-30000-to-rs-3-lakh-per-acre/articleshow/131538400.cms",
+    "time": "2026-06-05T17:47:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Stan Lee",
+    "desc": "Comic book legend Stan Lee believed superheroes are deeply human, grappling with everyday problems like love, family, and finances, despite their extraordinary powers. His creations, from Spider-Man to the Hulk, resonated because of their relatable flaws and struggles, not just their abilities. Lee's philosophy emphasized that true heroism lies in overcoming personal challenges.",
+    "img": "https://static.toiimg.com/photo/msid-131537585,imgsize-21958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-stan-lee-just-because-you-have-superpowers-that-doesnt-mean-your-love-life-would-be-perfect/articleshow/131537257.cms",
+    "time": "2026-06-05T17:23:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's FPI debt inflows reached 62% of cumulative equity at $95.5 billion since FY99; $19.3 billion since FY25: Report",
+    "desc": "Foreign investors are increasingly favoring India's debt market, with FPI debt inflows comprising a significant portion of overall foreign capital. This trend is boosted by global bond index inclusion and easier access routes. With attractive real yields and a stable currency outlook, India is poised for more debt investments, crucial for managing the current account deficit and supporting the rupee.",
+    "img": "https://static.toiimg.com/photo/msid-131537582,imgsize-610494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-fpi-debt-inflows-reached-62-of-cumulative-equity-at-95-5-billion-since-fy99-19-3-billion-since-fy25-report/articleshow/131537078.cms",
+    "time": "2026-06-05T17:22:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt extends tenure of RBI deputy governor Swaminathan J for two years",
+    "desc": "The government has extended the tenure of Reserve Bank Deputy Governor Swaminathan Janakiraman for another two years, effective June 26, 2026. Janakiraman, who was initially appointed in June 2023, will continue in his role as the central bank maintains its four-deputy governor structure.",
+    "img": "https://static.toiimg.com/photo/msid-131537258,imgsize-343249.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-extends-tenure-of-rbi-deputy-governor-swaminathan-j-for-two-years/articleshow/131537233.cms",
+    "time": "2026-06-05T17:05:57.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Karnataka cabinet shock: Why Ramalinga Reddy’s resignation has pushed DKS into a corner",
     "desc": "Hours after portfolio allocations, the new Karnataka government has hit a massive wall. Veteran Bangalore strongman Ramalinga Reddy has resigned, senior Dalit face K.H. Muniappa is in open revolt, and D.K. Shivakumar’s biggest nightmare is coming alive. In this deep-dive analysis, we break down the brewing storm in Vidhana Soudha.",
     "img": "https://th-i.thgim.com/public/incoming/439qlm/article71067079.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-05%20at%2022.19.14.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-karnataka-cabinet-shock-why-ramalinga-reddys-resignation-has-pushed-dks-into-a-corner/article71067077.ece",
     "time": "2026-06-05T17:05:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Field supervision, correcting ‘discrepancies’ are normal practice in statistical exercise, says RG&CCI Director",
-    "desc": "There have been attempts to ‘misrepresent this normal exercise as data tampering, which is regrettable and factually inaccurate’, the official says; enumerators say they are being asked to edit data about open defecation and gas connection in particular",
-    "img": "https://th-i.thgim.com/public/incoming/hrl9am/article71067063.ece/alternates/LANDSCAPE_1200/20260521501L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/field-supervision-correcting-discrepancies-are-normal-practice-in-statistical-exercise-says-rgcci-director/article71066680.ece",
-    "time": "2026-06-05T16:53:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -43,6 +196,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/alexander-zverev-marches-into-french-open-final-one-win-away-from-ending-grand-slam-curse/articleshow/131536677.cms",
     "time": "2026-06-05T16:41:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pressure on Modi to limit India-Russia ties will hurt global stability: Putin",
+    "desc": "A “large economy” like India will prioritise national interests, and its relations with the U.S. will not cause friction with Russia, says Vladimir Putin; Russian President says it is “not a good idea” to interfere in the “delicate” India-China ties",
+    "img": "https://th-i.thgim.com/public/incoming/u0jjw9/article71064689.ece/alternates/LANDSCAPE_1200/2026-05-28T101113Z_889751841_RC29ILAD5HKL_RTRMADP_3_KAZAKHSTAN-RUSSIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russian-president-vladimir-putin-press-conference-with-pti/article71064672.ece",
+    "time": "2026-06-05T16:40:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/decoding-ti-knew-it-i-knew-you-from-toy-story-5-fans-say-nobody-can-write-a-song-like-taylor-swift/articleshow/131535722.cms",
     "time": "2026-06-05T15:49:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three held in connection with fire at private hospital in Muzaffarpur",
-    "desc": "\"In pursuance of the FIR that was lodged by the Fire Officer of Muzaffarpur, we arrested Pankaj, the doctor who was in charge of the ICU, in addition to Ram Kumar and Ajit Kumar, the admin manager and the maintenance manager, respectively\", says Mr. Ansari",
-    "img": "https://th-i.thgim.com/public/incoming/epx6pw/article71066082.ece/alternates/LANDSCAPE_1200/20260604116L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/three-held-in-connection-with-fire-at-private-hospital-in-muzaffarpur/article71066037.ece",
-    "time": "2026-06-05T15:42:18.000Z"
   },
   {
     "cat": "Business",
@@ -133,6 +286,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/eng-vs-nz-emilio-gay-scripts-history-on-home-soil-becomes-first-ever-batter-since-andrew-strauss-to-/articleshow/131534948.cms",
     "time": "2026-06-05T15:02:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Air Marshal Ashutosh Dixit, an ace fighter and experienced test pilot, appointed IAF vice chief",
+    "desc": "Air Marshal Ashutosh Dixit, a seasoned fighter and test pilot, has been appointed the next Vice Chief of the Air Staff, effective July 1. His extensive experience in operational roles, indigenous fighter projects, and aircraft testing brings significant expertise to the IAF's leadership. He previously served as the Chief of Integrated Defence Staff, contributing to jointness among defense forces.",
+    "img": "https://static.toiimg.com/photo/msid-131534769,imgsize-62896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/air-marshal-ashutosh-dixit-an-ace-fighter-and-experienced-test-pilot-appointed-iaf-vice-chief/articleshow/131534793.cms",
+    "time": "2026-06-05T14:44:13.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +522,6 @@ const newsData_en = [
     "time": "2026-06-05T11:31:32.000Z"
   },
   {
-    "cat": "Business",
-    "title": "After growth forecast cut, RBI warns monsoon deficiency could weigh on consumption",
-    "desc": "RBI Governor Sanjay Malhotra cautioned that a potential south-west monsoon deficit could dampen rural demand and private consumption. While government initiatives aim to mitigate this, rising energy prices and supply disruptions also pose growth risks. The central bank consequently lowered its FY27 GDP growth forecast to 6.6%.",
-    "img": "https://static.toiimg.com/photo/msid-131530329,imgsize-865350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/after-growth-forecast-cut-rbi-warns-monsoon-deficiency-could-weigh-on-consumption/articleshow/131530268.cms",
-    "time": "2026-06-05T11:31:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Song lyrics of the day by Beyoncé",
     "desc": "Beyoncé, a record-breaking artist and cultural icon, has once again reinvented herself with her latest album, 'Cowboy Carter.' Known for her empowering lyrics and genre-bending music, she explores the complexities of love and appreciation in her song 'Love Drought.' The article highlights her immense success, business ventures, and enduring impact on the music industry.",
@@ -414,15 +567,6 @@ const newsData_en = [
     "time": "2026-06-05T10:50:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vedang Raina reveals he had a backup plan before 'The Archies'",
-    "desc": "In a world where dreams collide with reality, Bollywood's emerging talent Vedang Raina reflects on his unexpected journey from prospective job interviews to starring roles in 'The Archies' and 'Jigra'. Just five years ago, he faced career uncertainty, but a pivotal audition for a Netflix musical catapulted him into the limelight.",
-    "img": "https://static.toiimg.com/photo/msid-131529372,imgsize-67324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vedang-raina-reveals-he-had-a-backup-plan-before-the-archies-i-was-close-to-getting-work-experience-and-probably-doing-a-masters-degree/articleshow/131529321.cms",
-    "time": "2026-06-05T10:44:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Praggnanandhaa can win Norway Chess in a three-way battle",
     "desc": "Praggnanandhaa remains firmly in contention for the Norway Chess 2026 title heading into the final round. The Indian grandmaster trails leader Wesley So by just half a point, with Alireza Firouzja also in the mix. A classical victory in his final game could propel Praggnanandhaa to the top, though the outcome will also depend on results involving So and Firouzja.",
@@ -441,24 +585,6 @@ const newsData_en = [
     "time": "2026-06-05T10:22:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Maa Behen' Twitter review: Madhuri and Triptii receive praise",
-    "desc": "Madhuri Dixit and Triptii Dimri star in Suresh Triveni's black comedy 'Maa Behen,' which premiered on OTT, sparking divided audience reactions. While some praise the lead cast's performances and the film's unconventional, bold storytelling, others express disappointment with the subject and execution. The narrative centers on a mother and daughters facing an unexpected home situation.",
-    "img": "https://static.toiimg.com/photo/msid-131528712,imgsize-66036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maa-behen-twitter-review-madhuri-dixit-and-triptii-dimri-receive-praise-viewers-share-mixed-reactions-over-storytelling/articleshow/131528596.cms",
-    "time": "2026-06-05T10:17:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India set to overtake China in share of world GDP by 2060, report says",
-    "desc": "India is projected to overtake China in global GDP share by 2060, as China's economic contribution is expected to stabilize and decline. This shift is driven by China's rapidly falling population share, contrasting with India's trajectory. The report also notes significant inequality differences between the two Asian giants.",
-    "img": "https://static.toiimg.com/photo/msid-131528646,imgsize-861257.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-set-to-overtake-china-in-share-of-world-gdp-by-2060-report-says/articleshow/131528631.cms",
-    "time": "2026-06-05T10:14:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "EXCLUSIVE",
     "desc": "ZEE Entertainment Enterprises Limited (ZEEL) is making a significant return to sports broadcasting by acquiring rights for the 2026 FIFA World Cup and future tournaments. The company has launched Unite8 Sports channels and offering content on Zee5. Bavesh Janavlekar, Chief Business Officer of Unite8 Sports, speaks about the acquisition and long-term vision.",
@@ -466,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/exclusive-fifa-world-cup-becomes-an-ideal-anchor-property-for-us-unite8-sports-chief-bavesh-janavlekar/articleshow/131525449.cms",
     "time": "2026-06-05T10:08:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will India finally get plastic banknotes? RBI's polymer currency plan explained",
-    "desc": "The Reserve Bank of India is considering introducing polymer currency notes, a move that could enhance durability and security. Governor Sanjay Malhotra stated the proposal is in its preliminary stages, with the central bank examining its advantages and disadvantages. This initiative aims to address the rapid deterioration of existing paper notes and combat fake currency circulation.",
-    "img": "https://static.toiimg.com/photo/msid-131528459,imgsize-1156844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/will-india-finally-get-plastic-banknotes-rbis-polymer-currency-plan-explained/articleshow/131528203.cms",
-    "time": "2026-06-05T10:04:01.000Z"
   },
   {
     "cat": "Sports",
@@ -495,6 +612,15 @@ const newsData_en = [
     "time": "2026-06-05T09:57:20.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "What must Gukesh do to avoid finishing last at Norway Chess 2026?",
+    "desc": "World Champion D Gukesh faces a crucial final-round clash against Magnus Carlsen at Norway Chess 2026. Currently last with eight points, Gukesh must defeat Carlsen in their classical game to move ahead of the Norwegian and avoid finishing at the bottom. Meanwhile, Wesley So, Praggnanandhaa, and Alireza Firouzja remain locked in a thrilling three-way battle for the tournament title.",
+    "img": "https://static.toiimg.com/photo/msid-131527989,imgsize-38476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/what-must-world-champion-d-gukesh-do-to-avoid-finishing-last-at-norway-chess-2026/articleshow/131527989.cms",
+    "time": "2026-06-05T09:53:13.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Swift’s Movie Soundtrack Originals",
     "desc": "Taylor Swift returns to her country roots with 'I Knew It, I Knew You' for 'Toy Story 5,' reflecting on reconciliation. The article highlights her past contributions to film soundtracks, including 'Safe & Sound' for 'The Hunger Games,' 'I Don't Wanna Live Forever' for 'Fifty Shades Darker,' and 'Today Was A Fairytale' from her acting debut in 'Valentine's Day.'",
@@ -502,24 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-drops-i-knew-it-i-knew-you-from-toy-story-5-every-time-pop-icon-wrote-original-songs-for-movie-soundtracks/articleshow/131528192.cms",
     "time": "2026-06-05T09:52:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is Gauri? Aamir's would be third wife and mother of 6 year old",
-    "desc": "Aamir Khan is set to marry his longtime girlfriend Gauri Spratt on July 5 in what will be his third marriage. Gauri, a fashion professional and mother of a six-year-old son, has been associated with Aamir Khan Films. The two reconnected after knowing each other for 25 years.",
-    "img": "https://static.toiimg.com/photo/msid-131527605,imgsize-35798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-gauri-spratt-aamir-khans-would-be-third-wife-and-the-mother-of-six-year-old-son/articleshow/131527605.cms",
-    "time": "2026-06-05T09:34:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Don't want to burden top leadership': What Annamalai told BJP in his resignation letter",
-    "desc": "Former Tamil Nadu BJP chief K Annamalai has resigned to launch a new political movement, aiming to end \"cult and dynastic\" politics. Annamalai expressed a desire to change the notion of politics and connect with local aspirations, stating national parties often fail to speak the language of Tamil Nadu's people.",
-    "img": "https://static.toiimg.com/photo/msid-131527354,imgsize-761299.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-want-to-burden-top-leadership-what-annamalai-told-bjp-in-his-resignation-letter/articleshow/131527206.cms",
-    "time": "2026-06-05T09:22:58.000Z"
   },
   {
     "cat": "World",
@@ -540,13 +648,13 @@ const newsData_en = [
     "time": "2026-06-05T09:12:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All you need to know about James Handy",
-    "desc": "Maverick,' was tragically found stabbed to death at his Los Angeles home on June 3, 2026. His girlfriend's son, Michael Gledhill, has reportedly confessed to the crime. Handy, an 81-year-old with a career spanning five decades, was discovered with chest wounds in his front yard.",
-    "img": "https://static.toiimg.com/photo/msid-131526531,imgsize-31918.cms",
+    "cat": "Sports",
+    "title": "‘If there's an opportunity ...’: Gambhir backs ICC's pink-ball rule for bad light",
+    "desc": "India head coach Gautam Gambhir supports the ICC's new rule allowing a pink ball under floodlights to combat bad light in Test matches. He believes this proactive measure will help ensure matches reach a conclusion, especially in crucial World Test Championship scenarios, preventing teams from being denied results due to weather.",
+    "img": "https://static.toiimg.com/photo/msid-131526917,imgsize-25814.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-handy-stabbed-to-death-at-81-in-los-angeles-all-you-need-to-know-about-the-jumanji-and-top-gun-maverick-actor/articleshow/131526589.cms",
-    "time": "2026-06-05T08:40:10.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/if-theres-an-opportunity-to-get-a-result-gautam-gambhir-backs-iccs-pink-ball-rule-for-bad-light/articleshow/131526914.cms",
+    "time": "2026-06-05T08:55:43.000Z"
   },
   {
     "cat": "Business",
@@ -565,33 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/front-half-of-the-car-was-under-a-truck-michael-clarke-reveals-terrifying-crash-after-ipl-2026-final/articleshow/131526117.cms",
     "time": "2026-06-05T08:23:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bihar government withdraws Lalu Yadav, Rabri Devi's Z-plus security cover",
-    "desc": "Explaining the category that has been withdrawn, an official said, “The Z-plus security comprises a dedicated team of trained personnel equipped with advanced arms.” Despite the downgrade, Lalu Prasad and Rabri Devi will continue to receive security support. Their present arrangements include between two and eight BSAP house guards, two bodyguards from the Patna District Force, along with a pilot vehicle and a bulletproof car.",
-    "img": "https://static.toiimg.com/photo/msid-131526049,imgsize-48808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bihar-government-withdraws-lalu-yadav-rabri-devis-z-plus-security-cover/articleshow/131525952.cms",
-    "time": "2026-06-05T08:18:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi welcomes AirTrunk's Rs 3 lakh crore investment plan in India, highlights digital economy push",
-    "desc": "Blackstone-backed AirTrunk plans a massive Rs 3 lakh crore investment in India by 2030 to boost digital infrastructure, including data centres and AI capacity. Prime Minister Modi welcomed the move, highlighting its potential to strengthen India's global position in cloud computing and AI, create jobs, and drive innovation-led growth.",
-    "img": "https://static.toiimg.com/photo/msid-131525667,imgsize-895494.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-welcomes-airtrunks-rs-3-lakh-crore-investment-plan-in-india-highlights-digital-economy-push/articleshow/131524538.cms",
-    "time": "2026-06-05T08:17:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "More trouble brewing for Mamata's TMC? Expelled MLA Ritabrata Banerjee makes fresh claim",
-    "desc": "Expelled TMC leader Ritabrata Banerjee expressed confidence that support for his rebel faction will grow, claiming a significant number of MLAs are backing him. He also appealed to CM Suvendu Adhikari to take action against BJP leader Priyanka Tibrewal for protesting outside a fellow rebel's residence.",
-    "img": "https://static.toiimg.com/photo/msid-131525739,imgsize-1069746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/more-trouble-brewing-for-mamatas-tmc-expelled-mla-ritabrata-banerjee-makes-fresh-claim/articleshow/131524991.cms",
-    "time": "2026-06-05T07:56:30.000Z"
   },
   {
     "cat": "Tech",
@@ -747,24 +828,6 @@ const newsData_en = [
     "time": "2026-06-04T09:11:44.000Z"
   },
   {
-    "cat": "World",
-    "title": "Brazil takes a historic HDI leap with focused planning and public spending",
-    "desc": "UN report reveals the country’s cash-transfer scheme has played a key role in raising its Human Development Index score from 0.744 in 2012 to 0.805 in 2024, on a scale from 0 to 1; as Brazil enters election cycle, the far-right narrative that the scheme discourages people from working draws backlash",
-    "img": "https://th-i.thgim.com/public/incoming/vinxz8/article71058103.ece/alternates/LANDSCAPE_1200/Brazil_WCup_Soccer_Decorations_57244.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/brazil-takes-a-historic-hdi-leap-with-focused-planning-and-public-spending/article71057526.ece",
-    "time": "2026-06-04T04:31:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israel, Lebanon agree to conditional ceasefire",
-    "desc": "Israel and Lebanon, which do not have formal diplomatic relations, also agreed to create “pilot zones” in which the Lebanese armed forces “will take exclusive control of the territory to the exclusion of all non-state actors”",
-    "img": "https://th-i.thgim.com/public/incoming/mi0ks1/article71059540.ece/alternates/LANDSCAPE_1200/2026-06-04T003258Z_7512696_RC2NMLAK5KMZ_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-CEASEFIRE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-lebanon-agree-to-conditional-ceasefire/article71059536.ece",
-    "time": "2026-06-04T04:17:10.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "SpaceX’s IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
     "desc": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world’s first trillionaire",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/it-is-not-just-songs-ilaiyaraaja-is-also-integral-tomanjanathi-says-mari-selvaraj/article71054340.ece",
     "time": "2026-06-03T07:42:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Koothu-p-Pattarai’s Pataliputhram: A haunting allegory of exploitation and survival",
-    "desc": "Gnana Rajasekaran’s Pataliputhram, directed by K.R. Rajaravivarma, is a haunting exploration of labour, survival and systemic inequality. Through movement, music and powerful performances, the play examines alienation, caste discrimination and the existential struggle for dignity in a world shaped by exploitation and hunger.",
-    "img": "https://th-i.thgim.com/public/incoming/vt5u7o/article71036954.ece/alternates/LANDSCAPE_1200/BVR_6300.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/theatre/the-absurdity-of-survival/article71028379.ece",
-    "time": "2026-06-03T06:49:18.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The future of India’s chip industry",
-    "desc": "A new NITI Aayog report says India’s semiconductor ecosystem is not yet equipped to fully meet domestic demand, while stressing the need to strengthen local manufacturing, as geopolitical pressures could potentially disrupt the electronics supply chain",
-    "img": "https://th-i.thgim.com/public/incoming/r8d63e/article71054242.ece/alternates/LANDSCAPE_1200/20260529189L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
-    "time": "2026-06-03T04:12:40.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "CBSE says OnMark portal ‘vulnerabilities’ contained amid security concerns",
-    "desc": "The CBSE’s statement comes after 19-year-old ethical hacker Nisarga Adhikary claimed that he had hacked the CBSE’s digital evaluation ecosystem; Mr. Adhikary explained that personal information of students was processed by Google’s Gemini in automation scripts prepared by quality assurance engineers of COEMPT",
-    "img": "https://th-i.thgim.com/public/incoming/97m0fb/article71044433.ece/alternates/LANDSCAPE_1200/NKV-CBSE%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cbse-says-onmark-portal-vulnerabilities-contained-amid-security-concerns/article71044420.ece",
-    "time": "2026-05-31T16:10:26.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];

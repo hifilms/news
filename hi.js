@@ -1,8 +1,26 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "17 wickets fall on Day 2 of Lord's Test, New Zealand need 218 runs to seal win",
+    "desc": "If a Test match is over by three days on sub-continent pitches, hell usually breaks loose in England and Australia. There are talks of protecting the game and the format. No such discussions, however, took...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/17-wickets-fell-on-day-2-of-lord-s-test-new-zealand-need-218-runs-to-seal-win-2026-06-05-1043812",
+    "time": "2026-06-05T18:19:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Iran play FIFA World Cup 2026 matches in USA amid ongoing war? White House gives indication",
+    "desc": "Iran's participation in the upcoming FIFA World Cup received a significant boost after the country's national football team was granted visas to enter the United States. There was tremendous doubt about their participation in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/will-iran-play-fifa-world-cup-2026-matches-in-usa-amid-ongoing-war-white-house-gives-indication-2026-06-05-1043811",
+    "time": "2026-06-05T17:53:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why did Matteo Arnaldi pull out of French Open semi-final? Flavio Cobolli to contest final vs Alexander Zverev",
-    "desc": "Flavio Cobolli's route to the French Open final was confirmed in unexpected circumstances on Friday after Matteo Arnaldi pulled out of their scheduled semi-final in Paris due to illness. The two Italians had been set to...",
+    "desc": "Matteo Arnaldi pulled out of the French Open semi-final just 20 minutes before his match against Flavio Cobolli. The Italian is reportedly suffering from an illness and failed to recover on time before the heavyweight...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/why-did-matteo-arnaldi-pull-out-of-french-open-semi-final-flavio-cobolli-to-contest-final-vs-alexander-zverev-2026-06-05-1043808",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cricket-canada-plans-detailed-roadmap-to-overturn-icc-s-suspension-2026-06-05-1043766",
     "time": "2026-06-05T10:44:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not surprised': Former India cricketer weighs in on India's imminent T20I captaincy change",
-    "desc": "The time for ace batter Suryakumar Yadav as the captain of the Indian T20I side seems to be coming to an end. Reports have suggested that Suryakumar Yadav will be stripped of his T20I captaincy...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-surprised-former-india-cricketer-weighs-in-on-india-s-imminent-t20i-captaincy-change-2026-06-05-1043754",
-    "time": "2026-06-05T09:00:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sai Sudharsan set to get the nod at number three in Afghanistan Test, spinners to be tested in Mullanpur",
-    "desc": "India and Afghanistan will kick off their multi-format series with the only Test. The two sides are slated to lock horns across one Test match and three ODI matches. The series kicks off with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-set-to-get-the-nod-at-number-three-in-afghanistan-test-spinners-to-be-tested-in-mullanpur-2026-06-05-1043743",
-    "time": "2026-06-05T07:35:53.000Z"
   }
 ];
