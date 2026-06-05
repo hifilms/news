@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Great effort from everyone': Ollie Robinson opens up after England claw their way back against New Zealand",
+    "desc": "Day 1 of the first Test between England and New Zealand saw the two sides put in some brilliant performances. The teams met at the Lord’s Cricket Ground in London from June 4th, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/great-effort-from-everyone-ollie-robinson-opens-up-after-england-claw-their-way-back-against-new-zealand-2026-06-05-1043709",
+    "time": "2026-06-05T02:36:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We have to win': Shaheen Afridi opens up on pitch discourse after ODI series win against Australia",
+    "desc": "Pakistan put forth a brilliant performance and managed to topple Australia as the Men in Green clinched the three-game ODI series 2-1. Defeating the Aussies across the first and third ODIs of the series, there...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-have-to-win-shaheen-afridi-opens-up-on-pitch-discourse-after-odi-series-win-against-australia-2026-06-05-1043706",
+    "time": "2026-06-05T01:45:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand wilt under England assault on Day 1 of Lord’s Test; Jamieson, Robinson dominate proceedings",
     "desc": "England faced the wrath of New Zealand bowlers in the first innings. They were bundled for 140 runs in the first innings, resulting in the experts calling out the home team once again, especially as...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/how-is-rishabh-pant-doing-after-losing-india-vice-captaincy-and-quitting-lsg-leadership-2026-06-04-1043637",
     "time": "2026-06-04T10:59:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Jofra Archer not playing vs New Zealand in 1st Test at Lord's?",
-    "desc": "England were forced to drop Jofra Archer from their playing XI in the first Test against New Zealand at Lord’s to manage his workload. The ace pacer played 16 games for Rajasthan Royals in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jofra-archer-not-playing-vs-new-zealand-in-1st-test-at-lord-s-2026-06-04-1043624",
-    "time": "2026-06-04T10:01:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer weighs in on India's next T20I captaincy choice after Suryakumar Yadav",
-    "desc": "Recent reports have suggested that ace batter Suryakumar Yadav’s time with the Indian team is coming to an end. After consistent subpar performances in the format and a dreadful IPL season, the BCCI (Board of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-india-s-next-t20i-captaincy-choice-after-suryakumar-yadav-2026-06-04-1043617",
-    "time": "2026-06-04T09:16:08.000Z"
   }
 ];
