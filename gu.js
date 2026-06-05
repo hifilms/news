@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "શોરૂમ વાળા મોટા ભાગે છુપાવે છે આ વાત, ગાડી ખરીદતા પહેલા જરૂર જાણો",
+    "desc": "નવી કાર ખરીદવામાં ઉતાવળ કરવી મોંઘી પડી શકે છે. ફક્ત ડિઝાઇન અથવા કિંમતના આધારે નિર્ણય ન લો, ગાડીમાં સેફ્ટી, એવરેજ અને મેન્ટેનન્સ ખર્ચનો વિચાર કરો. ટેસ્ટ ડ્રાઇવ અને પ્રી-ડિલિવરી ચેકિંગ આવશ્યક છે. ફક્ત વેચાણકર્તાઓના શબ્દો પર આધાર રાખશો નહીં યોગ્ય નિર્ણય લેતા પહેલા બહુવિધ વિકલ્પોની તુલના કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/showroom-owners-often-hide-this-fact-know-this-before-buying-a-car-480514 ",
+    "time": "2026-06-05T14:20:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ગર્ભવતી મહિલાઓ માટે સારા સમાચાર, હવે તેમને મળશે ₹6000, જાણો કેવી રીતે કરવી અરજી",
+    "desc": "સરકાર દ્વારા ગર્ભવતી મહિલાઓને પૈસા આપીને સહાય આપવામાં આવે છે અને આ રકમ બે હપ્તામાં ચુકવવામાં આવે છે, આ યોજના મોદી સરકાર દ્વારા ચલાવવામાં આવે છે અને તેને માતૃ વંદના યોજના કહેવામાં આવે છે, ચાલો જાણીએ કે તેનો લાભ કઈ રીતે લઈ શકાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/good-news-for-pregnant-women-now-they-will-get-rs-6000-know-how-to-apply-480505 ",
+    "time": "2026-06-05T13:48:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આમિર ખાનના બંને લગ્ન 16-16 વર્ષ ટક્યા, 16 વર્ષ પછી કયા કારણે એક્ટરે ડિવોર્સ લીધા જાણો",
+    "desc": "આમિર ખાન 61 વર્ષની ઉંમરે તેની ગર્લફ્રેન્ડ ગૌરી સ્પ્રેટ સાથે ત્રીજા લગ્ન કરવા જઈ રહ્યો છે. ત્યારે ચર્ચા એ વાતની પણ થવા લાગી છે કે આમિર ખાનના પહેલા 2 લગ્નમાં ડિવોર્સ કયા કારણે થયા. જો કે સંયોગ એવો પણ છે કે આમિર ખાનના બંને લગ્ન 16-16 વર્ષ ચાલ્યા અને પછી તેણે ડિવોર્સ લીધા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-2-divorce-reason-aamir-khan-both-marriage-stay-for-16-years-480501 ",
+    "time": "2026-06-05T12:42:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બંધ થઈ રહી છે કાગળની નોટો? પ્લાસ્ટિકની નોટ પર RBIની મોટી જાહેરાત, જાણો શું કહ્યું",
+    "desc": "રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) ફરી એકવાર દેશમાં પોલિમર(પ્લાસ્ટીક) આધારિત ચલણી નોટો રજૂ કરવાની શક્યતા પર વિચાર કરી રહી છે. આ માહિતી RBI ગવર્નર સંજય મલ્હોત્રાએ આપી હતી. દેશમાં તેની જોરશોરથી ચર્ચા થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/are-paper-notes-being-discontinued-rbis-big-announcement-on-plastic-notes-know-what-it-said-480497 ",
+    "time": "2026-06-05T11:15:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પંત પાસેથી કેમ છીનવાઈ વાઈસ કેપ્ટનશીપ? ઋષભની આ આદતથી કોચ ગંભીર નારાજ? મીડિયા સામે મોટો ખુલાસો",
+    "desc": "ભારત અને અફઘાનિસ્તાન વચ્ચેની ટેસ્ટ મેચ પહેલા ટીમ ઈન્ડિયાના હેડ કોચ ગૌતમ ગંભીરે એક પ્રેસ કોન્ફરન્સ કરી. આ પ્રેસ કોન્ફરન્સમાં ગૌતમ ગંભીરે ટીમ ઈન્ડિયા વિશે ખુલ્લીને વાત કરી, જેમાં ઋષભ પંતના વાઈસ કેપ્ટનશીપથી લઈને વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપ સુધીના વિષયો પર ચર્ચા કરવામાં આવી હતી, સાથે જ ટીમને ચોક્કસ સંદેશા પણ આપ્યા હતા. ગંભીરની ટિપ્પણી હવે ચર્ચાનો વિષય બની ગઈ છે. ચાલો જાણીએ આખરે હેડ કોચ ગૌતમ ગંભીર ઋષભ પંતની કઈ આદતથી નારાજ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-was-the-vice-captaincy-taken-away-from-pant-coach-gambhir-is-very-upset-with-this-habit-of-rishabh-big-revelation-to-the-media-480496 ",
+    "time": "2026-06-05T10:56:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પુતિને 30 વર્ષથી સૂતા સમુદ્રી રાક્ષસને જગાડ્યો! રશિયાનું આ સમુદ્રી રાક્ષસ યુદ્ધજહાજ કેમ અમેરિકા માટે બન્યું કાળ? જાણો",
+    "desc": "રશિયાથી આખી દુનિયા અને મહાસત્તા અમેરિકા પણ કેમ થરથર કાંપે છે તેનું સૌથી મોટું કારણ એ છે કે, તેની પાસે સમુદ્રનો મહાદાનવ છે. એકવાર આ યુદ્ધજહાજ Admiral Nakhimov સમુદ્રમાં ઉતરે એટલે, દુશ્મન દેશ કંપી ઉઠે છે. કરાણ કે, તે એકલું જ કોઈ પણ દેશના આખેઆખા નૌકાદળના કાફલાને તબાહ કરી શકે તેટલો સક્ષમ છે. જાણો રશિયાને આખરે 30 વર્ષ બાદ આ સૂતેલા રાક્ષસને જગાડવાની કેમ જરૂર પડી, અને તે કેટલો શક્તિશાળી છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/putin-woke-up-russian-sea-monster-admiral-nakhimov-sleeping-for-30-years-480470 ",
+    "time": "2026-06-05T10:44:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBIનો મોટો દાવ... એક જાહેરાત અને ગગડતા રૂપિયાએ ડૉલરને આપી &amp;#039;પછડાટ&amp;#039;; જોતી રહી ગઈ દુનિયા",
+    "desc": "આરબીઆઈ દ્વારા જાહેર કરવામાં આવેલી એમપીસી માં વિદેશી રોકાણને આકર્ષિત કરવા માટે સરકારી બોન્ડ પર લાગતો ટેક્સ ઝીરો (0) કરી દેવામાં આવ્યો છે. આ જાહેરાત થયાની થોડી જ વારમાં ભારતીય રૂપિયામાં તેજી જોવા મળી અને તે 50 પૈસા ઉછળી ગયો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/rupee-rallies-against-us-dollar-after-rabi-announces-foreign-investors-480487 ",
+    "time": "2026-06-05T10:01:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કર્મચારીઓના પગારમાં થશે 250 ટકાનો વધારો ? જો લાગુ કરવામાં આવશે આ ફોર્મ્યુલા તો કર્મચારીઓ થશે મોટી રાહત, જાણો",
+    "desc": "હાલમાં, 7મા પગાર પંચમાં ફિટમેન્ટ ફેક્ટર 2.57 હતો, જેના કારણે લઘુત્તમ મૂળ પગાર 7,000 રૂપિયાથી વધીને 18,000 રૂપિયા થયો. જો 8મા પગાર પંચમાં 3.5નો ફિટમેન્ટ ફેક્ટર લાગુ કરવામાં આવે, તો 18,000 રૂપિયાનો વર્તમાન લઘુત્તમ મૂળ પગાર સીધો વધીને 63,000 રૂપિયા થઈ શકે છે, એટલે કે કર્મચારીઓને લગભગ 250 ટકાનો પગાર વધારો જોવા મળી શકે છે. આ જ કારણ છે કે કર્મચારી સંગઠનો આ માંગણી જોરશોરથી ઉઠાવી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-the-salary-of-employees-be-increased-by-250-percent-if-this-formula-is-implemented-then-the-employees-will-get-a-big-relief-know-480486 ",
+    "time": "2026-06-05T09:51:18.000Z"
+  },
+  {
     "cat": "World",
     "title": "ભારતના સપોર્ટમાં પુતિને આપેલા નિવેદન બાદ હવે ટ્રમ્પ PM મોદી વિશે શું બોલ્યા? ખાસ જાણો",
     "desc": "હાલમાં જ રશિયાના રાષ્ટ્રપતિ વ્લાદિમિર પુતિને એક એવું નિવેદન આપ્યું કે ભારતને દબાવવાની કોશિશ સફળ થવાની નથી. ત્યારબાદ હવે અમેરિકી રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પનું પીએમ મોદીના વખાણ કરતું નિવેદન સામે આવ્યું છે. આ ઉપરાંત તેમણે શું કહ્યું તે પણ ખાસ જાણો.",
@@ -16,15 +88,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/why-muslim-handles-on-social-media-appealing-to-muslims-to-stay-away-from-the-cjp-protest-480473 ",
     "time": "2026-06-05T08:45:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "પુતિને 30 વર્ષથી સૂતા સમુદ્રી રાક્ષસને જગાડ્યો! રશિયાનું આ સમુદ્રી રાક્ષસ યુદ્ધજહાજ કેમ અમેરિકા માટે બન્યું કાળ? જાણો",
-    "desc": "રશિયાથી આખી દુનિયા અને મહાસત્તા અમેરિકા પણ કેમ થરથર કાંપે છે તેનું સૌથી મોટું કારણ એ છે કે, તેની પાસે સમુદ્રનો મહાદાનવ છે. એકવાર આ યુદ્ધજહાજ Admiral Nakhimov સમુદ્રમાં ઉતરે એટલે, દુશ્મન દેશ કંપી ઉઠે છે. કરાણ કે, તે એકલું જ કોઈ પણ દેશના આખેઆખા નૌકાદળના કાફલાને તબાહ કરી શકે તેટલો સક્ષમ છે. જાણો રશિયાને આખરે 30 વર્ષ બાદ આ સૂતેલા રાક્ષસને જગાડવાની કેમ જરૂર પડી, અને તે કેટલો શક્તિશાળી છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/putin-woke-up-russian-sea-monster-admiral-nakhimov-sleeping-for-30-years-480470 ",
-    "time": "2026-06-05T07:14:11.000Z"
   },
   {
     "cat": "Business",
@@ -369,15 +432,6 @@ const newsData_gu = [
     "time": "2026-06-03T07:12:27.000Z"
   },
   {
-    "cat": "Business",
-    "title": "આજે બદલાઈ ગયા પેટ્રોલ-ડીઝલના ભાવ ? જાણો તમારા શહેરના નવા ભાવ",
-    "desc": "બુધવાર, ૩ જૂનના રોજ પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા છે. કોઈ ફેરફાર થયો નથી. બંને ફ્યુઅલના ભાવ અગાઉના ભાવે ટ્રેડ થઈ રહ્યા છે. ત્યારે દેશના મુખ્ય શહેરોમાં આજના ભાવ શું છે, તેના પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-latest-fuel-rates-of-ahmedabad-delhi-480215 ",
-    "time": "2026-06-03T06:17:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Zની Unite8 Sports ચેનલ લોન્ચ, FIFA વર્લ્ડ કપ 2026 સહિત અનેક રમતોનું થશે પ્રસારણ",
     "desc": "માહિતી અને પ્રસારણ મંત્રાલયની મંજૂરી બાદ Zeeએ Unite8 Sports હેઠળ ચાર સ્પોર્ટ્સ ચેનલો લોન્ચ કરી છે. આ ચેનલો 500થી વધુ ડિસ્ટ્રિબ્યુશન પ્લેટફોર્મ્સ પર ઉપલબ્ધ છે અને ફૂટબોલ, ક્રિકેટ સહિત અનેક રમતોનું પ્રસારણ કરશે. 11 જૂનથી શરૂ થતા FIFA World Cup 2026નું વિશિષ્ટ પ્રસારણ પણ આ ચેનલો પર થશે.",
@@ -385,24 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/zee-unite8-sports-channels-live-fifa-world-cup-2026-broadcast-india-480212 ",
     "time": "2026-06-03T05:54:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PF ખાતાધારકો માટે મહત્વપૂર્ણ સમાચાર! 8.25% વ્યાજ જમા કરવા પર મોટું અપડેટ, જાણો",
-    "desc": "EPFOએ નાણાકીય વર્ષ 2025-26 માટે વ્યાજ દર 8.25 ટકા પર જાળવી રાખ્યો છે, પરંતુ લાખો ખાતાધારકોને હજુ સુધી તેમના ખાતામાં વ્યાજની એન્ટ્રીઓ જોવા મળી નથી. એક્સપર્ટ કહે છે કે આ એક સામાન્ય વહીવટી પ્રક્રિયા છે, કારણ કે વ્યાજ ક્રેડિટ માટે સરકારની મંજૂરી અને રેકોર્ડ અપડેટ્સની જરૂર પડે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/important-news-for-pf-account-holders-big-update-on-depositing-8-25-percent-interest-know-480204 ",
-    "time": "2026-06-03T03:38:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઈરાનનો કુવૈત અને બહેરીન પર હુમલો, ક્રૂડના ભાવમાં ભડકો, શું વધશે પેટ્રોલ-ડીઝલના ભાવ?",
-    "desc": "મિડલ ઈસ્ટમાં શાંતિ ક્યારે સ્થપાશે? આ સવાલ હવે બધાને કોરી ખાય છે. કારણ કે અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલી પીસ ડીલ વચ્ચે ઈરાને કુવૈત અને બહેરીન પર મિસાઈલ અને ડ્રોનથી હુમલો કરી નાખ્યો. માંડ માંડ અમેરિકા અને ઈરાન વચ્ચે સીઝ ફાયર પર સહમતી બની હતી તેના એક દિવસ પહેલા ઈઝરાયેલે લેબનોન પર હુમલો કર્યો હતો. હવે પાછા ક્રૂડના ભાવનાં વધારાના એંધાણ જોવા મળી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/iran-us-war-latest-update-crude-oil-price-increase-check-latest-petrol-diesel-rate-gujarat-major-cities-480203 ",
-    "time": "2026-06-03T03:19:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -622,30 +658,12 @@ const newsData_gu = [
   },
   {
     "cat": "Tech",
-    "title": "Metaની મોટી જાહેરાત, હવે ઇન્સ્ટાગ્રામ અને વોટ્સએપ વાપરવા માટે ચૂકવવા પડશે પૈસા !",
-    "desc": "મેટાએ આખરે એક મોટી જાહેરાત કરી છે, જેમાં ઇન્સ્ટાગ્રામ, ફેસબુક અને વોટ્સએપ માટે નવા પેઇડ સબ્સ્ક્રિપ્શન પ્લાન લોન્ચ કરવામાં આવ્યા છે. યુઝર્સે હવે પ્લસ વર્ઝન માટે મહિને ચાર્જ ચૂકવવો પડશે. આ વિગતો કંપની દ્વારા આપવામાં આવી છે. આ પ્લસ પ્લાન હેઠળ યુઝર્સને નવા અને ખાસ ફીચર્સ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/meta-big-announcement-now-you-have-to-pay-to-use-instagram-whatsapp-facebook-479472 ",
-    "time": "2026-05-28T10:24:31.000Z"
-  },
-  {
-    "cat": "Tech",
     "title": "6 એરબેગ્સ, પેટ્રોલ-CNG અને EV એકસાથે... ટાટાની સૌથી સસ્તી કાર લોન્ચ, જાણો શું છે કિંમત",
     "desc": "ભારતમાં Tata Tiago 2026 લોન્ચ કરવામાં આવી છે. આ કંપનીની એન્ટ્રી-લેવલ કાર છે. આધુનિક ફીચર્સથી સજ્જ આ કાર આ સેગમેન્ટમાં તેના સ્પર્ધકો કરતાં એડવાન્સ છે. કારમાં 360-ડિગ્રી કેમેરા અને વાયરલેસ ચાર્જિંગ જેવી સુવિધાઓ ઉમેરવામાં આવી છે. આ કાર પેટ્રોલ, CNG અને EV વેરિઅન્ટમાં લોન્ચ કરવામાં આવી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tata-tiago-2026-launch-in-india-know-price-and-features-479498 ",
     "time": "2026-05-28T08:58:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઘર બેઠા જોઈ શકશો અક્ષય કુમારની ફિલ્મ ભૂત બંગલા, ચેક કરી લો કઈ તારીખે ઓટીટી પર થશે રિલીઝ",
-    "desc": "અક્ષય કુમારની હોરર કોમેડી ફિલ્મ ઓટીટી પર જોવાની રાહ જોતાં દર્શકો માટે સારા સમાચાર છે. આ ફિલ્મ ટુંક સમયમાં ઓટીટી પર સ્ટ્રીમ થશે. તો ફટાફટ જાણી લો ભૂત બંગલા ફિલ્મ કયા ઓટીટી પ્લેટફોર્મ પર અને કઈ તારીખે રિલીઝ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-bhooth-bangla-movie-releasing-on-netflix-here-is-ott-release-date-479475 ",
-    "time": "2026-05-28T07:05:14.000Z"
   },
   {
     "cat": "Tech",

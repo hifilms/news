@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "One cricketer set for debut in one-off Test vs Afghanistan: Check India's probable playing XI",
+    "desc": "India will begin their 2026 Test calendar with a one-off match against Afghanistan at the Maharaja Yadavindra Singh International Cricket Stadium in New Chandigarh on June 6. It will also mark captain Shubman Gill’s return...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/one-cricket-set-for-debut-in-one-off-test-vs-afghanistan-check-india-s-probable-playing-xi-2026-06-05-1043796",
+    "time": "2026-06-05T14:16:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka's Rumesh Pathirage surpasses Neeraj Chopra's mark in Rome Diamond League",
+    "desc": "Sri Lanka's Rumesh Pathirage became the first javelin thrower to cross the 90-metre mark in the 2026 season after recording a world-leading 92.62m at the Rome Diamond League on Thursday. It set a new meet...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sri-lanka-s-rumesh-pathirage-surpasses-neeraj-chopra-s-mark-in-rome-diamond-league-2026-06-05-1043782",
+    "time": "2026-06-05T12:34:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is India vs Afghanistan Test not part of WTC cycle? When will India feature in WTC again?",
+    "desc": "The one-off Test between India and Afghanistan at the Maharaja Yadavindra Singh International Cricket Stadium in New Chandigarh will not affect the current standing of the World Test Championship. Even though it is being played...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-india-vs-afghanistan-test-not-part-of-wtc-cycle-when-will-india-feature-in-wtc-again-2026-06-05-1043770",
+    "time": "2026-06-05T11:24:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricket Canada plans detailed roadmap to overturn ICC's suspension",
+    "desc": "The International Cricket Council (ICC) suspended Canada Cricket over concerns regarding governance, financial oversight and administrative processes identified during a routine compliance review. However, Cricket Canada decided to act quickly, submitting a comprehensive corrective action...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-canada-plans-detailed-roadmap-to-overturn-icc-s-suspension-2026-06-05-1043766",
+    "time": "2026-06-05T10:44:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Not surprised': Former India cricketer weighs in on India's imminent T20I captaincy change",
     "desc": "The time for ace batter Suryakumar Yadav as the captain of the Indian T20I side seems to be coming to an end. Reports have suggested that Suryakumar Yadav will be stripped of his T20I captaincy...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-set-to-achieve-legendary-test-record-ahead-of-one-off-test-against-afghanistan-2026-06-05-1043718",
     "time": "2026-06-05T03:56:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Great effort from everyone': Ollie Robinson opens up after England claw their way back against New Zealand",
-    "desc": "Day 1 of the first Test between England and New Zealand saw the two sides put in some brilliant performances. The teams met at the Lord’s Cricket Ground in London from June 4th, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/great-effort-from-everyone-ollie-robinson-opens-up-after-england-claw-their-way-back-against-new-zealand-2026-06-05-1043709",
-    "time": "2026-06-05T02:36:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We have to win': Shaheen Afridi opens up on pitch discourse after ODI series win against Australia",
-    "desc": "Pakistan put forth a brilliant performance and managed to topple Australia as the Men in Green clinched the three-game ODI series 2-1. Defeating the Aussies across the first and third ODIs of the series, there...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/we-have-to-win-shaheen-afridi-opens-up-on-pitch-discourse-after-odi-series-win-against-australia-2026-06-05-1043706",
-    "time": "2026-06-05T01:45:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand wilt under England assault on Day 1 of Lord’s Test; Jamieson, Robinson dominate proceedings",
-    "desc": "England faced the wrath of New Zealand bowlers in the first innings. They were bundled for 140 runs in the first innings, resulting in the experts calling out the home team once again, especially as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-wilt-under-england-assault-on-day-1-of-lords-test-jamieson-robinson-dominate-proceedings-2026-06-04-1043698",
-    "time": "2026-06-04T18:24:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No handshake, no photo: What happened in Roland Garros semis between Mirra Andreeva and Marta Kostyuk?",
-    "desc": "Mirra Andreeva booked a place in her first Grand Slam final on Thursday after defeating Marta Kostyuk 6-1, 6-3 in the French Open semifinals at Court Philippe-Chatrier in Paris. The 19-year-old Russian completed the victory...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/no-handshake-no-photo-what-happened-in-roland-garros-semis-between-mirra-andreeva-and-marta-kostyuk-2026-06-04-1043687",
-    "time": "2026-06-04T17:19:35.000Z"
   }
 ];
