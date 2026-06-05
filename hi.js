@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Not surprised': Former India cricketer weighs in on India's imminent T20I captaincy change",
+    "desc": "The time for ace batter Suryakumar Yadav as the captain of the Indian T20I side seems to be coming to an end. Reports have suggested that Suryakumar Yadav will be stripped of his T20I captaincy...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-surprised-former-india-cricketer-weighs-in-on-india-s-imminent-t20i-captaincy-change-2026-06-05-1043754",
+    "time": "2026-06-05T09:00:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sai Sudharsan set to get the nod at number three in Afghanistan Test, spinners to be tested in Mullanpur",
+    "desc": "India and Afghanistan will kick off their multi-format series with the only Test. The two sides are slated to lock horns across one Test match and three ODI matches. The series kicks off with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-set-to-get-the-nod-at-number-three-in-afghanistan-test-spinners-to-be-tested-in-mullanpur-2026-06-05-1043743",
+    "time": "2026-06-05T07:35:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Don't take it that seriously': Manchester City chairman makes shocking revelation after Pep Guardiola's exit",
+    "desc": "English football club Manchester City’s new era is taking shape. After 10 years of service, head coach Pep Guardiola has left the club, and Enzo Maresca has been appointed as his successor ahead of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/don-t-take-it-that-seriously-manchester-city-chairman-makes-shocking-revelation-after-pep-guardiola-s-exit-2026-06-05-1043740",
+    "time": "2026-06-05T07:10:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma yet to report to CoE for fitness test, set to train in Mohali ahead of Afghanistan ODIs: Report",
+    "desc": "India and Afghanistan are all set to take on each other in a multi-format series. The two sides will take on each other across one Test match and three ODI matches. The Test match will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-yet-to-report-to-coe-for-fitness-test-set-to-train-in-mohali-ahead-of-afghanistan-odis-report-2026-06-05-1043727",
+    "time": "2026-06-05T05:36:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How far can Brazil go in the upcoming FIFA World Cup 2026? Casemiro rates his side's chances",
+    "desc": "The stage is set for the upcoming edition of the FIFA World Cup 2026. The marquee tournament will kick off on June 11th with a total of 48 teams taking on each other in a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/how-far-can-brazil-go-in-the-upcoming-fifa-world-cup-2026-casemiro-rates-his-side-s-chances-2026-06-05-1043723",
+    "time": "2026-06-05T04:44:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant set to achieve legendary Test record ahead of one-off Test against Afghanistan",
+    "desc": "The stage is set for the beginning of the multi-format series between India and Afghanistan. The two sides will meet across one Test match and three ODI matches and will hope to put in some...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-set-to-achieve-legendary-test-record-ahead-of-one-off-test-against-afghanistan-2026-06-05-1043718",
+    "time": "2026-06-05T03:56:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Great effort from everyone': Ollie Robinson opens up after England claw their way back against New Zealand",
     "desc": "Day 1 of the first Test between England and New Zealand saw the two sides put in some brilliant performances. The teams met at the Lord’s Cricket Ground in London from June 4th, and the...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/no-handshake-no-photo-what-happened-in-roland-garros-semis-between-mirra-andreeva-and-marta-kostyuk-2026-06-04-1043687",
     "time": "2026-06-04T17:19:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI finalises Suryakumar Yadav's replacement as India T20I captain, Sooryavanshi set for maiden call-up",
-    "desc": "Shreyas Iyer is set to replace Suryakumar Yadav as India's T20I captain for the upcoming tours of Ireland and England. The move is part of India's long-term planning for the 2028 Los Angeles Olympics and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-finalises-suryakumar-yadav-s-replacement-as-india-t20i-captain-sooryavanshi-set-for-maiden-call-up-2026-06-04-1043677",
-    "time": "2026-06-04T15:29:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England batters show no signs of improvement after Ashes embarrassment as Jamieson crushes hosts at Lord's",
-    "desc": "England were humiliated in the Ashes 2025-26, as the Ben Stokes-led side suffered a 4-1 embarrassment. Since then, the Three Lions planned to play a modified version of Bazball, but in the first Test against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-batters-show-no-signs-of-improvement-after-ashes-embarrassment-as-jamieson-crushes-hosts-at-lord-s-2026-06-04-1043675",
-    "time": "2026-06-04T15:18:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India Test cricketer announces retirement; played BGT, World Test Championship final vs Australia",
-    "desc": "Keeper-batter KS Bharat has announced his retirement from India cricketer. The 32-year-old made his international debut in 2023 against Australia in Nagpur. He was brought in a cover for Rishabh Pant, who was out of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-test-cricketer-announces-retirement-played-bgt-world-test-championship-final-vs-australia-2026-06-04-1043665",
-    "time": "2026-06-04T13:51:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lord's host 150th Test match during ENG vs NZ, which Indian ground hosted most red-ball matches?",
-    "desc": "Lord's Cricket Ground added another landmark chapter to its storied history on June 4 as the iconic London venue became the first ground in the world to host 150 men's Test matches. It hosted its first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lord-s-host-150th-test-match-during-eng-vs-nz-which-indian-ground-hosted-most-red-ball-matches-2026-06-04-1043657",
-    "time": "2026-06-04T12:52:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shaun Tait quits as Bangladesh pace bowling coach, reveals reason",
-    "desc": "Shaun Tait has stepped down as Bangladesh's fast bowling coach with immediate effect. He joined the Bangladesh squad in May last year. On Thursday, June 4, the former Australia pacer announced his decision to step...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shaun-tait-quits-as-bangladesh-pace-bowling-coach-reveals-reason-2026-06-04-1043650",
-    "time": "2026-06-04T12:05:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How is Rishabh Pant doing after losing India vice-captaincy and quitting LSG leadership?",
-    "desc": "India's upcoming Test against Afghanistan in New Chandigarh will mark the team's first red-ball assignment since a leadership reshuffle saw Rishabh Pant lose the vice-captaincy. KL Rahul has been announced as Shubman Gill’s new deputy....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-is-rishabh-pant-doing-after-losing-india-vice-captaincy-and-quitting-lsg-leadership-2026-06-04-1043637",
-    "time": "2026-06-04T10:59:23.000Z"
   }
 ];

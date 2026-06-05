@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ભારતના સપોર્ટમાં પુતિને આપેલા નિવેદન બાદ હવે ટ્રમ્પ PM મોદી વિશે શું બોલ્યા? ખાસ જાણો",
+    "desc": "હાલમાં જ રશિયાના રાષ્ટ્રપતિ વ્લાદિમિર પુતિને એક એવું નિવેદન આપ્યું કે ભારતને દબાવવાની કોશિશ સફળ થવાની નથી. ત્યારબાદ હવે અમેરિકી રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પનું પીએમ મોદીના વખાણ કરતું નિવેદન સામે આવ્યું છે. આ ઉપરાંત તેમણે શું કહ્યું તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/vladimir-putin-remark-about-pressure-on-india-what-donald-trump-speaks-about-pm-modi-480477 ",
+    "time": "2026-06-05T09:35:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;કોકરોચ જનતા પાર્ટીથી 10 કિમી દૂર રહે મુસલમાન&amp;#039;, મુસ્લિમો દ્વારા જ આવી અપીલ કેમ થઈ રહી છે?",
+    "desc": "સોશિયલ મીડિયા પર ધમાલ મચાવી ચૂકેલી કોકરોચ જનતા પાર્ટી હવે 6 જૂનના રોજ દેશની રાજધાની દિલ્હીમાં જંતર મંતર પર શિક્ષણમાં થયેલી સમસ્યાઓના પગલે વિરોધ પ્રદર્શન કરવા જઈ રહી છે. પાર્ટી ફાઉન્ડર અભિજીત દીપકે આ માટે અમેરિકાથી ભારત પાછા ફરી રહ્યા છે. જો કે આશ્ચર્ય વચ્ચે સોશિયલ મીડિયા પર અનેક મુસ્લિમ હેન્ડલ્સ દ્વારા તેમના લોકોને આ પ્રદર્શનથી દૂર રહેવાની અપીલ કરાઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-muslim-handles-on-social-media-appealing-to-muslims-to-stay-away-from-the-cjp-protest-480473 ",
+    "time": "2026-06-05T08:45:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પુતિને 30 વર્ષથી સૂતા સમુદ્રી રાક્ષસને જગાડ્યો! રશિયાનું આ સમુદ્રી રાક્ષસ યુદ્ધજહાજ કેમ અમેરિકા માટે બન્યું કાળ? જાણો",
+    "desc": "રશિયાથી આખી દુનિયા અને મહાસત્તા અમેરિકા પણ કેમ થરથર કાંપે છે તેનું સૌથી મોટું કારણ એ છે કે, તેની પાસે સમુદ્રનો મહાદાનવ છે. એકવાર આ યુદ્ધજહાજ Admiral Nakhimov સમુદ્રમાં ઉતરે એટલે, દુશ્મન દેશ કંપી ઉઠે છે. કરાણ કે, તે એકલું જ કોઈ પણ દેશના આખેઆખા નૌકાદળના કાફલાને તબાહ કરી શકે તેટલો સક્ષમ છે. જાણો રશિયાને આખરે 30 વર્ષ બાદ આ સૂતેલા રાક્ષસને જગાડવાની કેમ જરૂર પડી, અને તે કેટલો શક્તિશાળી છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/putin-woke-up-russian-sea-monster-admiral-nakhimov-sleeping-for-30-years-480470 ",
+    "time": "2026-06-05T07:14:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એક ઝટકે સોનાના ભાવમાં મોટો ઘટાડો ચાંદી પણ ધડામ થઈ, જાણો 10 ગ્રામ સોનાનો આજનો ભાવ",
+    "desc": "સોના અને ચાંદીમાં આજે જોરદાર કડાકો જોવા મળ્યો છે. રિટેલ બજાર અને વાયદા બજાર બંનેમાં ભાવ ગગડ્યા છે. સવારે ઈન્ટરનેશનલ માર્કેટમાં પણ સોનું જબરદસ્ત તૂટેલું જોવા મળ્યું હતું. જાણો ભાવ હાલ ગગડીને કેટલે પહોંચી ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/huge-drop-in-gold-and-silver-price-mcx-ibja-rates-aaj-no-10-gram-sona-no-bhav-480469 ",
+    "time": "2026-06-05T07:00:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભાજપથી અલગ થયા અન્નામલાઈ, આખરે કઈ વાત પર નારાજ હતા દિગ્ગજ નેતા? ખાસ જાણો",
+    "desc": "તમિલનાડુમાં એક તો ભાજપને વિધાનસભા ચૂંટણીમાં આ વખતે વોટશેર ઘટતા ફટકો પડ્યો અને હવે તમિલનાડુમાં ભાજપના દિગ્ગજ નેતા કે. અન્નામલાઈનું રાજીનામું મંજૂર થઈ જતા પાર્ટીએ દિગ્ગજ નેતા ગુમાવવાનો વારો આવ્યો છે. આખરે અન્નામલાઈ એવું તે શું ઈચ્છતા હતા અને કઈ માંગણીઓ હતી જે ભાજપ મંજૂર કરી શક્યું નહીં તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/annamalai-split-from-bjp-what-was-the-reason-for-his-displeasure-political-explainer-480465 ",
+    "time": "2026-06-05T06:46:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "નેટફ્લિક્સ પર રિલીઝ થયાની સાથે ટોપ 10 મુવીમાં નંબર 1 બની માધુરીની ફિલ્મ માં બહેન",
+    "desc": "નેટફ્લિક્સ પર માધુરી દીક્ષિત, રવિ કિશન, તૃપ્તી ડીમરીની ડાર્ક કોમેડી ફિલ્મ માં બહેન રિલીઝ થઈ ચુકી છે. આમ તો આ ફિલ્મ રિલીઝ થયાની સાથે જ ટ્રેંડિંગ લિસ્ટમાં આવી ગઈ છે તેમ છતાં જો તમારે ફિલ્મ જોતાં પહેલા જાણવું હોય કે ફિલ્મ કેવી છે તો ચાલો તમને જણાવીએ કેવી છે માધુરીની ફિલ્મ માં બહેન.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/netflix-hindi-movie-maa-behen-trending-madhuri-dixit-movie-maa-behen-is-must-watch-dark-comedy-film-480463 ",
+    "time": "2026-06-05T06:15:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ક્યારેય એક કપ ચા ખરીદવાના ફાંફાં હતા, હાઈડ્રેટેડ શાકભાજીના આઈડિયાથી બનાવ્યો કરોડોનો કારોબાર",
+    "desc": "રાંચીના રહેવાસી શશી ભૂષણે કારોબારની દુનિયામાં અલગ ઓળખ બનાવી છે. એક સમય હતો જ્યારે તેમની પાસે એક કપ ચા ખરીદવાના પણ રૂપિયા ન હતા. આજે તેઓ કરોડોની કંપનીના માલિક છે. એક કપ ચાથી શરૂ કરીને શશી ભૂષણ કેવી રીતે આ મુકામ પર પહોંચ્યા જાણો",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/success-story-of-shashi-bhushan-journey-from-cup-of-tea-to-multimillion-dollar-company-480449 ",
+    "time": "2026-06-05T04:47:51.000Z"
+  },
+  {
     "cat": "Business",
     "title": "સવાર સવારમાં ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળ્યો, શું પેટ્રોલ-ડીઝલના ઘટશે ભાવ? આજનો ભાવ જાણો",
     "desc": "મિડલ ઈસ્ટમાં શાંતિ સ્થપાવવાની આશા વચ્ચે ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે. અમેરિકા અને ઈરાન વચ્ચે શાંતિ સમજૂતિ અંગે વાતચીત ચાલુ છે અને બીજી બાજુ ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલ થવાની આશાને પગલે ક્રૂડ પર અસર જોવા રહી છે. આજે ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળ્યો.",
@@ -306,24 +369,6 @@ const newsData_gu = [
     "time": "2026-06-03T07:12:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મહિલાઓને આજથી મળશે 3000 રૂપિયા, જાણો ક્યાં થઈ અન્નપૂર્ણા ભંડાર યોજનાની શરૂઆત, કઈ રીતે કરવી અરજી",
-    "desc": "પશ્ચિમ બંગાળમાં ભાજપની સરકાર તો બની ગઈ હવે વચન પૂરા કરવાની તૈયારીઓ થઈ રહી છે. રાજ્યમાં આજથી અન્નપૂર્ણા યોજના શરૂ થઈ રહી છે. જાણો યોજના હેઠળ કોને લાભ મળશે, અરજી કેવી રીતે કરવી, કયા કયા દસ્તાવેજોની જરૂર પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/west-bengal-annapurna-bhandar-yojana-know-who-will-get-the-benefit-how-to-apply-480217 ",
-    "time": "2026-06-03T07:09:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઉકળી રહ્યું છે દરિયાનું પાણી, UNના આ એક નક્શાએ ગુજરાતને આપ્યું મોટું ટેન્શન",
-    "desc": "આ વખતે ચોમાસાના ચાર મહિના મોટી નવાજૂની રહે તેવા એંધાણ છે. સંયુકત રાષ્ટ્રની હવામાન એજન્સી તરફથી એક મેપ બહાર પાડવામાં આવ્યો છે જે સમગ્ર ગુજરાત સહિત ભારત માટે ચિંતા પેદા કરે તેવો છે. વિગતો ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/el-nino-update-this-one-map-of-the-un-wmo-is-big-alert-for-gujarat-as-well-as-india-480208 ",
-    "time": "2026-06-03T06:44:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "આજે બદલાઈ ગયા પેટ્રોલ-ડીઝલના ભાવ ? જાણો તમારા શહેરના નવા ભાવ",
     "desc": "બુધવાર, ૩ જૂનના રોજ પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા છે. કોઈ ફેરફાર થયો નથી. બંને ફ્યુઅલના ભાવ અગાઉના ભાવે ટ્રેડ થઈ રહ્યા છે. ત્યારે દેશના મુખ્ય શહેરોમાં આજના ભાવ શું છે, તેના પર એક નજર કરીએ.",
@@ -342,15 +387,6 @@ const newsData_gu = [
     "time": "2026-06-03T05:54:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "9 જૂનનો દિવસ ભારતના રાજકીય ઇતિહાસમાં સુવર્ણ અક્ષરે લખાશે! PM મોદી નેહરુનો આ રેકોર્ડ તોડશે!",
-    "desc": "સૌથી લાંબો સમય ચૂંટાયેલા વડાપ્રધાનનો વિક્રમ. 9 જૂને મોદી લાંબો સમય પીએમ રહેવાનો નેહરુનો રેકોર્ડ તોડશે. નેહરુ ૪,૩૯૭ દિવસ (૧૨ વર્ષ ૧૪ દિવસ) ચૂંટાયેલા પીએમ મોદી ૯ જૂને ૪,૩૯૮ દિવસ (૧૨ વર્ષ ૧૫ દિવસ) પૂરા કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/june-9-will-be-written-in-golden-letters-in-indias-political-history-pm-modi-will-break-this-record-of-nehru-480205 ",
-    "time": "2026-06-03T03:50:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "PF ખાતાધારકો માટે મહત્વપૂર્ણ સમાચાર! 8.25% વ્યાજ જમા કરવા પર મોટું અપડેટ, જાણો",
     "desc": "EPFOએ નાણાકીય વર્ષ 2025-26 માટે વ્યાજ દર 8.25 ટકા પર જાળવી રાખ્યો છે, પરંતુ લાખો ખાતાધારકોને હજુ સુધી તેમના ખાતામાં વ્યાજની એન્ટ્રીઓ જોવા મળી નથી. એક્સપર્ટ કહે છે કે આ એક સામાન્ય વહીવટી પ્રક્રિયા છે, કારણ કે વ્યાજ ક્રેડિટ માટે સરકારની મંજૂરી અને રેકોર્ડ અપડેટ્સની જરૂર પડે છે.",
@@ -367,33 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/iran-us-war-latest-update-crude-oil-price-increase-check-latest-petrol-diesel-rate-gujarat-major-cities-480203 ",
     "time": "2026-06-03T03:19:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્ર કે રાજસ્થાન નહીં, આ છે દેશમાં સૌથી વધારે વીજળી ઉત્પન્ન કરતું રાજ્ય ? જાણો ગુજરાતનું સ્થાન",
-    "desc": "ઉનાળા દરમિયાન વધતી વીજળીની માંગ વચ્ચે, ઉત્તર પ્રદેશે 10 ટકા વધારાના વીજળી દરની વસૂલાત સ્થગિત કરી દીધી છે. રાજ્યમાં વીજળીની સતત વધતી માંગ સાથે, ખામીઓ અને વીજળી કાપની સંખ્યા વધી રહી છે. દેશના સૌથી મોટા રાજ્યોમાંનું એક હોવા છતાં, ઉત્તર પ્રદેશ વીજળી ઉત્પાદનમાં પાછળ છે. હવે પ્રશ્ન એ છે કે દેશમાં કયું રાજ્ય સૌથી વધુ વીજળી ઉત્પન્ન કરે છે અને શા માટે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/this-is-the-state-that-produces-the-most-electricity-in-the-country-know-the-position-of-gujarat-480169 ",
-    "time": "2026-06-02T15:14:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "લોનથી લઈને વિઝા સુધી... ITR ફાઈલ કરવાના આ છે 5 મોટા ફાયદા, ફાઈલ ન કરવા પર થશે આ નુકસાન",
-    "desc": "ITR (Income Tax Return) ફાઈલ કરવું એ માત્ર ટેક્સના નિયમોનું પાલન કરવા પૂરતું મર્યાદિત નથી. તે લોનથી લઈને ઘણા દેશોની વિઝા અરજીમાં એક મહત્વપૂર્ણ દસ્તાવેજ તરીકે કામ આવે છે. ચાલો તેના ફાયદા અને નુકસાન વિશે વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/from-loans-to-visa-these-are-the-5-major-benefits-of-filing-itr-these-are-the-losses-that-will-occur-if-you-do-not-file-480156 ",
-    "time": "2026-06-02T12:49:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EPFO ​3.0 : PF ટ્રાન્સફર અને ઉપાડની ઝંઝટ ખતમ ! હવે ATM અને UPIથી સીધા ખાતામાં આવશે પૈસા ?",
-    "desc": "EPFO 3.0 હેઠળ કર્મચારીઓને ભવિષ્યમાં UPI અને ATMથી PFના પૈસા ઉપાડવાની સુવિધા આપવામાં આવી શકે છે. આ નવી સિસ્ટમ PF ઉપાડ અને ટ્રાન્સફરને સંપૂર્ણપણે ડિજિટલ અને પેપરલેસ બનાવશે. કેન્દ્રીય મંત્રી મનસુખ માંડવિયાએ મે મહિનામાં આ સર્વિસની જાહેરાત કરી હતી. જો કે, હજુ સુધી લોન્ચની કોઈ ચોક્કસ તારીખ જાહેર કરાઈ નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epfo-3-0-latest-update-pf-withdrawal-via-atm-upi-process-and-rules-480145 ",
-    "time": "2026-06-02T11:39:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,23 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/india-most-affordable-cng-cars-maruti-s-presso-and-alto-mileage-more-than-33km-price-less-than-5-lakhs-479473 ",
     "time": "2026-05-28T06:40:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુદ્ધ વચ્ચે રશિયા કેમ વેચી રહ્યું છે પોતાનું સોનું? તૂટ્યો 24 વર્ષનો રેકોર્ડ, શું આ કોઈ મોટી આફતનો સંકેત?",
-    "desc": "વર્ષ 2002થી 2025 વચ્ચે 1900 ટનથી વધુ સોનું ખરીદનાર રશિયા આજે સોનું વેચી રહ્યું છે. વર્ષના શરૂઆતના મહિનાઓમાં જ રશિયાએ આશરે 28 ટનથી વધુ સોનું વેચી દીધું. રશિયાનો આ નિર્ણય આગામી સમયમાં કોઈ મોટી આફત આવવાનો સંકેત છે કે પછી તેની પાછળ કોઈ અલગ જ કહાની છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-is-russia-selling-its-gold-in-the-midst-of-war-24-year-record-has-been-broken-is-this-a-sign-of-a-major-disaster-479412 ",
-    "time": "2026-05-27T11:57:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રણવીર સિંહ પહેલા આ કલાકારો પર પણ FWICE લગાવી ચુકી છે પ્રતિબંધ, એક એક્ટર ઈંડસ્ટ્રીમાંથી થઈ ગયો ગાયબ",
-    "desc": "સોમવારે બોલીવુડના ધુરંધર રણવીર સિંહ પર FWICE એ પ્રતિબંધ જાહેર કર્યો છે. આ વાતથી ખળભળાટ મચી ગયો છે પરંતુ શું તમે જાણો છો કે રણવીર સિંહ પહેલા કેટલા એક્ટર્સ વિરુદ્ધ આવા પ્રતિબંધ લાગી ચુક્યા છે ? જો તમને નથી ખબર તો ચાલો તમને જણાવીએ કયા એક્ટર પર કયા કારણોસર FWICE પ્રતિબંધ લગાવી ચુકી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/actors-who-faced-fwice-banned-before-ranveer-singh-who-were-banned-by-fwice-in-bollywood-479365 ",
-    "time": "2026-05-27T06:09:56.000Z"
   }
 ];
