@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why did Matteo Arnaldi pull out of French Open semi-final? Flavio Cobolli to contest final vs Alexander Zverev",
+    "desc": "Flavio Cobolli's route to the French Open final was confirmed in unexpected circumstances on Friday after Matteo Arnaldi pulled out of their scheduled semi-final in Paris due to illness. The two Italians had been set to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/why-did-matteo-arnaldi-pull-out-of-french-open-semi-final-flavio-cobolli-to-contest-final-vs-alexander-zverev-2026-06-05-1043808",
+    "time": "2026-06-05T17:06:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch IND vs AFG one-off Test on TV and streaming?",
+    "desc": "India's focus shifts back to Test cricket this week as they host Afghanistan in a one-off match beginning on June 6. The fixture arrives just days after the conclusion of the IPL season, requiring several...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-afghanistan-live-telecast-when-and-where-to-watch-ind-vs-afg-one-off-test-on-tv-and-streaming-2026-06-05-1043806",
+    "time": "2026-06-05T16:16:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's late comeback leaves Pakistan rattled in U18 Hockey Asia Cup, Ashish Purti nets four",
+    "desc": "India’s U18 men’s hockey team stormed into the final of the Asia Cup in Kakamigahara, Japan, after a commanding 5-3 win over Pakistan on Friday. Youngster Ashish Tani Purti stole the show with four goals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/india-s-late-comeback-leaves-pakistan-rattled-in-u18-hockey-asia-cup-ashish-purti-nets-four-2026-06-05-1043802",
+    "time": "2026-06-05T15:30:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch in India?",
+    "desc": "After a disappointing outing in the Unity Cup, where India lost both their games in England, the team will engage in an international friendly assignment against Tajikistan in Hisor on June 5. Both sides are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-vs-tajiskistan-live-when-and-where-to-watch-in-india-2026-06-05-1043798",
+    "time": "2026-06-05T14:44:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "One cricketer set for debut in one-off Test vs Afghanistan: Check India's probable playing XI",
     "desc": "India will begin their 2026 Test calendar with a one-off match against Afghanistan at the Maharaja Yadavindra Singh International Cricket Stadium in New Chandigarh on June 6. It will also mark captain Shubman Gill’s return...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-set-to-get-the-nod-at-number-three-in-afghanistan-test-spinners-to-be-tested-in-mullanpur-2026-06-05-1043743",
     "time": "2026-06-05T07:35:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don't take it that seriously': Manchester City chairman makes shocking revelation after Pep Guardiola's exit",
-    "desc": "English football club Manchester City’s new era is taking shape. After 10 years of service, head coach Pep Guardiola has left the club, and Enzo Maresca has been appointed as his successor ahead of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/don-t-take-it-that-seriously-manchester-city-chairman-makes-shocking-revelation-after-pep-guardiola-s-exit-2026-06-05-1043740",
-    "time": "2026-06-05T07:10:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma yet to report to CoE for fitness test, set to train in Mohali ahead of Afghanistan ODIs: Report",
-    "desc": "India and Afghanistan are all set to take on each other in a multi-format series. The two sides will take on each other across one Test match and three ODI matches. The Test match will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-yet-to-report-to-coe-for-fitness-test-set-to-train-in-mohali-ahead-of-afghanistan-odis-report-2026-06-05-1043727",
-    "time": "2026-06-05T05:36:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How far can Brazil go in the upcoming FIFA World Cup 2026? Casemiro rates his side's chances",
-    "desc": "The stage is set for the upcoming edition of the FIFA World Cup 2026. The marquee tournament will kick off on June 11th with a total of 48 teams taking on each other in a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/how-far-can-brazil-go-in-the-upcoming-fifa-world-cup-2026-casemiro-rates-his-side-s-chances-2026-06-05-1043723",
-    "time": "2026-06-05T04:44:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant set to achieve legendary Test record ahead of one-off Test against Afghanistan",
-    "desc": "The stage is set for the beginning of the multi-format series between India and Afghanistan. The two sides will meet across one Test match and three ODI matches and will hope to put in some...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-set-to-achieve-legendary-test-record-ahead-of-one-off-test-against-afghanistan-2026-06-05-1043718",
-    "time": "2026-06-05T03:56:35.000Z"
   }
 ];

@@ -1,12 +1,147 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "A&NI administration looks to introduce elections to Nicobarese community",
-    "desc": "Some locals suspect the draft rules are an attempt to give rise to a Nicobarese leadership that may be more favourable to Centre’s interests, especially in Great Nicobar Island, where the existing Tribal Council has been opposing Union government’s ₹92,000-crore project for close to four years now",
-    "img": "https://th-i.thgim.com/public/incoming/j488p3/article71066430.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202026_22_04_6.jpg",
+    "title": "Karnataka cabinet shock: Why Ramalinga Reddy’s resignation has pushed DKS into a corner",
+    "desc": "Hours after portfolio allocations, the new Karnataka government has hit a massive wall. Veteran Bangalore strongman Ramalinga Reddy has resigned, senior Dalit face K.H. Muniappa is in open revolt, and D.K. Shivakumar’s biggest nightmare is coming alive. In this deep-dive analysis, we break down the brewing storm in Vidhana Soudha.",
+    "img": "https://th-i.thgim.com/public/incoming/439qlm/article71067079.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-05%20at%2022.19.14.jpeg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/ani-administration-looks-to-introduce-elections-to-nicobarese-community/article71065736.ece",
-    "time": "2026-06-05T14:35:50.000Z"
+    "url": "https://www.thehindu.com/videos/watch-karnataka-cabinet-shock-why-ramalinga-reddys-resignation-has-pushed-dks-into-a-corner/article71067077.ece",
+    "time": "2026-06-05T17:05:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Field supervision, correcting ‘discrepancies’ are normal practice in statistical exercise, says RG&CCI Director",
+    "desc": "There have been attempts to ‘misrepresent this normal exercise as data tampering, which is regrettable and factually inaccurate’, the official says; enumerators say they are being asked to edit data about open defecation and gas connection in particular",
+    "img": "https://th-i.thgim.com/public/incoming/hrl9am/article71067063.ece/alternates/LANDSCAPE_1200/20260521501L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/field-supervision-correcting-discrepancies-are-normal-practice-in-statistical-exercise-says-rgcci-director/article71066680.ece",
+    "time": "2026-06-05T16:53:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Holland hints at his exit from 'Spider-Man' franchise",
+    "desc": "Brand New Day.\" He expressed a desire to mentor the next generation, much like Robert Downey Jr. did for him. Holland also revealed his involvement in the writers' room for the film, set for a July 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-131536989,imgsize-64722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-hints-at-his-exit-from-spider-man-franchise-i-would-be-so-content-swinging-off-into-the-sunset/articleshow/131536987.cms",
+    "time": "2026-06-05T16:51:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee jumps 56 paise to 95.18 vs US dollar after RBI announces forex-support measures",
+    "desc": "The rupee surged 56 paise to 95.18 against the US dollar following RBI's measures to attract foreign capital and boost forex liquidity. These policy announcements, including expanding the Fully Accessible Route and removing taxes on foreign investment in G-Secs, improved investor sentiment. Analysts expect further appreciation if oil prices remain below $100 a barrel.",
+    "img": "https://static.toiimg.com/photo/msid-131536642,imgsize-702470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-jumps-56-paise-to-95-18-vs-us-dollar-after-rbi-announces-forex-support-measures/articleshow/131536642.cms",
+    "time": "2026-06-05T16:50:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zverev marches into French Open final, one win away from ending Grand Slam curse",
+    "desc": "Alexander Zverev advanced to the French Open final after a four-set victory over Jakub Mensik. The German second seed, now a strong favorite with top contenders eliminated, will compete for his maiden Grand Slam title. Zverev overcame a brief resurgence from Mensik to secure his place in the championship match.",
+    "img": "https://static.toiimg.com/photo/msid-131536675,imgsize-110300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/alexander-zverev-marches-into-french-open-final-one-win-away-from-ending-grand-slam-curse/articleshow/131536677.cms",
+    "time": "2026-06-05T16:41:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Peddi director reacts to criticism over Janhvi's portrayal",
+    "desc": "Director Buchi Babu Sana has addressed the criticism surrounding the portrayal of Janhvi Kapoor's character in Peddi, admitting that he was surprised by the negative response and had not anticipated that certain scenes would be viewed as problematic by audiences. While many viewers praised the film's themes and its second half, the romance track in the first half became a major talking point online.",
+    "img": "https://static.toiimg.com/photo/msid-131536213,imgsize-55700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/well-be-more-careful-peddi-director-buchi-babu-sana-reacts-to-criticism-over-janhvi-kapoors-character-portrayal/articleshow/131536103.cms",
+    "time": "2026-06-05T16:10:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "OIL reports presence of natural gas in its third exploratory well in Andaman block",
+    "desc": "State-run Oil India Limited (OIL) has reported the discovery of natural gas in its third exploratory well, Vijayapuram-3, in the Andaman shallow offshore block. This finding further indicates the hydrocarbon potential in the region, following a previous discovery in the Vijayapuram-2 well. OIL is now undertaking further studies and plans appraisal wells to evaluate the block's potential.",
+    "img": "https://static.toiimg.com/photo/msid-131536107,imgsize-611860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-reports-presence-of-natural-gas-in-its-third-exploratory-well-in-andaman-block/articleshow/131536039.cms",
+    "time": "2026-06-05T16:06:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NTPC to set up flexible coal-fired units to ensure reliable power supply",
+    "desc": "NTPC is setting up flexible coal-fired thermal power units to balance intermittent renewable energy generation and ensure grid stability. These sub-critical units, designed for two-shift operation and lower minimum loads, will provide crucial balancing support as renewable energy's share grows, reinforcing India's energy transition.",
+    "img": "https://static.toiimg.com/photo/msid-131536018,imgsize-825308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ntpc-to-set-up-flexible-coal-fired-units-to-ensure-reliable-power-supply/articleshow/131536031.cms",
+    "time": "2026-06-05T16:00:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Decoding ‘I Knew It, I Knew You’ from ‘Toy Story 5’",
+    "desc": "Taylor Swift returns to her country roots with 'I Knew It, I Knew You,' an original song for 'Toy Story 5.' The track, co-written with Jack Antonoff, beautifully captures the emotions of reconciliation and reconnecting with a past love. Swift revealed the song was inspired by Jessie, the cowgirl doll, and expresses her lifelong connection to the 'Toy Story' franchise.",
+    "img": "https://static.toiimg.com/photo/msid-131535864,imgsize-58096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/decoding-ti-knew-it-i-knew-you-from-toy-story-5-fans-say-nobody-can-write-a-song-like-taylor-swift/articleshow/131535722.cms",
+    "time": "2026-06-05T15:49:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three held in connection with fire at private hospital in Muzaffarpur",
+    "desc": "\"In pursuance of the FIR that was lodged by the Fire Officer of Muzaffarpur, we arrested Pankaj, the doctor who was in charge of the ICU, in addition to Ram Kumar and Ajit Kumar, the admin manager and the maintenance manager, respectively\", says Mr. Ansari",
+    "img": "https://th-i.thgim.com/public/incoming/epx6pw/article71066082.ece/alternates/LANDSCAPE_1200/20260604116L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/three-held-in-connection-with-fire-at-private-hospital-in-muzaffarpur/article71066037.ece",
+    "time": "2026-06-05T15:42:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal talks: Both sides hold 'positive and constructive' negotiations, says MEA",
+    "desc": "India and the US have concluded \"positive and constructive\" trade talks, signaling progress towards a bilateral agreement. Discussions covered goods, non-tariff measures, and economic security. Both nations reaffirmed their commitment to advancing the pact, with a US envoy noting only a small percentage of issues remain unresolved, suggesting an imminent finalization.",
+    "img": "https://static.toiimg.com/photo/msid-131535311,imgsize-737160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-talks-both-sides-hold-positive-and-constructive-negotiations-says-mea/articleshow/131535307.cms",
+    "time": "2026-06-05T15:28:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indians aren't stealing American jobs; they are building entire HR departments",
+    "desc": "Immigrants are driving America's innovation, founding 59% of billion-dollar startups, known as unicorns. People of Indian origin lead this trend, establishing 96 such companies. These ventures employ thousands and contribute trillions to the U.S. economy, challenging narratives of immigrants harming the job market. International students also play a crucial role in this entrepreneurial surge.",
+    "img": "https://static.toiimg.com/photo/msid-131535155,imgsize-523423.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/us/unicorn-in-the-usa-indians-arent-stealing-american-jobs-they-are-building-entire-hr-departments/articleshow/131535094.cms",
+    "time": "2026-06-05T15:15:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lalit blames Saif-Kareena's 'interference' for Agent Vinod's failure",
+    "desc": "More than a decade after the release of Agent Vinod, actor Lalit Parimoo has opened up about why he believes the ambitious spy thriller failed to connect with audiences. The film, directed by Sriram Raghavan and starring Saif Ali Khan and Kareena Kapoor Khan, had generated significant buzz ahead of its 2012 release but ultimately underperformed at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-131535110,imgsize-66276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lalit-parimoo-blames-saif-ali-khan-and-kareena-kapoors-interference-for-agent-vinods-failure-sriram-raghavan-could-not-make-the-film/articleshow/131535076.cms",
+    "time": "2026-06-05T15:11:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nepal batter achieves rare T20I milestone; Joins Samson and Tilak in elite list",
+    "desc": "Nepal's Kushal Bhurtel is on a record-breaking spree at the Asian Games qualifiers, smashing back-to-back T20I centuries. Days after hitting six sixes in an over, he delivered another stunning century, powering Nepal to a massive win. This remarkable feat places him in an elite group of cricketers with consecutive T20I hundreds.",
+    "img": "https://static.toiimg.com/photo/msid-131534967,imgsize-151038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nepal-batter-achieves-rare-t20i-milestone-joins-sanju-samson-and-tilak-varma-in-elite-list/articleshow/131534985.cms",
+    "time": "2026-06-05T15:08:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gay scripts history, becomes first-ever batter since Strauss to...",
+    "desc": "England opener Emilio Gay marked his Test debut against New Zealand at Lord's with a composed 57 in the second innings. His crucial half-century anchored the hosts against a disciplined pace attack. With this knock, Gay became the first England men's opener to score a debut fifty on home soil since Andrew Strauss in 2004, stabilising the top order.",
+    "img": "https://static.toiimg.com/photo/msid-131535026,imgsize-57750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/eng-vs-nz-emilio-gay-scripts-history-on-home-soil-becomes-first-ever-batter-since-andrew-strauss-to-/articleshow/131534948.cms",
+    "time": "2026-06-05T15:02:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘It's a very big privilege’: Gill opens up on leading India in front of his home crowd",
+    "desc": "Captain Shubman Gill emphasizes Test cricket's unparalleled satisfaction as India prepares for their one-off Test against Afghanistan. Acknowledging the challenging transition from IPL, Gill expressed confidence in young talents and highlighted the significance of this match for building momentum ahead of crucial World Test Championship fixtures. He stressed Afghanistan's formidable progress, urging against underestimation.",
+    "img": "https://static.toiimg.com/photo/msid-131534496,imgsize-79068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/its-a-very-big-privilege-shubman-gill-opens-up-on-leading-india-in-front-of-his-home-crowd/articleshow/131534385.cms",
+    "time": "2026-06-05T14:36:29.000Z"
   },
   {
     "cat": "Business",
@@ -54,13 +189,13 @@ const newsData_en = [
     "time": "2026-06-05T13:57:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Three held in connection with fire at private hospital in Muzaffarpur",
-    "desc": "\"In pursuance of the FIR that was lodged by the Fire Officer of Muzaffarpur, we arrested Pankaj, the doctor who was in charge of the ICU, in addition to Ram Kumar and Ajit Kumar, the admin manager and the maintenance manager, respectively\", says Mr. Ansari",
-    "img": "https://th-i.thgim.com/public/incoming/epx6pw/article71066082.ece/alternates/LANDSCAPE_1200/20260604116L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/three-held-in-connection-with-fire-at-private-hospital-in-muzaffarpur/article71066037.ece",
-    "time": "2026-06-05T13:55:38.000Z"
+    "cat": "Entertainment",
+    "title": "Country star Alan Jackson performs farewell concert",
+    "desc": "The Last Show.’ This special event, filmed at Nissan Stadium, will be directed by Sam Wrench, known for major concert films. The 67-year-old artist is concluding his touring career due to Charcot-Marie-Tooth disease, a condition he's managed for years.",
+    "img": "https://static.toiimg.com/photo/msid-131532020,imgsize-17950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/country-star-alan-jackson-performs-farewell-concert-film-directed-by-sam-wrench-to-stream-soon-on-ott-platform/articleshow/131531996.cms",
+    "time": "2026-06-05T13:40:29.000Z"
   },
   {
     "cat": "Business",
@@ -72,15 +207,6 @@ const newsData_en = [
     "time": "2026-06-05T13:39:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala Forest department launches 24/7 call centre, tech platforms for solar fence and case management",
-    "desc": "The initiatives include a Forest Call Centre, an online reporting and monitoring portal for solar fences, and the integration of the (Hostile Activity Watch Kernel) platform for handling forest offence records to courts online through the District Court Management System",
-    "img": "https://th-i.thgim.com/public/incoming/6vo0ru/article71065976.ece/alternates/LANDSCAPE_1200/TH24-KDR-HumaneG7VFKPLKQ.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-forest-department-launches-247-call-centre-tech-platforms-for-solar-fence-and-case-management/article71065778.ece",
-    "time": "2026-06-05T13:38:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ajay's Drishyam 3 Hindi version may differ from Malayalam original",
     "desc": "Ajay Devgn's Hindi version of 'Drishyam 3', releasing on October 2, is set to differ significantly from the original Malayalam film, with the makers having drastically altered the plot and twists. Adding to the excitement, acclaimed KGF composer Ravi Basrur has been brought on board to compose the music.",
@@ -88,24 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgns-drishyam-3-hindi-version-may-differ-from-malayalam-original-kgf-fame-ravi-basrur-to-compose-music/articleshow/131532894.cms",
     "time": "2026-06-05T13:31:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nicobar port has no ‘strategic goals’, Finance Ministry body said in 2024",
-    "desc": "Centre has cited the ‘strategic’ nature of the proposed ₹81,000-crore Great Nicobar Project for not making public the contents of a report by a High Powered Committee (HPC) on the cumulative environmental impact of the project",
-    "img": "https://th-i.thgim.com/public/incoming/ckcmjd/article71062462.ece/alternates/LANDSCAPE_1200/20260428529L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/finance-ministry-body-once-flagged-great-nicobar-port-as-lacking-strategic-objectives/article71061723.ece",
-    "time": "2026-06-05T13:25:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nirmala Sitharaman calls for people’s movement to protect environment",
-    "desc": "Participating in the ‘Ek Ped Maa Ke Naam’ plantation programme organised at Chikkajogihalli village in Kudligi taluk on the occasion of World Environment Day, the Finance Minister said the prosperity of humanity depended on preserving nature, wildlife and greenery.",
-    "img": "https://th-i.thgim.com/public/incoming/ap4ckv/article71065918.ece/alternates/LANDSCAPE_1200/20260605073L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/nirmala-sitharaman-calls-for-peoples-movement-to-protect-environment/article71065584.ece",
-    "time": "2026-06-05T13:24:29.000Z"
   },
   {
     "cat": "Sports",
@@ -387,24 +495,6 @@ const newsData_en = [
     "time": "2026-06-05T09:57:20.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Old jewellery swaps rise up to 60% as record prices reshape buying habits",
-    "desc": "Soaring gold prices are driving a surge in old gold exchanges at jewellery stores, now comprising nearly half of sales for major chains. Consumers are leveraging existing jewellery to fund new purchases, a trend amplified by increased import duties and government calls to curb non-essential buying.",
-    "img": "https://static.toiimg.com/photo/msid-131528248,imgsize-1327167.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-exchange-boom-old-jewellery-swaps-rise-up-to-60-as-record-prices-reshape-buying-habits/articleshow/131528215.cms",
-    "time": "2026-06-05T09:55:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What must Gukesh do to avoid finishing last at Norway Chess 2026?",
-    "desc": "World Champion D Gukesh faces a crucial final-round clash against Magnus Carlsen at Norway Chess 2026. Currently last with eight points, Gukesh must defeat Carlsen in their classical game to move ahead of the Norwegian and avoid finishing at the bottom. Meanwhile, Wesley So, Praggnanandhaa, and Alireza Firouzja remain locked in a thrilling three-way battle for the tournament title.",
-    "img": "https://static.toiimg.com/photo/msid-131527989,imgsize-38476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/what-must-world-champion-d-gukesh-do-to-avoid-finishing-last-at-norway-chess-2026/articleshow/131527989.cms",
-    "time": "2026-06-05T09:53:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Swift’s Movie Soundtrack Originals",
     "desc": "Taylor Swift returns to her country roots with 'I Knew It, I Knew You' for 'Toy Story 5,' reflecting on reconciliation. The article highlights her past contributions to film soundtracks, including 'Safe & Sound' for 'The Hunger Games,' 'I Don't Wanna Live Forever' for 'Fifty Shades Darker,' and 'Today Was A Fairytale' from her acting debut in 'Valentine's Day.'",
@@ -450,24 +540,6 @@ const newsData_en = [
     "time": "2026-06-05T09:12:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'Will reach $100bn in mutual trade': Putin calls India 'reliable partner', hails PM Modi's leadership",
-    "desc": "Russian President Vladimir Putin expressed confidence that bilateral trade with India will reach $100 billion in the coming years, citing growing cooperation in energy, investments, and strategic sectors. He highlighted India's impressive economic growth and described New Delhi as a reliable partner, emphasizing the strong foundation for expanding economic engagement.",
-    "img": "https://static.toiimg.com/photo/msid-131526921,imgsize-107592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/will-reach-100bn-in-mutual-trade-putin-calls-india-reliable-partner-hails-pm-modis-leadership/articleshow/131521069.cms",
-    "time": "2026-06-05T08:56:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘If there's an opportunity ...’: Gambhir backs ICC's pink-ball rule for bad light",
-    "desc": "India head coach Gautam Gambhir supports the ICC's new rule allowing a pink ball under floodlights to combat bad light in Test matches. He believes this proactive measure will help ensure matches reach a conclusion, especially in crucial World Test Championship scenarios, preventing teams from being denied results due to weather.",
-    "img": "https://static.toiimg.com/photo/msid-131526917,imgsize-25814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/if-theres-an-opportunity-to-get-a-result-gautam-gambhir-backs-iccs-pink-ball-rule-for-bad-light/articleshow/131526914.cms",
-    "time": "2026-06-05T08:55:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "All you need to know about James Handy",
     "desc": "Maverick,' was tragically found stabbed to death at his Los Angeles home on June 3, 2026. His girlfriend's son, Michael Gledhill, has reportedly confessed to the crime. Handy, an 81-year-old with a career spanning five decades, was discovered with chest wounds in his front yard.",
@@ -484,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/government-exempts-capital-gains-tax-on-fpi-investment-in-g-secs/article71064644.ece",
     "time": "2026-06-05T08:27:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Govinda-Chunky Panday on Pahlaj Nihalani's death",
-    "desc": "Veteran producer and former CBFC chairperson Pahlaj Nihalani passed away on June 4 at the age of 76 after a prolonged illness. Actors Govinda and Chunky Panday, whose careers he helped launch, paid emotional tributes, with Govinda calling him a father figure and their foundation stone in the industry.",
-    "img": "https://static.toiimg.com/photo/msid-131526229,imgsize-26168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-chunky-panday-on-pahlaj-nihalanis-death-chahe-log-kitna-bhi-mere-khilaf-jaye-pahlaji-ke-muh-se-tarif-hi-nikalti-thi/articleshow/131526229.cms",
-    "time": "2026-06-05T08:26:16.000Z"
   },
   {
     "cat": "Sports",
@@ -522,33 +585,6 @@ const newsData_en = [
     "time": "2026-06-05T08:17:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Martin Sheen",
-    "desc": "\"We are not required to perform extraordinary deeds; instead, we must approach every task with extraordinary love.\" This message reshapes our understanding of significance, highlighting that the smallest gestures of love can create profound ripples in the world.",
-    "img": "https://static.toiimg.com/photo/msid-131525995,imgsize-81776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-martin-sheen-we-in-it-are-not-asked-to-do-great-things-we-are-asked-to-do-all-things-with-great-love/articleshow/131525875.cms",
-    "time": "2026-06-05T08:13:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anees Bazmee, Neelam and Chunky Panday recall Pahlaj Nihalani",
-    "desc": "Veteran producer Pahlaj Nihalani, who passed away at 76, leaves a significant mark on mainstream Hindi cinema. He launched careers of stars like Govinda and Chunky Panday, producing commercial hits such as 'Aankhen'. Colleagues remember his passion, perfectionism, and unwavering belief in talent, despite later controversies.",
-    "img": "https://static.toiimg.com/photo/msid-131525981,imgsize-131624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anees-bazmee-neelam-and-chunky-panday-recall-pahlaj-nihalani-once-he-knocked-at-my-door-at-5-am/articleshow/131525953.cms",
-    "time": "2026-06-05T08:12:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jennifer Aniston reflects on Brad Pitt's 'Friends' cameo",
-    "desc": "Jennifer Aniston reminisced about 'Friends' iconic Thanksgiving episodes, including Brad Pitt's hilarious cameo. She marvelled at the star-studded guest list, noting many celebrities felt nervous on set. Pitt played a character with a strong dislike for Aniston's Rachel. The enduring legacy of the show and the cast's bond were also highlighted.",
-    "img": "https://static.toiimg.com/photo/msid-131524817,imgsize-168892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-reflects-on-brad-pitts-iconic-friends-cameo-during-reunion-chat-with-lisa-kudrow/articleshow/131524795.cms",
-    "time": "2026-06-05T08:00:04.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "More trouble brewing for Mamata's TMC? Expelled MLA Ritabrata Banerjee makes fresh claim",
     "desc": "Expelled TMC leader Ritabrata Banerjee expressed confidence that support for his rebel faction will grow, claiming a significant number of MLAs are backing him. He also appealed to CM Suvendu Adhikari to take action against BJP leader Priyanka Tibrewal for protesting outside a fellow rebel's residence.",
@@ -558,33 +594,6 @@ const newsData_en = [
     "time": "2026-06-05T07:56:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Cannot work against conscience': What Ramalinga said after quitting DKS cabinet",
-    "desc": "Announcing his decision in Bengaluru, Reddy said he could not continue in the ministry after chief minister DK Shivakumar allegedly failed to honour an assurance made to him regarding the key portfolio. \"The resignation comes at a time when Rahul Gandhi is in town. I cannot work against my conscience, so I am resigning as minister,\" said Reddy.",
-    "img": "https://static.toiimg.com/photo/msid-131525714,imgsize-26754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cannot-work-against-conscience-what-ramalinga-said-after-quitting-dks-cabinet/articleshow/131521528.cms",
-    "time": "2026-06-05T07:54:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rakesh Bedi kept talking about 'Dhurandhar' on 'HJTIHH' sets, reveals Chunky Panday",
-    "desc": "In an exclusive interview, Chunky Panday opens up about his recent laughter-filled venture, 'Hai Jawaani Toh Ishq Hona Hai'. He fondly reminisces about reuniting with the comedic genius David Dhawan and the ever-charming Rakesh Bedi. With a twinkle in his eye, Panday recalls the magic of their past collaboration on 'Aankhen', praising Dhawan’s unyielding zest and inventive approach to filmmaking.",
-    "img": "https://static.toiimg.com/photo/msid-131525669,imgsize-179098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakesh-bedi-kept-talking-about-dhurandhar-on-hai-jawani-toh-ishq-hona-hai-sets-reveals-chunky-panday-could-see-the-excitement-in-his-eyes-exclusive/articleshow/131525247.cms",
-    "time": "2026-06-05T07:51:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'There is no loss': Tamil Nadu BJP chief as his predecessor Annamalai quits party",
-    "desc": "Tamil Nadu BJP chief Nainar Nagendran dismissed any loss following K. Annamalai's exit, who has launched a new political movement, the APJ Abdul Kalam Centre for Ethics and Politics. Annamalai aims to foster systemic change, ending cult and dynastic politics, and encouraging technocrats. His departure follows speculation after the BJP's performance in recent elections.",
-    "img": "https://static.toiimg.com/photo/msid-131524865,imgsize-55516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/there-is-no-loss-tamil-nadu-bjp-chief-as-his-predecessor-annamalai-quits-party/articleshow/131524678.cms",
-    "time": "2026-06-05T07:21:20.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "The world’s first and only rotating boat lift",
     "desc": "On May 24, 2002, the Falkirk Wheel was officially opened by Queen Elizabeth II as part of her Golden Jubilee celebrations. The world’s first and only rotating boat lift is an engineering feat of excellence that connects the Forth & Clyde and Union Canals in Scotland. A.S.Ganesh takes you on this waterway to tell you more about this unique wheel…",
@@ -592,24 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
     "time": "2026-06-05T06:48:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Hasn’t got fair chance': Gambhir confirms GT batter at No.3 for Afghanistan Test",
-    "desc": "The number three position has remained unsettled for India in Test cricket since Cheteshwar Pujara moved out of the side. Since then, seven different batters have been tried at one-drop, but none have managed to make the spot their own. Several of them were also not given an extended run in the role.",
-    "img": "https://static.toiimg.com/photo/msid-131524058,imgsize-43068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/hasnt-got-fair-chance-gautam-gambhir-confirms-sai-sudharsan-at-no-3-for-afghanistan-test/articleshow/131523701.cms",
-    "time": "2026-06-05T06:46:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress MP Digvijaya Singh seeks white paper on NTA exam irregularities; writes to PM Modi",
-    "desc": "Addressing the troubling trends in examination management, Congress MP Digvijaya Singh has requested Prime Minister Modi to issue a comprehensive white paper on the National Testing Agency's irregularities spanning eight years. Highlighting the recent NEET-UG 2026 cancellation, Singh expressed the growing anxiety among students stemming from unresolved leak issues.",
-    "img": "https://static.toiimg.com/photo/msid-131523586,imgsize-41970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-mp-digvijaya-singh-seeks-white-paper-on-nta-exam-irregularities-writes-to-pm-modi/articleshow/131523424.cms",
-    "time": "2026-06-05T06:20:33.000Z"
   },
   {
     "cat": "Sports",
@@ -639,15 +630,6 @@ const newsData_en = [
     "time": "2026-06-05T05:26:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Strengthening forex reserves amid US-Iran war: RBI announces 5 measures to attract foreign capital",
-    "desc": "The situation assumes significance as the US-Iran conflict has led to rising global crude oil and energy prices, putting pressure on India’s balance of payments and current account deficit as the import bill goes up.",
-    "img": "https://static.toiimg.com/photo/msid-131522407,imgsize-72536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/strengthening-forex-reserves-amid-us-iran-war-rbi-announces-5-measures-to-attract-foreign-capital-check-details/articleshow/131522352.cms",
-    "time": "2026-06-05T05:19:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anju’s Cafe in Ranga Shankara turns 20",
     "desc": "Anju Sudharshan started her namesake cafe in the Ranga Shankara theatre after a chance encounter with the founder Arundhati Nag. We trace how the cafe became the heart of the institution in Bengaluru, and a space for reviews, discussions and piping hot akki rotis",
@@ -655,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/food/features/sabudana-vada-and-stagecraft-anjus-cafe-in-ranga-shankara-turns-20/article71040773.ece",
     "time": "2026-06-05T04:16:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Praggnanandhaa takes revenge on Gukesh; title race goes to final day",
-    "desc": "R Praggnanandhaa boosted his Norway Chess title hopes with a third straight classical victory, defeating world champion D Gukesh in their Round 9 rematch. After weathering Gukesh’s early aggression in the Nimzo-Indian Sämisch, Pragg defended accurately. The win avenged his earlier loss to Gukesh and moved him within half a point of leader Wesley So heading into the final round.",
-    "img": "https://static.toiimg.com/photo/msid-131519203,imgsize-56120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-takes-revenge-on-world-champion-d-gukesh-title-race-goes-to-final-day/articleshow/131519197.cms",
-    "time": "2026-06-05T01:21:37.000Z"
   },
   {
     "cat": "World",
@@ -792,15 +765,6 @@ const newsData_en = [
     "time": "2026-06-04T04:17:10.000Z"
   },
   {
-    "cat": "World",
-    "title": "Rubio warns of Ukraine war 'escalation' risk",
-    "desc": "The remarks came after Ukrainian drones struck energy infrastructure in Russia's second-largest city, St. Petersburg, an attack Kyiv called retaliation for a mass wave of Russian strikes on Tuesday that killed at least 23 people.",
-    "img": "https://th-i.thgim.com/public/incoming/pihsqa/article71058739.ece/alternates/LANDSCAPE_1200/Senate_Appropriations_84_35.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/rubio-warns-of-ukraine-war-escalation-risk/article71058737.ece",
-    "time": "2026-06-03T22:47:26.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "SpaceX’s IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
     "desc": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world’s first trillionaire",
@@ -826,15 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/apple-agrees-to-submit-india-financials-in-long-pending-antitrust-case/article71058383.ece",
     "time": "2026-06-03T17:30:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "2026 to be driest in 11 years. How badly can a deficient monsoon hit crop output?",
-    "desc": "India is expected to have a ‘deficient’ monsoon this year. What does a dry period mean for our crops and the agricultural economy? Here’s a look at how weak monsoon years have affected foodgrain production, reservoirs and India’s farm sector in the past.",
-    "img": "https://th-i.thgim.com/public/incoming/v4lecb/article71058254.ece/alternates/LANDSCAPE_1200/How%20did%20our%20crops%20perform%20the%20last%20time%20a%20Super%20El%20Nino%20hit%20us%20Rice%20wheat%20pulses%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-2026-to-be-driest-in-11-years-how-badly-can-a-deficient-monsoon-hit-crop-output/article71058253.ece",
-    "time": "2026-06-03T16:03:54.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
     "time": "2026-06-03T04:12:40.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "CBSE says OnMark portal ‘vulnerabilities’ contained amid security concerns",
+    "desc": "The CBSE’s statement comes after 19-year-old ethical hacker Nisarga Adhikary claimed that he had hacked the CBSE’s digital evaluation ecosystem; Mr. Adhikary explained that personal information of students was processed by Google’s Gemini in automation scripts prepared by quality assurance engineers of COEMPT",
+    "img": "https://th-i.thgim.com/public/incoming/97m0fb/article71044433.ece/alternates/LANDSCAPE_1200/NKV-CBSE%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cbse-says-onmark-portal-vulnerabilities-contained-amid-security-concerns/article71044420.ece",
+    "time": "2026-05-31T16:10:26.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
