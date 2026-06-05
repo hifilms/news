@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Dua Lipa-Callum Turner pack on the PDA at pre-wedding party",
+    "desc": "Dua Lipa and Callum Turner commenced their lavish Italian wedding festivities with a vibrant cocktail party in Palermo. Surrounded by friends and celebrity guests, the newlyweds radiated happiness, sharing affectionate moments and dancing the night away. Lipa stunned in a backless ivory halter dress, while Turner sported a chic beige suit.",
+    "img": "https://static.toiimg.com/photo/msid-131540839,imgsize-132782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipa-and-callum-turner-pack-on-the-pda-at-pre-wedding-cocktail-party-in-italy-charli-xcx-joe-alwyn-and-other-stars-attend/articleshow/131540636.cms",
+    "time": "2026-06-05T21:54:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bangladesh border guards, BSF accuse each other of push-in attempts",
+    "desc": "Border Guard Bangladesh accused India's BSF of attempting to push over 70 individuals into Bangladesh near Lalmonirhat, Naogaon, and Chapainawabganj. Meanwhile, BSF reported thwarting a BGB attempt to help 10 Bangladeshis enter India. Both forces disowned stranded individuals, leading to heightened border patrols.",
+    "img": "https://static.toiimg.com/photo/msid-131540843,imgsize-212732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bangladesh-border-guards-bsf-accuse-each-other-of-push-in-attempts/articleshow/131540842.cms",
+    "time": "2026-06-05T21:51:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can’t use OSA to deny accused access to documents relied on by prosecution",
+    "desc": "The Supreme Court has ruled that an accused's right to a fair trial includes access to prosecution documents, even if classified under the Official Secrets Act. The court ordered the government to provide highly confidential documents to retired Major General V.K. Singh, facing charges for revealing secrets in his book, emphasizing fair trial rights.",
+    "img": "https://static.toiimg.com/photo/msid-131540840,imgsize-130342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-cant-use-osa-to-deny-accused-access-to-documents-relied-on-by-prosecution/articleshow/131540837.cms",
+    "time": "2026-06-05T21:45:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GDP rose 7.7% in FY26, 7.8% in Q4; RBI trims this year's projection to 6.6%",
+    "desc": "India's economy surged by 7.8% in the Jan-March quarter, driven by strong investment, consistent farm output, and expansion in construction and tertiary sectors. This robust demand offset potential negative impacts from West Asian conflicts. The government remains committed to driving economic momentum through decisive policy measures.",
+    "img": "https://static.toiimg.com/photo/msid-131540834,imgsize-39690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gdp-rose-7-7-in-fy26-7-8-in-q4-rbi-trims-this-years-projection-to-6-6/articleshow/131540667.cms",
+    "time": "2026-06-05T21:34:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘People who laughed at him are his fans’",
+    "desc": "Veteran actress Madhoo has showered praise on Ranveer Singh, calling his journey in the film industry “amazing” and admitting that she would love to share screen space with him in the future. In a recent interview, the actress reflected on how her perception of Ranveer evolved over the years and hailed his ability to remain true to himself despite constant criticism.",
+    "img": "https://static.toiimg.com/photo/msid-131540655,imgsize-63560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhoo-shah-praises-ranveer-singhs-journey-today-the-same-people-who-laughed-at-him-are-his-biggest-fans/articleshow/131540648.cms",
+    "time": "2026-06-05T21:34:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain thrash England 4-0, Germany qualify for Women's World Cup finals",
+    "desc": "England's ⁠hopes of securing a spot with a ⁠win in Mallorca were quickly snuffed out, with Patri Guijarro giving the Spaniards the lead in the 19th minute and Alexia Putellas making it ​2-0 before the break.",
+    "img": "https://th-i.thgim.com/public/incoming/fggiix/article71067346.ece/alternates/LANDSCAPE_1200/2026-06-05T201656Z_74240911_UP1EM651KC6YT_RTRMADP_3_SOCCER-WORLDCUP-ESP-ENG.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/spain-thrash-england-4-0-germany-qualify-for-womens-world-cup-finals/article71067345.ece",
+    "time": "2026-06-05T21:22:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anthony Head passes away at 72; ‘Buffy’ co-stars pay tribute",
+    "desc": "Beloved British actor Anthony Head, celebrated for his roles as Rupert Giles in \"Buffy the Vampire Slayer\" and Rupert Mannion in \"Ted Lasso,\" has passed away at 72. His daughters confirmed his death was due to pneumonia complications. Head first gained prominence in 1980s UK television ads before achieving international acclaim.",
+    "img": "https://static.toiimg.com/photo/msid-131540612,imgsize-56302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anthony-head-known-for-buffy-the-vampire-slayer-passes-away-at-72-sarah-michelle-gellar-pays-tribute/articleshow/131540582.cms",
+    "time": "2026-06-05T21:08:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Bulk deposit pricing to be more transparent, flexible",
+    "desc": "The Reserve Bank of India is introducing new rules for bank deposit interest rates. Banks must now publish their interest rate schedules online each morning and stick to them throughout the day. This ensures customers know the exact rates available. Additionally, banks can now consider withdrawal risk when setting rates for large deposits, adding a fourth factor to pricing.",
+    "img": "https://static.toiimg.com/photo/msid-131540588,imgsize-39690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bulk-deposit-pricing-to-be-more-transparent-flexible/articleshow/131540586.cms",
+    "time": "2026-06-05T20:50:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government ready to take more measures to insulate economy",
+    "desc": "The Indian government is preparing further policy steps to protect the economy from the West Asia conflict. These measures will ensure sufficient availability of goods and raw materials. The focus is on stabilizing the Indian currency and foreign exchange flows. Additional measures will be announced as needed. The government is closely monitoring trade deficits and potential impacts on subsidies.",
+    "img": "https://static.toiimg.com/photo/msid-131540581,imgsize-91568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/government-ready-to-take-more-measures-to-insulate-economy/articleshow/131540577.cms",
+    "time": "2026-06-05T20:47:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "G-Secs rally as govt and RBI ease foreign investing rules",
+    "desc": "Government and RBI measures to boost foreign investment in government securities led to a bond rally, with benchmark 10-year G-Sec yields softening. Exemptions from long-term capital gains and withholding taxes for FPIs in G-Secs, along with expanded investment options, are seen as positive for the fixed income market.",
+    "img": "https://static.toiimg.com/photo/msid-131540540,imgsize-91568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/g-secs-rally-as-govt-and-rbi-ease-foreign-investing-rules/articleshow/131540533.cms",
+    "time": "2026-06-05T20:13:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Mutual fund houses restrict investments into gold ETFs, FoFs",
+    "desc": "Leading mutual fund houses, including HDFC, ICICI Prudential, and Nippon India, are temporarily restricting large lump-sum investments in gold ETFs and fund of funds. This move aligns with the government's policy to discourage gold purchases, following an increase in import duty. The restrictions primarily target large investors, with exceptions for authorized participants and market makers, while SIPs remain largely unaffected.",
+    "img": "https://static.toiimg.com/photo/msid-131540522,imgsize-24204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/mutual-fund-houses-restrict-investments-into-gold-etfs-fofs/articleshow/131540515.cms",
+    "time": "2026-06-05T20:09:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI cuts growth, hikes inflation forecast as West Asia crisis bites",
+    "desc": "The RBI maintained the repo rate at 5.25% amidst economic slowdown fears and rising inflation risks from the West Asia conflict. Governor Sanjay Malhotra signaled concern over generalized inflation, cutting the FY27 growth forecast to 6.6% and raising inflation projections to 5.1%.",
+    "img": "https://static.toiimg.com/photo/msid-131540481,imgsize-54846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-cuts-growth-hikes-inflation-forecast-as-west-asia-crisis-bites/articleshow/131540469.cms",
+    "time": "2026-06-05T20:00:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhandarkar",
+    "desc": "Filmmaker Madhur Bhandarkar has heaped praise on Ranveer Singh’s performance in Dhurandhar, going so far as to say that the actor deserves a National Award for his work in the film. In a recent interview, Bhandarkar also lauded director Aditya Dhar, calling Dhurandhar a landmark film that has changed the grammar of Indian cinema.",
+    "img": "https://static.toiimg.com/photo/msid-131540408,imgsize-103590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-deserves-a-national-award-for-dhurandhar-says-madhur-bhandarkar-calls-aditya-dhars-film-a-game-changer/articleshow/131540384.cms",
+    "time": "2026-06-05T19:50:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Kochi Corpn. to issue notice to CSML over streetlight maintenance",
     "desc": "LED lights have drawn flak from councillors across political parties over their alleged erratic functioning and poor upkeep; CSML claims that at no point were more than 200 lights non-functional in a network of over 43,000 lights",
@@ -334,15 +451,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "'Reform Express' to drive economic momentum amid global challenges: FM Sitharaman",
-    "desc": "Finance Minister Nirmala Sitharaman affirmed the government's commitment to economic reforms despite global challenges, even as the RBI lowered its FY27 growth forecast. The government highlighted strong FY26 performance and introduced tax exemptions for foreign investors in government securities to attract capital.",
-    "img": "https://static.toiimg.com/photo/msid-131533900,imgsize-508625.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/reform-express-to-drive-economic-momentum-amid-global-challenges-fm-sitharaman/articleshow/131533876.cms",
-    "time": "2026-06-05T14:02:35.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "India, U.S. may execute first phase of bilateral trade pact by middle of next month: Goyal",
     "desc": "According to that framework, the U.S. had agreed to reduce tariffs on India to 18% from 50%. It had removed the 25% tariffs on Indian goods for buying Russian oil and was to cut the remaining 25% to 18% under the pact",
     "img": "https://th-i.thgim.com/public/incoming/5vp5m7/article71066109.ece/alternates/LANDSCAPE_1200/AP05_25_2026_000554B.jpg",
@@ -358,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/country-star-alan-jackson-performs-farewell-concert-film-directed-by-sam-wrench-to-stream-soon-on-ott-platform/articleshow/131531996.cms",
     "time": "2026-06-05T13:40:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Pakistan's $35 billion trade deficit rings alarm bells as PKR faces pressure despite forex gain",
-    "desc": "Pakistan's foreign exchange reserves are nearing the $18 billion target, yet a widening trade deficit and upcoming debt payments raise economic stability concerns. Analysts warn the reserve build-up masks deeper vulnerabilities, with the rupee facing depreciation pressure. A soaring trade gap and potential decline in remittances could challenge the nation's financial outlook.",
-    "img": "https://static.toiimg.com/photo/msid-131533283,imgsize-1163773.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/pakistans-35-billion-trade-deficit-rings-alarm-bells-as-pkr-faces-pressure-despite-forex-gain/articleshow/131533260.cms",
-    "time": "2026-06-05T13:39:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -385,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-confirms-timings-of-team-india-squad-announcement-for-ireland-england-t20is-all-you-need-to-know/articleshow/131532810.cms",
     "time": "2026-06-05T13:14:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Success of reforms and hard work of 140 crore Indians': PM Modi hails 7.7% GDP growth in FY26",
-    "desc": "India's economy achieved a strong 7.7% growth in FY26. This expansion highlights the nation's inherent economic strength. Prime Minister Narendra Modi attributed this success to effective reforms and the diligent efforts of 140 crore Indians. The government remains committed to improving ease of living and doing business. This growth creates new opportunities for the country's youth.",
-    "img": "https://static.toiimg.com/photo/msid-131532698,imgsize-736054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/success-of-reforms-and-hard-work-of-140-crore-indians-pm-modi-hails-7-7-gdp-growth-in-fy26/articleshow/131532682.cms",
-    "time": "2026-06-05T13:03:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +522,6 @@ const newsData_en = [
     "time": "2026-06-05T12:48:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India can return to 7% growth by FY28 despite near-term risks, says CEA Nageswaran",
-    "desc": "India can reclaim over 7% growth by FY28 through stable economics and supply improvements, contingent on better external factors, according to Chief Economic Adviser V Anantha Nageswaran. Despite the RBI's lowered FY27 forecast to 6.6% due to global price hikes and disruptions, Nageswaran remains optimistic. He anticipates nominal GDP growth will surpass the budget's 10.1% estimate.",
-    "img": "https://static.toiimg.com/photo/msid-131532341,imgsize-354049.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-can-return-to-7-growth-by-fy28-despite-near-term-risks-says-cea-nageswaran/articleshow/131532350.cms",
-    "time": "2026-06-05T12:40:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Free WC tickets cancelled as FIFA admits it 'regrets the error'",
     "desc": "FIFA has cancelled around 60 World Cup tickets that were mistakenly issued for free because of a website checkout error. The affected fans have been asked to pay the correct amount to keep their reserved seats. The incident adds to ongoing scrutiny of FIFA's ticketing system, which has faced criticism over pricing, resale policies and consumer protection concerns.",
@@ -468,15 +549,6 @@ const newsData_en = [
     "time": "2026-06-05T12:09:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India's forex reserves rise $938 million to $682.32 billion",
-    "desc": "India's foreign exchange reserves rebounded by $938 million to $682.321 billion in the week ending May 28, reversing the previous week's decline. This rise was primarily driven by an increase in foreign currency assets, despite a dip in gold reserves. The overall reserves had previously fallen due to Middle East conflict-related interventions.",
-    "img": "https://static.toiimg.com/photo/msid-131531140,imgsize-891938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-reserves-rise-938-million-to-682-32-billion/articleshow/131531100.cms",
-    "time": "2026-06-05T11:58:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘You simply can't’: Ashwin reveals why forcing Sooryavanshi into Tests may not work",
     "desc": "Ravichandran Ashwin advocates for Vaibhav Sooryavanshi to pursue Test cricket, despite the 15-year-old's phenomenal white-ball success. Sooryavanshi's record-breaking IPL 2026 campaign, where he won the Orange Cap with 776 runs, has sparked debate about his future format. Ashwin acknowledges the changing landscape of cricket and the difficulty in forcing a player's hand.",
@@ -484,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-simply-cant-ashwin-reveals-why-forcing-vaibhav-sooryavanshi-into-tests-may-not-work/articleshow/131530820.cms",
     "time": "2026-06-05T11:57:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Preferential access over competitors’: Piyush Goyal says first phase of India-US trade deal likely by next month",
-    "desc": "India and the US are making rapid progress towards resolving the remaining issues in their proposed interim trade arrangement, with both countries expected to implement the first phase of the agreement by the middle of next month, Goyal said.",
-    "img": "https://static.toiimg.com/photo/msid-131531002,imgsize-57870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/preferential-access-over-competitors-piyush-goyal-says-first-phase-of-india-us-trade-deal-likely-by-next-month/articleshow/131530983.cms",
-    "time": "2026-06-05T11:52:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -505,15 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "India’s GDP grows at robust 7.8% in Q4 FY26; 7.7% full year growth beats estimates",
-    "desc": "At constant prices, real GDP for the January-March quarter is estimated to have been at Rs 87.77 lakh crore, compared with Rs 81.40 lakh crore in the corresponding period of the previous fiscal year. Nominal GDP during the quarter is estimated at Rs 94.65 lakh crore, reflecting growth of 9.1%.",
-    "img": "https://static.toiimg.com/photo/msid-131530478,imgsize-63138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-gdp-grows-at-robust-7-8-in-q4-fy26-7-7-full-year-growth-beats-estimates/articleshow/131528885.cms",
-    "time": "2026-06-05T11:40:01.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "RBI lowers growth forecast to 6.6%",
     "desc": "The Reserve Bank of India has cut its growth forecast and raised its inflation outlook for the current financial year, citing higher crude oil prices, global supply disruptions and concerns over a weak monsoon. The RBI has lowered its GDP growth projection for 2026-27 to 6.6%. down from the 6.9% forecast made earlier.",
     "img": "https://th-i.thgim.com/public/incoming/ai7lmq/article71065301.ece/alternates/LANDSCAPE_1200/RBI%20.png",
@@ -523,39 +577,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Song lyrics of the day by Beyoncé",
-    "desc": "Beyoncé, a record-breaking artist and cultural icon, has once again reinvented herself with her latest album, 'Cowboy Carter.' Known for her empowering lyrics and genre-bending music, she explores the complexities of love and appreciation in her song 'Love Drought.' The article highlights her immense success, business ventures, and enduring impact on the music industry.",
-    "img": "https://static.toiimg.com/photo/msid-131530267,imgsize-37960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/song-lyrics-of-the-day-by-beyonc-youre-caught-up-in-your-permanent-emotions-all-the-loving-ive-been-giving-goes-unnoticed/articleshow/131530262.cms",
-    "time": "2026-06-05T11:29:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Harassment dressed up as an opinion is still harassment': Nushrratt Bharuccha",
-    "desc": "Nushrratt Bharuccha opens up about the intense backlash from a viral video during an IPL celebration, which she claims was misinterpreted. The actress felt targeted and emotionally drained by the online controversy, emphasizing the speed at which misinformation spreads. She found solace in truth and the support of loved ones, advocating for verification before belief and kindness online.",
-    "img": "https://static.toiimg.com/photo/msid-131530217,imgsize-116040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/harassment-dressed-up-as-an-opinion-is-still-harassment-nushrratt-bharuccha-says-she-felt-attacked-after-viral-rcb-video-controversy/articleshow/131530161.cms",
-    "time": "2026-06-05T11:25:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Se*ualising someone without consent...: 'Janhvi Kapoor's old interview resurfaces",
     "desc": "As 'Peddi' draws fire for allegedly objectifying Janhvi Kapoor's character Achiyyamma, an April interview in which the actor spoke candidly about consent, over-sexualisation, and her right to object to uncomfortable camera angles has gone viral. Janhvi's remarks made on Raj Shamani's podcast draw a clear line between sensuality she has agreed to and sexualisation imposed without her knowledge or consent, reigniting a wider conversation about the portrayal of women in Indian cinema.",
     "img": "https://static.toiimg.com/photo/msid-131529801,imgsize-241074.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sexualising-someone-without-their-consent-im-not-okay-with-that-janhvi-kapoors-old-interview-resurfaces-amid-peddi-backlash-over-achiyyammas-portrayal/articleshow/131529711.cms",
     "time": "2026-06-05T11:14:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nushrratt makes a confident first public appearance",
-    "desc": "Nushrratt Bharuccha made a confident and stylish public appearance at the launch of Ekatra Jewels in Mumbai on June 4, amid a viral audio controversy. The actress, who had clarified that the disputed sounds in her deleted Instagram story were simply those of a puppy, appeared completely unfazed.",
-    "img": "https://static.toiimg.com/photo/msid-131529770,imgsize-26386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-viral-audio-controversy-nushrratt-bharuccha-makes-a-confident-first-public-appearance-shows-no-signs-of-being-affected/articleshow/131529770.cms",
-    "time": "2026-06-05T11:01:40.000Z"
   },
   {
     "cat": "Sports",
@@ -619,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/what-must-world-champion-d-gukesh-do-to-avoid-finishing-last-at-norway-chess-2026/articleshow/131527989.cms",
     "time": "2026-06-05T09:53:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Swift’s Movie Soundtrack Originals",
-    "desc": "Taylor Swift returns to her country roots with 'I Knew It, I Knew You' for 'Toy Story 5,' reflecting on reconciliation. The article highlights her past contributions to film soundtracks, including 'Safe & Sound' for 'The Hunger Games,' 'I Don't Wanna Live Forever' for 'Fifty Shades Darker,' and 'Today Was A Fairytale' from her acting debut in 'Valentine's Day.'",
-    "img": "https://static.toiimg.com/photo/msid-131528211,imgsize-58096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-drops-i-knew-it-i-knew-you-from-toy-story-5-every-time-pop-icon-wrote-original-songs-for-movie-soundtracks/articleshow/131528192.cms",
-    "time": "2026-06-05T09:52:46.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/10-year-old-kerala-girl-with-down-syndrome-breaks-barriers-in-music/article71056109.ece",
     "time": "2026-06-03T13:21:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karisma Kapoor on her makeover in ‘Brown’: ‘The role was stripped of everything possible’",
-    "desc": "Karisma Kapoor, Jisshu Sengupta and Abhinay Deo open up about their upcoming thriller series, ‘Brown’, why Karisma didn’t want to be part of the show at first, how Abhinay worked on the visuals, Karisma’s thoughts on working in films after taking a break and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/oeh591/article71052445.ece/alternates/LANDSCAPE_1200/Karisma%20Kapoor.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/karisma-kapoor-on-her-makeover-in-brown-the-role-was-stripped-of-everything-possible/article71051813.ece",
-    "time": "2026-06-03T11:40:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "It is not just songs, Ilaiyaraaja is also integral to ‘Manjanathi’: Mari Selvaraj",
-    "desc": "“Whenever the name Manjanathi came to my mind, I thought of adapting it into a film. Even then, I had decided that maestro Ilaiyaraaja should compose the music. When I met him and narrated the story, he agreed to score it,” the director said.",
-    "img": "https://th-i.thgim.com/public/latest-news/mth35a/article71054305.ece/alternates/LANDSCAPE_1200/IMG_1283.JPG.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/it-is-not-just-songs-ilaiyaraaja-is-also-integral-tomanjanathi-says-mari-selvaraj/article71054340.ece",
-    "time": "2026-06-03T07:42:46.000Z"
   }
 ];
