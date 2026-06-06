@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Is Argentina captain fit to start FIFA World Cup 2026? Scaloni shares",
+    "desc": "Argentina received an encouraging update ahead of the FIFA World Cup 2026. Head coach Lionel Scaloni revealed that captain Lionel Messi is making good progress in his recovery from a recent muscle problem and could...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-fitness-update-is-argentina-captain-fit-to-start-fifa-world-cup-2026-scaloni-shares-2026-06-06-1043877",
+    "time": "2026-06-06T12:26:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul, Shubman Gill's century highlights India's dominance on Day 1 of one-off Test vs Afghanistan",
+    "desc": "India dominated the proceedings with the bat on Day 1 of the one-off Test against Afghanistan in New Chandigarh. Opting to bat first, opener KL Rahul set the tone of the day with his charismatic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-shubman-gill-s-century-highlights-india-s-dominance-on-day-1-of-one-off-test-vs-afghanistan-2026-06-06-1043874",
+    "time": "2026-06-06T11:55:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Rajat Patidar wasn't considered for India's T20I squad despite back-to-back titles with RCB?",
+    "desc": "Despite leading Royal Challengers Bengaluru to back-to-back IPL titles, Rajat Patidar wasn’t considered for the India team for the upcoming T20I series against Ireland and England. He wasn’t picked in the squad for the Asian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-rajat-patidar-wasn-t-considered-for-india-s-t20i-squad-despite-back-to-back-titles-with-rcb-2026-06-06-1043871",
+    "time": "2026-06-06T11:32:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KL Rahul set new benchmark with century vs Afghanistan, Shubman Gill behind him",
     "desc": "India seized control of the opening day of the one-off Test against Afghanistan in New Chandigarh as opener KL Rahul combined a century with a major career milestone in First-Class cricket. The 34-year-old struck his...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bit-of-a-dream-emilio-gay-opens-up-after-half-century-on-debut-against-new-zealand-2026-06-06-1043834",
     "time": "2026-06-06T05:06:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India opt to bat first against Afghanistan in New Chandigarh, Manav Suthar gets his debut",
-    "desc": "India and Afghanistan take on each other for the one-off Test of the multi-format series. The two sides meet at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, and the clash began on a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-opt-to-bat-first-against-afghanistan-in-new-chandigarh-manav-suthar-gets-his-debut-2026-06-06-1043825",
-    "time": "2026-06-06T03:40:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Praggnanandhaa scripts history, becomes first Indian to clinch Norway Chess title",
-    "desc": "In a major development, Indian Grandmaster R. Praggnanandhaa has scripted history and become the first Indian in history to win the Norway Chess title. He defeated Vincent Keymer and completed a stunning run of four...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/praggnanandhaa-scripts-history-becomes-first-indian-to-clinch-norway-chess-title-2026-06-06-1043820",
-    "time": "2026-06-06T02:26:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will the surface at MYS Int'l Cricket Stadium in Mullanpur play for the only Test?",
-    "desc": "The stage is set for the multi-format series between India and Afghanistan. The two sides will meet in the only Test of the series at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-v-afg-pitch-report-how-will-the-surface-at-mys-int-l-cricket-stadium-in-mullanpur-play-for-the-only-test-2026-06-06-1043817",
-    "time": "2026-06-06T01:39:48.000Z"
   }
 ];
