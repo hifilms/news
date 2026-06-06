@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mirra Andreeva clinches French Open at just 19, beats Maja Chwalinska",
+    "desc": "Mirra Andreeva claimed her maiden Grand Slam title at the French Open. She defeated Polish qualifier Maja Chwalinska in the final at Roland Garros on Saturday. The 19-year-old Russian delivered a composed performance to win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/youngest-since-monica-seles-mirra-andreeva-clinches-french-open-at-just-19-beats-maja-chwalinska-2026-06-06-1043891",
+    "time": "2026-06-06T15:31:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma, Suryakumar Yadav congratulate Shreyas Iyer for becoming new India T20I captain",
+    "desc": "Shreyas Iyer has been named as India’s new T20I captain. Suryakumar Yadav was axed from his role despite winning the T20 World Cup 2026 and not losing a single bilateral series. He has been completely...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-suryakumar-yadav-congratulate-shreyas-iyer-for-becoming-new-india-t20i-captain-watch-video-2026-06-06-1043889",
+    "time": "2026-06-06T14:38:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India Hockey teams secure gold and bronze at U18 Asia Cup 2026, PM Modi congratulates",
+    "desc": "India’s junior hockey program celebrated a dual podium finish on Saturday as the men's under-18 team captured the continental title and the women's side secured a bronze medal at the U18 Asia Cup 2026. The Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/india-hockey-teams-secure-gold-and-bronze-at-u18-asia-cup-2026-pm-modi-congratulates-2026-06-06-1043884",
+    "time": "2026-06-06T14:05:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Is Argentina captain fit to start FIFA World Cup 2026? Scaloni shares",
     "desc": "Argentina received an encouraging update ahead of the FIFA World Cup 2026. Head coach Lionel Scaloni revealed that captain Lionel Messi is making good progress in his recovery from a recent muscle problem and could...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-named-india-s-t20i-captain-for-england-ireland-series-sky-removed-vaibhav-sooryavanshi-picked-2026-06-06-1043851",
     "time": "2026-06-06T07:48:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very wrong': R Ashwin gives his take on Vaibhav Sooryavanshi's potential inclusion in India's T20I squad",
-    "desc": "The BCCI (Board of Control for Cricket in India) is all set to announce the Indian team’s squad for the upcoming Ireland and England series. It is worth noting that with the squad announcement, there...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/very-wrong-r-ashwin-gives-his-take-on-vaibhav-sooryavanshi-s-potential-inclusion-in-india-s-t20i-squad-2026-06-06-1043846",
-    "time": "2026-06-06T07:17:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar pauses speech to answer wife's phone call, wins netizens' hearts: Watch",
-    "desc": "Legendary former India cricketer Sunil Gavaskar has gone viral once more. The former India great has captured netizens’ attention after being seen answering a phone call from his wife during his keynote address at an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-pauses-speech-to-answer-wife-s-phone-call-wins-netizens-hearts-watch-2026-06-06-1043841",
-    "time": "2026-06-06T06:36:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Bit of a dream': Emilio Gay opens up after half-century on debut against New Zealand",
-    "desc": "England have been exceptional with the ball in the first Test of their series against New Zealand. The two sides met at the Lord’s Cricket Ground in London for the first Test, and after being...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bit-of-a-dream-emilio-gay-opens-up-after-half-century-on-debut-against-new-zealand-2026-06-06-1043834",
-    "time": "2026-06-06T05:06:51.000Z"
   }
 ];

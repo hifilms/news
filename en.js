@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'I have an autoimmune condition'",
+    "desc": "Filmmaker Vikram Bhatt, who spent 70 days in jail over a fraud case, has revealed the harrowing experience, including a near-death encounter due to severe health complications. He spoke of unexpected friendships formed with fellow inmates and the kindness of prison officials, highlighting a profound connection with the common Indians who form his audience.",
+    "img": "https://static.toiimg.com/photo/msid-131555004,imgsize-29770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-says-he-almost-died-as-he-recalls-70-days-spent-in-jail-in-rs-30-crore-fraud-case-reveals-mithun-chakraborty-sanjay-dutt-ajay-devgn-called-him/articleshow/131555024.cms",
+    "time": "2026-06-06T15:55:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC ruling on creamy layer prompts demand for JEE category revision",
+    "desc": "SC holds that parental income from salary and agriculture cannot be the sole basis for determining creamy layer status. In Kerala, OBC students are denied non-creamy layer certificates if their parents earn more than ₹8 lakh annually through salary or agriculture, forcing them to apply for JEE under the general category. Students now argue that SC order makes many of those denied NCL certificates eligible for OBC reservation.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/sc-ruling-on-creamy-layer-prompts-demand-for-jee-category-revision/article71070330.ece",
+    "time": "2026-06-06T15:48:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aishwarya Rai, Akshaye Khanna's Miami performance on Taal goes viral: VIDEO",
+    "desc": "A resurfaced video of Akshaye Khanna and Aishwarya Rai dancing to 'Taal Se Taal Mila' in Miami has reignited fan adoration for the iconic 1999 film. Their chemistry is praised, alongside Khanna's past candid compliment about Rai's beauty. Director Subhash Ghai also hinted at a potential sequel, nearing completion.",
+    "img": "https://static.toiimg.com/photo/msid-131554899,imgsize-25820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-akshaye-khannas-stage-performance-in-miami-on-taal-song-goes-viral-netizens-react/articleshow/131554894.cms",
+    "time": "2026-06-06T15:42:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Government cut off command': Tej Pratap Yadav on withdrawal of security personnel from Rabri's residence",
+    "desc": "Former Bihar CM Rabri Devi and Lalu Prasad Yadav's security status is embroiled in a political spat. Their son, Tej Pratap Yadav, accused CM Samrat Choudhary of playing politics over the issue, while the government defended its security reassessment. The family has been asked to vacate their 10 Circular Road residence.",
+    "img": "https://static.toiimg.com/photo/msid-131554603,imgsize-500635.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-cut-off-command-tej-pratap-yadav-on-withdrawal-of-security-personnel-from-rabris-residence/articleshow/131554595.cms",
+    "time": "2026-06-06T15:25:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Student from Dharwad secures second rank in CET (Agriculture stream)",
+    "desc": "Anmol Prabhu, a student of Arjun PU College in Dharwad has secured the second rank in the Agriculture stream in the Common Entrance Test, the results of which were announced by Karnataka Examination Authority on Saturday",
+    "img": "https://th-i.thgim.com/public/incoming/iwt1u0/article71070485.ece/alternates/LANDSCAPE_1200/2699_6_6_2026_19_41_24_1_07HUBLIANMOLPRABHU.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/student-from-dharwad-secures-second-rank-in-cet-agriculture-stream/article71070030.ece",
+    "time": "2026-06-06T15:10:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over 'dragging youth into negative politics'",
+    "desc": "BJP national president Nitin Nabin took a veiled dig at CJP for attempting to steer India's youth towards \"negative politics.\" Speaking in Ranchi, he asserted that the nation's youth are focused on national development and securing their future, vowing to counter such attempts democratically. Nabin also emphasized the crucial role of farmers in India's progress.",
+    "img": "https://static.toiimg.com/photo/msid-131554565,imgsize-186610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/people-sitting-abroad-bjp-chiefs-veiled-attack-at-cjp-protest-over-dragging-youth-into-negative-politics/articleshow/131553999.cms",
+    "time": "2026-06-06T14:59:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay needed a shock to get over his drug addiction, said Rajiv Rai after removing him from Yudh",
+    "desc": "On Sunil Dutt's birth anniversary, a lesser-known chapter reveals his fatherly devotion. Filmmaker Rajiv Rai recounts Sunil Dutt's repeated pleas to reinstate Sanjay Dutt in the film 'Yudh' after substance abuse issues led to his removal. Rajiv prioritized Sanjay's well-being, believing the drastic step was necessary for his recovery and future.",
+    "img": "https://static.toiimg.com/photo/msid-131553845,imgsize-25852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutt-needed-a-shock-to-get-over-his-drug-addiction-said-rajiv-rai-to-his-father-sunil-dutt-after-being-removed-from-yudh/articleshow/131553786.cms",
+    "time": "2026-06-06T14:27:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israeli forces kill Palestinian baby in occupied West Bank, say health officials",
+    "desc": "Israeli soldiers accused of harming Palestinians are rarely penalised and were indicted in fewer than 1% of cases based on 2,427 complaints alleging wrongdoing between 2016 and 2024, according to Israeli rights group Yesh Din",
+    "img": "https://th-i.thgim.com/public/incoming/p230rk/article71070229.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_West_Bank_Baby_Killed__3976.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israeli-forces-kill-palestinian-baby-in-occupied-west-bank-say-health-officials/article71070181.ece",
+    "time": "2026-06-06T14:20:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Afghanistan one-off Test: Rahul, Gill hundreds put India in command",
+    "desc": "The opener makes the most of an early reprieve while the skipper oozes class as the home team amasses 368 for three on the opening day; Sai Sudharsan and Pant, too, get going on a flat pitch",
+    "img": "https://th-i.thgim.com/public/incoming/gk5cs2/article71069723.ece/alternates/LANDSCAPE_1200/PTI06_06_2026_000371B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-afghanistan-one-off-test-mullanpur-day-1/article71068471.ece",
+    "time": "2026-06-06T14:08:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "EXCLUSIVE| Ponting hails Iyer’s rise to India captaincy: 'Recognition of hard work':",
+    "desc": "“I've been the one endorsing him for the role and telling the Indian selectors that if they give him a chance, I don't think they'll be disappointed. As I said, it's a great achievement. It's terrific recognition for the hard work he has put in over a long period of time, and I'm sure he'll do a great job as captain of India,” Ponting added.",
+    "img": "https://static.toiimg.com/photo/msid-131553471,imgsize-59082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/exclusive-great-recognition-of-hard-work-ricky-ponting-hails-shreyas-iyers-rise-to-india-t20-captaincy/articleshow/131552356.cms",
+    "time": "2026-06-06T14:05:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Blake Lively goes on a frozen yoghurt date with Ryan Reynolds",
+    "desc": "Blake Lively and Ryan Reynolds enjoyed a frozen yogurt date in New York City, sharing their dessert choices on Instagram. This outing occurred amidst legal proceedings involving Justin Baldoni, where Lively sought legal fees after their lawsuit was settled before the scheduled date. Both actors' legal teams declared the resolution a significant victory.",
+    "img": "https://static.toiimg.com/photo/msid-131553537,imgsize-76004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-goes-on-a-frozen-yoghurt-date-with-ryan-reynolds-amid-legal-troubles-with-justin-baldoni-pineapple-flavor-is-bonkers/articleshow/131553551.cms",
+    "time": "2026-06-06T14:05:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sudharsan thanks Gambhir and Gill for unconditional support",
+    "desc": "Sai Sudharsan, backed by coach Gautam Gambhir and captain Shubman Gill, expressed immense freedom after scoring a gritty 81 against Afghanistan. He highlighted the mental certainty provided by their support, allowing him to play his natural game. Sudharsan also praised KL Rahul's composure and game-reading during their substantial partnership, emphasizing tactical adjustments made after IPL.",
+    "img": "https://static.toiimg.com/photo/msid-131552933,imgsize-104550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sai-sudharsan-thanks-gautam-gambhir-and-shubman-gill-for-unconditional-support/articleshow/131552756.cms",
+    "time": "2026-06-06T13:37:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Share of Russian oil in Indian imports rises to 38%, premium paid jumps 425% in April 2026",
+    "desc": "Russia’s share stood at about 34% in terms of the volume of India’s oil imports in April 2026. At the same time, India’s dependence on oil from the U.S. fell to multi-month lows in terms of both value and volume.",
+    "img": "https://th-i.thgim.com/public/incoming/5nt4ts/article71069566.ece/alternates/LANDSCAPE_1200/2025-12-17T062852Z_1145424571_RC2G2Y9XFAVR_RTRMADP_3_INDIA-RUSSIA-OIL.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/share-of-russian-oil-in-indian-imports-rises-april-2026/article71069500.ece",
+    "time": "2026-06-06T13:22:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sourav Ganguly denies reports of mediating between Mamata Banerjee &amp; Yusuf Pathan; CJP protest ends at Jantar Mantar &amp; more",
+    "desc": "Sourav Ganguly has refuted claims of mediating between Mamata Banerjee and Yusuf Pathan regarding resignation. Suryakumar Yadav backs the Indian team after losing T20 captaincy. Iran's missile and drone attacks on Kuwait and Bahrain were intercepted. A protest at Jantar Mantar concluded, demanding action on exam irregularities. Meanwhile, Rosneft CEO noted US firms benefit from Hormuz disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-131552739,imgsize-29716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-sourav-ganguly-denies-reports-of-mediating-between-mamata-banerjee-yusuf-pathan-cjp-protest-ends-at-jantar-mantar-more/articleshow/131552281.cms",
+    "time": "2026-06-06T13:16:12.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'A little bit of grace': Afghanistan coach weighs in on Rahul's controversial reprieve",
     "desc": "Afghanistan coach Richard Pybus on Saturday took a sly dig at KL Rahul after the India opener chose not to walk despite edging the ball behind the stumps. At that stage, Rahul was batting on 16 and went on to complete his 12th Test hundred.",
@@ -9,13 +135,13 @@ const newsData_en = [
     "time": "2026-06-06T13:11:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Several sustainability initiatives taken up, says SWR GM",
-    "desc": "General Manager of South Western Railway P. Ananth has said that the railway zone had taken up several sustainability initiatives including green infrastructure, full electrification, solar installations and freight optimization by shifting bulk commodities from road to rail to reduce emissions.",
-    "img": "https://th-i.thgim.com/public/incoming/iouvsg/article71069847.ece/alternates/LANDSCAPE_1200/2699_10_4_2026_20_57_7_1_11HUBLISWRNEWGM.JPEG",
+    "cat": "Entertainment",
+    "title": "Marjane Satrapi, ‘Persepolis’ and Panahi: Why Iranian cinema sees history through a child’s eyes",
+    "desc": "In the works of Marjane Satrapi, Jafar Panahi, Abbas Kiarostami and Mohsen Makhmalbaf, children are more than protagonists. They are the eyes through which Iran sees itself. OR From lost notebooks and goldfish to revolutions and exile, Iranian artists have repeatedly trusted children to tell their nation’s most complicated stories.",
+    "img": "https://th-i.thgim.com/public/incoming/m6et3w/article71068460.ece/alternates/LANDSCAPE_1200/image%2018.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/several-sustainability-initiatives-taken-up-says-swr-gm/article71069794.ece",
-    "time": "2026-06-06T13:02:51.000Z"
+    "url": "https://www.thehindu.com/entertainment/marjane-satrapi-persepolis-and-panahi-why-iranian-cinema-sees-history-through-a-childs-eyes/article71068405.ece",
+    "time": "2026-06-06T13:10:50.000Z"
   },
   {
     "cat": "Politics",
@@ -25,15 +151,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/dont-leave-we-have-pm-modi-bjp-tn-chiefs-appeal-to-cadres-after-mass-resignations-post-annamalai-exit/articleshow/131551551.cms",
     "time": "2026-06-06T12:46:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Share of Russian oil in Indian imports rises to 38%, premium paid jumps 425% in April 2026",
-    "desc": "Russia’s share stood at about 34% in terms of the volume of India’s oil imports in April 2026. At the same time, India’s dependence on oil from the U.S. fell to multi-month lows in terms of both value and volume.",
-    "img": "https://th-i.thgim.com/public/incoming/5nt4ts/article71069566.ece/alternates/LANDSCAPE_1200/2025-12-17T062852Z_1145424571_RC2G2Y9XFAVR_RTRMADP_3_INDIA-RUSSIA-OIL.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/share-of-russian-oil-in-indian-imports-rises-april-2026/article71069500.ece",
-    "time": "2026-06-06T12:44:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -52,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/seekh-lo-acting-lalit-parimoo-dishes-out-blunt-advice-to-janhvi-kapoor-ananya-panday-and-shanaya-kapoor-amid-trolling/articleshow/131551892.cms",
     "time": "2026-06-06T12:28:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Forest dept. introduces India’s first judiciary-integrated digital system for wildlife offences",
-    "desc": "The HAWK (Hostile Activity Watch Kernel) eliminates the reliance on physical paperwork by establishing a direct digital link to the District Court Management System, streamlining the prosecution of environmental crimes. The system enhances transparency and real-time tracking of cases, enabling officials to monitor crime patterns and case progress across the state.",
-    "img": "https://th-i.thgim.com/public/incoming/p4o4vh/article71069752.ece/alternates/LANDSCAPE_1200/IMG_iStock-1283061739_2_1_CIFTSFJO.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-forest-dept-introduces-indias-first-judiciary-integrated-digital-system-for-wildlife-offences/article71069629.ece",
-    "time": "2026-06-06T12:27:55.000Z"
   },
   {
     "cat": "Sports",
@@ -115,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/india-vs-afghanistan-kl-rahul-sheds-t20-edginess-sai-sudharsan-makes-the-most-of-long-rope/articleshow/131551352.cms",
     "time": "2026-06-06T11:52:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kaziranga National Park records 30 raptor and six stork species",
-    "desc": "The rapid survey of these specific birds was conducted in February-March earlier this year; the enumerators recorded 217 individual raptors — buzzards, eagles, falcons, owls, and vultures — across 30 species and 266 individual storks across six species",
-    "img": "https://th-i.thgim.com/public/news/aq05cy/article71069384.ece/alternates/LANDSCAPE_1200/Black-necked%20stork.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kaziranga-national-park-records-30-raptor-and-six-stork-species/article71069139.ece",
-    "time": "2026-06-06T11:48:20.000Z"
   },
   {
     "cat": "Sports",
@@ -189,24 +288,6 @@ const newsData_en = [
     "time": "2026-06-06T11:21:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Regional parties assert independence, stress national interest",
-    "desc": "Rajya Sabha members Javed Ali Khan (Samajwadi Party), Santrupt Misra (Biju Janata Dal) and former BRS Parliamentary leader K.R. Suresh Reddy speak about raising issues of regional interest at the national level and the idea of holding simultaneous elections for both Parliament and State Assemblies",
-    "img": "https://th-i.thgim.com/public/news/national/w6ih7b/article71068743.ece/alternates/LANDSCAPE_1200/nurturing%20pluralist.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-the-role-of-regional-politics-in-strengthening-democracy/article71069093.ece",
-    "time": "2026-06-06T11:17:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Abnormal rise in price of cotton yarn hits the textile industry in Karur",
-    "desc": "One kg of yarn with high counts rose to ₹400, from ₹300 and textile industry sources say the removal of import duty on yarn by the Centre has brought partial relief to the units in Tiruppur",
-    "img": "https://th-i.thgim.com/public/incoming/2s6hgp/article71069482.ece/alternates/LANDSCAPE_1200/textile%20mill%2024.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/abnormal-rise-in-price-of-cotton-yarn-hits-the-textile-industry-in-karur/article71065883.ece",
-    "time": "2026-06-06T11:06:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Agarkar drops bombshell, reveals Iyer was 'quite close' to India's T20 WC squad",
     "desc": "Shreyas Iyer has been appointed captain for India's upcoming T20 tours of Ireland and England, marking his return to the T20 setup. Teenage prodigy Vaibhav Sooryavanshi also earned a historic maiden call-up as the youngest player ever selected for an Indian team. This signals a new direction for India's T20 squad.",
@@ -243,24 +324,6 @@ const newsData_en = [
     "time": "2026-06-06T10:32:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "UNSC membership huge responsibility, not forum for peddling biased, false narratives: India slams Pakistan",
-    "desc": "Pakistan, which constantly raises the issue of Jammu and Kashmir as well as other topics internal to India at various UN platforms, currently sits in the Security Council as a non-permanent member and its tenure will end this year",
-    "img": "https://th-i.thgim.com/public/incoming/qz9ab/article71068412.ece/alternates/LANDSCAPE_1200/Harish.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/unsc-membership-huge-responsibility-not-forum-for-peddling-biased-false-narratives-india-slams-pakistan/article71068388.ece",
-    "time": "2026-06-06T10:08:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi court",
-    "desc": "In a case the court was hearing, the judge held that the husband, described as an able-bodied person, was capable of paying maintenance and directed him to pay ₹6,000 per month towards the upkeep of the child till he attains maturity",
-    "img": "https://th-i.thgim.com/public/news/national/wk8wtz/article71069349.ece/alternates/LANDSCAPE_1200/iStock-1198229874.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/husband-cannot-evade-duty-towards-child-citing-unemployment-delhi-court/article71069294.ece",
-    "time": "2026-06-06T10:07:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Can RBI shield rupee from further fall? Analysts expect up to $75 billion in fresh inflows",
     "desc": "The Reserve Bank of India's recent monetary policy measures aim to bolster the rupee by attracting significant capital inflows, estimated between $40-75 billion. Despite rising inflation and revised growth forecasts, the Monetary Policy Committee is expected to maintain the repo rate at 5.25% with a neutral stance in August, prioritizing stability and external sector defense.",
@@ -277,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-and-nayanthara-to-shoot-high-octane-chase-sequences-in-bandra-after-wrapping-manali-schedule/articleshow/131549158.cms",
     "time": "2026-06-06T10:01:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inde Navarrette’s debut before ‘Obsession’",
-    "desc": "Inde Navarrette's journey to stardom took a poignant turn with her early appearance in the indie short 'Cross Words Together' (2018), which preceded her acclaimed role in the horror sensation 'Obsession.' Directed by Shubham Sanjay Shevade, this touching narrative captured her youthful authenticity and the bittersweet essence of teenage love.",
-    "img": "https://static.toiimg.com/photo/msid-131548900,imgsize-51264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/obsession-what-inde-navarrette-did-before-her-breakthrough-role-all-you-need-to-know/articleshow/131548651.cms",
-    "time": "2026-06-06T09:43:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,31 +396,13 @@ const newsData_en = [
     "time": "2026-06-06T09:08:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "A.R. Rahman to perform concert to honor BSF at India-Pakistan Border",
-    "desc": "Ahead of the release of Imtiaz Ali's 'Main Vaapas Aaunga', legendary composer AR Rahman will perform at the Attari Border on June 7 in a special tribute titled 'Jai Ho - A Tribute to the Bravehearts', honouring the brave soldiers of the Border Security Force (BSF).",
-    "img": "https://static.toiimg.com/photo/msid-131548271,imgsize-21684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/a-r-rahman-to-perform-jai-ho-concert-to-honor-bsf-at-india-pakistan-attari-border-ahead-of-main-vaapas-aaunga-release/articleshow/131548271.cms",
-    "time": "2026-06-06T09:04:53.000Z"
-  },
-  {
     "cat": "Sports",
-    "title": "Virat Kohli replacement named for Afg ODIs, Agarkar delivers positive fitness update",
+    "title": "Kohli replacement named for Afg ODIs, Agarkar delivers positive fitness update",
     "desc": "Virat Kohli will miss the upcoming Afghanistan ODI series due to a hamstring injury sustained in the IPL final. Chief selector Ajit Agarkar confirmed the setback, stating Kohli might be fit for the England tour starting July 14. Yashasvi Jaiswal has been named as his replacement for the Afghanistan series, which begins June 13.",
     "img": "https://static.toiimg.com/photo/msid-131548053,imgsize-101218.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/virat-kohli-replacement-named-for-afghanistan-odis-ajit-agarkar-delivers-positive-fitness-update/articleshow/131547776.cms",
     "time": "2026-06-06T08:59:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Sethupathi dubs ‘Slumdog’ teaser in 3 languages",
-    "desc": "Vijay Sethupathi has lent his voice in Tamil, Telugu, and Hindi for the teaser of Puri Jagannadh's 'Slumdog - 33 Temple Road', set for release on June 8th. The film, featuring Tabu and Samyuktha, is in post-production with music composer Harshavardhan Rameshwar. Shooting is complete, with a theatrical release planned for June in five languages.",
-    "img": "https://static.toiimg.com/photo/msid-131548118,imgsize-160230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/slumdog-33-temple-road-puri-jagannadh-reveals-vijay-sethupathi-has-dubbed-teaser-in-three-languages-announces-release-date/articleshow/131547599.cms",
-    "time": "2026-06-06T08:52:17.000Z"
   },
   {
     "cat": "Tech",
@@ -468,24 +504,6 @@ const newsData_en = [
     "time": "2026-06-06T07:42:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Office Romance' X reviews",
-    "desc": "Jennifer Lopez stars as a CEO in the hit rom-com 'Office Romance,' released June 5, 2026. The film, featuring a dramatic meeting and challenging romance with a British lawyer played by Brett Goldstein, has captivated audiences. Fans are praising the chemistry between the leads and the humorous performances of the supporting cast, with many calling for more rom-coms from Lopez.",
-    "img": "https://static.toiimg.com/photo/msid-131546767,imgsize-26726.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/office-romance-x-reviews-fans-cant-get-enough-of-jennifer-lopez-brett-goldsteins-chemistry-going-to-watch-again-/articleshow/131546762.cms",
-    "time": "2026-06-06T07:23:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant joins Dhoni, Kirmani in exclusive Indian Test wicketkeeper club",
-    "desc": "Rishabh Pant achieved a significant milestone, becoming the third Indian wicketkeeper to play 50 Test matches. At 28, he joins legends Dhoni and Kirmani. Despite recent career challenges, Pant's Test record remains exceptional, marked by match-winning performances and a strong batting average. This achievement underscores his enduring value in the longest format of the game.",
-    "img": "https://static.toiimg.com/photo/msid-131546365,imgsize-793755.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/ind-vs-afg-rishabh-pant-joins-ms-dhoni-syed-kirmani-in-exclusive-indian-test-wicketkeeper-club/articleshow/131546300.cms",
-    "time": "2026-06-06T06:55:36.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Three African nationals quarantined for 21-days in Chhattisgarh's Durg",
     "desc": "Chhattisgarh has reported three suspected Ebola cases involving foreign nationals quarantined in Durg as a precautionary measure. State health minister assures preparedness, with hospitals and facilities on alert. This heightened vigilance follows WHO's classification of outbreaks in Uganda and DRC as a Public Health Emergency of International Concern.",
@@ -511,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bandar-box-office-collection-day-2-live-anurag-kashyaps-bobby-deol-starrer-crawls-towards-rs-1-crore-on-first-saturday/articleshow/131546269.cms",
     "time": "2026-06-06T06:48:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Marjane Satrapi, ‘Persepolis’ and Panahi: Why Iranian cinema sees history through a child’s eyes",
-    "desc": "In the works of Marjane Satrapi, Jafar Panahi, Abbas Kiarostami and Mohsen Makhmalbaf, children are more than protagonists. They are the eyes through which Iran sees itself. OR From lost notebooks and goldfish to revolutions and exile, Iranian artists have repeatedly trusted children to tell their nation’s most complicated stories.",
-    "img": "https://th-i.thgim.com/public/incoming/m6et3w/article71068460.ece/alternates/LANDSCAPE_1200/image%2018.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/marjane-satrapi-persepolis-and-panahi-why-iranian-cinema-sees-history-through-a-childs-eyes/article71068405.ece",
-    "time": "2026-06-06T06:20:32.000Z"
   },
   {
     "cat": "Business",
@@ -576,15 +585,6 @@ const newsData_en = [
     "time": "2026-06-06T03:57:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Record runs, record sixes, modest final: Explaining IPL 2026's biggest contradiction",
-    "desc": "After a season that rewrote IPL batting records - 27,450 runs, 1,426 sixes, 65 scores of 200-plus and nine successful 220-plus chases - the 2026 final produced a modest aggregate of 316 runs. Was it an anomaly or part of a larger trend? The TOI Data Desk analysis of all 19 IPL finals reveals that the belief that finals are traditionally low-scoring is largely a myth. Yet recent seasons suggest title deciders may be gradually trending below the scoring pace set during the league stage.",
-    "img": "https://static.toiimg.com/photo/msid-131544917,imgsize-115246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/record-runs-record-sixes-modest-final-explaining-ipl-2026s-biggest-contradiction/articleshow/131543677.cms",
-    "time": "2026-06-06T03:27:10.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "CJI",
     "desc": "In a recent address, Chief Justice Surya Kant urged the formation of an international legal framework to manage the transnational implications of AI technology. He warned that AI disrupts traditional notions of jurisdiction and accountability, giving rise to a troubling accountability deficit, particularly for self-governing systems.",
@@ -594,15 +594,6 @@ const newsData_en = [
     "time": "2026-06-06T02:56:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'If they are arrested': Sonam Wangchuk warns of six-week fast ahead of CJP protest",
-    "desc": "Climate activist Sonam Wangchuk will begin a 42-day hunger strike if members of the Cockroach Janta Party are arrested ahead of their Jantar Mantar protest. Wangchuk, traveling from Ladakh, urged supporters to maintain a peaceful demonstration, warning against provocations that could tarnish the youth-led movement. The protest seeks the education minister's resignation over examination irregularities.",
-    "img": "https://static.toiimg.com/photo/msid-131543457,imgsize-89626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/if-they-are-arrested-sonam-wangchuk-warns-of-six-week-fast-ahead-of-cjp-protest/articleshow/131543281.cms",
-    "time": "2026-06-06T02:48:34.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones",
     "desc": "Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordability and protect profit margins.",
@@ -610,33 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pocket-friendly-packets-why-indians-are-swapping-big-snack-packs-for-smaller-ones/articleshow/131543313.cms",
     "time": "2026-06-06T02:46:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'J&amp;K was, is and will remain part of India': New Delhi rebukes Pakistan at UN",
-    "desc": "At the UNGA, India took a bold stand against Pakistan, critiquing its manipulation of UN discussions for political leverage. The Indian envoy reaffirmed that Jammu and Kashmir is a core component of India, calling out Pakistan's attempts to distort facts as flimsy and ineffective.",
-    "img": "https://static.toiimg.com/photo/msid-131543103,imgsize-39348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jk-was-is-and-will-remain-part-of-india-new-delhi-rebukes-pakistan-at-un/articleshow/131543079.cms",
-    "time": "2026-06-06T01:49:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CBSE extends post-result application deadline after students flag portal issues",
-    "desc": "CBSE has extended the deadline for Class 12 answer sheet verification and re-evaluation applications to June 7 due to portal access issues. This decision offers students more time to address concerns about scanned copies and evaluation discrepancies. The board previously opened its portal for students to report issues like missing pages or incorrect answer sheets.",
-    "img": "https://static.toiimg.com/photo/msid-131542955,imgsize-39706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cbse-extends-post-result-application-deadline-after-students-flag-portal-issues/articleshow/131542957.cms",
-    "time": "2026-06-06T01:08:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Praggnanandhaa becomes first Indian to raid Carlsen's backyard, win Norway Chess title",
-    "desc": "Rameshbabu Praggnanandhaa has achieved a historic victory at Norway Chess, becoming the first Indian to win the prestigious tournament. He secured the title by defeating Vincent Keymer in a classical game, with a draw between Wesley So and Alireza Firouzja sealing his win. This triumph marks a significant moment for Indian chess.",
-    "img": "https://static.toiimg.com/photo/msid-131542941,imgsize-59644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-becomes-first-indian-to-raid-magnus-carlsens-backyard-win-historic-title/articleshow/131542938.cms",
-    "time": "2026-06-06T01:01:54.000Z"
   },
   {
     "cat": "Business",
@@ -855,15 +819,6 @@ const newsData_en = [
     "time": "2026-06-05T05:48:00.000Z"
   },
   {
-    "cat": "World",
-    "title": "Is the war in Ukraine escalating?",
-    "desc": "Are civilian targets becoming central to battlefield strategy? Could the Ukraine war trigger a wider global crisis? Are external powers deepening their involvement in Ukraine? Is growing public discontent weakening support for the war in Russia?",
-    "img": "https://th-i.thgim.com/public/incoming/f4hwcn/article71062471.ece/alternates/LANDSCAPE_1200/2026-05-24T141640Z_1353424207_RC2MFLAACZBR_RTRMADP_3_UKRAINE-CRISIS-LUHANSK-ATTACK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/is-the-war-in-ukraine-escalating/article71060739.ece",
-    "time": "2026-06-05T05:26:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anju’s Cafe in Ranga Shankara turns 20",
     "desc": "Anju Sudharshan started her namesake cafe in the Ranga Shankara theatre after a chance encounter with the founder Arundhati Nag. We trace how the cafe became the heart of the institution in Bengaluru, and a space for reviews, discussions and piping hot akki rotis",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/shreyas-tare-combine-powers-falcons-to-a-win/article71061855.ece",
     "time": "2026-06-04T19:22:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Karnataka’s electric vehicle users face charging, cost and infrastructure hurdles",
+    "desc": "While Bengaluru leads Karnataka’s transition towards electric mobility, vehicle owners say inadequate charging infrastructure, long charging times, and high purchase cost continue to pose challenges for wider adoption. Darshan Devaiah and Mini Tejaswi take an overview of the EV scenario on World Environment Day",
+    "img": "https://th-i.thgim.com/public/incoming/lx362y/article71060364.ece/alternates/LANDSCAPE_1200/Heavy-industrieG6IFDF1VS.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/ev-dream-meets-reality-karnatakas-electric-vehicle-users-face-charging-cost-and-infrastructure-hurdles/article71050241.ece",
+    "time": "2026-06-04T13:28:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "S.P. Charan on finding his own voice",
+    "desc": "How does SP Charan take to comparisons with his late legendary father, SP Balasubrahmanyam? “I’ve made peace with it,” says the singer-actor, who is currently putting together a musical tribute, SPB 80. In a detailed interview with ‘The Hindu’, Charan talks about handling the pressures of being SPB’s son, how he handled the recognition and how he now plans to carry the legacy forward. Charan also talks about his role as a producer and what cinema taught him.",
+    "img": "https://th-i.thgim.com/public/incoming/m0vt1d/article71060880.ece/alternates/LANDSCAPE_1200/5.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-sp-charan-on-finding-his-own-voice/article71060883.ece",
+    "time": "2026-06-04T11:30:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee falls 7 paise to close at 95.83 against U.S. dollar",
+    "desc": "At the interbank foreign exchange market, the rupee opened at 95.70 against the U.S. dollar, then touched an intra-day low of 95.85 and a high of 95.59 before closing at 95.83 (provisional), down 7 paise from its previous close",
+    "img": "https://th-i.thgim.com/public/incoming/36lhrt/article71060792.ece/alternates/LANDSCAPE_1200/2026-06-04T070239Z_1190929984_RC2TKKAT3PXJ_RTRMADP_3_INDIA-RUPEE-FORWARD-PREMIUMS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/rupee-falls-7-paise-to-close-at-9583-against-us-dollar/article71060734.ece",
+    "time": "2026-06-04T11:08:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Triptii Dimri on exploring comedy in ‘Maa Behen’: It’s not easy to make people laugh",
+    "desc": "Actors Triptii Dimri, Dharna Durga, and director Suresh Triveni talk about their upcoming dark comedy, ‘Maa Behen’. Triptii opens up on working on the heartland Hindi accent, her approach to comedy, how she chooses her scripts, and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/k6lv55/article71048375.ece/alternates/LANDSCAPE_1200/triptii%20cover%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/triptii-dimri-maa-behen-interview-suresh-triveni-madhuri-dixit-netflix-film/article71048250.ece",
+    "time": "2026-06-04T09:26:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Killer’ movie stuntman dies as cylinder explodes during shoot in Otteri",
+    "desc": "A large number of crew members were transferring carbon dioxide gas from a large cylinder to a smaller one for a fight sequence set within a ring of fire. During the transfer, one of the cylinders exploded, killing stuntman Madhan",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/xidhja/article71060289.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-04%20at%201.31.04%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/sj-suryah-killer-movie-stuntman-killed-as-cylinder-explodes-during-shoot-in-otteri/article71056291.ece",
+    "time": "2026-06-04T09:11:44.000Z"
   }
 ];
