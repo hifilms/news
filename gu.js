@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ભારત-બાંગ્લાદેશ આ ટબુકડા ટાપુ માટે ઝઘડતા રહ્યા અને અચાનક ગાયબ થઈ ગયો!",
+    "desc": "બે પાડોશી દેશ એક જમીનના ટુકડાં માટે વર્ષોથી ઝઘડતા હોય, બંને દેશોની સેનાઓ આમને સામને આવી જાય, સરકારોમાં બેઠકોનો દોર ચાલુ હોય અને પછી અચાનક ખબર પડે કે તે જમીન જ ગાયબ થઈ ગઈ તો શું થાય? આવું જ કઈક ભારત અને બાંગ્લાદેશ વચ્ચે બનેલું છે. શું તમને ખબર છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-bangladesh-dispute-over-a-island-know-why-suddenly-disappeared-480596 ",
+    "time": "2026-06-06T10:13:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "5 લાખ કે 14 લાખ? કેટલું મળશે એરિયર અને જાણો સંપૂર્ણ કેલ્ક્યુલેશન",
+    "desc": "જો સુધારેલા પગાર ધોરણ એપ્રિલ 2027માં શરૂ થાય છે, પરંતુ જાન્યુઆરી 2026થી અમલમાં આવે છે, તો કર્મચારીઓને 15 મહિના સુધીનું બાકી વેતન મળી શકે છે. જેને જોવામાં આવે તો સરકારી કર્મચારીઓને આ પ્રમાણે આટલું એરિયર મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/5-lakhs-or-14-lakhs-know-how-much-arrears-you-will-get-and-know-the-complete-calculation-480578 ",
+    "time": "2026-06-06T09:05:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "E85 પેટ્રોલ આવવાથી શું E20 પેટ્રોલવાળી ગાડીઓ બંધ થઈ જશે? લોકોની ચિંતા વધતા પેટ્રોલિમય મંત્રીએ કર્યો ખુલાસો",
+    "desc": "દેશભરમા E85 પેટ્રોલ અને E20 પેટ્રોલને લઈને મોટું કન્ફ્યૂઝન થઈ રહ્યું છે. એક તરફ પેટ્રોલના વધતા ભાવ ચિંતા કરાવી રહ્યાં છે, અને બીજી તરફ આ કન્ફ્યૂઝન. ત્યારે આ વચ્ચે જાણી લો E85 પેટ્રોલ અને E20 પેટ્રોલમાં શું તફાવત છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/petroleum-minister-clarification-on-discontinuation-of-e20-petrol-vehicles-due-to-e85-480576 ",
+    "time": "2026-06-06T08:36:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કપલ માટે મસ્ટ વોચ વેબ સીરીઝ, રવિવારે પાર્ટનર સાથે બેસીને જોવામાં મજા આવે તેવી 5 વેબ સીરીઝ",
+    "desc": "જો તમે પોતાના પાર્ટનર સાથે ઘરે બેસીને કોઈ સારી વેબ સીરીઝ જોવા માંગો છો પણ તમને ખબર નથી કે કઈ વેબ સીરીઝ જોવી તો ચાલો તમને ઓટીટીની 5 બેસ્ટ કપલ ફ્રેન્ડલી વેબ સીરીઝ વિશે જણાવીએ. આ 5 વેબ સીરીઝ પાર્ટનર સાથે જોવા માટે બેસ્ટ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/couple-friendly-hindi-web-series-on-netflix-and-prime-video-5-hindi-must-watch-web-series-for-couple-480575 ",
+    "time": "2026-06-06T08:30:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકી શેર બજારમાં અચાનક શું થયું? રોકાણકારોના 190 લાખ કરોડનું ધોવાણ, જાણો કારણ",
+    "desc": "અમેરિકામાં એવું તે શું થયું કે અચાનક શેર બજાર કડડડભૂસ થયું? અમરિકાના શેર બજાર માટે શુક્રવાર એ બ્લેક ફ્રાઈડે સમાન નોંધાયો. કોઈએ વિચાર્યું પણ નહીં હોય એવું બન્યું અને માત્ર બે કલાકની અંદર બજારમાં એવી તબાહી મચી કે રોકાણકારોના 190 લાખ કરોડનું ધોવાણ થઈ ગયું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/what-suddenly-happened-in-the-us-stock-market-investors-lost-rs-190-lakh-crore-480573 ",
+    "time": "2026-06-06T07:53:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બંદરને પાછળ છોડી આગળ નીકળી હૈ જવાની તો ઈશ્ક હોના હૈ મૂવી, IMDb પર મળ્યું હાઈ રેટિંગ",
+    "desc": "5 જૂને બોક્સ ઓફિસ પર એક સાથે 2 બોલીવુડ ફિલ્મો રિલીઝ થઈ છે. એક છે વરુણ ધવનની ફિલ્મ હૈ જવાની તો ઈશ્ક હોના હૈ અને બીજી છે બોબી દેઓલની ફિલ્મ બંદર. આ બંને ફિલ્મો બોક્સ ઓફિસ પર કેવું પરફોમ કરી રહી છે અને લોકોને આ ફિલ્મ કેવી લાગી ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/box-office-collection-bandar-vs-hai-jawani-toh-ishq-hona-hai-varun-dhawan-movie-hjtihh-imdb-rating-480571 ",
+    "time": "2026-06-06T07:47:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રિષભ પંતે રચ્યો ઈતિહાસ, એમએસ ધોનીના મહાન રેકોર્ડની કરી બરોબરી, ટેસ્ટ ક્રિકેટમાં હાસિલ કર્યો કીર્તિમાન",
+    "desc": "ટીમ ઈન્ડિયાના વિકેટકીપર-બેટર રિષભ પંતે ટેસ્ટ ક્રિકેટમાં વધુ એક સિદ્ધિ મેળવી છે. પંતે એક ખાસ ક્લબમાં એન્ટ્રી કરી લીધી છે. તે એમએસ ધોની અને સૈયદ કિરમાણી બાદ વિકેટકીપર-બેટર તરીકે 50 ટેસ્ટ મેચ રમનાર ત્રીજો ભારતીય બની ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rishabh-pant-becomes-third-wicketkeeper-to-play-50-test-matches-for-india-enters-dhoni-club-480564 ",
+    "time": "2026-06-06T07:18:20.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "સેફ્ટીમાં Tiago, માઇલેજમાં Celerio! ₹5 લાખના બજેટમાં કઈ કાર લેવી? ખરીદતા પહેલા જાણો",
     "desc": "નવી 2026 Tata Tiago ના લોન્ચ બાદ એન્ટ્રી-લેવલ હેચબેક સેગમેન્ટમાં મુકાબલો રસપ્રદ બની ગયો છે. એક તરફ ટિયાગો છે, જે 4-સ્ટાર સેફ્ટી, પ્રીમિયમ ફીચર્સ અને દમદાર લુકની સાથે આવે છે, તો બીજીતરફ Maruti Celerio છે, જે પોતાના શાનદાર માઇલેજ અને ઓછા રનિંગ કોસ્ટ માટે જાણીતી છે.",
@@ -423,24 +486,6 @@ const newsData_gu = [
     "time": "2026-06-03T10:50:08.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનાના ભાવમાં મોટો કડાકો,ચાંદી પણ ખુબ સસ્તી થઈ, આગળ શું રહેશે સ્થિતિ? જાણો 10 ગ્રામ સોનાનો આજનો ભાવ",
-    "desc": "સોના અને ચાંદીના ભાવમાં આજે જોરદાર કડાકો જોવા મળ્યો છે. વૈશ્વિક ડામાડોળ સ્થિતિના કારણે કિમતી ધાતુઓ પર દબાણ જોવા મળી રહ્યું છે. આજે સોનાના ભાવમાં 1000 રૂપિયા અને ચાંદીના ભાવમાં 3000 રૂપિયા સુધીનો કડાકો જોવા મળ્યો છે. ફટાફટ લેટેસ્ટ રેટ ખાસ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-became-cheaper-today-check-10-gram-gold-rate-aaj-no-sona-chandi-no-bhav-480256 ",
-    "time": "2026-06-03T09:59:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શું RBIએ ચુપચાપ વેચી દીધું ₹1.14 લાખ કરોડનું સોનું ? સરકારનું આવ્યું પહેલું નિવેદન, જાણો",
-    "desc": "એક મીડિયા રિપોર્ટમાં દાવો કરવામાં આવ્યો છે કે RBIએ શાંતિથી 12 બિલિયન ડોલર એટલે કે આશરે 1.14 લાખ કરોડ રૂપિયાનું સોનું વેચી દીધું છે. સેન્ટ્રલ બેંકે 22 મેના રોજ પૂરા થયેલા બે અઠવાડિયામાં આ સોનું વેચી દીધું છે. સરકારે હવે આ બાબતની સ્પષ્ટતા કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/did-rbi-silently-sell-gold-worth-rs-1-14-lakh-crore-the-government-gave-its-first-statement-know-the-truth-480252 ",
-    "time": "2026-06-03T09:35:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "અફઘાનિસ્તાન સામેની ODI શ્રેણી માટે કેવી હશે ભારતની પ્લેઇંગ XI ? કેપ્ટન ગિલ આ ખેલાડીઓને કરશે બહાર",
     "desc": "IPL 2026ના સમાપન પછી ટીમ ઈન્ડિયા હવે આ મહિને અફઘાનિસ્તાન સામે એક ટેસ્ટ મેચ અને ત્રણ મેચની વનડે આંતરરાષ્ટ્રીય શ્રેણી રમવાનું છે. ભારત અને અફઘાનિસ્તાન વચ્ચે ત્રણ મેચની વનડે શ્રેણી 13 જૂનથી 20 જૂન દરમિયાન રમાશે. બંને ટીમો વચ્ચે પ્રથમ વનડે મેચ 13 જૂને ધર્મશાળાના HPCA સ્ટેડિયમ ખાતે રમાશે.",
@@ -475,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/june-2026-box-office-release-list-june-2026-hindi-movies-box-office-list-480229 ",
     "time": "2026-06-03T07:12:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zની Unite8 Sports ચેનલ લોન્ચ, FIFA વર્લ્ડ કપ 2026 સહિત અનેક રમતોનું થશે પ્રસારણ",
-    "desc": "માહિતી અને પ્રસારણ મંત્રાલયની મંજૂરી બાદ Zeeએ Unite8 Sports હેઠળ ચાર સ્પોર્ટ્સ ચેનલો લોન્ચ કરી છે. આ ચેનલો 500થી વધુ ડિસ્ટ્રિબ્યુશન પ્લેટફોર્મ્સ પર ઉપલબ્ધ છે અને ફૂટબોલ, ક્રિકેટ સહિત અનેક રમતોનું પ્રસારણ કરશે. 11 જૂનથી શરૂ થતા FIFA World Cup 2026નું વિશિષ્ટ પ્રસારણ પણ આ ચેનલો પર થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/zee-unite8-sports-channels-live-fifa-world-cup-2026-broadcast-india-480212 ",
-    "time": "2026-06-03T05:54:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -648,15 +684,6 @@ const newsData_gu = [
     "time": "2026-05-29T09:13:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ફેમસ ટીવી સેલિબ્રિટીને થયું બ્રેસ્ટ કેન્સર, પોસ્ટ શેર કરી ફેન્સને કહ્યું, મારા માટે પ્રાર્થના કરો",
-    "desc": "ટીવીના જાણીતા સેલિબ્રિટી અને રિયાલીટી શોના વિનર શેફ પંકજ ભદૌરિયાને બ્રેસ્ટ કેન્સર થયું છે. આ વાત પંજક ભદૌરિયાએ સોશિયલ મીડિયા દ્વારા કંફર્મ કરી છે. સાથે જ તેણે ઈંસ્ટાગ્રામ સ્ટોરી શેર કરી જણાવ્યું હતું કે 29 મે ના રોજ તેની સર્જરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tv-celebrity-and-master-chef-show-winner-pankaj-bhadouria-diagnosed-breast-cancer-479613 ",
-    "time": "2026-05-29T07:22:16.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "7 લોકોના પરિવાર માટે શાનદાર છે આ 5 કાર, વેચાણમાં પણ છે નંબર-1; 26 km સુધી મળે છે માઇલેજ",
     "desc": "ભારતમાં 7-સીટર કારની માંગ સતત વધી રહી છે. લોકો ફેમિલી સફર માટે સેવન સીટર કાર ખરીદે છે. દેશમાં અનેક કંપનીઓ 7-સીટર કાર ઓફર કરી રહી છે. આજે અમે તમને ફેમિલી માટે પાંચ શાનદાર સેવન સીટર કાર વિશે માહિતી આપીશું.",
@@ -664,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/best-family-7-seater-cars-of-2026-toyota-innova-maruti-suzuki-ertiga-tata-safari-479597 ",
     "time": "2026-05-29T06:00:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "નથી કોઈ મૂર્તિ કે ખજાનો... તો પછી કાળા કપડાથી ઢંકાયેલા કાબાની અંદર શું છે, કોને મળે છે તેમાં જવાની પરવાનગી? જાણો",
-    "desc": "હજ યાત્રા સત્તાવાર રીતે શરૂ થઈ ગઈ છે. દુનિયાભરમાંથી લાખો યાત્રાળુઓ સાઉદી અરેબિયા પહોંચ્યા છે. યાત્રાળુઓ મક્કામાં કાબાની પરિક્રમા કરી રહ્યા છે અને વિશાળ તંબુ શહેર મીનામાં નમાઝ અદા કરી રહ્યા છે. આ દરમિયાન ચાલો જાણીએ કે કાબાની અંદર શું હોય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-is-inside-the-kaaba-covered-with-black-cloth-who-gets-permission-to-enter-it-know-479530 ",
-    "time": "2026-05-28T13:01:38.000Z"
   }
 ];

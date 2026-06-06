@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "NEET দুর্নীতির বিরুদ্ধে ককরোচ জনতা পার্টির গর্জন, দিল্লিতে সোনম ওয়াংচুকের ৪২ দিনের অনশনের হুঁশিয়ারি",
+    "desc": "নিট ও অন্যান্য সরকারি পরীক্ষার বেনিয়মের বিরুদ্ধে এবং শিক্ষামন্ত্রীর ইস্তফার দাবিতে দিল্লির যন্তর মন্তরে আছড়ে পড়ল 'ককরোচ জনতা পার্টি'র আন্দোলন। আমেরিকা থেকে ফিরে আন্দোলনের নেতৃত্ব দিচ্ছেন অভিজিৎ দীপকে। পাশে দাঁড়িয়ে ৪২ দিনের অনশনের হুঁশিয়ারি দিলেন সোনম ওয়াংচুক। হাতে লাঠি নয়, ফুল আর জলের বোতল নিয়ে অভিনব অহিংস প্রতিবাদের নজির গড়ল দেশের যুবসমাজ!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cjp-protest-delhi-jantar-mantar-abhijeet-dipke-sonam-wangchuk-neet-row_656934.html ",
+    "time": "2026-06-06T10:06:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ভারতকে নিষেধাজ্ঞা পালটা বুমেরাং-ই হবে, মোদীকে প্রশংসা- ঘুরিয়ে ট্রাম্পকে ওয়ার্নিং পুতিনের",
+    "desc": "ভারত ও রাশিয়ার সম্পর্ককে 'সর্বকালের এবং সব পরিস্থিতির বন্ধু' (All-weather ties) হিসেবে অভিহিত করে রুশ প্রেসিডেন্ট পুতিন দৃঢ়তার সঙ্গে ঘোষণা করেন, \"কেউ আমাদের নির্দেশ দিতে পারে না যে আমরা ভারতকে কী সরবরাহ করব আর কী করব না। আমাদের ডিক্টেট করার ক্ষমতা কারও নেই।\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/putin-warns-sanction-threats-against-india-will-boomerang-under-pm-modi_656910.html ",
+    "time": "2026-06-06T09:31:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বাজারে জ্বালানি বিপ্লব! পেট্রলের চড়া দামে আর হা হুতাশ নয়, ২০ টাকা সস্তা ফুয়েল এবার আপনারই জন্য",
+    "desc": "ভারতের জ্বালানি বাজারে এক বড় পরিবর্তন। গত শুক্রবার দেশে আনুষ্ঠানিকভাবে চালু হলো সম্পূর্ণ নতুন এক ধরনের জ্বালানি, যার নাম 'E85'। বিশ্ব পরিবেশ দিবসে নতুন দিল্লির একটি ইন্ডিয়ান অয়েল পেট্রোল পাম্পে কেন্দ্রীয় মন্ত্রী হরদীপ সিং পুরী এই নতুন জ্বালানির উদ্বোধন করেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/e85-fuel-launched-in-india-price-rs-20-cheaper-than-petrol-know-benefit-and-availability_656909.html ",
+    "time": "2026-06-06T09:05:24.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Abhishek Banerjee's Diamond Harbour FC: স্ক্যানারে অভিষেকের ডায়মন্ড হারবার এফসিও! ক্লাবের প্রতিষ্ঠা নিয়ে উঠেছে প্রশ্ন! আর্থিক অসঙ্গতিরও অভিযোগ... তদন্তে ক্রীড়া দফতর",
     "desc": "আতসকাচের তলায় এবার অভিষেকের বন্দ্যোপাধ্যায়ের ক্লাব ডায়মন্ড হারবার এফসি। তদন্তে নামতে পারে ইডিও! ক্রীড়ামন্ত্রীর চরম হুঁশিয়ারি। অভিষেকের কালো টাকা সাদা করারই কি সাপ্লাই লাইন ছিল ডায়মন্ড হারবার এফসি? বিধাননগর পৌর ক্রীড়া কমপ্লেক্সের মাঠ দখল করেই চলেছে অনুশীলন!",
@@ -142,15 +169,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/monkey-snatches-bag-with-2-lakh-rupees-showers-cash-from-tree-in-uttar-pradesh-court_656289.html ",
     "time": "2026-06-02T09:51:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২১৭২ কোটির ঋণ মাত্র ৫৭৯ কোটিতে রফা! কাঠগড়ায় সরকারি সংস্থা NARCL, আমজনতার ১৬০০ কোটির ক্ষতি?",
-    "desc": "ব্যাংকের টাকা জালিয়াতি ও ঋণ খেলাপিদের রুখতে প্রায় তিন বছর আগে সরকার গঠন করেছিল 'ন্যাশনাল অ্যাসেট রিকনস্ট্রাকশন কোম্পানি লিমিটেড' বা NARCL। এদের কাজ হল ব্যাংগুলোতে আটকে থাকা বড় বড় লোন বা 'ব্যাড লোন' উদ্ধার করা। জি মিডিয়ার হাতে আসা এক্সক্লুসিভ নথি ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/2172-crore-loan-settled-for-just-rs-579-crore-govt-body-narcl-under-fire-public-money-loss-of-rs1600-crore_656283.html ",
-    "time": "2026-06-02T08:42:43.000Z"
   },
   {
     "cat": "Entertainment",
