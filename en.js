@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Did Janhvi Kapoor oppose to her camera angles in Peddi? Leaked chats claim so",
+    "desc": "Screenshots allegedly showing Janhvi Kapoor expressing discomfort with certain camera angles during 'Peddi' filming have surfaced. The purported chats suggest she raised concerns about intimate shots, with co-star Ram Charan reportedly intervening. These leaked messages add a new dimension to the film's controversy, though their authenticity remains unconfirmed.",
+    "img": "https://static.toiimg.com/photo/msid-131558882,imgsize-49598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-janhvi-kapoor-oppose-to-her-camera-angles-in-peddi-leaked-chats-claim-so-ram-charan-said-no-to-objectify-her-no-waist-shots/articleshow/131558865.cms",
+    "time": "2026-06-06T20:15:22.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why did Supreme Court back curbs on online gaming?",
+    "desc": "What were the two sets of appeals concerning the regulation and taxation of online gaming platforms in front of the Court? What were the main objections raised by gaming companies against the GST levy? What are the likely consequences for India’s online gaming industry?",
+    "img": "https://th-i.thgim.com/public/incoming/19ew25/article71071090.ece/alternates/LANDSCAPE_1200/iStock-459435225.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-did-supreme-court-back-curbs-on-online-gaming-explained/article71070728.ece",
+    "time": "2026-06-06T19:58:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amid backlash over Janhvi's objectification in Peddi, Ratna Pathak's old video resurfaces",
+    "desc": "Janhvi Kapoor's film 'Peddi' faced backlash for objectifying her character, prompting discussions on actresses' choices. An old clip of Ratna Pathak Shah resurfaced, emphasizing the responsibility of actors to reject such roles. Bhumi Pednekar also highlighted the impact of on-screen actions on societal behavior.",
+    "img": "https://static.toiimg.com/photo/msid-131558827,imgsize-42542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-backlash-over-janhvi-kapoors-objectification-in-peddi-ratna-pathak-shahs-old-comments-go-viral-why-am-i-not-standing-up/articleshow/131558803.cms",
+    "time": "2026-06-06T19:53:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "the ultimate meme king",
+    "desc": "For three years after winning the National Award in 2011, the genial actor had stayed away from silver screen due to poor health. Yet he remained alive in public memory, thanks largely to memes that liberally drew on his image and witty dialogues, giving them a sharp satirical edge",
+    "img": "https://th-i.thgim.com/public/incoming/e0lzcb/article71071052.ece/alternates/LANDSCAPE_1200/Salim%20Kumar%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/salim-kumar-the-ultimate-meme-king/article71071025.ece",
+    "time": "2026-06-06T19:28:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sushmita's net worth is estimated at Rs 100 crore: Inside her home, car collection",
+    "desc": "Sushmita Sen, a self-made woman, has been in the spotlight following comments about her wealth. Defending her, Lalit Modi highlighted her financial independence and entrepreneurial spirit. The article details her estimated Rs 100 crore net worth, stemming from acting, endorsements, business ventures, and a passion for art and luxury cars, showcasing her success on her own terms.",
+    "img": "https://static.toiimg.com/photo/msid-131558299,imgsize-19032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sushmita-sens-net-worth-is-estimated-at-rs-100-crore-inside-the-self-made-stars-luxurious-versova-home-car-collection-and-jewellery-boutique-in-dubai/articleshow/131558233.cms",
+    "time": "2026-06-06T19:02:22.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "From ignominy, Salim Kumar took firm strides to national acclaim",
     "desc": "In 1997, he was dropped from a film for his ‘lack of acting prowess.’ Thirteen years later, the National Film Award came his way through Adaminte Makan Abu. Salim Kumar, who has acted in 250-odd films, was a lively presence in the Malayalam film industry for three decades, switching effortlessly from comedy to character roles.",
@@ -106,15 +151,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/weapons-used-to-terrorise-people-in-previous-regime-west-bengal-cm-suvendu-adhikari-after-seizure-of-firearms/article71068917.ece",
     "time": "2026-06-06T16:34:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Regional parties assert independence, stress national interest",
-    "desc": "Rajya Sabha members Javed Ali Khan (Samajwadi Party), Santrupt Misra (Biju Janata Dal) and former BRS Parliamentary leader K.R. Suresh Reddy speak about raising issues of regional interest at the national level and the idea of holding simultaneous elections for both Parliament and State Assemblies",
-    "img": "https://th-i.thgim.com/public/news/national/w6ih7b/article71068743.ece/alternates/LANDSCAPE_1200/nurturing%20pluralist.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-the-role-of-regional-politics-in-strengthening-democracy/article71069093.ece",
-    "time": "2026-06-06T16:16:08.000Z"
   },
   {
     "cat": "Politics",
@@ -423,15 +459,6 @@ const newsData_en = [
     "time": "2026-06-06T10:48:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Song lyrics of the day by Chris Martin",
-    "desc": "Coldplay's Chris Martin penned the song 'Fix You' to offer solace after heartbreak. The lyrics speak of loss and the desire to help someone heal. Martin, a celebrated singer from the UK, has a career marked by hit albums and personal relationships. His music continues to resonate with fans globally.",
-    "img": "https://static.toiimg.com/photo/msid-131549479,imgsize-37066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/song-lyrics-of-the-day-by-chris-martin-when-you-love-someone-but-it-goes-to-waste-could-it-be-worse/articleshow/131549524.cms",
-    "time": "2026-06-06T10:35:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Suryakumar out, Shreyas in: How India's squads look different from T20 World Cup",
     "desc": "India's T20I squad for Ireland and England tours sees Shreyas Iyer appointed captain, with Tilak Varma as vice-captain. Six players from the T20 World Cup squad are out, including Suryakumar Yadav and Hardik Pandya, while six new faces, notably 15-year-old Vaibhav Sooryavanshi, have been included, signaling a new era for Indian white-ball cricket.",
@@ -457,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-surpasses-sachin-tendulakar-becomes-youngest-to-be-picked-for-india/articleshow/131548474.cms",
     "time": "2026-06-06T09:29:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Office Romance' Ending Explained",
-    "desc": "Jennifer Lopez and Brett Goldstein star in the new film Office Romance. The movie follows a CEO and her lawyer as they navigate a forbidden workplace romance. Despite challenges and a potential scandal, their connection grows. The film culminates in a public declaration of love and a happy ending for the couple and their colleagues.",
-    "img": "https://static.toiimg.com/photo/msid-131548403,imgsize-26726.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/office-romance-ending-explained-do-jennifer-lopez-and-brett-goldsteins-characters-find-their-happily-ever-after/articleshow/131548402.cms",
-    "time": "2026-06-06T09:16:38.000Z"
   },
   {
     "cat": "Politics",
@@ -504,15 +522,6 @@ const newsData_en = [
     "time": "2026-06-06T08:50:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mayim Bialik talks about the side effects of weight loss meds",
-    "desc": "Mayim Bialik, who gained fame through her role in 'The Big Bang Theory,' candidly shared her rocky journey with weight loss medication. After taking a single dose of a GLP-1 drug prescribed for persistent health challenges, she experienced debilitating gastrointestinal issues, such as intense bloating, diarrhea, and widespread bodily discomfort.",
-    "img": "https://static.toiimg.com/photo/msid-131547512,imgsize-161788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mayim-bialik-gets-candid-about-weight-loss-medication-says-even-with-lowest-dose-she-had-an-adverse-reaction/articleshow/131547512.cms",
-    "time": "2026-06-06T08:42:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "PM Modi chairs EAC meeting, discusses measures to boost India’s economic growth amid global turmoil",
     "desc": "Prime Minister Narendra Modi met with the Economic Advisory Council to discuss strengthening India's economic growth amidst global uncertainty. The Reserve Bank of India kept the repo rate unchanged at 5.25%, citing geopolitical tensions and inflation concerns, while revising GDP growth and inflation projections downwards and upwards respectively for FY2026-27.",
@@ -520,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-chairs-eac-meeting-discusses-measures-to-boost-indias-economic-growth-amid-global-turmoil/articleshow/131547759.cms",
     "time": "2026-06-06T08:41:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "West Bengal STF recovers weapons from TMC leader's pond",
-    "desc": "West Bengal Police's STF unearthed a significant cache of firearms and ammunition from a pond linked to a Trinamool Congress leader in Sandeshkhali. The discovery, made following a tip-off, has led to a manhunt for the leader and his brother, who are reportedly absconding. Authorities suspect the weapons were intended to incite unrest in the region.",
-    "img": "https://static.toiimg.com/photo/msid-131547744,imgsize-39790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sandeshkhali-arms-bust-west-bengal-stf-recovers-weapons-from-tmc-leaders-pond/articleshow/131547391.cms",
-    "time": "2026-06-06T08:36:12.000Z"
   },
   {
     "cat": "Sports",
