@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "રામ ચરણની ફિલ્મ પેદ્દીની કમાણી 2 દિવસમાં 100 કરોડને પાર, પ્રભાસની ફિલ્મનો તોડ્યો રેકોર્ડ",
+    "desc": "બોક્સ ઓફિસ પર અલગ અલગ જોનરની 3 ફિલ્મો એક સાથે રિલીઝ થઈ છે. જેમાં રામ ચરણની પેન ઈંડિયા ફિલ્મ પેદ્દી કોહરામ મચાવી રહી છે. પેદ્દી ફિલ્મ સાથે વરુણ ધવનની ફિલ્મ હૈ જવાની તો ઈશ્ક હોના હૈ અને બોબી દેઓલની બંદર ફિલ્મ પણ રિલીઝ થઈ છે. આ બંને ફિલ્મો પર પેદ્દી ફિલ્મ ભારે પડી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ram-charan-movie-peddi-box-office-collection-latest-in-gujarati-480542 ",
+    "time": "2026-06-06T02:40:31.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ઈરાન યુદ્ધ વચ્ચે આંદામાનમાં મળ્યો ગેસનો મહાભંડાર, ઓઈલ ઈન્ડિયાને મળી મોટી સફળતા; પેટ્રોલિયમ મંત્રીએ આપ્યા ગુડ ન્યૂઝ",
     "desc": "આંદામાન ટાપુમાં ઊંડા પાણીમાં ભારતને ગેસનો વિશાળ ભંડાર મળ્યો છે. ભારતની નવરત્ન કંપની ઓઈલ ઈન્ડિયા લિમિટેડે (Oil India Limited) આ અંગે માહિતી આપી છે. પેટ્રોલિયમ મંત્રી હરદીપ સિંહ પુરીએ ગેસ ભંડાર વિશે વિગતવાર માહિતી શેર કરી છે.",
@@ -619,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tv-celebrity-and-master-chef-show-winner-pankaj-bhadouria-diagnosed-breast-cancer-479613 ",
     "time": "2026-05-29T07:22:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કરન જોહરે આલિયા, કરીના, શાહરુખ સહિત દરેકને કર્યા અનફોલો, બસ આ એક એક્ટ્રેસને હવે કરે છે ફોલો",
-    "desc": "કરન જોહરે ઈંસ્ટાગ્રામમાં આખેઆખા બોલીવુડને અનફોલો કરી દીધું છે. કરન જોહરે શાહરુખ, આલિયા સહિતના પોતાના નજીકના એક્ટર્સને અનફોલો કરવાનું કારણ ડિજિટલ ડિટોક્સ ગણાવ્યું છે. બધાને અનફોલો કરી દેનાર કરન જોહર હવે માત્ર એક જ અભિનેત્રીને ફોલો કરે છે. આ હસીના કોણ છે જાણી લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/why-karan-johar-unfollowed-bollywood-celebs-karan-follow-only-priyanka-chopra-on-instagram-479598 ",
-    "time": "2026-05-29T06:14:56.000Z"
   },
   {
     "cat": "Tech",
