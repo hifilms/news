@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "From ignominy, Salim Kumar took firm strides to national acclaim",
+    "desc": "In 1997, he was dropped from a film for his ‘lack of acting prowess.’ Thirteen years later, the National Film Award came his way through Adaminte Makan Abu. Salim Kumar, who has acted in 250-odd films, was a lively presence in the Malayalam film industry for three decades, switching effortlessly from comedy to character roles.",
+    "img": "https://th-i.thgim.com/public/incoming/3l084v/article71071050.ece/alternates/LANDSCAPE_1200/80968_6_6_2026_19_54_46_1_IMG_6462.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/from-ignominy-salim-kumar-took-firm-strides-to-national-acclaim/article71071007.ece",
+    "time": "2026-06-06T18:59:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Scheduled Caste, minority wings of Congress plan joint stir against atrocities",
+    "desc": "MPs, MLAs, and community representatives from across the country would participate in the July 20 rally, Rajendra Pal Gautam, head of the SC department, and Rajya Sabha member Imran Pratapgarhi, who heads the minority department, said at a press conference following a joint convention of the two departments.",
+    "img": "https://th-i.thgim.com/public/incoming/bi6fee/article71070967.ece/alternates/LANDSCAPE_1200/20260606197L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/scheduled-caste-minority-wings-of-congress-plan-joint-stir-against-atrocities/article71070654.ece",
+    "time": "2026-06-06T18:03:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP founder applied for permission at Delhi airport, got it within minutes",
+    "desc": "After analysing the chatter on social media and getting a sense of the situation on the ground, it was felt that refusing permission may have led to some protesters storming the venue or the police station; the confrontation would have further fuelled the anger among the youth, government sources say",
+    "img": "https://th-i.thgim.com/public/incoming/91e0xx/article71070956.ece/alternates/LANDSCAPE_1200/17_Abhijeet_Dipke_Arrival_IGI_Airport_06_06_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cjp-founder-applied-for-permission-at-delhi-airport-got-it-within-minutes/article71070751.ece",
+    "time": "2026-06-06T17:46:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Army officer dies after falling into gorge during anti-terror operation in J&amp;K's Rajouri",
+    "desc": "A tragic incident unfolded in Jammu and Kashmir's Rajouri district as a lieutenant lost his life after a fall into a deep gorge during an ongoing anti-terror operation. The officer was part of the extensive search for suspected Pakistani terrorists in the Dorimaal and Gambhir Mughalan areas. His body has since been recovered following the unfortunate accident.",
+    "img": "https://static.toiimg.com/photo/msid-131556531,imgsize-1450430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/army-officer-dies-after-falling-into-gorge-during-anti-terror-operation-in-jks-rajouri/articleshow/131556534.cms",
+    "time": "2026-06-06T17:39:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘There was no way to raise our grievances within Trinamool’, says Ritabrata Banerjee",
+    "desc": "Rebel Trinamool leader Ritabrata Banerjee says the grassroots party created by Mamata Banerjee has been hijacked by Abhishek Banerjee and corporate brokers; he rejects allegations that the BJP engineered the split, and reiterates that his faction will remain anti-BJP; he also hints at a possible rebellion among Trinamool MPs, saying ‘courage is contagious, it will travel from Kolkata to Delhi too’",
+    "img": "https://th-i.thgim.com/public/incoming/wwg1x4/article71070892.ece/alternates/LANDSCAPE_1200/20260603413L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ritabrata-banerjee-interview-no-way-to-raise-grievances-within-trinamool/article71070401.ece",
+    "time": "2026-06-06T17:29:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Afghanistan one-off Test: Rahul, Gill’s hundreds put India in command",
+    "desc": "The opener makes the most of an early reprieve while the skipper oozes class as the home team amasses 368 for three on the opening day; Sai Sudharsan and Pant, too, get going on a flat pitch",
+    "img": "https://th-i.thgim.com/public/incoming/gk5cs2/article71069723.ece/alternates/LANDSCAPE_1200/PTI06_06_2026_000371B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-afghanistan-one-off-test-mullanpur-day-1/article71068471.ece",
+    "time": "2026-06-06T17:22:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Very special relationship’: Jaishankar calls for ‘decisive shift’ in India–Nepal ties; Kathmandu signals reset, says ‘no old baggage’",
+    "desc": "India and Nepal are poised to significantly enhance their \"very special relationship,\" with discussions focusing on expanding cooperation in energy, digital technology, and new sectors. Both nations emphasized their civilizational ties and a shared resolve for a transformative partnership, aiming to unlock its full potential amidst ongoing collaboration and mutual support.",
+    "img": "https://static.toiimg.com/photo/msid-131556217,imgsize-1464058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/very-special-relationship-jaishankar-calls-for-decisive-shift-in-indianepal-ties-kathmandu-signals-reset-says-no-old-baggage/articleshow/131556145.cms",
+    "time": "2026-06-06T17:21:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "EXCLUSIVE",
+    "desc": "Vedang Raina, fresh off 'The Archies' and 'Jigra', expresses immense excitement for Imtiaz Ali's upcoming film, 'Main Vaapas Aunga'. He reveals a past dilemma, nearly pursuing an MBA before 'The Archies' offered a path aligned with his true passion. Raina feels fortunate to be pursuing his calling after navigating life's choices.",
+    "img": "https://static.toiimg.com/photo/msid-131556171,imgsize-16136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vedang-raina-reveals-he-studied-business-in-college-but-was-interested-in-science-opens-on-his-dilemma-about-listening-to-his-heart-and-mind-i-find-it-crazy-exclusive/articleshow/131554985.cms",
+    "time": "2026-06-06T17:19:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIADMK to contest bypolls for 4 Assembly constituencies, says Edappadi K. Palaniswami",
+    "desc": "Speaking at a public meeting to thank the voters of his constituency of Edappadi, he alleges that the TVK is the same as the DMK and the people will soon understand about the TVK government",
+    "img": "https://th-i.thgim.com/public/incoming/qyaj8m/article71070576.ece/alternates/LANDSCAPE_1200/9868_6_6_2026_20_20_2_2_EPS_ADDRESSING_4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmkto-contestbypollsfor-4-assembly-constituencies-says-edappadi-k-palaniswami/article71070379.ece",
+    "time": "2026-06-06T17:03:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The Hindu Huddle concludes with evocative musical performance by former diplomat Nirupama Rao",
+    "desc": "Ms. Rao, who is also the founder of South Asian Symphony Foundation (SASF), took to the stage in accompaniment with Sri Lankan pianist Soundarie David Rodrigo as the former envoy blended her experience of diplomacy with songs to end the event on a musical high",
+    "img": "https://th-i.thgim.com/public/incoming/sqy5hc/article71070596.ece/alternates/LANDSCAPE_1200/_KMK0049.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-concludes-musical-performance-former-diplomat-nirupama-rao/article71070151.ece",
+    "time": "2026-06-06T16:52:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "People don't want an actress over 30 in a romcom",
+    "desc": "Taapsee Pannu highlights Bollywood's ageism, noting actresses face a narrow window before being deemed too old for roles, unlike male counterparts. She also shared experiences in South Indian cinema where pairing with senior actors impacted younger co-star opportunities. Pannu also advised against excessive workouts, citing body changes.",
+    "img": "https://static.toiimg.com/photo/msid-131555627,imgsize-42984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-opens-up-on-ageism-says-people-dont-want-an-actress-over-30-in-a-romcom-you-dare-say-that-about-shah-rukh-khan/articleshow/131555579.cms",
+    "time": "2026-06-06T16:47:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Bengal Police recover large cache of arms hidden inside pond at Sandeshkhali",
+    "desc": "Videos of the recovery made from the waters of the pond by police personnel went viral on social media. Sandeshkhali had made headlines in early months of 2024, when locals, particularly women, came out in protests against the local Trinamool Congress leader Sheikh Shahjahan",
+    "img": "https://th-i.thgim.com/public/incoming/rz92wn/article71068949.ece/alternates/LANDSCAPE_1200/20260603211L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/weapons-used-to-terrorise-people-in-previous-regime-west-bengal-cm-suvendu-adhikari-after-seizure-of-firearms/article71068917.ece",
+    "time": "2026-06-06T16:34:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Regional parties assert independence, stress national interest",
+    "desc": "Rajya Sabha members Javed Ali Khan (Samajwadi Party), Santrupt Misra (Biju Janata Dal) and former BRS Parliamentary leader K.R. Suresh Reddy speak about raising issues of regional interest at the national level and the idea of holding simultaneous elections for both Parliament and State Assemblies",
+    "img": "https://th-i.thgim.com/public/news/national/w6ih7b/article71068743.ece/alternates/LANDSCAPE_1200/nurturing%20pluralist.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-the-role-of-regional-politics-in-strengthening-democracy/article71069093.ece",
+    "time": "2026-06-06T16:16:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Discussed various issues’: Capt Amarinder Singh meets Amit Shah, Nadda in Delhi amid exit buzz",
+    "desc": "Senior BJP leader Capt Amarinder Singh met Union Home Minister Amit Shah and party chief JP Nadda amid speculation about his future. Singh had publicly criticized the appointment of Kewal Singh Dhillon as Punjab BJP chief, questioning his capability and expressing a lack of consultation. Rumors of a potential return to Congress persist, though BJP leaders dismiss them.",
+    "img": "https://static.toiimg.com/photo/msid-131555053,imgsize-713326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/discussed-various-issues-capt-amarinder-singh-meets-amit-shah-nadda-in-delhi-amid-exit-buzz/articleshow/131554983.cms",
+    "time": "2026-06-06T16:00:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Just a trailer': From Boomers to GenZ, CJP chief says people turned out in 'huge numbers'; key moments",
+    "desc": "The Cockroach Janata Party (CJP), an online movement, held its first major real-world protest at Delhi's Jantar Mantar. Supporters, including students and young professionals, gathered to demand accountability in examinations and oppose communal politics. The event marked a significant shift from online activism to on-ground mobilization.",
+    "img": "https://static.toiimg.com/photo/msid-131555007,imgsize-152260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/just-a-trailer-from-boomers-to-genz-cjp-chief-says-people-turned-out-in-huge-numbers-key-moments/articleshow/131553644.cms",
+    "time": "2026-06-06T15:56:05.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'I have an autoimmune condition'",
     "desc": "Filmmaker Vikram Bhatt, who spent 70 days in jail over a fraud case, has revealed the harrowing experience, including a near-death encounter due to severe health complications. He spoke of unexpected friendships formed with fellow inmates and the kindness of prison officials, highlighting a profound connection with the common Indians who form his audience.",
@@ -7,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-says-he-almost-died-as-he-recalls-70-days-spent-in-jail-in-rs-30-crore-fraud-case-reveals-mithun-chakraborty-sanjay-dutt-ajay-devgn-called-him/articleshow/131555024.cms",
     "time": "2026-06-06T15:55:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC ruling on creamy layer prompts demand for JEE category revision",
-    "desc": "SC holds that parental income from salary and agriculture cannot be the sole basis for determining creamy layer status. In Kerala, OBC students are denied non-creamy layer certificates if their parents earn more than ₹8 lakh annually through salary or agriculture, forcing them to apply for JEE under the general category. Students now argue that SC order makes many of those denied NCL certificates eligible for OBC reservation.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/sc-ruling-on-creamy-layer-prompts-demand-for-jee-category-revision/article71070330.ece",
-    "time": "2026-06-06T15:48:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -34,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/government-cut-off-command-tej-pratap-yadav-on-withdrawal-of-security-personnel-from-rabris-residence/articleshow/131554595.cms",
     "time": "2026-06-06T15:25:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Student from Dharwad secures second rank in CET (Agriculture stream)",
-    "desc": "Anmol Prabhu, a student of Arjun PU College in Dharwad has secured the second rank in the Agriculture stream in the Common Entrance Test, the results of which were announced by Karnataka Examination Authority on Saturday",
-    "img": "https://th-i.thgim.com/public/incoming/iwt1u0/article71070485.ece/alternates/LANDSCAPE_1200/2699_6_6_2026_19_41_24_1_07HUBLIANMOLPRABHU.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/student-from-dharwad-secures-second-rank-in-cet-agriculture-stream/article71070030.ece",
-    "time": "2026-06-06T15:10:48.000Z"
   },
   {
     "cat": "Politics",
@@ -73,15 +190,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "India vs Afghanistan one-off Test: Rahul, Gill hundreds put India in command",
-    "desc": "The opener makes the most of an early reprieve while the skipper oozes class as the home team amasses 368 for three on the opening day; Sai Sudharsan and Pant, too, get going on a flat pitch",
-    "img": "https://th-i.thgim.com/public/incoming/gk5cs2/article71069723.ece/alternates/LANDSCAPE_1200/PTI06_06_2026_000371B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-vs-afghanistan-one-off-test-mullanpur-day-1/article71068471.ece",
-    "time": "2026-06-06T14:08:20.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "EXCLUSIVE| Ponting hails Iyer’s rise to India captaincy: 'Recognition of hard work':",
     "desc": "“I've been the one endorsing him for the role and telling the Indian selectors that if they give him a chance, I don't think they'll be disappointed. As I said, it's a great achievement. It's terrific recognition for the hard work he has put in over a long period of time, and I'm sure he'll do a great job as captain of India,” Ponting added.",
     "img": "https://static.toiimg.com/photo/msid-131553471,imgsize-59082.cms",
@@ -106,6 +214,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sai-sudharsan-thanks-gautam-gambhir-and-shubman-gill-for-unconditional-support/articleshow/131552756.cms",
     "time": "2026-06-06T13:37:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'For sake of world cricket': Ex-cricketer urges India to play Sooryavanshi vs Ireland",
+    "desc": "“I am glad he has been picked, for the sake of world cricket. He is the box-office man of the moment. I think he should play against Ireland. I was not entirely sure how good he was coming into this IPL,\" Swann said.",
+    "img": "https://static.toiimg.com/photo/msid-131552645,imgsize-35318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/for-the-sake-of-world-cricket-ex-england-cricketer-urges-india-to-play-vaibhav-sooryavanshi-in-ireland-t20is/articleshow/131552330.cms",
+    "time": "2026-06-06T13:23:09.000Z"
   },
   {
     "cat": "Business",
@@ -333,24 +450,6 @@ const newsData_en = [
     "time": "2026-06-06T10:02:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Salman and Nayanthara to shoot chase sequences in Bandra",
-    "desc": "After wrapping up their Manali schedule, Salman Khan and Nayanthara will begin shooting in Mumbai on June 10 for their yet-untitled film directed by Vamshi Paidipally. The team will film high-octane action sequences in Bandra, while the film's title announcement is expected within the next two weeks.",
-    "img": "https://static.toiimg.com/photo/msid-131549158,imgsize-37882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-and-nayanthara-to-shoot-high-octane-chase-sequences-in-bandra-after-wrapping-manali-schedule/articleshow/131549158.cms",
-    "time": "2026-06-06T10:01:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suchitra recalls Kundan Shah’s tough words on KHKN set",
-    "desc": "Thirty years since its release, actress Suchitra Krishnamoorthi looks back fondly at 'Kabhi Haan Kabhi Naa'. She highlights how Kundan Shah's masterful direction has kept the film alive in the hearts of fans. With its heartfelt story and relatable moments, the 1994 romantic drama starring Shah Rukh Khan continues to resonate with viewers, proving that some tales are eternally relevant.",
-    "img": "https://static.toiimg.com/photo/msid-131548553,imgsize-396484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suchitra-can-you-work-a-little-harder-suchitra-krishnamoorthi-recalls-being-scolded-by-kundan-shah-on-the-sets-of-kabhi-haan-kabhi-naa/articleshow/131548553.cms",
-    "time": "2026-06-06T09:40:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi surpasses Tendulkar, becomes youngest to be picked for India",
     "desc": "Fifteen-year-old Vaibhav Sooryavanshi has earned his maiden senior national call-up, potentially becoming India's youngest male debutant. After a stellar U-19 World Cup and a remarkable IPL season, the batting sensation is included in squads for upcoming T20I tours and the Asian Games, poised to break Sachin Tendulkar's long-standing record.",
@@ -358,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-surpasses-sachin-tendulakar-becomes-youngest-to-be-picked-for-india/articleshow/131548474.cms",
     "time": "2026-06-06T09:29:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhruv Jurel to lead India A in Sri Lanka, Auqib Nabi earns maiden call-up",
-    "desc": "Dhruv Jurel will captain India A in their upcoming two multi-day matches against Sri Lanka A, with Devdutt Padikkal as vice-captain. The squad features new faces like Auqib Nabi, a standout fast-bowling all-rounder, alongside established domestic performers. This tour is crucial for developing emerging red-ball talent in challenging spin-friendly conditions.",
-    "img": "https://static.toiimg.com/photo/msid-131548488,imgsize-75720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dhruv-jurel-to-lead-india-a-in-sri-lanka-auqib-nabi-earns-maiden-call-up/articleshow/131548447.cms",
-    "time": "2026-06-06T09:28:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -442,15 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Why are Bumrah and Pandya missing from India's T20I squad for UK tour?",
-    "desc": "Shreyas Iyer will captain India's T20I squad against Ireland and England, with 15-year-old Vaibhav Sooryavanshi earning a maiden call-up. Jasprit Bumrah is rested for workload management, while Hardik Pandya is undergoing rehabilitation. Both are included in the Asian Games squad.",
-    "img": "https://static.toiimg.com/photo/msid-131547644,imgsize-47344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-are-jasprit-bumrah-and-hardik-pandya-missing-from-indias-t20i-squad-for-uk-tour/articleshow/131547627.cms",
-    "time": "2026-06-06T08:30:10.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Shreyas era begins; SKY dropped, Sooryavanshi picked",
     "desc": "Shreyas Iyer has been appointed as India's new T20I captain, replacing Suryakumar Yadav. Tilak Varma is the new vice-captain. The squads for Ireland, England, and Asian Games were announced, with Jasprit Bumrah returning for the latter. Young Vaibhav Sooryavanshi also earned a spot in both squads.",
     "img": "https://static.toiimg.com/photo/msid-131547477,imgsize-1084924.cms",
@@ -459,17 +540,8 @@ const newsData_en = [
     "time": "2026-06-06T08:12:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Iyer named captain, Tilak deputy",
-    "desc": "Shreyas Iyer will captain India's men's cricket squad at the 2026 Asian Games in Japan, with 15-year-old Vaibhav Sooryavanshi earning a maiden call-up. This selection signals a new direction for India's white-ball strategy, blending experienced players like Jasprit Bumrah with emerging talent for the continental event.",
-    "img": "https://static.toiimg.com/photo/msid-131547425,imgsize-1031086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-squad-for-asian-games-2026-shreyas-iyer-named-captain-tilak-varma-deputy/articleshow/131547266.cms",
-    "time": "2026-06-06T08:10:01.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Hai Jawani Toh Ishq Hona Hai' box office collection Day 2 [LIVE]: Varun Dhawan film eyes Rs 10 crore net",
+    "title": "'Hai Jawani Toh Ishq Hona Hai' box office collection Day 2 [LIVE]: Varun Dhawan film nets Rs 14 crore",
     "desc": "David Dhawan's romantic comedy 'Hai Jawani Toh Ishq Hona Hai' is holding steady at the box office on Day 2. After a strong Rs 7.50 crore net debut on Day 1 across 9,081 shows, the Varun Dhawan-starrer's domestic net now stands at Rs 8.07 crore, with a worldwide gross of Rs 11.00 crore already locked in from opening day. With evening and night shows yet to be tallied, a healthy Saturday jump looks well within reach for the father-son Dhawan reunion.",
     "img": "https://static.toiimg.com/photo/msid-131547421,imgsize-220294.cms",
     "src": "indiatimes.com",
@@ -493,33 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unapologetically-shreyas-the-misunderstood-leader-who-never-gave-up/articleshow/131545542.cms",
     "time": "2026-06-06T07:43:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Indecorous behaviour': India condemns disruption at CJI Surya Kant's UK speech",
-    "desc": "The statement came after clips circulated on social media showing a participant seeking to question the Chief Justice while he was delivering a lecture on artificial intelligence and international law. Organisers intervened and prevented the interaction from continuing, asking attendees to remain focused on the subject of the event. The Chief Justice noted that AI is already influencing a broad range of sectors, including governance, commerce, communication, defence and the justice system itself.",
-    "img": "https://static.toiimg.com/photo/msid-131547089,imgsize-41700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indecorous-behavior-india-condemns-disruption-at-cji-surya-kants-uk-speech/articleshow/131546902.cms",
-    "time": "2026-06-06T07:42:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three African nationals quarantined for 21-days in Chhattisgarh's Durg",
-    "desc": "Chhattisgarh has reported three suspected Ebola cases involving foreign nationals quarantined in Durg as a precautionary measure. State health minister assures preparedness, with hospitals and facilities on alert. This heightened vigilance follows WHO's classification of outbreaks in Uganda and DRC as a Public Health Emergency of International Concern.",
-    "img": "https://static.toiimg.com/photo/msid-131546396,imgsize-872091.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ebola-scare-in-india-three-african-nationals-quarantined-for-21-days-in-chhattisgarhs-durg/articleshow/131545778.cms",
-    "time": "2026-06-06T06:54:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Flowers in hand, calls for Pradhan's exit, 'cockroaches' end protest peacefully: All you need to know",
-    "desc": "The protest attracted hundreds of participants, most of them students and young professionals. Many attendees wore cockroach masks and carried flowers, while schoolchildren were also seen at the venue accompanied by their parents. Protesters raised slogans and called for the resignation of Union education minister Dharmendra Pradhan over issues linked to examinations such as NEET, CBSE, CUET and SSC.",
-    "img": "https://static.toiimg.com/photo/msid-131546347,imgsize-755876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dharmendra-pradhan-must-go-cockroach-janta-party-gather-at-jantar-manatar-top-developments/articleshow/131546312.cms",
-    "time": "2026-06-06T06:50:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -574,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/1-3-trillion-wiped-off-wall-street-as-ai-rally-slows-nvidia-slips-6-micron-falls-13/articleshow/131544133.cms",
     "time": "2026-06-06T04:03:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Any sanctions threat would boomerang': Putin hails India's stance against foreign diktats",
-    "desc": "The Russian president said Kremlin's cooperation with India \"is not subject to the political environment\" and that Moscow would stand \"true to commitments given to our partners, especially partners like India\". \"Our cooperation with India, just like with all other partners of ours, is not subject to the political environment. We can't be dictated to not deliver that to India. Nobody can dictate to us and nobody would even try to do that... We will always stand true to commitments given to our partners, especially partners like India,\" he further said.",
-    "img": "https://static.toiimg.com/photo/msid-131544184,imgsize-65902.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/any-sanctions-threat-would-boomerang-putin-hails-indias-stance-against-foreign-diktats/articleshow/131543803.cms",
-    "time": "2026-06-06T03:57:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJI",
-    "desc": "In a recent address, Chief Justice Surya Kant urged the formation of an international legal framework to manage the transnational implications of AI technology. He warned that AI disrupts traditional notions of jurisdiction and accountability, giving rise to a troubling accountability deficit, particularly for self-governing systems.",
-    "img": "https://static.toiimg.com/photo/msid-131543544,imgsize-57960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ai-reshaping-exercise-of-judicial-and-sovereign-powers-cji/articleshow/131543517.cms",
-    "time": "2026-06-06T02:56:41.000Z"
   },
   {
     "cat": "Business",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-sp-charan-on-finding-his-own-voice/article71060883.ece",
     "time": "2026-06-04T11:30:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee falls 7 paise to close at 95.83 against U.S. dollar",
-    "desc": "At the interbank foreign exchange market, the rupee opened at 95.70 against the U.S. dollar, then touched an intra-day low of 95.85 and a high of 95.59 before closing at 95.83 (provisional), down 7 paise from its previous close",
-    "img": "https://th-i.thgim.com/public/incoming/36lhrt/article71060792.ece/alternates/LANDSCAPE_1200/2026-06-04T070239Z_1190929984_RC2TKKAT3PXJ_RTRMADP_3_INDIA-RUPEE-FORWARD-PREMIUMS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-falls-7-paise-to-close-at-9583-against-us-dollar/article71060734.ece",
-    "time": "2026-06-04T11:08:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Triptii Dimri on exploring comedy in ‘Maa Behen’: It’s not easy to make people laugh",
-    "desc": "Actors Triptii Dimri, Dharna Durga, and director Suresh Triveni talk about their upcoming dark comedy, ‘Maa Behen’. Triptii opens up on working on the heartland Hindi accent, her approach to comedy, how she chooses her scripts, and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/k6lv55/article71048375.ece/alternates/LANDSCAPE_1200/triptii%20cover%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/triptii-dimri-maa-behen-interview-suresh-triveni-madhuri-dixit-netflix-film/article71048250.ece",
-    "time": "2026-06-04T09:26:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Killer’ movie stuntman dies as cylinder explodes during shoot in Otteri",
-    "desc": "A large number of crew members were transferring carbon dioxide gas from a large cylinder to a smaller one for a fight sequence set within a ring of fire. During the transfer, one of the cylinders exploded, killing stuntman Madhan",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/xidhja/article71060289.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-04%20at%201.31.04%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/sj-suryah-killer-movie-stuntman-killed-as-cylinder-explodes-during-shoot-in-otteri/article71056291.ece",
-    "time": "2026-06-04T09:11:44.000Z"
   }
 ];

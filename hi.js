@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer wins POTM after being named India T20I captain, Suryakumar Yadav bats at 200 strike rate",
+    "desc": "Hours after being named India’s new T20I captain by chief selector Ajit Agarkar, Shreyas Iyer produced a match-winning knock in the Mumbai T20 League. The right-hander scored 61 off 36 deliveries to guide SoBo Mumbai...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-wins-potm-just-hours-after-being-named-india-t20i-captain-suryakumar-yadav-bats-at-200-strike-rate-2026-06-06-1043902",
+    "time": "2026-06-06T18:04:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India beat Bangladesh to win SAFF Women's Championship in Dangmei Grace's final international game",
+    "desc": "India reclaimed the SAFF Women’s Championship crown on Saturday, defeating Bangladesh 3-1 in the final at the Pandit Jawaharlal Nehru Stadium in Goa. They secured the title for the first time since 2019. It was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-beat-bangladesh-to-win-saff-women-s-championship-in-dangmei-grace-s-final-international-game-2026-06-06-1043899",
+    "time": "2026-06-06T17:29:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former England cricketer thrilled with Vaibhav Sooryavanshi's maiden call-up, says 'he’s the box-office man'",
+    "desc": "Vaibhav Sooryavanshi enjoyed a ground-breaking IPL 2026, in which the 15-year-old amassed 776 runs in 16 innings at a blistering strike rate of 237.30. He finished as the leading run-scorer of the season and also...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-england-cricketer-thrilled-with-vaibhav-sooryavanshis-maiden-call-up-says-hes-the-box-office-man-2026-06-06-1043893",
+    "time": "2026-06-06T16:21:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mirra Andreeva clinches French Open at just 19, beats Maja Chwalinska",
     "desc": "Mirra Andreeva claimed her maiden Grand Slam title at the French Open. She defeated Polish qualifier Maja Chwalinska in the final at Roland Garros on Saturday. The 19-year-old Russian delivered a composed performance to win...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-set-new-benchmark-with-century-vs-afghanistan-shubman-gill-behind-him-2026-06-06-1043867",
     "time": "2026-06-06T10:51:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former England spinner weighs in as KL Rahul survives close shave call against Afghanistan in only test",
-    "desc": "India and Afghanistan kicked off their multi-format series with the one-off Test match. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, from June 6th, and the game began with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-england-spinner-weighs-in-as-kl-rahul-survives-close-shave-call-against-afghanistan-in-only-test-2026-06-06-1043859",
-    "time": "2026-06-06T09:28:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI names Virat Kohli's replacement for the ODI series vs Afghanistan",
-    "desc": "The stage is set for the upcoming ODI series between India and Afghanistan. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, for the only Test of the series, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-names-virat-kohli-s-replacement-for-the-odi-series-vs-afghanistan-2026-06-06-1043857",
-    "time": "2026-06-06T08:53:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer named India's T20I captain for England, Ireland series, SKY removed; Vaibhav Sooryavanshi picked",
-    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and announced the Indian team’s squad for the upcoming T20I series against Ireland and England. Shreyas Iyer has formally...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-named-india-s-t20i-captain-for-england-ireland-series-sky-removed-vaibhav-sooryavanshi-picked-2026-06-06-1043851",
-    "time": "2026-06-06T07:48:44.000Z"
   }
 ];
