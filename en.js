@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Bobby Deol reveals school friend tried his luck with his crush",
+    "desc": "Bobby Deol recently opened up about his school days, first crush and a memorable attempt to impress a girl by donating blood. In a recent interview, the actor shared candid anecdotes from his younger years, revealing a shy side that fans rarely get to see. Bobby also shared another amusing story from his college days involving a girl he liked. He recalled how the girl approached students in a library seeking blood donors for her ailing father.",
+    "img": "https://static.toiimg.com/photo/msid-131572427,imgsize-50642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-reveals-his-school-friend-tried-his-luck-with-the-girl-he-liked-recalls-attempting-to-impress-another-girl-by-donating-blood/articleshow/131572375.cms",
+    "time": "2026-06-07T18:18:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zverev fights off Cobolli for maiden Grand Slam title at French Open",
+    "desc": "After falling three times at the final hurdle, including in Paris two years ‌ago, Zverev capped a relentless run by becoming the first German man to win a ‌major title since Boris Becker's Australian Open ‌triumph ⁠three decades ago.",
+    "img": "https://th-i.thgim.com/public/incoming/3m8zzi/article71074153.ece/alternates/LANDSCAPE_1200/2026-06-07T180309Z_981468835_UP1EM671E582F_RTRMADP_3_TENNIS-FRENCHOPEN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/zverev-fights-off-cobolli-for-maiden-grand-slam-title-at-french-open/article71074143.ece",
+    "time": "2026-06-07T18:10:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zverev defeats Cobolli to secure first Grand Slam title at Roland Garros",
+    "desc": "Alexander Zverev has finally won his first Grand Slam title. He defeated Flavio Cobolli in a thrilling French Open final. This victory marks a significant achievement for the German star. Zverev's win came after several previous near misses in major finals. The tournament saw early exits from top players, opening the path for Zverev.",
+    "img": "https://static.toiimg.com/photo/msid-131572265,imgsize-134364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/alexander-zverev-defeats-flavio-cobolli-to-secure-first-grand-slam-title-at-roland-garros/articleshow/131571929.cms",
+    "time": "2026-06-07T18:06:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Net-zero challenge: Sustainable aviation fuel account just 0.8% of aviation fuel use in 2026, says IATA",
+    "desc": "Sustainable Aviation Fuel (SAF) production is critically low, meeting only 0.8% of demand by 2026, IATA reports. Airlines face a $4.3 billion SAF bill this year, with insufficient policy support hindering progress. Experts warn unrealistic mandates, especially for e-SAF, could inflate prices and divert resources from actual emission reductions.",
+    "img": "https://static.toiimg.com/photo/msid-131572024,imgsize-368726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/net-zero-challenge-sustainable-aviation-fuel-account-just-0-8-of-aviation-fuel-use-in-2026-says-iata/articleshow/131572002.cms",
+    "time": "2026-06-07T17:57:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kurtis Marschall ends Duplantis' 40-meet winning run at Stockholm Diamond League",
+    "desc": "Armand 'Mondo' Duplantis' incredible 40-victory streak in pole vaulting was shattered at the Stockholm Diamond League. Australian Kurtis Marschall claimed a surprise win, marking Duplantis' first defeat since July 2023. Despite the rare loss on home soil, Duplantis graciously congratulated Marschall, who celebrated a career-defining triumph.",
+    "img": "https://static.toiimg.com/photo/msid-131571417,imgsize-101060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/kurtis-marschall-ends-mondo-duplantis-40-meet-winning-run-at-stockholm-diamond-league/articleshow/131571455.cms",
+    "time": "2026-06-07T17:43:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Malayalam actor Salim Kumar cremated with State honours",
+    "desc": "Funeral of the 57-year-old actor, who died due to cardiac arrest while undergoing treatment at a private hospital in Kochi on June 6, was conducted on the premises of Laughing Villa, his residence at Chittattukara in Ernakulam",
+    "img": "https://th-i.thgim.com/public/incoming/ob21if/article71072952.ece/alternates/LANDSCAPE_1200/80968_7_6_2026_15_58_24_2_7O3A0017.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/malayalam-actor-salim-kumar-cremated-with-state-honours/article71072797.ece",
+    "time": "2026-06-07T17:24:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nitin Nabin instructs BJP cadre in Jharkhand to gear up for 2029 Assembly election",
+    "desc": "Mr. Nabin asserted that Jharkhand will remain a BJP stronghold. He also directed that regular monthly meetings be held at all levels from the state down to the ‘Mandal’ level, to maintain continuous communication with grassroots workers.",
+    "img": "https://th-i.thgim.com/public/incoming/ftklq2/article71073914.ece/alternates/LANDSCAPE_1200/20260607097L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/nitin-nabin-instructs-bjp-cadre-in-jharkhand-to-gear-up-for-2029-assembly-election/article71073526.ece",
+    "time": "2026-06-07T17:06:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Can it last three months?’ Stalin questions stability of TVK government in Tamil Nadu",
+    "desc": "DMK chief MK Stalin questioned the Tamilaga Vettri Kazhagam government's longevity, suggesting recent events have sparked doubts about its stability. He welcomed former VCK MLA Panaiyur Babu into the DMK, highlighting the party's welfare and development achievements. Stalin's remarks join a growing wave of opposition criticism against the new government.",
+    "img": "https://static.toiimg.com/photo/msid-131570078,imgsize-821924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/can-it-last-three-months-stalin-questions-stability-of-tvk-government-in-tamil-nadu/articleshow/131570017.cms",
+    "time": "2026-06-07T16:42:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "OPEC+ approves fourth straight oil output hike, raises July targets by 188,000 bpd",
+    "desc": "OPEC+ agreed to a fourth consecutive oil production target increase of 188,000 barrels per day from July, despite ongoing US-Iran conflict disruptions. This decision comes as major Gulf producers struggle to meet demand due to export issues through the Strait of Hormuz.",
+    "img": "https://static.toiimg.com/photo/msid-131570176,imgsize-813534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/opec-approves-fourth-straight-oil-output-hike-raises-july-targets-by-188000-bpd/articleshow/131570131.cms",
+    "time": "2026-06-07T16:41:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cockroach Janta Party founder Dipke",
+    "desc": "Abhijeet Dipke says the Jantar Mantar protest on June 6 was a success and more than 7,000 people took part in it. The next move will be decided in discussion with the members of the movement, he says",
+    "img": "https://th-i.thgim.com/public/incoming/kdtq3n/article71072558.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000089B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/our-agitation-will-continue-until-union-minister-pradhan-resigns-cockroach-janta-party-founder-dipke/article71072533.ece",
+    "time": "2026-06-07T16:17:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suresh Wadkar denies rejecting Madhuri over her 'thin' looks",
+    "desc": "Veteran singer Suresh Wadkar has addressed long-standing rumours that he rejected Madhuri Dixit for being “too thin,” clarifying that no proposal ever reached him. He attributed the speculation to comments made by Archana Puran Singh and revealed that by then, his future wife Padma, who was once his student, had already become an important part of his life.",
+    "img": "https://static.toiimg.com/photo/msid-131569838,imgsize-90200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suresh-wadkar-denies-rejecting-madhuri-dixit-over-her-thin-looks-blames-archana-puran-singh-for-fuelling-rumours-padma-had-already-entered-my-life/articleshow/131569809.cms",
+    "time": "2026-06-07T16:15:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "4,800 illegal infiltrators deported to Bangladesh, says Bengal CM Suvendu",
+    "desc": "Chief Minister Suvendu Adhikari said that holding centres have been set up in bordering districts of the State and 836 ‘illegal infiltrators’ who are being kept in the holding centres will soon be deported to Bangladesh",
+    "img": "https://th-i.thgim.com/public/incoming/jmk5a1/article71073887.ece/alternates/LANDSCAPE_1200/20260607316L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-suvendu-on-illegal-infiltrators-deported-to-bangladesh/article71073344.ece",
+    "time": "2026-06-07T16:07:01.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike",
     "desc": "Saying that the LPG price has gone up by ₹89 in the last four months alone, Congress president Mallikarjun Kharge cautions that the soaring domestic LPG prices threaten to disrupt the kitchens of common peopleNew Delhi",
@@ -25,6 +133,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-unveil-land-port-management-system-for-smarter-border-operations/articleshow/131569621.cms",
     "time": "2026-06-07T15:54:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Keep chai in cup and idli on plate': Shashi Tharoor's witty response to viral food combination debate",
+    "desc": "Congress MP Shashi Tharoor has once again championed the humble idli, this time critiquing a viral post pairing it with chai. While a self-proclaimed chai enthusiast, Tharoor advocates for enjoying both delicacies separately, emphasizing the ideal fluffy texture of an idli. He previously defended idli against comparisons to rasgulla, highlighting its sophisticated fermentation process.",
+    "img": "https://static.toiimg.com/photo/msid-131569634,imgsize-57334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/keep-chai-in-cup-and-idli-on-plate-shashi-tharoors-witty-response-to-viral-food-combination-debate/articleshow/131569381.cms",
+    "time": "2026-06-07T15:51:24.000Z"
   },
   {
     "cat": "Business",
@@ -79,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/if-sonia-gandhi-offered-would-i-refuse-ashok-gehlots-big-conspiracy-charge-on-congress-presidential-poll/articleshow/131568925.cms",
     "time": "2026-06-07T14:56:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parliamentary panel looking into NEET, OSM issues; seeks answers from NTA, CBSE",
-    "desc": "The panel has asked the NTA if it investigated the NEET-UG 2024 irregularities and sought a report on action taken on Radhakrishnan Committee’s 101 recommendations. It has posed questions to the CBSE on the ‘weakening’ of RFP provisos for OSM contract.",
-    "img": "https://th-i.thgim.com/public/incoming/q82m0l/article71073580.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000371A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/parliamentary-panel-looking-into-neet-osm-issues-seeks-answers-from-nta-cbse/article71073293.ece",
-    "time": "2026-06-07T14:41:53.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +513,6 @@ const newsData_en = [
     "time": "2026-06-07T08:46:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Matt Damon calls 'The Odyssey' his hardest film ever made",
-    "desc": "Matt Damon revealed Christopher Nolan's 'The Odyssey' was his toughest film yet, emphasizing the director's commitment to practical effects and real locations. The upcoming mythic epic, based on Homer's poem, sees Damon as Odysseus on his arduous journey home. The star shared his experience while attending a California Adopt-A-Pet Day event, highlighting the demanding nature of the production.",
-    "img": "https://static.toiimg.com/photo/msid-131564005,imgsize-124358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/matt-damon-says-christopher-nolans-the-odyssey-was-the-hardest-movie-he-has-ever-made/articleshow/131563939.cms",
-    "time": "2026-06-07T08:44:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill enters elite Test captaincy list with another century",
     "desc": "Shubman Gill is experiencing a career-defining period as India's Test captain, transforming into a prolific run-scorer. His recent century against Afghanistan highlights his exceptional record, boasting 1,076 runs in 15 innings at an average of 82.76. Gill's captaincy has seen him achieve significant milestones, including becoming the second-fastest Indian captain to reach 1,000 Test runs.",
@@ -439,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/main-wahi-cap-pehenta-tha-vaibhav-sooryavanshi-recalls-wearing-virat-kohlis-signed-cap/articleshow/131563215.cms",
     "time": "2026-06-07T07:19:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Peddi' Controversy: Janhvi's alleged chats mention Sreeleela",
-    "desc": "Alleged private messages attributed to Janhvi Kapoor have surfaced online, reigniting discussions around the film 'Peddi'. The unverified screenshots suggest the actress had concerns about her role and the filming process, even mentioning her father's potential presence. These revelations follow director Buchi Babu Sana's defense of the movie's portrayal of women.",
-    "img": "https://static.toiimg.com/photo/msid-131563285,imgsize-26708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/peddi-controversy-janhvi-kapoors-alleged-chats-mention-sreeleela-theyll-say-close-up-and-put-camera-on-your-cant-trust-/articleshow/131563289.cms",
-    "time": "2026-06-07T07:16:33.000Z"
   },
   {
     "cat": "Business",
@@ -486,15 +576,6 @@ const newsData_en = [
     "time": "2026-06-07T06:55:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Licence aane do': Sooryavanshi's hilarious response on driving his IPL prize",
-    "desc": "Teenage sensation Vaibhav Sooryavanshi, the IPL 2026 Orange Cap winner, MVP, and Emerging Player, received a Tata Sierra SUV. However, the 15-year-old must wait three years for his driving license before he can legally drive his prize. He humorously stated he'll keep the car until he gets his license, planning to sit beside his father while he drives.",
-    "img": "https://static.toiimg.com/photo/msid-131563051,imgsize-159620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/licence-aane-do-vaibhav-sooryavanshis-hilarious-response-on-driving-his-ipl-prize-car/articleshow/131563041.cms",
-    "time": "2026-06-07T06:44:33.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Echoing Rahul Gandhi's language': BJP fumes at Telangana CM Revanth Reddy's Hitler inspiration claim",
     "desc": "Telangana Chief Minister Revanth Reddy has drawn severe criticism from the BJP for claiming Adolf Hitler inspired the name of his task force, HYDRAA. Reddy stated 'Hydra' was Hitler's favorite word and his core team was an assassination squad. The BJP accused the Congress of echoing Rahul Gandhi's language and displaying a 'dangerous Hitler mindset'.",
@@ -502,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/echoing-rahul-gandhis-language-bjp-fumes-at-revanth-reddys-hitler-inspiration-claim/articleshow/131562820.cms",
     "time": "2026-06-07T06:29:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Gill had better credentials than Iyer': Manjrekar explains why Shubman missed out",
-    "desc": "Sanjay Manjrekar believes Shubman Gill possessed stronger credentials for India's next T20I captaincy than Shreyas Iyer. However, Gill's difficulty in securing a consistent playing XI spot reportedly cost him the opportunity. Manjrekar feels Gill's long-term suitability was overlooked, with selectors opting for Iyer due to his guaranteed place in the middle order.",
-    "img": "https://static.toiimg.com/photo/msid-131562808,imgsize-203698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gill-had-better-credentials-than-shreyas-iyer-sanjay-manjrekar-explains-why-shubman-missed-out-on-t20-captaincy/articleshow/131562610.cms",
-    "time": "2026-06-07T06:25:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -558,15 +630,6 @@ const newsData_en = [
     "time": "2026-06-07T05:09:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Trailer of what is coming next': CJP says 'cockroaches showed their strength' in first protest demanding education minister's resignation",
-    "desc": "Hundreds gathered at Jantar Mantar demanding Union Education Minister Dharmendra Pradhan's resignation over examination and recruitment irregularities. The Cockroach Janta Party (CJP) called the protest a 'trailer' for a larger movement, vowing fresh demonstrations if Pradhan isn't sacked within seven days. Participants wore cockroach masks, highlighting concerns over NEET, CUET, and SSC processes.",
-    "img": "https://static.toiimg.com/photo/msid-131561900,imgsize-163288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trailer-of-what-is-coming-next-cjp-says-cockroaches-showed-their-strength-in-first-protest-demanding-education-ministers-resignation/articleshow/131561852.cms",
-    "time": "2026-06-07T04:28:22.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. eyes Iranian assets for Gulf allies’ reconstruction, source says",
     "desc": "U.S. Treasury Secretary Scott Bessent has also directed a team to assess costs for damage already ⁠inflicted on Gulf allies by Iran, the source said, adding that the U.S. will consider using Iranian assets for those repairs as well",
@@ -592,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-did-supreme-court-back-curbs-on-online-gaming-explained/article71070728.ece",
     "time": "2026-06-07T03:18:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Among those most educated ... ’: Elon Musk flags India’s falling fertility rate",
-    "desc": "India's fertility rate has slipped beneath the 2.1 children per woman threshold, with a majority of states now reflecting this trend. Elon Musk pointed out that educated women have long surpassed this level, indicating a significant demographic transition. This evolving landscape hints at a slower population increase and the looming concerns of an aging society.",
-    "img": "https://static.toiimg.com/photo/msid-131561235,imgsize-27136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/among-those-most-educated-elon-musk-flags-indias-falling-fertility-rate/articleshow/131561025.cms",
-    "time": "2026-06-07T02:22:40.000Z"
   },
   {
     "cat": "Business",
@@ -765,24 +819,6 @@ const newsData_en = [
     "time": "2026-06-06T04:03:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones",
-    "desc": "Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordability and protect profit margins.",
-    "img": "https://static.toiimg.com/photo/msid-131543485,imgsize-2459245.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pocket-friendly-packets-why-indians-are-swapping-big-snack-packs-for-smaller-ones/articleshow/131543313.cms",
-    "time": "2026-06-06T02:46:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "GDP rose 7.7% in FY26, 7.8% in Q4; RBI trims this year's projection to 6.6%",
-    "desc": "India's economy surged by 7.8% in the Jan-March quarter, driven by strong investment, consistent farm output, and expansion in construction and tertiary sectors. This robust demand offset potential negative impacts from West Asian conflicts. The government remains committed to driving economic momentum through decisive policy measures.",
-    "img": "https://static.toiimg.com/photo/msid-131540834,imgsize-39690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gdp-rose-7-7-in-fy26-7-8-in-q4-rbi-trims-this-years-projection-to-6-6/articleshow/131540667.cms",
-    "time": "2026-06-05T21:34:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Spain thrash England 4-0, Germany qualify for Women's World Cup finals",
     "desc": "England's ⁠hopes of securing a spot with a ⁠win in Mallorca were quickly snuffed out, with Patri Guijarro giving the Spaniards the lead in the 19th minute and Alexia Putellas making it ​2-0 before the break.",
@@ -790,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/spain-thrash-england-4-0-germany-qualify-for-womens-world-cup-finals/article71067345.ece",
     "time": "2026-06-05T21:22:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Bulk deposit pricing to be more transparent, flexible",
-    "desc": "The Reserve Bank of India is introducing new rules for bank deposit interest rates. Banks must now publish their interest rate schedules online each morning and stick to them throughout the day. This ensures customers know the exact rates available. Additionally, banks can now consider withdrawal risk when setting rates for large deposits, adding a fourth factor to pricing.",
-    "img": "https://static.toiimg.com/photo/msid-131540588,imgsize-39690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bulk-deposit-pricing-to-be-more-transparent-flexible/articleshow/131540586.cms",
-    "time": "2026-06-05T20:50:39.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
     "time": "2026-06-05T06:48:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anju’s Cafe in Ranga Shankara turns 20",
-    "desc": "Anju Sudharshan started her namesake cafe in the Ranga Shankara theatre after a chance encounter with the founder Arundhati Nag. We trace how the cafe became the heart of the institution in Bengaluru, and a space for reviews, discussions and piping hot akki rotis",
-    "img": "https://th-i.thgim.com/public/food/3j9ukk/article71056113.ece/alternates/LANDSCAPE_1200/Sudhakara%20Jain%20new2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/food/features/sabudana-vada-and-stagecraft-anjus-cafe-in-ranga-shankara-turns-20/article71040773.ece",
-    "time": "2026-06-05T04:16:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "S.P. Charan on finding his own voice",
-    "desc": "How does SP Charan take to comparisons with his late legendary father, SP Balasubrahmanyam? “I’ve made peace with it,” says the singer-actor, who is currently putting together a musical tribute, SPB 80. In a detailed interview with ‘The Hindu’, Charan talks about handling the pressures of being SPB’s son, how he handled the recognition and how he now plans to carry the legacy forward. Charan also talks about his role as a producer and what cinema taught him.",
-    "img": "https://th-i.thgim.com/public/incoming/m0vt1d/article71060880.ece/alternates/LANDSCAPE_1200/5.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-sp-charan-on-finding-his-own-voice/article71060883.ece",
-    "time": "2026-06-04T11:30:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Triptii Dimri on exploring comedy in ‘Maa Behen’: It’s not easy to make people laugh",
-    "desc": "Actors Triptii Dimri, Dharna Durga, and director Suresh Triveni talk about their upcoming dark comedy, ‘Maa Behen’. Triptii opens up on working on the heartland Hindi accent, her approach to comedy, how she chooses her scripts, and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/k6lv55/article71048375.ece/alternates/LANDSCAPE_1200/triptii%20cover%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/triptii-dimri-maa-behen-interview-suresh-triveni-madhuri-dixit-netflix-film/article71048250.ece",
-    "time": "2026-06-04T09:26:02.000Z"
   }
 ];

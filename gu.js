@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "કોણ છે અફઘાનિસ્તાનનો આ બોલર? ભારત સામે પંજો ખોલી મેદાન પર પઢી નમાજ, પાકિસ્તાન સાથે છે સ્પેશિયલ કનેક્શન!",
+    "desc": "ન્યૂ ચંદીગઢમાં રમાઈ રહેલી ટેસ્ટમાં શરૂઆતથી જ ટીમ ઈન્ડિયાનો દબદબો જોવા મળી રહ્યો છે, પરંતુ અફઘાનિસ્તાનના એક બોલરે શાનદાર પ્રદર્શન કરીને સૌનું ધ્યાન પોતાની તરફ ખેંચ્યું છે. 23 વર્ષના યુવા ફાસ્ટ બોલર સલીમ સફી ભારત સામે ટેસ્ટમાં પંજો (5 વિકેટ) ખોલનારા અફઘાનિસ્તાનના પ્રથમ બોલર બની ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-saleem-safi-he-opened-his-claws-against-india-and-prayed-on-the-field-he-has-a-special-connection-with-pakistan-ind-vs-afg-test-480764 ",
+    "time": "2026-06-07T18:07:46.000Z"
+  },
+  {
     "cat": "World",
     "title": "Gold પર ચીન રમી રહ્યું છે મોટો ખેલ, સતત 19માં મહિને કર્યું આ કામ, જાણો",
     "desc": "ચીનના સોનાના ભંડારમાં સતત વધારો થઈ રહ્યો છે. આંતરરાષ્ટ્રીય બજારમાં સોનાના દરો પર દબાણ હોવા છતાં, પીપલ્સ બેંક ઓફ ચાઇનાએ સતત 19મા મહિને આ કામ કર્યું છે અને જ્યારે ચીન કોઈ કામ સતત કરે ત્યારે તે શંકાના ઘેરામાં જાય છે.",
@@ -477,15 +486,6 @@ const newsData_gu = [
     "time": "2026-06-04T11:18:12.000Z"
   },
   {
-    "cat": "Business",
-    "title": "₹1,200 થી શરૂઆત અને ₹15.15 લાખ કરોડનું કૌભાંડ! જાણો કોણ છે ગુજરાતી મૂળના રાજેશ મેહતા",
-    "desc": "સેબીએ એક વિસ્ફોટક ખુલાસો કર્યો છે. તેની તપાસમાં મોટું કૌભાંડ સામે આવ્યું છે. આ મામલો રાજેશ એક્સપોર્ટ્સ સાથે જોડાયેલો છે. સેબીએ કંપનીમાં ઘણી અનિયમિતતાને ઉજાગર કરી છે. કંપની પર 15.15 લાખ કરોડ રૂપિયાના કથિત કૌભાંડનો આરોપ છે. જાણો કોણ છે રાજેશ મેહતા?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/who-is-gujarati-origin-rajesh-mehta-whose-company-rajesh-exports-facing-sebi-ban-over-alleged-15-15-lakh-crore-fraud-480393 ",
-    "time": "2026-06-04T10:54:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "&amp;#039;પંડ્યા પરિવારમાં...&amp;#039; કૃણાલ પંડ્યાએ હાર્દિક સાથેના સંબંધો પર તોડ્યું મૌન, જાણો શું કહ્યું",
     "desc": "RCBએ IPL 2026ની ફાઇનલમાં ગુજરાત ટાઇટન્સને હરાવીને બીજી વખત ટાઇટલ જીત્યું. ત્યારે હવે આ જીત બાદ કૃણાલ પંડ્યાએ પણ તેના ભાઈ હાર્દિક સાથેના સંબંધો અંગે મૌન તોડ્યું છે. ત્યારે આ લેખમાં જાણીશું કે કૃણાલ પંડ્યાએ હાર્દિક સાથેના સંબંધો અંગે શું કહ્યું છે.",
@@ -565,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/latest-bollywood-news-fwice-on-backfoot-on-ranveer-singh-don-3-issue-here-is-latest-update-480315 ",
     "time": "2026-06-04T02:13:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026 જોવા માટે કેટલો કરવો પડશે ખર્ચ, જાણો zee5 and unite8 sports નું પેકેજ",
-    "desc": "Fifa વર્લ્ડ કપ 2026ની યજમાની અમેરિકા, કેનેડા અને મેક્સિકો કરી રહ્યાં છે. નોર્થ અમેરિકામાં 1994 બાદ વિશ્વકપ રમાઈ રહ્યો છે. ટૂર્નામેન્ટમાં કુલ 104 મેચ જૂન અને જુલાઈ દરમિયાન રમાશે. ત્યારે આવો તમને જણાવીએ ભારતમાં ફીફા વર્લ્ડ કપ જોવા માટે તમારે કેટલો ખર્ચ કરવો પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-india-telecast-how-much-will-you-spend-on-zee5-and-unite8-sports-480293 ",
-    "time": "2026-06-03T16:02:52.000Z"
   },
   {
     "cat": "Tech",
