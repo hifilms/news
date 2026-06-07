@@ -1,12 +1,120 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Indian politics dominated by Hindu-Muslim agenda; joblessness key concern, CJP apolitical: Dipke",
-    "desc": "Addressing a press conference in Chhatrapati Sambhajinagar, a day after leading an agitation in Delhi, Mr. Dipke reiterated the demand for Union Minister Dharmendra Pradhan’s resignation amid the row over the alleged NEET paper leak and CBSE OSM glitches",
-    "img": "https://th-i.thgim.com/public/incoming/6e1v8d/article71073290.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2011.JPG",
+    "title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike",
+    "desc": "Saying that the LPG price has gone up by ₹89 in the last four months alone, Congress president Mallikarjun Kharge cautions that the soaring domestic LPG prices threaten to disrupt the kitchens of common peopleNew Delhi",
+    "img": "https://th-i.thgim.com/public/incoming/bcz6kj/article71072607.ece/alternates/LANDSCAPE_1200/LPG%20SHORTAGE%20%20DELHI%202026_11_04_1.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-politics-dominated-by-hindu-muslim-agenda-joblessness-key-concern-cjp-apolitical-dipke/article71073221.ece",
-    "time": "2026-06-07T13:37:16.000Z"
+    "url": "https://www.thehindu.com/news/national/congress-reaction-on-142-kg-cylinder-price-hike-on-june-7-2026/article71072596.ece",
+    "time": "2026-06-07T16:03:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi",
+    "desc": "‘But these young men did ask questions, and they found the answers, too. This is India’s true youth power, inquisitive, aware, and informed,’ the Congress leader says, posting a video with 18-year-old Sarthak Siddhant, lauding him for exposing vulnerabilities in the CBSE’s OSM portal",
+    "img": "https://th-i.thgim.com/public/incoming/d6swiq/article71073744.ece/alternates/LANDSCAPE_1200/20260603126L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
+    "time": "2026-06-07T15:57:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah to unveil Land Port Management System for smarter border operations",
+    "desc": "Home minister Amit Shah is set to launch the Land Port Management System (LPMS), a digital platform designed to streamline cargo and passenger processing at all land ports. This initiative aims to enhance efficiency, transparency, and security in cross-border operations, bringing them on par with airport and seaport systems.",
+    "img": "https://static.toiimg.com/photo/msid-131569645,imgsize-740761.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-unveil-land-port-management-system-for-smarter-border-operations/articleshow/131569621.cms",
+    "time": "2026-06-07T15:54:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US mortgage rates ease to 6.48%, slips from from nine-month high",
+    "desc": "The average rate for a 30-year fixed mortgage eased to 6.48% last week, offering slight relief to homebuyers. This decline follows a recent climb to a nine-month high, influenced by inflation concerns and elevated oil prices. Despite the dip, rates remain higher than earlier this year, continuing to impact the challenging housing market.",
+    "img": "https://static.toiimg.com/photo/msid-131569409,imgsize-674325.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-mortgage-rates-ease-to-6-48-slips-from-from-nine-month-high/articleshow/131569328.cms",
+    "time": "2026-06-07T15:40:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We got it wrong': MCC breaks silence on Lord's pitch after England Test win",
+    "desc": "The Marylebone Cricket Club (MCC) has acknowledged concerns regarding the inconsistent bounce of the Lord's pitch used for the opening Test between England and New Zealand. Despite significant investment in pitch preparation, challenging weather conditions contributed to the surface falling short of expected standards. The MCC is committed to implementing improvements outlined in its recent cricket strategy.",
+    "img": "https://static.toiimg.com/photo/msid-131569419,imgsize-154734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-got-it-wrong-mcc-breaks-silence-on-lords-pitch-after-england-test-win/articleshow/131569403.cms",
+    "time": "2026-06-07T15:38:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gautam Adani regains title of Asia's richest person as net worth hits $89.2 billion: Forbes",
+    "desc": "Gautam Adani has reclaimed the title of Asia's richest person, surpassing Mukesh Ambani. His net worth surged by approximately $2.5 billion on Friday, driven by significant gains across Adani Group's listed companies like Adani Power and Adani Green Energy. This impressive comeback follows the dismissal of fraud charges, restoring his position among the world's wealthiest.",
+    "img": "https://static.toiimg.com/photo/msid-131569270,imgsize-680493.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gautam-adani-regains-title-of-asias-richest-person-as-net-worth-hits-89-2-billion-forbes/articleshow/131569274.cms",
+    "time": "2026-06-07T15:19:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "2026 earnings nearly halved as fuel shock hits aviation",
+    "desc": "Global airlines face a profit plunge in 2026, nearly halving earnings to $23 billion due to soaring fuel costs and Middle East conflict disruptions. Despite strong passenger demand and projected record revenues exceeding $1.1 trillion, profitability per passenger is expected to drop significantly. This geopolitical instability and rising operational expenses are reshaping the industry's financial outlook.",
+    "img": "https://static.toiimg.com/photo/msid-131569117,imgsize-17696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/airlines-face-profit-crash-2026-earnings-nearly-halved-as-fuel-shock-hits-aviation/articleshow/131569044.cms",
+    "time": "2026-06-07T15:04:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vikram Bhatt on Mahesh Bhatt not defending him during jail stint",
+    "desc": "Filmmaker Vikram Bhatt has opened up about the legal troubles that landed him in jail for 70 days, the people who stood by him, and why he harbours no resentment towards mentor and filmmaker Mahesh Bhatt for not publicly speaking in his defence. Vikram addressed the allegations against him and maintained that the accusations were baseless.",
+    "img": "https://static.toiimg.com/photo/msid-131569085,imgsize-41974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-breaks-silence-on-mahesh-bhatt-not-defending-him-during-jail-stint-in-rs-30-crore-fraud-case-maybe-he-was-helping-me/articleshow/131568996.cms",
+    "time": "2026-06-07T15:03:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'If Sonia Gandhi offered, would I refuse?' Ashok Gehlot's 'big conspiracy' charge on Congress presidential poll",
+    "desc": "Former Rajasthan CM Ashok Gehlot has reignited Congress leadership debates, asserting he wouldn't have refused the party presidency if offered by Sonia Gandhi. He claims a \"big conspiracy\" distorted narratives around the 2022 presidential race and the Rajasthan crisis, leading to a \"wrong perception\" of his intentions. Gehlot expressed regret over the internal turmoil.",
+    "img": "https://static.toiimg.com/photo/msid-131568992,imgsize-1025556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/if-sonia-gandhi-offered-would-i-refuse-ashok-gehlots-big-conspiracy-charge-on-congress-presidential-poll/articleshow/131568925.cms",
+    "time": "2026-06-07T14:56:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliamentary panel looking into NEET, OSM issues; seeks answers from NTA, CBSE",
+    "desc": "The panel has asked the NTA if it investigated the NEET-UG 2024 irregularities and sought a report on action taken on Radhakrishnan Committee’s 101 recommendations. It has posed questions to the CBSE on the ‘weakening’ of RFP provisos for OSM contract.",
+    "img": "https://th-i.thgim.com/public/incoming/q82m0l/article71073580.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000371A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliamentary-panel-looking-into-neet-osm-issues-seeks-answers-from-nta-cbse/article71073293.ece",
+    "time": "2026-06-07T14:41:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Strong contender at Test level': Gavaskar's verdict on Manav Suthar",
+    "desc": "Manav Suthar made a stellar Test debut, snaring three wickets on Day 2 against Afghanistan and earning praise from Sunil Gavaskar. The left-arm spinner not only impressed with his accurate bowling but also displayed remarkable composure and confidence with the bat. Suthar's promising start suggests he possesses the attributes for future Test success.",
+    "img": "https://static.toiimg.com/photo/msid-131568582,imgsize-34180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/strong-contender-at-test-level-gavaskars-verdict-on-manav-suthar/articleshow/131568576.cms",
+    "time": "2026-06-07T14:33:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mimoh recalls Mithun sleeping in parks and being chased by police",
+    "desc": "Mahaakshay Chakraborty aka Mimoh recently opened up about the struggles his father, veteran actor Mithun Chakraborty, endured before becoming one of Indian cinema's biggest stars. During an interaction, Mahaakshay revealed that stories of his father's difficult early years continue to inspire him whenever he faces challenges in life.",
+    "img": "https://static.toiimg.com/photo/msid-131568342,imgsize-48848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mimoh-recalls-mithun-chakraborty-sleeping-in-parks-and-being-chased-by-police-after-a-national-award-he-asked-a-reporter-for-food/articleshow/131568286.cms",
+    "time": "2026-06-07T14:12:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kareena says she is Karisma’s ‘first daughter’ before Samaira",
+    "desc": "Karisma Kapoor recently received a touching tribute from sister Kareena Kapoor Khan, who described her as the pillar of the Kapoor family and admitted that life would be unimaginable without her elder sister. Kareena went on to call Karisma \"the darling of the nation\" and credited her for holding the family together.",
+    "img": "https://static.toiimg.com/photo/msid-131567873,imgsize-96698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-says-she-is-karisma-kapoors-first-daughter-before-samaira-our-family-would-be-lost-without-lolo/articleshow/131567823.cms",
+    "time": "2026-06-07T13:40:38.000Z"
   },
   {
     "cat": "Sports",
@@ -34,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-bishnoi-gang-claims-responsibility-for-shootings-targeting-indians-in-portugal-india-dominates-afghanistan-in-one-off-test-more/articleshow/131567284.cms",
     "time": "2026-06-07T12:59:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Malayalam actor Salim Kumar cremated with State honours",
-    "desc": "Funeral of the 57-year-old actor, who died due to cardiac arrest while undergoing treatment at a private hospital in Kochi on June 6, was conducted on the premises of Laughing Villa, his residence at Chittattukara in Ernakulam",
-    "img": "https://th-i.thgim.com/public/incoming/ob21if/article71072952.ece/alternates/LANDSCAPE_1200/80968_7_6_2026_15_58_24_2_7O3A0017.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/malayalam-actor-salim-kumar-cremated-with-state-honours/article71072797.ece",
-    "time": "2026-06-07T12:57:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,15 +189,6 @@ const newsData_en = [
     "time": "2026-06-07T12:30:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Government will pay 'political price', says Sharad Pawar; Congress's Wadettiwar slams BJP",
-    "desc": "\"The hike may have started with just two rupees, but over time the increases have kept piling up, and today we can see how far the prices have risen. All of this has a direct impact on the finances and daily lives of ordinary people,\" says Pawar",
-    "img": "https://th-i.thgim.com/public/incoming/zeor7u/article71073060.ece/alternates/LANDSCAPE_1200/20250809158L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/lpg-price-hikes-government-will-pay-political-price-says-sharad-pawar-congresss-wadettiwar-slams-bjp/article71073034.ece",
-    "time": "2026-06-07T12:24:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'He didn't seem to have too much gas left in the tank': Ex-selector on Pant throwing away century",
     "desc": "Rishabh Pant missed out on a century against Afghanistan, falling for 81 after a miscued attacking stroke. Former player Saba Karim suggested fatigue and dehydration, rather than poor shot selection, contributed to the dismissal. Pant's innings was crucial in India's strong first-innings total.",
@@ -106,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/he-didnt-seem-to-have-too-much-gas-left-in-the-tank-ex-selector-on-rishabh-pant-throwing-away-a-century/articleshow/131566665.cms",
     "time": "2026-06-07T12:13:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jantar Mantar protest a trailer, Pradhan must resign in seven days: Cockroach Janta Party founder Dipke",
-    "desc": "Mr. Dipke also said their protest at Jantar Mantar in New Delhi on Saturday (June 6) was largely successful, with around 7,000 people participating in it, and added that the movement would now expand nationwide",
-    "img": "https://th-i.thgim.com/public/incoming/kdtq3n/article71072558.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000089B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/our-agitation-will-continue-until-union-minister-pradhan-resigns-cockroach-janta-party-founder-dipke/article71072533.ece",
-    "time": "2026-06-07T12:13:06.000Z"
   },
   {
     "cat": "Sports",
@@ -142,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-release-date-ravi-tejas-upcoming-film-to-hit-the-big-screens-on-this-date-set-to-clash-with-nani-starrer/articleshow/131566146.cms",
     "time": "2026-06-07T11:40:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "535 farmers died due to unsafe pesticide use between January 2024-2026 in Rajasthan",
-    "desc": "The department stated that farmers, agricultural labourers and other persons may fall ill and, in some cases, die due to failure to adopt necessary safety measures during pesticide spraying and because of indiscriminate and unsafe use of pesticides",
-    "img": "https://th-i.thgim.com/public/incoming/qk0p30/article71072941.ece/alternates/LANDSCAPE_1200/Epaper_Science_G58FKK6TM.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/535-farmers-died-due-to-unsafe-pesticide-use-between-january-2024-2026-in-rajasthan/article71072894.ece",
-    "time": "2026-06-07T11:29:29.000Z"
   },
   {
     "cat": "Politics",
@@ -262,15 +334,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Security beefed up at CJP founder Dipke's home in Chhatrapati Sambhajinagar",
-    "desc": "Earlier, 11 security personnel were deployed; now the number has reached 15; the deployed staff is from the local police station as well as the city police headquarters, said an official from MIDC Waluj police station",
-    "img": "https://th-i.thgim.com/public/incoming/9y03mj/article71072568.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000089B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/mumbai/security-beefed-up-at-cjp-founder-dipkes-home-in-chhatrapati-sambhajinagar/article71072587.ece",
-    "time": "2026-06-07T09:35:58.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'We're children of the same rivers': Nepal calls on India to 'discuss dormant ties'",
     "desc": "Nepal's Foreign Minister Shisir Khanal on Sunday called for a stronger development-oriented partnership with India, stressing on the revival of dormant bilateral mechanisms and high-level political exchanges to resolve issues such around boundary. During his visit, discussions covered trade, connectivity, energy, water resources, and people-to-people ties, with a focus on economic growth and innovation.",
     "img": "https://static.toiimg.com/photo/msid-131564523,imgsize-859242.cms",
@@ -295,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/umpiring-decisions-go-in-their-favor-pakistans-khushdil-shah-alleges-bias-towards-india-in-cricket/articleshow/131564389.cms",
     "time": "2026-06-07T09:23:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Despite last-minute preparations, visitor numbers during summer festival season increased 28% in 2026",
-    "desc": "With the election results being declared in May and a new government taking charge, preparations for the annual shows — the Rose Show, Flower Show, Plantation Crops Show and Fruit Show, were delayed, officials said",
-    "img": "https://th-i.thgim.com/public/incoming/razaaa/article71072654.ece/alternates/LANDSCAPE_1200/10214_11_5_2026_13_42_44_2__SAT7075_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/despite-last-minute-preparations-visitor-numbers-during-summer-festival-season-increased-28-in-2026/article71072594.ece",
-    "time": "2026-06-07T09:11:05.000Z"
   },
   {
     "cat": "Sports",
@@ -360,24 +414,6 @@ const newsData_en = [
     "time": "2026-06-07T08:44:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Manoj recalls 'Bhonsle' funding hurdles",
-    "desc": "Manoj Bajpayee recently discussed his collaborations with filmmaker Devashish Makhija, highlighting the funding challenges that delayed projects like 'Tandav' and 'Bhonsle'. He revealed that 'Tandav' was initially conceived as a short film due to financial hurdles, while 'Joram' proved to be a deeply immersive and testing experience for him as an actor.",
-    "img": "https://static.toiimg.com/photo/msid-131563930,imgsize-24722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-recalls-bhonsle-funding-hurdles-says-joram-tested-him-as-an-actor/articleshow/131563942.cms",
-    "time": "2026-06-07T08:38:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dario Pallini claims Theresa Randle broke into his home",
-    "desc": "In a shocking turn of events, actress Theresa Randle faces allegations from her former partner, Dario Pallini, who claims she repeatedly invaded his home. Reports suggest that during one such incident, tensions escalated when Randle allegedly hurled vegetables at Pallini and issued threats. Pallini also alleges a history of violence, stating Randle once assaulted him, leading to her arrest.",
-    "img": "https://static.toiimg.com/photo/msid-131563926,imgsize-99328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bad-boys-star-theresa-randles-ex-dario-pallini-claims-the-actress-broke-into-his-home/articleshow/131563862.cms",
-    "time": "2026-06-07T08:35:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill enters elite Test captaincy list with another century",
     "desc": "Shubman Gill is experiencing a career-defining period as India's Test captain, transforming into a prolific run-scorer. His recent century against Afghanistan highlights his exceptional record, boasting 1,076 runs in 15 innings at an average of 82.76. Gill's captaincy has seen him achieve significant milestones, including becoming the second-fastest Indian captain to reach 1,000 Test runs.",
@@ -385,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/only-don-bradman-ahead-shubman-gill-enters-elite-test-captaincy-list-with-another-century/articleshow/131563827.cms",
     "time": "2026-06-07T08:32:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bandar' BO Day 3 [LIVE]: Bobby's film struggles to cross Rs 2 cr",
-    "desc": "Bobby Deol's 'Bandar' faced a subdued box office opening, collecting Rs 50 lakh on its debut. Despite positive audience reception for its realistic portrayal, the film struggled to attract crowds, earning Rs 95 lakh on day two and a further Rs 9 lakh on day three, totaling Rs 1.54 crore net. Deol emphasized his focus on character over remuneration. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131563710,imgsize-82344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bandar-box-office-collection-day-3-live-bobby-deol-starrer-receives-critical-acclaim-but-struggles-to-cross-rs-2-crore/articleshow/131563695.cms",
-    "time": "2026-06-07T08:08:52.000Z"
   },
   {
     "cat": "Sports",
@@ -504,15 +531,6 @@ const newsData_en = [
     "time": "2026-06-07T06:15:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "DRS howler! Afghanistan miss Pant wicket despite clear edge on UltraEdge",
-    "desc": "Afghanistan missed a crucial DRS opportunity to dismiss Rishabh Pant, who went on to score 81 runs. Replays later confirmed a clear edge on Pant's bat, a decision that proved costly for the visitors. Pant's entertaining knock was eventually ended by captain Hashmatullah Shahidi.",
-    "img": "https://static.toiimg.com/photo/msid-131562574,imgsize-43720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/drs-howler-afghanistan-miss-rishabh-pant-wicket-despite-clear-edge-on-ultraedge/articleshow/131562566.cms",
-    "time": "2026-06-07T05:49:13.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Vishwaguru can't shield own citizens from price shocks': Opposition attacks Centre over domestic LPG price hike",
     "desc": "Domestic LPG cylinder prices have risen by Rs 29, with a 14.2-kg cylinder now costing Rs 942 in Delhi. This marks the second increase in three months, drawing sharp criticism from opposition parties who accuse the government of exacerbating inflation and burdening households. The hikes are linked to rising global energy prices amid Middle East conflict.",
@@ -538,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-concludes-musical-performance-former-diplomat-nirupama-rao/article71070151.ece",
     "time": "2026-06-07T05:09:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'The Last Dance': Neymar signals final WC as Brazil icon eyes one last shot at glory",
-    "desc": "Brazil's football icon Neymar, their all-time leading scorer, has hinted that the 2026 FIFA World Cup will be his final appearance. Despite a career marked by brilliance and injuries, the 34-year-old forward aims to lead a blend of seasoned and young talent in a quest for Brazil's sixth title, ending a 24-year drought.",
-    "img": "https://static.toiimg.com/photo/msid-131562016,imgsize-86164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/the-last-dance-neymar-signals-final-world-cup-as-brazil-icon-eyes-one-last-shot-at-glory/articleshow/131561985.cms",
-    "time": "2026-06-07T04:40:28.000Z"
   },
   {
     "cat": "Politics",
@@ -792,33 +801,6 @@ const newsData_en = [
     "time": "2026-06-05T20:50:39.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Government ready to take more measures to insulate economy",
-    "desc": "The Indian government is preparing further policy steps to protect the economy from the West Asia conflict. These measures will ensure sufficient availability of goods and raw materials. The focus is on stabilizing the Indian currency and foreign exchange flows. Additional measures will be announced as needed. The government is closely monitoring trade deficits and potential impacts on subsidies.",
-    "img": "https://static.toiimg.com/photo/msid-131540581,imgsize-91568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/government-ready-to-take-more-measures-to-insulate-economy/articleshow/131540577.cms",
-    "time": "2026-06-05T20:47:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "G-Secs rally as govt and RBI ease foreign investing rules",
-    "desc": "Government and RBI measures to boost foreign investment in government securities led to a bond rally, with benchmark 10-year G-Sec yields softening. Exemptions from long-term capital gains and withholding taxes for FPIs in G-Secs, along with expanded investment options, are seen as positive for the fixed income market.",
-    "img": "https://static.toiimg.com/photo/msid-131542763,imgsize-58630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/g-secs-rally-as-govt-and-rbi-ease-foreign-investing-rules/articleshow/131540533.cms",
-    "time": "2026-06-05T20:13:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Mutual fund houses restrict investments into gold ETFs, FoFs",
-    "desc": "Leading mutual fund houses, including HDFC, ICICI Prudential, and Nippon India, are temporarily restricting large lump-sum investments in gold ETFs and fund of funds. This move aligns with the government's policy to discourage gold purchases, following an increase in import duty. The restrictions primarily target large investors, with exceptions for authorized participants and market makers, while SIPs remain largely unaffected.",
-    "img": "https://static.toiimg.com/photo/msid-131540522,imgsize-24204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mutual-fund-houses-restrict-investments-into-gold-etfs-fofs/articleshow/131540515.cms",
-    "time": "2026-06-05T20:09:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mirra Andreeva's new calm meets surprise package Maja Chwalinska in French Open final",
     "desc": "Facing the unheralded Lois Boisson for a spot in the French Open semifinals, the Russian teenager lost her temper, losing in straight sets after receiving a warning for angrily hitting a ball into the stands.",
@@ -891,12 +873,30 @@ const newsData_en = [
     "time": "2026-06-05T06:48:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Praggnanandhaa defeats Gukesh as title race goes to final round; Assaubayeva wins women’s crown",
-    "desc": "Praggnanandhaa’s resilience was on display as he overcame the advantage held by the World champion to pull off a crucial win to take him to 15 points, just half-a-point behind leader Wesley So, who edged out Magnus Carlsen in the Armageddon",
-    "img": "https://th-i.thgim.com/public/news/national/8l89sh/article71064136.ece/alternates/LANDSCAPE_1200/gukesh%20praggnanandhaa%20norway%20chess%202026.jpeg",
+    "cat": "Entertainment",
+    "title": "Anju’s Cafe in Ranga Shankara turns 20",
+    "desc": "Anju Sudharshan started her namesake cafe in the Ranga Shankara theatre after a chance encounter with the founder Arundhati Nag. We trace how the cafe became the heart of the institution in Bengaluru, and a space for reviews, discussions and piping hot akki rotis",
+    "img": "https://th-i.thgim.com/public/food/3j9ukk/article71056113.ece/alternates/LANDSCAPE_1200/Sudhakara%20Jain%20new2.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/norway-chess-2026-praggnanandhaa-defeats-gukesh-as-title-race-goes-to-final-round-assaubayeva-wins-womens-crown/article71064048.ece",
-    "time": "2026-06-05T06:00:20.000Z"
+    "url": "https://www.thehindu.com/food/features/sabudana-vada-and-stagecraft-anjus-cafe-in-ranga-shankara-turns-20/article71040773.ece",
+    "time": "2026-06-05T04:16:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "S.P. Charan on finding his own voice",
+    "desc": "How does SP Charan take to comparisons with his late legendary father, SP Balasubrahmanyam? “I’ve made peace with it,” says the singer-actor, who is currently putting together a musical tribute, SPB 80. In a detailed interview with ‘The Hindu’, Charan talks about handling the pressures of being SPB’s son, how he handled the recognition and how he now plans to carry the legacy forward. Charan also talks about his role as a producer and what cinema taught him.",
+    "img": "https://th-i.thgim.com/public/incoming/m0vt1d/article71060880.ece/alternates/LANDSCAPE_1200/5.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-sp-charan-on-finding-his-own-voice/article71060883.ece",
+    "time": "2026-06-04T11:30:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Triptii Dimri on exploring comedy in ‘Maa Behen’: It’s not easy to make people laugh",
+    "desc": "Actors Triptii Dimri, Dharna Durga, and director Suresh Triveni talk about their upcoming dark comedy, ‘Maa Behen’. Triptii opens up on working on the heartland Hindi accent, her approach to comedy, how she chooses her scripts, and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/k6lv55/article71048375.ece/alternates/LANDSCAPE_1200/triptii%20cover%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/triptii-dimri-maa-behen-interview-suresh-triveni-madhuri-dixit-netflix-film/article71048250.ece",
+    "time": "2026-06-04T09:26:02.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "Gold પર ચીન રમી રહ્યું છે મોટો ખેલ, સતત 19માં મહિને કર્યું આ કામ, જાણો",
+    "desc": "ચીનના સોનાના ભંડારમાં સતત વધારો થઈ રહ્યો છે. આંતરરાષ્ટ્રીય બજારમાં સોનાના દરો પર દબાણ હોવા છતાં, પીપલ્સ બેંક ઓફ ચાઇનાએ સતત 19મા મહિને આ કામ કર્યું છે અને જ્યારે ચીન કોઈ કામ સતત કરે ત્યારે તે શંકાના ઘેરામાં જાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/china-is-playing-a-big-game-on-gold-it-has-done-this-for-the-19th-consecutive-month-know-this-480739 ",
+    "time": "2026-06-07T15:18:03.000Z"
+  },
+  {
+    "cat": "World",
     "title": "મૃત પિતાના નંબર પર 4 વર્ષ સુધી મોકલતી રહી મેસેજ, એક દિવસે આવ્યો એવો જવાબ, સાંભળીને દુનિયાની આંખમાં આવ્યા આંસુ",
     "desc": "પિતાના મોત પછી, એક પુત્રીએ ચાર વર્ષ તેમના જૂના મોબાઇલ નંબર પર પોતાના સુખ-દુ:ખ શેર કર્યા. તેણીને ક્યારેય કોઈ જવાબ મળ્યો નહીં. જોકે, ચોથી વર્ષગાંઠ પર મોકલવામાં આવેલા ભાવનાત્મક સંદેશે એક પ્રતિભાવ આપ્યો, જેણે ફક્ત તેની પુત્રીને જ નહીં પરંતુ લાખો લોકોને હચમચાવી દીધા હતા.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -673,23 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/should-you-turn-off-the-ac-with-the-remote-or-the-switch-most-people-make-this-big-mistake-479723 ",
     "time": "2026-05-30T06:04:54.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "વૃદ્ધાવસ્થા દૂર હડસેલી 120 વર્ષ સુધી જીવવા પુતિને બનાવ્યો જોરદાર પ્લાન! 24,69,09,00,00,000 નો કરશે ખર્ચો",
-    "desc": "મૃત્યુલોકમાં કોણ અમરપટ્ટો લઈને આવ્યું છે? પરંતુ આમ છતાં લાંબુ જીવન અને યુવાઅવસ્થા ટકાવી રાખવા માટે જાત જાતના અખતરાઓ થતા રહે છે. એક રિપોર્ટમાં દાવો કરાયો છે કે રશિયાના રાષ્ટ્રપતિ વ્લાદિમિર પુતિને એક ગુપ્ત એન્ટી એજિંગ પ્રોજેક્ટમાં 26 અબજ ડોલર જેટલું રોકાણ કર્યું છે. આ પ્રોજેક્ટની વિગતો ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/russian-president-vladimir-putin-26-billion-dollar-anti-aging-research-project-details-479715 ",
-    "time": "2026-05-30T05:31:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન સાથે શાંતિ વાતચીત વચ્ચે હોર્મુઝ પર ટ્રમ્પની મોટી જાહેરાત, ટ્રુથ પર આપી માહિતી, જાણો",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા તણાવ વચ્ચે, રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઘણી જાહેરાતો કરી છે. તેમણે કહ્યું કે તમામ યુએસ નૌકાદળ નાકાબંધી હટાવવામાં આવશે. ટ્રમ્પે કહ્યું કે ઈરાન સાથેનો સોદો લગભગ અંતિમ સ્વરૂપ પામી ગયો છે અને ટૂંક સમયમાં નિર્ણય લેવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trumps-big-announcement-on-hormuz-amidst-peace-talks-with-iran-information-given-on-truth-know-479683 ",
-    "time": "2026-05-29T17:08:45.000Z"
   }
 ];

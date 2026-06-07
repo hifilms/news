@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tamim Iqbal officially elected as BCB president, becomes youngest to take the post",
+    "desc": "Former Bangladesh cricketer Tamim Iqbal was officially elected as the Bangladesh Cricket Board President on Sunday, June 7. Tamim was serving as the interim head of the BCB after the government had dissolved the BCB...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tamim-iqbal-officially-elected-as-bcb-president-becomes-youngest-to-take-the-post-2026-06-07-1043973",
+    "time": "2026-06-07T14:45:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What exactly happened to Max Verstappen at Monaco GP? Red Bull driver reveals after retirement",
+    "desc": "Max Verstappen and Red Bull endured a nightmare at the start of the Monaco Grand Prix as the four-time champion was forced to retire early in the 78-lapped race at the Crown Jewel on Sunday,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/formula-1/what-exactly-happened-to-max-verstappen-at-monaco-gp-red-bull-driver-reveals-after-retirement-2026-06-07-1043971",
+    "time": "2026-06-07T13:50:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Manav Suthar special leads India after gigantic batting effort; what major record he has in sights now?",
     "desc": "Manav Suthar led the charge with the ball as he scalped three wickets on his India debut during the second day of the one-off Test against Afghanistan on Sunday, June 7. Suthar displayed his brilliance...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-achieves-massive-feat-joins-elite-list-alongside-don-bradman-and-steve-smith-after-ton-2026-06-07-1043937",
     "time": "2026-06-07T07:42:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Usually doesn’t happen': Former opener weighs in on Suryakumar Yadav's exclusion from India's T20I squad",
-    "desc": "The BCCI (Board of Control for Cricket in India) has come forward and revealed the Indian team’s squad for the upcoming T20I series against Ireland and England. Shreyas Iyer will be leading the side with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/usually-doesn-t-happen-former-opener-weighs-in-on-suryakumar-yadav-s-exclusion-from-india-s-t20i-squad-2026-06-07-1043934",
-    "time": "2026-06-07T06:50:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former England cricketer questions Vaibhav Sooryavanshi's long-format ability after India call-up",
-    "desc": "The BCCI (Board of Control for Cricket in India) recently came forward and announced the Indian team’s squad for the upcoming Ireland and England tours. The BCCI revealed the T20I squads for the series, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-england-cricketer-questions-vaibhav-sooryavanshi-s-long-format-ability-after-india-call-up-2026-06-07-1043927",
-    "time": "2026-06-07T05:38:26.000Z"
   }
 ];
