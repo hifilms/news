@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shubman Gill enters elite list, continues red-hot form with stellar ton against Afghanistan",
+    "desc": "The Indian team was exceptional as they took on Afghanistan in the only Test of the ongoing multi-format series. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, from June...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-enters-elite-list-continues-red-hot-form-with-stellar-ton-against-afghanistan-2026-06-07-1043915",
+    "time": "2026-06-07T02:35:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's 1st day heroics against AFG sends visitors into a frenzy, hosts achieve massive feat",
+    "desc": "The Indian team put in a brilliant performance on day 1 of the ongoing, sole Test against Afghanistan. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, from June 6,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-1st-day-heroics-against-afg-sends-visitors-into-a-frenzy-hosts-achieve-massive-feat-2026-06-07-1043911",
+    "time": "2026-06-07T01:42:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer wins POTM after being named India T20I captain, Suryakumar Yadav bats at 200 strike rate",
     "desc": "Hours after being named India’s new T20I captain by chief selector Ajit Agarkar, Shreyas Iyer produced a match-winning knock in the Mumbai T20 League. The right-hander scored 61 off 36 deliveries to guide SoBo Mumbai...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-shubman-gill-s-century-highlights-india-s-dominance-on-day-1-of-one-off-test-vs-afghanistan-2026-06-06-1043874",
     "time": "2026-06-06T11:55:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Rajat Patidar wasn't considered for India's T20I squad despite back-to-back titles with RCB?",
-    "desc": "Despite leading Royal Challengers Bengaluru to back-to-back IPL titles, Rajat Patidar wasn’t considered for the India team for the upcoming T20I series against Ireland and England. He wasn’t picked in the squad for the Asian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-rajat-patidar-wasn-t-considered-for-india-s-t20i-squad-despite-back-to-back-titles-with-rcb-2026-06-06-1043871",
-    "time": "2026-06-06T11:32:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul set new benchmark with century vs Afghanistan, Shubman Gill behind him",
-    "desc": "India seized control of the opening day of the one-off Test against Afghanistan in New Chandigarh as opener KL Rahul combined a century with a major career milestone in First-Class cricket. The 34-year-old struck his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-set-new-benchmark-with-century-vs-afghanistan-shubman-gill-behind-him-2026-06-06-1043867",
-    "time": "2026-06-06T10:51:07.000Z"
   }
 ];
