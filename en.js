@@ -1,12 +1,102 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
-    "title": "Dario Pallini claims Theresa Randle broke into his home",
-    "desc": "In a shocking turn of events, actress Theresa Randle faces allegations from her former partner, Dario Pallini, who claims she repeatedly invaded his home. Reports suggest that during one such incident, tensions escalated when Randle allegedly hurled vegetables at Pallini and issued threats. Pallini also alleges a history of violence, stating Randle once assaulted him, leading to her arrest.",
-    "img": "https://static.toiimg.com/photo/msid-131563926,imgsize-99328.cms",
+    "title": "Aamir Khan's 'Lagaan' reunion plans",
+    "desc": "Aamir Khan's iconic film 'Lagaan' is gearing up for its 25th anniversary on June 15. Celebrations are set to include a special theatrical re-release on June 12, followed by a grand reunion event in Mumbai on June 13, bringing together the entire cast and crew to reminisce about the beloved sports drama.",
+    "img": "https://static.toiimg.com/photo/msid-131565480,imgsize-20070.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bad-boys-star-theresa-randles-ex-dario-pallini-claims-the-actress-broke-into-his-home/articleshow/131563862.cms",
-    "time": "2026-06-07T08:35:53.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-lagaan-reunion-plans-film-completes-25-years-team-set-to-reunite-in-mumbai-reports/articleshow/131565482.cms",
+    "time": "2026-06-07T10:49:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manav Suthar's dream debut: First Indian in 25 years to ...",
+    "desc": "Manav Suthar made a dream debut for India, taking a wicket on the fourth ball of his Test career against Afghanistan. The young left-arm spinner became the eighth Indian to achieve this feat, joining an elite list of bowlers. His immediate impact justified the team's faith in his selection.",
+    "img": "https://static.toiimg.com/photo/msid-131565286,imgsize-34180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/dream-debut-manav-suthar-ends-25-year-wait-scripts-history-with-wicket-in-first-over-of-test-career/articleshow/131565187.cms",
+    "time": "2026-06-07T10:31:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government says rates in India among world's lowest despite 46% jump in global benchmark",
+    "desc": "The government said the cost of supplying a domestic LPG cylinder has risen to more than ₹1,600 following a surge in international prices that followed the outbreak of war in West Asia at the end February",
+    "img": "https://th-i.thgim.com/public/incoming/4of4vr/article71072429.ece/alternates/LANDSCAPE_1200/LPG%20CRISIS%20DELHI_15_04_5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/lpg-price-hike-government-says-rates-in-india-among-worlds-lowest-despite-46-jump-in-global-benchmark/article71072406.ece",
+    "time": "2026-06-07T10:04:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anu Aggarwal on Janhvi's Peddi row: 'Responsibility rests..'",
+    "desc": "Veteran actress Anu Aggarwal weighed in on the Peddi controversy surrounding Janhvi Kapoor's portrayal, urging young actors to refuse roles that compromise human dignity. Drawing from her own experience, she said objectification made her walk away from films. Director Buchi Babu Sana has since apologised and confirmed the disputed scenes will be edited.",
+    "img": "https://static.toiimg.com/photo/msid-131564883,imgsize-18508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anu-aggarwal-on-janhvi-kapoors-peddi-row-responsibility-rests-with-actors-/articleshow/131564883.cms",
+    "time": "2026-06-07T09:58:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When three MINOR Salman Khan fans travelled hundreds of kilometres",
+    "desc": "Three Delhi schoolboys, aged 13, 11, and nine, went missing after secretly travelling to Maharashtra to meet Salman Khan, believing an online contact could arrange it. A multi-day police search, aided by a handwritten note and CCTV footage, tracked their journey. The boys were eventually found safe in Nashik after four days, concluding a remarkable fan-driven escapade.",
+    "img": "https://static.toiimg.com/photo/msid-131564834,imgsize-41376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-three-minor-salman-khan-fans-travelled-hundreds-of-kilometres-from-delhi-hoping-to-meet-their-idol/articleshow/131564807.cms",
+    "time": "2026-06-07T09:52:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘People said cricket had no scope’: Manav Suthar's emotional reaction after India debut",
+    "desc": "Manav Suthar's dream materialized with his maiden India Test call-up against Afghanistan, a moment his sister first shared. The left-arm spinner, who debuted receiving his cap from Kuldeep Yadav, spoke of years of hard work and family emotions. Inspired by Yuvraj Singh and R Ashwin, Suthar's journey from street cricket to the international stage is a testament to his perseverance.",
+    "img": "https://static.toiimg.com/photo/msid-131564760,imgsize-69100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/people-said-cricket-had-no-scope-manav-suthars-emotional-reaction-after-india-debut/articleshow/131564769.cms",
+    "time": "2026-06-07T09:48:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil shock fears overdone, India can grow above 8%: Neelkanth Mishra",
+    "desc": "India's economic growth is robust, with concerns over high crude oil prices being exaggerated, according to World Bank Executive Director Neelkanth Mishra. He highlighted strong domestic demand and refining margins as buffers, suggesting growth could exceed 8% and remain in the 7.5-8% range even with elevated oil prices. Mishra believes the economy is well-positioned to absorb price shocks.",
+    "img": "https://static.toiimg.com/photo/msid-131564591,imgsize-515475.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-shock-fears-overdone-india-can-grow-above-8-neelkanth-mishra/articleshow/131564566.cms",
+    "time": "2026-06-07T09:40:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Security beefed up at CJP founder Dipke's home in Chhatrapati Sambhajinagar",
+    "desc": "Earlier, 11 security personnel were deployed; now the number has reached 15; the deployed staff is from the local police station as well as the city police headquarters, said an official from MIDC Waluj police station",
+    "img": "https://th-i.thgim.com/public/incoming/9y03mj/article71072568.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000089B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/mumbai/security-beefed-up-at-cjp-founder-dipkes-home-in-chhatrapati-sambhajinagar/article71072587.ece",
+    "time": "2026-06-07T09:35:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We're children of the same rivers': Nepal calls on India to 'discuss dormant ties'",
+    "desc": "Nepal's Foreign Minister Shisir Khanal on Sunday called for a stronger development-oriented partnership with India, stressing on the revival of dormant bilateral mechanisms and high-level political exchanges to resolve issues such around boundary. During his visit, discussions covered trade, connectivity, energy, water resources, and people-to-people ties, with a focus on economic growth and innovation.",
+    "img": "https://static.toiimg.com/photo/msid-131564523,imgsize-859242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/were-children-of-the-same-rivers-nepal-calls-on-india-to-discuss-dormant-ties/articleshow/131564339.cms",
+    "time": "2026-06-07T09:32:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ctrl+alt+examine: Can India's biggest exams go online?",
+    "desc": "India's massive entrance exam system faces a digital dilemma. While online tests promise cost savings, speed, and reduced environmental impact, significant digital divides in infrastructure and familiarity pose major hurdles. Ensuring equitable access and preparation for all students remains paramount before a widespread shift can be considered successful.",
+    "img": "https://static.toiimg.com/photo/msid-131564564,imgsize-1224892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ctrlaltexamine-can-indias-biggest-exams-go-online/articleshow/131564510.cms",
+    "time": "2026-06-07T09:31:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Umpiring decisions go in their favor': Pakistan's Khushdil Shah alleges bias towards India in cricket",
+    "desc": "Pakistan all-rounder Khushdil Shah alleges that India frequently benefits from favorable umpiring and match-related decisions in India-Pakistan encounters. Speaking on the ARY Podcast, Shah claimed that decisions on and off the field, including those in the dressing room and match scheduling, often favor the Men in Blue.",
+    "img": "https://static.toiimg.com/photo/msid-131564449,imgsize-760624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/umpiring-decisions-go-in-their-favor-pakistans-khushdil-shah-alleges-bias-towards-india-in-cricket/articleshow/131564389.cms",
+    "time": "2026-06-07T09:23:48.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +105,79 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/razaaa/article71072654.ece/alternates/LANDSCAPE_1200/10214_11_5_2026_13_42_44_2__SAT7075_1.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Coimbatore/despite-last-minute-preparations-visitor-numbers-during-summer-festival-season-increased-28-in-2026/article71072594.ece",
-    "time": "2026-06-07T08:34:47.000Z"
+    "time": "2026-06-07T09:11:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Quit cricket at 16, now bags 6/140 vs India",
+    "desc": "Three years after catching Rana Naved-ul-Hasan's attention at Afghanistan's high-performance centre, Mohammad Saleem Safi delivered the performance of his life against India. The 23-year-old pacer claimed a maiden six-wicket haul, completing a remarkable journey from financial hardship and self-doubt to becoming Afghanistan's newest pace sensation.",
+    "img": "https://static.toiimg.com/photo/msid-131564230,imgsize-77222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/the-rise-of-mohammad-saleem-safi-quit-cricket-at-16-impressed-pakistans-rana-naved-ul-hasan-with-pace-now-bags-6/140-vs-india/articleshow/131564228.cms",
+    "time": "2026-06-07T09:06:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Kajol couldn't recognise anyone after set accident during shoot",
+    "desc": "During the filming of 'Kuch Kuch Hota Hai's' popular song 'Yeh Ladka Hai Deewana', Kajol suffered a fall from a bicycle, leading to temporary memory loss. The incident caused panic on set, with the actress reportedly struggling to recognize people. Ajay Devgn rushed to her side, helping her recover and highlighting their strong bond.",
+    "img": "https://static.toiimg.com/photo/msid-131564225,imgsize-89268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-kajol-couldnt-recognise-anyone-after-set-accident-during-kuch-kuch-hota-hai-shoot-but-remembered-ajay-devgn-instantly/articleshow/131564207.cms",
+    "time": "2026-06-07T09:00:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Maharashtra onion farmers demand Rs 3,000/quintal, say relief measures fall short",
+    "desc": "Maharashtra farmers welcomed relaxed onion procurement rules but demand a minimum support price of Rs 3,000 per quintal, stating current rates of Rs 1,580 are below production costs. They seek transparent procurement and compensation for past losses, arguing that rule changes alone won't resolve their financial distress.",
+    "img": "https://static.toiimg.com/photo/msid-131564161,imgsize-45300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/maharashtra-onion-farmers-demand-rs-3000/quintal-say-relief-measures-fall-short/articleshow/131563922.cms",
+    "time": "2026-06-07T08:54:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varun praises Salman Khan for keeping it real",
+    "desc": "Varun Dhawan opened up about the loneliness that comes with fame, saying most actors struggle with it despite their glamorous image. He credited Salman Khan's unfiltered late-night Instagram posts as an example of authenticity, adding that staying true to yourself is essential, otherwise you won't realise what you've become.",
+    "img": "https://static.toiimg.com/photo/msid-131564141,imgsize-22476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/at-least-hes-being-himself-varun-dhawan-opens-up-about-stardom-and-praises-salman-khan-for-keeping-it-real/articleshow/131564141.cms",
+    "time": "2026-06-07T08:50:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "James Handy’s last project dropped from production",
+    "desc": "Actor James Handy's final project, a comedy skit titled 'Kickstart, V,' has been cancelled following his tragic murder. The film's writer and producer confirmed the decision, citing respect for the actor. Handy was reportedly stabbed multiple times, and his girlfriend's son has been arrested and charged with his murder.",
+    "img": "https://static.toiimg.com/photo/msid-131564093,imgsize-31918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-handys-last-project-axed-after-his-demise-heidi-anderson-swan-confirms-kickstart-v-being-dropped/articleshow/131564093.cms",
+    "time": "2026-06-07T08:46:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matt Damon calls 'The Odyssey' his hardest film ever made",
+    "desc": "Matt Damon revealed Christopher Nolan's 'The Odyssey' was his toughest film yet, emphasizing the director's commitment to practical effects and real locations. The upcoming mythic epic, based on Homer's poem, sees Damon as Odysseus on his arduous journey home. The star shared his experience while attending a California Adopt-A-Pet Day event, highlighting the demanding nature of the production.",
+    "img": "https://static.toiimg.com/photo/msid-131564005,imgsize-124358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/matt-damon-says-christopher-nolans-the-odyssey-was-the-hardest-movie-he-has-ever-made/articleshow/131563939.cms",
+    "time": "2026-06-07T08:44:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manoj recalls 'Bhonsle' funding hurdles",
+    "desc": "Manoj Bajpayee recently discussed his collaborations with filmmaker Devashish Makhija, highlighting the funding challenges that delayed projects like 'Tandav' and 'Bhonsle'. He revealed that 'Tandav' was initially conceived as a short film due to financial hurdles, while 'Joram' proved to be a deeply immersive and testing experience for him as an actor.",
+    "img": "https://static.toiimg.com/photo/msid-131563930,imgsize-24722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-recalls-bhonsle-funding-hurdles-says-joram-tested-him-as-an-actor/articleshow/131563942.cms",
+    "time": "2026-06-07T08:38:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dario Pallini claims Theresa Randle broke into his home",
+    "desc": "In a shocking turn of events, actress Theresa Randle faces allegations from her former partner, Dario Pallini, who claims she repeatedly invaded his home. Reports suggest that during one such incident, tensions escalated when Randle allegedly hurled vegetables at Pallini and issued threats. Pallini also alleges a history of violence, stating Randle once assaulted him, leading to her arrest.",
+    "img": "https://static.toiimg.com/photo/msid-131563926,imgsize-99328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bad-boys-star-theresa-randles-ex-dario-pallini-claims-the-actress-broke-into-his-home/articleshow/131563862.cms",
+    "time": "2026-06-07T08:35:53.000Z"
   },
   {
     "cat": "Sports",
@@ -34,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-cate-blanchett-the-women-who-really-change-the-game-are-always-the-women-that-no-one-knows-what-to-do-with-initially/articleshow/131563739.cms",
     "time": "2026-06-07T08:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Security beefed up at CJP founder Dipke's home in Chhatrapati Sambhajinagar",
-    "desc": "Earlier, 11 security personnel were deployed; now the number has reached 15; the deployed staff is from the local police station as well as the city police headquarters, said an official from MIDC Waluj police station",
-    "img": "https://th-i.thgim.com/public/incoming/9y03mj/article71072568.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000089B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/mumbai/security-beefed-up-at-cjp-founder-dipkes-home-in-chhatrapati-sambhajinagar/article71072587.ece",
-    "time": "2026-06-07T08:25:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -145,21 +298,21 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
+    "title": "'Peddi' Controversy: Janhvi's alleged chats mention Sreeleela",
+    "desc": "Alleged private messages attributed to Janhvi Kapoor have surfaced online, reigniting discussions around the film 'Peddi'. The unverified screenshots suggest the actress had concerns about her role and the filming process, even mentioning her father's potential presence. These revelations follow director Buchi Babu Sana's defense of the movie's portrayal of women.",
+    "img": "https://static.toiimg.com/photo/msid-131563285,imgsize-26708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/peddi-controversy-janhvi-kapoors-alleged-chats-mention-sreeleela-theyll-say-close-up-and-put-camera-on-your-cant-trust-/articleshow/131563289.cms",
+    "time": "2026-06-07T07:16:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "If you're given power, use it to contribute, not enjoy it: Manoj Bajpayee",
     "desc": "Manoj Bajpayee stars as former RBI Governor S. Venkitaramanan in 'The Governor,' an economic thriller detailing his crucial role during India's 1991 financial crisis. Bajpayee embraced the challenge of portraying the largely unknown economist, focusing on capturing his essence and the emotional weight of his responsibilities during a national emergency.",
     "img": "https://static.toiimg.com/photo/msid-131563239,imgsize-19290.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/if-youre-given-power-use-it-to-contribute-not-enjoy-it-says-actor-manoj-bajpayee/articleshow/131563252.cms",
     "time": "2026-06-07T07:13:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chinese actor Jin Ze passes away at 33",
-    "desc": "The Chinese entertainment world is in mourning following the sudden death of actor Jin Ze, aged 33. His management company confirmed his passing on June 4th at his Hangzhou residence, with details of the cause undisclosed. The agency has appealed for privacy for his grieving family and urged the public to refrain from spreading unverified rumors.",
-    "img": "https://static.toiimg.com/photo/msid-131563258,imgsize-126508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chinese-actor-jin-ze-passes-away-at-33-lets-protect-his-dignity-refuse-rumors-agency-appeals-for-privacy/articleshow/131563240.cms",
-    "time": "2026-06-07T07:13:01.000Z"
   },
   {
     "cat": "Business",
@@ -180,24 +333,6 @@ const newsData_en = [
     "time": "2026-06-07T07:04:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'People are less forgiving'",
-    "desc": "Saif Ali Khan reflects on his early career, admitting his initial work wasn't impressive but he survived due to a lack of competition and a more forgiving audience. He now advises his children, Sara and Ibrahim, that today's film industry demands greater preparation, as it's significantly less forgiving than in his time.",
-    "img": "https://static.toiimg.com/photo/msid-131563140,imgsize-103952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-opens-up-about-his-advice-to-kids-sara-ali-khan-and-ibrahim-ali-khan-people-are-less-forgiving-now/articleshow/131563123.cms",
-    "time": "2026-06-07T07:01:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunny shares RARE photo of Bobby and mother to celebrate Bandar",
-    "desc": "Sunny Deol celebrated his brother Bobby Deol's success in Bandar by sharing a rare and heartwarming photo of Bobby with their mother Prakash Kaur. The film, directed by Anurag Kashyap, earned Rs 1.45 crore in two days. Bobby plays a singer-actor falsely accused of sexual assault in the film.",
-    "img": "https://static.toiimg.com/photo/msid-131563168,imgsize-60302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/so-happy-bob-sunny-deol-shares-rare-photo-of-bobby-deol-and-mother-prakash-kaur-to-celebrate-bandar-success/articleshow/131563168.cms",
-    "time": "2026-06-07T07:00:22.000Z"
-  },
-  {
     "cat": "World",
     "title": "South Korea nominates Han ​Seong-sook as country's first female Prime Minister in two decades",
     "desc": "Ms. Han, who ​had also ‌previously served as chief executive of South Korean internet giant Naver, is ‌expected to lead the country’s ​AI transformation, South Korea’s presidential Chief of Staff ⁠Kang Hoon-sik said at a press briefing",
@@ -214,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mera-sapna-teeno-format-khelne-ka-hai-vaibhav-sooryavanshis-clear-message-after-maiden-india-call-up/articleshow/131563130.cms",
     "time": "2026-06-07T06:55:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Morgan Wallen’s concert gets cancelled because of bad weather",
-    "desc": "In a disappointing turn of events, Morgan Wallen's much-anticipated concert at Acrisure Stadium in Pittsburgh was cancelled due to serious weather warnings. Prioritizing the safety of his fans and crew, Wallen made the decision to call off the show. Ticket holders will receive refunds automatically through their original payment method, ensuring a hassle-free process.",
-    "img": "https://static.toiimg.com/photo/msid-131563085,imgsize-104654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/morgan-wallens-pittsburgh-concert-gets-cancelled-owing-to-severe-weather-conditions-safety-for-my-fans-and-crew-is-highest-priority/articleshow/131563074.cms",
-    "time": "2026-06-07T06:49:02.000Z"
   },
   {
     "cat": "Sports",
@@ -253,15 +379,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Why female representation in films remains talking point",
-    "desc": "The 'Peddi' controversy highlights concerns over female character portrayal in South Indian cinema, with viewers questioning their depth and purpose. Actress Janhvi Kapoor's role sparked debate, prompting director responses and support from industry peers. This discussion echoes broader criticisms of women's representation in mainstream Indian films, contrasting with Malayalam cinema's nuanced approach.",
-    "img": "https://static.toiimg.com/photo/msid-131562780,imgsize-142084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/peddi-pushpa-kanguva-why-female-representation-in-south-indian-cinema-remains-talking-point/articleshow/131562765.cms",
-    "time": "2026-06-07T06:21:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "the ultimate meme king",
     "desc": "For three years after winning the National Award in 2011, the genial actor had stayed away from silver screen due to poor health. Yet he remained alive in public memory, thanks largely to memes that liberally drew on his image and witty dialogues, giving them a sharp satirical edge",
     "img": "https://th-i.thgim.com/public/incoming/e0lzcb/article71071052.ece/alternates/LANDSCAPE_1200/Salim%20Kumar%201.jpg",
@@ -277,33 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/from-ignominy-salim-kumar-took-firm-strides-to-national-acclaim/article71071007.ece",
     "time": "2026-06-07T06:15:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about Katherine Heigl’s rumors that have followed her through the years",
-    "desc": "In a candid interview, Katherine Heigl tackles the ongoing 'diva' label often attached to her name, emphasizing the importance of establishing personal boundaries in the competitive realm of Hollywood. She clarifies that her assertiveness is not rudeness but a reflection of a strong woman who deserves respect and a professional environment.",
-    "img": "https://static.toiimg.com/photo/msid-131562762,imgsize-149062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-katherine-heigl-said-im-not-a-rude-person-and-got-honest-about-her-diva-image-in-the-industry/articleshow/131562733.cms",
-    "time": "2026-06-07T06:14:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Janhvi's make-up artist DEFENDS her amid 'Peddi' row",
-    "desc": "The 'Peddi' controversy has seen Janhvi Kapoor's makeup artist stepping into the spotlight, defending the actress by stating that she had previously voiced objections to aspects of the film overlooked during production. In response, director Buchi Babu Sana has publicly apologized for oversexualizing Janhvi's role and intends to revise those elements.",
-    "img": "https://static.toiimg.com/photo/msid-131562752,imgsize-175840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoors-make-up-artist-defends-her-amid-peddi-row-she-drew-a-professional-line-but-final-edit-kept-footage-anyway/articleshow/131562712.cms",
-    "time": "2026-06-07T06:14:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prince Harry taps Meghan Markle in bid to 'Win Over' King Charles",
-    "desc": "Prince Harry and Meghan Markle are reportedly united in their efforts to reconcile with King Charles III. Meghan has reportedly sent a gift to the King and Queen, and a recent wedding anniversary post featured a photo of Charles, signaling a calculated move towards repairing ties.",
-    "img": "https://static.toiimg.com/photo/msid-131562468,imgsize-99614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/prince-harry-recruits-meghan-markle-to-help-win-over-king-charles-as-reconciliation-efforts-intensify/articleshow/131562461.cms",
-    "time": "2026-06-07T05:50:00.000Z"
   },
   {
     "cat": "Sports",
@@ -325,48 +415,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Government says rates in India among world's lowest despite 46% jump in global benchmark",
-    "desc": "The government said the cost of supplying a domestic LPG cylinder has risen to more than ₹1,600 following a surge in international prices that followed the outbreak of war in West Asia at the end February",
-    "img": "https://th-i.thgim.com/public/incoming/4of4vr/article71072429.ece/alternates/LANDSCAPE_1200/LPG%20CRISIS%20DELHI_15_04_5.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lpg-price-hike-government-says-rates-in-india-among-worlds-lowest-despite-46-jump-in-global-benchmark/article71072406.ece",
-    "time": "2026-06-07T05:38:47.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Why crude hasn't hit the $200 mark",
     "desc": "Despite fears of $200 oil following Strait of Hormuz disruptions, prices remain below $100. This resilience is attributed to increased US exports, weaker Chinese demand, and alternative supply routes. While some shipping through the strait continues, overall transits are down. Emergency measures and subdued demand have averted the worst-case scenario, but market stability hinges on temporary solutions.",
     "img": "https://static.toiimg.com/photo/msid-131562459,imgsize-2132281.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/saved-by-the-barrel-why-crude-hasnt-hit-the-200-mark/articleshow/131562306.cms",
     "time": "2026-06-07T05:38:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Why Princess Diana's Tiara won't go to Kate Middleton or Meghan Markle",
-    "desc": "The legendary Spencer tiara, famously worn by Princess Diana on her wedding day, is not destined for either Kate Middleton or Meghan Markle. This exquisite piece of history will stay with the Spencer family, cherished by Diana's sisters and preserved through the years. Its legacy is firmly rooted in the Spencer heritage, outside the bounds of royal inheritance.",
-    "img": "https://static.toiimg.com/photo/msid-131562427,imgsize-146614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/why-princess-dianas-iconic-spencer-tiara-will-never-be-worn-by-kate-middleton-or-meghan-markle/articleshow/131562415.cms",
-    "time": "2026-06-07T05:36:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lady Gaga's tattoos explained: Stories behind her iconic ink",
-    "desc": "Lady Gaga's body is a living testament to her life's journey, with each tattoo narrating profound personal experiences. From her first treble clef to tributes for David Bowie and John Lennon, these markings chronicle love, survival, and artistic passion. Her left side, a deliberate choice, holds these stories, a permanent diary etched in ink.",
-    "img": "https://static.toiimg.com/photo/msid-131562317,imgsize-92340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lady-gagas-tattoos-decoded-the-emotional-symbolism-behind-her-roses-music-notes-and-german-tribute-ink/articleshow/131561778.cms",
-    "time": "2026-06-07T05:28:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi Police allowed CJP’s protest to ‘pacify’ burgeoning youth anger; Dipke secured approval in minutes",
-    "desc": "After analysing the chatter on social media and getting a sense of the situation on the ground, it was felt that refusing permission may have led to some protesters storming the venue or the police station; the confrontation would have further fuelled the anger among the youth, government sources say",
-    "img": "https://th-i.thgim.com/public/incoming/91e0xx/article71070956.ece/alternates/LANDSCAPE_1200/17_Abhijeet_Dipke_Arrival_IGI_Airport_06_06_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cjp-founder-applied-for-permission-at-delhi-airport-got-it-within-minutes/article71070751.ece",
-    "time": "2026-06-07T05:20:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +477,6 @@ const newsData_en = [
     "time": "2026-06-07T03:56:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "AIADMK to contest bypolls for 4 Assembly constituencies, says Edappadi K. Palaniswami",
-    "desc": "Speaking at a public meeting to thank the voters of his constituency of Edappadi, he alleges that the TVK is the same as the DMK and the people will soon understand about the TVK government",
-    "img": "https://th-i.thgim.com/public/incoming/qyaj8m/article71070576.ece/alternates/LANDSCAPE_1200/9868_6_6_2026_20_20_2_2_EPS_ADDRESSING_4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmkto-contestbypollsfor-4-assembly-constituencies-says-edappadi-k-palaniswami/article71070379.ece",
-    "time": "2026-06-07T03:46:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Antonelli stuns Ferrari duo to snatch pole, Verstappen joins front row",
     "desc": "Nineteen-year-old Kimi Antonelli secured a stunning pole position at the Monaco Grand Prix, defying expectations and Mercedes' first pole of the decade. Despite Ferrari's strong practice pace, Antonelli's decisive final lap edged out Max Verstappen, setting the stage for a thrilling strategic battle.",
@@ -457,33 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-did-supreme-court-back-curbs-on-online-gaming-explained/article71070728.ece",
     "time": "2026-06-07T03:18:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shut but open",
-    "desc": "Every time a new party comes to power, closing liquor shops becomes one of its standard promises. But shops are eventually opened in other locations. Is the Tamilaga Vettri Kazhagam government’s decision to shut 717 liquor shops near educational institutions and places of worship going to be any different, people wonder",
-    "img": "https://th-i.thgim.com/public/incoming/fnzb11/article71070963.ece/alternates/LANDSCAPE_1200/Tasmac.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-tasmac-shops-closure-no-end-to-drunken-nuisance-at-public-spaces/article71070961.ece",
-    "time": "2026-06-07T03:01:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kohli out, Jaiswal in: Former India cricketer calls it an 'embarrassment of riches'",
-    "desc": "Former cricketer Atul Wassan views Virat Kohli's absence from the Afghanistan ODI series as a strategic advantage. This break aids workload management for the 2027 World Cup and provides a platform for emerging talent like Yashasvi Jaiswal. Wassan believes preserving key players like Kohli and Bumrah is crucial for major tournaments, highlighting India's batting depth.",
-    "img": "https://static.toiimg.com/photo/msid-131561346,imgsize-51466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/virat-kohli-out-yashasvi-jaiswal-in-former-india-cricketer-calls-it-an-embarrassment-of-riches/articleshow/131561317.cms",
-    "time": "2026-06-07T02:52:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "World Cup warning? Germany ride nine-match winning streak after edging USA",
-    "desc": "Germany secured a hard-fought 2-1 victory over the United States in a friendly, extending their winning streak to nine matches ahead of the FIFA World Cup. Kai Havertz opened the scoring early, and Leroy Sané's second-half strike proved decisive. The win builds significant momentum for the four-time world champions.",
-    "img": "https://static.toiimg.com/photo/msid-131561242,imgsize-201232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/world-cup-warning-germany-ride-nine-match-winning-streak-after-edging-usa-in-final-tune-up/articleshow/131561244.cms",
-    "time": "2026-06-07T02:25:21.000Z"
   },
   {
     "cat": "Politics",
@@ -523,48 +541,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Very happy for Shreyas Iyer': Surya reacts after losing India captaincy",
-    "desc": "Suryakumar Yadav has graciously congratulated Shreyas Iyer on his appointment as India's new T20I captain for the upcoming Ireland and England series. Despite being replaced as captain and dropped from the squad after leading India to a T20 World Cup victory, Suryakumar expressed pride in his Mumbai teammate's achievement, highlighting the strong representation from Mumbai cricket.",
-    "img": "https://static.toiimg.com/photo/msid-131554000,imgsize-118606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/very-happy-for-shreyas-iyer-suryakumar-yadav-reacts-after-losing-india-captaincy/articleshow/131553902.cms",
-    "time": "2026-06-07T00:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill scripts history, becomes quickest Indian captain to...",
-    "desc": "Shubman Gill achieved a significant milestone by scoring an unbeaten century against Afghanistan, becoming the 11th Indian captain to surpass 1,000 Test runs. He is the second-fastest Indian captain to reach this mark in innings and the quickest in terms of time, solidifying his impactful leadership.",
-    "img": "https://static.toiimg.com/photo/msid-131552332,imgsize-76100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/shubman-gill-scripts-history-becomes-quickest-indian-captain-to-1000-test-runs/articleshow/131552315.cms",
-    "time": "2026-06-06T23:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Army officer dies after falling into gorge during anti-terror operation in J&amp;K's Rajouri",
-    "desc": "A tragic incident unfolded in Jammu and Kashmir's Rajouri district as a lieutenant lost his life after a fall into a deep gorge during an ongoing anti-terror operation. The officer was part of the extensive search for suspected Pakistani terrorists in the Dorimaal and Gambhir Mughalan areas. His body has since been recovered following the unfortunate accident.",
-    "img": "https://static.toiimg.com/photo/msid-131556531,imgsize-1450430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/army-officer-dies-after-falling-into-gorge-during-anti-terror-operation-in-jks-rajouri/articleshow/131556534.cms",
-    "time": "2026-06-06T17:39:49.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "India vs Afghanistan one-off Test: Rahul, Gill’s hundreds put India in command",
     "desc": "The opener makes the most of an early reprieve while the skipper oozes class as the home team amasses 368 for three on the opening day; Sai Sudharsan and Pant, too, get going on a flat pitch",
     "img": "https://th-i.thgim.com/public/incoming/gk5cs2/article71069723.ece/alternates/LANDSCAPE_1200/PTI06_06_2026_000371B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-vs-afghanistan-one-off-test-mullanpur-day-1/article71068471.ece",
     "time": "2026-06-06T17:22:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Very special relationship’: Jaishankar calls for ‘decisive shift’ in India–Nepal ties; Kathmandu signals reset, says ‘no old baggage’",
-    "desc": "India and Nepal are poised to significantly enhance their \"very special relationship,\" with discussions focusing on expanding cooperation in energy, digital technology, and new sectors. Both nations emphasized their civilizational ties and a shared resolve for a transformative partnership, aiming to unlock its full potential amidst ongoing collaboration and mutual support.",
-    "img": "https://static.toiimg.com/photo/msid-131556217,imgsize-1464058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/very-special-relationship-jaishankar-calls-for-decisive-shift-in-indianepal-ties-kathmandu-signals-reset-says-no-old-baggage/articleshow/131556145.cms",
-    "time": "2026-06-06T17:21:54.000Z"
   },
   {
     "cat": "World",
@@ -646,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-chairs-eac-meeting-discusses-measures-to-boost-indias-economic-growth-amid-global-turmoil/articleshow/131547759.cms",
     "time": "2026-06-06T08:41:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas era begins; SKY dropped, Sooryavanshi picked",
-    "desc": "Shreyas Iyer has been appointed as India's new T20I captain, replacing Suryakumar Yadav. Tilak Varma is the new vice-captain. The squads for Ireland, England, and Asian Games were announced, with Jasprit Bumrah returning for the latter. Young Vaibhav Sooryavanshi also earned a spot in both squads.",
-    "img": "https://static.toiimg.com/photo/msid-131547477,imgsize-1084924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-t20i-squads-shreyas-iyer-era-begins-suryakumar-yadav-dropped-vaibhav-sooryavanshi-picked/articleshow/131547500.cms",
-    "time": "2026-06-06T08:12:57.000Z"
   },
   {
     "cat": "Business",
@@ -765,15 +738,6 @@ const newsData_en = [
     "time": "2026-06-05T20:09:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "RBI cuts growth, hikes inflation forecast as West Asia crisis bites",
-    "desc": "The RBI maintained the repo rate at 5.25% amidst economic slowdown fears and rising inflation risks from the West Asia conflict. Governor Sanjay Malhotra signaled concern over generalized inflation, cutting the FY27 growth forecast to 6.6% and raising inflation projections to 5.1%.",
-    "img": "https://static.toiimg.com/photo/msid-131540481,imgsize-54846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-cuts-growth-hikes-inflation-forecast-as-west-asia-crisis-bites/articleshow/131540469.cms",
-    "time": "2026-06-05T20:00:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mirra Andreeva's new calm meets surprise package Maja Chwalinska in French Open final",
     "desc": "Facing the unheralded Lois Boisson for a spot in the French Open semifinals, the Russian teenager lost her temper, losing in straight sets after receiving a warning for angrily hitting a ball into the stands.",
@@ -808,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-cabinet-trouble-for-dk-shivakumar-as-ramalinga-reddy-resigns-above-the-fold-05062026/article71067211.ece",
     "time": "2026-06-05T18:12:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pressure on Modi to limit India-Russia ties will hurt global stability: Putin",
-    "desc": "A “large economy” like India will prioritise national interests, and its relations with the U.S. will not cause friction with Russia, says Vladimir Putin; Russian President says it is “not a good idea” to interfere in the “delicate” India-China ties",
-    "img": "https://th-i.thgim.com/public/incoming/u0jjw9/article71064689.ece/alternates/LANDSCAPE_1200/2026-05-28T101113Z_889751841_RC29ILAD5HKL_RTRMADP_3_KAZAKHSTAN-RUSSIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russian-president-vladimir-putin-press-conference-with-pti/article71064672.ece",
-    "time": "2026-06-05T16:40:34.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/chwalinska-topples-shnaider-to-book-french-open-final-with-andreeva/article71062800.ece",
     "time": "2026-06-04T20:42:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KS Bharat announces retirement from international cricket",
+    "desc": "With a proud heart and a sense of gratitude, I announce my retirement from international cricket. To play for my country has been the greatest honour of my life, says India wicketkeeper-batter Kona Srikar Bharat",
+    "img": "https://th-i.thgim.com/public/incoming/n7fve6/article71062799.ece/alternates/LANDSCAPE_1200/VIS_2616.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ks-bharat-announces-retirement-from-international-cricket/article71062798.ece",
+    "time": "2026-06-04T20:38:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas, Tare combine powers Falcons to a win",
+    "desc": "Tare and Iyer rolled back the years to help SOBO Mumbai Falcons register its first win of the T20 Mumbai, surviving a late wobble to secure a three-wicket victory against defending champion MSC Maratha Royals.",
+    "img": "https://th-i.thgim.com/public/sport/581psd/article71061860.ece/alternates/LANDSCAPE_1200/Shreyas%20Iyer%20of%20SOBO%20Mumbai%20Falcons%20hits%20a%20shot%20during%20a%20Nuvama%20Private%20T20%20Mumbai%20League%202026%20match%20at%20the%20Wankhede%20Stadium%20on%20June%204.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/shreyas-tare-combine-powers-falcons-to-a-win/article71061855.ece",
+    "time": "2026-06-04T19:22:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "S.P. Charan on finding his own voice",
+    "desc": "How does SP Charan take to comparisons with his late legendary father, SP Balasubrahmanyam? “I’ve made peace with it,” says the singer-actor, who is currently putting together a musical tribute, SPB 80. In a detailed interview with ‘The Hindu’, Charan talks about handling the pressures of being SPB’s son, how he handled the recognition and how he now plans to carry the legacy forward. Charan also talks about his role as a producer and what cinema taught him.",
+    "img": "https://th-i.thgim.com/public/incoming/m0vt1d/article71060880.ece/alternates/LANDSCAPE_1200/5.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-sp-charan-on-finding-his-own-voice/article71060883.ece",
+    "time": "2026-06-04T11:30:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Triptii Dimri on exploring comedy in ‘Maa Behen’: It’s not easy to make people laugh",
+    "desc": "Actors Triptii Dimri, Dharna Durga, and director Suresh Triveni talk about their upcoming dark comedy, ‘Maa Behen’. Triptii opens up on working on the heartland Hindi accent, her approach to comedy, how she chooses her scripts, and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/k6lv55/article71048375.ece/alternates/LANDSCAPE_1200/triptii%20cover%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/triptii-dimri-maa-behen-interview-suresh-triveni-madhuri-dixit-netflix-film/article71048250.ece",
+    "time": "2026-06-04T09:26:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Killer’ movie stuntman dies as cylinder explodes during shoot in Otteri",
+    "desc": "A large number of crew members were transferring carbon dioxide gas from a large cylinder to a smaller one for a fight sequence set within a ring of fire. During the transfer, one of the cylinders exploded, killing stuntman Madhan",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/xidhja/article71060289.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-04%20at%201.31.04%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/sj-suryah-killer-movie-stuntman-killed-as-cylinder-explodes-during-shoot-in-otteri/article71056291.ece",
+    "time": "2026-06-04T09:11:44.000Z"
   }
 ];
