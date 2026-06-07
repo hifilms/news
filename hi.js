@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Manav Suthar special leads India after gigantic batting effort; what major record he has in sights now?",
+    "desc": "Manav Suthar led the charge with the ball as he scalped three wickets on his India debut during the second day of the one-off Test against Afghanistan on Sunday, June 7. Suthar displayed his brilliance...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-special-leads-india-after-gigantic-batting-effort-what-major-record-he-has-in-sights-now-2026-06-07-1043968",
+    "time": "2026-06-07T13:35:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WTC 2025-27 updated points table after England register commanding win over New Zealand at Lord's",
+    "desc": "England handed New Zealand a drubbing in the first Test of the three-match series at the iconic Lord's as Gus Atkinson and Ollie Robinson starred with the ball in a 115-run victory. Making a return after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wtc-2025-27-updated-points-table-after-england-register-commanding-win-over-new-zealand-at-lords-2026-06-07-1043962",
+    "time": "2026-06-07T12:03:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rahmat Shah creates history, becomes first Afghanistan player to massive milestone",
     "desc": "Afghanistan star batter Rahmat Shah etched his name into the history books as he completed his 1000 runs in the format during the one-off Test against India at the Maharaja Yadavindra Singh International Cricket Stadium,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-england-cricketer-questions-vaibhav-sooryavanshi-s-long-format-ability-after-india-call-up-2026-06-07-1043927",
     "time": "2026-06-07T05:38:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch the French Open 2026 final live on TV and online in India?",
-    "desc": "The stage is set for the final of the French Open 2026. Italy’s Flavio Cobolli will be taking on Germany’s Alexander Zverev in the summit clash of the tournament as the two stars lock horns...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-vs-flavio-cobolli-where-to-watch-the-french-open-2026-final-live-on-tv-and-online-in-india-2026-06-07-1043921",
-    "time": "2026-06-07T04:14:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill enters elite list, continues red-hot form with stellar ton against Afghanistan",
-    "desc": "The Indian team was exceptional as they took on Afghanistan in the only Test of the ongoing multi-format series. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, from June...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-enters-elite-list-continues-red-hot-form-with-stellar-ton-against-afghanistan-2026-06-07-1043915",
-    "time": "2026-06-07T02:35:37.000Z"
   }
 ];

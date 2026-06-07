@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Indian politics dominated by Hindu-Muslim agenda; joblessness key concern, CJP apolitical: Dipke",
+    "desc": "Addressing a press conference in Chhatrapati Sambhajinagar, a day after leading an agitation in Delhi, Mr. Dipke reiterated the demand for Union Minister Dharmendra Pradhan’s resignation amid the row over the alleged NEET paper leak and CBSE OSM glitches",
+    "img": "https://th-i.thgim.com/public/incoming/6e1v8d/article71073290.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2011.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indian-politics-dominated-by-hindu-muslim-agenda-joblessness-key-concern-cjp-apolitical-dipke/article71073221.ece",
+    "time": "2026-06-07T13:37:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England crush NZ by 115 runs as Bazball reboot begins with dominant Lord's win",
+    "desc": "England launched their \"Bazball\" era with a commanding 115-run victory over New Zealand at Lord's. Gus Atkinson's five-wicket haul dismantled the visitors for 138, securing a win despite a challenging pitch. Debutant Emilio Gay and returning seamer Ollie Robinson impressed, signaling a positive start for the new regime.",
+    "img": "https://static.toiimg.com/photo/msid-131567577,imgsize-64434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-crush-new-zealand-by-115-runs-as-bazball-reboot-begins-with-dominant-lords-win/articleshow/131567543.cms",
+    "time": "2026-06-07T13:14:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Manav Suthar is genuinely special': Sundar lavishes praise on India debutant",
+    "desc": "Washington Sundar hailed debutant Manav Suthar as a special talent after the left-arm spinner's impressive all-round performance against Afghanistan. Suthar claimed 3 for 21 and scored 28, with Sundar praising his ability to generate turn, relentless effort and strong grounding in red-ball cricket.",
+    "img": "https://static.toiimg.com/photo/msid-131567539,imgsize-86978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/manav-suthar-is-genuinely-special-washington-sundar-lavishes-praise-on-india-debutant/articleshow/131567530.cms",
+    "time": "2026-06-07T13:13:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bishnoi gang claims responsibility for shootings targeting Indians in Portugal; India dominates Afghanistan in one-off Test &amp; more",
+    "desc": "The Bishnoi gang has claimed responsibility for shootings targeting Indians in Portugal. Meanwhile, the INDIA bloc is set to meet amid internal rifts, while the Cockroach Janta Party vows nationwide protests over exam irregularities. In sports, India dominates Afghanistan in a Test match, and a Russian drone struck a Chornobyl fuel storage site.",
+    "img": "https://static.toiimg.com/photo/msid-131567425,imgsize-1167956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-bishnoi-gang-claims-responsibility-for-shootings-targeting-indians-in-portugal-india-dominates-afghanistan-in-one-off-test-more/articleshow/131567284.cms",
+    "time": "2026-06-07T12:59:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Malayalam actor Salim Kumar cremated with State honours",
+    "desc": "Funeral of the 57-year-old actor, who died due to cardiac arrest while undergoing treatment at a private hospital in Kochi on June 6, was conducted on the premises of Laughing Villa, his residence at Chittattukara in Ernakulam",
+    "img": "https://th-i.thgim.com/public/incoming/ob21if/article71072952.ece/alternates/LANDSCAPE_1200/80968_7_6_2026_15_58_24_2_7O3A0017.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/malayalam-actor-salim-kumar-cremated-with-state-honours/article71072797.ece",
+    "time": "2026-06-07T12:57:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Salman Khan opened up about battling brain Aneurysm and AVM",
+    "desc": "Bollywood superstar Salman Khan has revealed he is battling serious medical conditions, including trigeminal neuralgia, a brain aneurysm, and arteriovenous malformation, while continuing to work. Despite these complex health challenges and accumulated injuries from stunts, the actor remains determined to pursue his professional commitments, offering a rare glimpse into his personal struggles behind the scenes.",
+    "img": "https://static.toiimg.com/photo/msid-131567329,imgsize-63444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-salman-khan-opened-up-about-battling-brain-aneurysm-and-avm-were-still-working-despite-all-this/articleshow/131567325.cms",
+    "time": "2026-06-07T12:49:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Private investment announcements jump to Rs 56 lakh crore in FY26, says SBI Research",
+    "desc": "Private investment announcements have surged to Rs 56 lakh crore in FY26, a significant jump from Rs 37 lakh crore last year, indicating robust capital expenditure growth. Manufacturing leads new proposals, with power and building infrastructure also showing strong contributions. This trend, coupled with a 10.",
+    "img": "https://static.toiimg.com/photo/msid-131567322,imgsize-460101.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/private-investment-announcements-jump-to-rs-56-lakh-crore-in-fy26-says-sbi-research/articleshow/131566943.cms",
+    "time": "2026-06-07T12:48:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "As Janhvi gets trolled, Sanjay says internet is destroying actors' careers",
+    "desc": "Filmmaker Sanjay Gupta indirectly reacted to the trolling faced by Janhvi Kapoor over her Peddi scenes, saying social media is \"literally destroying\" young actors' careers. Without naming her, he wrote that actors face a ruthless and unforgiving world where the audience is \"judge, jury and algorithm.\"",
+    "img": "https://static.toiimg.com/photo/msid-131567119,imgsize-19026.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/as-janhvi-kapoor-gets-trolled-sanjay-gupta-says-social-media-is-literally-destroying-actors-careers/articleshow/131567119.cms",
+    "time": "2026-06-07T12:45:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by ‘Game of Thrones’ actor Peter Dinklage",
+    "desc": "Actor Peter Dinklage, known for his role in 'Game of Thrones,' shared a quote about not needing 'another angry dwarf.' He used his 2012 Golden Globe acceptance speech to highlight a hate crime against a British dwarf, demonstrating that impactful change can be achieved through thoughtful action rather than constant outrage.",
+    "img": "https://static.toiimg.com/photo/msid-131567290,imgsize-34288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-game-of-thrones-actor-peter-dinklage-i-have-a-friend-who-says-the-world-doesnt-need-another-angry-dwarf/articleshow/131567260.cms",
+    "time": "2026-06-07T12:45:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Gopal Varma's take on ‘Obsession’ leaves internet angry",
+    "desc": "Ram Gopal Varma praised indie horror 'Obsession', made on a $750K budget but earning $170 million worldwide, calling himself obsessed with its unique editing and filmmaking style. However, his remark that every woman has a bit of Nikki in her left the internet fuming, saying he missed the film's point entirely.",
+    "img": "https://static.toiimg.com/photo/msid-131566974,imgsize-21180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/every-woman-has-a-bit-of-nikki-in-her-ram-gopal-varmas-take-on-obsession-leaves-internet-angry/articleshow/131566974.cms",
+    "time": "2026-06-07T12:30:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government will pay 'political price', says Sharad Pawar; Congress's Wadettiwar slams BJP",
+    "desc": "\"The hike may have started with just two rupees, but over time the increases have kept piling up, and today we can see how far the prices have risen. All of this has a direct impact on the finances and daily lives of ordinary people,\" says Pawar",
+    "img": "https://th-i.thgim.com/public/incoming/zeor7u/article71073060.ece/alternates/LANDSCAPE_1200/20250809158L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/lpg-price-hikes-government-will-pay-political-price-says-sharad-pawar-congresss-wadettiwar-slams-bjp/article71073034.ece",
+    "time": "2026-06-07T12:24:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He didn't seem to have too much gas left in the tank': Ex-selector on Pant throwing away century",
+    "desc": "Rishabh Pant missed out on a century against Afghanistan, falling for 81 after a miscued attacking stroke. Former player Saba Karim suggested fatigue and dehydration, rather than poor shot selection, contributed to the dismissal. Pant's innings was crucial in India's strong first-innings total.",
+    "img": "https://static.toiimg.com/photo/msid-131566779,imgsize-26368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/he-didnt-seem-to-have-too-much-gas-left-in-the-tank-ex-selector-on-rishabh-pant-throwing-away-a-century/articleshow/131566665.cms",
+    "time": "2026-06-07T12:13:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jantar Mantar protest a trailer, Pradhan must resign in seven days: Cockroach Janta Party founder Dipke",
+    "desc": "Mr. Dipke also said their protest at Jantar Mantar in New Delhi on Saturday (June 6) was largely successful, with around 7,000 people participating in it, and added that the movement would now expand nationwide",
+    "img": "https://th-i.thgim.com/public/incoming/kdtq3n/article71072558.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000089B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/our-agitation-will-continue-until-union-minister-pradhan-resigns-cockroach-janta-party-founder-dipke/article71072533.ece",
+    "time": "2026-06-07T12:13:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manav Suthar stars on debut as India leave Afghanistan reeling in one-off Test",
+    "desc": "India dominated day two of the Test against Afghanistan. Hosts declared at 564/8, with centuries from Shubman Gill and KL Rahul. Debutant Manav Suthar impressed with three wickets. Afghanistan ended the day at 113/5, trailing by 451 runs. Rahmat Shah reached 1,000 Test runs. India is in a strong position to win.",
+    "img": "https://static.toiimg.com/photo/msid-131566738,imgsize-125658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/manav-suthar-stars-on-debut-as-india-leave-afghanistan-reeling-in-one-off-test/articleshow/131566670.cms",
+    "time": "2026-06-07T12:11:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC among 23 parties to attend June 8 meet — key agendas",
+    "desc": "INDIA bloc leaders convene in Delhi today amidst recent election defeats and internal friction. Twenty-three parties confirmed participation, aiming to present a united front against the BJP. However, key allies like DMK and AAP are reportedly skipping the meeting due to ongoing disputes, testing the coalition's resolve.",
+    "img": "https://static.toiimg.com/photo/msid-131566576,imgsize-743959.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-bloc-huddle-in-delhi-tmc-among-23-parties-to-attend-june-8-meet-key-agendas/articleshow/131566494.cms",
+    "time": "2026-06-07T11:59:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ravi Teja's 'Irumudi' release date is HERE",
+    "desc": "Ravi Teja's family drama 'Irumudi', also known as 'Irumudikattu' in Tamil, is set to release on August 21, 2026. The film, directed by Shiva Nirvana, features Ravi Teja as a loving father. The teaser highlights the heartwarming father-daughter bond. The movie's release date might coincide with Nani's 'The Paradise', though a postponement for the latter is rumored.",
+    "img": "https://static.toiimg.com/photo/msid-131566192,imgsize-223658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-release-date-ravi-tejas-upcoming-film-to-hit-the-big-screens-on-this-date-set-to-clash-with-nani-starrer/articleshow/131566146.cms",
+    "time": "2026-06-07T11:40:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "535 farmers died due to unsafe pesticide use between January 2024-2026 in Rajasthan",
+    "desc": "The department stated that farmers, agricultural labourers and other persons may fall ill and, in some cases, die due to failure to adopt necessary safety measures during pesticide spraying and because of indiscriminate and unsafe use of pesticides",
+    "img": "https://th-i.thgim.com/public/incoming/qk0p30/article71072941.ece/alternates/LANDSCAPE_1200/Epaper_Science_G58FKK6TM.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/535-farmers-died-due-to-unsafe-pesticide-use-between-january-2024-2026-in-rajasthan/article71072894.ece",
+    "time": "2026-06-07T11:29:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How Tamil Nadu and Karnataka are pulling Congress in two directions",
+    "desc": "Karnataka's proposed Mekedatu dam project has ignited a major interstate dispute with Tamil Nadu, creating a political dilemma for the Congress party. Both states, now under Congress rule, are at odds over water sharing, exposing deep regional tensions and challenging the party's unity.",
+    "img": "https://static.toiimg.com/photo/msid-131565792,imgsize-48560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cauvery-dispute-how-tamil-nadu-and-karnataka-are-pulling-congress-in-two-directions/articleshow/131565701.cms",
+    "time": "2026-06-07T11:17:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nithya REACTS to Janhvi's Peddi objectification debate",
+    "desc": "Nithya Menen weighed in on the Peddi objectification debate surrounding Janhvi Kapoor, saying actors must assert themselves and set clear boundaries from the start. While admitting she hasn't seen the film, she defended South Indian cinema, arguing objectification is a global problem rooted in the hyper-commercialisation of cinema. Janhvi has not yet responded.",
+    "img": "https://static.toiimg.com/photo/msid-131565793,imgsize-31284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nithya-menen-reacts-to-janhvi-kapoors-peddi-objectification-debate-you-can-assert-yourself-i-dont-believe-you-end-up-helpless/articleshow/131565793.cms",
+    "time": "2026-06-07T11:15:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Smita Patil slammed Bollywood's double standards",
+    "desc": "Decades ago, Smita Patil challenged the Indian film industry's reliance on sexualizing women for commercial gain. She advocated for realistic portrayals and meaningful storytelling, questioning why female actors were objectified while male stars were not. Patil's commitment to substance over spectacle and her courageous stance continue to resonate, highlighting her enduring legacy.",
+    "img": "https://static.toiimg.com/photo/msid-131565710,imgsize-187194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-smita-patil-slammed-bollywoods-double-standards-and-said-hero-ko-toh-nanga-dikha-nahi-sakte/articleshow/131565695.cms",
+    "time": "2026-06-07T11:09:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Bizarre!’ Ashwin questions Gambhir-led management's handling of Kuldeep",
+    "desc": "Ravichandran Ashwin has expressed bewilderment at the management of Kuldeep Yadav, contrasting the current setup with the consistent backing he received under Rahul Dravid and Rohit Sharma. Ashwin noted Kuldeep's past match-winning performances and suggested Test cricket should now be his priority, while also commenting on Ravi Bishnoi's return to the T20I squad.",
+    "img": "https://static.toiimg.com/photo/msid-131565652,imgsize-65918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bizarre-ashwin-questions-gautam-gambhir-led-managements-handling-of-kuldeep-yadav/articleshow/131565539.cms",
+    "time": "2026-06-07T11:04:52.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Aamir Khan's 'Lagaan' reunion plans",
     "desc": "Aamir Khan's iconic film 'Lagaan' is gearing up for its 25th anniversary on June 15. Celebrations are set to include a special theatrical re-release on June 12, followed by a grand reunion event in Mumbai on June 13, bringing together the entire cast and crew to reminisce about the beloved sports drama.",
@@ -7,6 +196,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-lagaan-reunion-plans-film-completes-25-years-team-set-to-reunite-in-mumbai-reports/articleshow/131565482.cms",
     "time": "2026-06-07T10:49:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PM Modi mourns Salim Kumar's demise",
+    "desc": "Prime Minister Narendra Modi mourned the passing of veteran Malayalam actor Salim Kumar, remembering his versatile and memorable performances. Thousands gathered to bid farewell to the National Award-winning artist in Kochi. Prominent figures from the film industry, including Mammootty and Mohanlal, paid heartfelt tributes, acknowledging his significant contributions to Malayalam cinema.",
+    "img": "https://static.toiimg.com/photo/msid-131565391,imgsize-132918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pm-modi-mourns-salim-kumars-demise-calls-him-a-versatile-performer-as-thousands-gather-for-final-farewell/articleshow/131565289.cms",
+    "time": "2026-06-07T10:44:39.000Z"
   },
   {
     "cat": "Sports",
@@ -190,93 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Cate Blanchett",
-    "desc": "Known as a luminary of modern cinema, Cate Blanchett personifies the reality that influential women often encounter doubt at their inception. Her illustrious career, packed with bold performances and critical accolades, parallels the path of Katharine Hepburn. Blanchett’s journey illustrates that a woman’s straightforwardness is often misinterpreted, signaling that apprehension towards the unfamiliar is merely a precursor to transformative moments.",
-    "img": "https://static.toiimg.com/photo/msid-131563750,imgsize-87450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-cate-blanchett-the-women-who-really-change-the-game-are-always-the-women-that-no-one-knows-what-to-do-with-initially/articleshow/131563739.cms",
-    "time": "2026-06-07T08:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kim Kardashian arrives in Monaco to support Lewis Hamilton",
-    "desc": "Kim Kardashian turned heads in Monaco as she stood by her boyfriend Lewis Hamilton at a prestigious sporting occasion. Sporting a striking leather ensemble alongside her sister Khloe, she exemplified her iconic, fearless fashion sense. This trip underscores Kim's resolute support for Hamilton's career in racing, following numerous public dates that have made their relationship a hot topic of discussion.",
-    "img": "https://static.toiimg.com/photo/msid-131563715,imgsize-139280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grand-prix-2026-kim-kardashian-rocks-in-her-all-black-attire-as-she-arrives-with-khloe-kardashian-to-support-beau-lewis-hamilton/articleshow/131563707.cms",
-    "time": "2026-06-07T08:09:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Bandar' BO Day 3 [LIVE]: Bobby's film struggles to cross Rs 2 cr",
     "desc": "Bobby Deol's 'Bandar' faced a subdued box office opening, collecting Rs 50 lakh on its debut. Despite positive audience reception for its realistic portrayal, the film struggled to attract crowds, earning Rs 95 lakh on day two and a further Rs 9 lakh on day three, totaling Rs 1.54 crore net. Deol emphasized his focus on character over remuneration. Read on to know more in detail.",
     "img": "https://static.toiimg.com/photo/msid-131563710,imgsize-82344.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bandar-box-office-collection-day-3-live-bobby-deol-starrer-receives-critical-acclaim-but-struggles-to-cross-rs-2-crore/articleshow/131563695.cms",
     "time": "2026-06-07T08:08:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Hai Jawani Toh' BO Day 3 [LIVE]: Film set to cross Rs 25 cr",
-    "desc": "Varun Dhawan's latest film, 'Hai Jawani Toh Ishq Hona Hai', marks a poignant finale to his collaboration with father David Dhawan. Starring Pooja Hegde and Mrunal Thakur, the successful venture has impressed audiences, amassing over Rs 15.59 crore in India by its third day. Despite stiff competition, the film has raked in a remarkable worldwide gross of Rs 23.20 crore. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-131563624,imgsize-139210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hai-jawani-toh-ishq-hona-hai-box-office-collection-day-3-live-varun-dhawan-mrunal-thakur-pooja-hegdes-film-set-to-cross-rs-25-crore-globally/articleshow/131563396.cms",
-    "time": "2026-06-07T07:53:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brad Pitt and Ines de Ramon enjoy French Open date in Paris",
-    "desc": "In the enchanting backdrop of Paris, Hollywood icon Brad Pitt, 62, was seen relishing the excitement of the French Open alongside his girlfriend, jewellery designer Ines de Ramon, 33. Since becoming a couple in November 2022, their joyful chemistry was evident while they cheered on Mirra Andreeva as she celebrated her maiden Grand Slam victory.",
-    "img": "https://static.toiimg.com/photo/msid-131563615,imgsize-174448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-girlfriend-ines-de-ramon-enjoy-rare-public-outing-together-at-the-french-open-in-paris/articleshow/131563598.cms",
-    "time": "2026-06-07T07:52:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IDFC First Bank-AU Finance Bank fraud case: CBI conducts searches at six locations",
-    "desc": "The searches were carried out on Friday (June 5, 2026) as part of an ongoing probe into the alleged misappropriation of funds parked with IDFC First Bank and AU Finance Bank, an official statement said",
-    "img": "https://th-i.thgim.com/public/news/national/mzyvog/article67518494.ece/alternates/LANDSCAPE_1200/NKV-CBI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/idfc-first-bank-au-finance-bank-fraud-case-cbi-conducts-searches-at-six-locations/article71072251.ece",
-    "time": "2026-06-07T07:44:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cockroach Janta Party founder Dipke",
-    "desc": "Mr. Dipke also said their protest at Jantar Mantar in New Delhi on Saturday (June 6) was largely successful, with around 7,000 people participating in it, and added that the movement would now expand nationwide",
-    "img": "https://th-i.thgim.com/public/incoming/kdtq3n/article71072558.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000089B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/our-agitation-will-continue-until-union-minister-pradhan-resigns-cockroach-janta-party-founder-dipke/article71072533.ece",
-    "time": "2026-06-07T07:41:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rakhee Gulzar backs Aamir's wedding to Gauri Spratt",
-    "desc": "Veteran actress Rakhee Gulzar has defended Aamir Khan's upcoming wedding to Gauri Spratt, scheduled for July 5, 2026, asking \"what is wrong with marrying at 60?\" The actor, who confirmed the news himself, was previously married to Reena Dutta and Kiran Rao, and shares three children between both marriages.",
-    "img": "https://static.toiimg.com/photo/msid-131563409,imgsize-38328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakhee-gulzar-backs-aamir-khans-wedding-to-gauri-spratt-says-what-is-wrong-with-marrying-at-60-i-got-married-when-gulzar-was-almost-40/articleshow/131563409.cms",
-    "time": "2026-06-07T07:38:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aroma of ghee brings a million-dollar smile",
-    "desc": "Kareena Kapoor Khan champions a no-fuss approach to eating, prioritizing home-cooked meals and traditional ingredients like ghee and curd. She emphasizes listening to one's body over fleeting diet trends, believing dairy is essential for internal strength. Her philosophy centers on holistic nutrition and mindful food choices, ensuring quality and freshness in everything she consumes.",
-    "img": "https://static.toiimg.com/photo/msid-131563400,imgsize-103692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dairy-products-are-hearthy-or-unhealthy-well-for-kareena-kapoor-the-aroma-of-ghee-brings-a-million-dollar-smile/articleshow/131563382.cms",
-    "time": "2026-06-07T07:37:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anupam Kher shares heartwarming birthday moment with mother",
-    "desc": "Veteran actor Anupam Kher shared a heartwarming video of his mother, Dulari Kher, joyfully singing and dancing to \"Tu Kahaan... Main Yahan\" at her birthday celebration. This spontaneous performance became the highlight of the evening, deeply moving Kher and captivating social media users.",
-    "img": "https://static.toiimg.com/photo/msid-131563351,imgsize-71096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-shares-heartwarming-birthday-moment-as-mother-dulari-dances-and-sings-tu-kahaan-main-yahan/articleshow/131563343.cms",
-    "time": "2026-06-07T07:31:35.000Z"
   },
   {
     "cat": "Sports",
@@ -304,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/peddi-controversy-janhvi-kapoors-alleged-chats-mention-sreeleela-theyll-say-close-up-and-put-camera-on-your-cant-trust-/articleshow/131563289.cms",
     "time": "2026-06-07T07:16:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "If you're given power, use it to contribute, not enjoy it: Manoj Bajpayee",
-    "desc": "Manoj Bajpayee stars as former RBI Governor S. Venkitaramanan in 'The Governor,' an economic thriller detailing his crucial role during India's 1991 financial crisis. Bajpayee embraced the challenge of portraying the largely unknown economist, focusing on capturing his essence and the emotional weight of his responsibilities during a national emergency.",
-    "img": "https://static.toiimg.com/photo/msid-131563239,imgsize-19290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/if-youre-given-power-use-it-to-contribute-not-enjoy-it-says-actor-manoj-bajpayee/articleshow/131563252.cms",
-    "time": "2026-06-07T07:13:19.000Z"
   },
   {
     "cat": "Business",
@@ -433,15 +541,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Carlsen left in awe of Praggnanandhaa's Norway Chess heroics: 'That's pretty insane'",
-    "desc": "Indian Grandmaster R Praggnanandhaa achieved a historic victory at Norway Chess 2026, becoming the first Indian to win the prestigious title. He secured the championship with a stunning comeback in the final round, defeating Vincent Keymer and benefiting from a draw between his rivals. World No. 1 Magnus Carlsen lauded Praggnanandhaa's \"clutch\" performance under pressure.",
-    "img": "https://static.toiimg.com/photo/msid-131562180,imgsize-71970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-left-in-awe-of-praggnanandhaas-norway-chess-heroics-thats-pretty-insane/articleshow/131562029.cms",
-    "time": "2026-06-07T04:54:52.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'The Last Dance': Neymar signals final WC as Brazil icon eyes one last shot at glory",
     "desc": "Brazil's football icon Neymar, their all-time leading scorer, has hinted that the 2026 FIFA World Cup will be his final appearance. Despite a career marked by brilliance and injuries, the 34-year-old forward aims to lead a blend of seasoned and young talent in a quest for Brazil's sixth title, ending a 24-year drought.",
     "img": "https://static.toiimg.com/photo/msid-131562016,imgsize-86164.cms",
@@ -469,30 +568,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'What else he need to do?' Harbhajan fumes over Rajat Patidar's India snub",
-    "desc": "Former India spinner Harbhajan Singh questioned selectors after Rajat Patidar's omission from the T20I squad. Patidar had a stellar IPL 2026 season, scoring 501 runs at a strike rate of nearly 200, and previously led RCB to back-to-back titles. Harbhajan believes Patidar is the best middle-order batter in India.",
-    "img": "https://static.toiimg.com/photo/msid-131561753,imgsize-109290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-else-he-need-to-do-harbhajan-singh-fumes-over-rajat-patidars-india-snub/articleshow/131561741.cms",
-    "time": "2026-06-07T03:56:58.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Antonelli stuns Ferrari duo to snatch pole, Verstappen joins front row",
     "desc": "Nineteen-year-old Kimi Antonelli secured a stunning pole position at the Monaco Grand Prix, defying expectations and Mercedes' first pole of the decade. Despite Ferrari's strong practice pace, Antonelli's decisive final lap edged out Max Verstappen, setting the stage for a thrilling strategic battle.",
     "img": "https://static.toiimg.com/photo/msid-131561500,imgsize-2740927.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/racing/monaco-grand-prix-2026-kimi-antonelli-stuns-ferrari-duo-charles-leclerc-and-lewis-hamilton-to-snatch-pole-max-verstappen-joins-front-row/articleshow/131561395.cms",
     "time": "2026-06-07T03:24:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hours after replacing Surya as India T20I captain, Shreyas leads side to win over SKY",
-    "desc": "Shreyas Iyer, newly appointed India's T20I captain, marked his first day by leading SoBo Mumbai Falcons to victory over Suryakumar Yadav's Triumph Knights MNE in the T20 Mumbai League. Iyer's commanding 61 off 36 balls steered his team to a five-wicket win, overshadowing Suryakumar's 48. Despite the captaincy change, Suryakumar expressed pride and support for Iyer's appointment.",
-    "img": "https://static.toiimg.com/photo/msid-131561479,imgsize-96564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hours-after-replacing-suryakumar-yadav-as-india-t20i-captain-shreyas-iyer-leads-side-to-victory-over-sky/articleshow/131561458.cms",
-    "time": "2026-06-07T03:20:34.000Z"
   },
   {
     "cat": "Tech",
@@ -765,15 +846,6 @@ const newsData_en = [
     "time": "2026-06-05T19:17:50.000Z"
   },
   {
-    "cat": "World",
-    "title": "Cabinet Trouble for D.K. Shivakumar as Ramalinga Reddy Resigns",
-    "desc": "In today’s episode, we look at Karnataka Chief Minister D.K. Shivakumar’s first political crisis, as Ramalinga Reddy resigns from Cabinet. We also ask our reporters to break down what K. Annamalai’s latest announcement means for Tamil Nadu politics.",
-    "img": "https://th-i.thgim.com/public/incoming/kr9l07/article71067208.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-05%20at%2020.41.30%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-cabinet-trouble-for-dk-shivakumar-as-ramalinga-reddy-resigns-above-the-fold-05062026/article71067211.ece",
-    "time": "2026-06-05T18:12:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India, U.S. may execute first phase of bilateral trade pact by middle of next month: Goyal",
     "desc": "According to that framework, the U.S. had agreed to reduce tariffs on India to 18% from 50%. It had removed the 25% tariffs on Indian goods for buying Russian oil and was to cut the remaining 25% to 18% under the pact",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/norway-chess-2026-praggnanandhaa-defeats-gukesh-as-title-race-goes-to-final-round-assaubayeva-wins-womens-crown/article71064048.ece",
     "time": "2026-06-05T06:00:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chess",
-    "desc": "The Indian Grandmaster’s coach says his ward and he are working as hard as they can; feels that the Norwegian is still a ‘monstrous player’ but at the same time, is not invincible; he also adds the Chennai lad’s level of play was not bad in the recent Candidates tournament in Cyprus",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-sports/lmkll8/article71062996.ece/alternates/LANDSCAPE_1200/TH05-CHESS-SURIGSLG2O30L.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/chess-praggnanandhaa-doing-nothing-special-while-tackling-carlsen-suri/article71064112.ece",
-    "time": "2026-06-05T05:48:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anju’s Cafe in Ranga Shankara turns 20",
-    "desc": "Anju Sudharshan started her namesake cafe in the Ranga Shankara theatre after a chance encounter with the founder Arundhati Nag. We trace how the cafe became the heart of the institution in Bengaluru, and a space for reviews, discussions and piping hot akki rotis",
-    "img": "https://th-i.thgim.com/public/food/3j9ukk/article71056113.ece/alternates/LANDSCAPE_1200/Sudhakara%20Jain%20new2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/food/features/sabudana-vada-and-stagecraft-anjus-cafe-in-ranga-shankara-turns-20/article71040773.ece",
-    "time": "2026-06-05T04:16:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chwalinska topples Shnaider to book French Open final with Andreeva",
-    "desc": "After 19-year-old Andreeva sealed ​a 6-1 6-3 semi-final win over Marta Kostyuk, it was ⁠Chwalinska's turn to shine, and the 24-year-old delivered to become the first qualifier in the professional era to reach the Paris final.",
-    "img": "https://th-i.thgim.com/public/incoming/5mt80e/article71062801.ece/alternates/LANDSCAPE_1200/2026-06-04T143110Z_1076090177_UP1EM6414BWOL_RTRMADP_3_TENNIS-FRENCHOPEN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/chwalinska-topples-shnaider-to-book-french-open-final-with-andreeva/article71062800.ece",
-    "time": "2026-06-04T20:42:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KS Bharat announces retirement from international cricket",
-    "desc": "With a proud heart and a sense of gratitude, I announce my retirement from international cricket. To play for my country has been the greatest honour of my life, says India wicketkeeper-batter Kona Srikar Bharat",
-    "img": "https://th-i.thgim.com/public/incoming/n7fve6/article71062799.ece/alternates/LANDSCAPE_1200/VIS_2616.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ks-bharat-announces-retirement-from-international-cricket/article71062798.ece",
-    "time": "2026-06-04T20:38:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas, Tare combine powers Falcons to a win",
-    "desc": "Tare and Iyer rolled back the years to help SOBO Mumbai Falcons register its first win of the T20 Mumbai, surviving a late wobble to secure a three-wicket victory against defending champion MSC Maratha Royals.",
-    "img": "https://th-i.thgim.com/public/sport/581psd/article71061860.ece/alternates/LANDSCAPE_1200/Shreyas%20Iyer%20of%20SOBO%20Mumbai%20Falcons%20hits%20a%20shot%20during%20a%20Nuvama%20Private%20T20%20Mumbai%20League%202026%20match%20at%20the%20Wankhede%20Stadium%20on%20June%204.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/shreyas-tare-combine-powers-falcons-to-a-win/article71061855.ece",
-    "time": "2026-06-04T19:22:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "S.P. Charan on finding his own voice",
-    "desc": "How does SP Charan take to comparisons with his late legendary father, SP Balasubrahmanyam? “I’ve made peace with it,” says the singer-actor, who is currently putting together a musical tribute, SPB 80. In a detailed interview with ‘The Hindu’, Charan talks about handling the pressures of being SPB’s son, how he handled the recognition and how he now plans to carry the legacy forward. Charan also talks about his role as a producer and what cinema taught him.",
-    "img": "https://th-i.thgim.com/public/incoming/m0vt1d/article71060880.ece/alternates/LANDSCAPE_1200/5.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-sp-charan-on-finding-his-own-voice/article71060883.ece",
-    "time": "2026-06-04T11:30:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Triptii Dimri on exploring comedy in ‘Maa Behen’: It’s not easy to make people laugh",
-    "desc": "Actors Triptii Dimri, Dharna Durga, and director Suresh Triveni talk about their upcoming dark comedy, ‘Maa Behen’. Triptii opens up on working on the heartland Hindi accent, her approach to comedy, how she chooses her scripts, and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/k6lv55/article71048375.ece/alternates/LANDSCAPE_1200/triptii%20cover%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/triptii-dimri-maa-behen-interview-suresh-triveni-madhuri-dixit-netflix-film/article71048250.ece",
-    "time": "2026-06-04T09:26:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Killer’ movie stuntman dies as cylinder explodes during shoot in Otteri",
-    "desc": "A large number of crew members were transferring carbon dioxide gas from a large cylinder to a smaller one for a fight sequence set within a ring of fire. During the transfer, one of the cylinders exploded, killing stuntman Madhan",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/xidhja/article71060289.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-04%20at%201.31.04%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/sj-suryah-killer-movie-stuntman-killed-as-cylinder-explodes-during-shoot-in-otteri/article71056291.ece",
-    "time": "2026-06-04T09:11:44.000Z"
   }
 ];

@@ -23,7 +23,7 @@ const newsData_bn = [
     "desc": "ইরানের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র এই হামলাকে লেবানন, লেবাননের সেনাবাহিনী ও তার সার্বভৌমত্বের বিরুদ্ধে এক জঘন্য অপরাধ ও আগ্রাসনের স্পষ্ট বার্তা হিসেবে চিহ্নিত করেন। তিনি বলেন, এর মাধ্যমে বোঝা যায়, ইসরায়েল লেবাননের নিরাপত্তা, স্থিতিশীলতা ও সমৃদ্ধি চায় না। এই হামলার নিন্দা জানিয়েছে আঞ্চলিক দেশগুলিও। এর মধ্যে রয়েছে সৌদি আরব, জর্ডান ও কাতার।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/world/israeli-attack-in-lebanon-kill-12-people-lebanons-commander-general-rudolf-haykal-heading-to-talk-with-asim-munir_657094.html",
+    "url": " https://zeenews.india.com/bengali/world/israeli-attack-in-lebanon-kill-12-people-lebanons-commander-general-rudolf-haykal-heading-to-talk-with-asim-munir_657094.html ",
     "time": "2026-06-07T06:31:45.000Z"
   },
   {
@@ -77,7 +77,7 @@ const newsData_bn = [
     "desc": "ভারত ও রাশিয়ার সম্পর্ককে 'সর্বকালের এবং সব পরিস্থিতির বন্ধু' (All-weather ties) হিসেবে অভিহিত করে রুশ প্রেসিডেন্ট পুতিন দৃঢ়তার সঙ্গে ঘোষণা করেন, \"কেউ আমাদের নির্দেশ দিতে পারে না যে আমরা ভারতকে কী সরবরাহ করব আর কী করব না। আমাদের ডিক্টেট করার ক্ষমতা কারও নেই।\"",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/world/putin-warns-sanction-threats-against-india-will-boomerang-under-pm-modi_656910.html",
+    "url": " https://zeenews.india.com/bengali/world/putin-warns-sanction-threats-against-india-will-boomerang-under-pm-modi_656910.html ",
     "time": "2026-06-06T09:31:25.000Z"
   },
   {
@@ -109,11 +109,11 @@ const newsData_bn = [
   },
   {
     "cat": "World",
-    "title": "হাজির নিজের শ্রাদ্ধেই! এভারেস্ট থেকে হামাগুড়ি দিয়ে বাড়ি ফিরলেন &#039;মৃত&#039; শেরপা",
+    "title": "হাজির নিজের শ্রাদ্ধেই! এভারেস্ট থেকে হামাগুড়ি দিয়ে বাড়ি ফিরলেন 'মৃত' শেরপা",
     "desc": "নিখোঁজ হন অভিজ্ঞ নেপালি শেরপা গাইড হিলারি দাওয়া শেরপা। চরম প্রতিকূল আবহাওয়া এবং অক্সিজেনের তীব্র ঘাটতির কারণে তাঁর বেঁচে থাকার আশা ছেড়ে দেওয়া হয়েছিল। কাঠমান্ডুতে তাঁর পরিবার ধরে নেয় তিনি মৃত এবং বৌদ্ধ রীতি মেনে তাঁর বাড়িতে দ্বিতীয় দিনের শ্রাদ্ধানুষ্ঠানের কাজও শুরু হয়ে যায়।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/world/declared-dead-on-everest-nepali-sherpa-crawls-back-alive-as-funeral-rites-begin-at-home_656777.html",
+    "url": " https://zeenews.india.com/bengali/world/declared-dead-on-everest-nepali-sherpa-crawls-back-alive-as-funeral-rites-begin-at-home_656777.html ",
     "time": "2026-06-05T11:51:19.000Z"
   },
   {
@@ -158,7 +158,7 @@ const newsData_bn = [
     "desc": "চিকেন রফতানিতে ধস বাণিজ্য পথগুলির অচলাবস্থা এবং চলতি সংঘাতের কারণে সৃষ্ট অর্থনৈতিক অনিশ্চয়তার মাঝে আঞ্চলিক ক্রেতাদের কম চাহিদাকেই প্রতিফলিত করে। সৌদি আরব, সংযুক্ত আরব আমিরশাহি এবং পারস্য উপসাগরীয় অঞ্চলের অন্যান্য দেশগুলি ব্রাজিলের মুরগির মাংস রফতানির একটি বড় অংশ জুড়ে রয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/world/chicken-crisis-brazilian-poultry-meat-exports-fell-by-nearly-25-percent-significantly-reduced-demand-for-imports_656612.html",
+    "url": " https://zeenews.india.com/bengali/world/chicken-crisis-brazilian-poultry-meat-exports-fell-by-nearly-25-percent-significantly-reduced-demand-for-imports_656612.html ",
     "time": "2026-06-04T10:16:48.000Z"
   },
   {
@@ -194,8 +194,17 @@ const newsData_bn = [
     "desc": "ধৃতদের কাছ থেকে কর্মসংস্থানের অনুমতিপত্র উদ্ধার হয়েছে, সেগুলি মেয়াদোত্তীর্ণ। জো বাইডেন প্রশাসনের আমলে সেগুলি দেওয়া হয়েছিল। মার্কিন কর্তৃপক্ষ জানিয়েছে, ফেডারেল আইন অনুযায়ী সবার বিরুদ্ধে প্রয়োজনীয় প্রক্রিয়া সম্পন্ন করা হয়েছে এবং তাদের নিজ দেশে ফেরত পাঠানো হবে।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/world/30-indians-caught-driving-trucks-illegally-in-us-face-deportation_656296.html",
+    "url": " https://zeenews.india.com/bengali/world/30-indians-caught-driving-trucks-illegally-in-us-face-deportation_656296.html ",
     "time": "2026-06-02T11:34:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -226,20 +235,20 @@ const newsData_bn = [
   },
   {
     "cat": "World",
-    "title": "জুলাই বিক্ষোভে নিহত &#039;১৪০০&#039;! রাষ্ট্রসংঘের রিপোর্টের পাল্টা কড়া তথ্যপ্রমাণ পেশ হাসিনার আইনি পরামর্শদাতার, সপাটে চিঠিও",
+    "title": "জুলাই বিক্ষোভে নিহত '১৪০০'! রাষ্ট্রসংঘের রিপোর্টের পাল্টা কড়া তথ্যপ্রমাণ পেশ হাসিনার আইনি পরামর্শদাতার, সপাটে চিঠিও",
     "desc": "চিঠিতে বলা হয়েছে যে, রিপোর্টে আন্দোলন চলাকালীন ১,৪০০ জন প্রতিবাদকারী নিহত হওয়ার যে দাবি করা হয়েছে, তা ভুল। এই দাবির প্রেক্ষিতে সরকারি গেজেট ও অন্যান্য রিপোর্টের মধ্যে পরিসংখ্যানগত বৈসাদৃশ্যকে তুলে ধরা হয়েছে। রিপোর্টে উল্লেখ ১,৪০০ জন নিহতের সংখ্যা প্রত্যাহার ও সংশোধনের জোরালো দাবি জানানো হয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/world/bangladesh-exclusive-sheikh-hasina-legal-advisor-challenging-united-nations-human-rights-council-report-on-2024-july-unrest-death-toll-1400-with-evidence_655845.html",
+    "url": " https://zeenews.india.com/bengali/world/bangladesh-exclusive-sheikh-hasina-legal-advisor-challenging-united-nations-human-rights-council-report-on-2024-july-unrest-death-toll-1400-with-evidence_655845.html ",
     "time": "2026-05-29T10:49:19.000Z"
   },
   {
     "cat": "World",
-    "title": "পুব দিকে এগোচ্ছে ভয়ংকর উষ্ণ &#039;কেলভিন ওয়েভ&#039;, আতঙ্কে প্রমাদ গুনছেন আবহাওয়া বিজ্ঞানীরা! কেন?",
+    "title": "পুব দিকে এগোচ্ছে ভয়ংকর উষ্ণ 'কেলভিন ওয়েভ', আতঙ্কে প্রমাদ গুনছেন আবহাওয়া বিজ্ঞানীরা! কেন?",
     "desc": "প্রশান্ত মহাসাগরের গভীর স্তর থেকে বিপুল পরিমাণ তাপ পূর্ব দিকে এগোচ্ছে। এই উষ্ণ জলের ঢেউ যদি আরও শক্তিশালী হয়, তাহলে কয়েক মাসের মধ্যেই সমুদ্রপৃষ্ঠের তাপমাত্রা দ্রুত বেড়ে যেতে পারে। কী এই 'কেলভিন ওয়েভ'? কেন আতঙ্কে আবহাওয়া বিজ্ঞানীরা?",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/world/2026-super-el-nino-weather-kelvin-wave-in-pacific-ocean-impact-explained_655791.html",
+    "url": " https://zeenews.india.com/bengali/world/2026-super-el-nino-weather-kelvin-wave-in-pacific-ocean-impact-explained_655791.html ",
     "time": "2026-05-29T07:45:53.000Z"
   },
   {
@@ -248,7 +257,52 @@ const newsData_bn = [
     "desc": "শুক্রবার সময় তখন সন্ধে সাড়ে ৭টা। বেজিং থেকে ৫২০ কিলোমিটার দক্ষিণ-পশ্চিমে লিউশেনইউ কয়লাখনিতে ঘটল ভয়ংকর এক দুর্ঘটনা। খননকার্য চলাকালীন খনির ভিতরে জমে থাকা কার্বন মনোক্সাইডের মাত্রা আচমকা বেড়ে গিয়ে ঘটে এই ভয়াবহ বিস্ফোরণ এবং অগ্নিকান্ড। বিস্ফোরণের আগে কি কোনও সতর্কতা জারি হয়েছিল?",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/world/deadliest-coal-mine-explosion-china-coal-mine-blast-90-miners-killed-so-far_655182.html",
+    "url": " https://zeenews.india.com/bengali/world/deadliest-coal-mine-explosion-china-coal-mine-blast-90-miners-killed-so-far_655182.html ",
     "time": "2026-05-24T09:36:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

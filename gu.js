@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "મૃત પિતાના નંબર પર 4 વર્ષ સુધી મોકલતી રહી મેસેજ, એક દિવસે આવ્યો એવો જવાબ, સાંભળીને દુનિયાની આંખમાં આવ્યા આંસુ",
+    "desc": "પિતાના મોત પછી, એક પુત્રીએ ચાર વર્ષ તેમના જૂના મોબાઇલ નંબર પર પોતાના સુખ-દુ:ખ શેર કર્યા. તેણીને ક્યારેય કોઈ જવાબ મળ્યો નહીં. જોકે, ચોથી વર્ષગાંઠ પર મોકલવામાં આવેલા ભાવનાત્મક સંદેશે એક પ્રતિભાવ આપ્યો, જેણે ફક્ત તેની પુત્રીને જ નહીં પરંતુ લાખો લોકોને હચમચાવી દીધા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/i-kept-sending-messages-to-my-deceased-fathers-number-for-4-years-one-day-i-got-a-reply-tears-came-to-my-eyes-480722 ",
+    "time": "2026-06-07T12:56:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બજારમાંથી આ કારણે ગાયબ થઈ રહ્યા છે સ્નેક્સના મોટા પેકેટ, કારણ જાણીને તમે પણ ચોંકી જશો",
+    "desc": "ભારતીય ગ્રાહકો આજકાલ મોટા સ્નેક્સ પેકેટના બદલે પોકેટ-ફ્રેન્ડલી (નાના) પેકેટ્સને વધુ પસંદ કરી રહ્યા છે. છેલ્લા કેટલાક મહિનાઓથી સ્નેકિંગ માર્કેટમાં આવેલા આ બદલાવનું મુખ્ય કારણ શું છે? કંપનીઓએ શા માટે બદલી રહી છે પોતાની પોલિસી?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-is-why-large-packets-of-snacks-are-disappearing-from-the-market-you-will-be-shocked-to-know-the-reason-480721 ",
+    "time": "2026-06-07T12:17:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટીમ ઇન્ડિયામાં RCBના ખેલાડીઓની નો-એન્ટ્રી! બાકીની તમામ ફ્રેન્ચાઇઝીના પ્લેયર્સને મળી જગ્યા, આખરે શું છે કારણ?",
+    "desc": "BCCI દ્વારા 3 સિરીઝ માટે ટીમ ઇન્ડિયાની જાહેરાત કરવામાં આવી છે, પરંતુ આશ્ચર્યની વાત એ છે કે, એકપણ સ્ક્વોડમાં RCBના કોઈ ખેલાડીનું નામ નથી. IPLની બાકીની 9 ફ્રેન્ચાઇઝીમાંથી ઓછામાં ઓછો એક ખેલાડી ભારતીય T20 ટીમનો હિસ્સો જરૂર છે. એવું બિલકુલ નથી કે, આરસીબીના પ્લેયર્સે સારું પ્રદર્શન નથી કર્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/no-entry-for-rcb-players-in-team-india-players-from-all-remaining-franchises-got-a-place-what-is-the-reason-480718 ",
+    "time": "2026-06-07T11:09:10.000Z"
+  },
+  {
     "cat": "Business",
     "title": "₹1600 નો રસોઈ ગેસ ₹942 માં આપી રહી છે કંપની, દરેક સિલિન્ડર પર ₹700 નું નુકસાનઃ સરકાર",
     "desc": "14.2 કિલોના ઘરેલું સિલિન્ડરની કિંમત વધતા સામાન્ય લોકોને ઝટકો લાગ્યો છે. જો તમે પણ તેને ઝટકો માની રહ્યાં છો તો સરકારની આ દલીલને જરૂર સમજો કારણ કે કેમ ભાવ વધારવો જરૂરી હતો અને હજુ કઈ રીતે તમને સિલિન્ડર પર 700 રૂપિયાની રાહત મળી રહી છે?",
@@ -664,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trumps-big-announcement-on-hormuz-amidst-peace-talks-with-iran-information-given-on-truth-know-479683 ",
     "time": "2026-05-29T17:08:45.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ચીનમાં કેમ પુષ્કળ પ્રમાણમાં વંદાઓનો ઉછેર કરવામાં આવે છે? કારણ જાણીને ચોંકી જશો",
-    "desc": "આજકાલ કોકરોચ (વંદો) નામ ખુબ ચર્ચામાં છે. દેશના સીજેઆઈએ કરેલી ટિપ્પણી બાદ રાતોરાત સોશિયલ મીડિયામાં ફૂટી નીકળેલી કોકરોચ જનતા પાર્ટી સોશિયલ મીડિયામાં સેન્સેશન બનેલી છે ત્યારે ચીનમાં પણ મોટા પાયે કોકરોચ પાળવામાં આવે છે. શું તમને તેનું કારણ ખબર છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-cockrach-breeding-or-farming-in-china-is-booming-check-interesting-things-479624 ",
-    "time": "2026-05-29T09:13:33.000Z"
   }
 ];
