@@ -1,6 +1,78 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Scary Movie 6' tops box office; 'Masters of the Universe' heading for a FLOP",
+    "desc": "Comedy reigns supreme as 'Scary Movie' unexpectedly claims the top box office spot with $55 million, dethroning horror hits like 'Obsession' and 'Backrooms'. Meanwhile, the highly anticipated 'Masters of the Universe' falters significantly, struggling to recoup its massive production budget. This weekend saw a surprising shift in audience preference, proving that laughter can indeed conquer.",
+    "img": "https://static.toiimg.com/photo/msid-131574024,imgsize-69686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/scary-movie-6-tops-box-office-with-usd-105-million-global-haul-masters-of-the-universe-heading-to-be-a-flop/articleshow/131573836.cms",
+    "time": "2026-06-07T21:39:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. considers buying Chagos Islands: reports",
+    "desc": "“President Trump has been consistent in his position that the ‌United Kingdom should not give ​away the British Indian Ocean Territory, which includes our joint U.S.-U.K. military ⁠facility on the Diego Garcia atoll,” a U.S. official told Reuters.",
+    "img": "https://th-i.thgim.com/public/incoming/eh8k3p/article71074355.ece/alternates/LANDSCAPE_1200/TH21-Profiles-3GTKFKBQAR.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-considers-buying-chagos-islands-reports/article71074256.ece",
+    "time": "2026-06-07T21:37:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I am darpok Madrasi middle-class man': Madhavan on staying faithful",
+    "desc": "R Madhavan, who recently celebrated his 27th wedding anniversary with wife Sarita, once opened up about the secret behind their enduring marriage and why remaining faithful was never a challenge for him despite working alongside some of the industry's most beautiful actresses. In a 2015 interview with ETimes, Madhavan spoke candidly about his relationship with Sarita and credited her for being his strongest pillar of support.",
+    "img": "https://static.toiimg.com/photo/msid-131573833,imgsize-79558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-am-that-darpok-madrasi-middle-class-man-r-madhavan-on-staying-faithful-to-wife-sarita-despite-working-with-extremely-attractive-girls/articleshow/131573832.cms",
+    "time": "2026-06-07T20:48:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel says Iran launches missiles at it in first such bombardment since ceasefire in April",
+    "desc": "“The Israeli army must stop its attacks on southern Lebanon and the suburbs, and if it expands its attacks to that region or responds to Iran’s action, it will face more devastating and regrettable blows,” said General Ali Abollahi, the head of the Khatam al-Anbiya command.",
+    "img": "https://th-i.thgim.com/public/incoming/krkvkk/article71074236.ece/alternates/LANDSCAPE_1200/2026-06-07T195005Z_1423100590_RC27PLA3CKY8_RTRMADP_3_IRAN-CRISIS-ISRAEL-PALESTINIANS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-missile-attacks-on-israel/article71074231.ece",
+    "time": "2026-06-07T20:07:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJI Surya Kant",
+    "desc": "The Chief Justice of India describes ‘Swadeshi jurisprudence’ as one that remains attentive to India’s constitutional values, institutional realities, linguistic diversity, and social conditions. Serious efforts are underway to explore establishing an indigenous AI ecosystem for the judiciary, he says.",
+    "img": "https://th-i.thgim.com/public/incoming/jevt3f/article71074221.ece/alternates/LANDSCAPE_1200/PTI06_05_2026_000410B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/considerable-emphasis-put-on-developing-swadeshi-jurisprudence-cji-surya-kant/article71074141.ece",
+    "time": "2026-06-07T19:38:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lalit Parimoo reacts to Mukesh Khanna’s ‘dhanda karti hai’ remark",
+    "desc": "Veteran actor Lalit Parimoo has weighed in on the controversy surrounding Mukesh Khanna’s remarks about women expressing sexual desire, saying that while everyone is entitled to their opinions, society has evolved and women today are far more open about their choices and needs. The actor further suggested that Khanna’s comments may stem from a traditional idea of womanhood.",
+    "img": "https://static.toiimg.com/photo/msid-131573649,imgsize-72066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lalit-parimoo-reacts-to-mukesh-khannas-dhanda-karti-hai-remark-on-women-expressing-sexual-desire-he-is-not-keeping-up-with-the-times/articleshow/131573631.cms",
+    "time": "2026-06-07T19:36:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nabin instructs BJP cadre in Jharkhand to gear up for 2029 Assembly election",
+    "desc": "Mr. Nabin asserted that Jharkhand will remain a BJP stronghold. He also directed that regular monthly meetings be held at all levels from the state down to the ‘Mandal’ level, to maintain continuous communication with grassroots workers.",
+    "img": "https://th-i.thgim.com/public/incoming/ftklq2/article71073914.ece/alternates/LANDSCAPE_1200/20260607097L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/nitin-nabin-instructs-bjp-cadre-in-jharkhand-to-gear-up-for-2029-assembly-election/article71073526.ece",
+    "time": "2026-06-07T19:17:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Interview",
+    "desc": "Grandmaster Praggnanandhaa says every tournament is unique in its own way; the 20-year-old admits that he will have to prioritise taking breaks to ensure he isn’t burnt out; the Indian, who had a tough time at the Candidates, feels he is someone who quickly recovers from disappointments",
+    "img": "https://th-i.thgim.com/public/sport/krgz6y/article71074205.ece/alternates/LANDSCAPE_1200/TH08-PRAGG.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/interview-its-not-just-about-magnus-so-you-have-to-do-well-against-everyone-praggnanandhaa/article71074204.ece",
+    "time": "2026-06-07T19:13:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Bobby Deol reveals school friend tried his luck with his crush",
     "desc": "Bobby Deol recently opened up about his school days, first crush and a memorable attempt to impress a girl by donating blood. In a recent interview, the actor shared candid anecdotes from his younger years, revealing a shy side that fans rarely get to see. Bobby also shared another amusing story from his college days involving a girl he liked. He recalled how the girl approached students in a library seeking blood donors for her ailing father.",
     "img": "https://static.toiimg.com/photo/msid-131572427,imgsize-50642.cms",
@@ -52,15 +124,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/malayalam-actor-salim-kumar-cremated-with-state-honours/article71072797.ece",
     "time": "2026-06-07T17:24:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nitin Nabin instructs BJP cadre in Jharkhand to gear up for 2029 Assembly election",
-    "desc": "Mr. Nabin asserted that Jharkhand will remain a BJP stronghold. He also directed that regular monthly meetings be held at all levels from the state down to the ‘Mandal’ level, to maintain continuous communication with grassroots workers.",
-    "img": "https://th-i.thgim.com/public/incoming/ftklq2/article71073914.ece/alternates/LANDSCAPE_1200/20260607097L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/nitin-nabin-instructs-bjp-cadre-in-jharkhand-to-gear-up-for-2029-assembly-election/article71073526.ece",
-    "time": "2026-06-07T17:06:25.000Z"
   },
   {
     "cat": "Politics",
@@ -477,15 +540,6 @@ const newsData_en = [
     "time": "2026-06-07T09:06:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Kajol couldn't recognise anyone after set accident during shoot",
-    "desc": "During the filming of 'Kuch Kuch Hota Hai's' popular song 'Yeh Ladka Hai Deewana', Kajol suffered a fall from a bicycle, leading to temporary memory loss. The incident caused panic on set, with the actress reportedly struggling to recognize people. Ajay Devgn rushed to her side, helping her recover and highlighting their strong bond.",
-    "img": "https://static.toiimg.com/photo/msid-131564225,imgsize-89268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-kajol-couldnt-recognise-anyone-after-set-accident-during-kuch-kuch-hota-hai-shoot-but-remembered-ajay-devgn-instantly/articleshow/131564207.cms",
-    "time": "2026-06-07T09:00:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Maharashtra onion farmers demand Rs 3,000/quintal, say relief measures fall short",
     "desc": "Maharashtra farmers welcomed relaxed onion procurement rules but demand a minimum support price of Rs 3,000 per quintal, stating current rates of Rs 1,580 are below production costs. They seek transparent procurement and compensation for past losses, arguing that rule changes alone won't resolve their financial distress.",
@@ -493,24 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/maharashtra-onion-farmers-demand-rs-3000/quintal-say-relief-measures-fall-short/articleshow/131563922.cms",
     "time": "2026-06-07T08:54:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Varun praises Salman Khan for keeping it real",
-    "desc": "Varun Dhawan opened up about the loneliness that comes with fame, saying most actors struggle with it despite their glamorous image. He credited Salman Khan's unfiltered late-night Instagram posts as an example of authenticity, adding that staying true to yourself is essential, otherwise you won't realise what you've become.",
-    "img": "https://static.toiimg.com/photo/msid-131564141,imgsize-22476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/at-least-hes-being-himself-varun-dhawan-opens-up-about-stardom-and-praises-salman-khan-for-keeping-it-real/articleshow/131564141.cms",
-    "time": "2026-06-07T08:50:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "James Handy’s last project dropped from production",
-    "desc": "Actor James Handy's final project, a comedy skit titled 'Kickstart, V,' has been cancelled following his tragic murder. The film's writer and producer confirmed the decision, citing respect for the actor. Handy was reportedly stabbed multiple times, and his girlfriend's son has been arrested and charged with his murder.",
-    "img": "https://static.toiimg.com/photo/msid-131564093,imgsize-31918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-handys-last-project-axed-after-his-demise-heidi-anderson-swan-confirms-kickstart-v-being-dropped/articleshow/131564093.cms",
-    "time": "2026-06-07T08:46:47.000Z"
   },
   {
     "cat": "Sports",
@@ -576,15 +612,6 @@ const newsData_en = [
     "time": "2026-06-07T06:55:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Echoing Rahul Gandhi's language': BJP fumes at Telangana CM Revanth Reddy's Hitler inspiration claim",
-    "desc": "Telangana Chief Minister Revanth Reddy has drawn severe criticism from the BJP for claiming Adolf Hitler inspired the name of his task force, HYDRAA. Reddy stated 'Hydra' was Hitler's favorite word and his core team was an assassination squad. The BJP accused the Congress of echoing Rahul Gandhi's language and displaying a 'dangerous Hitler mindset'.",
-    "img": "https://static.toiimg.com/photo/msid-131562842,imgsize-1044872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/echoing-rahul-gandhis-language-bjp-fumes-at-revanth-reddys-hitler-inspiration-claim/articleshow/131562820.cms",
-    "time": "2026-06-07T06:29:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "the ultimate meme king",
     "desc": "For three years after winning the National Award in 2011, the genial actor had stayed away from silver screen due to poor health. Yet he remained alive in public memory, thanks largely to memes that liberally drew on his image and witty dialogues, giving them a sharp satirical edge",
@@ -601,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/from-ignominy-salim-kumar-took-firm-strides-to-national-acclaim/article71071007.ece",
     "time": "2026-06-07T06:15:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Vishwaguru can't shield own citizens from price shocks': Opposition attacks Centre over domestic LPG price hike",
-    "desc": "Domestic LPG cylinder prices have risen by Rs 29, with a 14.2-kg cylinder now costing Rs 942 in Delhi. This marks the second increase in three months, drawing sharp criticism from opposition parties who accuse the government of exacerbating inflation and burdening households. The hikes are linked to rising global energy prices amid Middle East conflict.",
-    "img": "https://static.toiimg.com/photo/msid-131562524,imgsize-1245312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vishwaguru-cant-shield-own-citizens-from-price-shocks-opposition-attacks-centre-over-domestic-lpg-price-hike/articleshow/131562354.cms",
-    "time": "2026-06-07T05:44:34.000Z"
   },
   {
     "cat": "Business",
@@ -792,15 +810,6 @@ const newsData_en = [
     "time": "2026-06-06T05:13:00.000Z"
   },
   {
-    "cat": "World",
-    "title": "Putin rules out meeting Zelenskyy and vows to pursue war goals",
-    "desc": "The Russia President said he saw “no point” in meeting Mr. Zelenskyy until a possible peace deal had been agreed; the Ukrainian President hit back, saying the Russian leader was “weak” and “choosing war again”",
-    "img": "https://th-i.thgim.com/public/incoming/wtn1fh/article71068299.ece/alternates/LANDSCAPE_1200/2026-06-05T183155Z_592520654_RC2UNLA679E5_RTRMADP_3_RUSSIA-CHINA-PUTIN-HAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/putin-rules-out-meeting-zelenskyy-and-vows-to-pursue-war-goals/article71068298.ece",
-    "time": "2026-06-06T04:52:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "E85 fuel to get Rs 20/litre cheaper as India ramps up ethanol push",
     "desc": "India is launching E85 petrol, an 85% ethanol blend, at discounted prices. This move aims to boost clean fuel adoption and cut reliance on imported fossil fuels. The government plans a phased rollout of E85 dispensing stations nationwide. Vehicle manufacturers are introducing E85 compatible models. This initiative is expected to benefit farmers and save foreign exchange.",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/government-exempts-capital-gains-tax-on-fpi-investment-in-g-secs/article71064644.ece",
     "time": "2026-06-05T08:27:48.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The world’s first and only rotating boat lift",
-    "desc": "On May 24, 2002, the Falkirk Wheel was officially opened by Queen Elizabeth II as part of her Golden Jubilee celebrations. The world’s first and only rotating boat lift is an engineering feat of excellence that connects the Forth & Clyde and Union Canals in Scotland. A.S.Ganesh takes you on this waterway to tell you more about this unique wheel…",
-    "img": "https://th-i.thgim.com/public/incoming/p7u4uf/article70964997.ece/alternates/LANDSCAPE_1200/24istb%20Falkirk%20Wheel%204.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
-    "time": "2026-06-05T06:48:05.000Z"
   }
 ];
