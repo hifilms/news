@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ইসরায়েলি হামলায় মৃত ১২; কেন আসিম মুনিরের সঙ্গে দেখা করবেন লেবানিজ সেনাপ্রধান?",
+    "desc": "ইরানের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র এই হামলাকে লেবানন, লেবাননের সেনাবাহিনী ও তার সার্বভৌমত্বের বিরুদ্ধে এক জঘন্য অপরাধ ও আগ্রাসনের স্পষ্ট বার্তা হিসেবে চিহ্নিত করেন। তিনি বলেন, এর মাধ্যমে বোঝা যায়, ইসরায়েল লেবাননের নিরাপত্তা, স্থিতিশীলতা ও সমৃদ্ধি চায় না। এই হামলার নিন্দা জানিয়েছে আঞ্চলিক দেশগুলিও। এর মধ্যে রয়েছে সৌদি আরব, জর্ডান ও কাতার।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": "https://zeenews.india.com/bengali/world/israeli-attack-in-lebanon-kill-12-people-lebanons-commander-general-rudolf-haykal-heading-to-talk-with-asim-munir_657094.html",
+    "time": "2026-06-07T06:31:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "কাজ করতে পারছিলেন না! ক্ষোভ উগড়ে বিজয় শিবিরে ৩০০-র বেশি AIADMK নেতা",
     "desc": "এআইএডিএমকে দলের অন্দরে দীর্ঘদিনের পুঞ্জীভূত ক্ষোভ এবার প্রকাশ্যে চলে এল। দলের শীর্ষ নেতৃত্বের ওপর একপ্রকার আস্থা হারিয়ে ৩০০ জনেরও বেশি হেভিওয়েট এআইএডিএমকে নেতা ও কর্মী আনুষ্ঠানিকভাবে TVK-এ যোগ দিয়েছেন। জনপ্রিয় অভিনেতা তথা মুখ্যমন্ত্রী জোসেফ বিজয়ের সরকারের হাত শক্ত করতেই এই মেগা দলবদল।",
@@ -162,15 +171,6 @@ const newsData_bn = [
     "time": "2026-06-03T08:56:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "সিবিএসইতে বড় রদবদল: দুর্নীতির অভিযোগে ছাঁটাই শীর্ষকর্তারা, নতুন চেয়ারম্যান ও সচিবে বড় চমক বোর্ডের",
-    "desc": "সংসদীয় প্যানেলও এই অনিয়ম সংক্রান্ত বিষয়ে বোর্ডের শীর্ষ কর্মকর্তাদের তলব করেছিল। শিক্ষা ক্ষেত্রে স্বচ্ছতা বজায় রাখার স্বার্থে এই তদন্ত যখন এগোচ্ছে, ঠিক তখনই পুরো বোর্ডের প্রশাসনিক শীর্ষে রদবদল করে লোখান্ডে প্রশান্ত সীতারামের মতো সিনিয়র আইএএস-এর হাতে এই দায়িত্ব তুলে দেওয়া হল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/nation/who-is-prashant-sitaram-lokhande-new-cbse-chairperson-appointed_656365.html",
-    "time": "2026-06-02T17:24:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ক্ষমা চেয়েও পার পেলেন না রচনা বন্দ্যোপাধ্যায়, আরজি করের ভিডিও ঘিরে থানায় ডায়েরি",
     "desc": "আরজি কর নির্যাতিতার নাম প্রকাশ্য ভিডিওতে বলে ফেলার জের! এবার আইনি বিপাকে জড়িয়ে পড়লেন তৃণমূল সাংসদ ও অভিনেত্রী রচনা বন্দ্যোপাধ্যায়। চারু মার্কেট থানায় তাঁর বিরুদ্ধে লিখিত অভিযোগ দায়ের করলেন এক আইনজীবী। যদিও বিষয়টিকে ‘অনিচ্ছাকৃত ভুল’ বলে আইনি পথেই লড়াইয়ের বার্তা দিলেন রচনা।",
@@ -187,6 +187,15 @@ const newsData_bn = [
     "src": "india.com",
     "url": "https://zeenews.india.com/bengali/world/30-indians-caught-driving-trucks-illegally-in-us-face-deportation_656296.html",
     "time": "2026-06-02T11:34:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -250,5 +259,50 @@ const newsData_bn = [
     "src": "india.com",
     "url": "https://zeenews.india.com/bengali/world/deadliest-coal-mine-explosion-china-coal-mine-blast-90-miners-killed-so-far_655182.html",
     "time": "2026-05-24T09:36:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

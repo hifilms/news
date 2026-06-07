@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "તેલ કંપનીઓ ગ્રાહકો સાથે નહિ કરી શકે ચીટિંગ, ચોક્કસ માપમાં વેચાશે સિંગતેલ-કપાસિયા તેલ",
+    "desc": "સિંગતેલ, કપાસિયા તેલ જેવા ખાદ્યતેલના વેચાણ માટે કડક નિયમો લાગુ કરવામા આવ્યા છે. હવેથી નિયત માપદંડના પેકેટમાં જ ખાદ્યતેલ વેચવામા આવશે. ગ્રાહકોના હિતમાં કેન્દ્ર સરકારે ખાદ્યતેલના વેચાણ માટે ચોકક્સ માપ તૈયાર કર્યા છે, હવે એ જ મુજબ ખાદ્યતેલ વેચાશે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/oil-companies-will-not-be-able-to-cheat-with-customers-singtel-cottonseed-oil-sold-in-specific-quantities-480698 ",
+    "time": "2026-06-07T07:50:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આ હોરર ફિલ્મ જોતાં જોતાં બોલવા લાગશો હનુમાન ચાલીસા, બીકના કારણે ધ્રુજવા લાગશે હાથ-પગ",
+    "desc": "જે લોકોને હોરર ફિલ્મો જોવાનો શોખ છે તેમના માટે આજે બેસ્ટ હોરર મુવી વિશે જાણકારી લઈને આવ્યા છીએ. ઓટીટી પર આ ફિલ્મ રિલીઝ થઈ ચુકી છે. આ હોરર ફિલ્મ જોતાં જોતા હનુમાન ચાલીસા બોલવા લાગશો. ફિલ્મના અમુક સીન તો એવા છે જેને જોઈ તમારા મોઢામાંથી પણ ચીસ નીકળી જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/horror-thriller-movie-in-hindi-on-netflix-the-nun-2-latest-hindi-horror-movie-on-ott-480689 ",
+    "time": "2026-06-07T05:50:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Instagram યુઝર્સ માટે Meta એ લોન્ચ કર્યો 299 રૂપિયાનો પ્રી-પેડ પ્લાન, જાણો કયા-કયા ફીચર્સ મળશે?",
+    "desc": "Meta કંપનીએ ઇન્સ્ટાગ્રામના ભારતીય યુઝર્સને મોટો ઝટકો આપ્યો છે. મેટાએ તાજેતરમાં WhatsApp, Instagram અને Facebook ને પેઇડ સર્વિસ બનાવવાની જાહેરાત કરી હતી. હવે કંપનીએ 'ઇન્સ્ટાગ્રામ પ્લસ' પ્લાન પણ લોન્ચ કરી દીધો છે, જે આજથી એટલે કે 7 જૂનથી અમલમાં આવી ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/meta-has-launched-a-299-prepaid-plan-for-instagram-users-find-out-what-features-are-included-480683 ",
+    "time": "2026-06-07T04:59:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેપ્ટન અમરિંદર સિંહ છોડશે BJP અને જોઈન કરશે કોંગ્રેસ? અમિત શાહ અને જેપી નડ્ડાને કેમ મળ્યા પંજાબના પૂર્વ CM?",
+    "desc": "પંજાબના પૂર્વ મુખ્યમંત્રી કેપ્ટન અમરિંદર સિંહે કેન્દ્રીય ગૃહમંત્રી અમિત શાહ અને કેન્દ્રીય મંત્રી જેપી નડ્ડા સાથે મુલાકાત કરી છે. આ મુલાકાત બાદ રાજકીય ગલિયારાઓમાં તેમના પક્ષ છોડવાની અટકળો તેજ બની છે. પંજાબના રાજકીય બજારમાં ચર્ચાઓ ગરમાઈ છે કે કેપ્ટન ફરીથી કોંગ્રેસમાં ઘરવાપસી કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/will-captain-amarinder-singh-leave-bjp-and-join-congress-why-former-chief-minister-of-punjab-met-amit-shah-and-jp-nadda-480676 ",
+    "time": "2026-06-07T04:32:58.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "સીન પુરો થઈ ગયો તો પણ એક્ટર કીસ કરતો જ રહ્યો, અભિનેત્રીએ જણાવ્યા ઈંટીમેટ સીન સમયના કડવા અનુભવો",
     "desc": "અભિનેત્રી પ્રિયા બાપટે એક ઈંટરવ્યુમાં ઈંટીમેટ સીન દરમિયાન થતા ખરાબ અનુભવ વિશે વાત કરી હતી. જેમાં તેણે એવું પણ કહ્યું કે એક એક્ટરે તો સીન પુરો થઈ ગયા પછી પણ કીસ કરવાનું બંધ ન કર્યું. આવી ઘટનાના કારણે શરુઆતી સમયમાં નવા એક્ટર અસુક્ષિત અનુભવ કરતાં હોય છે.",
@@ -414,15 +450,6 @@ const newsData_gu = [
     "time": "2026-06-04T10:37:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "LPG Cylinder પર મળતી સબસિડી પર સરકારની મોટી કાર્યવાહી! આ લોકોના ખાતામાં હવે પૈસા નહીં આવે",
-    "desc": "જે લોકો સબસિડીવાળો એલપીજી સિલિન્ડર વાપરતા હોય તેમના માટે મોટા સમાચાર છે. સરકારના નિયમો મુજબ જો ગ્રાહકની આવક 10 લાખ રૂપિયાથી વધુ હોય તો તેઓ એલપીજી સબસિડી માટે પાત્ર નથી. હવે કડકાઈથી આ અંગે તપાસ હાથ ધરાઈ રહી છે. વધુ વિગતો જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-update-on-lpg-cylinder-subsidy-check-rule-regarding-annual-income-limit-what-is-data-mining-480387 ",
-    "time": "2026-06-04T10:04:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "સૂર્યવંશીના &amp;#039;વૈભવ&amp;#039;ને ચમકાવશે ગ્રહોની આ જુગલબંધી ! કુંડળીનો 11મો ભાવ આપી રહ્યો છે મોટા સંકેત",
     "desc": "IPL 2026માં વૈભવ સૂર્યવંશીના શાનદાર પ્રદર્શન બાદ હવે દરેક જગ્યાએ ચર્ચા છે કે શું ક્રિકેટ જગતને નવો ગ્લોબલ સુપરસ્ટાર મળી ગયો છે. ખાસ વાત એ છે કે વૈભવની કુંડળી પણ ઈન્ટરનેશનલ સુપરસ્ટાર બનવાના મજબૂત સંકેત આપી રહી છે.",
@@ -439,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rajat-patidar-or-tilak-verma-who-will-replace-virat-kohli-in-odi-team-480362 ",
     "time": "2026-06-04T08:52:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેરળમાં મેઘરાજાની પધરામણી; નૈઋત્ય ચોમાસાની ધમાકેદાર એન્ટ્રી, જાણો ગુજરાતમાં ક્યારે પહોંચશે? મોટી આગાહી",
-    "desc": "ભારતીય હવામાન વિભાગે દાવો કર્યો છે કે ચોમાસાએ કેરલમમાં પ્રવેશ કરી લીધો છે. તેની અસર કેરલમ ઉપરાંત તમિલનાડુ અને કર્ણાટકમાં કેટલીક જગ્યાએ આગામી 7 દિવસ ભારે વરસાદ થઈ શકે છે. આગામી દિવસોમાં મહારાષ્ટ્ર બાદ ગુજરાતમાં ચોમાસાનું આગમન થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/monsoon-arrives-in-kerala-southwest-monsoon-makes-a-strong-entry-alert-in-24-states-including-gujarat-480359 ",
-    "time": "2026-06-04T08:09:57.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +504,6 @@ const newsData_gu = [
     "time": "2026-06-04T06:05:39.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ક્રૂડ ઓઈલના ભાવમાં ઘટાડા વચ્ચે જાહેર થયા પેટ્રોલ-ડીઝલના નવા ભાવ, જાણો તમારા શહેરમાં શું છે આજનો ભાવ",
-    "desc": "વૈશ્વિક સ્તરે ક્રૂડ ઓઇલના ભાવમાં ઘટાડો થયો છે, ત્યારે શું ભારતમાં પેટ્રોલ અને ડીઝલના ભાવમાં કોઈ ફેરફાર થયો છે કે કેમ ? તેમજ દેશના મુખ્ય શહેરોમાં પેટ્રોલ અને ડીઝલના આજના ભાવ શું છે, તેના પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-know-latest-petrol-rate-in-ahmedabad-480339 ",
-    "time": "2026-06-04T05:27:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પના મનમાં છે શું? પહેલા નેતન્યાહૂ સાથે ગાળાગાળી કરી અને હવે ખેલ્યો મોટો દાવ",
     "desc": "હાલમાં જ એવા અહેવાલ હતા કે ફોન પર વાતચીત દરમિયાન ડોનાલ્ડ ટ્રમ્પે ઈઝરાયેલી પીએમને આપત્તિજનક શબ્દોનો ઉપયોગ કરીને ખખડાવી નાખ્યા હતા. હવે ટ્રમ્પે વળી પાછા ચર્ચામાં છે અને આ વખતે એક એવું નિવેદન આપ્યું છે કે દુનિયા પણ આશ્ચર્યચકિત છે.",
@@ -520,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-india-telecast-how-much-will-you-spend-on-zee5-and-unite8-sports-480293 ",
     "time": "2026-06-03T16:02:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;કોણ શું કહી રહ્યા છે...&amp;#039; વિરાટ-વૈભવની વાતચીતનો થયો ખુલાસો, જાણો કોહલીએ સૂર્યવંશીને શું આપી અદ્ભુત સલાહ?",
-    "desc": "આઈપીએલ 2026ના ટોપ સ્કોરર 15 વર્ષના વૈભવ સૂર્યવંશી ખૂબ જ નાની ઉંમરે ચર્ચામાં આવ્યા છે. આ ઉંમરે આટલી બધી હાઇપ સંભાળવી સહેલી વાત નથી. મોટા-મોટા દિગ્ગજો પણ સોશિયલ મીડિયાના દબાણમાં આવી જાય છે. આ સ્થિતિમાં વૈભવ નવા છે અને તેમને પરિસ્થિતિઓનો સામનો કરવા માટે વિરાટ કોહલીની સલાહ મળી છે, જેઓ પોતાના કરિયરમાં દરેક પ્રકારની સ્થિતિનો અનુભવ કરી ચૂક્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-saying-what-virat-vaibhav-conversation-revealed-know-what-advice-kohli-gave-to-suryavanshi-480276 ",
-    "time": "2026-06-03T12:03:38.000Z"
   },
   {
     "cat": "Tech",
@@ -630,15 +630,6 @@ const newsData_gu = [
     "time": "2026-05-31T10:27:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ડુંગળીની વાસ રોમાંટિક સીનમાં બની વીલન, હિરોઈનની નજીક જવું પણ બોબી માટે હતું મુશ્કેલ, તમને ખબર છે આ ઘટના વિશે ?",
-    "desc": "બોબી દેઓલ તેની આગામી ફિલ્મ બંદરના કારણે ચર્ચામાં છે. આ સિવાય હાલ તેની ચર્ચા અન્ય એક ઘટના માટે પણ થઈ રહી છે. આ ઘટના તેની ફિલ્મ ગુપ્તના શૂટિંગ સમયની છે. જ્યારે રોમાંટિક સીન કરવો બોબી દેઓલ માટે માથાનો દુખાવો બની ગયો હતો. અને તેનું કારણ હતી ડુંગળીની વાસ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-manisha-koirala-bad-breath-story-of-gupt-movie-shooting-479842 ",
-    "time": "2026-05-31T07:20:14.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "AC ને રિમોટથી બંધ કરાઈ કે સ્વિચથી? મોટાભાગના લોકો આ કરે છે આ ભૂલ",
     "desc": "શું તમે પણ ACને સીધુ સ્વિચથી બંધ કરો છો? જો હા તો આ આદત તમારા એસીની લાઇફ અને વીજળી બિલ બંને પર અસર કરી શકે છે. જાણો એસીને રિમોટથી બંધ કરવું યોગ્ય છે કે સ્વિચથી, અને વીજળી બચાવવા માટે યોગ્ય શું છે.",
@@ -664,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trumps-big-announcement-on-hormuz-amidst-peace-talks-with-iran-information-given-on-truth-know-479683 ",
     "time": "2026-05-29T17:08:45.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "આગ લાગતા પહેલા AC આપે છે આ સંકેત, જો ધ્યાન ન આપ્યું તો થશે મોટું નુકસાન, આ રીતે રહો સુરક્ષિત",
-    "desc": "ગરમી વધવાની સાથે એસીમાં આગ લાગવાની ઘટનાઓમાં પણ વધારો થઈ રહ્યો છે, અનેક નાના-નાના પ્રોબ્લમ છે, જેના કારણે તમારા ACમાં આગ લાગી શકે છે અને મોટી દુર્ધટનાઓ થાય છે, પણ આ નાની બાબતોનું ધ્યાન રાખીને તમે એસીના મોટા ખર્ચાથી બચી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/ac-gives-this-signal-before-a-fire-if-not-paid-attention-then-there-will-be-a-big-loss-stay-safe-like-this-479639 ",
-    "time": "2026-05-29T11:01:56.000Z"
   },
   {
     "cat": "World",
