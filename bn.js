@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "৪০ বছরের সিস্টেমের ইতি! শুরু হচ্ছে হাই-টেক বুকিং, রেলেও এবার AI",
+    "desc": "আগস্ট মাস থেকে ভারতীয় রেল তাদের ৪০ বছর পুরনো টিকিট বুকিং ব্যবস্থা (PRS) বন্ধ করতে চলেছে। এর বদলে সম্পূর্ণ নতুন ও আধুনিক ক্লাউড সিস্টেম চালু হবে। এই নতুন প্রযুক্তির ডেটা প্রসেস করার ক্ষমতা অনেক বেশি। ফলে উৎসবের মরসুমে বা তৎকাল বুকিংয়ের সময় আর সার্ভার ক্র্যাশ করবে না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/indian-railway-new-cloud-based-ticketing-system-ai-waiting-list-prediction-railone-app-launch_657268.html ",
+    "time": "2026-06-08T09:54:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "৮.২ মাত্রার প্রলয়ঙ্করী ভূমিকম্প! ভয়ংকর কম্পনে মৃত্যু একাধিকের, গ্রাস করতে আসছে সমুদ্রের দানবীয় ঢেউ",
+    "desc": "দক্ষিণ ফিলিপাইনে একটি শক্তিশালী ভূমিকম্প হয়েছে। এতে অন্তত ৪ জন মারা গেছেন এবং ২০০ জনেরও বেশি মানুষ আহত হয়েছেন। সমুদ্রতীরে সুনামির ভয় থাকায় সেখানকার মানুষদের নিরাপদ জায়গায় সরিয়ে নেওয়া হয়েছে। এছাড়া ভূমিকম্পের জায়গার কাছাকাছি এলাকায় বিদ্যুৎ ও ফোন যোগাযোগ বন্ধ হয়ে গেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/8-2-magnitude-earthquake-hits-philippines-tsunami-warning-issued_657229.html ",
+    "time": "2026-06-08T07:26:02.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "মিমিক্রি থেকে জাতীয় পুরস্কারের মঞ্চ! আচমকাই প্রয়াত জনপ্রিয় অভিনেতা",
     "desc": "জাতীয় পুরস্কারজয়ী জনপ্রিয় মালয়ালম অভিনেতা সেলিম কুমার ৫৬ বছর বয়সে প্রয়াত হয়েছেন। নিউমোনিয়ায় আক্রান্ত হয়ে কোচির একটি বেসরকারি হাসপাতালে চিকিৎসাধীন অবস্থায় তিনি শেষনিঃশ্বাস ত্যাগ করেন। ১৯৯৭ সালে মিমিক্রি শিল্পী হিসেবে ক্যারিয়ার শুরু করে পরবর্তীতে তিনি সিনেমার অন্যতম সেরা কমেডি ও গম্ভীর চরিত্রের অভিনেতা হয়ে ওঠেন।",
@@ -160,15 +178,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/chicken-crisis-brazilian-poultry-meat-exports-fell-by-nearly-25-percent-significantly-reduced-demand-for-imports_656612.html ",
     "time": "2026-06-04T10:16:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিবাহিত কন্যারা বাবার পরিবার থেকে বাদ? এক মামলার পর্যবেক্ষণে বিরাট রায় সুপ্রিম কোর্টের",
-    "desc": "সুপ্রিম কোর্টের রায়ে পরিষ্কার বলা হল, বিবাহিত কন্যাকে পরিবার থেকে বাদ দেওয়াটা অযৌক্তিক। সংশ্লিষ্ট মহল বলছে, লিঙ্গবৈষম্য দূর করার জন্য খুবই গুরুত্বপূর্ণ এই রায়। শীর্ষ আদালতের মন্তব্য, ছেলে বিয়ের পরও পরিবারের সদস্যই থাকেন, এদিকে মেয়েরা বাপের বাড়ির সদস্য হিসেবে গণ্য হন না! কেন?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-on-married-daughter-married-daughter-cannot-be-excluded-from-compassionate-appointment-sc-overrules-allahabad-hc-view_656585.html ",
-    "time": "2026-06-04T08:54:29.000Z"
   },
   {
     "cat": "Entertainment",

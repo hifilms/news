@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why didn't India get WTC points despite historic innings and 300-run win over Afghanistan in Mullanpur?",
+    "desc": "India steamrolled Afghanistan in the one-off Test at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, with a historic innings and 300-run win as their spinners starred to bowl Afghanistan out for just 112 in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-didnt-india-get-wtc-points-despite-historic-innings-and-300-run-win-over-afghanistan-in-mullanpur-2026-06-08-1044060",
+    "time": "2026-06-08T10:25:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India storm Afghanistan out of Mullanpur, register massive innings and 300-run victory in only Test",
+    "desc": "The Indian team registered a brilliant performance against Afghanistan in the only Test of the ongoing multi-format series. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, from June 6,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-storm-afghanistan-out-of-mullanpur-register-massive-innings-and-300-run-victory-in-only-test-2026-06-08-1044050",
+    "time": "2026-06-08T09:39:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What can be expected of Vaibhav Sooryavanshi with maiden India call-up? Former skipper opines",
+    "desc": "The BCCI (Board of Control for Cricket in India) revealed the Indian team’s squad for the upcoming T20I series against Ireland and England. The Men in Blue will take on Ireland across two T20Is and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-can-be-expected-of-vaibhav-sooryavanshi-with-maiden-india-call-up-former-skipper-opines-2026-06-08-1044049",
+    "time": "2026-06-08T09:31:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Legendary former India batter sings debutant's praises after exceptional bowling performance against AFG",
+    "desc": "The only Test of the ongoing multi-format series between India and Afghanistan has belonged to debutant Manav Suthar. The two sides met in Mullanpur for the clash from June 6th, and the Indian team posted...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/legendary-former-india-batter-sings-debutant-s-praises-after-exceptional-bowling-performance-against-afghanistan-2026-06-08-1044046",
+    "time": "2026-06-08T08:54:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Didier Deschamps provides crucial fitness update on star defender ahead of FIFA World Cup 2026",
+    "desc": "The stage is set for the FIFA World Cup 2026, and a whopping 48 teams will take on each other in a bid to get their hands on the prestigious title. With the tournament all...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/didier-deschamps-provides-crucial-fitness-update-on-star-defender-ahead-of-fifa-world-cup-2026-2026-06-08-1044037",
+    "time": "2026-06-08T07:42:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who are the 10 Indian stars to take a fifer on Test debut as Manav Suthar joins elite list? Check details",
+    "desc": "The ongoing only Test between India and Afghanistan has set the eyes of many on debutant Manav Suthar. The two sides met for the clash in Mullanpur from June 6th. The game began with India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-are-the-10-indian-stars-to-take-a-fifer-on-test-debut-as-manav-suthar-joins-elite-list-check-details-2026-06-08-1044029",
+    "time": "2026-06-08T06:53:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manav Suthar's six-for helps India enforce follow-on against Afghanistan, visitors trail by 412 runs",
+    "desc": "The Indian team continued their dominant show against Afghanistan in the ongoing, only Test of the series. After declaring on a score of 568 runs in the first innings, the hosts limited Afghanistan to 152...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-s-six-for-helps-india-enforce-follow-on-against-afghanistan-visitors-trail-by-412-runs-2026-06-08-1044022",
+    "time": "2026-06-08T05:45:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer hails Manav Suthar after brilliant bowling showcase in only Test against Afghanistan",
+    "desc": "The Indian team has been brilliant in the ongoing only Test of the ongoing multi-format series against Afghanistan. The two sides met in Mullanpur from June 6th, and the clash began with India coming in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-manav-suthar-after-brilliant-bowling-showcase-in-only-test-against-afghanistan-2026-06-08-1044016",
+    "time": "2026-06-08T05:06:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia announce squad for Bangladesh ODIs, Josh Inglis to lead; Mitchell Marsh misses out",
+    "desc": "In a major development, CA (Cricket Australia) has come forward and announced its squad for the upcoming multi-format series against Bangladesh. The two sides will kick off the series with three ODI matches. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-announces-squad-for-bangladesh-odis-josh-inglis-to-lead-mitchell-marsh-misses-out-2026-06-08-1044006",
+    "time": "2026-06-08T03:50:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer reflects on Vaibhav Sooryavanshi's inclusion India's senior squad",
     "desc": "The Indian team is all set to take on Ireland and England in a multi-format series. The side will kick off the tour with two T20Is against Ireland and will follow it up with five...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-vaibhav-sooryavanshi-s-inclusion-india-s-senior-squad-2026-06-08-1043998",
     "time": "2026-06-08T02:32:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much did the winners of the French Open 2026 earn after winning prestigious title? Check details",
-    "desc": "The French Open 2026 finally concluded after three weeks of gruelling contests between some of the best players in world tennis. While Russia’s Maria Andreeva won the women’s final against Maja Chwalinska. The men’s final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/how-much-did-the-winners-of-the-french-open-2026-earn-after-winning-prestigious-title-check-details-2026-06-08-1043996",
-    "time": "2026-06-08T01:46:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Christian Eriksen once again collapses holding his heart, referee calls off match",
-    "desc": "Denmark international Christian Eriksen once again suffered a heart-related problem during the match against Ukraine at Nature Energy Park in Odense on Sunday evening. He marked the second instance in Eriksen’s career. Earlier, during the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/christian-eriksen-once-again-collapses-holding-his-heart-referee-calls-off-match-watch-video-2026-06-08-1043991",
-    "time": "2026-06-07T18:58:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alexander Zverev's moment finally arrives, wins first Major with victory over Cobolli at Roland Garros",
-    "desc": "Alexander Zverev's moment has finally arrived as he ended his ever-lasting wait for a Grand Slam title with a win over Italy's Flavio Cobolli in the French Open final on Sunday, June 7. Zverev overturned...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverevs-moment-finally-arrives-wins-first-major-with-victory-over-cobolli-at-roland-garros-2026-06-07-1043988",
-    "time": "2026-06-07T17:57:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MCC ends silence on Lord's pitch, which saw England beat New Zealand in 996 balls in first Test",
-    "desc": "The Marylebone Cricket Club (MCC) ended its silence on the controversial pitch at Lord's ground for the first Test match between New Zealand and England, which was ended in just 996 balls as the hosts...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mcc-ends-silence-on-lords-pitch-which-saw-england-beat-new-zealand-in-996-balls-in-first-test-2026-06-07-1043986",
-    "time": "2026-06-07T17:44:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kimi Antonelli creates history after flawless Monaco GP win, Lewis Hamilton second in dramatic race",
-    "desc": "Teenage sensation Kimi Antonelli continued his meteoric rise in the Formula 1 series as the 19-year-old Italian clinched his fifth straight Grand Prix in a row with the Monaco GP win on Sunday, June 7....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/kimi-antonelli-creates-history-after-flawless-monaco-gp-win-lewis-hamilton-second-in-dramatic-race-2026-06-07-1043982",
-    "time": "2026-06-07T16:54:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "End of road for Sarfaraz Ahmed, Shan Masood? PCB mulls of major changes after Bangladesh drubbing",
-    "desc": "The Pakistan Cricket Board is reportedly mulling to remove the Test team's head coach, Sarfaraz Ahmed and captain Shan Masood from their roles after the team's horror 2-0 drubbing by Bangladesh. A PTI report quoted a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/end-of-road-for-sarfaraz-ahmed-shan-masood-pcb-mulls-of-major-changes-after-bangladesh-drubbing-2026-06-07-1043978",
-    "time": "2026-06-07T16:14:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tamim Iqbal officially elected as BCB president, becomes youngest to take the post",
-    "desc": "Former Bangladesh cricketer Tamim Iqbal was officially elected as the Bangladesh Cricket Board President on Sunday, June 7. Tamim was serving as the interim head of the BCB after the government had dissolved the BCB...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tamim-iqbal-officially-elected-as-bcb-president-becomes-youngest-to-take-the-post-2026-06-07-1043973",
-    "time": "2026-06-07T14:45:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What exactly happened to Max Verstappen at Monaco GP? Red Bull driver reveals after retirement",
-    "desc": "Max Verstappen and Red Bull endured a nightmare at the start of the Monaco Grand Prix as the four-time champion was forced to retire early in the 78-lapped race at the Crown Jewel on Sunday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/what-exactly-happened-to-max-verstappen-at-monaco-gp-red-bull-driver-reveals-after-retirement-2026-06-07-1043971",
-    "time": "2026-06-07T13:50:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manav Suthar special leads India after gigantic batting effort; what major record he has in sights now?",
-    "desc": "Manav Suthar led the charge with the ball as he scalped three wickets on his India debut during the second day of the one-off Test against Afghanistan on Sunday, June 7. Suthar displayed his brilliance...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-special-leads-india-after-gigantic-batting-effort-what-major-record-he-has-in-sights-now-2026-06-07-1043968",
-    "time": "2026-06-07T13:35:16.000Z"
   }
 ];

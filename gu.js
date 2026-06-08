@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "UAN એક્ટિવેશનના નિયમોમાં મોટા ફેરફાર, હવે આ રીતે થશે ઓથેન્ટિકેશન, જાણો સ્ટેપ બાય સ્ટેપ પ્રોસેસ",
+    "desc": "કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO)એ UAN જનરેટ અને એક્ટિવ કરવાના નિયમોમાં ફેરફાર કર્યા છે. હવે, આ ઓથેન્ટિકેશનનો ઉપયોગ કરીને PF એકાઉન્ટ નંબર જનરેટ અને એક્ટિવ કરવામાં આવશે. લોકો UMANG એપ દ્વારા નંબર જનરેટ અને એક્ટિવ કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-changes-in-uan-activation-rules-now-this-is-how-authentication-will-be-done-know-the-step-by-step-process-480831 ",
+    "time": "2026-06-08T10:33:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMCમાં મચી ભાગદોડ! દિગ્ગજ નેતાના રાજીનામું, અનેક સાંસદો ભાજપ નેતાના ઘરે સુવેન્દુ અધિકારીને મળ્યા",
+    "desc": "વિધાનસભા ચૂંટણીમાં મળેલી સજ્જડ હારમાંથી હજુ કળ વળી નથી ત્યાં તો મમતા બેનર્જીને ઉપરાછાપરી આઘાત ઝીલવાનો વારો આવ્યો છે. એક તો દિગ્ગજ નેતાએ આજે રાજીનામું આપ્યું ત્યાં વળી વિધાયકો બાદ હવે સાંસદો પણ હાથમાંથી સરી રહ્યા હોય તેવું જણાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/wb-politics-sukhendu-sekhar-ray-resigns-cm-cuvendu-adhikari-at-bhupender-yadav-home-480830 ",
+    "time": "2026-06-08T10:32:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "વિક્રમ ભટ્ટે રિલેશનશીપને લઈ કરી પેટ છુટી વાત, સુષ્મિતા સેન તેની લાઈફમાં હતી ત્યારની હાલત વિશે જણાવ્યું",
+    "desc": "વિક્રમ ભટ્ટે તાજેતરના તેના એક ઈન્ટરવ્યુમાં પોતાના કરિયરની શરુઆતના સંઘર્ષ વિશે વાત કરી હતી. આ વાત દરમિયાન તેણે સુષ્મિતા સેન વિશે પણ એક મોટી વાત કહી દીધી હતી. વિક્રમ ભટ્ટે શું કહ્યું ચાલો તમને પણ જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/sushmita-sen-dated-vikram-bhatt-when-he-was-poor-said-vikram-bhatt-in-recent-interview-480824 ",
+    "time": "2026-06-08T09:15:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોકરોચ જનતા પાર્ટી બાદ હવે &amp;#039;ઈશ્ક કરો પાર્ટી&amp;#039;, સુપ્રીમ કોર્ટના પૂર્વ જજની જાહેરાત, CJP પર સાધ્યું નિશાન",
+    "desc": "દેશની સર્વોચ્ચ કોર્ટ સુપ્રીમ કોર્ટના એક પૂર્વ જજે સોશિયલ મીડિયા પર ઈશ્ક કરો પાર્ટી વિશે જાહેરાત કરતા લોકોમાં કૂતુહલ સર્જાયું છે. જાણો આખરે તેમણે આ પાર્ટીની કેમ જાહેરાત કરી અને અભિજીત દીપકે પર કેમ સાધ્યું નિશાન?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-cockroach-janata-party-now-ishq-karo-party-former-supreme-court-judge-announces-480822 ",
+    "time": "2026-06-08T09:01:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એક ઝટકે ભાવમાં 15000નો ઘટાડો, બજાર ખુલતા જ સોના-ચાંદી ધડામ, જાણો 10 ગ્રામ સોનાનો આજનો ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે ભયંકર મોટો ઘટાડો જોવા મળ્યો છે. એક બાજુ યુદ્ધની સ્થિતિને પગલે સુરક્ષિત રોકાણનો ભાવ વધવો જોઈએ તો તો સોનું અને ચાંદી યુદ્ધ શરૂ થયું ત્યારથી તૂટતા જોવા મળી રહ્યા છે. જાણો આજે 10 ગ્રામ સોનાનો અને એક કિલો ચાંદીનો લેટેસ્ટ ભાવ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-drop-sharply-as-markets-open-check-ibja-and-mcx-rates-aaj-no-sona-no-bhav-480806 ",
+    "time": "2026-06-08T07:01:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ફિલિપાઈન્સમાં વિનાશકારી ભૂકંપ બાદ સુનામીની ચેતવણી, તબાહીના Videos જોઈને હચમચી જશો",
+    "desc": "ફિલિપાઈન્સમાં આજે મિંડાનાઓ કાઠા પાસે સમુદ્રમાં અત્યંત શક્તિશાળી ભૂકંપ આવ્યો ત્યારબાદ ફિલિપાઈન્સની સાથે સાથે ઈન્ડોનેશિયામાં પણ સુનામીનું હાઈ એલર્ટ બહાર પાડવામાં આવ્યું છે. ભૂકંપના ઝટકાઓ બાદ સોશિયલ મીડિયા પર કેટલાક વીડિયો પણ વાયરલ થઈ રહ્યા છે જેને જોઈને તમે પણ હચમચી જશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/philippines-earthquake-latest-update-tsunami-alert-indonesia-watch-social-media-viral-videos-480792 ",
+    "time": "2026-06-08T06:23:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ન ફોન, ન ઈન્ટરનેટ, પેપર સેટર્સને 21 જૂન સુધી આઇસોલેશનમાં રાખવામાં આવશે, આવી છે નીટ રી-એક્ઝામની તૈયારી",
+    "desc": "નીટ-યુજી 2026 રી-એક્ઝામને લઈને શિક્ષણ મંત્રાલય અને એનટીએએ પરીક્ષાની ગોપનીયતાની ખાતરી કરવા માટે કડક પગલાં ભર્યાં છે. પ્રશ્નપત્ર તૈયાર કરવા, ટ્રાન્સલેટ કરવા અને પરીક્ષાના સંચાલન સાથે જોડાયેલા નિષ્ણાંતો તથા કર્મચારીઓને સુરક્ષિત ગુપ્ત સ્થળે રાખવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/neet-exam-no-phones-no-internet-paper-setters-to-be-kept-in-isolation-until-june-21-480786 ",
+    "time": "2026-06-08T05:10:45.000Z"
+  },
+  {
     "cat": "World",
     "title": "ટ્રમ્પનો આદેશ ઘોળીને પી ગયા &amp;#039;બીબી&amp;#039;? ના પાડી છતાં ઈઝરાયેલે ઈરાન પર છોડી મિસાઈલો",
     "desc": "માંડ માંડ શાંતિ તરફ વળી રહેલું મિડલ ઈસ્ટ વળી પાછું ભડકે બળી રહ્યું છે. રવિવારે મોડી રાતે ઈરાને ઈઝરાયેલ પર હુમલા કર્યા. જેના જવાબમાં હવે સોમવારે વહેલી સવારે ઈઝરાયેલે પણ ઈરાના અનેક સૈન્ય ઠેકાણાઓને ટાર્ગેટ કરીને મોટો હવાઈ હમલો કર્યો.",
@@ -297,15 +360,6 @@ const newsData_gu = [
     "time": "2026-06-05T14:20:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ગર્ભવતી મહિલાઓ માટે સારા સમાચાર, હવે તેમને મળશે ₹6000, જાણો કેવી રીતે કરવી અરજી",
-    "desc": "સરકાર દ્વારા ગર્ભવતી મહિલાઓને પૈસા આપીને સહાય આપવામાં આવે છે અને આ રકમ બે હપ્તામાં ચુકવવામાં આવે છે, આ યોજના મોદી સરકાર દ્વારા ચલાવવામાં આવે છે અને તેને માતૃ વંદના યોજના કહેવામાં આવે છે, ચાલો જાણીએ કે તેનો લાભ કઈ રીતે લઈ શકાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/good-news-for-pregnant-women-now-they-will-get-rs-6000-know-how-to-apply-480505 ",
-    "time": "2026-06-05T13:48:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "આમિર ખાનના બંને લગ્ન 16-16 વર્ષ ટક્યા, 16 વર્ષ પછી કયા કારણે એક્ટરે ડિવોર્સ લીધા જાણો",
     "desc": "આમિર ખાન 61 વર્ષની ઉંમરે તેની ગર્લફ્રેન્ડ ગૌરી સ્પ્રેટ સાથે ત્રીજા લગ્ન કરવા જઈ રહ્યો છે. ત્યારે ચર્ચા એ વાતની પણ થવા લાગી છે કે આમિર ખાનના પહેલા 2 લગ્નમાં ડિવોર્સ કયા કારણે થયા. જો કે સંયોગ એવો પણ છે કે આમિર ખાનના બંને લગ્ન 16-16 વર્ષ ચાલ્યા અને પછી તેણે ડિવોર્સ લીધા.",
@@ -369,15 +423,6 @@ const newsData_gu = [
     "time": "2026-06-05T09:35:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;કોકરોચ જનતા પાર્ટીથી 10 કિમી દૂર રહે મુસલમાન&amp;#039;, મુસ્લિમો દ્વારા જ આવી અપીલ કેમ થઈ રહી છે?",
-    "desc": "સોશિયલ મીડિયા પર ધમાલ મચાવી ચૂકેલી કોકરોચ જનતા પાર્ટી હવે 6 જૂનના રોજ દેશની રાજધાની દિલ્હીમાં જંતર મંતર પર શિક્ષણમાં થયેલી સમસ્યાઓના પગલે વિરોધ પ્રદર્શન કરવા જઈ રહી છે. પાર્ટી ફાઉન્ડર અભિજીત દીપકે આ માટે અમેરિકાથી ભારત પાછા ફરી રહ્યા છે. જો કે આશ્ચર્ય વચ્ચે સોશિયલ મીડિયા પર અનેક મુસ્લિમ હેન્ડલ્સ દ્વારા તેમના લોકોને આ પ્રદર્શનથી દૂર રહેવાની અપીલ કરાઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-muslim-handles-on-social-media-appealing-to-muslims-to-stay-away-from-the-cjp-protest-480473 ",
-    "time": "2026-06-05T08:45:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "એક ઝટકે સોનાના ભાવમાં મોટો ઘટાડો ચાંદી પણ ધડામ થઈ, જાણો 10 ગ્રામ સોનાનો આજનો ભાવ",
     "desc": "સોના અને ચાંદીમાં આજે જોરદાર કડાકો જોવા મળ્યો છે. રિટેલ બજાર અને વાયદા બજાર બંનેમાં ભાવ ગગડ્યા છે. સવારે ઈન્ટરનેશનલ માર્કેટમાં પણ સોનું જબરદસ્ત તૂટેલું જોવા મળ્યું હતું. જાણો ભાવ હાલ ગગડીને કેટલે પહોંચી ગયા છે.",
@@ -387,15 +432,6 @@ const newsData_gu = [
     "time": "2026-06-05T07:00:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભાજપથી અલગ થયા અન્નામલાઈ, આખરે કઈ વાત પર નારાજ હતા દિગ્ગજ નેતા? ખાસ જાણો",
-    "desc": "તમિલનાડુમાં એક તો ભાજપને વિધાનસભા ચૂંટણીમાં આ વખતે વોટશેર ઘટતા ફટકો પડ્યો અને હવે તમિલનાડુમાં ભાજપના દિગ્ગજ નેતા કે. અન્નામલાઈનું રાજીનામું મંજૂર થઈ જતા પાર્ટીએ દિગ્ગજ નેતા ગુમાવવાનો વારો આવ્યો છે. આખરે અન્નામલાઈ એવું તે શું ઈચ્છતા હતા અને કઈ માંગણીઓ હતી જે ભાજપ મંજૂર કરી શક્યું નહીં તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/annamalai-split-from-bjp-what-was-the-reason-for-his-displeasure-political-explainer-480465 ",
-    "time": "2026-06-05T06:46:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "નેટફ્લિક્સ પર રિલીઝ થયાની સાથે ટોપ 10 મુવીમાં નંબર 1 બની માધુરીની ફિલ્મ માં બહેન",
     "desc": "નેટફ્લિક્સ પર માધુરી દીક્ષિત, રવિ કિશન, તૃપ્તી ડીમરીની ડાર્ક કોમેડી ફિલ્મ માં બહેન રિલીઝ થઈ ચુકી છે. આમ તો આ ફિલ્મ રિલીઝ થયાની સાથે જ ટ્રેંડિંગ લિસ્ટમાં આવી ગઈ છે તેમ છતાં જો તમારે ફિલ્મ જોતાં પહેલા જાણવું હોય કે ફિલ્મ કેવી છે તો ચાલો તમને જણાવીએ કેવી છે માધુરીની ફિલ્મ માં બહેન.",
@@ -403,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/netflix-hindi-movie-maa-behen-trending-madhuri-dixit-movie-maa-behen-is-must-watch-dark-comedy-film-480463 ",
     "time": "2026-06-05T06:15:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ક્યારેય એક કપ ચા ખરીદવાના ફાંફાં હતા, હાઈડ્રેટેડ શાકભાજીના આઈડિયાથી બનાવ્યો કરોડોનો કારોબાર",
-    "desc": "રાંચીના રહેવાસી શશી ભૂષણે કારોબારની દુનિયામાં અલગ ઓળખ બનાવી છે. એક સમય હતો જ્યારે તેમની પાસે એક કપ ચા ખરીદવાના પણ રૂપિયા ન હતા. આજે તેઓ કરોડોની કંપનીના માલિક છે. એક કપ ચાથી શરૂ કરીને શશી ભૂષણ કેવી રીતે આ મુકામ પર પહોંચ્યા જાણો",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/success-story-of-shashi-bhushan-journey-from-cup-of-tea-to-multimillion-dollar-company-480449 ",
-    "time": "2026-06-05T04:47:51.000Z"
   },
   {
     "cat": "Business",
@@ -430,24 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/opportunity-to-earn-with-free-electricity-government-scheme-will-give-freedom-from-light-bills-know-480441 ",
     "time": "2026-06-04T16:53:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આવી રહ્યું છે સસ્તુ પેટ્રોલ, રેગ્યુલર પેટ્રોલ કરતા સસ્તુ હશે, પેટ્રોલિયમ મંત્રીએ કહી મોટી વાત",
-    "desc": "કેન્દ્ર સરકાર E85 ફ્યુઅલને મોટા સ્તર પર લાગુ કરવાની તૈયારી કરી રહી છે. આજે મારુતિ સુઝુકીને પહેલી ફ્લેક્સ કારના લોન્ચિંગ પ્રસંગે કેન્દ્રીય પેટ્રોલિયમ મંત્રી હરદીપસિંહ પુરીએ કહ્યું કે, E85 ફ્યુઅલ સામાન્ય પેટ્રોલની સરખામણીમાં સસ્તુ હશે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cheap-petrol-e85-is-coming-petroleum-minister-said-big-thing-480426 ",
-    "time": "2026-06-04T16:14:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓના ટેક હોમ સેલરીમાં થશે બમ્પર વધારો? સરકાર લાગુ કરી શકે છે આ ખાસ ફોર્મ્યુલા!",
-    "desc": "આવતા વર્ષના પ્રથમ છ મહિનામાં પગાર પંચ પોતાની ભલામણો સરકારને સોંપી શકે છે. નિષ્ણાતોનું માનીએ તો સરકાર 2.86ની ફોર્મ્યુલા લાગુ કરી શકે છે. જો આવું થશે તો કેન્દ્રીય કર્મચારીઓની ટેક હોમ સેલરીમાં મોટો વધારો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-will-there-be-a-bumper-increase-in-the-take-home-salary-of-central-employees-government-can-implement-this-formula-480422 ",
-    "time": "2026-06-04T14:29:21.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +495,6 @@ const newsData_gu = [
     "time": "2026-06-04T11:38:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ગેસ સિલિન્ડરની હોમ ડિલિવરી માટે ચૂકવવા પડશે રૂપિયા 25 ? LPG ગ્રાહકોએ આ નિયમ જાણવા જરૂરી",
-    "desc": "જો તમે ઘરેલુ, કોમર્શિયલ અથવા 5 કિલોના નાના ગેસ સિલિન્ડરનો ઉપયોગ કરો છો, તો આ સમાચાર તમારા માટે ખૂબ જ ઉપયોગી છે. ગેસ સિલિન્ડર ડિલિવરી સંબંધિત એક નવું અપડેટ બહાર પાડવામાં આવ્યું છે. જેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-price-chhotu-gas-cylinder-home-delivery-charge-and-rules-480396 ",
-    "time": "2026-06-04T11:18:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "&amp;#039;પંડ્યા પરિવારમાં...&amp;#039; કૃણાલ પંડ્યાએ હાર્દિક સાથેના સંબંધો પર તોડ્યું મૌન, જાણો શું કહ્યું",
     "desc": "RCBએ IPL 2026ની ફાઇનલમાં ગુજરાત ટાઇટન્સને હરાવીને બીજી વખત ટાઇટલ જીત્યું. ત્યારે હવે આ જીત બાદ કૃણાલ પંડ્યાએ પણ તેના ભાઈ હાર્દિક સાથેના સંબંધો અંગે મૌન તોડ્યું છે. ત્યારે આ લેખમાં જાણીશું કે કૃણાલ પંડ્યાએ હાર્દિક સાથેના સંબંધો અંગે શું કહ્યું છે.",
@@ -529,33 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/suryakumar-to-be-sacked-shreyas-iyer-may-be-team-india-next-t20-captain-480358 ",
     "time": "2026-06-04T08:02:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "10 દિવસ બાદ ભારત-પાકિસ્તાન વચ્ચે મહાજંગ... જાણો ક્યાં અને ક્યારે જોઈ શકશો લાઈવ મેચ",
-    "desc": "12 જૂનથી મહિલા T20 વર્લ્ડ કપ 2026 શરૂ થવાનો છે. ODI વર્લ્ડ કપમાં ઇતિહાસ રચ્યા બાદ ભારતીય મહિલા ટીમની નજર હવે T20 વર્લ્ડ કપ પર છે. જો કે, ભારત અને પાકિસ્તાન વચ્ચેનો હાઇ-વોલ્ટેજ મુકાબલો ફાઈનલ કરતાં પણ વધારે ચર્ચામાં છે, ત્યારે આ મેચ ક્યારે અને ક્યાં રમાશે તેમજ તમે લાઈવ જોઈ શકશો તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/when-and-where-to-watch-ind-vs-pak-match-in-womens-t20-world-cup-2026-480355 ",
-    "time": "2026-06-04T07:26:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શું ICC ટ્રોફી જીતવી એ ભારતીય કેપ્ટનો માટે અભિશાપ છે? રોહિત શર્મા પછી સૂર્યકુમાર પર લટકતી તલવાર!",
-    "desc": "ટીમ ઈન્ડિયાને આઈસીસી ટ્રોફીમાં વિજેતા બનાવવી ભારતીય કેપ્ટનો માટે શ્રાપ બની રહ્યો છે. 2024મા તેની શરૂઆત થઈ અને 2026મા પણ આવું જોવા મળી રહ્યું છે. સતત ત્રણ વર્ષથી જોવા મળી રહ્યું છે કે આઈસીસી ટ્રોફી જીતાડનાર કેપ્ટન પાસેથી ટીમની કમાન છીનવાઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/despite-winning-the-icc-trophy-the-captain-lost-the-captaincy-suryakumar-yadav-was-included-in-rohit-sharma-list-480354 ",
-    "time": "2026-06-04T07:25:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયાને મોટો ઝટકો, વિરાટ કોહલી અફઘાનિસ્તાન સામેની ODI સિરીઝમાંથી બહાર, જાણો શું છે કારણ",
-    "desc": "ટીમ ઈન્ડિયાના પૂર્વ કેપ્ટન અને સ્ટાર બેટ્સમેન વિરાટ કોહલી અફઘાનિસ્તાન સામેની ત્રણ મેચની ODI શ્રેણીનો ભાગ નહીં હોય. કોહલીએ 2026 IPLમાં RCB માટે દરેક મેચ રમી હતી. ત્યારે અચાનક વિરાટ કોહલી ODI સિરીઝમાંથી કેમ બહાર થયો છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/big-blow-to-team-india-virat-kohli-ruled-out-afghanistan-series-due-to-injury-480343 ",
-    "time": "2026-06-04T06:05:39.000Z"
   },
   {
     "cat": "World",
@@ -639,24 +612,6 @@ const newsData_gu = [
     "time": "2026-06-01T06:18:49.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઈરાનમાં નેતૃત્વના ફાડિયા પડ્યા? રાષ્ટ્રપતિ મસૂદ પેજેશકિયન વિશે રિપોર્ટમાં મોટો દાવો, આખરે શું છે સત્ય",
-    "desc": "એક બાજુ જ્યાં અમેરિકા સાથે બધુ સમુસુથરું પડતું નથી ત્યાં હવે ઈરાનમાં નેતૃત્વમાં પણ ખટપટના સમાચાર સામે આવી રહ્યા છે. રિપોર્ટમાં દાવો કરાયો છે કે ઈરાનના રાષ્ટ્રપતિ મસૂદ પેજેશકિયને રાજીનામાની રજૂઆત કરી છે. આખરે શું છે આ મામલાનું સત્ય તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/big-claim-in-report-about-iran-president-masoud-pezeshkian-what-is-the-truth-479956 ",
-    "time": "2026-06-01T04:58:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રાજસ્થાન રોયલ્સનો એક ક્રિકેટર કરતો એવા મેસેજ કે બ્લોક કરવો પડ્યો..  તારક મેહતા ફેમ નેહલનો વધુ એક ધડાકો",
-    "desc": "થોડા સમય પહેલા જ લાલો ફિલ્મના એક્ટર કરણ જોશી દ્વારા આપત્તિજનક મેસેજ કર્યાનો ખુલાસો કરી ઈંટરનેટ પર છવાઈ ગયેલી એક્ટ્રેલ નેહલ વાડોલિયાએ વધુ એક ધડાકો કર્યો છે. આ વખતે તેણે રાજસ્થાન રોયલ્સ ટીમના એક ક્રિકેટરનું નામ લઈ ચોંકાવનારી વાત કરી છે. શું છે આ મામલો ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tmkoc-fame-actress-nehal-vadoliya-rajasthan-royals-team-divorcee-cricketer-messaged-her-479947 ",
-    "time": "2026-06-01T03:05:51.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "શું ગરમીમાં ઘટી જાય છે ઇલેક્ટ્રિક કારની માઇલેજ? 30 હજાર વાહનો પર થયો ટેસ્ટ, સામે આવ્યું ચોંકાવનારું સત્ય!",
     "desc": "ઇલેક્ટ્રિક કારોનો ઉપયોગ ઝડપથી વધી રહ્યો છે. પેટ્રોલ અને ડીઝલના વધતા ભાવ વચ્ચે લોકો EV (ઇલેક્ટ્રિક વ્હીકલ)ને એક સારો વિકલ્પ માની રહ્યા છે. ઉનાળામાં ઇલેક્ટ્રિક કારની રેન્જ કેટલી ઘટે છે? ત્યારે ચાલો જાણીએ 30 હજાર EV પર થયેલા ટેસ્ટમાં શું આવ્યું સામે?",
@@ -664,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/does-the-mileage-of-electric-cars-decrease-in-heat-tests-were-conducted-on-30-thousand-vehicles-shocking-truth-revealed-479901 ",
     "time": "2026-05-31T14:39:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સૌથી ડરામણી ફિલ્મો, આ 5 ફિલ્મો જોવામાં ભલભલાનો પરસેવો છૂટી જાય, એકલા હોવ ત્યારે ભૂલથી પણ ન જોતા",
-    "desc": "જો તમે હોરર થ્રિલર ફિલ્મો જોવાના શોખીન હોય અને તમને લાગતું હોય કે તમે ભયંકર હોરર ફિલ્મો જોઈ ચુક્યા છો તો તમે આ 5 ફિલ્મો પણ જોયેલી હશે. અને જો આ 5 ફિલ્મો નથી જોઈ તો જેટલી હિંમત હોય એટલી હિંમત એકઠી કરી આ ફિલ્મો જીયો હોટસ્ટાર પર જોવા બેસો. આ ફિલ્મોના ક્લાઈમેક્સ તમારા હોશ ઉડાવી દેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/5-most-scary-horror-movies-on-ott-in-hindi-jio-hotstar-5-must-watch-horror-thriller-movies-479876 ",
-    "time": "2026-05-31T10:27:53.000Z"
   },
   {
     "cat": "Tech",
