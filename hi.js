@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suryakumar Yadav's special gesture in T20 Mumbai League wins hearts after blistering knock",
+    "desc": "Suryakumar Yadav handed over his Player of the Match Award after scoring a blistering fifty during the T20 Mumbai League to fast bowler Sylvester Dsouza. SKY scored an unbeaten 72 from 36 balls to power...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadavs-special-gesture-in-t20-mumbai-league-wins-hearts-after-blistering-knock-2026-06-08-1044092",
+    "time": "2026-06-08T15:31:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Good selection headache' for India ahead of Women's T20 World Cup as Bharti stars in West Indies warm-up",
+    "desc": "The Indian women's team will have a 'good selection headache' heading into the Women's T20 World Cup 2026 as the likes of Bharti Fulmali, Shreyanka Patil, and Radha Yadav starred in the warm-up fixture against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/good-selection-headache-for-india-ahead-of-womens-t20-world-cup-as-bharti-stars-in-west-indies-warm-up-2026-06-08-1044091",
+    "time": "2026-06-08T14:55:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Timings for India vs England T20I matches changed by ECB; check all details",
+    "desc": "The England and Wales Cricket Board (ECB) has moved the timings for three of the five T20I matches during India's tour of England. The ECB has brought the timings one hour forward for the floodlit...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/timings-for-india-vs-england-t20i-matches-changed-by-ecb-check-all-details-2026-06-08-1044086",
+    "time": "2026-06-08T14:20:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First time in 1824 Test matches! Manav Suthar becomes first Indian to register huge record on stellar debut",
+    "desc": "Manav Suthar embarked on his India career with a stellar debut in Test cricket as he took a six-wicket haul during the one-off Test match against Afghanistan. Suthar displayed brilliant accuracy, guile and skills to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-1824-test-matches-manav-suthar-becomes-first-indian-to-register-huge-record-on-stellar-debut-2026-06-08-1044083",
+    "time": "2026-06-08T13:38:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Ravindra Jadeja's place in Test team under threat? Manav Suthar's stellar debut puts pressure on veteran",
+    "desc": "A left-arm spin-bowling all-rounder, darting the balls with insane precision, Manav Suthar hogged the limelight with his stellar Test debut during the one-off match between India and Afghanistan in Mullanpur. The Rajasthan all-rounder, Suthar, became...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-ravindra-jadejas-place-in-test-team-under-threat-manav-suthars-stellar-debut-puts-veteran-in-pressure-2026-06-08-1044073",
+    "time": "2026-06-08T12:01:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which Indian players have won Player of the Match award on Test debut? Manav Suthar joins elite list",
+    "desc": "Manav Suthar created history on his Test debut as he churned out a stellar performance for India during the one-off Test against Afghanistan in Mullanpur. The Rajasthan all-rounder, who has been impressive in the domestic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/which-indian-players-have-won-player-of-the-match-award-on-test-debut-manav-suthar-joins-elite-list-2026-06-08-1044067",
+    "time": "2026-06-08T11:03:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why didn't India get WTC points despite historic innings and 300-run win over Afghanistan in Mullanpur?",
     "desc": "India steamrolled Afghanistan in the one-off Test at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, with a historic innings and 300-run win as their spinners starred to bowl Afghanistan out for just 112 in...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/legendary-former-india-batter-sings-debutant-s-praises-after-exceptional-bowling-performance-against-afghanistan-2026-06-08-1044046",
     "time": "2026-06-08T08:54:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Didier Deschamps provides crucial fitness update on star defender ahead of FIFA World Cup 2026",
-    "desc": "The stage is set for the FIFA World Cup 2026, and a whopping 48 teams will take on each other in a bid to get their hands on the prestigious title. With the tournament all...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/didier-deschamps-provides-crucial-fitness-update-on-star-defender-ahead-of-fifa-world-cup-2026-2026-06-08-1044037",
-    "time": "2026-06-08T07:42:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who are the 10 Indian stars to take a fifer on Test debut as Manav Suthar joins elite list? Check details",
-    "desc": "The ongoing only Test between India and Afghanistan has set the eyes of many on debutant Manav Suthar. The two sides met for the clash in Mullanpur from June 6th. The game began with India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-are-the-10-indian-stars-to-take-a-fifer-on-test-debut-as-manav-suthar-joins-elite-list-check-details-2026-06-08-1044029",
-    "time": "2026-06-08T06:53:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manav Suthar's six-for helps India enforce follow-on against Afghanistan, visitors trail by 412 runs",
-    "desc": "The Indian team continued their dominant show against Afghanistan in the ongoing, only Test of the series. After declaring on a score of 568 runs in the first innings, the hosts limited Afghanistan to 152...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-s-six-for-helps-india-enforce-follow-on-against-afghanistan-visitors-trail-by-412-runs-2026-06-08-1044022",
-    "time": "2026-06-08T05:45:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer hails Manav Suthar after brilliant bowling showcase in only Test against Afghanistan",
-    "desc": "The Indian team has been brilliant in the ongoing only Test of the ongoing multi-format series against Afghanistan. The two sides met in Mullanpur from June 6th, and the clash began with India coming in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-manav-suthar-after-brilliant-bowling-showcase-in-only-test-against-afghanistan-2026-06-08-1044016",
-    "time": "2026-06-08T05:06:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia announce squad for Bangladesh ODIs, Josh Inglis to lead; Mitchell Marsh misses out",
-    "desc": "In a major development, CA (Cricket Australia) has come forward and announced its squad for the upcoming multi-format series against Bangladesh. The two sides will kick off the series with three ODI matches. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-announces-squad-for-bangladesh-odis-josh-inglis-to-lead-mitchell-marsh-misses-out-2026-06-08-1044006",
-    "time": "2026-06-08T03:50:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer reflects on Vaibhav Sooryavanshi's inclusion India's senior squad",
-    "desc": "The Indian team is all set to take on Ireland and England in a multi-format series. The side will kick off the tour with two T20Is against Ireland and will follow it up with five...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-vaibhav-sooryavanshi-s-inclusion-india-s-senior-squad-2026-06-08-1043998",
-    "time": "2026-06-08T02:32:32.000Z"
   }
 ];

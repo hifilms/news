@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "દેશની આ મોટી બેંકે ગ્રાહકોને આપ્યો ઝટકો, વધશે EMIનો બોજ? જાણો",
+    "desc": "દેશની આ દિગ્ગજ બેંકે ગ્રાહકોને ઝટકો આપ્યો છે, જેના કારણે સામાન્ય લોન લેનારા ગ્રાહકો પર તેની સીધી અસર થઈ શકે છે, RBIએ થોડા દિવસ પહેલા જ રેપો રેટ જે હતો તે યથાવત રાખ્યો છે, તેમાં કોઈ વધારો કે ઘટાડો કરવામાં આવ્યો નથી, ત્યારે બેંક દ્વારા આ વધારો લોકોને ડાયરેક્ટ અસર કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-big-bank-of-the-country-gave-a-shock-to-the-customers-will-the-burden-of-emi-increase-know-480850 ",
+    "time": "2026-06-08T14:58:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "મોબાઈલ ચાર્જ કરતા સમયે મોટા ભાગના લોકો કરે છે આ 5 મોટી ભૂલ, જેનાથી વધી શકે છે બેટરી બ્લાસ્ટ થવાનો ખતરો",
+    "desc": "મોબાઈલ ફોન બ્લાસ્ટ થવાના અનેક સમાચાર આવી ચુક્યા છે, પણ તમે ક્યારેય વિચાર્યું છે, કે મોબાઈલ ફોન ચાર્જ કરતા સમયે જ મોટા ભાગે કેમ બ્લાસ્ટ થાય છે, મોબાઈલ ફોન ચાર્જ કરતા સમયે મોટા ભાગે આપણે અમુક ભૂલો એવી કરી કરીએ છીએ, જેનાથી મોબાઈલને બેટરી ફૂલી જાય છે અને ફાટે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/most-people-make-these-5-big-mistakes-while-charging-their-mobile-phones-which-can-increase-the-risk-of-battery-explosion-480836 ",
+    "time": "2026-06-08T11:31:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMCમાં મચી ભાગદોડ! દિગ્ગજ નેતાનું રાજીનામું, અનેક સાંસદો ભાજપ નેતાના ઘરે સુવેન્દુ અધિકારીને મળ્યા",
+    "desc": "વિધાનસભા ચૂંટણીમાં મળેલી સજ્જડ હારમાંથી હજુ કળ વળી નથી ત્યાં તો મમતા બેનર્જીને ઉપરાછાપરી આઘાત ઝીલવાનો વારો આવ્યો છે. એક તો દિગ્ગજ નેતાએ આજે રાજીનામું આપ્યું ત્યાં વળી વિધાયકો બાદ હવે સાંસદો પણ હાથમાંથી સરી રહ્યા હોય તેવું જણાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/wb-politics-sukhendu-sekhar-ray-resigns-cm-cuvendu-adhikari-at-bhupender-yadav-home-480830 ",
+    "time": "2026-06-08T10:54:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારતીય રેલ્વે બદલશે 40 વર્ષ જૂની રિઝર્વેશન સિસ્ટમ, ઓગસ્ટથી થશે હાઇ-ટેક બુકિંગ, જાણો",
+    "desc": "ભારતીય રેલ્વે ઓગસ્ટથી શરૂ થતી તેની 40 વર્ષ જૂની રિઝર્વેશન સિસ્ટમમાં મોટા ફેરફારો કરવા માટે તૈયાર છે. લગભગ ચાર દાયકા જૂની પેસેન્જર રિઝર્વેશન સિસ્ટમ (PRS), જે 1986થી કાર્યરત છે, હવે ફક્ત યાદગીરી રહેશે નહીં. રેલ્વે તેને સંપૂર્ણપણે નવી, આધુનિક અને વીજળીથી ઝડપી રિઝર્વેશન સિસ્ટમથી બદલશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/indian-railways-will-change-40-year-old-reservation-system-high-tech-booking-will-be-done-from-august-know-480833 ",
+    "time": "2026-06-08T10:53:15.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "UAN એક્ટિવેશનના નિયમોમાં મોટા ફેરફાર, હવે આ રીતે થશે ઓથેન્ટિકેશન, જાણો સ્ટેપ બાય સ્ટેપ પ્રોસેસ",
     "desc": "કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO)એ UAN જનરેટ અને એક્ટિવ કરવાના નિયમોમાં ફેરફાર કર્યા છે. હવે, આ ઓથેન્ટિકેશનનો ઉપયોગ કરીને PF એકાઉન્ટ નંબર જનરેટ અને એક્ટિવ કરવામાં આવશે. લોકો UMANG એપ દ્વારા નંબર જનરેટ અને એક્ટિવ કરી શકે છે.",
@@ -7,15 +43,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/big-changes-in-uan-activation-rules-now-this-is-how-authentication-will-be-done-know-the-step-by-step-process-480831 ",
     "time": "2026-06-08T10:33:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMCમાં મચી ભાગદોડ! દિગ્ગજ નેતાના રાજીનામું, અનેક સાંસદો ભાજપ નેતાના ઘરે સુવેન્દુ અધિકારીને મળ્યા",
-    "desc": "વિધાનસભા ચૂંટણીમાં મળેલી સજ્જડ હારમાંથી હજુ કળ વળી નથી ત્યાં તો મમતા બેનર્જીને ઉપરાછાપરી આઘાત ઝીલવાનો વારો આવ્યો છે. એક તો દિગ્ગજ નેતાએ આજે રાજીનામું આપ્યું ત્યાં વળી વિધાયકો બાદ હવે સાંસદો પણ હાથમાંથી સરી રહ્યા હોય તેવું જણાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/wb-politics-sukhendu-sekhar-ray-resigns-cm-cuvendu-adhikari-at-bhupender-yadav-home-480830 ",
-    "time": "2026-06-08T10:32:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,15 +360,6 @@ const newsData_gu = [
     "time": "2026-06-06T02:40:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ઈરાન યુદ્ધ વચ્ચે આંદામાનમાં મળ્યો ગેસનો મહાભંડાર, ઓઈલ ઈન્ડિયાને મળી મોટી સફળતા; પેટ્રોલિયમ મંત્રીએ આપ્યા ગુડ ન્યૂઝ",
-    "desc": "આંદામાન ટાપુમાં ઊંડા પાણીમાં ભારતને ગેસનો વિશાળ ભંડાર મળ્યો છે. ભારતની નવરત્ન કંપની ઓઈલ ઈન્ડિયા લિમિટેડે (Oil India Limited) આ અંગે માહિતી આપી છે. પેટ્રોલિયમ મંત્રી હરદીપ સિંહ પુરીએ ગેસ ભંડાર વિશે વિગતવાર માહિતી શેર કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/amidst-the-iran-war-a-huge-gas-reserve-was-found-in-the-andamans-oil-india-got-a-big-success-petroleum-minister-gave-good-news-480541 ",
-    "time": "2026-06-05T17:47:36.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "33 કિમી માઈલેજ, સનરૂફ... કિંમત ₹6.26 લાખ! આ છે દેશની સૌથી વધુ વેચાતી કાર",
     "desc": "મે 2026માં ભારતીય કાર બજારે મજબૂત પ્રદર્શન કર્યું. મારુતિ સુઝુકીએ રેકોર્ડ વેચાણ નોંધાવ્યું, જેમાં કોમ્પેક્ટ સેડાન અને ક્રોસઓવર મોડેલોએ સૌથી વધુ માંગ અનુભવી. એકંદરે, મારુતિ સુઝુકીનું સ્થાનિક વેચાણ 1.93 લાખ યુનિટને વટાવી ગયું. જેમાં આ ગાડી ટોચનું સ્થાન ધરાવે છે.",
@@ -441,24 +459,6 @@ const newsData_gu = [
     "time": "2026-06-05T06:15:20.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સવાર સવારમાં ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળ્યો, શું પેટ્રોલ-ડીઝલના ઘટશે ભાવ? આજનો ભાવ જાણો",
-    "desc": "મિડલ ઈસ્ટમાં શાંતિ સ્થપાવવાની આશા વચ્ચે ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે. અમેરિકા અને ઈરાન વચ્ચે શાંતિ સમજૂતિ અંગે વાતચીત ચાલુ છે અને બીજી બાજુ ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલ થવાની આશાને પગલે ક્રૂડ પર અસર જોવા રહી છે. આજે ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-crude-oil-price-reduced-today-check-petrol-diesel-latest-price-in-ahmedabad-vadodara-surat-rajkot-480445 ",
-    "time": "2026-06-05T03:18:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મફત વીજળી સાથે કમાણીની તક! સરકારની આ સ્કીમ લાઈટ બિલમાંથી આપશે આઝાદી, જાણો",
-    "desc": "પીએમ સૂર્ય ઘર મફત વીજળી યોજનાથી દેશના 17 લાખથી વધુ પરિવારોના લાઈટ બિલ શૂન્ય થયા છે. આ સ્કીમ હેઠળ દર મહિને 300 યુનિટ ફ્રી વીજળી મળે છે. સાથે જ વધારાની વીજળી ગ્રીડને વેચીને ગ્રાહકો અત્યાર સુધીમાં 421 કરોડ રૂપિયાથી વધુની કમાણી કરી ચૂક્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/opportunity-to-earn-with-free-electricity-government-scheme-will-give-freedom-from-light-bills-know-480441 ",
-    "time": "2026-06-04T16:53:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "VARથી લઈને હાઇડ્રેશન બ્રેક સુધી... આ વખતે ફીફા વર્લ્ડ કપમાં શું છે નવું? મોટા બદલાવની ઇનસાઇડ સ્ટોરી",
     "desc": "ફીફા વર્લ્ડ કપ 2026માં 48 ટીમો, 104 મેચો અને ત્રણ યજમાન દેશો (અમેરિકા, કેનેડા, મેક્સિકો) સાથે ફૂટબોલ ઇતિહાસનો સૌથી મોટો અને અનોખો મહાકુંભ યોજાવા જઈ રહ્યો છે. આ વખતે ટૂર્નામેન્ટમાં ઘણી વસ્તુઓ નવી જોવા મળશે. ચાલો તેના વિશે અહીં વિગતવાર જાણીએ.",
@@ -522,15 +522,6 @@ const newsData_gu = [
     "time": "2026-06-04T08:52:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "સૂર્યાની કેપ્ટનશીપ પર સંકટ, ટીમ ઈન્ડિયાને મળશે નવો T20 કેપ્ટન ! આ ખેલાડી સંભાળી શકે છે ટીમની કમાન",
-    "desc": "T20 વર્લ્ડ કપ 2026 અને IPL 2026માં સૂર્યકુમાર યાદવના ખરાબ ફોર્મ બાદ ભારતીય T20 ટીમના કેપ્ટનશીપ અંગે ચર્ચાઓ તેજ બની છે. સૂત્રોના જણાવ્યા અનુસાર, શ્રેયસ ઐયર નવો કેપ્ટન બનવાની રેસમાં સૌથી આગળ છે, જ્યારે તિલક વર્મા અને ઇશાન કિશનને વાઈસ-કેપ્ટનશીપ માટે દાવેદાર માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-to-be-sacked-shreyas-iyer-may-be-team-india-next-t20-captain-480358 ",
-    "time": "2026-06-04T08:02:36.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પના મનમાં છે શું? પહેલા નેતન્યાહૂ સાથે ગાળાગાળી કરી અને હવે ખેલ્યો મોટો દાવ",
     "desc": "હાલમાં જ એવા અહેવાલ હતા કે ફોન પર વાતચીત દરમિયાન ડોનાલ્ડ ટ્રમ્પે ઈઝરાયેલી પીએમને આપત્તિજનક શબ્દોનો ઉપયોગ કરીને ખખડાવી નાખ્યા હતા. હવે ટ્રમ્પે વળી પાછા ચર્ચામાં છે અને આ વખતે એક એવું નિવેદન આપ્યું છે કે દુનિયા પણ આશ્ચર્યચકિત છે.",
@@ -585,15 +576,6 @@ const newsData_gu = [
     "time": "2026-06-02T06:21:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "પુતિનના 2 &amp;#039;સિક્રેટ બાળકો&amp;#039;! જેમની ઝલક આજ સુધી દુનિયાએ નથી જોઈ, જાણો ક્યાં અને કોણ રાખી રહ્યું છે સંભાળ?",
-    "desc": "રશિયાના રાષ્ટ્રપતિ સામાન્ય રીતે ખૂબ જ કડક સ્વભાવના માનવામાં આવે છે. તેમનાથી જોડાયેલી દરેક વસ્તુ ખૂબ જ સિક્રેટ રહે છે. હવે તેમની પર્સનલ લાઈઝને લઈને કેટલાક ખૂબ જ મોટા ખુલાસા થયા છે. એક ગુપ્ત રિપોર્ટમાં પુતિનના 2 બાળકો હોવાનો દાવો કરવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/putin-2-secret-children-the-world-has-not-seen-a-glimpse-of-them-till-date-know-where-and-who-is-taking-care-of-them-480040 ",
-    "time": "2026-06-01T16:28:53.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "નવો ફોન ક્યારે ખરીદવો? વર્ષના આ સમયે iPhone અને Samsung ફોન પણ હોય છે સૌથી સસ્તા",
     "desc": "જો તમે નવો સ્માર્ટફોન ખરીદવાનું વિચારી રહ્યા છો, તો યોગ્ય સમય પસંદ કરવો ખૂબ જ મહત્વપૂર્ણ છે, કારણ કે વર્ષના અમુક મહિનાઓમાં કિંમતોમાં નોંધપાત્ર ઘટાડો થાય છે. ભારતમાં, ઓક્ટોબર અને નવેમ્બર ફોન ખરીદવા માટે શ્રેષ્ઠ સમય માનવામાં આવે છે, ખાસ કરીને જ્યારે iPhone, Samsung ફોન અને અન્ય બ્રાન્ડ નોંધપાત્ર ડિસ્કાઉન્ટ આપે છે.",
@@ -619,14 +601,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/does-the-mileage-of-electric-cars-decrease-in-heat-tests-were-conducted-on-30-thousand-vehicles-shocking-truth-revealed-479901 ",
     "time": "2026-05-31T14:39:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "AC ને રિમોટથી બંધ કરાઈ કે સ્વિચથી? મોટાભાગના લોકો આ કરે છે આ ભૂલ",
-    "desc": "શું તમે પણ ACને સીધુ સ્વિચથી બંધ કરો છો? જો હા તો આ આદત તમારા એસીની લાઇફ અને વીજળી બિલ બંને પર અસર કરી શકે છે. જાણો એસીને રિમોટથી બંધ કરવું યોગ્ય છે કે સ્વિચથી, અને વીજળી બચાવવા માટે યોગ્ય શું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/should-you-turn-off-the-ac-with-the-remote-or-the-switch-most-people-make-this-big-mistake-479723 ",
-    "time": "2026-05-30T06:04:54.000Z"
   }
 ];
