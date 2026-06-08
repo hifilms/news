@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer reflects on Vaibhav Sooryavanshi's inclusion India's senior squad",
+    "desc": "The Indian team is all set to take on Ireland and England in a multi-format series. The side will kick off the tour with two T20Is against Ireland and will follow it up with five...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-vaibhav-sooryavanshi-s-inclusion-india-s-senior-squad-2026-06-08-1043998",
+    "time": "2026-06-08T02:32:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How much did the winners of the French Open 2026 earn after winning prestigious title? Check details",
+    "desc": "The French Open 2026 finally concluded after three weeks of gruelling contests between some of the best players in world tennis. While Russia’s Maria Andreeva won the women’s final against Maja Chwalinska. The men’s final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/how-much-did-the-winners-of-the-french-open-2026-earn-after-winning-prestigious-title-check-details-2026-06-08-1043996",
+    "time": "2026-06-08T01:46:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Christian Eriksen once again collapses holding his heart, referee calls off match",
     "desc": "Denmark international Christian Eriksen once again suffered a heart-related problem during the match against Ukraine at Nature Energy Park in Odense on Sunday evening. He marked the second instance in Eriksen’s career. Earlier, during the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-special-leads-india-after-gigantic-batting-effort-what-major-record-he-has-in-sights-now-2026-06-07-1043968",
     "time": "2026-06-07T13:35:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WTC 2025-27 updated points table after England register commanding win over New Zealand at Lord's",
-    "desc": "England handed New Zealand a drubbing in the first Test of the three-match series at the iconic Lord's as Gus Atkinson and Ollie Robinson starred with the ball in a 115-run victory. Making a return after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wtc-2025-27-updated-points-table-after-england-register-commanding-win-over-new-zealand-at-lords-2026-06-07-1043962",
-    "time": "2026-06-07T12:03:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rahmat Shah creates history, becomes first Afghanistan player to massive milestone",
-    "desc": "Afghanistan star batter Rahmat Shah etched his name into the history books as he completed his 1000 runs in the format during the one-off Test against India at the Maharaja Yadavindra Singh International Cricket Stadium,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-test-rahmat-shah-creates-history-becomes-first-afghanistan-player-to-massive-milestone-2026-06-07-1043956",
-    "time": "2026-06-07T11:01:39.000Z"
   }
 ];

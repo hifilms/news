@@ -5,7 +5,7 @@ const newsData_bn = [
     "desc": "জাতীয় পুরস্কারজয়ী জনপ্রিয় মালয়ালম অভিনেতা সেলিম কুমার ৫৬ বছর বয়সে প্রয়াত হয়েছেন। নিউমোনিয়ায় আক্রান্ত হয়ে কোচির একটি বেসরকারি হাসপাতালে চিকিৎসাধীন অবস্থায় তিনি শেষনিঃশ্বাস ত্যাগ করেন। ১৯৯৭ সালে মিমিক্রি শিল্পী হিসেবে ক্যারিয়ার শুরু করে পরবর্তীতে তিনি সিনেমার অন্যতম সেরা কমেডি ও গম্ভীর চরিত্রের অভিনেতা হয়ে ওঠেন।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/national-award-winning-malayalam-actor-salim-kumar-passes-away-at-56_657112.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/national-award-winning-malayalam-actor-salim-kumar-passes-away-at-56_657112.html ",
     "time": "2026-06-07T10:17:56.000Z"
   },
   {
@@ -41,16 +41,16 @@ const newsData_bn = [
     "desc": "বনগাঁকাণ্ডে এবার বড়সড় বিপাকে অভিনেত্রী মিমি চক্রবর্তী! অভিযোগকারী তনয় শাস্ত্রীর দাবি, আদালতের নির্দেশে মিমির বিরুদ্ধে চার্জশিট গঠন করা হয়েছে এবং আগামী ১০ দিনের মধ্যে তাঁকে সশরীরে হাজিরা দিতে হবে। তনয় শাস্ত্রীর হুঙ্কার, \"অন্যায় করেছেন, শেষ দেখে ছাড়ব!\" এই বিষয়ে কী পদক্ষেপ নিতে চলেছেন অভিনেত্রী?",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/mimi-chakraborty-chargesheet-filed-bongaon-court-tanay-shastri-case_657034.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/mimi-chakraborty-chargesheet-filed-bongaon-court-tanay-shastri-case_657034.html ",
     "time": "2026-06-06T15:29:29.000Z"
   },
   {
     "cat": "Entertainment",
-    "title": "ছোট ছবির হাত ধরেই সিনে-মায়ার স্বপ্নপূরণ: &#039;জি শর্ট ফিল্ম কনটেস্ট&#039;-এর সমাপ্তি মঞ্চে তারকার হাট, বিচারকের আসনে অনুরাগ থেকে সৃজিত",
+    "title": "ছোট ছবির হাত ধরেই সিনে-মায়ার স্বপ্নপূরণ: 'জি শর্ট ফিল্ম কনটেস্ট'-এর সমাপ্তি মঞ্চে তারকার হাট, বিচারকের আসনে অনুরাগ থেকে সৃজিত",
     "desc": "মুম্বইয়ের গ্র্যান্ড হায়াতে বসেছিল চাঁদের হাট। সফলভাবে সম্পন্ন হল প্রথম 'Zee Short Film Contest'-এর গ্র্যান্ড ফিনালে। অনুরাগ কাশ্যপ, সৃজিত মুখোপাধ্যায় থেকে শুরু করে লিজো জোসে পেলিসেরি— তরুণ পরিচালকদের পিঠ চাপড়াতে হাজির ছিলেন ইন্ডাস্ট্রির বিগ বসরা। ৫ লক্ষ টাকার পুরস্কারের পাশাপাশি মিলল 'জি স্টুডিওজ'-এর সাথে সিনেমা বানানোর সরাসরি টিকিট।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/zee-short-film-contest-grand-finale-mumbai-winners-anurag-kashyap-srijit-mukherji_656950.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/zee-short-film-contest-grand-finale-mumbai-winners-anurag-kashyap-srijit-mukherji_656950.html ",
     "time": "2026-06-06T13:33:07.000Z"
   },
   {
@@ -59,7 +59,7 @@ const newsData_bn = [
     "desc": "স্বরূপ বিশ্বাসের গ্রেফতারির পর তাঁর একাধিপত্য় নিয়ে মুখ খুলেছেন প্রাক্তন মন্ত্রী বাবুল সুপ্রিয়। তিনি জানান, স্বরূপের ভয়ে প্রযোজক অশোক ধানুকাকে লন্ডনে শ্যুটিং বন্ধ করতে হয়েছিল। এমনকি মন্ত্রী থাকাকালীন ভারতলক্ষ্মী স্টুডিওতে বাবুলের নিজের শ্যুটিংয়ের মাঝপথেও আলো নিভিয়ে দেওয়া হয়েছিল। টলিউডের এই অচলাবস্থা কাটাতে তিনি স্থানীয় কলাকুশলীদের নিয়ে কমিটি গঠনের প্রস্তাবও দেন।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/swarup-biswas-reign-of-terror-babul-supriyo-opens-up-about-he-incident_656941.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/swarup-biswas-reign-of-terror-babul-supriyo-opens-up-about-he-incident_656941.html ",
     "time": "2026-06-06T11:23:37.000Z"
   },
   {
@@ -104,7 +104,7 @@ const newsData_bn = [
     "desc": "আদালত চত্বরে তীব্র উত্তেজনা! জনরোষ থেকে বাঁচাতে নির্ধারিত সময়ের আগেই আলিপুর আদালতে পেশ করা হলো প্রভাবশালী মন্ত্রী অরূপ বিশ্বাসের ভাই স্বরূপ বিশ্বাসকে। সরকারি আইনজীবীর দাবি, \"প্রভাবশালী মন্ত্রীর ভাই, আরও অনেক টাকা লেনদেন হয়েছে।\" অন্যদিকে, বিজেপি লিগ্যাল সেলের আইনজীবীদের তুমুল বিক্ষোভ ও আদালত কক্ষের হৈচৈ-এর মাঝেই আগামী ১৮ জুন পর্যন্ত স্বরূপ বিশ্বাসকে পুলিশি হেফাজতে পাঠানোর নির্দেশ দিল আদালত।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/swarup-biswas-arrested-police-custody-till-june-18-alipore-court_656788.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/swarup-biswas-arrested-police-custody-till-june-18-alipore-court_656788.html ",
     "time": "2026-06-05T13:20:06.000Z"
   },
   {
@@ -131,7 +131,7 @@ const newsData_bn = [
     "desc": "স্টুডিয়োর স্পট বয়, লাইটম্যান থেকে শুরু করে বিভিন্ন সাধারণ টেকনিশিয়ানদের কাজের সুযোগ করে দেওয়ার নাম করে বা প্রভাব খাটিয়ে নিয়মিত টাকা তোলা হতো বলে অভিযোগ। অভিযোগকারিণীর দাবি এবং পুলিসের দায়ের করা মামলার ভিত্তিতে স্বরূপ বিশ্বাসের বিরুদ্ধে ঠিক কী কী অভিযোগ রয়েছেয?",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/demanding-money-direct-physical-propositions-what-exactly-are-the-allegations-against-swarup-biswas_656703.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/demanding-money-direct-physical-propositions-what-exactly-are-the-allegations-against-swarup-biswas_656703.html ",
     "time": "2026-06-04T18:12:06.000Z"
   },
   {
@@ -140,7 +140,7 @@ const newsData_bn = [
     "desc": "রণক্ষেত্র টলিপাড়া! নতুন সংগঠন ঘিরে ধুন্ধুমার টালিগঞ্জের টেকনিশিয়ান্স স্টুডিওতে। চলল ইট-ডিম বৃষ্টি, পরিস্থিতি সামলাতে নামল পুলিশ। এই নজিরবিহীন অশান্তির পর নন্দনে দাঁড়িয়ে বিস্ফোরক অভিনেতা রুদ্রনীল ঘোষ। আঙুল তুললেন 'বহিরাগত'দের দিকে। জানালেন, টলিপাড়ার এই অচলাবস্থা কাটাতে চূড়ান্ত সিদ্ধান্ত নেবেন খোদ মুখ্যমন্ত্রী শুভেন্দু অধিকারী।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/rudranil-ghosh-on-tollygunge-technician-studio-violence-cm-suvendu-adhikari-final-decision_656695.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/rudranil-ghosh-on-tollygunge-technician-studio-violence-cm-suvendu-adhikari-final-decision_656695.html ",
     "time": "2026-06-04T15:50:11.000Z"
   },
   {
@@ -176,7 +176,7 @@ const newsData_bn = [
     "desc": "টলিউডে স্বরূপ বিশ্বাসের ফেডারেশন জমানার অবসান! এবার সব দুর্নীতি ধুয়ে-মুছে সাফ করতে বড় ঘোষণা করলেন টালিগঞ্জের নতুন বিজেপি বিধায়ক পাপিয়া অধিকারী। টেকনিশিয়ান স্টুডিওতে বৈঠকের পর তিনি স্পষ্ট জানালেন, ফেডারেশনের ২৬টি গিল্ড ভেঙে তৈরি হচ্ছে নতুন কনফেডারেশন 'EIMPCC'। এবার থেকে সিনেমা পাড়ায় চলবে 'SIR' প্রক্রিয়া। যারা টাকা দিয়ে এখানে অযোগ্য হয়েও কাজ পেয়েছিলেন এবং যারা ক্ষমতার লোভে শিল্পীদের আত্মহত্যায় প্ররোচনা দিয়েছেন— তাঁদের নিজে থেকেই সরে যাওয়ার কড়া হুঁশিয়ারি দিলেন পাপিয়া।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/papiya-adhikari-tollywood-reformation-eimpcc-federation-regime-ends-sir-investigation_656514.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/papiya-adhikari-tollywood-reformation-eimpcc-federation-regime-ends-sir-investigation_656514.html ",
     "time": "2026-06-03T17:10:23.000Z"
   },
   {
@@ -185,7 +185,7 @@ const newsData_bn = [
     "desc": "আরজি কর নির্যাতিতার নাম প্রকাশ্য ভিডিওতে বলে ফেলার জের! এবার আইনি বিপাকে জড়িয়ে পড়লেন তৃণমূল সাংসদ ও অভিনেত্রী রচনা বন্দ্যোপাধ্যায়। চারু মার্কেট থানায় তাঁর বিরুদ্ধে লিখিত অভিযোগ দায়ের করলেন এক আইনজীবী। যদিও বিষয়টিকে ‘অনিচ্ছাকৃত ভুল’ বলে আইনি পথেই লড়াইয়ের বার্তা দিলেন রচনা।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/rachana-banerjee-rg-kar-victim-identity-police-complaint_656298.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/rachana-banerjee-rg-kar-victim-identity-police-complaint_656298.html ",
     "time": "2026-06-02T11:41:33.000Z"
   },
   {
@@ -198,12 +198,21 @@ const newsData_bn = [
     "time": "2026-06-02T11:34:06.000Z"
   },
   {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "বলিউডে তুলকালাম, কেন ডেভিড ধাওয়ানের বিরুদ্ধে ৪০০ কোটির মামলা ঠুকলেন বাসু ভাগনানি?",
     "desc": "পরিচালক ডেভিড ধাওয়ান এবং টিপস মিউজিকের বিরুদ্ধে ৪০০ কোটি টাকার মামলা করলেন প্রযোজক বাসু ভাগনানি। শর্ত না মানলে আরও ১০০ কোটির জরিমানা! বরুণ ধাওয়ানের আগামী ছবি 'হ্যায় জওয়ানি তো ইশক হোনা হ্যায়' কি তবে বড়সড় বিপাকে?",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/vashu-bhagnani-david-dhawan-tips-chunnari-chunnari-400-crore-lawsuit_655905.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/vashu-bhagnani-david-dhawan-tips-chunnari-chunnari-400-crore-lawsuit_655905.html ",
     "time": "2026-05-29T15:02:42.000Z"
   },
   {
@@ -212,7 +221,7 @@ const newsData_bn = [
     "desc": "চলে গেলেন পরিচালক অনীক দত্ত। কিন্তু মৃত্যুর পরেই কাটতে চলেছে তাঁর ছবির হল না পাওয়ার জট। শুক্রবার মন্ত্রী অগ্নিমিত্রা পাল ঘোষণা করলেন, নন্দনে দেখানো হবে প্রয়াত পরিচালকের সব ছবি। অন্যদিকে বিজেপি বিধায়ক রূপা গঙ্গোপাধ্যায়ের অভিযোগ, \"রাজনৈতিক প্রতিহিংসার শিকার অনীক।\"",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/anik-dutta-death-nandan-movie-screening-agnimitra-paul-controversy_655901.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/anik-dutta-death-nandan-movie-screening-agnimitra-paul-controversy_655901.html ",
     "time": "2026-05-29T13:31:56.000Z"
   },
   {
@@ -221,7 +230,7 @@ const newsData_bn = [
     "desc": "টলিউড অভিনেতা পরমব্রত চট্টোপাধ্যায়ের বিরুদ্ধে দায়ের হওয়া মামলার তদন্ত চলবে। ২০২১ সালের একটি সোশ্যাল মিডিয়া পোস্টের জেরে গড়িয়াহাট থানায় হওয়া এফআইআর খারিজের আবেদন নিয়ে আদালতের দ্বারস্থ হয়েছিলেন অভিনেতা। আদালত তদন্ত জারি রাখার নির্দেশ দিলেও পরমব্রতকে দিল চার সপ্তাহের বিশেষ 'রক্ষাকবচ'। এই সময়ের মধ্যে তাঁর বিরুদ্ধে কোনও কড়া পদক্ষেপ করতে পারবে না পুলিস।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": "https://zeenews.india.com/bengali/entertainment/actor-parambrata-chatterjee-investigation-to-continue-court-grants-four-weeks-protection_655859.html",
+    "url": " https://zeenews.india.com/bengali/entertainment/actor-parambrata-chatterjee-investigation-to-continue-court-grants-four-weeks-protection_655859.html ",
     "time": "2026-05-29T11:51:45.000Z"
   },
   {
@@ -250,5 +259,50 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/deadliest-coal-mine-explosion-china-coal-mine-blast-90-miners-killed-so-far_655182.html ",
     "time": "2026-05-24T09:36:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
