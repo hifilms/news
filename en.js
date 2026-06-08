@@ -1,6 +1,87 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "CM Omar Abdullah seeks INDIA bloc’s support for J&K Statehood restoration",
+    "desc": "“If Mr. Abdullah and Mehbooba Mufti [of the Peoples Democratic Party] succeed in persuading the INDIA bloc to issue a joint statement supporting the restoration of Jammu and Kashmir’s special constitutional status, Statehood and other political rights, it would be a significant step,” said Awami Ittehad Party leader and legislator Sheikh Khursheed.",
+    "img": "https://th-i.thgim.com/public/incoming/tao23x/article71078434.ece/alternates/LANDSCAPE_1200/20260608226L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/cm-omar-abdullah-seeks-india-blocs-support-for-jk-statehood-restoration/article71077483.ece",
+    "time": "2026-06-08T22:13:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'My marriage was not working out, my mother had cancer'",
+    "desc": "Arjun Rampal, who has been basking in the success of Dhurandhar franchise, has opened up about one of the most difficult periods of his life, revealing how the breakdown of his marriage with Mehr Jesia, the loss of loved ones, and personal struggles pushed him towards deep introspection and healing.",
+    "img": "https://static.toiimg.com/photo/msid-131597387,imgsize-61534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-rampal-recalls-darkest-phase-of-his-life-my-marriage-was-not-working-out-my-mother-had-cancer-gabriella-demetriades-became-his-anchor/articleshow/131597063.cms",
+    "time": "2026-06-08T22:05:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Bengal joins Ayushman Bharat scheme",
+    "desc": "“The portability feature of PM-JAY would be particularly beneficial for migrant workers from West Bengal and their families. Beneficiaries working or residing in other States would be able to access cashless treatment at nearby empanelled hospitals across the countr,’’ said Union Health Minister J.P. Nadda",
+    "img": "https://th-i.thgim.com/public/incoming/5yu530/article71078431.ece/alternates/LANDSCAPE_1200/MOS%20NADDA%20SUVENDU%20DELHI%202026_08_06_132.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-joinsayushman-bharat-scheme/article71077491.ece",
+    "time": "2026-06-08T22:01:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika and Ranveer SPOTTED at new home",
+    "desc": "Deepika Padukone and Ranveer Singh were spotted at their new Rs 100 crore residence, with a visibly pregnant Deepika cradling her baby bump. The couple appeared to be inspecting interior work on the lavish property. This rare public outing follows Deepika's second pregnancy announcement and their efforts to maintain privacy.",
+    "img": "https://static.toiimg.com/photo/msid-131597056,imgsize-92432.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-makes-rare-appearance-with-ranveer-singh-amid-don-3-drama-shows-off-her-growing-baby-bump/articleshow/131596844.cms",
+    "time": "2026-06-08T21:49:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "M.P. Congress mulls moving MLAs away as BJP fields candidate on third seat",
+    "desc": "The BJP’s move pushed the Congress into alert mode with Leader of Opposition in the Assembly Umang Singhar hosting party MLAs and senior leaders over dinner at his residence and to discuss the election strategy.",
+    "img": "https://th-i.thgim.com/public/incoming/rh3dfi/article71078428.ece/alternates/LANDSCAPE_1200/PTI06_08_2026_000329B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/rajya-sabha-polls-mp-congress-mulls-moving-mlas-away-as-bjp-fields-candidate-on-third-seat/article71077677.ece",
+    "time": "2026-06-08T21:45:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Monsoon enters South Konkan, State advises farmers to defer sowing",
+    "desc": "The Agriculture and Disaster Management Department has forecast rainfall in parts of Sindhudurg and Ratnagiri districts until June 9; in other regions of Maharashtra, the monsoon’s progress and rainfall intensity are expected to remain low over the next week.",
+    "img": "https://th-i.thgim.com/public/incoming/nfoboc/article71078315.ece/alternates/LANDSCAPE_1200/PTI06_07_2026_000501B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/monsoon-enters-south-konkan-state-advises-farmers-to-defer-sowing/article71077347.ece",
+    "time": "2026-06-08T21:29:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana Ranaut draws parallels with Ranveer Singh's criticism",
+    "desc": "Actor-politician Kangana Ranaut has compared the criticism faced by Ranveer Singh with the challenges she encountered during her own career, saying she has already gone through much harsher scrutiny, legal battles and media exclusion. The actress further claimed that she was sidelined by sections of the media. Elsewhere in the conversation, Kangana also opened up about managing her responsibilities as both an actor and a politician.",
+    "img": "https://static.toiimg.com/photo/msid-131596848,imgsize-42988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-draws-parallels-with-ranveer-singhs-criticism-they-put-cases-on-me-tried-to-put-me-in-jail-and-banned-by-the-media/articleshow/131596843.cms",
+    "time": "2026-06-08T21:17:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PDP leaders plough paddy fields to protest govt. takeover  of land from farmers in Pulwama",
+    "desc": "Shabir Ahmad, a farmer from Pulwama’s Padgampora, said small patches of 3-4 kanals of land were being utilised by locals to procure rice and feed for cattle; “If the government takes the land, it will have a severe impact on locals,” said Mr. Ahmad.",
+    "img": "https://th-i.thgim.com/public/news/4ei4i3/article71078313.ece/alternates/LANDSCAPE_1200/HKSC5QmbYAAlfyh.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/pdp-leaders-plough-paddy-fields-to-protest-govt-takeover-of-land-from-farmers-in-pulwama/article71077643.ece",
+    "time": "2026-06-08T21:09:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "President Murmu confers 7 Kirti Chakras; IAF pilot, Gaganyatri Prasanth Nair among recipients",
+    "desc": "Lt. Commander Dilna K. and Lt. Commander Roopa A. of the Navy are among the Shaurya Chakra recipients after completion of Navika Sagar Parikrama II; Sepoy Janjal Pravin Prabhakar of the Mahar Regiment of Rashtriya Rifles and Lt. Shashank Tiwari of the Sikkim Scouts have been conferred the Kirti Chakra posthumously",
+    "img": "https://th-i.thgim.com/public/incoming/pc738v/article71078309.ece/alternates/LANDSCAPE_1200/PTI06_08_2026_000590B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/president-murmu-confers-7-kirti-chakras-iaf-pilot-gaganyatri-prasanth-nair-among-recipients/article71078197.ece",
+    "time": "2026-06-08T20:41:37.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Toofan gains momentum as police intensify anti-drug operations in Ernakulam",
     "desc": "Within Kochi city limits, police recorded 129 cases and arrested 145 accused under the NDPS Act in the week since the operation began on June 1. In Perumbavoor, 11 migrant labourers were arrested for drug peddling and consumption during a day-and-night raid on Sunday",
     "img": "https://th-i.thgim.com/public/news/national/kerala/4vtkco/article71078017.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-08%20at%2021.00.32%201.jpeg",
@@ -234,15 +315,6 @@ const newsData_en = [
     "time": "2026-06-08T16:09:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karnataka High Court upholds law allowing BWSSB to lay sewer through private properties without acquisition of land",
-    "desc": "Pointing out that the provisions of the Act requires the BWSSB to cause as little damage as possible and mandates full compensation for damage caused, the court says that ‘the statutory scheme, therefore, does not contemplate unrestricted occupation or appropriation of land...’",
-    "img": "https://th-i.thgim.com/public/incoming/6sun4o/article71077960.ece/alternates/LANDSCAPE_1200/DJI_0474.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-upholds-law-allowing-bwssb-to-lay-sewer-through-private-properties-without-acquisition-of-land/article71077519.ece",
-    "time": "2026-06-08T16:08:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Farah recalls ditching SRK's performance to meet Michael Jackson",
     "desc": "Filmmaker and choreographer Farah Khan has never hidden her admiration for the late King of Pop, Michael Jackson. But when she finally came face-to-face with her idol, even the usually outspoken filmmaker found herself at a loss for words. Farah revealed that she was taken to Michael Jackson's room moments before meeting him and vividly remembers the atmosphere.",
@@ -432,24 +504,6 @@ const newsData_en = [
     "time": "2026-06-08T12:50:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Varun on how his proposal to Natasha went hilariously wrong",
-    "desc": "Varun Dhawan has revealed that his proposal to wife Natasha Dalal in Alibaug went completely off track. The actor had planned to propose as she came out of the pool, but ended up messing it up multiple times. He said, \"It was a bad proposal. I had to play the song three times in a row!\".",
-    "img": "https://static.toiimg.com/photo/msid-131588354,imgsize-39578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-opens-up-on-how-his-proposal-to-natasha-dalal-went-hilariously-wrong-i-had-to-play-the-song-three-times/articleshow/131588354.cms",
-    "time": "2026-06-08T12:34:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Imran Khan's reaction to the idea of his daughter dating someone like him",
-    "desc": "Imran Khan, known for his romantic roles, revealed his daughter Amara profoundly influences his life choices. He shared that the thought of her dating someone like him motivates him to be his best self, highlighting how fatherhood has sharpened his self-awareness and personal growth. Khan is now actively rebuilding his acting career.",
-    "img": "https://static.toiimg.com/photo/msid-131588216,imgsize-79610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khans-reaction-to-the-idea-of-his-daughter-dating-someone-like-him-i-guess-that-is-what-informs-a-great-number-of-my-life-choices/articleshow/131588198.cms",
-    "time": "2026-06-08T12:31:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee falls 56 paise to close at 95.74 against U.S. dollar",
     "desc": "Forex traders said the USD/INR pair erased the previous trading session’s gains on risk aversion in global markets. Further, a sharp jump in crude oil prices and a rise in the U.S. dollar index dented investor sentiment",
@@ -475,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-iran-halts-military-op-against-israel-20-tmc-mps-seek-recognition-as-nda-allies-more/articleshow/131587631.cms",
     "time": "2026-06-08T12:12:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 'Titans' characters: Meet the heroes and the antiheros",
-    "desc": "The live-action 'Titans' series explores the human struggles and evolving identities of its superhero characters, from Dick Grayson's leadership to Starfire's defiance and Raven's internal battles. The show delves into complex journeys, showcasing how these heroes, including Beast Boy, Superboy, Wonder Girl, and the formidable Deathstroke, shape their universe through their powers and deeply human feelings.",
-    "img": "https://static.toiimg.com/photo/msid-131587679,imgsize-56890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/top-titans-characters-meet-the-heroes-and-the-antiheros-from-starfire-to-deathstroke/articleshow/131587667.cms",
-    "time": "2026-06-08T12:08:07.000Z"
   },
   {
     "cat": "Sports",
@@ -612,15 +657,6 @@ const newsData_en = [
     "time": "2026-06-08T09:22:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'It's called 'idli', not 'id-slice': Shashi Tharoor dishes out another culinary lesson",
-    "desc": "Congress leader Shashi Tharoor amused netizens with his witty responses to culinary debates on social media. He humorously critiqued an 'idli pizza' cutting style, attributing it to software engineering logic. Previously, Tharoor also defended the South Indian idli against a comparison to rasgulla, highlighting its unique preparation and culinary significance.",
-    "img": "https://static.toiimg.com/photo/msid-131583362,imgsize-77282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/its-called-idli-not-id-slice-shashi-tharoor-dishes-out-another-culinary-lesson/articleshow/131582858.cms",
-    "time": "2026-06-08T08:59:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'You don't need a turning track': Gavaskar decodes Suthar's six-wicket haul",
     "desc": "Debutant Manav Suthar starred as India bowled out Afghanistan for 152 and enforced the follow-on in the lone Test. The left-arm spinner claimed 6 for 33, recording the second-best figures by an Indian on Test debut. Sunil Gavaskar praised Suthar’s accuracy, control and skill, saying his success came from precision and smart bowling rather than pitch assistance.",
@@ -637,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaya-bachchan-reacts-to-objectification-of-women-onscreen-amid-janhvi-kapoors-peddi-row-nobody-dared-to-/articleshow/131583086.cms",
     "time": "2026-06-08T08:40:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Exit the country': India issues advisory as Israel-Iran strikes reignite fears of wider conflict",
-    "desc": "​Israel and Iran exchanged fire on Monday as their conflict entered its 100th day, placing an already fragile ceasefire under severe strain and increasing fears of a wider regional confrontation. Adding to concerns over maritime security, the Iran-backed Houthis announced a ban on Israeli shipping through the Red Sea, one of the world's most important trade and shipping routes.",
-    "img": "https://static.toiimg.com/photo/msid-131582769,imgsize-43730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/exit-the-country-india-issues-advisory-as-israel-iran-strikes-reignite-fears-of-wider-conflict/articleshow/131582784.cms",
-    "time": "2026-06-08T08:21:53.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/praggnanandhaa-speaks-on-norway-chess-title/article71068822.ece",
     "time": "2026-06-06T11:37:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How are organisations reckoning their AI addiction",
-    "desc": "Agentic AI tools are becoming an infrastructure cost that scales with every autonomous decision an agent makes. And organisations that do not implement usage controls, token budgets, and honest ROI benchmarks are not adopting AI, but are funding it",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/c8bina/article71059520.ece/alternates/LANDSCAPE_1200/5ca9e2fa-b2e9-499e-8653-d3ed8a906832.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/how-are-organisations-reckoning-their-ai-addiction/article71059523.ece",
-    "time": "2026-06-06T08:50:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain thrash England 4-0, Germany qualify for Women's World Cup finals",
-    "desc": "England's ⁠hopes of securing a spot with a ⁠win in Mallorca were quickly snuffed out, with Patri Guijarro giving the Spaniards the lead in the 19th minute and Alexia Putellas making it ​2-0 before the break.",
-    "img": "https://th-i.thgim.com/public/incoming/fggiix/article71067346.ece/alternates/LANDSCAPE_1200/2026-06-05T201656Z_74240911_UP1EM651KC6YT_RTRMADP_3_SOCCER-WORLDCUP-ESP-ENG.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/spain-thrash-england-4-0-germany-qualify-for-womens-world-cup-finals/article71067345.ece",
-    "time": "2026-06-05T21:22:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mirra Andreeva's new calm meets surprise package Maja Chwalinska in French Open final",
-    "desc": "Facing the unheralded Lois Boisson for a spot in the French Open semifinals, the Russian teenager lost her temper, losing in straight sets after receiving a warning for angrily hitting a ball into the stands.",
-    "img": "https://th-i.thgim.com/public/incoming/qdncxu/article71067306.ece/alternates/LANDSCAPE_1200/APTOPIX_French_Open_Tennis_43545.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/mirra-andreevas-new-calm-meets-surprise-package-maja-chwalinska-in-french-open-final/article71067303.ece",
-    "time": "2026-06-05T19:41:45.000Z"
   }
 ];
