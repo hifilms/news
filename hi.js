@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Christian Eriksen releases first public statement after on-field collapse during Ukraine friendly",
+    "desc": "Danish footballer Christian Eriksen has released his first public statement after his on-field collapse during an international friendly against Ukraine in Odense on Sunday, June 7. Eriksen went down on the pitch in the 65th...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/christian-eriksen-releases-first-public-statement-after-on-field-collapse-during-ukraine-friendly-2026-06-08-1044103",
+    "time": "2026-06-08T18:10:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes, Gus Atkinson under investigation by ECB for undisclosed nightclub incident",
+    "desc": "England Test captain Ben Stokes and fast-bowler Gus Atkinson are under investigation for an undisclosed \"incident\" at a nightclub after England's victory over New Zealand in the first of the three Tests at Lord's, ESPN...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-gus-atkinson-under-investigation-by-ecb-for-undisclosed-nightclub-incident-2026-06-08-1044101",
+    "time": "2026-06-08T17:20:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India coach gives big fitness update on Rohit Sharma, Hardik Pandya for Afghanistan ODI series",
+    "desc": "India batting coach Sitanshu Kotak spoke on Rohit Sharma and Hardik Pandya's injuries and their availability for the upcoming ODI series against Afghanistan that kicks off on June 13. Rohit has been nursing a hamstring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-gives-big-fitness-update-on-rohit-sharma-hardik-pandya-for-afghanistan-odi-series-2026-06-08-1044098",
+    "time": "2026-06-08T17:03:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav's special gesture in T20 Mumbai League wins hearts after blistering knock",
     "desc": "Suryakumar Yadav handed over his Player of the Match Award after scoring a blistering fifty during the T20 Mumbai League to fast bowler Sylvester Dsouza. SKY scored an unbeaten 72 from 36 balls to power...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-didnt-india-get-wtc-points-despite-historic-innings-and-300-run-win-over-afghanistan-in-mullanpur-2026-06-08-1044060",
     "time": "2026-06-08T10:25:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India storm Afghanistan out of Mullanpur, register massive innings and 300-run victory in only Test",
-    "desc": "The Indian team registered a brilliant performance against Afghanistan in the only Test of the ongoing multi-format series. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, from June 6,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-storm-afghanistan-out-of-mullanpur-register-massive-innings-and-300-run-victory-in-only-test-2026-06-08-1044050",
-    "time": "2026-06-08T09:39:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What can be expected of Vaibhav Sooryavanshi with maiden India call-up? Former skipper opines",
-    "desc": "The BCCI (Board of Control for Cricket in India) revealed the Indian team’s squad for the upcoming T20I series against Ireland and England. The Men in Blue will take on Ireland across two T20Is and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-can-be-expected-of-vaibhav-sooryavanshi-with-maiden-india-call-up-former-skipper-opines-2026-06-08-1044049",
-    "time": "2026-06-08T09:31:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Legendary former India batter sings debutant's praises after exceptional bowling performance against AFG",
-    "desc": "The only Test of the ongoing multi-format series between India and Afghanistan has belonged to debutant Manav Suthar. The two sides met in Mullanpur for the clash from June 6th, and the Indian team posted...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/legendary-former-india-batter-sings-debutant-s-praises-after-exceptional-bowling-performance-against-afghanistan-2026-06-08-1044046",
-    "time": "2026-06-08T08:54:31.000Z"
   }
 ];

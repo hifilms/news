@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "કેન્દ્રના કર્મચારીઓને સસ્તા દરે સરકાર આપશે આ લોન, જાણો ડિટેલ અને વ્યાજદર",
+    "desc": "આ યોજના અંગે 8મું પગાર પંચ નિર્ણય લેશે, જેની સીધી અસર કેન્દ્રીય કર્મચારીઓ પર પડશે. કર્મચારીઓને સસ્તા દરે લોન મળતા તેમના સપનાના ઘરની ઈચ્છા પુરી થશે જ્યારે સમારકામ માટે પણ સરકાર સસ્તા દરે લોન આપશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/the-government-will-provide-this-loan-to-central-employees-at-cheap-rates-know-the-details-and-interest-rate-480860 ",
+    "time": "2026-06-08T16:26:26.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "દેશની આ મોટી બેંકે ગ્રાહકોને આપ્યો ઝટકો, વધશે EMIનો બોજ? જાણો",
     "desc": "દેશની આ દિગ્ગજ બેંકે ગ્રાહકોને ઝટકો આપ્યો છે, જેના કારણે સામાન્ય લોન લેનારા ગ્રાહકો પર તેની સીધી અસર થઈ શકે છે, RBIએ થોડા દિવસ પહેલા જ રેપો રેટ જે હતો તે યથાવત રાખ્યો છે, તેમાં કોઈ વધારો કે ઘટાડો કરવામાં આવ્યો નથી, ત્યારે બેંક દ્વારા આ વધારો લોકોને ડાયરેક્ટ અસર કરી શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -439,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/vladimir-putin-remark-about-pressure-on-india-what-donald-trump-speaks-about-pm-modi-480477 ",
     "time": "2026-06-05T09:35:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "એક ઝટકે સોનાના ભાવમાં મોટો ઘટાડો ચાંદી પણ ધડામ થઈ, જાણો 10 ગ્રામ સોનાનો આજનો ભાવ",
-    "desc": "સોના અને ચાંદીમાં આજે જોરદાર કડાકો જોવા મળ્યો છે. રિટેલ બજાર અને વાયદા બજાર બંનેમાં ભાવ ગગડ્યા છે. સવારે ઈન્ટરનેશનલ માર્કેટમાં પણ સોનું જબરદસ્ત તૂટેલું જોવા મળ્યું હતું. જાણો ભાવ હાલ ગગડીને કેટલે પહોંચી ગયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/huge-drop-in-gold-and-silver-price-mcx-ibja-rates-aaj-no-10-gram-sona-no-bhav-480469 ",
-    "time": "2026-06-05T07:00:00.000Z"
   },
   {
     "cat": "Entertainment",
