@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ben Stokes to retire from international cricket? Reports make major claim after nightclub incident",
+    "desc": "England Test captain Ben Stokes might well drop the retirement bombshell after the latest nightclub incident, which has sent him and fast-bowler Gus Atkinson into major trouble. Stokes and Atkinson have courted controversy after they...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-to-retire-from-international-cricket-reports-make-major-claim-after-nightclub-incident-2026-06-09-1044225",
+    "time": "2026-06-09T14:22:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Only for second time in 36 years, Bangladesh defeat Australia in ODIs after stunning them in Mirpur",
+    "desc": "Bangladesh produced an epic performance to stun the reigning ODI World champions, Australia, in the first ODI of the three-match series at the Shere Bangla National Stadium, Dhaka, on Tuesday, June 9. The Bangladeshi side...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/only-for-second-time-in-36-years-bangladesh-defeat-australia-in-odis-after-stunning-them-in-mirpur-2026-06-09-1044220",
+    "time": "2026-06-09T14:07:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India A escape major scare from Sri Lanka A in tri-nation A series after Arshad Khan rescues team",
+    "desc": "India A managed to survive a major scare against Sri Lanka A in their tri-nation A series opener after Arshad Khan came to the rescue late in the defence of 277 at the Rangiri Dambulla...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-a-escape-major-scare-from-sri-lanka-a-in-tri-nation-a-series-after-arshad-khan-rescues-team-2026-06-09-1044211",
+    "time": "2026-06-09T12:50:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can India win their first-ever Women's T20 World Cup? Australia conqueror opines",
+    "desc": "Indian women achieved their much-awaited glory when they bagged the ODI World Cup 2025 at home in November, ending their long wait for a first senior ICC title. The victory was a watershed moment in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/can-india-win-their-first-ever-womens-t20-world-cup-australia-conqueror-opines-2026-06-09-1044204",
+    "time": "2026-06-09T12:10:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What is the nightclub incident involving Ben Stokes and Atkinson which could lead to captain's resignation?",
     "desc": "Ben Stokes and Gus Atkinson find themselves in choppy waters after another nightclub incident marred the England and Wales Cricket Board and put Stokes' Test captaincy in doubt. Just seven months after Harry Brook was...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-cleared-to-play-in-upcoming-odi-series-against-afghanistan-amid-fitness-concerns-2026-06-09-1044158",
     "time": "2026-06-09T07:13:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manav Suthar opens up after MOTM performance in only Test win against Afghanistan",
-    "desc": "Team India dominated Afghanistan in the one-off Test of the ongoing multi-format series. The two sides met in Mullanpur from June 6, and India managed to register a win by an innings and 300 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-opens-up-after-motm-performance-in-only-test-win-against-afghanistan-2026-06-09-1044155",
-    "time": "2026-06-09T06:44:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi departs cheaply as Sri Lanka A strike early in 1st one-day clash",
-    "desc": "India A kicked off their tri-series against Sri Lanka A and Afghanistan by taking on the hosts, Sri Lanka A. The two sides met at the Rangiri Dambulla International Stadium in Dambulla on June 9th....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-departs-cheaply-as-sri-lanka-a-strike-early-in-1st-one-day-clash-2026-06-09-1044142",
-    "time": "2026-06-09T05:38:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India A post 277 runs in first innings",
-    "desc": "The stage is set for the beginning of the tri-series between India A, Sri Lanka A, and Afghanistan A. The three sides will lock horns across several one-day matches before the two sides gather in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-sri-lanka-a-live-cricket-score-eyes-set-on-vaibhav-sooryavanshi-as-india-a-kick-off-tri-series-2026-06-09-1044132",
-    "time": "2026-06-09T04:10:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on Rishabh Pant's mindset after one-off Test win over AFG",
-    "desc": "The Indian team put in an exceptional performance against Afghanistan in the only Test of the ongoing multi-format series. The two sides met in Mullanpur from June 6, and Team India managed to register a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-rishabh-pant-s-mindset-after-one-off-test-win-over-afg-2026-06-09-1044129",
-    "time": "2026-06-09T03:56:44.000Z"
   }
 ];

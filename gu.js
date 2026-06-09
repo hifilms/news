@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ક્રીઝ બહાર હતો બેટ્સમેન છતાં Not Out, ભારતીય ટીમ સાથે થયો અન્યાય ? જાણો શું છે સમગ્ર ઘટના",
+    "desc": "દામ્બુલામાં ભારત A અને શ્રીલંકા A વચ્ચેની ત્રિકોણીય શ્રેણીની મેચમાં ચમિકા કરુણારત્નેના રન આઉટને લઈને હોબાળો મચી ગયો હતો. 42મી ઓવરમાં પોઈન્ટ પર એક ફિલ્ડરે ડાયરેક્ટ થ્રો કર્યો. બેટ્સમેન તેની ક્રીઝની બહાર હતો, છતાં થર્ડ અમ્પાયરે તેને નોટ આઉટ જાહેર કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-a-vs-sri-lanka-a-chamika-karunaratne-run-out-controversy-third-umpire-480980 ",
+    "time": "2026-06-09T14:20:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "9 બોલમાં 9 રન ના કરવા દીધા... 49મી ઓવરમાં 3 વિકેટ ઝડપી ભારતીય યુવા ટીમે શ્રીલંકાને હરાવ્યું",
+    "desc": "તિલક વર્માની આગેવાની હેઠળની ભારત A ટીમે દામ્બુલામાં પોતાની છાપ છોડી છે. ભારત A ટીમે શ્રીલંકા Aના હાથમાંથી જીત છીનવી લીધી હતી અને છેલ્લા 9 બોલમાં 9 રન પણ કરવા દીધા નહોતા અને મેચ જીતી લીધી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-a-vs-sri-lanka-a-tri-series-2026-tilak-varma-team-magical-victory-480971 ",
+    "time": "2026-06-09T13:16:56.000Z"
+  },
+  {
     "cat": "Tech",
-    "title": "₹8 ની SUV એ રચ્યો ઈતિહાસ, બનાવી દીધો વેચાણનો નવો રેકોર્ડ, જાણો ફીચર્સ અને ખાસિયત",
+    "title": "₹8 લાખની SUV એ રચ્યો ઈતિહાસ, બનાવી દીધો વેચાણનો નવો રેકોર્ડ, જાણો ફીચર્સ અને ખાસિયત",
     "desc": "હ્યુન્ડાઈ વેન્યુએ વેચાણના મામલામાં ભારતમાં ઈતિહાસ રચી દીધો છે. વેન્યુએ દેશમાં 8 લાખના વેચાણનો આંકડો પાર કરી લીધો છે. 8 લાખ રૂપિયાથી શરૂ થનાર આ એસયુવીનો મુકાબલો મારૂતિ બ્રેઝા, ટાટા નેક્સોન અને કિઆ સોનેટ જેવી ગાડીઓ સાથે થાય છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/hyundai-venue-creates-history-crosses-8-lakh-unit-sales-mark-480959 ",
-    "time": "2026-06-09T11:25:45.000Z"
+    "time": "2026-06-09T12:04:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સપ્ટેમ્બરમાં લોન્ચ થશે 3 નવા iPhone, પણ લિસ્ટમાં નથી iPhone 18નું નામ!",
+    "desc": "આ વર્ષે સપ્ટેમ્બર 2026માં યોજાનારી ઇવેન્ટમાં એપલ ત્રણ નવા આઇફોન મોડેલ લોન્ચ કરે તેવી અપેક્ષા છે, પરંતુ આઇફોન 18 આ યાદીમાં નથી. આ વર્ષે, કંપનીનું ધ્યાન પ્રો મોડેલ અને એપલના પહેલા ફોલ્ડેબલ આઇફોન પર રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/3-new-iphones-to-be-launched-in-september-but-iphone-18-name-is-not-on-the-list-480962 ",
+    "time": "2026-06-09T12:02:16.000Z"
   },
   {
     "cat": "Sports",
@@ -387,15 +414,6 @@ const newsData_gu = [
     "time": "2026-06-06T12:53:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ઘરમાં આગ લાગવાનું સૌથી મોટું કારણ હોય છે આ વસ્તુઓ, તાત્કાલિક કરો ચેક",
-    "desc": "ફ્લોરિશ સ્ટે નામની દિલ્હીની હોટેલમાં આગ લાગવાથી ઓછામાં ઓછા 21 લોકોના મોત થયા છે. તો ચાલો જાણીએ કે ઘરમાં આગ લાગવા માટે કઈ વસ્તુઓ જવાબદાર છે અને ઘરમાં આગ ન લાગે તે માટે કઈ સાવચેતી રાખવી જોઈએ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/these-things-are-the-biggest-cause-of-fire-in-the-house-check-them-immediately-480610 ",
-    "time": "2026-06-06T12:09:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "પેદ્દી ફિલ્મમાં જાનવી કપૂરના સીનનો વિવાદ શું છે જાણી લો, ફિલ્મ ડારેક્ટરે ભુલ માટે માંગવી પડી માફી",
     "desc": "રામ ચરણની સ્પોર્ટ ડ્રામા ફિલ્મ પેદ્દી રિલીઝ થઈ તેના ત્રીજા જ દિવસે ફિલ્મના ડાયરેક્ટર બુચી બાબુ સનાએ માફી માંગવી પડી છે. આ માફી તેણે જાનવી કપૂરના પાત્રને ખોટી રીતે દર્શાવવા માટે માંગી છે. પેદ્દી ફિલ્મનો વિવાદ શું છે ચાલો તમને જણાવીએ.",
@@ -502,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-2-divorce-reason-aamir-khan-both-marriage-stay-for-16-years-480501 ",
     "time": "2026-06-05T12:42:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પંત પાસેથી કેમ છીનવાઈ વાઈસ કેપ્ટનશીપ? ઋષભની આ આદતથી કોચ ગંભીર નારાજ? મીડિયા સામે મોટો ખુલાસો",
-    "desc": "ભારત અને અફઘાનિસ્તાન વચ્ચેની ટેસ્ટ મેચ પહેલા ટીમ ઈન્ડિયાના હેડ કોચ ગૌતમ ગંભીરે એક પ્રેસ કોન્ફરન્સ કરી. આ પ્રેસ કોન્ફરન્સમાં ગૌતમ ગંભીરે ટીમ ઈન્ડિયા વિશે ખુલ્લીને વાત કરી, જેમાં ઋષભ પંતના વાઈસ કેપ્ટનશીપથી લઈને વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપ સુધીના વિષયો પર ચર્ચા કરવામાં આવી હતી, સાથે જ ટીમને ચોક્કસ સંદેશા પણ આપ્યા હતા. ગંભીરની ટિપ્પણી હવે ચર્ચાનો વિષય બની ગઈ છે. ચાલો જાણીએ આખરે હેડ કોચ ગૌતમ ગંભીર ઋષભ પંતની કઈ આદતથી નારાજ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-was-the-vice-captaincy-taken-away-from-pant-coach-gambhir-is-very-upset-with-this-habit-of-rishabh-big-revelation-to-the-media-480496 ",
-    "time": "2026-06-05T10:56:52.000Z"
   },
   {
     "cat": "World",

@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "\"মাথা কেটে যাবে, তবু ঝুঁকবে না!\", মমতার ৪০ বছরের সঙ্গ ছেড়ে চরম বিদ্রোহী কাকলি",
+    "desc": "২০২৬-এর বিধানসভা নির্বাচনে পরাজয়ের পর একগুচ্ছ ইস্তফা, দলবদল এবং প্রকাশ্যে বিদ্রোহের জেরে তৃণমূলের অন্দরে যে সংকট তৈরি হয়েছে, কাকলি দেবীর এই বয়ান তা আরও বাড়িয়ে দিল। দীর্ঘ ৪০ বছর মমতা বন্দ্যোপাধ্যায়ের ছায়াসঙ্গী থাকার পর, তাঁর এই চরম বিদ্রোহী অবস্থান তৃণমূলের অন্দরের ফাটলকেই স্পষ্ট করে দিচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/sar-katega-lekin-jhukega-nahi-tmc-rebel-mp-kakoli-ghosh-dastidar-opens-up-on-leaving-mamata-after-40-years_657483.html ",
+    "time": "2026-06-09T13:08:58.000Z"
+  },
+  {
     "cat": "World",
     "title": "বিশ্বমঞ্চে পাকিস্তানকে 'ছিঁড়ে খেল' ভারত,'ফিতনা আল হিন্দুস্তান' অপ্রচারকে কড়া জবাব- পাক ভণ্ডামির পর্দাফাঁস",
     "desc": "পাকিস্তান নিজের মাটিতে লালিত-পালিত জঙ্গি গোষ্ঠীগুলোকে 'ফিতনা আল হিন্দুস্তান' নাম দিয়ে তার দায় ভারতের উপর চাপানোর চেষ্টা করেছিল। বিশ্বমঞ্চে পাকিস্তানের সেই নোংরা খেলা, ভণ্ডামির পর্দাফাঁস করে দেন রাষ্ট্রসংঘে নিযুক্ত ভারতের স্থায়ী প্রতিনিধি রাষ্ট্রদূত পার্বথানেনি হরিশ।",
@@ -88,15 +97,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/israeli-attack-in-lebanon-kill-12-people-lebanons-commander-general-rudolf-haykal-heading-to-talk-with-asim-munir_657094.html ",
     "time": "2026-06-07T06:31:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কাজ করতে পারছিলেন না! ক্ষোভ উগড়ে বিজয় শিবিরে ৩০০-র বেশি AIADMK নেতা",
-    "desc": "এআইএডিএমকে দলের অন্দরে দীর্ঘদিনের পুঞ্জীভূত ক্ষোভ এবার প্রকাশ্যে চলে এল। দলের শীর্ষ নেতৃত্বের ওপর একপ্রকার আস্থা হারিয়ে ৩০০ জনেরও বেশি হেভিওয়েট এআইএডিএমকে নেতা ও কর্মী আনুষ্ঠানিকভাবে TVK-এ যোগ দিয়েছেন। জনপ্রিয় অভিনেতা তথা মুখ্যমন্ত্রী জোসেফ বিজয়ের সরকারের হাত শক্ত করতেই এই মেগা দলবদল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tamil-nadu-shock-300-aiadmk-leaders-join-tvk-back-vijays-government_657038.html ",
-    "time": "2026-06-06T15:56:42.000Z"
   },
   {
     "cat": "Entertainment",
