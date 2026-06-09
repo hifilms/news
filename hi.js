@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Women's T20 World Cup 2026: India in group of death as Australia, South Africa breath down neck",
+    "desc": "The Women's T20 World Cup 2026 sits on the horizon as the 12 teams are gearing up to put their best foot forward in the 24-day-long global showpiece in England that kicks off on June...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/womens-t20-world-cup-2026-india-in-group-of-death-as-australia-south-africa-breath-down-neck-2026-06-09-1044238",
+    "time": "2026-06-09T17:08:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC gives verdict on Lord's and Gaddafi Stadium pitches, slaps demerit points after biased conditions",
+    "desc": "The International Cricket Council (ICC) has rated the Lord's and Gaddafi Stadium pitches as \"unsatisfactory\" following the recent results at the two venues. The Lord's was the centre of the England vs New Zealand first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-gives-verdict-on-lords-and-gaddafi-stadium-pitches-slaps-demerit-points-after-biased-conditions-2026-06-09-1044231",
+    "time": "2026-06-09T15:11:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ben Stokes to retire from international cricket? Reports make major claim after nightclub incident",
     "desc": "England Test captain Ben Stokes might well drop the retirement bombshell after the latest nightclub incident, which has sent him and fast-bowler Gus Atkinson into major trouble. Stokes and Atkinson have courted controversy after they...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-declared-fully-fit-ahead-of-afghanistan-odis-set-to-feature-for-series-opener-in-dharamsala-2026-06-09-1044163",
     "time": "2026-06-09T08:06:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ruturaj Gaikwad smashes magnificent century, steadies India A's ship against Sri Lanka A",
-    "desc": "Ruturaj Gaikwad dominated Sri Lanka A in the 1st one-day game of the ongoing tri-series between India A, Sri Lanka A, and Afghanistan A. The first game of the series saw India A taking on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-smashes-magnificent-century-steadies-india-a-s-ship-against-sri-lanka-a-2026-06-09-1044162",
-    "time": "2026-06-09T07:50:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya cleared to play in upcoming ODI series against Afghanistan amid fitness concerns",
-    "desc": "The Indian team has received a major boost as star all-rounder Hardik Pandya has been cleared to play for the Men in Blue in their upcoming series against Afghanistan. The two sides are slated to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-cleared-to-play-in-upcoming-odi-series-against-afghanistan-amid-fitness-concerns-2026-06-09-1044158",
-    "time": "2026-06-09T07:13:40.000Z"
   }
 ];

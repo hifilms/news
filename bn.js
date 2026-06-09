@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "আগুনে ফুটছে পাক-অধিকৃত কাশ্মীর! বইছে রক্তগঙ্গা, মৃত্যুমিছিল, বন্ধ ইন্টারনেট ও মোবাইল",
+    "desc": "জোটটিকে নিষিদ্ধের ঘটনায় রাওলাকোটে বিক্ষোভ শুরু হয়। বিক্ষোভ দমনে নিরাপত্তা বাহিনীর বল প্রয়োগ করলে সংঘর্ষ বেধে যায়। এতে নিরাপত্তা বাহিনীর গুলি চালালে এক ব্যবসায়ী প্রাণ হারান। ব্যবসায়ীর মৃত্যুর ঘটনাকে কেন্দ্র করে উত্তেজনা ছড়িয়ে পড়লে গত রবিবার রাওয়ালকোট শহরে তীব্র সংঘর্ষের ঘটনা ঘটে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/pok-protest-30-killed-200-injured-as-pakistani-army-fires-on-civilians-rawalakot-kotli-muzaffarabad-turn-hotbed_657508.html ",
+    "time": "2026-06-09T15:30:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "\"মাথা কেটে যাবে, তবু ঝুঁকবে না!\", মমতার ৪০ বছরের সঙ্গ ছেড়ে চরম বিদ্রোহী কাকলি",
     "desc": "২০২৬-এর বিধানসভা নির্বাচনে পরাজয়ের পর একগুচ্ছ ইস্তফা, দলবদল এবং প্রকাশ্যে বিদ্রোহের জেরে তৃণমূলের অন্দরে যে সংকট তৈরি হয়েছে, কাকলি দেবীর এই বয়ান তা আরও বাড়িয়ে দিল। দীর্ঘ ৪০ বছর মমতা বন্দ্যোপাধ্যায়ের ছায়াসঙ্গী থাকার পর, তাঁর এই চরম বিদ্রোহী অবস্থান তৃণমূলের অন্দরের ফাটলকেই স্পষ্ট করে দিচ্ছে।",
@@ -241,15 +250,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/anik-dutta-death-nandan-movie-screening-agnimitra-paul-controversy_655901.html ",
     "time": "2026-05-29T13:31:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "খারিজ পরমব্রতর আবেদন, চলবে তদন্ত: বড় নির্দেশ আদালতের",
-    "desc": "টলিউড অভিনেতা পরমব্রত চট্টোপাধ্যায়ের বিরুদ্ধে দায়ের হওয়া মামলার তদন্ত চলবে। ২০২১ সালের একটি সোশ্যাল মিডিয়া পোস্টের জেরে গড়িয়াহাট থানায় হওয়া এফআইআর খারিজের আবেদন নিয়ে আদালতের দ্বারস্থ হয়েছিলেন অভিনেতা। আদালত তদন্ত জারি রাখার নির্দেশ দিলেও পরমব্রতকে দিল চার সপ্তাহের বিশেষ 'রক্ষাকবচ'। এই সময়ের মধ্যে তাঁর বিরুদ্ধে কোনও কড়া পদক্ষেপ করতে পারবে না পুলিস।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/actor-parambrata-chatterjee-investigation-to-continue-court-grants-four-weeks-protection_655859.html ",
-    "time": "2026-05-29T11:51:45.000Z"
   },
   {
     "cat": "World",

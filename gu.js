@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "PM કિસાનના 23મા હપ્તા અંગે મોટી અપડેટ ! 18 જૂને જમા થશે ₹2,000 ? જાણો શું છે હકીકત",
+    "desc": "કેન્દ્ર સરકારે હજુ સુધી પ્રધાનમંત્રી કિસાન સન્માન નિધિ યોજનાના 23મા હપ્તા અંગે કોઈ સત્તાવાર જાહેરાત કરી નથી. તેમ છતાં 18 જૂનની તારીખ અંગે અટકળો શરૂ થઈ છે. ત્યારે એ જાણી લઈએ કે શું આ દિવસે ₹2,000ની રકમ ખરેખર ખાતામાં જમા થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-kisan-23rd-installment-released-date-check-latest-update-480984 ",
+    "time": "2026-06-09T15:59:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચમાં મોટા બદલાવની તૈયારી! OROP અને 5% ઇન્ક્રીમેન્ટ પર આવ્યું આ નવું અપડેટ",
+    "desc": "8મા પગાર પંચની રચના પહેલા રેલવે સિનિયર સિટીઝન્સ વેલ્ફેર સોસાયટી (RSCWS)એ સરકાર સમક્ષ કેટલીક મહત્વપૂર્ણ માંગણીઓ રજૂ કરી છે. આ સંગઠને સિવિલિયન પેન્શનરો માટે 'વન રેન્ક વન પેન્શન' (OROP), લઘુત્તમ વેતન અને પેન્શનમાં વધારો તેમજ વાર્ષિક ઇન્ક્રીમેન્ટ 5% કરવાની માંગ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/preparations-for-big-changes-in-the-8th-pay-commission-this-new-update-on-orop-and-5-percent-increment-has-come-480983 ",
+    "time": "2026-06-09T15:47:50.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ક્રીઝ બહાર હતો બેટ્સમેન છતાં Not Out, ભારતીય ટીમ સાથે થયો અન્યાય ? જાણો શું છે સમગ્ર ઘટના",
     "desc": "દામ્બુલામાં ભારત A અને શ્રીલંકા A વચ્ચેની ત્રિકોણીય શ્રેણીની મેચમાં ચમિકા કરુણારત્નેના રન આઉટને લઈને હોબાળો મચી ગયો હતો. 42મી ઓવરમાં પોઈન્ટ પર એક ફિલ્ડરે ડાયરેક્ટ થ્રો કર્યો. બેટ્સમેન તેની ક્રીઝની બહાર હતો, છતાં થર્ડ અમ્પાયરે તેને નોટ આઉટ જાહેર કર્યો હતો.",
@@ -394,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/will-you-get-an-insurance-claim-if-your-car-is-damaged-due-to-a-storm-or-falling-tree-know-what-the-rules-say-480632 ",
     "time": "2026-06-06T15:42:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ કંપનીના IPO પર તૂટી પડ્યા રોકાણકારો! 300 ગણાથી વધારે થયો સબસ્ક્રાઇબ, GMPમાં જોરદાર વધારો",
-    "desc": "આ કંપનીના SME આઈપીઓ પર રોકાણકારોએ ભારે રોકાણ કર્યું છે, અને હાલ રોકાણકારો લિસ્ટિંગ પર ભારે નફાની આશા રાખીને બેઠા છે, આઈપીઓ હાલમાં 62 રૂપિયાના પ્રિમિયમ પર ચાલી રહ્યો છે. જેને જોતા રોકાણકારો ખુશ જોવા મળ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/investors-invest-heavily-in-this-company-ipo-subscribed-more-than-300-times-huge-increase-in-gmp-480627 ",
-    "time": "2026-06-06T13:36:08.000Z"
   },
   {
     "cat": "Entertainment",
