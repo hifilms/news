@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND A vs Sri Lanka A, 1st match: When and where to watch the India A Tri-Series on TV and stream online?",
+    "desc": "The stage is set for the upcoming tri-series between India A, Sri Lanka A, and Afghanistan A. The two sides will lock horns across seven matches in total in the series, including the final. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-sri-lanka-a-1st-match-when-and-where-to-watch-the-india-a-tri-series-on-tv-and-stream-online-2026-06-09-1044119",
+    "time": "2026-06-09T02:32:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies announce squad for upcoming T20I series against Sri Lanka, Shai Hope to lead",
+    "desc": "The West Indies are all set to kick off their T20I series against Sri Lanka. The two sides took on each other across three ODIs, two of which were abandoned without a ball being played....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-announce-squad-for-upcoming-t20i-series-against-sri-lanka-shai-hope-to-lead-2026-06-09-1044112",
+    "time": "2026-06-09T01:39:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Christian Eriksen releases first public statement after on-field collapse during Ukraine friendly",
     "desc": "Danish footballer Christian Eriksen has released his first public statement after his on-field collapse during an international friendly against Ukraine in Odense on Sunday, June 7. Eriksen went down on the pitch in the 65th...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/is-ravindra-jadejas-place-in-test-team-under-threat-manav-suthars-stellar-debut-puts-veteran-in-pressure-2026-06-08-1044073",
     "time": "2026-06-08T12:01:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which Indian players have won Player of the Match award on Test debut? Manav Suthar joins elite list",
-    "desc": "Manav Suthar created history on his Test debut as he churned out a stellar performance for India during the one-off Test against Afghanistan in Mullanpur. The Rajasthan all-rounder, who has been impressive in the domestic...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-indian-players-have-won-player-of-the-match-award-on-test-debut-manav-suthar-joins-elite-list-2026-06-08-1044067",
-    "time": "2026-06-08T11:03:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why didn't India get WTC points despite historic innings and 300-run win over Afghanistan in Mullanpur?",
-    "desc": "India steamrolled Afghanistan in the one-off Test at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, with a historic innings and 300-run win as their spinners starred to bowl Afghanistan out for just 112 in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-didnt-india-get-wtc-points-despite-historic-innings-and-300-run-win-over-afghanistan-in-mullanpur-2026-06-08-1044060",
-    "time": "2026-06-08T10:25:28.000Z"
   }
 ];
