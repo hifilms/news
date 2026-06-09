@@ -1,12 +1,138 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "India pushes for dialogue on climate finance, adaptation at Bonn climate talks",
+    "desc": "At the 64th session of the UNFCCC Subsidiary Bodies (SB64), India associated itself with the positions taken on behalf of the Group of 77 and China (G-77), the Like-Minded Developing Countries (LMDC) and the BASIC bloc (Brazil, South Africa, India, China)",
+    "img": "https://th-i.thgim.com/public/incoming/bsplp7/article71081641.ece/alternates/LANDSCAPE_1200/IMG_International_replen_2_1_CRBRBCT7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-pushes-for-dialogue-on-climate-finance-adaptation-at-bonn-climate-talks/article71081144.ece",
+    "time": "2026-06-09T19:46:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran FM says foreign forces face ‘constant risk’ of being caught in crossfire",
+    "desc": "“To reduce risk, best solution is for them to leave,” Abbas Araghchi added, after U.S. President Donald Trump vowed a response following accusations that Iran shot down an Apache helicopter over the Strait of Hormuz a day earlier.",
+    "img": "https://th-i.thgim.com/public/incoming/hfik89/article71082396.ece/alternates/LANDSCAPE_1200/PTI05_15_2026_000155B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-fm-says-foreign-forces-face-constant-risk-of-being-caught-in-crossfire/article71082391.ece",
+    "time": "2026-06-09T19:43:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vijay keeps his promise, launches Tamil Nadu’s  Singappen Special Force",
+    "desc": "Crimes against women and children are owing to the spread of narcotic substances. This problem did not emerge suddenly in May 2026. It has existed for many years. It has spread because it was ignored for long, says the Chief Minister",
+    "img": "https://th-i.thgim.com/public/incoming/k4xq70/article71081673.ece/alternates/LANDSCAPE_1200/DSC_5722.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/vijaykeeps-his-promise-launchestamil-nadus-singappenspecial-force/article71081567.ece",
+    "time": "2026-06-09T19:34:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Power cuts leave Chennai residents fuming; protests erupt across city",
+    "desc": "At around 2.30 a.m., nearly 100 residents laid siege to the EB office in Arumbakkam, demanding immediate restoration of power; similar protests were witnessed in Washermenpet, Tiruvottiyur, Ambattur, Madhavaram, Manali, Avadi, Poonamallee, Thirunindravur, Medavakkam, and Velachery",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/y6sgw7/article71079759.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-09%20at%2012.45.32.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/power-outages-leave-chennai-residents-fuming-protests-erupt-across-city-june-8-2026/article71079661.ece",
+    "time": "2026-06-09T18:56:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The King’s coronation",
+    "desc": "Over the last few years, PBKS skipper Shreyas not just knocked on the door but banged it; he deservedly enjoyed a double delight when he returned to India’s T20I set-up not only as player but also as captain",
+    "img": "https://th-i.thgim.com/public/incoming/j4eksu/article71082340.ece/alternates/LANDSCAPE_1200/20250301231L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/the-kings-coronation/article71082343.ece",
+    "time": "2026-06-09T18:56:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP councillor arrested",
+    "desc": "He had been evading arrest for over a month after being named an accused in a case registered in connection with a clash that took place during a festival at the Vellaikkadavu temple in Vattiyurkavu",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/bjp-councillor-arrested/article71082331.ece",
+    "time": "2026-06-09T18:47:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yashaswini pens emotional note for late father Ramakant Daayama",
+    "desc": "Actor and digital creator Yashaswini Dayama has shared an emotional note following the demise of her father, veteran actor Ramakant Daayama, who passed away on May 26, 2026, at the age of 69 after a prolonged illness. Sharing a family photograph, the actress admitted that she had been struggling to find the words to publicly address her father's passing.",
+    "img": "https://static.toiimg.com/photo/msid-131619121,imgsize-74802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yashaswini-dayama-pens-emotional-note-for-father-ramakant-daayama-after-his-demise-thank-you-for-recognising-this-rockstar/articleshow/131618783.cms",
+    "time": "2026-06-09T18:44:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Resettlement census to begin to make way for Great Nicobar project",
+    "desc": "The notice called for all families affected by the trunk Infrastructure part of the Great Nicobar Island mega-infrastructure project to keep about 24 different types of documents ready that may be required by the census team",
+    "img": "https://th-i.thgim.com/public/news/pfxp2x/article71082332.ece/alternates/LANDSCAPE_1200/AFP__20260326__A4TV6F4__v1__HighRes__IndiaLifestyle.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/resettlement-census-to-begin-to-make-way-for-great-nicobar-project/article71082145.ece",
+    "time": "2026-06-09T18:44:28.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Modi expected to meet Trump on the sidelines of the G7 summit in France",
+    "desc": "The PM’s visit to France will take place in two segments, with the first segment stretching from June 13 to June 14, and the second taking place from June 16 to June 19; he will hold a meeting with Mr. Macron on June 14",
+    "img": "https://th-i.thgim.com/public/incoming/lbzrt8/article71082320.ece/alternates/LANDSCAPE_1200/TH28-Suhasini-CGLBFPD3A7.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/modi-expected-to-meet-trump-on-the-sidelines-of-the-g7-summit-in-france/article71082075.ece",
+    "time": "2026-06-09T18:18:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s ship certifier says it will not take-in any Iran, Russia-linked vessels",
+    "desc": "India's ship safety certifier, IRClass, will no longer certify vessels owned by Iranian or Russian entities due to Western sanctions. The organization has de-classed 235 ships since 2023 and removed 13 million gross tons of sanctioned tonnage. However, IRClass acknowledges limited control over cargo movements after certification.",
+    "img": "https://static.toiimg.com/photo/msid-131617531,imgsize-329623.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/crackdown-on-sanction-tankers-indias-ship-certifier-says-it-will-not-take-in-any-iran-russia-linked-vessels-report/articleshow/131616727.cms",
+    "time": "2026-06-09T17:51:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jacqueline moves SC against charges in Rs 200 crore money laundering case",
+    "desc": "Jacqueline Fernandez has approached the Supreme Court challenging a Delhi trial court order directing that charges be framed against her in the Rs 200 crore money laundering case linked to alleged conman Sukesh Chandrashekhar. The Supreme Court on Tuesday agreed to hear her plea, with the matter scheduled to come up on June 11.",
+    "img": "https://static.toiimg.com/photo/msid-131617064,imgsize-86870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jacqueline-fernandez-moves-supreme-court-against-charges-in-rs-200-crore-money-laundering-case-linked-to-sukesh-chandrashekhar-hearing-on-june-11/articleshow/131617009.cms",
+    "time": "2026-06-09T17:39:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu Assembly Speaker  J.C.D.  Prabhakar’s decision marks a throwback to the experience of 11 AIADMK MLAs in 2017-18",
+    "desc": "The MLAs who faced the prospect of disqualification in 2017 were spared the proceedings in view of the then Speaker, P. Dhanapal, not going after them. The matter went to the Madras High Court that dismissed a plea for action against the legislators",
+    "img": "https://th-i.thgim.com/public/incoming/jsf1n6/article71082234.ece/alternates/LANDSCAPE_1200/DSC_2775.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-speaker-jcd-prabhakarsdecision-marks-a-throwback-to-the-experience-of-11aiadmkmlas-in-2017-18/article71081799.ece",
+    "time": "2026-06-09T17:23:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet reshuffle soon? BJP's organisational rejig, Rajya Sabha nominations hint at changes",
+    "desc": "Speculation is mounting over a Union Cabinet reshuffle following recent changes in BJP's state units and Rajya Sabha ticket allocations. Prime Minister Modi may soon induct a new team, with some current ministers potentially moving to party roles. This comes as the BJP prepares for upcoming assembly elections, particularly in Punjab.",
+    "img": "https://static.toiimg.com/photo/msid-131616658,imgsize-58308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cabinet-reshuffle-soon-bjps-organisational-rejig-rajya-sabha-nominations-hint-at-changes/articleshow/131616558.cms",
+    "time": "2026-06-09T17:20:05.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Foreign leaders congratulate Modi on becoming longest-serving elected PM of India",
     "desc": "A PMO statement says leaders of Sri Lanka, Papua New Guinea, and Trinidad and Tobago hailed the PM’s ‘transformative governance, his advocacy for the Global South, and his vision of an inclusive and economically dynamic India’",
     "img": "https://th-i.thgim.com/public/incoming/8qi6he/article71082241.ece/alternates/LANDSCAPE_1200/PTI06_06_2026_000190B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/foreign-leaders-congratulate-modi-on-becoming-longest-serving-elected-pm-of-india/article71081824.ece",
     "time": "2026-06-09T17:15:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s G7 role indispensable, Rafale deal to align with Make in India: French envoy Mathou",
+    "desc": "French Ambassador Thierry Mathou emphasizes India's indispensable role in the G7, highlighting its participation in discussions on economic imbalances and global governance reform. He also suggests India's involvement in a defensive mission for the Strait of Hormuz would send a powerful signal.",
+    "img": "https://static.toiimg.com/photo/msid-131616476,imgsize-722964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indias-g7-role-indispensable-rafale-deal-to-align-with-make-in-india-french-envoy-mathou/articleshow/131616479.cms",
+    "time": "2026-06-09T17:13:41.000Z"
   },
   {
     "cat": "Business",
@@ -43,15 +169,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/14-kuki-civilians-held-hostage-by-naga-groups-released/article71081780.ece",
     "time": "2026-06-09T16:51:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vijay keeps his promise, launches Tamil Nadu’s  Singappen Special Force",
-    "desc": "Crimes against women and children are owing to the spread of narcotic substances. This problem did not emerge suddenly in May 2026. It has existed for many years. It has spread because it was ignored for long, says the Chief Minister",
-    "img": "https://th-i.thgim.com/public/incoming/k4xq70/article71081673.ece/alternates/LANDSCAPE_1200/DSC_5722.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/vijaykeeps-his-promise-launchestamil-nadus-singappenspecial-force/article71081567.ece",
-    "time": "2026-06-09T16:51:27.000Z"
   },
   {
     "cat": "Politics",
@@ -115,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bonn-climate-meet-india-raises-concerns-over-declining-levels-of-climate-finance-cop31/articleshow/131614926.cms",
     "time": "2026-06-09T15:55:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM playing up Z+ security and bungalow row to divert attention from real issues: Tejashwi Yadav",
-    "desc": "The RJD leader says withdrawal of Z+ security for Lalu Prasad and Rabri Devi and the notice to Devi to vacate the bungalow at 10, Circular Road, Patna, are not the real issues. Picking up from Nishant Kumar’s election affidavit, RJD says he is not an engineer as popularly believed.",
-    "img": "https://th-i.thgim.com/public/incoming/60kl63/article71081900.ece/alternates/LANDSCAPE_1200/20260609096L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/cm-playing-up-z-security-and-bungalow-row-to-divert-attention-from-real-issues-tejashwi-yadav/article71081041.ece",
-    "time": "2026-06-09T15:39:20.000Z"
   },
   {
     "cat": "Business",
@@ -333,15 +441,6 @@ const newsData_en = [
     "time": "2026-06-09T13:29:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi speaks with Kuwait emir, reviews West Asia security situation",
-    "desc": "Prime Minister Modi held a crucial call with the Emir of Kuwait, addressing the escalating West Asian security situation. India voiced deep concern over rising tensions, emphasizing de-escalation and diplomacy. The discussion also covered the welfare of the large Indian community in Kuwait, with PM Modi thanking the Emir for his attention to their safety and well-being.",
-    "img": "https://static.toiimg.com/photo/msid-131611907,imgsize-107966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-with-kuwait-emir-reviews-west-asia-security-situation/articleshow/131611867.cms",
-    "time": "2026-06-09T13:22:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How the Iran war is reshaping India's economic outlook",
     "desc": "India's economic outlook is darkening due to rising oil prices, fertilizer costs, and supply disruptions from the Iran conflict. Economists warn of escalating inflation, slower growth, and strained government finances. The nation, heavily reliant on oil imports, faces significant economic challenges as global energy prices surge, impacting its balance of payments and fiscal health.",
@@ -414,15 +513,6 @@ const newsData_en = [
     "time": "2026-06-09T12:36:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NEET paper leak accused Yash Yadav seeks interim bail to appear for re-exam",
-    "desc": "A Delhi court is considering an interim bail plea for NEET-UG paper leak accused Yash Yadav, who seeks to attend the re-examination. The court has allowed him study materials and will hear the CBI's response on June 12. The investigation has revealed a network distributing leaked papers for profit across multiple states.",
-    "img": "https://static.toiimg.com/photo/msid-131611259,imgsize-60654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-paper-leak-accused-yash-yadav-seeks-interim-bail-to-appear-for-re-exam/articleshow/131611134.cms",
-    "time": "2026-06-09T12:35:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Love quote of the day by Taylor Swift",
     "desc": "Taylor Swift's new song for 'Toy Story 5' and her rumored wedding to Travis Kelce are making headlines. Swift described Kelce's bold approach to dating her as a dream come true, reminiscent of an '80s movie. Their relationship timeline highlights key moments, from his initial admiration to their engagement.",
@@ -441,15 +531,6 @@ const newsData_en = [
     "time": "2026-06-09T12:15:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "11 killed as protests rock PoK; CID at Mamata Banerjee's residence in signature forgery probe &amp; more",
-    "desc": "Deadly protests in Pakistan-occupied Kashmir have drawn international concern over communication restrictions and arrests. Meanwhile, CID investigators are probing alleged signature forgery at Mamata Banerjee's residence, while Delhi Police reveal a planned murder of a DU professor.",
-    "img": "https://static.toiimg.com/photo/msid-131610762,imgsize-730676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-11-killed-as-protests-rock-pok-cid-at-mamata-banerjees-residence-in-signature-forgery-probe-more/articleshow/131610748.cms",
-    "time": "2026-06-09T12:13:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'GDP momentum intact, no need for extra borrowing': Centre plays down impact of Middle East crisis",
     "desc": "Despite global economic headwinds from the Middle East crisis, India's government remains optimistic about growth, citing strong domestic consumption and intact GDP momentum. Officials confirm no immediate need for extra borrowing, with fiscal targets holding firm. Disinvestment plans are progressing, and further FDI measures are anticipated.",
@@ -457,33 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gdp-momentum-intact-no-need-for-extra-borrowing-centre-plays-down-impact-of-middle-east-crisis/articleshow/131610553.cms",
     "time": "2026-06-09T12:04:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Saathiya' actor Sandhya Mridul calls out salon bias",
-    "desc": "Actor Sandhya Mridul expressed anger after a young domestic worker was denied haircuts at two salons, highlighting systemic discrimination. Her mother had to plead for the service, underscoring the need for dignity and respect for all. Mridul emphasized this reflects a broader societal mindset, not just isolated incidents, sparking a debate on domestic help treatment.",
-    "img": "https://static.toiimg.com/photo/msid-131610485,imgsize-39558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saathiya-actress-sandhya-mridul-calls-out-salon-discrimination-after-domestic-help-denied-haircut-its-the-mindset/articleshow/131610485.cms",
-    "time": "2026-06-09T12:01:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay, Vidya, Raashii to shoot romantic song in Dehradun",
-    "desc": "Akshay Kumar, Vidya Balan, and Raashii Khanna are actively filming a romantic track for their upcoming Anees Bazmee directorial. After shooting in Kerala and Mumbai, the team is heading to Dehradun in July to complete the song. This musical sequence explores the love story between Kumar and Balan's married characters and Kumar's past connection with Khanna's role.",
-    "img": "https://static.toiimg.com/photo/msid-131610379,imgsize-123612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-vidya-balan-and-raashii-khanna-to-shoot-romantic-track-in-dehradun-for-untitled-anees-bazmee-film/articleshow/131610379.cms",
-    "time": "2026-06-09T11:56:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Visitor count jumps from 60 lakh to 16.4 crore in four years",
-    "desc": "Ayodhya is experiencing an unprecedented surge in visitors, with numbers skyrocketing from 6 million in 2020 to over 164 million in 2024, fueled by the Ram Temple's inauguration and infrastructure upgrades. This boom has revitalized local businesses, boosting shopkeeper earnings fivefold and property values significantly. Projections indicate Ayodhya's tourism economy could reach ₹10,000 crore annually.",
-    "img": "https://static.toiimg.com/photo/msid-131609677,imgsize-135246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ayodhya-tourism-boom-visitor-count-jumps-from-60-lakh-to-16-4-crore-in-four-years/articleshow/131609629.cms",
-    "time": "2026-06-09T11:42:03.000Z"
   },
   {
     "cat": "Business",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
     "time": "2026-06-05T06:48:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "SpaceX’s IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
-    "desc": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world’s first trillionaire",
-    "img": "https://th-i.thgim.com/public/incoming/f81bpf/article71058601.ece/alternates/LANDSCAPE_1200/2026-06-03T202449Z_1406795198_RC2TFCA4ZIEX_RTRMADP_3_SPACEX-IPO-PRICING.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/spacexs-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire/article71058600.ece",
-    "time": "2026-06-03T21:24:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Apple agrees to submit India financials in long-pending antitrust case",
-    "desc": "Apple has long ‌argued the case should be paused because it is separately seeking to quash India’s new antitrust penalty law that empowers the CCI to penalise companies on the basis of their global, not just Indian, turnover",
-    "img": "https://th-i.thgim.com/public/incoming/l1xy6v/article71058443.ece/alternates/LANDSCAPE_1200/2026-05-14T175409Z_1379866145_RC2P3EA3217N_RTRMADP_3_APPLE-OPENAI-LEGAL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/apple-agrees-to-submit-india-financials-in-long-pending-antitrust-case/article71058383.ece",
-    "time": "2026-06-03T17:30:58.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "‘Thinking AI needs to be integrated deeply into every curriculum is a mistake’",
-    "desc": "Rafif Srour, Dean of Programs at IE University in Spain, said that AI is creating a “false impression of knowledge” among students and so its integration into various key subjects needs to be carefully handled.",
-    "img": "https://th-i.thgim.com/public/incoming/svbqwg/article71057687.ece/alternates/LANDSCAPE_1200/Rafif%20Srour.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/thinking-ai-needs-to-be-integrated-deeply-into-every-curriculum-is-a-mistake/article71057707.ece",
-    "time": "2026-06-03T14:55:01.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Connecting oceans, across an isthmus",
-    "desc": "The Panama Canal might have been officially opened for business on August 15, 1914, but there were many firsts leading up to it, including one on June 8, when the S.S. Alliance became the first ocean going vessel to make lockage at the canal. A.S.Ganesh takes a look at various aspects of this canal and what makes it still tick, more than 110 years later…",
-    "img": "https://th-i.thgim.com/public/incoming/24d9at/article71028361.ece/alternates/LANDSCAPE_1200/2026-03-25T015052Z_289505356_RC25BKA7CLVS_RTRMADP_3_PANAMA-CANAL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/panama-canal-connecting-oceans-across-an-isthmus/article71028353.ece",
-    "time": "2026-06-03T07:34:39.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The future of India’s chip industry",
-    "desc": "A new NITI Aayog report says India’s semiconductor ecosystem is not yet equipped to fully meet domestic demand, while stressing the need to strengthen local manufacturing, as geopolitical pressures could potentially disrupt the electronics supply chain",
-    "img": "https://th-i.thgim.com/public/incoming/r8d63e/article71054242.ece/alternates/LANDSCAPE_1200/20260529189L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
-    "time": "2026-06-03T04:12:40.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

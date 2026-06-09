@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India-W vs England-W T20 World Cup warm up match live streaming: When and where to watch clash?",
+    "desc": "Indian women are all set to meet England women in their second and last warm-up match ahead of the Women's T20 World Cup 2026 on Wednesday, June 10. The Women in Blue won their previous...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-w-vs-england-w-t20-world-cup-warm-up-match-live-streaming-when-and-where-to-watch-clash-2026-06-09-1044246",
+    "time": "2026-06-09T18:27:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Women's T20 World Cup 2026: India in group of death as Australia, South Africa breath down neck",
     "desc": "The Women's T20 World Cup 2026 sits on the horizon as the 12 teams are gearing up to put their best foot forward in the 24-day-long global showpiece in England that kicks off on June...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/star-pacer-replaced-mohammed-siraj-in-india-s-t20i-squad-for-ireland-england-tour-check-details-2026-06-09-1044169",
     "time": "2026-06-09T08:49:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma declared fully fit ahead of Afghanistan ODIs, set to feature for series opener in Dharamsala",
-    "desc": "In brilliant news for team India, veteran India batter Rohit Sharma has been declared fully fit by the sports science team of the BCCI's Centre of Excellence. The star batter will feature for the Men...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-declared-fully-fit-ahead-of-afghanistan-odis-set-to-feature-for-series-opener-in-dharamsala-2026-06-09-1044163",
-    "time": "2026-06-09T08:06:41.000Z"
   }
 ];
