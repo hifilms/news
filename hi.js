@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi departs cheaply as Sri Lanka A strike early in 1st one-day clash",
+    "desc": "India A kicked off their tri-series against Sri Lanka A and Afghanistan by taking on the hosts, Sri Lanka A. The two sides met at the Rangiri Dambulla International Stadium in Dambulla on June 9th....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-departs-cheaply-as-sri-lanka-a-strike-early-in-1st-one-day-clash-2026-06-09-1044142",
+    "time": "2026-06-09T05:38:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka strike early, India A three down",
+    "desc": "The stage is set for the beginning of the tri-series between India A, Sri Lanka A, and Afghanistan A. The three sides will lock horns across several one-day matches before the two sides gather in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-sri-lanka-a-live-cricket-score-eyes-set-on-vaibhav-sooryavanshi-as-india-a-kick-off-tri-series-2026-06-09-1044132",
+    "time": "2026-06-09T04:10:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer opens up on Rishabh Pant's mindset after one-off Test win over AFG",
+    "desc": "The Indian team put in an exceptional performance against Afghanistan in the only Test of the ongoing multi-format series. The two sides met in Mullanpur from June 6, and Team India managed to register a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-rishabh-pant-s-mindset-after-one-off-test-win-over-afg-2026-06-09-1044129",
+    "time": "2026-06-09T03:56:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IND A vs Sri Lanka A, 1st match: When and where to watch the India A Tri-Series on TV and stream online?",
     "desc": "The stage is set for the upcoming tri-series between India A, Sri Lanka A, and Afghanistan A. The two sides will lock horns across seven matches in total in the series, including the final. The...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/good-selection-headache-for-india-ahead-of-womens-t20-world-cup-as-bharti-stars-in-west-indies-warm-up-2026-06-08-1044091",
     "time": "2026-06-08T14:55:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Timings for India vs England T20I matches changed by ECB; check all details",
-    "desc": "The England and Wales Cricket Board (ECB) has moved the timings for three of the five T20I matches during India's tour of England. The ECB has brought the timings one hour forward for the floodlit...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/timings-for-india-vs-england-t20i-matches-changed-by-ecb-check-all-details-2026-06-08-1044086",
-    "time": "2026-06-08T14:20:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First time in 1824 Test matches! Manav Suthar becomes first Indian to register huge record on stellar debut",
-    "desc": "Manav Suthar embarked on his India career with a stellar debut in Test cricket as he took a six-wicket haul during the one-off Test match against Afghanistan. Suthar displayed brilliant accuracy, guile and skills to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-1824-test-matches-manav-suthar-becomes-first-indian-to-register-huge-record-on-stellar-debut-2026-06-08-1044083",
-    "time": "2026-06-08T13:38:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Ravindra Jadeja's place in Test team under threat? Manav Suthar's stellar debut puts pressure on veteran",
-    "desc": "A left-arm spin-bowling all-rounder, darting the balls with insane precision, Manav Suthar hogged the limelight with his stellar Test debut during the one-off match between India and Afghanistan in Mullanpur. The Rajasthan all-rounder, Suthar, became...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-ravindra-jadejas-place-in-test-team-under-threat-manav-suthars-stellar-debut-puts-veteran-in-pressure-2026-06-08-1044073",
-    "time": "2026-06-08T12:01:18.000Z"
   }
 ];

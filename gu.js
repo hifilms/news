@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "પેટ્રોલ ડિઝલની કિંમતમાં આવશે મોટો ઘટાડો ! ફિંચએ જુલાઈ પછી ક્રૂડ ઓઇલના ભાવ ક્રેશ થવાની કરી ભવિષ્યવાણી, જાણો",
+    "desc": "ક્રૂડ ઓઇલના ભાવમાં નોંધપાત્ર ઘટાડો થવાની ધારણા છે. ભાવ પ્રતિ બેરલ 70 ડોલરથી 80 ડોલર સુધી પહોંચી શકે છે. વૈશ્વિક રેટિંગ એજન્સી ફિચના મતે, સપ્ટેમ્બર સુધીમાં તેલનો વધુ પડતો પુરવઠો ઓછો થવા લાગશે અને તેલ સંકટનો અંત આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-prices-to-come-down-by-a-big-margin-finch-predicts-crude-oil-prices-to-crash-after-july-know-480910 ",
+    "time": "2026-06-09T06:32:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "18 કેરેટ સોનામાંથી બનાવવામાં આવે છે ફીફા વર્લ્ડ કપની ટ્રોફી, વજન છે 6 કિલો, કિંમત જાણીને ઊડી જશે હોશ",
+    "desc": "ફીફા વર્લ્ડ કપ 2026ની મેગા ઇવેન્ટ 11 જૂનથી 19 જુલાઈ દરમિયાન રમાશે. ફૂટબોલ વર્લ્ડ કપની આ એડિશનની યજમાની સંયુક્ત રીતે USA, કેનેડા અને મેક્સિકો કરી રહ્યા છે. આ વખતે રેકોર્ડ 48 ટીમો ભાગ લેશે અને 39 દિવસમાં કુલ 104 મેચો રમાશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-trophy-is-made-of-18-carat-gold-weighs-6-kg-the-price-will-blow-your-mind-480898 ",
+    "time": "2026-06-09T06:14:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પેપરલીક વગર કેવી રીતે થાય છે દુનિયાની સૌથી મોટી પરીક્ષા, ૧.૩૪ કરોડ વિદ્યાર્થીઓ છતાં ચીનમાં કેમ નથી થતું પેપર લીક? જાણો રહસ્ય",
+    "desc": "ચીનમાં હાલ દુનિયાની સૌથી મોટી અને આકરી ગણાતી ગાઓકાઓ 2026 (Gaokao) પરીક્ષા ચર્ચામાં છે. જેમાં 1 કરોડ 34 લાખ વિદ્યાર્થીઓ પરીક્ષા આપવાના છે. આટલી વિશાળ સંખ્યામાં વિદ્યાર્થીઓ છતાં, આ પરીક્ષામાં કોઈ પંખી પણ આવતું નથી. ન તો અહી કોઈ પેપરલીક થાય છે. અભેદ્ય ચક્રવ્યૂહની જેમ આ પરીક્ષા માટે ચુસ્ત બંદોબસ્ત હોય, જેને કારણે પેપર લીક જેવી ઘટના બનવી પણ શક્ય નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/worlds-biggest-exam-why-there-no-paper-leak-in-china-despite-1-crore-34-lakh-students-know-secret-480892 ",
+    "time": "2026-06-09T06:04:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પહેલા બે દિવસમાં 4 ગણાથી વધુ સબસ્ક્રિપ્શન, IPO પર દાવ લગાવવાનો આજે છેલ્લો ચાન્સ, GMP પણ છે સારો",
+    "desc": "આ કંપનીના IPO પર રોકાણ કરવાની આજે છેલ્લી તક છે, કંપનીનો IPO આજે સાંજે રોકાણ માટે બંધ થઈ જશે, જ્યારે IPO ગ્રે માર્કેટમાં સારૂ પ્રદર્શન કરી રહ્યો છે, માર્કેટના ઉથલપાથલ વચ્ચે પણ આ IPOના GMPમાં કોઈ મોટો ફેરફાર થયો નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/more-than-4-times-subscription-in-the-first-two-days-today-is-the-last-chance-to-bet-on-ipo-gmp-is-also-good-480897 ",
+    "time": "2026-06-09T05:12:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "યુસુફ પઠાણ પણ બળવાખોર સાંસદોમાં સામેલ? જાણો કોણે કર્યો આવો ચોંકાવનારો દાવો",
+    "desc": "મૂળ ગુજરાતના વડોદરાના રહીશ પરંતુ ટીએમસીની ટિકિટ પર બંગાળના બહરામપુરથી ચૂંટણી લડી ચૂકેલા યુસુફ પઠાણ હાલ ચર્ચામાં છે. કારણકે એવું કહેવાય છેકે મમતા બેનર્જી માટે સીટ ખાલી કરવાની તેમણે ઘસીને ના પાડી અને રિપોર્ટ મુજબ જે સાંસદોએ બળવો પોકાર્યો છે તેમાં તેમનું નામ પણ સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/yusuf-pathan-also-included-among-the-rebel-mps-supporting-nda-kakoli-ghosh-claims-480888 ",
+    "time": "2026-06-09T03:31:56.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "કેન્દ્રના કર્મચારીઓને સસ્તા દરે સરકાર આપશે આ લોન, જાણો ડિટેલ અને વ્યાજદર",
     "desc": "આ યોજના અંગે 8મું પગાર પંચ નિર્ણય લેશે, જેની સીધી અસર કેન્દ્રીય કર્મચારીઓ પર પડશે. કર્મચારીઓને સસ્તા દરે લોન મળતા તેમના સપનાના ઘરની ઈચ્છા પુરી થશે જ્યારે સમારકામ માટે પણ સરકાર સસ્તા દરે લોન આપશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -396,15 +441,6 @@ const newsData_gu = [
     "time": "2026-06-05T12:42:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "બંધ થઈ રહી છે કાગળની નોટો? પ્લાસ્ટિકની નોટ પર RBIની મોટી જાહેરાત, જાણો શું કહ્યું",
-    "desc": "રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) ફરી એકવાર દેશમાં પોલિમર(પ્લાસ્ટીક) આધારિત ચલણી નોટો રજૂ કરવાની શક્યતા પર વિચાર કરી રહી છે. આ માહિતી RBI ગવર્નર સંજય મલ્હોત્રાએ આપી હતી. દેશમાં તેની જોરશોરથી ચર્ચા થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/are-paper-notes-being-discontinued-rbis-big-announcement-on-plastic-notes-know-what-it-said-480497 ",
-    "time": "2026-06-05T11:15:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "પંત પાસેથી કેમ છીનવાઈ વાઈસ કેપ્ટનશીપ? ઋષભની આ આદતથી કોચ ગંભીર નારાજ? મીડિયા સામે મોટો ખુલાસો",
     "desc": "ભારત અને અફઘાનિસ્તાન વચ્ચેની ટેસ્ટ મેચ પહેલા ટીમ ઈન્ડિયાના હેડ કોચ ગૌતમ ગંભીરે એક પ્રેસ કોન્ફરન્સ કરી. આ પ્રેસ કોન્ફરન્સમાં ગૌતમ ગંભીરે ટીમ ઈન્ડિયા વિશે ખુલ્લીને વાત કરી, જેમાં ઋષભ પંતના વાઈસ કેપ્ટનશીપથી લઈને વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપ સુધીના વિષયો પર ચર્ચા કરવામાં આવી હતી, સાથે જ ટીમને ચોક્કસ સંદેશા પણ આપ્યા હતા. ગંભીરની ટિપ્પણી હવે ચર્ચાનો વિષય બની ગઈ છે. ચાલો જાણીએ આખરે હેડ કોચ ગૌતમ ગંભીર ઋષભ પંતની કઈ આદતથી નારાજ છે.",
@@ -421,24 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/putin-woke-up-russian-sea-monster-admiral-nakhimov-sleeping-for-30-years-480470 ",
     "time": "2026-06-05T10:44:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBIનો મોટો દાવ... એક જાહેરાત અને ગગડતા રૂપિયાએ ડૉલરને આપી &amp;#039;પછડાટ&amp;#039;; જોતી રહી ગઈ દુનિયા",
-    "desc": "આરબીઆઈ દ્વારા જાહેર કરવામાં આવેલી એમપીસી માં વિદેશી રોકાણને આકર્ષિત કરવા માટે સરકારી બોન્ડ પર લાગતો ટેક્સ ઝીરો (0) કરી દેવામાં આવ્યો છે. આ જાહેરાત થયાની થોડી જ વારમાં ભારતીય રૂપિયામાં તેજી જોવા મળી અને તે 50 પૈસા ઉછળી ગયો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/rupee-rallies-against-us-dollar-after-rabi-announces-foreign-investors-480487 ",
-    "time": "2026-06-05T10:01:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કર્મચારીઓના પગારમાં થશે 250 ટકાનો વધારો ? જો લાગુ કરવામાં આવશે આ ફોર્મ્યુલા તો કર્મચારીઓ થશે મોટી રાહત, જાણો",
-    "desc": "હાલમાં, 7મા પગાર પંચમાં ફિટમેન્ટ ફેક્ટર 2.57 હતો, જેના કારણે લઘુત્તમ મૂળ પગાર 7,000 રૂપિયાથી વધીને 18,000 રૂપિયા થયો. જો 8મા પગાર પંચમાં 3.5નો ફિટમેન્ટ ફેક્ટર લાગુ કરવામાં આવે, તો 18,000 રૂપિયાનો વર્તમાન લઘુત્તમ મૂળ પગાર સીધો વધીને 63,000 રૂપિયા થઈ શકે છે, એટલે કે કર્મચારીઓને લગભગ 250 ટકાનો પગાર વધારો જોવા મળી શકે છે. આ જ કારણ છે કે કર્મચારી સંગઠનો આ માંગણી જોરશોરથી ઉઠાવી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-the-salary-of-employees-be-increased-by-250-percent-if-this-formula-is-implemented-then-the-employees-will-get-a-big-relief-know-480486 ",
-    "time": "2026-06-05T09:51:18.000Z"
   },
   {
     "cat": "World",
@@ -502,24 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/krunal-pandya-breaks-silence-on-his-bonding-with-brother-hardik-pandya-480391 ",
     "time": "2026-06-04T10:37:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સૂર્યવંશીના &amp;#039;વૈભવ&amp;#039;ને ચમકાવશે ગ્રહોની આ જુગલબંધી ! કુંડળીનો 11મો ભાવ આપી રહ્યો છે મોટા સંકેત",
-    "desc": "IPL 2026માં વૈભવ સૂર્યવંશીના શાનદાર પ્રદર્શન બાદ હવે દરેક જગ્યાએ ચર્ચા છે કે શું ક્રિકેટ જગતને નવો ગ્લોબલ સુપરસ્ટાર મળી ગયો છે. ખાસ વાત એ છે કે વૈભવની કુંડળી પણ ઈન્ટરનેશનલ સુપરસ્ટાર બનવાના મજબૂત સંકેત આપી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/spiritual/vaibhav-suryavanshi-kundli-11th-house-shubh-yog-break-many-records-480377 ",
-    "time": "2026-06-04T09:36:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિરાટ કોહલીની જગ્યાએ કોને મળશે વનડે ટીમમાં તક ? જાણો કોણ છે મજબૂત દાવેદાર",
-    "desc": "અફઘાનિસ્તાન સામેની આગામી ODI શ્રેણીમાં વિરાટ કોહલી બહાર થતાં હવે તેના સ્થાને કોણ મેદાનમાં ઉતરશે ? આ અંગે ઘણા નામો સામે આવ્યા છે, જેમાં રજત પાટીદાર અને તિલક વર્મા સૌથી આગળ છે. ત્યારે આ લેખમાં જાણીશું કે કોહલીની જગ્યાએ કોને તક મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rajat-patidar-or-tilak-verma-who-will-replace-virat-kohli-in-odi-team-480362 ",
-    "time": "2026-06-04T08:52:13.000Z"
   },
   {
     "cat": "World",
