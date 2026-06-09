@@ -1,5 +1,104 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "₹8 ની SUV એ રચ્યો ઈતિહાસ, બનાવી દીધો વેચાણનો નવો રેકોર્ડ, જાણો ફીચર્સ અને ખાસિયત",
+    "desc": "હ્યુન્ડાઈ વેન્યુએ વેચાણના મામલામાં ભારતમાં ઈતિહાસ રચી દીધો છે. વેન્યુએ દેશમાં 8 લાખના વેચાણનો આંકડો પાર કરી લીધો છે. 8 લાખ રૂપિયાથી શરૂ થનાર આ એસયુવીનો મુકાબલો મારૂતિ બ્રેઝા, ટાટા નેક્સોન અને કિઆ સોનેટ જેવી ગાડીઓ સાથે થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/hyundai-venue-creates-history-crosses-8-lakh-unit-sales-mark-480959 ",
+    "time": "2026-06-09T11:25:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup નો આનંદ થઈ જશે બમણો, &amp;#039;Z&amp;#039; એ સ્પોર્ટ્સ સ્ટ્રીમિંગ ઈકોસિસ્ટમને બનાવી મજબૂત",
+    "desc": "વિશ્વની સૌથી મોટી સ્પોર્ટ્સ ઈવેન્ટ ફીફા વિશ્વકપ 2026ની શરૂઆત થઈ રહી છે. ભારતમાં આ ફુટબોલના મહાકુંભનું લાઈવ પ્રસારણ ઝી એન્ટરટેઈનમેન્ટ એન્ટરપ્રાઇઝ લિમિટેડ ('Z') ના ટીવી અને ડિજિટલ પ્લેટફોર્મ પર થશે. દર્શકોને વૈશ્વિક ટૂર્નામેન્ટનો શાનદાર અનુભવ આપવા માટે Z એ પોતાની ટેક્નોલોજીકલ કૌશલ્યમાં વધારો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-z-enhances-technological-prowess-to-host-millions-of-football-fans-480951 ",
+    "time": "2026-06-09T10:39:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શિક્ષક બન્યા તે પહેલા શું કરતા હતા ખાન સર, અચાનક ક્યાંથી આવ્યો આટલો મોટો ફેરફાર કે થવા લાગ્યો પૈસાનો વરસાદ ?",
+    "desc": "લાખો યુવાનો માટે \"ખાન સર\" તરીકે જાણીતા આ શિક્ષકનું સાચું નામ ફૈઝલ ખાન છે. 1993માં ઉત્તર પ્રદેશના દેવરિયામાં એક સામાન્ય પરિવારમાં જન્મેલા ફૈઝલ ખાને આજે પોતાની મહેનત દ્વારા દેશના સૌથી પ્રભાવશાળી શિક્ષકો અને ડિજિટલ શિક્ષણ દિગ્ગજોમાં પોતાને સ્થાપિત કર્યા છે. ચાલો તેમના સંઘર્ષોથી ધનવાન બનવાના તેમના સફર વિશે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-did-khan-sir-do-before-he-became-a-teacher-where-did-such-a-big-change-suddenly-come-from-that-money-started-pouring-in-480950 ",
+    "time": "2026-06-09T10:27:58.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ભારતમાં 1 જુલાઈથી મોંઘી થશે આ કંપનીની કાર, જાણો કિંમતમાં કેટલો થશે વધારો",
+    "desc": "જો તમે નવી કાર ખરીદવાનું વિચારી રહ્યા છો, તો વધુ કિંમત ચૂકવવા માટે તૈયાર રહો. છેલ્લા બેથી ત્રણ મહિનામાં ઘણી બ્રાન્ડ્સે તેમની કારના ભાવમાં વધારો કર્યો છે. આ વધારો રૂપિયામાં નબળાઈ અને વધતા લોજિસ્ટિક્સ ખર્ચને કારણે છે. હવે BMWએ તેની કારના ભાવમાં વધારો કરવાની જાહેરાત કરી છે. ત્યારે આ લેખમાં જાણીશું કે કંપનીની કાર કેટલી મોંઘી થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/bmw-cars-become-more-expensive-in-india-from-july-1-know-how-much-price-hike-480947 ",
+    "time": "2026-06-09T10:12:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મોહમ્મદ સિરાજ T20 સિરીઝમાંથી બહાર, BCCIએ અચાનક લીધો મોટો નિર્ણય, આ બોલરની થઈ એન્ટ્રી",
+    "desc": "ફાસ્ટ બોલર મોહમ્મદ સિરાજને આયર્લેન્ડ અને ઇંગ્લેન્ડ સામેની આગામી T20 શ્રેણીમાંથી બહાર કરવામાં આવ્યો છે. BCCI મેડિકલ ટીમની સલાહ પર લેવામાં આવેલા આ નિર્ણય બાદ પસંદગીકારોએ ટીમમાં તેના સ્થાને પ્રસિદ્ધ કૃષ્ણાને સ્થાન આપ્યું છે. ત્યારે મોહમ્મદ સિરાજને અચાનક કેમ બહાર કરવામાં આવ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/mohammed-siraj-out-of-t20-series-bcci-takes-big-decision-prasidh-krishna-returns-480942 ",
+    "time": "2026-06-09T09:27:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ડ્રાઇવિંગ લાઇસન્સ અને ગાડીઓના ટ્રાન્સફર પર નવો નિયમો લાવી રહી છે સરકાર, આટલા વર્ષ સુધી વેલિડ રહેશે DL !",
+    "desc": "ભવિષ્યમાં, તમને વારંવાર તમારા ડ્રાઇવિંગ લાઇસન્સ રિન્યુ કરાવવાની ઝંઝટમાંથી મુક્તિ મળી શકે છે. સરકાર DL જાહેર કરવાની યોજના પર મોટા ફેરફાર પર કામ કરી રહી છે. હાલમાં, પહેલું DL 20 વર્ષ માટે જાહેર કરવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-government-is-bringing-new-rules-on-the-transfer-of-driving-licenses-and-vehicles-dl-will-remain-valid-for-this-many-years-480941 ",
+    "time": "2026-06-09T09:20:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પહાડો ચીરીને તૈયાર થઈ રહી છે ભારતની સૌથી ખતરનાક જોજિલા સુરંગ, 11000 ફૂટ પર 3 કલાકની સફર માત્ર 15 મિનિટમાં",
+    "desc": "જમ્મુ અને કાશ્મીરને જોડતી જોજિલા સુરંગનો છેલ્લો 'બ્રેકથ્રુ' આજે પૂરો થઈ ગયો. કેન્દ્રીય રોડ અને પરિવહન તથા રાજમાર્ગ મંત્રી નીતિન ગડકરી, મુખ્યમંત્રી ઉમર અબ્દુલ્લા અને જમ્મુ કાશ્મીરના ઉપરાજ્યપાલ મનોજ સિન્હા આ ઐતિહાસિક પળના સાક્ષી બન્યા. આ ટનલથી ખાસિયતો ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/breakthrough-in-zojila-tunnel-achieved-nitin-gadkari-present-check-specialities-480936 ",
+    "time": "2026-06-09T09:15:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અફઘાનિસ્તાન સામેની સિરીઝમાં રમી શકશે હાર્દિક પંડ્યા ? ફિટનેસ પર આવ્યું મોટું અપડેટ",
+    "desc": "અફઘાનિસ્તાન સામેની ODI સિરીઝ પહેલા હાર્દિક પંડ્યાની ફિટનેસ અંગે મોટું અપડેટ સામે આવ્યું છે. હાર્દિક પંડ્યા આ સિરીઝમાં રમશે કે કેમ ? તેને લઈને સવાલો ઉભા થઈ રહ્યા હતા. જો કે, હવે તેની ફિટનેસ અંગે સારા સમાચાર સામે આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-fitness-update-before-india-vs-afghanistan-odi-series-480938 ",
+    "time": "2026-06-09T09:03:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદીમાં ભારે ઉથલપાથલ, હાઈથી હજું પણ સોનું 25000 અને ચાંદી 1.73 લાખ સસ્તા, જાણો આજનો રેટ",
+    "desc": "સોના અને ચાંદીના ભાવમાં ભારે ઉથલપાથલ જોવા મળી રહી છે. એક બાજુ જ્યાં સોમવારે 8 જૂનના રોજ ભાવમાં મોટો કડાકો નોંધાયો હતો ત્યાં આજે સોના અને ચાંદી બંનેના ભાવમાં વધારો જોવા મળી રહ્યો છે. વાયદા બજાર અને રિટેલ બજાર બંનેમાં ભાવ ચડતા જોવા મળ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/despite-increase-in-prices-today-gold-still-25000-and-silver-1-73-lakh-cheaper-than-all-time-high-480926 ",
+    "time": "2026-06-09T07:56:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "હવે અમેરિકામાં સુરક્ષિત રહેશે હિંદુ મંદિરો સહિત ધાર્મિક સ્થળો, 100 ફૂટનો &amp;#039;બફર ઝોન&amp;#039; બનશે, ભક્તોને ડરાવવા ગુનો ગણાશે",
+    "desc": "અમેરિકામાં અત્યાર સુધી ઘણીવાર હિંદુ મંદિરો સહિત અન્ય ધાર્મિક સ્થળો પર હુમલાની ઘટના બની ચુકી છે. પરંતુ હવે આવા ગુનાઓને રોકવા માટે નવો કાયદો રજૂ કરાયો છે. આ કાયદાની મદદથી ધાર્મિક સ્થળોને વિશેષ સુરક્ષા મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/historic-sacred-act-introduced-in-america-to-protect-religious-places-and-devotees-480925 ",
+    "time": "2026-06-09T07:49:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Maruti નો મોટો પ્લાન! નવા લુકમાં આવશે Brezza, Fronx અને Grand Vitara, મળશે નવા ફીચર્સ",
+    "desc": "Maruti Suzuki પોતાની લોકપ્રિય SUV Brezza, Fronx અને Grand Vitara ને મોટા અપડેટની સાથે લોન્ચ કરવાની તૈયારી કરી રહી છે. 2026મા બ્રેઝા અને ગ્રાન્ડ વિટારા ફેસલિફ્ટ મોડલ બજારમાં આવી શકે છે, જ્યારે નવી Fronx 2027 માં લોન્ચ થવાની સંભાવના છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-brezza-fronx-and-grand-vitara-will-come-in-a-new-look-with-update-features-480923 ",
+    "time": "2026-06-09T07:26:16.000Z"
+  },
+  {
     "cat": "Business",
     "title": "પેટ્રોલ ડિઝલની કિંમતમાં આવશે મોટો ઘટાડો ! ફિંચએ જુલાઈ પછી ક્રૂડ ઓઇલના ભાવ ક્રેશ થવાની કરી ભવિષ્યવાણી, જાણો",
     "desc": "ક્રૂડ ઓઇલના ભાવમાં નોંધપાત્ર ઘટાડો થવાની ધારણા છે. ભાવ પ્રતિ બેરલ 70 ડોલરથી 80 ડોલર સુધી પહોંચી શકે છે. વૈશ્વિક રેટિંગ એજન્સી ફિચના મતે, સપ્ટેમ્બર સુધીમાં તેલનો વધુ પડતો પુરવઠો ઓછો થવા લાગશે અને તેલ સંકટનો અંત આવશે.",
@@ -315,33 +414,6 @@ const newsData_gu = [
     "time": "2026-06-06T11:04:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારત-બાંગ્લાદેશ આ ટબુકડા ટાપુ માટે ઝઘડતા રહ્યા અને અચાનક ગાયબ થઈ ગયો!",
-    "desc": "બે પાડોશી દેશ એક જમીનના ટુકડાં માટે વર્ષોથી ઝઘડતા હોય, બંને દેશોની સેનાઓ આમને સામને આવી જાય, સરકારોમાં બેઠકોનો દોર ચાલુ હોય અને પછી અચાનક ખબર પડે કે તે જમીન જ ગાયબ થઈ ગઈ તો શું થાય? આવું જ કઈક ભારત અને બાંગ્લાદેશ વચ્ચે બનેલું છે. શું તમને ખબર છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-bangladesh-dispute-over-a-island-know-why-suddenly-disappeared-480596 ",
-    "time": "2026-06-06T10:13:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "5 લાખ કે 14 લાખ? કેટલું મળશે એરિયર અને જાણો સંપૂર્ણ કેલ્ક્યુલેશન",
-    "desc": "જો સુધારેલા પગાર ધોરણ એપ્રિલ 2027માં શરૂ થાય છે, પરંતુ જાન્યુઆરી 2026થી અમલમાં આવે છે, તો કર્મચારીઓને 15 મહિના સુધીનું બાકી વેતન મળી શકે છે. જેને જોવામાં આવે તો સરકારી કર્મચારીઓને આ પ્રમાણે આટલું એરિયર મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/5-lakhs-or-14-lakhs-know-how-much-arrears-you-will-get-and-know-the-complete-calculation-480578 ",
-    "time": "2026-06-06T09:05:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "E85 પેટ્રોલ આવવાથી શું E20 પેટ્રોલવાળી ગાડીઓ બંધ થઈ જશે? લોકોની ચિંતા વધતા પેટ્રોલિમય મંત્રીએ કર્યો ખુલાસો",
-    "desc": "દેશભરમા E85 પેટ્રોલ અને E20 પેટ્રોલને લઈને મોટું કન્ફ્યૂઝન થઈ રહ્યું છે. એક તરફ પેટ્રોલના વધતા ભાવ ચિંતા કરાવી રહ્યાં છે, અને બીજી તરફ આ કન્ફ્યૂઝન. ત્યારે આ વચ્ચે જાણી લો E85 પેટ્રોલ અને E20 પેટ્રોલમાં શું તફાવત છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/petroleum-minister-clarification-on-discontinuation-of-e20-petrol-vehicles-due-to-e85-480576 ",
-    "time": "2026-06-06T08:36:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કપલ માટે મસ્ટ વોચ વેબ સીરીઝ, રવિવારે પાર્ટનર સાથે બેસીને જોવામાં મજા આવે તેવી 5 વેબ સીરીઝ",
     "desc": "જો તમે પોતાના પાર્ટનર સાથે ઘરે બેસીને કોઈ સારી વેબ સીરીઝ જોવા માંગો છો પણ તમને ખબર નથી કે કઈ વેબ સીરીઝ જોવી તો ચાલો તમને ઓટીટીની 5 બેસ્ટ કપલ ફ્રેન્ડલી વેબ સીરીઝ વિશે જણાવીએ. આ 5 વેબ સીરીઝ પાર્ટનર સાથે જોવા માટે બેસ્ટ છે.",
@@ -394,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/big-news-e85-fuel-launched-check-rate-and-specialities-how-much-cheaper-than-petrol-480551 ",
     "time": "2026-06-06T05:26:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના અને ચાંદીમાં મોટો ભૂકંપ, ભાવમાં સીઝનનો સૌથી મોટો ઘટાડો, રાતોરાત ભાવ જબ્બર ઘટ્યા, જાણો લેટેસ્ટ રેટ",
-    "desc": "અમેરિકાથી એક એવા સમાચાર આવ્યા કે વૈશ્વિક બજારની સાથે સાથે ભારતીય બજારમાં પણ સોના અને ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો છે. એક દિવસમાં આવેલો આ ઘટાડો સીઝનનો સૌથી મોટો ઘટાડો છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-suddenly-fell-know-usa-connection-aaj-no-sona-chandi-no-bhav-480544 ",
-    "time": "2026-06-06T03:12:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -477,15 +540,6 @@ const newsData_gu = [
     "time": "2026-06-05T06:15:20.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "VARથી લઈને હાઇડ્રેશન બ્રેક સુધી... આ વખતે ફીફા વર્લ્ડ કપમાં શું છે નવું? મોટા બદલાવની ઇનસાઇડ સ્ટોરી",
-    "desc": "ફીફા વર્લ્ડ કપ 2026માં 48 ટીમો, 104 મેચો અને ત્રણ યજમાન દેશો (અમેરિકા, કેનેડા, મેક્સિકો) સાથે ફૂટબોલ ઇતિહાસનો સૌથી મોટો અને અનોખો મહાકુંભ યોજાવા જઈ રહ્યો છે. આ વખતે ટૂર્નામેન્ટમાં ઘણી વસ્તુઓ નવી જોવા મળશે. ચાલો તેના વિશે અહીં વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/explained-var-to-hydration-breaks-what-new-rules-in-this-fifa-world-cup-the-inside-story-of-the-big-changes-480413 ",
-    "time": "2026-06-04T13:09:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સેન્સર બોર્ડના &amp;#039;સિઝરમેન&amp;#039; કહેવાતા પહલાજ નિહલાની, શાહિદ કપૂરની ફિલ્મને લઈને થયો હતો હાઈ-વોલ્ટેજ ડ્રામા",
     "desc": "બોલીવુડના જાણીતા પ્રોડ્યુસર અને સેન્સર બોર્ડના પૂર્વ ચેરમેન પહલાજ નિહલાનીનું 76 વર્ષની વયે લીવરની બીમારીના કારણે નિધન થયું છે. આજે બોલીવુડના કલાકારો તેમના નિધન પર દુ:ખની લાગણી વ્યક્ત કરી રહ્યા છે પણ જ્યારે તેઓ CBFC ના ચેરમેન હતા ત્યારે તેમના નિર્ણયોની ભારે આલોજના થતી. તેમાં પણ કેટલીક ફિલ્મોને લઈને તો હાઈ વોલ્ટેજ ડ્રામા થયા હતા.",
@@ -502,24 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/pahlaj-nihalani-passes-away-at-76-death-reason-liver-cirrhosis-unknown-story-of-pahlaj-nihalani-480394 ",
     "time": "2026-06-04T11:42:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિરાટ કોહલી બાદ હવે રોહિત શર્મા પણ થશે ODI સિરીઝમાંથી બહાર ? હાર્દિક પંડ્યા અંગે પણ સસ્પેન્સ",
-    "desc": "જો વિરાટ કોહલી બાદ રોહિત શર્મા પણ અફઘાનિસ્તાન શ્રેણીમાંથી બહાર થાય છે, તો તે ભારતીય ટીમ માટે બેવડો ઝટકો હશે. આવી સ્થિતિમાં ટીમ ઇન્ડિયાના યુવા ખેલાડીઓ પર એક મહત્વપૂર્ણ જવાબદારી આવશે અને તેમને પોતાને સાબિત કરવા માટે એક મોટું પ્લેટફોર્મ પણ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/after-virat-kohli-will-rohit-sharma-also-be-out-of-odi-series-hardik-pandya-also-doubt-480398 ",
-    "time": "2026-06-04T11:38:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;પંડ્યા પરિવારમાં...&amp;#039; કૃણાલ પંડ્યાએ હાર્દિક સાથેના સંબંધો પર તોડ્યું મૌન, જાણો શું કહ્યું",
-    "desc": "RCBએ IPL 2026ની ફાઇનલમાં ગુજરાત ટાઇટન્સને હરાવીને બીજી વખત ટાઇટલ જીત્યું. ત્યારે હવે આ જીત બાદ કૃણાલ પંડ્યાએ પણ તેના ભાઈ હાર્દિક સાથેના સંબંધો અંગે મૌન તોડ્યું છે. ત્યારે આ લેખમાં જાણીશું કે કૃણાલ પંડ્યાએ હાર્દિક સાથેના સંબંધો અંગે શું કહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/krunal-pandya-breaks-silence-on-his-bonding-with-brother-hardik-pandya-480391 ",
-    "time": "2026-06-04T10:37:08.000Z"
   },
   {
     "cat": "World",
@@ -574,32 +610,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shilpa-shindes-shocking-revelation-a-false-harassment-case-was-filed-against-the-producer-of-bhabhiji-ghar-par-hain-480095 ",
     "time": "2026-06-02T06:21:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "નવો ફોન ક્યારે ખરીદવો? વર્ષના આ સમયે iPhone અને Samsung ફોન પણ હોય છે સૌથી સસ્તા",
-    "desc": "જો તમે નવો સ્માર્ટફોન ખરીદવાનું વિચારી રહ્યા છો, તો યોગ્ય સમય પસંદ કરવો ખૂબ જ મહત્વપૂર્ણ છે, કારણ કે વર્ષના અમુક મહિનાઓમાં કિંમતોમાં નોંધપાત્ર ઘટાડો થાય છે. ભારતમાં, ઓક્ટોબર અને નવેમ્બર ફોન ખરીદવા માટે શ્રેષ્ઠ સમય માનવામાં આવે છે, ખાસ કરીને જ્યારે iPhone, Samsung ફોન અને અન્ય બ્રાન્ડ નોંધપાત્ર ડિસ્કાઉન્ટ આપે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/when-to-buy-a-new-phone-iphones-and-samsung-phones-are-also-the-cheapest-at-this-time-of-year-480039 ",
-    "time": "2026-06-01T15:53:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "10 લાખના બજેટમાં Tata Tiago EV બેસ્ટ છે કે Tata Punch EV? ખરીદતા પહેલા જાણો બંનેના ફીચર્સ",
-    "desc": "શું તમે પણ વધતા પેટ્રોલ-ડીઝલના ભાવ વચ્ચે ઈલેક્ટ્રિક કાર ખરીદવાનું વિચારી રહ્યાં છો? પરંતુ પરેશાન છો કે 10 લાખના બજેટમાં Tata Tiago EV બેસ્ટ છે કે Tata Punch EV, આવો જાણીએ તમારા માટે કઈ કાર સારી રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/tata-tiago-ev-vs-punch-ev-under-10-lakhs-know-price-and-features-updates-479966 ",
-    "time": "2026-06-01T06:18:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શું ગરમીમાં ઘટી જાય છે ઇલેક્ટ્રિક કારની માઇલેજ? 30 હજાર વાહનો પર થયો ટેસ્ટ, સામે આવ્યું ચોંકાવનારું સત્ય!",
-    "desc": "ઇલેક્ટ્રિક કારોનો ઉપયોગ ઝડપથી વધી રહ્યો છે. પેટ્રોલ અને ડીઝલના વધતા ભાવ વચ્ચે લોકો EV (ઇલેક્ટ્રિક વ્હીકલ)ને એક સારો વિકલ્પ માની રહ્યા છે. ઉનાળામાં ઇલેક્ટ્રિક કારની રેન્જ કેટલી ઘટે છે? ત્યારે ચાલો જાણીએ 30 હજાર EV પર થયેલા ટેસ્ટમાં શું આવ્યું સામે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/does-the-mileage-of-electric-cars-decrease-in-heat-tests-were-conducted-on-30-thousand-vehicles-shocking-truth-revealed-479901 ",
-    "time": "2026-05-31T14:39:49.000Z"
   }
 ];
