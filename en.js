@@ -1,5 +1,32 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Sohail Khan mourns family friend Kumod Raney's demise",
+    "desc": "The Khan family is mourning the loss of their longtime family friend Kumod Raney, whose demise on Tuesday left relatives and close friends grieving. Sohail Khan paid an emotional tribute to Kumod Raney on social media, remembering the special place she held in the family's life and expressing his sorrow over her passing.",
+    "img": "https://static.toiimg.com/photo/msid-131620083,imgsize-43124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sohail-khan-mourns-family-friend-kumod-raneys-demise-i-lost-my-beautiful-sister-today-nobody-in-the-world-can-replace-her/articleshow/131620069.cms",
+    "time": "2026-06-09T21:21:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "MEA urges international community",
+    "desc": "The latest protest that started under the leadership of Jammu Kashmir Joint Awami Action Committee (JAAC) on June 5 however was triggered when local residents demanded subsidy on electricity and flour and restoration of civil liberties in Muzaffarabad, Rawalkot, and Mirpur.",
+    "img": "https://th-i.thgim.com/public/incoming/477muj/article71081176.ece/alternates/LANDSCAPE_1200/PTI06_09_2026_000192B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-ministry-of-external-affairs-comments-on-pakistan-occupied-kashmir-violence/article71080872.ece",
+    "time": "2026-06-09T20:09:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manav recalls living on Rs 30 in a Mumbai chawl after leaving Kashmir",
+    "desc": "Actor, writer and playwright Manav Kaul has reflected on his journey from Kashmir to Mumbai, opening up about displacement, survival, and the years he spent living in a chawl while trying to find his footing as an artist. Speaking about his childhood, Manav recalled that his family left Baramulla, Kashmir, when he was young and moved to Hoshangabad in Madhya Pradesh.",
+    "img": "https://static.toiimg.com/photo/msid-131619924,imgsize-54390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manav-kaul-recalls-living-on-rs-30-a-day-in-a-mumbai-chawl-after-leaving-kashmir-i-had-to-cut-away-my-kashmiriyat/articleshow/131619867.cms",
+    "time": "2026-06-09T20:00:46.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "India pushes for dialogue on climate finance, adaptation at Bonn climate talks",
     "desc": "At the 64th session of the UNFCCC Subsidiary Bodies (SB64), India associated itself with the positions taken on behalf of the Group of 77 and China (G-77), the Like-Minded Developing Countries (LMDC) and the BASIC bloc (Brazil, South Africa, India, China)",
@@ -360,15 +387,6 @@ const newsData_en = [
     "time": "2026-06-09T14:26:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Modi's loot model': Rahul Gandhi slams Centre over LPG price hike, Ujjwala subsidy cuts",
-    "desc": "Rahul Gandhi criticized the Centre for rising LPG prices and reduced Ujjwala subsidies, alleging that government policies are burdening poor and middle-class families. He claimed millions are forced back to firewood due to \"anti-poor economic policies\" and a \"compromised foreign policy.\"",
-    "img": "https://static.toiimg.com/photo/msid-131613398,imgsize-480991.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/modis-loot-model-rahul-gandhi-slams-centre-over-lpg-price-hike-ujjwala-subsidy-cuts/articleshow/131613365.cms",
-    "time": "2026-06-09T14:20:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "AI sell-off deepens as tech stocks drag Wall Street lower despite oil relief",
     "desc": "Indian markets saw a positive trend as US stocks rallied, driven by a strong comeback in AI-linked technology shares. Lower oil prices provided further relief, boosting airline stocks and easing bond market pressure. Investors are now keenly awaiting crucial US inflation data, with expectations of a potential Federal Reserve rate hike later this year.",
@@ -387,15 +405,6 @@ const newsData_en = [
     "time": "2026-06-09T13:54:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TMC MP Kalyan Banerjee heckled with 'Chor Chor' chants at Kolkata airport; loses cool",
-    "desc": "TMC MP Kalyan Banerjee was heckled at Kolkata airport amidst internal party turmoil. He accused BJP leader Suvendu Adhikari of being a thief. The party faces a potential crisis with reports of at least 20 MPs supporting the NDA, threatening its state influence and parliamentary position.",
-    "img": "https://static.toiimg.com/photo/msid-131612919,imgsize-39382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-tmc-mp-kalyan-banerjee-heckled-with-chor-chor-chants-at-kolkata-airport-loses-cool/articleshow/131612964.cms",
-    "time": "2026-06-09T13:53:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "BRICS agriculture meet begins in Indore; food security, climate-smart farming on agenda",
     "desc": "A five-day BRICS meeting commenced in Indore, focusing on food security, climate-resilient agriculture, and farmer welfare. Officials are deliberating on enhancing cooperation and jointly addressing challenges like climate change's impact and agricultural financing. The discussions aim to boost trade and technology exchange among member nations.",
@@ -403,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/brics-agriculture-meet-begins-in-indore-food-security-climate-smart-farming-on-agenda/articleshow/131612524.cms",
     "time": "2026-06-09T13:41:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Setback for Congress, Rajya Sabha nominee Meenakshi Natarajan's nomination rejected for hiding information about case",
-    "desc": "Meenakshi Natarajan, a Congress Rajya Sabha candidate from Madhya Pradesh, had her nomination rejected due to alleged concealment of a pending criminal case in Telangana from her affidavit. BJP candidate Mahesh Kewat filed the complaint, citing Supreme Court guidelines. Congress countered, stating a show-cause notice doesn't require affidavit mention and accusing the BJP of harassment.",
-    "img": "https://static.toiimg.com/photo/msid-131612630,imgsize-1367666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/setback-for-congress-rajya-sabha-nominee-meenakshi-natarajans-nomination-rejected-for-hiding-information-about-case/articleshow/131612648.cms",
-    "time": "2026-06-09T13:38:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED attaches Rs 100 cr worth properties in Jaypee, claims Gaur laundered them",
-    "desc": "In a significant crackdown on financial misconduct, the Enforcement Directorate has seized assets worth Rs 100 crore from two real estate firms, including Jaypee Infratech Ltd (JIL). Authorities accuse JIL and its leadership of misappropriating homebuyers' investments. Investigations have unveiled a staggering Rs 33,000 crore was diverted from the Jaypee Wish Town projects for purposes unrelated to construction.",
-    "img": "https://static.toiimg.com/photo/msid-131612612,imgsize-21284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ed-attaches-rs-100-cr-worth-properties-in-jaypee-claims-gaur-laundered-them/articleshow/131612477.cms",
-    "time": "2026-06-09T13:35:59.000Z"
   },
   {
     "cat": "Sports",
@@ -511,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/russian-crude-here-to-stay-why-india-us-energy-ties-may-be-more-about-lpg-lng-than-oil-despite-trumps-push/articleshow/131610817.cms",
     "time": "2026-06-09T12:36:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Love quote of the day by Taylor Swift",
-    "desc": "Taylor Swift's new song for 'Toy Story 5' and her rumored wedding to Travis Kelce are making headlines. Swift described Kelce's bold approach to dating her as a dream come true, reminiscent of an '80s movie. Their relationship timeline highlights key moments, from his initial admiration to their engagement.",
-    "img": "https://static.toiimg.com/photo/msid-131611137,imgsize-43686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/love-quote-of-the-day-by-taylor-swift-if-this-guys-not-crazy-this-is-sort-of-what-ive-been-writing-songs-about-wanting-to-happen-to-me-relationship-insight-by-the-i-knew-it-i-knew-you-singer-with-travis-kelce/articleshow/131611168.cms",
-    "time": "2026-06-09T12:31:21.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
     "time": "2026-06-05T06:48:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SpaceX’s IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
+    "desc": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world’s first trillionaire",
+    "img": "https://th-i.thgim.com/public/incoming/f81bpf/article71058601.ece/alternates/LANDSCAPE_1200/2026-06-03T202449Z_1406795198_RC2TFCA4ZIEX_RTRMADP_3_SPACEX-IPO-PRICING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/spacexs-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire/article71058600.ece",
+    "time": "2026-06-03T21:24:59.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Apple agrees to submit India financials in long-pending antitrust case",
+    "desc": "Apple has long ‌argued the case should be paused because it is separately seeking to quash India’s new antitrust penalty law that empowers the CCI to penalise companies on the basis of their global, not just Indian, turnover",
+    "img": "https://th-i.thgim.com/public/incoming/l1xy6v/article71058443.ece/alternates/LANDSCAPE_1200/2026-05-14T175409Z_1379866145_RC2P3EA3217N_RTRMADP_3_APPLE-OPENAI-LEGAL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/apple-agrees-to-submit-india-financials-in-long-pending-antitrust-case/article71058383.ece",
+    "time": "2026-06-03T17:30:58.000Z"
   }
 ];
