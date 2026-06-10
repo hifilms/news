@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "રાજ્યસભા ચૂંટણી બાદ થશે ધરખમ ફેરફાર? મોદી કેબિનેટમાંથી અનેક મંત્રી થઈ શકે બહાર, શું છે પ્લાન?",
+    "desc": "એક બાજુ રાજ્યસભા ચૂંટણી નજીક છે ત્યાં કેન્દ્રીય કેબિનેટમાંથી અનેક મંત્રીઓ બહાર થઈ શકે છે તેવી પણ અટકળો હવે તેજ થઈ છે. બીજી બાજુ ભાજપના નવા રાષ્ટ્રીય અધ્યક્ષની ટીમની પણ જાહેરાત આ મહિને થાય તેવી શક્યતા છે. સૂત્રો મુજબ સરકારી પદો પર બિરાજમાન કેટલાક નેતાઓને પાર્ટી સંગઠનમાં જવાબદારી મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-rajya-sabha-election-speculations-of-changes-in-modi-cabinet-481010 ",
+    "time": "2026-06-10T03:13:03.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "&amp;#039;ક્રિકેટનું મક્કા&amp;#039; લોર્ડ્સ પર પહેલીવાર લાગ્યો આ દાઘ! પાકિસ્તાનના સ્ટેડિયમ પર પણ ચાલ્યું ICCનું હંટર, જાણો સમગ્ર મામલો",
     "desc": "લોર્ડ્સ ઉપરાંત ICCએ પાકિસ્તાનના લાહોર સ્થિત ગદ્દાફી સ્ટેડિયમ પર પણ કડક કાર્યવાહી કરી છે. મેચ રેફરીના રિપોર્ટ બાદ આ બન્ને પીચોને ICCએ 'અસંતોષકારક' ગણાવી છે અને 1-1 ડિમેરિટ પોઇન્ટ આપ્યો છે. નોંધનીય છે કે, ક્રિકેટના ઇતિહાસમાં લોર્ડ્સની પીચ પર પહેલીવાર આવો દાગ લાગ્યો છે.",
@@ -367,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/companies-are-selling-cooking-gas-worth-1600-for-942-incurring-a-loss-of-700-on-every-cylinder-480700 ",
     "time": "2026-06-07T08:53:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "તેલ કંપનીઓ ગ્રાહકો સાથે નહિ કરી શકે ચીટિંગ, ચોક્કસ માપમાં વેચાશે સિંગતેલ-કપાસિયા તેલ",
-    "desc": "સિંગતેલ, કપાસિયા તેલ જેવા ખાદ્યતેલના વેચાણ માટે કડક નિયમો લાગુ કરવામા આવ્યા છે. હવેથી નિયત માપદંડના પેકેટમાં જ ખાદ્યતેલ વેચવામા આવશે. ગ્રાહકોના હિતમાં કેન્દ્ર સરકારે ખાદ્યતેલના વેચાણ માટે ચોકક્સ માપ તૈયાર કર્યા છે, હવે એ જ મુજબ ખાદ્યતેલ વેચાશે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/oil-companies-will-not-be-able-to-cheat-with-customers-singtel-cottonseed-oil-sold-in-specific-quantities-480698 ",
-    "time": "2026-06-07T07:50:59.000Z"
   },
   {
     "cat": "Entertainment",

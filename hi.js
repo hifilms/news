@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What exactly happened in 'Chelsea's naughtiest nightclub' on Sunday night?",
+    "desc": "Fresh details have surfaced about the nightclub incident involving England captain Ben Stokes and ace pacer Gus Atkinson. As investigations continue, reports have provided a clearer picture of the all-rounder’s movements before the altercation that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-controversy-what-exactly-happened-in-chelsea-s-naughtiest-nightclub-on-sunday-night-2026-06-10-1044265",
+    "time": "2026-06-10T02:22:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Atletico laugh and mock Real Madrid after rejecting 1650.71 crore offer for Julian Alvarez",
+    "desc": "Real Madrid's first major move after Florentino Perez secured another term as club president has ended in rejection, with Atletico Madrid refusing a substantial bid for Julian Alvarez. Perez had indicated before the election that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/atletico-laugh-and-mock-real-madrid-after-rejecting-1650-71-crore-offer-for-julian-alvarez-2026-06-10-1044260",
+    "time": "2026-06-10T01:41:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes at crossroads, set to hold meetings on Wednesday as international retirement remains on table",
+    "desc": "Ben Stokes is set for a pivotal meeting on Wednesday as questions continue to swirl around his future in international cricket. The England Test captain will sit down with his advisers to consider his next...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-at-crossroads-set-to-hold-meetings-on-wednesday-as-international-retirement-remains-on-table-2026-06-10-1044256",
+    "time": "2026-06-10T01:17:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India-W vs England-W T20 World Cup warm up match live streaming: When and where to watch clash?",
     "desc": "Indian women are all set to meet England women in their second and last warm-up match ahead of the Women's T20 World Cup 2026 on Wednesday, June 10. The Women in Blue won their previous...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/can-india-win-their-first-ever-womens-t20-world-cup-australia-conqueror-opines-2026-06-09-1044204",
     "time": "2026-06-09T12:10:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is the nightclub incident involving Ben Stokes and Atkinson which could lead to captain's resignation?",
-    "desc": "Ben Stokes and Gus Atkinson find themselves in choppy waters after another nightclub incident marred the England and Wales Cricket Board and put Stokes' Test captaincy in doubt. Just seven months after Harry Brook was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-is-the-nightclub-incident-involving-ben-stokes-and-atkinson-which-could-lead-to-captains-resignation-2026-06-09-1044195",
-    "time": "2026-06-09T11:30:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New No.1 all-rounder crowned ahead of Women's T20 World Cup 2026; Harmanpreet Kaur storms into top 10",
-    "desc": "New Zealand captain Amelia Kerr stormed back to the top spot in the Women's T20I all-rounders rankings as per the last weekly update ahead of the Women's T20 World Cup 2026 that commences on June...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-no-1-all-rounder-crowned-ahead-of-womens-t20-world-cup-2026-harmanpreet-kaur-storms-into-top-10-2026-06-09-1044187",
-    "time": "2026-06-09T10:40:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star pacer replaced Mohammed Siraj in India's T20I squad for Ireland, England tour; Check details",
-    "desc": "The Indian team is all set to tour Ireland and England for a multi-format white-ball series. It is worth noting that India will face Ireland across two T20I matches, whereas India and England will take...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-pacer-replaced-mohammed-siraj-in-india-s-t20i-squad-for-ireland-england-tour-check-details-2026-06-09-1044169",
-    "time": "2026-06-09T08:49:40.000Z"
   }
 ];
