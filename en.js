@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "a relationship that ebbed and flowed",
+    "desc": "Recalling the difficult days in a conversation with The Hindu in 2018, Ilaiyaraaja had said that in 1968, he, his brothers and a few friends boarded a bus to Chennai in search of a career in the film industry. The journey was anything but easy.",
+    "img": "https://th-i.thgim.com/public/incoming/hgn5dg/article71084266.ece/alternates/LANDSCAPE_1200/ilyaraja-bharthiraja-2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/the-early-years-when-bharathiraja-and-ilaiyaraaja-struggled-to-eke-a-living/article71083986.ece",
+    "time": "2026-06-10T20:12:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress to move Supreme Court against rejection of Meenakshi Natarajan’s Rajya Sabha nomination",
+    "desc": "Senior leaders Abhishek Manu Singhvi, who led the party’s legal arguments before the Election Commission, said the Congress had demonstrated that the Returning Officer’s decision was legally untenable and urged the ECI to reverse the decision",
+    "img": "https://th-i.thgim.com/public/incoming/3nqcoi/article71084728.ece/alternates/LANDSCAPE_1200/20260610107L_Og4CHxA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-calls-returning-officers-order-on-meenakshi-natarajans-rs-nomination-egregious/article71084606.ece",
+    "time": "2026-06-10T19:45:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunaina recalls crash dieting led to tuberculosis meningitis",
+    "desc": "Sunaina Roshan, sister of Bollywood star Hrithik Roshan, has opened up about a life-threatening health crisis she suffered after following a crash diet in 2001. In a recent social media video, Sunaina revealed that her obsession with rapid weight loss weakened her immunity and led to tuberculosis meningitis, a condition that left her family fearing for her life.",
+    "img": "https://static.toiimg.com/photo/msid-131643116,imgsize-111716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshans-sister-sunaina-recalls-crash-dieting-led-to-tuberculosis-meningitis-parents-rakesh-roshan-pinkie-roshan-react/articleshow/131643086.cms",
+    "time": "2026-06-10T18:51:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India summons U.S. Deputy Chief of Mission after second ship attack in three days leaves three Indian sailors missing",
+    "desc": "The strike on Settebello off the coast of Oman prompted the MEA to call for “immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region”.",
+    "img": "https://th-i.thgim.com/public/incoming/a1awa9/article71086488.ece/alternates/LANDSCAPE_1200/PTI06_09_2026_000293B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-summons-us-deputy-chief-of-mission-after-second-ship-attack-in-three-days-leaves-three-indian-sailors-missing/article71086208.ece",
+    "time": "2026-06-10T18:45:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Women’s T20 World Cup",
+    "desc": "The Women in Blue may have lost their last two T20I series, in South Africa and England, but not so long ago, they had triumphed in Australia and crushed Sri Lanka 5-0; no one will doubt their class, especially in batting.",
+    "img": "https://th-i.thgim.com/public/incoming/r2b37p/article71086404.ece/alternates/LANDSCAPE_1200/India%20womens%20cricket%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/womens-t20-world-cup-can-india-go-to-uncharted-territory/article71086396.ece",
+    "time": "2026-06-10T18:18:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIIMS recalls two syringe batches over quality concerns in a single month; probe sought",
+    "desc": "In a letter written to Union Health Minister J.P. Nadda, Member of Rajya Sabha Haris Beeran said that in the past month, two separate recall notices were issued within a span of three weeks for disposable 10 ml syringes with needles supplied by different manufacturers",
+    "img": "https://th-i.thgim.com/public/news/3msy1t/article71086415.ece/alternates/LANDSCAPE_1200/iStock-1440268267.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/aiims-recalls-two-syringe-batches-over-quality-concerns-in-a-single-month-probe-sought/article71085320.ece",
+    "time": "2026-06-10T17:55:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI windfall for the public? Trump signals shake-up for tech giants",
+    "desc": "US President Trump is pushing for major AI firms to \"give back\" to the public, potentially through government stakes or benefit mechanisms. He plans to meet top tech executives soon to discuss this proposal, aiming to enrich citizens and boost AI's popularity. Discussions about a \"Public Wealth Fund\" model, distributing AI investment returns, are reportedly already underway.",
+    "img": "https://static.toiimg.com/photo/msid-131641683,imgsize-1151269.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/ai-windfall-for-the-public-donald-trump-signals-shake-up-for-tech-giants/articleshow/131641427.cms",
+    "time": "2026-06-10T17:54:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too",
+    "desc": "NATO member Turkey has been one of the fiercest critics of Israel’s assaults on Iran, Gaza, ‌and Lebanon, saying Israel was the biggest obstacle to regional peace. It has halted ‌all trade with Israel and called for measures ‌against ⁠it at international courts",
+    "img": "https://th-i.thgim.com/public/incoming/hy33ga/article71086383.ece/alternates/LANDSCAPE_1200/2026-04-29T114514Z_469281591_RC23RKAJR2F5_RTRMADP_3_TURKEY-KURDS-POLITICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/erdogan-says-israels-attacks-on-syria-lebanon-threaten-turkey-too/article71086269.ece",
+    "time": "2026-06-10T17:40:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'A great one he is': Trump wishes Modi on record tenure; PM pitches stronger India-US ties",
+    "desc": "US President Donald Trump congratulated Prime Minister Narendra Modi on becoming India's longest-serving elected Prime Minister. Trump described Modi as a \"strong, healthy, and wise man\" and predicted many years of \"greatness and success\" for him.",
+    "img": "https://static.toiimg.com/photo/msid-131641322,imgsize-818747.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/a-great-one-he-is-trump-congratulates-friend-pm-modi-on-record-tenure/articleshow/131641303.cms",
+    "time": "2026-06-10T17:36:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans spot similarities with La Femme Nikita",
+    "desc": "The teaser of Alpha, starring Alia Bhatt and Sharvari, was unveiled on Wednesday and quickly became a talking point on social media. While many fans praised the action-packed glimpse into YRF's first female-led spy thriller, others accused the makers of borrowing scenes and ideas from international films, including the French classic La Femme Nikita and American Sniper.",
+    "img": "https://static.toiimg.com/photo/msid-131641187,imgsize-59232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-bobby-deols-alpha-teaser-faces-plagiarism-allegations-fans-spot-similarities-with-la-femme-nikita-and-american-sniper/articleshow/131641115.cms",
+    "time": "2026-06-10T17:29:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets dumped India for AI stars. BlackRock says that’s a mistake",
+    "desc": "BlackRock believes India's equity market is unfairly penalized for its limited direct AI exposure and oil price sensitivity. Despite record foreign outflows and a challenging macro environment, the asset manager remains constructive on India's medium- to long-term prospects, citing strong demographics, infrastructure, and financial sector strength. They see potential for indirect AI-related opportunities and favor sectors like financials.",
+    "img": "https://static.toiimg.com/photo/msid-131641049,imgsize-78562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/markets-dumped-india-for-ai-stars-blackrock-says-thats-a-mistake/articleshow/131640769.cms",
+    "time": "2026-06-10T17:22:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress moves EC over Natarajan disqualification, keeps SC option ready",
+    "desc": "The Congress is preparing to file a petition with the Election Commission and potentially move the Supreme Court after Meenakshi Natarajan's Rajya Sabha nomination from Madhya Pradesh was rejected. The party argues the rejection is unlawful, stemming from alleged non-disclosure of a Telangana case in her affidavit. This rejection significantly impacts the Rajya Sabha seat allocation in Madhya Pradesh.",
+    "img": "https://static.toiimg.com/photo/msid-131640889,imgsize-64576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mp-rajya-sabha-polls-congress-moves-ec-over-natarajan-disqualification-keeps-sc-option-ready/articleshow/131640896.cms",
+    "time": "2026-06-10T17:14:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bodies of 6 Naga men recovered in Manipur; Naga body calls for shutdown, demands removal of Deputy CM",
+    "desc": "Manipur Director General of Police (DGP) Mukesh Singh told The Hindu that after hectic efforts of nearly 24 hours, the mortal remains of the six missing men were located in Kangpokpi district; the deceased are believed to be among those taken hostage from Leilon Vaiphei village on May 13",
+    "img": "https://th-i.thgim.com/public/incoming/ou1vyz/article71086337.ece/alternates/LANDSCAPE_1200/2026-05-25T094128Z_1328331400_RC29GLA88AUL_RTRMADP_3_INDIA-MANIPUR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bodies-of-6-naga-men-recovered-in-manipur-naga-body-calls-for-shutdown-demands-removal-of-deputy-cm/article71086277.ece",
+    "time": "2026-06-10T17:14:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who will win the 2026 FIFA World Cup? Bold prediction stuns football fans",
+    "desc": "Artificial intelligence has predicted Spain as the favorites to win the 2026 FIFA World Cup, with a 14.5% chance. England and France follow closely behind. The AI model analysed team performance, player quality, and betting odds, simulating the tournament 100,000 times to determine probabilities.",
+    "img": "https://static.toiimg.com/photo/msid-131640676,imgsize-198964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/who-will-win-the-2026-fifa-world-cup-bold-prediction-stuns-football-fans/articleshow/131640610.cms",
+    "time": "2026-06-10T17:04:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why Census 2027 matters for development, democracy and representation",
+    "desc": "Census 2027, the world’s largest count of people within a national geography, is an overdue exercise with far-reaching implications; an accurate and comprehensive count will ensure that no one is left behind and that policies, entitlements, and resources are guided by reliable data",
+    "img": "https://th-i.thgim.com/public/incoming/kw8wce/article71078098.ece/alternates/LANDSCAPE_1200/CENSUS%20DELHI%202026_29_05_14.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-census-2027-matters-for-development-democracy-and-representation/article71076610.ece",
+    "time": "2026-06-10T16:46:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat beats SRK, PC to become India's most valuable celebrity",
+    "desc": "Cricket star Virat Kohli has been named India's most valuable celebrity in the first-ever Fortune India-Interbrand Most Valuable Celebrities list. Kohli tops the rankings with a brand value of Rs 3,542 crore. The top 10 most valuable celebrities on the list are Virat Kohli, Shah Rukh Khan, Priyanka Chopra Jonas, MS Dhoni, Ranveer Singh, Akshay Kumar, Amitabh Bachchan, Sachin Tendulkar, Alia Bhatt and Allu Arjun.",
+    "img": "https://static.toiimg.com/photo/msid-131640110,imgsize-64978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-beats-shah-rukh-khan-priyanka-chopra-to-become-indias-most-valuable-celebrity-with-rs-3542-crore-brand-value-see-who-made-the-top-10/articleshow/131639945.cms",
+    "time": "2026-06-10T16:43:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Decoding SIR impact in West Bengal",
+    "desc": "The post-SIR polls in West Bengal saw the BJP secure a decisive victory, with AITC chief Mamata Banerjee alleging electoral manipulation. Large-scale deletions and opaque additions of electors during the SIR had a major impact on the rolls’ demographic composition; and appears to have influenced the results alongside anti-incumbency and communal polarisation",
+    "img": "https://th-i.thgim.com/public/incoming/e2l2dd/article71007912.ece/alternates/LANDSCAPE_1200/PTI04_06_2026_000057B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/decoding-sir-impact-in-west-bengal/article71007868.ece",
+    "time": "2026-06-10T16:40:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EAC-PM recommends targeted splitting of seats for delimitation, shows model allowing 50% rise for all large States",
+    "desc": "The advisory council says it assembled a dataset on elections to LS seats from 2009 to 2024 to estimate a ‘statistical relationship’ between voter turnout, constituency size, and five compositional features of the constituency; the model results in increasing the size of the Lok Sabha to 824 seats and it is broadly in line with what the Centre had suggested in April, when it brought the Delimitation-related Bills but failed to pass them in Parliament",
+    "img": "https://th-i.thgim.com/public/news/national/zdsraa/article70870751.ece/alternates/LANDSCAPE_1200/Delimitation.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/eac-pm-recommends-targeted-splitting-of-seats-for-delimitation-shows-model-allowing-50-rise-for-all-large-states/article71086016.ece",
+    "time": "2026-06-10T16:31:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "W.B. Congress chief",
+    "desc": "He was responding to speculation that TMC chief Mamata Banerjee may return to the Congress; rebel TMC MLA and Leader of Opposition in the State Assembly Ritabrata Banerjee insists rebels are not merging with Congress",
+    "img": "https://th-i.thgim.com/public/incoming/pqqe93/article71086216.ece/alternates/LANDSCAPE_1200/PTI05_22_2026_000139B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/anyone-who-wants-to-see-rahul-as-pm-can-join-congress-wb-congress-chief/article71085856.ece",
+    "time": "2026-06-10T16:22:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government summons top US diplomat over Oman ship attack that left 3 Indians missing",
+    "desc": "India summoned a US diplomat to protest the attack on the commercial vessel Settebello off Oman's coast, which carried 24 Indian crew. While 21 have been rescued, three remain missing. New Delhi is urging de-escalation and the restoration of safe navigation in international waters following the incident.",
+    "img": "https://static.toiimg.com/photo/msid-131641140,imgsize-698277.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-summons-top-us-diplomat-over-oman-ship-attack-that-left-3-indians-missing/articleshow/131639643.cms",
+    "time": "2026-06-10T16:17:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. and Iran exchange strikes in major escalation",
+    "desc": "From Iran’s retaliation against U.S. military facilities and escalating tensions in West Asia to the Congress’s battle over Meenakshi Natarajan’s Rajya Sabha nomination, fresh turmoil within the TMC, Mamata Banerjee’s meeting with Sonia Gandhi - Top stories of the day.",
+    "img": "https://th-i.thgim.com/public/incoming/d9ccu5/article71086108.ece/alternates/LANDSCAPE_1200/June%2010%20THUMB.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-us-and-iran-exchange-strikes-in-major-escalation-above-the-fold-10062026/article71086161.ece",
+    "time": "2026-06-10T16:07:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ignored him during flops, now want Rs 45 crore after Dhurandhar'",
+    "desc": "Punjabi actor-singer Ammy Virk has come out in support of Ranveer Singh amid the ongoing controversy surrounding the actor's exit from Don 3. Speaking about the dispute between Ranveer and Excel Entertainment, Ammy questioned the timing of the producers' actions and suggested that the actor should not be asked to pay the reported Rs 45 crore compensation.",
+    "img": "https://static.toiimg.com/photo/msid-131638923,imgsize-59398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ammy-virk-backs-ranveer-singh-in-don-3-row-they-ignored-him-during-flops-now-want-rs-45-crore-after-dhurandhar-success/articleshow/131638796.cms",
+    "time": "2026-06-10T15:34:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3 Indians missing, 21 rescued after vessel attacked off Oman; MEA condemns incident",
+    "desc": "India's External Affairs Ministry has condemned an attack on the commercial vessel Settebello off Oman's coast, with 21 of 24 Indian crew rescued and three still missing. The Palau-flagged tanker reported an engine room fire. This follows a similar incident last week where 24 Indian sailors aboard the \"Marivex\" were rescued by the Omani military.",
+    "img": "https://static.toiimg.com/photo/msid-131638805,imgsize-330313.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/3-indians-missing-21-rescued-after-vessel-attacked-off-oman-mea-condemns-incident/articleshow/131638784.cms",
+    "time": "2026-06-10T15:25:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street mixed as tech stocks slide, Iran tensions weigh on sentiment",
+    "desc": "Indian markets mirrored global trends with a mixed opening as tech stocks faced renewed selling pressure. Investors are also wary of escalating Middle East tensions and the possibility of prolonged high interest rates. Inflation data, while meeting expectations, added to concerns, while oil prices climbed amid supply worries. Global markets also saw declines.",
+    "img": "https://static.toiimg.com/photo/msid-131638797,imgsize-1403652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-june-10-2026-wall-street-mixed-as-tech-stocks-slide-iran-tensions-weigh-on-sentiment/articleshow/131638698.cms",
+    "time": "2026-06-10T15:25:02.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Top 5 South stories of the day",
     "desc": "The South film industry mourns the loss of legendary filmmaker Bharathiraja. Meanwhile, the Singappenn task force draws parallels with Vijay's 'Bigil', and the Madras High Court sets a deadline in the Ravi Mohan–Aarti divorce case. Akhil Akkineni lauded Ram Charan's performance, and actors Sneha and Prasanna met CM Vijay.",
@@ -7,33 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/bharathirajas-demise-ravi-mohanaarti-divorce-case-sneha-meeting-vijay-top-5-south-stories-of-the-day/articleshow/131638711.cms",
     "time": "2026-06-10T15:18:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC uses special powers to set aside POCSO conviction to let couple live ‘peacefully’ as spouses",
-    "desc": "Victim married the convict when she became an adult and wished to continue the relationship; top court cautions that relief was granted due to the peculiar facts of this case and will not operate as a precedent",
-    "img": "https://th-i.thgim.com/public/incoming/8nl8c8/article71083996.ece/alternates/LANDSCAPE_1200/Supreme-Court-sG21FK23VG.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-quashes-pocso-case-against-man-using-extraordinary-power/article71083923.ece",
-    "time": "2026-06-10T15:09:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nehru’s achievements and contributions incomparable, says Sharad Pawar",
-    "desc": "While congratulating Prime Minister Narendra Modi becoming the country’s longest-serving elected PM, the NCP(SP) leader said that the milestone of completing 12 years in office cannot be ignored and that the emphasis appears to be on PM having surpassed Jawaharlal Nehru’s record",
-    "img": "https://th-i.thgim.com/public/incoming/jnersf/article71085723.ece/alternates/LANDSCAPE_1200/PTI06_10_2026_000178B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/mumbai/nehrus-achievements-and-contributions-incomparable-says-sharad-pawar/article71084754.ece",
-    "time": "2026-06-10T15:06:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FL2 clubs must serve liquor only to ID card-holding members and guests, says T.N. govt.",
-    "desc": "According to the Commissioner of Prohibition and Excise, specific directions have been issued to all FL2 and FL3 licensed bars and clubs under the provisions of the Tamil Nadu Liquor (Licence and Permit) Rules, 1981.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/fl2-clubs-must-serve-liquor-only-to-id-card-holding-members-and-guests-says-tn-govt/article71085345.ece",
-    "time": "2026-06-10T15:02:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,6 +261,24 @@ const newsData_en = [
     "time": "2026-06-10T14:35:34.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Flicks, pulls and drives on show as Rohit Sharma hits stride in nets",
+    "desc": "Rohit Sharma looked in fine touch during India’s optional training session in Mohali, a day after receiving CoE clearance. The veteran opener spent over an hour in the nets, while Shreyas Iyer also impressed ahead of the ODI series against Afghanistan.",
+    "img": "https://static.toiimg.com/photo/msid-131640015,imgsize-41798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/flicks-pulls-and-drives-on-show-as-rohit-sharma-hits-stride-in-nets-india-gear-up-for-afghanistan-odi-series/articleshow/131637877.cms",
+    "time": "2026-06-10T14:33:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'This is a collective yagya': Modi on becoming longest serving elected PM",
+    "desc": "Prime Minister Narendra Modi marked becoming India's longest-serving elected Prime Minister by calling his tenure a \"collective yagya\" and expressing gratitude to the people. He highlighted the nation's shift towards political stability and rapid development under NDA rule, contrasting it with the \"Congress Growth Rate\" of the past. Modi emphasized the government's commitment to realizing the dream of a 'Viksit Bharat' for all citizens.",
+    "img": "https://static.toiimg.com/photo/msid-131637920,imgsize-460857.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/this-is-a-collective-yagya-modi-on-becoming-longest-serving-elected-pm-top-quotes/articleshow/131637922.cms",
+    "time": "2026-06-10T14:31:26.000Z"
+  },
+  {
     "cat": "World",
     "title": "Knife attack victim’s family calls for calm after anti-immigrant violence in Belfast",
     "desc": "The appeal came as a Sudanese man appeared in court charged with ⁠attempted murder, and as British Prime Minister Keir Starmer and politicians in Northern Ireland condemned the violence by “masked thugs” that had targeted ethnic minorities",
@@ -79,24 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/knife-attack-victims-family-calls-for-calm-after-anti-immigrant-violence-in-belfast/article71085318.ece",
     "time": "2026-06-10T14:23:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Special reserve force to monitor wild elephant movement in conflict hotspots in Kerala",
-    "desc": "The primary objective of the force will include continuous monitoring of elephant movement and their migratory paths, ensuring public safety by issuing timely warnings, and regularly inspecting the effectiveness of wildlife prevention systems including solar fencing",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/special-reserve-force-to-monitor-wild-elephant-movement-in-conflict-hotspots/article71085190.ece",
-    "time": "2026-06-10T14:21:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Youth urged to drive rural development at SVU convocation",
-    "desc": "Participating in the convocation at Sri Venkateswara University (SVU), Principal Scientific Adviser to Government of India advises youth to take a plunge in IoT-enabled agricultural tools, digital platforms for financial inclusion, robotics, smart manufacturing, logistics by focusing on interdisciplinary collaboration",
-    "img": "https://th-i.thgim.com/public/incoming/b7bb4c/article71085506.ece/alternates/LANDSCAPE_1200/10745_10_6_2026_14_5_21_1_10062026SVU.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/youth-urged-to-drive-rural-development-at-svu-convocation/article71084878.ece",
-    "time": "2026-06-10T14:20:23.000Z"
   },
   {
     "cat": "Politics",
@@ -162,13 +351,13 @@ const newsData_en = [
     "time": "2026-06-10T13:27:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump says Iran has taken too long to negotiate, will ‘pay the price’",
-    "desc": "“Iran ‌is all talk and no action,” Mr. Trump wrote in a social media post. “They’ve taken ‌too long to negotiate ​a deal that would have been great for ⁠them, now they will have to pay the price!!!”",
-    "img": "https://th-i.thgim.com/public/incoming/mhzyh8/article71084937.ece/alternates/LANDSCAPE_1200/2026-06-10T100409Z_1447606258_RC23QLAIDLX2_RTRMADP_3_USA-TRUMP-LAMEDUCK.JPG",
+    "cat": "Entertainment",
+    "title": "Strong heroines, mellow heroes, engaging stories and fierce social commentary define Bharathiraja’s repertoire",
+    "desc": "With fresh eyes, groomed on a rural story line in the lush surroundings of Theni in south Tamil Nadu, Bharathiraja decided he was done with the conventional tropes of the hero, the baddie, and a hanger-on heroine",
+    "img": "https://th-i.thgim.com/public/incoming/1t8kq8/article71085112.ece/alternates/LANDSCAPE_1200/Bharathiraja.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-says-iran-has-taken-too-long-to-negotiate-will-pay-the-price/article71084910.ece",
-    "time": "2026-06-10T13:23:45.000Z"
+    "url": "https://www.thehindu.com/entertainment/movies/strong-heroines-mellow-heroes-engaging-stories-and-fierce-social-commentary-define-bharathirajas-repertoire/article71085136.ece",
+    "time": "2026-06-10T13:24:32.000Z"
   },
   {
     "cat": "Politics",
@@ -178,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/from-farm-to-fork-rethinking-indias-cold-chain/articleshow/131633863.cms",
     "time": "2026-06-10T13:13:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Strong heroines, mellow heroes, engaging stories and fierce social commentary define Bharathiraja’s repertoire",
-    "desc": "With fresh eyes, groomed on a rural story line in the lush surroundings of Theni in south Tamil Nadu, Bharathiraja decided he was done with the conventional tropes of the hero, the baddie, and a hanger-on heroine",
-    "img": "https://th-i.thgim.com/public/incoming/1t8kq8/article71085112.ece/alternates/LANDSCAPE_1200/Bharathiraja.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/strong-heroines-mellow-heroes-engaging-stories-and-fierce-social-commentary-define-bharathirajas-repertoire/article71085136.ece",
-    "time": "2026-06-10T13:09:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-combat-dog-odin-face-danger-in-heart-of-the-beast-first-look/articleshow/131635584.cms",
     "time": "2026-06-10T12:35:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Chadwick Boseman",
-    "desc": "During his heartfelt acceptance speech at the NAACP Image Awards, the late Chadwick Boseman delivered a poignant message about gratitude that continues to inspire. He spoke of embracing life's hurdles as opportunities to grow and recognize the sweetness of triumph. Despite fighting cancer in silence while bringing iconic characters to life, Boseman demonstrated incredible fortitude.",
-    "img": "https://static.toiimg.com/photo/msid-131634058,imgsize-74182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-chadwick-boseman-thank-you-god-for-the-trials-and-tribulations-that-you-allow-us-to-go-through-so-we-can-appreciate-the-joy-that-comes-from-winning-a-lesson-on-gratitude-by-the-late-black-panther-star/articleshow/131633932.cms",
-    "time": "2026-06-10T12:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -379,15 +550,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Shah Rukh Khan praises Alia Bhatt, Bobby Deol in 'Alpha'",
-    "desc": "Celebrated Bollywood icon Shah Rukh Khan has showered praise on Alia Bhatt's riveting action persona showcased in the teaser of her much-anticipated spy thriller 'Alpha'. He commended her remarkable growth as an actress and highlighted Bobby Deol's formidable presence. Khan's heartfelt words, reminiscing about their collaboration in 'Dear Zindagi', have undoubtedly heightened excitement for Alia’s next venture.",
-    "img": "https://static.toiimg.com/photo/msid-131633984,imgsize-8510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-praises-alia-bhatts-alpha-teaser-gives-shout-out-to-bobby-deol-you-are-so-good-when-you-are-bad-/articleshow/131633984.cms",
-    "time": "2026-06-10T11:37:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Bharathiraja's challenge that ended in triumph",
     "desc": "Filmmaker Bharathiraja faced rejection early in his career. He was once pushed out of AVM Studios. This incident fueled his determination. He vowed to return as a respected director. Years later, Bharathiraja achieved his dream. He was invited back to direct for AVM Productions. His film 'Pudhumai Penn' was a success. This story highlights his remarkable comeback.",
     "img": "https://static.toiimg.com/photo/msid-131634018,imgsize-83222.cms",
@@ -414,15 +576,6 @@ const newsData_en = [
     "time": "2026-06-10T11:04:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TMC denies any discussion between leadership of both parties about merger with Congress at Rahul-Abhishek meeting",
-    "desc": "Trinamool Congress has dismissed merger speculation with Congress as rumour, stating no such discussion occurred during Rahul Gandhi and Abhishek Banerjee's meeting. The leaders focused on coordinating efforts within the INDIA bloc to counter the BJP in West Bengal and the 2029 Lok Sabha polls.",
-    "img": "https://static.toiimg.com/photo/msid-131633565,imgsize-960103.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-denies-any-discussion-between-leadership-of-both-parties-about-merger-with-congress-at-rahul-abhishek-meeting/articleshow/131632961.cms",
-    "time": "2026-06-10T11:04:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Athletes left waiting for National Sports Awards, ministry offers no explanation",
     "desc": "The concerns are not limited to former awardees. After the ministry announced the re-evaluation process, Asian Championships gold medallist decathlete Tejaswin Shankar, who has been recommended for the Arjuna Award, publicly criticised the delay. \"This delay is not just de-motivating to athletes and coaches but also a sign of disrespect,\" he posted on X in April.",
@@ -432,33 +585,6 @@ const newsData_en = [
     "time": "2026-06-10T10:59:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bobby talks about family's difficult financial phase",
-    "desc": "Bobby Deol opened up about his family's difficult financial struggles on Ranveer Allahbadia's podcast, saying Dharmendra felt the most pain. He credited 'Rocky Aur Rani Kii Prem Kahaani' as the turning point, and also praised Sunny Deol's incredible discipline and strong work ethic.",
-    "img": "https://static.toiimg.com/photo/msid-131633314,imgsize-24940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-talks-about-familys-difficult-financial-phase-and-dharmendras-pain-no-one-else-could-have-played-kanwal-randhawa/articleshow/131633314.cms",
-    "time": "2026-06-10T10:58:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After NHRC rap, UP orders action on costly private books in schools",
-    "desc": "Uttar Pradesh schools are now prohibited from forcing parents to buy books from private publishers or specific vendors, following a directive from the state government. This action stems from a National Human Rights Commission inquiry into allegations of a 'book mafia' exploiting parents.",
-    "img": "https://static.toiimg.com/photo/msid-131633286,imgsize-221433.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/after-nhrc-rap-up-orders-action-on-costly-private-books-in-schools/articleshow/131633060.cms",
-    "time": "2026-06-10T10:57:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Here's when and where will Bharathiraja's final rites be held",
-    "desc": "Tamil cinema mourns the loss of legendary director Bharathiraja, who passed away on June 10, 2026. His final rites will be held with state honors in his hometown of Theni on June 11. The Tamil film industry has suspended all shoots for the day to pay tribute to his immense contribution.",
-    "img": "https://static.toiimg.com/photo/msid-131633275,imgsize-102798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/exclusive-heres-when-and-where-will-bharathirajas-final-rites-be-held-tamil-film-industry-cancels-all-shoots-on-june-11/articleshow/131633216.cms",
-    "time": "2026-06-10T10:57:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Full performer lineup and halftime show details",
     "desc": "The 2026 FIFA World Cup is set to make history with a series of vibrant opening ceremonies across three co-host countries, kicking off on June 11 in Mexico City with performances by Grammy-winning band Mana and renowned artists like Shakira and J. Balvin.",
@@ -466,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-opening-ceremony-full-performer-lineup-halftime-show-details/article71084101.ece",
     "time": "2026-06-10T10:49:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'PM has unnatural obsession with Nehru': Congress takes jibe at PM Modi's 12 years in office",
-    "desc": "The Congress party has strongly criticized PM Modi's 12-year tenure, accusing the BJP of undermining democracy and historical legacy. Leaders allege institutional bias, citing a rejected nomination, and claim \"vote theft\" and manipulation. They contrast Modi's rule with Nehru's achievements, asserting a \"Murder of Democracy\" under his leadership, especially after the recent election results.",
-    "img": "https://static.toiimg.com/photo/msid-131632689,imgsize-29888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-has-unnatural-obsession-with-nehru-congress-takes-jibe-at-pm-modis-12-years-in-office/articleshow/131632488.cms",
-    "time": "2026-06-10T10:36:11.000Z"
   },
   {
     "cat": "Sports",
@@ -493,24 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/at-ashvitas-mimesis-by-thukral-tagra-reflects-on-data-memory-surveillance-and-the-digital-selves-we-leave-behind/article71079945.ece",
     "time": "2026-06-10T10:25:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Merger rumours swirl after Congress-TMC huddles; Trinamool says 'not happening'",
-    "desc": "Trinamool Congress has officially denied any merger talks with Congress, dismissing recent speculation as baseless rumors. This comes after meetings between Mamata Banerjee and Sonia Gandhi, and Abhishek Banerjee and Rahul Gandhi. Sources confirm discussions focused on opposition unity and strategy against the BJP, not a party merger.",
-    "img": "https://static.toiimg.com/photo/msid-131631996,imgsize-52318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/merger-rumours-swirl-after-congress-tmc-huddles-trinamool-says-not-happening/articleshow/131631950.cms",
-    "time": "2026-06-10T10:06:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Inclusive human development for Viksit Bharat’: PM Modi to chair Niti Aayog Governing Council meeting on June 11",
-    "desc": "Prime Minister Modi will lead the 11th NITI Aayog Governing Council meeting, focusing on \"Inclusive Human Development for Viksit Bharat @2047.\" Chief ministers and officials will discuss strategies for foundational human capital, employment, health, and equity.",
-    "img": "https://static.toiimg.com/photo/msid-131631356,imgsize-869629.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/inclusive-human-development-for-viksit-bharat-pm-modi-to-chair-niti-aayog-governing-council-meeting-on-june-11/articleshow/131631257.cms",
-    "time": "2026-06-10T09:51:13.000Z"
   },
   {
     "cat": "Sports",
@@ -547,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/chinese-investors-blocked-from-spacex-ipo-how-they-are-finding-alternative-routes-to-gain-exposure/articleshow/131628696.cms",
     "time": "2026-06-10T08:27:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Egregious, blatantly unlawful': Congress challenges Rajya Sabha rejection of Meenakshi Natarajan",
-    "desc": "Congress has urged the Election Commission to reinstate Rajya Sabha candidate Meenakshi Natarajan's nomination from Madhya Pradesh, calling its rejection 'egregious' and 'blatantly unlawful'. The party argues that a Telangana court's notice on a private complaint does not constitute a criminal case requiring disclosure. This rejection significantly impacts the Rajya Sabha election dynamics in the state.",
-    "img": "https://static.toiimg.com/photo/msid-131633665,imgsize-1107671.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/egregious-blatantly-unlawful-congress-challenges-rajya-sabha-rejection-of-meenakshi-natarajan/articleshow/131629508.cms",
-    "time": "2026-06-10T08:17:00.000Z"
   },
   {
     "cat": "Sports",
@@ -628,33 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/the-kings-coronation/article71082343.ece",
     "time": "2026-06-10T05:23:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Need urgent help': Praggnanandhaa's teammate hit by visa issue ahead of World C'ships",
-    "desc": "Indian chess prodigy Pranesh Munirethinam faces uncertainty over his participation in the FIDE World Team Rapid and Blitz Championships in Hong Kong due to a pending visa. Coach RB Ramesh has sought urgent help to expedite the process. Pranesh is part of the ChessGurukul team led by R Praggnanandhaa and Vaishali Rameshbabu.",
-    "img": "https://static.toiimg.com/photo/msid-131625838,imgsize-66458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/need-urgent-help-r-praggnanandhaas-teammate-pranesh-hit-by-visa-issue-ahead-of-world-team-rapid-and-blitz-chess-championships/articleshow/131625798.cms",
-    "time": "2026-06-10T05:21:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No Babar Azam, Shaheen Afridi as Pakistan name squad for Asiad 2026",
-    "desc": "Pakistan has named Sahibzada Farhan as captain for the 2026 Asian Games cricket tournament, leading a youthful, experimental squad. Several uncapped players feature, with Abdul Samad as vice-captain. This selection marks Farhan's first white-ball captaincy. Notably, established stars like Babar Azam and Shaheen Afridi are absent from the 15-member team.",
-    "img": "https://static.toiimg.com/photo/msid-131625704,imgsize-105794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-babar-azam-shaheen-afridi-as-pakistan-name-squad-for-asian-games-2026/articleshow/131625700.cms",
-    "time": "2026-06-10T05:11:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Messi silences injury concerns with stunning penalty in Argentina's 3-0 win",
-    "desc": "Lionel Messi eased fitness concerns ahead of the FIFA World Cup 2026 by scoring shortly after coming off the bench in Argentina's 3-0 win over Iceland. Returning from a hamstring injury, the captain converted a penalty just two minutes after entering the match. The victory boosted confidence as Argentina prepare to defend their World Cup title, with Messi set for his sixth tournament.",
-    "img": "https://static.toiimg.com/photo/msid-131625531,imgsize-43896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/watch-lionel-messi-silences-injury-concerns-with-stunning-penalty-in-argentinas-3-0-win-vs-iceland/articleshow/131624749.cms",
-    "time": "2026-06-10T04:57:23.000Z"
   },
   {
     "cat": "Sports",
@@ -828,15 +891,6 @@ const newsData_en = [
     "time": "2026-06-08T12:21:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "the ultimate meme king",
-    "desc": "For three years after winning the National Award in 2011, the genial actor had stayed away from silver screen due to poor health. Yet he remained alive in public memory, thanks largely to memes that liberally drew on his image and witty dialogues, giving them a sharp satirical edge",
-    "img": "https://th-i.thgim.com/public/incoming/e0lzcb/article71071052.ece/alternates/LANDSCAPE_1200/Salim%20Kumar%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/salim-kumar-the-ultimate-meme-king/article71071025.ece",
-    "time": "2026-06-07T06:19:56.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why did Supreme Court back curbs on online gaming?",
     "desc": "What were the two sets of appeals concerning the regulation and taxation of online gaming platforms in front of the Court? What were the main objections raised by gaming companies against the GST levy? What are the likely consequences for India’s online gaming industry?",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/why-did-supreme-court-back-curbs-on-online-gaming-explained/article71070728.ece",
     "time": "2026-06-07T05:53:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How are organisations reckoning their AI addiction",
-    "desc": "Agentic AI tools are becoming an infrastructure cost that scales with every autonomous decision an agent makes. And organisations that do not implement usage controls, token budgets, and honest ROI benchmarks are not adopting AI, but are funding it",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/c8bina/article71059520.ece/alternates/LANDSCAPE_1200/5ca9e2fa-b2e9-499e-8653-d3ed8a906832.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/how-are-organisations-reckoning-their-ai-addiction/article71059523.ece",
-    "time": "2026-06-06T08:50:04.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The world’s first and only rotating boat lift",
-    "desc": "On May 24, 2002, the Falkirk Wheel was officially opened by Queen Elizabeth II as part of her Golden Jubilee celebrations. The world’s first and only rotating boat lift is an engineering feat of excellence that connects the Forth & Clyde and Union Canals in Scotland. A.S.Ganesh takes you on this waterway to tell you more about this unique wheel…",
-    "img": "https://th-i.thgim.com/public/incoming/p7u4uf/article70964997.ece/alternates/LANDSCAPE_1200/24istb%20Falkirk%20Wheel%204.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
-    "time": "2026-06-05T06:48:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "SpaceX’s IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
-    "desc": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world’s first trillionaire",
-    "img": "https://th-i.thgim.com/public/incoming/f81bpf/article71058601.ece/alternates/LANDSCAPE_1200/2026-06-03T202449Z_1406795198_RC2TFCA4ZIEX_RTRMADP_3_SPACEX-IPO-PRICING.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/spacexs-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire/article71058600.ece",
-    "time": "2026-06-03T21:24:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];

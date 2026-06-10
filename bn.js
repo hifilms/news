@@ -1,12 +1,12 @@
 const newsData_bn = [
   {
     "cat": "Politics",
-    "title": "নেহেরুর রেকর্ড ভেঙে দীর্ঘতম মেয়াদের নির্বাচিত প্রধানমন্ত্রী মোদী! এনডিএ-র ১২ বছর পূর্তির মঞ্চ থেকে কংগ্রেসকে তোপ",
-    "desc": "কেন্দ্রে এনডিএ (NDA) সরকারের ১২ বছর পূর্তি এবং ভারতের রাজনৈতিক ইতিহাসে এক নয়া নজির। এদিন দিল্লিতে আয়োজিত হল এনডিএ শরিকদের এক মেগা সম্মেলন (Conclave)। এই বিশেষ দিনেই ভারতের প্রথম প্রধানমন্ত্রী জওহরলাল নেহেরুর রেকর্ড ভেঙে দেশের ইতিহাসের দীর্ঘতম মেয়াদের ‘টানা নির্বাচিত প্রধানমন্ত্রী’ (Longest-serving continuously elected PM) হলেন নরেন্দ্র মোদী। ১৯৫২ সালের সাধারণ নির্বাচনের পর থেকে হিসাব করলে নেহেরু টানা নির্বাচিত প্রধানমন্ত্রী হিসেবে ৪,৩৯৮ দিন ক্ষমতায় ছিলেন। বুধবার ৪,৩৯৯ তম দিনে পা দিয়ে সেই রেকর্ড টপকে গেলেন মোদী।",
+    "title": "শুভেন্দুর শরণাপন্ন অভিষেক-ঘনিষ্ঠ সায়নী, ভূপেন্দ্র যাদবের বাড়িতে শুরু রুদ্ধদ্বার মেগা বৈঠক, দলবদলের জল্পনা তীব্র!",
+    "desc": "এনডিএ’র শরিক হতে চেয়ে সুর বদল যাদবপুরের তৃণমূল সাংসদ সায়নী ঘোষেরও! সূত্রের খবর, ‘বিদ্রোহী ব্লকে’ নাম লেখাচ্ছেন অভিষেক বন্দ্যোপাধ্যায়ের বিশ্বস্ত সেনাপতিও। তাৎপর্যপূর্ণ বিষয় হল, সদ্য মমতা বন্দ্য়োপাধ্যায় যে দলীয় কমিটি ঘোষণা করেছিলেন তাতে যুব তৃণমূল কংগ্রেসের সভানেত্রীর পদ পেয়েছিলেন এই সায়নীই।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/pm-modi-came-down-heavily-on-congress-saying-led-india-to-state-of-hopelessness-through-its-misrule-threw-india-into-abyss-of-corruption_657645.html ",
-    "time": "2026-06-10T15:19:23.000Z"
+    "url": " https://zeenews.india.com/bengali/nation/abhishek-aide-saayoni-ghosh-seeks-suvendus-help-high-voltage-closed-door-meeting-begins-at-bhupender-yadavs-residence_657651.html ",
+    "time": "2026-06-10T17:13:58.000Z"
   },
   {
     "cat": "Sports",
@@ -88,15 +88,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/suvendu-adhikari-at-satabdi-roy-house-in-delhi-along-with-tmc-rebel-mp-meeting_657333.html ",
     "time": "2026-06-08T15:21:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কোচিং সেন্টারের বাইরে তীব্র গোলাগুলি: বিতর্কের ত্রিমুখী আইনি সাঁড়াশি চাপে গ্রেফতারি মুখে বিখ্য়াত খান স্যার, উত্তাল দেশ",
-    "desc": "ঘটনার পর পরই খান স্যর প্রতিদ্বন্দ্বী কোচিং সেন্টার ‘জ্ঞান বিন্দু’-র পরিচালক রোশন আনন্দের বিরুদ্ধে হামলা ও গুলিচালনার অভিযোগ আনেন। তাঁর অভিযোগের ভিত্তিতে পটনা পুলিস রোশন আনন্দকে গ্রেফতারও করে। আনন্দ অবশ্য প্রথম থেকেই নিজেকে নির্দোষ দাবি করে আসছিলেন এবং তাঁর দাবি ছিল, খান স্যর তাঁকে ফাঁসানোর জন্য গভীর ষড়যন্ত্র করেছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/three-way-legal-trouble-for-khan-sir-patna-firing-case-2-crore-defamation-and-property-dispute-threaten-arrest_657330.html ",
-    "time": "2026-06-08T14:30:56.000Z"
   },
   {
     "cat": "World",
@@ -223,15 +214,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/30-indians-caught-driving-trucks-illegally-in-us-face-deportation_656296.html ",
     "time": "2026-06-02T11:34:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বলিউডে তুলকালাম, কেন ডেভিড ধাওয়ানের বিরুদ্ধে ৪০০ কোটির মামলা ঠুকলেন বাসু ভাগনানি?",
-    "desc": "পরিচালক ডেভিড ধাওয়ান এবং টিপস মিউজিকের বিরুদ্ধে ৪০০ কোটি টাকার মামলা করলেন প্রযোজক বাসু ভাগনানি। শর্ত না মানলে আরও ১০০ কোটির জরিমানা! বরুণ ধাওয়ানের আগামী ছবি 'হ্যায় জওয়ানি তো ইশক হোনা হ্যায়' কি তবে বড়সড় বিপাকে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/vashu-bhagnani-david-dhawan-tips-chunnari-chunnari-400-crore-lawsuit_655905.html ",
-    "time": "2026-05-29T15:02:42.000Z"
   },
   {
     "cat": "World",
