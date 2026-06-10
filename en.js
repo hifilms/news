@@ -1,6 +1,60 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Ishita and Vatsal reveal daughter Veda's face on her first birthday",
+    "desc": "Ishita Dutta and Vatsal Sheth have finally revealed the face of their daughter Veda as she celebrated her first birthday on Wednesday. The couple shared a series of heartwarming family photographs from the birthday celebrations, delighting fans who got their first clear glimpse of the little one.",
+    "img": "https://static.toiimg.com/photo/msid-131646420,imgsize-69464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ishita-dutta-and-vatsal-sheth-reveal-daughter-vedas-face-on-her-first-birthday-share-adorable-family-photos/articleshow/131646412.cms",
+    "time": "2026-06-10T22:40:08.000Z"
+  },
+  {
     "cat": "Politics",
+    "title": "Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM",
+    "desc": "The Congress alleged that Ms. Natarajan’s nomination was rejected as part of a “premeditated conspiracy” and all its 62 MLAs would call on President Droupadi Murmu in Delhi on Friday, June 12, to seek her intervention in the matter.",
+    "img": "https://th-i.thgim.com/public/incoming/g6fcp/article71086571.ece/alternates/LANDSCAPE_1200/20260610058L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+    "time": "2026-06-10T21:20:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ammy Virk says Ranveer and Deepika's daughter Dua brought him luck",
+    "desc": "Punjabi actor-singer Ammy Virk has credited Ranveer Singh and Deepika Padukone's daughter Dua for bringing good fortune into the actor's life, recalling an emotional conversation they had before the release of the first Dhurandhar film. Ammy revealed that he had another conversation with Ranveer before the release of the second Dhurandhar film, which also went on to become a major success.",
+    "img": "https://static.toiimg.com/photo/msid-131644271,imgsize-101584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ammy-virk-says-ranveer-singh-and-deepika-padukones-daughter-dua-brought-him-luck-he-told-me-he-had-invested-everything-in-dhurandhar/articleshow/131644268.cms",
+    "time": "2026-06-10T21:13:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mirwaiz expresses concern over deadly violence in PoK, calls for dialogue",
+    "desc": "“It is the responsibility of those in authority (in PoK) to listen, engage and peacefully resolve the matter, rather than allow it to escalate into violence, arbitrary arrests and loss of life,” said the Mirwaiz.",
+    "img": "https://th-i.thgim.com/public/incoming/webxe4/article71086566.ece/alternates/LANDSCAPE_1200/PTI05_22_2026_000285B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mirwaiz-expresses-concern-over-deadly-violence-in-pok-calls-for-dialogue/article71085961.ece",
+    "time": "2026-06-10T20:52:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Seema Sajdeh reacts to getting back with Sohail Khan after divorce",
+    "desc": "Reality star and entrepreneur Seema Sajdeh has finally reacted to the buzz surrounding her recent appearance with former husband Sohail Khan at a wedding in Pune. The sighting sparked speculation on social media, with many wondering if the former couple was considering getting back together. Seema dismissed the assumptions and explained that her relationship with Sohail is rooted in family, co-parenting and the bond they share through their children.",
+    "img": "https://static.toiimg.com/photo/msid-131644220,imgsize-77726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/seema-sajdeh-reacts-to-getting-back-with-sohail-khan-after-divorce-he-is-the-father-of-my-children-we-will-always-be-a-family/articleshow/131644213.cms",
+    "time": "2026-06-10T20:23:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Strong heroines, mellow heroes, engaging stories and fierce social commentary define Bharathiraja’s repertoire",
+    "desc": "With fresh eyes, groomed on a rural story line in the lush surroundings of Theni in south Tamil Nadu, Bharathiraja decided he was done with the conventional tropes of the hero, the baddie, and a hanger-on heroine",
+    "img": "https://th-i.thgim.com/public/incoming/1t8kq8/article71085112.ece/alternates/LANDSCAPE_1200/Bharathiraja.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/strong-heroines-mellow-heroes-engaging-stories-and-fierce-social-commentary-define-bharathirajas-repertoire/article71085136.ece",
+    "time": "2026-06-10T20:13:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "a relationship that ebbed and flowed",
     "desc": "Recalling the difficult days in a conversation with The Hindu in 2018, Ilaiyaraaja had said that in 1968, he, his brothers and a few friends boarded a bus to Chennai in search of a career in the film industry. The journey was anything but easy.",
     "img": "https://th-i.thgim.com/public/incoming/hgn5dg/article71084266.ece/alternates/LANDSCAPE_1200/ilyaraja-bharthiraja-2.jpg",
@@ -25,15 +79,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshans-sister-sunaina-recalls-crash-dieting-led-to-tuberculosis-meningitis-parents-rakesh-roshan-pinkie-roshan-react/articleshow/131643086.cms",
     "time": "2026-06-10T18:51:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India summons U.S. Deputy Chief of Mission after second ship attack in three days leaves three Indian sailors missing",
-    "desc": "The strike on Settebello off the coast of Oman prompted the MEA to call for “immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region”.",
-    "img": "https://th-i.thgim.com/public/incoming/a1awa9/article71086488.ece/alternates/LANDSCAPE_1200/PTI06_09_2026_000293B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-summons-us-deputy-chief-of-mission-after-second-ship-attack-in-three-days-leaves-three-indian-sailors-missing/article71086208.ece",
-    "time": "2026-06-10T18:45:03.000Z"
   },
   {
     "cat": "Sports",
@@ -160,15 +205,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/eac-pm-recommends-targeted-splitting-of-seats-for-delimitation-shows-model-allowing-50-rise-for-all-large-states/article71086016.ece",
     "time": "2026-06-10T16:31:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "W.B. Congress chief",
-    "desc": "He was responding to speculation that TMC chief Mamata Banerjee may return to the Congress; rebel TMC MLA and Leader of Opposition in the State Assembly Ritabrata Banerjee insists rebels are not merging with Congress",
-    "img": "https://th-i.thgim.com/public/incoming/pqqe93/article71086216.ece/alternates/LANDSCAPE_1200/PTI05_22_2026_000139B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/anyone-who-wants-to-see-rahul-as-pm-can-join-congress-wb-congress-chief/article71085856.ece",
-    "time": "2026-06-10T16:22:44.000Z"
   },
   {
     "cat": "Politics",
@@ -351,15 +387,6 @@ const newsData_en = [
     "time": "2026-06-10T13:27:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Strong heroines, mellow heroes, engaging stories and fierce social commentary define Bharathiraja’s repertoire",
-    "desc": "With fresh eyes, groomed on a rural story line in the lush surroundings of Theni in south Tamil Nadu, Bharathiraja decided he was done with the conventional tropes of the hero, the baddie, and a hanger-on heroine",
-    "img": "https://th-i.thgim.com/public/incoming/1t8kq8/article71085112.ece/alternates/LANDSCAPE_1200/Bharathiraja.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/strong-heroines-mellow-heroes-engaging-stories-and-fierce-social-commentary-define-bharathirajas-repertoire/article71085136.ece",
-    "time": "2026-06-10T13:24:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Rethinking India’s cold chain",
     "desc": "With an alarming rate of food spoilage costing India billions every year, especially in rural areas due to lack of an efficient cold chain, Tan90 steps in with a groundbreaking Cooling-as-a-Service solution. By leveraging Phase Change Materials, this innovative model creates an on-demand cold storage system that supports farmers and fishermen, cutting down expenses and boosting their income dramatically.",
@@ -403,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlals-drishyam-3-lands-in-legal-trouble-complaint-filed-over-alleged-use-of-real-vehicle-registration-number/articleshow/131636540.cms",
     "time": "2026-06-10T13:08:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The early years when Bharathiraja and Ilaiyaraaja struggled to eke a living",
-    "desc": "Recalling the difficult days in a conversation with The Hindu in 2018, Ilaiyaraaja had said that in 1968, he, his brothers and a few friends boarded a bus to Chennai in search of a career in the film industry. The journey was anything but easy.",
-    "img": "https://th-i.thgim.com/public/incoming/hgn5dg/article71084266.ece/alternates/LANDSCAPE_1200/ilyaraja-bharthiraja-2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/the-early-years-when-bharathiraja-and-ilaiyaraaja-struggled-to-eke-a-living/article71083986.ece",
-    "time": "2026-06-10T13:02:30.000Z"
   },
   {
     "cat": "Politics",
@@ -484,60 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raveena-tandons-mohra-reunion-moment-with-akshay-kumar-and-suniel-shetty-steals-spotlight-ahead-of-welcome-to-the-jungle-trailer-launch/articleshow/131635161.cms",
     "time": "2026-06-10T12:13:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi enjoys jhalmuri at NDA meeting served by Bengal CM Suvendu Adhikari",
-    "desc": "Prime Minister Narendra Modi shared a video of himself enjoying Jhalmuri with fellow NDA leaders at a meeting in New Delhi. The popular Bengali snack, previously used as a political symbol by the BJP, was served by the West Bengal chief minister. The meeting coincided with PM Modi becoming India's longest-serving elected Prime Minister.",
-    "img": "https://static.toiimg.com/photo/msid-131635768,imgsize-4874282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-enjoys-jhalmuri-at-nda-meeting-served-by-bengal-cm-suvendu-adhikari/articleshow/131633968.cms",
-    "time": "2026-06-10T12:09:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift gets ‘Toy Story’ VHS signed by Tom Hanks, Tim Allen",
-    "desc": "Pop sensation Taylor Swift delighted fans at the 'Toy Story 5' premiere by meeting stars Tom Hanks and Tim Allen. She even had them sign a rare 1995 VHS copy of the original film. Swift also contributed an original song, 'I Knew It, I Knew You,' to the movie's soundtrack, a collaboration kept under wraps by the production team.",
-    "img": "https://static.toiimg.com/photo/msid-131635054,imgsize-150608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-hanks-tim-allen-sign-taylor-swifts-toy-story-vhs-tape-forrest-gump-actor-says-he-missed-taking-a-selfie-with-singer/articleshow/131634958.cms",
-    "time": "2026-06-10T12:05:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Russia congratulates Modi's longest-serving PM milestone, praises economic gains",
-    "desc": "Prime Minister Narendra Modi has become India's longest-serving elected leader, surpassing Jawaharlal Nehru's record. Russia and Italy extended congratulations, highlighting India's economic progress under Modi's tenure. This milestone marks a significant achievement in his continuous service to the nation, a feat recognized internationally.",
-    "img": "https://static.toiimg.com/photo/msid-131634490,imgsize-44516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/russia-congratulates-modis-longest-serving-pm-milestone-praises-economic-gains/articleshow/131634470.cms",
-    "time": "2026-06-10T11:53:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madhoo recalls Sridevi meeting, says 'I was and still am Sriji’s biggest fan'",
-    "desc": "Actress Madhoo fondly recalled her first encounter with the legendary Sridevi, a moment that deeply impacted her. As a devoted fan, Madhoo admired Sridevi's work long before her own debut. The coincidence of their films, 'Lamhe' and 'Phool Aur Kaante', releasing simultaneously left her overwhelmed. She met Sridevi during a dance rehearsal, a brief but memorable introduction.",
-    "img": "https://static.toiimg.com/photo/msid-131634336,imgsize-32734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhoo-recalls-sridevi-meeting-says-i-was-and-still-am-srijis-biggest-fan/articleshow/131634336.cms",
-    "time": "2026-06-10T11:53:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Choreographer reveals how Salman feeds everyone on set",
-    "desc": "Choreographer Shabina Khan has praised Salman Khan for his generosity on set, revealing that he ensures everyone is well fed regardless of their position. She recalled how on the sets of 'Prem Ratan Dhan Payo', Salman would invite the entire crew to his bungalow for 7-star food.",
-    "img": "https://static.toiimg.com/photo/msid-131634479,imgsize-24576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-are-going-to-get-7-star-food-choreographer-shabina-khan-reveals-how-salman-khan-feeds-everyone-on-set/articleshow/131634479.cms",
-    "time": "2026-06-10T11:52:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Court remands owner, accountant for 12 days",
-    "desc": "A Delhi court has remanded the hotel owner and accountant in the Malviya Nagar fire tragedy to 12 days' judicial custody. The blaze, which claimed 22 lives, including foreign nationals, reportedly began in the restaurant and kitchen. Investigators are probing alleged safety lapses and negligence, with a cook also arrested.",
-    "img": "https://static.toiimg.com/photo/msid-131634340,imgsize-73044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/malviya-nagar-hotel-fire-court-remands-owner-accountant-for-12-days/articleshow/131633645.cms",
-    "time": "2026-06-10T11:47:14.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/why-did-supreme-court-back-curbs-on-online-gaming-explained/article71070728.ece",
     "time": "2026-06-07T05:53:15.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How are organisations reckoning their AI addiction",
+    "desc": "Agentic AI tools are becoming an infrastructure cost that scales with every autonomous decision an agent makes. And organisations that do not implement usage controls, token budgets, and honest ROI benchmarks are not adopting AI, but are funding it",
+    "img": "https://th-i.thgim.com/public/sci-tech/technology/c8bina/article71059520.ece/alternates/LANDSCAPE_1200/5ca9e2fa-b2e9-499e-8653-d3ed8a906832.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/how-are-organisations-reckoning-their-ai-addiction/article71059523.ece",
+    "time": "2026-06-06T08:50:04.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The world’s first and only rotating boat lift",
+    "desc": "On May 24, 2002, the Falkirk Wheel was officially opened by Queen Elizabeth II as part of her Golden Jubilee celebrations. The world’s first and only rotating boat lift is an engineering feat of excellence that connects the Forth & Clyde and Union Canals in Scotland. A.S.Ganesh takes you on this waterway to tell you more about this unique wheel…",
+    "img": "https://th-i.thgim.com/public/incoming/p7u4uf/article70964997.ece/alternates/LANDSCAPE_1200/24istb%20Falkirk%20Wheel%204.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/falkirk-wheel-the-worlds-first-and-only-rotating-boat-lift/article70964996.ece",
+    "time": "2026-06-05T06:48:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SpaceX’s IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
+    "desc": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world’s first trillionaire",
+    "img": "https://th-i.thgim.com/public/incoming/f81bpf/article71058601.ece/alternates/LANDSCAPE_1200/2026-06-03T202449Z_1406795198_RC2TFCA4ZIEX_RTRMADP_3_SPACEX-IPO-PRICING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/spacexs-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire/article71058600.ece",
+    "time": "2026-06-03T21:24:59.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
