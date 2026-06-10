@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Richa Ghosh puts up lone valiant effort but questions remain as India lose to England in warm-up",
+    "desc": "Richa Ghosh almost pulled off a miraculous win, but her late dismissal saw India lose their last warm-up fixture against England before the Women's T20 World Cup 2026. India were asked to chase 172 at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/richa-ghosh-puts-up-lone-valiant-effort-but-questions-remain-as-india-lose-to-england-in-warm-up-2026-06-10-1044375",
+    "time": "2026-06-10T14:55:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes, Gus Atkinson punished for nightclub row, England name interim captain for 2nd New Zealand Test",
+    "desc": "Ben Stokes and Gus Atkinson have lost their places in England's Test squad for the second match against New Zealand in the wake of their nightclub incident, which has put Stokes captaincy and future in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-gus-atkinson-punished-for-nightclub-row-england-name-interim-captain-for-2nd-new-zealand-test-2026-06-10-1044370",
+    "time": "2026-06-10T14:20:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dates for India's Test tour of Sri Lanka revealed, T20Is likely to be played too; check details",
+    "desc": "India are set to begin their two-match Test tour to Sri Lanka on August 15, with Galle likely to host the first match, Cricbuzz reported. The two Tests will be part of the World Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dates-for-indias-test-tour-of-sri-lanka-revealed-t20is-likely-to-be-played-too-check-details-2026-06-10-1044364",
+    "time": "2026-06-10T13:43:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Warning signs for India ahead of Women's T20 World Cup 2026? Mandhana, Shafali's dismissals hint so",
+    "desc": "In what are warning signs for India ahead of the upcoming Women's T20 World Cup 2026, openers Smriti Mandhana and Shafali Verma's tepid form continued. The two were dismissed cheaply during India's last warm-up fixture...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/warning-signs-for-india-ahead-of-womens-t20-world-cup-2026-mandhana-shafalis-dismissals-hint-so-2026-06-10-1044357",
+    "time": "2026-06-10T12:17:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan cricket in turmoil again? Test captain and coach's future to be decided, new options emerge",
+    "desc": "The Pakistan cricket seems to be in turmoil yet again as they are likely to change their Test captain, Shan Masood and Test head coach Sarfaraz Khan after suffering a 2-0 drubbing against Bangladesh in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-cricket-in-turmoil-again-test-captain-and-coachs-future-to-be-decided-new-options-emerge-2026-06-10-1044353",
+    "time": "2026-06-10T11:39:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manav Suthar pens new deal with English County club after stellar Test debut",
+    "desc": "India's star debutant Manav Suthar has signed a short-term deal with English County club Warwickshire for the next two rounds of the Championship, the club made the announcement on Wednesday. Warwickshire said that the left-arm...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-pens-new-deal-with-english-county-club-after-stellar-test-debut-2026-06-10-1044343",
+    "time": "2026-06-10T11:07:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England's leader crowned new No.1 Test batter as Joe Root loses his crown, Shubman Gill moves up",
+    "desc": "England white-ball captain Harry Brook has been crowned as the new No.1 Test batter as Joe Root lost his top spot as per the latest ICC rankings update on Wednesday, June 10. Root, who fell...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/englands-leader-crowned-new-no1-test-batter-as-joe-root-loses-his-crown-shubman-gill-moves-up-2026-06-10-1044335",
+    "time": "2026-06-10T10:19:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Serena Williams returns to professional Tennis at 44, wins doubles game, will return for Wimbledon?",
     "desc": "Serena Williams made a winning return to competitive tennis at the Queen’s Club Championships in London on Tuesday. However, she is still undecided about a possible Wimbledon appearance. The 44-year-old stepped back into professional action for...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fifa-introduces-multiple-new-rules-for-upcoming-world-cup-2026-check-full-list-watch-2026-06-10-1044319",
     "time": "2026-06-10T08:10:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "USA denies entry to Somalian referee for World Cup, sends back home while FIFA watches in silence",
-    "desc": "Another off-field controversy has shaken the FIFA World Cup 2026. Somalian official Omar Artan has been denied entry into the United States despite travelling to join FIFA's referee team ahead of the tournament. He had...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/usa-denies-entry-to-somalian-referee-for-world-cup-sends-back-home-while-fifa-watches-in-silence-2026-06-10-1044303",
-    "time": "2026-06-10T06:32:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan announce 15-member squad for Asian Games, T20 World Cup  2026 star to lead",
-    "desc": "Pakistan have unveiled a 15-player squad for the upcoming Asian Games, which get underway on September 19. The leading run-scorer of the T20 World Cup 2026, Sahibzada Farhan, has been appointed captain of the side....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-15-member-squad-for-asian-games-t20-world-cup-2026-star-to-lead-2026-06-10-1044290",
-    "time": "2026-06-10T05:47:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What went wrong in BCCI's Centre of Excellence?",
-    "desc": "Hardik Pandya’s return to international cricket has been delayed after a fitness setback ruled him out of India’s upcoming three-match ODI series against Afghanistan. He was reported to have earned clearance to the ODI squad...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-to-miss-afghanistan-odis-what-went-wrong-in-bcci-s-centre-of-excellence-2026-06-10-1044284",
-    "time": "2026-06-10T05:12:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What exactly happened in 'Chelsea's naughtiest nightclub' on Sunday night?",
-    "desc": "Fresh details have surfaced about the nightclub incident involving England captain Ben Stokes and ace pacer Gus Atkinson. As investigations continue, reports have provided a clearer picture of the all-rounder’s movements before the altercation that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-controversy-what-exactly-happened-in-chelsea-s-naughtiest-nightclub-on-sunday-night-2026-06-10-1044265",
-    "time": "2026-06-10T02:22:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Atletico laugh and mock Real Madrid after rejecting 1650.71 crore offer for Julian Alvarez",
-    "desc": "Real Madrid's first major move after Florentino Perez secured another term as club president has ended in rejection, with Atletico Madrid refusing a substantial bid for Julian Alvarez. Perez had indicated before the election that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/atletico-laugh-and-mock-real-madrid-after-rejecting-1650-71-crore-offer-for-julian-alvarez-2026-06-10-1044260",
-    "time": "2026-06-10T01:41:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes at crossroads, set to hold meetings on Wednesday as international retirement remains on table",
-    "desc": "Ben Stokes is set for a pivotal meeting on Wednesday as questions continue to swirl around his future in international cricket. The England Test captain will sit down with his advisers to consider his next...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-at-crossroads-set-to-hold-meetings-on-wednesday-as-international-retirement-remains-on-table-2026-06-10-1044256",
-    "time": "2026-06-10T01:17:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India-W vs England-W T20 World Cup warm up match live streaming: When and where to watch clash?",
-    "desc": "Indian women are all set to meet England women in their second and last warm-up match ahead of the Women's T20 World Cup 2026 on Wednesday, June 10. The Women in Blue won their previous...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-w-vs-england-w-t20-world-cup-warm-up-match-live-streaming-when-and-where-to-watch-clash-2026-06-09-1044246",
-    "time": "2026-06-09T18:27:05.000Z"
   }
 ];

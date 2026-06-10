@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "নেহেরুর রেকর্ড ভেঙে দীর্ঘতম মেয়াদের নির্বাচিত প্রধানমন্ত্রী মোদী! এনডিএ-র ১২ বছর পূর্তির মঞ্চ থেকে কংগ্রেসকে তোপ",
+    "desc": "কেন্দ্রে এনডিএ (NDA) সরকারের ১২ বছর পূর্তি এবং ভারতের রাজনৈতিক ইতিহাসে এক নয়া নজির। এদিন দিল্লিতে আয়োজিত হল এনডিএ শরিকদের এক মেগা সম্মেলন (Conclave)। এই বিশেষ দিনেই ভারতের প্রথম প্রধানমন্ত্রী জওহরলাল নেহেরুর রেকর্ড ভেঙে দেশের ইতিহাসের দীর্ঘতম মেয়াদের ‘টানা নির্বাচিত প্রধানমন্ত্রী’ (Longest-serving continuously elected PM) হলেন নরেন্দ্র মোদী। ১৯৫২ সালের সাধারণ নির্বাচনের পর থেকে হিসাব করলে নেহেরু টানা নির্বাচিত প্রধানমন্ত্রী হিসেবে ৪,৩৯৮ দিন ক্ষমতায় ছিলেন। বুধবার ৪,৩৯৯ তম দিনে পা দিয়ে সেই রেকর্ড টপকে গেলেন মোদী।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/pm-modi-came-down-heavily-on-congress-saying-led-india-to-state-of-hopelessness-through-its-misrule-threw-india-into-abyss-of-corruption_657645.html ",
+    "time": "2026-06-10T15:19:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "একই মায়ের পেটের ভাই, তবুও খেলবেন বিভিন্ন দেশের হয়ে! এবার বিশ্বকাপে এমনই ৪ জোড়া ফুটবলার",
+    "desc": "বিশ্বকাপে এবার এমনই চার জোড়া ভাইয়ের জুটি রয়েছে যাঁরা ভিন্ন ভিন্ন দেশের হয়ে বিশ্বকাপ খেলবেন। এবং নকআউট পর্বে তাঁরা মুখোমুখিও হতে পারেন। যদিও প্রাথমিক গ্রুপ পর্বে তাঁদের একে অপরের বিরুদ্ধে খেলার কোনও সূচি নেই। তবে টুর্নামেন্টের পরবর্তী পর্যায়ে তাঁরা মাঠের লড়াইয়ে সরাসরি প্রতিপক্ষ হয়ে উঠতে পারেন। চিনে নিন সেই ৮ ফুটবলারকে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/brothers-playing-for-different-national-teams-in-fifa-world-cup-2026_657636.html ",
+    "time": "2026-06-10T15:14:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "শাকিরা-নোরা-কেটির আগুন, ৫ কারণেই ৩ শো থেকে সরবে না চোখ! কখন কোথায় দেখবেন বিশ্বকাপের জমকালো ওপেনিং?",
+    "desc": "কাউন্টডাউন প্রায় শেষ। আর কয়েক ঘণ্টা পর ইতিহাসের সবচেয়ে বড় ফুটবল বিশ্বকাপ (FIFA World Cup 2026)। মাঝে আর ঠিক একদিন। ১১ জুন থেকে শুরু এই খেলার শ্রেষ্ঠ ইভেন্ট। আর তার আগে জেনে নিন কখন কোথায় দেখবেন কাপযুদ্ধের দুর্দান্ত উদ্বোধনী অনুষ্ঠান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/fifa-world-cup-2026-opening-ceremony-full-performer-lineup-and-all-details_657629.html ",
+    "time": "2026-06-10T13:43:19.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "মাঝ আকাশে এয়ার ইন্ডিয়ায় বুক কাঁপানো আতঙ্ক! ল্যান্ডিংয়ের ঠিক আগে শিউরে ওঠার মতো পরিস্থিতি",
     "desc": "ঘটনার সত্যতা স্বীকার করে এয়ার ইন্ডিয়ার এক মুখপাত্র বলেন, '৭ জুনের AI1879 ফ্লাইটে এক যাত্রীর উগ্র আচরণের ঘটনা ঘটলেও বিমানটি দিল্লিতে নিরাপদে অবতরণ করেছে। যাত্রী, ক্রু এবং বিমানের নিরাপত্তা নিয়ে কোনও আপস করা হয়নি। নিয়মানুযায়ী বিষয়টি এভিয়েশন রেগুলেটরকেও (DGCA) জানানো হয়েছে।'",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -124,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/putin-warns-sanction-threats-against-india-will-boomerang-under-pm-modi_656910.html ",
     "time": "2026-06-06T09:31:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Banerjee's Diamond Harbour FC: স্ক্যানারে অভিষেকের ডায়মন্ড হারবার এফসিও! ক্লাবের প্রতিষ্ঠা নিয়ে উঠেছে প্রশ্ন! আর্থিক অসঙ্গতিরও অভিযোগ... তদন্তে ক্রীড়া দফতর",
-    "desc": "আতসকাচের তলায় এবার অভিষেকের বন্দ্যোপাধ্যায়ের ক্লাব ডায়মন্ড হারবার এফসি। তদন্তে নামতে পারে ইডিও! ক্রীড়ামন্ত্রীর চরম হুঁশিয়ারি। অভিষেকের কালো টাকা সাদা করারই কি সাপ্লাই লাইন ছিল ডায়মন্ড হারবার এফসি? বিধাননগর পৌর ক্রীড়া কমপ্লেক্সের মাঠ দখল করেই চলেছে অনুশীলন!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/abhishek-banerjees-club-diamond-harbour-fc-under-scanner-of-bengal-sports-department_656802.html ",
-    "time": "2026-06-05T16:01:31.000Z"
   },
   {
     "cat": "Entertainment",
