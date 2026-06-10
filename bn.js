@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "মাঝ আকাশে এয়ার ইন্ডিয়ায় বুক কাঁপানো আতঙ্ক! ল্যান্ডিংয়ের ঠিক আগে শিউরে ওঠার মতো পরিস্থিতি",
+    "desc": "ঘটনার সত্যতা স্বীকার করে এয়ার ইন্ডিয়ার এক মুখপাত্র বলেন, '৭ জুনের AI1879 ফ্লাইটে এক যাত্রীর উগ্র আচরণের ঘটনা ঘটলেও বিমানটি দিল্লিতে নিরাপদে অবতরণ করেছে। যাত্রী, ক্রু এবং বিমানের নিরাপত্তা নিয়ে কোনও আপস করা হয়নি। নিয়মানুযায়ী বিষয়টি এভিয়েশন রেগুলেটরকেও (DGCA) জানানো হয়েছে।'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/air-india-passenger-breaks-window-mid-flight-faces-no-fly-ban_657541.html ",
+    "time": "2026-06-10T04:02:15.000Z"
+  },
+  {
     "cat": "World",
     "title": "আগুনে ফুটছে পাক-অধিকৃত কাশ্মীর! বইছে রক্তগঙ্গা, মৃত্যুমিছিল, বন্ধ ইন্টারনেট ও মোবাইল",
     "desc": "জোটটিকে নিষিদ্ধের ঘটনায় রাওলাকোটে বিক্ষোভ শুরু হয়। বিক্ষোভ দমনে নিরাপত্তা বাহিনীর বল প্রয়োগ করলে সংঘর্ষ বেধে যায়। এতে নিরাপত্তা বাহিনীর গুলি চালালে এক ব্যবসায়ী প্রাণ হারান। ব্যবসায়ীর মৃত্যুর ঘটনাকে কেন্দ্র করে উত্তেজনা ছড়িয়ে পড়লে গত রবিবার রাওয়ালকোট শহরে তীব্র সংঘর্ষের ঘটনা ঘটে।",
@@ -61,15 +70,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/three-way-legal-trouble-for-khan-sir-patna-firing-case-2-crore-defamation-and-property-dispute-threaten-arrest_657330.html ",
     "time": "2026-06-08T14:30:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৪০ বছরের সিস্টেমের ইতি! শুরু হচ্ছে হাই-টেক বুকিং, রেলেও এবার AI",
-    "desc": "আগস্ট মাস থেকে ভারতীয় রেল তাদের ৪০ বছর পুরনো টিকিট বুকিং ব্যবস্থা (PRS) বন্ধ করতে চলেছে। এর বদলে সম্পূর্ণ নতুন ও আধুনিক ক্লাউড সিস্টেম চালু হবে। এই নতুন প্রযুক্তির ডেটা প্রসেস করার ক্ষমতা অনেক বেশি। ফলে উৎসবের মরসুমে বা তৎকাল বুকিংয়ের সময় আর সার্ভার ক্র্যাশ করবে না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/indian-railway-new-cloud-based-ticketing-system-ai-waiting-list-prediction-railone-app-launch_657268.html ",
-    "time": "2026-06-08T09:54:02.000Z"
   },
   {
     "cat": "World",
@@ -153,15 +153,6 @@ const newsData_bn = [
     "time": "2026-06-05T11:51:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "২৩ বছরের এক্সপ্রেস গতির পেসার, বল ছেড়ে হাতে বল্লম তুলে ছুড়লেন ৯২.৬২ মিটার! ডায়মন্ড লিগে ইতিহাস লিখল থ্রো",
-    "desc": "শ্রীলঙ্কার প্রাক্তন ফাস্ট বোলার রুমেশ পাথিরাগে রোম ডায়মন্ড লিগে ৯২.৬২ মিটার দূরত্বে জ্যাভলিন ছুড়ে নতুন মিট রেকর্ড গড়লেন। নীরজ চোপড়া, আরশাদ নাদিম ও চেং চাও-সুনের পর চতুর্থ এশিয়ান হিসেবে পুরুষদের জ্যাভলিন ইভেন্টে ৯০ মিটারের মাইলস্টোন স্পর্শ করলেন ২৩ বছরের অ্যাথলিট।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/sri-lankas-fast-bowler-rumesh-pathirage-stuns-rome-diamond-league-with-92-62m-throw_656735.html ",
-    "time": "2026-06-05T08:08:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "কাজ পাইয়ে দিতে টাকা দাবি, সরাসরি যৌন প্রস্তাব, স্বরূপের বিরুদ্ধে ঠিক কী কী অভিযোগ?",
     "desc": "স্টুডিয়োর স্পট বয়, লাইটম্যান থেকে শুরু করে বিভিন্ন সাধারণ টেকনিশিয়ানদের কাজের সুযোগ করে দেওয়ার নাম করে বা প্রভাব খাটিয়ে নিয়মিত টাকা তোলা হতো বলে অভিযোগ। অভিযোগকারিণীর দাবি এবং পুলিসের দায়ের করা মামলার ভিত্তিতে স্বরূপ বিশ্বাসের বিরুদ্ধে ঠিক কী কী অভিযোগ রয়েছেয?",
@@ -216,15 +207,6 @@ const newsData_bn = [
     "time": "2026-06-02T11:34:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "বলিউডে তুলকালাম, কেন ডেভিড ধাওয়ানের বিরুদ্ধে ৪০০ কোটির মামলা ঠুকলেন বাসু ভাগনানি?",
     "desc": "পরিচালক ডেভিড ধাওয়ান এবং টিপস মিউজিকের বিরুদ্ধে ৪০০ কোটি টাকার মামলা করলেন প্রযোজক বাসু ভাগনানি। শর্ত না মানলে আরও ১০০ কোটির জরিমানা! বরুণ ধাওয়ানের আগামী ছবি 'হ্যায় জওয়ানি তো ইশক হোনা হ্যায়' কি তবে বড়সড় বিপাকে?",
@@ -232,15 +214,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/vashu-bhagnani-david-dhawan-tips-chunnari-chunnari-400-crore-lawsuit_655905.html ",
     "time": "2026-05-29T15:02:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "নন্দনে দেখানো হবে অনীক দত্তের ছবি: ঘোষণা মন্ত্রী অগ্নিমিত্রা পালের, কী বলছেন স্ত্রী-কন্যা?",
-    "desc": "চলে গেলেন পরিচালক অনীক দত্ত। কিন্তু মৃত্যুর পরেই কাটতে চলেছে তাঁর ছবির হল না পাওয়ার জট। শুক্রবার মন্ত্রী অগ্নিমিত্রা পাল ঘোষণা করলেন, নন্দনে দেখানো হবে প্রয়াত পরিচালকের সব ছবি। অন্যদিকে বিজেপি বিধায়ক রূপা গঙ্গোপাধ্যায়ের অভিযোগ, \"রাজনৈতিক প্রতিহিংসার শিকার অনীক।\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/anik-dutta-death-nandan-movie-screening-agnimitra-paul-controversy_655901.html ",
-    "time": "2026-05-29T13:31:56.000Z"
   },
   {
     "cat": "World",
@@ -259,50 +232,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/2026-super-el-nino-weather-kelvin-wave-in-pacific-ocean-impact-explained_655791.html ",
     "time": "2026-05-29T07:45:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

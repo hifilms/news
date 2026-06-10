@@ -1,6 +1,96 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "પપ્પા દારૂ પીને મરી ગયા&amp;#039;ને, મમ્મી ના પાડતી હતી... ફોટો જોઈને વઢતી દીકરી, કાળજું કઠણ હોય તો જ જોજો Video",
+    "desc": "સોશિયલ મીડિયા પર એક માસૂમ બાળકીનો ભાવુક વીડિયો વાયરલ થઈ રહ્યો છે, જે પોતાના સ્વર્ગસ્થ પિતાની તસવીર જોઈને દારૂ પીવા બદલ તેમને વઢી રહી છે. દિલ જીતી લેનારા આ વીડિયો અને લોકોના રિએક્શન અહીં જુઓ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/emotional-viral-video-of-daughter-crying-over-fathers-photo-on-alcohol-addiction-481064 ",
+    "time": "2026-06-10T09:33:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ધુરંધર 2માંથી હટાવવામાં આવ્યા 84ના રમખાણો પરના વિવાદાસ્પદ ડાયલોગ અને ખાલિસ્તાન એંગલ ? જાણો",
+    "desc": "આદિત્ય ધરની ફિલ્મ, ધુરંધર ધ રિવેન્જનું નવુ વર્ઝન જોયા પછી, સોશિયલ મીડિયા પર એક નવી ચર્ચા જોર પકડી રહી છે. લોકોનો દાવો છે કે 1984ના રમખાણો અને ખાલિસ્તાનનો એંગલ એક ચોક્કસ દ્રશ્યમાંથી દૂર કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/controversial-dialogue-on-84-riots-and-khalistan-angle-removed-from-dhurandhar-2-find-out-481063 ",
+    "time": "2026-06-10T09:33:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "5.75 લાખ ખેડૂતોના 2 લાખ રૂપિયા સુધીના દેવા માફ કરવાની તૈયારીમાં છે સરકાર, જાણો શું છે શરતો",
+    "desc": "મહારાષ્ટ્રમાં જો કોઈ ખેડૂત પર 2 લાખથી વધુનું દેવું હશે તો તેમને 2 લાખ રૂપિયા સુધીની કરજમાફી મળે અને બાકીની રકમ તેમણે પોતે ચૂકવવી પડશે. સરકાર આ માટે તૈયારીઓ કરી રહી છે. પણ કેટલીક શરતો પણ લાગૂ હશે. ખાસ જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/agriculture/big-news-for-farmers-of-maharashtra-regarding-waive-of-loans-check-details-481053 ",
+    "time": "2026-06-10T09:10:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રાતોરાત સોનાના ભાવમાં મોટો ઘટાડો, ચાંદી પણ જબરદસ્ત તૂટી, જાણો 10 ગ્રામ સોનાનો કેરેટ પ્રમાણે ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે વળી પાછો જબરદસ્ત કડાકો જોવા મળ્યો છે. વાયદા બજાર અને રિટેલ બજારમાં ભાવ ગગડ્યા છે. ત્યારે સૌથી મોટો સવાલ એ થાય કે સોના અને ચાંદીના ભાવમાં આટલો મોટો કડાકો કેમ આવ્યો. તો જાણો કારણ અને આજનો સોના અને ચાંદીનો ભાવ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-fell-sharply-silver-rate-also-down-check-the-price-of-10-gram-gold-as-per-carat-481038 ",
+    "time": "2026-06-10T08:01:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોબાઈલ કવરમાં ભૂલથી પણ ન રાખો આ વસ્તુઓ, બ્લાસ્ટ થઈ શકે  છે ફોન! મોટા ભાગના લોકો કરે છે આ ભૂલ",
+    "desc": "શું તમે તમારા સ્માર્ટફોન કવરમાં કંઈ રાખો છો? આ નાની આદત તમારા ફોનની બેટરી, ડેટા અને પ્રદર્શનને નોંધપાત્ર રીતે નુકસાન પહોંચાડી શકે છે. આ 5 વસ્તુઓ વિશે જાણો જે તમારે ક્યારેય ફોન કવરમાં ન રાખવી જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/dont-keep-these-things-in-the-cover-of-your-mobile-phone-by-mistake-the-phone-may-explode-481039 ",
+    "time": "2026-06-10T07:34:10.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સાવધાન ! અજાણ્યા નંબરથી આવ્યો ફોન, હેલ્લો બોલતા જ કપાઈ જાય છે કોલ ? માર્કેટમાં આવ્યો નવો સ્કેમ",
+    "desc": "અજાણ્યા નંબર પરથી કોલ આવે છે, અને તમે હેલો કહો છો કે તરત જ તે અચાનક ડિસ્કનેક્ટ થઈ જાય છે. આ મૂળભૂત રીતે એક સ્કેમ છે, જ્યાં સ્કેમર્સનું એક ગ્રુપ ફોન નંબર એક્ટિવ છે કે નહીં તે તપાસે છે. ગૃહ મંત્રાલય હેઠળની એક એજન્સીએ સલાહ આપી છે કે આવા કોલની જાણ કરવી જોઈએ. અમે એ પણ વિગતવાર સમજાવીશું કે લોકોએ કેવી રીતે સાવધાન રહેવું જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/a-call-came-from-an-unknown-number-the-call-gets-disconnected-as-soon-as-you-say-hello-a-new-scam-has-come-into-the-market-481032 ",
+    "time": "2026-06-10T06:38:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પક્ષીઓની &amp;#039;અઘાર&amp;#039;એ આ દેશને બનાવ્યો ખુબ ધનાઢ્ય, પરંતુ એક ભૂલ અને બધુ બરબાદ!",
+    "desc": "એક નાનકડો ટાપુ અચાનક પક્ષીઓની અઘારને કારણે ધનાઢ્ય બની ગયો અને પછી એવું તે શું થયું કે હાલ પોતાની પાયાની જરૂરિયાતો સંતોષવા માટે બીજા પર નિર્ભર રહેવું પડે છે. આ ટાપુ દેશ આવી સ્થિતિમાં કઈ રીતે પહોંચ્યો તે ખાસ સમજવા જેવું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/story-of-the-tiny-island-nauru-how-a-country-become-rich-ruined-by-one-mistake-481030 ",
+    "time": "2026-06-10T06:30:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અફઘાનિસ્તાન સામેની પ્રથમ ODIમાં કેવી હશે ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવન ? હાર્દિક-નીતિશને લઈને સસ્પેન્સ",
+    "desc": "અભિષેક નાયરે ધર્મશાલામાં ભારત અને અફઘાનિસ્તાન વચ્ચેની પ્રથમ વનડે માટે પોતાની સંભવિત પ્લેઇંગ ઇલેવન પસંદ કરી છે. વિરાટ કોહલીની ઇજા બાદ યશસ્વી જયસ્વાલને નંબર-3 પર તક મળવાની શક્યતા છે, જ્યારે રોહિત અને હાર્દિકે ફિટનેસ પાછી મેળવ્યા બાદ ટીમમાં વાપસી કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-afg-1st-odi-predicted-playing-11-hardik-pandya-rohit-sharma-481029 ",
+    "time": "2026-06-10T06:15:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ ક્રિકેટરના ખુલાસાથી હડકંપ, 500થી વધુ મહિલાઓ સાથે હતો સંબંધ, ઐય્યાશીથી ભરેલું જીવન",
+    "desc": "વેસ્ટ ઈન્ડિઝના ઘણા ક્રિકેટરો પોતાની વૈભવી લાઈફસ્ટાઈલના કારણે ચર્ચામાં રહેતા હતા જેમાં ક્રિસ ગેઈલ પણ સામેલ હતો પરંતુ અહીં જે ખેલાડીની વાત કરી રહ્યા છીએ તે ક્રિસ ગેઈલ નહીં પરંતુ અન્ય છે. આ ખેલાડીએ તેની આત્મકથામાં અત્યંત વિસ્ફોટક ખુલાસા કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/tino-best-west-indies-cricketer-shocking-claim-had-relation-with-more-than-500-women-481017 ",
+    "time": "2026-06-10T05:25:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "62 વર્ષ પછી તૂટ્યો એક સુપર-રેકોર્ડ: પંડિત નેહરુને આગળ નિકળ્યા PM મોદી, બન્યા દેશના સૌથી લાંબા સમય સુધી ચૂંટાયેલા વડાપ્રધાન",
+    "desc": "ભારતીય રાજકારણમાં આજે એક નવો રેકોર્ડ સ્થાપિત થયો છે. સ્વતંત્ર ભારતના લોકશાહી ઇતિહાસમાં સતત ચૂંટાયેલા સૌથી લાંબા સમય સુધી સેવા આપનારા વડાપ્રધાન બનીને વડા પ્રધાન નરેન્દ્ર મોદીએ દેશના પ્રથમ વડા પ્રધાન પંડિત જવાહરલાલ નેહરુના 62 વર્ષ જૂના રેકોર્ડને તોડી નાખ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/a-super-record-broken-after-62-years-pm-modi-surpasses-pandit-nehru-becomes-the-countrys-longest-serving-prime-minister-481015 ",
+    "time": "2026-06-10T05:05:51.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "રાજ્યસભા ચૂંટણી બાદ થશે ધરખમ ફેરફાર? મોદી કેબિનેટમાંથી અનેક મંત્રી થઈ શકે બહાર, શું છે પ્લાન?",
     "desc": "એક બાજુ રાજ્યસભા ચૂંટણી નજીક છે ત્યાં કેન્દ્રીય કેબિનેટમાંથી અનેક મંત્રીઓ બહાર થઈ શકે છે તેવી પણ અટકળો હવે તેજ થઈ છે. બીજી બાજુ ભાજપના નવા રાષ્ટ્રીય અધ્યક્ષની ટીમની પણ જાહેરાત આ મહિને થાય તેવી શક્યતા છે. સૂત્રો મુજબ સરકારી પદો પર બિરાજમાન કેટલાક નેતાઓને પાર્ટી સંગઠનમાં જવાબદારી મળી શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -306,15 +396,6 @@ const newsData_gu = [
     "time": "2026-06-08T06:23:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ન ફોન, ન ઈન્ટરનેટ, પેપર સેટર્સને 21 જૂન સુધી આઇસોલેશનમાં રાખવામાં આવશે, આવી છે નીટ રી-એક્ઝામની તૈયારી",
-    "desc": "નીટ-યુજી 2026 રી-એક્ઝામને લઈને શિક્ષણ મંત્રાલય અને એનટીએએ પરીક્ષાની ગોપનીયતાની ખાતરી કરવા માટે કડક પગલાં ભર્યાં છે. પ્રશ્નપત્ર તૈયાર કરવા, ટ્રાન્સલેટ કરવા અને પરીક્ષાના સંચાલન સાથે જોડાયેલા નિષ્ણાંતો તથા કર્મચારીઓને સુરક્ષિત ગુપ્ત સ્થળે રાખવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/neet-exam-no-phones-no-internet-paper-setters-to-be-kept-in-isolation-until-june-21-480786 ",
-    "time": "2026-06-08T05:10:45.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પનો આદેશ ઘોળીને પી ગયા &amp;#039;બીબી&amp;#039;? ના પાડી છતાં ઈઝરાયેલે ઈરાન પર છોડી મિસાઈલો",
     "desc": "માંડ માંડ શાંતિ તરફ વળી રહેલું મિડલ ઈસ્ટ વળી પાછું ભડકે બળી રહ્યું છે. રવિવારે મોડી રાતે ઈરાને ઈઝરાયેલ પર હુમલા કર્યા. જેના જવાબમાં હવે સોમવારે વહેલી સવારે ઈઝરાયેલે પણ ઈરાના અનેક સૈન્ય ઠેકાણાઓને ટાર્ગેટ કરીને મોટો હવાઈ હમલો કર્યો.",
@@ -351,15 +432,6 @@ const newsData_gu = [
     "time": "2026-06-07T12:56:15.000Z"
   },
   {
-    "cat": "Business",
-    "title": "બજારમાંથી આ કારણે ગાયબ થઈ રહ્યા છે સ્નેક્સના મોટા પેકેટ, કારણ જાણીને તમે પણ ચોંકી જશો",
-    "desc": "ભારતીય ગ્રાહકો આજકાલ મોટા સ્નેક્સ પેકેટના બદલે પોકેટ-ફ્રેન્ડલી (નાના) પેકેટ્સને વધુ પસંદ કરી રહ્યા છે. છેલ્લા કેટલાક મહિનાઓથી સ્નેકિંગ માર્કેટમાં આવેલા આ બદલાવનું મુખ્ય કારણ શું છે? કંપનીઓએ શા માટે બદલી રહી છે પોતાની પોલિસી?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-is-why-large-packets-of-snacks-are-disappearing-from-the-market-you-will-be-shocked-to-know-the-reason-480721 ",
-    "time": "2026-06-07T12:17:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ટીમ ઇન્ડિયામાં RCBના ખેલાડીઓની નો-એન્ટ્રી! બાકીની તમામ ફ્રેન્ચાઇઝીના પ્લેયર્સને મળી જગ્યા, આખરે શું છે કારણ?",
     "desc": "BCCI દ્વારા 3 સિરીઝ માટે ટીમ ઇન્ડિયાની જાહેરાત કરવામાં આવી છે, પરંતુ આશ્ચર્યની વાત એ છે કે, એકપણ સ્ક્વોડમાં RCBના કોઈ ખેલાડીનું નામ નથી. IPLની બાકીની 9 ફ્રેન્ચાઇઝીમાંથી ઓછામાં ઓછો એક ખેલાડી ભારતીય T20 ટીમનો હિસ્સો જરૂર છે. એવું બિલકુલ નથી કે, આરસીબીના પ્લેયર્સે સારું પ્રદર્શન નથી કર્યું.",
@@ -367,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/no-entry-for-rcb-players-in-team-india-players-from-all-remaining-franchises-got-a-place-what-is-the-reason-480718 ",
     "time": "2026-06-07T11:09:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "₹1600 નો રસોઈ ગેસ ₹942 માં આપી રહી છે કંપની, દરેક સિલિન્ડર પર ₹700 નું નુકસાનઃ સરકાર",
-    "desc": "14.2 કિલોના ઘરેલું સિલિન્ડરની કિંમત વધતા સામાન્ય લોકોને ઝટકો લાગ્યો છે. જો તમે પણ તેને ઝટકો માની રહ્યાં છો તો સરકારની આ દલીલને જરૂર સમજો કારણ કે કેમ ભાવ વધારવો જરૂરી હતો અને હજુ કઈ રીતે તમને સિલિન્ડર પર 700 રૂપિયાની રાહત મળી રહી છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/companies-are-selling-cooking-gas-worth-1600-for-942-incurring-a-loss-of-700-on-every-cylinder-480700 ",
-    "time": "2026-06-07T08:53:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -405,15 +468,6 @@ const newsData_gu = [
     "time": "2026-06-07T02:32:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઘાયલ સિંહની જેમ ગર્જ્યો સૂર્યા... ટીમ ઈન્ડિયામાંથી બહાર થતાં જ બતાવી તાકાત, 200ના સ્ટ્રાઈક રેટથી બનાવ્યા આટલા રન",
-    "desc": "35 વર્ષીય સૂર્યકુમાર યાદવને ભલે ટીમમાંથી બહાર કરી દેવામાં આવ્યો હોય, પરંતુ તે ઘાયલ સિંહની જેમ ફરીથી ગર્જના કરવા માટે તૈયાર છે. 6 જૂને બપોરે જાહેરાત કરવામાં આવી કે સૂર્યકુમાર ભારતની T20 ટીમનો ભાગ નથી. સાંજે, સૂર્યાએ બેટ વડે ધમાકેદાર ઈનિંગ રમી અને જણાવ્યું કે લડવા માટે તૈયાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-showed-his-strength-as-soon-as-he-was-dropped-from-team-india-scored-so-many-runs-at-a-strike-rate-of-200-480633 ",
-    "time": "2026-06-06T16:08:45.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "વાવાઝોડા કે ઝાડ પડવાથી કારને નુકસાન થાય તો મળશે વીમા ક્લેમ? જાણો શું કહે છે નિયમ",
     "desc": "વાવાઝોડા કે ઝાડ પડવાથી તમારી કારને થયેલા નુકસાન માટે તમને દાવો મળશે કે નહીં તે તમારી વીમા પૉલિસી પર આધાર રાખે છે. વ્યાપક વીમો સામાન્ય રીતે આવા નુકસાનને આવરી લે છે, જ્યારે થર્ડ પાર્ટી પૉલિસીઓ નથી. તાત્કાલિક નુકસાનના ફોટા લો, વીમા કંપનીને જાણ કરો અને સર્વેયર તેનું નિરીક્ષણ કરે તે પહેલાં વાહનનું સમારકામ કરાવશો નહીં, કારણ કે આ તમારા દાવાને અસર કરી શકે છે.",
@@ -439,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/what-is-peddi-movie-janhvi-kapoor-role-controversy-why-buchi-babu-sana-shared-post-after-negative-review-480605 ",
     "time": "2026-06-06T11:33:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 માં ટીમ ઈન્ડિયાના નવા યુગની શરૂઆત, અય્યર કેપ્ટન બનતાં જ કપાયા 5 ખેલાડીઓના પત્તા",
-    "desc": "ટી20 ક્રિકેટમાં ભારતીય ટીમ નવા રંગરૂપ સાથે આગળ વધી રહી છે. પસંદગીકારોએ સૂર્યાને બહાર કરી અય્યરને નવો કેપ્ટન બનાવી દીધો છે. આ સાથે ટી20 વિશ્વકપની ટીમમાં રહેલા કેટલાક ખેલાડીઓને પણ બહાર કરી દેવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/new-era-begins-for-indian-t20-team-shreyas-iyer-captains-surya-out-480601 ",
-    "time": "2026-06-06T11:04:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,15 +621,6 @@ const newsData_gu = [
     "time": "2026-06-04T11:42:22.000Z"
   },
   {
-    "cat": "World",
-    "title": "ટ્રમ્પના મનમાં છે શું? પહેલા નેતન્યાહૂ સાથે ગાળાગાળી કરી અને હવે ખેલ્યો મોટો દાવ",
-    "desc": "હાલમાં જ એવા અહેવાલ હતા કે ફોન પર વાતચીત દરમિયાન ડોનાલ્ડ ટ્રમ્પે ઈઝરાયેલી પીએમને આપત્તિજનક શબ્દોનો ઉપયોગ કરીને ખખડાવી નાખ્યા હતા. હવે ટ્રમ્પે વળી પાછા ચર્ચામાં છે અને આ વખતે એક એવું નિવેદન આપ્યું છે કે દુનિયા પણ આશ્ચર્યચકિત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-expresses-desire-to-meet-mojtoba-khamenei-480338 ",
-    "time": "2026-06-04T05:17:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રણવીર સિંહની લીગલ નોટિસ પછી FWICE બેકફુટ પર, પ્રતિબંધ હટાવ્યો",
     "desc": "રણવીર સિંહ પર જ્યારે FWICE એ પ્રતિબંધ લગાવ્યો હતો ત્યારે બોલીવુડમાં ખળભળાટ મચી ગયો હતો. પરંતુ બુધવારે FWICE બેકફુટ પર આવી ગયું અને રણવીર સિંહ વિરુદ્ધ લગાવો બેન પરત લઈ લીધો. આવું થવા પાછળ રણવીર સિંહે ફટકારેલી નોટિસ છે. આ મામલો હવે ક્યાં પહોંચ્યો છે ચાલો તમને જણાવીએ.",
@@ -592,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/latest-bollywood-news-fwice-on-backfoot-on-ranveer-singh-don-3-issue-here-is-latest-update-480315 ",
     "time": "2026-06-04T02:13:29.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શું તમે ફોનને 100% ચાર્જ કરો છો? જાણો તેના સૌથી મોટા ગેરફાયદા",
-    "desc": "જો તમે પણ તમારા ફોનને દરરોજ 100 ટકા ચાર્જ કરો છો, તો આ સમાચાર તમારા માટે ઉપયોગી છે. એક્સપર્ટના મતે, તમારા ફોનને વારંવાર ફુલ સુધી ચાર્જ કરવાથી બેટરીનું સ્વાસ્થ્ય ધીમે ધીમે બગડી શકે છે. ચાલો જાણીએ કે તમારા ફોનને ચાર્જ કરવા માટે શ્રેષ્ઠ ટકાવારી શું માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/do-you-charge-your-phone-to-100-percent-know-its-biggest-disadvantages-480232 ",
-    "time": "2026-06-03T07:16:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -619,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/lalit-modi-open-ups-about-his-relationship-with-sushmita-sen-why-did-they-break-up-480112 ",
     "time": "2026-06-02T08:29:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "11 વર્ષ બાદ શિલ્પા શિંદેનો ચોંકાવનારો ખુલાસો! &amp;#039;ભાભીજી ઘર પર હૈ&amp;#039;ના પ્રોડ્યુસર પર કર્યો હતો જાતીય સતામણીનો ખોટો કેસ, બોલી- &amp;#039;મજબૂરીમાં...&amp;#039;",
-    "desc": "ટીવી એક્ટ્રેસ શિલ્પા શિંદેએ તાજેતરમાં જ એક પોડકાસ્ટમાં પોતાના જૂના વિવાદ પર હોશ ઉડાવી દે તેવો ખુલાસો કર્યો છે. તેણે જણાવ્યું કે 'ભાભીજી ઘર પર હૈ' શો છોડ્યા બાદ તેના પર ભારે દબાણ હતું અને તેને કાનૂની લડાઈઓનો સામનો કરવો પડ્યો હતો. શિલ્પાએ એ પણ સ્વીકાર્યું કે તેણે પ્રોડ્યુસર પર સેક્સ્યુઅલ હેરેસમેન્ટ (જાતીય સતામણી)નો કેસ કર્યો હતો, જે સાચો નહોતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shilpa-shindes-shocking-revelation-a-false-harassment-case-was-filed-against-the-producer-of-bhabhiji-ghar-par-hain-480095 ",
-    "time": "2026-06-02T06:21:47.000Z"
   }
 ];

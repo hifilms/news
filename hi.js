@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Serena Williams returns to professional Tennis at 44, wins doubles game, will return for Wimbledon?",
+    "desc": "Serena Williams made a winning return to competitive tennis at the Queen’s Club Championships in London on Tuesday. However, she is still undecided about a possible Wimbledon appearance. The 44-year-old stepped back into professional action for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/serena-williams-returns-to-professional-tennis-at-44-wins-doubles-game-will-return-for-wimbledon-2026-06-10-1044326",
+    "time": "2026-06-10T09:01:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jemimah Rodrigues shares how Sachin Tendulkar helped 'reset mind' ahead of ODI World Cup 2025 final",
+    "desc": "India batter Jemimah Rodrigues has revealed that advice from Sachin Tendulkar helped her stay focused ahead of the Women's ODI World Cup final. In the semi-final clash against Australia, the Mumbai batter played a career-defining...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-shares-how-sachin-tendulkar-helped-reset-mind-ahead-of-odi-world-cup-2025-final-2026-06-10-1044323",
+    "time": "2026-06-10T08:38:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA introduces multiple new rules for upcoming World Cup 2026, check full list",
+    "desc": "The 2026 FIFA World Cup will be played under a series of new regulations after the rule-making body IFAB approved changes affecting player behaviour, substitutions, VAR reviews and match management. The revised laws will come...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-introduces-multiple-new-rules-for-upcoming-world-cup-2026-check-full-list-watch-2026-06-10-1044319",
+    "time": "2026-06-10T08:10:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "USA denies entry to Somalian referee for World Cup, sends back home while FIFA watches in silence",
+    "desc": "Another off-field controversy has shaken the FIFA World Cup 2026. Somalian official Omar Artan has been denied entry into the United States despite travelling to join FIFA's referee team ahead of the tournament. He had...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/usa-denies-entry-to-somalian-referee-for-world-cup-sends-back-home-while-fifa-watches-in-silence-2026-06-10-1044303",
+    "time": "2026-06-10T06:32:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan announce 15-member squad for Asian Games, T20 World Cup  2026 star to lead",
+    "desc": "Pakistan have unveiled a 15-player squad for the upcoming Asian Games, which get underway on September 19. The leading run-scorer of the T20 World Cup 2026, Sahibzada Farhan, has been appointed captain of the side....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-15-member-squad-for-asian-games-t20-world-cup-2026-star-to-lead-2026-06-10-1044290",
+    "time": "2026-06-10T05:47:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What went wrong in BCCI's Centre of Excellence?",
+    "desc": "Hardik Pandya’s return to international cricket has been delayed after a fitness setback ruled him out of India’s upcoming three-match ODI series against Afghanistan. He was reported to have earned clearance to the ODI squad...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-to-miss-afghanistan-odis-what-went-wrong-in-bcci-s-centre-of-excellence-2026-06-10-1044284",
+    "time": "2026-06-10T05:12:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What exactly happened in 'Chelsea's naughtiest nightclub' on Sunday night?",
     "desc": "Fresh details have surfaced about the nightclub incident involving England captain Ben Stokes and ace pacer Gus Atkinson. As investigations continue, reports have provided a clearer picture of the all-rounder’s movements before the altercation that...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-w-vs-england-w-t20-world-cup-warm-up-match-live-streaming-when-and-where-to-watch-clash-2026-06-09-1044246",
     "time": "2026-06-09T18:27:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Women's T20 World Cup 2026: India in group of death as Australia, South Africa breath down neck",
-    "desc": "The Women's T20 World Cup 2026 sits on the horizon as the 12 teams are gearing up to put their best foot forward in the 24-day-long global showpiece in England that kicks off on June...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/womens-t20-world-cup-2026-india-in-group-of-death-as-australia-south-africa-breath-down-neck-2026-06-09-1044238",
-    "time": "2026-06-09T17:08:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC gives verdict on Lord's and Gaddafi Stadium pitches, slaps demerit points after biased conditions",
-    "desc": "The International Cricket Council (ICC) has rated the Lord's and Gaddafi Stadium pitches as \"unsatisfactory\" following the recent results at the two venues. The Lord's was the centre of the England vs New Zealand first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-gives-verdict-on-lords-and-gaddafi-stadium-pitches-slaps-demerit-points-after-biased-conditions-2026-06-09-1044231",
-    "time": "2026-06-09T15:11:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes to retire from international cricket? Reports make major claim after nightclub incident",
-    "desc": "England Test captain Ben Stokes might well drop the retirement bombshell after the latest nightclub incident, which has sent him and fast-bowler Gus Atkinson into major trouble. Stokes and Atkinson have courted controversy after they...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-to-retire-from-international-cricket-reports-make-major-claim-after-nightclub-incident-2026-06-09-1044225",
-    "time": "2026-06-09T14:22:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Only for second time in 36 years, Bangladesh defeat Australia in ODIs after stunning them in Mirpur",
-    "desc": "Bangladesh produced an epic performance to stun the reigning ODI World champions, Australia, in the first ODI of the three-match series at the Shere Bangla National Stadium, Dhaka, on Tuesday, June 9. The Bangladeshi side...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/only-for-second-time-in-36-years-bangladesh-defeat-australia-in-odis-after-stunning-them-in-mirpur-2026-06-09-1044220",
-    "time": "2026-06-09T14:07:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India A escape major scare from Sri Lanka A in tri-nation A series after Arshad Khan rescues team",
-    "desc": "India A managed to survive a major scare against Sri Lanka A in their tri-nation A series opener after Arshad Khan came to the rescue late in the defence of 277 at the Rangiri Dambulla...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-a-escape-major-scare-from-sri-lanka-a-in-tri-nation-a-series-after-arshad-khan-rescues-team-2026-06-09-1044211",
-    "time": "2026-06-09T12:50:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can India win their first-ever Women's T20 World Cup? Australia conqueror opines",
-    "desc": "Indian women achieved their much-awaited glory when they bagged the ODI World Cup 2025 at home in November, ending their long wait for a first senior ICC title. The victory was a watershed moment in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-india-win-their-first-ever-womens-t20-world-cup-australia-conqueror-opines-2026-06-09-1044204",
-    "time": "2026-06-09T12:10:58.000Z"
   }
 ];
