@@ -396,15 +396,6 @@ const newsData_gu = [
     "time": "2026-06-09T10:12:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ડ્રાઇવિંગ લાઇસન્સ અને ગાડીઓના ટ્રાન્સફર પર નવો નિયમો લાવી રહી છે સરકાર, આટલા વર્ષ સુધી વેલિડ રહેશે DL !",
-    "desc": "ભવિષ્યમાં, તમને વારંવાર તમારા ડ્રાઇવિંગ લાઇસન્સ રિન્યુ કરાવવાની ઝંઝટમાંથી મુક્તિ મળી શકે છે. સરકાર DL જાહેર કરવાની યોજના પર મોટા ફેરફાર પર કામ કરી રહી છે. હાલમાં, પહેલું DL 20 વર્ષ માટે જાહેર કરવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-government-is-bringing-new-rules-on-the-transfer-of-driving-licenses-and-vehicles-dl-will-remain-valid-for-this-many-years-480941 ",
-    "time": "2026-06-09T09:20:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સોના-ચાંદીમાં ભારે ઉથલપાથલ, હાઈથી હજું પણ સોનું 25000 અને ચાંદી 1.73 લાખ સસ્તા, જાણો આજનો રેટ",
     "desc": "સોના અને ચાંદીના ભાવમાં ભારે ઉથલપાથલ જોવા મળી રહી છે. એક બાજુ જ્યાં સોમવારે 8 જૂનના રોજ ભાવમાં મોટો કડાકો નોંધાયો હતો ત્યાં આજે સોના અને ચાંદી બંનેના ભાવમાં વધારો જોવા મળી રહ્યો છે. વાયદા બજાર અને રિટેલ બજાર બંનેમાં ભાવ ચડતા જોવા મળ્યા છે.",
@@ -628,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-2-divorce-reason-aamir-khan-both-marriage-stay-for-16-years-480501 ",
     "time": "2026-06-05T12:42:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ભારતના સપોર્ટમાં પુતિને આપેલા નિવેદન બાદ હવે ટ્રમ્પ PM મોદી વિશે શું બોલ્યા? ખાસ જાણો",
-    "desc": "હાલમાં જ રશિયાના રાષ્ટ્રપતિ વ્લાદિમિર પુતિને એક એવું નિવેદન આપ્યું કે ભારતને દબાવવાની કોશિશ સફળ થવાની નથી. ત્યારબાદ હવે અમેરિકી રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પનું પીએમ મોદીના વખાણ કરતું નિવેદન સામે આવ્યું છે. આ ઉપરાંત તેમણે શું કહ્યું તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/vladimir-putin-remark-about-pressure-on-india-what-donald-trump-speaks-about-pm-modi-480477 ",
-    "time": "2026-06-05T09:35:37.000Z"
   },
   {
     "cat": "Entertainment",

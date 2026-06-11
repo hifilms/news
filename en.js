@@ -1,21 +1,183 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Shakira and Burna Boy warm up spectators in World Cup opening ceremony",
+    "desc": "While there was a festive atmosphere inside the stadium, there were chaotic scenes in the centre of Mexico City where thousands of fans pushed and shoved as they attempted to enter the official World Cup fan zone shortly before the 1800 GMT kickoff.",
+    "img": "https://th-i.thgim.com/public/incoming/qqr7ap/article71090894.ece/alternates/LANDSCAPE_1200/South_Africa_Mexico_WCup_Soccer_78534.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup/shakira-and-burna-boy-warm-up-spectators-in-world-cup-opening-ceremony/article71090826.ece",
+    "time": "2026-06-11T19:26:09.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "How victories in states is consolidating BJP in Parliament",
+    "title": "CM’s promise on vehicle modification in Kerala raises many doubts",
+    "desc": "V.D. Satheesan’s recent assurance that the State govt. will permit ‘non-dangerous’ vehicle modifications was warmly welcomed by automobile enthusiasts. However, when the MVD came up with a list of permitted modifications, there was disappointment all around. A reality check on the legal and practical aspects of the proposal",
+    "img": "https://th-i.thgim.com/public/incoming/uvyhph/article71090850.ece/alternates/LANDSCAPE_1200/80691_11_6_2026_21_26_22_1_LIGHT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cms-promise-on-vehicle-modification-in-kerala-raises-many-doubts/article71086039.ece",
+    "time": "2026-06-11T19:16:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump backs off from more strikes after U.S., Iran exchange fire",
+    "desc": "Earlier in the day, Mr. Trump had written in another post that he would continue striking Iran after both sides exchanged fire for two consecutive nights. After Thursday’s attack, Iran also announced that it closed the Strait of Hormuz to all traffc.",
+    "img": "https://th-i.thgim.com/public/incoming/9gb9eo/article71089690.ece/alternates/LANDSCAPE_1200/2026-06-10T162854Z_781292375_RC24RLANW96C_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-vows-fresh-iran-strikes-and-seizure-of-oil-terminals/article71089421.ece",
+    "time": "2026-06-11T19:02:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stokes — the problem child",
+    "desc": "Each time he was in the dock, the star all-rounder dug deep to come back stronger, endearing himself to England’s historically unforgiving cricketing populace; the fact that Brook has been overlooked and the captaincy returned to Root, if only on a temporary basis, reiterates how shaken the mandarins at the ECB are at the latest turn of events",
+    "img": "https://th-i.thgim.com/public/sport/n92lk5/article71090829.ece/alternates/LANDSCAPE_1200/STOKES%201111.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/stokes-the-problem-child/article71090599.ece",
+    "time": "2026-06-11T18:51:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Key points discussed",
+    "desc": "Prime Minister Modi convened with chief ministers from Karnataka, Telangana, Tamil Nadu, Uttar Pradesh, and Jammu and Kashmir on the sidelines of the Niti Aayog meet. Discussions covered state affairs and development, with leaders extending congratulations on his 12 years in office. Gifts were exchanged, and key state issues were discussed.",
+    "img": "https://static.toiimg.com/photo/msid-131666453,imgsize-123490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-meets-cms-of-various-states-on-sidelines-of-niti-aayog-governing-council-meet-key-points-discussed/articleshow/131666125.cms",
+    "time": "2026-06-11T18:02:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah announces potential AFSPA rollback next year; groundbreaking MoU paves way for energy self-reliance",
+    "desc": "Home Minister Amit Shah announced that most of the Northeast may be free from the Armed Forces (Special Powers) Act by next year, citing an 80% reduction in violent incidents and AFSPA-covered areas. This progress coincides with a historic oil and mineral exploration pact between Assam and Nagaland, boosting regional development and energy self-reliance.",
+    "img": "https://static.toiimg.com/photo/msid-131666358,imgsize-828361.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-announces-potential-afspa-rollback-next-year-groundbreaking-mou-paves-way-for-energy-self-reliance/articleshow/131666179.cms",
+    "time": "2026-06-11T17:59:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Medical practice simplified in Andhra Pradesh",
+    "desc": "Those with recognised medical qualification and holding valid registration can practice in the State without the need for obtaining separate registration from the AP Medical Council or NOC from the State Medical Council or Union Territory Medical Council where they are registered",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/go-facilitates-ease-of-medical-practice-in-state/article71090294.ece",
+    "time": "2026-06-11T17:54:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Syringe recall at AIIMS was a precautionary, patient-safety measure: Health Ministry",
+    "desc": "In a letter written to Union Health Minister J.P. Nadda, Rajya Sabha MP Haris Beeran had said that in the past month two separate recall notices were issued for disposable 10 ml syringes with needles supplied by different manufacturers, citing quality-related complaints",
+    "img": "https://th-i.thgim.com/public/news/national/vgb03t/article71090737.ece/alternates/LANDSCAPE_1200/iStock-647243650.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/syringe-recall-at-aiims-was-a-precautionary-patient-safety-measure-health-ministry/article71089307.ece",
+    "time": "2026-06-11T17:52:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Countries protecting domestic industries, India no exception: Piyush Goyal on global trade",
+    "desc": "India navigates global trade challenges by fostering dialogue and partnerships, even as nations increasingly protect domestic industries like steel. Minister Piyush Goyal highlighted that despite a less effective WTO, international trade largely operates under its framework. India is actively pursuing free trade agreements to boost market access and attract significant investments, underscoring a commitment to innovation and long-term global integration.",
+    "img": "https://static.toiimg.com/photo/msid-131665908,imgsize-651660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/countries-protecting-domestic-industries-india-no-exception-piyush-goyal-on-global-trade/articleshow/131665837.cms",
+    "time": "2026-06-11T17:47:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How India’s agriculture went high-output in 12 years",
+    "desc": "India's agriculture sector has seen remarkable growth over the past decade, fueled by increased government investment and record foodgrain production. Policies now prioritize productivity, market access, and farmer income security. This transformation, marked by doubled GVA and enhanced crop yields, aims for a resilient, technology-driven farm economy crucial for national development.",
+    "img": "https://static.toiimg.com/photo/msid-131665627,imgsize-1283830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/seeds-of-change-how-indias-agriculture-went-high-output-in-12-years/articleshow/131665401.cms",
+    "time": "2026-06-11T17:30:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "France backs ‘Make in India’ in defence, signals new model for Rafale deal ahead of Modi visit",
+    "desc": "French diplomatic sources say future defence cooperation with India will be aligned with the ‘Make in India’ initiative and based on an equal partnership. They express optimism about the prospects of enhanced cooperation in the nuclear sector, citing recent legislative reforms in India.",
+    "img": "https://th-i.thgim.com/public/incoming/3wc9m2/article71090671.ece/alternates/LANDSCAPE_1200/TH17-Vinaya-IndGTQFJPO2U.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/france-backs-make-in-india-in-defence-signals-new-model-for-rafale-deal-ahead-of-modi-visit/article71090327.ece",
+    "time": "2026-06-11T17:19:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Opendoor shuts India operations, lays off 250 employees; embraces AI",
+    "desc": "“Today we began to say goodbye to our colleagues in India as we wind down our India operations. Our customers are in America, and that’s where our operational work belongs,” Opendoor CEO Kaz Nejatian said",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/opendoor-shuts-india-operations-lays-off-250-employees-embraces-ai/article71090626.ece",
+    "time": "2026-06-11T17:09:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TCS to train 50,000 staff with Claude powered by Anthropic",
+    "desc": "TCS said it will setup a dedicated Business Unit focused on delivering strong customer value propositions, joint industry solutions and deep AI expertise on the Claude family of models through early access to Claude models",
+    "img": "https://th-i.thgim.com/public/incoming/31ezzq/article71090610.ece/alternates/LANDSCAPE_1200/2026-06-11T053132Z_1146586613_RC2NF5A3UH8N_RTRMADP_3_TCS-AI-ANTHROPIC.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/tcs-to-train-50000-staff-with-claude-powered-by-anthropic/article71090260.ece",
+    "time": "2026-06-11T16:56:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Calcutta HC questions expelled TMC MLA Ritabrata Banerjee’s appointment as LoP by Speaker",
+    "desc": "Appearing for petitioners, senior advocate and TMC MP Kalyan Bandopadhyay argues that the Speaker’s decision ‘hit the Constitution’s basic structure’ by violating its tenth schedule that settled law governing relationship between a political party and its legislature party",
+    "img": "https://th-i.thgim.com/public/incoming/r9qzr2/article71066903.ece/alternates/LANDSCAPE_1200/20260603415L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-questions-expelled-tmc-mla-ritabrata-banerjees-appointment-as-lop-by-speaker/article71090129.ece",
+    "time": "2026-06-11T16:47:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The apex court rings its own chain",
+    "desc": "The Supreme Court’s reliance on suo motu cognisance has turned a once ‘rare but highly visible’ jurisdiction into a recurring instrument shaped by primetime attention and media reports; while it keeps ‘ringing’ its own chain through televised listings and supervision, the trial courts below it continue doing the work",
+    "img": "https://th-i.thgim.com/public/news/national/n3sg63/article71090578.ece/alternates/LANDSCAPE_1200/iStock-1314926481.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-apex-court-rings-its-own-chain/article71033214.ece",
+    "time": "2026-06-11T16:45:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu is committed to working constructively with Centre, says Vijay",
+    "desc": "Tamil Nadu wholeheartedly supports the nation’s aspirations and believes a developed India can be built only through empowered States, cooperative federalism, and inclusive development, the Chief Minister says in his address at the 11th Governing Council meeting of NITI Aayog",
+    "img": "https://th-i.thgim.com/public/news/national/6hxrtv/article71090366.ece/alternates/LANDSCAPE_1200/vijay.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-is-committed-to-working-constructively-with-centre-saysvijay/article71089880.ece",
+    "time": "2026-06-11T16:43:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kejriwal questions PM's message to Trump, says India must safeguard national interest",
+    "desc": "In a pointed critique, Aam Aadmi Party chief Arvind Kejriwal challenged Prime Minister Narendra Modi's public expressions of gratitude toward US President Donald Trump. Kejriwal argued that India must safeguard its sovereignty and national interests above all else, referencing recent attacks on Indian vessels and the tragic loss of Indian lives.",
+    "img": "https://static.toiimg.com/photo/msid-131664271,imgsize-54434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kejriwal-questions-pms-message-to-trump-says-india-must-safeguard-national-interest/articleshow/131664217.cms",
+    "time": "2026-06-11T16:36:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bhansali ne 6 mahine footage khaya': Ismail reveals Tadap story",
+    "desc": "One of Bollywood's most iconic heartbreak songs, Tadap Tadap Ke from Hum Dil De Chuke Sanam, picturised on Salman Khan and Aishwarya Rai, was not originally composed for the Sanjay Leela Bhansali directorial. Music composer Ismail Darbar recently revealed that the chartbuster was initially created as a scratch track for another major film before it eventually became a part of the 1999 blockbuster.",
+    "img": "https://static.toiimg.com/photo/msid-131664221,imgsize-65228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhansali-ne-6-mahine-footage-khaya-ismail-darbar-reveals-how-tadap-tadap-ke-landed-in-hum-dil-de-chuke-sanam-recalls-kks-first-reaction/articleshow/131664096.cms",
+    "time": "2026-06-11T16:31:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manu Bhaker to spearhead India challenge in two pistol events",
+    "desc": "Olympic medallist Manu Bhaker will compete in two events at the upcoming Asian Games, including the women's 10m air pistol and 25m pistol. India's 30-member shooting squad, announced by NRAI, features several multi-event athletes, with a strategic focus on medal prospects due to quota caps.",
+    "img": "https://static.toiimg.com/photo/msid-131663461,imgsize-54764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/asian-games-2026-manu-bhaker-to-spearhead-india-challenge-in-two-pistol-events-rapid-fire-to-have-only-anish-bhanwala/articleshow/131663403.cms",
+    "time": "2026-06-11T15:51:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How victory in states is consolidating BJP in Parliament",
     "desc": "The BJP, once a two-seat party, now dominates Indian politics, transforming Atal Bihari Vajpayee's prophecy into reality. Recent state victories, particularly in West Bengal, are strategically bolstering its parliamentary numbers. This focus on consolidation aims to achieve long-term legislative goals like 'One Nation, One Election' and the Uniform Civil Code.",
     "img": "https://static.toiimg.com/photo/msid-131662096,imgsize-1295696.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/march-to-dominance-how-victories-in-states-is-consolidating-bjp-in-parliament/articleshow/131661971.cms",
     "time": "2026-06-11T15:39:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BASE Economics student from Bengaluru selected to represent India for Youth Ambassador Programme 2026",
-    "desc": "Youth Ambassador Programme is one the largest youth led literacy campaigns organised by the World Literacy Foundation located in Australia. It aims to empower young people aged 16-25 to advocate for literacy in their own communities",
-    "img": "https://th-i.thgim.com/public/incoming/hzbget/article71090316.ece/alternates/LANDSCAPE_1200/_JAI2748.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/base-economics-student-from-bengaluru-selected-to-represent-india-for-youth-ambassador-programme-2026/article71088880.ece",
-    "time": "2026-06-11T15:35:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -63,15 +225,6 @@ const newsData_en = [
     "time": "2026-06-11T14:57:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Minister orders crackdown on illicit liquor, ganja and belt-shops across A.P.",
-    "desc": "Chairing a review meeting with officials of the Prohibition and Excise Department, Kollu Ravindra says the State government has streamlined the liquor policy, ensuring the availability of quality products to consumers through a regulated system",
-    "img": "https://th-i.thgim.com/public/incoming/h95xyf/article71090011.ece/alternates/LANDSCAPE_1200/10215_11_6_2026_20_0_37_1_WHATSAPPIMAGE2026_06_11AT74918PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-orders-crackdown-on-illicit-liquor-ganja-and-belt-shops-across-ap/article71089764.ece",
-    "time": "2026-06-11T14:52:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Trisha reveals the secret behind her toned body at 43",
     "desc": "At 43, actress Trisha Krishnan is setting fitness goals, revealing her toned physique is thanks to a rigorous Pilates routine. Her Instagram Stories showcased challenging exercises like hanging leg raises and Cadillac apparatus pulls, highlighting her dedication to strength, stability, and overall well-being. These demanding workouts engage multiple muscle groups, contributing to her enduring energy and youthful appearance.",
@@ -79,60 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-reveals-the-secret-behind-her-toned-body-at-43-heres-what-keeps-the-leo-star-fit-and-strong/articleshow/131662576.cms",
     "time": "2026-06-11T14:50:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lalu Prasad celebrates 79th birthday with family and party leaders; Bihar CM extends wishes",
-    "desc": "Mr. Prasad’s son and Leader of Opposition in the State Asembly Tejashwi Yadav, RJD leaders Abdul Bari Siddiqui, State party president Mangani Lal Mandal and party MLA from Maner Bhai Birendra took part in the celebrations of the ailing leader, who had recently returned from Singapore following medical treatment",
-    "img": "https://th-i.thgim.com/public/incoming/7gzuxw/article71090008.ece/alternates/LANDSCAPE_1200/20260611167L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/lalu-prasad-celebrates-79th-birthday-with-family-and-party-leaders-bihar-cm-extends-wishes/article71089160.ece",
-    "time": "2026-06-11T14:49:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "From low-performer to model campus, Nidamarru govt. school scripts a turnaround",
-    "desc": "Equipped with modern learning tools, science museum and labs, the school has been developed at a cost of ₹16 crore; SSC pass rate gone up to 80% while student strength has been more than doubled",
-    "img": "https://th-i.thgim.com/public/incoming/uv5abl/article71089923.ece/alternates/LANDSCAPE_1200/10215_11_6_2026_19_49_40_1_WHATSAPPIMAGE2026_06_11AT65657PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/from-low-performer-to-model-campus-nidamarru-govt-school-scripts-a-turnaround/article71088695.ece",
-    "time": "2026-06-11T14:39:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After ‘vote chori’ and ‘sarkar chori’ charges, Rahul Gandhi accuses BJP of ‘seat chori’ in Rajya Sabha polls",
-    "desc": "Citing the case of Parimal Nathwani, the BJP-backed Independent Rajya Sabha nominee in Jharkhand, Mr. Gandhi said he got his own name wrong on the form and skipped multiple mandatory disclosures, “yet the EC gave him an extension to fix everything”",
-    "img": "https://th-i.thgim.com/public/incoming/bvjen0/article71089924.ece/alternates/LANDSCAPE_1200/20260609103L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/after-vote-chori-and-sarkar-chori-charges-rahul-gandhi-accuses-bjp-of-seat-chori-in-rajya-sabha-polls/article71089851.ece",
-    "time": "2026-06-11T14:37:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Justice Balakrishnan Commission report on SC status for Dalit converts ready for submission",
-    "desc": "The Commission, set up in October 2022, has got several extensions; it was to study the discrimination faced by Dalit converts, their demand for SC status, the opposition to the demand, and the impact on existing SC communities",
-    "img": "https://th-i.thgim.com/public/incoming/wghn8q/article71089926.ece/alternates/LANDSCAPE_1200/BPFAR_10-9-2014_18-0-23_10SEP_05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/justice-balakrishnan-commission-report-on-sc-status-for-dalit-converts-ready-for-submission/article71089373.ece",
-    "time": "2026-06-11T14:37:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Abandoned plantations in Idukki raises threat of human-wildlife conflicts",
-    "desc": "Forest department officials report that a tiger released two months ago at the Periyar Tiger Reserve is now hiding in the overgrown tea estates of Vandiperiyar, while nearby communities face frequent wild elephant attacks linked to similar abandoned areas.",
-    "img": "https://th-i.thgim.com/public/incoming/sweuqf/article71089509.ece/alternates/LANDSCAPE_1200/80759_11_6_2026_18_6_22_1_ESSTATEBUSHES.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/abandoned-plantations-in-idukki-heighten-human-wildlife-conflict-threats/article71089500.ece",
-    "time": "2026-06-11T14:35:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. will be hitting Iran very hard tonight, says Trump; warns takeover of Kharg Island in future",
-    "desc": "\"At some point in the not too distant future, we will be taking Kharg Island, and other oil infrastructure points, and assume total control of their Oil and Gas Markets,\" Trump says; An Iranian official responds to Mr. Trump, saying he will receive a “stronger and more painful” response",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/west-asia-conflict-israel-us-iran-war-strait-of-hormuz-mojtaba-khamenei-donald-trump-benjamin-netanyahu-june-11-2026/article71087443.ece",
-    "time": "2026-06-11T14:29:11.000Z"
   },
   {
     "cat": "Politics",
@@ -178,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/from-peles-1970-parade-to-maradonas-hand-of-god-how-estadio-azteca-became-the-most-iconic-world-cup-stadium-ever/articleshow/131661807.cms",
     "time": "2026-06-11T14:05:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump vows fresh Iran strikes and seizure of oil terminals",
-    "desc": "The U.S. military will hit Iran “VERY HARD TONIGHT,” Mr. Trump said; he also said he would “rather not” hit Iranian civilian infrastructure like power plants, as previously threatened, “because once you do that, the people suffer”",
-    "img": "https://th-i.thgim.com/public/incoming/9gb9eo/article71089690.ece/alternates/LANDSCAPE_1200/2026-06-10T162854Z_781292375_RC24RLANW96C_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-vows-fresh-iran-strikes-and-seizure-of-oil-terminals/article71089421.ece",
-    "time": "2026-06-11T14:04:15.000Z"
   },
   {
     "cat": "Politics",
@@ -374,7 +464,7 @@ const newsData_en = [
     "desc": "Elon Musk may soon become the world's first trillionaire. This is due to the upcoming initial public offering of his company SpaceX. The IPO is expected to be the largest in history. If valuations hold true, Musk's personal fortune could surge past the trillion-dollar mark. This event could reshape global wealth rankings and create new millionaires.",
     "img": "https://static.toiimg.com/photo/msid-131658486,imgsize-369653.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/spacex-ipo-tomorrow-could-elon-musk-become-the-worlds-first-trillionaire-decoding-the-math/articleshow/131653755.cms",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/spacex-ipo-could-elon-musk-become-the-worlds-first-trillionaire-decoding-the-math/articleshow/131653755.cms",
     "time": "2026-06-11T12:00:25.000Z"
   },
   {
@@ -405,15 +495,6 @@ const newsData_en = [
     "time": "2026-06-11T11:39:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bharathiraja cremated with full state honours in Theni",
-    "desc": "Renowned filmmaker Bharathiraja was laid to rest with full state honours and a 72-gun salute in his native Theni. The celebrated director, who passed away at 84, was bid a final farewell by family, film personalities, and admirers. His passing marks the end of an era in Tamil cinema, with tributes pouring in from across the industry and beyond.",
-    "img": "https://static.toiimg.com/photo/msid-131657990,imgsize-88094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/bharathiraja-cremated-with-full-state-honours-in-theni-as-72-gun-salute-marked-his-final-farewell/articleshow/131657955.cms",
-    "time": "2026-06-11T11:34:54.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Inappropriate to abandon a ship in troubled waters': Babul Supriyo on leaving TMC",
     "desc": "TMC leaders Babul Supriyo and Shatrughan Sinha have reaffirmed their loyalty to Mamata Banerjee amidst a party exodus. Both stated they would not abandon the party during its troubled times, emphasizing Banerjee's past support for them. This comes as the TMC faces a significant crisis following electoral defeat and a rebellion weakening its legislative strength.",
@@ -421,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/inappropriate-to-abandon-a-ship-in-troubled-waters-babul-supriyo-on-leaving-tmc/articleshow/131657985.cms",
     "time": "2026-06-11T11:34:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Edida Raja says Bharathiraja changed 'Seethakoka Chiluka' climax",
-    "desc": "Producer Edida Raja revealed how his father, the late Edida Nageswara Rao, influenced the climax of the 1981 hit 'Seethakoka Chiluka'. Originally a tragic ending, it was changed to a hopeful one to better reflect the inter-caste love story, encouraging positive messages. Bharathiraja readily agreed to reshoot, leading to the film's immense success and accolades.",
-    "img": "https://static.toiimg.com/photo/msid-131657882,imgsize-64724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/edida-raja-says-bharathiraja-changed-seethakoka-chiluka-climax-after-fathers-suggestion/articleshow/131657807.cms",
-    "time": "2026-06-11T11:30:30.000Z"
   },
   {
     "cat": "Sports",
@@ -529,33 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-odi-rankings-update-india-retain-top-spot-new-zealand-close-the-gap/articleshow/131655092.cms",
     "time": "2026-06-11T09:48:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'With whose permission captain took ship forward': Family of Indian sailor killed in US strike on ship demands probe",
-    "desc": "The family of Aditya Sharma, a deck cadet killed in the attack on MT Settebello near the Strait of Hormuz, has demanded an inquiry into the incident. Sharma was among three Indian seafarers who died when the vessel was attacked in the Gulf of Oman.",
-    "img": "https://static.toiimg.com/photo/msid-131655069,imgsize-51804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/with-whose-permission-captain-took-ship-forward-family-of-indian-sailor-killed-in-us-strike-on-ship-demands-probe/articleshow/131654097.cms",
-    "time": "2026-06-11T09:38:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Will not leave Mamata in difficult time': Shatrughan Sinha rubbishes speculation of quitting TMC",
-    "desc": "Amidst a party exodus, TMC MP Shatrughan Sinha pledged loyalty to Mamata Banerjee, stating he wouldn't abandon her during challenging times, recalling her support for him. This declaration follows reports of his alleged involvement in forming a separate faction. Earlier, Sinha also congratulated Prime Minister Narendra Modi on his 12 years in office, calling him a \"friend and guide.\"",
-    "img": "https://static.toiimg.com/photo/msid-131654894,imgsize-42594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-not-leave-mamata-in-difficult-time-shatrughan-sinha-rubbishes-speculation-of-quitting-tmc/articleshow/131654883.cms",
-    "time": "2026-06-11T09:25:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police recover Rs 1.77 crore from locked room",
-    "desc": "West Bengal Police unearthed nearly Rs 1.77 crore in cash from a private school's locked room in Kanchrapara. The institution's accountant has been detained for questioning, failing to provide a satisfactory explanation for the large sum. Allegations of financial irregularities and cheating have been filed against four individuals, including the school's chairman.",
-    "img": "https://static.toiimg.com/photo/msid-131654554,imgsize-635133.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cash-stack-at-west-bengal-school-police-recover-rs-1-77-crore-from-locked-room/articleshow/131654117.cms",
-    "time": "2026-06-11T09:21:28.000Z"
   },
   {
     "cat": "Sports",
@@ -712,15 +757,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Just chill, relax': FIFA chief reacts after Somali referee denied US entry- Watch",
-    "desc": "FIFA President Gianni Infantino said the organisation cannot influence government decisions after Somali referee Omar Artan was denied entry into the US over security concerns, urging people to “just chill, relax” while FIFA works behind the scenes. Infantino also defended soaring World Cup ticket prices, backed Iran’s participation despite tensions with the US, praised Donald Trump’s role in hosting the tournament, and said FIFA prioritised accessibility over potentially higher broadcast revenues.",
-    "img": "https://static.toiimg.com/photo/msid-131647012,imgsize-41634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/just-chill-relax-fifa-chief-gianni-infantino-finally-reacts-after-somali-referee-denied-us-entry-ahead-of-world-cup-watch/articleshow/131646871.cms",
-    "time": "2026-06-11T01:55:47.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "How India created cricket's busiest fast bowler",
     "desc": "how could a bowler who had drifted out of India's white-ball plans suddenly need rest? The answer lies in the format India have simply refused to play without him. While Jasprit Bumrah's workload was carefully managed, Siraj quietly became India's default fast bowler and the busiest quick in world cricket. For three years, he has been India's workhorse. Now, workload management has finally reached him too.",
     "img": "https://static.toiimg.com/photo/msid-131637824,imgsize-69314.cms",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/daily-quiz-on-french-open/article71083783.ece",
     "time": "2026-06-10T07:03:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The King’s coronation",
-    "desc": "Over the last few years, PBKS skipper Shreyas not just knocked on the door but banged it; he deservedly enjoyed a double delight when he returned to India’s T20I set-up not only as player but also as captain",
-    "img": "https://th-i.thgim.com/public/incoming/j4eksu/article71082340.ece/alternates/LANDSCAPE_1200/20250301231L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/the-kings-coronation/article71082343.ece",
-    "time": "2026-06-10T05:23:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The enduring impact of Singeetham Srinivasa Rao’s films on contemporary filmmakers",
-    "desc": "As Singeetham Srinivasa Rao, 94 years young, gears up for the release of his new Telugu film ‘Sing Geetham’, directors Vivek Athreya, Mohana Krishna Indraganti and Venkatesh Maha travel down memory lane to recall his iconic films",
-    "img": "https://th-i.thgim.com/public/incoming/rznssg/article71079414.ece/alternates/LANDSCAPE_1200/DSC_2306.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/the-enduring-impact-of-singeetham-srinivasa-raos-films-on-contemporary-filmmakers/article71075609.ece",
-    "time": "2026-06-10T04:41:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran FM says foreign forces face ‘constant risk’ of being caught in crossfire",
-    "desc": "“To reduce risk, best solution is for them to leave,” Abbas Araghchi added, after U.S. President Donald Trump vowed a response following accusations that Iran shot down an Apache helicopter over the Strait of Hormuz a day earlier.",
-    "img": "https://th-i.thgim.com/public/incoming/hfik89/article71082396.ece/alternates/LANDSCAPE_1200/PTI05_15_2026_000155B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-fm-says-foreign-forces-face-constant-risk-of-being-caught-in-crossfire/article71082391.ece",
-    "time": "2026-06-10T02:19:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Court orders restitution of assets worth ₹9,420.57 crore to Justice Lodha Committee in PACL case",
-    "desc": "The ED probe is based on a case registered by the CBI against PACL Ltd. and its promoters for allegedly defrauding lakhs of investors; the agency has so far attached assets worth nearly to ₹28,626 crore in India and Australia",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/court-orders-restitution-of-assets-worth-942057-crore-to-justice-lodha-committee-in-pacl-case/article71081289.ece",
-    "time": "2026-06-09T17:10:22.000Z"
   }
 ];

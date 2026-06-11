@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Guillermo Ochoa not playing for Mexico in FIFA World Cup 2026 opener?",
+    "desc": "Legendary Guillermo Ochoa missed out as Mexico open their FIFA World Cup 2026 campaign against South Africa at the Mexico City Stadium on Thursday, June 11 (June 12 as per IST). The legendary goalkeeper has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-guillermo-ochoa-not-playing-for-mexico-in-fifa-world-cup-2026-opener-2026-06-12-1044537",
+    "time": "2026-06-11T19:00:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mexico leads 1-0 as second half begins at Estadio Azteca",
+    "desc": "The FIFA World Cup 2026 kicks off with an exuberating opening ceremony at the Mexico City Stadium as Mexico gears up to take on South Africa in the opening match of the tournament. The 23rd...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mex-vs-rsa-fifa-world-cup-2026-live-opening-ceremony-mexico-vs-south-africa-latest-match-updates-commentary-2026-06-11-1044526",
+    "time": "2026-06-11T16:43:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "History created! Bangladesh defeat Australia in first-ever ODI series, eye massive record",
     "desc": "Bangladesh have created history as they registered an ODI series win over the mighty Australians for the first time after their win in the second match at the Shere Bangla National Stadium, Dhaka by five...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-shares-crucial-update-about-shoulder-injury-after-being-ruled-out-of-india-a-tour-2026-06-11-1044474",
     "time": "2026-06-11T10:46:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026 to feature 4 sets of brothers representing different nations, 3 sibling duos in same team",
-    "desc": "Seven sets of brothers are set to feature at the FIFA World Cup 2026. While some of them will represent the same nation, in many cases, they will be seen playing for different countries in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-to-feature-4-sets-of-brothers-representing-different-nations-3-sibling-duos-in-same-team-2026-06-11-1044456",
-    "time": "2026-06-11T07:55:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi produces another dominant show, bats at 200 strike rate vs Afghanistan A",
-    "desc": "Vaibhav Sooryavanshi fell six runs short of a half-century against Afghanistan A in India’s second league match in Dambulla on Thursday. The 15-year-old looked set for a bigger score after racing away with another aggressive...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-produces-another-dominant-show-bats-at-200-strike-rate-vs-afghanistan-a-2026-06-11-1044446",
-    "time": "2026-06-11T06:45:17.000Z"
   }
 ];
