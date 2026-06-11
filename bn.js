@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "'দিদি, আই মিস ইউ...' তৃণমূলের ভাঙনের মাঝেই সাংসদ শতাব্দীর বড় বার্তা মমতাকে: কোন পথে রাজনীতি? বড় খবর",
+    "desc": "শতাব্দী রায় তাঁর বিস্ফোরক বক্তব্য়ে জানিয়েছেন, নির্বাচনের ফল প্রকাশের পর মমতা বন্দ্যোপাধ্যায়ের ডাকা একটি পর্যালোচনা বৈঠকই ছিল দল ছাড়ার মূল অনুঘটক বা ‘টার্নিং পয়েন্ট’। তিনি বলেছেন, দলের বহু নেতাই পরাজয়ের কারণগুলো নিয়ে একটি স্বচ্ছ ও সৎ পর্যালোচনা চেয়েছিলেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/satabdi-roy-big-emotional-message-to-didi-mamata-banerjee-amid-tmc-split-after-tmc-loose-in-election_657685.html ",
+    "time": "2026-06-11T05:41:56.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "শুভেন্দুর শরণাপন্ন অভিষেক-ঘনিষ্ঠ সায়নী, ভূপেন্দ্র যাদবের বাড়িতে শুরু রুদ্ধদ্বার মেগা বৈঠক, দলবদলের জল্পনা তীব্র!",
     "desc": "এনডিএ’র শরিক হতে চেয়ে সুর বদল যাদবপুরের তৃণমূল সাংসদ সায়নী ঘোষেরও! সূত্রের খবর, ‘বিদ্রোহী ব্লকে’ নাম লেখাচ্ছেন অভিষেক বন্দ্যোপাধ্যায়ের বিশ্বস্ত সেনাপতিও। তাৎপর্যপূর্ণ বিষয় হল, সদ্য মমতা বন্দ্য়োপাধ্যায় যে দলীয় কমিটি ঘোষণা করেছিলেন তাতে যুব তৃণমূল কংগ্রেসের সভানেত্রীর পদ পেয়েছিলেন এই সায়নীই।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -79,15 +88,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/big-setback-for-donald-trump-as-us-federal-court-cancels-100000-dollar-h-1b-visa-fee-how-indians-will-be-benefited_657381.html ",
     "time": "2026-06-09T05:56:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Suvendu Adhikari at Satabdi Roy's house: স্পিকারের অফিসে বিদ্রোহী তৃণমূল সাংসদের চিঠি যেতেই, শতাব্দীর বাড়িতে শুভেন্দু: সোম সন্ধ্যায় দিল্লিতে হাইভোল্টেজ ড্রামা",
-    "desc": "শতাব্দীর এই সান্ধ্য আড্ডায় একে একে এসে পৌঁছান জুন মালিয়া, বাপি হালদার, অসিত মাল, আবু তাহের খান ও খলিলুর রহমানের মতো হেভিওয়েট বিক্ষুব্ধ সাংসদরা। জানা গিয়েছে, শতাব্দী রায়, আবু তাহের সহ কয়েকজন সাংসদ নিজেদের কিছু সমস্যার কথা উত্থাপন করলে স্বয়ং মুখ্যমন্ত্রী শুভেন্দু অধিকারী সেই সমস্যার সমাধান করতে সেখানে পৌঁছন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/suvendu-adhikari-at-satabdi-roy-house-in-delhi-along-with-tmc-rebel-mp-meeting_657333.html ",
-    "time": "2026-06-08T15:21:46.000Z"
   },
   {
     "cat": "World",
@@ -216,6 +216,15 @@ const newsData_bn = [
     "time": "2026-06-02T11:34:06.000Z"
   },
   {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
     "cat": "World",
     "title": "জুলাই বিক্ষোভে নিহত '১৪০০'! রাষ্ট্রসংঘের রিপোর্টের পাল্টা কড়া তথ্যপ্রমাণ পেশ হাসিনার আইনি পরামর্শদাতার, সপাটে চিঠিও",
     "desc": "চিঠিতে বলা হয়েছে যে, রিপোর্টে আন্দোলন চলাকালীন ১,৪০০ জন প্রতিবাদকারী নিহত হওয়ার যে দাবি করা হয়েছে, তা ভুল। এই দাবির প্রেক্ষিতে সরকারি গেজেট ও অন্যান্য রিপোর্টের মধ্যে পরিসংখ্যানগত বৈসাদৃশ্যকে তুলে ধরা হয়েছে। রিপোর্টে উল্লেখ ১,৪০০ জন নিহতের সংখ্যা প্রত্যাহার ও সংশোধনের জোরালো দাবি জানানো হয়েছে।",
@@ -232,5 +241,50 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/2026-super-el-nino-weather-kelvin-wave-in-pacific-ocean-impact-explained_655791.html ",
     "time": "2026-05-29T07:45:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

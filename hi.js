@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "FIFA World Cup 2026 to feature 4 sets of brothers representing different nations, 3 sibling duos in same team",
+    "desc": "Seven sets of brothers are set to feature at the FIFA World Cup 2026. While some of them will represent the same nation, in many cases, they will be seen playing for different countries in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-to-feature-4-sets-of-brothers-representing-different-nations-3-sibling-duos-in-same-team-2026-06-11-1044456",
+    "time": "2026-06-11T07:55:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi produces another dominant show, bats at 200 strike rate vs Afghanistan A",
+    "desc": "Vaibhav Sooryavanshi fell six runs short of a half-century against Afghanistan A in India’s second league match in Dambulla on Thursday. The 15-year-old looked set for a bigger score after racing away with another aggressive...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-produces-another-dominant-show-bats-at-200-strike-rate-vs-afghanistan-a-2026-06-11-1044446",
+    "time": "2026-06-11T06:45:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India-born all-rounder called up for Australia as Travis Head ruled out of T20Is vs Bangladesh",
+    "desc": "Australia opener Travis Head has been ruled out of the three-match T20I series against Bangladesh. He has been granted a personal leave. All-rounder Nikhil Chaudhary has been called up as his replacement. With that, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-born-all-rounder-called-up-for-australia-as-travis-head-ruled-out-of-t20is-vs-bangladesh-2026-06-11-1044442",
+    "time": "2026-06-11T06:26:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "FIA, FOM and Formula 1 agree for 2027, 2028 regulation changes; what will be tweaked from next season onwards?",
     "desc": "The FIA, Formula One Management (FOM), teams and the power unit manufacturers have agreed to the previously decided changes to the F1 regulations for 2027 and 2028. After several racers criticised the 53/47 power split...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dates-for-indias-test-tour-of-sri-lanka-revealed-t20is-likely-to-be-played-too-check-details-2026-06-10-1044364",
     "time": "2026-06-10T13:43:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Warning signs for India ahead of Women's T20 World Cup 2026? Mandhana, Shafali's dismissals hint so",
-    "desc": "In what are warning signs for India ahead of the upcoming Women's T20 World Cup 2026, openers Smriti Mandhana and Shafali Verma's tepid form continued. The two were dismissed cheaply during India's last warm-up fixture...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/warning-signs-for-india-ahead-of-womens-t20-world-cup-2026-mandhana-shafalis-dismissals-hint-so-2026-06-10-1044357",
-    "time": "2026-06-10T12:17:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan cricket in turmoil again? Test captain and coach's future to be decided, new options emerge",
-    "desc": "The Pakistan cricket seems to be in turmoil yet again as they are likely to change their Test captain, Shan Masood and Test head coach Sarfaraz Khan after suffering a 2-0 drubbing against Bangladesh in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-cricket-in-turmoil-again-test-captain-and-coachs-future-to-be-decided-new-options-emerge-2026-06-10-1044353",
-    "time": "2026-06-10T11:39:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manav Suthar pens new deal with English County club after stellar Test debut",
-    "desc": "India's star debutant Manav Suthar has signed a short-term deal with English County club Warwickshire for the next two rounds of the Championship, the club made the announcement on Wednesday. Warwickshire said that the left-arm...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-pens-new-deal-with-english-county-club-after-stellar-test-debut-2026-06-10-1044343",
-    "time": "2026-06-10T11:07:46.000Z"
   }
 ];

@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ઓસ્ટ્રેલિયન T20 ટીમમાં આ ભારતીય ખેલાડીને મળ્યું સ્થાન, 60 વર્ષ બાદ રચાશે ઈતિહાસ",
+    "desc": "ઓસ્ટ્રેલિયાએ દિલ્હીમાં જન્મેલા નિખિલ ચૌધરીને તેની ટી20 ટીમમાં સામેલ કર્યો છે. જો તેને બાંગ્લાદેશ સામે ડેબ્યૂ કરવાની તક મળશે તો તે 60 વર્ષ જૂનો ઇતિહાસ બદલશે. બાંગ્લાદેશ અને ઓસ્ટ્રેલિયા વચ્ચે પ્રથમ ટી20 મેચ 17 જૂને રમાશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/nikhil-chaudhary-become-first-indian-born-to-play-for-australia-in-more-than-60-years-481160 ",
+    "time": "2026-06-11T09:37:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "0 રન પર ત્રણ વિકેટ... વનડેમાં ઓસ્ટ્રેલિયાનો શરમજનક રેકોર્ડ, બાંગ્લાદેશે કાંગારૂઓની ખોલી પોલ",
+    "desc": "ઓસ્ટ્રેલિયન ક્રિકેટ ટીમ હાલમાં શરમજનક પ્રદર્શન કરી રહી છે. ઓસ્ટ્રેલિયા અને બાંગ્લાદેશ વચ્ચે આજે બીજી વનડે મેચ રમાઈ રહી છે. આ મેચમાં ઓસ્ટ્રેલિયાની ટીમે એક પણ રન બનાવ્યા વિના ત્રણ વિકેટ ગુમાવી દીધી હતી. ત્રણ ઓસ્ટ્રેલિયન બેટ્સમેન શૂન્ય રને આઉટ થયા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/australia-lost-their-first-3-wickets-for-zero-against-bangladesh-in-second-odi-481157 ",
+    "time": "2026-06-11T08:42:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વધુ એક ભારતીય જહાજ &amp;#039;જલવીર&amp;#039; પર હુમલો, &amp;#039;સેટેબેલો&amp;#039; પર થયેલા હુમલામાં 3 ભારતીયોના જીવ ગયા",
+    "desc": "વળી પાછો ભારતીય જહાજ પર ઓમાનના દરિયાકાંઠા પાસે હુમલો થયાના સમાચાર છે. ભારતીય જહાજ MT જલવીર પર હુમલો થયો છે જેના પર ભારતીય નાવિકો સવાર છે. આ પહેલા પણ એક જહાજ પર થયેલા હુમલામાં 3 ભારતીયોના જીવ ગયા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/another-indian-ship-jalveer-attacked-near-coast-of-oman-3-indian-lost-lives-in-settebello-incident-481156 ",
+    "time": "2026-06-11T08:28:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "48 કલાકમાં સોનાના ભાવમાં 7000 અને ચાંદીમાં 12000નો મોટો ઘટાડો, ભાવ ઘટીને કેટલે પહોંચ્યા? જાણો આજનો રેટ",
+    "desc": "સોનાના ભાવમાં જોરદાર કડાકો જોવા મળ્યો છે. આજે ફરીથી વાયદા બજાર અને રિટેલ બજારમાં ભાવ ગગડ્યા છે. અચાનક એવું તે શું થયું કે ભાવમાં ઘટાડો જોવા મળી રહ્યો છે. ખાસ જાણો કારણ અને આજનો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-drops-by-rs-7000-and-silver-12000-in-48-hours-as-per-ibja-aaj-no-sona-chandi-no-bhav-481147 ",
+    "time": "2026-06-11T07:46:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સેફ્ટીમાં ફેલ થઈ આ કોમ્પેક્ટ ફેમિલી કાર, Global NCAP ટેસ્ટમાં મળ્યો માત્ર 1 સ્ટાર",
+    "desc": "ભારતમાં બનતી Kia Sonet ને Global NCAP ક્રેશ ટેસ્ટમાં માત્ર 1 સ્ટાર સેફ્ટી રેટિંગ મળ્યું છે. રિપોર્ટ સામે આવ્યા બાદ ઘણા લોકોના મનમાં સવાલ ઉઠી રહ્યો છે કે શું ભારતમાં વેચાતી Sonet કેટલી સુરક્ષિત છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/kia-sonet-compact-family-car-failed-in-safety-got-only-1-star-in-global-ncap-test-481145 ",
+    "time": "2026-06-11T07:35:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મિડલ ઈસ્ટમાં ફરી યુદ્ધ, હોર્મુઝ સ્ટ્રેટ થયો બંધ! રોજેરોજ વપરાતી આ 7 વસ્તુઓના ભાવમાં થઈ શકે ભડકો",
+    "desc": "મિડલ ઈસ્ટમાં ફરીથી યુદ્ધ ભડકી ઉઠ્યું છે. અમેરિકાનું હેલિકોપ્ટર તોડી પાડવામાં આવતા ભડકેલા અમેરિકાએ હુમલા કર્યા અને ઈરાને પણ વળતો પ્રહાર કર્યો પછી હોર્મુઝ સ્ટ્રેટ બંધ કરી દીધો. હવે જો આ હોર્મુઝ સ્ટ્રેટ ખોરવાયેલો રહે તો ભારત પર તેની મોટી અસર પડી શકે છે. જાણો કઈ કઈ વસ્તુઓના ભાવ વધી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/iran-us-war-closure-of-strait-of-hormuz-may-increase-the-prices-of-these-items-in-india-481135 ",
+    "time": "2026-06-11T06:33:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઇલના ભાવમાં ભડકો... શું પેટ્રોલ-ડીઝલના ભાવ પણ વધી ગયા ? જાણો તમારા શહેરના આજના ભાવ",
+    "desc": "આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલના ભાવમાં 2 ટકાથી વધુનો વધારો થયો છે. પરિણામે ભારતીય ઓઈલ કંપનીઓ તેમના માર્જિન પર નોંધપાત્ર દબાણનો સામનો કરી રહી છે. ત્યારે તમારા શહેરમાં પેટ્રોલ અને ડીઝલના આજના ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-crude-oil-price-hike-due-to-america-iran-tension-481122 ",
+    "time": "2026-06-11T05:32:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું ઘટશે પેટ્રોલ-ડીઝલના ભાવ? વધુ ઈથેનોલવાળા પેટ્રોલ પર હવે નહીં લાગે એક્સાઈઝ ડ્યૂટી, સરકારની જાહેરાત",
+    "desc": "જે રીતે પેટ્રોલ અને ડીઝલના ભાવમાં વધારો જોવા મળી રહ્યો છે અને વૈશ્વિક પરિસ્થિતિ પણ ચિંતાજનક છે ત્યારે ઈથેનોલવાળા પેટ્રોલ પર હવે વધુ ભાર મૂકાઈ રહ્યો છે. સરકારે વધુ ઈથેનોલવાળા પેટ્રોલ પરથી એક્સાઈઝ ડ્યૂટી હટાવવાનો નિર્ણય લીધો છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/no-excise-duty-on-22-to-30-percent-ethanol-blended-petrol-check-details-481118 ",
+    "time": "2026-06-11T04:44:16.000Z"
+  },
+  {
     "cat": "World",
     "title": "મિડલ ઈસ્ટમાં ભડક્યું યુદ્ધ! અમેરિકાના હુમલાના જવાબમાં ઈરાને બહરીન-કુવૈતમાં કર્યા હુમલા, હોર્મુઝ બંધ",
     "desc": "અમેરિકાના હુમલાના જવાબમાં ઈરાને બહરીન અને કુવૈતમાં અમેરિકી સૈન્ય ઠેકાણાઓને નિશાન બનાવવાનો દાવો કર્યો છે. આ સાથે હોર્મુઝ સ્ટ્રેટમાં બે ઓઈલ ટેન્કરો ઉપર પણ હુમલો કર્યો છે. ત્યારબાદ ઈરાને પણ સ્ટ્રેટ ઓફ હોર્મુઝ ફરી બંધ કરવાનો દાવો કર્યો છે.",
@@ -351,15 +423,6 @@ const newsData_gu = [
     "time": "2026-06-09T06:32:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "18 કેરેટ સોનામાંથી બનાવવામાં આવે છે ફીફા વર્લ્ડ કપની ટ્રોફી, વજન છે 6 કિલો, કિંમત જાણીને ઊડી જશે હોશ",
-    "desc": "ફીફા વર્લ્ડ કપ 2026ની મેગા ઇવેન્ટ 11 જૂનથી 19 જુલાઈ દરમિયાન રમાશે. ફૂટબોલ વર્લ્ડ કપની આ એડિશનની યજમાની સંયુક્ત રીતે USA, કેનેડા અને મેક્સિકો કરી રહ્યા છે. આ વખતે રેકોર્ડ 48 ટીમો ભાગ લેશે અને 39 દિવસમાં કુલ 104 મેચો રમાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-trophy-is-made-of-18-carat-gold-weighs-6-kg-the-price-will-blow-your-mind-480898 ",
-    "time": "2026-06-09T06:14:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "પેપરલીક વગર કેવી રીતે થાય છે દુનિયાની સૌથી મોટી પરીક્ષા, ૧.૩૪ કરોડ વિદ્યાર્થીઓ છતાં ચીનમાં કેમ નથી થતું પેપર લીક? જાણો રહસ્ય",
     "desc": "ચીનમાં હાલ દુનિયાની સૌથી મોટી અને આકરી ગણાતી ગાઓકાઓ 2026 (Gaokao) પરીક્ષા ચર્ચામાં છે. જેમાં 1 કરોડ 34 લાખ વિદ્યાર્થીઓ પરીક્ષા આપવાના છે. આટલી વિશાળ સંખ્યામાં વિદ્યાર્થીઓ છતાં, આ પરીક્ષામાં કોઈ પંખી પણ આવતું નથી. ન તો અહી કોઈ પેપરલીક થાય છે. અભેદ્ય ચક્રવ્યૂહની જેમ આ પરીક્ષા માટે ચુસ્ત બંદોબસ્ત હોય, જેને કારણે પેપર લીક જેવી ઘટના બનવી પણ શક્ય નથી.",
@@ -378,33 +441,6 @@ const newsData_gu = [
     "time": "2026-06-09T05:12:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "યુસુફ પઠાણ પણ બળવાખોર સાંસદોમાં સામેલ? જાણો કોણે કર્યો આવો ચોંકાવનારો દાવો",
-    "desc": "મૂળ ગુજરાતના વડોદરાના રહીશ પરંતુ ટીએમસીની ટિકિટ પર બંગાળના બહરામપુરથી ચૂંટણી લડી ચૂકેલા યુસુફ પઠાણ હાલ ચર્ચામાં છે. કારણકે એવું કહેવાય છેકે મમતા બેનર્જી માટે સીટ ખાલી કરવાની તેમણે ઘસીને ના પાડી અને રિપોર્ટ મુજબ જે સાંસદોએ બળવો પોકાર્યો છે તેમાં તેમનું નામ પણ સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/yusuf-pathan-also-included-among-the-rebel-mps-supporting-nda-kakoli-ghosh-claims-480888 ",
-    "time": "2026-06-09T03:31:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રના કર્મચારીઓને સસ્તા દરે સરકાર આપશે આ લોન, જાણો ડિટેલ અને વ્યાજદર",
-    "desc": "આ યોજના અંગે 8મું પગાર પંચ નિર્ણય લેશે, જેની સીધી અસર કેન્દ્રીય કર્મચારીઓ પર પડશે. કર્મચારીઓને સસ્તા દરે લોન મળતા તેમના સપનાના ઘરની ઈચ્છા પુરી થશે જ્યારે સમારકામ માટે પણ સરકાર સસ્તા દરે લોન આપશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/the-government-will-provide-this-loan-to-central-employees-at-cheap-rates-know-the-details-and-interest-rate-480860 ",
-    "time": "2026-06-08T16:26:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "દેશની આ મોટી બેંકે ગ્રાહકોને આપ્યો ઝટકો, વધશે EMIનો બોજ? જાણો",
-    "desc": "દેશની આ દિગ્ગજ બેંકે ગ્રાહકોને ઝટકો આપ્યો છે, જેના કારણે સામાન્ય લોન લેનારા ગ્રાહકો પર તેની સીધી અસર થઈ શકે છે, RBIએ થોડા દિવસ પહેલા જ રેપો રેટ જે હતો તે યથાવત રાખ્યો છે, તેમાં કોઈ વધારો કે ઘટાડો કરવામાં આવ્યો નથી, ત્યારે બેંક દ્વારા આ વધારો લોકોને ડાયરેક્ટ અસર કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-big-bank-of-the-country-gave-a-shock-to-the-customers-will-the-burden-of-emi-increase-know-480850 ",
-    "time": "2026-06-08T14:58:32.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "મોબાઈલ ચાર્જ કરતા સમયે મોટા ભાગના લોકો કરે છે આ 5 મોટી ભૂલ, જેનાથી વધી શકે છે બેટરી બ્લાસ્ટ થવાનો ખતરો",
     "desc": "મોબાઈલ ફોન બ્લાસ્ટ થવાના અનેક સમાચાર આવી ચુક્યા છે, પણ તમે ક્યારેય વિચાર્યું છે, કે મોબાઈલ ફોન ચાર્જ કરતા સમયે જ મોટા ભાગે કેમ બ્લાસ્ટ થાય છે, મોબાઈલ ફોન ચાર્જ કરતા સમયે મોટા ભાગે આપણે અમુક ભૂલો એવી કરી કરીએ છીએ, જેનાથી મોબાઈલને બેટરી ફૂલી જાય છે અને ફાટે છે.",
@@ -412,24 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/most-people-make-these-5-big-mistakes-while-charging-their-mobile-phones-which-can-increase-the-risk-of-battery-explosion-480836 ",
     "time": "2026-06-08T11:31:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતીય રેલ્વે બદલશે 40 વર્ષ જૂની રિઝર્વેશન સિસ્ટમ, ઓગસ્ટથી થશે હાઇ-ટેક બુકિંગ, જાણો",
-    "desc": "ભારતીય રેલ્વે ઓગસ્ટથી શરૂ થતી તેની 40 વર્ષ જૂની રિઝર્વેશન સિસ્ટમમાં મોટા ફેરફારો કરવા માટે તૈયાર છે. લગભગ ચાર દાયકા જૂની પેસેન્જર રિઝર્વેશન સિસ્ટમ (PRS), જે 1986થી કાર્યરત છે, હવે ફક્ત યાદગીરી રહેશે નહીં. રેલ્વે તેને સંપૂર્ણપણે નવી, આધુનિક અને વીજળીથી ઝડપી રિઝર્વેશન સિસ્ટમથી બદલશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/indian-railways-will-change-40-year-old-reservation-system-high-tech-booking-will-be-done-from-august-know-480833 ",
-    "time": "2026-06-08T10:53:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UAN એક્ટિવેશનના નિયમોમાં મોટા ફેરફાર, હવે આ રીતે થશે ઓથેન્ટિકેશન, જાણો સ્ટેપ બાય સ્ટેપ પ્રોસેસ",
-    "desc": "કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO)એ UAN જનરેટ અને એક્ટિવ કરવાના નિયમોમાં ફેરફાર કર્યા છે. હવે, આ ઓથેન્ટિકેશનનો ઉપયોગ કરીને PF એકાઉન્ટ નંબર જનરેટ અને એક્ટિવ કરવામાં આવશે. લોકો UMANG એપ દ્વારા નંબર જનરેટ અને એક્ટિવ કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-changes-in-uan-activation-rules-now-this-is-how-authentication-will-be-done-know-the-step-by-step-process-480831 ",
-    "time": "2026-06-08T10:33:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -664,14 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/june-2026-box-office-release-list-june-2026-hindi-movies-box-office-list-480229 ",
     "time": "2026-06-03T07:12:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "શું સુષ્મિતા સેન &amp;#039;ગોલ્ડ ડિગર&amp;#039; હતી, કેમ થયું હતું લલિત મોદી અને સુષ્મિતાનું બ્રેકઅપ?",
-    "desc": "થોડા વર્ષો પહેલા જ્યારે આઈપીએલના ોપૂર્વ કમિશનર અને બિઝનેસમેન લલિત મોદીએ અચાનક સુષ્મિતા સેન સાથે ફોટો શેર કર્યા અને રિલેશનશીપની સત્તાવાર રીતે જાહેરાત કરી હતી ત્યારે લોકો વિચારમાં પડી ગયા હતા. સોશિયલ મીડિયા પર તો જાણે વાવાઝોડું આવી ગયું હતું. હવે લલિત મોદીએ સુષ્મિતા સેન વિશે ખુલ્લા મનથી વાતો કરી છે. જાણો શું કહ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/lalit-modi-open-ups-about-his-relationship-with-sushmita-sen-why-did-they-break-up-480112 ",
-    "time": "2026-06-02T08:29:47.000Z"
   }
 ];
