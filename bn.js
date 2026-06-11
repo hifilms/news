@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "মহাতারকার সংঘর্ষ, ৩ বার বিশ্বকাপে মুখোমুখি হতে পারেন মেসি-রোনাল্ডো, রইল সম্ভাব্য পথ",
+    "desc": "মেসি বনাম রোনাল্ডো...শেষবার বিশ্বমঞ্চে? টানা ৬ বছর কোনো প্রতিযোগিতামূলক ম্যাচে দেখা হয়নি ফুটবল দুনিয়ার দুই রাজপুত্রের! কিন্তু ২০২৬ ফিফা বিশ্বকাপ বদলে দিতে পারে এই চেনা ছবিটা। আর্জেন্টিনা এবং পর্তুগালের গ্রুপ বিন্যাস ও টুর্নামেন্টের সূচি বলছে, ৩টি বিশেষ সমীকরণ মিললেই মাঠে মুখোমুখি হতে পারেন লিওনেল মেসি ও ক্রিশ্চিয়ানো রোনাল্ডো!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/lionel-messi-vs-cristiano-ronaldo-fifa-world-cup-2026-scenarios_657818.html ",
+    "time": "2026-06-11T15:37:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump's Big Warning: 'আজ রাতেই উড়িয়ে দেব': ইরানকে হাড়হিম হুমকি ট্রাম্পের; সত্যিই বিশ্ব দেখবে ভয়ংকর ধ্বংসদৃশ্য? বিশ্বযুদ্ধ?",
+    "desc": "ইরান ও মার্কিন যুক্তরাষ্ট্রের মধ্যে চলতি উত্তেজনা এক রক্তক্ষয়ী যুদ্ধের রূপ ধারণ করেছে। বুধবার (১০ জুন) মার্কিন সর্বাধিনায়কের নির্দেশে স্থানীয় সময় বিকেল ৫টা ১৫ মিনিটে ইরানের একাধিক গুরুত্বপূর্ণ শহরে ব্যাপক বিমান ও ক্ষেপণাস্ত্র হামলা চালায় মার্কিন সেন্ট্রাল কমান্ড।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/trumps-big-warning-us-will-hit-very-hard-tonight-us-president-donald-trump-warned-iran-us-iran-war_657816.html ",
+    "time": "2026-06-11T15:13:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "গৃহহীন তৃণমূল, ছাদহীন মমতার দিল্লির পার্টি অফিসও কেড়ে নেওয়া হল, নেপথ্যে ঘনিষ্ঠ কোন সাংসদ?",
+    "desc": "সংসদীয় ও পরিষদীয় দল ভাঙার পর এবার দেশের রাজধানী দিল্লিতে তৃণমূল কংগ্রেসের প্রধান পার্টি অফিসও সম্পুর্ণ বন্ধ হয়ে গেল। ২০ নম্বর ডক্টর রাজেন্দ্র প্রসাদ রোডের যে বাড়িটি এতদিন দিল্লির বুকে ‘তৃণমূল ভবন’ হিসেবে পরিচিত ছিল, সেখান থেকে দলনেত্রী মমতা বন্দ্যোপাধ্যায়ের ছবি, সাইনবোর্ড এবং নেমপ্লেট সরিয়ে ফেলা হয়েছে। মূল দরজায় এখন ঝুলছে তালা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/delhi-tmc-party-office-closed-as-mp-partha-bhowmik-became-rebel-mp-and-asked-to-vaccate-tmc-house-mamata-banerjee_657773.html ",
+    "time": "2026-06-11T12:36:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মসনদে বিজেপি, তৃণমূলে দ্রোহকাল: 'মন্থনে' কীভাবে বদলাচ্ছে বঙ্গ রাজনীতির চেনা অংক?",
+    "desc": "রাজনীতির জটিল অংকে 'জল মাপার খেলা' কোন দিকে আবর্তিত হবে, তা বলবে সময়। বলাই বাহুল্য, আগের কোনও বিধানসভা নির্বাচন পরবর্তী পরিস্থিতিতে এমন অভূতপূর্ব বিদ্রোহ-ইস্তফার সাক্ষী থাকেনি বাংলা। বাংলার এই রাজনৈতিক 'মন্থনে' লাভের গুড় ঘরে তুলবে কে? বঙ্গ রাজনীতির প্রেক্ষাপটে দাঁড়িয়ে এই রাজনৈতিক 'মন্থন' কতটা তাৎপর্যপূর্ণ, রইল তার সুলুকসন্ধান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tmc-mp-split-bjp-in-advantage-what-does-this-political-churn-mean-for-west-bengal-politics-explained_657735.html ",
+    "time": "2026-06-11T10:40:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'দিদি, আই মিস ইউ...' তৃণমূলের ভাঙনের মাঝেই সাংসদ শতাব্দীর বড় বার্তা মমতাকে: কোন পথে রাজনীতি? বড় খবর",
     "desc": "শতাব্দী রায় তাঁর বিস্ফোরক বক্তব্য়ে জানিয়েছেন, নির্বাচনের ফল প্রকাশের পর মমতা বন্দ্যোপাধ্যায়ের ডাকা একটি পর্যালোচনা বৈঠকই ছিল দল ছাড়ার মূল অনুঘটক বা ‘টার্নিং পয়েন্ট’। তিনি বলেছেন, দলের বহু নেতাই পরাজয়ের কারণগুলো নিয়ে একটি স্বচ্ছ ও সৎ পর্যালোচনা চেয়েছিলেন।",
@@ -232,15 +268,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/bangladesh-exclusive-sheikh-hasina-legal-advisor-challenging-united-nations-human-rights-council-report-on-2024-july-unrest-death-toll-1400-with-evidence_655845.html ",
     "time": "2026-05-29T10:49:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "পুব দিকে এগোচ্ছে ভয়ংকর উষ্ণ 'কেলভিন ওয়েভ', আতঙ্কে প্রমাদ গুনছেন আবহাওয়া বিজ্ঞানীরা! কেন?",
-    "desc": "প্রশান্ত মহাসাগরের গভীর স্তর থেকে বিপুল পরিমাণ তাপ পূর্ব দিকে এগোচ্ছে। এই উষ্ণ জলের ঢেউ যদি আরও শক্তিশালী হয়, তাহলে কয়েক মাসের মধ্যেই সমুদ্রপৃষ্ঠের তাপমাত্রা দ্রুত বেড়ে যেতে পারে। কী এই 'কেলভিন ওয়েভ'? কেন আতঙ্কে আবহাওয়া বিজ্ঞানীরা?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/2026-super-el-nino-weather-kelvin-wave-in-pacific-ocean-impact-explained_655791.html ",
-    "time": "2026-05-29T07:45:53.000Z"
   },
   {
     "cat": "Business",

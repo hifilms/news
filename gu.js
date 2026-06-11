@@ -1,6 +1,69 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "ICC વર્લ્ડ કપ 2027ની તારીખો જાહેર! 4 ઓક્ટોબરથી જામશે ક્રિકેટનો રોમાંચ, જાણો ક્યારે અને ક્યાં રમાશે ફાઇનલ?",
+    "desc": "આવતા વર્ષે સાઉથ આફ્રિકા, ઝિમ્બાબ્વે અને નામિબિયામાં યોજાનાર વર્લ્ડ કપને લઈને એક મોટું અપડેટ સામે આવ્યું છે. ESPN Cricinfoના રિપોર્ટ અનુસાર, ICC મેન્સ ODI વર્લ્ડ કપ 2027 કામચલાઉ રીતે 4 ઓક્ટોબરથી 21 નવેમ્બર વચ્ચે રમાશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-world-cup-2027-dates-announced-the-thrill-of-cricket-will-begin-from-october-4-know-when-and-where-the-final-will-be-played-481193 ",
+    "time": "2026-06-11T14:46:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "જાણો વેલકમ ટુ ધ જંગલ ફિલ્મમાં કેટલા સ્ટાર્સે કર્યું કામ અને ફિલ્મનું બજેટ કેટલા કરોડનું ?",
+    "desc": "અક્ષય કુમાર સહિતના સ્ટાર્સની બિગ બજેટ ફિલ્મ વેલકમ ટુ ધ જંગલ ફિલ્મનું ટ્રેલર 11 જૂને રિલીઝ કરવામાં આવ્યું છે અને સાથે જ ફિલ્મમાં કેટલા કલાકારોએ કામ કર્યું છે તે પણ સામે આવી ગયું છે. આ ફિલ્મનું બજેટ અને કલાકારોનું લિસ્ટ ચેક કરીને તમને આંચકો લાગી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/welcome-to-the-jungle-trailer-30-stars-in-a-film-bollywood-big-budget-film-of-the-year-481191 ",
+    "time": "2026-06-11T14:25:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "370 ની બિરયાની પછી વધુ એક વિવાદ શરુ, અરમાન મલિકે પત્નીઓ માટે કરેલી કોમેન્ટ પર ભડક્યા યુઝર્સ, જાણો શું છે મામલો",
+    "desc": "હજી તો લોકોનો ગુસ્સો 370 રુપિયાની બિરયાનીવાળી વાત પર શાંત નથી થયો ત્યાં તો યુટ્યુબર અરમાન મલિકે વધુ એક વિવાદાસ્પદ વાત કરી અને આ વાત પર પણ લોકો તીખી પ્રતિક્રિયા આપી રહ્યા છે. આ વાત પછી યુટ્યુબર અરમાન મલિકને લોકોએ ખરાબ રીતે ટ્રોલ કર્યો છે. ખાસ કરીને મહિલાઓએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/after-370-rupees-biryani-new-controversy-start-armaan-malik-trolled-for-his-comment-on-wife-tshirt-and-lower-look-481182 ",
+    "time": "2026-06-11T13:06:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રાહુલ દ્રવિડના નાના પુત્ર અન્વયની ટીમ ઈન્ડિયામાં પસંદગી, BCCIએ કરી મોટી જાહેરાત, શ્રીલંકામાં મચાવશે ધમાલ",
+    "desc": "ભારતીય ક્રિકેટમાં વધુ એક દ્રવિડનો પ્રવેશ થયો છે. રાહુલ દ્રવિડના નાના પુત્ર અન્વય દ્રવિડની શ્રીલંકાના આગામી પ્રવાસ માટે ટીમ ઈન્ડિયાની અંડર-19 વનડે ટીમમાં પસંદગી કરવામાં આવી છે. આ વિકેટકીપર-બેટ્સમેન ઘરેલુ ક્રિકેટમાં સતત પ્રભાવશાળી પ્રદર્શન કરી રહ્યો હતો. આ પસંદગીને તેની કારકિર્દીમાં એક મોટો સીમાચિહ્ન માનવામાં આવે છે અને તે 2028ના અંડર-19 વર્લ્ડ કપની તૈયારીઓનો પણ એક ભાગ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rahul-dravid-son-anvay-named-in-india-under-19-squad-for-sri-lanka-tour-481180 ",
+    "time": "2026-06-11T12:29:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LPG સિલિન્ડર અંગે સરકાર એક્શનમાં, આ લોકોએ તાત્કાલિક સરેન્ડર કરવા પડશે કનેક્શન, નહીં તો સરકાર ફટકારશે નોટિસ",
+    "desc": "હોર્મુઝ સંકટ બાદ ભારતમાં LPG સંબંધિત ઘણા નિયમોમાં ફેરફાર કરવામાં આવ્યા છે. હવે એવા ગ્રાહકો સામે કડક પગલાં લેવામાં આવી શકે છે, જેમની પાસે પહેલાથી જ PNG કનેક્શન છે અથવા જેમણે તેમના વિસ્તારમાં પાઇપલાઇન ઉપલબ્ધ હોવા છતાં PNG કનેક્શન લીધું નથી. સરકાર આવા વ્યક્તિઓને નોટિસ ફટકારી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/lpg-crisis-png-users-must-surrender-lpg-connection-else-face-govt-notice-481176 ",
+    "time": "2026-06-11T11:45:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારત પર ફરી મંડરાયું મોટું સંકટ! હોર્મુઝ માર્ગ બંધ થતાં જ LPG, પેટ્રોલ-ડીઝલના ભાવ પર જોવા મળી શકે છે અસર",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે ફરી એકવાર શરૂ થયેલા યુદ્ધના કારણે હોર્મુઝ માર્ગ સંપૂર્ણપણે બંધ થઈ ગયો છે. હવે ત્યાંથી ઓઈલ અને ગેસના જહાજોનું પસાર થવું લગભગ અશક્ય જેવું બની ગયું છે. આ સમાચારથી ભારતની ચિંતા વધી શકે છે, કારણ કે ભારતના કુલ LPG આયાતનો 90 ટકા હિસ્સો આ જ માર્ગથી આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-crisis-looms-over-india-again-as-soon-as-the-hormuz-strait-is-closed-the-price-of-lpg-petrol-and-diesel-may-be-affected-481175 ",
+    "time": "2026-06-11T11:41:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આજથી રંગારંગ અંદાજમાં થશે FIFA World Cup 2026 નો પ્રારંભ, 3 અલગ-અલગ દેશોમાં ઓપનિંગ સેરેમની, આ દિગ્ગજો કરશે પરફોર્મ",
+    "desc": "આજથી વિશ્વની સૌથી મોટી સ્પોર્ટ્સ ઈવેન્ટ એટલે કે ફીફા વિશ્વકપ 2026ની શરૂઆત થવાની છે. દુનિયાભરના ફેન્સ આ ફુટબોલના મહાકુંભને જોવા માટે ઉત્સુક છે. ત્રણ દેશોની યજમાનીમાં આ ટૂર્નામેન્ટ રમાઈ રહી છે, તેવામાં ત્રણ-ત્રણ દેશોમાં ઓપનિંગ સેરેમનીનું પણ આયોજન થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-opening-ceremony-in-3-different-countries-these-legends-will-perform-481174 ",
+    "time": "2026-06-11T11:15:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ઓસ્ટ્રેલિયન T20 ટીમમાં આ ભારતીય ખેલાડીને મળ્યું સ્થાન, 60 વર્ષ બાદ રચાશે ઈતિહાસ",
     "desc": "ઓસ્ટ્રેલિયાએ દિલ્હીમાં જન્મેલા નિખિલ ચૌધરીને તેની ટી20 ટીમમાં સામેલ કર્યો છે. જો તેને બાંગ્લાદેશ સામે ડેબ્યૂ કરવાની તક મળશે તો તે 60 વર્ષ જૂનો ઇતિહાસ બદલશે. બાંગ્લાદેશ અને ઓસ્ટ્રેલિયા વચ્ચે પ્રથમ ટી20 મેચ 17 જૂને રમાશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -297,15 +360,6 @@ const newsData_gu = [
     "time": "2026-06-09T14:20:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "9 બોલમાં 9 રન ના કરવા દીધા... 49મી ઓવરમાં 3 વિકેટ ઝડપી ભારતીય યુવા ટીમે શ્રીલંકાને હરાવ્યું",
-    "desc": "તિલક વર્માની આગેવાની હેઠળની ભારત A ટીમે દામ્બુલામાં પોતાની છાપ છોડી છે. ભારત A ટીમે શ્રીલંકા Aના હાથમાંથી જીત છીનવી લીધી હતી અને છેલ્લા 9 બોલમાં 9 રન પણ કરવા દીધા નહોતા અને મેચ જીતી લીધી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-a-vs-sri-lanka-a-tri-series-2026-tilak-varma-team-magical-victory-480971 ",
-    "time": "2026-06-09T13:16:56.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "₹8 લાખની SUV એ રચ્યો ઈતિહાસ, બનાવી દીધો વેચાણનો નવો રેકોર્ડ, જાણો ફીચર્સ અને ખાસિયત",
     "desc": "હ્યુન્ડાઈ વેન્યુએ વેચાણના મામલામાં ભારતમાં ઈતિહાસ રચી દીધો છે. વેન્યુએ દેશમાં 8 લાખના વેચાણનો આંકડો પાર કરી લીધો છે. 8 લાખ રૂપિયાથી શરૂ થનાર આ એસયુવીનો મુકાબલો મારૂતિ બ્રેઝા, ટાટા નેક્સોન અને કિઆ સોનેટ જેવી ગાડીઓ સાથે થાય છે.",
@@ -322,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/3-new-iphones-to-be-launched-in-september-but-iphone-18-name-is-not-on-the-list-480962 ",
     "time": "2026-06-09T12:02:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup નો આનંદ થઈ જશે બમણો, &amp;#039;Z&amp;#039; એ સ્પોર્ટ્સ સ્ટ્રીમિંગ ઈકોસિસ્ટમને બનાવી મજબૂત",
-    "desc": "વિશ્વની સૌથી મોટી સ્પોર્ટ્સ ઈવેન્ટ ફીફા વિશ્વકપ 2026ની શરૂઆત થઈ રહી છે. ભારતમાં આ ફુટબોલના મહાકુંભનું લાઈવ પ્રસારણ ઝી એન્ટરટેઈનમેન્ટ એન્ટરપ્રાઇઝ લિમિટેડ ('Z') ના ટીવી અને ડિજિટલ પ્લેટફોર્મ પર થશે. દર્શકોને વૈશ્વિક ટૂર્નામેન્ટનો શાનદાર અનુભવ આપવા માટે Z એ પોતાની ટેક્નોલોજીકલ કૌશલ્યમાં વધારો કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-z-enhances-technological-prowess-to-host-millions-of-football-fans-480951 ",
-    "time": "2026-06-09T10:39:11.000Z"
   },
   {
     "cat": "Politics",
@@ -351,15 +396,6 @@ const newsData_gu = [
     "time": "2026-06-09T10:12:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "મોહમ્મદ સિરાજ T20 સિરીઝમાંથી બહાર, BCCIએ અચાનક લીધો મોટો નિર્ણય, આ બોલરની થઈ એન્ટ્રી",
-    "desc": "ફાસ્ટ બોલર મોહમ્મદ સિરાજને આયર્લેન્ડ અને ઇંગ્લેન્ડ સામેની આગામી T20 શ્રેણીમાંથી બહાર કરવામાં આવ્યો છે. BCCI મેડિકલ ટીમની સલાહ પર લેવામાં આવેલા આ નિર્ણય બાદ પસંદગીકારોએ ટીમમાં તેના સ્થાને પ્રસિદ્ધ કૃષ્ણાને સ્થાન આપ્યું છે. ત્યારે મોહમ્મદ સિરાજને અચાનક કેમ બહાર કરવામાં આવ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/mohammed-siraj-out-of-t20-series-bcci-takes-big-decision-prasidh-krishna-returns-480942 ",
-    "time": "2026-06-09T09:27:50.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ડ્રાઇવિંગ લાઇસન્સ અને ગાડીઓના ટ્રાન્સફર પર નવો નિયમો લાવી રહી છે સરકાર, આટલા વર્ષ સુધી વેલિડ રહેશે DL !",
     "desc": "ભવિષ્યમાં, તમને વારંવાર તમારા ડ્રાઇવિંગ લાઇસન્સ રિન્યુ કરાવવાની ઝંઝટમાંથી મુક્તિ મળી શકે છે. સરકાર DL જાહેર કરવાની યોજના પર મોટા ફેરફાર પર કામ કરી રહી છે. હાલમાં, પહેલું DL 20 વર્ષ માટે જાહેર કરવામાં આવે છે.",
@@ -367,24 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/the-government-is-bringing-new-rules-on-the-transfer-of-driving-licenses-and-vehicles-dl-will-remain-valid-for-this-many-years-480941 ",
     "time": "2026-06-09T09:20:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પહાડો ચીરીને તૈયાર થઈ રહી છે ભારતની સૌથી ખતરનાક જોજિલા સુરંગ, 11000 ફૂટ પર 3 કલાકની સફર માત્ર 15 મિનિટમાં",
-    "desc": "જમ્મુ અને કાશ્મીરને જોડતી જોજિલા સુરંગનો છેલ્લો 'બ્રેકથ્રુ' આજે પૂરો થઈ ગયો. કેન્દ્રીય રોડ અને પરિવહન તથા રાજમાર્ગ મંત્રી નીતિન ગડકરી, મુખ્યમંત્રી ઉમર અબ્દુલ્લા અને જમ્મુ કાશ્મીરના ઉપરાજ્યપાલ મનોજ સિન્હા આ ઐતિહાસિક પળના સાક્ષી બન્યા. આ ટનલથી ખાસિયતો ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/breakthrough-in-zojila-tunnel-achieved-nitin-gadkari-present-check-specialities-480936 ",
-    "time": "2026-06-09T09:15:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અફઘાનિસ્તાન સામેની સિરીઝમાં રમી શકશે હાર્દિક પંડ્યા ? ફિટનેસ પર આવ્યું મોટું અપડેટ",
-    "desc": "અફઘાનિસ્તાન સામેની ODI સિરીઝ પહેલા હાર્દિક પંડ્યાની ફિટનેસ અંગે મોટું અપડેટ સામે આવ્યું છે. હાર્દિક પંડ્યા આ સિરીઝમાં રમશે કે કેમ ? તેને લઈને સવાલો ઉભા થઈ રહ્યા હતા. જો કે, હવે તેની ફિટનેસ અંગે સારા સમાચાર સામે આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-fitness-update-before-india-vs-afghanistan-odi-series-480938 ",
-    "time": "2026-06-09T09:03:31.000Z"
   },
   {
     "cat": "Business",
@@ -414,15 +432,6 @@ const newsData_gu = [
     "time": "2026-06-09T07:26:16.000Z"
   },
   {
-    "cat": "Business",
-    "title": "પેટ્રોલ ડિઝલની કિંમતમાં આવશે મોટો ઘટાડો ! ફિંચએ જુલાઈ પછી ક્રૂડ ઓઇલના ભાવ ક્રેશ થવાની કરી ભવિષ્યવાણી, જાણો",
-    "desc": "ક્રૂડ ઓઇલના ભાવમાં નોંધપાત્ર ઘટાડો થવાની ધારણા છે. ભાવ પ્રતિ બેરલ 70 ડોલરથી 80 ડોલર સુધી પહોંચી શકે છે. વૈશ્વિક રેટિંગ એજન્સી ફિચના મતે, સપ્ટેમ્બર સુધીમાં તેલનો વધુ પડતો પુરવઠો ઓછો થવા લાગશે અને તેલ સંકટનો અંત આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-prices-to-come-down-by-a-big-margin-finch-predicts-crude-oil-prices-to-crash-after-july-know-480910 ",
-    "time": "2026-06-09T06:32:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "પેપરલીક વગર કેવી રીતે થાય છે દુનિયાની સૌથી મોટી પરીક્ષા, ૧.૩૪ કરોડ વિદ્યાર્થીઓ છતાં ચીનમાં કેમ નથી થતું પેપર લીક? જાણો રહસ્ય",
     "desc": "ચીનમાં હાલ દુનિયાની સૌથી મોટી અને આકરી ગણાતી ગાઓકાઓ 2026 (Gaokao) પરીક્ષા ચર્ચામાં છે. જેમાં 1 કરોડ 34 લાખ વિદ્યાર્થીઓ પરીક્ષા આપવાના છે. આટલી વિશાળ સંખ્યામાં વિદ્યાર્થીઓ છતાં, આ પરીક્ષામાં કોઈ પંખી પણ આવતું નથી. ન તો અહી કોઈ પેપરલીક થાય છે. અભેદ્ય ચક્રવ્યૂહની જેમ આ પરીક્ષા માટે ચુસ્ત બંદોબસ્ત હોય, જેને કારણે પેપર લીક જેવી ઘટના બનવી પણ શક્ય નથી.",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/worlds-biggest-exam-why-there-no-paper-leak-in-china-despite-1-crore-34-lakh-students-know-secret-480892 ",
     "time": "2026-06-09T06:04:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પહેલા બે દિવસમાં 4 ગણાથી વધુ સબસ્ક્રિપ્શન, IPO પર દાવ લગાવવાનો આજે છેલ્લો ચાન્સ, GMP પણ છે સારો",
-    "desc": "આ કંપનીના IPO પર રોકાણ કરવાની આજે છેલ્લી તક છે, કંપનીનો IPO આજે સાંજે રોકાણ માટે બંધ થઈ જશે, જ્યારે IPO ગ્રે માર્કેટમાં સારૂ પ્રદર્શન કરી રહ્યો છે, માર્કેટના ઉથલપાથલ વચ્ચે પણ આ IPOના GMPમાં કોઈ મોટો ફેરફાર થયો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/more-than-4-times-subscription-in-the-first-two-days-today-is-the-last-chance-to-bet-on-ipo-gmp-is-also-good-480897 ",
-    "time": "2026-06-09T05:12:56.000Z"
   },
   {
     "cat": "Tech",
@@ -673,14 +673,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/latest-bollywood-news-fwice-on-backfoot-on-ranveer-singh-don-3-issue-here-is-latest-update-480315 ",
     "time": "2026-06-04T02:13:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "જૂન મહિનામાં બોક્સ ઓફિસ પર રિલીઝ થશે 8 દમદાર ફિલ્મો, ચેક કરી ફિલ્મોનું લિસ્ટ",
-    "desc": "4 જૂન 2026 પછી એક પછી એક 8 ફિલ્મો બોક્સ ઓફિસ પર રિલીઝ થવાની છે. જૂન મહિનામાં એક્શન, કોમેડી, રોમાન્સ એમ દરેક પ્રકારની ફિલ્મો સિનેમા ઘરોમાં જોવા મળશે. તો તમે પણ ચેક કરી લો કઈ ફિલ્મ કઈ તારીખે રિલીઝ થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/june-2026-box-office-release-list-june-2026-hindi-movies-box-office-list-480229 ",
-    "time": "2026-06-03T07:12:27.000Z"
   }
 ];
