@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Paul Anthony Kelly joins 'The Housemaid’s Secret'",
+    "desc": "Paul Anthony Kelly, acclaimed for his role as JFK Jr. , is making his feature film debut in 'The Housemaid's Secret'. He joins Sydney Sweeney and Kirsten Dunst in the sequel to the blockbuster hit. Kelly will portray Douglas Garrick, a wealthy billionaire, in this thrilling continuation of the bestselling trilogy, set to release December 17, 2027.",
+    "img": "https://static.toiimg.com/photo/msid-131670987,imgsize-63472.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/paul-anthony-kelly-cast-in-the-housemaids-secret-to-make-feature-film-debut-in-sydney-sweeney-starrer/articleshow/131670978.cms",
+    "time": "2026-06-11T22:41:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED to appeal HC order quashing NewsClick case",
+    "desc": "​​Sources in ED said that this goes against their understanding that when an investigation is under way in a PMLA case, a court cannot quash a related predicate offence till the probe is concluded. They also said that the HC judge has either completely overlooked or not fully addressed ED’s crucial contentions despite having kept the judgment reserved for five months. At the stage of determining the merit of the FIR, the court just needed to verify if the allegations made in the complaint, if prima facie true, constitute an offence.",
+    "img": "https://static.toiimg.com/photo/msid-131669833,imgsize-49356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-to-appeal-hc-order-quashing-newsclick-case/articleshow/131669390.cms",
+    "time": "2026-06-11T22:12:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Don't mix Dhurandhar's success with Don 3, we've seen bigger stardom'",
+    "desc": "While discussing the ongoing Don 3 controversy, the President of the Indian Film and Television Directors' Association (IFTDA) and the Chief Advisor for the Federation of Western India Cine Employees (FWICE) Ashoke Pandit spoke about loyalty, stardom and the impact of Aditya Dhar's Dhurandhar on the Hindi film industry.",
+    "img": "https://static.toiimg.com/photo/msid-131669748,imgsize-53646.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashoke-pandit-says-no-personal-issue-with-ranveer-singh-dont-mix-dhurandhars-success-with-don-3-weve-seen-bigger-stardom/articleshow/131669383.cms",
+    "time": "2026-06-11T22:09:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rumer Willis granted primary physical custody of daughter",
+    "desc": "Rumer Willis has secured primary physical custody of her three-year-old daughter, Louetta, in a recent court ruling. While joint legal custody remains, her former partner, Derek Richard Thomas, will have supervised visitation initially, progressing to overnight stays. Both parents are mandated to attend co-parenting counseling and utilize a dedicated app for communication.",
+    "img": "https://static.toiimg.com/photo/msid-131669337,imgsize-149338.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bruce-willis-daughter-rumer-willis-granted-primary-physical-custody-of-daughter-amid-custody-dispute-with-ex-derek-richard-thomas/articleshow/131668884.cms",
+    "time": "2026-06-11T22:06:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I4C",
+    "desc": "Sharing this latest modus operandi in a public advisory on Wednesday, Indian Cybercrime Coordination Centre (I4C) said scammers were using facial recordings obtained through deceptive video calls, fake online job interviews or social engineering tactics to generate a realistic digital replica capable of imitating facial movements, expressions, blinking pattern and voice.",
+    "img": "https://static.toiimg.com/photo/msid-131668962,imgsize-73872.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fraudsters-creating-deepfakes-to-bypass-facial-authentication-i4c/articleshow/131668958.cms",
+    "time": "2026-06-11T22:00:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC",
+    "desc": "A bench of Justices Sanjay Karol and N K Singh said it was not making light of the importance of discipline at the workplace, but in the absence of “corruption, illegal gratification, moral turpitude, misappropriation of funds, proved losses to employer, public scandal or conduct bringing the organisation to disrepute”, an employee could not be visited with the extreme penalty of dismissal.",
+    "img": "https://static.toiimg.com/photo/msid-131668957,imgsize-109334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/staff-dismissal-only-for-grave-violations-like-corruption-sc/articleshow/131668963.cms",
+    "time": "2026-06-11T21:56:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Homemakers are nation builders': For payout, SC pegs housewife ‘income’ at Rs 30,000 a month",
+    "desc": "A Supreme Court bench of Justices Sanjay Karol and N K Singh said women were largely responsible for the preparation of human capital on which the dreams of being the world’s largest economy, among other things, rested. The bench said if the compensation was not paid within three months, the interest rate would increase to 9%, and six months later, it would go up to 12% per annum. It also listed 123 accident compensation claim cases, which were dealt with by a bench led by Justice Karol.",
+    "img": "https://static.toiimg.com/photo/msid-131668949,imgsize-102022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/homemakers-are-nation-builders-for-payout-sc-pegs-housewife-income-at-rs-30000-a-month/articleshow/131668887.cms",
+    "time": "2026-06-11T21:51:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NMC flipflops, puts onus of patient appeals on health ministry",
+    "desc": "When the ministry was asked to intervene on behalf of patients to allow appeals before NMC, the ministry stated the commission was the apex statutory body constituted under the 2019 Act to regulate medical education and the profession. “All matters relating to framing, amendment, and implementation of medical education regulations fall within the domain of NMC,” it said.",
+    "img": "https://static.toiimg.com/photo/msid-131668945,imgsize-77174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nmc-flipflops-puts-onus-of-patient-appeals-on-health-ministry/articleshow/131668944.cms",
+    "time": "2026-06-11T21:46:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Unopposed Rajya Sabha wins in MP, Karnataka, Rajasthan",
+    "desc": "In Karnataka, AICC president Mallikarjun Kharge, Congress nominees Mansoor Ali Khan, educationist and son of former Union minister K Rahman Khan, and party media and publicity department chairperson Pawan Khera, and BJP's M Nagaraja were declared elected unopposed after scrutiny knocked out an independent candidate. Rajasthan’s biennial election also turned into a walkover.",
+    "img": "https://static.toiimg.com/photo/msid-131668766,imgsize-125040.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/unopposed-rajya-sabha-wins-in-mp-karnataka-rajasthan/articleshow/131668764.cms",
+    "time": "2026-06-11T21:29:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shakira headlines opening ceremony",
+    "desc": "The 2026 World Cup commenced with a spectacular opening ceremony in Mexico City, headlined by global music stars. The tournament, featuring 48 teams, began with Mexico facing South Africa. However, the excitement of the competition is unfolding against a backdrop of significant protests and social unrest within the capital city.",
+    "img": "https://static.toiimg.com/photo/msid-131668752,imgsize-82818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-headlines-fifa-world-cup-opening-ceremony-perfroms-dai-dai-anthem-as-mexico-faces-south-africa-watch/articleshow/131668724.cms",
+    "time": "2026-06-11T21:23:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana Ranaut gives a rare shoutout to Deepika Padukone",
+    "desc": "Kangana Ranaut has never been one to mince words, and in a recent conversation, the actress-politician spoke about insecurity, jealousy and the growing lack of camaraderie in the film industry. Interestingly, while making her point, Kangana cited Deepika Padukone as someone she learnt from during her early years in Bollywood.",
+    "img": "https://static.toiimg.com/photo/msid-131668741,imgsize-96122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-gives-a-rare-shoutout-to-deepika-padukone-while-calling-out-bollywoods-toxic-culture-todays-generation-has-too-much-negativity/articleshow/131668738.cms",
+    "time": "2026-06-11T21:09:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3 Indians confirmed killed in US strike on tanker off Oman; 3rd vessel attacked",
+    "desc": "MEA spokesperson Randhir Jaiswal said two of the three vessels that came under attack were subject to sanctions administered by the US treasury's office of foreign assets control, while the Settebello had been classified as non-compliant. OFAC acts against vessels involved in violating US sanctions on the sale of Iranian and Russian oil.",
+    "img": "https://static.toiimg.com/photo/msid-131668719,imgsize-85504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/3-indians-confirmed-killed-in-us-strike-on-tanker-off-oman-3rd-vessel-attacked/articleshow/131668712.cms",
+    "time": "2026-06-11T20:54:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Navy removes unexploded warhead from struck ship",
+    "desc": "The Navy responded when the Marshall Islands-flagged MT Olympic Life reported an explosion on its port side aft at 09.45 UTC (3.15pm IST) on May 26 while sailing around 60 nautical miles east of Oman, as per UK Maritime Trade Operations data. It is still not known who fired the missile.",
+    "img": "https://static.toiimg.com/photo/msid-131668721,imgsize-134654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/navy-removes-unexploded-warhead-from-struck-ship/articleshow/131668715.cms",
+    "time": "2026-06-11T20:53:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress to mount legal, political battle over rejection of Meenakshi Natarajan’s Rajya Sabha nomination",
+    "desc": "Party calls the issue a case of ‘seat chori’ by ‘the BJP-EC jugalbandi’; the party plans a nation-wide agitation on inflation, unemployment, NEET paper leak, CBSE OSM row, and other issues; protest campaign likely to begin by the end of June",
+    "img": "https://th-i.thgim.com/public/incoming/bvjen0/article71089924.ece/alternates/LANDSCAPE_1200/20260609103L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/after-vote-chori-and-sarkar-chori-charges-rahul-gandhi-accuses-bjp-of-seat-chori-in-rajya-sabha-polls/article71089851.ece",
+    "time": "2026-06-11T20:49:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "France backs ‘Make in India’ in defence, signals new model for Rafale deal ahead of Modi visit",
+    "desc": "French diplomatic sources say future defence cooperation with India will be aligned with the ‘Make in India’ initiative and based on an equal partnership. They express optimism about the prospects of enhanced cooperation in the nuclear sector, citing recent legislative reforms in India.",
+    "img": "https://th-i.thgim.com/public/incoming/3wc9m2/article71090671.ece/alternates/LANDSCAPE_1200/TH17-Vinaya-IndGTQFJPO2U.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/france-backs-make-in-india-in-defence-signals-new-model-for-rafale-deal-ahead-of-modi-visit/article71090327.ece",
+    "time": "2026-06-11T20:46:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'We saw WhatsApp chats between Ranveer, Farhan, Ritesh': Pandit",
+    "desc": "The controversy surrounding Ranveer Singh's reported exit from Don 3 continues to spark debate within the film industry. In a recent interview, the President of the Indian Film and Television Directors' Association (IFTDA) and the Chief Advisor for the Federation of Western India Cine Employees (FWICE) Ashoke Pandit shed light on the federation's decision-making process and claimed that extensive documentation was examined before non-cooperation was announced.",
+    "img": "https://static.toiimg.com/photo/msid-131668643,imgsize-61612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashoke-pandit-we-saw-whatsapp-chats-between-ranveer-singh-farhan-akhtar-and-ritesh-sidhwani-before-announcing-non-cooperation/articleshow/131668639.cms",
+    "time": "2026-06-11T20:10:02.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Shakira and Burna Boy warm up spectators in World Cup opening ceremony",
     "desc": "While there was a festive atmosphere inside the stadium, there were chaotic scenes in the centre of Mexico City where thousands of fans pushed and shoved as they attempted to enter the official World Cup fan zone shortly before the 1800 GMT kickoff.",
@@ -90,15 +234,6 @@ const newsData_en = [
     "time": "2026-06-11T17:30:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "France backs ‘Make in India’ in defence, signals new model for Rafale deal ahead of Modi visit",
-    "desc": "French diplomatic sources say future defence cooperation with India will be aligned with the ‘Make in India’ initiative and based on an equal partnership. They express optimism about the prospects of enhanced cooperation in the nuclear sector, citing recent legislative reforms in India.",
-    "img": "https://th-i.thgim.com/public/incoming/3wc9m2/article71090671.ece/alternates/LANDSCAPE_1200/TH17-Vinaya-IndGTQFJPO2U.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/france-backs-make-in-india-in-defence-signals-new-model-for-rafale-deal-ahead-of-modi-visit/article71090327.ece",
-    "time": "2026-06-11T17:19:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Opendoor shuts India operations, lays off 250 employees; embraces AI",
     "desc": "“Today we began to say goodbye to our colleagues in India as we wind down our India operations. Our customers are in America, and that’s where our operational work belongs,” Opendoor CEO Kaz Nejatian said",
@@ -115,33 +250,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/tcs-to-train-50000-staff-with-claude-powered-by-anthropic/article71090260.ece",
     "time": "2026-06-11T16:56:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Calcutta HC questions expelled TMC MLA Ritabrata Banerjee’s appointment as LoP by Speaker",
-    "desc": "Appearing for petitioners, senior advocate and TMC MP Kalyan Bandopadhyay argues that the Speaker’s decision ‘hit the Constitution’s basic structure’ by violating its tenth schedule that settled law governing relationship between a political party and its legislature party",
-    "img": "https://th-i.thgim.com/public/incoming/r9qzr2/article71066903.ece/alternates/LANDSCAPE_1200/20260603415L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-questions-expelled-tmc-mla-ritabrata-banerjees-appointment-as-lop-by-speaker/article71090129.ece",
-    "time": "2026-06-11T16:47:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The apex court rings its own chain",
-    "desc": "The Supreme Court’s reliance on suo motu cognisance has turned a once ‘rare but highly visible’ jurisdiction into a recurring instrument shaped by primetime attention and media reports; while it keeps ‘ringing’ its own chain through televised listings and supervision, the trial courts below it continue doing the work",
-    "img": "https://th-i.thgim.com/public/news/national/n3sg63/article71090578.ece/alternates/LANDSCAPE_1200/iStock-1314926481.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/the-apex-court-rings-its-own-chain/article71033214.ece",
-    "time": "2026-06-11T16:45:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu is committed to working constructively with Centre, says Vijay",
-    "desc": "Tamil Nadu wholeheartedly supports the nation’s aspirations and believes a developed India can be built only through empowered States, cooperative federalism, and inclusive development, the Chief Minister says in his address at the 11th Governing Council meeting of NITI Aayog",
-    "img": "https://th-i.thgim.com/public/news/national/6hxrtv/article71090366.ece/alternates/LANDSCAPE_1200/vijay.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-is-committed-to-working-constructively-with-centre-saysvijay/article71089880.ece",
-    "time": "2026-06-11T16:43:36.000Z"
   },
   {
     "cat": "Politics",
@@ -351,15 +459,6 @@ const newsData_en = [
     "time": "2026-06-11T13:17:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Hits Constitution's basic structure': TMC attacks Speaker's recognition of Ritabrata as LoP",
-    "desc": "The Trinamool Congress is contesting the West Bengal Assembly Speaker's appointment of Ritabrata Banerjee as the Leader of the Opposition, citing a breach of the Constitution's foundational tenets. They assert that only their leader, Mamata Banerjee, holds the power to make such nominations.",
-    "img": "https://static.toiimg.com/photo/msid-131660124,imgsize-1069746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hits-constitutions-basic-structure-tmc-attacks-speakers-recognition-of-ritabrata-as-lop/articleshow/131660080.cms",
-    "time": "2026-06-11T12:58:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Raveena changed inside generator van on set? Akshay spills the story",
     "desc": "Akshay Kumar praised Raveena Tandon's professionalism at the 'Welcome To The Jungle' trailer launch, recalling how she changed inside a generator van to save a sunset shot. The film features over 30 actors, is directed by Ahmed Khan, produced by Firoz Nadiadwala, and releases on June 24.",
@@ -396,69 +495,6 @@ const newsData_en = [
     "time": "2026-06-11T12:32:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Meet Isha Rikhi making headlines for wedding pics with Badshah",
-    "desc": "Punjabi star Isha Rikhi is at the center of attention, thanks to some captivating wedding snapshots featuring her and rapper Badshah that have taken social media by storm. Hailing from Chandigarh, Rikhi first dazzled audiences in the modeling world before making her mark in Punjabi films with 'Jatt Boys Putt Jattan De' in 2013.",
-    "img": "https://static.toiimg.com/photo/msid-131659609,imgsize-1050902.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/who-is-isha-rikhi-meet-punjabi-actress-making-headlines-for-wedding-pics-with-badshah/articleshow/131659609.cms",
-    "time": "2026-06-11T12:32:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Riddhima shuts down notion that Rishi Kapoor didn't want her to join movies",
-    "desc": "Riddhima Kapoor Sahni, granddaughter of Raj Kapoor, has made her acting debut in 'Daadi Ki Shadi' alongside her mother, Neetu Kapoor. Addressing speculation about her father Rishi Kapoor's reaction, Riddhima revealed he was protective but ultimately supportive of her choices, even allowing her to study abroad. She believes he would have encouraged her acting venture, offering guidance.",
-    "img": "https://static.toiimg.com/photo/msid-131659584,imgsize-44000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riddhima-kapoor-sahni-shuts-down-the-notion-that-rishi-kapoor-didnt-want-them-to-join-films-my-father-was-just-very-protective/articleshow/131658789.cms",
-    "time": "2026-06-11T12:28:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "James Handy’s girlfriend shares his last moment before his demise",
-    "desc": "James Handy, the well-known actor, tragically passed away after a violent altercation with his girlfriend Wendy Gledhill's son, Michael. The incident reportedly occurred while Handy was just grabbing his morning paper. Michael has since been arrested in connection with the heartbreaking event that has left Gledhill devastated.",
-    "img": "https://static.toiimg.com/photo/msid-131659162,imgsize-31918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wendy-gledhill-shares-james-handys-last-moments-before-his-fatal-stabbing-i-just-heard-the-door-open-because-he-was-getting-the-paper/articleshow/131659162.cms",
-    "time": "2026-06-11T12:17:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When late Rishi Kapoor recalled meeting Dawood Ibrahim twice in Dubai",
-    "desc": "Rishi Kapoor, the late iconic actor, took readers on a riveting journey through his brush with the underworld in his autobiography, recounting two significant meet-ups with the infamous Dawood Ibrahim in late 1980s Dubai. The first encounter was an intimate tea invitation at Ibrahim's opulent home, followed by a chance meeting in a shoe shop.",
-    "img": "https://static.toiimg.com/photo/msid-131659133,imgsize-724605.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-late-rishi-kapoor-recalled-meeting-dawood-ibrahim-twice-in-dubai-if-you-need-anything-ask-me/articleshow/131659133.cms",
-    "time": "2026-06-11T12:15:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'India top priority': French diplomatic sources reveal key agenda for G7 summit; US-Iran war, free navigation on list",
-    "desc": "India is set to collaborate with key players including the US, Qatar, Saudi Arabia, and UAE at the upcoming G7 summit, where the focus will be on stabilizing West Asia and its implications for global trading dynamics.",
-    "img": "https://static.toiimg.com/photo/msid-131659034,imgsize-53674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-top-priority-french-diplomatic-sources-reveal-key-agenda-for-g7-summit-us-iran-war-free-navigation-on-list/articleshow/131658984.cms",
-    "time": "2026-06-11T12:11:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Spider-Man: Brand New Day’ to release early for Indian fans",
-    "desc": "Brand New Day' have reason to cheer as the film's release has been advanced by a day to July 30. Pre-sale tickets for premium formats like IMAX will be available from June 17. The highly anticipated movie picks up four years after 'No Way Home,' showcasing a more grounded Spider-Man facing new, mysterious threats.",
-    "img": "https://static.toiimg.com/photo/msid-131659009,imgsize-64722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-hollands-spider-man-brand-new-day-to-release-early-in-india-all-you-need-to-know/articleshow/131659009.cms",
-    "time": "2026-06-11T12:10:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Human shield’ on India border: Bangladesh opposition to launch protest over alleged 'push-ins'",
-    "desc": "Bangladesh's Jamaat-e-Islami and opposition parties are protesting alleged Indian \"push-ins\" and border killings. They claim thousands were pushed back and 19 Bangladeshis killed by Indian forces. Opposition leaders demand stronger border security and criticize India's stance, emphasizing the impact on Bangladeshi lives and sovereignty.",
-    "img": "https://static.toiimg.com/photo/msid-131658982,imgsize-2251871.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/human-shield-on-india-border-bangladesh-opposition-to-launch-protest-over-alleged-push-ins/articleshow/131658995.cms",
-    "time": "2026-06-11T12:06:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Could Elon Musk become world's first trillionaire? Decoding the math",
     "desc": "Elon Musk may soon become the world's first trillionaire. This is due to the upcoming initial public offering of his company SpaceX. The IPO is expected to be the largest in history. If valuations hold true, Musk's personal fortune could surge past the trillion-dollar mark. This event could reshape global wealth rankings and create new millionaires.",
@@ -468,15 +504,6 @@ const newsData_en = [
     "time": "2026-06-11T12:00:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar shares his thoughts on retirement",
-    "desc": "Akshay Kumar launched the trailer of 'Welcome To The Jungle' in Mumbai, opening up about retirement, dismissing salary rumours, and paying tribute to late writer Neeraj Vora. Directed by Ahmed Khan and produced by Sajid Nadiadwala, the film features a massive ensemble cast and releases in cinemas on June 26.",
-    "img": "https://static.toiimg.com/photo/msid-131658830,imgsize-22016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-dismisses-welcome-to-the-jungle-salary-buzz-shares-his-thoughts-on-retirement-a-person-should-retire-five-seconds-before-dying/articleshow/131658830.cms",
-    "time": "2026-06-11T11:56:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Which are top 10 gainers and losers on NSE &amp; BSE today? Check list",
     "desc": "Indian equity benchmarks closed lower on Thursday, impacted by global weakness, rising crude oil, and Middle East tensions. IT stocks saw significant selling, while banking and pharma offered some support. Markets experienced volatility throughout the session, reflecting investor caution amid geopolitical concerns and FII outflows.",
@@ -484,24 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-10-gainers-and-losers-on-nse-bse-on-june-11-2026-check-list/articleshow/131657837.cms",
     "time": "2026-06-11T11:43:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kalyan Banerjee sends blunt message to Mamata; Indian sailors killed after US strike on oil tanker off Oman &amp; more",
-    "desc": "In a tragic incident near the Strait of Hormuz, we have confirmed the deaths of three Indian sailors aboard the MT Settebello after a US military strike. On a different front, CEO of Palantir has urged caution against glorifying the AI-driven job reductions. In Manipur, the discovery of six deceased kidnapped Nagas has intensified ethnic strife in the region.",
-    "img": "https://static.toiimg.com/photo/msid-131658102,imgsize-28824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-kalyan-banerjee-sends-blunt-message-to-mamata-indian-sailors-killed-after-us-strike-on-oil-tanker-off-oman-more/articleshow/131658139.cms",
-    "time": "2026-06-11T11:39:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Inappropriate to abandon a ship in troubled waters': Babul Supriyo on leaving TMC",
-    "desc": "TMC leaders Babul Supriyo and Shatrughan Sinha have reaffirmed their loyalty to Mamata Banerjee amidst a party exodus. Both stated they would not abandon the party during its troubled times, emphasizing Banerjee's past support for them. This comes as the TMC faces a significant crisis following electoral defeat and a rebellion weakening its legislative strength.",
-    "img": "https://static.toiimg.com/photo/msid-131657963,imgsize-36870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/inappropriate-to-abandon-a-ship-in-troubled-waters-babul-supriyo-on-leaving-tmc/articleshow/131657985.cms",
-    "time": "2026-06-11T11:34:12.000Z"
   },
   {
     "cat": "Sports",
@@ -540,15 +549,6 @@ const newsData_en = [
     "time": "2026-06-11T10:54:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Hospital bills, captive patients: Why CCI’s ruling may weaken consumer protection",
-    "desc": "The Competition Commission of India has cleared twelve Delhi hospitals of overcharging patients. The CCI ruled that regulating healthcare prices is the government's responsibility, not the commission's. This decision comes after a decade-long investigation into allegations of inflated charges for medicines, consumables, and diagnostics. The ruling has sparked debate about consumer protection in India's vast healthcare sector.",
-    "img": "https://static.toiimg.com/photo/msid-131656284,imgsize-1930460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hospital-bills-captive-patients-why-ccis-ruling-may-weaken-consumer-protection/articleshow/131656139.cms",
-    "time": "2026-06-11T10:48:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wipro Rs 15,000 crore buyback opens",
     "desc": "Wipro's Rs 15,000 crore share buyback is now open, offering shareholders Rs 250 per share, a significant premium over the current market price. The offer, valid until June 17, presents a potential arbitrage opportunity for retail investors. However, analysts suggest limited gains, with acceptance ratios expected around 20%, and caution about risks associated with unaccepted shares.",
@@ -558,15 +558,6 @@ const newsData_en = [
     "time": "2026-06-11T10:42:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'All soldiers of Congress party': Sachin Pilot plays down Ashok Gehlot's remarks, says he has always shown affection",
-    "desc": "Sachin Pilot downplayed Ashok Gehlot's recent criticism, emphasizing party unity and affection. Pilot highlighted national challenges like exam paper leaks and rising prices, vowing to strengthen the INDIA bloc against the BJP. He also criticized the Rajasthan government and alleged institutional pressure on the Election Commission.",
-    "img": "https://static.toiimg.com/photo/msid-131656674,imgsize-813299.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/all-soldiers-of-congress-party-sachin-pilot-downplays-ashok-gehlots-remarks-says-he-has-always-shown-affection/articleshow/131656260.cms",
-    "time": "2026-06-11T10:29:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'By next World Cup, India must have a backup': on Pandya injuries",
     "desc": "Suresh Raina has urged India to find a dependable backup for all-rounder Hardik Pandya, citing his persistent fitness issues. Pandya's recent injury, ruling him out of the Afghanistan series, underscores the team's need for depth in pace-bowling all-rounders ahead of the next ODI World Cup. Identifying and nurturing an alternative is crucial to avoid vulnerability.",
@@ -574,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/by-next-world-cup-india-must-have-a-backup-suresh-raina-on-hardik-pandya-injuries/articleshow/131655949.cms",
     "time": "2026-06-11T10:13:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dr Vikram Singh on Uttar Pradesh’s security transformation",
-    "desc": "Uttar Pradesh is on a transformative journey, demonstrating an unwavering stance against crime that has catalyzed economic prosperity and investor trust, welcoming investments exceeding Rs 34 lakh crore. The state's aggressive initiatives, including Operation Conviction, have slashed major crime rates like robbery and dacoity, which has resulted in over 1.2 lakh successful convictions.",
-    "img": "https://static.toiimg.com/photo/msid-131655701,imgsize-57112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/surakshit-uttar-pradesh-dr-vikram-singh-on-uttar-pradeshs-security-transformation/articleshow/131655328.cms",
-    "time": "2026-06-11T10:02:56.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/daily-quiz-on-french-open/article71083783.ece",
     "time": "2026-06-10T07:03:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The King’s coronation",
+    "desc": "Over the last few years, PBKS skipper Shreyas not just knocked on the door but banged it; he deservedly enjoyed a double delight when he returned to India’s T20I set-up not only as player but also as captain",
+    "img": "https://th-i.thgim.com/public/incoming/j4eksu/article71082340.ece/alternates/LANDSCAPE_1200/20250301231L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/the-kings-coronation/article71082343.ece",
+    "time": "2026-06-10T05:23:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The enduring impact of Singeetham Srinivasa Rao’s films on contemporary filmmakers",
+    "desc": "As Singeetham Srinivasa Rao, 94 years young, gears up for the release of his new Telugu film ‘Sing Geetham’, directors Vivek Athreya, Mohana Krishna Indraganti and Venkatesh Maha travel down memory lane to recall his iconic films",
+    "img": "https://th-i.thgim.com/public/incoming/rznssg/article71079414.ece/alternates/LANDSCAPE_1200/DSC_2306.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/the-enduring-impact-of-singeetham-srinivasa-raos-films-on-contemporary-filmmakers/article71075609.ece",
+    "time": "2026-06-10T04:41:01.000Z"
   }
 ];

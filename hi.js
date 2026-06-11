@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "First time in 28 years! Mexico vs South Africa FIFA World Cup 2026 opener witnesses three red cards: Video",
+    "desc": "It was a day to remember at the Mexico City Stadium as co-hosts Mexico defeated South Africa in the FIFA World Cup 2026 opener by 2-0. Julian Quinones and Raul Jimenez scored for the El Tri...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/first-time-in-28-years-mexico-vs-south-africa-fifa-world-cup-2026-opener-witnesses-rare-three-red-cards-video-2026-06-12-1044539",
+    "time": "2026-06-11T21:58:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Two goals, three red cards; Mexico outclass South Africa in FIFA World Cup 2026 opener",
+    "desc": "Mexico outclassed South Africa in the FIFA World Cup 2026 opener at the Mexico City Stadium by 2-0 in a game that was marred by second-half red cards. Two South African players - Yaya Sithole...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/two-goals-three-red-cards-mexico-outclass-south-africa-in-fifa-world-cup-2026-opener-key-moments-2026-06-12-1044538",
+    "time": "2026-06-11T21:27:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Guillermo Ochoa not playing for Mexico in FIFA World Cup 2026 opener?",
     "desc": "Legendary Guillermo Ochoa missed out as Mexico open their FIFA World Cup 2026 campaign against South Africa at the Mexico City Stadium on Thursday, June 11 (June 12 as per IST). The legendary goalkeeper has...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Mexico leads 1-0 as second half begins at Estadio Azteca",
+    "title": "Mexico beat South Africa 2-0 in red card-filled opener",
     "desc": "The FIFA World Cup 2026 kicks off with an exuberating opening ceremony at the Mexico City Stadium as Mexico gears up to take on South Africa in the opening match of the tournament. The 23rd...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-faces-mounting-scrutiny-over-unprecedented-scale-of-issues-2026-06-11-1044487",
     "time": "2026-06-11T11:49:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh announce T20I squad for Australia series, Towhid Hridoy added for Zimbabwe Test",
-    "desc": "Bangladesh have recalled senior pacer Taskin Ahmed and new sensation Nahid Rana for the upcoming three-match T20I series against Australia. They were handed a break in the previous T20I assignment against New Zealand in April,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-announce-t20i-squad-for-australia-series-towhid-hridoy-added-for-zimbabwe-test-2026-06-11-1044478",
-    "time": "2026-06-11T11:02:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Riyan Parag shares crucial update about shoulder injury after being ruled out of India A tour",
-    "desc": "Riyan Parag has undergone successful shoulder surgery after battling a recurring injury that had been troubling him since his international debut in 2024. In the IPL 2026, he was forced to skip a couple of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-shares-crucial-update-about-shoulder-injury-after-being-ruled-out-of-india-a-tour-2026-06-11-1044474",
-    "time": "2026-06-11T10:46:09.000Z"
   }
 ];
