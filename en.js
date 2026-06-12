@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "The beauty and benefit of comradeship in cut-throat athletics",
+    "desc": "Rivalries need not be bitter and damaging. When done right, they can push athletes to heights they could not have achieved alone. They also add a life-affirming tone to high-stakes competition. The recent Federation meet in Ranchi showcased many such battles",
+    "img": "https://th-i.thgim.com/public/incoming/7fw88x/article71094264.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/athletics/ancy-sojan-shaili-singh-gurindervir-singh-animesh-kujur-friends-rivals-indian-athletics-federation-meet-ranchi/article71094293.ece",
+    "time": "2026-06-12T22:13:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Panchayat's Raghubir Yadav recalls surviving on Rs 2.50 a day",
+    "desc": "Veteran actor Raghubir Yadav has opened up about the hardships that shaped his remarkable journey from a village near Jabalpur to becoming one of India's most respected actors. However, despite surviving on as little as Rs 2.50 a day, sleeping hungry and staying away from home for two decades, the Panchayat star refuses to describe his life as a struggle.",
+    "img": "https://static.toiimg.com/photo/msid-131693749,imgsize-70312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/panchayat-actor-raghubir-yadav-recalls-surviving-on-rs-2-50-a-day-staying-away-from-home-for-20-years-i-never-considered-my-life-a-struggle/articleshow/131693740.cms",
+    "time": "2026-06-12T22:04:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ED arrests two former executives of Reliance Anil Ambani Group",
+    "desc": "The ED has taken transit remand of Sateesh Seth and Gautam Doshi, both of whom previously served as directors of Reliance Telecom Ltd., and is taking them to Delhi as the case is registered in the national capital, they said.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/ed-arrests-two-former-executives-of-reliance-anil-ambani-group/article71095321.ece",
+    "time": "2026-06-12T21:55:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Canada’s Larin salvages 1-1 draw against Bosnia in Group B opener",
+    "desc": "Cyle Larin, when ​introduced in the 76th minute, made an immediate ⁠impact, swivelling in the box and ⁠firing home a deflected strike less than three minutes ‌later to equalise and send the home crowd into ​raptures.",
+    "img": "https://th-i.thgim.com/public/incoming/uuecby/article71095346.ece/alternates/LANDSCAPE_1200/Bosnia_Canada_WCup_Soccer_66547.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-canadas-larin-salvages-1-1-draw-against-bosnia-in-group-b-opener/article71095340.ece",
+    "time": "2026-06-12T21:36:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Canada vs Bosnia and Herzegovina highlights",
+    "desc": "Co-hosts Canada grabbed a second-half equaliser to draw 1-1 with Bosnia-Herzegovina in the first World Cup finals game ever played on Canadian soil; Cyle Larin got Canada's goal after Jovo Lukic put Bosnia ahead with a header on 21 minutes in Toronto",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/canada-vs-bosnia-and-herzegovina-live-score-fifa-world-cup-2026-match-updates/article71095109.ece",
+    "time": "2026-06-12T21:33:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Lethal actions against commercial shipping not justified': Jaishankar lodges 'strong protest' with Rubio",
+    "desc": "Jaishankar's remarks came in the aftermath of a US military strike on the commercial tanker MT Settebello in the Gulf of Oman, which claimed the lives of three Indian crew members. The vessel was targeted on Wednesday after US forces alleged that it had breached the naval blockade imposed on Iranian ports. Of the 24 Indian nationals aboard the tanker, 21 were rescued, while three were later confirmed dead.",
+    "img": "https://static.toiimg.com/photo/msid-131693575,imgsize-42440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lethal-actions-against-commercial-shipping-not-justified-jaishankar-lodges-strong-protest-with-rubio/articleshow/131693567.cms",
+    "time": "2026-06-12T21:32:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Judge awards Blake Lively legal fees; denies damages from Justin Baldoni",
+    "desc": "A judge ruled Blake Lively can recover legal costs from Justin Baldoni after settling their film dispute. While Lively won't get punitive damages, the court acknowledged her good faith claims. Baldoni's lawyer stated Lively failed to secure substantial fees and damages, asserting no sexual harassment occurred. The case stemmed from Lively's accusations against Baldoni.",
+    "img": "https://static.toiimg.com/photo/msid-131693571,imgsize-122984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/judge-awards-blake-lively-legal-fees-from-justin-baldoni-actress-deined-punitive-damages-in-dispute-over-it-ends-with-us-film/articleshow/131693561.cms",
+    "time": "2026-06-12T21:25:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karisma Kapoor remembers Sunjay Kapur on first death anniversary",
+    "desc": "Karisma Kapoor paid a heartfelt tribute to her former husband Sunjay Kapur on his first death anniversary, sharing an emotional message on social media amid the ongoing dispute over his reported Rs 30,000-crore estate. Sunjay Kapur’s wife, Priya Sachdev, also took to social media to honour his memory with a heartfelt note.",
+    "img": "https://static.toiimg.com/photo/msid-131693569,imgsize-76868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karisma-kapoor-remembers-ex-husband-sunjay-kapur-on-first-death-anniversary-with-emotional-note-in-our-hearts-forever/articleshow/131693568.cms",
+    "time": "2026-06-12T21:23:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Danni Wyatt-Hodge's ton powers England to big win over SL",
+    "desc": "England launched their ICC Women's T20 World Cup 2026 campaign with a resounding 87-run victory over Sri Lanka at Edgbaston. Danni Wyatt-Hodge's unbeaten century powered England to a record 219/1, the highest team total in tournament history. Their bowlers then restricted Sri Lanka to 132, securing a dominant start.",
+    "img": "https://static.toiimg.com/photo/msid-131693566,imgsize-41860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/womens-t20-world-cup-danni-wyatt-hodges-century-powers-england-to-record-breaking-win-over-sri-lanka/articleshow/131693565.cms",
+    "time": "2026-06-12T21:13:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Invisible tropical waves linked to extreme rainfall, says study",
+    "desc": "The study reveals that invisible atmospheric disturbances known as Kelvin, Rossby and Mixed Rossby-Gravity waves significantly enhance heavy rainfall by organising deep convective cloud systems and increasing moisture convergence over the Arabian Sea and the Western Ghats",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/invisible-tropical-waves-linked-to-extreme-rainfall-says-study/article71092824.ece",
+    "time": "2026-06-12T20:10:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'My mother raised us single-handedly'",
+    "desc": "Popular singer Shaan has opened up about one of the most difficult phases of his life, recalling how he lost his father at the age of 13 and took up several odd jobs to help support his family. The singer revealed that his mother became the pillar of the family after his father's death.",
+    "img": "https://static.toiimg.com/photo/msid-131693341,imgsize-66612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shaan-recalls-losing-his-father-at-13-selling-cable-tv-connections-and-working-odd-jobs-to-support-family-my-mother-raised-us-single-handedly/articleshow/131693281.cms",
+    "time": "2026-06-12T19:34:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Top US diplomat summoned again as anger mounts over vessel attacks; govt says use of lethal force against civilian shipping unacceptable",
     "desc": "The summoning, again as opposed to the last time, took place in full public glare with the media allowed to film his arrival at the Ministry of External Affairs (MEA). Deputy chief of mission Meeks is officiating as charge d’affaires in the absence of ambassador Sergio Gor, who is on a visit to Central Asia.",
@@ -415,42 +514,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ajay, Arshad and gang are back with more fun",
-    "desc": "The much-awaited Dhamaal 4 trailer is finally out, launched at Imagicaa in Mumbai. Packed with fun, adventure and chaos, it captures the trademark energy of the beloved franchise. The film stars Ajay Devgn, Arshad Warsi, Riteish Deshmukh, Jaaved Jaaferi and Sanjay Mishra, and is directed by Indra Kumar.",
-    "img": "https://static.toiimg.com/photo/msid-131684666,imgsize-60166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhamaal-4-trailer-out-ajay-devgn-arshad-warsi-and-gang-are-back-with-more-fun-adventure-and-chaos/articleshow/131684666.cms",
-    "time": "2026-06-12T12:40:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Michael Jackson’s ‘Earth Song’ FIFA World Cup link resurfaces",
-    "desc": "his powerful anthem 'Earth Song' was featured on the official soundtrack for the 2006 FIFA World Cup in Germany. This brought renewed attention to the environmental message of the song, placing it alongside other global hits on the tournament's compilation album, 'Voices From The FIFA World Cup'.",
-    "img": "https://static.toiimg.com/photo/msid-131684741,imgsize-572900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/fifa-world-cup-2026-did-you-know-michael-jacksons-earth-song-was-featured-on-the-2006-album-voices-from-the-fifa-world-cup/articleshow/131684741.cms",
-    "time": "2026-06-12T12:28:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Main Vaapas Aaunga’: Imtiaz Ali explains Diljit’s absence",
-    "desc": "Filmmaker Imtiaz Ali clarified Diljit Dosanjh's absence from 'Main Vaapas Aaunga' promotions, citing overseas concerts. Sharvari is also shooting abroad. Ali stated the team prioritized casting over promotional availability, knowing this situation would arise. Diljit previously missed the trailer launch due to his Texas show, sending a video message.",
-    "img": "https://static.toiimg.com/photo/msid-131684452,imgsize-14776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjh-misses-main-vaapas-aaunga-promotions-as-imtiaz-ali-explains-why-i-cant-represent-the-whole-film-industry-on-this-one/articleshow/131684452.cms",
-    "time": "2026-06-12T12:11:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "A peek inside Vedang's rented home with Farah and Sharvari",
-    "desc": "Actor Ranvir Shorey and director Shreyansh Pandey have dismissed the political agenda debate surrounding Aditya Dhar's blockbuster spy franchise Dhurandhar. Ranvir called it \"grossly unfair\" to judge the film on political merit rather than cinematic merit, while Shreyansh described it as \"just pure and good storytelling\" with no agenda.",
-    "img": "https://static.toiimg.com/photo/msid-131684337,imgsize-30694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-cream-sofas-to-bombay-to-goa-poster-a-peek-inside-vedang-rainas-rented-mumbai-home-with-farah-khan-and-sharvari/articleshow/131684337.cms",
-    "time": "2026-06-12T12:04:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Priya pens emotional note on Sunjay's death anniversary, co-signed by Rani Kapur",
     "desc": "Priya Sachdev Kapur paid an emotional tribute to her late husband, businessman Sunjay Kapur, on the first anniversary of his passing. Her heartfelt message celebrated his spirit and the values he instilled. The tribute comes amid an ongoing legal battle with Sunjay's mother over his estate, though the co-signed note may indicate a resolution.",
     "img": "https://static.toiimg.com/photo/msid-131684234,imgsize-27708.cms",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/the-reality-behind-falling-net-fdi/article71084799.ece",
     "time": "2026-06-10T18:00:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Death of a heroine and the making of hit Tamil film ‘Bhadrakali’ with substitute actor",
-    "desc": "“I remembered a girl who had danced in the movie Pattikattu Raja. She bore some resemblance to Rani Chandra. I discussed it with cinematographer Viswanath Roy and we devised a plan to use her,” said actor Sivakumar.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/9vh3cl/article71085122.ece/alternates/LANDSCAPE_1200/Bhadrakali%20Sivakumar%20Rani%20Chandra%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/death-of-actor-rani-chandra-and-the-making-of-tamil-filmbhadrakaliwith-substitute-actor-in-1976/article71079732.ece",
-    "time": "2026-06-10T13:09:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Court orders restitution of assets worth ₹9,420.57 crore to Justice Lodha Committee in PACL case",
-    "desc": "The ED probe is based on a case registered by the CBI against PACL Ltd. and its promoters for allegedly defrauding lakhs of investors; the agency has so far attached assets worth nearly to ₹28,626 crore in India and Australia",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/court-orders-restitution-of-assets-worth-942057-crore-to-justice-lodha-committee-in-pacl-case/article71081289.ece",
-    "time": "2026-06-09T17:10:22.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chairman Chandrasekaran",
-    "desc": "“I predict that over the next 3 years, TCS will have as many AI agents as human employees. What we build in this next chapter - for our clients, for India, and for you - will be the most consequential work this company has ever done,” TCS chairman N. Chandrasekaran said",
-    "img": "https://th-i.thgim.com/public/incoming/tdzmz5/article71081412.ece/alternates/LANDSCAPE_1200/2026-06-09T080218Z_199016916_RC28QLAWISQE_RTRMADP_3_TCS-AI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/tcs-will-have-as-many-ai-agents-as-human-employees-in-3-years-chairman/article71081273.ece",
-    "time": "2026-06-09T17:05:55.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "OpenAI files confidential SEC paperwork for IPO opening door for Wall Street debut",
-    "desc": "OpenAI CEO Sam Altman first publicly floated the possibility of an IPO last fall, describing it as the \"most likely path\" for the company given its size and the need for vast amounts of capital to advance its technology.",
-    "img": "https://th-i.thgim.com/public/incoming/bytffw/article71079052.ece/alternates/LANDSCAPE_1200/2026-06-08T232759Z_1790077733_RC275FA8XSYF_RTRMADP_3_OPENAI-IPO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/openai-files-confidential-sec-paperwork-for-ipo-opening-door-for-wall-street-debut/article71078450.ece",
-    "time": "2026-06-09T00:10:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
