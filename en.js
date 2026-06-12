@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Top US diplomat summoned again as anger mounts over vessel attacks; govt says use of lethal force against civilian shipping unacceptable",
+    "desc": "The summoning, again as opposed to the last time, took place in full public glare with the media allowed to film his arrival at the Ministry of External Affairs (MEA). Deputy chief of mission Meeks is officiating as charge d’affaires in the absence of ambassador Sergio Gor, who is on a visit to Central Asia.",
+    "img": "https://static.toiimg.com/photo/msid-131693340,imgsize-9134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/top-us-diplomat-summoned-again-as-anger-mounts-over-vessel-attacks-govt-says-use-of-lethal-force-against-civilian-shipping-unacceptable/articleshow/131693335.cms",
+    "time": "2026-06-12T19:33:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Standard helmets &amp; seat belts could have saved thousands of lives on roads in 2024",
+    "desc": "As per a UN Motorcycle Helmet Study, motorcyclists are 26 times more likely to die in road crashes than drivers of cars and wearing an appropriate helmet “improves their chances of survival by 42% and helps avoid 69% of injuries to riders.” Similarly, as per World Health Organisation, seat-belts are approximately 50% effective in preventing fatalities in crashes in which motorists would otherwise die.",
+    "img": "https://static.toiimg.com/photo/msid-131693233,imgsize-31088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/standard-helmets-seat-belts-could-have-saved-thousands-of-lives-on-roads-in-2024/articleshow/131693270.cms",
+    "time": "2026-06-12T19:26:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "One year since AI-171 crash, pilots body questions delay in releasing final probe report",
+    "desc": "The Federation of Indian Pilots urges authorities not to publish an incomplete interim report, warning that it could add to speculation on the cause of the June 2025 crash. Officials say engine manufacturer General Electric is still analysing data from AI-171 engines, contributing to the delay.",
+    "img": "https://th-i.thgim.com/public/incoming/6qwthh/article71090418.ece/alternates/LANDSCAPE_1200/VIS_2969.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/one-year-since-ai-171-crash-pilots-body-questions-delay-in-releasing-final-probe-report/article71089389.ece",
+    "time": "2026-06-12T19:22:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Defections, dissent and survival: What’s driving the crisis inside TMC",
+    "desc": "The Trinamool Congress is facing a major political crisis following defections, internal dissent, and questions over leadership. What’s driving the unrest inside TMC? Is this a temporary phase or a deeper shift in West Bengal politics? We break down the key developments, power struggles, and what lies ahead for Mamata Banerjee and her party.",
+    "img": "https://th-i.thgim.com/public/incoming/c3vdjf/article71095239.ece/alternates/LANDSCAPE_1200/Mumbai%E2%80%99s%20public%20transport%20needs%2010000%20buses%20Ashwini%20Bhide.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/defections-dissent-and-survival-whats-driving-the-crisis-inside-tmc/article71095242.ece",
+    "time": "2026-06-12T19:13:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manoj recalls Chopra telling him, ‘I don't make films for actors like you’",
+    "desc": "Manoj Bajpayee has opened up about his memorable experience working with legendary filmmaker Yash Chopra in Veer-Zaara starring Shah Rukh Khan, Preity Zinta and Rani Mukerji. Speaking on Shekhar Suman's chat show Shekhar Tonite, the National Award-winning actor recalled how Chopra's honesty and generosity left a lasting impression on him.",
+    "img": "https://static.toiimg.com/photo/msid-131692018,imgsize-35586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-recalls-yash-chopra-telling-him-i-dont-make-films-for-actors-like-you-paid-him-like-a-lead-actor-for-veer-zaara/articleshow/131691901.cms",
+    "time": "2026-06-12T18:30:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Planning of cities must be people-centric, says Manohar Lal as Brics forum adopts urban pact",
+    "desc": "Cities must prioritize people and their needs, according to Housing Minister Manohar Lal, as BRICS nations adopted a declaration for inclusive urban development. The 'Cities for People' forum stressed equitable access to housing and services, with India facing significant future urbanization. Strengthening local governments and embracing digital solutions were also key takeaways for creating sustainable, liveable urban centers.",
+    "img": "https://static.toiimg.com/photo/msid-131690632,imgsize-649971.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/planning-of-cities-must-be-people-centric-says-manohar-lal-as-brics-forum-adopts-urban-pact/articleshow/131690605.cms",
+    "time": "2026-06-12T17:46:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi's 10-year-old younger brother Aashirwad Sooryavanshi slams century",
+    "desc": "Younger brother Aashirwad Sooryavanshi, aged 10, has scored a brilliant century in a local practice match, mirroring the cricketing talent of his elder brother Vaibhav. Vaibhav, a teenage sensation, proudly shared Aashirwad's achievement on social media while he is currently on tour with India A.",
+    "img": "https://static.toiimg.com/photo/msid-131690620,imgsize-57492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshis-10-year-old-younger-brother-aashirwad-sooryavanshi-slams-century/articleshow/131690473.cms",
+    "time": "2026-06-12T17:46:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "UN experts condemn crackdown on women by Afghan morality police",
+    "desc": "\"Allegations that women were detained for dress code violations are deeply concerning and may constitute arbitrary and unlawful detention, as it appears to penalise the exercise of their right to freedom of expression and right to be free from gender discrimination,\" says experts' statement",
+    "img": "https://th-i.thgim.com/public/news/national/4xdose/article71095118.ece/alternates/LANDSCAPE_1200/iStock-2186954083%205.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/un-experts-condemn-crackdown-on-women-by-afghan-morality-police/article71095075.ece",
+    "time": "2026-06-12T17:42:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah orders multi-layered security, pushes tech-driven pilgrim safety",
+    "desc": "Home Minister Amit Shah has ordered a robust, multi-layered security grid for the Amarnath Yatra, utilizing advanced technology like drones and CCTV. He stressed securing tourist spots for safe pilgrimage and tourism. The 57-day yatra, starting July 3, will see strict regulation of pilgrim movement and enhanced essential services, with QR code IDs for local support staff and animals.",
+    "img": "https://static.toiimg.com/photo/msid-131690365,imgsize-128346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amarnath-yatra-amit-shah-orders-multi-layered-security-pushes-tech-driven-pilgrim-safety/articleshow/131690172.cms",
+    "time": "2026-06-12T17:33:08.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Tu cheez badi hain....Musk Musk: A small step for SpaceX, a giant leap to a trillion for Elon",
     "desc": "Elon Musk has achieved a historic milestone by becoming the world’s first trillionaire, driven by the soaring valuation from SpaceX’s IPO. His vision for reusable rockets and interplanetary colonies has captured the imagination of investors, turning space exploration into an enticing financial frontier. This remarkable shift in wealth underscores a new chapter in capitalism, expanding its reach beyond conventional sectors.",
@@ -99,15 +180,6 @@ const newsData_en = [
     "time": "2026-06-12T16:22:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Trump slams Iran over peace deal leaks| Above the Fold| 12.06.2026",
-    "desc": "Could West Asia be heading towards a diplomatic breakthrough? In this episode, we unpack the reported draft agreement between Iran and the U.S. and what it could mean for the future of the conflict. We also look at the Supreme Court’s dismissal of Meenakshi Natarajan’s plea over her rejected Rajya Sabha nomination, and more.",
-    "img": "https://th-i.thgim.com/public/news/national/gpfkfg/article71094871.ece/alternates/LANDSCAPE_1200/June%2012%20THUMB%208.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/watch-trump-slams-iran-over-peace-deal-leaksabove-the-fold-12062026/article71094688.ece",
-    "time": "2026-06-12T16:16:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Give ourselves options': Morkel outlines India's fast-bowling vision for 2027 ODI WC",
     "desc": "India's fast-bowling reserves are being tested in the Afghanistan series as part of a long-term strategy for the South Africa tour. Bowling coach Morne Morkel highlighted the importance of giving youngsters like Prince Yadav and Gurnoor Brar opportunities to develop under pressure, aiming for peak performance in next year's World Cup.",
@@ -124,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-mookambika-temple-visit-suriyas-gift-to-rj-balaji-peddi-scenes-trimmed-top-5-south-stories-of-the-day/articleshow/131688435.cms",
     "time": "2026-06-12T15:44:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala schools battle stealthy make-up addiction",
-    "desc": "Schoolchildren, some as young as 10 years, are increasingly using hyper-cheap cosmetics such as lipsticks which contain harmful chemicals. Teachers say the habit has evolved into a full-blown addiction as some find it difficult to cope without these products",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-schools-battle-stealthy-makeup-addiction/article71093857.ece",
-    "time": "2026-06-12T15:40:26.000Z"
   },
   {
     "cat": "Politics",
@@ -415,15 +478,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Tamil Nadu CM and actor Vijay visits Kollur Mookambika temple",
-    "desc": "Tamil Nadu Chief Minister and actor Vijay made a spiritual stop at the Mookambika Temple in Kollur, Karnataka, following crucial meetings in New Delhi. His traditional attire and humble demeanor impressed devotees, drawing massive crowds eager for a glimpse. The visit, a blend of political and spiritual significance, generated considerable excitement among his followers and observers alike.",
-    "img": "https://static.toiimg.com/photo/msid-131683655,imgsize-130190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/tamil-nadu-cm-and-actor-vijay-visits-kollur-mookambika-temple-fans-gather-to-see-the-actor-turned-political-leader/articleshow/131683585.cms",
-    "time": "2026-06-12T11:45:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Olivia Rodrigo talks Filipino roots while making lumpia",
     "desc": "In a delightful interview with British Vogue, Olivia Rodrigo, the Filipino American sensation, opened up about her beloved family's lumpia recipe, evoking fond memories of her grandmother's kitchen. Alongside this culinary nostalgia, she shared insights about her forthcoming album, which promises a vibrant and uplifting sound, while also reflecting on a transformative journey to the Philippines that stirred her emotions.",
     "img": "https://static.toiimg.com/photo/msid-131683534,imgsize-90794.cms",
@@ -558,33 +612,6 @@ const newsData_en = [
     "time": "2026-06-12T09:36:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'We will bring back the Tatas in Bengal': Suvendu Adhikari vows industrial revival, targets Left and TMC",
-    "desc": "West Bengal's Chief Minister Suvendu Adhikari has taken a bold stand for industry revival, bringing Tata Group back into the fold. He has openly addressed the failures of previous administrations, including the Left and TMC, and proposed an innovative framework that prioritizes local voices and respects agricultural land.",
-    "img": "https://static.toiimg.com/photo/msid-131679688,imgsize-117854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-will-bring-back-the-tatas-in-bengal-suvendu-adhikari-vows-industrial-revival-targets-left-and-tmc/articleshow/131679642.cms",
-    "time": "2026-06-12T09:02:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sole survivor of Air India crash 'struggles with difficult memories' a year after tragedy",
-    "desc": "One year after surviving the devastating crash of London-bound Flight 171, lone survivor Viswashkumar Ramesh reveals his ongoing struggles with sleep, anxiety, and difficult memories. Despite outward survival, Ramesh faces immense physical, psychological, and financial challenges as he attempts to rebuild his life and support his family. Legal and rehabilitation support are being pursued.",
-    "img": "https://static.toiimg.com/photo/msid-131679593,imgsize-214830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sole-survivor-of-air-india-crash-struggles-with-difficult-memories-a-year-after-tragedy/articleshow/131679336.cms",
-    "time": "2026-06-12T08:59:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Sooryavanshi is going to be bigger than Tendulkar, Virat put together,' says Steyn",
-    "desc": "Teen sensation Vaibhav Sooryavanshi's record-breaking IPL season has earned him international call-ups and high praise from legends like Dale Steyn. The ex-South Africa seamer believes the 15-year-old prodigy could surpass even Sachin Tendulkar and Virat Kohli. However, Steyn also cautioned against mishandling the young talent, emphasising the need for careful management to nurture his immense potential.",
-    "img": "https://static.toiimg.com/photo/msid-131679388,imgsize-49796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-is-going-to-be-bigger-than-tendulkar-virat-put-together-says-dale-steyn/articleshow/131679220.cms",
-    "time": "2026-06-12T08:57:39.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "False AI 'fact-checks' stir online chaos after Charlie Kirk assassination",
     "desc": "A day after Charlie Kirk, a 31-year-old prominent ally of U.S. President Donald Trump, was fatally gunned down at a university in Utah, the X account of AI chatbot Perplexity falsely stated that the activist was never shot",
@@ -637,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/indian-shooting-star-jaspal-rana-passes-away-tributes-pour-in/article71092515.ece",
     "time": "2026-06-12T07:45:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Exam window extended to 195 mins': NTA rolls out 'student-friendly' measures for NEET UG 2026",
-    "desc": "00 PM to 5:15 PM. Candidates will receive four rough-work pages, with two placed at the booklet's beginning for easier access, addressing feedback on convenience and accessibility. These changes aim for a fairer, more comfortable exam experience.",
-    "img": "https://static.toiimg.com/photo/msid-131677435,imgsize-165782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-exam-timing-to-booklet-design-what-are-ntas-student-friendly-changes-in-neet-ug-2026/articleshow/131677414.cms",
-    "time": "2026-06-12T07:35:04.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

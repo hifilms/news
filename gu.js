@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "શું થશે ઈરાન US ડીલ? અબ્બાસ અરાઘચીની પોસ્ટને ટ્રમ્પે કરી રી પોસ્ટ, પાકિસ્તાની PMએ પણ માર્યો કુદકો",
+    "desc": "ટ્રમ્પ દ્વારા ઈરાની વિદેશ મંત્રી અબ્બાસ અરાઘચીની પોસ્ટને રી પોસ્ટ કરવી દુર્લભ છે. જ્યારે આ ચોક્કસપણે ડીલ વિશે સકારાત્મક સંદેશ આપે છે, ત્યારે બંને દેશો વચ્ચે અવિશ્વાસની ખાડી હજુ પણ ઊંડી છે, જે ઉપરાષ્ટ્રપતિ જે.ડી. વેન્સની પોસ્ટ દ્વારા પુરાવા મળે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/what-will-happen-to-the-iran-us-deal-trump-reposts-abbas-araghchis-post-pakistani-pm-also-joins-in-481342 ",
+    "time": "2026-06-12T18:26:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઘટ્યો ભારતનો વિદેશી હૂંડિયામણ ભંડાર, સોના પર આવ્યા સારા સમાચાર, ક્યાં પહોંચ્યો ભારતનો ફોરેક્સ રિઝર્વ ?",
+    "desc": "ગલ્ફ વોરને કારણે ભારતના વિદેશી હૂંડિયામણ ભંડાર પર નોંધપાત્ર દબાણ છે. આયાત બિલમાં વધારો થવાને કારણે ફોરેક્સ રિઝર્વમાં ઘટાડો થઈ રહ્યો છે. 5 જૂને પૂરા થયેલા સપ્તાહમાં ભારતના ફોરેક્સ રિઝર્વમાં આશરે $711 મિલિયનનો ઘટાડો થઈને $681.61 બિલિયન થઈ ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/indias-foreign-exchange-reserves-have-decreased-good-news-on-gold-where-have-indias-foreign-exchange-reserves-reached-481341 ",
+    "time": "2026-06-12T17:58:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એલોન મસ્ક બન્યા ઇતિહાસના પ્રથમ ટ્રિલિયનેર, SpaceXના IPOની બમ્પર લિસ્ટિંગે કર્યા માલામાલ",
+    "desc": "એલોન મસ્કની કંપની, સ્પેસએક્સના શેર્સે 12 જૂનના રોજ અમેરિકન ટેક કંપની ઇન્ડેક્સ, નાસ્ડેક પર શાનદાર શરૂઆત કરી. શેર્સ 150 ડોલર પ્રતિ શેરના ભાવે લિસ્ટ થયા, જે તેમની 135 ડોલરની ઇશ્યૂ કિંમતથી 11 ટકા વધુ છે. આ સાથે, કંપનીના માલિક, એલોન મસ્ક, ઇતિહાસના પ્રથમ ટ્રિલિયનર બન્યા. ફોર્બ્સ અનુસાર, એલોન મસ્કની રીઅલ-ટાઇમ નેટવર્થ 1.1 ટ્રિલિયન ડોલર અથવા 94.6 લાખ કરોડ રૂપિયાને વટાવી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/elon-musk-becomes-the-first-trillionaire-in-history-spacex-ipo-bumper-listing-makes-a-fortune-481340 ",
+    "time": "2026-06-12T17:36:52.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ડુંગળી પકવતા ખેડૂતો માટે સરકારનો મોટો નિર્ણય, ખરીદવા પર આપી મોટી અપડેટ, જાણો",
     "desc": "ખેડૂતોની આવક વધારવા માટે, સરકારે બફર સ્ટોક પ્રોગ્રામ હેઠળ ડુંગળીનો ખરીદ ભાવ વધાર્યો છે. આ સુધારેલો ભાવ શનિવારથી અમલમાં આવશે. અગાઉ, કેન્દ્ર સરકારે ભાવ 12.70 રૂપિયાના પ્રતિ કિલોગ્રામથી વધારીને ₹15.80 પ્રતિ કિલોગ્રામ કર્યો હતો. સરકારનું આ તાજેતરનું પગલું બજાર ભાવ જાળવવા અને ખેડૂતોને તેમના ઉત્પાદન માટે વધુ સારા ભાવ મળે તે સુનિશ્ચિત કરવાના તેના પ્રયાસોનો એક ભાગ છે.",
@@ -466,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pm-kisan-23rd-installment-released-date-check-latest-update-480984 ",
     "time": "2026-06-09T15:59:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચમાં મોટા બદલાવની તૈયારી! OROP અને 5% ઇન્ક્રીમેન્ટ પર આવ્યું આ નવું અપડેટ",
-    "desc": "8મા પગાર પંચની રચના પહેલા રેલવે સિનિયર સિટીઝન્સ વેલ્ફેર સોસાયટી (RSCWS)એ સરકાર સમક્ષ કેટલીક મહત્વપૂર્ણ માંગણીઓ રજૂ કરી છે. આ સંગઠને સિવિલિયન પેન્શનરો માટે 'વન રેન્ક વન પેન્શન' (OROP), લઘુત્તમ વેતન અને પેન્શનમાં વધારો તેમજ વાર્ષિક ઇન્ક્રીમેન્ટ 5% કરવાની માંગ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/preparations-for-big-changes-in-the-8th-pay-commission-this-new-update-on-orop-and-5-percent-increment-has-come-480983 ",
-    "time": "2026-06-09T15:47:50.000Z"
   },
   {
     "cat": "Tech",

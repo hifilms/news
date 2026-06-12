@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Shooting range will never feel the same'",
+    "desc": "Double Olympic medallist, Manu Bhaker, lost her long-time coach, Jaspal Rana, in a sudden and tragic death on Thursday as the shooting fraternity and sports fans mourned the passing away of a former multi-time Asian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/manu-bhaker-pays-tribute-to-coach-jaspal-rana-shooting-range-will-never-feel-the-same-2026-06-12-1044669",
+    "time": "2026-06-12T18:27:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nat Sciver-Brunt to play as pure batter as England kick Women's T20 World Cup against Sri Lanka; check reason",
+    "desc": "In a major development, England women's cricket team captain Nat Sciver-Brunt will be playing purely as a batter in the first few matches of the Women's T20 World Cup 2026 as her team kicks off...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-to-play-as-pure-batter-as-england-kick-womens-t20-world-cup-against-sri-lanka-check-reason-2026-06-12-1044667",
+    "time": "2026-06-12T17:53:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Coach speaks on star batter's fresh fitness concerns ahead of Afghanistan ODIs",
     "desc": "Rohit Sharma is gearing up for the ODI series against Afghanistan as he returns after a recent hamstring injury. Rohit was sidelined for some matches in the Indian Premier League 2026 after picking up a...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kane-williamson-announces-sudden-retirement-from-international-cricket-explains-reason-2026-06-12-1044607",
     "time": "2026-06-12T10:09:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How is SA20 developing domestic South African cricketers? Dale Steyn explains",
-    "desc": "Former South Africa fast bowler Dale Steyn believes SA20 has played a crucial role in accelerating the growth of domestic cricketers by exposing them to an environment that closely mirrors international cricket. He highlighted how...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-is-sa20-developing-domestic-south-african-cricketers-dale-steyn-explains-2026-06-12-1044604",
-    "time": "2026-06-12T09:25:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full list of performers and where to watch",
-    "desc": "The Women’s T20 World Cup 2026 will get underway at Edgbaston on June 12 with hosts England taking on Sri Lanka. Ahead of the blockbuster clash, the ICC has planned an opening ceremony featuring a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-opening-ceremony-full-list-of-performers-and-where-to-watch-2026-06-12-1044585",
-    "time": "2026-06-12T07:39:35.000Z"
   }
 ];
