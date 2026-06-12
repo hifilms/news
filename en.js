@@ -1,21 +1,165 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Tu cheez badi hain....Musk Musk: A small step for SpaceX, a giant leap to a trillion for Elon",
+    "desc": "Elon Musk has achieved a historic milestone by becoming the world’s first trillionaire, driven by the soaring valuation from SpaceX’s IPO. His vision for reusable rockets and interplanetary colonies has captured the imagination of investors, turning space exploration into an enticing financial frontier. This remarkable shift in wealth underscores a new chapter in capitalism, expanding its reach beyond conventional sectors.",
+    "img": "https://static.toiimg.com/photo/msid-131690148,imgsize-35114.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/tu-cheez-badi-hain-musk-musk-one-small-step-for-spacex-one-giant-leap-to-a-trillion-for-elon-musk/articleshow/131690115.cms",
+    "time": "2026-06-12T17:18:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Centre opens radio spectrum to accelerate deployment of vehicle collision-avoidance systems",
+    "desc": "India has removed licensing for crucial radio spectrum bands, specifically 77-81 GHz for automotive radar and 5.9 GHz for V2X communications. This move aims to accelerate the adoption of advanced road safety and collision-avoidance systems, aligning India with global standards and potentially reducing vehicle manufacturing costs. The initiative is expected to significantly enhance vehicle safety and reduce road fatalities.",
+    "img": "https://static.toiimg.com/photo/msid-131690141,imgsize-708542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-opens-radio-spectrum-to-accelerate-deployment-of-vehicle-collision-avoidance-systems/articleshow/131690137.cms",
+    "time": "2026-06-12T17:17:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Bowling camps will be relieved': Sachin's candid verdict on Kane retirement",
+    "desc": "Cricket legend Sachin Tendulkar lauded Kane Williamson after his international retirement. Tendulkar praised Williamson's batting technique and gentlemanly conduct. He noted Williamson's departure would bring relief to bowlers. Williamson retires as New Zealand's top international scorer with numerous records. His leadership also left a significant mark on the sport.",
+    "img": "https://static.toiimg.com/photo/msid-131690066,imgsize-833333.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bowling-camps-will-be-relieved-sachin-tendulkars-candid-verdict-on-kane-williamson-retirement/articleshow/131690015.cms",
+    "time": "2026-06-12T17:17:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee rebounds 67 paise to 95.18 against US dollar as oil prices tumble on Iran deal hopes",
+    "desc": "The Indian Rupee experienced a significant surge, climbing 67 paise to close at 95.18 against the US dollar. This robust recovery was primarily fueled by a sharp decline in global crude oil prices, following US President Donald Trump's indication of an imminent deal with Iran. Positive domestic equity market trends and a weaker US dollar further bolstered the rupee's performance.",
+    "img": "https://static.toiimg.com/photo/msid-131690022,imgsize-702470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-rebounds-67-paise-to-95-18-against-us-dollar-as-oil-prices-tumble-on-iran-deal-hopes/articleshow/131690016.cms",
+    "time": "2026-06-12T17:10:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harshit Rana set to join India squad ahead of third Afghanistan ODI",
+    "desc": "Harshit Rana is set to join the Indian ODI squad in Chennai for the Afghanistan series, not as a replacement for Hardik Pandya, but to reintegrate into the international setup post-knee surgery. He's been bowling intensely and working on his batting, with official clearance expected soon.",
+    "img": "https://static.toiimg.com/photo/msid-131689579,imgsize-127622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/harshit-rana-set-to-join-india-squad-ahead-of-third-afghanistan-odi/articleshow/131689592.cms",
+    "time": "2026-06-12T16:55:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Outspoken, controversial: Jaspal Rana was Indian shooting's original prodigy",
+    "desc": "Indian shooting legend Jaspal Rana, known for his fearless approach and straight talk, has passed away at 49. A trailblazer, he inspired a generation of shooters, proving Indians could win internationally. Rana challenged the system, championed athletes' rights, and later mentored champions like Manu Bhaker, leaving an indelible mark on the sport.",
+    "img": "https://static.toiimg.com/photo/msid-131689415,imgsize-70348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/outspoken-controversial-unforgettable-jaspal-rana-was-indian-shootings-original-prodigy/articleshow/131689155.cms",
+    "time": "2026-06-12T16:46:49.000Z"
+  },
+  {
     "cat": "World",
-    "title": "Trump accuses Iran of attacking Indian ships, says it's 'totally unacceptable'",
-    "desc": "U.S. forces shoot down two Iranian attack drones, an official says; Iran said it had not reached a final decision on a deal with Washington after U.S. President Donald Trump announced a \"great settlement\" to end the war",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "A deal with U.S. ‘has never been closer’, says Iran",
+    "desc": "Foreign Minister Abbas Araghchi’s comments came after Iran’s Mehr news agency, citing a source close to the country’s negotiating team, claimed that the deal would see “the release of $24 billion of Iran’s blocked funds during the 60-day final negotiation period”",
+    "img": "https://th-i.thgim.com/public/incoming/80pe71/article71094778.ece/alternates/LANDSCAPE_1200/PTI05_15_2026_000156B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-bandar-abbas-strikes-strait-of-hormuz-mojtaba-khamenei-donald-trump-tehran-deal-june-12-2026/article71092034.ece",
-    "time": "2026-06-12T14:40:36.000Z"
+    "url": "https://www.thehindu.com/news/international/deal-with-the-us-has-never-been-closer-says-iran/article71094747.ece",
+    "time": "2026-06-12T16:39:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SpaceX, which Elon Musk gave ‘less than 10% chance of succeeding’, makes him world’s first trillionaire",
+    "desc": "It’s important to note that a big portion of Musk’s net worth is tied to SpaceX. His holding in the company is worth around $866 billion. According to Reuters calculations, Musk’s net worth adds up to over a trillion dollars after the listing of Space X.",
+    "img": "https://static.toiimg.com/photo/msid-131687655,imgsize-149238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/spacex-which-elon-musk-gave-less-than-10-chance-of-succeeding-makes-him-worlds-first-trillionaire-but-will-his-net-worth-sustain/articleshow/131687377.cms",
+    "time": "2026-06-12T16:29:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India aims to extend domination against Afghanistan",
+    "desc": "Rohit all set to become the oldest man to play for the country in ODIs; Kishan or Rahul to bat at No. 3 in Kohli’s absence; the visitor has won its previous five bilateral series in the 50-over format",
+    "img": "https://th-i.thgim.com/public/incoming/nm1oy8/article71094160.ece/alternates/LANDSCAPE_1200/19_Practice_Dharamshala_12_06_Himachal.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-aims-to-extend-domination-against-afghanistan/article71094146.ece",
+    "time": "2026-06-12T16:28:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "World's first trillionaire: Elon Musk's net worth cross $1 trillion after SpaceX's stock market debut",
+    "desc": "Elon Musk has become the world's first trillionaire following SpaceX's successful Nasdaq debut. The company's shares surged, propelling Musk's fortune and valuing SpaceX at nearly $2 trillion. Investors are betting on Musk's diverse ventures despite the company's recent losses, with its addressable market estimated at $28.5 trillion.",
+    "img": "https://static.toiimg.com/photo/msid-131689021,imgsize-1273221.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/worlds-first-trillionaire-elon-musks-net-worth-cross-1-trillion-after-spacexs-stock-market-debut/articleshow/131688756.cms",
+    "time": "2026-06-12T16:23:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ameesha claims Gadar has bigger footfalls than Dhurandhar franchise",
+    "desc": "Ek Prem Katha approaches its 25th anniversary, actress Ameesha Patel has reflected on the film's unprecedented success and the overwhelming love she received from audiences across borders. The actress, who immortalised the character of Sakina opposite Sunny Deol's Tara Singh, revealed that the film's impact was so profound that several parents named their daughters after her iconic character.",
+    "img": "https://static.toiimg.com/photo/msid-131689034,imgsize-68126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-claims-gadar-1-and-2-have-bigger-footfalls-than-dhurandhar-franchise-pakistani-parents-named-their-daughters-sakina/articleshow/131689000.cms",
+    "time": "2026-06-12T16:22:58.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Mumbai MBBS student Sejal Pawar faces probe over cadaver remarks at comedy show",
-    "desc": "The probe panel is expected to submit its report in the next couple of days, KEM Hospital said after the Maharashtra Cyber police registered a case against More, web developer Himanshu Jangra, and others for allegedly disseminating \"obscene and objectionable\" content on social media",
+    "title": "Trump slams Iran over peace deal leaks| Above the Fold| 12.06.2026",
+    "desc": "Could West Asia be heading towards a diplomatic breakthrough? In this episode, we unpack the reported draft agreement between Iran and the U.S. and what it could mean for the future of the conflict. We also look at the Supreme Court’s dismissal of Meenakshi Natarajan’s plea over her rejected Rajya Sabha nomination, and more.",
+    "img": "https://th-i.thgim.com/public/news/national/gpfkfg/article71094871.ece/alternates/LANDSCAPE_1200/June%2012%20THUMB%208.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/watch-trump-slams-iran-over-peace-deal-leaksabove-the-fold-12062026/article71094688.ece",
+    "time": "2026-06-12T16:16:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Give ourselves options': Morkel outlines India's fast-bowling vision for 2027 ODI WC",
+    "desc": "India's fast-bowling reserves are being tested in the Afghanistan series as part of a long-term strategy for the South Africa tour. Bowling coach Morne Morkel highlighted the importance of giving youngsters like Prince Yadav and Gurnoor Brar opportunities to develop under pressure, aiming for peak performance in next year's World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-131688800,imgsize-89896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/give-ourselves-options-morne-morkel-outlines-indias-fast-bowling-vision-for-2027-odi-world-cup/articleshow/131688777.cms",
+    "time": "2026-06-12T16:07:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "South cinema saw an eventful day. Actor Vijay visited the Mookambika Temple. Suriya gifted RJ Balaji a new car. The film 'Peddi' trimmed controversial scenes. Raghava Lawrence considered politics. GV Prakash joined 'VenkyAnil5' as composer. These stories created a buzz among audiences and sparked conversations.",
+    "img": "https://static.toiimg.com/photo/msid-131688448,imgsize-191142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-mookambika-temple-visit-suriyas-gift-to-rj-balaji-peddi-scenes-trimmed-top-5-south-stories-of-the-day/articleshow/131688435.cms",
+    "time": "2026-06-12T15:44:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala schools battle stealthy make-up addiction",
+    "desc": "Schoolchildren, some as young as 10 years, are increasingly using hyper-cheap cosmetics such as lipsticks which contain harmful chemicals. Teachers say the habit has evolved into a full-blown addiction as some find it difficult to cope without these products",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/mumbai-mbbs-student-sejal-pawar-faces-probe-over-cadaver-remarks-at-comedy-show/article71094204.ece",
-    "time": "2026-06-12T14:34:33.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-schools-battle-stealthy-makeup-addiction/article71093857.ece",
+    "time": "2026-06-12T15:40:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modi, Macron to jointly launch Bharat Innovates in Nice on June 14",
+    "desc": "Prime Minister Narendra Modi and French President Emmanuel Macron will inaugurate Bharat Innovates 2026 in Nice on June 14. This event aims to boost India-France collaboration in deep technology and startups. Over 120 Indian startups and leading institutions will showcase innovation. The initiative seeks to transform India into a knowledge-creating economy and foster global partnerships.",
+    "img": "https://static.toiimg.com/photo/msid-131688248,imgsize-709846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/modi-macron-to-jointly-launch-bharat-innovates-in-nice-on-june-14/articleshow/131688199.cms",
+    "time": "2026-06-12T15:23:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘We never saw any romance between Katrina and Ranbir on APKGK set’",
+    "desc": "Katrina Kaif and Ranbir Kapoor’s relationship was once among Bollywood’s most-discussed romances, but their Ajab Prem Ki Ghazab Kahani co-star Vishwanath Chatterjee has now revealed that he never witnessed any signs of a budding romance between the two while filming the movie. Instead, he recalled being impressed by Katrina’s discipline, fitness, and commitment to her craft.",
+    "img": "https://static.toiimg.com/photo/msid-131688178,imgsize-68172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-never-saw-any-romance-between-katrina-kaif-and-ranbir-kapoor-on-ajab-prem-ki-ghazab-kahani-set-says-co-star-vishwanath-chatterjee/articleshow/131688137.cms",
+    "time": "2026-06-12T15:19:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What Elon Musk's trillion could mean: More than double South Africa's economy, over 200 trips to the moon",
+    "desc": "Elon Musk's potential trillion-dollar fortune is a monumental sum, dwarfing national economies and astronomical distances. This unprecedented wealth, if realized, would be enough to buy millions of homes or fuel the entire US for over a year, highlighting a growing concern over global wealth inequality.",
+    "img": "https://static.toiimg.com/photo/msid-131687967,imgsize-487805.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/what-elon-musks-trillion-could-mean-more-than-double-south-africas-economy-over-200-trips-to-the-moon/articleshow/131687776.cms",
+    "time": "2026-06-12T15:03:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -27,15 +171,6 @@ const newsData_en = [
     "time": "2026-06-12T14:26:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "No new Nipah cases in Kozhikode; three hospitalised for observation",
-    "desc": "Ten more people added to the updated contact list, taking the total number of existing contacts under surveillance to 87 on Friday. Of them, four were categorised as highest-risk contacts, 16 as high-risk and 67 as low-risk contacts.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/no-new-nipah-cases-in-kozhikode-three-hospitalised-for-observation/article71094123.ece",
-    "time": "2026-06-12T14:26:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Neeraj Chopra's comeback delayed as injury rules him out of Doha Diamond League",
     "desc": "Indian javelin star Neeraj Chopra will miss the Doha Diamond League due to a back injury sustained during training in Switzerland. He is focusing on rehabilitation for upcoming major events like the Commonwealth and Asian Games. This absence means fans won't see a repeat of his historic 90.23m throw from last year's Doha meet.",
@@ -43,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/neeraj-chopras-comeback-delayed-as-injury-rules-him-out-of-doha-diamond-league/articleshow/131687272.cms",
     "time": "2026-06-12T14:25:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala schools battle stealthy make-up addiction",
-    "desc": "Schoolchildren, some as young as 10 years, are increasingly using hyper-cheap cosmetics such as lipsticks which contain harmful chemicals. Teachers say the habit has evolved into a full-blown addiction as some find it difficult to cope without these products",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-schools-battle-stealthy-makeup-addiction/article71093857.ece",
-    "time": "2026-06-12T14:08:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -64,12 +190,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Government hikes onion procurement rate to ₹16.5 per kg from June 13 to help farmers",
-    "desc": "The buffer stocks are maintained annually under the Price Stabilisation Fund (PSF) for market intervention purposes. The government has set a procurement target of 2 lakh tonnes for the year, down from 3 lakh tonnes procured in 2025-26",
-    "img": "https://th-i.thgim.com/public/incoming/axh7ja/article71094142.ece/alternates/LANDSCAPE_1200/_JAI0525.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/government-hikes-onion-procurement-rate-to-165-per-kg-from-june-13-to-help-farmers/article71094098.ece",
-    "time": "2026-06-12T14:02:44.000Z"
+    "title": "'Order floor test': Ritabrata Banerjee claims support of 64 TMC MLAs, submits list to Speaker",
+    "desc": "West Bengal's leader of opposition Ritabrata Banerjee, claimed the backing of 64 Trinamool Congress MLAs, exceeding a two-thirds majority. He stated this list was submitted to the Speaker, who could call for a floor test. Banerjee also hinted at more than 20 Lok Sabha MPs potentially aligning with the rebellion, echoing long-standing concerns within the party.",
+    "img": "https://static.toiimg.com/photo/msid-131686927,imgsize-920683.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/order-floor-test-ritabrata-banerjee-claims-support-of-64-tmc-mlas-submits-list-to-speaker/articleshow/131686473.cms",
+    "time": "2026-06-12T14:00:47.000Z"
   },
   {
     "cat": "Business",
@@ -83,20 +209,11 @@ const newsData_en = [
   {
     "cat": "Business",
     "title": "Wall Street steadies as oil drops, SpaceX debut puts AI frenzy to the test",
-    "desc": "US stocks showed mixed movement Friday as falling oil prices offered support, while investors awaited the highly anticipated SpaceX IPO. This debut is seen as a key test of investor appetite for AI-related investments following recent market volatility and growing doubts about high valuations.",
+    "desc": "US stocks saw gains on Friday as oil prices dropped, boosting market sentiment. Investors eagerly awaited the public debut of SpaceX, a listing that could test the market's appetite for artificial intelligence-related companies. Broadcom experienced a decline, while Adobe's stock fell despite positive earnings. Global markets also showed upward movement.",
     "img": "https://static.toiimg.com/photo/msid-131686658,imgsize-1014660.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-wall-street-steadies-as-oil-drops-spacex-debut-puts-ai-frenzy-to-the-test/articleshow/131686649.cms",
     "time": "2026-06-12T13:54:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. CM Vijay announces Kuruvai Special Package for paddy cultivation at a cost of ₹134.83 crore",
-    "desc": "Due to the delay in southwest monsoon, the Mettur dam was not opened on the customary date of June 12; a release states the CM has announced the Kuruvai Special Package to protect farmers’ livelihoods and encourage paddy cultivation",
-    "img": "https://th-i.thgim.com/public/incoming/nf04cd/article71092384.ece/alternates/LANDSCAPE_1200/DSC_5978.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-announces-kuruvai-special-package-for-paddy-cultivation-at-a-cost-of-13483-crore/article71092331.ece",
-    "time": "2026-06-12T13:48:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -142,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/he-was-heading-to-germany-when-this-happened-uncle-reveals-final-details-before-jaspal-ranas-death/articleshow/131686204.cms",
     "time": "2026-06-12T13:38:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&K CM raises concern over 15-day closure of Srinagar airport with Defence, Civil Aviation Ministers",
-    "desc": "The airport is scheduled to be closed from October 1 to 16 for runway resurfacing work; Omar Abdullah says a large number of tourists visit the Union Territory in autumn; appeals for uninterrupted air connectivity",
-    "img": "https://th-i.thgim.com/public/incoming/vv8hfv/article71093207.ece/alternates/LANDSCAPE_1200/PTI02_03_2026_000303B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jampk-cm-raises-concern-over-15-day-closure-of-srinagar-airport-with-defence-civil-aviation-ministers/article71093175.ece",
-    "time": "2026-06-12T13:38:36.000Z"
   },
   {
     "cat": "Politics",
@@ -334,30 +442,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "When Remo D'Souza compared Madhuri Dixit to Michael Jackson",
-    "desc": "Choreographer-director Remo D'Souza once hailed Madhuri Dixit as the \"Lady Michael Jackson,\" praising her unparalleled grace, expressions, and dance skills. His admiration, stemming from years as a devoted fan, led him to meticulously study her iconic dance numbers like 'Ek Do Teen' and 'Humko Aaj Kal Hai' for training purposes.",
-    "img": "https://static.toiimg.com/photo/msid-131683205,imgsize-104280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-remo-dsouza-compared-maa-behen-star-madhuri-dixit-to-michael-jackson-she-is-completely-like-lady-mj/articleshow/131683123.cms",
-    "time": "2026-06-12T11:27:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Imtiaz reveals if he has pressure of matching up to his cult films like Jab We Met",
     "desc": "Filmmaker Imtiaz Ali, known for cult classics, opens up about his approach to filmmaking ahead of his new release, 'Main Vaapas Aunga'. He revealed he doesn't feel pressure from past successes, instead focusing on creating films worth watching. Ali also shared his personal journey of following his heart over practical considerations, admitting to always leaning towards his interests.",
     "img": "https://static.toiimg.com/photo/msid-131683074,imgsize-49318.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-dont-have-the-baggage-of-my-previous-films-imtiaz-ali-clarifies-not-having-the-pressure-of-matching-up-to-his-cult-films-like-jab-we-met-rockstar-exclusive/articleshow/131682817.cms",
     "time": "2026-06-12T11:23:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Karuppu' OTT release: Suriya wins praise for powerful turn",
-    "desc": "Suriya's film 'Karuppu' is now available on OTT platforms. Netizens are praising Suriya's powerful performance and screen presence. The movie's first half has received appreciation for its engaging setup. However, opinions are divided on the second half's pacing and character development. Despite varied views on the script and background score, 'Karuppu' continues to gain attention online.",
-    "img": "https://static.toiimg.com/photo/msid-131683055,imgsize-219598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karuppu-ott-release-netizens-praise-suriyas-performance-r-j-balaji-gets-lauded/articleshow/131682973.cms",
-    "time": "2026-06-12T11:23:30.000Z"
   },
   {
     "cat": "Sports",
@@ -394,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-nana-patekar-take-a-dig-at-welcome-to-the-jungle-makers-for-not-having-him-and-anil-kapoor-in-the-film-or-is-it-an-ai-post-heres-the-truth/articleshow/131682200.cms",
     "time": "2026-06-12T10:51:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shakira keeps dancing as World Cup staff rush her off field",
-    "desc": "The vibrant atmosphere of the 2026 World Cup opening ceremony in Mexico City was electrified by Shakira's dynamic performance. As production crew members gently ushered her from the stage, the Colombian pop queen playfully continued dancing the merengue with her brother, transforming a simple exit into a charming and shareable spectacle.",
-    "img": "https://static.toiimg.com/photo/msid-131682181,imgsize-204002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-keeps-dancing-as-world-cup-staff-rush-her-off-field-in-viral-ceremony-video/articleshow/131682181.cms",
-    "time": "2026-06-12T10:51:27.000Z"
   },
   {
     "cat": "Business",
@@ -531,15 +612,6 @@ const newsData_en = [
     "time": "2026-06-12T08:13:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Mehidy Hasan Miraz rushed to hospital after Bangladesh's series win over Australia",
-    "desc": "Bangladesh captain Mehidy Hasan Miraz was hospitalised for observation after suffering a concussion from a Riley Meredith bouncer during the team's historic ODI series win over Australia. Despite the blow and subsequent discomfort, Miraz bravely continued to play, guiding Bangladesh to a memorable victory with an unbeaten 22.",
-    "img": "https://static.toiimg.com/photo/msid-131678508,imgsize-63782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mehidy-hasan-miraz-rushed-to-hospital-after-heroic-knock-seals-bangladeshs-historic-series-win-over-australia/articleshow/131678472.cms",
-    "time": "2026-06-12T08:04:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sumukhi Suresh on why stand-up comedy should feel like an uncomfortable, honest confession",
     "desc": "The only female Indian comic to take the stage at Netflix Is A Joke Fest 2026, writer, showrunner and actor Sumukhi Suresh delves into why writers should feel uncomfortable, staying honest and discovering the actor in her",
@@ -576,15 +648,6 @@ const newsData_en = [
     "time": "2026-06-12T07:35:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Only legal notice issued': Congress' Meenkashi Natarajan defends Rajya Sabha nomination, claims Form 26 entry was 'not applicable'",
-    "desc": "Congress Rajya Sabha candidate Meenakshi Natarajan defended her nomination papers, stating a legal notice is not a pending criminal case. She asserted that all relevant details were provided to the Election Commission. The Supreme Court is hearing her plea regarding the disclosure requirements in Form 26.",
-    "img": "https://static.toiimg.com/photo/msid-131677506,imgsize-677956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/only-legal-notice-issued-congress-meenkashi-natarajan-defends-rajya-sabha-nomination-claims-form-26-entry-was-not-applicable/articleshow/131677086.cms",
-    "time": "2026-06-12T07:22:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Indian shooting icon behind Bhaker's Olympic success",
     "desc": "Indian shooting mourns the loss of Jaspal Rana, a celebrated Asian Games gold medallist and multiple international winner, who passed away at 49. Rana, a prolific shooter and influential coach, shaped generations of talent, notably guiding Manu Bhaker to a historic two-medal haul at the 2024 Paris Olympics. His legacy as a mentor and athlete is profound.",
@@ -594,24 +657,6 @@ const newsData_en = [
     "time": "2026-06-12T07:11:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'They do it when it suits them': Jaishankar on US tariffs and shifting stance on Russian oil",
-    "desc": "Jaishankar criticized Western nations' double standards on sanctions, particularly regarding India's purchase of Russian oil. He highlighted that the US itself encouraged India to buy Russian crude to stabilize global markets, emphasizing India's decisions are driven by affordability and availability, not geopolitics. Jaishankar pointed out the inconsistent application of sanctions, urging a pragmatic approach.",
-    "img": "https://static.toiimg.com/photo/msid-131676500,imgsize-41238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/they-do-it-when-it-suits-them-jaishankar-on-us-tariffs-and-shifting-stance-on-russian-oil/articleshow/131676484.cms",
-    "time": "2026-06-12T06:53:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'His dedication will inspire...': Prez Murmu, Bindra lead tributes to Jaspal Rana",
-    "desc": "India mourns the loss of legendary shooter and coach Jaspal Rana, who passed away at 49. President Murmu, Abhinav Bindra, and PM Modi led tributes, hailing his immense contributions as an athlete and mentor. Rana, a decorated champion, was instrumental in nurturing a generation of Indian shooting stars, leaving an indelible legacy.",
-    "img": "https://static.toiimg.com/photo/msid-131676425,imgsize-236156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/his-dedication-will-inspire-generations-president-murmu-abhinav-bindra-lead-tributes-to-jaspal-rana-after-his-death-at-49/articleshow/131676297.cms",
-    "time": "2026-06-12T06:42:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shakira and Burna Boy warm up spectators in World Cup opening ceremony",
     "desc": "While there was a festive atmosphere inside the stadium, there were chaotic scenes in the centre of Mexico City where thousands of fans pushed and shoved as they attempted to enter the official World Cup fan zone shortly before the 1800 GMT kickoff.",
@@ -619,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/shakira-and-burna-boy-warm-up-spectators-in-world-cup-opening-ceremony/article71090826.ece",
     "time": "2026-06-12T06:41:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket Ireland issues statement amid Belfast unrest ahead of India T20Is",
-    "desc": "Cricket Ireland is closely monitoring the unrest in Belfast ahead of India's T20I series, scheduled for June 26 and 28. While domestic matches are being reviewed, the board assures that player and fan safety is paramount. The series marks a new chapter for India's T20 side, potentially featuring a historic debut for young Vaibhav Sooryavanshi.",
-    "img": "https://static.toiimg.com/photo/msid-131676052,imgsize-54088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cricket-ireland-issues-statement-amid-belfast-unrest-ahead-of-high-profile-india-t20is/articleshow/131675924.cms",
-    "time": "2026-06-12T06:19:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-in-green-currency-rises-to-95-20-on-middle-east-peace-hopes/articleshow/131674203.cms",
     "time": "2026-06-12T05:06:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Elon Musk's SpaceX raises $75 billion in record IPO debut: 10 things to know",
-    "desc": "SpaceX is poised for a historic Wall Street debut, aiming to raise $75 billion and achieve a valuation of nearly $1.8 trillion. The company, now encompassing rocket launches, satellite internet, and AI, has seen significant revenue growth but reported a net loss. Institutional investors are showing strong demand for the offering.",
-    "img": "https://static.toiimg.com/photo/msid-131673855,imgsize-49590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/elon-musks-spacex-raises-75-billion-in-record-ipo-debut-10-things-to-know/articleshow/131673572.cms",
-    "time": "2026-06-12T04:29:45.000Z"
   },
   {
     "cat": "Sports",
@@ -682,42 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/infographics/2026-06-11/football-fifa-world-cup-records-most-goals-golden-boot-winners/index.html",
     "time": "2026-06-12T03:46:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nikhil Chaudhary adapted to Oz cricket’s demands: First Indian in Australian men's team",
-    "desc": "Nikhil Chaudhary, an India-born cricketer, has achieved a historic feat by being selected for Australia's T20I team. After a career shift during the COVID-19 lockdown in Australia, his impressive Big Bash League performances earned him a spot, making him the first Indian-born male cricketer in six decades to represent the Australian national side.",
-    "img": "https://static.toiimg.com/photo/msid-131672778,imgsize-35810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/versatile-nikhil-chaudhary-adapted-to-oz-crickets-demands-first-indian-in-australian-mens-team/articleshow/131672778.cms",
-    "time": "2026-06-12T03:21:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt bars industries from buying petrol, diesel at pumps; mandates bulk purchase route",
-    "desc": "Government has restricted industrial, commercial, and institutional users from buying petrol and diesel at retail fuel stations. This move aims to curb abnormal demand growth, particularly in diesel, driven by price differences between retail and bulk sales. The order, effective for up to 90 days, ensures equitable fuel availability for ordinary consumers.",
-    "img": "https://static.toiimg.com/photo/msid-131671954,imgsize-60454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-bars-industries-from-buying-petrol-diesel-at-pumps-mandates-bulk-purchase-route/articleshow/131671775.cms",
-    "time": "2026-06-12T02:33:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices slip below $90: Brent, WTI tumble after Trump announces ‘ending war with Iran’",
-    "desc": "Oil prices dropped below $90 per barrel as US President Donald Trump announced a framework agreement with Iran, signaling an end to the conflict and the expected reopening of the Strait of Hormuz. This development follows a week of heightened tensions and Iran's earlier threat to close the vital shipping lane, which had previously kept oil prices elevated.",
-    "img": "https://static.toiimg.com/photo/msid-131671569,imgsize-1683873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-below-90-brent-wti-tumble-after-trump-announces-ending-war-with-iran/articleshow/131671535.cms",
-    "time": "2026-06-12T01:41:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Credit surges 17.7% as deposit slowdown widens funding gap",
-    "desc": "Credit growth stood at 17.7% for the fortnight ending May 31, 2026, the highest recorded so far in the current financial year and the strongest year-on-year expansion since June 2024. Outstanding bank credit rose by Rs 1.5 lakh crore since March 31, 2026, marking a 0.7% increase (year-to-date), with total credit touching Rs 215.2 lakh crore. Bankers said demand is being driven partly by oil marketing companies facing lower realisations after the surge in crude prices. They added that govt support through the emergency credit line guarantee scheme has also lifted credit offtake.",
-    "img": "https://static.toiimg.com/photo/msid-131671174,imgsize-79794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/credit-surges-17-7-as-deposit-slowdown-widens-funding-gap/articleshow/131671151.cms",
-    "time": "2026-06-12T00:05:25.000Z"
   },
   {
     "cat": "World",
@@ -810,15 +801,6 @@ const newsData_en = [
     "time": "2026-06-11T06:23:24.000Z"
   },
   {
-    "cat": "World",
-    "title": "FBI seizes 13 websites allegedly used by China to target, recruit U.S. workers",
-    "desc": "The 13 websites purported to be affiliated with consulting companies that advertised job openings for current and former holders of security clearances. But the companies were all fakes and the job postings were a sham, officials said",
-    "img": "https://th-i.thgim.com/public/incoming/70t9i/article71087563.ece/alternates/LANDSCAPE_1200/Southern_California_Chemical_Tank__1_4.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/fbi-seizes-13-websites-allegedly-used-by-china-to-target-recruit-us-workers/article71087539.ece",
-    "time": "2026-06-11T03:28:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "a relationship that ebbed and flowed",
     "desc": "Recalling the difficult days in a conversation with The Hindu in 2018, Ilaiyaraaja had said that in 1968, he, his brothers and a few friends boarded a bus to Chennai in search of a career in the film industry. The journey was anything but easy.",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

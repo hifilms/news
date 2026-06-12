@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Coach speaks on star batter's fresh fitness concerns ahead of Afghanistan ODIs",
+    "desc": "Rohit Sharma is gearing up for the ODI series against Afghanistan as he returns after a recent hamstring injury. Rohit was sidelined for some matches in the Indian Premier League 2026 after picking up a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-coach-speaks-on-star-batters-fresh-fitness-concerns-ahead-of-afghanistan-odis-2026-06-12-1044664",
+    "time": "2026-06-12T17:21:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who all will be performing at the Toronto Stadium?",
+    "desc": "The FIFA World Cup 2026 enters its second day after a gripping opening day in Mexico. Co-hosts Mexico started with a win over South Africa by 2-0, while South Korea defeated Czech Republic in a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-canada-opening-ceremony-who-all-will-be-performing-at-the-toronto-stadium-2026-06-12-1044660",
+    "time": "2026-06-12T15:51:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Women's T20 World Cup 2026 live streaming: When and where to watch showpiece in India?",
+    "desc": "The Women's T20 World Cup 2026 is set to kick off in a few hours from now, as 12 teams will vie for the coveted showpiece. The tournament has been expanded to include 12 teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/womens-t20-world-cup-2026-live-streaming-when-and-where-to-watch-showpiece-in-india-2026-06-12-1044654",
+    "time": "2026-06-12T15:11:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why will Neeraj Chopra miss Doha Diamond League after being absent from Rome leg?",
     "desc": "India's Javelin star Neeraj Chopra will be missing out on the Doha Diamond as he is still recuperating from a back injury. Chopra, who was absent from the Rome leg as well, will not be...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-opening-ceremony-full-list-of-performers-and-where-to-watch-2026-06-12-1044585",
     "time": "2026-06-12T07:39:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Key records and achievements of shooting legend",
-    "desc": "Renowned Indian shooter and high-performance coach Jaspal Rana has passed away at the age of 49. His death marks a significant loss for Indian sport, particularly the shooting community, where he was widely regarded as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/jaspal-rana-death-key-records-and-achievements-of-shooting-legend-2026-06-12-1044571",
-    "time": "2026-06-12T05:44:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jaspal Rana, Asian Games gold medalist and Manu Bhaker's coach, dies at 49; PM Modi expresses grief",
-    "desc": "Renowned Indian shooter and high-performance pistol coach Jaspal Rana has passed away at the age of 49. According to National Rifle Association of India (NRAI) president Kalikesh Narayan Singh Deo, Rana breathed his last at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/jaspal-rana-renowned-shooting-coach-asian-games-gold-medalist-dies-at-49-2026-06-12-1044561",
-    "time": "2026-06-12T04:20:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Korea control tempo, exploits Czechia in counter-attack to secure 2-1 win",
-    "desc": "South Korea defeated Czechia 2–1 in a tightly contested 2026 FIFA World Cup group-stage match. The result reflected Korea’s adaptability after falling behind and Czechia’s inability to maintain control after a strong spell around the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/tactical-analysis-south-korea-control-tempo-exploits-czechia-in-counter-attack-to-secure-2-1-win-in-fifa-world-cup-2026-06-12-1044559",
-    "time": "2026-06-12T04:17:52.000Z"
   }
 ];
