@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why will Neeraj Chopra miss Doha Diamond League after being absent from Rome leg?",
+    "desc": "India's Javelin star Neeraj Chopra will be missing out on the Doha Diamond as he is still recuperating from a back injury. Chopra, who was absent from the Rome leg as well, will not be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/why-will-neeraj-chopra-miss-doha-diamond-league-after-being-absent-from-rome-leg-2026-06-12-1044652",
+    "time": "2026-06-12T14:44:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Are Spain and France favourites to lift FIFA World Cup 2026 trophy? Predicting the top contenders",
+    "desc": "The FIFA World Cup 2026 has kicked off in some style as Mexico defeated South Africa in the tournament opener before South Korea registered a come-from-behind win over the Czech Republic to close out the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/are-spain-and-france-favourites-to-lift-fifa-world-cup-2026-trophy-predicting-the-top-contenders-2026-06-12-1044645",
+    "time": "2026-06-12T14:01:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why were hundreds of seats left empty on FIFA World Cup 2026 opening day?",
+    "desc": "The FIFA World Cup 2026 kicked off with Mexico defeating South Africa 2-0 in front of a packed Mexico City Stadium as the home fans celebrated the dominant win of El Tri. While the opener...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-were-hundreds-of-seats-left-empty-on-fifa-world-cup-2026-opening-day-2026-06-12-1044634",
+    "time": "2026-06-12T12:54:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Top records of former New Zealand captain that will stay intact for long time",
+    "desc": "Former New Zealand captain Kane Williamson announced a shocking international retirement on Friday, June 12 as he ended an illustrious career with the Blackcaps. Williamson's announcement comes in the middle of New Zealand's ongoing Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kane-williamson-retirement-top-records-of-former-new-zealand-captain-that-will-stay-intact-for-long-time-2026-06-12-1044618",
+    "time": "2026-06-12T11:24:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kane Williamson announces sudden retirement from international cricket, explains reason",
+    "desc": "Kane Williamson has announced his retirement from international cricket, bringing the curtain down on a career that established him as New Zealand’s highest run-scorer across formats and one of the most influential figures in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kane-williamson-announces-sudden-retirement-from-international-cricket-explains-reason-2026-06-12-1044607",
+    "time": "2026-06-12T10:09:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How is SA20 developing domestic South African cricketers? Dale Steyn explains",
     "desc": "Former South Africa fast bowler Dale Steyn believes SA20 has played a crucial role in accelerating the growth of domestic cricketers by exposing them to an environment that closely mirrors international cricket. He highlighted how...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/tactical-analysis-south-korea-control-tempo-exploits-czechia-in-counter-attack-to-secure-2-1-win-in-fifa-world-cup-2026-06-12-1044559",
     "time": "2026-06-12T04:17:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mehidy Hasan suffers concussion, admitted to hospital after second ODI vs Australia, physio shares update",
-    "desc": "Bangladesh captain Mehidy Hasan Miraz was hospitalised after suffering a head injury during the second ODI against Australia in Dhaka on Thursday. The incident occurred in the 34th over of Bangladesh’s chase when he was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mehidy-hasan-suffers-concussion-admitted-to-hospital-after-second-odi-vs-australia-physio-shares-update-2026-06-12-1044556",
-    "time": "2026-06-12T03:52:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ECB unsure of Stokes' future, Rob Key reveals reasons behind Root’s appointment as captain ahead of Brook",
-    "desc": "England’s director of cricket Rob Key has refused to guarantee Ben Stokes’ future as the Test captain as the fallout from the latest off-field controversy involving the national side continues to deepen. The all-rounder and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ecb-unsure-of-stokes-future-rob-key-reveals-reasons-behind-roots-appointment-as-captain-ahead-of-brook-2026-06-12-1044551",
-    "time": "2026-06-12T03:08:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Wilton Sampaio? Brazilian referee hands three red cards in FIFA World Cup opener",
-    "desc": "Wilton Sampaio emerged as the unexpected focal point of the FIFA World Cup 2026 opening match after issuing three red cards in Mexico's 2-0 victory over South Africa at Estadio Azteca. Since then, his performance...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/who-is-wilton-sampaio-brazilian-referee-hands-three-red-cards-in-fifa-world-cup-opener-2026-06-12-1044546",
-    "time": "2026-06-12T02:26:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From skull fracture and loss of father to dream World Cup outing, Mexico star Raul Jimenez leaves huge impact",
-    "desc": "Mexico star Raul Jimenez battled a life-threatening skull fracture and a brain injury six years ago. He carried the grief of his father's demise in March 2026. And he had a dream outing in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/from-skull-fracture-and-loss-of-father-to-dream-world-cup-outing-mexico-star-raul-jimenez-leaves-huge-impact-2026-06-12-1044540",
-    "time": "2026-06-11T23:14:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First time in 28 years! Mexico vs South Africa FIFA World Cup 2026 opener witnesses three red cards: Video",
-    "desc": "It was a day to remember at the Mexico City Stadium as co-hosts Mexico defeated South Africa in the FIFA World Cup 2026 opener by 2-0. Julian Quinones and Raul Jimenez scored for the El Tri...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/first-time-in-28-years-mexico-vs-south-africa-fifa-world-cup-2026-opener-witnesses-rare-three-red-cards-video-2026-06-12-1044539",
-    "time": "2026-06-11T21:58:56.000Z"
   }
 ];
