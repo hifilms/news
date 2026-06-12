@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ECB unsure of Stokes' future, Rob Key reveals reasons behind Root’s appointment as captain ahead of Brook",
+    "desc": "England’s director of cricket Rob Key has refused to guarantee Ben Stokes’ future as the Test captain as the fallout from the latest off-field controversy involving the national side continues to deepen. The all-rounder and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ecb-unsure-of-stokes-future-rob-key-reveals-reasons-behind-roots-appointment-as-captain-ahead-of-brook-2026-06-12-1044551",
+    "time": "2026-06-12T03:08:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Wilton Sampaio? Brazilian referee hands three red cards in FIFA World Cup opener",
+    "desc": "Wilton Sampaio emerged as the unexpected focal point of the FIFA World Cup 2026 opening match after issuing three red cards in Mexico's 2-0 victory over South Africa at Estadio Azteca. Since then, his performance...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/who-is-wilton-sampaio-brazilian-referee-hands-three-red-cards-in-fifa-world-cup-opener-2026-06-12-1044546",
+    "time": "2026-06-12T02:26:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From skull fracture and loss of father to dream World Cup outing, Mexico star Raul Jimenez leaves huge impact",
+    "desc": "Mexico star Raul Jimenez battled a life-threatening skull fracture and a brain injury six years ago. He carried the grief of his father's demise in March 2026. And he had a dream outing in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/from-skull-fracture-and-loss-of-father-to-dream-world-cup-outing-mexico-star-raul-jimenez-leaves-huge-impact-2026-06-12-1044540",
+    "time": "2026-06-11T23:14:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "First time in 28 years! Mexico vs South Africa FIFA World Cup 2026 opener witnesses three red cards: Video",
     "desc": "It was a day to remember at the Mexico City Stadium as co-hosts Mexico defeated South Africa in the FIFA World Cup 2026 opener by 2-0. Julian Quinones and Raul Jimenez scored for the El Tri...",
     "img": "",
@@ -29,7 +56,7 @@ const newsData_hi = [
   {
     "cat": "Sports",
     "title": "Mexico beat South Africa 2-0 in red card-filled opener",
-    "desc": "The FIFA World Cup 2026 kicks off with an exuberating opening ceremony at the Mexico City Stadium as Mexico gears up to take on South Africa in the opening match of the tournament. The 23rd...",
+    "desc": "The FIFA World Cup 2026 kicked off with an exuberant style as Mexico defeated South Africa in the opening match of the tournament at the Mexico City Stadium. Julian Quinones and Raul Jimenez scored for the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/mex-vs-rsa-fifa-world-cup-2026-live-opening-ceremony-mexico-vs-south-africa-latest-match-updates-commentary-2026-06-11-1044526",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/prabhsimran-singh-ruturaj-gaikwad-tilak-varma-s-half-centuries-couldn-t-save-india-vs-afghanistan-a-2026-06-11-1044509",
     "time": "2026-06-11T13:54:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA bans Haiti's jersey hours before opening FIFA World Cup 2026 match, know reason",
-    "desc": "Haiti's preparations for the FIFA World Cup 2026 have been disrupted by an unexpected kit issue after FIFA instructed the team to alter its playing shirt shortly before the start of the tournament. The controversy centres...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-bans-haiti-s-jersey-hours-before-opening-fifa-world-cup-2026-match-know-reason-2026-06-11-1044499",
-    "time": "2026-06-11T13:14:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC pinpoints opening and final dates, decision to be finalised in July AGM",
-    "desc": "The men's ODI World Cup is set to return to African soil in 2027, with the tournament provisionally scheduled to run from October 4 to November 21 across South Africa, Zimbabwe and Namibia. The dates were...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/odi-world-cup-2027-icc-pinpoints-opening-and-final-dates-decision-to-be-finalised-in-july-agm-2026-06-11-1044495",
-    "time": "2026-06-11T12:30:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026 faces mounting scrutiny over unprecedented scale of issues",
-    "desc": "Concerns surrounding the FIFA World Cup 2026 have intensified months before kick-off, with senior FIFA figures already acknowledging that preparations have not unfolded “as expected”. What was initially framed as a return to familiar ground,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-faces-mounting-scrutiny-over-unprecedented-scale-of-issues-2026-06-11-1044487",
-    "time": "2026-06-11T11:49:33.000Z"
   }
 ];

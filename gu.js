@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ડીઝલ પર મોદી સરકારનો મોટો નિર્ણય, હવે એક વ્યક્તિને કેટલા લીટર ડીઝલ મળશે? તે ખાસ જાણો",
+    "desc": "મિડલ ઈસ્ટમાં તણાવ ઘટવાની જગ્યાએ વધી રહ્યો છે, હોર્મુઝ પર ફરી ગંભીર સંકટ તોળાયું છે ત્યારે ગેસ અને પેટ્રોલ-ડીઝલ મામલે ફરી ચિંતાઓ જોવા મળી રહી છે. આ બધા વચ્ચે કેન્દ્ર સરકારે હાઈ સ્પીડ ડીઝલ પર મોટો નિર્ણય લીધો છે જે ગ્રાહકોએ જાણવું જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-news-central-government-restricts-high-speed-diesel-sale-at-retail-outlets-481233 ",
+    "time": "2026-06-12T03:06:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આલિયા ભટ્ટની ફિલ્મ આલ્ફાનું ટીઝર 36 વર્ષ જૂની ફિલ્મના ટીઝરની ડિટ્ટો કોપી, વિશ્વાસ ન હોય તો જોઈલો તમે પણ",
+    "desc": "આલિયા ભટ્ટની મચ અવેટેડ ફિલ્મ આલ્ફાનું ટીઝર રિલીઝ થયું ત્યારે તો તેના ખૂબ વખાણ થયા પણ કેટલાક લોકોએ ફિલ્મ મેકર્સની ચોરી પકડી પાડી છે. આ ફિલ્મનું ટીઝર 36 વર્ષ જૂની એક ફિલ્મની કોપી છે. જો તમને વિશ્વાસ ન આવતો હોય તો બંને ફિલ્મના ટીઝર અહીં જોઈ લો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/alpha-movie-teaser-is-copy-of-old-movie-la-femme-nikita-watch-here-movie-teaser-481225 ",
+    "time": "2026-06-12T02:43:24.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ICC વર્લ્ડ કપ 2027ની તારીખો જાહેર! 4 ઓક્ટોબરથી જામશે ક્રિકેટનો રોમાંચ, જાણો ક્યારે અને ક્યાં રમાશે ફાઇનલ?",
     "desc": "આવતા વર્ષે સાઉથ આફ્રિકા, ઝિમ્બાબ્વે અને નામિબિયામાં યોજાનાર વર્લ્ડ કપને લઈને એક મોટું અપડેટ સામે આવ્યું છે. ESPN Cricinfoના રિપોર્ટ અનુસાર, ICC મેન્સ ODI વર્લ્ડ કપ 2027 કામચલાઉ રીતે 4 ઓક્ટોબરથી 21 નવેમ્બર વચ્ચે રમાશે.",
@@ -396,15 +414,6 @@ const newsData_gu = [
     "time": "2026-06-09T10:12:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોના-ચાંદીમાં ભારે ઉથલપાથલ, હાઈથી હજું પણ સોનું 25000 અને ચાંદી 1.73 લાખ સસ્તા, જાણો આજનો રેટ",
-    "desc": "સોના અને ચાંદીના ભાવમાં ભારે ઉથલપાથલ જોવા મળી રહી છે. એક બાજુ જ્યાં સોમવારે 8 જૂનના રોજ ભાવમાં મોટો કડાકો નોંધાયો હતો ત્યાં આજે સોના અને ચાંદી બંનેના ભાવમાં વધારો જોવા મળી રહ્યો છે. વાયદા બજાર અને રિટેલ બજાર બંનેમાં ભાવ ચડતા જોવા મળ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/despite-increase-in-prices-today-gold-still-25000-and-silver-1-73-lakh-cheaper-than-all-time-high-480926 ",
-    "time": "2026-06-09T07:56:45.000Z"
-  },
-  {
     "cat": "World",
     "title": "હવે અમેરિકામાં સુરક્ષિત રહેશે હિંદુ મંદિરો સહિત ધાર્મિક સ્થળો, 100 ફૂટનો &amp;#039;બફર ઝોન&amp;#039; બનશે, ભક્તોને ડરાવવા ગુનો ગણાશે",
     "desc": "અમેરિકામાં અત્યાર સુધી ઘણીવાર હિંદુ મંદિરો સહિત અન્ય ધાર્મિક સ્થળો પર હુમલાની ઘટના બની ચુકી છે. પરંતુ હવે આવા ગુનાઓને રોકવા માટે નવો કાયદો રજૂ કરાયો છે. આ કાયદાની મદદથી ધાર્મિક સ્થળોને વિશેષ સુરક્ષા મળશે.",
@@ -646,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/pahlaj-nihalani-passes-away-at-76-death-reason-liver-cirrhosis-unknown-story-of-pahlaj-nihalani-480394 ",
     "time": "2026-06-04T11:42:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રણવીર સિંહની લીગલ નોટિસ પછી FWICE બેકફુટ પર, પ્રતિબંધ હટાવ્યો",
-    "desc": "રણવીર સિંહ પર જ્યારે FWICE એ પ્રતિબંધ લગાવ્યો હતો ત્યારે બોલીવુડમાં ખળભળાટ મચી ગયો હતો. પરંતુ બુધવારે FWICE બેકફુટ પર આવી ગયું અને રણવીર સિંહ વિરુદ્ધ લગાવો બેન પરત લઈ લીધો. આવું થવા પાછળ રણવીર સિંહે ફટકારેલી નોટિસ છે. આ મામલો હવે ક્યાં પહોંચ્યો છે ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/latest-bollywood-news-fwice-on-backfoot-on-ranveer-singh-don-3-issue-here-is-latest-update-480315 ",
-    "time": "2026-06-04T02:13:29.000Z"
   }
 ];
