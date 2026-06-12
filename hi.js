@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How is SA20 developing domestic South African cricketers? Dale Steyn explains",
+    "desc": "Former South Africa fast bowler Dale Steyn believes SA20 has played a crucial role in accelerating the growth of domestic cricketers by exposing them to an environment that closely mirrors international cricket. He highlighted how...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-is-sa20-developing-domestic-south-african-cricketers-dale-steyn-explains-2026-06-12-1044604",
+    "time": "2026-06-12T09:25:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Full list of performers and where to watch",
+    "desc": "The Women’s T20 World Cup 2026 will get underway at Edgbaston on June 12 with hosts England taking on Sri Lanka. Ahead of the blockbuster clash, the ICC has planned an opening ceremony featuring a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-opening-ceremony-full-list-of-performers-and-where-to-watch-2026-06-12-1044585",
+    "time": "2026-06-12T07:39:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Key records and achievements of shooting legend",
+    "desc": "Renowned Indian shooter and high-performance coach Jaspal Rana has passed away at the age of 49. His death marks a significant loss for Indian sport, particularly the shooting community, where he was widely regarded as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/jaspal-rana-death-key-records-and-achievements-of-shooting-legend-2026-06-12-1044571",
+    "time": "2026-06-12T05:44:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jaspal Rana, Asian Games gold medalist and Manu Bhaker's coach, dies at 49; PM Modi expresses grief",
+    "desc": "Renowned Indian shooter and high-performance pistol coach Jaspal Rana has passed away at the age of 49. According to National Rifle Association of India (NRAI) president Kalikesh Narayan Singh Deo, Rana breathed his last at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/jaspal-rana-renowned-shooting-coach-asian-games-gold-medalist-dies-at-49-2026-06-12-1044561",
+    "time": "2026-06-12T04:20:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Korea control tempo, exploits Czechia in counter-attack to secure 2-1 win",
+    "desc": "South Korea defeated Czechia 2–1 in a tightly contested 2026 FIFA World Cup group-stage match. The result reflected Korea’s adaptability after falling behind and Czechia’s inability to maintain control after a strong spell around the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/tactical-analysis-south-korea-control-tempo-exploits-czechia-in-counter-attack-to-secure-2-1-win-in-fifa-world-cup-2026-06-12-1044559",
+    "time": "2026-06-12T04:17:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mehidy Hasan suffers concussion, admitted to hospital after second ODI vs Australia, physio shares update",
+    "desc": "Bangladesh captain Mehidy Hasan Miraz was hospitalised after suffering a head injury during the second ODI against Australia in Dhaka on Thursday. The incident occurred in the 34th over of Bangladesh’s chase when he was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mehidy-hasan-suffers-concussion-admitted-to-hospital-after-second-odi-vs-australia-physio-shares-update-2026-06-12-1044556",
+    "time": "2026-06-12T03:52:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ECB unsure of Stokes' future, Rob Key reveals reasons behind Root’s appointment as captain ahead of Brook",
     "desc": "England’s director of cricket Rob Key has refused to guarantee Ben Stokes’ future as the Test captain as the fallout from the latest off-field controversy involving the national side continues to deepen. The all-rounder and...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/first-time-in-28-years-mexico-vs-south-africa-fifa-world-cup-2026-opener-witnesses-rare-three-red-cards-video-2026-06-12-1044539",
     "time": "2026-06-11T21:58:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Two goals, three red cards; Mexico outclass South Africa in FIFA World Cup 2026 opener",
-    "desc": "Mexico outclassed South Africa in the FIFA World Cup 2026 opener at the Mexico City Stadium by 2-0 in a game that was marred by second-half red cards. Two South African players - Yaya Sithole...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/two-goals-three-red-cards-mexico-outclass-south-africa-in-fifa-world-cup-2026-opener-key-moments-2026-06-12-1044538",
-    "time": "2026-06-11T21:27:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Guillermo Ochoa not playing for Mexico in FIFA World Cup 2026 opener?",
-    "desc": "Legendary Guillermo Ochoa missed out as Mexico open their FIFA World Cup 2026 campaign against South Africa at the Mexico City Stadium on Thursday, June 11 (June 12 as per IST). The legendary goalkeeper has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-guillermo-ochoa-not-playing-for-mexico-in-fifa-world-cup-2026-opener-2026-06-12-1044537",
-    "time": "2026-06-11T19:00:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mexico beat South Africa 2-0 in red card-filled opener",
-    "desc": "The FIFA World Cup 2026 kicked off with an exuberant style as Mexico defeated South Africa in the opening match of the tournament at the Mexico City Stadium. Julian Quinones and Raul Jimenez scored for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mex-vs-rsa-fifa-world-cup-2026-live-opening-ceremony-mexico-vs-south-africa-latest-match-updates-commentary-2026-06-11-1044526",
-    "time": "2026-06-11T16:43:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History created! Bangladesh defeat Australia in first-ever ODI series, eye massive record",
-    "desc": "Bangladesh have created history as they registered an ODI series win over the mighty Australians for the first time after their win in the second match at the Shere Bangla National Stadium, Dhaka by five...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/history-created-bangladesh-defeat-australia-in-first-ever-odi-series-eye-massive-record-2026-06-11-1044523",
-    "time": "2026-06-11T15:51:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch FIFA World Cup opener for free in India?",
-    "desc": "The much-anticipated FIFA World Cup 2026 is set to begin tonight with Mexico taking on South Africa at the Mexico City Stadium. It’s a repeat of the 2010 opening match, when the Bafana Bafana hosted...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mexico-vs-south-africa-live-when-and-where-to-watch-fifa-world-cup-opener-for-free-in-india-2026-06-11-1044516",
-    "time": "2026-06-11T14:46:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Prabhsimran Singh, Ruturaj Gaikwad, Tilak Varma's half-centuries couldn't save India vs Afghanistan A",
-    "desc": "Afghanistan A defeated India A by the DLS method in a rain-affected game in Dambulla. A strong batting effort had earlier lifted India A to a formidable total, but interruptions caused by the weather eventually...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/prabhsimran-singh-ruturaj-gaikwad-tilak-varma-s-half-centuries-couldn-t-save-india-vs-afghanistan-a-2026-06-11-1044509",
-    "time": "2026-06-11T13:54:06.000Z"
   }
 ];

@@ -1,12 +1,93 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ગુજરાત પર તોળાઈ રહ્યું છે દુષ્કાળનું મોટું સંકટ! ક્યાંક ભારે ન પડે આ &amp;#039;ગોડઝિલા&amp;#039;, જાણો શું છે ચિંતાજનક?",
+    "desc": "ગુજરાત સહિત કેટલાક રાજ્યો આ વખતે દુષ્કાળમાં સપડાય તેવા સંકેત મળી રહ્યા છે. વૈશ્વિક પૂર્વાનુમાન એવું ડરામણું છે કે જો સાચું પડે તો દેશના કરોડો ખેડૂતો અને અર્થવ્યવસ્થા તથા જળ વ્યવસ્થા પર ગંભીર અસર પડી શકે છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/due-to-el-nino-a-major-drought-crisis-is-looming-over-gujarat-maharashtra-andhra-goa-481260 ",
+    "time": "2026-06-12T10:02:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NEET Re-Exam: વિદ્યાર્થીઓ માટે મોટા સમાચાર, NTAએ પરીક્ષાના સમયમાં કર્યો વધારો, જાણો વિગતવાર માહિતી",
+    "desc": "નીટ પરીક્ષા પેપર લીક થયા બાદ રદ કરવામાં આવી હતી અને હવે તેનું ફરી આયોજન 21 જૂનના રોજ કરવામાં આવ્યું છે. આ પરીક્ષા સંબંધિત કેટલાક ફેરફાર NTAએ જાહેર કર્યા છે. જે વિદ્યાર્થીઓએ જાણવા ખુબ જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-news-for-neet-ug-re-exam-students-nta-extend-exam-duration-check-details-481270 ",
+    "time": "2026-06-12T09:58:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "શાહરુખ ખાનની આ ફિલ્મ રિલીઝ થઈ અને તુટી ગઈ ઐશ્વર્યા અને રાનીની વર્ષો જૂની ફ્રેન્ડશીપ, આજ સુધી એકબીજાથી રહે છે દુર",
+    "desc": "એક સમયે રાની મુખર્જી અને ઐશ્વર્યા રાય એકબીજાની બેસ્ટ ફ્રેન્ડ હતી. પરંતુ શાહરુખ ખાનના કારણે આ અભિનેત્રીઓની મિત્રતા એવી તુટી કે આજ સુધી બંને એકબીજાની સાથે જોવા મળતી નથી. આ સમગ્ર ઘટના શું છે ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shah-rukh-khan-film-chalte-chalte-broke-rani-mukerji-aishwarya-rai-friendship-481269 ",
+    "time": "2026-06-12T09:56:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup 2026 ની સામે IPL અને ક્રિકેટ વર્લ્ડ કપ કંઈ નથી, પ્રાઇઝ મની જાણીને પહોળી થઈ જશે આંખો!",
+    "desc": "FIFA વર્લ્ડ કપ 2026 શરૂ થઈ ચૂક્યો છે, જેનું સહ-યજમાન યુનાઇટેડ સ્ટેટ્સ, મેક્સિકો અને કેનેડા છે. ટુર્નામેન્ટનો ઉદ્ઘાટન મેચ મેક્સિકો અને દક્ષિણ આફ્રિકા વચ્ચે રમાશે. FIFA એ આ વર્ષે ઇનામની રકમમાં નોંધપાત્ર વધારો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/the-prize-money-for-the-ipl-and-cricket-world-cup-pales-in-comparison-to-that-of-the-fifa-world-cup-2026-the-figures-will-leave-you-stunned-481266 ",
+    "time": "2026-06-12T09:22:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "₹2,172 કરોડના ક્લેમ પર ₹579 કરોડમાં સમજુતિ, જનતાના પૈસા સાથે રમત, ક્યાં થઈ ગેરરીતિ?",
+    "desc": "Agson Global Private Limited ના મામલામાં NARCL અને IDRCL ની એડમિટેડ ક્લેમ રકમ 2172 કરોડ રૂપિયા હતી. આ મામલામાં બનેલી કમિટી ઓફ ક્રેડિટર્સમાં એકમાત્ર NARCL ની પાસે 100 ટકા વોટિંગ રાઇટ્સ હતા. એટલે કે નાણાકીય નાદારો તરફથી નિર્ણય લેવાની કમાન અને કંટ્રોલ માત્ર NARCL ના હાથમાં હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/narcl-loan-settlement-agson-global-private-limited-settlement-of-579-crore-against-a-claim-of-2172-crore-481264 ",
+    "time": "2026-06-12T09:21:19.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ડીઝલ પર મોદી સરકારનો મોટો નિર્ણય, હવે એક વ્યક્તિને કેટલા લીટર ડીઝલ મળશે? તે ખાસ જાણો",
     "desc": "મિડલ ઈસ્ટમાં તણાવ ઘટવાની જગ્યાએ વધી રહ્યો છે, હોર્મુઝ પર ફરી ગંભીર સંકટ તોળાયું છે ત્યારે ગેસ અને પેટ્રોલ-ડીઝલ મામલે ફરી ચિંતાઓ જોવા મળી રહી છે. આ બધા વચ્ચે કેન્દ્ર સરકારે હાઈ સ્પીડ ડીઝલ પર મોટો નિર્ણય લીધો છે જે ગ્રાહકોએ જાણવું જરૂરી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/big-news-central-government-restricts-high-speed-diesel-sale-at-retail-outlets-481233 ",
-    "time": "2026-06-12T03:06:03.000Z"
+    "time": "2026-06-12T08:49:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "માર્કેટમાં આવ્યો 8,000mAh બેટરીવાળો બાહુબલી ફોન! Tecnoએ લોન્ચ કર્યો અનોખી લાઇટિંગવાળો સ્માર્ટફોન",
+    "desc": "Tecnoએ ભારતમાં પોતાનો દમદાર સ્માર્ટફોન Tecno POVA 8 લોન્ચ કરી દીધો છે. આ ફોનમાં 8,000mAhની વિશાળ બેટરી, પાછળની તરફ અનોખી ALIVE Matrix લાઇટિંગ અને ટ્રિપલ-ચિપસેટ કનેક્ટિવિટી આપવામાં આવી છે. જાણો આ ધાંસુ ફોનના તમામ ફીચર્સ અને વેચાણની તારીખ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tecno-pova-8-launched-in-india-with-8000mah-battery-alive-matrix-lighting-and-triple-chipset-connectivity-481252 ",
+    "time": "2026-06-12T06:52:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વિપક્ષમાં મહાવિલયની તૈયારી! શરદ પવાર બાદ મમતા બેનર્જી પર નજર, કોંગ્રેસ નેતાએ જણાવી અંદરની વાત",
+    "desc": "કોંગ્રેસમાં પ્રાદેશિક પક્ષોના વિલયની અટકળો વચ્ચે મહારાષ્ટ્ર કોંગ્રેસ અધ્યક્ષ નાના પટોલેએ મોટો દાવો કર્યો છે. તેમણે કહ્યું કે શરદ પવારની એનસીપી (એસપી) તરફથી વિલયનો પ્રસ્તાવ પહેલા જ આવી ગયો છે. પટોલે પ્રમાણે બંધારણ અને દેશ બચાવવા માટે મમતા બેનર્જી સહિત ઘણા ધર્મનિરપેક્ષ પ્રાદેશિક દળો કોંગ્રેસની સાથે આવવા પર ચર્ચા કરી રહ્યાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mega-merger-in-opposition-after-sharad-pawar-all-eyes-on-mamata-banerjee-as-congress-leader-reveals-inside-details-481250 ",
+    "time": "2026-06-12T06:36:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શૂટિંગ જગતમાંથી આવ્યા ખરાબ સમાચાર, મનુ ભાકરના દિગ્ગજ કોચ જસપાલ રાણાનું નિધન",
+    "desc": "ભારતીય શૂટિંગના દિગ્ગજ અને જાણીતા કોચ જસપાલ રાણાનું શુક્રવારે 49 વર્ષની ઉંમરે નિધન થયું છે. જસપાલ રાણાએ મનુ ભાકરને તૈયાર કરવામાં મહત્વની ભૂમિકા ભજવી, જેણે 2024 પેરિસ ઓલિમ્પિકમાં બે બ્રોન્ઝ મેડલ જીતી ઈતિહાસ રચ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shooting-icon-jaspal-rana-ji-has-passed-away-at-the-age-of-49-481244 ",
+    "time": "2026-06-12T06:20:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટ્રમ્પનો મોટો દાવો-આ વીકેન્ડ સુધીમાં ઈરાન સાથે સમજૂતી થઈ જશે, ઈરાને દાવાનો છેદ ઉડાવ્યો!",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ફરીથી ઈરાન સાથેના તણાવ અને પીસ ડીલ પર મોટો દાવો કર્યો છે. તેમના દાવા મુજબ પીસ ડીલ બસ થવાની તૈયારીમાં છે અને આ વખતે યુરોપમાં થઈ શકે છે. જો કે બીજી બાજુ ઈરાને આ દાવાની મજાક ઉડાવી અને તેને માત્ર અટકળો ગણાવી દીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-big-claim-on-peace-deal-with-iran-481241 ",
+    "time": "2026-06-12T05:07:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,24 +378,6 @@ const newsData_gu = [
     "time": "2026-06-10T06:30:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અફઘાનિસ્તાન સામેની પ્રથમ ODIમાં કેવી હશે ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવન ? હાર્દિક-નીતિશને લઈને સસ્પેન્સ",
-    "desc": "અભિષેક નાયરે ધર્મશાલામાં ભારત અને અફઘાનિસ્તાન વચ્ચેની પ્રથમ વનડે માટે પોતાની સંભવિત પ્લેઇંગ ઇલેવન પસંદ કરી છે. વિરાટ કોહલીની ઇજા બાદ યશસ્વી જયસ્વાલને નંબર-3 પર તક મળવાની શક્યતા છે, જ્યારે રોહિત અને હાર્દિકે ફિટનેસ પાછી મેળવ્યા બાદ ટીમમાં વાપસી કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-afg-1st-odi-predicted-playing-11-hardik-pandya-rohit-sharma-481029 ",
-    "time": "2026-06-10T06:15:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ ક્રિકેટરના ખુલાસાથી હડકંપ, 500થી વધુ મહિલાઓ સાથે હતો સંબંધ, ઐય્યાશીથી ભરેલું જીવન",
-    "desc": "વેસ્ટ ઈન્ડિઝના ઘણા ક્રિકેટરો પોતાની વૈભવી લાઈફસ્ટાઈલના કારણે ચર્ચામાં રહેતા હતા જેમાં ક્રિસ ગેઈલ પણ સામેલ હતો પરંતુ અહીં જે ખેલાડીની વાત કરી રહ્યા છીએ તે ક્રિસ ગેઈલ નહીં પરંતુ અન્ય છે. આ ખેલાડીએ તેની આત્મકથામાં અત્યંત વિસ્ફોટક ખુલાસા કર્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/tino-best-west-indies-cricketer-shocking-claim-had-relation-with-more-than-500-women-481017 ",
-    "time": "2026-06-10T05:25:22.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "62 વર્ષ પછી તૂટ્યો એક સુપર-રેકોર્ડ: પંડિત નેહરુને આગળ નિકળ્યા PM મોદી, બન્યા દેશના સૌથી લાંબા સમય સુધી ચૂંટાયેલા વડાપ્રધાન",
     "desc": "ભારતીય રાજકારણમાં આજે એક નવો રેકોર્ડ સ્થાપિત થયો છે. સ્વતંત્ર ભારતના લોકશાહી ઇતિહાસમાં સતત ચૂંટાયેલા સૌથી લાંબા સમય સુધી સેવા આપનારા વડાપ્રધાન બનીને વડા પ્રધાન નરેન્દ્ર મોદીએ દેશના પ્રથમ વડા પ્રધાન પંડિત જવાહરલાલ નેહરુના 62 વર્ષ જૂના રેકોર્ડને તોડી નાખ્યો છે.",
@@ -331,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/after-rajya-sabha-election-speculations-of-changes-in-modi-cabinet-481010 ",
     "time": "2026-06-10T03:13:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;ક્રિકેટનું મક્કા&amp;#039; લોર્ડ્સ પર પહેલીવાર લાગ્યો આ દાઘ! પાકિસ્તાનના સ્ટેડિયમ પર પણ ચાલ્યું ICCનું હંટર, જાણો સમગ્ર મામલો",
-    "desc": "લોર્ડ્સ ઉપરાંત ICCએ પાકિસ્તાનના લાહોર સ્થિત ગદ્દાફી સ્ટેડિયમ પર પણ કડક કાર્યવાહી કરી છે. મેચ રેફરીના રિપોર્ટ બાદ આ બન્ને પીચોને ICCએ 'અસંતોષકારક' ગણાવી છે અને 1-1 ડિમેરિટ પોઇન્ટ આપ્યો છે. નોંધનીય છે કે, ક્રિકેટના ઇતિહાસમાં લોર્ડ્સની પીચ પર પહેલીવાર આવો દાગ લાગ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/stain-was-first-seen-on-lord-the-mecca-of-cricket-icc-hunter-also-went-to-pakistan-stadium-know-the-whole-matter-480987 ",
-    "time": "2026-06-09T18:06:13.000Z"
   },
   {
     "cat": "Politics",
@@ -369,15 +423,6 @@ const newsData_gu = [
     "time": "2026-06-09T15:47:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ક્રીઝ બહાર હતો બેટ્સમેન છતાં Not Out, ભારતીય ટીમ સાથે થયો અન્યાય ? જાણો શું છે સમગ્ર ઘટના",
-    "desc": "દામ્બુલામાં ભારત A અને શ્રીલંકા A વચ્ચેની ત્રિકોણીય શ્રેણીની મેચમાં ચમિકા કરુણારત્નેના રન આઉટને લઈને હોબાળો મચી ગયો હતો. 42મી ઓવરમાં પોઈન્ટ પર એક ફિલ્ડરે ડાયરેક્ટ થ્રો કર્યો. બેટ્સમેન તેની ક્રીઝની બહાર હતો, છતાં થર્ડ અમ્પાયરે તેને નોટ આઉટ જાહેર કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-a-vs-sri-lanka-a-chamika-karunaratne-run-out-controversy-third-umpire-480980 ",
-    "time": "2026-06-09T14:20:50.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "₹8 લાખની SUV એ રચ્યો ઈતિહાસ, બનાવી દીધો વેચાણનો નવો રેકોર્ડ, જાણો ફીચર્સ અને ખાસિયત",
     "desc": "હ્યુન્ડાઈ વેન્યુએ વેચાણના મામલામાં ભારતમાં ઈતિહાસ રચી દીધો છે. વેન્યુએ દેશમાં 8 લાખના વેચાણનો આંકડો પાર કરી લીધો છે. 8 લાખ રૂપિયાથી શરૂ થનાર આ એસયુવીનો મુકાબલો મારૂતિ બ્રેઝા, ટાટા નેક્સોન અને કિઆ સોનેટ જેવી ગાડીઓ સાથે થાય છે.",
@@ -394,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/3-new-iphones-to-be-launched-in-september-but-iphone-18-name-is-not-on-the-list-480962 ",
     "time": "2026-06-09T12:02:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શિક્ષક બન્યા તે પહેલા શું કરતા હતા ખાન સર, અચાનક ક્યાંથી આવ્યો આટલો મોટો ફેરફાર કે થવા લાગ્યો પૈસાનો વરસાદ ?",
-    "desc": "લાખો યુવાનો માટે \"ખાન સર\" તરીકે જાણીતા આ શિક્ષકનું સાચું નામ ફૈઝલ ખાન છે. 1993માં ઉત્તર પ્રદેશના દેવરિયામાં એક સામાન્ય પરિવારમાં જન્મેલા ફૈઝલ ખાને આજે પોતાની મહેનત દ્વારા દેશના સૌથી પ્રભાવશાળી શિક્ષકો અને ડિજિટલ શિક્ષણ દિગ્ગજોમાં પોતાને સ્થાપિત કર્યા છે. ચાલો તેમના સંઘર્ષોથી ધનવાન બનવાના તેમના સફર વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-did-khan-sir-do-before-he-became-a-teacher-where-did-such-a-big-change-suddenly-come-from-that-money-started-pouring-in-480950 ",
-    "time": "2026-06-09T10:27:58.000Z"
   },
   {
     "cat": "Tech",
@@ -612,15 +648,6 @@ const newsData_gu = [
     "time": "2026-06-05T15:01:17.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "શોરૂમ વાળા મોટા ભાગે છુપાવે છે આ વાત, ગાડી ખરીદતા પહેલા જરૂર જાણો",
-    "desc": "નવી કાર ખરીદવામાં ઉતાવળ કરવી મોંઘી પડી શકે છે. ફક્ત ડિઝાઇન અથવા કિંમતના આધારે નિર્ણય ન લો, ગાડીમાં સેફ્ટી, એવરેજ અને મેન્ટેનન્સ ખર્ચનો વિચાર કરો. ટેસ્ટ ડ્રાઇવ અને પ્રી-ડિલિવરી ચેકિંગ આવશ્યક છે. ફક્ત વેચાણકર્તાઓના શબ્દો પર આધાર રાખશો નહીં યોગ્ય નિર્ણય લેતા પહેલા બહુવિધ વિકલ્પોની તુલના કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/showroom-owners-often-hide-this-fact-know-this-before-buying-a-car-480514 ",
-    "time": "2026-06-05T14:20:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "આમિર ખાનના બંને લગ્ન 16-16 વર્ષ ટક્યા, 16 વર્ષ પછી કયા કારણે એક્ટરે ડિવોર્સ લીધા જાણો",
     "desc": "આમિર ખાન 61 વર્ષની ઉંમરે તેની ગર્લફ્રેન્ડ ગૌરી સ્પ્રેટ સાથે ત્રીજા લગ્ન કરવા જઈ રહ્યો છે. ત્યારે ચર્ચા એ વાતની પણ થવા લાગી છે કે આમિર ખાનના પહેલા 2 લગ્નમાં ડિવોર્સ કયા કારણે થયા. જો કે સંયોગ એવો પણ છે કે આમિર ખાનના બંને લગ્ન 16-16 વર્ષ ચાલ્યા અને પછી તેણે ડિવોર્સ લીધા.",
@@ -646,14 +673,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/pahlaj-nihalani-controversies-as-chairman-of-censor-board-udta-punjab-and-lipstick-under-my-burkha-film-controversy-480400 ",
     "time": "2026-06-04T11:57:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "લોહીની ઉલ્ટીઓ થઈ અને પછી શરુ થઈ મોત સામે જંગ, મુશ્કેલ સમયમાં પહલાજ નિહલાનીને મળવા પહોંચ્યો એક જ એક્ટર",
-    "desc": "બોલીવુડના દિગ્ગજ ફિલ્મ નિર્માતા પહલાજ નિહલાનીનું 76 વર્ષે નિધન થયું છે. પહલાજ નિહલાનીએ અનેક એક્ટર્સનું કરિયર બનાવવામાં મહત્વનો ફાળો આપ્યો છે. પરંતુ આજે તમને પહલાજ નિહલાની સાથે જોડાયેલી એક એવી ઘટના વિશે જણાવીએ જેમાં પહલાજ જીવન-મરણ વચ્ચે ઝોલાં ખાતા હતા અને તેમને મળવા માત્ર એક એક્ટર પહોંચ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/pahlaj-nihalani-passes-away-at-76-death-reason-liver-cirrhosis-unknown-story-of-pahlaj-nihalani-480394 ",
-    "time": "2026-06-04T11:42:22.000Z"
   }
 ];
