@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh cricketer registers complaint for physical assault by Chattogram police officials",
+    "desc": "Bangladesh cricket has been shaken by allegations made by spinner Nayeem Hasan, who has accused police officers in Chattogram of assaulting him during an incident late on Friday night, prompting an official demand for a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricketer-registers-complaint-for-physical-assault-by-chattogram-police-officials-2026-06-13-1044712",
+    "time": "2026-06-13T09:19:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Toss delays first ODI between India and Afghanistan at HPCA Stadium",
     "desc": "The toss for the match between India and Afghanistan in Dharamsala has been delayed due to persistent rain at the venue. The weather conditions continue to cause concern ahead of the scheduled start as the...",
     "img": "",
@@ -10,7 +19,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Rain in Dharamsala delays toss, who will be India's number three?",
+    "title": "Cut-off time announced for 20-over game",
     "desc": "India's preparations for the next ODI World Cup enter a significant phase as they take on Afghanistan in a three-match series. The first of the ODIs is being played in Dharamsala. Meanwhile, the series arrives...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/womens-t20-world-cup-2026-live-streaming-when-and-where-to-watch-showpiece-in-india-2026-06-12-1044654",
     "time": "2026-06-12T15:11:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why will Neeraj Chopra miss Doha Diamond League after being absent from Rome leg?",
-    "desc": "India's Javelin star Neeraj Chopra will be missing out on the Doha Diamond as he is still recuperating from a back injury. Chopra, who was absent from the Rome leg as well, will not be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/why-will-neeraj-chopra-miss-doha-diamond-league-after-being-absent-from-rome-leg-2026-06-12-1044652",
-    "time": "2026-06-12T14:44:08.000Z"
   }
 ];
