@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "બિરયાની વિવાદ પછી પહેલીવાર કોમેડીયન પ્રણીત મોરેએ શેર કર્યો Video, જાણો શું કહ્યું ઘટના વિશે",
+    "desc": "છેલ્લા કેટલાક દિવસથી સોશિયલ મીડિયા પર જે બિરયાની વિવાદ છવાયેલો છે તેમાં પહેલીવાર કોમેડીયન પ્રણીત મોરેએ વીડિયો શેર કર્યો છે. વિવાદ વકર્યા પછી તેનું ઈંસ્ટા અકાઉન્ટ બંધ હતું. હવે તેણે ઈંસ્ટાગ્રામ પર વીડિયો શેર કરી પોતાની ભુલ સ્વીકારી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/pranit-more-instagram-video-post-after-370-biryani-controversy-watch-here-apology-video-481368 ",
+    "time": "2026-06-13T07:52:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મમતા બેનર્જીની TMCના બે ફાડિયાથી ભાજપને શું ફાયદો? સંસદમાં ફટાફટ પાસ થશે આ 2 બિલ!",
+    "desc": "પશ્ચિમ બંગાળમાં વિધાનસભા ચૂંટણી બાદ આવેલા પરિણામોએ મમતા બેનર્જીને તેમની રાજકીય કારકિર્દીના સૌથી કપરા સમયનો સામનો કરાવ્યો છે. એકબાજુ જ્યાં તેઓએ રાજ્યમાં સત્તા ગુમાવી ત્યાં બીજી બાજુ હવે પાર્ટી પણ તૂટી રહી છે. વિધાનસભ્યો બાદ હવે સંસદ સભ્યો પણ સાથ છોડી રહ્યા છે ત્યારે ટીએમસીમાં આ તૂટથી ભાજપને કેટલો ફાયદો?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-may-bjp-gain-from-internal-discord-within-mamata-banerjee-tmc-explained-481346 ",
+    "time": "2026-06-13T04:51:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "નેમાર રમશે કે નહીં? વર્લ્ડ કપ 2026ની ઓપનિંગ મેચ પહેલા બ્રાઝિલના હેડ કોચે આપ્યું મોટું અપડેટ",
+    "desc": "હાલમાં જ ફૂટબોલ વર્લ્ડ કપની શરૂઆત થઈ છે ત્યારે સ્ટાર ખેલાડી નેમાર વિશે એક મોટું અપડેટ આવ્યું છે. બ્રાઝીલના હેડ કોચ કાર્લો એન્સેલોટીએ ગ્રુપ સીની પહેલી મેચમાં નેમાર રમશે કે નહીં તેના વિશે મોટું અપડેટ આપ્યું છે જાણો શું કહ્યું?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-brazil-head-coach-gives-a-big-update-about-neymar-481351 ",
+    "time": "2026-06-13T04:45:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કાલા હિરન ફિલ્મનું ટીઝર જોઈ ભડક્યો સલમાન ખાન, ફિલ્મની રિલીઝ રોકવા હાઈકોર્ટમાં કરી અપીલ",
+    "desc": "કાલા હિરન ફિલ્મનું ટીઝર રિલીઝ થયાની સાથે જ સલમાન ખાને હાઈકોર્ટના દરવાજા ખખડાવ્યા છે. સલમાન ખાને કોર્ટમાં અપીલ કરી છે કે ફિલ્મની રિલીઝ અને પ્રમોશન પર તુરંત રોકવામાં આવે. કોર્ટે મેકર્સને નોટિસ પણ ફટકારી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/kala-hiran-movie-teaser-salman-khan-plea-in-high-court-to-stop-film-release-481350 ",
+    "time": "2026-06-13T04:31:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફૂટબોલ વર્લ્ડ કપ 2026માં ક્યારે જોવા મળશે રોનાલ્ડો અને મેસ્સી ? જાણી લો પોર્ટુગલ અને આર્જેન્ટિના મેચની તારીખ",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026 શરૂ થઈ ગયો છે. ત્રણ મેચ પૂર્ણ થઈ ગયા બાદ ચાહકો ક્રિસ્ટિયાનો રોનાલ્ડો અને લિયોનેલ મેસ્સી જેવા સુપરસ્ટારને જોવા માટે ઉત્સુક છે. આ બે દિગ્ગજ ક્યારે અને કઈ મેચમાં રમતા જોવા મળશે તે અંગે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/when-will-cristiano-ronaldo-and-lionel-messi-in-action-football-world-cup-2026-481349 ",
+    "time": "2026-06-13T04:30:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અમેરિકાએ દુનિયાને દેખાડ્યો પોતાનો દમ, પેરાગ્વેને 4-1થી આપી ધોબીપછાડ",
+    "desc": "ફૂટબોલના રસિયાઓ જે ઘડીની રાહ જોતા હતા તે ઘડી આવી ગઈ અને ફૂટબોલ વર્લ્ડ કપ શરૂ થઈ ગયો. શનિવારે અમેરિકાની ટીમે જોરદાર રમતનું પ્રદર્શન કરતા પેરાગ્વેને 4-1થી હરાવી દીધુ હવે અમેરિકાની મેચ ઓસ્ટ્રેલિયા સામે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-usa-beats-paraguay-in-group-d-match-sports-news-in-gujarati-481348 ",
+    "time": "2026-06-13T04:10:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઇલના ભાવમાં આજે પણ ઘટાડો, શું પેટ્રોલ-ડીઝલ પણ થયું સસ્તું ? જાણો આજના ભાવ",
+    "desc": "આજે ફરી એકવાર ક્રૂડ ઓઇલના ભાવમાં ઘટાડો થયો છે. ટ્રમ્પના તાજેતરના નિવેદનથી ક્રૂડ ઓઇલના ભાવમાં ઘટાડો થયો છે. આગામી દિવસોમાં વધુ ઘટાડો જોવા મળી શકે છે. ત્યારે ભારતમાં પેટ્રોલ અને ડીઝલના ભાવમાં કોઈ ફેરફાર થયો છે કે કેમ ? તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-crude-oil-prices-fall-know-latest-fuel-rate-481347 ",
+    "time": "2026-06-13T03:53:28.000Z"
+  },
+  {
     "cat": "World",
     "title": "શું થશે ઈરાન US ડીલ? અબ્બાસ અરાઘચીની પોસ્ટને ટ્રમ્પે કરી રી પોસ્ટ, પાકિસ્તાની PMએ પણ માર્યો કુદકો",
     "desc": "ટ્રમ્પ દ્વારા ઈરાની વિદેશ મંત્રી અબ્બાસ અરાઘચીની પોસ્ટને રી પોસ્ટ કરવી દુર્લભ છે. જ્યારે આ ચોક્કસપણે ડીલ વિશે સકારાત્મક સંદેશ આપે છે, ત્યારે બંને દેશો વચ્ચે અવિશ્વાસની ખાડી હજુ પણ ઊંડી છે, જે ઉપરાષ્ટ્રપતિ જે.ડી. વેન્સની પોસ્ટ દ્વારા પુરાવા મળે છે.",
@@ -360,15 +423,6 @@ const newsData_gu = [
     "time": "2026-06-10T15:31:25.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "50,551 રન, 167 સદી અને 732 વિકેટ, 74 વર્ષથી નથી તૂટ્યો આ દિગ્ગજનો રેકોર્ડ",
-    "desc": "ક્રિકેટની દુનિયામાં ઘણા રેકોર્ડ બન્યા અને તૂટ્યા, પરંતુ ઈંગ્લેન્ડના મહાન બેટર વોલી હેમન્ડનો કીર્તિમાન આજે પણ એક ચમત્કાર છે. 1920થી 1951 વચ્ચે પોતાના ફર્સ્ટ ક્લાસ કરિયરમાં હેમન્ડે રનનો એવો વરસાદ કર્યો જે આજના સમયમાં સંભવ લાગતો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/wally-hammond-records-50551-runs-167-centuries-and-732-wickets-this-record-has-not-been-broken-for-74-years-481083 ",
-    "time": "2026-06-10T14:58:38.000Z"
-  },
-  {
     "cat": "Business",
     "title": "30 જૂનથી બંધ થઈ જશે કાગળની નોટ, RBI લાવશે પ્લાસ્ટિકની કરન્સી? સરકારે કરી સ્પષ્ટતા",
     "desc": "છેલ્લા કેટલાક દિવસથી સોશિયલ મીડિયા પર આ પ્રકારના સમાચાર ચાલી રહ્યાં છે કે કેન્દ્રીય રિઝર્વ બેંક પેપરની કરન્સી પરત લઈ રહી છે. સમાચારમાં દાવો કરવામાં આવી રહ્યો છે કે હવે તેની જગ્યા પ્લાસ્ટિકની નોટ લેવાની છે. હવે સરકારે તેના પર સ્પષ્ટતા કરી છે.",
@@ -424,15 +478,6 @@ const newsData_gu = [
   },
   {
     "cat": "Business",
-    "title": "રાતોરાત સોનાના ભાવમાં મોટો ઘટાડો, ચાંદી પણ જબરદસ્ત તૂટી, જાણો 10 ગ્રામ સોનાનો કેરેટ પ્રમાણે ભાવ",
-    "desc": "સોના અને ચાંદીના ભાવમાં આજે વળી પાછો જબરદસ્ત કડાકો જોવા મળ્યો છે. વાયદા બજાર અને રિટેલ બજારમાં ભાવ ગગડ્યા છે. ત્યારે સૌથી મોટો સવાલ એ થાય કે સોના અને ચાંદીના ભાવમાં આટલો મોટો કડાકો કેમ આવ્યો. તો જાણો કારણ અને આજનો સોના અને ચાંદીનો ભાવ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-fell-sharply-silver-rate-also-down-check-the-price-of-10-gram-gold-as-per-carat-481038 ",
-    "time": "2026-06-10T08:01:22.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "મોબાઈલ કવરમાં ભૂલથી પણ ન રાખો આ વસ્તુઓ, બ્લાસ્ટ થઈ શકે  છે ફોન! મોટા ભાગના લોકો કરે છે આ ભૂલ",
     "desc": "શું તમે તમારા સ્માર્ટફોન કવરમાં કંઈ રાખો છો? આ નાની આદત તમારા ફોનની બેટરી, ડેટા અને પ્રદર્શનને નોંધપાત્ર રીતે નુકસાન પહોંચાડી શકે છે. આ 5 વસ્તુઓ વિશે જાણો જે તમારે ક્યારેય ફોન કવરમાં ન રાખવી જોઈએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -475,24 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/after-rajya-sabha-election-speculations-of-changes-in-modi-cabinet-481010 ",
     "time": "2026-06-10T03:13:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM આવાસ મેળવવાની સુવર્ણ તક! સરકારે શરૂ કર્યુ નવું સર્વે અભિયાન, જાણો કોને અને કેવી રીતે મળશે મકાન?",
-    "desc": "પશ્ચિમ બંગાળ સરકારે પ્રધાનમંત્રી આવાસ યોજના (ગ્રામીણ)ના લાભાર્થીઓની ઓળખને વધુ પારદર્શક અને નિષ્પક્ષ બનાવવા માટે નવું સેલ્ફ-સર્વે સિસ્ટમ શરૂ કરી છે. હવે પાત્ર નાગરિકો પોતે જ અરજી કરી શકશે. ત્યારબાદ સરકારી અધિકારીઓ અને સર્વે ટીમ ઘરે જઈને માહિતીની ચકાસણી કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/golden-opportunity-to-get-pm-housing-this-government-has-started-a-new-survey-campaign-know-how-to-get-a-house-480986 ",
-    "time": "2026-06-09T17:32:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM કિસાનના 23મા હપ્તા અંગે મોટી અપડેટ ! 18 જૂને જમા થશે ₹2,000 ? જાણો શું છે હકીકત",
-    "desc": "કેન્દ્ર સરકારે હજુ સુધી પ્રધાનમંત્રી કિસાન સન્માન નિધિ યોજનાના 23મા હપ્તા અંગે કોઈ સત્તાવાર જાહેરાત કરી નથી. તેમ છતાં 18 જૂનની તારીખ અંગે અટકળો શરૂ થઈ છે. ત્યારે એ જાણી લઈએ કે શું આ દિવસે ₹2,000ની રકમ ખરેખર ખાતામાં જમા થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-kisan-23rd-installment-released-date-check-latest-update-480984 ",
-    "time": "2026-06-09T15:59:02.000Z"
   },
   {
     "cat": "Tech",
@@ -682,23 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tata-tiago-vs-maruti-celerio-which-car-is-good-in-a-budget-of-five-lakhs-know-the-features-mileage-and-safety-480555 ",
     "time": "2026-06-06T06:05:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રામ ચરણની ફિલ્મ પેદ્દીની કમાણી 2 દિવસમાં 100 કરોડને પાર, પ્રભાસની ફિલ્મનો તોડ્યો રેકોર્ડ",
-    "desc": "બોક્સ ઓફિસ પર અલગ અલગ જોનરની 3 ફિલ્મો એક સાથે રિલીઝ થઈ છે. જેમાં રામ ચરણની પેન ઈંડિયા ફિલ્મ પેદ્દી કોહરામ મચાવી રહી છે. પેદ્દી ફિલ્મ સાથે વરુણ ધવનની ફિલ્મ હૈ જવાની તો ઈશ્ક હોના હૈ અને બોબી દેઓલની બંદર ફિલ્મ પણ રિલીઝ થઈ છે. આ બંને ફિલ્મો પર પેદ્દી ફિલ્મ ભારે પડી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ram-charan-movie-peddi-box-office-collection-latest-in-gujarati-480542 ",
-    "time": "2026-06-06T02:40:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આમિર ખાનના બંને લગ્ન 16-16 વર્ષ ટક્યા, 16 વર્ષ પછી કયા કારણે એક્ટરે ડિવોર્સ લીધા જાણો",
-    "desc": "આમિર ખાન 61 વર્ષની ઉંમરે તેની ગર્લફ્રેન્ડ ગૌરી સ્પ્રેટ સાથે ત્રીજા લગ્ન કરવા જઈ રહ્યો છે. ત્યારે ચર્ચા એ વાતની પણ થવા લાગી છે કે આમિર ખાનના પહેલા 2 લગ્નમાં ડિવોર્સ કયા કારણે થયા. જો કે સંયોગ એવો પણ છે કે આમિર ખાનના બંને લગ્ન 16-16 વર્ષ ચાલ્યા અને પછી તેણે ડિવોર્સ લીધા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-2-divorce-reason-aamir-khan-both-marriage-stay-for-16-years-480501 ",
-    "time": "2026-06-05T12:42:04.000Z"
   }
 ];
