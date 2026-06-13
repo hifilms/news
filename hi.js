@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shubman Gill enters elite list, achieves huge feat with stellar performance against Afghanistan",
+    "desc": "The Indian team performed exceptionally well in the first ODI of the ongoing series against Afghanistan. The two sides met at the HPCA Stadium in Dharamsala on June 13, and skipper Shubman Gill sat at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-enters-elite-list-achieves-huge-feat-with-stellar-performance-against-afghanistan-2026-06-13-1044758",
+    "time": "2026-06-13T18:14:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill takes India over the line, register brilliant win against Afghanistan in Dharamsala",
+    "desc": "The Indian team put in a brilliant performance in the first ODI of the ongoing series against Afghanistan. The two sides met at the HPCA Stadium in Dharamsala for the first ODI on June 13th,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-takes-india-over-the-line-register-brilliant-win-against-afghanistan-in-dharamsala-2026-06-13-1044751",
+    "time": "2026-06-13T16:39:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rahmanullah Gurbaz smacks second-fastest ODI century vs India, who tops the list? Check",
     "desc": "Rahmanullah Gurbaz etched his name into the record books with a blistering 48-ball century against India in the first ODI of the series in Dharamsala. The Afghanistan opener reached the three-figure mark in just 48...",
     "img": "",
@@ -64,29 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Shubman Gill stands strong, Afghanistan searching for wickets",
+    "title": "India defeat Afghanistan by seven wickets",
     "desc": "India's preparations for the next ODI World Cup enter a significant phase as they take on Afghanistan in a three-match series. The first of the ODIs is being played in Dharamsala. Meanwhile, the series arrives...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-1st-odi-live-cricket-score-india-vs-afghanistan-latest-match-updates-scorecard-teams-highlights-playing-1044701",
     "time": "2026-06-13T07:47:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England's training kit, equipment stolen in Kansas City",
-    "desc": "The FIFA World Cup 2026 began in utter chaos with visa denials, security concerns and high-priced tickets. With the ball rolling onto the ground, these matters were expected to die down with time, but it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-in-chaos-england-s-training-kit-equipment-stolen-in-kansas-city-2026-06-13-1044699",
-    "time": "2026-06-13T07:21:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu crashes out of semi-finals of Australian Open, Akane Yamaguchi progresses",
-    "desc": "India's campaign at the Australian Open came to an end on Saturday after PV Sindhu was beaten by top seed Akane Yamaguchi in the women's singles semi-finals. The contest, which featured two of the most...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-crashes-out-of-semi-finals-of-australian-open-akane-yamaguchi-progresses-2026-06-13-1044695",
-    "time": "2026-06-13T06:55:58.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "PM મોદી અને US રાષ્ટ્રપતિ ટ્રમ્પની ફ્રાન્સમાં થશે મુલાકાત, 16 મહિના પછી મળશે &amp;#039;મિત્રો&amp;#039;",
+    "desc": "ફ્રાન્સમાં G7 સમિટ દરમિયાન વડા પ્રધાન નરેન્દ્ર મોદી અને અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ મળશે. અમેરિકન અધિકારીઓએ આ મુલાકાતની પુષ્ટિ કરી છે. 16 મહિના પછી બંને નેતાઓ વચ્ચે આ પહેલી મુલાકાત હશે. છેલ્લી મુલાકાત 13 ફેબ્રુઆરી, 2025ના રોજ થઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-and-us-president-trump-will-meet-in-france-friends-will-meet-after-16-months-481429 ",
+    "time": "2026-06-13T16:49:36.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "સ્કાયમેટની ચોમાસા અંગે મોટી આગાહી; જાણો ગુજરાત સહિત દેશમાં ક્યા કેવો પડશે વરસાદ, શું આ વિસ્તારોમાં છે દુષ્કાળનો ભય?",
     "desc": "દેશની ખાનગી હવામાન સંસ્થા Skymet એ 2026ના વર્ષના ચોમાસાને લઈને આગાહી કરી છે. Skymet ની આગાહી ખેડૂતો માટે ચોક્કસથી ચિંતાપ્રેરક છે. દક્ષિણ પશ્ચિમ ચોમાસામાં વરસાદ પાછલા વર્ષના ચોમાસા જેટલો નહીં હોય તેવું Skymetનું હાલ માનવું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -459,15 +468,6 @@ const newsData_gu = [
     "time": "2026-06-10T15:31:25.000Z"
   },
   {
-    "cat": "Business",
-    "title": "30 જૂનથી બંધ થઈ જશે કાગળની નોટ, RBI લાવશે પ્લાસ્ટિકની કરન્સી? સરકારે કરી સ્પષ્ટતા",
-    "desc": "છેલ્લા કેટલાક દિવસથી સોશિયલ મીડિયા પર આ પ્રકારના સમાચાર ચાલી રહ્યાં છે કે કેન્દ્રીય રિઝર્વ બેંક પેપરની કરન્સી પરત લઈ રહી છે. સમાચારમાં દાવો કરવામાં આવી રહ્યો છે કે હવે તેની જગ્યા પ્લાસ્ટિકની નોટ લેવાની છે. હવે સરકારે તેના પર સ્પષ્ટતા કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-paper-notes-be-discontinued-from-june-30-will-the-rbi-introduce-plastic-currency-government-has-given-its-response-481081 ",
-    "time": "2026-06-10T14:22:42.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "યૂસુફ પઠાણ, શત્રુઘ્ન સિન્હાથી લઈને સાયોની સુધી... TMCના બળવાખોર 19 સાંસદોનું લિસ્ટ",
     "desc": "ટીએમસીમાં ચાલી રહેલા વિવાદ વચ્ચે એક લિસ્ટ સામે આવ્યું છે, જેમાં પાર્ટીના બધા બળવાખોર સાંસદોના નામ છે. 19 સાંસદોના લિસ્ટમાં સૌથી ચોંકાવનારૂ નામ શત્રુઘ્ન સિન્હાનું છે. આ સિવાય સાયોની ઘોષ, પૂર્વ ક્રિકેટર યૂસુફ પઠાણના નામ પણ લોકોને ચોંકાવી રહ્યાં છે.",
@@ -493,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/controversial-dialogue-on-84-riots-and-khalistan-angle-removed-from-dhurandhar-2-find-out-481063 ",
     "time": "2026-06-10T09:33:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "5.75 લાખ ખેડૂતોના 2 લાખ રૂપિયા સુધીના દેવા માફ કરવાની તૈયારીમાં છે સરકાર, જાણો શું છે શરતો",
-    "desc": "મહારાષ્ટ્રમાં જો કોઈ ખેડૂત પર 2 લાખથી વધુનું દેવું હશે તો તેમને 2 લાખ રૂપિયા સુધીની કરજમાફી મળે અને બાકીની રકમ તેમણે પોતે ચૂકવવી પડશે. સરકાર આ માટે તૈયારીઓ કરી રહી છે. પણ કેટલીક શરતો પણ લાગૂ હશે. ખાસ જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/agriculture/big-news-for-farmers-of-maharashtra-regarding-waive-of-loans-check-details-481053 ",
-    "time": "2026-06-10T09:10:46.000Z"
   },
   {
     "cat": "Tech",
