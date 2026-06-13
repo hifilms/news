@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Star-studded Brazil aim to tackle mighty Morocco",
+    "desc": "Welcome to our live coverage of yet another FIFA World Cup clash! Tonight, we have Brazil taking on Morocco, and two sides, who are brilliant in their own right, will be hoping to put in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bra-vs-mar-fifa-world-cup-2026-live-star-studded-brazil-aim-to-tackle-mighty-morocco-1044762",
+    "time": "2026-06-13T21:26:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND-W vs PAK-W weather report: How will weather in Birmingham fare for Women's T20 World Cup game 6?",
+    "desc": "The stage is set for the one most anticipated match of the ongoing Women’s T20 World Cup. Game 6 of the tournament sees India women taking on Pakistan women. The two sides will meet at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-pak-w-weather-report-how-will-weather-in-birmingham-fare-for-women-s-t20-world-cup-game-6-2026-06-14-1044761",
+    "time": "2026-06-13T21:05:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma achieves major milestone, enters elite list despite subpar showing against Afghanistan",
+    "desc": "Veteran India batter Rohit Sharma was quite unlucky in the first ODI of the ongoing series against Afghanistan. Opening the innings for the Men in Blue in the run chase, Rohit was sent packing due...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-achieves-major-milestone-enters-elite-list-despite-subpar-showing-against-afghanistan-2026-06-14-1044760",
+    "time": "2026-06-13T20:35:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gurnoor Brar, Harsh Dubey achieve unique feat with dream debut in win against Afghanistan",
+    "desc": "The Indian team had a field day with Afghanistan in the first ODI of the ongoing series between the two sides. The match was held at the HPCA Stadium in Dharamsala on June 13th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-harsh-dubey-achieve-unique-feat-with-dream-debut-in-win-against-afghanistan-2026-06-14-1044759",
+    "time": "2026-06-13T19:37:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill enters elite list, achieves huge feat with stellar performance against Afghanistan",
     "desc": "The Indian team performed exceptionally well in the first ODI of the ongoing series against Afghanistan. The two sides met at the HPCA Stadium in Dharamsala on June 13, and skipper Shubman Gill sat at...",
     "img": "",
@@ -43,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-first-odi-vs-afghanistan-in-dharamsala-2026-06-13-1044732",
     "time": "2026-06-13T12:16:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Virat Kohli not playing first ODI vs Afghanistan at HPCA Stadium in Dharamsala?",
-    "desc": "India are without senior batter Virat Kohli against Afghanistan at the Himachal Pradesh Cricket Association Stadium in Dharamsala. The 37-year-old has been ruled out with a hamstring injury he suffered during the IPL 2026. His absence...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-virat-kohli-not-playing-first-odi-vs-afghanistan-at-hpca-stadium-in-dharamsala-2026-06-13-1044729",
-    "time": "2026-06-13T11:59:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Lose to anyone but Pakistan'- Jemimah Rodrigues reflects on pressure ahead of T20 World Cup opener",
-    "desc": "India batter Jemimah Rodrigues has highlighted the heightened emotions surrounding the India-Pakistan rivalry ahead of their Women’s T20 World Cup 2026 opener in Birmingham on Sunday. The youngster also addressed the external pressure that comes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lose-to-anyone-but-pakistan-jemimah-rodrigues-reflects-on-pressure-ahead-of-t20-world-cup-opener-2026-06-13-1044721",
-    "time": "2026-06-13T11:08:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh cricketer registers complaint for physical assault by Chattogram police officials",
-    "desc": "Bangladesh cricket has been shaken by allegations made by spinner Nayeem Hasan, who has accused police officers in Chattogram of assaulting him during an incident late on Friday night, prompting an official demand for a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricketer-registers-complaint-for-physical-assault-by-chattogram-police-officials-2026-06-13-1044712",
-    "time": "2026-06-13T09:19:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Toss delays first ODI between India and Afghanistan at HPCA Stadium",
-    "desc": "The toss for the match between India and Afghanistan in Dharamsala has been delayed due to persistent rain at the venue. The weather conditions continue to cause concern ahead of the scheduled start as the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dharamsala-weather-update-toss-delays-first-odi-between-india-and-afghanistan-at-hpca-stadium-2026-06-13-1044703",
-    "time": "2026-06-13T08:05:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India defeat Afghanistan by seven wickets",
-    "desc": "India's preparations for the next ODI World Cup enter a significant phase as they take on Afghanistan in a three-match series. The first of the ODIs is being played in Dharamsala. Meanwhile, the series arrives...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-1st-odi-live-cricket-score-india-vs-afghanistan-latest-match-updates-scorecard-teams-highlights-playing-1044701",
-    "time": "2026-06-13T07:47:58.000Z"
   }
 ];

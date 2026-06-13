@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "India must build system that emerges stronger through uncertainties, disruptions: Principal secy to PM",
+    "desc": "Mishra added while traditional approaches often focus on ‘bouncing back’ after disruption, the emerging paradigm requires systems that can learn, adapt, and emerge stronger through disruption, moving towards bouncing forward and increasingly becoming antifragile systems. “The objective today is not only recovery but building stronger institutions, infrastructure and governance systems capable of managing future shocks and uncertainties,” he added.",
+    "img": "https://static.toiimg.com/photo/msid-131712434,imgsize-23308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-must-build-system-that-emerges-stronger-through-uncertainties-disruptions-principal-secy-to-pm/articleshow/131712427.cms",
+    "time": "2026-06-13T21:46:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Boualem Khoukhi’s goal on header in stoppage time earns Qatar a 1-1 World Cup draw with Switzerland",
+    "desc": "Switzerland is hoping to advance further than its round-of-16 showing four years ago before losing 6-1 to Portugal — when Goncalo Ramos delivered an improbable hat trick playing in place of benched star Cristiano Ronaldo",
+    "img": "https://th-i.thgim.com/public/incoming/5nbs0n/article71099141.ece/alternates/LANDSCAPE_1200/2026-06-13T213235Z_1742706628_UP1EM6D1NUA8O_RTRMADP_3_SOCCER-WORLDCUP-QAT-SWI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup/fifa-2026-boualem-khoukhis-goal-on-header-in-stoppage-time-earns-qatar-a-1-1-world-cup-draw-with-switzerland/article71099139.ece",
+    "time": "2026-06-13T21:37:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPM asks Cong to stop being ‘facilitator for ED, Modi govt’ after Rahul Gandhi's remarks at meet",
+    "desc": "Ahead of the INDIA bloc meeting, Baby in a sharply worded letter to Congress chief Mallikarjun Kharge had pointed to allegations by Rahul Gandhi and other senior Congress leaders during the Kerala polls of CPI(M) and the BJP colluding and calls for ED action against then CM Pinarayi Vijayan. The Left party had asked the Congress to “clear the air regarding such disruptive moves” with CPI(M)’s Rajya Sabha MP John Brittas strongly raising the matter at the INDIA meeting.",
+    "img": "https://static.toiimg.com/photo/msid-131712421,imgsize-75492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cpm-asks-cong-to-stop-being-facilitator-for-ed-modi-govt-after-ragas-remarks-at-meet/articleshow/131712420.cms",
+    "time": "2026-06-13T21:37:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After Mum birthday cake ordeal, pins &amp; wires in food banned",
+    "desc": "The nationwide advisory, issued by Food Safety and Standards Authority of India (FSSAI) on June 12, follows reports of metallic pins and wires being found in cakes and attached to food packets. “There exists a significant risk that such pins may inadvertently be consumed by consumers, resulting in injury and adverse health consequences,” FSSAI said in its advisory.",
+    "img": "https://static.toiimg.com/photo/msid-131712322,imgsize-64024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-mum-birthday-cake-ordeal-pins-wires-in-food-banned/articleshow/131712317.cms",
+    "time": "2026-06-13T21:26:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Demographic panel to visit metros, industrial &amp; border areas to study population changes",
+    "desc": "Home minister Amit Shah Saturday chaired a meeting with senior MHA officials to review arrangements for proper facilitation of the committee. The first meeting of the panel has already been convened and its agenda formulated. “MHA will provide logistical and other necessary support for proper functioning of the committee,” a ministry official said.",
+    "img": "https://static.toiimg.com/photo/msid-131712316,imgsize-178364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/demographic-panel-to-visit-metros-industrial-border-areas-to-study-population-changes/articleshow/131712318.cms",
+    "time": "2026-06-13T21:23:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EAM Jaishankar calls Marco Rubio on sailor deaths, US stands by attacks",
+    "desc": "After having twice summoned the American envoy over US military strikes on foreign-flagged ships carrying Indian mariners, India further escalated the issue as external affairs minister S Jaishankar reiterated India’s protest in a phone call with his US counterpart Marco Rubio. “Such lethal actions against commercial shipping are not justified,” Jaishankar later posted on X.",
+    "img": "https://static.toiimg.com/photo/msid-131712311,imgsize-48878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eam-calls-rubio-on-sailor-deaths-us-stands-by-attacks/articleshow/131712307.cms",
+    "time": "2026-06-13T21:17:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "5 IAF men killed in An-32 crash, co-pilot survives",
+    "desc": "IAF extends its deepest condolences to the bereaved families and stands firmly with them in this hour of grief,” IAF said in a post on X on Saturday. Giving details, IAF said the “aircraft met with an accident during a routine sortie today at approximately 1000h at Jorhat, Assam. Crash site management and initial enquiries are on at this time.”",
+    "img": "https://static.toiimg.com/photo/msid-131712306,imgsize-288144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/5-iaf-men-killed-in-an-32-crash-co-pilot-survives/articleshow/131712308.cms",
+    "time": "2026-06-13T21:12:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Zojila, light at the end of tunnel",
+    "desc": "Once a pass known for deaths due to avalanches, shooting stones, and snowfall, the newly constructed Zojila Tunnel builds on India’s growing road infrastructure and fortifies the country’s strategic interests in the region with its hostile neighbours, China and Pakistan. Peerzada Ashiq reports on how it also offers hope to locals and their economy",
+    "img": "https://th-i.thgim.com/public/incoming/54aoyk/article71094422.ece/alternates/LANDSCAPE_1200/58-Final%20Breakthrough%20Ceremony%20of%20the%20Zojila%20Tunnel-09-06-2026.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/in-zojila-light-at-the-end-of-tunnel/article71094344.ece",
+    "time": "2026-06-13T20:59:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Twinkle reacted to rumours about Rajesh Khanna and Dimple",
+    "desc": "Being the daughter of two of Bollywood's biggest stars meant growing up in the spotlight, but Twinkle Khanna once revealed that the endless rumours surrounding her parents, Rajesh Khanna and Dimple Kapadia, never really affected her. In a throwback conversation with Jaaved Jaaferi on Yaadein B-Town Ki – Is Duniya Ke Sitaray, Twinkle opened up about dealing with gossip, navigating life as a star kid and the unique upbringing she experienced in a celebrity household.",
+    "img": "https://static.toiimg.com/photo/msid-131712286,imgsize-128886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-twinkle-khanna-reacted-to-rumours-about-rajesh-khanna-and-dimple-kapadia-the-people-in-magazines-were-not-my-parents/articleshow/131712275.cms",
+    "time": "2026-06-13T20:29:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lucky Ali caused Mehmood a lot of pain,' claims Hanif Zaveri",
+    "desc": "Legendary comedian Mehmood remains one of Indian cinema's most beloved entertainers, but according to veteran author Hanif Zaveri, the actor endured significant turmoil in his personal life, particularly when it came to his children. Recalling the challenges Mehmood faced as a father, Zaveri said that Lucky Ali went through a difficult phase before finding success as a singer and actor.",
+    "img": "https://static.toiimg.com/photo/msid-131712027,imgsize-72638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lucky-ali-caused-mehmood-a-lot-of-pain-claims-hanif-zaveri-mehmood-was-not-happy-with-all-his-children/articleshow/131711996.cms",
+    "time": "2026-06-13T19:30:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gruha Lakshmi and Gruha Jyothi beneficiaries have to reapply, says Karnataka Chief Minister",
+    "desc": "In a move claimed to be aimed at plugging leakage, Chief Minister D.K. Shivakumar has announced that beneficiaries of the Gruha Lakshmi and the Gruha Jyothi schemes, two of the five guarantee schemes in the State, need to reapply",
+    "img": "https://th-i.thgim.com/public/incoming/7ivgsh/article71098905.ece/alternates/LANDSCAPE_1200/Gruhalakshmi_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/gruha-lakshmi-and-gruha-jyothi-beneficiaries-have-to-reapply-says-karnataka-chief-minister/article71098860.ece",
+    "time": "2026-06-13T19:20:39.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Jackie reveals his daily routine, ‘8 hours for sleep, work, yourself’",
     "desc": "Veteran actor Jackie Shroff has always been known for his earthy wisdom, candid personality and simple lifestyle. In a recent conversation, the actor opened up about his daily routine, fitness habits, favourite sweets, Mumbai's best vada pav spots and the simple meal that brings him the most happiness. Interestingly, Jackie admitted that despite often speaking about maintaining balance in life, he doesn't always follow the ideal routine himself.",
@@ -16,6 +115,24 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/hyosung-tns-eyes-atm-manufacturing-plant-in-tamil-nadu-industries-minister/article71097166.ece",
     "time": "2026-06-13T18:16:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why are there protests in PoK?",
+    "desc": "Why was the Joint Awami Action Committee formed in 2023 and what are their demands? What are the economic concerns in the region? Why is the demand for the abolishment of reservation for 12 refugee seats in the PoK Assembly at the heart of the protests? How has India reacted?",
+    "img": "https://th-i.thgim.com/public/incoming/fb9byk/article71098794.ece/alternates/LANDSCAPE_1200/20260611014L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-are-there-protests-in-pok-explained/article71098668.ece",
+    "time": "2026-06-13T18:04:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why is the Zojila tunnel a game changer?",
+    "desc": "Why is the tunnel an engineering marvel and what were the challenges in building it? How does it improve connectivity and ensure travellers’ safety? How does it provide strategic access in the border region? When will it open for civilian traffic?",
+    "img": "https://th-i.thgim.com/public/incoming/f7hg4y/article71098808.ece/alternates/LANDSCAPE_1200/India_Zojila_Tunnel_41_19.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-is-the-zojila-tunnel-a-game-changer-explains/article71098673.ece",
+    "time": "2026-06-13T17:56:46.000Z"
   },
   {
     "cat": "Politics",
@@ -61,6 +178,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/samiti-calls-for-annual-observance-of-article-371j-day-across-seven-districts-of-kalyana-karnataka/article71098101.ece",
     "time": "2026-06-13T17:29:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA",
+    "desc": "The governing body of the ‘beautiful game’, long dogged by allegations of corruption and abuse of power, now faces criticism for its muted response to U.S. immigration authorities denying entry to fans, officials, and team personnel",
+    "img": "https://th-i.thgim.com/public/incoming/gb8wc1/article71098627.ece/alternates/LANDSCAPE_1200/2026-06-11T181633Z_837849217_UP1EM6B1ERJFT_RTRMADP_3_SOCCER-WORLDCUP-MEX-ZAF.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-profile-us-immigration-issues-corruption-allegations/article71098635.ece",
+    "time": "2026-06-13T17:19:49.000Z"
   },
   {
     "cat": "Business",
@@ -163,15 +289,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Some artisans hang on despite hardships",
-    "desc": "While procuring sandalwood for artisans is an expensive affair, shortage of sandal in the market has made them switch their jobs; most artisans across the State are the last in their family to be in the profession of woodcarving",
-    "img": "https://th-i.thgim.com/public/incoming/lsj1ye/article71098590.ece/alternates/LANDSCAPE_1200/MYSRI_6-12-2007_14-31-17_MYDP-DEC-10.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/some-artisans-hang-on-despite-hardships/article71094467.ece",
-    "time": "2026-06-13T16:16:14.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "CM Dhami inspects arrangements for International Kayaking and Canoeing C'ship in Udham Singh Nagar",
     "desc": "Uttarakhand chief minister Pushkar Singh Dhami today conducted an on-site inspection of the preparations for the upcoming International Kayaking and Canoeing Competition to be held in the Gadarpur area of Udham Singh Nagar district, according to a press release.",
     "img": "https://static.toiimg.com/photo/msid-131708117,imgsize-85276.cms",
@@ -214,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/shubman-gill-enters-elite-club-becomes-fastest-indian-to-3000-odi-runs/articleshow/131707797.cms",
     "time": "2026-06-13T15:51:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kochi cyber police to submit report on complaint against YouTuber",
-    "desc": "Cyber police are preparing the report following the State Police Chief’s order for a probe into a series of allegations against the YouTuber and his former associates, all of whom are popular on streaming platforms",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kochi-cyber-police-to-submit-report-on-complaint-against-youtuber/article71098278.ece",
-    "time": "2026-06-13T15:50:28.000Z"
   },
   {
     "cat": "Sports",
@@ -369,24 +477,6 @@ const newsData_en = [
     "time": "2026-06-13T13:17:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why safety concerns keep resurfacing in Delhi",
-    "desc": "A devastating fire at a Delhi hotel trapped eight members of the Agarwal family in the basement, leading to their tragic deaths. The incident highlights a pattern of basement misuse and safety violations in the capital, with similar tragedies involving students in flooded basements also reported. Despite regulations, enforcement remains a critical issue.",
-    "img": "https://static.toiimg.com/photo/msid-131704862,imgsize-182260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-basement-problem-why-safety-concerns-keep-resurfacing-in-delhi/articleshow/131704735.cms",
-    "time": "2026-06-13T13:09:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ICMR team arrives in Kozhikode; containment measures in place",
-    "desc": "Kozhikode is on high alert as a Nipah virus case is confirmed, triggering immediate action from the Indian Council of Medical Research. Health officials are actively evaluating containment strategies for the deadly zoonotic virus that poses significant risks. Although initial screenings of close contacts returned negative, health authorities are ramping up vigilance throughout the district.",
-    "img": "https://static.toiimg.com/photo/msid-131705200,imgsize-89106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nipah-outbreak-icmr-team-arrives-in-kozhikode-containment-measures-in-place/articleshow/131704940.cms",
-    "time": "2026-06-13T12:58:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Has Ajith reduced his salary for 'AK 64'? Here's what we know",
     "desc": "Contrary to reports, Ajith Kumar has not reduced his salary for 'AK 64' due to market conditions. An industry source clarified that production delays stemmed from producer financial plans and scheduling conflicts, not the actor's commitment. Discussions might involve alternative deal structures, potentially including digital rights, rather than a direct pay cut.",
@@ -450,24 +540,6 @@ const newsData_en = [
     "time": "2026-06-13T11:53:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "What happens when children leave home",
-    "desc": "Across Indian cities, adult children are moving out, leaving parents in larger homes. This shift redefines family closeness, moving beyond shared walls. Families are inventing new ways to stay connected, from daily video calls to simple texts, navigating a balance between care and independence. Scheduled visits now carry the weight of condensed family time, highlighting the loss of ordinary moments.",
-    "img": "https://static.toiimg.com/photo/msid-131703491,imgsize-986007.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-empty-room-upstairs-what-happens-when-children-leave-home/articleshow/131703441.cms",
-    "time": "2026-06-13T11:46:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NTA launches training programme for exam staff ahead of NEET retest; flags viral paper leak claim as fake",
-    "desc": "Amid heightened security for the NEET-UG retest, the NTA launched a nationwide training program for examination officials on the iGOT Karmayogi Bharat platform. This initiative aims to strengthen supervision and standardize conduct. The NTA also debunked a viral claim of another NEET paper leak, urging candidates to rely on official updates.",
-    "img": "https://static.toiimg.com/photo/msid-131704799,imgsize-23398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nta-launches-training-programme-for-exam-staff-ahead-of-neet-retest-flags-viral-paper-leak-claim-as-fake/articleshow/131704786.cms",
-    "time": "2026-06-13T11:45:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Lisa Riley receives the MBE honour weeks before her 50th birthday",
     "desc": "Emmerdale star Lisa Riley is celebrating a monumental honour, receiving an MBE just weeks before her 50th birthday. Recognized for her significant contributions to drama and charity, Riley expressed immense gratitude, calling it the best birthday present. She highlighted her 36-year acting career and the profound impact of her role as Mandy Dingle, dedicating the achievement to her late mother.",
@@ -475,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/emmerdale-star-lisa-riley-receives-mbe-honour-ahead-of-50th-birthday-to-say-i-am-humbled-is-an-absolute-understatement/articleshow/131703538.cms",
     "time": "2026-06-13T11:44:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress never a sinking ship! Sanjay Raut urges former Congress allies to reunite",
-    "desc": "Shiv Sena (UBT) leader Sanjay Raut urged former Congress allies to reunite, emphasizing the need to strengthen the party against the BJP. He dismissed claims of the Congress being a \"sinking ship\" and appealed to Sharad Pawar to lead the reunification efforts. Raut also criticized the BJP's historical contributions and accused Amit Shah of attempting to break opposition parties.",
-    "img": "https://static.toiimg.com/photo/msid-131703547,imgsize-2529228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-never-a-sinking-ship-sanjay-raut-urges-former-congress-allies-to-reunite/articleshow/131703528.cms",
-    "time": "2026-06-13T11:44:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -601,24 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-records-first-mistaken-identity-var-reversal-in-usa-paraguay-clash/articleshow/131701384.cms",
     "time": "2026-06-13T09:43:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor says time heals pain",
-    "desc": "Vedang Raina, who shines in 'Main Vaapas Aaunga,' shared his personal insights on overcoming heartbreak, advocating for self-love and the healing qualities of time in a recent panel discussion. Director Imtiaz Ali lauded Vedang's thorough preparation and his innate musical sensibility, celebrating his fearless approach to vulnerability throughout the filming process. Released on June 12, the romantic drama garnered ₹1.15 cr on the opening day.",
-    "img": "https://static.toiimg.com/photo/msid-131701383,imgsize-52254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vedang-raina-says-he-has-gone-through-many-heartbreaks-but-the-more-you-love-yourself-the-less-it-affects-exclusive/articleshow/131701314.cms",
-    "time": "2026-06-13T09:41:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor who inspired Big B, Govinda died in chawl after losing all",
-    "desc": "From the dusty lanes of a mill worker to the glittering lights of Bollywood, Bhagwan Dada captivated audiences with his mesmerizing dance in the film 'Albela.' His journey inspired icons like Amitabh Bachchan, a testament to his influence in Hindi cinema. However, the peaks of fame were fleeting; his fortune faded due to missteps and personal turmoil.",
-    "img": "https://static.toiimg.com/photo/msid-131701274,imgsize-39140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/how-the-actor-who-inspired-amitabh-bachchan-govinda-and-rishi-kapoor-died-in-a-chawl-after-losing-25-room-bungalow-and-7-imported-cars/articleshow/131701274.cms",
-    "time": "2026-06-13T09:28:40.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/false-ai-fact-checks-stir-online-chaos-after-charlie-kirk-assassination/article70040517.ece",
     "time": "2026-06-12T08:25:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sumukhi Suresh on why stand-up comedy should feel like an uncomfortable, honest confession",
-    "desc": "The only female Indian comic to take the stage at Netflix Is A Joke Fest 2026, writer, showrunner and actor Sumukhi Suresh delves into why writers should feel uncomfortable, staying honest and discovering the actor in her",
-    "img": "https://th-i.thgim.com/public/life-and-style/n2tzv5/article71092781.ece/alternates/LANDSCAPE_1200/IMG_7561.JPG.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/sumukhi-suresh-on-why-stand-up-comedy-should-feel-like-an-uncomfortable-honest-confession/article71088961.ece",
-    "time": "2026-06-12T08:03:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rana’s passing is a profound loss to Indian sports: President, PM, Bindra lead tributes",
-    "desc": "Rana, 49, who brought laurels to the country through his achievements as an elite shooter and later played a key role in nurturing young talent as a coach, died due to complications related to heart",
-    "img": "https://th-i.thgim.com/public/incoming/v7lokl/article71092542.ece/alternates/LANDSCAPE_1200/PTI06_12_2026_000039B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/indian-shooting-star-jaspal-rana-passes-away-tributes-pour-in/article71092515.ece",
-    "time": "2026-06-12T07:45:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shakira and Burna Boy warm up spectators in World Cup opening ceremony",
-    "desc": "While there was a festive atmosphere inside the stadium, there were chaotic scenes in the centre of Mexico City where thousands of fans pushed and shoved as they attempted to enter the official World Cup fan zone shortly before the 1800 GMT kickoff.",
-    "img": "https://th-i.thgim.com/public/incoming/qqr7ap/article71090894.ece/alternates/LANDSCAPE_1200/South_Africa_Mexico_WCup_Soccer_78534.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/shakira-and-burna-boy-warm-up-spectators-in-world-cup-opening-ceremony/article71090826.ece",
-    "time": "2026-06-12T06:41:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "At Ashvita’s, Mimesis by Thukral & Tagra explores data, memory and digital selves",
-    "desc": "On view till July 17 at Ashvita’s new flagship gallery in Ozone Premia, Mylapore, Mimesis by Thukral & Tagra extends their long-running Arboreum project, exploring how algorithms, pixels and digital ecosystems are reshaping our everyday reality",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/3us6cw/article71079946.ece/alternates/LANDSCAPE_1200/DSC_3244E%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/at-ashvitas-mimesis-by-thukral-tagra-reflects-on-data-memory-surveillance-and-the-digital-selves-we-leave-behind/article71079945.ece",
-    "time": "2026-06-12T06:00:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Messi, Neymar and Ronaldo are now on Kerala’s mundus",
-    "desc": "As World Cup fever sweeps Kerala, designers and stores are creating customised mundus, lungis, and wraps featuring star football players and popular team colours for fans. Here is how you can get your wardrobe ready, to cheer on your favourite players",
-    "img": "https://th-i.thgim.com/public/incoming/lnyfux/article71086454.ece/alternates/LANDSCAPE_1200/Photo%20from%20Anasuya%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/fifa-world-cup-2026-messi-neymar-and-ronaldo-are-now-on-keralas-mundus/article71085247.ece",
-    "time": "2026-06-12T04:04:57.000Z"
   }
 ];
