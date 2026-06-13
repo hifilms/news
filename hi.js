@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rahmanullah Gurbaz smacks second-fastest ODI century vs India, who tops the list? Check",
+    "desc": "Rahmanullah Gurbaz etched his name into the record books with a blistering 48-ball century against India in the first ODI of the series in Dharamsala. The Afghanistan opener reached the three-figure mark in just 48...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rahmanullah-gurbaz-smacks-second-fastest-odi-century-vs-india-who-tops-the-list-check-2026-06-13-1044742",
+    "time": "2026-06-13T14:39:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kane Williamson's replacement announced for Test series against England",
     "desc": "New Zealand have turned to Will Young to fill the void left by Kane Williamson after the former captain brought down the curtain on his international career following the opening Test against England at Lord’s....",
     "img": "",
@@ -55,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Rahmanullah Gurbaz smacks 48-ball century in Dharamsala",
+    "title": "Shubman Gill stands strong, Afghanistan searching for wickets",
     "desc": "India's preparations for the next ODI World Cup enter a significant phase as they take on Afghanistan in a three-match series. The first of the ODIs is being played in Dharamsala. Meanwhile, the series arrives...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-crashes-out-of-semi-finals-of-australian-open-akane-yamaguchi-progresses-2026-06-13-1044695",
     "time": "2026-06-13T06:55:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Shooting range will never feel the same'",
-    "desc": "Double Olympic medallist, Manu Bhaker, lost her long-time coach, Jaspal Rana, in a sudden and tragic death on Thursday as the shooting fraternity and sports fans mourned the passing away of a former multi-time Asian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/manu-bhaker-pays-tribute-to-coach-jaspal-rana-shooting-range-will-never-feel-the-same-2026-06-12-1044669",
-    "time": "2026-06-12T18:27:02.000Z"
   }
 ];
