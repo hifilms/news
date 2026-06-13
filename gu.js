@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ભારતની એક ચાલથી પાકમાં મચ્યો હાહાકાર! પાણી માટે તરસી રહ્યા છે સિંધ-બલૂચિસ્તાન જેવા વિસ્તારો",
+    "desc": "ભારતે સિંધુ જળ સંધિ પર જે રોક લગાવી છે, ત્યારબાદ પાકિસ્તાનના સિંધ અને બલૂચિસ્તાન પ્રાંતોમાં ગંભીર જળ સંકટની સ્થિતિ ઊભી થઈ છે. નહેરોમાં પાણીની અછતને કારણે ખેતી પર માઠી અસર પડી રહી છે અને લાખો લોકો સામે આજીવિકાનું સંકટ ઊભું થયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/indus-waters-treaty-fallout-nearly-a-third-of-pakistan-reels-as-sindh-balochistan-face-water-crisis-481397 ",
+    "time": "2026-06-13T13:17:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગુજરાતની દીકરીએ વધાર્યું નવસારીનું માન: ભારતની મહિલા ક્રિકેટ ટીમમાં મૈત્રી મણિયારની ઓલરાઉન્ડર તરીકે પસંદગી",
+    "desc": "નવસારી જેવા નાના શહેરમાંથી ક્રિકેટમાં અનેક દીકરીઓ પોતાની પ્રતિભા નિખારી રહી છે. પરંતુ એમાંથી કેટલીક દીકરીઓ રાષ્ટ્રીય સ્તરે ક્રિકેટ રમતી થઈ છે. પણ રાષ્ટ્રીય ટીમમાં મૈત્રી મણિયારની પસંદગીએ નવસારીનું ગૌરવ વધારવા સાથે આંતરરાષ્ટ્રીય ફલક પર અલગ ઓળખ પણ અપાવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/navsaris-daughters-big-leap-maitri-maniar-selected-in-indias-u19-womens-cricket-team-481392 ",
+    "time": "2026-06-13T12:02:45.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "રોનાલ્ડો કે મેસ્સી... કોણ છે દુનિયાનો સૌથી ધનિક ફૂટબોલ સ્ટાર ? કમાણી જાણીને ચોંકી જશો",
     "desc": "ફૂટબોલ વર્લ્ડ કપ 2026નું આયોજન અમેરિકા, કેનેડા અને મેક્સિકો દ્વારા સંયુક્ત રીતે કરવામાં આવી રહ્યું છે. પોર્ટુગીઝ ફૂટબોલર ક્રિસ્ટિયાનો રોનાલ્ડો અને આર્જેન્ટિનાનો મહાન ફૂટબોલર લિયોનેલ મેસ્સી ફૂટબોલ વર્લ્ડ કપ 2026માં રમી રહ્યા છે. ત્યારે બંનેમાંથી સૌથી ધનિક કોણ છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -369,15 +387,6 @@ const newsData_gu = [
     "time": "2026-06-11T11:15:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઓસ્ટ્રેલિયન T20 ટીમમાં આ ભારતીય ખેલાડીને મળ્યું સ્થાન, 60 વર્ષ બાદ રચાશે ઈતિહાસ",
-    "desc": "ઓસ્ટ્રેલિયાએ દિલ્હીમાં જન્મેલા નિખિલ ચૌધરીને તેની ટી20 ટીમમાં સામેલ કર્યો છે. જો તેને બાંગ્લાદેશ સામે ડેબ્યૂ કરવાની તક મળશે તો તે 60 વર્ષ જૂનો ઇતિહાસ બદલશે. બાંગ્લાદેશ અને ઓસ્ટ્રેલિયા વચ્ચે પ્રથમ ટી20 મેચ 17 જૂને રમાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/nikhil-chaudhary-become-first-indian-born-to-play-for-australia-in-more-than-60-years-481160 ",
-    "time": "2026-06-11T09:37:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "વધુ એક ભારતીય જહાજ &amp;#039;જલવીર&amp;#039; પર હુમલો, &amp;#039;સેટેબેલો&amp;#039; પર થયેલા હુમલામાં 3 ભારતીયોના જીવ ગયા",
     "desc": "વળી પાછો ભારતીય જહાજ પર ઓમાનના દરિયાકાંઠા પાસે હુમલો થયાના સમાચાર છે. ભારતીય જહાજ MT જલવીર પર હુમલો થયો છે જેના પર ભારતીય નાવિકો સવાર છે. આ પહેલા પણ એક જહાજ પર થયેલા હુમલામાં 3 ભારતીયોના જીવ ગયા.",
@@ -457,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/will-paper-notes-be-discontinued-from-june-30-will-the-rbi-introduce-plastic-currency-government-has-given-its-response-481081 ",
     "time": "2026-06-10T14:22:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "હવે 1 વર્ષની નોકરી પર જ મળશે ગ્રેચ્યુઈટી, પણ આ 3 ભૂલો કરી તો રૂપિયા થઈ જશે &amp;#039;ઝીરો&amp;#039;",
-    "desc": "નવા લેબર કોડ હેઠળ ફિક્સ ટર્મ કર્મચારીઓને 1 વર્ષમાં ગ્રેચ્યુઈટી મળશે. પરંતુ તમને એ પણ ખબર હોવી જોઈએ કે, કેટલીક ભૂલો તમને ભારે પડી શકે છે. એવું પણ બની શકે કે, તમારી ગ્રેચ્યુઈટી શૂન્ય થઈ જાય. ચાલો જાણીએ ક્યારે અને કઈ-કઈ પરિસ્થિતિમાં કંપની ગ્રેચ્યુઈટી રોકી શકે છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gratuity-new-rules-2026-now-you-will-get-gratuity-only-on-1-year-of-employment-but-if-you-make-these-3-mistakes-the-money-will-become-zero-481080 ",
-    "time": "2026-06-10T13:29:59.000Z"
   },
   {
     "cat": "Politics",
@@ -619,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/what-is-going-on-between-netanyahu-and-trump-israel-attacked-iran-despite-trump-said-no-480768 ",
     "time": "2026-06-08T03:29:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Gold પર ચીન રમી રહ્યું છે મોટો ખેલ, સતત 19માં મહિને કર્યું આ કામ, જાણો",
-    "desc": "ચીનના સોનાના ભંડારમાં સતત વધારો થઈ રહ્યો છે. આંતરરાષ્ટ્રીય બજારમાં સોનાના દરો પર દબાણ હોવા છતાં, પીપલ્સ બેંક ઓફ ચાઇનાએ સતત 19મા મહિને આ કામ કર્યું છે અને જ્યારે ચીન કોઈ કામ સતત કરે ત્યારે તે શંકાના ઘેરામાં જાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/china-is-playing-a-big-game-on-gold-it-has-done-this-for-the-19th-consecutive-month-know-this-480739 ",
-    "time": "2026-06-07T15:18:03.000Z"
   },
   {
     "cat": "Entertainment",

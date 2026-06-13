@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kane Williamson's replacement announced for Test series against England",
+    "desc": "New Zealand have turned to Will Young to fill the void left by Kane Williamson after the former captain brought down the curtain on his international career following the opening Test against England at Lord’s....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kane-williamson-s-replacement-announced-for-test-series-against-england-2026-06-13-1044737",
+    "time": "2026-06-13T13:39:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Hardik Pandya not playing first ODI vs Afghanistan in Dharamsala?",
+    "desc": "India are without all-rounder Hardik Pandya for the opening ODI against Afghanistan at the Himachal Pradesh Cricket Association Stadium in Dharamsala. The star cricketer suffered a leg strain during training earlier this week. He was named...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-first-odi-vs-afghanistan-in-dharamsala-2026-06-13-1044732",
+    "time": "2026-06-13T12:16:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Virat Kohli not playing first ODI vs Afghanistan at HPCA Stadium in Dharamsala?",
+    "desc": "India are without senior batter Virat Kohli against Afghanistan at the Himachal Pradesh Cricket Association Stadium in Dharamsala. The 37-year-old has been ruled out with a hamstring injury he suffered during the IPL 2026. His absence...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-virat-kohli-not-playing-first-odi-vs-afghanistan-at-hpca-stadium-in-dharamsala-2026-06-13-1044729",
+    "time": "2026-06-13T11:59:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Lose to anyone but Pakistan'- Jemimah Rodrigues reflects on pressure ahead of T20 World Cup opener",
+    "desc": "India batter Jemimah Rodrigues has highlighted the heightened emotions surrounding the India-Pakistan rivalry ahead of their Women’s T20 World Cup 2026 opener in Birmingham on Sunday. The youngster also addressed the external pressure that comes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lose-to-anyone-but-pakistan-jemimah-rodrigues-reflects-on-pressure-ahead-of-t20-world-cup-opener-2026-06-13-1044721",
+    "time": "2026-06-13T11:08:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bangladesh cricketer registers complaint for physical assault by Chattogram police officials",
     "desc": "Bangladesh cricket has been shaken by allegations made by spinner Nayeem Hasan, who has accused police officers in Chattogram of assaulting him during an incident late on Friday night, prompting an official demand for a...",
     "img": "",
@@ -19,7 +55,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Cut-off time announced for 20-over game",
+    "title": "Rahmanullah Gurbaz smacks 48-ball century in Dharamsala",
     "desc": "India's preparations for the next ODI World Cup enter a significant phase as they take on Afghanistan in a three-match series. The first of the ODIs is being played in Dharamsala. Meanwhile, the series arrives...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/manu-bhaker-pays-tribute-to-coach-jaspal-rana-shooting-range-will-never-feel-the-same-2026-06-12-1044669",
     "time": "2026-06-12T18:27:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nat Sciver-Brunt to play as pure batter as England kick Women's T20 World Cup against Sri Lanka; check reason",
-    "desc": "In a major development, England women's cricket team captain Nat Sciver-Brunt will be playing purely as a batter in the first few matches of the Women's T20 World Cup 2026 as her team kicks off...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-to-play-as-pure-batter-as-england-kick-womens-t20-world-cup-against-sri-lanka-check-reason-2026-06-12-1044667",
-    "time": "2026-06-12T17:53:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Coach speaks on star batter's fresh fitness concerns ahead of Afghanistan ODIs",
-    "desc": "Rohit Sharma is gearing up for the ODI series against Afghanistan as he returns after a recent hamstring injury. Rohit was sidelined for some matches in the Indian Premier League 2026 after picking up a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-coach-speaks-on-star-batters-fresh-fitness-concerns-ahead-of-afghanistan-odis-2026-06-12-1044664",
-    "time": "2026-06-12T17:21:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who all will be performing at the Toronto Stadium?",
-    "desc": "The FIFA World Cup 2026 enters its second day after a gripping opening day in Mexico. Co-hosts Mexico started with a win over South Africa by 2-0, while South Korea defeated Czech Republic in a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-canada-opening-ceremony-who-all-will-be-performing-at-the-toronto-stadium-2026-06-12-1044660",
-    "time": "2026-06-12T15:51:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Women's T20 World Cup 2026 live streaming: When and where to watch showpiece in India?",
-    "desc": "The Women's T20 World Cup 2026 is set to kick off in a few hours from now, as 12 teams will vie for the coveted showpiece. The tournament has been expanded to include 12 teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/womens-t20-world-cup-2026-live-streaming-when-and-where-to-watch-showpiece-in-india-2026-06-12-1044654",
-    "time": "2026-06-12T15:11:20.000Z"
   }
 ];
