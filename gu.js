@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ફુટબોલ World Cup નો તે &amp;#039;ખૂની ગોલ&amp;#039;... એક ભૂલની સજા &amp;#039;મોત&amp;#039;, આ કહાની તમારૂ દિલ તોડી દેશે",
+    "desc": "દુનિયાભરમાં ફુટબોલ વિશ્વકપની ચર્ચા થઈ રહી છે. આ વખતે ફુટબોલના મહાકુંભમાં 48 ટીમો મેદાનમાં ઉતરી છે. આ વિશ્વકપનો ઈતિહાસ શાનદાર અને રોમાંચક રહ્યો છે. તેમાં કેટલાક કાળા અધ્યાય પણ જોડાયેલા છે. આજે અમે તમને ફુટબોલ વર્લ્ડ કપની એક ખતરનાક કહાની વિશે જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/the-murderous-own-goal-when-a-world-cup-error-cost-andres-escobar-his-life-481471 ",
+    "time": "2026-06-14T07:45:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મુસાફરો માટે રેલવેની મોટી રાહત: ટ્રેનમાં રિઝર્વેશન મળ્યું નહીં હોય તો પણ હવે મળી શકે છે કન્ફર્મ ટિકિટ!",
+    "desc": "વેઈટિંગમાં અટવાયેલા મુસાફરો માટે આંશિક રાહત આપવામાં આવી છે. કન્ફર્મ ટિકિટ ન મળી હોય તો પણ ટ્રેનમાં સીટ મેળવવાનો સ્માર્ટ રસ્તો મળી ગયો છે. હવેથી ટ્રેનમાં રિઝર્વેશન મળ્યું નહીં હોય તો પણ કન્ફર્મ ટિકિટ મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/even-if-you-dont-have-a-reservation-for-the-train-you-can-now-get-a-confirmed-ticket-481470 ",
+    "time": "2026-06-14T07:33:23.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "35 KM માઇલેજ, સનરૂફ અને છ એરબેગ! માર્કેટમાં ધમાકો કરવા આવી રહી છે આ હાઇબ્રિડ SUV, જાણો શરૂઆતી કિંમત",
+    "desc": "પેટ્રોલની વધી રહેલી કિંમતો વચ્ચે હાઇબ્રિડ કારો ભારતીય ગ્રાહકોની પહેલી પસંદ બની રહી છે. આવનાર મહિનામાં Renault Duster Hybrid, Nissan Tekton Hybrid અને Maruti Suzuki Fronx Hybrid બજારમાં એન્ટ્રી કરશે. તેમાં દમદાર માઇલેજ, એડવાન્સ ફીચર્સ અને ઓછા રનિંગ કોસ્ટનું શાનદાર કોમ્બિનેશન મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/upcoming-hybrid-cars-in-india-duster-hybrid-nissan-tekton-hybrid-and-maruti-suzuki-fronx-hybrid-481461 ",
+    "time": "2026-06-14T06:04:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "6 વર્ષે પણ સુશાંત સિંહ રાજપૂતના મોતની પહેલી વણઉકેલાયેલી, બહેન શ્વેતાએ શેર કરી ઈમોશનલ પોસ્ટ",
+    "desc": "એક્ટર સુશાંત સિંહ રાજપૂતના મોતને 6 વર્ષ થઈ ચુક્યા છે. તેમ છતાં આ એક્ટરને તેના પરિવારના લોકો અને તેના ચાહકો ભુલી શક્યા નથી. સુશાંત સિંહ રાજપૂતની છઠ્ઠી ડેથ એનિવર્સરી પર તેની બહેને ઈમોશન પોસ્ટ શેર કરી એક્ટરની યાદોને તાજી કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/sushant-singh-rajput-death-anniversary-what-happen-on-14-june-sushant-singh-rajput-death-case-mystery-481445 ",
+    "time": "2026-06-14T05:14:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગોવા કરતાં નાનો દેશ અને માત્ર 1.55 લાખની વસ્તી, આજે પહેલીવાર ફૂટબોલ મહાકુંભમાં મચાવશે ધમાલ!",
+    "desc": "FIFA World Cup 2026 માં આજે કુરાકાઓ નામનો એક નાનો દેશ પ્રથમવાર દુનિયાની આ સૌથી મોટી ઈવેન્ટમાં રમશે. FIFA વિશ્વકપ 2026 માં આજે ચાર વખતની વર્લ્ડ ચેમ્પિયન જર્મનીનો મુકાબલો પ્રથમવાર વિશ્વકપમાં રમી રહેલી કુરાકાઓ ટીમ સાથે થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-2026-nation-smaller-than-goa-all-set-for-historic-world-cup-debut-today-481440 ",
+    "time": "2026-06-14T04:18:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "PM મોદી અને US રાષ્ટ્રપતિ ટ્રમ્પની ફ્રાન્સમાં થશે મુલાકાત, 16 મહિના પછી મળશે &amp;#039;મિત્રો&amp;#039;",
     "desc": "ફ્રાન્સમાં G7 સમિટ દરમિયાન વડા પ્રધાન નરેન્દ્ર મોદી અને અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ મળશે. અમેરિકન અધિકારીઓએ આ મુલાકાતની પુષ્ટિ કરી છે. 16 મહિના પછી બંને નેતાઓ વચ્ચે આ પહેલી મુલાકાત હશે. છેલ્લી મુલાકાત 13 ફેબ્રુઆરી, 2025ના રોજ થઈ હતી.",
@@ -342,15 +387,6 @@ const newsData_gu = [
     "time": "2026-06-12T02:43:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ICC વર્લ્ડ કપ 2027ની તારીખો જાહેર! 4 ઓક્ટોબરથી જામશે ક્રિકેટનો રોમાંચ, જાણો ક્યારે અને ક્યાં રમાશે ફાઇનલ?",
-    "desc": "આવતા વર્ષે સાઉથ આફ્રિકા, ઝિમ્બાબ્વે અને નામિબિયામાં યોજાનાર વર્લ્ડ કપને લઈને એક મોટું અપડેટ સામે આવ્યું છે. ESPN Cricinfoના રિપોર્ટ અનુસાર, ICC મેન્સ ODI વર્લ્ડ કપ 2027 કામચલાઉ રીતે 4 ઓક્ટોબરથી 21 નવેમ્બર વચ્ચે રમાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-world-cup-2027-dates-announced-the-thrill-of-cricket-will-begin-from-october-4-know-when-and-where-the-final-will-be-played-481193 ",
-    "time": "2026-06-11T14:46:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "જાણો વેલકમ ટુ ધ જંગલ ફિલ્મમાં કેટલા સ્ટાર્સે કર્યું કામ અને ફિલ્મનું બજેટ કેટલા કરોડનું ?",
     "desc": "અક્ષય કુમાર સહિતના સ્ટાર્સની બિગ બજેટ ફિલ્મ વેલકમ ટુ ધ જંગલ ફિલ્મનું ટ્રેલર 11 જૂને રિલીઝ કરવામાં આવ્યું છે અને સાથે જ ફિલ્મમાં કેટલા કલાકારોએ કામ કર્યું છે તે પણ સામે આવી ગયું છે. આ ફિલ્મનું બજેટ અને કલાકારોનું લિસ્ટ ચેક કરીને તમને આંચકો લાગી શકે છે.",
@@ -396,15 +432,6 @@ const newsData_gu = [
     "time": "2026-06-11T08:28:08.000Z"
   },
   {
-    "cat": "Business",
-    "title": "48 કલાકમાં સોનાના ભાવમાં 7000 અને ચાંદીમાં 12000નો મોટો ઘટાડો, ભાવ ઘટીને કેટલે પહોંચ્યા? જાણો આજનો રેટ",
-    "desc": "સોનાના ભાવમાં જોરદાર કડાકો જોવા મળ્યો છે. આજે ફરીથી વાયદા બજાર અને રિટેલ બજારમાં ભાવ ગગડ્યા છે. અચાનક એવું તે શું થયું કે ભાવમાં ઘટાડો જોવા મળી રહ્યો છે. ખાસ જાણો કારણ અને આજનો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-drops-by-rs-7000-and-silver-12000-in-48-hours-as-per-ibja-aaj-no-sona-chandi-no-bhav-481147 ",
-    "time": "2026-06-11T07:46:00.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "સેફ્ટીમાં ફેલ થઈ આ કોમ્પેક્ટ ફેમિલી કાર, Global NCAP ટેસ્ટમાં મળ્યો માત્ર 1 સ્ટાર",
     "desc": "ભારતમાં બનતી Kia Sonet ને Global NCAP ક્રેશ ટેસ્ટમાં માત્ર 1 સ્ટાર સેફ્ટી રેટિંગ મળ્યું છે. રિપોર્ટ સામે આવ્યા બાદ ઘણા લોકોના મનમાં સવાલ ઉઠી રહ્યો છે કે શું ભારતમાં વેચાતી Sonet કેટલી સુરક્ષિત છે?",
@@ -421,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/iran-us-war-closure-of-strait-of-hormuz-may-increase-the-prices-of-these-items-in-india-481135 ",
     "time": "2026-06-11T06:33:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ક્રૂડ ઓઇલના ભાવમાં ભડકો... શું પેટ્રોલ-ડીઝલના ભાવ પણ વધી ગયા ? જાણો તમારા શહેરના આજના ભાવ",
-    "desc": "આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલના ભાવમાં 2 ટકાથી વધુનો વધારો થયો છે. પરિણામે ભારતીય ઓઈલ કંપનીઓ તેમના માર્જિન પર નોંધપાત્ર દબાણનો સામનો કરી રહી છે. ત્યારે તમારા શહેરમાં પેટ્રોલ અને ડીઝલના આજના ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-crude-oil-price-hike-due-to-america-iran-tension-481122 ",
-    "time": "2026-06-11T05:32:19.000Z"
   },
   {
     "cat": "Politics",
@@ -450,15 +468,6 @@ const newsData_gu = [
     "time": "2026-06-11T03:20:12.000Z"
   },
   {
-    "cat": "Business",
-    "title": "8મા પગાર પંચની રાહ વચ્ચે કેન્દ્રીય કર્મચારીઓને DA પર મળશે મોટી ખુશખબર! જાણો કેટલું વધશે મોંઘવારી ભથ્થું?",
-    "desc": "8મા પગાર પંચને લઈને છેલ્લા ઘણા સમયથી કર્મચારીઓ વચ્ચે ભારે ઉત્સુકતા અને ચર્ચા ચાલી રહી છે. આ દરમિયાન હવે એવા સમાચાર આવ્યા છે કે, ટૂંક સમયમાં જ કર્મચારીઓને DA (મોંઘવારી ભથ્થા)નો લાભ મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/amidst-the-wait-for-the-8th-pay-commission-central-employees-will-get-big-good-news-on-da-know-how-much-the-dearness-allowance-will-increase-481084 ",
-    "time": "2026-06-10T15:31:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "યૂસુફ પઠાણ, શત્રુઘ્ન સિન્હાથી લઈને સાયોની સુધી... TMCના બળવાખોર 19 સાંસદોનું લિસ્ટ",
     "desc": "ટીએમસીમાં ચાલી રહેલા વિવાદ વચ્ચે એક લિસ્ટ સામે આવ્યું છે, જેમાં પાર્ટીના બધા બળવાખોર સાંસદોના નામ છે. 19 સાંસદોના લિસ્ટમાં સૌથી ચોંકાવનારૂ નામ શત્રુઘ્ન સિન્હાનું છે. આ સિવાય સાયોની ઘોષ, પૂર્વ ક્રિકેટર યૂસુફ પઠાણના નામ પણ લોકોને ચોંકાવી રહ્યાં છે.",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/from-yusuf-pathan-shatrughan-sinha-to-sayoni-list-of-19-rebel-mps-of-tmc-481079 ",
     "time": "2026-06-10T13:18:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પપ્પા દારૂ પીને મરી ગયા&amp;#039;ને, મમ્મી ના પાડતી હતી... ફોટો જોઈને વઢતી દીકરી, કાળજું કઠણ હોય તો જ જોજો Video",
-    "desc": "સોશિયલ મીડિયા પર એક માસૂમ બાળકીનો ભાવુક વીડિયો વાયરલ થઈ રહ્યો છે, જે પોતાના સ્વર્ગસ્થ પિતાની તસવીર જોઈને દારૂ પીવા બદલ તેમને વઢી રહી છે. દિલ જીતી લેનારા આ વીડિયો અને લોકોના રિએક્શન અહીં જુઓ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/emotional-viral-video-of-daughter-crying-over-fathers-photo-on-alcohol-addiction-481064 ",
-    "time": "2026-06-10T09:33:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -655,23 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/couple-friendly-hindi-web-series-on-netflix-and-prime-video-5-hindi-must-watch-web-series-for-couple-480575 ",
     "time": "2026-06-06T08:30:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બંદરને પાછળ છોડી આગળ નીકળી હૈ જવાની તો ઈશ્ક હોના હૈ મૂવી, IMDb પર મળ્યું હાઈ રેટિંગ",
-    "desc": "5 જૂને બોક્સ ઓફિસ પર એક સાથે 2 બોલીવુડ ફિલ્મો રિલીઝ થઈ છે. એક છે વરુણ ધવનની ફિલ્મ હૈ જવાની તો ઈશ્ક હોના હૈ અને બીજી છે બોબી દેઓલની ફિલ્મ બંદર. આ બંને ફિલ્મો બોક્સ ઓફિસ પર કેવું પરફોમ કરી રહી છે અને લોકોને આ ફિલ્મ કેવી લાગી ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/box-office-collection-bandar-vs-hai-jawani-toh-ishq-hona-hai-varun-dhawan-movie-hjtihh-imdb-rating-480571 ",
-    "time": "2026-06-06T07:47:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સેફ્ટીમાં Tiago, માઇલેજમાં Celerio! ₹5 લાખના બજેટમાં કઈ કાર લેવી? ખરીદતા પહેલા જાણો",
-    "desc": "નવી 2026 Tata Tiago ના લોન્ચ બાદ એન્ટ્રી-લેવલ હેચબેક સેગમેન્ટમાં મુકાબલો રસપ્રદ બની ગયો છે. એક તરફ ટિયાગો છે, જે 4-સ્ટાર સેફ્ટી, પ્રીમિયમ ફીચર્સ અને દમદાર લુકની સાથે આવે છે, તો બીજીતરફ Maruti Celerio છે, જે પોતાના શાનદાર માઇલેજ અને ઓછા રનિંગ કોસ્ટ માટે જાણીતી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/tata-tiago-vs-maruti-celerio-which-car-is-good-in-a-budget-of-five-lakhs-know-the-features-mileage-and-safety-480555 ",
-    "time": "2026-06-06T06:05:09.000Z"
   }
 ];

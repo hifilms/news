@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "অবেশেষে জানা গেল কবে কোথায় খামেইনির অন্ত্যেষ্টি; কখন দাফন? কিংবদন্তির শেষযাত্রা",
+    "desc": "ইসরাইল ও মার্কিন যুক্তরাষ্ট্রের যৌথ হামলায় নিহত ইরানের প্রাক্তন সর্বোচ্চ নেতা আয়াতুল্লাহ আলি খামেইনির শেষবিদায়ের দিন নির্ধারিত হল। তাঁর জানাজা ও দাফনকে কেন্দ্র করে বারবার বিভিন্ন সময়ে একাধিক কর্মসূচি ঘোষণা করেছে ইরান। এবার নির্দিষ্ট দিনতারিখ জানা গেল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/khamenei-funeral-news-iran-announces-khamenei-funeral-burial-dates-late-supreme-leader-khamenei-imam-shrine-in-mashhad_658210.html ",
+    "time": "2026-06-14T08:09:55.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "চাষীদের জন্য বড় খবর, পিএম কিষাণের পরবর্তী কিস্তি ও নতুন ডেডলাইন ঘোষণা!",
     "desc": "প্রধানমন্ত্রী কিষাণ সম্মান নিধি যোজনার উপভোক্তা চাষীদের জন্য জোড়া আপডেট সামনে এসেছে। আগামী ১৮ জুন চাষীদের ব্যাঙ্ক অ্যাকাউন্টে পরবর্তী কিস্তির ২,০০০ টাকা সরাসরি জমা হতে পারে। তবে এই আর্থিক সুবিধা বজায় রাখতে আগামী ৩০ জুনের মধ্যে বাধ্যতামূলকভাবে অ্যাকাউন্টের eKYC এবং ব্যাঙ্কের সঙ্গে আধার লিঙ্ক সম্পন্ন করতে হবে।",
@@ -115,15 +124,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/satabdi-roy-big-emotional-message-to-didi-mamata-banerjee-amid-tmc-split-after-tmc-loose-in-election_657685.html ",
     "time": "2026-06-11T05:41:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "শুভেন্দুর শরণাপন্ন অভিষেক-ঘনিষ্ঠ সায়নী, ভূপেন্দ্র যাদবের বাড়িতে শুরু রুদ্ধদ্বার মেগা বৈঠক, দলবদলের জল্পনা তীব্র!",
-    "desc": "এনডিএ’র শরিক হতে চেয়ে সুর বদল যাদবপুরের তৃণমূল সাংসদ সায়নী ঘোষেরও! সূত্রের খবর, ‘বিদ্রোহী ব্লকে’ নাম লেখাচ্ছেন অভিষেক বন্দ্যোপাধ্যায়ের বিশ্বস্ত সেনাপতিও। তাৎপর্যপূর্ণ বিষয় হল, সদ্য মমতা বন্দ্য়োপাধ্যায় যে দলীয় কমিটি ঘোষণা করেছিলেন তাতে যুব তৃণমূল কংগ্রেসের সভানেত্রীর পদ পেয়েছিলেন এই সায়নীই।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/abhishek-aide-saayoni-ghosh-seeks-suvendus-help-high-voltage-closed-door-meeting-begins-at-bhupender-yadavs-residence_657651.html ",
-    "time": "2026-06-10T17:13:58.000Z"
   },
   {
     "cat": "Sports",
@@ -295,59 +295,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/30-indians-caught-driving-trucks-illegally-in-us-face-deportation_656296.html ",
     "time": "2026-06-02T11:34:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "জুলাই বিক্ষোভে নিহত '১৪০০'! রাষ্ট্রসংঘের রিপোর্টের পাল্টা কড়া তথ্যপ্রমাণ পেশ হাসিনার আইনি পরামর্শদাতার, সপাটে চিঠিও",
-    "desc": "চিঠিতে বলা হয়েছে যে, রিপোর্টে আন্দোলন চলাকালীন ১,৪০০ জন প্রতিবাদকারী নিহত হওয়ার যে দাবি করা হয়েছে, তা ভুল। এই দাবির প্রেক্ষিতে সরকারি গেজেট ও অন্যান্য রিপোর্টের মধ্যে পরিসংখ্যানগত বৈসাদৃশ্যকে তুলে ধরা হয়েছে। রিপোর্টে উল্লেখ ১,৪০০ জন নিহতের সংখ্যা প্রত্যাহার ও সংশোধনের জোরালো দাবি জানানো হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/bangladesh-exclusive-sheikh-hasina-legal-advisor-challenging-united-nations-human-rights-council-report-on-2024-july-unrest-death-toll-1400-with-evidence_655845.html ",
-    "time": "2026-05-29T10:49:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
   }
 ];
