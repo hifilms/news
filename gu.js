@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "મમતા બેનર્જીના 22 બળવાખોર સાંસદો NCPમાં જોડાયા, કહ્યું: કોર્ટે નક્કી કરશે કોણ છે અસલી TMC",
+    "desc": "મમતા બેનર્જી સામે બળવો કરીને નવો જૂથ બનાવનારા બાવીસ ટીએમસી સાંસદો નેશનાલિસ્ટ સિટીઝન્સ પાર્ટી (NCP)માં જોડાયા છે. સુદીપ બંદોપાધ્યાયે જણાવ્યું હતું કે તેઓ નેશનાલિસ્ટ સિટીઝન્સ પાર્ટીમાં જોડાયા છે. કોર્ટ નક્કી કરશે કે વાસ્તવિક ટીએમસી કોણ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mamata-banerjees-22-rebel-mps-join-ncp-said-court-will-decide-who-is-the-real-tmc-481519 ",
+    "time": "2026-06-14T16:08:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રૂવાડા ઉભા કરી દેનારી ઘટના: આગની ખોટી અફવાને કારણે ટ્રેનમાંથી નીચે કૂદેલા મુસાફરોને બીજી ટ્રેને કચડ્યા, મચી ચીસાચીસ",
+    "desc": "એક દુ:ખદ ટ્રેન અકસ્માત થયો છે. પાટાલકોટ એક્સપ્રેસની ટક્કરથી ચારથી વધુ લોકોના મોત થયા છે. એવું કહેવામાં આવી રહ્યું છે કે ઇન્ટરસિટી ટ્રેનમાંથી ઉતરી રહેલા મુસાફરો, એક અફવાને કારણે, સામેના ટ્રેક પર ઉતરી ગયા, જ્યાં આ અકસ્માત થયો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/major-accident-passengers-jumped-from-the-train-due-to-rumours-of-fire-several-people-died-after-being-hit-by-another-train-481517 ",
+    "time": "2026-06-14T14:19:58.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Peko અને Kalp વચ્ચે વ્યૂહાત્મક ભાગીદારી, SME અર્થતંત્ર માટે બનશે આગામી પેઢીનું ડિજિટલ ઇન્ફ્રાસ્ટ્રક્ચર",
     "desc": "Peko અને Kalp વચ્ચે થયેલા વ્યૂહાત્મક સહયોગ હેઠળ SME ક્ષેત્ર માટે આગામી પેઢીનું ડિજિટલ ઇન્ફ્રાસ્ટ્રક્ચર વિકસાવવામાં આવશે. આ ભાગીદારી દ્વારા Pekoના સુપર-પ્લેટફોર્મમાં ડિસ્ટ્રિબ્યુટેડ લેજર, પ્રોગ્રામેબલ ડિજિટલ કેશ, ડિજિટલ એસેટ્સ, ટોકનાઇઝેશન અને એજેન્ટિક કોમર્સ જેવી અદ્યતન ટેક્નોલોજીનો સમાવેશ થશે, જે બેંકો, ફ્રી ઝોન, સરકારો અને ઉદ્યોગોને નવી ડિજિટલ ક્ષમતાઓ પૂરી પાડશે.",
@@ -484,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/tensions-in-the-middle-east-in-response-to-the-us-attack-iran-launched-attacks-in-bahrain-and-kuwait-481116 ",
     "time": "2026-06-11T03:20:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "યૂસુફ પઠાણ, શત્રુઘ્ન સિન્હાથી લઈને સાયોની સુધી... TMCના બળવાખોર 19 સાંસદોનું લિસ્ટ",
-    "desc": "ટીએમસીમાં ચાલી રહેલા વિવાદ વચ્ચે એક લિસ્ટ સામે આવ્યું છે, જેમાં પાર્ટીના બધા બળવાખોર સાંસદોના નામ છે. 19 સાંસદોના લિસ્ટમાં સૌથી ચોંકાવનારૂ નામ શત્રુઘ્ન સિન્હાનું છે. આ સિવાય સાયોની ઘોષ, પૂર્વ ક્રિકેટર યૂસુફ પઠાણના નામ પણ લોકોને ચોંકાવી રહ્યાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/from-yusuf-pathan-shatrughan-sinha-to-sayoni-list-of-19-rebel-mps-of-tmc-481079 ",
-    "time": "2026-06-10T13:18:31.000Z"
   },
   {
     "cat": "Entertainment",

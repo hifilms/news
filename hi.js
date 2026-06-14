@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Smriti Mandhana equals Mithali Raj, Harmanpreet Kaur in elite list with brilliant knock against Pakistan women",
+    "desc": "India women kicked off their T20 World Cup 2026 campaign by taking on Pakistan. The two sides met at Edgbaston in Birmingham on June 14th, and the game began with India coming in to bat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-equals-mithali-raj-harmanpreet-kaur-in-elite-list-with-brilliant-knock-against-pakistan-women-2026-06-14-1044830",
+    "time": "2026-06-14T15:36:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur overtakes Rohit Sharma, achieves huge feat during clash against Pakistan",
+    "desc": "India women kicked off their Women’s T20 World Cup 2026 campaign by taking on Pakistan women. The two sides met at Edgbaston in Birmingham on June 14th, and the game began with India coming in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-overtakes-rohit-sharma-achieves-huge-feat-during-clash-against-pakistan-2026-06-14-1044827",
+    "time": "2026-06-14T14:26:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur breaks Mithali Raj's elite record during India vs Pakistan in T20 World Cup 2026",
+    "desc": "India captain Harmanpreet Kaur became the leading run-scorer for India in Women's T20 World Cup history during the team's clash against Pakistan at Edgbaston. Harmanpreet went past the previous record held by Mithali Raj, who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-breaks-mithali-raj-s-elite-record-during-india-vs-pakistan-in-t20-world-cup-2026-2026-06-14-1044824",
+    "time": "2026-06-14T14:18:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Yastika Bhatia not playing vs Pakistan in T20 World Cup 2026 clash in Edgbaston?",
     "desc": "India have dropped Yastika Bhatia from their playing XI against Pakistan in their T20 World Cup 2026 opener against arch-rivals Pakistan. Explaining the reason behind the move, captain Harmanpreet Kaur stated that the team management...",
     "img": "",
@@ -10,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND-W vs PAK-W, Women's T20 World Cup LIVE score: Shafali, Jemimah departs early, India in trouble",
+    "title": "IND-W vs PAK-W, Women's T20 World Cup LIVE score: India look for wickets, Pakistan aim for stability",
     "desc": "Game 6 of the ongoing Women's T20 World Cup 2026 sees India women taking on Pakistan women. The two sides meet at Edgbaston in Birmingham; it is worth noting that this will be the first...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nitish-kumar-reddy-pauses-press-conference-for-call-with-mother-video-goes-viral-watch-2026-06-14-1044794",
     "time": "2026-06-14T07:49:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian-origin player makes FIFA World Cup debut as Australia stun Turkiye in Vancouver",
-    "desc": "Nishan Velupillay, an Australian footballer of Indian heritage, stepped onto the field for his FIFA World Cup debut on Sunday, June 14, 2026. It happened as Australia opened their Group D campaign with a 2-0...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/indian-origin-player-makes-fifa-world-cup-debut-as-australia-stun-turkiye-in-vancouver-2026-06-14-1044789",
-    "time": "2026-06-14T07:22:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND-W vs PAK-W Pitch Report: How will the surface at Edgbaston in Birmingham fare for Women's T20 WC game 6?",
-    "desc": "The stage is set for the Women’s T20 World Cup clash between India women and Pakistan women. The two sides will meet in game 6 of the tournament at Edgbaston in Birmingham on June 14....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-pak-w-pitch-report-how-will-the-surface-at-edgbaston-in-birmingham-fare-for-women-s-t20-wc-game-6-2026-06-14-1044764",
-    "time": "2026-06-14T00:17:15.000Z"
   }
 ];
