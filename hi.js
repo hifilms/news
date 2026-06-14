@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Germany decimate Curacao to kick off FIFA World Cup campaign, register 7-1 victory",
+    "desc": "Germany kicked off their FIFA World Cup 2062 campaign by taking on Curacao. The two sides met at the Houston Stadium in Houston on June 14th, and while many anticipated Germany to register a dominant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/germany-decimate-curacao-to-kick-off-fifa-world-cup-campaign-register-7-1-victory-2026-06-15-1044845",
+    "time": "2026-06-14T21:15:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur opens up after India defeat Pakistan to kick off Women's T20 World Cup campaign",
+    "desc": "The Indian team performed brilliantly against Pakistan to kick off their Women’s T20 World Cup 2026 campaign. The two sides met at Edgbaston in Birmingham for the clash, and the Women in Blue managed to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-opens-up-after-india-defeat-pakistan-to-kick-off-women-s-t20-world-cup-campaign-2026-06-15-1044844",
+    "time": "2026-06-14T20:11:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Deepti Sharma achieves huge feat after exceptional performance against Pakistan women in Birmingham",
     "desc": "India women got off to a brilliant start to their Women’s T20 World Cup 2026 campaign. The side took on Pakistan women at Edgbaston in Birmingham on June 14th, and the game saw India coming...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-yastika-bhatia-not-playing-vs-pakistan-in-t20-world-cup-2026-clash-in-edgbaston-2026-06-14-1044820",
     "time": "2026-06-14T13:25:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND-W vs PAK-W, Women's T20 World Cup Highlights: India defeat Pakistan by 64 runs",
-    "desc": "Game 6 of the ongoing Women's T20 World Cup 2026 sees India women taking on Pakistan women. The two sides meet at Edgbaston in Birmingham; it is worth noting that this will be the first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-pak-w-women-s-t20-world-cup-live-score-india-women-aim-to-get-off-to-stellar-start-1044817",
-    "time": "2026-06-14T13:02:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Portugal set to pay tribute to late Diogo Jota during FIFA World Cup 2026, here's how",
-    "desc": "Portugal will enter the FIFA World Cup 2026 carrying a symbolic tribute to former forward Diogo Jota, with midfielder Vitinha confirming that the squad will wear commemorative wristbands throughout the tournament ahead of their Group...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/portugal-set-to-pay-tribute-to-late-diogo-jota-during-fifa-world-cup-2026-here-s-how-2026-06-14-1044808",
-    "time": "2026-06-14T11:16:33.000Z"
   }
 ];

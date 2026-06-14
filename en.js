@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Oliver Tree passes away at 32 in helicopter collision",
+    "desc": "American singer Oliver Tree, 32, tragically died in a midair helicopter collision over Rio de Janeiro. The crash, involving two aircraft, claimed all six lives aboard. Tree was reportedly traveling as part of his South American tour. Authorities are investigating the devastating incident that also caused a fire at a car dealership.",
+    "img": "https://static.toiimg.com/photo/msid-131728801,imgsize-100460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oliver-tree-among-six-dead-in-tragic-helicopter-collision-in-rio-de-janeiro-singers-final-video-goes-viral-watch/articleshow/131728765.cms",
+    "time": "2026-06-14T21:20:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Buzz of early poll in Punjab, parties start preparations",
+    "desc": "The AICC’s decision to constitute a committee under Ajay Maken late Thursday night for a report on the Punjab Congress unit is said to be dictated by urgency for quick changes in the state organisation as needed. AAP is preparing for a scenario of Nov polls, and BJP is also active on Punjab front. Further, there is speculation in Congress whether Uttarakhand polls will also be brought forward.",
+    "img": "https://static.toiimg.com/photo/msid-131728784,imgsize-110018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/buzz-of-early-poll-in-punjab-parties-start-preparations/articleshow/131728783.cms",
+    "time": "2026-06-14T21:06:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With farmers' income in focus, Bihar govt moves to boost fisheries",
+    "desc": "The foundation stones will be laid by minister for fisheries and animal husbandry Rajiv Ranjan Singh and Bihar CM Samrat Choudhary. The aqua park will include carp and catfish hatcheries, Brooder incubation units, biofloc systems, a fish feed mill, water quality and disease diagnostic laboratories, involving a total investment of more than Rs 31 crore.",
+    "img": "https://static.toiimg.com/photo/msid-131728774,imgsize-209224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-moves-to-boost-fisheries-in-bihar/articleshow/131728773.cms",
+    "time": "2026-06-14T20:58:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modi tells India’s deep-tech story to the world, Macron backs him up",
+    "desc": "Before the cameras rolled at the conclave, the PM sat down with global venture capitalists and Indian entrepreneurs — OYO’s Ritesh Agarwal, Ronnie Screwvala and a clutch of international investors among them. Commerce minister Piyush Goyal and principal scientific adviser Ajay Kumar Sood were in the room. “India has emerged not as a consumer of solutions but as a contributor to solutions in the world.",
+    "img": "https://static.toiimg.com/photo/msid-131728771,imgsize-43956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/modi-tells-indias-deep-tech-story-to-the-world-macron-backs-him-up/articleshow/131728756.cms",
+    "time": "2026-06-14T20:54:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rescued 14 Indians from sinking dhow, says US",
+    "desc": "S Naval Forces Central Command/US 5th Fleet reposted a news report about the rescue operation that said “upon receiving a distress call from the stranded sailors, a US Navy P-8 aircraft reached the spot and dropped a search-and-rescue kit that included a life raft, which the 14 mariners boarded”. Official sources said that the US Navy had alerted the shore authorities and Indian Navy that a dhow with Indian sailors was sinking about 80 nautical miles east of Ras AI Hadd off the coast of Oman.",
+    "img": "https://static.toiimg.com/photo/msid-131728763,imgsize-41908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rescued-14-indians-from-sinking-dhow-says-us/articleshow/131728757.cms",
+    "time": "2026-06-14T20:48:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Sonam Kapoor justified calling 36-year old Aishwarya Rai 'aunty'",
+    "desc": "Sonam Kapoor's controversial 'aunty' comment about Aishwarya Rai in 2009 sparked debate, though Rai never publicly responded. Years later, Kapoor explained it was due to Rai's past work with her father. Lingering rumors of a feud were dispelled when Rai attended Kapoor's 2018 wedding.",
+    "img": "https://static.toiimg.com/photo/msid-131728747,imgsize-98818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sonam-kapoor-justified-calling-36-year-old-aishwarya-rai-aunty-she-has-worked-with-my-dad/articleshow/131728742.cms",
+    "time": "2026-06-14T20:43:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC rebels to merge with little-known regional party",
+    "desc": "In a dramatic development, 20 rebel Trinamool Congress MPs informed Lok Sabha Speaker Om Birla that their group has merged with NCPI — which is registered in West Bengal’s Howrah and had contested a few seats in the 2023 Tripura assembly elections — and that they will be backing the BJP-led NDA. Incidentally, “to save your rights, reject political turncoats” was one of the slogans of NCPI.",
+    "img": "https://static.toiimg.com/photo/msid-131728743,imgsize-141006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tmc-rebels-to-merge-with-little-known-regional-party/articleshow/131728732.cms",
+    "time": "2026-06-14T20:41:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2x trade in 5 years, nuclear cooperation: Modi-Macron Nice meet",
+    "desc": "Adoption of an innovation roadmap to deepen cooperation in critical and emerging technology, launch of an economic security dialogue, another working group for AI governance and a declaration to double bilateral trade in the next five years were among the 13 outcomes announced after the meeting. Both sides also looked to ramp up defence cooperation, consistent with India’s Make in India initiative.",
+    "img": "https://static.toiimg.com/photo/msid-131728737,imgsize-64902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2x-trade-in-5-years-nuclear-cooperation-modi-macron-nice-meet/articleshow/131728726.cms",
+    "time": "2026-06-14T20:37:48.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Abhishek Banerjee urges Lok Sabha speaker not to recognise rebel TMC bloc",
     "desc": "Ahead of TMC rebel MPs’ meeting the speaker to seek recognition as “real TMC”, MPs from party chief Mamata Banerjee’s camp Kirti Azad and Sagarika Ghosh submitted Abhishek’s letter — dated June 10, sent through email earlier — at Birla’s residence here, arguing the Constitution does not permit formation of a separate group within an existing political party.",
@@ -333,15 +405,6 @@ const newsData_en = [
     "time": "2026-06-14T12:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Can AI plan a cheaper vacation than a travel agent?",
-    "desc": "An experiment pitting AI against a seasoned travel agent for a Delhi-Manali trip revealed surprising similarities in itinerary planning. While AI excelled in speed and cost transparency, the human agent offered a concrete package, highlighting the irreplaceable value of on-ground execution and negotiation. Pricing emerged as a key differentiator, with the agent securing a lower cost.",
-    "img": "https://static.toiimg.com/photo/msid-131721067,imgsize-220768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beyond-headlines-can-ai-plan-a-cheaper-vacation-than-a-travel-agent/articleshow/131720509.cms",
-    "time": "2026-06-14T12:28:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ameesha Patel shares screenshots comparing 'Gadar' and 'Dhurandhar'",
     "desc": "Ameesha Patel, celebrating 'Gadar's 25th anniversary, highlighted the franchise's massive box-office footfalls, claiming it surpassed the 'Dhurandhar' films. She shared data indicating 'Gadar' and 'Gadar 2' attracted over 84 million viewers combined, a testament to the enduring love for her character Sakeena and the epic love story.",
@@ -367,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sometimes-ethnicity-can-work-in-your-favour-or-against-you-bharat-bhhagya-viddhaata-actor-girija-oak-on-how-looks-dictate-casting-in-bollywood/articleshow/131721210.cms",
     "time": "2026-06-14T12:21:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Punjab's anti-drug drive brings over 90,000 into treatment as govt pushes prevention and recovery",
-    "desc": "Since its inception in March 2025, Punjab's 'Yudh Nashean Virudh' campaign has seen an impressive wave of success, with more than 90,000 individuals benefiting from de-addiction and rehabilitation efforts. Combining rigorous strategies against drug traffickers with in-depth treatment and educational programs, this initiative is redefining recovery.",
-    "img": "https://static.toiimg.com/photo/msid-131721060,imgsize-22232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjabs-anti-drug-drive-brings-over-90000-into-treatment-as-govt-pushes-prevention-and-recovery/articleshow/131720955.cms",
-    "time": "2026-06-14T12:14:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Assaulted with belt, iron rod’: Dalit man beaten to death in UP's Lalitpur after refusing to massage feet; 3 arrested",
-    "desc": "A 33-year-old Dalit man was allegedly beaten to death in Uttar Pradesh after refusing to massage the feet of three men during a drunken gathering. The accused reportedly dumped his body on a road to stage a road accident. Police have arrested the trio and registered a murder case under the SC/ST Act.",
-    "img": "https://static.toiimg.com/photo/msid-131721015,imgsize-32048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assaulted-with-belt-iron-rod-dalit-man-beaten-to-death-in-ups-lalitpur-after-refusing-to-massage-feet-3-arrested/articleshow/131720883.cms",
-    "time": "2026-06-14T12:10:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +477,6 @@ const newsData_en = [
     "time": "2026-06-14T11:24:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nayanthara to join Raghava Lawrence starrer 'Kanchana 4'",
-    "desc": "Nayanthara is rumored to be joining Raghava Lawrence's 'Kanchana 4' for a pivotal flashback role, potentially alongside Pooja Hegde. The horror franchise, known for its commercial success, is building an impressive cast that also includes Nora Fatehi, Garuda Ram, and Anandaraj in negative roles. Fans eagerly await official confirmation of Nayanthara's involvement, which would significantly boost the film's anticipation.",
-    "img": "https://static.toiimg.com/photo/msid-131720025,imgsize-161666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nayanthara-rumored-to-play-the-flashback-lead-alongside-pooja-hegde-in-raghava-lawrences-horror-franchise-kanchana-4/articleshow/131720007.cms",
-    "time": "2026-06-14T11:18:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'All the hard work has finally paid off': Gurnoor's emotional reaction after India debut",
     "desc": "India secured a seven-wicket win against Afghanistan in the first ODI. Debutant Gurnoor Brar impressed with his fast bowling, taking three wickets. Captain Shubman Gill led the chase with an unbeaten 84. Rahmanullah Gurbaz scored a century for Afghanistan. The win gives India a 1-0 lead in the series.",
@@ -448,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/all-the-hard-work-has-finally-paid-off-gurnoor-brars-emotional-reaction-after-dream-india-debut/articleshow/131720008.cms",
     "time": "2026-06-14T11:16:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Maharashtra Home Department orders detailed probe into social media content of Pranit More",
-    "desc": "The Maharashtra Home Department has ordered a probe into all videos of stand-up comedian Pranit More after his show sparked a major controversy. The Maharashtra Cyber Police registered an FIR against Pranit More, Himanshu Jangra and Sejal Pawar. Both Jangra and Pawar faced serious consequences, with Jangra losing his job and Pawar being put on compulsory leave.",
-    "img": "https://static.toiimg.com/photo/msid-131720010,imgsize-22320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maharashtra-home-department-orders-detailed-probe-into-social-media-content-of-comedian-pranit-more-following-controversy/articleshow/131720010.cms",
-    "time": "2026-06-14T11:16:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -801,15 +828,6 @@ const newsData_en = [
     "time": "2026-06-13T05:11:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Jaspal Rana – a giant of Indian shooting who leaves behind a legacy",
-    "desc": "In 1994, he won the World Championship junior gold, apart from two gold medals, one silver and a bronze in the Commonwealth Games and one gold and as many bronze in the Asian Games in Hiroshima",
-    "img": "https://th-i.thgim.com/public/incoming/5gr8k4/article71094686.ece/alternates/LANDSCAPE_1200/IMG_TH08BHAKER_2_1_M9D5RU5D.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/jaspal-rana-a-giant-of-indian-shooting-who-leaves-behind-a-legacy/article71094700.ece",
-    "time": "2026-06-13T05:05:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ED arrests two former executives of Reliance Anil Ambani Group",
     "desc": "The ED has taken transit remand of Sateesh Seth and Gautam Doshi, both of whom previously served as directors of Reliance Telecom Ltd., and is taking them to Delhi as the case is registered in the national capital, they said.",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/travel/there-and-back-again-a-tolkien-fans-pilgrimage-to-hobbiton-new-zealand/article70915280.ece",
     "time": "2026-06-11T12:48:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Full performer lineup and halftime show details",
-    "desc": "The 2026 FIFA World Cup is set to make history with a series of vibrant opening ceremonies across three co-host countries, kicking off on June 11 in Mexico City with performances by Grammy-winning band Mana and renowned artists like Shakira and J. Balvin.",
-    "img": "https://th-i.thgim.com/public/incoming/5cz319/article71084494.ece/alternates/LANDSCAPE_1200/2026-05-18T111841Z_1819849289_RC2E1LAUZCS7_RTRMADP_3_SPAIN-COURT-SHAKIRA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-opening-ceremony-full-performer-lineup-halftime-show-details/article71084101.ece",
-    "time": "2026-06-11T09:17:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How are organisations reckoning their AI addiction",
-    "desc": "Agentic AI tools are becoming an infrastructure cost that scales with every autonomous decision an agent makes. And organisations that do not implement usage controls, token budgets, and honest ROI benchmarks are not adopting AI, but are funding it",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/c8bina/article71059520.ece/alternates/LANDSCAPE_1200/5ca9e2fa-b2e9-499e-8653-d3ed8a906832.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/how-are-organisations-reckoning-their-ai-addiction/article71059523.ece",
-    "time": "2026-06-11T08:48:08.000Z"
   }
 ];
