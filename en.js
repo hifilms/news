@@ -1,5 +1,266 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "SSR's death anniversary: Sister Shweta pens emotional tribute",
+    "desc": "On this poignant sixth anniversary of Sushant Singh Rajput's passing, Shweta Singh Kirti expressed her deep affection through a touching tribute. She celebrated his inquisitive spirit and unwavering kindness, emphasizing that the best way to remember him is by embodying his values. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131715047,imgsize-107150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sushant-singh-rajputs-sixth-death-anniversary-sister-shweta-singh-kriti-pens-emotional-tribute-some-souls-grow-larger-than-time/articleshow/131715030.cms",
+    "time": "2026-06-14T03:21:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anaswara Rajan joins 'Happy' celebrations",
+    "desc": "Allu Arjun's 'Happy' is back in Kerala theatres with a 4K remastered version, sparking a festive mood among fans nearly two decades after its original release. The romantic entertainer, instrumental in earning Arjun the 'Mallu Arjun' moniker, is enjoying immense popularity, with its re-release collecting significantly at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-131715039,imgsize-90558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anaswara-rajan-joins-happy-celebrations-allu-arjuns-romantic-entertainer-draws-huge-crowds-in-kerala/articleshow/131715027.cms",
+    "time": "2026-06-14T03:17:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No room for early slip-ups as India begin Women's T20 World Cup campaign vs Pakistan",
+    "desc": "India's T20 World Cup journey begins with a clash against Pakistan in Birmingham. Despite a strong historical record against their rivals, the Indian squad, captained by Harmanpreet Kaur, is emphasizing focus. Having had better preparation and recent wins, they know they can't underestimate Pakistan, even if the opposition isn't as ready.",
+    "img": "https://static.toiimg.com/photo/msid-131714968,imgsize-61238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/no-room-for-early-slip-ups-as-india-begin-womens-t20-world-cup-campaign-vs-pakistan/articleshow/131714968.cms",
+    "time": "2026-06-14T03:09:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'The presser can wait': Nitish Reddy pauses interaction to answer mom's call",
+    "desc": "India's victory over Afghanistan was marked by a heartwarming moment as Nitish Kumar Reddy paused his post-match press conference for a call from his mother. The young all-rounder's touching gesture resonated widely. On the field, debutants shone with the ball, while Shubman Gill's unbeaten 84 anchored India's chase to a seven-wicket win.",
+    "img": "https://static.toiimg.com/photo/msid-131715002,imgsize-57400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/the-presser-can-wait-nitish-reddy-pauses-media-interaction-to-answer-moms-call-after-indias-win-watch/articleshow/131714992.cms",
+    "time": "2026-06-14T03:07:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Macron talks, Trump meeting, G7 summit and tech ties: What's on PM Modi's Europe agenda",
+    "desc": "Prime Minister Narendra Modi commenced a European tour in Nice, France, focusing on high-stakes diplomacy and technology partnerships. The visit includes bilateral meetings with French President Macron, a state visit to Slovakia, and participation in the G7 Summit, where a meeting with US President Trump is anticipated. The tour concludes with an engagement at VivaTech in Paris.",
+    "img": "https://static.toiimg.com/photo/msid-131714975,imgsize-716485.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/macron-talks-trump-meeting-g7-summit-and-tech-ties-whats-on-pm-modis-europe-agenda/articleshow/131714963.cms",
+    "time": "2026-06-14T03:03:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA",
+    "desc": "The governing body of the ‘beautiful game’, long dogged by allegations of corruption and abuse of power, now faces criticism for its muted response to U.S. immigration authorities denying entry to fans, officials, and team personnel",
+    "img": "https://th-i.thgim.com/public/incoming/gb8wc1/article71098627.ece/alternates/LANDSCAPE_1200/2026-06-11T181633Z_837849217_UP1EM6B1ERJFT_RTRMADP_3_SOCCER-WORLDCUP-MEX-ZAF.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-profile-us-immigration-issues-corruption-allegations/article71098635.ece",
+    "time": "2026-06-14T02:52:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Molly-Mae Hague shares details of 'incredible' second birth",
+    "desc": "Love Island star Molly-Mae Hague and partner Tommy Fury have welcomed their second child, a baby son. Hague shared intimate birth details and photos on social media, expressing her joy. The couple, who met on the show and have navigated relationship ups and downs, are expanding their family. Hague continues to build her successful media and business empire.",
+    "img": "https://static.toiimg.com/photo/msid-131714762,imgsize-113484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/i-dont-think-ill-ever-get-over-this-day-molly-mae-hague-gets-candid-on-the-birth-of-her-second-child-with-tommy-fury-after-rekindled-romance/articleshow/131714747.cms",
+    "time": "2026-06-14T02:50:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Qatar secure historic first World Cup point with stoppage-time equaliser vs Swiss",
+    "desc": "Qatar secured their first-ever World Cup point with a dramatic 1-1 draw against Switzerland, thanks to a stoppage-time own goal. Despite Switzerland dominating and taking an early lead through a Breel Embolo penalty, Qatar's resilience paid off. The result marks a significant milestone for the Gulf nation, offering renewed belief after a disappointing previous campaign.",
+    "img": "https://static.toiimg.com/photo/msid-131714807,imgsize-304084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/qatar-vs-switzerland-fifa-world-cup-match-result-qatar-secure-historic-first-world-cup-point-with-stoppage-time-equaliser/articleshow/131714804.cms",
+    "time": "2026-06-14T02:39:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selena Gomez responds to Taylor Swift speculation",
+    "desc": "Selena Gomez clarified social media speculation that her recent NBA game post was a jab at friend Taylor Swift. Gomez explained her comment was a lighthearted reaction to friends betting on the game, not an insult. She emphasized her strong friendship with Swift, recently highlighted at Gomez's wedding celebrations.",
+    "img": "https://static.toiimg.com/photo/msid-131714770,imgsize-203234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-would-never-insult-my-friends-selena-gomez-responds-to-taylor-swift-speculation-after-viral-nba-post/articleshow/131714763.cms",
+    "time": "2026-06-14T02:34:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Yogi’s UP beats national violent-crime decline across 5 key categories",
+    "desc": "Uttar Pradesh shows a significant decline in key crime indicators like rioting and kidnapping between 2022-2024, outperforming national trends. While murder and attempt to murder also saw positive shifts, rape figures reveal a complex reality where offenders are often known to victims. This data provides the Yogi government with political leverage, though public perception of safety remains a crucial battleground.",
+    "img": "https://static.toiimg.com/photo/msid-131702108,imgsize-1333834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/yogis-up-beats-national-violent-crime-decline-across-5-key-categories/articleshow/131702021.cms",
+    "time": "2026-06-14T02:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hai Jawani Toh' BO day 9: Varun starrer surpasses Rs 60 cr",
+    "desc": "David Dhawan's comedy-drama 'Hai Jawani Toh Ishq Hona Hai', starring Varun Dhawan, Mrunal Thakur, and Pooja Hegde, continues its strong performance, crossing Rs 50 crore worldwide in its first week. The film saw a significant jump on its ninth day, pushing its India net collection to Rs 40.95 crore and worldwide gross to Rs 61.73 crore, despite facing stiff competition. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131714748,imgsize-148888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hai-jawani-toh-ishq-hona-hai-box-office-collection-day-9-varun-dhawan-starrer-surpasses-rs-60-crore-mark-globally/articleshow/131714725.cms",
+    "time": "2026-06-14T02:29:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Main Vaapas Aaunga' BO day 2: Diljit starrer crosses Rs 3 cr",
+    "desc": "Imtiaz Ali's 'Main Vaapas Aaunga', starring Diljit Dosanjh, saw a significant 60.9% jump on its second day, earning Rs 1.85 crore. The Partition-inspired film has now collected Rs 3 crore net in India. It narrowly outperformed Kangana Ranaut's 'Bharat Bhhagya Viddhaata' in a direct box office clash.",
+    "img": "https://static.toiimg.com/photo/msid-131714712,imgsize-73838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/main-vaapas-aaunga-box-office-collection-day-2-diljit-dosanjh-starrer-earns-more-than-kangana-ranauts-film-crosses-rs-3-crore-in-total/articleshow/131714678.cms",
+    "time": "2026-06-14T02:18:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Technical outage': FIFA breaks silence on controversial VAR call in Swiss-Qatar draw",
+    "desc": "FIFA has clarified a VAR incident during the Switzerland and Qatar World Cup match. A temporary technical issue affected on-screen graphics, not the review process. This led to questions about a penalty awarded to Switzerland. Qatar secured its first World Cup point with a late equalizer. Swiss players expressed disappointment over missed opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-131714704,imgsize-42160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/technical-outage-fifa-breaks-silence-on-controversial-var-call-in-switzerland-qatar-draw-neville-says-its-like-a-dictatorship/articleshow/131714680.cms",
+    "time": "2026-06-14T02:14:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Mayor shot dead in southern Mexico, investigation underway",
+    "desc": "Joel Bravo — the mayor of San Miguel Amatitlan, a town of nearly 7,000 residents — died in an armed attack, prosecutors in Oaxaca state said in a statement, without offering further details about the incident",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/mayor-shot-dead-in-southern-mexico/article71100127.ece",
+    "time": "2026-06-14T01:55:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyadarshan hails Chidambaram's 'Balan' ahead of release",
+    "desc": "The Boy,' set for a June 19 release, is generating significant buzz, amplified by filmmaker Priyadarshan calling it the best film he's seen in two years. Praising its excellent screenplay and engaging execution despite a slow pace, Priyadarshan predicts a lasting legacy. Ram Gopal Varma also lauded the film as 'BEYOND FANTASTIC.'",
+    "img": "https://static.toiimg.com/photo/msid-131714593,imgsize-253900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/best-film-ive-seen-in-the-last-two-years-priyadarshan-hails-chidambarams-balan-ahead-of-release/articleshow/131714586.cms",
+    "time": "2026-06-14T01:50:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brazil holds fiery Morocco to draw in Group C opener",
+    "desc": "Brazil’s last World Cup match on U.S. soil was a famous one – victory in the 1994 final, where that side’s ultra-defensive approach overcame Italy, which had Selecao’s current coach, Carlo Ancelotti, as its assistant manager",
+    "img": "https://th-i.thgim.com/public/incoming/a0n34l/article71100086.ece/alternates/LANDSCAPE_1200/2281454499.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/brazil-vs-morocco-fifa-world-cup-2026-group-c-match-report-vincius-saibari-goals/article71100082.ece",
+    "time": "2026-06-14T01:48:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Women's T20 WC: Campbelle stars as West Indies stun defending champions New Zealand",
+    "desc": "West Indies delivered a stunning upset, defeating defending champions New Zealand by seven wickets in their Women's T20 World Cup opener. A brilliant unbeaten 90 from Shemaine Campbelle and Aaliyah Alleyne's crucial four-wicket haul were instrumental in chasing down 163 with just one ball remaining, avenging their previous semifinal loss.",
+    "img": "https://static.toiimg.com/photo/msid-131714570,imgsize-176018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/womens-t20-world-cup-campbelles-stunning-90-powers-west-indies-to-shock-defending-champions-new-zealand/articleshow/131714572.cms",
+    "time": "2026-06-14T01:42:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Morocco denied famous win as Vinícius rescues Brazil",
+    "desc": "Brazil staged a spirited comeback to secure a 1-1 draw against Morocco in a thrilling World Cup Group C opener. Vinícius Júnior's stunning strike canceled out Ismael Saibari's early goal, ensuring Brazil extended their unbeaten streak in World Cup openers to 21 matches. The result leaves Group C wide open.",
+    "img": "https://static.toiimg.com/photo/msid-131714536,imgsize-191028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/brazil-vs-morocco-fifa-world-cup-match-result-morocco-denied-famous-win-as-vincius-rescues-brazil/articleshow/131714538.cms",
+    "time": "2026-06-14T01:26:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Walking Dead': Franchise makes buzz with rival rumours",
+    "desc": "Excitement swirls in the fandom as reports surface of a 'Walking Dead' revival that's nearing fruition, potentially serving as a Season 12. With the return of fan-favorites like Rick, Michonne, Daryl, Carol, Maggie, and Negan on the table, this project seeks to resolve the lingering mysteries of the original series and its various spinoffs.",
+    "img": "https://static.toiimg.com/photo/msid-131714512,imgsize-48450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-walking-dead-is-a-rival-on-the-cards-the-future-of-the-franchise-takes-an-unexpected-turn-as-reports-suggest-season-12-is-in-the-works/articleshow/131714504.cms",
+    "time": "2026-06-14T01:19:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chiranjeevi compares 'Peddi with Aamir Khan's 'Dangal'",
+    "desc": "Megastar Chiranjeevi expressed immense pride as his son Ram Charan's performance in 'Peddi' has led many to believe Charan has surpassed him as an actor. Chiranjeevi also recalled advice from SP Balasubrahmanyam about pursuing performance-oriented roles and drew parallels between 'Peddi' and acclaimed sports dramas like 'Dangal', highlighting its unique rustic appeal and social message.",
+    "img": "https://static.toiimg.com/photo/msid-131714511,imgsize-101290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-will-have-more-acceptance-chiranjeevi-compares-ram-charans-film-with-aamir-khans-dangal/articleshow/131714501.cms",
+    "time": "2026-06-14T01:13:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gurnoor Brar repays Gill's faith, shows he is not a one-trick pony",
+    "desc": "Gurnoor Brar picked up three wickets on his ODI debut at the HPCA Stadium in Dharamsala on Saturday. During his 29-ball spell, he not only impressed everyone with his pace but with his lengths as well. The Punjab quick showcased that he is far more than just raw pace, offering India a glimpse of a complete fast bowler for the future.",
+    "img": "https://static.toiimg.com/photo/msid-131714460,imgsize-169102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/three-years-in-the-making-gurnoor-brar-repays-shubman-gills-faith-shows-he-is-not-a-one-trick-pony/articleshow/131714458.cms",
+    "time": "2026-06-14T00:54:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bharat Bhhagya Viddhaata' Day 2: Net earnings cross Rs 2.4 cr",
+    "desc": "Kangana Ranaut's 'Bharat Bhhagya Viddhaata' has captured hearts with its portrayal of nurses' heroism during the 26/11 attacks, showing a robust 45% jump in earnings on its second day, bringing in Rs 1.45 crore. Despite fierce competition from other films, it has raked in a total of Rs 2.45 crore, with audiences overwhelmingly praising Ranaut's powerful performance. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131714429,imgsize-107774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/bharat-bhhagya-viddhaata-box-office-collection-day-2-kangana-ranaut-starrer-witnesses-growth-net-earnings-cross-rs-2-4-crore/articleshow/131714426.cms",
+    "time": "2026-06-14T00:39:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Blast' BO day 17: Arjun Sarja's film nears Rs 45 cr",
+    "desc": "Arjun Sarja's action flick 'Blast' continues its strong box office run, raking in Rs 2.99 crore on its 17th day, a significant 130% jump from the previous day. The film's India net collection nears Rs 45 crore, with worldwide gross crossing Rs 65 crore, fueled by impressive overseas performance and consistent audience engagement with its high-octane sequences.",
+    "img": "https://static.toiimg.com/photo/msid-131714416,imgsize-110842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/blast-box-office-collections-day-17-arjun-sarjas-actioner-records-massive-growth-nears-rs-45-cr-india-net-mark/articleshow/131714412.cms",
+    "time": "2026-06-14T00:27:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Peddi' BO day 10: Ram Charan's film jumps 57.3%",
+    "desc": "Ram Charan's 'Peddi' continues its strong box office journey, crossing ₹200 crore net in India on its tenth day with a significant Saturday jump. The action sports drama's worldwide gross collection now stands at an impressive ₹296.53 crore, fueled by robust overseas performance and high occupancy, particularly in Andhra Pradesh-Telangana.",
+    "img": "https://static.toiimg.com/photo/msid-131714359,imgsize-114362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-box-office-collections-day-10-ram-charans-film-jumps-57-3-crosses-rs-200-cr-net-mark-in-india/articleshow/131714354.cms",
+    "time": "2026-06-14T00:08:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That discussion really helped me': Afghanistan's Gurbaz credits Gambhir after ton",
+    "desc": "Afghanistan opener Rahmanullah Gurbaz scored a brilliant century against India. He credited India coach Gautam Gambhir for his improved batting approach. Gurbaz had a conversation with Gambhir after a Test match loss. Gambhir offered advice on shot selection. Gurbaz implemented these suggestions during his innings. His century was a highlight despite Afghanistan's team total.",
+    "img": "https://static.toiimg.com/photo/msid-131708288,imgsize-999626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/that-discussion-really-helped-me-afghanistans-gurbaz-credits-gautam-gambhir-after-record-breaking-ton/articleshow/131708284.cms",
+    "time": "2026-06-13T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata's party battles for survival as rebel MPs move to stake claim",
+    "desc": "TMC, which had been running its Delhi office from Partha Bhowmick’s bungalow at 20, Dr Rajendra Prasad Road since last year, moved to 61 South Avenue about a week ago after it learnt that Bhowmick was among the dissidents, according to party sources. It had earlier been operating out of Nadimul Haque’s residence, to which it has now returned.",
+    "img": "https://static.toiimg.com/photo/msid-131714230,imgsize-44336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tmc-lurches-from-crisis-to-crisis-mamatas-party-battles-for-survival-as-rebel-mps-move-to-stake-claim/articleshow/131714228.cms",
+    "time": "2026-06-13T22:56:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India remains number 2 Russian oil buyer in May",
+    "desc": "CREA said India imported Russian hydrocarbons worth a total of 5.8 billion euros ($6.7 billion) and crude oil constituted 83% of the purchase. China remained biggest importer of Russian energy with purchases totalling nearly 7 billion euros ($8.1 billion), the report said.",
+    "img": "https://static.toiimg.com/photo/msid-131712802,imgsize-48884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-remains-number-2-russian-oil-buyer-in-may/articleshow/131712735.cms",
+    "time": "2026-06-13T22:09:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seafarers are rarely aware of sanctioned, ‘dark ship’ status",
+    "desc": "Captain Savio Ramos, general secretary of Maritime Union of India (MUI) said a sailor has the option to seek de-boarding from a ship once it enters the restricted zone and as per norms, the company concerned is bound to send them back to town and most firms have done so and changed crew. He added that sailors concerned need to decide and take a call.",
+    "img": "https://static.toiimg.com/photo/msid-131712448,imgsize-79708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/seafarers-are-rarely-aware-of-sanctioned-dark-ship-status/articleshow/131712447.cms",
+    "time": "2026-06-13T22:03:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi",
+    "desc": "After his meeting with Macron on Sunday in Nice, Modi will travel to Slovakia for the first ever visit by an Indian PM to the country since its independence in 1993 before returning to France for the Evian G7 summit on June 16-17. Modi is expected to underscore India’s concerns over the consequences of the West Asia conflict, including the energy crisis, for the Global South in his engagements while stressing the significance of freedom of navigation through the Strait of Hormuz.",
+    "img": "https://static.toiimg.com/photo/msid-131712439,imgsize-55544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/will-voice-aspirations-of-global-south-at-g7-summit-pm-modi/articleshow/131712433.cms",
+    "time": "2026-06-13T21:50:51.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "India must build system that emerges stronger through uncertainties, disruptions: Principal secy to PM",
     "desc": "Mishra added while traditional approaches often focus on ‘bouncing back’ after disruption, the emerging paradigm requires systems that can learn, adapt, and emerge stronger through disruption, moving towards bouncing forward and increasingly becoming antifragile systems. “The objective today is not only recovery but building stronger institutions, infrastructure and governance systems capable of managing future shocks and uncertainties,” he added.",
@@ -7,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/india-must-build-system-that-emerges-stronger-through-uncertainties-disruptions-principal-secy-to-pm/articleshow/131712427.cms",
     "time": "2026-06-13T21:46:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Boualem Khoukhi’s goal on header in stoppage time earns Qatar a 1-1 World Cup draw with Switzerland",
-    "desc": "Switzerland is hoping to advance further than its round-of-16 showing four years ago before losing 6-1 to Portugal — when Goncalo Ramos delivered an improbable hat trick playing in place of benched star Cristiano Ronaldo",
-    "img": "https://th-i.thgim.com/public/incoming/5nbs0n/article71099141.ece/alternates/LANDSCAPE_1200/2026-06-13T213235Z_1742706628_UP1EM6D1NUA8O_RTRMADP_3_SOCCER-WORLDCUP-QAT-SWI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup/fifa-2026-boualem-khoukhis-goal-on-header-in-stoppage-time-earns-qatar-a-1-1-world-cup-draw-with-switzerland/article71099139.ece",
-    "time": "2026-06-13T21:37:46.000Z"
   },
   {
     "cat": "Politics",
@@ -46,7 +298,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "EAM Jaishankar calls Marco Rubio on sailor deaths, US stands by attacks",
+    "title": "As India escalates, Rubio says blockade violations will not be tolerated",
     "desc": "After having twice summoned the American envoy over US military strikes on foreign-flagged ships carrying Indian mariners, India further escalated the issue as external affairs minister S Jaishankar reiterated India’s protest in a phone call with his US counterpart Marco Rubio. “Such lethal actions against commercial shipping are not justified,” Jaishankar later posted on X.",
     "img": "https://static.toiimg.com/photo/msid-131712311,imgsize-48878.cms",
     "src": "indiatimes.com",
@@ -88,6 +340,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lucky-ali-caused-mehmood-a-lot-of-pain-claims-hanif-zaveri-mehmood-was-not-happy-with-all-his-children/articleshow/131711996.cms",
     "time": "2026-06-13T19:30:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "understanding heat stress in Tamil Nadu",
+    "desc": "It is no longer only about how high the temperature soars. As Tamil Nadu rolls out a Heat Action Plan and meteorologists track El Nino, attention is shifting towards understanding heat stress and how communities can adapt to a warming future",
+    "img": "https://th-i.thgim.com/public/incoming/4q93ie/article71098824.ece/alternates/LANDSCAPE_1200/Summer%20story%20-%20Gods%20shed%20workers%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/beyond-high-temperatures-understanding-heat-stress-in-tamil-nadu/article71098817.ece",
+    "time": "2026-06-13T19:27:26.000Z"
   },
   {
     "cat": "Politics",
@@ -180,15 +441,6 @@ const newsData_en = [
     "time": "2026-06-13T17:29:15.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA",
-    "desc": "The governing body of the ‘beautiful game’, long dogged by allegations of corruption and abuse of power, now faces criticism for its muted response to U.S. immigration authorities denying entry to fans, officials, and team personnel",
-    "img": "https://th-i.thgim.com/public/incoming/gb8wc1/article71098627.ece/alternates/LANDSCAPE_1200/2026-06-11T181633Z_837849217_UP1EM6B1ERJFT_RTRMADP_3_SOCCER-WORLDCUP-MEX-ZAF.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-profile-us-immigration-issues-corruption-allegations/article71098635.ece",
-    "time": "2026-06-13T17:19:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Hardeep Singh Puri says India has over 60 days of crude, gas stocks; rules out any energy supply crunch",
     "desc": "India assures ample energy supplies, with over 60 days of crude oil and natural gas reserves. Domestic LPG production has significantly reduced import reliance, ensuring 75-80 days of stock. Despite global price hikes due to the Iran conflict, India has kept domestic fuel prices stable, even seeing a slight decrease due to excise duty cuts.",
@@ -271,30 +523,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "The ₹370 Biryani Row: What really happened",
-    "desc": "A stand-up comedy audience interaction has snowballed into one of India’s most talked-about controversies. Comedian Pranit More is facing legal scrutiny after viral clips from his Gurugram show triggered outrage online and prompted action from authorities.",
-    "img": "https://th-i.thgim.com/public/news/national/470mmz/article71098626.ece/alternates/LANDSCAPE_1200/mamata%203.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-the-370-biryani-row-what-really-happened/article71098642.ece",
-    "time": "2026-06-13T16:34:09.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'PM Modi must decide': CJP's Abhijeet Dipke tells Centre to choose students or 'failed' minister",
     "desc": "Cockroach Janta Party founder Abhijeet Dipke urged Prime Minister Narendra Modi to choose between students and an \"incompetent\" minister. Students protested in Amritsar, demanding Education Minister Dharmendra Pradhan's resignation over alleged examination irregularities. The CJP plans further demonstrations in Delhi, advocating for justice for NEET and CBSE students.",
     "img": "https://static.toiimg.com/photo/msid-131708334,imgsize-937395.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/pm-modi-must-decide-cjps-abhijeet-dipke-tells-centre-to-choose-students-or-failed-minister/articleshow/131708316.cms",
     "time": "2026-06-13T16:16:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Dhami inspects arrangements for International Kayaking and Canoeing C'ship in Udham Singh Nagar",
-    "desc": "Uttarakhand chief minister Pushkar Singh Dhami today conducted an on-site inspection of the preparations for the upcoming International Kayaking and Canoeing Competition to be held in the Gadarpur area of Udham Singh Nagar district, according to a press release.",
-    "img": "https://static.toiimg.com/photo/msid-131708117,imgsize-85276.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cm-dhami-inspects-arrangements-for-international-kayaking-and-canoeing-cship-in-udham-singh-nagar/articleshow/131708117.cms",
-    "time": "2026-06-13T16:09:19.000Z"
   },
   {
     "cat": "Business",
@@ -304,24 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/will-india-us-trade-deal-be-announced-at-g7-ustr-signals-more-talks-says-pact-not-imminent/articleshow/131708145.cms",
     "time": "2026-06-13T16:06:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'INDIA bloc has already won 2029 elections': Rahul Gandhi lays out strategy of 'resistance with unity'",
-    "desc": "Rahul Gandhi boldly proclaimed that the INDIA alliance is already the victor of the 2029 Lok Sabha elections. He stressed the vital importance of uniting the opposition to challenge the BJP's perceived encroachment on democratic institutions and the silencing of dissenting voices.",
-    "img": "https://static.toiimg.com/photo/msid-131708061,imgsize-40202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-bloc-has-already-won-2029-elections-rahul-gandhi-lays-out-strategy-of-resistance-with-unity/articleshow/131707813.cms",
-    "time": "2026-06-13T15:59:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Body preserved with water bottles': Indian sailor dies on vessel off Oman coast; union cites aid delay amid regional tensions",
-    "desc": "The Forward Seamen's Union of India is seeking assistance after a 35-year-old officer died on a vessel off Oman's coast. His body has been onboard for over two days without proper refrigeration, leading to a health risk for the crew. The union alleges delayed medical help due to regional tensions and is demanding body preservation, repatriation, and an investigation.",
-    "img": "https://static.toiimg.com/photo/msid-131707766,imgsize-677641.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/body-preserved-with-water-bottles-indian-sailor-dies-on-vessel-off-oman-coast-union-cites-aid-delay-amid-regional-tensions/articleshow/131707326.cms",
-    "time": "2026-06-13T15:52:21.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +576,6 @@ const newsData_en = [
     "time": "2026-06-13T15:05:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Russian woman tourist found dead in Kasol homestay, cause under investigation",
-    "desc": "A 29-year-old Russian tourist was discovered deceased in a Kasol homestay on Saturday. Her friend found her unresponsive in the washroom. Authorities were alerted, and a police investigation is underway. The body has been sent for a post-mortem to ascertain the cause of death. The Russian Embassy has been notified.",
-    "img": "https://static.toiimg.com/photo/msid-131706953,imgsize-2110313.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/russian-woman-tourist-found-dead-in-kasol-homestay-cause-under-investigation/articleshow/131706774.cms",
-    "time": "2026-06-13T14:49:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Nora on sharing FIFA WC 2026 lineup with Shakira and Burna Boy",
     "desc": "Actor-dancer Nora Fatehi has been winning hearts globally after her electrifying performance at the FIFA World Cup 2026 opening ceremony. For Nora, performing at one of the world's biggest sporting events alongside internationally renowned artists like Shakira and Burna Boy marked a major milestone in her career.",
@@ -376,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nora-fatehi-opens-up-about-sharing-fifa-world-cup-2026-lineup-with-shakira-and-burna-boy-ive-worked-all-my-life-to-reach-this-level/articleshow/131706833.cms",
     "time": "2026-06-13T14:45:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Outstanding! Gill takes one-handed blinder in 1st ODI",
-    "desc": "Shubman Gill stole the spotlight with a spectacular one-handed diving catch as India tightened control in the rain-reduced first ODI against Afghanistan in Dharamshala. Afghanistan posted a strong start through Rahmanullah Gurbaz’s quick century, but India struck back with regular wickets. Debutant Harsh Dubey impressed with key breakthroughs, while Arshdeep Singh and Nitish Kumar Reddy supported well to restrict the visitors.",
-    "img": "https://static.toiimg.com/photo/msid-131706717,imgsize-31650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/ind-vs-afg-outstanding-shubman-gill-takes-one-handed-blinder-in-1st-odi-watch/articleshow/131706536.cms",
-    "time": "2026-06-13T14:41:37.000Z"
   },
   {
     "cat": "Business",
@@ -405,15 +603,6 @@ const newsData_en = [
     "time": "2026-06-13T14:20:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Govinda's wife Sunita Ahuja reveals who will inherit her property",
-    "desc": "Sunita Ahuja recently left paparazzi amused with her witty remarks as she joked about leaving all her property to her beloved pet Chihuahua. The light-hearted moment unfolded when Sunita was spotted at the Mumbai airport with her furry companion.",
-    "img": "https://static.toiimg.com/photo/msid-131706317,imgsize-86214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-wife-sunita-ahuja-reveals-who-will-inherit-her-property-and-its-not-nephew-krushna-abhishek/articleshow/131705964.cms",
-    "time": "2026-06-13T14:01:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "48-ball mayhem! Gurbaz rewrites history with ton vs India",
     "desc": "Rahmanullah Gurbaz smashed a record-breaking 48-ball century against India in the rain-affected first ODI. His explosive 102 off 51 balls, featuring eight fours and eight sixes, marked the fastest ODI hundred by an Afghanistan batter and the quickest in an India-Afghanistan encounter. Gurbaz's rapid fifty also secured a spot in Afghanistan's top ODI half-centuries.",
@@ -421,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/48-ball-mayhem-rahmanullah-gurbaz-rewrites-history-with-ton-vs-india/articleshow/131705932.cms",
     "time": "2026-06-13T13:53:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'RSS most misunderstood': Mohan Bhagwat explains best way to understand Sangh",
-    "desc": "Addressing the RSS centenary celebrations, chief Mohan Bhagwat declared the organization the world's largest voluntary body, yet \"most misunderstood.\" He explained the outreach aims to clarify misconceptions, noting external views range from paramilitary to gymnasium. Bhagwat emphasized direct engagement as the best way to understand the Sangh's true nature and its century-long mission of national welfare.",
-    "img": "https://static.toiimg.com/photo/msid-131705855,imgsize-42522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rss-most-misunderstood-mohan-bhagwat-explains-best-way-to-understand-sangh/articleshow/131705410.cms",
-    "time": "2026-06-13T13:51:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Forced to work 16 hrs daily, abused: West Bengal woman rescued from Gurugram flat",
-    "desc": "In a shocking incident, a woman from Birbhum, West Bengal, was freed from a high-security apartment in Gurugram after being reportedly trapped for more than two years under the horrific conditions of forced domestic servitude. Each day, she toiled for 16 hours amidst appalling abuse, her escape thwarted by stringent security measures.",
-    "img": "https://static.toiimg.com/photo/msid-131705869,imgsize-2550657.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/forced-to-work-16-hrs-daily-abused-west-bengal-woman-rescued-from-gurugram-flat/articleshow/131705741.cms",
-    "time": "2026-06-13T13:48:06.000Z"
   },
   {
     "cat": "World",
@@ -468,24 +639,6 @@ const newsData_en = [
     "time": "2026-06-13T13:18:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Huma hard-launches rumoured boyfriend on Instagram",
-    "desc": "Huma Qureshi penned a heartfelt appreciation post for rumoured boyfriend Rachit Singh on Instagram, praising his patience, hard work, and dedication over the years. Rachit responded in the comments, thanking Huma for hard-launching him and calling her his truest supporter. The two will be seen together in 'Baby Do Die Do'.",
-    "img": "https://static.toiimg.com/photo/msid-131705452,imgsize-22720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/well-always-do-die-do-together-huma-qureshi-hard-launches-rumoured-boyfriend-rachit-singh-on-instagram-and-his-response-is-too-cute-to-miss/articleshow/131705452.cms",
-    "time": "2026-06-13T13:17:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Has Ajith reduced his salary for 'AK 64'? Here's what we know",
-    "desc": "Contrary to reports, Ajith Kumar has not reduced his salary for 'AK 64' due to market conditions. An industry source clarified that production delays stemmed from producer financial plans and scheduling conflicts, not the actor's commitment. Discussions might involve alternative deal structures, potentially including digital rights, rather than a direct pay cut.",
-    "img": "https://static.toiimg.com/photo/msid-131704946,imgsize-120650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/has-ajith-reduced-his-salary-for-ak-64-heres-what-we-know-exclusive/articleshow/131704893.cms",
-    "time": "2026-06-13T12:54:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SpaceX made Musk a trillionaire, but what else does he own? A look at his business empire",
     "desc": "Elon Musk's vast business empire, encompassing SpaceX, Tesla, Neuralink, and The Boring Company, is expanding rapidly. Despite recent losses in some ventures like xAI and X, SpaceX's successful IPO highlights investor confidence in its ambitious goals for AI and space exploration. Tesla continues to navigate competition and expand into robotics and solar energy.",
@@ -493,33 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/spacex-made-musk-a-trillionaire-but-what-else-does-he-own-a-look-at-his-business-empire/articleshow/131704870.cms",
     "time": "2026-06-13T12:53:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Manoj Bajpayee says Yash Chopra paid him full lead-actor fee for cameo",
-    "desc": "Manoj Bajpayee revealed Yash Chopra paid him his lead actor fee for a 'Veer-Zaara' cameo, a gesture he accepted to work with the filmmaker, not for money. Bajpayee, who often rejected villainous roles for creative satisfaction, was deeply impressed by Chopra's honesty and the director's insistence on fair compensation for his brief but memorable appearance.",
-    "img": "https://static.toiimg.com/photo/msid-131704865,imgsize-28188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-says-yash-chopra-paid-him-full-lead-actor-fee-for-veer-zaara-cameo/articleshow/131704865.cms",
-    "time": "2026-06-13T12:52:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ahaan, Aneet spark dating buzz over matching tattoos",
-    "desc": "Ahaan Panday and Aneet Padda are fueling dating speculation with newly surfaced photos revealing matching neck tattoos. The viral images have ignited fan discussions about their off-screen bond, following their popular on-screen chemistry in 'Saiyaara'. While the actors remain silent on the tattoos' meaning and relationship rumors, both are actively pursuing new film projects.",
-    "img": "https://static.toiimg.com/photo/msid-131704266,imgsize-57884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saiyaara-co-stars-ahaan-panday-and-aneet-padda-spark-dating-buzz-as-fans-spot-matching-tattoos/articleshow/131704266.cms",
-    "time": "2026-06-13T12:10:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's Afghanistan Test hero Suthar shines on Warwickshire debut",
-    "desc": "Manav Suthar continued his impressive form by taking two wickets on his Warwickshire debut against Yorkshire in the County Championship, days after starring on his India Test debut against Afghanistan with a seven-wicket haul. Meanwhile, veteran pacer Jaydev Unadkat shone for Sussex, claiming 4/29 to help dismiss Glamorgan for 155.",
-    "img": "https://static.toiimg.com/photo/msid-131704144,imgsize-92538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/indias-afghanistan-test-hero-manav-suthar-shines-on-warwickshire-debut-in-county-championship/articleshow/131703764.cms",
-    "time": "2026-06-13T11:59:44.000Z"
   },
   {
     "cat": "Sports",
@@ -540,24 +666,6 @@ const newsData_en = [
     "time": "2026-06-13T11:53:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lisa Riley receives the MBE honour weeks before her 50th birthday",
-    "desc": "Emmerdale star Lisa Riley is celebrating a monumental honour, receiving an MBE just weeks before her 50th birthday. Recognized for her significant contributions to drama and charity, Riley expressed immense gratitude, calling it the best birthday present. She highlighted her 36-year acting career and the profound impact of her role as Mandy Dingle, dedicating the achievement to her late mother.",
-    "img": "https://static.toiimg.com/photo/msid-131703624,imgsize-178980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/emmerdale-star-lisa-riley-receives-mbe-honour-ahead-of-50th-birthday-to-say-i-am-humbled-is-an-absolute-understatement/articleshow/131703538.cms",
-    "time": "2026-06-13T11:44:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana on her equation with Diljit ahead of their films' box office clash",
-    "desc": "Kangana Ranaut has broken her silence on her equation with Diljit Dosanjh, saying she has nothing against him and the two have never even met. The duo had a public spat during the 2020-2021 farmers' protests. Their films 'Bharat Bhaagya Viddhaata' and 'Main Vaapas Aaunga' both opened at around Rs 1 crore.",
-    "img": "https://static.toiimg.com/photo/msid-131703515,imgsize-43554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-have-nothing-against-that-guy-kangana-ranaut-breaks-silence-on-her-equation-with-diljit-dosanjh-ahead-of-their-films-box-office-clash/articleshow/131703515.cms",
-    "time": "2026-06-13T11:39:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "21 terrorists killed in Pakistan's Khyber Pakhtunkhwa Province",
     "desc": "Among those killed in North Waziristan district over the last 72 hours were four ring leaders belonging to Fitna-al-Khwarij, wanted for their involvement in numerous terrorist activities, including the killing of security forces' personnel and innocent civilians, says media wing",
@@ -565,42 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/21-terrorists-killed-in-pakistans-khyber-pakhtunkhwa-province/article71097320.ece",
     "time": "2026-06-13T11:34:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Superstar cast real beggar in film, it became a cult classic",
-    "desc": "A fascinating anecdote from the 1964 thriller 'Woh Kaun Thi' reveals how actor Manoj Kumar cast a real female beggar near Mumbai's Taj Hotel. Her striking appearance, which initially startled Kumar, was deemed perfect by director Raj Khosla to enhance the film's unsettling, mystery-driven atmosphere. This unique casting choice contributed significantly to the cult classic's haunting mood.",
-    "img": "https://static.toiimg.com/photo/msid-131703358,imgsize-111370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/this-superstar-spotted-a-real-female-beggar-outside-taj-hotel-cast-her-in-his-film-it-later-became-a-cult-classic/articleshow/131703274.cms",
-    "time": "2026-06-13T11:30:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madhoo defends Janhvi Kapoor over ‘Peddi’ criticism",
-    "desc": "Veteran actress Madhoo has come out in strong support of Janhvi Kapoor amidst criticism over her role in 'Peddi'. Madhoo emphasized that actors often don't control the final on-screen presentation and highlighted Janhvi's growth as a 'true star on the rise'. The film's director also acknowledged audience feedback and made adjustments.",
-    "img": "https://static.toiimg.com/photo/msid-131703291,imgsize-149132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/madhoo-defends-janhvi-kapoor-over-peddi-criticism-calls-her-a-true-star-on-the-rise/articleshow/131703272.cms",
-    "time": "2026-06-13T11:28:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I'm not gay'",
-    "desc": "Mouni Roy has addressed persistent online rumors about her sexual orientation following her separation from Suraj Nambiar. The actress highlighted the crucial support from her female friends during this period, emphasizing the importance of emotional and financial independence for women. Roy described her life as a 'roller-coaster ride' filled with both highs and lows.",
-    "img": "https://static.toiimg.com/photo/msid-131703159,imgsize-94004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mouni-roy-reacts-to-trolls-post-divorce-from-suraj-nambiar-im-not-gay-feel-very-lucky-that-i-have-friends-and-family/articleshow/131703159.cms",
-    "time": "2026-06-13T11:20:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'As soon as Rohit retires...': Sehwag reveals who will inherit India's opening slot",
-    "desc": "Virender Sehwag backs Yashasvi Jaiswal to become a regular in India's ODI side post-Rohit Sharma's retirement. Despite strong performances, including a century against South Africa, Jaiswal faces tough competition. Sehwag and Manoj Tiwary believe Jaiswal is poised to lead the future opening lineup once senior players depart after next year's World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-131702697,imgsize-119396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/as-soon-as-rohit-sharma-retires-sehwag-reveals-who-will-inherit-indias-opening-slot/articleshow/131702670.cms",
-    "time": "2026-06-13T11:19:10.000Z"
   },
   {
     "cat": "Business",
@@ -612,33 +684,6 @@ const newsData_en = [
     "time": "2026-06-13T11:06:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ryan Reynolds posts about the FIFA opening ceremony",
-    "desc": "Ryan Reynolds enthusiastically shared his journey to the FIFA 2026 opening ceremony in Toronto, Canada, via social media. He detailed his \"Planes, Trains, Automobiles\" trip to witness the Canada vs. Bosnia-Herzegovina match, expressing immense pride for Team Canada and praising the electric atmosphere. This marks his first post following reports of Blake Lively's legal victory.",
-    "img": "https://static.toiimg.com/photo/msid-131702804,imgsize-96388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/fifa-opening-ceremony-ryan-reynolds-shares-his-struggle-to-catch-the-event-says-i-was-not-gonna-miss-this-match/articleshow/131702659.cms",
-    "time": "2026-06-13T10:57:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "One final &amp; four group-stage exits: How India have fared in Women's T20 World Cups",
-    "desc": "Led by Harmanpreet Kaur, India are aiming to add a second global title after winning the Women's ODI World Cup last year. The head-to-head record is firmly in India's favour, with India leading Pakistan 13-3 in women's T20Is.",
-    "img": "https://static.toiimg.com/photo/msid-131702548,imgsize-78610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/one-final-and-four-group-stage-exits-how-india-have-fared-in-womens-t20-world-cups/articleshow/131702349.cms",
-    "time": "2026-06-13T10:53:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Neymar play tonight vs Morocco? Ancelotti provides major fitness update",
-    "desc": "Brazil will start their FIFA World Cup 2026 campaign without star forward Neymar for their opening Group C match against Morocco. Coach Carlo Ancelotti confirmed Neymar is still recovering from a calf injury and is not expected to be ready for the June 14th fixture. However, there is optimism he could feature later in the group stage.",
-    "img": "https://static.toiimg.com/photo/msid-131702338,imgsize-66522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/will-neymar-play-tonight-vs-morocco-carlo-ancelotti-provides-major-fitness-update/articleshow/131702339.cms",
-    "time": "2026-06-13T10:33:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SpaceX's $75 billion IPO could get an $11 billion boost — here's how",
     "desc": "SpaceX's IPO raised $75 billion, with a greenshoe option potentially adding another $11.2 billion. This mechanism allows underwriters to buy additional shares from the company if the stock price rises above the IPO price, boosting the total funds raised. The next few weeks will reveal if SpaceX's landmark fundraising event grows larger.",
@@ -646,24 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/spacexs-75-billion-ipo-could-get-an-11-billion-boost-heres-how/articleshow/131701883.cms",
     "time": "2026-06-13T10:14:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anurag SLAMS theatres for giving Obsession better show timings",
-    "desc": "Director Anurag Kashyap has slammed theatres for giving Hollywood film 'Obsession' better show timings over Indian films like 'Bandar' and 'Main Vaapas Aaunga'. Taking to Instagram, he questioned how Indian cinema will grow without proper screen support. 'Obsession' has earned over Rs 60 crores in India while 'Bandar' collected Rs 4 crores.",
-    "img": "https://static.toiimg.com/photo/msid-131701923,imgsize-27074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-slams-theatres-for-giving-hollywoods-obsession-better-show-timings-than-bandar-and-main-vaapas-aaunga/articleshow/131701923.cms",
-    "time": "2026-06-13T10:06:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup records first mistaken-identity VAR reversal in USA-Paraguay clash",
-    "desc": "The United States began their FIFA World Cup journey with a strong 4-1 victory against Paraguay. The match saw a significant VAR intervention, marking a first in the tournament. Officials corrected a mistaken identity booking, overturning a yellow card for Tim Ream and issuing one to Miguel Almirón for simulation.",
-    "img": "https://static.toiimg.com/photo/msid-131701414,imgsize-129322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-records-first-mistaken-identity-var-reversal-in-usa-paraguay-clash/articleshow/131701384.cms",
-    "time": "2026-06-13T09:43:12.000Z"
   },
   {
     "cat": "Business",
@@ -684,15 +711,6 @@ const newsData_en = [
     "time": "2026-06-13T08:37:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Lose to anyone, but not Pakistan': Jemimah ahead of IND vs PAK opener",
-    "desc": "Ahead of India’s Women’s T20 World Cup opener against Pakistan, Jemimah Rodrigues said the rivalry brings immense pressure, recalling how even her building watchman stresses the importance of beating Pakistan. Despite the expectations, she said the team remains focused on winning its maiden T20 World Cup title, with extensive preparation and mental conditioning boosting confidence.",
-    "img": "https://static.toiimg.com/photo/msid-131700264,imgsize-106170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/lose-to-anyone-but-not-pakistan-jemimah-rodrigues-ahead-of-ind-vs-pak-womens-t20-world-cup-opener/articleshow/131700207.cms",
-    "time": "2026-06-13T08:06:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street ends higher as SpaceX's market debut dominates",
     "desc": "Market participants were glued to shares of Elon Musk’s SpaceX, which began trading on the Nasdaq on June 12. Its shares ‌closed up 19.2% at $160.95, well above the IPO price of $135 apiece. Its market capitalisation was last ‌at $2.1 trillion",
@@ -700,6 +718,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/wall-street-ends-higher-as-spacexs-market-debut-dominates/article71096690.ece",
     "time": "2026-06-13T07:47:04.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Anthropic cuts access to AI models over U.S. ‘national security’ order",
+    "desc": "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
+    "img": "https://th-i.thgim.com/public/incoming/plhoz2/article71096492.ece/alternates/LANDSCAPE_1200/2026-06-09T011546Z_1385071968_RC2UNLAJ8JMH_RTRMADP_3_USA-TRUMP-ANTHROPIC.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-cuts-access-to-ai-models-over-us-national-security-order/article71096476.ece",
+    "time": "2026-06-13T07:07:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -718,6 +745,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/judge-keeps-order-in-place-to-remove-trumps-name-from-kennedy-centre/article71096414.ece",
     "time": "2026-06-13T06:44:59.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "75th anniversary of the UNIVAC I",
+    "desc": "Seventy five years ago – on June 14, 1951 – the UNIVAC I was officially put into service by the U.S. Census Bureau. The UNIVAC I, which the bureau calls the first successful civilian computer, heralded a new age in the tech industry by demonstrating the potential for computers in various applications. A.S.Ganesh takes you back to a time when these devices were far from being hand-held…",
+    "img": "https://th-i.thgim.com/public/incoming/1b1ij7/article71064337.ece/alternates/LANDSCAPE_1200/14istb%20Univac_I_Census_dedication.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/75th-anniversary-of-the-univac-i/article71064362.ece",
+    "time": "2026-06-13T06:41:23.000Z"
   },
   {
     "cat": "World",
@@ -756,24 +792,6 @@ const newsData_en = [
     "time": "2026-06-13T03:33:11.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Anthropic cuts access to AI models over U.S. ‘national security’ order",
-    "desc": "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
-    "img": "https://th-i.thgim.com/public/incoming/plhoz2/article71096492.ece/alternates/LANDSCAPE_1200/2026-06-09T011546Z_1385071968_RC2UNLAJ8JMH_RTRMADP_3_USA-TRUMP-ANTHROPIC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-cuts-access-to-ai-models-over-us-national-security-order/article71096476.ece",
-    "time": "2026-06-13T03:27:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I am greater than death': How Jaspal Rana gave life to Tagore's 'Mrityunjay'",
-    "desc": "More than a decorated shooter and coach, Jaspal Rana's enduring legacy lay in his generosity and unwavering commitment to nurturing Indian shooting. Through anecdotes from those closest to him and the grief his passing left behind, this piece explores how Rana's life came to embody the spirit of Rabindranath Tagore's Mrityunjay, becoming, in essence, \"greater than death\".",
-    "img": "https://static.toiimg.com/photo/msid-131696493,imgsize-51658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/i-am-greater-than-death-how-jaspal-rana-gave-life-to-rabindranath-tagores-mrityunjay/articleshow/131696493.cms",
-    "time": "2026-06-13T02:41:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "CVs no more a selling point",
     "desc": "The London-based company which has been operating in India for more than a decade now said that the volume of interviews that recruiters today conduct have gone up because corporates are mandating them to look beyond CVs when shortlisting a pool of candidates for a job. “Earlier CVs used to be unique but technology has changed that. Resumes are no longer a selling point.",
@@ -790,15 +808,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/retail-inflation-inches-up-to-5-month-high-in-may/articleshow/131695946.cms",
     "time": "2026-06-13T00:29:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Byju’s founder gets relief as S’pore court stays order",
-    "desc": "In a statement on Friday, his legal counsel, Lazareff Le Bars, said the General Division of the Singapore High Court stayed the committal and surrender provisions of the May 25 contempt order on June 10. As a result, Raveendran will not be required to surrender on June 15 as previously directed. The law firm also said it filed an appeal against the contempt ruling.",
-    "img": "https://static.toiimg.com/photo/msid-131695933,imgsize-212410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/byjus-founder-gets-relief-as-spore-court-stays-order/articleshow/131695913.cms",
-    "time": "2026-06-13T00:26:24.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/pvr-inox-horror-con-khooni-monday-backrooms-screening-pvr-inox-pictures-delhi-saket-fan-centric-experience/article71092664.ece",
     "time": "2026-06-12T10:24:28.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "False AI 'fact-checks' stir online chaos after Charlie Kirk assassination",
-    "desc": "A day after Charlie Kirk, a 31-year-old prominent ally of U.S. President Donald Trump, was fatally gunned down at a university in Utah, the X account of AI chatbot Perplexity falsely stated that the activist was never shot",
-    "img": "https://th-i.thgim.com/public/incoming/awt67h/article70040519.ece/alternates/LANDSCAPE_1200/2025-09-12T020418Z_775864380_RC21QGAXMMDV_RTRMADP_3_USA-UTAH-SHOOTING-CHARLIE-KIRK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/false-ai-fact-checks-stir-online-chaos-after-charlie-kirk-assassination/article70040517.ece",
-    "time": "2026-06-12T08:25:47.000Z"
   }
 ];

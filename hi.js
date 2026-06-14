@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Star-studded Brazil aim to tackle mighty Morocco",
+    "title": "IND-W vs PAK-W Pitch Report: How will the surface at Edgbaston in Birmingham fare for Women's T20 WC game 6?",
+    "desc": "The stage is set for the Women’s T20 World Cup clash between India women and Pakistan women. The two sides will meet in game 6 of the tournament at Edgbaston in Birmingham on June 14....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-pak-w-pitch-report-how-will-the-surface-at-edgbaston-in-birmingham-fare-for-women-s-t20-wc-game-6-2026-06-14-1044764",
+    "time": "2026-06-14T00:17:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Both sides share points, game ends 1-1",
     "desc": "Welcome to our live coverage of yet another FIFA World Cup clash! Tonight, we have Brazil taking on Morocco, and two sides, who are brilliant in their own right, will be hoping to put in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kane-williamson-s-replacement-announced-for-test-series-against-england-2026-06-13-1044737",
     "time": "2026-06-13T13:39:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Hardik Pandya not playing first ODI vs Afghanistan in Dharamsala?",
-    "desc": "India are without all-rounder Hardik Pandya for the opening ODI against Afghanistan at the Himachal Pradesh Cricket Association Stadium in Dharamsala. The star cricketer suffered a leg strain during training earlier this week. He was named...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-first-odi-vs-afghanistan-in-dharamsala-2026-06-13-1044732",
-    "time": "2026-06-13T12:16:07.000Z"
   }
 ];
