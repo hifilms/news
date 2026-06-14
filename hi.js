@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Deepti Sharma achieves huge feat after exceptional performance against Pakistan women in Birmingham",
+    "desc": "India women got off to a brilliant start to their Women’s T20 World Cup 2026 campaign. The side took on Pakistan women at Edgbaston in Birmingham on June 14th, and the game saw India coming...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/deepti-sharma-achieves-huge-feat-after-exceptional-performance-against-pakistan-women-in-birmingham-2026-06-14-1044843",
+    "time": "2026-06-14T17:45:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India women get off to stellar start to Women's T20 World Cup 2026, defeat Pakistan by 64 runs",
+    "desc": "The 6th game of the ongoing Women’s T20 World Cup 2026 saw India women taking on Pakistan women. The two sides met at Edgbaston in Birmingham on June 14th, and India managed to put in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-women-get-off-to-stellar-start-to-women-s-t20-world-cup-2026-defeat-pakistan-by-64-runs-2026-06-14-1044838",
+    "time": "2026-06-14T17:02:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Germany defeat Curacao by 7-1",
+    "desc": "Germany finally kick off their FIFA World Cup 2026 campaign. The side will be taking on Curacao at the Houston Stadium in Houston, and the team will hope to put in a good showing. Coming...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/ger-vs-cuw-fifa-world-cup-2026-live-germany-look-for-dominant-start-to-the-tournament-1044835",
+    "time": "2026-06-14T16:39:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Very impressive': Former India cricketer weighs in on Gurnoor Brar's debut after win in 1st AFG ODI",
+    "desc": "The Indian team got off to a great start to the ongoing ODI series against Afghanistan. The two sides met at the HPCA Stadium in Dharamsala for the clash, and India managed to register a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-gurnoor-brar-s-debut-after-win-in-1st-afg-odi-2026-06-14-1044833",
+    "time": "2026-06-14T16:21:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Smriti Mandhana equals Mithali Raj, Harmanpreet Kaur in elite list with brilliant knock against Pakistan women",
     "desc": "India women kicked off their T20 World Cup 2026 campaign by taking on Pakistan. The two sides met at Edgbaston in Birmingham on June 14th, and the game began with India coming in to bat...",
     "img": "",
@@ -37,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND-W vs PAK-W, Women's T20 World Cup LIVE score: India look for wickets, Pakistan aim for stability",
+    "title": "IND-W vs PAK-W, Women's T20 World Cup Highlights: India defeat Pakistan by 64 runs",
     "desc": "Game 6 of the ongoing Women's T20 World Cup 2026 sees India women taking on Pakistan women. The two sides meet at Edgbaston in Birmingham; it is worth noting that this will be the first...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/portugal-set-to-pay-tribute-to-late-diogo-jota-during-fifa-world-cup-2026-here-s-how-2026-06-14-1044808",
     "time": "2026-06-14T11:16:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch IND vs PAK T20 World Cup on TV for free and streaming?",
-    "desc": "India begin their Women’s T20 World Cup campaign at Edgbaston on Sunday, June 14, with a high-profile clash against Pakistan. Ahead of that, captain Harmanpreet Kaur and star batter Jemimah Rodrigues have spoken about playing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-live-when-and-where-to-watch-ind-vs-pak-t20-world-cup-on-tv-for-free-and-streaming-2026-06-14-1044805",
-    "time": "2026-06-14T10:27:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India stun Olympic champion South Korea to secure mixed team gold in Archery World Cup",
-    "desc": "India secured gold in the recurve mixed team event at the Archery World Cup in Antalya after Dhiraj Bommadevara and Kumkum Mohod defeated Olympic champions South Korea in a tense final. The Indian pair held...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-stun-olympic-champion-south-korea-to-secure-mixed-team-gold-in-archery-world-cup-2026-06-14-1044802",
-    "time": "2026-06-14T09:23:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will India shake hands with Pakistan players in T20 World Cup 2026? Harmanpreet Kaur answers",
-    "desc": "India captain Harmanpreet Kaur declined to comment on whether players from India and Pakistan would exchange handshakes during their Women’s T20 World Cup match on Sunday in Edgbaston. She wants the focus firmly on cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-india-shake-hands-with-pakistan-players-in-t20-world-cup-2026-harmanpreet-kaur-answers-2026-06-14-1044799",
-    "time": "2026-06-14T08:31:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nitish Kumar Reddy pauses press conference for call with mother, video goes viral",
-    "desc": "A brief interruption during India’s post-match media interaction produced one of the most memorable moments of the evening in Dharamsala, where Nitish Kumar Reddy paused to answer a call from his mother shortly after contributing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nitish-kumar-reddy-pauses-press-conference-for-call-with-mother-video-goes-viral-watch-2026-06-14-1044794",
-    "time": "2026-06-14T07:49:26.000Z"
   }
 ];
