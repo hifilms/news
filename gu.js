@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "Peko અને Kalp વચ્ચે વ્યૂહાત્મક ભાગીદારી, SME અર્થતંત્ર માટે બનશે આગામી પેઢીનું ડિજિટલ ઇન્ફ્રાસ્ટ્રક્ચર",
+    "desc": "Peko અને Kalp વચ્ચે થયેલા વ્યૂહાત્મક સહયોગ હેઠળ SME ક્ષેત્ર માટે આગામી પેઢીનું ડિજિટલ ઇન્ફ્રાસ્ટ્રક્ચર વિકસાવવામાં આવશે. આ ભાગીદારી દ્વારા Pekoના સુપર-પ્લેટફોર્મમાં ડિસ્ટ્રિબ્યુટેડ લેજર, પ્રોગ્રામેબલ ડિજિટલ કેશ, ડિજિટલ એસેટ્સ, ટોકનાઇઝેશન અને એજેન્ટિક કોમર્સ જેવી અદ્યતન ટેક્નોલોજીનો સમાવેશ થશે, જે બેંકો, ફ્રી ઝોન, સરકારો અને ઉદ્યોગોને નવી ડિજિટલ ક્ષમતાઓ પૂરી પાડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/peko-and-kalp-partner-to-build-next-generation-of-digital-infrastructure-for-sme-economy-481510 ",
+    "time": "2026-06-14T13:27:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપમાં પણ પાકિસ્તાન સાથે હાથ નહીં મિલાવે ભારત ? કેપ્ટન હરમનપ્રીત કૌરનો ચોંકાવનારો જવાબ",
+    "desc": "T20 વર્લ્ડ કપ 2026 ગ્રુપ Aમાં ભારત અને પાકિસ્તાન વચ્ચે આજે સાંજે 7:00 વાગ્યે બર્મિંગહામના એજબેસ્ટન મેદાન પર મેચ રમાશે. ત્યારે આ મેચમાં ભારત પાકિસ્તાન સાથે હાથ મિલાવશે કે નહીં, આ સવાલનો કેપ્ટન હરમનપ્રીત કૌરે શાનદાર જવાબ આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/womens-t20-world-cup-2026-will-india-no-handshake-with-pakistan-481491 ",
+    "time": "2026-06-14T11:32:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સાચો મિત્ર અને સાચો ઉદ્યોગપતિ: જ્યારે આનંદ મહિન્દ્રાએ ઈલોન મસ્કને પડતીના દિવસોમાં સંભાળ્યા, જાણો",
+    "desc": "આનંદ મહિન્દ્રાએ 2018ના એ સમયને યાદ કર્યો જ્યારે એલન મસ્ક અને તેમની કંપની, ટેસ્લા, ભારે દબાણ હેઠળ હતા. તે સમયે, ટેસ્લા ઉત્પાદન પડકારોનો સામનો કરી રહી હતી, અને ઘણા ટીકાકારો કંપનીના ભવિષ્ય પર પ્રશ્ન ઉઠાવી રહ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/when-anand-mahindra-took-care-of-elon-musk-in-his-declining-days-481490 ",
+    "time": "2026-06-14T11:32:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રન આઉટ થયા પર રોહિત શર્માએ શુભમન ગિલને શું કહ્યું? ભારતીય કેપ્ટને કર્યો ખુલાસો",
+    "desc": "ધર્મશાળા વનડેમાં રોહિત શર્મા કમનસીબે અફઘાનિસ્તાન સામે રન આઉટ થયો હતો. તે સારા રન બનાવી રહ્યો હતો, પરંતુ રન આઉટથી આખી રમત બગડી ગઈ. મેચ પછી ભારતીય કેપ્ટન શુભમન ગિલે રોહિતના રન આઉટ અંગે સ્પષ્ટતા કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/what-did-rohit-sharma-say-to-shubman-gill-after-he-was-run-out-indian-captain-reveals-481480 ",
+    "time": "2026-06-14T10:01:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "OTT પર આવી નવી હોરર ફિલ્મ, નબળા મનના લોકોએ આ ફિલ્મ ન જોવી, ડરામણી બાળકી મગજમાં ઘર કરી જશે",
+    "desc": "હોરર ફિલ્મોના જોવાના શોખીનો માટે ઓટીટી પર સૌથી ડરામણી ફિલ્મ રિલીઝ થઈ ચુકી છે. આ ફિલ્મના દરેક સીનમાં તમારા ધબકારા વધી જશે. આ ફિલ્મ જોયા પછી શક્ય છે કે એક રાત તમે શાંતિથી ઊંઘી પણ ન શકો. એટલે આ ફિલ્મ પોતાના રિસ્ક પર જોવી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/new-horror-movie-in-hindi-on-ott-lee-cronin-s-the-mummy-movie-on-ott-prime-video-481479 ",
+    "time": "2026-06-14T10:00:43.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ફુટબોલ World Cup નો તે &amp;#039;ખૂની ગોલ&amp;#039;... એક ભૂલની સજા &amp;#039;મોત&amp;#039;, આ કહાની તમારૂ દિલ તોડી દેશે",
     "desc": "દુનિયાભરમાં ફુટબોલ વિશ્વકપની ચર્ચા થઈ રહી છે. આ વખતે ફુટબોલના મહાકુંભમાં 48 ટીમો મેદાનમાં ઉતરી છે. આ વિશ્વકપનો ઈતિહાસ શાનદાર અને રોમાંચક રહ્યો છે. તેમાં કેટલાક કાળા અધ્યાય પણ જોડાયેલા છે. આજે અમે તમને ફુટબોલ વર્લ્ડ કપની એક ખતરનાક કહાની વિશે જણાવીશું.",
@@ -315,15 +360,6 @@ const newsData_gu = [
     "time": "2026-06-12T09:56:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026 ની સામે IPL અને ક્રિકેટ વર્લ્ડ કપ કંઈ નથી, પ્રાઇઝ મની જાણીને પહોળી થઈ જશે આંખો!",
-    "desc": "FIFA વર્લ્ડ કપ 2026 શરૂ થઈ ચૂક્યો છે, જેનું સહ-યજમાન યુનાઇટેડ સ્ટેટ્સ, મેક્સિકો અને કેનેડા છે. ટુર્નામેન્ટનો ઉદ્ઘાટન મેચ મેક્સિકો અને દક્ષિણ આફ્રિકા વચ્ચે રમાશે. FIFA એ આ વર્ષે ઇનામની રકમમાં નોંધપાત્ર વધારો કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/the-prize-money-for-the-ipl-and-cricket-world-cup-pales-in-comparison-to-that-of-the-fifa-world-cup-2026-the-figures-will-leave-you-stunned-481266 ",
-    "time": "2026-06-12T09:22:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "₹2,172 કરોડના ક્લેમ પર ₹579 કરોડમાં સમજુતિ, જનતાના પૈસા સાથે રમત, ક્યાં થઈ ગેરરીતિ?",
     "desc": "Agson Global Private Limited ના મામલામાં NARCL અને IDRCL ની એડમિટેડ ક્લેમ રકમ 2172 કરોડ રૂપિયા હતી. આ મામલામાં બનેલી કમિટી ઓફ ક્રેડિટર્સમાં એકમાત્ર NARCL ની પાસે 100 ટકા વોટિંગ રાઇટ્સ હતા. એટલે કે નાણાકીય નાદારો તરફથી નિર્ણય લેવાની કમાન અને કંટ્રોલ માત્ર NARCL ના હાથમાં હતો.",
@@ -358,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/mega-merger-in-opposition-after-sharad-pawar-all-eyes-on-mamata-banerjee-as-congress-leader-reveals-inside-details-481250 ",
     "time": "2026-06-12T06:36:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શૂટિંગ જગતમાંથી આવ્યા ખરાબ સમાચાર, મનુ ભાકરના દિગ્ગજ કોચ જસપાલ રાણાનું નિધન",
-    "desc": "ભારતીય શૂટિંગના દિગ્ગજ અને જાણીતા કોચ જસપાલ રાણાનું શુક્રવારે 49 વર્ષની ઉંમરે નિધન થયું છે. જસપાલ રાણાએ મનુ ભાકરને તૈયાર કરવામાં મહત્વની ભૂમિકા ભજવી, જેણે 2024 પેરિસ ઓલિમ્પિકમાં બે બ્રોન્ઝ મેડલ જીતી ઈતિહાસ રચ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shooting-icon-jaspal-rana-ji-has-passed-away-at-the-age-of-49-481244 ",
-    "time": "2026-06-12T06:20:23.000Z"
   },
   {
     "cat": "World",
@@ -412,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/lpg-crisis-png-users-must-surrender-lpg-connection-else-face-govt-notice-481176 ",
     "time": "2026-06-11T11:45:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભારત પર ફરી મંડરાયું મોટું સંકટ! હોર્મુઝ માર્ગ બંધ થતાં જ LPG, પેટ્રોલ-ડીઝલના ભાવ પર જોવા મળી શકે છે અસર",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે ફરી એકવાર શરૂ થયેલા યુદ્ધના કારણે હોર્મુઝ માર્ગ સંપૂર્ણપણે બંધ થઈ ગયો છે. હવે ત્યાંથી ઓઈલ અને ગેસના જહાજોનું પસાર થવું લગભગ અશક્ય જેવું બની ગયું છે. આ સમાચારથી ભારતની ચિંતા વધી શકે છે, કારણ કે ભારતના કુલ LPG આયાતનો 90 ટકા હિસ્સો આ જ માર્ગથી આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-crisis-looms-over-india-again-as-soon-as-the-hormuz-strait-is-closed-the-price-of-lpg-petrol-and-diesel-may-be-affected-481175 ",
-    "time": "2026-06-11T11:41:10.000Z"
   },
   {
     "cat": "Politics",
@@ -646,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/what-is-peddi-movie-janhvi-kapoor-role-controversy-why-buchi-babu-sana-shared-post-after-negative-review-480605 ",
     "time": "2026-06-06T11:33:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કપલ માટે મસ્ટ વોચ વેબ સીરીઝ, રવિવારે પાર્ટનર સાથે બેસીને જોવામાં મજા આવે તેવી 5 વેબ સીરીઝ",
-    "desc": "જો તમે પોતાના પાર્ટનર સાથે ઘરે બેસીને કોઈ સારી વેબ સીરીઝ જોવા માંગો છો પણ તમને ખબર નથી કે કઈ વેબ સીરીઝ જોવી તો ચાલો તમને ઓટીટીની 5 બેસ્ટ કપલ ફ્રેન્ડલી વેબ સીરીઝ વિશે જણાવીએ. આ 5 વેબ સીરીઝ પાર્ટનર સાથે જોવા માટે બેસ્ટ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/couple-friendly-hindi-web-series-on-netflix-and-prime-video-5-hindi-must-watch-web-series-for-couple-480575 ",
-    "time": "2026-06-06T08:30:13.000Z"
   }
 ];

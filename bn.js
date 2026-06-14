@@ -108,42 +108,6 @@ const newsData_bn = [
     "time": "2026-06-11T12:36:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "মসনদে বিজেপি, তৃণমূলে দ্রোহকাল: 'মন্থনে' কীভাবে বদলাচ্ছে বঙ্গ রাজনীতির চেনা অংক?",
-    "desc": "রাজনীতির জটিল অংকে 'জল মাপার খেলা' কোন দিকে আবর্তিত হবে, তা বলবে সময়। বলাই বাহুল্য, আগের কোনও বিধানসভা নির্বাচন পরবর্তী পরিস্থিতিতে এমন অভূতপূর্ব বিদ্রোহ-ইস্তফার সাক্ষী থাকেনি বাংলা। বাংলার এই রাজনৈতিক 'মন্থনে' লাভের গুড় ঘরে তুলবে কে? বঙ্গ রাজনীতির প্রেক্ষাপটে দাঁড়িয়ে এই রাজনৈতিক 'মন্থন' কতটা তাৎপর্যপূর্ণ, রইল তার সুলুকসন্ধান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tmc-mp-split-bjp-in-advantage-what-does-this-political-churn-mean-for-west-bengal-politics-explained_657735.html ",
-    "time": "2026-06-11T10:40:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'দিদি, আই মিস ইউ...' তৃণমূলের ভাঙনের মাঝেই সাংসদ শতাব্দীর বড় বার্তা মমতাকে: কোন পথে রাজনীতি? বড় খবর",
-    "desc": "শতাব্দী রায় তাঁর বিস্ফোরক বক্তব্য়ে জানিয়েছেন, নির্বাচনের ফল প্রকাশের পর মমতা বন্দ্যোপাধ্যায়ের ডাকা একটি পর্যালোচনা বৈঠকই ছিল দল ছাড়ার মূল অনুঘটক বা ‘টার্নিং পয়েন্ট’। তিনি বলেছেন, দলের বহু নেতাই পরাজয়ের কারণগুলো নিয়ে একটি স্বচ্ছ ও সৎ পর্যালোচনা চেয়েছিলেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/satabdi-roy-big-emotional-message-to-didi-mamata-banerjee-amid-tmc-split-after-tmc-loose-in-election_657685.html ",
-    "time": "2026-06-11T05:41:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "একই মায়ের পেটের ভাই, তবুও খেলবেন বিভিন্ন দেশের হয়ে! এবার বিশ্বকাপে এমনই ৪ জোড়া ফুটবলার",
-    "desc": "বিশ্বকাপে এবার এমনই চার জোড়া ভাইয়ের জুটি রয়েছে যাঁরা ভিন্ন ভিন্ন দেশের হয়ে বিশ্বকাপ খেলবেন। এবং নকআউট পর্বে তাঁরা মুখোমুখিও হতে পারেন। যদিও প্রাথমিক গ্রুপ পর্বে তাঁদের একে অপরের বিরুদ্ধে খেলার কোনও সূচি নেই। তবে টুর্নামেন্টের পরবর্তী পর্যায়ে তাঁরা মাঠের লড়াইয়ে সরাসরি প্রতিপক্ষ হয়ে উঠতে পারেন। চিনে নিন সেই ৮ ফুটবলারকে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/brothers-playing-for-different-national-teams-in-fifa-world-cup-2026_657636.html ",
-    "time": "2026-06-10T15:14:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "শাকিরা-নোরা-কেটির আগুন, ৫ কারণেই ৩ শো থেকে সরবে না চোখ! কখন কোথায় দেখবেন বিশ্বকাপের জমকালো ওপেনিং?",
-    "desc": "কাউন্টডাউন প্রায় শেষ। আর কয়েক ঘণ্টা পর ইতিহাসের সবচেয়ে বড় ফুটবল বিশ্বকাপ (FIFA World Cup 2026)। মাঝে আর ঠিক একদিন। ১১ জুন থেকে শুরু এই খেলার শ্রেষ্ঠ ইভেন্ট। আর তার আগে জেনে নিন কখন কোথায় দেখবেন কাপযুদ্ধের দুর্দান্ত উদ্বোধনী অনুষ্ঠান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/fifa-world-cup-2026-opening-ceremony-full-performer-lineup-and-all-details_657629.html ",
-    "time": "2026-06-10T13:43:19.000Z"
-  },
-  {
     "cat": "World",
     "title": "আগুনে ফুটছে পাক-অধিকৃত কাশ্মীর! বইছে রক্তগঙ্গা, মৃত্যুমিছিল, বন্ধ ইন্টারনেট ও মোবাইল",
     "desc": "জোটটিকে নিষিদ্ধের ঘটনায় রাওলাকোটে বিক্ষোভ শুরু হয়। বিক্ষোভ দমনে নিরাপত্তা বাহিনীর বল প্রয়োগ করলে সংঘর্ষ বেধে যায়। এতে নিরাপত্তা বাহিনীর গুলি চালালে এক ব্যবসায়ী প্রাণ হারান। ব্যবসায়ীর মৃত্যুর ঘটনাকে কেন্দ্র করে উত্তেজনা ছড়িয়ে পড়লে গত রবিবার রাওয়ালকোট শহরে তীব্র সংঘর্ষের ঘটনা ঘটে।",
@@ -295,5 +259,50 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/30-indians-caught-driving-trucks-illegally-in-us-face-deportation_656296.html ",
     "time": "2026-06-02T11:34:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
   }
 ];
