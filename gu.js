@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "યુદ્ધ વિરામ માટે અમેરિકા-ઈરાન વચ્ચે MoU સાઇન, ટ્રમ્પના નિવેદનથી વધ્યું સસ્પેન્સ; હવે શુક્રવાર પર બધાની નજર",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે છેલ્લા અંદાજે ચાર મહિનાથી યુદ્ધ ચાલી રહ્યું હતું. હવે આ યુદ્ધને રોકવા માટે બન્ને દેશોએ એક મોટી ડીલ પર સાઇન કરી દીધી છે. આ કરારને MOU એટલે કે મેમોરેન્ડમ ઓફ અંડરસ્ટેન્ડિંગ કહેવામાં આવે છે. સરળ શબ્દોમાં કહીએ તો, એક લેખિત સંમતિ કે આપણે આગળ વાતચીત કરીશું અને લડાઈ બંધ કરીશું. તેને આ સમગ્ર સંકટનો સૌથી મોટો બ્રેકથ્રુ માનવામાં આવી રહ્યો છે. જો કે, અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના નિવેદને આ ડીલ પર સસ્પેન્સ વધારી દીધું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/mou-signed-to-end-war-now-waiting-for-friday-donald-trump-statement-increases-suspense-again-481621 ",
+    "time": "2026-06-15T18:05:34.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ફિફા વર્લ્ડ કપનો ક્રેઝ: ZEE પ્લેટફોર્મ્સ પર 10 કરોડ દર્શકોનું ઘોડાપૂર, Zee5 પર લાઈવ મેચોની ધૂમ",
     "desc": "FIFA World Cup 2026ની શરૂઆત સાથે જ ફૂટબોલનો ક્રેઝ દર્શકોના માથે ચડીને બોલી રહ્યો છે, જેનો સીધો ફાયદો Zee Entertainmentને મળ્યો છે. ટુર્નામેન્ટના પ્રથમ વીકએન્ડમાં જ કંપનીના ડિજિટલ, ટેલિવિઝન અને સોશિયલ મીડિયા પ્લેટફોર્મ્સ પર 10 કરોડથી વધુ દર્શકોનો અભૂતપૂર્વ પ્રતિસાદ સાંપડ્યો છે. ખાસ કરીને ઓટીટી પ્લેટફોર્મ Zee5 પર લાખો ફેન્સે લાઈવ મેચોની ડિજિટલ મજા માણવાની સાથે વ્યુઅરશિપના નવા રેકોર્ડ્સ બનાવ્યા છે.",
@@ -601,24 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/historic-sacred-act-introduced-in-america-to-protect-religious-places-and-devotees-480925 ",
     "time": "2026-06-09T07:49:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Maruti નો મોટો પ્લાન! નવા લુકમાં આવશે Brezza, Fronx અને Grand Vitara, મળશે નવા ફીચર્સ",
-    "desc": "Maruti Suzuki પોતાની લોકપ્રિય SUV Brezza, Fronx અને Grand Vitara ને મોટા અપડેટની સાથે લોન્ચ કરવાની તૈયારી કરી રહી છે. 2026મા બ્રેઝા અને ગ્રાન્ડ વિટારા ફેસલિફ્ટ મોડલ બજારમાં આવી શકે છે, જ્યારે નવી Fronx 2027 માં લોન્ચ થવાની સંભાવના છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-brezza-fronx-and-grand-vitara-will-come-in-a-new-look-with-update-features-480923 ",
-    "time": "2026-06-09T07:26:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "પેપરલીક વગર કેવી રીતે થાય છે દુનિયાની સૌથી મોટી પરીક્ષા, ૧.૩૪ કરોડ વિદ્યાર્થીઓ છતાં ચીનમાં કેમ નથી થતું પેપર લીક? જાણો રહસ્ય",
-    "desc": "ચીનમાં હાલ દુનિયાની સૌથી મોટી અને આકરી ગણાતી ગાઓકાઓ 2026 (Gaokao) પરીક્ષા ચર્ચામાં છે. જેમાં 1 કરોડ 34 લાખ વિદ્યાર્થીઓ પરીક્ષા આપવાના છે. આટલી વિશાળ સંખ્યામાં વિદ્યાર્થીઓ છતાં, આ પરીક્ષામાં કોઈ પંખી પણ આવતું નથી. ન તો અહી કોઈ પેપરલીક થાય છે. અભેદ્ય ચક્રવ્યૂહની જેમ આ પરીક્ષા માટે ચુસ્ત બંદોબસ્ત હોય, જેને કારણે પેપર લીક જેવી ઘટના બનવી પણ શક્ય નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/worlds-biggest-exam-why-there-no-paper-leak-in-china-despite-1-crore-34-lakh-students-know-secret-480892 ",
-    "time": "2026-06-09T06:04:28.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,12 +1,147 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Trinamool rebels avoided a long-drawn battle for ‘original’ party tag by merging with little known NCPI",
+    "title": "Heatwaves and ozone together increase India’s cardiac deaths: study",
+    "desc": "A peer-reviewed study reports that surface ozone reaches 85-110 μg/m³ in northern India during heatwaves and exceeds the WHO guideline of 70 μg/m³ in every region of the country. In 2024, roughly 830 more deaths were reported during the heatwave than the preceding days.",
+    "img": "https://th-i.thgim.com/public/incoming/qmucu6/article71106470.ece/alternates/LANDSCAPE_1200/6702_19_2_2024_16_51_52_1_MYSURUSUMMER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/heatwaves-and-ozone-together-increase-indias-cardiac-deaths-study/article71105624.ece",
+    "time": "2026-06-15T20:32:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Merger with NCPI may allow Trinamool rebels to vote in Lok Sabha prior to any ruling on disqualification",
     "desc": "Since the Centre may bring the Delimitation Bill as early as the monsoon session of Parliament, it becomes crucial that this bloc of rebel Trinamool MPs, which has promised support to the NDA, gets to vote when the Bills are taken up",
     "img": "https://th-i.thgim.com/public/incoming/7txwj9/article71106239.ece/alternates/LANDSCAPE_1200/PTI06_14_2026_000531B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-rebels-avoided-a-long-drawn-battle-for-original-party-tag-by-merging-with-little-known-ncpi/article71105674.ece",
-    "time": "2026-06-15T16:36:52.000Z"
+    "time": "2026-06-15T19:51:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After criticism, NCERT to restore original 'Dancing Girl' image in school textbook",
+    "desc": "Iconic bronze figurine of Mohenjo-daro has its bare torso covered in the latest NCERT arts textbook for Class 9; unlike the altered image, the Dancing Girl in a Class 6 textbook appears in a form closer to the original bronze sculpture",
+    "img": "https://th-i.thgim.com/public/incoming/a35kt0/article71105243.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-15%20at%2018.58.12.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ncert-shades-image-of-indus-valley-dancing-girl-in-new-class-9-art-textbook/article71104012.ece",
+    "time": "2026-06-15T19:26:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prakash Padukone reviews Ranveer's Dhurandhar: 'Too much violence'",
+    "desc": "Badminton legend Prakash Padukone has heaped praise on son-in-law Ranveer Singh's latest film Dhurandhar, calling it a \"great film\" while also opening up about his close bond with the actor and the values that have helped sustain his marriage with wife Ujjala for decades. In a recent conversation, the former All England champion revealed that he recently watched Dhurandhar and was impressed by the film and its performances.",
+    "img": "https://static.toiimg.com/photo/msid-131754101,imgsize-66268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prakash-padukone-reviews-ranveer-singhs-dhurandhar-we-felt-there-was-a-little-too-much-violence-opens-up-about-their-close-bond/articleshow/131754013.cms",
+    "time": "2026-06-15T19:15:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meeting PM hasn’t changed Jantar Mantar protest plan for statehood: Omar",
+    "desc": "On June 3, Omar had called a meeting of his party’s MLAs and MPs at Dachigam national park on Srinagar’s outskirts for a day-long strategy session that ended with a decision to protest in New Delhi on the opening day of Parliament’s monsoon session demanding restoration of J&K’s statehood. J&K lost its statehood on Aug 5, 2019, when the Centre abrogated Article 370, revoked the region's special constitutional status and bifurcated the former state into two Union territories, J&K and Ladakh.",
+    "img": "https://static.toiimg.com/photo/msid-131754032,imgsize-394656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/meeting-pm-hasnt-changed-jantar-mantar-protest-plan-for-statehood-omar/articleshow/131753683.cms",
+    "time": "2026-06-15T19:12:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fifth unit of Kudankulam nuclear power project likely to be operational by year-end",
+    "desc": "NPCIL said, \"This milestone reflects the close coordination and dedicated efforts of NPCIL and Atomstroyexport, Russian Federation. The successful erection of the vessel demonstrates the steady progress being made towards the completion of Unit 5, reinforcing NPCIL's commitment towards nation’s clean energy transition,\" it said. The Kudankulam site comprises six units, each of 1,000 MW capacity.",
+    "img": "https://static.toiimg.com/photo/msid-131754048,imgsize-41400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fifth-unit-of-kudankulam-nuclear-power-project-likely-to-be-operational-by-year-end/articleshow/131753640.cms",
+    "time": "2026-06-15T19:12:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCPI in a social media post",
+    "desc": "20 rebel MPs of Trinamool Congress have announced their decision to merge with NCPI after they met the Speaker of Lok Sabha Om Birla in Delhi on Sunday and submitted a letter to that effect",
+    "img": "https://th-i.thgim.com/public/news/national/gy8g8c/article71104457.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-15%20at%2015.46.30.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/we-are-the-largest-parliamentary-force-from-west-bengal-ncpi-in-a-social-media-post/article71104281.ece",
+    "time": "2026-06-15T18:36:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Disha Patani rents out luxury apartment for Rs 2.85 lakh a month",
+    "desc": "Disha Patani has added another chapter to her real estate portfolio by leasing out her luxury apartment in Mumbai's sought-after Khar West neighbourhood. According to property registration documents accessed through Zapkey, the actress has rented out the property at a starting monthly rent of Rs 2.85 lakh. The tenant has paid a security deposit of Rs 8.55 lakh, equivalent to three months' rent.",
+    "img": "https://static.toiimg.com/photo/msid-131752235,imgsize-53292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/disha-patani-rents-out-luxury-mumbai-apartment-for-rs-2-85-lakh-a-month-property-expected-to-earn-nearly-rs-71-lakh-report/articleshow/131752036.cms",
+    "time": "2026-06-15T17:59:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "13,343 candidates qualify for Mains exam",
+    "desc": "The UPSC has announced the Civil Services Preliminary Examination 2026 results, with 13,343 candidates advancing to the Main Examination. These qualifiers must complete online formalities, including fee payment and cadre preference submission, by June 28 to remain eligible for recruitment into services like IAS, IFS, and IPS.",
+    "img": "https://static.toiimg.com/photo/msid-131752404,imgsize-276194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/upsc-prelims-2026-results-out-13343-candidates-qualify-for-mains-exam/articleshow/131752421.cms",
+    "time": "2026-06-15T17:59:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Limited traffic through Hormuz, despite Trump’s announcement",
+    "desc": "Maritime intelligence publication Lloyd’s List estimates that about 600 ships remain stranded west of the chokepoint; last week, Trump claimed that the U.S. military had quietly assisted around 200 commercial vessels through the Strait since May",
+    "img": "https://th-i.thgim.com/public/incoming/ks6yfx/article71106443.ece/alternates/LANDSCAPE_1200/2026-06-15T160713Z_2034585245_RC2EULAS1H6J_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/limited-traffic-through-hormuz-despite-trumps-announcement/article71106150.ece",
+    "time": "2026-06-15T17:55:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's silver imports plunge to over three-year low in May, curbs and higher duties hit inflows",
+    "desc": "India's silver imports plummeted by 87% in May to their lowest in over three years, following government restrictions and increased duties. This sharp decline, with imports falling to $75.57 million and volumes dropping 94%, aims to curb precious metal purchases and ease pressure on the rupee.",
+    "img": "https://static.toiimg.com/photo/msid-131751935,imgsize-570274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-silver-imports-plunge-to-over-three-year-low-in-may-curbs-and-higher-duties-hit-inflows/articleshow/131751912.cms",
+    "time": "2026-06-15T17:50:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I worry for him': McCullum breaks silence on Stokes nightclub controversy",
+    "desc": "England coach Brendon McCullum expressed concern for captain Ben Stokes, who was dropped and is under investigation for a nightclub incident. Stokes and Gus Atkinson's exclusion follows a breach of team protocols, casting doubt on their Test futures. McCullum emphasized supporting the players while addressing the standards they failed to meet.",
+    "img": "https://static.toiimg.com/photo/msid-131751928,imgsize-52624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-worry-for-him-brendon-mccullum-breaks-silence-on-ben-stokes-nightclub-controversy/articleshow/131751924.cms",
+    "time": "2026-06-15T17:50:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka govt. asks RSS chief Mohan Bhagwat to send representatives to explain legal status on registration of organisation",
+    "desc": "Quoting the 2025-2026 report of the Akhil Bharatiya Pratinidhi Sabha, the highest decision-making body of the RSS, Home Minister Priyank Kharge has said that the organisation has significant footprint in Karnataka, with 4,127 daily shakhas, 1,389 weekly milans, and 60 monthly mandalis",
+    "img": "https://th-i.thgim.com/public/incoming/kc9bky/article71106077.ece/alternates/LANDSCAPE_1200/10258_16_11_2025_20_33_44_1_RSS_ROUTE_MARCH_IN_CHITTAPUR_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-govt-asks-rss-chief-mohan-bhagwat-to-send-representatives-to-explain-legal-status-on-registration-of-organisation/article71105004.ece",
+    "time": "2026-06-15T17:33:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three months on, family of custodial torture victim refuses to receive his body",
+    "desc": "The Madurai Bench of the Madras High Court directed Akash Delison’s father to receive the body by 5 p.m. on Monday (June 15, 2026), adding that otherwise, the State would be directed to dispose of it",
+    "img": "https://th-i.thgim.com/public/incoming/4nc8jf/article71106057.ece/alternates/LANDSCAPE_1200/9871_6_2_2026_18_47_39_1_DSC_9829.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Madurai/three-months-on-family-of-custodial-torture-victim-refuses-to-receive-his-body/article71105759.ece",
+    "time": "2026-06-15T17:23:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cape Verde goalkeeper who became the second-oldest FIFA World Cup debutant",
+    "desc": "Cape Verde's Vozinha made history as the second-oldest debutant in men's FIFA World Cup history at 40. The veteran goalkeeper, with over a decade of international experience and 81 caps, showcased a composed performance against Spain. His journey from starting his professional career in 2007 to this World Cup debut highlights dedication and a dream realized.",
+    "img": "https://static.toiimg.com/photo/msid-131751062,imgsize-166734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/meet-vozinha-cape-verde-goalkeeper-who-became-the-second-oldest-fifa-world-cup-debutant/articleshow/131751017.cms",
+    "time": "2026-06-15T17:13:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt to sell up to 5% stake in GIC at Rs 352 per share; OFS opens June 16",
+    "desc": "The government is set to divest up to 5% of its stake in General Insurance Corporation of India (GIC) via an offer for sale, opening for institutional investors on June 16. Priced at a floor of Rs 352 per share, this move could raise approximately Rs 3,000 crore. Retail investors can participate the following day.",
+    "img": "https://static.toiimg.com/photo/msid-131750919,imgsize-705147.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-to-sell-up-to-5-stake-in-gic-at-rs-352-per-share-ofs-opens-june-16/articleshow/131750848.cms",
+    "time": "2026-06-15T17:06:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -43,24 +178,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/indian-commercial-ships-should-avoid-shinas-anchorage-shipworkers-union-tells-centre/article71105324.ece",
     "time": "2026-06-15T16:11:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress questions Modi govt’s global outreach amid Pakistan’s rise",
-    "desc": "Congress leader Jairam Ramesh said the news that the U.S. and Iran will be signing an agreement on June 19 in Geneva to halt hostilities in West Asia is to be welcomed, even though the full details are yet to be made public officially",
-    "img": "https://th-i.thgim.com/public/incoming/3h5wn2/article71103780.ece/alternates/LANDSCAPE_1200/20260611195L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-slams-pm-modis-blind-devotion-to-israel-says-national-interest-demands-greater-balance/article71103752.ece",
-    "time": "2026-06-15T16:10:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NCPI in a social media post",
-    "desc": "20 rebel MPs of Trinamool Congress have announced their decision to merge with NCPI after they met the Speaker of Lok Sabha Om Birla in Delhi on Sunday and submitted a letter to that effect",
-    "img": "https://th-i.thgim.com/public/news/national/gy8g8c/article71104457.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-15%20at%2015.46.30.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/we-are-the-largest-parliamentary-force-from-west-bengal-ncpi-in-a-social-media-post/article71104281.ece",
-    "time": "2026-06-15T16:07:45.000Z"
   },
   {
     "cat": "Politics",
@@ -289,15 +406,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Perrie Edwards",
-    "desc": "embrace your authentic self and stand out for who you are. Her 2013 words encourage aspiring creatives to be confident and unique, emphasizing that true individuality is the key to success. Edwards continues to inspire with her solo ventures and personal milestones.",
-    "img": "https://static.toiimg.com/photo/msid-131744710,imgsize-132302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-by-perrie-edwards-just-be-yourself-be-confident-try-and-stand-out-but-in-a-good-way-stand-out-for-being-yourself/articleshow/131744562.cms",
-    "time": "2026-06-15T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Director Vijay hails Ajith’s racing feat",
     "desc": "Director Vijay lauded actor Ajith Kumar's historic participation in the 24 Hours of Le Mans race, marking the first Indian team to compete. Vijay, who is documenting the journey, expressed gratitude for the opportunity and highlighted Ajith's achievement as a significant milestone for Indian motorsport, believing it will be remembered for years to come.",
     "img": "https://static.toiimg.com/photo/msid-131745097,imgsize-160738.cms",
@@ -340,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/jewar-airport-operational-neet-ug-scam-bihar-student-arrested-uk-proposes-social-media-ban-for-kids/articleshow/131744190.cms",
     "time": "2026-06-15T12:01:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arunoday Singh reacts to Rs 370 biryani row",
-    "desc": "'Maa Behen' actor Arunoday Singh spoke out against the Rs 370 biryani row, saying society needs to take a hard look at itself. The controversy started when web developer Himanshu Jangra made shocking comments on comedian Pranit More's show, which led to widespread outrage.",
-    "img": "https://static.toiimg.com/photo/msid-131743886,imgsize-14400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/its-like-wild-west-suddenly-maa-behen-actor-arunoday-singh-reacts-to-rs-370-biryani-row/articleshow/131743886.cms",
-    "time": "2026-06-15T11:46:37.000Z"
   },
   {
     "cat": "Sports",
@@ -405,42 +504,6 @@ const newsData_en = [
     "time": "2026-06-15T11:01:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "RSS must register, pay taxes: Karnataka minister Priyank Kharge writes to Mohan Bhagwat",
-    "desc": "Karnataka home minister Priyank Kharge has urged RSS chief Mohan Bhagwat to disclose the organization's legal status, finances, and tax compliance. Citing the RSS's extensive presence and public mobilization, Kharge argued for accountability in a constitutional democracy. He called for transparency, suggesting formal registration and adherence to Indian laws, especially following recent remarks on university VCs attending RSS events.",
-    "img": "https://static.toiimg.com/photo/msid-131742704,imgsize-1759537.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rss-must-register-pay-taxes-karnataka-minister-priyank-kharge-writes-to-mohan-bhagwat/articleshow/131742654.cms",
-    "time": "2026-06-15T11:00:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Seven-year-old fourth victim this year",
-    "desc": "A seven-year-old boy in Kerala's Malappuram district has succumbed to Shigella infection, marking the state's fourth fatality from the disease this year. The child was admitted with fever and diarrhea, later diagnosed with the bacterial illness. Kerala has seen 138 confirmed Shigella cases so far in 2026, with ongoing surveillance and containment efforts in affected areas.",
-    "img": "https://static.toiimg.com/photo/msid-131742261,imgsize-86836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shigella-toll-rises-in-kerala-seven-year-old-fourth-victim-this-year/articleshow/131742139.cms",
-    "time": "2026-06-15T10:57:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "USTR team to visit India next week as trade pact; preferential tariff treatment on focus",
-    "desc": "A US trade delegation is set to visit India next week for crucial talks on a proposed trade agreement, following recent negotiations. Discussions are expected to cover goods trade, customs, and economic security. India is pushing for preferential tariffs and protection against future hikes.",
-    "img": "https://static.toiimg.com/photo/msid-131742402,imgsize-22030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ustr-team-to-visit-india-next-week-as-trade-pact-preferential-tariff-treatment-on-focus/articleshow/131741967.cms",
-    "time": "2026-06-15T10:57:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Uttarakhand CM Dhami promotes organic farming, ploughs field at private residence in Khatima",
-    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami on Monday personally operated a tiller to plough a field at his private residence in Nagla Tarai in Khatima and applied natural cow dung manure to the soil, conveying a message in support of organic and traditional farming practices. His mother, Bishna Devi, was also present during the activity.",
-    "img": "https://static.toiimg.com/photo/msid-131741888,imgsize-136852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-promotes-organic-farming-ploughs-field-at-private-residence-in-khatima/articleshow/131741719.cms",
-    "time": "2026-06-15T10:35:52.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Arvind Panagariya seeks for dedicated privatisation ministry; says govt should revive PSU, bank disinvestment",
     "desc": "Former NITI Aayog vice chairman Arvind Panagariya urges the government to revitalize its privatization drive for PSUs and PSBs, emphasizing its importance for economic reforms. He also advocates for a dedicated privatization ministry to expedite the process. Panagariya remains optimistic about FDI inflows, citing investor confidence despite capital outflows and a corrected rupee valuation.",
@@ -486,15 +549,6 @@ const newsData_en = [
     "time": "2026-06-15T09:51:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mauritius President Gokhool joins special yoga session organised by Indian High Commission to mark 12th International Day of Yoga",
-    "desc": "Mauritius President Dharambeer Gokhool joined a special yoga session organized by the Indian High Commission for the 12th International Day of Yoga. The event, themed 'Yoga For Healthy Ageing,' highlighted yoga's benefits for preventive healthcare and holistic well-being, underscoring the shared heritage between India and Mauritius. Discussions also touched upon growing cooperation in AYUSH.",
-    "img": "https://static.toiimg.com/photo/msid-131740264,imgsize-70530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mauritius-president-gokhool-joins-special-yoga-session-organised-by-indian-high-commission-to-mark-12th-international-day-of-yoga/articleshow/131740198.cms",
-    "time": "2026-06-15T09:48:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'First step, not end of the story': FM Sitharaman hints at more measures to attract foreign capital inflows",
     "desc": "FM Sitharaman described the recent initiatives taken by the Reserve Bank of India and the government to attract overseas investment as an initial move, signalling that additional measures could follow to encourage greater foreign capital inflows.",
@@ -502,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/first-step-not-end-of-the-story-fm-sitharaman-hints-at-more-measures-to-attract-foreign-capital-inflows/articleshow/131739723.cms",
     "time": "2026-06-15T09:33:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC seeks Centre, Punjab govt response on PIL alleging denial of EWS admissions under RTE Act",
-    "desc": "The Supreme Court has issued notices to the Centre and Punjab government regarding private schools allegedly failing to admit economically weaker section students as mandated by the Right to Education Act. A public interest litigation highlighted the persistent denial of education for these children. The court has requested detailed responses from the authorities on this critical issue.",
-    "img": "https://static.toiimg.com/photo/msid-131739706,imgsize-124292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-seeks-centre-punjab-govt-response-on-pil-alleging-denial-of-ews-admissions-under-rte-act/articleshow/131737651.cms",
-    "time": "2026-06-15T09:29:44.000Z"
   },
   {
     "cat": "Sports",
@@ -711,15 +756,6 @@ const newsData_en = [
     "time": "2026-06-15T05:17:45.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Another start, another miss: Sooryavanshi falls for 21 against Sri Lanka A",
-    "desc": "Teenage batting sensation Vaibhav Sooryavanshi once again failed to convert a promising start into a substantial score for India A. After racing to 21 off 14 balls against Sri Lanka A, he was caught at point. This follows similar dismissals in previous matches, highlighting a recurring pattern of quick starts but a lack of significant conversion.",
-    "img": "https://static.toiimg.com/photo/msid-131734136,imgsize-1233320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/another-start-another-miss-vaibhav-sooryavanshi-falls-for-21-against-sri-lanka-a/articleshow/131734119.cms",
-    "time": "2026-06-15T05:16:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "Can India protect its seafarers in the Gulf?",
     "desc": "How many Indian seafarers are working in the Gulf region? What happened to the three vessels attacked by the U.S. Navy? What sanctions were imposed on some ships? Does the foreign-flag status of the vessels limit India’s options? Do international maritime laws protect civilian crews?",
@@ -745,24 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-at-white-house/article71103305.ece",
     "time": "2026-06-15T03:09:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Success of big ticket IPOs could mean market peak is near’",
-    "desc": "​Now Dow Jones, Nasdaq Composite and S&, all are in record territories. SpaceX is already listed with a market cap of about $2 trillion and OpenAI and Anthropic are looking for valuations in the range of $1 trillion to $2 trillion each. “My best guess is that when (all) these companies successfully complete their IPOs, we will be in the vicinity of a major market top. There is simply too much money at stake now,” Bonzon said.",
-    "img": "https://static.toiimg.com/photo/msid-131730805,imgsize-25144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/success-of-big-ticket-ipos-could-mean-market-peak-is-near/articleshow/131730726.cms",
-    "time": "2026-06-15T00:35:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "West Asia uncertainty, oil &amp; gold imports hurt Rupee: FM Sitharaman",
-    "desc": "Finance minister Nirmala Sitharaman said it’s not only the rupee that’s under pressure, as currencies such as the Japanese Yen and the Korean Won had also fallen sharply against the dollar. The minister said the more significant challenge was persistent uncertainty in West Asia, while imports of crude oil, gas, fertilisers and gold were also pushing up dollar demand.",
-    "img": "https://static.toiimg.com/photo/msid-131730691,imgsize-38414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/west-asia-uncertainty-oil-gold-imports-hurt-rupee-fm-sitharaman/articleshow/131730682.cms",
-    "time": "2026-06-14T23:58:18.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/ed-arrests-two-former-executives-of-reliance-anil-ambani-group/article71095321.ece",
     "time": "2026-06-12T21:55:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "HorrorCon and Khooni Monday hold ‘Backrooms’ fan event at Delhi premiere",
-    "desc": "Khooni Monday and HorrorCon India, in association with PVR INOX Pictures, brought a fresh twist to horror with the latest release ‘Backrooms’ by holding an interactive film screening experience, immersing fans in the film’s creepy world",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/k0igwk/article71092698.ece/alternates/LANDSCAPE_1200/Backrooms.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/pvr-inox-horror-con-khooni-monday-backrooms-screening-pvr-inox-pictures-delhi-saket-fan-centric-experience/article71092664.ece",
-    "time": "2026-06-12T10:24:28.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "False AI 'fact-checks' stir online chaos after Charlie Kirk assassination",
-    "desc": "A day after Charlie Kirk, a 31-year-old prominent ally of U.S. President Donald Trump, was fatally gunned down at a university in Utah, the X account of AI chatbot Perplexity falsely stated that the activist was never shot",
-    "img": "https://th-i.thgim.com/public/incoming/awt67h/article70040519.ece/alternates/LANDSCAPE_1200/2025-09-12T020418Z_775864380_RC21QGAXMMDV_RTRMADP_3_USA-UTAH-SHOOTING-CHARLIE-KIRK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/false-ai-fact-checks-stir-online-chaos-after-charlie-kirk-assassination/article70040517.ece",
-    "time": "2026-06-12T08:25:47.000Z"
   }
 ];

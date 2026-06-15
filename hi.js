@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Cabo Verde hold off Spain at halftime",
+    "title": "Cabo Verde hold off Spain to kick off FIFA World Cup 2026 campaign, register historic first point in Atlanta",
+    "desc": "Spain kicked off their FIFA World Cup 2026 campaign by taking on Cabo Verde. The two sides met at the Atlanta Stadium in Atlanta on June 15, and while many had backed Spain to register...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cabo-verde-hold-off-spain-to-kick-off-fifa-world-cup-2026-campaign-register-historic-first-point-in-atlanta-2026-06-15-1044964",
+    "time": "2026-06-15T18:18:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jemimah Rodrigues weighs in on the motivations for her side amid ongoing Women's T20 World Cup 2026",
+    "desc": "The Indian women’s team got off to the perfect start to the Women’s T20 World Cup 2026. The side took on Pakistan women to kick off their campaign and managed to register a dominant victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-weighs-in-on-the-motivations-for-her-side-amid-ongoing-women-s-t20-world-cup-2026-2026-06-15-1044963",
+    "time": "2026-06-15T17:58:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cabo Verde hold off Spain at 0-0 in Atlanta",
     "desc": "The stage is set as Spain will kick off their FIFA World Cup 2026 clash. The side is taking on Cabo Verde at the Altanta Stadium in Atlanta, and both the side will hope to...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-and-rcb-star-shreyanka-patil-reveals-she-battled-depression-thought-quitting-cricket-2026-06-15-1044908",
     "time": "2026-06-15T09:37:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India A docked 10 runs as penalty for multiple breaches of law during Sri Lanka A game; check what happened",
-    "desc": "India A were hit with a 10-run penalty for multiple breaches of running on the protected area during their Tri-Nation Series reverse fixture against Sri Lanka A at the Rangiri Dambulla International Stadium, Dambulla on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-a-docked-10-runs-as-penalty-for-multiple-breaches-of-law-during-sri-lanka-a-game-check-what-happened-2026-06-15-1044903",
-    "time": "2026-06-15T09:09:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran reach US for FIFA World Cup 2026 after peace deal agreement; what can be next for them?",
-    "desc": "The Iranian team reached the United States of America on Sunday, June 15, ahead of their FIFA World Cup 2026 opener against New Zealand in Los Angeles. The touch landed on US soil just after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/iran-reach-us-for-fifa-world-cup-2026-after-peace-deal-agreement-what-can-be-next-for-them-2026-06-15-1044899",
-    "time": "2026-06-15T08:22:11.000Z"
   }
 ];
