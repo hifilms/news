@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England hit with more trouble after Stokes-Atkinson exclusion, star performer out of 2nd New Zealand Test",
+    "desc": "After dropping captain Ben Stokes and fast bowler Gus Atkinson from the squad for the second Test against New Zealand due to disciplinary issues, England have been dealt another blow as Ollie Robinson has been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-hit-with-more-trouble-after-stokes-atkinson-exclusion-star-performer-out-of-2nd-new-zealand-test-2026-06-15-1044854",
+    "time": "2026-06-15T02:45:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lamine Yamal's availability for Spain's FIFA World Cup 2026 opener revealed after hamstring injury",
+    "desc": "In a big boost for Spain, star midfielder Lamine Yamal is in \"ideal condition\" to play for his team in its FIFA World Cup 2026 opener against Cape Verde on Monday, coach Luis de la...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lamine-yamals-availability-for-spains-fifa-world-cup-2026-opener-revealed-after-hamstring-injury-2026-06-15-1044851",
+    "time": "2026-06-15T02:02:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Germany shatter most successful record in FIFA World Cup history after 7-1 rout of Curacao",
+    "desc": "Germany routed debutants Curacao at the Houston Stadium to register a massive 7-1 win in their FIFA World Cup 2026 opener on Sunday, June 14. The four-time champions made the minnows look clueless with an...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/germany-shatter-most-successful-record-in-fifa-world-cup-history-after-rout-of-curacao-2026-06-15-1044848",
+    "time": "2026-06-15T01:33:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Germany decimate Curacao to kick off FIFA World Cup campaign, register 7-1 victory",
     "desc": "Germany kicked off their FIFA World Cup 2062 campaign by taking on Curacao. The two sides met at the Houston Stadium in Houston on June 14th, and while many anticipated Germany to register a dominant...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-equals-mithali-raj-harmanpreet-kaur-in-elite-list-with-brilliant-knock-against-pakistan-women-2026-06-14-1044830",
     "time": "2026-06-14T15:36:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur overtakes Rohit Sharma, achieves huge feat during clash against Pakistan",
-    "desc": "India women kicked off their Women’s T20 World Cup 2026 campaign by taking on Pakistan women. The two sides met at Edgbaston in Birmingham on June 14th, and the game began with India coming in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-overtakes-rohit-sharma-achieves-huge-feat-during-clash-against-pakistan-2026-06-14-1044827",
-    "time": "2026-06-14T14:26:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur breaks Mithali Raj's elite record during India vs Pakistan in T20 World Cup 2026",
-    "desc": "India captain Harmanpreet Kaur became the leading run-scorer for India in Women's T20 World Cup history during the team's clash against Pakistan at Edgbaston. Harmanpreet went past the previous record held by Mithali Raj, who...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-breaks-mithali-raj-s-elite-record-during-india-vs-pakistan-in-t20-world-cup-2026-2026-06-14-1044824",
-    "time": "2026-06-14T14:18:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Yastika Bhatia not playing vs Pakistan in T20 World Cup 2026 clash in Edgbaston?",
-    "desc": "India have dropped Yastika Bhatia from their playing XI against Pakistan in their T20 World Cup 2026 opener against arch-rivals Pakistan. Explaining the reason behind the move, captain Harmanpreet Kaur stated that the team management...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-yastika-bhatia-not-playing-vs-pakistan-in-t20-world-cup-2026-clash-in-edgbaston-2026-06-14-1044820",
-    "time": "2026-06-14T13:25:05.000Z"
   }
 ];
