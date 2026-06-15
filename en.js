@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "SC notice to Centre, Punjab over failure to implement RTE",
+    "desc": "Though RTE and RTI were among the main planks on which AAP acquired political salience at national level, the PIL by Jagmohan Singh Raju said RTE Act’s mandate for a quota of 25% for children belonging to weaker and disadvantaged sections of society in schools remained largely unimplemented in state.",
+    "img": "https://static.toiimg.com/photo/msid-131756652,imgsize-279710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-notice-to-centre-punjab-over-failure-to-implement-rte/articleshow/131756653.cms",
+    "time": "2026-06-15T22:37:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCERT to restore original ‘Dancing Girl’ of Mohenjo-daro in class IX textbooks",
+    "desc": "The image appears in the opening chapter, “History of Arts”, of Madhurima, NCERT’s new class IX arts education textbook. In the version carried in the textbook, the torso of the figurine appears visually altered compared to photographs of the original artefact, with shading used across the upper body that obscures anatomical details visible in the sculpture.",
+    "img": "https://static.toiimg.com/photo/msid-131756643,imgsize-16792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ncert-to-restore-original-dancing-girl-of-mohenjo-daro-in-class-ix-textbooks/articleshow/131755510.cms",
+    "time": "2026-06-15T22:25:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Air India flight AI 171 crash exposes payout void for victims on ground’",
+    "desc": "The absence of a dedicated statutory mechanism creates uncertainty over liability, quantum of compensation, timelines for relief, claims procedures and access to justice. It requested govt to establish a statutory ‘Ground Victims Compensation Framework’, introduce strict liability provisions so victims only need to establish the injury, death or property damage resulted from an aircraft accident, provide mandatory interim compensation within a prescribed period, prescribe minimum compensation standards, etc.",
+    "img": "https://static.toiimg.com/photo/msid-131756644,imgsize-419120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ai-171-crash-exposes-payout-void-for-victims-on-ground/articleshow/131755454.cms",
+    "time": "2026-06-15T22:24:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anand Raaj Anand reveals he battled suicidal depression",
+    "desc": "Veteran music composer and singer Anand Raaj Anand has opened up about one of the most difficult phases of his life, revealing that he suffered from clinical depression and suicidal thoughts after stepping away from the Hindi film industry and relocating to London. Recalling the period after 2011, Anand revealed that he went through a severe bout of depression that lasted for years.",
+    "img": "https://static.toiimg.com/photo/msid-131756638,imgsize-74304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anand-raaj-anand-reveals-he-battled-suicidal-depression-after-moving-to-london-from-2011-to-2020-i-was-on-medication/articleshow/131756262.cms",
+    "time": "2026-06-15T22:21:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modi trip a signal about Delhi’s reading of a fractured Europe as well as Slovakia",
+    "desc": "Two-way trade, which first crossed $1 billion in 2024, reached $1.8 billion last year, with Indian exports of roughly $1.52 billion dwarfing imports of $284 million. That Modi chose this moment to visit Slovakia, becoming the first Indian prime minister to do so in 33 years, says as much about New Delhi’s reading of a fractured Europe as it does about Bratislava.",
+    "img": "https://static.toiimg.com/photo/msid-131756633,imgsize-144642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/modi-trip-a-signal-about-delhis-reading-of-a-fractured-europe-as-well-as-slovakia/articleshow/131756535.cms",
+    "time": "2026-06-15T22:19:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India &amp; Slovakia upgrade ties, seek reform of global bodies",
+    "desc": "After a bilateral meeting between Modi and his counterpart Robert Fico, the two sides announced over a dozen outcomes, including a joint working group on counterterrorism, a letter of intent for promoting defence cooperation and an MoU on labour migration. Modi is on a two-day visit to Bratislava and will return to France on Tuesday for the G7 summit.",
+    "img": "https://static.toiimg.com/photo/msid-131756149,imgsize-90744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-slovakia-upgrade-ties-seek-reform-of-global-bodies/articleshow/131756225.cms",
+    "time": "2026-06-15T22:15:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Joe Alwyn and Sarah Pidgeon are officially dating- Video",
+    "desc": "Joe Alwyn and Sarah Pidgeon have seemingly confirmed their romance with a public display of affection at a New York City pub. Photos captured the couple sharing a kiss and enjoying each other's company, marking their first public appearance together. This comes after earlier sightings fueled speculation about their relationship, putting professional collaboration questions to rest.",
+    "img": "https://static.toiimg.com/photo/msid-131754861,imgsize-214592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/joe-alwyn-and-sarah-pidgeon-are-officially-dating-couple-spotted-kissing-during-new-york-city-date/articleshow/131754835.cms",
+    "time": "2026-06-15T22:07:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No govt, no OTS deal can curtail citizen’s right to move court: Supreme Court",
+    "desc": "Nearly four decades ago, Haryana govt had acquired more than 1,500 acres of land at Panchkula for Sectors 24 to 28 and sold the plots to individuals. Later, various authorities one after the other increased the compensation payable to farmers for their land over the next decade. Intimating plot buyers earlier, Haryana Shahari Vikas Pradhikaran (HSVP) sent additional demand notices to them for a corresponding increase in plot prices.",
+    "img": "https://static.toiimg.com/photo/msid-131754862,imgsize-99956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-govt-no-ots-deal-can-curtail-citizens-right-to-move-court-supreme-court/articleshow/131754859.cms",
+    "time": "2026-06-15T21:56:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt to compensate NH builders for diesel price surge; parliamentary panel assesses bitumen situation",
+    "desc": "Earlier, road transport ministry rolled out the scheme for additional payment for increase in bitumen prices by updating it every month. Prices of bitumen used in highway projects have increased from Rs 49,000 per tonne on Feb 28 to Rs 80,000 a tonne on June 1. “The new policy will be out soon. Highway agencies will pay the differential amount between the base rate and prevailing price of bulk diesel,” said an official.",
+    "img": "https://static.toiimg.com/photo/msid-131754854,imgsize-101024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-to-compensate-nh-builders-for-diesel-price-surge-parliamentary-panel-assesses-bitumen-situation/articleshow/131754856.cms",
+    "time": "2026-06-15T21:56:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bangladesh PM’s adviser made to wait 2 hrs for ‘verification’, exits India",
+    "desc": "Dhaka Monday summoned Indian charge d’affaires Pawan Badhe to convey “strong displeasure” over the alleged treatment meted out to Zahed, a policy and strategy adviser to PM Tarique. Zahed had arrived in Delhi Sunday evening, on a regular Bangladeshi (green) passport with a SAARC visa, leading an official Bangladesh delegation for a meeting of the Indian Ocean Rim Association.",
+    "img": "https://static.toiimg.com/photo/msid-131754858,imgsize-27776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bangladesh-pms-adviser-made-to-wait-2-hrs-for-verification-exits-india/articleshow/131754844.cms",
+    "time": "2026-06-15T21:55:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US on strike that killed 3 Indians",
+    "desc": "The latest remarks by a US official sequencing developments that led to the attack seemed aimed at reassuring Indian authorities that US forces had not acted in a reckless manner in launching strikes on Settebello and two other foreign-flagged ships in the past week. However, the US is yet to express any regret for the deaths of Indian mariners.",
+    "img": "https://static.toiimg.com/photo/msid-131754851,imgsize-33102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tanker-ignored-60-warnings-us-on-strike-that-killed-3-indians/articleshow/131754847.cms",
+    "time": "2026-06-15T21:48:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katy and Justin get intimate on PDA-filled park date",
+    "desc": "Pop star Katy Perry and Canadian Prime Minister Justin Trudeau shared a romantic picnic in Santa Barbara, displaying public affection. They were joined by Perry's daughter, Daisy Dove, and another child. This outing follows their recent red carpet debut and comes as Perry teases a new single about confronting anger.",
+    "img": "https://static.toiimg.com/photo/msid-131754606,imgsize-87118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katy-perry-and-justin-trudeau-spotted-on-pda-filled-park-date-couple-get-intimate-on-day-out-with-daughter-daisy-dove-watch/articleshow/131754600.cms",
+    "time": "2026-06-15T21:33:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi welcomes US-Iran deal, hopes for freedom of navigation soon",
+    "desc": "India had in April too welcomed a temporary ceasefire announced by both sides, notwithstanding the fact that it had been brokered with help from Pakistan. On this occasion, Pakistan said after the announcement by both Trump and Iran that it would host in Geneva this week the signing of the agreement, which is expected to formally mark the end of the conflict that started on Feb 28.",
+    "img": "https://static.toiimg.com/photo/msid-131754628,imgsize-83232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-welcomes-us-iran-deal-hopes-for-freedom-of-navigation-soon/articleshow/131754602.cms",
+    "time": "2026-06-15T21:26:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of retest, NEET glitches trouble students; two nabbed for promising paper",
+    "desc": "Meanwhile, Union home secretary Govind Mohan reviewed the preparedness of state govts for the NEET(UG) retest with a special focus on student convenience, security arrangements, and the integrity of the process. He directed states and central agencies to ensure that security protocols are strictly followed. NTA said it is working towards resolving all issues, including refunds. Till Monday morning, over four lakh aspirants had downloaded their admit cards.",
+    "img": "https://static.toiimg.com/photo/msid-131754610,imgsize-128282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ahead-of-retest-neet-glitches-trouble-students-two-nabbed-for-promising-paper/articleshow/131754608.cms",
+    "time": "2026-06-15T21:18:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Touchdown, salute, history: NCR’s 2nd international airport goes live",
+    "desc": "As someone chasing this mirage since 2006, I excitedly woke up at 3am in the city of nawabs to get ready for the flight. News of the US-Iran peace deal promised to remove the dark clouds over aviation and seemed like a good portent for the new airport. A contingent of around 80 business executives also boarded the flight, raising visions of the now sleepy Agra expressway resembling the Dwarka or Gurgaon expressways in the coming years with both sides of the stretch getting developed.",
+    "img": "https://static.toiimg.com/photo/msid-131754614,imgsize-286288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/touchdown-salute-history-ncrs-2nd-international-airport-goes-live/articleshow/131754612.cms",
+    "time": "2026-06-15T21:15:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Safe Hormuz passage for Disha sparks hope for 34 India-bound ships",
+    "desc": "Better energy supplies may not bring immediate relief because extensive damage to facilities has created uncertainty over when normal operations will resume. India has a long-term gas supply contract with QatarEnergy’s Ras Laffan facility. UAE’s Habshan Gas Plant was also damaged, disrupting operations. Officials said 60% of the plant’s capacity has been restored. They expect recovery to reach 80% by the end of 2026 and full structural restoration in 2027.",
+    "img": "https://static.toiimg.com/photo/msid-131754838,imgsize-43654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/safe-hormuz-passage-for-disha-sparks-hope-for-34-india-bound-ships/articleshow/131754609.cms",
+    "time": "2026-06-15T21:15:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunita jokes about Govinda's hair patch: 'What's there to hide?",
+    "desc": "Sunita Ahuja has addressed the trolling she faced after a viral clip in which she appeared confused by the term \"GOAT\" while referring to husband Govinda. In a recent interview, Sunita clarified that she was unaware that GOAT stood for \"Greatest Of All Time\" and initially thought people were referring to an actual goat.",
+    "img": "https://static.toiimg.com/photo/msid-131754587,imgsize-77574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunita-ahuja-jokes-about-govindas-hair-patch-whats-there-to-hide-many-heroes-do-it-clarifies-viral-goat-remark-after-trolling/articleshow/131754586.cms",
+    "time": "2026-06-15T20:41:40.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Heatwaves and ozone together increase India’s cardiac deaths: study",
     "desc": "A peer-reviewed study reports that surface ozone reaches 85-110 μg/m³ in northern India during heatwaves and exceeds the WHO guideline of 70 μg/m³ in every region of the country. In 2024, roughly 830 more deaths were reported during the heatwave than the preceding days.",
     "img": "https://th-i.thgim.com/public/incoming/qmucu6/article71106470.ece/alternates/LANDSCAPE_1200/6702_19_2_2024_16_51_52_1_MYSURUSUMMER.JPG",
@@ -61,6 +214,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/we-are-the-largest-parliamentary-force-from-west-bengal-ncpi-in-a-social-media-post/article71104281.ece",
     "time": "2026-06-15T18:36:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Priyank Kharge’s call for transparency in RSS is ‘driven by politics’: Mohan Bhagwat",
+    "desc": "RSS does not receive government funds and hence needs no registration, Bhagwat says. Kharge wrote to the RSS chief on June 13, seeking details about the organisation’s registration status, sources of funding, income, expenditure, and assets.",
+    "img": "https://th-i.thgim.com/public/incoming/ig95jy/article71106506.ece/alternates/LANDSCAPE_1200/PTI06_13_2026_000475B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/priyank-kharges-call-for-transparency-in-rss-is-driven-by-politics-mohan-bhagwat/article71106382.ece",
+    "time": "2026-06-15T18:26:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -180,15 +342,6 @@ const newsData_en = [
     "time": "2026-06-15T16:11:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NCERT rolls back changes to ‘Dancing Girl’ image after academics raise concerns",
-    "desc": "After a wave of criticism, NCERT has decided to restore the authentic 'Dancing Girl' artwork in its Class 9 arts textbook. The previous modified version, which covered the figurine's torso, was regarded by many as a form of censorship. Following consultations with experts, the organization has chosen to present the true representation of this 4,500-year-old Indus Valley treasure.",
-    "img": "https://static.toiimg.com/photo/msid-131749758,imgsize-18358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncert-rolls-back-changes-to-dancing-girl-image-after-academics-raise-concerns/articleshow/131749468.cms",
-    "time": "2026-06-15T16:04:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi, Tilak, controversy and Super Over drama: How it unfolded",
     "desc": "A Tri-Nation A Series match between India A and Sri Lanka A descended into chaos with a controversial tie, a Super Over, and heated exchanges. Teenage sensation Vaibhav Sooryavanshi was at the center of the drama, involved in arguments with umpires and Sri Lankan players after India's defeat.",
@@ -214,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-divorce-case-adjourned-first-glimpse-of-ram-charan-upasanas-twins-raghava-lawrence-clarifies-remarks-top-5-south-stories-of-the-day/articleshow/131748950.cms",
     "time": "2026-06-15T15:23:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Attack us 10 times’: CJP’s Dipke responds to Jaipur attack; says will continue to demand Dharmendra Pradhan’s resignation",
-    "desc": "Following a violent incident at a protest in Jaipur, Cockroach Janta Party leader Abhijeet Dipke called for calm among supporters. He condemned the attack as an attempt to instill fear, stressing that it would not weaken their push for Union Minister Dharmendra Pradhan's resignation over issues related to examination disputes and rising unemployment.",
-    "img": "https://static.toiimg.com/photo/msid-131748271,imgsize-15112104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/attack-us-10-times-cjps-dipke-responds-to-jaipur-attack-says-will-continue-to-demand-dharmendra-pradhans-resignation/articleshow/131747846.cms",
-    "time": "2026-06-15T14:47:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -259,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/let-oil-flow-what-trumps-possible-peace-deal-with-iran-strait-of-hormuz-opening-mean-for-india/articleshow/131746732.cms",
     "time": "2026-06-15T14:12:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India's Tomahawk: DRDO conducts successful flight-test of indigenously-developed Long Range Land Attack Cruise Missile",
-    "desc": "In a landmark achievement, India has executed a successful test of its homegrown Long Range Land Attack Cruise Missile (LRLACM) off the picturesque coast of Odisha. This cutting-edge missile showcases remarkable precision, targeting adversaries up to 1,500 kilometers away, positioning itself as a formidable rival to the renowned US Tomahawk.",
-    "img": "https://static.toiimg.com/photo/msid-131747644,imgsize-6806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indias-tomahawk-drdo-conducts-successful-flight-test-of-indigenously-developed-long-range-land-attack-cruise-missile/articleshow/131747584.cms",
-    "time": "2026-06-15T14:09:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,15 +468,6 @@ const newsData_en = [
     "time": "2026-06-15T13:18:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Calling on all of you’: Rahul calls exam scandals a blow to youth aspirations ahead of campaign launch in Kota",
-    "desc": "Rahul Gandhi is spearheading a national movement with Congress to tackle exam scandals, declaring that these repeated setbacks are stifling the ambitions of our youth. He encouraged students to band together and raise their voices louder, emphasizing that each incident of leakage or delay is a direct hit to the hopes of countless individuals.",
-    "img": "https://static.toiimg.com/photo/msid-131746405,imgsize-136656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/calling-on-all-of-you-rahul-calls-exam-scandals-a-blow-to-youth-aspirations-ahead-of-campaign-launch-in-kota/articleshow/131746179.cms",
-    "time": "2026-06-15T13:08:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Nivetha Pethuraj makes a shocking career revelation",
     "desc": "Actress Nivetha Pethuraj revealed she decided to quit cinema in 2023. She stated that life took her to unexpected places due to some wrong decisions. However, producer Nag Ashwin's call for a new project brought her back. Pethuraj expressed gratitude for this opportunity, hinting at a new beginning in her film career.",
@@ -394,60 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alec-baldwin-wants-his-children-to-grow-up-with-hope-weve-got-to-continue-to-fight-to-prove-to-our-children/articleshow/131745659.cms",
     "time": "2026-06-15T12:47:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rainn Wilson talks about ‘The Office’",
-    "desc": "According to actor Rainn Wilson, the beloved series 'The Office' might struggle to find a home in today's entertainment landscape due to its brash humor. He argues that the increased sensitivity around politically charged topics would make some of Michael Scott's more outlandish moments and the show's satirical edge problematic.",
-    "img": "https://static.toiimg.com/photo/msid-131745194,imgsize-123082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/rainn-wilson-believes-the-office-would-not-sit-well-with-audiences-today-too-hard-to-be-as-politically-incorrect/articleshow/131745126.cms",
-    "time": "2026-06-15T12:40:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Director Vijay hails Ajith’s racing feat",
-    "desc": "Director Vijay lauded actor Ajith Kumar's historic participation in the 24 Hours of Le Mans race, marking the first Indian team to compete. Vijay, who is documenting the journey, expressed gratitude for the opportunity and highlighted Ajith's achievement as a significant milestone for Indian motorsport, believing it will be remembered for years to come.",
-    "img": "https://static.toiimg.com/photo/msid-131745097,imgsize-160738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/director-vijay-hails-ajiths-racing-feat-says-tamil-actors-le-mans-journey-will-be-remembered-for-years/articleshow/131745081.cms",
-    "time": "2026-06-15T12:22:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paul Blackthorne recalls ‘Oh God’ moment before ‘Lagaan’ scene",
-    "desc": "Paul Blackthorne, who portrayed Captain Russell in 'Lagaan', shared a memorable washroom encounter with Aamir Khan before a pivotal scene. Khan's reminder of the wager scene's significance momentarily stunned Blackthorne. The actor also reflected on the film's 25th anniversary reunion, his Hindi learning struggles, and Aamir's impactful acting guidance.",
-    "img": "https://static.toiimg.com/photo/msid-131744615,imgsize-52538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/captain-andrew-russell-aka-paul-blackthorne-recalls-aamir-khans-washroom-pep-talk-before-lagaan-scene-i-just-froze-and-thought-oh-god/articleshow/131744615.cms",
-    "time": "2026-06-15T12:08:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "RJ Balaji hits back at Tiruppur Subramaniam for 'Karuppu' remark",
-    "desc": "Director RJ Balaji has responded to criticism regarding the release of the blockbuster film 'Karuppu.' He emphasized that the audience's overwhelming approval is the true measure of success, not individual opinions. Balaji highlighted the film's significant box office returns and the satisfaction of the entire team, including producer and lead actor Suriya, as proof of their hard work paying off.",
-    "img": "https://static.toiimg.com/photo/msid-131744756,imgsize-134552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rj-balaji-hits-back-at-tiruppur-subramaniam-credits-audience-for-the-blockbuster-success-of-karuppu/articleshow/131744658.cms",
-    "time": "2026-06-15T12:06:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Not just people, even Bangladeshi parties are infiltrating': Adhir Ranjan's swipe at Amit Shah amid TMC crisis",
-    "desc": "Congress leader Adhir Ranjan Chowdhury criticized the merger of breakaway Trinamool Congress MPs with the Nationalist Citizens Party of India, alleging \"Bangladeshi political parties are infiltrating India.\" The rebel MPs claim they aim to control the TMC and its symbol, a move dismissed as legally untenable by the Mamata Banerjee-led faction.",
-    "img": "https://static.toiimg.com/photo/msid-131744648,imgsize-1966197.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-just-people-even-bangladeshi-parties-are-infiltrating-adhir-ranjans-swipe-at-amit-shah-amid-tmc-crisis/articleshow/131744651.cms",
-    "time": "2026-06-15T12:04:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jewar airport is now operational; Bihar student arrested for hacking candidates' accounts in NEET UG refund scam &amp; more",
-    "desc": "Jewar Airport's operational start is poised to boost real estate along the Yamuna Expressway, with property values expected to rise 15-20% annually. Meanwhile, a rebellion within the Trinamool Congress sees dissident MPs merging with the obscure Nationalist Citizens Party of India, claiming significant Lok Sabha support.",
-    "img": "https://static.toiimg.com/photo/msid-131744542,imgsize-32558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jewar-airport-operational-neet-ug-scam-bihar-student-arrested-uk-proposes-social-media-ban-for-kids/articleshow/131744190.cms",
-    "time": "2026-06-15T12:01:18.000Z"
   },
   {
     "cat": "Sports",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/2-texas-men-charged-after-england-team-gear-stolen-en-route-to-kansas-city-for-world-cup-base/article71100561.ece",
     "time": "2026-06-14T08:15:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Amazon voiced concerns about Anthropic AI models before U.S. government's crackdown, source says​",
-    "desc": "Amazon CEO Andy Jassy’s involvement sheds light on the extraordinary move by Anthropic on Friday (June 12, 2026) ‌to shut down its latest models globally in response to national security orders from the Trump administration",
-    "img": "https://th-i.thgim.com/public/incoming/e0iia6/article71100264.ece/alternates/LANDSCAPE_1200/2026-06-11T183941Z_683215203_RC2URLAUT00W_RTRMADP_3_NVIDIA-RESULTS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-source-says/article71100217.ece",
-    "time": "2026-06-14T06:52:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil holds fiery Morocco to draw in Group C opener",
-    "desc": "Brazil’s last World Cup match on U.S. soil was a famous one – victory in the 1994 final, where that side’s ultra-defensive approach overcame Italy, which had Selecao’s current coach, Carlo Ancelotti, as its assistant manager",
-    "img": "https://th-i.thgim.com/public/incoming/a0n34l/article71100086.ece/alternates/LANDSCAPE_1200/2281454499.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/brazil-vs-morocco-fifa-world-cup-2026-group-c-match-report-vincius-saibari-goals/article71100082.ece",
-    "time": "2026-06-14T05:47:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Women’s T20 World Cup: India aims for the perfect start against Pakistan",
-    "desc": "Harmanpreet & Co. start as favourite in the marquee clash; injury scare for rival skipper Fatima; the Women in Blue well aware of the need to pick up early points in the Group of Death",
-    "img": "https://th-i.thgim.com/public/incoming/z5hrtm/article71098705.ece/alternates/LANDSCAPE_1200/TH14-WIB.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/womens-t20-world-cup-india-aims-for-the-perfect-start-against-pakistan/article71098708.ece",
-    "time": "2026-06-14T05:24:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA",
-    "desc": "The governing body of the ‘beautiful game’, long dogged by allegations of corruption and abuse of power, now faces criticism for its muted response to U.S. immigration authorities denying entry to fans, officials, and team personnel",
-    "img": "https://th-i.thgim.com/public/incoming/gb8wc1/article71098627.ece/alternates/LANDSCAPE_1200/2026-06-11T181633Z_837849217_UP1EM6B1ERJFT_RTRMADP_3_SOCCER-WORLDCUP-MEX-ZAF.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-profile-us-immigration-issues-corruption-allegations/article71098635.ece",
-    "time": "2026-06-14T04:59:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wall Street ends higher as SpaceX's market debut dominates",
-    "desc": "Market participants were glued to shares of Elon Musk’s SpaceX, which began trading on the Nasdaq on June 12. Its shares ‌closed up 19.2% at $160.95, well above the IPO price of $135 apiece. Its market capitalisation was last ‌at $2.1 trillion",
-    "img": "https://th-i.thgim.com/public/incoming/bi10li/article71096727.ece/alternates/LANDSCAPE_1200/2026-06-12T204721Z_457174109_RC2JSLAKESMF_RTRMADP_3_SPACEX-IPO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/wall-street-ends-higher-as-spacexs-market-debut-dominates/article71096690.ece",
-    "time": "2026-06-13T07:47:04.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic cuts access to AI models over U.S. ‘national security’ order",
-    "desc": "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
-    "img": "https://th-i.thgim.com/public/incoming/plhoz2/article71096492.ece/alternates/LANDSCAPE_1200/2026-06-09T011546Z_1385071968_RC2UNLAJ8JMH_RTRMADP_3_USA-TRUMP-ANTHROPIC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-cuts-access-to-ai-models-over-us-national-security-order/article71096476.ece",
-    "time": "2026-06-13T07:07:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "75th anniversary of the UNIVAC I",
-    "desc": "Seventy five years ago – on June 14, 1951 – the UNIVAC I was officially put into service by the U.S. Census Bureau. The UNIVAC I, which the bureau calls the first successful civilian computer, heralded a new age in the tech industry by demonstrating the potential for computers in various applications. A.S.Ganesh takes you back to a time when these devices were far from being hand-held…",
-    "img": "https://th-i.thgim.com/public/incoming/1b1ij7/article71064337.ece/alternates/LANDSCAPE_1200/14istb%20Univac_I_Census_dedication.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/75th-anniversary-of-the-univac-i/article71064362.ece",
-    "time": "2026-06-13T06:41:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ED arrests two former executives of Reliance Anil Ambani Group",
-    "desc": "The ED has taken transit remand of Sateesh Seth and Gautam Doshi, both of whom previously served as directors of Reliance Telecom Ltd., and is taking them to Delhi as the case is registered in the national capital, they said.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/ed-arrests-two-former-executives-of-reliance-anil-ambani-group/article71095321.ece",
-    "time": "2026-06-12T21:55:12.000Z"
   }
 ];
