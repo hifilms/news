@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cabo Verde hold off Spain at halftime",
+    "desc": "The stage is set as Spain will kick off their FIFA World Cup 2026 clash. The side is taking on Cabo Verde at the Altanta Stadium in Atlanta, and both the side will hope to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/esp-vs-cpv-fifa-world-cup-2026-live-spain-look-to-get-off-to-a-good-start-1044955",
+    "time": "2026-06-15T15:55:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Lamine Yamal not starting for Spain as they kick off their FIFA World Cup 2026 campaign? Check details",
+    "desc": "The stage is set for another exciting clash in the ongoing FIFA World Cup 2026. 2010 champions Spain will be kicking off their World Cup campaign by taking on Cabo Verde. The two sides will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-lamine-yamal-not-starting-for-spain-as-they-kick-off-their-fifa-world-cup-2026-campaign-check-details-2026-06-15-1044954",
+    "time": "2026-06-15T15:43:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Watch",
+    "desc": "India A took on Sri Lanka A in the 4th match of the ongoing tri-series between India A, Sri Lanka A, and Afghanistan A. The two sides met at the Rangiri Dambulla International Stadium on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-involved-in-heated-argument-after-india-a-lose-against-sri-lanka-a-watch-2026-06-15-1044949",
+    "time": "2026-06-15T14:16:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka A defeat India A in the super over, register thrilling win in Dambulla",
+    "desc": "Sri Lanka A has managed to snatch a victory from the grasp of India A. The two sides met in the 4th match of the ongoing tri-series, and after Sri Lanka matched India's total of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-a-defeat-india-a-in-the-super-over-register-thrilling-win-in-dambulla-2026-06-15-1044940",
+    "time": "2026-06-15T13:10:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Japan head coach Hajime Moriyasu's unique coaching method goes viral after draw against Netherlands",
+    "desc": "Japan did the unthinkable and registered a 2-2 draw against the Netherlands. The two sides met at the Dallas Stadium in the FIFA World Cup 2026 clash, and the Netherlands opened the scoring with Virgil...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/japan-head-coach-hajime-moriyasu-s-unique-coaching-method-goes-viral-after-draw-against-netherlands-2026-06-15-1044936",
+    "time": "2026-06-15T12:30:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Neeraj Chopra set to make competitive return at Doha Diamond League",
     "desc": "In a major development, India's star Javelin athlete Neeraj Chopra is all set to make his return at the upcoming Doha Diamond League on June 19. The double Olympic medallist has not competed professionally since finishing...",
     "img": "",
@@ -43,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/iran-reach-us-for-fifa-world-cup-2026-after-peace-deal-agreement-what-can-be-next-for-them-2026-06-15-1044899",
     "time": "2026-06-15T08:22:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket-like rule comes to rescue in Sweden's cakewalk 5-1 win over Tunisia in FIFA World Cup 2026",
-    "desc": "Cricket's snicko rule came to the rescue for Sweden's Mattias Svanberg as he saw an offside getting overturned during his strike in the latter half of the FIFA World Cup 2026 clash against Tunisia. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cricket-like-rule-comes-to-rescue-in-swedens-cakewalk-5-1-win-over-tunisia-in-fifa-world-cup-2026-watch-2026-06-15-1044884",
-    "time": "2026-06-15T07:01:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deepti Sharma becomes first Indian cricketer to achieve huge T20I record after Pakistan rout",
-    "desc": "India star all-rounder Deepti Sharma achieved quite a few milestones during her epic bowling outing against Pakistan at the Women's T20 World Cup 2026 at Edgbaston, Birmingham. After India made a strong 170/6, the Women...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/deepti-sharma-becomes-first-indian-cricketer-to-achieve-huge-t20i-record-after-pakistan-rout-2026-06-15-1044873",
-    "time": "2026-06-15T05:29:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How did Vaibhav Sooryavanshi perform in India A vs Sri Lanka A Tri-Nation Series clash?",
-    "desc": "Vaibhav Sooryavanshi was in focus once again as India A took on Sri Lanka A in their third match of the Tri-Nation Series on Monday, June 15. Sooryavanshi has been the talk of the town...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-did-vaibhav-sooryavanshi-perform-in-india-a-vs-sri-lanka-a-tri-nation-series-clash-2026-06-15-1044869",
-    "time": "2026-06-15T04:57:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England hit with more trouble after Stokes-Atkinson exclusion, star performer out of 2nd New Zealand Test",
-    "desc": "After dropping captain Ben Stokes and fast bowler Gus Atkinson from the squad for the second Test against New Zealand due to disciplinary issues, England have been dealt another blow as Ollie Robinson has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-hit-with-more-trouble-after-stokes-atkinson-exclusion-star-performer-out-of-2nd-new-zealand-test-2026-06-15-1044854",
-    "time": "2026-06-15T02:45:42.000Z"
   }
 ];

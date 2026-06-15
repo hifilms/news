@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ફિફા વર્લ્ડ કપનો ક્રેઝ: ZEE પ્લેટફોર્મ્સ પર 10 કરોડ દર્શકોનું ઘોડાપૂર, Zee5 પર લાઈવ મેચોની ધૂમ",
+    "desc": "FIFA World Cup 2026ની શરૂઆત સાથે જ ફૂટબોલનો ક્રેઝ દર્શકોના માથે ચડીને બોલી રહ્યો છે, જેનો સીધો ફાયદો Zee Entertainmentને મળ્યો છે. ટુર્નામેન્ટના પ્રથમ વીકએન્ડમાં જ કંપનીના ડિજિટલ, ટેલિવિઝન અને સોશિયલ મીડિયા પ્લેટફોર્મ્સ પર 10 કરોડથી વધુ દર્શકોનો અભૂતપૂર્વ પ્રતિસાદ સાંપડ્યો છે. ખાસ કરીને ઓટીટી પ્લેટફોર્મ Zee5 પર લાખો ફેન્સે લાઈવ મેચોની ડિજિટલ મજા માણવાની સાથે વ્યુઅરશિપના નવા રેકોર્ડ્સ બનાવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-zee-platforms-cross-100-million-viewers-opening-weekend-481615 ",
+    "time": "2026-06-15T15:48:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કર્મચારીઓના PF ખાતામાં વ્યાજની રકમ ક્યારે જમા થશે ? જાણો આ વર્ષે કેટલા ટકા મળશે વ્યાજ",
+    "desc": "કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO)એ નાણાકીય વર્ષ 2025-26 માટે 8.25% વ્યાજ દરની જાહેરાત કરી ત્યારથી, EPF સબ્સ્ક્રાઇબર્સ તેમના ખાતાના બેલેન્સ પર નજર રાખી રહ્યા છે. જૂનનું પહેલું સપ્તાહ પસાર થઈ ગયું હોવાથી ઘણા EPF સભ્યો વારંવાર તેમના પાસબુક તપાસતા હોય છે કે વાર્ષિક વ્યાજ તેમના PF ખાતામાં જમા થયું છે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/when-will-interest-amount-be-deposited-in-pf-account-of-employees-481617 ",
+    "time": "2026-06-15T15:43:20.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "હવે પેટ્રોલ વગર પણ ચાલશે ગાડી ! E100ની એન્ટ્રી... શું પેટ્રોલની જગ્યા લેશે ? જાણો તેના ફાયદા અને નુકસાન",
     "desc": "શું પેટ્રોલનો યુગ સમાપ્ત થઈ રહ્યો છે? સરકારે E100 ઇંધણને મંજૂરી આપીને એક સાહસિક પગલું ભર્યું છે. જાણો આ નવું ઇંધણ શું છે, તેના પર કયા વાહનો ચાલશે અને તેનાથી સામાન્ય લોકો અને ખેડૂતોને કેવી રીતે ફાયદો થશે.",
@@ -270,24 +288,6 @@ const newsData_gu = [
     "time": "2026-06-13T13:17:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ગુજરાતની દીકરીએ વધાર્યું નવસારીનું માન: ભારતની મહિલા ક્રિકેટ ટીમમાં મૈત્રી મણિયારની ઓલરાઉન્ડર તરીકે પસંદગી",
-    "desc": "નવસારી જેવા નાના શહેરમાંથી ક્રિકેટમાં અનેક દીકરીઓ પોતાની પ્રતિભા નિખારી રહી છે. પરંતુ એમાંથી કેટલીક દીકરીઓ રાષ્ટ્રીય સ્તરે ક્રિકેટ રમતી થઈ છે. પણ રાષ્ટ્રીય ટીમમાં મૈત્રી મણિયારની પસંદગીએ નવસારીનું ગૌરવ વધારવા સાથે આંતરરાષ્ટ્રીય ફલક પર અલગ ઓળખ પણ અપાવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/navsaris-daughters-big-leap-maitri-maniar-selected-in-indias-u19-womens-cricket-team-481392 ",
-    "time": "2026-06-13T12:02:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રોનાલ્ડો કે મેસ્સી... કોણ છે દુનિયાનો સૌથી ધનિક ફૂટબોલ સ્ટાર ? કમાણી જાણીને ચોંકી જશો",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026નું આયોજન અમેરિકા, કેનેડા અને મેક્સિકો દ્વારા સંયુક્ત રીતે કરવામાં આવી રહ્યું છે. પોર્ટુગીઝ ફૂટબોલર ક્રિસ્ટિયાનો રોનાલ્ડો અને આર્જેન્ટિનાનો મહાન ફૂટબોલર લિયોનેલ મેસ્સી ફૂટબોલ વર્લ્ડ કપ 2026માં રમી રહ્યા છે. ત્યારે બંનેમાંથી સૌથી ધનિક કોણ છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-cristiano-ronaldo-or-lionel-messi-who-is-richest-football-star-481384 ",
-    "time": "2026-06-13T10:25:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "હાઈ લા! ફક્ત 24 કલાકમાં 4400 લોકો બન્યા કરોડપતિ! આ IPOએ ઢગલો કર્મચારીઓના રાતોરાત ભાગ્ય પલટી નાખ્યા",
     "desc": "એલન મસ્કની કંપનીના શેર બજારમાં લિસ્ટ થતાની સાથે જ મસ્ક તો ઠીક અનેક કર્મચારીઓ પણ રાતોરાત કરોડપતિ બની ગયા છે. 400 જેટલા કર્મચારીઓની ભાગીદારી 100 મિલિયન ડોલર ઉપર પહોંચી છે. આ વિગતો જાણીને તમે દંગ રહી જશો.",
@@ -468,15 +468,6 @@ const newsData_gu = [
     "time": "2026-06-12T09:56:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "₹2,172 કરોડના ક્લેમ પર ₹579 કરોડમાં સમજુતિ, જનતાના પૈસા સાથે રમત, ક્યાં થઈ ગેરરીતિ?",
-    "desc": "Agson Global Private Limited ના મામલામાં NARCL અને IDRCL ની એડમિટેડ ક્લેમ રકમ 2172 કરોડ રૂપિયા હતી. આ મામલામાં બનેલી કમિટી ઓફ ક્રેડિટર્સમાં એકમાત્ર NARCL ની પાસે 100 ટકા વોટિંગ રાઇટ્સ હતા. એટલે કે નાણાકીય નાદારો તરફથી નિર્ણય લેવાની કમાન અને કંટ્રોલ માત્ર NARCL ના હાથમાં હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/narcl-loan-settlement-agson-global-private-limited-settlement-of-579-crore-against-a-claim-of-2172-crore-481264 ",
-    "time": "2026-06-12T09:21:19.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "માર્કેટમાં આવ્યો 8,000mAh બેટરીવાળો બાહુબલી ફોન! Tecnoએ લોન્ચ કર્યો અનોખી લાઇટિંગવાળો સ્માર્ટફોન",
     "desc": "Tecnoએ ભારતમાં પોતાનો દમદાર સ્માર્ટફોન Tecno POVA 8 લોન્ચ કરી દીધો છે. આ ફોનમાં 8,000mAhની વિશાળ બેટરી, પાછળની તરફ અનોખી ALIVE Matrix લાઇટિંગ અને ટ્રિપલ-ચિપસેટ કનેક્ટિવિટી આપવામાં આવી છે. જાણો આ ધાંસુ ફોનના તમામ ફીચર્સ અને વેચાણની તારીખ.",
@@ -529,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/after-370-rupees-biryani-new-controversy-start-armaan-malik-trolled-for-his-comment-on-wife-tshirt-and-lower-look-481182 ",
     "time": "2026-06-11T13:06:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વધુ એક ભારતીય જહાજ &amp;#039;જલવીર&amp;#039; પર હુમલો, &amp;#039;સેટેબેલો&amp;#039; પર થયેલા હુમલામાં 3 ભારતીયોના જીવ ગયા",
-    "desc": "વળી પાછો ભારતીય જહાજ પર ઓમાનના દરિયાકાંઠા પાસે હુમલો થયાના સમાચાર છે. ભારતીય જહાજ MT જલવીર પર હુમલો થયો છે જેના પર ભારતીય નાવિકો સવાર છે. આ પહેલા પણ એક જહાજ પર થયેલા હુમલામાં 3 ભારતીયોના જીવ ગયા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/another-indian-ship-jalveer-attacked-near-coast-of-oman-3-indian-lost-lives-in-settebello-incident-481156 ",
-    "time": "2026-06-11T08:28:08.000Z"
   },
   {
     "cat": "Tech",
@@ -655,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/horror-thriller-movie-in-hindi-on-netflix-the-nun-2-latest-hindi-horror-movie-on-ott-480689 ",
     "time": "2026-06-07T05:50:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સીન પુરો થઈ ગયો તો પણ એક્ટર કીસ કરતો જ રહ્યો, અભિનેત્રીએ જણાવ્યા ઈંટીમેટ સીન સમયના કડવા અનુભવો",
-    "desc": "અભિનેત્રી પ્રિયા બાપટે એક ઈંટરવ્યુમાં ઈંટીમેટ સીન દરમિયાન થતા ખરાબ અનુભવ વિશે વાત કરી હતી. જેમાં તેણે એવું પણ કહ્યું કે એક એક્ટરે તો સીન પુરો થઈ ગયા પછી પણ કીસ કરવાનું બંધ ન કર્યું. આવી ઘટનાના કારણે શરુઆતી સમયમાં નવા એક્ટર અસુક્ષિત અનુભવ કરતાં હોય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/priya-bapat-had-bad-experience-during-kissing-scene-story-in-gujarati-actor-kept-kissing-her-even-after-scene-over-480651 ",
-    "time": "2026-06-07T02:32:11.000Z"
   }
 ];
