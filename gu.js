@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "હવે પેટ્રોલ વગર પણ ચાલશે ગાડી ! E100ની એન્ટ્રી... શું પેટ્રોલની જગ્યા લેશે ? જાણો તેના ફાયદા અને નુકસાન",
+    "desc": "શું પેટ્રોલનો યુગ સમાપ્ત થઈ રહ્યો છે? સરકારે E100 ઇંધણને મંજૂરી આપીને એક સાહસિક પગલું ભર્યું છે. જાણો આ નવું ઇંધણ શું છે, તેના પર કયા વાહનો ચાલશે અને તેનાથી સામાન્ય લોકો અને ખેડૂતોને કેવી રીતે ફાયદો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/e100-fuel-approved-india-ethanol-petrol-benefits-and-disadvantages-481578 ",
+    "time": "2026-06-15T11:54:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વિપરાજ નિગમે એવું તે શું કર્યું કે ટીમ ઈન્ડિયાને લાગી 10 રનની પેનલ્ટી, આ ભૂલ પડી ગઈ ભારે",
+    "desc": "શ્રીલંકામાં ચાલી રહેલી ત્રિકોણીય ODI શ્રેણીની ચોથી મેચમાં ભારત A ટીમ યજમાન શ્રીલંકા A ટીમ સામે રમી રહી છે. મેચ દરમિયાન ભારતીય ટીમને 10 રનની પેનલ્ટી ફટકારવામાં આવી હતી, વિપરાજ નિગમની ભૂલને કારણે ટીમને મોટો ફટકો પડ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-a-vs-sl-a-vipraj-nigam-blunder-team-india-10-runs-penalty-481570 ",
+    "time": "2026-06-15T10:15:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સત્ય ઘટના પર આધારિત છે રાખ વેબ સીરીઝ, 48 વર્ષ પહેલા રંગા-બીલ્લાએ આચરેલી ક્રૂરતાની રિયલ સ્ટોરી વાંચો",
+    "desc": "ક્રાઈમની રિયલ ઘટના પર આધારિત વધુ એક વેબ સીરીઝ તાજેતરમાં ઓટીટી પર રિલીઝ થઈ છે. આ ક્રાઈમ થ્રિલર વેબ સીરીઝ 1978 માં રંગા બીલ્લાએ કરેલી બાળકોની હત્યા પર આધારિત છે. આ ઘટના એવી હતી જેનાથી આખું ભારત ધ્રુજી ગયું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/crime-thriller-web-series-based-on-true-crime-story-in-india-raakh-web-series-ranga-billa-case-history-in-gujarati-481568 ",
+    "time": "2026-06-15T09:48:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "જૂની કારમાં E20 પેટ્રોલ ભરાવ્યું તો નહીં મળે ઈન્સ્યોરન્સ ક્લેમ? ICICI લોમ્બાર્ડની આ ચેતવણીથી ડર્યા કાર માલિકો",
+    "desc": "જો તમારી કાર એપ્રિલ 2023 પહેલાની છે, તો નવું E20 પેટ્રોલ તમારા ખિસ્સા પર મોટો બોજ બની શકે છે. ખાનગી વીમા કંપની ICICI લોમ્બાર્ડે ચેતવણી આપી છે કે જૂના વાહનોમાં ઇથેનોલ પેટ્રોલથી થતા એન્જિન નુકસાન માટેના વીમા દાવાઓ નકારી શકાય છે, કારણ કે કંપની તેને બેદરકારી ગણી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/will-you-not-get-an-insurance-claim-if-you-fill-e20-petrol-in-an-old-car-car-owners-are-scared-by-this-warning-from-icici-lombard-481565 ",
+    "time": "2026-06-15T09:21:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એક ઝટકે સોનાના ભાવમાં તોતિંગ વધારો, ચાંદી પણ 8000 રૂપિયા ઉછળી, જાણો અચાનક કેમ વધી ગયા ભાવ? લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં આજે ભારે વધારો જોવા મળ્યો છે. MCX અને IBJA પર આજે બંને કિમતી ધાતુઓમાં તોતિંગ વધારો જોવા મળ્યો છે. જો તમે પણ લેવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ખાસ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-increased-check-ibja-mcx-latest-rate-aaj-no-sona-chandi-no-bhav-481554 ",
+    "time": "2026-06-15T08:44:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત-પાકિસ્તાન મેચમાં થઈ હતી મારામારી? સોશિયલ મીડિયા પર આગની જેમ ફેલાઈ રહ્યો છે આ વીડિયો, જાણો સત્ય",
+    "desc": "મહિલા T20 વર્લ્ડ કપ 2026માં ભારત અને પાકિસ્તાન વચ્ચેની હાઇ-વોલ્ટેજ મેચ ખૂબ જ ચર્ચામાં રહી. ભારતે આ મેચ 64 રનથી જીતી લીધી છે. પરંતુ જીત કે હાર કરતાં વધુ, ભારતીય અને પાકિસ્તાની ખેલાડીઓ વચ્ચે ઝપાઝપી દર્શાવતો એક વાયરલ વીડિયો વધુ ચર્ચા જગાડી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/was-there-a-brawl-in-the-india-pakistan-match-this-video-is-spreading-like-wildfire-on-social-media-know-the-truth-481561 ",
+    "time": "2026-06-15T08:38:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "10 ગણી વધારે સ્પીડ વાળું 5.5G શું છે ? તમારા ફોન પર કેવી રીતે થશે એક્ટિવ અને તે 5Gથી કેટલું છે અલગ? જાણો A થી Z માહિતી",
+    "desc": "5G પછી, 5.5G ટેકનોલોજી, જેને 5G એડવાન્સ્ડ તરીકે પણ ઓળખવામાં આવે છે, તેનું રોલઆઉટ શરૂ થઈ ગયું છે. તે વર્તમાન 5G કરતા 10 ગણી ઝડપી ગતિ પ્રદાન કરવાનો દાવો કરે છે. 5.5G શું છે અને તેને તમારા ફોન પર કેવી રીતે એક્ટિવ કરવું તે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/what-is-5-5g-which-is-10-times-faster-how-will-it-be-activated-on-your-phone-and-how-different-is-it-from-5g-know-a-to-z-information-481555 ",
+    "time": "2026-06-15T07:13:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકા-ઈરાન યુદ્ધમાં આખરે કોણ જીત્યું, નેતન્યાહૂ અને મધ્યસ્થી પાકિસ્તાનનું શું?",
+    "desc": "અમેરિકા અને ઈરાન યુદ્ધ બંધ કરવા બન્ને પક્ષો સંમત થયા છે. રવિવારે બંને દેશો વચ્ચે શાંતિ કરાર થયો હતો અને બંને પક્ષો 19 જૂને સ્વિટ્ઝર્લૅન્ડમાં તેના પર હસ્તાક્ષર કરશે. ત્યારે મોટા ભાગના લોકોના મનમાં આ સવાલ ઉઠતો હશે કે આ યુદ્ધ કોણ જીત્યું?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/who-ultimately-won-the-us-iran-war-what-about-netanyahu-and-the-mediator-pakistan-481552 ",
+    "time": "2026-06-15T06:39:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "3/20/30/40 Rule: ઘર ખરીદવાનો છે પ્લાન? પહેલા સમજો આ ફોર્મ્યુલા, બાકી EMI બની શકે છે તમારો દુશ્મન",
+    "desc": "ઘર ખરીદવું માત્ર પ્રોપર્ટી ખરીદવી નથી, પરંતુ એક મોટો નાણાકીય નિર્ણય છે. 3/20/30/40 Rule તે જણાવે છે કે તમારી આવક પ્રમાણે ઘરની કિંમત કેટલી હોવી જોઈએ, ડાઉન પેમેન્ટ કેટલું આપવું જોઈએ, હપ્તો કેટલો હોવો જોઈએ અને હોમ લોન કેટલા સમય માટે લેવી જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/home-buying-rule-3-20-30-40-rule-help-you-better-planing-481550 ",
+    "time": "2026-06-15T06:20:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "રાજ્યસભામાં બદલાવા જઈ રહ્યા છે નંબર, NDA બહુમતીની નજીક, TMCના તૂટવાથી મોટી અસર",
     "desc": "TMC (તૃણમૂલ કોંગ્રેસ)ના સાંસદોના સતત રાજીનામા બાદ, સંસદીય આંકડામાં ફેરફાર થઈ શકે છે. એવી અપેક્ષા છે કે એનડીએ હવે ઉપલા ગૃહમાં બહુમતી મેળવવાની ખૂબ નજીક છે. જો કે, જે બેઠકો પર રાજીનામા આપવામાં આવ્યા છે ત્યાં ચૂંટણીઓની જાહેરાત કરવામાં આવી નથી.",
@@ -252,15 +333,6 @@ const newsData_gu = [
     "time": "2026-06-13T04:51:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "નેમાર રમશે કે નહીં? વર્લ્ડ કપ 2026ની ઓપનિંગ મેચ પહેલા બ્રાઝિલના હેડ કોચે આપ્યું મોટું અપડેટ",
-    "desc": "હાલમાં જ ફૂટબોલ વર્લ્ડ કપની શરૂઆત થઈ છે ત્યારે સ્ટાર ખેલાડી નેમાર વિશે એક મોટું અપડેટ આવ્યું છે. બ્રાઝીલના હેડ કોચ કાર્લો એન્સેલોટીએ ગ્રુપ સીની પહેલી મેચમાં નેમાર રમશે કે નહીં તેના વિશે મોટું અપડેટ આપ્યું છે જાણો શું કહ્યું?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-brazil-head-coach-gives-a-big-update-about-neymar-481351 ",
-    "time": "2026-06-13T04:45:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કાલા હિરન ફિલ્મનું ટીઝર જોઈ ભડક્યો સલમાન ખાન, ફિલ્મની રિલીઝ રોકવા હાઈકોર્ટમાં કરી અપીલ",
     "desc": "કાલા હિરન ફિલ્મનું ટીઝર રિલીઝ થયાની સાથે જ સલમાન ખાને હાઈકોર્ટના દરવાજા ખખડાવ્યા છે. સલમાન ખાને કોર્ટમાં અપીલ કરી છે કે ફિલ્મની રિલીઝ અને પ્રમોશન પર તુરંત રોકવામાં આવે. કોર્ટે મેકર્સને નોટિસ પણ ફટકારી છે.",
@@ -268,24 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kala-hiran-movie-teaser-salman-khan-plea-in-high-court-to-stop-film-release-481350 ",
     "time": "2026-06-13T04:31:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ફૂટબોલ વર્લ્ડ કપ 2026માં ક્યારે જોવા મળશે રોનાલ્ડો અને મેસ્સી ? જાણી લો પોર્ટુગલ અને આર્જેન્ટિના મેચની તારીખ",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026 શરૂ થઈ ગયો છે. ત્રણ મેચ પૂર્ણ થઈ ગયા બાદ ચાહકો ક્રિસ્ટિયાનો રોનાલ્ડો અને લિયોનેલ મેસ્સી જેવા સુપરસ્ટારને જોવા માટે ઉત્સુક છે. આ બે દિગ્ગજ ક્યારે અને કઈ મેચમાં રમતા જોવા મળશે તે અંગે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/when-will-cristiano-ronaldo-and-lionel-messi-in-action-football-world-cup-2026-481349 ",
-    "time": "2026-06-13T04:30:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અમેરિકાએ દુનિયાને દેખાડ્યો પોતાનો દમ, પેરાગ્વેને 4-1થી આપી ધોબીપછાડ",
-    "desc": "ફૂટબોલના રસિયાઓ જે ઘડીની રાહ જોતા હતા તે ઘડી આવી ગઈ અને ફૂટબોલ વર્લ્ડ કપ શરૂ થઈ ગયો. શનિવારે અમેરિકાની ટીમે જોરદાર રમતનું પ્રદર્શન કરતા પેરાગ્વેને 4-1થી હરાવી દીધુ હવે અમેરિકાની મેચ ઓસ્ટ્રેલિયા સામે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-usa-beats-paraguay-in-group-d-match-sports-news-in-gujarati-481348 ",
-    "time": "2026-06-13T04:10:46.000Z"
   },
   {
     "cat": "Business",
@@ -342,15 +396,6 @@ const newsData_gu = [
     "time": "2026-06-12T15:36:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "20 ચોગ્ગા, 1 સિક્સર, 103 રન... વૈભવ સૂર્યવંશીના માર્ગ પર નાનો ભાઈ આશીર્વાદ, ફટકારી શાનદાર સદી",
-    "desc": "વૈભવ સૂર્યવંશીના માર્ગ પર હવે તેનો નાનો ભાઈ આશીર્વાદ સૂર્યવંશી પણ આગળ વધી રહ્યો છે. ભાઈ ઉજ્જવલ અને પિતા સંજીવે આશીર્વાદની સદીના ફોટા અને સ્કોરકાર્ડ શેર કર્યું છે. આશીર્વાદે 87 બોલમાં 103 રનની ઇનિંગ રમી, જેમાં 20 ચોગ્ગા અને એક સિક્સર સામેલ હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/20-fours-1-six-103-runs-younger-brother-ashirwad-on-the-path-to-vaibhav-suryavanshi-scores-century-481329 ",
-    "time": "2026-06-12T14:55:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "ભારતીય જહાજો પર હુમલાઓ સહન કરવામાં આવશે નહીં, ટ્રમ્પે કહ્યું: હોર્મુંઝમાં ઈરાન કરી રહ્યું છે ડ્રોન એટેક",
     "desc": "યુએસ પ્રમુખ ડોનાલ્ડ ટ્રમ્પે દાવો કર્યો છે કે ઈરાને ગુરુવારે રાત્રે હોર્મુઝ સ્ટ્રેટ નજીક ભારતીય જહાજો પર ડ્રોન હુમલો કર્યો હતો. અમેરિકાએ તેને નિષ્ફળ બનાવ્યો. ટ્રમ્પે ઈરાન પર આ ડીલ વિશે અફવાઓ ફેલાવવાનો પણ આરોપ લગાવ્યો.",
@@ -396,15 +441,6 @@ const newsData_gu = [
     "time": "2026-06-12T11:09:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "જ્યારે ભારતને મળ્યો હતો FIFA World Cupમાં રમવાનો મોકો, પછી એવું શું થયું કે ટીમ ન ઉતરી મેદાનમા? જાણો કારણ",
-    "desc": "ફિફા વર્લ્ડ કપ 2026ની શરૂઆત થઈ ચૂકી છે, જેમાં કુલ 48 ટીમો ભાગ લઈ રહી છે. જો કે, ભારતીય ફૂટબોલ ટીમ આ ટૂર્નામેન્ટનો હિસ્સો નથી. પરંતુ ખૂબ જ ઓછા લોકો જાણે છે કે, ભારતીય ટીમ 1950 ફિફા વર્લ્ડ કપ માટે ક્વોલિફાય કરી ચૂકી હતી, પરંતુ તેમ છતાં તેણે ટૂર્નામેન્ટમાં ભાગ લીધો ન હતો. ચાલો જાણીએ તેની પાછળનું મોટું કારણ શું હતું?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/when-india-got-the-chance-to-play-in-the-fifa-world-cup-what-happened-that-the-team-did-not-take-to-the-field-know-reason-481273 ",
-    "time": "2026-06-12T10:22:44.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ગુજરાત પર તોળાઈ રહ્યું છે દુષ્કાળનું મોટું સંકટ! ક્યાંક ભારે ન પડે આ &amp;#039;ગોડઝિલા&amp;#039;, જાણો શું છે ચિંતાજનક?",
     "desc": "ગુજરાત સહિત કેટલાક રાજ્યો આ વખતે દુષ્કાળમાં સપડાય તેવા સંકેત મળી રહ્યા છે. વૈશ્વિક પૂર્વાનુમાન એવું ડરામણું છે કે જો સાચું પડે તો દેશના કરોડો ખેડૂતો અને અર્થવ્યવસ્થા તથા જળ વ્યવસ્થા પર ગંભીર અસર પડી શકે છે. જાણો વિગતો.",
@@ -439,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/narcl-loan-settlement-agson-global-private-limited-settlement-of-579-crore-against-a-claim-of-2172-crore-481264 ",
     "time": "2026-06-12T09:21:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ડીઝલ પર મોદી સરકારનો મોટો નિર્ણય, હવે એક વ્યક્તિને કેટલા લીટર ડીઝલ મળશે? તે ખાસ જાણો",
-    "desc": "મિડલ ઈસ્ટમાં તણાવ ઘટવાની જગ્યાએ વધી રહ્યો છે, હોર્મુઝ પર ફરી ગંભીર સંકટ તોળાયું છે ત્યારે ગેસ અને પેટ્રોલ-ડીઝલ મામલે ફરી ચિંતાઓ જોવા મળી રહી છે. આ બધા વચ્ચે કેન્દ્ર સરકારે હાઈ સ્પીડ ડીઝલ પર મોટો નિર્ણય લીધો છે જે ગ્રાહકોએ જાણવું જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-central-government-restricts-high-speed-diesel-sale-at-retail-outlets-481233 ",
-    "time": "2026-06-12T08:49:19.000Z"
   },
   {
     "cat": "Tech",
@@ -612,15 +639,6 @@ const newsData_gu = [
     "time": "2026-06-09T06:04:28.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "મોબાઈલ ચાર્જ કરતા સમયે મોટા ભાગના લોકો કરે છે આ 5 મોટી ભૂલ, જેનાથી વધી શકે છે બેટરી બ્લાસ્ટ થવાનો ખતરો",
-    "desc": "મોબાઈલ ફોન બ્લાસ્ટ થવાના અનેક સમાચાર આવી ચુક્યા છે, પણ તમે ક્યારેય વિચાર્યું છે, કે મોબાઈલ ફોન ચાર્જ કરતા સમયે જ મોટા ભાગે કેમ બ્લાસ્ટ થાય છે, મોબાઈલ ફોન ચાર્જ કરતા સમયે મોટા ભાગે આપણે અમુક ભૂલો એવી કરી કરીએ છીએ, જેનાથી મોબાઈલને બેટરી ફૂલી જાય છે અને ફાટે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/most-people-make-these-5-big-mistakes-while-charging-their-mobile-phones-which-can-increase-the-risk-of-battery-explosion-480836 ",
-    "time": "2026-06-08T11:31:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "વિક્રમ ભટ્ટે રિલેશનશીપને લઈ કરી પેટ છુટી વાત, સુષ્મિતા સેન તેની લાઈફમાં હતી ત્યારની હાલત વિશે જણાવ્યું",
     "desc": "વિક્રમ ભટ્ટે તાજેતરના તેના એક ઈન્ટરવ્યુમાં પોતાના કરિયરની શરુઆતના સંઘર્ષ વિશે વાત કરી હતી. આ વાત દરમિયાન તેણે સુષ્મિતા સેન વિશે પણ એક મોટી વાત કહી દીધી હતી. વિક્રમ ભટ્ટે શું કહ્યું ચાલો તમને પણ જણાવીએ.",
@@ -628,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sushmita-sen-dated-vikram-bhatt-when-he-was-poor-said-vikram-bhatt-in-recent-interview-480824 ",
     "time": "2026-06-08T09:15:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ફિલિપાઈન્સમાં વિનાશકારી ભૂકંપ બાદ સુનામીની ચેતવણી, તબાહીના Videos જોઈને હચમચી જશો",
-    "desc": "ફિલિપાઈન્સમાં આજે મિંડાનાઓ કાઠા પાસે સમુદ્રમાં અત્યંત શક્તિશાળી ભૂકંપ આવ્યો ત્યારબાદ ફિલિપાઈન્સની સાથે સાથે ઈન્ડોનેશિયામાં પણ સુનામીનું હાઈ એલર્ટ બહાર પાડવામાં આવ્યું છે. ભૂકંપના ઝટકાઓ બાદ સોશિયલ મીડિયા પર કેટલાક વીડિયો પણ વાયરલ થઈ રહ્યા છે જેને જોઈને તમે પણ હચમચી જશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/philippines-earthquake-latest-update-tsunami-alert-indonesia-watch-social-media-viral-videos-480792 ",
-    "time": "2026-06-08T06:23:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -648,15 +657,6 @@ const newsData_gu = [
     "time": "2026-06-07T05:50:44.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Instagram યુઝર્સ માટે Meta એ લોન્ચ કર્યો 299 રૂપિયાનો પ્રી-પેડ પ્લાન, જાણો કયા-કયા ફીચર્સ મળશે?",
-    "desc": "Meta કંપનીએ ઇન્સ્ટાગ્રામના ભારતીય યુઝર્સને મોટો ઝટકો આપ્યો છે. મેટાએ તાજેતરમાં WhatsApp, Instagram અને Facebook ને પેઇડ સર્વિસ બનાવવાની જાહેરાત કરી હતી. હવે કંપનીએ 'ઇન્સ્ટાગ્રામ પ્લસ' પ્લાન પણ લોન્ચ કરી દીધો છે, જે આજથી એટલે કે 7 જૂનથી અમલમાં આવી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/meta-has-launched-a-299-prepaid-plan-for-instagram-users-find-out-what-features-are-included-480683 ",
-    "time": "2026-06-07T04:59:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સીન પુરો થઈ ગયો તો પણ એક્ટર કીસ કરતો જ રહ્યો, અભિનેત્રીએ જણાવ્યા ઈંટીમેટ સીન સમયના કડવા અનુભવો",
     "desc": "અભિનેત્રી પ્રિયા બાપટે એક ઈંટરવ્યુમાં ઈંટીમેટ સીન દરમિયાન થતા ખરાબ અનુભવ વિશે વાત કરી હતી. જેમાં તેણે એવું પણ કહ્યું કે એક એક્ટરે તો સીન પુરો થઈ ગયા પછી પણ કીસ કરવાનું બંધ ન કર્યું. આવી ઘટનાના કારણે શરુઆતી સમયમાં નવા એક્ટર અસુક્ષિત અનુભવ કરતાં હોય છે.",
@@ -664,32 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/priya-bapat-had-bad-experience-during-kissing-scene-story-in-gujarati-actor-kept-kissing-her-even-after-scene-over-480651 ",
     "time": "2026-06-07T02:32:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વાવાઝોડા કે ઝાડ પડવાથી કારને નુકસાન થાય તો મળશે વીમા ક્લેમ? જાણો શું કહે છે નિયમ",
-    "desc": "વાવાઝોડા કે ઝાડ પડવાથી તમારી કારને થયેલા નુકસાન માટે તમને દાવો મળશે કે નહીં તે તમારી વીમા પૉલિસી પર આધાર રાખે છે. વ્યાપક વીમો સામાન્ય રીતે આવા નુકસાનને આવરી લે છે, જ્યારે થર્ડ પાર્ટી પૉલિસીઓ નથી. તાત્કાલિક નુકસાનના ફોટા લો, વીમા કંપનીને જાણ કરો અને સર્વેયર તેનું નિરીક્ષણ કરે તે પહેલાં વાહનનું સમારકામ કરાવશો નહીં, કારણ કે આ તમારા દાવાને અસર કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/will-you-get-an-insurance-claim-if-your-car-is-damaged-due-to-a-storm-or-falling-tree-know-what-the-rules-say-480632 ",
-    "time": "2026-06-06T15:42:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મુંબઈમાં દેશભરની સિનેમેટિક પ્રતિભાઓનું ભવ્ય સન્માન, ટોચના ફિલ્મમેકર્સનો જમાવડો",
-    "desc": "'ઝી શોર્ટ ફિલ્મ કોન્ટેસ્ટ'ના ગ્રાન્ડ ફિનાલેમાં ભારતના સૌથી પ્રખ્યાત ફિલ્મ નિર્માતાઓ દેશના સૌથી તેજસ્વી ઉભરતા કલાકારો અને ઉદ્યોગ જગતના અગ્રણીઓને પ્રોત્સાહિત કરવા માટે એકમંચ પર આવ્યા હતા. મુંબઈમાં ઝીના આ મહાકુંભને પગલે ભારતીય સિનેમાને હવે નવી પ્રતિભાઓ મળશે અને ઝીએ આપેલા એક મંચને પગલે ઘણા નવોદિતોને એક તક મળી રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/indias-veteran-filmmakers-encouraged-budding-creators-at-the-grand-finale-of-zee-short-film-contest-480611 ",
-    "time": "2026-06-06T12:53:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "પેદ્દી ફિલ્મમાં જાનવી કપૂરના સીનનો વિવાદ શું છે જાણી લો, ફિલ્મ ડારેક્ટરે ભુલ માટે માંગવી પડી માફી",
-    "desc": "રામ ચરણની સ્પોર્ટ ડ્રામા ફિલ્મ પેદ્દી રિલીઝ થઈ તેના ત્રીજા જ દિવસે ફિલ્મના ડાયરેક્ટર બુચી બાબુ સનાએ માફી માંગવી પડી છે. આ માફી તેણે જાનવી કપૂરના પાત્રને ખોટી રીતે દર્શાવવા માટે માંગી છે. પેદ્દી ફિલ્મનો વિવાદ શું છે ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/what-is-peddi-movie-janhvi-kapoor-role-controversy-why-buchi-babu-sana-shared-post-after-negative-review-480605 ",
-    "time": "2026-06-06T11:33:49.000Z"
   }
 ];

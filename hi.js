@@ -1,92 +1,83 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Neeraj Chopra set to make competitive return at Doha Diamond League",
+    "desc": "In a major development, India's star Javelin athlete Neeraj Chopra is all set to make his return at the upcoming Doha Diamond League on June 19. The double Olympic medallist has not competed professionally since finishing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-set-to-make-competitive-return-at-doha-diamond-league-2026-06-15-1044919",
+    "time": "2026-06-15T11:03:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia cracks top three with third ODI win against Bangladesh, SA moves down to fourth spot",
+    "desc": "The ICC (International Cricket Council) ODI team rankings have been updated, and it was Australia who benefited the most. The side has cracked the top three in the rankings, as their third ODI victory against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-rankings-australia-cracks-top-three-with-third-odi-win-against-bangladesh-sa-moves-down-to-fourth-spot-2026-06-15-1044912",
+    "time": "2026-06-15T10:20:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India and RCB star Shreyanka Patil reveals she battled depression, thought quitting cricket",
+    "desc": "India and Royal Challengers Bengaluru star bowler Shreyanka Patil has revealed her battle with depression and the thoughts of quitting cricket when she was hampered by a 14-month injury layoff between 2024 and 2025. Shreyanka...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-and-rcb-star-shreyanka-patil-reveals-she-battled-depression-thought-quitting-cricket-2026-06-15-1044908",
+    "time": "2026-06-15T09:37:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India A docked 10 runs as penalty for multiple breaches of law during Sri Lanka A game; check what happened",
+    "desc": "India A were hit with a 10-run penalty for multiple breaches of running on the protected area during their Tri-Nation Series reverse fixture against Sri Lanka A at the Rangiri Dambulla International Stadium, Dambulla on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-a-docked-10-runs-as-penalty-for-multiple-breaches-of-law-during-sri-lanka-a-game-check-what-happened-2026-06-15-1044903",
+    "time": "2026-06-15T09:09:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iran reach US for FIFA World Cup 2026 after peace deal agreement; what can be next for them?",
+    "desc": "The Iranian team reached the United States of America on Sunday, June 15, ahead of their FIFA World Cup 2026 opener against New Zealand in Los Angeles. The touch landed on US soil just after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/iran-reach-us-for-fifa-world-cup-2026-after-peace-deal-agreement-what-can-be-next-for-them-2026-06-15-1044899",
+    "time": "2026-06-15T08:22:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricket-like rule comes to rescue in Sweden's cakewalk 5-1 win over Tunisia in FIFA World Cup 2026",
+    "desc": "Cricket's snicko rule came to the rescue for Sweden's Mattias Svanberg as he saw an offside getting overturned during his strike in the latter half of the FIFA World Cup 2026 clash against Tunisia. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cricket-like-rule-comes-to-rescue-in-swedens-cakewalk-5-1-win-over-tunisia-in-fifa-world-cup-2026-watch-2026-06-15-1044884",
+    "time": "2026-06-15T07:01:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deepti Sharma becomes first Indian cricketer to achieve huge T20I record after Pakistan rout",
+    "desc": "India star all-rounder Deepti Sharma achieved quite a few milestones during her epic bowling outing against Pakistan at the Women's T20 World Cup 2026 at Edgbaston, Birmingham. After India made a strong 170/6, the Women...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/deepti-sharma-becomes-first-indian-cricketer-to-achieve-huge-t20i-record-after-pakistan-rout-2026-06-15-1044873",
+    "time": "2026-06-15T05:29:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How did Vaibhav Sooryavanshi perform in India A vs Sri Lanka A Tri-Nation Series clash?",
+    "desc": "Vaibhav Sooryavanshi was in focus once again as India A took on Sri Lanka A in their third match of the Tri-Nation Series on Monday, June 15. Sooryavanshi has been the talk of the town...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-did-vaibhav-sooryavanshi-perform-in-india-a-vs-sri-lanka-a-tri-nation-series-clash-2026-06-15-1044869",
+    "time": "2026-06-15T04:57:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England hit with more trouble after Stokes-Atkinson exclusion, star performer out of 2nd New Zealand Test",
     "desc": "After dropping captain Ben Stokes and fast bowler Gus Atkinson from the squad for the second Test against New Zealand due to disciplinary issues, England have been dealt another blow as Ollie Robinson has been...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-hit-with-more-trouble-after-stokes-atkinson-exclusion-star-performer-out-of-2nd-new-zealand-test-2026-06-15-1044854",
     "time": "2026-06-15T02:45:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lamine Yamal's availability for Spain's FIFA World Cup 2026 opener revealed after hamstring injury",
-    "desc": "In a big boost for Spain, star midfielder Lamine Yamal is in \"ideal condition\" to play for his team in its FIFA World Cup 2026 opener against Cape Verde on Monday, coach Luis de la...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lamine-yamals-availability-for-spains-fifa-world-cup-2026-opener-revealed-after-hamstring-injury-2026-06-15-1044851",
-    "time": "2026-06-15T02:02:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Germany shatter most successful record in FIFA World Cup history after 7-1 rout of Curacao",
-    "desc": "Germany routed debutants Curacao at the Houston Stadium to register a massive 7-1 win in their FIFA World Cup 2026 opener on Sunday, June 14. The four-time champions made the minnows look clueless with an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/germany-shatter-most-successful-record-in-fifa-world-cup-history-after-rout-of-curacao-2026-06-15-1044848",
-    "time": "2026-06-15T01:33:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Germany decimate Curacao to kick off FIFA World Cup campaign, register 7-1 victory",
-    "desc": "Germany kicked off their FIFA World Cup 2062 campaign by taking on Curacao. The two sides met at the Houston Stadium in Houston on June 14th, and while many anticipated Germany to register a dominant...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/germany-decimate-curacao-to-kick-off-fifa-world-cup-campaign-register-7-1-victory-2026-06-15-1044845",
-    "time": "2026-06-14T21:15:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur opens up after India defeat Pakistan to kick off Women's T20 World Cup campaign",
-    "desc": "The Indian team performed brilliantly against Pakistan to kick off their Women’s T20 World Cup 2026 campaign. The two sides met at Edgbaston in Birmingham for the clash, and the Women in Blue managed to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-opens-up-after-india-defeat-pakistan-to-kick-off-women-s-t20-world-cup-campaign-2026-06-15-1044844",
-    "time": "2026-06-14T20:11:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deepti Sharma achieves huge feat after exceptional performance against Pakistan women in Birmingham",
-    "desc": "India women got off to a brilliant start to their Women’s T20 World Cup 2026 campaign. The side took on Pakistan women at Edgbaston in Birmingham on June 14th, and the game saw India coming...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/deepti-sharma-achieves-huge-feat-after-exceptional-performance-against-pakistan-women-in-birmingham-2026-06-14-1044843",
-    "time": "2026-06-14T17:45:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India women get off to stellar start to Women's T20 World Cup 2026, defeat Pakistan by 64 runs",
-    "desc": "The 6th game of the ongoing Women’s T20 World Cup 2026 saw India women taking on Pakistan women. The two sides met at Edgbaston in Birmingham on June 14th, and India managed to put in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-women-get-off-to-stellar-start-to-women-s-t20-world-cup-2026-defeat-pakistan-by-64-runs-2026-06-14-1044838",
-    "time": "2026-06-14T17:02:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Germany defeat Curacao by 7-1",
-    "desc": "Germany finally kick off their FIFA World Cup 2026 campaign. The side will be taking on Curacao at the Houston Stadium in Houston, and the team will hope to put in a good showing. Coming...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ger-vs-cuw-fifa-world-cup-2026-live-germany-look-for-dominant-start-to-the-tournament-1044835",
-    "time": "2026-06-14T16:39:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very impressive': Former India cricketer weighs in on Gurnoor Brar's debut after win in 1st AFG ODI",
-    "desc": "The Indian team got off to a great start to the ongoing ODI series against Afghanistan. The two sides met at the HPCA Stadium in Dharamsala for the clash, and India managed to register a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-gurnoor-brar-s-debut-after-win-in-1st-afg-odi-2026-06-14-1044833",
-    "time": "2026-06-14T16:21:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana equals Mithali Raj, Harmanpreet Kaur in elite list with brilliant knock against Pakistan women",
-    "desc": "India women kicked off their T20 World Cup 2026 campaign by taking on Pakistan. The two sides met at Edgbaston in Birmingham on June 14th, and the game began with India coming in to bat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-equals-mithali-raj-harmanpreet-kaur-in-elite-list-with-brilliant-knock-against-pakistan-women-2026-06-14-1044830",
-    "time": "2026-06-14T15:36:49.000Z"
   }
 ];
