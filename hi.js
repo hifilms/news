@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kylian Mbappe scores, France take lead in second half",
+    "desc": "France open their 2026 FIFA World Cup campaign against Senegal in a Group I clash that revives memories of the famous 2002 upset, when the African side shocked the then-defending champions. The match, staged at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fra-vs-sen-fifa-world-cup-2026-live-france-vs-senegal-live-update-playing-xi-commentary-highlights-goals-kylian-mbappe-dembele-olise-mane-1045102",
+    "time": "2026-06-16T18:04:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heung-Min Son, South Korea players boycott press during FIFA World Cup 2026, know what happened",
+    "desc": "South Korea players boycotted media duties at the 2026 FIFA World Cup after remarks surfaced mocking captain Son Heung-min’s military service background. The decision came after comments allegedly made during a training broadcast at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/heung-min-son-south-korea-players-boycott-press-during-fifa-world-cup-2026-know-what-happened-2026-06-16-1045100",
+    "time": "2026-06-16T17:30:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Can Lionel Messi's Argentina match Brazil's 64-year-old record in FIFA World Cup 2026?",
     "desc": "Argentina arrive at the FIFA World Cup 2026 carrying the status of defending champions, having won the coveted title by beating France in the penalty shoot-out in 2022. That triumph delivered a third world crown...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/did-mexico-legend-guillermo-ochoa-confirm-his-professional-retirement-latest-interview-gives-major-hint-2026-06-16-1045043",
     "time": "2026-06-16T10:49:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Neymar play for Brazil in FIFA World Cup 2026 clash against Haiti? Latest reports drop big update",
-    "desc": "Neymar could be out on the sidelines for much longer in the FIFA World Cup 2026 than the fans would want, as latest reports reveal that the Santos forward might miss out on the entirety...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/will-neymar-play-for-brazil-in-fifa-world-cup-2026-clash-against-haiti-latest-reports-drop-big-update-2026-06-16-1045034",
-    "time": "2026-06-16T10:02:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi's participation in FIFA World Cup 2026 opener against Algeria revealed by coach Lionel Scaloni",
-    "desc": "Argentina coach Lionel Scaloni stressed the need for 'calmness' as they open their FIFA World Cup 2026 campaign against Algeria on June 17 (as per IST). The manager declared three of its crucial stars -...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messis-participation-in-fifa-world-cup-2026-opener-against-algeria-revealed-by-coach-lionel-scaloni-2026-06-16-1045028",
-    "time": "2026-06-16T09:15:35.000Z"
   }
 ];
