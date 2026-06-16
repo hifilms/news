@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "શું ઈરાન પરમાણુ હથિયાર રાખી શકશે, અમેરિકા આપશે તેને 300 મિલિયન ડોલર? શાંતિ સમજૂતિ પર સવાલ ઉઠ્યા",
+    "desc": "એકબાજુ જ્યાં અમેરિકા અને ઈરાન વચ્ચે શાંતિ સમજૂતિ થઈ ગઈ હોવાના સમાચાર છે ત્યાં હવે આ પીસ ડીલ પર સવાલ પણ ઉઠી રહ્યા છે. શું અમેરિકા ઈરાનને મોટું ફંડ આપશે? ઈરાન પરમાણુ હથિયારો રાખી શકશે કે નહીં? જાણો શું કહ્યું અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-us-peace-deal-update-questions-raised-on-the-deal-what-did-donald-trump-say-481630 ",
+    "time": "2026-06-16T03:41:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "&amp;#039;ઘણીવાર મરવાની વાતો કરતી...&amp;#039; સંચિતા ઉગલેના નિધન પછી ખાસ મિત્રે કર્યો ચોંકાવનારો ખુલાસો",
+    "desc": "ટીવી એક્ટ્રેસ સંચિતા ઉગલેએ 22 વર્ષની ઉંમરે જીવન ટુંકાવી લીધું. 14 જૂન 2026 ના રોજ સંચિતા તેના ઘરમાં મૃત્ય અવસ્થામાં મળી હતી. સંચિતા ઉગલેના મોત પછી તેની નજીકની મિત્ર અને અભિનેત્રી મેઘા શર્માએ ચોંકાવનારા ખુલાસા કર્યા છે. મેઘા શર્માએ શું કહ્યું ચાલો તમને જણાવીએ વિસ્તારપૂર્વક.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/actress-sanchita-ugale-friend-and-actress-megha-sharma-reveal-shocking-truth-related-to-sanchita-ugale-481622 ",
+    "time": "2026-06-16T02:40:15.000Z"
+  },
+  {
+    "cat": "World",
     "title": "યુદ્ધ વિરામ માટે અમેરિકા-ઈરાન વચ્ચે MoU સાઇન, ટ્રમ્પના નિવેદનથી વધ્યું સસ્પેન્સ; હવે શુક્રવાર પર બધાની નજર",
     "desc": "અમેરિકા અને ઈરાન વચ્ચે છેલ્લા અંદાજે ચાર મહિનાથી યુદ્ધ ચાલી રહ્યું હતું. હવે આ યુદ્ધને રોકવા માટે બન્ને દેશોએ એક મોટી ડીલ પર સાઇન કરી દીધી છે. આ કરારને MOU એટલે કે મેમોરેન્ડમ ઓફ અંડરસ્ટેન્ડિંગ કહેવામાં આવે છે. સરળ શબ્દોમાં કહીએ તો, એક લેખિત સંમતિ કે આપણે આગળ વાતચીત કરીશું અને લડાઈ બંધ કરીશું. તેને આ સમગ્ર સંકટનો સૌથી મોટો બ્રેકથ્રુ માનવામાં આવી રહ્યો છે. જો કે, અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના નિવેદને આ ડીલ પર સસ્પેન્સ વધારી દીધું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -619,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sushmita-sen-dated-vikram-bhatt-when-he-was-poor-said-vikram-bhatt-in-recent-interview-480824 ",
     "time": "2026-06-08T09:15:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આ હોરર ફિલ્મ જોતાં જોતાં બોલવા લાગશો હનુમાન ચાલીસા, બીકના કારણે ધ્રુજવા લાગશે હાથ-પગ",
-    "desc": "જે લોકોને હોરર ફિલ્મો જોવાનો શોખ છે તેમના માટે આજે બેસ્ટ હોરર મુવી વિશે જાણકારી લઈને આવ્યા છીએ. ઓટીટી પર આ ફિલ્મ રિલીઝ થઈ ચુકી છે. આ હોરર ફિલ્મ જોતાં જોતા હનુમાન ચાલીસા બોલવા લાગશો. ફિલ્મના અમુક સીન તો એવા છે જેને જોઈ તમારા મોઢામાંથી પણ ચીસ નીકળી જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/horror-thriller-movie-in-hindi-on-netflix-the-nun-2-latest-hindi-horror-movie-on-ott-480689 ",
-    "time": "2026-06-07T05:50:44.000Z"
   }
 ];
