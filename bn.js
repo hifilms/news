@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'আমাকে বাঁচাও...' মাদক খাইয়ে সম্মোহন-- হিংস্র শারীরিক অত্যাচার, ধর্মান্তকরণের বীভত্‍সার ভাইরাল VDO",
+    "desc": "ঘটনাটির সূত্রপাত বেশ কিছুদিন আগে। অভিযুক্তরা প্রথমে তাঁর সঙ্গে আলাপ জমায় এবং পরবর্তীতে কায়দা করে তাঁর খাবারে আর পানীয়তে মাদক মিশিয়ে তাঁকে অচেতন করে। সেই অচেতন অবস্থার সুযোগ নিয়ে তাঁর কিছু আপত্তিকর ছবি ও ভিডিয়ো তোলে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/nagpur-woman-alleges-drugging-sexual-assault-and-forced-conversion-investigation-underway_658617.html ",
+    "time": "2026-06-16T12:01:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "প্রাক্তন প্রেমিকের প্রতারণা, কাস্টিং কাউচ! শেষ হল ২২ বছরের জীবন, সঞ্চিতার মৃত্যুতে রহস্য",
+    "desc": "উজ্জ্বল শর্মা নাকি সঞ্চিতার কাছ থেকে টাকা ধার নিয়েছিলেন। টাকা ফেরত চাইলে উজ্জ্বল দুর্ব্যবহার শুরু করেন। সঞ্চিতাকে মারধরের হুমকিও দেওয়া হয়েছিল বলে অভিযোগ। এই সংক্রান্ত চ্যাটের স্ক্রিনশটও নাকি রয়েছে, যেখানে আপত্তিকর ভাষা ব্যবহার করা হয়েছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tv-actor-sanchita-ugales-brother-claims-casting-agents-harassed-her-friend-alleges-ex-boyfriend-behaviour_658613.html ",
+    "time": "2026-06-16T11:32:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "একদিকে ED, অন্যদিকে স্পিকারের জরুরি তলব: ১১ ঘণ্টার জেরার গেরোয় ওম বিড়লার ডাকেও পৌঁছতে পারলেন না অভিষেক",
+    "desc": "সোমবার চরম রাজনৈতিক ও আইনি নাটক দেখল দেশ। লোকসভার স্পিকার ওম বিড়লা সোমবার বিকেল ৪টেয় অভিষেক বন্দ্যোপাধ্যায়কে ডেকে পাঠালেও, ইডির জেরায় আটকে থাকায় মেল খোলারও সুযোগ পাননি তৃণমূল সাংসদ। শেষ পর্যন্ত সাংসদ কীর্তি আজাদ স্পিকারের সঙ্গে দেখা করে পরিস্থিতি সামাল দেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/abhishek-banerjee-misses-speaker-om-birla-meeting-due-to-ed-interrogation_658610.html ",
+    "time": "2026-06-16T11:03:46.000Z"
+  },
+  {
     "cat": "World",
     "title": "বিখ্যাত সংবাদসংস্থায় ভয়ংকর ছাঁটাই: একসঙ্গে ২,০০০ কর্মীর চাকরি খেল অফিস, কর্মহীন হাজার হাজার সাংবাদিক",
     "desc": "ডিজিটাল যুগের সাথে তাল মেলাতে বিবিসি গত কয়েক বছর ধরেই তাদের কার্যপদ্ধতিতে বদল আনার চেষ্টা করছে। কর্তৃপক্ষের দাবি, কর্মী ছাঁটাইয়ের এই প্রক্রিয়াটি অত্যন্ত বেদনাদায়ক হলেও, ভবিষ্যতের কথা মাথায় রেখে সংস্থাকে আধুনিক এবং যুগোপযোগী করে তুলতে এই কঠোর সিদ্ধান্ত নেওয়া ছাড়া আর কোনও উপায় ছিল না।",
@@ -52,33 +79,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/khamenei-funeral-news-iran-announces-khamenei-funeral-burial-dates-late-supreme-leader-khamenei-imam-shrine-in-mashhad_658210.html ",
     "time": "2026-06-14T08:09:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বিশ্বকাপে আমেরিকার ইতিহাস! প্যারাগুয়েকে উড়িয়ে দাপুটে শুরু মার্কিনদের, ডেভিসহীন কানাডাকে বাঁচালেন লারিন",
-    "desc": "বিশ্বকাপে মার্কিন যুক্তরাষ্ট্রের ঐতিহাসিক রূপকথা! প্যারাগুয়ের জালে ৪ গোল দিয়ে নিজেদের ফুটবল ইতিহাসে নতুন রেকর্ড গড়ল টিম USA। অন্যদিকে, ঘরের মাঠে ধাক্কা খেল কানাডা। আলফনসো ডেভিসহীন ম্যাচে কাইল লারিনের গোলে বসনিয়ার বিরুদ্ধে হার বাঁচাল স্বাগতিকরা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/usa-historic-win-paraguay-canada-draw-bosnia-fifa-world-cup-2026_658122.html ",
-    "time": "2026-06-13T11:07:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "আমেরিকায় এসে সর্বস্ব খোয়াল ইংল্যান্ড...ট্রেনিংয়ের আগেই ভ্যানিশ! ট্রাম্পের দেশ বুট চোর?",
-    "desc": "বিশ্বকাপের আগেই মার্কিন মুলুকে বড় ধাক্কা খেল ইংল্যান্ড দল! ক্রোয়েশিয়ার বিরুদ্ধে নামার আগেই হাপিস জুড বেলিংহ্যাম, বুকায়ো সাকাদের বুট ও প্র্যাকটিস কিট! ফ্লোরিডা থেকে কানসাস সিটি যাওয়ার পথে চুরি গেল ইংল্যান্ডের অফিশিয়াল ম্যাচ বলও। তদন্তে নেমেছে মার্কিন পুলিশ। থমাস টুখেলের রণকৌশলে কি প্রভাব ফেলবে মাঠের বাইরের এই বিতর্ক?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/england-fifa-world-cup-team-equipment-stolen-kansas-city-usa_658115.html ",
-    "time": "2026-06-13T09:48:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ব্রাজিলের মাথায় বিরাট বজ্রপাত! নেইমারকে নিয়ে হাড়হিম আপডেট... উদ্বেগে ফ্যানেরা",
-    "desc": "৩৪ বছর বয়সী ফরোয়ার্ড গত মে মাসের মাঝামাঝি সময়ে ডান পায়ের কাফ মাসলে (Calf Injury) চোট পান। সেই চোট এখনও পুরোপুরি সারেনি। ২০২৩ সালের পর থেকেই নেইমারকে ব্রাজিলের হলুদ জার্সিতে আন্তর্জাতিক ম্যাচে আর দেখা যায়নি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/neymar-ruled-out-of-brazil-vs-morocco-opening-match-in-fifa-world-cup-2026-big-update_658084.html ",
-    "time": "2026-06-13T06:57:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -153,15 +153,6 @@ const newsData_bn = [
     "time": "2026-06-07T10:17:56.000Z"
   },
   {
-    "cat": "World",
-    "title": "ইসরায়েলি হামলায় মৃত ১২; কেন আসিম মুনিরের সঙ্গে দেখা করবেন লেবানিজ সেনাপ্রধান?",
-    "desc": "ইরানের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র এই হামলাকে লেবানন, লেবাননের সেনাবাহিনী ও তার সার্বভৌমত্বের বিরুদ্ধে এক জঘন্য অপরাধ ও আগ্রাসনের স্পষ্ট বার্তা হিসেবে চিহ্নিত করেন। তিনি বলেন, এর মাধ্যমে বোঝা যায়, ইসরায়েল লেবাননের নিরাপত্তা, স্থিতিশীলতা ও সমৃদ্ধি চায় না। এই হামলার নিন্দা জানিয়েছে আঞ্চলিক দেশগুলিও। এর মধ্যে রয়েছে সৌদি আরব, জর্ডান ও কাতার।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/israeli-attack-in-lebanon-kill-12-people-lebanons-commander-general-rudolf-haykal-heading-to-talk-with-asim-munir_657094.html ",
-    "time": "2026-06-07T06:31:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ছোট ছবির হাত ধরেই সিনে-মায়ার স্বপ্নপূরণ: 'জি শর্ট ফিল্ম কনটেস্ট'-এর সমাপ্তি মঞ্চে তারকার হাট, বিচারকের আসনে অনুরাগ থেকে সৃজিত",
     "desc": "মুম্বইয়ের গ্র্যান্ড হায়াতে বসেছিল চাঁদের হাট। সফলভাবে সম্পন্ন হল প্রথম 'Zee Short Film Contest'-এর গ্র্যান্ড ফিনালে। অনুরাগ কাশ্যপ, সৃজিত মুখোপাধ্যায় থেকে শুরু করে লিজো জোসে পেলিসেরি— তরুণ পরিচালকদের পিঠ চাপড়াতে হাজির ছিলেন ইন্ডাস্ট্রির বিগ বসরা। ৫ লক্ষ টাকার পুরস্কারের পাশাপাশি মিলল 'জি স্টুডিওজ'-এর সাথে সিনেমা বানানোর সরাসরি টিকিট।",
@@ -187,14 +178,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/swarup-biswas-arrested-police-custody-till-june-18-alipore-court_656788.html ",
     "time": "2026-06-05T13:20:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "কাজ পাইয়ে দিতে টাকা দাবি, সরাসরি যৌন প্রস্তাব, স্বরূপের বিরুদ্ধে ঠিক কী কী অভিযোগ?",
-    "desc": "স্টুডিয়োর স্পট বয়, লাইটম্যান থেকে শুরু করে বিভিন্ন সাধারণ টেকনিশিয়ানদের কাজের সুযোগ করে দেওয়ার নাম করে বা প্রভাব খাটিয়ে নিয়মিত টাকা তোলা হতো বলে অভিযোগ। অভিযোগকারিণীর দাবি এবং পুলিসের দায়ের করা মামলার ভিত্তিতে স্বরূপ বিশ্বাসের বিরুদ্ধে ঠিক কী কী অভিযোগ রয়েছেয?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/demanding-money-direct-physical-propositions-what-exactly-are-the-allegations-against-swarup-biswas_656703.html ",
-    "time": "2026-06-04T18:12:06.000Z"
   }
 ];
