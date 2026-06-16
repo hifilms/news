@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Did Mexico legend Guillermo Ochoa confirm his professional retirement? Latest interview gives major hint",
+    "desc": "Mexican icon Guillermo Ochoa seemingly confirmed that the ongoing FIFA World Cup 2026 will be his final professional tournament as he can't see his career beyond the national team. Ochoa had earlier suggested that he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/did-mexico-legend-guillermo-ochoa-confirm-his-professional-retirement-latest-interview-gives-major-hint-2026-06-16-1045043",
+    "time": "2026-06-16T10:49:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Neymar play for Brazil in FIFA World Cup 2026 clash against Haiti? Latest reports drop big update",
+    "desc": "Neymar could be out on the sidelines for much longer in the FIFA World Cup 2026 than the fans would want, as latest reports reveal that the Santos forward might miss out on the entirety...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/will-neymar-play-for-brazil-in-fifa-world-cup-2026-clash-against-haiti-latest-reports-drop-big-update-2026-06-16-1045034",
+    "time": "2026-06-16T10:02:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi's participation in FIFA World Cup 2026 opener against Algeria revealed by coach Lionel Scaloni",
+    "desc": "Argentina coach Lionel Scaloni stressed the need for 'calmness' as they open their FIFA World Cup 2026 campaign against Algeria on June 17 (as per IST). The manager declared three of its crucial stars -...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messis-participation-in-fifa-world-cup-2026-opener-against-algeria-revealed-by-coach-lionel-scaloni-2026-06-16-1045028",
+    "time": "2026-06-16T09:15:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why was Iran's football team asked to 'leave US immediately' after FIFA World Cup draw with New Zealand?",
+    "desc": "Iran's FIFA World Cup 2026 campaign has been nothing short of a turmoil. The team was asked to leave the United States right after they played their World Cup opener against New Zealand, Iran coach...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-was-irans-football-team-asked-to-leave-us-immediately-after-fifa-world-cup-draw-with-new-zealand-2026-06-16-1045012",
+    "time": "2026-06-16T07:12:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Struggling India A make forced change to squad for Tri-Nation Series, tearaway IPL pacer added to team",
+    "desc": "India A have been forced to make a late change to their squad for the ongoing Tri-Nation Series featuring Sri Lanka A and Afghanistan A, as fast bowler Yudhvir Singh Charak has been ruled out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/struggling-india-a-make-forced-change-to-squad-for-tri-nation-series-tearaway-ipl-pacer-added-to-team-2026-06-16-1045003",
+    "time": "2026-06-16T06:16:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iran kick off FIFA World Cup campaign with New Zealand stalemate; check how AFC teams have performed",
+    "desc": "Iran came from behind to avoid a loss against New Zealand, keeping them to a 2-2 stalemate in their FIFA World Cup 2026 on Tuesday, June 16 (as per IST). Team Melli were down a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/iran-kick-off-fifa-world-cup-campaign-with-new-zealand-stalemate-check-how-afc-teams-have-performed-2026-06-16-1045000",
+    "time": "2026-06-16T05:52:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Cabo Verde's goalkeeper Vozinha, the man who stopped Spain in FIFA World Cup 2026?",
+    "desc": "Cabo Verde put up a performance for the ages to deny powerhouses Spain in their FIFA World Cup 2026 opener with goalkeeper Vozinha hogging the limelight for the sensational saves he made during the 0-0...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/who-is-cabo-verdes-goalkeeper-vozinha-the-man-who-stopped-spain-in-fifa-world-cup-2026-2026-06-16-1044987",
+    "time": "2026-06-16T04:46:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cabo Verde hold off Spain to kick off FIFA World Cup 2026 campaign, register historic first point in Atlanta",
     "desc": "Spain kicked off their FIFA World Cup 2026 campaign by taking on Cabo Verde. The two sides met at the Atlanta Stadium in Atlanta on June 15, and while many had backed Spain to register...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/esp-vs-cpv-fifa-world-cup-2026-live-spain-look-to-get-off-to-a-good-start-1044955",
     "time": "2026-06-15T15:55:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Lamine Yamal not starting for Spain as they kick off their FIFA World Cup 2026 campaign? Check details",
-    "desc": "The stage is set for another exciting clash in the ongoing FIFA World Cup 2026. 2010 champions Spain will be kicking off their World Cup campaign by taking on Cabo Verde. The two sides will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-lamine-yamal-not-starting-for-spain-as-they-kick-off-their-fifa-world-cup-2026-campaign-check-details-2026-06-15-1044954",
-    "time": "2026-06-15T15:43:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Watch",
-    "desc": "India A took on Sri Lanka A in the 4th match of the ongoing tri-series between India A, Sri Lanka A, and Afghanistan A. The two sides met at the Rangiri Dambulla International Stadium on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-involved-in-heated-argument-after-india-a-lose-against-sri-lanka-a-watch-2026-06-15-1044949",
-    "time": "2026-06-15T14:16:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka A defeat India A in the super over, register thrilling win in Dambulla",
-    "desc": "Sri Lanka A has managed to snatch a victory from the grasp of India A. The two sides met in the 4th match of the ongoing tri-series, and after Sri Lanka matched India's total of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-a-defeat-india-a-in-the-super-over-register-thrilling-win-in-dambulla-2026-06-15-1044940",
-    "time": "2026-06-15T13:10:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Japan head coach Hajime Moriyasu's unique coaching method goes viral after draw against Netherlands",
-    "desc": "Japan did the unthinkable and registered a 2-2 draw against the Netherlands. The two sides met at the Dallas Stadium in the FIFA World Cup 2026 clash, and the Netherlands opened the scoring with Virgil...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/japan-head-coach-hajime-moriyasu-s-unique-coaching-method-goes-viral-after-draw-against-netherlands-2026-06-15-1044936",
-    "time": "2026-06-15T12:30:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra set to make competitive return at Doha Diamond League",
-    "desc": "In a major development, India's star Javelin athlete Neeraj Chopra is all set to make his return at the upcoming Doha Diamond League on June 19. The double Olympic medallist has not competed professionally since finishing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-set-to-make-competitive-return-at-doha-diamond-league-2026-06-15-1044919",
-    "time": "2026-06-15T11:03:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia cracks top three with third ODI win against Bangladesh, SA moves down to fourth spot",
-    "desc": "The ICC (International Cricket Council) ODI team rankings have been updated, and it was Australia who benefited the most. The side has cracked the top three in the rankings, as their third ODI victory against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-rankings-australia-cracks-top-three-with-third-odi-win-against-bangladesh-sa-moves-down-to-fourth-spot-2026-06-15-1044912",
-    "time": "2026-06-15T10:20:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India and RCB star Shreyanka Patil reveals she battled depression, thought quitting cricket",
-    "desc": "India and Royal Challengers Bengaluru star bowler Shreyanka Patil has revealed her battle with depression and the thoughts of quitting cricket when she was hampered by a 14-month injury layoff between 2024 and 2025. Shreyanka...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-and-rcb-star-shreyanka-patil-reveals-she-battled-depression-thought-quitting-cricket-2026-06-15-1044908",
-    "time": "2026-06-15T09:37:35.000Z"
   }
 ];

@@ -1,12 +1,111 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ના વિરાટ, ના રોહિત... આ ખાસ લિસ્ટમાં સ્મૃતિ મંધાના એકમાત્ર ભારતીય ખેલાડી, મેસી-રોનાલ્ડોના ક્લબમાં થઈ સામેલ",
+    "desc": "ભારતીય મહિલા ક્રિકેટ ટીમની વાઇસ-કેપ્ટન સ્મૃતિ મંધાના હંમેશા પોતાની રમતને લઈને ચર્ચામાં રહે છે. ભારતની આ 'ક્વીન' એ મહિલા T20 વર્લ્ડ કપ વચ્ચે ફરી એકવાર દેશનું ગૌરવ વધાર્યું છે. જે લિસ્ટમાં વિરાટ કોહલી અને રોહિત શર્માનું નામ પણ નથી આવ્યું, તેમાં સ્મૃતિને સ્થાન મળ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/no-virat-no-rohit-smriti-mandhana-is-the-only-indian-player-in-this-special-list-joining-the-club-of-messi-ronaldo-481676 ",
+    "time": "2026-06-16T10:37:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઐતિહાસિક સિદ્ધિ છતાં છલકાયું દર્દ: સ્પેન સામે દિવાલ બનેલો વોઝિન્હા મેચ પછી કેમ રડી પડ્યો?",
+    "desc": "40 વર્ષની ઉંમરે જ્યારે ખેલાડીઓ નિવૃત્ત લઈ લેતા હોય છે. ત્યારે કેર વર્ડેના ગોલકીપર વોઝિન્હાએ ફુટબોલ વિશ્વકપમાં પર્દાપણ કરી ઈતિહાસ રચી દીધો. સ્પેન જેવી મજબૂત ટીમ સામે વોઝિન્હા દીવાલ બની ગયો અને સાત શાનદાર બચાવ કર્યાં હતા. મેચ બાદ તેનું દર્દ છલકાયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/historic-debut-at-40-yet-tears-of-pain-why-this-world-cup-star-broke-down-after-the-match-481669 ",
+    "time": "2026-06-16T09:41:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "વહેલી સવારે પેટ્રોલ ભરાવો તો વધારે આવે, વર્ષો જૂના આ આ દાવામાં કેટલું સત્ય ?",
+    "desc": "શું ખરેખર સવારે વહેલા ટાંકી ભરાવાથી પેટ્રોલ વધારે આવે ? વર્ષોથી ચાલી આવતી આ થિયરી પાછળનું સત્ય આખરે સામે આવ્યું છે. આ લેખમાં જાણીશું કે, શું પેટ્રોલ ભરાવવાનો પણ કોઈ સમય છે કે પછી આ એક ભ્રમ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/petrol-filling-morning-or-night-you-will-get-more-know-the-truth-behind-it-481668 ",
+    "time": "2026-06-16T09:40:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હવે મહારાષ્ટ્રમાં બંગાળવાળી? &amp;#039;ઓપરેશન ટાઈગર&amp;#039;થી હડકંપ, ઉદ્ધવ જૂથના 6 સાંસદો NDAમાં જાય તેવી અટકળો!",
+    "desc": "પશ્ચિમ બંગાળમાં હાલમાં જ વિધાનસભા ચૂંટણી થઈ અને તેમાં ટીએમસીની કારમી હાર બાદ હવે પાર્ટીના ફાડિયા થઈ ગયા છે અને અસલ ટીએમસી મમતા બેનર્જીના હાથમાંથી સરી પડવાના સંકેત છે. બંગાળ બાદ હવે મહારાષ્ટ્રમાં ઉથલપાથલના એંધાણ છે. ઓપરેશન ટાઈગર ખુબ ચર્ચામાં છે. શું સાંસદો ઉદ્ધવ ઠાકરેનો સાથ છોડશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/maharashtra-politics-big-update-operation-tiger-political-crisis-uddhav-thackeray-ubt-news-481652 ",
+    "time": "2026-06-16T08:58:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફૂટબોલ વર્લ્ડ કપમાં ભારત ક્યારે જોવા મળશે, 1950માં કેમ અધૂરી રહી ગઈ હતી કહાની?",
+    "desc": "હાલ ફૂટબોલ વર્લ્ડ કપ ચાલી રહ્યો છે અને ભારત ભલે ફૂટબોલ વર્લ્ડ કપમાં સામેલ નથી પરંતુ દર્શકોની જરાય કમી નથી. ભારતમાં ફૂટબોલના પણ પુષ્કળ ચાહકો છે જ મેસી, નેમાર, રોનાલ્ડ માટે ચીસો પાડતા જોવા મળે છે. ત્યારે એ પ્રશ્ન અવશ્ય થાય કે ક્રિકેટમાં એકહથ્થું શાસન કરનારું ભારત ફૂટબોલમાં કેમ ખોવાઈ ગયું છે? 130 કરોડથી વધુ વસ્તી ધરાવતો દેશ કેમ ફૂટબોલના મેદાનમાં ગૂમ છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/when-will-india-be-seen-playing-in-the-football-world-cup-what-is-the-story-of-1950-481632 ",
+    "time": "2026-06-16T08:25:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bigg Boss 20 નું શૂટિંગ સપ્ટેમ્બરથી થશે શરુ, સલમાન ખાનના રિયાલિટી શોમાં આવનાર સ્પર્ધકોમાં સેંટી શર્માનું નામ ટોપ પર",
+    "desc": "લોકપ્રિય ટીવી રિયાલિટી શો બિગ બોસની 20 મી સીઝનની તૈયારીઓ જોરશોરથી થઈ રહી છે. બિગ બોસનું શૂટિંગ સપ્ટેમ્બર મહિનાથી શરુ થઈ શકે છે અને અત્યારે બિગ બોસ 20 ના સ્પર્ધકોના નામની ચર્ચાઓ થઈ રહી છે. જેમાં રેપર સેન્ટી શર્માનું નામ ટોપ પર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bigg-boss-20-update-rapper-santy-sharma-may-join-bigg-boss-20-as-contestant-481650 ",
+    "time": "2026-06-16T08:00:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારે તેજી બાદ આજે સોનાના ભાવ ઘટી ગયા, ચાંદી પણ 4000 રૂપિયા સસ્તી, જાણો આજનો લેટેસ્ટ રેટ",
+    "desc": "જ્યારે પણ વૈશ્વિક અનિશ્ચિતતાઓ હોય, ભારે ઉથલપાથલનો માહોલ જોવા મળતો હોય ત્યારે કિમતી ધાતુઓ સોનું અને ચાંદી ઉછાળા મારતા હોય છે. પરંતુ આ વખતે મિડલ ઈસ્ટ સંકટમાં સોનું અને ચાંદી ભારે ઉતાર ચડાવમાં જોવા મળ્યા છે. કાલે ખુબ તેજી બાદ આજે સોનાના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-fell-today-silver-also-became-cheaper-by-rs-4000-check-ibja-mcx-rates-aaj-no-sona-no-bhav-481649 ",
+    "time": "2026-06-16T07:52:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સૂર્યવંશીના &amp;#039;કાંડ&amp;#039; વચ્ચે BCCIની મોટી જાહેરાત, 23 વર્ષીય ખેલાડીને મોકલ્યો શ્રીલંકા, જાણો શું છે કારણ",
+    "desc": "ભારત A અને શ્રીલંકા A વચ્ચેની ત્રિકોણીય શ્રેણીની મેચ ચર્ચાનો વિષય બની ગઈ છે. વૈભવ સૂર્યવંશી અને શ્રીલંકાના ખેલાડીઓ વચ્ચે ઝઘડો થયો. બધાની નજર હવે BCCI પર છે કે શું વૈભવ સામે કોઈ કાર્યવાહી કરવામાં આવશે. આ બધા વચ્ચે BCCIએ એક મોટી જાહેરાત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-big-announcement-after-vaibhav-controversy-ashoka-sharma-replace-yudhvir-singh-481646 ",
+    "time": "2026-06-16T07:13:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફૂટબોલ વર્લ્ડ કપમાં મહામુકાબલો : એમબાપ્પે, એર્લિંગ હાલેન્ડ અને લિયોનેલ મેસ્સી મેદાનમાં ઉતરશે",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026માં ફેન્સ જેની આતુરતાથી રાહ જોઈ રહ્યા હતા એ દિવસ આવી ગયો છે. રોમાંચક શરૂઆત પછી ચાહકો લિયોનેલ મેસ્સીની એક ઝલક જોવા માટે ઉત્સુક હતા અને આખરે તે ક્ષણ આવી ગઈ છે, જ્યારે તે રમતો જોવા મળશે. આ લેખમાં આજે રાત્રે યોજાનારી બધી મેચોનું સંપૂર્ણ શેડ્યૂલ જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-17-june-schedule-lionel-messi-in-action-481643 ",
+    "time": "2026-06-16T06:46:23.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Jio, Airtel કે Vi? કોની પાસે છે સૌથી સસ્તો 5G પ્લાન, તો જાણી લો સૌથી સસ્તા પ્લાનની વિગતો ફટાફટ",
+    "desc": "Jio, Airtel અને Vi માં સૌથી સસ્તો 5G પ્લાન કોણ આપે છે? જો તમે ઓછા બજેટમાં ઝડપી 5G ઇન્ટરનેટ ઇચ્છો છો, તો આ સરખામણી તમારા માટે ખૂબ જ કામની છે. જાણો કઈ કંપનીનો પ્લાન સૌથી કિફાયતી છે, શેમાં મળે છે અનલિમિટેડ 5G ડેટા અને કોણ આપી રહ્યું છે સૌથી વધુ ફાયદા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tech-news-of-jio-airtel-or-vi-who-has-the-cheapest-5g-plan-youll-be-surprised-to-find-out-481640 ",
+    "time": "2026-06-16T06:22:11.000Z"
+  },
+  {
     "cat": "World",
     "title": "શું ઈરાન પરમાણુ હથિયાર રાખી શકશે, અમેરિકા આપશે તેને 300 મિલિયન ડોલર? શાંતિ સમજૂતિ પર સવાલ ઉઠ્યા",
     "desc": "એકબાજુ જ્યાં અમેરિકા અને ઈરાન વચ્ચે શાંતિ સમજૂતિ થઈ ગઈ હોવાના સમાચાર છે ત્યાં હવે આ પીસ ડીલ પર સવાલ પણ ઉઠી રહ્યા છે. શું અમેરિકા ઈરાનને મોટું ફંડ આપશે? ઈરાન પરમાણુ હથિયારો રાખી શકશે કે નહીં? જાણો શું કહ્યું અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે?",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-us-peace-deal-update-questions-raised-on-the-deal-what-did-donald-trump-say-481630 ",
-    "time": "2026-06-16T03:41:02.000Z"
+    "time": "2026-06-16T05:58:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "8 એન્જિનનો પાવર, 950 કરોડની કિંમત! અમેરિકાનું શક્તિશાળી B-52 બોમ્બર વિમાન ક્રેશ, 8ના મોત",
+    "desc": "ઈરાન સાથે ઐતિહાસિક શાંતિ સમજૂતિ પર ડિજિટલ હસ્તાક્ષર થયા બાદ તરત અમેરિકાને એક ખરાબ સમાચાર મળ્યા છે. અમેરિકાની વાયુસેનાની કરોડ ગણાતું અને લગભગ 950 કરોડ રૂપિયાની ભારે ભરખમ કિમતવાળું B-52 સ્ટ્રેટોફોર્ટ્રેસ રણનીતિક બોમ્બર વિમાન ક્રેશ થઈ ગયું જેમાં 8 લોકોના જીવ ગયા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/what-are-the-specialities-of-us-air-force-b-52-stratofortress-bomber-got-crashed-481634 ",
+    "time": "2026-06-16T05:07:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -207,15 +306,6 @@ const newsData_gu = [
     "time": "2026-06-14T13:27:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપમાં પણ પાકિસ્તાન સાથે હાથ નહીં મિલાવે ભારત ? કેપ્ટન હરમનપ્રીત કૌરનો ચોંકાવનારો જવાબ",
-    "desc": "T20 વર્લ્ડ કપ 2026 ગ્રુપ Aમાં ભારત અને પાકિસ્તાન વચ્ચે આજે સાંજે 7:00 વાગ્યે બર્મિંગહામના એજબેસ્ટન મેદાન પર મેચ રમાશે. ત્યારે આ મેચમાં ભારત પાકિસ્તાન સાથે હાથ મિલાવશે કે નહીં, આ સવાલનો કેપ્ટન હરમનપ્રીત કૌરે શાનદાર જવાબ આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/womens-t20-world-cup-2026-will-india-no-handshake-with-pakistan-481491 ",
-    "time": "2026-06-14T11:32:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સાચો મિત્ર અને સાચો ઉદ્યોગપતિ: જ્યારે આનંદ મહિન્દ્રાએ ઈલોન મસ્કને પડતીના દિવસોમાં સંભાળ્યા, જાણો",
     "desc": "આનંદ મહિન્દ્રાએ 2018ના એ સમયને યાદ કર્યો જ્યારે એલન મસ્ક અને તેમની કંપની, ટેસ્લા, ભારે દબાણ હેઠળ હતા. તે સમયે, ટેસ્લા ઉત્પાદન પડકારોનો સામનો કરી રહી હતી, અને ઘણા ટીકાકારો કંપનીના ભવિષ્ય પર પ્રશ્ન ઉઠાવી રહ્યા હતા.",
@@ -225,15 +315,6 @@ const newsData_gu = [
     "time": "2026-06-14T11:32:30.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "રન આઉટ થયા પર રોહિત શર્માએ શુભમન ગિલને શું કહ્યું? ભારતીય કેપ્ટને કર્યો ખુલાસો",
-    "desc": "ધર્મશાળા વનડેમાં રોહિત શર્મા કમનસીબે અફઘાનિસ્તાન સામે રન આઉટ થયો હતો. તે સારા રન બનાવી રહ્યો હતો, પરંતુ રન આઉટથી આખી રમત બગડી ગઈ. મેચ પછી ભારતીય કેપ્ટન શુભમન ગિલે રોહિતના રન આઉટ અંગે સ્પષ્ટતા કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/what-did-rohit-sharma-say-to-shubman-gill-after-he-was-run-out-indian-captain-reveals-481480 ",
-    "time": "2026-06-14T10:01:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "OTT પર આવી નવી હોરર ફિલ્મ, નબળા મનના લોકોએ આ ફિલ્મ ન જોવી, ડરામણી બાળકી મગજમાં ઘર કરી જશે",
     "desc": "હોરર ફિલ્મોના જોવાના શોખીનો માટે ઓટીટી પર સૌથી ડરામણી ફિલ્મ રિલીઝ થઈ ચુકી છે. આ ફિલ્મના દરેક સીનમાં તમારા ધબકારા વધી જશે. આ ફિલ્મ જોયા પછી શક્ય છે કે એક રાત તમે શાંતિથી ઊંઘી પણ ન શકો. એટલે આ ફિલ્મ પોતાના રિસ્ક પર જોવી.",
@@ -241,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/new-horror-movie-in-hindi-on-ott-lee-cronin-s-the-mummy-movie-on-ott-prime-video-481479 ",
     "time": "2026-06-14T10:00:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ફુટબોલ World Cup નો તે &amp;#039;ખૂની ગોલ&amp;#039;... એક ભૂલની સજા &amp;#039;મોત&amp;#039;, આ કહાની તમારૂ દિલ તોડી દેશે",
-    "desc": "દુનિયાભરમાં ફુટબોલ વિશ્વકપની ચર્ચા થઈ રહી છે. આ વખતે ફુટબોલના મહાકુંભમાં 48 ટીમો મેદાનમાં ઉતરી છે. આ વિશ્વકપનો ઈતિહાસ શાનદાર અને રોમાંચક રહ્યો છે. તેમાં કેટલાક કાળા અધ્યાય પણ જોડાયેલા છે. આજે અમે તમને ફુટબોલ વર્લ્ડ કપની એક ખતરનાક કહાની વિશે જણાવીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/the-murderous-own-goal-when-a-world-cup-error-cost-andres-escobar-his-life-481471 ",
-    "time": "2026-06-14T07:45:25.000Z"
   },
   {
     "cat": "Business",
@@ -277,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sushant-singh-rajput-death-anniversary-what-happen-on-14-june-sushant-singh-rajput-death-case-mystery-481445 ",
     "time": "2026-06-14T05:14:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ગોવા કરતાં નાનો દેશ અને માત્ર 1.55 લાખની વસ્તી, આજે પહેલીવાર ફૂટબોલ મહાકુંભમાં મચાવશે ધમાલ!",
-    "desc": "FIFA World Cup 2026 માં આજે કુરાકાઓ નામનો એક નાનો દેશ પ્રથમવાર દુનિયાની આ સૌથી મોટી ઈવેન્ટમાં રમશે. FIFA વિશ્વકપ 2026 માં આજે ચાર વખતની વર્લ્ડ ચેમ્પિયન જર્મનીનો મુકાબલો પ્રથમવાર વિશ્વકપમાં રમી રહેલી કુરાકાઓ ટીમ સાથે થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-2026-nation-smaller-than-goa-all-set-for-historic-world-cup-debut-today-481440 ",
-    "time": "2026-06-14T04:18:07.000Z"
   },
   {
     "cat": "Politics",
@@ -430,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/attacks-on-indian-ships-will-not-be-tolerated-trump-said-iran-is-carrying-out-drone-attacks-in-hormuz-481328 ",
     "time": "2026-06-12T14:52:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "48 કલાકમાં ₹10,000 ઉછળી ચાંદી! શું હવે સોનું અને ચાંદી બનાવશે નવો રેકોર્ડ ? એક્સપર્ટે ખરીદદારોને આપી આ સલાહ",
-    "desc": "ભારતમાં રોકાણકારોમાં સોના અને ચાંદીના ભાવ ફરી એકવાર ચર્ચાનો વિષય બન્યા છે. શુક્રવારે, મલ્ટી કોમોડિટી એક્સચેન્જ (MCX) પર સોના અને ચાંદીના ભાવમાં સતત બીજા દિવસે તીવ્ર વધારો જોવા મળ્યો. નોંધપાત્ર રીતે, ચાંદી માત્ર બે દિવસમાં પ્રતિ કિલોગ્રામ લગભગ 10,000 રૂપિયાનો વધારો થયો, જ્યારે સોનામાં પણ પ્રતિ 10 ગ્રામ આશરે 1,600 રૂપિયાનો વધારો થયો છે. આ વધારા પછી, રોકાણકારોના મનમાં સૌથી મોટો પ્રશ્ન એ છે કે શું સોના અને ચાંદીમાં વધુ મોટી તેજી આવવા જઈ રહી છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/silver-jumps-by-rs-10000-in-48-hours-will-gold-and-silver-now-set-a-new-record-expert-gives-this-advice-to-buyers-481298 ",
-    "time": "2026-06-12T12:43:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -595,39 +649,12 @@ const newsData_gu = [
   },
   {
     "cat": "Tech",
-    "title": "₹8 લાખની SUV એ રચ્યો ઈતિહાસ, બનાવી દીધો વેચાણનો નવો રેકોર્ડ, જાણો ફીચર્સ અને ખાસિયત",
-    "desc": "હ્યુન્ડાઈ વેન્યુએ વેચાણના મામલામાં ભારતમાં ઈતિહાસ રચી દીધો છે. વેન્યુએ દેશમાં 8 લાખના વેચાણનો આંકડો પાર કરી લીધો છે. 8 લાખ રૂપિયાથી શરૂ થનાર આ એસયુવીનો મુકાબલો મારૂતિ બ્રેઝા, ટાટા નેક્સોન અને કિઆ સોનેટ જેવી ગાડીઓ સાથે થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/hyundai-venue-creates-history-crosses-8-lakh-unit-sales-mark-480959 ",
-    "time": "2026-06-09T12:04:53.000Z"
-  },
-  {
-    "cat": "Tech",
     "title": "સપ્ટેમ્બરમાં લોન્ચ થશે 3 નવા iPhone, પણ લિસ્ટમાં નથી iPhone 18નું નામ!",
     "desc": "આ વર્ષે સપ્ટેમ્બર 2026માં યોજાનારી ઇવેન્ટમાં એપલ ત્રણ નવા આઇફોન મોડેલ લોન્ચ કરે તેવી અપેક્ષા છે, પરંતુ આઇફોન 18 આ યાદીમાં નથી. આ વર્ષે, કંપનીનું ધ્યાન પ્રો મોડેલ અને એપલના પહેલા ફોલ્ડેબલ આઇફોન પર રહેશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/3-new-iphones-to-be-launched-in-september-but-iphone-18-name-is-not-on-the-list-480962 ",
     "time": "2026-06-09T12:02:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ભારતમાં 1 જુલાઈથી મોંઘી થશે આ કંપનીની કાર, જાણો કિંમતમાં કેટલો થશે વધારો",
-    "desc": "જો તમે નવી કાર ખરીદવાનું વિચારી રહ્યા છો, તો વધુ કિંમત ચૂકવવા માટે તૈયાર રહો. છેલ્લા બેથી ત્રણ મહિનામાં ઘણી બ્રાન્ડ્સે તેમની કારના ભાવમાં વધારો કર્યો છે. આ વધારો રૂપિયામાં નબળાઈ અને વધતા લોજિસ્ટિક્સ ખર્ચને કારણે છે. હવે BMWએ તેની કારના ભાવમાં વધારો કરવાની જાહેરાત કરી છે. ત્યારે આ લેખમાં જાણીશું કે કંપનીની કાર કેટલી મોંઘી થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/bmw-cars-become-more-expensive-in-india-from-july-1-know-how-much-price-hike-480947 ",
-    "time": "2026-06-09T10:12:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હવે અમેરિકામાં સુરક્ષિત રહેશે હિંદુ મંદિરો સહિત ધાર્મિક સ્થળો, 100 ફૂટનો &amp;#039;બફર ઝોન&amp;#039; બનશે, ભક્તોને ડરાવવા ગુનો ગણાશે",
-    "desc": "અમેરિકામાં અત્યાર સુધી ઘણીવાર હિંદુ મંદિરો સહિત અન્ય ધાર્મિક સ્થળો પર હુમલાની ઘટના બની ચુકી છે. પરંતુ હવે આવા ગુનાઓને રોકવા માટે નવો કાયદો રજૂ કરાયો છે. આ કાયદાની મદદથી ધાર્મિક સ્થળોને વિશેષ સુરક્ષા મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/historic-sacred-act-introduced-in-america-to-protect-religious-places-and-devotees-480925 ",
-    "time": "2026-06-09T07:49:11.000Z"
   },
   {
     "cat": "Entertainment",
