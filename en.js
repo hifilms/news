@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'We boycotted Amitabh Bachchan for a month': Paparazzi recalls",
+    "desc": "Veteran celebrity photographer and paparazzo Ramakant Munde has recalled a little-known chapter from Bollywood's media history, revealing that photographers once boycotted megastar Amitabh Bachchan for nearly a month following a controversy during a family wedding. Sharing details of what upset photographers, Munde alleged that media personnel waiting outside were treated poorly during the event.",
+    "img": "https://static.toiimg.com/photo/msid-131781675,imgsize-44696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-boycotted-amitabh-bachchan-for-a-month-celebrity-photographer-ramakant-munde-recalls-the-controversy-that-upset-photographers/articleshow/131781674.cms",
+    "time": "2026-06-16T21:54:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kylian Mbappé becomes France’s all-time top scorer after Senegal 3-1 brace: 6 World Cup records he can still break",
+    "desc": "Kylian Mbappé’s 2026 World Cup campaign is already rewriting record books after his brace against Senegal in France’s Group I opener. At just 27, the France captain became his nation’s all-time leading scorer and moved past Just Fontaine as their top World Cup scorer. He now sits among the tournament’s greatest marksmen, closing in on Ronaldo and Miroslav Klose in the all-time list while chasing multiple historic milestones still within reach.",
+    "img": "https://static.toiimg.com/photo/msid-131781661,imgsize-183400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/kylian-mbapp-becomes-frances-all-time-top-scorer-after-senegal-3-1-brace-6-world-cup-records-he-can-still-break/articleshow/131781468.cms",
+    "time": "2026-06-16T21:54:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices fall below $80 per barrel, while U.S. stocks drift",
+    "desc": "With optimism continuing that a tentative U.S.-Iran deal on their war will reopen the Strait of Hormuz at the end of the week and get the global flow of oil going again, the price for a barrel of Brent crude fell 5.4% to $78.66.",
+    "img": "https://th-i.thgim.com/public/incoming/e5muo9/article71111063.ece/alternates/LANDSCAPE_1200/2026-06-16T180425Z_1054214361_RC2PULAMMW37_RTRMADP_3_IRAN-CRISIS-INVESTMENT-FUND.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/oil-prices-fall-below-80-per-barrel-while-us-stocks-drift/article71110825.ece",
+    "time": "2026-06-16T21:41:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HIV+ woman among 4 held in MP sex racket",
+    "desc": "A disturbing sex racket in Bhind, Madhya Pradesh, has taken a grim turn with police discovering one of the two arrested women has been HIV-positive for three years. The operation, which involved blackmail and false rape threats, saw four individuals apprehended.",
+    "img": "https://static.toiimg.com/photo/msid-131781659,imgsize-465640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hiv-woman-among-4-held-in-mp-sex-racket/articleshow/131781653.cms",
+    "time": "2026-06-16T21:38:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Woman can't seek maintenance hike after husband's death: High Court",
+    "desc": "The Bombay High Court ruled that a divorced wife cannot seek increased maintenance after her husband's death, but can still claim decreed amounts and arrears from his estate. The court clarified that the right to maintenance is personal and lasts a lifetime, but seeking enhancement requires both parties to be alive.",
+    "img": "https://static.toiimg.com/photo/msid-131781471,imgsize-891345.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/woman-cant-seek-maintenance-hike-after-husbands-death-high-court/articleshow/131781470.cms",
+    "time": "2026-06-16T21:30:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED raids 17 sites in 2 states in Yes Bank loan fraud case",
+    "desc": "The Enforcement Directorate (ED) has searched 17 locations linked to Suraksha Asset Reconstruction Company Ltd (SARCL) promoter Sudhir Valia and senior executives. The searches are part of a money laundering probe into alleged collusion between SARCL and Yes Bank's former co-promoter Rana Kapoor, involving circular transactions and undervaluation of assets.",
+    "img": "https://static.toiimg.com/photo/msid-131781458,imgsize-853704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-raids-17-sites-in-2-states-in-yes-bank-loan-fraud-case/articleshow/131781457.cms",
+    "time": "2026-06-16T21:17:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonu Nigam reveals he is battling painful health condition",
+    "desc": "Singer Sonu Nigam has shared a health update with fans, revealing that he has been battling a painful nerve-related condition and undergoing medical treatment over the past week. Despite the discomfort, the singer has decided to go ahead with his scheduled performance in Mumbai.",
+    "img": "https://static.toiimg.com/photo/msid-131781451,imgsize-65522.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-nigam-reveals-he-is-battling-painful-health-condition-and-undergoing-medical-treatment-ive-been-taking-mri-and-ct-scans-for-a-week/articleshow/131781439.cms",
+    "time": "2026-06-16T21:15:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No cough syrup sale sans prescription",
+    "desc": "Cough syrups will now require a doctor's prescription as the Centre has removed them from a decades-old exemption. This move, following concerns over contaminated syrups, brings all formulations under regular regulatory oversight. The change aims to enhance accountability and public health safety in the distribution of these commonly used medicines.",
+    "img": "https://static.toiimg.com/photo/msid-131781395,imgsize-832591.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-no-cough-syrup-sale-sans-prescription/articleshow/131781393.cms",
+    "time": "2026-06-16T20:40:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "No dip in grain output in last 2 deficit rain years",
     "desc": "El Niño poses a risk to India's farming this year, with a predicted 'below normal' monsoon and a 35% deficit already impacting sowing. However, the country has learned from past droughts, implementing measures like expanded irrigation and drought-resistant crops to mitigate the impact. Vulnerable states are preparing contingency plans.",
@@ -25,6 +97,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ignou-question-papers-leaked-on-messaging-app/articleshow/131781333.cms",
     "time": "2026-06-16T20:17:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu’s own-tax effort has ‘collapsed’, says White Paper",
+    "desc": "Giving an account of how T.N.’s own tax revenue fared vis-à-vis 3 ‘peer States’ in last 5 years, the report says the SOTR-to-GSDP ratio declined from 5.93% to 5.45%, the ‘lowest in the State’s history and the steepest decline’ among the benchmarked States",
+    "img": "https://th-i.thgim.com/public/incoming/9c8e3r/article71110837.ece/alternates/LANDSCAPE_1200/20260616350L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/public-finance-states-own-tax-revenue-public-debt-tamil-nadu-maharashtra-karnataka-gujarat-gst/article71110367.ece",
+    "time": "2026-06-16T20:10:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -70,15 +151,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/jco-3-soldiers-hurt-in-accidental-blast-along-loc-in-jammu-kashmirs-rajouri/articleshow/131780239.cms",
     "time": "2026-06-16T18:28:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu’s own-tax effort has ‘collapsed’, says White Paper",
-    "desc": "Giving an account of how T.N.’s own tax revenue fared vis-à-vis 3 ‘peer States’ in last 5 years, the report says the SOTR-to-GSDP ratio declined from 5.93% to 5.45%, the ‘lowest in the State’s history and the steepest decline’ among the benchmarked States",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/d0u1lp/article71110727.ece/alternates/LANDSCAPE_1200/IMG_PO01_Rupee_bag_coins_2_1_0UD925L4.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/public-finance-states-own-tax-revenue-public-debt-tamil-nadu-maharashtra-karnataka-gujarat-gst/article71110367.ece",
-    "time": "2026-06-16T18:28:16.000Z"
   },
   {
     "cat": "Sports",
@@ -151,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/nilakshika-silvas-unbeaten-fifty-guides-sri-lanka-to-famous-win-over-new-zealand/articleshow/131778984.cms",
     "time": "2026-06-16T17:41:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Shameless': AAP, Congress target PM Modi for meeting Trump at G7 Summit after US strikes killed 3 Indian sailors",
-    "desc": "In the wake of Prime Minister Modi's encounter with Donald Trump at the G7, opposition factions have come out strongly against him, highlighting the heartbreaking deaths of three Indians due to a US military strike. The Congress party circulated a video purportedly showing Trump dismissing Modi, and the AAP denounced the cordiality of their interaction as 'embarrassing.",
-    "img": "https://static.toiimg.com/photo/msid-131778866,imgsize-40762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shameless-aap-congress-target-pm-modi-for-meeting-trump-at-g7-summit-after-us-strikes-killed-3-indian-sailors/articleshow/131778414.cms",
-    "time": "2026-06-16T17:35:55.000Z"
   },
   {
     "cat": "Politics",
@@ -442,24 +505,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘Lagaan’ actor Paul Blackthorne recalls severe heat stroke on set",
-    "desc": "British actor Paul Blackthorne, who played Captain Russell in 'Lagaan', admits he knew little about cricket. He revealed clever editing and a patient crew helped him appear convincing. Blackthorne also recounted suffering heat stroke after falling asleep in an overheated costume area during the film's intense shoot, recalling the incident with humor.",
-    "img": "https://static.toiimg.com/photo/msid-131769711,imgsize-17616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lagaan-actor-paul-blackthorne-recalls-suffering-heat-stroke-on-set-as-film-clocks-25-years-andrew-russell-deserved-to-be-cooked/articleshow/131769711.cms",
-    "time": "2026-06-16T11:20:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikram Bhatt reveals why 'Haunted 3D' almost never reached theatres",
-    "desc": "Echoes of the past' has defied expectations, becoming a surprise box office success despite a tumultuous journey. Battling financial woes, legal battles including Bhatt's own imprisonment, and post-production nightmares, the film's release was nearly derailed. Audiences have embraced the supernatural thriller, proving resilience triumphs over adversity.",
-    "img": "https://static.toiimg.com/photo/msid-131769639,imgsize-60480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-spent-75-days-in-prison-vikram-bhatt-reveals-why-haunted-3d-echoes-of-the-past-almost-never-reached-theatres/articleshow/131769596.cms",
-    "time": "2026-06-16T11:13:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Pakistani filmmaker showers praise on Imtiaz Ali's 'Main Vaapas Aunga'",
     "desc": "Imtiaz Ali's 'Main Vaapas Aaunga' resonates deeply by exploring Partition's emotional scars through a personal romance. Pakistani filmmaker Umar Nasir Ali praised the film, noting its themes of memory and belonging echo his own upcoming project. The story follows a Sikh family's migration and a young man's enduring love, culminating in a poignant return to ancestral lands decades later.",
     "img": "https://static.toiimg.com/photo/msid-131768826,imgsize-91770.cms",
@@ -496,15 +541,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ian McKellen calls out Donald Trump",
-    "desc": "Doomsday', the legendary Ian McKellen had a chuckle about how he gets into Magneto's intense mood. He admitted he'd yell 'Mar-a-Lago!' to channel the character's rage, a cheeky jab at Donald Trump's former resort and his own political views. It was a fun, unexpected way to connect with the villain's power.",
-    "img": "https://static.toiimg.com/photo/msid-131768311,imgsize-99428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ian-mckellen-takes-hilarious-jab-against-us-president-donald-trump-screamed-mar-a-lago-on-avengers-doomsday-set/articleshow/131768246.cms",
-    "time": "2026-06-16T10:29:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Arbaaz Khan stunned as unidentified man breaches security, enters his car",
     "desc": "Actor Arbaaz Khan faced a security scare in Kolkata when an unknown man allegedly entered his car after an event. Security personnel quickly intervened, removing the individual. This incident contrasts with recent positive headlines, including his wife Sshura Khan's witty response to a troll about their age difference, showcasing their strong bond.",
     "img": "https://static.toiimg.com/photo/msid-131768268,imgsize-51810.cms",
@@ -529,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/who-is-sarpreet-singh-first-indian-origin-player-to-start-a-fifa-world-cup-2026-match/articleshow/131766794.cms",
     "time": "2026-06-16T10:21:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Australian Crawl to reunite after 40 years apart",
-    "desc": "Attention all nostalgia lovers! Australian Crawl, the iconic band from the 80s, is making a triumphant comeback for the highly anticipated Red Hot Summer Tour. This marks their first reunion in four decades, featuring original rockers James Reyne, Simon Binks, David Reyne, and drummer John Watson. The tour kicks off on October 17th, with tickets going on sale shortly.",
-    "img": "https://static.toiimg.com/photo/msid-131768102,imgsize-350172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/australian-crawl-to-reunite-after-40-years-for-red-hot-summer-tour-alongside-men-at-work-lineup-dates-and-ticket-info-revealed/articleshow/131768047.cms",
-    "time": "2026-06-16T10:19:10.000Z"
   },
   {
     "cat": "World",
@@ -765,15 +792,6 @@ const newsData_en = [
     "time": "2026-06-16T00:10:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How the US-Iran war changed India’s trade map",
-    "desc": "India’s hunt for LPG or cooking gas is behind US moving up, while energy also helped imports from Brazil shoot up 2.8 times to $2.7 billion during this period. Shipments from Peru too were 3.7 times higher at over $2 billion, latest numbers from the commerce department showed. The South American nation is now the 20th biggest import source, compared to 35th in April-May 2025.",
-    "img": "https://static.toiimg.com/photo/msid-131754624,imgsize-108324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/how-the-us-iran-war-changed-indias-trade-map/articleshow/131754618.cms",
-    "time": "2026-06-15T21:35:24.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "UK proposes social media ban for children under 16",
     "desc": "The UK government is considering a major move to ban social media access for children under 16. The proposal comes amid growing concerns over cyberbullying, harmful content, and the impact of social media on young people’s mental health. Here’s what the plan involves and why it’s sparking debate.",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
     "time": "2026-06-14T03:49:09.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic cuts access to AI models over U.S. ‘national security’ order",
-    "desc": "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
-    "img": "https://th-i.thgim.com/public/incoming/plhoz2/article71096492.ece/alternates/LANDSCAPE_1200/2026-06-09T011546Z_1385071968_RC2UNLAJ8JMH_RTRMADP_3_USA-TRUMP-ANTHROPIC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-cuts-access-to-ai-models-over-us-national-security-order/article71096476.ece",
-    "time": "2026-06-13T07:07:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "75th anniversary of the UNIVAC I",
-    "desc": "Seventy five years ago – on June 14, 1951 – the UNIVAC I was officially put into service by the U.S. Census Bureau. The UNIVAC I, which the bureau calls the first successful civilian computer, heralded a new age in the tech industry by demonstrating the potential for computers in various applications. A.S.Ganesh takes you back to a time when these devices were far from being hand-held…",
-    "img": "https://th-i.thgim.com/public/incoming/1b1ij7/article71064337.ece/alternates/LANDSCAPE_1200/14istb%20Univac_I_Census_dedication.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/75th-anniversary-of-the-univac-i/article71064362.ece",
-    "time": "2026-06-13T06:41:23.000Z"
   }
 ];

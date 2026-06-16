@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Kylian Mbappe scores, France take lead in second half",
+    "title": "England batter ruled out of second Test vs NZ, ECB announce replacement as three debutants to feature",
+    "desc": "England have been forced into a late reshuffle ahead of the second Test against New Zealand at The Oval, with keeper-batter James Rew drafted into the starting XI after Jamie Smith withdrew following the birth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-batter-ruled-out-of-second-test-vs-nz-ecb-announce-replacement-as-three-debutants-to-feature-2026-06-17-1045105",
+    "time": "2026-06-16T21:26:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kylian Mbappe breaks multiple legendary records as France beat Senegal 3-1 in FIFA World Cup 2026",
+    "desc": "Kylian Mbappe delivered another defining World Cup night, scoring twice against Senegal as France sealed a 3-1 victory in New Jersey. With the goals, the French captain rewrote the record books in the process. Notably, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-breaks-multiple-legendary-records-as-france-beat-senegal-3-1-in-fifa-world-cup-2026-2026-06-17-1045104",
+    "time": "2026-06-16T21:17:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France beat Senegal 3-1 as Kylian Mbappe breaks multiple records",
     "desc": "France open their 2026 FIFA World Cup campaign against Senegal in a Group I clash that revives memories of the famous 2002 upset, when the African side shocked the then-defending champions. The match, staged at...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-punishes-pakistan-after-loss-to-india-at-womens-t20-world-cup-2026-2026-06-16-1045061",
     "time": "2026-06-16T12:11:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wimbledon 2026 wild cards revealed as Serena Williams learns fate for Grand Slam comeback",
-    "desc": "Serena Williams is set to make her Grand Slam comeback after almost four years, as she has been named among the wild cards for the upcoming Wimbledon 2026. The 44-year-old will be partnering with her...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/wimbledon-2026-wild-cards-revealed-as-serena-williams-learns-fate-for-grand-slam-comeback-2026-06-16-1045056",
-    "time": "2026-06-16T11:43:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Did Mexico legend Guillermo Ochoa confirm his professional retirement? Latest interview gives major hint",
-    "desc": "Mexican icon Guillermo Ochoa seemingly confirmed that the ongoing FIFA World Cup 2026 will be his final professional tournament as he can't see his career beyond the national team. Ochoa had earlier suggested that he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/did-mexico-legend-guillermo-ochoa-confirm-his-professional-retirement-latest-interview-gives-major-hint-2026-06-16-1045043",
-    "time": "2026-06-16T10:49:34.000Z"
   }
 ];
