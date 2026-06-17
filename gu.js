@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "મહારાષ્ટ્રમાં થઈ રહ્યો છે મોટો &amp;#039;ખેલા&amp;#039;! સંજય રાઉતનો દાવો- &amp;#039;પાર્ટી બદલવા માટે સાંસદોને 15-15 કરોડ...&amp;#039;",
+    "desc": "મહારાષ્ટ્રના રાજકારણમાં ભારે ગરમાવો જોવા મળી રહ્યો છે. અનેક સાંસદો શિવસેના યુબીટીનો સાથ છોડે તેવા સમાચાર સામે આવ્યા છે ત્યારે એવામાં પાર્ટીના દિગ્ગજ નેતા સંજય રાઉતે એક ચોંકાવનારો દાવો કર્યો છે કે તેમના સાંસદોને પક્ષપલટો કરવા માટે કરોડો રૂપિયા ઓફર થઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/shivsena-ubt-leader-sanjay-raut-big-claim-mps-are-reportedly-being-offered-15-crore-481739 ",
+    "time": "2026-06-17T03:19:16.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "શું ભવિષ્યમાં AIનો &amp;#039;ગુલામ&amp;#039; બનશે માણસ? AI બનાવનારા પોતે જ ડર્યા; ટેક દિગ્ગજો આપી રહ્યા છે ગંભીર ચેતવણી",
     "desc": "AIના સૌથી મોટા નિષ્ણાતો અને કંપનીઓના CEO હવે તેના સંભવિત જોખમો વિશે ખુલ્લીને ચેતવણી આપી રહ્યા છે. પ્રશ્ન એ નથી કે, AI કેટલું શક્તિશાળી બનશે, પરંતુ પ્રશ્ન એ પણ છે કે માણસો તેનો ઉપયોગ કેટલી જવાબદારીથી કરશે.",
@@ -511,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/lock-upp-season-2-promo-riteish-deshmukh-farah-khan-show-on-netflix-481282 ",
     "time": "2026-06-12T11:09:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગુજરાત પર તોળાઈ રહ્યું છે દુષ્કાળનું મોટું સંકટ! ક્યાંક ભારે ન પડે આ &amp;#039;ગોડઝિલા&amp;#039;, જાણો શું છે ચિંતાજનક?",
-    "desc": "ગુજરાત સહિત કેટલાક રાજ્યો આ વખતે દુષ્કાળમાં સપડાય તેવા સંકેત મળી રહ્યા છે. વૈશ્વિક પૂર્વાનુમાન એવું ડરામણું છે કે જો સાચું પડે તો દેશના કરોડો ખેડૂતો અને અર્થવ્યવસ્થા તથા જળ વ્યવસ્થા પર ગંભીર અસર પડી શકે છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/due-to-el-nino-a-major-drought-crisis-is-looming-over-gujarat-maharashtra-andhra-goa-481260 ",
-    "time": "2026-06-12T10:02:58.000Z"
   },
   {
     "cat": "Politics",

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lionel Messi rewrites history books with hat-trick, Argentina thrash Algeria in FIFA World Cup opener",
+    "desc": "Lionel Messi showed why he is the best in the world as he scored his first-ever hat-trick in a FIFA World Cup during Argentina's tournament opener against Algeria on Wednesday, June 17 (as per IST)....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-rewrites-history-books-with-hat-trick-argentina-thrash-algeria-in-fifa-world-cup-opener-2026-06-17-1045123",
+    "time": "2026-06-17T03:08:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi breaks Pelé's legendary record, achieves FIFA World Cup immortality with fierce Algeria strike",
+    "desc": "Lionel Messi achieved several records on Argentina's FIFA World Cup 2026 opener against Algeria at the Kantas City Stadium on Wednesday, June 17 (as per IST). The Argentine legend shattered a massive record set by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-breaks-peles-legendary-record-achieves-fifa-world-cup-immortality-with-fierce-algeria-strike-2026-06-17-1045119",
+    "time": "2026-06-17T02:38:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi creates world record as Argentina kick off FIFA World Cup 2026 campaign",
+    "desc": "Lionel Messi has added another historic feather to his cap as the Argentina legend became the first-ever player to take the field in a sixth FIFA World Cup on Wednesday, June 17 (as per IST)....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-creates-world-record-as-argentina-kick-off-fifa-world-cup-2026-campaign-2026-06-17-1045111",
+    "time": "2026-06-17T01:10:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Messi's hat-trick leads defending champs to 3-0 rout of Algeria",
+    "desc": "Defending champions Argentina kick their campaign off in the FIFA World Cup 2026 as they lock horns against Algeria in their Group J opener at the Kansas City Stadium. Eyes are on Lionel Messi, who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/argentina-vs-algeria-fifa-world-cup-2026-live-arg-vs-alg-latest-match-updates-lionel-messi-starting-xi-kanstas-city-stadium-2026-06-17-1045109",
+    "time": "2026-06-17T00:52:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England batter ruled out of second Test vs NZ, ECB announce replacement as three debutants to feature",
     "desc": "England have been forced into a late reshuffle ahead of the second Test against New Zealand at The Oval, with keeper-batter James Rew drafted into the starting XI after Jamie Smith withdrew following the birth...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-cricket-team-have-drinking-problem-joe-root-answers-ahead-of-second-test-vs-new-zealand-2026-06-16-1045083",
     "time": "2026-06-16T15:10:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England defender ruled out of FIFA World Cup 2026, Thomas Tuchel calls Chelsea star as replacement",
-    "desc": "England have been forced into a late defensive change ahead of their opening World Cup fixture after Tino Livramento was withdrawn from the squad because of a calf injury sustained in training. The setback occurred...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/england-defender-ruled-out-of-fifa-world-cup-2026-thomas-tuchel-calls-chelsea-star-as-replacement-2026-06-16-1045080",
-    "time": "2026-06-16T14:04:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gurnoor Brar credits Ashish Nehra, Shubman Gill after India debut, reveals ambition to play Test cricket",
-    "desc": "Gurnoor Brar earned his first India call-up after a series of consistent performances in domestic cricket for Punjab. He made his debut in the first ODI vs Afghanistan in Dharamsala and immediately impressed, claiming three...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-credits-ashish-nehra-shubman-gill-after-india-debut-reveals-ambition-to-play-test-cricket-2026-06-16-1045077",
-    "time": "2026-06-16T13:41:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Go home, this is not IPL'",
-    "desc": "India youngster Vaibhav Sooryavanshi was involved in a verbal altercation with Sri Lanka A cricketers during their tri-nation clash in Dambulla. The confrontation went viral on social media as both Sooryavanshi and Sri Lanka cricketers...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/go-home-this-is-not-ipl-sri-lanka-a-players-apologised-to-vaibhav-sooryavanshi-after-verbal-altercation-2026-06-16-1045072",
-    "time": "2026-06-16T13:19:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC punishes Pakistan after loss to India at Women's T20 World Cup 2026",
-    "desc": "The International Cricket Council (ICC) has fined Pakistan with five per cent of their match fees for a slow-over rate during their Women's T20 World Cup 2026 contest against India on Sunday, June 14. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-punishes-pakistan-after-loss-to-india-at-womens-t20-world-cup-2026-2026-06-16-1045061",
-    "time": "2026-06-16T12:11:53.000Z"
   }
 ];
