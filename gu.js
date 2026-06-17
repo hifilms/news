@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સોના અને ચાંદીના ભાવમાં ભૂકંપ! આજના સોના-ચાંદીના ભાવ, જાણો કેમ આવ્યો ઘટાડો",
+    "desc": "ઓલ ઈન્ડિયા સરાફા એસોસિએશનના જણાવ્યા અનુસાર, દિલ્હી બુલિયન માર્કેટમાં 99.9% શુદ્ધતા ધરાવતું સોનું ઘટીને 1,54,400 રૂપિયા પ્રતિ 10 ગ્રામ થયું છે, જે એક દિવસ પહેલા 1,59,200 રૂપિયા હતું. ચાંદીમાં પણ નોંધપાત્ર ઘટાડો જોવા મળ્યો હતો, જેના કારણે તેનો ભાવ 2,55,400 રૂપિયા પ્રતિ કિલોગ્રામ થયો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/massive-upheaval-in-gold-and-silver-gold-prices-dropped-by-rs-4800-while-silver-plunged-by-rs-5300-481825 ",
+    "time": "2026-06-17T16:51:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;ભારત પર હુમલો થશે તો અમે સાથે ઊભા રહીશું&amp;#039;... ડોનાલ્ડ ટ્રમ્પે ભારત અને મોદીને લઈને કહી 5 મોટી વાતો",
+    "desc": "G7 બેઠક 2026માં PM નરેન્દ્ર મોદી અને અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પની મુલાકાતે દુનિયાનું ધ્યાન ખેંચ્યું છે. ટ્રમ્પે મોદીના જોરદાર વખાણ કર્યા, ટ્રેડ ડીલ પર મોટો સંકેત આપ્યો અને ભારત-અમેરિકા સંબંધોને લઈને ઘણી મહત્વની વાતો કહી. ચાલો જાણીએ આ મુલાકાતની 5 મોટી વાતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/if-india-is-attacked-we-will-stand-together-donald-trump-said-5-big-things-about-india-and-modi-481824 ",
+    "time": "2026-06-17T16:49:08.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "વિશ્વાસ નહીં થાય! 25 વર્ષના ભારતીય છોકરાએ AIમાં એવું તે શું કર્યું કે એલન મસ્કે 60 અબજ ડોલરની આપી દીધી ઓફર ?",
     "desc": "એલોન મસ્કના સ્પેસએક્સે 60 બિલિયન ડોલરના સોદામાં AI કોડિંગ પ્લેટફોર્મ કર્સર ખરીદવાની જાહેરાત કરી છે. ભારતીય મૂળના અમન સંગર દ્વારા સહ-સ્થાપિત, આ કંપની વિશ્વના સૌથી ઝડપથી વિકસતા AI સ્ટાર્ટઅપ્સમાંની એક છે. આ સોદાને એલોન મસ્કની AI વ્યૂહરચના માટે એક મોટું પગલું માનવામાં આવી રહ્યું છે.",
@@ -432,15 +450,6 @@ const newsData_gu = [
     "time": "2026-06-14T13:27:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સાચો મિત્ર અને સાચો ઉદ્યોગપતિ: જ્યારે આનંદ મહિન્દ્રાએ ઈલોન મસ્કને પડતીના દિવસોમાં સંભાળ્યા, જાણો",
-    "desc": "આનંદ મહિન્દ્રાએ 2018ના એ સમયને યાદ કર્યો જ્યારે એલન મસ્ક અને તેમની કંપની, ટેસ્લા, ભારે દબાણ હેઠળ હતા. તે સમયે, ટેસ્લા ઉત્પાદન પડકારોનો સામનો કરી રહી હતી, અને ઘણા ટીકાકારો કંપનીના ભવિષ્ય પર પ્રશ્ન ઉઠાવી રહ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/when-anand-mahindra-took-care-of-elon-musk-in-his-declining-days-481490 ",
-    "time": "2026-06-14T11:32:30.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "OTT પર આવી નવી હોરર ફિલ્મ, નબળા મનના લોકોએ આ ફિલ્મ ન જોવી, ડરામણી બાળકી મગજમાં ઘર કરી જશે",
     "desc": "હોરર ફિલ્મોના જોવાના શોખીનો માટે ઓટીટી પર સૌથી ડરામણી ફિલ્મ રિલીઝ થઈ ચુકી છે. આ ફિલ્મના દરેક સીનમાં તમારા ધબકારા વધી જશે. આ ફિલ્મ જોયા પછી શક્ય છે કે એક રાત તમે શાંતિથી ઊંઘી પણ ન શકો. એટલે આ ફિલ્મ પોતાના રિસ્ક પર જોવી.",
@@ -448,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/new-horror-movie-in-hindi-on-ott-lee-cronin-s-the-mummy-movie-on-ott-prime-video-481479 ",
     "time": "2026-06-14T10:00:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મુસાફરો માટે રેલવેની મોટી રાહત: ટ્રેનમાં રિઝર્વેશન મળ્યું નહીં હોય તો પણ હવે મળી શકે છે કન્ફર્મ ટિકિટ!",
-    "desc": "વેઈટિંગમાં અટવાયેલા મુસાફરો માટે આંશિક રાહત આપવામાં આવી છે. કન્ફર્મ ટિકિટ ન મળી હોય તો પણ ટ્રેનમાં સીટ મેળવવાનો સ્માર્ટ રસ્તો મળી ગયો છે. હવેથી ટ્રેનમાં રિઝર્વેશન મળ્યું નહીં હોય તો પણ કન્ફર્મ ટિકિટ મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/even-if-you-dont-have-a-reservation-for-the-train-you-can-now-get-a-confirmed-ticket-481470 ",
-    "time": "2026-06-14T07:33:23.000Z"
   },
   {
     "cat": "Tech",
@@ -511,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/spacex-ipo-changed-fortunes-of-lot-of-people-overnight-made-new-millionaires-in-a-day-481383 ",
     "time": "2026-06-13T10:21:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અસમના જોરહાટ એરબેસ પર IAFનું વિમાન ક્રેશ, 5 જવાન શહીદ, લેન્ડિંગ બાદ બે ટુકડાંમાં ફેરવાઈ ગયું",
-    "desc": "પૂર્વોત્તર રાજ્ય અસમના જોરહાટમાં આજે એરબેસની અંદર જ ભારતીય વાયુસેનાનું એક AN 32 વિમાન દુર્ઘટનાગ્રસ્ત થયું હોવાના સમાચાર છે. આ વિમાન લેન્ડિંગ સમયે દુર્ઘટનાનો ભોગ બન્યું. આ દુર્ઘટનામાં વાયુસેનાના 5 કર્મીઓના જીવ ગયા છે. કો પાયલોટ બચી ગયો છે અને તે હાલ સારવાર હેઠળ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-breaking-air-force-an-32-aircraft-met-with-an-accident-at-jorhat-air-force-station-in-assam-481360 ",
-    "time": "2026-06-13T09:45:56.000Z"
   },
   {
     "cat": "Entertainment",
