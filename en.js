@@ -1,6 +1,123 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "India FTA by year end, says European Commission president",
+    "desc": "Prime Minister Modi met with German Chancellor Friedrich Merz and EU leaders Ursula von der Leyen and Antonio Costa at the G7 summit. Discussions focused on the upcoming India-EU Free Trade Agreement, expected to be signed by year-end, and advancements in the India-Middle East-Europe Economic Corridor. Leaders also welcomed the understanding reached for peace in West Asia.",
+    "img": "https://static.toiimg.com/photo/msid-131814661,imgsize-999381.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-fta-by-year-end-says-european-commission-president/articleshow/131814653.cms",
+    "time": "2026-06-17T22:29:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘We’re the most famous couple on Insta,’ Meloni jokes with PM Modi at G7; ‘Melodi’ bonhomie takes India-Italy trade, def ties to new heights",
+    "desc": "A viral moment involving PM Modi and Italian PM Giorgia Meloni, sparked by 'Melody toffees' and a playful Instagram comment, has highlighted the growing bonhomie between the two leaders. This personal connection has translated into a 'Special Strategic Partnership', boosting bilateral trade and revitalizing defense ties with a focus on co-development and industrial collaboration.",
+    "img": "https://static.toiimg.com/photo/msid-131814643,imgsize-1124173.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/were-the-most-famous-couple-on-insta-meloni-jokes-with-pm-modi-at-g7-melodi-bonhomie-takes-india-italy-trade-def-ties-to-new-heights/articleshow/131814648.cms",
+    "time": "2026-06-17T22:27:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can't ask Global South to bear Iran war brunt alone: PM Modi at G7",
+    "desc": "Prime Minister Narendra Modi highlighted the ongoing impact of West Asian crises on the Global South, urging international solidarity. He proposed a global skills partnership and an International Mobilisation Partnership for Accelerating Connectivity and Trade (IMPACT) to foster shared growth and resilience.",
+    "img": "https://static.toiimg.com/photo/msid-131814393,imgsize-523028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cant-ask-global-south-to-bear-iran-war-brunt-alone-pm-modi-at-g7/articleshow/131814166.cms",
+    "time": "2026-06-17T22:18:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England beat Croatia 4-2 as Kane scores twice",
+    "desc": "Croatia made it ⁠2-2 in the fifth minute of time added on at the end of ‌the first half when Petar Musa was picked out by Ivan Perisic’s deft header and he blasted the ball past Pickford",
+    "img": "https://th-i.thgim.com/public/incoming/z73386/article71115542.ece/alternates/LANDSCAPE_1200/Croatia_England_WCup_Soccer_18377.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/england-beat-croatia-4-2-as-kane-scores-twice/article71115540.ece",
+    "time": "2026-06-17T22:18:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Father arrested for bid to kill girl over 'transgender traits'",
+    "desc": "A father in Auraiya has been arrested for allegedly attempting to murder his 14-year-old transgender daughter. He reportedly beat her with a stick and threw her into a canal, motivated by her gender identity. The girl survived due to shallow water and was rescued by locals. She is in critical condition.",
+    "img": "https://static.toiimg.com/photo/msid-131813563,imgsize-333188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/father-arrested-for-bid-to-kill-girl-over-transgender-traits/articleshow/131813343.cms",
+    "time": "2026-06-17T22:11:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Maanvi Gagroo recalls receiving ‘Rs 1L plus compromise’ texts",
+    "desc": "Maanvi Gagroo has opened up about some of the bizarre and uncomfortable experiences she faced as a newcomer in the entertainment industry. Recalling encounters that ranged from cryptic propositions to confusing casting terminology, the actress said navigating the industry as a non-industry outsider often came with a steep learning curve.",
+    "img": "https://static.toiimg.com/photo/msid-131812675,imgsize-39284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maanvi-gagroo-recalls-receiving-rs-1-lakh-plus-compromise-texts-this-is-what-happens-to-non-nepo-kids/articleshow/131812671.cms",
+    "time": "2026-06-17T21:55:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPM objects to Telangana CM renaming road after Trump",
+    "desc": "The Communist Party of India (Marxist) has strongly criticized Telangana Chief Minister Revanth Reddy's decision to rename a road near the US Consulate after President Donald Trump. CPM General Secretary MA Baby expressed concern that this move, occurring amidst US military actions, undermines India's sovereignty and anti-imperialist ideals. He urged the Congress high command to intervene and withdraw the decision.",
+    "img": "https://static.toiimg.com/photo/msid-131812674,imgsize-607257.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cpm-objects-to-telangana-cm-renaming-road-after-trump/articleshow/131812672.cms",
+    "time": "2026-06-17T21:51:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka to issue norms on handling cadavers",
+    "desc": "Karnataka government will soon issue guidelines for medical students on appropriate behavior and respect towards donated bodies for study. This follows viral clips of students disrespecting cadavers, sparking a debate on ethics. The ethics committee will meet to discuss reinforcing existing guidelines for handling donated bodies.",
+    "img": "https://static.toiimg.com/photo/msid-131812670,imgsize-694413.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/comedy-show-fallout-karnataka-to-issue-norms-on-handling-cadavers/articleshow/131812669.cms",
+    "time": "2026-06-17T21:45:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi makes INDIA bloc speech public, allies ask: 'Why not ours?'",
+    "desc": "Rahul Gandhi's public release of his INDIA bloc speech has irked allies, particularly Left parties, who emphasize mutual trust for effective resistance against the BJP. Concerns were raised about Gandhi's remarks on Pinarayi Vijayan and the unilateral release of internal discussions. DMK also reiterated its stance against Congress due to a state-level alliance issue.",
+    "img": "https://static.toiimg.com/photo/msid-131812667,imgsize-509375.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-makes-india-bloc-speech-public-allies-ask-why-not-ours/articleshow/131812666.cms",
+    "time": "2026-06-17T21:41:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "High Court seeks government's reply as Telegram challenges ban over NEET retest",
+    "desc": "The Delhi High Court has asked the Centre for its response on the ban imposed on Telegram, which is challenging the temporary restriction ahead of the NEET-UG retest. The government claims to have \"shocking material\" to share, citing ongoing issues with channels involved in examination-related activities resurfacing after being blocked.",
+    "img": "https://static.toiimg.com/photo/msid-131812469,imgsize-721058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/high-court-seeks-governments-reply-as-telegram-challenges-ban-over-neet-retest/articleshow/131812467.cms",
+    "time": "2026-06-17T21:16:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi seeks 'highest priority' for seafarers in W Asia peace deal in meeting with Trump; US president reiterates he ended 8 wars, mentions G2",
+    "desc": "PM Modi and President Trump discussed the safety of Indian seafarers amidst a US-Iran peace agreement. Trump acknowledged the risks of the profession while Modi emphasized the importance of maritime security, particularly in the Strait of Hormuz. The leaders also touched upon trade, defense, and geopolitical issues, with Trump expressing confidence in strong US-India ties.",
+    "img": "https://static.toiimg.com/photo/msid-131812435,imgsize-792498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-seeks-highest-priority-for-seafarers-in-w-asia-peace-deal-in-meeting-with-trump-us-president-reiterates-he-ended-8-wars-mentions-g2/articleshow/131812429.cms",
+    "time": "2026-06-17T20:51:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sanjay Raut showers cuss words like confetti",
+    "desc": "Sanjay Raut's use of expletives to describe defectors marks a new low in political discourse, despite his claims of loyalty. He alleged hefty sums and case settlements were offered to MPs to switch sides. Meanwhile, suspected rebels remained in Delhi, poised to seek recognition as a separate faction, while Sena (UBT) leaders met the Speaker to invoke anti-defection laws.",
+    "img": "https://static.toiimg.com/photo/msid-131812411,imgsize-680755.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sanjay-raut-showers-cuss-words-like-confetti/articleshow/131812406.cms",
+    "time": "2026-06-17T20:36:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The doctor told me I had five years’",
+    "desc": "Lisa Ray has spoken about how her battle with multiple myeloma transformed her life, revealing that the cancer diagnosis pushed her to confront her deepest fears, abandon perfectionism, embrace vulnerability and ultimately discover a more authentic version of herself. Following a relapse, Lisa adopted an integrative approach that combined conventional treatment with dietary and holistic changes.",
+    "img": "https://static.toiimg.com/photo/msid-131812351,imgsize-67874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lisa-ray-recalls-her-battle-with-multiple-myeloma-the-doctor-told-me-i-had-five-years-opens-up-about-cancer-relapse-and-recovery/articleshow/131812334.cms",
+    "time": "2026-06-17T20:19:50.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "‘Parasites’: Supreme Court denies bail to man accused of cyberfraud, calls for sterner legislation",
     "desc": "Top court refuses to entertain a plea by an accused facing multiple cyberfraud cases seeking the clubbing of multiple criminal cases and the grant of bail; society’s interest is there only when you are inside jail and not outside, it says",
     "img": "https://th-i.thgim.com/public/incoming/4pkidb/article71114590.ece/alternates/LANDSCAPE_1200/2025-06-05T012402Z_162674780_RC20WEAN6WFL_RTRMADP_3_CHINA-TAIWAN-CYBERATTACK.JPG",
@@ -171,15 +288,6 @@ const newsData_en = [
     "time": "2026-06-17T16:37:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt raises ceiling prices of BCG, Measles vaccines by 21%",
-    "desc": "The government has increased ceiling prices for BCG, Measles, and Measles-Rubella vaccines by approximately 21%. This decision follows a review after the Serum Institute of India appealed an earlier pricing order. The revision aims to address the manufacturer's concerns and ensure continued availability of these vital public health vaccines easily.",
-    "img": "https://static.toiimg.com/photo/msid-131806518,imgsize-417500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-raises-ceiling-prices-of-bcg-measles-vaccines-by-21/articleshow/131806468.cms",
-    "time": "2026-06-17T16:28:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Tomato, onion, potato prices rise within a week, yet farmers say their produce fetches very low prices",
     "desc": "‘In potato-growing States such as U.P., and Bihar too, farmers are in distress as they get as little as ₹2 or ₹3 per kilo for potatoes. But consumers are paying through their nose,’ says farmer leader Ashok Dhawale",
@@ -216,15 +324,6 @@ const newsData_en = [
     "time": "2026-06-17T16:04:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "2 seats, 3 candidates: Can INDIA bloc hold its flock together for Rajya Sabha polls in Jharkhand?",
-    "desc": "The upcoming Rajya Sabha elections in Jharkhand are shaping up to be a nail-biter. The INDIA bloc, boasting 56 MLAs, appears to have the upper hand with a potential for two seats, but the BJP, rallying behind an independent candidate, is poised to sow discord through cross-voting, reminiscent of previous electoral surprises in Bihar and Odisha.",
-    "img": "https://static.toiimg.com/photo/msid-131806994,imgsize-1088088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/2-seats-3-candidates-can-india-bloc-hold-its-flock-together-for-rajya-sabha-polls-in-jharkhand/articleshow/131803920.cms",
-    "time": "2026-06-17T15:59:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Samantha Ruth Prabhu praises Tamil Nadu CM Vijay after meeting him",
     "desc": "Samantha Ruth Prabhu met C Joseph Vijay on Wednesday and later shared a heartfelt note on social media, praising his transition from cinema to politics and calling his journey an inspiration for many. Sharing pictures from their meeting on Instagram, Samantha expressed her admiration for Vijay's decision to step into public service after a successful film career.",
@@ -252,15 +351,6 @@ const newsData_en = [
     "time": "2026-06-17T15:19:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Something shocking': Centre defends Telegram curbs in HC, says app aided NEET cheating networks",
-    "desc": "The Indian government has temporarily restricted Telegram access. This action follows allegations of misuse by organised networks. The government plans to present evidence of this misuse in court. The restrictions are in place to ensure the integrity of national examinations. Access is limited until June 22. A message editing feature is also disabled until June 30.",
-    "img": "https://static.toiimg.com/photo/msid-131804829,imgsize-526737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/something-shocking-centre-defends-telegram-curbs-in-hc-says-app-aided-neet-cheating-networks/articleshow/131804836.cms",
-    "time": "2026-06-17T15:09:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'The countdown begins': India-UK FTA to take effect from July 15, UK envoy calls it a 'historic moment'",
     "desc": "India and the UK will implement their landmark free trade agreement on July 15, significantly reducing tariffs on key products like whisky and automobiles. This historic pact is set to boost bilateral trade by billions and enhance economic cooperation, with businesses having 28 days to prepare for its benefits.",
@@ -277,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-red-card-controversy-var-decision-sparks-debate-despite-world-cup-record-feat/articleshow/131803818.cms",
     "time": "2026-06-17T14:47:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Lakhs of Indians working as seafarers': PM Modi raises maritime safety in meeting with Donald Trump",
-    "desc": "Prime Minister Modi and US President Trump met at the G7 Summit, prioritizing maritime security and the safety of Indian seafarers. Modi stressed the vital importance of open shipping routes, particularly the Strait of Hormuz, and commended Trump's efforts in West Asia. The leaders also discussed trade deals, signaling renewed energy in India-US relations after a period of strain.",
-    "img": "https://static.toiimg.com/photo/msid-131803871,imgsize-810339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/lakhs-of-indians-working-as-seafarers-pm-modi-raises-maritime-safety-in-meeting-with-trump/articleshow/131803827.cms",
-    "time": "2026-06-17T14:27:42.000Z"
   },
   {
     "cat": "Business",
@@ -369,15 +450,6 @@ const newsData_en = [
     "time": "2026-06-17T13:24:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rahul Gandhi slams Telegram ban ahead of NEET re-test; Trump warns Iran deal could collapse &amp; more",
-    "desc": "The NDA is considering reviving the women's quota bill amidst opposition party shifts. Rahul Gandhi criticizes the Telegram ban, arguing it targets students over exam leak culprits. Akhilesh Yadav denies Samajwadi Party splits, blaming the BJP for engineered defections.",
-    "img": "https://static.toiimg.com/photo/msid-131801977,imgsize-752853.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-rahul-gandhi-slams-telegram-ban-ahead-of-neet-re-test-trump-warns-iran-deal-could-collapse-more/articleshow/131801755.cms",
-    "time": "2026-06-17T13:20:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How to pay zero tax under new and old tax regime",
     "desc": "Section 87A tax relief to resident individuals whose total income is less than the prescribed limits. How does it work? The tax (before cess) is first calculated according to the applicable tax rates and then reduced by the rebate available under section 87A.",
@@ -448,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/shreyas-iyer-surpasses-virat-kohli-becomes-joint-second-fastest-indian-to-3000-odi-runs/articleshow/131799465.cms",
     "time": "2026-06-17T12:16:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ISI-linked terror module busted: Delhi Police arrests five more operatives in TTH case",
-    "desc": "Delhi Police's Special Cell has apprehended five more individuals linked to a Pakistan-ISI-backed terror module, Tehreek-e-Taliban Hindustan (TTH). These arrests are part of a wider crackdown on a trans-border network allegedly involved in targeting police, spreading propaganda, and facilitating weapon and drug smuggling from Pakistan.",
-    "img": "https://static.toiimg.com/photo/msid-131800393,imgsize-980085.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/isi-linked-terror-module-busted-delhi-police-arrests-five-more-operatives-in-tth-case/articleshow/131799799.cms",
-    "time": "2026-06-17T12:12:38.000Z"
   },
   {
     "cat": "Sports",
@@ -568,15 +631,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Jacqueline set to make her full-fledged horror film debut",
-    "desc": "Jacqueline Fernandez is reportedly set to star in her first ever out-and-out horror film, produced by Khyati Madaan's Not Out Entertainment. A song and teaser have already been shot, with principal photography expected to begin by the end of this month. Jacqueline will next be seen in Welcome To The Jungle, releasing June 26, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131797743,imgsize-28570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jacqueline-fernandez-set-to-make-her-full-fledged-horror-film-debut-shoot-to-commence-from-late-june-2026/articleshow/131797743.cms",
-    "time": "2026-06-17T10:59:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Raja Ravi Varma’s Little Prince of Courage among highlights of AstaGuru’s Collectors’ Choice auction",
     "desc": "AstaGuru’s Collectors’ Choice auction will be held online Taking place online on June 22 and 23, AstaGuru’s Collectors’ Choice auction and features rare and significant works by Raja Ravi Varma, MF Husain, Ganesh Pyne, FN Souza, Ram Kumar and other masters of Indian art",
     "img": "https://th-i.thgim.com/public/news/national/karnataka/vh46u1/article71112656.ece/alternates/LANDSCAPE_1200/51.jpg",
@@ -622,24 +676,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘The Odyssey’ team confirms July visit to India for Mumbai premiere",
-    "desc": "In a remarkable event for Indian cinema, celebrated director Christopher Nolan, along with renowned actors Matt Damon and Tom Holland, will arrive in Mumbai for the exclusive premiere of 'The Odyssey' this July. This debut marks a significant milestone for Nolan, as it's his first film premiere in India.",
-    "img": "https://static.toiimg.com/photo/msid-131795800,imgsize-165636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-team-heads-to-mumbai-as-chirstopher-nolan-matt-damon-and-tom-holland-confirm-india-visit-for-premiere-in-july/articleshow/131795800.cms",
-    "time": "2026-06-17T10:29:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'This is how we speak': Sanjay Raut unapologetic over abusive remark against rebel MPs as Sena split talk intensifies",
-    "desc": "Shiv Sena (UBT) MP Sanjay Raut defended his strong remarks against suspected rebel MPs, stating they are common Marathi usage and not abusive in the state's context. He questioned criticism, emphasizing that wrongdoing should be punished and vowed to fight any attempts to weaken the party.",
-    "img": "https://static.toiimg.com/photo/msid-131795755,imgsize-638127.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/this-is-how-we-speak-sanjay-raut-unapologetic-over-abusive-remark-against-rebel-mps-as-sena-split-talk-intensifies/articleshow/131795480.cms",
-    "time": "2026-06-17T10:25:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Strong heroines, mellow heroes, engaging stories and fierce social commentary define Bharathiraja’s repertoire",
     "desc": "With fresh eyes, groomed on a rural story line in the lush surroundings of Theni in south Tamil Nadu, Bharathiraja decided he was done with the conventional tropes of the hero, the baddie, and a hanger-on heroine",
     "img": "https://th-i.thgim.com/public/incoming/1t8kq8/article71085112.ece/alternates/LANDSCAPE_1200/Bharathiraja.jpg",
@@ -655,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lagaan-actor-paul-blackthornes-recalls-wild-memory-of-jumping-naked-into-the-ocean-while-shooting-in-bhuj-said-yes-to-work-with-the-incredible-aamir-khan/articleshow/131794864.cms",
     "time": "2026-06-17T09:59:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'SP is fully prepared': Akhilesh hits back at Rajbhar, says BJP has history of engineering splits",
-    "desc": "Samajwadi Party chief Akhilesh Yadav has dismissed claims of a major split within his party. He accused the Bharatiya Janata Party of a history of engineering defections in opposition parties. Yadav stated the Samajwadi Party is prepared for such challenges. These remarks come amid political positioning for the 2027 Uttar Pradesh assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-131794666,imgsize-833504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sp-is-fully-prepared-akhilesh-hits-back-at-rajbhar-says-bjp-has-history-of-engineering-splits/articleshow/131794760.cms",
-    "time": "2026-06-17T09:55:09.000Z"
   },
   {
     "cat": "Sports",
@@ -682,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/mfi-portfolio-shrinks-17-in-fy24-shows-signs-of-stabilization-in-q4/articleshow/131794326.cms",
     "time": "2026-06-17T09:33:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Discarding very old and bringing in new': Annamalai pitches party launch by July",
-    "desc": "K Annamalai, after leaving the BJP, is set to transform his 'We the Leaders' movement into a political party by July. With 18 lakh members already joined, the organization aims to bring fresh leadership and address state issues like the drug menace. The party plans to introduce term limits for politicians.",
-    "img": "https://static.toiimg.com/photo/msid-131794214,imgsize-1002607.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/discarding-very-old-and-bringing-in-new-annamalai-pitches-party-launch-by-july/articleshow/131794153.cms",
-    "time": "2026-06-17T09:27:06.000Z"
   },
   {
     "cat": "Sports",
@@ -718,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/opinion/columns/ben-stokes-kane-williamson-and-the-power-of-the-image/article71109206.ece",
     "time": "2026-06-17T07:17:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre won't be allowed to interfere in school curriculum: Kerala CM V D Satheesan",
-    "desc": "Kerala chief minister VD Satheesan has firmly stated that the Centre will not be permitted to interfere in the state's autonomy regarding school curriculum decisions. Following a cabinet meeting, Satheesan emphasized that shaping educational content is within the state's domain, asserting Kerala's commitment to safeguarding its authority in this matter.",
-    "img": "https://static.toiimg.com/photo/msid-131789696,imgsize-32852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-wont-be-allowed-to-interfere-in-school-curriculum-kerala-cm-v-d-satheesan/articleshow/131789656.cms",
-    "time": "2026-06-17T06:55:46.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-nandini-reddy-on-samantha-action-films-and-the-challenge-of-todays-cinema/article71108207.ece",
     "time": "2026-06-16T07:33:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana only Indian among TIME magazine's 100 most influential sportspersons",
-    "desc": "The list, headlined by American basketball legend LeBron James, includes superstars from the world of sports such as football icon Lionel Messi, Chinese-American skier Eileen Gu, tennis star Carlos Alcaraz, basketball player Victor Wembanyama, legendary golfer Rory McIlroy among others",
-    "img": "https://th-i.thgim.com/public/sport/cricket/6gr8ln/article66359622.ece/alternates/LANDSCAPE_1200/80683_9_1_2023_19_31_15_1_SMRITIMANDHANA004.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/smriti-mandhana-only-indian-among-time-magazines-100-most-influential-sportspersons/article71107810.ece",
-    "time": "2026-06-16T07:24:58.000Z"
   }
 ];
