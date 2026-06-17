@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rohit Sharma becomes 5th Indian cricketer to register major milestone in List A cricket",
+    "desc": "Former India captain Rohit Sharma became the fifth Indian cricketer to score over 14000 career runs in List A cricket. In the second ODI against Afghanistan, the veteran batter made 48 runs to register the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-becomes-5th-indian-cricketer-to-register-major-milestone-in-list-a-cricket-2026-06-17-1045223",
+    "time": "2026-06-17T14:31:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India match South Africa's legendary record following Shubman Gill, Ishan Kishan's masterclass vs Afghanistan",
+    "desc": "Indian batters produced a stunning performance in the second ODI against Afghanistan in Lucknow. With Nitish Kumar Reddy unavailable, the team management was forced to tweak the line-up, with Yashasvi Jaiswal opening with Rohit Sharma....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-match-south-africa-s-legendary-record-following-shubman-gill-ishan-kishan-s-masterclass-vs-afghanistan-2026-06-17-1045214",
+    "time": "2026-06-17T13:30:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Netherlands opt to field first against mighty India",
+    "desc": "Game 10 of the ongoing Women's T20 World Cup 2026 sees India women taking on Netherlands women. The two sides are meeting at Headingley in Leeds on June 17th, and it is worth noting that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-nl-w-live-cricket-score-netherlands-opt-to-field-first-against-mighty-india-2026-06-17-1045212",
+    "time": "2026-06-17T13:25:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India A steamroll Afghanistan A in tri-series clash, book berth for series final",
+    "desc": "India A took on Afghanistan A in the 5th game of the ongoing tri-series between India A, Afghanistan A, and Sri Lanka A. The two sides met at the Rangiri Dambulla International Stadium on June...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-steamroll-afghanistan-a-in-tri-series-clash-book-berth-for-series-final-2026-06-17-1045201",
+    "time": "2026-06-17T12:15:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer surpasses Virat Kohli and KL Rahul, achieves huge milestone with clash against Afghanistan",
+    "desc": "The Indian team performed exceptionally well in the second ODI of the ongoing series against Afghanistan. The two sides met at the Ekana Stadium in Afghanistan on June 17th, and there were several performances from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-surpasses-virat-kohli-and-kl-rahul-achieves-huge-milestone-with-clash-against-afghanistan-2026-06-17-1045199",
+    "time": "2026-06-17T12:07:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill smashes ninth ODI century, dominates Afghanistan in Lucknow",
     "desc": "The second ODI of the ongoing series between India and Afghanistan took place at the Ekana Stadium in Lucknow on June 17th. The clash began with India coming in to bat first after losing the...",
     "img": "",
@@ -37,56 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Gill continues to dominate Afghanistan, India three down",
+    "title": "India in command, Afghanistan continue to lose wickets",
     "desc": "India take on Afghanistan in the second ODI of the three-match series at the Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow. The Men in Blue won the rain-hit series opener at the Himachal Pradesh...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-2nd-odi-live-score-india-vs-afghanistan-brsabv-ekana-cricket-stadium-latest-match-updates-scorecard-teams-playing-xis-2026-06-17-1045154",
     "time": "2026-06-17T07:23:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did Lionel Messi cry during FIFA World Cup 2026 opener against Algeria? Argentine legend reveals",
-    "desc": "Lionel Messi was seen shedding tears during Argentina's FIFA World Cup 2026 opener against Algeria at the Kansas City Stadium on Wednesday, June 17 (as per IST). The Argentine legend marked his sixth World Cup...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-did-lionel-messi-cry-during-fifa-world-cup-2026-opener-against-algeria-argentine-legend-reveals-2026-06-17-1045152",
-    "time": "2026-06-17T07:08:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India-born cricketer dropped as New Zealand announce central contracts, two players return",
-    "desc": "New Zealand Cricket (NZC) announced the central contracts for the 2026-27 as India-born Adi Ashok and Pakistan-born Muhammad Abbas were dropped from the 20-man list. The contracts feature the return of Devon Conway and Blair...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-born-cricketer-dropped-as-new-zealand-announce-central-contracts-two-players-return-2026-06-17-1045140",
-    "time": "2026-06-17T05:38:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND A vs AFG A Tri-Nation Series LIVE: India A need to defend 320 in must-win clash",
-    "desc": "India A take on Afghanistan A in the Tri-Nation Series in their must-win clash at the Rangiri Dambulla International Stadium, Dambulla, as the teams look to push for the knockout stages. The contest promises to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-afg-a-tri-nation-series-live-india-a-vs-afghanistan-a-rangiri-dambulla-international-stadium-latest-match-updates-scorecard-teams-playing-xis-2026-06-17-1045133",
-    "time": "2026-06-17T04:45:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which records did Lionel Messi break in historic hat-trick outing in Argentina vs Algeria World Cup opener?",
-    "desc": "Lionel Messi achieved multiple historical records as he scored his first-ever FIFA World Cup hat-trick during his team's opener against Algeria at the Kansas City Stadium on June 17 (as per IST). Messi made his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/which-records-did-lionel-messi-break-in-historic-hat-trick-outing-in-argentina-vs-algeria-world-cup-opener-2026-06-17-1045127",
-    "time": "2026-06-17T03:50:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi rewrites history books with hat-trick, Argentina thrash Algeria in FIFA World Cup opener",
-    "desc": "Lionel Messi showed why he is the best in the world as he scored his first-ever hat-trick in a FIFA World Cup during Argentina's tournament opener against Algeria on Wednesday, June 17 (as per IST)....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-rewrites-history-books-with-hat-trick-argentina-thrash-algeria-in-fifa-world-cup-opener-2026-06-17-1045123",
-    "time": "2026-06-17T03:08:28.000Z"
   }
 ];
