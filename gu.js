@@ -1,6 +1,87 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ક્યારેય ચૂંટણી નથી હાર્યા નથવાણી... શું તેઓ હેમંત સોરેનનો ચક્રવ્યૂહ તોડીને આ વખતે પહોંચશે રાજ્યસભા?",
+    "desc": "ઝારખંડમાં બે રાજ્યસભા બેઠકો માટે ગુરુવારે મતદાન થવાનું છે. JMM અને કોંગ્રેસે એક-એક ઉમેદવાર ઉભા રાખ્યા છે, ભાજપે ઉમેદવાર ઉભા રાખવાને બદલે અપક્ષ ઉમેદવાર તરીકે ગુજરાતના પરિમલ નથવાણીને મેદાનમાં ઉતાર્યા છે. જેથી ઝારખંડમાં ક્રોસ વોટિંગનું જોખમ રહેલું છે. તમારે એ જાણવું પણ જરૂરી છે કે પરિમલ નથવાણી ક્યારેય કોઈ ચૂંટણી હાર્યા નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/nathwani-has-never-lost-an-election-will-he-break-hemant-soren-wheeling-strategy-and-reach-the-rajya-sabha-this-time-481797 ",
+    "time": "2026-06-17T10:37:49.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "₹5.63 લાખ કિંમત અને 31 કિમીની માઇલેજ, વેચાણમાં નંબર-1 બની આ કાર",
+    "desc": "મે 2026મા Maruti Suzuki Baleno દેશની સૌથી વધુ વેચાતી હેચબેક કાર બની. તેને 10396 નવા ગ્રાહક મળ્યા છે. વેગનઆર આ મામલે બીજા સ્થાને રહી અને સ્વિફ્ટ ત્રીજા સ્થાને. બલેનો પોતાની ડિઝાઇન, ફીચર્સ અને શાનદાર માઇલેજને કારણે ગ્રાહકોની પસંદ બનેલી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/priced-at-5-63-lakh-and-mileage-of-31-km-maruti-suzuki-baleno-became-number-1-in-sales-481791 ",
+    "time": "2026-06-17T09:42:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઓરીએ એક રીલમાંથી કમાયા 76 લાખ, જણાવ્યું કેવી રીતે કરે છે કમાણી અને PM મોદીની લગતી એક ઇચ્છા કરી શેર",
+    "desc": "ઓરી લાંબા સમયથી સોશિયલ મીડિયા સેન્સેશન બની ગયો છે. હવે, તેણે ખુલાસો કર્યો છે કે તે કેવી રીતે પૈસા કમાય છે. તેણે એ પણ જાહેર કર્યું છે કે તે કોની સાથે ફોટો પડાવવાનું સૌથી વધુ પસંદ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/oori-earned-76-lakhs-from-a-reel-told-how-he-earns-and-shared-a-wish-related-to-pm-modi-481790 ",
+    "time": "2026-06-17T09:33:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનાના ભાવમાં આજે મોટો ફેરફાર, ચાંદી પણ ગગડી, જાણો કેરેટ પ્રમાણે 10 ગ્રામ સોનાનો રેટ",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે ઘટાડો જોવા મળ્યો છે. વાયદા બજાર અને રિટેલ બજાર બંનેમાં ભાવ ગગડેલા જોવા મળ્યા છે. MCX પર સવારથી બંને કિંમતી ધાતુઓ ઘટાડા સાથે જોવા મળી છે જ્યારે IBJAના રેટ્સમાં પણ ભાવ ઘટેલા જોવા મળ્યા છે. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/change-in-gold-prices-today-silver-also-fell-check-10-grams-gold-rate-aaj-no-sona-no-bhav-481774 ",
+    "time": "2026-06-17T08:04:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટ્રમ્પથી પરેશાન છે દુનિયાના આ 2 શક્તિશાળી નેતા? G-7માં વાતચીતનો માઈક ઓડિયો લીક થયો",
+    "desc": "હાલ ફ્રાન્સના એવિયન શહેરમાં G7 દેશોની સમિટ યોજાઈ છે જેમાં પીએમ મોદીએ પણ ભાગ લીધો છે. પરંતુ બે શક્તિશાળી નેતાઓની વાતચીતનો માઈક ઓડિયો લીક થયો જેના કારણે ચકચાર મચી છે. જાણો શું હતું એ વાતચીતમાં?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/g7-summit-latest-update-volodymyr-zelenskyy-emmanuel-macron-conversation-audio-leak-481766 ",
+    "time": "2026-06-17T06:55:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બીજી વનડેમાં બદલાઈ જશે ટીમ ઈન્ડિયાની પ્લેઈંગ-11, ગંભીર અને ગિલ આ બે ખેલાડીઓને આપશે તક ?",
+    "desc": "હેડ કોચ ગૌતમ ગંભીર અને શુભમન ગિલ લખનૌમાં બીજી વનડેમાં યુવા ફાસ્ટ બોલર પ્રિન્સ યાદવને તક આપવાનું વિચારી શકે છે. પ્રિન્સ પાસે રમવાની મજબૂત તક છે, કારણ કે તેને IPL દરમિયાન આ સ્થળે રમવાનો અનુભવ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-afg-2nd-odi-team-india-predicted-playing-xi-prince-yadav-kuldeep-yadav-481769 ",
+    "time": "2026-06-17T06:32:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;1893&amp;#039; લખેલી જર્સી પહેરીને લિયોનલ મેસીની ટીમ મેદાનમાં ઉતરી, કારણ છે એકદમ રસપ્રદ",
+    "desc": "ફૂટબોલ વર્લ્ડ કપની ડિફેન્ડિંગ ચેમ્પિયન ટીમ આર્જેન્ટીનાએ અલ્જેરિયા સામેની મેચમાં શાનદાર પ્રદર્શન કરતા પોતાની પ્રથમ મેચ જીતી લીધી. મેસીએ ઈતિહાસ રચ્યો. આ બધા વચ્ચે બધાની નજર ટીમની જર્સી ઉપર પણ પડી જેના પર 1893 લખેલું જોવા મળ્યું? આ નંબર લખવા પાછળનું કારણ શું? ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-arg-vs-alg-why-1893-written-on-argentina-team-jersey-481759 ",
+    "time": "2026-06-17T05:12:09.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "NEET Re-Exam 2026: ટેલીગ્રામ થયું બ્લોક પરંતુ WhatsApp કેમ નહીં? આ છે કારણ",
+    "desc": "21 જૂને NEET Re Exam 2026 ની પરીક્ષા પહેલા ટેલીગ્રામ બ્લોક થઈ ગયું, પરંતુ વોટ્સએપની સાથે એવું નથી થયું જેનાથી લોકોના મનમાં સવાલ ઉઠવા લાગ્યા છે. આજે અમે તમને જણાવીશું કે કેમ ટેલીગ્રામને અસ્થાયી રૂપથી બ્લોક કરવામાં આવ્યું છે, તેની પાછળ ક્યા કારણ છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/neet-re-exam-2026-telegram-blocked-but-why-not-whatsapp-here-is-the-reason-481761 ",
+    "time": "2026-06-17T05:10:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મેદાન પર પગ મૂકતાં જ મેસ્સીએ બનાવ્યો મોટો રેકોર્ડ, રોનાલ્ડોની ખાસ ક્લબમાં થયો સામેલ, પ્રથમ વખત વર્લ્ડ કપમાં હેટ્રિક",
+    "desc": "કેન્સાસમાં ફૂટબોલ વર્લ્ડ કપ 2026ની પોતાની પહેલી મેચમાં અલ્જેરિયા સામે મેદાનમાં ઉતરતા આર્જેન્ટિનાના દિગ્ગજ ફૂટબોલર લિયોનેલ મેસ્સીએ બુધવારે એક મોટો રેકોર્ડ બનાવ્યો. લિયોનેલ મેસ્સી 200 આંતરરાષ્ટ્રીય મેચ રમનાર વિશ્વનો પ્રથમ ફૂટબોલર બન્યો છે. આ સાથે તેણે વર્લ્ડ કપમાં પ્રથમ વખત ગોલની હેટ્રિક પણ ફટકારી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-lionel-messi-hat-trick-argentina-vs-algeria-match-481740 ",
+    "time": "2026-06-17T04:37:11.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "મહારાષ્ટ્રમાં થઈ રહ્યો છે મોટો &amp;#039;ખેલા&amp;#039;! સંજય રાઉતનો દાવો- &amp;#039;પાર્ટી બદલવા માટે સાંસદોને 15-15 કરોડ...&amp;#039;",
     "desc": "મહારાષ્ટ્રના રાજકારણમાં ભારે ગરમાવો જોવા મળી રહ્યો છે. અનેક સાંસદો શિવસેના યુબીટીનો સાથ છોડે તેવા સમાચાર સામે આવ્યા છે ત્યારે એવામાં પાર્ટીના દિગ્ગજ નેતા સંજય રાઉતે એક ચોંકાવનારો દાવો કર્યો છે કે તેમના સાંસદોને પક્ષપલટો કરવા માટે કરોડો રૂપિયા ઓફર થઈ રહ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -180,15 +261,6 @@ const newsData_gu = [
     "time": "2026-06-15T18:05:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ફિફા વર્લ્ડ કપનો ક્રેઝ: ZEE પ્લેટફોર્મ્સ પર 10 કરોડ દર્શકોનું ઘોડાપૂર, Zee5 પર લાઈવ મેચોની ધૂમ",
-    "desc": "FIFA World Cup 2026ની શરૂઆત સાથે જ ફૂટબોલનો ક્રેઝ દર્શકોના માથે ચડીને બોલી રહ્યો છે, જેનો સીધો ફાયદો Zee Entertainmentને મળ્યો છે. ટુર્નામેન્ટના પ્રથમ વીકએન્ડમાં જ કંપનીના ડિજિટલ, ટેલિવિઝન અને સોશિયલ મીડિયા પ્લેટફોર્મ્સ પર 10 કરોડથી વધુ દર્શકોનો અભૂતપૂર્વ પ્રતિસાદ સાંપડ્યો છે. ખાસ કરીને ઓટીટી પ્લેટફોર્મ Zee5 પર લાખો ફેન્સે લાઈવ મેચોની ડિજિટલ મજા માણવાની સાથે વ્યુઅરશિપના નવા રેકોર્ડ્સ બનાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-zee-platforms-cross-100-million-viewers-opening-weekend-481615 ",
-    "time": "2026-06-15T15:48:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "કર્મચારીઓના PF ખાતામાં વ્યાજની રકમ ક્યારે જમા થશે ? જાણો આ વર્ષે કેટલા ટકા મળશે વ્યાજ",
     "desc": "કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO)એ નાણાકીય વર્ષ 2025-26 માટે 8.25% વ્યાજ દરની જાહેરાત કરી ત્યારથી, EPF સબ્સ્ક્રાઇબર્સ તેમના ખાતાના બેલેન્સ પર નજર રાખી રહ્યા છે. જૂનનું પહેલું સપ્તાહ પસાર થઈ ગયું હોવાથી ઘણા EPF સભ્યો વારંવાર તેમના પાસબુક તપાસતા હોય છે કે વાર્ષિક વ્યાજ તેમના PF ખાતામાં જમા થયું છે કે નહીં.",
@@ -205,15 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/e100-fuel-approved-india-ethanol-petrol-benefits-and-disadvantages-481578 ",
     "time": "2026-06-15T11:54:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિપરાજ નિગમે એવું તે શું કર્યું કે ટીમ ઈન્ડિયાને લાગી 10 રનની પેનલ્ટી, આ ભૂલ પડી ગઈ ભારે",
-    "desc": "શ્રીલંકામાં ચાલી રહેલી ત્રિકોણીય ODI શ્રેણીની ચોથી મેચમાં ભારત A ટીમ યજમાન શ્રીલંકા A ટીમ સામે રમી રહી છે. મેચ દરમિયાન ભારતીય ટીમને 10 રનની પેનલ્ટી ફટકારવામાં આવી હતી, વિપરાજ નિગમની ભૂલને કારણે ટીમને મોટો ફટકો પડ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-a-vs-sl-a-vipraj-nigam-blunder-team-india-10-runs-penalty-481570 ",
-    "time": "2026-06-15T10:15:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -241,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-increased-check-ibja-mcx-latest-rate-aaj-no-sona-chandi-no-bhav-481554 ",
     "time": "2026-06-15T08:44:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત-પાકિસ્તાન મેચમાં થઈ હતી મારામારી? સોશિયલ મીડિયા પર આગની જેમ ફેલાઈ રહ્યો છે આ વીડિયો, જાણો સત્ય",
-    "desc": "મહિલા T20 વર્લ્ડ કપ 2026માં ભારત અને પાકિસ્તાન વચ્ચેની હાઇ-વોલ્ટેજ મેચ ખૂબ જ ચર્ચામાં રહી. ભારતે આ મેચ 64 રનથી જીતી લીધી છે. પરંતુ જીત કે હાર કરતાં વધુ, ભારતીય અને પાકિસ્તાની ખેલાડીઓ વચ્ચે ઝપાઝપી દર્શાવતો એક વાયરલ વીડિયો વધુ ચર્ચા જગાડી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/was-there-a-brawl-in-the-india-pakistan-match-this-video-is-spreading-like-wildfire-on-social-media-know-the-truth-481561 ",
-    "time": "2026-06-15T08:38:05.000Z"
   },
   {
     "cat": "Tech",
@@ -522,15 +576,6 @@ const newsData_gu = [
     "time": "2026-06-12T11:09:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NEET Re-Exam: વિદ્યાર્થીઓ માટે મોટા સમાચાર, NTAએ પરીક્ષાના સમયમાં કર્યો વધારો, જાણો વિગતવાર માહિતી",
-    "desc": "નીટ પરીક્ષા પેપર લીક થયા બાદ રદ કરવામાં આવી હતી અને હવે તેનું ફરી આયોજન 21 જૂનના રોજ કરવામાં આવ્યું છે. આ પરીક્ષા સંબંધિત કેટલાક ફેરફાર NTAએ જાહેર કર્યા છે. જે વિદ્યાર્થીઓએ જાણવા ખુબ જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-news-for-neet-ug-re-exam-students-nta-extend-exam-duration-check-details-481270 ",
-    "time": "2026-06-12T09:58:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "શાહરુખ ખાનની આ ફિલ્મ રિલીઝ થઈ અને તુટી ગઈ ઐશ્વર્યા અને રાનીની વર્ષો જૂની ફ્રેન્ડશીપ, આજ સુધી એકબીજાથી રહે છે દુર",
     "desc": "એક સમયે રાની મુખર્જી અને ઐશ્વર્યા રાય એકબીજાની બેસ્ટ ફ્રેન્ડ હતી. પરંતુ શાહરુખ ખાનના કારણે આ અભિનેત્રીઓની મિત્રતા એવી તુટી કે આજ સુધી બંને એકબીજાની સાથે જોવા મળતી નથી. આ સમગ્ર ઘટના શું છે ચાલો તમને જણાવીએ.",
@@ -610,41 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/controversial-dialogue-on-84-riots-and-khalistan-angle-removed-from-dhurandhar-2-find-out-481063 ",
     "time": "2026-06-10T09:33:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સાવધાન ! અજાણ્યા નંબરથી આવ્યો ફોન, હેલ્લો બોલતા જ કપાઈ જાય છે કોલ ? માર્કેટમાં આવ્યો નવો સ્કેમ",
-    "desc": "અજાણ્યા નંબર પરથી કોલ આવે છે, અને તમે હેલો કહો છો કે તરત જ તે અચાનક ડિસ્કનેક્ટ થઈ જાય છે. આ મૂળભૂત રીતે એક સ્કેમ છે, જ્યાં સ્કેમર્સનું એક ગ્રુપ ફોન નંબર એક્ટિવ છે કે નહીં તે તપાસે છે. ગૃહ મંત્રાલય હેઠળની એક એજન્સીએ સલાહ આપી છે કે આવા કોલની જાણ કરવી જોઈએ. અમે એ પણ વિગતવાર સમજાવીશું કે લોકોએ કેવી રીતે સાવધાન રહેવું જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/a-call-came-from-an-unknown-number-the-call-gets-disconnected-as-soon-as-you-say-hello-a-new-scam-has-come-into-the-market-481032 ",
-    "time": "2026-06-10T06:38:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "પક્ષીઓની &amp;#039;અઘાર&amp;#039;એ આ દેશને બનાવ્યો ખુબ ધનાઢ્ય, પરંતુ એક ભૂલ અને બધુ બરબાદ!",
-    "desc": "એક નાનકડો ટાપુ અચાનક પક્ષીઓની અઘારને કારણે ધનાઢ્ય બની ગયો અને પછી એવું તે શું થયું કે હાલ પોતાની પાયાની જરૂરિયાતો સંતોષવા માટે બીજા પર નિર્ભર રહેવું પડે છે. આ ટાપુ દેશ આવી સ્થિતિમાં કઈ રીતે પહોંચ્યો તે ખાસ સમજવા જેવું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/story-of-the-tiny-island-nauru-how-a-country-become-rich-ruined-by-one-mistake-481030 ",
-    "time": "2026-06-10T06:30:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સપ્ટેમ્બરમાં લોન્ચ થશે 3 નવા iPhone, પણ લિસ્ટમાં નથી iPhone 18નું નામ!",
-    "desc": "આ વર્ષે સપ્ટેમ્બર 2026માં યોજાનારી ઇવેન્ટમાં એપલ ત્રણ નવા આઇફોન મોડેલ લોન્ચ કરે તેવી અપેક્ષા છે, પરંતુ આઇફોન 18 આ યાદીમાં નથી. આ વર્ષે, કંપનીનું ધ્યાન પ્રો મોડેલ અને એપલના પહેલા ફોલ્ડેબલ આઇફોન પર રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/3-new-iphones-to-be-launched-in-september-but-iphone-18-name-is-not-on-the-list-480962 ",
-    "time": "2026-06-09T12:02:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "વિક્રમ ભટ્ટે રિલેશનશીપને લઈ કરી પેટ છુટી વાત, સુષ્મિતા સેન તેની લાઈફમાં હતી ત્યારની હાલત વિશે જણાવ્યું",
-    "desc": "વિક્રમ ભટ્ટે તાજેતરના તેના એક ઈન્ટરવ્યુમાં પોતાના કરિયરની શરુઆતના સંઘર્ષ વિશે વાત કરી હતી. આ વાત દરમિયાન તેણે સુષ્મિતા સેન વિશે પણ એક મોટી વાત કહી દીધી હતી. વિક્રમ ભટ્ટે શું કહ્યું ચાલો તમને પણ જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/sushmita-sen-dated-vikram-bhatt-when-he-was-poor-said-vikram-bhatt-in-recent-interview-480824 ",
-    "time": "2026-06-08T09:15:55.000Z"
   }
 ];
