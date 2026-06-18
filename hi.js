@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyanka Patil set to be ruled out of T20 World Cup 2026, BCCI pondering on possible replacement",
+    "desc": "India's T20 World Cup campaign has suffered a major setback with all-rounder Shreyanka Patil set to miss the remainder of the tournament after sustaining an ankle ligament injury during the second innings against Netherlands in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyanka-patil-set-to-be-ruled-out-of-t20-world-cup-2026-bcci-pondering-on-possible-replacement-2026-06-18-1045377",
+    "time": "2026-06-18T17:53:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi issues statement, explaining reason behind his tears after goal vs Algeria",
+    "desc": "Lionel Messi’s family has confirmed that his father, Jorge Messi, is recovering under medical supervision after experiencing an unspecified health issue, shedding light on the personal circumstances that coincided with the Argentina captain’s emotional display...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-issues-statement-explaining-reason-behind-his-tears-after-goal-vs-algeria-2026-06-18-1045375",
+    "time": "2026-06-18T17:30:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After Vaiabhav Sooryavanshi, another Bihar youngster wreaks havoc in domestic cricket, scores 306*",
+    "desc": "Akshara Gupta etched her name into the record books on Thursday after hammering an unbeaten 306 in the opening round of the BCA Women’s U-19 One-Day Trophy Tournament in Bhagalpur, producing one of the highest...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/after-vaiabhav-sooryavanshi-another-bihar-youngster-wreaks-havoc-in-domestic-cricket-scores-306-2026-06-18-1045372",
+    "time": "2026-06-18T16:35:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Neymar play Brazil's upcoming FIFA World Cup match vs Haiti? CBF shares latest development",
+    "desc": "Star forward Neymar has been ruled out of Brazil’s upcoming FIFA World Cup 2026 Group C fixture against Haiti. The veteran hasn’t travelled with the squad as he continues his rehabilitation from a calf injury. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/will-neymar-play-brazil-s-upcoming-fifa-world-cup-match-vs-haiti-cbf-shares-latest-development-2026-06-18-1045369",
+    "time": "2026-06-18T15:50:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shafali Verma highlights Smriti Mandhana, Harmanpreet Kaur's influence after all-round show vs Netherlands",
     "desc": "India opener Shafali Verma delivered a standout all-round performance against the Netherlands in the T20 World Cup, helping her side maintain an unbeaten run with a commanding 95-run victory. The 22-year-old scored 55 off 38...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/graeme-swann-hails-india-s-bench-strength-names-key-aspect-in-preparation-for-odi-world-cup-2027-2026-06-18-1045319",
     "time": "2026-06-18T10:16:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shree Charani becomes third youngest Indian to achieve unique feat with four-fer against Netherlands",
-    "desc": "The likes of Smriti Mandhana, Shafali Verma, and Deepti Sharma performed exceptionally well as India women registered their second straight win in the ongoing Women’s T20 World Cup 2026. Taking on the Netherlands, India managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-becomes-third-youngest-indian-to-achieve-unique-feat-with-four-fer-against-netherlands-2026-06-18-1045304",
-    "time": "2026-06-18T08:42:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Could the IPL season start early from 2027? BCCI secretary opens up on scheduling possibility",
-    "desc": "The IPL (Indian Premier League) 2027 is quite far away. However, despite the tournament being almost a year away, details on what the schedule for the tournament could look like have emerged. The BCCI (Board of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/could-the-ipl-season-start-early-from-2027-bcci-secretary-opens-up-on-scheduling-possibility-2026-06-18-1045292",
-    "time": "2026-06-18T07:20:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana creates T20I history, achieves what no one has been able to across men's and women's cricket",
-    "desc": "India women continued their brilliant run of form in the ongoing Women’s T20 World Cup 2026. The side kicked off the tournament with a win against Pakistan and followed it up with another sensational victory...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-creates-t20i-history-achieves-what-no-one-has-been-able-to-across-men-s-and-women-s-cricket-2026-06-18-1045286",
-    "time": "2026-06-18T06:44:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gurnoor Brar joins Piyush Chawla in elite list, continues dream start to international career",
-    "desc": "The Indian team continued their brilliant run of form and registered a mammoth victory against Afghanistan in the second ODI of the ongoing series. The two sides met at the Ekana Stadium in Lucknow for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-joins-piyush-chawla-in-elite-list-continues-dream-start-to-international-career-2026-06-18-1045278",
-    "time": "2026-06-18T06:07:42.000Z"
   }
 ];

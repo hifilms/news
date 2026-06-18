@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
     "cat": "Business",
-    "title": "ક્રૂડ ઓઇલના ભાવ ઘટવાથી ભારતમાં પેટ્રોલ-ડિઝલના ભાવ ઘટશે? સરકારનું આવ્યું પહેલું નિવેદન, જાણો",
+    "title": "સતત ત્રીજા દિવસે ઘટ્યા સોના-ચાંદીના ભાવ, જાણો એક્સપર્ટે શું કહ્યું",
+    "desc": "ગુરુવારે રાષ્ટ્રીય રાજધાનીના બુલિયન બજારમાં સોનાના ભાવ સતત ત્રીજા દિવસે ઘટ્યા હતા, જે 960 રૂપિયા ઘટીને 1.53 લાખ રૂપિયા પ્રતિ 10 ગ્રામ થયા હતા. આ દરમિયાન, શેરબજારમાં તેજી વચ્ચે સલામત રોકાણ તરીકે કિંમતી ધાતુઓની માંગ ઘટતાં ચાંદીના ભાવ 6,660 રૂપિયા ઘટી ગયા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fell-for-the-third-consecutive-day-know-what-the-expert-said-481919 ",
+    "time": "2026-06-18T16:34:02.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "નવી કાર ખરીદવી હોય તો ઉતાવળ રાખજો! TATA બાદ વધુ એક કંપની 1 જુલાઈથી કિંમતો વધારશે",
+    "desc": "ટાટા મોટર્સ પણ પોતાના પેસેન્જર વાહનોના ભાવમાં 1.5 ટકાનો વધારો કરવાની જાહેરાત કરી ચુકી છે, ત્યારે આ કાર કંપનીએ માહિતી આપી છે કે 1 જુલાઈ, 2026થી તેના તમામ મોડેલોના ભાવમાં મહત્તમ 2 ટકાનો વધારો કરવામાં આવશે. જેના કારણે ગ્રાહકોને કિયા કાર ખરીદવી મોંઘી પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/if-you-want-to-buy-a-new-car-hurry-up-after-tata-another-company-will-increase-prices-from-july-1-481917 ",
+    "time": "2026-06-18T16:02:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઇલના ભાવ ઘટવાથી ભારતમાં પેટ્રોલ-ડીઝલના ભાવ ઘટશે? સરકારનું આવ્યું પહેલું નિવેદન, જાણો",
     "desc": "દેશના અનેક ભાગોમાં પેટ્રોલના ભાવ 102 રૂપિયાને વટાવી ગયો છે, અને ડીઝલ 95 રૂપિયા પ્રતિ લિટર વેચાઈ રહ્યું છે. આ દરમિયાન, ક્રૂડ ઓઈલના ભાવ સતત ઘટી રહ્યા છે. આ દરમિયાન, એક કેન્દ્રીય મંત્રીએ જણાવ્યું હતું કે દેશમાં હાલ સસ્તું પેટ્રોલ અને ડીઝલ ઉપલબ્ધ રહેશે નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/will-petrol-and-diesel-become-cheaper-in-india-after-crude-oil-prices-fall-union-minister-gives-update-481915 ",
-    "time": "2026-06-18T14:58:54.000Z"
+    "time": "2026-06-18T15:03:07.000Z"
   },
   {
     "cat": "Sports",
@@ -394,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/mou-signed-to-end-war-now-waiting-for-friday-donald-trump-statement-increases-suspense-again-481621 ",
     "time": "2026-06-15T18:05:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કર્મચારીઓના PF ખાતામાં વ્યાજની રકમ ક્યારે જમા થશે ? જાણો આ વર્ષે કેટલા ટકા મળશે વ્યાજ",
-    "desc": "કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO)એ નાણાકીય વર્ષ 2025-26 માટે 8.25% વ્યાજ દરની જાહેરાત કરી ત્યારથી, EPF સબ્સ્ક્રાઇબર્સ તેમના ખાતાના બેલેન્સ પર નજર રાખી રહ્યા છે. જૂનનું પહેલું સપ્તાહ પસાર થઈ ગયું હોવાથી ઘણા EPF સભ્યો વારંવાર તેમના પાસબુક તપાસતા હોય છે કે વાર્ષિક વ્યાજ તેમના PF ખાતામાં જમા થયું છે કે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/when-will-interest-amount-be-deposited-in-pf-account-of-employees-481617 ",
-    "time": "2026-06-15T15:43:20.000Z"
   },
   {
     "cat": "Tech",
