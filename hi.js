@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ben Stokes likely to return to England squad for third Test vs NZ, will be stripped of captaincy: Report",
+    "desc": "Ben Stokes is expected to become available for England's third Test against New Zealand. After an investigation into a disciplinary breach reached its conclusion, Stokes is reported to be running in England colours, but will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-likely-to-return-to-england-squad-for-third-test-vs-nz-will-be-stripped-of-captaincy-report-2026-06-18-1045378",
+    "time": "2026-06-18T18:13:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyanka Patil set to be ruled out of T20 World Cup 2026, BCCI pondering on possible replacement",
     "desc": "India's T20 World Cup campaign has suffered a major setback with all-rounder Shreyanka Patil set to miss the remainder of the tournament after sustaining an ankle ligament injury during the second innings against Netherlands in...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-vaibhav-sooryavanshi-will-be-with-his-parents-during-ireland-england-tour-bcci-secretary-explains-2026-06-18-1045327",
     "time": "2026-06-18T10:35:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Graeme Swann hails India's bench strength, names key aspect in preparation for ODI World Cup 2027",
-    "desc": "The Indian team has been in exceptional form of late; the side has begun their ODI series against Afghanistan in brilliant fashion. Having won the first two ODIs of the series, the Men in Blue...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/graeme-swann-hails-india-s-bench-strength-names-key-aspect-in-preparation-for-odi-world-cup-2027-2026-06-18-1045319",
-    "time": "2026-06-18T10:16:44.000Z"
   }
 ];
