@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shree Charani becomes third youngest Indian to achieve unique feat with four-fer against Netherlands",
+    "desc": "The likes of Smriti Mandhana, Shafali Verma, and Deepti Sharma performed exceptionally well as India women registered their second straight win in the ongoing Women’s T20 World Cup 2026. Taking on the Netherlands, India managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-becomes-third-youngest-indian-to-achieve-unique-feat-with-four-fer-against-netherlands-2026-06-18-1045304",
+    "time": "2026-06-18T08:42:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Could the IPL season start early from 2027? BCCI secretary opens up on scheduling possibility",
+    "desc": "The IPL (Indian Premier League) 2027 is quite far away. However, despite the tournament being almost a year away, details on what the schedule for the tournament could look like have emerged. The BCCI (Board of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/could-the-ipl-season-start-early-from-2027-bcci-secretary-opens-up-on-scheduling-possibility-2026-06-18-1045292",
+    "time": "2026-06-18T07:20:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana creates T20I history, achieves what no one has been able to across men's and women's cricket",
+    "desc": "India women continued their brilliant run of form in the ongoing Women’s T20 World Cup 2026. The side kicked off the tournament with a win against Pakistan and followed it up with another sensational victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-creates-t20i-history-achieves-what-no-one-has-been-able-to-across-men-s-and-women-s-cricket-2026-06-18-1045286",
+    "time": "2026-06-18T06:44:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gurnoor Brar joins Piyush Chawla in elite list, continues dream start to international career",
+    "desc": "The Indian team continued their brilliant run of form and registered a mammoth victory against Afghanistan in the second ODI of the ongoing series. The two sides met at the Ekana Stadium in Lucknow for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-joins-piyush-chawla-in-elite-list-continues-dream-start-to-international-career-2026-06-18-1045278",
+    "time": "2026-06-18T06:07:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deepti Sharma equals Jhulan Goswami's legendary record as India women continue winning run in T20 WC",
+    "desc": "The Indian women’s team has been in brilliant form in the ongoing Women’s T20 World Cup 2026. The Women in Blue kicked off their World Cup campaign with a victory against Pakistan and have followed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/deepti-sharma-equals-jhulan-goswami-s-legendary-record-as-india-women-continue-winning-run-in-t20-wc-2026-06-18-1045267",
+    "time": "2026-06-18T04:34:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer hails Arshdeep Singh after stellar performance against Afghanistan in second ODI",
+    "desc": "The Indian team put forth a brilliant performance in the second ODI of the ongoing series against Afghanistan. The two sides met at the Ekana Stadium in Lucknow on June 16, and the Indian team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-arshdeep-singh-after-stellar-performance-against-afghanistan-in-second-odi-2026-06-18-1045262",
+    "time": "2026-06-18T03:39:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cristiano Ronaldo expresses frustation on social media after Portugal's disappointing 1-1 outing vs Congo",
     "desc": "Portugal were held to a 1–1 draw by the Democratic Republic of Congo in their opening Group K fixture of the 2026 FIFA World Cup at the NRG Stadium in Houston on Wednesday. Despite dominating...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-decimate-netherlands-shafali-verma-smriti-mandhana-s-heroic-takes-india-on-top-of-points-table-2026-06-17-1045240",
     "time": "2026-06-17T18:02:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Congo pull off an upset as match finish 1-1 vs Portugal",
-    "desc": "Portugal begin their FIFA World Cup 2026 Group K campaign against DR Congo on Wednesday evening. They enter the tournament with high expectations under Roberto Martinez, boasting world-class players such as Cristiano Ronaldo, Bruno Fernandes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/por-vs-cod-fifa-world-cup-2026-live-cristiano-ronaldos-campaign-begins-portugal-announce-playing-xi-1045233",
-    "time": "2026-06-17T16:12:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India clinch ODI series against Afghanistan, register 171-run victory in Lucknow",
-    "desc": "The 2nd ODI of the ongoing series between India and Afghanistan concluded with the Indian team registering a 171-run victory. The two sides met at the Ekana Stadium in Lucknow, and batting first, the hosts...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-clinch-odi-series-against-afghanistan-register-171-run-victory-in-lucknow-2026-06-17-1045232",
-    "time": "2026-06-17T15:57:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England captain ruled out of next two games in T20 World Cup 2026, ECB confirms development",
-    "desc": "England captain Nat Sciver-Brunt has been ruled out of the upcoming two matches in the Women’s T20 World Cup 2026. She has suffered a calf injury in England’s group-stage victory over Ireland in Southampton on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-captain-ruled-out-of-next-two-games-in-t20-world-cup-2026-ecb-confirms-development-2026-06-17-1045230",
-    "time": "2026-06-17T15:43:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana surpasses Harmanpreet Kaur, achieves huge feat with brilliant knock against Netherlands",
-    "desc": "India women continued their campaign at the Women’s T20 World Cup 2026. The two sides met at Headingley in Leeds, and the game began with India coming in to bat first. The side opened its...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-surpasses-harmanpreet-kaur-achieves-huge-feat-with-brilliant-knock-against-netherlands-2026-06-17-1045227",
-    "time": "2026-06-17T15:22:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma becomes 5th Indian cricketer to register major milestone in List A cricket",
-    "desc": "Former India captain Rohit Sharma became the fifth Indian cricketer to score over 14000 career runs in List A cricket. In the second ODI against Afghanistan, the veteran batter made 48 runs to register the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-becomes-5th-indian-cricketer-to-register-major-milestone-in-list-a-cricket-2026-06-17-1045223",
-    "time": "2026-06-17T14:31:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India match South Africa's legendary record following Shubman Gill, Ishan Kishan's masterclass vs Afghanistan",
-    "desc": "Indian batters produced a stunning performance in the second ODI against Afghanistan in Lucknow. With Nitish Kumar Reddy unavailable, the team management was forced to tweak the line-up, with Yashasvi Jaiswal opening with Rohit Sharma....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-match-south-africa-s-legendary-record-following-shubman-gill-ishan-kishan-s-masterclass-vs-afghanistan-2026-06-17-1045214",
-    "time": "2026-06-17T13:30:52.000Z"
   }
 ];
