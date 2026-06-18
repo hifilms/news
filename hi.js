@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shafali Verma highlights Smriti Mandhana, Harmanpreet Kaur's influence after all-round show vs Netherlands",
+    "desc": "India opener Shafali Verma delivered a standout all-round performance against the Netherlands in the T20 World Cup, helping her side maintain an unbeaten run with a commanding 95-run victory. The 22-year-old scored 55 off 38...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-highlights-smriti-mandhana-harmanpreet-kaur-s-influence-after-all-round-show-vs-netherlands-2026-06-18-1045362",
+    "time": "2026-06-18T14:57:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manika Batra dropped from Table Tennis squad for Asian Games, TTFI explains reason",
+    "desc": "Manika Batra has been left out of India's table tennis squad for the upcoming Asian Games after failing to meet the selection criteria laid down by the Table Tennis Federation of India (TTFI). Even though...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/manika-batra-dropped-from-table-tennis-squad-for-asian-games-ttfi-explains-reason-2026-06-18-1045351",
+    "time": "2026-06-18T13:11:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England announce 15-member squad ahead of historic Lord's Test vs India",
+    "desc": "England have named a 15-member squad for next month's women's Test against India. The fixture will mark the country's first women's Test match at Lord's and place several players on the verge of a landmark...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-15-member-squad-ahead-of-historic-lord-s-test-vs-india-2026-06-18-1045340",
+    "time": "2026-06-18T11:56:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "R Ashwin weighs in on Ishan Kishan-Rishabh Pant debate for India ahead of ODI World Cup 2027",
+    "desc": "The Indian team has been performing exceptionally well, and the Men in Blue look ready for the ODI World Cup 2027. The final squad is yet to be decided, and there are several stars in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-weighs-in-on-ishan-kishan-rishabh-pant-debate-for-india-ahead-of-odi-world-cup-2027-2026-06-18-1045337",
+    "time": "2026-06-18T11:46:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Vaibhav Sooryavanshi will be with his parents during Ireland, England tour? BCCI secretary explains",
+    "desc": "The Board of Control for Cricket in India (BCCI) will allow the parents of teenage cricketer Vaibhav Sooryavanshi to travel with him during India’s upcoming tour of Ireland and England in June and July. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-vaibhav-sooryavanshi-will-be-with-his-parents-during-ireland-england-tour-bcci-secretary-explains-2026-06-18-1045327",
+    "time": "2026-06-18T10:35:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Graeme Swann hails India's bench strength, names key aspect in preparation for ODI World Cup 2027",
+    "desc": "The Indian team has been in exceptional form of late; the side has begun their ODI series against Afghanistan in brilliant fashion. Having won the first two ODIs of the series, the Men in Blue...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/graeme-swann-hails-india-s-bench-strength-names-key-aspect-in-preparation-for-odi-world-cup-2027-2026-06-18-1045319",
+    "time": "2026-06-18T10:16:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shree Charani becomes third youngest Indian to achieve unique feat with four-fer against Netherlands",
     "desc": "The likes of Smriti Mandhana, Shafali Verma, and Deepti Sharma performed exceptionally well as India women registered their second straight win in the ongoing Women’s T20 World Cup 2026. Taking on the Netherlands, India managed...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-joins-piyush-chawla-in-elite-list-continues-dream-start-to-international-career-2026-06-18-1045278",
     "time": "2026-06-18T06:07:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deepti Sharma equals Jhulan Goswami's legendary record as India women continue winning run in T20 WC",
-    "desc": "The Indian women’s team has been in brilliant form in the ongoing Women’s T20 World Cup 2026. The Women in Blue kicked off their World Cup campaign with a victory against Pakistan and have followed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/deepti-sharma-equals-jhulan-goswami-s-legendary-record-as-india-women-continue-winning-run-in-t20-wc-2026-06-18-1045267",
-    "time": "2026-06-18T04:34:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer hails Arshdeep Singh after stellar performance against Afghanistan in second ODI",
-    "desc": "The Indian team put forth a brilliant performance in the second ODI of the ongoing series against Afghanistan. The two sides met at the Ekana Stadium in Lucknow on June 16, and the Indian team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-arshdeep-singh-after-stellar-performance-against-afghanistan-in-second-odi-2026-06-18-1045262",
-    "time": "2026-06-18T03:39:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo expresses frustation on social media after Portugal's disappointing 1-1 outing vs Congo",
-    "desc": "Portugal were held to a 1–1 draw by the Democratic Republic of Congo in their opening Group K fixture of the 2026 FIFA World Cup at the NRG Stadium in Houston on Wednesday. Despite dominating...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-expresses-frustation-on-social-media-after-portugal-s-disappointing-1-1-outing-vs-congo-2026-06-18-1045244",
-    "time": "2026-06-17T20:40:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Kane brace, goals from Bellingham, Rashford win it for ENG",
-    "desc": "England begin their 2026 FIFA World Cup campaign against Croatia in a heavyweight Group L opener at the AT&T Stadium in Dallas, a fixture that immediately sets the tone in what is expected to be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/england-vs-croatia-fifa-world-cup-2026-live-eng-vs-cro-latest-match-updates-harry-kane-starting-xi-commentary-luka-modric-jude-bellingham-1045243",
-    "time": "2026-06-17T19:40:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyanka Patil suffers freak injury, BCCI releases statement after being taken off stretcher",
-    "desc": "Shreyanka Patil suffered an ankle injury during India’s T20 World Cup match against the Netherlands at Headingley in Leeds, after an awkward landing while attempting to field during the Dutch innings. The incident occurred on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyanka-patil-suffers-freak-injury-bcci-releases-statement-after-being-taken-off-stretcher-2026-06-18-1045242",
-    "time": "2026-06-17T19:22:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India decimate Netherlands; Shafali Verma, Smriti Mandhana's heroic takes India on top of points table",
-    "desc": "India produced a commanding display in Headingley’s overcast conditions to defeat Netherlands by 95 runs, which was powered by a standout all-round effort from Shafali Verma and a dominant batting performance at the top of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-decimate-netherlands-shafali-verma-smriti-mandhana-s-heroic-takes-india-on-top-of-points-table-2026-06-17-1045240",
-    "time": "2026-06-17T18:02:49.000Z"
   }
 ];

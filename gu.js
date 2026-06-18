@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઇલના ભાવ ઘટવાથી ભારતમાં પેટ્રોલ-ડિઝલના ભાવ ઘટશે? સરકારનું આવ્યું પહેલું નિવેદન, જાણો",
+    "desc": "દેશના અનેક ભાગોમાં પેટ્રોલના ભાવ 102 રૂપિયાને વટાવી ગયો છે, અને ડીઝલ 95 રૂપિયા પ્રતિ લિટર વેચાઈ રહ્યું છે. આ દરમિયાન, ક્રૂડ ઓઈલના ભાવ સતત ઘટી રહ્યા છે. આ દરમિયાન, એક કેન્દ્રીય મંત્રીએ જણાવ્યું હતું કે દેશમાં હાલ સસ્તું પેટ્રોલ અને ડીઝલ ઉપલબ્ધ રહેશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-petrol-and-diesel-become-cheaper-in-india-after-crude-oil-prices-fall-union-minister-gives-update-481915 ",
+    "time": "2026-06-18T14:58:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મિશન 2034: હવે તમારું એક સબ્સ્ક્રિપ્શન ભારતને રમાડશે ફિફા વર્લ્ડ કપ! ભારતીય ફૂટબોલ માટે Zeeનો  સૌથી મોટો માસ્ટરસ્ટ્રોક",
+    "desc": "ઝીએ ભારતમાં ફૂટબોલને વિશ્વ કક્ષાના સ્તરે પહોંચાડવા માટે એક નવી પહેલની જાહેરાત કરી છે. આ યોજના હેઠળ Zee5 પ્લેટફોર્મ પર ફૂટબોલ સબ્સ્ક્રિપ્શનમાંથી ઉત્પન્ન થતી આવકનો 15% હિસ્સો એવા ટેલેન્ટ પાછળ ખર્ચ કરશે જે FIFA સાથે સહયોગમાં 2034 સુધીમાં વર્લ્ડ કપમાં ભાગ લઈ શકે. આ ઉદાત્ત પહેલનો હેતું ભારતમાં ક્રિકેટની જેમ ફૂટબોલનો વિકાસ કરવાનો અને આગળના સ્તર પર લઈ જવાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/mission-2034-now-your-one-subscription-will-take-india-to-the-fifa-world-cup-zees-biggest-masterstroke-for-indian-football-481898 ",
+    "time": "2026-06-18T14:44:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જો PhonePe પર એકાઉન્ટ હોય તો સાવધાન, નહીં તો ચૂકવવા પડી શકે છે ₹100!",
+    "desc": "જો તમારી પાસે PhonePe એકાઉન્ટ છે, તો તમારે પણ 100 ચાર્જ ચૂકવવો પડી શકે છે. ટિપસ્ટર અભિષેક યાદવે એક પોસ્ટ શેર કરી છે જેમાં તમને માહિતી આપી છે કે જેમણે લાંબા સમયથી તેમના વોલેટનો ઉપયોગ કર્યો નથી તેમની પાસેથી ચાર્જ લેવામાં આવી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/if-you-have-an-account-on-phonepe-be-careful-otherwise-you-may-have-to-pay-rs-100-481914 ",
+    "time": "2026-06-18T14:26:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રાજ્યસભા ચૂંટણીમાં મોટો ખેલ: પરિમલ નથવાણી અને JMMના બૈજનાથ રામ જીત્યા, CM હેમંત સોરેનને લાગ્યો મોટો ઝટકો!",
+    "desc": "ઝારખંડ રાજ્યસભાની બેઠકો પર ધાર્યા પ્રમાણે જ મોટો ખેલ થઈ ગયો છે. ચૂંટણીના પરિણામોમાં ઝારખંડ મુક્તિ મોરચા (JMM) ના બૈજનાથ રામ અને ભાજપ સમર્થિત પરિમલ નથવાણીએ બાજી મારી લીધી છે. સંખ્યાબળની દ્રષ્ટિએ મજબૂત દેખાતા ઇન્ડિયા ગઠબંધનમાં ગાબડું પડ્યું છે અને સીએમ હેમંત સોરેનની વ્યૂહરચના ફ્લોપ સાબિત થતાં કોંગ્રેસના પ્રણવ ઝા રેસમાંથી બહાર ફેંકાઈ ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/jharkhand-rajya-sabha-election-nathwani-jmm-baijnath-ram-win-cm-hemant-unable-481899 ",
+    "time": "2026-06-18T14:24:00.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "શું E20 પેટ્રોલના કારણે ગાડીઓના ફ્યુઅલ ટેન્કમાં ચઢી રહી છે કીડીઓ? સોશિયલ મીડિયાના દાવાઓ પર BPCLનું પહેલું નિવેદન, જાણો",
     "desc": "તાજેતરમાં, વાહનોના ઇંધણ ટાંકી પાસે કીડીઓ એકઠી થતી જોવા મળતી વિડિઓઝ અને પોસ્ટ્સ સામે આવી રહી છે. તમે સોશિયલ મીડિયા પર આ વિડિઓઝ જોયા હશે. એવો દાવો કરવામાં આવ્યો હતો કે આ E20 પેટ્રોલને કારણે થયું છે, જે શેરડીમાંથી બને છે. હવે, BPCL એ આ બાબતે પોતાનું મૌન તોડ્યું છે.",
@@ -396,15 +432,6 @@ const newsData_gu = [
     "time": "2026-06-15T09:21:53.000Z"
   },
   {
-    "cat": "Business",
-    "title": "એક ઝટકે સોનાના ભાવમાં તોતિંગ વધારો, ચાંદી પણ 8000 રૂપિયા ઉછળી, જાણો અચાનક કેમ વધી ગયા ભાવ? લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીમાં આજે ભારે વધારો જોવા મળ્યો છે. MCX અને IBJA પર આજે બંને કિમતી ધાતુઓમાં તોતિંગ વધારો જોવા મળ્યો છે. જો તમે પણ લેવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ખાસ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-increased-check-ibja-mcx-latest-rate-aaj-no-sona-chandi-no-bhav-481554 ",
-    "time": "2026-06-15T08:44:25.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "10 ગણી વધારે સ્પીડ વાળું 5.5G શું છે ? તમારા ફોન પર કેવી રીતે થશે એક્ટિવ અને તે 5Gથી કેટલું છે અલગ? જાણો A થી Z માહિતી",
     "desc": "5G પછી, 5.5G ટેકનોલોજી, જેને 5G એડવાન્સ્ડ તરીકે પણ ઓળખવામાં આવે છે, તેનું રોલઆઉટ શરૂ થઈ ગયું છે. તે વર્તમાન 5G કરતા 10 ગણી ઝડપી ગતિ પ્રદાન કરવાનો દાવો કરે છે. 5.5G શું છે અને તેને તમારા ફોન પર કેવી રીતે એક્ટિવ કરવું તે જાણીએ.",
@@ -423,15 +450,6 @@ const newsData_gu = [
     "time": "2026-06-15T06:39:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "3/20/30/40 Rule: ઘર ખરીદવાનો છે પ્લાન? પહેલા સમજો આ ફોર્મ્યુલા, બાકી EMI બની શકે છે તમારો દુશ્મન",
-    "desc": "ઘર ખરીદવું માત્ર પ્રોપર્ટી ખરીદવી નથી, પરંતુ એક મોટો નાણાકીય નિર્ણય છે. 3/20/30/40 Rule તે જણાવે છે કે તમારી આવક પ્રમાણે ઘરની કિંમત કેટલી હોવી જોઈએ, ડાઉન પેમેન્ટ કેટલું આપવું જોઈએ, હપ્તો કેટલો હોવો જોઈએ અને હોમ લોન કેટલા સમય માટે લેવી જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/home-buying-rule-3-20-30-40-rule-help-you-better-planing-481550 ",
-    "time": "2026-06-15T06:20:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "રાજ્યસભામાં બદલાવા જઈ રહ્યા છે નંબર, NDA બહુમતીની નજીક, TMCના તૂટવાથી મોટી અસર",
     "desc": "TMC (તૃણમૂલ કોંગ્રેસ)ના સાંસદોના સતત રાજીનામા બાદ, સંસદીય આંકડામાં ફેરફાર થઈ શકે છે. એવી અપેક્ષા છે કે એનડીએ હવે ઉપલા ગૃહમાં બહુમતી મેળવવાની ખૂબ નજીક છે. જો કે, જે બેઠકો પર રાજીનામા આપવામાં આવ્યા છે ત્યાં ચૂંટણીઓની જાહેરાત કરવામાં આવી નથી.",
@@ -448,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/peace-agreement-announced-between-us-and-iran-ceasefire-on-all-fronts-including-lebanon-trump-orders-lifting-of-blockade-481527 ",
     "time": "2026-06-15T02:55:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "NSE IPOની રાહ પૂરી, SEBIને 15 કે 16 જૂને કરવામાં આવશે અરજી",
-    "desc": "નેશનલ સ્ટોક એક્સચેન્જ (NSE)નો બહુપ્રતિક્ષિત IPO આવતા અઠવાડિયે એક મહત્વપૂર્ણ સીમાચિહ્ન સુધી પહોંચી શકે છે. આ બાબતથી વાકેફ સૂત્રોના જણાવ્યા અનુસાર, NSE 15 કે 16 જૂને સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઈન્ડિયા (SEBI) સમક્ષ IPO માટે પ્રારંભિક દસ્તાવેજો ફાઇલ કરે તેવી અપેક્ષા છે. SEBI તરફથી નો ઓબ્જેક્શન સર્ટિફિકેટ (NOC) મળ્યા બાદ NSE બોર્ડ ઓફ ડિરેક્ટર્સે 6 ફેબ્રુઆરીએ પ્રસ્તાવિત IPOને મંજૂરી આપી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/nse-ipo-wait-is-over-application-will-be-made-to-sebi-on-june-15-or-16-481523 ",
-    "time": "2026-06-14T17:06:26.000Z"
   },
   {
     "cat": "Politics",
@@ -520,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pm-modi-and-us-president-trump-will-meet-in-france-friends-will-meet-after-16-months-481429 ",
     "time": "2026-06-13T16:49:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સ્કાયમેટની ચોમાસા અંગે મોટી આગાહી; જાણો ગુજરાત સહિત દેશમાં ક્યા કેવો પડશે વરસાદ, શું આ વિસ્તારોમાં છે દુષ્કાળનો ભય?",
-    "desc": "દેશની ખાનગી હવામાન સંસ્થા Skymet એ 2026ના વર્ષના ચોમાસાને લઈને આગાહી કરી છે. Skymet ની આગાહી ખેડૂતો માટે ચોક્કસથી ચિંતાપ્રેરક છે. દક્ષિણ પશ્ચિમ ચોમાસામાં વરસાદ પાછલા વર્ષના ચોમાસા જેટલો નહીં હોય તેવું Skymetનું હાલ માનવું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-will-monsoon-2026-be-skymet-has-made-a-prediction-see-where-and-what-kind-of-rain-will-fall-481426 ",
-    "time": "2026-06-13T14:59:48.000Z"
   },
   {
     "cat": "World",
@@ -664,23 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/after-370-rupees-biryani-new-controversy-start-armaan-malik-trolled-for-his-comment-on-wife-tshirt-and-lower-look-481182 ",
     "time": "2026-06-11T13:06:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સેફ્ટીમાં ફેલ થઈ આ કોમ્પેક્ટ ફેમિલી કાર, Global NCAP ટેસ્ટમાં મળ્યો માત્ર 1 સ્ટાર",
-    "desc": "ભારતમાં બનતી Kia Sonet ને Global NCAP ક્રેશ ટેસ્ટમાં માત્ર 1 સ્ટાર સેફ્ટી રેટિંગ મળ્યું છે. રિપોર્ટ સામે આવ્યા બાદ ઘણા લોકોના મનમાં સવાલ ઉઠી રહ્યો છે કે શું ભારતમાં વેચાતી Sonet કેટલી સુરક્ષિત છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/kia-sonet-compact-family-car-failed-in-safety-got-only-1-star-in-global-ncap-test-481145 ",
-    "time": "2026-06-11T07:35:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધુરંધર 2માંથી હટાવવામાં આવ્યા 84ના રમખાણો પરના વિવાદાસ્પદ ડાયલોગ અને ખાલિસ્તાન એંગલ ? જાણો",
-    "desc": "આદિત્ય ધરની ફિલ્મ, ધુરંધર ધ રિવેન્જનું નવુ વર્ઝન જોયા પછી, સોશિયલ મીડિયા પર એક નવી ચર્ચા જોર પકડી રહી છે. લોકોનો દાવો છે કે 1984ના રમખાણો અને ખાલિસ્તાનનો એંગલ એક ચોક્કસ દ્રશ્યમાંથી દૂર કરવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/controversial-dialogue-on-84-riots-and-khalistan-angle-removed-from-dhurandhar-2-find-out-481063 ",
-    "time": "2026-06-10T09:33:05.000Z"
   }
 ];
