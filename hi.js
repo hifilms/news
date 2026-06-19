@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Star pacer added to India's squad for third ODI against Afghanistan; Check details",
+    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and announced the addition of star pacer Harshit Rana to India’s ODI squad for the third and final game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-pacer-added-to-india-s-squad-for-third-odi-against-afghanistan-check-details-2026-06-19-1045398",
+    "time": "2026-06-19T03:52:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mexico qualify for FIFA World Cup 2026 knockouts, see off South Korea with a thrilling 1-0 win",
+    "desc": "The FIFA World Cup 2026 has seen some brilliant games being played so far. With the tournament continuing to put forth constant entertainment for the fans, co-hosts Mexico have quickly become the first team to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mexico-qualify-for-fifa-world-cup-2026-knockouts-see-off-south-korea-with-a-thrilling-1-0-win-2026-06-19-1045397",
+    "time": "2026-06-19T03:38:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is KL Rahul's constant batting position change hurting his form? Former cricketer opines",
+    "desc": "The Indian team has performed exceptionally well in the first two ODIs of the ongoing series against Afghanistan. Having won the first two games of the series, the Indian team has won the series, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-kl-rahul-s-constant-batting-position-change-hurting-his-form-former-cricketer-opines-2026-06-19-1045389",
+    "time": "2026-06-19T02:15:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prema Rawat replaces Shreyanka Patil in India squad after latter's ankle ligament injury",
+    "desc": "India women are all set to kick off their ongoing T20 World Cup 2026 campaign by taking on South Africa. The two sides are slated to meet in Manchester on June 21, and ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prema-rawat-replaces-shreyanka-patil-in-india-squad-after-latter-s-ankle-ligament-injury-2026-06-19-1045387",
+    "time": "2026-06-19T01:44:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ben Stokes likely to return to England squad for third Test vs NZ, will be stripped of captaincy: Report",
     "desc": "Ben Stokes is expected to become available for England's third Test against New Zealand. After an investigation into a disciplinary breach reached its conclusion, Stokes is reported to be running in England colours, but will...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-highlights-smriti-mandhana-harmanpreet-kaur-s-influence-after-all-round-show-vs-netherlands-2026-06-18-1045362",
     "time": "2026-06-18T14:57:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manika Batra dropped from Table Tennis squad for Asian Games, TTFI explains reason",
-    "desc": "Manika Batra has been left out of India's table tennis squad for the upcoming Asian Games after failing to meet the selection criteria laid down by the Table Tennis Federation of India (TTFI). Even though...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/manika-batra-dropped-from-table-tennis-squad-for-asian-games-ttfi-explains-reason-2026-06-18-1045351",
-    "time": "2026-06-18T13:11:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England announce 15-member squad ahead of historic Lord's Test vs India",
-    "desc": "England have named a 15-member squad for next month's women's Test against India. The fixture will mark the country's first women's Test match at Lord's and place several players on the verge of a landmark...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-15-member-squad-ahead-of-historic-lord-s-test-vs-india-2026-06-18-1045340",
-    "time": "2026-06-18T11:56:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "R Ashwin weighs in on Ishan Kishan-Rishabh Pant debate for India ahead of ODI World Cup 2027",
-    "desc": "The Indian team has been performing exceptionally well, and the Men in Blue look ready for the ODI World Cup 2027. The final squad is yet to be decided, and there are several stars in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-weighs-in-on-ishan-kishan-rishabh-pant-debate-for-india-ahead-of-odi-world-cup-2027-2026-06-18-1045337",
-    "time": "2026-06-18T11:46:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Vaibhav Sooryavanshi will be with his parents during Ireland, England tour? BCCI secretary explains",
-    "desc": "The Board of Control for Cricket in India (BCCI) will allow the parents of teenage cricketer Vaibhav Sooryavanshi to travel with him during India’s upcoming tour of Ireland and England in June and July. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-vaibhav-sooryavanshi-will-be-with-his-parents-during-ireland-england-tour-bcci-secretary-explains-2026-06-18-1045327",
-    "time": "2026-06-18T10:35:30.000Z"
   }
 ];
