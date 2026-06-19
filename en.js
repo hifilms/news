@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "USMNT break 96-year record by securing back-to-back wins",
+    "desc": "The United States booked their place in the FIFA World Cup 2026 Round of 32 with a composed 2-0 victory over Australia in Seattle. Goals from a Cameron Burgess own goal and Alex Freeman secured a second consecutive Group D win, marking the Americans' first back-to-back men's World Cup victories since 1930 and underlining their growing tournament credentials.",
+    "img": "https://static.toiimg.com/photo/msid-131866855,imgsize-152206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/usa-vs-australia-fifa-world-cup-2026-match-result-usmnt-break-96-year-record-by-securing-back-to-back-wins/articleshow/131866852.cms",
+    "time": "2026-06-19T21:42:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nagpur NEET aspirant gets Abu Dhabi as exam centre",
+    "desc": "A Nagpur NEET aspirant received a shocking hall ticket assigning his exam centre to Abu Dhabi, over 2,500 km away, despite not possessing a passport. The National Testing Agency (NTA) assured rectification, but with the exam imminent, the family faced immense stress arranging travel. This incident follows widespread reports of exam centre changes, even for students who opted to retain their original locations, adding to the anxiety post-paper leak.",
+    "img": "https://static.toiimg.com/photo/msid-131866860,imgsize-1055937.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nagpur-neet-aspirant-gets-abu-dhabi-as-exam-centre/articleshow/131866857.cms",
+    "time": "2026-06-19T21:42:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre remains committed to Article 371 safeguards for Ladakh",
+    "desc": "Centre reaffirms commitment to granting Ladakh constitutional safeguards under Article 371 and ensuring bureaucratic accountability to elected leaders, despite reservations from regional representatives over meeting minutes. Discussions are ongoing to define the precise scope of these protections and the framework for administrative oversight, with a customized approach being developed for the region.",
+    "img": "https://static.toiimg.com/photo/msid-131866632,imgsize-1397797.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/centre-remains-committed-to-art-371-safeguards-for-ladakh/articleshow/131866628.cms",
+    "time": "2026-06-19T20:57:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "This is just trailer, picture baki hai",
+    "desc": "Maharashtra Deputy CM Eknath Shinde issued a veiled warning to Shiv Sena UBT, stating that the recent departure of six MPs is merely a prelude to further defections. He confidently asserted that his faction is growing, while Shiv Sena UBT is losing its support base. Shinde criticized the opposition's tactics and reiterated his commitment to Hindutva, claiming his party has gained significant strength since the split.",
+    "img": "https://static.toiimg.com/photo/msid-131866611,imgsize-1128668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eknath-shinde-on-rebellion-this-is-just-trailer-picture-baki-hai/articleshow/131866604.cms",
+    "time": "2026-06-19T20:50:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I wasn't even close to Salman Khan'",
+    "desc": "Punjabi singer-actor Gippy Grewal has once again opened up about the shocking firing incident outside his residence in Canada's White Rock neighbourhood, saying he was left completely baffled as he had never received any threats or warning calls before the attack. During an appearance on Shekhar Suman's chat show Shekhar Tonite, Gippy reflected on the incident and revealed that he initially had no idea why his home had been targeted.",
+    "img": "https://static.toiimg.com/photo/msid-131866592,imgsize-75544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gippy-grewal-recalls-firing-outside-his-canada-home-i-wasnt-even-close-to-salman-khan/articleshow/131866585.cms",
+    "time": "2026-06-19T20:41:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vivek Aggarwal appointed Financial Action Task Force vice-president",
+    "desc": "Currently serving as Secretary in Culture Ministry, Aggarwal’s selection is a significant development for India’s role in global financial governance and efforts to strengthen international cooperation on anti-money laundering, counter-terrorist financing and illicit financial flows",
+    "img": "https://th-i.thgim.com/public/latest-news/swbclh/article71123779.ece/alternates/LANDSCAPE_1200/VivekAgrawal.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/vivek-aggarwal-appointed-financial-action-task-force-vice-president/article71123587.ece",
+    "time": "2026-06-19T20:14:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Emotional Uddhav offers to step down as Shiv Sena (UBT) president, Eknath Shinde hints at more defections",
+    "desc": "Mr. Thackeray calls for starting ‘Operation Lotus’ in response to ‘Operation Tiger’ allegedly carried out by the Shiv Sena to lure six of its nine Lok Sabha MPs into its fold and refuted allegations his party was likely to merge with the Congress",
+    "img": "https://th-i.thgim.com/public/incoming/ksgjxr/article71123765.ece/alternates/LANDSCAPE_1200/PTI06_19_2026_000496B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/emotional-uddhav-offers-to-step-down-as-shiv-sena-ubt-president-eknath-shinde-hints-at-more-defections/article71123429.ece",
+    "time": "2026-06-19T20:00:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP worker killed in Howrah; W.B. CM promises law to seize properties of accused",
+    "desc": "West Bengal Chief Minister Suvendu Adhikari asked people not to go to the houses of people accused of corruption and electoral violence and urged them to keep faith in the police and the administration to take stringent action in accordance with the law",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/zgkj9x/article71120022.ece/alternates/LANDSCAPE_1200/35000-people%C2%A0tGFJG4OE4V.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bjp-worker-killed-in-howrah-wb-cm-promises-law-to-seize-properties-of-accused/article71123386.ece",
+    "time": "2026-06-19T19:48:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court refuses urgent hearing on plea to defer June 21 NEET-UG retest",
+    "desc": "The plea comes from 11 NEET aspirants who are not against a retest, but seek more time to prepare, given the “severe stress and anxiety” caused by the cancellation of the original exam and rumours of another paper leak",
+    "img": "https://th-i.thgim.com/public/incoming/uw310m/article71123012.ece/alternates/LANDSCAPE_1200/PTI05_21_2026_000259B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-refuses-urgent-hearing-on-plea-to-defer-june-21-neet-ug-retest/article71122332.ece",
+    "time": "2026-06-19T19:47:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Samantha Ruth Prabhu admits stardom made her ‘egoistic’",
     "desc": "Samantha Ruth Prabhu has opened up about the impact of fame on her life and career, admitting that early success made her \"egoistic\" and deeply invested in the pursuit of stardom. Reflecting on her journey, the actor said a health-related break eventually helped her reassess her priorities and gain a new perspective on life.",
@@ -198,15 +279,6 @@ const newsData_en = [
     "time": "2026-06-19T15:56:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "For I am an Indian",
-    "desc": "An Indian voice challenges pervasive stereotypes, highlighting a double standard where Western actions are excused while Indian expressions of joy, culture, and presence are criticized. The piece argues that despite contributions in technology, medicine, and education, Indians face prejudice regarding civic sense, job competition, and cultural identity. It calls for judgment based on individual actions rather than generalizations, celebrating a rich heritage and resilient spirit.",
-    "img": "https://static.toiimg.com/photo/msid-131862314,imgsize-1117129.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/for-i-am-an-indian/articleshow/131862263.cms",
-    "time": "2026-06-19T15:54:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anne Hathaway is pregnant, expecting third baby: WATCH VIDEO",
     "desc": "Anne Hathaway is expecting her third child with husband Adam Shulman, joyfully announcing the news on Instagram with a heartwarming video. The actress, already mother to sons Jonathan and Jack, shared her delight in this phase of family life, describing it as a \"wonderful time.\" Hathaway previously spoke about how motherhood profoundly transformed her perspective, making her feel more grounded and true to herself as she embraces this new chapter.",
@@ -214,33 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaway-is-pregnant-the-devil-wears-prada-actress-expecting-third-baby-with-husband-adam-shulman-watch-announcement-video/articleshow/131862196.cms",
     "time": "2026-06-19T15:46:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'This is like closing a road because there are potholes': CJP founder's dig at Centre after Telegram ban",
-    "desc": "Cockroach Janta Party founder Abhijeet Dipke slammed the Centre's Telegram ban ahead of the NEET re-exam, calling it a superficial fix. He highlighted ongoing student suicides and criticized the education system's commercialization. Dipke urged political leaders to prioritize student welfare over political gains, as Delhi Police bolstered security for an upcoming CJP protest.",
-    "img": "https://static.toiimg.com/photo/msid-131862162,imgsize-1067024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/this-is-like-closing-a-road-because-there-are-potholes-cjp-founders-dig-at-centre-after-telegram-ban/articleshow/131862153.cms",
-    "time": "2026-06-19T15:41:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Ready to resign': Uddhav's emotional offer amid MPs rebellion, but with a condition",
-    "desc": "Uddhav Thackeray projected confidence amid a fresh party rebellion, assuring Shiv Sainiks are \"fired up\" despite six Lok Sabha MPs defecting. He apologized to voters for electing lawmakers who switched sides. Thackeray dismissed merger talks with Congress and defended his leadership, highlighting electoral wins. He warned of a threat to democracy with a move towards a \"one party, no election\" system. This latest crisis follows the 2022 split.",
-    "img": "https://static.toiimg.com/photo/msid-131863148,imgsize-1862807.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-apologise-uddhav-thackeray-says-shiv-sainiks-fired-up-amid-mps-rebellion/articleshow/131862080.cms",
-    "time": "2026-06-19T15:36:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Just a trailer': Eknath Shinde warns as Uddhav Sena faces revolt 2.0",
-    "desc": "Shiv Sena (UBT)'s Lok Sabha unit appeared on the verge of a formal split on Thursday after six of its nine MPs stayed away from a parliamentary party meeting in Delhi despite the party issuing a whip. Only Arvind Sawant, Anil Desai and Rajabhau Waze attended the meeting, reaffirming their loyalty to party chief Uddhav Thackeray.",
-    "img": "https://static.toiimg.com/photo/msid-131862237,imgsize-84399.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/just-a-trailer-eknath-shinde-warns-as-uddhav-sena-faces-revolt-2-0/articleshow/131861552.cms",
-    "time": "2026-06-19T15:33:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -306,15 +351,6 @@ const newsData_en = [
     "time": "2026-06-19T14:49:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ex-DRDO scientist accused of sharing secrets with Pakistani agent to face trial",
-    "desc": "A former DRDO scientist, Pradeep Kurulkar, faces charges in an espionage case, with trial set to begin next month. Accused of sharing classified defence information with a suspected Pakistani intelligence agent, Kurulkar's plea for discharge was rejected. Proceedings will be held in-camera due to the sensitive nature of the Official Secrets Act violations.",
-    "img": "https://static.toiimg.com/photo/msid-131861436,imgsize-549221.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ex-drdo-scientist-accused-of-sharing-secrets-with-pakistani-agent-to-face-trial/articleshow/131861264.cms",
-    "time": "2026-06-19T14:40:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Portugal players 'forgot how to pass': Ronaldo's sister sparks storm with cryptic post",
     "desc": "Portugal's FIFA World Cup 2026 opener against DR Congo ended in a surprising 1-1 draw, sparking online backlash against several teammates of Cristiano Ronaldo. Fans accused them of deliberately ignoring the veteran forward, a sentiment echoed by Ronaldo's sister. Despite playing the full match, Ronaldo had limited touches, and his sister's cryptic post fueled speculation about team dynamics.",
@@ -331,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/barun-sobtis-rare-appearance-on-farah-khans-vlog-sparks-health-concern-about-fans-whats-wrong-with-him-hes-speaking-weirdly/articleshow/131861161.cms",
     "time": "2026-06-19T14:23:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NTA to conduct nationwide mock drill on June 20 ahead of NEET-UG re-examination",
-    "desc": "Ahead of the NEET-UG 2026 re-examination on June 21, the National Testing Agency (NTA) will conduct a nationwide mock drill on June 20. This measure aims to ensure a seamless process for the nearly 23 lakh candidates. The NTA is actively communicating with students, urging them to download fresh admit cards and warning against fraudulent messages.",
-    "img": "https://static.toiimg.com/photo/msid-131861164,imgsize-1263886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nta-to-conduct-nationwide-mock-drill-on-june-20-ahead-of-neet-ug-re-examination/articleshow/131861010.cms",
-    "time": "2026-06-19T14:21:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -531,15 +558,6 @@ const newsData_en = [
     "time": "2026-06-19T11:32:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Samantha Ruth Prabhu's sister-in-law Sheetal shares emotional story",
-    "desc": "Samantha Ruth Prabhu's sister-in-law, Sheetal, shared a touching late-night story about the actress's compassion. Shortly after her wedding to Raj Nidimoru, Samantha rushed to Sheetal's aid at 3 AM when she fell severely ill in Hyderabad. Despite a demanding shoot the next morning, Samantha provided comfort and care, leaving a lasting impression and embodying the spirit of 'Maa Inti Bangaram' – the gold of our home.",
-    "img": "https://static.toiimg.com/photo/msid-131857644,imgsize-124878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ive-seen-her-at-3-am-samantha-ruth-prabhus-sister-in-law-sheetal-shares-emotional-story-on-how-maa-inti-bangaram-star-rushed-to-help-her-right-after-her-wedding-to-raj-nidimoru/articleshow/131857539.cms",
-    "time": "2026-06-19T11:31:34.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India opens dumping probe into Chinese, Japanese chemical used in tyres and rubber products",
     "desc": "India has initiated an anti-dumping investigation into Resorcinol imports from China and Japan. This key chemical is vital for tyre and rubber manufacturing. The probe follows allegations that low-priced shipments are harming domestic producers. The Directorate General of Trade Remedies is conducting the investigation. If dumping is confirmed, anti-dumping duties may be recommended to ensure fair competition for Indian industries.",
@@ -664,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/will-neymar-play-in-brazil-vs-haiti-fifa-world-cup-2026-match/articleshow/131853247.cms",
     "time": "2026-06-19T08:38:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Faf du Plessis rewrites cricket history, achieves unprecedented feat at 41",
-    "desc": "Faf du Plessis has just redefined age in T20 cricket, setting a record as the oldest centurion at 41 years and 340 days. His remarkable unbeaten score of 104 propelled the Texas Super Kings to a thrilling six-wicket victory over the Seattle Orcas in the electrifying MLC 2026 season debut.",
-    "img": "https://static.toiimg.com/photo/msid-131851589,imgsize-88776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/faf-du-plessis-rewrites-cricket-history-achieves-unprecedented-feat-at-41/articleshow/131851589.cms",
-    "time": "2026-06-19T08:25:38.000Z"
   },
   {
     "cat": "Sports",
@@ -880,15 +889,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/world-music-day-2026-hyderabad-to-light-up-with-music/article71108134.ece",
     "time": "2026-06-18T05:31:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England beat Croatia 4-2 as Kane scores twice",
-    "desc": "Croatia made it ⁠2-2 in the fifth minute of time added on at the end of ‌the first half when Petar Musa was picked out by Ivan Perisic’s deft header and he blasted the ball past Pickford",
-    "img": "https://th-i.thgim.com/public/incoming/z73386/article71115542.ece/alternates/LANDSCAPE_1200/Croatia_England_WCup_Soccer_18377.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/england-beat-croatia-4-2-as-kane-scores-twice/article71115540.ece",
-    "time": "2026-06-18T02:21:53.000Z"
   },
   {
     "cat": "Business",
