@@ -81,15 +81,6 @@ const newsData_bn = [
     "time": "2026-06-17T04:15:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'আমাকে বাঁচাও...' মাদক খাইয়ে সম্মোহন-- হিংস্র শারীরিক অত্যাচার, ধর্মান্তকরণের বীভত্‍সার ভাইরাল VDO",
-    "desc": "ঘটনাটির সূত্রপাত বেশ কিছুদিন আগে। অভিযুক্তরা প্রথমে তাঁর সঙ্গে আলাপ জমায় এবং পরবর্তীতে কায়দা করে তাঁর খাবারে আর পানীয়তে মাদক মিশিয়ে তাঁকে অচেতন করে। সেই অচেতন অবস্থার সুযোগ নিয়ে তাঁর কিছু আপত্তিকর ছবি ও ভিডিয়ো তোলে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/nagpur-woman-alleges-drugging-sexual-assault-and-forced-conversion-investigation-underway_658617.html ",
-    "time": "2026-06-16T12:01:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "প্রাক্তন প্রেমিকের প্রতারণা, কাস্টিং কাউচ! শেষ হল ২২ বছরের জীবন, সঞ্চিতার মৃত্যুতে রহস্য",
     "desc": "উজ্জ্বল শর্মা নাকি সঞ্চিতার কাছ থেকে টাকা ধার নিয়েছিলেন। টাকা ফেরত চাইলে উজ্জ্বল দুর্ব্যবহার শুরু করেন। সঞ্চিতাকে মারধরের হুমকিও দেওয়া হয়েছিল বলে অভিযোগ। এই সংক্রান্ত চ্যাটের স্ক্রিনশটও নাকি রয়েছে, যেখানে আপত্তিকর ভাষা ব্যবহার করা হয়েছিল।",
@@ -97,15 +88,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tv-actor-sanchita-ugales-brother-claims-casting-agents-harassed-her-friend-alleges-ex-boyfriend-behaviour_658613.html ",
     "time": "2026-06-16T11:32:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "একদিকে ED, অন্যদিকে স্পিকারের জরুরি তলব: ১১ ঘণ্টার জেরার গেরোয় ওম বিড়লার ডাকেও পৌঁছতে পারলেন না অভিষেক",
-    "desc": "সোমবার চরম রাজনৈতিক ও আইনি নাটক দেখল দেশ। লোকসভার স্পিকার ওম বিড়লা সোমবার বিকেল ৪টেয় অভিষেক বন্দ্যোপাধ্যায়কে ডেকে পাঠালেও, ইডির জেরায় আটকে থাকায় মেল খোলারও সুযোগ পাননি তৃণমূল সাংসদ। শেষ পর্যন্ত সাংসদ কীর্তি আজাদ স্পিকারের সঙ্গে দেখা করে পরিস্থিতি সামাল দেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/abhishek-banerjee-misses-speaker-om-birla-meeting-due-to-ed-interrogation_658610.html ",
-    "time": "2026-06-16T11:03:46.000Z"
   },
   {
     "cat": "World",
@@ -189,12 +171,48 @@ const newsData_bn = [
     "time": "2026-06-07T10:17:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ছোট ছবির হাত ধরেই সিনে-মায়ার স্বপ্নপূরণ: 'জি শর্ট ফিল্ম কনটেস্ট'-এর সমাপ্তি মঞ্চে তারকার হাট, বিচারকের আসনে অনুরাগ থেকে সৃজিত",
-    "desc": "মুম্বইয়ের গ্র্যান্ড হায়াতে বসেছিল চাঁদের হাট। সফলভাবে সম্পন্ন হল প্রথম 'Zee Short Film Contest'-এর গ্র্যান্ড ফিনালে। অনুরাগ কাশ্যপ, সৃজিত মুখোপাধ্যায় থেকে শুরু করে লিজো জোসে পেলিসেরি— তরুণ পরিচালকদের পিঠ চাপড়াতে হাজির ছিলেন ইন্ডাস্ট্রির বিগ বসরা। ৫ লক্ষ টাকার পুরস্কারের পাশাপাশি মিলল 'জি স্টুডিওজ'-এর সাথে সিনেমা বানানোর সরাসরি টিকিট।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/zee-short-film-contest-grand-finale-mumbai-winners-anurag-kashyap-srijit-mukherji_656950.html ",
-    "time": "2026-06-06T13:33:07.000Z"
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
   }
 ];

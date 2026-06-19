@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "શું ACના આઉટડોર યુનિટ પર પાણી નાખવાથી ખરેખર ઘટે છે વીજળીનું બિલ? જાણો સત્ય",
+    "desc": "શું તમારુ AC કાળઝાળ ગરમીમાં તમારા રૂમને ઠંડક આપી શકતું નથી? તમે માત્ર આઉટડોર કોમ્પ્રેસર યુનિટ પર પાણીની એક ડોલ નાખીને કેવી રીતે ઠંડક વધારી શકો છો અને વીજળીનું બિલ પણ ઘટાડી શકો છો તે જાણો. અહીં સંપૂર્ણ પ્રક્રિયા અને સાવચેતીઓ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/does-pouring-water-on-the-outdoor-unit-of-an-ac-really-reduce-electricity-bills-know-the-truth-482017 ",
+    "time": "2026-06-19T14:46:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PM-VBRY: લાખો યુવા કર્મચારીઓ માટે ખુશખબર! આજે ખાતામાં આવી જશે 15000 રૂપિયા, આ રીતે ચેક કરો તમારું નામ",
+    "desc": "PM-VBRY યોજના અંતર્ગત પ્રથમ વખત નોકરી મેળવનારા લાખો કર્મચારીઓને 15,000 રૂપિયા સુધીની આર્થિક સહાય મળશે. જો તમને હાલમાં જ નોકરી મળી છે અને તમારું EPFO એકાઉન્ટ બન્યું છે, તો તમારા એકાઉન્ટમાં રૂપિયા આવશે કે નહીં. આ રીતે ચેક કરો લિસ્ટમાં તમારું નામ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/pm-vbry-scheme-good-news-for-lakhs-of-young-employees-rs-15000-will-be-deposited-in-your-account-today-check-your-name-like-this-481991 ",
+    "time": "2026-06-19T12:32:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ગુજરાત સહિત અનેક રાજ્યોમાં વરસાદ કેમ અટક્યો? સામે આવ્યું મોટું કારણ",
+    "desc": "ચોમાસુ 4 જૂને ભારતમાં સમય પહેલા પહોંચ્યા પછી અચાનક ધીમું પડી ગયું છે. વૈજ્ઞાનિકો કહે છે કે માત્ર અલ નીનો જ નહીં, પરંતુ ટાયફૂન જગ્મી, શુષ્ક પશ્ચિમી પવનો અને પ્રતિકૂળ MJO સહિત પાંચ હવામાન પ્રણાલીઓના સંયોજને પણ ચોમાસાને રોકી રાખ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-did-rain-stop-in-many-states-including-gujarat-a-major-reason-has-emerged-481983 ",
+    "time": "2026-06-19T11:22:49.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "માત્ર 6 લાખમાં ઘરે લાવો Teslaની દમદાર ઇલેક્ટ્રિક કાર Model Y! ભારતમાં લોન્ચ થયો ઓનરશિપ પ્લાન, જાણો શું છે ઓફર",
+    "desc": "ભારતમાં Teslaની કાર ખરીદવાનું સપનું જોતા લોકો માટે સારા સમાચાર આવ્યા છે. એલન મસ્કની કંપની ટેસ્લાએ એક નવો 'ઈઝ ઓફ ઓનરશિપ પ્લાન' (Ease of Ownership Plan) લોન્ચ કર્યો છે, જેના હેઠળ માત્ર 6 લાખ રૂપિયાનું ડાઉન પેમેન્ટ આપીને તમે Tesla Model Y ઘરે લાવી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/bring-home-tesla-powerful-electric-car-model-y-for-just-rs-6-lakh-ownership-plan-launched-in-india-know-what-on-offer-481982 ",
+    "time": "2026-06-19T11:20:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "શ્રદ્ધા કપૂરની આગામી ફિલ્મ ઈથાનું ટીઝર રિલીઝ થાય તે પહેલા Online લીક, તમે જોયું કે નહીં ?",
+    "desc": "શ્રદ્ધા કપૂરની આગામી ફિલ્મ ઈથા જેની રાહ ઘણા સમયથી જોવાઈ રહી છે તે ફિલ્મનું ટીઝર લીક થઈ ગયું છે. આ ટીઝર સોશિયલ મીડિયા પ્લેટફોર્મ એક્સ પર વાયરલ થયું છે. ભલે આ ટીઝર લીક થયેલું છે પણ આ ટીઝર એવું છે જેને જોયા પછી તમે પણ વાહ શ્રદ્ધા કપૂર વાહ એવું કહેશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shraddha-kapoor-upcoming-movie-eetha-leaked-teaser-goes-viral-watch-here-now-481974 ",
+    "time": "2026-06-19T11:13:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વર્લ્ડ કપ 2027મા રોહિત અને વિરાટ રમશે કે નહીં? સામે આવી BCCIની પ્રતિક્રિયા, કહ્યું.....",
+    "desc": "ભારતે છેલ્લે 2011મા વનડે વિશ્વકપ જીત્યો હતો. હવે આગામી વર્ષ એટલે કે 2027મા 50 ઓવરનો વિશ્વકપ રમાવાનો છે. તેવામાં દરેક ફેન્સના મનમાં માત્ર એક સવાલ છે કે શું રોહિત શર્મા અને વિરાટ કોહલી આ ટૂર્નામેન્ટમાં રમશે કે નહીં? હવે આ અંગે BCCI સચિવે પ્રતિક્રિયા આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-virat-and-rohit-play-in-the-2027-world-cup-bcci-reaction-revealed-481971 ",
+    "time": "2026-06-19T10:25:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ઝારખંડનો બદલો લીધો! ઓપરેશન લોટસ ઉંધુ પડ્યું, ભાજપના ધારાસભ્યોના ક્રોસ વોટિંગથી કોંગ્રેસે મારી બાજી",
     "desc": "ઓપરેશન લોટસ એ ભાજપ કરતું આવ્યું છે પણ 'રિવર્સ ઓપરેશન લોટસ' કર્ણાટકમાં થયું છે. જેની સીધી અસર જેડીએસને તો થઈ છે પણ તેની આગની અસરમાંથી ભાજપ પણ દાઝી ગયું છે. કર્ણાટકમાં એવો ખેલ પડી ગયો છે ભાજપના ધારાસભ્યોએ કોંગ્રેસ માટે વોટિંગ કર્યું છે. કર્ણાટક MLC ચૂંટણીમાં ભાજપ અને જેડીએસ (JDS)ના ધારાસભ્યોના ક્રોસ વોટિંગના કારણે કોંગ્રેસ પાંચ બેઠકો જીતી ગઈ છે.",
@@ -333,15 +387,6 @@ const newsData_gu = [
     "time": "2026-06-17T06:55:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બીજી વનડેમાં બદલાઈ જશે ટીમ ઈન્ડિયાની પ્લેઈંગ-11, ગંભીર અને ગિલ આ બે ખેલાડીઓને આપશે તક ?",
-    "desc": "હેડ કોચ ગૌતમ ગંભીર અને શુભમન ગિલ લખનૌમાં બીજી વનડેમાં યુવા ફાસ્ટ બોલર પ્રિન્સ યાદવને તક આપવાનું વિચારી શકે છે. પ્રિન્સ પાસે રમવાની મજબૂત તક છે, કારણ કે તેને IPL દરમિયાન આ સ્થળે રમવાનો અનુભવ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-afg-2nd-odi-team-india-predicted-playing-xi-prince-yadav-kuldeep-yadav-481769 ",
-    "time": "2026-06-17T06:32:19.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "NEET Re-Exam 2026: ટેલીગ્રામ થયું બ્લોક પરંતુ WhatsApp કેમ નહીં? આ છે કારણ",
     "desc": "21 જૂને NEET Re Exam 2026 ની પરીક્ષા પહેલા ટેલીગ્રામ બ્લોક થઈ ગયું, પરંતુ વોટ્સએપની સાથે એવું નથી થયું જેનાથી લોકોના મનમાં સવાલ ઉઠવા લાગ્યા છે. આજે અમે તમને જણાવીશું કે કેમ ટેલીગ્રામને અસ્થાયી રૂપથી બ્લોક કરવામાં આવ્યું છે, તેની પાછળ ક્યા કારણ છે?",
@@ -376,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/massive-jolt-for-uddhav-thackeray-6-out-of-9-mps-likely-to-jump-ship-ahead-of-shiv-sena-foundation-day-481714 ",
     "time": "2026-06-16T15:18:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "દૌલતનું રમખાણ: વૉરેન બફેટની લાઈફ ટાઈમ કમાણીને આ ખરબપતિએ ૨૪ કલાકમાં ધોઈ નાખી! 156 દેશો કરતાં વધારે છે રૂપિયા",
-    "desc": "તમે બિલિયોનર હવે ભૂલી જાઓ કારણ કે દુનિયામાં એક વ્યક્તિ હવે અરબ પતિ નહીં પણ ખરબ પતિ છે. જેની 24 કલાકમાં એટલી સંપત્તિ વધી છે કે વૉરેન બફેટની આખી જિંદગીની કુલ કમાણી કરતાં પણ ઘણી વધારે છે.... હા અમે વાત કરી રહ્યાં છે. એલન મસ્કની જેની કુલ નેટવર્થ વધીને ૧.૨૭ ટ્રિલિયન ડોલર (૧.૨૭ લાખ કરોડ ડોલર) પર પહોંચી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/unbelievable-surge-elon-musk-adds-worth-of-warren-buffett-entire-fortune-to-his-wealth-in-a-single-day-481695 ",
-    "time": "2026-06-16T12:41:43.000Z"
   },
   {
     "cat": "World",
@@ -540,15 +576,6 @@ const newsData_gu = [
     "time": "2026-06-14T16:49:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મમતા બેનર્જીના 22 બળવાખોર સાંસદો NCPમાં જોડાયા, કહ્યું: કોર્ટે નક્કી કરશે કોણ છે અસલી TMC",
-    "desc": "મમતા બેનર્જી સામે બળવો કરીને નવો જૂથ બનાવનારા બાવીસ ટીએમસી સાંસદો નેશનાલિસ્ટ સિટીઝન્સ પાર્ટી (NCP)માં જોડાયા છે. સુદીપ બંદોપાધ્યાયે જણાવ્યું હતું કે તેઓ નેશનાલિસ્ટ સિટીઝન્સ પાર્ટીમાં જોડાયા છે. કોર્ટ નક્કી કરશે કે વાસ્તવિક ટીએમસી કોણ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mamata-banerjees-22-rebel-mps-join-ncp-said-court-will-decide-who-is-the-real-tmc-481519 ",
-    "time": "2026-06-14T16:08:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "OTT પર આવી નવી હોરર ફિલ્મ, નબળા મનના લોકોએ આ ફિલ્મ ન જોવી, ડરામણી બાળકી મગજમાં ઘર કરી જશે",
     "desc": "હોરર ફિલ્મોના જોવાના શોખીનો માટે ઓટીટી પર સૌથી ડરામણી ફિલ્મ રિલીઝ થઈ ચુકી છે. આ ફિલ્મના દરેક સીનમાં તમારા ધબકારા વધી જશે. આ ફિલ્મ જોયા પછી શક્ય છે કે એક રાત તમે શાંતિથી ઊંઘી પણ ન શકો. એટલે આ ફિલ્મ પોતાના રિસ્ક પર જોવી.",
@@ -639,15 +666,6 @@ const newsData_gu = [
     "time": "2026-06-12T11:33:08.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "પેટ્રોલમાં વધી રહી છે ઇથેનોલની માત્રા! E22, E25, E30 ફ્યુઅલથી માઇલેજ ઘટશે કે થશે ફાયદો? જાણો",
-    "desc": "સરકારે E22, E25, E27 અને E30 જેવા નવા ઇથેનોલ-પેટ્રોલ બ્લેન્ડ પર એક્સાઇઝ ડ્યુટી શૂન્ય કરી દીધી છે. E20 પેટ્રોલ દેશભરમાં પહેલાથી જ લાગુ થઈ ચૂક્યું છે, પરંતુ શું વધારે ઇથેનોલવાળું ફ્યુઅલ તમારી કાર કે બાઇકના માઇલેજ અને એન્જિન પર અસર કરી શકે છે? જાણો E20 થી E30 સુધીના ફ્યુઅલની પૂરી કહાની.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/ethanol-content-in-petrol-is-rising-will-e22-e25-e30-fuel-reduce-mileage-or-will-it-be-beneficial-know-481284 ",
-    "time": "2026-06-12T11:27:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રિયાલિટી શો લોક અપમાંથી કંગનાનું પત્તું સાફ, નવા જેલર બન્યા રિતેશ- ફરાહ, OTT પ્લેટફોર્મ પણ બદલી ગયું",
     "desc": "રિયાલિટી શો લોક અપની બીજી સીઝન શરુ થવા જઈ રહી છે. આ વખતે શોને કંગના કનૌત હોસ્ટ નથી કરવાની. શોને બે નવા હોસ્ટ મળ્યા છે. આ શો ક્યારથી શરુ થશે અને કયા ઓટીટી પ્લેટફોર્મ પર જોઈ શકાશે ચાલો તમને જણાવીએ.",
@@ -682,14 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/welcome-to-the-jungle-trailer-30-stars-in-a-film-bollywood-big-budget-film-of-the-year-481191 ",
     "time": "2026-06-11T14:25:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "370 ની બિરયાની પછી વધુ એક વિવાદ શરુ, અરમાન મલિકે પત્નીઓ માટે કરેલી કોમેન્ટ પર ભડક્યા યુઝર્સ, જાણો શું છે મામલો",
-    "desc": "હજી તો લોકોનો ગુસ્સો 370 રુપિયાની બિરયાનીવાળી વાત પર શાંત નથી થયો ત્યાં તો યુટ્યુબર અરમાન મલિકે વધુ એક વિવાદાસ્પદ વાત કરી અને આ વાત પર પણ લોકો તીખી પ્રતિક્રિયા આપી રહ્યા છે. આ વાત પછી યુટ્યુબર અરમાન મલિકને લોકોએ ખરાબ રીતે ટ્રોલ કર્યો છે. ખાસ કરીને મહિલાઓએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/after-370-rupees-biryani-new-controversy-start-armaan-malik-trolled-for-his-comment-on-wife-tshirt-and-lower-look-481182 ",
-    "time": "2026-06-11T13:06:00.000Z"
   }
 ];
