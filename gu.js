@@ -1,12 +1,93 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ઝારખંડનો બદલો લીધો! ઓપરેશન લોટસ ઉંધુ પડ્યું, ભાજપના ધારાસભ્યોના ક્રોસ વોટિંગથી કોંગ્રેસે મારી બાજી",
+    "desc": "ઓપરેશન લોટસ એ ભાજપ કરતું આવ્યું છે પણ 'રિવર્સ ઓપરેશન લોટસ' કર્ણાટકમાં થયું છે. જેની સીધી અસર જેડીએસને તો થઈ છે પણ તેની આગની અસરમાંથી ભાજપ પણ દાઝી ગયું છે. કર્ણાટકમાં એવો ખેલ પડી ગયો છે ભાજપના ધારાસભ્યોએ કોંગ્રેસ માટે વોટિંગ કર્યું છે. કર્ણાટક MLC ચૂંટણીમાં ભાજપ અને જેડીએસ (JDS)ના ધારાસભ્યોના ક્રોસ વોટિંગના કારણે કોંગ્રેસ પાંચ બેઠકો જીતી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/karnataka-mlc-election-congress-wins-battle-due-to-cross-voting-of-bjp-jds-mlas-481970 ",
+    "time": "2026-06-19T10:19:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "&amp;#039;શાંતિ સમજૂતિ&amp;#039; પર સંકટના વાદળ! ઈઝરાયેલે લેબનોન પર કર્યો હુમલો, 16 લોકોના જીવ ગયા",
+    "desc": "એકબાજુ આખી દુનિયા ઈરાન અને અમેરિકા વચ્ચે થયેલા એમઓયુ અને તેની અસરો પર નજર જમાવીને બેઠી છે ત્યારે બીજી બીજુ ઈઝરાયેલે લેબનોન પર ફરીથી હુમલો કર્યો છે. જેમાં ઓછામાં ઓછા 16 લોકોના મોત થયા છે. દુનિયાને હવે શાંતિ સમજૂતિ તૂટવાનો ભય પણ સતાવી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/israel-launch-fresh-strikes-on-lebanon-16-people-died-what-about-iran-us-peace-deal-481968 ",
+    "time": "2026-06-19T09:57:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "56મા જન્મદિવસે રાહુલ ગાંધીની સંપત્તિનો ખુલાસો! શેરબજારમાં આ કંપનીઓમાં કર્યું છે કરોડો રૂપિયાનું રોકાણ, જાણીને તમે ચોંકી જશો",
+    "desc": "રાહુલ ગાંધીનો સ્ટોક પોર્ટફોલિયો ખૂબ જ વૈવિધ્યસભર માનવામાં આવે છે. તેઓ 24 લિસ્ટેડ કંપનીઓમાં શેર ધરાવે છે, જેની કુલ કિંમત આશરે ₹4.33 કરોડ છે. આ કંપનીઓમાં પિડિલાઇટ ઇન્ડસ્ટ્રીઝ, બજાજ ફાઇનાન્સ, નેસ્લે ઇન્ડિયા, એશિયન પેઇન્ટ્સ અને ટાઇટન જેવી મોટી કંપનીઓનો સમાવેશ થાય છે. તેમના પોર્ટફોલિયોમાં હિન્દુસ્તાન યુનિલિવર, ICICI બેંક, ઇન્ફોસિસ, ITC, ટાટા કન્સલ્ટન્સી સર્વિસીસ અને LTI માઇન્ડટ્રી જેવા મોટા નામોનો પણ સમાવેશ થાય છે. આ સ્પષ્ટપણે દર્શાવે છે કે તેમણે કન્ઝ્યુમર ગુડ્સ, બેંકિંગ, IT અને કેમિકલ ક્ષેત્રોમાં મજબૂત કંપનીઓમાં રોકાણ કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/rahul-gandhi-56th-birthday-he-has-invested-crores-of-rupees-in-these-companies-in-the-stock-market-481964 ",
+    "time": "2026-06-19T09:13:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કોકટેલ 2 ફિલ્મ જોવાનું વિચારી રહ્યો છો ? ટિકિટ બુક કરાવતાં પહેલા જાણી લો કેવી છે ફિલ્મ",
+    "desc": "આજે શાહિદ કપૂર, ક્રિતી સેનને અને રશ્મિકા મંદાનાની ફિલ્મ કોકટેલ 2 રિલીઝ થઈ ચુકી છે. આ ફિલ્મ જોઈ ચુકેલા લોકો સોશિયલ મીડિયા પર પોતાના વ્યુ શેર કરવા લાગ્યા છે. જો તમે પણ આ ફિલ્મ જોવા જવાનું વિચારી રહ્યા છો તો ટિકિટ બુક કરતાં પહેલા ફિલ્મ કેવી છે તેના વિશે જાણી લો જેથી પસ્તાવાનો વારો ન આવે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/cocktail-2-movie-review-in-gujarati-cocktail-2-public-social-media-reaction-481961 ",
+    "time": "2026-06-19T08:57:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હોર્મુઝ ખુલતા જ 3 મહિનાથી ફસાયેલું LNG ટેન્કર &amp;#039;દિશા&amp;#039; ગુજરાતના દહેજ પહોંચ્યું, ટળશે ગેસ સંકટ!",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે એમઓયુ સાઈન થઈ જતા હોર્મુઝ આખરે ખુલ્યું અને ભારતનું જહાજ દિશા જે કતારથી એલએનજી લઈને નીકળેલું અને ત્રણ મહિનાથી હોર્મુઝમાં ફસાયેલું હતું તે આખરે ગુજરાતના દહેજ પહોંચી ગયું છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-news-lng-tanker-disha-reaches-dahej-port-gujarat-via-strait-of-hormuz-481957 ",
+    "time": "2026-06-19T08:29:36.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ઈરાન-અમેરિકા શાંત પડતા ક્રૂડ ઓઈલ ધડામ, સવારે જાહેર થયા પેટ્રોલ-ડીઝલના નવા ભાવ",
     "desc": "ઓઈલ માર્કેટિંગ કંપનીઓ રોજ સવારે 6 વાગે પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરે છે. આજે પણ કંપનીઓએ ભાવ જાહેર કર્યા. ક્રૂડ ઓઈલના ભાવ ઘટીને પ્રતિ બેરલ 79 ડોલર આસપાસ પહોંચી ગયા. તો શું પેટ્રોલ અને ડીઝલના ભાવમાં પણ ઘટાડો જોવા મળ્યો? આ ઉપરાંત કેન્દ્રીય મંત્રી સુરેશ ગોપીએ પેટ્રોલ-ડીઝલના ભાવ મુદ્દે એક મોટું નિવેદન આપ્યું એ પણ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/crude-oil-price-fallen-did-petrol-diesel-price-reduce-or-not-also-check-minister-suresh-gopi-statement-481921 ",
-    "time": "2026-06-19T03:21:42.000Z"
+    "time": "2026-06-19T08:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગણતરીના કલાકોમાં સોનું 5000 અને ચાંદી 16000 રૂપિયા સસ્તા થયા, ખરીદવા માટે સુવર્ણ તક? જાણો કેરેટ પ્રમાણે આજનો ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે પણ ભારે કડાકાનો માહોલ જોવા મળી રહ્યો છે. MCX પર બજાર ખુલ્યાના બે કલાકમાં સોનાનો ભાવ 5000 અને ચાંદી 8000 રૂપિયા તૂટેલી જોવા મળી જ્યારે IBJAના પણ ખુલતા ભાવમાં 3000 અને ચાંદી 9000 રૂપિયા જેટલી તૂટી. આ સાથે છેલ્લા બે દિવસમાં સોનું 5000 અને ચાંદી 16000 રૂપિયા જેટલી ગગડી છે. જાણો અચાનક કડાકાના કારણ અને આજના લેટેસ્ટ ભાવ વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-drop-in-gold-and-silver-prices-know-the-price-of-gold-by-karat-aaj-no-sona-no-bhav-481948 ",
+    "time": "2026-06-19T07:38:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કાલે આવશે ખેડૂતોના ખાતામાં PM કિસાનનો 23મો હપ્તો, 2 લાખ ખેડૂતોના નામ કપાયા? આ રીતે કરો સ્ટેટસ ચેક",
+    "desc": "દેશના ખેડૂતો કાગડોળે કિસાન સન્માન નિધિના 23માં હપ્તાની રાહ જોઈ રહ્યા છે ત્યારે આ 23માં હપ્તા વિશે મોટા સમાચાર આવ્યા છે. પીએમ નરેન્દ્ર મોદી આવતી કાલે કરોડો ખેડૂતોના ખાતામાં પીએમ મોદી પશ્ચિમ બંગાળથી હપ્તાના પૈસા ટ્રાન્સફર કરશે. જાણો કોના ખાતામાં આ પૈસા આવશે અને કોના ખાતામાં નહીં આવે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-kisan-samman-nidhi-23rd-installment-latest-update-check-how-to-check-status-481939 ",
+    "time": "2026-06-19T06:16:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફૂટબોલ વર્લ્ડ કપમાં ઐતિહાસિક હેટ્રિક કર્યા બાદ કેમ રડી પડ્યા હતા મેસ્સી? દિલમાં હતો આ ડર!",
+    "desc": "ફૂટબોલના મહાકુંભમાં અલ્જીરિયા સામે ઐતિહાસિક હૈટ્રિક મારનારા મહાન ફૂટબોલર મેસ્સી ગોલ કર્યા બાદ અચાનક ભાવુક થઈ ગયા હતા ત્યારે તે સમયે કારણ સામે નહતું આવ્યું પરંતુ હવે જાણવા મળ્યું છે કે મેસ્સીના પિતા હોસ્પિટલમાં દાખલ હતા. જાણો સંપૂર્ણ વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-argentina-vs-algeria-messi-cry-father-jorge-messi-health-statement-of-family-481933 ",
+    "time": "2026-06-19T05:03:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કેનેડા-કતર મેચમાં બબાલ... ધક્કા-મુક્કી અને મારપીટની સ્થિતિ, મેદાન બની ગયું &amp;#039;અખાડો&amp;#039;",
+    "desc": "ફુટબોલ વિશ્વકપમાં એક તરફ ગોલનો વરસાદ થઈ રહ્યો છે, જ્યારે બીજીતરફ વિવાદ પણ જોવા મળી રહ્યો છે. કેનેડાએ કતરને 6-0થી હરાવ્યું હતું. પરંતુ આ મેચમાં જોરદાર વિવાદ જોવા મળ્યો હતો. બંને ટીમના ખેલાડીઓ બેકાબૂ થઈ ગયા અને સ્થિતિ મારપીટ સુધી પહોંચી ગઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/world-cup-brawl-canada-qatar-match-erupts-into-ugly-fight-after-brutal-tackle-and-6-0-rout-481932 ",
+    "time": "2026-06-19T04:57:25.000Z"
   },
   {
     "cat": "Business",
@@ -261,15 +342,6 @@ const newsData_gu = [
     "time": "2026-06-17T06:32:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "&amp;#039;1893&amp;#039; લખેલી જર્સી પહેરીને લિયોનલ મેસીની ટીમ મેદાનમાં ઉતરી, કારણ છે એકદમ રસપ્રદ",
-    "desc": "ફૂટબોલ વર્લ્ડ કપની ડિફેન્ડિંગ ચેમ્પિયન ટીમ આર્જેન્ટીનાએ અલ્જેરિયા સામેની મેચમાં શાનદાર પ્રદર્શન કરતા પોતાની પ્રથમ મેચ જીતી લીધી. મેસીએ ઈતિહાસ રચ્યો. આ બધા વચ્ચે બધાની નજર ટીમની જર્સી ઉપર પણ પડી જેના પર 1893 લખેલું જોવા મળ્યું? આ નંબર લખવા પાછળનું કારણ શું? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-arg-vs-alg-why-1893-written-on-argentina-team-jersey-481759 ",
-    "time": "2026-06-17T05:12:09.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "NEET Re-Exam 2026: ટેલીગ્રામ થયું બ્લોક પરંતુ WhatsApp કેમ નહીં? આ છે કારણ",
     "desc": "21 જૂને NEET Re Exam 2026 ની પરીક્ષા પહેલા ટેલીગ્રામ બ્લોક થઈ ગયું, પરંતુ વોટ્સએપની સાથે એવું નથી થયું જેનાથી લોકોના મનમાં સવાલ ઉઠવા લાગ્યા છે. આજે અમે તમને જણાવીશું કે કેમ ટેલીગ્રામને અસ્થાયી રૂપથી બ્લોક કરવામાં આવ્યું છે, તેની પાછળ ક્યા કારણ છે?",
@@ -277,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/neet-re-exam-2026-telegram-blocked-but-why-not-whatsapp-here-is-the-reason-481761 ",
     "time": "2026-06-17T05:10:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મેદાન પર પગ મૂકતાં જ મેસ્સીએ બનાવ્યો મોટો રેકોર્ડ, રોનાલ્ડોની ખાસ ક્લબમાં થયો સામેલ, પ્રથમ વખત વર્લ્ડ કપમાં હેટ્રિક",
-    "desc": "કેન્સાસમાં ફૂટબોલ વર્લ્ડ કપ 2026ની પોતાની પહેલી મેચમાં અલ્જેરિયા સામે મેદાનમાં ઉતરતા આર્જેન્ટિનાના દિગ્ગજ ફૂટબોલર લિયોનેલ મેસ્સીએ બુધવારે એક મોટો રેકોર્ડ બનાવ્યો. લિયોનેલ મેસ્સી 200 આંતરરાષ્ટ્રીય મેચ રમનાર વિશ્વનો પ્રથમ ફૂટબોલર બન્યો છે. આ સાથે તેણે વર્લ્ડ કપમાં પ્રથમ વખત ગોલની હેટ્રિક પણ ફટકારી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-lionel-messi-hat-trick-argentina-vs-algeria-match-481740 ",
-    "time": "2026-06-17T04:37:11.000Z"
   },
   {
     "cat": "Politics",
@@ -333,15 +396,6 @@ const newsData_gu = [
     "time": "2026-06-16T12:24:53.000Z"
   },
   {
-    "cat": "Business",
-    "title": "LPG, પેટ્રોલ-ડીઝલથી લઈને સ્ટોક માર્કેટ સુધી... ઈરાન-અમેરિકા ડીલથી ભારતને થશે 10 મોટા ફાયદા",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધનો અંત આવ્યો છે, આ સાથે જ દુનિયાને મોટી રાહત મળી છે, તો ભારતને પણ આ ડીલથી મોટો ફાયદો થશે. ત્યારે ઈરાન-અમેરિકા ડીલથી ભારતને કયા ફાયદા થવાના છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/us-iran-peace-deal-impact-on-india-lpg-petrol-diesel-economy-481684 ",
-    "time": "2026-06-16T11:44:11.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "વહેલી સવારે પેટ્રોલ ભરાવો તો વધારે આવે, વર્ષો જૂના આ આ દાવામાં કેટલું સત્ય ?",
     "desc": "શું ખરેખર સવારે વહેલા ટાંકી ભરાવાથી પેટ્રોલ વધારે આવે ? વર્ષોથી ચાલી આવતી આ થિયરી પાછળનું સત્ય આખરે સામે આવ્યું છે. આ લેખમાં જાણીશું કે, શું પેટ્રોલ ભરાવવાનો પણ કોઈ સમય છે કે પછી આ એક ભ્રમ છે.",
@@ -367,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bigg-boss-20-update-rapper-santy-sharma-may-join-bigg-boss-20-as-contestant-481650 ",
     "time": "2026-06-16T08:00:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભારે તેજી બાદ આજે સોનાના ભાવ ઘટી ગયા, ચાંદી પણ 4000 રૂપિયા સસ્તી, જાણો આજનો લેટેસ્ટ રેટ",
-    "desc": "જ્યારે પણ વૈશ્વિક અનિશ્ચિતતાઓ હોય, ભારે ઉથલપાથલનો માહોલ જોવા મળતો હોય ત્યારે કિમતી ધાતુઓ સોનું અને ચાંદી ઉછાળા મારતા હોય છે. પરંતુ આ વખતે મિડલ ઈસ્ટ સંકટમાં સોનું અને ચાંદી ભારે ઉતાર ચડાવમાં જોવા મળ્યા છે. કાલે ખુબ તેજી બાદ આજે સોનાના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-fell-today-silver-also-became-cheaper-by-rs-4000-check-ibja-mcx-rates-aaj-no-sona-no-bhav-481649 ",
-    "time": "2026-06-16T07:52:08.000Z"
   },
   {
     "cat": "Tech",
@@ -504,15 +549,6 @@ const newsData_gu = [
     "time": "2026-06-14T16:08:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રૂવાડા ઉભા કરી દેનારી ઘટના: આગની ખોટી અફવાને કારણે ટ્રેનમાંથી નીચે કૂદેલા મુસાફરોને બીજી ટ્રેને કચડ્યા, મચી ચીસાચીસ",
-    "desc": "એક દુ:ખદ ટ્રેન અકસ્માત થયો છે. પાટાલકોટ એક્સપ્રેસની ટક્કરથી ચારથી વધુ લોકોના મોત થયા છે. એવું કહેવામાં આવી રહ્યું છે કે ઇન્ટરસિટી ટ્રેનમાંથી ઉતરી રહેલા મુસાફરો, એક અફવાને કારણે, સામેના ટ્રેક પર ઉતરી ગયા, જ્યાં આ અકસ્માત થયો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/major-accident-passengers-jumped-from-the-train-due-to-rumours-of-fire-several-people-died-after-being-hit-by-another-train-481517 ",
-    "time": "2026-06-14T14:19:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "OTT પર આવી નવી હોરર ફિલ્મ, નબળા મનના લોકોએ આ ફિલ્મ ન જોવી, ડરામણી બાળકી મગજમાં ઘર કરી જશે",
     "desc": "હોરર ફિલ્મોના જોવાના શોખીનો માટે ઓટીટી પર સૌથી ડરામણી ફિલ્મ રિલીઝ થઈ ચુકી છે. આ ફિલ્મના દરેક સીનમાં તમારા ધબકારા વધી જશે. આ ફિલ્મ જોયા પછી શક્ય છે કે એક રાત તમે શાંતિથી ઊંઘી પણ ન શકો. એટલે આ ફિલ્મ પોતાના રિસ્ક પર જોવી.",
@@ -538,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sushant-singh-rajput-death-anniversary-what-happen-on-14-june-sushant-singh-rajput-death-case-mystery-481445 ",
     "time": "2026-06-14T05:14:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM મોદી અને US રાષ્ટ્રપતિ ટ્રમ્પની ફ્રાન્સમાં થશે મુલાકાત, 16 મહિના પછી મળશે &amp;#039;મિત્રો&amp;#039;",
-    "desc": "ફ્રાન્સમાં G7 સમિટ દરમિયાન વડા પ્રધાન નરેન્દ્ર મોદી અને અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ મળશે. અમેરિકન અધિકારીઓએ આ મુલાકાતની પુષ્ટિ કરી છે. 16 મહિના પછી બંને નેતાઓ વચ્ચે આ પહેલી મુલાકાત હશે. છેલ્લી મુલાકાત 13 ફેબ્રુઆરી, 2025ના રોજ થઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-and-us-president-trump-will-meet-in-france-friends-will-meet-after-16-months-481429 ",
-    "time": "2026-06-13T16:49:36.000Z"
   },
   {
     "cat": "World",
@@ -637,24 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shah-rukh-khan-film-chalte-chalte-broke-rani-mukerji-aishwarya-rai-friendship-481269 ",
     "time": "2026-06-12T09:56:04.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "માર્કેટમાં આવ્યો 8,000mAh બેટરીવાળો બાહુબલી ફોન! Tecnoએ લોન્ચ કર્યો અનોખી લાઇટિંગવાળો સ્માર્ટફોન",
-    "desc": "Tecnoએ ભારતમાં પોતાનો દમદાર સ્માર્ટફોન Tecno POVA 8 લોન્ચ કરી દીધો છે. આ ફોનમાં 8,000mAhની વિશાળ બેટરી, પાછળની તરફ અનોખી ALIVE Matrix લાઇટિંગ અને ટ્રિપલ-ચિપસેટ કનેક્ટિવિટી આપવામાં આવી છે. જાણો આ ધાંસુ ફોનના તમામ ફીચર્સ અને વેચાણની તારીખ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/tecno-pova-8-launched-in-india-with-8000mah-battery-alive-matrix-lighting-and-triple-chipset-connectivity-481252 ",
-    "time": "2026-06-12T06:52:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટ્રમ્પનો મોટો દાવો-આ વીકેન્ડ સુધીમાં ઈરાન સાથે સમજૂતી થઈ જશે, ઈરાને દાવાનો છેદ ઉડાવ્યો!",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ફરીથી ઈરાન સાથેના તણાવ અને પીસ ડીલ પર મોટો દાવો કર્યો છે. તેમના દાવા મુજબ પીસ ડીલ બસ થવાની તૈયારીમાં છે અને આ વખતે યુરોપમાં થઈ શકે છે. જો કે બીજી બાજુ ઈરાને આ દાવાની મજાક ઉડાવી અને તેને માત્ર અટકળો ગણાવી દીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-big-claim-on-peace-deal-with-iran-481241 ",
-    "time": "2026-06-12T05:07:26.000Z"
   },
   {
     "cat": "Entertainment",
