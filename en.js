@@ -1,21 +1,120 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Supreme Court asks tribunal to speed up advocate’s appeal in SIR row",
-    "desc": "The Bench remarked that a mechanism comprising former High Court judges had already been put in place to adjudicate disputes arising out of deletions from the electoral rolls and said the petitioner ought to pursue his remedy before the concerned forum",
-    "img": "https://th-i.thgim.com/public/incoming/fy9aew/article70621377.ece/alternates/LANDSCAPE_1200/INDEX_SUPREME_COURT_02_08_7.jpg",
+    "cat": "Entertainment",
+    "title": "Samantha Ruth Prabhu admits stardom made her ‘egoistic’",
+    "desc": "Samantha Ruth Prabhu has opened up about the impact of fame on her life and career, admitting that early success made her \"egoistic\" and deeply invested in the pursuit of stardom. Reflecting on her journey, the actor said a health-related break eventually helped her reassess her priorities and gain a new perspective on life.",
+    "img": "https://static.toiimg.com/photo/msid-131866285,imgsize-66336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhu-admits-stardom-made-her-egoistic-says-health-break-changed-her-outlook-on-life-you-refuse-to-see-the-end/articleshow/131866278.cms",
+    "time": "2026-06-19T19:28:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra misses podium as Pathirage wins Doha Diamond League title",
+    "desc": "Neeraj Chopra made a strong return to competition at the Doha Diamond League, securing a fourth-place finish with a season-best throw of 85.69 meters. Despite missing a podium spot after an injury layoff, the Olympic champion's performance comfortably met the Commonwealth Games qualification standard. Sri Lanka's Rumesh Tharanga Pathirage clinched the victory with an impressive 88.68 meters, highlighting a competitive field.",
+    "img": "https://static.toiimg.com/photo/msid-131866224,imgsize-87698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/neeraj-chopra-misses-podium-as-rumesh-pathirage-wins-doha-diamond-league-title/articleshow/131866237.cms",
+    "time": "2026-06-19T19:18:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hot-seat shuffle: Alonso, Iraola, Maresca sign up for big-club roulette",
+    "desc": "Chelsea, Liverpool and Manchester City will have new men in charge next season — managers with interconnected destinies dealing with the pressure of expectations common at top clubs. What do they bring to the job and what challenges do they face?",
+    "img": "https://th-i.thgim.com/public/incoming/wk2m2u/article71123727.ece/alternates/LANDSCAPE_1200/GettyImages-2252618712.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-asks-tribunal-to-speed-up-advocates-appeal-in-sir-row/article71121754.ece",
-    "time": "2026-06-19T17:14:42.000Z"
+    "url": "https://www.thehindu.com/sport/football/xabi-alonso-andoni-iraola-enzo-maresca-premier-league-managerial-challenges/article71123735.ece",
+    "time": "2026-06-19T19:16:22.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Desertions, resignations and arrests of Trinamool Congress leaders continue in West Bengal",
-    "desc": "Jyoti Priya Mallick, former Minister in Trinamool government resigned from the party, Gautam Deb quit as mayor of Siliguri Municipal Corporation and former Trinamool MLA Ramendu Sinharoy was arrested by West Bengal Police in Belagavi",
-    "img": "https://th-i.thgim.com/public/news/national/trd4nz/article71121426.ece/alternates/LANDSCAPE_1200/jyoti%20priya%20mallick%20tmc.png",
+    "title": "Indian captain of sanctioned Russian shadow fleet tanker charged in UK court; family in U’khand appeals for safe return",
+    "desc": "An Indian captain, Ajay Pant, has been arrested in the UK and charged with breaching sanctions after his Russian oil tanker was intercepted in the English Channel. The vessel, en route to India from Russia, was found to be stateless. Pant's family in Uttarakhand has appealed to the Indian government for his safe return, while authorities confirm consular access has been granted.",
+    "img": "https://static.toiimg.com/photo/msid-131865892,imgsize-1681108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indian-captain-of-sanctioned-russian-shadow-fleet-tanker-charged-in-uk-court-family-in-ukhand-appeals-for-safe-return/articleshow/131865828.cms",
+    "time": "2026-06-19T18:54:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nicholls and Rachin power NZ to 352-run lead over England after Day 3",
+    "desc": "Henry Nicholls marked his return with a stellar unbeaten century, guiding New Zealand to a commanding 252 for 3 on day three against England at The Oval. His 119, coupled with Rachin Ravindra's 76, forged a record partnership, extending New Zealand's lead to 352. This dominant display, built on Matt Henry's five-wicket haul, puts the hosts in a precarious position for a challenging fourth-innings chase.",
+    "img": "https://static.toiimg.com/photo/msid-131865877,imgsize-116366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/henry-nicholls-and-rachin-ravindra-power-new-zealand-to-352-run-lead-over-england-after-day-3/articleshow/131865870.cms",
+    "time": "2026-06-19T18:54:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pak man who crossed LoC sent back, handshakes mark handover",
+    "desc": "A Pakistani national, Asad Khan, apprehended last week after crossing the Line of Control in Kupwara, Jammu and Kashmir, has been safely repatriated. Khan, from Khyber Pakhtunkhwa, was detained near Samari village on June 12. The Indian Army stated he was treated with dignity and compassion, with his handover at the Aman Setu peace bridge highlighting professional military conduct and humanitarian values.",
+    "img": "https://static.toiimg.com/photo/msid-131865738,imgsize-1319169.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pak-man-who-crossed-loc-sent-back-handshakes-mark-handover/articleshow/131865755.cms",
+    "time": "2026-06-19T18:44:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chief Minister V. D. Satheesan",
+    "desc": "Chief Minister says only Union government had the right to withdraw from the PM SHRI agreement after giving a notice of one month. There was no provision in the agreement to keep the scheme implementation in abeyance either",
+    "img": "https://th-i.thgim.com/public/incoming/v3z1wa/article71123681.ece/alternates/LANDSCAPE_1200/NH15VDsatheesan02.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/ex-bengal-minister-jyoti-priya-mallick-quits-all-tmc-posts-cites-health-issues/article71121229.ece",
-    "time": "2026-06-19T17:13:48.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/no-provision-for-kerala-to-withdraw-from-pm-shri-deal-chief-minister-v-d-satheesan/article71123209.ece",
+    "time": "2026-06-19T18:40:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "State set to make a transition from welfare-centric to knowledge-driven economy",
+    "desc": "The government plans to develop Kerala into a Knowledge Valley, making the State a preferred destination for higher education, including through special legislation to attract leading foreign universities and collaborations with premier institutions. For the start-up ecosystem, this is particularly important",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/3gld04/article71122040.ece/alternates/LANDSCAPE_1200/Lekha%20Balachandran.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-budget-state-set-to-make-a-transition-from-welfare-centric-to-knowledge-driven-economy/article71122012.ece",
+    "time": "2026-06-19T18:05:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CISF returns Rs 22.8 lakh worth lost items in 6 months, reunites 69 missing children in Delhi Metro",
+    "desc": "Over a six-month period, the CISF protecting the Delhi Metro made headlines by recovering cash and valuables exceeding Rs 22.8 lakh, including gold and electronics. Additionally, they played a vital role in reuniting 69 missing children with their families and provided assistance to 152 women in distress. This demonstrates their unwavering dedication to enhancing commuter safety and service, fostering a sense of security for all passengers.",
+    "img": "https://static.toiimg.com/photo/msid-131864616,imgsize-201713.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cisf-returns-rs-22-8-lakh-worth-lost-items-in-6-months-reunites-69-missing-children-in-delhi-metro/articleshow/131864478.cms",
+    "time": "2026-06-19T17:59:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee ends higher for second day, settles at 94.33 as trade deal hopes offset oil concerns",
+    "desc": "The Indian rupee strengthened for a second day, closing at 94.33 against the US dollar, buoyed by positive India-US trade talks. Hopes for an interim trade agreement between the two nations are rising, with negotiators urged to expedite efforts. However, global uncertainties and a stronger dollar limited the rupee's gains. Analysts anticipate continued inflows supporting the local currency.",
+    "img": "https://static.toiimg.com/photo/msid-131864388,imgsize-750721.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-ends-higher-for-second-day-settles-at-94-33-as-trade-deal-hopes-offset-oil-concerns/articleshow/131864407.cms",
+    "time": "2026-06-19T17:52:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi to preside over ceremony to commission 2 warships, one survey vessel into Navy tomorrow",
+    "desc": "India's naval might is set to surge with the commissioning of three advanced, indigenously built warships in Kolkata on Sunday. Prime Minister Narendra Modi will preside over the ceremony for the stealth frigate Dunagiri, survey vessel Sanshodhak, and anti-submarine warfare craft Agray. These platforms significantly boost India's blue-water capabilities, coastal defense, and surveying prowess, showcasing the nation's growing shipbuilding prowess with over 75% indigenous content.",
+    "img": "https://static.toiimg.com/photo/msid-131864253,imgsize-155532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-preside-over-ceremony-to-commission-2-warships-one-survey-vessel-into-navy-tomorrow/articleshow/131864175.cms",
+    "time": "2026-06-19T17:50:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt considering green charge on old buses, trucks, other goods vehicles that enter core NCR",
+    "desc": "After several rounds of discussions at Commission for Air Quality Management (CAQM), the “Green Contribution Scheme” is being finalised for implementation from Oct-Nov when Delhi and adjoining areas face severe air pollution. The scheme would cover around 5,000 sq km of NCR. People privy to the discussion said the green charge may be around Rs 1,000-1,300 for trucks and buses and Rs 500-650 for light goods vehicles and mini-buses.",
+    "img": "https://static.toiimg.com/photo/msid-131864190,imgsize-104098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-considering-green-charge-on-old-buses-trucks-other-goods-vehicles-that-enter-core-ncr/articleshow/131864196.cms",
+    "time": "2026-06-19T17:42:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "From spectrum renewals to AI rules, key challenges flagged in draft papers",
+    "desc": "Jio Platforms, gearing up for a massive IPO, has revealed significant risks including spectrum renewal challenges, cybersecurity threats, and evolving AI and data privacy regulations. The company also faces uncertainties in its satellite connectivity ventures and potential competition from within the Reliance Group. These disclosures highlight potential hurdles to its future growth and profitability as it prepares for its market debut.",
+    "img": "https://static.toiimg.com/photo/msid-131864019,imgsize-806081.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/jio-ipo-risk-factors-from-spectrum-renewals-to-ai-rules-key-challenges-flagged-in-draft-papers/articleshow/131863995.cms",
+    "time": "2026-06-19T17:35:44.000Z"
   },
   {
     "cat": "World",
@@ -39,19 +138,10 @@ const newsData_en = [
     "cat": "Politics",
     "title": "A tale of two cross-votings: How power politics played out in Karnataka, Jharkhand",
     "desc": "Cross-voting significantly impacted Rajya Sabha elections in Jharkhandand Legislative Council elections in Karnataka, with both the INDIA bloc and NDA facing losses. While parties lauded rival cross-voters as exercising conscience, they condemned their own MLAs for betraying the party. This highlights a persistent double standard, where power dynamics, not ideology, drive these electoral outcomes despite past reforms aimed at curbing corruption.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "img": "https://static.toiimg.com/photo/msid-131863687,imgsize-2018591.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/a-tale-of-two-cross-votings-how-power-politics-played-out-in-karnataka-jharkhand/articleshow/131863205.cms",
     "time": "2026-06-19T16:54:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi to visit West Bengal for Paschim Banga Dibas,  International Yoga Day celebrations",
-    "desc": "The event to mark West Bengal Day will take place in Tarakeswar, Hooghly district, a location steeped in heritage due to its connection with Dr. Syama Prasad Mookerjee and his efforts in preserving the culture of West Bengal",
-    "img": "https://th-i.thgim.com/public/incoming/ubfa7o/article70636248.ece/alternates/LANDSCAPE_1200/20260213398L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/pm-modi-to-visit-west-bengal-for-paschim-banga-dibas-international-yoga-day-celebrations/article71123091.ece",
-    "time": "2026-06-19T16:53:13.000Z"
   },
   {
     "cat": "World",
@@ -70,15 +160,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-strike-on-alleged-drug-boat-kills-three-in-eastern-pacific-ocean/article71123448.ece",
     "time": "2026-06-19T16:46:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What Telangana voters need to know",
-    "desc": "As Telangana gears up for a door-to-door verification of voters, the Special Intensive Revision has emerged as one of the most closely watched electoral exercises in recent years. While election officials describe it as a routine effort to improve the accuracy of voter lists, political parties and electors have raised questions about implementation and the treatment of anomalies in voter data",
-    "img": "https://th-i.thgim.com/public/incoming/y785dx/article71123498.ece/alternates/LANDSCAPE_1200/DSC9064.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/sir-explained-what-telangana-voters-need-to-know/article71122921.ece",
-    "time": "2026-06-19T16:44:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -151,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/i-apologise-uddhav-thackeray-says-shiv-sainiks-fired-up-amid-mps-rebellion/articleshow/131862080.cms",
     "time": "2026-06-19T15:36:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Seamless passport service serves as engine for prosperous, Viksit Bharat: Jaishankar",
-    "desc": "A senior Ministry of External Affairs official said in his presentation that the number of Passport Seva Kendras in 2014 stood at 77, which has now grown to over 545, besides the 454 Post Office Passport Seva Kendras",
-    "img": "https://th-i.thgim.com/public/incoming/iexp4x/article71123186.ece/alternates/LANDSCAPE_1200/20260619302L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/seamless-passport-service-serves-as-engine-for-prosperous-viksit-bharat-jaishankar/article71123137.ece",
-    "time": "2026-06-19T15:35:22.000Z"
   },
   {
     "cat": "Politics",
@@ -297,15 +369,6 @@ const newsData_en = [
     "time": "2026-06-19T13:55:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Taxpayers' money at stake? SC flags bank-ARC-borrowers 'deep-rooted' nexus",
-    "desc": "A bench comprising Chief Justice Surya Kant and Justice V Mohana said its primary concern was the alleged misuse of public funds that could otherwise have been utilised for public welfare. The court issued notices to the Centre, the Reserve Bank of India (RBI) and other respondents on a plea alleging that loans worth Rs 1,537 crore owed to public sector banks were settled through two ARCs for just Rs 73.50 crore.",
-    "img": "https://static.toiimg.com/photo/msid-131860437,imgsize-185563.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/taxpayers-money-at-stake-sc-flags-bank-arc-borrowers-deep-rooted-nexus/articleshow/131859474.cms",
-    "time": "2026-06-19T13:51:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rajkumar Hirani CONFIRMS ‘3 Idiots’ sequel",
     "desc": "Rajkumar Hirani has confirmed that the '3 Idiots' sequel is currently in development, while dismissing rumours of a fourth cast member joining Aamir Khan, R Madhavan and Sharman Joshi. He also clarified that the title '4 Idiots' was a media creation, adding that the script is still being written.",
@@ -322,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/if-not-for-sanju-samson-would-india-have-won-sreesanth-takes-aim-at-gautam-gambhir/articleshow/131860137.cms",
     "time": "2026-06-19T13:36:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Hope Speaker gives us justice': Abhishek Banerjee files disqualification pleas against rebel MPs",
-    "desc": "\"The Lok Sabha Speaker is the custodian of the House, not the protector of the government of the day. Every citizen, especially elected representatives, must work within the ambit of the law. Therefore, one has to function according to the provisions laid down in the Constitution.\"",
-    "img": "https://static.toiimg.com/photo/msid-131860214,imgsize-144992.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hope-speaker-gives-us-justice-abhishek-banerjee-files-disqualification-pleas-against-rebel-mps/articleshow/131859471.cms",
-    "time": "2026-06-19T13:33:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Trump calls PM Modi ‘a very tough cookie’; CM Yogi urges patience as SIT probes Ayodhya Temple fund allegations &amp; more",
-    "desc": "Donald Trump lauded PM Modi as a \"tough cookie\" and admired leader, while Meloni refuted Trump's claim of begging for a G7 photo. Rahul Gandhi thanked DMK leaders despite their recent split, and CM Yogi assured a swift SIT probe into Ayodhya temple fund allegations. Meanwhile, Ukraine launched its largest drone attack on Moscow, targeting an oil refinery.",
-    "img": "https://static.toiimg.com/photo/msid-131859917,imgsize-641967.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-trump-calls-pm-modi-a-very-tough-cookie-cm-yogi-urges-patience-as-sit-probes-ayodhya-temple-fund-allegations-more/articleshow/131859792.cms",
-    "time": "2026-06-19T13:20:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +477,6 @@ const newsData_en = [
     "time": "2026-06-19T12:09:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Naxal-free India': Govt shares 'historic milestone' after six decades of violence",
-    "desc": "The movement traces its origins to the Naxalbari uprising in West Bengal in 1967 and drew inspiration from Maoist ideology and the concept of armed revolution. Over time, several extremist groups operated across different regions before merging under the banner of the CPI (Maoist) in 2004. The organisation subsequently emerged as the principal face of the insurgency and came to be regarded as one of India's most serious internal security challenges.",
-    "img": "https://static.toiimg.com/photo/msid-131858607,imgsize-784741.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/naxal-free-india-govt-shares-historic-milestone-after-six-decades-of-violence/articleshow/131855730.cms",
-    "time": "2026-06-19T12:00:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dhanush praises Kasthuri Raja's performance in 'Habeebi'",
     "desc": "Actor Dhanush lauded his father, veteran director Kasthuri Raja, for a powerful performance in the critically acclaimed Tamil drama 'Habeebi'. Dhanush expressed pride in his father's convincing portrayal of the family patriarch Yusuf, a role set in Kadayanallur's Tamil Muslim community. He congratulated director Meera Kathiravan and the entire crew for delivering a memorable cinematic experience, highlighting the film's unique story and outstanding performances.",
@@ -513,15 +549,6 @@ const newsData_en = [
     "time": "2026-06-19T11:24:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'A very tough cookie': Donald Trump says PM Modi a world leader 'he admires', calls Xi 'all business'",
-    "desc": "US President Donald Trump has lauded Prime Minister Narendra Modi as \"a very tough cookie\" and one of his most admired global leaders, alongside China's Xi Jinping. Speaking to Axios, Trump highlighted their strong personal rapport, even amidst trade tensions. This praise follows their recent G7 meeting, where Trump emphasized the close India-US relationship and PM Modi's formidable negotiating skills, suggesting a trade deal is nearing completion.",
-    "img": "https://static.toiimg.com/photo/msid-131857447,imgsize-92570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-very-tough-cookie-donald-trump-says-pm-modi-a-world-leader-he-admires-calls-xi-all-business/articleshow/131857374.cms",
-    "time": "2026-06-19T11:19:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Imtiaz Ali questions people being comfortable with 'burqa' or 'parda': It's not okay",
     "desc": "Filmmaker Imtiaz Ali has sparked a debate on social media with his recent comments on burqa and parda, stating he is not comfortable with women claiming to be at ease with it, calling it a sign of a \"degenerated society.",
@@ -529,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imtiaz-ali-says-its-not-okay-when-someone-says-im-comfortable-in-my-burqa-or-parda-its-a-degenerated-society/articleshow/131857192.cms",
     "time": "2026-06-19T11:11:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Soni Razdan says family bond with Karisma made ‘Brown’ easy",
-    "desc": "Veteran actress Soni Razdan found an unexpected joy while filming the ZEE5 crime thriller ‘Brown,’ particularly from the comic timing of co-star Helen. Razdan revealed that Helen's humor often made it difficult for her to maintain composure during scenes, leading to moments where she struggled to deliver her lines.",
-    "img": "https://static.toiimg.com/photo/msid-131857152,imgsize-134868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/we-were-already-family-soni-razdan-opens-up-on-playing-mother-to-karisma-kapoor-in-brown-and-how-their-real-life-bonding-made-it-easier/articleshow/131857069.cms",
-    "time": "2026-06-19T11:06:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why India's professionals are leaving Metro cities",
-    "desc": "A fascinating trend is emerging as Indian professionals increasingly desert sprawling metropolises in favor of tier-2 and tier-3 cities, searching for a richer quality of life. The rising costs of living, extensive travel for work, and the stress of city life are significant forces behind this migration.",
-    "img": "https://static.toiimg.com/photo/msid-131857097,imgsize-2501068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-great-reverse-migration-why-indias-professionals-are-leaving-metro-cities/articleshow/131855469.cms",
-    "time": "2026-06-19T11:06:24.000Z"
   },
   {
     "cat": "Business",
@@ -657,15 +666,6 @@ const newsData_en = [
     "time": "2026-06-19T08:38:03.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "NEET-UG re-exam: Delhi HC rejects Telegram’s appeal against temporary ban",
-    "desc": "Justice Tejas Karia noted that government’s pro active measures are least restrictive adding that it cannot be held that the order is disproportionate or there was no application of mind before taking the temporary ban decision, as alleged by the petitioner.",
-    "img": "https://th-i.thgim.com/public/incoming/zcnjl2/article71120887.ece/alternates/LANDSCAPE_1200/2026-06-19T052005Z_825323286_RC2WPGA1HO6X_RTRMADP_3_INDIA-TELEGRAM-EDUCATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-hc-upholds-temporary-ban-on-telegram-amid-neet-ug-re-exam/article71120875.ece",
-    "time": "2026-06-19T08:27:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Faf du Plessis rewrites cricket history, achieves unprecedented feat at 41",
     "desc": "Faf du Plessis has just redefined age in T20 cricket, setting a record as the oldest centurion at 41 years and 340 days. His remarkable unbeaten score of 104 propelled the Texas Super Kings to a thrilling six-wicket victory over the Seattle Orcas in the electrifying MLC 2026 season debut.",
@@ -720,15 +720,6 @@ const newsData_en = [
     "time": "2026-06-19T07:14:45.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘People switch on TV for him’: Srikkanth says Sooryavanshi can revive Test cricket",
-    "desc": "Former India captain Krishnamachari Srikkanth believes teenage batting prodigy Vaibhav Sooryavanshi could spearhead a Test cricket revival if he realises his vast potential. Srikkanth urged patience, highlighting the 15-year-old's dominant style and unique aura, stating he is \"simply outstanding for Indian cricket\" and \"the son of God\" in cricketing terms.",
-    "img": "https://static.toiimg.com/photo/msid-131849496,imgsize-49808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/people-switch-on-tv-to-watch-him-srikkanth-says-vaibhav-sooryavanshi-can-revive-test-cricket/articleshow/131849478.cms",
-    "time": "2026-06-19T06:29:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why is stock market down today? BSE Sensex drops over 800 points, Nifty50 below 24,000 as IT stocks crash",
     "desc": "The decline followed a robust run over the previous five sessions, during which the benchmark indices had surged nearly 5%. Adding to investor caution, India VIX, the market's volatility gauge, climbed nearly 5% to 13.30 in early trade on Friday.",
@@ -745,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/americas-iran-playbook-after-coercion-a-return-to-diplomacy/article71113942.ece",
     "time": "2026-06-19T06:00:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee rebounds 20 paise to 94.20 on hopes of India-US trade deal",
-    "desc": "The Indian Rupee strengthened significantly against the US dollar on Friday, recovering from an all-time closing low. Optimism surrounding an India-US trade agreement, coupled with improved foreign inflows and softer crude oil prices, fueled the currency's rise. Discussions between Prime Minister Modi and President Trump highlighted progress on a trade pact, with further negotiations planned.",
-    "img": "https://static.toiimg.com/photo/msid-131847461,imgsize-668782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-rebounds-20-paise-to-94-20-on-hopes-of-india-us-trade-deal/articleshow/131847205.cms",
-    "time": "2026-06-19T05:09:49.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/world-music-day-2026-hyderabad-to-light-up-with-music/article71108134.ece",
     "time": "2026-06-18T05:31:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England beat Croatia 4-2 as Kane scores twice",
+    "desc": "Croatia made it ⁠2-2 in the fifth minute of time added on at the end of ‌the first half when Petar Musa was picked out by Ivan Perisic’s deft header and he blasted the ball past Pickford",
+    "img": "https://th-i.thgim.com/public/incoming/z73386/article71115542.ece/alternates/LANDSCAPE_1200/Croatia_England_WCup_Soccer_18377.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/england-beat-croatia-4-2-as-kane-scores-twice/article71115540.ece",
+    "time": "2026-06-18T02:21:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "U.S.-Iran deal could remove restrictions on tankers; unlock banking, insurance access",
+    "desc": "Before the conflict, international shipping through the Strait of Hormuz operated without tolls, service fees or any mandatory reporting to national authorities; while the U.S. says no tolls should be imposed, Iran says ships transiting the strait will have to pay a service fee and report to authorities",
+    "img": "https://th-i.thgim.com/public/business/Industry/u8poqc/article71112930.ece/alternates/LANDSCAPE_1200/StraitofHormuz.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/what-the-14-point-mou-between-iran-and-the-us-means-for-shipping/article71112920.ece",
+    "time": "2026-06-17T17:13:49.000Z"
   }
 ];

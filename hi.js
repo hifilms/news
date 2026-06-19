@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Neeraj Chopra qualifies for Commonwealth Games after disastrous start in Doha Diamond League",
+    "desc": "India’s star javelin thrower Neeraj Chopra booked his place at the upcoming Commonwealth Games after producing a throw of 82.77m during the Doha Diamond League on Friday, clearing the qualification standard in his first competition...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-qualifies-for-commonwealth-games-after-disastrous-start-in-doha-diamond-league-2026-06-19-1045504",
+    "time": "2026-06-19T18:11:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KS Bharat exploring opportunities in Dubai, joined Team Stallions after retiring from India cricket",
+    "desc": "Former India keeper-batter KS Bharat has begun the next phase of his cricketing journey in the United Arab Emirates. It was only a couple of weeks back when the 32-year-old announced his retirement from Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ks-bharat-exploring-opportunities-in-dubai-joined-team-stallions-after-retiring-from-india-cricket-2026-06-19-1045500",
+    "time": "2026-06-19T17:30:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India coach indicates multiple changes in playing XI for third ODI vs Afghanistan",
     "desc": "India are set to reshuffle their playing XI for the third and final ODI against Afghanistan as the team management looks beyond the immediate result and towards broader squad assessment ahead of upcoming overseas assignments. The...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/iran-unhappy-with-usa-s-unfair-treatment-over-travel-restrictions-set-to-lodge-complaint-to-fifa-2026-06-19-1045449",
     "time": "2026-06-19T10:17:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We are not concerned': BCCI to stay in line with government policies ahead of Bangladesh series in August",
-    "desc": "The Indian team has a busy schedule throughout 2026. With games against many top sides across world cricket, one of the most talked about series in the calendar has been the one against Bangladesh. With...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-to-stay-in-line-with-government-policies-ahead-of-bangladesh-series-in-august-2026-06-19-1045441",
-    "time": "2026-06-19T09:26:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wasim Jaffer gives his take on Vaibhav Sooryavanshi's on-field altercation against Sri Lanka A",
-    "desc": "India A and Sri Lanka A have faced off twice in June 2026 so far as part of the ongoing Tri-Nation series, with both matches played at the Rangiri Dambulla International Stadium. With India having won...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wasim-jaffer-gives-his-take-on-vaibhav-sooryavanshi-s-on-field-altercation-against-sri-lanka-a-2026-06-19-1045430",
-    "time": "2026-06-19T08:11:18.000Z"
   }
 ];
