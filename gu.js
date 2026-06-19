@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "2026માં સોનું 4% તૂટ્યું, તેમ છતા ગોલ્ડ પર શા માટે રોકાણ કરી રહી છે વિશ્વભરની સેન્ટ્રલ બેંક ? જાણો સંપૂર્ણ કારણ",
+    "desc": "આ વર્ષે અત્યાર સુધીમાં સોનાના ભાવમાં આશરે 4%નો ઘટાડો થયો છે. જોકે, નબળા ભાવ હોવા છતાં, વિશ્વભરની કેન્દ્રીય બેંકો સોના પ્રત્યે ખૂબ જ સકારાત્મક દેખાય છે અને આગામી 12 મહિના સુધી સોનાની ખરીદી ચાલુ રહેવાની ધારણા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-fell-by-4-percent-in-2026-but-why-are-central-banks-around-the-world-investing-in-gold-know-the-full-reason-482022 ",
+    "time": "2026-06-19T16:41:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EMIના પૈસા ખાતામાંથી ઓટોમેટિક કપાય છે? એક ભૂલથી ખાલી થઈ શકે છે આખું એકાઉન્ટ!",
+    "desc": "જો તમે માસિક EMI, વીજળી બિલ અથવા સબ્સ્ક્રિપ્શન ચૂકવવા માટે AutoPayનો ઉપયોગ કરો છો, તો સાવચેત રહો. આ સુવિધા અનુકૂળ હોઈ શકે છે, પરંતુ એક નાની ભૂલ પણ તમારા ખાતાને ખાલી કરી શકે છે. સ્ટેટમેન્ટ તપાસવાથી લઈને યોગ્ય એપ્લિકેશન પસંદ કરવા સુધી, અજાણતાં કપાત અને છેતરપિંડી ટાળવા માટે આ મહત્વપૂર્ણ નિયમો શીખો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/is-emi-money-automatically-deducted-from-the-account-one-mistake-can-empty-the-entire-account-482020 ",
+    "time": "2026-06-19T16:10:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મોત સામે જિંદગીની જીત: 19 વર્ષના રાજના હૃદયના ધબકારા આજે પણ કોઈના છાતીમાં ગૂંજે છે",
+    "desc": "કેટલાક લોકો મોત બાદ પણ અમર રહી જાય છે. એ ભલે નશ્વર દેહે આ દુનિયામાં નથી હોતા પણ દુનિયામાં જીવતા લોકોને પણ મોત બાદ જિંદગી જીવતા શીખવાડી જાય. અમે તમારી સમક્ષ એવી સ્ટોરી રજૂ કરી રહ્યાં છે જે વાંચીને તમારી પણ આંખો ભીની થઈ જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/victory-of-life-over-death-the-heartbeat-of-19-year-old-raj-still-echoes-in-someone-chest-today-482019 ",
+    "time": "2026-06-19T15:33:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કચ્છથી લઈને જામનગર સુધી રિલાયન્સનું ગ્રીન સામ્રાજ્ય : મુકેશ અંબાણીએ કરી મોટી જાહેરાતો",
+    "desc": "રિલાયન્સ ઇન્ડસ્ટ્રીઝની 49મી AGMમાં મુકેશ અંબાણીએ જિયો પ્લેટફોર્મ્સના IPO માટે DRHP ફાઇલ કરવાની મોટી જાહેરાત કરી છે. આ સાથે કંપની ગૂગલ, મેટા અને એનવીડિયાના સહયોગથી જામનગરમાં વિશ્વનું સૌથી મોટું ગ્રીન-એનર્જી સંચાલિત 'રિલાયન્સ ઇન્ટેલિજન્સ' AI ઇન્ફ્રાસ્ટ્રક્ચર અને ગીગા ફેક્ટરીઓ સ્થાપશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/reliance-green-empire-from-kutch-to-jamnagar-mukesh-ambani-makes-big-announcements-482018 ",
+    "time": "2026-06-19T15:19:17.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "શું ACના આઉટડોર યુનિટ પર પાણી નાખવાથી ખરેખર ઘટે છે વીજળીનું બિલ? જાણો સત્ય",
     "desc": "શું તમારુ AC કાળઝાળ ગરમીમાં તમારા રૂમને ઠંડક આપી શકતું નથી? તમે માત્ર આઉટડોર કોમ્પ્રેસર યુનિટ પર પાણીની એક ડોલ નાખીને કેવી રીતે ઠંડક વધારી શકો છો અને વીજળીનું બિલ પણ ઘટાડી શકો છો તે જાણો. અહીં સંપૂર્ણ પ્રક્રિયા અને સાવચેતીઓ.",
@@ -565,15 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/peace-agreement-announced-between-us-and-iran-ceasefire-on-all-fronts-including-lebanon-trump-orders-lifting-of-blockade-481527 ",
     "time": "2026-06-15T02:55:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NEET UGની રી-ટેસ્ટ માટે એડમિટ કાર્ડ કરવામાં આવ્યા જાહેર, જાણો કેવી રીતે ડાઉનલોડ કરવું",
-    "desc": "નેશનલ ટેસ્ટિંગ એજન્સી (NTA)એ 21 જૂને યોજાનારી NEET UG પુનઃપરીક્ષા માટે પ્રવેશ કાર્ડ જાહેર કર્યા છે. વિદ્યાર્થીઓ તેમને neet.nta.nic.in પરથી ડાઉનલોડ કરી શકે છે. જોકે, પ્રવેશ કાર્ડ ડાઉનલોડ કરતા પહેલા ઉમેદવારોએ તેમના બેંક ખાતાની માહિતી ચકાસવી ફરજિયાત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/admit-card-for-neet-ug-re-test-released-know-how-to-download-481522 ",
-    "time": "2026-06-14T16:49:24.000Z"
   },
   {
     "cat": "Entertainment",

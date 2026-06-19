@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India coach indicates multiple changes in playing XI for third ODI vs Afghanistan",
+    "desc": "India are set to reshuffle their playing XI for the third and final ODI against Afghanistan as the team management looks beyond the immediate result and towards broader squad assessment ahead of upcoming overseas assignments. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-indicates-multiple-changes-in-playing-xi-for-third-odi-vs-afghanistan-arshdeep-singh-likely-to-be-rested-2026-06-19-1045497",
+    "time": "2026-06-19T16:01:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant could return to Delhi Capitals, LSG want INR 13.25 crore star for IPL 2027",
+    "desc": "Rishabh Pant is all set to make a dramatic return to Delhi Capitals ahead of the IPL 2027 season. The franchise has reportedly struck a trade deal with Lucknow Super Giants, which will see the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-could-return-to-delhi-capitals-lsg-want-inr-13-25-crore-star-for-ipl-2027-2026-06-19-1045494",
+    "time": "2026-06-19T15:01:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Manika Batra issues statement after Asian Games omission, says 'no specifc reasons communicated'",
     "desc": "India's leading table tennis player, Manika Batra, has been excluded from the Asian Games squad after reportedly failing to meet the selection criteria set by the Table Tennis Federation of India (TTFI). Despite being the...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/wasim-jaffer-gives-his-take-on-vaibhav-sooryavanshi-s-on-field-altercation-against-sri-lanka-a-2026-06-19-1045430",
     "time": "2026-06-19T08:11:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI remains tight-lipped around Virat Kohli-Rohit Sharma as India gear up for ODI World Cup 2027",
-    "desc": "The Indian team has been in exceptional form of late; the Men in Blue just might be peaking at the right time, with the ODI World Cup 2027 on the horizon. The BCCI (Board of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-remain-tight-lipped-around-virat-kohli-rohit-sharma-as-india-gear-up-for-odi-world-cup-2027-2026-06-19-1045426",
-    "time": "2026-06-19T07:35:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB CEO Rajesh Menon makes big claim on Virat Kohli's IPL future, weighs in on ace batter's importance",
-    "desc": "Widely regarded as one of the best players in history, Virat Kohli, in the twilight of his career, is still one of the most prolific run-scorers in the Indian cricket team. He fundamentally transformed Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-ceo-rajesh-menon-makes-big-claim-on-virat-kohli-s-ipl-future-weighs-in-on-ace-batter-s-importance-2026-06-19-1045421",
-    "time": "2026-06-19T06:55:12.000Z"
   }
 ];
