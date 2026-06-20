@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Brazil star ruled out of FIFA World Cup 2026 clash vs Scotland, doubtful for knockouts",
+    "desc": "Brazil have confirmed that winger Raphinha has suffered a muscle injury in his right thigh. It is a major blow to the Carlo Ancelotti side, who count heavily on the star winger in the ongoing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/brazil-star-ruled-out-of-fifa-world-cup-2026-clash-vs-scotland-doubtful-for-knockouts-2026-06-21-1045579",
+    "time": "2026-06-20T21:37:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deniz Undav's brace takes Germany to knockouts",
+    "desc": "Germany and Ivory Coast meet in a fascinating FIFA World Cup 2026 Group E showdown, with both sides carrying momentum from winning their opening matches. Germany arrive full of confidence after an emphatic 7-1 victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/germany-vs-ivory-coast-fifa-world-cup-2026-live-ger-vs-civ-latest-match-updates-starting-xi-score-commentary-kai-havertz-jamal-musiala-1045578",
+    "time": "2026-06-20T19:30:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How did Ben Stokes perform in County cricket after being dropped from England Test squad?",
     "desc": "Ben Stokes produced a commanding return to form in the County Championship, falling just five runs short of a century after a fluent 95 for Durham against Northamptonshire at Chester-le-Street on Friday. Coming in at...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-did-india-start-their-innings-at-5-for-no-loss-in-third-odi-against-afghanistan-check-what-happened-at-chepauk-2026-06-20-1045553",
     "time": "2026-06-20T12:17:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hashmatullah Shahidi creates history against India, slams maiden ODI century at Chepauk",
-    "desc": "Hashmatullah Shahidi created history as he became the first Afghanistan captain to hit a hundred against India in any format. The 31-year-old slammed a stellar and a fighting century in the third ODI of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hashmatullah-shahidi-creates-history-against-india-slams-maiden-odi-century-at-chepauk-2026-06-20-1045551",
-    "time": "2026-06-20T11:40:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First time in ODIs for India! Rohit Sharma, Prasidh Krishna create unique record in 3rd Afghanistan ODI",
-    "desc": "Rohit Sharma and Prasidh Krishna combined to create a unique record for India during the third ODI against Afghanistan at the MA Chidambaram Stadium in Chennai as the speedster jolted the opposition batting line-up on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-odis-for-india-rohit-sharma-prasidh-krishna-create-unique-record-in-3rd-afghanistan-odi-2026-06-20-1045547",
-    "time": "2026-06-20T10:49:37.000Z"
   }
 ];

@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "FSSAI turns lens on 'natural', 'healthy' labels",
+    "desc": "India's food regulator, FSSAI, is cracking down on misleading health claims on food and supplement labels. Products marketed as \"natural,\" \"healthy,\" or \"no added sugar\" are under scrutiny for potentially deceiving consumers. This intensified enforcement follows rising complaints and social media attention, aiming to ensure transparency and protect public health by urging consumers to look beyond catchy marketing phrases.",
+    "img": "https://static.toiimg.com/photo/msid-131882995,imgsize-749137.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fssai-turns-lens-on-natural-healthy-labels/articleshow/131882992.cms",
+    "time": "2026-06-20T21:16:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At Lahore's 'Eton', Pakistani alum pays tribute to Indian dost",
+    "desc": "A classroom at Lahore's Aitchison College, once attended by leaders from undivided Punjab, now bridges India and Pakistan. A tribute to former Punjab CM Harcharan Singh Brar, funded by his 100-year-old schoolmate Syed Babar Ali, highlights enduring friendships forged before Partition. This initiative is part of a larger effort to remember the institution's pre-1947 past, honouring students and teachers scattered by history.",
+    "img": "https://static.toiimg.com/photo/msid-131882986,imgsize-1732185.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/at-lahores-eton-pakistani-alum-pays-tribute-to-indian-dost/articleshow/131882983.cms",
+    "time": "2026-06-20T21:09:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBSE to consult stakeholders",
+    "desc": "CBSE's on-screen marking system for Class XII exams faces an uncertain future. The board will consult students, teachers, and parents before deciding on its continuation for 2027 and potential expansion to Class X. This review follows complaints about the system's debut, including scanning issues and unevaluated answers, and aims to address gaps exposed during recent exams and rebuild trust.",
+    "img": "https://static.toiimg.com/photo/msid-131882965,imgsize-1210439.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/digital-marking-cbse-to-consult-stakeholders/articleshow/131882959.cms",
+    "time": "2026-06-20T20:46:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UK detains Indian captain of sanctioned ship, family in Uttarakhand pleads for release",
+    "desc": "An Indian captain, Ajay Pant, has been arrested in the UK and charged with breaching sanctions after his Russian oil tanker was intercepted in the English Channel. The vessel, en route to India, was found to be stateless. Pant's family in Uttarakhand has appealed to the Indian government for his safe return, while authorities are coordinating efforts for his release.",
+    "img": "https://static.toiimg.com/photo/msid-131882948,imgsize-807065.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uk-detains-indian-captain-of-sanctioned-ship-family-in-uttarakhand-pleads-for-release/articleshow/131882946.cms",
+    "time": "2026-06-20T20:38:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shashi Tharoor's praise for PM Modi sparks political slugfest",
+    "desc": "Congress MP Shashi Tharoor's assertion that Prime Minister Modi raised concerns about Indian civilian sailors with US President Trump has sparked internal party friction. This statement contradicts Rahul Gandhi's claim that the issue was ignored. The BJP has seized on Tharoor's remarks, highlighting the divergence within Congress and his praise for the Prime Minister's leadership.",
+    "img": "https://static.toiimg.com/photo/msid-131882847,imgsize-831401.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shashi-tharoors-praise-for-pm-modi-sparks-political-slugfest/articleshow/131882836.cms",
+    "time": "2026-06-20T20:00:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why have India’s statistical databases been upgraded?",
+    "desc": "What key economic indicators have been revised? Why was an overhaul of the databases necessary? What changes were made to the national accounts and GDP estimates? How has the measurement of industrial output been improved? What changes have been made to India’s inflation indicators?",
+    "img": "https://th-i.thgim.com/public/incoming/e4juej/article71127215.ece/alternates/LANDSCAPE_1200/2026-06-01T111550Z_1786597117_RC2UOKAEVBZK_RTRMADP_3_INDIA-ECONOMY-INDUSTRIAL-PRODUCTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/why-have-indias-statistical-databases-been-upgraded-explained/article71127004.ece",
+    "time": "2026-06-20T19:53:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dilip Kumar had a second marriage with Asma, 16 years after wedding with Saira",
+    "desc": "Dilip Kumar's brief second marriage to Asma in 1981, a period of turmoil for Saira Banu, is revisited. Asma later sought privacy in Vancouver, lamenting media intrusion and claiming most reports were false. Dilip Kumar, in his autobiography, admitted the marriage was a mistake orchestrated by his sisters, regretting the pain caused to Saira and their subsequent reconciliation.",
+    "img": "https://static.toiimg.com/photo/msid-131882809,imgsize-261703.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dilip-kumar-had-a-second-marriage-with-asma-16-years-after-wedding-with-saira-banu-can-never-forgive-myself-for-the-hurt-i-caused-her/articleshow/131882802.cms",
+    "time": "2026-06-20T19:52:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brobbey and Gakpo fire Oranje into Round of 32 with 5-1 win in Houston",
+    "desc": "The Netherlands secured a commanding 5-1 victory over Sweden at FIFA World Cup 2026, bouncing back from their opening draw with Japan to book a place in the Round of 32. Brian Brobbey and Cody Gakpo scored twice each, while Crysencio Summerville added a fifth. Despite Sweden’s dominance in shots, Dutch clinical finishing proved decisive in Group F.",
+    "img": "https://static.toiimg.com/photo/msid-131882796,imgsize-128822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/netherlands-vs-sweden-fifa-world-cup-match-result-brobbey-and-gakpo-lead-oranje-to-5-1-victory-and-round-of-32-spot/articleshow/131882382.cms",
+    "time": "2026-06-20T19:49:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress slams Tharoor for showing ‘admiration’ for Modi; MP says statement given ‘partisan twist’",
+    "desc": "The row was sparked by Shashi Tharoor's reported remarks that in meetings with U.S. President Donald Trump, PM Modi conveyed that in wartime, civilian sailors on commercial ships should not be targets. Pawan Khera says Tharoor can now hear what Modi doesn’t even say.",
+    "img": "https://th-i.thgim.com/public/incoming/er8ggf/article71127201.ece/alternates/LANDSCAPE_1200/Shashi_Anandan.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-slams-tharoor-for-showing-admiration-for-modi-mp-says-statement-given-partisan-twist/article71127126.ece",
+    "time": "2026-06-20T19:27:02.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sonam Khan clarifies she did not have an affair with Rajiv Rai during Tridev",
     "desc": "Former actress Sonam Khan has debunked long-standing rumors of an affair with 'Tridev' director Rajiv Rai during the film's making. She clarified on Instagram, \"Real story I was not having an affair with my Tridev director.\" Khan stated they were both in other relationships then and she was the \"last choice\" for the film. Romance only began after 'Tridev's' release, when both were single.",
@@ -43,6 +124,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-jaya-bachchan-shweta-bachchan-ranbir-kapoor-ravi-kishan-celebs-attend-supriya-sules-daughters-wedding-watch-videos/articleshow/131881337.cms",
     "time": "2026-06-20T18:13:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Group of Seven",
+    "desc": "The grouping of industrialised nations, founded in the 1970s, has weathered major geopolitical storms across the 20th and 21st centuries to remain a key forum for discussions and decision-making on global conflicts and economic challenges",
+    "img": "https://th-i.thgim.com/public/incoming/2gkbro/article71126952.ece/alternates/LANDSCAPE_1200/France_G7_Summit_21155.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/group-of-seven-a-platform-for-the-globalised-elite/article71126956.ece",
+    "time": "2026-06-20T18:04:34.000Z"
   },
   {
     "cat": "Politics",
@@ -324,15 +414,6 @@ const newsData_en = [
     "time": "2026-06-20T13:59:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EU removes negative travel advisory for Assam; CM Himanta says talks on with US, Canada",
-    "desc": "Assam's Chief Minister announced that the European Union has removed its negative travel advisories for the state, a move that signifies a strong vote of confidence. This development, following a recent EU diplomat visit, excludes three districts still under AFSPA. The state is now engaging with the US and Canada to encourage similar revisions to their travel guidance.",
-    "img": "https://static.toiimg.com/photo/msid-131877607,imgsize-612598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eu-removes-negative-travel-advisory-for-assam-cm-says-himanta-says-talks-on-with-us-canada/articleshow/131876796.cms",
-    "time": "2026-06-20T13:49:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Milk prices may rise again by July as El Niño threatens fodder supply",
     "desc": "Dairy consumers might face another price hike by July or August, with industry experts warning of a potential 3-4% increase. This follows a recent 2-3% rise in May. Concerns are mounting over El Niño potentially worsening fodder shortages and impacting milk production, prompting the Maharashtra government to urge farmers to boost fodder cultivation. Major dairies are closely monitoring the situation.",
@@ -432,15 +513,6 @@ const newsData_en = [
     "time": "2026-06-20T11:44:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Union minister Bandi Sanjay's son gets bail in POCSO case",
-    "desc": "The case was registered at the Petbasheerabad police station on May 8 under relevant provisions of the Bharatiya Nyaya Sanhita (BNS) and the POCSO Act based on a complaint filed by the mother of a 17-year-old girl. According to the complaint, Bageerath was in a relationship with the minor and had allegedly subjected her to sexual harassment. After investigators recorded the girl's statement, additional and more serious charges under the BNS and POCSO Act were incorporated into the case.",
-    "img": "https://static.toiimg.com/photo/msid-131875180,imgsize-1215425.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/union-minister-bandi-sanjays-son-gets-bail-in-pocso-case/articleshow/131875008.cms",
-    "time": "2026-06-20T11:35:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Prabhu Deva buys an ultra-luxurious limousine worth Rs 70 lakh",
     "desc": "Prabhu Deva has taken delivery of the MG M9 Presidential Limousine, priced at around Rs 70 lakh. The premium electric MPV comes loaded with 16-way adjustable seats, massage modes and a 13-speaker sound system. Deva, who has won two National Film Awards and the Padma Shri, is known for films like 'Wanted' and 'Rowdy Rathore'.",
@@ -448,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prabhu-deva-buys-an-ultra-luxurious-electric-limousine-worth-rs-70-lakh-featuring-16-way-adjustable-massage-seats-and-dual-sunroof-see-pics/articleshow/131875177.cms",
     "time": "2026-06-20T11:29:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matheus Cunha's brace against Haiti helps Brazil script FIFA WC history",
-    "desc": "Brazil eased past Haiti 3-0 in Philadelphia to move top of Group C and strengthen their hopes of reaching the FIFA World Cup 2026 knockout stage. Matheus Cunha scored twice in the first half, becoming the first Brazilian since Neymar in 2014 to net multiple first-half World Cup goals. The defeat officially ended Haiti's hopes of progressing.",
-    "img": "https://static.toiimg.com/photo/msid-131875153,imgsize-195232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/matheus-cunhas-brace-against-haiti-helps-brazil-script-fifa-world-cup-history/articleshow/131875093.cms",
-    "time": "2026-06-20T11:28:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hum do, hamare 1.9: What India’s falling fertility rates reveal",
-    "desc": "India, once concerned about a population boom, now faces a declining birth rate, with the Total Fertility Rate dropping to 1.9 children per woman, below the replacement level. This significant shift reflects women's increased educational attainment, career focus, and later marriages, leading to more personal choices about family planning. The narrative is evolving from population control to individual decisions, marking a societal transition.",
-    "img": "https://static.toiimg.com/photo/msid-131875095,imgsize-2206071.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hum-do-hamare-1-9-what-indias-falling-fertility-rates-reveal/articleshow/131874395.cms",
-    "time": "2026-06-20T11:25:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -522,15 +576,6 @@ const newsData_en = [
     "time": "2026-06-20T10:37:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Creepy’: Raghavendra Rao faces backlash over Niharika video",
-    "desc": "K Raghavendra Rao, a seasoned director, is under fire once more as footage from the launch of Anil Ravipudi's film 'Venky Anil 5' circulates online. In the clip, Rao is seen directing actresses Keerthy Suresh and Krithi Shetty, raising concerns over his close interactions. This incident has reignited discussions about personal boundaries and appropriate behavior in public settings, especially as it recalled a similar incident involving Niharika Konidela.",
-    "img": "https://static.toiimg.com/photo/msid-131874329,imgsize-103892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/creepy-and-uncomfortable-k-raghavendra-rao-faces-massive-netizen-backlash-after-old-videos-with-niharika-konidela-resurface/articleshow/131874274.cms",
-    "time": "2026-06-20T10:31:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre steps up high-speed rail expansion across India",
     "desc": "India is set to revolutionize its rail network with the approval of seven new bullet train corridors, promising significantly reduced travel times between major cities. Key routes like Mumbai-Ahmedabad will see journeys slashed to under two hours, while Bengaluru-Chennai will take just over an hour. This ambitious expansion, including the Delhi-Varanasi-Patna corridor, aims to boost connectivity and usher in an era of unprecedented railway development across the nation.",
@@ -565,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-conflict-pushes-india-to-rethink-lpg-imports-as-omcs-continued-to-absorb-price-shocks/articleshow/131872658.cms",
     "time": "2026-06-20T09:16:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sports Ministry to form a task force to study feasibility of hosting Formula 1 race in India",
-    "desc": "India is gearing up to potentially host a Formula 1 race again, with the Sports Ministry forming a task force to study its feasibility. Following discussions with stakeholders, the government aims to revive motorsports, targeting a 2028 return for F1 at the Buddh International Circuit.",
-    "img": "https://static.toiimg.com/photo/msid-131873256,imgsize-1157681.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/racing/sports-ministry-to-create-task-force-to-study-feasibility-of-hosting-formula-1-race-in-india/articleshow/131873222.cms",
-    "time": "2026-06-20T09:12:53.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/americas-iran-playbook-after-coercion-a-return-to-diplomacy/article71113942.ece",
     "time": "2026-06-19T06:00:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Telegram challenge puts spotlight on Section 69A of the IT Act",
-    "desc": "Using the provision to block an entire platform may infringe on Constitutional rights to freedom of expression and freedom to practise a profession or run a business, similar to a blanket ban on internet services",
-    "img": "https://th-i.thgim.com/public/incoming/h10cvw/article71119084.ece/alternates/LANDSCAPE_1200/2026-06-17T064411Z_207211350_RC2IVLAOMH83_RTRMADP_3_INDIA-TELEGRAM-EDUCATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telegram-challenge-puts-spotlight-on-section-69a-of-the-it-act/article71118292.ece",
-    "time": "2026-06-19T03:08:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump defends Iran deal from critics he calls 'fools'",
-    "desc": "These fools, who think I haven't been tough enough on Iran, when the Stock Market Just Hit A RECORD HIGH, and Oil prices are 'tumbling' down, are either jealous, bad people, or stupid, says U.S. President Donald Trump",
-    "img": "https://th-i.thgim.com/public/incoming/vi24xq/article71119056.ece/alternates/LANDSCAPE_1200/PTI06_18_2026_000103B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-defends-iran-deal-from-critics-he-calls-fools/article71119035.ece",
-    "time": "2026-06-19T01:12:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Oil down 2% after U.S., Iran sign ceasefire agreement",
-    "desc": "The U.S. on Thursday lifted its blockade of Iran, and oil tankers began freely moving through the Strait of Hormuz after months of being unable to use the critical channel, as the tentative agreement to end the war took effect",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-israel-conflict-strait-of-hormuz-washington-tehran-sign-peace-deal-live-updates-june-18-2026/article71116282.ece",
-    "time": "2026-06-19T00:32:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Telegram evolved into ‘new dark web’: Centre",
-    "desc": "Relying upon an I4C assessment, the government says the app’s architecture and privacy features have made it a preferred tool for cybercriminals, fraud networks, extremist and terror groups, and operators involved in examination paper leaks",
-    "img": "https://th-i.thgim.com/public/incoming/msj2nb/article71117261.ece/alternates/LANDSCAPE_1200/2026-06-16T065334Z_954098010_RC2WPGA8QOR8_RTRMADP_3_INDIA-TELEGRAM-EDUCATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telegram-delhi-hc-hearing-government-neet-retest-restrictions/article71117255.ece",
-    "time": "2026-06-18T20:21:40.000Z"
   }
 ];
