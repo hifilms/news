@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Brazil register their first victory of FIFA World Cup 2026, dominate Haiti to register a 3-0 win",
+    "desc": "Brazil put forth a magnificent performance against Haiti as the two sides met in the ongoing FIFA World Cup 2026. The teams took on each other at the Philadelphia Stadium, and Brazil managed to register...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/brazil-register-their-first-victory-of-fifa-world-cup-2026-dominate-haiti-to-register-a-3-0-win-2026-06-20-1045513",
+    "time": "2026-06-20T02:38:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Chennai fare for the third ODI of the series?",
+    "desc": "The stage is set for the highly anticipated third ODI of the ongoing series between India and Afghanistan. The two sides will meet at the MA Chidambaram Stadium in Chenni on June 20th, and both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-weather-report-how-will-weather-in-chennai-fare-for-the-third-odi-of-the-series-2026-06-20-1045512",
+    "time": "2026-06-20T02:31:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Neymar not featuring for Brazil against Haiti in FIFA World Cup 2026 clash?",
+    "desc": "Brazil continued its FIFA World Cup 2026 campaign by taking on Haiti. After a draw against Morocco in their first game of the tournament, Brazil takes on Haiti at the Philadelphia Stadium on June 20,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-neymar-not-featuring-for-brazil-against-haiti-in-fifa-world-cup-2026-clash-2026-06-20-1045508",
+    "time": "2026-06-20T01:13:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brazil defeat Haiti 3-0 to stay in playoffs race",
+    "desc": "The stage is set for one of the most exciting clashes in the ongoing FIFA World Cup 2026. Five-time champions Brazil take on Haiti. The two sides are meeting at the Philadelphia Stadium, and will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bra-vs-hai-fifa-world-cup-2026-live-brazil-look-to-register-first-win-of-the-campaign-1045507",
+    "time": "2026-06-20T00:52:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Neeraj Chopra qualifies for Commonwealth Games after disastrous start in Doha Diamond League",
     "desc": "India’s star javelin thrower Neeraj Chopra booked his place at the upcoming Commonwealth Games after producing a throw of 82.77m during the Doha Diamond League on Friday, clearing the qualification standard in his first competition...",
     "img": "",
@@ -52,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-seal-t20i-series-vs-bangladesh-after-matt-renshaw-s-89-and-clinical-death-bowling-in-chattogram-2026-06-19-1045484",
     "time": "2026-06-19T13:46:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nasser Hussain lauds Sophie Ecclestone, calls England's go-to bowler in T20 World Cup 2026",
-    "desc": "The Women’s T20 World Cup 2026 has already made a great start as India, England, Australia and West Indies are currently unbeaten in the competition. Several cricketers, such as Shafali Verma, Smriti Mandhana, and Shemaine...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nasser-hussain-lauds-sophie-ecclestone-calls-england-s-go-to-bowler-in-t20-world-cup-2026-2026-06-19-1045474",
-    "time": "2026-06-19T12:42:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yuvraj Singh to join Delhi Capitals coaching staff in IPL 2027, franchise also plans major shake-up",
-    "desc": "Former India cricketer Yuvraj Singh is set to join Delhi Capitals as part of their coaching staff for IPL 2027. The two-time World Cup winner has groomed the likes of Shubman Gill, Abhishek Singh, Prabhsimran...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-to-join-delhi-capitals-coaching-staff-in-ipl-2027-franchise-also-plans-major-shake-up-2026-06-19-1045461",
-    "time": "2026-06-19T11:30:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran unhappy with USA's unfair treatment over travel restrictions, set to lodge complaint to FIFA",
-    "desc": "Iran’s football federation is preparing to file a complaint with FIFA over travel rules imposed on the national team during the 2026 FIFA World Cup. They pointed out that the measures have interfered with match...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/iran-unhappy-with-usa-s-unfair-treatment-over-travel-restrictions-set-to-lodge-complaint-to-fifa-2026-06-19-1045449",
-    "time": "2026-06-19T10:17:50.000Z"
   }
 ];
