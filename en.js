@@ -1,39 +1,192 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Ladakh civil society groups call for shutdown over ‘Centre’s backtracking on May 22 agreement’",
-    "desc": "All shops and business centres will remain closed on June 23 while only transport will be allowed because of the ongoing tourist season, says Ladakh Apex Body chairman in a joint press conference with Kargil Democratic Alliance",
-    "img": "https://th-i.thgim.com/public/incoming/vgxnem/article71126074.ece/alternates/LANDSCAPE_1200/20250925250L.jpg",
+    "title": "KWA steps up efforts to resolve water supply disruption in Kozhikode",
+    "desc": "Recent downpours forced the KWA subdivision to reduce water supply from the JICA drinking water project for nearly a week. Continuous intake of highly turbid water led to heavy siltation in the treatment plant’s filter beds, causing widespread shortages in dependent areas",
+    "img": "https://th-i.thgim.com/public/incoming/h5y9hd/article71126873.ece/alternates/LANDSCAPE_1200/Mysuru-City-CorGF4FPTK4O.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ladakh/ladakh-civilsociety-groups-call-for-shutdown-over-centres-backtracking-on-may-22-agreement/article71125826.ece",
-    "time": "2026-06-20T13:45:15.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/kwa-steps-up-efforts-to-resolve-water-supply-disruption-in-kozhikode/article71125274.ece",
+    "time": "2026-06-20T16:05:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Three Indian-flagged oil tankers transit through Strait of Hormuz",
+    "desc": "3 Indian-flagged crude oil tankers, carrying over 8.6 Lakh MT of cargo with 94 Indian crew members have successfully transited the Strait of Hormuz today and are en route to India, Union Minister Sarbananda Sonowal said",
+    "img": "https://th-i.thgim.com/public/incoming/pufeim/article71126870.ece/alternates/LANDSCAPE_1200/2026-06-19T081318Z_1290285097_RC2TWLAENOH9_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/three-indian-flagged-oil-tankers-transit-through-strait-of-hormuz/article71126778.ece",
+    "time": "2026-06-20T16:00:44.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Union Minister Joshi directs officials to complete work on sports complex",
-    "desc": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi instructs the officials to expedite and complete the work on the international sports complex being built under the Smart City Scheme and dedicate it to the public at the earliest",
-    "img": "https://th-i.thgim.com/public/incoming/6voe5f/article71126190.ece/alternates/LANDSCAPE_1200/2699_20_6_2026_18_52_15_1_21HUBLIJOSHISPORTS_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/union-minister-joshi-directs-officials-to-complete-work-on-sports-complex/article71126072.ece",
-    "time": "2026-06-20T13:41:32.000Z"
+    "title": "Cross-border terrorism, Middle East conflict in focus; China FM among key attendees",
+    "desc": "India hosts a crucial BRICS security conclave in New Delhi, bringing together top officials including China's Wang Yi and Russia's Shoigu. Discussions will centre on global flashpoints like the Middle East conflict and the Ukraine war, alongside regional security and terrorism concerns. This meeting serves as a vital prelude to the upcoming BRICS Summit, with a focus on non-traditional security challenges and emerging technologies.",
+    "img": "https://static.toiimg.com/photo/msid-131879234,imgsize-500618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ajit-doval-to-host-brics-security-conclave-cross-border-terrorism-middle-east-conflict-in-focus-china-fm-among-key-attendees/articleshow/131878970.cms",
+    "time": "2026-06-20T15:54:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gill breaks silence on Rohit's ODI future: 'It is a good kind of headache'",
+    "desc": "Shubman Gill admitted India have \"a good kind of headache\" over the opening combination after Yashasvi Jaiswal's second ODI hundred in three matches intensified the selection debate around Rohit Sharma ahead of the England tour. While backing Jaiswal's talent, Gill said the final XI would depend on the squad and players' fitness.",
+    "img": "https://static.toiimg.com/photo/msid-131879139,imgsize-42540.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/shubman-gill-breaks-silence-on-rohit-sharmas-odi-future-it-is-a-good-kind-of-headache/articleshow/131879138.cms",
+    "time": "2026-06-20T15:42:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mooney-inspired Oz equal highest Women's T20 WC total in rout of Netherlands",
+    "desc": "Australia continued their unbeaten Women's T20 World Cup campaign with a commanding 98-run win over the Netherlands. Beth Mooney starred with 74 before retiring hurt as Australia posted 219/6, equalling the tournament's highest total. The Netherlands managed 121/3, with captain Babette de Leede scoring an unbeaten 56 as Australia secured their third successive victory.",
+    "img": "https://static.toiimg.com/photo/msid-131879017,imgsize-184524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/beth-mooney-inspired-australia-equal-highest-womens-t20-world-cup-total-in-rout-of-netherlands/articleshow/131878934.cms",
+    "time": "2026-06-20T15:35:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "3 Indian-flagged oil tankers cross Strait of Hormuz, head home with 94 crew members",
+    "desc": "Three Indian oil tankers, carrying over 8.6 lakh metric tonnes of cargo and 94 crew members, have successfully navigated the Strait of Hormuz and are heading home. This safe passage follows a US decision to lift its blockade on Iran, allowing resumed movement through the vital waterway. The government assures continued efforts to protect India's maritime and energy interests, with the vessels expected to reach Indian ports next week.",
+    "img": "https://static.toiimg.com/photo/msid-131878929,imgsize-151697.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/3-indian-flagged-oil-tankers-cross-strait-of-hormuz-head-home-with-94-crew-members/articleshow/131878913.cms",
+    "time": "2026-06-20T15:21:27.000Z"
   },
   {
     "cat": "Politics",
-    "title": "PM participates in 'Paschimbanga Divas' celebration, releases PM-Kisan instalment worth ₹18,880 crore",
-    "desc": "“Today, after the elections and the swearing-in, I have the good fortune for the first time to come among you. There is now a new freshness in the air of Bengal. It feels as if Bengal has now broken free from its shackles, and the return of Bengal’s glory has begun,” says PM Modi",
-    "img": "https://th-i.thgim.com/public/news/national/vq3mtv/article71125884.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-20%20175927.png",
+    "title": "Centre must hold meeting with CMs to conduct NEET and other national-level examinations: CWC member Rudra Raju",
+    "desc": "CWC Member Gidugu Rudra Raju asked the Union government to hold a meeting with all the Chief Ministers of the respective States and take their suggestions to ensure foolproof arrangements for the national level examinations to be conducted in 2027",
+    "img": "https://th-i.thgim.com/public/incoming/cmyptl/article71125459.ece/alternates/LANDSCAPE_1200/10215_18_4_2026_16_59_17_1_WHATSAPPIMAGE2026_04_18AT40233PM.JPEG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/pm-modi-paschimbanga-divas-benefits-schemes-updates/article71125832.ece",
-    "time": "2026-06-20T13:38:57.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/center-must-hold-meeting-with-cms-to-conduct-neet-and-other-national-level-examinations-cwc-member-rudra-raju/article71125170.ece",
+    "time": "2026-06-20T15:08:29.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Ensure there are no 'glitches' this time: Rahul to government ahead of NEET-UG re-exam",
-    "desc": "I hope you have a wonderful, excellent exam and you all do really, really well. Remember, we are with you, we want to look after you, protect you and make sure that you have a brilliant future, says Congress leader Rahul Gandhi",
-    "img": "https://th-i.thgim.com/public/incoming/kmitl5/article71126106.ece/alternates/LANDSCAPE_1200/PTI05_25_2026_000293B.jpg",
+    "title": "Natural farming antidote to excessive use of pesticides, asserts Chief Minister Chandrababu Naidu",
+    "desc": "The Chief Minister disburses financial assistance of ₹3,125 crore under first instalment of Annadata Sukhibhava-PM Kisan scheme for 2026 kharif season, says the coalition government is committed to fulfilling its election promise to the farmers",
+    "img": "https://th-i.thgim.com/public/incoming/wp2dkp/article71126599.ece/alternates/LANDSCAPE_1200/10215_20_6_2026_20_19_30_2_WHATSAPPIMAGE2026_06_20AT81420PM.JPEG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ensure-there-are-no-glitches-this-time-rahul-to-government-ahead-of-neet-ug-re-exam/article71126073.ece",
-    "time": "2026-06-20T13:31:32.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/natural-farming-antidote-to-excessive-use-of-pesticides-asserts-chief-minister-chandrababu-naidu/article71126255.ece",
+    "time": "2026-06-20T15:03:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SOP released to conserve sea turtles across 36 islands of Lakshadweep",
+    "desc": "A new Standard Operating Procedure has been launched for sea turtle conservation in Lakshadweep, offering a unified framework for management and monitoring. This initiative aims to protect all four major sea turtle species, which are legally protected. The SOP addresses nesting site security, migration tracking, and rescue protocols, building on the success of a decade-long ban on poaching that has boosted green turtle populations in the region.",
+    "img": "https://static.toiimg.com/photo/msid-131878677,imgsize-1611512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sop-released-to-conserve-sea-turtles-across-36-islands-of-lakshadweep/articleshow/131878552.cms",
+    "time": "2026-06-20T15:00:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is driving the latest wave of protests in PoK — and what it means for Pakistan",
+    "desc": "The situation in Pakistan-occupied Kashmir (PoK) has come to light, exposing serious governance challenges that undermine Pakistan's portrayal as a peace broker in the region. Protests began with economic discontent over rising electricity costs and inflation, swiftly evolving into calls for political reforms that would eliminate reserved seats for refugees in the PoK assembly.",
+    "img": "https://static.toiimg.com/photo/msid-131878761,imgsize-68654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/peace-broker-or-troubled-state-what-pok-unrest-means-for-pakistan/articleshow/131878384.cms",
+    "time": "2026-06-20T14:58:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Juhi Chawla's in-laws once loaned money to the Gujarat Government",
+    "desc": "Juhi Chawla's family wealth has deep roots in Gujarat's history. Her in-laws, the Mehta family, once loaned money to the newly formed Gujarat government in 1960, which faced a severe financial crisis. This act of support by Nanji Kalidas Mehta, grandfather of her husband Jay Mehta, highlights the family's long-standing business acumen and contribution to the state's early development, extending beyond their current business empire.",
+    "img": "https://static.toiimg.com/photo/msid-131878608,imgsize-220007.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/juhi-chawlas-husband-jay-mehtas-grandfather-loaned-money-to-the-gujarat-government-the-mehta-groups-reported-net-worth-is-rs-17500-crore/articleshow/131878604.cms",
+    "time": "2026-06-20T14:55:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Krishna's five-for, Jaiswal's 110 power India to 3-0 sweep over Afghanistan",
+    "desc": "Yashasvi Jaiswal's unbeaten 110 and Rohit Sharma's 79 powered India to a nine-wicket win over Afghanistan in Chennai and a 3-0 ODI series sweep. Earlier, Prasidh Krishna's career-best 5/23 reduced Afghanistan to 36/4 before captain Hashmatullah Shahidi's maiden ODI century helped the visitors recover to 218, which India chased down in 28.4 overs.",
+    "img": "https://static.toiimg.com/photo/msid-131878605,imgsize-108323.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/prasidh-krishnas-five-for-yashasvi-jaiswals-unbeaten-110-power-india-to-3-0-series-sweep-over-afghanistan/articleshow/131878435.cms",
+    "time": "2026-06-20T14:55:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AKSTU takes out Secretariat march",
+    "desc": "Raising a slew of demands, including that the State withdraw from the PM SHRI scheme and corrective measures to address what it described as the neglect of the general education sector in the revised Budget",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/71vrpg/article71126556.ece/alternates/LANDSCAPE_1200/AKSTU.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/akstu-takes-out-secretariat-march/article71126300.ece",
+    "time": "2026-06-20T14:55:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Monsoon, El Niño and market trends: NSE highlights key risks for India’s 2026 economy",
+    "desc": "India's 2026 economic outlook hinges on monsoon performance, with El Niño posing a significant risk of deficient rainfall impacting agriculture. Meanwhile, the nation's equity investor base is rapidly expanding, becoming younger and more diverse, with a notable surge in participation from smaller cities. Despite this growth, trading activity remains heavily concentrated among a small group of large investors across all market segments.",
+    "img": "https://static.toiimg.com/photo/msid-131878535,imgsize-1145973.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/monsoon-el-nio-and-market-trends-nse-highlights-key-risks-for-indias-2026-economy/articleshow/131878432.cms",
+    "time": "2026-06-20T14:48:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Beyond the physical world': Congress mocks Tharoor's 'admiration' for PM Modi",
+    "desc": "The row began after Tharoor reportedly remarked that PM Modi had raised the issue of civilian sailors during interactions with US President Donald Trump. The comments drew criticism from the Congress, with Khera suggesting that Tharoor was attributing statements to the prime minister that were not reflected in official records.",
+    "img": "https://static.toiimg.com/photo/msid-131878462,imgsize-176875.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/beyond-the-physical-world-congress-mocks-tharoors-admiration-for-pm-modi/articleshow/131878179.cms",
+    "time": "2026-06-20T14:46:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India thrash Chile 6-0 to set up Nations Cup final against New Zealand",
+    "desc": "The Indian women's hockey team showcased a dominant performance, thrashing Chile 6-0 in the semifinals of the Nations Cup to secure a spot in the final against hosts New Zealand. Navneet Kaur and Deepika each scored twice, with Neha and Rutuja Dadaso Pisal adding one goal apiece. The team's fluid play and clinical finishing, especially from penalty corners, have them brimming with confidence for the title clash.",
+    "img": "https://static.toiimg.com/photo/msid-131878427,imgsize-56127.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-thrash-chile-6-0-to-set-up-nations-cup-final-against-new-zealand/articleshow/131878433.cms",
+    "time": "2026-06-20T14:41:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bizarre scene! Gurbaz kicks ball to boundary, gifts Rohit four runs",
+    "desc": "Afghanistan wicketkeeper Rahmanullah Gurbaz provided a bizarre moment during the third ODI against India when a top edge from Rohit Sharma bounced off his knees and ran away for four, leaving fans amused. Gurbaz appeared to hurt himself while attempting the save but resumed play after treatment. Afghanistan later posted 218, with Hashmatullah Shahidi scoring a century.",
+    "img": "https://static.toiimg.com/photo/msid-131878352,imgsize-104945.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/bizarre-scene-in-chennai-rahmanullah-gurbaz-kicks-ball-to-boundary-gifts-rohit-sharma-four-runs-watch/articleshow/131877898.cms",
+    "time": "2026-06-20T14:35:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Charan, Upasana reveal daughter Klin Kaara's face for the first time",
+    "desc": "Ram Charan and Upasana Kamineni Konidela delighted fans by revealing their elder daughter Klin Kaara's face for the first time on her birthday. The couple shared adorable family photos, including a glimpse of their newborn twins, Shivram and Anveera Devi. Upasana spoke about her evolving motherhood experience, finding fulfillment in raising all three children with Ram Charan's active involvement.",
+    "img": "https://static.toiimg.com/photo/msid-131878290,imgsize-354346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-charan-and-wife-upasana-reveal-daughter-klin-kaaras-face-for-the-first-time-netizens-cant-stop-gushing/articleshow/131878199.cms",
+    "time": "2026-06-20T14:29:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samantha Ruth Prabhu is expecting her first child with Raj Nidimoru",
+    "desc": "Actress Samantha Ruth Prabhu is reportedly expecting her first child with husband Raj. The news follows the massive success of her latest film, 'Maa Inti Bangaaram,' which reportedly recouped its investment on release day. While Samantha and Raj haven't officially announced, a spokesperson has confirmed the pregnancy. Fans have been speculating after spotting what appeared to be a baby bump in recent photos.",
+    "img": "https://static.toiimg.com/photo/msid-131877829,imgsize-249992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samantha-ruth-prabhu-is-expecting-her-first-child-with-raj-nidimoru-spokesperson-confirms-pregnancy-exclusive/articleshow/131877806.cms",
+    "time": "2026-06-20T14:02:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India break 22-year-old ODI record in just 6 balls against Afghanistan",
+    "desc": "India launched their chase against Afghanistan with a record-shattering 23 runs in the opening over, fueled by Yashasvi Jaiswal's aggressive batting and several extras. This remarkable start, following a five-run penalty against Afghanistan, set the tone for the chase. Earlier, Afghanistan posted 218, with captain Hashmatullah Shahidi scoring a century, but were undone by Prasidh Krishna's stellar 5-wicket haul.",
+    "img": "https://static.toiimg.com/photo/msid-131877820,imgsize-54734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/india-break-22-year-old-odi-record-in-just-6-balls-against-afghanistan/articleshow/131877743.cms",
+    "time": "2026-06-20T13:59:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EU removes negative travel advisory for Assam; CM Himanta says talks on with US, Canada",
+    "desc": "Assam's Chief Minister announced that the European Union has removed its negative travel advisories for the state, a move that signifies a strong vote of confidence. This development, following a recent EU diplomat visit, excludes three districts still under AFSPA. The state is now engaging with the US and Canada to encourage similar revisions to their travel guidance.",
+    "img": "https://static.toiimg.com/photo/msid-131877607,imgsize-612598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eu-removes-negative-travel-advisory-for-assam-cm-says-himanta-says-talks-on-with-us-canada/articleshow/131876796.cms",
+    "time": "2026-06-20T13:49:16.000Z"
   },
   {
     "cat": "Business",
@@ -117,15 +270,6 @@ const newsData_en = [
     "time": "2026-06-20T12:12:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Won't leave until Pradhan resigns': CJP founder Dipke seeks permission to extend protest",
-    "desc": "Abhijit Dipke was addressing a large number of students and supporters demonstrating at the second protest organised by the CJP over in New Delhi, alleging examination irregularities, repeated paper leaks and demands for accountability from the government",
-    "img": "https://th-i.thgim.com/public/incoming/h55zrn/article71125815.ece/alternates/LANDSCAPE_1200/PTI06_20_2026_000278A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/wont-leave-until-pradhan-resigns-cjp-founder-dipke-seeks-permission-to-extend-protest/article71125741.ece",
-    "time": "2026-06-20T12:04:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Netizens react to Samay's comeback with Alia and Sharvari",
     "desc": "Samay Raina has confirmed Alia Bhatt and Sharvari as the first guests on 'India's Got Latent' Season 2, premiering on Netflix and YouTube this Saturday. Fans flooded the comments with hilarious reactions. Season 1 had landed in trouble after Ranveer Allahbadia's controversial remarks triggered multiple FIRs.",
@@ -162,15 +306,6 @@ const newsData_en = [
     "time": "2026-06-20T11:35:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "AI-enabled crowd management system to be implemented in Sabarimala from this year",
-    "desc": "Announced by Travancore Devaswom Board president K. Jayakumar, the pilot programme will leverage real-time data and predictive analytics to streamline pilgrim movement and improve safety, with features including high-resolution cameras and face-recognition technology for locating missing individuals.",
-    "img": "https://th-i.thgim.com/public/incoming/ylzgvg/article71125737.ece/alternates/LANDSCAPE_1200/80693_8_1_2025_20_42_5_1_PILGRIMS2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ai-enabled-crowd-management-system-to-be-implemented-in-sabarimala-from-this-year/article71125574.ece",
-    "time": "2026-06-20T11:32:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Prabhu Deva buys an ultra-luxurious limousine worth Rs 70 lakh",
     "desc": "Prabhu Deva has taken delivery of the MG M9 Presidential Limousine, priced at around Rs 70 lakh. The premium electric MPV comes loaded with 16-way adjustable seats, massage modes and a 13-speaker sound system. Deva, who has won two National Film Awards and the Padma Shri, is known for films like 'Wanted' and 'Rowdy Rathore'.",
@@ -196,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/hum-do-hamare-1-9-what-indias-falling-fertility-rates-reveal/articleshow/131874395.cms",
     "time": "2026-06-20T11:25:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monsoon tracker LIVE",
-    "desc": "Isolated heavy to very heavy rainfall likely over sub-Himalayan West Bengal & Sikkim and northeast India during the week with possibility of isolated extremely heavy rainfall over sub-Himalayan West Bengal & Sikkim till June 21",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/monsoon-in-india-southwest-monsoon-rainfall-weather-imd-heavy-rain-expected-in-tamil-nadu-live-updates-june-20-2026/article71125106.ece",
-    "time": "2026-06-20T11:24:44.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +396,6 @@ const newsData_en = [
     "time": "2026-06-20T10:37:47.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Referee Felix Zwayer collapses in his first FIFA World Cup outing",
-    "desc": "In a startling incident during Australia's World Cup clash with the USA, referee Felix Zwayer collapsed due to heat exhaustion, prompting a six-minute stoppage. Demonstrating a spirit of sportsmanship, Australian defender Aiden O'Neill rushed to aid Zwayer, providing leg stretches. Remarkably, Zwayer managed to recover and continue officiating, etching a memorable moment into the tournament's history.",
-    "img": "https://static.toiimg.com/photo/msid-131874053,imgsize-333008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/debutant-referee-felix-zwayer-collapses-in-his-first-fifa-world-cup-outing-video-goes-viral/articleshow/131874053.cms",
-    "time": "2026-06-20T10:34:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Creepy’: Raghavendra Rao faces backlash over Niharika video",
     "desc": "K Raghavendra Rao, a seasoned director, is under fire once more as footage from the launch of Anil Ravipudi's film 'Venky Anil 5' circulates online. In the clip, Rao is seen directing actresses Keerthy Suresh and Krithi Shetty, raising concerns over his close interactions. This incident has reignited discussions about personal boundaries and appropriate behavior in public settings, especially as it recalled a similar incident involving Niharika Konidela.",
@@ -342,15 +459,6 @@ const newsData_en = [
     "time": "2026-06-20T10:06:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "SRK dances on Koi Mil Gaya at Supriya;s daughter’s pre-wedding bash",
-    "desc": "Shah Rukh Khan attended the pre-wedding celebrations of Supriya Sule's daughter Revati, where he hugged the couple and danced to 'Koi Mil Gaya' from 'Kuch Kuch Hota Hai'. Videos went viral online. Khan will next be seen in 'King', releasing on December 24, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131873933,imgsize-224473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-sets-dance-floor-on-fire-to-koi-mil-gaya-at-supriya-sules-daughters-pre-wedding-bash-watch/articleshow/131873933.cms",
-    "time": "2026-06-20T10:04:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Sunetra Pawar’s brother acquitted in 2006 murder case; CBI to appeal in Bombay high court",
     "desc": "The CBI will challenge the acquittal of nine individuals, including former NCP leader Padamsinh Patil, in the 2006 Pawanraje Nimbalkar double murder case. Maharashtra's Deputy Chief Minister confirmed the appeal to the Bombay High Court, citing disappointment with the special court's decision. The acquittal, nearly two decades after the murders, hinged on the unreliability of a key witness. This high-profile political murder case is set for further legal battle.",
@@ -367,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/chinas-economy-struggles-to-regain-domestic-momentum-despite-export-boom-report/articleshow/131873654.cms",
     "time": "2026-06-20T09:54:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil president Lula mocks Neymar, calls him 'home office player'",
-    "desc": "Brazil coach Carlo Ancelotti has confirmed Neymar will be available for the decisive World Cup Group C clash against Scotland after recovering from a calf injury that sidelined him for the first two matches. His return comes as Brazil face uncertainty over Raphinha's hamstring problem, following a 3-0 win over Haiti that boosted their knockout-stage hopes.",
-    "img": "https://static.toiimg.com/photo/msid-131873559,imgsize-118602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/brazil-president-lula-mocks-neymar-calls-him-home-office-player-heres-why/articleshow/131873426.cms",
-    "time": "2026-06-20T09:36:27.000Z"
   },
   {
     "cat": "Business",
@@ -396,24 +495,6 @@ const newsData_en = [
     "time": "2026-06-20T09:12:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘That Was Scary’: Sonali Bendre on Her Intense ‘Raakh’ Role",
-    "desc": "Sonali Bendre's portrayal of Mona in 'Raakh' offered a profound exploration of her character's silent sorrow and few words. Although the limited dialogue made her performance smoother, the emotional intensity lingered beyond the camera, occasionally impacting her personal life. Set against a backdrop of a true crime story from the 1970s, the gripping series is available for streaming on Prime Video.",
-    "img": "https://static.toiimg.com/photo/msid-131877082,imgsize-57930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/that-was-scary-for-me-it-followed-me-home-sonali-bendre-opens-up-on-how-her-silent-dialogue-free-performance-in-raakh-was-deeply-internalized-and-terrifying/articleshow/131873130.cms",
-    "time": "2026-06-20T09:03:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about the ‘House of the Dragon’ Season 3 cast changes",
-    "desc": "Anticipation is high for 'House of the Dragon' Season 3, promising more intense battles. Several key characters are returning, including Rhaenyra Targaryen and Alicent Hightower. However, some beloved figures like Rhaenys Targaryen and the Cargyll twins will not be back due to their fates in previous seasons. The new season also introduces fresh faces and a recast role for Princess Jaehaera Targaryen, set to premiere on June 21, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131873037,imgsize-146824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/house-of-the-dragon-season-3-cast-22-actors-including-emma-darcy-olivia-cooke-matt-smith-and-more-to-reprise-their-roles-while-many-others-drop-out-of-the-new-season/articleshow/131872992.cms",
-    "time": "2026-06-20T09:01:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why is KL Rahul not playing? Shubman makes 3 big changes vs Afghanistan",
     "desc": "India has made three changes for the final ODI against Afghanistan, with KL Rahul notably absent from the playing XI. Despite already securing the series 2-0, the team aims for a clean sweep. Captain Shubman Gill indicated the side will focus on improving their big-chasing abilities. Afghanistan, opting to bat first, also introduced several new faces to their lineup.",
@@ -421,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/why-is-kl-rahul-not-playing-shubman-gill-makes-three-changes-for-third-odi-vs-afghanistan/articleshow/131873059.cms",
     "time": "2026-06-20T08:55:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Insult to Hindu faith': BJP slams Congress for depicting Rahul Gandhi as Lord Parshuram; row erupts",
-    "desc": "A political storm has erupted in Varanasi after Congress workers depicted Rahul Gandhi as Lord Parshuram, performing a symbolic milk ablution on his photograph. The BJP has strongly condemned the act, accusing the Congress of disrespecting Hindu faith and using religious symbols for political gain. Congress leaders, however, defended the gesture, questioning the BJP's monopoly on religious figures and asserting Gandhi's distinct identity.",
-    "img": "https://static.toiimg.com/photo/msid-131873055,imgsize-905091.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/insult-to-hindu-faith-bjp-slams-congress-for-depicting-rahul-gandhi-as-lord-parshuram-row-erupts/articleshow/131872713.cms",
-    "time": "2026-06-20T08:53:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi wishes President Murmu on birthday, joins her in Odisha to launch projects worth over Rs 47,600 crore",
-    "desc": "Prime Minister Narendra Modi celebrated President Droupadi Murmu's birthday by highlighting her dedication to public service before joining her in Odisha. Their visit included engagements in her native Mayurbhanj district and the inauguration of development projects exceeding Rs 47,600 crore. These initiatives span energy, infrastructure, healthcare, and more, aiming to boost connectivity and create jobs across the state.",
-    "img": "https://static.toiimg.com/photo/msid-131873044,imgsize-116557.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-wishes-president-murmu-on-birthday-joins-her-in-odisha-to-launch-rs-47600-crore-projects/articleshow/131872898.cms",
-    "time": "2026-06-20T08:52:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -493,24 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-world-cup-paraguay-beats-turkiye-1-0-despite-being-one-man-down-turkiyes-32-shots-all-in-vain/article71125123.ece",
     "time": "2026-06-20T05:26:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How captaincy has fueled Shubman Gill's rise as India's new run machine",
-    "desc": "Shubman Gill's captaincy has coincided with a remarkable surge in his batting prowess across formats. Since taking charge, he's transformed into a dependable scorer, notching centuries at an impressive rate. This leadership role appears to have unlocked a new level, with his Test average nearly doubling and his run-scoring significantly boosted, raising questions about the impact of the armband on his game.",
-    "img": "https://static.toiimg.com/photo/msid-131869974,imgsize-1546094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-captaincy-has-fueled-shubman-gills-rise-as-indias-new-run-machine/articleshow/131869859.cms",
-    "time": "2026-06-20T03:32:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's 2027 World Cup plans may hinge on Kuldeep rediscovering his rhythm",
-    "desc": "Kuldeep Yadav's place may not be under immediate threat, but his form has become a talking point. As India begin building towards the 2027 ODI World Cup, the team management is backing the left-arm wrist spinner to rediscover his wicket-taking touch and lead the middle overs once again.",
-    "img": "https://static.toiimg.com/photo/msid-131869190,imgsize-411276.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/curious-case-of-kuldeep-yadav-with-the-2027-odi-world-cup-in-sight-india-need-their-premier-wicket-taker-back-in-form/articleshow/131869158.cms",
-    "time": "2026-06-20T01:37:22.000Z"
   },
   {
     "cat": "Business",
@@ -702,15 +747,6 @@ const newsData_en = [
     "time": "2026-06-19T12:28:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Which are the top gainers and losers in BSE Sensex and Nifty50 today? Check list",
-    "desc": "Indian markets snapped a five-day winning streak on Friday, with the Sensex and Nifty closing lower. A sharp selloff in IT stocks, sparked by Accenture's reduced growth forecast, and renewed geopolitical concerns weighed on investor sentiment. The postponement of US-Iran peace talks added to the caution, prompting profit-booking after a recent rally.",
-    "img": "https://static.toiimg.com/photo/msid-131858829,imgsize-1309236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-the-top-gainers-and-losers-in-bse-sensex-and-nifty50-today-check-list/articleshow/131858842.cms",
-    "time": "2026-06-19T12:09:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "Lebanon says 18 killed in strikes, Israel reports deaths of 4 soldiers",
     "desc": "“Overnight, the IDF [military] struck more than 80 command centres, terrorists, launch positions, and additional terrorist infrastructure sites in the area of Nabatieh and additional areas in southern Lebanon, within the Security Zone and beyond it,” says Israel’s military",
@@ -810,15 +846,6 @@ const newsData_en = [
     "time": "2026-06-18T20:21:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gill — steering India’s fortunes",
-    "desc": "While the larger goal for the classy 26-year-old will be the 50-over World Cup next year, the more enervating battles on the horizon for the young captain would be acquitting himself well in the home and away series lined up as part of the World Test Championship",
-    "img": "https://th-i.thgim.com/public/incoming/effbu/article71119424.ece/alternates/LANDSCAPE_1200/INDIA%20Afghanistan%20ODI%207.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/gill-steering-indias-fortunes/article71119428.ece",
-    "time": "2026-06-18T19:05:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Boong’s quiet reckoning with patriarchal injustice",
     "desc": "Beyond the engaging drama of a boy’s longing for his long-missing father, the film touches upon the complex gender dynamics of Manipuri society; it also compels viewers to pause and reflect on the deeply embedded patriarchal structures, urging much-needed social introspection",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/world-music-day-2026-hyderabad-to-light-up-with-music/article71108134.ece",
     "time": "2026-06-18T05:31:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "U.S.-Iran deal could remove restrictions on tankers; unlock banking, insurance access",
-    "desc": "Before the conflict, international shipping through the Strait of Hormuz operated without tolls, service fees or any mandatory reporting to national authorities; while the U.S. says no tolls should be imposed, Iran says ships transiting the strait will have to pay a service fee and report to authorities",
-    "img": "https://th-i.thgim.com/public/business/Industry/u8poqc/article71112930.ece/alternates/LANDSCAPE_1200/StraitofHormuz.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/what-the-14-point-mou-between-iran-and-the-us-means-for-shipping/article71112920.ece",
-    "time": "2026-06-17T17:13:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tomato, onion, potato prices rise within a week, yet farmers say their produce fetches very low prices",
-    "desc": "‘In potato-growing States such as U.P., and Bihar too, farmers are in distress as they get as little as ₹2 or ₹3 per kilo for potatoes. But consumers are paying through their nose,’ says farmer leader Ashok Dhawale",
-    "img": "https://th-i.thgim.com/public/incoming/7bv1k3/article71114812.ece/alternates/LANDSCAPE_1200/6270_17_6_2026_14_58_8_1_TOMATOPRICEHIKEDELHI2026_17_06_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tomato-onion-potato-prices-rise-within-a-week-yet-farmers-say-their-produce-fetches-very-low-prices/article71114349.ece",
-    "time": "2026-06-17T16:27:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How India’s new flex fuel norms affect your vehicle and wallet",
-    "desc": "The government has approved rules for 100% ethanol (E100) fuel. What does this mean for motorists? From higher car costs to lower mileage, here’s a simple breakdown of flex-fuel vehicles, costs, and impact on your everyday driving.",
-    "img": "https://th-i.thgim.com/public/incoming/mb9gu2/article71114867.ece/alternates/LANDSCAPE_1200/EMERGENCY%20MEASURES%20NO%20GOLD%20%20FOREIGN%20TRIPS%20.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/e100-how-indias-new-flex-fuel-norms-affect-your-vehicle-and-wallet-business-matters/article71114870.ece",
-    "time": "2026-06-17T16:23:38.000Z"
   }
 ];

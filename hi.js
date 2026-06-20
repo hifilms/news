@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Yashasvi Jaiswal's ton and Prasidh Krishna's five-for help India whitewash Afghanistan in Chennai",
+    "desc": "India registered a comfortable nine-wicket win in the third ODI against Afghanistan at the M A Chidambaram Stadium in Chennai. They produced another dominant show with both bat and ball, leaving the visitors in tatters....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-s-ton-and-prasidh-krishna-s-five-for-help-india-whitewash-afghanistan-in-chennai-2026-06-20-1045566",
+    "time": "2026-06-20T15:16:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yashasvi Jaiswal shatters Shikhar Dhawan's India record after slamming century on ODI return",
+    "desc": "Yashasvi Jaiswal slammed a stellar hundred in the third and final ODI of the series against Afghanistan as he shattered a major Shikhar Dhawan record on his return to the format. Jaiswal turned the heads...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-shatters-shikhar-dhawans-india-record-after-slamming-century-on-odi-return-2026-06-20-1045563",
+    "time": "2026-06-20T14:27:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma breaks Rahul Dravid, Virender Sehwag's legendary records in 3rd ODI vs Afghanistan",
+    "desc": "Senior India batter Rohit Sharma delivered a strong performance in the third ODI against Afghanistan at the MA Chidambaram Stadium in Chennai. Chasing 219, he reached his half-century off 47 balls, helping keep India in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-breaks-rahul-dravid-virender-sehwag-s-legendary-records-in-3rd-odi-vs-afghanistan-2026-06-20-1045562",
+    "time": "2026-06-20T14:16:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why did India start their innings at 5/0 in third ODI against Afghanistan? Check what happened at Chepauk",
     "desc": "India started their batting innings at 5/0 after being awarded five penalty runs during their third and final ODI of the series against Afghanistan at the MA Chidambaram Stadium in Chennai. This came after the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-kl-rahul-not-playing-for-india-against-afghanistan-in-the-third-odi-against-afghanistan-2026-06-20-1045533",
     "time": "2026-06-20T07:45:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jaiswal, Rohit slam fifties as India eye big and early win",
-    "desc": "India are looking to sweep Afghanistan in the three-match ODI series after winning the first two matches by commanding margins. The Men in Blue chased down a middling 195 in a rain-hit game in Dharamsala...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-3rd-odi-live-cricket-score-india-vs-afghanistan-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-playing-xis-2026-06-20-1045532",
-    "time": "2026-06-20T07:04:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Turkey crash out of FIFA World Cup 2026 as Paraguay cause major upset in Group D",
-    "desc": "In one of the biggest upsets of the ongoing FIFA World Cup 2026, Turkey has officially been eliminated from the tournament after facing a defeat against Paraguay. The two sides met at the San Francisco...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/turkey-crash-out-of-fifa-world-cup-2026-as-paraguay-cause-major-upset-in-group-d-2026-06-20-1045530",
-    "time": "2026-06-20T06:40:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why should Shubman Gill be rested for IND vs AFG 3rd ODI? Predicting India's Probable Playing XI",
-    "desc": "India are set to face Afghanistan in the third and final ODI of the series at the MA Chidambaram Stadium in Chennai as the eyes turn on the Men in Blue once more. India have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-should-shubman-gill-be-rested-for-ind-vs-afg-3rd-odi-predicting-indias-probable-playing-xi-2026-06-20-1045529",
-    "time": "2026-06-20T06:19:51.000Z"
   }
 ];
