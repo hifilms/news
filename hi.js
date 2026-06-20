@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How did Ben Stokes perform in County cricket after being dropped from England Test squad?",
+    "desc": "Ben Stokes produced a commanding return to form in the County Championship, falling just five runs short of a century after a fluent 95 for Durham against Northamptonshire at Chester-le-Street on Friday. Coming in at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-did-ben-stokes-perform-in-county-cricket-after-being-dropped-from-england-test-squad-2026-06-21-1045577",
+    "time": "2026-06-20T18:55:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra awarded Best Male Athlete of the Year 2025, Parul Choudhary wins Female Athlete category",
+    "desc": "Neeraj Chopra was named Best Male Athlete of the Year 2025 at the inaugural Indian Athletics Awards held on Saturday, June 20. It marked another recognition for the Olympic gold medallist at a ceremony in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-awared-best-male-athlete-of-the-year-2025-parul-choudhary-wins-female-athlete-category-2026-06-20-1045575",
+    "time": "2026-06-20T18:07:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aryna Sabalenka suffers another Bagel, loses to Jessica Pegula in semi-final of Berlin Open",
+    "desc": "Aryna Sabalenka suffered another disappointing result ahead of Wimbledon as the world No. 1 was knocked out of the Berlin Open semifinals by Jessica Pegula on Saturday. The Belarusian lost 6-4, 6-7(4), 6-0 in a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-suffers-another-bagel-loses-to-jessica-pegula-in-semi-final-of-berlin-open-2026-06-20-1045572",
+    "time": "2026-06-20T17:32:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root joins 14,000 Test runs club, also becomes first cricketer to register major milestone",
+    "desc": "Star England batter Joe Root became only the second batter in Test cricket history to reach 14,000 runs in the second Test against New Zealand at The Oval. He was two runs short of reaching...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-joins-14-000-test-runs-club-also-becomes-first-cricketer-to-register-major-milestone-2026-06-20-1045570",
+    "time": "2026-06-20T16:15:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Yashasvi Jaiswal's ton and Prasidh Krishna's five-for help India whitewash Afghanistan in Chennai",
     "desc": "India registered a comfortable nine-wicket win in the third ODI against Afghanistan at the M A Chidambaram Stadium in Chennai. They produced another dominant show with both bat and ball, leaving the visitors in tatters....",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-odis-for-india-rohit-sharma-prasidh-krishna-create-unique-record-in-3rd-afghanistan-odi-2026-06-20-1045547",
     "time": "2026-06-20T10:49:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Blow for India as Hardik Pandya ruled out of ODI series against England; who will be key now?",
-    "desc": "In a major blow for India, all-rounder Hardik Pandya has been ruled out of the upcoming ODI series against England, news agency ANI reported. Pandya, who missed a few matches in the IPL 2026, was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/blow-for-india-as-hardik-pandya-ruled-out-of-odi-series-against-england-who-will-be-key-now-2026-06-20-1045542",
-    "time": "2026-06-20T09:46:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Positive news on India talisman ahead of England ODI series",
-    "desc": "Virat Kohli's return to the ODIs might not be too long away as the Indian talisman seems to be in line for the England series. Kohli is recovering from a hamstring injury that he suffered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-injury-update-positive-news-on-india-talisman-ahead-of-england-odi-series-2026-06-20-1045538",
-    "time": "2026-06-20T08:35:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Kuldeep Yadav and Arshdeep Singh not playing in IND vs AFG 3rd ODI?",
-    "desc": "Kuldeep Yadav and Arshdeep Singh were among the three changes India made for their third and final ODI of the series against Afghanistan on Saturday, June 20. Having already clinched the series with an unassailable...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-kuldeep-yadav-and-arshdeep-singh-not-playing-in-ind-vs-afg-3rd-odi-2026-06-20-1045535",
-    "time": "2026-06-20T07:51:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is KL Rahul not playing for India against Afghanistan in the third ODI against Afghanistan?",
-    "desc": "The stage is set for the third and final ODI of the ongoing series between India and Afghanistan. The two sides lock horns at the MA Chidambaram Stadium in Chennai on June 20, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kl-rahul-not-playing-for-india-against-afghanistan-in-the-third-odi-against-afghanistan-2026-06-20-1045533",
-    "time": "2026-06-20T07:45:21.000Z"
   }
 ];
