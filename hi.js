@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why did India start their innings at 5/0 in third ODI against Afghanistan? Check what happened at Chepauk",
+    "desc": "India started their batting innings at 5/0 after being awarded five penalty runs during their third and final ODI of the series against Afghanistan at the MA Chidambaram Stadium in Chennai. This came after the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-india-start-their-innings-at-5-for-no-loss-in-third-odi-against-afghanistan-check-what-happened-at-chepauk-2026-06-20-1045553",
+    "time": "2026-06-20T12:17:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hashmatullah Shahidi creates history against India, slams maiden ODI century at Chepauk",
+    "desc": "Hashmatullah Shahidi created history as he became the first Afghanistan captain to hit a hundred against India in any format. The 31-year-old slammed a stellar and a fighting century in the third ODI of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hashmatullah-shahidi-creates-history-against-india-slams-maiden-odi-century-at-chepauk-2026-06-20-1045551",
+    "time": "2026-06-20T11:40:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "First time in ODIs for India! Rohit Sharma, Prasidh Krishna create unique record in 3rd Afghanistan ODI",
     "desc": "Rohit Sharma and Prasidh Krishna combined to create a unique record for India during the third ODI against Afghanistan at the MA Chidambaram Stadium in Chennai as the speedster jolted the opposition batting line-up on...",
     "img": "",
@@ -46,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Hashmatullah eyes century as he leads the fight for Afghanistan",
+    "title": "Jaiswal, Rohit slam fifties as India eye big and early win",
     "desc": "India are looking to sweep Afghanistan in the three-match ODI series after winning the first two matches by commanding margins. The Men in Blue chased down a middling 195 in a rain-hit game in Dharamsala...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-should-shubman-gill-be-rested-for-ind-vs-afg-3rd-odi-predicting-indias-probable-playing-xi-2026-06-20-1045529",
     "time": "2026-06-20T06:19:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will the surface at MA Chidambaram Stadium in Chennai play for the 3rd ODI?",
-    "desc": "The stage is set for the third and final ODI of the ongoing series between India and Afghanistan. The two sides will meet at the MA Chidambaram Stadium in Chennai on June 20, and it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-v-afg-pitch-report-how-will-the-surface-at-ma-chidambaram-stadium-in-chennai-play-for-the-3rd-odi-2026-06-20-1045526",
-    "time": "2026-06-20T05:41:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Algeria officially file complaint against Lionel Messi and Argentina after controversial red-card denial",
-    "desc": "In a major development, the AFF (Algeria Football Federation) has officially filed a complaint with FIFA due to the alleged refereeing injustice that they went through in their clash against defending champions Argentina in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/algeria-officially-file-complaint-against-lionel-messi-and-argentina-after-controversial-red-card-denial-2026-06-20-1045518",
-    "time": "2026-06-20T04:22:24.000Z"
   }
 ];
