@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "First time in ODIs for India! Rohit Sharma, Prasidh Krishna create unique record in 3rd Afghanistan ODI",
+    "desc": "Rohit Sharma and Prasidh Krishna combined to create a unique record for India during the third ODI against Afghanistan at the MA Chidambaram Stadium in Chennai as the speedster jolted the opposition batting line-up on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-odis-for-india-rohit-sharma-prasidh-krishna-create-unique-record-in-3rd-afghanistan-odi-2026-06-20-1045547",
+    "time": "2026-06-20T10:49:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Blow for India as Hardik Pandya ruled out of ODI series against England; who will be key now?",
+    "desc": "In a major blow for India, all-rounder Hardik Pandya has been ruled out of the upcoming ODI series against England, news agency ANI reported. Pandya, who missed a few matches in the IPL 2026, was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/blow-for-india-as-hardik-pandya-ruled-out-of-odi-series-against-england-who-will-be-key-now-2026-06-20-1045542",
+    "time": "2026-06-20T09:46:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Positive news on India talisman ahead of England ODI series",
+    "desc": "Virat Kohli's return to the ODIs might not be too long away as the Indian talisman seems to be in line for the England series. Kohli is recovering from a hamstring injury that he suffered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-injury-update-positive-news-on-india-talisman-ahead-of-england-odi-series-2026-06-20-1045538",
+    "time": "2026-06-20T08:35:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Kuldeep Yadav and Arshdeep Singh not playing in IND vs AFG 3rd ODI?",
+    "desc": "Kuldeep Yadav and Arshdeep Singh were among the three changes India made for their third and final ODI of the series against Afghanistan on Saturday, June 20. Having already clinched the series with an unassailable...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-kuldeep-yadav-and-arshdeep-singh-not-playing-in-ind-vs-afg-3rd-odi-2026-06-20-1045535",
+    "time": "2026-06-20T07:51:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is KL Rahul not playing for India against Afghanistan in the third ODI against Afghanistan?",
+    "desc": "The stage is set for the third and final ODI of the ongoing series between India and Afghanistan. The two sides lock horns at the MA Chidambaram Stadium in Chennai on June 20, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kl-rahul-not-playing-for-india-against-afghanistan-in-the-third-odi-against-afghanistan-2026-06-20-1045533",
+    "time": "2026-06-20T07:45:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hashmatullah eyes century as he leads the fight for Afghanistan",
+    "desc": "India are looking to sweep Afghanistan in the three-match ODI series after winning the first two matches by commanding margins. The Men in Blue chased down a middling 195 in a rain-hit game in Dharamsala...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-3rd-odi-live-cricket-score-india-vs-afghanistan-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-playing-xis-2026-06-20-1045532",
+    "time": "2026-06-20T07:04:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Turkey crash out of FIFA World Cup 2026 as Paraguay cause major upset in Group D",
     "desc": "In one of the biggest upsets of the ongoing FIFA World Cup 2026, Turkey has officially been eliminated from the tournament after facing a defeat against Paraguay. The two sides met at the San Francisco...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/algeria-officially-file-complaint-against-lionel-messi-and-argentina-after-controversial-red-card-denial-2026-06-20-1045518",
     "time": "2026-06-20T04:22:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil register their first victory of FIFA World Cup 2026, dominate Haiti to register a 3-0 win",
-    "desc": "Brazil put forth a magnificent performance against Haiti as the two sides met in the ongoing FIFA World Cup 2026. The teams took on each other at the Philadelphia Stadium, and Brazil managed to register...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/brazil-register-their-first-victory-of-fifa-world-cup-2026-dominate-haiti-to-register-a-3-0-win-2026-06-20-1045513",
-    "time": "2026-06-20T02:38:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Chennai fare for the third ODI of the series?",
-    "desc": "The stage is set for the highly anticipated third ODI of the ongoing series between India and Afghanistan. The two sides will meet at the MA Chidambaram Stadium in Chenni on June 20th, and both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-weather-report-how-will-weather-in-chennai-fare-for-the-third-odi-of-the-series-2026-06-20-1045512",
-    "time": "2026-06-20T02:31:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Neymar not featuring for Brazil against Haiti in FIFA World Cup 2026 clash?",
-    "desc": "Brazil continued its FIFA World Cup 2026 campaign by taking on Haiti. After a draw against Morocco in their first game of the tournament, Brazil takes on Haiti at the Philadelphia Stadium on June 20,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-neymar-not-featuring-for-brazil-against-haiti-in-fifa-world-cup-2026-clash-2026-06-20-1045508",
-    "time": "2026-06-20T01:13:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil defeat Haiti 3-0 to stay in playoffs race",
-    "desc": "The stage is set for one of the most exciting clashes in the ongoing FIFA World Cup 2026. Five-time champions Brazil take on Haiti. The two sides are meeting at the Philadelphia Stadium, and will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bra-vs-hai-fifa-world-cup-2026-live-brazil-look-to-register-first-win-of-the-campaign-1045507",
-    "time": "2026-06-20T00:52:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra qualifies for Commonwealth Games after disastrous start in Doha Diamond League",
-    "desc": "India’s star javelin thrower Neeraj Chopra booked his place at the upcoming Commonwealth Games after producing a throw of 82.77m during the Doha Diamond League on Friday, clearing the qualification standard in his first competition...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-qualifies-for-commonwealth-games-after-disastrous-start-in-doha-diamond-league-2026-06-19-1045504",
-    "time": "2026-06-19T18:11:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KS Bharat exploring opportunities in Dubai, joined Team Stallions after retiring from India cricket",
-    "desc": "Former India keeper-batter KS Bharat has begun the next phase of his cricketing journey in the United Arab Emirates. It was only a couple of weeks back when the 32-year-old announced his retirement from Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ks-bharat-exploring-opportunities-in-dubai-joined-team-stallions-after-retiring-from-india-cricket-2026-06-19-1045500",
-    "time": "2026-06-19T17:30:41.000Z"
   }
 ];

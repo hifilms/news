@@ -1,12 +1,93 @@
 const newsData_gu = [
   {
-    "cat": "Sports",
-    "title": "લિયોનેલ મેસ્સીના પિતા અંગે ચલાવ્યા ફેક ન્યુઝ, આ ચેનલની આખી ટીમને ગુમાવવી પડી નોકરી",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026 દરમિયાન આર્જેન્ટિનાની ચેનલ 'લુઝુ ટીવી'એ ગઈકાલે સમાચાર ચલાવ્યા હતા કે લિયોનેલ મેસ્સીના પિતા જોર્જ મેસ્સીનું નિધન થયું છે. આ પછી ચેનલે તેના પ્રોગ્રામ 'એલ શો ડેલ વેરાનો'ના હોસ્ટ ફ્લોરેન્સિયા પેના અને સમગ્ર પ્રોડક્શન ટીમને નોકરીમાંથી કાઢી મુકી હતી.",
+    "cat": "Business",
+    "title": "8મા પગાર પંચ પહેલા કેન્દ્રીય કર્મચારીઓની લાગશે લોટરી! DA વધારા પર આવ્યું મોટું અપડેટ",
+    "desc": "8મા પગાર પંચ સાથે જોડાયેલી પ્રક્રિયાઓ તેજ બની છે. કર્મચારીઓ અને પેન્શનરો પાસેથી સૂચનો લેવાની પ્રક્રિયા 15 જૂન 2026ના રોજ પૂર્ણ થઈ ચૂકી છે. હવે પંચ વિવિધ રાજ્યોમાં બેઠકો દ્વારા અંતિમ ભલામણોને આખરી ઓપ આપવામાં વ્યસ્ત છે. આ અંગે મોટું અપડેટ સામે આવ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/news-production-team-lose-job-after-following-fake-news-about-lionel-messi-father-482062 ",
-    "time": "2026-06-20T06:47:41.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/lottery-for-central-employees-to-be-held-before-8th-pay-commission-big-update-on-da-hike-482093 ",
+    "time": "2026-06-20T11:12:30.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ભારતમાં નવી ટુ-વ્હીલર બ્રાન્ડની એન્ટ્રી, અમદાવાદમાં પહેલી બાઇકનું ટીઝર કર્યું રિલીઝ, જાણો",
+    "desc": "ભારતીય બજારમાં ઇલેક્ટ્રિક ટુ-વ્હીલર્સની માંગ વધી રહી છે. ઇલેક્ટ્રિક સ્કૂટર્સ લોકપ્રિયતા મેળવી રહ્યા છે, ખાસ કરીને આ સેગમેન્ટમાં. ઇલેક્ટ્રિક બાઇક સેગમેન્ટમાં મર્યાદિત વિકલ્પો હોવા છતાં, નવા ખેલાડીઓ ટૂંક સમયમાં પ્રવેશ કરે તેવી અપેક્ષા છે. એક કંપની ટૂંક સમયમાં તેની પ્રથમ ઇલેક્ટ્રિક બાઇક લોન્ચ કરી રહી છે, જે 150ccથી 200cc સેગમેન્ટમાં ICE બાઇક્સ સાથે સ્પર્ધા કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/new-two-wheeler-brand-enters-india-teaser-of-first-bike-released-in-ahmedabad-know-482083 ",
+    "time": "2026-06-20T10:21:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઇઝરાયેલનું સિક્રેટ વૉર ફંડ: જાણો કોણ છે અસલી કિંગમેકર!, નેતન્યાહુની યુદ્ધની ભઠ્ઠીમાં કોણ નાખી રહ્યું છે પેટ્રોલ?",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચેના યુદ્ધમાં અમેરિકા હાંફી ગયું છે અને અબજો ડોલરોના ફટકા બાદ ટ્રમ્પે હસતા મોંઢે પણ ઈરાન સાથે સમજૂતી કરી લીધી છે. આમ છતાં ઈઝરાયેલ મચક આપી રહ્યું નથી. છેલ્લા 3 વર્ષથી યુદ્ધ લડી રહેલું ઈઝરાયેલ આર્થિક રીતે ખુવાર કેમ થઈ રહ્યું નથી. કોઈ પણ દેશને યુદ્ધનો ખર્ચ પોસાય તેમ નથી આમ છતાં ઈઝરાયેલ કેમ હાર માની રહ્યું નથી એની પાછળ એક કોર્પોરેટ ગૃહનો મોટો હાથ છે જે સતત ઈઝરાયેલને ફંડીગ કરી રહ્યું છે જુઓ કોણ છે આ કોર્પોરેટ ગૃહ અને કઈ રીતે કરી રહ્યું છે મદદ....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/israel-secret-war-fund-who-is-pouring-fuel-into-netanyahu-war-furnace-482081 ",
+    "time": "2026-06-20T10:10:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "સમુદ્ર ચીરીને એવું બહાર આવ્યું કે લોકો ફફડી ગયા! ફિલિપાઈન્સમાં સમુદ્ર ૨૦૦ મીટર પાછો હટી ગયો, પાણી થઈ ગયું ગાયબ!",
+    "desc": "પાણી હોય ત્યાં જમીન આવી જાય એવું તમે સાંભળ્યું તો હશે પણ આવી જ સ્થિતિ ફિલિપાઈન્સના મિંડાનાવો (Mindanao)માં થઈ છે. હવે લોકોમાં ગભરાહટનો માહોલ છે. હવે દરિયો 656 ફૂટ પાછળ હટી ગયો છે અને જમીન ઉપર આવીને એક આઈલેન્ડ જેવી સ્થિતિ ઉભી થતાં લોકોને ડર છે હવે સુનામી આવશે, તમને ખબર નહીં હોય કે આ એક જ ઘટના નથી આ પ્રકારની અનેક ઘટનાઓ છે અમે અહીં તમને વિગતવાર માહિતી આપીશું. જાણી લો શું છે આ મામલો",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/massive-earthquake-extends-beach-by-200-metres-in-the-philippines-482078 ",
+    "time": "2026-06-20T09:37:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "જૂનો ફોન વેચવાથી કેમ ડરે છે 70% ભારતીયો ? કારણ પૈસા નથી, કંઈક બીજું છે, સર્વેમાં ખુલાસો",
+    "desc": "Cashify દ્વારા કરવામાં આવેલા એક નવા સર્વેમાં ચોંકાવનારી હકીકત સામે આવી છે, પ્રાઈવેસી અને ડેટા ખોવાઈ જવાની ચિંતાઓને કારણે લગભગ 70 ટકા ભારતીયો તેમના જૂના સ્માર્ટફોન વેચતા નથી. લોકો ફેક્ટરી રીસેટમાંથી વિશ્વાસ કેમ ગુમાવી રહ્યા છે તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/why-are-70-percent-indians-afraid-of-selling-old-phones-the-reason-is-not-money-it-is-something-else-the-survey-reveals-482077 ",
+    "time": "2026-06-20T09:28:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ફાધર્સ ડેને સ્પેશિયલ બનાવો I Am Sam ફિલ્મ સાથે, આ ફિલ્મ જોતાં જોતાં આંખમાં આવી જશે આંસુ",
+    "desc": "અમુક ફિલ્મો એવી બને છે જે ફક્ત મનોરંજન માટે નથી હોતી. આ ફિલ્મો તમારો સંબંધોને જોવાનો દ્રષ્ટિકોણ બદલી દે છે. આજે તમને આવી જ એક ફિલ્મ વિશે જણાવીએ. આ ફિલ્મ જોયા પછી પિતા પ્રત્યેનો તમારો દ્રષ્ટિકોણ બદલી જશે. આ ફિલ્મ ઘર બેઠા હીંદીમાં તમે ઓટીટી પર જોઈ શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/hollywood-movie-i-am-same-in-hindi-on-ott-fathers-day-special-must-watch-movie-482076 ",
+    "time": "2026-06-20T09:27:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જૂનમાં ખુબ સસ્તા થયા સોના અને ચાંદી, સતત ગગડી રહ્યા છે ભાવ, જાણો શું કહે છે એક્સપર્ટ?",
+    "desc": "સોના અને ચાંદીમાં જાન્યુઆરીમાં ભાવ ઓલટાઈમ હાઈ પર પહોંચ્યા બાદ સતત ઉતાર ચડાવ જોવા મળ્યા છે. જૂન મહિનાની વાત કરીએ તો આ મહિનામાં જ સોનામાં 10000 રૂપિયા જેટલો અને ચાંદીમાં 30900 રૂપિયા જેટલો કડાકો જોવા મળ્યો છે. ઓલટાઈમથી પણ હાલ ભાવ ઘણા સસ્તા થયા છે. જાણો સોનામાં કેમ સતત ઉતાર ચડાવ જોવા મળી રહ્યા છે અને લેટેસ્ટ ભાવ તથા તેની સાપ્તાહિક મૂવમેન્ટ ઉપર પણ નજર ફેરવો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-june-month-up-down-explainer-also-check-expert-views-price-fluctuation-482074 ",
+    "time": "2026-06-20T09:05:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયા માટે ખરાબ સમાચાર, આ સ્ટાર ખેલાડી ઈંગ્લેન્ડ સામેની સિરીઝમાંથી બહાર",
+    "desc": "ભારતીય સ્ટાર ઓલરાઉન્ડર હાર્દિક પંડ્યા ઈંગ્લેન્ડ સામેની ODI સિરીઝમાંથી બહાર થઈ ગયો છે. હાર્દિક પંડ્યાને વારંવાર થતી ઇજાઓ ટીમ ઇન્ડિયા માટે ચિંતાનું કારણ બની શકે છે, કારણ કે તે એક શ્રેષ્ઠ ઓલરાઉન્ડરોમાંનો એક છે. આ સાથે વિરાટ કોહલીને લઈને એક મોટી અપડેટ સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-team-india-hardik-pandya-ruled-out-of-england-odi-series-482073 ",
+    "time": "2026-06-20T09:01:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL ઇતિહાસની સૌથી ચોંકાવનારી ડીલ ! રિષભ પંતની કરોડોના નુકસાન સાથે દિલ્હીમાં થશે ઘરવાપસી ! આ ખેલાડી LSGમાં જશે",
+    "desc": "રિષભ પંત લખનૌ સુપર જાયન્ટ્સ છોડીને દિલ્હી કેપિટલ્સમાં ફરી જોડાઈ શકે છે. આ માટે તેને ₹12 કરોડનું નુકસાન પણ થઈ શકે છે. તેને આગામી IPL સિઝન માટે ₹27 કરોડના બદલે ₹15 કરોડ મળશે. આ સ્વેપ ડીલના ભાગરૂપે કુલદીપ યાદવ દિલ્હી છોડીને લખનૌ સુપર જાયન્ટ્સમાં જોડાઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2027-trade-rishabh-pant-will-join-delhi-capitals-kuldeep-yadav-lsg-482070 ",
+    "time": "2026-06-20T08:26:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પરીક્ષા પહેલા જ મોટો છબરડો! નાગપુરના NEETના વિદ્યાર્થીને અબુધાબીમાં પરીક્ષા કેન્દ્ર ફાળવી દેવાયું",
+    "desc": "21 જૂન 2026ના રોજ RE-NEET ની પરીક્ષાનું આયોજન થયું છે. વિદ્યાર્થીઓ ફરીથી પરીક્ષા આપવાની તૈયારીઓ કરી રહ્યા છે ત્યારે એક મોટો ગોટાળો સામે આવ્યો છે. નાગપુરમાં રહેતા વિદ્યાર્થી અબ્દુલ્લા મોહમ્મદને અબુધાબી કેન્દ્ર ફાળવી દેવાયું છે. જેને લઈને હંગામો મચ્યો છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/neet-ug-re-exam-shocking-news-nagpur-student-gets-exam-centre-in-abu-dhabi-482044 ",
+    "time": "2026-06-20T08:09:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -15,7 +96,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/javed-akhtar-wrote-tum-ko-dekha-to-khayal-aaya-gazal-after-drinking-8-peg-alcohol-482052 ",
-    "time": "2026-06-20T06:09:04.000Z"
+    "time": "2026-06-20T07:03:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "લિયોનેલ મેસ્સીના પિતા અંગે ચલાવ્યા ફેક ન્યુઝ, આ ચેનલની આખી ટીમને ગુમાવવી પડી નોકરી",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026 દરમિયાન આર્જેન્ટિનાની ચેનલ 'લુઝુ ટીવી'એ ગઈકાલે સમાચાર ચલાવ્યા હતા કે લિયોનેલ મેસ્સીના પિતા જોર્જ મેસ્સીનું નિધન થયું છે. આ પછી ચેનલે તેના પ્રોગ્રામ 'એલ શો ડેલ વેરાનો'ના હોસ્ટ ફ્લોરેન્સિયા પેના અને સમગ્ર પ્રોડક્શન ટીમને નોકરીમાંથી કાઢી મુકી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/news-production-team-lose-job-after-following-fake-news-about-lionel-messi-father-482062 ",
+    "time": "2026-06-20T06:47:41.000Z"
   },
   {
     "cat": "Business",
@@ -34,15 +124,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-afg-team-india-probable-playing-xi-for-third-odi-against-afghanistan-482046 ",
     "time": "2026-06-20T05:31:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પરીક્ષા પહેલા જ મોટો છબરડો! નાગપુરના NEETના વિદ્યાર્થીને અબુધાબીમાં પરીક્ષા કેન્દ્ર ફાળવી દેવાયું",
-    "desc": "21 જૂન 2026ના રોજ RE-NEET ની પરીક્ષાનું આયોજન થયું છે. વિદ્યાર્થીઓ ફરીથી પરીક્ષા આપવાની તૈયારીઓ કરી રહ્યા છે ત્યારે એક મોટો ગોટાળો સામે આવ્યો છે. નાગપુરમાં રહેતા વિદ્યાર્થી અબ્દુલ્લા મોહમ્મદને અબુધાબી કેન્દ્ર ફાળવી દેવાયું છે. જેને લઈને હંગામો મચ્યો છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/neet-ug-re-exam-shocking-news-nagpur-student-gets-exam-centre-in-abu-dhabi-482044 ",
-    "time": "2026-06-20T05:05:42.000Z"
   },
   {
     "cat": "World",
@@ -333,33 +414,6 @@ const newsData_gu = [
     "time": "2026-06-18T06:41:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "મેસ્સીના પિતાને શું થયું ? મુશ્કેલ પરિસ્થિતિમાં વર્લ્ડ કપ રમી રહ્યો છે દિગ્ગજ, થયો મોટો ખુલાસો",
-    "desc": "ફૂટબોલ સ્ટાર લિયોનેલ મેસ્સીએ તાજેતરમાં વર્લ્ડ કપ 2026ની પહેલી મેચ રમી હતી. આ મેચમાં તેણે પોતાની પહેલી વર્લ્ડ કપ હેટ્રિક પણ ફટકારી હતી. મેચ દરમિયાન તે ભાવુક દેખાયો હતો અને તેની પાછળનું કારણ તેના પિતાનું સ્વાસ્થ્ય હતું. તેના પિતાની તબિયત અંગે હવે એક મોટો ખુલાસો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-lionel-messi-emotional-after-first-goal-football-world-cup-2026-481842 ",
-    "time": "2026-06-18T06:11:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મેસ્સી કે રોનાલ્ડો નહીં પરંતુ આ ખેલાડી છે ગૌતમ ગંભીરનો ફેવરિટ, વર્લ્ડ કપમાં મચાવી રહ્યો છે ધમાલ!",
-    "desc": "ઈંગ્લેન્ડે ફૂટબોલ વર્લ્ડ કપના પહેલા મુકાબલામાં ક્રોએશિયાને ધોબીપછાડ આપી. ટીમની આ જીતમાં જૂડ બેલિંગહૈમ, હૈરી કેન અને માર્ક્સ રેશફોર્ડની મહત્વની ભૂમિકા રહી. ભારતીય ક્રિકેટ ટીમના કોચ ગૌતમ ગંભીરે મેસ્સી અને રોનાલ્ડોની જગ્યાએ ઈંગ્લેન્ડના આ ખેલાડી પર પોતાની પસંદગી ઉતારી હતી. જાણો કોણ છે આ ખેલાડી?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-do-you-know-who-is-gautam-gambhir-favourite-footballer-481837 ",
-    "time": "2026-06-18T05:54:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રોનાલ્ડોના કરિયરનો સૌથી મોટો ફ્લોપ શો! ટીમ માટે બન્યો બોજ, ટાર્ગેટ પર 0 શોટ",
-    "desc": "ફુટબોલ વિશ્વકપમાં પોર્ટુગલ અને ડીઆર કાંગો વચ્ચે મેચ 1-1થી ડ્રો રહી. ક્રિસ્ટિયાનો રોનાલ્ડોના ખરાબ પ્રદર્શન પર થિયરી હેનરીએ કડક પ્રતિક્રિયા આપી. તે ટીમ માટે વિશ્વકપ કે યુરો કપની સતત 10 મેચમાં ગોલ કરી શક્યો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/from-hero-to-passenger-inside-cristiano-ronaldos-biggest-career-nightmare-after-0-shot-world-cup-opener-481836 ",
-    "time": "2026-06-18T04:53:49.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "UK-India FTA: 15 જુલાઈથી લાગુ થશે FTA, વ્હિસ્કીથી લઈને બ્યુટી પ્રોડક્ટ્સ...જાણો કઈ કઈ વસ્તુઓ થઈ જશે સસ્તી?",
     "desc": "ભારત અને યુકે વચ્ચે વર્ષ પહેલા મુક્ત વેપાર સંધિ થઈ હતી જેના અમલીકરણનો સમય આવી ગયો છે. એટલેકે આ સંધિ 15 જુલાઈથી લાગૂ થશે. આ સમજૂતિથી 2030 સુધીમાં દ્વિપક્ષીય વેપાર બમણો થઈને 120 બિલિયન ડોલર સુધી પહોંચે તેવી સંભાવના છે.",
@@ -457,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/oori-earned-76-lakhs-from-a-reel-told-how-he-earns-and-shared-a-wish-related-to-pm-modi-481790 ",
     "time": "2026-06-17T09:33:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનાના ભાવમાં આજે મોટો ફેરફાર, ચાંદી પણ ગગડી, જાણો કેરેટ પ્રમાણે 10 ગ્રામ સોનાનો રેટ",
-    "desc": "સોના અને ચાંદીના ભાવમાં આજે ઘટાડો જોવા મળ્યો છે. વાયદા બજાર અને રિટેલ બજાર બંનેમાં ભાવ ગગડેલા જોવા મળ્યા છે. MCX પર સવારથી બંને કિંમતી ધાતુઓ ઘટાડા સાથે જોવા મળી છે જ્યારે IBJAના રેટ્સમાં પણ ભાવ ઘટેલા જોવા મળ્યા છે. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/change-in-gold-prices-today-silver-also-fell-check-10-grams-gold-rate-aaj-no-sona-no-bhav-481774 ",
-    "time": "2026-06-17T08:04:12.000Z"
   },
   {
     "cat": "World",
@@ -657,15 +702,6 @@ const newsData_gu = [
     "time": "2026-06-14T10:00:43.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "35 KM માઇલેજ, સનરૂફ અને છ એરબેગ! માર્કેટમાં ધમાકો કરવા આવી રહી છે આ હાઇબ્રિડ SUV, જાણો શરૂઆતી કિંમત",
-    "desc": "પેટ્રોલની વધી રહેલી કિંમતો વચ્ચે હાઇબ્રિડ કારો ભારતીય ગ્રાહકોની પહેલી પસંદ બની રહી છે. આવનાર મહિનામાં Renault Duster Hybrid, Nissan Tekton Hybrid અને Maruti Suzuki Fronx Hybrid બજારમાં એન્ટ્રી કરશે. તેમાં દમદાર માઇલેજ, એડવાન્સ ફીચર્સ અને ઓછા રનિંગ કોસ્ટનું શાનદાર કોમ્બિનેશન મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/upcoming-hybrid-cars-in-india-duster-hybrid-nissan-tekton-hybrid-and-maruti-suzuki-fronx-hybrid-481461 ",
-    "time": "2026-06-14T06:04:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "6 વર્ષે પણ સુશાંત સિંહ રાજપૂતના મોતની પહેલી વણઉકેલાયેલી, બહેન શ્વેતાએ શેર કરી ઈમોશનલ પોસ્ટ",
     "desc": "એક્ટર સુશાંત સિંહ રાજપૂતના મોતને 6 વર્ષ થઈ ચુક્યા છે. તેમ છતાં આ એક્ટરને તેના પરિવારના લોકો અને તેના ચાહકો ભુલી શક્યા નથી. સુશાંત સિંહ રાજપૂતની છઠ્ઠી ડેથ એનિવર્સરી પર તેની બહેને ઈમોશન પોસ્ટ શેર કરી એક્ટરની યાદોને તાજી કરી છે.",
@@ -711,24 +747,6 @@ const newsData_gu = [
     "time": "2026-06-13T04:31:54.000Z"
   },
   {
-    "cat": "World",
-    "title": "શું થશે ઈરાન US ડીલ? અબ્બાસ અરાઘચીની પોસ્ટને ટ્રમ્પે કરી રી પોસ્ટ, પાકિસ્તાની PMએ પણ માર્યો કુદકો",
-    "desc": "ટ્રમ્પ દ્વારા ઈરાની વિદેશ મંત્રી અબ્બાસ અરાઘચીની પોસ્ટને રી પોસ્ટ કરવી દુર્લભ છે. જ્યારે આ ચોક્કસપણે ડીલ વિશે સકારાત્મક સંદેશ આપે છે, ત્યારે બંને દેશો વચ્ચે અવિશ્વાસની ખાડી હજુ પણ ઊંડી છે, જે ઉપરાષ્ટ્રપતિ જે.ડી. વેન્સની પોસ્ટ દ્વારા પુરાવા મળે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-will-happen-to-the-iran-us-deal-trump-reposts-abbas-araghchis-post-pakistani-pm-also-joins-in-481342 ",
-    "time": "2026-06-12T18:26:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ભારતીય જહાજો પર હુમલાઓ સહન કરવામાં આવશે નહીં, ટ્રમ્પે કહ્યું: હોર્મુંઝમાં ઈરાન કરી રહ્યું છે ડ્રોન એટેક",
-    "desc": "યુએસ પ્રમુખ ડોનાલ્ડ ટ્રમ્પે દાવો કર્યો છે કે ઈરાને ગુરુવારે રાત્રે હોર્મુઝ સ્ટ્રેટ નજીક ભારતીય જહાજો પર ડ્રોન હુમલો કર્યો હતો. અમેરિકાએ તેને નિષ્ફળ બનાવ્યો. ટ્રમ્પે ઈરાન પર આ ડીલ વિશે અફવાઓ ફેલાવવાનો પણ આરોપ લગાવ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/attacks-on-indian-ships-will-not-be-tolerated-trump-said-iran-is-carrying-out-drone-attacks-in-hormuz-481328 ",
-    "time": "2026-06-12T14:52:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ભારત ભાગ્ય વિધાતા ફિલ્મમાં કંગનાએ જેનું પાત્ર ભજવ્યું તે નર્સ છે અંજલિ કુલ્થે, જાણો તે રાત્રે ખરેખર હોસ્પિટલમાં શું થયું ?",
     "desc": "કંગનાની ફિલ્મ ભારત ભાગ્ય વિધાતા રિલીઝ થઈ ગઈ છે. ફિલ્મના વખાણ પણ થઈ રહ્યા છે. ત્યારે ચાલો તમને જણાવીએ ભારત ભાગ્ય વિધાતાની રિયલ લાઈફ હીરો નર્સ કોણ છે અને 26/11 ના હુમલાની અસર તેની લાઈફમાં કેવી થઈ છે.",
@@ -754,14 +772,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shah-rukh-khan-film-chalte-chalte-broke-rani-mukerji-aishwarya-rai-friendship-481269 ",
     "time": "2026-06-12T09:56:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આલિયા ભટ્ટની ફિલ્મ આલ્ફાનું ટીઝર 36 વર્ષ જૂની ફિલ્મના ટીઝરની ડિટ્ટો કોપી, વિશ્વાસ ન હોય તો જોઈલો તમે પણ",
-    "desc": "આલિયા ભટ્ટની મચ અવેટેડ ફિલ્મ આલ્ફાનું ટીઝર રિલીઝ થયું ત્યારે તો તેના ખૂબ વખાણ થયા પણ કેટલાક લોકોએ ફિલ્મ મેકર્સની ચોરી પકડી પાડી છે. આ ફિલ્મનું ટીઝર 36 વર્ષ જૂની એક ફિલ્મની કોપી છે. જો તમને વિશ્વાસ ન આવતો હોય તો બંને ફિલ્મના ટીઝર અહીં જોઈ લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/alpha-movie-teaser-is-copy-of-old-movie-la-femme-nikita-watch-here-movie-teaser-481225 ",
-    "time": "2026-06-12T02:43:24.000Z"
   }
 ];
