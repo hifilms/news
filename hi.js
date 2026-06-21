@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "IND-W vs SA-W, Women's T20 World Cup LIVE score: Smriti mandhana walks back, India one down",
+    "title": "Harmanpreet Kaur achieves historic feat amidst T20 World Cup clash against South Africa women",
+    "desc": "India women continued their Women’s T20 World Cup 2026 campaign by taking on South Africa. The two sides met at Old Trafford in Manchester on June 21st, and with the clash kicking off, India skipper...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-achieves-historic-feat-amidst-t20-world-cup-clash-against-south-africa-women-2026-06-21-1045643",
+    "time": "2026-06-21T15:07:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi stars as India A thrash Sri Lanka A in tri-series final",
+    "desc": "India A and Sri Lanka A took on each other in the final of the ongoing tri-series. The two sides met at the Rangiri Dambulla International Stadium in Dambulla on June 21st, and the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-stars-as-india-a-thrash-sri-lanka-a-in-tri-series-final-2026-06-21-1045640",
+    "time": "2026-06-21T14:03:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND-W vs SA-W, Women's T20 World Cup LIVE score: South Africa two down, India take back control",
     "desc": "The stage is set for the 18th game of the ongoing Women's T20 World Cup 2026, India women will be taking on South Africa women at Old Trafford in Manchester. It is interesting to note...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/japan-create-history-in-fifa-world-cup-during-their-4-0-rout-of-tunisia-2026-06-21-1045603",
     "time": "2026-06-21T06:45:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi creates List A world record, misses another one by whisker during Tri-Nation Series final",
-    "desc": "Vaibhav Sooryavanshi ripped apart the history books as the 15-year-old sensation slammed the fastest fifty in List A cricket during India A's Tri-Nation Series Final against Sri Lanka A on Sunday, June 21. Sooryavanshi put...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-creates-list-a-world-record-misses-another-one-by-whisker-during-tri-nation-series-final-2026-06-21-1045596",
-    "time": "2026-06-21T05:23:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Deniz Undav, the man who worked as a factory worker and saved Germany against Ivory Coast at World Cup?",
-    "desc": "Deniz Undav produced the ultimate impact as he scored a brace to bail Germany out in their FIFA World Cup 2026 clash against the Ivory Coast on Sunday, June 21 (as per IST) at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/who-is-deniz-undav-the-man-who-worked-as-a-factory-worker-and-saved-germany-against-ivory-coast-at-world-cup-2026-06-21-1045594",
-    "time": "2026-06-21T05:08:03.000Z"
   }
 ];
