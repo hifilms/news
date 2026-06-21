@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND-W vs SA-W, Women's T20 World Cup LIVE score: Smriti mandhana walks back, India one down",
+    "desc": "The stage is set for the 18th game of the ongoing Women's T20 World Cup 2026, India women will be taking on South Africa women at Old Trafford in Manchester. It is interesting to note...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sa-w-women-s-t20-world-cup-live-score-india-women-look-to-maintain-winning-run-1045634",
+    "time": "2026-06-21T13:03:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WTC Updated Points table after Matt Henry's record outing powers New Zealand to Oval Test win",
+    "desc": "att Henry ripped apart the England batting line-up with five-wicket hauls in both innings to power New Zealand to a dominating win over England in the second Test match at The Oval. After picking up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-matt-henrys-record-outing-powers-new-zealand-to-oval-test-win-2026-06-21-1045632",
+    "time": "2026-06-21T12:13:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "INDW vs SAW Women's T20 World Cup 2026 pitch report: How surface at Old Trafford is expected to play?",
+    "desc": "India women are all set to lock horns against South Africa in their third match of the Women's T20 World Cup 2026 on Sunday, June 21, as the battle for the knockouts heats up. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-saw-womens-t20-world-cup-2026-pitch-report-how-surface-at-old-trafford-is-expected-to-play-2026-06-21-1045628",
+    "time": "2026-06-21T11:38:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kieron Pollard dethrones Chris Gayle to own biggest T20 world record during MLC 2026",
+    "desc": "Former West Indies cricketer Kieron Pollard has etched his name into the history books as he shattered Chris Gayle's world record for most runs in T20 cricket. Pollard achieved the feat during MI New York's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollard-dethrones-chris-gayle-to-own-biggest-t20-world-record-during-mlc-2026-2026-06-21-1045623",
+    "time": "2026-06-21T10:40:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravindra Jadeja's absence, Bumrah's inclusion; biggest talking points from India's ODI squad for England",
+    "desc": "India have named their squad for the three-match ODI series against England as the Men in Blue prepare themselves to overturn the heartbreak of the World Cup 2023 with their eyes on the prize in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadejas-absence-bumrahs-inclusion-biggest-talking-points-from-indias-odi-squad-for-england-2026-06-21-1045620",
+    "time": "2026-06-21T10:25:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bumrah, Kohli back, three players dropped; list of changes in India's England squad from Afghanistan series",
     "desc": "The BCCI on Sunday announced India's squad for the three-match ODI series against England in July, with a few changes from the current Afghanistan ODIs dominating the headlines in the 15-member team. India recently swept Afghanistan...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/who-is-deniz-undav-the-man-who-worked-as-a-factory-worker-and-saved-germany-against-ivory-coast-at-world-cup-2026-06-21-1045594",
     "time": "2026-06-21T05:08:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND A vs SL A Tri-Nation Series final LIVE Score: India A breach 300 as Sri Lanka A stage comeback",
-    "desc": "India A and Sri Lanka A are set to lock horns in the final of the Tri-Nation Series, with both sides eyeing a strong finish after impressive campaigns. India A bounced back from two straight defeats...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-sl-a-tri-nation-series-final-live-score-india-a-vs-sri-lanka-a-latest-match-updates-scorecard-teams-2026-06-21-1045588",
-    "time": "2026-06-21T04:23:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deniz Undav's brace rescues Germany vs Ivory Coast, sends them to knockouts for first time since 2014",
-    "desc": "Deniz Undav produced a decisive late intervention as Germany secured a dramatic victory over Ivory Coast in the FIFA World Cup 2026. The forward scored a crucial 94th-minute winner after earlier finding the equaliser in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/deniz-undav-s-brace-rescues-germany-vs-ivory-coast-sends-them-to-knockouts-for-first-time-since-2014-2026-06-21-1045580",
-    "time": "2026-06-20T22:14:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil star ruled out of FIFA World Cup 2026 clash vs Scotland, doubtful for knockouts",
-    "desc": "Brazil have confirmed that winger Raphinha has suffered a muscle injury in his right thigh. It is a major blow to the Carlo Ancelotti side, who count heavily on the star winger in the ongoing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/brazil-star-ruled-out-of-fifa-world-cup-2026-clash-vs-scotland-doubtful-for-knockouts-2026-06-21-1045579",
-    "time": "2026-06-20T21:37:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deniz Undav's brace takes Germany to knockouts",
-    "desc": "Germany and Ivory Coast meet in a fascinating FIFA World Cup 2026 Group E showdown, with both sides carrying momentum from winning their opening matches. Germany arrive full of confidence after an emphatic 7-1 victory...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/germany-vs-ivory-coast-fifa-world-cup-2026-live-ger-vs-civ-latest-match-updates-starting-xi-score-commentary-kai-havertz-jamal-musiala-1045578",
-    "time": "2026-06-20T19:30:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How did Ben Stokes perform in County cricket after being dropped from England Test squad?",
-    "desc": "Ben Stokes produced a commanding return to form in the County Championship, falling just five runs short of a century after a fluent 95 for Durham against Northamptonshire at Chester-le-Street on Friday. Coming in at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-did-ben-stokes-perform-in-county-cricket-after-being-dropped-from-england-test-squad-2026-06-21-1045577",
-    "time": "2026-06-20T18:55:04.000Z"
   }
 ];

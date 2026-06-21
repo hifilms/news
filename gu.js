@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "આ રાજ્ય બનવા જઈ રહ્યું છે દેશનું સૌથી મોટું ગોલ્ડ હબ, મળ્યો સોનાનો સૌથી મોટો ખજાનો!",
+    "desc": "આંધ્રપ્રદેશનો જોન્નાગિરી ગોલ્ડ પ્રોજેક્ટ દેશના ગોલ્ડ પ્રોડક્શનમાં મોટો બદલાવ લાવી શકે છે. અધિકારીઓનો દાવો છે કે, અહીં અંદાજે 50 ટન સોનાનો ભંડાર હાજર છે અને આવનારા વર્ષોમાં આંધ્રપ્રદેશ ભારતનું સૌથી વધુ સોનું ઉત્પાદન કરતું રાજ્ય બની શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/this-state-is-going-to-become-the-country-biggest-gold-hub-the-biggest-gold-treasure-has-been-found-482221 ",
+    "time": "2026-06-21T13:32:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "15000માં મળી શકે છે ઇથેનોલ કન્વર્ઝન કીટ, જાણો કેવી રીતે કરે છે કામ",
+    "desc": "આવી કીટનો ઉપયોગ કરીને BS4 અને BS6 વાહનોને ફ્લેક્સ-ફ્યુઅલ વાહનોમાં રૂપાંતરિત કરી શકાય છે. આ વાહનોને E85 અને E100 જેવા ઉચ્ચ-ઇથેનોલ મિશ્રણો પર સુરક્ષિત રીતે ચલાવવાની મંજૂરી આપે છે. આ ટેકનોલોજી જૂના પેટ્રોલ વાહનોને નવી ઇંધણ તકનીકો સાથે સંકલિત કરવા માટે એક મહત્વપૂર્ણ માર્ગ પણ ખોલી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/ethanol-conversion-kit-can-be-found-for-rs-15000-know-how-it-works-482210 ",
+    "time": "2026-06-21T11:12:28.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ઈંડિયાઝ ગોટ લેટેંટ 2 માં ગયાનો આલિયા ભટ્ટને થયો અફસોસ, જુઓ કેવી રીતે સમય રૈનાએ આલિયાને કરી રોસ્ટ",
     "desc": "સમય રૈનાનો શો ઈંડિયાઝ ગોટ લેટેંટ 2 શરુ થઈ ચુક્યો છે અને આ વખતે આ શો યુટ્યુબ સાથે નેટફ્લિક્સ પર પણ જોવા મળે છે. આ શોના પહેલા એપિસોડમાં શરવરી વાઘ અને આલિયા ભટ્ટ પેનલમાં હતા. આ તકે સમય રૈનાએ આલિયા ભટ્ટને જબરદસ્ત રીતે રોસ્ટ કરી હતી.",
@@ -504,15 +522,6 @@ const newsData_gu = [
     "time": "2026-06-18T09:50:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનું-ચાંદી જોરદાર થયા ધડામ, આજે એક જ ઝટકે ભાવમાં મોટો ઘટાડો, જાણો 10 ગ્રામ સોનાનો ભાવ",
-    "desc": "જો તમે સોનું કે ચાંદી ખરીદવાનું વિચારતા હોવ તો તમારા માટે આ સારો સમય રહી શકે કારણ કે આજે પણ ફરીથી ભાવમાં ઘટાડો જોવા મળ્યો છે. વાયદા બજાર અને રિટેલ બજાર બંનેમાં સોના અને ચાંદીમાં ભારે ઘટાડો નોંધાયો છે. ફટાફટ રેટ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-today-big-drop-in-gold-and-silver-prices-check-ibja-and-mcx-rates-aaj-no-sona-chandi-no-bhav-481858 ",
-    "time": "2026-06-18T09:08:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "તમારી ઓટીટી વોચલિસ્ટમાં એડ કરવા જેવી વિમેન-સેન્ટ્રિક વેબ સીરીઝ, દરેક સીરીઝ છે દમદાર",
     "desc": "આલિયા ભટ્ટની ફિલ્મ આલ્ફા રિલીઝ થાય તે પહેલા ઓટીટી પર જોઈ લો આ દમદાર વિમેન-સેન્ટ્રિક ફિલ્મો. આ વેબ સીરીઝ અને ફિલ્મોમાં મજબૂત મહિલા પાત્રો જોવા મળશે. તમારી ઓટીટી વોચલિસ્ટમાં આજે જ આ ફિલ્મો એડ કરી લો.",
@@ -549,15 +558,6 @@ const newsData_gu = [
     "time": "2026-06-18T03:30:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;ભારત પર હુમલો થશે તો અમે સાથે ઊભા રહીશું&amp;#039;... ડોનાલ્ડ ટ્રમ્પે ભારત અને મોદીને લઈને કહી 5 મોટી વાતો",
-    "desc": "G7 બેઠક 2026માં PM નરેન્દ્ર મોદી અને અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પની મુલાકાતે દુનિયાનું ધ્યાન ખેંચ્યું છે. ટ્રમ્પે મોદીના જોરદાર વખાણ કર્યા, ટ્રેડ ડીલ પર મોટો સંકેત આપ્યો અને ભારત-અમેરિકા સંબંધોને લઈને ઘણી મહત્વની વાતો કહી. ચાલો જાણીએ આ મુલાકાતની 5 મોટી વાતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-india-is-attacked-we-will-stand-together-donald-trump-said-5-big-things-about-india-and-modi-481824 ",
-    "time": "2026-06-17T16:49:08.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "વિશ્વાસ નહીં થાય! 25 વર્ષના ભારતીય છોકરાએ AIમાં એવું તે શું કર્યું કે એલન મસ્કે 60 અબજ ડોલરની આપી દીધી ઓફર ?",
     "desc": "એલોન મસ્કના સ્પેસએક્સે 60 બિલિયન ડોલરના સોદામાં AI કોડિંગ પ્લેટફોર્મ કર્સર ખરીદવાની જાહેરાત કરી છે. ભારતીય મૂળના અમન સંગર દ્વારા સહ-સ્થાપિત, આ કંપની વિશ્વના સૌથી ઝડપથી વિકસતા AI સ્ટાર્ટઅપ્સમાંની એક છે. આ સોદાને એલોન મસ્કની AI વ્યૂહરચના માટે એક મોટું પગલું માનવામાં આવી રહ્યું છે.",
@@ -565,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/what-did-a-25-year-old-indian-boy-do-in-ai-that-elon-musk-offered-him-60-billion-dollar-481813 ",
     "time": "2026-06-17T13:54:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NEET પરીક્ષા વિવાદ વચ્ચે ભારતમાં Telegram પર પ્રતિબંધ: કોણે કરી આ એપની શરૂઆત અને કેમ છે ચર્ચામાં?",
-    "desc": "NEET ની પુનઃપરીક્ષા પહેલા કેન્દ્ર સરકારે ટેલીગ્રામ પર પ્રતિબંધ લગાવવાનો નિર્ણય કર્યો છે. ત્યારે આજે અમે તમને એક્સપ્લેનરમાં જણાવીશું કે ટેલીગ્રામ કઈ રીતે કામ કરે છે, તેની શોધ કોણે કરી હતી અને સરકારે પરીક્ષા પહેલા કેમ ટેલીગ્રામ પર પ્રતિબંધ લગાવવાનો નિર્ણય લીધો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-is-india-banning-telegram-temporarily-inside-the-neet-paper-leak-connection-and-the-story-of-the-durov-brothers-481810 ",
-    "time": "2026-06-17T12:45:56.000Z"
   },
   {
     "cat": "Tech",
@@ -691,15 +682,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/mou-signed-to-end-war-now-waiting-for-friday-donald-trump-statement-increases-suspense-again-481621 ",
     "time": "2026-06-15T18:05:34.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હવે પેટ્રોલ વગર પણ ચાલશે ગાડી ! E100ની એન્ટ્રી... શું પેટ્રોલની જગ્યા લેશે ? જાણો તેના ફાયદા અને નુકસાન",
-    "desc": "શું પેટ્રોલનો યુગ સમાપ્ત થઈ રહ્યો છે? સરકારે E100 ઇંધણને મંજૂરી આપીને એક સાહસિક પગલું ભર્યું છે. જાણો આ નવું ઇંધણ શું છે, તેના પર કયા વાહનો ચાલશે અને તેનાથી સામાન્ય લોકો અને ખેડૂતોને કેવી રીતે ફાયદો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/e100-fuel-approved-india-ethanol-petrol-benefits-and-disadvantages-481578 ",
-    "time": "2026-06-15T11:54:53.000Z"
   },
   {
     "cat": "Entertainment",
