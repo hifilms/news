@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Belgium look to register win of the tournament",
+    "desc": "Belgium and Iran are all set to take on each other in yet another exciting clash at the ongoing FIFA World Cup 2026. The two sides meet at the Los Angeles Stadium in Inglewood, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bel-vs-irn-fifa-world-cup-2026-live-score-belgium-look-to-register-win-of-the-tournament-1045657",
+    "time": "2026-06-21T18:48:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marizanne Kapp blows away India women in Manchester, propels South Africa to dominant win",
+    "desc": "The 18th game of the ongoing Women’s T20 World Cup 2026 saw India women taking on South Africa women. The two sides met at Old Trafford in Manchester on June 21st. The clash saw Marizanne...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/marizanne-kapp-blows-away-india-women-in-manchester-propels-south-africa-to-dominant-win-2026-06-21-1045649",
+    "time": "2026-06-21T17:18:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes returns to England's squad ahead of third New Zealand Test, ECB issues statement",
+    "desc": "In a major development, the ECB (England and Wales Cricket Board) came forward and announced England’s squad for the third and final Test of the ongoing series against New Zealand. One of the biggest inclusions...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-returns-to-england-s-squad-ahead-of-third-new-zealand-test-ecb-issues-statement-2026-06-21-1045647",
+    "time": "2026-06-21T16:33:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Harmanpreet Kaur achieves historic feat amidst T20 World Cup clash against South Africa women",
     "desc": "India women continued their Women’s T20 World Cup 2026 campaign by taking on South Africa. The two sides met at Old Trafford in Manchester on June 21st, and with the clash kicking off, India skipper...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND-W vs SA-W, Women's T20 World Cup LIVE score: South Africa two down, India take back control",
+    "title": "IND-W vs SA-W, Women's T20 World Cup Highlights: South Africa defeat India by six wickets",
     "desc": "The stage is set for the 18th game of the ongoing Women's T20 World Cup 2026, India women will be taking on South Africa women at Old Trafford in Manchester. It is interesting to note...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadejas-absence-bumrahs-inclusion-biggest-talking-points-from-indias-odi-squad-for-england-2026-06-21-1045620",
     "time": "2026-06-21T10:25:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bumrah, Kohli back, three players dropped; list of changes in India's England squad from Afghanistan series",
-    "desc": "The BCCI on Sunday announced India's squad for the three-match ODI series against England in July, with a few changes from the current Afghanistan ODIs dominating the headlines in the 15-member team. India recently swept Afghanistan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bumrah-kohli-back-three-players-dropped-list-of-changes-in-indias-england-squad-from-afghanistan-series-2026-06-21-1045615",
-    "time": "2026-06-21T09:14:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India announce squad for ODI series against England, Virat Kohli included, no Yashasvi Jaiswal",
-    "desc": "The Board of Control for Cricket in India (BCCI) on Sunday announced India's squad for the ODI series against England. Veteran batter Virat Kohli has been included, but his participation will be subject to fitness...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-squad-for-odi-series-against-england-virat-kohli-included-no-yashasvi-jaiswal-2026-06-21-1045610",
-    "time": "2026-06-21T08:21:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Japan create history in FIFA World Cup with their 4-0 rout of Tunisia",
-    "desc": "Japan have etched their name into the history books with a stellar performance during the milestone 1000th match in the FIFA World Cup with a 4-0 win over Tunisia at the Monterrey Stadium in Mexico. Ayase...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/japan-create-history-in-fifa-world-cup-during-their-4-0-rout-of-tunisia-2026-06-21-1045603",
-    "time": "2026-06-21T06:45:28.000Z"
   }
 ];
