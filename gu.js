@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "ઈંડિયાઝ ગોટ લેટેંટ 2 માં ગયાનો આલિયા ભટ્ટને થયો અફસોસ, જુઓ કેવી રીતે સમય રૈનાએ આલિયાને કરી રોસ્ટ",
+    "desc": "સમય રૈનાનો શો ઈંડિયાઝ ગોટ લેટેંટ 2 શરુ થઈ ચુક્યો છે અને આ વખતે આ શો યુટ્યુબ સાથે નેટફ્લિક્સ પર પણ જોવા મળે છે. આ શોના પહેલા એપિસોડમાં શરવરી વાઘ અને આલિયા ભટ્ટ પેનલમાં હતા. આ તકે સમય રૈનાએ આલિયા ભટ્ટને જબરદસ્ત રીતે રોસ્ટ કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/samay-raina-alia-bhatt-trolling-video-viral-indias-got-latent-alia-roast-for-jigra-movie-and-cannes-482199 ",
+    "time": "2026-06-21T09:18:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "જુઓ ખતરોં કે ખિલાડી 15 નો લેટેસ્ટ પ્રોમો, ખતરનાક સ્ટંટ કરી રડતાં અને રાડો પાડતા દેખાયા સ્પર્ધકો",
+    "desc": "ખતરોં કે ખિલાડી 15 ની પહેલી ઝલક સામે આવી ગઈ છે. જે રીતે કહેવાય રહ્યું હતું તે રીતે આ સીઝનમાં ખતરનાક સ્ટંટ થતા જોવા મળશે. આ સ્ટંટ શોના કલાકારોની હાલત પતલી કરી દેશે. જેની એક ઝલક તાજેતરમાં રિલીઝ થયેલા પ્રોમોમાં જોવા મળે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/watch-here-rohit-shetty-show-khatron-ke-khiladi-15-latest-promo-video-482197 ",
+    "time": "2026-06-21T08:25:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલ પર મળશે મોટી રાહત, સરકારે આપ્યો સંકેત... જાણો ક્યારે ઘટી શકે છે ભાવ",
+    "desc": "ઉત્તર પ્રદેશના સોનભદ્રમાં એક કાર્યક્રમમાં બોલતા મંત્રી હરદીપ સિંહ પુરીએ જણાવ્યું હતું કે ઓઇલ માર્કેટિંગ કંપનીઓ હાલમાં ઊંચા ભાવે ખરીદેલા ક્રૂડ ઓઇલનો ઉપયોગ કરી રહી છે. પરિણામે આંતરરાષ્ટ્રીય બજારમાં ભાવ ઘટાડાનો લાભ ગ્રાહકો સુધી પહોંચવામાં થોડો સમય લાગશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/union-minister-hardeep-singh-puri-hints-petrol-and-diesel-become-cheaper-482195 ",
+    "time": "2026-06-21T08:04:35.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Zero Watt Bulb પણ ખાય છે વીજળી, તો પછી કેમ પડ્યું તેનું આ નામ? જાણો તેના પાછળની રસપ્રદ કહાની",
+    "desc": "દાયકાઓથી ભારતીય ઘરોમાં વપરાતા 'ઝીરો વોટ'ના બલ્બને લઈને એક મોટો ભ્રમ રહ્યો છે કે તે વીજળી નથી વાપરતો. પરંતુ આજકાલના ડિજિટલ મીટર આ દાવાને સંપૂર્ણપણે નકારી કાઢે છે. આખરે આ બલ્બ કેટલી વીજળી વાપરે છે અને તેને 'ઝીરો વોટ' નામ કેવી રીતે મળ્યું? ચાલો જાણીએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/even-a-zero-watt-bulb-consumes-electricity-so-why-is-it-named-that-way-discover-the-interesting-story-behind-it-482180 ",
+    "time": "2026-06-21T06:42:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "હોર્મુઝ ફરી બંધ, ઓઈલ બજારમાં વધી ચિંતા... તૂટી ગઈ અમેરિકા-ઈરાન વચ્ચેની ડીલ ?",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે થયેલા શાંતિ કરાર પર હવે ખતરો મંડરાઈ રહ્યો હોય તેવું લાગે છે, કારણ કે લેબનોન પર ઇઝરાયલના હુમલા બાદ ઈરાને ફરી એકવાર હોર્મુઝ સ્ટ્રેટ બંધ કરી દીધું છે, જેના કારણે ઓઈલ સંકટનો ભય વધી ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/strait-of-hormuz-closed-again-iran-blames-us-israel-ceasefire-breach-482165 ",
+    "time": "2026-06-21T06:30:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સ્વિટ્ઝર્લેન્ડમાં જ્યાં મળવાના છે અમેરિકા-ઈરાન, ત્યાં 1953માં શું કરવા ગયા હતા નેહરુ અને ઇન્દિરા ગાંધી? જેની આજે પણ થાય છે ચર્ચા",
+    "desc": "સ્વિટ્ઝર્લેન્ડમાં જ્યાં શાંતિનો માર્ગ શોધવા માટે અમેરિકા અને ઈરાન મળવાના છે, બરાબર એ જ જગ્યાએ 1953માં જવાહરલાલ નેહરુ અને ઇન્દિરા ગાંધી પણ ગયા હતા અને એક ખાસ હસ્તી મુલાકાત લીધી હતી. સવાલ એ છે કે તેઓ આખરે ત્યાં શું કરવા ગયા હતા, જેની ચર્ચા આજે પણ થાય છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-did-nehru-and-indira-gandhi-go-to-do-in-1953-in-the-swiss-location-where-the-us-and-iran-are-set-to-meet-482164 ",
+    "time": "2026-06-21T06:08:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું છે પ્રધાનમંત્રી ફસલ બીમા યોજના? પીએમ મોદીએ બંગાળથી કરી શરૂઆત, ખેડૂતોને કેવી રીતે થશે ફાયદો?",
+    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ પશ્ચિમ બંગાળથી દુનિયાની સૌથી મોટી પાક વીમા યોજનાના શ્રીગણેશ કરી દીધા છે. કુદરતી આફતોથી ખેડૂતોના પાકને સુરક્ષા આપનારી આ યોજનાથી કરોડો અન્નદાતાઓની કિસ્મત બદલાશે. જાણો આ યોજના હેઠળ ખેડૂતોને કયા-કયા મોટા લાભ મળવાના છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-the-pradhan-mantri-fasal-bima-yojana-pm-modi-launched-it-from-bengal-how-will-farmers-benefit-482159 ",
+    "time": "2026-06-21T05:13:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ભારતીય નૌસેનામાં સામેલ થશે 3 ખૂંખાર સમુદ્રી યોદ્ધા, જાણો ભારતના 3 નવી Warship ની ખાસિયતો",
     "desc": "વડાપ્રધાન નરેન્દ્ર મોદીએ કલકત્તા ખાતે આંતરરાષ્ટ્રીય યોગ દિવસની ઉજવણી કર્યા બાદ નૌસેનાના કાર્યક્રમમાં હાજરી આપી ભારતીય નેવીને 3 શક્તિશાળી યુદ્ધજહાજો સોંપશે. આ 3 નવી વોર શીપની ખાસિયતો અને શક્તિની ચર્ચા જોરશોરથી થઈ રહી છે. તો ચાલો તમને પણ જણાવીએ આ વોરશીપમાં શું ખાસ છે?",
@@ -387,24 +450,6 @@ const newsData_gu = [
     "time": "2026-06-19T06:16:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ફૂટબોલ વર્લ્ડ કપમાં ઐતિહાસિક હેટ્રિક કર્યા બાદ કેમ રડી પડ્યા હતા મેસ્સી? દિલમાં હતો આ ડર!",
-    "desc": "ફૂટબોલના મહાકુંભમાં અલ્જીરિયા સામે ઐતિહાસિક હૈટ્રિક મારનારા મહાન ફૂટબોલર મેસ્સી ગોલ કર્યા બાદ અચાનક ભાવુક થઈ ગયા હતા ત્યારે તે સમયે કારણ સામે નહતું આવ્યું પરંતુ હવે જાણવા મળ્યું છે કે મેસ્સીના પિતા હોસ્પિટલમાં દાખલ હતા. જાણો સંપૂર્ણ વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-argentina-vs-algeria-messi-cry-father-jorge-messi-health-statement-of-family-481933 ",
-    "time": "2026-06-19T05:03:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કેનેડા-કતર મેચમાં બબાલ... ધક્કા-મુક્કી અને મારપીટની સ્થિતિ, મેદાન બની ગયું &amp;#039;અખાડો&amp;#039;",
-    "desc": "ફુટબોલ વિશ્વકપમાં એક તરફ ગોલનો વરસાદ થઈ રહ્યો છે, જ્યારે બીજીતરફ વિવાદ પણ જોવા મળી રહ્યો છે. કેનેડાએ કતરને 6-0થી હરાવ્યું હતું. પરંતુ આ મેચમાં જોરદાર વિવાદ જોવા મળ્યો હતો. બંને ટીમના ખેલાડીઓ બેકાબૂ થઈ ગયા અને સ્થિતિ મારપીટ સુધી પહોંચી ગઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/world-cup-brawl-canada-qatar-match-erupts-into-ugly-fight-after-brutal-tackle-and-6-0-rout-481932 ",
-    "time": "2026-06-19T04:57:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સતત ત્રીજા દિવસે ઘટ્યા સોના-ચાંદીના ભાવ, જાણો એક્સપર્ટે શું કહ્યું",
     "desc": "ગુરુવારે રાષ્ટ્રીય રાજધાનીના બુલિયન બજારમાં સોનાના ભાવ સતત ત્રીજા દિવસે ઘટ્યા હતા, જે 960 રૂપિયા ઘટીને 1.53 લાખ રૂપિયા પ્રતિ 10 ગ્રામ થયા હતા. આ દરમિયાન, શેરબજારમાં તેજી વચ્ચે સલામત રોકાણ તરીકે કિંમતી ધાતુઓની માંગ ઘટતાં ચાંદીના ભાવ 6,660 રૂપિયા ઘટી ગયા હતા.",
@@ -430,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/will-petrol-and-diesel-become-cheaper-in-india-after-crude-oil-prices-fall-union-minister-gives-update-481915 ",
     "time": "2026-06-18T15:03:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મિશન 2034: હવે તમારું એક સબ્સ્ક્રિપ્શન ભારતને રમાડશે ફિફા વર્લ્ડ કપ! ભારતીય ફૂટબોલ માટે Zeeનો  સૌથી મોટો માસ્ટરસ્ટ્રોક",
-    "desc": "ઝીએ ભારતમાં ફૂટબોલને વિશ્વ કક્ષાના સ્તરે પહોંચાડવા માટે એક નવી પહેલની જાહેરાત કરી છે. આ યોજના હેઠળ Zee5 પ્લેટફોર્મ પર ફૂટબોલ સબ્સ્ક્રિપ્શનમાંથી ઉત્પન્ન થતી આવકનો 15% હિસ્સો એવા ટેલેન્ટ પાછળ ખર્ચ કરશે જે FIFA સાથે સહયોગમાં 2034 સુધીમાં વર્લ્ડ કપમાં ભાગ લઈ શકે. આ ઉદાત્ત પહેલનો હેતું ભારતમાં ક્રિકેટની જેમ ફૂટબોલનો વિકાસ કરવાનો અને આગળના સ્તર પર લઈ જવાનો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/mission-2034-now-your-one-subscription-will-take-india-to-the-fifa-world-cup-zees-biggest-masterstroke-for-indian-football-481898 ",
-    "time": "2026-06-18T14:44:42.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +540,6 @@ const newsData_gu = [
     "time": "2026-06-18T04:09:22.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ક્રૂડ ઓઈલના ભાવમાં સતત ઘટાડો, ક્યારે ઘટશે પેટ્રોલ-ડીઝલના ભાવ ? જાણો શું છે આજના ભાવ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચેના કરાર બાદ પરિસ્થિતિ ધીમે ધીમે સામાન્ય થઈ રહી છે. આ જ કારણ છે કે ગુરુવારે સવારે ક્રૂડ ઓઈલના ભાવમાં વધુ ઘટાડો જોવા મળ્યો હતો. જો આ વલણ ચાલુ રહેશે તો ક્રૂડ ઓઈલના ભાવ ટૂંક સમયમાં યુદ્ધ પહેલા જે ભાવ હતા એ લેવલે પાછા આવી જશે. ત્યારે સવાલ એ છે કે પેટ્રોલ-ડીઝલના ભાવ ક્યારે ઘટશે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-crude-oil-prices-fall-when-will-fuel-rate-down-in-india-481833 ",
-    "time": "2026-06-18T03:58:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકા-ઈરાન વચ્ચે શાંતિ સમજૂતિ થઈ ગઈ, ટ્રમ્પે ફ્રાન્સમાં કર્યા હસ્તાક્ષર, જાણો વિગતો",
     "desc": "મિડલ ઈસ્ટમાં શાંતિ સ્થપાય તેવા પૂરેપૂરા એંધાણ જોવા મળી રહ્યા છે. ફ્રાન્સમાં યોજાયેલા જી7 સમિટ ટાણે જ અમેરિકા અને ઈરાન વચ્ચે શાંતિ સમજૂતિ પર હસ્તાક્ષર પણ થયા હોવાનું સામે આવ્યું છે. આ સહી પહેલા જીનેવામાં આયોજિત બેઠકમાં થવાની હતી. અમેરિકા અને ઈરાન બંનેએ તેની પુષ્ટિ કરી છે. જાણો વિગતો.",
@@ -520,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-iran-peace-deal-big-update-donald-trump-signs-agreement-what-iran-says-481831 ",
     "time": "2026-06-18T03:30:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના અને ચાંદીના ભાવમાં ભૂકંપ! આજના સોના-ચાંદીના ભાવ, જાણો કેમ આવ્યો ઘટાડો",
-    "desc": "ઓલ ઈન્ડિયા સરાફા એસોસિએશનના જણાવ્યા અનુસાર, દિલ્હી બુલિયન માર્કેટમાં 99.9% શુદ્ધતા ધરાવતું સોનું ઘટીને 1,54,400 રૂપિયા પ્રતિ 10 ગ્રામ થયું છે, જે એક દિવસ પહેલા 1,59,200 રૂપિયા હતું. ચાંદીમાં પણ નોંધપાત્ર ઘટાડો જોવા મળ્યો હતો, જેના કારણે તેનો ભાવ 2,55,400 રૂપિયા પ્રતિ કિલોગ્રામ થયો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/massive-upheaval-in-gold-and-silver-gold-prices-dropped-by-rs-4800-while-silver-plunged-by-rs-5300-481825 ",
-    "time": "2026-06-17T16:51:17.000Z"
   },
   {
     "cat": "Politics",
@@ -556,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/why-is-india-banning-telegram-temporarily-inside-the-neet-paper-leak-connection-and-the-story-of-the-durov-brothers-481810 ",
     "time": "2026-06-17T12:45:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ક્યારેય ચૂંટણી નથી હાર્યા નથવાણી... શું તેઓ હેમંત સોરેનનો ચક્રવ્યૂહ તોડીને આ વખતે પહોંચશે રાજ્યસભા?",
-    "desc": "ઝારખંડમાં બે રાજ્યસભા બેઠકો માટે ગુરુવારે મતદાન થવાનું છે. JMM અને કોંગ્રેસે એક-એક ઉમેદવાર ઉભા રાખ્યા છે, ભાજપે ઉમેદવાર ઉભા રાખવાને બદલે અપક્ષ ઉમેદવાર તરીકે ગુજરાતના પરિમલ નથવાણીને મેદાનમાં ઉતાર્યા છે. જેથી ઝારખંડમાં ક્રોસ વોટિંગનું જોખમ રહેલું છે. તમારે એ જાણવું પણ જરૂરી છે કે પરિમલ નથવાણી ક્યારેય કોઈ ચૂંટણી હાર્યા નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/nathwani-has-never-lost-an-election-will-he-break-hemant-soren-wheeling-strategy-and-reach-the-rajya-sabha-this-time-481797 ",
-    "time": "2026-06-17T10:37:49.000Z"
   },
   {
     "cat": "Tech",
@@ -601,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/neet-re-exam-2026-telegram-blocked-but-why-not-whatsapp-here-is-the-reason-481761 ",
     "time": "2026-06-17T05:10:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રમાં થઈ રહ્યો છે મોટો &amp;#039;ખેલા&amp;#039;! સંજય રાઉતનો દાવો- &amp;#039;પાર્ટી બદલવા માટે સાંસદોને 15-15 કરોડ...&amp;#039;",
-    "desc": "મહારાષ્ટ્રના રાજકારણમાં ભારે ગરમાવો જોવા મળી રહ્યો છે. અનેક સાંસદો શિવસેના યુબીટીનો સાથ છોડે તેવા સમાચાર સામે આવ્યા છે ત્યારે એવામાં પાર્ટીના દિગ્ગજ નેતા સંજય રાઉતે એક ચોંકાવનારો દાવો કર્યો છે કે તેમના સાંસદોને પક્ષપલટો કરવા માટે કરોડો રૂપિયા ઓફર થઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/shivsena-ubt-leader-sanjay-raut-big-claim-mps-are-reportedly-being-offered-15-crore-481739 ",
-    "time": "2026-06-17T03:19:16.000Z"
   },
   {
     "cat": "Tech",
@@ -711,15 +711,6 @@ const newsData_gu = [
     "time": "2026-06-15T09:48:32.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "જૂની કારમાં E20 પેટ્રોલ ભરાવ્યું તો નહીં મળે ઈન્સ્યોરન્સ ક્લેમ? ICICI લોમ્બાર્ડની આ ચેતવણીથી ડર્યા કાર માલિકો",
-    "desc": "જો તમારી કાર એપ્રિલ 2023 પહેલાની છે, તો નવું E20 પેટ્રોલ તમારા ખિસ્સા પર મોટો બોજ બની શકે છે. ખાનગી વીમા કંપની ICICI લોમ્બાર્ડે ચેતવણી આપી છે કે જૂના વાહનોમાં ઇથેનોલ પેટ્રોલથી થતા એન્જિન નુકસાન માટેના વીમા દાવાઓ નકારી શકાય છે, કારણ કે કંપની તેને બેદરકારી ગણી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/will-you-not-get-an-insurance-claim-if-you-fill-e20-petrol-in-an-old-car-car-owners-are-scared-by-this-warning-from-icici-lombard-481565 ",
-    "time": "2026-06-15T09:21:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકા-ઈરાન યુદ્ધમાં આખરે કોણ જીત્યું, નેતન્યાહૂ અને મધ્યસ્થી પાકિસ્તાનનું શું?",
     "desc": "અમેરિકા અને ઈરાન યુદ્ધ બંધ કરવા બન્ને પક્ષો સંમત થયા છે. રવિવારે બંને દેશો વચ્ચે શાંતિ કરાર થયો હતો અને બંને પક્ષો 19 જૂને સ્વિટ્ઝર્લૅન્ડમાં તેના પર હસ્તાક્ષર કરશે. ત્યારે મોટા ભાગના લોકોના મનમાં આ સવાલ ઉઠતો હશે કે આ યુદ્ધ કોણ જીત્યું?",
@@ -754,41 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sushant-singh-rajput-death-anniversary-what-happen-on-14-june-sushant-singh-rajput-death-case-mystery-481445 ",
     "time": "2026-06-14T05:14:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ભારતની એક ચાલથી પાકમાં મચ્યો હાહાકાર! પાણી માટે તરસી રહ્યા છે સિંધ-બલૂચિસ્તાન જેવા વિસ્તારો",
-    "desc": "ભારતે સિંધુ જળ સંધિ પર જે રોક લગાવી છે, ત્યારબાદ પાકિસ્તાનના સિંધ અને બલૂચિસ્તાન પ્રાંતોમાં ગંભીર જળ સંકટની સ્થિતિ ઊભી થઈ છે. નહેરોમાં પાણીની અછતને કારણે ખેતી પર માઠી અસર પડી રહી છે અને લાખો લોકો સામે આજીવિકાનું સંકટ ઊભું થયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/indus-waters-treaty-fallout-nearly-a-third-of-pakistan-reels-as-sindh-balochistan-face-water-crisis-481397 ",
-    "time": "2026-06-13T13:17:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બિરયાની વિવાદ પછી પહેલીવાર કોમેડીયન પ્રણીત મોરેએ શેર કર્યો Video, જાણો શું કહ્યું ઘટના વિશે",
-    "desc": "છેલ્લા કેટલાક દિવસથી સોશિયલ મીડિયા પર જે બિરયાની વિવાદ છવાયેલો છે તેમાં પહેલીવાર કોમેડીયન પ્રણીત મોરેએ વીડિયો શેર કર્યો છે. વિવાદ વકર્યા પછી તેનું ઈંસ્ટા અકાઉન્ટ બંધ હતું. હવે તેણે ઈંસ્ટાગ્રામ પર વીડિયો શેર કરી પોતાની ભુલ સ્વીકારી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/pranit-more-instagram-video-post-after-370-biryani-controversy-watch-here-apology-video-481368 ",
-    "time": "2026-06-13T07:52:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કાલા હિરન ફિલ્મનું ટીઝર જોઈ ભડક્યો સલમાન ખાન, ફિલ્મની રિલીઝ રોકવા હાઈકોર્ટમાં કરી અપીલ",
-    "desc": "કાલા હિરન ફિલ્મનું ટીઝર રિલીઝ થયાની સાથે જ સલમાન ખાને હાઈકોર્ટના દરવાજા ખખડાવ્યા છે. સલમાન ખાને કોર્ટમાં અપીલ કરી છે કે ફિલ્મની રિલીઝ અને પ્રમોશન પર તુરંત રોકવામાં આવે. કોર્ટે મેકર્સને નોટિસ પણ ફટકારી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/kala-hiran-movie-teaser-salman-khan-plea-in-high-court-to-stop-film-release-481350 ",
-    "time": "2026-06-13T04:31:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ભારત ભાગ્ય વિધાતા ફિલ્મમાં કંગનાએ જેનું પાત્ર ભજવ્યું તે નર્સ છે અંજલિ કુલ્થે, જાણો તે રાત્રે ખરેખર હોસ્પિટલમાં શું થયું ?",
-    "desc": "કંગનાની ફિલ્મ ભારત ભાગ્ય વિધાતા રિલીઝ થઈ ગઈ છે. ફિલ્મના વખાણ પણ થઈ રહ્યા છે. ત્યારે ચાલો તમને જણાવીએ ભારત ભાગ્ય વિધાતાની રિયલ લાઈફ હીરો નર્સ કોણ છે અને 26/11 ના હુમલાની અસર તેની લાઈફમાં કેવી થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/bharat-bhhagya-viddhaata-real-hero-nurse-of-26-11-anjali-kulthe-kama-hospital-real-story-481285 ",
-    "time": "2026-06-12T11:33:08.000Z"
   }
 ];
