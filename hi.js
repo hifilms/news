@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Belgium look to register win of the tournament",
+    "title": "Belgium shares points with Iran after thrilling FIFA WC 2026 clash, qualification in trouble for the side",
+    "desc": "Belgium and Iran took on each other in a thrilling FIFA World Cup 2026 clash. The two sides met at the Los Angeles Stadium in Arlington on June 22nd, and while many expected Belgium to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/belgium-shares-points-with-iran-after-thrilling-fifa-wc-2026-clash-qualification-in-trouble-for-the-side-2026-06-22-1045659",
+    "time": "2026-06-21T21:34:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur asks for support from bowlers as India lose first T20 World Cup 2026 game",
+    "desc": "India women continued their campaign in the ongoing Women’s T20 World Cup 2026. The two sides met at Old Trafford in Manchester on June 21st, and fans anticipated a fiery clash between the two sides;...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-asks-for-support-from-bowlers-as-india-lose-first-t20-world-cup-2026-game-2026-06-22-1045658",
+    "time": "2026-06-21T20:47:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Belgium and Iran share points in Arlington",
     "desc": "Belgium and Iran are all set to take on each other in yet another exciting clash at the ongoing FIFA World Cup 2026. The two sides meet at the Los Angeles Stadium in Inglewood, and...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-saw-womens-t20-world-cup-2026-pitch-report-how-surface-at-old-trafford-is-expected-to-play-2026-06-21-1045628",
     "time": "2026-06-21T11:38:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kieron Pollard dethrones Chris Gayle to own biggest T20 world record during MLC 2026",
-    "desc": "Former West Indies cricketer Kieron Pollard has etched his name into the history books as he shattered Chris Gayle's world record for most runs in T20 cricket. Pollard achieved the feat during MI New York's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollard-dethrones-chris-gayle-to-own-biggest-t20-world-record-during-mlc-2026-2026-06-21-1045623",
-    "time": "2026-06-21T10:40:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravindra Jadeja's absence, Bumrah's inclusion; biggest talking points from India's ODI squad for England",
-    "desc": "India have named their squad for the three-match ODI series against England as the Men in Blue prepare themselves to overturn the heartbreak of the World Cup 2023 with their eyes on the prize in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadejas-absence-bumrahs-inclusion-biggest-talking-points-from-indias-odi-squad-for-england-2026-06-21-1045620",
-    "time": "2026-06-21T10:25:52.000Z"
   }
 ];

@@ -1,6 +1,42 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Toy Story 5' records biggest debut with USD 312 mn haul",
+    "desc": "Pixar's 'Toy Story 5' has shattered box office records, raking in USD 160 million domestically and USD 312 million worldwide during its opening weekend. This marks the biggest debut for the franchise and the year. Despite a hefty USD 250 million production cost, the film's strong audience reception and positive reviews suggest it will continue its lucrative run, contributing to a robust summer box office that's nearing pre-pandemic levels.",
+    "img": "https://static.toiimg.com/photo/msid-131897421,imgsize-233758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/toy-story-5-rakes-in-usd-312-million-at-global-box-office-records-biggest-debut-of-2026/articleshow/131897272.cms",
+    "time": "2026-06-21T21:45:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Anshula Kapoor and Rohan Thakkar's pre-wedding festivities",
+    "desc": "Ahead of her wedding to fiance Rohan Thakkar, Anshula Kapoor's pre-wedding celebrations have begun in full swing, bringing together members of the Kapoor family for an intimate gathering filled with love and tradition. Shanaya Kapoor, Sanjay Kapoor, mother Maheep Kapoor, Arjun Kapoor, Janhvi Kapoor and Khushi Kapoor attended the celebrations.",
+    "img": "https://static.toiimg.com/photo/msid-131897198,imgsize-152642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anshula-kapoor-and-rohan-thakkars-pre-wedding-festivities-shanaya-arjun-janhvi-and-khushi-join-family-celebrations/articleshow/131897188.cms",
+    "time": "2026-06-21T20:20:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "JD(U) national council unanimously endorses Nitish Kumar as national president, calls Nishant its future",
+    "desc": "Nitish Kumar says the JD(U) has taken a place in the hearts of people by fighting for ‘development with justice’, a commitment that, according to him, has resulted in the party’s primary membership exceeding 10 million",
+    "img": "https://th-i.thgim.com/public/incoming/rizjbc/article71130566.ece/alternates/LANDSCAPE_1200/PTI06_21_2026_000731B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/jdu-national-council-unanimously-endorses-nitish-kumar-as-national-president-calls-nishant-its-future/article71130157.ece",
+    "time": "2026-06-21T19:30:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The lack of accountability within the NTA",
+    "desc": "The National Testing Agency (NTA) was created in 2017 as a registered society under the Societies Registration Act, 1860 and not through an Act of Parliament, which means it operates without a codified liability standard toward the candidates it examines",
+    "img": "https://th-i.thgim.com/public/incoming/ynfilr/article71130561.ece/alternates/LANDSCAPE_1200/9871_21_6_2026_18_49_4_3_DSC_0516.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/opinion/op-ed/the-lack-of-accountability-within-the-nta/article71130314.ece",
+    "time": "2026-06-21T19:26:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Seema recalls Om Puri's affair during pregnancy, losing her baby",
     "desc": "Late actor Om Puri’s first wife, writer-director and author Seema Kapoor, has opened up about the most painful chapter of her life, revealing how their marriage fell apart after another woman entered the actor’s life, how she lost her unborn child during the turmoil, and why she refused to engage in a legal battle despite encouragement from her brother, actor Annu Kapoor.",
     "img": "https://static.toiimg.com/photo/msid-131896978,imgsize-50520.cms",
@@ -187,15 +223,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ukraines-battlefield-shift-has-not-solved-its-humanitarian-crisis-irc-says/article71130165.ece",
     "time": "2026-06-21T16:01:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rebel Shiv Sena (UBT) MP Omprakash Raje Nimbalkar to join Shinde-led Shiv Sena",
-    "desc": "Mr. Nimbalkar arrived in Dharashiv from Pune in the afternoon and interacted with his supporters. He cited the Sena (UBT)'s defeat in the local body elections and his inability to do much for the people because of being in Opposition",
-    "img": "https://th-i.thgim.com/public/incoming/l6d0oh/article71130174.ece/alternates/LANDSCAPE_1200/PTI06_20_2026_000335B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/rebel-shiv-sena-ubt-mp-omprakash-raje-nimbalkar-to-join-shinde-led-shiv-sena/article71130085.ece",
-    "time": "2026-06-21T16:00:06.000Z"
   },
   {
     "cat": "World",
@@ -414,15 +441,6 @@ const newsData_en = [
     "time": "2026-06-21T12:32:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Fund crunch for constituency, caustic remarks’",
-    "desc": "A Shiv Sena (UBT) Lok Sabha MP, Nagesh Patil Ashtikar, has switched to the Eknath Shinde faction, citing a need for development funds for his constituency. He stated that the limited MPLADS fund was insufficient to address public expectations. Ashtikar also alluded to \"certain remarks\" made by a senior Sena (UBT) leader as a catalyst for his decision, suggesting a lack of respect within the party.",
-    "img": "https://static.toiimg.com/photo/msid-131891048,imgsize-107757.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uddhav-camp-mp-confirms-crossover-to-ruling-sena-fund-crunch-for-constituency-caustic-remarks/articleshow/131890598.cms",
-    "time": "2026-06-21T12:29:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ashish Chanchlani backs Samay Raina amid criticism of ‘India’s Got Latent’ 2",
     "desc": "Content creator Ashish Chanchlani defended comedian Samay Raina and the new season of 'India's Got Latent', explaining the show's cautious approach stems from a year-long legal battle following a 2025 controversy. Chanchlani highlighted Raina's immense effort in reviving the series against all odds, emphasizing the difficult circumstances behind its return. The show's second season, featuring Alia Bhatt and Sharvari, now streams on both YouTube and Netflix.",
@@ -430,24 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/ashish-chanchlani-backs-samay-raina-amid-criticism-of-indias-got-latent-season-2-he-has-fought-countless-battles-behind-the-scenes/articleshow/131890651.cms",
     "time": "2026-06-21T12:26:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Truth must come out’: Karnataka BJP to ask MLAs to swear before Lord Manjunatha in cross-voting probe",
-    "desc": "Karnataka BJP is investigating alleged cross-voting by its MLAs in the recent Legislative Council polls, which saw the ruling Congress secure a significant victory. Party president B Y Vijayendra announced a legislature party meeting at Dharmasthala, where MLAs might take an oath before Lord Manjunatha to reveal the truth. He termed the alleged betrayal a serious matter that will be pursued to its conclusion, aiming to restore party worker confidence.",
-    "img": "https://static.toiimg.com/photo/msid-131890593,imgsize-986781.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/truth-must-come-out-karnataka-bjp-to-ask-mlas-to-swear-before-lord-manjunatha-in-cross-voting-probe/articleshow/131890499.cms",
-    "time": "2026-06-21T12:15:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dharmendra Pradhan speaks to parents of NEET-UG aspirant taking re-exam while recovering from major surgery",
-    "desc": "Union Minister Dharmendra Pradhan spoke with the parents of Shrishti Dubey, a Kolkata NEET-UG aspirant who, despite a severe road accident and surgery, was able to take the re-exam. Special medical arrangements, including a separate room and ambulance, were made following government intervention. Shrishti's parents expressed immense gratitude, crediting the minister for enabling their daughter's participation. Pradhan conveyed his best wishes for her success and future as a doctor.",
-    "img": "https://static.toiimg.com/photo/msid-131890539,imgsize-559547.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-dharmendra-pradhan-speaks-to-parents-of-neet-ug-aspirant-taking-re-exam-while-recovering-from-major-surgery/articleshow/131890184.cms",
-    "time": "2026-06-21T12:08:37.000Z"
   },
   {
     "cat": "Sports",
@@ -475,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/tv-presenter-quits-after-falsely-announcing-lionel-messis-fathers-death-live-on-air/articleshow/131890324.cms",
     "time": "2026-06-21T11:45:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Big names involved, govt may fall': Arvind Kejriwal questions lack of CBI, ED action in Ram Temple donation 'theft' case",
-    "desc": "Aam Aadmi Party (AAP) national convenor Arvind Kejriwal has alleged that \"big names\" are involved in the Ram Temple donation theft case, claiming the government could face collapse if their identities are revealed. He questioned the lack of FIRs despite reports of crores in cash and valuables being stolen, urging swift action to protect public faith over political interests.",
-    "img": "https://static.toiimg.com/photo/msid-131890240,imgsize-142011.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/big-names-involved-govt-may-fall-arvind-kejriwal-questions-lack-of-cbi-ed-action-in-ram-temple-donation-theft-case/articleshow/131890173.cms",
-    "time": "2026-06-21T11:44:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -547,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms",
     "time": "2026-06-21T11:05:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chunky on Akshay's restaurant prank during 'Housefull' shoot",
-    "desc": "Actor Chunky Panday recounted a hilarious prank by Akshay Kumar during the 'Housefull' shoot in Italy. Invited for a meal, Chunky was left to pay the bill after Akshay and the unit quietly departed. The awkward moment saw him approached by the hotel manager, only for filmmakers Sajid Khan and Sajid Nadiadwala to return and resolve the situation, turning a potentially embarrassing incident into a fond memory.",
-    "img": "https://static.toiimg.com/photo/msid-131889670,imgsize-150819.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/thought-akshay-must-have-paid-the-bill-chunky-panday-on-akshay-kumars-restaurant-prank-during-housefull-shoot/articleshow/131889709.cms",
-    "time": "2026-06-21T11:04:54.000Z"
   },
   {
     "cat": "Sports",
@@ -891,12 +873,30 @@ const newsData_en = [
     "time": "2026-06-19T18:11:12.000Z"
   },
   {
-    "cat": "World",
-    "title": "TN Assembly adopts resolution against Karnataka’s Mekedatu dam plan",
-    "desc": "In this episode we look at the Tamil Nadu Assembly revives the Cauvery dispute with a resolution against Karnataka’s Mekedatu dam project, while Kerala’s first budget under Chief Minister V.D. Satheesan sparks political debate. We also look at Israel-Hezbollah clashes test a fragile U.S.-Iran deal, and more.",
-    "img": "https://th-i.thgim.com/public/news/national/o2ld46/article71123532.ece/alternates/LANDSCAPE_1200/June%2018%20THUMB.png",
+    "cat": "Business",
+    "title": "Fiscal health, welfare, growth in focus as Congress-led UDF govt to present Revised Budget on June 19",
+    "desc": "Budget faces challenge of finding middle ground between re-aligning Kerala’s fiscal space for tackling concerns raised in White Paper on State finances and mobilising additional revenue for development and welfare, notably Indira Guarantees and ‘dream projects’",
+    "img": "https://th-i.thgim.com/public/incoming/32rzuw/article71112696.ece/alternates/LANDSCAPE_1200/PTI06_04_2026_000293A.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-tn-assembly-adopts-resolution-against-karnatakas-mekedatu-dam-plan-above-the-fold-19062026/article71123534.ece",
-    "time": "2026-06-19T17:02:19.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-budget-fiscal-health-welfare-growth-in-focus-as-congress-led-udf-govt-to-present-revised-budget-on-june-19/article71112603.ece",
+    "time": "2026-06-19T08:47:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The Madras Players bring Hema Sukumar’s novel to the stage",
+    "desc": "An original stage adaptation of Hema Sukumar’s Minor Disturbances At Grand Life Apartments, The Madras Players’ latest production is a warm, slice-of-life play that chronicles the everyday lives of residents in a charming Chennai apartment complex",
+    "img": "https://th-i.thgim.com/public/life-and-style/7j4bwl/article71121159.ece/alternates/LANDSCAPE_1200/FotoJet%2038.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/theatre/the-madras-players-bring-hema-sukumars-novel-to-the-stage/article71117499.ece",
+    "time": "2026-06-19T07:33:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Telegram challenge puts spotlight on Section 69A of the IT Act",
+    "desc": "Using the provision to block an entire platform may infringe on Constitutional rights to freedom of expression and freedom to practise a profession or run a business, similar to a blanket ban on internet services",
+    "img": "https://th-i.thgim.com/public/incoming/h10cvw/article71119084.ece/alternates/LANDSCAPE_1200/2026-06-17T064411Z_207211350_RC2IVLAOMH83_RTRMADP_3_INDIA-TELEGRAM-EDUCATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telegram-challenge-puts-spotlight-on-section-69a-of-the-it-act/article71118292.ece",
+    "time": "2026-06-19T03:08:50.000Z"
   }
 ];
