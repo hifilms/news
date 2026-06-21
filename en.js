@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "King Charles offers Prince Harry and Meghan Markle a royal stay",
+    "desc": "Prince Harry and Meghan Markle are returning to the UK with their children after a four-year absence, coinciding with Invictus Games events. King Charles has reportedly offered royal accommodation, a gesture of goodwill amid ongoing security concerns for the family's safety. Harry has previously expressed a strong desire for reconciliation with his father, emphasizing the preciousness of life and the importance of family ties.",
+    "img": "https://static.toiimg.com/photo/msid-131885674,imgsize-126632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/king-charles-offers-prince-harry-and-meghan-markle-royal-accommodation-after-dukes-life-is-precious-remark/articleshow/131885651.cms",
+    "time": "2026-06-21T03:39:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What does the U.S.-Iran agreement say?",
+    "desc": "What are the main provisions of the U.S.-Iran memorandum of understanding signed on June 15? What commitments have the two countries made under the deal regarding nuclear activities and sanctions? How does the issue of Iran’s frozen assets feature in the agreement? Why is Israel opposed to the agreement? What are the main sticking points?",
+    "img": "https://th-i.thgim.com/public/incoming/4ow8gv/article71127219.ece/alternates/LANDSCAPE_1200/Iran_War_65556.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/what-does-the-us-iran-agreement-say-explained/article71127001.ece",
+    "time": "2026-06-21T03:18:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daveigh Chase's mother breaks her silence on her daughter's demise",
+    "desc": "Actress Daveigh Chase, known for 'Lilo & Stitch' and 'The Ring,' has passed away at 35 due to bacterial meningitis and a blood infection. Her mother, Cathy Chase, recounted her initial disbelief upon seeing the news and the overwhelming grief that followed. She revealed Daveigh's struggles with painkiller addiction after a 2016 motorcycle accident and subsequent homelessness, expressing her enduring hope for her daughter's recovery.",
+    "img": "https://static.toiimg.com/photo/msid-131885570,imgsize-489537.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/daveigh-chases-mother-cathy-chase-finally-breaks-her-silence-on-her-daughters-demise-something-inside-of-me-was-squeezing-all-of-the-air-out/articleshow/131885575.cms",
+    "time": "2026-06-21T03:12:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel Shetty, Neil Nitin Mukesh encourage yoga for healthy living",
+    "desc": "The theme of International Day of Yoga 2026, \"Yoga for Healthy Ageing\", highlights the role of Yoga in promoting physical health, mental well-being, emotional resilience, and active ageing, thereby contributing to an improved quality of life.",
+    "img": "https://static.toiimg.com/photo/msid-131885592,imgsize-349212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-neil-nitin-mukesh-shilpa-shetty-celebrate-yoga-day-call-it-a-lifestyle-shift/articleshow/131885550.cms",
+    "time": "2026-06-21T03:08:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Three arrested in Bengaluru",
+    "desc": "Bengaluru Cyber Crime Police have apprehended three individuals in connection with the creation and spread of deepfake content featuring 'Kantara' actor Rukmini Vasanth. The fabricated AI-generated images, reportedly depicting the actor in misleading scenarios, prompted a cybercrime complaint. Digital evidence has been seized, and the investigation is ongoing, with further arrests not ruled out.",
+    "img": "https://static.toiimg.com/photo/msid-131885531,imgsize-203889.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/rukmini-vasanth-deepfake-case-three-arrested-in-bengaluru-over-ai-generated-fake-content-investigation-widens/articleshow/131885521.cms",
+    "time": "2026-06-21T03:05:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kolkata’s rain playlist, memories and monsoon moments",
+    "desc": "What does a Fossils song, a bowl of khichuri, a wedding shehnai and a scene from Apur Sansar have in common? For many Kolkatans, they are all part of the soundtrack of rain. As monsoon returns to the city, Kolkatans recall the music, films, loves and losses that resurface with every downpour.",
+    "img": "https://th-i.thgim.com/public/incoming/v2neov/article71109127.ece/alternates/LANDSCAPE_1200/image%2024.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/world-music-day-2026-kolkatas-rain-playlist-memories-and-monsoon-moments/article71109025.ece",
+    "time": "2026-06-21T02:56:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We are all grateful to PM Modi': Top ministers, CMs perform yoga across India",
+    "desc": "Prime Minister Narendra Modi led International Yoga Day celebrations in Kolkata, emphasizing \"Yoga for Healthy Ageing\" and its role in maintaining physical and mental well-being. Across India, Union ministers and chief ministers participated in mass yoga sessions, highlighting yoga's global reach and its contribution to a healthier, more vibrant nation. The day marked a collective global celebration of yoga's benefits.",
+    "img": "https://static.toiimg.com/photo/msid-131885470,imgsize-1115017.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-are-all-grateful-to-pm-modi-top-ministers-cms-perform-yoga-across-india/articleshow/131885426.cms",
+    "time": "2026-06-21T02:52:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Janhvi's nightsuit with 'Return to Shikhar' caption goes viral",
+    "desc": "In a recent viral snapshot, Janhvi Kapoor donned a nightsuit emblazoned with a whimsical 'return to Shikhar Pahariya' slogan, stirring excitement about her relationship with Shikhar. Having reportedly been together since 2016 and rumored to have revived their romance this year, they continue to intrigue fans with their appearances. Upcoming for Kapoor are the movies 'Lag Jaa Gale' and 'Raaka'.",
+    "img": "https://static.toiimg.com/photo/msid-131885396,imgsize-98760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/peddi-actress-janhvi-kapoors-picture-in-nightsuit-with-a-cheeky-caption-goes-viral-if-lost-please-return-to-shikhar-pahariya/articleshow/131885080.cms",
+    "time": "2026-06-21T02:47:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dua Lipa's custom couture wedding gown wins the internet",
+    "desc": "In a spectacular reveal, newlywed Dua Lipa has disclosed cherished moments from her wedding to Callum Turner, held in the picturesque setting of Sicily. The Grammy-winning artist dazzled in a unique Chanel haute couture gown, showcasing the brand's artistic flair. After a civil ceremony in London, the intimate gathering at Villa Valguarnera brought together close friends and family, encapsulating the enchanting beginning of their shared love story.",
+    "img": "https://static.toiimg.com/photo/msid-131885402,imgsize-171358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipas-custom-couture-wedding-gown-wins-the-internet-as-she-shares-intimate-pictures-from-her-wedding-with-callum-turner-in-sicily/articleshow/131885390.cms",
+    "time": "2026-06-21T02:42:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'More flexible at 40, energetic at 50': PM Modi on healthy ageing, yoga's benefits",
+    "desc": "Prime Minister Narendra Modi urged citizens to integrate yoga into their daily lives, not just observe it on a single day, during International Yoga Day celebrations in Kolkata. He emphasized yoga's role as a global movement fostering physical health, mental well-being, and emotional resilience for all ages, particularly highlighting 'Yoga for Healthy Ageing'.",
+    "img": "https://static.toiimg.com/photo/msid-131885385,imgsize-540437.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/more-flexible-at-40-energetic-at-50-pm-modi-on-healthy-ageing-yogas-benefits-top-quotes/articleshow/131885316.cms",
+    "time": "2026-06-21T02:30:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK dances at Supriya Sule's daughter's pre-wedding bash: Video",
+    "desc": "Bollywood icon Shah Rukh Khan made a stunning appearance at the pre-wedding celebrations of Lok Sabha MP Supriya Sule's daughter, Revati. Heartwarming videos went viral showing SRK blessing the couple and sharing a tender kiss. He later captivated attendees by dancing to his classic hit 'Koi Mil Gaya,' radiating his unique charm. Fans are buzzing with excitement for his upcoming film 'King,' featuring his daughter Suhana's first performance.",
+    "img": "https://static.toiimg.com/photo/msid-131885257,imgsize-97754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-sets-the-dance-floor-on-fire-at-supriya-sules-daughter-revatis-pre-wedding-bash-grooves-to-koi-mil-gaya/articleshow/131885253.cms",
+    "time": "2026-06-21T02:06:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Exploring father-son bonds in Malayalam cinema.",
+    "desc": "Malayalam cinema consistently explores the profound father-son bond, crafting memorable narratives. From the classic emotional depth of 'Kireedam' and 'Spadikam' to contemporary takes in 'Falimy' and 'Vaazha', these films capture the complexities and enduring connections between fathers and sons. The industry's ability to portray these relationships resonates deeply with audiences, making it a recurring and powerful theme.",
+    "img": "https://static.toiimg.com/photo/msid-131885236,imgsize-113940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/from-spadikam-to-vaazha-2-how-these-evolved-malayalam-emotional-dramas-have-masterfully-depicted-the-father-son-relationship-on-screen/articleshow/131885200.cms",
+    "time": "2026-06-21T01:51:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Nooru Saami' BO day 2: Swasika starrer sees 62.7% growth",
+    "desc": "'Nooru Saami' witnessed a significant surge in box office collections on its second day, raking in Rs 1.22 crore net, a 62.7% jump from its opening day. The film, directed by Sasi and starring Vijay Antony, has now amassed Rs 1.97 crore net in India. The story centers on a mother's unwavering wish and her sons' diverging paths, with ETimes praising its departure from conventional village drama tropes.",
+    "img": "https://static.toiimg.com/photo/msid-131885162,imgsize-141314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nooru-saami-box-office-collections-day-2-swasika-starrer-sees-62-7-growth-saturday-collections-hit-rs-1-22-cr/articleshow/131885158.cms",
+    "time": "2026-06-21T01:38:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Crooners beat the commuting blues on a long suburban line from Chennai to Tiruvallur",
+    "desc": "Every day, at a set hour in the morning and evening, a compartment in the local electric train on the Chennai Central-Tiruvallur suburban line morphs into a concert hall. Listening in to the voices from this decades-old amateur train singing group, clearly a Methuselah among such groups across the Chennai Metropolitan Area",
+    "img": "https://th-i.thgim.com/public/incoming/yhay3v/article71126699.ece/alternates/LANDSCAPE_1200/thiruvallur%20to%20chen%20central%20line%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/crooners-beat-the-commuting-blues-on-a-long-suburban-line-from-chennai-to-tiruvallur/article71126645.ece",
+    "time": "2026-06-21T00:56:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diljit's Main Vaapas Aaunga crosses Rs 32 cr globally on Day 9",
+    "desc": "The captivating partition drama 'Main Vaapas Aaunga', directed by Imtiaz Ali and starring Diljit Dosanjh, is already a box office hit, raking in Rs 18.50 crore in India by its second Saturday. Day 9 saw a substantial boost with earnings of Rs 4.35 crore. On a global scale, the film has pulled in Rs 32.85 crore, showcasing strong viewer enthusiasm amidst the release of new films. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-131885050,imgsize-264732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/main-vaapas-aaunga-box-office-collection-day-9-diljit-dosanjh-starrer-witnesses-strong-jump-crosses-rs-32-crore-worldwide/articleshow/131885044.cms",
+    "time": "2026-06-21T00:50:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Deewana earns Rs 33 lakh worldwide",
+    "desc": "Telugu romantic drama 'Deewana' is off to a promising start, garnering positive audience feedback. The film, directed by Sreekanth Sangishetty, has seen its Day 2 collections significantly improve, reaching Rs 29 lakhs net in India and Rs 33 lakhs worldwide. Viewers are praising the screenplay, music, and emotional depth, with particular acclaim for Harshith Reddy's performance. This encouraging reception suggests a strong run for the film.",
+    "img": "https://static.toiimg.com/photo/msid-131885047,imgsize-360024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/deewana-box-office-collection-day-2-harshith-reddys-romantic-drama-earns-rs-33-lakh-worldwide/articleshow/131885041.cms",
+    "time": "2026-06-21T00:43:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Peddi' BO day 17: Ram Charan film jumps 30 percent",
+    "desc": "Ram Charan's action drama 'Peddi' saw a significant boost on its 17th day, collecting Rs 1.95 crore net and marking a 30% increase from the previous day. The film's worldwide gross has now soared to an impressive Rs 326.86 crore. Meanwhile, Samantha Ruth Prabhu's new release, 'Maa Inti Bangaram,' has made a strong debut, earning Rs 5.35 crore net on its opening day.",
+    "img": "https://static.toiimg.com/photo/msid-131884984,imgsize-362755.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-box-office-collection-day-17-ram-charan-film-jumps-30-percent-faces-fresh-challenge-from-samantha-ruth-prabhus-maa-inti-bangaram/articleshow/131884982.cms",
+    "time": "2026-06-21T00:17:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yashasvi Jaiswal leaves Virat Kohli, Shubman Gill behind in major ODI record",
+    "desc": "Yashasvi Jaiswal etched his name in history, becoming the fastest Indian to score two ODI centuries in just six innings with a brilliant unbeaten 110 against Afghanistan. His stellar knock, coupled with Rohit Sharma's 79, guided India to a commanding nine-wicket victory and a 3-0 series whitewash. Prasidh Krishna's five-wicket haul earlier restricted Afghanistan to 218, setting the stage for Jaiswal's record-breaking performance.",
+    "img": "https://static.toiimg.com/photo/msid-131878906,imgsize-35818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/yashasvi-jaiswal-leaves-virat-kohli-shubman-gill-behind-in-major-odi-record/articleshow/131878785.cms",
+    "time": "2026-06-20T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gill wins first ODI series as captain; equals Rohit Sharma's feat",
+    "desc": "Shubman Gill captained India to a commanding 3-0 ODI series victory against Afghanistan, marking his first series win as skipper. The young batsman also shone with the bat, finishing as the highest run-scorer with 238 runs and earning Player of the Series. Gill praised his team's execution and highlighted the upcoming England series as crucial preparation for the 2027 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-131880171,imgsize-75852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/shubman-gill-wins-first-odi-series-as-captain-equals-rohit-sharmas-feat/articleshow/131880208.cms",
+    "time": "2026-06-20T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Undav fires Germany to 2-1 win over Ivory Coast and place in the knockouts",
+    "desc": "After having two goals disallowed in the first half, ‌Germany did not lose focus and used intricate passing to find their way while the West Africans produced their dynamic brand of attacking ‌football in a wild Group E clash",
+    "img": "https://th-i.thgim.com/public/incoming/xslvgd/article71127397.ece/alternates/LANDSCAPE_1200/Ivory_Coast_Germany_WCup_Soccer_91_41.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-undav-fires-germany-to-2-1-win-over-ivory-coast-and-place-in-the-knockouts/article71127395.ece",
+    "time": "2026-06-20T22:35:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Match 1,000: Japan and Tunisia handed World Cup honour no two nations have ever received before",
+    "desc": "Japan and Tunisia will make FIFA World Cup history when they contest the tournament’s 1,000th match at Monterrey Stadium. The landmark Group F encounter marks a milestone nearly a century in the making, prompting special FIFA tributes and global attention. Beyond its historical significance, the match carries crucial implications for both nations’ hopes of reaching the Round of 32.",
+    "img": "https://static.toiimg.com/photo/msid-131883101,imgsize-1149035.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/match-1000-japan-and-tunisia-handed-world-cup-honour-no-two-nations-have-ever-received-before/articleshow/131882998.cms",
+    "time": "2026-06-20T21:59:30.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "FSSAI turns lens on 'natural', 'healthy' labels",
     "desc": "India's food regulator, FSSAI, is cracking down on misleading health claims on food and supplement labels. Products marketed as \"natural,\" \"healthy,\" or \"no added sugar\" are under scrutiny for potentially deceiving consumers. This intensified enforcement follows rising complaints and social media attention, aiming to ensure transparency and protect public health by urging consumers to look beyond catchy marketing phrases.",
@@ -106,6 +295,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/kheer-bhawani-yatra-begins-8500-pilgrims-in-214-buses-leave-jammu/articleshow/131882227.cms",
     "time": "2026-06-20T18:41:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Similipal’s black tigers are getting help",
+    "desc": "Zeenat, a tigress translocated from Maharashtra’s Tadoba-Andhari Tiger Reserve to Odisha’s Similipal Tiger Reserve two years ago, has given birth to four cubs. Satyasundar Barik speaks to the people behind the high-stakes conservation effort to rescue Similipal’s tigers from a genetic mutation that has fuelled the rise of pseudo-melanism, or dense, thick, merging stripes",
+    "img": "https://th-i.thgim.com/public/incoming/a5qfe8/article71127029.ece/alternates/LANDSCAPE_1200/90092_11_6_2026_12_11_25_1_SIMILIPAL_TIGER_RESERVE_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/similipals-black-tigers-are-getting-help/article71125490.ece",
+    "time": "2026-06-20T18:18:24.000Z"
   },
   {
     "cat": "Politics",
@@ -261,15 +459,6 @@ const newsData_en = [
     "time": "2026-06-20T16:13:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "KWA steps up efforts to resolve water supply disruption in Kozhikode",
-    "desc": "Recent downpours forced the KWA subdivision to reduce water supply from the JICA drinking water project for nearly a week. Continuous intake of highly turbid water led to heavy siltation in the treatment plant’s filter beds, causing widespread shortages in dependent areas",
-    "img": "https://th-i.thgim.com/public/incoming/h5y9hd/article71126873.ece/alternates/LANDSCAPE_1200/Mysuru-City-CorGF4FPTK4O.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kwa-steps-up-efforts-to-resolve-water-supply-disruption-in-kozhikode/article71125274.ece",
-    "time": "2026-06-20T16:05:19.000Z"
-  },
-  {
     "cat": "World",
     "title": "Three Indian-flagged oil tankers transit through Strait of Hormuz",
     "desc": "3 Indian-flagged crude oil tankers, carrying over 8.6 Lakh MT of cargo with 94 Indian crew members have successfully transited the Strait of Hormuz today and are en route to India, Union Minister Sarbananda Sonowal said",
@@ -360,15 +549,6 @@ const newsData_en = [
     "time": "2026-06-20T14:48:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Heard what PM Modi didn't say': Congress taunts Shashi Tharoor; he claps back with 'I read widely'",
-    "desc": "Congress MP Shashi Tharoor defended his remarks praising PM Modi's handling of the civilian sailors' issue, stating he relied on widely published reports. This followed criticism from colleague Pawan Khera, who questioned Tharoor's claims, citing a lack of mention in official statements. The BJP also weighed in, highlighting perceived internal Congress divisions over the matter.",
-    "img": "https://static.toiimg.com/photo/msid-131878462,imgsize-176875.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beyond-the-physical-world-congress-mocks-tharoors-admiration-for-pm-modi/articleshow/131878179.cms",
-    "time": "2026-06-20T14:46:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India thrash Chile 6-0 to set up Nations Cup final against New Zealand",
     "desc": "The Indian women's hockey team showcased a dominant performance, thrashing Chile 6-0 in the semifinals of the Nations Cup to secure a spot in the final against hosts New Zealand. Navneet Kaur and Deepika each scored twice, with Neha and Rutuja Dadaso Pisal adding one goal apiece. The team's fluid play and clinical finishing, especially from penalty corners, have them brimming with confidence for the title clash.",
@@ -450,33 +630,6 @@ const newsData_en = [
     "time": "2026-06-20T13:20:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Elisha Cuthbert on four-year break: ‘I didn’t want to be on set’",
-    "desc": "Elisha Cuthbert recently shared her decision to take a four-year break from acting, emphasizing the importance of family during that time. After the birth of her second child, balancing the demands of motherhood and her career proved difficult. Now that her kids are enrolled in full-time school, she is eager to make her return, starring in Prime Video's 'Every Year After', a project she is genuinely passionate about.",
-    "img": "https://static.toiimg.com/photo/msid-131876878,imgsize-175218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/elisha-cuthbert-explains-why-she-took-a-four-year-break-from-acting-i-didnt-want-to-be-on-set/articleshow/131876779.cms",
-    "time": "2026-06-20T13:03:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pravin slams critics over backlash regarding SRK's Rs 42 lakh help for Deool Band 2",
-    "desc": "Marathi film 'Deool Band 2' has earned over Rs 82.19 crore despite a budget of Rs 8-10 crore. Director Pravin Tarde revealed Shah Rukh Khan waived off their DCP bill of Rs 42 lakh. \"If it's a good film, give them the DCP,\" SRK reportedly said.",
-    "img": "https://static.toiimg.com/photo/msid-131877067,imgsize-103.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/give-credit-where-its-due-pravin-tarde-slams-critics-over-backlash-regarding-shah-rukh-khans-rs-42-lakh-help-for-deool-band-2/articleshow/131876748.cms",
-    "time": "2026-06-20T12:55:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Krishna scripts history in Chennai, becomes first Indian ever to...",
-    "desc": "Prasidh Krishna starred with a career-best 5 for 23, becoming the first Indian to take an ODI five-wicket haul in Chennai and setting a new venue record. His early burst reduced Afghanistan to 36/4, but captain Hashmatullah Shahidi fought back with a maiden ODI century as the visitors recovered to post 218 before being bowled out.",
-    "img": "https://static.toiimg.com/photo/msid-131876707,imgsize-79559.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/ind-vs-afg-prasidh-krishna-scripts-history-in-chennai-becomes-first-indian-bowler-ever-to-/articleshow/131876336.cms",
-    "time": "2026-06-20T12:51:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After 4644 days, Afghanistan captain Shahidi finally gets first ODI century",
     "desc": "Afghanistan captain Hashmatullah Shahidi achieved a significant milestone, scoring his maiden ODI century with a resilient 102 against India. This landmark hundred came after a remarkable 4,644-day wait since his debut, placing him among the longest-waiting players for their first ODI ton. Shahidi's determined innings, battling through trouble and cramps, guided Afghanistan to a respectable 218 after an early collapse.",
@@ -484,51 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/after-4644-days-afghanistan-captain-hashmatullah-shahidi-finally-gets-first-odi-century/articleshow/131876172.cms",
     "time": "2026-06-20T12:22:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Netizens react to Samay's comeback with Alia and Sharvari",
-    "desc": "Samay Raina has confirmed Alia Bhatt and Sharvari as the first guests on 'India's Got Latent' Season 2, premiering on Netflix and YouTube this Saturday. Fans flooded the comments with hilarious reactions. Season 1 had landed in trouble after Ranveer Allahbadia's controversial remarks triggered multiple FIRs.",
-    "img": "https://static.toiimg.com/photo/msid-131875780,imgsize-285832.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/absolute-peak-internet-culture-netizens-react-to-samay-rainas-comeback-on-ott-with-alia-bhatt-and-sharvari-for-indias-got-latent-season-2-premiere/articleshow/131875780.cms",
-    "time": "2026-06-20T11:58:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Visa rejected, Pakistan captain Butt likely to miss FIH Pro League",
-    "desc": "Pakistan's hockey team faces a major blow as captain Ammad Shakeel Butt is denied a visa for the upcoming FIH Pro League matches in England due to a past overstay. Head coach Manzur-ul-Hasan also awaits clearance. This comes as the team struggles, having lost all 11 matches and facing potential relegation, adding to pre-World Cup concerns.",
-    "img": "https://static.toiimg.com/photo/msid-131875599,imgsize-28820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/visa-rejected-pakistan-captain-ammad-shakeel-butt-likely-to-miss-fih-pro-league/articleshow/131875543.cms",
-    "time": "2026-06-20T11:52:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "B. Subhash recalls making a backstage promise to a worried Mithun",
-    "desc": "Filmmaker B. Subhash recently reminisced about the making of the iconic 'Disco Dancer,' a film that catapulted Mithun Chakraborty to stardom. He shared how he promised the actor a breakthrough, inspired the title from a personal anecdote, and assembled a top-notch team. The film's character Jimmy achieved global fame, with its music resonating even in China, proving its universal appeal.",
-    "img": "https://static.toiimg.com/photo/msid-131875439,imgsize-215752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/youre-going-to-be-a-big-star-b-subhash-recalls-making-a-backstage-promise-to-a-worried-mithun-chakraborty-during-disco-dancer/articleshow/131875429.cms",
-    "time": "2026-06-20T11:44:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prabhu Deva buys an ultra-luxurious limousine worth Rs 70 lakh",
-    "desc": "Prabhu Deva has taken delivery of the MG M9 Presidential Limousine, priced at around Rs 70 lakh. The premium electric MPV comes loaded with 16-way adjustable seats, massage modes and a 13-speaker sound system. Deva, who has won two National Film Awards and the Padma Shri, is known for films like 'Wanted' and 'Rowdy Rathore'.",
-    "img": "https://static.toiimg.com/photo/msid-131875943,imgsize-103.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prabhu-deva-buys-an-ultra-luxurious-electric-limousine-worth-rs-70-lakh-featuring-16-way-adjustable-massage-seats-and-dual-sunroof-see-pics/articleshow/131875177.cms",
-    "time": "2026-06-20T11:29:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Anne Hathaway shared an empowering message about weight loss after birth",
-    "desc": "Anticipating her third child, Anne Hathaway has shared an empowering perspective on the transformations that come with motherhood. She proudly asserts there should be no shame in weight fluctuations or the time required for recovery, underlining the natural evolution of the body. Hathaway recalled feeling strong during workouts with lighter weights, showcasing her resilience. Meanwhile, her upcoming film, 'The End of Oak Street,' is expected to hit theaters shortly.",
-    "img": "https://static.toiimg.com/photo/msid-131874985,imgsize-77798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-anne-hathaway-embraced-her-post-birth-curves-bodies-change-bodies-grow-bodies-shrink/articleshow/131874985.cms",
-    "time": "2026-06-20T11:18:55.000Z"
   },
   {
     "cat": "Business",
@@ -547,33 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/rohit-sharma-joins-sourav-ganguly-suresh-raina-in-elite-odi-list-becomes-fourth-indian-to-/articleshow/131874766.cms",
     "time": "2026-06-20T11:09:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hollywood's Most Profitable Movies Of 2026",
-    "desc": "Doomsday' boast astronomical costs, films like 'Pegasus 3' and 'Obsession' are proving that profitability doesn't require huge spending. These micro-budget successes are redefining the box office landscape, demonstrating that compelling storytelling and innovative filmmaking can create global blockbusters, even with a fraction of the investment.",
-    "img": "https://static.toiimg.com/photo/msid-131874615,imgsize-178828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hollywoods-most-profitable-movies-of-2026-tiny-budget-films-win-big-at-the-box-office/articleshow/131874018.cms",
-    "time": "2026-06-20T10:56:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘We Walk His Path’: Zakir Khan Bows to Johnny Lever at ‘Papa Yaar’",
-    "desc": "Veteran comedian Johnny Lever made a surprise appearance at Zakir Khan's 'Papa Yaar' concert in Mumbai, delighting the audience. Khan expressed his deep admiration for Lever, acknowledging his pioneering role in Indian comedy. The heartwarming moment, captured in viral videos, celebrated the legacy of a screen icon and the rise of a contemporary stand-up star, with actors like Ayushmann Khurrana praising Khan's performance.",
-    "img": "https://static.toiimg.com/photo/msid-131874607,imgsize-132000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-all-walk-the-path-he-paved-zakir-khan-bows-to-johnny-lever-as-comedy-legend-makes-surprise-onstage-appearance-at-mumbai-papa-yaar-show/articleshow/131874559.cms",
-    "time": "2026-06-20T10:56:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ranabaali' director on casting Rashmika and Vijay: 'Their real-life relationship'",
-    "desc": "Director Rahul Sankrityan, reuniting with Vijay Deverakonda after their 2018 hit 'Taxiwaala,' opens up to Variety India about his period drama 'Ranabaali,' set against the backdrop of the devastating 19th-century South Indian famine. In a recent interview, Sankrityan discusses the real-life chemistry between Vijay Deverakonda and Rashmika Mandanna, who play an on-screen couple following their own recent marriage, and reveals how Hollywood actor Arnold Vosloo, best known from 'The Mummy' was cast as the film's British antagonist, Sir Theodore Hector. Ranabaali releases in cinemas on September 11.",
-    "img": "https://static.toiimg.com/photo/msid-131874394,imgsize-171996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-director-rahul-sankrityan-on-casting-rashmika-mandanna-and-vijay-deverakonda-in-period-drama-their-real-life-relationship-will-help-my-film/articleshow/131874337.cms",
-    "time": "2026-06-20T10:37:47.000Z"
   },
   {
     "cat": "Business",
@@ -612,40 +693,13 @@ const newsData_en = [
     "time": "2026-06-20T09:16:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Why is KL Rahul not playing? Shubman makes 3 big changes vs Afghanistan",
-    "desc": "India has made three changes for the final ODI against Afghanistan, with KL Rahul notably absent from the playing XI. Despite already securing the series 2-0, the team aims for a clean sweep. Captain Shubman Gill indicated the side will focus on improving their big-chasing abilities. Afghanistan, opting to bat first, also introduced several new faces to their lineup.",
-    "img": "https://static.toiimg.com/photo/msid-131873069,imgsize-67888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/why-is-kl-rahul-not-playing-shubman-gill-makes-three-changes-for-third-odi-vs-afghanistan/articleshow/131873059.cms",
-    "time": "2026-06-20T08:55:46.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Maa Inti Bangaram' BO Day 2: Samantha Ruth Prabhu film nets Rs. 12.85 crore on first Saturday",
-    "desc": "Following a blockbuster theatrical launch, Samantha Ruth Prabhu’s action-packed family drama, 'Maa Inti Bangaram', kept the momentum alive on its second day. Spearheaded by a powerful performance from the leading lady, the B.V. Nandini Reddy directorial is proving its mettle at the ticket windows. Following a spectacular double-digit worldwide debut, early real-time indicators point toward strong evening and night show occupancies as the film marched into its critical first weekend.",
-    "img": "https://static.toiimg.com/photo/msid-131873019,imgsize-109494.cms",
+    "title": "The parenting lessons that Priyanka Chopra learned from her father",
+    "desc": "Global icon Priyanka Chopra has always been vocal about her journey into motherhood and the kind of values she wishes to instil in her daughter. However, most of these lessons come directly from the influence of her father, the late Dr Ashok Chopra. From making eye contact to ensuring that you always smell amazing, here are some things that the 'Citade' star learned from her father.",
+    "img": "https://static.toiimg.com/photo/msid-131873158,imgsize-22440.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/maa-inti-bangaram-box-office-collection-day-2-live-samantha-ruth-prabhu-starrer-set-for-solid-opening-weekend-across-telugu-and-tamil-markets-amid-worldwide-gross-debut-of-rs-12-80-crore/articleshow/131872870.cms",
-    "time": "2026-06-20T08:50:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paresh Ganatra on being replaced by Paresh Rawal in 'Aankhen' when Big B said yes: EXCLUSIVE",
-    "desc": "Paresh Ganatra reveals he was initially slated to play Paresh Rawal's role in the cult hit 'Aankhen,' based on his Gujarati play 'Aandhro Paato.' When Amitabh Bachchan joined the project, the film's scale changed, leading to Ganatra taking on the character of Shailesh. This role, though smaller, was well-received and paved the way for his subsequent work in films like 'No Entry.'",
-    "img": "https://static.toiimg.com/photo/msid-131872955,imgsize-246925.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-ganatra-recalls-being-replaced-by-paresh-rawal-in-aankhen-when-amitabh-bachchan-said-yes-to-the-film-the-scale-got-bigger-exclusive/articleshow/131872829.cms",
-    "time": "2026-06-20T08:45:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Cocktail 2' BO Day 2: Shahid Kapoor film nets Rs 29.75 crore",
-    "desc": "Homi Adajania's 'Cocktail 2', starring Shahid Kapoor, Kriti Sanon, and Rashmika Mandanna, has carried its strong opening day momentum into Day 2 at the box office. The film opened with a robust Rs 13.50 crore net across 10,835 shows. The spiritual sequel to the 2012 classic 'Cocktail' arrives amid an ongoing conversation around its 'A' certification, which lead actor Shahid Kapoor has publicly questioned in promotional interviews.",
-    "img": "https://static.toiimg.com/photo/msid-131871633,imgsize-222996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/cocktail-2-box-office-collection-day-2-live-shahid-kapoor-kriti-sanon-rashmika-mandanna-starrer-holds-steady-on-first-saturday-amid-rs-20-crore-global-haul/articleshow/131871597.cms",
-    "time": "2026-06-20T06:50:50.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-parenting-lessons-that-priyanka-chopra-learned-from-her-father-from-making-eye-contact-to-being-courageous/photostory/131873158.cms",
+    "time": "2026-06-20T09:04:16.000Z"
   },
   {
     "cat": "Business",
@@ -666,6 +720,15 @@ const newsData_en = [
     "time": "2026-06-20T05:26:18.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Can music help you relax? India’s wellness labels think so",
+    "desc": "As mental health discussions rise, music’s therapeutic potential is in question again, exploring its calming effects. The increasing popularity of wellness music festivals further underscores a collective yearning for deeper, transformative experiences in today’s fast-paced world",
+    "img": "https://th-i.thgim.com/public/incoming/nkqolz/article71120732.ece/alternates/LANDSCAPE_1200/03mp_music_therapy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/wellness-music-growing-in-india-chad-lawson-rishab-sharma/article70211249.ece",
+    "time": "2026-06-20T04:47:19.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Accenture outlook cut sparks fresh fears over IT recovery",
     "desc": "Global tech spending concerns have intensified as Accenture lowered its FY26 revenue growth forecast to 3-4%. This outlook, despite a resilient third quarter, signals potential prolonged weak demand for Indian IT services firms, possibly extending into FY27. Analysts suggest this weakness at a leading IT player negatively impacts demand prospects for India's top IT companies, hinting at a slower start to the next fiscal year.",
@@ -676,30 +739,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "The World Cup question Cristiano Ronaldo can no longer escape",
-    "desc": "Cristiano Ronaldo's effectiveness for Portugal is under intense scrutiny following a goalless draw against DR Congo. Despite his legendary status, the 41-year-old's limited touches and lack of decisive impact raise questions about his role in the 2026 World Cup. The team's attacking rhythm and statistics suggest a need for tactical evolution.",
-    "img": "https://static.toiimg.com/photo/msid-131869383,imgsize-115341.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/the-world-cup-question-cristiano-ronaldo-can-no-longer-escape/articleshow/131850345.cms",
-    "time": "2026-06-19T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Hot-seat shuffle: Alonso, Iraola, Maresca sign up for big-club roulette",
     "desc": "Chelsea, Liverpool and Manchester City will have new men in charge next season — managers with interconnected destinies dealing with the pressure of expectations common at top clubs. What do they bring to the job and what challenges do they face?",
     "img": "https://th-i.thgim.com/public/incoming/wk2m2u/article71123727.ece/alternates/LANDSCAPE_1200/GettyImages-2252618712.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/xabi-alonso-andoni-iraola-enzo-maresca-premier-league-managerial-challenges/article71123735.ece",
     "time": "2026-06-19T19:16:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "From SRK and Aryan to Amitabh and Abhishek, meet the charismatic father-son duos",
-    "desc": "Celebrating Father's Day, this piece highlights iconic stylish father-son duos in Indian cinema. From Mammootty and Dulquer Salmaan's enduring charm to Amitabh and Abhishek Bachchan's powerful collaborations, and Rakesh and Hrithik Roshan's successful creative bond, these pairs have left an indelible mark.",
-    "img": "https://static.toiimg.com/photo/msid-131876425,imgsize-229517.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fathers-day-2026-from-shah-rukh-khan-and-aryan-khan-to-amitabh-bachchan-and-abhishek-bachchan-meet-the-charismatic-father-son-duos/articleshow/131876390.cms",
-    "time": "2026-06-19T18:30:00.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israel-strike-on-lebanon-many-killed-amid-ongoing-tensions-iran-israel/article71121601.ece",
     "time": "2026-06-19T11:49:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israel must stop hostilities in Lebanon, U.S. must pressure Israel, French Minister says",
-    "desc": "Israel’s military said on Friday (June 19) its forces struck targets throughout southern Lebanon overnight as Hezbollah reported intense fighting in the area, threatening the nascent agreement between Iran and the United States to end their war.",
-    "img": "https://th-i.thgim.com/public/incoming/kabt6t/article71121406.ece/alternates/LANDSCAPE_1200/2026-06-12T162026Z_375664735_RC2FSLAWD3R2_RTRMADP_3_ISRAEL-PALESTINIANS-FRANCE-G7.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-must-stop-hostilities-in-lebanon-us-must-pressure-israel-french-minister-says/article71121373.ece",
-    "time": "2026-06-19T09:40:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Fiscal health, welfare, growth in focus as Congress-led UDF govt to present Revised Budget on June 19",
-    "desc": "Budget faces challenge of finding middle ground between re-aligning Kerala’s fiscal space for tackling concerns raised in White Paper on State finances and mobilising additional revenue for development and welfare, notably Indira Guarantees and ‘dream projects’",
-    "img": "https://th-i.thgim.com/public/incoming/32rzuw/article71112696.ece/alternates/LANDSCAPE_1200/PTI06_04_2026_000293A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-budget-fiscal-health-welfare-growth-in-focus-as-congress-led-udf-govt-to-present-revised-budget-on-june-19/article71112603.ece",
-    "time": "2026-06-19T08:47:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The Madras Players bring Hema Sukumar’s novel to the stage",
-    "desc": "An original stage adaptation of Hema Sukumar’s Minor Disturbances At Grand Life Apartments, The Madras Players’ latest production is a warm, slice-of-life play that chronicles the everyday lives of residents in a charming Chennai apartment complex",
-    "img": "https://th-i.thgim.com/public/life-and-style/7j4bwl/article71121159.ece/alternates/LANDSCAPE_1200/FotoJet%2038.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/theatre/the-madras-players-bring-hema-sukumars-novel-to-the-stage/article71117499.ece",
-    "time": "2026-06-19T07:33:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.K. PM Starmer says he has not lost authority, will fight to stay in job",
-    "desc": "“I’m ​not going to ‌walk away,” Mr. Starmer told the BBC, making his first public comments since Healey’s shock resignation. With rivals expected to launch a contest ‌to replace him in the coming weeks ​or months, Mr. Starmer said he would fight any challenge to his role",
-    "img": "https://th-i.thgim.com/public/incoming/3pvwmi/article71093898.ece/alternates/LANDSCAPE_1200/Britain_Politics_94287.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-pm-starmer-says-he-has-not-lost-authority-will-fight-to-stay-in-job/article71093837.ece",
-    "time": "2026-06-19T07:29:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "America’s Iran playbook: after coercion, a return to diplomacy",
-    "desc": "Despite any difference in ideologies, political affliations or strategies, every U.S. administration comes to the realisation that Iran cannot be bullied with airstrikes, sanctions or diplomatic isolation; treading the same path, Trump’s latest deal aims to address the most pressing dangers",
-    "img": "https://th-i.thgim.com/public/incoming/l7ru1y/article71116482.ece/alternates/LANDSCAPE_1200/2018-06-29T094724Z_1684226155_RC1395E5E620_RTRMADP_3_IRAN-PASSPORTS-COMOROS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/americas-iran-playbook-after-coercion-a-return-to-diplomacy/article71113942.ece",
-    "time": "2026-06-19T06:00:47.000Z"
   }
 ];

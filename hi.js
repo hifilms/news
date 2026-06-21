@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Deniz Undav's brace rescues Germany vs Ivory Coast, sends them to knockouts for first time since 2014",
+    "desc": "Deniz Undav produced a decisive late intervention as Germany secured a dramatic victory over Ivory Coast in the FIFA World Cup 2026. The forward scored a crucial 94th-minute winner after earlier finding the equaliser in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/deniz-undav-s-brace-rescues-germany-vs-ivory-coast-sends-them-to-knockouts-for-first-time-since-2014-2026-06-21-1045580",
+    "time": "2026-06-20T22:14:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Brazil star ruled out of FIFA World Cup 2026 clash vs Scotland, doubtful for knockouts",
     "desc": "Brazil have confirmed that winger Raphinha has suffered a muscle injury in his right thigh. It is a major blow to the Carlo Ancelotti side, who count heavily on the star winger in the ongoing...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-breaks-rahul-dravid-virender-sehwag-s-legendary-records-in-3rd-odi-vs-afghanistan-2026-06-20-1045562",
     "time": "2026-06-20T14:16:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did India start their innings at 5/0 in third ODI against Afghanistan? Check what happened at Chepauk",
-    "desc": "India started their batting innings at 5/0 after being awarded five penalty runs during their third and final ODI of the series against Afghanistan at the MA Chidambaram Stadium in Chennai. This came after the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-india-start-their-innings-at-5-for-no-loss-in-third-odi-against-afghanistan-check-what-happened-at-chepauk-2026-06-20-1045553",
-    "time": "2026-06-20T12:17:23.000Z"
   }
 ];
