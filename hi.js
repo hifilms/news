@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Leo Messi in action as Argentina aim to maintain winning run",
+    "desc": "Argentina and Austria will take on each other in an exciting FIFA World Cup 2026 clash. The two sides meet at the Dallas Stadium in Arlington, and it could be interesting to see which side...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arg-vs-aut-fifa-world-cup-2026-live-score-leo-messi-in-action-as-argentina-aim-to-maintain-winning-run-2026-06-22-1045752",
+    "time": "2026-06-22T16:33:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England name squad for T20I series against India, Harry Brook to lead in five-game series",
+    "desc": "The stage is set for one of the most exciting series for the Indian team. The Men in Blue will be taking on England across five T20I matches. It is worth noting that the games...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-name-squad-for-t20i-series-against-india-harry-brook-to-lead-in-five-game-series-2026-06-22-1045749",
+    "time": "2026-06-22T16:21:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lorcan Tucker named captain as Ireland announce squad for India T20I series",
+    "desc": "The stage is set for the upcoming T20I series between India and Ireland. The two sides will meet across two T20I matches on June 26 and 28. With the BCCI (Board of Control for Cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lorcan-tucker-named-captain-as-ireland-announce-squad-for-india-t20i-series-2026-06-22-1045746",
+    "time": "2026-06-22T15:45:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, Pakistan rivalry headline London leg of FIH Pro League; check when the matches will take place",
+    "desc": "India and Pakistan's twin meetings will headline the London leg of the FIH Pro League as the two Asian powerhouses meet each other for the first time since the Asian Champions Trophy 2024. The first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/india-pakistan-rivalry-headline-london-leg-of-fih-pro-league-check-when-the-matches-will-take-place-2026-06-22-1045740",
+    "time": "2026-06-22T13:52:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni likened to Federer, Kohli compared to 23-year-old tennis sensation by Sanju Samson",
+    "desc": "Indian cricketer Sanju Samson has likened Chennai Super Kings legend MS Dhoni to tennis icon Roger Federer and compared another former India captain, Virat Kohli, to the racquet sport's sensation, Carlos Alcaraz. His comparison songs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-likened-to-federer-kohli-compared-to-23-year-old-tennis-sensation-by-sanju-samson-2026-06-22-1045728",
+    "time": "2026-06-22T12:01:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lionel Messi, Kylian Mbappe, Haaland headline action-packed World Cup day as history beckons",
     "desc": "It's time for round 2 of the show from Lionel Messi, Kylian Mbappe and Erling Haaland as their teams take centre stage on Matchday 12 at the FIFA World Cup 2026 on Monday, June 22....",
     "img": "",
@@ -34,59 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/serena-williams-to-return-to-wimbledon-singles-after-accepting-wild-card-invitation-2026-06-22-1045695",
     "time": "2026-06-22T07:31:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohamed Salah powers Egypt to historic win over New Zealand, Pharaohs boost their World Cup knockout hopes",
-    "desc": "Mohamed Salah overcame a slow start to his FIFA World Cup campaign with a stunning effort to help Egypt beat New Zealand at BC Place Vancouver for their first-ever win at the biggest stage. 92 years...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mohamed-salah-powers-egypt-to-historic-win-over-new-zealand-pharaohs-boost-their-world-cup-knockout-hopes-2026-06-22-1045690",
-    "time": "2026-06-22T06:56:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England docked 12 WTC points in another blow after Oval loss, here's the updated points table",
-    "desc": "England have been dealt another blow following their loss to New Zealand in the second Test as they have been docked 12 World Test Championship points and have been hit with 50% of their match...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-docked-12-wtc-points-in-another-blow-after-oval-loss-heres-the-updated-points-table-2026-06-22-1045686",
-    "time": "2026-06-22T06:21:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Cape Verde qualify for FIFA World Cup 2026 knockouts after stunning draw against Uruguay?",
-    "desc": "Cape Verde's dream run in the FIFA World Cup 2026 continued as the African nation held two-time champions Uruguay to a 2-2 draw at the Miami Stadium. The Blue Sharks had held tournament contenders Spain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/how-can-cape-verde-qualify-for-fifa-world-cup-2026-knockouts-after-stunning-draw-against-uruguay-2026-06-22-1045678",
-    "time": "2026-06-22T05:21:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Belgium shares points with Iran after thrilling FIFA WC 2026 clash, qualification in trouble for the side",
-    "desc": "Belgium and Iran took on each other in a thrilling FIFA World Cup 2026 clash. The two sides met at the Los Angeles Stadium in Arlington on June 22nd, and while many expected Belgium to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/belgium-shares-points-with-iran-after-thrilling-fifa-wc-2026-clash-qualification-in-trouble-for-the-side-2026-06-22-1045659",
-    "time": "2026-06-21T21:34:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur asks for support from bowlers as India lose first T20 World Cup 2026 game",
-    "desc": "India women continued their campaign in the ongoing Women’s T20 World Cup 2026. The two sides met at Old Trafford in Manchester on June 21st, and fans anticipated a fiery clash between the two sides;...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-asks-for-support-from-bowlers-as-india-lose-first-t20-world-cup-2026-game-2026-06-22-1045658",
-    "time": "2026-06-21T20:47:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Belgium and Iran share points in Arlington",
-    "desc": "Belgium and Iran are all set to take on each other in yet another exciting clash at the ongoing FIFA World Cup 2026. The two sides meet at the Los Angeles Stadium in Inglewood, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bel-vs-irn-fifa-world-cup-2026-live-score-belgium-look-to-register-win-of-the-tournament-1045657",
-    "time": "2026-06-21T18:48:31.000Z"
   }
 ];

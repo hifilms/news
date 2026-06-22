@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "કિંજલ દવેનું ફરી બ્રેકઅપ? ઇન્સ્ટાગ્રામ પરથી ધ્રુવીન શાહની તસવીરો હટાવી વધાર્યું સસ્પેન્સ!",
+    "desc": "ગુજરાતની જાણીતી સિંગર કિંજલ દવે અને ધ્રુવિન શાહ ફરી એકવાર સોશિયલ મીડિયા પર જોરદાર ચર્ચાનો વિષય બન્યા છે. કિંજલ દવે અવારનવાર પોતાની પર્સનલ લાઈફને લઈને ચર્ચામાં રહે છે. કિંજલે પોતાના ઈન્સ્ટાગ્રામ હેન્ડલ પરથી ધ્રુવીન શાહ સાથેની માલદિવ્સ વેકેશનની તસવીરો હટાવી દીધી છે. આ ફોટોઝ અચાનક ગાયબ થઈ જતાં સોશિયલ મીડિયા પર બન્નેના સંબંધોને લઈને ફરી અફવા શરૂ થઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/kinjal-dave-breakup-again-dhruvin-shah-pictures-were-removed-from-instagram-and-added-to-the-suspense-482347 ",
+    "time": "2026-06-22T15:24:52.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "લખનૌમાં કોચિંગ સેન્ટરમાં લાગી ભીષણ આગ, લોકો જીવ બચાવવા છત પરથી કૂદ્યા",
-    "desc": "લખનૌના અલીગંજના પૂર્ણિયા વિસ્તારમાં એક બિલ્ડિંગમાં લાગેલી ભીષણ આગ પર કાબુ મેળવી લેવામાં આવ્યો છે. આગમાં ફસાયેલા તમામ લોકોને સુરક્ષિત રીતે બહાર કાઢવામાં આવ્યા છે. બિલ્ડિંગ પરથી કૂદી પડેલા એક વ્યક્તિને હોસ્પિટલમાં દાખલ કરવામાં આવ્યો છે. હજુ સુધી કોઈ જાનહાનિની પુષ્ટિ થઈ નથી.",
+    "title": "1 જુલાઈથી બદલાઈ રહ્યો છે Aadhaarનો આ નિયમ, ફ્રીમાં અપડેટ કરી શકશો આ વિગતો, નહીં ચૂકવવા પડે પૈસા",
+    "desc": "UIDAIએ આધાર કાર્ડ ધારકોને મોટી રાહત આપી છે. 1 જુલાઈ, 2026થી મોબાઇલ એપ્લિકેશન દ્વારા આધારમાં ઇમેઇલ ID એડ કરવા અથવા અપડેટ કરવા માટે તમારે કોઈ ચાર્જ ચૂકવવો પડશે નહીં. હાલમાં આ સર્વિસ માટે ₹75 ફી લેવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/aadhaar-rule-changing-from-1st-july-email-update-free-in-aadhaar-via-mobile-app-482345 ",
+    "time": "2026-06-22T14:34:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લખનૌમાં કોચિંગ સેન્ટરમાં લાગી ભીષણ આગ, 15 બાળકોના મોત, જીવ બચાવવા લોકો છત પરથી કૂદ્યા",
+    "desc": "લખનૌના અલીગંજના પૂર્ણિયા વિસ્તારમાં એક બિલ્ડિંગમાં લાગેલી ભીષણ આગ પર કાબુ મેળવી લેવામાં આવ્યો છે. આગમાં 15 લોકોના મોત થયાના સમાચાર છે. તો બિલ્ડીંગમાં ફસાયેલા લોકોને બહાર કાઢવામાં આવ્યા છે. ઈજાગ્રસ્ત વ્યક્તિઓને તાત્કાલિક હોસ્પિટલ ખસેડવામાં આવ્યા હતા.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/lucknow-massive-fire-breaks-out-in-coaching-centre-482324 ",
-    "time": "2026-06-22T11:46:05.000Z"
+    "time": "2026-06-22T14:12:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લખનૌ અગ્નિકાંડમાં 15 મોત: શોર્ટ સર્કિટ કે ગેરકાયદે બાંધકામ? વાંચો દેશને હચમચાવી દેનારી 6 મોટી આગની ઇનસાઇડ સ્ટોરી",
+    "desc": "લખનૌની કોચિંગ ઇન્સ્ટિટ્યૂટમાં ભયાનક આગ લાગતા 15 લોકોના મોત નીપજ્યા છે. આ દુર્ઘટનાએ સુરત અને રાજકોટ સહિત દેશના 5 મોટા અગ્નિકાંડોની યાદ તાજી કરી દીધી છે. મોટાભાગની આવી ઘટનાઓ પાછળ શોર્ટ સર્કિટ અને ફાયર સેફ્ટીના નિયમોનું ઉલ્લંઘન મુખ્ય કારણ હોય છે. ત્યારે ચાલો જાણીએ દેશના 6 મોટી દુર્ઘટનાઓ વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lucknow-fire-incident-short-circuit-or-illegal-construction-read-the-inside-story-of-5-major-fires-that-shook-the-country-482338 ",
+    "time": "2026-06-22T13:53:16.000Z"
   },
   {
     "cat": "Business",
@@ -15,7 +42,43 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/do-you-know-how-much-money-can-be-transferred-through-upi-imps-neft-and-rtgs-in-a-day-know-the-limits-482323 ",
-    "time": "2026-06-22T11:39:47.000Z"
+    "time": "2026-06-22T13:31:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "દરિયામાં સફર સાથે કમાણીની તક! રોકાણ કરતા પહેલાં જાણો કંપનીનો માસ્ટર પ્લાન",
+    "desc": "Cordelia Cruises ફક્ત એક Cruise Company તરીકે જ નહીં પરંતુ Travel Experience Brand તરીકે પણ પોતાનું સ્થાન બનાવી રહી છે. કંપની દાવો કરે છે કે ભારતમાં Cruise Tourism હાલમાં તેના પ્રારંભિક તબક્કામાં છે અને આગામી વર્ષોમાં ઝડપશે વિકસશે. IPOમાંથી મળેલી રકમનો ઉપયોગ નવા જહાજો ખરીદવા અને ક્ષમતા વધારવા માટે કરવામાં આવશે, જેનાથી કંપની સ્થાનિક અને આંતરરાષ્ટ્રીય બંને રૂટ પર તેની હાજરી મજબૂત બનાવી શકે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/cordelia-cruises-ipo-opportunity-to-earn-money-by-sailing-know-the-company-master-plan-before-investing-482330 ",
+    "time": "2026-06-22T13:09:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "4 દિવસમાં બે વાર ટકરાશે ભારત-પાકિસ્તાન, જાણો ક્યારે અને ક્યાં જોઈ શકશો લાઈવ મેચ",
+    "desc": "સ્પોર્ટ્સ પ્રેમીઓ માટે સારા સમાચાર છે, ભારત અને પાકિસ્તાન વચ્ચે ચાર દિવસના સમયગાળામાં બે હાઇ-વોલ્ટેજ મુકાબલા થવાના છે. ભારત અને પાકિસ્તાન વચ્ચેની મેચને લઈને હંમેશા ચાહકોમાં ઉત્સાહ જોવા મળે છે. ત્યારે આ લેખમાં જાણીશું કે, તમે આ બે મેચ ક્યારે અને ક્યાં લાઇવ જોઈ શકશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-and-pakistan-clash-twice-in-4-days-in-mens-fih-pro-league-482329 ",
+    "time": "2026-06-22T12:57:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ડાર્ક કોમેડી ફિલ્મ કોને કહેવાય જાણવું છે ? તો ઓટીટી પર અત્યારે જ જુઓ આ ફિલ્મ",
+    "desc": "જો તમને ડાર્ક કોમેડી જોનરની ફિલ્મો જોવી પસંદ છે તો આજે તમને ઓટીટી પર જોવા જેવી ડાર્ક કોમેડી ફિલ્મ વિશે જણાવીએ. આ ફિલ્મમાં રોમાન્સ, ડ્રામા, કોમેડી બધું જ એકસાથે જોવા મળશે. આ ફિલ્મ કેટલી જોરદાર હશે તે વાતનો અંદાજ તમે એ વાત પરથી લગાવી શકો છો કે ફિલ્મને 5 ઓસ્કર એવોર્ડ મળ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-dark-comedy-movie-on-netflix-anora-movie-in-hindi-on-ott-482327 ",
+    "time": "2026-06-22T12:18:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "બ્રિટનના આગામી વડાપ્રધાન બની શકે છે એન્ડી બર્નહેમ? જાણો કોણ છે &amp;#039;કિંગ ઓફ ધ નોર્થ&amp;#039; તરીકે પ્રખ્યાત આ નેતા",
+    "desc": "સોમવારે સવારે બ્રિટિશ વડા પ્રધાન કીર સ્ટાર્મરે રાજીનામું આપ્યું હતું. ડાઉનિંગ સ્ટ્રીટ ખાતે એક પ્રેસ કોન્ફરન્સમાં, તેમણે લેબર પાર્ટીના નેતૃત્વ અને વડા પ્રધાન પદ બંનેમાંથી રાજીનામું આપવાની જાહેરાત કરી. હવે સૌથી મોટો પ્રશ્ન એ છે કે બ્રિટનના આગામી વડા પ્રધાન કોણ બનશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/can-andy-burnham-become-the-next-prime-minister-of-britain-know-who-this-leader-known-as-the-king-of-the-north-is-482326 ",
+    "time": "2026-06-22T12:11:26.000Z"
   },
   {
     "cat": "Sports",
@@ -396,24 +459,6 @@ const newsData_gu = [
     "time": "2026-06-20T09:01:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL ઇતિહાસની સૌથી ચોંકાવનારી ડીલ ! રિષભ પંતની કરોડોના નુકસાન સાથે દિલ્હીમાં થશે ઘરવાપસી ! આ ખેલાડી LSGમાં જશે",
-    "desc": "રિષભ પંત લખનૌ સુપર જાયન્ટ્સ છોડીને દિલ્હી કેપિટલ્સમાં ફરી જોડાઈ શકે છે. આ માટે તેને ₹12 કરોડનું નુકસાન પણ થઈ શકે છે. તેને આગામી IPL સિઝન માટે ₹27 કરોડના બદલે ₹15 કરોડ મળશે. આ સ્વેપ ડીલના ભાગરૂપે કુલદીપ યાદવ દિલ્હી છોડીને લખનૌ સુપર જાયન્ટ્સમાં જોડાઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2027-trade-rishabh-pant-will-join-delhi-capitals-kuldeep-yadav-lsg-482070 ",
-    "time": "2026-06-20T08:26:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પરીક્ષા પહેલા જ મોટો છબરડો! નાગપુરના NEETના વિદ્યાર્થીને અબુધાબીમાં પરીક્ષા કેન્દ્ર ફાળવી દેવાયું",
-    "desc": "21 જૂન 2026ના રોજ RE-NEET ની પરીક્ષાનું આયોજન થયું છે. વિદ્યાર્થીઓ ફરીથી પરીક્ષા આપવાની તૈયારીઓ કરી રહ્યા છે ત્યારે એક મોટો ગોટાળો સામે આવ્યો છે. નાગપુરમાં રહેતા વિદ્યાર્થી અબ્દુલ્લા મોહમ્મદને અબુધાબી કેન્દ્ર ફાળવી દેવાયું છે. જેને લઈને હંગામો મચ્યો છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/neet-ug-re-exam-shocking-news-nagpur-student-gets-exam-centre-in-abu-dhabi-482044 ",
-    "time": "2026-06-20T08:09:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "જાવેદ અખ્તરે 8 પેગ પીધા અને હાથમાં લીધા પેપર-પેન, પછી જે ગઝલ લખી તે આજે પણ લોકોને મંત્રમુગ્ધ કરે છે",
     "desc": "બોલીવુડના પ્રખ્યાત સ્ક્રીનપ્લે રાઈટર અને ગીતકાર જાવેદ અખ્તરે આમ તો અનેક સુપરહીટ ગીત અને ગઝલ લખી છે પણ તેમની એક ગઝલ જે આજે પણ લોકોને મંત્રમુગ્ધ કરે છે તે ગઝલ તેમણે નશાની હાલતમાં લખી હતી. કદાચ એટલે જ આ ગઝલ સાંભળી લોકો પ્રેમના નશામાં ડુબી જાય છે.",
@@ -459,15 +504,6 @@ const newsData_gu = [
     "time": "2026-06-19T16:10:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મોત સામે જિંદગીની જીત: 19 વર્ષના રાજના હૃદયના ધબકારા આજે પણ કોઈના છાતીમાં ગૂંજે છે",
-    "desc": "કેટલાક લોકો મોત બાદ પણ અમર રહી જાય છે. એ ભલે નશ્વર દેહે આ દુનિયામાં નથી હોતા પણ દુનિયામાં જીવતા લોકોને પણ મોત બાદ જિંદગી જીવતા શીખવાડી જાય. અમે તમારી સમક્ષ એવી સ્ટોરી રજૂ કરી રહ્યાં છે જે વાંચીને તમારી પણ આંખો ભીની થઈ જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/victory-of-life-over-death-the-heartbeat-of-19-year-old-raj-still-echoes-in-someone-chest-today-482019 ",
-    "time": "2026-06-19T15:33:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "કચ્છથી લઈને જામનગર સુધી રિલાયન્સનું ગ્રીન સામ્રાજ્ય : મુકેશ અંબાણીએ કરી મોટી જાહેરાતો",
     "desc": "રિલાયન્સ ઇન્ડસ્ટ્રીઝની 49મી AGMમાં મુકેશ અંબાણીએ જિયો પ્લેટફોર્મ્સના IPO માટે DRHP ફાઇલ કરવાની મોટી જાહેરાત કરી છે. આ સાથે કંપની ગૂગલ, મેટા અને એનવીડિયાના સહયોગથી જામનગરમાં વિશ્વનું સૌથી મોટું ગ્રીન-એનર્જી સંચાલિત 'રિલાયન્સ ઇન્ટેલિજન્સ' AI ઇન્ફ્રાસ્ટ્રક્ચર અને ગીગા ફેક્ટરીઓ સ્થાપશે.",
@@ -484,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/does-pouring-water-on-the-outdoor-unit-of-an-ac-really-reduce-electricity-bills-know-the-truth-482017 ",
     "time": "2026-06-19T14:46:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM-VBRY: લાખો યુવા કર્મચારીઓ માટે ખુશખબર! આજે ખાતામાં આવી જશે 15000 રૂપિયા, આ રીતે ચેક કરો તમારું નામ",
-    "desc": "PM-VBRY યોજના અંતર્ગત પ્રથમ વખત નોકરી મેળવનારા લાખો કર્મચારીઓને 15,000 રૂપિયા સુધીની આર્થિક સહાય મળશે. જો તમને હાલમાં જ નોકરી મળી છે અને તમારું EPFO એકાઉન્ટ બન્યું છે, તો તમારા એકાઉન્ટમાં રૂપિયા આવશે કે નહીં. આ રીતે ચેક કરો લિસ્ટમાં તમારું નામ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/pm-vbry-scheme-good-news-for-lakhs-of-young-employees-rs-15000-will-be-deposited-in-your-account-today-check-your-name-like-this-481991 ",
-    "time": "2026-06-19T12:32:59.000Z"
   },
   {
     "cat": "Tech",
@@ -693,15 +720,6 @@ const newsData_gu = [
     "time": "2026-06-16T02:40:15.000Z"
   },
   {
-    "cat": "World",
-    "title": "યુદ્ધ વિરામ માટે અમેરિકા-ઈરાન વચ્ચે MoU સાઇન, ટ્રમ્પના નિવેદનથી વધ્યું સસ્પેન્સ; હવે શુક્રવાર પર બધાની નજર",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે છેલ્લા અંદાજે ચાર મહિનાથી યુદ્ધ ચાલી રહ્યું હતું. હવે આ યુદ્ધને રોકવા માટે બન્ને દેશોએ એક મોટી ડીલ પર સાઇન કરી દીધી છે. આ કરારને MOU એટલે કે મેમોરેન્ડમ ઓફ અંડરસ્ટેન્ડિંગ કહેવામાં આવે છે. સરળ શબ્દોમાં કહીએ તો, એક લેખિત સંમતિ કે આપણે આગળ વાતચીત કરીશું અને લડાઈ બંધ કરીશું. તેને આ સમગ્ર સંકટનો સૌથી મોટો બ્રેકથ્રુ માનવામાં આવી રહ્યો છે. જો કે, અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના નિવેદને આ ડીલ પર સસ્પેન્સ વધારી દીધું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/mou-signed-to-end-war-now-waiting-for-friday-donald-trump-statement-increases-suspense-again-481621 ",
-    "time": "2026-06-15T18:05:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સત્ય ઘટના પર આધારિત છે રાખ વેબ સીરીઝ, 48 વર્ષ પહેલા રંગા-બીલ્લાએ આચરેલી ક્રૂરતાની રિયલ સ્ટોરી વાંચો",
     "desc": "ક્રાઈમની રિયલ ઘટના પર આધારિત વધુ એક વેબ સીરીઝ તાજેતરમાં ઓટીટી પર રિલીઝ થઈ છે. આ ક્રાઈમ થ્રિલર વેબ સીરીઝ 1978 માં રંગા બીલ્લાએ કરેલી બાળકોની હત્યા પર આધારિત છે. આ ઘટના એવી હતી જેનાથી આખું ભારત ધ્રુજી ગયું હતું.",
@@ -709,14 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/crime-thriller-web-series-based-on-true-crime-story-in-india-raakh-web-series-ranga-billa-case-history-in-gujarati-481568 ",
     "time": "2026-06-15T09:48:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "OTT પર આવી નવી હોરર ફિલ્મ, નબળા મનના લોકોએ આ ફિલ્મ ન જોવી, ડરામણી બાળકી મગજમાં ઘર કરી જશે",
-    "desc": "હોરર ફિલ્મોના જોવાના શોખીનો માટે ઓટીટી પર સૌથી ડરામણી ફિલ્મ રિલીઝ થઈ ચુકી છે. આ ફિલ્મના દરેક સીનમાં તમારા ધબકારા વધી જશે. આ ફિલ્મ જોયા પછી શક્ય છે કે એક રાત તમે શાંતિથી ઊંઘી પણ ન શકો. એટલે આ ફિલ્મ પોતાના રિસ્ક પર જોવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/new-horror-movie-in-hindi-on-ott-lee-cronin-s-the-mummy-movie-on-ott-prime-video-481479 ",
-    "time": "2026-06-14T10:00:43.000Z"
   }
 ];
