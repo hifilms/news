@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England Cricket delivers final verdict on Ben Stokes-Gus Atkinson after nightclub controversy: Check details",
+    "desc": "In a major development, the ECB (England and Wales Cricket Board) has issued its final verdict on the ongoing controversy surrounding Ben Stokes and Gus Atkinson. The two stars have been officially cleared of any...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-cricket-delivers-final-verdict-on-ben-stokes-gus-atkinson-after-nightclub-controversy-check-details-2026-06-23-1045761",
+    "time": "2026-06-22T22:33:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Match delayed due to adverse weather",
+    "desc": "The stage is set for one of the most exciting clashes in the ongoing FIFA World Cup 2026. 2018 champions and finalists of the 2022 edition, France, will be taking on Iraq. The two sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fra-vs-irq-fifa-world-cup-2026-live-score-kylian-mbappe-and-co-in-search-of-their-second-win-1045760",
+    "time": "2026-06-22T20:44:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Argentina qualify for FIFA World Cup 2026 knockouts, Lionel Messi leads the charge once more",
     "desc": "Defending World Cup champions Argentina have begun the ongoing tournament as they mean to go on. Registering two wins in their first two matches, Argentina have qualified for the knockout stages of the FIFA World...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-likened-to-federer-kohli-compared-to-23-year-old-tennis-sensation-by-sanju-samson-2026-06-22-1045728",
     "time": "2026-06-22T12:01:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi, Kylian Mbappe, Haaland headline action-packed World Cup day as history beckons",
-    "desc": "It's time for round 2 of the show from Lionel Messi, Kylian Mbappe and Erling Haaland as their teams take centre stage on Matchday 12 at the FIFA World Cup 2026 on Monday, June 22....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-kylian-mbappe-haaland-headline-action-packed-world-cup-day-as-history-beckons-2026-06-22-1045722",
-    "time": "2026-06-22T11:30:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi's young shoulders show big-game pedigree after whirlwind 94 added to fabled list",
-    "desc": "Vaibhav Sooryavanshi remains under the scanner for everything he does. For every success. And nearly for every failure, especially now after graduating to India A after thumping IPL 2025 and 2026. And even for his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshis-young-shoulders-show-big-game-pedigree-after-whirlwind-94-added-to-fabled-list-2026-06-22-1045711",
-    "time": "2026-06-22T10:08:37.000Z"
   }
 ];

@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Has Brad Pitt secretly married girlfriend Ines de Ramon?",
+    "desc": "Rumours are swirling that Brad Pitt and Ines de Ramon may have secretly tied the knot. Sources suggest the couple, together since 2022, are \"as good as married,\" with Pitt reportedly referring to de Ramon as his \"wife.\" While a formal wedding isn't a priority for Pitt, de Ramon is reportedly ready to make it official.",
+    "img": "https://static.toiimg.com/photo/msid-131921601,imgsize-453860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/has-brad-pitt-secretly-married-girlfriend-ines-de-ramon-amid-legal-battle-with-angelina-jolie/articleshow/131920287.cms",
+    "time": "2026-06-22T22:21:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sara, Sharmila Tagore join Pak actor Kubra Khan’s birthday",
+    "desc": "Sara Ali Khan’s London vacation with mother Amrita Singh and grandmother Sharmila Tagore continues to grab attention online. The trio was recently spotted attending Pakistani actor Kubra Khan’s 33rd birthday celebration in London, and moments from the intimate gathering have since gone viral on social media.",
+    "img": "https://static.toiimg.com/photo/msid-131921227,imgsize-98776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-ali-khan-and-sharmila-tagore-join-pakistani-actor-kubra-khans-birthday-celebration-in-london-video-goes-viral/articleshow/131920983.cms",
+    "time": "2026-06-22T22:11:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Day after ‘normalcy’ remark, Congress MP Tharoor says J&K tour not about assessing conditions",
+    "desc": "\"We discussed the situation in the State and the encouraging progress towards normalcy. When I arrived, he was chatting with the President of the Kashmiri Writers' Association and the Women's Organisation — a positive outreach that I welcomed,” says Shashi Tharoor",
+    "img": "https://th-i.thgim.com/public/incoming/icja1w/article71133266.ece/alternates/LANDSCAPE_1200/Trade-supply-cGMOG03BK2.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliamentary-panel-visit-not-meant-to-assess-kashmir-situation-tharoor-after-remarks-draw-congresss-ire/article71133174.ece",
+    "time": "2026-06-22T21:46:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Clive Davis passes away at 94; stars pay tribute",
+    "desc": "Music industry titan Clive Davis, credited with launching careers of stars like Whitney Houston and Janis Joplin, has passed away at 94. His unparalleled vision shaped modern music, spanning genres and labels. Davis's legacy includes discovering groundbreaking artists and maintaining relevance throughout his influential career, leaving an indelible mark on global culture.",
+    "img": "https://static.toiimg.com/photo/msid-131920262,imgsize-329603.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/clive-davis-passes-away-at-94-carlos-santana-alicia-keys-michael-buble-and-other-stars-pay-tribute/articleshow/131920176.cms",
+    "time": "2026-06-22T21:17:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pankaj Tripathi rushes to Patna; brother's condition stable",
+    "desc": "Pankaj Tripathi has rushed to Patna after his elder brother, Vijendra Nath Tiwari, was allegedly attacked with an axe in Bihar's Gopalganj district following a land dispute. According to police officials, Tiwari sustained multiple injuries after being attacked with a sharp-edged weapon and was initially admitted to Gopalganj Sadar Hospital before being referred to Patna for specialised treatment. Those close to the family revealed that Pankaj has reached Patna to be by his brother's side.",
+    "img": "https://static.toiimg.com/photo/msid-131920256,imgsize-79603.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pankaj-tripathi-rushes-to-patna-after-brother-suffers-multiple-injuries-in-axe-attack-over-property-dispute-in-bihar-condition-stable/articleshow/131920254.cms",
+    "time": "2026-06-22T21:07:17.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Assam hospital",
     "desc": "Assembly Speaker Ranjeet Kumar Dass, who is president of a First Referral Unit in Barpeta district, says he has advised State Health Minister Ashok Singhal to implement this system in all government healthcare facilities across the State",
@@ -43,6 +88,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/keerthy-suresh-pens-heartfelt-birthday-note-for-tamil-nadu-cm-vijay-this-year-feels-different/articleshow/131918049.cms",
     "time": "2026-06-22T18:20:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russian strikes kill five, including Egyptian man: Kyiv",
+    "desc": "“A drone strike set fire to a vessel sailing under the flag of Panama. A crew member was killed — a 58-year-old cook, a citizen of Egypt,” Ukrainian Deputy Prime Minister Oleksii Kuleba said on Telegram",
+    "img": "https://th-i.thgim.com/public/incoming/58jbp1/article71132786.ece/alternates/LANDSCAPE_1200/2026-06-22T065838Z_2136969626_RC2UYLAVY9ME_RTRMADP_3_UKRAINE-CRISIS-ATTACK-SUMY-REGION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russian-drone-strike-in-ukraine-kills-three-from-one-family-including-13-year-old-boy/article71132750.ece",
+    "time": "2026-06-22T18:08:19.000Z"
   },
   {
     "cat": "Politics",
@@ -91,30 +145,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Death toll rises to eight at seafood processing unit as six more people succumb",
-    "desc": "The Health department continues to closely monitor the situation and ensure the availability of appropriate medical care for all affected persons; it is coordinating with the district authorities and healthcare institutions to facilitate timely treatment, surveillance and response activities",
-    "img": "https://th-i.thgim.com/public/incoming/qyezcb/article71131723.ece/alternates/LANDSCAPE_1200/4871_21_6_2026_19_56_18_1_DSC_8986.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/death-toll-rises-in-ammonia-gas-leak-inicident-at-seafood-processing-unit-in-tiruvallur/article71131720.ece",
-    "time": "2026-06-22T17:15:44.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Ajit Doval discusses ties with China FM, Middle East war with Iranian official",
     "desc": "National Security Adviser Ajit Doval engaged in crucial bilateral talks with Chinese Foreign Minister Wang Yi and Iranian security official Ghadir Nezamipour during the BRICS NSA conclave in New Delhi. Discussions focused on normalizing India-China ties and the West Asian security situation. The expanded BRICS bloc grappled with geopolitical tensions and differing member priorities, highlighting the forum's growing influence and challenges.",
     "img": "https://static.toiimg.com/photo/msid-131915807,imgsize-1073519.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/brics-security-meet-in-delhi-ajit-doval-discusses-ties-with-china-fm-middle-east-war-with-iranian-official/articleshow/131915306.cms",
     "time": "2026-06-22T17:04:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "30 arrested for attempting irregularities in NEET-UG re-exam in Bihar",
-    "desc": "While 18 people working in the exam centres were arrested for violating the biometric verification norms, the majority of the others were impersonators who tried to write the exam in place of the genuine candidates",
-    "img": "https://th-i.thgim.com/public/incoming/4rhsmw/article71132388.ece/alternates/LANDSCAPE_1200/20260621642L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/nine-detained-over-suspected-impersonation-during-neet-ug-re-exam-in-bihars-lakhisarai/article71132369.ece",
-    "time": "2026-06-22T17:01:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -124,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhus-pregnancy-comes-at-a-beautiful-time-says-director-bv-nandini-reddy-amid-maa-inti-bangaaram-success/articleshow/131915434.cms",
     "time": "2026-06-22T16:56:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ASI transfers ‘Rakhigarhi’ skeletons to Anthropological Survey of India for further research",
-    "desc": "The transfer, carried out under a recently signed MoU between the two institutions, is expected to significantly advance multidisciplinary research into one of the most important urban centres of the Indus-Saraswati Civilization, says AnSI Director",
-    "img": "https://th-i.thgim.com/public/incoming/f2aiyl/article71134560.ece/alternates/LANDSCAPE_1200/IMG_ASI_excavation_site__2_1_P99PRQBI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/asi-transfers-rakhigarhi-skeletons-to-anthropological-survey-of-india-for-further-research/article71133224.ece",
-    "time": "2026-06-22T16:55:17.000Z"
   },
   {
     "cat": "Business",
@@ -486,15 +513,6 @@ const newsData_en = [
     "time": "2026-06-22T12:29:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Students jumped out of building', at least 15 killed; CM Yogi constitutes SIT",
-    "desc": "A devastating fire swept through a coaching-cum-gaming zone in Lucknow's Aliganj area on Monday afternoon, claiming the lives of at least 12 young students. Fourteen fire tenders battled the blaze that erupted around 3 pm. While authorities are investigating the exact origin, the incident has sent shockwaves through the city, with many others reportedly injured in the tragedy.",
-    "img": "https://static.toiimg.com/photo/msid-131911455,imgsize-1095564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/lucknow-fire-tragedy-students-jumped-out-of-building-at-least-killed-pm-modi-condoles-deaths-what-we-know-so-far/articleshow/131909364.cms",
-    "time": "2026-06-22T12:26:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Spanish armada makes a statement with big win",
     "desc": "After struggling to break down Cape Verde’s disciplined defence, Spain pressed aggressively, recovered possession higher up the pitch and moved the ball with far greater speed in its second Group H game against Saudi Arabia",
@@ -502,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-spanish-armada-makes-a-statement-with-big-win/article71133135.ece",
     "time": "2026-06-22T12:24:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan told Dia Mirza she will be playing his mother onscreen",
-    "desc": "Dia Mirza reminisced about a chaotic song shoot with a crowd of two lakh people during a chat with Farah Khan. She also revealed purchasing her Mumbai home with earnings from 'Tumko Na Bhool Paayenge,' a film where Salman Khan predicted she'd play his mother one day. The actress shared this while showcasing her sanctuary, the first property owned by a woman in her family.",
-    "img": "https://static.toiimg.com/photo/msid-131909045,imgsize-205533.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-told-19-year-old-dia-mirza-she-will-be-playing-his-mother-on-screen-someday-the-actress-who-was-playing-his-mother-just-had-a-baby/articleshow/131909054.cms",
-    "time": "2026-06-22T12:05:25.000Z"
   },
   {
     "cat": "Business",
@@ -522,15 +531,6 @@ const newsData_en = [
     "time": "2026-06-22T12:02:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Chetna on about how Haunted 3D changed her life",
-    "desc": "Chetna Pande opened up about how the success of Haunted 3D came after the \"worst six months\" of her life, marked by personal hardships and years of rejection. \"Every setback has made me stronger,\" she said. The film has crossed Rs 20 crore at the box office in 10 days.",
-    "img": "https://static.toiimg.com/photo/msid-131908967,imgsize-208627.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chetna-pande-opens-up-about-how-haunted-3d-changed-her-life-after-the-worst-six-months-it-feels-unbelievable/articleshow/131908967.cms",
-    "time": "2026-06-22T12:01:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Lack of investment chapter in India-U.K. trade deal not a concern, says Muscatelli",
     "desc": "Anton Muscatelli, President of the Royal Society of Edinburgh, said that the increase in trade due to the deal, as well as the ongoing improvement in the ease of doing business, would increase investments into India.",
@@ -538,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/lack-of-investment-chapter-in-india-uk-trade-deal-not-a-concern-says-muscatelli/article71122017.ece",
     "time": "2026-06-22T11:56:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samantha's 'Maa Inti Bangaram' OTT release details out",
-    "desc": "Samantha Ruth Prabhu's action-comedy drama, 'Maa Inti Bangaram,' released on June 19, 2026, is a theatrical hit, drawing praise and strong box office numbers. While an official OTT release date is pending, reports suggest JioHotstar has secured the digital rights. The film, a blend of family sentiments, comedy, and thriller, is expected to stream online four to six weeks post-theatrical release, likely in late July or early August 2026.",
-    "img": "https://static.toiimg.com/photo/msid-131908820,imgsize-223818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/maa-inti-bangaram-ott-release-date-when-and-where-can-we-expect-samantha-ruth-prabhus-film/articleshow/131908800.cms",
-    "time": "2026-06-22T11:55:04.000Z"
   },
   {
     "cat": "Sports",
@@ -576,15 +567,6 @@ const newsData_en = [
     "time": "2026-06-22T11:50:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vikram on why Mahesh Bhatt refrained from talking about his Rs 30 cr fraud case when he was in jail",
-    "desc": "Filmmaker Vikram Bhatt, recently released on bail after a multi-crore cheating case, revealed the unwavering support of his mentor Mahesh Bhatt. Despite being unable to communicate directly for months, Bhatt remained connected with Vikram's family, offering silent solidarity. The controversy arose from Vikram's film 'Tumko Meri Kasam,' allegedly used to promote Indira IVF during a fundraising phase, leading to the withdrawal of the company's IPO.",
-    "img": "https://static.toiimg.com/photo/msid-131908601,imgsize-203330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-says-mahesh-bhatt-refrained-from-talking-about-his-rs-30-crore-fraud-case-and-time-in-jail-due-to-this-reason-i-was-only-allowed-five-minutes-to-speak/articleshow/131908583.cms",
-    "time": "2026-06-22T11:46:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jay Shah says motherhood should not end cricket careers as ICC introduces new guidelines",
     "desc": "The ICC has introduced new post-pregnancy return-to-play guidelines to help female cricketers continue their careers after childbirth. The framework includes a six-step recovery model and support measures such as flexible training and childcare assistance. ICC chairman Jay Shah said the initiative reflects the governing body's commitment to ensuring women can thrive both on and off the field.",
@@ -592,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jay-shah-says-motherhood-should-not-end-cricket-careers-icc-introduces-new-guidelines/articleshow/131908190.cms",
     "time": "2026-06-22T11:30:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Russian drone strike in Ukraine kills three from one family, including 13-year-old boy",
-    "desc": "Russia has pounded civilian areas of Ukraine with drones and missiles since it launched its all-out invasion of its neighbour more than four years ago, and a United Nations tally says more than 16,000 civilians have died in the war",
-    "img": "https://th-i.thgim.com/public/incoming/58jbp1/article71132786.ece/alternates/LANDSCAPE_1200/2026-06-22T065838Z_2136969626_RC2UYLAVY9ME_RTRMADP_3_UKRAINE-CRISIS-ATTACK-SUMY-REGION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russian-drone-strike-in-ukraine-kills-three-from-one-family-including-13-year-old-boy/article71132750.ece",
-    "time": "2026-06-22T11:20:32.000Z"
   },
   {
     "cat": "Business",
@@ -639,15 +612,6 @@ const newsData_en = [
     "time": "2026-06-22T10:32:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rajasthan ATS arrests woman for alleged links with Pakistan-based Jaish-e-Mohammed terror group",
-    "desc": "Rajasthan ATS apprehended a woman in Jaipur for alleged ties with Pakistan-based Jaish-e-Mohammed and other anti-national elements. Investigations revealed her social media accounts and phone contained objectionable content and links to foreign profiles, including those displaying extremist symbols. She reportedly converted to Islam after guidance from a Pakistan-based Mufti and was allegedly being prepared for travel to Pakistan. Booked under UAPA, she is in ATS custody.",
-    "img": "https://static.toiimg.com/photo/msid-131905907,imgsize-487642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rajasthan-ats-arrests-woman-for-alleged-links-with-pakistan-based-jaish-e-mohammed-terror-group/articleshow/131905822.cms",
-    "time": "2026-06-22T09:57:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Speed up your calculation': Gukesh advised ahead of World C'ship match",
     "desc": "Ahead of his world title defence against Javokhir Sindarov, D Gukesh has been advised by Grandmaster Krishnan Sasikiran to improve his speed, technique and handling of time pressure. Sasikiran warned that Sindarov is highly prepared and fast-paced, but said Gukesh's previous world championship experience could prove crucial in what promises to be a tough contest.",
@@ -673,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/west-bengal-budget-2026-20-da-hike-1-lakh-jobs-in-bjp-governments-first-budget/articleshow/131905148.cms",
     "time": "2026-06-22T09:23:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Fielders didn't support': Defeat to SA leaves Harmanpreet ruing dropped catches",
-    "desc": "\"We have two matches and this is the time to stay positive. Shree Charani and Shafali (Verma) bowled well but the fielders didn't support them. We have to take opportunities at this level. We were not lucky enough with that.\"",
-    "img": "https://static.toiimg.com/photo/msid-131904708,imgsize-467478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/fielders-didnt-support-defeat-to-south-africa-leaves-harmanpreet-kaur-ruing-dropped-catches/articleshow/131904631.cms",
-    "time": "2026-06-22T08:49:01.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/flipkart-extends-lead-in-indian-e-commerce-myntra-widens-lead-in-fashion-says-bofa/article71127002.ece",
     "time": "2026-06-20T17:05:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Can music help you relax? India’s wellness labels think so",
+    "desc": "As mental health discussions rise, music’s therapeutic potential is in question again, exploring its calming effects. The increasing popularity of wellness music festivals further underscores a collective yearning for deeper, transformative experiences in today’s fast-paced world",
+    "img": "https://th-i.thgim.com/public/incoming/nkqolz/article71120732.ece/alternates/LANDSCAPE_1200/03mp_music_therapy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/wellness-music-growing-in-india-chad-lawson-rishab-sharma/article70211249.ece",
+    "time": "2026-06-20T04:47:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "The RBI and its growing fiscal role",
+    "desc": "RBI’s record ₹2.87 lakh crore surplus transfer to the Centre shows its growing fiscal significance, as earnings from reserve management and foreign assets support govt. finances; the trend raises questions about central bank independence, fiscal centralisation, and exclusion of such transfers from fiscal devolution to States",
+    "img": "https://th-i.thgim.com/public/incoming/4cfiid/article71114984.ece/alternates/LANDSCAPE_1200/2026-06-04T051343Z_1888669078_RC2JPCAERN8K_RTRMADP_3_INDIA-ECONOMY-RATES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/the-rbi-and-its-growing-fiscal-role/article71113535.ece",
+    "time": "2026-06-19T18:11:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The Madras Players bring Hema Sukumar’s novel to the stage",
+    "desc": "An original stage adaptation of Hema Sukumar’s Minor Disturbances At Grand Life Apartments, The Madras Players’ latest production is a warm, slice-of-life play that chronicles the everyday lives of residents in a charming Chennai apartment complex",
+    "img": "https://th-i.thgim.com/public/life-and-style/7j4bwl/article71121159.ece/alternates/LANDSCAPE_1200/FotoJet%2038.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/theatre/the-madras-players-bring-hema-sukumars-novel-to-the-stage/article71117499.ece",
+    "time": "2026-06-19T07:33:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Telegram challenge puts spotlight on Section 69A of the IT Act",
+    "desc": "Using the provision to block an entire platform may infringe on Constitutional rights to freedom of expression and freedom to practise a profession or run a business, similar to a blanket ban on internet services",
+    "img": "https://th-i.thgim.com/public/incoming/h10cvw/article71119084.ece/alternates/LANDSCAPE_1200/2026-06-17T064411Z_207211350_RC2IVLAOMH83_RTRMADP_3_INDIA-TELEGRAM-EDUCATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telegram-challenge-puts-spotlight-on-section-69a-of-the-it-act/article71118292.ece",
+    "time": "2026-06-19T03:08:50.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Telegram evolved into ‘new dark web’: Centre",
+    "desc": "Relying upon an I4C assessment, the government says the app’s architecture and privacy features have made it a preferred tool for cybercriminals, fraud networks, extremist and terror groups, and operators involved in examination paper leaks",
+    "img": "https://th-i.thgim.com/public/incoming/msj2nb/article71117261.ece/alternates/LANDSCAPE_1200/2026-06-16T065334Z_954098010_RC2WPGA8QOR8_RTRMADP_3_INDIA-TELEGRAM-EDUCATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telegram-delhi-hc-hearing-government-neet-retest-restrictions/article71117255.ece",
+    "time": "2026-06-18T20:21:40.000Z"
   }
 ];
