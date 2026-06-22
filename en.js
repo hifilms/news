@@ -1,12 +1,156 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "NSA Doval meets counterparts from BRICS grouping, discusses West Asia and India-China ties",
-    "desc": "MEA says Doval and Iran’s Nezamipour reviewed the situation in West Asia and discussed cooperation under the BRICS platform and India-Iran bilateral ties. On meeting with China’s Wang, it says the two sides noted progress towards gradual normalisation of ties",
-    "img": "https://th-i.thgim.com/public/incoming/33gcgz/article71134508.ece/alternates/LANDSCAPE_1200/PTI06_22_2026_000162B.jpg",
+    "title": "Assam hospital",
+    "desc": "Assembly Speaker Ranjeet Kumar Dass, who is president of a First Referral Unit in Barpeta district, says he has advised State Health Minister Ashok Singhal to implement this system in all government healthcare facilities across the State",
+    "img": "https://th-i.thgim.com/public/latest-news/ypas31/article71134913.ece/alternates/LANDSCAPE_1200/BarpetaFRU.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nsa-doval-meets-counterparts-from-brics-grouping-discusses-west-asia-and-india-china-ties/article71134378.ece",
-    "time": "2026-06-22T16:39:46.000Z"
+    "url": "https://www.thehindu.com/news/national/assam/no-free-diagnostic-services-for-women-with-more-than-three-children-assam-hospital/article71133231.ece",
+    "time": "2026-06-22T20:12:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Reclaiming Tamil Nadu’s fiscal autonomy and sustaining its growth model",
+    "desc": "Tamil Nadu’s problem today is not fiscal profligacy or corruption; the pressing problem is its model of inclusive growth itself; the real challenge is getting investment, generating decent jobs, and improving wages, while actively renegotiating fiscal space with the Union",
+    "img": "https://th-i.thgim.com/public/incoming/1vz5sn/article71132710.ece/alternates/LANDSCAPE_1200/IMG_vijay_4_1_3LG3OOMH.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/reclaiming-tamil-nadus-fiscal-sovereignty-and-sustaining-its-growth-model/article71132575.ece",
+    "time": "2026-06-22T19:32:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi sets unwanted World Cup record before stunning turnaround to become all-time top scorer",
+    "desc": "Lionel Messi’s World Cup afternoon against Austria delivered both frustration and history. A ninth-minute penalty miss saw him set a new tournament record for most penalties taken and missed. Yet he later scored to move past Miroslav Klose as the World Cup’s all-time leading scorer, reinforcing a career defined by extraordinary consistency, longevity, and statistical extremes across multiple tournaments.",
+    "img": "https://static.toiimg.com/photo/msid-131919938,imgsize-104730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-lionel-messi-sets-unwanted-world-cup-record-before-stunning-turnaround-to-become-all-time-top-scorer/articleshow/131918767.cms",
+    "time": "2026-06-22T19:31:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trinamool rebels remove Mamata as the party chairperson",
+    "desc": "Abhishek Banerjee has been removed as party general secretary; former Minister Arup Roy unanimously picked as the new chairperson of the party; the decision was taken by rebel MLAs led by Leader of Opposition Ritabrata Banerjee, who claims support of 65 out of 80 MLAs.",
+    "img": "https://th-i.thgim.com/public/incoming/kc53gi/article71134761.ece/alternates/LANDSCAPE_1200/PTI06_02_2026_000235A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-rebels-remove-mamata-as-the-party-chairperson/article71134179.ece",
+    "time": "2026-06-22T18:24:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Keerthy pens heartfelt birthday note for Tamil Nadu CM Vijay",
+    "desc": "Actor and Tamil Nadu Chief Minister Vijay turned 52 on June 22, marking his first birthday since taking office. Wishes poured in from actors, political leaders and fans across social media, with actor Keerthy Suresh sharing a heartfelt message that reflected on Vijay's transition from cinema icon to political leader.",
+    "img": "https://static.toiimg.com/photo/msid-131918137,imgsize-71441.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/keerthy-suresh-pens-heartfelt-birthday-note-for-tamil-nadu-cm-vijay-this-year-feels-different/articleshow/131918049.cms",
+    "time": "2026-06-22T18:20:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBSE Class 12 students see substantial increase in marks after re-evaluation",
+    "desc": "After discrepancies were reported under the new OSM evaluation system, 1.6 lakh candidates went for re-evaluation. The CBSE on June 21 released the results for 1.39 lakh of them, and said the results of the rest will be released in phases soon",
+    "img": "https://th-i.thgim.com/public/incoming/a1f1wf/article71134669.ece/alternates/LANDSCAPE_1200/20260513370L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/cbse-class-12-students-see-substantial-increase-in-marks-after-re-evaluation/article71133494.ece",
+    "time": "2026-06-22T17:43:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Kylian Mbappé start for France vs Iraq? Latest injury update ahead of historic 100th international appearance",
+    "desc": "Kylian Mbappé is set to make his 100th appearance for France when Les Bleus face Iraq at the 2026 FIFA World Cup. The milestone comes days after he became France’s all-time leading scorer. With France aiming to secure knockout qualification, Mbappé also has the chance to climb the World Cup scoring charts and move closer to football’s greatest records.",
+    "img": "https://static.toiimg.com/photo/msid-131916768,imgsize-99950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/will-kylian-mbapp-start-for-france-vs-iraq-latest-injury-update-ahead-of-historic-100th-international-appearance/articleshow/131916460.cms",
+    "time": "2026-06-22T17:40:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi scripts FIFA World Cup history, becomes first player ever to...",
+    "desc": "Lionel Messi became the outright highest scorer in FIFA World Cup history after netting his 17th goal against Austria, surpassing Miroslav Klose. The Argentina captain also equalled the record of scoring in six consecutive World Cup matches. France star Kylian Mbappe praised Messi, calling him and Cristiano Ronaldo the best, while insisting his own focus remains on winning another World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-131916613,imgsize-98141.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-scripts-fifa-world-cup-history-becomes-first-player-ever-to-/articleshow/131916399.cms",
+    "time": "2026-06-22T17:39:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI Bulletin",
+    "desc": "As an outcome of the West Asia conflict, the CPI headline inflation inched up sequentially to 3.9% (y-o-y) in May 2026 from 3.5% in the preceding month, driven by broad-based increases in all three categories - food & beverages, fuel and core components",
+    "img": "https://th-i.thgim.com/public/incoming/xw6qp6/article71134624.ece/alternates/LANDSCAPE_1200/PETROL%20PRICE%20HIKE%20DELHI%202026_25_05_13.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/global-economic-landscape-remains-fragile-rbi-bulletin/article71133893.ece",
+    "time": "2026-06-22T17:21:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why Keir Starmer resigned",
+    "desc": "Keir Starmer’s political fate was all but sealed when Labour’s ‘King of the North’, former mayor of Greater Manchester, Andy Burnham won a seat in Westminster (the U.K.’s Parliament) last week, after winning a bye-election",
+    "img": "https://th-i.thgim.com/public/incoming/1n9z6z/article71133361.ece/alternates/LANDSCAPE_1200/2026-06-22T092149Z_733165588_RC2XYLAQP43E_RTRMADP_3_BRITAIN-POLITICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/analysis-why-keir-starmer-resigned/article71132963.ece",
+    "time": "2026-06-22T17:16:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Death toll rises to eight at seafood processing unit as six more people succumb",
+    "desc": "The Health department continues to closely monitor the situation and ensure the availability of appropriate medical care for all affected persons; it is coordinating with the district authorities and healthcare institutions to facilitate timely treatment, surveillance and response activities",
+    "img": "https://th-i.thgim.com/public/incoming/qyezcb/article71131723.ece/alternates/LANDSCAPE_1200/4871_21_6_2026_19_56_18_1_DSC_8986.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/death-toll-rises-in-ammonia-gas-leak-inicident-at-seafood-processing-unit-in-tiruvallur/article71131720.ece",
+    "time": "2026-06-22T17:15:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ajit Doval discusses ties with China FM, Middle East war with Iranian official",
+    "desc": "National Security Adviser Ajit Doval engaged in crucial bilateral talks with Chinese Foreign Minister Wang Yi and Iranian security official Ghadir Nezamipour during the BRICS NSA conclave in New Delhi. Discussions focused on normalizing India-China ties and the West Asian security situation. The expanded BRICS bloc grappled with geopolitical tensions and differing member priorities, highlighting the forum's growing influence and challenges.",
+    "img": "https://static.toiimg.com/photo/msid-131915807,imgsize-1073519.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/brics-security-meet-in-delhi-ajit-doval-discusses-ties-with-china-fm-middle-east-war-with-iranian-official/articleshow/131915306.cms",
+    "time": "2026-06-22T17:04:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "30 arrested for attempting irregularities in NEET-UG re-exam in Bihar",
+    "desc": "While 18 people working in the exam centres were arrested for violating the biometric verification norms, the majority of the others were impersonators who tried to write the exam in place of the genuine candidates",
+    "img": "https://th-i.thgim.com/public/incoming/4rhsmw/article71132388.ece/alternates/LANDSCAPE_1200/20260621642L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/nine-detained-over-suspected-impersonation-during-neet-ug-re-exam-in-bihars-lakhisarai/article71132369.ece",
+    "time": "2026-06-22T17:01:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samantha's pregnancy comes at a beautiful time: Nandini Reddy",
+    "desc": "Director Nandini Reddy has seemingly put an end to speculation surrounding Samantha Ruth Prabhu's pregnancy. While fans had been discussing the actress' recent appearance at the success celebration of Maa Inti Bangaaram, Nandini's comments have now brought the personal milestone into the spotlight.",
+    "img": "https://static.toiimg.com/photo/msid-131915623,imgsize-106314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhus-pregnancy-comes-at-a-beautiful-time-says-director-bv-nandini-reddy-amid-maa-inti-bangaaram-success/articleshow/131915434.cms",
+    "time": "2026-06-22T16:56:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ASI transfers ‘Rakhigarhi’ skeletons to Anthropological Survey of India for further research",
+    "desc": "The transfer, carried out under a recently signed MoU between the two institutions, is expected to significantly advance multidisciplinary research into one of the most important urban centres of the Indus-Saraswati Civilization, says AnSI Director",
+    "img": "https://th-i.thgim.com/public/incoming/f2aiyl/article71134560.ece/alternates/LANDSCAPE_1200/IMG_ASI_excavation_site__2_1_P99PRQBI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/asi-transfers-rakhigarhi-skeletons-to-anthropological-survey-of-india-for-further-research/article71133224.ece",
+    "time": "2026-06-22T16:55:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee falls 30 paise to 94.63 against Dollar amid Middle East uncertainty",
+    "desc": "The Indian rupee weakened by 30 paise to 94.63 against the US dollar on Monday, pressured by a strong dollar and Middle East tensions. Despite supportive inflows and falling crude oil prices, importer demand and foreign institutional investors turning net sellers weighed on the currency. While equity markets saw gains, core sector growth slowed, and the RBI actively intervened in the forex market.",
+    "img": "https://static.toiimg.com/photo/msid-131915471,imgsize-743783.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-falls-30-paise-to-94-63-against-dollar-amid-middle-east-uncertainty/articleshow/131915353.cms",
+    "time": "2026-06-22T16:49:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Coles gets maiden call-up in 17-member squad",
+    "desc": "England have named a 17-man squad for the five-match T20I series against India, handing all-rounder James Coles his maiden call-up. Harry Brook will captain the side, with Jordan Cox, Sonny Baker and Saqib Mahmood returning. Injuries rule out Brydon Carse and Jamie Overton. The series begins on July 1, with Jos Buttler and Jofra Archer among the key names.",
+    "img": "https://static.toiimg.com/photo/msid-131915331,imgsize-72186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-vs-england-t20is-james-coles-gets-maiden-call-up-in-harry-brook-led-17-memeber-side-see-full-squad-here/articleshow/131915026.cms",
+    "time": "2026-06-22T16:39:09.000Z"
   },
   {
     "cat": "World",
@@ -36,33 +180,6 @@ const newsData_en = [
     "time": "2026-06-22T16:29:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Direct flights from Guwahati to UAE begin on August 4",
-    "desc": "“Air India will operate direct flights between Guwahati and two UAE cities — Abu Dhabi and Dubai — to position Assam’s largest urban centre as a major travel and transit hub for Southeast Asia,” says Himanta Biswa Sarma",
-    "img": "https://th-i.thgim.com/public/incoming/jwo1n9/article71134436.ece/alternates/LANDSCAPE_1200/PTI06_13_2026_000118B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/assam/direct-flights-from-guwahati-to-uae-begin-on-august-4/article71133386.ece",
-    "time": "2026-06-22T16:23:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Death toll rises to seven at seafood processing unit as five more people succumb",
-    "desc": "The Health department continues to closely monitor the situation and ensure the availability of appropriate medical care for all affected persons; it is coordinating with the district authorities and healthcare institutions to facilitate timely treatment, surveillance and response activities",
-    "img": "https://th-i.thgim.com/public/incoming/qyezcb/article71131723.ece/alternates/LANDSCAPE_1200/4871_21_6_2026_19_56_18_1_DSC_8986.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/death-toll-rises-in-ammonia-gas-leak-inicident-at-seafood-processing-unit-in-tiruvallur/article71131720.ece",
-    "time": "2026-06-22T16:19:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chilli exporters seek Spices Board intervention over rejections, China ban, registration issues",
-    "desc": "Three Indian companies suspended by China account for 20-30% of country's dry chilli exports to that country; the curbs are affecting farmer incomes, export volumes and India's credibility as a reliable supplier, says exporters' association in a representation to the Board Secretary",
-    "img": "https://th-i.thgim.com/public/incoming/fb6yq5/article71134252.ece/alternates/LANDSCAPE_1200/10745_22_6_2026_21_1_32_1_IMG_20260622_WA0051.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chilli-exporters-seek-spices-board-intervention-over-rejections-china-ban-registration-issues/article71133747.ece",
-    "time": "2026-06-22T15:53:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Fans spot THIS similarity between 'Dhurandhar' and Cocktail 2: VIDEO",
     "desc": "Fans are buzzing after spotting a familiar filming location in the recently released 'Cocktail 2', identical to a key scene in the 2025 hit 'Dhurandhar'. This discovery has sparked a wave of humorous online discussions, with viewers playfully suggesting 'Dhurandhar' has set a new standard for cinematic detail. The franchise's enduring impact is evident as it continues to influence how audiences perceive new releases.",
@@ -79,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ben-stokes-and-gus-atkinson-nightclub-controversy-ecb-delivers-final-verdict/articleshow/131913966.cms",
     "time": "2026-06-22T15:42:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt. confronts legal, political imbroglio in KSCDC cashew import corruption case",
-    "desc": "Case comes to the fore again after Industries Secretary A.P.M. Mohammed Hanish appears before High Court on Monday and submits an unconditional apology in a contempt petition moved by petitioner Kadakampally Manoj, who accused the government of refusing prosecution sanction in the case",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/govt-confronts-legal-political-imbroglio-in-kscdc-cashew-import-corruption-case/article71133606.ece",
-    "time": "2026-06-22T15:41:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -124,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celebrity-chef-reveals-virat-kohlis-strict-zero-fat-diet-after-embracing-vegetarianism-inspired-by-anushka-sharma-he-loved-chhole-bhature-rajma-chawal-but-now-/articleshow/131913163.cms",
     "time": "2026-06-22T15:14:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Use of murky water to disperse AIYF, AISF protesters: Pinarayi brings sample to Assembly",
-    "desc": "Leader of the Opposition says water used in water cannon was extremely dangerous and can spread even amoebic encephalitis. Home Minister says steps will be taken to ensure that such an incident does not recur",
-    "img": "https://th-i.thgim.com/public/incoming/137kkj/article71133882.ece/alternates/LANDSCAPE_1200/NH22PMshriProtest01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/use-of-murky-water-to-disperse-aiyf-aisf-protesters-pinarayi-brings-sample-to-assembly/article71133510.ece",
-    "time": "2026-06-22T15:07:34.000Z"
   },
   {
     "cat": "Business",
@@ -226,7 +325,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Tragic loss': Indians among 13 killed in Qatar gas plant explosion",
+    "title": "'Tragic loss': 12 Indians among 13 killed in Qatar gas plant explosion",
     "desc": "A tragic industrial accident at Qatar's Ras Laffan gas facility has claimed at least 13 lives, including Indian nationals, and injured 66. The blast at the Barzan gas supply facility, ruled an accident, occurred Sunday night. Despite the incident, Qatar's energy minister assured that domestic needs and LNG exports remain unaffected, though repairs will take time.",
     "img": "https://static.toiimg.com/photo/msid-131912561,imgsize-955631.cms",
     "src": "indiatimes.com",
@@ -268,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-sold-nearly-9-billion-in-forex-spot-market-in-april-amid-rupee-pressure/articleshow/131911335.cms",
     "time": "2026-06-22T13:40:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Why Keir Starmer resigned",
-    "desc": "Keir Starmer’s political fate was all but sealed when Labour’s ‘King of the North’, former mayor of Greater Manchester, Andy Burnham won a seat in Westminster (the U.K.’s Parliament) last week, after winning a bye-election",
-    "img": "https://th-i.thgim.com/public/incoming/1n9z6z/article71133361.ece/alternates/LANDSCAPE_1200/2026-06-22T092149Z_733165588_RC2XYLAQP43E_RTRMADP_3_BRITAIN-POLITICS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/analysis-why-keir-starmer-resigned/article71132963.ece",
-    "time": "2026-06-22T13:32:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -397,7 +487,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Students jumped out of building', at least 15 killed; CM Yogi reaches site",
+    "title": "'Students jumped out of building', at least 15 killed; CM Yogi constitutes SIT",
     "desc": "A devastating fire swept through a coaching-cum-gaming zone in Lucknow's Aliganj area on Monday afternoon, claiming the lives of at least 12 young students. Fourteen fire tenders battled the blaze that erupted around 3 pm. While authorities are investigating the exact origin, the incident has sent shockwaves through the city, with many others reportedly injured in the tragedy.",
     "img": "https://static.toiimg.com/photo/msid-131911455,imgsize-1095564.cms",
     "src": "indiatimes.com",
@@ -459,15 +549,6 @@ const newsData_en = [
     "time": "2026-06-22T11:55:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sara Ali Khan shares RARE picture of Sharmila Tagore and Amrita Singh",
-    "desc": "In a heartwarming moment, Sara Ali Khan captivated her followers by sharing a cherished family snapshot featuring her grandmother, the esteemed actress Sharmila Tagore, along with her mother, Amrita Singh. The trio enjoyed a delightful evening at the theatre, where Sara posted affectionate selfies, highlighting how her legendary family members serve as her greatest inspirations. This touching reunion showcases the rich legacy of talent across three generations.",
-    "img": "https://static.toiimg.com/photo/msid-131908759,imgsize-131168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/best-actors-toh-mere-bagal-mein-hi-hai-sara-ali-khan-shares-rare-picture-of-grandmother-sharmila-tagore-and-mother-amrita-singh-together/articleshow/131908728.cms",
-    "time": "2026-06-22T11:53:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sanju Samson names Dhoni cricket's Roger Federer, compares Virat Kohli to...",
     "desc": "Cricket star Sanju Samson drew parallels between cricketing legends and tennis icons, comparing MS Dhoni to Roger Federer for his calm demeanor and Virat Kohli to Carlos Alcaraz for his explosive style. He also reflected on India's World Cup triumphs, highlighting their impact on setting high standards. Samson acknowledged Australia's past dominance but noted India's current champion status, while Rohan Bopanna shared his Wimbledon picks and cherished memories.",
@@ -502,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-says-mahesh-bhatt-refrained-from-talking-about-his-rs-30-crore-fraud-case-and-time-in-jail-due-to-this-reason-i-was-only-allowed-five-minutes-to-speak/articleshow/131908583.cms",
     "time": "2026-06-22T11:46:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Welcome to the Jungle' receives CBFC clearance after 18 changes",
-    "desc": "Ahmed Khan's hilariously anticipated film 'Welcome to the Jungle' has received a UA 16+ rating from the CBFC after undergoing 18 significant edits to meet compliance standards. With a release date set for June 26, this adventurous sequel boasts a star-studded cast, revamped dialogue, and the removal of certain visuals to ensure it resonates with audiences while keeping the thematic essence of the beloved franchise.",
-    "img": "https://static.toiimg.com/photo/msid-131908336,imgsize-109662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-starrer-welcome-to-the-jungle-receives-cbfc-clearance-after-18-changes-disha-patani-and-jacqueline-fernandez-scenes-affected/articleshow/131908302.cms",
-    "time": "2026-06-22T11:35:39.000Z"
   },
   {
     "cat": "Sports",
@@ -630,15 +702,6 @@ const newsData_en = [
     "time": "2026-06-22T08:24:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Futuristic, smoke-free, pollution-free': What we know about India’s first ‘swadeshi’ hydrogen train",
-    "desc": "India is set to launch its first indigenous hydrogen fuel-cell train on the Jind-Sonipat route, joining an elite group of nations. This 10-coach train, powered by a 1200kW engine, emits only water vapor, offering a clean alternative to fossil fuels. A dedicated hydrogen storage and refueling facility is operational in Jind, with maintenance planned in Delhi. This move significantly bolsters India's green mobility and net-zero emission targets.",
-    "img": "https://static.toiimg.com/photo/msid-131904391,imgsize-166678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/futuristic-smoke-free-pollution-free-what-we-know-about-indias-first-swadeshi-hydrogen-train/articleshow/131904240.cms",
-    "time": "2026-06-22T08:21:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shrachi Rarh Tigers win Bengal T20 League title over Malda",
     "desc": "Asked to bat, Rarh Tigers posted a formidable 165 for four in the reduced quota of 15 overs. In its rain-interrupted innings, Malda scored 97 for five in nine overs to fall short of the revised target by nine runs",
@@ -646,51 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/shrachi-rarh-tigers-win-bengal-t20-league-title-over-malda/article71132357.ece",
     "time": "2026-06-22T08:11:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Do people need a visa to come to Jantar Mantar?' : CJP founder Abhijeet Dipke questions Delhi Police over Aadhaar checks",
-    "desc": "Cockroach Janta Party founder Abhijeet Dipke has accused Delhi Police of obstructing protesters at Jantar Mantar, demanding the Union Education Minister's resignation over the NEET-UG paper leak. Dipke alleged police are using Aadhaar card checks to deter participants and highlighted the lack of basic facilities, including water supply to restrooms, for demonstrators. The protest has entered its third day.",
-    "img": "https://static.toiimg.com/photo/msid-131904094,imgsize-1309763.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/do-people-need-a-visa-to-come-to-jantar-mantar-cjp-founder-abhijeet-dipke-questions-delhi-police-over-aadhaar-checks/articleshow/131903908.cms",
-    "time": "2026-06-22T07:56:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘This is not IPL’: RR, RCB, DC take a jibe as Sooryavanshi slams fastest 50 vs SL",
-    "desc": "Fifteen-year-old Vaibhav Sooryavanshi achieved a historic feat, smashing a record 11-ball fifty and a blistering 94 off 29 balls in the Tri-nation final against Sri Lanka A. This remarkable performance, which saw India A clinch the title, served as a powerful response to a previous 'not IPL' jibe. Sooryavanshi's fearless batting has solidified his reputation as a prodigious talent.",
-    "img": "https://static.toiimg.com/photo/msid-131903358,imgsize-140730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/this-is-not-ipl-rr-rcb-dc-take-a-cheeky-jibe-as-vaibhav-sooryavanshi-smashes-record-11-ball-fifty-in-sri-lanka-a-final/articleshow/131903335.cms",
-    "time": "2026-06-22T07:12:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First-ever WC goal sets record in Uruguay draw",
-    "desc": "Cape Verde etched their name in World Cup history by scoring their first-ever goal from a direct free-kick against Uruguay, securing a 2-2 draw. This remarkable debutant nation, with two points from two games, continues their fairytale campaign, showcasing resilience and belief against football giants. The match also featured a rare goalkeeping milestone with both keepers over 40.",
-    "img": "https://static.toiimg.com/photo/msid-131902651,imgsize-219372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cape-verde-script-world-cup-history-first-ever-goal-from-direct-free-kick-sets-record-in-uruguay-draw/articleshow/131902652.cms",
-    "time": "2026-06-22T06:26:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Operation Tiger continues all 365 days': Shinde faction set to induct six rebel MPs from Uddhav camp",
-    "desc": "Six Shiv Sena (UBT) MPs are officially joining the Eknath Shinde-led faction today, significantly boosting the ruling party's strength in the Lok Sabha. This move marks a major blow to Uddhav Thackeray's party, with the rebels citing ideological differences and proximity to Congress as reasons for their departure. The split intensifies political turmoil, as the Shinde camp welcomes the MPs, continuing its 'Operation Tiger'.",
-    "img": "https://static.toiimg.com/photo/msid-131902638,imgsize-1048399.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/operation-tiger-continues-all-365-days-shinde-faction-set-to-induct-six-rebel-mps-from-uddhav-camp/articleshow/131902415.cms",
-    "time": "2026-06-22T06:25:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Operation Keechad': Congress targets BJP after Shinde camp triggers new Uddhav Sena crisis",
-    "desc": "Congress leader Pawan Khera has strongly criticized the BJP, dubbing the recent defection of Shiv Sena (UBT) MPs to Eknath Shinde's faction as \"Operation Keechad.\" He questioned the BJP's motives behind allegedly \"stealing\" MPs from opposition parties, suggesting it could be an attempt to alter the constitution. This move follows a similar setback for the Trinamool Congress in West Bengal, where several MPs also shifted allegiance.",
-    "img": "https://static.toiimg.com/photo/msid-131902319,imgsize-1014261.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/operation-keechad-congress-targets-bjp-after-shinde-camp-triggers-new-uddhav-sena-crisis/articleshow/131902179.cms",
-    "time": "2026-06-22T06:07:10.000Z"
   },
   {
     "cat": "World",
@@ -720,24 +738,6 @@ const newsData_en = [
     "time": "2026-06-22T05:52:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I’m a failure as captain': Athapaththu's pain spills out as SL stare at T20 WC exit",
-    "desc": "\"Actually, it's a sadness beyond words,\" Athapaththu, who is playing her tenth T20 World Cup, said after the defeat. \"I think I played around 18 years for the national team and I could never get a chance to take my team into a semi-final of a World Cup.\"",
-    "img": "https://static.toiimg.com/photo/msid-131901833,imgsize-625532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/im-a-failure-as-captain-chamari-athapaththus-pain-spills-out-as-sri-lanka-stare-at-t20-world-cup-exit/articleshow/131901663.cms",
-    "time": "2026-06-22T05:41:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Your loyalty is for sale': Aaditya Thackeray hits out at 'greedy MPs' as Uddhav Sena battles fresh rebellion",
-    "desc": "Shiv Sena (UBT) leader Aaditya Thackeray has strongly criticized six Lok Sabha MPs who are reportedly shifting allegiance to the Eknath Shinde faction. Thackeray accused them of betraying voters' mandate and selling their loyalty for political gain, calling their actions a 'shocking example of dirty politics.' The move deepens the internal crisis for Uddhav Thackeray's party, with disciplinary action anticipated against the absent MPs.",
-    "img": "https://static.toiimg.com/photo/msid-131901578,imgsize-101487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/loyalty-reputation-for-sale-aaditya-thackeray-to-the-greedy-mps-of-shiv-sena-joining-shinde-camp/articleshow/131901089.cms",
-    "time": "2026-06-22T04:36:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude falls after US-Iran talks in Switzerland conclude; Brent below $80",
     "desc": "Following the conclusion of the US-Iran discussions in Switzerland, global oil prices have seen a decrease as Iran has successfully secured waivers for its oil exports. This alleviates concerns regarding possible supply disruptions, leading to a drop in Brent crude futures as well as WTI. The anticipation of increased Iranian oil supply and potential easing of US sanctions, despite regional tensions, has contributed to the market's response.",
@@ -763,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/who-is-abelardo-de-la-espriella-colombias-new-right-wing-president/article71131580.ece",
     "time": "2026-06-22T03:19:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Restore water supply immediately': CJP founder Abhijeet Dipke appeals as protesters spend second night at Jantar Mantar",
-    "desc": "Protesters at Jantar Mantar, led by Cockroach Janta Party founder Abhijeet Dipke, are demanding the restoration of water supply and better facilities amidst their sit-in over the NEET-UG paper leak. Dipke also criticized police for questioning those donating supplies. The group, seeking compensation and the Education Minister's resignation, vows to continue their protest until their demands are met, highlighting widespread public support for the cause.",
-    "img": "https://static.toiimg.com/photo/msid-131900219,imgsize-1227777.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/restore-water-supply-immediately-cjp-founder-abhijeet-dipke-appeals-as-protesters-spend-second-night-at-jantar-mantar/articleshow/131900191.cms",
-    "time": "2026-06-22T02:48:37.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/world-music-day-2026-kolkatas-rain-playlist-memories-and-monsoon-moments/article71109025.ece",
     "time": "2026-06-21T02:56:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Flipkart extends lead in Indian e-commerce, Myntra widens lead in fashion, says BofA",
+    "desc": "The brokerage, citing Sensor Tower daily active user (DAU) data and industry checks, said Flipkart remained the leading e-commerce platform by user engagement as of June 2026, while Myntra continued to pull ahead of rivals in fashion.",
+    "img": "https://th-i.thgim.com/public/incoming/51xq99/article71127013.ece/alternates/LANDSCAPE_1200/2026-03-20T091837Z_800634521_RC2LSCAGS05D_RTRMADP_3_FLIPKART-CFO.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/flipkart-extends-lead-in-indian-e-commerce-myntra-widens-lead-in-fashion-says-bofa/article71127002.ece",
+    "time": "2026-06-20T17:05:21.000Z"
   }
 ];

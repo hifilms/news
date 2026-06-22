@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Leo Messi in action as Argentina aim to maintain winning run",
+    "title": "Argentina qualify for FIFA World Cup 2026 knockouts, Lionel Messi leads the charge once more",
+    "desc": "Defending World Cup champions Argentina have begun the ongoing tournament as they mean to go on. Registering two wins in their first two matches, Argentina have qualified for the knockout stages of the FIFA World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/argentina-qualify-for-fifa-world-cup-2026-knockouts-lionel-messi-leads-the-charge-once-more-2026-06-23-1045757",
+    "time": "2026-06-22T19:21:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi scripts history, breaks Miroslav Klose's goal record with historic 17th World Cup goal",
+    "desc": "The moment finally came for Argentine legend Lionel Messi, as the veteran forward scored his 17th FIFA World Cup goal. He broke the record of German legend Miroslav Klose, who scored 16 goals in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-scripts-history-breaks-miroslav-klose-s-goal-record-with-historic-17th-world-cup-goal-2026-06-22-1045756",
+    "time": "2026-06-22T17:59:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi propels Argentina to stellar 2-0 victory",
     "desc": "Argentina and Austria will take on each other in an exciting FIFA World Cup 2026 clash. The two sides meet at the Dallas Stadium in Arlington, and it could be interesting to see which side...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshis-young-shoulders-show-big-game-pedigree-after-whirlwind-94-added-to-fabled-list-2026-06-22-1045711",
     "time": "2026-06-22T10:08:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's chances of Women's T20 World Cup semis in balance after South Africa loss; know qualification scenario",
-    "desc": "India would have boosted their Women's T20 World Cup semifinal chances on Sunday, June 21, but an underwhelming performance against two-time finalists South Africa have put their knockout chances in jeopardy. The road ahead is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indias-chances-of-womens-t20-world-cup-semis-in-balance-after-south-africa-loss-know-qualification-scenario-2026-06-22-1045705",
-    "time": "2026-06-22T09:12:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Serena Williams to return to Wimbledon singles after accepting wild card invitation",
-    "desc": "Serena Williams will be seen in action in the women's singles at Wimbledon after accepting a wild card entry for the SW19, the All England Club announced on Sunday. The 23-time Grand Slam champion was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/serena-williams-to-return-to-wimbledon-singles-after-accepting-wild-card-invitation-2026-06-22-1045695",
-    "time": "2026-06-22T07:31:43.000Z"
   }
 ];
