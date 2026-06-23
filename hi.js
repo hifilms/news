@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cristiano Ronaldo scores, Portugal take the lead early",
+    "desc": "Portugal and Uzbekistan are all set to take on each other at the Houston Stadium in the ongoing FIFA World Cup 2026. It is worth noting that Portugal kicked off their campaign in the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/por-vs-uzb-fifa-world-cup-2026-live-score-cristiano-ronaldo-in-action-as-portugal-prepare-for-first-win-1045888",
+    "time": "2026-06-23T16:45:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi gives his reaction after missing penalty against Austria in recent FIFA World Cup 2026 clash",
+    "desc": "Argentina have got off to a perfect start to the ongoing FIFA World Cup 2026. Coming into the tournament as the defending champions, Argentina kicked off the tournament with a 3-0 win over Algeria. A...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-gives-his-reaction-after-missing-penalty-against-austria-in-recent-fifa-world-cup-2026-clash-2026-06-23-1045885",
+    "time": "2026-06-23T16:13:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer gives his take on Tilak Varma's recent performances ahead of Ireland-England tour",
     "desc": "The stage is set as the Indian team will be touring Ireland and England for a multi-format white-ball series. It is worth noting that the Men in Blue will take on Ireland across two T20Is...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/erling-haaland-only-second-player-in-52-years-to-register-massive-feat-as-norway-storm-into-knockouts-2026-06-23-1045812",
     "time": "2026-06-23T07:48:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kylian Mbappe in history books after scoring another brace as France through to World Cup knockouts",
-    "desc": "Kylian Mbappe scored yet another brace as he powered France to the FIFA World Cup 2026 knockouts with a scintillating 3-0 win over Iraq in a rain-hit game on Tuesday (IST). Mbappe scored in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-in-history-books-after-scoring-another-brace-as-france-through-to-world-cup-knockouts-2026-06-23-1045806",
-    "time": "2026-06-23T07:06:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi in senior India jersey for first time as teenage sensation handed kit",
-    "desc": "Vaibhav Sooryavanshi was seen in the senior India jersey for the first time as he was handed his international kit ahead of a much-anticipated debut. The 15-year-old from Bihar has captured everyone's imagination after stellar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-in-senior-india-jersey-for-first-time-as-teenage-sensation-handed-kit-watch-2026-06-23-1045796",
-    "time": "2026-06-23T06:23:17.000Z"
   }
 ];

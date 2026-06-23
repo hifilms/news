@@ -1,20 +1,182 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Prakasam district attracts ₹320-crore investment proposals at ‘Business Elite Meet’",
-    "desc": "Urging the stakeholders to invest in Prakasam district, the Collector says that the district possesses a 20-km coastline with significant potential for development and points out that 50% of the world’s cities have developed along the coast",
-    "img": "https://th-i.thgim.com/public/incoming/e8733n/article71138368.ece/alternates/LANDSCAPE_1200/10745_23_6_2026_9_35_45_1_IMG_20260623_WA0021.JPG",
+    "cat": "World",
+    "title": "Hungary passes anti-graft measures, eyeing EU funds",
+    "desc": "Pro-EU conservative Magyar ousted Orban from office after 16 years in power in an April election on a promise of \"regime change\". The anti-graft legislation easily passed parliament with 142 votes for, 39 against and three abstentions",
+    "img": "https://th-i.thgim.com/public/incoming/b1r11v/article71139007.ece/alternates/LANDSCAPE_1200/AFP_B7Z887X.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/prakasam-district-attracts-320-crore-investment-proposals-at-business-elite-meet/article71137418.ece",
-    "time": "2026-06-23T14:43:55.000Z"
+    "url": "https://www.thehindu.com/news/international/hungary-passes-anti-graft-measures-eyeing-eu-funds/article71138964.ece",
+    "time": "2026-06-23T17:12:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran-U.S. MoU has had a positive impact on energy, fertiliser flow to India: MEA",
+    "desc": "MEA spokesperson Randhir Jaiswal says 11 India-bound vessels have transited the Strait of Hormuz since the June 17 signing of Iran-U.S. MoU. He indicates that there has been a positive development in shipping in the past few days",
+    "img": "https://th-i.thgim.com/public/incoming/v526iq/article71138978.ece/alternates/LANDSCAPE_1200/2026-06-23T161547Z_1278724895_RC2AWLA73PVU_RTRMADP_3_IRAN-CRISIS-SHIPPING-RATES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/iran-us-mou-has-had-a-positive-impact-on-energy-fertiliser-flow-to-india-mea/article71138690.ece",
+    "time": "2026-06-23T17:03:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India survive late Pakistan scare to seal thrilling 4-3 Pro League win",
+    "desc": "India's men's hockey team continued their dominance over Pakistan, securing a thrilling 4-3 victory in the FIH Pro League. Despite Pakistan scoring first, India responded with four goals. While Pakistan fought back, India's clinical finishing in the circle proved decisive. This win extends India's unbeaten streak against their rivals, though concerns remain over penalty corner conversion and conceding late opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-131944473,imgsize-1184572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/india-survive-late-pakistan-scare-to-seal-thrilling-4-3-pro-league-win/articleshow/131944466.cms",
+    "time": "2026-06-23T16:58:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Reject 2021 election petition as tenure of 16th Assembly has ended, Duraimurugan urges Madras HC",
+    "desc": "His counsel tells Justice G.K. Ianthiraiyan that election petitions can be decided even after the expiry of the term only if they had been filed on the ground of alleged electoral corrupt practice and not otherwise",
+    "img": "https://th-i.thgim.com/public/incoming/s9toz/article71138989.ece/alternates/LANDSCAPE_1200/No-truth-in-repGEFF5OLNL.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/reject-2021-election-petition-as-tenure-of-16th-assembly-has-ended-duraimurugan-urges-madras-hc/article71138046.ece",
+    "time": "2026-06-23T16:53:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Women in A.P. will get free travel in AC buses soon, says Transport Minister",
+    "desc": "Government has prepared a comprehensive action plan to make 2026–27 a milestone year for technology, sustainability and expansion of public services in the transport sector, asserts Mandipalli Ramprasad Reddy; Special Chief Secretary rules out privatisation, allays fears of employees and labour unions",
+    "img": "https://th-i.thgim.com/public/incoming/8fmug6/article71138962.ece/alternates/LANDSCAPE_1200/10745_22_6_2026_22_5_1_1_IMG_20260622_WA0053.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/women-in-ap-will-get-free-travel-in-ac-buses-soon-says-transport-minister/article71138841.ece",
+    "time": "2026-06-23T16:44:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress urges Centre not to rush to sign trade pact with the U.S.",
+    "desc": "Congress general secretary Jairam Ramesh says Prime Minister should not give in to pressure from the U.S. He says the U.S. is using its probe into alleged unfair trade practices to pressure New Delhi into formalising the proposed agreement",
+    "img": "https://th-i.thgim.com/public/incoming/ic7emf/article71136286.ece/alternates/LANDSCAPE_1200/_KMK5264.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-must-stop-appeasing-good-friend-trump-india-must-not-sign-trade-pact-as-it-stands-congress/article71136238.ece",
+    "time": "2026-06-23T16:41:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "George Kurian resigns as Union Minister after RS tenure ends",
+    "desc": "Senior BJP leader from Kerala steps down as BJP did not renominate him in the recent election to the Upper House; he was the only Christian Minister in the NDA govt.; his resignation sets off speculation of a Cabinet reshuffle",
+    "img": "https://th-i.thgim.com/public/incoming/bnz3ih/article71136352.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-23%20at%2011.34.19.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/union-minister-george-kurian-resigns/article71136214.ece",
+    "time": "2026-06-23T16:38:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "DP hails ICC’s maternity return policy as a ‘landmark moment'",
+    "desc": "Deepika Padukone has welcomed the International Cricket Council’s (ICC) newly announced maternity return guidelines for women cricketers, calling it a “landmark moment for women in sport.” The actress shared a report about the initiative on her Instagram Stories and praised the move, which is aimed at helping women athletes return to professional cricket after childbirth.",
+    "img": "https://static.toiimg.com/photo/msid-131944122,imgsize-43809.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-hails-iccs-maternity-return-policy-as-a-landmark-moment-for-women-in-sport-amid-her-8-hour-work-shift-debate/articleshow/131944076.cms",
+    "time": "2026-06-23T16:37:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIT inspects Lucknow fire incident site; Congress alleges Uttar Pradesh government’s negligence responsible for tragedy",
+    "desc": "SIT members Amrit Abhijat, Additional Chief Secretary, Tourism and Culture Department, and Praveen Kumar, ADG, Lucknow Zone, conducted a detailed inspection of the entire building for over an hour in the morning; a team from the Uttar Pradesh Forensic Science Laboratory (FSL) also collected crucial evidence from the site",
+    "img": "https://th-i.thgim.com/public/incoming/6q2udt/article71138391.ece/alternates/LANDSCAPE_1200/20260623073L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/sit-inspects-lucknow-fire-incident-site-congress-alleges-uttar-pradesh-governments-negligence-responsible-for-tragedy/article71138057.ece",
+    "time": "2026-06-23T16:29:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stokes, Atkinson among the four changes made",
+    "desc": "England have recalled Ben Stokes, Gus Atkinson, Jamie Smith and Shoaib Bashir for the series-deciding third Test against New Zealand at Trent Bridge after a heavy defeat at The Oval levelled the series 1-1. Stokes and Atkinson return after missing the second Test for breaching team curfew, though both were cleared of violent conduct. Coach Brendon McCullum also dismissed rumours of a rift with Stokes.",
+    "img": "https://static.toiimg.com/photo/msid-131943905,imgsize-102072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-xi-vs-new-zealand-for-3rd-test-confirmed-ben-stokes-and-gus-atkinson-among-the-four-changes-made/articleshow/131943813.cms",
+    "time": "2026-06-23T16:28:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India–US trade deal may be signed before July 24: What’s done and remaining for agreement",
+    "desc": "India and the US are nearing a trade deal, with negotiators meeting in New Delhi to finalize an interim pact before July 24. Discussions aim to recalibrate the agreement following recent US tariff policy shifts. Both nations are pushing for a fair and reciprocal deal that benefits American exporters and supports India's growth, potentially involving significant Indian purchases from the US.",
+    "img": "https://static.toiimg.com/photo/msid-131943184,imgsize-32894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indiaus-trade-deal-may-be-signed-before-july-24-whats-done-and-remaining-for-agreement/articleshow/131943176.cms",
+    "time": "2026-06-23T16:04:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress seeks high-level probe in alleged Ujjain land scam by Mohan Yadav family",
+    "desc": "Leader of Opposition in the Madhya Pradesh Legislative Assembly said that the land prices were increased in a “well planned manner” by bringing projects there, and land was purchased in those areas before announcing the projects.",
+    "img": "https://th-i.thgim.com/public/incoming/d5nahp/article68461448.ece/alternates/LANDSCAPE_1200/Mohan%20Yadav%206.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/congress-seeks-high-level-probe-in-alleged-ujjain-land-scam-by-mohan-yadav-family/article71137467.ece",
+    "time": "2026-06-23T16:04:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arya Babbar reveals he contemplated suicide and survived it",
+    "desc": "Arya Babbar, son of veteran actor Raj Babbar and Nadira Babbar, has opened up about one of the darkest chapters of his life, revealing that he once contemplated suicide and that his standup comedy act is rooted in his struggle with depression and family dysfunction.",
+    "img": "https://static.toiimg.com/photo/msid-131942854,imgsize-36385.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arya-babbar-reveals-he-contemplated-suicide-standup-show-is-about-surviving-depression-i-want-to-stop-others-from-making-that-mistake/articleshow/131942808.cms",
+    "time": "2026-06-23T15:44:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Iran rushes to sell oil to India after Trump sanctions waiver",
+    "desc": "Data from Vortexa, combined with Bloomberg calculations, show that around 68 million barrels of crude and condensate were floating at sea as of June 22. More than 80% of that volume does not appear to have a confirmed destination, potentially making it available for sale.",
+    "img": "https://static.toiimg.com/photo/msid-131942709,imgsize-803301.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/iran-rushes-to-sell-oil-to-india-after-trump-sanctions-waiver-all-you-need-to-know/articleshow/131942601.cms",
+    "time": "2026-06-23T15:32:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "South cinema is buzzing with activity! Trisha Krishnan finally shared a heartwarming birthday post for Vijay, quelling online speculation. Meanwhile, Hrithik Roshan's Chennai visit fuels 'Jailer 2' cameo rumors. Ram Charan highlighted the revival of theatres thanks to recent blockbusters. Chiranjeevi gifted Samantha a saree after their film's success, and Mammootty arrived in Delhi to receive the Padma Bhushan.",
+    "img": "https://static.toiimg.com/photo/msid-131942695,imgsize-157242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnans-birthday-post-for-vijay-chiranjeevi-gifts-samantha-mammootty-receives-padma-bhushan-top-5-south-stories-of-the-day/articleshow/131942675.cms",
+    "time": "2026-06-23T15:32:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'His body is fragile': Ex-India star raises concern over Hardik Pandya's 2027 WC chances",
+    "desc": "Former India cricketer Mohammad Kaif expressed concern over Hardik Pandya's persistent fitness issues, highlighting a lack of transparency regarding his injuries. Kaif questioned Pandya's long-term availability for future tournaments, including the 2027 ODI World Cup. Meanwhile, Kaif supported the selectors' decision to pick Ishan Kishan over Yashasvi Jaiswal for the England ODI series, citing Kishan's versatility and current form.",
+    "img": "https://static.toiimg.com/photo/msid-131942575,imgsize-92128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/his-body-is-fragile-ex-india-star-raises-concern-over-hardik-pandyas-2027-odi-world-cup-chances/articleshow/131942546.cms",
+    "time": "2026-06-23T15:27:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shah directs Nafed, NCCF to eliminate middlemen, buy pulses and oilseeds directly from farmers",
+    "desc": "Union Minister Amit Shah has directed Nafed and NCCF to procure all pulses and oilseeds directly from farmers, eliminating middlemen and ensuring payments within 48 hours. This initiative aims to guarantee fair prices, boost pulse cultivation, and achieve self-reliance. Shah also announced a two-year deadline for this direct farmer-to-organization sales model and highlighted Nafed's new digital auction platform, scholarship program, and inventory management tools.",
+    "img": "https://static.toiimg.com/photo/msid-131942522,imgsize-886587.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shah-directs-nafed-nccf-to-eliminate-middlemen-buy-pulses-and-oilseeds-directly-from-farmers/articleshow/131942516.cms",
+    "time": "2026-06-23T15:24:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How hydration breaks are reshaping matches at the 2026 FIFA World Cup",
+    "desc": "FIFA’s mandatory hydration breaks at the World Cup, under the guise of player welfare, have sparked debate. While introduced for all matches regardless of weather and conditions, coaches and players argue they disrupt momentum and alter football’s rhythm. Beyond altering the game, the breaks also create significant advertising inventory for broadcasters with Fox Sports in the USA expected to rake in $250 million. At the end of the day, do the commercial interests outweigh the sporting considerations?",
+    "img": "https://static.toiimg.com/photo/msid-131935865,imgsize-922406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-hydration-breaks-are-tactical-tools-for-some-250-million-bonanza-for-others/articleshow/131935496.cms",
+    "time": "2026-06-23T15:23:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "76% health insurance reimbursement claimants face immediate financial burden: report",
+    "desc": "Ability to manage costs only with liquid savings dropped from 32% to 24% in 2024-25 while financial stress faced by insurance holders at the time of raising claims has gone up across all tiers of cities between 2023 and 2025, says consumer insights report by online marketplace Policybazaar",
+    "img": "https://th-i.thgim.com/public/incoming/crupvu/article71137725.ece/alternates/LANDSCAPE_1200/PO21_Health_insurance.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/76-health-insurance-reimbursement-claimants-face-financial-burden-upfront-report/article71137393.ece",
+    "time": "2026-06-23T15:15:46.000Z"
   },
   {
     "cat": "Politics",
     "title": "How Eknath Shinde’s 'Operation Tiger' has changed Maharashtra’s power dynamics",
     "desc": "Maharashtra's political scene is rapidly changing, as the recent defection of six Uddhav Sena MPs to Eknath Shinde's faction under 'Operation Tiger' highlights. This trend reflects a broader pattern seen in Trinamool Congress and AAP, where the anti-defection law is being sidestepped, and parties blatantly promote shifts in loyalty. The fear of the Samajwadi Party and the NCP being the next targets in this game of defections shows the vulnerability of regional parties in this political maneuvering.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "img": "https://static.toiimg.com/photo/msid-131941427,imgsize-1348487.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dhurnadhars-or-traitors-how-eknath-shindes-operation-tiger-has-changed-maharashtras-power-dynamics/articleshow/131940834.cms",
+    "url": "https://timesofindia.indiatimes.com/india/dhurandhar-or-traitors-how-eknath-shindes-operation-tiger-has-changed-maharashtras-power-dynamics/articleshow/131940834.cms",
     "time": "2026-06-23T14:30:47.000Z"
   },
   {
@@ -28,39 +190,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Kerala panel recommends coordinated, surveillance-driven approach to combat infectious diseases",
-    "desc": "Recommendations submitted to Health Minister K. Muraleedharan. Key measures include launching a three-month mosquito eradication campaign, establishing a Unified Public Health Command Centre for real-time disease monitoring, and addressing staffing shortages within the Health department to bolster epidemic control initiatives.",
-    "img": "https://th-i.thgim.com/public/incoming/p69y9r/article71138265.ece/alternates/LANDSCAPE_1200/2024-07-25T003920Z_1330719900_RC2G09AAP0PM_RTRMADP_3_GUATEMALA-DENGUE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-panel-recommends-coordinated-surveillance-driven-approach-to-combat-infectious-diseases/article71138003.ece",
-    "time": "2026-06-23T14:23:46.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "PM Modi calls on President Droupadi Murmu amid Cabinet reshuffle buzz",
     "desc": "Speculation is rife about a Union Cabinet reshuffle following Prime Minister Narendra Modi's meeting with President Droupadi Murmu. Recent appointments of Union ministers to key BJP organizational roles, coupled with the resignation of George Kurian and the non-renomination of Ravneet Singh to the Rajya Sabha, have intensified these discussions. These developments suggest potential changes within the government's ministerial ranks.",
     "img": "https://static.toiimg.com/photo/msid-131941005,imgsize-1120258.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/pm-modi-calls-on-president-droupadi-murmu-amid-cabinet-reshuffle-buzz/articleshow/131941020.cms",
     "time": "2026-06-23T14:23:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress seeks high-level probe in alleged Ujjain land scam by Mohan Yadav family",
-    "desc": "Leader of Opposition in the Madhya Pradesh Legislative Assembly said that the land prices were increased in a “well planned manner” by bringing projects there, and land was purchased in those areas before announcing the projects.",
-    "img": "https://th-i.thgim.com/public/incoming/d5nahp/article68461448.ece/alternates/LANDSCAPE_1200/Mohan%20Yadav%206.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/congress-seeks-high-level-probe-in-alleged-ujjain-land-scam-by-mohan-yadav-family/article71137467.ece",
-    "time": "2026-06-23T14:22:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vijay’s ‘party funds’ charge triggers assembly Showdown, DMK walks out",
-    "desc": "Chief Minister C. Joseph Vijay’s claim that misappropriated “party funds” from the previous regime were being recovered and returned to the treasury triggered a storm in the Tamil Nadu Assembly, prompting sharp protests from the DMK and a walkout by the Opposition.",
-    "img": "https://th-i.thgim.com/public/incoming/sxdao3/article71137630.ece/alternates/LANDSCAPE_1200/qatar.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/vijays-party-funds-charge-triggers-assembly-showdown-dmk-walks-out/article71138258.ece",
-    "time": "2026-06-23T14:21:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -178,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-baldonis-attorney-shares-how-one-call-led-to-settling-the-case-with-blake-lively-they-paid-nothing-for-the-remaining-claims/articleshow/131938565.cms",
     "time": "2026-06-23T13:08:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "76% health insurance reimbursement claimants face immediate financial burden: report",
-    "desc": "Ability to manage costs only with liquid savings dropped from 32% to 24% in 2024-25 while financial stress faced by insurance holders at the time of raising claims has gone up across all tiers of cities between 2023 and 2025, says consumer insights report by online marketplace Policybazaar",
-    "img": "https://th-i.thgim.com/public/incoming/crupvu/article71137725.ece/alternates/LANDSCAPE_1200/PO21_Health_insurance.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/76-health-insurance-reimbursement-claimants-face-financial-burden-upfront-report/article71137393.ece",
-    "time": "2026-06-23T13:08:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -360,15 +486,6 @@ const newsData_en = [
     "time": "2026-06-23T11:23:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Travis Kelce's USD 7 million real estate portfolio",
-    "desc": "Wedding rumours are swirling for Taylor Swift and Travis Kelce, with fans eager for details about their future home. Kelce recently purchased a lavish $6 million mansion in Leawood, Kansas City, featuring a two-level theatre, wine cellar, and a stunning pool area. This opulent residence is where the NFL star proposed to Swift amidst a floral garden, marking a significant chapter in their relationship.",
-    "img": "https://static.toiimg.com/photo/msid-131935838,imgsize-311993.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/inside-travis-kelces-usd-7-million-real-estate-portfolio-exploring-the-homes-taylor-swift-and-the-nfl-player-may-share-after-their-wedding/articleshow/131935789.cms",
-    "time": "2026-06-23T11:23:19.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Govt report flags concern over child abuse, fraud",
     "desc": "During the legal proceedings, Telegram faced accusations of failing to adequately curb misinformation spread through its channels, allegations the company has rejected. While the ban was lifted on Tuesday, users will remain unable to access the platform's message-editing feature until June 30. India is Telegram's largest market with more than 150 million users.",
@@ -376,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/trouble-mounts-for-telegram-govt-report-flags-concern-over-child-sex-abuse-fraud/articleshow/131935665.cms",
     "time": "2026-06-23T11:19:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kris Fade explains his decision to reject a dream job",
-    "desc": "Australian radio personality Kris Fade has turned down a dream job offer back home in Australia, choosing to remain in Dubai where he has lived for 19 years. Despite missing his homeland, Fade cited his established life, business commitments, and his daughters' schooling as key reasons for his decision. He hinted at significant future projects in Dubai, suggesting his career there is far from over.",
-    "img": "https://static.toiimg.com/photo/msid-131935521,imgsize-231199.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/australian-radio-star-kris-fade-explains-his-decision-to-reject-a-dream-job-ive-called-dubai-home/articleshow/131935592.cms",
-    "time": "2026-06-23T11:14:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Diljit Dosanjh and Sharvari starrer, ‘Main Vaapas Aaunga’ ending explained",
-    "desc": "Imtiaz Ali's 'Main Vaapas Aaunga' explores love at a deeper level, confronting the lingering effects of Partition on relationships. Keenu's promise to Jiya is fulfilled not through a reunion but via profound understanding. His grandson’s journey uncovers that Jiya cherished their love just as deeply, granting Keenu the long-sought closure, highlighting the theme of unwavering love that transcends distance and time.",
-    "img": "https://static.toiimg.com/photo/msid-131935525,imgsize-81838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjh-starrer-main-vaapas-aaunga-ending-explained-what-naseeruddin-shahs-emotional-final-scene-and-main-jaoon-really-mean/articleshow/131935487.cms",
-    "time": "2026-06-23T11:13:26.000Z"
   },
   {
     "cat": "Business",
@@ -468,15 +567,6 @@ const newsData_en = [
     "time": "2026-06-23T10:27:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘The monkey who reaches for every fruit rarely enjoys one’",
-    "desc": "Ancient wisdom, particularly from Buddhist narratives, cautions against the perils of unchecked desire. Comparable to a monkey frantically grasping at multiple fruits, pursuing countless opportunities may lead to dissatisfaction, causing us to miss out on present value. This age-old admonition, mirrored in proverbs across cultures, encourages mindful choices and focus to attain genuine fulfillment, advocating for a harmony between ambition and valuing what we already hold.",
-    "img": "https://static.toiimg.com/photo/msid-131933885,imgsize-198784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/proverb-of-the-day-from-jataka-tales-the-monkey-who-reaches-for-every-fruit-rarely-enjoys-one-a-proverb-on-focus-and-contentment/articleshow/131933756.cms",
-    "time": "2026-06-23T10:21:19.000Z"
-  },
-  {
     "cat": "World",
     "title": "Daily Quiz",
     "desc": "The Antarctic Treaty System, which came into force on June 23, 1961, remains one of the most ambitious international frameworks governing an entire continent. How well do you know the history of the treaties and territory of Antarctica?",
@@ -493,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-virat-kohli-or-rohit-sharma-jofra-archer-picks-this-india-star-as-the-toughest-batter-he-has-bowled-to/articleshow/131933614.cms",
     "time": "2026-06-23T10:14:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Engine of loot': Jairam Ramesh cites media report, alleges MP CM Mohan Yadav involved in corruption",
-    "desc": "\"Mohan Yadav, has become the mastermind of this loot. There is also talk that the \"farming of news\" against the chief minister has been orchestrated by the agriculture minister who went from MP to the center! It seems like infighting over the chair and shares in the loot,\" Congress leader Jairam Ramesh said in a post on X.",
-    "img": "https://static.toiimg.com/photo/msid-131933496,imgsize-117107.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/engine-of-loot-jairam-ramesh-cites-media-report-alleges-mp-cm-mohan-yadav-involved-in-corruption/articleshow/131931500.cms",
-    "time": "2026-06-23T10:13:00.000Z"
   },
   {
     "cat": "World",
@@ -567,15 +648,6 @@ const newsData_en = [
     "time": "2026-06-23T08:39:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pollution control papers may be valid for 3 years for new vehicles",
-    "desc": "The government is set to simplify the renewal process for Pollution Under Control Certificates (PUCC) for BSVI private vehicles. Cars that are up to six years old will now benefit from a three-year validity period, easing the burden on owners. However, older BSVI and BSIV models will face stricter regulations, requiring more frequent inspections. The new 'PUCC 3.",
-    "img": "https://static.toiimg.com/photo/msid-131931001,imgsize-126809.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pollution-control-papers-may-be-valid-for-3-years-for-new-vehicles/articleshow/131930884.cms",
-    "time": "2026-06-23T08:27:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pant returns to DC with Rs 12 crore cut; Kuldeep joins LSG",
     "desc": "The IPL confirmed the move on Tuesday, with Pant agreeing to a salary of Rs 15 crore, Rs 12 crore less than the record Rs 27 crore deal he received when he joined Lucknow Super Giants ahead of the 2025 season.",
@@ -610,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-allies-defend-him-to-israelis-anxious-over-iran-deal/article71136395.ece",
     "time": "2026-06-23T07:03:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Starstruck' by Sooryavanshi: Broad says 'he's even getting into sledging now'",
-    "desc": "Former England pacer Stuart Broad expressed immense excitement to witness 15-year-old Indian batting prodigy Vaibhav Sooryavanshi during the upcoming UK T20I series, admitting he might be starstruck. Sooryavanshi's record-breaking List-A fifty has propelled him into India's senior squad, drawing praise from Broad and Jos Buttler for his explosive talent and rapid rise, making him a significant challenge for England.",
-    "img": "https://static.toiimg.com/photo/msid-131928311,imgsize-122426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hes-even-getting-into-sledging-now-stuart-broad-admits-he-may-be-starstruck-by-vaibhav-sooryavanshi/articleshow/131928256.cms",
-    "time": "2026-06-23T07:02:35.000Z"
   },
   {
     "cat": "Business",
@@ -684,15 +747,6 @@ const newsData_en = [
     "time": "2026-06-23T05:11:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Will Ronaldo be benched vs Uzbekistan? Portugal coach drops hints before match day",
-    "desc": "Portugal's coach Roberto Martínez remained tight-lipped about Cristiano Ronaldo's starting position for the upcoming Uzbekistan match, following a subdued performance against Congo. Despite external criticism, Martínez defended his squad, emphasising unity and dismissing 'unfair' commentary. He highlighted Ronaldo's continued value in creating space and scoring opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-131925530,imgsize-147278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-will-ronaldo-be-benched-against-uzbekistan-portugal-coach-keeps-starting-xi-under-wraps/articleshow/131925539.cms",
-    "time": "2026-06-23T04:55:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Can music help you relax? India’s wellness labels think so",
     "desc": "As mental health discussions rise, music’s therapeutic potential is in question again, exploring its calming effects. The increasing popularity of wellness music festivals further underscores a collective yearning for deeper, transformative experiences in today’s fast-paced world",
@@ -709,15 +763,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/foundation-for-a-final-deal-us-hits-pause-on-iranian-oil-sanctions-after-nuclear-push/articleshow/131924894.cms",
     "time": "2026-06-23T04:26:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nitish Reddy ruled out of T20Is against Ireland; unlikely for England series too",
-    "desc": "It is learnt that Reddy's quadriceps injury, which kept him out of the 2nd ODI against Afghanistan in Lucknow, has flared up and requires attention before he can take the field again. He will miss the two-match T20I series against Ireland and England; remains doubtful for ODIs which follow.",
-    "img": "https://static.toiimg.com/photo/msid-131924929,imgsize-441850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/nitish-kumar-reddy-ruled-out-of-t20is-against-ireland/articleshow/131924939.cms",
-    "time": "2026-06-23T04:10:48.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/shrachi-rarh-tigers-win-bengal-t20-league-title-over-malda/article71132357.ece",
     "time": "2026-06-22T08:11:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why have India’s statistical databases been upgraded?",
-    "desc": "What key economic indicators have been revised? Why was an overhaul of the databases necessary? What changes were made to the national accounts and GDP estimates? How has the measurement of industrial output been improved? What changes have been made to India’s inflation indicators?",
-    "img": "https://th-i.thgim.com/public/incoming/e4juej/article71127215.ece/alternates/LANDSCAPE_1200/2026-06-01T111550Z_1786597117_RC2UOKAEVBZK_RTRMADP_3_INDIA-ECONOMY-INDUSTRIAL-PRODUCTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/why-have-indias-statistical-databases-been-upgraded-explained/article71127004.ece",
-    "time": "2026-06-22T05:52:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s GenNext pace battery – hungry, promising and effective",
-    "desc": "With two of the next three Test series in the subcontinent, the coaching group’s brief will revolve around keeping the quicks fresh, relevant and topped up skill-wise with the 50-over World Cup in southern Africa next year as the ultimate goal",
-    "img": "https://th-i.thgim.com/public/incoming/86773n/article71130502.ece/alternates/LANDSCAPE_1200/INDEX_ODI_AFGHANISTAN%20vs%20INDIA_34.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/indias-gennext-pace-battery-hungry-promising-and-effective/article71130503.ece",
-    "time": "2026-06-21T18:59:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026",
-    "desc": "The former champion puts behind the horrors of failing to break the deadlock against Cape Verde in the first round with a masterclass in control as it runs the Asian side ragged; Oyarzabal bags a brace and also sets up Yamal’s opener",
-    "img": "https://th-i.thgim.com/public/incoming/vpd9m0/article71130529.ece/alternates/LANDSCAPE_1200/APTOPIX_Saudi_Arabia_Spain_WCup_Soccer_7882_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-spain-finds-its-scoring-boots-again-as-it-slams-four-past-saudi-arabia/article71130527.ece",
-    "time": "2026-06-21T18:54:29.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "AI is helping patients understand cancer but misunderstand doctors",
-    "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
-    "img": "https://th-i.thgim.com/public/sci-tech/science/1qs3pd/article71100260.ece/alternates/LANDSCAPE_1200/angiola-harry-SJCalEw-1LM-unsplash.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
-    "time": "2026-06-21T10:16:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EU FTA puts India on a level playing field against competitors in labour-intensive sectors: chief negotiator",
-    "desc": "Chief negotiator Darpan Jain also said that, apart from an overall benefit to all States, the FTA provides sectoral benefits to several States such as Tamil Nadu, Andhra Pradesh, Karnataka, Kerala, Gujarat, Maharashtra, among others",
-    "img": "https://th-i.thgim.com/public/incoming/g5jl7d/article70561484.ece/alternates/LANDSCAPE_1200/2026-01-27T153953Z_2048715005_RC2J9JAG6OA1_RTRMADP_3_EU-TRADE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/eu-fta-puts-india-on-a-level-playing-field-against-competitors-in-labour-intensive-sectors-chief-negotiator/article70561289.ece",
-    "time": "2026-06-21T10:14:32.000Z"
   }
 ];
