@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Erling Haaland's double sends Norway into knockouts",
+    "desc": "Erling Haaland's sensational brace secured Norway's passage to the World Cup Round of 32 in a dramatic 3-2 win over Senegal. The prolific striker now boasts four goals in the tournament, keeping pace in the Golden Boot race. Norway's victory, their first World Cup qualification since 1998, sets up a crucial group decider against France.",
+    "img": "https://static.toiimg.com/photo/msid-131923269,imgsize-85228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/norway-vs-senegal-fifa-world-cup-match-result-erling-haalands-double-sends-norway-into-knockouts/articleshow/131923264.cms",
+    "time": "2026-06-23T02:40:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chiranjeevi meets Samantha after 'MIB' success",
+    "desc": "Chiranjeevi and his wife Surekha recently met with Samantha Ruth Prabhu and Raj Nidimoru to celebrate the success of Samantha's film 'Maa Inti Bangaaram'. The megastar congratulated the team and presented Samantha with gifts. The film has performed well at the box office, crossing Rs 25 crore worldwide, marking Samantha's return to cinema after three years. Nayanthara also sent her congratulations to Samantha.",
+    "img": "https://static.toiimg.com/photo/msid-131923246,imgsize-140858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevi-meets-samantha-ruth-prabhu-and-raj-nidimoru-after-maa-inti-bangaaram-success-megastar-gifts-saree-to-actress/articleshow/131923208.cms",
+    "time": "2026-06-23T02:36:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'm not spending time thinking about my age': Messi after rewriting World Cup history",
+    "desc": "Lionel Messi shattered FIFA World Cup records, becoming the all-time leading goalscorer and most victorious player just before his 39th birthday. Despite the milestones, Messi emphasised his focus remains on fitness and feeling good, not his age. He expressed uncertainty about playing in Argentina's next match but praised the team's competitive spirit, even after a missed penalty initially disrupted their rhythm.",
+    "img": "https://static.toiimg.com/photo/msid-131923136,imgsize-98836.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/im-not-spending-time-thinking-about-my-age-lionel-messis-message-before-turning-39-after-rewriting-world-cup-history/articleshow/131923142.cms",
+    "time": "2026-06-23T02:25:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Logan Lerman marries Ana Corrigan in LA ceremony",
+    "desc": "Actor Logan Lerman and Ana Corrigan have exchanged vows in a private Los Angeles ceremony. Screenwriter Kirsten Smith shared a glimpse of the celebration, congratulating the newlyweds. The couple, who kept their relationship largely out of the spotlight, announced their engagement in November 2023. Lerman previously recounted his romantic Central Park proposal, where he spontaneously asked Corrigan to marry him during a rowboat ride.",
+    "img": "https://static.toiimg.com/photo/msid-131923092,imgsize-132608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/logan-lerman-marries-longtime-partner-ana-corrigan-in-intimate-los-angeles-ceremony-kirsten-smith-shares-first-pics/articleshow/131922868.cms",
+    "time": "2026-06-23T02:19:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Messi scores from 20 yards, sets record for most goals in WC history",
+    "desc": "Messi reached the landmark in the 38th minute, just two days before his 39th birthday. With the strike, Messi scored in his sixth straight World Cup match, joining France's Just Fontaine and Brazil's Jairzinho as the only players to achieve that feat.",
+    "img": "https://static.toiimg.com/photo/msid-131922821,imgsize-3370256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/17-then-18-lionel-messi-finds-the-net-from-20-yards-sets-record-for-most-goals-in-fifa-world-cup-history-watch/articleshow/131922733.cms",
+    "time": "2026-06-23T01:36:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Martha Stewart remembers her friend Clive Davis",
+    "desc": "Legendary music executive Clive Davis, a titan of the industry, has passed away at 94. Martha Stewart, a close friend, shared a heartfelt tribute, remembering his immense influence and kindness. Davis, a five-time Grammy winner, discovered and nurtured generations of iconic artists, shaping popular music for over five decades. His family remembers him as both a global cultural force and a devoted father and grandfather.",
+    "img": "https://static.toiimg.com/photo/msid-131922665,imgsize-157102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/martha-stewart-pays-tribute-to-friend-clive-davis-recalls-him-as-the-kindest-most-thoughtful-and-caring-human-being/articleshow/131922634.cms",
+    "time": "2026-06-23T01:29:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mohanlal shares 'Kireedam' 4K trailer",
+    "desc": "Malayalam cinema icon Mohanlal has delighted fans with the release of the 4K restored trailer for the classic film 'Kireedam'. The 1989 emotional drama, celebrated for its powerful narrative and performances by Mohanlal, Thilakan, and Parvathy Jayaram, now boasts enhanced visuals and Dolby Atmos sound. This restoration has sparked widespread appreciation from audiences eager to revisit cinematic gems in pristine quality.",
+    "img": "https://static.toiimg.com/photo/msid-131922753,imgsize-75042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-shares-kireedam-4k-trailer-sibi-malayils-classic-returns-in-restored-glory-fans-say-its-beautifully-restored/articleshow/131922742.cms",
+    "time": "2026-06-23T01:23:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France win 3-0 as Mbappé scores brace on 100th cap; Dembele nets first WC goal",
+    "desc": "France defeated Iraq 3-0 in Philadelphia to secure their place in the FIFA World Cup 2026 knockout rounds, with Kylian Mbappe scoring twice on his 100th international appearance. The match was halted for 130 minutes due to severe thunderstorms and lightning at half-time. Ousmane Dembele also scored as France maintained a perfect group-stage record.",
+    "img": "https://static.toiimg.com/photo/msid-131922746,imgsize-171184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/france-vs-iraq-fifa-world-cup-match-result-les-bleus-win-3-0-as-mbapp-scores-brace-on-100th-cap-and-dembele-nets-first-world-cup-goal/articleshow/131922692.cms",
+    "time": "2026-06-23T01:20:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Cocktail 2' CRASHES on Monday; crosses Rs 85 crore mark",
+    "desc": "'Cocktail 2' starring Shahid Kapoor, Kriti Sanon, and Rashmika Mandanna experienced a significant box office drop on its first Monday, earning Rs 6.35 crore. Despite a strong opening weekend, the film saw a 64.2% decline. Total India net collections now stand at Rs 53.85 crore, with worldwide gross reaching Rs 85.31 crore. The sequel is already among Shahid Kapoor's top-grossing films.",
+    "img": "https://static.toiimg.com/photo/msid-131922723,imgsize-101482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/cocktail-2-box-office-collection-day-4-shahid-kapoor-kriti-sanon-and-rashmika-mandanna-starrer-sees-huge-drop-on-monday-crosses-rs-85-crore-worldwide/articleshow/131922636.cms",
+    "time": "2026-06-23T01:14:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Balan' BO day 4: Worldwide gross reaches Rs 17.53 Cr",
+    "desc": "The Boy,' directed by Chidambaram, faced a striking 60.3% decrease in earnings on its first Monday, collecting merely Rs 1.15 crore net by Day 4. Despite a promising start over the weekend, weekday performance has posed challenges. So far, the film has made Rs 8.22 crore net within India and Rs 17.53 crore worldwide, benefiting from significant international sales, especially in Kerala.",
+    "img": "https://static.toiimg.com/photo/msid-131922661,imgsize-197686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/balan-the-boy-box-office-collections-day-4-chidambarams-film-sees-sharp-monday-drop-worldwide-gross-reaches-rs-17-53-cr/articleshow/131922657.cms",
+    "time": "2026-06-23T00:58:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ex-aide hopeful Prince William and Prince Harry reconcile",
+    "desc": "A former aide to Princes Harry and William, Jamie Lowther-Pinkerton, expresses cautious hope for their reconciliation. Having served them for eight years, he highlights their courage and character, particularly their military service. As Harry prepares for a UK visit in July for the Invictus Games, Lowther-Pinkerton, now Prince George's godfather, remains optimistic about the brothers' future relationship despite their reported estrangement.",
+    "img": "https://static.toiimg.com/photo/msid-131922601,imgsize-105340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/former-royal-aide-says-prince-harry-and-prince-william-can-reconcile-im-a-perennial-optimist/articleshow/131922601.cms",
+    "time": "2026-06-23T00:48:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Peddi' BO day 19: Ram Charan starrer falls 70.6% on Monday",
+    "desc": "Ram Charan's 'Peddi' continued its theatrical run, earning Rs 83 lakhs net on its 19th day, a significant drop from its weekend performance. Despite the weekday slowdown, the film attracted audiences, with Telugu versions showing 18.27% occupancy. 'Peddi' has now amassed Rs 235.10 crore net domestically and Rs 331.10 crore worldwide, with Andhra Pradesh and Telangana contributing the most on Monday.",
+    "img": "https://static.toiimg.com/photo/msid-131922599,imgsize-353342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-box-office-collections-day-19-ram-charan-starrer-falls-70-6-on-monday-worldwide-gross-reaches-rs-331-10-crore/articleshow/131922591.cms",
+    "time": "2026-06-23T00:40:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Accomplice in Taylor Swift Vienna terror plot faces EXECUTION",
+    "desc": "An Austrian national, Hasan E, faces a potential death sentence in Saudi Arabia for a stabbing attack in Mecca, allegedly on behalf of ISIS. Authorities believe he was also linked to a foiled terror plot targeting Taylor Swift's Vienna concert. Prosecutors allege he conspired with individuals convicted in the Vienna case, with whom he reportedly shared a close, mentor-like relationship.",
+    "img": "https://static.toiimg.com/photo/msid-131922581,imgsize-524941.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/accomplice-in-taylor-swift-vienna-concert-terror-plot-faces-possible-death-penalty-in-saudi-arabia/articleshow/131922378.cms",
+    "time": "2026-06-23T00:34:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'MIB' BO day 4: Film drops on Monday",
+    "desc": "Samantha Ruth Prabhu's 'Maa Inti Bangaaram' has garnered a respectable Rs 27.20 crore net in India after four days. While the film saw a dip on Monday, its opening weekend collections were strong, reaching Rs 10.10 crore on Sunday. Overseas markets have pushed the worldwide gross to over Rs 46 crore, with the Telugu version driving most of the domestic business.",
+    "img": "https://static.toiimg.com/photo/msid-131922524,imgsize-249437.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/maa-inti-bangaaram-box-office-collections-day-4-samantha-ruth-prabhus-film-drops-on-monday-earns-rs-4-10-cr-net/articleshow/131922515.cms",
+    "time": "2026-06-23T00:20:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. Senate passes bipartisan housing bill aimed at increasing supply, lowering prices",
+    "desc": "The bill, which passed 85-5 and now heads to the House, has been the focus of intense negotiations in recent weeks as lawmakers in both parties try to address housing costs in an election year",
+    "img": "https://th-i.thgim.com/public/incoming/kv6wlg/article71135121.ece/alternates/LANDSCAPE_1200/2025-06-29T111215Z_1212138031_RC2BCFAXNFB4_RTRMADP_3_USA-CONGRESS-TAX.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-senate-passes-bipartisan-housing-bill-aimed-at-increasing-supply-lowering-prices/article71135117.ece",
+    "time": "2026-06-22T23:09:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothee and Selena to REUNITE after 10 yrs for 'Not Alone'",
+    "desc": "Hollywood stars Timothée Chalamet and Selena Gomez are lending their voices to Illumination's new animated alien adventure, 'Not Alone,' set for an April 2027 release. Chalamet plays a shy mechanic, while Gomez voices a botanist developing a plant-powered rocket. Their lives intertwine when three adorable aliens seek refuge, leading to unexpected romance and an interplanetary escape plan. The film also features a star-studded supporting cast.",
+    "img": "https://static.toiimg.com/photo/msid-131922278,imgsize-120772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamet-and-selena-gomez-to-reunite-after-10-years-stars-to-lend-their-voice-to-alien-animated-film-not-alone/articleshow/131920479.cms",
+    "time": "2026-06-22T23:05:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France vs Iraq becomes first weather-delayed match after severe thunderstorms and lightning halt play",
+    "desc": "France’s World Cup clash against Iraq became the tournament’s first weather-related suspension after severe thunderstorms and lightning halted play at half-time in Philadelphia. Kylian Mbappe’s early goal had put France ahead, but safety concerns took precedence as FIFA activated emergency protocols. The disruption underscores the logistical challenges of hosting a summer World Cup across North America’s unpredictable weather conditions.",
+    "img": "https://static.toiimg.com/photo/msid-131922261,imgsize-296492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-2026-world-cup-france-vs-iraq-becomes-first-weather-delayed-match-after-severe-thunderstorms-and-lightning-halt-play/articleshow/131922259.cms",
+    "time": "2026-06-22T22:53:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Record-Breaking Goal Rush: Goals surge 25% at 2026 FIFA World Cup; faster ball and 48 teams key",
+    "desc": "The 2026 FIFA World Cup is shaping up to be an exhilarating showdown, with a remarkable 25% increase in goal scores compared to the last tournament. Innovations in ball technology and prolonged match durations are driving this offensive surge. Key players from top leagues, including stars from Real Madrid and Liverpool, along with Lionel Messi's Inter Miami, are leading the scoreboard, anticipating record-breaking goal counts.",
+    "img": "https://static.toiimg.com/photo/msid-131922244,imgsize-205798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/goals-galore-super-ball-extra-time-and-expanded-field-trigger-record-breaking-goal-rush-at-world-cup-2026/articleshow/131922244.cms",
+    "time": "2026-06-22T22:37:34.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Has Brad Pitt secretly married girlfriend Ines de Ramon?",
     "desc": "Rumours are swirling that Brad Pitt and Ines de Ramon may have secretly tied the knot. Sources suggest the couple, together since 2022, are \"as good as married,\" with Pitt reportedly referring to de Ramon as his \"wife.\" While a formal wedding isn't a priority for Pitt, de Ramon is reportedly ready to make it official.",
@@ -25,6 +187,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/parliamentary-panel-visit-not-meant-to-assess-kashmir-situation-tharoor-after-remarks-draw-congresss-ire/article71133174.ece",
     "time": "2026-06-22T21:46:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Messi is a joke!’ : Rooney’s 14-year-old tweet resurfaces after Argentine's heroics",
+    "desc": "As Lionel Messi continues to bask in his 2026 World Cup glory, Wayne Rooney's 2012 tweet dubbing Messi a 'joke' yet the 'best ever' has resurfaced, stirring conversations among fans. Messi's remarkable two-goal game against Austria catapulted him to the position of all-time leading men’s World Cup scorer with 18 goals, breaking Klose's long-standing record, and prompting fans to celebrate Rooney's earlier prediction.",
+    "img": "https://static.toiimg.com/photo/msid-131920266,imgsize-62482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/messi-is-a-joke-wayne-rooneys-14-year-old-tweet-resurfaces-after-argentine-icons-record-breaking-world-cup-heroics/articleshow/131920266.cms",
+    "time": "2026-06-22T21:22:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -144,15 +315,6 @@ const newsData_en = [
     "time": "2026-06-22T17:16:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ajit Doval discusses ties with China FM, Middle East war with Iranian official",
-    "desc": "National Security Adviser Ajit Doval engaged in crucial bilateral talks with Chinese Foreign Minister Wang Yi and Iranian security official Ghadir Nezamipour during the BRICS NSA conclave in New Delhi. Discussions focused on normalizing India-China ties and the West Asian security situation. The expanded BRICS bloc grappled with geopolitical tensions and differing member priorities, highlighting the forum's growing influence and challenges.",
-    "img": "https://static.toiimg.com/photo/msid-131915807,imgsize-1073519.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/brics-security-meet-in-delhi-ajit-doval-discusses-ties-with-china-fm-middle-east-war-with-iranian-official/articleshow/131915306.cms",
-    "time": "2026-06-22T17:04:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Samantha's pregnancy comes at a beautiful time: Nandini Reddy",
     "desc": "Director Nandini Reddy has seemingly put an end to speculation surrounding Samantha Ruth Prabhu's pregnancy. While fans had been discussing the actress' recent appearance at the success celebration of Maa Inti Bangaaram, Nandini's comments have now brought the personal milestone into the spotlight.",
@@ -226,15 +388,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "South cinema buzzed with activity as Tamil Nadu CM Vijay's birthday saw widespread wishes. Singer Gowry Lekshmi tied the knot, sharing joyous wedding pictures. Nayanthara sent heartfelt congratulations to Samantha for her film's success. Meanwhile, leaked stills of Dhanush and Sreeleela from 'OM' sparked fan excitement, and Ajith's rare Father's Day family photos charmed audiences.",
-    "img": "https://static.toiimg.com/photo/msid-131914060,imgsize-131162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/from-vijays-birthday-celebrations-nayanthara-wishing-samantha-to-dhanushs-om-leaked-stills-top-5-south-stories-of-the-day/articleshow/131914039.cms",
-    "time": "2026-06-22T15:40:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Aamir reacts to wedding frenzy with Gauri, wonders how date leaked",
     "desc": "Aamir Khan is all set to begin a new chapter in his life with partner Gauri Spratt. While the actor recently confirmed that the two will tie the knot on July 5, he has now opened up about the overwhelming interest surrounding the wedding, the leak of the wedding date, and the happiness Gauri has brought into his life.",
     "img": "https://static.toiimg.com/photo/msid-131914030,imgsize-66389.cms",
@@ -252,15 +405,6 @@ const newsData_en = [
     "time": "2026-06-22T15:15:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Chef reveals Virat's strict diet after embracing vegetarianism inspired by Anushka",
-    "desc": "Celebrity chef Arun Chauhan revealed Virat Kohli's significant dietary transformation, moving from a 'complete foodie' who loved non-veg dishes to a strict vegetarian, bordering on vegan. Influenced by wife Anushka Sharma's compassion for animals, Kohli now prioritizes health with salads and tofu, aiming for virtually zero body fat. This shift, he states, has been one of his best decisions.",
-    "img": "https://static.toiimg.com/photo/msid-131913759,imgsize-284059.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celebrity-chef-reveals-virat-kohlis-strict-zero-fat-diet-after-embracing-vegetarianism-inspired-by-anushka-sharma-he-loved-chhole-bhature-rajma-chawal-but-now-/articleshow/131913163.cms",
-    "time": "2026-06-22T15:14:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street holds near record highs as oil prices ease on US-Iran deal hopes",
     "desc": "Indian markets mirrored global trends as US stocks hovered near record highs, buoyed by easing oil prices and positive US-Iran talks. While tech stocks saw a dip, optimism surrounding AI and potential interest rate hikes kept investors engaged. Key inflation data and corporate deals, like AbbVie's acquisition, also shaped market sentiment, with Asian markets hitting new peaks.",
@@ -268,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-markets-today-wall-street-holds-near-record-highs-as-oil-prices-ease-on-us-iran-deal-hopes/articleshow/131912624.cms",
     "time": "2026-06-22T14:55:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arulnithi's 'Demonte Colony 3' release date announced",
-    "desc": "Get ready for 'Demonte Colony 3'! Arulnithi's highly anticipated horror thriller is set to unleash terror worldwide on September 11, 2026. Filmed across international locales like Portugal and Leh-Ladakh, the movie promises a grander, global horror experience. Director Ajay Gnanamuthu's vision aims to captivate audiences everywhere with thrills and nightmares. Fans are buzzing with excitement for this next installment.",
-    "img": "https://static.toiimg.com/photo/msid-131912756,imgsize-215958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/demonte-colony-3-release-date-announced-arulnithis-horror-thriller-to-hit-screens-onthis-date-in-september/articleshow/131912732.cms",
-    "time": "2026-06-22T14:55:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Shekhar Suman got twice the amount I got, despite being the highest paid actress,' recalls Pallavi",
-    "desc": "Actress-producer Pallavi Joshi has shed light on the stark gender pay gap in 1990s Indian television. Despite being a top-tier actress, she reveals she earned half of what her male counterpart, Shekhar Suman, did, even when both were considered the highest-paid stars. This disparity highlights the unequal compensation faced by women in the industry during that era, even for highly sought-after performers.",
-    "img": "https://static.toiimg.com/photo/msid-131912540,imgsize-287729.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-suman-got-twice-the-amount-i-got-despite-being-the-highest-paid-television-actress-recalls-pallavi-joshi-as-she-opens-up-on-gender-pay-gap/articleshow/131912487.cms",
-    "time": "2026-06-22T14:39:11.000Z"
   },
   {
     "cat": "Sports",
@@ -304,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/non-transparency-post-claim-investigation-of-proposals-main-triggers-of-dis-satisfaction-in-health-inusrance/articleshow/131912146.cms",
     "time": "2026-06-22T14:28:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Shinde has undergone Caesarean, gave birth to 6 traitors': Sanjay Raut's latest rant as UBT rebels join Shiv Sena",
-    "desc": "Shiv Sena (UBT) leader Sanjay Raut has sharply criticized Maharashtra deputy chief minister Eknath Shinde, accusing him of \"giving birth to traitors\" after six rebel Lok Sabha MPs joined Shinde's faction. Raut's remarks, including a reference to a \"Cesarean surgery,\" came as Shinde declared \"Operation Tiger complete\" following the induction of the MPs. This marks another significant split within the Uddhav Thackeray camp.",
-    "img": "https://static.toiimg.com/photo/msid-131912230,imgsize-1029542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shinde-has-undergone-caesarean-gave-birth-to-6-traitors-sanjay-rauts-latest-rant-as-ubt-rebels-join-shiv-sena/articleshow/131911568.cms",
-    "time": "2026-06-22T14:21:43.000Z"
   },
   {
     "cat": "Sports",
@@ -342,51 +459,6 @@ const newsData_en = [
     "time": "2026-06-22T14:00:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bhagyashri Borse drops hint on her relationship with Ram Pothineni",
-    "desc": "Actress Bhagyashri Borse has sparked fresh speculation about her relationship with 'Andhra King Taluka' co-star Ram Pothineni. During a recent interview, Borse referred to Hyderabad as her 'second home,' a comment fans are interpreting as a hint towards a deeper connection with the Telugu film industry and potentially Pothineni. While neither actor has confirmed the rumors, Borse's statement has fueled ongoing fan discussions.",
-    "img": "https://static.toiimg.com/photo/msid-131911615,imgsize-144688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bhagyashri-borse-drops-curious-hint-on-her-relationship-with-her-andhra-king-taluka-co-star-ram-pothineni/articleshow/131911595.cms",
-    "time": "2026-06-22T13:58:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Tragic loss': 12 Indians among 13 killed in Qatar gas plant explosion",
-    "desc": "A tragic industrial accident at Qatar's Ras Laffan gas facility has claimed at least 13 lives, including Indian nationals, and injured 66. The blast at the Barzan gas supply facility, ruled an accident, occurred Sunday night. Despite the incident, Qatar's energy minister assured that domestic needs and LNG exports remain unaffected, though repairs will take time.",
-    "img": "https://static.toiimg.com/photo/msid-131912561,imgsize-955631.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tragic-loss-indians-among-13-killed-in-qatar-gas-plant-explosion/articleshow/131911659.cms",
-    "time": "2026-06-22T13:57:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who will win Wimbledon 2026? Tennis legend Bopanna gives predictions",
-    "desc": "Rohan Bopanna has backed defending champion Jannik Sinner and Elena Rybakina to win the Wimbledon 2026 singles titles. The Indian doubles veteran also reflected on his lifelong love for Wimbledon, calling it a dream tournament. With Novak Djokovic chasing a 25th Grand Slam and Iga Swiatek aiming for a successful title defence, Bopanna expects another highly competitive edition.",
-    "img": "https://static.toiimg.com/photo/msid-131911572,imgsize-139698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/who-will-win-wimbledon-2026-indian-tennis-legend-rohan-bopanna-gives-predictions/articleshow/131911393.cms",
-    "time": "2026-06-22T13:56:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shatrughan Sinha says he benefitted from working with Bachchan, Jeetendra",
-    "desc": "Veteran actor Shatrughan Sinha reminisced about his film career on Indian Idol, highlighting his strong bond with Amitabh Bachchan and Jeetendra. Sinha praised their camaraderie and support, noting how working with them enhanced his comedic timing. Despite past industry rumors of rivalry with Bachchan, Sinha emphasized their mutual respect and successful collaborations over the years, including films like 'Dostana' and 'Shaan'.",
-    "img": "https://static.toiimg.com/photo/msid-131911464,imgsize-310707.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shatrughan-sinha-says-he-benefitted-from-working-with-amitabh-bachchan-and-jeetendra-mere-sense-of-humour-mein-jyada-nikhaar-aagaya/articleshow/131911468.cms",
-    "time": "2026-06-22T13:46:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is Rakhi returning to Samay's India's Got Latent Season 2?",
-    "desc": "Rakhi Sawant is reportedly set to appear on India's Got Latent Season 2, and fans are already excited. Her previous appearance in Episode 12 of Season 1 became one of the most viral moments of the show. Rakhi and Samay Raina were also recently spotted together, fuelling the speculation further.",
-    "img": "https://static.toiimg.com/photo/msid-131911444,imgsize-213475.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-rakhi-sawant-returning-to-samay-rainas-indias-got-latent-season-2-heres-what-we-know-so-far/articleshow/131911444.cms",
-    "time": "2026-06-22T13:44:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBI sold nearly $9 billion in forex spot market in April amid rupee pressure",
     "desc": "The Reserve Bank of India actively intervened in the forex market, selling $8.944 billion in April to bolster the rupee. This follows similar actions in March, as the currency faced pressure from global tensions and investor outflows. However, the rupee showed signs of recovery in June, aided by policy measures and easing geopolitical concerns.",
@@ -394,60 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-sold-nearly-9-billion-in-forex-spot-market-in-april-amid-rupee-pressure/articleshow/131911335.cms",
     "time": "2026-06-22T13:40:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shoba reveals Vijay's first question to his father, SA Chandrasekhar",
-    "desc": "Following his swearing-in as Tamil Nadu Chief Minister in May 2026, Joseph Vijay shared an emotional moment with his father, S.A. Chandrasekhar. His mother, Shoba, revealed Vijay's first question was, \"Have I finally fulfilled your dream?\" Chandrasekhar's affirmative nod signified the culmination of a long-held political aspiration for his son, who navigated public scrutiny to achieve this milestone.",
-    "img": "https://static.toiimg.com/photo/msid-131911179,imgsize-114290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/shoba-reveals-vijays-first-question-to-his-father-sa-chandrasekhar-after-swearing-in-as-tamil-nadu-cm/articleshow/131911147.cms",
-    "time": "2026-06-22T13:32:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Sorry, Universe Boss': Pollard's message after breaking Gayle's T20 record",
-    "desc": "Kieron Pollard has etched his name in T20 history, surpassing Chris Gayle to become the format's leading run-scorer during Major League Cricket 2026. The West Indian veteran achieved this milestone with an unbeaten century, accumulating 14,582 runs. Pollard highlighted the unique challenge of his middle-order role, expressing pride in his generation's embrace of franchise cricket, which has now become a global phenomenon.",
-    "img": "https://static.toiimg.com/photo/msid-131910975,imgsize-1446410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/sorry-universe-boss-kieron-pollards-message-after-breaking-chris-gayles-t20-record/articleshow/131910896.cms",
-    "time": "2026-06-22T13:20:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NSA Ajit Doval holds talks with Iran's top security official amid Middle East tensions",
-    "desc": "National Security Adviser Ajit Doval met with Iran's deputy defense secretary Ghadir Nezamipour in New Delhi, discussing the Middle East's security landscape, BRICS cooperation, and bilateral ties. This meeting occurred on the sidelines of the 16th BRICS National Security Advisers' Meeting, which India is hosting. Discussions also touched upon global challenges, terrorism, and the evolving nature of security threats.",
-    "img": "https://static.toiimg.com/photo/msid-131910927,imgsize-53834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nsa-ajit-doval-holds-talks-with-irans-top-security-official-amid-middle-east-tensions/articleshow/131910854.cms",
-    "time": "2026-06-22T13:16:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akansha about wrestling with the fear of her career ending at 28",
-    "desc": "Akansha Ranjan Kapoor opened up about her egg freezing journey and Bollywood's ageist culture, saying \"I always feel like I'm losing out on time.\" However, she found peace with her journey, saying \"I can start at 35 and bloom at 45.\" She is currently awaiting the release of 'Gram Chikitsalay 2'.",
-    "img": "https://static.toiimg.com/photo/msid-131910897,imgsize-163936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akansha-ranjan-kapoor-opens-up-about-wrestling-with-the-fear-of-her-career-ending-at-28-cant-say-acting-karungi-aur-mar-jaungi/articleshow/131910897.cms",
-    "time": "2026-06-22T13:12:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunil Pal hits back at Samay over his brush joke",
-    "desc": "Sunil Pal fired back at Samay Raina after he revived his \"aap brush kyun nahi karte?\" joke at the premiere of India's Got Latent Season 2. Sunil responded with a witty Instagram reel, saying \"tere muh se itni gandagi kyun nikalti hai?\" Meanwhile, the show has topped Netflix India charts.",
-    "img": "https://static.toiimg.com/photo/msid-131910096,imgsize-198849.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tere-muh-se-itni-gandagi-kyun-nikalti-hai-sunil-pal-hits-back-at-samay-raina-over-his-brush-joke-on-indias-got-latent-season-2/articleshow/131910096.cms",
-    "time": "2026-06-22T12:55:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dia Mirza recalls working 28-hour shifts without scripts as newcomer",
-    "desc": "Dia Mirza recently shared her challenging Bollywood beginnings, revealing grueling 24-28 hour workdays and being cast in multiple films without complete scripts. Unlike many trained actors, she was immediately thrown into projects, learning on the fly. Despite the tough start, her debut film 'Rehnaa Hai Terre Dil Mein' has become a cult classic. Mirza's next project, 'Ikka', a courtroom drama, is set to release on Netflix on July 10.",
-    "img": "https://static.toiimg.com/photo/msid-131909991,imgsize-519818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-recalls-working-28-hour-shifts-without-scripts-as-newcomer-in-bollywood-seedha-5-picturon-mein-kaam-karne-bhej-diya/articleshow/131909964.cms",
-    "time": "2026-06-22T12:50:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,13 +477,13 @@ const newsData_en = [
     "time": "2026-06-22T12:49:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda reflects on his theatre days",
-    "desc": "Telugu star Vijay Deverakonda fondly recalls his theatre days, emphasizing his eagerness for any performance opportunity to hone his craft. He credits the stage for building his confidence, discipline, and passion for acting, stating it was a crucial foundation for his successful film career. Deverakonda believes theatre liberates actors, making them more expressive and fearless, lessons that continue to shape his performances today.",
-    "img": "https://static.toiimg.com/photo/msid-131909930,imgsize-130656.cms",
+    "cat": "Sports",
+    "title": "Yamal sparks Spain, minnows stun giants; Ronaldo fandom turns toxic",
+    "desc": "Day 11 saw Lamine Yamal channel Johan Cruyff’s ghost, Egypt and King Salah win their first World Cup game, while Ronaldo fanboys gave us a glimpse of the dark side of football. Also, a brand-new Meme Watch section. Read this and more in today’s Offside.",
+    "img": "https://static.toiimg.com/photo/msid-131909075,imgsize-342368.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-reflects-on-his-theatre-days-says-i-needed-any-opportunity-to-perform/articleshow/131909893.cms",
-    "time": "2026-06-22T12:45:39.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/offside-day-11-of-world-cup-2026-lamin-yamal-restores-spains-soul-cape-verdes-fairytale-run-continues-and-ronaldo-fanboys-go-full-toxic/articleshow/131909028.cms",
+    "time": "2026-06-22T12:41:36.000Z"
   },
   {
     "cat": "Sports",
@@ -567,15 +585,6 @@ const newsData_en = [
     "time": "2026-06-22T11:50:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Jay Shah says motherhood should not end cricket careers as ICC introduces new guidelines",
-    "desc": "The ICC has introduced new post-pregnancy return-to-play guidelines to help female cricketers continue their careers after childbirth. The framework includes a six-step recovery model and support measures such as flexible training and childcare assistance. ICC chairman Jay Shah said the initiative reflects the governing body's commitment to ensuring women can thrive both on and off the field.",
-    "img": "https://static.toiimg.com/photo/msid-131908279,imgsize-56620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jay-shah-says-motherhood-should-not-end-cricket-careers-icc-introduces-new-guidelines/articleshow/131908190.cms",
-    "time": "2026-06-22T11:30:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How crude price crash could turn the tide for India's state-owned oil giants",
     "desc": "State-run oil companies are poised for improved profits as falling crude prices boost fuel marketing margins. While recent excise duty cuts have aided this recovery, rising debt and potential future tax hikes pose risks to long-term earnings. Analysts anticipate stronger performance from the second quarter, with BPCL and IOC seen as top beneficiaries if oil prices remain subdued.",
@@ -612,24 +621,6 @@ const newsData_en = [
     "time": "2026-06-22T10:32:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Speed up your calculation': Gukesh advised ahead of World C'ship match",
-    "desc": "Ahead of his world title defence against Javokhir Sindarov, D Gukesh has been advised by Grandmaster Krishnan Sasikiran to improve his speed, technique and handling of time pressure. Sasikiran warned that Sindarov is highly prepared and fast-paced, but said Gukesh's previous world championship experience could prove crucial in what promises to be a tough contest.",
-    "img": "https://static.toiimg.com/photo/msid-131905678,imgsize-120138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/speed-up-your-calculation-d-gukesh-advised-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/131905404.cms",
-    "time": "2026-06-22T09:46:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Messi's Argentina, Mbappe's France in focus as final dash for knockouts begins",
-    "desc": "The FIFA World Cup 2026 is entering a thrilling group stage finale with 42 nations vying for 29 spots in the Round of 32. Only USA, Mexico, and Germany have secured early qualification, while Haiti, Turkiye, and Tunisia are out. Powerhouses like Argentina, France, England, and Portugal are still fighting for advancement. The week promises intense competition and simultaneous matches as the knockout picture takes shape.",
-    "img": "https://static.toiimg.com/photo/msid-131905642,imgsize-235868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-schedule-of-the-week-june-22-28-2026-messis-argentina-mbappes-france-in-focus-as-final-dash-for-knockout-spots-begins/articleshow/131904633.cms",
-    "time": "2026-06-22T09:44:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "20% DA hike, 1 lakh jobs in BJP government's first budget",
     "desc": "West Bengal's new BJP government has unveiled its inaugural budget, prioritizing welfare and employment. Key announcements include a significant Dearness Allowance hike for state employees, the creation of one lakh government jobs, and a substantial Rs 36,000 crore direct cash transfer scheme for women. The budget also proposes infrastructure development and support for various worker categories, aiming to restore fiscal discipline and public trust.",
@@ -646,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/record-buys-from-russia-stocking-up-on-crude-how-india-is-managing-its-oil-supply-amid-hormuz-closure-us-iran-conflict/articleshow/131904397.cms",
     "time": "2026-06-22T08:36:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Zyada soch mat’: Sooryavanshi reveals coach’s message before record-breaking knock in final",
-    "desc": "Teenage sensation Vaibhav Sooryavanshi bounced back from a lean patch to smash a record-breaking 94 off 29 balls in the Tri-Series final against Sri Lanka A. A pep talk from coach Hrishikesh Kanitkar encouraged him to play his natural game, leading to the fastest List A half-century ever. His explosive innings secured the title for India A, showcasing his immense talent despite earlier scrutiny.",
-    "img": "https://static.toiimg.com/photo/msid-131904419,imgsize-121045.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/zyada-soch-mat-vaibhav-sooryavanshi-reveals-coachs-message-before-record-breaking-knock-in-tri-series-final/articleshow/131904387.cms",
-    "time": "2026-06-22T08:24:58.000Z"
   },
   {
     "cat": "Sports",
@@ -702,15 +684,6 @@ const newsData_en = [
     "time": "2026-06-22T03:45:51.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stock recommendations for June 22, 2026 week",
-    "desc": "Motilal Oswal Wealth Management Research Desk has picked State Bank of India (SBI), and Bharat Electronics as the top stocks to buy for the week starting June 22, 2026. Target prices and upside targets have been given:",
-    "img": "https://static.toiimg.com/photo/msid-131900606,imgsize-401838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-june-22-2026-week-state-bank-of-india-sbi-bharat-electronics-stocks-to-buy-today/articleshow/131900591.cms",
-    "time": "2026-06-22T03:34:40.000Z"
-  },
-  {
     "cat": "World",
     "title": "Who is Abelardo De La Espriella, Colombia's new right-wing President?",
     "desc": "Nicknamed “The Tiger” by his followers, Mr. De La Espriella portrayed himself as an anti-establishment savior capable of reviving Colombia’s ailing economy and restoring order in a country rattled by illegal armed groups and drug trafficking",
@@ -718,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/who-is-abelardo-de-la-espriella-colombias-new-right-wing-president/article71131580.ece",
     "time": "2026-06-22T03:19:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nykaa, Bajaj Finance &amp; more: Top stocks to watch on June 22",
-    "desc": "Top financial analysts are optimistic about the prospects of various Indian firms. Bajaj Finance showcases remarkable resilience against economic challenges with its solid asset quality and positive margin outlook. Varun Beverages plans to diversify its product lineup via a strategic partnership. Nykaa is targeting impressive revenue and EBITDA increases by 2030, tapping into changing consumer behaviors.",
-    "img": "https://static.toiimg.com/photo/msid-131900037,imgsize-56900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nykaa-bajaj-finance-more-top-stocks-to-watch-on-june-22/articleshow/131899646.cms",
-    "time": "2026-06-22T02:27:30.000Z"
   },
   {
     "cat": "World",
@@ -783,15 +747,6 @@ const newsData_en = [
     "time": "2026-06-21T15:51:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Stokes — the problem child",
-    "desc": "Each time he was in the dock, the star all-rounder dug deep to come back stronger, endearing himself to England’s historically unforgiving cricketing populace; the fact that Brook has been overlooked and the captaincy returned to Root, if only on a temporary basis, reiterates how shaken the mandarins at the ECB are at the latest turn of events",
-    "img": "https://th-i.thgim.com/public/incoming/lepm3m/article71129365.ece/alternates/LANDSCAPE_1200/Britain_England_New_Zealand_Cricket_65345.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/stokes-the-problem-child/article71090599.ece",
-    "time": "2026-06-21T12:52:33.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "AI is helping patients understand cancer but misunderstand doctors",
     "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
@@ -810,15 +765,6 @@ const newsData_en = [
     "time": "2026-06-21T10:14:32.000Z"
   },
   {
-    "cat": "World",
-    "title": "Group of Seven",
-    "desc": "The grouping of industrialised nations, founded in the 1970s, has weathered major geopolitical storms across the 20th and 21st centuries to remain a key forum for discussions and decision-making on global conflicts and economic challenges",
-    "img": "https://th-i.thgim.com/public/incoming/2gkbro/article71126952.ece/alternates/LANDSCAPE_1200/France_G7_Summit_21155.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/group-of-seven-a-platform-for-the-globalised-elite/article71126956.ece",
-    "time": "2026-06-21T07:13:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India is now fourth largest economy, says govt.",
     "desc": "The government says that with the GDP valued at $4.18 trillion, “India has surpassed Japan to become the world’s fourth largest economy”, it says that the country is “poised to displace Germany from the third rank” with a projected GDP of $7.3 trillion by 2030",
@@ -826,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-is-now-fourth-largest-economy-says-govt/article70454619.ece",
     "time": "2026-06-21T06:20:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What does the U.S.-Iran agreement say?",
-    "desc": "What are the main provisions of the U.S.-Iran memorandum of understanding signed on June 15? What commitments have the two countries made under the deal regarding nuclear activities and sanctions? How does the issue of Iran’s frozen assets feature in the agreement? Why is Israel opposed to the agreement? What are the main sticking points?",
-    "img": "https://th-i.thgim.com/public/incoming/4ow8gv/article71127219.ece/alternates/LANDSCAPE_1200/Iran_War_65556.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-does-the-us-iran-agreement-say-explained/article71127001.ece",
-    "time": "2026-06-21T05:24:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/telegram-delhi-hc-hearing-government-neet-retest-restrictions/article71117255.ece",
     "time": "2026-06-18T20:21:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Boong’s quiet reckoning with patriarchal injustice",
+    "desc": "Beyond the engaging drama of a boy’s longing for his long-missing father, the film touches upon the complex gender dynamics of Manipuri society; it also compels viewers to pause and reflect on the deeply embedded patriarchal structures, urging much-needed social introspection",
+    "img": "https://th-i.thgim.com/public/incoming/yg37xu/article71119321.ece/alternates/LANDSCAPE_1200/IMG_Boong_2_1_0OFLKV81.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/silent-scream-that-lingers-boongs-quiet-reckoning-with-patriarchal-injustice/article71117921.ece",
+    "time": "2026-06-18T18:04:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Connecting oceans, across an isthmus",
+    "desc": "The Panama Canal might have been officially opened for business on August 15, 1914, but there were many firsts leading up to it, including one on June 8, when the S.S. Alliance became the first ocean going vessel to make lockage at the canal. A.S.Ganesh takes a look at various aspects of this canal and what makes it still tick, more than 110 years later…",
+    "img": "https://th-i.thgim.com/public/incoming/24d9at/article71028361.ece/alternates/LANDSCAPE_1200/2026-03-25T015052Z_289505356_RC25BKA7CLVS_RTRMADP_3_PANAMA-CANAL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/panama-canal-connecting-oceans-across-an-isthmus/article71028353.ece",
+    "time": "2026-06-18T11:15:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raja Ravi Varma’s Little Prince of Courage among highlights of AstaGuru’s Collectors’ Choice auction",
+    "desc": "AstaGuru’s Collectors’ Choice auction will be held online Taking place online on June 22 and 23, AstaGuru’s Collectors’ Choice auction and features rare and significant works by Raja Ravi Varma, MF Husain, Ganesh Pyne, FN Souza, Ram Kumar and other masters of Indian art",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/vh46u1/article71112656.ece/alternates/LANDSCAPE_1200/51.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/art/raja-ravi-varmas-little-prince-of-courage-among-highlights-of-astagurus-collectors-choice-auction/article71112648.ece",
+    "time": "2026-06-18T09:41:47.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chairman Chandrasekaran",
+    "desc": "“I predict that over the next 3 years, TCS will have as many AI agents as human employees. What we build in this next chapter - for our clients, for India, and for you - will be the most consequential work this company has ever done,” TCS chairman N. Chandrasekaran said",
+    "img": "https://th-i.thgim.com/public/incoming/tdzmz5/article71081412.ece/alternates/LANDSCAPE_1200/2026-06-09T080218Z_199016916_RC28QLAWISQE_RTRMADP_3_TCS-AI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/tcs-will-have-as-many-ai-agents-as-human-employees-in-3-years-chairman/article71081273.ece",
+    "time": "2026-06-16T07:57:07.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];

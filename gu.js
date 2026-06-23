@@ -504,15 +504,6 @@ const newsData_gu = [
     "time": "2026-06-19T16:10:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "કચ્છથી લઈને જામનગર સુધી રિલાયન્સનું ગ્રીન સામ્રાજ્ય : મુકેશ અંબાણીએ કરી મોટી જાહેરાતો",
-    "desc": "રિલાયન્સ ઇન્ડસ્ટ્રીઝની 49મી AGMમાં મુકેશ અંબાણીએ જિયો પ્લેટફોર્મ્સના IPO માટે DRHP ફાઇલ કરવાની મોટી જાહેરાત કરી છે. આ સાથે કંપની ગૂગલ, મેટા અને એનવીડિયાના સહયોગથી જામનગરમાં વિશ્વનું સૌથી મોટું ગ્રીન-એનર્જી સંચાલિત 'રિલાયન્સ ઇન્ટેલિજન્સ' AI ઇન્ફ્રાસ્ટ્રક્ચર અને ગીગા ફેક્ટરીઓ સ્થાપશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/reliance-green-empire-from-kutch-to-jamnagar-mukesh-ambani-makes-big-announcements-482018 ",
-    "time": "2026-06-19T15:19:17.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "શું ACના આઉટડોર યુનિટ પર પાણી નાખવાથી ખરેખર ઘટે છે વીજળીનું બિલ? જાણો સત્ય",
     "desc": "શું તમારુ AC કાળઝાળ ગરમીમાં તમારા રૂમને ઠંડક આપી શકતું નથી? તમે માત્ર આઉટડોર કોમ્પ્રેસર યુનિટ પર પાણીની એક ડોલ નાખીને કેવી રીતે ઠંડક વધારી શકો છો અને વીજળીનું બિલ પણ ઘટાડી શકો છો તે જાણો. અહીં સંપૂર્ણ પ્રક્રિયા અને સાવચેતીઓ.",
@@ -691,15 +682,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tech-news-of-jio-airtel-or-vi-who-has-the-cheapest-5g-plan-youll-be-surprised-to-find-out-481640 ",
     "time": "2026-06-16T06:22:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "8 એન્જિનનો પાવર, 950 કરોડની કિંમત! અમેરિકાનું શક્તિશાળી B-52 બોમ્બર વિમાન ક્રેશ, 8ના મોત",
-    "desc": "ઈરાન સાથે ઐતિહાસિક શાંતિ સમજૂતિ પર ડિજિટલ હસ્તાક્ષર થયા બાદ તરત અમેરિકાને એક ખરાબ સમાચાર મળ્યા છે. અમેરિકાની વાયુસેનાની કરોડ ગણાતું અને લગભગ 950 કરોડ રૂપિયાની ભારે ભરખમ કિમતવાળું B-52 સ્ટ્રેટોફોર્ટ્રેસ રણનીતિક બોમ્બર વિમાન ક્રેશ થઈ ગયું જેમાં 8 લોકોના જીવ ગયા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-are-the-specialities-of-us-air-force-b-52-stratofortress-bomber-got-crashed-481634 ",
-    "time": "2026-06-16T05:07:24.000Z"
   },
   {
     "cat": "Entertainment",

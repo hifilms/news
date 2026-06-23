@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mohammed Kaif opens up on Virat Kohli and Rohit Sharma's future ahead of ODI World Cup 2027",
+    "desc": "The Indian team is all set to take on England across five T20Is and three ODI matches. One of the most exciting games, The Men in Blue will hope to put in their best performance...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-opens-up-on-virat-kohli-and-rohit-sharma-s-future-ahead-of-odi-world-cup-2027-2026-06-23-1045762",
+    "time": "2026-06-23T00:25:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England Cricket delivers final verdict on Ben Stokes-Gus Atkinson after nightclub controversy: Check details",
     "desc": "In a major development, the ECB (England and Wales Cricket Board) has issued its final verdict on the ongoing controversy surrounding Ben Stokes and Gus Atkinson. The two stars have been officially cleared of any...",
     "img": "",
@@ -10,7 +19,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Match delayed due to adverse weather",
+    "title": "France defeat Iraq 3-0, book berth to knockouts",
     "desc": "The stage is set for one of the most exciting clashes in the ongoing FIFA World Cup 2026. 2018 champions and finalists of the 2022 edition, France, will be taking on Iraq. The two sides...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/hockey/india-pakistan-rivalry-headline-london-leg-of-fih-pro-league-check-when-the-matches-will-take-place-2026-06-22-1045740",
     "time": "2026-06-22T13:52:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni likened to Federer, Kohli compared to 23-year-old tennis sensation by Sanju Samson",
-    "desc": "Indian cricketer Sanju Samson has likened Chennai Super Kings legend MS Dhoni to tennis icon Roger Federer and compared another former India captain, Virat Kohli, to the racquet sport's sensation, Carlos Alcaraz. His comparison songs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-likened-to-federer-kohli-compared-to-23-year-old-tennis-sensation-by-sanju-samson-2026-06-22-1045728",
-    "time": "2026-06-22T12:01:01.000Z"
   }
 ];
