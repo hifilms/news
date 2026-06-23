@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi in senior India jersey for first time as teenage sensation handed kit",
+    "desc": "Vaibhav Sooryavanshi was seen in the senior India jersey for the first time as he was handed his international kit ahead of a much-anticipated debut. The 15-year-old from Bihar has captured everyone's imagination after stellar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-in-senior-india-jersey-for-first-time-as-teenage-sensation-handed-kit-watch-2026-06-23-1045796",
+    "time": "2026-06-23T06:23:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Blow for India as Nitish Kumar Reddy ruled out of UK tour, check replacement options",
+    "desc": "In another blow for India, all-rounder Nitish Kumar Reddy has been ruled out of the upcoming white-ball tour of the UK due to a quadriceps injury that he picked up during the Afghanistan ODI series,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/blow-for-india-as-nitish-kumar-reddy-ruled-out-of-ireland-t20is-doubtful-for-england-tour-2026-06-23-1045781",
+    "time": "2026-06-23T05:04:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mohammed Kaif opens up on Virat Kohli and Rohit Sharma's future ahead of ODI World Cup 2027",
     "desc": "The Indian team is all set to take on England across five T20Is and three ODI matches. One of the most exciting games, The Men in Blue will hope to put in their best performance...",
     "img": "",
@@ -70,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/lorcan-tucker-named-captain-as-ireland-announce-squad-for-india-t20i-series-2026-06-22-1045746",
     "time": "2026-06-22T15:45:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India, Pakistan rivalry headline London leg of FIH Pro League; check when the matches will take place",
-    "desc": "India and Pakistan's twin meetings will headline the London leg of the FIH Pro League as the two Asian powerhouses meet each other for the first time since the Asian Champions Trophy 2024. The first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/india-pakistan-rivalry-headline-london-leg-of-fih-pro-league-check-when-the-matches-will-take-place-2026-06-22-1045740",
-    "time": "2026-06-22T13:52:46.000Z"
   }
 ];
