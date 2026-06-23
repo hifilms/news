@@ -1,12 +1,93 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Ronaldo comes to the party as Portugal routs Uzbekistan",
+    "desc": "The 41-year-old becomes the first man to score in six editions of the quadrennial extravaganza; the 5-0 victory eases pressure on the European powerhouse while the debutant slumps to a second straight defeat in Group K",
+    "img": "https://th-i.thgim.com/public/incoming/hr0rrv/article71139247.ece/alternates/LANDSCAPE_1200/2026-06-23T175714Z_239636945_UP1EM6N1BUQ4P_RTRMADP_3_SOCCER-WORLDCUP-POR-UZB.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-ronaldo-comes-to-the-party-as-portugal-routs-uzbekistan/article71139239.ece",
+    "time": "2026-06-23T19:34:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Charan heaps praise on Ranveer’s Dhurandhar franchise",
+    "desc": "Ram Charan has lauded Ranveer Singh's Dhurandhar franchise, describing it as a \"terrific, fantastic, phenomenal\" cinematic experience and attributing its massive success to the way audiences across India have embraced it. Ram Charan also weighed in on the franchise's phenomenal box office run, saying the collections reflect the audience's love for the film.",
+    "img": "https://static.toiimg.com/photo/msid-131949171,imgsize-55672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-charan-heaps-praise-on-ranveer-singhs-dhurandhar-franchise-calls-it-phenomenal-it-has-brought-the-country-together/articleshow/131948801.cms",
+    "time": "2026-06-23T19:10:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Vijay tells ‘short story’ in Assembly; Udhayanidhi says House turned into a cinema",
+    "desc": "Though the CM did not name anyone from the Opposition parties in his story, his comments were widely interpreted as a reference to the defeat of former CM and DMK president M.K. Stalin in Kolathur",
+    "img": "https://th-i.thgim.com/public/incoming/wjqp9w/article71139156.ece/alternates/LANDSCAPE_1200/20260623137L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-tells-short-story-in-assembly-udhayanidhi-says-house-turned-into-a-cinema/article71137692.ece",
+    "time": "2026-06-23T18:19:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "HL: Lucknow building fire: FIR cites illegal commercial use",
+    "desc": "In this episode, we look at the devastating Lucknow building fire and the broader questions it raises about fire safety in India’s cities. We also examine the Centre’s latest FCRA amendments, Meta’s elevation of CRED founder Kunal Shah to lead WhatsApp, and more.",
+    "img": "https://th-i.thgim.com/public/news/national/2hdedi/article71139154.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-23%20at%2020.43.10.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-hl-lucknow-building-fire-fir-cites-illegal-commercial-use-above-the-fold-23062026/article71139155.ece",
+    "time": "2026-06-23T18:18:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Square Yards becomes Unicorn with ₹900 crore funding, plans IPO",
+    "desc": "“As we gear up for our upcoming IPO, this capital raise will provide us with the strategic firepower to accelerate our market expansion, deepen our technological moats, and continue delivering exceptional value to our customers and stakeholders,” Mr. Shori said",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/square-yards-becomes-unicorn-with-900-crore-funding-plans-ipo/article71139096.ece",
+    "time": "2026-06-23T18:08:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh observes shutdown over Centre’s ‘missing’ draft, new policy push",
+    "desc": "‘The Centre is making an attempt to dilute the commitments,’ says Tsering Dorjey Lakrook, president of the Ladakh Buddhist Association, among the main groups engaging with the Centre over long-pending demands of Statehood, and inclusion in the Sixth Schedule",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/ladakh-observes-shutdown-over-centres-missing-draft-new-policy-push/article71138849.ece",
+    "time": "2026-06-23T18:01:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arya explains viral ‘chota bhai’ genitalia joke involving Prateik",
+    "desc": "The strained relationship between Arya Babbar and his half-brother Prateik Smita Patil has once again come under the spotlight after a clip from Arya's standup comedy set went viral online. Clarifying the context behind the remark, Arya insisted there was no intention to mock his brother. When asked whether he would like to mend fences with Prateik, Arya said he remains open to a conversation.",
+    "img": "https://static.toiimg.com/photo/msid-131946037,imgsize-83062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arya-babbar-explains-viral-chota-bhai-genitalia-joke-involving-prateik-smita-patil-open-to-mending-ties-wo-phone-answer-kar-le/articleshow/131945766.cms",
+    "time": "2026-06-23T17:51:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Netanyahu says Israel should 'break free' of U.S. military aid",
+    "desc": "\"I deeply appreciate the support we have received from our American friends, but we need to break free from dependency and build our own independent armaments network,\" the premier told reserve officers on a training course in the occupied West Bank",
+    "img": "https://th-i.thgim.com/public/incoming/fzdlp4/article71139095.ece/alternates/LANDSCAPE_1200/Netanyahu-denieGKFFOAVGJ.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/netanyahu-says-israel-should-break-free-of-us-military-aid/article71139070.ece",
+    "time": "2026-06-23T17:49:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "School students allegedly roped in by TVK functionaries tie party flags to median",
+    "desc": "The police said that a group of students was on their way to school when they were told by local TVK functionaries to tie party flags with small poles attached to it on a steel median",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/school-students-allegedly-roped-in-by-tvk-functionaries-tie-party-flags-to-median/article71138118.ece",
+    "time": "2026-06-23T17:32:08.000Z"
+  },
+  {
     "cat": "World",
     "title": "Hungary passes anti-graft measures, eyeing EU funds",
     "desc": "Pro-EU conservative Magyar ousted Orban from office after 16 years in power in an April election on a promise of \"regime change\". The anti-graft legislation easily passed parliament with 142 votes for, 39 against and three abstentions",
     "img": "https://th-i.thgim.com/public/incoming/b1r11v/article71139007.ece/alternates/LANDSCAPE_1200/AFP_B7Z887X.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/hungary-passes-anti-graft-measures-eyeing-eu-funds/article71138964.ece",
-    "time": "2026-06-23T17:12:00.000Z"
+    "time": "2026-06-23T17:13:46.000Z"
   },
   {
     "cat": "Politics",
@@ -97,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indiaus-trade-deal-may-be-signed-before-july-24-whats-done-and-remaining-for-agreement/articleshow/131943176.cms",
     "time": "2026-06-23T16:04:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress seeks high-level probe in alleged Ujjain land scam by Mohan Yadav family",
-    "desc": "Leader of Opposition in the Madhya Pradesh Legislative Assembly said that the land prices were increased in a “well planned manner” by bringing projects there, and land was purchased in those areas before announcing the projects.",
-    "img": "https://th-i.thgim.com/public/incoming/d5nahp/article68461448.ece/alternates/LANDSCAPE_1200/Mohan%20Yadav%206.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/congress-seeks-high-level-probe-in-alleged-ujjain-land-scam-by-mohan-yadav-family/article71137467.ece",
-    "time": "2026-06-23T16:04:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +423,6 @@ const newsData_en = [
     "time": "2026-06-23T12:39:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "President Murmu confers 65 Padma Awards; Rs 4.6 lakh crore wipped off Dalal Street &amp; more",
-    "desc": "President Murmu honored 65 Padma Award recipients, including Mammootty and Alka Yagnik. A Pune trekking incident has tragically escalated into a murder investigation with two arrests. Meanwhile, a government report highlights Telegram's role in child abuse and fraud. The stock market experienced a significant downturn, with the Sensex dropping nearly 900 points. Sunil Gavaskar is advocating for a mandatory month-long annual break for cricketers.",
-    "img": "https://static.toiimg.com/photo/msid-131938013,imgsize-897575.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-president-murmu-confers-65-padma-awards-rs-4-6-lakh-crore-wipped-off-dalal-street-more/articleshow/131937660.cms",
-    "time": "2026-06-23T12:35:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "R Madhavan gets Padma Shri, greets PM Modi, Alka Yagnik gets Padma Bhushan",
     "desc": "President Murmu bestowed the remaining Padma Awards 2026, including Padma Bhushan for Mammootty and Alka Yagnik, at Rashtrapati Bhavan. Prime Minister Modi and other dignitaries attended the ceremony where 65 honours were presented. Notable recipients also included R Madhavan and Rohit Sharma, while veteran actor Satish Shah was honoured posthumously. This follows an earlier ceremony where Dharmendra received a posthumous Padma Vibhushan.",
@@ -423,42 +486,6 @@ const newsData_en = [
     "time": "2026-06-23T12:00:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Keerthy Suresh and Antony Thattil's love story",
-    "desc": "National Award winner Keerthy Suresh has unveiled her love story with Antony Thattil, beginning on Orkut and culminating in a Goa wedding. Their journey included a secret romance, a long-distance relationship, and even discussions of eloping. Antony's unwavering support for Keerthy's career has been a cornerstone of their enduring bond, now celebrated after nearly 15 years.",
-    "img": "https://static.toiimg.com/photo/msid-131936378,imgsize-264170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/keerthy-suresh-and-antony-thattils-love-story-from-secret-romance-to-an-elopement-plan-with-happy-ending/articleshow/131936353.cms",
-    "time": "2026-06-23T11:48:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shibu Soren, Alka Yagnik, Mammootty among honourees",
-    "desc": "President Droupadi Murmu presented Padma Awards at Rashtrapati Bhavan, honouring 65 distinguished individuals. The ceremony recognized achievements across various fields, including arts, sports, and medicine. Notable recipients included actor Mammootty, singer Alka Yagnik, and cricketer Rohit Sharma. Dr. Padma Gurmet, awarded for his work in preserving Himalayan medical traditions, expressed immense pride for his community.",
-    "img": "https://static.toiimg.com/photo/msid-131936616,imgsize-1030765.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/president-murmu-confers-padma-awards-shibu-soren-alka-yagnik-mammootty-among-honourees-check-list/articleshow/131936337.cms",
-    "time": "2026-06-23T11:46:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ameesha recalls her warm bond with Amrish on the sets of Gadar",
-    "desc": "Ameesha Patel fondly remembers Amrish Puri as witty, warm and fatherly on the sets of 'Gadar', despite her nerves during their intense first scene together. She recalls him defending her against director Anil Sharma's laddoo suggestion, calling it a beautiful memory she cherishes forever.",
-    "img": "https://static.toiimg.com/photo/msid-131936333,imgsize-179687.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-was-shitting-bricks-shivering-but-he-was-doll-to-work-with-ameesha-patel-recalls-her-warm-bond-with-amrish-puri-on-the-sets-of-gadar/articleshow/131936333.cms",
-    "time": "2026-06-23T11:46:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Syama Prasad at the centre of Bengal's new political story: BJP's cultural reset",
-    "desc": "The BJP is actively reshaping Bengal's historical narrative, emphasizing Syama Prasad Mookerjee's role in the state's Partition. By designating June 20 as West Bengal Day and celebrating Mookerjee's legacy, the party aims to correct perceived historical neglect. Critics argue this selective focus distorts a complex past, overlooking the broader political forces and human cost of Partition.",
-    "img": "https://static.toiimg.com/photo/msid-131935912,imgsize-61802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/syama-prasad-at-the-centre-of-bengals-new-political-story-bjps-cultural-reset/articleshow/131935524.cms",
-    "time": "2026-06-23T11:42:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Stock markets go into tailspin; Sensex, Nifty drop over 1%",
     "desc": "Fresh foreign fund outflows also led to the weak trading in equities. The 30-share BSE Sensex tanked 893.39 points, or 1.16%, to settle at 76,200.68. During the day, it plunged 1,011.56 points, or 1.31%, to 76,082.51",
@@ -484,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kahsyap-recalls-rooting-for-lagaan-when-it-clashed-with-gadar-says-ashutosh-gowarikar-went-into-the-film-with-hair-but-came-back-bald/articleshow/131935831.cms",
     "time": "2026-06-23T11:23:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt report flags concern over child abuse, fraud",
-    "desc": "During the legal proceedings, Telegram faced accusations of failing to adequately curb misinformation spread through its channels, allegations the company has rejected. While the ban was lifted on Tuesday, users will remain unable to access the platform's message-editing feature until June 30. India is Telegram's largest market with more than 150 million users.",
-    "img": "https://static.toiimg.com/photo/msid-131935632,imgsize-41456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trouble-mounts-for-telegram-govt-report-flags-concern-over-child-sex-abuse-fraud/articleshow/131935665.cms",
-    "time": "2026-06-23T11:19:41.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/lack-of-investment-chapter-in-india-uk-trade-deal-not-a-concern-says-muscatelli/article71122017.ece",
     "time": "2026-06-22T11:56:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Were eight crore new jobs created in three years?",
-    "desc": "Prime Minister Modi, based on the India-KLEMS database, claimed that India created “eight crore new jobs in the last three to four years”. However, analysts are questioning the methodology used to estimate these numbers. They argue that little meaningful employment was created in these years",
-    "img": "https://th-i.thgim.com/public/incoming/x6cbff/article68551871.ece/alternates/LANDSCAPE_1200/iStock-1506386661.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/were-8-crore-new-jobs-created-in-three-years/article68551862.ece",
-    "time": "2026-06-22T11:52:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shrachi Rarh Tigers win Bengal T20 League title over Malda",
-    "desc": "Asked to bat, Rarh Tigers posted a formidable 165 for four in the reduced quota of 15 overs. In its rain-interrupted innings, Malda scored 97 for five in nine overs to fall short of the revised target by nine runs",
-    "img": "https://th-i.thgim.com/public/incoming/gwio0q/article71132348.ece/alternates/LANDSCAPE_1200/Shrachi%20Rarh%20Tigers%20Champions%20-%20Mens%20Bengal%20T20%20League%20Season%203.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/shrachi-rarh-tigers-win-bengal-t20-league-title-over-malda/article71132357.ece",
-    "time": "2026-06-22T08:11:33.000Z"
   }
 ];

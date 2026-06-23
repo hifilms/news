@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Cristiano Ronaldo scores, Portugal take the lead early",
+    "title": "England aim for tournament knockouts, looking for second win",
+    "desc": "The FIFA World Cup 2026 continues with England taking on Ghana. The two sides are slated to meet at the Boston Stadium on June 24th, and in search of their second win, England will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/eng-vs-gha-fifa-world-cup-2026-live-score-england-aim-for-tournament-knockouts-looking-for-second-win-1045897",
+    "time": "2026-06-23T19:36:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stampede reported at Jharkhand's JSCA Stadium during the Jharkhand T20 final in Ranchi",
+    "desc": "In a major development, a stampede-like situation has been reported in Ranchi at the JSCA Stadium during the final of the Jharkhand Premier League. Several people have been reported as injured, with three of them...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stampede-reported-at-jharkhand-s-jsca-stadium-during-the-jharkhand-t20-final-in-ranchi-2026-06-24-1045896",
+    "time": "2026-06-23T19:24:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo scripts history, becomes first player to achieve huge feat with goal against Uzbekistan",
+    "desc": "The ongoing FIFA World Cup 2026 continued with Portugal taking on Uzbekistan. The two sides met at the Houston Stadium on June 23, and the game saw Portugal take the lead early in the game....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-scripts-history-becomes-first-player-to-achieve-huge-feat-with-goal-against-uzbekistan-2026-06-23-1045892",
+    "time": "2026-06-23T17:35:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Portugal defeat Uzbekistan 5-0, Ronaldo plays starring role",
     "desc": "Portugal and Uzbekistan are all set to take on each other at the Houston Stadium in the ongoing FIFA World Cup 2026. It is worth noting that Portugal kicked off their campaign in the tournament...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-becomes-new-no1-t20i-bowler-after-impressive-performances-in-womens-t20-world-cup-2026-2026-06-23-1045841",
     "time": "2026-06-23T10:35:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announces Nitish Kumar Reddy's replacement for Ireland, England T20Is, all-rounder earns maiden call-up",
-    "desc": "The Board of Control for Cricket in India (BCCI) has announced Suryansh Shedge as the replacement for Nitish Kumar Reddy for the upcoming Ireland and England T20Is after the Sunrisers Hyderabad all-rounder was ruled out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-nitish-kumar-reddys-replacement-for-ireland-england-t20is-all-rounder-earns-maiden-call-up-2026-06-23-1045819",
-    "time": "2026-06-23T08:40:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant and Kuldeep Yadav trade confirmed, outing LSG star to take significant pay cut at DC",
-    "desc": "Rishabh Pant's IPL pay will be cut significantly as the former Lucknow Super Giants captain has been traded to the Delhi Capitals at a revised fee of Rs 15 crore. In return, the Super Giants...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-and-kuldeep-yadav-trade-confirmed-outing-lsg-star-to-take-significant-pay-cut-at-dc-2026-06-23-1045816",
-    "time": "2026-06-23T08:10:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Erling Haaland only second player in 52 years to register massive feat as Norway storm into knockouts",
-    "desc": "Erling Haaland's maiden FIFA World Cup edition is turning out to be a glittering one as the Norwegian striker has expectedly been the protagonist for the team. Haaland made his World Cup debut against Iraq...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/erling-haaland-only-second-player-in-52-years-to-register-massive-feat-as-norway-storm-into-knockouts-2026-06-23-1045812",
-    "time": "2026-06-23T07:48:47.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "હવે દિવસે નહીં, Gen Z અને મિલેનિયલ્સમાં વધી રહ્યો છે રાત્રે ફરવાનો ટ્રેન્ડ; ભારતના આ સ્થળો બની રહ્યા છે ફેવરિટ ડેસ્ટિનેશન",
+    "desc": "આજના સમયમાં Gen Z અને મિલેનિયલ્સનો ફરવાનો અંદાજ પણ બદલાઈ રહ્યો છે. લોકો હવે માત્ર દિવસના સમયે પ્રખ્યાત સ્થળો જોવા નથી જતા, પરંતુ રાત્રિના પ્રકાશ, શાંત વાતાવરણ, નાઈટ માર્કેટ, ફૂડ સ્ટ્રીટ અને તારાઓથી ભરેલા આકાશ વચ્ચે નવા અનુભવો શોધી રહ્યા છે. ભારતમાં પણ નાઈટ ટૂરિઝમ ઝડપથી લોકપ્રિય થઈ રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/now-the-trend-of-going-out-at-night-is-increasing-among-gen-z-and-millennials-not-during-the-day-these-places-in-india-are-becoming-favorite-destinations-482467 ",
+    "time": "2026-06-23T17:46:49.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "મુસ્કાન-સોનમ અને હવે સિયા! મંગેતરે જ લોહાગઢ કિલ્લા પરથી કેતનને ધક્કો મારી દીધો હતો?",
     "desc": "એક યુવક તેની મંગેતરના બર્થડેની ઉજવણીને લઈને એટલો ખુશખુશાલ હતો પરંતુ તેને ક્યાં ખબર હતી કે મોત બોલાવી રહ્યું છે. લોહાગઢ કિલ્લા પર ઊંડી ખાઈમાં પડી જવાથી કેતન અગ્રવાલના થયેલા મોત મામલે ચોંકાવનારો ખુલાસો થઈ રહ્યો છે અને મંગેતર પર આરોપ લાગ્યો છે. જાણો શું છે વિગતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -394,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/what-did-nehru-and-indira-gandhi-go-to-do-in-1953-in-the-swiss-location-where-the-us-and-iran-are-set-to-meet-482164 ",
     "time": "2026-06-21T06:08:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું છે પ્રધાનમંત્રી ફસલ બીમા યોજના? પીએમ મોદીએ બંગાળથી કરી શરૂઆત, ખેડૂતોને કેવી રીતે થશે ફાયદો?",
-    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ પશ્ચિમ બંગાળથી દુનિયાની સૌથી મોટી પાક વીમા યોજનાના શ્રીગણેશ કરી દીધા છે. કુદરતી આફતોથી ખેડૂતોના પાકને સુરક્ષા આપનારી આ યોજનાથી કરોડો અન્નદાતાઓની કિસ્મત બદલાશે. જાણો આ યોજના હેઠળ ખેડૂતોને કયા-કયા મોટા લાભ મળવાના છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-is-the-pradhan-mantri-fasal-bima-yojana-pm-modi-launched-it-from-bengal-how-will-farmers-benefit-482159 ",
-    "time": "2026-06-21T05:13:04.000Z"
   },
   {
     "cat": "World",
