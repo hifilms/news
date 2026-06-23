@@ -6,7 +6,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/big-twist-in-lohagad-fort-case-ketan-vishal-agarwal-death-investigation-case-siya-goyal-482438 ",
-    "time": "2026-06-23T09:54:26.000Z"
+    "time": "2026-06-23T12:33:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઈન્દોરની સોનમ બાદ હવે પૂણેની સિયા! પ્રેમીને પામવા મંગેતરના મોતનું રચ્યું કાવતરું, લગ્ન પહેલા જ ભાવિ પત્નીએ ખાઈમાં ધકેલી દીધો!",
+    "desc": "લોનાવલાના પ્રખ્યાત લોહગઢ કિલ્લા પરથી પડી જવાથી થયેલા વેપારી કેતન અગ્રવાલના મૃત્યુના કેસમાં હવે એક ખૂબ જ ચોંકાવનારો ખુલાસો થયો છે. શરૂઆતમાં ટ્રેકિંગ દરમિયાન થયેલો અકસ્માત લાગતી આ ઘટના વાસ્તવમાં પૂર્વ-આયોજિત કાવતરું રચીને કરવામાં આવેલી હત્યા હોવાનું પોલીસ તપાસમાં બહાર આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-sonam-of-indore-now-siya-of-pune-plot-was-hatched-to-kill-her-fiance-to-get-her-lover-and-her-future-wife-pushed-her-into-a-ditch-before-the-wedding-482450 ",
+    "time": "2026-06-23T12:33:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "DA ફોર્મ્યુલામાં થશે ફેરફાર... કેન્દ્રીય કર્મચારીઓની 8મા પગાર પંચ પર છે નજર",
+    "desc": "આઠમા પગાર પંચને લઈને કેન્દ્રીય કર્મચારીઓમાં ઘણો ઉત્સાહ છે. કેન્દ્રીય કર્મચારીઓ તેનાથી સંબંધિત દરેક સમાચારને જોઈ રહ્યા છે. દરેકને જાણવામાં રસ છે કે પગાર પંચની ભલામણો શું હશે. જોકે, પગાર પંચ 2027ના પહેલા 6 મહિના સુધીમાં સરકારને તેની ભલામણો રજૂ કરે તેવી અપેક્ષા છે. આ પહેલા, વિવિધ કર્મચારી સંગઠનોએ પગાર પંચ સમક્ષ પોતાની માંગણીઓ રજૂ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/there-will-be-a-change-in-the-da-formula-central-employees-are-eyeing-the-8th-pay-commission-482449 ",
+    "time": "2026-06-23T12:04:06.000Z"
   },
   {
     "cat": "Sports",
@@ -396,15 +414,6 @@ const newsData_gu = [
     "time": "2026-06-21T02:05:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "યોગ વધતી ઉંમરે પણ વ્યક્તિને યુવાન અને સ્વસ્થ રાખે છે, વડાપ્રધાન મોદીએ લોકોને આપ્યો ફિટનેસ મંત્ર",
-    "desc": "આંતરરાષ્ટ્રીય યોગ દિવસની ઉજવણી આજે પશ્ચિમ બંગાળની રાજધાની કલકત્તાના રેડ રોડ પર વડાપ્રધાન મોદીના નેતૃત્વમાં કરવામાં આવી. વડાપ્રધાન મોદી સાથે 30 હજારથી વધુ બંગાળવાસીઓએ અહીં યોગ કર્યા. સાથે જ પીએમ મોદીએ વિશેષ સંબોધન પણ કર્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-celebrate-international-day-of-yoga-2026-at-kolkata-here-what-he-says-on-yoga-day-482134 ",
-    "time": "2026-06-21T01:50:57.000Z"
-  },
-  {
     "cat": "World",
     "title": "બાંગ્લાદેશમાં ગુંજી ઉઠ્યા જય શ્રી રામના નારા ! હજારો મશાલો લઈને રસ્તા પર કેમ ઉતર્યા હિન્દુઓ? જાણો શું છે સમગ્ર મામલો",
     "desc": "બાંગ્લાદેશમાં ભગવાન રામની છબીનું અપમાન અને રામ પ્રતિમાના નિર્માણ પર પ્રતિબંધ મૂકવાના નિર્ણયથી ભારે હોબાળો મચી ગયો છે. પ્રતિમાના નિર્માણ પર પ્રતિબંધથી હિન્દુ સમુદાયમાં ગુસ્સો ફેલાયો છે. રાજધાની ઢાકા સહિત અનેક શહેરોમાં હજારો લોકો રસ્તા પર ઉતરી આવ્યા હતા અને વિરોધ પ્રદર્શન માટે મશાલ કૂચ કરી હતી.",
@@ -412,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-did-hindus-take-to-the-streets-in-bangladesh-carrying-thousands-of-torches-know-what-the-whole-issue-is-482128 ",
     "time": "2026-06-20T14:59:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "રેકોર્ડ હાઈથી 28% તૂટ્યું સોનું, ખરીદવાની યોગ્ય તક કે ફેડના કડક વલણને કારણે વધુ ઘટાડાનું જોખમ? જાણો",
-    "desc": "સોનાનો ભાવ જાન્યુઆરીની ટોચથી લગભગ 28 ટકા ઘટીને 10 જૂને 4,000 ડોલર પ્રતિ ઔંસના વાર્ષિક લો લેવલે પહોંચ્યો હતો. હાલમાં, સોનાનો ભાવ 4,144 ડોલરની આસપાસ છે. જો કે, છેલ્લા 12 મહિનામાં તે હજુ પણ લગભગ 23 ટકા વધ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-falls-28-percent-from-record-high-is-it-a-good-buying-opportunity-or-is-there-a-risk-of-further-decline-due-to-the-feds-tight-stance-find-out-482125 ",
-    "time": "2026-06-20T14:29:54.000Z"
   },
   {
     "cat": "Tech",

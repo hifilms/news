@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer gives his take on Tilak Varma's recent performances ahead of Ireland-England tour",
+    "desc": "The stage is set as the Indian team will be touring Ireland and England for a multi-format white-ball series. It is worth noting that the Men in Blue will take on Ireland across two T20Is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-gives-his-take-on-tilak-varma-s-recent-performances-ahead-of-ireland-england-tour-2026-06-23-1045877",
+    "time": "2026-06-23T14:42:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma, former India captain, receives Padma Shri from President Droupadi Murmu",
+    "desc": "Former India captain Rohit Sharma on Tuesday received the Padma Shri Award from President Droupadi Murmu at the Rashtrapati Bhavan. Sharma was honoured with the fourth-highest civilian award for his stellar contribution to cricket. Sharma was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-former-india-captain-receives-padma-shri-from-president-droupadi-murmu-watch-2026-06-23-1045860",
+    "time": "2026-06-23T12:34:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vijay Amritraj, India's tennis great, awarded Padma Bhushan; know his achievements",
+    "desc": "Vijay Amritraj, India's tennis great, was awarded the prestigious Padma Bhushan by President Droupadi Murmu at the Rashtrapati Bhavan. Amritraj was conferred with the third-highest civilian honour for his contributions to the sport. Amritraj was an Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/vijay-amritraj-indias-tennis-great-awarded-padma-bhushan-know-his-achievements-2026-06-23-1045856",
+    "time": "2026-06-23T12:23:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will Cristiano Ronaldo be dropped from Portugal's Starting XI for Uzbekistan game? Coach speaks up",
     "desc": "Cristiano Ronaldo has copped criticism for his poor performance in Portugal's FIFA World Cup 2026 opener against DR Congo. The Portuguese talisman failed to inspire the Seleção das Quinas and looked out of sorts in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-in-senior-india-jersey-for-first-time-as-teenage-sensation-handed-kit-watch-2026-06-23-1045796",
     "time": "2026-06-23T06:23:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Blow for India as Nitish Kumar Reddy ruled out of UK T20Is, check replacement options",
-    "desc": "In another blow for India, all-rounder Nitish Kumar Reddy has been ruled out of the upcoming twin T20I series in the UK due to a quadriceps injury that he picked up during the Afghanistan ODI...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/blow-for-india-as-nitish-kumar-reddy-ruled-out-of-ireland-t20is-doubtful-for-england-tour-2026-06-23-1045781",
-    "time": "2026-06-23T05:04:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Kaif opens up on Virat Kohli and Rohit Sharma's future ahead of ODI World Cup 2027",
-    "desc": "The Indian team is all set to take on England across five T20Is and three ODI matches. One of the most exciting games, The Men in Blue will hope to put in their best performance...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-opens-up-on-virat-kohli-and-rohit-sharma-s-future-ahead-of-odi-world-cup-2027-2026-06-23-1045762",
-    "time": "2026-06-23T00:25:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England Cricket delivers final verdict on Ben Stokes-Gus Atkinson after nightclub controversy: Check details",
-    "desc": "In a major development, the ECB (England and Wales Cricket Board) has issued its final verdict on the ongoing controversy surrounding Ben Stokes and Gus Atkinson. The two stars have been officially cleared of any...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-cricket-delivers-final-verdict-on-ben-stokes-gus-atkinson-after-nightclub-controversy-check-details-2026-06-23-1045761",
-    "time": "2026-06-22T22:33:50.000Z"
   }
 ];
