@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "England aim for tournament knockouts, looking for second win",
+    "title": "Cristiano Ronaldo stars as Portugal decimate Uzbekistan in FIFA World Cup 2026 with dominant 5-0 win",
+    "desc": "Portugal put forth a magnificent performance against Uzbekistan in the ongoing FIFA World Cup 2026. The two sides met at the Houston Stadium on June 23rd, and the game was a must-win for Portugal as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-stars-as-portugal-decimate-uzbekistan-in-fifa-world-cup-2026-with-dominant-5-0-win-2026-06-24-1045898",
+    "time": "2026-06-23T20:40:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ghana hold off England, both sides share points",
     "desc": "The FIFA World Cup 2026 continues with England taking on Ghana. The two sides are slated to meet at the Boston Stadium on June 24th, and in search of their second win, England will be...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/will-cristiano-ronaldo-be-dropped-from-portugals-starting-xi-for-uzbekistan-game-coach-speaks-up-2026-06-23-1045849",
     "time": "2026-06-23T11:29:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shree Charani becomes new No.1 T20I bowler after impressive performances in Women's T20 World Cup 2026",
-    "desc": "India's rising star spinner Shree Charani has become the new No.1 bowler in T20I cricket after a string of impressive performances in the ongoing Women's T20 World Cup 2026 in England. Charani has been one...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-becomes-new-no1-t20i-bowler-after-impressive-performances-in-womens-t20-world-cup-2026-2026-06-23-1045841",
-    "time": "2026-06-23T10:35:50.000Z"
   }
 ];

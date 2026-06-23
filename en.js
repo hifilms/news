@@ -1,6 +1,60 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "'Next question': Cristiano Ronaldo refuses journalist's question about Lionel Messi after historic Portugal win",
+    "desc": "Cristiano Ronaldo responded to criticism in emphatic fashion, scoring twice in Portugal’s 5-0 World Cup victory over Uzbekistan to become the first player to score in six different World Cups and Portugal’s all-time leading World Cup goalscorer. The veteran also dismissed retirement talk, declared “I’m back,” and showed little interest in discussing Lionel Messi after the match.",
+    "img": "https://static.toiimg.com/photo/msid-131949986,imgsize-633638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/next-question-cristiano-ronaldo-refuses-journalists-question-about-lionel-messi-after-historic-portugal-win/articleshow/131949850.cms",
+    "time": "2026-06-23T21:36:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Cruise unveils 'Digger' clip; reflects on 46 yrs in Hollywood",
+    "desc": "Tom Cruise is set to surprise audiences in Alejandro Gonzalez Inarritu's upcoming black comedy, 'Digger.' A newly released trailer teases Cruise as Digger Rockwell, a powerful, darkly comic figure far removed from his action-hero persona. The film, described as wild and funny, marks a potentially challenging and fearless role for the iconic star, with the full trailer arriving July 13th.",
+    "img": "https://static.toiimg.com/photo/msid-131949855,imgsize-144332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-looks-back-at-46-year-hollywood-career-drops-new-digger-footage-looking-forward-to-seeing-you-at-the-movies-watch/articleshow/131949814.cms",
+    "time": "2026-06-23T21:30:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mouni Roy opens up about forgiveness, healing after divorce",
+    "desc": "Days after announcing her separation from husband Suraj Nambiar and requesting privacy, Mouni Roy has shared her thoughts on forgiveness, healing and moving on from people who hurt or disappoint you. The actress suggested that healing becomes easier when people stop holding on to past wounds and allow themselves to move forward.",
+    "img": "https://static.toiimg.com/photo/msid-131949830,imgsize-63102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-separation-from-suraj-nambiar-mouni-roy-opens-up-about-forgiveness-healing-moving-on-im-not-calling-the-person-evil-but-/articleshow/131949815.cms",
+    "time": "2026-06-23T21:16:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo ends 60-year wait, breaks Portugal World Cup record with historic double against Uzbekistan",
+    "desc": "Cristiano Ronaldo scored twice as Portugal thrashed Uzbekistan 5-0 to strengthen their FIFA World Cup 2026 knockout hopes and rewrite national history. The 41-year-old became Portugal’s all-time leading World Cup goalscorer with 10 goals, surpassing Eusébio’s 60-year-old record, while also extending his own record as the first player to score in six different World Cup tournaments.",
+    "img": "https://static.toiimg.com/photo/msid-131949802,imgsize-132842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cristiano-ronaldo-ends-60-year-wait-breaks-portugal-world-cup-record-with-historic-double-against-uzbekistan/articleshow/131949771.cms",
+    "time": "2026-06-23T20:55:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Bengal Govt to bring in law to auction properties of those involved in corruption, says Suvendu",
+    "desc": "Chief Minister Suvendu Adhikari said that after the Bharatiya Janata Party (BJP) came to power about 10,000 Bangladeshi nationals have left the State and 1800 are kept in holding centres of the State government across 12 districts.",
+    "img": "https://th-i.thgim.com/public/incoming/8c8mk0/article71139278.ece/alternates/LANDSCAPE_1200/20260622253L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-govt-to-bring-in-law-to-auction-properties-of-those-involved-in-corruption-says-suvendu/article71138833.ece",
+    "time": "2026-06-23T20:17:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo scripts history in Portugal's dominant 5-0 victory over Uzbekistan",
+    "desc": "Cristiano Ronaldo scored twice as Portugal crushed Uzbekistan 5-0 in Houston to strengthen their place in the FIFA World Cup 2026 knockout stages. The captain opened the scoring before adding a record-breaking second goal, becoming the first player to score in six consecutive World Cups and surpassing Eusébio as Portugal’s all-time leading World Cup scorer.",
+    "img": "https://static.toiimg.com/photo/msid-131949672,imgsize-533884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/portugal-vs-uzbekistan-fifa-world-cup-match-result-ronaldo-becomes-record-breaker-in-dominant-5-0-victory/articleshow/131949323.cms",
+    "time": "2026-06-23T19:55:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ronaldo comes to the party as Portugal routs Uzbekistan",
     "desc": "The 41-year-old becomes the first man to score in six editions of the quadrennial extravaganza; the 5-0 victory eases pressure on the European powerhouse while the debutant slumps to a second straight defeat in Group K",
     "img": "https://th-i.thgim.com/public/incoming/hr0rrv/article71139247.ece/alternates/LANDSCAPE_1200/2026-06-23T175714Z_239636945_UP1EM6N1BUQ4P_RTRMADP_3_SOCCER-WORLDCUP-POR-UZB.JPG",
@@ -90,6 +144,15 @@ const newsData_en = [
     "time": "2026-06-23T17:13:46.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo rewrites football history, becomes first player to...",
+    "desc": "Cristiano Ronaldo has etched his name in history, becoming the first footballer to score in six FIFA World Cup editions. The 41-year-old captain achieved this remarkable feat against Uzbekistan, extending a record that began in 2006. This milestone comes as Portugal seeks to rebound from a draw, with Ronaldo silencing critics by delivering on the grandest stage once again. His consistent brilliance across two decades solidifies his legacy.",
+    "img": "https://static.toiimg.com/photo/msid-131938045,imgsize-297632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cristiano-ronaldo-rewrites-football-history-becomes-first-player-to-score-in-six-fifa-world-cups/articleshow/131937972.cms",
+    "time": "2026-06-23T17:06:29.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Iran-U.S. MoU has had a positive impact on energy, fertiliser flow to India: MEA",
     "desc": "MEA spokesperson Randhir Jaiswal says 11 India-bound vessels have transited the Strait of Hormuz since the June 17 signing of Iran-U.S. MoU. He indicates that there has been a positive development in shipping in the past few days",
@@ -117,33 +180,6 @@ const newsData_en = [
     "time": "2026-06-23T16:53:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Women in A.P. will get free travel in AC buses soon, says Transport Minister",
-    "desc": "Government has prepared a comprehensive action plan to make 2026–27 a milestone year for technology, sustainability and expansion of public services in the transport sector, asserts Mandipalli Ramprasad Reddy; Special Chief Secretary rules out privatisation, allays fears of employees and labour unions",
-    "img": "https://th-i.thgim.com/public/incoming/8fmug6/article71138962.ece/alternates/LANDSCAPE_1200/10745_22_6_2026_22_5_1_1_IMG_20260622_WA0053.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/women-in-ap-will-get-free-travel-in-ac-buses-soon-says-transport-minister/article71138841.ece",
-    "time": "2026-06-23T16:44:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress urges Centre not to rush to sign trade pact with the U.S.",
-    "desc": "Congress general secretary Jairam Ramesh says Prime Minister should not give in to pressure from the U.S. He says the U.S. is using its probe into alleged unfair trade practices to pressure New Delhi into formalising the proposed agreement",
-    "img": "https://th-i.thgim.com/public/incoming/ic7emf/article71136286.ece/alternates/LANDSCAPE_1200/_KMK5264.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-must-stop-appeasing-good-friend-trump-india-must-not-sign-trade-pact-as-it-stands-congress/article71136238.ece",
-    "time": "2026-06-23T16:41:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "George Kurian resigns as Union Minister after RS tenure ends",
-    "desc": "Senior BJP leader from Kerala steps down as BJP did not renominate him in the recent election to the Upper House; he was the only Christian Minister in the NDA govt.; his resignation sets off speculation of a Cabinet reshuffle",
-    "img": "https://th-i.thgim.com/public/incoming/bnz3ih/article71136352.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-23%20at%2011.34.19.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/union-minister-george-kurian-resigns/article71136214.ece",
-    "time": "2026-06-23T16:38:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "DP hails ICC’s maternity return policy as a ‘landmark moment'",
     "desc": "Deepika Padukone has welcomed the International Cricket Council’s (ICC) newly announced maternity return guidelines for women cricketers, calling it a “landmark moment for women in sport.” The actress shared a report about the initiative on her Instagram Stories and praised the move, which is aimed at helping women athletes return to professional cricket after childbirth.",
@@ -151,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-hails-iccs-maternity-return-policy-as-a-landmark-moment-for-women-in-sport-amid-her-8-hour-work-shift-debate/articleshow/131944076.cms",
     "time": "2026-06-23T16:37:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SIT inspects Lucknow fire incident site; Congress alleges Uttar Pradesh government’s negligence responsible for tragedy",
-    "desc": "SIT members Amrit Abhijat, Additional Chief Secretary, Tourism and Culture Department, and Praveen Kumar, ADG, Lucknow Zone, conducted a detailed inspection of the entire building for over an hour in the morning; a team from the Uttar Pradesh Forensic Science Laboratory (FSL) also collected crucial evidence from the site",
-    "img": "https://th-i.thgim.com/public/incoming/6q2udt/article71138391.ece/alternates/LANDSCAPE_1200/20260623073L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/sit-inspects-lucknow-fire-incident-site-congress-alleges-uttar-pradesh-governments-negligence-responsible-for-tragedy/article71138057.ece",
-    "time": "2026-06-23T16:29:30.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +441,6 @@ const newsData_en = [
     "time": "2026-06-23T12:43:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Attempt to deflect': India snubs Khawaja Asif's 'will go to war over Indus' remark",
-    "desc": "MEA spokesperson Randhir Jaiswal also spoke on the ongoing protest in the Pakistan Occupied Kashmir (PoK), saying the agitation was a \"direct consequence\" of \"systemic economic exploitation, denial of fundamental rights and administrative oppression in areas under its illegal and forcible occupation\".​​ Earlier, Khawaja Asif had issued a warning to India, saying Islamabad could resort to military action if its water security comes under threat.",
-    "img": "https://static.toiimg.com/photo/msid-131938065,imgsize-124746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/attempt-to-deflect-india-snubs-khwaja-asifs-will-go-to-war-over-indus-remark/articleshow/131935902.cms",
-    "time": "2026-06-23T12:39:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "R Madhavan gets Padma Shri, greets PM Modi, Alka Yagnik gets Padma Bhushan",
     "desc": "President Murmu bestowed the remaining Padma Awards 2026, including Padma Bhushan for Mammootty and Alka Yagnik, at Rashtrapati Bhavan. Prime Minister Modi and other dignitaries attended the ceremony where 65 honours were presented. Notable recipients also included R Madhavan and Rohit Sharma, while veteran actor Satish Shah was honoured posthumously. This follows an earlier ceremony where Dharmendra received a posthumous Padma Vibhushan.",
@@ -430,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-conferred-with-padma-shri-greets-pm-narendra-modi-alka-yagnik-mammootty-get-padma-bhushan-by-president-droupadi-murmu-watch-video/articleshow/131937650.cms",
     "time": "2026-06-23T12:32:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Parineeti Chopra opens up on ‘Namami Shamishan’",
-    "desc": "Parineeti Chopra has unveiled \"Namami Shamishan,\" a devotional hymn to Lord Shiva, born from her personal spiritual practices during pregnancy. This release marks a new, deeply personal chapter in her creative journey, distinct from film-related music. She emphasizes the profound responsibility of performing sacred hymns with purity and sincerity, a sentiment echoed by her husband Raghav Chadha, whose father also cherished the hymn.",
-    "img": "https://static.toiimg.com/photo/msid-131937808,imgsize-177531.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/song-was-born-during-pregnancy-parineeti-chopra-opens-up-on-namami-shamishan-reveals-raghav-chadhas-reaction/articleshow/131937817.cms",
-    "time": "2026-06-23T12:31:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,15 +468,6 @@ const newsData_en = [
     "time": "2026-06-23T12:07:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Can give Bumrah competition too': Kareena turns bowler for son Taimur",
-    "desc": "Kareena Kapoor Khan charmed her followers by engaging in a fun cricket session with her son, Taimur Ali Khan, where she cheekily challenged Indian cricket sensation Jasprit Bumrah. She shared delightful candid clips on Instagram, highlighting her playful personality. Meanwhile, anticipation builds for her upcoming thriller ‘Daayra’, set to release on September 18, where it will contend at the box office with ‘Vibe’.",
-    "img": "https://static.toiimg.com/photo/msid-131936791,imgsize-220982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/can-give-bumrah-competition-too-kareena-kapoor-khan-turns-bowler-for-son-taimur-makes-playful-claim-tags-jasprit-bumrah/articleshow/131936752.cms",
-    "time": "2026-06-23T12:05:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rui Hachimura wants Asia's basketball dream to grow bigger",
     "desc": "As teenagers from across Asia gathered inside Singapore's OCBC Arena for the NBA Rising Stars Invitational, Los Angeles Lakers forward Rui Hachimura made it clear that his vision extends beyond Japan. The first Japanese player drafted in the first round of the NBA Draft wants to inspire \"the whole Asia\" and create more pathways to the league, with Lauren Jackson and Hall of Famer Mitch Richmond echoing the importance of opportunities and grassroots development.",
@@ -475,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/not-just-japan-rui-hachimura-wants-asias-basketball-dream-to-grow-bigger/articleshow/131936301.cms",
     "time": "2026-06-23T12:05:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikrant on Rajkumar Hirani’s films: 'You can never truly hate the villain in his films'",
-    "desc": "the real 'villain' in his stories is often the circumstance rather than an individual. Hirani masterfully delves into empathy and the mixed motives of characters, resulting in tales that resonate deeply and authentically with the audience.",
-    "img": "https://static.toiimg.com/photo/msid-131936622,imgsize-65668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikrant-massey-shares-a-unique-insight-into-rajkumar-hiranis-films-ahead-of-the-release-of-pritam-and-pedro-you-can-never-truly-hate-the-villain-in-his-films/articleshow/131936541.cms",
-    "time": "2026-06-23T12:00:27.000Z"
   },
   {
     "cat": "Business",
@@ -711,15 +702,6 @@ const newsData_en = [
     "time": "2026-06-23T07:01:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'France will probably beat us': Haaland's reality check ahead of Mbappe showdown",
-    "desc": "The Manchester City forward now has four goals in the World Cup, level with France's Kylian Mbappe and one behind Lionel Messi. Norway's victory also takes them to six points in Group I, alongside France, with the two sides set to meet on Friday to decide the group winner.",
-    "img": "https://static.toiimg.com/photo/msid-131927887,imgsize-546370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/france-will-probably-beat-us-haaland-cools-norway-fifa-world-cup-hype-before-mbappe-showdown/articleshow/131927738.cms",
-    "time": "2026-06-23T06:41:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "LPG imports to cross 1 million tonnes amid Middle East disruption",
     "desc": "India's LPG imports from the US are set to hit a record 1 million tonnes in June, a significant shift driven by Middle Eastern supply disruptions. Despite higher costs, New Delhi is prioritizing uninterrupted cooking fuel for households. While traditional suppliers are gradually recovering, the US has become a crucial alternative source, highlighting a strategic pivot in energy sourcing.",
@@ -736,15 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sebis-new-ease-of-business-push-what-may-change-for-stock-exchanges-brokers/articleshow/131926687.cms",
     "time": "2026-06-23T05:45:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why is gold not rising too much despite lower oil prices? Check June 23, 2026 outlook",
-    "desc": "A consistent rise in gold prices due to drop in oil prices is being constrained by hawkish outlook from central banks which are signalling a possible rate hike to keep inflationary pressures in check, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.",
-    "img": "https://static.toiimg.com/photo/msid-131926487,imgsize-668157.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-june-23-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/131926452.cms",
-    "time": "2026-06-23T05:29:02.000Z"
   },
   {
     "cat": "Business",
@@ -774,33 +747,6 @@ const newsData_en = [
     "time": "2026-06-23T04:51:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'Foundation for a final deal': US hits pause on Iranian oil sanctions after nuclear push",
-    "desc": "The US has temporarily lifted sanctions on Iranian oil for 60 days, allowing its production and sale. This move follows Iran's agreement to permit UN nuclear inspectors and ensure free passage through the Strait of Hormuz. Vice President JD Vance hailed the understanding as a crucial foundation for a future deal, though nuclear talks are still in early stages. Any potential asset releases would be restricted for American benefit.",
-    "img": "https://static.toiimg.com/photo/msid-131925155,imgsize-1173931.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/foundation-for-a-final-deal-us-hits-pause-on-iranian-oil-sanctions-after-nuclear-push/articleshow/131924894.cms",
-    "time": "2026-06-23T04:26:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices rebound as US-Iran peace hopes temper Hormuz supply fears",
-    "desc": "On Tuesday, oil prices enjoyed a modest rise as they bounced back from a previous decline. Investors are tentatively hopeful about the ongoing US-Iran peace discussions, yet they remain cautious about the reopening of the Strait of Hormuz for crude exports. Despite early indicators showing improved maritime movements and declining US strategic oil reserves, skepticism lingers as traders look for solid proof of restoring shipping operations.",
-    "img": "https://static.toiimg.com/photo/msid-131924495,imgsize-105236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/oil-prices-today-23-june-2026-crude-prices-rebound-as-us-iran-peace-hopes-temper-hormuz-supply-fears/articleshow/131924381.cms",
-    "time": "2026-06-23T03:50:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Elon Musk's SpaceX seeks funds for AI and starship",
-    "desc": "SpaceX is tapping the bond market for the first time, seeking funds for its ambitious AI and next-gen space tech projects, even as it boasts over $100 billion in cash. This move allows capital raising without diluting shareholder control. The announcement comes amid a significant drop in SpaceX shares post-IPO, which nonetheless propelled Elon Musk to trillionaire status. The company's expansion into AI and Starship development is driving substantial investment.",
-    "img": "https://static.toiimg.com/photo/msid-131924203,imgsize-64811.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/from-ipo-boom-to-bond-debut-elon-musks-spacex-seeks-funds-for-ai-and-starship/articleshow/131923643.cms",
-    "time": "2026-06-23T03:15:14.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. Senate passes bipartisan housing bill aimed at increasing supply, lowering prices",
     "desc": "The bill, which passed 85-5 and now heads to the House, has been the focus of intense negotiations in recent weeks as lawmakers in both parties try to address housing costs in an election year",
@@ -810,15 +756,6 @@ const newsData_en = [
     "time": "2026-06-22T23:09:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "Russian strikes kill five, including Egyptian man: Kyiv",
-    "desc": "“A drone strike set fire to a vessel sailing under the flag of Panama. A crew member was killed — a 58-year-old cook, a citizen of Egypt,” Ukrainian Deputy Prime Minister Oleksii Kuleba said on Telegram",
-    "img": "https://th-i.thgim.com/public/incoming/58jbp1/article71132786.ece/alternates/LANDSCAPE_1200/2026-06-22T065838Z_2136969626_RC2UYLAVY9ME_RTRMADP_3_UKRAINE-CRISIS-ATTACK-SUMY-REGION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russian-drone-strike-in-ukraine-kills-three-from-one-family-including-13-year-old-boy/article71132750.ece",
-    "time": "2026-06-22T18:08:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBI Bulletin",
     "desc": "As an outcome of the West Asia conflict, the CPI headline inflation inched up sequentially to 3.9% (y-o-y) in May 2026 from 3.5% in the preceding month, driven by broad-based increases in all three categories - food & beverages, fuel and core components",
@@ -826,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/global-economic-landscape-remains-fragile-rbi-bulletin/article71133893.ece",
     "time": "2026-06-22T17:21:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "All about Abelardo De La Espriella, Colombia’s new President",
-    "desc": "Abelardo De La Espriella has won Colombia’s presidential election, defeating Senator Ivan Cepeda in a closely fought contest. His victory returns Colombia to the political right after four years under outgoing President Gustavo Petro, the country’s first left-wing President, who was barred by the Constitution from seeking re-election.",
-    "img": "https://th-i.thgim.com/public/incoming/wwquvy/article71134493.ece/alternates/LANDSCAPE_1200/Abelardo%20De%20La%20Espriella.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/watch-all-about-abelardo-de-la-espriella-colombias-new-president/article71134491.ece",
-    "time": "2026-06-22T16:29:16.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/lack-of-investment-chapter-in-india-uk-trade-deal-not-a-concern-says-muscatelli/article71122017.ece",
     "time": "2026-06-22T11:56:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Were eight crore new jobs created in three years?",
+    "desc": "Prime Minister Modi, based on the India-KLEMS database, claimed that India created “eight crore new jobs in the last three to four years”. However, analysts are questioning the methodology used to estimate these numbers. They argue that little meaningful employment was created in these years",
+    "img": "https://th-i.thgim.com/public/incoming/x6cbff/article68551871.ece/alternates/LANDSCAPE_1200/iStock-1506386661.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/were-8-crore-new-jobs-created-in-three-years/article68551862.ece",
+    "time": "2026-06-22T11:52:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why have India’s statistical databases been upgraded?",
+    "desc": "What key economic indicators have been revised? Why was an overhaul of the databases necessary? What changes were made to the national accounts and GDP estimates? How has the measurement of industrial output been improved? What changes have been made to India’s inflation indicators?",
+    "img": "https://th-i.thgim.com/public/incoming/e4juej/article71127215.ece/alternates/LANDSCAPE_1200/2026-06-01T111550Z_1786597117_RC2UOKAEVBZK_RTRMADP_3_INDIA-ECONOMY-INDUSTRIAL-PRODUCTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/why-have-indias-statistical-databases-been-upgraded-explained/article71127004.ece",
+    "time": "2026-06-22T05:52:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AI is helping patients understand cancer but misunderstand doctors",
+    "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/1qs3pd/article71100260.ece/alternates/LANDSCAPE_1200/angiola-harry-SJCalEw-1LM-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
+    "time": "2026-06-21T10:16:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EU FTA puts India on a level playing field against competitors in labour-intensive sectors: chief negotiator",
+    "desc": "Chief negotiator Darpan Jain also said that, apart from an overall benefit to all States, the FTA provides sectoral benefits to several States such as Tamil Nadu, Andhra Pradesh, Karnataka, Kerala, Gujarat, Maharashtra, among others",
+    "img": "https://th-i.thgim.com/public/incoming/g5jl7d/article70561484.ece/alternates/LANDSCAPE_1200/2026-01-27T153953Z_2048715005_RC2J9JAG6OA1_RTRMADP_3_EU-TRADE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/eu-fta-puts-india-on-a-level-playing-field-against-competitors-in-labour-intensive-sectors-chief-negotiator/article70561289.ece",
+    "time": "2026-06-21T10:14:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kolkata’s rain playlist, memories and monsoon moments",
+    "desc": "What does a Fossils song, a bowl of khichuri, a wedding shehnai and a scene from Apur Sansar have in common? For many Kolkatans, they are all part of the soundtrack of rain. As monsoon returns to the city, Kolkatans recall the music, films, loves and losses that resurface with every downpour.",
+    "img": "https://th-i.thgim.com/public/incoming/v2neov/article71109127.ece/alternates/LANDSCAPE_1200/image%2024.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/world-music-day-2026-kolkatas-rain-playlist-memories-and-monsoon-moments/article71109025.ece",
+    "time": "2026-06-21T02:56:02.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Telegram challenge puts spotlight on Section 69A of the IT Act",
+    "desc": "Using the provision to block an entire platform may infringe on Constitutional rights to freedom of expression and freedom to practise a profession or run a business, similar to a blanket ban on internet services",
+    "img": "https://th-i.thgim.com/public/incoming/h10cvw/article71119084.ece/alternates/LANDSCAPE_1200/2026-06-17T064411Z_207211350_RC2IVLAOMH83_RTRMADP_3_INDIA-TELEGRAM-EDUCATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telegram-challenge-puts-spotlight-on-section-69a-of-the-it-act/article71118292.ece",
+    "time": "2026-06-19T03:08:50.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Telegram evolved into ‘new dark web’: Centre",
+    "desc": "Relying upon an I4C assessment, the government says the app’s architecture and privacy features have made it a preferred tool for cybercriminals, fraud networks, extremist and terror groups, and operators involved in examination paper leaks",
+    "img": "https://th-i.thgim.com/public/incoming/msj2nb/article71117261.ece/alternates/LANDSCAPE_1200/2026-06-16T065334Z_954098010_RC2WPGA8QOR8_RTRMADP_3_INDIA-TELEGRAM-EDUCATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telegram-delhi-hc-hearing-government-neet-retest-restrictions/article71117255.ece",
+    "time": "2026-06-18T20:21:40.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Connecting oceans, across an isthmus",
+    "desc": "The Panama Canal might have been officially opened for business on August 15, 1914, but there were many firsts leading up to it, including one on June 8, when the S.S. Alliance became the first ocean going vessel to make lockage at the canal. A.S.Ganesh takes a look at various aspects of this canal and what makes it still tick, more than 110 years later…",
+    "img": "https://th-i.thgim.com/public/incoming/24d9at/article71028361.ece/alternates/LANDSCAPE_1200/2026-03-25T015052Z_289505356_RC25BKA7CLVS_RTRMADP_3_PANAMA-CANAL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/panama-canal-connecting-oceans-across-an-isthmus/article71028353.ece",
+    "time": "2026-06-18T11:15:11.000Z"
   }
 ];
