@@ -1,12 +1,93 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "21 કે 22 વર્ષનો છે વૈભવ સૂર્યવંશી ? આયર્લેન્ડ શ્રેણી પહેલા પૂર્વ પાકિસ્તાની ક્રિકેટરના દાવાએ મચાવ્યો હોબાળો",
+    "desc": "માત્ર 15 વર્ષની ઉંમરે વૈભવ સૂર્યવંશી તેની વિસ્ફોટક બેટિંગથી ચાહકોના દિલ જીતી રહ્યો છે. તેની ઉંમર અંગે વારંવાર પ્રશ્નો ઉભા થાય છે. હવે, એક પૂર્વ પાકિસ્તાની ક્રિકેટરે દાવો કર્યો છે કે વૈભવ કદાચ 21 કે 22 વર્ષનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-21-or-22-years-old-former-pakistani-cricketer-claim-482549 ",
+    "time": "2026-06-24T11:29:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્રિકેટ જગત માટે દુઃખદ સમાચાર, આ દિગ્ગજ ક્રિકેટરનું બર્થ ડેના દિવસે જ નિધન",
+    "desc": "ન્યૂઝીલેન્ડ ક્રિકેટે જાહેરાત કરી હતી કે પૂર્વ ફાસ્ટ બોલર બોબ બ્લેરનું તેમના 94મા જન્મદિવસે જ ઇંગ્લેન્ડમાં અવસાન થયું છે. બોબ બ્લેરે 1953 થી 1964 દરમિયાન 19 ટેસ્ટ મેચ રમી હતી. તેમણે સ્થાનિક ક્રિકેટમાં પણ શાનદાર પ્રદર્શન કર્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/former-new-zealand-cricket-bob-blair-passes-away-on-his-94th-birthday-482543 ",
+    "time": "2026-06-24T10:42:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આવી હિંમત ક્યાંથી આવે? મંગેતરને ખીણમાં ધકેલ્યા બાદ ગણતરીના કલાકોમાં સિયાએ કરી હતી આ પોસ્ટ",
+    "desc": "સિમરન, સોનમ અને હવે સિયા....આ તે શું થઈ રહ્યું છે? પુણેના કેતન અગ્રવાલની લોહાગઢ કિલ્લામાં ધક્કો મારીને મોત નિપજાવનારી સિયા વિશે એક બાદ એક એવા ચોંકાવનારા ખુલાસા થઈ રહ્યા છે જેને જાણીને તમે પણ હચમચી જશો. કેતનને મોતના મુખમાં ધકેલ્યા બાદ સિયાએ સોશિયલ મીડિયામાં મગરના આંસુ સાર્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lohagadh-fort-ketan-agarwal-death-case-siya-goyal-instagram-post-viral-482540 ",
+    "time": "2026-06-24T10:03:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "&amp;#039;પરમાણુ યુદ્ધની અણી પર છે દુનિયા...&amp;#039; કિમ જોંગ ઉનની ભયાનક ચેતવણીએ અમેરિકામાં ખળભળાટ, સમુદ્રમાં ઉતાર્યું સૌથી ખતરનાક હથિયાર!",
+    "desc": "ઉત્તર કોરિયાના નેતા કિમ જોંગ ઉને વિશ્વને પરમાણુ યુદ્ધના ભય વિશે ચેતવણી આપી છે. તેમણે અમેરિકા અને તેના સાથી દેશો પર પ્રાદેશિક તણાવ વધારવાનો આરોપ લગાવ્યો છે અને ઉત્તર કોરિયાની નૌકાદળ શક્તિને વધુ મજબૂત બનાવવાની યોજનાઓ જાહેર કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/kim-jong-uns-terrifying-warning-caused-a-stir-in-america-the-most-dangerous-weapon-was-launched-into-the-sea-482529 ",
+    "time": "2026-06-24T09:36:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જો એ સંકેતો વહેલા સમજી શક્યા હોત... કેતનની હત્યા પહેલાંની એ ભયાનક કહાની",
+    "desc": "પુણેના ઉદ્યોગપતિ કેતન અગ્રવાલની હત્યા કેસમાં એક મોટો ખુલાસો થયો છે. કેતનને તેની મંગેતર સિયા ગોયલના ફોનના વ્યસન અને તેના બોયફ્રેન્ડ ચેતનના ઉલ્લેખ પર શંકા હતી. તેના પિતાએ કયા અદ્રશ્ય સંકેતો શોધી કાઢ્યા તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/dad-did-you-check-sia-background-ketan-had-suspicions-before-the-murder-he-had-found-many-clues-482526 ",
+    "time": "2026-06-24T09:34:09.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "TATAની CNG ગાડીઓ માઇલેજમાં મારુતિથી પાછળ કેમ? જાણો અસલી કારણ",
+    "desc": "મારુતિ સુઝુકીની CNG કાર હાઈ એવરેજ પર ધ્યાન કેન્દ્રિત કરે છે, જ્યારે ટાટા મોટર્સ સેફ્ટી, બિલ્ડ ક્વોલિટી અને સારા ડ્રાઇવિંગ અનુભવ પર ધ્યાન કેન્દ્રિત કરે છે. જો તમે ફક્ત માઇલેજને પ્રાથમિકતા આપો છો, તો મારુતિની વેગનઆર, સેલેરિયો, ડિઝાયર, સ્વિફ્ટ, બ્રેઝા અને વિક્ટોરિસ વધુ સારા વિકલ્પો છે. જો કે, જો તમે સલામત અને મજબૂત વાહન ઇચ્છતા હોવ, તો ટાટાની CNG કાર તમારા માટે વધુ સારી રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/why-are-tata-cng-cars-behind-maruti-in-mileage-know-the-real-reason-482524 ",
+    "time": "2026-06-24T08:45:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "TMKOC ફેમ &amp;#039;બાઘા&amp;#039; પર તૂટ્યો દુ:ખોનો પહાડ, પિતા અરવિંદ વેકરિયાએ દુનિયાને કર્યું અલવિદા",
+    "desc": "ગુજરાતી રંગભૂમિના જાણીતા કલાકાર અને તારક મહેતા...સીરિયલમાં બાઘાનું પાત્ર ભજવનારા તન્મય વેકરિયાના પિતા અરવિંદ વેકરિયાનું નિધન થતા મનોરંજન જગતમાં શોકની લહેર ફરીવળી છે. આગવી અભિનય શૈલીથી તેઓ ખુબ જાણીતા હતા અને બહોળો ચાહકવર્ગ ધરાવતા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/tmkoc-fame-bagha-aka-tanmay-vekaria-father-arvind-vekaria-passes-away-482521 ",
+    "time": "2026-06-24T08:34:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "33°C માં ગરમ હૂડી, સાપ વિશે નકલી નાટક, ગુમ થયેલો પાસપોર્ટ... સિયા અને ચેતનની પાંચ ભૂલો જેણે કેતન હત્યા કેસનો ભેદ ઉકેલ્યો",
+    "desc": "પુણેના હાઈપ્રોફાઈલ કેતન અગ્રવાલ હત્યાકાંડમાં પોલીસે મંગેતર સિયા અને તેના પ્રેમી ચેતનની ધરપકડ કરી છે. 33 ડિગ્રી ગરમીમાં આરોપીએ હૂડી પહેરી, સાપ દેખાવાનું કહી ધક્કો મારવાનું નાટક અને 238 કલાકના કોલ રેકોર્ડિંગે આ ખતરનાક ષડયંત્રનો પર્દાફાશ કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pune-high-profile-murder-case-how-5-blunders-and-238-hours-of-call-records-nailed-fianc%C3%A9e-siya-and-her-lover-for-killing-ketan-agarwal-482519 ",
+    "time": "2026-06-24T08:24:15.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "6 મહિનામાં 2004 કોલ, 238 કલાક વાતો... મંગેતરની હત્યા કરનાર સિયાના રહસ્યએ બધાને ચોંકાવ્યા!",
     "desc": "પોતાના પતિ રાજા રઘુવંશીની હત્યા કરનારી સોનમ જેવું ખતરનાક પુણેની સિયાએ કર્યું છે. બંને હત્યાકાંડમાં ઘણી સમાનતાઓ છે. માત્ર 20 વર્ષની સિયાએ પોતાના મગરના આંસુઓથી પરિવારજનોને તો છેતરી દીધા, પરંતુ પોલીસની સામે તે ન બની શકી. તપાસ દરમિયાન અનેક ચોંકાવનારા ખુલાસા થયા છે. જાણો સિયા અને તેના બોયફ્રેન્ડે કઈ રીતે આ હત્યાકાંડને અંજામ આપ્યો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/like-the-sonam-case-pune-womans-alleged-murder-conspiracy-leaves-police-astonished-482502 ",
-    "time": "2026-06-24T06:44:39.000Z"
+    "time": "2026-06-24T07:35:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચ પહેલા મોટો નિર્ણય! આ કર્મચારીઓને મળશે જૂની પેન્શન યોજનાનો લાભ, સરકારે આપી રાહત",
+    "desc": "8મા પગારપંચ પર ચાલી રહેલી ચર્ચાઓ વચ્ચે કેન્દ્ર સરકારે Compassionate Appointment મેળવતા કર્મચારીઓને મોટી રાહત આપી છે. સરકારે સ્પષ્ટતા કરી છે કે જે કર્મચારીઓએ 31 ડિસેમ્બર, 2003ના રોજ અથવા તે પહેલાં અરજી કરી હતી, તેઓ જૂની પેન્શન યોજના (OPS)નો લાભ મેળવી શકે છે, પછી ભલે તેમની નિમણૂક કરવામાં આવે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-decision-before-8th-pay-commission-these-employees-will-get-the-benefit-of-old-pension-scheme-government-gives-relief-482517 ",
+    "time": "2026-06-24T07:31:19.000Z"
   },
   {
     "cat": "Sports",
@@ -135,15 +216,6 @@ const newsData_gu = [
     "time": "2026-06-23T07:21:25.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ભૂલથી પણ ન તોડતા રેલવેના આ 10 નિયમ! ટ્રેનમાં સિગારેટ પીનારા અને ભીખ માંગનારા સાવધાન, દંડની રકમમાં ધરખમ વધારો",
-    "desc": "જો કોઈ વ્યક્તિ ઘટનાસ્થળે દંડ ન ભરે, તો તેને કોર્ટમાં રજૂ કરવામાં આવશે. કોર્ટમાં ગુનો સાબિત થવા પર તેના પર વધુમાં વધુ 5,000 રૂપિયા સુધીનો દંડ થઈ શકે છે. ઓછામાં ઓછો 2,000 રૂપિયાનો દંડ તો ચોક્કસ લાગશે જ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/do-not-break-these-railway-rules-even-by-mistake-beware-of-those-who-smoke-cigarettes-and-beg-on-trains-fines-have-been-increased-drastically-482243 ",
-    "time": "2026-06-23T07:14:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "મેસ્સીને લાગ્યા 20 વર્ષ, 16 મેચમાં એમ્બાપ્પેએ કર્યો કમાલ, મહારેકોર્ડ પર લગાવ્યું &amp;#039;ગ્રહણ&amp;#039;",
     "desc": "ફુટબોલ વિશ્વકપમાં બે કેપ્ટન પોતાની ટીમ તરફથી શાનદાર પ્રદર્શન કરી રેકોર્ડ બનાવી રહ્યાં છે. એક તરફ આર્જેન્ટીનાના કેપ્ટન મેસ્સીએ ફુટબોલ વિશ્વકપમાં સૌથી વધુ ગોલ કરવાનો રેકોર્ડ પોતાના નામે કરી લીધો છે, તો બીજીતરફ મેસ્સીને ટક્કર ફ્રાન્સનો કેપ્ટન કિલિયન એમ્બાપ્પે આપી રહ્યો છે.",
@@ -234,15 +306,6 @@ const newsData_gu = [
     "time": "2026-06-22T13:09:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "4 દિવસમાં બે વાર ટકરાશે ભારત-પાકિસ્તાન, જાણો ક્યારે અને ક્યાં જોઈ શકશો લાઈવ મેચ",
-    "desc": "સ્પોર્ટ્સ પ્રેમીઓ માટે સારા સમાચાર છે, ભારત અને પાકિસ્તાન વચ્ચે ચાર દિવસના સમયગાળામાં બે હાઇ-વોલ્ટેજ મુકાબલા થવાના છે. ભારત અને પાકિસ્તાન વચ્ચેની મેચને લઈને હંમેશા ચાહકોમાં ઉત્સાહ જોવા મળે છે. ત્યારે આ લેખમાં જાણીશું કે, તમે આ બે મેચ ક્યારે અને ક્યાં લાઇવ જોઈ શકશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-and-pakistan-clash-twice-in-4-days-in-mens-fih-pro-league-482329 ",
-    "time": "2026-06-22T12:57:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ડાર્ક કોમેડી ફિલ્મ કોને કહેવાય જાણવું છે ? તો ઓટીટી પર અત્યારે જ જુઓ આ ફિલ્મ",
     "desc": "જો તમને ડાર્ક કોમેડી જોનરની ફિલ્મો જોવી પસંદ છે તો આજે તમને ઓટીટી પર જોવા જેવી ડાર્ક કોમેડી ફિલ્મ વિશે જણાવીએ. આ ફિલ્મમાં રોમાન્સ, ડ્રામા, કોમેડી બધું જ એકસાથે જોવા મળશે. આ ફિલ્મ કેટલી જોરદાર હશે તે વાતનો અંદાજ તમે એ વાત પરથી લગાવી શકો છો કે ફિલ્મને 5 ઓસ્કર એવોર્ડ મળ્યા છે.",
@@ -259,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/can-andy-burnham-become-the-next-prime-minister-of-britain-know-who-this-leader-known-as-the-king-of-the-north-is-482326 ",
     "time": "2026-06-22T12:11:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઇજિપ્તની ટીમે રચ્યો ઇતિહાસ, ફૂટબોલ વર્લ્ડ કપમાં 92 વર્ષ બાદ પહેલીવાર જીત્યું",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026માં ગ્રુપ Gની એક મેચમાં ઇજિપ્તે શાનદાર પ્રદર્શન કરીને ન્યુઝીલેન્ડને 3-1થી હરાવ્યું. આ ફૂટબોલ વર્લ્ડ કપના ઇતિહાસમાં ઇજિપ્તનો પ્રથમ વિજય પણ છે, જેણે 92 વર્ષ અને 25 દિવસ પહેલા ડેબ્યૂ કર્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-egypt-win-in-world-cup-after-92-year-482320 ",
-    "time": "2026-06-22T10:59:12.000Z"
   },
   {
     "cat": "World",
@@ -295,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/what-documents-are-required-to-fill-itr1-to-itr-7-you-should-know-check-details-482304 ",
     "time": "2026-06-22T09:28:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સાઉથ આફ્રિકા સામે હારતા જ ફસાયો પેચ ! હવે કેવી રીતે સેમિફાઈનલમાં પહોંચશે ટીમ ઈન્ડિયા ? જાણો સંપૂર્ણ સમીકરણ",
-    "desc": "ભારતીય ટીમ માટે ICC મહિલા T20 વર્લ્ડ કપ 2026ની સેમિફાઇનલમાં પહોંચવાનું સમીકરણ હવે થોડું મુશ્કેલ બની ગયું છે. દક્ષિણ આફ્રિકા સામેની હાર બાદ બાંગ્લાદેશ અને ઓસ્ટ્રેલિયા સામેની આગામી મેચો ટીમ ઇન્ડિયા માટે કરો યા મરો જેવી મેચ બની ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/womens-t20-world-cup-2026-team-india-qualification-scenario-for-semifinals-482303 ",
-    "time": "2026-06-22T09:22:38.000Z"
   },
   {
     "cat": "Business",
@@ -358,24 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/crude-oil-prices-fall-will-petrol-and-diesel-rates-fall-in-india-check-the-latest-rates-482269 ",
     "time": "2026-06-22T05:16:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ચોમાસામાં કુદરતનો અદભુત નજારો માણવો છે? આ 4 સ્થળોએ જવાનું ચૂકશો નહીં!",
-    "desc": "ચોમાસાની ઋતુ ફક્ત ઠંડી પવન અને ધરતીની સુગંધ વિશે જ નથી, તે પ્રવાસીઓ માટે એક સુંદર સમય પણ માનવામાં આવે છે. વરસાદની ઋતુ દરમિયાન, પર્વતો, ધોધ, હરિયાળી અને વાદળોથી ઢંકાયેલી ખીણો એક જાદુઈ દૃશ્ય બનાવે છે. જો તમે આ ઋતુમાં આરામદાયક પ્રવાસનું આયોજન કરી રહ્યા છો, તો આ સ્થળો ચોક્કસપણે તમારી યાદીમાં હોવા જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/want-to-enjoy-the-amazing-view-of-nature-during-the-monsoon-dont-miss-out-on-these-4-places-482235 ",
-    "time": "2026-06-21T14:09:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આ રાજ્ય બનવા જઈ રહ્યું છે દેશનું સૌથી મોટું ગોલ્ડ હબ, મળ્યો સોનાનો સૌથી મોટો ખજાનો!",
-    "desc": "આંધ્રપ્રદેશનો જોન્નાગિરી ગોલ્ડ પ્રોજેક્ટ દેશના ગોલ્ડ પ્રોડક્શનમાં મોટો બદલાવ લાવી શકે છે. અધિકારીઓનો દાવો છે કે, અહીં અંદાજે 50 ટન સોનાનો ભંડાર હાજર છે અને આવનારા વર્ષોમાં આંધ્રપ્રદેશ ભારતનું સૌથી વધુ સોનું ઉત્પાદન કરતું રાજ્ય બની શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/this-state-is-going-to-become-the-country-biggest-gold-hub-the-biggest-gold-treasure-has-been-found-482221 ",
-    "time": "2026-06-21T13:32:00.000Z"
   },
   {
     "cat": "Tech",
@@ -603,15 +630,6 @@ const newsData_gu = [
     "time": "2026-06-18T06:41:22.000Z"
   },
   {
-    "cat": "World",
-    "title": "અમેરિકા-ઈરાન વચ્ચે શાંતિ સમજૂતિ થઈ ગઈ, ટ્રમ્પે ફ્રાન્સમાં કર્યા હસ્તાક્ષર, જાણો વિગતો",
-    "desc": "મિડલ ઈસ્ટમાં શાંતિ સ્થપાય તેવા પૂરેપૂરા એંધાણ જોવા મળી રહ્યા છે. ફ્રાન્સમાં યોજાયેલા જી7 સમિટ ટાણે જ અમેરિકા અને ઈરાન વચ્ચે શાંતિ સમજૂતિ પર હસ્તાક્ષર પણ થયા હોવાનું સામે આવ્યું છે. આ સહી પહેલા જીનેવામાં આયોજિત બેઠકમાં થવાની હતી. અમેરિકા અને ઈરાન બંનેએ તેની પુષ્ટિ કરી છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-iran-peace-deal-big-update-donald-trump-signs-agreement-what-iran-says-481831 ",
-    "time": "2026-06-18T03:30:55.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "વિશ્વાસ નહીં થાય! 25 વર્ષના ભારતીય છોકરાએ AIમાં એવું તે શું કર્યું કે એલન મસ્કે 60 અબજ ડોલરની આપી દીધી ઓફર ?",
     "desc": "એલોન મસ્કના સ્પેસએક્સે 60 બિલિયન ડોલરના સોદામાં AI કોડિંગ પ્લેટફોર્મ કર્સર ખરીદવાની જાહેરાત કરી છે. ભારતીય મૂળના અમન સંગર દ્વારા સહ-સ્થાપિત, આ કંપની વિશ્વના સૌથી ઝડપથી વિકસતા AI સ્ટાર્ટઅપ્સમાંની એક છે. આ સોદાને એલોન મસ્કની AI વ્યૂહરચના માટે એક મોટું પગલું માનવામાં આવી રહ્યું છે.",
@@ -657,15 +675,6 @@ const newsData_gu = [
     "time": "2026-06-16T17:33:53.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "વહેલી સવારે પેટ્રોલ ભરાવો તો વધારે આવે, વર્ષો જૂના આ આ દાવામાં કેટલું સત્ય ?",
-    "desc": "શું ખરેખર સવારે વહેલા ટાંકી ભરાવાથી પેટ્રોલ વધારે આવે ? વર્ષોથી ચાલી આવતી આ થિયરી પાછળનું સત્ય આખરે સામે આવ્યું છે. આ લેખમાં જાણીશું કે, શું પેટ્રોલ ભરાવવાનો પણ કોઈ સમય છે કે પછી આ એક ભ્રમ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/petrol-filling-morning-or-night-you-will-get-more-know-the-truth-behind-it-481668 ",
-    "time": "2026-06-16T09:40:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bigg Boss 20 નું શૂટિંગ સપ્ટેમ્બરથી થશે શરુ, સલમાન ખાનના રિયાલિટી શોમાં આવનાર સ્પર્ધકોમાં સેંટી શર્માનું નામ ટોપ પર",
     "desc": "લોકપ્રિય ટીવી રિયાલિટી શો બિગ બોસની 20 મી સીઝનની તૈયારીઓ જોરશોરથી થઈ રહી છે. બિગ બોસનું શૂટિંગ સપ્ટેમ્બર મહિનાથી શરુ થઈ શકે છે અને અત્યારે બિગ બોસ 20 ના સ્પર્ધકોના નામની ચર્ચાઓ થઈ રહી છે. જેમાં રેપર સેન્ટી શર્માનું નામ ટોપ પર છે.",
@@ -673,14 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bigg-boss-20-update-rapper-santy-sharma-may-join-bigg-boss-20-as-contestant-481650 ",
     "time": "2026-06-16T08:00:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "&amp;#039;ઘણીવાર મરવાની વાતો કરતી...&amp;#039; સંચિતા ઉગલેના નિધન પછી ખાસ મિત્રે કર્યો ચોંકાવનારો ખુલાસો",
-    "desc": "ટીવી એક્ટ્રેસ સંચિતા ઉગલેએ 22 વર્ષની ઉંમરે જીવન ટુંકાવી લીધું. 14 જૂન 2026 ના રોજ સંચિતા તેના ઘરમાં મૃત્ય અવસ્થામાં મળી હતી. સંચિતા ઉગલેના મોત પછી તેની નજીકની મિત્ર અને અભિનેત્રી મેઘા શર્માએ ચોંકાવનારા ખુલાસા કર્યા છે. મેઘા શર્માએ શું કહ્યું ચાલો તમને જણાવીએ વિસ્તારપૂર્વક.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/actress-sanchita-ugale-friend-and-actress-megha-sharma-reveal-shocking-truth-related-to-sanchita-ugale-481622 ",
-    "time": "2026-06-16T02:40:15.000Z"
   }
 ];

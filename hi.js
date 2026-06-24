@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When can Shubman Gill become World No.1 ODI batter after latest mega jump past Virat Kohli?",
+    "desc": "India captain Shubman Gill has leapfrogged veteran batter Virat Kohli to jump to the second spot in the ICC ODI rankings for batters, rising three spots from fifth after his recent exploits against Afghanistan. The ODI...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-can-shubman-gill-become-world-no1-odi-batter-after-latest-mega-jump-past-virat-kohli-2026-06-24-1045986",
+    "time": "2026-06-24T11:36:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matt Henry ends 36-year-old drought for New Zealand as Bumrah's No.1 crown shared, Joe Root top-ranked again",
+    "desc": "Matt Henry ended a 36-year-old drought for New Zealand as he became just the third Kiwi bowler to be ranked World No.1 in the ICC Test rankings, as per the latest ICC update. He joins...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/matt-henry-ends-36-year-old-drought-for-new-zealand-as-bumrahs-no1-crown-shared-joe-root-top-ranked-again-2026-06-24-1045966",
+    "time": "2026-06-24T08:28:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First time in 60 years! England achieve major unwanted record after goalless draw with Ghana",
+    "desc": "England were left \"frustrated\" after playing out a goalless draw against Ghana despite controlling the majority of the possession and creating multiple chances in their World Cup clash at the Boston Stadium on Wednesday (June...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/first-time-in-60-years-england-achieve-major-unwanted-record-after-goalless-draw-with-ghana-2026-06-24-1045963",
+    "time": "2026-06-24T08:19:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo opens up on prospect of facing Lionel Messi for first time in FIFA World Cup",
+    "desc": "Cristiano Ronaldo announced his comeback with a stellar brace against Uzbekistan in Portugal's second outing in the FIFA World Cup 2026. The Portuguese talisman had a horror outing against Congo Dr in the first game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-opens-up-on-prospect-of-facing-lionel-messi-for-first-time-in-fifa-world-cup-2026-06-24-1045955",
+    "time": "2026-06-24T07:28:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England name playing XI for third Test against New Zealand, Ben Stokes makes much awaited return",
     "desc": "The ECB (England and Wales Cricket Board) have come forward and announced their playing XI for the upcoming third Test against New Zealand. It is worth noting that the series is at a standstill currently,...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/por-vs-uzb-fifa-world-cup-2026-live-score-cristiano-ronaldo-in-action-as-portugal-prepare-for-first-win-1045888",
     "time": "2026-06-23T16:45:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi gives his reaction after missing penalty against Austria in recent FIFA World Cup 2026 clash",
-    "desc": "Argentina have got off to a perfect start to the ongoing FIFA World Cup 2026. Coming into the tournament as the defending champions, Argentina kicked off the tournament with a 3-0 win over Algeria. A...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-gives-his-reaction-after-missing-penalty-against-austria-in-recent-fifa-world-cup-2026-clash-2026-06-23-1045885",
-    "time": "2026-06-23T16:13:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer gives his take on Tilak Varma's recent performances ahead of Ireland-England tour",
-    "desc": "The stage is set as the Indian team will be touring Ireland and England for a multi-format white-ball series. It is worth noting that the Men in Blue will take on Ireland across two T20Is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-gives-his-take-on-tilak-varma-s-recent-performances-ahead-of-ireland-england-tour-2026-06-23-1045877",
-    "time": "2026-06-23T14:42:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma, former India captain, receives Padma Shri from President Droupadi Murmu",
-    "desc": "Former India captain Rohit Sharma on Tuesday received the Padma Shri Award from President Droupadi Murmu at the Rashtrapati Bhavan. Sharma was honoured with the fourth-highest civilian award for his stellar contribution to cricket. Sharma was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-former-india-captain-receives-padma-shri-from-president-droupadi-murmu-watch-2026-06-23-1045860",
-    "time": "2026-06-23T12:34:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vijay Amritraj, India's tennis great, awarded Padma Bhushan; know his achievements",
-    "desc": "Vijay Amritraj, India's tennis great, was awarded the prestigious Padma Bhushan by President Droupadi Murmu at the Rashtrapati Bhavan. Amritraj was conferred with the third-highest civilian honour for his contributions to the sport. Amritraj was an Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vijay-amritraj-indias-tennis-great-awarded-padma-bhushan-know-his-achievements-2026-06-23-1045856",
-    "time": "2026-06-23T12:23:31.000Z"
   }
 ];
