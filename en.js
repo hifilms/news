@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "VCK wants CM Vijay to reconsider gold ring scheme",
+    "desc": "Vijay’s remarks in the Assembly, in which he appeared to mock the electoral loss of former CM Stalin in Kolathur, were not “befitting the dignity associated with the office of the Chief Minister”, says Thirumavalavan",
+    "img": "https://th-i.thgim.com/public/incoming/nwnhjg/article71143393.ece/alternates/LANDSCAPE_1200/IMG_Thirumavalavan_2_1_87DVEU85.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/vck-wants-cm-vijay-to-reconsider-gold-ring-scheme/article71142761.ece",
+    "time": "2026-06-24T19:06:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Symbolism or substance? T.N.’s public health professionals question gold ring scheme",
+    "desc": "The gold ring may be intended as a celebration of birth, but for many within the public health sector, the more pressing need is investment in the workforce and infrastructure that makes safe deliveries possible, say health officials and doctors",
+    "img": "https://th-i.thgim.com/public/incoming/m2rjo3/article71143379.ece/alternates/LANDSCAPE_1200/CHILDREN%20HOSPITAL",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/symbolism-or-substance-tns-public-health-professionals-question-gold-ring-scheme/article71142944.ece",
+    "time": "2026-06-24T19:00:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Video showing Higher Education Minister touching girl athletes’ legs sparks outrage",
+    "desc": "Video captures him touching outstretched legs of athletes and cracking their toes while another guest was seen shaking hands with them; a complaint has been lodged at the DGP’s office against the Minister by lawyer Saranya Natarajan of the DMK’s Legal wing.",
+    "img": "https://th-i.thgim.com/public/incoming/yix7lm/article71142522.ece/alternates/LANDSCAPE_1200/DSC_5311.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/video-showing-higher-education-minister-touching-girl-athletes-legs-sparks-outrage/article71141756.ece",
+    "time": "2026-06-24T18:45:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Jude Bellingham was not sent off despite breaking World Cup's most debated new rule",
+    "desc": "Jude Bellingham found himself at the centre of World Cup controversy after being filmed covering his mouth while speaking to Ghana captain Jordan Ayew during England's 0-0 draw. However, FIFA's new mouth-covering rule applies only to confrontational exchanges, allowing Bellingham to avoid punishment. The midfielder later addressed a separate heated clash with Ghana's coaching staff following a reckless challenge.",
+    "img": "https://static.toiimg.com/photo/msid-131975919,imgsize-1057451.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-jude-bellingham-was-not-sent-off-despite-breaking-world-cups-most-debated-new-rule/articleshow/131974958.cms",
+    "time": "2026-06-24T18:33:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kolkata under-construction warehouse collapse: Amid death and despair, kin of workers search for the living",
+    "desc": "There is no clarity as to how many workers were working at the site when accident occurred on June 24 afternoon; Chief Minister Suvendu Adhikari said that most of the workers were brought to work at the site from Bihar",
+    "img": "https://th-i.thgim.com/public/incoming/bitxra/article71143196.ece/alternates/LANDSCAPE_1200/20260624454L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/kolkata-under-amid-death-and-despair-kin-of-workers-search-for-the-living/article71142317.ece",
+    "time": "2026-06-24T18:16:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Anti-farmer and anti-worker’: Kisan Mazdoor Morcha protest India-US trade deal, burn effigies of PM Modi and Donald Trump",
+    "desc": "Farmers in Punjab protested the proposed India-US trade agreement, fearing it will harm domestic agriculture, labourers, and small traders. Burning effigies of leaders, they demanded the pact's cancellation, citing concerns over increased imports and unfair competition from subsidized American farmers. This opposition echoes past farm law debates, with calls for MSP guarantees and irrigation reforms.",
+    "img": "https://static.toiimg.com/photo/msid-131974952,imgsize-1794313.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/anti-farmer-and-anti-worker-kisan-mazdoor-morcha-protest-india-us-trade-deal-burn-effigies-of-pm-modi-and-donald-trump/articleshow/131974843.cms",
+    "time": "2026-06-24T18:02:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM asks states to fast-track e-zero FIR in cyber crime cases",
+    "desc": "Prime Minister Narendra Modi urged states to implement e-Zero FIRs for cybercrime victims, aiming to prevent further harassment and financial loss. He emphasized the need for swift action, better coordination among agencies, and public awareness to combat rising digital fraud. The PM also reviewed progress on the TB Mukt Bharat Abhiyan and stressed efficient infrastructure project planning using the PM GatiShakti National Master Plan.",
+    "img": "https://static.toiimg.com/photo/msid-131974641,imgsize-985965.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-asks-states-to-fast-track-e-zero-fir-in-cyber-crime-cases/articleshow/131974644.cms",
+    "time": "2026-06-24T17:52:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "VHP seeks FIR, fast track court to look into Ram Temple donation allegations",
+    "desc": "“FIR should be filed at the first place. Then investigation needs to be expedited and fast rack court should take-up the matter on day to Day basis,” he said, adding that guilty persons must get punishment",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/vhp-seeks-fir-fast-track-court-to-look-into-ram-temple-donation-allegations/article71142387.ece",
+    "time": "2026-06-24T17:49:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government removes ‘bonus’ clause for early completion of NH projects in hill states",
+    "desc": "Government has scrapped early completion bonuses for highway projects in hilly regions to prioritize quality construction. New mandates require slopes to withstand a monsoon before final road work begins. Stricter geological checks and slope monitoring are now compulsory, with payments tied to stability measures. This aims to curb landslides and ensure safer, more durable infrastructure in sensitive terrains.",
+    "img": "https://static.toiimg.com/photo/msid-131974572,imgsize-776673.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-removes-bonus-clause-for-early-completion-of-nh-projects-in-hill-states/articleshow/131974575.cms",
+    "time": "2026-06-24T17:49:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deepti Sharma on verge of history as India star eyes world record vs Bangladesh",
+    "desc": "Indian all-rounder Deepti Sharma is on the cusp of cricket history, needing just one wicket against Bangladesh to become the leading wicket-taker in women's international cricket, surpassing Jhulan Goswami. Despite a recent loss, Deepti's consistent performance, especially her five-wicket haul, highlights her prowess. However, Team India faces middle-order batting concerns and fielding lapses ahead of this crucial World Cup encounter.",
+    "img": "https://static.toiimg.com/photo/msid-131974522,imgsize-106526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/womens-t20-world-cup-deepti-sharma-on-verge-of-history-as-india-star-eyes-all-time-bowling-record-vs-bangladesh/articleshow/131974457.cms",
+    "time": "2026-06-24T17:47:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "China stands ready to work with India, says Chinese Foreign Ministry spokesperson",
+    "desc": "Beijing is ready to work with New Delhi to enhance mutual trust and dispel doubts, says Lin Jian, the spokesperson; This comes after Chinese Foreign Minister Wang Yi met PM Modi on June 23, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/anzsae/article71143115.ece/alternates/LANDSCAPE_1200/PTI06_24_2026_000491B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/china-stands-ready-to-work-with-india-says-chinese-foreign-ministry-spokesperson/article71142876.ece",
+    "time": "2026-06-24T17:44:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shiv Sena (UBT) MPs meet Speaker, demand letter submitted by leaders joining Shinde camp",
+    "desc": "Shiv Sena (UBT) has questioned the lack of transparency surrounding the entry of six MPs into the ruling Shiv Sena led by Eknath Shinde; it had submitted a letter to the Speaker seeking a hearing on this.",
+    "img": "https://th-i.thgim.com/public/incoming/s4flbv/article71141270.ece/alternates/LANDSCAPE_1200/PTI06_17_2026_000117A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-arvind-sawant-anil-desai-meeting-speaker-om-birla-updates/article71141215.ece",
+    "time": "2026-06-24T17:42:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Turkey working on legislation to speed up militant PKK's disbandment, Erdogan says",
+    "desc": "The move signals a potential breakthrough after a peace process between ‌the Turkish state and the PKK came to a near standstill in recent months ‌due to the Iran war and ‌the ⁠concerns it triggered about further regional instability",
+    "img": "https://th-i.thgim.com/public/incoming/h6mn4j/article71143220.ece/alternates/LANDSCAPE_1200/2026-06-24T111549Z_42867051_RC23RKAMBVH7_RTRMADP_3_TURKEY-KURDS-ERDOGAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/turkey-working-on-legislation-to-speed-up-militant-pkks-disbandment-erdogan-says/article71143209.ece",
+    "time": "2026-06-24T17:33:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP accuses Congress president and his son of ‘land grab’ through trust in Karnataka",
+    "desc": "The BJP’s attack on Mallikarjun Kharge and his son Priyank Kharge came a day after the Congress asked why the allegation of a ‘land scam’ in Madhya Pradesh purportedly involving family members of CM Mohan Yadav were not being probed",
+    "img": "https://th-i.thgim.com/public/incoming/rztc5s/article71143205.ece/alternates/LANDSCAPE_1200/Pradeep%20Bhandari.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bjp-accuses-congress-president-and-his-son-of-land-grab-through-trust-in-karnataka/article71142571.ece",
+    "time": "2026-06-24T17:32:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lucky note in phone, Gurindervir Singh targets sub-10 mark",
+    "desc": "Gurindervir Singh shattered the 100m national record, clocking 10.09 seconds and aiming for a sub-10 finish. Overcoming past health struggles and financial hardships, the Indian Navy sprinter credits his transformation to meticulous training under coach James Hillier. With upcoming major games on the horizon, Singh is focused on pushing boundaries and achieving greater success for India.",
+    "img": "https://static.toiimg.com/photo/msid-131973664,imgsize-42008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/lucky-note-in-phone-gurindervir-singh-targets-sub-10-mark/articleshow/131973661.cms",
+    "time": "2026-06-24T17:13:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As FCRA restricts NGOs, Supreme Court had agreed that right to associate is not carte blanche for foreign funds",
+    "desc": "The Foreign Contribution (Regulation) Amendment Rules, 2026, notified by the Union Home Ministry on June 22, has introduced tougher limits on NGOs to receive foreign donations; these amendments, and the ones before them, source their legality from the Centre’s argument in the Supreme Court that the freedom to form associations do not include a right to receive unbridled foreign funds or to use the money outside ‘permissible activities’",
+    "img": "https://th-i.thgim.com/public/incoming/o4fyx1/article71137104.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/as-fcra-restricts-ngos-supreme-court-had-agreed-that-right-to-associate-is-not-carte-blanche-for-foreign-funds/article71142455.ece",
+    "time": "2026-06-24T17:09:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UDF government’s stance on PM SHRI unconstitutional",
+    "desc": "The MoU was entered into by the Secretary, Education Department, Government of Kerala, and the Additional Secretary, Department of Education, Government of India, and not in the name of the President and the Governor as mandated under Article 299. Hence, the said MoU is a nullity",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/udf-governments-stance-on-pm-shri-unconstitutional/article71141787.ece",
+    "time": "2026-06-24T17:07:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What constitutes a ‘workplace’ under POSH Act?",
+    "desc": "The High Court, in its judgment dated June 16, set aside the findings of an Internal Complaints Committee (ICC) that had held a State Bank of India (SBI) employee guilty of sexual harassment based on an incident that occurred during such travel",
+    "img": "https://th-i.thgim.com/public/incoming/vrohn0/article71143161.ece/alternates/LANDSCAPE_1200/iStock-1051720322.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-constitutes-a-workplace-under-posh-act/article71141271.ece",
+    "time": "2026-06-24T17:05:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vindu defends Salman after ARM blamed him for Sikandar's failure",
+    "desc": "Salman Khan's Sikandar may have failed to impress at the box office, but the film continues to make headlines over the debate surrounding the superstar's work ethic. After director AR Murugadoss reportedly blamed Salman for the film's underwhelming performance and alleged that the actor would arrive late on set, actor Vindu Dara Singh has come out in support of the Bollywood star.",
+    "img": "https://static.toiimg.com/photo/msid-131973339,imgsize-87742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vindu-dara-singh-defends-salman-khan-after-ar-murugadoss-blamed-him-for-sikandars-failure-ye-galat-baat-hai-ki-salman-late-aata-hai/articleshow/131973275.cms",
+    "time": "2026-06-24T16:54:36.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Farmer's daughter Anushka Yadav scripts history, becomes India's youngest ...",
     "desc": "Eighteen-year-old Anushka Yadav etched her name in history at the National Inter-State Championships, becoming the youngest Indian athletics national record holder. She shattered the women's hammer throw record with a remarkable 67.02m, surpassing the previous mark twice during the competition. Hailing from a farming family, Yadav's journey from rural Uttar Pradesh to national glory is an inspiring tale of dedication and talent.",
@@ -7,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/farmers-daughter-anushka-yadav-scripts-history-in-athletics-becomes-indias-youngest-national-record-holder/articleshow/131973258.cms",
     "time": "2026-06-24T16:51:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "China stands ready to work with India, says Chinese Foreign Ministry spokesperson",
-    "desc": "Beijing is ready to work with New Delhi to enhance mutual trust and dispel doubts, says Lin Jian, the spokesperson; This comes after Chinese Foreign Minister Wang Yi met PM Modi on June 23, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/out1e0/article71143115.ece/alternates/LANDSCAPE_1200/PTI06_24_2026_000491B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/china-stands-ready-to-work-with-india-says-chinese-foreign-ministry-spokesperson/article71142876.ece",
-    "time": "2026-06-24T16:43:56.000Z"
   },
   {
     "cat": "Politics",
@@ -63,24 +225,6 @@ const newsData_en = [
     "time": "2026-06-24T16:09:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "UDF government’s stance on PM SHRI unconstitutional",
-    "desc": "The MoU was entered into by the Secretary, Education Department, Government of Kerala, and the Additional Secretary, Department of Education, Government of India, and not in the name of the President and the Governor as mandated under Article 299. Hence, the said MoU is a nullity",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/udf-governments-stance-on-pm-shri-unconstitutional/article71141787.ece",
-    "time": "2026-06-24T15:58:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Thrikkakara municipality installing fencing along road after fatal fall of girl triggers protests",
-    "desc": "Twelve-year-old Rihana Kathrine Andrews, a Class VII student, succumbed to severe head injuries after losing control of her bicycle and falling from the elevated road at Mavelipuram in Kakkanad into the premises of an apartment complex below",
-    "img": "https://th-i.thgim.com/public/incoming/i1s5y5/article71142824.ece/alternates/LANDSCAPE_1200/Kakkanad_03.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/thrikkakara-municipality-installing-fencing-along-road-after-fatal-fall-of-girl-triggers-protests/article71142357.ece",
-    "time": "2026-06-24T15:56:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "NSE retains India’s most valuable unlisted company tag, ahead of Serum Institute, Adani Properties",
     "desc": "The National Stock Exchange (NSE) leads India's most valuable unlisted companies with a Rs 4.86 lakh crore valuation, according to the 2025 Burgundy Private Hurun India 500 report. This comes as NSE files for a massive IPO. India Inc. now surpasses $3.4 trillion in value, though top companies saw a slight dip. Reliance Industries remains the most valuable firm, while Bajaj Finance leads in percentage value creation.",
@@ -115,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-tells-samay-raina-she-couldnt-stop-laughing-while-watching-indias-got-latent-on-a-flight-not-realising-raha-was-sleeping-next-to-me/articleshow/131971982.cms",
     "time": "2026-06-24T15:31:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. Waqf Board recovers 700 acres of land, plans new initiatives",
-    "desc": "Addressing the 15th board meeting, Waqf Board Chairman says several encroached lands — 56 acres in Kovur, 24 acres in Kandukur, and 34 acres in Ramayapatnam — have been reclaimed in the last couple of years",
-    "img": "https://th-i.thgim.com/public/incoming/aa2p4f/article71142733.ece/alternates/LANDSCAPE_1200/10745_24_6_2026_20_6_42_1_IMG_20260624_WA0050.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-waqf-board-recovers-700-acres-of-land-plans-new-initiatives/article71142610.ece",
-    "time": "2026-06-24T15:17:08.000Z"
   },
   {
     "cat": "Politics",
@@ -486,24 +621,6 @@ const newsData_en = [
     "time": "2026-06-24T10:32:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Matt Henry joins Jasprit Bumrah, becomes first Kiwi in 36 years to ...",
-    "desc": "Matt Henry has achieved a historic feat, joining Jasprit Bumrah at the pinnacle of the ICC Test bowling rankings. Both pacers now share the World No. 1 spot with 870 rating points. Henry's remarkable 11-wicket haul at The Oval propelled him to this elite status, ending a 36-year wait for a New Zealand seamer to reach the top.",
-    "img": "https://static.toiimg.com/photo/msid-131964490,imgsize-187568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/matt-henry-ends-36-year-wait-joins-jasprit-bumrah-as-joint-no-1-in-icc-test-bowling-rankings/articleshow/131963249.cms",
-    "time": "2026-06-24T10:19:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanjay on about his personal connect with Main Vaapas Aaunga",
-    "desc": "Sanjay Suri, who plays Jasmer in Imtiaz Ali's 'Main Vaapas Aaunga', opened up about his deep personal connect with the film. Having lost his father during the Kashmir militancy in 1990, Suri said the film's themes of displacement, grief and loss of home resonated with his own family's lived history.",
-    "img": "https://static.toiimg.com/photo/msid-131964523,imgsize-317450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-theme-of-displacement-and-search-sanjay-suri-opens-up-about-his-personal-connect-with-main-vaapas-aaunga/articleshow/131964523.cms",
-    "time": "2026-06-24T10:17:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Airfares could rise by up to 25% as jet fuel costs surge, says McKinsey",
     "desc": "Global jet fuel supplies are facing significant pressure due to geopolitical events and refinery limitations, according to McKinsey. This is driving up costs for airlines, with potential airfare hikes of 20-25% expected as fuel prices surge. Inventories remain low, and key exporting regions are restricting shipments, creating a challenging outlook for the summer travel season.",
@@ -529,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-overtakes-virat-kohli-to-claim-no-2-spot-in-latest-icc-odi-rankings/articleshow/131963216.cms",
     "time": "2026-06-24T09:59:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amy Adams recalls saving a man’s life with her father",
-    "desc": "During a heartfelt episode of the 'Smartless' podcast, Hollywood star Amy Adams shared an intense moment when she saved a man's life. While enjoying time with her family in Santa Monica, she swiftly intervened when a man suffered a stab wound to the neck, applying towels to stop the bleeding and offering reassurance. The man recovered and expressed profound gratitude to Adams, leaving a lasting impact on her.",
-    "img": "https://static.toiimg.com/photo/msid-131963302,imgsize-98068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amy-adams-recalls-saving-mans-life-in-santa-monica-weve-been-sort-of-the-first-people-on-the-scene/articleshow/131963255.cms",
-    "time": "2026-06-24T09:54:17.000Z"
   },
   {
     "cat": "Politics",
@@ -574,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/at-82-sudharani-raghupathy-explains-what-ai-will-never-achieve/article71137129.ece",
     "time": "2026-06-24T09:29:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Root reclaims no. 1 spot in ICC Test rankings ahead of Trent Bridge decider",
-    "desc": "Joe Root has reclaimed the world's top Test batting ranking, dethroning teammate Harry Brook after a stellar performance in the recent England-New Zealand Test. This marks Root's 12th stint at No. 1. He now aims to solidify his position in the series decider at Trent Bridge, where England also seeks to improve their World Test Championship standing after a slow over-rate penalty.",
-    "img": "https://static.toiimg.com/photo/msid-131962752,imgsize-145074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-reclaims-no-1-spot-in-icc-test-rankings-ahead-of-trent-bridge-decider-against-new-zealand/articleshow/131962567.cms",
-    "time": "2026-06-24T09:24:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -630,15 +729,6 @@ const newsData_en = [
     "time": "2026-06-24T08:14:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Tujhe full freedom hai': Axar Patel's message to Rishabh Pant",
-    "desc": "Rishabh Pant's return to Delhi Capitals for IPL 2027 has been met with full backing from captain Axar Patel. Patel emphasized Pant will have complete freedom, stressing their long-standing mutual understanding. He assured Pant there's no extra pressure, calling Delhi his home. Patel believes Pant's inherent class will shine through, encouraging him to enjoy his natural game.",
-    "img": "https://static.toiimg.com/photo/msid-131959993,imgsize-57024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tujhe-full-freedom-hai-axar-patels-message-to-rishabh-pant-after-delhi-capitals-return/articleshow/131959987.cms",
-    "time": "2026-06-24T07:57:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "From 10 GW nuclear power capacity to big energy plans",
     "desc": "The announcement comes as the conglomerate steps up investments across the energy value chain, aiming to play a central role in India's evolving energy landscape at a time when energy security has become an increasingly important national priority.",
@@ -648,33 +738,6 @@ const newsData_en = [
     "time": "2026-06-24T07:32:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Accused received Rs 10 lakh from Punjab officials to fabricate clip, cops say",
-    "desc": "Punjab chief minister Bhagwant Mann faces a political storm over an alleged Rs 10 lakh deal for a forensic report on a viral video. The BJP accuses Mann of suppressing allegations of sacrilegious conduct and misusing state machinery. Gurugram Police have detained two individuals in connection with fabricating the report, with the CM denying the video's authenticity and calling it a conspiracy.",
-    "img": "https://static.toiimg.com/photo/msid-131959315,imgsize-890853.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bhagwant-mann-video-row-accused-received-rs-10-lakh-from-punjab-officials-to-fabricate-clip-cops-say/articleshow/131959269.cms",
-    "time": "2026-06-24T07:22:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India keeps Iran travel warning in place, asks citizens to avoid non-essential visits",
-    "desc": "Indian citizens are recommended to delay any non-essential trips to Iran, even with advancements in diplomatic relations. While the Indian Embassy in Tehran recognizes a positive shift in security, it stresses the need for caution amidst rapidly changing regional circumstances. Nationals residing in Iran should remain alert and adhere to local guidance.",
-    "img": "https://static.toiimg.com/photo/msid-131959201,imgsize-175036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-keeps-iran-travel-warning-in-place-asks-citizens-to-avoid-non-essential-visits/articleshow/131957763.cms",
-    "time": "2026-06-24T07:16:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bengal mid-day meal menu row: Derek O’Brien attacks BJP over reports of eggs being dropped",
-    "desc": "Trinamool leader Derek O'Brien has criticized the BJP for allegedly trying to enforce a vegetarian diet by removing eggs from the mid-day meals in West Bengal. While there are claims circulating on social media about paneer and soybean substitutes, ISKCON has stated that no official menu has been finalized, labeling these reports as misleading.",
-    "img": "https://static.toiimg.com/photo/msid-131956194,imgsize-123645.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-mid-day-meal-menu-row-derek-obrien-attacks-bjp-over-reports-of-eggs-being-dropped/articleshow/131956166.cms",
-    "time": "2026-06-24T05:59:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "Cait Conley wins Democratic primary to take on Republican Congressman Mike Lawler in New York",
     "desc": "Ms. Conley is a West Point graduate and combat veteran who served in Iraq and Afghanistan; Mr. Lawler is running in an unfavorable environment for Republicans nationally, he has a strong track record of winning tough races",
@@ -682,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/cait-conley-wins-democratic-primary-to-take-on-mike-lawler-new-york/article71140306.ece",
     "time": "2026-06-24T04:20:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Neymar is ready': Ancelotti gives major update ahead of match against Scotland",
-    "desc": "Brazil faces Scotland with a mixed squad update. Star winger Raphinha is out due to injury, but veteran forward Neymar is fully fit and ready to play the entire match if needed. Coach Carlo Ancelotti confirmed Neymar's availability, highlighting his excellent training and readiness to contribute significantly to the team's performance. Neymar's return boosts Brazil's attacking options for their crucial fixture.",
-    "img": "https://static.toiimg.com/photo/msid-131954801,imgsize-823420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/neymar-is-ready-carlo-ancelotti-gives-major-update-ahead-of-fifa-world-cup-match-against-scotland/articleshow/131954718.cms",
-    "time": "2026-06-24T04:18:51.000Z"
   },
   {
     "cat": "Sports",
@@ -810,15 +864,6 @@ const newsData_en = [
     "time": "2026-06-23T10:45:31.000Z"
   },
   {
-    "cat": "World",
-    "title": "Daily Quiz",
-    "desc": "The Antarctic Treaty System, which came into force on June 23, 1961, remains one of the most ambitious international frameworks governing an entire continent. How well do you know the history of the treaties and territory of Antarctica?",
-    "img": "https://th-i.thgim.com/public/news/national/u3832f/article71136941.ece/alternates/LANDSCAPE_1200/Mount_Erebus_craters_Ross_Island_Antarctica_aerial_view_18_December_2000.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/daily-quiz-on-history-of-the-treaties-and-territory-of-antarctica/article71136944.ece",
-    "time": "2026-06-23T10:20:34.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "The strange link between AI hallucination and creativity",
     "desc": "A setting called temperature governs how adventurous an LLM’s outputs are. The higher the temperature, the more likely the model reaches for the less likely options and begins to surprise you. This is the dial you turn up when you want a poem instead of a weather report. The trouble is that the same dial governs hallucinations",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/rupee-falls-6-paise-to-9469-against-us-dollar-in-early-trade/article71136210.ece",
     "time": "2026-06-23T05:26:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ronaldo ‘a role model’ says Portugal coach after slow World Cup start",
-    "desc": "It is the sixth time he plays a World Cup, and he is a player who's been defending and playing for his country for a long time, says Portugal coach Roberto Martinez on Cristiano Ronaldo",
-    "img": "https://th-i.thgim.com/public/incoming/8vt4mp/article71136167.ece/alternates/LANDSCAPE_1200/2026-06-22T160400Z_57427512_UP1EM6M14630F_RTRMADP_3_SOCCER-WORLDCUP-POR-UZB-PREVIEW.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-ronaldo-a-role-model-says-portugal-coach-after-slow-world-cup-start/article71136122.ece",
-    "time": "2026-06-23T05:11:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Can music help you relax? India’s wellness labels think so",
-    "desc": "As mental health discussions rise, music’s therapeutic potential is in question again, exploring its calming effects. The increasing popularity of wellness music festivals further underscores a collective yearning for deeper, transformative experiences in today’s fast-paced world",
-    "img": "https://th-i.thgim.com/public/incoming/nkqolz/article71120732.ece/alternates/LANDSCAPE_1200/03mp_music_therapy.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/wellness-music-growing-in-india-chad-lawson-rishab-sharma/article70211249.ece",
-    "time": "2026-06-23T04:51:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI Bulletin",
-    "desc": "As an outcome of the West Asia conflict, the CPI headline inflation inched up sequentially to 3.9% (y-o-y) in May 2026 from 3.5% in the preceding month, driven by broad-based increases in all three categories - food & beverages, fuel and core components",
-    "img": "https://th-i.thgim.com/public/incoming/xw6qp6/article71134624.ece/alternates/LANDSCAPE_1200/PETROL%20PRICE%20HIKE%20DELHI%202026_25_05_13.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/global-economic-landscape-remains-fragile-rbi-bulletin/article71133893.ece",
-    "time": "2026-06-22T17:21:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Love ‘Tere Paas Main’ from ‘Main Vaapas Aaunga’? Meet Deepali Sahay, the voice behind this viral song",
-    "desc": "Playback singer Deepali Sahay opens up about working with A.R. Rahman for the viral song, how its scale was changed just a day before the film’s trailer launch, why she feels that she has a ‘gifted voice’ and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/slwk4j/article71132038.ece/alternates/LANDSCAPE_1200/Deepali.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/meet-deepali-sahay-tere-paas-main-ar-rahman-indian-idol-imtiaz-ali-main-vaapas-aaunga/article71131821.ece",
-    "time": "2026-06-22T12:49:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "AI is helping patients understand cancer but misunderstand doctors",
-    "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
-    "img": "https://th-i.thgim.com/public/sci-tech/science/1qs3pd/article71100260.ece/alternates/LANDSCAPE_1200/angiola-harry-SJCalEw-1LM-unsplash.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
-    "time": "2026-06-21T10:16:33.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'না বললেই তো পারতো! মারতে গেল কেন?', উত্তর হাতড়াচ্ছেন কেতনের বাবা, মা চাইছেন ফাঁসি",
+    "desc": "কেতনের বাবা বলেন, ‘যদি ও বিয়ে করতে না চাইত, তবে সহজেই না করে দিতে পারত। আমরা তৎক্ষণাৎ বিয়ে বাতিল করে দিতাম। এত বড় পদক্ষেপের কী দরকার ছিল? এরা কতটা নিষ্ঠুর মানসিকতার যে একটা ২৬ বছরের ছেলেকে খুন করে ফেলল!’",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/she-could-have-said-no-father-on-son-killed-by-fiance-near-pune-mother-demands-death-penalty_659845.html ",
+    "time": "2026-06-24T18:38:36.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'আপাতত কোনও কড়া পদক্ষেপ নয়', মিমি চক্রবর্তীর বিরুদ্ধে FIR-এ স্থগিতাদেশ হাইকোর্টের",
     "desc": "শুরুতে ধাক্কা খেতে হয়েছিল। তবে শেষপর্যন্ত আদালতে স্বস্তি পেলেন অভিনেত্রী মিমি চক্রবর্তী। তাঁর বিরুদ্ধে যে FIR দায়ের করেছিলেন তনয় শাস্ত্রী, সেই FIR-র উপর এবার স্থগিতাদেশ জারি করল কলকাতা হাইকোর্ট। বিচারপতি কৌশক চন্দের সিঙ্গল বেঞ্চের নির্দেশ, 'আপাতত কোনও কড়া পদক্ষেপ নয়'।",
@@ -133,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/sports/fifa-world-cup-2026-day-10-recap-all-matche_659357.html ",
     "time": "2026-06-21T11:01:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বলিউড আর ক্রিকেটকে দশ গোল দিয়ে যোগ-ই কি এখন বিশ্বমাঠে ভারতের 'মেসি'? সবচেয়ে শক্তিশালী গ্লোবাল ব্র্যান্ড?",
-    "desc": "বাকি বিশ্ব কী কী দিয়ে ভারতকে চিনে নেয়? দুটি মাত্র জিনিস-- বলিউড আর ক্রিকেট! কিন্তু নতুন একটা বিষয়ও এবার উঠে আসছে বলে মত অনেকের। কী সেটা? সেটা হল যোগ। ২০১৫ সালের ২১ জুন বিশ্ব জুড়ে প্রথম আন্তর্জাতিক যোগ দিবস পালিত হয়েছিল। এবার এর দ্বাদশতম উদযাপন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bollywood-cricket-yoga-which-is-indias-strongest-global-brand-indias-biggest-soft-power-success_659353.html ",
-    "time": "2026-06-21T09:27:50.000Z"
   },
   {
     "cat": "Entertainment",

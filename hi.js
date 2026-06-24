@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tennis stars to stage protest for pay rise during Wimbledon, to limit media interactions",
+    "desc": "Even though Wimbledon has already announced a record rise in prize money ahead of the 2026 event, several leading Tennis figures agreed to widen their protest during this year’s Championships. As part of their protest,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/tennis-stars-to-stage-protest-for-pay-rise-during-wimbledon-to-limit-media-interactions-2026-06-25-1046040",
+    "time": "2026-06-24T18:59:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Kane cursed? Ghanaian witch doctor claims casting spell on England captain, now lifted",
+    "desc": "England captain Harry Kane has found himself at the centre of an unusual post-match storyline following his team's scoreless FIFA World Cup 2026 draw against Ghana on Tuesday. After the game, Ghanaian spiritualist Nana Kwaku...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/harry-kane-cursed-ghanaian-witch-doctor-claims-casting-spell-on-england-captain-now-lifted-2026-06-24-1046036",
+    "time": "2026-06-24T18:02:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ben Stokes apologises to England teammates after nightclub controversy following Lord's Test",
     "desc": "England captain Ben Stokes and pacer Gus Atkinson breached the team curfew regulations after the Lord’s Test and were reportedly involved in a physical altercation at a London nightclub while celebrating the victory over New...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/matt-henry-ends-36-year-old-drought-for-new-zealand-as-bumrahs-no1-crown-shared-joe-root-top-ranked-again-2026-06-24-1045966",
     "time": "2026-06-24T08:28:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First time in 60 years! England achieve major unwanted record after goalless draw with Ghana",
-    "desc": "England were left \"frustrated\" after playing out a goalless draw against Ghana despite controlling the majority of the possession and creating multiple chances in their World Cup clash at the Boston Stadium on Wednesday (June...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/first-time-in-60-years-england-achieve-major-unwanted-record-after-goalless-draw-with-ghana-2026-06-24-1045963",
-    "time": "2026-06-24T08:19:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo opens up on prospect of facing Lionel Messi for first time in FIFA World Cup",
-    "desc": "Cristiano Ronaldo announced his comeback with a stellar brace against Uzbekistan in Portugal's second outing in the FIFA World Cup 2026. The Portuguese talisman had a horror outing against Congo Dr in the first game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-opens-up-on-prospect-of-facing-lionel-messi-for-first-time-in-fifa-world-cup-2026-06-24-1045955",
-    "time": "2026-06-24T07:28:29.000Z"
   }
 ];
