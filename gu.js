@@ -1,12 +1,12 @@
 const newsData_gu = [
   {
     "cat": "Politics",
-    "title": "EVMથી લઈને બોમ્બ ધમકી સુધી... દેશભરમાં ધમકીભર્યા ફેક ઇમેઇલ કરનાર અમદાવાદની મહિલા ઝડપાઈ",
-    "desc": "સરકારી કચેરીઓથી લઈને અગ્રણી સંસ્થાઓને 200થી વધુ ધમકીભર્યા ફેક ઇમેઇલ કરનાર મહિલાની આખરે દિલ્હી પોલીસે ધરપકડ કરી છે. આ મહિલા અમદાવાદની હોવાનું સામે આવ્યું છે. આ મામલે પોલીસે મહિલાની અટકાયત કરી આગળની તપાસ શરૂ કરી છે.",
+    "title": "એર ઇન્ડિયાની ફ્લાઇટ પાકિસ્તાનમાં ઘુસી, દિલ્હીથી અમૃતસર માટે ભરી હતી ઉડાન, જાણો પછી શું થયું",
+    "desc": "દિલ્હીથી અમૃતસર જઈ રહેલી એર ઈન્ડિયાની ફ્લાઈટ AI479 થોડા સમય માટે પાકિસ્તાની હવાઈ ક્ષેત્રમાં ઘુસી ગઈ હતી. એર ઈન્ડિયાએ આ ઘટનાને ગો-અરાઉન્ડ દરમિયાન થયેલી ભૂલ ગણાવી હતી. ટેકનિકલ નિરીક્ષણ પછી ફ્લાઈટને દિલ્હી પાછી મોકલવામાં આવી હતી અને ફરીથી અમૃતસર જવા રવાના કરવામાં આવી હતી.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ahmedabad-woman-arrested-for-fake-threat-emails-to-government-offices-482577 ",
-    "time": "2026-06-24T14:04:32.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/delhi-to-amritsar-air-india-flight-enters-pakistan-airspace-during-go-around-482580 ",
+    "time": "2026-06-24T15:05:01.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +15,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/what-was-the-reaction-of-siya-after-hearing-ketan-is-alive-482556 ",
-    "time": "2026-06-24T13:37:29.000Z"
+    "time": "2026-06-24T14:59:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EVMથી લઈને બોમ્બ ધમકી સુધી... દેશભરમાં ધમકીભર્યા ફેક ઇમેઇલ કરનાર અમદાવાદની મહિલા ઝડપાઈ",
+    "desc": "સરકારી કચેરીઓથી લઈને અગ્રણી સંસ્થાઓને 200થી વધુ ધમકીભર્યા ફેક ઇમેઇલ કરનાર મહિલાની આખરે દિલ્હી પોલીસે ધરપકડ કરી છે. આ મહિલા અમદાવાદની હોવાનું સામે આવ્યું છે. આ મામલે પોલીસે મહિલાની અટકાયત કરી આગળની તપાસ શરૂ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ahmedabad-woman-arrested-for-fake-threat-emails-to-government-offices-482577 ",
+    "time": "2026-06-24T14:04:32.000Z"
   },
   {
     "cat": "Tech",
@@ -261,15 +270,6 @@ const newsData_gu = [
     "time": "2026-06-23T05:35:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "કિલિયન એમ્બાપ્પેએ 100મી મેચમાં કર્યાં 2 ગોલ, ફ્રાન્સે ઈરાકને હરાવ્યું, રાઉન્ડ-32મા કર્યો પ્રવેશ",
-    "desc": "ફુટબોલ વિશ્વકપમાં મેસ્સી અને ફ્રાન્સનો કેપ્ટન કિલિયન એમ્બાપ્પે ધમાલ મચાવી રહ્યાં છે. એમ્બાપ્પેએ સતત બીજી મેચમાં બે ગોલ કરી પોતાની ટીમને શાનદાર જીત અપાવી છે. હવે તેણે વિશ્વકપમાં પોતાના ગોલની સંખ્યા 16 પર પહોંચાડી દીધી છે અને તે મેસ્સીના સર્વાધિક ગોલ કરતા માત્ર બે ગોલ પાછળ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/france-storm-into-knockouts-as-mbappe-celebrates-100th-cap-with-two-goals-482383 ",
-    "time": "2026-06-23T03:35:02.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ઇતિહાસમાં પહેલીવાર એક ગુજરાતી બન્યા WhatsAppના CEO, 8512 કરોડ રૂપિયાની ભારે ભરખમ ડીલ મળી!",
     "desc": "મેટાએ ભારતીય ફિનટેક સ્ટાર્ટઅપ ક્રેડ (CRED)માં આશરે 8,550 કરોડ રૂપિયાનું રોકાણ કર્યું છે. આ ડીલ અંતર્ગત સ્ટાર્ટઅપના ફાઉન્ડર મૂળ ગુજરાતી અને જાણીતા ઉદ્યોગસાહસિક કુણાલ શાહ વોટ્સએપના ગ્લોબલ સીઈઓ (WhatsApp CEO Kunal Shah) બનશે, જ્યારે વર્તમાન પ્રમુખ વિલ કૈથકાર્ટ મેટામાં નવી જવાબદારી સંભાળશે.",
@@ -376,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/will-lpg-connections-to-be-closed-on-june-30-indane-hp-and-bharat-gas-482317 ",
     "time": "2026-06-22T10:06:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ખોટું ફોર્મ ભર્યું તો દંડ પાકો! ITR-1 થી ITR-7 ની આ રહી આખી કુંડળી, જોઈ લો કયા ફોર્મ સાથે કયું કાગળ જોઈશે",
-    "desc": "ITR Filing Season શરૂ થઈ ગઈ છે. લાખો ગુજરાતીઓ એ પણ જાણતા નથી હોતા કે ITR ફોર્મ ભરવા માટે કયા કયા ડોક્યુમેન્ટની જરૂર પડે છે. Form 16, AIS, Form 26AS,બેન્ક સ્ટેટમેન્ટ, કેપીટલ ગેઈન રિપોર્ટ, GST રિટર્ન અને એકાઉન્ટના ચોપડાઓ સમયસર તૈયાર ન થાય તો રિટર્ન કેન્સલ થવાના ચાન્સ વધી જાય છે. જો તમે ITR-1થી લઈને ITR-7 સુધીના ફોર્મ ભરવા માટે જઈ રહ્યાં છો તો સૌથી પહેલાં ચેકલિસ્ટ બનાવી લેશો. જાણી લો કયા ITRમાં કયા ડોક્યુમેન્ટ જોઈશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-documents-are-required-to-fill-itr1-to-itr-7-you-should-know-check-details-482304 ",
-    "time": "2026-06-22T09:28:36.000Z"
   },
   {
     "cat": "Business",

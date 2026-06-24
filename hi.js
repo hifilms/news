@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ben Stokes apologises to England teammates after nightclub controversy following Lord's Test",
+    "desc": "England captain Ben Stokes and pacer Gus Atkinson breached the team curfew regulations after the Lord’s Test and were reportedly involved in a physical altercation at a London nightclub while celebrating the victory over New...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-apologises-to-england-teammates-after-nightclub-controversy-following-lord-s-test-2026-06-24-1046030",
+    "time": "2026-06-24T16:45:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur's strike rate is concerning in T20 World Cup, analyses former India cricketer",
+    "desc": "After two consecutive wins, India suffered a disappointing six-wicket defeat against South Africa in the ongoing T20 World Cup 2026. As things stand, their upcoming games against Bangladesh and Australia are now must-win affairs. A...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-s-strike-rate-is-concerning-in-t20-world-cup-analyses-former-india-cricketer-2026-06-24-1046026",
+    "time": "2026-06-24T16:06:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When will India's fates for Olympics 2036 be known? IOC makes latest move for timeline",
+    "desc": "India's ambitions for hosting the Olympics 2036 will not be known before mid-2029, after the International Olympic Committee (IOC) approved the addition of a Strategic Dialogue phase in the host selection process for \"greater transparency...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/when-will-india-s-fates-for-olympics-2036-be-known-ioc-makes-latest-move-for-timeline-2026-06-24-1046021",
+    "time": "2026-06-24T15:10:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will Neymar play against Scotland in FIFA World Cup 2026? Coach breaks silence",
     "desc": "Neymar could finally return when Brazil take on Scotland for their final league stage match of the FIFA World Cup 2026 on Thursday, June 24 (as per IST), coach Carlo Ancelotti highlighted. Neymar's availability has...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-opens-up-on-prospect-of-facing-lionel-messi-for-first-time-in-fifa-world-cup-2026-06-24-1045955",
     "time": "2026-06-24T07:28:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England name playing XI for third Test against New Zealand, Ben Stokes makes much awaited return",
-    "desc": "The ECB (England and Wales Cricket Board) have come forward and announced their playing XI for the upcoming third Test against New Zealand. It is worth noting that the series is at a standstill currently,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-name-playing-xi-for-third-test-gainst-new-zealand-ben-stokes-makes-much-awaited-return-2026-06-24-1045902",
-    "time": "2026-06-23T22:18:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo stars as Portugal decimate Uzbekistan in FIFA World Cup 2026 with dominant 5-0 win",
-    "desc": "Portugal put forth a magnificent performance against Uzbekistan in the ongoing FIFA World Cup 2026. The two sides met at the Houston Stadium on June 23rd, and the game was a must-win for Portugal as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-stars-as-portugal-decimate-uzbekistan-in-fifa-world-cup-2026-with-dominant-5-0-win-2026-06-24-1045898",
-    "time": "2026-06-23T20:40:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ghana hold off England, both sides share points",
-    "desc": "The FIFA World Cup 2026 continues with England taking on Ghana. The two sides are slated to meet at the Boston Stadium on June 24th, and in search of their second win, England will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/eng-vs-gha-fifa-world-cup-2026-live-score-england-aim-for-tournament-knockouts-looking-for-second-win-1045897",
-    "time": "2026-06-23T19:36:59.000Z"
   }
 ];

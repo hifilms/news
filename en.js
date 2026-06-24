@@ -1,12 +1,156 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Farmer's daughter Anushka Yadav scripts history, becomes India's youngest ...",
+    "desc": "Eighteen-year-old Anushka Yadav etched her name in history at the National Inter-State Championships, becoming the youngest Indian athletics national record holder. She shattered the women's hammer throw record with a remarkable 67.02m, surpassing the previous mark twice during the competition. Hailing from a farming family, Yadav's journey from rural Uttar Pradesh to national glory is an inspiring tale of dedication and talent.",
+    "img": "https://static.toiimg.com/photo/msid-131973293,imgsize-100902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/farmers-daughter-anushka-yadav-scripts-history-in-athletics-becomes-indias-youngest-national-record-holder/articleshow/131973258.cms",
+    "time": "2026-06-24T16:51:03.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "NMC draws the curtain on PG diploma courses; MD/MS to become sole path for specialist training",
-    "desc": "From 2027-28 onwards, the latest order states that specialist training in medical colleges will be offered only through MD and MS degree programmes and institutions are supposed to convert existing diploma seats into degree seats",
-    "img": "https://th-i.thgim.com/public/news/national/b44dcc/article71142410.ece/alternates/LANDSCAPE_1200/NMC.jpg",
+    "title": "China stands ready to work with India, says Chinese Foreign Ministry spokesperson",
+    "desc": "Beijing is ready to work with New Delhi to enhance mutual trust and dispel doubts, says Lin Jian, the spokesperson; This comes after Chinese Foreign Minister Wang Yi met PM Modi on June 23, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/out1e0/article71143115.ece/alternates/LANDSCAPE_1200/PTI06_24_2026_000491B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/nmc-draws-the-curtain-on-pg-diploma-courses-mdms-to-become-sole-path-for-specialist-training/article71142048.ece",
-    "time": "2026-06-24T14:16:33.000Z"
+    "url": "https://www.thehindu.com/news/national/china-stands-ready-to-work-with-india-says-chinese-foreign-ministry-spokesperson/article71142876.ece",
+    "time": "2026-06-24T16:43:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP Jantar Mantar sit-in day 5: Dipke appears before MeitY panel over blocking of X account",
+    "desc": "CJP’s Abhijeet Dipke questioned why similar confidentiality was not maintained in the NEET paper leak case. “Everything is confidential; you should have kept the NEET paper confidential as well. Why did that leak? These suicides would not have happened,” he said",
+    "img": "https://th-i.thgim.com/public/incoming/z9v1br/article71143092.ece/alternates/LANDSCAPE_1200/CJP%20PC%20DELHI%202026_24_06_9.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-sit-in-day-5-dipke-appears-before-meity-panel-over-blocking-of-x-account/article71142774.ece",
+    "time": "2026-06-24T16:30:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "International Maritime Organisation to evacuate thousands of stranded seafarers in Persian Gulf",
+    "desc": "The International Maritime Organisation, or IMO, has announced plans to evacuate thousands of seafarers stranded in the Persian Gulf, as authorities work to restore shipping activity following the U.S.-Iran peace agreement and the reopening of regional sea lanes.",
+    "img": "https://th-i.thgim.com/public/incoming/rf49pd/article71143057.ece/alternates/LANDSCAPE_1200/seafarers.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-international-maritime-organisation-to-evacuate-thousands-of-stranded-seafarers-in-persian-gulf/article71143060.ece",
+    "time": "2026-06-24T16:22:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's 2036 Olympic bid gets timeline: IOC reveals when the host will be finalised",
+    "desc": "India's 2036 Olympic hosting aspirations gained momentum as the IOC approved a new selection process, aiming for a host announcement by mid-2029. This revamped system introduces a \"Strategic Dialogue\" phase for greater transparency and clarity. Candidates, including India with Ahmedabad as the proposed city, will undergo rigorous evaluation, including financial guarantees and site visits, before a final decision is made.",
+    "img": "https://static.toiimg.com/photo/msid-131972788,imgsize-134145.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/indias-2036-olympic-bid-gets-timeline-ioc-reveals-when-the-host-will-be-finalised/articleshow/131972485.cms",
+    "time": "2026-06-24T16:15:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Experts",
+    "desc": "The Indian economy has seen among the worst bouts of capital repatriation, with foreign institutional investors selling more than ₹2.8 lakh crore in 2026, as earnings of the companies do not justify the prices and their returns in dollars are in the lower single digits",
+    "img": "https://th-i.thgim.com/public/incoming/m0tpvs/article71143034.ece/alternates/LANDSCAPE_1200/iStock-2210696591.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/indian-investors-may-move-to-safer-bets-amid-structural-challenges-experts/article71142257.ece",
+    "time": "2026-06-24T16:14:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Will the sacrilege controversy cost AAP’s Bhagwant Mann his CM seat?",
+    "desc": "the row over Punjab Chief Minister Bhagwant Mann’s alleged sacrilege video, Kolkata warehouse roof collapse that left at least three people dead, criticism over Maharashtra’s RTI rules amendments, findings from a UN inquiry report on Gaza, and more.",
+    "img": "https://th-i.thgim.com/public/news/national/u78p4c/article71142988.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-24%20at%208.46.14%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-will-the-sacrilege-controversy-cost-aaps-bhagwant-mann-his-cm-seat-above-the-fold-24062026/article71143010.ece",
+    "time": "2026-06-24T16:09:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UDF government’s stance on PM SHRI unconstitutional",
+    "desc": "The MoU was entered into by the Secretary, Education Department, Government of Kerala, and the Additional Secretary, Department of Education, Government of India, and not in the name of the President and the Governor as mandated under Article 299. Hence, the said MoU is a nullity",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/udf-governments-stance-on-pm-shri-unconstitutional/article71141787.ece",
+    "time": "2026-06-24T15:58:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thrikkakara municipality installing fencing along road after fatal fall of girl triggers protests",
+    "desc": "Twelve-year-old Rihana Kathrine Andrews, a Class VII student, succumbed to severe head injuries after losing control of her bicycle and falling from the elevated road at Mavelipuram in Kakkanad into the premises of an apartment complex below",
+    "img": "https://th-i.thgim.com/public/incoming/i1s5y5/article71142824.ece/alternates/LANDSCAPE_1200/Kakkanad_03.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/thrikkakara-municipality-installing-fencing-along-road-after-fatal-fall-of-girl-triggers-protests/article71142357.ece",
+    "time": "2026-06-24T15:56:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "NSE retains India’s most valuable unlisted company tag, ahead of Serum Institute, Adani Properties",
+    "desc": "The National Stock Exchange (NSE) leads India's most valuable unlisted companies with a Rs 4.86 lakh crore valuation, according to the 2025 Burgundy Private Hurun India 500 report. This comes as NSE files for a massive IPO. India Inc. now surpasses $3.4 trillion in value, though top companies saw a slight dip. Reliance Industries remains the most valuable firm, while Bajaj Finance leads in percentage value creation.",
+    "img": "https://static.toiimg.com/photo/msid-131972312,imgsize-93884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hurun-india-500-nse-retains-indias-most-valuable-unlisted-company-tag-ahead-of-serum-institute-adani-properties/articleshow/131972115.cms",
+    "time": "2026-06-24T15:55:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samantha Ruth Prabhu blushes as she confirms pregnancy",
+    "desc": "Samantha Ruth Prabhu has confirmed that she is expecting her first child and will be taking a maternity break after completing her current professional commitments. Speaking to the media during the success meet of Maa Inti Bangaaram on Wednesday, Samantha addressed the speculation surrounding her pregnancy and revealed that she plans to step away from work for a brief period.",
+    "img": "https://static.toiimg.com/photo/msid-131972298,imgsize-55238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhu-blushes-as-she-confirms-pregnancy-at-maa-inti-bangaaram-success-meet-i-will-have-to-take-a-small-break/articleshow/131972215.cms",
+    "time": "2026-06-24T15:53:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Schedule, timings, squads and all you need to know",
+    "desc": "India A's multi-day tour of Sri Lanka commences with a two-match unofficial Test series in Galle, offering emerging talents a vital platform. Led by Dhruv Jurel, the squad features promising players like Aquib Nabi, Sai Sudharsan, and Devdutt Padikkal, all vying for higher honours. This series is a crucial assessment of bench strength and potential future national contenders, especially with challenging conditions expected.",
+    "img": "https://static.toiimg.com/photo/msid-131972059,imgsize-43673.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-a-vs-sri-lanka-a-unofficial-test-2026-full-schedule-match-timings-squads-and-all-you-need-to-know/articleshow/131971992.cms",
+    "time": "2026-06-24T15:33:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Not realising Raha'",
+    "desc": "Alia Bhatt recently made a much-talked-about appearance on the first episode of India’s Got Latent Season 2 alongside Sharvari as the duo promoted their upcoming film Alpha. The episode turned out to be a massive hit, garnering over 43 million views on YouTube alone. Now, behind-the-scenes clips from the show are making waves online, with one particular moment featuring Alia grabbing fans' attention.",
+    "img": "https://static.toiimg.com/photo/msid-131972027,imgsize-82900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-tells-samay-raina-she-couldnt-stop-laughing-while-watching-indias-got-latent-on-a-flight-not-realising-raha-was-sleeping-next-to-me/articleshow/131971982.cms",
+    "time": "2026-06-24T15:31:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A.P. Waqf Board recovers 700 acres of land, plans new initiatives",
+    "desc": "Addressing the 15th board meeting, Waqf Board Chairman says several encroached lands — 56 acres in Kovur, 24 acres in Kandukur, and 34 acres in Ramayapatnam — have been reclaimed in the last couple of years",
+    "img": "https://th-i.thgim.com/public/incoming/aa2p4f/article71142733.ece/alternates/LANDSCAPE_1200/10745_24_6_2026_20_6_42_1_IMG_20260624_WA0050.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-waqf-board-recovers-700-acres-of-land-plans-new-initiatives/article71142610.ece",
+    "time": "2026-06-24T15:17:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Speaker Birla to decide on TMC, Sena (UBT) defections before Monsoon Session",
+    "desc": "According to sources, legal and constitutional experts attached to Parliament are currently examining the matter and are expected to provide their recommendations before a final decision is taken. Previous rulings by presiding officers in comparable situations are also being studied to ensure any decision is legally and constitutionally sound. Apart from the rebel factions of the TMC and Shiv Sena (UBT), the DMK has also sought a separate seating arrangement following the collapse of its long-standing alliance with the Congress.",
+    "img": "https://static.toiimg.com/photo/msid-131971790,imgsize-1255295.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/speaker-birla-to-decide-on-tmc-sena-ubt-defections-before-monsoon-session/articleshow/131971751.cms",
+    "time": "2026-06-24T15:13:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After 'successful curse' on Kane, Ghana witch doctor frees striker of spell",
+    "desc": "England's goalless World Cup draw with Ghana drew attention after Ghanaian witch doctor Nana Kwaku Bonsam claimed he had cursed Harry Kane and later lifted the hex following the striker's missed chance. The bizarre story sparked headlines, while pundits criticised England's flat performance and said they were fortunate to avoid defeat. Despite concerns, most believe Thomas Tuchel's side remains well placed ahead of its final group-stage match against Panama.",
+    "img": "https://static.toiimg.com/photo/msid-131971136,imgsize-117640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/watch-after-successful-curse-on-harry-kane-ghana-witch-doctor-frees-england-star-of-spell/articleshow/131970709.cms",
+    "time": "2026-06-24T14:24:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about Alka Yagnik's rare hearing disorder",
+    "desc": "Veteran singer Alka Yagnik, recently honored with the Padma Bhushan, revealed her prolonged absence from public life is due to Sensorineural Hearing Loss (SNHL). This rare disorder, triggered by a viral attack, has significantly impacted her hearing. Despite her health challenges, Yagnik's immense contribution to Indian music continues to be celebrated, with fans expressing support for her recovery.",
+    "img": "https://static.toiimg.com/photo/msid-131970991,imgsize-303957.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/padma-bhushan-alka-yagnik-is-suffering-from-rare-hearing-disorder-heres-all-you-need-to-know-about-it-as-fans-wish-for-her-recovery/articleshow/131970446.cms",
+    "time": "2026-06-24T14:19:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -27,40 +171,13 @@ const newsData_en = [
     "time": "2026-06-24T14:13:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Power-sharing row sparks fresh turmoil in Pala municipality",
-    "desc": "Independent councillor Maya Rahul’s planned resignation from her vice-chairperson post on June 26 is now in jeopardy, as sources indicate she may refuse to step down, complicating the UDF’s efforts to finalise a successor amid escalating tensions between Congress and independent members.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/power-sharing-row-sparks-fresh-turmoil-in-pala-municipality/article71142149.ece",
-    "time": "2026-06-24T14:12:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chief Minister Chandrababu Naidu inaugurates Jonnagiri gold project in Kurnool district",
-    "desc": "It marks the beginning of the transformation of Rayalaseema into ‘Ratanala Seema’, says the Chief Minister, and underscores the need for creating jewellery manufacturing unit in the region to deepen the industrial base and encourage more skilled employment",
-    "img": "https://th-i.thgim.com/public/incoming/lcnhgv/article71142301.ece/alternates/LANDSCAPE_1200/10745_24_6_2026_17_1_42_1_IMG_20260624_WA0037.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-inaugurates-jonnagiri-gold-project-in-kurnool-district/article71141757.ece",
-    "time": "2026-06-24T14:06:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu CM Vijay tells ‘kutty story’ in Assembly; Udhayanidhi says House turned into a cinema",
-    "desc": "Though the CM did not name anyone from the Opposition parties in his story, his comments were widely interpreted as a reference to the defeat of former CM and DMK president M.K. Stalin in Kolathur",
-    "img": "https://th-i.thgim.com/public/incoming/wjqp9w/article71139156.ece/alternates/LANDSCAPE_1200/20260623137L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-tells-short-story-in-assembly-udhayanidhi-says-house-turned-into-a-cinema/article71137692.ece",
-    "time": "2026-06-24T14:03:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Farmer group protests against proposed India-U.S. deal in Punjab",
-    "desc": "‘Once again, no discussions have been held with those involved in dairy farming, agriculture, small trade or any of the sectors that will be directly impacted by this agreement,’ senior Kisan Mazdoor Morcha leader Sarwan Singh Pandher says",
-    "img": "https://th-i.thgim.com/public/incoming/lgaggj/article71142222.ece/alternates/LANDSCAPE_1200/20260624232L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/farmer-group-protests-against-proposed-india-us-deal-in-punjab/article71141772.ece",
-    "time": "2026-06-24T13:52:05.000Z"
+    "cat": "Entertainment",
+    "title": "Stephen Chow returns as filmmaker with 'Kung Fu Soccer'",
+    "desc": "Stephen Chow, the iconic 'Shaolin Soccer' star, is back with 'Kung Fu Soccer,' a thrilling blend of martial arts and football. The 64-year-old actor-director is set to defy physics once again as the Emei Women's Football Team battles for the 'Supreme Invincible Cup.' With a star-studded cast and global release planned, this action-comedy promises Chow's signature imaginative flair and entertainment for all.",
+    "img": "https://static.toiimg.com/photo/msid-131970791,imgsize-180443.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/stephen-chow-returns-as-filmmaker-with-kung-fu-soccer-receives-international-rights-for-action-comedy/articleshow/131970703.cms",
+    "time": "2026-06-24T14:03:58.000Z"
   },
   {
     "cat": "Business",
@@ -99,6 +216,15 @@ const newsData_en = [
     "time": "2026-06-24T13:29:41.000Z"
   },
   {
+    "cat": "World",
+    "title": "U.S. Senate passes bipartisan housing bill aimed at increasing supply, lowering prices",
+    "desc": "The bill, which passed 85-5 and now heads to the House, has been the focus of intense negotiations in recent weeks as lawmakers in both parties try to address housing costs in an election year",
+    "img": "https://th-i.thgim.com/public/incoming/kv6wlg/article71135121.ece/alternates/LANDSCAPE_1200/2025-06-29T111215Z_1212138031_RC2BCFAXNFB4_RTRMADP_3_USA-CONGRESS-TAX.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-senate-passes-bipartisan-housing-bill-aimed-at-increasing-supply-lowering-prices/article71135117.ece",
+    "time": "2026-06-24T13:25:40.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Iran invites PM Modi to Khamenei's funeral; BJP accuses Rahul of echoing Pakistan's Rafale claims &amp; more",
     "desc": "Political sparring intensifies as the BJP accuses Rahul Gandhi of echoing Pakistan's Rafale narrative. Meanwhile, Iran has extended an invitation to Prime Minister Modi for late Ayatollah Khamenei's funeral ceremonies. In Kolkata, a warehouse collapse tragically claimed three lives, though 21 were rescued. Indian markets saw a significant surge, driven by global cues and trade optimism. On a brighter note, young cricketer Ashirvad Sooryavanshi impressed with a remarkable 168-run century.",
@@ -126,33 +252,6 @@ const newsData_en = [
     "time": "2026-06-24T13:21:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress urges Centre not to rush to sign trade pact with the U.S.",
-    "desc": "Congress general secretary Jairam Ramesh says Prime Minister should not give in to pressure from the U.S. He says the U.S. is using its probe into alleged unfair trade practices to pressure New Delhi into formalising the proposed agreement",
-    "img": "https://th-i.thgim.com/public/incoming/ic7emf/article71136286.ece/alternates/LANDSCAPE_1200/_KMK5264.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-must-stop-appeasing-good-friend-trump-india-must-not-sign-trade-pact-as-it-stands-congress/article71136238.ece",
-    "time": "2026-06-24T13:17:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shiv Sena (UBT) MPs to meet Lok Sabha Speaker today over merger of 6 leaders with Shinde camp",
-    "desc": "Shiv Sena (UBT) has questioned the lack of transparency surrounding the entry of six MPs into the ruling Shiv Sena led by Eknath Shinde; it had submitted a letter to the Speaker seeking a hearing on this.",
-    "img": "https://th-i.thgim.com/public/incoming/s4flbv/article71141270.ece/alternates/LANDSCAPE_1200/PTI06_17_2026_000117A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-arvind-sawant-anil-desai-meeting-speaker-om-birla-updates/article71141215.ece",
-    "time": "2026-06-24T13:13:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three dead after under-construction warehouse collapses at Taratala in Kolkata; rescue efforts on",
-    "desc": "“All the agencies are working together. We have rescued 21 persons of which three have died,” said Chief Minister Suvendu Adhikari at the accident site, adding 18 are still trapped and contact has been established with them",
-    "img": "https://th-i.thgim.com/public/incoming/hifti4/article71141354.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-24%20at%203.37.28%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/kolkata/warehouse-shed-collapses-at-taratala-in-kolkata-people-trapped-inside/article71141153.ece",
-    "time": "2026-06-24T13:10:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vijay’s birthday photo with Trisha Krishnan triggers a rush for Conçu’s tiramisu",
     "desc": "A photo shared by actor Trisha Krishnan to wish Tamil Nadu Chief Minister Joseph Vijay on his birthday sent fans on a hunt for the tiramisu pictured in the frame. Dessert lovers quickly identified it as Conçu’s signature offering, triggering a surge in orders across Hyderabad and Bengaluru.",
@@ -171,13 +270,13 @@ const newsData_en = [
     "time": "2026-06-24T13:05:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Manika asks for “clear and factual explanation” from TTFI for her omission from Asian Games squad",
-    "desc": "“If I do not receive satisfactory answers regarding the basis of this decision, I will be left with no option but to explore all remedies available to me, including legal recourse through my legal team,” Manika said in a statement on Wednesday.",
-    "img": "https://th-i.thgim.com/public/incoming/55l2t2/article70808800.ece/alternates/LANDSCAPE_1200/9217_28_3_2025_17_40_56_2_DSC_3132.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/table-tennis/article71141792.ece",
-    "time": "2026-06-24T13:00:33.000Z"
+    "cat": "Business",
+    "title": "Which are top gainers and losers on NSE &amp; BSE today? Check list",
+    "desc": "Stock markets experienced a significant rebound on Wednesday, with the Sensex and Nifty surging past key levels. This rally was fueled by a sharp decline in crude oil prices, robust buying in banking and IT sectors, and growing optimism surrounding a potential India-US trade agreement. The positive sentiment was further bolstered by easing geopolitical tensions and renewed foreign investor interest, leading to broad-based gains across various sectors.",
+    "img": "https://static.toiimg.com/photo/msid-131969452,imgsize-1154116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-gainers-and-losers-on-nse-bse-on-june-24-2026-check-list/articleshow/131969354.cms",
+    "time": "2026-06-24T12:57:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -223,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-how-lionel-messi-celebrated-his-39th-birthday-gym-session-records-and-no-signs-of-slowing-down/articleshow/131968729.cms",
     "time": "2026-06-24T12:23:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What constitutes a ‘workplace’ under POSH Act?",
-    "desc": "The High Court, in its judgment dated June 16, set aside the findings of an Internal Complaints Committee (ICC) that had held a State Bank of India (SBI) employee guilty of sexual harassment based on an incident that occurred during such travel",
-    "img": "https://th-i.thgim.com/public/incoming/jej7yc/article71141348.ece/alternates/LANDSCAPE_1200/iStock-1182214838.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-constitutes-a-workplace-under-posh-act/article71141271.ece",
-    "time": "2026-06-24T12:19:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +522,6 @@ const newsData_en = [
     "time": "2026-06-24T10:03:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'House of the Dragon', 'I Will Find You' and more new dramas to stream right now",
-    "desc": "Cancel your plans. This weekend's streaming lineup is one of the strongest in recent memory, with a Targaryen civil war finally erupting, a Harlan Coben prison break thriller, a Spanish luxury resort mystery, and enough drama to keep you busy well into Sunday night. Here is everything dropping this week and exactly where to find it.",
-    "img": "https://static.toiimg.com/photo/msid-131961529,imgsize-65138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/your-weekend-watchlist-house-of-the-dragon-i-will-find-you-and-more-new-dramas-to-stream-right-now/photostory/131961529.cms",
-    "time": "2026-06-24T10:00:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Captain Shubman Gill overtakes Virat Kohli in latest ICC ODI rankings",
     "desc": "In a remarkable turn of events, Shubman Gill now ranks second in the ICC ODI batting rankings, overtaking fellow Indian star Virat Kohli, who drops to third. Gill showcased his exceptional skills versus Afghanistan, scoring a century and claiming Player of the Series honors. Rohit Sharma follows closely at fourth place. Kohli's injury has created this opportunity for Gill, as they gear up to face England soon.",
@@ -495,15 +576,6 @@ const newsData_en = [
     "time": "2026-06-24T09:29:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Samantha turns heads in a chic black outfit at Rahul's birthday bash",
-    "desc": "Samantha Ruth Prabhu recently graced actor-director Rahul Ravindran's birthday bash in Hyderabad, turning heads in a chic black outfit. The event, attended by close friends and family, highlighted the enduring friendship between the 'MIB' actress and the birthday boy. This joyous occasion coincides with the successful run of Samantha's latest film, 'Maa Inti Bangaaram,' marking a celebratory period in her career.",
-    "img": "https://static.toiimg.com/photo/msid-131962834,imgsize-109720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mom-to-be-samantha-ruth-prabhu-attends-rahul-ravindrans-birthday-bash-mib-actress-turns-heads-in-a-chic-black-outfit/articleshow/131962813.cms",
-    "time": "2026-06-24T09:28:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Root reclaims no. 1 spot in ICC Test rankings ahead of Trent Bridge decider",
     "desc": "Joe Root has reclaimed the world's top Test batting ranking, dethroning teammate Harry Brook after a stellar performance in the recent England-New Zealand Test. This marks Root's 12th stint at No. 1. He now aims to solidify his position in the series decider at Trent Bridge, where England also seeks to improve their World Test Championship standing after a slow over-rate penalty.",
@@ -511,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-reclaims-no-1-spot-in-icc-test-rankings-ahead-of-trent-bridge-decider-against-new-zealand/articleshow/131962567.cms",
     "time": "2026-06-24T09:24:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Robby Hoffman recalls storming out of 2025 Emmys",
-    "desc": "Hacks actress Robby Hoffman admitted to storming out of the 2025 Creative Arts Emmys after losing the Outstanding Guest Actress in a Comedy Series award to co-star Julianne Nicholson. Hoffman, who had already envisioned her win, confessed to being a 'sore loser' and initially refused to present another award. Despite her disappointment, she later expressed happiness for Nicholson's well-deserved win.",
-    "img": "https://static.toiimg.com/photo/msid-131962594,imgsize-120921.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-was-the-biggest-sore-loser-robby-hoffman-recalls-storming-out-of-2025-emmys-after-losing-the-category/articleshow/131962111.cms",
-    "time": "2026-06-24T09:15:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -567,15 +630,6 @@ const newsData_en = [
     "time": "2026-06-24T08:14:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Marriage, divorce, dating: Trisha's honest take on relationships",
-    "desc": "Trisha Krishnan has always kept her personal life under wraps, but when she does speak about relationships, she doesn't hold back. Here are the actor's honest views about marriage, dating, and what true love should look like.",
-    "img": "https://static.toiimg.com/photo/msid-131960115,imgsize-31060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/relationships/marriage-divorce-dating-when-trisha-krishnan-shared-her-honest-take-on-relationships/photostory/131960115.cms",
-    "time": "2026-06-24T08:01:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Tujhe full freedom hai': Axar Patel's message to Rishabh Pant",
     "desc": "Rishabh Pant's return to Delhi Capitals for IPL 2027 has been met with full backing from captain Axar Patel. Patel emphasized Pant will have complete freedom, stressing their long-standing mutual understanding. He assured Pant there's no extra pressure, calling Delhi his home. Patel believes Pant's inherent class will shine through, encouraging him to enjoy his natural game.",
@@ -621,15 +675,6 @@ const newsData_en = [
     "time": "2026-06-24T05:59:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India tears into Pakistan over 'unwarranted remarks' at UN: 'J&amp;K was, is &amp; will remain internal matter'",
-    "desc": "India has firmly rejected Pakistan's attempt to politicize a UN forum by raising the Kashmir issue. Ambassador Parvathaneni Harish stated that Jammu and Kashmir is an internal matter for India, emphasizing that such discussions are inappropriate. He also highlighted India's push for reviewing UN Security Council mandates for greater efficiency, aligning with the UN-80 framework.",
-    "img": "https://static.toiimg.com/photo/msid-131955288,imgsize-1074886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-tears-into-pakistan-over-unwarranted-remarks-at-un-jk-was-is-will-remain-internal-matter/articleshow/131955146.cms",
-    "time": "2026-06-24T04:52:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "Cait Conley wins Democratic primary to take on Republican Congressman Mike Lawler in New York",
     "desc": "Ms. Conley is a West Point graduate and combat veteran who served in Iraq and Afghanistan; Mr. Lawler is running in an unfavorable environment for Republicans nationally, he has a strong track record of winning tough races",
@@ -646,33 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/neymar-is-ready-carlo-ancelotti-gives-major-update-ahead-of-fifa-world-cup-match-against-scotland/articleshow/131954718.cms",
     "time": "2026-06-24T04:18:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "DR Congo's 90-minute 'standing superfan' finally gets his World Cup moment",
-    "desc": "DR Congo's iconic \"living statue\" fan, Lumumba Vea, finally graced the FIFA World Cup stage against Colombia after missing the opener due to Ebola quarantine. Known for his motionless, statue-like poses and vibrant attire, Vea's appearance honours Patrice Lumumba, the nation's first Prime Minister. His unique tribute, inspired by Lumumba's legacy, has captivated global football fans, making him a recognisable symbol of DR Congo's passion.",
-    "img": "https://static.toiimg.com/photo/msid-131954673,imgsize-76724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/dr-congos-90-minute-standing-superfan-michel-nkuka-mboladinga-finally-gets-his-fifa-world-cup-moment/articleshow/131954433.cms",
-    "time": "2026-06-24T04:11:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant's three-word message to LSG after return to Delhi Capitals",
-    "desc": "Rishabh Pant has returned to Delhi Capitals in a significant trade deal, exchanging places with spinner Kuldeep Yadav who moves to Lucknow Super Giants. Pant's two-year stint with LSG, marked by struggles and disappointing team performances, concluded with a simple \"Thank you team\" message. This move sees Pant take a pay cut but reunites him with his former franchise after a challenging period.",
-    "img": "https://static.toiimg.com/photo/msid-131953126,imgsize-32827.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rishabh-pants-three-word-message-to-lsg-after-return-to-delhi-capitals/articleshow/131952951.cms",
-    "time": "2026-06-24T02:38:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ibrahimović's sarcastic response to Ronaldo's 'I'm back' declaration",
-    "desc": "Cristiano Ronaldo's “I’m back” declaration after Portugal’s 5-0 World Cup win over Uzbekistan sparked contrasting reactions from football legends Thierry Henry and Zlatan Ibrahimović. While Henry praised Ronaldo’s team-first mentality and evolution following criticism of his opener against DR Congo, Zlatan responded with trademark sarcasm, questioning why Ronaldo claimed to be back when, in his view, he had never left.",
-    "img": "https://static.toiimg.com/photo/msid-131953074,imgsize-944374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-dont-know-why-he-said-it-zlatan-ibrahimovis-sarcastic-response-to-cristiano-ronaldos-im-back-declaration/articleshow/131952689.cms",
-    "time": "2026-06-24T02:29:22.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/stock-markets-go-into-tailspin-sensex-nifty-drop-over-1/article71137307.ece",
     "time": "2026-06-23T21:17:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo ends 60-year wait, breaks Portugal World Cup record",
-    "desc": "Cristiano Ronaldo scored twice as Portugal thrashed Uzbekistan 5-0 to strengthen their FIFA World Cup 2026 knockout hopes and rewrite national history. The 41-year-old became Portugal’s all-time leading World Cup goalscorer with 10 goals, surpassing Eusébio’s 60-year-old record, while also extending his own record as the first player to score in six different World Cup tournaments.",
-    "img": "https://static.toiimg.com/photo/msid-131949802,imgsize-132842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cristiano-ronaldo-ends-60-year-wait-breaks-portugal-world-cup-record-with-historic-double-against-uzbekistan/articleshow/131949771.cms",
-    "time": "2026-06-23T20:55:45.000Z"
   },
   {
     "cat": "World",
@@ -810,15 +819,6 @@ const newsData_en = [
     "time": "2026-06-23T10:20:34.000Z"
   },
   {
-    "cat": "World",
-    "title": "Why Keir Starmer resigned",
-    "desc": "Keir Starmer’s political fate was all but sealed when Labour’s ‘King of the North’, former mayor of Greater Manchester, Andy Burnham won a seat in Westminster (the U.K.’s Parliament) last week, after winning a bye-election",
-    "img": "https://th-i.thgim.com/public/incoming/1n9z6z/article71133361.ece/alternates/LANDSCAPE_1200/2026-06-22T092149Z_733165588_RC2XYLAQP43E_RTRMADP_3_BRITAIN-POLITICS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/analysis-why-keir-starmer-resigned/article71132963.ece",
-    "time": "2026-06-23T09:43:53.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "The strange link between AI hallucination and creativity",
     "desc": "A setting called temperature governs how adventurous an LLM’s outputs are. The higher the temperature, the more likely the model reaches for the less likely options and begins to surprise you. This is the dial you turn up when you want a poem instead of a weather report. The trouble is that the same dial governs hallucinations",
@@ -826,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/strange-link-between-artificial-intelligence-hallucination-creativity/article71136885.ece",
     "time": "2026-06-23T09:19:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What does the U.S.-Iran agreement say?",
-    "desc": "What are the main provisions of the U.S.-Iran memorandum of understanding signed on June 15? What commitments have the two countries made under the deal regarding nuclear activities and sanctions? How does the issue of Iran’s frozen assets feature in the agreement? Why is Israel opposed to the agreement? What are the main sticking points?",
-    "img": "https://th-i.thgim.com/public/incoming/4ow8gv/article71127219.ece/alternates/LANDSCAPE_1200/Iran_War_65556.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-does-the-us-iran-agreement-say-explained/article71127001.ece",
-    "time": "2026-06-23T09:19:16.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/meet-deepali-sahay-tere-paas-main-ar-rahman-indian-idol-imtiaz-ali-main-vaapas-aaunga/article71131821.ece",
     "time": "2026-06-22T12:49:47.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AI is helping patients understand cancer but misunderstand doctors",
+    "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/1qs3pd/article71100260.ece/alternates/LANDSCAPE_1200/angiola-harry-SJCalEw-1LM-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
+    "time": "2026-06-21T10:16:33.000Z"
   }
 ];
