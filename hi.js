@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Raphinha not playing for Brazil vs Scotland in their FIFA World Cup 2026 clash?",
+    "desc": "Brazil are without their star winger Raphinha for their final Group C match against Scotland in the ongoing FIFA World Cup 2026. The Barcelona forward suffered a hamstring injury in the previous fixture against Haiti,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-raphinha-not-playing-for-brazil-vs-scotland-in-their-fifa-world-cup-2026-clash-2026-06-25-1046045",
+    "time": "2026-06-24T21:59:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Live action begins as qualification remains at stake",
+    "desc": "Brazil meet Scotland in Miami with Group C qualification still hanging in the balance. While the names on paper suggest a mismatch, both teams arrive knowing the stakes sharpen the margins. Brazil have shown patches of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bra-vs-mor-fifa-world-cup-live-brazil-vs-morocco-live-score-tactical-analysis-minute-by-minute-commentary-highlights-1046044",
+    "time": "2026-06-24T21:40:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Switzerland, Canada qualify for FIFA World Cup round of 32, Bosnia's fate hangs in balance",
+    "desc": "Switzerland secured top spot in Group B with a composed 2-1 victory over Canada, while Bosnia and Herzegovina kept their knockout hopes alive by defeating Qatar 3-1 on a dramatic final matchday. Entering the afternoon level...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/switzerland-canada-qualify-for-fifa-world-cup-round-of-32-bosnia-s-fate-hangs-in-balance-2026-06-25-1046043",
+    "time": "2026-06-24T21:12:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch India A's unofficial Test vs Sri Lanka A live on TV and stream online?",
+    "desc": "India A's red-ball campaign in Sri Lanka gets underway on Thursday, June 25. The opening match of a two-game unofficial Test series against Sri Lanka A will be played in Galle. Notably, the visitors arrive...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-a-s-unofficial-test-vs-sri-lanka-a-live-on-tv-and-stream-online-2026-06-25-1046042",
+    "time": "2026-06-24T19:43:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tennis stars to stage protest for pay rise during Wimbledon, to limit media interactions",
     "desc": "Even though Wimbledon has already announced a record rise in prize money ahead of the 2026 event, several leading Tennis figures agreed to widen their protest during this year’s Championships. As part of their protest,...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/will-neymar-play-against-scotland-in-fifa-world-cup-2026-coach-breaks-silence-2026-06-24-1046008",
     "time": "2026-06-24T14:00:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "List of teams to have qualified for FIFA World Cup round of 32 stage after Colombia book spot in knockouts",
-    "desc": "The FIFA World Cup 2026 has gripped the fans all around the world with some jaw-dropping matches hogging the limelight. Lionel Messi, Kylian Mbappe and Erling Haaland's performances and Cristiano Ronaldo's recent outing have become...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/list-of-teams-to-have-qualified-for-fifa-world-cup-round-of-32-stage-after-colombia-book-spot-in-knockouts-2026-06-24-1046000",
-    "time": "2026-06-24T13:29:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why will Vaibhav Sooryavanshi use different dressing room from teammates during England tour?",
-    "desc": "Eyes are set on Vaibhav Sooryavanshi as India take on Ireland and England for separate white-ball series during the UK tour. Sooryavanshi has been named in squads for both the Ireland and England T20Is as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-will-vaibhav-sooryavanshi-use-different-dressing-room-from-teammates-during-england-tour-2026-06-24-1045997",
-    "time": "2026-06-24T12:29:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When can Shubman Gill become World No.1 ODI batter after latest mega jump past Virat Kohli?",
-    "desc": "India captain Shubman Gill has leapfrogged veteran batter Virat Kohli to jump to the second spot in the ICC ODI rankings for batters, rising three spots from fifth after his recent exploits against Afghanistan. The ODI...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-can-shubman-gill-become-world-no1-odi-batter-after-latest-mega-jump-past-virat-kohli-2026-06-24-1045986",
-    "time": "2026-06-24T11:36:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matt Henry ends 36-year-old drought for New Zealand as Bumrah's No.1 crown shared, Joe Root top-ranked again",
-    "desc": "Matt Henry ended a 36-year-old drought for New Zealand as he became just the third Kiwi bowler to be ranked World No.1 in the ICC Test rankings, as per the latest ICC update. He joins...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/matt-henry-ends-36-year-old-drought-for-new-zealand-as-bumrahs-no1-crown-shared-joe-root-top-ranked-again-2026-06-24-1045966",
-    "time": "2026-06-24T08:28:49.000Z"
   }
 ];

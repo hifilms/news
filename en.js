@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Taylor Swift-Travis Kelce wedding: Permit filed for street closure",
+    "desc": "Excitement is building as Taylor Swift and Travis Kelce's wedding preparations are reportedly underway at Madison Square Garden. Street closures are being planned for early July, hinting at a grand celebration. Sources suggest the iconic venue is booked for multiple days, with a major event on July 3. Even NFL stars are making travel plans, and celebrity guests are expected to attend this highly anticipated union.",
+    "img": "https://static.toiimg.com/photo/msid-131977570,imgsize-75914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-travis-kelce-wedding-couple-file-permit-for-street-closure-space-for-tents-for-multi-day-celebrations-details-inside/articleshow/131977358.cms",
+    "time": "2026-06-24T21:55:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vindu says Dara Singh warned him against interfaith marriage",
+    "desc": "Vindu Dara Singh has opened up about his former marriage to actor and Tabu's sister, Farah Naaz, admitting that his father, wrestling legend Dara Singh, had cautioned him about the challenges of an interfaith marriage. Vindu reflected on a piece of advice from his father that he chose not to follow. While stressing that he has no regrets because the marriage gave him his son Fateh, the actor said Dara Singh's concerns eventually proved to be correct.",
+    "img": "https://static.toiimg.com/photo/msid-131977371,imgsize-47185.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vindu-dara-singh-says-father-dara-singh-warned-him-against-interfaith-marriage-with-farah-naaz-hindu-muslim-marriages-are-very-hard/articleshow/131977356.cms",
+    "time": "2026-06-24T21:34:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup",
+    "desc": "Bosnia-Herzegovina wrapped up third in Group B thanks to a 3-1 win over Qatar and will face an anxious wait to see if their four points are enough to extend their stay at the World Cup",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/bosnia-and-herzegovina-vs-qatar-world-cup-match-live-updates-june-24-2026/article71143258.ece",
+    "time": "2026-06-24T21:18:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RDJ and Tobey spark Spider-Man vs Doom showdown buzz",
+    "desc": "Doomsday'. This sighting, coupled with Downey's confirmed role as Doctor Doom, hints at a possible epic showdown. The film, slated for a December 2026 release, promises a massive crossover event, making the reunion of these iconic actors a tantalizing prospect for fans.",
+    "img": "https://static.toiimg.com/photo/msid-131969299,imgsize-118972.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-downey-jr-and-tobey-maguire-spotted-in-los-angeles-fuel-spider-man-and-doctor-doom-showdown-amid-avengers-doomsday-reshoots-pics/articleshow/131957987.cms",
+    "time": "2026-06-24T20:40:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mehbooba Mufti attends Pandit ceremony to mend broken bonds between communities in Kashmir",
+    "desc": "Ms. Mufti’s move to attend the ceremony has come at a time when many displaced Pandits groups are mulling to return to Kashmir in the wake of the improvement in security scenario and a dip in militant recruitment",
+    "img": "https://th-i.thgim.com/public/incoming/rz7ac2/article71143479.ece/alternates/LANDSCAPE_1200/PTI06_24_2026_000429B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-attends-pandit-ceremony-to-mend-broken-bonds-between-communities-in-kashmir/article71142931.ece",
+    "time": "2026-06-24T20:33:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bindu recalls Parveen talking only about Amitabh after breakdown",
+    "desc": "Veteran actor Bindu has opened up about her memories of the late Parveen Babi, recalling the actress' struggles following her nervous breakdown and the impact it had on her personal and professional life. In a recent conversation, Bindu remembered meeting Parveen during a difficult phase and shared how the actress would often talk about Amitabh Bachchan. She also recounted witnessing the early signs of Parveen's deteriorating health while working with her on a film.",
+    "img": "https://static.toiimg.com/photo/msid-131977260,imgsize-122320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bindu-recalls-parveen-babi-talking-only-about-amitabh-bachchan-after-her-nervous-breakdown-she-must-be-loving-him-we-dont-know/articleshow/131977253.cms",
+    "time": "2026-06-24T20:08:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gautam Adani’s lawyers urge U.S. Judge to dismiss criminal case",
+    "desc": "Adani’s lawyer, Robert Giuffra, wrote ‌that the case should be dismissed because ​it was beyond the reach of U.S. law and because the prosecutors would ⁠not be able to prove the alleged bribery in India",
+    "img": "https://th-i.thgim.com/public/incoming/uk7uz1/article71143394.ece/alternates/LANDSCAPE_1200/Adani_Bribery_Indictment_46351.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/gautam-adanis-lawyers-urge-us-judge-to-dismiss-criminal-case/article71143342.ece",
+    "time": "2026-06-24T19:18:40.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "VCK wants CM Vijay to reconsider gold ring scheme",
     "desc": "Vijay’s remarks in the Assembly, in which he appeared to mock the electoral loss of former CM Stalin in Kolathur, were not “befitting the dignity associated with the office of the Chief Minister”, says Thirumavalavan",
@@ -16,6 +79,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/symbolism-or-substance-tns-public-health-professionals-question-gold-ring-scheme/article71142944.ece",
     "time": "2026-06-24T19:00:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi receives call from Armenia PM, thanks him for helping evacuation of Indians from Iran",
+    "desc": "Mr. Modi also congratulated Mr. Pashinyan on the victory of his Civil Contract Party in the country's parliamentary elections and said India looks forward to working closely together to take India-Armenia relations to new heights Mr.",
+    "img": "https://th-i.thgim.com/public/incoming/3f6ajz/article71143365.ece/alternates/LANDSCAPE_1200/PTI03_03_2026_000045B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-receives-call-from-armenia-pm-thanks-him-for-helping-evacuation-of-indians-from-iran/article71143351.ece",
+    "time": "2026-06-24T18:49:26.000Z"
   },
   {
     "cat": "Politics",
@@ -52,6 +124,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/anti-farmer-and-anti-worker-kisan-mazdoor-morcha-protest-india-us-trade-deal-burn-effigies-of-pm-modi-and-donald-trump/articleshow/131974843.cms",
     "time": "2026-06-24T18:02:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi expresses regret in defamation case filed by Shivraj Singh Chouhan's son",
+    "desc": "Kartikeya Singh has filed a defamation complaint in a Bhopal court against the Leader of Opposition in the Lok Sabha. Gandhi's application, filed by his lawyer, said that his statement was not related to Singh.",
+    "img": "https://th-i.thgim.com/public/incoming/2j7ux2/article71143284.ece/alternates/LANDSCAPE_1200/PTI06_18_2026_000396B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rahul-gandhi-expresses-regret-in-defamation-case-filed-by-shivraj-singh-chouhans-son/article71143233.ece",
+    "time": "2026-06-24T17:54:00.000Z"
   },
   {
     "cat": "Politics",
@@ -117,15 +198,6 @@ const newsData_en = [
     "time": "2026-06-24T17:33:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP accuses Congress president and his son of ‘land grab’ through trust in Karnataka",
-    "desc": "The BJP’s attack on Mallikarjun Kharge and his son Priyank Kharge came a day after the Congress asked why the allegation of a ‘land scam’ in Madhya Pradesh purportedly involving family members of CM Mohan Yadav were not being probed",
-    "img": "https://th-i.thgim.com/public/incoming/rztc5s/article71143205.ece/alternates/LANDSCAPE_1200/Pradeep%20Bhandari.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bjp-accuses-congress-president-and-his-son-of-land-grab-through-trust-in-karnataka/article71142571.ece",
-    "time": "2026-06-24T17:32:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Lucky note in phone, Gurindervir Singh targets sub-10 mark",
     "desc": "Gurindervir Singh shattered the 100m national record, clocking 10.09 seconds and aiming for a sub-10 finish. Overcoming past health struggles and financial hardships, the Indian Navy sprinter credits his transformation to meticulous training under coach James Hillier. With upcoming major games on the horizon, Singh is focused on pushing boundaries and achieving greater success for India.",
@@ -133,33 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/lucky-note-in-phone-gurindervir-singh-targets-sub-10-mark/articleshow/131973661.cms",
     "time": "2026-06-24T17:13:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "As FCRA restricts NGOs, Supreme Court had agreed that right to associate is not carte blanche for foreign funds",
-    "desc": "The Foreign Contribution (Regulation) Amendment Rules, 2026, notified by the Union Home Ministry on June 22, has introduced tougher limits on NGOs to receive foreign donations; these amendments, and the ones before them, source their legality from the Centre’s argument in the Supreme Court that the freedom to form associations do not include a right to receive unbridled foreign funds or to use the money outside ‘permissible activities’",
-    "img": "https://th-i.thgim.com/public/incoming/o4fyx1/article71137104.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/as-fcra-restricts-ngos-supreme-court-had-agreed-that-right-to-associate-is-not-carte-blanche-for-foreign-funds/article71142455.ece",
-    "time": "2026-06-24T17:09:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UDF government’s stance on PM SHRI unconstitutional",
-    "desc": "The MoU was entered into by the Secretary, Education Department, Government of Kerala, and the Additional Secretary, Department of Education, Government of India, and not in the name of the President and the Governor as mandated under Article 299. Hence, the said MoU is a nullity",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/udf-governments-stance-on-pm-shri-unconstitutional/article71141787.ece",
-    "time": "2026-06-24T17:07:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What constitutes a ‘workplace’ under POSH Act?",
-    "desc": "The High Court, in its judgment dated June 16, set aside the findings of an Internal Complaints Committee (ICC) that had held a State Bank of India (SBI) employee guilty of sexual harassment based on an incident that occurred during such travel",
-    "img": "https://th-i.thgim.com/public/incoming/vrohn0/article71143161.ece/alternates/LANDSCAPE_1200/iStock-1051720322.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-constitutes-a-workplace-under-posh-act/article71141271.ece",
-    "time": "2026-06-24T17:05:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -178,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/farmers-daughter-anushka-yadav-scripts-history-in-athletics-becomes-indias-youngest-national-record-holder/articleshow/131973258.cms",
     "time": "2026-06-24T16:51:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJP Jantar Mantar sit-in day 5: Dipke appears before MeitY panel over blocking of X account",
-    "desc": "CJP’s Abhijeet Dipke questioned why similar confidentiality was not maintained in the NEET paper leak case. “Everything is confidential; you should have kept the NEET paper confidential as well. Why did that leak? These suicides would not have happened,” he said",
-    "img": "https://th-i.thgim.com/public/incoming/z9v1br/article71143092.ece/alternates/LANDSCAPE_1200/CJP%20PC%20DELHI%202026_24_06_9.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-sit-in-day-5-dipke-appears-before-meity-panel-over-blocking-of-x-account/article71142774.ece",
-    "time": "2026-06-24T16:30:06.000Z"
   },
   {
     "cat": "World",
@@ -441,15 +477,6 @@ const newsData_en = [
     "time": "2026-06-24T12:34:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Robert Downey Jr.",
-    "desc": "During his heartfelt acceptance speech for the Oscar, Robert Downey Jr. reflected on his remarkable transformation in 'Oppenheimer.' He showered gratitude on his wife, Susan, whom he described as his savior, comparing his past struggles to that of a neglected rescue animal. Her steadfast support in his darkest times vividly highlighted their bond, contrasting sharply with the coldness of the industry, leading to his incredible resurgence.",
-    "img": "https://static.toiimg.com/photo/msid-131964739,imgsize-128512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-robert-downey-jr-she-found-me-a-snarling-rescue-pet-and-loved-me-back-to-life-that-is-why-i-am-here-when-the-iron-man-star-opened-up-about-love-marriage-and-the-woman-he-credits-with-saving-his-life-/articleshow/131964569.cms",
-    "time": "2026-06-24T12:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Argentine talisman Lionel Messi celebrated his 39th birthday",
     "desc": "Lionel Messi, celebrating his 39th birthday, defied expectations by hitting the gym for an intense workout instead of taking a break. The football icon's dedication was evident in a viral Instagram video showcasing his commitment to peak performance. Messi's continued brilliance is central to Argentina's success in the FIFA World Cup 2026, where he has already broken scoring records.",
@@ -540,15 +567,6 @@ const newsData_en = [
     "time": "2026-06-24T11:33:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Has Boney already spent Rs 30 crore on No Entry 2?",
-    "desc": "Boney Kapoor's much-anticipated sequel 'No Entry 2' has hit multiple roadblocks. Director Anees Bazmee was brought on board, while Varun Dhawan, Diljit Dosanjh and Arjun Kapoor replaced the original cast. However, Diljit and Varun both walked out. With reportedly ₹30 crore already spent, the film's release remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-131966468,imgsize-149600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/has-boney-kapoor-already-spent-rs-30-crore-on-no-entry-2-heres-the-truth-behind-the-film/articleshow/131966468.cms",
-    "time": "2026-06-24T11:15:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ronaldo matches Messi in rare FIFA WC record with brace vs Uzbekistan",
     "desc": "Cristiano Ronaldo scored twice as Portugal beat Uzbekistan 5-0 to secure their first win of the 2026 FIFA World Cup. The 41-year-old became the first player to score in six different World Cups and Portugal’s all-time leading World Cup scorer with 10 goals. Ronaldo also matched Lionel Messi and Michael Laudrup as both his country's youngest and oldest World Cup scorer.",
@@ -595,30 +613,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Tom Holland SPILLS details of one character who remembers him",
-    "desc": "Brand New Day', has revealed a significant plot point: only one person remembers Peter Parker's identity as Spider-Man. This follows the memory-wiping spell from the previous film, leaving Peter isolated. Fans are speculating this individual could be the Hulk or potentially Jean Grey, adding intrigue to the upcoming movie's narrative.",
-    "img": "https://static.toiimg.com/photo/msid-131965574,imgsize-404849.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-spills-details-of-one-character-who-remembers-peter-parkers-existence-ahead-of-spider-man-brand-new-day-release/articleshow/131965558.cms",
-    "time": "2026-06-24T10:47:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Did you know? THIS 'Shaitaan' actor is a hospital CEO, treated COVID patients",
     "desc": "Actor and physician Ashish Gokhale seamlessly juggles his two demanding professions, managing a bustling hospital while featuring in films such as 'Indian Police Force' and 'Raid 2'. He reflects on the intense, life-altering experience of treating COVID-19 patients, highlighting the value of hygiene and daily gratitude. Gokhale finds profound satisfaction in his role as a lifesaver, a driving force that propels him forward alongside his acting career.",
     "img": "https://static.toiimg.com/photo/msid-131965479,imgsize-216522.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-this-shaitaan-actor-is-hospital-ceo-treated-countless-covid-patients-while-building-his-bollywood-career-exclusive/articleshow/131965094.cms",
     "time": "2026-06-24T10:47:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Why Rajini &amp; Kamal 's 'Dharman' could be Tamil Cinema's next biggie",
-    "desc": "Rajinikanth's 173rd film, titled 'Dharman,' is generating immense excitement. Produced by Kamal Haasan and directed by Ashwath Marimuthu, the movie features Rajinikanth in a \"swaggy and deadly doctor\" avatar. With Anirudh composing music and Anbarivu handling action, this collaboration promises a trend-setting family thriller blending style, attitude, and high-octane sequences, poised to be Tamil cinema's next big hit.",
-    "img": "https://static.toiimg.com/photo/msid-131964943,imgsize-162536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dharman-why-rajinikanth-and-kamal-haasans-film-could-be-tamil-cinemas-next-biggie/articleshow/131964894.cms",
-    "time": "2026-06-24T10:32:52.000Z"
   },
   {
     "cat": "Business",
@@ -639,24 +639,6 @@ const newsData_en = [
     "time": "2026-06-24T10:03:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Captain Shubman Gill overtakes Virat Kohli in latest ICC ODI rankings",
-    "desc": "In a remarkable turn of events, Shubman Gill now ranks second in the ICC ODI batting rankings, overtaking fellow Indian star Virat Kohli, who drops to third. Gill showcased his exceptional skills versus Afghanistan, scoring a century and claiming Player of the Series honors. Rohit Sharma follows closely at fourth place. Kohli's injury has created this opportunity for Gill, as they gear up to face England soon.",
-    "img": "https://static.toiimg.com/photo/msid-131963216,imgsize-128652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-overtakes-virat-kohli-to-claim-no-2-spot-in-latest-icc-odi-rankings/articleshow/131963216.cms",
-    "time": "2026-06-24T09:59:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP claims IAF tender for 36 Rafales exposes Pak propaganda, says 'Rahul owes explanation'",
-    "desc": "The BJP has strongly criticized Rahul Gandhi, accusing him of echoing Pakistan's propaganda regarding the Rafale jets during Operation Sindoor. The party highlighted a recent IAF tender for support for all 36 Rafale jets as proof that Pakistan's claims of shooting them down were false. BJP leaders argue Gandhi questioned the Indian government instead of demanding evidence from Islamabad, thereby legitimizing an adversary's disinformation campaign.",
-    "img": "https://static.toiimg.com/photo/msid-131963267,imgsize-897158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-owes-nation-explanation-bjp-says-iaf-support-tender-for-36-rafales-exposes-pakistan-propaganda/articleshow/131962234.cms",
-    "time": "2026-06-24T09:52:37.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran says deal to end West Asia war 'declaration of U.S. defeat'",
     "desc": "The Islamabad understanding was not the result of pressure and coercion, but rather the result of the resistance and authority of the brave Iranian nation, says Mohammad Bagher Ghalibaf, the head of the Iranian negotiating team",
@@ -664,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-says-deal-to-end-west-asia-war-declaration-of-us-defeat/article71141118.ece",
     "time": "2026-06-24T09:52:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'They use religion to defame me': Punjab CM Bhagwant Mann rejects 'sacrilege' allegations",
-    "desc": "Punjab Chief Minister Bhagwant Mann has vehemently denied allegations of \"sacrilegious conduct,\" calling them a \"dirty politics\" campaign by rivals. He stated that a viral video controversy, linked to an alleged Rs 10 lakh deal for a forensic report, is being exploited to tarnish his image. Mann insists the person in the video is an actor, not him, and accuses opposition parties of using religion for political gain.",
-    "img": "https://static.toiimg.com/photo/msid-131962809,imgsize-1036456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/they-use-religion-to-defame-me-punjab-cm-bhagwant-mann-rejects-sacrilege-allegations/articleshow/131962845.cms",
-    "time": "2026-06-24T09:32:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -855,15 +828,6 @@ const newsData_en = [
     "time": "2026-06-23T10:58:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "Bill seeking to ban horse carriages in New York city renamed after Indian teen killed in Central Park incident",
-    "desc": "New York City Council member Christopher Marte, who organised the event, announced that a bill introduced by him, named ‘Ryder's law’, which seeks to ban horse-drawn carriages in the city, will be changed to ‘Romanch's Law’",
-    "img": "https://th-i.thgim.com/public/incoming/nos46d/article71137030.ece/alternates/LANDSCAPE_1200/Horse_Carriage_Death_769_1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bill-seeking-to-ban-horse-carriages-in-new-york-city-renamed-after-indian-teen-killed-in-central-park-incident/article71137012.ece",
-    "time": "2026-06-23T10:45:31.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "The strange link between AI hallucination and creativity",
     "desc": "A setting called temperature governs how adventurous an LLM’s outputs are. The higher the temperature, the more likely the model reaches for the less likely options and begins to surprise you. This is the dial you turn up when you want a poem instead of a weather report. The trouble is that the same dial governs hallucinations",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/rupee-falls-6-paise-to-9469-against-us-dollar-in-early-trade/article71136210.ece",
     "time": "2026-06-23T05:26:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Can music help you relax? India’s wellness labels think so",
+    "desc": "As mental health discussions rise, music’s therapeutic potential is in question again, exploring its calming effects. The increasing popularity of wellness music festivals further underscores a collective yearning for deeper, transformative experiences in today’s fast-paced world",
+    "img": "https://th-i.thgim.com/public/incoming/nkqolz/article71120732.ece/alternates/LANDSCAPE_1200/03mp_music_therapy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/wellness-music-growing-in-india-chad-lawson-rishab-sharma/article70211249.ece",
+    "time": "2026-06-23T04:51:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI Bulletin",
+    "desc": "As an outcome of the West Asia conflict, the CPI headline inflation inched up sequentially to 3.9% (y-o-y) in May 2026 from 3.5% in the preceding month, driven by broad-based increases in all three categories - food & beverages, fuel and core components",
+    "img": "https://th-i.thgim.com/public/incoming/xw6qp6/article71134624.ece/alternates/LANDSCAPE_1200/PETROL%20PRICE%20HIKE%20DELHI%202026_25_05_13.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/global-economic-landscape-remains-fragile-rbi-bulletin/article71133893.ece",
+    "time": "2026-06-22T17:21:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Love ‘Tere Paas Main’ from ‘Main Vaapas Aaunga’? Meet Deepali Sahay, the voice behind this viral song",
+    "desc": "Playback singer Deepali Sahay opens up about working with A.R. Rahman for the viral song, how its scale was changed just a day before the film’s trailer launch, why she feels that she has a ‘gifted voice’ and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/slwk4j/article71132038.ece/alternates/LANDSCAPE_1200/Deepali.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/meet-deepali-sahay-tere-paas-main-ar-rahman-indian-idol-imtiaz-ali-main-vaapas-aaunga/article71131821.ece",
+    "time": "2026-06-22T12:49:47.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AI is helping patients understand cancer but misunderstand doctors",
+    "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/1qs3pd/article71100260.ece/alternates/LANDSCAPE_1200/angiola-harry-SJCalEw-1LM-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
+    "time": "2026-06-21T10:16:33.000Z"
   }
 ];
