@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "EVMથી લઈને બોમ્બ ધમકી સુધી... દેશભરમાં ધમકીભર્યા ફેક ઇમેઇલ કરનાર અમદાવાદની મહિલા ઝડપાઈ",
+    "desc": "સરકારી કચેરીઓથી લઈને અગ્રણી સંસ્થાઓને 200થી વધુ ધમકીભર્યા ફેક ઇમેઇલ કરનાર મહિલાની આખરે દિલ્હી પોલીસે ધરપકડ કરી છે. આ મહિલા અમદાવાદની હોવાનું સામે આવ્યું છે. આ મામલે પોલીસે મહિલાની અટકાયત કરી આગળની તપાસ શરૂ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ahmedabad-woman-arrested-for-fake-threat-emails-to-government-offices-482577 ",
+    "time": "2026-06-24T14:04:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;quot;કેતન જીવતો છે, તેને કંઈ થયું નથી&amp;quot;",
+    "desc": "કેતન અગ્રવાલની હત્યાનો કેસ આજે દેશભરમાં ટોક ઓફ ધી ટાઉન છે. છોકરીઓ પ્રેમને પામવા માટે આ હદ સુધી જઈ શકે એની કલ્પના કરવી પણ મુશ્કેલ છે. એક કે બે વાર નહીં ભાવી પતિને મારવા આ હદે જાય એ વિચારીને હવે લગ્ન કરતાં ગભરાશે. આ એક કેસ નથી આ પહેલાં પણ લગ્ન ના કરવા માટે યુવતીઓએ છોકરાઓની હત્યા કરી હોવાના ઉદાહરણો છે. આ કેસે તો ભારે ચકચાર મચાવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-was-the-reaction-of-siya-after-hearing-ketan-is-alive-482556 ",
+    "time": "2026-06-24T13:37:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "શું E20 પેટ્રોલથી કારને નુકસાન થાય તો વીમો મળશે? સરકારે આ 4 અફવાઓનો કર્યો ખુલાસો",
+    "desc": "કેન્દ્ર સરકારે સ્પષ્ટ કર્યું છે કે E20 એટલે કે 20 ટકા ઇથેનોલ મિક્સ પેટ્રોલ વાહનો સંપૂર્ણ રીતે સુરક્ષિત છે અને તેના ઉપયોગથી મોટર વીમા ક્લેમ પર કોઈ અસર પડતી નથી. સોશિયલ મીડિયા પર ફેલાઈ રહેલી 4 અફવા વચ્ચે સરકારે જવાબ આપ્યો છે. તમારે પણ આ વિગતો જાણવી અતિ જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/e20-fuel-completely-safe-no-impact-on-insurance-claims-government-dismisses-social-media-misinformation-482553 ",
+    "time": "2026-06-24T12:30:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પ્રેમી અને ફિયાન્સ બંને! સિયાનો આ હતો ખતરનાક પ્લાન, પોલીસે આ થિયરીને આધારે કેસ ઉકેલ્યો",
+    "desc": "દેશભરમાં ચકચાર મચાવનારો 'સીયાના કેસ' માત્ર એક ગુનો નથી, પણ રહસ્યોની એવી વણઉકેલાયેલી જાળ છે જેણે કાયદો અને વ્યવસ્થા સામે મોટા સવાલો ઉભા કર્યા છે. આ કેસમાં એક પછી એક ખૂલતા પ્રકરણોએ ભલભલા અધિકારીઓના હોશ ઉડાવી દીધા છે. અહીં વાંચો સીયાના કેસની એ ઈનસાઈડ સ્ટોરી, જે અત્યાર સુધી ફાઈલોમાં દબાયેલી હતી...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pune-murder-case-this-was-sias-dangerous-plan-the-police-solved-the-case-based-on-this-theory-482552 ",
+    "time": "2026-06-24T11:59:46.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "21 કે 22 વર્ષનો છે વૈભવ સૂર્યવંશી ? આયર્લેન્ડ શ્રેણી પહેલા પૂર્વ પાકિસ્તાની ક્રિકેટરના દાવાએ મચાવ્યો હોબાળો",
     "desc": "માત્ર 15 વર્ષની ઉંમરે વૈભવ સૂર્યવંશી તેની વિસ્ફોટક બેટિંગથી ચાહકોના દિલ જીતી રહ્યો છે. તેની ઉંમર અંગે વારંવાર પ્રશ્નો ઉભા થાય છે. હવે, એક પૂર્વ પાકિસ્તાની ક્રિકેટરે દાવો કર્યો છે કે વૈભવ કદાચ 21 કે 22 વર્ષનો છે.",
@@ -387,15 +423,6 @@ const newsData_gu = [
     "time": "2026-06-22T06:23:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "લોકસભામાં જાદુઈ આકડાથી કેટલી દુર છે NDA ? કેમ બહુમત માટે પ્રયાસ કરી રહી છે મોદી સરકાર ? જાણો",
-    "desc": "ભાજપ લોકસભામાં જાદુઈ સંખ્યાની નજીક છે. આ દરમિયાન, રાજ્યસભામાં NDAની સંખ્યા હવે 150 પર પહોંચી ગઈ છે. આ સાથે, NDA અત્યાર સુધીની સૌથી મજબૂત સ્થિતિમાં પહોંચી ગયું છે. વધુ ત્રણ TMC સાંસદો પક્ષ બદલી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-far-is-nda-from-the-magic-number-in-lok-sabha-why-is-modi-government-trying-for-majority-find-out-482271 ",
-    "time": "2026-06-22T05:21:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "હોર્મુઝ બંધ છતાં ઘટ્યા ક્રૂડ ઓઈલના ભાવ, શું ભારતમાં ઘટશે-પેટ્રોલ ડીઝલના રેટ? જાણો લેટેસ્ટ રેટ",
     "desc": "અમેરિકા અને ઈરાન વચ્ચે ડામાડોળની સ્થિતિ, અસ્પષ્ટતા છતાં ક્રૂડ ઓઈલના ભાવમાં આજે ઘટાડો નોંધાયો છે. ત્યારે શું ભારતમાં પેટ્રોલ ડીઝલના ભાવમાં ઘટાડો જોવા મળશે તે સૌથી મોટો પ્રશ્ન ચર્ચાઈ રહ્યો છે. આ બધા વચ્ચે ગુજરાતના મોટા શહેરોમાં આજના પેટ્રોલ અને ડીઝલના ભાવ જાણો.",
@@ -664,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/neet-re-exam-2026-telegram-blocked-but-why-not-whatsapp-here-is-the-reason-481761 ",
     "time": "2026-06-17T05:10:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શું ભવિષ્યમાં AIનો &amp;#039;ગુલામ&amp;#039; બનશે માણસ? AI બનાવનારા પોતે જ ડર્યા; ટેક દિગ્ગજો આપી રહ્યા છે ગંભીર ચેતવણી",
-    "desc": "AIના સૌથી મોટા નિષ્ણાતો અને કંપનીઓના CEO હવે તેના સંભવિત જોખમો વિશે ખુલ્લીને ચેતવણી આપી રહ્યા છે. પ્રશ્ન એ નથી કે, AI કેટલું શક્તિશાળી બનશે, પરંતુ પ્રશ્ન એ પણ છે કે માણસો તેનો ઉપયોગ કેટલી જવાબદારીથી કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/will-humans-become-slaves-of-ai-in-the-future-those-who-created-ai-themselves-are-scared-tech-giants-are-giving-a-serious-warning-481736 ",
-    "time": "2026-06-16T17:33:53.000Z"
   },
   {
     "cat": "Entertainment",

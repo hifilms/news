@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will Neymar play against Scotland in FIFA World Cup 2026? Coach breaks silence",
+    "desc": "Neymar could finally return when Brazil take on Scotland for their final league stage match of the FIFA World Cup 2026 on Thursday, June 24 (as per IST), coach Carlo Ancelotti highlighted. Neymar's availability has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/will-neymar-play-against-scotland-in-fifa-world-cup-2026-coach-breaks-silence-2026-06-24-1046008",
+    "time": "2026-06-24T14:00:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "List of teams to have qualified for FIFA World Cup round of 32 stage after Colombia book spot in knockouts",
+    "desc": "The FIFA World Cup 2026 has gripped the fans all around the world with some jaw-dropping matches hogging the limelight. Lionel Messi, Kylian Mbappe and Erling Haaland's performances and Cristiano Ronaldo's recent outing have become...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/list-of-teams-to-have-qualified-for-fifa-world-cup-round-of-32-stage-after-colombia-book-spot-in-knockouts-2026-06-24-1046000",
+    "time": "2026-06-24T13:29:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why will Vaibhav Sooryavanshi use different dressing room from teammates during England tour?",
+    "desc": "Eyes are set on Vaibhav Sooryavanshi as India take on Ireland and England for separate white-ball series during the UK tour. Sooryavanshi has been named in squads for both the Ireland and England T20Is as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-will-vaibhav-sooryavanshi-use-different-dressing-room-from-teammates-during-england-tour-2026-06-24-1045997",
+    "time": "2026-06-24T12:29:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When can Shubman Gill become World No.1 ODI batter after latest mega jump past Virat Kohli?",
     "desc": "India captain Shubman Gill has leapfrogged veteran batter Virat Kohli to jump to the second spot in the ICC ODI rankings for batters, rising three spots from fifth after his recent exploits against Afghanistan. The ODI...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/eng-vs-gha-fifa-world-cup-2026-live-score-england-aim-for-tournament-knockouts-looking-for-second-win-1045897",
     "time": "2026-06-23T19:36:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stampede reported at Jharkhand's JSCA Stadium during the Jharkhand T20 final in Ranchi",
-    "desc": "In a major development, a stampede-like situation has been reported in Ranchi at the JSCA Stadium during the final of the Jharkhand Premier League. Several people have been reported as injured, with three of them...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/stampede-reported-at-jharkhand-s-jsca-stadium-during-the-jharkhand-t20-final-in-ranchi-2026-06-24-1045896",
-    "time": "2026-06-23T19:24:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo scripts history, becomes first player to achieve huge feat with goal against Uzbekistan",
-    "desc": "The ongoing FIFA World Cup 2026 continued with Portugal taking on Uzbekistan. The two sides met at the Houston Stadium on June 23, and the game saw Portugal take the lead early in the game....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-scripts-history-becomes-first-player-to-achieve-huge-feat-with-goal-against-uzbekistan-2026-06-23-1045892",
-    "time": "2026-06-23T17:35:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Portugal defeat Uzbekistan 5-0, Ronaldo plays starring role",
-    "desc": "Portugal and Uzbekistan are all set to take on each other at the Houston Stadium in the ongoing FIFA World Cup 2026. It is worth noting that Portugal kicked off their campaign in the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/por-vs-uzb-fifa-world-cup-2026-live-score-cristiano-ronaldo-in-action-as-portugal-prepare-for-first-win-1045888",
-    "time": "2026-06-23T16:45:14.000Z"
   }
 ];
