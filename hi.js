@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England name playing XI for third Test against New Zealand, Ben Stokes makes much awaited return",
+    "desc": "The ECB (England and Wales Cricket Board) have come forward and announced their playing XI for the upcoming third Test against New Zealand. It is worth noting that the series is at a standstill currently,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-name-playing-xi-for-third-test-gainst-new-zealand-ben-stokes-makes-much-awaited-return-2026-06-24-1045902",
+    "time": "2026-06-23T22:18:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cristiano Ronaldo stars as Portugal decimate Uzbekistan in FIFA World Cup 2026 with dominant 5-0 win",
     "desc": "Portugal put forth a magnificent performance against Uzbekistan in the ongoing FIFA World Cup 2026. The two sides met at the Houston Stadium on June 23rd, and the game was a must-win for Portugal as...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/vijay-amritraj-indias-tennis-great-awarded-padma-bhushan-know-his-achievements-2026-06-23-1045856",
     "time": "2026-06-23T12:23:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Cristiano Ronaldo be dropped from Portugal's Starting XI for Uzbekistan game? Coach speaks up",
-    "desc": "Cristiano Ronaldo has copped criticism for his poor performance in Portugal's FIFA World Cup 2026 opener against DR Congo. The Portuguese talisman failed to inspire the Seleção das Quinas and looked out of sorts in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/will-cristiano-ronaldo-be-dropped-from-portugals-starting-xi-for-uzbekistan-game-coach-speaks-up-2026-06-23-1045849",
-    "time": "2026-06-23T11:29:49.000Z"
   }
 ];
