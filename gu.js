@@ -1,5 +1,113 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "કોફી, વાતચીત અને ષડયંત્ર... હત્યાના એક દિવસ પહેલા કેફેમાં મળ્યા હતા સિયા અને ચેતન, Exclusive CCTV આવ્યા સામે",
+    "desc": "કેતન અગ્રવાલ હત્યાકાંડની તપાસમાં એક નવા CCTV વીડિયો સામે આવ્યા છે. પોલીસના જણાવ્યા અનુસાર, હત્યાના એક દિવસ પહેલા સિયા ગોયલ અને ચેતન ચૌધરી પુણેના 'થર્ડ વેવ કેફે'માં મળ્યા હતા. પોલીસનું કહેવું છે કે, આ વીડિયો કેતનની હત્યાના એક દિવસ પહેલાનો છે. જેમાં જોઈ શકાય છે કે સિયા ગોયલ અને ચેતન ચૌધરી પુણેના એક કેફેમાં મળ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/coffee-conversation-and-conspiracy-siya-goel-and-chetan-chaudhary-met-in-a-cafe-a-day-before-the-murder-exclusive-cctv-482640 ",
+    "time": "2026-06-25T11:32:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સિયાને પૈસા નહીં પ્રેમ જોઈએ! એક તરફ કરોડપતિ કેતન, બીજીતરફ દુકાન ચલાવતો ચેતન",
+    "desc": "એક તરફ કરોડપતિ કારોબારી પરિવારનો કેતન અગ્રવાલ હતો, જેની સાથે સિયાના લગ્નની તૈયારીઓ ચાલી રહી હતી અને રાજસ્થાનમાં ભવ્ય સમારોહની ચર્ચા હતી. બીજીતરફ ચેતન ચૌધરી હતો, જેને સિયા પ્રેમ કરતી હતી. કેતનની હત્યા બાદ હવે લોકો કહેવા લાગ્યા છે કે પૈસાના બદલે સિયાએ પ્રેમ પસંદ કર્યો પરંતુ તેનો ઈરાદો ખોટો હતો. તેણે કેતનની હત્યા કરવાની નહોતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/money-vs-love-siya-rejects-millionaire-fianc%C3%A9-for-ration-shop-owner-but-alleged-murder-plots-ruins-the-romance-482637 ",
+    "time": "2026-06-25T11:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મેરે દિલકો પતા હૈ તું યહીં હૈ... વાપસ આ જા!, સિયાએ આ એક જ ભૂલ કરી અને પકડાઈ ગઈ",
+    "desc": "સિયા ભયાનક ચાલાક હતી, જેના હવે કારનામા ખુલી રહ્યાં છે. કેતન અગ્રવાલના મોત બાદ સિયા ગોયેલે એક ભાવુક પોસ્ટ કરી હતી જેમાં લખ્યું હતું કે શા માટે તે એને છોડીને ચાલી ગયો. પોલીસ તપાસમાં એ ખુલાસો થયો છે કે એને ચેતન ચોધરી સાથે સંબંધો હતો. તપાસમાં 2004 ફોન અને 238 કલાકની વાતચીતનો ખુલાસો થયો છે. આ સિવાયના ચોંકાવનારા ખુલાસાઓ હવે ધીરે ધીરે બહાર આવી રહ્યાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-case-update-sia-made-this-one-mistake-and-got-caught-482630 ",
+    "time": "2026-06-25T11:21:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ 3 ખેલાડીઓનું કરિયર ખતરામાં ? જો આયર્લેન્ડ-ઇંગ્લેન્ડ સામેની સિરીઝમાં ફેલ થયા તો ટીમ ઇન્ડિયામાંથી કપાશે પત્તુ !",
+    "desc": "સૂર્યકુમાર યાદવ હવે ભારતીય T20 ટીમમાં નથી, T20 વર્લ્ડ કપમાં ભારતીય ટીમનો કેપ્ટન હોવા છતાં તેને હવે ટીમમાંથી બહાર કરવામાં આવ્યો છે. તો હવે આ 3 ખેલાડીઓની મુશ્કેલી વધી શકે છે. જો ખેલાડીઓ આયર્લેન્ડ અને ઇંગ્લેન્ડ સામેની શ્રેણીમાં સારું પ્રદર્શન કરવામાં નિષ્ફળ જાય છે, તો તેમને પણ ટીમ ઇન્ડિયામાંથી બહાર કરવામાં આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shivam-dube-prasidh-krishna-washington-sundar-career-in-danger-can-dropped-team-india-482639 ",
+    "time": "2026-06-25T11:13:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઓસ્કર પેનલમાં ભારતીય ફિલ્મમેકર વિશાલ ભારદ્વાજ સહિત 6 લોકોની એન્ટ્રી, ચેક કરી લો લિસ્ટ",
+    "desc": "ઓસ્કર એવોર્ડની વોટિંગ પેનમાં આ વર્ષે દુનિયાભરના 529 નવા લોકોનો સમાવેશ કરવામાં આવ્યો છે જેમાં ભારતના 6 પ્રખ્યાત લોકોનો પણ સમાવેશ કરવામાં આવ્યો છે. આ 6 નામોમાંથી એક નામ બોલીવુડના જાણીતા ફિલ્મ મેકર અને મ્યુઝિક કંપોઝર વિશાલ ભારદ્વાજનું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/6-indian-celebs-got-oscar-voting-panel-invite-from-academy-including-vishal-bhardwaj-482635 ",
+    "time": "2026-06-25T10:25:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પ્લાનને અંજામ આપવા લોહાગઢ કિલ્લો જ કેમ? સિયાના આ 4 રેડ ફ્લેગ અવગણવા ભારે પડ્યા! અત્યંત ચોંકાવનારી વિગતો",
+    "desc": "મંગેતરને ટ્રેકિંગના નામે લોહાગઢ કિલ્લા પર લઈ જઈને પ્રેમી સાથે મળીને ઊંડી ખીણમાં ફેંકી દેનારી સિયા ગોયલ વિશે એવી એવી ચોંકાવનારી વાતો સામે આવી રહી છે કે જેને જાણીને એમ થાય કે સુરતથી ભોળી દેખાતી આ છોકરી આટલી અપરાધિક માઈન્ડની હોઈ શકે? સિયાએ એક નહીં અનેકવાર હત્યાના પ્રયત્નો કર્યા હતા. તેણે લોહાગઢ કિલ્લો જ કેમ પસંદ કર્યો એ પણ ચર્ચાનો વિષય બન્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lohagadh-fort-case-pune-business-man-son-ketan-vishal-agarwal-murder-latest-upate-siya-goyal-482626 ",
+    "time": "2026-06-25T09:42:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વેનેઝુએલામાં તબાહી: જો દિલ્હી કે કચ્છમાં આવો ભૂકંપ આવ્યો તો? જાણો ભારત કેટલું તૈયાર છે",
+    "desc": "વેનેઝુએલામાં આવેલા ભૂકંપે વૈશ્વિક સ્તરે ભૂકંપના જોખમો અંગે એકવાર ચર્ચામાંછે. ભૂકંપની ચોક્કસ આગાહી કરવી હજુ પણ અશક્ય છે. ભારતમાં અંદાજે 59% વિસ્તાર ભૂકંપના જોખમી ઝોનમાં આવે છે, ત્યારે સુરક્ષિત ઇમારતો, લોકજાગૃતિ અને આપત્તિ વ્યવસ્થાપન (ડિઝાસ્ટર મેનેજમેન્ટ) અત્યંત જરૂરી છે, આ ઘટના આપણને તેની યાદ અપાવે છે. આપણે એ ન ભૂલવું જોઈએ કે ગુજરાતમાં કચ્છનું રણ એ હાઈરિસ્ક ઝોનમાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/venezuela-what-if-such-an-earthquake-occurred-in-delhi-or-kutch-know-how-prepared-india-is-482629 ",
+    "time": "2026-06-25T09:42:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશીનું ડેબ્યૂ, આ ખેલાડીનું કપાશે પત્તુ... આયર્લેન્ડ સામેની પ્રથમ T20માં આવી હશે ભારતની પ્લેઈંગ-11",
+    "desc": "વૈભવ સૂર્યવંશી આયર્લેન્ડ સામેની પ્રથમ T20 મેચમાં ટીમ ઈન્ડિયા માટે ડેબ્યૂ કરી શકે છે. જો તેને ડેબ્યૂ કરવાની તક મળે તો ઓપનિંગ બેટ્સમેનમાંથી એકને બહાર બેસવું પડશે. ત્યારે આ લેખમાં જાણીશું કે, ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવન કેવી હશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ire-vs-ind-1st-t20-team-india-probable-playing-xi-vaibhav-sooryavanshi-482628 ",
+    "time": "2026-06-25T09:29:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેતનની હત્યાના અંતિમ 72 કલાક પહેલા શું શું થયું હતું? કોકડું ઉકેલવામાં નિર્ણાયક સાબિત થશે",
+    "desc": "પુનાના બિઝનેસમેનના પુત્ર કેતન વિશાલ અગ્રવાલની મંગેતરે પોતાના બર્થડેના આગલા દિવસે જ લોહગઢ કિલ્લા પરથી ધક્કો મારીને ખાઈમાં ધકેલી હત્યા કરી. મામલાની તપાસમાં સામેલ અધિકારીઓના જણાવ્યાં મુજબ કેતનના મોત પહેલાના 72 કલાકની જે વિગતો છે તે કેસની દિશા વાળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lohagadh-fort-case-pune-business-man-son-ketan-vishal-agarwal-murder-latest-upate-siya-goyal-482612 ",
+    "time": "2026-06-25T09:27:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;quot;એમને ગુજરી ગયાને 6 વર્ષ થઈ ગયા છે પરંતુ મેં આજ સુધી તેમની તસવીર પર હાર નથી ચડાવ્યો&amp;quot;",
+    "desc": "જિંદગીમાં સૌથી મોટુ કોઈ દાન હોય તો એ અંગદાન છે. તમે કેટલીય જિંદગીઓને બચાવી શકો છે, દેશમાં સૌથી વધારે જરૂરી દાન હોય તો એ અંગદાન છે. અમે તમને આવી જ એક ઈમોશનલ દિલ્હીની સ્ટોરી જણાવી રહ્યાં છીએ. તમને જણાવી દઈએ કે, ‘ટ્રાન્સપ્લાન્ટેશન ઓફ હ્યુમન ઓર્ગન્સ એક્ટ’ (THOA) હેઠળ શરીરના અંગોનું ખરીદ અને વેચાણ સંપૂર્ણપણે ગેરકાયદેસર અને ગંભીર ગુનો છે. કોઈ પણ હોસ્પિટલ કે ડોક્ટર પોતાની મરજીથી અંગ કોઈને આપી શકતી નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/its-been-6-years-since-he-passed-away-but-i-still-havent-given-up-on-his-picture-482625 ",
+    "time": "2026-06-25T08:52:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઓટીટી પર જુઓ નવી માર્શલ આર્ટ્સ થ્રિલર ફિલ્મ બ્લાસ્ટ, IMDb રેટિંગ પણ છે જોરદાર",
+    "desc": "જો તમે સાઉથની એક્શન ફિલ્મો જોવાના શોખીન છો તો તમારા માટે ગુડ ન્યુઝ છે. મે મહિનામાં બોક્સ ઓફિસ પર રિલીઝ થયેલી ફિલ્મ બ્લાસ્ટ હવે હીંદીમાં ઓટીટી પર રિલીઝ થઈ ચુકી છે. તો ફટાફટ ચેક કરી લો બ્લાસ્ટ ફિલ્મ હિંદીમાં કયા ઓટીટી પ્લેટફોર્મ પર જોવા મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/action-thriller-film-blast-in-hindi-released-on-netflix-blast-movie-imdb-rating-482614 ",
+    "time": "2026-06-25T07:34:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદીમાં ભૂકંપ! એક ઝટકે ભાવમાં બંપર ઘટાડો, 7 મહિનાના તળીયે પહોંચ્યા ગોલ્ડ-સિલ્વર, ભાવ ઘટાડાના કારણો પણ જાણો",
+    "desc": "સોના અને ચાંદીમાં આજે બજાર ખુલતા જ જોરદાર કડાકો જોવા મળ્યો છે. વાયદા બજારમાં સોનાનો ભાવ ગગડીને 140698 પર પહોંચ્યો છે જ્યારે ચાંદી 210821 પર જોવા મળી છે. વૈશ્વિક બજારમાં પણ સોનું 4000 ડોલરની અંદર ગયું છે. ભાવમાં કડાકાના કારણો અને લેટેસ્ટ રેટ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-are-the-prices-of-gold-and-silver-suddenly-falling-check-latest-gold-silver-mcx-retail-global-rate-482596 ",
+    "time": "2026-06-25T07:15:47.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "સામંથા રુથ પ્રભુએ કંફર્મ કરી પહેલી પ્રેગ્નેન્સી, ડિસેમ્બર 2025 માં ડિરેક્ટર રાજ નિદિમોરુ સાથે કર્યા હતા લગ્ન",
     "desc": "બોલીવુડ અને સાઉથ ફિલ્મ ઈંડસ્ટ્રીની લોકપ્રિય અભિનેત્રી સામંથા રુથ પ્રભુના કેટલાક ફોટો વાયરલ થયા પછી તે પ્રેગ્નેન્સીના કારણે ચર્ચામાં હતી. હવે અભિનેત્રીએ પ્રેગ્નેન્સીની વાતને કંફર્મ કરી દીધી છે. સામંથાએ કઈ રીતે આ ગુડ ન્યુઝ શેર કરી ચાલો તમને પણ જણાવીએ.",
@@ -52,15 +160,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-morocco-thump-haiti-4-2-to-cruise-into-round-of-32-482597 ",
     "time": "2026-06-25T04:58:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીમાં ભૂકંપ! એક ઝટકે ભાવમાં બંપર ઘટાડો, 7 મહિનાના તળીયે પહોંચ્યા ગોલ્ડ-સિલ્વર, ભાવ ઘટાડાના કારણો પણ જાણો",
-    "desc": "સોના અને ચાંદીમાં આજે બજાર ખુલતા જ જોરદાર કડાકો જોવા મળ્યો છે. વાયદા બજારમાં સોનાનો ભાવ ગગડીને 140698 પર પહોંચ્યો છે જ્યારે ચાંદી 210821 પર જોવા મળી છે. વૈશ્વિક બજારમાં પણ સોનું 4000 ડોલરની અંદર ગયું છે. ભાવમાં કડાકાના કારણો અને લેટેસ્ટ રેટ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/why-are-the-prices-of-gold-and-silver-suddenly-falling-check-latest-gold-silver-mcx-retail-global-rate-482596 ",
-    "time": "2026-06-25T04:11:13.000Z"
   },
   {
     "cat": "World",
@@ -261,24 +360,6 @@ const newsData_gu = [
     "time": "2026-06-23T17:46:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મુસ્કાન-સોનમ અને હવે સિયા! મંગેતરે જ લોહાગઢ કિલ્લા પરથી કેતનને ધક્કો મારી દીધો હતો?",
-    "desc": "એક યુવક તેની મંગેતરના બર્થડેની ઉજવણીને લઈને એટલો ખુશખુશાલ હતો પરંતુ તેને ક્યાં ખબર હતી કે મોત બોલાવી રહ્યું છે. લોહાગઢ કિલ્લા પર ઊંડી ખાઈમાં પડી જવાથી કેતન અગ્રવાલના થયેલા મોત મામલે ચોંકાવનારો ખુલાસો થઈ રહ્યો છે અને મંગેતર પર આરોપ લાગ્યો છે. જાણો શું છે વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-twist-in-lohagad-fort-case-ketan-vishal-agarwal-death-investigation-case-siya-goyal-482438 ",
-    "time": "2026-06-23T12:33:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઈન્દોરની સોનમ બાદ હવે પૂણેની સિયા! પ્રેમીને પામવા મંગેતરના મોતનું રચ્યું કાવતરું, લગ્ન પહેલા જ ભાવિ પત્નીએ ખાઈમાં ધકેલી દીધો!",
-    "desc": "લોનાવલાના પ્રખ્યાત લોહગઢ કિલ્લા પરથી પડી જવાથી થયેલા વેપારી કેતન અગ્રવાલના મૃત્યુના કેસમાં હવે એક ખૂબ જ ચોંકાવનારો ખુલાસો થયો છે. શરૂઆતમાં ટ્રેકિંગ દરમિયાન થયેલો અકસ્માત લાગતી આ ઘટના વાસ્તવમાં પૂર્વ-આયોજિત કાવતરું રચીને કરવામાં આવેલી હત્યા હોવાનું પોલીસ તપાસમાં બહાર આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-sonam-of-indore-now-siya-of-pune-plot-was-hatched-to-kill-her-fiance-to-get-her-lover-and-her-future-wife-pushed-her-into-a-ditch-before-the-wedding-482450 ",
-    "time": "2026-06-23T12:33:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "DA ફોર્મ્યુલામાં થશે ફેરફાર... કેન્દ્રીય કર્મચારીઓની 8મા પગાર પંચ પર છે નજર",
     "desc": "આઠમા પગાર પંચને લઈને કેન્દ્રીય કર્મચારીઓમાં ઘણો ઉત્સાહ છે. કેન્દ્રીય કર્મચારીઓ તેનાથી સંબંધિત દરેક સમાચારને જોઈ રહ્યા છે. દરેકને જાણવામાં રસ છે કે પગાર પંચની ભલામણો શું હશે. જોકે, પગાર પંચ 2027ના પહેલા 6 મહિના સુધીમાં સરકારને તેની ભલામણો રજૂ કરે તેવી અપેક્ષા છે. આ પહેલા, વિવિધ કર્મચારી સંગઠનોએ પગાર પંચ સમક્ષ પોતાની માંગણીઓ રજૂ કરી છે.",
@@ -288,24 +369,6 @@ const newsData_gu = [
     "time": "2026-06-23T12:04:06.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "મેસ્સી અને એમબાપ્પેએ મચાવી ધમાલ... હવે રોનાલ્ડો અને હેરી કેનનો વારો, ક્યાં અને કેવી રીતે જોવી લાઈવ મેચ?",
-    "desc": "લિયોનેલ મેસ્સી, કાયલિયન એમબાપ્પે અને એર્લીન હાલેન્ડ ફિફા વર્લ્ડ કપ 2026માં એક્શનમાં હતા. ત્રણેય ગોલ્ડન બૂટની રેસમાં છે. જો કે, દિગ્ગજ ક્રિસ્ટિયાનો રોનાલ્ડો એક ઝાંખો પડછાયો છે, તેમણે હજુ સુધી પોતાનું ખાતું ખોલ્યું નથી. તે આજે બીજી મેચમાં એક્શનમાં જોવા મળશે, અમે તમને જણાવીશું કે મેચ ક્યાં અને કેવી રીતે જોવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/messi-and-mbappe-created-a-stir-now-its-ronaldo-and-harry-kanes-turn-where-and-how-to-watch-the-live-match-482436 ",
-    "time": "2026-06-23T09:41:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2027 પહેલા સૌથી મોટી ટ્રેડ... રિષભ પંત અને કુલદીપ યાદવની બદલાઈ ટીમ, આટલા કરોડમાં થઈ ડીલ",
-    "desc": "IPL 2027 પહેલા મોટી ટ્રેડ ડીલ થઈ છે. રિષભ પંત અને કુલદીપ યાદવની ટીમો બદલાઈ ગઈ છે. લખનૌ સુપર જાયન્ટ્સે 2025ની મેગા ઓક્શનમાં રિષભ પંતને ₹27 કરોડની મોટી રકમમાં ખરીદ્યો હતો. ટીમ સાથે તેનો કાર્યકાળ ફક્ત બે સીઝન સુધી ચાલ્યો. હવે પંત ફરી એકવાર IPLમાં દિલ્હી કેપિટલ્સ તરફથી રમતો જોવા મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-trade-deal-rishabh-pant-joined-delhi-capitals-kuldeep-yadav-to-lsg-482433 ",
-    "time": "2026-06-23T09:10:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સોના-ચાંદીમાં ભૂકંપ, એક ઝટકે ભાવમાં જબરદસ્ત મોટો ઘટાડો, જાણો આજના કેરેટ પ્રમાણે લેટેસ્ટ રેટ",
     "desc": "સોના અને ચાંદીમાં 15 જૂનથી જે કડાકાનો માહોલ જોવા મળ્યો છે તે હજુ પણ ચાલું છે. આજે પણ સોનું અને ચાંદી બંને ખુબ ગગડ્યા છે. બજારના જાણકારોનું કહેવું છે કે ડોલર, અમેરિકામાં વ્યાજ દરના બદલાતા સંકેત અને ઔદ્યોગિક ડિમાન્ડમાં નબળાઈ તથા મિડલ ઈસ્ટની અનિશ્ચિતતાઓ આ કડાકાના માહોલ માટે જવાબદાર હોઈ શકે છે.",
@@ -313,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/huge-price-drop-in-gold-and-silver-today-check-ibja-mcx-latest-rate-aaj-no-sona-no-bhav-482420 ",
     "time": "2026-06-23T08:37:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આવી ગયું વિરાટ કોહલીનું ફિટનેસ ટેસ્ટનું રિઝલ્ટ, શું ભારતીય ટીમમાં વાપસી માટે રસ્તો થઈ ગયો સાફ ? જાણો",
-    "desc": "વિરાટ કોહલી ફિટનેસ ટેસ્ટ પર અપડેટ આવ્યું છે અને હવે તે ઇંગ્લેન્ડમાં ODI શ્રેણી રમી શકશે કે કેમ તેના પર અનેક સવાલો હતા. IPL 2026ની ફાઇનલ દરમિયાન તેને ઈજા થઈ હતી, જેના કારણે તે અફઘાનિસ્તાન સામેની ODI સિરીઝમાં રમી શક્યો ન હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/virat-kohlis-fitness-test-results-are-out-is-the-path-clear-for-his-return-to-the-indian-team-find-out-482418 ",
-    "time": "2026-06-23T08:01:55.000Z"
   },
   {
     "cat": "World",
@@ -342,15 +396,6 @@ const newsData_gu = [
     "time": "2026-06-23T03:33:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ઉદ્વવ ઠાકરેને ઝટકા પર ઝટકા, બેઠકમાંથી હવે 4 વિધાયકો પણ ગાયબ, BMCમાં પણ &amp;#039;ઓપરેશન ટાઈગર&amp;#039;?",
-    "desc": "મહારાષ્ટ્રમાં પણ બંગાળવાળી પૂરજોશમાં થતી જોવા મળી રહી છે. પહેલા તો 6 સાંસદોએ શિવસેના યુબીટી અને ઉદ્ધવ ઠાકરેનો સાથ છોડ્યો અને હવે એવા ભણકારા છે કે કેટલાક વિધાયકો પણ છેડો ફાડી શકે છે. આ ઉપરાંત બીએમસીમાં પણ ઓપરેશન ટાઈગર જોવા મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/maharashtra-politics-latest-update-uddhav-thackeray-party-matoshree-meeting-operation-tiger-482381 ",
-    "time": "2026-06-23T03:19:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કિંજલ દવેનું ફરી બ્રેકઅપ? ઇન્સ્ટાગ્રામ પરથી ધ્રુવીન શાહની તસવીરો હટાવી વધાર્યું સસ્પેન્સ!",
     "desc": "ગુજરાતની જાણીતી સિંગર કિંજલ દવે અને ધ્રુવિન શાહ ફરી એકવાર સોશિયલ મીડિયા પર જોરદાર ચર્ચાનો વિષય બન્યા છે. કિંજલ દવે અવારનવાર પોતાની પર્સનલ લાઈફને લઈને ચર્ચામાં રહે છે. કિંજલે પોતાના ઈન્સ્ટાગ્રામ હેન્ડલ પરથી ધ્રુવીન શાહ સાથેની માલદિવ્સ વેકેશનની તસવીરો હટાવી દીધી છે. આ ફોટોઝ અચાનક ગાયબ થઈ જતાં સોશિયલ મીડિયા પર બન્નેના સંબંધોને લઈને ફરી અફવા શરૂ થઈ છે.",
@@ -358,33 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kinjal-dave-breakup-again-dhruvin-shah-pictures-were-removed-from-instagram-and-added-to-the-suspense-482347 ",
     "time": "2026-06-22T15:24:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "1 જુલાઈથી બદલાઈ રહ્યો છે Aadhaarનો આ નિયમ, ફ્રીમાં અપડેટ કરી શકશો આ વિગતો, નહીં ચૂકવવા પડે પૈસા",
-    "desc": "UIDAIએ આધાર કાર્ડ ધારકોને મોટી રાહત આપી છે. 1 જુલાઈ, 2026થી મોબાઇલ એપ્લિકેશન દ્વારા આધારમાં ઇમેઇલ ID એડ કરવા અથવા અપડેટ કરવા માટે તમારે કોઈ ચાર્જ ચૂકવવો પડશે નહીં. હાલમાં આ સર્વિસ માટે ₹75 ફી લેવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/aadhaar-rule-changing-from-1st-july-email-update-free-in-aadhaar-via-mobile-app-482345 ",
-    "time": "2026-06-22T14:34:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "લખનૌમાં કોચિંગ સેન્ટરમાં લાગી ભીષણ આગ, 15 બાળકોના મોત, જીવ બચાવવા લોકો છત પરથી કૂદ્યા",
-    "desc": "લખનૌના અલીગંજના પૂર્ણિયા વિસ્તારમાં એક બિલ્ડિંગમાં લાગેલી ભીષણ આગ પર કાબુ મેળવી લેવામાં આવ્યો છે. આગમાં 15 લોકોના મોત થયાના સમાચાર છે. તો બિલ્ડીંગમાં ફસાયેલા લોકોને બહાર કાઢવામાં આવ્યા છે. ઈજાગ્રસ્ત વ્યક્તિઓને તાત્કાલિક હોસ્પિટલ ખસેડવામાં આવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lucknow-massive-fire-breaks-out-in-coaching-centre-482324 ",
-    "time": "2026-06-22T14:12:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "લખનૌ અગ્નિકાંડમાં 15 મોત: શોર્ટ સર્કિટ કે ગેરકાયદે બાંધકામ? વાંચો દેશને હચમચાવી દેનારી 6 મોટી આગની ઇનસાઇડ સ્ટોરી",
-    "desc": "લખનૌની કોચિંગ ઇન્સ્ટિટ્યૂટમાં ભયાનક આગ લાગતા 15 લોકોના મોત નીપજ્યા છે. આ દુર્ઘટનાએ સુરત અને રાજકોટ સહિત દેશના 5 મોટા અગ્નિકાંડોની યાદ તાજી કરી દીધી છે. મોટાભાગની આવી ઘટનાઓ પાછળ શોર્ટ સર્કિટ અને ફાયર સેફ્ટીના નિયમોનું ઉલ્લંઘન મુખ્ય કારણ હોય છે. ત્યારે ચાલો જાણીએ દેશના 6 મોટી દુર્ઘટનાઓ વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lucknow-fire-incident-short-circuit-or-illegal-construction-read-the-inside-story-of-5-major-fires-that-shook-the-country-482338 ",
-    "time": "2026-06-22T13:53:16.000Z"
   },
   {
     "cat": "Business",
@@ -466,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/yash-movie-toxic-new-release-date-toxic-and-shraddha-kapoor-eetha-movie-box-office-clash-482292 ",
     "time": "2026-06-22T06:23:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "હોર્મુઝ બંધ છતાં ઘટ્યા ક્રૂડ ઓઈલના ભાવ, શું ભારતમાં ઘટશે-પેટ્રોલ ડીઝલના રેટ? જાણો લેટેસ્ટ રેટ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે ડામાડોળની સ્થિતિ, અસ્પષ્ટતા છતાં ક્રૂડ ઓઈલના ભાવમાં આજે ઘટાડો નોંધાયો છે. ત્યારે શું ભારતમાં પેટ્રોલ ડીઝલના ભાવમાં ઘટાડો જોવા મળશે તે સૌથી મોટો પ્રશ્ન ચર્ચાઈ રહ્યો છે. આ બધા વચ્ચે ગુજરાતના મોટા શહેરોમાં આજના પેટ્રોલ અને ડીઝલના ભાવ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/crude-oil-prices-fall-will-petrol-and-diesel-rates-fall-in-india-check-the-latest-rates-482269 ",
-    "time": "2026-06-22T05:16:19.000Z"
   },
   {
     "cat": "Tech",
@@ -675,15 +684,6 @@ const newsData_gu = [
     "time": "2026-06-18T09:50:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "તમારી ઓટીટી વોચલિસ્ટમાં એડ કરવા જેવી વિમેન-સેન્ટ્રિક વેબ સીરીઝ, દરેક સીરીઝ છે દમદાર",
-    "desc": "આલિયા ભટ્ટની ફિલ્મ આલ્ફા રિલીઝ થાય તે પહેલા ઓટીટી પર જોઈ લો આ દમદાર વિમેન-સેન્ટ્રિક ફિલ્મો. આ વેબ સીરીઝ અને ફિલ્મોમાં મજબૂત મહિલા પાત્રો જોવા મળશે. તમારી ઓટીટી વોચલિસ્ટમાં આજે જ આ ફિલ્મો એડ કરી લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-women-centric-web-series-in-hindi-on-netflix-prime-video-jio-hotstar-481854 ",
-    "time": "2026-06-18T07:18:56.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "વિશ્વાસ નહીં થાય! 25 વર્ષના ભારતીય છોકરાએ AIમાં એવું તે શું કર્યું કે એલન મસ્કે 60 અબજ ડોલરની આપી દીધી ઓફર ?",
     "desc": "એલોન મસ્કના સ્પેસએક્સે 60 બિલિયન ડોલરના સોદામાં AI કોડિંગ પ્લેટફોર્મ કર્સર ખરીદવાની જાહેરાત કરી છે. ભારતીય મૂળના અમન સંગર દ્વારા સહ-સ્થાપિત, આ કંપની વિશ્વના સૌથી ઝડપથી વિકસતા AI સ્ટાર્ટઅપ્સમાંની એક છે. આ સોદાને એલોન મસ્કની AI વ્યૂહરચના માટે એક મોટું પગલું માનવામાં આવી રહ્યું છે.",
@@ -700,15 +700,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/priced-at-5-63-lakh-and-mileage-of-31-km-maruti-suzuki-baleno-became-number-1-in-sales-481791 ",
     "time": "2026-06-17T09:42:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઓરીએ એક રીલમાંથી કમાયા 76 લાખ, જણાવ્યું કેવી રીતે કરે છે કમાણી અને PM મોદીની લગતી એક ઇચ્છા કરી શેર",
-    "desc": "ઓરી લાંબા સમયથી સોશિયલ મીડિયા સેન્સેશન બની ગયો છે. હવે, તેણે ખુલાસો કર્યો છે કે તે કેવી રીતે પૈસા કમાય છે. તેણે એ પણ જાહેર કર્યું છે કે તે કોની સાથે ફોટો પડાવવાનું સૌથી વધુ પસંદ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/oori-earned-76-lakhs-from-a-reel-told-how-he-earns-and-shared-a-wish-related-to-pm-modi-481790 ",
-    "time": "2026-06-17T09:33:10.000Z"
   },
   {
     "cat": "Tech",

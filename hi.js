@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Setback for New Zealand as Matt Henry, Glenn Phillips ruled out of third test against England",
+    "desc": "New Zealand on Thursday suffered a massive setback after pacer Matt Henry and batter Glenn Phillips were ruled out of the third test against England at the Trent Bridge in Nottingham due to injuries. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/setback-for-new-zealand-as-matt-henry-glenn-phillips-ruled-out-of-third-test-against-england-2026-06-25-1046112",
+    "time": "2026-06-25T10:26:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sai Sudharsan keeps his case for Test No.3 after solid hundred against Sri Lanka A",
+    "desc": "Sai Sudharsan on Thursday answered his critics and once again kept his case for the number three position in India's test team after scoring a solid hundred for India A against Sri Lanka A in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-keeps-his-case-for-test-no-3-after-solid-hundred-against-sri-lanka-a-2026-06-25-1046107",
+    "time": "2026-06-25T10:00:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Ireland T20Is to begin an hour early; here's what prompted the change",
+    "desc": "The two T20Is between India and Ireland will begin at around 6 pm IST (Indian Standard Time) instead of 7 pm, according to a report. The decision was taken in view of Indian women's cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-ireland-t20is-to-begin-an-hour-early-here-s-what-prompted-the-change-2026-06-25-1046101",
+    "time": "2026-06-25T09:04:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neymar joins Pele in elite list as Brazil thump Scotland in FIFA World Cup 2026",
+    "desc": "Neymar da Silva Santos Júnior, simply known as Neymar Junior among the fans, made his first appearance in the FIFA World Cup 2026, as he returned for Brazil's last Group A game against Scotland in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/neymar-joins-pele-in-elite-list-as-brazil-thump-scotland-in-fifa-world-cup-2026-2026-06-25-1046090",
+    "time": "2026-06-25T07:21:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "INDW vs BANW, T20 World Cup 2026: How can India qualify for semifinals?",
     "desc": "Harmanpreet Kaur-led Indian women's cricket team will play their fourth game of the T20 World Cup 2026 against Bangladesh at the Old Trafford in Manchester on Thursday, with an eye on strengthening their chances for...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/vini-jr-s-brace-help-brazil-finish-as-group-c-leaders-morocco-advances-after-dramatic-4-2-win-over-haiti-2026-06-25-1046047",
     "time": "2026-06-25T00:19:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are final FIFA World Cup group games being played simultaneously?",
-    "desc": "All the final-round matches of each group in the ongoing FIFA World Cup 2026 are being played simultaneously. The reason for its origin emerged after a controversial episode in the 1982 World Cup. In that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-are-final-fifa-world-cup-group-games-being-played-simultaneously-2026-06-25-1046046",
-    "time": "2026-06-24T23:07:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Raphinha not playing for Brazil vs Scotland in their FIFA World Cup 2026 clash?",
-    "desc": "Brazil are without their star winger Raphinha for their final Group C match against Scotland in the ongoing FIFA World Cup 2026. The Barcelona forward suffered a hamstring injury in the previous fixture against Haiti,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-raphinha-not-playing-for-brazil-vs-scotland-in-their-fifa-world-cup-2026-clash-2026-06-25-1046045",
-    "time": "2026-06-24T21:59:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil win 3-0, finish as league leaders; Morocco through too",
-    "desc": "Brazil meet Scotland in Miami with Group C qualification still hanging in the balance. While the names on paper suggest a mismatch, both teams arrive knowing the stakes sharpen the margins. Brazil have shown patches of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bra-vs-mor-fifa-world-cup-live-brazil-vs-morocco-live-score-tactical-analysis-minute-by-minute-commentary-highlights-1046044",
-    "time": "2026-06-24T21:40:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Switzerland, Canada qualify for FIFA World Cup round of 32, Bosnia's fate hangs in balance",
-    "desc": "Switzerland secured top spot in Group B with a composed 2-1 victory over Canada, while Bosnia and Herzegovina kept their knockout hopes alive by defeating Qatar 3-1 on a dramatic final matchday. Entering the afternoon level...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/switzerland-canada-qualify-for-fifa-world-cup-round-of-32-bosnia-s-fate-hangs-in-balance-2026-06-25-1046043",
-    "time": "2026-06-24T21:12:42.000Z"
   }
 ];
