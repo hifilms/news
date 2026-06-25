@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India drop four catches in five overs vs Bangladesh in T20 World Cup 2026's must-win clash",
+    "desc": "India had a nightmare start in the field during their must-win T20 World Cup 2026 clash against Bangladesh, putting down four catches in the first five overs alone. Juairiya Ferdous was given three lifelines as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-drop-four-catches-in-five-overs-vs-bangladesh-in-t20-world-cup-2026-s-must-win-clash-2026-06-25-1046152",
+    "time": "2026-06-25T14:13:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "INDW vs BANW, T20 World Cup 2026 Live Cricket Score: Bangladesh bat first in India's must-win game",
+    "desc": "The Indian women's cricket team, led by skipper Harmanpreet Kaur, will face Bangladesh in their fourth game at the ongoing T20I World Cup 2026. The match, which will start around 7 pm IST (Indian Standard...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-banw-t20-world-cup-2026-live-cricket-score-old-trafford-manchester-harmanpreet-kaur-nigar-sultana-india-bangladesh-game-live-blog-2026-06-25-1046121",
+    "time": "2026-06-25T12:30:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Setback for New Zealand as Matt Henry, Glenn Phillips ruled out of third test against England",
     "desc": "New Zealand on Thursday suffered a massive setback after pacer Matt Henry and batter Glenn Phillips were ruled out of the third test against England at the Trent Bridge in Nottingham due to injuries. The...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-south-africa-stun-south-korea-1-0-set-up-round-of-32-clash-with-canada-2026-06-25-1046060",
     "time": "2026-06-25T03:43:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Ball was far away': Furious WI captain slams third-umpire call after controversial dismissal vs Eng",
-    "desc": "The England's women cricket team on Wednesday sealed their spot in the semi-final of the 2026 T20 World Cup, defeating West Indies by a margin of 38 runs. However, their victory was marred by a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ball-was-far-away-furious-west-indies-captain-slams-third-umpire-call-after-controversial-dismissal-vs-england-2026-06-25-1046056",
-    "time": "2026-06-25T03:26:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vini Jr's brace help Brazil finish as Group C leaders, Morocco advances after dramatic 4-2 win over Haiti",
-    "desc": "Brazil secured first place in Group C with a convincing 3-0 victory over Scotland, while Morocco joined them in the knockout rounds after a resounding 4-2 win over Haiti. Scotland finished the group stage with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/vini-jr-s-brace-help-brazil-finish-as-group-c-leaders-morocco-advances-after-dramatic-4-2-win-over-haiti-2026-06-25-1046047",
-    "time": "2026-06-25T00:19:42.000Z"
   }
 ];

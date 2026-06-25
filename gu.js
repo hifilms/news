@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "કેન્દ્રીય કર્મચારીઓની લાગશે લોટરી! DA, HRA અને TAનું નવું ગણિત આવ્યું સામે, આ ફોર્મ્યુલા લાગુ થતાં જ 65% વધી જશે પગાર",
+    "desc": "8મા પગાર પંચને લઈને ચર્ચાઓ તેજ થઈ ગઈ છે. AINPSEFના અધ્યક્ષના જણાવ્યા અનુસાર, DA, HRA અને TAને સામેલ કરવામાં આવે તો ફિટમેન્ટ ફેક્ટર 2.05થી 2.10 સુધી પહોંચી શકે છે. જો આવું થશે, તો લેવલ-1 ના કર્મચારીની બેઝિક સેલરી 18,000 રૂપિયાથી વધીને 37,800 રૂપિયા સુધી પહોંચી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/central-employees-will-be-in-a-lottery-new-calculation-of-da-hra-and-ta-has-come-out-salary-will-increase-by-65-percent-%E2%80%8B%E2%80%8Bas-soon-as-this-formula-is-implemented-482659 ",
+    "time": "2026-06-25T14:23:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પાસપોર્ટ બનાવવો થયો મોંઘો, સરકારે ફીમાં કર્યો વધારો, 1 જુલાઈથી લાગુ થશે નવા રેટ",
+    "desc": "કેન્દ્ર સરકારે પાસપોર્ટ અને તેને લગતી સેવાઓની ફીમાં વધારો કર્યો છે, જેના કારણે લોકોને હવે પોસપોર્ટ બનાવવો મોંઘો પડશે. 1 જુલાઈ, 2026થી આ ભાવ વધારો લાગુ કરવામાં આવશે. આ ફી વધારો લાગુ થયા બાદ પાસપોર્ટ બનાવવા અને રિન્યુ કરાવવા માટે વધારે ચાર્જ ચૂકવવો પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/passport-fees-hiked-from-1st-july-check-new-rates-482657 ",
+    "time": "2026-06-25T14:21:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;મેં કેતનને બધું કહી દીધું હતું, છતાં તે...&amp;#039; સિયા ગોયલનો પોલીસ સમક્ષ ચોંકાવનારો ખુલાસો",
+    "desc": "કેતનની મંગેતર સિયાએ પોલીસ પૂછપરછ દરમિયાન ઘણા ચોંકાવનારા ખુલાસા કર્યા છે. તેણીએ જણાવ્યું કે કેતનને તેના અને ચેતન વિશે બધી ખબર હતી. મેં કેતનને લગ્ન કરવાની પણ ના પાડી હતી, પરંતુ કેતન લગ્ન રદ કરવા તૈયાર નહોતો અને તૈયારીઓ ચાલુ રાખી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-murder-case-siya-goyal-shocking-revelation-in-police-custody-482654 ",
+    "time": "2026-06-25T13:26:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ના બેંક ખુલશે કે ના માર્કેટ... આગામી ત્રણ દિવસ બધું બંધ! જાણો RBIએ કેમ આપી આટલી રજા",
+    "desc": "RBIના રજાના કેલેન્ડર મુજબ, ઘણા રાજ્યોમાં બેંકો 26 જૂનથી 28 જૂન સુધી સતત ત્રણ દિવસ બંધ રહેવાની છે. ખાસ કરીને, 26 જૂને મોહરમની રજાને કારણે બેંકો બંધ રહેશે. તો સ્ટોક માર્કેટ પણ સતત 3 દિવસ બંધ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bank-and-stock-market-holiday-bank-will-be-closed-next-3-days-482649 ",
+    "time": "2026-06-25T12:01:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ 3 ખેલાડીઓનું કરિયર ખતરામાં ? જો આયર્લેન્ડ-ઇંગ્લેન્ડ સામેની સિરીઝમાં ફેલ થયા તો ટીમ ઇન્ડિયામાંથી કપાશે પત્તુ !",
+    "desc": "સૂર્યકુમાર યાદવ હવે ભારતીય T20 ટીમમાં નથી, T20 વર્લ્ડ કપમાં ભારતીય ટીમનો કેપ્ટન હોવા છતાં તેને હવે ટીમમાંથી બહાર કરવામાં આવ્યો છે. તો હવે આ 3 ખેલાડીઓની મુશ્કેલી વધી શકે છે. જો ખેલાડીઓ આયર્લેન્ડ અને ઇંગ્લેન્ડ સામેની શ્રેણીમાં સારું પ્રદર્શન કરવામાં નિષ્ફળ જાય છે, તો તેમને પણ ટીમ ઇન્ડિયામાંથી બહાર કરવામાં આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shivam-dube-prasidh-krishna-washington-sundar-career-in-danger-can-dropped-team-india-482639 ",
+    "time": "2026-06-25T11:41:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "કોફી, વાતચીત અને ષડયંત્ર... હત્યાના એક દિવસ પહેલા કેફેમાં મળ્યા હતા સિયા અને ચેતન, Exclusive CCTV આવ્યા સામે",
     "desc": "કેતન અગ્રવાલ હત્યાકાંડની તપાસમાં એક નવા CCTV વીડિયો સામે આવ્યા છે. પોલીસના જણાવ્યા અનુસાર, હત્યાના એક દિવસ પહેલા સિયા ગોયલ અને ચેતન ચૌધરી પુણેના 'થર્ડ વેવ કેફે'માં મળ્યા હતા. પોલીસનું કહેવું છે કે, આ વીડિયો કેતનની હત્યાના એક દિવસ પહેલાનો છે. જેમાં જોઈ શકાય છે કે સિયા ગોયલ અને ચેતન ચૌધરી પુણેના એક કેફેમાં મળ્યા હતા.",
@@ -25,15 +70,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-case-update-sia-made-this-one-mistake-and-got-caught-482630 ",
     "time": "2026-06-25T11:21:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ 3 ખેલાડીઓનું કરિયર ખતરામાં ? જો આયર્લેન્ડ-ઇંગ્લેન્ડ સામેની સિરીઝમાં ફેલ થયા તો ટીમ ઇન્ડિયામાંથી કપાશે પત્તુ !",
-    "desc": "સૂર્યકુમાર યાદવ હવે ભારતીય T20 ટીમમાં નથી, T20 વર્લ્ડ કપમાં ભારતીય ટીમનો કેપ્ટન હોવા છતાં તેને હવે ટીમમાંથી બહાર કરવામાં આવ્યો છે. તો હવે આ 3 ખેલાડીઓની મુશ્કેલી વધી શકે છે. જો ખેલાડીઓ આયર્લેન્ડ અને ઇંગ્લેન્ડ સામેની શ્રેણીમાં સારું પ્રદર્શન કરવામાં નિષ્ફળ જાય છે, તો તેમને પણ ટીમ ઇન્ડિયામાંથી બહાર કરવામાં આવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shivam-dube-prasidh-krishna-washington-sundar-career-in-danger-can-dropped-team-india-482639 ",
-    "time": "2026-06-25T11:13:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +351,6 @@ const newsData_gu = [
     "time": "2026-06-24T06:41:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ખેતીને હવામાનનો ગંભીર ફટકો: ચોમાસાના વરસાદમાં 42%નો મોટો ઘટાડો; કેન્દ્ર સરકાર 315 જિલ્લાઓને બચાવવા કરી તૈયારી",
-    "desc": "ચોમાસાના શરૂઆતી તબક્કામાં દેશભરમાં સામાન્યથી 42 ટકા ોચો વરસાદ નોંધાયો છે, જેનાથી ખરીફ પાક (ખાસ કરીને ડાંગર, કઠોળ અને તેલીબિયાં) ની વાવણી પર ખરાબ અસર પડી રહી છે. સરકારે સંકટનો સામનો કરવા માટે બીજની વૈકલ્પિક જાત, સિંચાઈની વધારાની વ્યવસ્થા અને વીજળી-પાણીની સુચારૂ સપ્લાયની ખાતરી કરવા માટે દેશના 315 સૌથી વધુ પ્રભાવિત જિલ્લાઓ માટે એક વ્યાપક ઈમરજન્સી રણનીતિ તૈયાર કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/agriculture/monsoon-ruled-by-42-percentage-deficit-government-steps-up-contingency-plans-for-315-worst-hit-districts-482499 ",
-    "time": "2026-06-24T05:50:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "દિલ્હી કેપિટલના આ ખેલાડી પર યુવતીનો અત્યંત ગંભીર આરોપ, લગ્નની લાલચ આપી સંબંધ બનાવ્યો",
     "desc": "ભારતીય ક્રિકેટમાં વળી પાછો ભૂકંપ આવી ગયો છે. એક ભારતીય ક્રિકેટ પર યુવતીએ ગંભીર આરોપ લગાવ્યા છે. અત્રે જણાવવાનું કે થોડા સમય પહેલા આરસીબીના ખેલાડી યશ દયાલ ઉપર પણ આવા કઈક ગંભીર આરોપ લાગ્યા હતા. જેની તેની કરિયર ઉપર પણ અસર જોવા મળી હતી.",
@@ -349,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/padma-awards-2026-list-131-award-given-to-various-field-personalities-including-actors-482481 ",
     "time": "2026-06-24T02:39:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હવે દિવસે નહીં, Gen Z અને મિલેનિયલ્સમાં વધી રહ્યો છે રાત્રે ફરવાનો ટ્રેન્ડ; ભારતના આ સ્થળો બની રહ્યા છે ફેવરિટ ડેસ્ટિનેશન",
-    "desc": "આજના સમયમાં Gen Z અને મિલેનિયલ્સનો ફરવાનો અંદાજ પણ બદલાઈ રહ્યો છે. લોકો હવે માત્ર દિવસના સમયે પ્રખ્યાત સ્થળો જોવા નથી જતા, પરંતુ રાત્રિના પ્રકાશ, શાંત વાતાવરણ, નાઈટ માર્કેટ, ફૂડ સ્ટ્રીટ અને તારાઓથી ભરેલા આકાશ વચ્ચે નવા અનુભવો શોધી રહ્યા છે. ભારતમાં પણ નાઈટ ટૂરિઝમ ઝડપથી લોકપ્રિય થઈ રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/now-the-trend-of-going-out-at-night-is-increasing-among-gen-z-and-millennials-not-during-the-day-these-places-in-india-are-becoming-favorite-destinations-482467 ",
-    "time": "2026-06-23T17:46:49.000Z"
   },
   {
     "cat": "Business",
@@ -448,24 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/big-news-keir-starmer-announces-resignation-as-pm-of-uk-leader-of-labour-party-482301 ",
     "time": "2026-06-22T10:28:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આજે ભાવમાં તોતિંગ વધારો, સોના-ચાંદીના ભાવ હવે વધશે કે ઘટશે? રિપોર્ટે આપ્યો મોટો ઝટકો",
-    "desc": "નવા અઠવાડિયાના પહેલા જ દિવસે આજે સોના અને ચાંદીમાં મોટો વધારો નોંધાયો છે. વાયદા બજારમાં અને રિટેલ બજારમાં ભાવ ચડ્યા છે. બજારમાં આ તેજી રોકાણકારોની વધતી ખરીદી અને વૈશ્વિક પરિસ્થિતિઓને પગલે જોવા મળી છે. આ ઉપરાંત બેંક ઓફ અમેરિકાના સર્વેમાં સોના-ચાંદીના ભાવ પર શું જણાવવામાં આવ્યું છે એ પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/today-sharp-increase-in-gold-silver-price-check-ibja-mcx-rates-aaj-no-sona-chandi-no-bhav-482300 ",
-    "time": "2026-06-22T08:50:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ અઠવાડિયામાં 3 દિવસ બેંક રહેશે બંધ, પહેલા જ પુરા કરી લો તમારા મહત્વપૂર્ણ કામ",
-    "desc": "જો તમારે બેંકમાં જઈને કોઈ જરૂરી કામ કરવાનું છે, તો તેને 25 જુન સુધી પુરૂ કરી લો, ખાસ કરીને ચેક જમા કરવો, ડિમાંડ ડ્રાફ્ટ બનાવરાવવાનો, રોકડ ઉપાડવાની અથવા કોઈ દસ્તાવેજ સાથે જોડાયેલું કામ પહેલા પુરૂ કરી લેવું જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/banks-will-be-closed-for-3-days-this-week-complete-your-important-work-first-482298 ",
-    "time": "2026-06-22T07:53:31.000Z"
   },
   {
     "cat": "World",
