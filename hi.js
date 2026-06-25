@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vini Jr's brace help Brazil finish as Group C leaders, Morocco advances after dramatic 4-2 win over Haiti",
+    "desc": "Brazil secured first place in Group C with a convincing 3-0 victory over Scotland, while Morocco joined them in the knockout rounds after a resounding 4-2 win over Haiti. Scotland finished the group stage with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/vini-jr-s-brace-help-brazil-finish-as-group-c-leaders-morocco-advances-after-dramatic-4-2-win-over-haiti-2026-06-25-1046047",
+    "time": "2026-06-25T00:19:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are final FIFA World Cup group games being played simultaneously?",
+    "desc": "All the final-round matches of each group in the ongoing FIFA World Cup 2026 are being played simultaneously. The reason for its origin emerged after a controversial episode in the 1982 World Cup. In that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-are-final-fifa-world-cup-group-games-being-played-simultaneously-2026-06-25-1046046",
+    "time": "2026-06-24T23:07:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Raphinha not playing for Brazil vs Scotland in their FIFA World Cup 2026 clash?",
     "desc": "Brazil are without their star winger Raphinha for their final Group C match against Scotland in the ongoing FIFA World Cup 2026. The Barcelona forward suffered a hamstring injury in the previous fixture against Haiti,...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Live action begins as qualification remains at stake",
+    "title": "Brazil win 3-0, finish as league leaders; Morocco through too",
     "desc": "Brazil meet Scotland in Miami with Group C qualification still hanging in the balance. While the names on paper suggest a mismatch, both teams arrive knowing the stakes sharpen the margins. Brazil have shown patches of...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-s-strike-rate-is-concerning-in-t20-world-cup-analyses-former-india-cricketer-2026-06-24-1046026",
     "time": "2026-06-24T16:06:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will India's fates for Olympics 2036 be known? IOC makes latest move for timeline",
-    "desc": "India's ambitions for hosting the Olympics 2036 will not be known before mid-2029, after the International Olympic Committee (IOC) approved the addition of a Strategic Dialogue phase in the host selection process for \"greater transparency...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/when-will-india-s-fates-for-olympics-2036-be-known-ioc-makes-latest-move-for-timeline-2026-06-24-1046021",
-    "time": "2026-06-24T15:10:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Neymar play against Scotland in FIFA World Cup 2026? Coach breaks silence",
-    "desc": "Neymar could finally return when Brazil take on Scotland for their final league stage match of the FIFA World Cup 2026 on Thursday, June 24 (as per IST), coach Carlo Ancelotti highlighted. Neymar's availability has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/will-neymar-play-against-scotland-in-fifa-world-cup-2026-coach-breaks-silence-2026-06-24-1046008",
-    "time": "2026-06-24T14:00:41.000Z"
   }
 ];
