@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "દેશના ખુફિયા તંત્રમાં મોટો બદલાવ, તેલંગાણા કેડરના મહેશ દીક્ષિત બન્યા નવા IB ચીફ; તપન ડેકાનું લેશે સ્થાન",
+    "desc": "દેશના ખુફિયા તંત્રમાં મોટો બદલાવ કરવામાં આવ્યો છે. તેલંગાણા કેડરના આઈપીએસ (IPS) અધિકારી મહેશ દીક્ષિતને નવા આઈબી (IB) ચીફ બનાવવામાં આવ્યા છે. તેઓ વર્તમાન ચીફ તપન ડેકાનું સ્થાન લેશે, જેમનો કાર્યકાળ પૂરો થઈ ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-change-in-the-country-intelligence-system-mahesh-dixit-of-telangana-cadre-becomes-the-new-ib-chief-will-replace-tapan-deka-482690 ",
+    "time": "2026-06-25T18:05:58.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "રામ મંદિરમાં ચઢાવા ચોરી મામલે મોટા સમાચાર, 8 લોકો સામે FIR દાખલ, SIT તપાસ બાદ કાર્યવાહી",
     "desc": "અયોધ્યા રામ મંદિરમાં ચઢાવા ચોરી મામલે FIR નોંધવામાં આવી છે. શ્રી રામ જન્મભૂમિ તીર્થ ક્ષેત્ર ટ્રસ્ટની ફરિયાદ અને SITની ભલામણ બાદ FIR દાખલ કરવામાં આવી છે. પ્રાથમિક તપાસ દરમિયાન બહાર આવેલા તથ્યોના આધારે આ પગલું લેવામાં આવ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -313,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/kim-jong-uns-terrifying-warning-caused-a-stir-in-america-the-most-dangerous-weapon-was-launched-into-the-sea-482529 ",
     "time": "2026-06-24T09:36:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જો એ સંકેતો વહેલા સમજી શક્યા હોત... કેતનની હત્યા પહેલાંની એ ભયાનક કહાની",
-    "desc": "પુણેના ઉદ્યોગપતિ કેતન અગ્રવાલની હત્યા કેસમાં એક મોટો ખુલાસો થયો છે. કેતનને તેની મંગેતર સિયા ગોયલના ફોનના વ્યસન અને તેના બોયફ્રેન્ડ ચેતનના ઉલ્લેખ પર શંકા હતી. તેના પિતાએ કયા અદ્રશ્ય સંકેતો શોધી કાઢ્યા તે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/dad-did-you-check-sia-background-ketan-had-suspicions-before-the-murder-he-had-found-many-clues-482526 ",
-    "time": "2026-06-24T09:34:09.000Z"
   },
   {
     "cat": "Tech",

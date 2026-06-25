@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Germany look to finish as league leaders, Ecuador need win to remain alive",
+    "desc": "Germany will take on Ecuador in their final Group E match of the FIFA World Cup 2026 in the early hours of Thursday, with the two sides entering the contest with contrasting objectives. Germany have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bra-vs-sco-fifa-world-cup-live-brazil-vs-scotland-live-score-tactical-analysis-minute-by-minute-commentary-highlights-1046178",
+    "time": "2026-06-25T19:36:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Vaibhav Sooryavanshi make his India debut vs Ireland? Batting coach Sitanshu Kotak drops hint",
+    "desc": "The Indian team management hasn’t quite decided whether to include Vaibhav Sooryavanshi in the playing XI for the first T20I against Ireland. Batting coach Sitanshu Kotak made it clear that the team management will not...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-vaibhav-sooryavanshi-make-his-india-debut-vs-ireland-batting-coach-sitanshu-kotak-drops-hint-2026-06-26-1046177",
+    "time": "2026-06-25T19:21:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Devon Conway, Tom Latham dominate England with 317-run partnership on Day 1 of third Test",
+    "desc": "Tom Latham and Devon Conway stole the show on the opening day of the third Test between England and New Zealand at Trent Bridge. The openers stitched a partnership of 317 runs, putting New Zealand...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devon-conway-tom-latham-dominate-england-with-317-run-partnership-on-day-1-of-third-test-2026-06-26-1046175",
+    "time": "2026-06-25T18:34:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shafali, Radha headline India's five-wicket win over Bangladesh in T20 World Cup, can qualify for semis?",
     "desc": "India beat Bangladesh by five wickets in their fourth group stage game in the ongoing T20 World Cup 2026 at the iconic Old Trafford in Manchester. The chase of 137 was completed with relative comfort...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/setback-for-new-zealand-as-matt-henry-glenn-phillips-ruled-out-of-third-test-against-england-2026-06-25-1046112",
     "time": "2026-06-25T10:26:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sai Sudharsan keeps his case for Test No.3 after solid hundred against Sri Lanka A",
-    "desc": "Sai Sudharsan on Thursday answered his critics and once again kept his case for the number three position in India's test team after scoring a solid hundred for India A against Sri Lanka A in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-keeps-his-case-for-test-no-3-after-solid-hundred-against-sri-lanka-a-2026-06-25-1046107",
-    "time": "2026-06-25T10:00:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Ireland T20Is to begin an hour early; here's what prompted the change",
-    "desc": "The two T20Is between India and Ireland will begin at around 6 pm IST (Indian Standard Time) instead of 7 pm, according to a report. The decision was taken in view of Indian women's cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-ireland-t20is-to-begin-an-hour-early-here-s-what-prompted-the-change-2026-06-25-1046101",
-    "time": "2026-06-25T09:04:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neymar joins Pele in elite list as Brazil thump Scotland in FIFA World Cup 2026",
-    "desc": "Neymar da Silva Santos Júnior, simply known as Neymar Junior among the fans, made his first appearance in the FIFA World Cup 2026, as he returned for Brazil's last Group A game against Scotland in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/neymar-joins-pele-in-elite-list-as-brazil-thump-scotland-in-fifa-world-cup-2026-2026-06-25-1046090",
-    "time": "2026-06-25T07:21:14.000Z"
   }
 ];
