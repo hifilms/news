@@ -1,7 +1,7 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Germany look to finish as league leaders, Ecuador need win to remain alive",
+    "title": "Ecuador pull off a heist, beat Germany 2-1 in New York",
     "desc": "Germany will take on Ecuador in their final Group E match of the FIFA World Cup 2026 in the early hours of Thursday, with the two sides entering the contest with contrasting objectives. Germany have...",
     "img": "",
     "src": "indiatvnews.com",

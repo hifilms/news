@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Lionel Richie HOSPITALISED after falling ill onstage",
+    "desc": "Music legend Lionel Richie was compelled to halt the inaugural show of his North American tour in St. Paul after falling ill onstage. The 77-year-old singer, visibly struggling and taking several breaks, was eventually transported to a local hospital. His saxophonist later informed the audience that the concert could not continue due to Richie's indisposition, leaving the future of upcoming dates uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-132003262,imgsize-73782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lionel-richie-hospitalised-after-falling-ill-onstage-singer-cuts-short-opening-night-of-tour-watch/articleshow/132003072.cms",
+    "time": "2026-06-25T21:57:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J.P. Nadda",
+    "desc": "He made the statement in Patna during the Samvidhan Hatya Diwas (Constitution Murder Day) programme organised by Bihar unit of the BJP, on the 51st anniversary of the ‘Emergency’ declared by Indira Gandhi in 1975",
+    "img": "https://th-i.thgim.com/public/incoming/x09nac/article71147525.ece/alternates/LANDSCAPE_1200/20260625288L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rahul-gandhi-should-apologise-for-emergency-jp-nadda/article71146419.ece",
+    "time": "2026-06-25T21:55:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked",
+    "desc": "The head of the International Maritime Organization said the plan to move stranded ships out of the Persian Gulf through the strait will be on hold until the agency can confirm safety guarantees for the ships on the evacuation listt",
+    "img": "https://th-i.thgim.com/public/incoming/8znmjp/article71147822.ece/alternates/LANDSCAPE_1200/2026-06-24T102941Z_1966937314_RC210LA29CE4_RTRMADP_3_IRAN-CRISIS-SHIPPING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/un-agency-says-it-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked/article71147725.ece",
+    "time": "2026-06-25T21:15:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI conducts searches at over 80 locations across India",
+    "desc": "The arrested accused were involved in the incorporation of shell companies and the opening and operation of mule bank accounts. These accounts were reportedly used for laundering about ₹2 crore of suspected proceeds of crime.",
+    "img": "https://th-i.thgim.com/public/incoming/pb8nq1/article71145003.ece/alternates/LANDSCAPE_1200/2025-06-05T012402Z_162674780_RC20WEAN6WFL_RTRMADP_3_CHINA-TAIWAN-CYBERATTACK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/digital-arrest-scams-cbi-conducts-searches-at-over-80-locations-across-india/article71144963.ece",
+    "time": "2026-06-25T20:49:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three States have arrived at ‘historic consensus’, says D.K. Shivakumar as new gates of Tungabhadra dam are inaugurated",
+    "desc": "Shivakumar said Karnataka, Andhra Pradesh and Telangana discussed key concerns raised by farmers, including the proposed Navali balancing reservoir, and the need to remove accumulated silt from the reservoir to improve water conservation and storage",
+    "img": "https://th-i.thgim.com/public/incoming/rsj4li/article71145524.ece/alternates/LANDSCAPE_1200/10258_25_6_2026_13_24_1_5_TUNGABHADRA_CREST_GATES_5.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/new-gates-of-tungabhadra-dam-inaugurated-three-states-vow-to-protect-interests-of-farmers/article71145474.ece",
+    "time": "2026-06-25T20:48:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Esha says she is ‘currently missing’ love, credits Hema-Dharmendra",
+    "desc": "Esha Deol has admitted that love and romance are something she is “currently missing” in her life, while revealing that her belief in relationships remains firmly rooted in the example set by her parents, veteran stars Hema Malini and Dharmendra. When asked whether her idea of love had changed over the years, especially after breakups and the end of her marriage to Bharat Takhtani, Esha said it had not.",
+    "img": "https://static.toiimg.com/photo/msid-132003014,imgsize-103460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/esha-deol-says-she-is-currently-missing-love-credits-hema-malini-and-dharmendra-for-shaping-her-idea-of-romance-hes-in-my-heart/articleshow/132002984.cms",
+    "time": "2026-06-25T20:22:14.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Elephant chasers of Chalakudy are on constant vigil to avoid a ‘conflict’",
     "desc": "In the Athirappilly forest area, teams of forest officials are constantly on the vigil, chasing away wild elephants that venture close to human habitations. An attempt to see firsthand how they operate in batches round the clock to avert human-wild elephant conflicts",
@@ -7,6 +61,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/elephant-chasers-of-chalakudy-are-on-constant-vigil-to-avoid-a-conflict/article71145803.ece",
     "time": "2026-06-25T19:35:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India grapple with Sooryavanshi inclusion; focus on Samson, Kishan, Abhishek vs Ireland",
+    "desc": "There is heightened interest surrounding Sooryavanshi's possible international debut after the 15-year-old's stunning run in the IPL and a marauding 29-ball 94 for India A against Sri Lanka A in a tri-series one-day match at Dambulla",
+    "img": "https://th-i.thgim.com/public/incoming/n7jwm0/article71147798.ece/alternates/LANDSCAPE_1200/PTI06_21_2026_000625B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-grapple-with-sooryavanshi-inclusion-focus-on-samson-kishan-abhishek-vs-ireland/article71147709.ece",
+    "time": "2026-06-25T19:25:33.000Z"
   },
   {
     "cat": "Politics",
@@ -25,6 +88,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-celebrates-34-years-of-deewana-in-childhood-city-mangalore-dances-to-jhoome-jo-pathaan-and-greets-fans-in-kannada/articleshow/132002650.cms",
     "time": "2026-06-25T19:23:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Verstappen seeking home boost with Red Bull upgrades",
+    "desc": "Verstappen won the Austrian race in 2018, 2019, 2021 and 2023 and also triumphed in the 2021 Styrian Grand Prix, held at the Red Bull Ring track, during the pandemic. No other driver has more than one Austrian win",
+    "img": "https://th-i.thgim.com/public/incoming/uqpqci/article71147774.ece/alternates/LANDSCAPE_1200/2026-06-25T105858Z_840008726_UP1EM6P0UI9QB_RTRMADP_3_MOTOR-F1-AUSTRIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/motorsport/verstappen-seeking-home-boost-with-red-bull-upgrades/article71147713.ece",
+    "time": "2026-06-25T19:05:05.000Z"
   },
   {
     "cat": "Politics",
@@ -108,15 +180,6 @@ const newsData_en = [
     "time": "2026-06-25T17:38:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India’s ‘eye in the sky’ Netra AEW&C system gets Final Operational Clearance",
-    "desc": "Indigenous system has already proved its worth during Balakot strikes and Operation Sindoor; scientists and IAF officers dedicate Netra clearance to colleagues killed in 1999 tragic air crash; ‘today, we have shown that their sacrifice has not gone in vain’, says DRDO Aeronautics Cluster chief",
-    "img": "https://th-i.thgim.com/public/incoming/x782tq/article71147608.ece/alternates/LANDSCAPE_1200/_DSC7234.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indias-eye-in-the-sky-netra-aewc-system-gets-final-operational-clearance/article71146281.ece",
-    "time": "2026-06-25T17:34:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Qatar's Assim Madibo banned for five games over leg-break tackle",
     "desc": "FIFA has issued a five-match suspension to Qatar's Assim Madibo following a dangerous tackle that caused a severe injury to Canada's Ismael Kone in a World Cup match. This shocking incident overshadowed Canada's landmark victory, and while the ban is harsh, it is lighter than the infamous nine-match suspension given to Luis Suárez in the past. Canada's challenge grows as they prepare to compete without their important midfielder.",
@@ -124,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-qatars-assim-madibo-banned-for-five-games-over-leg-break-tackle/articleshow/131999497.cms",
     "time": "2026-06-25T17:22:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kuki-Zo Council admits six Nagas were killed by Kukis",
-    "desc": "This is the first known public expression of regret by any Kuki leader or group over the killings; KZC chairman terms it a “great mistake”, says the Naga civilians were killed during an outburst of emotion",
-    "img": "https://th-i.thgim.com/public/incoming/sop6r0/article71147591.ece/alternates/LANDSCAPE_1200/PTI06_11_2026_000025B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/kuki-zo-council-admits-six-nagas-were-killed-by-kukis/article71147506.ece",
-    "time": "2026-06-25T17:15:02.000Z"
   },
   {
     "cat": "Sports",
@@ -162,24 +216,6 @@ const newsData_en = [
     "time": "2026-06-25T16:50:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tirupati police detain intruder for threatening staff, students",
-    "desc": "The incident happened at Sri Vijetha school in city’s Akkarampalli locality, where from Badvel town in Kadapa district, now living in Mysuru, reportedly entered the premises in the pretext of enquiring details about admission and fee structure",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirupati-police-detain-intruder-after-panic-erupts-at-school/article71146588.ece",
-    "time": "2026-06-25T16:49:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Soon, transit air travellers can skip immigration at connecting airports",
-    "desc": "Civil Aviation Minister K. Rammohan Naidu launches a facility for transit passengers to complete immigration formalities at their origin airport. Now introduced at Varanasi airport, the facility will be available in six more airports in six weeks, he says",
-    "img": "https://th-i.thgim.com/public/incoming/41yqrd/article71147539.ece/alternates/LANDSCAPE_1200/PTI06_25_2026_000147B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/soon-transit-air-travellers-can-skip-immigration-at-connecting-airports/article71147050.ece",
-    "time": "2026-06-25T16:49:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "R Madhavan on receiving Padma Shri and Dhurandhar success",
     "desc": "Actor-filmmaker R Madhavan says receiving the Padma Shri has added a new sense of responsibility to his career, even as he basks in the success of Dhurandhar, one of the most talked-about films of the year. In a recent conversation, the actor reflected on the significance of being honoured with the prestigious civilian award and how it has changed his outlook towards his work.",
@@ -196,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/none-of-our-mps-will-split-sharad-pawars-bold-assertion-in-season-of-defections/articleshow/131998174.cms",
     "time": "2026-06-25T16:37:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "High drama outside Thiruvananthapuram Mayor’s office as LDF, BJP councillors clash",
-    "desc": "As Mayor V.V. Rajesh and a group of BJP councillors attempt to enter his office amid a sit-in by the LDF over the secrecy of the re-swearing-in of 19 BJP councillors, a scuffle breaks out between the two sides",
-    "img": "https://th-i.thgim.com/public/incoming/4ld587/article71147466.ece/alternates/LANDSCAPE_1200/PTI06_25_2026_000480B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/din-outside-thiruvananthapuram-mayors-office-as-ldf-bjp-councillors-clash/article71146714.ece",
-    "time": "2026-06-25T16:37:02.000Z"
   },
   {
     "cat": "Business",
@@ -504,22 +531,13 @@ const newsData_en = [
     "time": "2026-06-25T11:51:57.000Z"
   },
   {
-    "cat": "Business",
+    "cat": "Tech",
     "title": "Amazon CEO Andy Jassy meets PM Modi; announces plans to invest additional $13 billion in India on cloud, AI",
     "desc": "The company plans to launch more than 20 new fulfillment centers and over 100 new last mile delivery stations this year, bringing faster and reliable deliveries to customers nationwide, especially in tier 3 and 4 cities.",
     "img": "https://th-i.thgim.com/public/incoming/q16ebs/article71145563.ece/alternates/LANDSCAPE_1200/HLpQC_wbEAAqvTK.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-meets-pm-modi-investments-2030-india-ai-cloud/article71145559.ece",
     "time": "2026-06-25T11:51:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samantha’s relationship advice compared with Sobhita's earlier remark",
-    "desc": "Samantha Ruth Prabhu's recent comments on relationships at a film event have ignited a social media debate, drawing comparisons to Sobhita Dhulipala's earlier remarks. Samantha emphasized self-confidence and equal participation, stating women should feel complete on their own. She cautioned against expecting a partner to fill a void, highlighting the pressure it creates. The discussion centers on differing perspectives on love and personal fulfillment.",
-    "img": "https://static.toiimg.com/photo/msid-131992905,imgsize-124426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhus-take-on-relationships-sparks-debate-fans-compare-her-words-with-sobhita-dhulipalas-remark/articleshow/131992861.cms",
-    "time": "2026-06-25T11:50:11.000Z"
   },
   {
     "cat": "World",
@@ -529,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/health/congos-ebola-outbreak-has-most-cases-in-first-month-of-any-african-outbreak-who-says/article71138029.ece",
     "time": "2026-06-25T11:37:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'She can kill me anytime'",
-    "desc": "Akshay Kumar revealed his wife Twinkle Khanna is his harshest critic, describing her opinions as \"brutal.\" He shared a rare moment of joy when Twinkle praised a trailer, a compliment he cherishes due to its infrequency. Despite box office success, Twinkle remains candid about his performances, a dynamic that defines their honest and humorous relationship.",
-    "img": "https://static.toiimg.com/photo/msid-131992558,imgsize-332134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-says-wife-twinke-khanna-is-his-harshest-critic-she-can-kill-me-anytime-you-cant-say-anything/articleshow/131992130.cms",
-    "time": "2026-06-25T11:36:54.000Z"
   },
   {
     "cat": "Sports",
@@ -556,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/welcome-to-the-jungle-day-1-box-office-prediction-the-multi-starrer-headlined-by-akshay-kumar-suniel-shetty-paresh-rawal-and-others-expected-to-open-at-rs-10-12-crore/articleshow/131991214.cms",
     "time": "2026-06-25T11:16:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jaipur woman arrested for alleged Jaish links planned to marry Masood Azhar aide, say officials",
-    "desc": "A Jaipur woman, Babita Dhakad alias 'Khadija', was apprehended planning a trip to Pakistan to marry a close associate of Jaish-e-Mohammed chief Masood Azhar. Officials revealed she intended to enter Pakistan via Nepal, having been under militaey surveillance for several weeks. According to investigator, her electronic devices showed contact with multiple Pakistani numbers, including those linked to terror operatives.",
-    "img": "https://static.toiimg.com/photo/msid-131992036,imgsize-62445.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jaipur-woman-arrested-for-alleged-jaish-links-wanted-to-marry-masood-azhar-associate/articleshow/131991182.cms",
-    "time": "2026-06-25T11:05:21.000Z"
   },
   {
     "cat": "World",
@@ -711,24 +711,6 @@ const newsData_en = [
     "time": "2026-06-25T04:19:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stock recommendations for June 25, 2026",
-    "desc": "Olectra Greentech, GAIL, and Hindustan Aeronautics Ltd (HAL) have been picked as the top 3 stocks to buy today on June 25, 2026 by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management.",
-    "img": "https://static.toiimg.com/photo/msid-131980417,imgsize-619853.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-june-25-2026-olectra-greentech-gail-hindustan-aeronautics-ltd-hal-best-stocks-to-buy-today/articleshow/131980381.cms",
-    "time": "2026-06-25T02:44:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude slips toward $70 as tankers return to Hormuz after US-Iran reach peace deal",
-    "desc": "Crude oil prices have plummeted towards pre-war levels as tanker traffic through the Strait of Hormuz resumes, alleviating supply worries. Following a surge past $126, oil is now hovering around $70. Improved shipping and potential Iranian exports have eased fears of disruptions, leading to a significant price drop. Traders are now anticipating a surplus as physical crude trades at discounts.",
-    "img": "https://static.toiimg.com/photo/msid-131980121,imgsize-272872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/crude-slips-toward-70-as-tankers-return-to-hormuz-after-us-iran-reach-peace-deal-oil-price-on-june-25/articleshow/131980091.cms",
-    "time": "2026-06-25T01:44:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "FIFA World Cup",
     "desc": "Scotland, who disappointed their Tartan Army ​with a timid and error-prone display in the ⁠first half, will now hope ⁠to advance as one of the eight third-placed ‌teams with the best records over the 12 groups",
@@ -810,15 +792,6 @@ const newsData_en = [
     "time": "2026-06-24T14:16:10.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. Senate passes bipartisan housing bill aimed at increasing supply, lowering prices",
-    "desc": "The bill, which passed 85-5 and now heads to the House, has been the focus of intense negotiations in recent weeks as lawmakers in both parties try to address housing costs in an election year",
-    "img": "https://th-i.thgim.com/public/incoming/kv6wlg/article71135121.ece/alternates/LANDSCAPE_1200/2025-06-29T111215Z_1212138031_RC2BCFAXNFB4_RTRMADP_3_USA-CONGRESS-TAX.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-senate-passes-bipartisan-housing-bill-aimed-at-increasing-supply-lowering-prices/article71135117.ece",
-    "time": "2026-06-24T13:25:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Group stage goals record broken",
     "desc": "A total of 141 goals have been scored so far in the first 48 games of this season; with an extended World Cup this year and 24 more group stage matches remaining, the final tally of group stage goals is far from done.",
@@ -873,15 +846,6 @@ const newsData_en = [
     "time": "2026-06-23T18:08:10.000Z"
   },
   {
-    "cat": "Business",
-    "title": "76% health insurance reimbursement claimants face immediate financial burden: report",
-    "desc": "Ability to manage costs only with liquid savings dropped from 32% to 24% in 2024-25 while financial stress faced by insurance holders at the time of raising claims has gone up across all tiers of cities between 2023 and 2025, says consumer insights report by online marketplace Policybazaar",
-    "img": "https://th-i.thgim.com/public/incoming/crupvu/article71137725.ece/alternates/LANDSCAPE_1200/PO21_Health_insurance.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/76-health-insurance-reimbursement-claimants-face-financial-burden-upfront-report/article71137393.ece",
-    "time": "2026-06-23T15:15:46.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Meta’s $900 million investment in Cred and hiring of Kunal Shah as WhatsApp chief",
     "desc": "The hiring accomplishes the dual aim of investing into a business focused on the few million Indians with a credit card, and getting a leader for WhatsApp at a time it is pushing to leverage the multi-billion user base Meta has been able to amass.",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
     "time": "2026-06-23T07:14:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Can music help you relax? India’s wellness labels think so",
+    "desc": "As mental health discussions rise, music’s therapeutic potential is in question again, exploring its calming effects. The increasing popularity of wellness music festivals further underscores a collective yearning for deeper, transformative experiences in today’s fast-paced world",
+    "img": "https://th-i.thgim.com/public/incoming/nkqolz/article71120732.ece/alternates/LANDSCAPE_1200/03mp_music_therapy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/wellness-music-growing-in-india-chad-lawson-rishab-sharma/article70211249.ece",
+    "time": "2026-06-23T04:51:02.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AI is helping patients understand cancer but misunderstand doctors",
+    "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/1qs3pd/article71100260.ece/alternates/LANDSCAPE_1200/angiola-harry-SJCalEw-1LM-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
+    "time": "2026-06-21T10:16:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
