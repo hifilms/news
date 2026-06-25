@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "રામ મંદિરમાં ચઢાવા ચોરી મામલે મોટા સમાચાર, 8 લોકો સામે FIR દાખલ, SIT તપાસ બાદ કાર્યવાહી",
+    "desc": "અયોધ્યા રામ મંદિરમાં ચઢાવા ચોરી મામલે FIR નોંધવામાં આવી છે. શ્રી રામ જન્મભૂમિ તીર્થ ક્ષેત્ર ટ્રસ્ટની ફરિયાદ અને SITની ભલામણ બાદ FIR દાખલ કરવામાં આવી છે. પ્રાથમિક તપાસ દરમિયાન બહાર આવેલા તથ્યોના આધારે આ પગલું લેવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/fir-registered-in-ram-mandir-donation-theft-case-after-sit-investigation-482669 ",
+    "time": "2026-06-25T16:23:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેતન હત્યાકાંડમાં ખૂલવા લાગ્યા &amp;#039;ગુપ્ત&amp;#039; રહસ્યો, ચેતન-સિયા એકબીજા પર લગાવી રહ્યા છે હત્યાનો આરોપ; હવે ઉતરવા લાગ્યું મોહબ્બતનું ભૂત!",
+    "desc": "પુણેના કેતન અગ્રવાલ હત્યાકાંડ મામલે તપાસ ચાલી રહી છે. આ દરમિયાન એક નવો ખુલાસો થયો છે. મામલાની તપાસ કરી રહેલી પોલીસે જેવા જ ચેતન અને સિયાને આમને-સામને લાવ્યા, ત્યારે બન્નેએ એકબીજા પર હત્યાના આરોપ લગાવવાનું શરૂ કરી દીધું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/secret-secrets-start-to-emerge-in-ketan-murder-case-chetan-siya-are-accusing-each-other-of-murder-482668 ",
+    "time": "2026-06-25T15:40:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રેયસ ઐયરના ઇન્સ્ટાગ્રામ બાયોમાં રહસ્યમય તારીખ, જાણો શું છે &amp;#039;Second DOB&amp;#039;નો અર્થ",
+    "desc": "સૂર્યકુમાર યાદવના સ્થાને શ્રેયસ ઐયરને ભારતની T20 ટીમનો કેપ્ટન બનાવાયો છે. તે 26 જૂને આયર્લેન્ડ સામેની T20 મેચથી પોતાનr કેપ્ટનશીપનો કાર્યકાળ શરૂ કરવા માટે તૈયાર છે. આ પહેલા તેણે તેના ઇન્સ્ટાગ્રામ બાયોમાં એક રહસ્યમય તારીખ એડ કરી છે, જેની આગળ લખ્યું 'Second DOB' છે, ત્યારે આનો અર્થ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shreyas-iyer-instagram-bio-mystery-date-know-what-second-dob-means-482661 ",
+    "time": "2026-06-25T14:59:03.000Z"
+  },
+  {
     "cat": "Business",
     "title": "કેન્દ્રીય કર્મચારીઓની લાગશે લોટરી! DA, HRA અને TAનું નવું ગણિત આવ્યું સામે, આ ફોર્મ્યુલા લાગુ થતાં જ 65% વધી જશે પગાર",
     "desc": "8મા પગાર પંચને લઈને ચર્ચાઓ તેજ થઈ ગઈ છે. AINPSEFના અધ્યક્ષના જણાવ્યા અનુસાર, DA, HRA અને TAને સામેલ કરવામાં આવે તો ફિટમેન્ટ ફેક્ટર 2.05થી 2.10 સુધી પહોંચી શકે છે. જો આવું થશે, તો લેવલ-1 ના કર્મચારીની બેઝિક સેલરી 18,000 રૂપિયાથી વધીને 37,800 રૂપિયા સુધી પહોંચી શકે છે.",
@@ -313,24 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tmkoc-fame-bagha-aka-tanmay-vekaria-father-arvind-vekaria-passes-away-482521 ",
     "time": "2026-06-24T08:34:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "33°C માં ગરમ હૂડી, સાપ વિશે નકલી નાટક, ગુમ થયેલો પાસપોર્ટ... સિયા અને ચેતનની પાંચ ભૂલો જેણે કેતન હત્યા કેસનો ભેદ ઉકેલ્યો",
-    "desc": "પુણેના હાઈપ્રોફાઈલ કેતન અગ્રવાલ હત્યાકાંડમાં પોલીસે મંગેતર સિયા અને તેના પ્રેમી ચેતનની ધરપકડ કરી છે. 33 ડિગ્રી ગરમીમાં આરોપીએ હૂડી પહેરી, સાપ દેખાવાનું કહી ધક્કો મારવાનું નાટક અને 238 કલાકના કોલ રેકોર્ડિંગે આ ખતરનાક ષડયંત્રનો પર્દાફાશ કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pune-high-profile-murder-case-how-5-blunders-and-238-hours-of-call-records-nailed-fianc%C3%A9e-siya-and-her-lover-for-killing-ketan-agarwal-482519 ",
-    "time": "2026-06-24T08:24:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "6 મહિનામાં 2004 કોલ, 238 કલાક વાતો... મંગેતરની હત્યા કરનાર સિયાના રહસ્યએ બધાને ચોંકાવ્યા!",
-    "desc": "પોતાના પતિ રાજા રઘુવંશીની હત્યા કરનારી સોનમ જેવું ખતરનાક પુણેની સિયાએ કર્યું છે. બંને હત્યાકાંડમાં ઘણી સમાનતાઓ છે. માત્ર 20 વર્ષની સિયાએ પોતાના મગરના આંસુઓથી પરિવારજનોને તો છેતરી દીધા, પરંતુ પોલીસની સામે તે ન બની શકી. તપાસ દરમિયાન અનેક ચોંકાવનારા ખુલાસા થયા છે. જાણો સિયા અને તેના બોયફ્રેન્ડે કઈ રીતે આ હત્યાકાંડને અંજામ આપ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/like-the-sonam-case-pune-womans-alleged-murder-conspiracy-leaves-police-astonished-482502 ",
-    "time": "2026-06-24T07:35:59.000Z"
   },
   {
     "cat": "Business",

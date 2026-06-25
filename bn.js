@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "বড় স্বস্তি ব্যবসায়ীদের! বাণিজ্যিক রান্নার গ্যাসে নিয়ন্ত্রণ বিধি তুলল সরকার, তবে দাম নিয়ে চিন্তা বহাল",
+    "desc": "হরমুজ প্রণালী পুনরায় উন্মুক্ত হওয়ার পর বাণিজ্যিক এলপিজি সিলিন্ডার সরবরাহের ওপর থেকে সমস্ত নিষেধাজ্ঞা তুলে নিয়েছে কেন্দ্রীয় পেট্রোলিয়াম মন্ত্রক। ভারী শিল্পের ক্ষেত্রেও বিধিনিষেধ আংশিক শিথিল করা হয়েছে, তবে ঘরোয়া গ্যাসের নতুন কানেকশনের ওপর নিষেধাজ্ঞা বহাল থাকছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/no-limit-on-lpg-cylinders-government-removes-restrictions-on-commercial-supply_659965.html ",
+    "time": "2026-06-25T14:40:13.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "প্রাণঘাতী ভূমিকম্পে পূর্বভারত-সহ কলকাতা অচিরেই ডুবে যাবে নরম পলিমাটির অতলে? কেন বিপদের উপর বসে এ-অঞ্চল?",
     "desc": "ভারতের প্রায় ৫৯ শতাংশ ভূখণ্ডই বিভিন্ন তীব্রতার ভূমিকম্পের আশঙ্কায় রয়েছে! ভারতকে মূলত ২, ৩, ৪ এবং ৫-- এই চার ভূকম্পপ্রবণ এলাকা বা সিসমিক জোনে (Seismic Zones) ভাগ করা হয়েছে। যার মধ্যে জোন ৫ (Zone V) সবচেয়ে বিপজ্জনক ও সব থেকে ঝুঁকিপূর্ণ এলাকা হিসেবে চিহ্নিত।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -99,15 +108,6 @@ const newsData_bn = [
     "time": "2026-06-22T11:53:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "বিশ্বমঞ্চে দেশের নাম উজ্জ্বল! SciRank গ্লোবাল ইনডেক্সে বিশ্বের শীর্ষ ৫% বিজ্ঞানীদের তালিকায় KIIT-এর ৫৪ জন অধ্যাপক",
-    "desc": "বিশ্বমঞ্চে ভারতীয় শিক্ষার জয়জয়কার। মর্যাদাপূর্ণ 'SciRank Global Index 2025'-এ বিশ্বের শীর্ষ ৫% বিজ্ঞানীদের তালিকায় জায়গা করে নিলেন KIIT-এর ৫৪ জন অধ্যাপক ও গবেষক। কোটি কোটি আন্তর্জাতিক গবেষকদের কাজের চুলচেরা বিশ্লেষণ করে এই তালিকায় স্থান দেওয়া হয়েছে তাঁদের। ডঃ অচ্যুত সামন্তের দূরদর্শী নেতৃত্বে গবেষণার ক্ষেত্রে এই অভাবনীয় সাফল্য।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/54-kiit-faculty-members-ranked-among-worlds-top-5-percent-scientists-scirank-global-index-2025_659500.html ",
-    "time": "2026-06-22T09:08:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'দ্য কেরালা স্টোরি ২' নিয়ে বিপাকে নির্মাতা! জরুরি নোটিস পাঠাল হাইকোর্ট",
     "desc": "কেরালাকে নেতিবাচকভাবে দেখানো এবং সাম্প্রদায়িক সম্প্রীতি নষ্টের অভিযোগে প্রযোজক বিপুল শাহকে জরুরি নোটিস পাঠিয়েছে হাইকোর্ট। কোচির বাসিন্দা যোহান জর্জের দায়ের করা এই মামলায় ছবিটির ওটিটি মুক্তিকে চ্যালেঞ্জ জানিয়ে নাম থেকে 'কেরালা' শব্দটি বাদ দেওয়ার দাবি তোলা হয়েছে।",
@@ -169,5 +169,50 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/singer-debolina-nandy-alleges-ultimate-humiliation-while-retrieving-belongings-from-her-husband-house_658036.html ",
     "time": "2026-06-12T18:26:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
   }
 ];

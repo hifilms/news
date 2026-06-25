@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shafali, Radha headline India's five-wicket win over Bangladesh in T20 World Cup, can qualify for semis?",
+    "desc": "India beat Bangladesh by five wickets in their fourth group stage game in the ongoing T20 World Cup 2026 at the iconic Old Trafford in Manchester. The chase of 137 was completed with relative comfort...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shafali-radha-headline-india-s-five-wicket-win-over-bangladesh-in-t20-world-cup-can-qualify-for-semis-2026-06-25-1046168",
+    "time": "2026-06-25T16:54:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shree Charani creates history for India vs Bangladesh in T20 World Cup 2026 clash",
+    "desc": "Young spinner Shree Charani created history in Manchester on Thursday, June 25, by becoming India’s leading wicket-taker in a single edition of the Women’s T20 World Cup. She achieved the legendary record during the group-stage...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-creates-history-for-india-vs-bangladesh-in-t20-world-cup-2026-clash-2026-06-25-1046167",
+    "time": "2026-06-25T16:25:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are New Zealand players wearing black armbands on Day 1 of third Test vs England at Trent Bridge?",
+    "desc": "New Zealand players are spotted wearing black armbands on the opening day of the third Test against England at Trent Bridge to honour former fast bowler Bob Blair, who died on June 23, coincidentally on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-new-zealand-players-wearing-black-armbands-on-day-1-of-third-test-vs-england-at-trent-bridge-2026-06-25-1046164",
+    "time": "2026-06-25T15:51:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh announce squad for ODI series vs Zimbabwe, star batter returns after injury",
+    "desc": "Bangladesh have announced a 15-member squad for their upcoming ODI assignment against Zimbabwe. Star batter Litton Das will link up with the squad after being cleared to return for the three-match series, starting July 6. Notably,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-announce-squad-for-odi-series-vs-zimbabwe-star-batter-returns-after-injury-2026-06-25-1046163",
+    "time": "2026-06-25T15:45:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India drop four catches in five overs vs Bangladesh in T20 World Cup 2026's must-win clash",
     "desc": "India had a nightmare start in the field during their must-win T20 World Cup 2026 clash against Bangladesh, putting down four catches in the first five overs alone. Juairiya Ferdous was given three lifelines as...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/neymar-joins-pele-in-elite-list-as-brazil-thump-scotland-in-fifa-world-cup-2026-2026-06-25-1046090",
     "time": "2026-06-25T07:21:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "INDW vs BANW, T20 World Cup 2026: How can India qualify for semifinals?",
-    "desc": "Harmanpreet Kaur-led Indian women's cricket team will play their fourth game of the T20 World Cup 2026 against Bangladesh at the Old Trafford in Manchester on Thursday, with an eye on strengthening their chances for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-banw-t20-world-cup-2026-how-can-india-qualify-for-semifinals-2026-06-25-1046080",
-    "time": "2026-06-25T06:13:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "INDW vs BANW, T20 World Cup 2026: Pitch report, weather forecast, head-to-head stats and probable playing XIs",
-    "desc": "The Indian women's cricket team will face Bangladesh on Thursday in their Group A game of the T20 World Cup 2026 at the Old Trafford in Manchester, England, aiming to answer the questions that have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-banw-t20-world-cup-2026-pitch-report-weather-forecast-head-to-head-stats-and-probable-playing-xis-2026-06-25-1046076",
-    "time": "2026-06-25T05:40:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Self-goals twice in same tournament: Qatar's unwanted record in FIFA World Cup history",
-    "desc": "It was a disappointing end for Qatar in the FIFA World Cup 2026 after they lost their last Group A game to Bosnia-Herzegovina 1-3 on Wednesday to finish at the bottom place. Qatar, also referred...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/self-goals-twice-in-same-tournament-qatar-s-unwanted-record-in-fifa-world-cup-history-2026-06-25-1046064",
-    "time": "2026-06-25T04:41:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa stun South Korea 1-0, set up round of 32 clash with Canada",
-    "desc": "South Africa on Wednesday (local time) scripted history as they stunned South Korea to seal their place in the round of 32 of the 2026 FIFA World Cup. They will now lock horns with Canada,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-south-africa-stun-south-korea-1-0-set-up-round-of-32-clash-with-canada-2026-06-25-1046060",
-    "time": "2026-06-25T03:43:03.000Z"
   }
 ];
