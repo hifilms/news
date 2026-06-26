@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Farah Khan recalls being 'devastated' after Tees Maar Khan failed",
+    "desc": "Farah Khan is no stranger to delivering blockbuster entertainers. From Main Hoon Na and Om Shanti Om to Happy New Year, the filmmaker has enjoyed a successful directorial career. But Tees Maar Khan remains the one film that broke her winning streak when it released in 2010. While the film was panned by critics and underperformed at the box office, it has since gained a loyal cult following.",
+    "img": "https://static.toiimg.com/photo/msid-132022926,imgsize-156315.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-recalls-being-devastated-after-akshay-kumar-starrer-tees-maar-khan-failed-i-got-up-from-my-bed-only-after-one-week/articleshow/132022658.cms",
+    "time": "2026-06-26T18:12:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Duckett leads counterattack as England reaches 73-1 at tea in reply to New Zealand’s 438",
+    "desc": "Duckett, who has been short of runs this year, was in typically pugnacious mood as he raced to 52 not out at tea after having been dropped on 8 by third-slip Henry Nicholls off Nathan Smith’s bowling",
+    "img": "https://th-i.thgim.com/public/incoming/m3yecs/article71151943.ece/alternates/LANDSCAPE_1200/2026-06-26T165721Z_1542129835_UP1EM6Q198DDU_RTRMADP_3_CRICKET-ENG-NZL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/england-vs-new-zealand-test-cricket-score-updates-june-26-2026/article71151889.ece",
+    "time": "2026-06-26T17:51:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Series win over India would be special': Ireland captain fires warning after victory",
+    "desc": "Ireland's captain Lorcan Tucker expressed immense pride after their historic maiden T20I victory against India. He highlighted the team's resilience, stating they \"scrapped through\" a tough match. Tucker emphasised the significance of a potential series win at home against the reigning T20 world champions, calling it \"pretty special.\"",
+    "img": "https://static.toiimg.com/photo/msid-132022120,imgsize-219959.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/a-series-win-over-india-would-be-pretty-special-ireland-captain-lorcan-tucker-fires-warning-after-historic-belfast-triumph/articleshow/132022081.cms",
+    "time": "2026-06-26T17:44:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IMO pauses its Gulf vessel evacuation plan after Iran attacks ship",
+    "desc": "The attack followed a joint declaration by the Gulf Cooperation Council (GCC) states, including Oman, after a meeting attended by the United States, stating that there should be no “tolls, fees, or attempts to assert control over the strait.”",
+    "img": "https://th-i.thgim.com/public/incoming/bm1q52/article71151922.ece/alternates/LANDSCAPE_1200/2026-06-16T062055Z_983591979_RC2QULAZFNVS_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/imo-pauses-its-gulf-vessel-evacuation-plan-after-iran-attacks-ship/article71151704.ece",
+    "time": "2026-06-26T17:36:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EC to take call on whether TMC split makes for symbol dispute case",
+    "desc": "The Election Commission is set to adjudicate a Trinamool Congress split, examining factional leadership claims and party constitution validity. Proceedings will involve assessing legislative and organizational strength, with a focus on adherence to party aims. The EC may freeze the symbol if an immediate poll looms, but no such urgency exists currently. Past disputes highlight the majority test as a decisive factor.",
+    "img": "https://static.toiimg.com/photo/msid-132021862,imgsize-174764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ec-to-take-call-on-whether-tmc-split-makes-for-symbol-dispute-case/articleshow/132021887.cms",
+    "time": "2026-06-26T17:33:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No decision yet': MK Stalin on contesting bypoll amid Trichy East buzz",
+    "desc": "Tamil Nadu's former chief minister MK Stalin remains non-committal on contesting a byelection to re-enter the assembly. Speculation links him to the Trichy East seat, vacated by his successor incumbent chief minister C Joseph Vijay. This comes as several other constituencies also face byelections due to AIADMK MLA resignations, potentially shifting allegiances to Vijay's TVK party.",
+    "img": "https://static.toiimg.com/photo/msid-132021727,imgsize-40352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-decision-yet-mk-stalin-on-contetsing-bypoll-amid-trichy-east-buzz/articleshow/132021154.cms",
+    "time": "2026-06-26T17:29:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "For 7 new bullet train corridors, govt aims standard design for structures, tunnels",
+    "desc": "India is set to develop its own design standards for future bullet train projects, aiming for 350 kmph speeds. Preparations are underway for seven new corridors spanning 4,000 km. This initiative will incorporate advanced design and construction practices, ensuring safety, reliability, and cost-effectiveness for high-speed rail operations across the nation.",
+    "img": "https://static.toiimg.com/photo/msid-132021676,imgsize-91871.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/for-7-new-bullet-train-corridors-govt-aims-standard-design-for-structures-tunnels/articleshow/132021656.cms",
+    "time": "2026-06-26T17:27:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's economy may grow up to 6.8% in FY27 as domestic demand stays resilient: EY",
+    "desc": "India's economy is poised for robust growth of 6.6-6.8% this financial year, buoyed by easing global energy prices and normalized Strait of Hormuz shipments. Inflation is expected to remain manageable around 4.5%, with the current account deficit projected at 1.5% of GDP. Strong domestic demand, particularly in consumption and investment, remains the primary growth engine, supported by healthy manufacturing and services activity.",
+    "img": "https://static.toiimg.com/photo/msid-132021674,imgsize-1110052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-economy-may-grow-up-to-6-8-in-fy27-as-domestic-demand-stays-resilient-ey/articleshow/132021647.cms",
+    "time": "2026-06-26T17:27:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iyer joins Kohli, Pant &amp; Gill on unwanted list after Ireland script historic win",
+    "desc": "Shreyas Iyer's captaincy debut for India ended in a disappointing 34-run loss to Ireland in Belfast, marking his entry into an unwanted record book. Ireland secured their historic first-ever win over India in men's international cricket, thanks to strong performances from their debutants. Despite Iyer's own impressive pre-match statistics, the team's chase faltered, falling short of Ireland's 182.",
+    "img": "https://static.toiimg.com/photo/msid-132021441,imgsize-112956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/shreyas-iyer-joins-virat-kohli-rishabh-pant-and-shubman-gill-on-unwanted-list-after-ireland-script-historic-upset/articleshow/132021333.cms",
+    "time": "2026-06-26T17:17:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MDMK’s general body to take a decision on alliance  on Saturday",
+    "desc": "There are expectations that the MDMK may ask its MLAs — T.M. Rajendran and Senthil Selvan to resign from the membership of the Assembly as they contested on the DMK’s ‘Rising Sun’ symbol in the 2026 election",
+    "img": "https://th-i.thgim.com/public/incoming/el35zz/article71151843.ece/alternates/LANDSCAPE_1200/1693_26_6_2026_15_27_0_3_BVR_2613_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/mdmks-general-body-to-take-a-decision-on-alliance-on-saturday/article71151133.ece",
+    "time": "2026-06-26T17:16:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Students in Classes 7, 8, & 9 can continue learning foreign languages this year: Education Ministry sources",
+    "desc": "These students do not have switch to an extra native language till they complete Class 10, the sources added; the clarification comes over a month after CBSE stated that students in Class 9 must study three languages, of which two should be native to India, in the 2026-27 academic year",
+    "img": "https://th-i.thgim.com/public/incoming/fad50d/article71151871.ece/alternates/LANDSCAPE_1200/Cuddalore-securGACG0OFG8.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/students-in-classes-7-8-9-can-continue-learning-foreign-languages-this-year-education-ministry-sources/article71151386.ece",
+    "time": "2026-06-26T17:14:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You can't just turn up and win': Iyer's blunt message after Ireland shocker",
+    "desc": "Ireland secured a stunning 34-run victory over India in the opening T20I, taking a 1-0 series lead. Despite a strong start with the ball, India's bowlers faltered in the middle and death overs, allowing Ireland to post 182. Captain Shreyas Iyer acknowledged the team's lapse in execution and vowed a strong comeback in the next match.",
+    "img": "https://static.toiimg.com/photo/msid-132021106,imgsize-1265184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/you-cant-just-turn-up-and-win-shreyas-iyers-blunt-message-after-ireland-shocker/articleshow/132020949.cms",
+    "time": "2026-06-26T17:04:06.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "World champions' curse strikes again as India suffer historic Ireland shock",
     "desc": "India's T20 World Cup reign began with a shock 34-run defeat to Ireland in Belfast, continuing a bizarre trend of recent champions losing their first T20I post-victory. Ireland's bowlers, including debutants, stifled India's chase after a competitive 182. This historic win for Ireland marks a disappointing start for new Indian captain Shreyas Iyer and extends an unusual statistic for T20 World Cup holders.",
@@ -7,6 +115,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/world-champions-curse-strikes-again-as-india-suffer-historic-ireland-shock/articleshow/132020738.cms",
     "time": "2026-06-26T16:45:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Political rivals, not enemies': BJP plays down Fadnavis, Uddhav travelling on same flight",
+    "desc": "Speculation arose after Maharashtra chief minister Devendra Fadnavis and Shiv Sena (UBT) supremo Uddhav Thackeray were seen on the same flight. Despite political differences, BJP MLC Pratap Lad downplayed the encounter, emphasizing cordial relations and noting Thackeray's attendance at his daughter's wedding. Lad also expressed surprise at Thackeray using a commercial flight, while denying BJP involvement in recent Shiv Sena (UBT) Lok Sabha MP defections.",
+    "img": "https://static.toiimg.com/photo/msid-132020781,imgsize-86263.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/political-rivals-not-enemies-bjp-downplays-fadnavis-uddhavs-mumbai-nagpur-journey-in-same-flight/articleshow/132020399.cms",
+    "time": "2026-06-26T16:43:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -124,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/from-office-towers-to-open-skies-how-indias-digital-nomads-are-changing-the-way-we-work/articleshow/132018499.cms",
     "time": "2026-06-26T15:27:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Outgoing Telangana CS Ramakrishna Rao joins ranks of bureaucrats stepping in as Advisors",
-    "desc": "Operating each advisor’s office costs taxpayers roughly ₹2.5 lakh monthly. Civil Societies laments the appointments as an unconstitutional drain of public money. In-service bureaucrats are apprehensive that such appointments could create another level of hierarchy in administration.",
-    "img": "https://th-i.thgim.com/public/incoming/23gzry/article71150568.ece/alternates/LANDSCAPE_1200/IMG_WhatsApp_Image_2026-_3_1_SVFJO6PQ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/outgoing-telangana-cs-ramakrishna-rao-joins-ranks-of-bureaucrats-stepping-in-as-advisors/article71150450.ece",
-    "time": "2026-06-26T15:21:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,15 +486,6 @@ const newsData_en = [
     "time": "2026-06-26T11:47:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India reign supreme! Shooters top ISSF Jr World C'ship medal tally in Germany",
-    "desc": "Team India has triumphed at the ISSF Junior World Championship 2026, topping the medal standings with an impressive 24 medals, including seven golds. Young talents shone across rifle and pistol disciplines, securing victories in individual, mixed, and team events. This remarkable achievement underscores India's growing prowess in world shooting, with the NRAI crediting effective grassroots programs for the widespread success.",
-    "img": "https://static.toiimg.com/photo/msid-132014811,imgsize-255316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/india-reign-supreme-shooters-top-issf-junior-world-championship-medal-tally-in-germany/articleshow/132014725.cms",
-    "time": "2026-06-26T11:22:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Prabhas reveals 'Baahubali' success cost him years of sleep",
     "desc": "Pan-India star Prabhas confessed that the immense success of 'Baahubali' led to sleepless nights and years of stress. He revealed the pressure to choose subsequent projects was immense, with discussions spanning grand visual spectacles to different genres. The blockbuster, he stated, significantly boosted his career's financial standing, enabling larger-budget films and paving the way for his current slate of ambitious projects.",
@@ -441,15 +540,6 @@ const newsData_en = [
     "time": "2026-06-26T11:13:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Paris Diamond League in doubt as police seek cancellation due to historic heat wave",
-    "desc": "A historic heatwave has put this weekend's Paris Diamond League athletics meet in doubt. French authorities have requested its cancellation, citing immense pressure on emergency services and extreme weather. While organisers initially planned a modified event for elite athletes, the police prefecture has warned of an enforced cancellation if organisers don't comply. This unprecedented heat has already broken national records.",
-    "img": "https://static.toiimg.com/photo/msid-132013997,imgsize-72924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/paris-diamond-league-in-doubt-as-police-seek-cancellation-due-to-historic-heat-wave/articleshow/132013844.cms",
-    "time": "2026-06-26T10:54:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Here's why Indian refiners are still hesistant to buy it",
     "desc": "Indian refiners are unlikely to resume buying Iranian oil despite a temporary US waiver. Existing supply commitments, payment concerns, and the waiver's short duration mean most refiners have already secured other crude sources. While opportunistic purchases at steep discounts are possible, a significant return to Iranian barrels is improbable for now, with China expected to remain the primary buyer.",
@@ -457,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-waives-sanctions-on-iranian-crude-heres-why-indian-refiners-are-still-hesistant-to-buy-it/articleshow/132013394.cms",
     "time": "2026-06-26T10:35:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SS Rajamouli shares major update on Mahesh Babu, Priyanka's 'Varanasi'; IMAX action schedule wrapped",
-    "desc": "In a thrilling announcement, filmmaker SS Rajamouli confirmed that his upcoming action-adventure 'Varanasi,' starring Priyanka Chopra and Mahesh Babu, has successfully wrapped up its IMAX action sequences. This marks a crucial milestone as filming transitions into its concluding phase, with an expected wrap-up by October. The highly anticipated film promises a visual treat for IMAX viewers and is scheduled for global release on April 7, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132013487,imgsize-117618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/ss-rajamouli-shares-major-update-on-mahesh-babu-and-priyanka-chopras-varanasi-imax-action-schedule-wrapped/articleshow/132013447.cms",
-    "time": "2026-06-26T10:31:55.000Z"
   },
   {
     "cat": "World",
@@ -486,15 +567,6 @@ const newsData_en = [
     "time": "2026-06-26T10:24:06.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Not Sachin, Kohli: Aussie legend says Sooryavanshi was 1st cricketer he asked for selfie",
-    "desc": "If selected, Sooryavanshi will be 15 years and 91 days old, younger than Sachin Tendulkar was when he made his international debut against Pakistan in 1989 at the age of 16 years and 205 days.",
-    "img": "https://static.toiimg.com/photo/msid-131998551,imgsize-495661.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-sachin-tendulkar-not-virat-kohli-ex-australian-cricketer-reveals-vaibhav-sooryavanshi-was-first-cricketer-he-asked-for-a-selfie/articleshow/131998488.cms",
-    "time": "2026-06-26T10:18:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why India making its own bullet trains is a big deal",
     "desc": "The trains that will run on India’s first bullet train corridor will be manufactured indigenously. And that will be a feat for India’s engineering capabilities. A Rs 866.87 crore contract has been awarded to BEML Limited by Integral Coach Factory (ICF) Chennai for manufacturing two prototype bullet train or high-speed train sets.",
@@ -502,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/why-india-making-its-own-bullet-trains-is-a-big-deal-explained/articleshow/132012753.cms",
     "time": "2026-06-26T10:15:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Oldest-ever! Hugo Broos scripts WC history as SA reach knockouts for the first time",
-    "desc": "South Africa has made history by reaching the FIFA World Cup knockout stages for the first time, securing a crucial 1-0 win against South Korea. Coach Hugo Broos, at 74, became the oldest manager to win a World Cup match. Youngster Thapelo Maseko scored the decisive goal, showcasing the team's belief and tactical prowess. They now face Canada in the Round of 32.",
-    "img": "https://static.toiimg.com/photo/msid-132012769,imgsize-102266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/oldest-ever-hugo-broos-scripts-fifa-world-cup-history-as-south-africa-reach-knockouts-for-the-first-time/articleshow/132012773.cms",
-    "time": "2026-06-26T10:01:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -567,24 +630,6 @@ const newsData_en = [
     "time": "2026-06-26T09:30:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Do not cast aspersions on Ayodhya': UP CM Adityanath on arrests in Ram temple donation theft case",
-    "desc": "Uttar Pradesh Chief Minister Yogi Adityanath vowed strict action against those found guilty of embezzling donations at the Ayodhya Ram Temple, following an FIR against eight individuals. He emphasized the government's swift response after an SIT report, urging against politicizing faith and asserting that evidence will be presented. The accused, involved in counting temple cash, have been arrested and are under questioning.",
-    "img": "https://static.toiimg.com/photo/msid-132012268,imgsize-69611.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/do-not-cast-aspersions-on-ayodhya-up-cm-adityanath-on-arrests-in-ram-temple-donation-theft-case/articleshow/132012203.cms",
-    "time": "2026-06-26T09:26:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "For first time, names of soldiers martyred during Operation Sindoor made public",
-    "desc": "Six brave Indian soldiers, including five from the Army and one from the Air Force, who sacrificed their lives during Operation Sindoor following the Pahalgam terror attack, have been identified. Their names will be permanently inscribed at the National War Memorial. The operation saw precision strikes against terror launchpads, eliminating over 100 terrorists and showcasing India's resolute stance against extremism.",
-    "img": "https://static.toiimg.com/photo/msid-132011737,imgsize-476639.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/for-first-time-names-of-soldiers-martyred-during-operation-sindoor-made-public/articleshow/132011553.cms",
-    "time": "2026-06-26T08:59:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Micron overtakes Meta in market value as AI boom fuels rally",
     "desc": "Micron Technology's market value soared, briefly surpassing Tesla and exceeding Meta, driven by a robust fourth-quarter forecast and significant AI sector exposure. Investors reacted positively to projected revenue and profit growth, alongside $22 billion in customer commitments for future chip supplies. This surge underscores the increasing demand for memory and storage solutions crucial for AI development and deployment.",
@@ -592,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/micron-overtakes-meta-in-market-value-as-ai-boom-fuels-rally/articleshow/132011297.cms",
     "time": "2026-06-26T08:36:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shashi Tharoor questions govt clarification, offers solution",
-    "desc": "Congress MP Shashi Tharoor has urged a legislative overhaul to make passports and Aadhaar cards conclusive proof of Indian citizenship. He highlighted the public confusion following the MEA's clarification that passports are travel documents, not definitive citizenship proof. Tharoor argued that this creates an \"absurd legal paradox\" for citizens and proposed a dual-document policy to resolve the issue.",
-    "img": "https://static.toiimg.com/photo/msid-132010044,imgsize-121757.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/passport-citizenship-row-shashi-tharoor-questions-govt-clarification-offers-solution/articleshow/132009399.cms",
-    "time": "2026-06-26T07:50:48.000Z"
   },
   {
     "cat": "World",
@@ -646,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/ananthan-kaadu-movie-review-a-flat-old-fashioned-political-potboiler-lacking-novelty/article71145953.ece",
     "time": "2026-06-26T05:59:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-UK trade deal kicks in July",
-    "desc": "India and the UK are set to implement a landmark trade pact and a Double Contribution Convention on July 15, 2026. This comprehensive agreement promises significant benefits, including zero-duty access for nearly all Indian exports and enhanced services trade. It aims to boost bilateral trade to $120 billion by 2030, fostering deeper economic ties and collaboration across various sectors.",
-    "img": "https://static.toiimg.com/photo/msid-132011156,imgsize-134369.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/scotch-and-gin-get-cheaper-india-uk-trade-deal-kicks-in-july/articleshow/132007821.cms",
-    "time": "2026-06-26T05:39:31.000Z"
   },
   {
     "cat": "Sports",
@@ -765,24 +792,6 @@ const newsData_en = [
     "time": "2026-06-25T16:20:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran says deal to end West Asia war 'declaration of U.S. defeat'",
-    "desc": "The Islamabad understanding was not the result of pressure and coercion, but rather the result of the resistance and authority of the brave Iranian nation, says Mohammad Bagher Ghalibaf, the head of the Iranian negotiating team",
-    "img": "https://th-i.thgim.com/public/incoming/y1iuj1/article71141137.ece/alternates/LANDSCAPE_1200/2026-06-21T100721Z_7779319_RC2WXLAGFUXI_RTRMADP_3_IRAN-CRISIS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-says-deal-to-end-west-asia-war-declaration-of-us-defeat/article71141118.ece",
-    "time": "2026-06-25T11:57:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘If you ran in New Delhi, you’d win a million votes’: Giorgia Meloni recalls 2023 India visit",
-    "desc": "When I arrived, there was a poster with my face and the word ‘Welcome’ every few feet along the road; when I left, the posters showed the same image, but now read ‘Thank you for visiting’, says Giorgia Meloni",
-    "img": "https://th-i.thgim.com/public/incoming/b7sff4/article71145920.ece/alternates/LANDSCAPE_1200/AFP_B87U9CZ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/if-you-ran-in-new-delhi-youd-win-a-million-votes-giorgia-meloni-recalls-2023-india-visit/article71145838.ece",
-    "time": "2026-06-25T11:55:12.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Amazon CEO Andy Jassy meets PM Modi; announces plans to invest additional $13 billion in India on cloud, AI",
     "desc": "The company plans to launch more than 20 new fulfillment centers and over 100 new last mile delivery stations this year, bringing faster and reliable deliveries to customers nationwide, especially in tier 3 and 4 cities.",
@@ -790,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-meets-pm-modi-investments-2030-india-ai-cloud/article71145559.ece",
     "time": "2026-06-25T11:51:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Congo’s Ebola outbreak has most cases in first month of any African outbreak, WHO says",
-    "desc": "The Bundibugyo outbreak in the Democratic Republic ‌of Congo that has infected over 1,000 people and killed 267 ‌was detected late and experts say ‌the ⁠virus had already been circulating ⁠for months before it was officially declared on May 15",
-    "img": "https://th-i.thgim.com/public/incoming/evdbu7/article71138062.ece/alternates/LANDSCAPE_1200/2026-06-21T125256Z_1746143588_RC24WLA5HKRS_RTRMADP_3_HEALTH-EBOLA-CAMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/congos-ebola-outbreak-has-most-cases-in-first-month-of-any-african-outbreak-who-says/article71138029.ece",
-    "time": "2026-06-25T11:37:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -826,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/strange-link-between-artificial-intelligence-hallucination-creativity/article71136885.ece",
     "time": "2026-06-25T04:19:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup",
-    "desc": "Scotland, who disappointed their Tartan Army ​with a timid and error-prone display in the ⁠first half, will now hope ⁠to advance as one of the eight third-placed ‌teams with the best records over the 12 groups",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/brazil-vs-scotland-world-cup-match-live-updates-june-24-2026/article71143487.ece",
-    "time": "2026-06-25T00:10:18.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/explained-metas-900-million-investment-in-cred-and-hiring-of-kunal-shah-as-whatsapp-chief/article71136508.ece",
     "time": "2026-06-23T08:39:23.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The future of India’s chip industry",
+    "desc": "A new NITI Aayog report says India’s semiconductor ecosystem is not yet equipped to fully meet domestic demand, while stressing the need to strengthen local manufacturing, as geopolitical pressures could potentially disrupt the electronics supply chain",
+    "img": "https://th-i.thgim.com/public/incoming/r8d63e/article71054242.ece/alternates/LANDSCAPE_1200/20260529189L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
+    "time": "2026-06-23T07:14:06.000Z"
   }
 ];
