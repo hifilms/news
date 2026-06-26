@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why have Paraguay not qualified for World Cup round of 32 despite being on four points?",
+    "desc": "Australia and Paraguay played a goalless draw in their last Group D matches in the FIFA World Cup 2026 as the Socceroos made their way to the round of 32 along with the USA from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-have-paraguay-not-qualified-for-world-cup-round-of-32-despite-being-on-four-points-2026-06-26-1046200",
+    "time": "2026-06-26T06:44:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ecuador shock Germany, beat them 2-1 in FIFA World Cup, how did they qualify for Round of 32?",
     "desc": "Ecuador pulled off a major shock in the ongoing FIFA World Cup 2026, beating Germany 2-1 in their final Group E match in New Jersey. However, both sides advanced to the Round of 16. Germany...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-drop-four-catches-in-five-overs-vs-bangladesh-in-t20-world-cup-2026-s-must-win-clash-2026-06-25-1046152",
     "time": "2026-06-25T14:13:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "INDW vs BANW, T20 World Cup 2026 Live Cricket Score: Bangladesh bat first in India's must-win game",
-    "desc": "The Indian women's cricket team, led by skipper Harmanpreet Kaur, will face Bangladesh in their fourth game at the ongoing T20I World Cup 2026. The match, which will start around 7 pm IST (Indian Standard...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-banw-t20-world-cup-2026-live-cricket-score-old-trafford-manchester-harmanpreet-kaur-nigar-sultana-india-bangladesh-game-live-blog-2026-06-25-1046121",
-    "time": "2026-06-25T12:30:02.000Z"
   }
 ];
