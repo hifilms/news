@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ecuador shock Germany, beat them 2-1 in FIFA World Cup, how did they qualify for Round of 32?",
+    "desc": "Ecuador pulled off a major shock in the ongoing FIFA World Cup 2026, beating Germany 2-1 in their final Group E match in New Jersey. However, both sides advanced to the Round of 16. Germany...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/ecuador-shock-germany-beat-them-2-1-in-fifa-world-cup-how-did-they-qualify-for-round-of-32-2026-06-26-1046179",
+    "time": "2026-06-25T22:27:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ecuador pull off a heist, beat Germany 2-1 in New York",
     "desc": "Germany will take on Ecuador in their final Group E match of the FIFA World Cup 2026 in the early hours of Thursday, with the two sides entering the contest with contrasting objectives. Germany have...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-banw-t20-world-cup-2026-live-cricket-score-old-trafford-manchester-harmanpreet-kaur-nigar-sultana-india-bangladesh-game-live-blog-2026-06-25-1046121",
     "time": "2026-06-25T12:30:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Setback for New Zealand as Matt Henry, Glenn Phillips ruled out of third test against England",
-    "desc": "New Zealand on Thursday suffered a massive setback after pacer Matt Henry and batter Glenn Phillips were ruled out of the third test against England at the Trent Bridge in Nottingham due to injuries. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/setback-for-new-zealand-as-matt-henry-glenn-phillips-ruled-out-of-third-test-against-england-2026-06-25-1046112",
-    "time": "2026-06-25T10:26:14.000Z"
   }
 ];
