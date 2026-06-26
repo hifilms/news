@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "રામ મંદિર દાન ચોરી મામલે કેમ ચંપત રાય અને અનિલ મિશ્રાએ આપવું પડ્યું રાજીનામું? ખાસ જાણો",
+    "desc": "આસ્થાનું મંદિર એવું અયોધ્યાના રામ મંદિરમાં દાન ચોરીનું મોટું કૌભાંડ સામે આવતા ચકચાર મચી છે. આ મામલે 8 લોકોની ધરપકડ થઈ છે અને હવે ચંપત રાય અને ડો. અનિલ મિશ્રાના રાજીનામા પડ્યા છે. જાણો કેમ તેમના પર રાજીનામા માટે થઈ રહ્યું હતું દબાણ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-champat-rai-and-anil-mishra-resign-in-the-ram-temple-donation-theft-case-482742 ",
+    "time": "2026-06-26T11:26:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વિશ્વકપના 96 વર્ષના ઈતિહાસમાં પ્રથમવાર બન્યો આ અસંભવ વર્લ્ડ રેકોર્ડ, 2026મા રેકોર્ડતોડ 177 ગોલ",
+    "desc": "ફુટબોલ વિશ્વકપના 96 વર્ષના ઈતિહાસમાં પ્રથમવાર એક અસંભવ વર્લ્ડ રેકોર્ડ બની ગયો છે. ફુટબોલ વિશ્વકપની એક એડિશનમાં સૌથી વધુ ગોલ થવાનો રેકોર્ડ 2026મા તૂટી ગયો છે. આ ઐતિહાસિક રેકોર્ડ ગ્રુપ ડીમાં અમેરિકા અને તુર્કી વિરુદ્ધ રમાયેલા મુકાબલામાં બન્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/world-cup-2026-creates-history-177-goals-shatter-fifa-all-time-scoring-record-in-96-years-482741 ",
+    "time": "2026-06-26T09:37:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2050માં ભારતમાં મુસ્લિમ વસ્તી કેટલી હશે, જાણો હિન્દુઓમાં કેટલો ઘટાડો થશે? USના રિસર્ચમાં ખુલાસો",
+    "desc": "સોશિયલ મીડિયા પર વારંવાર એવા દાવા કરવામાં આવે છે કે આવનારા સમયમાં ભારતમાં હિન્દુઓની વસ્તીમાં નોંધપાત્ર ઘટાડો થશે. જ્યારે મુસ્લિમ વસ્તીમાં જોરદાર વધારો આવશે તેના પર અમેરિકાની રિસર્ચ એજન્સીએ રિપોર્ટ આપ્યો છે, તેમને 2050માં ભારતમાં કેટલા ટકા હિંદુ રહેશે અને કેટલા ટકા મુસ્લિમની સંખ્યામાં વધારો થશે તેના વિશે માહિતી આપવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-will-be-the-muslim-population-in-india-in-2050-know-how-much-will-the-hindu-population-decrease-pew-research-482739 ",
+    "time": "2026-06-26T09:20:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "&amp;#039;બારૂદના ઢગલે&amp;#039; બેઠું છે વેનેઝુએલા, 126 વર્ષનો સૌથી મોટો ભૂકંપ! ડબલ સિસ્મિક ઈવેન્ટનો ભોગ કેમ બન્યું?",
+    "desc": "દક્ષિણ અમેરિકી દેશ વેનેઝુએલા હાલ ભારે હાલાકીનો સામનો કરી રહ્યું છે. 126 વર્ષના સૌથી મોટા ભૂકંપને પરિણામે દેશમાં તબાહી મચી છે. હજારોના મોતની આશંકા છે. વેનેઝુએલા માટે હજુ પણ જોખમ ટળ્યું નથી. ઉપરાછાપરી બે શક્તિશાળી ભૂકંપ આવવા પાછળનું શું કારણ? અત્યાર સુધી આ ભૂકંપમાં કેટલા લોકોએ જીવ ગુમાવ્યા...તમામ વિગતો જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-danger-for-venezuela-is-not-over-yet-what-is-the-reason-behind-earthquake-doublet-482735 ",
+    "time": "2026-06-26T08:59:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "તો આ એક મુદ્દાને લઈને સિયાએ કરી કેતનની હત્યા? અત્યાર સુધીનો સૌથી મોટો ખુલાસો",
+    "desc": "આરોપી સિયા ગોયલનો દાવો છે કે કેતનના માથા પર વાળ ન હોવા તેને મંજૂર નહોતા. તેથી તેણે આરોપી ચેતન ચૌધરી સાથે સંબંધ બનાવ્યો અને તેની હત્યા કરાવી દીધી. ખરેખર આ દાવો ઘણો ચોંકાવનારો છે. સીયાની આ નારાજગી હોઈ શકે પણ કોઈનું હત્યા કરવાનું કારણ ના હોઈ શકે...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/shocking-revelation-in-ketan-agarwal-murder-case-wig-dispute-behind-alleged-killing-482723 ",
+    "time": "2026-06-26T08:34:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેતન અગ્રવાલ કેસમાં નવો વળાંક, સિયાની માતાનો મોટો દાવો, &amp;#039;લોહાગઢ ટ્રેક પર નહતું જવું...&amp;#039;, બે માતાના અલગ-અલગ દાવા",
+    "desc": "પુનાના બિઝનેસમેન કેતન અગ્રવાલના મર્ડર કેસમાં રોજ નીત નવા ખુલાસા થઈ રહ્યા છે. પહેલીવાર આરોપી મંગેતર સિયાના માતા પિતાના નિવેદન સામે આવ્યા છે. જેમણે ચોખ્ખા શબ્દોમાં કહ્યું છે કે જો સિયા દોષિત ઠરે તો તેને પણ એજ સજા મળવી જોઈએ જે કેતન સાથે થયું. જો કે સિયાની માતા પૂજા ગોયલે એક ચોંકાવનારો દાવો કર્યો છે. ત્યારે હવે એમ થાય કે કોનો દાવો સાચો?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/siya-mother-pooja-goyal-big-claim-and-ketan-mother-rakhi-agarwal-statement-lohagarh-trek-482724 ",
+    "time": "2026-06-26T07:43:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "પદ્મશ્રી એવોર્ડમાં માધવને પહરેલી ઘડિયાળની ચર્ચા એમ જ નથી થઈ રહી, આ ઘડિયાળની અંદર છુપાયેલી છે અદ્ભુત કલા",
+    "desc": "પદ્મશ્રી પુરસ્કાર લેતી વખતે આર માધવને ખાસ ઘડિયાળ પહેરી હતી. આ ઘડિયાળ કોઈ સામાન્ય ઘડિયાળ નથી. આ એક લિમિટેડ એડિશન વોચ છે. દુનિયામાં આવી 10 જ ઘડિયાળ છે જેમાંથી એક આર માધવન પાસે છે. જો તમને આ ઘડિયાળની ખાસિય વિશે નથી ખબર તો ચાલો તમન જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/what-is-special-about-padma-shree-r-madhavan-limited-edition-watch-r-madhavan-40-lakh-watch-details-482721 ",
+    "time": "2026-06-26T07:07:22.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "અક્ષય કુમારની ફિલ્મમાં છે દમ, જાણો વેલકમ ટુ ધ જંગલ ફિલ્મ કેવી છે ?",
     "desc": "અક્ષય કુમાર સહિત 30 થી વધુ કલાકારોની ફિલ્મ વેલકમ ટુ ધ જંગલ આજે રિલીઝ થઈ ચુકી છે અને ફિલ્મને લઈ પોઝિટિવ રીવ્યુ સામે આવી રહ્યા છે. સોશિયલ મીડિયા પર આ ફિલ્મને પોઝિટિવ રિસ્પોન્સ મળી રહ્યો છે તો ચાલો તમને જણાવીએ વેલકમ ટુ ધ જંગલ ફિલ્મમાં શું ખાસ છે અને ફિલ્મ કેવી છે ?",
@@ -171,24 +234,6 @@ const newsData_gu = [
     "time": "2026-06-25T09:29:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કેતનની હત્યાના અંતિમ 72 કલાક પહેલા શું શું થયું હતું? કોકડું ઉકેલવામાં નિર્ણાયક સાબિત થશે",
-    "desc": "પુનાના બિઝનેસમેનના પુત્ર કેતન વિશાલ અગ્રવાલની મંગેતરે પોતાના બર્થડેના આગલા દિવસે જ લોહગઢ કિલ્લા પરથી ધક્કો મારીને ખાઈમાં ધકેલી હત્યા કરી. મામલાની તપાસમાં સામેલ અધિકારીઓના જણાવ્યાં મુજબ કેતનના મોત પહેલાના 72 કલાકની જે વિગતો છે તે કેસની દિશા વાળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lohagadh-fort-case-pune-business-man-son-ketan-vishal-agarwal-murder-latest-upate-siya-goyal-482612 ",
-    "time": "2026-06-25T09:27:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;quot;એમને ગુજરી ગયાને 6 વર્ષ થઈ ગયા છે પરંતુ મેં આજ સુધી તેમની તસવીર પર હાર નથી ચડાવ્યો&amp;quot;",
-    "desc": "જિંદગીમાં સૌથી મોટુ કોઈ દાન હોય તો એ અંગદાન છે. તમે કેટલીય જિંદગીઓને બચાવી શકો છે, દેશમાં સૌથી વધારે જરૂરી દાન હોય તો એ અંગદાન છે. અમે તમને આવી જ એક ઈમોશનલ દિલ્હીની સ્ટોરી જણાવી રહ્યાં છીએ. તમને જણાવી દઈએ કે, ‘ટ્રાન્સપ્લાન્ટેશન ઓફ હ્યુમન ઓર્ગન્સ એક્ટ’ (THOA) હેઠળ શરીરના અંગોનું ખરીદ અને વેચાણ સંપૂર્ણપણે ગેરકાયદેસર અને ગંભીર ગુનો છે. કોઈ પણ હોસ્પિટલ કે ડોક્ટર પોતાની મરજીથી અંગ કોઈને આપી શકતી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/its-been-6-years-since-he-passed-away-but-i-still-havent-given-up-on-his-picture-482625 ",
-    "time": "2026-06-25T08:52:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ઓટીટી પર જુઓ નવી માર્શલ આર્ટ્સ થ્રિલર ફિલ્મ બ્લાસ્ટ, IMDb રેટિંગ પણ છે જોરદાર",
     "desc": "જો તમે સાઉથની એક્શન ફિલ્મો જોવાના શોખીન છો તો તમારા માટે ગુડ ન્યુઝ છે. મે મહિનામાં બોક્સ ઓફિસ પર રિલીઝ થયેલી ફિલ્મ બ્લાસ્ટ હવે હીંદીમાં ઓટીટી પર રિલીઝ થઈ ચુકી છે. તો ફટાફટ ચેક કરી લો બ્લાસ્ટ ફિલ્મ હિંદીમાં કયા ઓટીટી પ્લેટફોર્મ પર જોવા મળશે.",
@@ -214,15 +259,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/maa-inti-bangaram-movie-fame-actress-samantha-ruth-prabhu-confirm-her-first-pregnancy-know-what-she-said-482609 ",
     "time": "2026-06-25T06:42:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સિયા ગોયલ અંગે નવા ચોંકાવનારા ખુલાસા; લોહાગઢમાં કેતન અગ્રવાલની હત્યા કેમ કરવામાં આવી?",
-    "desc": "પુણેના કેતન અગ્રવાલ હત્યા કેસને સંપૂર્ણ પ્લાનિંગ સાથે અંજામ આપવામાં આવ્યો હતો. ટ્રેકિંગ માટે સિયા કેતનને લઈ લોહાગઢ પહોંચી અને પ્રેમી ચેતન સાથે મળી તેને ધક્કો મારી દીધો હતો. આ કેસની તપાસમાં અત્યાર સુધી ઘણા ખુલાસા થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/5-shocking-revelations-in-siya-goyal-case-why-was-ketan-aggarwal-murdered-at-lohagad-fort-482601 ",
-    "time": "2026-06-25T05:38:08.000Z"
   },
   {
     "cat": "Sports",
@@ -268,33 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/major-earthquake-noted-in-venezuela-2-earthquake-magnitude-more-than-7-cause-damage-482582 ",
     "time": "2026-06-25T02:52:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "એર ઇન્ડિયાની ફ્લાઇટ પાકિસ્તાનમાં ઘુસી, દિલ્હીથી અમૃતસર માટે ભરી હતી ઉડાન, જાણો પછી શું થયું",
-    "desc": "દિલ્હીથી અમૃતસર જઈ રહેલી એર ઈન્ડિયાની ફ્લાઈટ AI479 થોડા સમય માટે પાકિસ્તાની હવાઈ ક્ષેત્રમાં ઘુસી ગઈ હતી. એર ઈન્ડિયાએ આ ઘટનાને ગો-અરાઉન્ડ દરમિયાન થયેલી ભૂલ ગણાવી હતી. ટેકનિકલ નિરીક્ષણ પછી ફ્લાઈટને દિલ્હી પાછી મોકલવામાં આવી હતી અને ફરીથી અમૃતસર જવા રવાના કરવામાં આવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-to-amritsar-air-india-flight-enters-pakistan-airspace-during-go-around-482580 ",
-    "time": "2026-06-24T15:05:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;quot;કેતન જીવતો છે, તેને કંઈ થયું નથી&amp;quot;",
-    "desc": "કેતન અગ્રવાલની હત્યાનો કેસ આજે દેશભરમાં ટોક ઓફ ધી ટાઉન છે. છોકરીઓ પ્રેમને પામવા માટે આ હદ સુધી જઈ શકે એની કલ્પના કરવી પણ મુશ્કેલ છે. એક કે બે વાર નહીં ભાવી પતિને મારવા આ હદે જાય એ વિચારીને હવે લગ્ન કરતાં ગભરાશે. આ એક કેસ નથી આ પહેલાં પણ લગ્ન ના કરવા માટે યુવતીઓએ છોકરાઓની હત્યા કરી હોવાના ઉદાહરણો છે. આ કેસે તો ભારે ચકચાર મચાવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-was-the-reaction-of-siya-after-hearing-ketan-is-alive-482556 ",
-    "time": "2026-06-24T14:59:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "EVMથી લઈને બોમ્બ ધમકી સુધી... દેશભરમાં ધમકીભર્યા ફેક ઇમેઇલ કરનાર અમદાવાદની મહિલા ઝડપાઈ",
-    "desc": "સરકારી કચેરીઓથી લઈને અગ્રણી સંસ્થાઓને 200થી વધુ ધમકીભર્યા ફેક ઇમેઇલ કરનાર મહિલાની આખરે દિલ્હી પોલીસે ધરપકડ કરી છે. આ મહિલા અમદાવાદની હોવાનું સામે આવ્યું છે. આ મામલે પોલીસે મહિલાની અટકાયત કરી આગળની તપાસ શરૂ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ahmedabad-woman-arrested-for-fake-threat-emails-to-government-offices-482577 ",
-    "time": "2026-06-24T14:04:32.000Z"
   },
   {
     "cat": "Tech",
@@ -369,15 +378,6 @@ const newsData_gu = [
     "time": "2026-06-24T06:41:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "દિલ્હી કેપિટલના આ ખેલાડી પર યુવતીનો અત્યંત ગંભીર આરોપ, લગ્નની લાલચ આપી સંબંધ બનાવ્યો",
-    "desc": "ભારતીય ક્રિકેટમાં વળી પાછો ભૂકંપ આવી ગયો છે. એક ભારતીય ક્રિકેટ પર યુવતીએ ગંભીર આરોપ લગાવ્યા છે. અત્રે જણાવવાનું કે થોડા સમય પહેલા આરસીબીના ખેલાડી યશ દયાલ ઉપર પણ આવા કઈક ગંભીર આરોપ લાગ્યા હતા. જેની તેની કરિયર ઉપર પણ અસર જોવા મળી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/big-news-serious-allegation-on-dc-wicketkeeper-batter-abishek-porel-482494 ",
-    "time": "2026-06-24T04:37:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ભારતીય શેરબજારમાં આવશે મોટો ભૂકંપ? દિગ્ગજ રોકાણકારની ડરામણી ભવિષ્યવાણી!",
     "desc": "પ્રખ્યાત રોકાણકાર અને લેખક માર્ક ફેબરના મતે, આગામી સમયગાળામાં ભારતીય શેરબજારમાં 20 ટકાનો ઘટાડો જોવા મળશે. ખાનગી પોર્ટલના અહેવાલ મુજબ, માર્ક ફેબર કહે છે કે ભારતમાં મંદીનો માહોલ પહેલેથી જ સ્થાપિત થઈ ગયો છે. તેમનું કહેવું છે કે કોર્પોરેટ કમાણી નિરાશાજનક બની શકે છે. ભારતીય બજાર હાલમાં ખૂબ મોંઘુ છે, જેના કારણે ખરીદી શરૂ કરવી અયોગ્ય બની ગઈ છે.",
@@ -439,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kinjal-dave-breakup-again-dhruvin-shah-pictures-were-removed-from-instagram-and-added-to-the-suspense-482347 ",
     "time": "2026-06-22T15:24:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "દરિયામાં સફર સાથે કમાણીની તક! રોકાણ કરતા પહેલાં જાણો કંપનીનો માસ્ટર પ્લાન",
-    "desc": "Cordelia Cruises ફક્ત એક Cruise Company તરીકે જ નહીં પરંતુ Travel Experience Brand તરીકે પણ પોતાનું સ્થાન બનાવી રહી છે. કંપની દાવો કરે છે કે ભારતમાં Cruise Tourism હાલમાં તેના પ્રારંભિક તબક્કામાં છે અને આગામી વર્ષોમાં ઝડપશે વિકસશે. IPOમાંથી મળેલી રકમનો ઉપયોગ નવા જહાજો ખરીદવા અને ક્ષમતા વધારવા માટે કરવામાં આવશે, જેનાથી કંપની સ્થાનિક અને આંતરરાષ્ટ્રીય બંને રૂટ પર તેની હાજરી મજબૂત બનાવી શકે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/cordelia-cruises-ipo-opportunity-to-earn-money-by-sailing-know-the-company-master-plan-before-investing-482330 ",
-    "time": "2026-06-22T13:09:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -630,15 +621,6 @@ const newsData_gu = [
     "time": "2026-06-20T07:03:21.000Z"
   },
   {
-    "cat": "World",
-    "title": "બિલ્લી પગે આવી રહી છે મોટી તબાહી! સેટેલાઈટે પકડી પાડી સમુદ્રની અંદર અત્યંત ડરામણી હલચલ",
-    "desc": "ક્લાઈમેટ ચેન્જની વાતો તો બધા કરે છે પરંતુ ચૂપચાપ જે તબાહીનું જોખમ ઊભું થયું છે તેનું શું? અહીં વાત થઈ રહી છે એટલાન્ટિક મેરિડિયોનલ ઓવરટર્નિંગ સર્ક્યુલેશન એટલે કે Amocની કે જેનો કરન્ટ ઝડપથી નબળો પડી રહ્યો છે. તેના કારણે શું ઈફેક્ટ થઈ શકે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-is-amoc-atlantic-meridional-overturning-circulation-its-effect-482040 ",
-    "time": "2026-06-20T03:35:11.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "શું ACના આઉટડોર યુનિટ પર પાણી નાખવાથી ખરેખર ઘટે છે વીજળીનું બિલ? જાણો સત્ય",
     "desc": "શું તમારુ AC કાળઝાળ ગરમીમાં તમારા રૂમને ઠંડક આપી શકતું નથી? તમે માત્ર આઉટડોર કોમ્પ્રેસર યુનિટ પર પાણીની એક ડોલ નાખીને કેવી રીતે ઠંડક વધારી શકો છો અને વીજળીનું બિલ પણ ઘટાડી શકો છો તે જાણો. અહીં સંપૂર્ણ પ્રક્રિયા અને સાવચેતીઓ.",
@@ -664,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shraddha-kapoor-upcoming-movie-eetha-leaked-teaser-goes-viral-watch-here-now-481974 ",
     "time": "2026-06-19T11:13:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કોકટેલ 2 ફિલ્મ જોવાનું વિચારી રહ્યો છો ? ટિકિટ બુક કરાવતાં પહેલા જાણી લો કેવી છે ફિલ્મ",
-    "desc": "આજે શાહિદ કપૂર, ક્રિતી સેનને અને રશ્મિકા મંદાનાની ફિલ્મ કોકટેલ 2 રિલીઝ થઈ ચુકી છે. આ ફિલ્મ જોઈ ચુકેલા લોકો સોશિયલ મીડિયા પર પોતાના વ્યુ શેર કરવા લાગ્યા છે. જો તમે પણ આ ફિલ્મ જોવા જવાનું વિચારી રહ્યા છો તો ટિકિટ બુક કરતાં પહેલા ફિલ્મ કેવી છે તેના વિશે જાણી લો જેથી પસ્તાવાનો વારો ન આવે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/cocktail-2-movie-review-in-gujarati-cocktail-2-public-social-media-reaction-481961 ",
-    "time": "2026-06-19T08:57:39.000Z"
   },
   {
     "cat": "Tech",

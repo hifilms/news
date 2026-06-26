@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "জাপান লড়বে ব্রাজিলের সঙ্গে, ডাচদের সামনে হাকিমিরা! রহস্য রোমাঞ্চে ভরপুর রাউন্ড অফ ৩২... রইল পুরো তালিকা",
+    "desc": "৪৮ দলের লড়াই দেখছে গ্রেটেস্ট 'শো অন আর্থ'। ১২টি গ্রুপ (প্রতি গ্রুপে ৪ দল) থেকে প্রতি গ্রুপের শীর্ষে শেষ করা দুই দলের সঙ্গেই তৃতীয় স্থানে থাকা দলগুলির মধ্যে সেরা ৮ট দল সরাসরি রাউন্ড অফ থার্টিটুতে জায়গা করে নেবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/round-of-32-full-schedule-fifa-world-cup-2026_660043.html ",
+    "time": "2026-06-26T10:20:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রামমন্দিরের দানের কোটি কোটি টাকা চুরি করেছে কারা? ধৃত ৮ কে কে? কীভাবে তছরুপ হয় নগদ? ট্রাস্টি প্রধান চম্পত রাইও...",
+    "desc": "Ram Mandir Donation Scam রামমন্দির ট্রাস্টের ক্যাম্প অফিসের ইন-চার্জ প্রকাশ গুপ্তা দাবি করেছেন, কাউন্টারে পাওয়া অনুদান কেবল রসিদের মাধ্যমেই নেওয়া হয়। তাই গরমিল হয়ে থাকলে,তা রসিদ কাউন্টারে নয়, বরং অনুদান বাক্সে জমা পড়া টাকা গণনার সময়ই হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/ram-mandir-donation-row-attendant-ex-bank-staff-the-man-with-key-who-are-the-8-arrested_660041.html ",
+    "time": "2026-06-26T09:57:08.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "বড় স্বস্তি ব্যবসায়ীদের! বাণিজ্যিক রান্নার গ্যাসে নিয়ন্ত্রণ বিধি তুলল সরকার, তবে দাম নিয়ে চিন্তা বহাল",
     "desc": "হরমুজ প্রণালী পুনরায় উন্মুক্ত হওয়ার পর বাণিজ্যিক এলপিজি সিলিন্ডার সরবরাহের ওপর থেকে সমস্ত নিষেধাজ্ঞা তুলে নিয়েছে কেন্দ্রীয় পেট্রোলিয়াম মন্ত্রক। ভারী শিল্পের ক্ষেত্রেও বিধিনিষেধ আংশিক শিথিল করা হয়েছে, তবে ঘরোয়া গ্যাসের নতুন কানেকশনের ওপর নিষেধাজ্ঞা বহাল থাকছে।",
@@ -61,15 +79,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/severe-heatwave-18-killed-2-children-found-dead-in-hot-car-as-france-reels-under-severe-heatwave_659656.html ",
     "time": "2026-06-23T12:39:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'বাবা, আমাকে বাঁচাও...' কোচিং সেন্টারের বিধ্বংসী আগুনে পুড়ে যেতে যেতেই আকুল আর্তি ছেলের",
-    "desc": "মর্মান্তিক এই দুর্ঘটনায় প্রাণ হারিয়েছেন ওই অ্যানিমেশন সেন্টারের আরেক কর্মী জয়নীল চক্রবর্তী (২৭)। তাঁর আত্মীয় বিশ্বনাথ সরকার জানান, দুপুর দুটো নাগাদ কাকিমাকে ফোন করে আতঙ্কিত জয়নীল চিৎকার করে বলেছিলেন, 'কাকিমা, আমরা আটকে পড়েছি, যেভাবেই হোক আমাদের বাঁচাও!' ফোন পেয়েই স্বজনেরা ঘটনাস্থলে ছোটেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/lucknow-fire-tragedy-papa-mujhe-bacha-lo-final-calls-reveal-horror-of-aliganj-building-blaze_659566.html ",
-    "time": "2026-06-22T18:29:56.000Z"
   },
   {
     "cat": "World",
@@ -151,14 +160,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actor-rahul-arunoday-banerjee-death-case-cid-investigation-suvendu-adhikari_658418.html ",
     "time": "2026-06-15T11:28:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'লুকিয়ে জিনিস নিচ্ছি কি না দেখতে অন্তর্বাসের ব্যাগ খুলিয়ে গুনিয়েছে, দেবলীনার মারাত্মক অভিযোগে তোলপাড়",
-    "desc": "দেবলীনা নন্দী এবং তাঁর পাইলট স্বামী প্রবাহ নন্দী-র বৈবাহিক জীবনের টানাপোড়েন ও আইনি বিচ্ছেদের খবর বিগত কয়েক মাস ধরেই বিনোদন জগতের অন্যতম চর্চার বিষয়। বছরের শুরুতে দেবলীনার আত্মহত্যার চেষ্টা এবং সম্প্রতি শ্বশুরবাড়ি থেকে জিনিসপত্র উদ্ধার করতে গিয়ে হেনস্থার অভিযোগের পর, কাঠগড়ায় দাঁড় করানো হয় স্বামী প্রবাহকে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/singer-debolina-nandy-alleges-ultimate-humiliation-while-retrieving-belongings-from-her-husband-house_658036.html ",
-    "time": "2026-06-12T18:26:19.000Z"
   }
 ];
