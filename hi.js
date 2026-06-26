@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Ousmane Dembele scores 32-minute hat-trick, France lead 3-1",
+    "title": "France's Ousmane Dembele sets new record with hat-trick, who will Norway face in round of 32?",
+    "desc": "France stormed to the top of Group I with a commanding 4-1 victory over Norway on the early hours of Friday, as Ousmane Dembele struck a sensational first-half hat-trick inside 32 minutes before Desire Doue...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/france-s-ousmane-dembele-sets-new-record-with-hat-trick-who-will-norway-face-in-round-of-32-2026-06-27-1046280",
+    "time": "2026-06-26T21:18:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France decimate Norway 4-1 after Dembele's hat-trick and goal from Doue",
     "desc": "France and Norway meet in a blockbuster Group I clash at the FIFA World Cup with contrasting priorities despite both sides arriving in strong form. While France have named a nearly full-strength starting XI, benching...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/hockey/when-and-where-to-watch-india-vs-pakistan-hockey-clash-in-fih-pro-league-on-tv-and-live-stream-2026-06-26-1046255",
     "time": "2026-06-26T14:39:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jemimah Rodrigues highlights India's mantra to beat Australia in Women's T20 World Cup 2026",
-    "desc": "India are in a tricky position in the T20 World Cup 2026. The group that featured the likes of Australia and South Africa along with India was always going to be a tough one to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-highlights-indias-mantra-to-beat-australia-in-womens-t20-world-cup-2026-2026-06-26-1046253",
-    "time": "2026-06-26T13:42:33.000Z"
   }
 ];

@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Cleaning Godavari a challenge ahead of 2027 Pushkarams",
+    "desc": "The waters of the sacred river of Akhanda Godavari have been declared unsuitable either for drinking or a holy dip due to contamination with effluents being released from industries and untreated sewage water, threatening the survival of the river ecosystem and forcing four lakh residents of the city to drink, while traditional fisherfolk abandoned the river for drinking, bathing on the Eastern bank.",
+    "img": "https://th-i.thgim.com/public/incoming/l0nifx/article71151736.ece/alternates/LANDSCAPE_1200/10237_26_6_2026_17_7_30_1_7.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cleaning-godavari-a-challenge-ahead-of-2027-pushkarams/article71150572.ece",
+    "time": "2026-06-26T21:47:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Stranger Things' stars Millie-David to REUNITE for next",
+    "desc": "Millie Bobby Brown and David Harbour are reuniting for a new Netflix series, playing estranged father and daughter. Harbour portrays a disgraced FBI agent pulled back into the field when his daughter, also an agent, vanishes. This marks their second on-screen father-daughter pairing after their iconic roles in 'Stranger Things'. Both actors are executive producers on the project, which Harbour described as a \"simple rupture-and-repair thing\" following past speculation.",
+    "img": "https://static.toiimg.com/photo/msid-132024804,imgsize-140012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/stranger-things-stars-millie-bobby-brown-and-david-harbour-to-reunite-to-play-estranged-father-daughter-in-new-ott-series-by-adolescence-co-creator-jack-thorne/articleshow/132024618.cms",
+    "time": "2026-06-26T21:45:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Abhishek and Karisma's wedding was called off over prenuptial agreement",
+    "desc": "Abhishek Bachchan and Karisma Kapoor's broken engagement continues to remain one of Bollywood's most talked-about relationships. While neither the Bachchan nor the Kapoor family has ever officially confirmed the exact reason behind the split, senior journalist Jyothi Venkatesh has now shared what he claims was one of the major factors behind the wedding being called off.",
+    "img": "https://static.toiimg.com/photo/msid-132024633,imgsize-63213.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-and-karisma-kapoors-wedding-was-called-off-over-prenuptial-agreement-claims-journo-babita-was-against-the-marriage/articleshow/132024628.cms",
+    "time": "2026-06-26T21:31:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup",
+    "desc": "The 2018 World Cup winners ‌hit the crossbar with Kylian Mbappe's thunderous drive after 25 ‌seconds before the captain ‌delivered ⁠a superb through ball for ⁠Ballon d'Or winner Dembele to fire them into the lead in the seventh minute",
+    "img": "https://th-i.thgim.com/public/incoming/dyueko/article71152181.ece/alternates/LANDSCAPE_1200/2026-06-26T194038Z_496670384_UP1EM6Q1INPUD_RTRMADP_3_SOCCER-WORLDCUP-NOR-FRA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/france-vs-norway-fifa-world-cup-updates-june-26-2026/article71152174.ece",
+    "time": "2026-06-26T21:18:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup, Iraq vs Senegal",
+    "desc": "Senegal, who ran riot after the break with goals ‌by Ismaila Sarr, Iliman Ndiaye ​and a double from Pape Gueye, must ⁠wait to see if they ⁠will advance as one of the ‌eight best third-placed teams.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/iraq-vs-senegal-world-cup-match-live-updates-june-26-2026/article71151938.ece",
+    "time": "2026-06-26T21:12:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nearly 6 crore names have been deleted in first yearof SIR of electoral rolls",
+    "desc": "Post Bihar SIR, its voters' list was pruned by nearly 65 lakh amid allegations by the Opposition and activists that the poll authority was working at the behest of the BJP to disenfranchise citizens for want of documents",
+    "img": "https://th-i.thgim.com/public/incoming/52avxq/article71150431.ece/alternates/LANDSCAPE_1200/DSC7096.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sir-completes-one-year-nearly-six-crore-names-deleted-so-far/article71150315.ece",
+    "time": "2026-06-26T20:37:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Bengal Congress to step up protests over NTA question paper leaks",
+    "desc": "Congress leadership in West Bengal will hold protests on August 1 demanding the resignation of Union Education Minister Dharmendra Pradhan as the part of nation wide programme ‘Chhatron Ki Goonj’ said Congress leader Prasenjit Bose",
+    "img": "https://th-i.thgim.com/public/incoming/x8ncc2/article71152143.ece/alternates/LANDSCAPE_1200/20260625249L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-congress-to-step-up-protests-over-nta-question-paper-leaks/article71151741.ece",
+    "time": "2026-06-26T20:33:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mithun and Sridevi 'lived together as a married couple for three months'",
+    "desc": "Rumours about Mithun Chakraborty and Sridevi's relationship have persisted for decades, with speculation ranging from a secret marriage to an eventual separation. While neither Mithun nor Sridevi ever publicly confirmed being married, senior entertainment journalist Jyothi Venkatesh has now revisited those claims, alleging that the two had briefly lived together as husband and wife.",
+    "img": "https://static.toiimg.com/photo/msid-132024512,imgsize-96690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mithun-chakraborty-and-sridevi-lived-together-as-a-married-couple-for-three-months-claims-senior-journalist-everyone-knew/articleshow/132024490.cms",
+    "time": "2026-06-26T20:20:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Myanmar replaces Afghanistan as key opium source, impact seen on India’s eastern border: NCB",
+    "desc": "Myanmar’s Golden Triangle has expanded as an opiate supplier and meth hub, with the drugs then flowing across a porous border into Manipur, Mizoram, and Nagaland; drone-based drug trafficking from Pakistan is also a rising concern",
+    "img": "https://th-i.thgim.com/public/incoming/dgjueb/article71151676.ece/alternates/LANDSCAPE_1200/20260626435L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/myanmar-replaces-afghanistan-as-key-opium-source-impact-seen-on-indias-eastern-border-ncb/article71151299.ece",
+    "time": "2026-06-26T19:51:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farah recalls defending Sajid during public fallout with Gowariker",
+    "desc": "Farah Khan looked back at one of the most talked-about controversies involving her brother Sajid Khan during a candid conversation with Shekhar Suman, explaining why she instinctively came to his defence. Addressing the incident itself, Farah clarified that her relationship with Ashutosh Gowariker has always remained warm.",
+    "img": "https://static.toiimg.com/photo/msid-132024429,imgsize-47817.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-recalls-defending-brother-sajid-khan-during-his-public-fallout-with-ashutosh-gowariker-sajid-was-always-my-responsibility/articleshow/132024419.cms",
+    "time": "2026-06-26T19:47:36.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Farah Khan recalls being 'devastated' after Tees Maar Khan failed",
     "desc": "Farah Khan is no stranger to delivering blockbuster entertainers. From Main Hoon Na and Om Shanti Om to Happy New Year, the filmmaker has enjoyed a successful directorial career. But Tees Maar Khan remains the one film that broke her winning streak when it released in 2010. While the film was panned by critics and underperformed at the box office, it has since gained a loyal cult following.",
@@ -180,24 +270,6 @@ const newsData_en = [
     "time": "2026-06-26T16:04:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Myanmar replaces Afghanistan as key opium source, impact seen on India’s eastern border: NCB",
-    "desc": "Myanmar’s Golden Triangle has expanded as an opiate supplier and meth hub, with the drugs then flowing across a porous border into Manipur, Mizoram, and Nagaland; drone-based drug trafficking from Pakistan is also a rising concern",
-    "img": "https://th-i.thgim.com/public/incoming/dgjueb/article71151676.ece/alternates/LANDSCAPE_1200/20260626435L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/myanmar-replaces-afghanistan-as-key-opium-source-impact-seen-on-indias-eastern-border-ncb/article71151299.ece",
-    "time": "2026-06-26T16:00:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tourists continue dangerous acts on road in Munnar",
-    "desc": "Despite repeated warnings and police cases, they continue riding atop vehicles and with doors open on the winding roads of the hill town; viral video shows a group of youths riding their SUV dangerously near Chithirapuram",
-    "img": "https://th-i.thgim.com/public/incoming/rc2hzm/article71151631.ece/alternates/LANDSCAPE_1200/27tv%20car.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/tourists-continue-dangerous-acts-on-road-in-munnar/article71150616.ece",
-    "time": "2026-06-26T15:45:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bell and Trott lent me their bats; and I said, my gosh, I would like to make a comeback: Dennis Amiss",
     "desc": "The 83-year-old Englishman has had a significant influence on cricket’s evolution, going where no man had gone before in ODIs and mainstreaming protective headgear. In this interview, he talks about living through a game-changing era, appreciating modern cricket, making big hundreds, and being tempted to return when he first wielded a modern bat",
@@ -261,15 +333,6 @@ const newsData_en = [
     "time": "2026-06-26T14:45:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'What is going on in madrasas?' UP dy CM questions Babri Masjid donations amid Ram Temple row",
-    "desc": "Uttar Pradesh Deputy Chief Minister Brajesh Pathak downplayed the Ram Mandir donation controversy, questioning why funds for the Babri Masjid aren't scrutinized. He accused opposition parties of appeasement politics and attacking Sanatan culture to win Muslim votes. Pathak also alleged illegal activities and terror funding in madrasas. An FIR has been lodged against eight individuals in the Ram Temple donation case, with an SIT investigating the matter.",
-    "img": "https://static.toiimg.com/photo/msid-132018672,imgsize-70160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/what-is-going-on-in-madrasas-up-dy-cm-questions-babri-masjid-donations-amid-ram-temple-row/articleshow/132018661.cms",
-    "time": "2026-06-26T14:30:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Birthday boy Shivam Dube joins elite club, becomes only the fourth Indian to...",
     "desc": "Shivam Dube celebrated his 33rd birthday with a remarkable T20I wicket on his special day against Ireland in Belfast. He became the fourth Indian bowler to achieve this rare feat, joining an elite club of Indian stars. Dube's impactful spell contributed to India's performance in the high-scoring match, showcasing his growing value as a dual-role player.",
@@ -313,24 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/adam-mckay-and-will-ferrells-fall-out-vice-star-reveals-they-had-a-great-run-open-to-working-together-again/articleshow/132017541.cms",
     "time": "2026-06-26T13:47:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'BJP gang can't evade God's audit': Akhilesh after 8 arrests in Ram Temple donation row",
-    "desc": "Akhilesh claimed the unravelling of the case was only \"chapter one of the reckoning\" and that the fallout would only intensify, with the BJP and its affiliates, \"including the RSS\", beginning to \"expose one another\". \"Along with the PM CARES Fund, even unregistered entities will now have to account for their actions. The 'BJP and the gang' will not escape the God's audit,\" he said.",
-    "img": "https://static.toiimg.com/photo/msid-132017473,imgsize-112492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-gang-cant-evade-gods-audit-akhilesh-after-8-arrests-in-ram-temple-donation-row/articleshow/132016891.cms",
-    "time": "2026-06-26T13:32:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'He has capability': Raut hints at bigger role for Aaditya Thackeray amid Sena split",
-    "desc": "Shiv Sena (UBT) MP Sanjay Raut indicated a larger role for Aaditya Thackeray, citing his capability to lead the party forward amidst its second split. This comes as six party MPs recently joined the rival faction. Uddhav Thackeray is set to tour affected constituencies to connect with voters and party workers. Raut refrained from calling defectors 'rebels', alleging they were motivated by financial gains.",
-    "img": "https://static.toiimg.com/photo/msid-132017426,imgsize-100345.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/he-has-capability-raut-hints-at-bigger-role-for-aaditya-thackeray-amid-sena-split/articleshow/132017359.cms",
-    "time": "2026-06-26T13:31:16.000Z"
   },
   {
     "cat": "Sports",
@@ -396,15 +441,6 @@ const newsData_en = [
     "time": "2026-06-26T12:34:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Impartial and independent': New NCERT textbook lauds judiciary months after 'judicial corruption' chapter row",
-    "desc": "A new NCERT Class 9 textbook highlights the judiciary as an impartial institution safeguarding rights, months after the Supreme Court's strong objection to a Class 8 textbook's section on alleged judicial corruption. The Supreme Court had previously called the earlier content a conspiracy to defame the judiciary, leading to its withdrawal and a ban on its creators, which was subsequently lifted.",
-    "img": "https://static.toiimg.com/photo/msid-132016441,imgsize-102522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/impartial-and-independent-new-ncert-textbook-lauds-judiciary-months-after-judicial-corruption-chapter-row/articleshow/132016122.cms",
-    "time": "2026-06-26T12:34:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Pulkit Samrat reveals Salman Khan's advice before his debut changed his outlook",
     "desc": "Pulkit Samrat admires Salman Khan for alleviating his nervousness during his acting debut, highlighting the superstar's wisdom about Bollywood's unpredictable nature. More than just words of encouragement, Pulkit absorbed essential lessons in dedication and humility from Salman's unwavering dedication to his craft and his profound respect for family values, motivating him to pursue excellence and treasure personal connections.",
@@ -430,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-reserves-rise-to-672-59-billion-after-gold-holdings-jump/articleshow/132016148.cms",
     "time": "2026-06-26T12:20:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Maha dacoity at Ram Temple': Kejriwal claims 'powerful demons' involved in theft; CM Yogi hits back",
-    "desc": "Aam Aadmi Party chief Arvind Kejriwal has accused the Uttar Pradesh government of shielding powerful individuals in the alleged embezzlement of Ram Mandir donations. He claimed a \"maha dacoity\" occurred, with influential figures involved and the investigation being controlled by the accused. Meanwhile, UP CM Yogi Adityanath criticized Kejriwal's visit, stating Delhi has received only corruption from him.",
-    "img": "https://static.toiimg.com/photo/msid-132016100,imgsize-98186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/maha-dacoity-at-ram-temple-kejriwal-claims-powerful-demons-involved-in-theft-cm-yogi-hits-back/articleshow/132016108.cms",
-    "time": "2026-06-26T12:17:13.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +495,6 @@ const newsData_en = [
     "time": "2026-06-26T12:03:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ll about Sarah Jessica Parker’s rise to success",
-    "desc": "Sarah Jessica Parker's rise from financial insecurity to a net worth of USD 200 million is a testament to her resilience. Raised with eight siblings in a challenging environment, she transformed struggles into ambition. Parker often took on roles she found unfulfilling just to pay the bills, yet her unwavering focus on her dreams propelled her from a child actor into a celebrated global icon, embodying the spirit of perseverance.",
-    "img": "https://static.toiimg.com/photo/msid-132015447,imgsize-146844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/food-stamps-to-usd-200-million-net-worth-how-sarah-jessica-parker-rose-from-8-sibling-welfare-household-to-tvs-highest-paid-actress/articleshow/132015410.cms",
-    "time": "2026-06-26T11:56:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ben Stokes scripts history, becomes only second after Kallis to...",
     "desc": "Ben Stokes made a triumphant return to Test cricket, achieving a historic all-round milestone of over 7,000 runs and 250 wickets, a feat matched only by Jacques Kallis. His impactful bowling display against New Zealand, including a crucial breakthrough and four wickets, revitalized England's efforts after a challenging start. This performance followed a brief suspension for a curfew breach, showcasing Stokes' immediate influence on the field.",
@@ -487,29 +505,11 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Prabhas reveals 'Baahubali' success cost him years of sleep",
-    "desc": "Pan-India star Prabhas confessed that the immense success of 'Baahubali' led to sleepless nights and years of stress. He revealed the pressure to choose subsequent projects was immense, with discussions spanning grand visual spectacles to different genres. The blockbuster, he stated, significantly boosted his career's financial standing, enabling larger-budget films and paving the way for his current slate of ambitious projects.",
-    "img": "https://static.toiimg.com/photo/msid-132014769,imgsize-76924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-reveals-baahubali-success-cost-him-years-of-sleep-those-were-the-most-stressful-years-of-my-life/articleshow/132014689.cms",
-    "time": "2026-06-26T11:21:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "SRK's manager Pooja once managed Deepika, helped her land her first film",
     "desc": "Director Indrajit Lankesh reminisces about discovering Deepika Padukone for his 2006 Kannada film 'Aishwarya', her debut before 'Om Shanti Om'. He recalls her immediate conviction during a brief lift meeting, highlighting her innate confidence and screen presence. Lankesh foresaw her global stardom, even predicting a Hollywood career. He also clarified that 'Om Shanti Om' casting happened post 'Aishwarya's' successful 100-day run.",
     "img": "https://static.toiimg.com/photo/msid-132014718,imgsize-371910.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-manager-pooja-dadlani-once-managed-deepika-padukone-helped-her-land-her-debut-film-she-had-the-height-the-look-the-screen-presence/articleshow/132013895.cms",
-    "time": "2026-06-26T11:21:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Telugu OTT release ‘Isakapatnam’ drops first trailer",
-    "desc": "The newly released trailer for 'Isakapatnam,' a Telugu thriller series, dives into a riveting crime drama that unravels the tumultuous relationship between a powerful figure, Naidu, and his fiercely independent daughter Bharati. Set against the backdrop of a tumultuous port town, the series promises high-stakes rivalry and intense conflict within its seven episodes, premiering on Prime Video on July 2.",
-    "img": "https://static.toiimg.com/photo/msid-132014706,imgsize-67218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/telugu/isakapatnam-trailer-out-samuthirakani-and-aishwarya-rajesh-clash-in-a-brutal-father-daughter-telugu-crime-drama-series/articleshow/132014603.cms",
     "time": "2026-06-26T11:21:16.000Z"
   },
   {
@@ -529,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/lets-play-like-lions-shreyas-iyers-first-message-as-indias-new-t20i-captain/articleshow/132014223.cms",
     "time": "2026-06-26T11:20:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay REVEALS Nana, Anil's absence from 'Welcome To The Jungle'",
-    "desc": "Akshay Kumar has ignited excitement for a potential 'Welcome' franchise reunion, hinting that Nana Patekar and Anil Kapoor might return for 'Welcome 4'. He described the series as a family and expressed hope for the original cast's comeback. While Patekar and Kapoor are absent from the latest installment, 'Welcome To The Jungle', their support for the film was confirmed by director Ahmed Khan, who also suggested future collaborations.",
-    "img": "https://static.toiimg.com/photo/msid-132014592,imgsize-150819.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-reveals-nana-patekar-anil-kapoors-absence-from-welcome-to-the-jungle-says-you-will-find-them-in-welcome-4/articleshow/132014595.cms",
-    "time": "2026-06-26T11:13:18.000Z"
   },
   {
     "cat": "Business",
@@ -594,24 +585,6 @@ const newsData_en = [
     "time": "2026-06-26T09:50:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India deploys two C17s to quake-hit Venezuela with medical supplies, relief material",
-    "desc": "India has launched 'Operation Amistad' to aid earthquake-stricken Venezuela, dispatching two Indian Air Force (IAF) C-17 aircraft. These planes carry a 41-member Army field hospital unit and over 35 tonnes of vital relief supplies, including medicines and advanced medical equipment like BHISHM Cubes. This humanitarian mission underscores India's commitment to supporting Venezuela during its challenging post-earthquake recovery efforts.",
-    "img": "https://static.toiimg.com/photo/msid-132012407,imgsize-545193.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/operation-amistad-india-deploys-two-c17s-to-quake-hit-venezuela-with-medical-supplies-relief-material/articleshow/132012435.cms",
-    "time": "2026-06-26T09:43:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Japanese PM Takaichi to undertake first official visit to India to take part in 16th India-Japan Annual Summit",
-    "desc": "The Ministry of External Affairs (MEA) on Friday confirmed the visit of Japanese Prime Minister Sanae Takaichi to India as part of her three-day official visit to the country, noting that during her visit, the Japanese PM will take part in the 16th India-Japan Annual Summit.",
-    "img": "https://static.toiimg.com/photo/msid-132012471,imgsize-94110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/japanese-pm-takaichi-to-undertake-first-official-visit-to-india-to-take-part-in-16th-india-japan-annual-summit/articleshow/132012412.cms",
-    "time": "2026-06-26T09:40:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kangana Ranaut reacts to Pune's Ketan Agarwal death case: 'Parents can't be blamed'",
     "desc": "A Pune man's death, initially ruled an accident, is now a murder investigation. His fiancée and her alleged partner are accused of his killing. Amidst public discussion, Kangana Ranaut commented on parental responsibility, highlighting the significant impact of social media, AI, and peer groups on individuals' choices, suggesting families shouldn't be solely blamed for their children's actions.",
@@ -619,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-reacts-to-punes-ketan-agarwal-death-case-as-she-shares-siya-goyals-fathers-video-parents-cant-be-blamed/articleshow/132012347.cms",
     "time": "2026-06-26T09:35:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Influential people' spared: Shankaracharya targets Ram Temple probe, calls BJP's Hindutva 'fake'",
-    "desc": "Swami Avimukteshwaranand Saraswati has questioned the FIR in the Ram Temple donation embezzlement case, alleging it targets only lower-level employees while sparing those responsible for larger wrongdoing. He criticized the Shri Ram Janmabhoomi Teerth Kshetra Trust's functioning, claiming it disregarded religious traditions and was politically influenced. The seer also accused the BJP of having \"fake\" Hindutva, urging voters to support candidates committed to Sanatan Dharma.",
-    "img": "https://static.toiimg.com/photo/msid-132012320,imgsize-1278371.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/influential-people-spared-shankaracharya-targets-ram-temple-probe-calls-bjps-hindutva-fake/articleshow/132012228.cms",
-    "time": "2026-06-26T09:30:43.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
     "time": "2026-06-23T07:14:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AI is helping patients understand cancer but misunderstand doctors",
+    "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/1qs3pd/article71100260.ece/alternates/LANDSCAPE_1200/angiola-harry-SJCalEw-1LM-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
+    "time": "2026-06-21T10:16:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
