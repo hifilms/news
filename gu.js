@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "હવે Maruti લાવી રહી છે સૌથી નાની અને સૌથી સસ્તી SUV, ટાટા પંચને આપશે ટક્કર",
+    "desc": "જો કંપની શાનદાર ફીચર્સ અને મલ્ટી-ફ્યુઅલ વિકલ્પો સાથે આ નવી SUV લોન્ચ કરે છે, તો તે એન્ટ્રી-લેવલ SUV સેગમેન્ટમાં મોટો ફેરફાર લાવી શકે છે. ત્યારે આ કારની કિંમત કેટલી હશે અને કેવા ફીચર્સ હોઈ શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-smallest-and-cheapest-micro-suv-know-the-price-and-features-482877 ",
+    "time": "2026-06-27T12:43:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણે કરાવ્યો હતો સિયા અને ચેતનનો પરિચય? ક્રિકેટના મેદાનથી શરૂ થઈ હતી બન્નેની પ્રેમ કહાની, ભાઈએ કર્યા મોટા ખુલાસા",
+    "desc": "પોલીસ સૂત્રોના જણાવ્યા અનુસાર, સિયા ગોયલના ભાઈ સાહિલે જણાવ્યું કે, તે 2024માં ચેતન સાથે ક્રિકેટ રમતો હતો. આ દરમિયાન તેણે સિયાનો પરિચય ચેતન સાથે કરાવ્યો હતો. તેણે એમ પણ કહ્યું કે, તેણે સિયાને ચેતનથી અંતર જાળવી રાખવા માટે કહ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-introduced-siya-and-chetan-their-love-story-started-on-the-cricket-field-brother-makes-big-revelations-482872 ",
+    "time": "2026-06-27T11:49:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બેશરમ અને ગંદી! પ્લેનમાં આવીને &amp;#039;વેડિંગ લોકેશન&amp;#039; બતાવ્યું અને પછી... સિયા પ્રત્યે તમારું માન ઘટાડી દેશે આ ખુલાસો!",
+    "desc": "બેશરમીની તો કોઈ હદ હોય, સિયા લગ્ન પહેલાં ચેતન સાથે જોધપુર ફરવા માટે ગઈ હતી અને 2 દિવસ ફાઈવ સ્ટાર હોટલમાં રોકાઈ હતી. આટલું ઓછું હોય એમ જે હવેલીમાં એ લગ્ન કરવાની હતી એ હવેલી જોવા માટે પણ ચેતન સાથે ફ્લાઈટમાં જઈને એક જ દિવસમાં રિટર્ન આવી ગઈ હતી. એને ખબર હતી કે કેતન સાથે તેના લગ્ન થવાના છે આમ છતાં એ ચેતન સાથે ફલાઈટમાં ઉડાઉડ કરતી હતી. જુઓ આ ચોંકાવનારો અહેવાલ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/siya-goyal-boyfriend-chetan-chaudhary-jodhpur-mehrangarh-fort-and-udaypur-hotel-visit-482863 ",
+    "time": "2026-06-27T11:29:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સિયાના ભૂતકાળે ખોલ્યા હત્યાના રહસ્યો! ચેતન સાથેની રાજસ્થાન ટ્રિપથી તપાસમાં આવ્યો મોટો વળાંક",
+    "desc": "પુણે કેતન અગ્રવાલ હત્યા કેસની તપાસમાં એક નવો ખુલાસો થયો છે. પોલીસનો દાવો છે કે મુખ્ય આરોપી સિયા ગોયલ લગ્ન કરવા માંગતી ન હતી. તેણી માનતી હતી કે જો કેતન અગ્રવાલની હત્યા થાય, તો તેણીને ઓછામાં ઓછા ત્રણ વર્ષ સુધી લગ્ન વિશે વિચારવું પડશે નહીં. પોલીસ એમ પણ કહે છે કે સિયા અને તેના બોયફ્રેન્ડ ચેતન ચૌધરીએ કથિત રીતે હત્યાનું કાવતરું ઘડ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/sia-past-reveals-murder-secrets-rajasthan-trip-with-chetan-brings-a-big-twist-in-the-investigation-know-482859 ",
+    "time": "2026-06-27T11:06:46.000Z"
+  },
+  {
     "cat": "Sports",
-    "title": "બીજી T20માં બદલાઈ જશે ભારતની પ્લેઇંગ-11, આ 3 ખેલાડીઓનું કપાશે પત્તુ",
+    "title": "બીજી T20માં બદલાઈ જશે ટીમ ઇન્ડિયાની પ્લેઇંગ-11 ! સૂર્યવંશીની સાથે આ બે ખેલાડીઓનું ડેબ્યૂ, કોનું કપાશે પત્તુ ?",
     "desc": "ભારતીય ક્રિકેટ ટીમ રવિવારે બીજી T20 મેચમાં આયર્લેન્ડ સામે ટકરાવાની છે. આ મેચ માટે ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવનમાં કેટલાક મોટા ફેરફારો થઈ શકે છે. ત્યારે કોને તક મળે છે અને કોનું પત્તુ કપાય છે, તેના વિશે આ લેખમાં જાણીશું.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-ire-2nd-t20-team-india-probable-playing-11-vaibhav-sooryavanshi-debut-482857 ",
-    "time": "2026-06-27T10:47:07.000Z"
+    "time": "2026-06-27T11:02:12.000Z"
   },
   {
     "cat": "Politics",
@@ -261,15 +297,6 @@ const newsData_gu = [
     "time": "2026-06-26T06:15:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સિયાનું સૌથી ડરામણું સત્ય સામે આવ્યું! પહેલીવાર માતા-પિતાએ આપ્યું નિવેદન, કર્યો હચમચાવતો ખુલાસો",
-    "desc": "પુણેના ઐતિહાસિક મહત્વ ધરાવતા લોહાગઢ કિલ્લામાં એક એવી ઘટના ઘટી જેણે આખા દેશને હચમચાવી નાખ્યો છે. સિયા નામની યુવતીએ તેના જ મંગેતર કેતન અગ્રવાલની ઠંડા કલેજે હત્યા કરી નાખી અને આ ઘટનાને અકસ્માતમાં ખપાવવાની પૂરજોશ કોશિશ પણ કરી પરંતુ પકડાઈ ગઈ. સિયા અને તેના પ્રેમી ચેતને આ ઘટનાને અંજામ આપ્યો હોવાની વાતો સામે આવી છે. આ સમગ્ર મામલે હવે સિયાના પિતા અને માતાનું નિવેદન પણ આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-case-latest-update-siya-goyal-mother-and-father-statement-482701 ",
-    "time": "2026-06-26T04:41:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ફૂટબોલ વર્લ્ડ કપમાં મોટો ઉલટફેર! ઈક્વાડોરે 4વાર ચેમ્પિયન બનેલા જર્મનીને હરાવી નોકઆઉટમાં કર્યો પ્રવેશ",
     "desc": "હાલ ફૂટબોલ વર્લ્ડ કપ ચાલે છે. ગ્રુપ ઈની ઈક્વાડોર અને જર્મની સાથેની મેચમાં ઈક્વાડોરે ઈતિહાસ રચતા જર્મનીને 2-1થી હરાવી દીધુ અને નોકઆઉટ માટે જગ્યા પાક્કી કરી લીધી. એક સમયે એવું લાગતું હતું કે જર્મની મેચ જીતી જશે પરંતુ ઈક્વાડોરે મેચમાં એવી વાપસી કરી કે ઈતિહાસ રચાઈ ગયો.",
@@ -277,24 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-update-big-upset-ecuador-beats-germany-482703 ",
     "time": "2026-06-26T04:33:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દેશના ખુફિયા તંત્રમાં મોટો બદલાવ, તેલંગાણા કેડરના મહેશ દીક્ષિત બન્યા નવા IB ચીફ; તપન ડેકાનું લેશે સ્થાન",
-    "desc": "દેશના ખુફિયા તંત્રમાં મોટો બદલાવ કરવામાં આવ્યો છે. તેલંગાણા કેડરના આઈપીએસ (IPS) અધિકારી મહેશ દીક્ષિતને નવા આઈબી (IB) ચીફ બનાવવામાં આવ્યા છે. તેઓ વર્તમાન ચીફ તપન ડેકાનું સ્થાન લેશે, જેમનો કાર્યકાળ પૂરો થઈ ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-change-in-the-country-intelligence-system-mahesh-dixit-of-telangana-cadre-becomes-the-new-ib-chief-will-replace-tapan-deka-482690 ",
-    "time": "2026-06-25T18:05:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રામ મંદિરમાં ચઢાવા ચોરી મામલે મોટા સમાચાર, 8 લોકો સામે FIR દાખલ, SIT તપાસ બાદ કાર્યવાહી",
-    "desc": "અયોધ્યા રામ મંદિરમાં ચઢાવા ચોરી મામલે FIR નોંધવામાં આવી છે. શ્રી રામ જન્મભૂમિ તીર્થ ક્ષેત્ર ટ્રસ્ટની ફરિયાદ અને SITની ભલામણ બાદ FIR દાખલ કરવામાં આવી છે. પ્રાથમિક તપાસ દરમિયાન બહાર આવેલા તથ્યોના આધારે આ પગલું લેવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/fir-registered-in-ram-mandir-donation-theft-case-after-sit-investigation-482669 ",
-    "time": "2026-06-25T16:23:41.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/there-will-be-a-change-in-the-da-formula-central-employees-are-eyeing-the-8th-pay-commission-482449 ",
     "time": "2026-06-23T12:04:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીમાં ભૂકંપ, એક ઝટકે ભાવમાં જબરદસ્ત મોટો ઘટાડો, જાણો આજના કેરેટ પ્રમાણે લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીમાં 15 જૂનથી જે કડાકાનો માહોલ જોવા મળ્યો છે તે હજુ પણ ચાલું છે. આજે પણ સોનું અને ચાંદી બંને ખુબ ગગડ્યા છે. બજારના જાણકારોનું કહેવું છે કે ડોલર, અમેરિકામાં વ્યાજ દરના બદલાતા સંકેત અને ઔદ્યોગિક ડિમાન્ડમાં નબળાઈ તથા મિડલ ઈસ્ટની અનિશ્ચિતતાઓ આ કડાકાના માહોલ માટે જવાબદાર હોઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/huge-price-drop-in-gold-and-silver-today-check-ibja-mcx-latest-rate-aaj-no-sona-no-bhav-482420 ",
-    "time": "2026-06-23T08:37:48.000Z"
   },
   {
     "cat": "World",
@@ -700,14 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/what-did-a-25-year-old-indian-boy-do-in-ai-that-elon-musk-offered-him-60-billion-dollar-481813 ",
     "time": "2026-06-17T13:54:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "₹5.63 લાખ કિંમત અને 31 કિમીની માઇલેજ, વેચાણમાં નંબર-1 બની આ કાર",
-    "desc": "મે 2026મા Maruti Suzuki Baleno દેશની સૌથી વધુ વેચાતી હેચબેક કાર બની. તેને 10396 નવા ગ્રાહક મળ્યા છે. વેગનઆર આ મામલે બીજા સ્થાને રહી અને સ્વિફ્ટ ત્રીજા સ્થાને. બલેનો પોતાની ડિઝાઇન, ફીચર્સ અને શાનદાર માઇલેજને કારણે ગ્રાહકોની પસંદ બનેલી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/priced-at-5-63-lakh-and-mileage-of-31-km-maruti-suzuki-baleno-became-number-1-in-sales-481791 ",
-    "time": "2026-06-17T09:42:43.000Z"
   }
 ];

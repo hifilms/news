@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বড় ধাক্কা দিল্লিতে: অর্থমন্ত্রীর পদ থেকে সরছেন নির্মলা সীতারমন, পদ যাচ্ছে শিক্ষামন্ত্রীরও? তোলপাড় দেশ-- নতুন চমক মন্ত্রিত্বে",
+    "desc": "দীর্ঘদিন ধরে দেশের অর্থ মন্ত্রকের মতো গুরুত্বপূর্ণ দায়িত্ব সামলানো নির্মলা সীতারামনকে এবার নতুন সাংগঠনিক বা অন্য কোনও গুরুত্বপূর্ণ দায়িত্বে স্থানান্তরিত করা হতে পারে। রাজনৈতিক অলিন্দে গুঞ্জন, তাঁকে উত্তরপ্রদেশ থেকে রাজ্যসভার (Rajya Sabha) শূন্য আসনে প্রার্থী করে সংসদে পাঠানো হতে পারে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/modi-cabinet-reshuffle-shaktikanta-das-tipped-to-be-new-finance-minister-nirmala-sitharaman-may-step-down_660170.html ",
+    "time": "2026-06-27T12:55:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "কেন ফ্রান্সের বিরুদ্ধে খেললেন না হাল্যান্ড? ফরাসিদের বিরুদ্ধে নরওয়ের স্ট্র্যাটেজির আসল রহস্য ফাঁস কোচের",
+    "desc": "ফ্রান্সের বিরুদ্ধে বিশ্বমঞ্চের হাই-ভোল্টেজ ম্যাচে নরওয়ের প্রথম একাদশে আর্লিং হাল্যান্ড এবং অধিনায়ক মার্টিন ওডেগার্ডের অনুপস্থিতি ফুটবল ভক্তদের স্তম্ভিত করেছিল। উসমান দেম্বেলের হ্যাটট্রিকে নরওয়ে ৪-১ গোলে ম্যাচটি হেরে যাওয়ার পর কোচ স্টালে সোলবাকেন তাঁর এই বড় জুয়া বা ট্যাকটিক্যাল সিদ্ধান্তের সপক্ষে মুখ খুলেছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/why-erling-haaland-did-not-play-france-norway-coach-solbakken-explains-changes_660168.html ",
+    "time": "2026-06-27T12:02:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রাজ্য জুড়ে বাতিল টেট পরীক্ষা, বিপাকে ৪ লক্ষ পরীক্ষার্থী: কবে হবে? কী হবে এবার? সরকারের বড় ঘোষণা",
+    "desc": "কাউন্সিলের পক্ষ থেকে স্পষ্ট জানিয়ে দেওয়া হয়েছে যে, আগামী দিনে যখন এই পরীক্ষার নতুন সূচি ঘোষণা করা হবে, তখন পূর্বনিবন্ধিত পরীক্ষার্থীদের আর কোনো নতুন করে রেজিস্ট্রেশন করতে হবে না এবং কোনও অতিরিক্ত আবেদন ফি-ও দিতে হবে না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/maharashtra-tet-2026-cancelled-hours-before-exam-due-to-paper-leak-in-thane-4-lakh-candidates-affected_660154.html ",
+    "time": "2026-06-27T10:56:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কেতন খুনে সিয়ার স্বীকারোক্তিতে সব ওলটপালট! এমনও হয়? উইগের জন্যই... তাজ্জব খোদ পুলিসও",
+    "desc": "কেতন উইগ পরত সেটা জানতেন সিয়া। বিষয়টি নিয়ে তিনি মোটেই খুশি ছিলেন না বলেও বেশ কয়েকটি সূত্রে সেই তথ্য প্রকাশ্যে আসতে শুরু করে। পরিবারের পাল্টা দাবি, কেতনের মাথায় হেয়ারপ্যাচ ছিল। আর সেকথা সিয়ার পরিবারকে জানিয়েছিল কেতনের পরিবার।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/siya-goyal-killed-fiance-over-his-hair-loss-wig-use-what-his-family-said_660153.html ",
+    "time": "2026-06-27T10:55:07.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ইতিহাস ছুঁল কেপ ভার্দে: চিলির ২৮ বছরের রেকর্ড ছুঁয়ে বিশ্বকাপের নকআউটে 'ব্লু শার্কস', সামনে এবার আর্জেন্টিনা",
     "desc": "ইতিহাস কীভাবে লিখতে হয়, তা দেখিয়ে দিল আফ্রিকার ছোট্ট দেশ কেপ ভার্দে! সৌদি আরবকে ০-০ গোলে রুখে দিয়ে বিশ্বকাপের ইতিহাসে ক্ষুদ্রতম দেশ হিসেবে নকআউট পর্বে চলে গেল তারা। স্পেন, উরুগুয়ে এবং সৌদি আরব—গ্রুপ পর্বের ৩টি ম্যাচই ড্র করে ১৯৯৮ সালের চিলির রেকর্ড স্পর্শ করল 'ব্লু শার্কস'রা। আর এবার? আগামী ৩ জুলাই শেষ ৩২-এর মহালড়াইয়ে তাদের সামনে বিশ্বচ্যাম্পিয়ন আর্জেন্টিনা! মেসির দলের বিরুদ্ধে এই পুচকে দেশের রূপকথা কি টিকবে?",
@@ -117,15 +153,6 @@ const newsData_bn = [
     "time": "2026-06-24T16:38:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "দেরিতে বর্ষা, এল নিনোর দাপটে পুড়ছে রাজ্য: সারা রাজ্যে বদলে গেল স্কুলের সময়সূচী, জেনে নিন নতুন রুটিন ও মিড-ডে মিল টাইমিং",
-    "desc": "রাজ্যের শিক্ষা দফতরের পক্ষ থেকে সমস্ত প্রাথমিক, মাধ্যমিক এবং উচ্চ মাধ্যমিক স্কুলের সময়সূচীতে বড়সড় পরিবর্তন আনা হয়েছে। গত ২২শে জুন থেকে এই নতুন নির্দেশিকা কার্যকর করা হয়েছে এবং এটি আগামী ৩০শে জুন পর্যন্ত বলবৎ থাকবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bihar-government-issues-new-school-timing-guidelines-amid-severe-heat-conditions_659810.html ",
-    "time": "2026-06-24T14:45:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "একলাফে অবিশ্বাস্য ৪০০% বাড়ল ভিসার খরচ! ভারতীয়রা কি আর সাগর পেরোবে না? দেখে নিন ১ জুলাই থেকে কী বদল",
     "desc": "জাপান সরকার বলছে, ১৯৭৮ সালে বর্তমান ভিসা ফি চালু করে। তার পর থেকে রয়েছে মুদ্রাস্ফীতি এবং বিনিময় হারের ওঠানামার প্রতিফলন। কিন্তু সেই হিসেবে ভিসা ফি-তে সংশোদন হয়নি। এবার তা পূরণ করার লক্ষ্যেই এই ফি সংশোধন করা হয়েছে। প্রায় ৫০ বছরে প্রথমবারের মতো ভিসা ফি সংশোধন জাপানে।",
@@ -214,50 +241,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actor-rahul-arunoday-banerjee-death-case-cid-investigation-suvendu-adhikari_658418.html ",
     "time": "2026-06-15T11:28:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
   }
 ];
