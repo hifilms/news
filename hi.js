@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sarvesh Kushare breaks national record, qualifies for Asian Games; Ancy Sojan breaks 22-year-old record",
+    "desc": "Sarvesh Kushare rewrote the Indian men's high jump record after clearing 2.31m to win the gold medal at the 65th National Inter-State Senior Athletics Championships in Bhubaneswar on Saturday, June 27. With that, the athlete...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sarvesh-kushare-breaks-national-record-qualifies-for-asian-games-ancy-sojan-breaks-22-year-old-record-2026-06-27-1046356",
+    "time": "2026-06-27T15:35:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Auqib Nabi dominates Sri Lanka A with four-wicket haul, India A take 170-run lead after Day 3",
+    "desc": "Jammu and Kashmir pacer Auqib Nabi Dar proved his mettle in the first unofficial opening Test against Sri Lanka A in Galle. Nabi bowled a decisive spell with the second new ball, triggering a dramatic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-dominates-sri-lanka-a-with-four-wicket-haul-india-a-take-170-run-lead-after-day-3-2026-06-27-1046353",
+    "time": "2026-06-27T15:03:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cabo Verde head coach opens up on taking on champions Argentina in FIFA World Cup 2026 knockouts",
     "desc": "Cabo Verde has seemingly done the impossible, as the side has qualified for the knockout stages of the ongoing FIFA World Cup 2026. With three matches played, the side has managed to register three straight...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/france-s-ousmane-dembele-sets-new-record-with-hat-trick-who-will-norway-face-in-round-of-32-2026-06-27-1046280",
     "time": "2026-06-26T21:18:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "France decimate Norway 4-1 after Dembele's hat-trick and goal from Doue",
-    "desc": "France and Norway meet in a blockbuster Group I clash at the FIFA World Cup with contrasting priorities despite both sides arriving in strong form. While France have named a nearly full-strength starting XI, benching...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/nor-vs-fra-fifa-world-cup-live-norway-vs-france-live-score-tactical-analysis-minute-by-minute-commentary-highlight-1046277",
-    "time": "2026-06-26T18:55:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India women's sprint team wins gold with season-best effort at Asian Relays Championship in China",
-    "desc": "India signed off from the 2026 Asian Relays Championships with a gold medal in the women's 4x100m relay after Srabani Nanda, Sneha Shanuvalli, Sudeshna Shivankar and Tamanna produced a season-best performance in Shangyu, China. The Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-women-s-sprint-team-wins-gold-with-season-best-effort-at-asian-relays-championship-in-china-watch-2026-06-27-1046276",
-    "time": "2026-06-26T18:40:26.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "આધાર કાર્ડ, પાસપોર્ટથી લઈ બેન્ક સુધી... 1 જુલાઈ બદલાઈ રહ્યા છે આ 5 મોટા નિયમો, તમારા ખિસ્સા પર પડશે અસર!",
+    "desc": "જુલાઈ મહિનો શરૂ થવામાં હવે ગણતરીના દિવસો જ બાકી રહ્યા છે. 1 જુલાઈ 2026થી કેટલાક મહત્વપૂર્ણ નાણાકીય નિયમોમાં બદલાવ થવા જઈ રહ્યો છે, જેની સીધી અસર સામાન્ય લોકોના ખિસ્સા અને રોજિંદા નાણાકીય કામકાજ પર પડી શકે છે. આ બદલાવમાં ITR ફાઇલિંગ, આધાર, પાસપોર્ટ, SBI અને HDFC બેન્કના ક્રેડિટ કાર્ડ સહિત મોટા અપડેટ સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/from-aadhaar-card-passport-to-bank-these-5-big-rules-are-changing-on-july-1-will-affect-your-pocket-482894 ",
+    "time": "2026-06-27T14:22:31.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "હવે Maruti લાવી રહી છે સૌથી નાની અને સૌથી સસ્તી SUV, ટાટા પંચને આપશે ટક્કર",
     "desc": "જો કંપની શાનદાર ફીચર્સ અને મલ્ટી-ફ્યુઅલ વિકલ્પો સાથે આ નવી SUV લોન્ચ કરે છે, તો તે એન્ટ્રી-લેવલ SUV સેગમેન્ટમાં મોટો ફેરફાર લાવી શકે છે. ત્યારે આ કારની કિંમત કેટલી હશે અને કેવા ફીચર્સ હોઈ શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -259,24 +268,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-danger-for-venezuela-is-not-over-yet-what-is-the-reason-behind-earthquake-doublet-482735 ",
     "time": "2026-06-26T08:59:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "તો આ એક મુદ્દાને લઈને સિયાએ કરી કેતનની હત્યા? અત્યાર સુધીનો સૌથી મોટો ખુલાસો",
-    "desc": "આરોપી સિયા ગોયલનો દાવો છે કે કેતનના માથા પર વાળ ન હોવા તેને મંજૂર નહોતા. તેથી તેણે આરોપી ચેતન ચૌધરી સાથે સંબંધ બનાવ્યો અને તેની હત્યા કરાવી દીધી. ખરેખર આ દાવો ઘણો ચોંકાવનારો છે. સીયાની આ નારાજગી હોઈ શકે પણ કોઈનું હત્યા કરવાનું કારણ ના હોઈ શકે...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/shocking-revelation-in-ketan-agarwal-murder-case-wig-dispute-behind-alleged-killing-482723 ",
-    "time": "2026-06-26T08:34:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેતન અગ્રવાલ કેસમાં નવો વળાંક, સિયાની માતાનો મોટો દાવો, &amp;#039;લોહાગઢ ટ્રેક પર નહતું જવું...&amp;#039;, બે માતાના અલગ-અલગ દાવા",
-    "desc": "પુનાના બિઝનેસમેન કેતન અગ્રવાલના મર્ડર કેસમાં રોજ નીત નવા ખુલાસા થઈ રહ્યા છે. પહેલીવાર આરોપી મંગેતર સિયાના માતા પિતાના નિવેદન સામે આવ્યા છે. જેમણે ચોખ્ખા શબ્દોમાં કહ્યું છે કે જો સિયા દોષિત ઠરે તો તેને પણ એજ સજા મળવી જોઈએ જે કેતન સાથે થયું. જો કે સિયાની માતા પૂજા ગોયલે એક ચોંકાવનારો દાવો કર્યો છે. ત્યારે હવે એમ થાય કે કોનો દાવો સાચો?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/siya-mother-pooja-goyal-big-claim-and-ketan-mother-rakhi-agarwal-statement-lohagarh-trek-482724 ",
-    "time": "2026-06-26T07:43:51.000Z"
   },
   {
     "cat": "Entertainment",
