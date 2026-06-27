@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "ઘર બેઠા જુઓ રિતેશ દેશમુખની ફિલ્મ રાજા શિવાજી, આ ઓટીટી પ્લેટફોર્મ પર થઈ ગઈ રિલીઝ",
+    "desc": "રિતેશ દેશમુખની બ્લોક બસ્ટર ફિલ્મ રાજા શિવાજી હવે ઓટીટી પર આવી ચુકી છે. જો તમે રવિવારની રજામાં પરિવાર સાથે આ ફિલ્મ જોવા માંગો છો તો ફટાફટ ચેક કરી લો આ ફિલ્મ કયા ઓટીટી પ્લેટફોર્મ પર રિલીઝ થઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/riteish-deshmukh-movie-hit-movie-raja-shivaji-released-on-ott-know-where-to-watch-in-hindi-482801 ",
+    "time": "2026-06-27T02:17:56.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ખિસ્સા ખાલી જ રહેશે! પેટ્રોલ-ડીઝલ પર હમણાં કોઈ રાહત નહીં, ઓઈલ કંપનીઓએ ઘડ્યો આ નવો પ્લાન!",
     "desc": "આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલના ભાવમાં તીવ્ર ઘટાડો થયો હોવા છતાં, આ સમયે જનતાને સસ્તું પેટ્રોલ અને ડીઝલ મળવાની આશા ઓછી છે. એક્સપર્ટ માને છે કે સરકારી માલિકીની ઓઇલ માર્કેટિંગ કંપનીઓ (OMCs) પેટ્રોલ અને ડીઝલના ભાવ ઘટાડવાના મૂડમાં નથી.",
@@ -655,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/why-are-70-percent-indians-afraid-of-selling-old-phones-the-reason-is-not-money-it-is-something-else-the-survey-reveals-482077 ",
     "time": "2026-06-20T09:28:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "જાવેદ અખ્તરે 8 પેગ પીધા અને હાથમાં લીધા પેપર-પેન, પછી જે ગઝલ લખી તે આજે પણ લોકોને મંત્રમુગ્ધ કરે છે",
-    "desc": "બોલીવુડના પ્રખ્યાત સ્ક્રીનપ્લે રાઈટર અને ગીતકાર જાવેદ અખ્તરે આમ તો અનેક સુપરહીટ ગીત અને ગઝલ લખી છે પણ તેમની એક ગઝલ જે આજે પણ લોકોને મંત્રમુગ્ધ કરે છે તે ગઝલ તેમણે નશાની હાલતમાં લખી હતી. કદાચ એટલે જ આ ગઝલ સાંભળી લોકો પ્રેમના નશામાં ડુબી જાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/javed-akhtar-wrote-tum-ko-dekha-to-khayal-aaya-gazal-after-drinking-8-peg-alcohol-482052 ",
-    "time": "2026-06-20T07:03:21.000Z"
   },
   {
     "cat": "Tech",

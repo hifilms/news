@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer joins Virat Kohli and Shubman Gill in unwanted list after losing first T20I against Ireland",
+    "desc": "The Indian team kicked off their Ireland tour by taking on the side in the first of two T20Is. The two sides met at the Civil Service Cricket Club, Stormont, Belfast, on June 26th. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-joins-virat-kohli-and-shubman-gill-in-unwanted-list-after-losing-first-t20i-against-ireland-2026-06-27-1046286",
+    "time": "2026-06-27T02:19:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "France's Ousmane Dembele sets new record with hat-trick, who will Norway face in round of 32?",
     "desc": "France stormed to the top of Group I with a commanding 4-1 victory over Norway on the early hours of Friday, as Ousmane Dembele struck a sensational first-half hat-trick inside 32 minutes before Desire Doue...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-stars-with-three-wicket-haul-on-international-return-as-ireland-make-decent-total-in-1st-t20i-2026-06-26-1046257",
     "time": "2026-06-26T14:42:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch India vs Pakistan Hockey clash in FIH Pro League on TV and live stream?",
-    "desc": "India have another opportunity to finish their FIH Pro League campaign on a positive note when they take on Pakistan in London on Friday, June 26. With only two matches left in the competition, Craig...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/when-and-where-to-watch-india-vs-pakistan-hockey-clash-in-fih-pro-league-on-tv-and-live-stream-2026-06-26-1046255",
-    "time": "2026-06-26T14:39:39.000Z"
   }
 ];
