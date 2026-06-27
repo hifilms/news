@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma achieves massive feat with quickfire half-century against Ireland despite defeat in first T20I",
+    "desc": "The Indian team kicked off their two-game T20I series against Ireland by taking on the side in the first T20I in Belfast. The two sides met on June 26th, and it was Ireland who managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-achieves-massive-feat-with-quickfire-half-century-against-ireland-despite-defeat-in-first-t20i-2026-06-27-1046304",
+    "time": "2026-06-27T05:57:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India decimate Pakistan in FIH Pro League clash, put 7 past arch-rivals in sensational performance",
+    "desc": "The Indian men’s hockey team put forth another magnificent performance in the ongoing FIH Pro League. Taking on Pakistan in the reverse fixture of the FIH Pro League’s London leg at the Lee Valley Hockey...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/india-decimate-pakistan-in-fih-pro-league-clash-put-7-past-arch-rivals-in-sensational-performance-2026-06-27-1046299",
+    "time": "2026-06-27T04:54:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cabo Verde secure historic knockout qualification in FIFA World Cup 2026, Uruguay face elimination",
+    "desc": "In a major moment in the ongoing FIFA World Cup 2026, Cabo Verde has qualified for the knockout stages. Being one of the smallest teams in the tournament, many counted out Cabo Verde; however, against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cabo-verde-secure-historic-knockout-qualification-in-fifa-world-cup-2026-uruguay-face-elimination-2026-06-27-1046291",
+    "time": "2026-06-27T03:19:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer joins Virat Kohli and Shubman Gill in unwanted list after losing first T20I against Ireland",
     "desc": "The Indian team kicked off their Ireland tour by taking on the side in the first of two T20Is. The two sides met at the Civil Service Cricket Club, Stormont, Belfast, on June 26th. The...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/where-is-vaibhav-sooryavanshi-fans-blast-indian-team-on-x-after-shambolic-defeat-to-ireland-in-1st-t20i-2026-06-26-1046266",
     "time": "2026-06-26T16:47:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ireland create history, beat India in first T20I after embarrassing batting show from visitors",
-    "desc": "Ireland have registered their first-ever win against India in T20I cricket. Leading to the two-match series, the chatter was that it was the perfect opportunity for the Indian cricketers to get into the groove before...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ireland-create-history-beat-india-in-first-t20i-after-embarrassing-batting-show-from-visitors-2026-06-26-1046263",
-    "time": "2026-06-26T16:03:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic can meet Jannik Sinner in Wimbledon 2026 semi-final, check full draw",
-    "desc": "The Wimbledon men's singles draw has placed Novak Djokovic and defending champion Jannik Sinner on course for a potential semifinal meeting. Two-time Wimbledon champion Carlos Alcaraz, in the meantime, has already withdrawn from the competition...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-can-meet-jannik-sinner-in-wimbledon-2026-semi-final-check-full-draw-2026-06-26-1046260",
-    "time": "2026-06-26T15:11:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harshit Rana stars with three-wicket haul on international return as Ireland make decent total in 1st T20I",
-    "desc": "Harshit Rana put up a strong comeback for India during the first T20I against Ireland as he picked up a three-wicket haul at the Civil Service Cricket Club, Belfast, on Friday, June 26. Harshit was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-stars-with-three-wicket-haul-on-international-return-as-ireland-make-decent-total-in-1st-t20i-2026-06-26-1046257",
-    "time": "2026-06-26T14:42:49.000Z"
   }
 ];
