@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "ইতিহাস ছুঁল কেপ ভার্দে: চিলির ২৮ বছরের রেকর্ড ছুঁয়ে বিশ্বকাপের নকআউটে 'ব্লু শার্কস', সামনে এবার আর্জেন্টিনা",
+    "desc": "ইতিহাস কীভাবে লিখতে হয়, তা দেখিয়ে দিল আফ্রিকার ছোট্ট দেশ কেপ ভার্দে! সৌদি আরবকে ০-০ গোলে রুখে দিয়ে বিশ্বকাপের ইতিহাসে ক্ষুদ্রতম দেশ হিসেবে নকআউট পর্বে চলে গেল তারা। স্পেন, উরুগুয়ে এবং সৌদি আরব—গ্রুপ পর্বের ৩টি ম্যাচই ড্র করে ১৯৯৮ সালের চিলির রেকর্ড স্পর্শ করল 'ব্লু শার্কস'রা। আর এবার? আগামী ৩ জুলাই শেষ ৩২-এর মহালড়াইয়ে তাদের সামনে বিশ্বচ্যাম্পিয়ন আর্জেন্টিনা! মেসির দলের বিরুদ্ধে এই পুচকে দেশের রূপকথা কি টিকবে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/cabo-verde-saudi-arabia-draw-fifa-world-cup-2026-round-of-32-argentina_660148.html ",
+    "time": "2026-06-27T09:31:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "হরমুজ প্রণালীতে ফের শঙ্কা! ইরানের হামলার জবাবে মার্কিন যুদ্ধবিমানের বিধ্বংসী বোমাবর্ষণ",
+    "desc": "২৫ জুন ওমান উপকূলের কাছে হরমুজ প্রণালী দিয়ে যাওয়ার সময় সিঙ্গাপুরের পতাকাবাহী মালবাহী জাহাজ এম/ভি এভার লাভলিকে একটি ওয়ান-ওয়ে ড্রোন দিয়ে হামলা চালানো হয়। পরদিন, ২৬ জুন মার্কিন বাহিনী ইরানের ক্ষেপণাস্ত্র ও ড্রোন সংরক্ষণ কেন্দ্র এবং উপকূলীয় রাডার স্টেশনগুলিতে হামলা চালায়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-in-the-strait-of-hormuz_660132.html ",
+    "time": "2026-06-27T07:49:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "৩২ মিনিটে দেম্বেলে ম্যাজিক! নরওয়েকে উড়িয়ে গ্রুপ সেরা ফ্রান্স, ভাঙল ৭২ বছরের রেকর্ড",
+    "desc": "উসমান দেম্বেলে, নামটাই যথেষ্ট! মাত্র ৩২ মিনিটে হ্যাটট্রিক করে বিশ্বকাপের ৭২ বছরের ইতিহাস ওলটপালট করে দিলেন ফরাসি তারকা। নরওয়েকে ৪-১ গোলে উড়িয়ে দিয়ে 'আই' গ্রুপের চ্যাম্পিয়ন হয়ে নকআউটে গেল ফ্রান্স। কিলিয়ান এমবাপে গোল না পেলেও করলেন অ্যাসিস্ট।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/fifa-world-cup-2026-france-vs-norway-ousmane-dembele-hat-trick-records_660130.html ",
+    "time": "2026-06-27T07:19:43.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "শুধু সিয়া একা নয়, চেতনকে চিনত ওর ভাইও! ১০ ঘণ্টা জেরার পর সামনে এল চাঞ্চল্যকর তথ্য",
     "desc": "তদন্তে পুলিস জানতে পেরেছে, প্রমাণ লুকানোর জন্য অভিযুক্তরা তাদের মোবাইল থেকে সব মেসেজ ও চ্যাট ডিলিট করে দিয়েছে। এমনকি ঘটনার আগের দিন, অর্থাৎ ১৭ জুন তারা পুনের একটি ক্যাফেতে দেখাও করেছিল। পুলিস এখন এই সব বিষয় নিয়ে তদন্ত করছে।",
@@ -162,15 +189,6 @@ const newsData_bn = [
     "time": "2026-06-18T07:48:09.000Z"
   },
   {
-    "cat": "World",
-    "title": "G7 hot-mic moments: ঘড়ি হারালেন ম্যাক্রোঁ, ধূমপান ছাড়লেন মেলোনি, ট্রাম্প পেলেন বাইক- কূটনীতির কচকচানির বাইরে বিশ্বনেতাদের মজাদার G7",
-    "desc": "এবার জি-৭ শীর্ষ সম্মেলনে ফ্রান্স, যুক্তরাষ্ট্র, কানাডা, জার্মানি, ইতালি, জাপান ও ইংল্যান্ডের সঙ্গেই আমন্ত্রিত অতিথি হিসেবে যোগ দেয় ভারত ও ইউক্রেন। সেখানে একদিকে যেমন চলছে বিশ্ব রাজনীতি, কূটনীতি অর্থনীতি নিয়ে গুরুগম্ভীর আলোচনা, তেমনই রুদ্ধদ্বার কূটনৈতিক বৈঠকের বাইরে ক্যামেরাবন্দি হয়েছে বেশ কিছু হালকা ও মজাদার মুহূর্ত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/g7-hot-mic-moments-of-world-leaders-meloni-quits-smoking-trump-gets-a-bike-macron-loses-watch-and-melodi-moments_658832.html ",
-    "time": "2026-06-17T13:50:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "বিশ্বমঞ্চে বাংলা গান! ঐতিহাসিক চুক্তিতে হাত মেলাল ওয়ার্নার মিউজিক ও এসভিএফ",
     "desc": "এই দুই সংস্থার হাত মেলানো কেবল ব্যবসার লাভ-ক্ষতির হিসাব নয়। এটা বাংলা সংস্কৃতিকে বিশ্বমঞ্চে বড় করে তুলে ধরার একটা বড় পদক্ষেপ। এর হাত ধরে আগামী দিনে পৃথিবীর বুকে বাংলা গান যেমন আরও বেশি ছড়িয়ে পড়বে।",
@@ -196,5 +214,50 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actor-rahul-arunoday-banerjee-death-case-cid-investigation-suvendu-adhikari_658418.html ",
     "time": "2026-06-15T11:28:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
   }
 ];

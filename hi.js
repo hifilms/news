@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cabo Verde head coach opens up on taking on champions Argentina in FIFA World Cup 2026 knockouts",
+    "desc": "Cabo Verde has seemingly done the impossible, as the side has qualified for the knockout stages of the ongoing FIFA World Cup 2026. With three matches played, the side has managed to register three straight...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cabo-verde-head-coach-opens-up-on-taking-on-champions-argentina-in-fifa-world-cup-2026-knockouts-2026-06-27-1046326",
+    "time": "2026-06-27T10:06:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer questions team India over star all-rounder after first T20I defeat against Ireland",
+    "desc": "The Indian team got off to a subpar start to the ongoing two-game series against Ireland. Taking on the side in Belfast on June 26, the Men in Blue failed to secure a win and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-team-india-over-star-all-rounder-after-first-t20i-defeat-against-ireland-2026-06-27-1046317",
+    "time": "2026-06-27T08:22:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Lionel Messi start for Argentina in upcoming FIFA World Cup 2026 clash against Jordan? Head coach reveals",
+    "desc": "The stage is set for yet another exciting clash in the ongoing FIFA World Cup 2026. Defending champions Argentina will be taking on Jordan in their final group stage clash on June 28th. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/will-lionel-messi-start-for-argentina-in-upcoming-fifa-world-cup-2026-clash-against-jordan-head-coach-reveals-2026-06-27-1046309",
+    "time": "2026-06-27T07:02:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Sharma achieves massive feat with quickfire half-century against Ireland despite defeat in first T20I",
     "desc": "The Indian team kicked off their two-game T20I series against Ireland by taking on the side in the first T20I in Belfast. The two sides met on June 26th, and it was Ireland who managed...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-women-s-sprint-team-wins-gold-with-season-best-effort-at-asian-relays-championship-in-china-watch-2026-06-27-1046276",
     "time": "2026-06-26T18:40:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why isn't Erling Haaland playing against France in FIFA World Cup 2026 clash?",
-    "desc": "Norway have benched star forward Erling Haaland in their high-profile FIFA World Cup Group I match against France, as coach Stale Solbakken opts for a major rotation policy with as many as 10 changes to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-isn-t-erling-haaland-playing-against-france-in-fifa-world-cup-2026-clash-2026-06-26-1046274",
-    "time": "2026-06-26T17:59:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil lodges complaint to FIFA against referee Cesar Ramos, seeks his removal",
-    "desc": "Brazil football authorities have reportedly escalated a dispute with FIFA after a controversial VAR decision in their 3-0 World Cup 2026 group-stage win over Scotland. They have submitted an official complaint that complaining against referee...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/brazil-lodges-complaint-to-fifa-against-referee-cesar-ramos-seek-his-removal-2026-06-26-1046271",
-    "time": "2026-06-26T17:38:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Where is Vaibhav Sooryavanshi?'",
-    "desc": "Ireland produced a landmark result in Belfast as they defeated India by 34 runs in the opening T20I at the Civil Service Cricket Club. With that, the hosts secured their first win over the Men...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-is-vaibhav-sooryavanshi-fans-blast-indian-team-on-x-after-shambolic-defeat-to-ireland-in-1st-t20i-2026-06-26-1046266",
-    "time": "2026-06-26T16:47:37.000Z"
   }
 ];

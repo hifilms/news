@@ -1,6 +1,87 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "બીજી T20માં બદલાઈ જશે ભારતની પ્લેઇંગ-11, આ 3 ખેલાડીઓનું કપાશે પત્તુ",
+    "desc": "ભારતીય ક્રિકેટ ટીમ રવિવારે બીજી T20 મેચમાં આયર્લેન્ડ સામે ટકરાવાની છે. આ મેચ માટે ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવનમાં કેટલાક મોટા ફેરફારો થઈ શકે છે. ત્યારે કોને તક મળે છે અને કોનું પત્તુ કપાય છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-ire-2nd-t20-team-india-probable-playing-11-vaibhav-sooryavanshi-debut-482857 ",
+    "time": "2026-06-27T10:47:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેતન અગ્રવાલના મોતનું કોઈ સાક્ષી નથી! સિયાને કંઈ નહીં થવા દઈએ, વકીલનો દાવો હાલની તપાસનો કોઈ મતલબ નથી",
+    "desc": "પુનાના ચકચારી કેતન અગ્રવાલ હત્યાકાંડમાં હવે મુખ્ય આરોપી સિયા ગોયલના વકીલે કરેલા દાવા અને પોલીસને મળેલા મજબૂત પુરાવા બાદ આખો કેસ એક નવા વળાંક પર આવી ગયો છે. સિયાના વકીલે દાવો કર્યો છે કે મારી ક્લાયન્ટ સામે કોઈ ચશ્મદીદ સાક્ષી નથી. હાલમાં ફક્ત પોલીસ તપાસ ચાલી રહી છે. આ સાથે તમે એ પણ જાણી લો કે પોલીસ પાસે એવા 3 કયા મજબૂત પૂરાવા છે જે સિયાને જેલમાંથી બહાર નહીં નીકળવા દે....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ketan-agrawal-murder-siya-goyal-lawyer-claims-no-eyewitness-lohagad-fort-chetan-chaudhary-482855 ",
+    "time": "2026-06-27T10:09:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેતન હત્યાકાંડ: આરોપી મંગેતર વિશે મોટો ખુલાસો, 12મું ફેલ હતી સિયા, &amp;#039;ગંદી&amp;#039; આદતોથી પરેશાન હતો પરિવાર",
+    "desc": "લોહાગઢ કિલ્લા પર 18 જૂનના રોજ પુનાના બિઝનેસમેન કેતન અગ્રવાલનું તેમની મંગેતર સિયા ગોયલ અને પ્રેમી ચેતન ચૌધરી દ્વારા હત્યા થઈ હોવાના આરોપ સર હાલ સિયા અને ચેતન પોલીસ કસ્ટડીમાં છે અને પૂછપરછ ચાલુ છે. આ દરમિયાન હચમચાવી નાખતા ખુલાસા પણ થઈ રહ્યા છે. કેતનના પિતાનો દાવો છે કે તેમને સિયા વિશે એવી માહિતી જાણવા મળી છે જે તેમને પહેલા ખબર નહતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/shocking-revelation-siya-goyal-police-interrogation-ketan-father-serious-allegations-482854 ",
+    "time": "2026-06-27T10:03:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વેનેઝુએલામાં ભૂકંપથી સ્ટાર ફૂટબોલરનું ઘર ધરાશાયી, આખો પરિવાર લાપતા",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026ને લઈને ચાલી રહેલા ઉત્સાહ વચ્ચે વેનેઝુએલામાં વિનાશક ભૂકંપ આવ્યો, જેના કારણે વ્યાપક વિનાશ થયું છે. આ દુર્ઘટનામાં સેંકડો લોકોએ પોતાના જીવ ગુમાવ્યા છે. આર્જેન્ટિનાના ફૂટબોલર લુકાસ ટ્રેજોને આ દુર્ઘટનાથી મોટો ઝટકો લાગ્યો છે, ભૂકંપના કારણે ન માત્ર તેનું ઘર ધરાશાયી થયું છે, પરંતુ તેનો આખો પરિવાર લાપતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/venezuela-earthquake-argentina-footballer-lucas-trejo-family-missing-482852 ",
+    "time": "2026-06-27T09:50:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લોહગઢ મર્ડર કેસ: &amp;quot;ખોપરીના ટુકડે-ટુકડા થઈ ગયા હતા&amp;quot;, રેસ્કયૂ ટીમના સભ્યનો ચોંકાવનારો દાવો, સિયાના ચહેરા પર નહોતો કોઈ અફસોસ કે ડર!",
+    "desc": "પુનાના કેતન અગ્રવાલ હત્યા કેસમાં રેસ્ક્યું ટીમના એક સદસ્યએ દાવો કર્યો છે કે કેતનની લાશ ઉપર લાવ્યા ત્યારે ખોપડી ટુકડે ટુકડે થઈ ગયા હતા. શરીર પર અનેક ઈજાઓ હતી. જ્યાં પરિવાર કાળો કકળાટ કરી રહ્યો હતો પણ સિયા શાંત ઉભી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lohgarh-murder-case-the-skull-was-broken-into-pieces-a-shocking-claim-by-a-rescue-team-member-482844 ",
+    "time": "2026-06-27T09:07:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હવે ટોલમાં બચશે પૈસા! ટોલ ટેક્સ અંગે મોટો નિર્ણય, નવા હાઈવે માટે લાગુ થયો નવો નિયમ",
+    "desc": "ટોલ ટેક્સ અંગે દેશભરના વાહનચાલકો માટે સારા સમાચાર છે. કેન્દ્ર સરકારે ટોલ ટેક્સ અંગે નોંધપાત્ર રાહત આપી છે. કેન્દ્ર સરકારે સ્પેશિયલ ઓપરેશન્સ (SOP) જાહેર કરીને ટોલ કંપનીઓને નિર્દેશ આપ્યો છે. આ માર્ગદર્શિકાના પાલન પર દેખરેખ રાખવા માટે એક હાઈ લેવલની સમિતિની પણ રચના કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/now-money-will-be-saved-in-toll-big-decision-regarding-toll-tax-new-rule-implemented-for-new-highways-482843 ",
+    "time": "2026-06-27T08:43:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મોટો ઉલટફેર! કેપ વર્દે પહેલીવાર નોકઆઉટમાં પહોંચ્યું, હવે આર્જેન્ટિના સામે રમશે, બેવારનું ચેમ્પિયન ઉરુગ્વે આઉટ",
+    "desc": "ફૂટબોલના મહાકુંભમાં જે વિચાર્યું પણ ન હોય તેવું જોવા મળી રહ્યું છે. શનિવારે વર્લ્ડ કપમાં સૌથી મોટો ઉલટફેર જોવા મળ્યો. કેપ વર્દેએ ઈતિહાસ રચતા રાઉન્ડ ઓફ 32માં શાનદાર રીતે જગ્યા બનાવી છે અને બે વારનું વર્લ્ડ ચેમ્પિયન ઉરુગ્વે ટુર્નામેન્ટમાંથી બહાર ફેંકાઈ ગયું છે. જાણો કઈ રીતે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-spain-vs-uruguay-cape-verde-vs-saudi-arabia-results-482842 ",
+    "time": "2026-06-27T08:38:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સિયાએ આ 7 ભૂલો ના કરી હોત તો ક્યારેય ના પકડાત, ફઈએ બચાવવાને બદલે સિયાને ફસાવી દીધી",
+    "desc": "લોહગઢ કિલ્લા પર પુણેના કેતન અગ્રવાલ મર્ડર કેસમાં હવે નવો વળાંક આવ્યો છે. સિયાની ફોઈએ એક બૂલ કરી અને પરિવારનો શક વધી ગયો કે દીકરા સાથે અકસ્માત થયો નથી પણ હત્યા થઈ છે. કેતનના પિતા વિશાલ અગ્રવાલે દાવો કર્યો છે કે ઘટનાના દિવસે જ પરિવારને સિયા ગોયલ પર શંકા ગઇ હતી. જેથી એમને પોલીસનો સંપર્ક કર્યો હતો જાણો કયા કારણોસર પરિવારને સિયા પર વહેમ પડ્યો....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-death-case-siya-goyal-lohagad-fort-chetan-chaudhary-482841 ",
+    "time": "2026-06-27T08:20:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "મોટા સમાચાર, ડોનાલ્ડ ટ્રમ્પ આવશે ભારત! હાઈ પ્રોફાઈલ પ્રવાસ વિશે શું કહ્યું માર્કો રૂબિયોએ? ખાસ જાણો",
+    "desc": "હોર્મુઝમાં જહાજ પર હુમલાના સમાચાર બાદ ઈરાન અને અમેરિકા વચ્ચે વળી પાછો તણાવ અને મિડલ ઈસ્ટ પર અશાંતિના વાદળો ઘેરાઈ રહ્યા છે. આ બધા વચ્ચે ડોનાલ્ડ ટ્રમ્પના ભારત આવવાના સમાચાર ગાજ્યા છે. અમેરિકી વિદેશ મંત્રી માર્કો રૂબિયોએ મોટું નિવેદન આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/big-news-marco-rubio-says-us-president-donald-trump-may-visit-india-482827 ",
+    "time": "2026-06-27T06:33:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "વીકેન્ડમાં જામશે રોમાંચનો જંગ, આર્જેન્ટિના, ઇંગ્લેન્ડ અને પોર્ટુગલની અગ્નિપરીક્ષા, જુઓ શેડ્યૂલ",
     "desc": "ફૂટબોલ વર્લ્ડ કપ 2026 એક રોમાંચક વળાંક મોડ પર છે, બે દિવસમાં રાઉન્ડ ઓફ 32 નોકઆઉટ મેચો શરૂ થવાની છે. પરંતુ તે પહેલાં, આ અઠવાડિયાનો અંત રોમાંચક બનવાનો છે. અમે તમને 27 જૂનનું સંપૂર્ણ સમયપત્રક શેર કરી રહ્યા છીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -216,15 +297,6 @@ const newsData_gu = [
     "time": "2026-06-25T16:23:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કેતન હત્યાકાંડમાં ખૂલવા લાગ્યા &amp;#039;ગુપ્ત&amp;#039; રહસ્યો, ચેતન-સિયા એકબીજા પર લગાવી રહ્યા છે હત્યાનો આરોપ; હવે ઉતરવા લાગ્યું મોહબ્બતનું ભૂત!",
-    "desc": "પુણેના કેતન અગ્રવાલ હત્યાકાંડ મામલે તપાસ ચાલી રહી છે. આ દરમિયાન એક નવો ખુલાસો થયો છે. મામલાની તપાસ કરી રહેલી પોલીસે જેવા જ ચેતન અને સિયાને આમને-સામને લાવ્યા, ત્યારે બન્નેએ એકબીજા પર હત્યાના આરોપ લગાવવાનું શરૂ કરી દીધું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/secret-secrets-start-to-emerge-in-ketan-murder-case-chetan-siya-are-accusing-each-other-of-murder-482668 ",
-    "time": "2026-06-25T15:40:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "શ્રેયસ ઐયરના ઇન્સ્ટાગ્રામ બાયોમાં રહસ્યમય તારીખ, જાણો શું છે &amp;#039;Second DOB&amp;#039;નો અર્થ",
     "desc": "સૂર્યકુમાર યાદવના સ્થાને શ્રેયસ ઐયરને ભારતની T20 ટીમનો કેપ્ટન બનાવાયો છે. તે 26 જૂને આયર્લેન્ડ સામેની T20 મેચથી પોતાનr કેપ્ટનશીપનો કાર્યકાળ શરૂ કરવા માટે તૈયાર છે. આ પહેલા તેણે તેના ઇન્સ્ટાગ્રામ બાયોમાં એક રહસ્યમય તારીખ એડ કરી છે, જેની આગળ લખ્યું 'Second DOB' છે, ત્યારે આનો અર્થ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -241,24 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/central-employees-will-be-in-a-lottery-new-calculation-of-da-hra-and-ta-has-come-out-salary-will-increase-by-65-percent-%E2%80%8B%E2%80%8Bas-soon-as-this-formula-is-implemented-482659 ",
     "time": "2026-06-25T14:23:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પાસપોર્ટ બનાવવો થયો મોંઘો, સરકારે ફીમાં કર્યો વધારો, 1 જુલાઈથી લાગુ થશે નવા રેટ",
-    "desc": "કેન્દ્ર સરકારે પાસપોર્ટ અને તેને લગતી સેવાઓની ફીમાં વધારો કર્યો છે, જેના કારણે લોકોને હવે પોસપોર્ટ બનાવવો મોંઘો પડશે. 1 જુલાઈ, 2026થી આ ભાવ વધારો લાગુ કરવામાં આવશે. આ ફી વધારો લાગુ થયા બાદ પાસપોર્ટ બનાવવા અને રિન્યુ કરાવવા માટે વધારે ચાર્જ ચૂકવવો પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/passport-fees-hiked-from-1st-july-check-new-rates-482657 ",
-    "time": "2026-06-25T14:21:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;મેં કેતનને બધું કહી દીધું હતું, છતાં તે...&amp;#039; સિયા ગોયલનો પોલીસ સમક્ષ ચોંકાવનારો ખુલાસો",
-    "desc": "કેતનની મંગેતર સિયાએ પોલીસ પૂછપરછ દરમિયાન ઘણા ચોંકાવનારા ખુલાસા કર્યા છે. તેણીએ જણાવ્યું કે કેતનને તેના અને ચેતન વિશે બધી ખબર હતી. મેં કેતનને લગ્ન કરવાની પણ ના પાડી હતી, પરંતુ કેતન લગ્ન રદ કરવા તૈયાર નહોતો અને તૈયારીઓ ચાલુ રાખી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-murder-case-siya-goyal-shocking-revelation-in-police-custody-482654 ",
-    "time": "2026-06-25T13:26:41.000Z"
   },
   {
     "cat": "Business",
@@ -279,24 +333,6 @@ const newsData_gu = [
     "time": "2026-06-25T11:41:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોફી, વાતચીત અને ષડયંત્ર... હત્યાના એક દિવસ પહેલા કેફેમાં મળ્યા હતા સિયા અને ચેતન, Exclusive CCTV આવ્યા સામે",
-    "desc": "કેતન અગ્રવાલ હત્યાકાંડની તપાસમાં એક નવા CCTV વીડિયો સામે આવ્યા છે. પોલીસના જણાવ્યા અનુસાર, હત્યાના એક દિવસ પહેલા સિયા ગોયલ અને ચેતન ચૌધરી પુણેના 'થર્ડ વેવ કેફે'માં મળ્યા હતા. પોલીસનું કહેવું છે કે, આ વીડિયો કેતનની હત્યાના એક દિવસ પહેલાનો છે. જેમાં જોઈ શકાય છે કે સિયા ગોયલ અને ચેતન ચૌધરી પુણેના એક કેફેમાં મળ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/coffee-conversation-and-conspiracy-siya-goel-and-chetan-chaudhary-met-in-a-cafe-a-day-before-the-murder-exclusive-cctv-482640 ",
-    "time": "2026-06-25T11:32:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સિયાને પૈસા નહીં પ્રેમ જોઈએ! એક તરફ કરોડપતિ કેતન, બીજીતરફ દુકાન ચલાવતો ચેતન",
-    "desc": "એક તરફ કરોડપતિ કારોબારી પરિવારનો કેતન અગ્રવાલ હતો, જેની સાથે સિયાના લગ્નની તૈયારીઓ ચાલી રહી હતી અને રાજસ્થાનમાં ભવ્ય સમારોહની ચર્ચા હતી. બીજીતરફ ચેતન ચૌધરી હતો, જેને સિયા પ્રેમ કરતી હતી. કેતનની હત્યા બાદ હવે લોકો કહેવા લાગ્યા છે કે પૈસાના બદલે સિયાએ પ્રેમ પસંદ કર્યો પરંતુ તેનો ઈરાદો ખોટો હતો. તેણે કેતનની હત્યા કરવાની નહોતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/money-vs-love-siya-rejects-millionaire-fianc%C3%A9-for-ration-shop-owner-but-alleged-murder-plots-ruins-the-romance-482637 ",
-    "time": "2026-06-25T11:30:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ઓસ્કર પેનલમાં ભારતીય ફિલ્મમેકર વિશાલ ભારદ્વાજ સહિત 6 લોકોની એન્ટ્રી, ચેક કરી લો લિસ્ટ",
     "desc": "ઓસ્કર એવોર્ડની વોટિંગ પેનમાં આ વર્ષે દુનિયાભરના 529 નવા લોકોનો સમાવેશ કરવામાં આવ્યો છે જેમાં ભારતના 6 પ્રખ્યાત લોકોનો પણ સમાવેશ કરવામાં આવ્યો છે. આ 6 નામોમાંથી એક નામ બોલીવુડના જાણીતા ફિલ્મ મેકર અને મ્યુઝિક કંપોઝર વિશાલ ભારદ્વાજનું છે.",
@@ -304,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/6-indian-celebs-got-oscar-voting-panel-invite-from-academy-including-vishal-bhardwaj-482635 ",
     "time": "2026-06-25T10:25:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીનું ડેબ્યૂ, આ ખેલાડીનું કપાશે પત્તુ... આયર્લેન્ડ સામેની પ્રથમ T20માં આવી હશે ભારતની પ્લેઈંગ-11",
-    "desc": "વૈભવ સૂર્યવંશી આયર્લેન્ડ સામેની પ્રથમ T20 મેચમાં ટીમ ઈન્ડિયા માટે ડેબ્યૂ કરી શકે છે. જો તેને ડેબ્યૂ કરવાની તક મળે તો ઓપનિંગ બેટ્સમેનમાંથી એકને બહાર બેસવું પડશે. ત્યારે આ લેખમાં જાણીશું કે, ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવન કેવી હશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ire-vs-ind-1st-t20-team-india-probable-playing-xi-vaibhav-sooryavanshi-482628 ",
-    "time": "2026-06-25T09:29:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -340,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/maa-inti-bangaram-movie-fame-actress-samantha-ruth-prabhu-confirm-her-first-pregnancy-know-what-she-said-482609 ",
     "time": "2026-06-25T06:42:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિનિસિયસે મચાવી ધમાલ, નોકઆઉટ રાઉન્ડમાં પહોંચ્યું બ્રાઝીલ, નેમાર પર મોટું અપડેટ",
-    "desc": "બ્રાઝીલે શાનદાર રીતે સ્કોટલેન્ડને હરાવ્યું અને રાઉન્ડ ઓફ 32માં જગ્યા બનાવી છે. આ સાથે જ વિનિસિયસ જૂનિયરે પણ એક એવી સિદ્ધિ મેળવી છે જેના કારણે ઈતિહાસ ફરીથી દોહરાય અને બ્રાઝીલ આ વખતે વર્લ્ડ કપ જીતે તેવી ચાહકો આશા સેવી રહ્યા છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/sco-vs-bra-football-world-cup-2026-brzil-beat-scotland-in-group-c-match-ninicius-junior-482600 ",
-    "time": "2026-06-25T05:29:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -628,24 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/new-two-wheeler-brand-enters-india-teaser-of-first-bike-released-in-ahmedabad-know-482083 ",
     "time": "2026-06-20T10:21:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઇઝરાયેલનું સિક્રેટ વૉર ફંડ: જાણો કોણ છે અસલી કિંગમેકર!, નેતન્યાહુની યુદ્ધની ભઠ્ઠીમાં કોણ નાખી રહ્યું છે પેટ્રોલ?",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચેના યુદ્ધમાં અમેરિકા હાંફી ગયું છે અને અબજો ડોલરોના ફટકા બાદ ટ્રમ્પે હસતા મોંઢે પણ ઈરાન સાથે સમજૂતી કરી લીધી છે. આમ છતાં ઈઝરાયેલ મચક આપી રહ્યું નથી. છેલ્લા 3 વર્ષથી યુદ્ધ લડી રહેલું ઈઝરાયેલ આર્થિક રીતે ખુવાર કેમ થઈ રહ્યું નથી. કોઈ પણ દેશને યુદ્ધનો ખર્ચ પોસાય તેમ નથી આમ છતાં ઈઝરાયેલ કેમ હાર માની રહ્યું નથી એની પાછળ એક કોર્પોરેટ ગૃહનો મોટો હાથ છે જે સતત ઈઝરાયેલને ફંડીગ કરી રહ્યું છે જુઓ કોણ છે આ કોર્પોરેટ ગૃહ અને કઈ રીતે કરી રહ્યું છે મદદ....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/israel-secret-war-fund-who-is-pouring-fuel-into-netanyahu-war-furnace-482081 ",
-    "time": "2026-06-20T10:10:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "સમુદ્ર ચીરીને એવું બહાર આવ્યું કે લોકો ફફડી ગયા! ફિલિપાઈન્સમાં સમુદ્ર ૨૦૦ મીટર પાછો હટી ગયો, પાણી થઈ ગયું ગાયબ!",
-    "desc": "પાણી હોય ત્યાં જમીન આવી જાય એવું તમે સાંભળ્યું તો હશે પણ આવી જ સ્થિતિ ફિલિપાઈન્સના મિંડાનાવો (Mindanao)માં થઈ છે. હવે લોકોમાં ગભરાહટનો માહોલ છે. હવે દરિયો 656 ફૂટ પાછળ હટી ગયો છે અને જમીન ઉપર આવીને એક આઈલેન્ડ જેવી સ્થિતિ ઉભી થતાં લોકોને ડર છે હવે સુનામી આવશે, તમને ખબર નહીં હોય કે આ એક જ ઘટના નથી આ પ્રકારની અનેક ઘટનાઓ છે અમે અહીં તમને વિગતવાર માહિતી આપીશું. જાણી લો શું છે આ મામલો",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/massive-earthquake-extends-beach-by-200-metres-in-the-philippines-482078 ",
-    "time": "2026-06-20T09:37:32.000Z"
   },
   {
     "cat": "Tech",
