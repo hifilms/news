@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Cody Gakpo asks for privacy after announcing heartbreaking loss of unborn son during World Cup",
+    "desc": "Liverpool and Netherlands forward Cody Gakpo has requested privacy after he and partner Noa van der Bij announced the loss of their unborn son during pregnancy. The couple shared the heartbreaking news while Gakpo remains with the Netherlands squad at the FIFA World Cup 2026. Despite personal grief, he had featured in all group games as Netherlands topped Group F.",
+    "img": "https://static.toiimg.com/photo/msid-132042094,imgsize-930958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cody-gakpo-asks-for-privacy-after-announcing-heartbreaking-loss-of-unborn-son-during-world-cup/articleshow/132041984.cms",
+    "time": "2026-06-27T20:29:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "At 16, this actor cleaned tables at a coffee shop, went on to win a National award",
+    "desc": "Vikrant Massey, now a celebrated actor, opened up about his humble beginnings, cleaning coffee tables as a teenager to support his family and education. He revealed that buying his first home at 24 fulfilled a lifelong wish of his mother, symbolizing the financial stability he craved.",
+    "img": "https://static.toiimg.com/photo/msid-132042091,imgsize-210056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/at-16-this-actor-cleaned-tables-at-a-coffee-shop-bought-his-house-in-mumbai-at-24-went-on-to-win-a-national-award-with-shah-rukh-khan/articleshow/132042046.cms",
+    "time": "2026-06-27T20:28:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vikrant says 'Mirzapur' had 85 percent men indulging testosterones, male egos",
+    "desc": "Mirzapur's transition to the big screen this September brings back fan favorites, though Vikrant Massey's absence as Bablu Pandit is noted, with Jitendra Kumar stepping in. Massey fondly recalled the show's unexpected success, admitting he wished his character's journey hadn't ended so soon. He shared how the series, initially a collaborative effort, quickly became a cultural phenomenon, with Bablu becoming a household name overnight after its release.",
+    "img": "https://static.toiimg.com/photo/msid-132041973,imgsize-201953.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikrant-massey-says-mirzapur-had-85-percent-men-indulging-testosterones-male-egos-amid-fans-questioning-his-absence-from-the-film-wish-they-hadnt-killed-me/articleshow/132041963.cms",
+    "time": "2026-06-27T19:49:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "B. Manickam Tagore appointed as Tamil Nadu Congress Committee president",
+    "desc": "Mr. Tagore’s appointment comes at a time when the Congress has parted ways with its long-time ally, the DMK, and joined the TVK in a bid to secure a share in power in the State",
+    "img": "https://th-i.thgim.com/public/incoming/n30b13/article71154259.ece/alternates/LANDSCAPE_1200/B._Manickam_TagoreVirudhunagar_Lok_Sabha-01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/b-manickam-tagore-appointed-as-tamil-nadu-congress-committee-president/article71154233.ece",
+    "time": "2026-06-27T19:43:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid row, revised low-alcoholic beverages tax rates included in Finance Bill",
+    "desc": "Rates pegged at 120% and 175% respectively for beverages with alcohol strength ranging from 0.5% to 10%, and those with strength above 10% and up to 20%. These were the rates announced by the Chief Minister in the Revised Budget",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/amid-row-revised-low-alcoholic-beverages-tax-rates-included-in-finance-bill/article71155142.ece",
+    "time": "2026-06-27T19:33:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The NFL scandal so f*lthy, the cleaning crew left traumatized. What really happened on the Minnesota Vikings’ Love Boat? The messiest NFL scandal explained",
+    "desc": "On Oct. 6, 2005, roughly 17 Minnesota Vikings players chartered two houseboats on Lake Minnetonka during a bye week. What followed became one of the most notorious scandals in NFL history. Two decades on, the Love Boat scandal is back in conversation, here's exactly what happened, who was charged, and how it ended.",
+    "img": "https://static.toiimg.com/photo/msid-132040729,imgsize-99371.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/look-back-the-nfl-scandal-so-flthy-the-cleaning-crew-left-traumatized-what-really-happened-on-the-minnesota-vikings-love-boat-the-messiest-nfl-scandal-explained/articleshow/132040709.cms",
+    "time": "2026-06-27T19:30:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sharmila lived in with Tiger Pataudi before they got married, got death threats",
     "desc": "Sharmila Tagore and Mansoor Ali Khan Pataudi's 1968 interfaith marriage faced significant opposition, including death threats to Tagore's parents. Despite media predictions of failure and concerns from friends like Yash Chopra, the couple's union endured for 43 years. Tagore revealed they lived together before marrying for convenience and that Pataudi's kindness and patience profoundly influenced her, teaching her valuable life lessons.",
@@ -25,6 +79,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/education/maharashtra-tet-2026-paper-leak-probe-exam-postponed-updates-latest/article71153926.ece",
     "time": "2026-06-27T18:23:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "War on Iran",
+    "desc": "The war the U.S. and Israel launched has come to a fragile pause with a preliminary agreement between Washington and Tehran, but it has already diminished America’s presence in the region, prompting Gulf countries to seek a new modus vivendi with Tehran, while Israel, isolated and angry, is clinging on to its Lebanon card",
+    "img": "https://th-i.thgim.com/public/incoming/8kk7bh/article71155398.ece/alternates/LANDSCAPE_1200/2026-06-16T062055Z_1617149998_RC2QULAYQ4I9_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/war-on-iran-the-story-of-a-shipwrecked-hegemon/article71155421.ece",
+    "time": "2026-06-27T18:01:01.000Z"
   },
   {
     "cat": "Politics",
@@ -207,15 +270,6 @@ const newsData_en = [
     "time": "2026-06-27T15:45:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Plea in Supreme Court seeks creation of fire safety framework for high-risk public buildings",
-    "desc": "Petitioner says right to life under Article 21 is not a right to be rescued after a fire, but a right not to be knowingly exposed to preventable fires by a State with requisite power, codes, duty to prevent such danger",
-    "img": "https://th-i.thgim.com/public/incoming/y9hxpa/article71155173.ece/alternates/LANDSCAPE_1200/PTI06_24_2026_000417B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/plea-in-supreme-court-seeks-creation-of-fire-safety-framework-for-high-risk-public-buildings/article71154746.ece",
-    "time": "2026-06-27T15:43:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Imran on telling daughter Imara about relationship with Lekha post divorce with Avantika",
     "desc": "Actor Imran Khan, embracing single fatherhood, shared insights into introducing his daughter Imara to his girlfriend Lekha Washington. He emphasized transparency and honesty in parenting, believing children learn by example. Khan also discussed how fatherhood has influenced his perspective on film portrayals of women and his cautious approach to technology for his daughter, cherishing their simple moments together.",
@@ -378,15 +432,6 @@ const newsData_en = [
     "time": "2026-06-27T13:00:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Can India break its habit of self-medication?",
-    "desc": "India grapples with widespread self-medication, a habit deeply ingrained in its healthcare culture. While responsible self-care for minor ailments is encouraged, the unsupervised use of prescription drugs, especially antibiotics, fuels antimicrobial resistance. Recent government regulations on cough syrups signal a push for safer medicine use, but experts emphasize the need for improved healthcare access and public awareness to break this dangerous dependency.",
-    "img": "https://static.toiimg.com/photo/msid-132035166,imgsize-1230794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/can-india-break-its-habit-of-self-medication/articleshow/132032750.cms",
-    "time": "2026-06-27T12:50:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "When a sport brings a martyr to life",
     "desc": "In the same country which planned the removal of Lumumba, Mboladinga would stand a living statue with his hand raised in solidarity and tribute to the leader who was all black and nothing but an anti-imperialist",
@@ -432,15 +477,6 @@ const newsData_en = [
     "time": "2026-06-27T12:19:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'I am a farmer': Union minister on Rs 99L subsidy row; Gehlot says 'new model of corruption'",
-    "desc": "Union Minister of State for Agriculture Bhagirath Choudhary has denied allegations of receiving a nearly Rs 1 crore subsidy from his ministry for his own farm, stating he applied years before becoming a minister and that the project is transparent. The claims have drawn sharp criticism from opposition leaders, who label it a \"new model of corruption\" and a conflict of interest within the government.",
-    "img": "https://static.toiimg.com/photo/msid-132034704,imgsize-90882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-am-a-farmer-union-minister-on-rs-99l-subsidy-row-gehlot-says-new-model-of-corruption/articleshow/132034687.cms",
-    "time": "2026-06-27T12:16:31.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "All about K. Bhagyaraj's three unfulfilled dreams",
     "desc": "directing a modern crime web series, witnessing his son Shanthnu's rise as a leading actor, and helming one final feature film. These aspirations, though unrealized, highlight his enduring creative spirit and leave a lasting legacy.",
@@ -477,15 +513,6 @@ const newsData_en = [
     "time": "2026-06-27T12:05:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Any exam left?' Opposition tears into BJP over Maharashtra TET 'paper leak'",
-    "desc": "Maharashtra's Teacher Eligibility Test (TET) exam, scheduled for June 28, has been postponed following a suspected paper leak in Bhiwandi. Police seized materials matching exam questions, prompting the Maharashtra State Council of Examination to cancel the test for transparency. Both the Cockroach Janta Party and Congress have slammed the BJP-led state government over the incident, calling it \"incapable\" and the \"Paper Leak Government.\"",
-    "img": "https://static.toiimg.com/photo/msid-132035117,imgsize-789027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/incapable-of-conducting-exams-cjps-abhijeet-dipke-slams-bjp-over-maharashtra-tet-paper-leak/articleshow/132034205.cms",
-    "time": "2026-06-27T12:03:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Can AI boom make everything more expensive? IMF's chief economist says the inflation story is just beginning",
     "desc": "Artificial intelligence is now a new driver of inflation, according to IMF Chief Economist Pierre-Olivier Gourinchas. He explains that AI is increasing costs for technology hardware and simultaneously making consumers wealthier through booming stock markets, leading to higher spending. This dual impact on both supply and demand channels is creating fresh inflationary pressures, a concern for the global economy.",
@@ -511,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-says-it-hits-us-linked-targets-as-bahrain-reports-drone-attack/article71154002.ece",
     "time": "2026-06-27T11:37:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Committed to ensuring fair probe': Ram Mandir Trust confirms Champat Rai's resignation, says donations are safe",
-    "desc": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has received resignations from General Secretary Champat Rai and trustee Anil Mishra amidst allegations of donation embezzlement at the Ayodhya Ram Mandir. The trust assures devotees their offerings are safe and accounted for, while confirming an FIR has been registered following an SIT probe. Legal proceedings are underway to address the controversy and restore public confidence.",
-    "img": "https://static.toiimg.com/photo/msid-132033752,imgsize-251346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/committed-to-ensuring-fair-probe-ram-mandir-trust-confirms-champat-rais-resignation-says-donations-are-safe/articleshow/132033758.cms",
-    "time": "2026-06-27T11:28:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -549,15 +567,6 @@ const newsData_en = [
     "time": "2026-06-27T11:10:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Uruguay coach loses cool after FIFA World Cup 2026 exit",
-    "desc": "Marcelo Bielsa's future as Uruguay coach is under pressure after the team's early exit from the FIFA World Cup 2026. Uruguay failed to win a match in Group H, drawing against Saudi Arabia and Cape Verde before losing 1-0 to Spain. Bielsa also drew attention after reacting angrily to a journalist, before later accepting responsibility for the disappointing campaign.",
-    "img": "https://static.toiimg.com/photo/msid-132032845,imgsize-96678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-uruguay-coach-marcelo-bielsa-loses-cool-after-fifa-world-cup-2026-exit/articleshow/132032756.cms",
-    "time": "2026-06-27T10:39:31.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Six-storey bungalow is on the way",
     "desc": "Salman Khan is reportedly moving out of Galaxy Apartments, where his family has lived since 1974. The MCZMA granted clearance on June 16 to build a six-storey sea-facing bungalow in Bandra's Chimbai area. The move is said to be linked to repeated threats from Lawrence Bishnoi's gang.",
@@ -565,24 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-is-moving-out-of-galaxy-apartments-a-new-six-storey-sea-facing-bungalow-is-on-the-way/articleshow/132032962.cms",
     "time": "2026-06-27T10:39:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suhasini describes K Bhagyaraj's FINAL moments",
-    "desc": "Actress Suhasini shared poignant details of filmmaker K. Bhagyaraj's final moments. He attended a wedding in Goa and returned to Chennai, feeling well enough for his usual morning walk. Upon returning home, he complained of chest pain and was promptly taken to the hospital. Suhasini fondly remembered him as someone who always brought smiles, leaving a void in Tamil cinema.",
-    "img": "https://static.toiimg.com/photo/msid-132032900,imgsize-122328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suhasini-describes-k-bhagyarajs-final-moments-went-for-his-regular-morning-walk-after-returning-home-he-said/articleshow/132032891.cms",
-    "time": "2026-06-27T10:37:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nivin Pauly’s 50th film titled ‘Vijayam’",
-    "desc": "Malayalam star Nivin Pauly's 50th film, titled 'Vijayam', has been unveiled by director Alphonse Puthren. The title announcement arrived via a creative short film-style teaser, showcasing Nivin in a striking biker avatar. This collaboration marks the reunion of the 'Premam' duo after 11 years, promising an exciting cinematic experience for fans. The film is poised to be a high-energy entertainer.",
-    "img": "https://static.toiimg.com/photo/msid-132032877,imgsize-113130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vijayam-title-teaser-out-nivin-pauly-reunites-with-alphonse-puthren-after-11-years/articleshow/132032855.cms",
-    "time": "2026-06-27T10:33:00.000Z"
   },
   {
     "cat": "Sports",
@@ -628,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/fih-pro-league-dominant-india-thrash-pakistan-7-1/article71153642.ece",
     "time": "2026-06-27T09:21:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra to compete at Asian Games 2026, AFI confirms",
-    "desc": "The two-time Olympic medallist Neeraj Chopra has already confirmed his participation in the Commonwealth Games, and the AFI has now made it clear that he will also be part of India's campaign at the Asian Games in Aichi-Nagoya from September 19 to October 4.",
-    "img": "https://static.toiimg.com/photo/msid-132031651,imgsize-38322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/neeraj-chopra-to-compete-at-asian-games-2026-afi-confirms/articleshow/132031605.cms",
-    "time": "2026-06-27T09:07:28.000Z"
   },
   {
     "cat": "Business",
@@ -745,24 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-economy-may-grow-up-to-6-8-in-fy27-as-domestic-demand-stays-resilient-ey/articleshow/132021647.cms",
     "time": "2026-06-26T17:27:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Venezuela earthquake: death toll shoots to 589, several countries to the rescue",
-    "desc": "The death toll from two powerful earthquakes in Venezuela rose to 589, with 2,980 injured, acting President Delcy Rodríguez said early on Friday, June 26. Rescuers were boosted by international teams, as they raced to find survivors beneath collapsed buildings. India too has stepped in to help, with two Indian Air Force C-17s taking-off with medical teams and 35 tons of emergency supplies, as well as a military field hospital, as announced by External Affairs Minister S Jaishankar on Friday.",
-    "img": "https://th-i.thgim.com/public/incoming/keozwa/article71151765.ece/alternates/LANDSCAPE_1200/venezuela.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-venezuela-earthquake-death-toll-shoots-to-589-several-countries-to-the-rescue/article71151761.ece",
-    "time": "2026-06-26T16:28:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Eight arrested over Ram temple donations scandal",
-    "desc": "From arrests over the alleged embezzlement of Ram temple donations and a standoff between Nihang Sikhs and the police in Uttarakhand, to the release of the names of servicemen who died during Operation Sindoor, the rising death toll from Venezuela’s earthquakes, revised fuel prices, higher Apple product prices, FIFA highlights, and more.",
-    "img": "https://th-i.thgim.com/public/news/national/cp6vh9/article71151409.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-26%20at%208.34.25%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-eight-arrested-over-ram-temple-donations-scandal-above-the-fold-26062026/article71151411.ece",
-    "time": "2026-06-26T16:05:31.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
     "time": "2026-06-23T07:14:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AI is helping patients understand cancer but misunderstand doctors",
+    "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/1qs3pd/article71100260.ece/alternates/LANDSCAPE_1200/angiola-harry-SJCalEw-1LM-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
+    "time": "2026-06-21T10:16:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];

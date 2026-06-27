@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "First half ends 0-0, frustrating night for England so far",
+    "desc": "England will look to seal top spot in Group L when they take on already-eliminated Panama in their final FIFA World Cup 2026 group-stage fixture at the New York New Jersey Stadium in the early...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/eng-vs-pan-fifa-world-cup-live-england-vs-panama-live-score-tactical-analysis-minute-by-minute-commentary-highlights-1046372",
+    "time": "2026-06-27T20:34:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Abhishek Sharma's half-century against Ireland in first T20I erased from record books?",
+    "desc": "Abhishek Sharma's half-century in the first T20I against Ireland was erased from the record books after a post-match scoring correction. His final score was reduced from 50 to 49 following India's embarrassing defeat to Ireland...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-abhishek-sharma-s-half-century-against-ireland-in-first-t20i-erased-from-record-books-2026-06-28-1046371",
+    "time": "2026-06-27T20:19:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Zimbabwe vs Bangladesh one-off Test live on TV and stream online in India?",
+    "desc": "Zimbabwe return to Test cricket with a home fixture against Bangladesh in Harare, marking another one-off appearance in a format they have played sparingly outside structured cycles. The match begins on Sunday, June 28 and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-zimbabwe-vs-bangladesh-one-off-test-live-on-tv-and-stream-online-in-india-2026-06-28-1046370",
+    "time": "2026-06-27T19:27:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Which is the only team to not score a single goal in FIFA World Cup 2026?",
     "desc": "Panama have become the only team at the FIFA World Cup 2026 yet to score a single goal, following defeats in their opening two Group L matches against Ghana and Croatia. With two 1-0 losses,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/cabo-verde-head-coach-opens-up-on-taking-on-champions-argentina-in-fifa-world-cup-2026-knockouts-2026-06-27-1046326",
     "time": "2026-06-27T10:06:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer questions team India over star all-rounder after first T20I defeat against Ireland",
-    "desc": "The Indian team got off to a subpar start to the ongoing two-game series against Ireland. Taking on the side in Belfast on June 26, the Men in Blue failed to secure a win and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-team-india-over-star-all-rounder-after-first-t20i-defeat-against-ireland-2026-06-27-1046317",
-    "time": "2026-06-27T08:22:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Lionel Messi start for Argentina in upcoming FIFA World Cup 2026 clash against Jordan? Head coach reveals",
-    "desc": "The stage is set for yet another exciting clash in the ongoing FIFA World Cup 2026. Defending champions Argentina will be taking on Jordan in their final group stage clash on June 28th. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/will-lionel-messi-start-for-argentina-in-upcoming-fifa-world-cup-2026-clash-against-jordan-head-coach-reveals-2026-06-27-1046309",
-    "time": "2026-06-27T07:02:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma achieves massive feat with quickfire half-century against Ireland despite defeat in first T20I",
-    "desc": "The Indian team kicked off their two-game T20I series against Ireland by taking on the side in the first T20I in Belfast. The two sides met on June 26th, and it was Ireland who managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-achieves-massive-feat-with-quickfire-half-century-against-ireland-despite-defeat-in-first-t20i-2026-06-27-1046304",
-    "time": "2026-06-27T05:57:48.000Z"
   }
 ];
