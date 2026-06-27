@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Sharmila lived in with Tiger Pataudi before they got married, got death threats",
+    "desc": "Sharmila Tagore and Mansoor Ali Khan Pataudi's 1968 interfaith marriage faced significant opposition, including death threats to Tagore's parents. Despite media predictions of failure and concerns from friends like Yash Chopra, the couple's union endured for 43 years. Tagore revealed they lived together before marrying for convenience and that Pataudi's kindness and patience profoundly influenced her, teaching her valuable life lessons.",
+    "img": "https://static.toiimg.com/photo/msid-132041476,imgsize-177338.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sharmila-tagore-lived-in-with-tiger-pataudi-before-they-got-married-got-death-threats-for-their-interfaith-wedding-yash-chopra-told-me-nawabs-are-doubtful-people/articleshow/132041478.cms",
+    "time": "2026-06-27T18:57:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Governor’s appointment of Sajitha Rani as Kerala Agricultural University V-C (in-charge) sparks row",
+    "desc": "Governor sets aside the name recommended by the government. Higher Education Minister says Arlekar acted unilaterally, calls decision a violation of democratic principles. Agriculture Minister says the government’s recommendation was made on the basis of ‘academic excellence,’ while Lok Bhavan considered ‘seniority’",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/governors-appointment-of-sajitha-rani-as-kerala-agricultural-varsity-v-c-in-charge-sparks-row/article71155345.ece",
+    "time": "2026-06-27T18:24:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maharashtra Teacher Eligibility Test postponed day before exam after suspicion of paper leak",
+    "desc": "The decision to postpone the exam a day before the exam was taken after an investigation and search by the Bhiwandi Police in Thane district found people in possession of questions similar to those in the TET paper",
+    "img": "https://th-i.thgim.com/public/incoming/p00ytp/article71154024.ece/alternates/LANDSCAPE_1200/_JAI0184.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/maharashtra-tet-2026-paper-leak-probe-exam-postponed-updates-latest/article71153926.ece",
+    "time": "2026-06-27T18:23:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tension as footwear is hurled at Congress MLA Pradeep Eshwar",
+    "desc": "Tension prevailed in Chickballapur town for sometime after a confrontation between Pradeep Eshwar, Congress MLA, and JD(S) workers erupted during a Kempe Gowda Jayanti programme, reaching a flashpoint as a slipper was allegedly hurled at the legislator during a procession",
+    "img": "https://th-i.thgim.com/public/incoming/7nesbr/article71155489.ece/alternates/LANDSCAPE_1200/ALL_7757.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/tension-as-footwear-is-hurled-at-congress-mla-pradeep-eshwar/article71154629.ece",
+    "time": "2026-06-27T17:48:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata loyalist lodges police complaints against rebel MLAs for using party symbol",
+    "desc": "A political rift deepens within the Trinamool Congress as loyalist Dola Sen filed police complaints against rebel MLAs for alleged forgery and impersonation. The breakaway faction, led by Ritabrata Banerjee, met with former Kolkata councillors to bolster their support base. Rebel MLA Sandipan Saha asserted their legitimacy, claiming to be the \"real Trinamool Congress.",
+    "img": "https://static.toiimg.com/photo/msid-132039985,imgsize-174764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tmc-vs-tmc-mamata-loyalist-lodges-police-complaints-against-rebel-mlas-for-using-party-symbol/articleshow/132039989.cms",
+    "time": "2026-06-27T17:44:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "External review clears HDFC Bank of ex-chairman’s concerns",
+    "desc": "The bank said the review, announced on March 24, examined whether any concerns flagged by Mr. Chakraborty were evident from the records, whether he had recorded any dissent during his tenure, and whether such dissent, if any, had been addressed.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/w569sj/article71155470.ece/alternates/LANDSCAPE_1200/iStock-1447599478.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/external-review-clears-hdfc-bank-of-ex-chairmans-concerns/article71155462.ece",
+    "time": "2026-06-27T17:39:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AI should be considered as a tool to assist humans, says expert",
+    "desc": "Speaking at the inaugural session of a two-day workshop for faculty of P.B. Siddhartha Arts and Science College, NIEPA Head of the ICT and Project Management Unit, says teachers must take the lead in preparing students to meet the demands of a rapidly changing world",
+    "img": "https://th-i.thgim.com/public/incoming/m3qxld/article71155431.ece/alternates/LANDSCAPE_1200/10215_27_6_2026_20_16_33_1_WHATSAPPIMAGE2026_06_27AT72104PM.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ai-should-be-considered-as-a-tool-to-assist-humans-says-expert/article71154668.ece",
+    "time": "2026-06-27T17:20:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Persistent to acquire German digital engineering firm Nagarro for €1.1 billion",
+    "desc": "Anand Deshpande, Founder, Chairman and Managing Director, Persistent Systems said, “AI is reshaping our industry at an unprecedented pace. Success will belong to companies that combine deep technical capability with global reach, while continuing to attract, develop and inspire exceptional people.”",
+    "img": "https://th-i.thgim.com/public/business/100nn/article71155159.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-27%20at%209.03.31%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/persistent-to-acquire-german-digital-engineering-firm-nagarro-for-11-billion/article71154363.ece",
+    "time": "2026-06-27T17:19:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Naidu disburses ₹300 crore R&R funds to Veligonda project-displaced families",
+    "desc": "Thanks to the sacrifices made by the affected people, the project helps in providing irrigation water to 4.47 lakh acres and drinking water to 23 lakh people, and transform the fortunes of four districts, says the Chief Minister",
+    "img": "https://th-i.thgim.com/public/incoming/jo0jdm/article71155001.ece/alternates/LANDSCAPE_1200/IMG_20260627_135353.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-disburses-300-crore-rampr-funds-to-veligonda-project-displaced-families/article71154776.ece",
+    "time": "2026-06-27T17:17:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre debunks social media claims over Rajnath Singh’s Operation Sindoor speech",
+    "desc": "According to the clarification by the Ministry of Defence, Rajnath Singh’s remarks were specifically intended to counter a widely circulated false narrative at the time that claimed Indian Air Force pilots had been killed during Operation Sindoor",
+    "img": "https://th-i.thgim.com/public/incoming/hpwk4k/article71155432.ece/alternates/LANDSCAPE_1200/20250728349L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centre-debunks-social-media-claims-over-rajnath-singhs-operation-sindoor-speech/article71154724.ece",
+    "time": "2026-06-27T17:13:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ireland stun West Indies to register historic first Women's T20 World Cup win in 12 years",
+    "desc": "Ireland achieved a historic six-wicket victory over the West Indies in the ICC Women's T20 World Cup, ending a 21-match losing streak. Orla Prendergast's brilliant 63 anchored the chase, securing Ireland's first-ever tournament win. This result significantly impacts the semifinal race, offering New Zealand a chance to advance. The win follows a memorable weekend for Irish cricket.",
+    "img": "https://static.toiimg.com/photo/msid-132039100,imgsize-169282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/ireland-stun-west-indies-to-register-historic-first-womens-t20-world-cup-win-in-12-years/articleshow/132039114.cms",
+    "time": "2026-06-27T17:07:14.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Accenture’s revenue growth guidance cut shocks tech industry",
+    "desc": "Accenture recently narrowed its full-year 2026 revenue growth guidance to 3-4%, down from 3-5% earlier, triggering an immediate plunge in its own stock prices and throwing the rest of the global tech services industry, which is already hit by global uncertainties, into a new tizzy.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/6jkbw9/article71155409.ece/alternates/LANDSCAPE_1200/iStock-1795499144.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/accentures-revenue-growth-guidance-cut-shocks-tech-industry/article71151263.ece",
+    "time": "2026-06-27T17:06:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Auqib Nabi sends strong message to selectors with 4-wicket haul in unofficial Test",
+    "desc": "Starting the day on 113 for 2, Sri Lanka A looked well placed and reached 300 for 5 before Nabi changed the game with the second new ball. The Jammu and Kashmir seamer picked up four wickets as Sri Lanka A were bowled out for 330.",
+    "img": "https://static.toiimg.com/photo/msid-132038578,imgsize-542185.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/auqib-nabi-sends-strong-message-to-selectors-with-4-wicket-haul-in-unofficial-test-against-sri-lanka-a/articleshow/132037063.cms",
+    "time": "2026-06-27T16:51:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Has Kriti broken up with Kabir? Truth behind his VIRAL PIC with another girl",
+    "desc": "Rumours of Kriti Sanon and businessman Kabir Bahia's breakup have been circulating after a picture of Kabir with another woman went viral. However, sources close to Kabir have clarified that the woman is a family friend he considers a sister, dismissing the breakup claims as baseless. The couple, who have been subject to dating speculation due to public appearances, remain focused on their careers.",
+    "img": "https://static.toiimg.com/photo/msid-132038915,imgsize-275443.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/has-kriti-sanon-broken-up-with-kabir-bahia-heres-the-truth-behind-his-viral-photos-with-another-girl/articleshow/132038816.cms",
+    "time": "2026-06-27T16:49:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Silicon Valley of North India': Ashwini Vaishnaw sees Jewar emerging as chip manufacturing hub",
+    "desc": "Jewar is set to become a major electronics manufacturing hub with two new projects worth Rs 6,750 crore, expected to create 3,000 jobs. Union Minister Ashwini Vaishnaw announced the foundation stones were laid for facilities producing advanced printed circuit boards and HVAC components. This move signifies India's shift from assembly to deep manufacturing, aiming to reduce import dependence and boost the economy.",
+    "img": "https://static.toiimg.com/photo/msid-132038755,imgsize-440657.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/silicon-valley-of-north-india-ashwini-vaishnaw-sees-jewar-emerging-as-chip-manufacturing-hub/articleshow/132038705.cms",
+    "time": "2026-06-27T16:35:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Khushbu hits back at backlash over sharing daughter's wedding PIC after K Bhagyaraj's demise",
+    "desc": "Veteran filmmaker K Bhagyaraj passed away on Saturday. His last public appearance was at Khushbu Sundar's daughter's wedding. Khushbu has been sharing photos from her daughter's wedding on social media and faced backlash for sharing these wedding photos after Bhagyaraj's demise. The actress turned politician has now hit back at trolls.",
+    "img": "https://static.toiimg.com/photo/msid-132038621,imgsize-365628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/khushbu-sundar-strongly-reacts-to-backlash-for-posting-photos-from-daughters-wedding-after-k-bhagyarajs-demise-why-follow-me/articleshow/132038617.cms",
+    "time": "2026-06-27T16:29:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sujata Rout no ordinary cadre, key to BJD’s revival push",
+    "desc": "If the BJD can rebuild its activities around a committed core group, it can regain its footing in Odisha, feel political commentators; with her personal contacts with leaders of women SHGs, Sujata Rout can regroup women for the party’s cause ahead of panchayat elections early next year",
+    "img": "https://th-i.thgim.com/public/incoming/f69u72/article71154928.ece/alternates/LANDSCAPE_1200/TH25-Barik--UPDGE7G5QN9H.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/sujata-rout-no-ordinary-cadre-key-to-bjds-revival-push/article71154761.ece",
+    "time": "2026-06-27T16:17:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Four killed, eight injured in lightning strikes in Chhindwara, Madhya Pradesh",
+    "desc": "Police said Satish Walke (19) and Lucky Meravi (18) died on the spot in Bhamori near Birwa after being struck by a bolt from the sky, while Jhaam Singh Taram (34) succumbed to injuries during treatment in the hospital",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-chhindwara-lightning-deaths-injuries/article71154964.ece",
+    "time": "2026-06-27T16:17:24.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Can Kunal Shah turn Whatsapp into a money-spinner?",
+    "desc": "Meta has made a major leadership move that could redefine the future of WhatsApp. The company appointed CRED founder Kunal Shah as WhatsApp’s new global head, alongside a $900 million investment in CRED. But why is this appointment so significant? We look back at the history of Whatsapp’s acquisition by Meta, what worked, what didn’t, Meta’s previous unsuccessful attempts at launching its own payment systems and what Shah’s previous experience with CRED could mean for Whatsapp.",
+    "img": "https://th-i.thgim.com/public/incoming/bhaxh7/article71155278.ece/alternates/LANDSCAPE_1200/kunal%20shah%20whatsapp.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-can-kunal-shah-turn-whatsapp-into-a-money-spinner/article71155279.ece",
+    "time": "2026-06-27T16:17:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Historic! Ancy Sojan breaks Anju Bobby George's 22-year-old national record",
+    "desc": "Kerala's Ancy Sojan created history by breaking Anju Bobby George's 22-year-old national long jump record with a leap of 6.88m at the National Inter-State Athletics Championships in Bhubaneswar. In another landmark achievement, Sarvesh Kushare set a new national high jump record of 2.31m, surpassing Tejaswin Shankar's previous mark of 2.29m.",
+    "img": "https://static.toiimg.com/photo/msid-132038550,imgsize-107860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/historic-ancy-sojan-breaks-anju-bobby-georges-22-year-old-national-record/articleshow/132038452.cms",
+    "time": "2026-06-27T16:17:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uddhav calls for ‘BJP-mukt Ram’, breathes fire against the BJP over the Ram temple donations row",
+    "desc": "The Shiv Sena (UBT) chief slams BJP over its stand that a passport is not proof of citizenship, adding that voters need to question the defected MPs as well as the BJP, which wanted to finish off the Opposition",
+    "img": "https://th-i.thgim.com/public/incoming/kfvnzb/article71155230.ece/alternates/LANDSCAPE_1200/20260626463L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/uddhav-calls-for-bjp-mukt-ram-breathes-fire-against-the-bjp-over-the-ram-temple-donations-row/article71154592.ece",
+    "time": "2026-06-27T16:08:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Serena's Wimbledon Return: Djokovic calls it 'epic'; Sabalenka also awe-struck",
+    "desc": "Serena Williams' return to Wimbledon has created huge excitement, with fans and players captivated by her comeback after nearly four years away from singles tennis. The seven-time champion, now 44, looked sharp during practice ahead of her first-round match against Maya Joint. Novak Djokovic called her return \"truly inspirational\", while Aryna Sabalenka said, \"It's Serena Williams, everyone is talking about that.\"",
+    "img": "https://static.toiimg.com/photo/msid-132038004,imgsize-171174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/serena-williams-wimbledon-return-novak-djokovic-calls-it-epic-aryna-sabalenka-also-awe-struck/articleshow/132037941.cms",
+    "time": "2026-06-27T15:46:00.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Iran's inflation surges to 88.6% as war deepens economic crisis",
     "desc": "Iran's inflation has skyrocketed to 88.6%, its highest in months, as the Middle East conflict intensifies economic woes. Food prices have more than doubled, with bread, grains, and meat seeing staggering year-on-year increases. This surge compounds existing challenges of sanctions and hyperinflation, severely impacting household purchasing power and fueling public discontent.",
@@ -16,33 +214,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/plea-in-supreme-court-seeks-creation-of-fire-safety-framework-for-high-risk-public-buildings/article71154746.ece",
     "time": "2026-06-27T15:43:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Naidu disburses ₹300 crore R&R funds to Veligonda project-displaced families",
-    "desc": "Thanks to the sacrifices made by the affected people, the project helps in providing irrigation water to 4.47 lakh acres and drinking water to 23 lakh people, and transform the fortunes of four districts, says the Chief Minister",
-    "img": "https://th-i.thgim.com/public/incoming/jo0jdm/article71155001.ece/alternates/LANDSCAPE_1200/IMG_20260627_135353.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-disburses-300-crore-rampr-funds-to-veligonda-project-displaced-families/article71154776.ece",
-    "time": "2026-06-27T15:41:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Maharashtra Teacher Eligibility Test postponed day before exam after suspicion of paper leak",
-    "desc": "The decision to postpone the exam a day before the exam was taken after an investigation and search by the Bhiwandi Police in Thane district found people in possession of questions similar to those in the TET paper",
-    "img": "https://th-i.thgim.com/public/incoming/p00ytp/article71154024.ece/alternates/LANDSCAPE_1200/_JAI0184.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/maharashtra-tet-2026-paper-leak-probe-exam-postponed-updates-latest/article71153926.ece",
-    "time": "2026-06-27T15:31:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Be wary of divisive forces bent on using caste for political gain, warns Pawan Kalyan",
-    "desc": "The YSR Congress Party will do all sorts of political manipulation in the name of caste to undermine the coalition government, and the JSP cadres need to thwart such designs, says the Deputy Chief Minister",
-    "img": "https://th-i.thgim.com/public/incoming/uo7tcd/article71155110.ece/alternates/LANDSCAPE_1200/10215_27_6_2026_20_15_53_1_WHATSAPPIMAGE2026_06_27AT74841PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/be-wary-of-divisive-forces-bent-on-using-caste-for-political-gain-warns-pawan-kalyan/article71154833.ece",
-    "time": "2026-06-27T15:28:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,33 +270,6 @@ const newsData_en = [
     "time": "2026-06-27T14:39:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt. to launch affordable digital health management system for small clinics across India",
-    "desc": "eSushrut@Clinic is a light Hospital Management Information System (HMIS) which will provide a simple digital solution specifically tailored for small outpatient clinics; over 800 health facilities are currently boarded on eSushrut@Clinic, generating over 680 health records",
-    "img": "https://th-i.thgim.com/public/incoming/68ac5t/article71154709.ece/alternates/LANDSCAPE_1200/IMG_iStock-1130934349_2_1_N9F6N4PO.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/govt-to-launch-affordable-digital-health-management-system-for-small-clinics-across-india/article71154465.ece",
-    "time": "2026-06-27T14:38:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Commercial LPG supply back to pre-war levels. What are the changes?",
-    "desc": "In what should come as major relief to restaurants, hotels, eateries and commercial establishments in India, the supply of commercial LPG has been restored to what it was before the West Asia crisis began, in late February. The Union Petroleum Ministry announced on June 25 that all sector-specific restrictions on its supply have been removed. So, what was the situation these past few months?",
-    "img": "https://th-i.thgim.com/public/incoming/e7ij2/article71154901.ece/alternates/LANDSCAPE_1200/commercial%20lpg.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-commercial-lpg-supply-back-to-pre-war-levels-what-are-the-changes-explained/article71154896.ece",
-    "time": "2026-06-27T14:34:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "G. Mallikarjunappa will be remembered for his contribution to education, farming, says Somanna",
-    "desc": "Minister of State for Railways and Jal Shakti V. Somanna has said that former Member of Parliament late G. Mallikarjunappa and his family would be remembered for generations for their contribution to the field of education and service towards farmers and commoners.",
-    "img": "https://th-i.thgim.com/public/incoming/ctiuu9/article71154886.ece/alternates/LANDSCAPE_1200/2699_27_6_2026_19_39_22_1_28HUBLIGMSTATUE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/g-mallikarjunappa-will-be-remembered-for-his-contribution-to-education-farming-says-somanna/article71154781.ece",
-    "time": "2026-06-27T14:32:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "Chinese dissident who fled by dinghy to South Korea arrives in Canada, his friend says",
     "desc": "Dong Guangping was aboard a 3.3-meter inflatable boat in the waters off a western South Korean island in May when he was detained by South Korea’s coast guard for allegedly violating the country’s immigration law",
@@ -160,6 +304,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-world-cup/fifa-u17-2017-to-world-cup-2026-football-future/article71154620.ece",
     "time": "2026-06-27T13:55:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Support your local artist, says Naga illustrator Canato Jimo",
+    "desc": "Naga illustrator Canato Jimo said that AI often steals from artists, while asking individuals to support local talent at the Lit for Life Unplugged x Zhouyu Hosts. This was followed by an elaborate dinner by Meghalaya-based chef Ahmedaki Laloo",
+    "img": "https://th-i.thgim.com/public/incoming/qon4li/article71067127.ece/alternates/LANDSCAPE_1200/11658_5_6_2026_22_43_50_4_3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/support-your-local-artist-says-naga-illustrator-canato-jimo/article71067069.ece",
+    "time": "2026-06-27T13:52:03.000Z"
   },
   {
     "cat": "Business",
@@ -441,15 +594,6 @@ const newsData_en = [
     "time": "2026-06-27T10:31:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bindu revealed she stopped Yash's Joshila shoot for two hours",
-    "desc": "Veteran actress Bindu stopped the shoot of Yash Chopra's Joshila for two hours after being asked to wear a bikini without prior notice. She also recalled how Sanjeev Kumar struggled to call her \"Maa\" in Arjun Pandit, having spent the morning shooting romantic scenes with her for another film.",
-    "img": "https://static.toiimg.com/photo/msid-132032751,imgsize-256643.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bindu-revealed-she-stopped-yash-chopras-joshila-shoot-for-two-hours-over-bikini-scene-you-never-told-me-about-this-earlier/articleshow/132032751.cms",
-    "time": "2026-06-27T10:22:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Sooryavanshi is breathing down his neck': Samson gets blunt warning",
     "desc": "Following India's T20I loss to Ireland, former player Sanjay Manjrekar warns Sanju Samson about the rising competition. With young Vaibhav Sooryavanshi on the horizon, Samson faces pressure to perform. While Sooryavanshi's talent is acknowledged, Manjrekar suggests he might not have single-handedly altered the game's outcome, emphasizing the difficulty of the chase and the current lack of openings at the top of the order.",
@@ -477,33 +621,6 @@ const newsData_en = [
     "time": "2026-06-27T09:50:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Khalistani terror threat alert issued for Delhi, Uttarakhand: Report",
-    "desc": "Security agencies have issued a high alert for Delhi and Uttarakhand following intelligence indicating potential attacks by Khalistani terrorists. Temples, government buildings, railway stations, and police installations are identified as possible targets. The threat, reportedly received via email, has prompted heightened vigilance and security reviews across sensitive locations. Investigations are underway to verify the authenticity and origin of the threat.",
-    "img": "https://static.toiimg.com/photo/msid-132032156,imgsize-193440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/khalistani-terror-threat-alert-issued-for-delhi-uttarakhand-report/articleshow/132032146.cms",
-    "time": "2026-06-27T09:49:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth halts 'Dharman' shoot to pay last respects to K. Bhagyaraj",
-    "desc": "Superstar Rajinikanth halted the shoot of his film 'Dharman' to pay his last respects to his close friend, the late filmmaker K. Bhagyaraj. Describing Bhagyaraj as a 'wonderful human being' and an 'extraordinary talent,' Rajinikanth expressed his deep grief. The two shared a decades-long friendship and a memorable collaboration on the 1982 blockbuster 'Pokkiri Raja,' underscoring their profound mutual respect.",
-    "img": "https://static.toiimg.com/photo/msid-132032103,imgsize-137502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-halts-dharman-shoot-to-pay-last-respects-to-k-bhagyaraj-calls-the-late-filmmaker-wonderful-human-being/articleshow/132032089.cms",
-    "time": "2026-06-27T09:45:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aaron Lewis’ album material used as scrap paper for packing Taylor Swift merch",
-    "desc": "Taylor Swift's fans were in for an unexpected treat with their latest merchandise, discovering what looked like song lyrics scribbled on scrap paper. Singer Aaron Lewis revealed that these fragments were actually from his forthcoming album, 'Give Me Back My Country,' mistakenly utilized as packaging. While he found the mix-up perplexing, Lewis graciously stated he holds no blame toward Swift's team for the confusion.",
-    "img": "https://static.toiimg.com/photo/msid-132031991,imgsize-124950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/aaron-lewis-upcoming-album-booklet-used-as-taylor-swifts-packaging-material-he-wonders-what-is-going-on/articleshow/132031952.cms",
-    "time": "2026-06-27T09:33:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Dominant India thrash Pakistan 7-1",
     "desc": "After conceding an early goal, India stormed back through strikes from Sukhjeet Singh (20th), Harmanpreet Singh (26th), Hardik Singh (34th), Jugraj Singh (35th), Abhishek (41st), Raj Kumar Pal (44th) and Dilpreet Singh (54th) to register an emphatic victory",
@@ -520,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/neeraj-chopra-to-compete-at-asian-games-2026-afi-confirms/articleshow/132031605.cms",
     "time": "2026-06-27T09:07:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran's locker room message after Egypt draw goes viral",
-    "desc": "Iran's football team garnered admiration for their sportsmanship, leaving a heartfelt message in the dressing room after their World Cup draw against Egypt. The note emphasized respect and fair play over victory. This follows a similar gesture after their match against Belgium. On the field, Egypt achieved a historic World Cup knockout stage qualification with the 1-1 draw.",
-    "img": "https://static.toiimg.com/photo/msid-132031459,imgsize-48667.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-irans-locker-room-message-after-egypt-draw-goes-viral/articleshow/132031219.cms",
-    "time": "2026-06-27T08:45:56.000Z"
   },
   {
     "cat": "Business",
@@ -583,24 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/the-genius-of-k-bhagyaraj-is-eternal-karthik-kumar/article71153511.ece",
     "time": "2026-06-27T06:42:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Let him serve the team': Ashwin gives massive statement on Sooryavanshi's debut delay",
-    "desc": "Despite anticipation for Vaibhav Sooryavanshi's debut, India's management retained their established opening pair against Ireland. Veteran spinner Ravi Ashwin endorsed this, emphasizing the learning value of observing from the sidelines. He stressed that rushing the young talent isn't beneficial, highlighting that patience and understanding team dynamics are crucial for a long, successful career, even if it means serving in a support role initially.",
-    "img": "https://static.toiimg.com/photo/msid-132029141,imgsize-1193088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/let-him-serve-the-team-ravi-ashwin-gives-massive-statement-on-vaibhav-sooryavanshis-india-debut-delay/articleshow/132029088.cms",
-    "time": "2026-06-27T05:20:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What India need to do to qualify for the semi-finals",
-    "desc": "India's Women's T20 World Cup semi-final hopes are bright after a win against Bangladesh. Currently second in Group A, a victory against unbeaten Australia on Sunday will likely secure their spot. Even with a loss, India could still advance depending on other results, though a significant win margin against Australia would be beneficial. The team's focus remains on a strong performance against the formidable Australian side.",
-    "img": "https://static.toiimg.com/photo/msid-132028655,imgsize-45985.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/womens-t20-world-cup-what-harmanpreet-kaur-led-india-need-to-do-to-qualify-for-the-semi-finals-scenarios-explained/articleshow/132028631.cms",
-    "time": "2026-06-27T04:31:08.000Z"
   },
   {
     "cat": "Sports",
@@ -748,15 +838,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Support your local artist, says Naga illustrator Canato Jimo",
-    "desc": "Naga illustrator Canato Jimo said that AI often steals from artists, while asking individuals to support local talent at the Lit for Life Unplugged x Zhouyu Hosts. This was followed by an elaborate dinner by Meghalaya-based chef Ahmedaki Laloo",
-    "img": "https://th-i.thgim.com/public/incoming/qon4li/article71067127.ece/alternates/LANDSCAPE_1200/11658_5_6_2026_22_43_50_4_3.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/support-your-local-artist-says-naga-illustrator-canato-jimo/article71067069.ece",
-    "time": "2026-06-25T06:36:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Vijay’s birthday photo with Trisha Krishnan triggers a rush for Conçu’s tiramisu",
     "desc": "A photo shared by actor Trisha Krishnan to wish Tamil Nadu Chief Minister Joseph Vijay on his birthday sent fans on a hunt for the tiramisu pictured in the frame. Dessert lovers quickly identified it as Conçu’s signature offering, triggering a surge in orders across Hyderabad and Bengaluru.",
     "img": "https://th-i.thgim.com/public/incoming/r3esu1/article71141666.ece/alternates/LANDSCAPE_1200/Tiramisu.jpg",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-future-of-indias-chip-industry/article71054239.ece",
     "time": "2026-06-23T07:14:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "AI is helping patients understand cancer but misunderstand doctors",
-    "desc": "Patients are increasingly informed but often misinformed. They have information without context. They trust algorithms that sound intelligent but lack accountability. They are sceptical of doctors who try to add nuance because the algorithm validated their simpler interpretation And we are doing this without tracking outcomes",
-    "img": "https://th-i.thgim.com/public/sci-tech/science/1qs3pd/article71100260.ece/alternates/LANDSCAPE_1200/angiola-harry-SJCalEw-1LM-unsplash.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/ai-is-helping-patients-understand-cancer-but-misunderstand-doctors/article71100267.ece",
-    "time": "2026-06-21T10:16:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
   }
 ];

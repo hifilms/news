@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "ভক্তদের জন্য খারাপ খবর! জর্ডন ম্যাচে মেসিকে বেঞ্চে রাখার বড় সিদ্ধান্ত আর্জেন্টিনা কোচ স্কালোনির",
+    "desc": "জর্ডনের বিরুদ্ধে গ্রুপ পর্বের শেষ ম্যাচে প্রথম একাদশে থাকছেন না লিওনেল মেসি। সাংবাদিক সম্মেলনে কোচ লিওনেল স্কালোনি জানিয়ে দিলেন, শনিবার ডালাস স্টেডিয়ামে লিও শুরু করবেন রিজার্ভ বেঞ্চ থেকে। ইতিমধ্যেই নকআউট ও গ্রুপ সেরা হওয়া নিশ্চিত করে ফেলায় ৩৯ বছর বয়সী মহাতারকাকে বাড়তি বিশ্রাম দিতে চায় টিম ম্যানেজমেন্ট। তবে ম্যাচের দ্বিতীয়ার্ধে মাঠে নামতে পারেন 'এলএম১০'।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/fifa-world-cup-2026-argentina-vs-jordan-lionel-messi-benched-scaloni-announcement_660178.html ",
+    "time": "2026-06-27T16:02:47.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "বড় ধাক্কা দিল্লিতে: অর্থমন্ত্রীর পদ থেকে সরছেন নির্মলা সীতারমন, পদ যাচ্ছে শিক্ষামন্ত্রীরও? তোলপাড় দেশ-- নতুন চমক মন্ত্রিত্বে",
     "desc": "দীর্ঘদিন ধরে দেশের অর্থ মন্ত্রকের মতো গুরুত্বপূর্ণ দায়িত্ব সামলানো নির্মলা সীতারামনকে এবার নতুন সাংগঠনিক বা অন্য কোনও গুরুত্বপূর্ণ দায়িত্বে স্থানান্তরিত করা হতে পারে। রাজনৈতিক অলিন্দে গুঞ্জন, তাঁকে উত্তরপ্রদেশ থেকে রাজ্যসভার (Rajya Sabha) শূন্য আসনে প্রার্থী করে সংসদে পাঠানো হতে পারে।",
@@ -133,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/indias-most-vulnerable-to-earthquake-regions-how-prepared-india-for-major-seismic-disaster-explainer_659931.html ",
     "time": "2026-06-25T13:06:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'না বললেই তো পারতো! মারতে গেল কেন?', উত্তর হাতড়াচ্ছেন কেতনের বাবা, মা চাইছেন ফাঁসি",
-    "desc": "কেতনের বাবা বলেন, ‘যদি ও বিয়ে করতে না চাইত, তবে সহজেই না করে দিতে পারত। আমরা তৎক্ষণাৎ বিয়ে বাতিল করে দিতাম। এত বড় পদক্ষেপের কী দরকার ছিল? এরা কতটা নিষ্ঠুর মানসিকতার যে একটা ২৬ বছরের ছেলেকে খুন করে ফেলল!’",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/she-could-have-said-no-father-on-son-killed-by-fiance-near-pune-mother-demands-death-penalty_659845.html ",
-    "time": "2026-06-24T18:38:36.000Z"
   },
   {
     "cat": "Entertainment",
