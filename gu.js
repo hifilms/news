@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશી રાહ જોતો રહી ગયો અને આ બે ખેલાડીઓએ કર્યું ડેબ્યૂ... ભારતીય ટીમમાં બે મોટા ફેરફાર",
+    "desc": "આયર્લેન્ડ સામેની બીજી ટી20માં શ્રેયસ ઐયરે ટોસ જીતીને પહેલા બોલિંગ કરવાનો નિર્ણય લીધો છે. આ મેચ માટે ભારતીય ટીમમાં બે મોટા ફેરફાર કરવામાં આવ્યા છે. વૈભવ સૂર્યવંશી પહેલા સૂર્યાંશ શેડગે અને પ્રિન્સ યાદવે ડેબ્યૂ કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-ire-2nd-t20-vaibhav-suryavanshi-not-playing-suryansh-shedge-prince-yadav-debut-482990 ",
+    "time": "2026-06-28T13:07:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "&amp;#039;આપણે અજાણ્યા નથી, જૂના મિત્રો છીએ...&amp;#039;, PM મોદીએ 1770 સાથે જોડ્યો ભારત-સેશેલ્સનો સંબંધ",
+    "desc": "પીએમ મોદીએ પોતાની સેશેલ્સ યાત્રાના બીજા દિવસે પોતાના 'મહાસાગર વિઝન' પર વાતચીત કરી. જેનો ઉદ્દેશ્ય વિવિધ ક્ષેત્રોમાં સુરક્ષા અને વિકાસ માટે પરસ્પર અને ઓવરઓલ પ્રોગ્રેસ મેળવવાનો છે. આ ઉપરાંત પીએમએ સેશેલ્સની નેશનલ એસેમ્બલીને સંબોધિત કરતી વખતે બન્ને દેશોના ઐતિહાસિક સંબંધો અંગે પણ વાત કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/we-are-not-strangers-we-are-old-friends-pm-modi-linked-india-seychelles-relations-to-1770-482987 ",
+    "time": "2026-06-28T12:06:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ચીન ખુદ ખરીદી રહ્યું છે કરોડોનું સોનું, છતાં સામાન્ય લોકો માટે લગાવ્યા કડક પ્રતિબંધ! જાણો કારણ",
+    "desc": "ચીને 2026ના પહેલા મહિનામાં 692 ટન સોનાની આયાત કરી હતી, જે પાછલા વર્ષ કરતા 76% વધુ છે. ફક્ત મે મહિનામાં જ ચીને 163 ટન સોનાની આયાત કરી હતી, જે દૈનિક 7600 કરોડ રૂપિયાથી વધુની ખરીદી બરાબર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/china-is-buying-gold-worth-crores-yet-it-has-imposed-strict-restrictions-on-common-people-know-the-reason-482977 ",
+    "time": "2026-06-28T11:37:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેવી રીતે કેતનને માર્યો ધક્કો? સિયા-ચેતને ખોલ્યા રાજ! લોહગઢ કિલ્લા પર રીક્રિએટ કરાયો ક્રાઈમ સીન",
+    "desc": "પુણે પોલીસ સિયા ગોયલ અને ચેતન ચૌધરીને લોહગઢ કિલ્લા પર લઈને પહોંચી, જ્યાંથી કેતન અગ્રવાલને ધક્કો મારવામાં આવ્યો હતો. પોલીસે ઘટનાસ્થળે આખો ક્રાઈમ સીન રીક્રિએટ કર્યો, જેથી સમજી શકાય કે આ વારદાતને કેવી રીતે અંજામ આપવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-did-ketan-get-pushed-into-the-valley-ketan-agarwal-murder-lohagad-fort-crime-scene-recreation-siya-goyal-482973 ",
+    "time": "2026-06-28T11:20:13.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ફાંસીની સજા વચ્ચે શેખ હસીનાનું મોટું એલાન! કહ્યું: આ દિવસે બાંગ્લાદેશ પરત ફરીશ",
     "desc": "બાંગ્લાદેશના ભૂતપૂર્વ વડા પ્રધાન શેખ હસીનાએ એક મહત્વપૂર્ણ જાહેરાત કરી છે. તેમણે કહ્યું કે તેઓ આ સમયે પોતાના દેશ પરત ફરશે. હસીનાને મૃત્યુદંડની સજાનો સામનો કરવો પડી રહ્યો છે, પરંતુ તેમણે કહ્યું કે તેઓ કોઈથી ડરતા નથી.",
@@ -252,15 +288,6 @@ const newsData_gu = [
     "time": "2026-06-27T06:20:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કેતન મર્ડર કેસમાં મોટો ખુલાસો, પરિવારમાં આ વ્યક્તિને બધી ખબર હતી, તો સિયાના લગ્ન કેમ ચેતન સાથે ન કરાવ્યા?",
-    "desc": "કેતન અગ્રવાલ કેસમાં એક મોટા અપડેટ આવ્યા છે. સિયાના પરિવારમાંથી સિયાનું ચેતન ચૌધરી સાથે લવ અફેર હતું તેની એક વ્યક્તિને જાણ હતી. આ મામલે બીજા એક અપડેટ એ છે કે જાણતા વકીલ ઉજ્જવલ નિકમે આ કેસ લડવા માટે હામી ભરી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-murder-case-big-update-siya-brother-sahil-knew-about-relationship-of-sister-with-chetan-482821 ",
-    "time": "2026-06-27T05:27:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "સેંથામાં સિંદૂર, કપાળ પર બિંદી, શું હાર્દિકે માહિકા શર્મા સાથે કરી લીધા બીજા લગ્ન? વાયરલ ફોટોએ મચાવ્યો ખળભળાટ",
     "desc": "ટીમ ઇન્ડિયાના ઓલરાઉન્ડર હાર્દિક પંડ્યા અને માહિકા શર્માની એક નવી તસવીર સોશિયલ મીડિયા પર ખૂબ વાયરલ થઈ રહી છે, જેમાં માહિકા શર્માના સેંથામાં સિંદૂર અને કપાળ પર બિંદી જોવા મળી રહી છે. આ ફોટોમાં તેમની સાથે માહિકાની માતા પણ હાજર છે. માહિકાના સેંથામાં સિંદૂર જોઈને લોકો એવી અટકળો લગાવી રહ્યા છે કે બંનેએ કોઈ ખાનગી સમારોહમાં લગ્ન કરી લીધા હોઈ શકે છે. હાર્દિક પંડ્યા કે માહિકા શર્મા તરફથી આ લગ્નના અહેવાલો અંગે હજી સુધી કોઈ સત્તાવાર પુષ્ટિ કે જાહેરાત કરવામાં આવી નથી.",
@@ -295,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-fitment-factor-2-57-or-3-83-big-update-revealed-know-482791 ",
     "time": "2026-06-26T15:57:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA નો અસલી રોમાંચ હવે શરૂ: બ્રાન્ડ્સ માટે હોટસ્પોટ બન્યું &amp;#039;Z&amp;#039; માધ્યમ, વર્લ્ડ કપમાં બ્રાન્ડ્સે ખોલી દીધી તિજોરી!",
-    "desc": "ખેલ જગતનો સૌથી મોટો શો હવે ખૂબ જ પ્રતીક્ષિત રાઉન્ડ ઓફ 32માં પ્રવેશ કરી રહ્યો છે, ત્યારે અગ્રણી કન્ટેન્ટ અને ટેક્નોલોજી પાવરહાઉસ, ઝી એન્ટરટેઈનમેન્ટ એન્ટરપ્રાઈઝિસ લિમિટેડ ('Z')ને જાહેરાતકર્તાઓ તરફથી જબરદસ્ત પ્રતિક્રિયા મળી રહી છે. આ એ ટુર્નામેન્ટનું મોટા પ્રમાણમાં દર્શકો સાથે કનેક્ટ થવાની ક્ષમતા અને બ્રાન્ડસનો વધી રહેલો ભરોસો હોવાનું સાબિત કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/advertisers-trust-in-z-increases-ahead-of-fifa-world-cup-2026-round-of-32-new-big-brands-join-482784 ",
-    "time": "2026-06-26T14:15:19.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +423,6 @@ const newsData_gu = [
     "time": "2026-06-25T07:34:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોના-ચાંદીમાં ભૂકંપ! એક ઝટકે ભાવમાં બંપર ઘટાડો, 7 મહિનાના તળીયે પહોંચ્યા ગોલ્ડ-સિલ્વર, ભાવ ઘટાડાના કારણો પણ જાણો",
-    "desc": "સોના અને ચાંદીમાં આજે બજાર ખુલતા જ જોરદાર કડાકો જોવા મળ્યો છે. વાયદા બજારમાં સોનાનો ભાવ ગગડીને 140698 પર પહોંચ્યો છે જ્યારે ચાંદી 210821 પર જોવા મળી છે. વૈશ્વિક બજારમાં પણ સોનું 4000 ડોલરની અંદર ગયું છે. ભાવમાં કડાકાના કારણો અને લેટેસ્ટ રેટ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/why-are-the-prices-of-gold-and-silver-suddenly-falling-check-latest-gold-silver-mcx-retail-global-rate-482596 ",
-    "time": "2026-06-25T07:15:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સામંથા રુથ પ્રભુએ કંફર્મ કરી પહેલી પ્રેગ્નેન્સી, ડિસેમ્બર 2025 માં ડિરેક્ટર રાજ નિદિમોરુ સાથે કર્યા હતા લગ્ન",
     "desc": "બોલીવુડ અને સાઉથ ફિલ્મ ઈંડસ્ટ્રીની લોકપ્રિય અભિનેત્રી સામંથા રુથ પ્રભુના કેટલાક ફોટો વાયરલ થયા પછી તે પ્રેગ્નેન્સીના કારણે ચર્ચામાં હતી. હવે અભિનેત્રીએ પ્રેગ્નેન્સીની વાતને કંફર્મ કરી દીધી છે. સામંથાએ કઈ રીતે આ ગુડ ન્યુઝ શેર કરી ચાલો તમને પણ જણાવીએ.",
@@ -484,24 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tmkoc-fame-bagha-aka-tanmay-vekaria-father-arvind-vekaria-passes-away-482521 ",
     "time": "2026-06-24T08:34:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચ પહેલા મોટો નિર્ણય! આ કર્મચારીઓને મળશે જૂની પેન્શન યોજનાનો લાભ, સરકારે આપી રાહત",
-    "desc": "8મા પગારપંચ પર ચાલી રહેલી ચર્ચાઓ વચ્ચે કેન્દ્ર સરકારે Compassionate Appointment મેળવતા કર્મચારીઓને મોટી રાહત આપી છે. સરકારે સ્પષ્ટતા કરી છે કે જે કર્મચારીઓએ 31 ડિસેમ્બર, 2003ના રોજ અથવા તે પહેલાં અરજી કરી હતી, તેઓ જૂની પેન્શન યોજના (OPS)નો લાભ મેળવી શકે છે, પછી ભલે તેમની નિમણૂક કરવામાં આવે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-decision-before-8th-pay-commission-these-employees-will-get-the-benefit-of-old-pension-scheme-government-gives-relief-482517 ",
-    "time": "2026-06-24T07:31:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભારતીય શેરબજારમાં આવશે મોટો ભૂકંપ? દિગ્ગજ રોકાણકારની ડરામણી ભવિષ્યવાણી!",
-    "desc": "પ્રખ્યાત રોકાણકાર અને લેખક માર્ક ફેબરના મતે, આગામી સમયગાળામાં ભારતીય શેરબજારમાં 20 ટકાનો ઘટાડો જોવા મળશે. ખાનગી પોર્ટલના અહેવાલ મુજબ, માર્ક ફેબર કહે છે કે ભારતમાં મંદીનો માહોલ પહેલેથી જ સ્થાપિત થઈ ગયો છે. તેમનું કહેવું છે કે કોર્પોરેટ કમાણી નિરાશાજનક બની શકે છે. ભારતીય બજાર હાલમાં ખૂબ મોંઘુ છે, જેના કારણે ખરીદી શરૂ કરવી અયોગ્ય બની ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-there-be-a-big-earthquake-in-the-indian-stock-market-scary-prediction-from-a-veteran-investor-482492 ",
-    "time": "2026-06-24T04:00:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -619,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/even-a-zero-watt-bulb-consumes-electricity-so-why-is-it-named-that-way-discover-the-interesting-story-behind-it-482180 ",
     "time": "2026-06-21T06:42:45.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હોર્મુઝ ફરી બંધ, ઓઈલ બજારમાં વધી ચિંતા... તૂટી ગઈ અમેરિકા-ઈરાન વચ્ચેની ડીલ ?",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે થયેલા શાંતિ કરાર પર હવે ખતરો મંડરાઈ રહ્યો હોય તેવું લાગે છે, કારણ કે લેબનોન પર ઇઝરાયલના હુમલા બાદ ઈરાને ફરી એકવાર હોર્મુઝ સ્ટ્રેટ બંધ કરી દીધું છે, જેના કારણે ઓઈલ સંકટનો ભય વધી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/strait-of-hormuz-closed-again-iran-blames-us-israel-ceasefire-breach-482165 ",
-    "time": "2026-06-21T06:30:48.000Z"
   },
   {
     "cat": "Tech",

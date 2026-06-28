@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "INDW vs AUSW Women's T20 World Cup LIVE Cricket Score: India face mighty Aussies in fight for semis",
+    "desc": "India face a must-win encounter against six-time champions Australia in their final Group A match of the Women's T20 World Cup on Sunday, with a semifinal berth hanging in the balance. Harmanpreet Kaur's side has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-ausw-womens-t20-world-cup-live-cricket-score-india-vs-australia-latest-match-updates-scorecard-teams-2026-06-28-1046438",
+    "time": "2026-06-28T12:59:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Vaibhav Sooryavanshi playing for India today in IND vs IRE 2nd T20I? Check Playing XIs",
+    "desc": "Vaibhav Sooryavanshi missed out on making his much-awaited International debut as India face Ireland in the second and final T20I of the series at Civil Service Cricket Club, Belfast. Sooryavanshi had to wait for his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-vaibhav-sooryavanshi-playing-for-india-today-in-ind-vs-ire-2nd-t20i-check-playing-xis-2026-06-28-1046432",
+    "time": "2026-06-28T12:23:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India hand two debuts in must-win 2nd T20I in bid to avoid series defeat in Belfast",
+    "desc": "India have handed debuts to international debut to Suryansh Shedge and T20I debut to Prince Yadav as the Men in Blue look to avoid an embarrassing series defeat at the Civil Service Cricket Club, Belfast....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-hand-two-debuts-in-must-win-2nd-t20i-in-bid-to-avoid-series-defeat-in-belfast-2026-06-28-1046430",
+    "time": "2026-06-28T12:10:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India look for more strikes in second half of innings",
+    "desc": "India will look to bounce back from a stunning defeat when they face Ireland in the second and final T20I on Sunday, with captain Shreyas Iyer hoping his side can level the series after an...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ire-2nd-t20i-live-cricket-score-india-vs-ireland-civil-service-cricket-club-belfast-latest-match-updates-scorecard-teams-highlights-2026-06-28-1046429",
+    "time": "2026-06-28T12:00:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India create history at World Rowing Cup, bag first-ever gold medal in Switzerland",
+    "desc": "India created history at the 2026 World Rowing Cup III as Lakshay and Ujjwal Kumar Singh led the nation to the first-ever gold medal at a World Rowing Cup event on Saturday. The Indian pair...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-create-history-at-world-rowing-cup-bag-first-ever-gold-medal-in-switzerland-2026-06-28-1046424",
+    "time": "2026-06-28T11:19:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How can India qualify for Women's T20 World Cup 2026 semifinal as Australia challenge beckons?",
     "desc": "With their T20 World Cup semifinal hopes hanging in the balance, India meet Australia in their final league stage match of the tournament at the iconic Lord's on Sunday, June 28. The Women in Blue...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ire-weather-report-how-will-weather-in-belfast-fare-for-the-second-t20i-of-the-series-2026-06-28-1046393",
     "time": "2026-06-28T05:13:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will the surface at Civil Service Cricket Club in Belfast play for the 2nd T20I?",
-    "desc": "The stage is set for the second and final T20I of the ongoing series between India and Ireland. The two sides will meet at the Civil Service Cricket Club in Belfast on June 28th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ire-vs-ind-pitch-report-how-will-the-surface-at-civil-service-cricket-club-in-belfast-play-for-the-2nd-t20i-2026-06-28-1046386",
-    "time": "2026-06-28T03:38:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Colombia holds off Portugal in Miami, finishes top of group K after 0-0 clash",
-    "desc": "Colombia and Portugal took on each other at the Miami Stadium on June 28th, and both sides hoped for a good showing in hopes of finishing at the top of Group K. The likes of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/colombia-holds-off-portugal-in-miami-finishes-top-of-group-k-after-0-0-clash-2026-06-28-1046381",
-    "time": "2026-06-28T02:11:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England ends New Zealand's Women's T20 World Cup 2026 campaign with dominant nine-wicket victory",
-    "desc": "The ongoing Women’s T20 World Cup 2026 has come to an unfortunate end for New Zealand women. The White Ferns have officially been eliminated from the tournament after they faced a hefty defeat at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-ends-new-zealand-s-women-s-t20-world-cup-2026-campaign-with-dominant-nine-wicket-victory-2026-06-28-1046378",
-    "time": "2026-06-28T01:31:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Game ends 0-0, Colombia win Group K",
-    "desc": "The stage is set for the final group stage game for Portugal and Colombia, the two sides take on each other in a bid to finish at the top of the standings. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/por-vs-col-fifa-world-cup-2026-live-cristiano-ronaldo-in-action-as-fight-for-first-place-intensifies-1046374",
-    "time": "2026-06-27T23:25:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Kane breaks all-time record as England register 2-0 win over Panama after frustrating first half display",
-    "desc": "England eventually broke down a stubborn Panama side to win 2-0 in their FIFA World Cup 2026 Group L clash, but Thomas Tuchel’s team were made to work far harder than expected after a frustrating...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/harry-kane-breaks-all-time-record-as-england-register-2-0-win-over-panama-after-frustrating-first-half-display-2026-06-28-1046373",
-    "time": "2026-06-27T23:12:56.000Z"
   }
 ];
