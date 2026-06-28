@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Deepti Sharma shatters women's cricket world record with lone strike in IND vs AUS T20 World Cup clash",
+    "desc": "Deepti Sharma has etched her name into the history books after making a lone strike in the must-win T20 World Cup clash against Australia on Sunday, June 28 at Lord's. Deepti has become the highest...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/deepti-sharma-shatters-womens-cricket-world-record-with-lone-strike-in-ind-vs-aus-t20-world-cup-clash-2026-06-29-1046458",
+    "time": "2026-06-28T18:31:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "More history for Ireland, India's T20I dominance comes to a halt with 2-0 series defeat in Belfast",
+    "desc": "Ireland have entered the history books as they registered a 2-0 sweep over India in the two-match T20I series, ending their long unbeaten run with another famous win at the Civil Service Cricket Club, Belfast....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/more-history-for-ireland-indias-t20i-dominance-comes-to-a-halt-with-2-0-series-defeat-in-belfast-2026-06-28-1046452",
+    "time": "2026-06-28T16:51:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's journey in Women's T20 World Cup comes to an end, knocked out in group stage twice in a row",
+    "desc": "India have been knocked out of the Women's T20 World Cup 2026 after suffering a loss to Australia in their last group stage match at Lord's, London. The Women in Blue had to win their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indias-journey-in-womens-t20-world-cup-comes-to-an-end-knocked-out-in-group-stage-twice-in-a-row-2026-06-28-1046451",
+    "time": "2026-06-28T16:46:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Smriti Mandhana, Shafali Verma shatter world record during IND vs AUS Women's T20 World Cup clash",
     "desc": "India star openers Smriti Mandhana and Shafali Verma have shattered a huge world record during their team's must-win Women's T20 World Cup 2026 clash against Australia on Sunday, June 28. Mandhana and Shafali gave India...",
     "img": "",
@@ -28,7 +55,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "INDW vs AUSW Women's T20 World Cup LIVE Cricket Score: India bat first against Australia in must-win clash",
+    "title": "INDW vs AUSW Women's T20 World Cup Highlights: Australia knock India out of tournament with Lord's win",
     "desc": "India face a must-win encounter against six-time champions Australia in their final Group A match of the Women's T20 World Cup on Sunday, with a semifinal berth hanging in the balance. Harmanpreet Kaur's side has...",
     "img": "",
     "src": "indiatvnews.com",
@@ -55,38 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India look for more strikes in second half of innings",
+    "title": "Ireland sweep world champions India 2-0 with win in Belfast",
     "desc": "India will look to bounce back from a stunning defeat when they face Ireland in the second and final T20I on Sunday, with captain Shreyas Iyer hoping his side can level the series after an...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ire-2nd-t20i-live-cricket-score-india-vs-ireland-civil-service-cricket-club-belfast-latest-match-updates-scorecard-teams-highlights-2026-06-28-1046429",
     "time": "2026-06-28T12:00:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India create history at World Rowing Cup, bag first-ever gold medal in Switzerland",
-    "desc": "India created history at the 2026 World Rowing Cup III as Lakshay and Ujjwal Kumar Singh led the nation to the first-ever gold medal at a World Rowing Cup event on Saturday. The Indian pair...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-create-history-at-world-rowing-cup-bag-first-ever-gold-medal-in-switzerland-2026-06-28-1046424",
-    "time": "2026-06-28T11:19:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can India qualify for Women's T20 World Cup 2026 semifinal as Australia challenge beckons?",
-    "desc": "With their T20 World Cup semifinal hopes hanging in the balance, India meet Australia in their final league stage match of the tournament at the iconic Lord's on Sunday, June 28. The Women in Blue...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-india-qualify-for-womens-t20-world-cup-2026-semifinal-as-australia-challenge-beckons-2026-06-28-1046420",
-    "time": "2026-06-28T10:26:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic opens up on his relationship with Virat Kohli, sets plan for future India visit",
-    "desc": "The stage is set for the latest edition of Wimbledon. The third Grand Slam event of the year will be held in England, like always, and will kick off on June 29th. Ahead of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-opens-up-on-his-relationship-with-virat-kohli-sets-plan-for-future-india-visit-2026-06-28-1046413",
-    "time": "2026-06-28T09:00:47.000Z"
   }
 ];

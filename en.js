@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Hospital dedicated to geriatric care inaugurated in city",
+    "desc": "Karthik Narayan, founder and managing director of Athulya Senior Care, pointed out that India has only around 20,000 dedicated senior care beds, compared with nearly eight million in China and close to three million in the U.S.",
+    "img": "https://th-i.thgim.com/public/incoming/37wz4d/article71157903.ece/alternates/LANDSCAPE_1200/11658_28_6_2026_12_57_13_1__DSC9244COPY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/hospital-dedicated-to-geriatric-care-inaugurated-in-city/article71157775.ece",
+    "time": "2026-06-28T19:08:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can Serena and Djokovic turn back the clock?",
+    "desc": "At Wimbledon 2026, the American great will return to competitive singles after a near four-year absence while the Serb will look to win his first Major since the 2023 US Open. At 44 and 39, age is not on their side. Skill, experience and pedigree will, however, not be in short supply",
+    "img": "https://th-i.thgim.com/public/sport/e6sp6p/article71158972.ece/alternates/LANDSCAPE_1200/GettyImages-480562844.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/resurrection-game-can-serena-and-djokovic-turn-back-the-clock/article71158968.ece",
+    "time": "2026-06-28T19:05:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "More than 1,300 excess deaths recorded in Europe heatwave: WHO",
+    "desc": "At least 191 million people are forecast to endure temperatures of at least 35℃ on June 28, in Europe, with the heat particularly intense in Germany, the Czech Republic, Hungary and Poland, according to AFP estimates",
+    "img": "https://th-i.thgim.com/public/incoming/z1url7/article71158940.ece/alternates/LANDSCAPE_1200/2026-06-28T145038Z_73066879_RC213MAJA5Q7_RTRMADP_3_EUROPE-WEATHER-POLAND.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/more-than-1300-excess-deaths-recorded-in-europe-heatwave-who/article71158768.ece",
+    "time": "2026-06-28T18:16:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat, Anushka cheer for Team India Women's T20 WC clash",
+    "desc": "Star couple Virat Kohli and Anushka Sharma were among the high-profile spectators at Lord's on Sunday as India faced Australia in a crucial Group A clash of the ICC Women's T20 World Cup 2026. Former India opener Shikhar Dhawan and his wife Sophie Shine and Ravi Shastri were also present, with the group later posing together for a picture.",
+    "img": "https://static.toiimg.com/photo/msid-132057218,imgsize-139449.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-anushka-sharma-cheer-for-team-india-at-womens-t20-world-cup-clash-pose-with-ravi-shastri-and-shikhar-dhawan-at-lords/articleshow/132057052.cms",
+    "time": "2026-06-28T18:13:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Five-year-old girl, sleeping at home, found dead in a well in Ramanathapuram",
+    "desc": "Around 5.30 a.m. on Sunday, her mother woke up and found that her elder daughter, who had been sleeping beside her, was missing. On her complaint, the police, along with Fire and Rescue Services, launched a search and found the body the neighbour’s well. A case of suspicious death has been registered",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Madurai/five-year-old-girl-sleeping-at-home-found-dead-in-a-well-in-ramanathapuram/article71157995.ece",
+    "time": "2026-06-28T17:50:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India crash out of Women's T20 WC despite Harmanpreet's heroics",
+    "desc": "Australia knocked India out of the Women's T20 World Cup with a comfortable six-wicket win, thanks to a match-winning 100-run partnership between Ellyse Perry (56) and Ashleigh Gardner (53*). Earlier, Harmanpreet Kaur's explosive 56 off 27 balls helped India post 170/4, but the total proved insufficient as Australia advanced to the semifinals unbeaten.",
+    "img": "https://static.toiimg.com/photo/msid-132056585,imgsize-126395.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/india-crash-out-of-womens-t20-world-cup-despite-harmanpreet-kaurs-heroics/articleshow/132056308.cms",
+    "time": "2026-06-28T17:45:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel strikes south Lebanon despite framework agreement to end hostilities",
+    "desc": "Lebanese President Joseph Aoun told his U.S. counterpart, Donald Trump, on June 27, that his country “would assume its responsibilities” in implementing the framework agreement, which was signed in Washington on June 26, after five rounds of talks",
+    "img": "https://th-i.thgim.com/public/incoming/288ge1/article71158866.ece/alternates/LANDSCAPE_1200/Israel_Lebanon_Iran_War_88141.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israel-strikes-south-lebanon-despite-framework-agreement-to-end-hostilities/article71158767.ece",
+    "time": "2026-06-28T17:43:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "31-year-old Pakistani national held after crossing LoC in Poonch",
+    "desc": "Jammu and Kashmir Police apprehended a 31-year-old Pakistani national, Rayees Khan, on Sunday after he allegedly crossed the Line of Control into Indian territory in the Balakote sector. No incriminating material was found. This marks the third such apprehension this month, following the capture of another Pakistani national, Mohd Sajad, on Friday near the LoC in Poonch. Both individuals are currently being questioned to determine their motives and backgrounds.",
+    "img": "https://static.toiimg.com/photo/msid-132056121,imgsize-1771512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/31-year-old-pakistani-national-held-after-crossing-loc-in-poonch/articleshow/132056116.cms",
+    "time": "2026-06-28T17:23:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBSE cites 11-mark rise to rebut student’s re-eval charge; 99.7% Class XII re-eval cases cleared",
+    "desc": "CBSE has finalized verification and re-evaluation for over 99.7% of Class XII 2026 result applications, refuting a student's social media claims of minimal mark increases as false. The Board detailed a student's actual mark jump of 11 points, including a significant nine-mark rise in Physics. This clarification addresses concerns surrounding the new on-screen marking system, with CBSE assuring that all necessary checks were performed.",
+    "img": "https://static.toiimg.com/photo/msid-132056075,imgsize-595375.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cbse-cites-11-mark-rise-to-rebut-students-re-eval-charge-99-7-class-xii-re-eval-cases-cleared/articleshow/132056073.cms",
+    "time": "2026-06-28T17:18:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ireland shock India again, seal first-ever T20I series win over world champions",
+    "desc": "Ireland achieved a historic one-run victory over reigning T20 World Cup champions India, securing a stunning 2-0 series sweep. Debutant Jai Moondra's fiery opening spell and disciplined death bowling proved crucial as Ireland defended a modest 154. Despite Tilak Varma's valiant 55, India's chase faltered, ending their impressive 16-series winning streak and exposing familiar batting frailties.",
+    "img": "https://static.toiimg.com/photo/msid-132055850,imgsize-1182175.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/ireland-shock-india-again-seal-first-ever-t20i-series-win-over-world-champions/articleshow/132055881.cms",
+    "time": "2026-06-28T17:17:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Assam Rifles, Indian Navy band to join Seychelles' Golden Jubilee Independence Day celebrations",
+    "desc": "India's commitment to Seychelles' security and prosperity was underscored during the island nation's 50th Independence Day celebrations. Prime Minister Modi, the guest of honour, highlighted the indivisible nature of regional security and gifted a fast patrol vessel, LESPWAR, along with other defence equipment. An Assam Rifles contingent and an Indian Navy band participated, with two naval ships docked at Port Victoria, reinforcing decades of unwavering friendship and solidarity.",
+    "img": "https://static.toiimg.com/photo/msid-132055561,imgsize-110570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-rifles-indian-navy-band-to-join-seychelles-golden-jubilee-independence-day-celebrations/articleshow/132055396.cms",
+    "time": "2026-06-28T16:55:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deepti scripts history despite India's T20 WC exit, becomes highest ever to take...",
+    "desc": "Deepti Sharma became the highest wicket-taker in women's international cricket, surpassing Jhulan Goswami's record with the dismissal of Australia's Beth Mooney during India's must-win Women's T20 World Cup clash. Earlier, captain Harmanpreet Kaur's explosive 56 off 27 balls, including three consecutive sixes in the final over, helped India post a competitive 170/4.",
+    "img": "https://static.toiimg.com/photo/msid-132055466,imgsize-104640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/record-deepti-sharma-scripts-history-despite-indias-womens-t20-world-cup-exit-becomes-highest-ever-to-take-/articleshow/132055132.cms",
+    "time": "2026-06-28T16:52:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IMD says wait for monsoon may be over in 5-6 days even as Delhi, Uttar Pradesh reel under heat",
+    "desc": "The India Meteorological Department (IMD) said in a release that conditions are favourable for further advance of the southwest monsoon into some more parts of the North Arabian Sea and some areas of Uttar Pradesh and Uttarakhand, among other States, during the next two to three days.",
+    "img": "https://th-i.thgim.com/public/incoming/5g4n2l/article71158702.ece/alternates/LANDSCAPE_1200/WEATHER%20STANDALONE%20%20DELHI%202026_16_06_5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/imd-says-wait-for-monsoon-may-be-over-in-5-6-days-even-as-delhi-uttar-pradesh-reel-under-heat/article71158649.ece",
+    "time": "2026-06-28T16:33:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uddhav Thackeray seeks disqualification of rebel MPs, says defections part of bigger conspiracy",
+    "desc": "MPs loyal to the Shiv Sena (UBT) had submitted a formal representation to Lok Sabha Speaker Om Birla, seeking an opportunity to present their side, Uddhav Thackeray said, noting that party MP Arvind Sawant had cut short an official visit to Kargil after the Speaker had advanced the date of the hearing",
+    "img": "https://th-i.thgim.com/public/incoming/bjymet/article71158635.ece/alternates/LANDSCAPE_1200/20260627269L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/uddhav-thackeray-seeks-disqualification-of-rebel-mps-says-defections-part-of-bigger-conspiracy/article71158525.ece",
+    "time": "2026-06-28T16:25:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Talks fail to end nurses’ strike in two Thrissur hospitals",
+    "desc": "Hospitals say an immediate wage revision is not feasible, but they will abide by salary revision announced by State govt.; nurses have been on strike for three months in front of the two hospitals, demanding a minimum monthly salary of ₹40,000",
+    "img": "https://th-i.thgim.com/public/incoming/5hvx5b/article71158662.ece/alternates/LANDSCAPE_1200/80688_28_6_2026_21_30_40_1_NURSESLED_KKN1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/talks-fail-to-end-nurses-strike-in-two-thrissur-hospitals/article71158610.ece",
+    "time": "2026-06-28T16:16:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner's fitness under spotlight ahead of Wimbledon title defence",
+    "desc": "As Jannik Sinner begins his Wimbledon title defence, questions remain over his fitness following his dramatic collapse at the French Open. Despite making changes to his training and preparation, experts believe managing physical demands over long matches remains his biggest challenge. Meanwhile, Aryna Sabalenka revealed she sought help from a psychologist after her own Roland Garros disappointment.",
+    "img": "https://static.toiimg.com/photo/msid-132054819,imgsize-95016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/jannik-sinners-fitness-under-spotlight-ahead-of-wimbledon-title-defence/articleshow/132054783.cms",
+    "time": "2026-06-28T16:13:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ravi Kishan reveals he faced rejection for 34 years before making it big",
+    "desc": "Actor-politician Ravi Kishan has opened up about the struggles that defined the early years of his career, revealing that he spent 34 years facing rejection before finally finding widespread recognition. Speaking on the reality show Alliance, which he is participating in with his daughter Rivva Kishan, the actor recalled watching his contemporaries become stars while he continued to wait for his opportunity.",
+    "img": "https://static.toiimg.com/photo/msid-132054804,imgsize-38154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ravi-kishan-reveals-he-faced-rejection-for-34-years-before-making-it-big-no-one-believed-i-would-ever-achieve-anything/articleshow/132054586.cms",
+    "time": "2026-06-28T16:13:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Babur Janata Party': Uddhav Thackeray attacks BJP over Ram Mandir donation row",
+    "desc": "Shiv Sena (UBT) chief Uddhav Thackeray slammed the BJP over alleged Ram Mandir donation irregularities, dubbing them the \"Babur Janata Party\" and accusing them of exploiting faith for political power. He also alleged the BJP is weakening Shiv Sena to undermine. Referring to BJP's long-standing slogan, he questioned the party's intentions behind the construction of the Ram temple.",
+    "img": "https://static.toiimg.com/photo/msid-132055207,imgsize-144259.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/babur-janata-party-uddhav-thackeray-attacks-bjp-over-ram-mandir-donation-row/articleshow/132054560.cms",
+    "time": "2026-06-28T16:02:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Disqualify six rebel MPs': Uddhav links defections to 'Operation Devendra'",
+    "desc": "Shiv Sena (UBT) chief Uddhav Thackeray demanded the disqualification of six rebel MPs, calling their defection a \"larger political conspiracy\" and part of \"Operation Devendra.\" He urged Lok Sabha Speaker Om Birla to uphold the rule of law, alleging the BJP is undermining its own leaders. Thackeray, on a tour of rebel MPs' constituencies, asserted that people voted against the \"Modi wave,\" not for the defectors.",
+    "img": "https://static.toiimg.com/photo/msid-132054541,imgsize-75967.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/disqualify-six-rebel-mps-uddhav-links-defections-to-operation-devendra/articleshow/132054503.cms",
+    "time": "2026-06-28T16:01:01.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "From seas to skies, India is becoming secure, self-reliant: PM Modi",
     "desc": "Prime Minister Modi highlights indigenously built missile systems and C-295 aircraft, says June was a “landmark month” for India’s defence sector; he thanks people for responding to his call for austerity amid the West Asia crisis",
     "img": "https://th-i.thgim.com/public/incoming/t7wuk5/article71158600.ece/alternates/LANDSCAPE_1200/PTI06_28_2026_000350B.jpg",
@@ -97,24 +268,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
     "time": "2026-06-28T14:48:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Agricultural University V-C appointment reflection of UDF-BJP deal: employees’ association",
-    "desc": "Unlike in other universities, Kerala Agricultural University Act stipulates that Chancellor shall appoint a temporary Vice-Chancellor only after consultation with the Pro-Chancellor, a position held by the Agriculture Minister, according to Confederation of University Employees Organisations",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-agricultural-university-v-c-appointment-reflection-of-udf-bjp-deal-employees-association/article71157770.ece",
-    "time": "2026-06-28T14:45:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Disciplinary action against protocol officials after Pinarayi misses flight from New Delhi",
-    "desc": "The Leader of the Opposition missed the flight to Karipur on Saturday after protocol officials allegedly failed to update the airline about his travel plan, even though he had reached the airport hours before departure",
-    "img": "https://th-i.thgim.com/public/incoming/z3hbmq/article71158295.ece/alternates/LANDSCAPE_1200/NH30PinarayiVijayan05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/disciplinary-action-against-protocol-officials-after-pinarayi-misses-flight-from-new-delhi/article71158264.ece",
-    "time": "2026-06-28T14:37:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -216,15 +369,6 @@ const newsData_en = [
     "time": "2026-06-28T13:24:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala government orders probe after protocol lapse causes Vijayan to miss flight",
-    "desc": "Kerala's opposition leader, Pinarayi Vijayan, missed his flight from Delhi to Kerala due to a protocol lapse. Officials failed to confirm travel plans with the airline, despite Vijayan reaching the airport well in advance. An inquiry has been ordered, with disciplinary action promised against the responsible protocol staff. Vijayan eventually travelled to Kannur on a later flight.",
-    "img": "https://static.toiimg.com/photo/msid-132052049,imgsize-120924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-government-orders-probe-after-protocol-lapse-causes-vijayan-to-miss-flight/articleshow/132052040.cms",
-    "time": "2026-06-28T13:19:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ayaan reveals how mamu Salman never spoon-feeds him",
     "desc": "Ayaan Agnihotri, nephew of Salman Khan, is determined to make it on his own merit. He revealed that Salman never spoon-feeds him and always pushes him to get things done independently. On the nepotism tag, Ayaan said that for his family, it is simply about being a close unit.",
@@ -277,42 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-sidharth-malhotra-and-ranbir-kapoor-boney-kapoor-reveals-dream-cast-for-modern-reamake-of-woh-7-din/articleshow/132050584.cms",
     "time": "2026-06-28T11:59:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arshad Warsi says circuit from 'Munna Bhai' could never fit into 'Golmaal'",
-    "desc": "Beloved for his comedic genius, Arshad Warsi insists that every character requires a distinct method, shaped by the narrative and the director's perspective. He expresses admiration for Rajkumar Hirani's nuanced and heartfelt humor, clearly reflected in their next project 'Pritam and Pedro'. Warsi amusingly shares a time he nearly forgot about his iconic role Circuit, highlighting his dedication to immersing himself in each fresh character.",
-    "img": "https://static.toiimg.com/photo/msid-132050392,imgsize-107112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arshad-warsi-says-circuit-from-munna-bhai-m-b-b-s-could-never-fit-into-golmaal-the-mentality-and-the-sensibility-will-simply-not-match/articleshow/132050376.cms",
-    "time": "2026-06-28T11:48:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How Telegram’s NEET controversy reveals a bigger battle over coaching, piracy and access",
-    "desc": "Telegram's temporary ban, linked to NEET exam leaks, sparks debate on its role in India's shadow education economy. While students utilize its features for affordable learning, the platform also facilitates the free circulation of paid educational content, leading to copyright battles. Critics argue the ban punishes legitimate users and fails to address the root cause of leaks, highlighting a complex challenge for policymakers balancing intellectual property with educational access.",
-    "img": "https://static.toiimg.com/photo/msid-132049537,imgsize-156818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-telegrams-neet-controversy-reveals-a-bigger-battle-over-coaching-piracy-and-access/articleshow/132049537.cms",
-    "time": "2026-06-28T11:44:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Look inwards’: India tears into Pakistan over Karachi blast allegations",
-    "desc": "India has firmly rejected Pakistan's claims linking it to the recent Karachi terrorist attack. The Ministry of External Affairs urged Islamabad to address its internal terror infrastructure and cease using terrorism as a state policy, rather than making baseless accusations. The incident involved militants attacking a paramilitary headquarters, resulting in casualties. Pakistan has vowed retaliation and previously conducted strikes in Afghanistan, which Kabul denies.",
-    "img": "https://static.toiimg.com/photo/msid-132051077,imgsize-84552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/look-inwards-india-tears-into-pakistan-over-karachi-blast-allegations/articleshow/132050035.cms",
-    "time": "2026-06-28T11:22:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bengal braces for UCC battle as BJP government prepares to table Bill in assembly",
-    "desc": "West Bengal's BJP government is set to introduce a Uniform Civil Code (UCC) Bill, following similar moves in other BJP-ruled states. Chief Minister Suvendu Adhikari confirmed the legislation will be presented Monday, aiming to replace religion-based personal laws with a common framework. The BJP asserts tribal communities will be exempt, while the Trinamool Congress criticizes the move as political polarization, demanding extensive consultation.",
-    "img": "https://static.toiimg.com/photo/msid-132049726,imgsize-86407.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-braces-for-ucc-battle-as-bjp-government-prepares-to-table-bill-in-assembly/articleshow/132049720.cms",
-    "time": "2026-06-28T11:05:45.000Z"
   },
   {
     "cat": "Sports",
@@ -378,24 +486,6 @@ const newsData_en = [
     "time": "2026-06-28T09:57:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Most iconic Courteney Cox movies to add to your watchlist",
-    "desc": "While Courteney Cox is best known for her role in the hit show ‘Friends’, the actress has done quite a bit of work over the years in films. With more than 100 acting credits, the actress has been a force to be reckoned with over the years and continues to work on memorable projects. Here is a look at some of her best works.",
-    "img": "https://static.toiimg.com/photo/msid-132048777,imgsize-33730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/most-iconic-courteney-cox-movies-to-add-to-your-watchlist-scream-masters-of-the-universe-and-more/photostory/132048777.cms",
-    "time": "2026-06-28T09:54:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi lauds citizens for cutting fuel use, curbing gold purchases amid West Asia crisis",
-    "desc": "Prime Minister Narendra Modi expressed gratitude to citizens for embracing his appeals to navigate the West Asian crisis. He highlighted widespread adoption of measures like carpooling, reduced gold purchases, and postponed foreign travel, with many families opting to recycle old gold for weddings. Market analysts, however, anticipate continued volatility in gold prices due to global economic uncertainties and geopolitical developments.",
-    "img": "https://static.toiimg.com/photo/msid-132048686,imgsize-952274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-lauds-citizens-for-cutting-fuel-use-curbing-gold-purchases-amid-west-asia-crisis/articleshow/132048585.cms",
-    "time": "2026-06-28T09:47:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude, ceasefire and economic data: What's driving Dalal Street this week",
     "desc": "Investors are bracing for a week dominated by Middle East geopolitical tensions, with crude oil prices and domestic economic data taking center stage. Key indicators like Industrial Production, PMI readings, and foreign exchange reserves will offer insights into India's economic health. Auto sales figures and monsoon progress also remain crucial. Any escalation in US-Iran relations could impact global growth and energy markets, while diplomatic progress might boost investor confidence.",
@@ -414,15 +504,6 @@ const newsData_en = [
     "time": "2026-06-28T09:38:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Visit Ram Temple, do penance to gain good sense': Yogi Adityanath to Akhilesh amid donation row",
-    "desc": "Uttar Pradesh chief minister Yogi Adityanath has sharply criticized Samajwadi Party chief Akhilesh Yadav over alleged donation embezzlement in Ayodhya, urging him to visit the Ram Temple. Adityanath accused the previous SP government of firing on Ram devotees and diverting funds to graveyards instead of temples. Meanwhile, Yadav questioned Adityanath's frequent visits, suggesting they were to oversee alleged thefts and criticized Ayodhya's development quality.",
-    "img": "https://static.toiimg.com/photo/msid-132048594,imgsize-111055.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/visit-ram-temple-do-penance-to-gain-good-sense-yogi-adityanath-to-akhilesh-amid-donation-row/articleshow/132048563.cms",
-    "time": "2026-06-28T09:33:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'He'll be tired': Vaughan spots one weakness in Vaibhav Sooryavanshi's game",
     "desc": "Former England captain Michael Vaughan lauded 15-year-old Vaibhav Sooryavanshi for revolutionizing T20 batting, pushing par scores to 230. However, Vaughan highlighted fielding endurance as Sooryavanshi's key challenge at the international level, suggesting England exploit this by having India field first. Despite this, Sooryavanshi's impressive U19 World Cup and IPL performances showcase his potential.",
@@ -430,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hell-be-tired-michael-vaughan-spots-one-weakness-in-vaibhav-sooryavanshis-game/articleshow/132048588.cms",
     "time": "2026-06-28T09:33:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What happens when offbeat travel destinations go mainstream",
-    "desc": "Once a cherished secret, India's offbeat travel destinations are rapidly becoming mainstream. What began as a quiet escape for a few now faces overcrowding, mirroring global trends. As infrastructure improves and social media fuels aspiration, the very charm of these places is threatened. Travelers grapple with the desire for authentic experiences versus their role in accelerating discovery and its consequences.",
-    "img": "https://static.toiimg.com/photo/msid-132048149,imgsize-1658679.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-price-of-paradise-what-happens-when-offbeat-travel-destinations-go-mainstream/articleshow/132048061.cms",
-    "time": "2026-06-28T09:28:51.000Z"
   },
   {
     "cat": "Sports",
@@ -765,33 +837,6 @@ const newsData_en = [
     "time": "2026-06-27T06:42:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Jubilant Cape Verde set date with Argentina in round of 32",
-    "desc": "After the final ⁠whistle, Cape Verde's players and staff huddled over their phones and broke out in celebration when the other match in the group ended, generating a roar from their supporters who banged on drums having cheered their team on all night",
-    "img": "https://th-i.thgim.com/public/incoming/3st2pw/article71153289.ece/alternates/LANDSCAPE_1200/Saudi_Arabia_Cape_Verde_WCup_Soccer_66687.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-cape-verde-saudi-arabia-knockouts-round-of-32/article71153283.ece",
-    "time": "2026-06-27T03:46:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup",
-    "desc": "The 2018 World Cup winners ‌hit the crossbar with Kylian Mbappe's thunderous drive after 25 ‌seconds before the captain ‌delivered ⁠a superb through ball for ⁠Ballon d'Or winner Dembele to fire them into the lead in the seventh minute",
-    "img": "https://th-i.thgim.com/public/incoming/dyueko/article71152181.ece/alternates/LANDSCAPE_1200/2026-06-26T194038Z_496670384_UP1EM6Q1INPUD_RTRMADP_3_SOCCER-WORLDCUP-NOR-FRA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/france-vs-norway-fifa-world-cup-updates-june-26-2026/article71152174.ece",
-    "time": "2026-06-27T00:40:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup, Iraq vs Senegal",
-    "desc": "Senegal, who ran riot after the break with goals ‌by Ismaila Sarr, Iliman Ndiaye ​and a double from Pape Gueye, must ⁠wait to see if they ⁠will advance as one of the ‌eight best third-placed teams.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/iraq-vs-senegal-world-cup-match-live-updates-june-26-2026/article71151938.ece",
-    "time": "2026-06-26T21:12:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "IMO pauses its Gulf vessel evacuation plan after Iran attacks ship",
     "desc": "The attack followed a joint declaration by the Gulf Cooperation Council (GCC) states, including Oman, after a meeting attended by the United States, stating that there should be no “tolls, fees, or attempts to assert control over the strait.”",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/strange-link-between-artificial-intelligence-hallucination-creativity/article71136885.ece",
     "time": "2026-06-25T04:19:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gautam Adani’s lawyers urge U.S. Judge to dismiss criminal case",
-    "desc": "Adani’s lawyer, Robert Giuffra, wrote ‌that the case should be dismissed because ​it was beyond the reach of U.S. law and because the prosecutors would ⁠not be able to prove the alleged bribery in India",
-    "img": "https://th-i.thgim.com/public/incoming/uk7uz1/article71143394.ece/alternates/LANDSCAPE_1200/Adani_Bribery_Indictment_46351.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/gautam-adanis-lawyers-urge-us-judge-to-dismiss-criminal-case/article71143342.ece",
-    "time": "2026-06-24T19:18:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Experts",
-    "desc": "The Indian economy has seen among the worst bouts of capital repatriation, with foreign institutional investors selling more than ₹2.8 lakh crore in 2026, as earnings of the companies do not justify the prices and their returns in dollars are in the lower single digits",
-    "img": "https://th-i.thgim.com/public/incoming/m0tpvs/article71143034.ece/alternates/LANDSCAPE_1200/iStock-2210696591.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/indian-investors-may-move-to-safer-bets-amid-structural-challenges-experts/article71142257.ece",
-    "time": "2026-06-24T16:14:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "75th anniversary of the UNIVAC I",
-    "desc": "Seventy five years ago – on June 14, 1951 – the UNIVAC I was officially put into service by the U.S. Census Bureau. The UNIVAC I, which the bureau calls the first successful civilian computer, heralded a new age in the tech industry by demonstrating the potential for computers in various applications. A.S.Ganesh takes you back to a time when these devices were far from being hand-held…",
-    "img": "https://th-i.thgim.com/public/incoming/1b1ij7/article71064337.ece/alternates/LANDSCAPE_1200/14istb%20Univac_I_Census_dedication.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/75th-anniversary-of-the-univac-i/article71064362.ece",
-    "time": "2026-06-24T10:41:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "the longest suspension bridge in the western hemisphere",
-    "desc": "June 28, 1958 marks the end of a four-day party for the dedication festival of the Mackinac Bridge. Even though the bridge had been opened to traffic from November the previous year, it was only from June 25-28 that the official festivities and ribbon-cutting had taken place. Join A.S.Ganesh as he takes you on a trip to tell you about this suspension bridge…",
-    "img": "https://th-i.thgim.com/public/incoming/m4jcny/article71117475.ece/alternates/LANDSCAPE_1200/28istb%20MackinacBridge_at_night.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/mighty-mac-the-longest-suspension-bridge-in-the-western-hemisphere/article71117473.ece",
-    "time": "2026-06-24T09:41:30.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Meta’s $900 million investment in Cred and hiring of Kunal Shah as WhatsApp chief",
-    "desc": "The hiring accomplishes the dual aim of investing into a business focused on the few million Indians with a credit card, and getting a leader for WhatsApp at a time it is pushing to leverage the multi-billion user base Meta has been able to amass.",
-    "img": "https://th-i.thgim.com/public/news/national/xi55iy/article71136603.ece/alternates/LANDSCAPE_1200/kunal%20shah%20cred%20meta%20ai%20collage.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/explained-metas-900-million-investment-in-cred-and-hiring-of-kunal-shah-as-whatsapp-chief/article71136508.ece",
-    "time": "2026-06-23T08:39:23.000Z"
   }
 ];
