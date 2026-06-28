@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "INDW vs AUSW Women's T20 World Cup LIVE Cricket Score: India face mighty Aussies in fight for semis",
+    "title": "Smriti Mandhana, Shafali Verma shatter world record during IND vs AUS Women's T20 World Cup clash",
+    "desc": "India star openers Smriti Mandhana and Shafali Verma have shattered a huge world record during their team's must-win Women's T20 World Cup 2026 clash against Australia on Sunday, June 28. Mandhana and Shafali gave India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-shafali-verma-shatter-world-record-during-ind-vs-aus-womens-t20-world-cup-clash-2026-06-28-1046447",
+    "time": "2026-06-28T15:32:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5 huge milestones of England icon as he walks into the sunset",
+    "desc": "Ben Stokes has announced his International retirement, as the England all-rounder is set to hang up his boots after the completion of the ongoing third Test against New Zealand at Trent Bridge. Stokes will walk...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-retires-5-huge-milestones-of-england-icon-as-he-walks-into-the-sunset-2026-06-28-1046446",
+    "time": "2026-06-28T15:21:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes announces international retirement, Trent Bridge Test to be his last England appearance",
+    "desc": "England Test captain Ben Stokes has announced his international retirement, confirming that he will bring the curtains down on a glorious England career at the end of the ongoing third Test match against England. \"Ben...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-announces-international-retirement-trent-bridge-test-to-be-his-last-england-appearance-2026-06-28-1046444",
+    "time": "2026-06-28T14:34:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "INDW vs AUSW Women's T20 World Cup LIVE Cricket Score: India bat first against Australia in must-win clash",
     "desc": "India face a must-win encounter against six-time champions Australia in their final Group A match of the Women's T20 World Cup on Sunday, with a semifinal berth hanging in the balance. Harmanpreet Kaur's side has...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-opens-up-on-his-relationship-with-virat-kohli-sets-plan-for-future-india-visit-2026-06-28-1046413",
     "time": "2026-06-28T09:00:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shikha Pandey previews India women's upcoming crucial T20 World Cup 2026 clash against Australia",
-    "desc": "The stage is set for one of the most highly anticipated games of the ongoing Women’s T20 World Cup 2026. India women will be taking on Australia women in the 30th game of the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shikha-pandey-previews-india-women-s-upcoming-crucial-t20-world-cup-2026-clash-against-australia-2026-06-28-1046408",
-    "time": "2026-06-28T08:19:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi scripts history, continues to break records as Argentina maintain unbeaten run",
-    "desc": "Argentina has continued its unbeaten run in the ongoing FIFA World Cup 2026. Coming into the tournament as the defending champions, many expected Argentina to pick up right where they left off, and the side...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-scripts-history-continues-to-break-records-as-argentina-maintain-unbeaten-run-2026-06-28-1046401",
-    "time": "2026-06-28T06:46:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Belfast fare for the second T20I of the series?",
-    "desc": "India and Ireland will continue their ongoing T20I series by taking on each other in the second and final game of the series. The two sides will meet at the Civil Service Cricket Club on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ire-weather-report-how-will-weather-in-belfast-fare-for-the-second-t20i-of-the-series-2026-06-28-1046393",
-    "time": "2026-06-28T05:13:06.000Z"
   }
 ];
