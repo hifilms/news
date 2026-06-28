@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How can India qualify for Women's T20 World Cup 2026 semifinal as Australia challenge beckons?",
+    "desc": "With their T20 World Cup semifinal hopes hanging in the balance, India meet Australia in their final league stage match of the tournament at the iconic Lord's on Sunday, June 28. The Women in Blue...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-india-qualify-for-womens-t20-world-cup-2026-semifinal-as-australia-challenge-beckons-2026-06-28-1046420",
+    "time": "2026-06-28T10:26:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic opens up on his relationship with Virat Kohli, sets plan for future India visit",
+    "desc": "The stage is set for the latest edition of Wimbledon. The third Grand Slam event of the year will be held in England, like always, and will kick off on June 29th. Ahead of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-opens-up-on-his-relationship-with-virat-kohli-sets-plan-for-future-india-visit-2026-06-28-1046413",
+    "time": "2026-06-28T09:00:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shikha Pandey previews India women's upcoming crucial T20 World Cup 2026 clash against Australia",
     "desc": "The stage is set for one of the most highly anticipated games of the ongoing Women’s T20 World Cup 2026. India women will be taking on Australia women in the 30th game of the tournament...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/harry-kane-breaks-all-time-record-as-england-register-2-0-win-over-panama-after-frustrating-first-half-display-2026-06-28-1046373",
     "time": "2026-06-27T23:12:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England beat Panama 2-0 after goals from Bellingham, Kane",
-    "desc": "England will look to seal top spot in Group L when they take on already-eliminated Panama in their final FIFA World Cup 2026 group-stage fixture at the New York New Jersey Stadium in the early...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/eng-vs-pan-fifa-world-cup-live-england-vs-panama-live-score-tactical-analysis-minute-by-minute-commentary-highlights-1046372",
-    "time": "2026-06-27T20:34:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Abhishek Sharma's half-century against Ireland in first T20I erased from record books?",
-    "desc": "Abhishek Sharma's half-century in the first T20I against Ireland was erased from the record books after a post-match scoring correction. His final score was reduced from 50 to 49 following India's embarrassing defeat to Ireland...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-abhishek-sharma-s-half-century-against-ireland-in-first-t20i-erased-from-record-books-2026-06-28-1046371",
-    "time": "2026-06-27T20:19:56.000Z"
   }
 ];

@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "৩ দিনে পর পর ভয়াল ভূমিকম্পে ৫১ হাজার মানুষই...! বিধ্বস্ত ক্ষতিগ্রস্ত ৬৭ লাখ ৬০ হাজার",
+    "desc": "৫১০০০!৩২০০! ১৪৩০! কতগুলি সংখ্যা মাত্র নয়। ভেনেজুয়েলায় আঘাত হানা দুটি শক্তিশালী ভূমিকম্পের তিন দিন পরেও ধ্বংসস্তূপে জীবিত মানুষের খোঁজে চলছে মরিয়া উদ্ধার অভিযান। এখন পর্যন্ত মৃতের সংখ্যা বেড়ে দাঁড়িয়েছে ১৪৩০ জন! নিখোঁজ রয়েছেন ৫১ হাজারেরও বেশি মানুষ। উদ্ধারকারীরা সতর্ক করে বলেছেন, জীবিত কাউকে উদ্ধারের সবচেয়ে গুরুত্বপূর্ণ ৭২ ঘণ্টার সময়সীমা দ্রুত শেষ হয়ে আসছে। আহত হয়ছেন ৩২০০ জন!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/venezuela-earthquake-death-toll-rises-to-1430-as-fresh-tremor-rattles-disaster-hit-region_660235.html ",
+    "time": "2026-06-28T11:00:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "হাড়হিম 'ওমেগা ব্লকে' প্রাণঘাতী তাপপ্রবাহ! লাফিয়ে বাড়ছে মৃত্যু! ক্লাইমেট চেঞ্জের ভয়াবহ অভিশাপ ফলছে?",
+    "desc": "ফুটছে ইউরোপ! উদ্বিগ্ন বিজ্ঞানীরা! ফ্রান্সে প্রায় ১০০০ অতিরিক্ত মৃত্যু রেকর্ড করা হয়েছে। বলা হয়েছে, প্রকৃত মৃত্যুর সংখ্যা আরও বেশি হতে পারে। যেসব অঞ্চল 'রেড অ্যালার্টে'র আওতায় ছিল, সেগুলিই সবচেয়ে বেশি ক্ষতিগ্রস্ত হয়েছে বলে জানা গিয়েছে। কীভাবে মোকাবিলা করা সম্ভব?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/heat-wave-france-sees-over-1000-excess-deaths-as-europe-swelters-under-record-temperatures-omega-block_660233.html ",
+    "time": "2026-06-28T10:01:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "আমেরিকার হামলার বিধ্বংসী বদলা ইরানের! কুয়েত-বাহরিনের মার্কিন ঘাঁটিতে ভয়ংকর গোলাবর্ষণ! 'ধৈর্যের বাঁধ ভাঙল'?",
+    "desc": "কুয়েত এবং বাহরিনে আমেরিকান সেনা ঘাঁটিতে মিসাইল এবং ড্রোন হামলা চালায় ইসলামিক রেভলিউশনারি গার্ড কর্পস। ক্ষয়ক্ষতির পরিমাণ জানা যায়নি। হতাহতের সংখ্যাও অস্পষ্ট। হামলার কথা স্বীকার করে বিবৃতি দিয়েছে বাহরিন বিদেশ মন্ত্রক। আমেরিকাকে হুঁশিয়ারি দিয়ে ইরান বলেই রেখেছিল, আমাদের ধৈর্যের বাঁধ ভেঙে গিয়েছে!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/tehran-launches-attacks-on-kuwait-bahrain-after-us-strikes-10-targets-in-iran-west-asia-war_660225.html ",
+    "time": "2026-06-28T08:37:40.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "বেসরকারি অ্যাপ ক্যাবের দিন শেষ? ময়দানে এবার 'ভারত ট্যাক্সি', অমিত শাহের মেগা ঘোষণা",
     "desc": "বেসরকারি ট্যাক্সি অ্যাপ চালক ও যাত্রীদের শোষণ করে। তাই সমবায় ভিত্তিতে ‘ভারত ট্যাক্সি’ চালু করা হলো। এখানে কোনো কমিশন কাটা হয় না। চালকরাই পুরো ভাড়ার মালিক। খুব দ্রুত দেশের ৫০০টি শহরে এই সেবা দেওয়া হবে।",
@@ -144,15 +171,6 @@ const newsData_bn = [
     "time": "2026-06-25T14:40:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "প্রাণঘাতী ভূমিকম্পে পূর্বভারত-সহ কলকাতা অচিরেই ডুবে যাবে নরম পলিমাটির অতলে? কেন বিপদের উপর বসে এ-অঞ্চল?",
-    "desc": "ভারতের প্রায় ৫৯ শতাংশ ভূখণ্ডই বিভিন্ন তীব্রতার ভূমিকম্পের আশঙ্কায় রয়েছে! ভারতকে মূলত ২, ৩, ৪ এবং ৫-- এই চার ভূকম্পপ্রবণ এলাকা বা সিসমিক জোনে (Seismic Zones) ভাগ করা হয়েছে। যার মধ্যে জোন ৫ (Zone V) সবচেয়ে বিপজ্জনক ও সব থেকে ঝুঁকিপূর্ণ এলাকা হিসেবে চিহ্নিত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/indias-most-vulnerable-to-earthquake-regions-how-prepared-india-for-major-seismic-disaster-explainer_659931.html ",
-    "time": "2026-06-25T13:06:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'আপাতত কোনও কড়া পদক্ষেপ নয়', মিমি চক্রবর্তীর বিরুদ্ধে FIR-এ স্থগিতাদেশ হাইকোর্টের",
     "desc": "শুরুতে ধাক্কা খেতে হয়েছিল। তবে শেষপর্যন্ত আদালতে স্বস্তি পেলেন অভিনেত্রী মিমি চক্রবর্তী। তাঁর বিরুদ্ধে যে FIR দায়ের করেছিলেন তনয় শাস্ত্রী, সেই FIR-র উপর এবার স্থগিতাদেশ জারি করল কলকাতা হাইকোর্ট। বিচারপতি কৌশক চন্দের সিঙ্গল বেঞ্চের নির্দেশ, 'আপাতত কোনও কড়া পদক্ষেপ নয়'।",
@@ -216,15 +234,6 @@ const newsData_bn = [
     "time": "2026-06-19T06:52:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "কাবায় বিরাট বদল! কেন এভাবে বদলে যাচ্ছে পবিত্র কাবা? বড় কী ঘটল? দীর্ঘ ১১ মাস ধরে ১৫০ জন...",
-    "desc": "নতুন কিসওয়া তৈরিতে কাজ করেছেন প্রায় দেড়শো কারিগর। দীর্ঘ ১১ মাস ধরে। কিসওয়ায় খোদাই করা হয়েছে পবিত্র কোরআনের ৩০টি আয়াত। রুপোলি সুতোর উপর ২৪ ক্যারেট সোনার প্রলেপ ব্যবহার করা হয়েছে এতে। পুরো গিলাফটির ওজন ১৪১০ কেজি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/holy-kaaba-renovation-news-saudi-prepare-to-replace-kaabas-kiswah-ahead-of-islamic-new-year_658929.html ",
-    "time": "2026-06-18T07:48:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "বিশ্বমঞ্চে বাংলা গান! ঐতিহাসিক চুক্তিতে হাত মেলাল ওয়ার্নার মিউজিক ও এসভিএফ",
     "desc": "এই দুই সংস্থার হাত মেলানো কেবল ব্যবসার লাভ-ক্ষতির হিসাব নয়। এটা বাংলা সংস্কৃতিকে বিশ্বমঞ্চে বড় করে তুলে ধরার একটা বড় পদক্ষেপ। এর হাত ধরে আগামী দিনে পৃথিবীর বুকে বাংলা গান যেমন আরও বেশি ছড়িয়ে পড়বে।",
@@ -250,50 +259,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actor-rahul-arunoday-banerjee-death-case-cid-investigation-suvendu-adhikari_658418.html ",
     "time": "2026-06-15T11:28:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
   }
 ];
