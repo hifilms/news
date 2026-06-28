@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "First half ends 0-0, frustrating night for England so far",
+    "title": "Colombia holds off Portugal in Miami, finishes top of group K after 0-0 clash",
+    "desc": "Colombia and Portugal took on each other at the Miami Stadium on June 28th, and both sides hoped for a good showing in hopes of finishing at the top of Group K. The likes of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/colombia-holds-off-portugal-in-miami-finishes-top-of-group-k-after-0-0-clash-2026-06-28-1046381",
+    "time": "2026-06-28T02:11:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England ends New Zealand's Women's T20 World Cup 2026 campaign with dominant nine-wicket victory",
+    "desc": "The ongoing Women’s T20 World Cup 2026 has come to an unfortunate end for New Zealand women. The White Ferns have officially been eliminated from the tournament after they faced a hefty defeat at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-ends-new-zealand-s-women-s-t20-world-cup-2026-campaign-with-dominant-nine-wicket-victory-2026-06-28-1046378",
+    "time": "2026-06-28T01:31:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Game ends 0-0, Colombia win Group K",
+    "desc": "The stage is set for the final group stage game for Portugal and Colombia, the two sides take on each other in a bid to finish at the top of the standings. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/por-vs-col-fifa-world-cup-2026-live-cristiano-ronaldo-in-action-as-fight-for-first-place-intensifies-1046374",
+    "time": "2026-06-27T23:25:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Kane breaks all-time record as England register 2-0 win over Panama after frustrating first half display",
+    "desc": "England eventually broke down a stubborn Panama side to win 2-0 in their FIFA World Cup 2026 Group L clash, but Thomas Tuchel’s team were made to work far harder than expected after a frustrating...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/harry-kane-breaks-all-time-record-as-england-register-2-0-win-over-panama-after-frustrating-first-half-display-2026-06-28-1046373",
+    "time": "2026-06-27T23:12:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England beat Panama 2-0 after goals from Bellingham, Kane",
     "desc": "England will look to seal top spot in Group L when they take on already-eliminated Panama in their final FIFA World Cup 2026 group-stage fixture at the New York New Jersey Stadium in the early...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gap-between-india-and-australia-has-narrowed-in-recent-years-believes-smriti-mandhana-ahead-of-must-win-game-2026-06-27-1046363",
     "time": "2026-06-27T17:33:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 reasons behind Uruguay's downfall and being eliminated from group stage of FIFA World Cup 2026",
-    "desc": "Uruguay's disappointing FIFA World Cup 2026 campaign came to an end after a 1-0 defeat to Spain in their final league game in Mexico. The Marcelo Bielsa side finished third with just two points, which...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/3-reasons-behind-uruguay-s-downfall-and-being-eliminated-from-group-stage-of-fifa-world-cup-2026-2026-06-27-1046358",
-    "time": "2026-06-27T16:10:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarvesh Kushare breaks national record, qualifies for Asian Games; Ancy Sojan breaks 22-year-old record",
-    "desc": "Sarvesh Kushare rewrote the Indian men's high jump record after clearing 2.31m to win the gold medal at the 65th National Inter-State Senior Athletics Championships in Bhubaneswar on Saturday, June 27. With that, the athlete...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sarvesh-kushare-breaks-national-record-qualifies-for-asian-games-ancy-sojan-breaks-22-year-old-record-2026-06-27-1046356",
-    "time": "2026-06-27T15:35:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Auqib Nabi dominates Sri Lanka A with four-wicket haul, India A take 170-run lead after Day 3",
-    "desc": "Jammu and Kashmir pacer Auqib Nabi Dar proved his mettle in the first unofficial opening Test against Sri Lanka A in Galle. Nabi bowled a decisive spell with the second new ball, triggering a dramatic...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-dominates-sri-lanka-a-with-four-wicket-haul-india-a-take-170-run-lead-after-day-3-2026-06-27-1046353",
-    "time": "2026-06-27T15:03:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cabo Verde head coach opens up on taking on champions Argentina in FIFA World Cup 2026 knockouts",
-    "desc": "Cabo Verde has seemingly done the impossible, as the side has qualified for the knockout stages of the ongoing FIFA World Cup 2026. With three matches played, the side has managed to register three straight...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cabo-verde-head-coach-opens-up-on-taking-on-champions-argentina-in-fifa-world-cup-2026-knockouts-2026-06-27-1046326",
-    "time": "2026-06-27T10:06:22.000Z"
   }
 ];
