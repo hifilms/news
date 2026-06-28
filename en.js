@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Toy Story 5' dominates; 'Supergirl' disappoints at box office",
+    "desc": "Pixar's 'Toy Story 5' dominated the box office, raking in $70 million domestically while DC's 'Supergirl' stumbled with a disappointing USD 38 million debut. This marks a significant setback for Warner Bros.' new DC leadership, with superhero films generally seeing a downturn. Meanwhile, the low-budget horror 'Obsession' continues its impressive run, becoming a major success story.",
+    "img": "https://static.toiimg.com/photo/msid-132058738,imgsize-265010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/toy-story-5-dominates-box-office-supergirl-makes-disappointing-usd-68-million-debut/articleshow/132058513.cms",
+    "time": "2026-06-28T21:40:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar on verge of bankruptcy, says Tejashwi",
+    "desc": "While addressing the press at the party office, the Rashtriya Janata Dal (RJD) leader alleged that the state is facing extreme financial loss due to scams, corruption, revenue loss, widening fiscal deficit and mounting debt",
+    "img": "https://th-i.thgim.com/public/incoming/rcuvua/article71159030.ece/alternates/LANDSCAPE_1200/20260628179L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-on-verge-of-bankruptcy-says-tejashwi/article71157817.ece",
+    "time": "2026-06-28T21:04:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rekha's forced kiss with Biswajeet was a planned publicity stunt",
+    "desc": "The controversial kissing scene between Rekha and Biswajeet from the 1969 film Anjana Safar has returned to the spotlight after Biswajeet's daughter, actress Pallavi Chatterjee, admitted in a recent interview that what happened to Rekha was \"definitely wrong.\" Now, senior film journalist Jyothi Venkatesh also revisited the incident, recalling what he had heard about the shoot.",
+    "img": "https://static.toiimg.com/photo/msid-132058503,imgsize-60345.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rekhas-controversial-forced-kiss-with-biswajeet-was-a-planned-publicity-stunt-claims-senior-journalist-director-ne-kaha-tha/articleshow/132058490.cms",
+    "time": "2026-06-28T20:39:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran warns ships not to bypass its chosen Hormuz route",
+    "desc": "At the moment, Iran insists ships transiting the strait pass through a corridor close to its own shores, though this week dozens of vessels have travelled along the opposite side of the waterway, hugging the Omani coast",
+    "img": "https://th-i.thgim.com/public/incoming/5dey32/article71159033.ece/alternates/LANDSCAPE_1200/2026-06-26T134326Z_1979541742_RC2N1MAO4YN7_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/article71159031.ece",
+    "time": "2026-06-28T20:23:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Hospital dedicated to geriatric care inaugurated in city",
     "desc": "Karthik Narayan, founder and managing director of Athulya Senior Care, pointed out that India has only around 20,000 dedicated senior care beds, compared with nearly eight million in China and close to three million in the U.S.",
@@ -16,6 +52,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/resurrection-game-can-serena-and-djokovic-turn-back-the-clock/article71158968.ece",
     "time": "2026-06-28T19:05:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay Kumar explains why Ahaan-Aneet's Saiyaara worked",
+    "desc": "Akshay Kumar believes that a film doesn't need a grand promotional event or a larger-than-life spectacle to become a box office success. The actor cited the blockbuster success of Saiyaara as an example, saying the romantic drama won audiences over purely through its music, romance and performances.",
+    "img": "https://static.toiimg.com/photo/msid-132058024,imgsize-76830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-explains-why-ahaan-aneets-saiyaara-worked-says-hit-films-dont-need-events-they-were-lucky-that-the-film-took-off/articleshow/132057995.cms",
+    "time": "2026-06-28T19:03:07.000Z"
   },
   {
     "cat": "World",
@@ -171,15 +216,6 @@ const newsData_en = [
     "time": "2026-06-28T16:01:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From seas to skies, India is becoming secure, self-reliant: PM Modi",
-    "desc": "Prime Minister Modi highlights indigenously built missile systems and C-295 aircraft, says June was a “landmark month” for India’s defence sector; he thanks people for responding to his call for austerity amid the West Asia crisis",
-    "img": "https://th-i.thgim.com/public/incoming/t7wuk5/article71158600.ece/alternates/LANDSCAPE_1200/PTI06_28_2026_000350B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/mann-ki-baat-pm-modi-hails-self-reliance-goals-achieved-by-country/article71157306.ece",
-    "time": "2026-06-28T16:00:17.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Inside Courteney Cox USD 150 million net worth",
     "desc": "Courteney Cox, the 'Friends' star, boasts a remarkable USD 150 million net worth, a testament to her successful acting career and shrewd business acumen. Her earnings from 'Friends' alone, including significant royalties, have contributed to a lavish lifestyle. Beyond acting, Cox has made substantial real estate investments and navigated personal relationships, including a recent amicable split with Johnny McDaid after over a decade together.",
@@ -252,15 +288,6 @@ const newsData_en = [
     "time": "2026-06-28T14:54:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Trafficking, rescue, rehabilitation: What NCRB's data hides beneath the decline",
-    "desc": "A survivor's harrowing journey highlights India's persistent human trafficking crisis, with a stark 40% of cases linked to prostitution. Despite a reported decline in overall numbers, the reality for women and children remains grim, exacerbated by systemic issues in law enforcement and the judiciary. The Supreme Court's new 'Victim Protection Plan' aims to address these critical gaps, offering a glimmer of hope for those seeking safety and rehabilitation.",
-    "img": "https://static.toiimg.com/photo/msid-132053531,imgsize-47516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trafficking-rescue-rehabilitation-what-ncrbs-data-hides-beneath-the-decline/articleshow/132052634.cms",
-    "time": "2026-06-28T14:48:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Matches in Indian Time",
     "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
@@ -288,15 +315,6 @@ const newsData_en = [
     "time": "2026-06-28T14:23:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Sentiments hurt': Ayodhya lawyers refuse to defend Ram temple donation case accused",
-    "desc": "Eight individuals accused in the Ayodhya Ram Temple donation case face a significant hurdle as local lawyers have unanimously agreed not to represent them. The Faizabad Bar Association is set to formalize this decision, citing hurt sentiments over the alleged theft of temple offerings. Meanwhile, police conducted raids on the accused's residences, with investigators having recovered nearly Rs 80 lakh.",
-    "img": "https://static.toiimg.com/photo/msid-132053119,imgsize-251346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sentiments-hurt-ayodhya-lawyers-refuse-to-defend-ram-temple-donation-case-accused/articleshow/132053122.cms",
-    "time": "2026-06-28T14:20:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Fast &amp; Furious star Tyrese Gibson calls India visit 'life-changing'",
     "desc": "Hollywood actor and singer Tyrese Gibson has described his latest visit to India as a \"life-changing\" spiritual journey, sharing an emotional note from Mumbai about meditation, gratitude and the enduring influence of Mahatma Gandhi on Dr Martin Luther King Jr. In the clips, Gibson was seen performing aarti and offering milk to the shivalingam as part of the temple rituals.",
@@ -322,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-return-to-india-after-17-years-as-badminton-enters-new-era/articleshow/132052546.cms",
     "time": "2026-06-28T13:54:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Four minors attack catering staff for not serving mutton curry at wedding feast",
-    "desc": "Four teenagers were arrested in Odisha's Balasore district for allegedly assaulting a catering staff member. The incident occurred at a wedding feast when the victim reportedly refused to serve mutton, offering chicken instead. The dispute escalated, leading to the minors allegedly attacking the caterer with a sharp weapon, causing severe injuries.",
-    "img": "https://static.toiimg.com/photo/msid-132053473,imgsize-206001.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/odisha-four-minors-attack-catering-staff-for-not-serving-mutton-curry-at-wedding-feast/articleshow/132052385.cms",
-    "time": "2026-06-28T13:40:17.000Z"
   },
   {
     "cat": "Sports",
@@ -370,15 +379,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ayaan reveals how mamu Salman never spoon-feeds him",
-    "desc": "Ayaan Agnihotri, nephew of Salman Khan, is determined to make it on his own merit. He revealed that Salman never spoon-feeds him and always pushes him to get things done independently. On the nepotism tag, Ayaan said that for his family, it is simply about being a close unit.",
-    "img": "https://static.toiimg.com/photo/msid-132051998,imgsize-316675.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayaan-agnihotri-reveals-how-mamu-salman-khan-is-very-particular-about-work-and-never-spoon-feeds-him-he-says-go-and-get-it-done-yourself/articleshow/132051998.cms",
-    "time": "2026-06-28T13:09:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar' singer Jasmine slammed for arriving 3 hours late for concert, lip sycing at live show",
     "desc": "Singer Jasmine Sandlas faced criticism after a Hyderabad concert on June 27 was marred by significant delays and alleged lip-syncing. Attendees expressed extreme disappointment, citing a nearly three-hour wait for the artist and a lack of apology. Organizers were also blamed for poor management and communication, leading some to label the event a \"scam.\" Neither Sandlas nor the organizers have yet commented on the widespread allegations.",
     "img": "https://static.toiimg.com/photo/msid-132051616,imgsize-212636.cms",
@@ -412,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/vaibhav-sooryavanshi-misses-out-again-as-india-hand-debuts-to-prince-yadav-and-suryansh-shedge/articleshow/132051176.cms",
     "time": "2026-06-28T12:23:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Janhvi , Sidharth,Ranbir': Boney reveals dream cast for Woh 7 Din",
-    "desc": "Boney Kapoor, who launched Anil Kapoor with 'Woh 7 Din' in 1983, has shared fond memories of the film as it completes 43 years. He revealed that the film was inspired by a Tamil classic and said if remade today, he would cast Janhvi Kapoor, Sidharth Malhotra and Ranbir Kapoor.",
-    "img": "https://static.toiimg.com/photo/msid-132050584,imgsize-196756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-sidharth-malhotra-and-ranbir-kapoor-boney-kapoor-reveals-dream-cast-for-modern-reamake-of-woh-7-din/articleshow/132050584.cms",
-    "time": "2026-06-28T11:59:10.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sez-reforms-commerce-ministry-calls-stakeholders-meet-on-june-30-to-discuss-policy-overhaul/articleshow/132048083.cms",
     "time": "2026-06-28T09:07:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "K Bhagyaraj cremated with state honours in Chennai",
-    "desc": "Veteran Tamil filmmaker K. Bhagyaraj was laid to rest with full state honours in Chennai, following his passing at 73. A funeral procession saw prominent actors and family members carrying his casket. Bhagyaraj, celebrated for his distinctive storytelling and humour, left an indelible mark on Tamil cinema, inspiring generations. His demise prompted widespread tributes from the film fraternity and political leaders, acknowledging his significant contributions.",
-    "img": "https://static.toiimg.com/photo/msid-132048145,imgsize-432584.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/k-bhagyaraj-cremated-with-state-honours-fans-gather-in-large-numbers-at-the-streets-of-chennai-to-participate-in-his-funeral-procession/articleshow/132048147.cms",
-    "time": "2026-06-28T09:04:50.000Z"
   },
   {
     "cat": "World",
@@ -819,15 +801,6 @@ const newsData_en = [
     "time": "2026-06-27T08:14:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Cape Verde’s dream run continues, becoming smallest country into knockouts",
-    "desc": "We are proud of having arrived at this stage; we have shown that we are a small country, but that we fight for the things that we want to achieve, says Cape Verde coach Bubista",
-    "img": "https://th-i.thgim.com/public/incoming/ghz46g/article71153609.ece/alternates/LANDSCAPE_1200/2026-06-27T023713Z_787146887_UP1EM6R07A0VA_RTRMADP_3_SOCCER-WORLDCUP-CPV-SAU.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/fifa-world-cup-2026-cape-verdes-dream-run-continues-becoming-smallest-country-into-knockouts/article71153590.ece",
-    "time": "2026-06-27T07:26:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "The genius of K. Bhagyaraj is eternal: Karthik Kumar",
     "desc": "Actor, stand up comedian and filmmaker Karthik Kumar, who collaborated with K. Bhagyaraj in the 2022 comedy-drama ‘Super Senior Heroes’, gives a moving account of working with the late actor-writer-director, who passed away on Saturday (June 27, 2026)",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/strange-link-between-artificial-intelligence-hallucination-creativity/article71136885.ece",
     "time": "2026-06-25T04:19:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gautam Adani’s lawyers urge U.S. Judge to dismiss criminal case",
+    "desc": "Adani’s lawyer, Robert Giuffra, wrote ‌that the case should be dismissed because ​it was beyond the reach of U.S. law and because the prosecutors would ⁠not be able to prove the alleged bribery in India",
+    "img": "https://th-i.thgim.com/public/incoming/uk7uz1/article71143394.ece/alternates/LANDSCAPE_1200/Adani_Bribery_Indictment_46351.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/gautam-adanis-lawyers-urge-us-judge-to-dismiss-criminal-case/article71143342.ece",
+    "time": "2026-06-24T19:18:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Experts",
+    "desc": "The Indian economy has seen among the worst bouts of capital repatriation, with foreign institutional investors selling more than ₹2.8 lakh crore in 2026, as earnings of the companies do not justify the prices and their returns in dollars are in the lower single digits",
+    "img": "https://th-i.thgim.com/public/incoming/m0tpvs/article71143034.ece/alternates/LANDSCAPE_1200/iStock-2210696591.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/indian-investors-may-move-to-safer-bets-amid-structural-challenges-experts/article71142257.ece",
+    "time": "2026-06-24T16:14:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "75th anniversary of the UNIVAC I",
+    "desc": "Seventy five years ago – on June 14, 1951 – the UNIVAC I was officially put into service by the U.S. Census Bureau. The UNIVAC I, which the bureau calls the first successful civilian computer, heralded a new age in the tech industry by demonstrating the potential for computers in various applications. A.S.Ganesh takes you back to a time when these devices were far from being hand-held…",
+    "img": "https://th-i.thgim.com/public/incoming/1b1ij7/article71064337.ece/alternates/LANDSCAPE_1200/14istb%20Univac_I_Census_dedication.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/75th-anniversary-of-the-univac-i/article71064362.ece",
+    "time": "2026-06-24T10:41:21.000Z"
   }
 ];
