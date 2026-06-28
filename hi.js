@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shikha Pandey previews India women's upcoming crucial T20 World Cup 2026 clash against Australia",
+    "desc": "The stage is set for one of the most highly anticipated games of the ongoing Women’s T20 World Cup 2026. India women will be taking on Australia women in the 30th game of the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shikha-pandey-previews-india-women-s-upcoming-crucial-t20-world-cup-2026-clash-against-australia-2026-06-28-1046408",
+    "time": "2026-06-28T08:19:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi scripts history, continues to break records as Argentina maintain unbeaten run",
+    "desc": "Argentina has continued its unbeaten run in the ongoing FIFA World Cup 2026. Coming into the tournament as the defending champions, many expected Argentina to pick up right where they left off, and the side...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-scripts-history-continues-to-break-records-as-argentina-maintain-unbeaten-run-2026-06-28-1046401",
+    "time": "2026-06-28T06:46:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Belfast fare for the second T20I of the series?",
+    "desc": "India and Ireland will continue their ongoing T20I series by taking on each other in the second and final game of the series. The two sides will meet at the Civil Service Cricket Club on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ire-weather-report-how-will-weather-in-belfast-fare-for-the-second-t20i-of-the-series-2026-06-28-1046393",
+    "time": "2026-06-28T05:13:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will the surface at Civil Service Cricket Club in Belfast play for the 2nd T20I?",
+    "desc": "The stage is set for the second and final T20I of the ongoing series between India and Ireland. The two sides will meet at the Civil Service Cricket Club in Belfast on June 28th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ire-vs-ind-pitch-report-how-will-the-surface-at-civil-service-cricket-club-in-belfast-play-for-the-2nd-t20i-2026-06-28-1046386",
+    "time": "2026-06-28T03:38:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Colombia holds off Portugal in Miami, finishes top of group K after 0-0 clash",
     "desc": "Colombia and Portugal took on each other at the Miami Stadium on June 28th, and both sides hoped for a good showing in hopes of finishing at the top of Group K. The likes of...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-abhishek-sharma-s-half-century-against-ireland-in-first-t20i-erased-from-record-books-2026-06-28-1046371",
     "time": "2026-06-27T20:19:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Zimbabwe vs Bangladesh one-off Test live on TV and stream online in India?",
-    "desc": "Zimbabwe return to Test cricket with a home fixture against Bangladesh in Harare, marking another one-off appearance in a format they have played sparingly outside structured cycles. The match begins on Sunday, June 28 and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-zimbabwe-vs-bangladesh-one-off-test-live-on-tv-and-stream-online-in-india-2026-06-28-1046370",
-    "time": "2026-06-27T19:27:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which is the only team to not score a single goal in FIFA World Cup 2026?",
-    "desc": "Panama have become the only team at the FIFA World Cup 2026 yet to score a single goal, following defeats in their opening two Group L matches against Ghana and Croatia. With two 1-0 losses,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-is-the-only-team-to-not-score-a-single-goal-in-fifa-world-cup-2026-2026-06-28-1046369",
-    "time": "2026-06-27T18:36:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "8 teams confirmed for T20 World Cup 2028 after Sri Lanka's win over Scotland",
-    "desc": "The race for places in the 2028 T20 World Cup has begun to take shape, with eight teams earning direct qualification through their performances in the ongoing tournament, while several others must wait for rankings...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/8-teams-confirmed-for-t20-world-cup-2028-after-sri-lanka-s-win-over-scotland-2026-06-27-1046368",
-    "time": "2026-06-27T18:06:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gap between India and Australia has narrowed in recent years, believes Smriti Mandhana, ahead of must-win game",
-    "desc": "India and Australia will face off in a crucial women’s T20 World Cup clash amid contrasting form and renewed debate over the gap between the two sides in international cricket. Notably, the Sophie Molineux-led side...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gap-between-india-and-australia-has-narrowed-in-recent-years-believes-smriti-mandhana-ahead-of-must-win-game-2026-06-27-1046363",
-    "time": "2026-06-27T17:33:58.000Z"
   }
 ];
