@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "‘Matter of time’: Ambati Rayudu opens up on star batter’s potential inclusion in India squad",
+    "desc": "The Indian team is all set to take on England in a multi-format white-ball series. The two sides will meet across five T20I matches and three ODIs and will hope to put in their best...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/matter-of-time-ambati-rayudu-opens-up-on-star-batter-s-potential-inclusion-in-india-squad-2026-06-30-1046584",
+    "time": "2026-06-29T21:54:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kai Havertz helps Germany equalise",
+    "desc": "The stage is set for yet another round of 32 clashes in the ongoing FIFA World Cup 2026. Germany will be taking on Paraguay as both sides are hoping to make their way into the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/ger-vs-par-fifa-world-cup-2026-live-germany-hope-for-significant-improvement-in-ro32-clash-1046583",
+    "time": "2026-06-29T20:24:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Tried to talk him down': Brendon McCullum reveals his reaction to Ben Stokes' international retirement",
+    "desc": "In one of the biggest developments in recent times, England’s Test skipper Ben Stokes took centre stage and announced his retirement from international cricket. In news that sent shockwaves across world cricket, Stokes played his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tried-to-talk-him-down-brendon-mccullum-reveals-his-reaction-to-stokes-international-retirement-2026-06-30-1046582",
+    "time": "2026-06-29T20:07:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gabriel Martinelli's late goal propels Brazil to FIFA World Cup 2026 RO16 after fiery clash with Japan",
     "desc": "In one of the most thrilling clashes in the ongoing FIFA World Cup 2026, Brazil knocked Japan out of the tournament. The sides took on Japan in the round of 32 stage of the competition...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/crickets-qualification-system-for-los-angeles-olympics-confirmed-check-how-teams-will-qualify-for-games-2026-06-29-1046537",
     "time": "2026-06-29T11:06:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did Ireland head coach Heinrich Malan step down from his role after stunning India 2-0 in T20Is?",
-    "desc": "Ireland men's head coach Heinrich Malan has decided to step down from his role less than 24 hours after guiding the team to a historic 2-0 T20I sweep over India, Cricket Ireland confirmed on Monday....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-ireland-head-coach-heinrich-malan-step-down-from-his-role-after-stunning-india-in-t20is-2026-06-29-1046528",
-    "time": "2026-06-29T10:36:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Harmanpreet Kaur continue as India captain after group-stage exit in T20 World Cup 2026? Coach speaks up",
-    "desc": "India head coach Amol Muzumdar put his weight behind captain Harmanpreet Kaur to continue in her role despite the second straight group stage exit in the Women's T20 World Cup 2026. India were knocked out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-harmanpreet-kaur-continue-as-india-captain-after-group-stage-exit-in-t20-world-cup-2026-coach-speaks-up-2026-06-29-1046513",
-    "time": "2026-06-29T08:44:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch SW19 on TV and online in India?",
-    "desc": "Wimbledon 2026 is set to unfold as London gears up for the third Grand Slam of the year. World No.1 Jannik Sinner enters SW19 intending to defend the title that he won last year after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/wimbledon-2026-live-streaming-details-when-and-where-to-watch-sw19-on-tv-and-online-in-india-2026-06-29-1046507",
-    "time": "2026-06-29T08:12:40.000Z"
   }
 ];

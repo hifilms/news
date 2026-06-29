@@ -1,5 +1,23 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "JKLF chief Yasin Malik among five named in charge sheet in 1990 Sarla Bhat killing case",
+    "desc": "The State Investigation Agency revealed the involvement of Malik, then JKLF chief commander; Khurshid Ahmad Chalkoo; Abdul Hamid Sheikh; Mohammad Yousuf Sofi alias Idrees and Ghulam Mohammad Taploo ‘in planning and executing the abduction and brutal killing’",
+    "img": "https://th-i.thgim.com/public/incoming/ek023t/article71161200.ece/alternates/LANDSCAPE_1200/IMG_Delhi_High_Court_iss_2_1_S2BH0I00.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jklf-chief-yasin-malik-among-5-named-in-chargesheet-in-1990-sarla-bhat-killing-case/article71161164.ece",
+    "time": "2026-06-29T20:14:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anup Jalota on Hanuman Chalisa, AR Rahman's remarks",
+    "desc": "In an exclusive conversation with ETimes, Anup Jalota opens up about the spiritual significance of the event, why he never followed Salman-like stardom formulas, the pressures of instant fame, AR Rahman's remarks on communal undercurrents in the film industry, and what keeps him grounded after decades in music. Anuja Sahai, meanwhile, shares what she has learnt from her guru beyond music and why performing alongside him before thousands of devotees is the greatest blessing of her life.",
+    "img": "https://static.toiimg.com/photo/msid-132079258,imgsize-125128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anup-jalota-on-leading-2-7-lakh-hanuman-chalisa-chants-ar-rahmans-remarks-and-why-instant-fame-doesnt-last-music-belongs-to-everyone-exclusive/articleshow/132079244.cms",
+    "time": "2026-06-29T20:13:54.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Matches in Indian Time",
     "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
@@ -45,6 +63,15 @@ const newsData_en = [
     "time": "2026-06-29T18:54:09.000Z"
   },
   {
+    "cat": "World",
+    "title": "Bihar Governor Hasnain and Minister of State Margherita likely to represent India at Khamenei’s funeral",
+    "desc": "Commentators describe the funeral in Tehran as a “big opportunity” for India to restructure its West Asia policy; they say the choice of the delegation indicate that India has not recognised the importance of the event",
+    "img": "https://th-i.thgim.com/public/incoming/l2t2sk/article71162846.ece/alternates/LANDSCAPE_1200/2026-06-13T124112Z_2147408089_RC25JLARDXEM_RTRMADP_3_IRAN-CRISIS-KHAMENEI-FUNERAL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar-governor-hasnain-and-minister-of-state-margherita-likely-to-represent-india-at-khameneis-funeral/article71162549.ece",
+    "time": "2026-06-29T18:41:24.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Messi, Mbappé, Vinícius Jr., Haaland all beaten as FIFA unveils unexpected World Cup's best attacker",
     "desc": "Lionel Messi may be leading the Golden Boot race, but Germany's Deniz Undav has emerged as FIFA's highest-rated attacking player after the 2026 World Cup group stage. The substitute striker edged Messi in FIFA's official performance rankings through extraordinary efficiency off the bench, while stars including Kylian Mbappé, Vinícius Júnior and Erling Haaland also featured among the tournament's top-rated performers.",
@@ -61,15 +88,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/randeep-hooda-reveals-why-he-rejected-salman-khans-career-advice-i-never-wanted-to-do-the-same-kind-of-roles/articleshow/132077730.cms",
     "time": "2026-06-29T18:15:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Bihar Governor Hasnain and Minister of State Margherita likely to represent India at Khamenei’s funeral",
-    "desc": "Commentators described the funeral in Tehran as a “big opportunity” for India to restructure its West Asia policy; they said that the choice of the delegation indicated that India had not recognised the importance of the event.",
-    "img": "https://th-i.thgim.com/public/incoming/l2t2sk/article71162846.ece/alternates/LANDSCAPE_1200/2026-06-13T124112Z_2147408089_RC25JLARDXEM_RTRMADP_3_IRAN-CRISIS-KHAMENEI-FUNERAL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar-governor-hasnain-and-minister-of-state-margherita-likely-to-represent-india-at-khameneis-funeral/article71162549.ece",
-    "time": "2026-06-29T17:43:38.000Z"
   },
   {
     "cat": "Tech",
@@ -133,24 +151,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jesse-eisenberg-opens-up-about-rejecting-the-social-network-2-im-moving-in-different-directions-in-my-life/articleshow/132075573.cms",
     "time": "2026-06-29T16:45:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Catching up on border infrastructure, says Kiren Rijiju after tribal group claims land grab by China",
-    "desc": "We have seen some media reports alleging recent encroachment by Chinese PLA and setting up of camps in Arunachal Pradesh; these reports are incorrect and without any basis, read a statement by the Indian Army",
-    "img": "https://th-i.thgim.com/public/incoming/d3811h/article71162590.ece/alternates/LANDSCAPE_1200/20260625399L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/catching-up-on-border-infrastructure-says-kiren-rijiju-after-tribal-group-claims-land-grab-by-china/article71161642.ece",
-    "time": "2026-06-29T16:33:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Press Club of India raises concern over passport issues faced by two senior journalists",
-    "desc": "The Press Club says deletion of former Editor of The Telegraph R. Rajagopal’s name from the electoral roll in West Bengal reportedly led to non-renewal of his passport for over 100 days allegedly following an ‘adverse’ police report",
-    "img": "https://th-i.thgim.com/public/incoming/x0ckp8/article71157332.ece/alternates/LANDSCAPE_1200/vbk-telegraph%20rajagopal_SA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/press-club-of-india-raises-concern-over-passport-issues-faced-by-two-senior-journalists/article71162281.ece",
-    "time": "2026-06-29T16:31:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +315,6 @@ const newsData_en = [
     "time": "2026-06-29T13:49:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'SBI wanted donation staff removed 3 months back': Congress on Ram Temple fund row",
-    "desc": "Calling the arrest of eight people in the case \"only a glimpse\", Congress leader Pawan Khera targeted those \"protecting\" the people behind the alleged fund embezzlement. Khera tweaked the RSS-BJP's popular Ram Mandir movement slogan in a piercing attack, saying, \"Ayodhya ki loot jhanki hai, Kashi-Mathura abhi baaki hai (the alleged loot in Ayodhya was only a glimpse, Kashi and Mathura were yet to come)\".",
-    "img": "https://static.toiimg.com/photo/msid-132073148,imgsize-149244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sbi-wanted-donation-staff-removed-3-months-back-congress-on-ram-temple-fund-row/articleshow/132072916.cms",
-    "time": "2026-06-29T13:44:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Women in Blue secure place in 2028 LA Olympics as ICC and IOC announce qualification pathway",
     "desc": "Four places in the men’s competition will be decided through the ICC Men’s T20I rankings, with qualification spots reserved for the highest-ranked eligible teams from Africa, Asia, Europe, and Oceania as of December 31, 2026",
@@ -331,24 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/women-in-blue-secure-place-in-2028-la-olympics-as-icc-and-ioc-announce-qualification-pathway/article71161687.ece",
     "time": "2026-06-29T13:36:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two Indian soldiers put country on world rowing map with 1st-ever World Cup gold",
-    "desc": "Indian Army Havildars Ujjwal Kumar Singh and Lakshay have etched their names in history, securing India's maiden gold medal at a World Rowing Cup. The duo triumphed in the Lightweight Men's Double Sculls at Lucerne, Switzerland, with a remarkable time of 6 minutes and 26.09 seconds. This historic victory, achieved with a composed 36 strokes per minute, underscores the Indian military's significant contribution to the sport.",
-    "img": "https://static.toiimg.com/photo/msid-132073016,imgsize-1269688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/two-indian-soldiers-put-country-on-world-rowing-map-with-1st-ever-world-cup-gold/articleshow/132073025.cms",
-    "time": "2026-06-29T13:31:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Polio Free Pakistan' on government-linked pamphlet triggers probe in Jammu and Kashmir",
-    "desc": "Health officials in Jammu and Kashmir have urgently called for clarification from a Block Medical Officer in Rajouri regarding an unauthorized pamphlet promoting 'Polio Free Pakistan.' This misleading publication, which resembles official polio vaccination materials, poses a risk to public confidence. Authorities are conducting an investigation to track down the individuals responsible for its production and distribution, and have issued firm directives to prevent similar unauthorized content from circulating.",
-    "img": "https://static.toiimg.com/photo/msid-132073018,imgsize-143458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/polio-free-pakistan-on-government-linked-pamphlet-triggers-probe-in-jammu-and-kashmir/articleshow/132072984.cms",
-    "time": "2026-06-29T13:30:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -414,15 +387,6 @@ const newsData_en = [
     "time": "2026-06-29T12:46:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Historic milestone': JKLF chief Yasin Malik named main accused in brutal 1990 killing of Kashmiri Pandit nurse Sarla Bhat",
-    "desc": "Nearly 36 years after the brutal killing of Kashmiri Pandit nurse Sarla Bhat, the Jammu and Kashmir State Investigation Agency has filed a chargesheet naming JKLF chief Yasin Malik as the principal accused. Bhat was abducted and murdered in 1990 on suspicion of being a police informer. The SIA described the development as a historic milestone.",
-    "img": "https://static.toiimg.com/photo/msid-132072954,imgsize-69358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/historic-milestone-jklf-chief-yasin-malik-named-main-accused-in-brutal-1990-killing-of-kashmiri-pandit-nurse-sarla-bhat/articleshow/132072294.cms",
-    "time": "2026-06-29T12:35:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ranbir's extraordinary transformation into Sanjay Dutt still leaves fans in awe",
     "desc": "Celebrating its eighth year, 'Sanju' directed by Rajkumar Hirani still enchants viewers, spotlighting Ranbir Kapoor's extraordinary embodiment of Sanjay Dutt. This riveting biographical film, which was a major box office success, navigated through Dutt’s tumultuous journey, encompassing personal struggles, addiction, and courtroom battles. Renowned for his profound and nuanced portrayal, Ranbir, complemented by a stellar supporting cast, solidified the film as an unforgettable cinematic milestone.",
@@ -466,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/who-is-puneet-sharma-the-axis-bank-cfo-who-has-resigned/articleshow/132070910.cms",
     "time": "2026-06-29T12:05:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shanthanu thanks CM Vijay for honoring his late father K. Bhagyaraj",
-    "desc": "Actor Shanthanu Bhagyaraj expressed profound gratitude to Tamil Nadu Chief Minister Vijay for his unwavering support following the passing of his father, filmmaker K. Bhagyaraj. Shanthanu highlighted Vijay's compassionate gesture at his father's funeral and his personal blessing at his wedding. He particularly lauded the state honors bestowed upon his father, calling it the greatest tribute an artist could receive.",
-    "img": "https://static.toiimg.com/photo/msid-132071447,imgsize-273388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-gratitude-will-last-a-lifetime-expresses-shanthanu-as-he-thanks-cm-vijay-for-honoring-his-late-father-k-bhagyaraj/articleshow/132071387.cms",
-    "time": "2026-06-29T11:47:28.000Z"
   },
   {
     "cat": "Business",
@@ -612,22 +567,13 @@ const newsData_en = [
     "time": "2026-06-29T08:51:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "China speeds up sulphur futures plan as Iran conflict triggers price volatility",
-    "desc": "China is fast-tracking plans for its inaugural sulphur futures contracts, with the Dalian Commodity Exchange aiming for a Q4 launch. Intensified price volatility due to the Iran conflict has highlighted the urgent need for hedging tools. This move is expected to bolster China's pricing power in the global sulphur trade and enhance supply-chain resilience for the world's largest consumer.",
-    "img": "https://static.toiimg.com/photo/msid-132066862,imgsize-809446.cms",
+    "cat": "Sports",
+    "title": "Can OCI footballers play for India? What is a Sports Passport? Complete guide to rules and laws",
+    "desc": "India's football federation is proposing to allow Overseas Citizenship of India (OCI) players in domestic leagues, sparking debate on sporting nationality. While OCIs can play for Indian clubs, they cannot represent the nation internationally without full citizenship. A government 'Sports Passport' proposal aims to potentially change this, drawing parallels with other nations' diaspora talent policies.",
+    "img": "https://static.toiimg.com/photo/msid-132065346,imgsize-56710.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/china-speeds-up-sulphur-futures-plan-as-iran-conflict-triggers-price-volatility/articleshow/132066799.cms",
-    "time": "2026-06-29T07:58:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Which is the correct tax return form for you? ITR-1 to ITR-7 eligibility explained",
-    "desc": "There are a total of seven income tax return filing forms and each year there are changes in some of these forms, so it’s important to be informed if your ITR form for a financial year is different from the previous year.",
-    "img": "https://static.toiimg.com/photo/msid-132066495,imgsize-596514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/itr-filing-which-is-the-correct-tax-return-form-for-you-itr-1-to-itr-7-eligibility-explained/articleshow/132066208.cms",
-    "time": "2026-06-29T07:39:02.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/explained-can-oci-footballers-play-for-india-what-is-a-sports-passport-complete-guide-to-rules-and-laws/articleshow/132065080.cms",
+    "time": "2026-06-29T07:37:01.000Z"
   },
   {
     "cat": "Business",
@@ -639,15 +585,6 @@ const newsData_en = [
     "time": "2026-06-29T07:32:18.000Z"
   },
   {
-    "cat": "Business",
-    "title": "IIFCL plans $1 billion overseas loan, also eyes $400 million ADB funding to back infrastructure push",
-    "desc": "India Infrastructure Finance Company Ltd (IIFCL) is set to raise a significant $1 billion from international investors, potentially its largest foreign-currency loan. This move, alongside talks for a $400 million loan from the Asian Development Bank, is bolstered by recent Reserve Bank of India measures encouraging dollar inflows. IIFCL is also considering a debut dollar bond issuance later this year.",
-    "img": "https://static.toiimg.com/photo/msid-132065487,imgsize-1035429.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/iifcl-plans-1-billion-overseas-loan-also-eyes-400-million-adb-funding-to-back-infrastructure-push/articleshow/132065387.cms",
-    "time": "2026-06-29T07:25:59.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Can Kunal Shah turn WhatsApp into a money-spinner?",
     "desc": "Meta has made a major leadership move that could redefine the future of WhatsApp. The company appointed CRED founder Kunal Shah as WhatsApp’s new global head, alongside a $900 million investment in CRED. But why is this appointment so significant? We look back at the history of WhatsApp’s acquisition by Meta, what worked, what didn’t, Meta’s previous unsuccessful attempts at launching its own payment systems and what Shah’s previous experience with CRED could mean for WhatsApp.",
@@ -657,15 +594,6 @@ const newsData_en = [
     "time": "2026-06-29T07:24:17.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What's the outlook for Nifty for June 29-July 3 week? Check list of top stock recommendations",
-    "desc": "TVS Motor Company, and Vijaya Diagnostic Centre are the top stock recommendations by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities for the June 29-July 3, 2026 week. The analyst has also shared his views on Nifty and Bank Nifty:",
-    "img": "https://static.toiimg.com/photo/msid-132065669,imgsize-371894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-june-15-to-june-19-stock-recommendations-tvs-motor-company-vijaya-diagnostic-centre/articleshow/132065618.cms",
-    "time": "2026-06-29T07:01:27.000Z"
-  },
-  {
     "cat": "World",
     "title": "More than 1,300 excess deaths recorded in Europe heatwave: WHO",
     "desc": "At least 191 million people are forecast to endure temperatures of at least 35℃ on June 28, in Europe, with the heat particularly intense in Germany, the Czech Republic, Hungary and Poland, according to AFP estimates",
@@ -673,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/more-than-1300-excess-deaths-recorded-in-europe-heatwave-who/article71158768.ece",
     "time": "2026-06-29T06:23:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What changes for ITR, Aadhaar, passport fees and bank rules",
-    "desc": "Starting July 1, 2026, several financial changes will affect you. Income tax filing deadlines are set, and updating your Aadhaar email becomes free for a period. Expect shifts in SBI Card rewards and HDFC Bank credit card lounge access eligibility. Passport fees are rising, and new RBI rules will protect bank customers from mis-sold financial products, ensuring refunds and compensation.",
-    "img": "https://static.toiimg.com/photo/msid-132064992,imgsize-937893.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/6-financial-changes-from-july-1-what-changes-for-itr-aadhaar-passport-fees-and-bank-rules/articleshow/132064716.cms",
-    "time": "2026-06-29T06:22:41.000Z"
   },
   {
     "cat": "World",
@@ -702,15 +621,6 @@ const newsData_en = [
     "time": "2026-06-29T05:13:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Markets stay cautious as Middle East tensions, Fed rate worries keep investors on edge",
-    "desc": "Asian markets treaded water Monday, dampened by Middle East ceasefire doubts and anticipation of more US interest rate hikes. Major indices like Japan's Nikkei and South Korea's Kospi saw declines. Investors are also reassessing AI stock valuations, with a shift towards defensive sectors. The dollar remains strong against a backdrop of potential Fed tightening, while gold prices dipped.",
-    "img": "https://static.toiimg.com/photo/msid-132062684,imgsize-728218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-stay-cautious-as-middle-east-tensions-fed-rate-worries-keep-investors-on-edge/articleshow/132062649.cms",
-    "time": "2026-06-29T04:12:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Making of India's 97th GM Harshavardhan: A 'legend' among friends, now his parents' pride",
     "desc": "Harshavardhan GB became India's 97th Grandmaster, ending a six-year wait since earning his IM title in 2020. Nicknamed \"legend\" by his chess peers for his creative brilliance, the 22-year-old overcame repeated near-misses, financial struggles and travel hardships. Backed by his family and coaches, Harshavardhan's emotional breakthrough has now set him on the path towards becoming a super Grandmaster.",
@@ -727,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/the-right-heroes-the-right-infrastructure-nbas-roadmap-for-indian-basketball/articleshow/132062060.cms",
     "time": "2026-06-29T03:28:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock recommendations for June 29, 2026 week",
-    "desc": "Which are the top stocks that you should buy this week? Gokaldas Exports, and Reliance Industries (RIL) are the top stocks that Motilal Oswal Wealth Management Research Desk has chosen as ‘buy’ recommendations for the week starting June 29, 2026. Also check what market experts and analysts have to say about the week ahead for the stock market.",
-    "img": "https://static.toiimg.com/photo/msid-132061775,imgsize-674339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-june-29-2026-week-gokaldas-exports-reliance-industries-ril-stocks-to-buy-today/articleshow/132061746.cms",
-    "time": "2026-06-29T03:09:19.000Z"
   },
   {
     "cat": "World",
@@ -799,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/news-in-frames-khukuri-a-symbol-of-courage-and-loyalty/article71157073.ece",
     "time": "2026-06-28T06:16:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "War on Iran",
-    "desc": "The war the U.S. and Israel launched has come to a fragile pause with a preliminary agreement between Washington and Tehran, but it has already diminished America’s presence in the region, prompting Gulf countries to seek a new modus vivendi with Tehran, while Israel, isolated and angry, is clinging on to its Lebanon card",
-    "img": "https://th-i.thgim.com/public/incoming/8kk7bh/article71155398.ece/alternates/LANDSCAPE_1200/2026-06-16T062055Z_1617149998_RC2QULAYQ4I9_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/war-on-iran-the-story-of-a-shipwrecked-hegemon/article71155421.ece",
-    "time": "2026-06-28T05:07:43.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +790,113 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/imo-pauses-its-gulf-vessel-evacuation-plan-after-iran-attacks-ship/article71151704.ece",
     "time": "2026-06-26T17:36:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Where are Kannada cinema’s next stars?",
+    "desc": "Kannada cinema still leans heavily on its tried-and-true male heroes and familiar storylines. It’s time for the industry to evolve and embrace a new generation of talent that reflects the vibrant, diverse audience it serves, writes Vivek M.V.",
+    "img": "https://th-i.thgim.com/public/incoming/rlahyb/article71146808.ece/alternates/LANDSCAPE_1200/_DSC7966.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/where-are-kannada-cinemas-next-stars/article71141447.ece",
+    "time": "2026-06-26T12:45:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How months of closure creates  challenges for ships",
+    "desc": "Even if shipping traffic resumes through the Strait of Hormuz, hundreds of vessels that have spent weeks or months waiting at anchor must first overcome a range of technical, operational and human challenges before returning to normal trade",
+    "img": "https://th-i.thgim.com/public/incoming/af3icq/article71145188.ece/alternates/LANDSCAPE_1200/2026-06-23T161547Z_1278724895_RC2AWLA73PVU_RTRMADP_3_IRAN-CRISIS-SHIPPING-RATES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/strait-of-hormuz-how-months-of-closure-creates-challenges-for-ships/article71145152.ece",
+    "time": "2026-06-25T22:18:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "S&P upgrades Adani Ports to BBB; cites strong cash flows, balance sheet strength",
+    "desc": "The rating agency assigned a stable outlook on APSEZ, reflecting the expectation that the company will sustain strong operating performance over the next 12-24 months and keep its net debt-to-EBITDA ratio at around 2.6 times despite elevated capital spending",
+    "img": "https://th-i.thgim.com/public/incoming/j2woqa/article71147661.ece/alternates/LANDSCAPE_1200/2026-02-03T100240Z_1864287471_RC29EJACCUGC_RTRMADP_3_APSEZ-RESULTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/sp-upgrades-adani-ports-to-bbb-cites-strong-cash-flows-balance-sheet-strength/article71147629.ece",
+    "time": "2026-06-25T17:53:08.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Amazon CEO Andy Jassy meets PM Modi; announces plans to invest additional $13 billion in India on cloud, AI",
+    "desc": "The company plans to launch more than 20 new fulfillment centers and over 100 new last mile delivery stations this year, bringing faster and reliable deliveries to customers nationwide, especially in tier 3 and 4 cities.",
+    "img": "https://th-i.thgim.com/public/incoming/q16ebs/article71145563.ece/alternates/LANDSCAPE_1200/HLpQC_wbEAAqvTK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-meets-pm-modi-investments-2030-india-ai-cloud/article71145559.ece",
+    "time": "2026-06-25T11:51:48.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "75th anniversary of the UNIVAC I",
+    "desc": "Seventy five years ago – on June 14, 1951 – the UNIVAC I was officially put into service by the U.S. Census Bureau. The UNIVAC I, which the bureau calls the first successful civilian computer, heralded a new age in the tech industry by demonstrating the potential for computers in various applications. A.S.Ganesh takes you back to a time when these devices were far from being hand-held…",
+    "img": "https://th-i.thgim.com/public/incoming/1b1ij7/article71064337.ece/alternates/LANDSCAPE_1200/14istb%20Univac_I_Census_dedication.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/75th-anniversary-of-the-univac-i/article71064362.ece",
+    "time": "2026-06-24T10:41:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "the longest suspension bridge in the western hemisphere",
+    "desc": "June 28, 1958 marks the end of a four-day party for the dedication festival of the Mackinac Bridge. Even though the bridge had been opened to traffic from November the previous year, it was only from June 25-28 that the official festivities and ribbon-cutting had taken place. Join A.S.Ganesh as he takes you on a trip to tell you about this suspension bridge…",
+    "img": "https://th-i.thgim.com/public/incoming/m4jcny/article71117475.ece/alternates/LANDSCAPE_1200/28istb%20MackinacBridge_at_night.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/mighty-mac-the-longest-suspension-bridge-in-the-western-hemisphere/article71117473.ece",
+    "time": "2026-06-24T09:41:30.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Meta’s $900 million investment in Cred and hiring of Kunal Shah as WhatsApp chief",
+    "desc": "The hiring accomplishes the dual aim of investing into a business focused on the few million Indians with a credit card, and getting a leader for WhatsApp at a time it is pushing to leverage the multi-billion user base Meta has been able to amass.",
+    "img": "https://th-i.thgim.com/public/news/national/xi55iy/article71136603.ece/alternates/LANDSCAPE_1200/kunal%20shah%20cred%20meta%20ai%20collage.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/explained-metas-900-million-investment-in-cred-and-hiring-of-kunal-shah-as-whatsapp-chief/article71136508.ece",
+    "time": "2026-06-23T08:39:23.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
