@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "'তুই আমার প্রথম বউ!' প্রাক্তনের চ্যাট ফাঁস, EX-এর বিস্ফোরক লাইভের পর এ কী লিখলেন ‘প্রেতকথা’র গৌরব?",
+    "desc": "নেটদুনিয়ায় এখন হট কেক ইউটিউবার গৌরব তপাদারের ব্যক্তিগত জীবনের বিতর্ক। সম্প্রতি গৌরবের প্রাক্তন প্রেমিকা অন্তরা দে ফেসবুক লাইভে এসে একটি বিস্ফোরক দাবি করেন। তিনি গৌরবের পাঠানো বেশ কিছু পুরোনো হোয়াটসঅ্যাপ চ্যাট এবং অডিয়ো ক্লিপ ফাঁস করে দেন। এরপর...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/extramarital-controversy-youtuber-gourab-tapadar-trolled-as-secret-chats-with-ex-viral-after-marriage_660335.html ",
+    "time": "2026-06-29T09:03:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "হাতে আর একদিন, ১ জুলাই থেকে LPG-তে বড় পরিবর্তন! এক ভুলে বন্ধ হয়ে যেতে পারে গ্যাস বুকিং",
+    "desc": "১ জুলাই থেকে LPG গ্যাসে নিয়মে বড় বদল আসছে। গ্যাস সিলিন্ডার পাওয়ার জন্য ৩০ জুনের মধ্যে ই-কেওয়াইসি (e-KYC) করা বাধ্যতামূলক করা হয়েছে। তবে পরিস্থিতি স্বাভাবিক হওয়ায় ১ জুলাই থেকে গ্যাস বুকিংয়ের মধ্যকার নির্ধারিত দিনের বাধ্যবাধকতা কমে যেতে পারে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/lpg-gas-cylinder-rules-change-july-1_660330.html ",
+    "time": "2026-06-29T08:22:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘কাট’ বললেও থামেননি কঙ্গনা! কামড়ে ঠোঁট কেটে রক্তারক্তি করেছিলেন বীর দাসের? ১০ বছর পর বিস্ফোরক সত্যি ফাঁস!",
+    "desc": "২০১৪ সালে মুক্তিপ্রাপ্ত ‘রিভলবার রানি’তে কমেডিয়ান বীর দাসের সঙ্গে স্ক্রিন শেয়ার করেছিলেন কঙ্গনা। সেখানে ছিল একটি ঘনিষ্ঠ চুম্বনের দৃশ্য। সিনেমা মুক্তির কয়েক বছর পর এক বিশিষ্ট সাংবাদিক সেই দৃশ্য নিয়ে এমন এক দাবি করেন যা স্ফুলিঙ্গের মতো ছড়িয়ে পড়েছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/vir-das-shuts-down-claim-that-kangana-ranaut-injured-him-during-kissing-scene-in-revolver-rani-pure-fiction_660318.html ",
+    "time": "2026-06-29T07:40:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'বাবা হতে চাই, কিন্তু ওর মা হতে...' সন্তানধারণ নিয়ে সিদ্ধান্তেই সমস্য়া! ভাঙছে গৌরব-আকাঙ্ক্ষার ৯ বছরের সংসার",
+    "desc": "টেলিভিশন দুনিয়ার অন্যতম পরিচিত জুটি গৌরব খান্না এবং আকাঙ্ক্ষা চামোলার সম্পর্ক নিয়ে দীর্ঘদিন ধরেই নানা গুঞ্জন চলছিল। অবশেষে সেই জল্পনাতেই সিলমোহর দিলেন আকাঙ্ক্ষা। কিন্তু দীর্ঘ ৯ বছরের সেই সাজানো সংসারে যে ফাটল ধরেছে, তা হয়তো কেউ কল্পনাও করতে পারেননি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/akanksha-chamola-confirms-divorce-from-gaurav-khanna-two-months-after-dismissing-split-rumours_660310.html ",
+    "time": "2026-06-29T06:37:55.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "পুণ্যে ড্রাগন-থাবা! কৈলাস মানস সরোবরের পথে ভারতীয়দের আটকে দিল চিন, কেন?",
     "desc": "প্রতি বছর জুন থেকে সেপ্টেম্বরের মধ্যে তিব্বতের মানস সরোবর এবং কৈলাসে যাত্রা করেন ভারতীয় পর্যটক ও পুণ্যার্থীরা। এবারেও সেটা চলছে। তবে এ মাসে চিনে ঢোকার জন্য প্রয়োজনীয় ভিসা এবং অন্য নথিপত্র না-থাকায় নেপালেই আটকে পড়তে হয় এরকম ৫২ জন ভারতীয় পুণ্যার্থীকে।",
@@ -171,15 +207,6 @@ const newsData_bn = [
     "time": "2026-06-26T10:20:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "রামমন্দিরের দানের কোটি কোটি টাকা চুরি করেছে কারা? ধৃত ৮ কে কে? কীভাবে তছরুপ হয় নগদ? ট্রাস্টি প্রধান চম্পত রাইও...",
-    "desc": "Ram Mandir Donation Scam রামমন্দির ট্রাস্টের ক্যাম্প অফিসের ইন-চার্জ প্রকাশ গুপ্তা দাবি করেছেন, কাউন্টারে পাওয়া অনুদান কেবল রসিদের মাধ্যমেই নেওয়া হয়। তাই গরমিল হয়ে থাকলে,তা রসিদ কাউন্টারে নয়, বরং অনুদান বাক্সে জমা পড়া টাকা গণনার সময়ই হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ram-mandir-donation-row-attendant-ex-bank-staff-the-man-with-key-who-are-the-8-arrested_660041.html ",
-    "time": "2026-06-26T09:57:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'আপাতত কোনও কড়া পদক্ষেপ নয়', মিমি চক্রবর্তীর বিরুদ্ধে FIR-এ স্থগিতাদেশ হাইকোর্টের",
     "desc": "শুরুতে ধাক্কা খেতে হয়েছিল। তবে শেষপর্যন্ত আদালতে স্বস্তি পেলেন অভিনেত্রী মিমি চক্রবর্তী। তাঁর বিরুদ্ধে যে FIR দায়ের করেছিলেন তনয় শাস্ত্রী, সেই FIR-র উপর এবার স্থগিতাদেশ জারি করল কলকাতা হাইকোর্ট। বিচারপতি কৌশক চন্দের সিঙ্গল বেঞ্চের নির্দেশ, 'আপাতত কোনও কড়া পদক্ষেপ নয়'।",
@@ -241,32 +268,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/kerala-hc-issues-notice-to-filmmaker-vipul-shah-over-the-kerala-story-2_659071.html ",
     "time": "2026-06-19T06:52:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিশ্বমঞ্চে বাংলা গান! ঐতিহাসিক চুক্তিতে হাত মেলাল ওয়ার্নার মিউজিক ও এসভিএফ",
-    "desc": "এই দুই সংস্থার হাত মেলানো কেবল ব্যবসার লাভ-ক্ষতির হিসাব নয়। এটা বাংলা সংস্কৃতিকে বিশ্বমঞ্চে বড় করে তুলে ধরার একটা বড় পদক্ষেপ। এর হাত ধরে আগামী দিনে পৃথিবীর বুকে বাংলা গান যেমন আরও বেশি ছড়িয়ে পড়বে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/warner-music-india-partners-with-svf-entertainment-to-take-bengali-music-global_658744.html ",
-    "time": "2026-06-17T04:15:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "প্রাক্তন প্রেমিকের প্রতারণা, কাস্টিং কাউচ! শেষ হল ২২ বছরের জীবন, সঞ্চিতার মৃত্যুতে রহস্য",
-    "desc": "উজ্জ্বল শর্মা নাকি সঞ্চিতার কাছ থেকে টাকা ধার নিয়েছিলেন। টাকা ফেরত চাইলে উজ্জ্বল দুর্ব্যবহার শুরু করেন। সঞ্চিতাকে মারধরের হুমকিও দেওয়া হয়েছিল বলে অভিযোগ। এই সংক্রান্ত চ্যাটের স্ক্রিনশটও নাকি রয়েছে, যেখানে আপত্তিকর ভাষা ব্যবহার করা হয়েছিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tv-actor-sanchita-ugales-brother-claims-casting-agents-harassed-her-friend-alleges-ex-boyfriend-behaviour_658613.html ",
-    "time": "2026-06-16T11:32:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "রাহুল অরুণোদয় বন্দ্যোপাধ্যায়ের রহস্যমৃত্যুর তদন্তভার এবার CID-র হাতে, কড়া নির্দেশ মুখ্যমন্ত্রী শুভেন্দু অধিকারীর",
-    "desc": "অভিনেতা রাহুল অরুণোদয় বন্দ্যোপাধ্যায়ের রহস্যমৃত্যুর তদন্তে এবার বড় পদক্ষেপ রাজ্য সরকারের! ওড়িশা সরকারের সিটের পর এবার এই মামলার তদন্তভার রাজ্য গোয়েন্দা সংস্থা বা CID-র হাতে তুলে দেওয়ার নির্দেশ দিলেন মুখ্যমন্ত্রী শুভেন্দু অধিকারী। পিএমও (PMO)-র হস্তক্ষেপের পর এবার রাজ্যের এই কড়া পদক্ষেপ কি পারবে সত্য সামনে আনতে? শুটিং সেটের অব্যবস্থা নাকি অন্য কিছু?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/actor-rahul-arunoday-banerjee-death-case-cid-investigation-suvendu-adhikari_658418.html ",
-    "time": "2026-06-15T11:28:43.000Z"
   }
 ];

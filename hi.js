@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why did Ireland head coach Heinrich Malan step down from his role after stunning India 2-0 in T20Is?",
+    "desc": "Ireland men's head coach Heinrich Malan has decided to step down from his role less than 24 hours after guiding the team to a historic 2-0 T20I sweep over India, Cricket Ireland confirmed on Monday....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-ireland-head-coach-heinrich-malan-step-down-from-his-role-after-stunning-india-in-t20is-2026-06-29-1046528",
+    "time": "2026-06-29T10:36:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Harmanpreet Kaur continue as India captain after group-stage exit in T20 World Cup 2026? Coach speaks up",
+    "desc": "India head coach Amol Muzumdar put his weight behind captain Harmanpreet Kaur to continue in her role despite the second straight group stage exit in the Women's T20 World Cup 2026. India were knocked out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-harmanpreet-kaur-continue-as-india-captain-after-group-stage-exit-in-t20-world-cup-2026-coach-speaks-up-2026-06-29-1046513",
+    "time": "2026-06-29T08:44:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch SW19 on TV and online in India?",
+    "desc": "Wimbledon 2026 is set to unfold as London gears up for the third Grand Slam of the year. World No.1 Jannik Sinner enters SW19 intending to defend the title that he won last year after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/wimbledon-2026-live-streaming-details-when-and-where-to-watch-sw19-on-tv-and-online-in-india-2026-06-29-1046507",
+    "time": "2026-06-29T08:12:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "More history for Canada as Eustáquio's stoppage time goal leads team to first-ever World Cup knockout win",
+    "desc": "Canada created more history when they edged past South Africa in the first round of 32 clash in the World Cup 2026 after a late goal from Stephen Eustáquio. The clash at SoFi Stadium went...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/more-history-for-canada-as-eustaquios-stoppage-time-goal-leads-team-to-first-ever-world-cup-knockout-win-2026-06-29-1046498",
+    "time": "2026-06-29T07:29:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why did Vaibhav Sooryavanshi not make his India debut during Ireland series? India coach reveals reason",
+    "desc": "Vaibhav Sooryavanshi missed out on making his record-breaking International debut during the two-match T20I series against Ireland as the move baffled many Indian fans. The 15-year-old had been the talk of the town ever since...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-vaibhav-sooryavanshi-not-make-his-india-debut-during-ireland-series-india-coach-reveals-reason-2026-06-29-1046486",
+    "time": "2026-06-29T06:29:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Deepti Sharma shatters women's cricket world record with lone strike in IND vs AUS T20 World Cup clash",
     "desc": "Deepti Sharma has etched her name into the history books after making a lone strike in the must-win T20 World Cup clash against Australia on Sunday, June 28 at Lord's. Deepti has become the highest...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-retires-5-huge-milestones-of-england-icon-as-he-walks-into-the-sunset-2026-06-28-1046446",
     "time": "2026-06-28T15:21:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes announces international retirement, Trent Bridge Test to be his last England appearance",
-    "desc": "England Test captain Ben Stokes has announced his international retirement, confirming that he will bring the curtains down on a glorious England career at the end of the ongoing third Test match against England. \"Ben...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-announces-international-retirement-trent-bridge-test-to-be-his-last-england-appearance-2026-06-28-1046444",
-    "time": "2026-06-28T14:34:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "INDW vs AUSW Women's T20 World Cup Highlights: Australia knock India out of tournament with Lord's win",
-    "desc": "India face a must-win encounter against six-time champions Australia in their final Group A match of the Women's T20 World Cup on Sunday, with a semifinal berth hanging in the balance. Harmanpreet Kaur's side has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-ausw-womens-t20-world-cup-live-cricket-score-india-vs-australia-latest-match-updates-scorecard-teams-2026-06-28-1046438",
-    "time": "2026-06-28T12:59:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Vaibhav Sooryavanshi playing for India today in IND vs IRE 2nd T20I? Check Playing XIs",
-    "desc": "Vaibhav Sooryavanshi missed out on making his much-awaited International debut as India face Ireland in the second and final T20I of the series at Civil Service Cricket Club, Belfast. Sooryavanshi had to wait for his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-vaibhav-sooryavanshi-playing-for-india-today-in-ind-vs-ire-2nd-t20i-check-playing-xis-2026-06-28-1046432",
-    "time": "2026-06-28T12:23:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India hand two debuts in must-win 2nd T20I in bid to avoid series defeat in Belfast",
-    "desc": "India have handed debuts to international debut to Suryansh Shedge and T20I debut to Prince Yadav as the Men in Blue look to avoid an embarrassing series defeat at the Civil Service Cricket Club, Belfast....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-hand-two-debuts-in-must-win-2nd-t20i-in-bid-to-avoid-series-defeat-in-belfast-2026-06-28-1046430",
-    "time": "2026-06-28T12:10:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ireland sweep world champions India 2-0 with win in Belfast",
-    "desc": "India will look to bounce back from a stunning defeat when they face Ireland in the second and final T20I on Sunday, with captain Shreyas Iyer hoping his side can level the series after an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ire-2nd-t20i-live-cricket-score-india-vs-ireland-civil-service-cricket-club-belfast-latest-match-updates-scorecard-teams-highlights-2026-06-28-1046429",
-    "time": "2026-06-28T12:00:01.000Z"
   }
 ];
