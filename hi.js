@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "WTC updated points table after New Zealand secure historic Test series victory against England",
+    "desc": "New Zealand registered a historic win against England in the third and final Test of the series. After winning the second and third Test of the series, the Black Caps managed to make the best...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-new-zealand-secure-historic-test-series-victory-against-england-2026-06-29-1046567",
+    "time": "2026-06-29T14:56:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is two-time champion Carlos Alcaraz not playing in Wimbledon 2026?",
+    "desc": "Spanish sensation Carlos Alcaraz will not be part of Wimbledon 2026 as he continues his recovery from a wrist injury. Alcaraz has been out of action since mid-April when he picked up a wrist issue...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/why-is-two-time-champion-carlos-alcaraz-not-playing-in-wimbledon-2026-2026-06-29-1046550",
+    "time": "2026-06-29T12:14:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India women qualify for Olympic Games 2028 as cricket's qualification system for Los Angeles Games revealed",
+    "desc": "India's women's team has become one of the four teams that have confirmed their places in the cricket event at the Olympics 2028, as the International Cricket Council (ICC) and the International Olympic Committee (IOC) announced...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/crickets-qualification-system-for-los-angeles-olympics-confirmed-check-how-teams-will-qualify-for-games-2026-06-29-1046537",
+    "time": "2026-06-29T11:06:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why did Ireland head coach Heinrich Malan step down from his role after stunning India 2-0 in T20Is?",
     "desc": "Ireland men's head coach Heinrich Malan has decided to step down from his role less than 24 hours after guiding the team to a historic 2-0 T20I sweep over India, Cricket Ireland confirmed on Monday....",
     "img": "",
@@ -52,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/deepti-sharma-shatters-womens-cricket-world-record-with-lone-strike-in-ind-vs-aus-t20-world-cup-clash-2026-06-29-1046458",
     "time": "2026-06-28T18:31:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "More history for Ireland, India's T20I dominance comes to a halt with 2-0 series defeat in Belfast",
-    "desc": "Ireland have entered the history books as they registered a 2-0 sweep over India in the two-match T20I series, ending their long unbeaten run with another famous win at the Civil Service Cricket Club, Belfast....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/more-history-for-ireland-indias-t20i-dominance-comes-to-a-halt-with-2-0-series-defeat-in-belfast-2026-06-28-1046452",
-    "time": "2026-06-28T16:51:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's journey in Women's T20 World Cup comes to an end, knocked out in group stage twice in a row",
-    "desc": "India have been knocked out of the Women's T20 World Cup 2026 after suffering a loss to Australia in their last group stage match at Lord's, London. The Women in Blue had to win their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indias-journey-in-womens-t20-world-cup-comes-to-an-end-knocked-out-in-group-stage-twice-in-a-row-2026-06-28-1046451",
-    "time": "2026-06-28T16:46:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana, Shafali Verma shatter world record during IND vs AUS Women's T20 World Cup clash",
-    "desc": "India star openers Smriti Mandhana and Shafali Verma have shattered a huge world record during their team's must-win Women's T20 World Cup 2026 clash against Australia on Sunday, June 28. Mandhana and Shafali gave India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-shafali-verma-shatter-world-record-during-ind-vs-aus-womens-t20-world-cup-clash-2026-06-28-1046447",
-    "time": "2026-06-28T15:32:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 huge milestones of England icon as he walks into the sunset",
-    "desc": "Ben Stokes has announced his International retirement, as the England all-rounder is set to hang up his boots after the completion of the ongoing third Test against New Zealand at Trent Bridge. Stokes will walk...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-retires-5-huge-milestones-of-england-icon-as-he-walks-into-the-sunset-2026-06-28-1046446",
-    "time": "2026-06-28T15:21:43.000Z"
   }
 ];

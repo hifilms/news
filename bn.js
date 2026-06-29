@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "সিগারেট কোম্পানিতে বিরাট ছাঁটাই, রাতারাতি চাকরি গেল ৯০০০ কর্মীর",
+    "desc": "এবার সিগারেট কোম্পানিতে বিরাট ছাঁটাই! রাতারাতি চাকরি গেল ৯০০০ কর্মীর! কোম্পানির ব্যয় কমানোর অংশ হিসেবেই আরও সাড়ে তিন হাজার পদ আউটসোর্সিংয়ের আওতায় নেওয়া হবে বলে জানিয়েছে তামাক উৎপাদন ও তামাকজাত পণ্য বিপণনকারী বহুজাতিক এই প্রতিষ্ঠান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/british-american-tobacco-layoffs-bat-to-cut-9000-roles-in-ai-transformation_660424.html ",
+    "time": "2026-06-29T15:10:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘তাড়া কীসের, আকাশ ভেঙে পড়বে না!’ রাম মন্দিরের ৩,৫০০ কোটির তহবিলে গরমিল, সিবিআই তদন্তের আর্জি খারিজ শীর্ষ আদালতের",
+    "desc": "রাম মন্দির অনুদান তছরুপের অভিযোগে জরুরি ভিত্তিতে শুনানির আবেদন খারিজ করল সুপ্রিম কোর্ট। উত্তরপ্রদেশ সরকারের তদন্তের পরিবর্তে সিবিআই তদন্তের দাবি জানিয়ে একাধিক আবেদনকারী শীর্ষ আদালতের দ্বারস্থ হয়েছিলেন। তাঁদের অভিযোগ ছিল, রাজ্য সরকারের তদন্তের নিরপেক্ষতা নিয়ে প্রশ্ন রয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/sc-refuses-urgent-hearing-on-cbi-probe-into-3500-crore-ram-mandir-donation-mismanagement_660355.html ",
+    "time": "2026-06-29T11:04:55.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'তুই আমার প্রথম বউ!' প্রাক্তনের চ্যাট ফাঁস, EX-এর বিস্ফোরক লাইভের পর এ কী লিখলেন ‘প্রেতকথা’র গৌরব?",
     "desc": "নেটদুনিয়ায় এখন হট কেক ইউটিউবার গৌরব তপাদারের ব্যক্তিগত জীবনের বিতর্ক। সম্প্রতি গৌরবের প্রাক্তন প্রেমিকা অন্তরা দে ফেসবুক লাইভে এসে একটি বিস্ফোরক দাবি করেন। তিনি গৌরবের পাঠানো বেশ কিছু পুরোনো হোয়াটসঅ্যাপ চ্যাট এবং অডিয়ো ক্লিপ ফাঁস করে দেন। এরপর...",
@@ -171,15 +189,6 @@ const newsData_bn = [
     "time": "2026-06-27T05:49:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "অপারেশন আমিস্তাদ: ভেনেজুয়েলার ভূমিকম্পে ত্রাতা ভারত! মোতায়েন হচ্ছে সেনার বিশেষ দল, সঙ্গে 'ভীষ্ম কিউব'",
-    "desc": "বিপদের দিনে আবারও বন্ধুপ্রতিম দেশের পাশে দাঁড়াল ভারত!উত্তর ভেনেজুয়েলায় ভয়াবহ ভূমিকম্পের পর দুর্গতদের চিকিৎসায় এগিয়ে এল ভারতীয় সেনাবাহিনী। শুরু হলো ‘অপারেশন আমিস্তাদ’। সেনার ৬০ প্যারা ফিল্ড হাসপাতালের ৪১ সদস্যের একটি বিশেষ মেডিক্যাল দল (যার মধ্যে ৯ জন বিশেষজ্ঞ চিকিৎসক রয়েছেন) দুটি বায়ুসেনার বিমানে হিন্ডন এয়ার বেস থেকে রওনা দিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/operation-amistad-india-army-medical-team-bhishm-cube-earthquake-venezuela-aid_660058.html ",
-    "time": "2026-06-26T14:07:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "FIFA বিশ্বকাপ ২০২৬: Zee-এর হাত ধরে তুঙ্গে বিজ্ঞাপনের বাজার, নক-আউটের মুখে জুড়ল একাধিক নামী ব্র্যান্ড",
     "desc": "ফিফা বিশ্বকাপ ২০২৬-এর রোমাঞ্চ এবার আরও দ্বিগুণ! রাউন্ড অফ ৩২ শুরু হওয়ার আগেই ‘জি’ নেটওয়ার্কে স্পনসরদের মেলা। Mahindra, Apple, Diageo-র পর এবার যুক্ত হল Lenovo, Adidas, Ceat, JLR, Zydus এবং JBL-এর মতো বিশ্বখ্যাত ব্র্যান্ডগুলি! ৩০ কোটিরও বেশি ইউনিক ভিউয়ার্সের ভালোবাসায় ভারতের এক নম্বর ইংরেজি স্পোর্টস চ্যানেল এখন Unite8 Sports 2। লাইভ ম্যাচ, দুর্দান্ত অ্যানালিসিস আর নিরবচ্ছিন্ন স্ট্রিমিং দেখতে চোখ রাখুন Zee5 অ্যাপ এবং Unite8 Sports চ্যানেলে।",
@@ -234,24 +243,6 @@ const newsData_bn = [
     "time": "2026-06-23T12:39:03.000Z"
   },
   {
-    "cat": "World",
-    "title": "গ্যাস কারখানায় হাড়হিম বিস্ফোরণে লহমায় নরক গোটা এলাকা! মৃত্যুপুরীতে লাশের পাহাড়, সামনে কি বড় গ্যাস-সংকট?",
-    "desc": "কাতার তথা মধ্য প্রাচ্যের সব থেকে বড় প্রাকৃতিক গ্যাস উৎপাদন ও শোধনাগার এই রাস লাফান। বিশ্বের বহু দেশেই এই কেন্দ্র থেকে তেল ও জ্বালানি সরবরাহ করা হয়। সেখানেই রবিবার একটি ফ্যাক্টরিতে ঘটল ভয়াবহ বিস্ফোরণ। বহু আহত। মৃত্যু কত?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/qatar-explosion-54-injured-18-missing-after-explosion-at-qatars-ras-laffan-gas-facility_659537.html ",
-    "time": "2026-06-22T13:43:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ব্রিটেন বিগ ব্রেকিং! আচমকা কিয়ার স্টারমারের পদত্যাগে টেমসে তোলপাড়; পরবর্তী প্রধানমন্ত্রী কে? বড় আপডেট",
-    "desc": "তীব্র চাপের মুখে ব্রিটেনের প্রধানমন্ত্রীর পদ থেকে ইস্তফা কিয়ার স্টারমারের। লেবার পার্টির প্রধানের দায়িত্ব থেকেও অব্যাহতি নিয়েছেন তিনি। সোমবার লন্ডনের ১০ ডাউনিং স্ট্রিটের সামনে দাঁড়িয়ে আবেগঘন ভাষণে স্টারমার জানান, নতুন নেতা নির্বাচিত না হওয়া পর্যন্ত প্রধানমন্ত্রী ও দলের প্রধান হিসেবে দায়িত্ব পালন করবেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/next-uk-pm-andy-burnham-who-will-be-the-next-uk-pm-how-will-he-be-chosen-keir-starmer-resigns-explained_659527.html ",
-    "time": "2026-06-22T12:24:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "তালিকা মেনেই হবে শুনানি, তাড়াহুড়োর প্রয়োজন নেই! মিমি চক্রবর্তীর আর্জি ফেরাল কলকাতা হাইকোর্ট",
     "desc": "চলতি বছরে জানুয়ারি মাসে বনগাঁয় অনুষ্ঠান করতে গিয়ে যে সমস্যা তৈরি হয় মিমি চক্রবর্তীকে ঘিরে। প্রথমে তনয় শাস্ত্রীর বিরুদ্ধে মিমি চক্রবর্তীর অভিযোগ দায়ের, তনয়ের জেল হওয়া এবং তারপর মিমির বিরুদ্ধে তনয়ের আইনি পদক্ষেপ, এই সবকিছুই চলছে বিগত কয়েক মাস ধরে।",
@@ -268,5 +259,50 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/kerala-hc-issues-notice-to-filmmaker-vipul-shah-over-the-kerala-story-2_659071.html ",
     "time": "2026-06-19T06:52:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
   }
 ];
