@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "আয়ারল্যান্ডের কাছে হোয়াইটওয়াশ ভারত! ২৪ ঘণ্টার মধ্যে দলের দায়িত্ব ছাড়লেন হেড কোচ! কে বসছেন হটসিটে?",
+    "desc": "ভারতের বিরুদ্ধে আয়ারল্যান্ড ঐতিহাসিক টি-টোয়েন্টি সিরিজে ২-০ ব্যবধানে জিতেছে। আর এই স্মরণীয় জয়ের ঠিক পরের দিনই আয়ারল্যান্ড দলের হেডকোচের পদ থেকে সরে দাঁড়ালেন হেড কোচ হেনরিখ মালান। এই সিদ্ধান্তের ফলে পরবর্তী ৫০ ওভারের বিশ্বকাপ চক্রের প্রস্তুতির জন্য ক্রিকেট আয়ারল্যান্ড পর্যাপ্ত সময় পাবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/head-coach-steps-down-a-day-after-ireland-whitewash-india_660426.html ",
+    "time": "2026-06-29T15:50:59.000Z"
+  },
+  {
     "cat": "World",
     "title": "সিগারেট কোম্পানিতে বিরাট ছাঁটাই, রাতারাতি চাকরি গেল ৯০০০ কর্মীর",
     "desc": "এবার সিগারেট কোম্পানিতে বিরাট ছাঁটাই! রাতারাতি চাকরি গেল ৯০০০ কর্মীর! কোম্পানির ব্যয় কমানোর অংশ হিসেবেই আরও সাড়ে তিন হাজার পদ আউটসোর্সিংয়ের আওতায় নেওয়া হবে বলে জানিয়েছে তামাক উৎপাদন ও তামাকজাত পণ্য বিপণনকারী বহুজাতিক এই প্রতিষ্ঠান।",
@@ -180,15 +189,6 @@ const newsData_bn = [
     "time": "2026-06-27T07:19:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "শুধু সিয়া একা নয়, চেতনকে চিনত ওর ভাইও! ১০ ঘণ্টা জেরার পর সামনে এল চাঞ্চল্যকর তথ্য",
-    "desc": "তদন্তে পুলিস জানতে পেরেছে, প্রমাণ লুকানোর জন্য অভিযুক্তরা তাদের মোবাইল থেকে সব মেসেজ ও চ্যাট ডিলিট করে দিয়েছে। এমনকি ঘটনার আগের দিন, অর্থাৎ ১৭ জুন তারা পুনের একটি ক্যাফেতে দেখাও করেছিল। পুলিস এখন এই সব বিষয় নিয়ে তদন্ত করছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/sita-goyals-brother-sahil-linked-with-chetan-chaudhary-pune-ketan-agarwal-murder-case_660123.html ",
-    "time": "2026-06-27T05:49:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "FIFA বিশ্বকাপ ২০২৬: Zee-এর হাত ধরে তুঙ্গে বিজ্ঞাপনের বাজার, নক-আউটের মুখে জুড়ল একাধিক নামী ব্র্যান্ড",
     "desc": "ফিফা বিশ্বকাপ ২০২৬-এর রোমাঞ্চ এবার আরও দ্বিগুণ! রাউন্ড অফ ৩২ শুরু হওয়ার আগেই ‘জি’ নেটওয়ার্কে স্পনসরদের মেলা। Mahindra, Apple, Diageo-র পর এবার যুক্ত হল Lenovo, Adidas, Ceat, JLR, Zydus এবং JBL-এর মতো বিশ্বখ্যাত ব্র্যান্ডগুলি! ৩০ কোটিরও বেশি ইউনিক ভিউয়ার্সের ভালোবাসায় ভারতের এক নম্বর ইংরেজি স্পোর্টস চ্যানেল এখন Unite8 Sports 2। লাইভ ম্যাচ, দুর্দান্ত অ্যানালিসিস আর নিরবচ্ছিন্ন স্ট্রিমিং দেখতে চোখ রাখুন Zee5 অ্যাপ এবং Unite8 Sports চ্যানেলে।",
@@ -205,15 +205,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actress-sanghasri-sinha-brings-serious-allegations-against-hospital_660052.html ",
     "time": "2026-06-26T13:11:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "জাপান লড়বে ব্রাজিলের সঙ্গে, ডাচদের সামনে হাকিমিরা! রহস্য রোমাঞ্চে ভরপুর রাউন্ড অফ ৩২... রইল পুরো তালিকা",
-    "desc": "৪৮ দলের লড়াই দেখছে গ্রেটেস্ট 'শো অন আর্থ'। ১২টি গ্রুপ (প্রতি গ্রুপে ৪ দল) থেকে প্রতি গ্রুপের শীর্ষে শেষ করা দুই দলের সঙ্গেই তৃতীয় স্থানে থাকা দলগুলির মধ্যে সেরা ৮ট দল সরাসরি রাউন্ড অফ থার্টিটুতে জায়গা করে নেবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/round-of-32-full-schedule-fifa-world-cup-2026_660043.html ",
-    "time": "2026-06-26T10:20:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -259,50 +250,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/kerala-hc-issues-notice-to-filmmaker-vipul-shah-over-the-kerala-story-2_659071.html ",
     "time": "2026-06-19T06:52:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
   }
 ];

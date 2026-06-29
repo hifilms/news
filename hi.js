@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gabriel Martinelli's late goal propels Brazil to FIFA World Cup 2026 RO16 after fiery clash with Japan",
+    "desc": "In one of the most thrilling clashes in the ongoing FIFA World Cup 2026, Brazil knocked Japan out of the tournament. The sides took on Japan in the round of 32 stage of the competition...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/gabriel-martinelli-s-late-goal-propels-brazil-to-fifa-world-cup-2026-ro16-after-fiery-clash-with-japan-2026-06-30-1046581",
+    "time": "2026-06-29T19:25:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gabriel Martinelli late goal helps Brazil eliminate Japan",
+    "desc": "The stage is set for one of the most exciting clashes in the ongoing FIFA World Cup 2026. Five-time champions Brazil will be taking on Japan in a bid to reach the round of 16...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bra-vs-jap-fifa-world-cup-2026-live-fierce-clash-awaits-as-both-sides-hope-to-book-ro16-ticket-1046573",
+    "time": "2026-06-29T16:36:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I feel incredibly lucky': Ben Stokes opens up after playing the final international game of his career",
+    "desc": "An era has come to an end for English cricket as veteran all-rounder Ben Stokes played the final international game of his career. It is worth noting that Stokes announced his retirement from international cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-feel-incredibly-lucky-ben-stokes-opens-up-after-playing-the-final-international-game-of-his-career-2026-06-29-1046572",
+    "time": "2026-06-29T16:08:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "WTC updated points table after New Zealand secure historic Test series victory against England",
     "desc": "New Zealand registered a historic win against England in the third and final Test of the series. After winning the second and third Test of the series, the Black Caps managed to make the best...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/wimbledon-2026-live-streaming-details-when-and-where-to-watch-sw19-on-tv-and-online-in-india-2026-06-29-1046507",
     "time": "2026-06-29T08:12:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "More history for Canada as Eustáquio's stoppage time goal leads team to first-ever World Cup knockout win",
-    "desc": "Canada created more history when they edged past South Africa in the first round of 32 clash in the World Cup 2026 after a late goal from Stephen Eustáquio. The clash at SoFi Stadium went...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/more-history-for-canada-as-eustaquios-stoppage-time-goal-leads-team-to-first-ever-world-cup-knockout-win-2026-06-29-1046498",
-    "time": "2026-06-29T07:29:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did Vaibhav Sooryavanshi not make his India debut during Ireland series? India coach reveals reason",
-    "desc": "Vaibhav Sooryavanshi missed out on making his record-breaking International debut during the two-match T20I series against Ireland as the move baffled many Indian fans. The 15-year-old had been the talk of the town ever since...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-vaibhav-sooryavanshi-not-make-his-india-debut-during-ireland-series-india-coach-reveals-reason-2026-06-29-1046486",
-    "time": "2026-06-29T06:29:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deepti Sharma shatters women's cricket world record with lone strike in IND vs AUS T20 World Cup clash",
-    "desc": "Deepti Sharma has etched her name into the history books after making a lone strike in the must-win T20 World Cup clash against Australia on Sunday, June 28 at Lord's. Deepti has become the highest...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/deepti-sharma-shatters-womens-cricket-world-record-with-lone-strike-in-ind-vs-aus-t20-world-cup-clash-2026-06-29-1046458",
-    "time": "2026-06-28T18:31:25.000Z"
   }
 ];
