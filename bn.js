@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "হাসপাতাল থেকে মন খারাপ করা খবর দিলেন পর্দার 'পটল', কী হয়েছে হিয়ার?",
+    "desc": "আর কোনও মেগায় দেখা যায়নি ঠিকই, তবে আজও পর্দার ‘পটলকুমার’ সকলের বড্ড প্রিয়। পোশাকি নাম ‘পটল’-এ সকলের কাছে বেশি জনপ্রিয় হলেও বাস্তবে সে হিয়া দে। সে এখন আর ছোট নেই। একাদশ শ্রেণির ছাত্রী হিয়া হাসপাতালে ভর্তি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/potol-kumar-gaanwala-fame-hiya-dey-hospitalized-with-fractured-arm_660477.html ",
+    "time": "2026-06-30T06:28:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "দাম ১.২ লাখে নামার আশঙ্কা? লাভ ঘরে তুলতে পুরনো সোনা বিক্রির নতুন রেকর্ড",
+    "desc": "এপ্রিল-জুন কোয়ার্টারে পুরনো সোনা বিক্রির পরিমাণ ৪৩% বেড়ে প্রায় ৫০ টনে পৌঁছেছে। বাজার বিশেষজ্ঞদের ধারণা, দাম ১০ গ্রাম প্রতি ১.২ লাখ টাকা পর্যন্ত নামতে পারে। এই প্রবণতায় দেশে সোনা রিসাইক্লিং ব্যবসা চাঙ্গা হচ্ছে, যা ভারতের বিশাল আমদানি নির্ভরতা ও খরচ কমাতে সাহায্য করবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/gold-prices-fall-indians-sell-old-jewellery-as-fears-of-deeper-correction-grow_660470.html ",
+    "time": "2026-06-30T05:13:16.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "আয়ারল্যান্ডের কাছে হোয়াইটওয়াশ ভারত! ২৪ ঘণ্টার মধ্যে দলের দায়িত্ব ছাড়লেন হেড কোচ! কে বসছেন হটসিটে?",
     "desc": "ভারতের বিরুদ্ধে আয়ারল্যান্ড ঐতিহাসিক টি-টোয়েন্টি সিরিজে ২-০ ব্যবধানে জিতেছে। আর এই স্মরণীয় জয়ের ঠিক পরের দিনই আয়ারল্যান্ড দলের হেডকোচের পদ থেকে সরে দাঁড়ালেন হেড কোচ হেনরিখ মালান। এই সিদ্ধান্তের ফলে পরবর্তী ৫০ ওভারের বিশ্বকাপ চক্রের প্রস্তুতির জন্য ক্রিকেট আয়ারল্যান্ড পর্যাপ্ত সময় পাবে।",
@@ -225,15 +243,6 @@ const newsData_bn = [
     "time": "2026-06-23T13:28:10.000Z"
   },
   {
-    "cat": "World",
-    "title": "বাইরে তীব্র হিটওয়েভ, গাড়ির ভিতরে ভয়ংকর গরমে মৃত্যু শিশুদের! কী এই 'ওমেগা ব্লক', যা এভাবে কেড়ে নিল প্রাণ?",
-    "desc": "লন্ডনের এক কলেজের জলবায়ু গবেষক বলেছেন, এই আবহাওয়া-পরিস্থিতি 'ওমেগা ব্লক' নামে পরিচিত, যা উত্তর আফ্রিকা ও সাহারা মরুভূমি থেকে গরম বাতাস টেনে আনছে। এদিকে স্বস্তির বাতাস মিলছে না। তা ছাড়া জলবায়ু পরিবর্তনের বিপদ তো আছেই। তাই তাপপ্রবাহ আরও তীব্র হচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/severe-heatwave-18-killed-2-children-found-dead-in-hot-car-as-france-reels-under-severe-heatwave_659656.html ",
-    "time": "2026-06-23T12:39:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "তালিকা মেনেই হবে শুনানি, তাড়াহুড়োর প্রয়োজন নেই! মিমি চক্রবর্তীর আর্জি ফেরাল কলকাতা হাইকোর্ট",
     "desc": "চলতি বছরে জানুয়ারি মাসে বনগাঁয় অনুষ্ঠান করতে গিয়ে যে সমস্যা তৈরি হয় মিমি চক্রবর্তীকে ঘিরে। প্রথমে তনয় শাস্ত্রীর বিরুদ্ধে মিমি চক্রবর্তীর অভিযোগ দায়ের, তনয়ের জেল হওয়া এবং তারপর মিমির বিরুদ্ধে তনয়ের আইনি পদক্ষেপ, এই সবকিছুই চলছে বিগত কয়েক মাস ধরে।",
@@ -250,50 +259,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/kerala-hc-issues-notice-to-filmmaker-vipul-shah-over-the-kerala-story-2_659071.html ",
     "time": "2026-06-19T06:52:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
   }
 ];

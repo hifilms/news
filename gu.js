@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "લોકસભા અને રાજ્યસભામાં BJP પાસે કેટલી બેઠકો? જાણો સંસદમાં મોટી પાર્ટીઓનું લેટેસ્ટ નંબરગેમ",
+    "desc": "સંસદના ચોમાસુ સત્ર અંગે અટકળો ચાલુ છે. એવું કહેવામાં આવી રહ્યું છે કે બંધારણ સુધારા બિલ અંગે શાસક NDA અને વિપક્ષી પક્ષો વચ્ચે ફરી એકવાર ખેંચતાણ જોવા મળી શકે છે. જો કે, બિલ અંગે સત્તાવાર રીતે કંઈ જાહેર કરવામાં આવ્યું નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-many-seats-does-bjp-have-in-lok-sabha-and-rajya-sabha-know-the-latest-numbers-game-of-major-parties-in-parliament-483147 ",
+    "time": "2026-06-30T05:52:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પ્લેઇંગ 11મા એક સાથે રમી શકે છે વૈભવ, અભિષેક, સંજૂ અને કિશન... કેપ્ટન સામે છે 2 રસ્તા",
+    "desc": "15 વર્ષીય વૈભવ સૂર્યવંશી આ સમયે શાનદાર ફોર્મમાં છે. આઈપીએલ 2026મા તેણે 776 રન ફટકાર્યા હતા. સૂર્યવંશી પ્રથમ બોલથી સિક્સ ફટકારવા માટે જાણીતો છે. તેવામાં આવો જાણીએ કેપ્ટન શ્રેયસ અય્યર કઈ રીતે ઈંગ્લેન્ડ સામે સૂર્યવંશીને તક આપી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/eng-vs-ind-how-vaibhav-suryavanshi-abhishek-sharma-sanju-samson-and-ishan-kishan-can-fit-into-india-playing-xi-483146 ",
+    "time": "2026-06-30T05:43:40.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "વોટ્સએપનું જબરદસ્ત ફીચર આવ્યું, હવે ફોન નંબર વગર થઈ શકશે ચેટ, પણ ફટાફટ કરવું પડશે આ કામ!",
+    "desc": "વોટ્સએપ વાપરતા હોવ તો તમારા માટે બહુ કામના સમાચાર છે. જે લોકો પ્રાઈવસીને લઈને ખુબ ચિંતા કરતા હતા તેમના માટે આ કામની વાત છે. કારણ કે હવે વોટ્સએપમાં મોબાઈલ નંબર નહીં પરંતુ યૂઝરનેમ દ્વારા વોટ્સએપ વાપરી શકાશે. આ માટે વોટ્સએપે યૂઝરનેમ રિઝર્વ કરવાની સુવિધા પણ શરૂ કરી દીધી છે. વધુ વિગતો ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-game-changing-username-feature-how-to-chat-without-phone-number-know-details-483144 ",
+    "time": "2026-06-30T05:30:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અમેરિકા-ઈરાન વાતચીત પહેલા ઘટ્યું ક્રૂડ ઓઈલ, શું પેટ્રોલ-ડિઝલના ભાવમાં મળી રાહત, જાણો લેટેસ્ટ રેટ",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે યુદ્ધને કારણે તેલ, જે 115 ડોલર પ્રતિ બેરલ સુધી પહોંચી ગયું હતું, તે હવે તે 70 ડોલરથી 73 ડોલર પ્રતિ બેરલની વચ્ચે છે. WTI તેલ 0.62 ડોલર ઘટીને 70.33 ડોલર પ્રતિ બેરલ થયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/oil-prices-fall-ahead-of-us-iran-talks-has-there-been-any-relief-in-petrol-diesel-prices-know-the-latest-rates-483140 ",
+    "time": "2026-06-30T04:22:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બ્રાઝિલ વર્લ્ડ કપના પ્રી-ક્વાર્ટર ફાઇનલમાં પહોંચ્યું, છેલ્લી ઘડીએ તૂટ્યું જાપાનનું દિલ, ટુર્નામેન્ટમાંથી થયા બહાર",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026ના રાઉન્ડ ઓફ 32માં બ્રાઝિલે જાપાનને 2-1થી હરાવ્યું. આ જીત સાથે, બ્રાઝિલ પ્રી-ક્વાર્ટર ફાઇનલ (રાઉન્ડ ઓફ 16)માં પ્રવેશ કર્યો છે. હ્યુસ્ટન સ્ટેડિયમ ખાતે સ્ટોપેજ ટાઇમમાં ગેબ્રિયલ માર્ટિનેલીના ગોલે મેચનું પરિણામ પલટી નાખ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/brazil-reached-the-pre-quarterfinals-of-the-world-cup-japan-were-eliminated-from-the-tournament-483137 ",
+    "time": "2026-06-30T03:39:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેતન અગ્રવાલ કેસ: શું છે આ &amp;#039;ગેટ એનાલિસિસ&amp;#039;? જેની મદદથી પોલીસ ગૂંચવાયેલું કોકડું ઉકેલવા માંગે છે, મળશે મોટી મદદ",
+    "desc": "ચેતન અગ્રવાલ હત્યા કેસમાં વળી પાછો એક નવો પહેલું સામે આવ્યો છે. પોલીસ આરોપીનું ગેટ એનાલિસિસ કરાવવા માંગે છે. અત્રે જણાવવાનું કે આરોપીઓની પોલીસ કસ્ટડી પૂરી થતા કાલે કોર્ટમાં રજૂ કરાયા હતા અને તેમની 3 જુલાઈ સુધી પોલીસ કસ્ટડી લંબાવવામાં આવી છે. હવે આ સમય દરમિયાન પોલીસ શું શું કરવા માંગે છે તે પણ વિગતો સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-death-case-update-police-want-to-conduct-gait-analysis-483135 ",
+    "time": "2026-06-30T03:34:42.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "શું ચીને અરુણાચલ પ્રદેશમાં 5 નવી જગ્યાઓ પર કર્યો કબજો? આરોપ પર ભારતીય સેનાએ આપ્યું મોટું નિવેદન",
     "desc": "શું ચીને અરુણાચલ પ્રદેશમાં પાંચ નવા સ્થળો પર કબજો કરી લીધો છે? રાજ્યના એક સ્થાનિક સંગઠને આ આરોપ લગાવતા જિલ્લા વહીવટીતંત્રને એક મેમોરેન્ડમ સુપરત કર્યું છે. ભારતીય સેનાએ આ આરોપોને પાયાવિહોણા અને ખોટા ગણાવ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -261,33 +315,6 @@ const newsData_gu = [
     "time": "2026-06-28T10:36:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "48 ટીમોમાંથી એકમાત્ર એવી ટીમ, જે ગોલ કર્યા વિના વર્લ્ડ કપમાંથી બહાર... ત્રણેય મેચમાં હારી ગઈ",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026ની લીગ સ્ટેજ તેના અંતિમ તબક્કામાં છે, આજે લીગ સ્ટેજની છેલ્લી મેચો રમાઈ. આ મેગા-ટુર્નામેન્ટમાં 48 ટીમોએ ભાગ લીધો હતો, જેમાંથી 32 ટીમો આગળના રાઉન્ડમાં પહોંચી છે અને 16 ટીમો બહાર થઈ છે. આ 16 ટીમોમાંથી એક ટીમ માટે વર્લ્ડ કપ એક દુઃસ્વપ્ન સાબિત થયો, કારણ કે આ ટીમ એક પણ ગોલ કર્યા વિના વર્લ્ડ કપમાંથી બહાર થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/panama-only-team-out-of-football-world-cup-2026-without-scoring-a-goal-482962 ",
-    "time": "2026-06-28T10:23:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "6 બોલમાં 6 વિકેટ... 9 વર્ષના ક્રિકેટરનો કમાલ, ડબલ હેટ્રિક લઈ મચાવી ધમાલ",
-    "desc": "આજકાલ યુવા ક્રિકેટ પ્રતિભાઓની વિશ્વભરમાં ચર્ચા છે. 15 વર્ષીય વૈભવ સૂર્યવંશી બેટથી કમાલ કરી રહ્યો છે. તો હવે 9 વર્ષનો એક બોલર ચર્ચામાં આવ્યો છે. આ બોલરે ડબલ હેટ્રિકનો લઈને ધમાલ મચાવી દીધી છે. આ રેકોર્ડ ભારતમાં નહીં, પરંતુ ઇંગ્લેન્ડમાં બન્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/double-hat-trick-9-year-old-rohan-takes-six-wickets-in-6-balls-482960 ",
-    "time": "2026-06-28T09:46:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ 3 ક્રિકેટરોએ એકસાથે લીધી નિવૃત્તિ, છેલ્લી મેચમાં છલકાયા આંસુ, જુઓ Video",
-    "desc": "ડિફેન્ડિંગ ચેમ્પિયન ન્યુઝીલેન્ડ મહિલા ટી20 વર્લ્ડ કપ 2026ની સેમિફાઇનલમાં ક્વોલિફાય થઈ શક્યું નથી. ટીમની હાર સાથે ત્રણ દિગ્ગજ ખેલાડીઓની આંતરરાષ્ટ્રીય ક્રિકેટ સફરનો અંત આવ્યો છે. આ મેચ દરમિયાન ત્રણેય ખેલાડીઓ ખૂબ જ ભાવુક થઈ ગઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-cricketers-sophie-devine-suzie-bates-and-lee-tahuhu-retires-482956 ",
-    "time": "2026-06-28T09:11:13.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "જુલાઈ 2026મા એન્ટ્રી કરી શકે છે 3 ધમાકેદાર સ્માર્ટફોન, કમાલના મળશે ફીચર્સ",
     "desc": "જૂના ફોનથી કંટાળી ગયા છો તો આ સમાચાર તમને ખુશ કરી શકે છે. આગામી મહિને નવી ડિઝાઇનના સ્માર્ટફોન જોવા મળી શકે છે. જેમાં શાનદાર કેમેરા, અપડેટેડ ફીચર્સ અને પાવરફુલ બેટરી મળી શકે છે. નીચે અપકમિંગ સ્માર્ટફોનની સંપૂર્ણ જાણકારી આપવામાં આવી છે.",
@@ -295,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/smartphone-blast-3-blockbuster-smartphones-ready-to-launch-in-july-2026-with-mind-blowing-features-482955 ",
     "time": "2026-06-28T08:56:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "દુનિયાનો સૌથી મોટો ફૂટબોલ મુકાબલો અટકશે? જાણો કેમ બદલાયા સમીકરણો",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026નો ઉત્સાહ સમગ્ર ભારતમાં છવાઈ રહ્યો છે. ક્રિસ્ટિયાનો રોનાલ્ડો, લિયોનેલ મેસ્સી, કાયલિયન એમબાપ્પે અને હેરી કેન જેવા મોટા નામોની એક ઝલક જોવા માટે ચાહકો ઉમટી રહ્યા છે. મેસ્સી સામે રોનાલ્ડો વિશે પણ ભારે ચર્ચા થઈ હતી, પરંતુ હવે બંને વચ્ચે હાઈ-વોલ્ટેજ મેચ થવાની શક્યતા ઓછી લાગે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/will-the-world-biggest-football-match-be-canceled-find-out-why-the-equations-have-changed-482954 ",
-    "time": "2026-06-28T08:02:07.000Z"
   },
   {
     "cat": "Politics",
@@ -342,15 +360,6 @@ const newsData_gu = [
     "time": "2026-06-28T01:45:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ગૂગલ-યૂટ્યુબ પરથી શીખ્યા હત્યાની રીત, પછી કર્યું મર્ડરનું રિહર્સલ... સિયા-ચેતને આ રીતે ઘડ્યું કેતનની હત્યાનું કાવતરું",
-    "desc": "પુણેના ચર્ચિત કેતન અગ્રવાલ હત્યાકાંડની તપાસમાં દરરોજ નવા-નવા ખુલાસા થઈ રહ્યા છે. ત્યારે હવે પોલીસ તપાસ સાથે જોડાયેલા સૂત્રોના હવાલાથી દાવો કરવામાં આવી રહ્યો છે કે, કેતનની હત્યાનું કાવતરું એક દિવસમાં નહોતું ઘડાયું, પરંતુ તેની યોજના ઘણા દિવસો સુધી તૈયાર કરવામાં આવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/learned-the-method-of-murder-from-google-youtube-then-rehearsed-the-murder-how-siya-chetan-hatched-the-plot-to-ketan-murder-482900 ",
-    "time": "2026-06-27T17:57:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "આધાર કાર્ડ, પાસપોર્ટથી લઈ બેન્ક સુધી... 1 જુલાઈ બદલાઈ રહ્યા છે આ 5 મોટા નિયમો, તમારા ખિસ્સા પર પડશે અસર!",
     "desc": "જુલાઈ મહિનો શરૂ થવામાં હવે ગણતરીના દિવસો જ બાકી રહ્યા છે. 1 જુલાઈ 2026થી કેટલાક મહત્વપૂર્ણ નાણાકીય નિયમોમાં બદલાવ થવા જઈ રહ્યો છે, જેની સીધી અસર સામાન્ય લોકોના ખિસ્સા અને રોજિંદા નાણાકીય કામકાજ પર પડી શકે છે. આ બદલાવમાં ITR ફાઇલિંગ, આધાર, પાસપોર્ટ, SBI અને HDFC બેન્કના ક્રેડિટ કાર્ડ સહિત મોટા અપડેટ સામેલ છે.",
@@ -385,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/riteish-deshmukh-movie-hit-movie-raja-shivaji-released-on-ott-know-where-to-watch-in-hindi-482801 ",
     "time": "2026-06-27T02:17:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ખિસ્સા ખાલી જ રહેશે! પેટ્રોલ-ડીઝલ પર હમણાં કોઈ રાહત નહીં, ઓઈલ કંપનીઓએ ઘડ્યો આ નવો પ્લાન!",
-    "desc": "આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલના ભાવમાં તીવ્ર ઘટાડો થયો હોવા છતાં, આ સમયે જનતાને સસ્તું પેટ્રોલ અને ડીઝલ મળવાની આશા ઓછી છે. એક્સપર્ટ માને છે કે સરકારી માલિકીની ઓઇલ માર્કેટિંગ કંપનીઓ (OMCs) પેટ્રોલ અને ડીઝલના ભાવ ઘટાડવાના મૂડમાં નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/there-is-no-relief-on-petrol-and-diesel-right-now-oil-companies-have-formulated-this-new-plan-482792 ",
-    "time": "2026-06-26T16:39:59.000Z"
   },
   {
     "cat": "Entertainment",

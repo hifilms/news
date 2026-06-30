@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Netherlands take 1-0 lead after Gakpo opens the scoring sheets",
+    "title": "How many times have Netherlands lost on penalties in FIFA World Cups after their latest defeat to Morocco?",
+    "desc": "Netherlands endured their earliest exit in the FIFA World Cup after bowing out of the tournament in the round of 32 following their defeat to Morocco on Tuesday, June 30 (IST). The two teams gave...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/how-many-times-have-netherlands-lost-on-penalties-in-fifa-world-cups-after-their-latest-defeat-to-morocco-2026-06-30-1046624",
+    "time": "2026-06-30T06:34:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI announces India women's squad for Asian Games, Harmanpreet Kaur to lead despite early World Cup exit",
+    "desc": "The Board of Control for Cricket in India (BCCI) named India's women's squad for the upcoming Asian Games 2026. Harmanpreet Kaur will be leading the full-strength side, which recently suffered a horror group-stage exit in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-india-womens-squad-for-asian-games-harmanpreet-kaur-to-lead-despite-early-world-cup-exit-2026-06-30-1046609",
+    "time": "2026-06-30T04:24:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Morocco hold nerve to edge past Netherlands on penalties, march into World Cup round of 16",
+    "desc": "Morocco defeated the Netherlands on penalties in their FIFA World Cup 2026 round of 32 clash at the Estadio Monterrey on Tuesday, June 30 (IST). The Atlas Lions put up a stellar performance against the Oranje...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/morocco-hold-nerve-to-edge-past-netherlands-on-penalties-march-into-world-cup-round-of-16-2026-06-30-1046607",
+    "time": "2026-06-30T04:08:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why was Tah's goal for Germany disallowed in World Cup 2026 round of 32 clash as Paraguay shock giants?",
+    "desc": "Germany's Jonathan Tah fired a header from a corner kick by Nathaniel Brown as Germany thought they had the much-needed lead in the first half of extra time, but for the VAR check that denied...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-was-tahs-goal-for-germany-disallowed-in-world-cup-2026-round-of-32-clash-as-paraguay-shock-giants-2026-06-30-1046596",
+    "time": "2026-06-30T02:52:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Morocco beat Netherlands on penalties to march in RO16",
     "desc": "The FIFA World Cup 2026 Round of 32 throws up one of the most intriguing knockout clashes as the Netherlands take on Morocco in Monterrey, with a place in the last 16 at stake. Both...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/gabriel-martinelli-s-late-goal-propels-brazil-to-fifa-world-cup-2026-ro16-after-fiery-clash-with-japan-2026-06-30-1046581",
     "time": "2026-06-29T19:25:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gabriel Martinelli late goal helps Brazil eliminate Japan",
-    "desc": "The stage is set for one of the most exciting clashes in the ongoing FIFA World Cup 2026. Five-time champions Brazil will be taking on Japan in a bid to reach the round of 16...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bra-vs-jap-fifa-world-cup-2026-live-fierce-clash-awaits-as-both-sides-hope-to-book-ro16-ticket-1046573",
-    "time": "2026-06-29T16:36:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I feel incredibly lucky': Ben Stokes opens up after playing the final international game of his career",
-    "desc": "An era has come to an end for English cricket as veteran all-rounder Ben Stokes played the final international game of his career. It is worth noting that Stokes announced his retirement from international cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-feel-incredibly-lucky-ben-stokes-opens-up-after-playing-the-final-international-game-of-his-career-2026-06-29-1046572",
-    "time": "2026-06-29T16:08:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WTC updated points table after New Zealand secure historic Test series victory against England",
-    "desc": "New Zealand registered a historic win against England in the third and final Test of the series. After winning the second and third Test of the series, the Black Caps managed to make the best...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-new-zealand-secure-historic-test-series-victory-against-england-2026-06-29-1046567",
-    "time": "2026-06-29T14:56:13.000Z"
   }
 ];
