@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "જમવાનો સ્વાદ બગડ્યો તો IPL ક્રિકેટરે રસોઈયાને માર્યો ! FIR દાખલ થયા બાદ ક્રિકેટરે તોડ્યું મૌન",
+    "desc": "ભારતીય ક્રિકેટર અને પંજાબ કિંગ્સના ખેલાડી શશાંક સિંહ અંગે એક મોટા સમાચાર સામે આવ્યા છે. અહેવાલો અનુસાર, શશાંક સિંહ સામે રસોઈયા તરીકે કામ કરતા વિપેન્દ્ર સિંહે FIR નોંધાવી છે. પોલીસે શશાંકના પિતા સહિત ત્રણ વ્યક્તિઓ સામે કેસ નોંધ્યો છે. હવે આ અંગે ક્રિકેટરે મૌન તોડ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/cricketer-shashank-singh-breaks-silence-on-violence-against-cook-483201 ",
+    "time": "2026-06-30T13:27:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "હાર બાદ કોચ અને ખેલાડીઓ ફેન્સ સામે નતમસ્તક... આંખોમાં આંસુ સાથે ચાહકોએ ટીમને આપી વિદાય",
     "desc": "ફૂટબોલ વર્લ્ડ કપમાં જાપાનની સફરનો અંત આવી ગયો છે. આ ટીમને બ્રાઝિલ સામેની રોમાંચક મેચમાં 2-1થી હારનો સામનો કરવો પડ્યો હતો. આ હાર બાદ ખેલાડીઓ અને કોચે કંઈક એવું કર્યું જેણે ફૂટબોલ ચાહકોના દિલ જીતી લીધા.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -315,15 +324,6 @@ const newsData_gu = [
     "time": "2026-06-29T05:44:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "કેનેડાએ રોક્યો આફ્રિકાનો રથ, 1-0થી હરાવી પ્રી-ક્વાર્ટર ફાઈનલમાં બનાવી જગ્યા",
-    "desc": "ફુટબોલ વિશ્વકપ 2026ના રાઉન્ડ ઓફ-32ની પ્રથમ મેચમાં યજમાન કેનેડાએ સાઉથ આફ્રિકાને 1-0થી પરાજય આપ્યો છે. લોસ એન્જલસમાં મળેલી આ જીતની સાથે કેનેડાની ટીમ પ્રથમવાર પ્રી-ક્વાર્ટર ફાઈનલ (રાઉન્ડ ઓફ-16) માં પહોંચી ગઈ છે. તેનો મુકાબલો 4 જુલાઈએ નેધરલેન્ડ કે મોરક્કો સામે થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/canada-vs-south-africa-canada-ends-south-africas-run-with-1-0-win-to-secure-historical-round-of-16-spot-483037 ",
-    "time": "2026-06-29T04:44:20.000Z"
-  },
-  {
     "cat": "World",
     "title": "નવી જંગ પાછળ Article 5નો હાથ? અમેરિકા અને ઈરાન વચ્ચેના કરારની એ શરત, જેણે યુદ્ધની આગ લગાવી",
     "desc": "ઈરાન અને અમેરિકા વચ્ચે ફરી એકવાર સંઘર્ષ વધ્યો છે. MoU પર સહી કર્યાના થોડા દિવસો પછી, બંને પક્ષોએ સપ્તાહના અંતે પર્સિયન ગલ્ફમાં હુમલાઓ શરૂ કર્યા છે. ડીલની કલમ 5 હવે મોટા વિવાદમાં છે. જાણો Article 5ના કારણે કેમ શરૂ થઈ આ જંગ.",
@@ -403,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/smartphone-blast-3-blockbuster-smartphones-ready-to-launch-in-july-2026-with-mind-blowing-features-482955 ",
     "time": "2026-06-28T08:56:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જો લોહાગઢ કિલ્લાથી બચી ગયો હોત કેતન તો સિયાએ બનાવી રાખ્યો હતો પ્લાન-B, પોલીસ તપાસમાં નવો ખુલાસો",
-    "desc": "સિયા ગોયલ કોઈપણ કિંમત પર કેતન અગ્રવાલ સાથે લગ્ન કરવા ઈચ્છતી નહોતી. આ કારણે તેણે ચેતન ચૌધરી સાથે મળી ઘણી યોજનાઓ પર વિચાર કર્યો હતો. તપાસમાં સામે આવ્યું કે બંનેએ કેતનને હટાવવા માટે અલગ-અલગ પ્લાન પર ચર્ચા કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pune-murder-investigation-accused-siya-goel-discussed-multiple-plots-to-eliminate-ketan-agarwal-482951 ",
-    "time": "2026-06-28T07:28:23.000Z"
   },
   {
     "cat": "Entertainment",
