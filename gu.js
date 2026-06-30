@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "ઇંગ્લેન્ડ સામેની ODI સિરીઝ પહેલા ટીમ ઇન્ડિયાને મોટો ઝટકો, સ્ટાર ઓલરાઉન્ડર બહાર ! જાણો શું છે કારણ",
+    "desc": "ભારતીય ઓલરાઉન્ડર નીતિશ કુમાર રેડ્ડી ક્વાડ્રિસેપ્સની ઇજાને કારણે 14 જુલાઈથી ઇંગ્લેન્ડ સામે શરૂ થતી ODI શ્રેણી ગુમાવી શકે છે. BCCI મેડિકલ ટીમે તેને વધુ આરામ કરવાની સલાહ આપી છે. હવે તે ઝિમ્બાબ્વે પ્રવાસ દરમિયાન વાપસી કરે તેવી શક્યતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/nitish-kumar-reddy-may-be-ruled-out-of-england-odi-series-due-to-injury-483209 ",
+    "time": "2026-06-30T16:09:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રેયસ ઐયર નહીં જ માને ! વૈભવ સૂર્યવંશીને ઇંગ્લેન્ડ સામે પણ નહીં મળે તક ? કેપ્ટને સમજાવ્યું લોજિક",
+    "desc": "ભારત અને ઇંગ્લેન્ડ વચ્ચે પાંચ મેચની T20 શ્રેણીની પહેલી મેચ 1 જુલાઈના રોજ રમાશે. મેચ પહેલા ભારતીય કેપ્ટન શ્રેયસ ઐયરને પૂછવામાં આવ્યું કે 15 વર્ષીય વૈભવ સૂર્યવંશીને આંતરરાષ્ટ્રીય ક્રિકેટમાં પદાર્પણ કરવા માટે કેટલો સમય રાહ જોવી પડશે. જેના પર ઐયરે શું જવાબ આપ્યો, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-eng-t20-series-shreyas-iyer-big-statement-on-vaibhav-suryavanshi-debut-483208 ",
+    "time": "2026-06-30T15:48:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગુજરાતી લોહી હાર નહીં માને! રાતોરાત છોડ્યું મુંબઈ! શું પંડ્યા યુગનો અંત છે કે નવી શરૂઆત?",
+    "desc": "એ ક્રિકેટર જેને એક સમયે પારલેજી અને મેગી ખાઈને દિવસો કાઢ્યા છે એનો આજે કપરો સમય ચાલી રહ્યો છે. તમે ભૂલો નહીં એ ગુજરાતી છે. આ પહેલાં પણ મજબૂત બનીને ઉભો થયો છે અને ફરી પણ ઉભો થશે, એને એ કર્યું છે કે આજદીન સુધી કોઈ ક્રિકેટર કરી શક્યો નથી. એેને 5 રૂપિયામાં દિવસ કાઢ્યો છે એને ખબર છે કે ક્યારે ફરી લાઈમ લાઈટમાં આવવાનું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/from-vadodara-to-mumbai-now-bengaluru-hardik-pandyas-master-plan-for-an-epic-comeback-483206 ",
+    "time": "2026-06-30T15:15:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સરકારે PNB, SBI અને કેનેરા બેંકના મર્જરને આપી મંજૂરી ? શું તમારું પણ આ બેંકમાં છે ખાતું ? જાણો શું છે હકીકત",
+    "desc": "હાલમાં સોશિયલ મીડિયા પર એવા અહેવાલો વાયરલ થઈ રહ્યા છે, જેમાં દાવો કરવામાં આવી રહ્યો છે કે ત્રણ મોટી બેંકોનું મર્જર થવાનું છે. શું ખરેખર આ સાચું છે ? જો તમારું આમાંથી કોઈપણ બેંકમાં ખાતું છે, તો આ સમાચાર તમારા માટે વાંચવા જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/fact-check-pnb-sbi-and-canara-bank-merger-news-know-what-is-the-truth-483205 ",
+    "time": "2026-06-30T14:48:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનાના ભાવમાં કડાકો, 18 વર્ષનો સૌથી મોટો ઘટાડો! 50,000 સસ્તું થયું સોનું, ખરીદવું કે હજુ ઘટશે કિંમત?",
+    "desc": "સોનાની કિંમતમાં સતત આવી રહેલા ઘટાડા બાદ વર્ષ 2008 પછીનો સૌથી મોટો માસિક ઘટાડો જોવા મળ્યો છે. સોનું સતત ચોથા મહિને સસ્તું થઈ રહ્યું છે. આવી સ્થિતિમાં સવાલ એ થાય છે કે, શું આ સોનું ખરીદવાનો યોગ્ય સમય છે કે હજુ ભાવ વધુ ઘટશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-crash-biggest-monthly-drop-since-2008-gold-price-drops-by-50600-rupees-483204 ",
+    "time": "2026-06-30T14:35:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PPFથી લઈને સુકન્યા સુધી... આ યોજનામાં રોકાણ કરતા લોકો માટે ખુશખબર! સરકારે લીધો મોટો નિર્ણય",
+    "desc": "જો તમે PPF, NSC, સુકન્યા સમૃદ્ધિ યોજના અથવા પોસ્ટ ઓફિસની નાની બચત યોજનાઓમાં રોકાણ કરો છો, તો તમારા માટે એક સારા સમાચાર છે. કેન્દ્ર સરકારે જુલાઈ-સપ્ટેમ્બર ક્વાર્ટર માટે આ યોજનાઓના વ્યાજ દર જાહેર કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/ppf-to-sukanya-samrudhi-yojana-govt-big-decision-on-small-savings-schemes-483203 ",
+    "time": "2026-06-30T14:13:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "જમવાનો સ્વાદ બગડ્યો તો IPL ક્રિકેટરે રસોઈયાને માર્યો ! FIR દાખલ થયા બાદ ક્રિકેટરે તોડ્યું મૌન",
     "desc": "ભારતીય ક્રિકેટર અને પંજાબ કિંગ્સના ખેલાડી શશાંક સિંહ અંગે એક મોટા સમાચાર સામે આવ્યા છે. અહેવાલો અનુસાર, શશાંક સિંહ સામે રસોઈયા તરીકે કામ કરતા વિપેન્દ્ર સિંહે FIR નોંધાવી છે. પોલીસે શશાંકના પિતા સહિત ત્રણ વ્યક્તિઓ સામે કેસ નોંધ્યો છે. હવે આ અંગે ક્રિકેટરે મૌન તોડ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -288,15 +342,6 @@ const newsData_gu = [
     "time": "2026-06-29T08:39:39.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીના ડેબ્યૂમાં કેમ થઈ રહ્યું છે મોડું? કોચે જણાવ્યું અસલી કારણ: &amp;#039;તે ઈન્ટરનેશનલ ક્રિકેટ માટે તૈયાર છે પણ...&amp;#039;",
-    "desc": "આયર્લેન્ડ પ્રવાસ પર વૈભવ સૂર્યવંશીના ડેબ્યૂની બધા આતુરતાથી રાહ જોઈ રહ્યા હતા, પરંતુ શ્રેયસ ઐયર અને ગૌતમ ગંભીરની જોડીએ તેમને તક આપવાનો ઇનકાર કર્યો. હવે, શ્રેણી 0-2થી હાર્યા બાદ, કોચે તેમના ડેબ્યૂમાં વિલંબ પાછળનું વાસ્તવિક કારણ જાહેર કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-is-vaibhav-suryavanshi-debut-delayed-coach-reveals-the-real-reason-he-is-ready-for-international-cricket-but-483065 ",
-    "time": "2026-06-29T08:32:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કેતન અગ્રવાલની હત્યા પહેલા સિયા અચાનક બેસી કેમ ગઈ? હત્યાના &amp;#039;સિગ્નલ&amp;#039; પર મોટો ખુલાસો",
     "desc": "પુનાના બિઝનેસમેન કેતન અગ્રવાલની હત્યાના કેસમાં નીતનવા ચોંકાવનારા ખુલાસા થઈ રહ્યા છે. હવે કેતનની હત્યા વખતે આરોપીઓ સિયા અને ચેતને જે કોડવર્ડનો ઉપયોગ કર્યો હતો એટલે કે હત્યાનું જે સિગ્નલ નક્કી કરાયું હતું તેના અંગે પણ મોટો ખુલાસો થયો છે. કેમ સિયાએ હત્યાના કોડ વર્ડ માટે બેસવાનું જ પસંદ કર્યુ હતું તે ખાસ જાણો.",
@@ -304,24 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-murder-scene-recreation-big-revelation-siya-goyal-chetan-chaudhary-483052 ",
     "time": "2026-06-29T06:34:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શરમજનક હાર બાદ સાઉથ કોરિયાના કોચ હોંગ મ્યુંગ-બોનું રાજીનામું, રાષ્ટ્રપતિએ પણ કાઢ્યો બળાપો!",
-    "desc": "ફુટબોલ વિશ્વકપના ગ્રુપ સ્ટેજના મુકાબલા સમાપ્ત થવાની સાથે રમત જગમાં ભૂકંપ આવી ગયો. સાઉથ કોરિયાની ટીમના કોચ હોંગ મ્યુંગ-બોએ રવિવારે પોતાના પદેથી રાજીનામું આપી દીધું છે. તેમની ટીમ અંતિમ લીગ મેચમાં આફ્રિકા સામે હારી અને ગ્રુપમાં ત્રીજા સ્થાને રહી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-hong-myung-bo-steps-down-as-south-korea-coach-after-shock-group-stage-elimination-483044 ",
-    "time": "2026-06-29T06:22:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હાર્યા વગર જ વર્લ્ડ કપમાંથી બહાર થયું ઈરાન, 7મી વખત પણ તૂટી ગઈ ટ્રોફીની આશા",
-    "desc": "ઑસ્ટ્રિયા અને અલ્જેરિયા સામે ડ્રો મેચ બાદ પ્રથમ વખત ઈરાનનું વર્લ્ડ કપના નોકઆઉટમાં પહોંચવાનું સ્વપ્ન ચકનાચૂર થઈ ગયું. ત્રણ ડ્રો સાથે ઈરાન અજેય રહ્યું, પરંતુ આગલા રાઉન્ડમાં આગળ વધવા માટે જરૂરી પોઈન્ટ મેળવવામાં નિષ્ફળ ગયું. મેદાનની બહારની પરેશાનીઓ અને નિયમોએ પણ તેમના અભિયાનને અસર કરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/iran-exits-world-cup-without-losing-trophy-hopes-dashed-for-7th-time-483042 ",
-    "time": "2026-06-29T05:44:58.000Z"
   },
   {
     "cat": "World",
@@ -412,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/gaurav-khanna-akanksha-chamola-getting-divorce-said-akanksha-in-reality-show-lock-up-2-482901 ",
     "time": "2026-06-28T01:45:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આધાર કાર્ડ, પાસપોર્ટથી લઈ બેન્ક સુધી... 1 જુલાઈ બદલાઈ રહ્યા છે આ 5 મોટા નિયમો, તમારા ખિસ્સા પર પડશે અસર!",
-    "desc": "જુલાઈ મહિનો શરૂ થવામાં હવે ગણતરીના દિવસો જ બાકી રહ્યા છે. 1 જુલાઈ 2026થી કેટલાક મહત્વપૂર્ણ નાણાકીય નિયમોમાં બદલાવ થવા જઈ રહ્યો છે, જેની સીધી અસર સામાન્ય લોકોના ખિસ્સા અને રોજિંદા નાણાકીય કામકાજ પર પડી શકે છે. આ બદલાવમાં ITR ફાઇલિંગ, આધાર, પાસપોર્ટ, SBI અને HDFC બેન્કના ક્રેડિટ કાર્ડ સહિત મોટા અપડેટ સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/from-aadhaar-card-passport-to-bank-these-5-big-rules-are-changing-on-july-1-will-affect-your-pocket-482894 ",
-    "time": "2026-06-27T14:22:31.000Z"
   },
   {
     "cat": "Tech",

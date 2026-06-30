@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Erling Haaland in action as Norway aim to book RO16 ticket",
+    "desc": "Norway and Ivory Coast are locking horns in the round of 32 of the ongoing FIFA World Cup 2026. The two sides are meeting at the Dallas Stadium in Arlington, and both sides will hope...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/nor-vs-civ-fifa-world-cup-2026-live-erling-haaland-in-action-as-norway-aim-to-book-ro16-ticket-1046701",
+    "time": "2026-06-30T16:31:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Vaibhav Sooryavanshi play for India in the first T20I against England? India skipper reveals",
+    "desc": "The stage is set for one of the most exciting games of the upcoming series between India and England. The two sides are meeting across five T20I matches and three ODI matches. The Indian team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-vaibhav-sooryavanshi-play-for-india-in-the-first-t20i-against-england-india-skipper-reveals-2026-06-30-1046699",
+    "time": "2026-06-30T16:20:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It was depressing': Shreyas Iyer backs India to bounce back after embarassing series loss against Ireland",
+    "desc": "The Indian team sustained a hefty loss against Ireland in their recently concluded T20I series. The two sides met in two T20I matches, and Ireland registered victories in both to clinch the series. After the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/it-was-depressing-shreyas-iyer-backs-india-to-bounce-back-after-embarassing-series-loss-against-ireland-2026-06-30-1046694",
+    "time": "2026-06-30T15:31:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Brazil end 88-year-long wait with come-from-behind Japan win in World Cup round of 32",
     "desc": "Brazil cleared a stern Japanese test in their FIFA World Cup round of 32 as they marched into the round of 16 after a stoppage-time goal from Gabriel Martinelli helped them prevail 2-1 at the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/ned-vs-mor-fifa-world-cup-2026-live-netherlands-vs-morocco-monterrey-stadium-latest-match-updates-score-teamsheets-starting-xis-2026-06-30-1046587",
     "time": "2026-06-30T01:05:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Paraguay shock Germany in World Cup round of 32, cruise through after win on penalties",
-    "desc": "Paraguay have sent shockwaves to the world after defeating four-time champions Germany in an epic round of 32 clash in the FIFA World Cup 2026 to storm into the round of 16. Kai Havertz's strike...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/paraguay-shock-germany-in-world-cup-round-of-32-cruise-through-after-win-on-penalties-2026-06-30-1046586",
-    "time": "2026-06-30T00:53:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Matter of time’: Ambati Rayudu opens up on star batter’s potential inclusion in India squad",
-    "desc": "The Indian team is all set to take on England in a multi-format white-ball series. The two sides will meet across five T20I matches and three ODIs and will hope to put in their best...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/matter-of-time-ambati-rayudu-opens-up-on-star-batter-s-potential-inclusion-in-india-squad-2026-06-30-1046584",
-    "time": "2026-06-29T21:54:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Paraguay eliminate Germany on penalties, book RO16 berth",
-    "desc": "The stage is set for yet another round of 32 clashes in the ongoing FIFA World Cup 2026. Germany will be taking on Paraguay as both sides are hoping to make their way into the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ger-vs-par-fifa-world-cup-2026-live-germany-hope-for-significant-improvement-in-ro32-clash-1046583",
-    "time": "2026-06-29T20:24:13.000Z"
   }
 ];
