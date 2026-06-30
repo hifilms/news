@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Erling Haaland in action as Norway aim to book RO16 ticket",
+    "title": "Norway knock Ivory Coast out of FIFA World Cup 2026 with narrow 2-1 victory",
+    "desc": "Norway and Ivory Coast locked horns in the round of 32 of the ongoing FIFA World Cup 2026. The two sides met at the Dallas Stadium in Arlington, and it was Norway who managed to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/norway-knock-ivory-coast-out-of-fifa-world-cup-2026-with-narrow-2-1-victory-2026-07-01-1046712",
+    "time": "2026-06-30T19:37:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia book ticket to Women's World Cup 2026 final, register dominant 8-wicket win against West Indies",
+    "desc": "Australia put forth a dominant performance against the West Indies in the 1st semi-final of the ongoing Women’s T20 World Cup 2026. The two sides met at The Oval on June 30th, and Australia managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-book-ticket-to-women-s-world-cup-2026-final-register-dominant-8-wicket-win-against-west-indies-2026-06-30-1046710",
+    "time": "2026-06-30T18:20:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Norway knock Ivory Coast out of the tournament",
     "desc": "Norway and Ivory Coast are locking horns in the round of 32 of the ongoing FIFA World Cup 2026. The two sides are meeting at the Dallas Stadium in Arlington, and both sides will hope...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/morocco-hold-nerve-to-edge-past-netherlands-on-penalties-march-into-world-cup-round-of-16-2026-06-30-1046607",
     "time": "2026-06-30T04:08:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why was Tah's goal for Germany disallowed in World Cup 2026 round of 32 clash as Paraguay shock giants?",
-    "desc": "Germany's Jonathan Tah fired a header from a corner kick by Nathaniel Brown as Germany thought they had the much-needed lead in the first half of extra time, but for the VAR check that denied...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-was-tahs-goal-for-germany-disallowed-in-world-cup-2026-round-of-32-clash-as-paraguay-shock-giants-2026-06-30-1046596",
-    "time": "2026-06-30T02:52:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Morocco beat Netherlands on penalties to march in RO16",
-    "desc": "The FIFA World Cup 2026 Round of 32 throws up one of the most intriguing knockout clashes as the Netherlands take on Morocco in Monterrey, with a place in the last 16 at stake. Both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ned-vs-mor-fifa-world-cup-2026-live-netherlands-vs-morocco-monterrey-stadium-latest-match-updates-score-teamsheets-starting-xis-2026-06-30-1046587",
-    "time": "2026-06-30T01:05:37.000Z"
   }
 ];

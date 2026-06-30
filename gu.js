@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "કુવૈત, કતાર અને બહેરીન જેવા અમીર દેશોમાં કેમ નથી ચાલતી ટ્રેન? આ છે અસલી કારણ",
+    "desc": "કુવૈત, કતાર અને બહેરીન જેવા દેશો ઓઈલ અને ગેસથી સમૃદ્ધ છે. અહીંના શહેરોમાં અત્યાધુનિક અર્બન ઇન્ફ્રાસ્ટ્રક્ચર ડેવલપ કરવામાં આવ્યું છે. આ દેશોએ શહેરી આધુનિકીકરણના દરેક સ્ટાન્ડર્ડને પૂરા કરીને પોતાના શહેરોને બનાવ્યા છે, પરંતુ ચોંકાવનારી વાત એ છે કે, અહીં રેલવે જેવી જરૂરી સુવિધા નથી. આખરે આવું કેમ છે અને તેની પાછળનું કારણ શું છે, ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-are-trains-not-running-in-rich-countries-like-kuwait-qatar-and-bahrain-this-is-the-real-reason-483211 ",
+    "time": "2026-06-30T17:37:39.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ઇંગ્લેન્ડ સામેની ODI સિરીઝ પહેલા ટીમ ઇન્ડિયાને મોટો ઝટકો, સ્ટાર ઓલરાઉન્ડર બહાર ! જાણો શું છે કારણ",
     "desc": "ભારતીય ઓલરાઉન્ડર નીતિશ કુમાર રેડ્ડી ક્વાડ્રિસેપ્સની ઇજાને કારણે 14 જુલાઈથી ઇંગ્લેન્ડ સામે શરૂ થતી ODI શ્રેણી ગુમાવી શકે છે. BCCI મેડિકલ ટીમે તેને વધુ આરામ કરવાની સલાહ આપી છે. હવે તે ઝિમ્બાબ્વે પ્રવાસ દરમિયાન વાપસી કરે તેવી શક્યતા છે.",
@@ -412,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/how-did-ketan-get-pushed-into-the-valley-ketan-agarwal-murder-lohagad-fort-crime-scene-recreation-siya-goyal-482973 ",
     "time": "2026-06-28T11:20:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ફાંસીની સજા વચ્ચે શેખ હસીનાનું મોટું એલાન! કહ્યું: આ દિવસે બાંગ્લાદેશ પરત ફરીશ",
-    "desc": "બાંગ્લાદેશના ભૂતપૂર્વ વડા પ્રધાન શેખ હસીનાએ એક મહત્વપૂર્ણ જાહેરાત કરી છે. તેમણે કહ્યું કે તેઓ આ સમયે પોતાના દેશ પરત ફરશે. હસીનાને મૃત્યુદંડની સજાનો સામનો કરવો પડી રહ્યો છે, પરંતુ તેમણે કહ્યું કે તેઓ કોઈથી ડરતા નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/sheikh-hasinas-big-announcement-amidst-death-sentence-said-i-will-return-to-bangladesh-on-this-day-482963 ",
-    "time": "2026-06-28T10:36:34.000Z"
   },
   {
     "cat": "Tech",

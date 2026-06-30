@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "FIFA World Cup 2026",
+    "desc": "A simple Haaland tap-in in the 86th minute ultimately broke the Ivorian hearts. The striker, largely uninvolved until then, arrived in front of goal to turn in Patrick Berg’s cross as a flat-footed defence watched in horror",
+    "img": "https://th-i.thgim.com/public/incoming/ukxtsk/article71167439.ece/alternates/LANDSCAPE_1200/Norway_Ivory_Coast_WCup_Soccer_38776.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-haaland-nets-game-winner-as-norway-beats-ivory-coast-to-wins-its-first-ever-knockout-game/article71167428.ece",
+    "time": "2026-06-30T19:35:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘She raised your standards’",
+    "desc": "Veteran Indian theatre director, actor and filmmaker Vijaya Mehta passed away on Tuesday night due to age-related ailments. She was 91. Affectionately known as \"Bai\" in theatre circles, Mehta breathed her last at her residence in South Mumbai. Veteran actor Anupam Kher took to social media to mourn the loss of his mentor and collaborator.",
+    "img": "https://static.toiimg.com/photo/msid-132100688,imgsize-52967.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijaya-mehta-dies-at-91-anupam-kher-mourns-theatre-legend-says-she-never-raised-her-voice-she-raised-your-standards/articleshow/132100640.cms",
+    "time": "2026-06-30T19:08:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ICEYE chooses India for sovereign SAR mission; picks Agnikul Cosmos as launch partner",
+    "desc": "Chennai-headquartered Agnikul Cosmos and ICEYE, the world leader in sovereign intelligence from space, have signed an MoU to explore the potential to build, launch and operate Synthetic Aperture Radar (SAR) earth observation systems from India",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/iceye-chooses-india-for-sovereign-sar-mission-picks-agnikul-cosmos-as-launch-partner/article71166832.ece",
+    "time": "2026-06-30T18:38:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'This wasn't the Netherlands': Zlatan launches scathing attack, says only one man to blame for Oranje's World Cup exit",
+    "desc": "The Netherlands' World Cup campaign ended in penalty shootout heartbreak after Morocco fought back from 1-0 down to draw 1-1 and advance. Ronald Koeman faced strong criticism from Zlatan Ibrahimović and Thierry Henry for abandoning the Dutch attacking identity with defensive tactics. Koeman defended his approach, insisting it reduced risks and that he would make the same decisions again.",
+    "img": "https://static.toiimg.com/photo/msid-132099893,imgsize-1875694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/this-wasnt-the-netherlands-zlatan-launches-scathing-attack-says-only-one-man-to-blame-for-oranjes-world-cup-exit/articleshow/132099087.cms",
+    "time": "2026-06-30T18:33:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Veteran Marathi theatre legend Vijaya Mehta passes away at 91",
+    "desc": "Veteran theatre director, actor and producer Vijaya Mehta, one of the most influential figures in modern Marathi theatre, passed away on Tuesday at the age of 91. She breathed her last at her residence, leaving behind a rich legacy that transformed the landscape of Indian theatre.",
+    "img": "https://static.toiimg.com/photo/msid-132099573,imgsize-80574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/veteran-marathi-theatre-legend-vijaya-mehta-passes-away-at-91/articleshow/132099324.cms",
+    "time": "2026-06-30T18:10:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Monthly average rainfall over India expected to be below normal in July, says IMD",
+    "desc": "The flood situation worsened in Arunachal Pradesh, as one more person died, taking the toll to four, while 21 others were injured in the State, where 90,499 people were affected in almost all 28 districts, the authorities said on Tuesday.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/monsoon-tracker-live-updates-mumbai-rains-june-30-2026/article71164507.ece",
+    "time": "2026-06-30T17:55:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is Centre’s new EPFO upgrade?",
+    "desc": "The plan is to modernise its service delivery mechanism through automation and rule-based processing to overcome technical and procedural delays in member services, such as the submission of claims for deceased members and the presentation of life certificates for pensioners",
+    "img": "https://th-i.thgim.com/public/incoming/31ve19/article71164465.ece/alternates/LANDSCAPE_1200/05TH-KDR-SC-allGH0FDBQGG.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-is-epfos-new-system-explained/article71164453.ece",
+    "time": "2026-06-30T17:46:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "U.P. Congress chief, MPs stopped from visiting Ram Temple in Ayodhya, put under house arrest",
+    "desc": "U.P. Congress chief Ajay Rai says he was arrested from his hotel and is being detained in a State-run university guest house; Amethi MP asks why the right to darshan is being denied on political grounds",
+    "img": "https://th-i.thgim.com/public/incoming/hq57lw/article71163167.ece/alternates/LANDSCAPE_1200/UP%20Congress.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-congress-chief-ajay-rai-placed-under-house-arrest-in-ayodhya/article71163158.ece",
+    "time": "2026-06-30T17:44:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fourth accused arrested in Maharashtra TET scam",
+    "desc": "Remanded to police custody till July 6, the accused is the wife of the alleged kingpin of the scam, who is absconding; police say she was aware of the financial transactions in the multi-State racket, and had met the other accused",
+    "img": "https://th-i.thgim.com/public/news/national/a4led4/article71167292.ece/alternates/LANDSCAPE_1200/iStock-1905024012%2010.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/fourth-accused-arrested-in-maharashtra-tet-scam/article71167042.ece",
+    "time": "2026-06-30T17:36:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Operation Sindoor",
+    "desc": "Congress general secretary K.C. Venugopal on Tuesday (June 30, 2026) moved a privilege notice against Defence Minister Rajnath Singh in the Lok Sabha, accusing him of misleading Parliament by stating during the Operation Sindoor debate last year that no Indian soldier had been killed.",
+    "img": "https://th-i.thgim.com/public/incoming/pbcyo9/article71167290.ece/alternates/LANDSCAPE_1200/sindoor%20KCV.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/operation-sindoor-kc-venugopal-moves-privilege-notice-against-rajnath-for-misleading-parliament/article71167289.ece",
+    "time": "2026-06-30T17:29:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah launches new FCRA portal and e-OCI card",
+    "desc": "The Home Minister says the new portal will help in effective monitoring of foreign contributions and eliminate physical submission of documents. The e-OCI card will bring great convenience to more than 50 lakh OCI cardholders, he says",
+    "img": "https://th-i.thgim.com/public/incoming/oyssy1/article71166017.ece/alternates/LANDSCAPE_1200/PTI06_28_2026_000505B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/home-minister-amit-shah-launches-new-version-of-fcra-portal-e-oci-card/article71165982.ece",
+    "time": "2026-06-30T17:04:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rights groups seek government aid for families of deceased farmers",
+    "desc": "According to information collated by the Human Rights Forum (HRF), around 150 farmers reportedly ended their lives in the combined Anantapur district from the beginning of the year 2024 to date, and not one has received compensation",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/rights-groups-seek-government-aid-for-families-of-18-deceased-farmers/article71165484.ece",
+    "time": "2026-06-30T17:02:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mooney, Gardner power Australia into eighth Women's T20 World Cup final",
+    "desc": "Australia stormed into the ICC Women's T20 World Cup 2026 final, defeating West Indies by eight wickets in a dominant semi-final performance. After restricting the opposition to 125/7, Beth Mooney's unbeaten 61 and Ashleigh Gardner's quickfire 35 guided Australia to victory with ease. This marks their eighth appearance in the final as they chase a seventh title.",
+    "img": "https://static.toiimg.com/photo/msid-132097698,imgsize-60557.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/beth-mooney-ashleigh-gardner-power-australia-into-eighth-womens-t20-world-cup-final/articleshow/132097694.cms",
+    "time": "2026-06-30T16:55:22.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Monthly average rainfall expected to be below normal in July, deficit now 40%: IMD",
     "desc": "El Nino impact is visible as 99.5 mm rain this June is the fifth lowest since 1901; first week of July may see good rain, but overall outlook is bleak; water in major reservoirs is 25% less than last June",
@@ -18,15 +135,6 @@ const newsData_en = [
     "time": "2026-06-30T16:50:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rights groups seek government aid for families of deceased farmers",
-    "desc": "According to information collated by the Human Rights Forum (HRF), around 150 farmers reportedly ended their lives in the combined Anantapur district from the beginning of the year 2024 to date, and not one has received compensation",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/rights-groups-seek-government-aid-for-families-of-18-deceased-farmers/article71165484.ece",
-    "time": "2026-06-30T16:46:59.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. PM Starmer unveils defence funds to boost drone warfare capabilities",
     "desc": "In one of his final big-ticket policy interventions after he announced his resignation last week, Mr. Starmer said the ‘Defence Investment Plan’ will be backed by £298 billion of investment across the next four years",
@@ -34,6 +142,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uk-pm-starmer-unveils-defence-funds-to-boost-drone-warfare-capabilities/article71167075.ece",
     "time": "2026-06-30T16:45:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Centre tweaks windfall tax, raises petrol export duty",
+    "desc": "At the same time, the export duty on diesel has been cut to Rs 8.5 per litre from Rs 14 per litre, while the levy on ATF exports has been reduced to Rs 7.5 per litre from the current Rs 12.5 per litre. The ministry said the revised duties will remain effective for the fortnight beginning July 1.",
+    "img": "https://static.toiimg.com/photo/msid-132097496,imgsize-30038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-tweaks-windfall-tax-raises-petrol-export-duty/articleshow/132097504.cms",
+    "time": "2026-06-30T16:45:42.000Z"
   },
   {
     "cat": "Politics",
@@ -64,12 +181,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Wars will be more integrated, theatre-oriented in future: General Dwivedi",
-    "desc": "General Upendra Dwivedi, an accomplished military leader with over 40 years of service who retires on June 30, was accorded a guard of honour as part of a ceremonial farewell held on the lawns of the South Block",
-    "img": "https://th-i.thgim.com/public/incoming/yytdg2/article71164672.ece/alternates/LANDSCAPE_1200/20260630007L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/wars-will-be-more-integrated-theatre-oriented-in-future-general-dwivedi/article71164649.ece",
-    "time": "2026-06-30T16:32:40.000Z"
+    "title": "Iran president Pezeshkian briefs PM Modi on Middle East tensions, way forward",
+    "desc": "Prime Minister Narendra Modi spoke with Iranian President Masoud Pezeshkian regarding West Asia's evolving crisis. PM Modi welcomed the progress in negotiations, emphasising dialogue and diplomacy for regional peace and stability. He also highlighted the critical importance of maintaining freedom of navigation, particularly in the Strait of Hormuz, for global commerce.",
+    "img": "https://static.toiimg.com/photo/msid-132097230,imgsize-131709.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iran-president-pezeshkian-briefs-pm-modi-on-middle-east-tensions-way-forward/articleshow/132097170.cms",
+    "time": "2026-06-30T16:27:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjh-recalls-growing-up-in-poverty-performing-at-weddings-for-rs-5000-we-couldnt-afford-to-go-to-the-doctor/articleshow/132096649.cms",
     "time": "2026-06-30T16:09:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Row over proposal to appoint Seshadrinathan as State Election Commissioner intensifies",
-    "desc": "Kerala Pradesh Congress Committee general secretary P.M. Niyas petitions Home Minister, urging him to order an antecedents verification of Seshadrinathan, examining his political positions and relations in the past 15 years. He also requests Chennithala to share the intelligence report on the judge with the Local Self-Governments Minister",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/row-over-proposal-to-appoint-seshadrinathan-as-state-election-commissioner-intensifies/article71166211.ece",
-    "time": "2026-06-30T16:04:01.000Z"
   },
   {
     "cat": "Sports",
@@ -109,24 +217,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "VHP criticises Faizabad Bar Association’s resolution, says it violates constitutional principles and legal ethics",
-    "desc": "The Supreme Court had held on various occasions that such resolutions were ‘wholly illegal, against all traditions of the Bar, and against professional ethics’, observing that every person has the right to legal representation, says VHP president Alok Kumar, who is also a lawyer",
-    "img": "https://th-i.thgim.com/public/incoming/6jhz14/article71166917.ece/alternates/LANDSCAPE_1200/20260614161L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/vhp-criticises-faizabad-bar-associations-resolution-says-it-violates-constitutional-principles-and-legal-ethics/article71166291.ece",
-    "time": "2026-06-30T15:41:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India’s tourism sector remains constrained by regulatory complexity, says report",
-    "desc": "Scaling visa facilitation in line with global benchmarks critical to enhancing India’s international accessibility and competitiveness, notes the report released by Union Tourism Minister; Tourism Ministry signs MoU with Google to strengthen digital promotion of landmarks",
-    "img": "https://th-i.thgim.com/public/incoming/39wd5s/article71166924.ece/alternates/LANDSCAPE_1200/20260630451L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indias-tourism-sector-remains-constrained-by-regulatory-complexity-says-report/article71165980.ece",
-    "time": "2026-06-30T15:41:24.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "GatiShakti, reforms &amp; Aatmanirbharta: Inside PM Modi's marathon meet with top govt officials",
     "desc": "Prime Minister Modi urged government secretaries to enhance 'ease of doing business' and 'ease of living' by leveraging the PM GatiShakti platform for integrated planning and inter-departmental coordination. Discussions focused on deregulation and promoting self-reliance, with officials presenting progress on reforms and citizen-centric initiatives.",
     "img": "https://static.toiimg.com/photo/msid-132096437,imgsize-139550.cms",
@@ -142,24 +232,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-why-sachin-ahirs-switch-to-shinde-faction-is-a-setback-for-thackeray-above-the-fold-30062025/article71166840.ece",
     "time": "2026-06-30T15:38:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "U.P. Congress chief, MPs stopped from visiting Ram Temple in Ayodhya, put under house arrest",
-    "desc": "U.P. Congress chief Ajay Rai says he was arrested from his hotel and is being detained in a State-run university guest house; Amethi MP asks why the right to darshan is being denied on political grounds",
-    "img": "https://th-i.thgim.com/public/incoming/hq57lw/article71163167.ece/alternates/LANDSCAPE_1200/UP%20Congress.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-congress-chief-ajay-rai-placed-under-house-arrest-in-ayodhya/article71163158.ece",
-    "time": "2026-06-30T15:36:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "General Dhiraj Seth takes over as 31st Chief of the Army Staff",
-    "desc": "General Seth’s command assignments include an armoured regiment in the desert sector, an armoured brigade in the Western Theatre, a counter-insurgency force in J&K, and command of the Sudarshan Chakra Corps, one of the Army’s premier strike formations",
-    "img": "https://th-i.thgim.com/public/news/national/3x0e8c/article71165181.ece/alternates/LANDSCAPE_1200/Untitled%20design%2049.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gen-dhiraj-seth-takes-charge-as-new-army-chief/article71165178.ece",
-    "time": "2026-06-30T15:29:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -196,6 +268,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-was-shocked-to-know-his-kartavya-co-star-yudhvir-ahlawat-is-33-years-old-i-treated-him-like-a-16-year-old/articleshow/132095877.cms",
     "time": "2026-06-30T15:15:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Leafs explore blockbuster move; price a king’s ransom",
+    "desc": "The Toronto Maple Leafs are interested in trading for Columbus Blue Jackets’ defenseman Zach Werenski, who had a Norris Trophy-winning campaign, according to reports. The price for such a move would be massive, say NHL analysts, and Auston Matthews' friendship with Werenski has become another talking point surrounding Toronto's pursuit of the star defenseman.",
+    "img": "https://static.toiimg.com/photo/msid-132094341,imgsize-45451.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/nhl/news/toronto-maple-leafs-nhl-trade-rumor-linked-with-blockbuster-move-for-57-9m-columbus-blue-jackets-norris-trophy-winner/articleshow/132094332.cms",
+    "time": "2026-06-30T15:07:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -460,24 +541,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ranveer's Pralay set to go on floors in September 2026",
-    "desc": "Ranveer Singh's zombie thriller 'Pralay', directed by Jai Mehta, will begin shooting in September 2026, with major filming in Australia. Made on a Rs 300 crore budget, it's set to be Ranveer's most expensive film. Kalyani Priyadarshan is reportedly making her Bollywood debut as the female lead in this post-apocalyptic survival drama.",
-    "img": "https://static.toiimg.com/photo/msid-132092292,imgsize-155239.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-dhurandhar-ranveer-singhs-zombie-thriller-pralay-set-to-go-on-floors-in-september-2026/articleshow/132092292.cms",
-    "time": "2026-06-30T11:28:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zendaya’s stylist claims AI-generated dress was ‘not good enough’",
-    "desc": "While AI-generated wedding photos of Zendaya and Tom Holland circulated, stylist Law Roach dismissed them, asserting the actress's real wedding dress was far superior. He confirmed the wedding had already occurred, much to the surprise of some fans and Tom Holland's grandmother, who initially believed she was excluded. Holland himself alluded to the event, stating family members were present.",
-    "img": "https://static.toiimg.com/photo/msid-132092204,imgsize-224810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendayas-stylist-law-roach-claims-ai-generated-dress-was-not-good-enough-over-her-real-life-wedding-gown/articleshow/132092217.cms",
-    "time": "2026-06-30T11:21:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Abhishek",
     "desc": "Celebrating 26 years in Bollywood, Abhishek Bachchan reflects on his evolving career, noting increased comfort and clarity in his acting choices. He emphasizes a newfound conviction in selecting projects, a shift from earlier insecurities about securing work. Bachchan also shared his perspective that directors ultimately hold responsibility for an actor's performance, a sentiment echoed by Shoojit Sircar. Currently, he is filming for Shah Rukh Khan's 'King'.",
     "img": "https://static.toiimg.com/photo/msid-132092177,imgsize-192982.cms",
@@ -511,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/im-very-happy-ex-india-captain-reacts-to-ben-stokes-shock-retirement/articleshow/132091823.cms",
     "time": "2026-06-30T11:12:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Falling tree crushes school van in Chembur, 5 students hospitalised",
-    "desc": "The incident took place near Heritage Pride and was reported to the Mumbai Fire Brigade at 2.58 pm. Fire brigade personnel, police, a 108 ambulance and BMC ward staff rushed to the spot and carried out a rescue operation. Officials said all 15 students were travelling in the Universal High School van when the tree was uprooted and fell on the vehicle.",
-    "img": "https://static.toiimg.com/photo/msid-132091743,imgsize-255542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mumbai-rains-falling-tree-crushes-school-van-in-chembur-5-students-hospitalised/articleshow/132091638.cms",
-    "time": "2026-06-30T11:04:00.000Z"
   },
   {
     "cat": "Business",
@@ -565,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/a-true-competitor-shikhar-dhawan-pays-classy-tribute-to-former-england-captain-ben-stokes/articleshow/132090888.cms",
     "time": "2026-06-30T10:20:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC permits 17-year-old minor to donate part of liver to save father's life, directs ILBS to ensure safety protocols",
-    "desc": "The Delhi High Court has permitted a 17-year-old boy to donate a portion of his liver to his father suffering from advanced chronic liver disease, while directing the Institute of Liver and Biliary Sciences (ILBS), Vasant Kunj, to carry out the transplant procedure in strict compliance with all legal, ethical and clinical protocols to ensure the minor's health and safety.",
-    "img": "https://static.toiimg.com/photo/msid-132090460,imgsize-247528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-hc-permits-17-year-old-minor-to-donate-part-of-liver-to-save-fathers-life-directs-ilbs-to-ensure-safety-protocols/articleshow/132090380.cms",
-    "time": "2026-06-30T10:04:55.000Z"
   },
   {
     "cat": "Sports",
@@ -657,15 +702,6 @@ const newsData_en = [
     "time": "2026-06-30T07:43:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'He was playing for himself': Srikkanth blasts Tilak after series defeat vs Ireland",
-    "desc": "Former India captain Krishnamachari Srikkanth has slammed Tilak Varma and other Indian batters following a shocking one-run defeat to Ireland. Srikkanth criticized their slow scoring and lack of attacking intent in the middle overs, stating that such an approach is unacceptable in T20 cricket. He highlighted a period of 45 balls without a boundary as particularly concerning, leading to India's first-ever series loss against Ireland in the format.",
-    "img": "https://static.toiimg.com/photo/msid-132086977,imgsize-1901289.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-ireland/tilak-varma-was-playing-for-himself-srikkanth-blasts-india-batter-after-series-defeat/articleshow/132086977.cms",
-    "time": "2026-06-30T07:42:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "Don't care about name on letterhead: Sergio Gor on Indo-Pacific command row",
     "desc": "Addressing the U.S.-India Strategic Partnership Forum Leadership Summit, U.S. Ambassador to India Sergio Gor said India still conducts more military exercises with the U.S. than any other country and has regular bilateral visits of defence officials",
@@ -673,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/dont-care-about-name-on-letterhead-sergio-gor-on-indo-pacific-command-row/article71164539.ece",
     "time": "2026-06-30T07:25:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Klopp targeted Arsenal while slamming VAR after Germany’s World Cup exit",
-    "desc": "Germany's World Cup exit has ignited fierce debate, with Jurgen Klopp leading criticism of a disallowed extra-time winner. Klopp questioned VAR's interpretation of fouls, even referencing Arsenal's set-piece success. Legends Miroslav Klose and Bastian Schweinsteiger echoed these sentiments, lamenting VAR's perceived overreach and its impact on player psychology, particularly after Jonathan Tah missed a crucial penalty.",
-    "img": "https://static.toiimg.com/photo/msid-132087240,imgsize-286310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/if-thats-illegal-why-klopp-targeted-arsenal-while-slamming-var-after-germanys-world-cup-exit/articleshow/132087238.cms",
-    "time": "2026-06-30T07:21:31.000Z"
   },
   {
     "cat": "Sports",
@@ -712,15 +739,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Why Neymar was benched? Ancelotti reveals reason after Brazil's win vs Japan",
-    "desc": "Brazil narrowly avoided an upset, securing a 2-1 victory against Japan to advance to the FIFA World Cup 2026 Round of 16. Substitute Gabriel Martinelli's dramatic 95th-minute goal sealed the win. Coach Carlo Ancelotti explained Neymar remained on the bench, preserved for potential extra time which ultimately wasn't needed. Brazil now prepares for their next challenge.",
-    "img": "https://static.toiimg.com/photo/msid-132086117,imgsize-848564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-neymar-was-benched-carlo-ancelotti-reveals-reason-after-brazils-win-vs-japan/articleshow/132085678.cms",
-    "time": "2026-06-30T06:23:38.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "From 2017 under-17 stage to 2026 FIFA World Cup, football’s future steps into the present",
     "desc": "The 2017 under-17 World Cup introduced Indian fans to a generation that is now reaching its peak. Nine years later, many of those teenagers – like Nakamura, Kubo, Aurelien Tchouameni (France), Eric Garcia and Ferran Torres of Spain – have become the faces of their national teams",
     "img": "https://th-i.thgim.com/public/incoming/maympk/article71154685.ece/alternates/LANDSCAPE_1200/2281590470.jpg",
@@ -747,24 +765,6 @@ const newsData_en = [
     "time": "2026-06-30T05:31:29.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold heads for worst month since 2008 as Fed rate-hike bets outweigh safe-haven demand",
-    "desc": "Gold prices are plummeting, heading for their worst monthly drop since 2008. Easing Middle East tensions and rising US interest rate expectations to combat inflation are driving the decline. Analysts suggest a strong dollar and higher rates are overshadowing gold's traditional safe-haven appeal. Investors are now keenly watching upcoming US jobs data for further clues on the Federal Reserve's monetary policy path.",
-    "img": "https://static.toiimg.com/photo/msid-132084364,imgsize-730352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/gold-heads-for-worst-month-since-2008-as-fed-rate-hike-bets-outweigh-safe-haven-demand/articleshow/132084349.cms",
-    "time": "2026-06-30T05:03:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s economy could hit $7 trillion this decade, double by mid-2030s",
-    "desc": "India's economy is projected to reach $7 trillion by 2030, with ambitions for $14 trillion by mid-2030s and $25-30 trillion by 2047, according to Ambassador Vinay Mohan Kwatra. Meanwhile, the US Ambassador to India, Sergio Gor, expressed optimism about finalizing an interim trade deal soon and hinted at a potential visit by President Trump to India next year, underscoring strengthening bilateral ties.",
-    "img": "https://static.toiimg.com/photo/msid-132083654,imgsize-125288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-economy-could-hit-7-trillion-this-decade-double-by-mid-2030s/articleshow/132083666.cms",
-    "time": "2026-06-30T04:14:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Matches in Indian Time",
     "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
@@ -772,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
     "time": "2026-06-30T04:14:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India announce Harmanpreet-led squad for Asian Games after T20 World Cup exit",
-    "desc": "India's Women's Selection Committee has unveiled the squad for the 2026 Asian Games in Japan, where they aim to defend their gold medal title. Led by Harmanpreet Kaur, the team features a blend of seasoned stars and emerging talent, including Smriti Mandhana as vice-captain. The squad announcement sets the stage for another strong showing by the Indian women's cricket team on the international stage.",
-    "img": "https://static.toiimg.com/photo/msid-132083656,imgsize-27384.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-announce-harmanpreet-kaur-led-squad-for-2026-asian-games-after-womens-t20-world-cup-exit/articleshow/132083626.cms",
-    "time": "2026-06-30T04:13:53.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/can-neutral-ships-be-lawfully-attacked/article71157722.ece",
     "time": "2026-06-29T06:17:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why was Trump’s H-1B fee struck down?",
+    "desc": "What is the H-1B visa programme and who uses it? Why did the Trump administration impose the $100,000 fee? What impact was the policy expected to have on States and employers? Did the President have the authority to impose the fee? Why did the court classify the charge as a tax rather than a penalty?",
+    "img": "https://th-i.thgim.com/public/incoming/igk8h0/article71112269.ece/alternates/LANDSCAPE_1200/iStock-1264230781.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-was-trumps-h-1b-fee-struck-down/article71108812.ece",
+    "time": "2026-06-29T05:13:24.000Z"
   }
 ];
