@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Brazil end 88-year-long wait with come-from-behind Japan win in World Cup round of 32",
+    "desc": "Brazil cleared a stern Japanese test in their FIFA World Cup round of 32 as they marched into the round of 16 after a stoppage-time goal from Gabriel Martinelli helped them prevail 2-1 at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/brazil-end-88-year-long-wait-with-come-from-behind-japan-win-in-world-cup-round-of-32-2026-06-30-1046643",
+    "time": "2026-06-30T08:41:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former IPL winner and Australia all-rounder to play for Portugal in T20 World Cup Qualifiers",
+    "desc": "Former IPL winner with Sunrisers Hyderabad and Australia all-rounder Moises Henriques will switch allegiance from Australia to Portugal as he will represent his birth nation at the upcoming T20 World Cup qualifiers in August. Henriques...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-ipl-winner-and-australia-all-rounder-to-play-for-portugal-in-t20-world-cup-qualifiers-2026-06-30-1046638",
+    "time": "2026-06-30T08:12:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How many times have Netherlands lost on penalties in FIFA World Cups after their latest defeat to Morocco?",
     "desc": "Netherlands endured their earliest exit in the FIFA World Cup after bowing out of the tournament in the round of 32 following their defeat to Morocco on Tuesday, June 30 (IST). The two teams gave...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/ger-vs-par-fifa-world-cup-2026-live-germany-hope-for-significant-improvement-in-ro32-clash-1046583",
     "time": "2026-06-29T20:24:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Tried to talk him down': Brendon McCullum reveals his reaction to Ben Stokes' international retirement",
-    "desc": "In one of the biggest developments in recent times, England’s Test skipper Ben Stokes took centre stage and announced his retirement from international cricket. In news that sent shockwaves across world cricket, Stokes played his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tried-to-talk-him-down-brendon-mccullum-reveals-his-reaction-to-stokes-international-retirement-2026-06-30-1046582",
-    "time": "2026-06-29T20:07:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gabriel Martinelli's late goal propels Brazil to FIFA World Cup 2026 RO16 after fiery clash with Japan",
-    "desc": "In one of the most thrilling clashes in the ongoing FIFA World Cup 2026, Brazil knocked Japan out of the tournament. The sides took on Japan in the round of 32 stage of the competition...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/gabriel-martinelli-s-late-goal-propels-brazil-to-fifa-world-cup-2026-ro16-after-fiery-clash-with-japan-2026-06-30-1046581",
-    "time": "2026-06-29T19:25:04.000Z"
   }
 ];

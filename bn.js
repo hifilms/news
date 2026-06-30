@@ -1,6 +1,42 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "জুবিন ভক্তদের জন্য বিরাট উপহার! পর্দায় আসছে প্রিয় গায়ককে নিয়ে সিনেমা, 'লাভ ইউ জুবিন দা', অভিনয়ে কারা?",
+    "desc": "সিঙ্গাপুরের অনুষ্ঠানে গিয়ে, জুবিনের এই না ফেরাটাকে যেন এখনও মেনে নিতে পারেন না কেউই। তাঁকে শ্রদ্ধার্ঘ্য জানিয়ে একাধিক অনুষ্ঠান থেকে শুরু করে স্মৃতিসৌধ.. সবই তৈরি হয়েছে। তবে এবার, জুবিন গর্গকে শ্রদ্ধা জানিয়ে আসছে নতুন মিউজিক্যাল ড্রামা 'লাভ ইউ জুবিন দা'।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-announces-new-musical-drama-love-you-zubeen-da-as-a-grand-tribute-to-zubeen-garg_660523.html ",
+    "time": "2026-06-30T11:02:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কয়েক সেকেন্ডের মধ্যে কাদামাটিপাথরের বিশাল স্তূপ সরে গিয়ে বাইক-সহ চালককে ভিতরে টেনে নিতে থাকে! সাক্ষাৎ মৃত্যু?",
+    "desc": "সাধারণত রাস্তা স্থির থাকে, গাড়ি চলে-- এই সাধারণ নিয়ম। কিন্তু, যদি রাস্তাও চলতে শুরু করে, কী হবে? তখন চালকের মনে কী ঘটবে? ঘোরতর আতঙ্ক ছাড়া কী? তখন তো আর বাইকের নিয়ন্ত্রণ তাঁর হাতে থাকবে না! রাস্তা চলছে, চারপাশের কাদামাটিপাথরের স্তূপ চলছে, সরে সরে যাচ্ছে সব! পায়ের তলার মাটি সরে যাওয়ার মতোই ব্যাপার। তখন সাক্ষাৎ মৃত্যু!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/biker-cheats-death-after-arunachal-landslide-almost-sweeps-him-off-mountain-road_660522.html ",
+    "time": "2026-06-30T10:43:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "১ জুলাই থেকেই আবহাওয়ায় বিগ বিগ চেঞ্জ! কাশ্মীর থেকে বঙ্গোপসাগর ১৫০০ কিমি'র দীর্ঘ 'মনসুন ট্রাফ'; বৃষ্টি-দুর্যোগ?",
+    "desc": "স্যাটেলাইটে ধরা পড়ল অবিশ্বাস্য ছবি! বঙ্গোপসাগর থেকে কাশ্মীর পর্যন্ত বিস্তৃত রয়েছে ১৫০০ কিমি দীর্ঘ মৌসুমি মেঘের বলয়! প্রাণঘাতী তাপপ্রবাহ এবং দক্ষিণ-পশ্চিম মৌসুমি বায়ুর বিলম্বিত প্রবেশের পরে নিঃসন্দেহে খুশির খবর। এছাড়া মডেলগুলো ইঙ্গিত দিচ্ছে, চলতি সপ্তাহের শেষের দিকে বঙ্গোপসাগরে এক নতুন নিম্নচাপ তৈরি হতে পারে। নিম্নচাপটি মৌসুমি বায়ুকে আরও শক্তিশালী করবে এবং জুলাইয়ের প্রথম সপ্তাহেই দিল্লি-সহ উত্তর ভারত দীর্ঘ প্রতীক্ষিত স্বস্তির বৃষ্টির মুখ দেখতে চলেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/satellite-captures-1500-km-long-monsoon-rain-band-from-bengal-to-kashmir-changing-monsoon-patterns_660504.html ",
+    "time": "2026-06-30T09:26:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ইরানের হামলার আতঙ্ক! হরমুজ প্রণালীতে ‘অদৃশ্য’ হয়ে যাচ্ছে ভারতমুখী ৬২% বাণিজ্যিক জাহাজ",
+    "desc": "হরমুজ প্রণালীতে নজিরবিহীন ‘ডার্ক ট্রানজিট’! ইরানের নজরদারি এড়াতে ওমান রুটের দিকে ঝুঁকছে পণ্যবাহী জাহাজ। খনিজ তেল ও বাণিজ্যের জন্য হরমুজ প্রণালী ভারতের জন্য অত্যন্ত জরুরি। কিন্তু ইরানের হামলার আশঙ্কায় ভারতমুখী জাহাজগুলো এখন নিজেদের লুকিয়ে বা ‘অদৃশ্য’ করে এই বিপজ্জনক জলপথ পার হতে বাধ্য হচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/majority-of-india-bound-ships-go-dark-in-hormuz-amid-iran-threat_660500.html ",
+    "time": "2026-06-30T09:06:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "হাসপাতাল থেকে মন খারাপ করা খবর দিলেন পর্দার 'পটল', কী হয়েছে হিয়ার?",
     "desc": "আর কোনও মেগায় দেখা যায়নি ঠিকই, তবে আজও পর্দার ‘পটলকুমার’ সকলের বড্ড প্রিয়। পোশাকি নাম ‘পটল’-এ সকলের কাছে বেশি জনপ্রিয় হলেও বাস্তবে সে হিয়া দে। সে এখন আর ছোট নেই। একাদশ শ্রেণির ছাত্রী হিয়া হাসপাতালে ভর্তি।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -144,15 +180,6 @@ const newsData_bn = [
     "time": "2026-06-27T16:02:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "বড় ধাক্কা দিল্লিতে: অর্থমন্ত্রীর পদ থেকে সরছেন নির্মলা সীতারমন, পদ যাচ্ছে শিক্ষামন্ত্রীরও? তোলপাড় দেশ-- নতুন চমক মন্ত্রিত্বে",
-    "desc": "দীর্ঘদিন ধরে দেশের অর্থ মন্ত্রকের মতো গুরুত্বপূর্ণ দায়িত্ব সামলানো নির্মলা সীতারামনকে এবার নতুন সাংগঠনিক বা অন্য কোনও গুরুত্বপূর্ণ দায়িত্বে স্থানান্তরিত করা হতে পারে। রাজনৈতিক অলিন্দে গুঞ্জন, তাঁকে উত্তরপ্রদেশ থেকে রাজ্যসভার (Rajya Sabha) শূন্য আসনে প্রার্থী করে সংসদে পাঠানো হতে পারে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/modi-cabinet-reshuffle-shaktikanta-das-tipped-to-be-new-finance-minister-nirmala-sitharaman-may-step-down_660170.html ",
-    "time": "2026-06-27T12:55:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "কেন ফ্রান্সের বিরুদ্ধে খেললেন না হাল্যান্ড? ফরাসিদের বিরুদ্ধে নরওয়ের স্ট্র্যাটেজির আসল রহস্য ফাঁস কোচের",
     "desc": "ফ্রান্সের বিরুদ্ধে বিশ্বমঞ্চের হাই-ভোল্টেজ ম্যাচে নরওয়ের প্রথম একাদশে আর্লিং হাল্যান্ড এবং অধিনায়ক মার্টিন ওডেগার্ডের অনুপস্থিতি ফুটবল ভক্তদের স্তম্ভিত করেছিল। উসমান দেম্বেলের হ্যাটট্রিকে নরওয়ে ৪-১ গোলে ম্যাচটি হেরে যাওয়ার পর কোচ স্টালে সোলবাকেন তাঁর এই বড় জুয়া বা ট্যাকটিক্যাল সিদ্ধান্তের সপক্ষে মুখ খুলেছেন।",
@@ -160,24 +187,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/sports/why-erling-haaland-did-not-play-france-norway-coach-solbakken-explains-changes_660168.html ",
     "time": "2026-06-27T12:02:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাজ্য জুড়ে বাতিল টেট পরীক্ষা, বিপাকে ৪ লক্ষ পরীক্ষার্থী: কবে হবে? কী হবে এবার? সরকারের বড় ঘোষণা",
-    "desc": "কাউন্সিলের পক্ষ থেকে স্পষ্ট জানিয়ে দেওয়া হয়েছে যে, আগামী দিনে যখন এই পরীক্ষার নতুন সূচি ঘোষণা করা হবে, তখন পূর্বনিবন্ধিত পরীক্ষার্থীদের আর কোনো নতুন করে রেজিস্ট্রেশন করতে হবে না এবং কোনও অতিরিক্ত আবেদন ফি-ও দিতে হবে না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/maharashtra-tet-2026-cancelled-hours-before-exam-due-to-paper-leak-in-thane-4-lakh-candidates-affected_660154.html ",
-    "time": "2026-06-27T10:56:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কেতন খুনে সিয়ার স্বীকারোক্তিতে সব ওলটপালট! এমনও হয়? উইগের জন্যই... তাজ্জব খোদ পুলিসও",
-    "desc": "কেতন উইগ পরত সেটা জানতেন সিয়া। বিষয়টি নিয়ে তিনি মোটেই খুশি ছিলেন না বলেও বেশ কয়েকটি সূত্রে সেই তথ্য প্রকাশ্যে আসতে শুরু করে। পরিবারের পাল্টা দাবি, কেতনের মাথায় হেয়ারপ্যাচ ছিল। আর সেকথা সিয়ার পরিবারকে জানিয়েছিল কেতনের পরিবার।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/siya-goyal-killed-fiance-over-his-hair-loss-wig-use-what-his-family-said_660153.html ",
-    "time": "2026-06-27T10:55:07.000Z"
   },
   {
     "cat": "Sports",
@@ -207,15 +216,6 @@ const newsData_bn = [
     "time": "2026-06-27T07:19:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA বিশ্বকাপ ২০২৬: Zee-এর হাত ধরে তুঙ্গে বিজ্ঞাপনের বাজার, নক-আউটের মুখে জুড়ল একাধিক নামী ব্র্যান্ড",
-    "desc": "ফিফা বিশ্বকাপ ২০২৬-এর রোমাঞ্চ এবার আরও দ্বিগুণ! রাউন্ড অফ ৩২ শুরু হওয়ার আগেই ‘জি’ নেটওয়ার্কে স্পনসরদের মেলা। Mahindra, Apple, Diageo-র পর এবার যুক্ত হল Lenovo, Adidas, Ceat, JLR, Zydus এবং JBL-এর মতো বিশ্বখ্যাত ব্র্যান্ডগুলি! ৩০ কোটিরও বেশি ইউনিক ভিউয়ার্সের ভালোবাসায় ভারতের এক নম্বর ইংরেজি স্পোর্টস চ্যানেল এখন Unite8 Sports 2। লাইভ ম্যাচ, দুর্দান্ত অ্যানালিসিস আর নিরবচ্ছিন্ন স্ট্রিমিং দেখতে চোখ রাখুন Zee5 অ্যাপ এবং Unite8 Sports চ্যানেলে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/fifa-world-cup-2026-zee-entertainment-advertiser-momentum-round-of-32-zee5_660054.html ",
-    "time": "2026-06-26T13:17:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'আমাদের হ্যাঁ বলাকে চুরির জায়গায় নিয়ে যাবেন না,' হাসপাতালের বিরুদ্ধে মারাত্মক অভিযোগ সঙ্ঘশ্রীর",
     "desc": "কেপিসি হাসপাতালের বিরুদ্ধে মারাত্মক অভিযোগ আনলেন অভিনেত্রী সঙ্ঘশ্রী সিনহা। পরিবারের মানুষের অসুস্থতার সুযোগ নিয়ে হাসপাতাল কর্তৃপক্ষ তার অপব্যবহার করেন বলে তাঁর অভিযোগ। অযথা বিলের পাহাড় এবং সেই সম্পর্কে জানতে চাইলে জোটে দুর্ব্যবহার। এমনকী সঠিক রোগ না বলতে পারার অভিযোগও করেন তিনি।",
@@ -234,15 +234,6 @@ const newsData_bn = [
     "time": "2026-06-24T16:38:27.000Z"
   },
   {
-    "cat": "World",
-    "title": "একলাফে অবিশ্বাস্য ৪০০% বাড়ল ভিসার খরচ! ভারতীয়রা কি আর সাগর পেরোবে না? দেখে নিন ১ জুলাই থেকে কী বদল",
-    "desc": "জাপান সরকার বলছে, ১৯৭৮ সালে বর্তমান ভিসা ফি চালু করে। তার পর থেকে রয়েছে মুদ্রাস্ফীতি এবং বিনিময় হারের ওঠানামার প্রতিফলন। কিন্তু সেই হিসেবে ভিসা ফি-তে সংশোদন হয়নি। এবার তা পূরণ করার লক্ষ্যেই এই ফি সংশোধন করা হয়েছে। প্রায় ৫০ বছরে প্রথমবারের মতো ভিসা ফি সংশোধন জাপানে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/visa-fees-hike-japan-announces-400-percent-increase-in-visa-fees_659661.html ",
-    "time": "2026-06-23T13:28:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "তালিকা মেনেই হবে শুনানি, তাড়াহুড়োর প্রয়োজন নেই! মিমি চক্রবর্তীর আর্জি ফেরাল কলকাতা হাইকোর্ট",
     "desc": "চলতি বছরে জানুয়ারি মাসে বনগাঁয় অনুষ্ঠান করতে গিয়ে যে সমস্যা তৈরি হয় মিমি চক্রবর্তীকে ঘিরে। প্রথমে তনয় শাস্ত্রীর বিরুদ্ধে মিমি চক্রবর্তীর অভিযোগ দায়ের, তনয়ের জেল হওয়া এবং তারপর মিমির বিরুদ্ধে তনয়ের আইনি পদক্ষেপ, এই সবকিছুই চলছে বিগত কয়েক মাস ধরে।",
@@ -252,12 +243,48 @@ const newsData_bn = [
     "time": "2026-06-22T11:53:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'দ্য কেরালা স্টোরি ২' নিয়ে বিপাকে নির্মাতা! জরুরি নোটিস পাঠাল হাইকোর্ট",
-    "desc": "কেরালাকে নেতিবাচকভাবে দেখানো এবং সাম্প্রদায়িক সম্প্রীতি নষ্টের অভিযোগে প্রযোজক বিপুল শাহকে জরুরি নোটিস পাঠিয়েছে হাইকোর্ট। কোচির বাসিন্দা যোহান জর্জের দায়ের করা এই মামলায় ছবিটির ওটিটি মুক্তিকে চ্যালেঞ্জ জানিয়ে নাম থেকে 'কেরালা' শব্দটি বাদ দেওয়ার দাবি তোলা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/kerala-hc-issues-notice-to-filmmaker-vipul-shah-over-the-kerala-story-2_659071.html ",
-    "time": "2026-06-19T06:52:28.000Z"
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
   }
 ];

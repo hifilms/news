@@ -1,5 +1,113 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "હાર બાદ કોચ અને ખેલાડીઓ ફેન્સ સામે નતમસ્તક... આંખોમાં આંસુ સાથે ચાહકોએ ટીમને આપી વિદાય",
+    "desc": "ફૂટબોલ વર્લ્ડ કપમાં જાપાનની સફરનો અંત આવી ગયો છે. આ ટીમને બ્રાઝિલ સામેની રોમાંચક મેચમાં 2-1થી હારનો સામનો કરવો પડ્યો હતો. આ હાર બાદ ખેલાડીઓ અને કોચે કંઈક એવું કર્યું જેણે ફૂટબોલ ચાહકોના દિલ જીતી લીધા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/japan-vs-brazil-football-world-cup-2026-japan-player-coach-bows-to-fans-483191 ",
+    "time": "2026-06-30T11:13:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સવારની ચા થશે મોંઘી, થાળીમાંથી ગાયબ થશે દાળ-શાકભાજી! &amp;#039;અલ-નીનો&amp;#039; વધારશે સામાન્ય માણસનું ટેન્શન, જાણો શું-શું મોંઘુ થશે?",
+    "desc": "પેસિફિક મહાસાગરમાં સક્રિય 'સુપર અલ નીનો' એ ખેડૂતોનું ટેન્શન વધારી દીધું છે. ઘાસચારાની અછતને કારણે દૂધના ભાવમાં વધુ 3-4%નો વધારો થઈ શકે તો ઓછો વરસાદ કઠોળ, રસોઈ તેલ અને શાકભાજીના ભાવમાં વધારો કરીને ઘરના બજેટને રમણભમણ કરી નાખશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/el-ni%C3%B1o-impact-tea-may-get-costlier-as-food-prices-set-to-rise-amid-weak-monsoon-concerns-483184 ",
+    "time": "2026-06-30T10:31:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પત્ની સાથે બેવફાઈ, લીક કર્યો સિક્રેટ વીડિયો... જ્યારે આ ક્રિકેટર ફસાયો હતો વિવાદમાં, જાણો આજે કેમ ચર્ચામાં",
+    "desc": "સનથ જયસૂર્યાએ પોતાની કારકિર્દી દરમિયાન ફક્ત રેકોર્ડ જ બનાવ્યા નથી, તેણે આધુનિક ODI ક્રિકેટને ફરીથી વ્યાખ્યાયિત કરી. આજે પણ જ્યારે ક્રિકેટના ઇતિહાસમાં સૌથી વિસ્ફોટક ઓપનરોની ચર્ચા થાય છે, ત્યારે સનથ જયસૂર્યાનું નામ સૌથી પહેલા આવે છે. જોકે, જયસૂર્યાનું અંગત જીવન એટલું સફળ નહોતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/sanath-jayasuriya-birthday-personal-life-controversy-wife-secret-video-leak-483186 ",
+    "time": "2026-06-30T10:23:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સરકારે અચાનક બદલ્યા પેટ્રોલ અને ડીઝલના નિયમ! 1 જુલાઈથી દેશભરમાં લાગુ થશે આ મોટો નિર્ણય",
+    "desc": "કેન્દ્ર સરકારે 1 જુલાઈ, 2026થી વાણિજ્યિક ખરીદદારો માટે છૂટક પેટ્રોલ પંપ પરથી પેટ્રોલ અને ડીઝલની ખરીદી પરના તમામ કામચલાઉ પ્રતિબંધો હટાવી લીધા છે. દેશમાં પૂરતી ઇંધણ ઉપલબ્ધતા સુનિશ્ચિત કરવા માટે આ નિર્ણય મધ્ય પૂર્વ કટોકટી દરમિયાન લાગુ કરવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-suddenly-changes-petrol-and-diesel-rules-this-big-decision-will-be-implemented-across-the-country-from-july-1-483185 ",
+    "time": "2026-06-30T10:08:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ભૂલથી પણ ડાઉનલોડ થઈ ગઈ છે APK ફાઈલ? બેંક એકાઉન્ટ ખાલી થતા બચાવવા માટે તરત જ કરો આ 4 કામ",
+    "desc": "સાયબર ગુનેગારો ઇન્વોઇસ અથવા ઇન્વિટેશન હોવાનો ઢોંગ કરીને WhatsApp, Telegram, અથવા SMS દ્વારા APK ફાઇલો મોકલી રહ્યા છે અને મોબાઇલ ફોન પર સોફ્ટવેર ઇન્સ્ટોલ કરે છે. જો તમારી સાથે છેતરપિંડી થઈ હોય, તો તેમને 1930 પર જાણ કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/downloaded-apk-file-by-mistake-do-these-4-things-immediately-to-avoid-emptying-your-bank-account-483182 ",
+    "time": "2026-06-30T09:35:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "E20 પેટ્રોલથી જૂની ગાડીઓ બગડી જશે? વધતી ચિંતા વચ્ચે સુપ્રીમ કોર્ટમાં સરકારે આપ્યો આ જવાબ!",
+    "desc": "દેશમાં પેટ્રોલમાં 20 ટકા ઇથેનોલ મિશ્રણને લઈને લોકો સતત ચિંતામાં છે. વાહન માલિકોને તે વાતનો ડર છે કે પેટ્રોલમાં 20 ટકા ઇથેનોલ તેના વાહનને ખરાબ કરી શકે છે. આ વચ્ચે સુપ્રીમ કોર્ટમાં કેન્દ્ર સરકારે મહત્વનું નિવેદન આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/is-e20-petrol-harmful-for-older-cars-government-responds-in-supreme-court-over-ethanol-blending-experiment-483181 ",
+    "time": "2026-06-30T09:27:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "એશિયન ગેમ્સ માટે ટીમ ઈન્ડિયાની જાહેરાત, હરમનપ્રીત જ કેપ્ટન, આ ખેલાડી બની બલિનો બકરો!",
+    "desc": "એશિયન ગેમ્સ 2026 માટે ભારતીય મહિલા ક્રિકેટ ટીમની જાહેરાત કરવામાં આવી છે. હરમનપ્રીત કૌરને કેપ્ટન બનાવવામાં આવી છે અને સ્મૃતિ મંધાનાને વાઈસ-કેપ્ટન તરીકે નિયુક્ત કરવામાં આવી છે. ભારતીય ટીમ સપ્ટેમ્બરમાં જાપાનમાં યોજાનારી ગેમ્સમાં ડિફેન્ડિંગ ચેમ્પિયન તરીકે પ્રવેશ કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/asian-games-2026-india-women-squad-announced-harmanpreet-kaur-captain-483180 ",
+    "time": "2026-06-30T09:11:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ડબલ ભૂકંપના મરણતોલ ફટકાથી હચમચી ગયેલા વેનેઝુએલામાં ભારતનું &amp;#039;ઓપરેશન અમિસ્તાદ&amp;#039; ચર્ચામાં",
+    "desc": "24 જૂનના રોજ દક્ષિણ અમેરિકી દેશ વેનેઝુએલામાં ઉપરાછાપરી આવેલા શક્તિશાળી ભૂકંપો બાદ સતત આફ્ટરશોક્સ પણ ચાલુ છે. ભૂકંપના આંચકાઓની હારમાળાએ વેનેઝુએલાને મરણતોલ ફટકા માર્યા છે અને ભારે તબાહી મચી ગઈ. અનેક દેશોની જેમ ભારતે પણ માનવીય મદદ હેઠળ રાહત સામગ્રી મોકલવાનો નિર્ણય કર્યો અને ઓપરેશન અમિસ્તાદ શરૂ કરી દીધું. ખાસ જાણો તેના વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/explained-india-operation-amistad-in-earthquake-hit-venezuela-indian-army-field-hospital-483179 ",
+    "time": "2026-06-30T09:08:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "₹૭૫ બચાવવાની સુવર્ણ તક: નવી આધાર એપ પર આ સુવિધા ૬ મહિના માટે બિલકુલ ફ્રી, જાણો ડાઉનલોડ પ્રોસેસ",
+    "desc": "UIDAI એ mAadhaar એપ હવે બંધ કરી દીધી છે. હવે યૂઝર્સે નવી આધાર એપ પર સ્વિચ થવું પડશે. આ નવી એપ લોન્ચ થતાં યૂઝર્સને હવે સૌથી મોટો ફાયદો એ છે કે ઘરબેઠા કામ થશે. તમને નવી એપમાં Face Authentication, QR Verification, Login મળી રહેશે. જેથી તમે ઘરે બેઠા પણ Aadhaarમાં નામ, સરનામું અને મોબાઇલ નંબર અપડેટ કરી શકશો. હવે જાણી લો આ પ્રક્રિયા.....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/maadhaar-app-discontinued-complete-guide-of-how-to-login-to-new-aadhaar-app-update-name-address-mobile-number-483177 ",
+    "time": "2026-06-30T08:44:54.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ટેલિકોમ કંપનીઓને મોટો ઝટકો! માત્ર 31 દિવસમાં 1.44 કરોડ યૂઝર્સે પોર્ટ કરાવ્યું SIM, જાણો કયા 2 રાજ્યો ટોપ પર",
+    "desc": "TRAIના નવા અહેવાલ મુજબ, ભારતમાં આશરે 14.46 મિલિયનથી વધુ મોબાઇલ વપરાશકર્તાઓએ મે 2026માં તેમનો નંબર બદલ્યા વિના MNP (મોબાઇલ નંબર પોર્ટેબિલિટી) અરજીઓ ફાઇલ કરી હતી. ઉત્તર પ્રદેશ પૂર્વ અને ઉત્તર પ્રદેશ પશ્ચિમમાં દેશમાં સૌથી વધુ સિમ પોર્ટિંગ અરજીઓ કરવામાં આવી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/big-blow-to-telecom-companies-1-44-crore-users-ported-sim-in-just-31-days-know-which-2-states-are-on-top-483176 ",
+    "time": "2026-06-30T08:40:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કોણ છે ઓર્લેન્ડો ગિલ? જેણે ક્યારેક પૈસા માટે ફૂટબોલ કીટ વેચી, આજે જર્મનીને વર્લ્ડ કપમાંથી બહાર કરી રચ્યો ઇતિહાસ",
+    "desc": "પેરાગ્વેની ટીમે ચાર વખતની વિશ્વ ચેમ્પિયન જર્મનીને હરાવી સનસની મચાવી દીધી છે. ટીમની આ ઐતિહાસિક જીતનો હીરો તેનો ગોલકીપર ઓરલેન્ડો ગિલ રહ્યો. આ તે ગિલ છે, જેણે એક સમયે પોતાના દીકરાની સારવાર માટે ફુટબોલ કિટ વેચી દીધી હતી. આવો જાણીએ તેની સફર કેવી રહી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-meet-orlando-gill-the-goalkeeper-who-stunned-4-time-champion-germany-to-script-history-483171 ",
+    "time": "2026-06-30T07:40:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનું ગગડ્યું! 7 મહિનાના સૌથી નીચલા સ્તરે પહોંચ્યો ભાવ, ચાંદી 1.70 લાખ સુધી થઈ સસ્તી, જાણો 10 ગ્રામ ગોલ્ડનો નવો રેટ",
+    "desc": "સોનાના ભાવમાં ઘટાડો ચાલુ છે. સોનાના ભાવ 7 મહિનાના નીચલા સ્તરે પહોંચી ગયા છે. 30 જૂને સોનાના ભાવમાં ફરી ઘટાડો થયો છે અને ઘટાડો ચાલુ છે. ચાંદી 1.70 લાખ રૂપિયા સુધી સસ્તી થઈ ગઈ છે. 10 ગ્રામ સોનાનો ભાવ ચેક કરો. જ્યારનું યુદ્ધ ચાલુ થયુ ત્યારથી સોનાના ભાવમાં મોટો ઘટાડો અને વધારો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-plunges-price-reaches-7-month-low-silver-becomes-cheaper-by-rs-1-70-lakh-know-the-new-rate-483170 ",
+    "time": "2026-06-30T07:24:56.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "લોકસભા અને રાજ્યસભામાં BJP પાસે કેટલી બેઠકો? જાણો સંસદમાં મોટી પાર્ટીઓનું લેટેસ્ટ નંબરગેમ",
     "desc": "સંસદના ચોમાસુ સત્ર અંગે અટકળો ચાલુ છે. એવું કહેવામાં આવી રહ્યું છે કે બંધારણ સુધારા બિલ અંગે શાસક NDA અને વિપક્ષી પક્ષો વચ્ચે ફરી એકવાર ખેંચતાણ જોવા મળી શકે છે. જો કે, બિલ અંગે સત્તાવાર રીતે કંઈ જાહેર કરવામાં આવ્યું નથી.",
@@ -234,15 +342,6 @@ const newsData_gu = [
     "time": "2026-06-29T02:47:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "વર્લ્ડ ચેમ્પિયન ટીમ ઈન્ડિયાની આયર્લેન્ડ સામે શરમજનક હાર, સિરીઝ 0-2થી વ્હાઇટવોશ; અય્યરની કેપ્ટનશીપ ફ્લોપ",
-    "desc": "ભારતીય ટીમની શ્રેયસ અય્યરની કેપ્ટનશીપમાં T20 ઇન્ટરનેશનલમાં ખૂબ જ શરમજનક શરૂઆત જોવા મળી છે, જેમાં આયર્લેન્ડ સામેની બીજી T20 મેચમાં પણ હારનો સામનો કરવો પડ્યો છે. ટીમ ઈન્ડિયાએ વર્ષ 2023 પછી આ ફોર્મેટમાં કોઈ સિરીઝમાં હારનો સામનો કરવો પડ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-ireland-t20-series-loss-shreyas-iyer-captaincy-debut-whitewash-483011 ",
-    "time": "2026-06-28T17:48:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "4 દિવસમાં 7 ભૂકંપ! શું દુનિયા પર મંડરાઈ રહ્યો છે મહા-તબાહીનો ખતરો? જાણો",
     "desc": "છેલ્લા 4 દિવસમાં વેનેઝુએલા, જાપાન, અમેરિકા અને ભારત-અફઘાનિસ્તાન સહિત દુનિયાભરમાં કેટલાય શક્તિશાળી ભૂકંપ આવ્યા. વેનેઝુએલામાં ભીષણ તબાહીથી 1,430 લોકોના મોત થયા છે. વૈજ્ઞાનિકોના જણાવ્યા અનુસાર, અલગ-અલગ ટેક્ટોનિક પ્લેટો પર આવેલા આ ભૂકંપો પરસ્પર જોડાયેલા નથી, પરંતુ આ માત્ર એક અનોખો સંયોગ છે.",
@@ -259,24 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/rain-alert-imd-heavy-rain-prediction-in-7-states-next-5-days-weather-update-483008 ",
     "time": "2026-06-28T16:01:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઈંગ્લેન્ડ ક્રિકેટને મોટો ઝટકો, બેન સ્ટોક્સે આંતરરાષ્ટ્રીય ક્રિકેટમાંથી નિવૃત્તિની કરી જાહેરાત, આ હશે છેલ્લી મેચ",
-    "desc": "ઇંગ્લેન્ડ ક્રિકેટ ટીમના કેપ્ટન અને દિગ્ગજ ઓલરાઉન્ડર બેન સ્ટોક્સે ન્યુઝીલેન્ડ સામે ચાલી રહેલી ટ્રેન્ટ બ્રિજ ટેસ્ટ બાદ આંતરરાષ્ટ્રીય ક્રિકેટના તમામ ફોર્મેટમાંથી નિવૃત્તિની જાહેરાત કરી છે. બેન સ્ટોક્સની ગણતરી ઇંગ્લેન્ડ ક્રિકેટના સૌથી પ્રભાવશાળી ખેલાડીઓમાં થાય છે. સ્ટોક્સ તાજેતરમાં નાઇટક્લબ વિવાદને કારણે ચર્ચામાં રહ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/england-test-captain-ben-stokes-announces-retirement-from-international-cricket-483006 ",
-    "time": "2026-06-28T15:18:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશી રાહ જોતો રહી ગયો અને આ બે ખેલાડીઓએ કર્યું ડેબ્યૂ... ભારતીય ટીમમાં બે મોટા ફેરફાર",
-    "desc": "આયર્લેન્ડ સામેની બીજી ટી20માં શ્રેયસ ઐયરે ટોસ જીતીને પહેલા બોલિંગ કરવાનો નિર્ણય લીધો છે. આ મેચ માટે ભારતીય ટીમમાં બે મોટા ફેરફાર કરવામાં આવ્યા છે. વૈભવ સૂર્યવંશી પહેલા સૂર્યાંશ શેડગે અને પ્રિન્સ યાદવે ડેબ્યૂ કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-ire-2nd-t20-vaibhav-suryavanshi-not-playing-suryansh-shedge-prince-yadav-debut-482990 ",
-    "time": "2026-06-28T13:07:11.000Z"
   },
   {
     "cat": "World",
@@ -331,24 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pune-murder-investigation-accused-siya-goel-discussed-multiple-plots-to-eliminate-ketan-agarwal-482951 ",
     "time": "2026-06-28T07:28:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સિયા અને ચેતન વચ્ચે ક્રિકેટ મેચમાં આ શું ચાલી રહ્યું છે? સામે આવ્યો વધુ એક નવો VIDEO! તપાસમાં મોટા ખુલાસા",
-    "desc": "સોશિયલ મીડિયા પર સિયા ગોયલ અને ચેતન ચૌધરીનો એક નવો વીડિયો ઝડપથી વાયરલ થઈ રહ્યો છે, જેમાં બંને મહારાષ્ટ્ર ક્રિકેટ લીગની મેચ દરમિયાન સાથે અને ખૂબ જ નજીક બેઠેલા જોવા મળે છે. સમાન જર્સી પહેરેલા આ યુગલની નિકટતા ચર્ચાનો વિષય બની છે. તપાસમાં સામે આવ્યું છે કે સિયા અને ચેતનની ઓળખાણ ક્રિકેટ મેચ દરમિયાન જ થઈ હતી અને સિયાના ભાઈ સાહિલે પણ ચેતન સાથેના પરિચયની વાત સ્વીકારી છે. હાલમાં તપાસ એજન્સીઓ આ બંને વચ્ચેના સંબંધો અને સમગ્ર ઘટનાક્રમની ગંભીરતાથી તપાસ કરી રહી છે, જોકે આ વાયરલ વીડિયો ક્યારનો છે તે અંગે હજુ કોઈ સત્તાવાર પુષ્ટિ કરવામાં આવી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lohagarh-fort-murder-video-of-siya-goyal-and-chetan-chaudhary-goes-viral-big-revelations-in-police-investigation-482918 ",
-    "time": "2026-06-28T05:23:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સગાઈ બાદ સિયાના વિચિત્ર વ્યવહારથી પરેશાન હતો પરિવાર; કેતન મર્ડર કેસની FIR માંથી ખુલ્યા હત્યાના એવા એવા બંધ પાના કે...!!",
-    "desc": "પુણેના લોહાગઢ કિલ્લામાં 26 વર્ષીય કેતન અગ્રવાલનું મૃત્યુ કોઈ અકસ્માત નહોતું, પરંતુ તેની મંગેતર સિયા ગોયલ અને તેના પ્રેમી ચેતને રચેલું ભયાનક કાવતરું હતું. ત્રણ વખત હત્યાનો પ્રયાસ કર્યા પછી, બંનેએ કેતનને 400 ફૂટ ઊંડી કોતરમાં ધકેલી દેવાનું કાવતરું ઘડ્યું, જેમાં તેનું મૃત્યુ થયું હતું. આ કેસની શરૂઆતમાં ઐતિહાસિક લોહાગઢ કિલ્લા પર એક દુ:ખદ ટ્રેકિંગ અકસ્માત માનવામાં આવતો હતો, પરંતુ તે એક ધ્રુજાવી દેનાર, સુનિયોજિત હત્યાનું ષડયંત્ર ખુલ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lohagad-fort-murder-case-ketan-agarwal-fiancee-sia-goyal-lover-chetan-choudhary-fir-482909 ",
-    "time": "2026-06-28T03:48:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,23 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/does-pouring-water-on-the-outdoor-unit-of-an-ac-really-reduce-electricity-bills-know-the-truth-482017 ",
     "time": "2026-06-19T14:46:23.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "માત્ર 6 લાખમાં ઘરે લાવો Teslaની દમદાર ઇલેક્ટ્રિક કાર Model Y! ભારતમાં લોન્ચ થયો ઓનરશિપ પ્લાન, જાણો શું છે ઓફર",
-    "desc": "ભારતમાં Teslaની કાર ખરીદવાનું સપનું જોતા લોકો માટે સારા સમાચાર આવ્યા છે. એલન મસ્કની કંપની ટેસ્લાએ એક નવો 'ઈઝ ઓફ ઓનરશિપ પ્લાન' (Ease of Ownership Plan) લોન્ચ કર્યો છે, જેના હેઠળ માત્ર 6 લાખ રૂપિયાનું ડાઉન પેમેન્ટ આપીને તમે Tesla Model Y ઘરે લાવી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/bring-home-tesla-powerful-electric-car-model-y-for-just-rs-6-lakh-ownership-plan-launched-in-india-know-what-on-offer-481982 ",
-    "time": "2026-06-19T11:20:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "નવી કાર ખરીદવી હોય તો ઉતાવળ રાખજો! TATA બાદ વધુ એક કંપની 1 જુલાઈથી કિંમતો વધારશે",
-    "desc": "ટાટા મોટર્સ પણ પોતાના પેસેન્જર વાહનોના ભાવમાં 1.5 ટકાનો વધારો કરવાની જાહેરાત કરી ચુકી છે, ત્યારે આ કાર કંપનીએ માહિતી આપી છે કે 1 જુલાઈ, 2026થી તેના તમામ મોડેલોના ભાવમાં મહત્તમ 2 ટકાનો વધારો કરવામાં આવશે. જેના કારણે ગ્રાહકોને કિયા કાર ખરીદવી મોંઘી પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/if-you-want-to-buy-a-new-car-hurry-up-after-tata-another-company-will-increase-prices-from-july-1-481917 ",
-    "time": "2026-06-18T16:02:14.000Z"
   }
 ];
