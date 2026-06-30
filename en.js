@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Taylor-Travis to host two wedding events",
+    "desc": "Madison Square Garden is reportedly transforming into a fairytale wonderland for Taylor Swift and Travis Kelce's wedding festivities. Two events are planned, with a smaller gathering on Thursday followed by a grand celebration for around 1,000 guests on Friday. Expect a lavender carpet, a strict no-phone policy, and extensive security measures to ensure privacy for the highly anticipated nuptials.",
+    "img": "https://static.toiimg.com/photo/msid-132101592,imgsize-155716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-travis-kelce-wedding-couple-to-host-two-events-at-madison-square-garden-transform-venue-into-fairytale-setup/articleshow/132101414.cms",
+    "time": "2026-06-30T21:50:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court has said even the ‘wicked’ have the right to a lawyer",
+    "desc": "A 2010 judgment of the Supreme Court, refers to Article 22(1) of the Constitution, which mandates that an arrested person should not be ‘denied the right to consult, and to be defended by, a legal practitioner of his choice’",
+    "img": "https://th-i.thgim.com/public/incoming/cdejzf/article71165616.ece/alternates/LANDSCAPE_1200/PTI06_29_2026_000189B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ayodhya-bar-boycott-sc-has-said-even-the-wicked-have-the-right-to-a-lawyer/article71165409.ece",
+    "time": "2026-06-30T20:50:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "U.P. Congress chief, MPs stopped from visiting Ram Temple in Ayodhya, put under house arrest",
+    "desc": "U.P. Congress chief Ajay Rai says he was arrested from his hotel and is being detained in a State-run university guest house; Amethi MP asks why the right to darshan is being denied on political grounds",
+    "img": "https://th-i.thgim.com/public/incoming/hq57lw/article71163167.ece/alternates/LANDSCAPE_1200/UP%20Congress.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-congress-chief-ajay-rai-placed-under-house-arrest-in-ayodhya/article71163158.ece",
+    "time": "2026-06-30T20:44:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI arrests IAS official in Haryana govt. funds misappropriation case",
+    "desc": "CBI has so far filed charge-sheets against 17 accused in the Haryana case, including six bank officials of IDFC First Bank and AU Small Finance Bank, three public servants, two companies and six private individuals",
+    "img": "https://th-i.thgim.com/public/incoming/ev7j2x/article71167490.ece/alternates/LANDSCAPE_1200/TH---INDEX-CBI-HEADQUARTER.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cbi-arrests-ias-official-in-haryana-govt-funds-misappropriation-case/article71166651.ece",
+    "time": "2026-06-30T20:17:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Norway vs Côte d'Ivoire, FIFA World Cup Match Result: Haaland saves Norway at the death to reach Round of 16",
+    "desc": "Erling Haaland scored a late winner as Norway edged Côte d'Ivoire 2-1 to reach the FIFA World Cup 2026 Round of 16. Antonio Nusa's first-half strike was cancelled out by Amad Diallo before Haaland settled the contest in the 85th minute. Norway's clinical finishing and disciplined defending proved decisive, setting up a blockbuster last-16 clash against Brazil.",
+    "img": "https://static.toiimg.com/photo/msid-132101270,imgsize-255402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/norway-vs-cte-divoire-fifa-world-cup-match-result-haaland-saves-norway-at-the-death-to-reach-round-of-16/articleshow/132100572.cms",
+    "time": "2026-06-30T20:00:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Limansa — a star in the making from the Dilshan lineage",
+    "desc": "The daughter of the celebrated former Sri Lanka opener is leaving no stone unturned as she hopes to make an impression in the U-19 Women’s World Cup which will be jointly hosted by Bangladesh and Nepal in early 2027; she is also looking to carve an identity of her own",
+    "img": "https://th-i.thgim.com/public/sport/1i6a3o/article71167457.ece/alternates/LANDSCAPE_1200/DILSHAN-DAUGHTER.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/limansa-a-star-in-the-making-from-the-dilshan-lineage/article71167448.ece",
+    "time": "2026-06-30T19:51:38.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "FIFA World Cup 2026",
     "desc": "A simple Haaland tap-in in the 86th minute ultimately broke the Ivorian hearts. The striker, largely uninvolved until then, arrived in front of goal to turn in Patrick Berg’s cross as a flat-footed defence watched in horror",
@@ -64,48 +118,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "U.P. Congress chief, MPs stopped from visiting Ram Temple in Ayodhya, put under house arrest",
-    "desc": "U.P. Congress chief Ajay Rai says he was arrested from his hotel and is being detained in a State-run university guest house; Amethi MP asks why the right to darshan is being denied on political grounds",
-    "img": "https://th-i.thgim.com/public/incoming/hq57lw/article71163167.ece/alternates/LANDSCAPE_1200/UP%20Congress.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-congress-chief-ajay-rai-placed-under-house-arrest-in-ayodhya/article71163158.ece",
-    "time": "2026-06-30T17:44:20.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Fourth accused arrested in Maharashtra TET scam",
     "desc": "Remanded to police custody till July 6, the accused is the wife of the alleged kingpin of the scam, who is absconding; police say she was aware of the financial transactions in the multi-State racket, and had met the other accused",
     "img": "https://th-i.thgim.com/public/news/national/a4led4/article71167292.ece/alternates/LANDSCAPE_1200/iStock-1905024012%2010.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/maharashtra/fourth-accused-arrested-in-maharashtra-tet-scam/article71167042.ece",
     "time": "2026-06-30T17:36:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Operation Sindoor",
-    "desc": "Congress general secretary K.C. Venugopal on Tuesday (June 30, 2026) moved a privilege notice against Defence Minister Rajnath Singh in the Lok Sabha, accusing him of misleading Parliament by stating during the Operation Sindoor debate last year that no Indian soldier had been killed.",
-    "img": "https://th-i.thgim.com/public/incoming/pbcyo9/article71167290.ece/alternates/LANDSCAPE_1200/sindoor%20KCV.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/operation-sindoor-kc-venugopal-moves-privilege-notice-against-rajnath-for-misleading-parliament/article71167289.ece",
-    "time": "2026-06-30T17:29:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amit Shah launches new FCRA portal and e-OCI card",
-    "desc": "The Home Minister says the new portal will help in effective monitoring of foreign contributions and eliminate physical submission of documents. The e-OCI card will bring great convenience to more than 50 lakh OCI cardholders, he says",
-    "img": "https://th-i.thgim.com/public/incoming/oyssy1/article71166017.ece/alternates/LANDSCAPE_1200/PTI06_28_2026_000505B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/home-minister-amit-shah-launches-new-version-of-fcra-portal-e-oci-card/article71165982.ece",
-    "time": "2026-06-30T17:04:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rights groups seek government aid for families of deceased farmers",
-    "desc": "According to information collated by the Human Rights Forum (HRF), around 150 farmers reportedly ended their lives in the combined Anantapur district from the beginning of the year 2024 to date, and not one has received compensation",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/rights-groups-seek-government-aid-for-families-of-18-deceased-farmers/article71165484.ece",
-    "time": "2026-06-30T17:02:53.000Z"
   },
   {
     "cat": "Sports",
@@ -115,24 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/beth-mooney-ashleigh-gardner-power-australia-into-eighth-womens-t20-world-cup-final/articleshow/132097694.cms",
     "time": "2026-06-30T16:55:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monthly average rainfall expected to be below normal in July, deficit now 40%: IMD",
-    "desc": "El Nino impact is visible as 99.5 mm rain this June is the fifth lowest since 1901; first week of July may see good rain, but overall outlook is bleak; water in major reservoirs is 25% less than last June",
-    "img": "https://th-i.thgim.com/public/incoming/jataib/article71165843.ece/alternates/LANDSCAPE_1200/PTI06_30_2026_000231B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/monthly-average-rainfall-over-india-expected-to-be-below-normal-in-july-imd/article71165820.ece",
-    "time": "2026-06-30T16:52:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TTD allocates ₹6 crore SRIVANI funds to develop Kadapa Sivalayam",
-    "desc": "As such allocations require public contribution to the tune of 15% of the budget, local devotees come out in large numbers to offer support; temple chairman P. Nageswara Rao donates ₹25 lakh for the cause and hands over a cheque to the government whip and local MLA Reddeppagari Madhavi Reddy",
-    "img": "https://th-i.thgim.com/public/incoming/ri7q0h/article71166688.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-30%20at%2019.38.08.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-allocates-6-crore-srivani-funds-to-develop-kadapa-sivalayam/article71166417.ece",
-    "time": "2026-06-30T16:50:31.000Z"
   },
   {
     "cat": "World",
@@ -414,15 +414,6 @@ const newsData_en = [
     "time": "2026-06-30T13:19:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Akhilesh Yadav asked me to step down': SP's UP assembly chief whip Kamal Akhtar resigns amid reports of rift with MP Ruchi Vira",
-    "desc": "Samajwadi Party's chief whip in the Uttar Pradesh assembly, Kamal Akhtar, has resigned following directions from party president Akhilesh Yadav. Akhtar stated that organizational changes are a natural process and he is fulfilling his duty as a party worker. His resignation comes amid speculation of a rift with the SP's Lok Sabha MP from Moradabad, Ruchi Vira. This development occurs as Uttar Pradesh prepares for assembly elections next year.",
-    "img": "https://static.toiimg.com/photo/msid-132094077,imgsize-86258.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/akhilesh-yadav-asked-me-to-step-down-sps-up-assembly-chief-whip-kamal-akhtar-resigns-amid-reports-of-rift-with-mp-ruchi-vira/articleshow/132093464.cms",
-    "time": "2026-06-30T13:09:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Iran-US interim peace deal may support India's growth: RBI",
     "desc": "India's economy shows resilience despite global turbulence, with an interim Iran-US peace deal potentially boosting supply chains and easing geopolitical pressures, according to the RBI's Financial Stability Report. While macroeconomic fundamentals are strong, the nation remains vulnerable to imported energy price shocks. The report highlights sustained economic activity but warns of inflation risks from supply disruptions and potential fiscal deficit pressures.",
@@ -430,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/iran-us-interim-peace-deal-may-support-indias-growth-but-inflation-and-fiscal-risks-remain-rbi/articleshow/132093249.cms",
     "time": "2026-06-30T12:51:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Siya Point' at Lohagad Fort sees tourist rush, cops shut the site for probe",
-    "desc": "Tourist footfall at the historic hill fort reportedly risen by around 25 per cent since the incident came to light. Much of the attention is centred on a spot that visitors have informally begun referring to as \"Siya Point\", after Siya Goyal, who, along with her boyfriend Chetan Chaudhary, has been accused of allegedly pushing Agarwal off the fort during a trip near Pune.",
-    "img": "https://static.toiimg.com/photo/msid-132093509,imgsize-127240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/siya-point-at-lohagad-fort-sees-tourist-rush-cops-shut-the-site-for-probe/articleshow/132093491.cms",
-    "time": "2026-06-30T12:37:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +450,6 @@ const newsData_en = [
     "time": "2026-06-30T12:16:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Alia reveals Samay had her laughing so much that even her smartwatch got confused",
-    "desc": "Alia Bhatt shared a hilarious incident from her appearance on Samay Raina's show, where her smartwatch mistook her constant laughter for stress due to an elevated heart rate. The 'Alpha' star revealed the shoot for 'India's Got Latent' Season 2 lasted five hours of continuous fun. The episode also featured Samay Raina's witty jabs, making it a memorable experience for Alia and Sharvari ahead of their film's release.",
-    "img": "https://static.toiimg.com/photo/msid-132092786,imgsize-78410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-reveals-samay-raina-had-her-laughing-so-much-that-even-her-smartwatch-got-confused/articleshow/132092774.cms",
-    "time": "2026-06-30T12:06:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre extends CBDT Chairman Ravi Agrawal’s tenure by six months",
     "desc": "In a statement on Tuesday (June 30), the Appointments Committee of the Cabinet (ACC) said it has approved the “reappointment” of Mr. Agrawal as Chairman, CBDT on a contract basis for a period of six months",
@@ -502,42 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mani-ratnam-and-vijay-sethupathis-next-untitled-locks-ott-deal-even-before-filming-commences/articleshow/132092501.cms",
     "time": "2026-06-30T11:48:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What is 'gait analysis'? Why police want to conduct it on accused Chetan Chaudhary in Pune's Ketan Agarwal case",
-    "desc": "Police are employing gait analysis on Chetan Chaudhry, accused of pushing realtor Ketan Agarwal off Lohagarh Fort. This forensic technique will compare his walking pattern to a hooded figure seen on CCTV near the crime scene. Chaudhry, allegedly acting for Agarwal's fiancée Siya Goyal, faces a fresh crime scene reconstruction. Investigators are also seeking his clothing from the day of the incident as the case progresses towards a fast-track trial.",
-    "img": "https://static.toiimg.com/photo/msid-132092540,imgsize-49762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/what-is-gait-analysis-why-police-want-to-conduct-it-on-accused-chetan-chaudhary-in-punes-ketan-agarwal-case/articleshow/132092131.cms",
-    "time": "2026-06-30T11:48:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Deeply grateful': India's field hospital wins hearts in earthquake-hit Venezuela",
-    "desc": "Venezuela's earthquake victims are expressing profound gratitude to India's medical team for their life-saving aid. Under Operation Amistad, India deployed a field hospital, relief supplies, and advanced medical equipment, significantly easing the suffering of those affected by the devastating tremors. Locals shared moving testimonials, highlighting the exceptional care and support received, emphasizing a sense of unity and shared humanity.",
-    "img": "https://static.toiimg.com/photo/msid-132092507,imgsize-888073.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/deeply-grateful-indias-field-hospital-wins-hearts-in-earthquake-hit-venezuela/articleshow/132092523.cms",
-    "time": "2026-06-30T11:46:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Remember the internet of endless tabs and rabbit holes? How AI is changing the web we grew up with",
-    "desc": "The internet's evolution from a browsing landscape to an AI-driven answer engine is reshaping user habits. Once a journey of exploration, the web now offers instant, customized responses, saving time but potentially narrowing discovery. This shift impacts digital publishing and marketing, forcing a redefinition of online visibility beyond traditional clicks. While offering convenience, AI browsing also raises significant privacy and security concerns.",
-    "img": "https://static.toiimg.com/photo/msid-132091447,imgsize-93938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/remember-the-internet-of-endless-tabs-and-rabbit-holes-how-ai-is-changing-the-web-we-grew-up-with/articleshow/132090741.cms",
-    "time": "2026-06-30T11:41:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana Ranaut wraps up shooting for 'Queen 2', shares joyful glimpse",
-    "desc": "Kangana Ranaut has wrapped up filming for 'Queen 2', the highly anticipated sequel to her 2014 hit. The actress shared celebratory moments with the cast and crew on Instagram, signaling the film's move into post-production. Fans eagerly await details on the release of the sequel, which revisits the beloved character Rani's journey years after her transformative solo honeymoon.",
-    "img": "https://static.toiimg.com/photo/msid-132092312,imgsize-138230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-wraps-up-shooting-for-queen-2-shares-joyful-glimpse-from-wrap-up-celebrations-with-cast-and-crew/articleshow/132092290.cms",
-    "time": "2026-06-30T11:30:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -639,15 +576,6 @@ const newsData_en = [
     "time": "2026-06-30T09:52:20.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026 scripts unprecedented history after Germany, Netherlands crash out",
-    "desc": "A historic World Cup saw two top-10 nations, Germany and the Netherlands, crash out in the opening knockout round. Germany's campaign ended on penalties against Paraguay after a controversial disallowed goal. The Netherlands also fell to Morocco in a dramatic shootout, with Morocco's goalkeeper proving decisive. This marks a significant upset in the tournament's history.",
-    "img": "https://static.toiimg.com/photo/msid-132090009,imgsize-1458886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-scripts-unprecedented-history-after-germany-netherlands-crash-out/articleshow/132089910.cms",
-    "time": "2026-06-30T09:46:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's crude imports bounce back despite Middle East disruptions",
     "desc": "India's crude oil imports are nearing pre-conflict levels, thanks to refiners diversifying away from traditional Gulf suppliers. Purchases from Russia, the US, and other regions have compensated for Middle East disruptions. Russia remains a favored source due to attractive pricing. While the Strait of Hormuz has reopened, Asian refiners are cautious about immediate increases in Gulf purchases, focusing on existing cargo coverage and maintenance schedules.",
@@ -655,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/barrel-of-backups-indias-crude-imports-bounce-back-despite-middle-east-disruptions/articleshow/132089125.cms",
     "time": "2026-06-30T09:25:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We didn't hold him hostage': Shashank Singh breaks silence after FIR against him, father",
-    "desc": "Cricketer Shashank Singh has responded to an FIR alleging assault and illegal confinement by a domestic cook. Singh claims the cook was hired under false pretenses, was taking private photos, and his mother deleted them due to privacy concerns. He denies any physical altercation or holding the cook hostage, stating they considered calling the police themselves after discovering the alleged unauthorized photography.",
-    "img": "https://static.toiimg.com/photo/msid-132089691,imgsize-41742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-didnt-hold-him-hostage-shashank-singh-breaks-silence-after-fir-against-him-father/articleshow/132089631.cms",
-    "time": "2026-06-30T09:23:07.000Z"
   },
   {
     "cat": "Sports",
@@ -754,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/oyo-parent-prism-files-updated-ipo-papers-for-rs-6650-crore-issue-what-investors-should-know/articleshow/132085168.cms",
     "time": "2026-06-30T05:42:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Pakistan backtracks on energy gamble, buys emergency LNG as Qatar exports stay in limbo",
-    "desc": "Pakistan has urgently secured a liquefied natural gas shipment amid ongoing disruptions in the Strait of Hormuz impacting Qatari exports. The nation's energy supply chain faces strain due to regional tensions, forcing reliance on costly spot market purchases. These incidents, including attacks on vessels, have halted Qatar's LNG flows, creating global energy market volatility and exacerbating Pakistan's economic pressures, including rising inflation.",
-    "img": "https://static.toiimg.com/photo/msid-132084891,imgsize-723493.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/pakistan-backtracks-on-energy-gamble-buys-emergency-lng-as-qatar-exports-stay-in-limbo/articleshow/132084525.cms",
-    "time": "2026-06-30T05:31:29.000Z"
   },
   {
     "cat": "Sports",
@@ -891,12 +801,102 @@ const newsData_en = [
     "time": "2026-06-29T06:17:56.000Z"
   },
   {
-    "cat": "World",
-    "title": "Why was Trump’s H-1B fee struck down?",
-    "desc": "What is the H-1B visa programme and who uses it? Why did the Trump administration impose the $100,000 fee? What impact was the policy expected to have on States and employers? Did the President have the authority to impose the fee? Why did the court classify the charge as a tax rather than a penalty?",
-    "img": "https://th-i.thgim.com/public/incoming/igk8h0/article71112269.ece/alternates/LANDSCAPE_1200/iStock-1264230781.jpg",
+    "cat": "Tech",
+    "title": "Smart AI caching can keep the data flowing when disaster strikes",
+    "desc": "In cooperative caching, different parts of a disaster-response network, including satellites, drones, base stations, and emergency vehicles, work together to store and share useful data. When one node receives or generates important content, such as satellite images or video, nearby nodes may also cache copies based on demand",
+    "img": "https://th-i.thgim.com/public/todays-paper/8gl3v4/article67199495.ece/alternates/LANDSCAPE_1200/TH15-ISHITA-MISGPKBKDC1K.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-was-trumps-h-1b-fee-struck-down/article71108812.ece",
-    "time": "2026-06-29T05:13:24.000Z"
+    "url": "https://www.thehindu.com/sci-tech/science/smart-ai-caching-can-keep-the-data-flowing-when-disaster-strikes/article71157296.ece",
+    "time": "2026-06-28T07:12:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The strange link between AI hallucination and creativity",
+    "desc": "A setting called temperature governs how adventurous an LLM’s outputs are. The higher the temperature, the more likely the model reaches for the less likely options and begins to surprise you. This is the dial you turn up when you want a poem instead of a weather report. The trouble is that the same dial governs hallucinations",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/wutjuk/article71136852.ece/alternates/LANDSCAPE_1200/1xaedrian-salazar-hGDoyIFADHo-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/strange-link-between-artificial-intelligence-hallucination-creativity/article71136885.ece",
+    "time": "2026-06-28T04:47:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Accenture’s revenue growth guidance cut shocks tech industry",
+    "desc": "Accenture recently narrowed its full-year 2026 revenue growth guidance to 3-4%, down from 3-5% earlier, triggering an immediate plunge in its own stock prices and throwing the rest of the global tech services industry, which is already hit by global uncertainties, into a new tizzy.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/6jkbw9/article71155409.ece/alternates/LANDSCAPE_1200/iStock-1795499144.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/accentures-revenue-growth-guidance-cut-shocks-tech-industry/article71151263.ece",
+    "time": "2026-06-27T17:06:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Support your local artist, says Naga illustrator Canato Jimo",
+    "desc": "Naga illustrator Canato Jimo said that AI often steals from artists, while asking individuals to support local talent at the Lit for Life Unplugged x Zhouyu Hosts. This was followed by an elaborate dinner by Meghalaya-based chef Ahmedaki Laloo",
+    "img": "https://th-i.thgim.com/public/incoming/qon4li/article71067127.ece/alternates/LANDSCAPE_1200/11658_5_6_2026_22_43_50_4_3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/support-your-local-artist-says-naga-illustrator-canato-jimo/article71067069.ece",
+    "time": "2026-06-27T13:52:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "K. Bhagyaraj: Tamil cinema’s master of screenplay and storytelling",
+    "desc": "The success formula of Bhagyaraj’s early hit movies was fundamentally simple. His films were structured around personal or situational conflicts arising in the lives of ordinary individuals, a screenplay moving toward the resolution of that conflict, good songs, and plenty of situational comedy sprinkled throughout",
+    "img": "https://th-i.thgim.com/public/incoming/2romww/article71153869.ece/alternates/LANDSCAPE_1200/K._Bhagyaraj-03.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/k-bhagyaraj-tamil-cinemas-master-of-screenplay-and-storytelling/article71153692.ece",
+    "time": "2026-06-27T12:25:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhagyaraj’s genius effortlessly melded comedy and crisis",
+    "desc": "The fact that Bhagyaraj brought down the hero from a pedestal – a bespectacled, skinny youngster not afraid of being vulnerable, poor, or self-deprecatory, and willing to be laughed at – lent itself to the humour track",
+    "img": "https://th-i.thgim.com/public/incoming/uwjadd/article71153945.ece/alternates/LANDSCAPE_1200/HP180621.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/bhagyarajs-genius-effortlessly-melded-comedy-with-crisis/article71153884.ece",
+    "time": "2026-06-27T12:23:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The genius of K. Bhagyaraj is eternal: Karthik Kumar",
+    "desc": "Actor, stand up comedian and filmmaker Karthik Kumar, who collaborated with K. Bhagyaraj in the 2022 comedy-drama ‘Super Senior Heroes’, gives a moving account of working with the late actor-writer-director, who passed away on Saturday (June 27, 2026)",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/klc9lr/article71153617.ece/alternates/LANDSCAPE_1200/Bhagyaraj%20and%20Karthik%20Kumar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/the-genius-of-k-bhagyaraj-is-eternal-karthik-kumar/article71153511.ece",
+    "time": "2026-06-27T06:42:27.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Amazon CEO Andy Jassy meets PM Modi; announces plans to invest additional $13 billion in India on cloud, AI",
+    "desc": "The company plans to launch more than 20 new fulfillment centers and over 100 new last mile delivery stations this year, bringing faster and reliable deliveries to customers nationwide, especially in tier 3 and 4 cities.",
+    "img": "https://th-i.thgim.com/public/incoming/q16ebs/article71145563.ece/alternates/LANDSCAPE_1200/HLpQC_wbEAAqvTK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-meets-pm-modi-investments-2030-india-ai-cloud/article71145559.ece",
+    "time": "2026-06-25T11:51:48.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "75th anniversary of the UNIVAC I",
+    "desc": "Seventy five years ago – on June 14, 1951 – the UNIVAC I was officially put into service by the U.S. Census Bureau. The UNIVAC I, which the bureau calls the first successful civilian computer, heralded a new age in the tech industry by demonstrating the potential for computers in various applications. A.S.Ganesh takes you back to a time when these devices were far from being hand-held…",
+    "img": "https://th-i.thgim.com/public/incoming/1b1ij7/article71064337.ece/alternates/LANDSCAPE_1200/14istb%20Univac_I_Census_dedication.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/75th-anniversary-of-the-univac-i/article71064362.ece",
+    "time": "2026-06-24T10:41:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "the longest suspension bridge in the western hemisphere",
+    "desc": "June 28, 1958 marks the end of a four-day party for the dedication festival of the Mackinac Bridge. Even though the bridge had been opened to traffic from November the previous year, it was only from June 25-28 that the official festivities and ribbon-cutting had taken place. Join A.S.Ganesh as he takes you on a trip to tell you about this suspension bridge…",
+    "img": "https://th-i.thgim.com/public/incoming/m4jcny/article71117475.ece/alternates/LANDSCAPE_1200/28istb%20MackinacBridge_at_night.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/mighty-mac-the-longest-suspension-bridge-in-the-western-hemisphere/article71117473.ece",
+    "time": "2026-06-24T09:41:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Anthony McClelland? Unveiling the complicated legacy of NBA legend LeBron James' alleged father",
+    "desc": "LeBron James' biological father, Anthony McClelland, abandoned him and his mother, Gloria James, shortly after his birth. McClelland had no role in James' upbringing, leading to initial resentment. However, James later found inspiration in his father's absence, striving to be a better dad. Despite McClelland's later attempts at contact, James has maintained no relationship with him.",
+    "img": "https://static.toiimg.com/photo/msid-124678421,imgsize-31516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/who-is-anthony-mcclelland-unveiling-the-complicated-legacy-of-nba-legend-lebron-james-alleged-father/articleshow/124678429.cms",
+    "time": "2025-10-18T19:57:36.000Z"
   }
 ];

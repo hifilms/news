@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "France lead 2-0, Sweden in trouble",
+    "desc": "France is taking on Sweden in the round of 32 of the ongoing FIFA World Cup 2026. The two sides meet at the New York New Jersey Stadium in East Rutherford, and both sides will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fra-vs-swe-fifa-world-cup-2026-live-france-look-to-continue-winning-momentum-in-ro32-clash-1046713",
+    "time": "2026-06-30T20:40:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Norway knock Ivory Coast out of FIFA World Cup 2026 with narrow 2-1 victory",
     "desc": "Norway and Ivory Coast locked horns in the round of 32 of the ongoing FIFA World Cup 2026. The two sides met at the Dallas Stadium in Arlington, and it was Norway who managed to...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-india-womens-squad-for-asian-games-harmanpreet-kaur-to-lead-despite-early-world-cup-exit-2026-06-30-1046609",
     "time": "2026-06-30T04:24:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Morocco hold nerve to edge past Netherlands on penalties, march into World Cup round of 16",
-    "desc": "Morocco defeated the Netherlands on penalties in their FIFA World Cup 2026 round of 32 clash at the Estadio Monterrey on Tuesday, June 30 (IST). The Atlas Lions put up a stellar performance against the Oranje...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/morocco-hold-nerve-to-edge-past-netherlands-on-penalties-march-into-world-cup-round-of-16-2026-06-30-1046607",
-    "time": "2026-06-30T04:08:17.000Z"
   }
 ];
