@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "France lead 2-0, Sweden in trouble",
+    "title": "France thump Sweden 3-0, register dominant victory to book RO16 berth",
+    "desc": "France put forth an exceptional performance against Sweden in the round of 32 stage of the ongoing FIFA World Cup 2026. The two sides met in New Jersey and as many expected France to blow...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/france-thump-sweden-3-0-register-dominant-3-0-victory-to-book-ro16-berth-2026-07-01-1046715",
+    "time": "2026-06-30T23:32:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England names playing XI for upcoming T20I clash against India, star pacer misses out",
+    "desc": "The stage is set for the first T20I of the upcoming series between India and England. The two sides will meet at Chester-le-Street on July 1 to kick off the series, and the hosts will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-names-playing-xi-for-upcoming-t20i-clash-against-india-star-pacer-misses-out-2026-07-01-1046714",
+    "time": "2026-06-30T22:29:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France knock Sweden out, reach RO16 comfortably",
     "desc": "France is taking on Sweden in the round of 32 of the ongoing FIFA World Cup 2026. The two sides meet at the New York New Jersey Stadium in East Rutherford, and both sides will...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-ipl-winner-and-australia-all-rounder-to-play-for-portugal-in-t20-world-cup-qualifiers-2026-06-30-1046638",
     "time": "2026-06-30T08:12:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many times have Netherlands lost on penalties in FIFA World Cups after their latest defeat to Morocco?",
-    "desc": "Netherlands endured their earliest exit in the FIFA World Cup after bowing out of the tournament in the round of 32 following their defeat to Morocco on Tuesday, June 30 (IST). The two teams gave...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/how-many-times-have-netherlands-lost-on-penalties-in-fifa-world-cups-after-their-latest-defeat-to-morocco-2026-06-30-1046624",
-    "time": "2026-06-30T06:34:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announces India women's squad for Asian Games, Harmanpreet Kaur to lead despite early World Cup exit",
-    "desc": "The Board of Control for Cricket in India (BCCI) named India's women's squad for the upcoming Asian Games 2026. Harmanpreet Kaur will be leading the full-strength side, which recently suffered a horror group-stage exit in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-india-womens-squad-for-asian-games-harmanpreet-kaur-to-lead-despite-early-world-cup-exit-2026-06-30-1046609",
-    "time": "2026-06-30T04:24:45.000Z"
   }
 ];
