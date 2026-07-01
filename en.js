@@ -1,6 +1,186 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "100+ prominent India, Pakistan voices appeal for 'confidence building measures'",
+    "desc": "Over 100 prominent Indian and Pakistani citizens have penned an open letter to Prime Ministers Narendra Modi and Shehbaz Sharif, urging them to restore peace and dialogue. The signatories propose confidence-building measures like reinstating full diplomatic ties and resuming normal visa services. They emphasize that continued hostility hinders the prosperity and secure future of millions of young people in both nations, stressing the need for cooperation over confrontation.",
+    "img": "https://static.toiimg.com/photo/msid-132124045,imgsize-1358222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/100-prominent-india-pakistan-voices-appeal-for-confidence-building-measures/articleshow/132124021.cms",
+    "time": "2026-07-01T19:38:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Panel to adopt report on bill to sack PM, CMs on July 17",
+    "desc": "A parliamentary panel is set to finalize its report on an anti-corruption bill that proposes automatic removal of top leaders after 30 days in detention for serious criminal charges. While the government aims to pass the bill, opposition parties are strongly against it, fearing political misuse. The committee is considering amendments to address concerns about arbitrary power and safeguards against destabilizing elected governments.",
+    "img": "https://static.toiimg.com/photo/msid-132124001,imgsize-1527486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/panel-to-adopt-report-on-bill-to-sack-pm-cms-on-july-17/articleshow/132123996.cms",
+    "time": "2026-07-01T19:33:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court la﻿ys down ITR norms for fixing accident damages",
+    "desc": "The Supreme Court has mandated distinct methods for calculating road accident compensation, acknowledging the income disparity between salaried individuals and the self-employed. For salaried persons, the previous year's income tax return will be the benchmark. Self-employed individuals' compensation will be based on the average of their last three years' income tax returns, accounting for income fluctuations. This ruling aims to standardize compensation assessments across high courts.",
+    "img": "https://static.toiimg.com/photo/msid-132123978,imgsize-1684589.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/supreme-court-lays-down-itr-norms-for-fixing-accident-damages/articleshow/132123964.cms",
+    "time": "2026-07-01T19:28:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IMD issues red alert for coastal Karnataka on July 2 and 3",
+    "desc": "Karnataka State Natural Disaster Monitoring Centre (KSNDMC) stated that coastal Karnataka recorded 53 mm rainfall in 24 hours ending at 8.30 a.m. on July 1 against the normal rainfall of 41 mm for the same period",
+    "img": "https://th-i.thgim.com/public/incoming/w18gj3/article71169919.ece/alternates/LANDSCAPE_1200/01_mn%20Rains%201.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Mangalore/red-alert-for-heavy-rain-in-coastal-karnataka-on-july-2-3/article71169875.ece",
+    "time": "2026-07-01T19:09:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain delays England’s innings after India scores 189/7",
+    "desc": "India, coming off a 0-2 series loss to Ireland, made a poor start as they slipped to 6 for two but half-centuries from skipper Shreyas Iyer (68) and Abhishek Sharma (59) propelled them to a competitive total",
+    "img": "https://th-i.thgim.com/public/incoming/4563bs/article71171666.ece/alternates/LANDSCAPE_1200/20260701576L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/england-vs-india-first-t20i-updates-july-2026/article71171664.ece",
+    "time": "2026-07-01T18:51:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England vs DR Congo, FIFA World Cup Match Result: Harry Kane’s late double rescues and sends England into Round of 16",
+    "desc": "England survived a major scare as Harry Kane’s late brace secured a 2-1 comeback win over DR Congo in the FIFA World Cup 2026 Round of 32. Brian Cipenga’s early goal put the underdogs ahead before England struggled for control. Kane struck twice in the final 15 minutes to rescue Thomas Tuchel’s side and set up a Round of 16 clash with Mexico.",
+    "img": "https://static.toiimg.com/photo/msid-132123045,imgsize-142960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/england-vs-dr-congo-fifa-world-cup-match-result-harry-kanes-late-double-rescues-and-sends-england-into-round-of-16/articleshow/132122393.cms",
+    "time": "2026-07-01T18:39:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "An adventorous ride from anonymity to amazing",
+    "desc": "History will regard Stokes as a great cricketer, with great being used in its purest and most unadulterated form. There are few sights in cricket of a recent vintage to match him on a cricket field",
+    "img": "https://th-i.thgim.com/public/incoming/zbv8xw/article71171524.ece/alternates/LANDSCAPE_1200/2026-06-28T173155Z_1550243927_UP1EM6S1B3G8S_RTRMADP_3_CRICKET-ENG-NZL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/an-adventorous-ride-from-anonymity-to-amazing/article71171399.ece",
+    "time": "2026-07-01T18:39:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Boney Kapoor reveals details of Anshula's wedding with Rohan",
+    "desc": "Entrepreneur Anshula Kapoor and screenwriter-director Rohan Thakkar are all set to tie the knot on July 6, and the wedding festivities have officially begun. Confirming the details, producer Boney Kapoor earlier revealed that the wedding will be an intimate affair.",
+    "img": "https://static.toiimg.com/photo/msid-132122784,imgsize-155278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/boney-kapoor-reveals-details-of-anshula-kapoors-wedding-with-rohan-thakkar-the-marriage-will-be-a-blend-of-two-communities/articleshow/132122456.cms",
+    "time": "2026-07-01T18:24:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh civil society groups to hold informal talks with visiting MHA team, say ‘spadework for formal talks’",
+    "desc": "The upcoming informal talks are taking place at a time when the Ladakh groups were accusing the Centre of backtracking on the agreement made on May 22 in New Delhi in the meeting with the MHA sub-committee",
+    "img": "https://th-i.thgim.com/public/incoming/9b0nyq/article71171610.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryG2QF6BTF6.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/ladakhcivil-society-groups-to-hold-informal-talks-with-visiting-mha-team-say-spadework-for-formal-talks/article71171292.ece",
+    "time": "2026-07-01T18:18:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farooq, Mehbooba join call for India-Pak dialogue, BJP says terror and talks can't go together",
+    "desc": "Former J&K CMs Farooq Abdullah and Mehbooba Mufti, alongside nearly 60 Indian signatories, have urged India and Pakistan to resume dialogue for regional peace. Their letter highlights the lost opportunities for millions of young people due to ongoing hostility. Kashmir's chief cleric also supported the call, emphasizing that engagement is the only way to resolve differences and build a prosperous South Asia.",
+    "img": "https://static.toiimg.com/photo/msid-132121895,imgsize-1252861.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/farooq-mehbooba-join-call-for-india-pak-dialogue-bjp-says-terror-and-talks-cant-go-together/articleshow/132121909.cms",
+    "time": "2026-07-01T18:07:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Heavy rains trigger flash floods in Doda's Bhalessa",
+    "desc": "Flash floods in Doda's Bhalessa area have disrupted road connectivity to several villages, with restoration efforts underway. Meanwhile, heavy rains have forced the suspension of annual pilgrimages to Machhail Mata and Mindhal Mata shrines in Kishtwar for pilgrim safety. Authorities are urging residents to avoid vulnerable areas and media to verify information to prevent panic.",
+    "img": "https://static.toiimg.com/photo/msid-132121696,imgsize-495709.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-heavy-rains-trigger-flash-floods-in-dodas-bhalessa/articleshow/132121634.cms",
+    "time": "2026-07-01T18:02:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wimbledon 2026",
+    "desc": "With Wimbledon being the only major where she has yet to ​contest a final, Sabalenka will be hoping for another KO performance when she faces Latvia's Jelena Ostapenko ⁠for a place in the last 16",
+    "img": "https://th-i.thgim.com/public/incoming/au2bpy/article71171564.ece/alternates/LANDSCAPE_1200/2026-07-01T151029Z_2119053075_UP1EM71120O5F_RTRMADP_3_TENNIS-WIMBLEDON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/wimbledon-2026-sabalenka-channels-her-inner-rocky-to-fend-off-kessler-challenge/article71171545.ece",
+    "time": "2026-07-01T17:54:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Drop in prices of commercial LPG cylinders, aviation turbine fuel as West Asia conflict eases",
+    "desc": "In an indication of an improvement in the LPG supply situation with the four-month-long West Asia conflict at a probable end, public sector oil-marketing companies (OMCs) on Wednesday (July 1, 2026) cut the prices of commercial LPG cylinders by ₹183.5 and that of the 5 kg free trade LPG (FTL) cylinders by ₹13. This was the first reduction in the price of commercial LPG in 2026 after the rates were hiked by ₹1,345 per refill in four tranches since March 7.",
+    "img": "https://th-i.thgim.com/public/incoming/582mn3/article71171541.ece/alternates/LANDSCAPE_1200/LPG.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-drop-in-prices-of-commercial-lpg-cylinders-aviation-turbine-fuel-as-west-asia-conflict-eases/article71171543.ece",
+    "time": "2026-07-01T17:42:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Freight costs continue to be a burden for MSME exporters",
+    "desc": "The MSMEs do not have the margin to bear the steep hike in freight costs; those who export perishables are hit by the wait for containers, says V. Rangaswamy, president of the Coimbatore District Small Industries Association",
+    "img": "https://th-i.thgim.com/public/incoming/uo5hug/article71157054.ece/alternates/LANDSCAPE_1200/iStock-1418965906.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/freight-costs-continue-to-be-a-burden-for-msme-exporters/article71155027.ece",
+    "time": "2026-07-01T17:40:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala High Court dismisses petition challenging Padma Bhushan award to Vellappally Natesan",
+    "desc": "Bench held that if the SNDP general secretary is convicted in the cases filed against him, the President has the right to annul the conferment of the decoration, after which his name will be erased from the register.",
+    "img": "https://th-i.thgim.com/public/incoming/j9v92o/article71171510.ece/alternates/LANDSCAPE_1200/vellappally2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-dismisses-petition-challenging-padma-bhushan-award-to-vellappally-natesan/article71170502.ece",
+    "time": "2026-07-01T17:32:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka to set up first State-run women’s driver training institute in Bidadi",
+    "desc": "Announcing the initiative while chairing a meeting with senior officials of the Transport Department on Wednesday, Transport Minister Byrathi Suresh said that the institute would be the first initiative of its kind to be established by a State government in the country.",
+    "img": "https://th-i.thgim.com/public/incoming/x4brir/article71171511.ece/alternates/LANDSCAPE_1200/DSC_1935.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-set-up-first-state-run-womens-driver-training-institute-in-bidadi/article71170406.ece",
+    "time": "2026-07-01T17:30:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress leaders greet Akhilesh Yadav on his birthday, send signals on Opposition unity",
+    "desc": "Mallikarjun Kharge and Rahul Gandhi take to social media to wish him and reaffirm their shared commitment to social justice, inclusive development, and the Constitution; Suheldev Bharatiya Samaj Party chief Om Prakash Rajbhar advises the SP chief to give up the politics of ‘air conditioners and press conferences’",
+    "img": "https://th-i.thgim.com/public/incoming/wnjv7e/article71171505.ece/alternates/LANDSCAPE_1200/20260701393L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-leaders-greet-akhilesh-yadav-on-his-birthday-send-signals-on-opposition-unity/article71170210.ece",
+    "time": "2026-07-01T17:30:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek scripts history in 1st T20I against England, becomes fastest to...",
+    "desc": "Abhishek Sharma has shattered records in the first T20I against England, becoming the fastest Indian batter to hit 100 sixes in T20 Internationals. He achieved this remarkable feat in just 785 deliveries, surpassing Evin Lewis. Sharma's explosive innings under pressure also places him among India's top six-hitters, joining an illustrious group of Indian cricketers.",
+    "img": "https://static.toiimg.com/photo/msid-132120554,imgsize-133890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/abhishek-sharma-scripts-t20i-history-in-1st-t20i-against-england-becomes-fastest-batter-to-/articleshow/132120060.cms",
+    "time": "2026-07-01T17:24:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "117 voices appeal for peace between India and Pakistan",
+    "desc": "At least 117 prominent individuals from India and Pakistan have jointly appealed to Prime Ministers Narendra Modi and Shehbaz Sharif to revive bilateral dialogue and take steps towards lasting peace in the region. In an open letter, they called for the resumption of discussions on Jammu and Kashmir, including revisiting the framework negotiated between 2004 and 2007. They also urged both countries to pursue demilitarisation, de-escalation and address each other’s legitimate security concerns.",
+    "img": "https://th-i.thgim.com/public/incoming/5r8jsr/article71171478.ece/alternates/LANDSCAPE_1200/letter%20thumb.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-117-voices-appeal-for-peace-between-india-and-pakistan/article71171479.ece",
+    "time": "2026-07-01T17:20:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NET Sociology paper leaves candidates lost in typos",
+    "desc": "Sociology students are voicing their discontent with the latest UGC-NET exam, pointing out critical spelling mistakes, incorrect names of well-known theorists, and awkward translations in Hindi. Errors like confusing 'Ritzer' with 'Putzer' and translating 'social' as 'oval' have raised red flags. Many candidates suspect that certain questions seemed AI-generated, straying from the established syllabus and hindering their understanding during the exam.",
+    "img": "https://static.toiimg.com/photo/msid-132120314,imgsize-90108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/net-sociology-paper-leaves-candidates-lost-in-typos/articleshow/132119828.cms",
+    "time": "2026-07-01T17:10:59.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "India, EU advance cooperation on sustainable ship recycling; 3 Indian yards ready for EU recognition",
     "desc": "India and the European Union have reaffirmed their commitment to strengthening cooperation in sustainable ship recycling, with both sides expressing confidence over the progress made in facilitating the inclusion of Indian ship recycling facilities under the European Union Ship Recycling Regulation (EUSRR).",
     "img": "https://static.toiimg.com/photo/msid-132119713,imgsize-89422.cms",
@@ -9,7 +189,7 @@ const newsData_en = [
     "time": "2026-07-01T16:48:16.000Z"
   },
   {
-    "cat": "Politics",
+    "cat": "Business",
     "title": "Commercial LPG prices cut by ₹183 per refill",
     "desc": "The first price cut this year follows a hike of ₹1,345 in four tranches; no respite for domestic LPG users; ATF prices reduced by ₹5 per litre; experts sound caution, say any flare-up in West Asia could hit supply chain",
     "img": "https://th-i.thgim.com/public/incoming/fcjexo/article71169107.ece/alternates/LANDSCAPE_1200/vbk-stock-commercial-lpg-indane-ioc.jpg",
@@ -34,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/eu-india-have-adjusted-to-new-global-order-eu-ambassador-herve-delphin/articleshow/132119231.cms",
     "time": "2026-07-01T16:33:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Latest CRS data shows improving civil registration of births and deaths and better sex ratio at birth",
-    "desc": "While there is no surprise in the strong performance of Kerala (970 females per 1000 males) when it comes to sex ratio at birth, other States such as Arunachal Pradesh (1,050), Andaman and Nicobar Islands (984), Meghalaya (974), and Mizoram (972), are also top performers",
-    "img": "https://th-i.thgim.com/public/incoming/frmegm/article71171333.ece/alternates/LANDSCAPE_1200/10018_10_4_2025_17_37_46_5_BABY_05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/latest-crs-data-shows-improving-civil-registration-of-births-and-deaths-and-better-sex-ratio-at-birth/article71170783.ece",
-    "time": "2026-07-01T16:30:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -100,30 +271,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "MSC-Adani Vizhinjam port deal: State govt. approval needed for share transfer",
-    "desc": "Chief Minister V.D. Satheesan says the proposed acquisition of stake in AVPPL by MSC has come to the attention of the government through media reports. Adani port authorities had not initiated any correspondence or communication with the government in this regard",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/msc-adani-vizhinjam-port-deal-state-govt-approval-needed-for-share-transfer/article71170413.ece",
-    "time": "2026-07-01T15:25:45.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Assam floods worsen, nearly 50,000 affected across four districts",
     "desc": "Assam's flood crisis has escalated, impacting nearly 48,500 people across four districts, with Dhemaji bearing the brunt. One fatality has been reported this year. Floodwaters have submerged 179 villages, damaging crops and infrastructure, while the Brahmaputra river flows above danger levels. Relief efforts are underway, with authorities distributing essential supplies to affected residents.",
     "img": "https://static.toiimg.com/photo/msid-132118541,imgsize-1229380.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/assam-floods-worsen-nearly-50000-affected-across-four-districts/articleshow/132118559.cms",
     "time": "2026-07-01T15:17:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Deputy Chief Minister Pawan Kalyan inaugurates 18 ‘Nagara Vanams’ in Andhra Pradesh",
-    "desc": "They are the need of the hour to maintain ecological balance and ensure people have ‘green lung spaces’ where they can breathe fresh air and spend quality time in the lap of nature, he says",
-    "img": "https://th-i.thgim.com/public/incoming/p5y0rk/article71170968.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-01%20at%2019.52.05.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-chief-minister-pawan-kalyan-inaugurates-18-nagara-vanams-in-andhra-pradesh/article71170683.ece",
-    "time": "2026-07-01T15:15:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -154,7 +307,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Govt directs Meta not to roll out WhatsApp username feature, seeks explanation in 3 days",
+    "title": "Govt directs Meta not to roll out WhatsApp username feature, seeks explanation in 3 days; company reacts",
     "desc": "India's government has halted WhatsApp's new username feature, demanding a detailed explanation within three days. Officials are concerned about impersonation, fraud, and weakened accountability, as users could be misled by similar-looking usernames. Cybersecurity experts and startup founders echo these fears, warning of potential scams and a decline in public trust.",
     "img": "https://static.toiimg.com/photo/msid-132117891,imgsize-95942.cms",
     "src": "indiatimes.com",
@@ -243,15 +396,6 @@ const newsData_en = [
     "time": "2026-07-01T13:46:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ritabrata Banerjee-led TMC rebels to meet EC, stake claim on party symbol and funds",
-    "desc": "The dispute escalated after the rebel camp announced its own National Working Committee on June 22. The newly constituted body has 30 members and is supported by a 10-member sub-committee. In a significant move, the group removed Mamata Banerjee as the party's national chairperson and appointed senior MLA Arup Roy in her place.",
-    "img": "https://static.toiimg.com/photo/msid-132116807,imgsize-709052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ritabrata-banerjee-led-tmc-rebels-to-meet-ec-stake-claim-on-party-symbol-and-funds/articleshow/132116808.cms",
-    "time": "2026-07-01T13:41:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jr NTR's film with Trivikram Srinivas sparks row",
     "desc": "Jr NTR's upcoming film with director Trivikram Srinivas has ignited a cultural debate. A teaser poster, featuring a weapon resembling Lord Murugan's Vel, coupled with a producer's tagline \"Born in the North... Worshipped in the South,\" has irked Tamil netizens and devotees. They argue this misrepresents the deity's deep-rooted Tamil heritage.",
@@ -259,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/jr-ntrs-film-with-trivikram-srinivas-sparks-row-over-lord-murugans-origins-in-tagline-born-in-the-north/articleshow/132116638.cms",
     "time": "2026-07-01T13:28:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIR against five caregivers in Bengaluru daycare abuse case; Russia imports Indian gasoline as Ukraine strikes cause fuel shortages &amp; more",
-    "desc": "Disturbing videos have led to an FIR against five caregivers in Bengaluru for alleged toddler abuse at a corporate daycare. Meanwhile, Russia is importing Indian gasoline amid Ukrainian strikes impacting its fuel supply. A climate row has ignited between France and the US over air conditioning use. In Tamil Nadu politics, the TVK and DMK are trading MLA poaching allegations.",
-    "img": "https://static.toiimg.com/photo/msid-132116674,imgsize-583812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-fir-against-five-caregivers-in-bengaluru-daycare-abuse-case-russia-imports-indian-gasoline-as-ukraine-strikes-cause-fuel-shortages-more/articleshow/132116293.cms",
-    "time": "2026-07-01T13:28:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Hold NEET-UG in multiple phases, give statutory status to NTA': Parliamentary panel's key suggestions amid paper leaks row",
-    "desc": "A Parliamentary panel has recommended conducting NEET-UG in multiple phases across states to ease logistical pressures and suggested granting statutory status to the NTA for stronger examination oversight. Officials briefed the committee on the NEET re-examination's success and discussed reforms. Concerns were raised about a potential shift to Computer-Based Tests and latecomers being denied entry.",
-    "img": "https://static.toiimg.com/photo/msid-132117259,imgsize-348601.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hold-neet-ug-in-multiple-phases-give-statutory-status-to-nta-parliamentary-panels-key-suggestions-amid-paper-leaks-row/articleshow/132116656.cms",
-    "time": "2026-07-01T13:26:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Iran invites Kharge, Khurshid, Khera to Khamenei's burial ceremony",
-    "desc": "Tehran had also invited Prime Minister Narendra Modi to attend Khamenei's funeral. However, New Delhi chose Bihar governor Lt Gen Syed Ata Hasnain (Retd) and minister of state for external affairs Pabitra Margherita to represent India at the multi-day funeral, which is set to begin on July 4.",
-    "img": "https://static.toiimg.com/photo/msid-132116625,imgsize-125782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iran-invites-kharge-khurshid-khera-to-khameneis-burial-ceremony/articleshow/132115925.cms",
-    "time": "2026-07-01T13:26:24.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +486,6 @@ const newsData_en = [
     "time": "2026-07-01T12:34:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "100+ eminent Indians, Pakistanis urge PM Modi, Sharif to revive bilateral dialogue",
-    "desc": "Among the signatories are former RAW chief A S Dulat, Rajya Sabha MP Manoj Jha, moderate Hurriyat leader Mirwaiz Umar Farooq, former Union minister Mani Shankar Aiyar, former Pakistan foreign minister Khurshid Mahmud Kasuri, former diplomat Ashraf Jehangir Qazi, along with retired diplomats and members of civil society from both countries.",
-    "img": "https://static.toiimg.com/photo/msid-132115271,imgsize-150218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/100-eminent-indians-pakistanis-urge-pm-modi-sharif-to-revive-bilateral-dialogue/articleshow/132115142.cms",
-    "time": "2026-07-01T12:33:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After Stokes' retirement, Brook says he'd 'be happy to take' Test captaincy",
     "desc": "England's Test captaincy is up for grabs following Ben Stokes' retirement. White-ball skipper Harry Brook has emerged as a strong contender, expressing his eagerness to lead the team in the longest format, calling it the 'pinnacle' of the game. Brook also backed Joe Root's temporary captaincy during the recent New Zealand series, emphasizing his invaluable contribution to English cricket.",
@@ -439,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-gainers-and-losers-on-nse-bse-on-july-1-2026-check-list/articleshow/132113914.cms",
     "time": "2026-07-01T11:44:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Revisiting the Jr NTR's most powerful performances",
-    "desc": "Telugu superstar Jr NTR is set to collaborate with filmmaker Trivikram Srinivas after an eight-year hiatus, igniting fan excitement. This reunion highlights Jr NTR's remarkable versatility, showcased in acclaimed performances across genres. From the global phenomenon 'RRR' to intense dramas like 'Temper' and 'Aravinda Sametha Veera Raghava,' his career is defined by impactful roles that have cemented his star status.",
-    "img": "https://static.toiimg.com/photo/msid-132114009,imgsize-68928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/as-jr-ntr-reunites-with-trivikram-srinivas-after-8-years-revisiting-the-superstars-most-powerful-performances/articleshow/132113974.cms",
-    "time": "2026-07-01T11:31:20.000Z"
   },
   {
     "cat": "Business",
@@ -630,15 +729,6 @@ const newsData_en = [
     "time": "2026-07-01T06:21:47.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Surya gave me inputs': Shreyas reveals Suryakumar's advice before England series",
-    "desc": "Shreyas Iyer's Team India faces England in a five-match T20I series, aiming to rebound from a surprising loss to Ireland. Iyer emphasized a fearless, aggressive approach, stating the team is starting anew despite past successes. He also shared valuable insights gained from conversations with Rohit Sharma and Suryakumar Yadav, highlighting their support. Iyer also expressed gratitude to doctors for his recovery from a serious injury.",
-    "img": "https://static.toiimg.com/photo/msid-132106732,imgsize-46513.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/surya-gave-me-inputs-shreyas-iyer-reveals-suryakumar-yadavs-advice-before-england-series/articleshow/132106694.cms",
-    "time": "2026-07-01T05:16:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oil prices rise as Iran-US talks hit roadblock, supply fears return",
     "desc": "Crude oil prices edged up as stalled Iran-US talks reignited fears of Middle East supply disruptions. Despite claims of Strait of Hormuz reopening, uncertainty persists. Analysts have lowered oil price forecasts, but US inventory data and ongoing diplomatic efforts remain key market drivers. Investors await official US figures for further direction.",
@@ -774,15 +864,6 @@ const newsData_en = [
     "time": "2026-06-29T19:39:32.000Z"
   },
   {
-    "cat": "World",
-    "title": "Bihar Governor Hasnain and Minister of State Margherita likely to represent India at Khamenei’s funeral",
-    "desc": "Commentators describe the funeral in Tehran as a “big opportunity” for India to restructure its West Asia policy; they say the choice of the delegation indicate that India has not recognised the importance of the event",
-    "img": "https://th-i.thgim.com/public/incoming/l2t2sk/article71162846.ece/alternates/LANDSCAPE_1200/2026-06-13T124112Z_2147408089_RC25JLARDXEM_RTRMADP_3_IRAN-CRISIS-KHAMENEI-FUNERAL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar-governor-hasnain-and-minister-of-state-margherita-likely-to-represent-india-at-khameneis-funeral/article71162549.ece",
-    "time": "2026-06-29T18:41:24.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Tech Mahindra to deploy Perplexity AI across sales, customer-facing teams",
     "desc": "The integration of 'Perplexity Enterprise Pro' aims to equip senior sales leaders and customer partners with intelligent tools to research customer priorities efficiently, understand industry-specific challenges and identify emerging business opportunities, the company said in a statement.",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/smart-ai-caching-can-keep-the-data-flowing-when-disaster-strikes/article71157296.ece",
     "time": "2026-06-28T07:12:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The strange link between AI hallucination and creativity",
-    "desc": "A setting called temperature governs how adventurous an LLM’s outputs are. The higher the temperature, the more likely the model reaches for the less likely options and begins to surprise you. This is the dial you turn up when you want a poem instead of a weather report. The trouble is that the same dial governs hallucinations",
-    "img": "https://th-i.thgim.com/public/sci-tech/science/wutjuk/article71136852.ece/alternates/LANDSCAPE_1200/1xaedrian-salazar-hGDoyIFADHo-unsplash.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/strange-link-between-artificial-intelligence-hallucination-creativity/article71136885.ece",
-    "time": "2026-06-28T04:47:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Accenture’s revenue growth guidance cut shocks tech industry",
-    "desc": "Accenture recently narrowed its full-year 2026 revenue growth guidance to 3-4%, down from 3-5% earlier, triggering an immediate plunge in its own stock prices and throwing the rest of the global tech services industry, which is already hit by global uncertainties, into a new tizzy.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/6jkbw9/article71155409.ece/alternates/LANDSCAPE_1200/iStock-1795499144.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/accentures-revenue-growth-guidance-cut-shocks-tech-industry/article71151263.ece",
-    "time": "2026-06-27T17:06:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Amazon CEO Andy Jassy meets PM Modi; announces plans to invest additional $13 billion in India on cloud, AI",
-    "desc": "The company plans to launch more than 20 new fulfillment centers and over 100 new last mile delivery stations this year, bringing faster and reliable deliveries to customers nationwide, especially in tier 3 and 4 cities.",
-    "img": "https://th-i.thgim.com/public/incoming/q16ebs/article71145563.ece/alternates/LANDSCAPE_1200/HLpQC_wbEAAqvTK.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-meets-pm-modi-investments-2030-india-ai-cloud/article71145559.ece",
-    "time": "2026-06-25T11:51:48.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
   }
 ];

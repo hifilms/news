@@ -1,7 +1,52 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Indian lose Samson, Kishan early in powerplay",
+    "title": "Should India continue with World Cup hero Sanju Samson after series of flops or bring in Vaibhav Sooryavanshi?",
+    "desc": "Leading up to the T20 World Cup 2026, Sanju Samson lost his spot in the playing XI after a series of poor starts. Ishan Kishan was the preferred opener alongside star batter Abhishek Sharma. However,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/should-india-continue-with-world-cup-hero-sanju-samson-after-series-of-flops-or-bring-in-vaibhav-sooryavanshi-2026-07-02-1046833",
+    "time": "2026-07-01T19:36:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner breaks Italian record with win over Nuno Borges in Wimbledon, Aryna Sabalenka progresses too",
+    "desc": "Star Tennis players Jannik Sinner and Aryna Sabalenka moved into the third round of Wimbledon on Wednesday. Defending champion Sinner was pushed by Portugal's Nuno Borges before securing a 7-6(4), 7-6(2), 6-4 victory on Centre...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-breaks-italian-record-with-win-over-nuno-borges-in-wimbledon-aryna-sabalenka-progresses-too-2026-07-02-1046832",
+    "time": "2026-07-01T19:03:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nat Sciver-Brunt declared fit for Women's T20 World Cup SF vs South Africa, skipper reveals recovery journey",
+    "desc": "England have received a major shot in their arm as captain Nat Sciver-Brunt has been declared fit for their Women's T20 World Cup semifinal against South Africa on Thursday, July 2. Sciver-Brunt suffered a recurrence...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-declared-fit-for-womens-t20-world-cup-sf-vs-south-africa-skipper-reveals-recovery-journey-2026-07-02-1046831",
+    "time": "2026-07-01T18:39:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Kane rescues England, scores brace to beat Congo 2-1 in FIFA World Cup round of 32",
+    "desc": "England survived a major scare to book their place in the FIFA World Cup 2026 Round of 16. They were trailing 1-0 in the first half and fought their way back to seal a 2-1...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/harry-kane-rescues-england-scores-brace-to-beat-congo-2-1-in-fifa-world-cup-round-of-32-2026-07-02-1046829",
+    "time": "2026-07-01T18:30:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma completes 100 T20I sixes, breaks historic record during IND vs ENG 1st T20I",
+    "desc": "Abhishek Sharma etched his name into the history books as he completed 100 T20I sixes during the first match against England at the Riverside Ground, Chester-Le-Street on Wednesday, July 1. Abhishek, who was dismissed for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-completes-100-t20i-sixes-breaks-historic-record-during-ind-vs-eng-1st-t20i-2026-07-01-1046824",
+    "time": "2026-07-01T17:57:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Match has been abandoned due to rain",
     "desc": "India face England in the first T20I of the five-match series at the Riverside Ground, Chester-le-Street, as the Men in Blue look to bounce back from their 0-2 defeat to Ireland. Vaibhav Sooryavanshi missed out...",
     "img": "",
     "src": "indiatvnews.com",
@@ -19,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Congo lead 1-0 at break, VAR rejects England's appeal for penalty",
+    "title": "Harry Kane secures 2-1 win for England, set up tie with Mexico",
     "desc": "England is taking on DR Congo in the round of 32 clash of the ongoing FIFA World Cup 2026. The two sides will meet at the Atlanta Stadium in Georgia and will hope to put...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-live-streaming-details-check-when-and-where-to-watch-matches-on-tv-online-2026-07-01-1046804",
     "time": "2026-07-01T14:18:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After MLC, Ravi Ashwin joins another T20 league, named captain and mentor of Dublin Guardians",
-    "desc": "After the Major League Cricket, former India cricketer Ravichandran Ashwin has joined Dublin Guardians as the captain and mentor for the inaugural season of the European T20 Premier League (ETPL). Ashwin will be part of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/after-mlc-ravi-ashwin-joins-another-t20-league-named-captain-and-mentor-of-dublin-guardians-2026-07-01-1046792",
-    "time": "2026-07-01T12:37:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KSCA lifts three-year ban on Sreesanth; check details about the controversy",
-    "desc": "The Kerala Cricket Association (KCA) on Wednesday lifted the three-year ban on former India cricketer S Sreesanth, which it had imposed last year for his alleged defamatory remarks against the organisation. The decision was taken...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ksca-lifts-three-year-ban-on-sreesanth-check-details-about-the-controversy-2026-07-01-1046787",
-    "time": "2026-07-01T12:11:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi to make debut? Predicting India's Playing XI for 1st T20I against England",
-    "desc": "Vaibhav Sooryavanshi's much-awaited India debut has become the talk of the town. From being in awe of Abhishek Sharma and Ishan Kishan, the Indian fans have tweaked their habits as they turn their screens in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-to-make-debut-predicting-indias-playing-xi-for-1st-t20i-against-england-2026-07-01-1046775",
-    "time": "2026-07-01T10:43:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan dethrones Abhishek Sharma to become No.1 T20I batter, Ireland stars also rise",
-    "desc": "Ishan Kishan's sensational form with the bat continues, as the wicket-keeper batter stormed to the top of the ICC T20I rankings for the first time in his career on Wednesday, July 1. Kishan surpassed his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-dethrones-abhishek-sharma-to-become-no-1-t20i-batter-ireland-stars-also-rise-2026-07-01-1046764",
-    "time": "2026-07-01T09:54:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "France thump Sweden 3-0, register dominant victory to book RO16 berth",
-    "desc": "France put forth an exceptional performance against Sweden in the round of 32 stage of the ongoing FIFA World Cup 2026. The two sides met in New Jersey and as many expected France to blow...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/france-thump-sweden-3-0-register-dominant-3-0-victory-to-book-ro16-berth-2026-07-01-1046715",
-    "time": "2026-06-30T23:32:03.000Z"
   }
 ];
