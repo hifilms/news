@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Indian lose Samson, Kishan early in powerplay",
+    "desc": "India face England in the first T20I of the five-match series at the Riverside Ground, Chester-le-Street, as the Men in Blue look to bounce back from their 0-2 defeat to Ireland. Vaibhav Sooryavanshi missed out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-1st-t20i-live-cricket-score-india-vs-england-riverside-ground-chester-le-street-latest-match-updates-scorecard-teams-playing-xis-2026-07-01-1046821",
+    "time": "2026-07-01T16:44:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Vaibhav Sooryavanshi playing today for India in 1st T20I? Check Playing XIs for Chester-Le-Street clash",
+    "desc": "Vaibhav Sooryavanshi missed out on his International debut yet again as India opted to bat first against England in the opening T20I of the five-match series. Sooryavanshi was kept out of India's playing XI for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-vaibhav-sooryavanshi-playing-today-for-india-in-1st-t20i-check-playing-xis-for-chester-le-street-clash-2026-07-01-1046817",
+    "time": "2026-07-01T16:26:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Congo lead 1-0 at break, VAR rejects England's appeal for penalty",
+    "desc": "England is taking on DR Congo in the round of 32 clash of the ongoing FIFA World Cup 2026. The two sides will meet at the Atlanta Stadium in Georgia and will hope to put...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/eng-vs-cod-fifa-world-cup-2026-live-england-look-to-maintain-momentum-aim-to-make-it-to-ro16-1046815",
+    "time": "2026-07-01T15:42:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chester-le-Street pitch report for IND vs ENG 1st T20I; check details and stats of venue",
+    "desc": "India meet England for the first T20I of the five-match series at Chester-le-Street as the two teams look to bounce back from their recent defeats. The two-time defending T20 champions had a shock 2-0 loss...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chester-le-street-pitch-report-for-ind-vs-eng-1st-t20i-check-details-and-stats-of-venue-2026-07-01-1046811",
+    "time": "2026-07-01T15:20:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India vs England live streaming details, check when and where to watch matches on TV, online?",
     "desc": "India and England are all set to lock horns against each other in a five-match T20I series, as eyes are glued on the Men in Blue on how they can bounce back from a 2-0...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/france-thump-sweden-3-0-register-dominant-3-0-victory-to-book-ro16-berth-2026-07-01-1046715",
     "time": "2026-06-30T23:32:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England names playing XI for upcoming T20I clash against India, star pacer misses out",
-    "desc": "The stage is set for the first T20I of the upcoming series between India and England. The two sides will meet at Chester-le-Street on July 1 to kick off the series, and the hosts will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-names-playing-xi-for-upcoming-t20i-clash-against-india-star-pacer-misses-out-2026-07-01-1046714",
-    "time": "2026-06-30T22:29:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "France knock Sweden out, reach RO16 comfortably",
-    "desc": "France is taking on Sweden in the round of 32 of the ongoing FIFA World Cup 2026. The two sides meet at the New York New Jersey Stadium in East Rutherford, and both sides will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fra-vs-swe-fifa-world-cup-2026-live-france-look-to-continue-winning-momentum-in-ro32-clash-1046713",
-    "time": "2026-06-30T20:40:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Norway knock Ivory Coast out of FIFA World Cup 2026 with narrow 2-1 victory",
-    "desc": "Norway and Ivory Coast locked horns in the round of 32 of the ongoing FIFA World Cup 2026. The two sides met at the Dallas Stadium in Arlington, and it was Norway who managed to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/norway-knock-ivory-coast-out-of-fifa-world-cup-2026-with-narrow-2-1-victory-2026-07-01-1046712",
-    "time": "2026-06-30T19:37:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia book ticket to Women's World Cup 2026 final, register dominant 8-wicket win against West Indies",
-    "desc": "Australia put forth a dominant performance against the West Indies in the 1st semi-final of the ongoing Women’s T20 World Cup 2026. The two sides met at The Oval on June 30th, and Australia managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-book-ticket-to-women-s-world-cup-2026-final-register-dominant-8-wicket-win-against-west-indies-2026-06-30-1046710",
-    "time": "2026-06-30T18:20:19.000Z"
   }
 ];

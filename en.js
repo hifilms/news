@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "India, EU advance cooperation on sustainable ship recycling; 3 Indian yards ready for EU recognition",
+    "desc": "India and the European Union have reaffirmed their commitment to strengthening cooperation in sustainable ship recycling, with both sides expressing confidence over the progress made in facilitating the inclusion of Indian ship recycling facilities under the European Union Ship Recycling Regulation (EUSRR).",
+    "img": "https://static.toiimg.com/photo/msid-132119713,imgsize-89422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-eu-advance-cooperation-on-sustainable-ship-recycling-3-indian-yards-ready-for-eu-recognition/articleshow/132119296.cms",
+    "time": "2026-07-01T16:48:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Commercial LPG prices cut by ₹183 per refill",
+    "desc": "The first price cut this year follows a hike of ₹1,345 in four tranches; no respite for domestic LPG users; ATF prices reduced by ₹5 per litre; experts sound caution, say any flare-up in West Asia could hit supply chain",
+    "img": "https://th-i.thgim.com/public/incoming/fcjexo/article71169107.ece/alternates/LANDSCAPE_1200/vbk-stock-commercial-lpg-indane-ioc.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/petrol-diesel-lpg-prices-latest-global-oil-rates-cool-down-updates/article71168502.ece",
+    "time": "2026-07-01T16:45:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Naomi Osaka turns Wimbledon into a runway with stunning kimono-inspired look",
+    "desc": "Naomi Osaka made a striking fashion statement at Wimbledon, arriving in a kimono-inspired outfit before a dominant 6-3, 6-2 victory over Anastasia Gasanova. Her bold style, influenced by Tokyo's Harajuku district, amplifies her on-court performance, turning every walk-on into a captivating display. Osaka embraces the spotlight, using fashion to express her identity as she advances through the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-132119556,imgsize-181304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/naomi-osaka-turns-wimbledon-into-a-runway-with-stunning-kimono-inspired-look/articleshow/132119561.cms",
+    "time": "2026-07-01T16:39:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EU, India have adjusted to new global order: EU Ambassador Herve Delphin",
+    "desc": "The European Union and India have adjusted and recalibrated their approach to a rapidly evolving global order shaped by multiple geopolitical and economic shocks, Ambassador of the Delegation of the European Union to India Herve Delphin said on Wednesday, as he highlighted the concept of strategic autonomy amid growing global uncertainties.",
+    "img": "https://static.toiimg.com/photo/msid-132119516,imgsize-43796.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eu-india-have-adjusted-to-new-global-order-eu-ambassador-herve-delphin/articleshow/132119231.cms",
+    "time": "2026-07-01T16:33:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Latest CRS data shows improving civil registration of births and deaths and better sex ratio at birth",
+    "desc": "While there is no surprise in the strong performance of Kerala (970 females per 1000 males) when it comes to sex ratio at birth, other States such as Arunachal Pradesh (1,050), Andaman and Nicobar Islands (984), Meghalaya (974), and Mizoram (972), are also top performers",
+    "img": "https://th-i.thgim.com/public/incoming/frmegm/article71171333.ece/alternates/LANDSCAPE_1200/10018_10_4_2025_17_37_46_5_BABY_05.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/latest-crs-data-shows-improving-civil-registration-of-births-and-deaths-and-better-sex-ratio-at-birth/article71170783.ece",
+    "time": "2026-07-01T16:30:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anil Sharma reveals Kajol and Aishwarya were approached for Gadar",
+    "desc": "Ek Prem Katha before newcomer Ameesha Patel was eventually cast as Sakina. The filmmaker also explained why several established actresses chose not to be a part of the film and how Ameesha's dedication made her the perfect choice.",
+    "img": "https://static.toiimg.com/photo/msid-132119378,imgsize-74001.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-sharma-reveals-kajol-and-aishwarya-rai-were-approached-for-gadar-before-ameesha-patel-chose-amrish-puri-over-a-big-heroine/articleshow/132119279.cms",
+    "time": "2026-07-01T16:23:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s Gagan now finds uses in other fields like marine navigation",
+    "desc": "India has achieved a significant milestone with its Gagan satellite navigation system, becoming the first to be certified for the equatorial region. This advanced system, operational since 2015, enhances GPS accuracy and reliability, bolstering aviation safety and finding crucial applications in maritime navigation, telecommunications, and disaster management, reinforcing India's technological self-reliance.",
+    "img": "https://static.toiimg.com/photo/msid-132119280,imgsize-860095.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/beyond-the-sky-indias-gagan-now-finds-uses-in-other-fields-like-marine-navigation/articleshow/132119275.cms",
+    "time": "2026-07-01T16:17:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India opt to bat vs England; Varun returns, Sooryavanshi waits for debut",
+    "desc": "India's captain Shreyas Iyer won the toss and chose to bat first in the opening T20I against England. The team features three spinners and welcomes back Varun Chakaravarthy. Iyer expressed excitement for a fresh start after the Ireland series. England's captain Harry Brook, while preferring to bowl, is confident in his balanced squad, with Luke Wood and Saqib Mahmood set to play.",
+    "img": "https://static.toiimg.com/photo/msid-132119268,imgsize-104124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/india-opt-to-bat-in-1st-t20i-vs-england-varun-chakaravarthy-returns-vaibhav-sooryavanshi-waits-for-debut/articleshow/132119244.cms",
+    "time": "2026-07-01T16:15:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Japan’s PM Takaichi in India: Indo-Pacific Ties in Focus",
+    "desc": "This episode looks at the Japanese Prime Minister Sanae Takaichi’s first visit to India; key rule changes that come into effect from July 1, the Delhi High Court’s ruling in BJP MP Raghav Chadha’s case, the U.S. Supreme Court’s birthright citizenship ruling, and more.",
+    "img": "https://th-i.thgim.com/public/news/national/pq88z1/article71171219.ece/alternates/LANDSCAPE_1200/July%201%20THUMB.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-japans-pm-takaichi-in-india-indo-pacific-ties-in-focus-above-the-fold-01072026/article71171224.ece",
+    "time": "2026-07-01T16:01:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia Bhatt gives a witty comeback to being paid for IGL 2",
+    "desc": "Alia Bhatt, who has been busy promoting her upcoming film Alpha, recently addressed her appearance on Samay Raina's India's Got Latent 2 with a humorous response that left fans amused. The actress, who appeared on the show's premiere episode alongside her Alpha co-star Sharvari, playfully responded to a question about whether she was paid for her appearance.",
+    "img": "https://static.toiimg.com/photo/msid-132118867,imgsize-79913.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kaun-bola-alia-bhatt-gives-a-witty-comeback-to-being-paid-for-her-appearance-on-samay-rainas-indias-got-latent-2/articleshow/132118840.cms",
+    "time": "2026-07-01T15:52:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Targeted act of vandalism': India condemns reported demolition of 125-year-old gurdwara in Pakistan",
+    "desc": "India has strongly condemned the reported demolition of a 125-year-old Sikh Gurdwara in Pakistan's Farooqabad, terming it a \"targeted act of vandalism.\" The Ministry of External Affairs expressed grave concern over the lack of action by local authorities and the Evacuee Trust Property Board. This incident is seen as part of a continuing pattern of attacks on religious minorities and their places of worship in Pakistan.",
+    "img": "https://static.toiimg.com/photo/msid-132118956,imgsize-88187.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/targeted-act-of-vandalism-india-condemns-reported-demolition-of-125-year-old-gurdwara-in-pakistan/articleshow/132118639.cms",
+    "time": "2026-07-01T15:28:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MSC-Adani Vizhinjam port deal: State govt. approval needed for share transfer",
+    "desc": "Chief Minister V.D. Satheesan says the proposed acquisition of stake in AVPPL by MSC has come to the attention of the government through media reports. Adani port authorities had not initiated any correspondence or communication with the government in this regard",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/msc-adani-vizhinjam-port-deal-state-govt-approval-needed-for-share-transfer/article71170413.ece",
+    "time": "2026-07-01T15:25:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Assam floods worsen, nearly 50,000 affected across four districts",
+    "desc": "Assam's flood crisis has escalated, impacting nearly 48,500 people across four districts, with Dhemaji bearing the brunt. One fatality has been reported this year. Floodwaters have submerged 179 villages, damaging crops and infrastructure, while the Brahmaputra river flows above danger levels. Relief efforts are underway, with authorities distributing essential supplies to affected residents.",
+    "img": "https://static.toiimg.com/photo/msid-132118541,imgsize-1229380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-floods-worsen-nearly-50000-affected-across-four-districts/articleshow/132118559.cms",
+    "time": "2026-07-01T15:17:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Deputy Chief Minister Pawan Kalyan inaugurates 18 ‘Nagara Vanams’ in Andhra Pradesh",
+    "desc": "They are the need of the hour to maintain ecological balance and ensure people have ‘green lung spaces’ where they can breathe fresh air and spend quality time in the lap of nature, he says",
+    "img": "https://th-i.thgim.com/public/incoming/p5y0rk/article71170968.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-01%20at%2019.52.05.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-chief-minister-pawan-kalyan-inaugurates-18-nagara-vanams-in-andhra-pradesh/article71170683.ece",
+    "time": "2026-07-01T15:15:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Australian music industry writes a letter to government",
+    "desc": "Australian music bodies are strongly opposing the unauthorized use of their artists' work to train AI models. A coalition of industry groups has penned a letter to the government, demanding robust copyright protection and stricter measures against such exploitation. This action follows reports of numerous Australian musicians' creations being incorporated into AI datasets without consent or compensation, mirroring similar concerns raised by the UK music industry.",
+    "img": "https://static.toiimg.com/photo/msid-132118104,imgsize-266082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/australian-music-industry-writes-a-letter-to-stand-against-unauthorised-use-of-creativity-by-ai-data-centres/articleshow/132118118.cms",
+    "time": "2026-07-01T15:01:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PM Narendra Modi pays tribute to Vijaya Mehta as she passes away at 91",
+    "desc": "Legendary Marathi theatre icon Vijaya Mehta, affectionately known as \"Bai,\" has passed away in Mumbai at 91. A pioneer of modern Marathi theatre and a significant figure in parallel cinema, Mehta's influential career spanned over six decades. Her dedication to artistic excellence and groundbreaking work inspired generations of performers and filmmakers. Prime Minister Modi mourned her loss, acknowledging her towering presence in India's cultural landscape.",
+    "img": "https://static.toiimg.com/photo/msid-132118067,imgsize-332130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pm-narendra-modi-pays-tribute-to-vijaya-mehta-as-she-passes-away-at-91-calls-her-a-pioneer-of-modern-marathi-theatre/articleshow/132118064.cms",
+    "time": "2026-07-01T14:55:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Japanese PM Sanae Takaichi arrives in India for three-day official visit",
+    "desc": "Japanese Prime Minister Sanae Takaichi is in New Delhi for a three-day visit, aiming to bolster economic security and strengthen supply chains, particularly in semiconductors and critical minerals. Discussions with Prime Minister Narendra Modi will also cover regional and global issues, including the Indo-Pacific, where India is seen as a vital partner. This visit follows PM Modi's trip to Tokyo last year, reaffirming a robust Special Strategic and Global Partnership.",
+    "img": "https://static.toiimg.com/photo/msid-132117994,imgsize-1005623.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/japanese-pm-sanae-takaichi-arrives-in-india-for-three-day-official-visit/articleshow/132117986.cms",
+    "time": "2026-07-01T14:49:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt directs Meta not to roll out WhatsApp username feature, seeks explanation in 3 days",
+    "desc": "India's government has halted WhatsApp's new username feature, demanding a detailed explanation within three days. Officials are concerned about impersonation, fraud, and weakened accountability, as users could be misled by similar-looking usernames. Cybersecurity experts and startup founders echo these fears, warning of potential scams and a decline in public trust.",
+    "img": "https://static.toiimg.com/photo/msid-132117891,imgsize-95942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-directs-meta-not-to-roll-out-whatsapp-username-feature-seeks-explanation-in-3-days/articleshow/132117630.cms",
+    "time": "2026-07-01T14:37:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India, Japan to sign LNG security pact during PM Modi-Takaichi bilateral",
+    "desc": "India and Japan are set to sign a crucial agreement to bolster liquefied natural gas (LNG) supply security, aiming to counter global disruptions. A joint task force is anticipated to coordinate stockpiling and enhance energy cooperation. The summit, focusing on economic security and resilient supply chains, will also cover critical minerals, AI, and semiconductors, with significant private sector investments expected.",
+    "img": "https://static.toiimg.com/photo/msid-132117563,imgsize-947315.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-japan-to-sign-lng-security-pact-during-pm-modi-takaichi-bilateral/articleshow/132117357.cms",
+    "time": "2026-07-01T14:35:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matt Damon, Zendaya &amp; Tom shine in Christopher Nolan's 'The Odyssey'",
+    "desc": "Christopher Nolan's 'The Odyssey' trailer has ignited excitement, showcasing a mythological epic with stunning visuals and intense action. Matt Damon, Zendaya, and Tom Holland lead a stellar cast, delivering powerful performances. Shot with IMAX technology, the film promises a grand cinematic experience, set for a global release on July 17, 2026, bringing Homer's ancient tale to life.",
+    "img": "https://static.toiimg.com/photo/msid-132117432,imgsize-55036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-trailer-matt-damon-zendaya-and-tom-holland-shine-in-christopher-nolan-helmed-mythological-epic/articleshow/132117413.cms",
+    "time": "2026-07-01T14:29:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kathy Griffin claims Jimmy Fallon banned her from the show",
+    "desc": "Kathy Griffin has publicly criticized Jimmy Fallon, suggesting she's been banned from his talk show for being 'too controversial.' She questioned his decision to host UFC fighter Conor McGregor, who was found liable for sexual assault, arguing it sends a harmful message to women and marginalized communities. The comedian believes perpetrators are being glorified while those who genuinely deserve to be 'cancelled' are overlooked.",
+    "img": "https://static.toiimg.com/photo/msid-132117378,imgsize-251487.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/comedian-kathy-griffin-claims-being-banned-from-jimmy-fallons-show-what-kind-of-message-are-we-sending-here/articleshow/132117350.cms",
+    "time": "2026-07-01T14:24:10.000Z"
+  },
+  {
     "cat": "World",
     "title": "Jammu and Kashmir should become a ‘bridge of peace’ between India and Pakistan: Mehbooba Mufti",
     "desc": "Peoples Democratic Party president Mehbooba Mufti on July 1 suggested that the Centre make Jammu and Kashmir a gateway between South and Central Asia, and use its geographical location to strengthen ties with Pakistan and China.",
@@ -46,15 +235,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Tourism Minister Kandula Durgesh questions Jagan’s ‘inconsistent stand’ over capital city",
-    "desc": "The YSRCP leader has initially supported Amaravati as capital city, then mooted three capitals and is now broaching ‘MAVIGUN’, observes the Tourism Minister, stating that the capital city is not a political slogan but the future and self-respect of the people of Andhra Pradesh",
-    "img": "https://th-i.thgim.com/public/incoming/acvb54/article71170449.ece/alternates/LANDSCAPE_1200/Andhra-Pradesh-GV4FM8M2U.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tourism-minister-kandula-durgesh-questions-jagans-inconsistent-stand-over-capital-city/article71169913.ece",
-    "time": "2026-07-01T13:51:03.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Global AMR Fund picks 12 Indian innovations to tackle antibiotic resistance in environment",
     "desc": "In a significant stride against antimicrobial resistance (AMR), twelve Indian startups and research institutions have received funding and mentorship through a collaborative India-UK initiative. This program is dedicated to spearheading the development of ground-breaking technologies aimed at detecting, preventing, and treating antibiotic-resistant bacteria in environmental resources like soil and water, thereby translating laboratory innovations into viable commercial solutions to tackle a pressing public health issue.",
     "img": "https://static.toiimg.com/photo/msid-132116848,imgsize-118236.cms",
@@ -70,24 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ritabrata-banerjee-led-tmc-rebels-to-meet-ec-stake-claim-on-party-symbol-and-funds/articleshow/132116808.cms",
     "time": "2026-07-01T13:41:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "U.P. BJP tries to shore up women voter numbers with SIR leaving wide gender gap",
-    "desc": "In many districts, women who have married into districts other than their own still find that they have not been added to either their native district or that of their in-laws, said a source from the BJP",
-    "img": "https://th-i.thgim.com/public/incoming/qmh5eo/article71170340.ece/alternates/LANDSCAPE_1200/Political-partiGT2G0M0DN.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-bjp-tries-to-shore-up-women-voter-numbers-with-sir-leaving-wide-gender-gap/article71169972.ece",
-    "time": "2026-07-01T13:34:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Minister Aadhav Arjuna invites complaints over alleged PWD, Highways contract irregularities under previous regimes",
-    "desc": "The identities of complainants will be kept confidential, and they will be provided with the necessary legal protection. Appropriate legal steps will be taken to recover the money they have lost at the earliest, said Mr. Arjuna.",
-    "img": "https://th-i.thgim.com/public/incoming/hzfefi/article71170128.ece/alternates/LANDSCAPE_1200/DSC_6671.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-aadhav-arjuna-invites-complaints-over-alleged-pwd-highways-contract-irregularities-under-previous-regimes/article71169672.ece",
-    "time": "2026-07-01T13:30:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -126,15 +288,6 @@ const newsData_en = [
     "time": "2026-07-01T13:26:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "T.N. Minister Nirmalkumar accuses DMK’s Senthilbalaji of attempting to lure TVK MLAs",
-    "desc": "Mr. Nirmalkumar claimed several TVK MLAs were approached by the DMK telling it intended to move a no-confidence motion against the Speaker in the next Assembly session and asked them to vote in support of it. One of the TVK MLAs lodged a complaint, based on which three persons were arrested.",
-    "img": "https://th-i.thgim.com/public/incoming/p8q5r3/article71169689.ece/alternates/LANDSCAPE_1200/11658_25_6_2026_14_7_55_3__DSC8821.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-nirmalkumar-accuses-mk-stalin-udhayanidhi-of-tasking-senthilbalaji-to-lure-tvk-mlas-with-money-to-topple-govt/article71169559.ece",
-    "time": "2026-07-01T13:26:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Haaland scores, then dons cowboy gear before unleashing his inner Viking",
     "desc": "Norway's star striker Erling Haaland celebrated his team's FIFA World Cup Round of 16 qualification with a series of fun social media posts, including cowboy and Viking themes. His dramatic 86th-minute winner against Ivory Coast secured their spot, making him the fastest to 60 international goals for Norway. They now face Brazil in the next round.",
@@ -142,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/erling-haaland-scores-then-dons-cowboy-gear-before-unleashing-his-inner-viking/articleshow/132116148.cms",
     "time": "2026-07-01T13:13:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Red alert for heavy rain in coastal Karnataka on July 2-3",
-    "desc": "Karnataka State Natural Disaster Monitoring Centre (KSNDMC) stated that coastal Karnataka recorded 53 mm rainfall in 24 hours ending at 8.30 a.m. on July 1 against the normal rainfall of 41 mm for the same period",
-    "img": "https://th-i.thgim.com/public/incoming/w18gj3/article71169919.ece/alternates/LANDSCAPE_1200/01_mn%20Rains%201.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Mangalore/red-alert-for-heavy-rain-in-coastal-karnataka-on-july-2-3/article71169875.ece",
-    "time": "2026-07-01T13:13:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -306,24 +450,6 @@ const newsData_en = [
     "time": "2026-07-01T11:31:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vikram and Gautham Menon's 'Dhruva Natchathiram' gets extra deadline",
-    "desc": "The Madras High Court has granted 'Dhruva Natchathiram' an extended release deadline of July 31. This long-delayed spy thriller, starring Vikram and directed by Gautham Menon, faced further postponement due to financial disputes. The court's decision offers renewed hope for fans eager to see the ambitious project finally reach theatres after years of uncertainty and legal hurdles.",
-    "img": "https://static.toiimg.com/photo/msid-132113834,imgsize-226952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vikram-and-gautham-menons-dhruva-natchathiram-gets-extra-deadline-court-grants-more-time-for-release/articleshow/132113813.cms",
-    "time": "2026-07-01T11:17:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brenda Harvey Richie shares update about Lionel Richie’s health",
-    "desc": "After a concerning episode during a concert where veteran singer Lionel Richie experienced dizziness, there's good news for his fans. His ex-wife, Brenda Harvey Richie, took to social media to assure everyone that he is doing well and preparing to return to the stage soon. The incident has unfortunately led to the postponement of two of his tour dates while he recuperates.",
-    "img": "https://static.toiimg.com/photo/msid-132113378,imgsize-94420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lionel-is-ok-brenda-harvey-richie-breaks-silence-on-ex-husbands-on-stage-hospitalization-after-collapsing-during-dancing-on-the-ceiling/articleshow/132113121.cms",
-    "time": "2026-07-01T11:08:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why managing fiscal is a tightrope for State governments",
     "desc": "Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation. In Kerala, such spending has driven social progress since the 1960s. The gap between expenditure and receipts is usually financed through market borrowings.",
@@ -342,15 +468,6 @@ const newsData_en = [
     "time": "2026-07-01T10:58:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Is the man in the video Khushbu's daughter Anandita's boyfriend?",
-    "desc": "A viral video from Khushbu Sundar's daughter Avanthika's wedding has sparked speculation about her younger daughter Anandita's personal life. The clip shows Anandita affectionately feeding a young man, leading many to believe he is her boyfriend. However, the family has not confirmed the relationship, and some suggest he could be a friend or relative. Anandita, meanwhile, is focused on her filmmaking career.",
-    "img": "https://static.toiimg.com/photo/msid-132113022,imgsize-204710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/is-the-man-in-the-video-khushbus-daughter-ananditas-boyfriend-viral-clip-from-avanthikas-wedding-sparks-debate/articleshow/132113001.cms",
-    "time": "2026-07-01T10:55:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We are starting from zero again': Shreyas Iyer reveals Gambhir's message",
     "desc": "Shreyas Iyer embraces his new role as India's T20I captain, viewing it as a childhood dream realized. Despite a tough start in Ireland, Iyer is focused on instilling a fearless, aggressive brand of cricket. He aims to build a fresh team identity, learning from past experiences and the support staff to forge a relentless and determined unit ready for the challenges ahead.",
@@ -358,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/we-are-starting-from-zero-again-shreyas-iyer-reveals-gautam-gambhirs-message/articleshow/132112786.cms",
     "time": "2026-07-01T10:52:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bobby Deol reunites with Prakash Jha for 'Ek Badnaam... Aashram' S4",
-    "desc": "Get ready for more of Baba Nirala's controversial reign! Prakash Jha's hit crime drama, 'Ek Badnaam... Aashram', is set to begin filming its fourth season in mid-August 2026. Bobby Deol returns as the enigmatic godman, alongside Aaditi Pohankar and Chandan Roy Sanyal, continuing the gripping saga. Fans eagerly await the next chapter, with the season's conclusion still a mystery.",
-    "img": "https://static.toiimg.com/photo/msid-132112883,imgsize-192700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/bobby-deol-reunites-with-prakash-jha-for-ek-badnaam-aashram-season-4-gears-up-for-august-shoot-reports/articleshow/132112893.cms",
-    "time": "2026-07-01T10:45:12.000Z"
   },
   {
     "cat": "Sports",
@@ -385,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/netizens-wonder-how-did-anushka-sharmas-dress-get-longer-in-the-picture-posted-by-shikhar-dhawans-wife-also-featuring-virat-kohli-how-in-the-world/articleshow/132111871.cms",
     "time": "2026-07-01T10:03:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre issues show cause notice to Delhi Gymkhana Club in eviction proceedings",
-    "desc": "According to the notice, the Club's continued occupation of the land after the government resumed possession for a public purpose amounts to \"unauthorized occupation\" under Section 2(g) of the Public Premises (Eviction of Unauthorized Occupants) Act, 1971. The government has maintained that the President of India exercised powers under Clause 4 of the perpetual lease deed, which allows the lessor to resume the property if it is required for a public purpose.",
-    "img": "https://static.toiimg.com/photo/msid-132111923,imgsize-171535.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-issues-show-cause-notice-to-delhi-gymkhana-club-in-eviction-proceedings/articleshow/132111743.cms",
-    "time": "2026-07-01T10:01:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Subodh Bhave to star opposite Kangana Ranaut",
-    "desc": "Subodh Bhave, the celebrated Marathi star, is gearing up to feature alongside Kangana Ranaut in the highly anticipated film 'Queen 2'. Sources indicate that Bhave will play the role of Ranaut's husband and their on-screen child featured in the wrap-up images will be their son. With shooting wrapped and post-production underway, fans are thrilled to see Kangana's beloved character Rani make a return. However, the official release date remains unannounced.",
-    "img": "https://static.toiimg.com/photo/msid-132111850,imgsize-118158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/subodh-bhave-to-star-opposite-kangana-ranaut-in-vikas-bahls-queen-2-exclusive/articleshow/132111659.cms",
-    "time": "2026-07-01T10:00:31.000Z"
   },
   {
     "cat": "Sports",
@@ -441,15 +531,6 @@ const newsData_en = [
     "time": "2026-07-01T08:55:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Portrayed as Lord Krishna': BJP slams Samajwadi Party for 'mocking Hindus' over Akhilesh's birthday havan",
-    "desc": "The BJP has strongly criticized the Samajwadi Party, accusing them of disrespecting Hindus after workers depicted Akhilesh Yadav as Lord Krishna during a birthday ritual. This accusation comes amid controversy over alleged Ram Temple donation irregularities. Uttar Pradesh Chief Minister Yogi Adityanath also attacked Yadav, urging him to visit the Ram Temple and recalling past SP actions against devotees.",
-    "img": "https://static.toiimg.com/photo/msid-132110339,imgsize-119510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/portrayed-as-lord-krishna-bjp-slams-samajwadi-party-for-mocking-hindus-over-akhileshs-birthday-havan/articleshow/132110287.cms",
-    "time": "2026-07-01T08:40:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mexico become first team since Italy in 1990 to ...",
     "desc": "Mexico have achieved a historic feat at the FIFA World Cup 2026, becoming the first team since 1990 to win their opening four matches without conceding a goal. A 2-0 victory over Ecuador secured their first knockout-stage win in 40 years, with Julián Quiñones and Raúl Jiménez scoring. This remarkable defensive and offensive performance positions them as strong contenders as they advance to the Round of 16.",
@@ -466,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/delhi-ev-policy-2026-financial-incentives-digital-transparency-and-key-changes-explained/articleshow/132109377.cms",
     "time": "2026-07-01T08:07:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where and How to Watch England vs DR Congo, USA vs Bosnia, Belgium vs Senegal Live",
-    "desc": "Three Round of 32 matches headline the FIFA World Cup today schedule on July 1, 2026. England face DR Congo in Atlanta at noon ET, Belgium take on Senegal in Seattle at 4 p.m. ET, and the United States meet Bosnia and Herzegovina in Santa Clara at 8 p.m. ET. Here is every kickoff time, TV channel, and how to watch live.",
-    "img": "https://static.toiimg.com/photo/msid-132110980,imgsize-515674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-today-schedule-where-and-how-to-watch-england-vs-dr-congo-usa-vs-bosnia-belgium-vs-senegal-live/articleshow/132109108.cms",
-    "time": "2026-07-01T07:41:00.000Z"
   },
   {
     "cat": "Sports",
@@ -559,39 +631,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘More important than WC’: Mbappe's tribute to Deschamps after coach’s mother’s death",
-    "desc": "Kylian Mbappé's emotional tribute to head coach Didier Deschamps, who returned after his mother's passing, highlighted France's unity as they secured a World Cup 2026 Round of 16 spot. Mbappé dedicated a goal to Deschamps, emphasizing that 'things are more important than a World Cup.' The team's solidarity deeply moved Deschamps, who praised their unwavering support during his difficult time.",
-    "img": "https://static.toiimg.com/photo/msid-132107290,imgsize-105100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/more-important-than-a-world-cup-mbappe-pays-emotional-tribute-to-deschamps-after-coachs-mothers-death/articleshow/132107183.cms",
-    "time": "2026-07-01T05:57:57.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Surya gave me inputs': Shreyas reveals Suryakumar's advice before England series",
     "desc": "Shreyas Iyer's Team India faces England in a five-match T20I series, aiming to rebound from a surprising loss to Ireland. Iyer emphasized a fearless, aggressive approach, stating the team is starting anew despite past successes. He also shared valuable insights gained from conversations with Rohit Sharma and Suryakumar Yadav, highlighting their support. Iyer also expressed gratitude to doctors for his recovery from a serious injury.",
     "img": "https://static.toiimg.com/photo/msid-132106732,imgsize-46513.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/surya-gave-me-inputs-shreyas-iyer-reveals-suryakumar-yadavs-advice-before-england-series/articleshow/132106694.cms",
     "time": "2026-07-01T05:16:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kylian Mbappe joins Lionel Messi at the top",
-    "desc": "Kylian Mbappe's stellar performance, including two goals against Sweden, propels France into the World Cup Round of 16. He now shares the Golden Boot lead with Lionel Messi, boasting six tournament goals. Mbappe's remarkable World Cup scoring record continues to grow, solidifying his status as a top match-winner. France's dominant form sets them up for a deep tournament run, with the Golden Boot race intensifying.",
-    "img": "https://static.toiimg.com/photo/msid-132106498,imgsize-196341.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-golden-boot-race-kylian-mbappe-joins-lionel-messi-at-the-top-after-sweden-brace/articleshow/132106383.cms",
-    "time": "2026-07-01T05:07:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Making India’s auto tax framework fit for the next gear",
-    "desc": "As GST completes nine years, the focus may now shift from implementation to the future. The next phase of reforms may ensure that India’s tax system keeps pace with the changing needs of the automotive industry.",
-    "img": "https://static.toiimg.com/photo/msid-132105470,imgsize-628542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gst-at-9-making-indias-auto-tax-framework-fit-for-the-next-gear/articleshow/132105281.cms",
-    "time": "2026-07-01T04:55:00.000Z"
   },
   {
     "cat": "Business",
@@ -603,15 +648,6 @@ const newsData_en = [
     "time": "2026-07-01T04:43:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Mexico end 40-year knockout curse, beat Ecuador 2-0 to reach last 16",
-    "desc": "Mexico have finally broken their four-decade World Cup knockout jinx, defeating Ecuador 2-0 to advance to the Round of 16. Goals from Julián Quiñones and Raúl Jiménez sealed the historic victory, ending an eight-game streak of eliminations. The win, despite a weather delay, marks Mexico's first knockout success since 1986, with young Gilberto Mora and veteran Jiménez setting personal milestones.",
-    "img": "https://static.toiimg.com/photo/msid-132105888,imgsize-203906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/mexico-vs-ecuador-fifa-world-cup-match-report-el-tri-end-40-year-knockout-curse-beat-ecuador-2-0-to-reach-last-16/articleshow/132105893.cms",
-    "time": "2026-07-01T04:25:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nayara Energy cuts petrol by Rs 5 per litre, diesel by Rs 3; first fuel price reduction in over 2 years",
     "desc": "Nayara Energy, India's largest private fuel retailer, has slashed petrol prices by Rs 5 and diesel by Rs 3 per litre nationwide. This marks the first price reduction by any fuel retailer in over two years, driven by easing Middle East tensions and falling international crude oil prices. While Nayara passed on the benefits, state-run companies kept rates unchanged.",
@@ -619,24 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nayara-energy-cuts-petrol-by-rs-5-per-litre-diesel-by-rs-3-first-fuel-price-reduction-in-over-2-years/articleshow/132104211.cms",
     "time": "2026-07-01T04:06:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "From supply chain efficiency to capital efficiency in FMCG",
-    "desc": "One of the most notable achievements of GST has been the reduction in the tax burden on several mass-consumption products. Over the years, the GST Council has rationalized tax rates on a range of FMCG products, making essential goods more affordable for consumers.",
-    "img": "https://static.toiimg.com/photo/msid-132105149,imgsize-388553.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nine-years-of-gst-from-supply-chain-efficiency-to-capital-efficiency-in-fmcg/articleshow/132105127.cms",
-    "time": "2026-07-01T03:27:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Commercial LPG cylinder prices slashed by Rs 183.50 from July 1: Check city-wise rates",
-    "desc": "Commercial LPG prices have seen a significant drop of Rs 183.50 effective July 1, bringing relief to businesses like hotels and vendors. A 19 kg cylinder now costs Rs 2930 in Delhi. Meanwhile, prices for household cylinders remain unchanged. This follows a price hike in June attributed to supply issues.",
-    "img": "https://static.toiimg.com/photo/msid-132105111,imgsize-1062648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/commercial-lpg-cylinder-prices-slashed-by-rs-183-50-from-july-1-check-city-wise-rates/articleshow/132104670.cms",
-    "time": "2026-07-01T03:23:08.000Z"
   },
   {
     "cat": "Sports",
@@ -655,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/venezuela-earthquakes-death-toll-nearly-touches-2000-as-healthcare-system-nears-its-limit/article71167382.ece",
     "time": "2026-07-01T00:06:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bollywood's biggest shocks in the first half of 2026",
-    "desc": "Bollywood has always thrived on surprises, but the first half of 2026 took things to another level. The year was packed with headlines that left fans stunned, sparked endless debates on social media and dominated entertainment news cycles for weeks. From unexpected wedding announcements and heartwarming pregnancy news to legal battles, industry controversies and the loss of a legendary icon, the Hindi film industry experienced moments that will be remembered for years to come.",
-    "img": "https://static.toiimg.com/photo/msid-132103359,imgsize-31058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bollywoods-biggest-shocks-in-the-first-half-of-2026-from-asha-bhosles-demise-and-aamir-khans-wedding-to-ranveer-singhs-don-3-controversy/photostory/132103359.cms",
-    "time": "2026-06-30T23:03:13.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
