@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Rabbi says AR Rahman's communal bias claim 'probably does exist'",
+    "desc": "Singer-songwriter Rabbi Shergill, best known for Bulla Ki Jaana and Tere Bin, has shared his views on music composer AR Rahman's recent remarks hinting at communal bias in the entertainment industry, saying it is difficult to ignore the larger socio-political reality. He also referred to films such as The Kashmir Files and The Kerala Story to explain his point of view.",
+    "img": "https://static.toiimg.com/photo/msid-132124581,imgsize-68483.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rabbi-shergill-says-ar-rahmans-communal-bias-claim-probably-does-exist-points-to-the-kashmir-files-and-the-kerala-story-take-him-at-his-word/articleshow/132124394.cms",
+    "time": "2026-07-01T21:38:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mexico could face FIFA punishment as infamous chant returns despite official ban during Ecuador victory",
+    "desc": "Mexico reached the FIFA World Cup 2026 Round of 16 with a 2-0 victory over Ecuador, ending a 40-year wait for a home knockout win. However, celebrations were overshadowed after the controversial \"puto\" chant resurfaced from sections of the crowd. The incident could prompt fresh FIFA disciplinary action despite years of campaigns and previous sanctions against the Mexican Football Federation.",
+    "img": "https://static.toiimg.com/photo/msid-132124383,imgsize-149304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/mexico-could-face-fifa-punishment-as-infamous-chant-returns-despite-official-ban-during-ecuador-victory/articleshow/132124370.cms",
+    "time": "2026-07-01T21:33:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "UPI volumes up 1.2%, rise to 76 crore",
+    "desc": "Digital payment volumes saw a slight dip in June, with UPI transactions falling 2.1% month-on-month. Despite this, daily UPI activity remained robust, and year-on-year growth continues to impress. Other payment systems like FASTag and IMPS also experienced sequential declines, though yearly figures show mixed trends, indicating a dynamic digital payments landscape.",
+    "img": "https://static.toiimg.com/photo/msid-132124391,imgsize-740735.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-volumes-up-1-2-rise-to-76-crore/articleshow/132124392.cms",
+    "time": "2026-07-01T21:31:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Car sales in June signal strong demand recovery",
+    "desc": "India's passenger vehicle sector kicked off FY27 with robust June sales, fueled by strong demand for SUVs and EVs. Tata Motors saw a remarkable 69% surge, driven by popular models and record EV figures. Maruti Suzuki maintained its lead with a 19.3% increase, while Mahindra & Mahindra also reported significant growth. Despite a temporary production setback, Hyundai's domestic sales remained strong.",
+    "img": "https://static.toiimg.com/photo/msid-132124385,imgsize-1394462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/car-sales-in-june-signal-strong-demand-recovery/articleshow/132124384.cms",
+    "time": "2026-07-01T21:28:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FPIs' $5bn bond purchase offsets steady equity sales",
+    "desc": "Foreign investors returned as net buyers in June, injecting $531 million into Indian markets after a period of outflows. This positive shift was driven by substantial inflows into sovereign debt, totaling $5.8 billion, which more than compensated for continued equity selling. The debt market's strong performance signals renewed international confidence in Indian government securities.",
+    "img": "https://static.toiimg.com/photo/msid-132124373,imgsize-568528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-5bn-bond-purchase-offsets-steady-equity-sales/articleshow/132124374.cms",
+    "time": "2026-07-01T21:22:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift and Travis Kelce's wedding CONFIRMED!",
+    "desc": "Madison Square Garden is reportedly set to host Taylor Swift and Travis Kelce's wedding this Friday, with a rehearsal dinner planned for Thursday. Speculation has been rampant about the celebrity couple's nuptials, with a permit for a \"large event\" filed at the iconic venue. City officials confirmed preparations are underway, though details remain scarce. Crews have been seen unloading equipment, fueling anticipation for the highly anticipated ceremony.",
+    "img": "https://static.toiimg.com/photo/msid-132124372,imgsize-170740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/confirmed-taylor-swift-and-travis-kelce-to-wed-on-friday-at-madison-square-garden-details-inside/articleshow/132124341.cms",
+    "time": "2026-07-01T21:22:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PE-VC deal value dips 5% in H1 CY2026",
+    "desc": "Private equity and venture capital investments saw a slight dip of 5% year-on-year in the first half of 2026, reaching $17.5 billion. Despite global uncertainties, investors deployed substantial capital, particularly in data centers and NBFCs. Late-stage companies attracted the largest share of funding, indicating continued confidence in established businesses. Overall, the sector demonstrated resilience, with significant deals driving investment activity.",
+    "img": "https://static.toiimg.com/photo/msid-132124369,imgsize-220873.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pe-vc-deal-value-dips-5-in-h1-cy2026/articleshow/132124368.cms",
+    "time": "2026-07-01T21:19:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hero Moto to invest 3,200 crore in Andhra Pradesh",
+    "desc": "Hero MotoCorp is injecting Rs 3,200 crore into Andhra Pradesh over the next three to five years. This significant investment will bolster manufacturing, enhance its global supply chain, and expand into new business areas. A key part includes a new Global Parts Centre at Tirupati, alongside a doubling of production capacity, creating approximately 4,000 jobs and reinforcing the company's commitment to the region.",
+    "img": "https://static.toiimg.com/photo/msid-132124363,imgsize-898700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hero-moto-to-invest-3200-crore-in-andhra-pradesh/articleshow/132124364.cms",
+    "time": "2026-07-01T21:13:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Brands get quick-comm boost in summer sales",
+    "desc": "Scorching heatwaves have significantly boosted sales for consumer brands, with quick-commerce platforms witnessing a surge in demand for ice creams, beverages, and sunscreens. Ice cream sales alone soared by 140% year-on-year in May. This growth is attributed to expanding delivery services into smaller cities and a focus on fast delivery of seasonal essentials, offering consumers much-needed relief.",
+    "img": "https://static.toiimg.com/photo/msid-132124357,imgsize-1097571.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/brands-get-quick-comm-boost-in-summer-sales/articleshow/132124358.cms",
+    "time": "2026-07-01T21:09:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Debt's the way for Indian IT acquisition funding",
+    "desc": "Indian IT firms are increasingly embracing debt for significant acquisitions, a shift from their traditional cash-rich approach. Persistent Systems' $1.5 billion financing for its Nagarro deal exemplifies this trend, driven by the need to build AI capabilities and expand globally. This strategic move aims for accelerated growth and relevance in a rapidly evolving tech landscape, though experts caution about the risks of high leverage if growth targets aren't met.",
+    "img": "https://static.toiimg.com/photo/msid-132124334,imgsize-1010763.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/debts-the-way-for-indian-it-acquisition-funding/articleshow/132124337.cms",
+    "time": "2026-07-01T20:59:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "At 14%, GST collections in June grow fastest in 8 months",
+    "desc": "GST collections surged by 13.9% to Rs 1.94 lakh crore, the fastest in eight months, driven by a significant jump in import taxes on commodities like crude and fertilizers. While domestic collections saw a modest 6.5% rise, imports contributed substantially. This indicates robust manufacturing and import activity, though some states experienced significant drops in revenue. Experts suggest policy recalibration to boost domestic manufacturing.",
+    "img": "https://static.toiimg.com/photo/msid-132124328,imgsize-1634213.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/at-14-gst-collections-in-june-grow-fastest-in-8-months/articleshow/132124329.cms",
+    "time": "2026-07-01T20:56:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "WC assists top-end as smart TVs shrink",
+    "desc": "Despite a dip in India's smart TV market, the FIFA World Cup is driving a surge in premium television sales, especially for larger screens. Brands report significant demand for TVs 55 inches and above, with QLED and MiniLED technologies gaining traction. While macroeconomic pressures affect entry-level purchases, major sporting events are prompting consumers to upgrade to bigger, better-equipped models, particularly in football-centric regions.",
+    "img": "https://static.toiimg.com/photo/msid-132124319,imgsize-1873595.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/wc-assists-top-end-as-smart-tvs-shrink/articleshow/132124318.cms",
+    "time": "2026-07-01T20:51:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Thomas Tuchel's fury with one England player saved them from stunning World Cup exit vs DR Congo",
+    "desc": "Thomas Tuchel’s heated touchline exchange with Djed Spence became a defining moment in England’s dramatic 2-1 World Cup comeback against DR Congo. The England manager substituted Spence for Eberechi Eze, reshaping his side before Harry Kane’s late brace sealed victory. Tuchel’s tactical switch transformed the contest and sent the Three Lions into the Round of 16 against Mexico.",
+    "img": "https://static.toiimg.com/photo/msid-132124312,imgsize-704610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/how-thomas-tuchels-fury-with-one-england-player-saved-them-from-stunning-world-cup-exit-vs-dr-congo/articleshow/132124267.cms",
+    "time": "2026-07-01T20:44:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "The Supreme Court has ruled that an accused cannot claim default bail simply because copies of the chargesheet weren't provided within the statutory timeline. Justices Sanjay Karol and N K Singh clarified that the right to default bail arises only if the chargesheet itself isn't filed within the stipulated 60 or 90 days.",
+    "img": "https://static.toiimg.com/photo/msid-132124302,imgsize-818047.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-default-bail-if-chargesheet-filed-but-not-provided-to-accused-supreme-court/articleshow/132124303.cms",
+    "time": "2026-07-01T20:35:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress finalises leadership for Punjab polls",
+    "desc": "The Congress party has finalized its Punjab leadership for the upcoming assembly elections, retaining Amarinder Raja Warring as state president. Dalit leader Charanjit Channi will head the campaign committee, a move aimed at appealing to the community. Partap Singh Bajwa remains the leader of the opposition. These appointments signal a focus on organizational unity and community outreach as the party prepares for the polls.",
+    "img": "https://static.toiimg.com/photo/msid-132124283,imgsize-989579.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-finalises-leadership-for-punjab-polls/articleshow/132124284.cms",
+    "time": "2026-07-01T20:24:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kriti Sanon should marry on her own terms, says Stebin Ben",
+    "desc": "Marriage speculation around Kriti Sanon has often made headlines, but her brother-in-law and singer Stebin Ben believes the actor should never feel pressured to settle down. In a recent interview, Stebin said Kriti has earned the right to make that decision on her own terms and should marry only when she feels completely ready.",
+    "img": "https://static.toiimg.com/photo/msid-132124215,imgsize-109077.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-should-marry-on-her-own-terms-says-stebin-ben-amid-kabir-bahia-dating-rumours-why-rush-into-something-so-important/articleshow/132124209.cms",
+    "time": "2026-07-01T20:03:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain washes out T20I opener after Iyer, Abhishek power India to 189/7",
+    "desc": "India's T20I opener against England was washed out due to persistent rain, preventing a chase after the hosts posted a formidable 189/7. Abhishek Sharma's blistering 59 and Shreyas Iyer's composed 68 laid the foundation, with Shivam Dube adding crucial late runs. Unfortunately, the weather had the final say, leaving the match a no-result without a ball bowled in England's innings.",
+    "img": "https://static.toiimg.com/photo/msid-132124064,imgsize-683238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rain-washes-out-india-england-t20i-opener-after-shreyas-iyer-abhishek-sharma-power-visitors-to-189/7/articleshow/132124058.cms",
+    "time": "2026-07-01T19:42:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "100+ prominent India, Pakistan voices appeal for 'confidence building measures'",
     "desc": "Over 100 prominent Indian and Pakistani citizens have penned an open letter to Prime Ministers Narendra Modi and Shehbaz Sharif, urging them to restore peace and dialogue. The signatories propose confidence-building measures like reinstating full diplomatic ties and resuming normal visa services. They emphasize that continued hostility hinders the prosperity and secure future of millions of young people in both nations, stressing the need for cooperation over confrontation.",
@@ -18,6 +171,15 @@ const newsData_en = [
     "time": "2026-07-01T19:33:18.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Harry Kane scripts history with DR Congo brace, overtakes Pelé and shatters England’s 60-year World Cup record",
+    "desc": "Harry Kane produced a match-winning brace as England beat DR Congo 2-1 in the FIFA World Cup 2026 Round of 32. Trailing early, England were rescued by Kane’s second-half double in an 11-minute spell, taking him past Pelé on the World Cup scoring chart. The captain also moved into England’s second-highest knockout scorer as they reached the Round of 16.",
+    "img": "https://static.toiimg.com/photo/msid-132123988,imgsize-124778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/harry-kane-scripts-history-with-dr-congo-brace-overtakes-pel-and-shatters-englands-60-year-world-cup-record/articleshow/132123675.cms",
+    "time": "2026-07-01T19:32:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Supreme Court la﻿ys down ITR norms for fixing accident damages",
     "desc": "The Supreme Court has mandated distinct methods for calculating road accident compensation, acknowledging the income disparity between salaried individuals and the self-employed. For salaried persons, the previous year's income tax return will be the benchmark. Self-employed individuals' compensation will be based on the average of their last three years' income tax returns, accounting for income fluctuations. This ruling aims to standardize compensation assessments across high courts.",
@@ -34,15 +196,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Mangalore/red-alert-for-heavy-rain-in-coastal-karnataka-on-july-2-3/article71169875.ece",
     "time": "2026-07-01T19:09:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rain delays England’s innings after India scores 189/7",
-    "desc": "India, coming off a 0-2 series loss to Ireland, made a poor start as they slipped to 6 for two but half-centuries from skipper Shreyas Iyer (68) and Abhishek Sharma (59) propelled them to a competitive total",
-    "img": "https://th-i.thgim.com/public/incoming/4563bs/article71171666.ece/alternates/LANDSCAPE_1200/20260701576L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/england-vs-india-first-t20i-updates-july-2026/article71171664.ece",
-    "time": "2026-07-01T18:51:09.000Z"
   },
   {
     "cat": "Sports",
@@ -108,15 +261,6 @@ const newsData_en = [
     "time": "2026-07-01T17:54:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Drop in prices of commercial LPG cylinders, aviation turbine fuel as West Asia conflict eases",
-    "desc": "In an indication of an improvement in the LPG supply situation with the four-month-long West Asia conflict at a probable end, public sector oil-marketing companies (OMCs) on Wednesday (July 1, 2026) cut the prices of commercial LPG cylinders by ₹183.5 and that of the 5 kg free trade LPG (FTL) cylinders by ₹13. This was the first reduction in the price of commercial LPG in 2026 after the rates were hiked by ₹1,345 per refill in four tranches since March 7.",
-    "img": "https://th-i.thgim.com/public/incoming/582mn3/article71171541.ece/alternates/LANDSCAPE_1200/LPG.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-drop-in-prices-of-commercial-lpg-cylinders-aviation-turbine-fuel-as-west-asia-conflict-eases/article71171543.ece",
-    "time": "2026-07-01T17:42:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Freight costs continue to be a burden for MSME exporters",
     "desc": "The MSMEs do not have the margin to bear the steep hike in freight costs; those who export perishables are hit by the wait for containers, says V. Rangaswamy, president of the Coimbatore District Small Industries Association",
@@ -126,33 +270,6 @@ const newsData_en = [
     "time": "2026-07-01T17:40:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala High Court dismisses petition challenging Padma Bhushan award to Vellappally Natesan",
-    "desc": "Bench held that if the SNDP general secretary is convicted in the cases filed against him, the President has the right to annul the conferment of the decoration, after which his name will be erased from the register.",
-    "img": "https://th-i.thgim.com/public/incoming/j9v92o/article71171510.ece/alternates/LANDSCAPE_1200/vellappally2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-dismisses-petition-challenging-padma-bhushan-award-to-vellappally-natesan/article71170502.ece",
-    "time": "2026-07-01T17:32:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka to set up first State-run women’s driver training institute in Bidadi",
-    "desc": "Announcing the initiative while chairing a meeting with senior officials of the Transport Department on Wednesday, Transport Minister Byrathi Suresh said that the institute would be the first initiative of its kind to be established by a State government in the country.",
-    "img": "https://th-i.thgim.com/public/incoming/x4brir/article71171511.ece/alternates/LANDSCAPE_1200/DSC_1935.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-set-up-first-state-run-womens-driver-training-institute-in-bidadi/article71170406.ece",
-    "time": "2026-07-01T17:30:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress leaders greet Akhilesh Yadav on his birthday, send signals on Opposition unity",
-    "desc": "Mallikarjun Kharge and Rahul Gandhi take to social media to wish him and reaffirm their shared commitment to social justice, inclusive development, and the Constitution; Suheldev Bharatiya Samaj Party chief Om Prakash Rajbhar advises the SP chief to give up the politics of ‘air conditioners and press conferences’",
-    "img": "https://th-i.thgim.com/public/incoming/wnjv7e/article71171505.ece/alternates/LANDSCAPE_1200/20260701393L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-leaders-greet-akhilesh-yadav-on-his-birthday-send-signals-on-opposition-unity/article71170210.ece",
-    "time": "2026-07-01T17:30:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek scripts history in 1st T20I against England, becomes fastest to...",
     "desc": "Abhishek Sharma has shattered records in the first T20I against England, becoming the fastest Indian batter to hit 100 sixes in T20 Internationals. He achieved this remarkable feat in just 785 deliveries, surpassing Evin Lewis. Sharma's explosive innings under pressure also places him among India's top six-hitters, joining an illustrious group of Indian cricketers.",
@@ -160,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/abhishek-sharma-scripts-t20i-history-in-1st-t20i-against-england-becomes-fastest-batter-to-/articleshow/132120060.cms",
     "time": "2026-07-01T17:24:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "117 voices appeal for peace between India and Pakistan",
-    "desc": "At least 117 prominent individuals from India and Pakistan have jointly appealed to Prime Ministers Narendra Modi and Shehbaz Sharif to revive bilateral dialogue and take steps towards lasting peace in the region. In an open letter, they called for the resumption of discussions on Jammu and Kashmir, including revisiting the framework negotiated between 2004 and 2007. They also urged both countries to pursue demilitarisation, de-escalation and address each other’s legitimate security concerns.",
-    "img": "https://th-i.thgim.com/public/incoming/5r8jsr/article71171478.ece/alternates/LANDSCAPE_1200/letter%20thumb.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-117-voices-appeal-for-peace-between-india-and-pakistan/article71171479.ece",
-    "time": "2026-07-01T17:20:16.000Z"
   },
   {
     "cat": "Politics",
@@ -387,15 +495,6 @@ const newsData_en = [
     "time": "2026-07-01T13:52:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Global AMR Fund picks 12 Indian innovations to tackle antibiotic resistance in environment",
-    "desc": "In a significant stride against antimicrobial resistance (AMR), twelve Indian startups and research institutions have received funding and mentorship through a collaborative India-UK initiative. This program is dedicated to spearheading the development of ground-breaking technologies aimed at detecting, preventing, and treating antibiotic-resistant bacteria in environmental resources like soil and water, thereby translating laboratory innovations into viable commercial solutions to tackle a pressing public health issue.",
-    "img": "https://static.toiimg.com/photo/msid-132116848,imgsize-118236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/global-amr-fund-picks-12-indian-innovations-to-tackle-antibiotic-resistance-in-environment/articleshow/132116801.cms",
-    "time": "2026-07-01T13:46:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jr NTR's film with Trivikram Srinivas sparks row",
     "desc": "Jr NTR's upcoming film with director Trivikram Srinivas has ignited a cultural debate. A teaser poster, featuring a weapon resembling Lord Murugan's Vel, coupled with a producer's tagline \"Born in the North... Worshipped in the South,\" has irked Tamil netizens and devotees. They argue this misrepresents the deity's deep-rooted Tamil heritage.",
@@ -460,24 +559,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'I, Nobody' Credits Explained: Prithviraj backs Parvathy’s top billing",
-    "desc": "Prithviraj Sukumaran clarified why Parvathy Thiruvothu's name appears first on the 'I, Nobody' poster. He explained it was a deliberate choice, not about star power, as she plays a central role and he is already credited as producer and actor. His gesture of equal value has earned appreciation, highlighting their mutual respect and Parvathy's deep understanding of cinema. The thriller releases July 9.",
-    "img": "https://static.toiimg.com/photo/msid-132115497,imgsize-146350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/why-does-parvathy-thiruvothus-name-come-first-on-the-i-nobody-poster-producer-and-actor-prithviraj-sukumaran-answers/articleshow/132115465.cms",
-    "time": "2026-07-01T12:39:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bosco DISCHARGED from hospital after chest congestion",
-    "desc": "Choreographer Bosco Leslie Martis has been discharged from Mumbai's Breach Candy Hospital after nearly a week, having been treated for chest congestion. He visited Mount Mary Basilica to offer prayers before heading home, sharing a heartfelt note thanking fans. Celebrities like Isha Koppikar and Rajniesh Duggal wished him a speedy recovery.",
-    "img": "https://static.toiimg.com/photo/msid-132115492,imgsize-270928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bosco-martis-discharged-from-hospital-after-chest-congestion-shares-heartfelt-note-couldnt-head-home/articleshow/132115492.cms",
-    "time": "2026-07-01T12:37:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Zeenat Aman reveals her parents got divorced when she was 2 years old",
     "desc": "Zeenat Aman, daughter of screenwriter Amanullah Khan, never aspired to act, initially dreaming of an academic career abroad. Raised by her mother after her parents' separation, she felt little cinematic influence. A successful modeling career unexpectedly led to films, a path she saw as a \"momentary thing\" away from her academic pursuits. Dev Anand's recognition launched her into stardom, redefining the Hindi film heroine.",
     "img": "https://static.toiimg.com/photo/msid-132115442,imgsize-187007.cms",
@@ -529,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-bangladesh-cricket-ties-back-on-track-bcbs-media-rights-tender-sparks-hope-for-white-ball-series/articleshow/132114681.cms",
     "time": "2026-07-01T11:58:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Here's what you didn't know about 'Toxic' star Yash",
-    "desc": "Yash's upcoming film 'Toxic' is generating buzz with its 'Ladies & Ladies' glimpse, highlighting powerful female characters. The article delves into 10 lesser-known facts about the star, from his humble beginnings as Naveen Kumar Gowda and his father's bus driver job to his bold decision to pursue acting with just Rs 300.",
-    "img": "https://static.toiimg.com/photo/msid-132114675,imgsize-66200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/as-nayanthara-kiara-advani-huma-qureshi-and-tara-sutaria-take-centre-stage-in-toxic-heres-what-you-didnt-know-about-yash/articleshow/132114626.cms",
-    "time": "2026-07-01T11:55:42.000Z"
   },
   {
     "cat": "Business",
@@ -630,15 +702,6 @@ const newsData_en = [
     "time": "2026-07-01T08:55:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Mexico become first team since Italy in 1990 to ...",
-    "desc": "Mexico have achieved a historic feat at the FIFA World Cup 2026, becoming the first team since 1990 to win their opening four matches without conceding a goal. A 2-0 victory over Ecuador secured their first knockout-stage win in 40 years, with Julián Quiñones and Raúl Jiménez scoring. This remarkable defensive and offensive performance positions them as strong contenders as they advance to the Round of 16.",
-    "img": "https://static.toiimg.com/photo/msid-132110003,imgsize-391840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-mexico-become-first-team-since-italy-in-1990-to-start-with-four-straight-clean-sheet-wins/articleshow/132110005.cms",
-    "time": "2026-07-01T08:15:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Financial incentives, digital transparency and key changes explained",
     "desc": "Delhi has officially launched its Electric Vehicles Policy 2026, effective July 1, 2026, aiming to boost EV adoption and improve air quality until March 2030. The policy offers significant tax exemptions for electric cars and substantial subsidies for two and three-wheelers. It also mandates the phasing out of petrol and CNG two-wheeler registrations by April 2028, alongside a Rs 15,000 crore investment and plans for over 30,000 charging points.",
@@ -649,57 +712,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'I don't think he will...': Pujara on Sooryavanshi's India debut in England",
-    "desc": "Cheteshwar Pujara, the former Indian cricketer, offers sage advice to 15-year-old Vaibhav Sooryavanshi, indicating that he may not step onto the field during the upcoming England T20I series. Pujara encourages the young player to remain level-headed amidst the excitement, suggesting that he might find his opportunity only if the seasoned batsmen succeed.",
-    "img": "https://static.toiimg.com/photo/msid-132108810,imgsize-72730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/i-dont-think-he-will-cheteshwar-pujara-on-vaibhav-sooryavanshis-india-debut-in-england/articleshow/132108810.cms",
-    "time": "2026-07-01T07:28:17.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Matches in Indian Time",
     "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
     "img": "https://th-i.thgim.com/public/incoming/hw29zz/article71145748.ece/alternates/LANDSCAPE_1200/image%206.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
     "time": "2026-07-01T07:24:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India plans 30-day LPG storage buffer after Iran war exposes Hormuz supply risk",
-    "desc": "India is bolstering its energy security by planning a 30-day strategic LPG reserve following Middle East conflict concerns. State-run oil companies are set to invest significantly in expanding storage capacity, exploring options like onshore facilities, underground caverns, and floating storage. This move aims to mitigate risks associated with disruptions through the Strait of Hormuz, a critical shipping route for a large portion of India's LPG imports.",
-    "img": "https://static.toiimg.com/photo/msid-132108913,imgsize-1865062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-plans-30-day-lpg-storage-buffer-after-iran-war-exposes-hormuz-supply-risk/articleshow/132108912.cms",
-    "time": "2026-07-01T07:16:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "GST revenue grows 13.9% in June, collections touch Rs 1.94 lakh crore",
-    "desc": "India's GST collections surged 13.9% to Rs 1.95 lakh crore in June 2026, fueled by a significant 34.6% jump in import tax revenues. This robust growth, despite global uncertainties, highlights the maturing and resilient nature of India's tax system. Increased refund disbursements also supported business liquidity, demonstrating improved tax administration and a predictable revenue framework.",
-    "img": "https://static.toiimg.com/photo/msid-132108837,imgsize-628542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gst-collections-jump-13-9-to-rs-1-95-lakh-crore-in-june-driven-by-strong-import-tax-revenues/articleshow/132108545.cms",
-    "time": "2026-07-01T07:13:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gilberto Mora scripts history, becomes youngest to play in WC knockouts since Pelé",
-    "desc": "Teen sensation Gilberto Mora, at 17, became the second-youngest player to start a World Cup knockout match, a feat only Pelé achieved. Mexico triumphed 2-0 over Ecuador, ending a 40-year wait for a knockout victory. Goals from Quiñones and Jiménez secured their Round of 16 spot, marking a historic moment for Mexican football after a dominant performance.",
-    "img": "https://static.toiimg.com/photo/msid-132108368,imgsize-169824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/gilberto-mora-scripts-history-becomes-youngest-to-play-in-world-cup-knockouts-since-pel/articleshow/132108347.cms",
-    "time": "2026-07-01T06:51:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Long queues at petrol stations': How Ukraine’s drone strikes are hitting Russia’s fuel supply",
-    "desc": "Russia grapples with a severe fuel shortage, a direct consequence of Ukrainian drone attacks on its oil refineries. This has led to widespread rationing, lengthy queues at petrol stations, and escalating prices, impacting everyday citizens and businesses. President Putin acknowledged the issues, though he downplayed their severity.",
-    "img": "https://static.toiimg.com/photo/msid-132108272,imgsize-839607.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/long-queues-at-petrol-stations-how-ukraines-drone-strikes-are-hitting-russias-fuel-supply/articleshow/132107324.cms",
-    "time": "2026-07-01T06:51:25.000Z"
   },
   {
     "cat": "Business",
@@ -718,33 +736,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-trade-csk-enter-the-race-seven-franchises-express-interest/articleshow/132107819.cms",
     "time": "2026-07-01T06:24:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI’s net short forward position hits record $106.6 billion amid rupee pressure",
-    "desc": "The Reserve Bank of India's intervention to shield the rupee from volatility, fueled by Middle East tensions, has widened its net short forward position to a record $106.6 billion. Despite a recent dip to a historic low, the rupee has shown recovery, buoyed by anticipated foreign capital inflows. These expected inflows are seen as a potential avenue for the RBI to reduce its forward position and bolster foreign exchange reserves.",
-    "img": "https://static.toiimg.com/photo/msid-132107796,imgsize-1271135.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbis-net-short-forward-position-hits-record-106-6-billion-amid-rupee-pressure/articleshow/132107782.cms",
-    "time": "2026-07-01T06:21:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices rise as Iran-US talks hit roadblock, supply fears return",
-    "desc": "Crude oil prices edged up as stalled Iran-US talks reignited fears of Middle East supply disruptions. Despite claims of Strait of Hormuz reopening, uncertainty persists. Analysts have lowered oil price forecasts, but US inventory data and ongoing diplomatic efforts remain key market drivers. Investors await official US figures for further direction.",
-    "img": "https://static.toiimg.com/photo/msid-132106181,imgsize-898648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-rise-as-iran-us-talks-hit-roadblock-supply-fears-return/articleshow/132106164.cms",
-    "time": "2026-07-01T04:43:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nayara Energy cuts petrol by Rs 5 per litre, diesel by Rs 3; first fuel price reduction in over 2 years",
-    "desc": "Nayara Energy, India's largest private fuel retailer, has slashed petrol prices by Rs 5 and diesel by Rs 3 per litre nationwide. This marks the first price reduction by any fuel retailer in over two years, driven by easing Middle East tensions and falling international crude oil prices. While Nayara passed on the benefits, state-run companies kept rates unchanged.",
-    "img": "https://static.toiimg.com/photo/msid-132105511,imgsize-818075.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nayara-energy-cuts-petrol-by-rs-5-per-litre-diesel-by-rs-3-first-fuel-price-reduction-in-over-2-years/articleshow/132104211.cms",
-    "time": "2026-07-01T04:06:30.000Z"
   },
   {
     "cat": "Sports",
@@ -855,15 +846,6 @@ const newsData_en = [
     "time": "2026-06-30T05:57:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India’s T20 series loss to Ireland: An appetiser with lingering bitterness",
-    "desc": "An unbeaten streak encompassing 16 series spread over three years in the most unpredictable and unforgiving of formats was snapped ruthlessly by an honest Irish side that made capital of its familiarity with the conditions",
-    "img": "https://th-i.thgim.com/public/sport/tyhlaz/article71163035.ece/alternates/LANDSCAPE_1200/GettyImages-2282915259.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/an-appetiser-with-lingering-bitterness/article71162687.ece",
-    "time": "2026-06-29T19:39:32.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Tech Mahindra to deploy Perplexity AI across sales, customer-facing teams",
     "desc": "The integration of 'Perplexity Enterprise Pro' aims to equip senior sales leaders and customer partners with intelligent tools to research customer priorities efficiently, understand industry-specific challenges and identify emerging business opportunities, the company said in a statement.",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/smart-ai-caching-can-keep-the-data-flowing-when-disaster-strikes/article71157296.ece",
     "time": "2026-06-28T07:12:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The strange link between AI hallucination and creativity",
+    "desc": "A setting called temperature governs how adventurous an LLM’s outputs are. The higher the temperature, the more likely the model reaches for the less likely options and begins to surprise you. This is the dial you turn up when you want a poem instead of a weather report. The trouble is that the same dial governs hallucinations",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/wutjuk/article71136852.ece/alternates/LANDSCAPE_1200/1xaedrian-salazar-hGDoyIFADHo-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/strange-link-between-artificial-intelligence-hallucination-creativity/article71136885.ece",
+    "time": "2026-06-28T04:47:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Accenture’s revenue growth guidance cut shocks tech industry",
+    "desc": "Accenture recently narrowed its full-year 2026 revenue growth guidance to 3-4%, down from 3-5% earlier, triggering an immediate plunge in its own stock prices and throwing the rest of the global tech services industry, which is already hit by global uncertainties, into a new tizzy.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/6jkbw9/article71155409.ece/alternates/LANDSCAPE_1200/iStock-1795499144.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/accentures-revenue-growth-guidance-cut-shocks-tech-industry/article71151263.ece",
+    "time": "2026-06-27T17:06:56.000Z"
   }
 ];

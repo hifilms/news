@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Novak Djokovic thrashes Stefanos Tsitsipas in straight sets, advances to third round of Wimbledon",
+    "desc": "Novak Djokovic defeated Stefanos Tsitsipas 6-3, 6-4, 6-2 on Centre Court to move into the third round of Wimbledon for the 20th time. The seven-time champion, who was taken to four sets by Wu Yibing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-thrashes-stefanos-tsitsipas-in-straight-sets-advances-to-third-round-of-wimbledon-2026-07-02-1046837",
+    "time": "2026-07-01T22:12:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli trains with former India coach ahead of England series, video goes viral",
+    "desc": "Star India batter Virat Kohli has resumed practice ahead of the three-match ODI series against England, starting July 14. As things stand, his availability is still subject to fitness clearance after missing out on the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-trains-with-former-india-coach-ahead-of-england-series-video-goes-viral-2026-07-02-1046836",
+    "time": "2026-07-01T21:29:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brazil could suffer massive blow ahead of FIFA World Cup 2026 round of 16 clash vs Norway",
+    "desc": "Five-time FIFA World Cup winner, Brazil, can miss the services of midfielder Lucas Paqueta in their round of 16 clash against Norway. He suffered a hamstring injury in the first half during the team's victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/brazil-could-suffer-massive-blow-ahead-of-fifa-world-cup-2026-round-of-16-clash-vs-norway-2026-07-02-1046835",
+    "time": "2026-07-01T20:49:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "French Open winner, Mirra Andreeva, knocked out of Wimbledon 2026 by defending champion",
+    "desc": "Defending champion Barbora Krejcikova knocked Mirra Andreeva out of Wimbledon. She recovered from a set down to claim a 4-6, 7-5, 6-4 victory and secured a place in the third round at the All England...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/french-open-winner-mirra-andreeva-knocked-out-of-wimbledon-2026-by-defending-champion-2026-07-02-1046834",
+    "time": "2026-07-01T20:03:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Should India continue with World Cup hero Sanju Samson after series of flops or bring in Vaibhav Sooryavanshi?",
     "desc": "Leading up to the T20 World Cup 2026, Sanju Samson lost his spot in the playing XI after a series of poor starts. Ishan Kishan was the preferred opener alongside star batter Abhishek Sharma. However,...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-1st-t20i-live-cricket-score-india-vs-england-riverside-ground-chester-le-street-latest-match-updates-scorecard-teams-playing-xis-2026-07-01-1046821",
     "time": "2026-07-01T16:44:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Vaibhav Sooryavanshi playing today for India in 1st T20I? Check Playing XIs for Chester-Le-Street clash",
-    "desc": "Vaibhav Sooryavanshi missed out on his International debut yet again as India opted to bat first against England in the opening T20I of the five-match series. Sooryavanshi was kept out of India's playing XI for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-vaibhav-sooryavanshi-playing-today-for-india-in-1st-t20i-check-playing-xis-for-chester-le-street-clash-2026-07-01-1046817",
-    "time": "2026-07-01T16:26:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Kane secures 2-1 win for England, set up tie with Mexico",
-    "desc": "England is taking on DR Congo in the round of 32 clash of the ongoing FIFA World Cup 2026. The two sides will meet at the Atlanta Stadium in Georgia and will hope to put...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/eng-vs-cod-fifa-world-cup-2026-live-england-look-to-maintain-momentum-aim-to-make-it-to-ro16-1046815",
-    "time": "2026-07-01T15:42:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chester-le-Street pitch report for IND vs ENG 1st T20I; check details and stats of venue",
-    "desc": "India meet England for the first T20I of the five-match series at Chester-le-Street as the two teams look to bounce back from their recent defeats. The two-time defending T20 champions had a shock 2-0 loss...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chester-le-street-pitch-report-for-ind-vs-eng-1st-t20i-check-details-and-stats-of-venue-2026-07-01-1046811",
-    "time": "2026-07-01T15:20:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs England live streaming details, check when and where to watch matches on TV, online?",
-    "desc": "India and England are all set to lock horns against each other in a five-match T20I series, as eyes are glued on the Men in Blue on how they can bounce back from a 2-0...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-live-streaming-details-check-when-and-where-to-watch-matches-on-tv-online-2026-07-01-1046804",
-    "time": "2026-07-01T14:18:32.000Z"
   }
 ];
