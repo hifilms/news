@@ -1,12 +1,93 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "સુનિતા આહુજાએ Lock Up 2માં ગોવિંદાના અફેર અંગે કહી દીધું, &amp;quot;પહેલાથી જ ચાલે છે, હીરો છે તેને રોકી ન શકાય...&amp;quot;",
+    "desc": "આ વખતના રિયાલિટી શો લોક અપને જોતા એવું લાગે છે કે આ શો બિગ બોસના રેકોર્ડ તોડી નાખશે. રિયાલીટી શોની શરુઆતથી જ દર્શકોને મસાલેદાર ગોસિપ મળી રહ્યું છે. તાજેતરમાં જ સુનિતા આહુજાએ ગોવિંદાના અફેર અંગે પણ ધડાકો કરી દીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/sunita-ahuja-in-lock-up-reality-show-talked-about-govinda-affair-and-his-nature-video-viral-483279 ",
+    "time": "2026-07-01T09:24:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પેનલ્ટી શૂટઆઉટ ફરી બન્યું નીદર્લેન્ડ્સ માટે ખરાબ સ્વપ્ન! વર્લ્ડ કપમાંથી બહાર થતાં જ કોચે આપ્યું રાજીનામું",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026ના રાઉન્ડ ઓફ 32માં મોરોક્કો સામે કારમી હાર બાદ નેધરલેન્ડ્સના મુખ્ય કોચ રોનાલ્ડ કોમેનએ રાજીનામું આપી દીધું છે. પેનલ્ટી શૂટઆઉટમાં થયેલા હાર બાદ, કોમેનએ ડચ રાષ્ટ્રીય ટીમ સાથે પોતાની કારકિર્દીનો અંત લાવવાનો નિર્ણય લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/penalty-shootout-becomes-nightmare-for-netherlands-again-coach-resigns-after-world-cup-exit-483276 ",
+    "time": "2026-07-01T09:05:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સ્કુલમાં બાળકો કરશે બોલીવુડ ગીતોનો અભ્યાસ, કારણ કે શિક્ષા વિભાગ અનુસાર ફિલ્મી ગીતો છે લોકગીતો",
+    "desc": "બોલીવુડની 2 ફિલ્મોના 2 ગીતને લોકગીત તરીકે ધોરણ 8 ના પુસ્તકમાં જોડવામાં આવતા હોબાળો મચી ગયો. આ વિવાદ એટલો વધ્યો કે કેટલાક અધિકારીઓને નોકરી ગુમાવવાનો વારો પણ આવ્યો છે. જો તમને આ ઘટના વિશે નથી ખબર તો ચાલો તમને બધું જ જણાવીએ વિસ્તારપૂર્વક.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/odisha-school-book-bollywood-songs-controversy-what-is-nimbooda-song-controversy-and-what-happen-now-483265 ",
+    "time": "2026-07-01T08:37:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આલિયા ભટ્ટની આલ્ફા ફિલ્મ આ ઉંમરના લોકો નહીં જોઈ શકે, જાણો શું છે કારણ ?",
+    "desc": "આલિયા ભટ્ટની ફિલ્મ આલ્ફા સિનેમા ઘરોમાં 3 જુલાઈથી જોવા મળશે. ફિલ્મ રિલીઝ થાય તે પહેલા સેન્સર બોર્ડે ફિલ્મના હિંસક સીન પર કાતર ફેરવી છે અને સાથે જ અપશબ્દોને મ્યૂટ કર્યા છે. આ ફિલ્મને લઈને અન્ય એક મહત્વની અપડેટ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/alia-bhatt-film-alpha-got-ua-16-plus-certificate-alpha-movie-release-date-3-july-2026-483253 ",
+    "time": "2026-07-01T07:42:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ હતા ડો. બી સી રોય...જેમના સન્માનમાં ઉજવાય છે ડોક્ટર્સ ડે, ગાંધીજી સાથે હતું ગાઢ કનેક્શન",
+    "desc": "દેશભરમાં આજનો દિવસ નેશનલ ડોક્ટર્સ ડે તરીકે ઉજવાય છે. આ દિવસ જેમના સન્માનમાં ઉજવાય છે તે ડો. બી સી રોય વિશે પણ જાણવા જેવું છે. જેઓ મહાત્મા ગાંધીના િત્ર અને પર્સનલ ડોક્ટર હતા. જાણો તેમના વિશે થોડી અજાણી વાતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/national-doctors-day-2026-know-about-dr-b-c-roy-had-a-close-connection-with-mahatma-gandhi-483250 ",
+    "time": "2026-07-01T07:20:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અફઘાનિસ્તાનની પાકિસ્તાનમાં એરસ્ટ્રાઈક, અનેક ISIS ઠેકાણા તબાહ કરી નાખ્યા",
+    "desc": "એક બાજુ જ્યાં મિડલ ઈસ્ટમાં ઈરાન અને અમેરિકા, ઈઝરાયેલ-લેબનોન, બીજી બાજુ રશિયા-યુક્રેન વચ્ચે તંગ સ્થિતિ જોવા મળી રહી છે ત્યાં ભારતની પાડોશમાં પણ પાકિસ્તાન અને અફઘાનિસ્તાન વચ્ચે તણાવ જોવા મળી રહ્યો છે. અફઘાનિસ્તાનની તાલિબાન સરકારે પાકિસ્તાનમાં ઘૂસીને એરસ્ટ્રાઈક કરી હોવાનો દાવો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/afghanistan-launched-airstrikes-in-pakistan-isis-bases-taliban-claim-483243 ",
+    "time": "2026-07-01T07:12:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દેશભરમાં આજથી મનરેગા બંધ, તેની જગ્યાએ  VB G-RAM-G યોજના લાગૂ, જાણો કેટલી મળશે દૈનિક મજૂરી",
+    "desc": "આજથી દેશભરમાં મનરેગા યોજના હેઠળ હવે રોજગારી નહીં મળે કારણ કે આ યોજના બંધ થઈ ગઈ અને હવે તેની જગ્યા VB G-RAM-G એ લઈ લીધી છે. આ યોજના આજથી લાગૂ થઈ ગઈ છે. જે હેઠળ દૈનિક મજૂરીમાં પણ સારો એવો વધારો કરાયો છે. વધુ વિગતો ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/modi-govt-big-move-vb-g-ram-g-replaces-mgnrega-check-more-details-regarding-wage-483245 ",
+    "time": "2026-07-01T05:58:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જુલાઈના પહેલા જ દિવસે મોટો ધડાકો! પેટ્રોલ 5 અને ડીઝલ 3 રૂપિયા થયું સસ્તું, જનતાને બમ્પર રાહત",
+    "desc": "જુલાઈના પહેલા દિવસે પેટ્રોલ અને ડીઝલના ભાવમાં નોંધપાત્ર રાહત મળી છે. પેટ્રોલના ભાવમાં 5 રૂપિયાનો ઘટાડો કરવામાં આવ્યો હતો, જ્યારે ડીઝલના ભાવમાં 3 રૂપિયા પ્રતિ લિટરનો ઘટાડો કરવામાં આવ્યો હતો. આ ઘટાડો નાયરા એનર્જી દ્વારા કરવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-bang-on-the-first-day-of-july-petrol-becomes-cheaper-by-rs-5-and-diesel-by-rs-3-bumper-relief-for-the-public-483232 ",
+    "time": "2026-07-01T04:20:05.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ફૂટબોલ ઈતિહાસની સૌથી મોટી જંગ! ગોલ્ડન બૂટની રેસમાં મેસ્સીથી આગળ નીકળ્યો એમ્બાપ્પે",
     "desc": "ફૂટબોલ વર્લ્ડ કપના નોકઆઉટ રાઉન્ડમાં ફ્રાન્સે સ્વીડનને 3-0થી હરાવીને રાઉન્ડ ઓફ 16માં પ્રવેશ કર્યો છે. કિલિયન એમ્બાપ્પેએ બે ગોલ કરીને નોકઆઉટ મેચોના ઐતિહાસિક રેકોર્ડને તોડ્યો અને હવે તે ગોલ્ડન બૂટની રેસમાં મેસ્સીની હરોળમાં પહોંચી ગયો છે. ફ્રાન્સની ટીમ હવે આગામી રાઉન્ડમાં પેરાગ્વેનો સામનો કરશે. પેરાગ્વે એ જ ટીમ છે જેણે જર્મનીને હરાવીને મોટો ઉલટફેર કર્યો હતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/france-won-against-sweden-mbappe-ahead-of-messi-in-the-race-for-the-golden-boot-483229 ",
-    "time": "2026-07-01T03:25:52.000Z"
+    "time": "2026-07-01T04:08:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LPGમાં ઘટાડા પછી શું પેટ્રોલ-ડીઝલ અને CNGના ભાવ પણ ઘટ્યા? જાણો 1 જુલાઈના લેટેસ્ટ રેટ",
+    "desc": "કોમર્શિયલ LPG સિલિન્ડરના ભાવ ઘટાડાના સારા સમાચાર બાદ, આજે પેટ્રોલ અને ડીઝલના ગ્રાહકો નિરાશ થયા હતા. પેટ્રોલ કે ડીઝલના ભાવમાં કોઈ ફેરફાર થયો નથી. જાણો આજનો અમદાવાદ સહિત દેશના અનેક મોટા શહેરોના પેટ્રોલ ડીઝલના ભાવ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/after-lpg-became-cheaper-did-the-prices-of-petrol-diesel-and-cng-also-decrease-know-the-latest-prices-as-of-july-1-483231 ",
+    "time": "2026-07-01T03:32:45.000Z"
   },
   {
     "cat": "World",
@@ -315,15 +396,6 @@ const newsData_gu = [
     "time": "2026-06-29T11:23:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીના ડેબ્યૂ આડે કોનો ઈગો આવી રહ્યો છે ? ટીમ મેનેજમેન્ટનો કે પછી...",
-    "desc": "ભારતીય ટીમના સહાયક કોચ રાયન ટેન ડોશેટે સ્વીકાર્યું કે વૈભવ આંતરરાષ્ટ્રીય ક્રિકેટ માટે સંપૂર્ણપણે તૈયાર છે, પરંતુ જણાવ્યું કે, અન્ય ખેલાડીઓની જેમ તેને પણ 'પ્રોસેસ'માંથી પસાર થવું પડશે. જેના કારણે સવાલ ઉભા થઈ રહ્યા છે કે, જો ટીમ મેનેજમેન્ટ પોતે ખેલાડીને તૈયાર માને છે, તો પછી તેના ડેબ્યૂના આડે શું આવી રહ્યું છે - સિલેક્શનની વ્યૂહરચના, હાલના ખેલાડીઓ પર નિર્ભરતા કે 'પ્રોસેસ'નું બહાનું ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-is-ready-to-play-then-why-not-debut-in-team-india-483086 ",
-    "time": "2026-06-29T11:06:18.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કેતન પાસેથી 1 કરોડ રૂપિયા લઈએ સિયાએ ચેતનને આપી દીધા? 3 વર્ષ બાદ લગ્નનું આ પ્રેમીપંખીડાંનું હતું પ્લાનિંગ",
     "desc": "હવે આ સિયાના કેસમાં એક એવો ખુલાસો થયો છે. જે સાંભળીને તમે હચમચી જશો. સિયાએ લગ્નની ખરીદીના બહાને તેના મંગેતર કેતન અગ્રવાલ પાસેથી ₹1 કરોડ લીધા અને તેના પ્રેમી ચેતનને આપ્યા હોવાનું સૂત્રો જણાવી રહ્યાં છે. પોલીસ તપાસમાં આ બાબત ખૂલીને સામે આવી છે જોકે, આ મામલે આધારભૂત કોઈ વિગતો નથી. સિયાએ તેના મંગેતર પાસેથી ₹1 કરોડ લીધા અને ચેતનને આપ્યા હતા કારણ કે તે તેની આર્થિક સ્થિતિને મજબૂત બનાવી શકે.",
@@ -414,22 +486,13 @@ const newsData_gu = [
     "time": "2026-06-28T12:06:07.000Z"
   },
   {
-    "cat": "Business",
+    "cat": "World",
     "title": "ચીન ખુદ ખરીદી રહ્યું છે કરોડોનું સોનું, છતાં સામાન્ય લોકો માટે લગાવ્યા કડક પ્રતિબંધ! જાણો કારણ",
     "desc": "ચીને 2026ના પહેલા મહિનામાં 692 ટન સોનાની આયાત કરી હતી, જે પાછલા વર્ષ કરતા 76% વધુ છે. ફક્ત મે મહિનામાં જ ચીને 163 ટન સોનાની આયાત કરી હતી, જે દૈનિક 7600 કરોડ રૂપિયાથી વધુની ખરીદી બરાબર છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/china-is-buying-gold-worth-crores-yet-it-has-imposed-strict-restrictions-on-common-people-know-the-reason-482977 ",
     "time": "2026-06-28T11:37:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેવી રીતે કેતનને માર્યો ધક્કો? સિયા-ચેતને ખોલ્યા રાજ! લોહગઢ કિલ્લા પર રીક્રિએટ કરાયો ક્રાઈમ સીન",
-    "desc": "પુણે પોલીસ સિયા ગોયલ અને ચેતન ચૌધરીને લોહગઢ કિલ્લા પર લઈને પહોંચી, જ્યાંથી કેતન અગ્રવાલને ધક્કો મારવામાં આવ્યો હતો. પોલીસે ઘટનાસ્થળે આખો ક્રાઈમ સીન રીક્રિએટ કર્યો, જેથી સમજી શકાય કે આ વારદાતને કેવી રીતે અંજામ આપવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-did-ketan-get-pushed-into-the-valley-ketan-agarwal-murder-lohagad-fort-crime-scene-recreation-siya-goyal-482973 ",
-    "time": "2026-06-28T11:20:13.000Z"
   },
   {
     "cat": "Tech",
@@ -621,15 +684,6 @@ const newsData_gu = [
     "time": "2026-06-24T02:39:29.000Z"
   },
   {
-    "cat": "World",
-    "title": "અમેરિકા અને ઈરાન વચ્ચે બનશે હોટલાઈન, શિયા દેશની ઝોળીમાં આવશે 1 લાખ કરોડ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે મહત્વના દરિયાઈ વેપાર માર્ગ હોર્મુઝ સ્ટ્રેટ પર એક અત્યંત મહત્વનો નિર્ણય લેવાયો છે. જે હેઠળ એક વિશેષ ટેલિફોન હોટલાઈન અને કોઓર્ડિનેશન સેન્ટર બનાવવા પર સહમતિ થઈ છે. જાણો કઈ રીતે કરશે તે કામગીરી?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/big-outcome-of-us-iran-geneva-talks-regarding-hormuz-strait-hotline-frozen-assets-482414 ",
-    "time": "2026-06-23T07:21:25.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ઇતિહાસમાં પહેલીવાર એક ગુજરાતી બન્યા WhatsAppના CEO, 8512 કરોડ રૂપિયાની ભારે ભરખમ ડીલ મળી!",
     "desc": "મેટાએ ભારતીય ફિનટેક સ્ટાર્ટઅપ ક્રેડ (CRED)માં આશરે 8,550 કરોડ રૂપિયાનું રોકાણ કર્યું છે. આ ડીલ અંતર્ગત સ્ટાર્ટઅપના ફાઉન્ડર મૂળ ગુજરાતી અને જાણીતા ઉદ્યોગસાહસિક કુણાલ શાહ વોટ્સએપના ગ્લોબલ સીઈઓ (WhatsApp CEO Kunal Shah) બનશે, જ્યારે વર્તમાન પ્રમુખ વિલ કૈથકાર્ટ મેટામાં નવી જવાબદારી સંભાળશે.",
@@ -648,24 +702,6 @@ const newsData_gu = [
     "time": "2026-06-22T15:24:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ડાર્ક કોમેડી ફિલ્મ કોને કહેવાય જાણવું છે ? તો ઓટીટી પર અત્યારે જ જુઓ આ ફિલ્મ",
-    "desc": "જો તમને ડાર્ક કોમેડી જોનરની ફિલ્મો જોવી પસંદ છે તો આજે તમને ઓટીટી પર જોવા જેવી ડાર્ક કોમેડી ફિલ્મ વિશે જણાવીએ. આ ફિલ્મમાં રોમાન્સ, ડ્રામા, કોમેડી બધું જ એકસાથે જોવા મળશે. આ ફિલ્મ કેટલી જોરદાર હશે તે વાતનો અંદાજ તમે એ વાત પરથી લગાવી શકો છો કે ફિલ્મને 5 ઓસ્કર એવોર્ડ મળ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-dark-comedy-movie-on-netflix-anora-movie-in-hindi-on-ott-482327 ",
-    "time": "2026-06-22T12:18:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Toxic v/s Eetha: યશની ફિલ્મની નવી રિલીઝ ડેટ જાહેર, આ વખતે શ્રદ્ધા કપૂર અને યશ બોક્સ ઓફિસ પર હશે આમનેસામને",
-    "desc": "સુપરસ્ટાર યશની ફિલ્મ ટોક્સિકની રિલીઝ ડેટ 2 વખત બદલવામાં આવી જેથી આ ફિલ્મની ટક્કર અન્ય કોઈ ફિલ્મ સાથે ન થાય. આ વાતને ધ્યાનમાં રાખી ત્રીજી વખત ટોક્સિક માટે રિલીઝ ડેટ ફાઈનલ કરવામાં આવી છે તેમ છતાં આ ફિલ્મ બોલીવુડની મચઅવેડેટ ફિલ્મ સાથે ટકરાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/yash-movie-toxic-new-release-date-toxic-and-shraddha-kapoor-eetha-movie-box-office-clash-482292 ",
-    "time": "2026-06-22T06:23:33.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "15000માં મળી શકે છે ઇથેનોલ કન્વર્ઝન કીટ, જાણો કેવી રીતે કરે છે કામ",
     "desc": "આવી કીટનો ઉપયોગ કરીને BS4 અને BS6 વાહનોને ફ્લેક્સ-ફ્યુઅલ વાહનોમાં રૂપાંતરિત કરી શકાય છે. આ વાહનોને E85 અને E100 જેવા ઉચ્ચ-ઇથેનોલ મિશ્રણો પર સુરક્ષિત રીતે ચલાવવાની મંજૂરી આપે છે. આ ટેકનોલોજી જૂના પેટ્રોલ વાહનોને નવી ઇંધણ તકનીકો સાથે સંકલિત કરવા માટે એક મહત્વપૂર્ણ માર્ગ પણ ખોલી શકે છે.",
@@ -673,15 +709,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ethanol-conversion-kit-can-be-found-for-rs-15000-know-how-it-works-482210 ",
     "time": "2026-06-21T11:12:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઈંડિયાઝ ગોટ લેટેંટ 2 માં ગયાનો આલિયા ભટ્ટને થયો અફસોસ, જુઓ કેવી રીતે સમય રૈનાએ આલિયાને કરી રોસ્ટ",
-    "desc": "સમય રૈનાનો શો ઈંડિયાઝ ગોટ લેટેંટ 2 શરુ થઈ ચુક્યો છે અને આ વખતે આ શો યુટ્યુબ સાથે નેટફ્લિક્સ પર પણ જોવા મળે છે. આ શોના પહેલા એપિસોડમાં શરવરી વાઘ અને આલિયા ભટ્ટ પેનલમાં હતા. આ તકે સમય રૈનાએ આલિયા ભટ્ટને જબરદસ્ત રીતે રોસ્ટ કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/samay-raina-alia-bhatt-trolling-video-viral-indias-got-latent-alia-roast-for-jigra-movie-and-cannes-482199 ",
-    "time": "2026-06-21T09:18:48.000Z"
   },
   {
     "cat": "Tech",
@@ -718,14 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/why-are-70-percent-indians-afraid-of-selling-old-phones-the-reason-is-not-money-it-is-something-else-the-survey-reveals-482077 ",
     "time": "2026-06-20T09:28:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શું ACના આઉટડોર યુનિટ પર પાણી નાખવાથી ખરેખર ઘટે છે વીજળીનું બિલ? જાણો સત્ય",
-    "desc": "શું તમારુ AC કાળઝાળ ગરમીમાં તમારા રૂમને ઠંડક આપી શકતું નથી? તમે માત્ર આઉટડોર કોમ્પ્રેસર યુનિટ પર પાણીની એક ડોલ નાખીને કેવી રીતે ઠંડક વધારી શકો છો અને વીજળીનું બિલ પણ ઘટાડી શકો છો તે જાણો. અહીં સંપૂર્ણ પ્રક્રિયા અને સાવચેતીઓ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/does-pouring-water-on-the-outdoor-unit-of-an-ac-really-reduce-electricity-bills-know-the-truth-482017 ",
-    "time": "2026-06-19T14:46:23.000Z"
   }
 ];
