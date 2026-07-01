@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India vs England live streaming details, check when and where to watch matches on TV, online?",
+    "desc": "India and England are all set to lock horns against each other in a five-match T20I series, as eyes are glued on the Men in Blue on how they can bounce back from a 2-0...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-live-streaming-details-check-when-and-where-to-watch-matches-on-tv-online-2026-07-01-1046804",
+    "time": "2026-07-01T14:18:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After MLC, Ravi Ashwin joins another T20 league, named captain and mentor of Dublin Guardians",
+    "desc": "After the Major League Cricket, former India cricketer Ravichandran Ashwin has joined Dublin Guardians as the captain and mentor for the inaugural season of the European T20 Premier League (ETPL). Ashwin will be part of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/after-mlc-ravi-ashwin-joins-another-t20-league-named-captain-and-mentor-of-dublin-guardians-2026-07-01-1046792",
+    "time": "2026-07-01T12:37:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KSCA lifts three-year ban on Sreesanth; check details about the controversy",
+    "desc": "The Kerala Cricket Association (KCA) on Wednesday lifted the three-year ban on former India cricketer S Sreesanth, which it had imposed last year for his alleged defamatory remarks against the organisation. The decision was taken...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ksca-lifts-three-year-ban-on-sreesanth-check-details-about-the-controversy-2026-07-01-1046787",
+    "time": "2026-07-01T12:11:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi to make debut? Predicting India's Playing XI for 1st T20I against England",
+    "desc": "Vaibhav Sooryavanshi's much-awaited India debut has become the talk of the town. From being in awe of Abhishek Sharma and Ishan Kishan, the Indian fans have tweaked their habits as they turn their screens in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-to-make-debut-predicting-indias-playing-xi-for-1st-t20i-against-england-2026-07-01-1046775",
+    "time": "2026-07-01T10:43:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan dethrones Abhishek Sharma to become No.1 T20I batter, Ireland stars also rise",
+    "desc": "Ishan Kishan's sensational form with the bat continues, as the wicket-keeper batter stormed to the top of the ICC T20I rankings for the first time in his career on Wednesday, July 1. Kishan surpassed his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-dethrones-abhishek-sharma-to-become-no-1-t20i-batter-ireland-stars-also-rise-2026-07-01-1046764",
+    "time": "2026-07-01T09:54:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "France thump Sweden 3-0, register dominant victory to book RO16 berth",
     "desc": "France put forth an exceptional performance against Sweden in the round of 32 stage of the ongoing FIFA World Cup 2026. The two sides met in New Jersey and as many expected France to blow...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-book-ticket-to-women-s-world-cup-2026-final-register-dominant-8-wicket-win-against-west-indies-2026-06-30-1046710",
     "time": "2026-06-30T18:20:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Norway knock Ivory Coast out of the tournament",
-    "desc": "Norway and Ivory Coast are locking horns in the round of 32 of the ongoing FIFA World Cup 2026. The two sides are meeting at the Dallas Stadium in Arlington, and both sides will hope...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/nor-vs-civ-fifa-world-cup-2026-live-erling-haaland-in-action-as-norway-aim-to-book-ro16-ticket-1046701",
-    "time": "2026-06-30T16:31:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Vaibhav Sooryavanshi play for India in the first T20I against England? India skipper reveals",
-    "desc": "The stage is set for one of the most exciting games of the upcoming series between India and England. The two sides are meeting across five T20I matches and three ODI matches. The Indian team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-vaibhav-sooryavanshi-play-for-india-in-the-first-t20i-against-england-india-skipper-reveals-2026-06-30-1046699",
-    "time": "2026-06-30T16:20:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It was depressing': Shreyas Iyer backs India to bounce back after embarassing series loss against Ireland",
-    "desc": "The Indian team sustained a hefty loss against Ireland in their recently concluded T20I series. The two sides met in two T20I matches, and Ireland registered victories in both to clinch the series. After the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/it-was-depressing-shreyas-iyer-backs-india-to-bounce-back-after-embarassing-series-loss-against-ireland-2026-06-30-1046694",
-    "time": "2026-06-30T15:31:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil end 88-year-long wait with come-from-behind Japan win in World Cup round of 32",
-    "desc": "Brazil cleared a stern Japanese test in their FIFA World Cup round of 32 as they marched into the round of 16 after a stoppage-time goal from Gabriel Martinelli helped them prevail 2-1 at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/brazil-end-88-year-long-wait-with-come-from-behind-japan-win-in-world-cup-round-of-32-2026-06-30-1046643",
-    "time": "2026-06-30T08:41:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former IPL winner and Australia all-rounder to play for Portugal in T20 World Cup Qualifiers",
-    "desc": "Former IPL winner with Sunrisers Hyderabad and Australia all-rounder Moises Henriques will switch allegiance from Australia to Portugal as he will represent his birth nation at the upcoming T20 World Cup qualifiers in August. Henriques...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-ipl-winner-and-australia-all-rounder-to-play-for-portugal-in-t20-world-cup-qualifiers-2026-06-30-1046638",
-    "time": "2026-06-30T08:12:11.000Z"
   }
 ];

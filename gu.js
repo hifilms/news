@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ફિફા બાદ હવે બુંદેશલીગા! ભારતમાં ફૂટબોલ ક્રાંતિ માટે Zee Entertainment અને જર્મન ફૂટબોલ લીગ વચ્ચે 5 વર્ષનો એક્સક્લુઝિવ કરાર",
+    "desc": "દેશની અગ્રણી કંપની ZEEL પોતાના સ્પોર્ટ્સ પોર્ટફોલિયોનો સતત વિસ્તાર કરી રહી છે. ફુટબોલ વિશ્વકપ બાદ હવે કંપનીએ જર્મનીની પ્રસિદ્ધ ફુટબોલ લીગ બુંદેશલીગાના રાઇટ્સ મેળવ્યા છે. હવે આગામી સમયમાં લીગની મેચો ભારતીય દર્શકો Zee 5 અને Unite8 Sports પર નિહાળી શકશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/zee-secures-exclusive-broadcast-and-digital-rights-for-bundesliga-in-india-for-5-years-483295 ",
+    "time": "2026-07-01T13:12:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આજની મેચ પર એક જ સવાલ સૂર્યવંશી રમશે કે નહીં ? શું ટીમ મેનેજમેન્ટને છોડવી પડશે જીદ ? જાણો કેવી હશે પ્લેઈંગ-11",
+    "desc": "આયર્લેન્ડ સામે 2-0થી હાર બાદ ટીમ ઈન્ડિયા ઇંગ્લેન્ડ સામે પાંચ મેચની T20 શ્રેણીમાં નવી શરૂઆત કરવા માટે પ્રયત્ન કરશે. સૌથી મોટો પ્રશ્ન વૈભવ સૂર્યવંશીના ડેબ્યૂને લઈને છે. કેપ્ટન શ્રેયસ ઐયરની આગેવાની હેઠળની ટીમને તેની બેટિંગ સુધારવાનું દબાણ છે, જ્યારે ઇંગ્લેન્ડ એક મજબૂત અને સંતુલિત ટીમ સાથે મેદાનમાં ઉતરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-england-1st-t20-will-sooryavanshi-play-or-not-team-india-playing-11-483296 ",
+    "time": "2026-07-01T12:38:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એક ભૂલ અને ઘરે પહોંચશે Notice! પાછલા વર્ષે Income Tax માં થયા હતા આ 10 ફેરફાર, આ વર્ષે ITR ભરવા સમયે રાખો ધ્યાન",
+    "desc": "બજેટ 2025મા જે ફેરફાર થયા હતા. તે નાણાકીય વર્ષ 2025-2026 માટે હતા. આપણે નાણાકીય વર્ષ 2025-2026 માટે આઈટીઆર ભરી રહ્યાં છીએ, જેની છેલ્લી તારીખ 31 જુલાઈ છે. આવો જાણીએ તેવા 10 ફેરફાર, જે પાછલા વર્ષે બજેટમાં થયા હતા અને તેની તમને આ વર્ષે આઈટીઆર ભરવા સમયે જરૂર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/avoid-tax-notices-10-major-income-tax-changes-to-remember-while-filing-your-itr-483290 ",
+    "time": "2026-07-01T11:20:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સિયા કેતનના 36માંથી 27 ગુણ મળ્યા હતા, આદર્શ લગ્ન જીવનનો હતો દાવો, છતાં આટલો દર્દનાક અંત?",
+    "desc": "પુનાના કેતન અગ્રવાલ હત્યા કેસમાં હવે એક વાત એ સામે આવી છે કે કેતન અને સિયાની જ્યારે કુંડળી મેચ કરવામાં આવી તો 36માંથી 27 ગુણ મળતા હતા. જેને વૈદિક જ્યોતિષમાં ખુબ સારું ગણવામાં આવે છે. ત્યારે આ ગુણ મળવા એ ખરેખર લગન જીવનની સફળતાની ગેરંટી છે? કેતન હત્યાકાંડ બાદ હવે આ સવાલ પણ ઊભો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/siya-and-ketan-horoscope-27-gun-out-of-36-matched-then-why-tragically-ended-483283 ",
+    "time": "2026-07-01T10:07:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બદલાઈ ગયો પ્રથમ T20નો સમય... 7 નહીં, હવે આટલા વાગ્યે થશે શરૂ, જાણો ક્યાં જોઈ શકશો લાઈવ",
+    "desc": "ભારત અને ઇંગ્લેન્ડ વચ્ચેની પહેલી T20 મેચ ચેસ્ટર-લે-સ્ટ્રીટ ખાતે રમાશે. સમય ઝોનના તફાવતને કારણે ભારતમાં મેચ મોડી શરૂ થશે. ત્યારે આ લેખમાં જાણીશું કે, મેચ કેટલા વાગ્યે શરૂ થશે અને તમે આ મેચ ક્યાં લાઈવ જોઈ શકશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/england-vs-india-1st-t20-match-timing-know-where-to-watch-live-streaming-483281 ",
+    "time": "2026-07-01T09:47:43.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "સુનિતા આહુજાએ Lock Up 2માં ગોવિંદાના અફેર અંગે કહી દીધું, &amp;quot;પહેલાથી જ ચાલે છે, હીરો છે તેને રોકી ન શકાય...&amp;quot;",
     "desc": "આ વખતના રિયાલિટી શો લોક અપને જોતા એવું લાગે છે કે આ શો બિગ બોસના રેકોર્ડ તોડી નાખશે. રિયાલીટી શોની શરુઆતથી જ દર્શકોને મસાલેદાર ગોસિપ મળી રહ્યું છે. તાજેતરમાં જ સુનિતા આહુજાએ ગોવિંદાના અફેર અંગે પણ ધડાકો કરી દીધો છે.",
@@ -306,15 +351,6 @@ const newsData_gu = [
     "time": "2026-06-30T04:22:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બ્રાઝિલ વર્લ્ડ કપના પ્રી-ક્વાર્ટર ફાઇનલમાં પહોંચ્યું, છેલ્લી ઘડીએ તૂટ્યું જાપાનનું દિલ, ટુર્નામેન્ટમાંથી થયા બહાર",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026ના રાઉન્ડ ઓફ 32માં બ્રાઝિલે જાપાનને 2-1થી હરાવ્યું. આ જીત સાથે, બ્રાઝિલ પ્રી-ક્વાર્ટર ફાઇનલ (રાઉન્ડ ઓફ 16)માં પ્રવેશ કર્યો છે. હ્યુસ્ટન સ્ટેડિયમ ખાતે સ્ટોપેજ ટાઇમમાં ગેબ્રિયલ માર્ટિનેલીના ગોલે મેચનું પરિણામ પલટી નાખ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/brazil-reached-the-pre-quarterfinals-of-the-world-cup-japan-were-eliminated-from-the-tournament-483137 ",
-    "time": "2026-06-30T03:39:42.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કેતન અગ્રવાલ કેસ: શું છે આ &amp;#039;ગેટ એનાલિસિસ&amp;#039;? જેની મદદથી પોલીસ ગૂંચવાયેલું કોકડું ઉકેલવા માંગે છે, મળશે મોટી મદદ",
     "desc": "ચેતન અગ્રવાલ હત્યા કેસમાં વળી પાછો એક નવો પહેલું સામે આવ્યો છે. પોલીસ આરોપીનું ગેટ એનાલિસિસ કરાવવા માંગે છે. અત્રે જણાવવાનું કે આરોપીઓની પોલીસ કસ્ટડી પૂરી થતા કાલે કોર્ટમાં રજૂ કરાયા હતા અને તેમની 3 જુલાઈ સુધી પોલીસ કસ્ટડી લંબાવવામાં આવી છે. હવે આ સમય દરમિયાન પોલીસ શું શું કરવા માંગે છે તે પણ વિગતો સામે આવી છે.",
@@ -340,33 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/not-17-now-only-7-percent-obc-reservation-will-be-available-113-castes-are-also-out-big-decision-in-this-state-483125 ",
     "time": "2026-06-29T16:37:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઇંગ્લેન્ડ સિરીઝ આ બે ખેલાડીઓ માટે છેલ્લી તક ! જો ફ્લોપ થયા તો ટીમ ઇન્ડિયામાંથી બહાર ?",
-    "desc": "ભારત અને ઇંગ્લેન્ડ વચ્ચેની આગામી પાંચ મેચની T20 શ્રેણી માત્ર ટીમ ઇન્ડિયા માટે જ નહીં, પરંતુ આ બે ખેલાડીઓના કરિયર માટે પણ મહત્વપૂર્ણ માનવામાં આવે છે. જો આ શ્રેણીમાં તેમનું પ્રદર્શન અપેક્ષાઓ મુજબ ન રહે તો ટીમમાં તેમનું સ્થાન જોખમમાં મુકાઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/england-series-last-chance-for-sanju-and-tilak-if-flop-show-may-dropped-from-team-483123 ",
-    "time": "2026-06-29T15:31:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારતીય મહિલા ટીમની 2028 ઓલિમ્પિકમાં એન્ટ્રી, પુરુષ ટીમે જોવી પડશે રાહ",
-    "desc": "ICC અને IOCએ લોસ એન્જલસ ઓલિમ્પિક્સ 2028માં ક્રિકેટની વાપસી માટે ક્વોલિફિકેશન નિયમો જાહેર કર્યા છે. આ નિયમો હેઠળ ભારતીય મહિલા ટીમ આગામી ઓલિમ્પિક્સ માટે ક્વોલિફાય થઈ ગઈ છે. ત્યારે પુરુષ ટીમને હજુ રાહ જોવી પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-womens-cricket-team-qualifies-for-2028-los-angeles-olympics-483098 ",
-    "time": "2026-06-29T13:41:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ક્યારથી શરૂ થશે ઈંગ્લેન્ડ સામેની T20 સિરીઝ ? જાણો ક્યાં જોઈ શકશો લાઈવ",
-    "desc": "ભારત અને આયર્લેન્ડ વચ્ચે T20 શ્રેણી પછી ટીમ ઇન્ડિયા ઇંગ્લેન્ડનો પ્રવાસ કરશે, જ્યાં પહેલા પાંચ મેચની T20 શ્રેણી રમાશે, ત્યારબાદ ત્રણ ODI મેચ રમાશે. ત્યારે આ T20 સિરીઝ ક્યારથી શરૂ થશે અને આ મેચો ક્યાં લાઈવ જોઈ શકશો તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-england-t20-series-schedule-and-live-streaming-details-483093 ",
-    "time": "2026-06-29T12:19:19.000Z"
   },
   {
     "cat": "Business",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/explainer-7-earthquakes-in-4-days-is-the-world-in-danger-of-a-major-catastrophe-know-483010 ",
     "time": "2026-06-28T17:03:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "એલર્ટ ! આગામી 5 દિવસ ભારે ! આ વિસ્તારોમાં તૂટી પડશે વરસાદ, હવામાન વિભાગની મોટી આગાહી",
-    "desc": "ભારતીય હવામાન વિભાગે આગામી પાંચ દિવસમાં અનેક રાજ્યોમાં ભારેથી અતિ ભારે વરસાદની આગાહી કરી છે. પૂર્વોત્તર રાજ્યો, પૂર્વ અને દક્ષિણ ભારતના વિવિધ ભાગોમાં પૂર જેવી સ્થિતિ સર્જાવાની શક્યતા છે. લોકોને સતર્ક રહેવા અને હવામાન વિભાગની સલાહનું પાલન કરવા વિનંતી કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/rain-alert-imd-heavy-rain-prediction-in-7-states-next-5-days-weather-update-483008 ",
-    "time": "2026-06-28T16:01:20.000Z"
   },
   {
     "cat": "World",
