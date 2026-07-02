@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sciver-Brunt, Heather Knight script England’s comeback to beat South Africa, book place in T20 World Cup final",
+    "desc": "England defeated South Africa by 40 runs in the second semi-final at the Kennington Oval to cement their spot in the T20 World Cup 2026 final, where they will face arch-rivals Australia. Notably, the hosts had...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sciver-brunt-heather-knight-script-englands-comeback-to-beat-south-africa-book-place-in-t20-world-cup-final-2026-07-03-1046962",
+    "time": "2026-07-02T21:50:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mikel Oyarzabal scores brace as Spain hammer Austria to qualify for FIFA World Cup 2026 round of 16",
+    "desc": "Spain hammered Austria 3-0 in Los Angeles to secure a place in the Round of 16 of the FIFA World Cup 2026. Real Sociedad forward Mikel Oyarzabal scored a brace, while Pedro Porro added another...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mikel-oyarzabal-scores-brace-as-spain-hammer-austria-to-qualify-for-fifa-world-cup-2026-round-of-16-2026-07-03-1046961",
+    "time": "2026-07-02T21:25:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Nico Williams not playing Spain vs Austria clash in FIFA World Cup 2026?",
     "desc": "Spain are without winger Nico Williams for their FIFA World Cup 2026 group-stage clash against Austria after the 23-year-old sustained a right thigh injury during the closing stages of their previous match against Uruguay. The injury...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Live action begins, both teams play high-intensity game",
+    "title": "Spain beat Austria 3-0, after brace from Oyarzabal and goal from Porro",
     "desc": "Spain and Austria meet in the FIFA World Cup 2026 Round of 32 at the Los Angeles Stadium in Inglewood. It’s a knockout clash defined by contrast as Spain’s possession-heavy control plays against an Austrian...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-to-play-in-womens-t20-world-cup-final-despite-injury-coach-drops-major-hint-2026-07-02-1046925",
     "time": "2026-07-02T12:25:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Schedule for India's Test tour of Sri Lanka announced, no mention of T20Is; check details",
-    "desc": "Sri Lanka Cricket announced the schedule for India's Test tour of the island nation, as a two-match series beckons the two Asian sides in August. India will be travelling to Sri Lanka for two World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/schedule-for-indias-tour-of-sri-lanka-announced-check-test-fixtures-as-for-two-match-series-2026-07-02-1046898",
-    "time": "2026-07-02T10:12:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shot in arm for Spain ahead of World Cup knockouts, Luis De La Fuente speaks up on Lamine Yamal's fitness",
-    "desc": "In a major boost for Spain heading into the World Cup knockouts, coach Luis De La Fuente on Wednesday confirmed star winger Lamine Yamal is healthy enough to play a full match for La Roja....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/shot-in-arm-for-spain-ahead-of-world-cup-knockouts-luis-de-la-fuente-speaks-up-on-lamine-yamals-fitness-2026-07-02-1046896",
-    "time": "2026-07-02T09:53:31.000Z"
   }
 ];

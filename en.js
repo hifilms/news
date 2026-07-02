@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Permit reveals Taylor-Travis' wedding schedule",
+    "desc": "Taylor Swift and Travis Kelce's highly anticipated wedding is reportedly set to take place at New York's Madison Square Garden, with festivities commencing Friday evening and extending into Saturday morning. A city permit confirms a \"Special Event at MSG,\" including a rehearsal dinner Thursday and a main event for up to 1,000 guests. Speculation has been rife, with crews seen unloading equipment, though the couple has not confirmed details.",
+    "img": "https://static.toiimg.com/photo/msid-132148119,imgsize-115912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-travis-kelce-wedding-permit-reveals-schedule-for-wedding-celebrations-at-madison-square-garden/articleshow/132147784.cms",
+    "time": "2026-07-02T21:48:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt expects pick-up in economy as West Asia situation improves",
+    "desc": "India's economy is showing robust resilience, with strong GDP growth, expanding manufacturing and services, and healthy GST collections. Despite initial global uncertainties and a weaker monsoon, domestic demand and investment remain strong. Government's sustained capital expenditure, particularly in infrastructure like railways, is front-loaded, boosting sectors like construction and transport, and signaling a positive economic outlook.",
+    "img": "https://static.toiimg.com/photo/msid-132148102,imgsize-572453.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-expects-pick-up-in-economy-as-west-asia-situation-improves/articleshow/132148103.cms",
+    "time": "2026-07-02T21:33:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bride-to-be Taylor Swift arrives for rehearsal dinner",
+    "desc": "Excitement brews as Taylor Swift and Travis Kelce approach their wedding celebration plans in New York City. The renowned singer was recently spotted entering Madison Square Garden for a rehearsal dinner alongside a constellation of stars, including Adam Sandler and Ed Sheeran. As rumors unfold regarding their private ceremony and grand reception, whispers suggest that the couple might have already tied the knot behind closed doors.",
+    "img": "https://static.toiimg.com/photo/msid-132147852,imgsize-148088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-travis-kelce-wedding-bride-to-be-arrives-for-rehearsal-dinner-with-celebrity-guests-at-madison-square-garden-watch/articleshow/132147835.cms",
+    "time": "2026-07-02T21:32:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Cryptocurrency difficult to regulate, RBI tells Parliamentary panel",
+    "desc": "The Reserve Bank of India has firmly stated its opposition to legalizing cryptocurrencies, citing concerns about their potential to fund illicit activities like drug trafficking and terrorism. The central bank emphasized the challenges in regulating virtual digital assets, particularly for emerging economies like India. In contrast, the Institute of Chartered Accountants of India sees VDAs as strategic opportunities, advocating for a comprehensive law to boost cross-border payments and fintech innovation.",
+    "img": "https://static.toiimg.com/photo/msid-132147903,imgsize-1683438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cryptocurrency-difficult-to-regulate-rbi-tells-parliamentary-panel/articleshow/132147908.cms",
+    "time": "2026-07-02T21:29:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "OMCs back in foreign exchange market? Spike in $ demand raises buzz",
+    "desc": "The Indian rupee weakened against the dollar, closing at 95.4, as oil marketing companies reportedly resumed significant dollar purchases for upcoming crude oil imports. This renewed demand for dollars, despite positive global sentiment for Asian currencies and lower oil prices, has raised concerns about rupee volatility. Experts anticipate a potential return to stronger rupee levels once this temporary dollar demand subsides.",
+    "img": "https://static.toiimg.com/photo/msid-132147898,imgsize-1276878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/omcs-back-in-foreign-exchange-market-spike-in-demand-raises-buzz/articleshow/132147893.cms",
+    "time": "2026-07-02T21:24:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Adani, IHC join hands for $11.5 billion aluminium project",
+    "desc": "Abu Dhabi's International Holding Company is significantly expanding its partnership with the Adani Group by investing $11.5 billion in a massive integrated aluminium project in Odisha. This joint venture will establish one of India's largest aluminium hubs, featuring a refinery, smelter, and power plant. The move comes as Adani Enterprises also launched a $1 billion qualified institutional placement, bolstering its capital raise efforts.",
+    "img": "https://static.toiimg.com/photo/msid-132147854,imgsize-721742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/adani-ihc-join-hands-for-11-5-billion-aluminium-project/articleshow/132147849.cms",
+    "time": "2026-07-02T21:14:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sussanne did not take Rs 400 crore alimony from Hrithik,' Farah rubbishes rumours",
+    "desc": "Sussanne Khan's sister, Farah Khan Ali, has vehemently denied widespread reports of Sussanne receiving a Rs 400 crore alimony from ex-husband Hrithik Roshan. Farah clarified that Sussanne took no money, emphasizing her graceful conduct throughout the divorce, which has fostered a positive relationship with Hrithik and his family. Farah also shared her own separation experience, highlighting the family's focus on relationships over material wealth.",
+    "img": "https://static.toiimg.com/photo/msid-132147864,imgsize-327514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sussanne-khan-did-not-take-rs-400-crore-alimony-from-hrithik-roshan-during-divorce-farah-khan-ali-rubbishes-rumours-she-is-not-a-gold-digger/articleshow/132147855.cms",
+    "time": "2026-07-02T21:10:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Chipflation is here and you'll have to pay for it",
+    "desc": "The AI boom is driving up the cost of everyday electronics, a phenomenon dubbed 'chipflation'. Memory chip prices have surged dramatically, impacting everything from smart TVs and smartphones to kitchen appliances. Manufacturers are diverting chip production to AI infrastructure, leading to scarcity and price hikes for consumers. This could significantly slow down upgrades for budget-conscious buyers, with global smartphone shipments expected to hit a decade low.",
+    "img": "https://static.toiimg.com/photo/msid-132147840,imgsize-1183595.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/chipflation-is-here-and-youll-have-to-pay-for-it/articleshow/132147841.cms",
+    "time": "2026-07-02T21:01:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift and Travis Kelce donate USD 26 MILLION to charities",
+    "desc": "Pop superstar Taylor Swift and NFL star Travis Kelce have generously donated $26 million to 20 charities this week, ahead of their reported Friday wedding at Madison Square Garden. The significant contributions span local and national organizations, including food banks and children's hospitals, reflecting the couple's deep connections to various communities. This philanthropic gesture echoes their past charitable endeavors, further captivating fans worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-132147801,imgsize-116244.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-travis-kelce-wedding-bride-and-groom-donate-usd-26-million-to-charities-receive-thank-you-notes-ahead-of-grand-celebrations/articleshow/132147785.cms",
+    "time": "2026-07-02T20:54:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Low-cost energy, growing demand prime reasons for entering aluminium sector: Karan Adani",
+    "desc": "The total project cost is pegged at $11.5 billion (₹1.08 lakh crore). While 50% of the cost will be borne by Adani Enterprises — the holding company of the Adani Group — the rest 50% will be by IHC",
+    "img": "https://th-i.thgim.com/public/incoming/z65g6c/article71175941.ece/alternates/LANDSCAPE_1200/20260702126L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/low-cost-energy-growing-demand-prime-reasons-for-entering-aluminium-sector-karan-adani/article71174895.ece",
+    "time": "2026-07-02T20:53:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Bank of Baroda enters 5.7k crore settlement with creditors of NMC Health",
+    "desc": "Bank of Baroda has settled a major legal dispute, agreeing to pay $600 million to administrators of the collapsed NMC Health group. This out-of-court agreement concludes years of litigation concerning cross-border insolvency and alleged fraud following NMC's 2020 downfall. The payment will be distributed to creditors, with the bank's shares seeing a reaction to the news.",
+    "img": "https://static.toiimg.com/photo/msid-132147820,imgsize-687680.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-of-baroda-enters-5-7k-crore-settlement-with-creditors-of-nmc-health/articleshow/132147821.cms",
+    "time": "2026-07-02T20:51:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Recruiters deploy AI to catch ghost coders",
+    "desc": "Campus hiring faces a new wave of sophisticated cheating, fueled by GenAI. Recruiters are battling hidden devices, AI tools, proxy candidates, and ghost coders. To counter this, companies are increasingly deploying AI-powered proctoring and shifting away from browser-based tests. Experts highlight that live follow-up interviews are proving effective in exposing candidates who relied on AI assistance.",
+    "img": "https://static.toiimg.com/photo/msid-132147814,imgsize-789438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/recruiters-deploy-ai-to-catch-ghost-coders/articleshow/132147815.cms",
+    "time": "2026-07-02T20:48:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Minor' drop in mileage of vehicles due to E20, says Hardeep Singh Puri",
+    "desc": "Petroleum Minister Hardeep Singh Puri addressed public concerns regarding ethanol-blended fuel, dismissing social media narratives as \"make-believe.\" He clarified that any mileage reduction in E20-fuelled vehicles is minor, with potential benefits like improved acceleration. The ministry has released a detailed note to counter misinformation and reassure vehicle owners about the safety and established practice of ethanol blending, citing historical support from figures like Henry Ford.",
+    "img": "https://static.toiimg.com/photo/msid-132147793,imgsize-703184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/minor-drop-in-mileage-of-vehicles-due-to-e20-says-hardeep-singh-puri/articleshow/132147795.cms",
+    "time": "2026-07-02T20:41:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pharma pricing norms for new drugs eased",
+    "desc": "The government has significantly reformed the Drugs (Prices Control) Order, 2013, easing compliance for drugmakers. Overcharging liability is now narrowed, focusing only on stock sold above ceiling prices by retailers or distributors, not entire batches. New drug launches will also see simplified pricing approvals, reducing procedural delays and streamlining market entry for similar products.",
+    "img": "https://static.toiimg.com/photo/msid-132147777,imgsize-905418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pharma-pricing-norms-for-new-drugs-eased/articleshow/132147778.cms",
+    "time": "2026-07-02T20:36:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC nixes rulings by NCLT, NCLAT based on fake AI citations",
+    "desc": "The Supreme Court has nullified orders from NCLT and NCLAT due to their reliance on fabricated AI-generated case laws. Justices cautioned against unchecked AI use, emphasizing human control in justice delivery. The court stressed a zero-tolerance approach for unverified AI precedents, declaring any decision based on such material invalid. A committee will now explore this issue, highlighting the risks of delegating critical thinking to AI.",
+    "img": "https://static.toiimg.com/photo/msid-132147769,imgsize-1687417.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-nixes-rulings-by-nclt-nclat-based-on-fake-ai-citations/articleshow/132147770.cms",
+    "time": "2026-07-02T20:29:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi, Japan PM Sanae Takaichi push for early Quad meet",
+    "desc": "Prime Minister Modi and his Japanese counterpart reaffirmed commitment to an early Quad summit, stressing freedom of navigation in the Strait of Hormuz and opposing restrictive measures. The joint statement unequivocally condemned cross-border terrorism from Pakistan, specifically mentioning groups like Jaish and Lashkar, and supported India's IEA membership. Both nations also voiced opposition to unilateral actions in the East and South China Seas.",
+    "img": "https://static.toiimg.com/photo/msid-132147764,imgsize-1100606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-japan-pm-sanae-takaichi-push-for-early-quad-meet/articleshow/132147757.cms",
+    "time": "2026-07-02T20:25:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farah breaks silence on mother Zareen's Hindu cremation despite marrying a Muslim",
+    "desc": "Zareen Khan's daughter, Farah Khan Ali, revealed the touching reason behind her mother's cremation as per Hindu rituals. Zareen, who was Parsi by birth and married to a Muslim, wished for her ashes to be immersed in flowing water, finding graves claustrophobic. Farah also shared her father Sanjay Khan's grief and her own enduring love for her mother, a woman of immense love and forgiveness.",
+    "img": "https://static.toiimg.com/photo/msid-132147763,imgsize-318077.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-ali-breaks-silence-on-mother-zareen-khans-hindu-cremation-despite-being-a-parsi-and-marrying-a-muslim-there-were-unkind-comments-she-was-claustrophobic-in-a-grave/articleshow/132147746.cms",
+    "time": "2026-07-02T20:25:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "To avoid legal battles, ED settles 150 Fema cases with RBI nod",
+    "desc": "The Enforcement Directorate is opting for large-scale compounding of Foreign Exchange Management Act (Fema) cases, with the Reserve Bank of India's approval, to expedite resolutions and avoid lengthy legal battles. Over 150 Fema cases have been terminated in the past 15 months following \"no-objection certificates\" from the ED. This approach, involving penalty payments, aims to foster a more facilitative business environment in India.",
+    "img": "https://static.toiimg.com/photo/msid-132147733,imgsize-1198759.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/to-avoid-legal-battles-ed-settles-150-fema-cases-with-rbi-nod/articleshow/132147736.cms",
+    "time": "2026-07-02T20:07:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After WhatsApp, Centre sends notices to Telegram, Signal",
+    "desc": "Following a directive to Meta, the Indian government has now issued notices to Telegram and Signal, demanding explanations on their existing username systems. Authorities are seeking details on how these platforms prevent fraud, impersonation, and scams, giving them three days to respond. The government also questioned Telegram's continued offering of its username feature, citing concerns over potential cybercrime.",
+    "img": "https://static.toiimg.com/photo/msid-132147708,imgsize-606427.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-whatsapp-centre-sends-notices-to-telegram-signal/articleshow/132147700.cms",
+    "time": "2026-07-02T20:03:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka set for rollout of VB-G RAM G scheme",
+    "desc": "Legal decks have been cleared for the rollout of the VB-G RAM G scheme in Karnataka with the State government issuing a notification in this regard on Thursday. The notification comes on the eve of the meeting of RDPR Ministers convened by the Centre in Delhi",
+    "img": "https://th-i.thgim.com/public/incoming/3s4spu/article71175646.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-03%20at%2017.46.48%201.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-set-for-rollout-of-vb-g-ram-g-scheme/article71175309.ece",
+    "time": "2026-07-02T19:30:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC’s ‘Return to Play Post-Pregnancy’ guidelines",
+    "desc": "After 30 action-packed matches, the stage is set for a crowning of the new Women’s T20 World Cup champions. The lively tournament spotlighted the ever-growing sport and the need to offer a level playing field for the women who hit the 22 yards. A new policy introduced by the ICC promises to do just that",
+    "img": "https://th-i.thgim.com/public/incoming/5iwagv/article71162847.ece/alternates/LANDSCAPE_1200/GettyImages-2283711390.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/iccs-return-to-play-post-pregnancy-guidelines-explained/article71173108.ece",
+    "time": "2026-07-02T19:27:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "struggles of families of children with chronic disabilities in Kerala",
+    "desc": "Families of children with chronic diseases are struggling to manage their lives and the medical treatment of their wards, finds C. Maya. Experts in the field highlight the need to evolve a societal support system for the families",
+    "img": "https://th-i.thgim.com/public/incoming/xt4wio/article71175163.ece/alternates/LANDSCAPE_1200/Sun_set.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/debilitating-disability-struggles-of-families-of-children-with-chronic-disabilities-in-kerala/article71170151.ece",
+    "time": "2026-07-02T19:21:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi-Mumbai E-way contractor sacked for poor quality work: NHAI on viral video of damaged sections",
+    "desc": "A viral video showing a damaged section of the Delhi-Mumbai Expressway in Rajasthan has sparked renewed criticism. The National Highways Authority of India terminated the original contractor's agreement in April due to persistent poor performance. Repairs are underway by a new builder at the former contractor's expense, with micro-milling and permanent reconstruction planned after traffic diversion. Experts are investigating the cause of the pavement distress.",
+    "img": "https://static.toiimg.com/photo/msid-132146754,imgsize-627001.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-mumbai-e-way-contractor-sacked-for-poor-quality-work-nhai-on-viral-video-of-damaged-sections/articleshow/132146635.cms",
+    "time": "2026-07-02T19:13:03.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Omar Abdullah backs call for India-Pak talks, says even RSS favours dialogue",
     "desc": "Jammu and Kashmir Chief Minister Omar Abdullah advocated for renewed India-Pakistan dialogue, emphasizing it's the sole path to de-escalate tensions. He questioned the criticism faced by J&K politicians for similar calls, contrasting it with the lack of backlash for RSS leaders advocating open talks. Abdullah highlighted the importance of improving neighborly relations, referencing former PM Vajpayee's sentiment.",
@@ -117,15 +324,6 @@ const newsData_en = [
     "time": "2026-07-02T17:17:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "No need to doubt transparency of SIR in Jharkhand, says CEO",
-    "desc": "K. Ravi Kumar says Special Intensive Revision of electoral rolls is to ensure constitutional rights to Indian citizens; foreign nationals living legally or illegally cannot participate and giving a false declaration is a criminal offence",
-    "img": "https://th-i.thgim.com/public/incoming/v8808l/article71175657.ece/alternates/LANDSCAPE_1200/20260610292L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/interview-with-jharkhand-ceo-k-ravi-kumar-no-need-to-doubt-transparency-of-sir-in-jharkhand/article71175100.ece",
-    "time": "2026-07-02T17:05:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Suniel Shetty left shoot abruptly when he heard of Divya Bharti's death",
     "desc": "Veteran actress Madhoo recounted an emotional moment on the sets of 'Hum Hain Bemisaal' when co-star Suniel Shetty abruptly left the shoot upon learning of Divya Bharti's tragic death. Shetty, who shared a close bond with Bharti, immediately flew to Mumbai. Madhoo, though never meeting Bharti, felt a connection through their families' friendship and Bharti's role in Hema Malini's directorial debut.",
@@ -133,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-left-shoot-abruptly-as-soon-he-heard-of-divya-bhartis-death-says-madhoo-he-had-known-her-well/articleshow/132142789.cms",
     "time": "2026-07-02T17:03:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ECI asks both factions of TMC to submit responses on organisational elections",
-    "desc": "Rebel faction meets a full Bench of the EC; declining to disclose the documents submitted to the poll body, Ritabrata Banerjee says they ‘abided by all rules’ in conducting an organisational session on June 22",
-    "img": "https://th-i.thgim.com/public/incoming/3cwbj9/article71175513.ece/alternates/LANDSCAPE_1200/Rebel%20Trinamool%20Ritabrata%20Banerjee%20ECI%202.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/eci-asks-both-factions-of-tmc-to-submit-responses-on-organisational-elections/article71174777.ece",
-    "time": "2026-07-02T16:17:22.000Z"
   },
   {
     "cat": "Sports",
@@ -378,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-02T12:18:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Baaten Hain, Baaton Ka Kya’: Why India-Pakistan Track II, III, IV... diplomacy is a song on loop",
-    "desc": "A recent open letter from prominent Indian and Pakistani citizens urging renewed dialogue for peace faces an uphill battle. The article argues that India-Pakistan relations are stalled not by a lack of meetings, but by deep-seated ideological, political, and institutional divides. Pakistan's military establishment holds the real power, rendering civilian-led talks potentially futile.",
-    "img": "https://static.toiimg.com/photo/msid-132139058,imgsize-561882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/baaten-hain-baaton-ka-kya-why-india-pakistan-track-ii-iii-iv-diplomacy-is-a-song-on-loop/articleshow/132137199.cms",
-    "time": "2026-07-02T12:14:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Enough is enough': Ex-England captain demands McCullum resign after Stokes retirement",
     "desc": "Michael Vaughan has launched a fierce critique of England's cricket leadership, demanding the resignations of coach Brendon McCullum and managing director Rob Key following Ben Stokes' international retirement. Vaughan expressed deep dissatisfaction with the team's dismal recent Test record, stating English cricket must strive for better than its current seventh-place ranking. He believes sweeping changes are necessary to revive the team's fortunes and restore pride.",
@@ -441,15 +621,6 @@ const newsData_en = [
     "time": "2026-07-02T11:38:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Outrage when J&amp;K leaders urge talks, not when RSS does': Omar Abdullah backs call for India-Pakistan dialogue",
-    "desc": "Jammu and Kashmir chief minister Omar Abdullah has endorsed calls for dialogue between India and Pakistan, following a letter from 117 eminent citizens urging renewed talks. Abdullah highlighted the long-standing tension and questioned why similar appeals from regional leaders face criticism, while those from RSS figures are accepted. Former Chief Minister Mehbooba Mufti also welcomed the RSS leadership's stance, emphasizing the need for improved neighborly relations.",
-    "img": "https://static.toiimg.com/photo/msid-132137649,imgsize-65880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/outrage-when-jk-leaders-urge-talks-not-when-rss-does-omar-abdullah-backs-call-for-india-pakistan-dialogue/articleshow/132137168.cms",
-    "time": "2026-07-02T11:29:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "June equity outflows hit Rs 49,340 crore as debt inflows persist",
     "desc": "Foreign investors continued their exit from Indian equities in June, withdrawing Rs 49,340 crore amid global risk aversion and domestic valuation concerns. Despite a brief February recovery, outflows have reached Rs 2.7 lakh crore this year, surpassing 2025's total. While equities saw selling, foreign investors remained active in the debt market, with policymakers introducing measures to boost overseas investment.",
@@ -477,51 +648,6 @@ const newsData_en = [
     "time": "2026-07-02T11:06:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "UP deputy CM Keshav Maurya backs Champat Rai amid , says issue being overblown",
-    "desc": "Uttar Pradesh Deputy Chief Minister Keshav Prasad Maurya defended Champat Rai amid embezzlement allegations concerning the Shri Ram Janmabhoomi Teerth Kshetra Trust. While acknowledging the incident's painful nature, Maurya urged against turning it into a public debate, stating investigations are underway. Meanwhile, the Faizabad Bar Association demanded the resignation of Rai and two others, threatening protests if they don't leave Ayodhya within three days.",
-    "img": "https://static.toiimg.com/photo/msid-132137089,imgsize-111317.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ram-temple-row-up-deputy-cm-keshav-maurya-backs-champat-rai-amid-says-issue-being-overblown/articleshow/132137068.cms",
-    "time": "2026-07-02T11:00:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "EC announces bypolls for 3 assembly seats in Bihar, MP and Gujarat; voting on July 30",
-    "desc": "Byelections for three assembly seats in Bihar, Madhya Pradesh, and Gujarat are set for July 30, with results on August 3. The BJP held two seats, Bankipur and Manjalpur, while the Congress represented Datia. Vacancies arose from an MLA's Rajya Sabha election, a death, and a disqualification due to a conviction. The Election Commission has outlined the nomination and withdrawal timelines.",
-    "img": "https://static.toiimg.com/photo/msid-132136974,imgsize-66356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ec-announces-bypolls-for-3-assembly-seats-in-bihar-mp-and-gujarat-voting-on-july-30/articleshow/132136909.cms",
-    "time": "2026-07-02T10:54:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prince Harry to receive judgment in privacy case during UK return",
-    "desc": "On July 7, Prince Harry anticipates a pivotal court ruling regarding his privacy lawsuit against a prominent UK publisher. This coincides with his intended family visit to Britain. The Duke of Sussex alleges unlawful information gathering, emphasizing that the situation has made his wife's life 'an absolute misery.' The outcome could lead to substantial financial implications for the unsuccessful party.",
-    "img": "https://static.toiimg.com/photo/msid-132136641,imgsize-124244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/prince-harry-awaits-key-court-ruling-after-saying-they-made-my-wifes-life-an-absolute-misery/articleshow/132136533.cms",
-    "time": "2026-07-02T10:50:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer Singh and Akshaye Khanna starrer 'Dhurandhar' heads to Japan",
-    "desc": "Get ready, Japan! Ranveer Singh's high-octane spy thriller 'Dhurandhar' is launching on July 10, promising to mesmerize audiences far and wide. Following its phenomenal success in India, this film has been celebrated for its dynamic combination of thrilling action and heartfelt storytelling. Directed by Aditya Dhar and inspired by genuine espionage activities, 'Dhurandhar' is set to offer an unrivaled cinematic journey for international fans.",
-    "img": "https://static.toiimg.com/photo/msid-132136592,imgsize-90614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-and-akshaye-khanna-starrer-dhurandhar-heads-to-japan-pralay-star-shares-special-message-ahead-of-july-10-release/articleshow/132136560.cms",
-    "time": "2026-07-02T10:40:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meghan Markle reportedly anxious about returning to the UK",
-    "desc": "Meghan Markle reportedly harbours significant anxiety about an upcoming trip to the UK with Prince Harry, fearing a 'trap' set by the Royal Family. Her deep distrust stems from past perceived slights and rumours, making her skeptical of any reconciliation efforts. Despite Harry's reassurances, Meghan feels she's walking into a 'lion's den,' with the final decision on the visit resting with him.",
-    "img": "https://static.toiimg.com/photo/msid-132136287,imgsize-64944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meghan-markle-fears-shes-walking-into-the-lions-den-ahead-of-her-planned-uk-return-with-prince-harry/articleshow/132136250.cms",
-    "time": "2026-07-02T10:35:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Vaibhav will do very well, but...': Karthik settles Samson vs Sooryavanshi debate",
     "desc": "Dinesh Karthik backs Sanju Samson despite recent struggles, urging continued faith in the experienced batter over rising star Vaibhav Sooryavanshi. Karthik highlighted Samson's past T20 World Cup performance as a reason for backing. He also commented on India's decision to bat first against England, attributing it to an 'Ireland hangover'. Captain Shreyas Iyer's crucial half-century was praised for relieving pressure.",
@@ -531,15 +657,6 @@ const newsData_en = [
     "time": "2026-07-02T10:34:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Eetha': Shraddha Kapoor triples her paycheque to Rs 15 crore for biopic",
-    "desc": "Shraddha Kapoor has reportedly hiked her acting fee to a whopping Rs. 15 crore for her upcoming 2026 film 'Eetha', a biographical drama directed by Laxman Utekar. Based on the life of legendary Marathi Tamasha artist Vithabai Narayangaonkar, Eetha marks a massive salary jump for the actress following the historic success of Stree 2. Backed by producer Dinesh Vijan, the film is scheduled for a theatrical release on August 28, 2026, amid an ongoing title controversy raised by the Nationalist Congress Party (NCP) and Vithabai’s surviving family members.",
-    "img": "https://static.toiimg.com/photo/msid-132136126,imgsize-115421.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/eetha-shraddha-kapoor-triples-her-paycheque-to-rs-15-crore-for-vithabai-narayangaonkar-biopic-since-stree-2-amid-title-row-reports/articleshow/132136068.cms",
-    "time": "2026-07-02T10:23:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Aussie cricketer faces jail after pleading guilty to child sex abuse charges",
     "desc": "Former Australian cricketer Aaron Summers faces a possible jail sentence after pleading guilty to child sexual abuse and grooming offences committed in 2018 while he was with the Hobart Hurricanes. Summers, who previously served prison time for separate child exploitation offences, was remanded in custody after a Tasmanian court rejected the possibility of a suspended sentence. He will be sentenced in August.",
@@ -547,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-cricketer-aaron-summers-faces-jail-after-pleading-guilty-to-child-sex-abuse-charges/articleshow/132135869.cms",
     "time": "2026-07-02T10:17:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sumit Kumar reveals why 'Eena Meena Deeka' song brings back childhood memories",
-    "desc": "Singer Sumit Kumar was recently moved to nostalgia on Indian Idol, recalling childhood memories triggered by contestant Manraj's rendition of 'Eena Meena Deeka'. He shared a heartwarming anecdote about his father, Kishore Kumar, and elder brother's playful stage antics during performances of 'Eena Meena Deeka' and 'Ek Chatur Naar', highlighting the legendary singer's enduring musical legacy and his multifaceted career.",
-    "img": "https://static.toiimg.com/photo/msid-132135991,imgsize-195441.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/sumit-kumar-reveals-why-eena-meena-deeka-song-brings-back-childhood-memories-my-father-performed-it-at-almost-every-stage-show/articleshow/132136008.cms",
-    "time": "2026-07-02T10:17:40.000Z"
   },
   {
     "cat": "Sports",
@@ -592,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/food/features/nyc-mayor-zohran-mamdani-dines-at-chef-regi-mathews-kerala-restaurant-chatti-in-new-york/article71173340.ece",
     "time": "2026-07-02T09:03:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC’s ‘Return to Play Post-Pregnancy’ guidelines",
-    "desc": "After 30 action-packed matches, the stage is set for a crowning of the new Women’s T20 World Cup champions. The lively tournament spotlighted the ever-growing sport and the need to offer a level playing field for the women who hit the 22 yards. A new policy introduced by the ICC promises to do just that",
-    "img": "https://th-i.thgim.com/public/incoming/5iwagv/article71162847.ece/alternates/LANDSCAPE_1200/GettyImages-2283711390.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/iccs-return-to-play-post-pregnancy-guidelines-explained/article71173108.ece",
-    "time": "2026-07-02T08:45:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -648,6 +747,15 @@ const newsData_en = [
     "time": "2026-07-02T08:05:18.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Folarin Balogun joins Zidane, Ronaldinho in unwanted World Cup history after red card vs Bosnia",
+    "desc": "USA secured a spot in the World Cup 2026 Round of 16 with a 2-0 win over Bosnia-Herzegovina. However, striker Folarin Balogun made unwanted history, becoming the fourth player to score and get sent off in a knockout match. Despite his red card for an accidental foul, the US team held on for the victory, but Balogun's suspension creates a selection headache for their next game against Belgium.",
+    "img": "https://static.toiimg.com/photo/msid-132132907,imgsize-114248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/folarin-balogun-joins-zidane-ronaldinho-in-unwanted-world-cup-history-after-red-card-against-bosnia/articleshow/132132912.cms",
+    "time": "2026-07-02T08:03:42.000Z"
+  },
+  {
     "cat": "Business",
     "title": "GST at 9 — Revenues up 14% in June 2026 but dependence on imports increased, domestic sales lagged",
     "desc": "As GST marked nine years of implementation on July 1, tax experts point to several aspects — such as input tax credits, dispute resolution, multiple registrations, and the inverted duty structure — as issues that still need to be addressed",
@@ -682,69 +790,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-july-02-2026-rec-oberoi-realty-home-first-finance-company-best-stocks-to-buy-today/articleshow/132128245.cms",
     "time": "2026-07-02T03:44:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Unable to withdraw PF or file claims? EPFO services unavailable for 7 days",
-    "desc": "Employees' Provident Fund Organisation (EPFO) services remain unavailable beyond the scheduled July 1 deadline due to a planned database consolidation and software upgrade. This outage, affecting member and employer portals, prevents access to crucial functions like claim submission and e-passbook. Meanwhile, a new EPF Scheme, 2026, has been notified, introducing digital reforms and simplified withdrawal rules, alongside initiatives to address past compliance issues.",
-    "img": "https://static.toiimg.com/photo/msid-132127262,imgsize-650242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/unable-to-withdraw-pf-or-file-claims-epfo-website-down-for-7-days/articleshow/132127104.cms",
-    "time": "2026-07-02T02:23:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "UPI volumes up 1.2%, rise to 76 crore",
-    "desc": "Digital payment volumes saw a slight dip in June, with UPI transactions falling 2.1% month-on-month. Despite this, daily UPI activity remained robust, and year-on-year growth continues to impress. Other payment systems like FASTag and IMPS also experienced sequential declines, though yearly figures show mixed trends, indicating a dynamic digital payments landscape.",
-    "img": "https://static.toiimg.com/photo/msid-132124391,imgsize-740735.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-volumes-up-1-2-rise-to-76-crore/articleshow/132124392.cms",
-    "time": "2026-07-01T21:31:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Car sales in June signal strong demand recovery",
-    "desc": "India's passenger vehicle sector kicked off FY27 with robust June sales, fueled by strong demand for SUVs and EVs. Tata Motors saw a remarkable 69% surge, driven by popular models and record EV figures. Maruti Suzuki maintained its lead with a 19.3% increase, while Mahindra & Mahindra also reported significant growth. Despite a temporary production setback, Hyundai's domestic sales remained strong.",
-    "img": "https://static.toiimg.com/photo/msid-132124385,imgsize-1394462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/car-sales-in-june-signal-strong-demand-recovery/articleshow/132124384.cms",
-    "time": "2026-07-01T21:28:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FPIs' $5bn bond purchase offsets steady equity sales",
-    "desc": "Foreign investors returned as net buyers in June, injecting $531 million into Indian markets after a period of outflows. This positive shift was driven by substantial inflows into sovereign debt, totaling $5.8 billion, which more than compensated for continued equity selling. The debt market's strong performance signals renewed international confidence in Indian government securities.",
-    "img": "https://static.toiimg.com/photo/msid-132124373,imgsize-568528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-5bn-bond-purchase-offsets-steady-equity-sales/articleshow/132124374.cms",
-    "time": "2026-07-01T21:22:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PE-VC deal value dips 5% in H1 CY2026",
-    "desc": "Private equity and venture capital investments saw a slight dip of 5% year-on-year in the first half of 2026, reaching $17.5 billion. Despite global uncertainties, investors deployed substantial capital, particularly in data centers and NBFCs. Late-stage companies attracted the largest share of funding, indicating continued confidence in established businesses. Overall, the sector demonstrated resilience, with significant deals driving investment activity.",
-    "img": "https://static.toiimg.com/photo/msid-132124369,imgsize-220873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pe-vc-deal-value-dips-5-in-h1-cy2026/articleshow/132124368.cms",
-    "time": "2026-07-01T21:19:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Hero Moto to invest 3,200 crore in Andhra Pradesh",
-    "desc": "Hero MotoCorp is injecting Rs 3,200 crore into Andhra Pradesh over the next three to five years. This significant investment will bolster manufacturing, enhance its global supply chain, and expand into new business areas. A key part includes a new Global Parts Centre at Tirupati, alongside a doubling of production capacity, creating approximately 4,000 jobs and reinforcing the company's commitment to the region.",
-    "img": "https://static.toiimg.com/photo/msid-132124363,imgsize-898700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hero-moto-to-invest-3200-crore-in-andhra-pradesh/articleshow/132124364.cms",
-    "time": "2026-07-01T21:13:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Brands get quick-comm boost in summer sales",
-    "desc": "Scorching heatwaves have significantly boosted sales for consumer brands, with quick-commerce platforms witnessing a surge in demand for ice creams, beverages, and sunscreens. Ice cream sales alone soared by 140% year-on-year in May. This growth is attributed to expanding delivery services into smaller cities and a focus on fast delivery of seasonal essentials, offering consumers much-needed relief.",
-    "img": "https://static.toiimg.com/photo/msid-132124357,imgsize-1097571.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/brands-get-quick-comm-boost-in-summer-sales/articleshow/132124358.cms",
-    "time": "2026-07-01T21:09:50.000Z"
   },
   {
     "cat": "Sports",
@@ -837,15 +882,6 @@ const newsData_en = [
     "time": "2026-07-01T01:48:56.000Z"
   },
   {
-    "cat": "World",
-    "title": "Venezuela quake deaths rise to 1,943, lawmaker says",
-    "desc": "The number of official rescues has dropped dramatically in the last three days, the government said, from 5,380 people saved in the first two days after the quakes to just four people found alive on June 29",
-    "img": "https://th-i.thgim.com/public/incoming/619ur3/article71168407.ece/alternates/LANDSCAPE_1200/Venezuela_Earthquake_3_7_3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/venezuela-earthquakes-death-toll-nearly-touches-2000-as-healthcare-system-nears-its-limit/article71167382.ece",
-    "time": "2026-07-01T00:06:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Limansa — a star in the making from the Dilshan lineage",
     "desc": "The daughter of the celebrated former Sri Lanka opener is leaving no stone unturned as she hopes to make an impression in the U-19 Women’s World Cup which will be jointly hosted by Bangladesh and Nepal in early 2027; she is also looking to carve an identity of her own",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/dance/bijayini-satpathystrikayaquestions-the-gendered-body/article71160288.ece",
     "time": "2026-06-30T10:35:54.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Tech Mahindra to deploy Perplexity AI across sales, customer-facing teams",
-    "desc": "The integration of 'Perplexity Enterprise Pro' aims to equip senior sales leaders and customer partners with intelligent tools to research customer priorities efficiently, understand industry-specific challenges and identify emerging business opportunities, the company said in a statement.",
-    "img": "https://th-i.thgim.com/public/incoming/a79m2h/article71162907.ece/alternates/LANDSCAPE_1200/2026-01-30T064152Z_1353172360_RC2LICAFU0KV_RTRMADP_3_MICROSOFT-PERPLEXITY-AI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/tech-mahindra-to-deploy-perplexity-ai-across-sales-customer-facing-teams/article71162893.ece",
-    "time": "2026-06-29T17:31:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Can Kunal Shah turn WhatsApp into a money-spinner?",
-    "desc": "Meta has made a major leadership move that could redefine the future of WhatsApp. The company appointed CRED founder Kunal Shah as WhatsApp’s new global head, alongside a $900 million investment in CRED. But why is this appointment so significant? We look back at the history of WhatsApp’s acquisition by Meta, what worked, what didn’t, Meta’s previous unsuccessful attempts at launching its own payment systems and what Shah’s previous experience with CRED could mean for WhatsApp.",
-    "img": "https://th-i.thgim.com/public/incoming/bhaxh7/article71155278.ece/alternates/LANDSCAPE_1200/kunal%20shah%20whatsapp.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-can-kunal-shah-turn-whatsapp-into-a-money-spinner/article71155279.ece",
-    "time": "2026-06-29T07:24:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
