@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "8મા પગાર પંચમાં સરકારી કર્મચારીઓની લાગશે લોટરી! HRA, DA અને TPTAમાં બદલાવથી 65% સુધી વધશે સેલરી?",
+    "desc": "8મા પગાર પંચને લઈને કેન્દ્રીય કર્મચારી સંગઠનોએ HRA, TPTA, DA મર્જ અને ફેમિલી યુનિટમાં મોટા બદલાવની માંગ કરી છે. જો 2.1 ફિટમેન્ટ ફેક્ટર, 36% HRA, 9000 રૂપિયા TPTA અને 5 ફેમિલી યુનિટ જેવા પ્રસ્તાવો લાગુ થાય છે, તો લેવલ-1 ના કર્મચારીઓની ગ્રોસ સેલરી લગભગ 65% સુધી વધીને 61,344 રૂપિયા થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-central-government-employees-salary-hike-hra-da-fitment-factor-latest-news-483407 ",
+    "time": "2026-07-02T17:15:33.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "માત્ર વ્યાજથી જ ₹5 લાખની કમાણી, પોસ્ટ ઓફિસની આ સ્કીમ છે શાનદાર",
     "desc": "સરકારે જુલાઈ-સપ્ટેમ્બર ક્વાર્ટર માટે પોસ્ટ ઓફિસ નેશનલ સેવિંગ્સ સર્ટિફિકેટ (NSC) યોજના માટે વ્યાજ દર 7.7 ટકા પર યથાવત રાખ્યો છે. આ યોજના હેઠળ વ્યક્તિ પાંચ વર્ષના સમયગાળા દરમિયાન ફક્ત વ્યાજમાંથી ₹5 લાખ કમાઈ શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -457,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/whatsapp-game-changing-username-feature-how-to-chat-without-phone-number-know-details-483144 ",
     "time": "2026-06-30T05:30:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અમેરિકા-ઈરાન વાતચીત પહેલા ઘટ્યું ક્રૂડ ઓઈલ, શું પેટ્રોલ-ડિઝલના ભાવમાં મળી રાહત, જાણો લેટેસ્ટ રેટ",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે યુદ્ધને કારણે તેલ, જે 115 ડોલર પ્રતિ બેરલ સુધી પહોંચી ગયું હતું, તે હવે તે 70 ડોલરથી 73 ડોલર પ્રતિ બેરલની વચ્ચે છે. WTI તેલ 0.62 ડોલર ઘટીને 70.33 ડોલર પ્રતિ બેરલ થયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/oil-prices-fall-ahead-of-us-iran-talks-has-there-been-any-relief-in-petrol-diesel-prices-know-the-latest-rates-483140 ",
-    "time": "2026-06-30T04:22:29.000Z"
   },
   {
     "cat": "World",

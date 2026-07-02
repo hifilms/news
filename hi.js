@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Nico Williams not playing Spain vs Austria clash in FIFA World Cup 2026?",
+    "desc": "Spain are without winger Nico Williams for their FIFA World Cup 2026 group-stage clash against Austria after the 23-year-old sustained a right thigh injury during the closing stages of their previous match against Uruguay. The injury...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-nico-williams-not-playing-spain-vs-austria-clash-in-fifa-world-cup-2026-2026-07-03-1046960",
+    "time": "2026-07-02T19:06:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Live action begins, both teams play high-intensity game",
+    "desc": "Spain and Austria meet in the FIFA World Cup 2026 Round of 32 at the Los Angeles Stadium in Inglewood. It’s a knockout clash defined by contrast as Spain’s possession-heavy control plays against an Austrian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/esp-vs-aut-fifa-world-cup-2026-live-spain-vs-austria-latest-match-updates-score-playing-xis-highlights-score-lamine-yamal-dani-olmo-1046958",
+    "time": "2026-07-02T18:34:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitahli Raj explains reason behind turning down opportunity to play in inaugural WPL",
+    "desc": "Former India captain Mithali Raj explained the reason behind turning down the opportunity to play in the Women’s Premier League. She cited that the off-field responsibilities in the sport attracted her more than lacing up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitahli-raj-explains-reason-behind-turning-down-opportunity-to-play-in-inaugural-wpl-2026-07-02-1046955",
+    "time": "2026-07-02T17:21:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India-born Jai Moondra, Player of the Series in Ireland's historic 2-0 win, picked in ETPL draft",
     "desc": "Rajasthan-born Jai Moondra, who was recently named the Player of the Series in Ireland's historic 2-0 T20I series win over India, has been picked by Rotterdam Dockers for the European T20 Premier League (ETPL) in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/shot-in-arm-for-spain-ahead-of-world-cup-knockouts-luis-de-la-fuente-speaks-up-on-lamine-yamals-fitness-2026-07-02-1046896",
     "time": "2026-07-02T09:53:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi in for Sanju Samson? Ex-India cricketer opens up on pressing debate",
-    "desc": "Noises have been growing to see Vaibhav Sooryavanshi make his India debut as the teenage sensation continues to play the waiting game despite being part of India's T20I squads for the UK tour. Sooryavanshi did...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-in-for-sanju-samson-ex-india-cricketer-opens-up-on-pressing-debate-2026-07-02-1046890",
-    "time": "2026-07-02T08:46:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Folarin Balogun enters rare list, becomes first USA player to unique feat after helping team win round of 32",
-    "desc": "USA ended Bosnia and Herzegovina's dream run in the FIFA World Cup 2026 after defeating them 2-0 in their round of 32 clash in Santa Clara on Thursday, July 2 (IST), in a roller-coaster night...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/folarin-balogun-enters-rare-list-becomes-first-usa-player-to-unique-feat-after-helping-team-win-round-of-32-2026-07-02-1046880",
-    "time": "2026-07-02T08:02:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Belgium stun Senegal 3-2 in extra-time thriller to reach FIFA World Cup 2026 quarterfinals",
-    "desc": "Belgium produced one of the most dramatic comebacks of the FIFA World Cup 2026, defeating Senegal 3-2 after extra time in a chaotic Round of 16 clash in Seattle, with Youri Tielemans converting a stoppage-time...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/belgium-stun-senegal-3-2-in-extra-time-thriller-to-reach-fifa-world-cup-2026-quarterfinals-2026-07-02-1046838",
-    "time": "2026-07-01T23:06:04.000Z"
   }
 ];

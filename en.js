@@ -1,21 +1,147 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Omar Abdullah backs call for India-Pak talks, says even RSS favours dialogue",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah advocated for renewed India-Pakistan dialogue, emphasizing it's the sole path to de-escalate tensions. He questioned the criticism faced by J&K politicians for similar calls, contrasting it with the lack of backlash for RSS leaders advocating open talks. Abdullah highlighted the importance of improving neighborly relations, referencing former PM Vajpayee's sentiment.",
+    "img": "https://static.toiimg.com/photo/msid-132146021,imgsize-1128725.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/omar-abdullah-backs-call-for-india-pak-talks-says-even-rss-favours-dialogue/articleshow/132146050.cms",
+    "time": "2026-07-02T18:57:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Informal' MHA meeting on Ladakh today",
+    "desc": "Informal discussions are set to resume in Leh between central officials and Ladakh groups, focusing on previous meeting outcomes and other pressing matters. This follows a recent shutdown protesting alleged backtracking on key agreements, including a legislative body and constitutional safeguards. While a prominent activist continues a hunger strike in Delhi, these talks aim to bridge the gap on crucial demands for the Union Territory's future.",
+    "img": "https://static.toiimg.com/photo/msid-132145804,imgsize-1670007.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/informal-mha-meeting-on-ladakh-today/articleshow/132145823.cms",
+    "time": "2026-07-02T18:52:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mehbooba Mufti, J&amp;K politicians fly to Iran for Khamenei funeral",
+    "desc": "Mehbooba Mufti, the sole non-Shia politician from J&K and Ladakh, flew to Tehran for Ayatollah Ali Khamenei's funeral, an event arranged with a special aircraft due to suspended commercial flights. Several other prominent figures from the region were also invited. The invitation highlighted the deep historical and strategic ties between Iran and India, underscoring the significance of the attendees' presence.",
+    "img": "https://static.toiimg.com/photo/msid-132145672,imgsize-847560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mehbooba-mufti-jk-politicians-fly-to-iran-for-khamenei-funeral/articleshow/132145689.cms",
+    "time": "2026-07-02T18:48:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K Lt Guv Manoj Sinha flags off 1st batch of pilgrims from Jammu",
+    "desc": "Jammu and Kashmir Lieutenant Governor Manoj Sinha initiated the 57-day Amarnath Yatra 2026 from Jammu, flagging off over 4,800 pilgrims. Extensive security, including armoured vehicles and aerial surveillance, is in place for the journey to the holy cave shrine. The pilgrimage, commencing July 3 and concluding August 28, aims to provide a safe and spiritually fulfilling experience for devotees.",
+    "img": "https://static.toiimg.com/photo/msid-132145489,imgsize-1291069.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amarnath-yatra-2026-jk-lt-guv-manoj-sinha-flags-off-1st-batch-of-pilgrims-from-jammu/articleshow/132145231.cms",
+    "time": "2026-07-02T18:42:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vicky Kaushal reacts to Aamir Khan's wedding with Gauri, as the actor drops details",
+    "desc": "Bollywood star Aamir Khan is set to marry his girlfriend Gauri Spratt on July 5th in an intimate ceremony at his Bandra residence. He confirmed the wedding details to the paparazzi, stating it will be a small affair with close family and friends. Vicky Kaushal, also present at a recent screening, extended his best wishes to the couple upon hearing the news, expressing his happiness for them.",
+    "img": "https://static.toiimg.com/photo/msid-132145090,imgsize-352948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-reacts-to-aamir-khans-wedding-with-gauri-spratt-as-the-actor-shares-details-about-it-with-the-paps-at-an-event-so-happy/articleshow/132145004.cms",
+    "time": "2026-07-02T18:29:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre amends Drugs Rules, 1945 to ensure uniform regulation of advance cell and gene therapies",
+    "desc": "Cell or stem cell-derived products such as stem cell-based regenerative treatments and CAR-T cell therapies have seen increasing use in treatment of blood cancers such as leukemias and lymphomas; the Centre’s move is aimed at strengthening regulatory oversight of such advanced and emerging medical technologies",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centre-amends-drugs-rules-1945-to-ensure-uniform-regulation-of-advance-cell-and-gene-therapies/article71174882.ece",
+    "time": "2026-07-02T18:04:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matteo Berrettini rediscovers his Wimbledon rhythm to send Fils packing",
+    "desc": "Berrettini, who had slipped out of the top 100 in May, lit up Centre Court to knock out the gifted Frenchman Arthur Fils, the 20th seed, 6-4, 7-5, 3-6, 6-3 and storm into the third round at Wimbledon.",
+    "img": "https://static.toiimg.com/photo/msid-132144340,imgsize-336826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/matteo-berrettini-rediscovers-his-wimbledon-rhythm-to-send-fils-packing/articleshow/132144317.cms",
+    "time": "2026-07-02T17:49:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals get major relief as HC removes key hurdle to IPL in Jaipur",
+    "desc": "Rajasthan Cricket Association's ad hoc committee has been dissolved by the High Court, paving the way for democratic elections within three months. A sole administrator has been appointed to oversee this process. This judicial intervention is expected to revive stalled projects like the Chonp stadium and secure the Rajasthan Royals' IPL home matches in Jaipur, addressing long-standing administrative and financial disputes.",
+    "img": "https://static.toiimg.com/photo/msid-132144097,imgsize-182802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rajasthan-royals-get-major-relief-as-hc-removes-key-hurdle-to-ipl-in-jaipur/articleshow/132143994.cms",
+    "time": "2026-07-02T17:40:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "First batch of Amarnath pilgrims flagged off from Jammu",
+    "desc": "The first batch of more than 4,800 pilgrims has set off on the holy yatra in a convoy of 259 light and heavy vehicles, officials say; security on the yatra routes has been stepped up",
+    "img": "https://th-i.thgim.com/public/incoming/lp0by8/article71175660.ece/alternates/LANDSCAPE_1200/88-Annual%20Amarnath%20Yatra%20Pilgrimage%20In%20Kashmir-02-07-2026.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/first-batch-of-amarnath-pilgrims-flagged-off-from-jammu/article71175470.ece",
+    "time": "2026-07-02T17:37:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Find another job': ATP's doubles plans leave players fearing the worst",
+    "desc": "The plan is to shrink draw sizes, which currently stand at 16 for doubles and 28 for singles at ATP 250 events. At the 500 level, it is 16 for doubles and 32 for singles, while Masters 1000 tournaments feature 16 for doubles and 32 for singles. That could be reduced to eight teams at ATP 250 and 500 events, and 16 teams at Masters 1000 level.",
+    "img": "https://static.toiimg.com/photo/msid-132143521,imgsize-403270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/find-another-job-atps-doubles-plans-leave-players-fearing-the-worst/articleshow/132143376.cms",
+    "time": "2026-07-02T17:24:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Labour Ministry makes EPF contributions beyond ₹1,800 voluntary",
+    "desc": "Under the old scheme, the Employees' Provident Funds Scheme 1952, the wage ceiling, which is ₹15,000 per month at present, was relevant at the time of joining a firm for providing the employee with mandatory social security cover.",
+    "img": "https://th-i.thgim.com/public/latest-news/srp7dd/article71175680.ece/alternates/LANDSCAPE_1200/EPFO.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/labour-ministry-makes-epf-contributions-beyond-1800-voluntary/article71175645.ece",
+    "time": "2026-07-02T17:18:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wish I had an antidote to insecurities, says Manish Tewari after Punjab Congress revamp",
+    "desc": "Mr. Tewari, the Chandigarh MP, shared on X The Hindu’s report on the Congress’s Punjab revamp, which said he had been ‘left in the cold’ as the party announced new working presidents and election panels ahead of 2027 Assembly polls",
+    "img": "https://th-i.thgim.com/public/incoming/q2merh/article71175047.ece/alternates/LANDSCAPE_1200/Manish-Tewari-tGSGFPP37G.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/wish-i-had-an-antidote-to-insecurities-says-manish-tewari-after-punjab-congress-revamp/article71174720.ece",
+    "time": "2026-07-02T17:18:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "NATO plans to replace AWACS with Saab GlobalEye jets, sources say",
+    "desc": "NATO dropped plans in 2025 to buy six Boeing E-7 Wedgetail aircraft after the Pentagon, its largest prospective customer, scrapped plans to acquire 26 of the jets ‌and instead put greater emphasis on satellite-based capabilities",
+    "img": "https://th-i.thgim.com/public/incoming/np67v5/article71175683.ece/alternates/LANDSCAPE_1200/2026-07-02T130828Z_803976167_RC2P5MAHG2CN_RTRMADP_3_NATO-DEFENCE-GLOBALEYE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/nato-plans-to-replace-awacs-with-saab-globaleye-jets-sources-say/article71175673.ece",
+    "time": "2026-07-02T17:17:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No need to doubt transparency of SIR in Jharkhand, says CEO",
+    "desc": "K. Ravi Kumar says Special Intensive Revision of electoral rolls is to ensure constitutional rights to Indian citizens; foreign nationals living legally or illegally cannot participate and giving a false declaration is a criminal offence",
+    "img": "https://th-i.thgim.com/public/incoming/v8808l/article71175657.ece/alternates/LANDSCAPE_1200/20260610292L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/interview-with-jharkhand-ceo-k-ravi-kumar-no-need-to-doubt-transparency-of-sir-in-jharkhand/article71175100.ece",
+    "time": "2026-07-02T17:05:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel Shetty left shoot abruptly when he heard of Divya Bharti's death",
+    "desc": "Veteran actress Madhoo recounted an emotional moment on the sets of 'Hum Hain Bemisaal' when co-star Suniel Shetty abruptly left the shoot upon learning of Divya Bharti's tragic death. Shetty, who shared a close bond with Bharti, immediately flew to Mumbai. Madhoo, though never meeting Bharti, felt a connection through their families' friendship and Bharti's role in Hema Malini's directorial debut.",
+    "img": "https://static.toiimg.com/photo/msid-132142950,imgsize-310164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-left-shoot-abruptly-as-soon-he-heard-of-divya-bhartis-death-says-madhoo-he-had-known-her-well/articleshow/132142789.cms",
+    "time": "2026-07-02T17:03:18.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ECI asks both factions of TMC to submit responses on organisational elections",
     "desc": "Rebel faction meets a full Bench of the EC; declining to disclose the documents submitted to the poll body, Ritabrata Banerjee says they ‘abided by all rules’ in conducting an organisational session on June 22",
     "img": "https://th-i.thgim.com/public/incoming/3cwbj9/article71175513.ece/alternates/LANDSCAPE_1200/Rebel%20Trinamool%20Ritabrata%20Banerjee%20ECI%202.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/eci-asks-both-factions-of-tmc-to-submit-responses-on-organisational-elections/article71174777.ece",
     "time": "2026-07-02T16:17:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian Navy foils piracy attempt in Gulf of Aden; three ships remain in captivity, IMO warns",
-    "desc": "INS Trikand intercepts and secures Thoothukudi-bound bulk carrier Golden Arsenal; International Maritime Organization says three other ships are still held by pirates, with situation aboard one of them, which has an Indian crew member, critical; five Indians among crews of two of the three ships",
-    "img": "https://th-i.thgim.com/public/incoming/blw3gl/article71174761.ece/alternates/LANDSCAPE_1200/PTI07_02_2026_000355B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-navy-foils-piracy-attempt-in-gulf-of-aden-three-ships-remain-in-captivity-imo-warns/article71174304.ece",
-    "time": "2026-07-02T16:13:26.000Z"
   },
   {
     "cat": "Sports",
@@ -37,7 +163,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Bhanslai shouted at Aditya Pancholi, threw a chair at a senior artiste'",
+    "title": "'Bhansali shouted at Aditya Pancholi, threw a chair at a senior artiste'",
     "desc": "Veteran actor Yatin Karyekar shared his experience working with the demanding Sanjay Leela Bhansali on 'Bajirao Mastani'. While Bhansali is known for his strictness and occasional outbursts, Karyekar also noted the fun he had with co-star Ranveer Singh off-camera. Despite witnessing the director's temper, Karyekar lauded Bhansali as a creative genius, placing him alongside Rajkumar Hirani as an industry pillar.",
     "img": "https://static.toiimg.com/photo/msid-132141822,imgsize-244702.cms",
     "src": "indiatimes.com",
@@ -54,15 +180,6 @@ const newsData_en = [
     "time": "2026-07-02T15:40:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Missing for 12 days, five-year-old reunited after man walks into police station with child",
-    "desc": "Police said the hotel worker, who had been living alone after separating from his family, claimed he thought the child had been abandoned at Secunderabad Railway Station and took him home, later becoming emotionally attached to the boy.",
-    "img": "https://th-i.thgim.com/public/incoming/49rdxa/article71174097.ece/alternates/LANDSCAPE_1200/railway%20st%20kidnapping%20.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/12-days-after-five-year-old-goes-missing-at-secunderabad-railway-station-police-probe-kidnap-angle/article71174095.ece",
-    "time": "2026-07-02T15:33:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "As India top dope offenders list again, Anti-Doping Bill to be tabled in Monsoon Session",
     "desc": "India leads the global list of dope offenders, prompting the Sports Ministry to announce the National Anti-Doping Bill will be tabled in Parliament's Monsoon Session. The amended bill proposes a five-year jail term for trafficking and distributing prohibited substances to athletes, aiming to target suppliers, including medical practitioners. This move follows India's consistent topping of WADA's list for three years.",
@@ -70,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/as-india-top-dope-offenders-list-again-anti-doping-bill-to-be-tabled-in-monsoon-session/articleshow/132141468.cms",
     "time": "2026-07-02T15:15:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka High Court stays government’s decision to withdraw eight criminal cases related to 2022 violence in Aland",
-    "desc": "The High Court of Karnataka stayed the May 27 Government Order sfor withdrawing eight criminal cases registered in connection with the violence on the disputed Ladle Mashaq Dargah premises at Aland town in Kalaburagi district in March 2022",
-    "img": "https://th-i.thgim.com/public/incoming/3rn8ss/article71175188.ece/alternates/LANDSCAPE_1200/HC-grants-bail-GCKG6KUMQ.1.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-stays-governments-decision-to-withdraw-eight-criminal-cases-related-to-2022-violence-in-aland/article71174922.ece",
-    "time": "2026-07-02T15:10:04.000Z"
   },
   {
     "cat": "Sports",
@@ -459,24 +567,6 @@ const newsData_en = [
     "time": "2026-07-02T10:12:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Madras High Court refuses bail in Vijay's 'Jana Nayagan' leak case",
-    "desc": "Madras High Court denied bail to three individuals accused in the 'Jana Nayagan' leak case, citing the alleged online viewership of 1.2 crore people before release. The prosecution revealed a freelance editor copied film files, leading to widespread piracy. With the investigation ongoing and two accused still at large, the court emphasized the need to continue the probe without granting bail, highlighting the case's significance in combating digital piracy.",
-    "img": "https://static.toiimg.com/photo/msid-132135619,imgsize-270752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-leak-case-madras-high-court-denies-bail-as-1-2-crore-people-allegedly-watched-vijays-film/articleshow/132135581.cms",
-    "time": "2026-07-02T10:07:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid Kapoor insisted on air purifiers during Delhi schedule of 'Cocktail 2'",
-    "desc": "While shooting for 'Cocktail 2' in Delhi, actor Shahid Kapoor made a notable request for air purifiers in his vanity van due to the city's alarming air quality. A line producer disclosed that Kapoor went outside wearing a mask, prompting the production team to look into air purifiers, despite doubts about their efficacy outdoors. The film promises a captivating love triangle intertwined with local and international themes.",
-    "img": "https://static.toiimg.com/photo/msid-132135535,imgsize-91294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-insisted-on-air-purifiers-during-delhi-schedule-of-cocktail-2-amid-poor-aqi-crew-member-claims-would-just-take-off-the-mask-before-the-shot/articleshow/132135503.cms",
-    "time": "2026-07-02T10:04:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India return to SL for first Test tour since Kohli's 3-0 sweep; check full schedule",
     "desc": "The first Test will be played at the Galle International Cricket Stadium in Galle from August 15 to 19. The second Test will take place at the Singhalese Sports Club in Colombo from August 23 to 27.",
@@ -522,15 +612,6 @@ const newsData_en = [
     "time": "2026-07-02T08:39:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Abhishek breaks KL Rahul's record in England, becomes fastest ever to...",
-    "desc": "India's first T20I against England was abandoned due to rain after the visitors posted 189/7. Abhishek Sharma starred with a record-breaking 59 off 24 balls, registering the fastest T20I fifty by an Indian in England, while captain Shreyas Iyer scored 68. Shivam Dube's unbeaten 42 provided a late flourish before persistent rain forced a no-result.",
-    "img": "https://static.toiimg.com/photo/msid-132133681,imgsize-116390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/abhishek-sharma-breaks-kl-rahuls-t20i-record-in-england-becomes-fastest-ever-to-/articleshow/132133027.cms",
-    "time": "2026-07-02T08:31:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India-Japan trade: PM Modi, 'younger sister' Takaichi sign MoC including $10 billion investment, AI boost",
     "desc": "India and Japan elevated their trade and strategic ties with a new Memorandum of Cooperation signed during the 16th Annual Summit in New Delhi. Prime Minister Modi welcomed his Japanese counterpart, highlighting shared priorities for a free and prosperous Indo-Pacific. The leaders discussed initiatives to boost Japanese investment in India, aiming for significant growth in capital and company presence, underscoring a strengthened partnership built on trust and shared values.",
@@ -538,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-japan-trade-pm-modi-younger-sister-takaichi-sign-moc-including-10-billion-investment-ai-boost/articleshow/132133312.cms",
     "time": "2026-07-02T08:30:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian Navy foils piracy bid in Gulf of Aden; MARCOS secure cargo ship carrying critical consignment for India",
-    "desc": "Indian Navy warship INS Trikand successfully thwarted a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. Responding swiftly to a distress call, the warship's presence caused suspected pirates to flee before they could board. Indian Marine Commandos later secured the vessel, which was carrying vital cargo for India. No crew injuries were reported.",
-    "img": "https://static.toiimg.com/photo/msid-132133628,imgsize-133948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-navy-foils-piracy-bid-in-gulf-of-aden-marcos-secure-cargo-ship-carrying-critical-consignment-for-india/articleshow/132130773.cms",
-    "time": "2026-07-02T08:28:12.000Z"
   },
   {
     "cat": "Business",
@@ -576,24 +648,6 @@ const newsData_en = [
     "time": "2026-07-02T08:05:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Folarin Balogun joins Zidane, Ronaldinho in unwanted World Cup history after red card vs Bosnia",
-    "desc": "USA secured a spot in the World Cup 2026 Round of 16 with a 2-0 win over Bosnia-Herzegovina. However, striker Folarin Balogun made unwanted history, becoming the fourth player to score and get sent off in a knockout match. Despite his red card for an accidental foul, the US team held on for the victory, but Balogun's suspension creates a selection headache for their next game against Belgium.",
-    "img": "https://static.toiimg.com/photo/msid-132132907,imgsize-114248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/folarin-balogun-joins-zidane-ronaldinho-in-unwanted-world-cup-history-after-red-card-against-bosnia/articleshow/132132912.cms",
-    "time": "2026-07-02T08:03:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India-bound oil tanker hit by shrapnel near Hormuz reaches Odisha port safely",
-    "desc": "A crude oil tanker, the MT Sanmar Herald, has successfully docked at Odisha's Paradip Port after a perilous journey from Iraq. The vessel, carrying valuable crude oil, endured shrapnel damage to its bridge during hostilities in the Middle East. Despite facing prolonged delays and navigating a reopened Strait of Hormuz, the ship and its entire crew arrived safely, showcasing remarkable resilience and professionalism.",
-    "img": "https://static.toiimg.com/photo/msid-132132479,imgsize-1271004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/journey-of-courage-india-bound-oil-tanker-mt-sanmar-herald-reaches-odishas-paradip-port-surviving-strait-of-hormuz-turmoil/articleshow/132132193.cms",
-    "time": "2026-07-02T07:44:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "GST at 9 — Revenues up 14% in June 2026 but dependence on imports increased, domestic sales lagged",
     "desc": "As GST marked nine years of implementation on July 1, tax experts point to several aspects — such as input tax credits, dispute resolution, multiple registrations, and the inverted duty structure — as issues that still need to be addressed",
@@ -619,33 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/openai-weighs-giving-trump-administration-5-stake-amid-us-scrutiny-of-ai-firms-report/articleshow/132129203.cms",
     "time": "2026-07-02T06:38:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yashasvi Jaiswal flaunts 'Messi' jersey during France vs Sweden WC match",
-    "desc": "Dreams do come true! Cricket star Yashasvi Jaiswal celebrated a major milestone by attending the exciting France vs. Sweden FIFA match in New York, wearing an Argentina jersey, in honor of Lionel Messi. This appearance arrives as he takes a breather following an unusual absence from the most recent ODI selections, with eyes set on rejoining the Test series against New Zealand.",
-    "img": "https://static.toiimg.com/photo/msid-132130311,imgsize-1502780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-indian-cricketer-yashasvi-jaiswal-flaunts-messi-jersey-during-france-vs-sweden-fifa-world-cup-match/articleshow/132130311.cms",
-    "time": "2026-07-02T06:16:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kane draws level with Haaland, closes in on Messi &amp; Mbappé",
-    "desc": "Harry Kane's stunning late brace against Congo DR has ignited the FIFA World Cup 2026 Golden Boot race, propelling him to five goals, just one behind leaders Messi and Mbappé. Kane's heroics secured England's comeback win and kept their World Cup dreams alive, setting up an enthralling battle for the top scorer title as the knockout stages commence. He also surpassed Pelé on the all-time World Cup scoring list.",
-    "img": "https://static.toiimg.com/photo/msid-132130318,imgsize-149616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-golden-boot-race-harry-kane-draws-level-with-erling-haaland-closes-in-on-lionel-messi-and-kylian-mbapp/articleshow/132130310.cms",
-    "time": "2026-07-02T06:03:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Sooryavanshi should’ve played in Ireland': Shastri questions India's decision",
-    "desc": "Ravi Shastri has criticised Team India's decision to keep 15-year-old Vaibhav Sooryavanshi on the bench, saying the youngster should have made his debut during the Ireland series. Calling him an \"X-factor,\" Shastri said Vaibhav's fearless approach could provide explosive starts and urged the team management to include him soon after his impressive IPL performances.",
-    "img": "https://static.toiimg.com/photo/msid-132128295,imgsize-134901.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/vaibhav-sooryavanshi-shouldve-played-in-ireland-ravi-shastri-questions-indias-decision-to-keep-the-15-year-old-on-bench/articleshow/132128235.cms",
-    "time": "2026-07-02T03:47:48.000Z"
   },
   {
     "cat": "Business",
@@ -828,15 +855,6 @@ const newsData_en = [
     "time": "2026-06-30T19:51:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Despite war, net remittances from West Asia to India rose 70% in April 2026",
-    "desc": "The Finance Ministry says this resilience in remittances is because they are pegged to labour market conditions in the region and do not get affected by short-term crises, unlike more volatile flows like FDI, portfolio flows, or debt flows.",
-    "img": "https://th-i.thgim.com/public/business/ms67g1/article71166089.ece/alternates/LANDSCAPE_1200/FM%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/despite-war-net-remittances-from-west-asia-to-india-rose-70-in-april-2026/article71165898.ece",
-    "time": "2026-06-30T15:41:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bijayini Satpathy’s Trikāyā questions the gendered body",
     "desc": "Presented at Mumbai’s G5A Foundation for Contemporary Culture as part of its In Residency programme, the Odissi exponent’s latest solo work uses three episodes from the Mahabharata to interrogate gender, identity and the expressive possibilities of classical form",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
