@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "সরে গেল পাহাড়, ঘুরে গেল নদী, গ্রামনগর চলে গেল মাটির তলায়; ইতিহাসের ভয়ংকরতম ভূমিকম্পে প্রায় ৯ লক্ষ মৃত্যু!",
+    "desc": "ইতিহাস আমাদের মনে করাচ্ছে, ১৫৫৬ সালের এক ভয়ংকর ভূমিকম্পের কথা। মানুষের ইতিহাস যেদিন থেকে লিপিবদ্ধ করা গিয়েছে,সেই তথ্যের নিরিখে চিনের শানসি প্রদেশের এই ভূমিকম্পই এখনও পর্যন্ত সব চেয়ে বিধ্বংসী হিসেবে রেকর্ড তৈরি করেছে। তৈরি করেছে এক ভয়ংকর আতঙ্কও।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/deadliest-earthquake-1556-shaanxi-earthquake-central-china-killed-an-estimated-830000-people_660791.html ",
+    "time": "2026-07-02T11:15:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ট্রাম্পের মুখে ছাই দিয়ে আমেরিকাবাসী ভারতীয়দের জন্য বিরাট সুখবর! বার্থরাইট সিটিজেনশিপ নিয়ে বড় রায় সুপ্রিম কোর্টের",
+    "desc": "ট্রাম্পের মুখে ছাই দিয়ে আমেরিকাবাসী ভারতীয়দের জন্য এল বিরাট সুখবর! সুপ্রিম কোর্টের নির্দেশে অনাবাসীরা, যারা এইচ-১বি ভিসায় রয়েছেন, যাঁরা নাগরিকত্বের অপেক্ষা করছেন, তাঁদের যদি সন্তান আমেরিকায় জন্মায়, তাহলে তারা জন্মগত ভাবেই মার্কিন নাগরিকত্ব পাবেন। বিরাট খবর!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/us-supreme-court-on-birthright-citizenship-why-indians-will-benefit-most-explained_660774.html ",
+    "time": "2026-07-02T09:56:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "পুতিনের দেশে তেলের হাহাকার! সংকট মেটাতে ভারত থেকে যাচ্ছে হাজার হাজার টন পেট্রল",
+    "desc": "ইউক্রেনের ড্রোন হামলায় রাশিয়ার প্রধান শোধনাগারগুলো ক্ষতিগ্রস্ত হওয়ায় দেশটিতে তীব্র পেট্রল সংকট দেখা দিয়েছে। পরিস্থিতি সামাল দিতে এবার ভারতের কাছ থেকে সমুদ্রপথে পেট্রোল আমদানি শুরু করেছে ক্রেমলিন। ইতিমধ্যেই অন্তত ৬০ হাজার মেট্রিক টন জ্বালানি ভারত থেকে রাশিয়ার উদ্দেশ্যে রওনা দিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/russia-turns-to-india-for-fuel-amid-shortages_660773.html ",
+    "time": "2026-07-02T09:26:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "দুই বাংলার মানুষের জন্য বড় সুখবর! ফের চাকা গড়াবে ভারত-বাংলাদেশ 'মিতালী' এক্সপ্রেসের",
+    "desc": "রেল সূত্রের খবর, দুই দেশের আধিকারিকদের মধ্যে আলোচনার পর পুনরায় এই ট্রেন চালুর সবুজ সংকেত মিলেছে। মৈত্রী ও বন্ধন এক্সপ্রেসের পর মিতালী এক্সপ্রেস লাইনে ফিরলে দুই দেশের পর্যটন, চিকিৎসা ও ব্যবসা-বাণিজ্যের ক্ষেত্র আরও সুদৃঢ় হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/india-bangladesh-train-mitali-express-set-to-resume-agains-kolkata-to-dhakha-service_660749.html ",
+    "time": "2026-07-02T08:02:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "মুখে জেট স্প্রে, ঢুকিয়ে রাখত ওয়াশিং মেশিনে! ডে-কেয়ার না নরক? বেঙ্গালুরুতে বিভীষিকা",
     "desc": "সিসিটিভি ফুটেজে যে ভয়ঙ্কর তথ্য ফাঁস হল, তা দেখলে শিউরে উঠবেন সকলে৷ এমন পাশবিক? বাচ্চাদের সঙ্গে কেউ এমন করে! ডিজিটাল মেসেজিং প্ল্যাটফর্মে ভাইরাল হওয়ার পরই সিসিটিভি ফুটেজ ফাঁস হয়ে যায়। তারপরে সর্বসমক্ষে চলে আসে এই ঘটনা৷",
@@ -108,15 +144,6 @@ const newsData_bn = [
     "time": "2026-06-30T06:28:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "দাম ১.২ লাখে নামার আশঙ্কা? লাভ ঘরে তুলতে পুরনো সোনা বিক্রির নতুন রেকর্ড",
-    "desc": "এপ্রিল-জুন কোয়ার্টারে পুরনো সোনা বিক্রির পরিমাণ ৪৩% বেড়ে প্রায় ৫০ টনে পৌঁছেছে। বাজার বিশেষজ্ঞদের ধারণা, দাম ১০ গ্রাম প্রতি ১.২ লাখ টাকা পর্যন্ত নামতে পারে। এই প্রবণতায় দেশে সোনা রিসাইক্লিং ব্যবসা চাঙ্গা হচ্ছে, যা ভারতের বিশাল আমদানি নির্ভরতা ও খরচ কমাতে সাহায্য করবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/gold-prices-fall-indians-sell-old-jewellery-as-fears-of-deeper-correction-grow_660470.html ",
-    "time": "2026-06-30T05:13:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "আয়ারল্যান্ডের কাছে হোয়াইটওয়াশ ভারত! ২৪ ঘণ্টার মধ্যে দলের দায়িত্ব ছাড়লেন হেড কোচ! কে বসছেন হটসিটে?",
     "desc": "ভারতের বিরুদ্ধে আয়ারল্যান্ড ঐতিহাসিক টি-টোয়েন্টি সিরিজে ২-০ ব্যবধানে জিতেছে। আর এই স্মরণীয় জয়ের ঠিক পরের দিনই আয়ারল্যান্ড দলের হেডকোচের পদ থেকে সরে দাঁড়ালেন হেড কোচ হেনরিখ মালান। এই সিদ্ধান্তের ফলে পরবর্তী ৫০ ওভারের বিশ্বকাপ চক্রের প্রস্তুতির জন্য ক্রিকেট আয়ারল্যান্ড পর্যাপ্ত সময় পাবে।",
@@ -198,15 +225,6 @@ const newsData_bn = [
     "time": "2026-06-28T08:37:40.000Z"
   },
   {
-    "cat": "World",
-    "title": "হরমুজ প্রণালীতে ফের শঙ্কা! ইরানের হামলার জবাবে মার্কিন যুদ্ধবিমানের বিধ্বংসী বোমাবর্ষণ",
-    "desc": "২৫ জুন ওমান উপকূলের কাছে হরমুজ প্রণালী দিয়ে যাওয়ার সময় সিঙ্গাপুরের পতাকাবাহী মালবাহী জাহাজ এম/ভি এভার লাভলিকে একটি ওয়ান-ওয়ে ড্রোন দিয়ে হামলা চালানো হয়। পরদিন, ২৬ জুন মার্কিন বাহিনী ইরানের ক্ষেপণাস্ত্র ও ড্রোন সংরক্ষণ কেন্দ্র এবং উপকূলীয় রাডার স্টেশনগুলিতে হামলা চালায়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-in-the-strait-of-hormuz_660132.html ",
-    "time": "2026-06-27T07:49:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'আমাদের হ্যাঁ বলাকে চুরির জায়গায় নিয়ে যাবেন না,' হাসপাতালের বিরুদ্ধে মারাত্মক অভিযোগ সঙ্ঘশ্রীর",
     "desc": "কেপিসি হাসপাতালের বিরুদ্ধে মারাত্মক অভিযোগ আনলেন অভিনেত্রী সঙ্ঘশ্রী সিনহা। পরিবারের মানুষের অসুস্থতার সুযোগ নিয়ে হাসপাতাল কর্তৃপক্ষ তার অপব্যবহার করেন বলে তাঁর অভিযোগ। অযথা বিলের পাহাড় এবং সেই সম্পর্কে জানতে চাইলে জোটে দুর্ব্যবহার। এমনকী সঠিক রোগ না বলতে পারার অভিযোগও করেন তিনি।",
@@ -223,5 +241,50 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/calcutta-high-court-stay-order-on-fir-filed-against-mimi-chakraborty_659832.html ",
     "time": "2026-06-24T16:38:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
+    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
+    "time": "2026-05-13T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
+    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
+    "time": "2026-05-01T09:10:54.000Z"
   }
 ];

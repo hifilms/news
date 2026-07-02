@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Schedule for India's Test tour of Sri Lanka announced, no mention of T20Is; check details",
+    "desc": "Sri Lanka Cricket announced the schedule for India's Test tour of the island nation, as a two-match series beckons the two Asian sides in August. India will be travelling to Sri Lanka for two World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/schedule-for-indias-tour-of-sri-lanka-announced-check-test-fixtures-as-for-two-match-series-2026-07-02-1046898",
+    "time": "2026-07-02T10:12:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shot in arm for Spain ahead of World Cup knockouts, Luis De La Fuente speaks up on Lamine Yamal's fitness",
+    "desc": "In a major boost for Spain heading into the World Cup knockouts, coach Luis De La Fuente on Wednesday confirmed star winger Lamine Yamal is healthy enough to play a full match for La Roja....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/shot-in-arm-for-spain-ahead-of-world-cup-knockouts-luis-de-la-fuente-speaks-up-on-lamine-yamals-fitness-2026-07-02-1046896",
+    "time": "2026-07-02T09:53:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi in for Sanju Samson? Ex-India cricketer opens up on pressing debate",
+    "desc": "Noises have been growing to see Vaibhav Sooryavanshi make his India debut as the teenage sensation continues to play the waiting game despite being part of India's T20I squads for the UK tour. Sooryavanshi did...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-in-for-sanju-samson-ex-india-cricketer-opens-up-on-pressing-debate-2026-07-02-1046890",
+    "time": "2026-07-02T08:46:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Folarin Balogun enters rare list, becomes first USA player to unique feat after helping team win round of 32",
+    "desc": "USA ended Bosnia and Herzegovina's dream run in the FIFA World Cup 2026 after defeating them 2-0 in their round of 32 clash in Santa Clara on Thursday, July 2 (IST), in a roller-coaster night...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/folarin-balogun-enters-rare-list-becomes-first-usa-player-to-unique-feat-after-helping-team-win-round-of-32-2026-07-02-1046880",
+    "time": "2026-07-02T08:02:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Belgium stun Senegal 3-2 in extra-time thriller to reach FIFA World Cup 2026 quarterfinals",
     "desc": "Belgium produced one of the most dramatic comebacks of the FIFA World Cup 2026, defeating Senegal 3-2 after extra time in a chaotic Round of 16 clash in Seattle, with Youri Tielemans converting a stoppage-time...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/should-india-continue-with-world-cup-hero-sanju-samson-after-series-of-flops-or-bring-in-vaibhav-sooryavanshi-2026-07-02-1046833",
     "time": "2026-07-01T19:36:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner breaks Italian record with win over Nuno Borges in Wimbledon, Aryna Sabalenka progresses too",
-    "desc": "Star Tennis players Jannik Sinner and Aryna Sabalenka moved into the third round of Wimbledon on Wednesday. Defending champion Sinner was pushed by Portugal's Nuno Borges before securing a 7-6(4), 7-6(2), 6-4 victory on Centre...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-breaks-italian-record-with-win-over-nuno-borges-in-wimbledon-aryna-sabalenka-progresses-too-2026-07-02-1046832",
-    "time": "2026-07-01T19:03:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nat Sciver-Brunt declared fit for Women's T20 World Cup SF vs South Africa, skipper reveals recovery journey",
-    "desc": "England have received a major shot in their arm as captain Nat Sciver-Brunt has been declared fit for their Women's T20 World Cup semifinal against South Africa on Thursday, July 2. Sciver-Brunt suffered a recurrence...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-declared-fit-for-womens-t20-world-cup-sf-vs-south-africa-skipper-reveals-recovery-journey-2026-07-02-1046831",
-    "time": "2026-07-01T18:39:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Kane rescues England, scores brace to beat Congo 2-1 in FIFA World Cup round of 32",
-    "desc": "England survived a major scare to book their place in the FIFA World Cup 2026 Round of 16. They were trailing 1-0 in the first half and fought their way back to seal a 2-1...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/harry-kane-rescues-england-scores-brace-to-beat-congo-2-1-in-fifa-world-cup-round-of-32-2026-07-02-1046829",
-    "time": "2026-07-01T18:30:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma completes 100 T20I sixes, breaks historic record during IND vs ENG 1st T20I",
-    "desc": "Abhishek Sharma etched his name into the history books as he completed 100 T20I sixes during the first match against England at the Riverside Ground, Chester-Le-Street on Wednesday, July 1. Abhishek, who was dismissed for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-completes-100-t20i-sixes-breaks-historic-record-during-ind-vs-eng-1st-t20i-2026-07-01-1046824",
-    "time": "2026-07-01T17:57:24.000Z"
   }
 ];
