@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Belgium stun Senegal 3-2 in extra-time thriller to reach FIFA World Cup 2026 quarterfinals",
+    "desc": "Belgium produced one of the most dramatic comebacks of the FIFA World Cup 2026, defeating Senegal 3-2 after extra time in a chaotic Round of 16 clash in Seattle, with Youri Tielemans converting a stoppage-time...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/belgium-stun-senegal-3-2-in-extra-time-thriller-to-reach-fifa-world-cup-2026-quarterfinals-2026-07-02-1046838",
+    "time": "2026-07-01T23:06:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Novak Djokovic thrashes Stefanos Tsitsipas in straight sets, advances to third round of Wimbledon",
     "desc": "Novak Djokovic defeated Stefanos Tsitsipas 6-3, 6-4, 6-2 on Centre Court to move into the third round of Wimbledon for the 20th time. The seven-time champion, who was taken to four sets by Wu Yibing...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-completes-100-t20i-sixes-breaks-historic-record-during-ind-vs-eng-1st-t20i-2026-07-01-1046824",
     "time": "2026-07-01T17:57:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Match has been abandoned due to rain",
-    "desc": "India face England in the first T20I of the five-match series at the Riverside Ground, Chester-le-Street, as the Men in Blue look to bounce back from their 0-2 defeat to Ireland. Vaibhav Sooryavanshi missed out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-1st-t20i-live-cricket-score-india-vs-england-riverside-ground-chester-le-street-latest-match-updates-scorecard-teams-playing-xis-2026-07-01-1046821",
-    "time": "2026-07-01T16:44:22.000Z"
   }
 ];
