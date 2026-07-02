@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "মুখে জেট স্প্রে, ঢুকিয়ে রাখত ওয়াশিং মেশিনে! ডে-কেয়ার না নরক? বেঙ্গালুরুতে বিভীষিকা",
+    "desc": "সিসিটিভি ফুটেজে যে ভয়ঙ্কর তথ্য ফাঁস হল, তা দেখলে শিউরে উঠবেন সকলে৷ এমন পাশবিক? বাচ্চাদের সঙ্গে কেউ এমন করে! ডিজিটাল মেসেজিং প্ল্যাটফর্মে ভাইরাল হওয়ার পরই সিসিটিভি ফুটেজ ফাঁস হয়ে যায়। তারপরে সর্বসমক্ষে চলে আসে এই ঘটনা৷",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/toddlers-put-in-washing-machine-abused-with-jet-spray-in-bengaluru-daycare-horror_660732.html ",
+    "time": "2026-07-02T06:05:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'জোড়া ফুলের' জোড়া দাবি! চূড়ান্ত সিদ্ধান্ত নেওয়ার আগে ঋতব্রত শিবিরের মুখোমুখি নির্বাচন কমিশন",
+    "desc": "তৃণমূলের নাম, প্রতীক ও সম্পত্তির মালিকানা নিয়ে লড়াই এবার নির্বাচন কমিশনে পৌঁছেছে। ‘আমরাই আসল তৃণমূল’ দাবি করে ঋতব্রত বন্দ্যোপাধ্যায়ের নেতৃত্বে ১০ জন বিদ্রোহী বিধায়ক দিল্লিতে গিয়েছেন। আজ কমিশনের কাছে তাঁরা অন্তত ৬৫ জন বিধায়কের সমর্থনপত্র পেশ করবেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tmc-internal-feud-reaches-ec-rebel-mlas-claim-party-name-and-symbol_660722.html ",
+    "time": "2026-07-02T04:11:51.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ব্রেন, হার্ট, লাংস, রক্তনালীও! গায়েব সব অঙ্গপ্রত্যঙ্গ, ভেনেজুয়েলায় ভারতীয় নাবিকের আশ্চর্কজনক রহস্যমৃত্যু",
     "desc": "রাকেশের বাবা জানিয়েছেন, কোম্পানি থেকে প্রথমে তাদের কাছে ফোন এসেছিল। জানানো হয়েছিল যে, জাহাজ থেকে পড়ে গিয়েছে রাকেশ। গুরুতর চোট পেয়েছে এবং বাঁচার সম্ভাবনা কম। তারপরেই রাকেশের মৃত্যু হয়। প্রায় এক মাস পর ছেলের দেহ বাড়ি ফিরতেই আঁতকে ওঠে গোটা পরিবার।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -205,50 +223,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/calcutta-high-court-stay-order-on-fir-filed-against-mimi-chakraborty_659832.html ",
     "time": "2026-06-24T16:38:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভোট মিটতেই বাণিজ্যিক এলপিজি সিলিন্ডারের দাম একলাফে ৯৯৩ টাকা বাড়ল",
-    "desc": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ১লা মে থেকে ৯৯৩ টাকা বৃদ্ধি পেয়েছে, যার ফলে দিল্লিতে ১৯ কেজি সিলিন্ডারের দাম এখন ৩,০৭১.৫০ টাকা। Commercial LPG rates soar by Rs 993 in Delhi making business fuel more expensive from May 1.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti03-10-2026-000246b-jpg-1777626471495_1777626471208-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/india-lpg-price-update-commercial-cylinder-cost-increases-by-993-rupees-011-306097.html",
-    "time": "2026-05-01T09:10:54.000Z"
   }
 ];
