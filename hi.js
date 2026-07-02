@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ellyse Perry to play in Women's T20 World Cup final despite injury? Coach drops major hint",
+    "desc": "Australia star all-rounder Ellyse Perry is likely to play the Women's T20 World Cup final even if she is not fully fit, head coach Shelley Nitschke hinted at while speaking to reporters on Thursday. Perry...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-to-play-in-womens-t20-world-cup-final-despite-injury-coach-drops-major-hint-2026-07-02-1046925",
+    "time": "2026-07-02T12:25:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Schedule for India's Test tour of Sri Lanka announced, no mention of T20Is; check details",
     "desc": "Sri Lanka Cricket announced the schedule for India's Test tour of the island nation, as a two-match series beckons the two Asian sides in August. India will be travelling to Sri Lanka for two World...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/french-open-winner-mirra-andreeva-knocked-out-of-wimbledon-2026-by-defending-champion-2026-07-02-1046834",
     "time": "2026-07-01T20:03:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Should India continue with World Cup hero Sanju Samson after series of flops or bring in Vaibhav Sooryavanshi?",
-    "desc": "Leading up to the T20 World Cup 2026, Sanju Samson lost his spot in the playing XI after a series of poor starts. Ishan Kishan was the preferred opener alongside star batter Abhishek Sharma. However,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/should-india-continue-with-world-cup-hero-sanju-samson-after-series-of-flops-or-bring-in-vaibhav-sooryavanshi-2026-07-02-1046833",
-    "time": "2026-07-01T19:36:53.000Z"
   }
 ];

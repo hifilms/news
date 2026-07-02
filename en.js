@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Tech",
+    "title": "Explained: why is the Indian govt telling Whatsapp to put its new username feature on hold?",
+    "desc": "WhatsApp is preparing to introduce a new feature that would allow users to communicate using usernames instead of phone numbers. But before the feature could be rolled out, the Union government stepped in and asked the platform to put its plans on hold. So, why is the government concerned?",
+    "img": "https://th-i.thgim.com/public/incoming/k2j88g/article71174724.ece/alternates/LANDSCAPE_1200/whatsapp.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-explained-why-is-the-indian-govt-telling-whatsapp-to-put-its-new-username-feature-on-hold/article71174722.ece",
+    "time": "2026-07-02T13:47:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Top gainers and losers on NSE Nifty50 and BSE Sensex today",
+    "desc": "Indian stock markets surged on Thursday, with Sensex and Nifty climbing nearly 1%. A significant rally in IT stocks, coupled with easing crude oil prices and positive India-Japan strategic agreements, boosted investor confidence. Despite some blue-chip weakness, the market extended its upward trend, driven by technology shares and optimism surrounding new economic and defence pacts.",
+    "img": "https://static.toiimg.com/photo/msid-132139692,imgsize-63548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/market-wrap-top-gainers-and-losers-on-nse-nifty50-and-bse-sensex-today-on-june-2026/articleshow/132139432.cms",
+    "time": "2026-07-02T13:01:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth's 'Jailer 2' locks Dussehra release",
+    "desc": "Superstar Rajinikanth's highly anticipated 'Jailer 2' is set for a grand Dussehra release on October 15, confirmed by the makers with a striking new poster. Directed by Nelson Dilipkumar, the sequel aims to surpass the phenomenal success of its predecessor, promising larger-than-life action and entertainment. The film boasts a stellar ensemble cast, building immense expectations for another blockbuster.",
+    "img": "https://static.toiimg.com/photo/msid-132139478,imgsize-47092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-jailer-2-locks-dussehra-release-makers-unveil-a-striking-new-teaser/articleshow/132139404.cms",
+    "time": "2026-07-02T12:41:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India-Japan sign MoC to boost AI, trade ties; Salman Khurshid to attend Khamenei's funeral in Iran &amp; more",
+    "desc": "India and Japan have solidified their strategic alliance with new defence and technology pacts. Meanwhile, Salman Khurshid will represent India at Ayatollah Khamenei's funeral in Iran. Russia's intense overnight assault on Kyiv claimed at least 17 lives. In sports, Shreyas Iyer made history as the first Indian captain to hit a T20I fifty in England. Separately, a convicted Iraqi human trafficker was found residing in the UK.",
+    "img": "https://static.toiimg.com/photo/msid-132139345,imgsize-1144265.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-japan-sign-moc-to-boost-ai-trade-ties-salman-khurshid-to-attend-khameneis-funeral-in-iran-more/articleshow/132139123.cms",
+    "time": "2026-07-02T12:33:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo's Portugal vow to 'honour Diogo Jota' on first death anniversary",
+    "desc": "Portugal's World Cup journey intensifies as they face Croatia in the Round of 32, carrying a profound motivation. The match falls on the first anniversary of the tragic deaths of Diogo Jota and André Silva. Jota, a key forward and Nations League winner, is remembered as an inspiration, with the squad aiming to win the World Cup in his honor, fulfilling his unachieved dream.",
+    "img": "https://static.toiimg.com/photo/msid-132139221,imgsize-1365145.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cristiano-ronaldos-portugal-vow-to-honour-diogo-jota-on-first-death-anniversary-ahead-of-croatia-fifa-world-cup-clash/articleshow/132139059.cms",
+    "time": "2026-07-02T12:27:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay Kumar sells two premium Mumbai apartments for Rs 12.38 crore",
+    "desc": "Akshay Kumar has successfully offloaded two luxury apartments in Mumbai's Mulund West for a combined Rs 12.38 crore, marking a significant profit from his 2017 purchase. These prime properties in Oberoi Enigma, each spanning 1,886 sq ft with ample parking, were acquired by Sunny Home Care Private Limited. This latest transaction follows another substantial real estate sale by the actor earlier this year, underscoring his strategic property investments.",
+    "img": "https://static.toiimg.com/photo/msid-132139136,imgsize-94632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-sells-two-premium-mumbai-apartments-for-rs-12-38-crore-earns-nearly-38-appreciation/articleshow/132139111.cms",
+    "time": "2026-07-02T12:21:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You've to earn': Ex-India cricketer says Sooryavanshi shouldn't replace Samson",
+    "desc": "Sooryavanshi has travelled with the Indian squad for the T20I series against Ireland and England but is yet to make his international debut. India have instead continued to back the top-order trio of Sanju Samson, Abhishek Sharma and Ishan Kishan, all of whom played important roles in India's 2026 T20 World Cup triumph.",
+    "img": "https://static.toiimg.com/photo/msid-132137770,imgsize-654590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-have-to-earn-former-india-cricketer-says-vaibhav-sooryavanshi-should-not-replace-fabulous-sanju-samson-yet/articleshow/132137777.cms",
+    "time": "2026-07-02T12:18:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Baaten Hain, Baaton Ka Kya’: Why India-Pakistan Track II, III, IV... diplomacy is a song on loop",
+    "desc": "A recent open letter from prominent Indian and Pakistani citizens urging renewed dialogue for peace faces an uphill battle. The article argues that India-Pakistan relations are stalled not by a lack of meetings, but by deep-seated ideological, political, and institutional divides. Pakistan's military establishment holds the real power, rendering civilian-led talks potentially futile.",
+    "img": "https://static.toiimg.com/photo/msid-132139058,imgsize-561882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/baaten-hain-baaton-ka-kya-why-india-pakistan-track-ii-iii-iv-diplomacy-is-a-song-on-loop/articleshow/132137199.cms",
+    "time": "2026-07-02T12:14:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can Bar Associations refuse to represent an accused? What does the law say?",
+    "desc": "The Faizabad Bar Association’s resolution to not represent the accused in the Ayodhya Ram Temple embezzlement case has prompted the question on whether a Bar Association could collectively decide not to represent a particular accused",
+    "img": "https://th-i.thgim.com/public/incoming/qozb5v/article71174266.ece/alternates/LANDSCAPE_1200/20260702151L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/explainer-can-bar-associations-refuse-to-represent-an-accused/article71174143.ece",
+    "time": "2026-07-02T12:12:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The guides Hyderabad stopped looking for",
+    "desc": "A tour of Hyderabad’s heritage structures started with hiring a guide. Guides used to be the first thing visitors looked for, not an afterthought. Digital tools have disrupted this lot as well. Now, the profession has become a side gig for many. Yet, experienced guides still wait to walk people telling stories of the structures.",
+    "img": "https://th-i.thgim.com/public/news/cities/Hyderabad/kqoikg/article71174286.ece/alternates/LANDSCAPE_1200/IMG_6128.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/the-guides-hyderabad-stopped-looking-for/article71174236.ece",
+    "time": "2026-07-02T12:08:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rabri Devi moves to own house, gives up government bungalow she had occupied for two decades",
+    "desc": "The development is being seen as indicative of a diminution in clout of the proverbial first family of the Opposition party, which was on good terms with the ruling dispensation until it was headed by JD(U) president",
+    "img": "https://th-i.thgim.com/public/incoming/y99n00/article71174248.ece/alternates/LANDSCAPE_1200/PTI06_29_2026_000269B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/rabri-devi-moves-to-own-house-gives-up-government-bungalow-she-had-occupied-for-two-decades/article71174199.ece",
+    "time": "2026-07-02T12:03:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Enough is enough': Ex-England captain demands McCullum resign after Stokes retirement",
+    "desc": "Michael Vaughan has launched a fierce critique of England's cricket leadership, demanding the resignations of coach Brendon McCullum and managing director Rob Key following Ben Stokes' international retirement. Vaughan expressed deep dissatisfaction with the team's dismal recent Test record, stating English cricket must strive for better than its current seventh-place ranking. He believes sweeping changes are necessary to revive the team's fortunes and restore pride.",
+    "img": "https://static.toiimg.com/photo/msid-132138098,imgsize-76440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/enough-is-enough-ex-england-captain-demands-brendon-mccullum-resign-after-ben-stokes-retirement/articleshow/132137769.cms",
+    "time": "2026-07-02T11:54:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Not all of us were Sooraj Barjatya type families': Kunal Kohli hails 'Main Vaapas Aaunga'",
+    "desc": "Filmmaker Kunal Kohli has shared a glowing review of Imtiaz Ali’s Partition-era romantic drama 'Main Vaapas Aaunga', calling it the director's \"best film.\" Highlighting the sleeper hit's profound emotional depth, Kohli praised the stellar ensemble cast, including Naseeruddin Shah, Diljit Dosanjh, Rajat Kapoor, Sharvari, and Vedang Raina. Expressing how deeply the film's nuanced writing and raw portrayal of generational trauma resonated with his own family’s history, Kohli called it an essential watch for all generations.",
+    "img": "https://static.toiimg.com/photo/msid-132138067,imgsize-159218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/not-all-of-us-were-sooraj-barjatya-type-families-kunal-kohli-hails-main-vaapas-aaunga-as-imtiaz-alis-best-film-recalls-scene-thats-going-to-give-him-nightmares/articleshow/132137962.cms",
+    "time": "2026-07-02T11:53:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SS Rajamouli reacts to being honored as 'Julliat 2026' in France",
+    "desc": "Filmmaker S. S. Rajamouli received the prestigious 'Julliat 2026' honor in France, permanently etching his name on the Wall of Filmmakers at the Institut Lumière. Screenings of his acclaimed films 'Eega' and 'RRR' preceded the emotional ceremony. This recognition further solidifies Rajamouli's global impact on cinema, adding to his impressive list of international accolades and upcoming projects.",
+    "img": "https://static.toiimg.com/photo/msid-132138079,imgsize-104720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/only-gratitude-deeply-deeply-humbled-ss-rajamouli-reacts-to-being-honored-as-julliat-2026-in-france/articleshow/132138035.cms",
+    "time": "2026-07-02T11:53:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A theft at a temple: Implications of the Ayodhya embezzlement case",
+    "desc": "After years of anticipation, with India’s apex court getting involved, the Ayodhya Ram Mandir was consecrated in January 2024, under The Shri Ram Janmabhoomi Teerth Kshetra Trust. But more than two years on, the same trust is embroiled in a controversy, that crores of donations to the temple by pilgrims, have been embezzled. We look at what happened and the repurcussions of that event.",
+    "img": "https://th-i.thgim.com/public/incoming/r079nt/article71174194.ece/alternates/LANDSCAPE_1200/ayodhya.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-a-theft-at-a-temple-implications-of-the-ayodhya-embezzlement-case/article71174187.ece",
+    "time": "2026-07-02T11:53:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Enola Holmes 3' ending explained: Sherlock's kidnapper exposed",
+    "desc": "The climactic closing of Enola Holmes 3 showcases Millie Bobby Brown as the resourceful amateur detective who orchestrates a daring rescue of Sherlock Holmes from a nefarious kidnapping plot. As the layers of an elaborate conspiracy involving purloined Afghan gold and Moriarty’s revenge unfold, Enola and Lord Tewkesbury tie the knot, with Tewkesbury opting for justice, allowing Enola to retain her name and continue her sleuthing journey.",
+    "img": "https://static.toiimg.com/photo/msid-132137894,imgsize-147494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/enola-holmes-3-ending-explained-who-really-kidnapped-sherlock-holmes/articleshow/132137505.cms",
+    "time": "2026-07-02T11:47:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Check routes, destinations and schedules",
+    "desc": "Air India Express has fully reinstated its Middle East flight operations, bringing back services to Kuwait and Salalah. Flights to Kuwait from Kozhikode and Bengaluru are resuming with increased frequencies. The airline's Middle East network now spans 13 destinations, with approximately 780 weekly flights connecting 18 Indian cities. This restoration marks a significant step in expanding the carrier's regional connectivity.",
+    "img": "https://static.toiimg.com/photo/msid-132137965,imgsize-1558054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-express-restores-middle-east-flights-check-routes-destinations-and-schedules/articleshow/132137650.cms",
+    "time": "2026-07-02T11:44:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Golden Star Ganesh starrer 'Pinaka' locks release date in October",
+    "desc": "Golden Star Ganesh is set for a busy October with two film releases. His much-anticipated film 'Pinaka,' featuring him in a never-before-seen role, will premiere on October 2. Following this, 'Brindavihari' is slated for release on October 16. Fans eagerly await these back-to-back releases, expecting them to showcase Ganesh's versatility after a hiatus.",
+    "img": "https://static.toiimg.com/photo/msid-132137838,imgsize-340656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/following-brindavihari-golden-star-ganeshs-pinaka-locks-release-date-in-october/articleshow/132137819.cms",
+    "time": "2026-07-02T11:38:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Doorstep marijuana network using Speed Post busted, mastermind held after Hyderabad police intercept parcel",
+    "desc": "The network allegedly processed between 80 and 100 customer orders every day, dispatching eight to 10 Speed Post consignments daily. Each order was priced between ₹1,500 and ₹8,000, generating an estimated ₹1 lakh in daily earnings and an annual turnover of ₹4 crore to ₹5 crore.",
+    "img": "https://th-i.thgim.com/public/news/cities/Hyderabad/csw64a/article71174129.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-02%20at%204.45.21%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/doorstep-marijuana-network-using-speed-post-busted-mastermind-held-after-hyderabad-police-intercept-parcel/article71173875.ece",
+    "time": "2026-07-02T11:29:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Outrage when J&amp;K leaders urge talks, not when RSS does': Omar Abdullah backs call for India-Pakistan dialogue",
+    "desc": "Jammu and Kashmir chief minister Omar Abdullah has endorsed calls for dialogue between India and Pakistan, following a letter from 117 eminent citizens urging renewed talks. Abdullah highlighted the long-standing tension and questioned why similar appeals from regional leaders face criticism, while those from RSS figures are accepted. Former Chief Minister Mehbooba Mufti also welcomed the RSS leadership's stance, emphasizing the need for improved neighborly relations.",
+    "img": "https://static.toiimg.com/photo/msid-132137649,imgsize-65880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/outrage-when-jk-leaders-urge-talks-not-when-rss-does-omar-abdullah-backs-call-for-india-pakistan-dialogue/articleshow/132137168.cms",
+    "time": "2026-07-02T11:29:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "June equity outflows hit Rs 49,340 crore as debt inflows persist",
+    "desc": "Foreign investors continued their exit from Indian equities in June, withdrawing Rs 49,340 crore amid global risk aversion and domestic valuation concerns. Despite a brief February recovery, outflows have reached Rs 2.7 lakh crore this year, surpassing 2025's total. While equities saw selling, foreign investors remained active in the debt market, with policymakers introducing measures to boost overseas investment.",
+    "img": "https://static.toiimg.com/photo/msid-132137506,imgsize-17526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-continue-to-exit-india-june-equity-outflows-hit-rs-49340-crore-as-debt-inflows-persist/articleshow/132136235.cms",
+    "time": "2026-07-02T11:20:12.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Anbumani Ramadoss",
     "desc": "Demanding all MPs and MLAs to meet the Prime Minister and Jal Shakti Minister opposing the Mekedatu project, he said that continuous pressure should be given and many cases should be filed against this project.",
@@ -42,15 +231,6 @@ const newsData_en = [
     "img": "https://static.toiimg.com/photo/msid-132136974,imgsize-66356.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ec-announces-bypolls-for-3-assembly-seats-in-bihar-mp-and-gujarat-voting-on-july-30/articleshow/132136909.cms",
-    "time": "2026-07-02T10:54:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court asks Law Secretary and Cabinet Secretary to appear unless progress is made on draft anti-ragging amendment Bill",
-    "desc": "Court observes that the matter has been pending for more than a year. Upon its request, Election Commission of India had approved a Cabinet meeting to finalise draft Kerala Prohibition of Ragging (Amendment) Bill during Kerala Assembly elections. After formation of new State government, three weeks were given to take steps on draft Bill on June 10",
-    "img": "https://th-i.thgim.com/public/incoming/uqoerr/article71174028.ece/alternates/LANDSCAPE_1200/IMG_12tv_IMG_80968_19_8__2_1_38DN8U9P.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-asks-law-secretary-and-cabinet-secretary-to-appear-unless-progress-is-made-on-draft-anti-ragging-amendment-bill/article71173880.ece",
     "time": "2026-07-02T10:54:23.000Z"
   },
   {
@@ -102,7 +282,7 @@ const newsData_en = [
     "cat": "Sports",
     "title": "Aussie cricketer faces jail after pleading guilty to child sex abuse charges",
     "desc": "Former Australian cricketer Aaron Summers faces a possible jail sentence after pleading guilty to child sexual abuse and grooming offences committed in 2018 while he was with the Hobart Hurricanes. Summers, who previously served prison time for separate child exploitation offences, was remanded in custody after a Tasmanian court rejected the possibility of a suspended sentence. He will be sentenced in August.",
-    "img": "https://static.toiimg.com/photo/msid-132135998,imgsize-88188.cms",
+    "img": "https://static.toiimg.com/photo/msid-132138711,imgsize-552597.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-cricketer-aaron-summers-faces-jail-after-pleading-guilty-to-child-sex-abuse-charges/articleshow/132135869.cms",
     "time": "2026-07-02T10:17:50.000Z"
@@ -117,15 +297,6 @@ const newsData_en = [
     "time": "2026-07-02T10:17:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Meghalaya police move Supreme Court against Sonam Raghuvanshi’s bail",
-    "desc": "The Meghalaya High Court, on June 29, had upheld an order of a Shillong trial court granting bail to Ms. Raghuvanshi on the ground that the police had failed to effectively communicate the grounds of her arrest",
-    "img": "https://th-i.thgim.com/public/incoming/bpkc08/article71173386.ece/alternates/LANDSCAPE_1200/PTI06_09_2025_000224B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/raja-raghuvanshi-murder-meghalaya-police-move-supreme-court-against-sonam-raghuvanshis-bail/article71173139.ece",
-    "time": "2026-07-02T10:13:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Yes, We KANE: Harry Kane saves England blushes with shot heard round the World Cup",
     "desc": "Day 22 saw Harry Kane save England from Congolese chaos with a thunderbolt for the ages, Belgium summon one last Golden Generation miracle from the penalty spot, and the US survive both Bosnia and Herzegovina and VAR’s latest audition for villain of the tournament.",
@@ -133,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/offside-yes-we-kane-harry-kane-saves-england-the-blushes-with-shot-heard-round-the-world-cup/articleshow/132135409.cms",
     "time": "2026-07-02T10:12:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bihar workers among 8 killed as massive rock collapse hits quarry near Bengaluru",
-    "desc": "At least eight workers were killed after a massive rock collapse at a stone quarry near Bengaluru. Several of the victims were daily-wage labourers from Bihar. Rescue teams are continuing operations while authorities investigate possible safety violations and negligence.",
-    "img": "https://th-i.thgim.com/public/incoming/8detur/article71173901.ece/alternates/LANDSCAPE_1200/sachin%20ahir%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/bihar-workers-among-8-killed-as-massive-rock-collapse-hits-quarry-near-bengaluru/article71173902.ece",
-    "time": "2026-07-02T10:10:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -225,15 +387,6 @@ const newsData_en = [
     "time": "2026-07-02T09:06:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala govt begins examining Adani proposal to sell 49% stake in Vizhinjam port to MSC Group",
-    "desc": "Announcement by Adani Ports and Special Economic Zone Limited has sparked a controversy in Kerala, with Chief Minister V.D. Satheesan claiming Adani Group had not communicated its decision to State govt and that its approval is mandatory for such a move",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/mn7lhf/article71173057.ece/alternates/LANDSCAPE_1200/port.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-begins-examining-adani-proposal-to-sell-49-stake-in-vizhinjam-port-to-msc-group/article71173044.ece",
-    "time": "2026-07-02T09:04:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "NYC Mayor Zohran Mamdani dines at Chef Regi Mathew’s Kerala restaurant, Chatti, in New York",
     "desc": "The New York City mayor, dined with his wife Rama Duwaji and his parents, filmmaker Mira Nair and scholar Mahmood Mamdani, at Chennai-based Chef Regi Mathew’s restaurant, Chatti, in Manhattan, which showcases Kerala’s toddy shop cuisine",
@@ -241,15 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/food/features/nyc-mayor-zohran-mamdani-dines-at-chef-regi-mathews-kerala-restaurant-chatti-in-new-york/article71173340.ece",
     "time": "2026-07-02T09:03:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhruv Vikram's next to be helmed by debutant Karan Arvind Kumar",
-    "desc": "Dhruv Vikram has officially commenced work on his next film, tentatively titled 'DV4,' a commercial entertainer helmed by debut director Karan Arvind Kumar. The project, launched with a pooja ceremony, marks the production house's fourth Tamil venture. Fans anticipate a new mass avatar for the actor, fueled by his recent kickboxing training and hints of an action-packed theme. The film also features Prithvi Pandiarajan and Sai Deena in key roles.",
-    "img": "https://static.toiimg.com/photo/msid-132134019,imgsize-312310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/official-dhruv-vikram-joins-hands-with-debut-director-karan-arvind-kumar-for-commercial-entertainer/articleshow/132133931.cms",
-    "time": "2026-07-02T08:48:17.000Z"
   },
   {
     "cat": "Sports",
@@ -297,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-02T08:28:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Did makers of 'Ramayana' intentionally release unfinished VFX?",
-    "desc": "A controversy has erupted as a content creator suggested that the incomplete VFX in the teaser of Ranbir Kapoor's 'Ramayana' was a deliberate strategy to create hype. While Parikshit later acknowledged that the visual effects are being enhanced, the initial reception of the teaser was mixed, prompting the production team to assure viewers of upcoming improvements.",
-    "img": "https://static.toiimg.com/photo/msid-132133457,imgsize-134798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-makers-of-ramayana-intentionally-release-unfinished-vfx-creator-who-visited-the-sets-makes-surprising-claim-they-had-better-versions-of-those-scenes/articleshow/132133421.cms",
-    "time": "2026-07-02T08:20:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Who should file ITR &amp; is income tax return filing mandatory for salaried taxpayers?",
     "desc": "The important thing to understand is that ITR filing is a statutory requirement and an important financial record-keeping. For the financial year 2025-26, the basic exemption limit for individuals below 60 years of age is Rs 2.5 lakh under the old income tax regime and Rs 4 lakh under the new income tax regime.",
@@ -313,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/who-should-file-itr-is-income-tax-return-filing-mandatory-for-salaried-taxpayers/articleshow/132133313.cms",
     "time": "2026-07-02T08:18:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Will Ferrell’s ‘Elf’ is Michelle Obama’s favourite film",
-    "desc": "During an engaging podcast episode, Michelle Obama declared that Will Ferrell’s beloved holiday classic 'Elf' holds the title of her all-time favorite film. She expressed how the film uplifts her spirits and remains a staple during the holiday season, with countless rewatches adding to its charm. Ferrell added fascinating insights about the film's impact on his career and the immense rewriting it underwent before delighting its audiences worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-132133377,imgsize-167360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michelle-obama-says-will-ferrells-elf-is-her-favourite-film-i-make-other-people-watch-it-with-me-so/articleshow/132133070.cms",
-    "time": "2026-07-02T08:15:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -352,57 +478,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Three fans of actor Darshan held for threatening witness in Renukaswamy murder case",
-    "desc": "Police said one of the accused is the owner of the SUV that was allegedly used to transport Renukaswamy’s body from a shed in R.R. Nagar to a stormwater drain at Kamakshipalya, and also a witness in the murder case",
-    "img": "https://th-i.thgim.com/public/incoming/avaex1/article71173583.ece/alternates/LANDSCAPE_1200/IMG_DARSHAN_2_1_01DHC3HM.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/three-fans-of-actor-darshan-held-for-threatening-witness-in-renukaswamy-murder-case/article71173258.ece",
-    "time": "2026-07-02T08:03:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mani Ratnam lauds Chidambaram's 'Balan: The Boy'",
-    "desc": "The Boy' after a special screening, praising its writing and performances. This adds to the growing list of accolades for the Chidambaram-directed film, which has already garnered significant praise from stars like Jyotika and Suriya for its sensitive portrayal of emotions and unique storytelling. The movie continues to perform strongly in cinemas across multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-132132918,imgsize-94740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mani-ratnam-lauds-balan-the-boy-after-watching-chidambarams-film-in-special-screening/articleshow/132132884.cms",
-    "time": "2026-07-02T07:57:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "John Farnham’s son posts update about him on 77th birthday",
-    "desc": "Celebrating a milestone, John Farnham turned 77 in the comforting presence of family as he recovers from mouth cancer. His son posted a touching image of the star with his grandson, prompting a flood of heartfelt messages from supporters. Farnham has indicated that singing is no longer in his future due to treatment effects.",
-    "img": "https://static.toiimg.com/photo/msid-132132872,imgsize-99316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/john-farnham-celebrates-77th-birthday-with-grandson-son-james-shares-rare-update-we-love-you-so-much/articleshow/132132818.cms",
-    "time": "2026-07-02T07:56:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Poovulagin Nanbargal",
-    "desc": "Supporters of the Parandur airport argue that if Chennai does not get a second airport by 2028, the city and its surrounding industrial regions may lose future growth opportunities; the question, however, is whether such growth should be concentrated only around Chennai",
-    "img": "https://th-i.thgim.com/public/incoming/trx11h/article71173269.ece/alternates/LANDSCAPE_1200/BVR_7080.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-case-for-equitable-development-in-tamil-nadu-should-apply-to-airport-too-poovulagin-nanbargal/article71172963.ece",
-    "time": "2026-07-02T07:45:50.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "India-bound oil tanker hit by shrapnel near Hormuz reaches Odisha port safely",
     "desc": "A crude oil tanker, the MT Sanmar Herald, has successfully docked at Odisha's Paradip Port after a perilous journey from Iraq. The vessel, carrying valuable crude oil, endured shrapnel damage to its bridge during hostilities in the Middle East. Despite facing prolonged delays and navigating a reopened Strait of Hormuz, the ship and its entire crew arrived safely, showcasing remarkable resilience and professionalism.",
     "img": "https://static.toiimg.com/photo/msid-132132479,imgsize-1271004.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/journey-of-courage-india-bound-oil-tanker-mt-sanmar-herald-reaches-odishas-paradip-port-surviving-strait-of-hormuz-turmoil/articleshow/132132193.cms",
     "time": "2026-07-02T07:44:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Welcome to the Jungle' BO Day 6 [LIVE]: Rs 90 crore Week 1 finish in sight",
-    "desc": "Ahmed Khan's 'Welcome to the Jungle', starring Akshay Kumar, Suniel Shetty and Paresh Rawal, is set to wrap up its opening week on Day 7 with domestic net collections poised to cross the Rs 90 crore mark. After a slower Day 6 that saw the film dip to Rs 6.15 crore, the multi-starrer comedy has pushed its total India net past Rs 87 crore. The film's worldwide gross has crossed Rs 129 crore, and with 'Alpha' starring Alia Bhatt, Bobby Deol and Sharvari opening Friday.",
-    "img": "https://static.toiimg.com/photo/msid-132132522,imgsize-133423.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-6-live-akshay-kumar-led-multi-starrer-eyes-at-closing-week-1-with-rs-90-crore-net-milestone-even-as-worldwide-gross-leaps-past-129-crore/articleshow/132132506.cms",
-    "time": "2026-07-02T07:43:32.000Z"
   },
   {
     "cat": "Politics",
@@ -412,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/que-sera-sera-overlooked-in-punjab-congress-revamp-manish-tewari-posts-cryptic-message/articleshow/132132480.cms",
     "time": "2026-07-02T07:38:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why charge sheet in Pandit Sarla Bhat’s killing a milestone for J&K police?",
-    "desc": "The killing of the 27-year-old Pandit nurse was among the first cases of targeted killing of Kashmiri Pandits in the Valley following the armed insurrection in 1989; the filing of the charge sheet is seen by the family and the entire Pandit community as a step towards justice",
-    "img": "https://th-i.thgim.com/public/incoming/441jxz/article71173487.ece/alternates/LANDSCAPE_1200/04_RVM2842.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/why-charge-sheet-in-pandit-sarla-bhats-killing-a-milestone-for-jk-police-explained/article71172957.ece",
-    "time": "2026-07-02T07:34:55.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +576,6 @@ const newsData_en = [
     "time": "2026-07-02T06:03:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Washington Freedom beat LAKR, jump to fourth in standings",
-    "desc": "Washington Freedom climbed to fourth in the Major League Cricket standings after a comprehensive six-wicket win over Los Angeles Knight Riders. After restricting LAKR to 108, thanks to three wickets each from Saurabh Netravalkar and Mitchell Owen, Washington chased down the target comfortably. Steven Smith remained unbeaten on 40, while Mark Chapman contributed 34 in a crucial 62-run partnership.",
-    "img": "https://static.toiimg.com/photo/msid-132129856,imgsize-160544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/mlc-2026-washington-freedom-beat-la-knight-riders-jump-to-fourth-in-standings/articleshow/132129763.cms",
-    "time": "2026-07-02T05:32:50.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Mahua Moitra names 16 'BJP goons' over mob attack, alleges police watched as eggs were hurled",
     "desc": "Trinamool Congress MP Mahua Moitra alleged a mob attack by BJP workers at a party office in West Bengal's Nadia district. She identified 16 individuals, claiming police remained silent spectators for four hours as protesters hurled eggs and mud. Moitra was later escorted out by police. The BJP denied involvement, suggesting internal TMC conflict, while other opposition leaders condemned the incident and police inaction.",
@@ -577,15 +640,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Tillman's stunning free-kick after Balogun's red card sends USA into last 16",
-    "desc": "Malik Tillman's spectacular free-kick secured a dramatic 2-0 World Cup Round of 16 berth for the USA against Bosnia and Herzegovina. Despite Folarin Balogun's controversial red card, Tillman's late strike, even after a boot change for a bloody toe, sealed the historic win. Captain Christian Pulisic lauded the team's fighting spirit, while coach Mauricio Pochettino questioned the red card. The US face Belgium next, aiming for their second-ever knockout win.",
-    "img": "https://static.toiimg.com/photo/msid-132128363,imgsize-150088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-malik-tillmans-stunning-free-kick-after-folarin-baloguns-red-card-sends-usa-into-fifa-world-cup-round-of-16/articleshow/132128367.cms",
-    "time": "2026-07-02T03:50:23.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Sooryavanshi should’ve played in Ireland': Shastri questions India's decision",
     "desc": "Ravi Shastri has criticised Team India's decision to keep 15-year-old Vaibhav Sooryavanshi on the bench, saying the youngster should have made his debut during the Ireland series. Calling him an \"X-factor,\" Shastri said Vaibhav's fearless approach could provide explosive starts and urged the team management to include him soon after his impressive IPL performances.",
     "img": "https://static.toiimg.com/photo/msid-132128295,imgsize-134901.cms",
@@ -603,24 +657,6 @@ const newsData_en = [
     "time": "2026-07-02T03:44:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'I know their names': RG Kar victim's mother MLA Ratna Debnath says all involved 'will be caught and punished'",
-    "desc": "The mother of the RG Kar Medical College and Hospital rape and murder victim, BJP MLA Ratna Debnath, has declared she knows the identities of those responsible for her daughter's death and the alleged cover-up. She vowed that all culprits, including those who concealed evidence, will face justice. This statement follows a Calcutta High Court order for a new Special Investigation Team, citing dissatisfaction with the previous probe.",
-    "img": "https://static.toiimg.com/photo/msid-132128162,imgsize-108870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-know-their-names-rg-kar-victims-mother-mla-ratna-debnath-says-all-involved-will-be-caught-and-punished/articleshow/132128165.cms",
-    "time": "2026-07-02T03:30:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Optional, protected, not searchable': WhatsApp clarifies 'Username' feature amid safety concerns",
-    "desc": "WhatsApp is clarifying its upcoming username feature amidst government concerns about potential fraud and impersonation. The company assures users usernames are optional and will not be publicly searchable. Existing popular names are reserved for legitimate owners. However, the Indian government has asked Meta to halt the rollout until consultations are complete, citing risks of scams and identity spoofing.",
-    "img": "https://static.toiimg.com/photo/msid-132127954,imgsize-1540962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/optional-protected-not-searchable-whatsapp-clarifies-username-feature-amid-safety-concerns/articleshow/132127507.cms",
-    "time": "2026-07-02T03:23:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Will Balogun miss USA's last 16 clash vs Belgium after red card? Rules explained",
     "desc": "USA secured a World Cup Round of 16 spot with a 2-0 win over Bosnia and Herzegovina, but star striker Folarin Balogun was controversially red-carded. His dismissal, following a VAR review for stepping on an opponent's ankle, means he's suspended for the Belgium clash unless an appeal succeeds. Balogun, who scored his third tournament goal before the incident, remains a key player for the US.",
@@ -628,24 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-will-folarin-balogun-miss-usas-round-of-16-clash-vs-belgium-after-red-card-rules-explained/articleshow/132127807.cms",
     "time": "2026-07-02T03:10:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Kya kar raha hai yaar?'",
-    "desc": "Ishan Kishan suffered a second successive run-out dismissal after a mix-up with Abhishek Sharma in India's first T20I against England. A frustrated Abhishek was heard saying, \"Tu pahuncha ki nahin pahuncha, kya kar raha hai yaar Ishan?\" However, Abhishek recovered brilliantly with a 24-ball 59 as India posted 189/7. Persistent rain later forced the match to be abandoned.",
-    "img": "https://static.toiimg.com/photo/msid-132127587,imgsize-99424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/watch-kya-kar-raha-hai-yaar-abhishek-sharma-left-frustrated-after-mix-up-with-ishan-kishan/articleshow/132127346.cms",
-    "time": "2026-07-02T02:47:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What's on the agenda as Japan PM reaches India",
-    "desc": "Japanese Prime Minister Sanae Takaichi is in New Delhi for a three-day visit, focusing on the 16th India-Japan Annual Summit. Discussions will center on deepening cooperation in economic security, resilient supply chains, emerging technologies, and defence. Both nations aim to bolster their Special Strategic and Global Partnership, with a strong emphasis on investment, innovation, and industrial collaboration amidst evolving global dynamics.",
-    "img": "https://static.toiimg.com/photo/msid-132127491,imgsize-118611.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/critical-minerals-to-semiconductor-whats-on-the-agenda-as-japan-pm-reaches-india/articleshow/132127497.cms",
-    "time": "2026-07-02T02:39:33.000Z"
   },
   {
     "cat": "Business",
@@ -783,15 +801,6 @@ const newsData_en = [
     "time": "2026-07-01T16:01:09.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India, Japan to sign LNG security pact during PM Modi-Takaichi bilateral",
-    "desc": "India and Japan are set to sign a crucial agreement to bolster liquefied natural gas (LNG) supply security, aiming to counter global disruptions. A joint task force is anticipated to coordinate stockpiling and enhance energy cooperation. The summit, focusing on economic security and resilient supply chains, will also cover critical minerals, AI, and semiconductors, with significant private sector investments expected.",
-    "img": "https://static.toiimg.com/photo/msid-132117563,imgsize-947315.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-japan-to-sign-lng-security-pact-during-pm-modi-takaichi-bilateral/articleshow/132117357.cms",
-    "time": "2026-07-01T14:35:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "Jammu and Kashmir should become a ‘bridge of peace’ between India and Pakistan: Mehbooba Mufti",
     "desc": "Peoples Democratic Party president Mehbooba Mufti on July 1 suggested that the Centre make Jammu and Kashmir a gateway between South and Central Asia, and use its geographical location to strengthen ties with Pakistan and China.",
@@ -871,15 +880,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/despite-war-net-remittances-from-west-asia-to-india-rose-70-in-april-2026/article71165898.ece",
     "time": "2026-06-30T15:41:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Why Sachin Ahir’s switch to Shinde faction is a setback for Thackeray| Above the Fold| 30.06.2025",
-    "desc": "The episode takes a look latest political developments in Maharashtra as another Sachin Ahir joins Eknath Shinde’s camp; Haldia Petrochemicals in West Bengal; the rollout of the SIR of electoral rolls across four States and Delhi; rising political tensions over the Ram Temple donation case, and more.",
-    "img": "https://th-i.thgim.com/public/news/national/c8nfh6/article71166838.ece/alternates/LANDSCAPE_1200/June%2024%20THUMB%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-why-sachin-ahirs-switch-to-shinde-faction-is-a-setback-for-thackeray-above-the-fold-30062025/article71166840.ece",
-    "time": "2026-06-30T15:38:41.000Z"
   },
   {
     "cat": "Business",

@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "চ্যাট-বোমা থেকে চোর-ডাকাত খোঁচা: দেবরাজ গ্রেফতার হতেই অদিতির অতীত টানলেন তরুণজ্যোতি",
+    "desc": "রিয়ালিটি শো-র প্যানেলিস্টদের সাথে কী চ্যাট হতো, সব স্ক্রিনশট আমার কাছে আছে!\" স্বামী দেবরাজ চক্রবর্তী গ্রেফতার হতেই এবার কীর্তন শিল্পী তথা প্রাক্তন তৃণমূল বিধায়ক অদিতি মুন্সিকে নিয়ে মারাত্মক দাবি করলেন বিজেপি বিধায়ক তরুণজ্যোতি তিওয়ারি। 'স্বামী চোর নয় ডাকাত'— মন্তব্য করে অদিতির পুরোনো 'জেলে যাওয়ার' হুঁশিয়ারিকেও কটাক্ষ করলেন তিনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tarunjyoti-tewari-claims-aditi-munshi-reality-show-chat-proof-after-debraj-arrest_660827.html ",
+    "time": "2026-07-02T13:01:12.000Z"
+  },
+  {
     "cat": "World",
     "title": "সরে গেল পাহাড়, ঘুরে গেল নদী, গ্রামনগর চলে গেল মাটির তলায়; ইতিহাসের ভয়ংকরতম ভূমিকম্পে প্রায় ৯ লক্ষ মৃত্যু!",
     "desc": "ইতিহাস আমাদের মনে করাচ্ছে, ১৫৫৬ সালের এক ভয়ংকর ভূমিকম্পের কথা। মানুষের ইতিহাস যেদিন থেকে লিপিবদ্ধ করা গিয়েছে,সেই তথ্যের নিরিখে চিনের শানসি প্রদেশের এই ভূমিকম্পই এখনও পর্যন্ত সব চেয়ে বিধ্বংসী হিসেবে রেকর্ড তৈরি করেছে। তৈরি করেছে এক ভয়ংকর আতঙ্কও।",
@@ -232,15 +241,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actress-sanghasri-sinha-brings-serious-allegations-against-hospital_660052.html ",
     "time": "2026-06-26T13:11:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'আপাতত কোনও কড়া পদক্ষেপ নয়', মিমি চক্রবর্তীর বিরুদ্ধে FIR-এ স্থগিতাদেশ হাইকোর্টের",
-    "desc": "শুরুতে ধাক্কা খেতে হয়েছিল। তবে শেষপর্যন্ত আদালতে স্বস্তি পেলেন অভিনেত্রী মিমি চক্রবর্তী। তাঁর বিরুদ্ধে যে FIR দায়ের করেছিলেন তনয় শাস্ত্রী, সেই FIR-র উপর এবার স্থগিতাদেশ জারি করল কলকাতা হাইকোর্ট। বিচারপতি কৌশক চন্দের সিঙ্গল বেঞ্চের নির্দেশ, 'আপাতত কোনও কড়া পদক্ষেপ নয়'।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/calcutta-high-court-stay-order-on-fir-filed-against-mimi-chakraborty_659832.html ",
-    "time": "2026-06-24T16:38:27.000Z"
   },
   {
     "cat": "Business",
