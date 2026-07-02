@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India-born Jai Moondra, Player of the Series in Ireland's historic 2-0 win, picked in ETPL draft",
+    "desc": "Rajasthan-born Jai Moondra, who was recently named the Player of the Series in Ireland's historic 2-0 T20I series win over India, has been picked by Rotterdam Dockers for the European T20 Premier League (ETPL) in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-born-jai-moondra-player-of-the-series-in-irelands-historic-2-0-win-picked-in-etpl-draft-2026-07-02-1046950",
+    "time": "2026-07-02T15:56:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain look for maiden World Cup knockout win since 2010; Portugal to face litmus test in path to glory",
+    "desc": "Luis De La Fuente's Spanish team is all set to battle it out for their first World Cup knockout win since 2010 as they gear up to face Austria in the round of 32 at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/spain-look-for-maiden-world-cup-knockout-win-since-2010-portugal-to-face-litmus-test-in-path-to-glory-2026-07-02-1046949",
+    "time": "2026-07-02T15:35:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravichandran Ashwin reacts to his new mentor-cum captain role at Dublin Guardians in ETPL",
+    "desc": "Ravichandran Ashwin gears up for his dual role as a captain and mentor for the Dublin Guardians in ETPL, calling it a “crossover into what he would like to do next”, and feels that the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-reacts-to-his-new-mentor-cum-captain-role-at-dublin-guardians-in-etpl-2026-07-02-1046947",
+    "time": "2026-07-02T15:01:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravichandran Ashwin casts doubt on future of ODIs, predicts T20s are \"here to stay\"",
+    "desc": "India legend and off-spinner Ravichandran Ashwin cast doubts over the future of ODI cricket and predicted that T20Is are the format for cricket to become a global phenomenon. The statement came as the cricket legend...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-casts-doubt-on-future-of-odis-predicts-t20s-are-here-to-stay-2026-07-02-1046936",
+    "time": "2026-07-02T13:54:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ellyse Perry to play in Women's T20 World Cup final despite injury? Coach drops major hint",
     "desc": "Australia star all-rounder Ellyse Perry is likely to play the Women's T20 World Cup final even if she is not fully fit, head coach Shelley Nitschke hinted at while speaking to reporters on Thursday. Perry...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/belgium-stun-senegal-3-2-in-extra-time-thriller-to-reach-fifa-world-cup-2026-quarterfinals-2026-07-02-1046838",
     "time": "2026-07-01T23:06:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic thrashes Stefanos Tsitsipas in straight sets, advances to third round of Wimbledon",
-    "desc": "Novak Djokovic defeated Stefanos Tsitsipas 6-3, 6-4, 6-2 on Centre Court to move into the third round of Wimbledon for the 20th time. The seven-time champion, who was taken to four sets by Wu Yibing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-thrashes-stefanos-tsitsipas-in-straight-sets-advances-to-third-round-of-wimbledon-2026-07-02-1046837",
-    "time": "2026-07-01T22:12:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli trains with former India coach ahead of England series, video goes viral",
-    "desc": "Star India batter Virat Kohli has resumed practice ahead of the three-match ODI series against England, starting July 14. As things stand, his availability is still subject to fitness clearance after missing out on the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-trains-with-former-india-coach-ahead-of-england-series-video-goes-viral-2026-07-02-1046836",
-    "time": "2026-07-01T21:29:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil could suffer massive blow ahead of FIFA World Cup 2026 round of 16 clash vs Norway",
-    "desc": "Five-time FIFA World Cup winner, Brazil, can miss the services of midfielder Lucas Paqueta in their round of 16 clash against Norway. He suffered a hamstring injury in the first half during the team's victory...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/brazil-could-suffer-massive-blow-ahead-of-fifa-world-cup-2026-round-of-16-clash-vs-norway-2026-07-02-1046835",
-    "time": "2026-07-01T20:49:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "French Open winner, Mirra Andreeva, knocked out of Wimbledon 2026 by defending champion",
-    "desc": "Defending champion Barbora Krejcikova knocked Mirra Andreeva out of Wimbledon. She recovered from a set down to claim a 4-6, 7-5, 6-4 victory and secured a place in the third round at the All England...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/french-open-winner-mirra-andreeva-knocked-out-of-wimbledon-2026-by-defending-champion-2026-07-02-1046834",
-    "time": "2026-07-01T20:03:24.000Z"
   }
 ];

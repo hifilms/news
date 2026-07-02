@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "માત્ર વ્યાજથી જ ₹5 લાખની કમાણી, પોસ્ટ ઓફિસની આ સ્કીમ છે શાનદાર",
+    "desc": "સરકારે જુલાઈ-સપ્ટેમ્બર ક્વાર્ટર માટે પોસ્ટ ઓફિસ નેશનલ સેવિંગ્સ સર્ટિફિકેટ (NSC) યોજના માટે વ્યાજ દર 7.7 ટકા પર યથાવત રાખ્યો છે. આ યોજના હેઠળ વ્યક્તિ પાંચ વર્ષના સમયગાળા દરમિયાન ફક્ત વ્યાજમાંથી ₹5 લાખ કમાઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/post-office-nsc-scheme-earn-5-lakh-rupee-only-by-interest-483405 ",
+    "time": "2026-07-02T16:28:55.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Hyundaiની ₹5.60 લાખની કાર થઈ સસ્તી, કંપની ₹70,000નું આપી રહી છે ડિસ્કાઉન્ટ",
+    "desc": "હ્યુન્ડાઇની સૌથી સસ્તી આ કારની એક્સ-શોરૂમ કિંમત ₹5,59,700થી ₹8,04,300 સુધીની છે. ભારતીય બજારમાં તે મારુતિ સ્વિફ્ટ, મારુતિ વેગનઆર, મારુતિ સેલેરિયો અને ટાટા ટિયાગો જેવી કાર સાથે સીધી સ્પર્ધા કરે છે. ત્યારે કઈ કાર પર ડિસ્કાઉન્ટ મળી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/hyundai-i10-discount-price-cut-upto-rs-70000-know-latest-price-483404 ",
+    "time": "2026-07-02T15:40:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ખેલાડીની ભૂલ ફેન્સ માટે બની ખુશખબર! અમેરિકાના ખેલાડીને રેડ કાર્ડ મળતા જ આ કંપની હવે ફ્રીમાં આપશે 1 મિલિયન ડોલરના પિઝા; જાણો કારણ",
+    "desc": "અમેરિકાની પ્રખ્યાત પિઝા કંપની ડોમિનોઝ (Domino's)એ જાહેરાત કરી છે કે, તે 10 લાખ અમેરિકી ડોલર (1 મિલિયન ડોલર)ની કિંમતના મફત પિઝા વહેંચશે. ચોંકાવનારી વાત એ છે કે, આનું કારણ અમેરિકાની જીત નહીં, પરંતુ ટીમના સ્ટાર સ્ટ્રાઈકર ફોલારિન બાલોગુનને મળેલું રેડ કાર્ડ બન્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/dominos-will-now-give-away-1-million-dollar-worth-of-pizza-for-free-if-an-american-player-gets-a-red-card-know-reason-483403 ",
+    "time": "2026-07-02T15:21:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટેલેન્ટની કોઈ કમી નથી, તો અટકી કેમ રહ્યું છે વૈભવ સૂર્યવંશીનું ડેબ્યૂ ? આ છે સૌથી મોટું કારણ",
+    "desc": "જો તમને પણ સવાલ છે કે વૈભવ સૂર્યવંશીનું હજુ સુધી ડેબ્યૂ કેમ થયું નથી અને ટીમ મેનેજમેન્ટના નિર્ણય પર સવાલ ઉઠાવી રહ્યા છો, તો આ લેખમાં અમે તમને આ પાછળું કારણ જણાવીશું, જે તમને સમજવામાં મદદ કરશે કે ટીમ મેનેજમેન્ટ તેને મેદાનમાં ઉતારવાની ઉતાવળ કેમ નથી કરી રહ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-vaibhav-sooryavanshi-debut-being-delayed-know-the-big-reason-483402 ",
+    "time": "2026-07-02T14:52:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આ વર્ષની બ્લોકબસ્ટર હિટ હોરર ફિલ્મ ઓબ્સેશન ઓટીટી પર રિલીઝ, જાણો કયાં જોવી ઓબ્સેશન ફિલ્મ",
+    "desc": "જો તમે ઓબ્સેશન ફિલ્મ ઓટીટી પર જોવાની રાહ જોઈ રહ્યા છો તો તમારે હવે રાહ જોવાની જરૂર નથી. કારણ કે આ વર્ષી સૌથી બેસ્ટ અને ડરામણી હોરર ફિલ્મ ઓબ્સેશન ઓટીટી પર રિલીઝ થઈ ચુકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-horror-film-of-the-year-obsession-released-on-ott-here-is-full-details-483398 ",
+    "time": "2026-07-02T14:01:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મંગેતર સિયા ગોયલે પ્રેમી સાથે મળીને પહેલાં કર્યું &amp;#039;મર્ડર રિહર્સલ&amp;#039;, ઊંડી ખીણમાં ફેંકવાની કરી હતી પ્રેક્ટિસ!",
     "desc": "પુણેના જાણીતા બિઝનેસમેન કેતન અગ્રવાલના મોતના મામલામાં એક પછી એક ચોંકાવનારા ખુલાસા થઈ રહ્યા છે. લોહગઢ કિલ્લા પરથી કેતનને ઊંડી ખીણમાં ધક્કો મારીને મોતને ઘાટ ઉતારનાર તેની મંગેતર સિયા ગોયલ અંગે વધુ એક સનસનાટીભર્યો ખુલાસો થયો છે. પોલીસ તપાસમાં સામે આવ્યું છે કે સિયાએ આ હત્યાકાંડને અંજામ આપતા પહેલાં પોતાના પ્રેમી ચેતન ચૌધરી સાથે મળીને પ્રોપર 'રિહર્સલ' કરી હતી! આમ છતાં બંને જેલના સળિયા પાછળ છે.",
@@ -288,15 +333,6 @@ const newsData_gu = [
     "time": "2026-07-01T04:20:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ફૂટબોલ ઈતિહાસની સૌથી મોટી જંગ! ગોલ્ડન બૂટની રેસમાં મેસ્સીથી આગળ નીકળ્યો એમ્બાપ્પે",
-    "desc": "ફૂટબોલ વર્લ્ડ કપના નોકઆઉટ રાઉન્ડમાં ફ્રાન્સે સ્વીડનને 3-0થી હરાવીને રાઉન્ડ ઓફ 16માં પ્રવેશ કર્યો છે. કિલિયન એમ્બાપ્પેએ બે ગોલ કરીને નોકઆઉટ મેચોના ઐતિહાસિક રેકોર્ડને તોડ્યો અને હવે તે ગોલ્ડન બૂટની રેસમાં મેસ્સીની હરોળમાં પહોંચી ગયો છે. ફ્રાન્સની ટીમ હવે આગામી રાઉન્ડમાં પેરાગ્વેનો સામનો કરશે. પેરાગ્વે એ જ ટીમ છે જેણે જર્મનીને હરાવીને મોટો ઉલટફેર કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/france-won-against-sweden-mbappe-ahead-of-messi-in-the-race-for-the-golden-boot-483229 ",
-    "time": "2026-07-01T04:08:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "LPGમાં ઘટાડા પછી શું પેટ્રોલ-ડીઝલ અને CNGના ભાવ પણ ઘટ્યા? જાણો 1 જુલાઈના લેટેસ્ટ રેટ",
     "desc": "કોમર્શિયલ LPG સિલિન્ડરના ભાવ ઘટાડાના સારા સમાચાર બાદ, આજે પેટ્રોલ અને ડીઝલના ગ્રાહકો નિરાશ થયા હતા. પેટ્રોલ કે ડીઝલના ભાવમાં કોઈ ફેરફાર થયો નથી. જાણો આજનો અમદાવાદ સહિત દેશના અનેક મોટા શહેરોના પેટ્રોલ ડીઝલના ભાવ.",
@@ -313,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-are-trains-not-running-in-rich-countries-like-kuwait-qatar-and-bahrain-this-is-the-real-reason-483211 ",
     "time": "2026-06-30T17:37:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઇંગ્લેન્ડ સામેની ODI સિરીઝ પહેલા ટીમ ઇન્ડિયાને મોટો ઝટકો, સ્ટાર ઓલરાઉન્ડર બહાર ! જાણો શું છે કારણ",
-    "desc": "ભારતીય ઓલરાઉન્ડર નીતિશ કુમાર રેડ્ડી ક્વાડ્રિસેપ્સની ઇજાને કારણે 14 જુલાઈથી ઇંગ્લેન્ડ સામે શરૂ થતી ODI શ્રેણી ગુમાવી શકે છે. BCCI મેડિકલ ટીમે તેને વધુ આરામ કરવાની સલાહ આપી છે. હવે તે ઝિમ્બાબ્વે પ્રવાસ દરમિયાન વાપસી કરે તેવી શક્યતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/nitish-kumar-reddy-may-be-ruled-out-of-england-odi-series-due-to-injury-483209 ",
-    "time": "2026-06-30T16:09:53.000Z"
   },
   {
     "cat": "Business",
@@ -700,14 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/even-a-zero-watt-bulb-consumes-electricity-so-why-is-it-named-that-way-discover-the-interesting-story-behind-it-482180 ",
     "time": "2026-06-21T06:42:45.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "જીપની મોટી જાહેરાત, 100 લોકોને ફ્રીમાં મળશે 37 લાખની Wrangler SUV, જાણો કંપનીની શરતો",
-    "desc": "ફિફા વર્લ્ડ કપ ચાલી રહ્યો છે અને આ અવસરે જીપે એક ખાસ કેમ્પેનની જાહેરાત કરી છે. આ અંતર્ગત કંપની 100 લોકોને જીપ રેંગલર (Jeep Wrangler) SUV ફ્રીમાં આપવાની છે. આ માટે કંપનીએ બે શરતો રાખી છે. જો આ બન્ને શરતો પૂરી થશે, તો કંપની 100 લોકોને આ કાર આપશે. આ કારની કિંમત 36,685 ડોલર (આશરે 37.44 લાખ રૂપિયા) છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/jeep-big-announcement-100-people-will-get-a-wrangler-suv-worth-37-lakhs-for-free-know-company-terms-482108 ",
-    "time": "2026-06-20T12:28:28.000Z"
   }
 ];
