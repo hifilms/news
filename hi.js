@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lionel Messi's Argentina play Vozinga's Cabo Verde in round of 32",
+    "desc": "Defending champions Argentina will face Cape Verde in a FIFA World Cup 2026 Round of 32 knockout match in Miami. It’s a classic David-versus-Goliath encounter that brings together one of the tournament favourites and its...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arg-vs-cpv-fifa-world-cup-live-argentina-vs-cabo-verde-score-tactical-analysis-minute-by-minute-commentary-goals-1047074",
+    "time": "2026-07-03T21:36:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Egypt progress to FIFA World Cup 2026 round of 16 after thrilling win over Australia in penalties",
+    "desc": "Egypt defeated Australia 4–2 in a penalty shootout after a 1–1 draw in regulation and extra time in their FIFA World Cup 2026 Round of 32 clash on July 3. With the win, the Mohamad...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/egypt-progress-to-fifa-world-cup-2026-round-of-16-after-thrilling-win-over-australia-in-penalties-2026-07-04-1047073",
+    "time": "2026-07-03T21:19:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Axar Patel needs one wicket in second T20I vs England to create history for India in T20Is",
+    "desc": "India spinner Axar Patel can script history in the second T20I against England at Old Trafford in Manchester on Saturday, July 4. The 32-year-old has claimed 99 wickets so far in T20Is and with one...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-needs-one-wicket-in-second-t20i-vs-england-to-create-history-for-india-in-t20is-2026-07-04-1047071",
+    "time": "2026-07-03T20:32:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Vaibhav Sooryavanshi play 2nd T20I vs England? Bowling coach Morne Morkel indicates",
+    "desc": "On the eve of the second T20I against England at Old Trafford, India bowling coach Morne Morkel has ruled out any immediate rethink at the top of the batting order. He assured that the team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-vaibhav-sooryavanshi-play-2nd-t20i-vs-england-bowling-coach-morne-morkel-indicates-2026-07-04-1047069",
+    "time": "2026-07-03T19:19:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Zimbabwe announce 15-member squad for Bangladesh ODIs, Innocent Kaia returns after 2.5 years",
     "desc": "Zimbabwe have recalled Innocent Kaia to their ODI squad for the upcoming three-match home series against Bangladesh. The 33-year-old was rewarded for his impressive run of form across formats in domestic cricket. Apart from him,...",
     "img": "",
@@ -43,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-name-playing-xi-for-second-t20i-against-india-jofra-archer-makes-much-awaited-comeback-2026-07-03-1047046",
     "time": "2026-07-03T13:17:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer weighs in on Vaibhav Sooryavanshi's delayed debut ahead of second England T20I",
-    "desc": "India is in the middle of their ongoing series against England. After losing their last two games against Ireland and missing out on the series, the Men in Blue’s first match against England was cut...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-vaibhav-sooryavanshi-s-delayed-debut-ahead-of-second-england-t20i-2026-07-03-1047035",
-    "time": "2026-07-03T11:59:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Dhoni sir is very similar': Deepti Sharma draws comparison between Novak Djokovic and former India skipper",
-    "desc": "Wimbledon 2026 is in full swing, and some of the best tennis players in the world are taking on each other in the hope of getting their hands on the marquee title. Star India women’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dhoni-sir-is-very-similar-deepti-sharma-draws-comparison-between-novak-djokovic-and-former-india-skipper-2026-07-03-1047027",
-    "time": "2026-07-03T11:24:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What did Cristiano Ronaldo say to Luka Modric after Portugal's thrilling win over Croatia? Skipper reveals",
-    "desc": "Croatia crashed out of the ongoing FIFA World Cup 2026 after a thrilling clash against Portugal. The two sides met in the round of 32 of the competition at the Toronto Stadium on July 3rd,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/what-did-cristiano-ronaldo-say-to-luka-modric-after-portugal-s-thrilling-win-over-croatia-skipper-reveals-2026-07-03-1047019",
-    "time": "2026-07-03T10:14:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Julian Nagelsmann set to step down as Germany's head coach, replacement lined up after horrid WC",
-    "desc": "In a major development, after a horrid campaign in the ongoing FIFA World Cup 2026, Germany is looking for a major overhaul. One of the biggest changes after the side’s elimination comes as head coach...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/julian-nagelsmann-set-to-step-down-as-germany-s-head-coach-replacement-lined-up-after-horrid-wc-2026-07-03-1047006",
-    "time": "2026-07-03T08:35:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo in tears as Portugal pays tribute to Diogo Jota after Croatia clash",
-    "desc": "Portugal put forth a good showing in the round of 32 of the FIFA World Cup 2026! The side took on Croatia in the crucial clash at the Toronto Stadium on July 3rd, and after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-in-tears-as-portugal-pays-tribute-to-diogo-jota-after-croatia-clash-watch-2026-07-03-1046995",
-    "time": "2026-07-03T07:20:42.000Z"
   }
 ];

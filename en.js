@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "WMO warns of rapid El Nino development during July-September",
+    "desc": "El Nino's rapid development is set to intensify global extreme weather, including heatwaves and droughts, impacting the Indian subcontinent. India already faces a significant rainfall deficit, with June recording a 40% shortfall, severely affecting kharif crop sowing and reducing overall acreage by 23%. This poses a serious challenge for agriculture, especially in rain-fed regions.",
+    "img": "https://static.toiimg.com/photo/msid-132170818,imgsize-1589952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wmo-warns-of-rapid-el-nino-development-during-july-september/articleshow/132170820.cms",
+    "time": "2026-07-03T21:54:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress hit with new infighting row in M.P. after Digvijaya Singh refutes Jitu Patwari’s claims over Ujjain land ‘scam’",
+    "desc": "Even though Congress leaders now say that the issue has been resolved and the party is now focused on the byelection on Datia Assembly constituency, a source said that the matter has reached the party national leadership and that “there are high chances of an intervention from Delhi”",
+    "img": "https://th-i.thgim.com/public/incoming/svhrxk/article71180565.ece/alternates/LANDSCAPE_1200/PTI07_03_2026_000220B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/congress-hit-with-new-infighting-row-in-mp-after-digvijaya-singh-refutes-jitu-patwaris-claims-over-ujjain-land-scam/article71179990.ece",
+    "time": "2026-07-03T21:52:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift and Travis Kelce's guests arrive for wedding",
+    "desc": "Taylor Swift and Travis Kelce's highly anticipated wedding is underway at Madison Square Garden, resembling an American royal affair. Celebrities like Bradley Cooper, Gigi Hadid, and Dakota Johnson were among the early arrivals, gracing the event in stunning attire. The venue is under tight security with elaborate preparations for over a thousand guests, promising a night of grand celebration.",
+    "img": "https://static.toiimg.com/photo/msid-132170626,imgsize-95150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-travis-kelce-wedding-abigail-anderson-gigi-hadid-bradley-cooper-and-other-celeb-guests-arrive-in-style-for-madison-square-garden-celebrations-watch/articleshow/132170624.cms",
+    "time": "2026-07-03T21:35:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift and Travis Kelce's wedding to start soon",
+    "desc": "New York is abuzz as pop superstar Taylor Swift and NFL star Travis Kelce's wedding is reportedly set for Friday at Madison Square Garden. Despite heavy secrecy, guest arrivals are underway, with fans and media speculating about the venue's transformation and the event's details. The lavish celebration coincides with a packed July Fourth weekend in the city, adding to the excitement surrounding the high-profile couple.",
+    "img": "https://static.toiimg.com/photo/msid-132170593,imgsize-379556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-travis-kelce-wedding-at-madison-square-garden-to-start-soon-details-inside/articleshow/132170576.cms",
+    "time": "2026-07-03T20:43:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI boom lifts industrial engineers' pay packages",
+    "desc": "India's burgeoning AI data-centre sector is creating a surge in demand for mechanical, electrical, and industrial engineers. These professionals, once overlooked, are now commanding significant salaries as companies build energy-intensive AI infrastructure. Roles like cooling specialists and power procurement heads are in high demand, driving a new career path for talent in physical infrastructure development.",
+    "img": "https://static.toiimg.com/photo/msid-132170556,imgsize-516980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-boom-lifts-industrial-engineers-pay-packages/articleshow/132170559.cms",
+    "time": "2026-07-03T20:25:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "HCLTech wins $1.1bn AI-led deal with Mercedes",
+    "desc": "HCLTech's stock surged almost 6% following the announcement of a massive $1.1 billion deal with a European Fortune Global 50 company, widely believed to be Mercedes-Benz. This significant AI-led agreement, set to run for five years with an extension option, will see HCLTech revamp the automaker's global digital workplace and network operations. The deal highlights the increasing enterprise focus on artificial intelligence investments.",
+    "img": "https://static.toiimg.com/photo/msid-132170541,imgsize-1023331.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hcltech-wins-1-1bn-ai-led-deal-with-mercedes/articleshow/132170544.cms",
+    "time": "2026-07-03T20:16:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Piyush Goyal tells states",
+    "desc": "Commerce Minister Piyush Goyal has called on states to identify import-substitutable products, aiming to boost domestic manufacturing, cut foreign exchange outgo, and strengthen supply chains. He also pushed for export committees and monthly reviews to support industries facing unfair trade practices. A 90-day drive will focus on 120 districts to increase exporter registrations and export value, aligning with the One District One Product initiative.",
+    "img": "https://static.toiimg.com/photo/msid-132170527,imgsize-427332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/identify-imported-goods-for-manufacturing-piyush-goyal-tells-states/articleshow/132170528.cms",
+    "time": "2026-07-03T20:10:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SAP tightens hiring, travel as investments in AI zoom",
+    "desc": "German software giant SAP is implementing hiring freezes, travel restrictions, and tighter control over external spending to fuel its significant investments in artificial intelligence. The company is prioritizing core AI roles and strategic acquisitions to bolster its AI capabilities. While internal travel is paused, essential trips for AI initiatives and customer engagement will continue, reflecting SAP's commitment to its AI-driven future.",
+    "img": "https://static.toiimg.com/photo/msid-132170512,imgsize-216837.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sap-tightens-hiring-travel-as-investments-in-ai-zoom/articleshow/132170516.cms",
+    "time": "2026-07-03T20:06:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FM Sitharaman",
+    "desc": "India's middle class, comprising 31% of the population, is identified as the nation's primary growth engine, driving nearly all consumer spending. This demographic is expanding annually at 6.3% and is increasingly found in tier-two and tier-three cities, not just metropolises. Finance Minister Nirmala Sitharaman highlighted that around 500 cities are set to become new economic hubs, with government initiatives supporting AI-driven skill development to address job displacement fears.",
+    "img": "https://static.toiimg.com/photo/msid-132170496,imgsize-586114.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/nearly-500-cities-set-to-become-next-eco-hubs-fm-sitharaman/articleshow/132170497.cms",
+    "time": "2026-07-03T20:00:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India-Japan relations should not target third party: China",
+    "desc": "India and Japan also expressed \"serious concern\" at the situation in the East China Sea and South China Sea, and opposed unilateral actions that endanger freedom of navigation as well as attempts to change the status quo by force",
+    "img": "https://th-i.thgim.com/public/incoming/qbwsv9/article71178547.ece/alternates/LANDSCAPE_1200/PTI07_03_2026_000007A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/india-japan-ties-should-not-target-third-party-china/article71178490.ece",
+    "time": "2026-07-03T19:57:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Samsung phones lead in purchase via EMI route",
+    "desc": "Contrary to popular belief, Samsung leads India's smartphone sales via easy monthly installments, outpacing even Apple. Vivo and Oppo also show strong performance in this growing financing market. As component costs rise, pushing up device prices, financing is becoming crucial for consumers, especially in smaller cities. Brands with robust offline networks are leveraging this trend effectively.",
+    "img": "https://static.toiimg.com/photo/msid-132170432,imgsize-221809.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/samsung-phones-lead-in-purchase-via-emi-route/articleshow/132170433.cms",
+    "time": "2026-07-03T19:45:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Factory floor emerges as new cyber battleground",
+    "desc": "Recent cyberattacks on Bajaj Auto and Tata Electronics have underscored the escalating cyber risks for India's manufacturing sector. As factories embrace automation and AI, their increased connectivity creates larger vulnerabilities. Experts warn that these breaches, which can halt production and compromise sensitive data, threaten intellectual property crucial for India's 'China-plus-one' strategy. Strengthening cybersecurity measures is now paramount for business continuity and trust.",
+    "img": "https://static.toiimg.com/photo/msid-132170408,imgsize-1055391.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/factory-floor-emerges-as-new-cyber-battleground/articleshow/132170401.cms",
+    "time": "2026-07-03T19:42:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Loan growth speeds up in Q1, deposits still lag",
+    "desc": "Indian banks witnessed robust credit growth in the June 2026 quarter, with some lenders seeing advances surge significantly. However, a widening gap emerged as deposits declined for select banks like Bank of Baroda, IDBI, and RBL. Public sector banks maintained a steadier credit-deposit growth, while private lenders adjusted liabilities. Factors like a new credit guarantee scheme and supply chain issues fueled loan demand.",
+    "img": "https://static.toiimg.com/photo/msid-132170379,imgsize-519563.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/loan-growth-speeds-up-in-q1-deposits-still-lag/articleshow/132170389.cms",
+    "time": "2026-07-03T19:37:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress demands dissolution of Ram temple trust",
+    "desc": "The Congress party has called for the dissolution of the Ram Janmabhoomi Teerth Kshetra Trust amidst allegations of donation theft. They are demanding a Supreme Court-monitored investigation and urged Prime Minister Narendra Modi to address the controversy. The party criticized the RSS's \"clean chit\" as shameful and highlighted public anger over the alleged misappropriation of funds.",
+    "img": "https://static.toiimg.com/photo/msid-132170240,imgsize-1524220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-demands-dissolution-of-ram-temple-trust/articleshow/132170247.cms",
+    "time": "2026-07-03T19:23:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor-Travis wedding: Venue, guests, timings and all the details",
+    "desc": "Taylor Swift and Travis Kelce's reported wedding celebrations are expected to reach their grand finale on Friday with a lavish reception at New York City's Madison Square Garden, where nearly 1,000 guests are anticipated to attend. Although the celebrity couple have remained silent about their wedding plans, preparations at the iconic venue and official city permits have fuelled widespread speculation that one of the year's biggest celebrity events is underway.",
+    "img": "https://static.toiimg.com/photo/msid-132170190,imgsize-83466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-travis-kelce-wedding-venue-1000-celebrity-guest-list-timings-and-everything-we-know-so-far/articleshow/132170069.cms",
+    "time": "2026-07-03T19:17:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt orders Apple, Google to remove 7 Chinese apps",
+    "desc": "Authorities have directed Google and Apple to remove seven Chinese battery management apps, including BAT-BMS, from their stores. These apps were reportedly misused to remotely disable battery-operated vehicles, such as e-rickshaws, causing significant disruption for drivers. This marks the first government action addressing data security and remote interference concerns linked to vehicle devices, with further app bans anticipated if similar issues arise.",
+    "img": "https://static.toiimg.com/photo/msid-132170116,imgsize-938599.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-orders-apple-google-to-remove-7-chinese-apps/articleshow/132170110.cms",
+    "time": "2026-07-03T19:13:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ram temple theft deeply hurt devotees, don't let anti-Hindu forces exploit row: RSS",
+    "desc": "The RSS has expressed deep hurt over the Ayodhya Ram temple donation theft, urging the Shri Ram Janmabhoomi Teerth Kshetra Trust to address management deficiencies. Appealing for patience and restraint, the organization warned against anti-Hindu forces exploiting the controversy. The incident has sparked scrutiny over temple finances and security, with authorities launching a probe. The RSS emphasized the need for transparency and accountability to maintain devotees' faith.",
+    "img": "https://static.toiimg.com/photo/msid-132169957,imgsize-1118129.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ram-temple-theft-deeply-hurt-devotees-dont-let-anti-hindu-forces-exploit-row-rss/articleshow/132169950.cms",
+    "time": "2026-07-03T18:58:55.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Child slams J&amp;K education minister in video, sparks outcry",
     "desc": "A viral video of a 12-year-old criticizing J&K Education Minister Sakina Itoo over delayed summer vacations has sparked controversy. Kashmir's chief cleric deemed the child's remarks impolite, while the Child Welfare Committee summoned the news portal for uploading the clip without parental consent. The CWC also ordered the video's removal and an FIR, citing concerns for the child's privacy and well-being.",
     "img": "https://static.toiimg.com/photo/msid-132169727,imgsize-1201717.cms",
@@ -100,15 +253,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Amit Shah to review Manipur security situation on July 4; CM likely to visit Churachandpur, a first since 2023 violence",
-    "desc": "Mr. Shah will hold the meeting with Manipur government’s Security Adviser Kuldiep Singh and State Director General of Police Mukesh Singh, Director General of Military Operations (DGMO) and D-Gs of Assam Rifles, Central Reserve Police Force (CRPF) and Border Security Force (BSF); CM Yumnam Khemchand Singh is not part of Saturday’s meeting",
-    "img": "https://th-i.thgim.com/public/incoming/dv4us5/article71180108.ece/alternates/LANDSCAPE_1200/PTI03_01_2025_000042B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/amit-shah-to-review-manipur-security-situation-tomorrow-cm-likely-to-visit-churachandpur-a-first-since-2023-violence/article71179829.ece",
-    "time": "2026-07-03T16:57:21.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Criminal trespassers': TMC vows court battle as rival faction captures party HQ",
     "desc": "The Trinamool Congress (TMC) has accused a rival faction led by expelled MLA Ritabrata Banerjee of illegally seizing its Kolkata headquarters, labeling them 'criminal trespassers' and vowing legal action. The party claims police allowed the rebels to lock the premises, alleging a conspiracy with the BJP. This follows the rebel group's move to stake claim over the TMC's name and symbol with the Election Commission.",
     "img": "https://static.toiimg.com/photo/msid-132166768,imgsize-145172.cms",
@@ -162,15 +306,6 @@ const newsData_en = [
     "time": "2026-07-03T15:21:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "WMO warns rapid development of El Nino during July-Sept; government reviews the situation of rainfall deficit",
-    "desc": "El Niño's rapid development threatens India with heatwaves and drought, exacerbating a 40% rainfall deficit in June that slashed Kharif crop sowing by 23%. The government is monitoring the situation, advising farmers on water-efficient crops and ensuring food grain availability. Meanwhile, flood-affected Northeast states will receive central teams to assess damage.",
-    "img": "https://static.toiimg.com/photo/msid-132165349,imgsize-1743728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/wmo-warns-rapid-development-of-el-nino-during-july-sept-government-reviews-the-situation-of-rainfall-deficit/articleshow/132165324.cms",
-    "time": "2026-07-03T15:20:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Yash cheers Huma Qureshi’s ‘Baby Do Die Do’",
     "desc": "Huma Qureshi's new film 'Baby Do Die Do' is out today, facing competition from 'Alpha'. Kannada star Yash lauded Qureshi for her dual role as actor and producer, highlighting the challenges of the latter. He praised her courage in bringing 'Baby Do Die Do' to life. The film, a Mumbai underworld crime thriller, features Qureshi as a deaf and mute assassin. She also stars in the upcoming gangstar drama 'Toxic'.",
@@ -178,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-cheers-for-toxic-co-star-huma-qureshis-baby-do-die-do-proud-doesnt-even-cover-it/articleshow/132164659.cms",
     "time": "2026-07-03T15:08:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Badrinath-Kedarnath Temple Committee orders inquiry after claims of donation theft",
-    "desc": "Allegations of misappropriated donations at Badrinath Dham have prompted an inquiry by the Shri Badrinath-Kedarnath Temple Committee. Chairman Hemant Dwivedi confirmed an investigation is underway, with explanations sought from staff. Strict action will follow if guilt is established. This follows similar scrutiny at the Ayodhya temple, where financial irregularities are being probed.",
-    "img": "https://static.toiimg.com/photo/msid-132164515,imgsize-258219.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/badrinath-kedarnath-temple-committee-orders-inquiry-after-claims-of-donation-theft/articleshow/132164153.cms",
-    "time": "2026-07-03T15:03:54.000Z"
   },
   {
     "cat": "Business",
@@ -216,15 +342,6 @@ const newsData_en = [
     "time": "2026-07-03T14:33:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ritabrata faction takes control of party HQ as rebellion intensifies",
-    "desc": "A significant power struggle has erupted within the Trinamool Congress as a rebel faction, led by Ritabrata Banerjee, seized control of the party's Kolkata headquarters. This move follows their appeal to the Election Commission to claim the party's name and symbol. The faction asserts its legitimacy amidst ongoing disputes with the Mamata Banerjee-led camp, escalating the internal conflict over organisational leadership.",
-    "img": "https://static.toiimg.com/photo/msid-132163789,imgsize-1502777.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-vs-tmc-ritabrata-faction-takes-control-of-party-hq-as-rebellion-intensifies/articleshow/132163755.cms",
-    "time": "2026-07-03T14:21:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India sets $1 trillion export goal for FY26 as merchandise, services trade rise",
     "desc": "India aims for a monumental $1 trillion in exports this fiscal year, a goal enthusiastically embraced by industry and policymakers. Union Minister Piyush Goyal confirmed the ambitious target, highlighting strong growth in both merchandise and services sectors. Recent free trade agreements and a seven-point action plan are set to bolster this drive, with a significant push in defence exports also noted.",
@@ -241,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-dances-at-a-family-wedding-carries-the-groom-in-viral-pics-looks-dapper-in-a-green-kurta-watch-video/articleshow/132163457.cms",
     "time": "2026-07-03T13:55:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi to begin three-nation tour to Indonesia, New Zealand and Australia from July 6",
-    "desc": "Prime Minister Narendra Modi is set for a significant three-nation tour of Indonesia, Australia, and New Zealand from July 6-11. This visit aims to bolster India's ties with these nations. Notably, his trip to New Zealand marks the first by an Indian Prime Minister in nearly four decades, highlighting the growing importance of the recently signed Free Trade Agreement between the two countries.",
-    "img": "https://static.toiimg.com/photo/msid-132163459,imgsize-73091.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-begin-three-nation-tour-to-indonesia-new-zealand-and-australia-from-july-6/articleshow/132163283.cms",
-    "time": "2026-07-03T13:53:45.000Z"
   },
   {
     "cat": "Sports",
@@ -313,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/englands-playing-xi-vs-india-in-2nd-t20i-jofra-archer-in-england-make-two-big-changes/articleshow/132162545.cms",
     "time": "2026-07-03T12:57:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India-Japan ties should not target third party: China",
-    "desc": "India and Japan also expressed \"serious concern\" at the situation in the East China Sea and South China Sea, and opposed unilateral actions that endanger freedom of navigation as well as attempts to change the status quo by force",
-    "img": "https://th-i.thgim.com/public/incoming/qbwsv9/article71178547.ece/alternates/LANDSCAPE_1200/PTI07_03_2026_000007A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/india-japan-ties-should-not-target-third-party-china/article71178490.ece",
-    "time": "2026-07-03T12:51:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -531,15 +630,6 @@ const newsData_en = [
     "time": "2026-07-03T09:37:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Dhoni sir is very similar': Deepti compares India's legend to Djokovic",
-    "desc": "Deepti Sharma compared MS Dhoni to Novak Djokovic, saying both legends share an exceptional ability to remain calm under pressure. Attending The Championships, Wimbledon for the first time, Deepti called it a dream come true, named Djokovic her favourite tennis player, and said she would love to watch tennis alongside Sachin Tendulkar, Ravi Shastri and Sunil Gavaskar.",
-    "img": "https://static.toiimg.com/photo/msid-132157736,imgsize-104214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhoni-sir-is-very-similar-deepti-sharma-compares-indias-legend-to-novak-djokovic/articleshow/132157559.cms",
-    "time": "2026-07-03T09:33:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Alpha' Twitter Review: Ntizens applaud Alia Bhatt, Sharvari, Bobby Deol",
     "desc": "Alia Bhatt and Sharvari's spy thriller 'Alpha' has hit theatres, sparking enthusiastic reactions online. Praised for its fresh narrative, high-octane action, and strong performances from Bhatt and Bobby Deol, the film is seen as a significant entry in the YRF Spy Universe. Early box office predictions are positive, with expectations of a strong opening weekend, despite releasing alongside another film.",
@@ -547,24 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alpha-twitter-review-netizens-applaud-alia-bhatt-sharvari-and-bobby-deol-call-it-fresh-addition-to-the-spy-universe/articleshow/132157519.cms",
     "time": "2026-07-03T09:32:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mahesh on how fame has a price and protecting Alia from trolling",
-    "desc": "Mahesh Bhatt opened up about not shielding his children, especially Alia Bhatt, from trolling, calling fame an \"occupational hazard.\" He said he never advises them, believing life teaches best. Bhatt added that every generation faces a different world. Meanwhile, Alia's film Alpha, also starring Sharvari, Anil Kapoor and Bobby Deol, released today.",
-    "img": "https://static.toiimg.com/photo/msid-132157587,imgsize-204554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-bhatt-opens-up-on-how-fame-has-a-price-and-protecting-alia-bhatt-from-online-trolling-if-you-stand-in-the-sun-you-will-get-sunburnt/articleshow/132157587.cms",
-    "time": "2026-07-03T09:22:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Penélope Cruz says Bad Bunny made her \"cool\" to her kids again",
-    "desc": "Penélope Cruz has finally earned the coveted title of 'cool mom' thanks to a memorable encounter with global superstar Bad Bunny. The actress revealed on 'Hot Ones' that taking her children to his concert, and even joining him on stage in Puerto Rico, was the key to their approval. This unexpected parenting win came after she initially found his music mature for her kids.",
-    "img": "https://static.toiimg.com/photo/msid-132157144,imgsize-163444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/penlope-cruz-says-bad-bunny-finally-made-her-a-cool-mom-in-her-kids-eyes-after-concert-moment/articleshow/132156796.cms",
-    "time": "2026-07-03T09:18:56.000Z"
   },
   {
     "cat": "Business",
@@ -576,15 +648,6 @@ const newsData_en = [
     "time": "2026-07-03T09:00:42.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India's services sector growth falls to 17-month low as hiring stalls, demand weakens",
-    "desc": "India's services sector experienced a significant slowdown in June, reaching a 17-month low due to weakening domestic demand and subdued hiring. While export orders provided a bright spot, overall business activity moderated. This trend also impacted the broader private sector, with the composite PMI indicating slower growth. Despite the cooling, the sector remains in expansionary territory.",
-    "img": "https://static.toiimg.com/photo/msid-132156021,imgsize-1149278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-services-sector-growth-falls-to-17-month-low-as-hiring-stalls-demand-weakens-report/articleshow/132155519.cms",
-    "time": "2026-07-03T08:46:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We were fortunate': Martinez defends VAR review; Croatia coach laments 'bad refereeing'",
     "desc": "Portugal coach Roberto Martinez defended the VAR decisions in his side's dramatic 2-1 World Cup win over Croatia, insisting \"there were no bad decisions\" and backing the use of ball technology. Croatia boss Zlatko Dalic criticised the officiating as \"very bad refereeing\" but admitted his side had chances to win before Goncalo Ramos' stoppage-time winner.",
@@ -594,15 +657,6 @@ const newsData_en = [
     "time": "2026-07-03T07:25:00.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Govt orders removal of 3 apps being 'misused' in remotely disabling e-rickshaws",
-    "desc": "Authorities have removed two smartphone applications, including the Chinese BAT-BMS app, from app stores following reports of e-rickshaws being remotely disabled. These apps, designed for battery management, were allegedly exploited to disrupt vehicles by connecting to unsecured Bluetooth-enabled battery systems. The government is urging app stores to enhance scrutiny to prevent the availability of such potentially harmful applications.",
-    "img": "https://static.toiimg.com/photo/msid-132155216,imgsize-719889.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-removes-bat-bms-linked-apps-from-app-stores-after-e-rickshaw-remote-shutdown-reports/articleshow/132155150.cms",
-    "time": "2026-07-03T07:23:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'When will Sooryavanshi be unleashed?': De Villiers disagrees with India coach's approach",
     "desc": "Cricket circles are buzzing over teenage sensation Vaibhav Sooryavanshi's delayed India debut. While assistant coach Ryan ten Doeschate advocates for a gradual integration, former Proteas captain AB de Villiers argues the Ireland series was the perfect platform. Legends like Shastri and Vaughan also voiced similar sentiments, suggesting Sooryavanshi should have been given a chance to gain international experience against a less formidable opponent.",
@@ -610,24 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/when-will-vaibhav-sooryavanshi-be-unleashed-ab-de-villiers-disagrees-with-india-coachs-approach/articleshow/132154810.cms",
     "time": "2026-07-03T07:02:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sharp rebound! India’s crude inventory hits almost 1-year high; strong oil imports help replenish stocks depleted during US-Iran war",
-    "desc": "According to estimates from Kpler, a global real-time data and analytics provider, India's crude oil inventory stood at 104 million barrels at the end of June, up significantly from 90.5 million barrels at the end of April. With the closure of the Strait of Hormuz during the conflict threatening nearly 40% of India's crude oil imports, refiners moved quickly to source alternative supplies from global markets.",
-    "img": "https://static.toiimg.com/photo/msid-132154378,imgsize-689018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sharp-rebound-indias-crude-inventory-hits-almost-1-year-high-strong-oil-imports-help-replenish-stocks-depleted-during-us-iran-war/articleshow/132154074.cms",
-    "time": "2026-07-03T06:36:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Fuel-hit Russia bought gasoline produced by India’s Nayara Energy via traders: Report",
-    "desc": "Russia is reportedly sourcing gasoline from India via international traders to counter fuel shortages stemming from Ukrainian attacks on its infrastructure. Nayara Energy, with a significant stake held by Russian oil giant Rosneft, is identified as a key supplier. While Indian officials state no direct sales, they acknowledge indirect sourcing through trading firms. This development follows reports of substantial gasoline shipments from India to Russia.",
-    "img": "https://static.toiimg.com/photo/msid-132151849,imgsize-769924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nayara-energy-produced-gasoline-sold-to-russia-via-traders-amid-fuel-shortages-report/articleshow/132151308.cms",
-    "time": "2026-07-03T03:36:34.000Z"
   },
   {
     "cat": "Sports",
@@ -646,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/125-passengers-crew-hit-with-highly-contagious-stomach-virus-on-cruise-from-san-francisco/article71177122.ece",
     "time": "2026-07-03T01:47:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Carlsberg files IPO papers confidentially",
-    "desc": "Danish brewer Carlsberg has confidentially submitted draft IPO papers for its Indian operations to Sebi. While the timing and progress depend on regulatory approvals and market conditions, the offering is understood to be a secondary share sale. This move signals a potential boost to the IPO market, which is seeing increased activity with other major companies also preparing for listings.",
-    "img": "https://static.toiimg.com/photo/msid-132149982,imgsize-541054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/carlsberg-files-ipo-papers-confidentially/articleshow/132148134.cms",
-    "time": "2026-07-02T22:23:03.000Z"
   },
   {
     "cat": "Business",
@@ -727,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/main-vaapas-aaunga-how-audiences-tears-revived-the-fate-of-imtiaz-alis-film/article71169555.ece",
     "time": "2026-07-02T08:09:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "An adventorous ride from anonymity to amazing",
-    "desc": "History will regard Stokes as a great cricketer, with great being used in its purest and most unadulterated form. There are few sights in cricket of a recent vintage to match him on a cricket field",
-    "img": "https://th-i.thgim.com/public/incoming/zbv8xw/article71171524.ece/alternates/LANDSCAPE_1200/2026-06-28T173155Z_1550243927_UP1EM6S1B3G8S_RTRMADP_3_CRICKET-ENG-NZL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/an-adventorous-ride-from-anonymity-to-amazing/article71171399.ece",
-    "time": "2026-07-01T18:39:25.000Z"
   },
   {
     "cat": "Business",
