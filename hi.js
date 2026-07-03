@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jacob Bethell expected to open as England reveal squad for ODI series against India",
+    "desc": "The ECB (England and Wales Cricket Board) has come forward and revealed England’s ODI squad for the upcoming home series against the Indian team. It is worth noting that India and England are taking on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-expected-to-open-as-england-reveal-squad-for-india-series-2026-07-03-1047057",
+    "time": "2026-07-03T14:53:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England name playing XI for second T20I against India, Jofra Archer makes much-awaited comeback",
     "desc": "The stage is set for the second T20I of the ongoing five-game series between India and England. The two sides will meet at Old Trafford, Manchester, on July 4, and ahead of the game, the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/why-england-are-changing-their-preparations-before-fifa-world-cup-clash-against-mexico-2026-07-03-1046963",
     "time": "2026-07-02T22:19:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sciver-Brunt, Heather Knight script England’s comeback to beat South Africa, book place in T20 World Cup final",
-    "desc": "England defeated South Africa by 40 runs in the second semi-final at the Kennington Oval to cement their spot in the T20 World Cup 2026 final, where they will face arch-rivals Australia. Notably, the hosts had...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sciver-brunt-heather-knight-script-englands-comeback-to-beat-south-africa-book-place-in-t20-world-cup-final-2026-07-03-1046962",
-    "time": "2026-07-02T21:50:56.000Z"
   }
 ];

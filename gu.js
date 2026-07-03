@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "ફૂટવા જઈ રહ્યો છે AIનો ફુગ્ગો? શેરબજારને લઈને RBIએ આપી મોટી ચેતવણી",
+    "desc": "ભારતીય રિઝર્વ બેંકે AI શેરો અંગે એક મોટી ચેતવણી જાહેર કરી છે. તેમનું કહેવું છે કે વૈશ્વિક બજારમાં વ્યાપક તેજીને બદલે, ફક્ત AI અને સંબંધિત શેરોમાં વધારો જોવા મળ્યો છે, જેના કારણે મોટી અસ્થિરતા જોવા મળી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/crash-prediction-is-the-ai-bubble-about-to-burst-rbi-gives-a-big-warning-about-the-stock-market-483514 ",
+    "time": "2026-07-03T16:11:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સિયા ગોયલ કોડ વર્ડમાં ચેતન ચૌધરી સાથે કરતી હતી વાત, કેતન મર્ડર કેસમાં ચોંકાવનારો ખુલાસો",
+    "desc": "પુણેના કેતન મર્ડર કેસમાં નવો ખુલાસો થયો છે. પોલીસ તપાસમાં સામે આવ્યું છે કે, સિયા ગોયલ તેના પ્રેમી ચેતન ચૌધરી સાથે કોડ વર્ડમાં વાત કરતી હતી. હવે પોલીસ બન્નેને સામસામે બેસાડીને પૂછપરછ કરવા માંગે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/siya-goyal-used-to-talk-to-chetan-chaudhary-in-code-words-shocking-revelation-in-ketan-murder-case-483513 ",
+    "time": "2026-07-03T15:20:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ફોન, AC અને ફ્રિજ પર કેમ લખાયેલું હોય છે CE? જાણો આ બે અક્ષરોનો સાચો અર્થ અને ફાયદા",
+    "desc": "સ્માર્ટફોનથી લઈને ચાર્જર અને ડ્રોન સુધી, લગભગ દરેક ઇલેક્ટ્રોનિક ગેજેટ પાછળ બે નાના અક્ષરો CE લખેલા હોય છે. આ ચિહ્નનો અર્થ એ છે કે ઉત્પાદન યુરોપિયન યુનિયન (EU) ના કડક સલામતી અને પર્યાવરણીય નિયમોનું પાલન કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/why-is-ce-written-on-phones-acs-and-fridges-know-the-true-meaning-and-benefits-of-these-two-letters-483512 ",
+    "time": "2026-07-03T14:59:57.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "માત્ર 2 દિવસમાં ₹6,700નો ઉછાળો! હવે ક્યાં સુધી પહોંચશે સોનાનો ભાવ? જાણો એક્સપર્ટનું અનુમાન",
     "desc": "સોનાના ભાવમાં ચાલી રહેલો ઘટાડો સમાપ્ત થઈ ગયો છે. સોનાના ભાવ આજે ફરી વધ્યા છે. ઝડપી રિકવરી જોવા મળી રહી છે. સોનું, જે 4,000 ડોલરની નીચે ગબડ્યું હતું, તે આજે 4,177.65 ડોલર પ્રતિ ઔંસ પર પાછું આવ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -414,15 +441,6 @@ const newsData_gu = [
     "time": "2026-07-01T07:42:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોણ હતા ડો. બી સી રોય...જેમના સન્માનમાં ઉજવાય છે ડોક્ટર્સ ડે, ગાંધીજી સાથે હતું ગાઢ કનેક્શન",
-    "desc": "દેશભરમાં આજનો દિવસ નેશનલ ડોક્ટર્સ ડે તરીકે ઉજવાય છે. આ દિવસ જેમના સન્માનમાં ઉજવાય છે તે ડો. બી સી રોય વિશે પણ જાણવા જેવું છે. જેઓ મહાત્મા ગાંધીના િત્ર અને પર્સનલ ડોક્ટર હતા. જાણો તેમના વિશે થોડી અજાણી વાતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/national-doctors-day-2026-know-about-dr-b-c-roy-had-a-close-connection-with-mahatma-gandhi-483250 ",
-    "time": "2026-07-01T07:20:20.000Z"
-  },
-  {
     "cat": "World",
     "title": "અફઘાનિસ્તાનની પાકિસ્તાનમાં એરસ્ટ્રાઈક, અનેક ISIS ઠેકાણા તબાહ કરી નાખ્યા",
     "desc": "એક બાજુ જ્યાં મિડલ ઈસ્ટમાં ઈરાન અને અમેરિકા, ઈઝરાયેલ-લેબનોન, બીજી બાજુ રશિયા-યુક્રેન વચ્ચે તંગ સ્થિતિ જોવા મળી રહી છે ત્યાં ભારતની પાડોશમાં પણ પાકિસ્તાન અને અફઘાનિસ્તાન વચ્ચે તણાવ જોવા મળી રહ્યો છે. અફઘાનિસ્તાનની તાલિબાન સરકારે પાકિસ્તાનમાં ઘૂસીને એરસ્ટ્રાઈક કરી હોવાનો દાવો કર્યો છે.",
@@ -466,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/fact-check-pnb-sbi-and-canara-bank-merger-news-know-what-is-the-truth-483205 ",
     "time": "2026-06-30T14:48:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનાના ભાવમાં કડાકો, 18 વર્ષનો સૌથી મોટો ઘટાડો! 50,000 સસ્તું થયું સોનું, ખરીદવું કે હજુ ઘટશે કિંમત?",
-    "desc": "સોનાની કિંમતમાં સતત આવી રહેલા ઘટાડા બાદ વર્ષ 2008 પછીનો સૌથી મોટો માસિક ઘટાડો જોવા મળ્યો છે. સોનું સતત ચોથા મહિને સસ્તું થઈ રહ્યું છે. આવી સ્થિતિમાં સવાલ એ થાય છે કે, શું આ સોનું ખરીદવાનો યોગ્ય સમય છે કે હજુ ભાવ વધુ ઘટશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-rate-crash-biggest-monthly-drop-since-2008-gold-price-drops-by-50600-rupees-483204 ",
-    "time": "2026-06-30T14:35:46.000Z"
   },
   {
     "cat": "Tech",
@@ -675,15 +684,6 @@ const newsData_gu = [
     "time": "2026-06-25T07:34:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "સામંથા રુથ પ્રભુએ કંફર્મ કરી પહેલી પ્રેગ્નેન્સી, ડિસેમ્બર 2025 માં ડિરેક્ટર રાજ નિદિમોરુ સાથે કર્યા હતા લગ્ન",
-    "desc": "બોલીવુડ અને સાઉથ ફિલ્મ ઈંડસ્ટ્રીની લોકપ્રિય અભિનેત્રી સામંથા રુથ પ્રભુના કેટલાક ફોટો વાયરલ થયા પછી તે પ્રેગ્નેન્સીના કારણે ચર્ચામાં હતી. હવે અભિનેત્રીએ પ્રેગ્નેન્સીની વાતને કંફર્મ કરી દીધી છે. સામંથાએ કઈ રીતે આ ગુડ ન્યુઝ શેર કરી ચાલો તમને પણ જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/maa-inti-bangaram-movie-fame-actress-samantha-ruth-prabhu-confirm-her-first-pregnancy-know-what-she-said-482609 ",
-    "time": "2026-06-25T06:42:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "વેનેઝુએલામાં ડબલ ભૂકંપે વેર્યો ભયંકર વિનાશ, આ 5 Video જોઈને હચમચી જશો, જાપાનમાં પણ ધરા ધ્રુજી",
     "desc": "ઉપરાછાપરી આવેલા શક્તિશાળી ભૂકંપના આંચકાઓએ વેનેઝુએલાને ભીષણ તબાહીમાં ધકેલ્યું છે. USGSનો તો દાવો છે કે આશરે 10 હજાર લોકોના મોતની આશંકા છે. ભૂકંપના જે વીડિયો સામે આવી રહ્યા છે, સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યા છે તે જોઈને હચમચી જશો. જાપાનમાં પણ ભૂંકપનો શક્તિશાળી આંચકો અનુભવાયો છે.",
@@ -709,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/why-are-tata-cng-cars-behind-maruti-in-mileage-know-the-real-reason-482524 ",
     "time": "2026-06-24T08:45:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ઇતિહાસમાં પહેલીવાર એક ગુજરાતી બન્યા WhatsAppના CEO, 8512 કરોડ રૂપિયાની ભારે ભરખમ ડીલ મળી!",
-    "desc": "મેટાએ ભારતીય ફિનટેક સ્ટાર્ટઅપ ક્રેડ (CRED)માં આશરે 8,550 કરોડ રૂપિયાનું રોકાણ કર્યું છે. આ ડીલ અંતર્ગત સ્ટાર્ટઅપના ફાઉન્ડર મૂળ ગુજરાતી અને જાણીતા ઉદ્યોગસાહસિક કુણાલ શાહ વોટ્સએપના ગ્લોબલ સીઈઓ (WhatsApp CEO Kunal Shah) બનશે, જ્યારે વર્તમાન પ્રમુખ વિલ કૈથકાર્ટ મેટામાં નવી જવાબદારી સંભાળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/gujarat/gujarati-founder-kunal-shah-appointed-whatsapp-ceo-after-metas-900-million-investment-in-cred-482382 ",
-    "time": "2026-06-23T03:33:40.000Z"
   }
 ];
