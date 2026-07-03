@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "Aamir Khan એ કંફર્મ કર્યા ત્રીજા લગ્ન, કહ્યું 5 તારીખે Gauri Spratt સાથે ઘરમાં કરશે લગ્ન, લોકો પાસે માંગ્યા આશીર્વાદ",
+    "desc": "બોલીવુડ એક્ટર આમિર ખાન તેની ગર્લફ્રેન્ડ ગૌરી સ્પ્રેટ સાથે લગ્ન કરશે તે વાતની ચર્ચા ઘણા સમયથી ચાલી રહી છે પણ હવે આ વાત ખુદ આમિર ખાને કંફર્મ કરી દીધી છે કે તે 5 જુલાઈએ ગૌરી સાથે લગ્ન કરવા જઈ રહ્યો છે. ત્રીજા લગ્ન માટે આમિર ખાને શું જાણો વિગતવાર.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-confirm-third-wedding-with-gauri-spratt-on-5-july-at-home-here-is-what-aamir-said-for-marriage-483422 ",
+    "time": "2026-07-03T02:25:20.000Z"
+  },
+  {
     "cat": "Business",
     "title": "8મા પગાર પંચમાં સરકારી કર્મચારીઓની લાગશે લોટરી! HRA, DA અને TPTAમાં બદલાવથી 65% સુધી વધશે સેલરી?",
     "desc": "8મા પગાર પંચને લઈને કેન્દ્રીય કર્મચારી સંગઠનોએ HRA, TPTA, DA મર્જ અને ફેમિલી યુનિટમાં મોટા બદલાવની માંગ કરી છે. જો 2.1 ફિટમેન્ટ ફેક્ટર, 36% HRA, 9000 રૂપિયા TPTA અને 5 ફેમિલી યુનિટ જેવા પ્રસ્તાવો લાગુ થાય છે, તો લેવલ-1 ના કર્મચારીઓની ગ્રોસ સેલરી લગભગ 65% સુધી વધીને 61,344 રૂપિયા થઈ શકે છે.",
@@ -691,15 +700,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/why-are-tata-cng-cars-behind-maruti-in-mileage-know-the-real-reason-482524 ",
     "time": "2026-06-24T08:45:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "TMKOC ફેમ &amp;#039;બાઘા&amp;#039; પર તૂટ્યો દુ:ખોનો પહાડ, પિતા અરવિંદ વેકરિયાએ દુનિયાને કર્યું અલવિદા",
-    "desc": "ગુજરાતી રંગભૂમિના જાણીતા કલાકાર અને તારક મહેતા...સીરિયલમાં બાઘાનું પાત્ર ભજવનારા તન્મય વેકરિયાના પિતા અરવિંદ વેકરિયાનું નિધન થતા મનોરંજન જગતમાં શોકની લહેર ફરીવળી છે. આગવી અભિનય શૈલીથી તેઓ ખુબ જાણીતા હતા અને બહોળો ચાહકવર્ગ ધરાવતા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tmkoc-fame-bagha-aka-tanmay-vekaria-father-arvind-vekaria-passes-away-482521 ",
-    "time": "2026-06-24T08:34:56.000Z"
   },
   {
     "cat": "Tech",

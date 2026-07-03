@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gonzalo Ramos scores in injury time as Portugal beat Croatia 2-1 after dramatic final minutes",
+    "desc": "Portugal advanced to the Round of 16 of the FIFA World Cup 2026 after a dramatic 2–1 victory over Croatia in their Round of 32 clash at Toronto Stadium. They were trailing in the match...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/gonzalo-ramos-scores-in-injury-time-as-portugal-beat-croatia-2-1-after-dramatic-final-minutes-2026-07-03-1046967",
+    "time": "2026-07-03T01:26:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo's journey continues, Portugal beat Croatia 2-1",
+    "desc": "Portugal face Croatia in the FIFA World Cup 2026 Round of 32 on Friday morning, with a place in the last 16 against Spain at stake after Luis de la Fuente's side eliminated Austria earlier...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/por-vs-cro-fifa-world-cup-live-portugal-vs-croatia-score-tactical-analysis-minute-by-minute-commentary-highlights-cristiano-ronaldo-luka-modric-1046964",
+    "time": "2026-07-02T22:37:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why England are changing their preparations before FIFA World Cup clash against Mexico?",
+    "desc": "England have altered their preparations ahead of Sunday's FIFA World Cup Round of 16 meeting with Mexico. The Thomas Tuchel side introduced additional measures to protect player recovery before arriving in Mexico City for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-england-are-changing-their-preparations-before-fifa-world-cup-clash-against-mexico-2026-07-03-1046963",
+    "time": "2026-07-02T22:19:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sciver-Brunt, Heather Knight script England’s comeback to beat South Africa, book place in T20 World Cup final",
     "desc": "England defeated South Africa by 40 runs in the second semi-final at the Kennington Oval to cement their spot in the T20 World Cup 2026 final, where they will face arch-rivals Australia. Notably, the hosts had...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/spain-look-for-maiden-world-cup-knockout-win-since-2010-portugal-to-face-litmus-test-in-path-to-glory-2026-07-02-1046949",
     "time": "2026-07-02T15:35:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin reacts to his new mentor-cum captain role at Dublin Guardians in ETPL",
-    "desc": "Ravichandran Ashwin gears up for his dual role as a captain and mentor for the Dublin Guardians in ETPL, calling it a “crossover into what he would like to do next”, and feels that the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-reacts-to-his-new-mentor-cum-captain-role-at-dublin-guardians-in-etpl-2026-07-02-1046947",
-    "time": "2026-07-02T15:01:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin casts doubt on future of ODIs, predicts T20s are \"here to stay\"",
-    "desc": "India legend and off-spinner Ravichandran Ashwin cast doubts over the future of ODI cricket and predicted that T20Is are the format for cricket to become a global phenomenon. The statement came as the cricket legend...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-casts-doubt-on-future-of-odis-predicts-t20s-are-here-to-stay-2026-07-02-1046936",
-    "time": "2026-07-02T13:54:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ellyse Perry to play in Women's T20 World Cup final despite injury? Coach drops major hint",
-    "desc": "Australia star all-rounder Ellyse Perry is likely to play the Women's T20 World Cup final even if she is not fully fit, head coach Shelley Nitschke hinted at while speaking to reporters on Thursday. Perry...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-to-play-in-womens-t20-world-cup-final-despite-injury-coach-drops-major-hint-2026-07-02-1046925",
-    "time": "2026-07-02T12:25:45.000Z"
   }
 ];
