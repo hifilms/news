@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Gonzalo Ramos scores in injury time as Portugal beat Croatia 2-1 after dramatic final minutes",
+    "title": "'Dhoni sir is very similar': Deepti Sharma draws comparison between Novak Djokovic and former India skipper",
+    "desc": "Wimbledon 2026 is in full swing, and some of the best tennis players in the world are taking on each other in the hope of getting their hands on the marquee title. Star India women’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dhoni-sir-is-very-similar-deepti-sharma-draws-comparison-between-novak-djokovic-and-former-india-skipper-2026-07-03-1047027",
+    "time": "2026-07-03T11:24:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What did Cristiano Ronaldo say to Luka Modric after Portugal's thrilling win over Croatia? Skipper reveals",
+    "desc": "Croatia crashed out of the ongoing FIFA World Cup 2026 after a thrilling clash against Portugal. The two sides met in the round of 32 of the competition at the Toronto Stadium on July 3rd,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/what-did-cristiano-ronaldo-say-to-luka-modric-after-portugal-s-thrilling-win-over-croatia-skipper-reveals-2026-07-03-1047019",
+    "time": "2026-07-03T10:14:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Julian Nagelsmann set to step down as Germany's head coach, replacement lined up after horrid WC",
+    "desc": "In a major development, after a horrid campaign in the ongoing FIFA World Cup 2026, Germany is looking for a major overhaul. One of the biggest changes after the side’s elimination comes as head coach...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/julian-nagelsmann-set-to-step-down-as-germany-s-head-coach-replacement-lined-up-after-horrid-wc-2026-07-03-1047006",
+    "time": "2026-07-03T08:35:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo in tears as Portugal pays tribute to Diogo Jota after Croatia clash",
+    "desc": "Portugal put forth a good showing in the round of 32 of the FIFA World Cup 2026! The side took on Croatia in the crucial clash at the Toronto Stadium on July 3rd, and after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-in-tears-as-portugal-pays-tribute-to-diogo-jota-after-croatia-clash-watch-2026-07-03-1046995",
+    "time": "2026-07-03T07:20:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Goncalo Ramos scores in injury time as Portugal beat Croatia 2-1 after dramatic final minutes",
     "desc": "Portugal advanced to the Round of 16 of the FIFA World Cup 2026 after a dramatic 2–1 victory over Croatia in their Round of 32 clash at Toronto Stadium. They were trailing in the match...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/why-is-nico-williams-not-playing-spain-vs-austria-clash-in-fifa-world-cup-2026-2026-07-03-1046960",
     "time": "2026-07-02T19:06:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain beat Austria 3-0, after brace from Oyarzabal and goal from Porro",
-    "desc": "Spain and Austria meet in the FIFA World Cup 2026 Round of 32 at the Los Angeles Stadium in Inglewood. It’s a knockout clash defined by contrast as Spain’s possession-heavy control plays against an Austrian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/esp-vs-aut-fifa-world-cup-2026-live-spain-vs-austria-latest-match-updates-score-playing-xis-highlights-score-lamine-yamal-dani-olmo-1046958",
-    "time": "2026-07-02T18:34:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitahli Raj explains reason behind turning down opportunity to play in inaugural WPL",
-    "desc": "Former India captain Mithali Raj explained the reason behind turning down the opportunity to play in the Women’s Premier League. She cited that the off-field responsibilities in the sport attracted her more than lacing up...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitahli-raj-explains-reason-behind-turning-down-opportunity-to-play-in-inaugural-wpl-2026-07-02-1046955",
-    "time": "2026-07-02T17:21:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India-born Jai Moondra, Player of the Series in Ireland's historic 2-0 win, picked in ETPL draft",
-    "desc": "Rajasthan-born Jai Moondra, who was recently named the Player of the Series in Ireland's historic 2-0 T20I series win over India, has been picked by Rotterdam Dockers for the European T20 Premier League (ETPL) in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-born-jai-moondra-player-of-the-series-in-irelands-historic-2-0-win-picked-in-etpl-draft-2026-07-02-1046950",
-    "time": "2026-07-02T15:56:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain look for maiden World Cup knockout win since 2010; Portugal to face litmus test in path to glory",
-    "desc": "Luis De La Fuente's Spanish team is all set to battle it out for their first World Cup knockout win since 2010 as they gear up to face Austria in the round of 32 at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/spain-look-for-maiden-world-cup-knockout-win-since-2010-portugal-to-face-litmus-test-in-path-to-glory-2026-07-02-1046949",
-    "time": "2026-07-02T15:35:53.000Z"
   }
 ];

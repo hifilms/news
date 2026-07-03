@@ -1,12 +1,102 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "દેશમાં પ્રથમ અને છેલ્લીવાર આ મહિલાને આપવામાં આવી હતી ફાંસી, હવે સિયા-સોનમ-મુસ્કાનને મોતની સજા આપવાની માગ",
+    "desc": "સિયા ગોયલ, સોનમ રઘુવંશી અને મુસ્કાન રસ્તોગીને ફાંસીની સજા આપવાની માંગ પીડિતોએ કરી છે. પરંતુ દેશમાં અત્યાર સુધી એકવાર જ કોઈ મહિલાને ફાંસીની સજા આપવામાં આવી છે. તો આશરે 21 મહિલાઓને વર્તમાનમાં ફાંસીની સજા મળી છે, પરંતુ હજુ સુધી તેને ફાંસીની સજા આપવામાં આવી નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/rattan-bai-jain-the-first-and-last-woman-executed-in-india-as-demands-rise-for-siya-sonams-hanging-483475 ",
+    "time": "2026-07-03T10:20:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "PUC એક્સપાયર થયા પછી કેટલા દિવસ સુધી ગાડી ચલાવી શકાય? જાણી લો સાચો નિયમ, નહીં તો થશે મોટો દંડ!",
+    "desc": "જો તમારી કાર કે બાઇકનું PUC સર્ટિફિકેટ સમાપ્ત થવાનું છે, તો આ સમાચાર તમારા માટે ખૂબ જ મહત્વપૂર્ણ છે. શું PUC પુરૂ થયા પછી કોઈ ગ્રેસ પીરિયડ છે? જરૂરી PUC વગર વાહન ચલાવવા માટે કેટલો દંડ છે? આ ઉપરાંત, PUCC 3.0 હેઠળ સરકાર જે નવા નિયમો પર વિચાર કરી રહી છે તે વિશે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/how-many-days-can-you-drive-after-puc-expires-know-the-correct-rule-otherwise-you-will-face-a-huge-fine-483474 ",
+    "time": "2026-07-03T10:17:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હાઈ લા! દુલ્હેરાજાને ભારે પડ્યો નાગિન ડાન્સ! દુલ્હને લગ્ન કરવાની ઘસીને ના પાડી દીધી",
+    "desc": "એક લગ્ન એટલા માટે કેન્સલ થઈ ગયા કારણ કે દુલ્હેરાજા નાગિન ડાન્સ કરતા હતા અને દુલ્હનને તે ગમ્યું નહીં એવો આરોપ લાગ્યો છે. આખરે એવું તે શું થયું અને કેમ આવી સ્થિતિ ઊભી થઈ તે વિગતવાર જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bride-refused-to-marry-because-of-drunk-groom-nagin-dance-483472 ",
+    "time": "2026-07-03T10:15:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સપનું બનશે સોનાની ખરીદી! ભાવમાં બંપર વધારો, ચાંદી પણ જોરદાર ઉછળી, જાણો કેરેટ પ્રમાણે આજનો ભાવ",
+    "desc": "સોના અને ચાંદીમાં આજે પણ ભારે ઉછાળો જોવા મળ્યો છે. વૈશ્વિક બજારની સાથે સાથે ઘરેલુ બજારોમાં પણ સોનું અને ચાંદી મોંઘા થયા છે. જો તમે પણ ખરીદવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-price-increse-drastically-check-mcx-ibja-latest-rates-aaj-no-sona-no-bhav-483468 ",
+    "time": "2026-07-03T09:35:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારતની 3700000 જિંદગીઓ પર મંડરાયું &amp;#039;મહાસંકટ&amp;#039;: ભૂકંપથી દલદલ બની શકે છે જમીન, સામે આવ્યો ચોંકાવનારો રિપોર્ટ",
+    "desc": "ભારતના 37 લાખ લોકોના જીવન પર એક મોટું સંકટ તોળાઈ રહ્યું છે, એવો દાવો વૈજ્ઞાનિકોએ કર્યો છે. એક ડિજિટલ મેપ અને રિપોર્ટ જાહેર કરવામાં આવ્યો છે, જે મુજબ જો ભૂકંપ આવે તો ઉત્તર પ્રદેશના ધાર્મિક શહેર વારાણસીની જમીન દલદલમાં ફેરવાઈ શકે છે. ભૂકંપ વિજ્ઞાન કેન્દ્ર (National Center for Seismology) ના આ રિપોર્ટનો ખુલાસો ખૂબ જ ડરામણો અને ચોંકાવનારો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mega-earthquake-warning-3700000-risk-of-earth-could-turn-into-quagmire-kashi-soil-liquefaction-shoccking-report-483464 ",
+    "time": "2026-07-03T09:10:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેતન અગ્રવાલ હત્યાકાંડ: ત્રીજો વ્યક્તિ કોણ? જેને સિયા અને ચેતનના લોહગઢ કિલ્લાવાળા પ્લાનિંગ વિશે બધી ખબર હતી",
+    "desc": "કેતન અગ્રવાલ હત્યાકાંડની તપાસ દરમિયાન રોજ નીત નવા ચોંકાવનારા ખુલાસા થઈ રહ્યા છે. હવે એક ત્રીજા વ્યક્તિનું નામ ખુલ્યું છે. જેને સિયા અને ચેતન બંને ઓળખે છે અને એવો દાવો છે કે આ વ્યક્તિને ષડયંત્ર વિશે બધી ખબર હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-case-big-update-apart-from-sia-and-chetan-who-was-third-person-probably-knew-everything-483463 ",
+    "time": "2026-07-03T08:31:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "18 જૂને જ કેમ કરાઈ હત્યા! કેતનની હત્યા જ ચેતનની સિયા માટે બર્થ ડે ગિફ્ટ હતી, જાણી લો મોટો થયો ખુલાસો",
+    "desc": "કેતનની હત્યાના પ્રકરણમાં રોજ નવા ખુલાસા થઈ રહ્યાં છે. આજે સિયાએ મિડલ ફિંગર દેખાડી પોતાને કોઈ પસ્તાવો ન હોવાનો પૂરવાર કરી ચૂકી છે. તમને ખબર નહીં હોય પણ 19 જૂને સિયાનો બર્થ ડે હતો. આ માટે ભવ્ય પાર્ટી હતી પણ સિયાએ એ પાર્ટી કરતાં એની હત્યામાં રસ હતો અને તેને પ્રેમી ચેતન પાસે બર્થ ડે ગીફ્ટમાં કેતનનું મોત માગ્યું હોય એમ 18 જૂને એટલે કે બર્થ ડેના એક દિવસ પહેલાં જ એની હત્યા કરી દીધી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/murder-done-on-june-18th-ketans-murder-was-chetans-birthday-gift-for-siya-new-big-update-483461 ",
+    "time": "2026-07-03T07:59:11.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "પોલીસ કસ્ટડીમાં હતી છતાં સિયા ગોયલની આવી શરમજનક કરતૂત? Video આગની જેમ વાયરલ",
     "desc": "ફેબ્રુઆરીમાં જેની સાથે સગાઈ થઈ તેની જ 3 મહિના પછી 18 જૂનના રોજ લોહગઢ કિલ્લા પરથી ખીણમાં ધક્કો મારીને મોત નિપજાવનારી આરોપી મંગેતર સિયા ગોયલની એક શરમજનક હરકતનો વીડિયો હાલ સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-case-update-siya-goyal-showing-middle-finger-video-gone-viral-483445 ",
-    "time": "2026-07-03T05:43:06.000Z"
+    "time": "2026-07-03T07:57:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આલિયા ભટ્ટની ફિલ્મ આલ્ફાની ટિકિટ ખરીદવાનો ખર્ચો કરતાં પહેલા જાણો ફિલ્મ જોવા જેવી છે કે નહીં ?",
+    "desc": "આલિયા ભટ્ટની મચઅવેટેડ ફિલ્મ આલ્ફા આજે થિયેટરમાં રિલીઝ થઈ ચુકી છે. આ ફિલ્મને લઈને સોશિયલ મીડિયા પર ભારે બઝ ક્રિએટ કરવામાં આવ્યો હતો. ફિલ્મ રિલીઝ થયાની સાથે ફિલ્મને લઈને લોકોના અને ક્રિટીક્સના રિએકશન સામે આવવા લાગ્યા છે. તો ચાલો તમને પણ જણાવીએ આલ્ફા ફિલ્મ કેવી છે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/alpha-movie-review-is-alia-bhatt-spy-thriller-film-alpha-kaisi-hai-jane-483460 ",
+    "time": "2026-07-03T07:50:27.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ઈ-રિક્ષા ચાલકો માટે રાહતના સમાચાર: અકસ્માતનો ભય ઉભી કરતી ચાઈનીઝ &amp;#039;BAT BMS&amp;#039; એપ પર સરકારે લીધું મોટું એક્શન",
+    "desc": "BAT BMS App દ્વારા કેટલાક લોકો મોજ-મસ્તી કરવા માટે ઈ રિક્ષા ચાલકોને પરેશાન કરવા માટે રસ્તામાં રિક્ષા રોકી દેતા હતા. જેનાથી અકસ્માતનો ભય ઉભો થયો હતો. હવે સરકારે કાર્યવાહી કરતા આ એપ પર પ્રતિબંધ લગાવી દીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/bat-bms-app-ban-govt-intervenes-after-viral-videos-show-e-rickshaws-being-halted-remotely-483454 ",
+    "time": "2026-07-03T07:10:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટેરિફ તો ખરું...પરંતુ ટ્રમ્પ પોતે પણ ભારતમાંથી મેળવી રહ્યા છે લખલૂટ આવક, એક જ વર્ષમાં કરી બંપર કમાણી",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ટેરિફ દ્વારા તો ભારત પાસેથી અમેરિકાને સારી એવી કમાણી કરાવી છે પરંતુ આ સાથે સાથે તેઓ પોતે પણ ભારતમાંથી મબલક કમાણી કરી રહ્યા છે. ફક્ત લાઈસન્સિંગથી જ તેમણે જંગી આવક મેળવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-income-from-india-year-2025-483452 ",
+    "time": "2026-07-03T06:50:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -279,15 +369,6 @@ const newsData_gu = [
     "time": "2026-07-01T10:07:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બદલાઈ ગયો પ્રથમ T20નો સમય... 7 નહીં, હવે આટલા વાગ્યે થશે શરૂ, જાણો ક્યાં જોઈ શકશો લાઈવ",
-    "desc": "ભારત અને ઇંગ્લેન્ડ વચ્ચેની પહેલી T20 મેચ ચેસ્ટર-લે-સ્ટ્રીટ ખાતે રમાશે. સમય ઝોનના તફાવતને કારણે ભારતમાં મેચ મોડી શરૂ થશે. ત્યારે આ લેખમાં જાણીશું કે, મેચ કેટલા વાગ્યે શરૂ થશે અને તમે આ મેચ ક્યાં લાઈવ જોઈ શકશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/england-vs-india-1st-t20-match-timing-know-where-to-watch-live-streaming-483281 ",
-    "time": "2026-07-01T09:47:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સુનિતા આહુજાએ Lock Up 2માં ગોવિંદાના અફેર અંગે કહી દીધું, &amp;quot;પહેલાથી જ ચાલે છે, હીરો છે તેને રોકી ન શકાય...&amp;quot;",
     "desc": "આ વખતના રિયાલિટી શો લોક અપને જોતા એવું લાગે છે કે આ શો બિગ બોસના રેકોર્ડ તોડી નાખશે. રિયાલીટી શોની શરુઆતથી જ દર્શકોને મસાલેદાર ગોસિપ મળી રહ્યું છે. તાજેતરમાં જ સુનિતા આહુજાએ ગોવિંદાના અફેર અંગે પણ ધડાકો કરી દીધો છે.",
@@ -331,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/afghanistan-launched-airstrikes-in-pakistan-isis-bases-taliban-claim-483243 ",
     "time": "2026-07-01T07:12:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દેશભરમાં આજથી મનરેગા બંધ, તેની જગ્યાએ  VB G-RAM-G યોજના લાગૂ, જાણો કેટલી મળશે દૈનિક મજૂરી",
-    "desc": "આજથી દેશભરમાં મનરેગા યોજના હેઠળ હવે રોજગારી નહીં મળે કારણ કે આ યોજના બંધ થઈ ગઈ અને હવે તેની જગ્યા VB G-RAM-G એ લઈ લીધી છે. આ યોજના આજથી લાગૂ થઈ ગઈ છે. જે હેઠળ દૈનિક મજૂરીમાં પણ સારો એવો વધારો કરાયો છે. વધુ વિગતો ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/modi-govt-big-move-vb-g-ram-g-replaces-mgnrega-check-more-details-regarding-wage-483245 ",
-    "time": "2026-07-01T05:58:23.000Z"
   },
   {
     "cat": "Business",
@@ -396,15 +468,6 @@ const newsData_gu = [
     "time": "2026-06-30T14:13:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સવારની ચા થશે મોંઘી, થાળીમાંથી ગાયબ થશે દાળ-શાકભાજી! &amp;#039;અલ-નીનો&amp;#039; વધારશે સામાન્ય માણસનું ટેન્શન, જાણો શું-શું મોંઘુ થશે?",
-    "desc": "પેસિફિક મહાસાગરમાં સક્રિય 'સુપર અલ નીનો' એ ખેડૂતોનું ટેન્શન વધારી દીધું છે. ઘાસચારાની અછતને કારણે દૂધના ભાવમાં વધુ 3-4%નો વધારો થઈ શકે તો ઓછો વરસાદ કઠોળ, રસોઈ તેલ અને શાકભાજીના ભાવમાં વધારો કરીને ઘરના બજેટને રમણભમણ કરી નાખશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/el-ni%C3%B1o-impact-tea-may-get-costlier-as-food-prices-set-to-rise-amid-weak-monsoon-concerns-483184 ",
-    "time": "2026-06-30T10:31:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સરકારે અચાનક બદલ્યા પેટ્રોલ અને ડીઝલના નિયમ! 1 જુલાઈથી દેશભરમાં લાગુ થશે આ મોટો નિર્ણય",
     "desc": "કેન્દ્ર સરકારે 1 જુલાઈ, 2026થી વાણિજ્યિક ખરીદદારો માટે છૂટક પેટ્રોલ પંપ પરથી પેટ્રોલ અને ડીઝલની ખરીદી પરના તમામ કામચલાઉ પ્રતિબંધો હટાવી લીધા છે. દેશમાં પૂરતી ઇંધણ ઉપલબ્ધતા સુનિશ્ચિત કરવા માટે આ નિર્ણય મધ્ય પૂર્વ કટોકટી દરમિયાન લાગુ કરવામાં આવ્યો હતો.",
@@ -423,15 +486,6 @@ const newsData_gu = [
     "time": "2026-06-30T09:35:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "E20 પેટ્રોલથી જૂની ગાડીઓ બગડી જશે? વધતી ચિંતા વચ્ચે સુપ્રીમ કોર્ટમાં સરકારે આપ્યો આ જવાબ!",
-    "desc": "દેશમાં પેટ્રોલમાં 20 ટકા ઇથેનોલ મિશ્રણને લઈને લોકો સતત ચિંતામાં છે. વાહન માલિકોને તે વાતનો ડર છે કે પેટ્રોલમાં 20 ટકા ઇથેનોલ તેના વાહનને ખરાબ કરી શકે છે. આ વચ્ચે સુપ્રીમ કોર્ટમાં કેન્દ્ર સરકારે મહત્વનું નિવેદન આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/is-e20-petrol-harmful-for-older-cars-government-responds-in-supreme-court-over-ethanol-blending-experiment-483181 ",
-    "time": "2026-06-30T09:27:43.000Z"
-  },
-  {
     "cat": "World",
     "title": "ડબલ ભૂકંપના મરણતોલ ફટકાથી હચમચી ગયેલા વેનેઝુએલામાં ભારતનું &amp;#039;ઓપરેશન અમિસ્તાદ&amp;#039; ચર્ચામાં",
     "desc": "24 જૂનના રોજ દક્ષિણ અમેરિકી દેશ વેનેઝુએલામાં ઉપરાછાપરી આવેલા શક્તિશાળી ભૂકંપો બાદ સતત આફ્ટરશોક્સ પણ ચાલુ છે. ભૂકંપના આંચકાઓની હારમાળાએ વેનેઝુએલાને મરણતોલ ફટકા માર્યા છે અને ભારે તબાહી મચી ગઈ. અનેક દેશોની જેમ ભારતે પણ માનવીય મદદ હેઠળ રાહત સામગ્રી મોકલવાનો નિર્ણય કર્યો અને ઓપરેશન અમિસ્તાદ શરૂ કરી દીધું. ખાસ જાણો તેના વિશે.",
@@ -448,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/big-blow-to-telecom-companies-1-44-crore-users-ported-sim-in-just-31-days-know-which-2-states-are-on-top-483176 ",
     "time": "2026-06-30T08:40:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનું ગગડ્યું! 7 મહિનાના સૌથી નીચલા સ્તરે પહોંચ્યો ભાવ, ચાંદી 1.70 લાખ સુધી થઈ સસ્તી, જાણો 10 ગ્રામ ગોલ્ડનો નવો રેટ",
-    "desc": "સોનાના ભાવમાં ઘટાડો ચાલુ છે. સોનાના ભાવ 7 મહિનાના નીચલા સ્તરે પહોંચી ગયા છે. 30 જૂને સોનાના ભાવમાં ફરી ઘટાડો થયો છે અને ઘટાડો ચાલુ છે. ચાંદી 1.70 લાખ રૂપિયા સુધી સસ્તી થઈ ગઈ છે. 10 ગ્રામ સોનાનો ભાવ ચેક કરો. જ્યારનું યુદ્ધ ચાલુ થયુ ત્યારથી સોનાના ભાવમાં મોટો ઘટાડો અને વધારો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-plunges-price-reaches-7-month-low-silver-becomes-cheaper-by-rs-1-70-lakh-know-the-new-rate-483170 ",
-    "time": "2026-06-30T07:24:56.000Z"
   },
   {
     "cat": "Tech",
@@ -639,15 +684,6 @@ const newsData_gu = [
     "time": "2026-06-25T06:42:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "કપૂર ખાનદાનની લાડલી બનશે ગુજરાતી વહુ, પ્રી-વેડિંગ રસમમાં દુલ્હનની જેમ સજીને બોલી- &amp;#039;ખૂબ જ ભાવુક ક્ષણ હતી&amp;#039;",
-    "desc": "બોની કપૂરની દીકરી અંશુલા કપૂર ટૂંક સમયમાં જ રોહન ઠક્કર સાથે લગ્નગ્રંથિથી જોડાવા જઈ રહી છે. લગ્ન પહેલાં યોજાયેલી 'માતા કી ચૌકી' (માતાજીના જાગરણ)માં તેનો દુલ્હન જેવો લુક વાયરલ થઈ ગયો છે. ફુલકારી દુપટ્ટાથી સજ્જ અંશુલાએ આને પોતાના મૂળિયાં સાથે જોડાયેલી એક અત્યંત ભાવુક ક્ષણ ગણાવીોહતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/anshula-kapoor-to-become-gujarati-bahu-emotional-pre-wedding-look-boney-kapoor-daughter-482599 ",
-    "time": "2026-06-25T05:10:43.000Z"
-  },
-  {
     "cat": "World",
     "title": "વેનેઝુએલામાં ડબલ ભૂકંપે વેર્યો ભયંકર વિનાશ, આ 5 Video જોઈને હચમચી જશો, જાપાનમાં પણ ધરા ધ્રુજી",
     "desc": "ઉપરાછાપરી આવેલા શક્તિશાળી ભૂકંપના આંચકાઓએ વેનેઝુએલાને ભીષણ તબાહીમાં ધકેલ્યું છે. USGSનો તો દાવો છે કે આશરે 10 હજાર લોકોના મોતની આશંકા છે. ભૂકંપના જે વીડિયો સામે આવી રહ્યા છે, સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યા છે તે જોઈને હચમચી જશો. જાપાનમાં પણ ભૂંકપનો શક્તિશાળી આંચકો અનુભવાયો છે.",
@@ -657,15 +693,6 @@ const newsData_gu = [
     "time": "2026-06-25T05:02:21.000Z"
   },
   {
-    "cat": "World",
-    "title": "વેનેઝુએલામાં ભૂકંપ, પહેલા 7.1 અને પછી 7.5 ની તીવ્રતાના ભૂકંપથી સર્જાયો વિનાશ, 10000 લોકોના મોતની આશંકા",
-    "desc": "વેનેઝુએલામાં 7 થી વધુની તીવ્રતાના એક પછી એક 2 ભૂકંપના આંચકા નોંધાયા હતા. જેના કારણે અહીં ભારે વિનાશ સર્જાયો છે. ભૂકંપનું કેન્દ્ર વેનેઝુએલાના કૈરેબિયનના મોરોન નજીક નોંધાયું હતું. આ ભૂકંપના કારણે અહીં ભારે વિનાશ સર્જાયો છે. આ ભૂકંપમાં મૃત્યુઆંક 10000 થી વધુનો હોવાની આશંકા સેવાય રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/major-earthquake-noted-in-venezuela-2-earthquake-magnitude-more-than-7-cause-damage-482582 ",
-    "time": "2026-06-25T02:52:22.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "શું E20 પેટ્રોલથી કારને નુકસાન થાય તો વીમો મળશે? સરકારે આ 4 અફવાઓનો કર્યો ખુલાસો",
     "desc": "કેન્દ્ર સરકારે સ્પષ્ટ કર્યું છે કે E20 એટલે કે 20 ટકા ઇથેનોલ મિક્સ પેટ્રોલ વાહનો સંપૂર્ણ રીતે સુરક્ષિત છે અને તેના ઉપયોગથી મોટર વીમા ક્લેમ પર કોઈ અસર પડતી નથી. સોશિયલ મીડિયા પર ફેલાઈ રહેલી 4 અફવા વચ્ચે સરકારે જવાબ આપ્યો છે. તમારે પણ આ વિગતો જાણવી અતિ જરૂરી છે.",
@@ -673,15 +700,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/e20-fuel-completely-safe-no-impact-on-insurance-claims-government-dismisses-social-media-misinformation-482553 ",
     "time": "2026-06-24T12:30:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "&amp;#039;પરમાણુ યુદ્ધની અણી પર છે દુનિયા...&amp;#039; કિમ જોંગ ઉનની ભયાનક ચેતવણીએ અમેરિકામાં ખળભળાટ, સમુદ્રમાં ઉતાર્યું સૌથી ખતરનાક હથિયાર!",
-    "desc": "ઉત્તર કોરિયાના નેતા કિમ જોંગ ઉને વિશ્વને પરમાણુ યુદ્ધના ભય વિશે ચેતવણી આપી છે. તેમણે અમેરિકા અને તેના સાથી દેશો પર પ્રાદેશિક તણાવ વધારવાનો આરોપ લગાવ્યો છે અને ઉત્તર કોરિયાની નૌકાદળ શક્તિને વધુ મજબૂત બનાવવાની યોજનાઓ જાહેર કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/kim-jong-uns-terrifying-warning-caused-a-stir-in-america-the-most-dangerous-weapon-was-launched-into-the-sea-482529 ",
-    "time": "2026-06-24T09:36:56.000Z"
   },
   {
     "cat": "Tech",
@@ -709,14 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ethanol-conversion-kit-can-be-found-for-rs-15000-know-how-it-works-482210 ",
     "time": "2026-06-21T11:12:28.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Zero Watt Bulb પણ ખાય છે વીજળી, તો પછી કેમ પડ્યું તેનું આ નામ? જાણો તેના પાછળની રસપ્રદ કહાની",
-    "desc": "દાયકાઓથી ભારતીય ઘરોમાં વપરાતા 'ઝીરો વોટ'ના બલ્બને લઈને એક મોટો ભ્રમ રહ્યો છે કે તે વીજળી નથી વાપરતો. પરંતુ આજકાલના ડિજિટલ મીટર આ દાવાને સંપૂર્ણપણે નકારી કાઢે છે. આખરે આ બલ્બ કેટલી વીજળી વાપરે છે અને તેને 'ઝીરો વોટ' નામ કેવી રીતે મળ્યું? ચાલો જાણીએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/even-a-zero-watt-bulb-consumes-electricity-so-why-is-it-named-that-way-discover-the-interesting-story-behind-it-482180 ",
-    "time": "2026-06-21T06:42:45.000Z"
   }
 ];
