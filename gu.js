@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પોલીસ કસ્ટડીમાં હતી છતાં સિયા ગોયલની આવી શરમજનક કરતૂત? Video આગની જેમ વાયરલ",
+    "desc": "ફેબ્રુઆરીમાં જેની સાથે સગાઈ થઈ તેની જ 3 મહિના પછી 18 જૂનના રોજ લોહગઢ કિલ્લા પરથી ખીણમાં ધક્કો મારીને મોત નિપજાવનારી આરોપી મંગેતર સિયા ગોયલની એક શરમજનક હરકતનો વીડિયો હાલ સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-case-update-siya-goyal-showing-middle-finger-video-gone-viral-483445 ",
+    "time": "2026-07-03T05:43:06.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Aamir Khan એ કંફર્મ કર્યા ત્રીજા લગ્ન, કહ્યું 5 તારીખે Gauri Spratt સાથે ઘરમાં કરશે લગ્ન, લોકો પાસે માંગ્યા આશીર્વાદ",
     "desc": "બોલીવુડ એક્ટર આમિર ખાન તેની ગર્લફ્રેન્ડ ગૌરી સ્પ્રેટ સાથે લગ્ન કરશે તે વાતની ચર્ચા ઘણા સમયથી ચાલી રહી છે પણ હવે આ વાત ખુદ આમિર ખાને કંફર્મ કરી દીધી છે કે તે 5 જુલાઈએ ગૌરી સાથે લગ્ન કરવા જઈ રહ્યો છે. ત્રીજા લગ્ન માટે આમિર ખાને શું જાણો વિગતવાર.",
@@ -288,15 +297,6 @@ const newsData_gu = [
     "time": "2026-07-01T09:24:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "પેનલ્ટી શૂટઆઉટ ફરી બન્યું નીદર્લેન્ડ્સ માટે ખરાબ સ્વપ્ન! વર્લ્ડ કપમાંથી બહાર થતાં જ કોચે આપ્યું રાજીનામું",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026ના રાઉન્ડ ઓફ 32માં મોરોક્કો સામે કારમી હાર બાદ નેધરલેન્ડ્સના મુખ્ય કોચ રોનાલ્ડ કોમેનએ રાજીનામું આપી દીધું છે. પેનલ્ટી શૂટઆઉટમાં થયેલા હાર બાદ, કોમેનએ ડચ રાષ્ટ્રીય ટીમ સાથે પોતાની કારકિર્દીનો અંત લાવવાનો નિર્ણય લીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/penalty-shootout-becomes-nightmare-for-netherlands-again-coach-resigns-after-world-cup-exit-483276 ",
-    "time": "2026-07-01T09:05:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સ્કુલમાં બાળકો કરશે બોલીવુડ ગીતોનો અભ્યાસ, કારણ કે શિક્ષા વિભાગ અનુસાર ફિલ્મી ગીતો છે લોકગીતો",
     "desc": "બોલીવુડની 2 ફિલ્મોના 2 ગીતને લોકગીત તરીકે ધોરણ 8 ના પુસ્તકમાં જોડવામાં આવતા હોબાળો મચી ગયો. આ વિવાદ એટલો વધ્યો કે કેટલાક અધિકારીઓને નોકરી ગુમાવવાનો વારો પણ આવ્યો છે. જો તમને આ ઘટના વિશે નથી ખબર તો ચાલો તમને બધું જ જણાવીએ વિસ્તારપૂર્વક.",
@@ -439,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/explained-india-operation-amistad-in-earthquake-hit-venezuela-indian-army-field-hospital-483179 ",
     "time": "2026-06-30T09:08:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "₹૭૫ બચાવવાની સુવર્ણ તક: નવી આધાર એપ પર આ સુવિધા ૬ મહિના માટે બિલકુલ ફ્રી, જાણો ડાઉનલોડ પ્રોસેસ",
-    "desc": "UIDAI એ mAadhaar એપ હવે બંધ કરી દીધી છે. હવે યૂઝર્સે નવી આધાર એપ પર સ્વિચ થવું પડશે. આ નવી એપ લોન્ચ થતાં યૂઝર્સને હવે સૌથી મોટો ફાયદો એ છે કે ઘરબેઠા કામ થશે. તમને નવી એપમાં Face Authentication, QR Verification, Login મળી રહેશે. જેથી તમે ઘરે બેઠા પણ Aadhaarમાં નામ, સરનામું અને મોબાઇલ નંબર અપડેટ કરી શકશો. હવે જાણી લો આ પ્રક્રિયા.....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/maadhaar-app-discontinued-complete-guide-of-how-to-login-to-new-aadhaar-app-update-name-address-mobile-number-483177 ",
-    "time": "2026-06-30T08:44:54.000Z"
   },
   {
     "cat": "Tech",
