@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "১৪০ টন কংক্রিটের ধ্বংস্তূপ বুকে নিয়ে অলৌকিক বেঁচে থাকা! উদ্ধার ৮ দিন পর ১০০ ঘণ্টার অভিযানে",
+    "desc": "যেখানে ৪৮ থেকে ৭২ ঘণ্টার পর বেঁচে থাকার আশা ক্ষীণ হয়ে আসে, সেখানে দীর্ঘ ৮ দিন পর জীবিত উদ্ধার। কীভাবে সম্ভব হল এই অসাধ্য সাধন? অভিজ্ঞ দমকলকর্মী মারা পাজ ক্যাম্পোস অভিযানের পুরো সময় জিল ফ্লোরেন্সের সঙ্গে কথা বলে তাঁকে মানসিকভাবে শান্ত রাখেন। তাঁর মনোবল ধরে রাখেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/venezuela-quake-miracle-man-buried-for-8-days-under-140-ton-debris-and-rescued-after-100-hour-long-mission_660973.html ",
+    "time": "2026-07-03T13:30:04.000Z"
+  },
+  {
+    "cat": "World",
     "title": "কেন ভারতকে ক্রমশ ঘিরে ফেলছে চিন? তলায়-তলায় সাহায্য করছে বাংলাদেশও? হাড়হিম ষড়যন্ত্রের হদিশে বাড়ছে রক্তচাপ?",
     "desc": "প্রেসিডেন্ট জি জিনপিং বেজিংয়ের 'গ্রেট হল অফ দ্য পিপল'-এ বাংলাদেশের প্রধানমন্ত্রী তারেক রহমানের সঙ্গে সাক্ষাৎ করেন। তারেক চিন সফরে ছিলেন। আঞ্চলিক যোগাযোগ ও বাণিজ্য আরও জোরদার করার লক্ষ্যে দুই নেতা যৌথভাবে চিন-বাংলাদেশ কমিউনিটি গড়ে তোলার সিদ্ধান্ত ঘোষণা করেন।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -232,15 +241,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/venezuela-earthquake-death-toll-rises-to-1430-as-fresh-tremor-rattles-disaster-hit-region_660235.html ",
     "time": "2026-06-28T11:00:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "হাড়হিম 'ওমেগা ব্লকে' প্রাণঘাতী তাপপ্রবাহ! লাফিয়ে বাড়ছে মৃত্যু! ক্লাইমেট চেঞ্জের ভয়াবহ অভিশাপ ফলছে?",
-    "desc": "ফুটছে ইউরোপ! উদ্বিগ্ন বিজ্ঞানীরা! ফ্রান্সে প্রায় ১০০০ অতিরিক্ত মৃত্যু রেকর্ড করা হয়েছে। বলা হয়েছে, প্রকৃত মৃত্যুর সংখ্যা আরও বেশি হতে পারে। যেসব অঞ্চল 'রেড অ্যালার্টে'র আওতায় ছিল, সেগুলিই সবচেয়ে বেশি ক্ষতিগ্রস্ত হয়েছে বলে জানা গিয়েছে। কীভাবে মোকাবিলা করা সম্ভব?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/heat-wave-france-sees-over-1000-excess-deaths-as-europe-swelters-under-record-temperatures-omega-block_660233.html ",
-    "time": "2026-06-28T10:01:53.000Z"
   },
   {
     "cat": "Entertainment",

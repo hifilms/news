@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "માત્ર 2 દિવસમાં ₹6,700નો ઉછાળો! હવે ક્યાં સુધી પહોંચશે સોનાનો ભાવ? જાણો એક્સપર્ટનું અનુમાન",
+    "desc": "સોનાના ભાવમાં ચાલી રહેલો ઘટાડો સમાપ્ત થઈ ગયો છે. સોનાના ભાવ આજે ફરી વધ્યા છે. ઝડપી રિકવરી જોવા મળી રહી છે. સોનું, જે 4,000 ડોલરની નીચે ગબડ્યું હતું, તે આજે 4,177.65 ડોલર પ્રતિ ઔંસ પર પાછું આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/a-jump-of-6700-in-just-2-days-how-far-will-the-price-of-gold-reach-now-know-the-expert-prediction-483508 ",
+    "time": "2026-07-03T13:43:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EPFOનું મોટું અપડેટ! હવે વેબસાઈટ પરથી નહીં થાય UAN એક્ટિવેશન, બદલાઈ ગયા બધા નિયમો",
+    "desc": "EPFOએ પોતાનું યુનિફાઈડ મેમ્બર પોર્ટલ (Unified Member Portal) અપડેટ કરી દીધું છે. હવે UAN એક્ટિવેશન અને ડાયરેક્ટ UAN એલોટમેન્ટની સુવિધા EPFO વેબસાઈટ પર ઉપલબ્ધ રહેશે નહીં. આ માટે કર્મચારીઓએ UMANG Appનો ઉપયોગ કરવો પડશે, જ્યાં આધાર આધારિત ફેસ ઓથેન્ટિકેશન દ્વારા UAN એક્ટિવેટ અને જનરેટ કરી શકાશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/epfo-big-update-now-uan-activation-will-not-be-done-from-the-website-all-rules-have-changed-483490 ",
+    "time": "2026-07-03T11:46:37.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "દેશમાં પ્રથમ અને છેલ્લીવાર આ મહિલાને આપવામાં આવી હતી ફાંસી, હવે સિયા-સોનમ-મુસ્કાનને મોતની સજા આપવાની માગ",
     "desc": "સિયા ગોયલ, સોનમ રઘુવંશી અને મુસ્કાન રસ્તોગીને ફાંસીની સજા આપવાની માંગ પીડિતોએ કરી છે. પરંતુ દેશમાં અત્યાર સુધી એકવાર જ કોઈ મહિલાને ફાંસીની સજા આપવામાં આવી છે. તો આશરે 21 મહિલાઓને વર્તમાનમાં ફાંસીની સજા મળી છે, પરંતુ હજુ સુધી તેને ફાંસીની સજા આપવામાં આવી નથી.",
@@ -459,24 +477,6 @@ const newsData_gu = [
     "time": "2026-06-30T14:35:46.000Z"
   },
   {
-    "cat": "Business",
-    "title": "PPFથી લઈને સુકન્યા સુધી... આ યોજનામાં રોકાણ કરતા લોકો માટે ખુશખબર! સરકારે લીધો મોટો નિર્ણય",
-    "desc": "જો તમે PPF, NSC, સુકન્યા સમૃદ્ધિ યોજના અથવા પોસ્ટ ઓફિસની નાની બચત યોજનાઓમાં રોકાણ કરો છો, તો તમારા માટે એક સારા સમાચાર છે. કેન્દ્ર સરકારે જુલાઈ-સપ્ટેમ્બર ક્વાર્ટર માટે આ યોજનાઓના વ્યાજ દર જાહેર કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/ppf-to-sukanya-samrudhi-yojana-govt-big-decision-on-small-savings-schemes-483203 ",
-    "time": "2026-06-30T14:13:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારે અચાનક બદલ્યા પેટ્રોલ અને ડીઝલના નિયમ! 1 જુલાઈથી દેશભરમાં લાગુ થશે આ મોટો નિર્ણય",
-    "desc": "કેન્દ્ર સરકારે 1 જુલાઈ, 2026થી વાણિજ્યિક ખરીદદારો માટે છૂટક પેટ્રોલ પંપ પરથી પેટ્રોલ અને ડીઝલની ખરીદી પરના તમામ કામચલાઉ પ્રતિબંધો હટાવી લીધા છે. દેશમાં પૂરતી ઇંધણ ઉપલબ્ધતા સુનિશ્ચિત કરવા માટે આ નિર્ણય મધ્ય પૂર્વ કટોકટી દરમિયાન લાગુ કરવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-suddenly-changes-petrol-and-diesel-rules-this-big-decision-will-be-implemented-across-the-country-from-july-1-483185 ",
-    "time": "2026-06-30T10:08:34.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભૂલથી પણ ડાઉનલોડ થઈ ગઈ છે APK ફાઈલ? બેંક એકાઉન્ટ ખાલી થતા બચાવવા માટે તરત જ કરો આ 4 કામ",
     "desc": "સાયબર ગુનેગારો ઇન્વોઇસ અથવા ઇન્વિટેશન હોવાનો ઢોંગ કરીને WhatsApp, Telegram, અથવા SMS દ્વારા APK ફાઇલો મોકલી રહ્યા છે અને મોબાઇલ ફોન પર સોફ્ટવેર ઇન્સ્ટોલ કરે છે. જો તમારી સાથે છેતરપિંડી થઈ હોય, તો તેમને 1930 પર જાણ કરો.",
@@ -718,14 +718,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/gujarat/gujarati-founder-kunal-shah-appointed-whatsapp-ceo-after-metas-900-million-investment-in-cred-482382 ",
     "time": "2026-06-23T03:33:40.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "15000માં મળી શકે છે ઇથેનોલ કન્વર્ઝન કીટ, જાણો કેવી રીતે કરે છે કામ",
-    "desc": "આવી કીટનો ઉપયોગ કરીને BS4 અને BS6 વાહનોને ફ્લેક્સ-ફ્યુઅલ વાહનોમાં રૂપાંતરિત કરી શકાય છે. આ વાહનોને E85 અને E100 જેવા ઉચ્ચ-ઇથેનોલ મિશ્રણો પર સુરક્ષિત રીતે ચલાવવાની મંજૂરી આપે છે. આ ટેકનોલોજી જૂના પેટ્રોલ વાહનોને નવી ઇંધણ તકનીકો સાથે સંકલિત કરવા માટે એક મહત્વપૂર્ણ માર્ગ પણ ખોલી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/ethanol-conversion-kit-can-be-found-for-rs-15000-know-how-it-works-482210 ",
-    "time": "2026-06-21T11:12:28.000Z"
   }
 ];

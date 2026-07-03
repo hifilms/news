@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England name playing XI for second T20I against India, Jofra Archer makes much-awaited comeback",
+    "desc": "The stage is set for the second T20I of the ongoing five-game series between India and England. The two sides will meet at Old Trafford, Manchester, on July 4, and ahead of the game, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-name-playing-xi-for-second-t20i-against-india-jofra-archer-makes-much-awaited-comeback-2026-07-03-1047046",
+    "time": "2026-07-03T13:17:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer weighs in on Vaibhav Sooryavanshi's delayed debut ahead of second England T20I",
+    "desc": "India is in the middle of their ongoing series against England. After losing their last two games against Ireland and missing out on the series, the Men in Blue’s first match against England was cut...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-vaibhav-sooryavanshi-s-delayed-debut-ahead-of-second-england-t20i-2026-07-03-1047035",
+    "time": "2026-07-03T11:59:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Dhoni sir is very similar': Deepti Sharma draws comparison between Novak Djokovic and former India skipper",
     "desc": "Wimbledon 2026 is in full swing, and some of the best tennis players in the world are taking on each other in the hope of getting their hands on the marquee title. Star India women’s...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sciver-brunt-heather-knight-script-englands-comeback-to-beat-south-africa-book-place-in-t20-world-cup-final-2026-07-03-1046962",
     "time": "2026-07-02T21:50:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mikel Oyarzabal scores brace as Spain hammer Austria to qualify for FIFA World Cup 2026 round of 16",
-    "desc": "Spain hammered Austria 3-0 in Los Angeles to secure a place in the Round of 16 of the FIFA World Cup 2026. Real Sociedad forward Mikel Oyarzabal scored a brace, while Pedro Porro added another...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mikel-oyarzabal-scores-brace-as-spain-hammer-austria-to-qualify-for-fifa-world-cup-2026-round-of-16-2026-07-03-1046961",
-    "time": "2026-07-02T21:25:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Nico Williams not playing Spain vs Austria clash in FIFA World Cup 2026?",
-    "desc": "Spain are without winger Nico Williams for their FIFA World Cup 2026 group-stage clash against Austria after the 23-year-old sustained a right thigh injury during the closing stages of their previous match against Uruguay. The injury...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-nico-williams-not-playing-spain-vs-austria-clash-in-fifa-world-cup-2026-2026-07-03-1046960",
-    "time": "2026-07-02T19:06:35.000Z"
   }
 ];
