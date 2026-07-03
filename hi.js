@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Zimbabwe announce 15-member squad for Bangladesh ODIs, Innocent Kaia returns after 2.5 years",
+    "desc": "Zimbabwe have recalled Innocent Kaia to their ODI squad for the upcoming three-match home series against Bangladesh. The 33-year-old was rewarded for his impressive run of form across formats in domestic cricket. Apart from him,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-announce-15-member-squad-for-bangladesh-odis-innocent-kaia-returns-after-2-5-years-2026-07-03-1047068",
+    "time": "2026-07-03T18:00:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic calls out Roger Federer for one last match after equalling his Wimbledon record",
+    "desc": "Novak Djokovic booked his place in the fourth round of Wimbledon after defeating Arthur Rinderknech 7-5, 6-4, 1-6, 7-6(4) on Friday, July 3. The result also saw the Serbian equal legendary Roger Federer's record of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-calls-out-roger-federer-for-one-last-match-after-equalling-his-wimbledon-record-2026-07-03-1047065",
+    "time": "2026-07-03T17:19:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes bids emotional goodbye on social media after sudden decision of international retirement",
+    "desc": "On Day 4 of the third Test against New Zealand, former England captain Ben Stokes announced his decision to retire from international cricket after the completion of the series. During his 15-year career with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-bids-emotional-goodbye-on-social-media-after-sudden-decision-of-international-retirement-2026-07-03-1047063",
+    "time": "2026-07-03T16:48:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jacob Bethell expected to open as England reveal squad for ODI series against India",
     "desc": "The ECB (England and Wales Cricket Board) has come forward and revealed England’s ODI squad for the upcoming home series against the Indian team. It is worth noting that India and England are taking on...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-in-tears-as-portugal-pays-tribute-to-diogo-jota-after-croatia-clash-watch-2026-07-03-1046995",
     "time": "2026-07-03T07:20:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Goncalo Ramos scores in injury time as Portugal beat Croatia 2-1 after dramatic final minutes",
-    "desc": "Portugal advanced to the Round of 16 of the FIFA World Cup 2026 after a dramatic 2–1 victory over Croatia in their Round of 32 clash at Toronto Stadium. They were trailing in the match...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/gonzalo-ramos-scores-in-injury-time-as-portugal-beat-croatia-2-1-after-dramatic-final-minutes-2026-07-03-1046967",
-    "time": "2026-07-03T01:26:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo's journey continues, Portugal beat Croatia 2-1",
-    "desc": "Portugal face Croatia in the FIFA World Cup 2026 Round of 32 on Friday morning, with a place in the last 16 against Spain at stake after Luis de la Fuente's side eliminated Austria earlier...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/por-vs-cro-fifa-world-cup-live-portugal-vs-croatia-score-tactical-analysis-minute-by-minute-commentary-highlights-cristiano-ronaldo-luka-modric-1046964",
-    "time": "2026-07-02T22:37:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why England are changing their preparations before FIFA World Cup clash against Mexico?",
-    "desc": "England have altered their preparations ahead of Sunday's FIFA World Cup Round of 16 meeting with Mexico. The Thomas Tuchel side introduced additional measures to protect player recovery before arriving in Mexico City for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-england-are-changing-their-preparations-before-fifa-world-cup-clash-against-mexico-2026-07-03-1046963",
-    "time": "2026-07-02T22:19:44.000Z"
   }
 ];

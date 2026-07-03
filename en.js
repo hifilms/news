@@ -1,30 +1,129 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Kuppam not just a constituency but an emotion, says A.P. Chief Minister Naidu",
-    "desc": "The Chief Minister unveils ‘Swarna Kuppam Vision-2029,’ asserts that the government will pursue welfare, development, and good governance simultaneously while ensuring employment for every youth, higher incomes for farmers, and entrepreneurship opportunities for every family",
-    "img": "https://th-i.thgim.com/public/incoming/pvtjz0/article71179989.ece/alternates/LANDSCAPE_1200/10215_3_7_2026_21_7_38_1_IMG_20260703_WA00491.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kuppam-not-just-a-constituency-but-an-emotion-says-ap-chief-minister-naidu/article71179778.ece",
-    "time": "2026-07-03T16:15:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Anitha Radhakrishnan’s arrest triggers DMK-TVK standoff",
-    "desc": "Former Tamil Nadu Fisheries Minister and Tiruchendur DMK MLA Anitha R. Radhakrishnan has been arrested over his alleged remarks against Chief Minister C. Joseph Vijay, triggering a sharp political confrontation between the ruling TVK and the Opposition DMK.",
-    "img": "https://th-i.thgim.com/public/incoming/qyaj5b/article71179705.ece/alternates/LANDSCAPE_1200/anitha.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-anitha-radhakrishnans-arrest-triggers-dmk-tvk-standoff/article71179707.ece",
-    "time": "2026-07-03T15:44:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Flying abroad gets cheaper as Air India slashes fuel surcharges",
-    "desc": "Effective July 1, Air India is slashing fuel surcharges on international routes to Europe, North America, and Australia, responding to a drop in global jet fuel costs. This strategic decision not only seeks to encourage more travelers to fly, but it’s also under scrutiny by other Indian airlines who have yet to follow suit with similar announcements.",
-    "img": "https://static.toiimg.com/photo/msid-132165468,imgsize-92426.cms",
+    "title": "Child slams J&amp;K education minister in video, sparks outcry",
+    "desc": "A viral video of a 12-year-old criticizing J&K Education Minister Sakina Itoo over delayed summer vacations has sparked controversy. Kashmir's chief cleric deemed the child's remarks impolite, while the Child Welfare Committee summoned the news portal for uploading the clip without parental consent. The CWC also ordered the video's removal and an FIR, citing concerns for the child's privacy and well-being.",
+    "img": "https://static.toiimg.com/photo/msid-132169727,imgsize-1201717.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/flying-abroad-gets-cheaper-as-air-india-slashes-fuel-surcharges/articleshow/132165444.cms",
-    "time": "2026-07-03T15:39:30.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/child-slams-jk-education-minister-in-video-sparks-outcry/articleshow/132169726.cms",
+    "time": "2026-07-03T18:52:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court orders status quo on audit of Delhi discoms",
+    "desc": "The court posted the case for a further hearing on July 15. Meanwhile, the apex court’s status quo order would effectively put on hold the original DERC order to have the Comptroller and Auditor General (CAG) audit the discoms",
+    "img": "https://th-i.thgim.com/public/incoming/8vs8xs/article71180231.ece/alternates/LANDSCAPE_1200/TH13-nearby1_GLGATFVQGIP.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-orders-status-quo-on-audit-of-delhi-discoms/article71179577.ece",
+    "time": "2026-07-03T18:17:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Second batch of 3,865 pilgrims leave Jammu",
+    "desc": "The second batch of pilgrims has commenced their journey to the Shri Amarnath Ji shrine. Authorities have issued a strict advisory, emphasizing that only registered individuals will be permitted to proceed. Thousands of pilgrims arriving without prior registration are urged to wait for their assigned travel dates, as tatkal registration slots are severely limited. Security escorts are in place for both the Baltal and Pahalgam routes.",
+    "img": "https://static.toiimg.com/photo/msid-132168859,imgsize-1723334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amarnath-yatra-2026-second-batch-of-3865-pilgrims-leave-jammu/articleshow/132168870.cms",
+    "time": "2026-07-03T18:14:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre ready for elected UT body, Article 371-like safeguards, say Ladakh groups",
+    "desc": "Ladakh's political groups and Union home ministry officials held a positive \"informal\" meeting, finalizing draft minutes of previous talks. A UT-level elected body with significant powers will be established, while statehood remains a long-term aspiration. Discussions also covered customized constitutional safeguards for Ladakh, with both sides expressing optimism about addressing regional concerns and reaching a swift conclusion.",
+    "img": "https://static.toiimg.com/photo/msid-132168835,imgsize-1445814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/centre-ready-for-elected-ut-body-article-371-like-safeguards-say-ladakh-groups/articleshow/132168839.cms",
+    "time": "2026-07-03T18:10:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "JCO injured in landmine blast in J&amp;K's Rajouri",
+    "desc": "A Junior Commissioned Officer was injured in a landmine blast during a routine patrol along the Line of Control in Rajouri district. Naib Subedar Hiteshwar Gogoi of the 14 Assam Regiment was rushed for medical treatment. Such incidents are attributed to displaced mines, with recent similar accidents involving Army personnel in the region.",
+    "img": "https://static.toiimg.com/photo/msid-132168731,imgsize-791077.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jco-injured-in-landmine-blast-in-jks-rajouri/articleshow/132168740.cms",
+    "time": "2026-07-03T18:07:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ram temple donation ‘theft’: RJD MP moves Supreme Court seeking audit of temple trust finances",
+    "desc": "Plea in court says it is of ‘exceptional public importance’ to safeguard the administration of the Trust and protect the offerings made by millions of devotees; seeks CBI probe into allegations of embezzlement of donations to the Ram Temple",
+    "img": "https://th-i.thgim.com/public/incoming/r5s0e/article71180080.ece/alternates/LANDSCAPE_1200/SUPREME%20COURT%20%202.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ram-temple-donation-theft-rjd-mp-moves-supreme-court-seeking-audit-of-temple-trust-finances/article71179930.ece",
+    "time": "2026-07-03T17:50:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ECI has discretion to announce bypolls any time within six months of seat falling vacant, experts say",
+    "desc": "At lease 14 Assembly seats, six Parliamentary seats stay vacant as ECI announces bypolls in only three; Congress slams ECI’s hurry to schedule Datia bypoll despite ongoing case over MLA’s disqualification; in Milkipur, the Opposition accused the ECI of “delay” tactics to benefit the BJP",
+    "img": "https://th-i.thgim.com/public/incoming/de26ov/article71180188.ece/alternates/LANDSCAPE_1200/IMG_INDEXELECTIONCOMMISS_2_1_B6EB6NQQ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/eci-has-discretion-to-announce-bypolls-any-time-within-six-months-of-seat-falling-vacant-experts-say/article71179709.ece",
+    "time": "2026-07-03T17:37:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sonowal unveils first Made in India EXIM shipping container, Maersk orders 1,000 of them",
+    "desc": "India has launched its first domestically manufactured EXIM grade shipping container, a significant step towards reducing reliance on foreign suppliers. Global shipping giant Maersk has ordered 1,000 of these containers, produced in Uttar Pradesh. This achievement underscores India's growing manufacturing prowess and commitment to building robust maritime infrastructure, supported by government initiatives like the Rs 10,000 crore Container Manufacturing Promotion Scheme.",
+    "img": "https://static.toiimg.com/photo/msid-132167622,imgsize-1013630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sonowal-unveils-first-made-in-india-exim-shipping-container-maersk-orders-1000-of-them/articleshow/132167634.cms",
+    "time": "2026-07-03T17:33:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lord’s was a third full — that was frightening because we weren’t used to people: Clare Taylor",
+    "desc": "During the course of an extraordinary career in sport, the 61-year-old won the cricket World Cup in 1993 and played in the 1995 football World Cup. A pace bowler when she wasn’t sweeping up in central defence, Taylor speaks about her experiences in this freewheeling conversation",
+    "img": "https://th-i.thgim.com/public/incoming/hoz97n/article71178739.ece/alternates/LANDSCAPE_1200/clare.taylor2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/lords-was-a-third-full-that-was-frightening-because-we-werent-used-to-people-clare-taylor/article71178723.ece",
+    "time": "2026-07-03T17:17:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "assessing India’s portfolio of Test tweakers",
+    "desc": "With a tricky tour of Sri Lanka in August and a blockbuster home series against Australia early next year, India needs its spinners to deliver if it wants to contend for a spot in the World Test Championship final. Just how healthy and varied are the team’s stocks?",
+    "img": "https://th-i.thgim.com/public/incoming/ha7neg/article71178667.ece/alternates/LANDSCAPE_1200/AFP_B6BR7V9.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/spin-cycle-assessing-indias-portfolio-of-test-tweakers/article71178694.ece",
+    "time": "2026-07-03T17:17:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Djokovic survives Rinderknech test, equals Federer's Wimbledon record",
+    "desc": "Friday's victory, which featured 107 winners -- 67 of them from Rinderknech -- saw Djokovic draw level with Roger Federer's record of 105 singles match wins on the men’s draw at Wimbledon. The pair trail only Martina Navratilova, who holds the all-time mark with 120 victories at the grass-court major.",
+    "img": "https://static.toiimg.com/photo/msid-132167295,imgsize-32963.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/novak-djokovic-survives-arthur-rinderknech-test-equals-roger-federers-wimbledon-record/articleshow/132167253.cms",
+    "time": "2026-07-03T17:16:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah to review Manipur security situation on July 4; CM likely to visit Churachandpur, a first since 2023 violence",
+    "desc": "Mr. Shah will hold the meeting with Manipur government’s Security Adviser Kuldiep Singh and State Director General of Police Mukesh Singh, Director General of Military Operations (DGMO) and D-Gs of Assam Rifles, Central Reserve Police Force (CRPF) and Border Security Force (BSF); CM Yumnam Khemchand Singh is not part of Saturday’s meeting",
+    "img": "https://th-i.thgim.com/public/incoming/dv4us5/article71180108.ece/alternates/LANDSCAPE_1200/PTI03_01_2025_000042B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/manipur/amit-shah-to-review-manipur-security-situation-tomorrow-cm-likely-to-visit-churachandpur-a-first-since-2023-violence/article71179829.ece",
+    "time": "2026-07-03T16:57:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Criminal trespassers': TMC vows court battle as rival faction captures party HQ",
+    "desc": "The Trinamool Congress (TMC) has accused a rival faction led by expelled MLA Ritabrata Banerjee of illegally seizing its Kolkata headquarters, labeling them 'criminal trespassers' and vowing legal action. The party claims police allowed the rebels to lock the premises, alleging a conspiracy with the BJP. This follows the rebel group's move to stake claim over the TMC's name and symbol with the Election Commission.",
+    "img": "https://static.toiimg.com/photo/msid-132166768,imgsize-145172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/criminal-trespassers-tmc-vows-court-battle-as-rival-faction-captures-party-office/articleshow/132166590.cms",
+    "time": "2026-07-03T16:46:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Explained: Why Bank of Baroda paid ₹5,700 crore to settle NMC Health dispute",
+    "desc": "Bank of Baroda, the second largest Public Sector Bank on Thursday (July 2, 2026) informed stock exchanges that it had paid $600 million (about ₹5,700 crore) to settle litigation initiated by the administrators of NMC Health Plc, NMC Healthcare Ltd and NMC Holding Ltd. This ends one of the largest cross-border banking disputes involving an Indian lender.",
+    "img": "https://th-i.thgim.com/public/incoming/s8ska5/article71180076.ece/alternates/LANDSCAPE_1200/NMC.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-explained-why-bank-of-baroda-paid-5700-crore-to-settle-nmc-health-dispute/article71180075.ece",
+    "time": "2026-07-03T16:35:34.000Z"
   },
   {
     "cat": "World",
@@ -37,7 +136,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'It's not straightforward': India coach's clear message on Vaibhav Sooryavanshi's debut",
+    "title": "'It's not straightforward': India coach's clear message on Sooryavanshi debut",
     "desc": "India's bowling coach Morne Morkel affirmed continued backing for openers Sanju Samson and Abhishek Sharma, despite calls for 15-year-old Vaibhav Sooryavanshi's debut. Morkel emphasised faith in proven performers and avoiding disrupting batting order. He praised Sooryavanshi's smooth integration and potential readiness for future opportunities, while also commending pacers Prince Yadav and Harshit Rana for their impressive performances.",
     "img": "https://static.toiimg.com/photo/msid-132165365,imgsize-41429.cms",
     "src": "indiatimes.com",
@@ -180,24 +279,6 @@ const newsData_en = [
     "time": "2026-07-03T13:28:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "RSS demands strict action over Ram Temple donation scam; Centre summons Meta over Instagram ads promoting child abuse material &amp; more",
-    "desc": "The RSS has demanded strict action regarding alleged embezzlement of Ram Temple donations in Ayodhya, welcoming the SIT probe. India maintains the Indus Waters Treaty remains suspended due to Pakistan's alleged support for terrorism. The Centre has summoned Meta over child abuse material on Instagram, while a Tibetan activist's self-immolation outside the UN highlights Tibet rights. Police are questioning a friend in connection with the Pune realtor's murder.",
-    "img": "https://static.toiimg.com/photo/msid-132162995,imgsize-1065089.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-rss-demands-strict-action-over-ram-temple-donation-scam-centre-summons-meta-over-instagram-ads-promoting-child-abuse-material-more/articleshow/132162779.cms",
-    "time": "2026-07-03T13:26:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Meta team meets govt officials after notice, final reply due in 3 days",
-    "desc": "Meta officials met with Indian IT ministry representatives following a government notice regarding WhatsApp's new username feature. New Delhi expressed concerns that the feature could facilitate cybercrime, including impersonation and fraud. WhatsApp has stated the feature is not yet live and will include safeguards like optional usage and reserved prominent usernames to prevent misuse. The government awaits a final response before allowing the rollout.",
-    "img": "https://static.toiimg.com/photo/msid-132163026,imgsize-52053.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/whatsapp-username-row-meta-team-meets-govt-officials-after-notice-reply-due-in-3-days/articleshow/132162915.cms",
-    "time": "2026-07-03T13:24:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How a cricket technology saved Ronaldo's FIFA World Cup dream",
     "desc": "Portugal secured victory through Ronaldo's penalty and a stoppage-time header from Goncalo Ramos. But the biggest talking point came in the closing minutes when Croatia had a late equaliser ruled out after a VAR review.",
@@ -250,24 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zinta-moves-to-bombay-high-court-against-her-ai-generated-deepfake-videos-morphed-images-seeks-removal-of-objectionable-content/articleshow/132162217.cms",
     "time": "2026-07-03T12:48:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt pulls plug on Chinese apps used to stop e-rickshaws",
-    "desc": "In a significant move, authorities have instructed Google and Apple to take down three Chinese battery management applications—BAT-BMS, Lossigy, and Epoch-i-ion—from their platforms. The apps have allegedly been exploited to remotely shut down battery-operated vehicles like e-rickshaws, endangering the livelihoods of drivers. This highlights a concerning trend, shifting the focus from mere data security to tangible interference with electric vehicles operating on Indian streets, prompting further investigative scrutiny.",
-    "img": "https://static.toiimg.com/photo/msid-132161993,imgsize-260366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-pulls-plug-on-chinese-apps-used-to-stop-e-rickshaws/articleshow/132161607.cms",
-    "time": "2026-07-03T12:43:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abeyance'; conveys views on Teesta to Bangladesh",
-    "desc": "India's stance on the Indus Waters Treaty remains firm, with the agreement suspended due to Pakistan's continued support for cross-border terrorism. The MEA reiterated this position, emphasizing Pakistan's need to cease its sponsorship of terror. Meanwhile, India has communicated its views on the proposed Teesta River project to Bangladesh, assuring cooperation based on mutual understanding and consultations.",
-    "img": "https://static.toiimg.com/photo/msid-132160990,imgsize-143285.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pakistan-must-stop-backing-terror-india-says-indus-waters-treaty-in-abeyance-conveys-views-on-teesta-to-bangladesh/articleshow/132160506.cms",
-    "time": "2026-07-03T12:13:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -349,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/gst-mop-up-grows-14-to-195-lakh-crore-in-june/article71169062.ece",
     "time": "2026-07-03T11:17:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Maharashtra's Uniform Civil Code: Committee to draft legislation in two weeks",
-    "desc": "Maharashtra is set to establish a committee within two weeks to draft legislation for a Uniform Civil Code. This move follows an announcement that the state will implement UCC, with a retired high court judge to head the drafting panel. The UCC aims to create a common legal framework for personal matters like marriage and inheritance, currently in place in Goa, Uttarakhand, and Assam.",
-    "img": "https://static.toiimg.com/photo/msid-132159780,imgsize-181345.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/maharashtras-uniform-civil-code-committee-to-draft-legislation-in-two-weeks/articleshow/132159700.cms",
-    "time": "2026-07-03T11:15:22.000Z"
   },
   {
     "cat": "World",
@@ -459,24 +513,6 @@ const newsData_en = [
     "time": "2026-07-03T10:20:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Extremely pained &amp; angered': RSS asks SIT to take strict action in Ram Temple donation row, warns of 'anti-Hindu conspiracies'",
-    "desc": "The RSS expressed deep pain and anger over alleged donation embezzlement at the Ayodhya Ram Temple, demanding strict action against culprits. RSS general secretary Dattatreya Hosabale urged the Hindu community to remain vigilant against those exploiting the incident to defame them. He welcomed the SIT probe and stressed the need for transparent temple administration to uphold devotees' faith.",
-    "img": "https://static.toiimg.com/photo/msid-132158760,imgsize-166513.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/extremely-pained-angered-rss-asks-sit-to-take-strict-action-in-ram-temple-donation-row-warns-of-anti-hindu-conspiracies/articleshow/132158606.cms",
-    "time": "2026-07-03T10:20:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Gravest threat from Modi-Shah regime': Opposition writes to CJI, raises concerns over SIR",
-    "desc": "Twenty-four opposition parties and an independent MP have penned a letter to the Chief Justice of India, voicing grave concerns over the Special Intensive Revision (SIR) process and the Election Commission's perceived partisan role. The joint communication highlights a lack of transparency and administrative confusion, urging the Supreme Court to intervene and restore faith in the electoral system.",
-    "img": "https://static.toiimg.com/photo/msid-132158468,imgsize-592613.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gravest-threat-from-modi-shah-regime-opposition-writes-to-cji-raises-concerns-over-sir/articleshow/132158410.cms",
-    "time": "2026-07-03T10:04:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How government aims to reduce dependence on imported gold",
     "desc": "The proposal has gained traction following multiple meetings held over the past two weeks involving senior government ministers, officials from the Reserve Bank of India, banks and representatives of the gold industry, the report said.",
@@ -484,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/new-gold-monetisation-scheme-in-the-works-how-government-aims-to-reduce-dependence-on-imported-gold/articleshow/132158279.cms",
     "time": "2026-07-03T10:01:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Ab Hindu maaf nahi karega': Uddhav announces ‘Ram Raksha’ protest over temple donation theft row",
-    "desc": "Shiv Sena (UBT) chief Uddhav Thackeray has announced a \"Ram Raksha\" protest starting July 5, alleging embezzlement of donations at the Ayodhya Ram temple. He called for accountability from the BJP, citing sacrifices made during the temple movement and questioning if funds were used to poach opposition leaders. Thackeray vowed that \"Hindus will not forgive\" such alleged \"loot in the name of Hindutva.\"",
-    "img": "https://static.toiimg.com/photo/msid-132158047,imgsize-493270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hindu-maaf-nahi-karega-uddhav-thackeray-announces-ram-raksha-protest-over-ram-temple-donation-theft-row/articleshow/132156435.cms",
-    "time": "2026-07-03T09:50:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'E20 petrol forcibly enforced': Kejriwal seeks public inputs for letter to PM Modi, says country now 'experimental lab'",
-    "desc": "Aam Aadmi Party chief Arvind Kejriwal has accused the Centre of \"forcibly imposing\" 20% ethanol-blended petrol (E20), claiming it damages vehicles and reduces mileage. He plans to write to Prime Minister Modi about widespread public anger. This follows similar criticism from Karnataka minister Priyank Kharge, who alleged the government conducted an \"experiment\" without adequate consultation. The Petroleum Ministry, however, maintains the Ethanol Blending Programme is scientifically validated.",
-    "img": "https://static.toiimg.com/photo/msid-132157951,imgsize-119829.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/e20-petrol-forcibly-enforced-kejriwal-seeks-public-inputs-for-letter-to-pm-modi-says-country-now-experimental-lab/articleshow/132157918.cms",
-    "time": "2026-07-03T09:46:50.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +576,6 @@ const newsData_en = [
     "time": "2026-07-03T09:00:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "5 reasons why Spain could threaten France FIFA World Cup 2026 campaign in knockouts",
-    "desc": "Spain has continued their impressive FIFA World Cup 2026 campaign with a comfortable 3-0 win over Austria in the Round of 32. Mikel Oyarzabal scored twice, while Pedro Porro added another goal as Luis de la Fuente’s side booked their place in the round of 16 with another dominant performance.",
-    "img": "https://static.toiimg.com/photo/msid-132156731,imgsize-1102714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/5-reasons-why-spain-could-threaten-france-fifa-world-cup-2026-campaign-in-knockouts/articleshow/132156712.cms",
-    "time": "2026-07-03T09:00:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's services sector growth falls to 17-month low as hiring stalls, demand weakens",
     "desc": "India's services sector experienced a significant slowdown in June, reaching a 17-month low due to weakening domestic demand and subdued hiring. While export orders provided a bright spot, overall business activity moderated. This trend also impacted the broader private sector, with the composite PMI indicating slower growth. Despite the cooling, the sector remains in expansionary territory.",
@@ -574,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-services-sector-growth-falls-to-17-month-low-as-hiring-stalls-demand-weakens-report/articleshow/132155519.cms",
     "time": "2026-07-03T08:46:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It's karma': Tuchel backs England to script Azteca history 40 years after 'Hand of God'",
-    "desc": "England manager Thomas Tuchel sees a chance for destiny to favour his side at the Azteca Stadium, calling it 'karma' as they face Mexico in a crucial World Cup match. Despite the altitude challenge, Tuchel is confident England can overcome the conditions through tactical play and mental strength. He also highlighted the potential importance of hydration breaks, a tactic that proved useful in their previous win.",
-    "img": "https://static.toiimg.com/photo/msid-132156512,imgsize-64618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-karma-thomas-tuchel-backs-england-to-rewrite-azteca-history-40-years-after-maradonas-hand-of-god/articleshow/132156502.cms",
-    "time": "2026-07-03T08:31:23.000Z"
   },
   {
     "cat": "Sports",
@@ -729,15 +729,6 @@ const newsData_en = [
     "time": "2026-07-02T08:09:27.000Z"
   },
   {
-    "cat": "World",
-    "title": "Chef Vijay Kumar on ringing the Nasdaq closing bell",
-    "desc": "In this exclusive essay for The Hindu, Vijay Kumar, the chef behind New York’s Michelin-starred Semma, reflects on his journey from a village near Natham in Tamil Nadu to global recognition, and what ringing the Nasdaq closing bell meant to him and the future of Tamil cuisine",
-    "img": "https://th-i.thgim.com/public/life-and-style/1jfo0z/article71169861.ece/alternates/LANDSCAPE_1200/FotoJet.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/food/features/from-rural-tamil-nadu-to-wall-street-chef-vijay-kumar-on-ringing-the-nasdaq-closing-bell/article71160551.ece",
-    "time": "2026-07-02T07:02:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "An adventorous ride from anonymity to amazing",
     "desc": "History will regard Stokes as a great cricketer, with great being used in its purest and most unadulterated form. There are few sights in cricket of a recent vintage to match him on a cricket field",
@@ -745,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/an-adventorous-ride-from-anonymity-to-amazing/article71171399.ece",
     "time": "2026-07-01T18:39:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wimbledon 2026",
-    "desc": "With Wimbledon being the only major where she has yet to ​contest a final, Sabalenka will be hoping for another KO performance when she faces Latvia's Jelena Ostapenko ⁠for a place in the last 16",
-    "img": "https://th-i.thgim.com/public/incoming/au2bpy/article71171564.ece/alternates/LANDSCAPE_1200/2026-07-01T151029Z_2119053075_UP1EM71120O5F_RTRMADP_3_TENNIS-WIMBLEDON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/wimbledon-2026-sabalenka-channels-her-inner-rocky-to-fend-off-kessler-challenge/article71171545.ece",
-    "time": "2026-07-01T17:54:16.000Z"
   },
   {
     "cat": "Business",
@@ -772,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/petrol-diesel-lpg-prices-latest-global-oil-rates-cool-down-updates/article71168502.ece",
     "time": "2026-07-01T16:45:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why managing fiscal is a tightrope for State governments",
-    "desc": "Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation. In Kerala, such spending has driven social progress since the 1960s. The gap between expenditure and receipts is usually financed through market borrowings.",
-    "img": "https://th-i.thgim.com/public/incoming/es48tl/article71167294.ece/alternates/LANDSCAPE_1200/NH29PolicyAddress04.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/the-fiscal-tightrope-for-state-governments/article71167296.ece",
-    "time": "2026-07-01T10:59:11.000Z"
   },
   {
     "cat": "Tech",

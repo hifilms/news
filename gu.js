@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "રાજીનામું આપ્યા બાદ પણ આજીવન ટ્રસ્ટી રહેશે ચંપત રાય! હોશ ઉડાવી દેશે રામ મંદિર ટ્રસ્ટનો આ નિયમ",
+    "desc": "અયોધ્યાના શ્રીરામ મંદિરમાં દાન ચોરીના સમાચાર આવ્યા બાદથી સતત કાર્યવાહી થઈ રહી છે. આ દરમિયાન ટ્રસ્ટના મહાસચિવ ચંપત રાયે પોતાના પદ પરથી રાજીનામું આપી દીધું છે. ચાલો જાણીએ કે, તેઓ આ પછી પણ ટ્રસ્ટમાં કેવી રીતે સામેલ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/champat-rai-will-remain-a-trustee-for-life-even-after-resigning-this-rule-of-ram-mandir-trust-will-blow-your-mind-483518 ",
+    "time": "2026-07-03T17:56:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IPO ખુલતા પહેલા જ ગ્રે માર્કેટમાં ધૂમ! મળશે 4620 સુધીનો જબરદસ્ત નફો, જાણો ક્યારે ખુલશે?",
+    "desc": "જો તમે IPO રોકાણમાં રોકાણની તક શોધી રહ્યા છો, તો આ કંપનીનો IPO સારૂ રિટર્ન આપી શકે છે. આ 650 કરોડ રૂપિયાનો ઇશ્યૂ રોકાણકારો માટે 8 જુલાઈના રોજ ખુલશે. નોંધપાત્ર રીતે, સબ્સ્ક્રિપ્શન શરૂ થાય તે પહેલાં જ કંપનીનો IPO ગ્રે માર્કેટમાં મજબૂત પ્રદર્શન કરી રહ્યો છે, અને વર્તમાન GMP સંભવિત મજબૂત લિસ્ટિંગ લાભ સૂચવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/there-will-be-a-boom-in-the-gray-market-even-before-the-ipo-opens-you-will-get-huge-profits-of-up-to-4620-know-when-it-will-open-483516 ",
+    "time": "2026-07-03T16:51:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બીજી T20માં પણ વૈભવ સૂર્યવંશીને નહીં મળે તક, બોલિંગ કોચ મોર્કલે કરી દીધું સ્પષ્ટ; જાણો અભિષેક સાથે કોણ કરશે ઓપનિંગ",
+    "desc": "4 જુલાઈના રોજ ભારત અને ઈંગ્લેન્ડ વચ્ચે રમાનારી બીજી T20 આંતરરાષ્ટ્રીય મેચમાં પણ વૈભવ સૂર્યવંશીને તક નહીં મળે. ભારતીય ટીમના બોલિંગ કોચ મોર્ને મોર્કલે સ્પષ્ટ સંકેત આપ્યા છે કે, ટીમ સંજુ સેમસન અને અભિષેક શર્માની ઓપનિંગ જોડી સાથે જ મેદાનમાં ઉતરશે. બેટિંગ ઓર્ડરમાં પણ કોઈ બદલાવ કરવામાં આવશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-will-not-get-a-chance-in-the-second-t20-as-well-bowling-coach-morkel-made-it-clear-know-who-will-open-with-abhishek-483515 ",
+    "time": "2026-07-03T16:48:48.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ફૂટવા જઈ રહ્યો છે AIનો ફુગ્ગો? શેરબજારને લઈને RBIએ આપી મોટી ચેતવણી",
     "desc": "ભારતીય રિઝર્વ બેંકે AI શેરો અંગે એક મોટી ચેતવણી જાહેર કરી છે. તેમનું કહેવું છે કે વૈશ્વિક બજારમાં વ્યાપક તેજીને બદલે, ફક્ત AI અને સંબંધિત શેરોમાં વધારો જોવા મળ્યો છે, જેના કારણે મોટી અસ્થિરતા જોવા મળી છે.",
@@ -379,15 +406,6 @@ const newsData_gu = [
   },
   {
     "cat": "Sports",
-    "title": "ફિફા બાદ હવે બુંદેશલીગા! ભારતમાં ફૂટબોલ ક્રાંતિ માટે Zee Entertainment અને જર્મન ફૂટબોલ લીગ વચ્ચે 5 વર્ષનો એક્સક્લુઝિવ કરાર",
-    "desc": "દેશની અગ્રણી કંપની ZEEL પોતાના સ્પોર્ટ્સ પોર્ટફોલિયોનો સતત વિસ્તાર કરી રહી છે. ફુટબોલ વિશ્વકપ બાદ હવે કંપનીએ જર્મનીની પ્રસિદ્ધ ફુટબોલ લીગ બુંદેશલીગાના રાઇટ્સ મેળવ્યા છે. હવે આગામી સમયમાં લીગની મેચો ભારતીય દર્શકો Zee 5 અને Unite8 Sports પર નિહાળી શકશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/zee-secures-exclusive-broadcast-and-digital-rights-for-bundesliga-in-india-for-5-years-483295 ",
-    "time": "2026-07-01T13:12:23.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "આજની મેચ પર એક જ સવાલ સૂર્યવંશી રમશે કે નહીં ? શું ટીમ મેનેજમેન્ટને છોડવી પડશે જીદ ? જાણો કેવી હશે પ્લેઈંગ-11",
     "desc": "આયર્લેન્ડ સામે 2-0થી હાર બાદ ટીમ ઈન્ડિયા ઇંગ્લેન્ડ સામે પાંચ મેચની T20 શ્રેણીમાં નવી શરૂઆત કરવા માટે પ્રયત્ન કરશે. સૌથી મોટો પ્રશ્ન વૈભવ સૂર્યવંશીના ડેબ્યૂને લઈને છે. કેપ્ટન શ્રેયસ ઐયરની આગેવાની હેઠળની ટીમને તેની બેટિંગ સુધારવાનું દબાણ છે, જ્યારે ઇંગ્લેન્ડ એક મજબૂત અને સંતુલિત ટીમ સાથે મેદાનમાં ઉતરશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -403,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/avoid-tax-notices-10-major-income-tax-changes-to-remember-while-filing-your-itr-483290 ",
     "time": "2026-07-01T11:20:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સિયા કેતનના 36માંથી 27 ગુણ મળ્યા હતા, આદર્શ લગ્ન જીવનનો હતો દાવો, છતાં આટલો દર્દનાક અંત?",
-    "desc": "પુનાના કેતન અગ્રવાલ હત્યા કેસમાં હવે એક વાત એ સામે આવી છે કે કેતન અને સિયાની જ્યારે કુંડળી મેચ કરવામાં આવી તો 36માંથી 27 ગુણ મળતા હતા. જેને વૈદિક જ્યોતિષમાં ખુબ સારું ગણવામાં આવે છે. ત્યારે આ ગુણ મળવા એ ખરેખર લગન જીવનની સફળતાની ગેરંટી છે? કેતન હત્યાકાંડ બાદ હવે આ સવાલ પણ ઊભો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/siya-and-ketan-horoscope-27-gun-out-of-36-matched-then-why-tragically-ended-483283 ",
-    "time": "2026-07-01T10:07:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -475,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-are-trains-not-running-in-rich-countries-like-kuwait-qatar-and-bahrain-this-is-the-real-reason-483211 ",
     "time": "2026-06-30T17:37:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારે PNB, SBI અને કેનેરા બેંકના મર્જરને આપી મંજૂરી ? શું તમારું પણ આ બેંકમાં છે ખાતું ? જાણો શું છે હકીકત",
-    "desc": "હાલમાં સોશિયલ મીડિયા પર એવા અહેવાલો વાયરલ થઈ રહ્યા છે, જેમાં દાવો કરવામાં આવી રહ્યો છે કે ત્રણ મોટી બેંકોનું મર્જર થવાનું છે. શું ખરેખર આ સાચું છે ? જો તમારું આમાંથી કોઈપણ બેંકમાં ખાતું છે, તો આ સમાચાર તમારા માટે વાંચવા જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/fact-check-pnb-sbi-and-canara-bank-merger-news-know-what-is-the-truth-483205 ",
-    "time": "2026-06-30T14:48:45.000Z"
   },
   {
     "cat": "Tech",
