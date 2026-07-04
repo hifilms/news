@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi breaks Sachin Tendulkar's legendary record, with international debut vs England",
+    "desc": "India and England are taking on each other in the second T20I of the ongoing series. The two sides clash at Old Trafford in Manchester on July 4th, and ahead of the game, one of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-sachin-tendulkar-s-legendary-record-with-international-debut-vs-england-2026-07-04-1047133",
+    "time": "2026-07-04T13:00:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India opt to bat first in Manchester, Vaibhav Sooryavanshi makes debut",
+    "desc": "India and England continue their ongoing five-game T20I series by taking on each other in the second T20I. The two sides are meeting at Old Trafford in Manchester, and both sides will hope to put...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-2nd-t20i-live-cricket-score-india-locks-horns-with-england-in-manchester-1047132",
+    "time": "2026-07-04T12:44:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer opens up on Vaibhav Sooryavanshi's potential inclusion ahead of second England T20I",
+    "desc": "India and England are all set to take on each other in the second T20I of the ongoing series. The two sides will meet at Old Trafford in Manchester on July 4th, and both sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-vaibhav-sooryavanshi-s-potential-inclusion-ahead-of-second-england-t20i-2026-07-04-1047129",
+    "time": "2026-07-04T11:52:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will weather in Manchester fare for the second T20I of the series?",
     "desc": "India and England will continue their ongoing T20I series by taking on each other in the second T20I. The two sides will meet at Old Trafford in Manchester on July 4th. Both sides will be...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-needs-one-wicket-in-second-t20i-vs-england-to-create-history-for-india-in-t20is-2026-07-04-1047071",
     "time": "2026-07-03T20:32:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Vaibhav Sooryavanshi play 2nd T20I vs England? Bowling coach Morne Morkel indicates",
-    "desc": "On the eve of the second T20I against England at Old Trafford, India bowling coach Morne Morkel has ruled out any immediate rethink at the top of the batting order. He assured that the team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-vaibhav-sooryavanshi-play-2nd-t20i-vs-england-bowling-coach-morne-morkel-indicates-2026-07-04-1047069",
-    "time": "2026-07-03T19:19:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe announce 15-member squad for Bangladesh ODIs, Innocent Kaia returns after 2.5 years",
-    "desc": "Zimbabwe have recalled Innocent Kaia to their ODI squad for the upcoming three-match home series against Bangladesh. The 33-year-old was rewarded for his impressive run of form across formats in domestic cricket. Apart from him,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-announce-15-member-squad-for-bangladesh-odis-innocent-kaia-returns-after-2-5-years-2026-07-03-1047068",
-    "time": "2026-07-03T18:00:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic calls out Roger Federer for one last match after equalling his Wimbledon record",
-    "desc": "Novak Djokovic booked his place in the fourth round of Wimbledon after defeating Arthur Rinderknech 7-5, 6-4, 1-6, 7-6(4) on Friday, July 3. The result also saw the Serbian equal legendary Roger Federer's record of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-calls-out-roger-federer-for-one-last-match-after-equalling-his-wimbledon-record-2026-07-03-1047065",
-    "time": "2026-07-03T17:19:51.000Z"
   }
 ];
