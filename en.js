@@ -1,6 +1,141 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Monsoon session from July 20, govt hopes to push key bills in Parliament",
+    "desc": "The government aims to reintroduce its ambitious women's reservation bill in the upcoming monsoon session after a previous defeat. Speaker Om Birla's decision on defecting MPs could bolster the ruling alliance's numbers. Discussions are also expected on potential changes to the bill to address concerns from southern states, alongside a proposal for automatic removal of leaders facing serious criminal charges.",
+    "img": "https://static.toiimg.com/photo/msid-132187441,imgsize-1202635.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/monsoon-session-from-july-20-govt-hopes-to-push-key-bills-in-parliament/articleshow/132187437.cms",
+    "time": "2026-07-04T21:34:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi",
+    "desc": "Amidst global energy turmoil, India, under PM Modi's leadership, bolstered domestic LPG output and secured diverse crude supplies. Strategic diplomacy and policy interventions successfully shielded citizens from potential shortages and price surges. The inauguration of the HPCL Rajasthan Refinery marks a significant step in India's expanding refining prowess, positioning it as the world's fourth-largest refining nation.",
+    "img": "https://static.toiimg.com/photo/msid-132187425,imgsize-1076192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-bucking-trend-by-adding-refining-capacity-pm-modi/articleshow/132187426.cms",
+    "time": "2026-07-04T21:26:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No engine damage, but mileage drops",
+    "desc": "Vehicle manufacturers are defending the government's mandatory 20% ethanol blending in petrol, assuring the public that no engine damage has been observed. While acknowledging a slight drop in fuel efficiency for older vehicles due to lower calorific value, industry leaders state field experience has been positive. Discussions are ongoing with the government regarding flex-fuel vehicles as a future pathway.",
+    "img": "https://static.toiimg.com/photo/msid-132187413,imgsize-955495.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/carmakers-on-e20-no-engine-damage-but-mileage-drops/articleshow/132187415.cms",
+    "time": "2026-07-04T21:19:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As vehicles get smarter, govt plans to thwart hijackings, roll out software update norms",
+    "desc": "India's road transport ministry is introducing mandatory cybersecurity and software update rules for advanced vehicles. Starting October, new models with Level-3 automation and above will need to comply, followed by existing models and then vehicles with over-the-air update capabilities. This proactive measure addresses the growing threat of cyberattacks on increasingly connected cars, ensuring safer journeys for all.",
+    "img": "https://static.toiimg.com/photo/msid-132187392,imgsize-1079179.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/as-vehicles-get-smarter-govt-plans-to-thwart-hijackings-roll-out-software-update-norms/articleshow/132187390.cms",
+    "time": "2026-07-04T20:51:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MHA tags 17 from Pakistan and 6 Indians 'individual terrorists'",
+    "desc": "India has declared 23 individuals from Pakistan and Pakistan-occupied Kashmir as terrorists, targeting Lashkar-e-Taiba and Jaish operatives. Home Minister Amit Shah stated these individuals are involved in anti-India activities, including terror attacks and recruitment. The designated terrorists are linked to significant attacks like Pathankot and the Rameshwaram Cafe blast, with some also involved in reconnaissance for future strikes. This move underscores the government's firm stance against terrorism.",
+    "img": "https://static.toiimg.com/photo/msid-132187386,imgsize-1040838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mha-tags-17-from-pakistan-and-6-indians-individual-terrorists/articleshow/132187387.cms",
+    "time": "2026-07-04T20:46:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP splitting parties, but won't get 2/3rd majority, says Congress",
+    "desc": "Congress leader Jairam Ramesh has accused the BJP of attempting to split opposition parties ahead of the monsoon session, warning that their true aim is to alter India's Constitution. Despite efforts, Ramesh asserted the ruling party will not achieve the two-thirds majority needed for such a move, citing the 'Ab ki Baar, 400 Paar' slogan's failure. He anticipates bills like delimitation and 'One Nation, One Election' might be introduced.",
+    "img": "https://static.toiimg.com/photo/msid-132187376,imgsize-978404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-splitting-parties-but-wont-get-2/3rd-majority-says-congress/articleshow/132187377.cms",
+    "time": "2026-07-04T20:38:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Ex-CFO of RCap, Amit Bapna, held in connection with ADAG probe",
+    "desc": "The Central Bureau of Investigation (CBI) has apprehended Amit Bapna, former CFO of Reliance Capital Ltd, as part of its probe into Reliance ADA Group matters. Authorities allege Bapna, a key financial decision-maker, approved loans to intermediary firms despite knowing it violated RBI guidelines. Funds were reportedly diverted to various Reliance group entities, causing losses to banks and gains for the accused.",
+    "img": "https://static.toiimg.com/photo/msid-132187370,imgsize-909097.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ex-cfo-of-rcap-amit-bapna-held-in-connection-with-adag-probe/articleshow/132187371.cms",
+    "time": "2026-07-04T20:32:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Morocco first to book quarter-final spot with 3-0 win",
+    "desc": "Canada’s FIFA World Cup 2026 run ended with a 3-0 Round of 16 defeat to Morocco in Houston. Despite strong early pressure, more corners and chances, Canada failed to convert. Morocco weathered the storm, then struck clinically after halftime through Azzedine Ounahi’s brace and Soufiane Rahimi’s stoppage-time goal, securing a quarter-final place with efficient counterattacking and solid game management progress",
+    "img": "https://static.toiimg.com/photo/msid-132187318,imgsize-203316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/canada-vs-morocco-fifa-world-cup-match-result-morocco-first-to-book-quarter-final-spot-with-3-0-win/articleshow/132187107.cms",
+    "time": "2026-07-04T20:15:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two DMK MLAs were offered Ministry post, money to join TVK, alleges R.S. Bharathi",
+    "desc": "A delegation from the DMK met Governor Rajendra Viswanath Arlekar and submitted a memorandum seeking action into allegations of ‘horse-trading’ by the ruling party and over the alleged participation of two private individuals in a Cabinet meeting",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/two-dmk-mlas-were-offered-ministry-post-money-to-join-tvk-alleges-rs-bharathi/article71183889.ece",
+    "time": "2026-07-04T19:39:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Karz' actor Raj Kiran disappeared from Bollywood, Rishi Kapoor was relieved to find he was alive",
+    "desc": "Bollywood actor Raj Kiran, known for 'Karz' and 'Arth', has been missing for over two decades, leaving his family in a desperate search. After a career slowdown and a controversial arrest in 1996, Raj reportedly battled depression and moved to the US. Communication ceased in 2003, and despite past unconfirmed reports of institutionalization, his family continues to hope for his return, acknowledging his past mental health struggles.",
+    "img": "https://static.toiimg.com/photo/msid-132187194,imgsize-142152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karz-arth-actor-raj-kiran-disappeared-from-bollywood-for-years-rishi-kapoor-said-he-was-relieved-to-learn-the-actor-was-alive-in-an-atlanta-mental-health-facility/articleshow/132187131.cms",
+    "time": "2026-07-04T19:36:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "12k pilgrims visit Amarnath; 3rd batch of 4.8k leave for ice Shivling darshan",
+    "desc": "Thousands of pilgrims are continuing their journey to the sacred Shri Amarnath cave shrine. On Saturday, the third batch of 4,812 devotees departed from Jammu's Yatri Niwas base camp. This follows a successful opening day where over 12,000 pilgrims offered prayers. The administration has made advance registration compulsory, and helicopter services are unavailable due to the no-fly zone declaration along the pilgrimage route.",
+    "img": "https://static.toiimg.com/photo/msid-132187128,imgsize-1494864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/12k-pilgrims-visit-amarnath-3rd-batch-of-4-8k-leave-for-ice-shivling-darshan/articleshow/132187116.cms",
+    "time": "2026-07-04T19:29:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Stevie Nicks performs at Taylor Swift's wedding",
+    "desc": "Music icon Stevie Nicks graced Taylor Swift and Travis Kelce's July 3, 2026, Madison Square Garden wedding with a performance, adding another legendary moment to the star-studded event. Roberts confirmed Nicks' appearance, though song details remain private. Swift has previously lauded Nicks as a significant inspiration, highlighting her wisdom and trailblazing career. The intimate ceremony, officiated by Adam Sandler, saw numerous Hollywood A-listers in attendance.",
+    "img": "https://static.toiimg.com/photo/msid-132187064,imgsize-252215.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-travis-kelces-wedding-stevie-nicks-performs-at-dream-nuptials-in-madison-square-garden/articleshow/132187073.cms",
+    "time": "2026-07-04T19:17:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIADMK complains to Arlekar over ‘inaction’ on its petitions on ‘horse trading’",
+    "desc": "Speaking to reports after meeting Arlekar, the party’s agricultural wing secretary and whip in the Assembly ‘Agri’ S.S. Krishnamurthy said there was no follow up to his party’s memorandum given to Assembly Speaker J.C.D. Prabhakar",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-complains-to-arlekar-over-inaction-on-its-petitions-on-horse-trading/article71183271.ece",
+    "time": "2026-07-04T19:05:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Chunky Panday took advantage of Salman Khan, Akshay shared hilariously",
+    "desc": "Chunky Pandey reportedly leveraged Salman Khan's star power during a South African tour, turning a shopping trip into a lucrative deal. Akshay Kumar recounted how Pandey allegedly charged a store owner $20,000 to bring Salman in, capitalizing on the superstar's presence for publicity. Salman later discovered this clever business move orchestrated by Pandey.",
+    "img": "https://static.toiimg.com/photo/msid-132186958,imgsize-215380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-chunky-panday-took-advantage-of-salman-khan-akshay-kumar-recalled-hilarious-incident/articleshow/132186853.cms",
+    "time": "2026-07-04T19:04:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AAI withdraws Srinagar airport closure for repairs, Omar Abdullah thanks govt",
+    "desc": "Srinagar airport's planned Monday-Tuesday closures and a full shutdown from October 1-16 have been withdrawn by AAI. The Indian Air Force had proposed these closures for runway repairs. Chief Minister Omar Abdullah expressed gratitude for the government's prompt response, highlighting the importance of uninterrupted air connectivity for tourism and the region's economy, especially during peak holiday seasons.",
+    "img": "https://static.toiimg.com/photo/msid-132186879,imgsize-913980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/aai-withdraws-srinagar-airport-closure-for-repairs-omar-abdullah-thanks-govt/articleshow/132186890.cms",
+    "time": "2026-07-04T18:56:58.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "PoK 'infiltrator' saved by love, sent back home",
     "desc": "A young man from Pakistan-occupied Kashmir, Zeeshan Mir, was repatriated home after crossing the Line of Control to meet his beloved, Iram Bano. Initially detained, Mir was eventually acquitted by an Uri court, which recognized his act as a desperate attempt of love rather than infiltration. The couple, whose families are related across the border, shared a brief meeting before Mir's handover, with both families hoping for their union.",
     "img": "https://static.toiimg.com/photo/msid-132186715,imgsize-813589.cms",
@@ -63,6 +198,15 @@ const newsData_en = [
     "time": "2026-07-04T17:55:21.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Is ‘Enola Holmes 3’ based on a real story?",
+    "desc": "Enola Holmes' latest adventure plunges into 19th-century Malta, unravelling colonial secrets after Sherlock's abduction. While fictionalised, the film draws inspiration from historical events like the Anglo-Afghan Wars. Writer Jack Thorne opted for a fictional approach to avoid causing hurt regarding British imperial actions. The series also highlights diverse representation, with Himesh Patel portraying an Indian Watson grappling with his father's loyalty to the British Raj.",
+    "img": "https://static.toiimg.com/photo/msid-132185276,imgsize-460130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/is-enola-holmes-3-based-on-a-real-story-heres-what-the-franchise-writer-has-to-say/articleshow/132185300.cms",
+    "time": "2026-07-04T17:45:47.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Mamata hits out at Trinamool rebels, dares them to join BJP",
     "desc": "The former West Bengal Chief Minister, broke her weeks-long silence when her party had split with a majority of MLAs and MPs deciding to switch their loyalties after the defeat in the Assembly polls; accuses the rebels of betraying the party after winning on the party symbol",
@@ -70,6 +214,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/mamata-hits-out-at-trinamool-rebels-dares-them-to-join-bjp/article71183544.ece",
     "time": "2026-07-04T17:41:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Aung San Suu Kyi",
+    "desc": "The junta, which has made some territorial gains in the civil war and held a farcical election to legitimise its coup, seeks international recognition, but it lacks what the NLD leader, now under house arrest, has always symbolised — popular support",
+    "img": "https://th-i.thgim.com/public/news/national/mp9t8p/article71183712.ece/alternates/LANDSCAPE_1200/aung%20san%20suu%20kyi_Art_print.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/aung-san-suu-kyi-a-symbol-of-resistance/article71183720.ece",
+    "time": "2026-07-04T17:36:46.000Z"
   },
   {
     "cat": "Politics",
@@ -106,6 +259,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-must-be-respected-each-of-his-wives-so-much-for-them-to-be-comfortable-about-him-moving-on-says-farah-khan-ali-about-his-equation-with-reena-dutta-kiran-rao-ahead-of-his-wedding-with-gauri-spratt/articleshow/132184159.cms",
     "time": "2026-07-04T16:53:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Taylor Swift's character crashed a wedding",
+    "desc": "Pop superstar Taylor Swift, renowned for her heartfelt songs, reportedly married NFL star Travis Kelce on July 3, 2026, at Madison Square Garden. This event follows her memorable 2013 cameo in 'New Girl,' where she humorously crashed a wedding, confessing her love for the groom and eloping. The star-studded real-life ceremony was officiated by Adam Sandler, with close friends and family in attendance.",
+    "img": "https://static.toiimg.com/photo/msid-132184165,imgsize-196397.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/when-taylor-swifts-character-crashed-a-wedding-and-confessed-love-to-the-groom-oh-shivy-i-have-loved-you-since-the-first-grade/articleshow/132184129.cms",
+    "time": "2026-07-04T16:29:19.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +432,6 @@ const newsData_en = [
     "time": "2026-07-04T13:45:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Academic jihad': BJP seeks ban on J&amp;K textbook 'glorifying terrorists'; LG suspends 8",
-    "desc": "The Lieutenant Governor of Jammu and Kashmir has taken decisive action by suspending officials and initiating an inquiry into school library books deemed to contain 'inappropriate content.' This decision comes after reports surfaced of a book that seemingly glorified terrorists and separatists while promoting a harmful narrative. Consequently, authors and publishers face blacklisting, and the distribution of such publications is being halted across the Union Territory.",
-    "img": "https://static.toiimg.com/photo/msid-132182531,imgsize-79794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/academic-jihad-bjp-seeks-ban-on-jk-textbook-glorifying-terrorists-lg-suspends-8/articleshow/132182504.cms",
-    "time": "2026-07-04T13:36:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre raises onion procurement price by 13% — here's why",
     "desc": "The government has increased its onion procurement price to Rs 2,125 per quintal, a 13% jump, to boost farmer earnings and accelerate buffer stock building. This marks the fifth revision this season amidst sluggish procurement. Despite this, domestic availability remains stable with adequate stocks and steady wholesale arrivals. Speculative buying is noted, but consumer demand is subdued.",
@@ -297,24 +450,6 @@ const newsData_en = [
     "time": "2026-07-04T13:10:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Rahiman dhaga prem ka' – Rahim's timeless lesson on relationships and why trust, once broken, is never the same",
-    "desc": "Centuries-old wisdom from poet Abdul Rahim Khan-i-Khana highlights the fragility of trust in relationships. His famous doha warns against impulsive anger, comparing love to a delicate thread that, once broken, can be mended but will always bear a knot. This timeless advice remains crucial in today's fast-paced digital world, urging us to prioritize patience and understanding to preserve precious bonds.",
-    "img": "https://static.toiimg.com/photo/msid-132176923,imgsize-125086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/proverb-of-the-day-rahiman-dhaga-prem-ka-rahims-timeless-lesson-on-relationships-and-why-trust-once-broken-is-never-the-same/articleshow/132176783.cms",
-    "time": "2026-07-04T13:00:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Join BJP and take on me': Mamata Banerjee challenges TMC 'traitors', takes over as Bengal unit chief",
-    "desc": "Trinamool Congress chief Mamata Banerjee has challenged rebel leaders to join the BJP directly, accusing the saffron party of instigating dissent. She questioned their timing, asking why their grievances weren't raised during their long tenures as TMC representatives. Banerjee emphasized the loyalty of party workers and warned rebels against betraying voters. This comes as Chandrima Bhattacharya, recently appointed state unit chief, joined the dissident faction.",
-    "img": "https://static.toiimg.com/photo/msid-132182179,imgsize-62624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/join-bjp-and-take-on-me-mamata-banerjee-challenges-tmc-traitors-takes-over-as-bengal-unit-chief/articleshow/132182123.cms",
-    "time": "2026-07-04T12:56:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Historic India debut! Vaibhav Sooryavanshi breaks Tendulkar's record",
     "desc": "Teenage prodigy Vaibhav Sooryavanshi etched his name in history by becoming India's youngest-ever international cricketer at 15. His remarkable journey, fueled by a stellar IPL 2026 season where he was the highest scorer and bagged multiple awards, saw him surpass Sachin Tendulkar's debut age record. Sooryavanshi's explosive talent was evident from his U-19 World Cup heroics to his IPL contract at 13 and a record-breaking century.",
@@ -322,24 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/vaibhav-sooryavanshi-creates-history-breaks-sachin-tendulkars-36-year-old-record-ind-vs-eng-1st-t20i/articleshow/132107637.cms",
     "time": "2026-07-04T12:56:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why India is planning Namo Cities—and what they could mean for Delhi-NCR",
-    "desc": "India is embarking on a massive urban transformation, planning to build new cities around high-speed transit to accommodate a projected population surge in the National Capital Region. These \"Namo Cities,\" part of Regional Plan-2041, will be developed as Transit-Oriented Developments, integrating housing, jobs, and services around Namo Bharat RRTS stations.",
-    "img": "https://static.toiimg.com/photo/msid-132180383,imgsize-1540348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-india-is-planning-namo-citiesand-what-they-could-mean-for-delhi-ncr/articleshow/132179701.cms",
-    "time": "2026-07-04T12:55:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi launches major infra projects in Rajasthan; TMC faces another setback",
-    "desc": "Prime Minister Modi inaugurated development projects worth Rs 1.06 lakh crore in Rajasthan, including a new Jodhpur Airport terminal. Meanwhile, TMC leader Chandrima Bhattacharya resigned from all party posts. The Centre designated 23 Pakistan-based operatives as terrorists under UAPA. Raj Thackeray criticized the BJP's 'arrogance with power,' targeting CM Fadnavis. All eyes are on young Vaibhav Sooryavanshi's potential India debut ahead of the 2nd T20I.",
-    "img": "https://static.toiimg.com/photo/msid-132181677,imgsize-874056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-pm-modi-launches-major-infra-projects-in-rajasthan-tmc-faces-another-setback/articleshow/132180249.cms",
-    "time": "2026-07-04T12:37:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -385,33 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ahead-of-his-gharelu-wedding-to-gauri-spratt-aamir-khan-cheers-on-rajkumar-hiranis-son-and-pritam-and-pedro-actor-vir-hirani-he-is-like-my-son-im-so-happy/articleshow/132181056.cms",
     "time": "2026-07-04T12:13:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'BJP taking over our offices across Bengal': Mamata faction's Saugata Roy after rebels 'lock' TMC's Kolkata premises",
-    "desc": "Trinamool Congress MP Saugata Roy accused the BJP of orchestrating a takeover of party offices across West Bengal, following a rebel faction's seizure of the Kolkata headquarters. Roy dismissed the rebel leader's claims, stating the incident reflects a broader BJP strategy to undermine the TMC. He vowed the party would continue its political struggle despite these challenges, emphasizing the ongoing fight for control.",
-    "img": "https://static.toiimg.com/photo/msid-132180886,imgsize-103658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-taking-over-our-offices-across-bengal-mamata-factions-saugata-roy-after-rebels-lock-tmcs-kolkata-premises/articleshow/132180151.cms",
-    "time": "2026-07-04T12:09:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Kal kare so aaj kar, aaj kare so ab'",
-    "desc": "Sant Kabir's timeless wisdom, urging immediate action over delay, resonates powerfully today amidst digital distractions. His famous doha, \"Kal kare so aaj kar, aaj kare so ab,\" highlights life's uncertainty and the risks of procrastination. This ancient advice, far from promoting haste, champions decisive action, reminding us that the present moment is our only guarantee, not a distant, uncertain tomorrow.",
-    "img": "https://static.toiimg.com/photo/msid-132176501,imgsize-90051.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/proverb-of-the-day-kal-kare-so-aaj-kar-aaj-kare-so-ab-a-timeless-lesson-for-the-lazy-by-sant-kabir-and-why-one-should-prioritise-work/articleshow/132176180.cms",
-    "time": "2026-07-04T12:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neymar cleared to play against Haaland's Norway, confirms Carlo Ancelotti",
-    "desc": "Brazil's Neymar is fully fit and available for the World Cup Round of 16 clash against Norway, confirmed coach Carlo Ancelotti. The veteran forward, who has managed only brief appearances due to injury, is capable of playing 90 minutes and remains a vital presence in the squad. This news boosts Brazil's hopes as they aim to overcome Norway for the first time in World Cup history.",
-    "img": "https://static.toiimg.com/photo/msid-132180542,imgsize-16680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/neymar-cleared-to-play-against-erling-haalands-norway-confirms-carlo-ancelotti/articleshow/132180533.cms",
-    "time": "2026-07-04T11:49:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -493,51 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/if-even-a-single-cut-had-been-made-i-would-not-have-promoted-the-film-diljit-dosanjh-breaks-silence-as-arjun-rampal-and-suvinder-vicky-starrer-satluj-hits-ott-after-3-years/articleshow/132179355.cms",
     "time": "2026-07-04T10:21:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Vijay starrer 'Jana Nayagan' receive an 'A' with 13 cuts?",
-    "desc": "A fabricated censor certificate for Vijay's upcoming film 'Jana Nayagan' has been circulating online, falsely claiming an 'A' rating with 13 cuts. This doctored image, reportedly edited from Vijay's 'Leo' certificate, has caused confusion among fans regarding the movie's runtime and censorship status. Makers have yet to release official details, with an announcement anticipated soon.",
-    "img": "https://static.toiimg.com/photo/msid-132179234,imgsize-72488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/fact-check-did-vijay-starrer-jana-nayagan-receive-an-a-with-13-cuts-as-a-censor-certificate-goes-viral-on-social-media/articleshow/132179210.cms",
-    "time": "2026-07-04T10:09:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gigi Hadid spotted attending Taylor-Travis wedding in all pink",
-    "desc": "Gigi Hadid turned heads in a dazzling pink gown at the highly anticipated wedding of Taylor Swift and Travis Kelce. The supermodel, reportedly a bridesmaid, arrived at Madison Square Garden in a stunning sequined creation. The couple, who kept their engagement private, celebrated their union over a two-day event, with guests like Dakota Johnson and Bradley Cooper also in attendance. Details of the ceremony remain exclusive.",
-    "img": "https://static.toiimg.com/photo/msid-132179005,imgsize-97530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/gigi-hadid-stuns-in-sparkling-all-pink-vintage-gown-for-bridesmaid-duties-at-taylor-swift-and-travis-kelces-madison-square-garden-wedding/articleshow/132178642.cms",
-    "time": "2026-07-04T09:53:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Latest Tamil, Telugu, Malayalam, Kannada OTT releases (July 3",
-    "desc": "A good mix of courtroom drama, family comedy, frontier survival, and documentary horror this week across Hindi, Tamil, and English. Here is your full guide to what is dropping and why it is worth your time.",
-    "img": "https://static.toiimg.com/photo/msid-132178742,imgsize-93994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/latest-tamil-telugu-malayalam-kannada-ott-releases-july-3-july-10-ikka-to-little-house-on-the-prairie-new-movies-and-shows-on-netflix-and-prime-video/photostory/132178742.cms",
-    "time": "2026-07-04T09:49:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Gatta Kusthi 2' cast salaries",
-    "desc": "Following its successful run, 'Gatta Kusthi 2' has fans buzzing about cast salaries. Lead actor Vishnu Vishal reportedly opted for profit-sharing instead of a fixed fee, while Aishwarya Lekshmi earned between Rs 50 lakh and Rs 90 lakh. Supporting stars like Karunas and Yogi Babu also commanded significant pay, with veteran Ramya Krishnan charging up to Rs 1 crore for her impactful cameo.",
-    "img": "https://static.toiimg.com/photo/msid-132178680,imgsize-210016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gatta-kusthi-2-cast-salaries-from-vishnu-vishals-profit-sharing-to-aishwarya-lekshmi-and-yogi-babus-daily-fees-remuneration-revealed/articleshow/132178670.cms",
-    "time": "2026-07-04T09:43:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay and Priyadarshan lock title for ninth film",
-    "desc": "Akshay Kumar and Priyadarshan's ninth film together has been titled 'Wicked Sunny', inspired by a popular theme from Mujhse Shaadi Karogi. Produced by Ramesh Taurani's Tips Films, the comic thriller is written by Priyadarshan and Rohan Shankar. Filming begins in December, ahead of their eighth film Haiwaan's September 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-132178662,imgsize-266204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/wicked-sunny-akshay-kumar-and-priyadarshan-lock-title-for-their-ninth-film-after-bhooth-bangla-and-haiwaan/articleshow/132178662.cms",
-    "time": "2026-07-04T09:40:30.000Z"
   },
   {
     "cat": "World",
@@ -748,15 +793,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "PM Modi shares glimpse of new Jodhpur airport ahead of inauguration",
-    "desc": "Prime Minister Narendra Modi inaugurated the new Jodhpur airport terminal, a significant boost for tourism and connectivity, blending modern design with Rajasthani heritage. He also launched the Modified UDAN scheme from Jodhpur, aiming to enhance regional air connectivity nationwide by developing 100 aerodromes and supporting airline operations. This infrastructure push is set to invigorate commerce and travel in the region.",
-    "img": "https://static.toiimg.com/photo/msid-132165355,imgsize-961895.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-shares-glimpse-of-new-jodhpur-airport-ahead-of-inauguration-highlights-tourism-push-see-pics/articleshow/132164142.cms",
-    "time": "2026-07-03T15:21:59.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Stock markets take winning run to third day; Sensex climbs 262 points",
     "desc": "From the Sensex pack, HCL Tech surged 5.79%, followed by Tech Mahindra which climbed 1.81%. Bharti Airtel, Sun Pharma, Bajaj Finserv, UltraTech Cement, Tata Steel Bajaj Finance, Tata Consultancy Services, and ICICI Bank were also among the winners.",
     "img": "https://th-i.thgim.com/public/incoming/uqezy9/article71178477.ece/alternates/LANDSCAPE_1200/India_Financial_Markets_94744.jpg",
@@ -828,15 +864,6 @@ const newsData_en = [
     "time": "2026-07-02T08:09:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "A look at his career records in numbers",
-    "desc": "Fifteen-year-old Vaibhav Sooryavanshi has shattered Sachin Tendulkar's record, becoming India's youngest international debutant. His meteoric rise includes a first-class debut at 12, rewriting IPL history with multiple records, and stellar performances for India U19 and India A. Sooryavanshi's career is a testament to his prodigious talent, marked by numerous accolades and record-breaking feats at an astonishingly young age.",
-    "img": "https://static.toiimg.com/photo/msid-132110182,imgsize-72602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/vaibhav-sooryavanshi-makes-india-debut-a-look-at-his-career-records-in-numbers/articleshow/132110035.cms",
-    "time": "2026-07-01T08:27:50.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Government issues warning for these Android smartphone and tablet users",
     "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];

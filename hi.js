@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Aurelien Tchouameni not playing in France vs Paraguay clash in FIFA World Cup 2026?",
+    "desc": "France are without one of their most influential midfielders as Aurelien Tchouameni has been left out of the starting XI for FIFA World Cup 2026 Round of 16 clash against Paraguay. The Real Madrid star...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-aurelien-tchouameni-not-playing-in-france-vs-paraguay-clash-in-fifa-world-cup-2026-2026-07-05-1047157",
+    "time": "2026-07-04T20:43:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Paraguay manage to hold France to 0-0 at half-time",
+    "desc": "France enter their FIFA World Cup 2026 Round of 16 meeting with Paraguay carrying the weight of expectations to maintain their momentum. Didier Deschamps' side have looked balanced across the pitch, combining defensive solidity with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fra-vs-par-fifa-world-cup-live-france-vs-paraguay-score-tactical-analysis-minute-by-minute-commentary-goals-1047156",
+    "time": "2026-07-04T20:27:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer pinpoints reason behind India's defeat to England in second T20I in Manchester",
+    "desc": "England defeated India by four wickets in the second T20I at Old Trafford in Manchester. The Shreyas Iyer-led side was in complete control for long stretches of the game, but a dramatic late surge from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-pinpoints-reason-behind-india-s-defeat-to-england-in-second-t20i-in-manchester-2026-07-05-1047155",
+    "time": "2026-07-04T20:04:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Morocco storm into FIFA World Cup 2026 quarterfinals with commanding win over Canada, who will they play next?",
+    "desc": "Morocco booked their place in the FIFA World Cup 2026 quarterfinals with a clinical 3-0 victory over Canada in Houston. The Achraf Hakimi side overcame a difficult first half before striking decisively after the interval...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/morocco-storm-into-fifa-world-cup-2026-quarterfinals-with-commanding-win-over-canada-who-will-they-play-next-2026-07-05-1047154",
+    "time": "2026-07-04T19:23:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Serena Williams announces decision to withdraw from doubles action at Wimbledon 2026, explains reason",
     "desc": "Legendary Tennis star Serena Williams has confirmed that she will not compete in the Wimbledon women's doubles event. Explaining the reason for her withdrawal, the 44-year-old highlighted her knee injury, which ended plans for a...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-becomes-first-indian-spinner-to-register-phenomenal-record-in-second-t20i-vs-england-2026-07-04-1047144",
     "time": "2026-07-04T16:17:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi departs early on international debut; Will Jacks gets prized wicket",
-    "desc": "The second T20I of the ongoing series between India and England quickly became one of the most talked-about moments in world cricket as 15-year-old Vaibhav Sooryavanshi was included in India’s lineup for the game, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-departs-early-on-international-debut-will-jacks-gets-prized-wicket-2026-07-04-1047140",
-    "time": "2026-07-04T14:38:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi breaks Sachin Tendulkar's legendary record, with international debut vs England",
-    "desc": "India and England are taking on each other in the second T20I of the ongoing series. The two sides clash at Old Trafford in Manchester on July 4th, and ahead of the game, one of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-sachin-tendulkar-s-legendary-record-with-international-debut-vs-england-2026-07-04-1047133",
-    "time": "2026-07-04T13:00:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jacob Bethell helps England take lead in the series",
-    "desc": "India and England continue their ongoing five-game T20I series by taking on each other in the second T20I. The two sides are meeting at Old Trafford in Manchester, and both sides will hope to put...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-2nd-t20i-live-cricket-score-india-locks-horns-with-england-in-manchester-1047132",
-    "time": "2026-07-04T12:44:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on Vaibhav Sooryavanshi's potential inclusion ahead of second England T20I",
-    "desc": "India and England are all set to take on each other in the second T20I of the ongoing series. The two sides will meet at Old Trafford in Manchester on July 4th, and both sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-vaibhav-sooryavanshi-s-potential-inclusion-ahead-of-second-england-t20i-2026-07-04-1047129",
-    "time": "2026-07-04T11:52:35.000Z"
   }
 ];
