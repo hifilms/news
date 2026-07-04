@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will weather in Manchester fare for the second T20I of the series?",
+    "desc": "India and England will continue their ongoing T20I series by taking on each other in the second T20I. The two sides will meet at Old Trafford in Manchester on July 4th. Both sides will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-weather-report-how-will-weather-in-manchester-fare-for-the-second-t20i-of-the-series-2026-07-04-1047118",
+    "time": "2026-07-04T10:41:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will the surface at Old Trafford in Manchester play for the 2nd T20I?",
+    "desc": "The stage is set for the second T20I of the ongoing series between India and England. The two sides will meet at Old Trafford in Manchester on July 4th, and both sides will hope to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-pitch-report-how-will-the-surface-at-old-trafford-in-manchester-play-for-the-2nd-t20i-2026-07-04-1047111",
+    "time": "2026-07-04T09:25:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Argentina survive Cabo Verde scare in 3-2 extra-time thriller to reach World Cup Round of 16",
     "desc": "Argentina advanced to the FIFA World Cup 2026 Round of 16 after a dramatic 3-2 extra-time victory over debutants Cabo Verde in a pulsating Round of 32 clash at Miami Stadium on the morning of...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-calls-out-roger-federer-for-one-last-match-after-equalling-his-wimbledon-record-2026-07-03-1047065",
     "time": "2026-07-03T17:19:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes bids emotional goodbye on social media after sudden decision of international retirement",
-    "desc": "On Day 4 of the third Test against New Zealand, former England captain Ben Stokes announced his decision to retire from international cricket after the completion of the series. During his 15-year career with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-bids-emotional-goodbye-on-social-media-after-sudden-decision-of-international-retirement-2026-07-03-1047063",
-    "time": "2026-07-03T16:48:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jacob Bethell expected to open as England reveal squad for ODI series against India",
-    "desc": "The ECB (England and Wales Cricket Board) has come forward and revealed England’s ODI squad for the upcoming home series against the Indian team. It is worth noting that India and England are taking on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-expected-to-open-as-england-reveal-squad-for-india-series-2026-07-03-1047057",
-    "time": "2026-07-03T14:53:34.000Z"
   }
 ];
