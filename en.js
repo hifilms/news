@@ -1,21 +1,246 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Adani-MSC deal: State govt. cautious as APSEZ clarifies stance in second letter",
+    "desc": "It remains unclear whether the mortgage rights over the port site and its assets granted to the AVPPL for the concession period will be applicable to the new partner, MSC. APSEZ tells State govt. that would MSC will not enjoy a monopoly at the port will be accessible to all users without discrimination",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/adani-msc-deal-state-govt-cautious-as-apsez-clarifies-stance-in-second-letter/article71183242.ece",
+    "time": "2026-07-04T15:50:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-UK trade pact: Centre notifies rules for determination of origin of goods",
+    "desc": "India's Finance Ministry has finalized rules for goods eligible for benefits under the India-UK trade pact, set to begin July 15. This Comprehensive Economic and Trade Agreement (CETA) will grant duty-free access to 99% of Indian exports, boosting sectors like textiles and engineering. Exporters must now provide a certificate of origin to claim these tariff advantages, ensuring the pact's integrity and preventing misuse.",
+    "img": "https://static.toiimg.com/photo/msid-132183664,imgsize-182932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-uk-trade-pact-centre-notifies-rules-for-determination-of-origin-of-goods/articleshow/132183607.cms",
+    "time": "2026-07-04T15:48:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Criticism is welcome, rumours are not': Puri on E20 fuel buzz, engine damage claims",
+    "desc": "Union Minister Hardeep Singh Puri has addressed social media concerns regarding ethanol-blended fuel, dismissing claims of pest attraction and engine damage. He emphasized that ethanol usage is a century-old concept and highlighted past government efforts. Recent tests by ARAI and OEMs indicate a minor drop in fuel efficiency with E20, while Toyota clarified a specific vehicle issue was due to fuel contamination, not ethanol.",
+    "img": "https://static.toiimg.com/photo/msid-132183543,imgsize-52124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/criticism-is-welcome-rumours-are-not-puri-on-e20-fuel-buzz-engine-damage-claims/articleshow/132183548.cms",
+    "time": "2026-07-04T15:29:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Industry wasn't invited to Abhishek-Aishwarya's wedding so they came for my shoot,' joked Farah",
+    "desc": "Farah Khan's 'Deewangi Deewangi' song in 'Om Shanti Om' united 31 Bollywood stars, creating a memorable ensemble. Amitabh Bachchan missed it due to Abhishek and Aishwarya's wedding, while Aamir Khan cited film editing. Despite challenges like Fardeen Khan's arrest and Govinda's tardiness, the shoot saw spontaneous moments and strong camaraderie, with stars like Rekha showcasing exceptional professionalism.",
+    "img": "https://static.toiimg.com/photo/msid-132183506,imgsize-422190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-industry-wasnt-invited-to-abhishek-bachchan-aishwarya-rais-wedding-so-they-came-for-om-shanti-om-shoot-farah-khan-joked-revealed-why-amitabh-bachchan-wasnt-a-part-of-deewangi-deewangi/articleshow/132183470.cms",
+    "time": "2026-07-04T15:20:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi welcomes Archer with a stunning six on India debut",
+    "desc": "Vaibhav Sooryavanshi etched his name in history, becoming India's youngest T20I player at just 15. Opening the innings, the young sensation showcased his aggressive style with two impressive sixes against England. Despite a brief stay, his fearless 14 off 10 deliveries offered a tantalizing glimpse of his immense potential, leaving fans eager for more.",
+    "img": "https://static.toiimg.com/photo/msid-132183382,imgsize-1277306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/watch-vaibhav-sooryavanshi-welcomes-jofra-archer-with-a-stunning-six-on-india-debut/articleshow/132183318.cms",
+    "time": "2026-07-04T15:03:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala temple’s noble act gives everyone a resting place",
+    "desc": "A public graveyard owned by the Sree Periyattappan Mahadeva Temple at Cheruthoni in the State’s Idukki district serves as a model for religious unity, as it holds over 200 graves belonging to people from various religious communities",
+    "img": "https://th-i.thgim.com/public/incoming/rmiw2g/article71183224.ece/alternates/LANDSCAPE_1200/80759_4_7_2026_18_9_16_1_GRAVEYARD.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/a-final-journey-together-kerala-temples-noble-act-gives-everyone-a-resting-place/article71183188.ece",
+    "time": "2026-07-04T15:00:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Sought by MPs across party lines': Speaker Om Birla says report on Justice Yashwant Varma to be tabled in Monsoon Session",
+    "desc": "Lok Sabha Speaker Om Birla announced that the probe committee's report on Justice Yashwant Varma will be presented during the upcoming Monsoon Session, following requests from MPs across parties. Justice Varma resigned in April after facing impeachment proceedings due to the recovery of burnt currency notes from his residence. The report's tabling marks a significant step in the ongoing process.",
+    "img": "https://static.toiimg.com/photo/msid-132183347,imgsize-882097.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sought-by-mps-across-party-lines-sabha-speaker-om-birla-says-report-on-justice-yashwant-varma-to-be-tabled-in-monsoon-session/articleshow/132183052.cms",
+    "time": "2026-07-04T14:57:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'How long will govt ignore our voices': Dipke writes to PM Modi as protest enters Day 15",
+    "desc": "Cockroach Janta Party founder Abhijeet Dipke has written to Prime Minister Narendra Modi, demanding he address education activist Sonam Wangchuk's hunger strike and the resignation of Union Education Minister Dharmendra Pradhan over alleged exam irregularities. The protest, now in its 15th day, highlights concerns over repeated exam leaks and student suicides, with Dipke criticizing the government's silence and alleged mistreatment of protesters.",
+    "img": "https://static.toiimg.com/photo/msid-132183004,imgsize-116152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/how-long-will-govt-ignore-our-voices-dipke-writes-to-pm-modi-as-protest-enters-day-15/articleshow/132182800.cms",
+    "time": "2026-07-04T14:55:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Don't make me feel less'",
+    "desc": "Kriti Sanon candidly shared her experiences with gender bias in Bollywood, noting how women are judged more critically for actions often praised in male stars. She highlighted subtle differences in treatment on sets, from questioning to daily arrangements, making female actors feel less valued. Despite industry evolution, deep-rooted biases persist, impacting how women's involvement is perceived.",
+    "img": "https://static.toiimg.com/photo/msid-132183324,imgsize-206129.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-calls-out-the-gender-bias-in-the-film-industry-not-bothered-even-if-i-get-a-smaller-room-or-car-but-dont-make-me-feel-less/articleshow/132183172.cms",
+    "time": "2026-07-04T14:52:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Health activists seek revision of India’s essential medicines list to ensure price cap, availability",
+    "desc": "The Working Group on Access to Medicines and Treatments said NLEM was last notified in 2022 and contains 384 medicines, while the WHO Model List of Essential Medicines has since been revised in 2023 and again in 2025, and by the Working Group’s count now runs to 523 medicines",
+    "img": "https://th-i.thgim.com/public/incoming/1jck5y/article71182623.ece/alternates/LANDSCAPE_1200/IMG_IMG_iStock-131447103_2_1_49A74192.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/health-groups-demand-overhaul-of-indias-essential-medicines-list/article71182461.ece",
+    "time": "2026-07-04T14:51:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi court rejects Umar Khalid, Sharjeel Imam bail pleas, says bound by Supreme Court order",
+    "desc": "Trial court holds that it has ‘no option’ but to follow the Supreme Court’s January order; defence relies on the top court’s subsequent ruling in Syed Iftikhar Andrabi v. NIA which it said reaffirmed the principle that prolonged incarceration could justify bail",
+    "img": "https://th-i.thgim.com/public/incoming/g2e6qd/article71182533.ece/alternates/LANDSCAPE_1200/doc7d2j62t90awg32fx7st.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-court-rejects-fresh-bail-pleas-of-umar-khalid-and-sharjeel-imam/article71182544.ece",
+    "time": "2026-07-04T14:49:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "YSRCP playing mind game on Amaravati, says Chief Minister Chandrababu Naidu",
+    "desc": "A capital cannot be shifted once Parliament enacts a law, he asserts, and vows to realise the ‘Swarna Kuppam’ vision, stating that it is poised to emerge as a major economic, tourism and gold mining hub",
+    "img": "https://th-i.thgim.com/public/incoming/1067b7/article71183006.ece/alternates/LANDSCAPE_1200/10215_4_7_2026_18_53_55_1_WHATSAPPIMAGE2026_07_04AT64625PM.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-playing-mind-game-on-amaravati-says-chief-minister-chandrababu-naidu/article71182726.ece",
+    "time": "2026-07-04T14:38:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BMTC now accepts NCMC payments through new smart ticketing machines; adoption expected to rise",
+    "desc": "With the integration now in place, the NCMC issued by banks across India can be used on the city’s bus services, allowing thousands of daily commuters to use a single card for both metro and bus journeys",
+    "img": "https://th-i.thgim.com/public/incoming/ex4rwa/article71183258.ece/alternates/LANDSCAPE_1200/07_mn%20Dharmasthala%208.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bmtc-now-accepts-ncmc-payments-through-new-smart-ticketing-machines-adoption-expected-to-rise/article71183103.ece",
+    "time": "2026-07-04T14:38:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'May next 250 years bring greater peace &amp; progress': PM Modi congratulates Trump on US Independence Day",
+    "desc": "Prime Minister Narendra Modi extended warm wishes to US President Donald Trump and the American people on their 250th Independence Day. He emphasized the shared democratic values and the strength of the India-US partnership, expressing optimism for its future growth and prosperity. The US marked this significant milestone with nationwide festivities, celebrating its founding and democratic ideals.",
+    "img": "https://static.toiimg.com/photo/msid-132183080,imgsize-1480858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/may-next-250-years-bring-greater-peace-progress-pm-modi-congratulates-trump-on-us-independence-day/articleshow/132183085.cms",
+    "time": "2026-07-04T14:37:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India now world's second largest phone maker; PM Modi lays out 'Make in India' electronics roadmap",
+    "desc": "India has ascended to become the world's second-largest mobile phone manufacturer and exporter, Prime Minister Narendra Modi announced, underscoring the nation's commitment to building a comprehensive electronics and semiconductor ecosystem. This strategic push, encompassing chip design, fabrication, and packaging, is a pivotal step towards a 'Viksit Bharat' and represents the next phase of the 'Make in India' initiative, with the country's youth poised to lead future technological advancements.",
+    "img": "https://static.toiimg.com/photo/msid-132183016,imgsize-531359.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/chip-by-chip-india-now-worlds-second-largest-phone-maker-pm-modi-lays-out-make-in-india-electronics-roadmap/articleshow/132182929.cms",
+    "time": "2026-07-04T14:27:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "APTF urges government to relieve transferred teachers",
+    "desc": "The Andhra Pradesh Teachers Federation leaders point out that 233 teachers in Nellore district, 80 in Kadapa, and 25 in Guntur, besides many others in all districts, including Subject Teachers and Secondary Grade Teachers (SGTs), are yet to be relieved",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/aptf-urges-government-to-relieve-transferred-teachers/article71182863.ece",
+    "time": "2026-07-04T14:27:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi Gymkhana Club challenges Centre's eviction proceedings in HC, plea listed for July 6",
+    "desc": "The Delhi Gymkhana Club and its staff are challenging the government's eviction notice in the Delhi High Court. The Centre initiated proceedings after terminating the club's perpetual lease, deeming its continued occupation of the 27.3-acre Lutyens' Delhi property an \"unauthorised occupation.\" The government claims the land is needed for defence and public-interest projects, but the club contests the termination and eviction order.",
+    "img": "https://static.toiimg.com/photo/msid-132182978,imgsize-56000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-gymkhana-club-challenges-centres-eviction-proceedings-in-hc-plea-listed-for-july-6/articleshow/132182882.cms",
+    "time": "2026-07-04T14:21:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi's India debut: Two sixes, 10 balls and a record-breaking day",
+    "desc": "Fifteen-year-old Vaibhav Sooryavanshi made history on Saturday, becoming India's youngest international cricketer at 15 years and 99 days during the second T20I against England. The left-handed batter impressed with a quickfire 14 off 10 balls, including two sixes, before being stumped. His aggressive start, featuring a massive hit off Jofra Archer, showcased his immense potential despite the brief innings.",
+    "img": "https://static.toiimg.com/photo/msid-132182864,imgsize-53753.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/vaibhav-sooryavanshis-india-debut-two-sixes-10-balls-and-a-record-breaking-day/articleshow/132182862.cms",
+    "time": "2026-07-04T14:11:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince William and Kate Middleton secretly meet Taylor-Travis",
+    "desc": "Newlyweds Taylor Swift and Travis Kelce reportedly met with Prince William and Kate Middleton in London. This encounter, occurring shortly before their July 3, 2026, wedding at Madison Square Garden, marks Kate's first meeting with the couple. Discussions during their London visit also touched upon Prince William potentially appearing on the 'New Heights' podcast. While the royals couldn't attend the wedding, many other stars were present.",
+    "img": "https://static.toiimg.com/photo/msid-132182858,imgsize-268390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/why-did-prince-william-and-kate-middleton-secretly-meet-taylor-swift-and-travis-kelce-before-the-msg-wedding-key-details-revealed/articleshow/132182848.cms",
+    "time": "2026-07-04T14:05:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celina Jaitly says Preity Zinta stood by her like a rock during her dark phase amid divorce",
+    "desc": "Celina Jaitly bravely recounts a devastating period, finding solace in friends like Preity Zinta after losing her home and facing legal battles. She details profound personal losses, including her parents and a twin son, while navigating a complex divorce and custody dispute with her estranged husband. Jaitly is set to return to cinema with 'Sister Nivedita'.",
+    "img": "https://static.toiimg.com/photo/msid-132182835,imgsize-267568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-says-preity-zinta-stood-by-her-like-a-rock-during-her-dark-phase-amid-divorce-with-peter-haag-plea-to-rescue-brother-vikrant-jaitly-from-uae/articleshow/132182809.cms",
+    "time": "2026-07-04T14:03:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Is E20 fuel safe for your vehicle? Here's what experts say",
+    "desc": "Concerns surrounding E20 ethanol-blended petrol are being addressed by industry experts, who assure its safety for all vehicles, including older models. Years of rigorous scientific testing and consultations with automakers have confirmed its efficacy. This nationwide rollout aims to significantly reduce India's reliance on crude oil imports, offering a more sustainable and secure energy future while maintaining vehicle performance and environmental benefits.",
+    "img": "https://static.toiimg.com/photo/msid-132182625,imgsize-81261.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/is-e20-fuel-safe-for-your-vehicle-heres-what-experts-say/articleshow/132182624.cms",
+    "time": "2026-07-04T13:53:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Historic day ! Abhishek completes 50 T20Is as Sooryavanshi makes debut",
+    "desc": "Abhishek Sharma marked his 50th T20I and 200th professional T20 match during India's second T20I against England. The explosive opener has amassed 1,546 runs in his T20I career, boasting an impressive average and strike rate. This significant milestone coincided with a historic day as 15-year-old Vaibhav Sooryavanshi made his international debut, becoming the youngest T20I player.",
+    "img": "https://static.toiimg.com/photo/msid-132182614,imgsize-138420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/historic-day-abhishek-sharma-completes-50-t20is-as-vaibhav-sooryavanshi-makes-record-breaking-debut/articleshow/132182570.cms",
+    "time": "2026-07-04T13:49:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi's India debut: The player he replaced and why",
+    "desc": "India has handed a debut to 15-year-old Vaibhav Sooryavanshi in the second T20I against England, making him the nation's youngest international cricketer. Captain Shreyas Iyer confirmed the change, replacing Sanju Samson, and expressed confidence in the young talent's abilities and temperament. Sooryavanshi's inclusion highlights India's deep pool of talent and intense competition for places in the national squad.",
+    "img": "https://static.toiimg.com/photo/msid-132182591,imgsize-34724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/vaibhav-sooryavanshis-india-debut-the-player-he-replaced-and-why-in-2nd-t20i-vs-england/articleshow/132182579.cms",
+    "time": "2026-07-04T13:45:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Academic jihad': BJP seeks ban on J&amp;K textbook 'glorifying terrorists'; LG suspends 8",
+    "desc": "The Lieutenant Governor of Jammu and Kashmir has taken decisive action by suspending officials and initiating an inquiry into school library books deemed to contain 'inappropriate content.' This decision comes after reports surfaced of a book that seemingly glorified terrorists and separatists while promoting a harmful narrative. Consequently, authors and publishers face blacklisting, and the distribution of such publications is being halted across the Union Territory.",
+    "img": "https://static.toiimg.com/photo/msid-132182531,imgsize-79794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/academic-jihad-bjp-seeks-ban-on-jk-textbook-glorifying-terrorists-lg-suspends-8/articleshow/132182504.cms",
+    "time": "2026-07-04T13:36:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Centre raises onion procurement price by 13% — here's why",
+    "desc": "The government has increased its onion procurement price to Rs 2,125 per quintal, a 13% jump, to boost farmer earnings and accelerate buffer stock building. This marks the fifth revision this season amidst sluggish procurement. Despite this, domestic availability remains stable with adequate stocks and steady wholesale arrivals. Speculative buying is noted, but consumer demand is subdued.",
+    "img": "https://static.toiimg.com/photo/msid-132182341,imgsize-45300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-raises-onion-procurement-price-by-13-heres-why/articleshow/132182095.cms",
+    "time": "2026-07-04T13:16:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The incredible journey from Samastipur to Team India",
+    "desc": "Fifteen-year-old Vaibhav Sooryavanshi has etched his name in history, becoming the youngest Indian cricketer to debut internationally, surpassing even Sachin Tendulkar's record. Hailing from a small Bihar village, his journey is a testament to immense talent and dedication, marked by early successes in domestic and age-group cricket, and a record-breaking IPL career. His father's unwavering support fueled this remarkable ascent, culminating in a dream come true on the international stage.",
+    "img": "https://static.toiimg.com/photo/msid-132109056,imgsize-71742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/vaibhav-sooryavanshis-incredible-journey-from-bihars-samastipur-to-team-india/articleshow/132108787.cms",
+    "time": "2026-07-04T13:10:31.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'Rahiman dhaga prem ka' – Rahim's timeless lesson on relationships and why trust, once broken, is never the same",
     "desc": "Centuries-old wisdom from poet Abdul Rahim Khan-i-Khana highlights the fragility of trust in relationships. His famous doha warns against impulsive anger, comparing love to a delicate thread that, once broken, can be mended but will always bear a knot. This timeless advice remains crucial in today's fast-paced digital world, urging us to prioritize patience and understanding to preserve precious bonds.",
     "img": "https://static.toiimg.com/photo/msid-132176923,imgsize-125086.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/proverb-of-the-day-rahiman-dhaga-prem-ka-rahims-timeless-lesson-on-relationships-and-why-trust-once-broken-is-never-the-same/articleshow/132176783.cms",
     "time": "2026-07-04T13:00:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Health groups demand overhaul of India’s essential medicines list",
-    "desc": "The Working Group on Access to Medicines and Treatments said NLEM was last notified in 2022 and contains 384 medicines, while the WHO Model List of Essential Medicines has since been revised in 2023 and again in 2025, and by the Working Group’s count now runs to 523 medicines",
-    "img": "https://th-i.thgim.com/public/incoming/1jck5y/article71182623.ece/alternates/LANDSCAPE_1200/IMG_IMG_iStock-131447103_2_1_49A74192.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/health-groups-demand-overhaul-of-indias-essential-medicines-list/article71182461.ece",
-    "time": "2026-07-04T12:58:10.000Z"
   },
   {
     "cat": "Politics",
@@ -79,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/yogi-babu-to-attempt-a-rare-record-by-playing-11-distinct-roles-in-r-kishore-kumars-upcoming-pan-indian-action-thriller/articleshow/132181766.cms",
     "time": "2026-07-04T12:32:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC’s Chandrima Bhattacharya resigns as party’s Bengal chief a month after appointment",
-    "desc": "In a letter addressed to the Trinamool Congress chairperson, Chandrima Bhattacharya also resigned from all other posts she held in the party, triggering speculations on whether she had severed her ties with the party for all practical purposes",
-    "img": "https://th-i.thgim.com/public/incoming/87g6kf/article71182345.ece/alternates/LANDSCAPE_1200/PTI02_05_2026_000180B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/chandrima-bhattacharya-resigns-as-tmc-mamata-banerjee-faction-bengal-chief/article71182273.ece",
-    "time": "2026-07-04T12:32:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,15 +450,6 @@ const newsData_en = [
     "time": "2026-07-04T10:49:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CPI(M) leaders A.C. Moideen, K. Radhakrishnan, M.M. Varghese get bail",
-    "desc": "Bail granted by Special Court for Prevention of Money Laundering Act in Kochi. The CPI(M) leaders, among the additional accused, had filed objections and contended that allegations in complaint were not sufficient to proceed against them for offence under Section 4 of PMLA",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/tguk3f/article71182449.ece/alternates/LANDSCAPE_1200/80688_19_10_2023_19_6_8_1_20TVTRKARUVANURBANK_KKN.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/karuvannur-bank-fraud-case-cpim-leaders-ac-moideen-k-radhakrishnan-mm-varghese-get-bail/article71182439.ece",
-    "time": "2026-07-04T10:47:30.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Here’s what we know about Oasis’ upcoming 2027 tour",
     "desc": "The excitement among fans is palpable as Oasis unveils plans for a thrilling summer tour in 2027, beginning with an extraordinary 12-night stint at Manchester's Etihad Stadium. This long-awaited homecoming for Liam and Noel Gallagher is likely to attract large crowds, with speculation of up to 20 events. After their reunion earlier in 2024, rumors about a Knebworth comeback are also swirling.",
@@ -250,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/oasis-2027-world-tour-liam-and-noel-gallagher-tease-massive-12-night-etihad-stadium-residency-watch/articleshow/132179650.cms",
     "time": "2026-07-04T10:47:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ECI issues notice to K Kavitha over use of 'TRS' in her new party's name: Report",
-    "desc": "The Election Commission of India has issued a notice to K Kavitha regarding her new party's name, Telangana Rakshana Sena. This follows over 1,100 complaints, including one from her former party, BRS, citing similarity to the erstwhile TRS. Despite accepting a name change, Kavitha retained the \"TRS\" initials, stating twenty years of their efforts were invested in that identity and the formation of Telangana state.",
-    "img": "https://static.toiimg.com/photo/msid-132179668,imgsize-43910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eci-issues-notice-to-k-kavitha-over-use-of-trs-in-her-new-partys-name-report/articleshow/132179622.cms",
-    "time": "2026-07-04T10:46:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,6 +468,15 @@ const newsData_en = [
     "time": "2026-07-04T10:43:25.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "England delay Mexico arrival fearing 'spies', greeted by boos",
+    "desc": "According to The Sun, England manager Thomas Tuchel and the Football Association chose to keep the squad at their training base in Kansas City for as long as possible before travelling to Mexico City. The move was made to prevent rival teams from watching England's training sessions before the knockout match.",
+    "img": "https://static.toiimg.com/photo/msid-132179501,imgsize-457460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-england-greeted-with-boos-after-delaying-mexico-arrival-over-spy-fears-before-last-16-clash-watch/articleshow/132179448.cms",
+    "time": "2026-07-04T10:37:54.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Aishwarya Lekshmi advocates for sports and self-defense",
     "desc": "Following the screening of 'Gatta Kusthi 2' in Thanjavur, lead actress Aishwarya Lekshmi emphasized the importance of sports in building self-confidence and discipline. She urged everyone to learn and participate in a sport, highlighting its empowering nature. Lead actor Vishnu Vishal expressed his delight with the audience's positive reception, particularly for the film's comedic elements. The team is continuing their tour across Tamil Nadu to connect with fans.",
@@ -277,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/learning-a-sport-builds-self-confidence-aishwarya-lekshmi-advocates-for-sports-and-self-defense-in-a-special-message-to-fans-after-gatta-kusthi-2-screening/articleshow/132179529.cms",
     "time": "2026-07-04T10:35:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Tougher days will come': Ex-India cricketer's reality check for Sooryavanshi",
-    "desc": "Former India wicketkeeper Dinesh Karthik has lauded 15-year-old Vaibhav Sooryavanshi as a rare T20 talent with the potential to shatter records. Karthik highlighted the youngster's fearless batting and ability to score freely. While acknowledging the immense potential, Karthik also advised Sooryavanshi to stay grounded and learn to manage off-field attention, which he believes will be his biggest challenge.",
-    "img": "https://static.toiimg.com/photo/msid-132179440,imgsize-8452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/sky-is-the-limit-dinesh-karthiks-massive-prediction-for-vaibhav-sooryavanshi-shares-key-advice/articleshow/132179386.cms",
-    "time": "2026-07-04T10:27:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "As monsoon rains falter, Wayanad farmers in Kerala fear poor harvest",
-    "desc": "In Wayanad, rainfall deficit has adversely affected agriculture. The district received only 270.23 mm of rain in June, the lowest for the month in the past five years, according to Hume Centre for Ecology and Wildlife Biology",
-    "img": "https://th-i.thgim.com/public/incoming/y37uv/article71182377.ece/alternates/LANDSCAPE_1200/11073_4_7_2026_15_14_36_2_5TVKZ2_WYND.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/article71182300.ece",
-    "time": "2026-07-04T10:26:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,24 +522,6 @@ const newsData_en = [
     "time": "2026-07-04T09:53:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tamil Nadu sends 50 Bangladeshi nationals to Bengal for deportation",
-    "desc": "Police said the group consists of 44 men and six women who had been lodged at the special detention camp inside the Attur taluk office complex in Salem district. After deportation orders were issued, they were taken from the camp to Tiruchirappalli by road in three police vans on July 3 under tight security arrangements.",
-    "img": "https://static.toiimg.com/photo/msid-132178956,imgsize-227538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-sends-50-bangladeshi-nationals-to-bengal-for-deportation/articleshow/132178996.cms",
-    "time": "2026-07-04T09:51:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IMD issues red alert for heavy rains as low pressure develops over Bay of Bengal",
-    "desc": "As the weather system moved closer to the West Bengal-Odisha coast, the India Meteorological Department issued a red warning — the highest level of colour-coded warning — for South 24 Parganas and Purba Medinipur district",
-    "img": "https://th-i.thgim.com/public/incoming/romjgh/article71182245.ece/alternates/LANDSCAPE_1200/20260702128L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-imd-issues-red-alert-for-heavy-rains-as-low-pressure-develops-over-bay-of-bengal/article71182234.ece",
-    "time": "2026-07-04T09:50:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Latest Tamil, Telugu, Malayalam, Kannada OTT releases (July 3",
     "desc": "A good mix of courtroom drama, family comedy, frontier survival, and documentary horror this week across Hindi, Tamil, and English. Here is your full guide to what is dropping and why it is worth your time.",
@@ -358,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/latest-tamil-telugu-malayalam-kannada-ott-releases-july-3-july-10-ikka-to-little-house-on-the-prairie-new-movies-and-shows-on-netflix-and-prime-video/photostory/132178742.cms",
     "time": "2026-07-04T09:49:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We have to move to Kerala': Samson reveals father's bold decision that changed his career",
-    "desc": "Sanju Samson credits his father's decisive move from Delhi to Kerala as the turning point in his cricket career. Facing intense competition in Delhi's junior setup, Samson's father made the bold decision to relocate, enabling the young cricketer to represent Kerala. This pivotal choice paved the way for Samson's eventual rise in Indian cricket, despite a recent dip in form.",
-    "img": "https://static.toiimg.com/photo/msid-132178700,imgsize-45226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/we-have-to-move-to-kerala-sanju-samson-reveals-fathers-bold-decision-that-changed-his-career/articleshow/132178687.cms",
-    "time": "2026-07-04T09:48:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Made right decision at every level': PM Modi says 'diplomacy and dosti' helped India to tackle energy crisis",
-    "desc": "Prime Minister Narendra Modi highlighted how India's strong international friendships and diplomacy were crucial in navigating the 21st century's biggest energy crisis, exacerbated by Middle East conflicts. He noted India expanded fuel imports to over 40 nations from 25-26, prioritizing national interest and citizen welfare. Modi also inaugurated Rajasthan's first integrated refinery, criticizing past government inaction on the project.",
-    "img": "https://static.toiimg.com/photo/msid-132178690,imgsize-108142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/made-right-decision-at-every-level-pm-modi-says-diplomacy-and-dosti-helped-india-to-tackle-energy-crisis/articleshow/132178676.cms",
-    "time": "2026-07-04T09:44:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,33 +549,6 @@ const newsData_en = [
     "time": "2026-07-04T09:40:30.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rathi set to become first Indian woman umpire to officiate in Women's WC final",
-    "desc": "Vrinda Rathi will become the first Indian woman umpire to officiate in a Women's World Cup final when she takes charge of the clash between England women's cricket team and Australia women's cricket team at Lord's. The 37-year-old from Navi Mumbai is only the second Indian umpire to stand in an ICC World Cup final.",
-    "img": "https://static.toiimg.com/photo/msid-132178569,imgsize-71776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/vrinda-rathi-set-to-become-first-indian-woman-umpire-to-officiate-in-an-icc-womens-world-cup-final/articleshow/132178574.cms",
-    "time": "2026-07-04T09:34:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. BJP urges Governor Arlekar to act against participation of ‘two private individuals’ in Cabinet meeting",
-    "desc": "“In the recently concluded Cabinet meeting, apart from the ministers, two external individuals — John Arokiasamy and Vishnu Reddy — also participated. We have submitted a petition to the Governor urging strict action on this matter.”",
-    "img": "https://th-i.thgim.com/public/incoming/qn5u1l/article71182200.ece/alternates/LANDSCAPE_1200/HMXNuV6bIAAXMtF.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-bjp-urges-governor-arlekar-to-act-against-participation-of-two-private-individuals-in-cabinet-meeting/article71182044.ece",
-    "time": "2026-07-04T09:19:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Where to watch ‘The Devil Wears Prada 2’ online?",
-    "desc": "Excitement builds as 'The Devil Wears Prada 2' gets ready for its global OTT debut on July 29th, with availability on Disney+, Hulu, and JioHotstar in India. Set two decades after the original, the sequel reintroduces Anne Hathaway's character, Andy Sachs, navigating Runway's challenges in a digital-first world. With a stellar cast and an impressive $678 million global box office, fans are eager to see this much-anticipated follow-up.",
-    "img": "https://static.toiimg.com/photo/msid-132178228,imgsize-44564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-devil-wears-prada-2-india-ott-release-when-and-where-to-watch-meryl-streep-and-anne-hathaway-starrer-online/articleshow/132178198.cms",
-    "time": "2026-07-04T09:09:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Welcome to the Jungle' BO Day 9 [LIVE]: Enters the Rs 100 crore domestic club",
     "desc": "Ahmed Khan’s multi-starrer action-comedy 'Welcome to the Jungle,' featuring an ensemble cast led by Akshay Kumar, Suniel Shetty, and Paresh Rawal, has entered its second weekend after a steady first week. Even with the grand theatrical release of YRF’s highly anticipated spy-thriller 'Alpha' starring Alia Bhatt, Sharvari, and Bobby Deol, the comedy caper continues to pull family audiences. As it enters Day 9 of its theatrical run, the film has its sights set on crossing the Rs. 100 crore domestic net milestone.",
@@ -430,51 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-9-live-akshay-kumar-starrer-eyes-crossing-rs-100-crore-on-second-weekend-after-rs-143-crore-global-haul/articleshow/132178219.cms",
     "time": "2026-07-04T09:09:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I went up to Messi after the game. He said ... ': Vozinha after WC exit",
-    "desc": "After Cape Verde's dramatic 3-2 defeat to Argentina national football team, goalkeeper Vozinha revealed that Lionel Messi hugged him and said, \"You are great. Your people should be proud of you.\" The Cape Verde veteran, who made eight saves, called the exchange one of the most memorable moments of his career.",
-    "img": "https://static.toiimg.com/photo/msid-132178227,imgsize-120231.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-went-up-to-lionel-messi-after-the-game-he-said-vozinha-reveals-argentina-skippers-words-after-fifa-world-cup-exit/articleshow/132177877.cms",
-    "time": "2026-07-04T09:00:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Does anyone ask SRK about me?': Suchitra slams repeated questions",
-    "desc": "Suchitra Krishnamoorthi expressed frustration over repeatedly being asked about Shah Rukh Khan, her 'Kabhi Haan Kabhi Naa' co-star, calling the questions boring and unfair. She said she doesn't believe in networking and prefers solitude. Her viral clip sparked mixed reactions, with some SRK fans defending him as Bollywood's \"biggest superstar,\" while others found it funny.",
-    "img": "https://static.toiimg.com/photo/msid-132178160,imgsize-166555.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/does-anyone-ask-shah-rukh-khan-about-me-suchitra-krishnamoorthi-slams-repeated-and-so-boring-questions-on-her-kabhi-haan-kabhi-naa-co-star/articleshow/132178160.cms",
-    "time": "2026-07-04T08:52:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You have to communicate clearly': Ex-India keeper issues warning over Sooryavanshi",
-    "desc": "Former wicketkeeper Parthiv Patel advocates for clear communication with 15-year-old Vaibhav Sooryavanshi regarding his international debut. While acknowledging Sooryavanshi's potential, Patel stresses the need for the team management to explain his current position in a squad featuring established players like Sanju Samson and Abhishek Sharma. Bowling coach Morne Morkel echoed this sentiment, emphasizing support for consistent performers and a reluctance to disrupt the batting order solely for a new inclusion.",
-    "img": "https://static.toiimg.com/photo/msid-132177913,imgsize-119416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/you-have-to-communicate-clearly-ex-india-keeper-issues-warning-to-team-india-over-vaibhav-sooryavanshi/articleshow/132177781.cms",
-    "time": "2026-07-04T08:46:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka shares a peek of pre-Fourth of July celebrations in the US",
-    "desc": "Priyanka Chopra Jonas offered fans a peek into her Fourth of July celebrations in the US, sharing a serene video of fireworks from her home. The actress, who has a long-standing connection with America, is balancing her global career with family life. She's also set to make a comeback to Indian cinema with SS Rajamouli's 'Varanasi'.",
-    "img": "https://static.toiimg.com/photo/msid-132177844,imgsize-270299.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-almost-4th-from-bed-priyanka-chopra-shares-a-peek-of-pre-fourth-of-july-celebrations-in-the-us-with-vibrant-late-night-fireworks/articleshow/132177880.cms",
-    "time": "2026-07-04T08:40:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan Films clarifies ‘Maatrubhumi’ reports",
-    "desc": "May War Rest in Peace,' faced issues with the CBFC. The production house clarified that the film has not yet been submitted for certification, making all reports of delays or reshoots entirely baseless. Fans are urged to rely on official SKF channels for any future updates on the Apoorva Lakhia directorial.",
-    "img": "https://static.toiimg.com/photo/msid-132177824,imgsize-92734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/not-yet-submitted-to-cbfc-salman-khans-banner-issues-strong-statement-around-baseless-and-false-certification-rumors-on-maatrubhumi-may-war-rest-in-peace/articleshow/132177787.cms",
-    "time": "2026-07-04T08:39:36.000Z"
   },
   {
     "cat": "World",
@@ -514,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Why is everyone pointing the gun at me?': Ex-India selector defends Sanju Samson",
-    "desc": "Calls for 15-year-old Vaibhav Sooryavanshi's India debut intensify after a record IPL season, but former selector Saba Karim urges patience. Karim defended Sanju Samson's current place, highlighting his match-winning form. He emphasized that Sooryavanshi's inclusion in the senior squad is a significant learning opportunity, allowing him to develop in a competitive environment before earning his playing XI spot.",
-    "img": "https://static.toiimg.com/photo/msid-132176200,imgsize-149024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/why-is-everyone-pointing-the-gun-at-me-ex-india-selector-defends-sanju-samson-amid-vaibhav-sooryavanshi-calls/articleshow/132176188.cms",
-    "time": "2026-07-04T06:41:53.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Praggnaandhaa ends rapid section as joint leader",
     "desc": "Having fallen a little behind after the second day, Praggnanandhaa reserved his best for the last three rounds and defeated Ivan Saric of Croatia, Deac Bogdan-Daniel of Romania and Anish Giri of the Netherlands to finally catch up with Alireza",
     "img": "https://th-i.thgim.com/public/incoming/qdp6sn/article71181941.ece/alternates/LANDSCAPE_1200/IMG_TH21PRAGG_2_1_JVFSK0L6.jpg",
@@ -550,30 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Full list of qualified teams and fixtures",
-    "desc": "The 2026 FIFA World Cup has reached the Round of 16, with heavyweights Germany and the Netherlands eliminated. Defending champions Argentina national football team survived a scare to qualify alongside 15 other teams. Blockbuster ties include Mexico vs England and Portugal vs Spain as the tournament enters its straight knockout phase.",
-    "img": "https://static.toiimg.com/photo/msid-132175209,imgsize-37114.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-round-of-16-confirmed-full-list-of-qualified-teams-and-fixtures/articleshow/132174861.cms",
-    "time": "2026-07-04T05:14:28.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Matches in Indian Time",
     "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
     "img": "https://th-i.thgim.com/public/incoming/hw29zz/article71145748.ece/alternates/LANDSCAPE_1200/image%206.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
     "time": "2026-07-04T04:54:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Remember the name Cape Verde': Ashwin lauds FIFA World Cup debutants",
-    "desc": "Cricket legend Ravichandran Ashwin lauded FIFA World Cup debutants Cabo Verde for their inspiring campaign. Despite a narrow 3-2 extra-time loss to Argentina, the African nation captivated audiences with their fearless play, securing draws against Spain, Saudi Arabia, and Uruguay. Their remarkable journey, marked by tenacious comebacks against the reigning champions, has significantly enhanced their global reputation.",
-    "img": "https://static.toiimg.com/photo/msid-132174869,imgsize-1579075.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/remember-the-name-cape-verde-ashwin-lauds-fifa-world-cup-debutants/articleshow/132174764.cms",
-    "time": "2026-07-04T04:50:04.000Z"
   },
   {
     "cat": "Sports",
@@ -610,24 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/two-jailed-for-stabbing-iranian-journalist-in-london-in-attack-blamed-on-tehran/article71180591.ece",
     "time": "2026-07-04T02:26:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "holders survive 3-2 extra-time epic; Messi tops Golden Boot race",
-    "desc": "Defending champions Argentina faced a fierce challenge but managed to edge out Cape Verde with a thrilling 3-2 win in extra time, earning their place in the World Cup Round of 16. Lionel Messi kicked off the scoring, only for the determined Blue Sharks to bounce back twice. A dramatic own goal in the final moments cemented Argentina's progress while Cape Verde ended their unforgettable debut with honor.",
-    "img": "https://static.toiimg.com/photo/msid-132173125,imgsize-261062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-cabo-verde-fifa-world-cup-match-result-argentina-survive-cabo-verde-scare-in-extra-time-classic/articleshow/132173125.cms",
-    "time": "2026-07-04T01:29:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi scripts FIFA World Cup history, becomes first player to...",
-    "desc": "Lionel Messi etched his name in history, becoming the first player to score in eight consecutive FIFA World Cup matches during Argentina's thrilling 3-2 extra-time win over Cape Verde. His 20th World Cup goal, a record-breaker, propelled Argentina into the Round of 16. Messi also leads the Golden Boot race with seven goals, further solidifying his legendary status on the global stage.",
-    "img": "https://static.toiimg.com/photo/msid-132173102,imgsize-118660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-scripts-fifa-world-cup-history-becomes-first-player-to-score-in-eight-straight-games/articleshow/132173105.cms",
-    "time": "2026-07-04T00:55:06.000Z"
   },
   {
     "cat": "Business",
@@ -757,57 +793,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "India set to contest US tariff move, calls 'forced labour' findings legally flawed",
-    "desc": "India is set to contest proposed US tariffs on its exports next week, arguing that the US Trade Representative's findings on alleged forced labour are legally flawed. Indian officials and industry bodies will present counter-arguments, emphasizing the country's robust legal framework and compliance systems. They contend the tariffs would harm both Indian exporters and American businesses and consumers.",
-    "img": "https://static.toiimg.com/photo/msid-132164072,imgsize-1284460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-set-to-contest-us-tariff-move-calls-forced-labour-findings-legally-flawed/articleshow/132163828.cms",
-    "time": "2026-07-03T14:43:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India sets $1 trillion export goal for FY26 as merchandise, services trade rise",
-    "desc": "India aims for a monumental $1 trillion in exports this fiscal year, a goal enthusiastically embraced by industry and policymakers. Union Minister Piyush Goyal confirmed the ambitious target, highlighting strong growth in both merchandise and services sectors. Recent free trade agreements and a seven-point action plan are set to bolster this drive, with a significant push in defence exports also noted.",
-    "img": "https://static.toiimg.com/photo/msid-132163673,imgsize-1073982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-sets-1-trillion-export-goal-for-fy26-as-merchandise-services-trade-rise/articleshow/132163621.cms",
-    "time": "2026-07-03T14:16:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Centre cracks whip on Meta over Instagram ads promoting child sexual abuse material",
-    "desc": "India's IT Minister Ashwini Vaishnaw has ordered officials to summon Meta following reports of Instagram advertisements featuring child sexual abuse material. This action highlights growing concerns about objectionable content on social media and the effectiveness of content moderation on platforms like Instagram. The ministry is seeking answers regarding the platform's handling of such serious issues.",
-    "img": "https://static.toiimg.com/photo/msid-132160808,imgsize-723873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-cracks-whip-on-meta-over-instagram-ads-promoting-child-sexual-abuse-material/articleshow/132160554.cms",
-    "time": "2026-07-03T11:56:12.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Stock markets take winning run to third day; Sensex climbs 262 points",
     "desc": "From the Sensex pack, HCL Tech surged 5.79%, followed by Tech Mahindra which climbed 1.81%. Bharti Airtel, Sun Pharma, Bajaj Finserv, UltraTech Cement, Tata Steel Bajaj Finance, Tata Consultancy Services, and ICICI Bank were also among the winners.",
     "img": "https://th-i.thgim.com/public/incoming/uqezy9/article71178477.ece/alternates/LANDSCAPE_1200/India_Financial_Markets_94744.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/stock-markets-take-winning-run-to-third-day-sensex-climbs-262-points/article71178436.ece",
     "time": "2026-07-03T11:43:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Which are top 10 gainers and losers on NSE &amp; BSE today? Check list",
-    "desc": "Indian equity benchmarks closed higher on Friday, buoyed by positive global sentiment, falling crude oil prices, and anticipation of a softer interest rate environment. The Nifty 50 and BSE Sensex both saw gains, with the Nifty 50 ending the week nearly 1% up. Realty and IT sectors led the gains, while PSU Banks and Auto sectors experienced declines. The rupee also strengthened against the dollar.",
-    "img": "https://static.toiimg.com/photo/msid-132160381,imgsize-842874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-10-gainers-and-losers-on-nse-bse-on-july-3-2026-check-list/articleshow/132160048.cms",
-    "time": "2026-07-03T11:40:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s women-owned business map has a western tilt",
-    "desc": "Women's entrepreneurship is growing in India, but unevenly. Cities in Gujarat and Maharashtra lead in female-owned businesses, while northern cities lag. This disparity highlights the complex interplay of economic structure, local conditions, and societal norms. While government initiatives are noted, deeper empowerment hinges on grassroots changes within homes and local markets, suggesting a patchwork of progress rather than a uniform national trend.",
-    "img": "https://static.toiimg.com/photo/msid-132157912,imgsize-472145.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-women-owned-business-map-has-a-western-tilt/articleshow/132157806.cms",
-    "time": "2026-07-03T11:35:38.000Z"
   },
   {
     "cat": "Business",
@@ -889,6 +880,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/main-vaapas-aaunga-how-audiences-tears-revived-the-fate-of-imtiaz-alis-film/article71169555.ece",
     "time": "2026-07-02T08:09:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A look at his career records in numbers",
+    "desc": "Fifteen-year-old Vaibhav Sooryavanshi has shattered Sachin Tendulkar's record, becoming India's youngest international debutant. His meteoric rise includes a first-class debut at 12, rewriting IPL history with multiple records, and stellar performances for India U19 and India A. Sooryavanshi's career is a testament to his prodigious talent, marked by numerous accolades and record-breaking feats at an astonishingly young age.",
+    "img": "https://static.toiimg.com/photo/msid-132110182,imgsize-72602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/vaibhav-sooryavanshi-makes-india-debut-a-look-at-his-career-records-in-numbers/articleshow/132110035.cms",
+    "time": "2026-07-01T08:27:50.000Z"
   },
   {
     "cat": "Tech",

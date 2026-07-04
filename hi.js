@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi departs early on international debut; Will Jacks gets prized wicket",
+    "desc": "The second T20I of the ongoing series between India and England quickly became one of the most talked-about moments in world cricket as 15-year-old Vaibhav Sooryavanshi was included in India’s lineup for the game, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-departs-early-on-international-debut-will-jacks-gets-prized-wicket-2026-07-04-1047140",
+    "time": "2026-07-04T14:38:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi breaks Sachin Tendulkar's legendary record, with international debut vs England",
     "desc": "India and England are taking on each other in the second T20I of the ongoing series. The two sides clash at Old Trafford in Manchester on July 4th, and ahead of the game, one of...",
     "img": "",
@@ -10,7 +19,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India opt to bat first in Manchester, Vaibhav Sooryavanshi makes debut",
+    "title": "England two down early, India in command",
     "desc": "India and England continue their ongoing five-game T20I series by taking on each other in the second T20I. The two sides are meeting at Old Trafford in Manchester, and both sides will hope to put...",
     "img": "",
     "src": "indiatvnews.com",

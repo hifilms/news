@@ -270,15 +270,6 @@ const newsData_bn = [
     "time": "2026-06-28T13:56:52.000Z"
   },
   {
-    "cat": "World",
-    "title": "৩ দিনে পর পর ভয়াল ভূমিকম্পে ৫১ হাজার মানুষই...! বিধ্বস্ত ক্ষতিগ্রস্ত ৬৭ লাখ ৬০ হাজার",
-    "desc": "৫১০০০!৩২০০! ১৪৩০! কতগুলি সংখ্যা মাত্র নয়। ভেনেজুয়েলায় আঘাত হানা দুটি শক্তিশালী ভূমিকম্পের তিন দিন পরেও ধ্বংসস্তূপে জীবিত মানুষের খোঁজে চলছে মরিয়া উদ্ধার অভিযান। এখন পর্যন্ত মৃতের সংখ্যা বেড়ে দাঁড়িয়েছে ১৪৩০ জন! নিখোঁজ রয়েছেন ৫১ হাজারেরও বেশি মানুষ। উদ্ধারকারীরা সতর্ক করে বলেছেন, জীবিত কাউকে উদ্ধারের সবচেয়ে গুরুত্বপূর্ণ ৭২ ঘণ্টার সময়সীমা দ্রুত শেষ হয়ে আসছে। আহত হয়ছেন ৩২০০ জন!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/venezuela-earthquake-death-toll-rises-to-1430-as-fresh-tremor-rattles-disaster-hit-region_660235.html ",
-    "time": "2026-06-28T11:00:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'আমাদের হ্যাঁ বলাকে চুরির জায়গায় নিয়ে যাবেন না,' হাসপাতালের বিরুদ্ধে মারাত্মক অভিযোগ সঙ্ঘশ্রীর",
     "desc": "কেপিসি হাসপাতালের বিরুদ্ধে মারাত্মক অভিযোগ আনলেন অভিনেত্রী সঙ্ঘশ্রী সিনহা। পরিবারের মানুষের অসুস্থতার সুযোগ নিয়ে হাসপাতাল কর্তৃপক্ষ তার অপব্যবহার করেন বলে তাঁর অভিযোগ। অযথা বিলের পাহাড় এবং সেই সম্পর্কে জানতে চাইলে জোটে দুর্ব্যবহার। এমনকী সঠিক রোগ না বলতে পারার অভিযোগও করেন তিনি।",
@@ -286,41 +277,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actress-sanghasri-sinha-brings-serious-allegations-against-hospital_660052.html ",
     "time": "2026-06-26T13:11:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ও রুপোর আমদানি শুল্ক ১৫ শতাংশ করল কেন্দ্র; অর্থনৈতিক সংকট মোকাবিলায় কেন্দ্রের বড় সিদ্ধান্ত",
-    "desc": "অর্থনৈতিক অস্থিরতা ও বৈদেশিক মুদ্রার রিজার্ভে চাপের মুখে সোনা ও রুপার আমদানি শুল্ক ৬ শতাংশ থেকে বাড়িয়ে ১৫ শতাংশ করল কেন্দ্র। India hikes gold import duty to 15 percent to control trade deficit and support the Rupee.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti04-19-2026-000155b-jpg-1778654280506_1778654282795-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/government-increases-gold-import-duty-to-fifteen-percent-forex-reserve-pressure-014-306795.html",
-    "time": "2026-05-13T11:19:13.000Z"
   }
 ];
