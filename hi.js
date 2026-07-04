@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Lionel Messi's Argentina play Vozinga's Cabo Verde in round of 32",
+    "title": "Argentina survive Cabo Verde scare in 3-2 extra-time thriller to reach World Cup Round of 16",
+    "desc": "Argentina advanced to the FIFA World Cup 2026 Round of 16 after a dramatic 3-2 extra-time victory over debutants Cabo Verde in a pulsating Round of 32 clash at Miami Stadium on the morning of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/argentina-survive-cabo-verde-scare-in-3-2-extra-time-thriller-to-reach-world-cup-round-of-16-2026-07-04-1047076",
+    "time": "2026-07-04T01:03:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Argentina end Cabo Verde's outstanding campaign, win 3-2 in Miami",
     "desc": "Defending champions Argentina will face Cape Verde in a FIFA World Cup 2026 Round of 32 knockout match in Miami. It’s a classic David-versus-Goliath encounter that brings together one of the tournament favourites and its...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-expected-to-open-as-england-reveal-squad-for-india-series-2026-07-03-1047057",
     "time": "2026-07-03T14:53:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England name playing XI for second T20I against India, Jofra Archer makes much-awaited comeback",
-    "desc": "The stage is set for the second T20I of the ongoing five-game series between India and England. The two sides will meet at Old Trafford, Manchester, on July 4, and ahead of the game, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-name-playing-xi-for-second-t20i-against-india-jofra-archer-makes-much-awaited-comeback-2026-07-03-1047046",
-    "time": "2026-07-03T13:17:57.000Z"
   }
 ];
