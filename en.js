@@ -1,6 +1,105 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Govt to Meta",
+    "desc": "Government has issued a stern directive to Meta, demanding the immediate removal of all paid advertisements and content on Instagram promoting child sexual abuse material. Authorities are demanding a detailed explanation within seven days regarding how such ads were permitted and what safeguards are being implemented to prevent future occurrences. This action follows reports of Instagram ads being used to direct users to illegal content.",
+    "img": "https://static.toiimg.com/photo/msid-132203098,imgsize-327402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/stop-child-sex-abuse-ads-on-insta-at-once-govt-to-meta/articleshow/132203100.cms",
+    "time": "2026-07-05T21:41:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Minions and Monsters' tops box office with USD 160 million haul",
+    "desc": "The Minions have narrowly edged out 'Toy Story 5' for the July Fourth weekend box office crown, with 'Minions & Monsters' raking in USD 160 million worldwide. 'Toy Story 5' followed with USD 31 million. Meanwhile, historical drama 'Young Washington' captured third place, appealing to patriotic audiences.",
+    "img": "https://static.toiimg.com/photo/msid-132202918,imgsize-102622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/minions-and-monsters-dethrones-toy-story-5-tops-fourth-of-july-holiday-box-office-with-usd-160-million-global-haul/articleshow/132202867.cms",
+    "time": "2026-07-05T21:35:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Just 28% NGOs, associations ever registered under FCRA currently active",
+    "desc": "A significant majority of NGOs registered under the Foreign Contribution (Regulation) Act, 2010, are no longer active, with over 72% having their licenses cancelled or expired. Since 2012, out of 52,159 granted licenses, only 14,455 currently hold active status, enabling them to receive foreign funding. This tightening of regulations aims to enhance accountability and transparency among these organizations.",
+    "img": "https://static.toiimg.com/photo/msid-132202941,imgsize-1135942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/just-28-ngos-associations-ever-registered-under-fcra-currently-active/articleshow/132202940.cms",
+    "time": "2026-07-05T21:30:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Driving test for repeat offenders, interim compensation for crash victims on cards",
+    "desc": "Motorists with traffic violations will soon face mandatory driving tests for license renewal. The government also plans to empower tribunals to grant interim compensation to accident victims, speeding up relief. These proposed amendments to the Motor Vehicles Act, approved by a Group of Ministers, aim to curb errant drivers and enhance road safety. The bill is expected to be introduced in Parliament soon.",
+    "img": "https://static.toiimg.com/photo/msid-132202907,imgsize-1290796.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/driving-test-for-repeat-offenders-interim-compensation-for-crash-victims-on-cards/articleshow/132202904.cms",
+    "time": "2026-07-05T21:08:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Eala upsets Wimbledon champion Swiatek in historic win for Philippines, No. 2 seed Rybakina also out",
+    "desc": "The 21-year-old Eala found Centre Court at Wimbledon a bit more accommodating on Saturday (July 4) when she beat defending champion Iga Swiatek 7-6 (9), 6-2 in the third round at the grass-court major and made some history in the process",
+    "img": "https://th-i.thgim.com/public/incoming/5h1u0h/article71185177.ece/alternates/LANDSCAPE_1200/2026-07-04T155933Z_649444007_UP1EM7418F8XR_RTRMADP_3_TENNIS-WIMBLEDON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/eala-upsets-wimbledon-champion-swiatek-in-historic-win-for-philippines-no-2-seed-rybakina-also-out/article71185173.ece",
+    "time": "2026-07-05T20:56:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Enforce 'zero coal leakage' plan in Jharkhand: Amit Shah to CISF",
+    "desc": "Home Minister Amit Shah has ordered the CISF and coal ministry to establish rapid response teams and implement a \"zero coal leakage plan\" to combat rising illegal mining and coal theft in Jharkhand. Multi-layered security will be deployed in vulnerable zones, with agencies now empowered to file cases, conduct searches, and seize illegally mined coal and equipment. Shah stressed rigorous, coordinated action and regular reviews.",
+    "img": "https://static.toiimg.com/photo/msid-132202868,imgsize-1049256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/enforce-zero-coal-leakage-plan-in-jharkhand-amit-shah-to-cisf/articleshow/132202869.cms",
+    "time": "2026-07-05T20:48:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India to double US gas buys, cut Gulf reliance",
+    "desc": "India is significantly boosting LPG imports from the US, aiming to double current purchases and reduce reliance on Gulf nations. This strategic shift, spurred by recent West Asian conflicts, ensures a diversified supply chain and aids in building a crucial 30-day strategic reserve. The move also strengthens energy ties with the US, helping to balance trade.",
+    "img": "https://static.toiimg.com/photo/msid-132202860,imgsize-1412863.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-to-double-us-gas-buys-cut-gulf-reliance/articleshow/132202861.cms",
+    "time": "2026-07-05T20:42:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The missing link in India’s maternal health story",
+    "desc": "Despite improvements in institutional deliveries, women’s empowerment and maternity programmes, exclusive breastfeeding rates in India have declined. NFHS-6 data point to persistent gaps in postnatal support, workplace protection and maternity benefits. Bindu Shajan Perappadan looks at medical, social and economic factors contributing to the decline",
+    "img": "https://th-i.thgim.com/public/incoming/44hz77/article71186281.ece/alternates/LANDSCAPE_1200/Breastfeeding07.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/the-missing-link-in-indias-maternal-health-story/article71186272.ece",
+    "time": "2026-07-05T20:35:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Syama Prasad Mookerjee devoted his life to India's unity and progress: PM Modi",
+    "desc": "Remembering Dr. Syama Prasad Mookerjee on his 125th birth anniversary, this tribute highlights his unwavering commitment to India's unity and selfless service. From his early life of privilege to his impactful roles as an educationist, minister, and founder of the Jana Sangh, Mookerjee championed national integrity and democratic values. His sacrifice for Jammu & Kashmir's integration remains a pivotal moment in India's history.",
+    "img": "https://static.toiimg.com/photo/msid-132202850,imgsize-338775.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/syama-prasad-mookerjee-devoted-his-life-to-indias-unity-and-progress-pm-modi/articleshow/132202844.cms",
+    "time": "2026-07-05T20:34:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arshad on why he agreed to do 'King' and Aryan Khan's 'Ba***ds Of Bollywood'",
+    "desc": "Arshad Warsi is gearing up for a packed schedule, with 'Dhamaal 4' set for a July 2026 release and a role alongside Shah Rukh Khan in 'King' arriving in December 2026. Warsi revealed his unwavering loyalty to Shah Rukh Khan, stating he couldn't refuse any offer, even from SRK's son Aryan. He expressed his deep affection for the entire Khan family, which motivated his involvement in Aryan's directorial debut.",
+    "img": "https://static.toiimg.com/photo/msid-132202818,imgsize-211994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arshad-warsi-reveals-how-he-agreed-to-do-king-and-aryan-khans-bads-of-bollywood-woh-kahaniyan-suna-raha-tha-/articleshow/132202811.cms",
+    "time": "2026-07-05T20:13:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Venue, date, guests: All you need to know about Boney Kapoor's daughter Anshula's wedding",
+    "desc": "Anshula Kapoor, daughter of producer Boney Kapoor, is set to marry her long-time partner Rohan Thakkar on July 6 in Mumbai. The wedding, a one-day affair blending two communities, will be followed by a cocktail party at Taj Lands End. Pre-wedding festivities, including a maata ki chowki and mehendi, have already begun. The couple, who met on a dating app in 2022, got engaged last year in Central Park.",
+    "img": "https://static.toiimg.com/photo/msid-132202722,imgsize-427401.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/boney-kapoors-daughter-anshula-kapoor-set-to-tie-the-knot-heres-all-you-need-to-know-about-the-date-venue-guests-and-other-functions/articleshow/132202679.cms",
+    "time": "2026-07-05T19:35:35.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Mileage loss, engine concerns and what's next",
     "desc": "Automobile majors are backing the government's mandatory 20% ethanol blending in petrol (E20), despite consumer concerns about mileage drops and potential material degradation in older vehicles. While official studies suggest minimal impact, vehicle owners report noticeable fuel efficiency losses. The controversy intensifies as India achieved its E20 target early, with speculation rising about even higher blending levels, prompting calls for consumer choice regarding fuel options.",
     "img": "https://static.toiimg.com/photo/msid-132201945,imgsize-484632.cms",
@@ -163,15 +262,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "The convict who walked free after 37 years",
-    "desc": "Natekar is one of India’s longest-serving prisoners; a high school dropout, Natekar was working as clerk at a cooperative society and was initially imprisoned for killing his first wife after suspecting her of having an extramarital relationship",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/the-convict-who-walked-free-after-37-years/article71185568.ece",
-    "time": "2026-07-05T15:15:27.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Political vendetta': Congress vows to block Bill seeking automatic removal of PM, CMs after 30 days in jail",
     "desc": "The Congress party has voiced its vigorous objections to the upcoming Constitution (130th Amendment) Bill. This bill proposes the automatic expulsion of ministers—including the Prime Minister and Chief Ministers—upon being held in judicial custody for 30 days due to serious criminal charges. Congress believes this proposal is a tactic for political intimidation, anticipating that the BJP-led government will lack the necessary two-thirds majority to push it through.",
     "img": "https://static.toiimg.com/photo/msid-132197609,imgsize-72234.cms",
@@ -325,15 +415,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Cillian Murphy",
-    "desc": "In a captivating reflection, Cillian Murphy, the acclaimed actor from 'Oppenheimer' and 'Peaky Blinders', advocates for listening to one's instincts rather than solely relying on intellect. Recalling his early experiences, he underlines that gut feelings often uncover genuine truths, despite logical doubts. Murphy's evolution from a musician to a prominent actor illustrates a path shaped by inner conviction, leading to notable success while cherishing his need for solitude.",
-    "img": "https://static.toiimg.com/photo/msid-132193437,imgsize-49792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-cillian-murphy-believe-your-instincts-instinctif-you-feel-it-then-its-right-when-the-peaky-blinders-actor-detailed-the-importance-of-trusting-your-gut-instincts-rather-than-always-listening-to-your-brain/articleshow/132193302.cms",
-    "time": "2026-07-05T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Everything to know about their 13-year age gap",
     "desc": "Aamir Khan, the celebrated Bollywood actor, has taken a significant step in his personal life by marrying Gauri Spratt in a private gathering at his Mumbai residence. Their journey together spans decades, despite the 13-year age difference. This marriage is Aamir's third, having previously been wed to Reena Dutta and Kiran Rao. The ceremony was an intimate affair, attended by their nearest and dearest.",
     "img": "https://static.toiimg.com/photo/msid-132195706,imgsize-86228.cms",
@@ -360,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-05T12:07:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EC asks Kavitha's TRS to suggest new party name after objections",
-    "desc": "Although the poll body received hundreds of objections during the registration process, it has so far forwarded only two to the K Kavitha-led party for its response. According to the sources, one objection was submitted by Telangana Rajya Samithi, while the other came from a Maharashtra-based organisation that also uses the acronym TRS.",
-    "img": "https://static.toiimg.com/photo/msid-132195380,imgsize-172202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ec-asks-kavithas-trs-to-suggest-new-party-name-after-objections/articleshow/132194684.cms",
-    "time": "2026-07-05T12:00:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'No such proposal for exporting E20 petrol': Centre dismisses Bhutan E20 rejection claims",
     "desc": "The Petroleum Ministry has debunked claims of Bhutan refusing India's E20 petrol, stating no such offer was ever made. This clarification follows opposition allegations that several neighboring countries rejected the fuel. The government assures the public that E20 has undergone extensive testing, ensuring reliability and performance, and vehicle manufacturers are adapting to the new standards.",
@@ -387,15 +459,6 @@ const newsData_en = [
     "time": "2026-07-05T11:51:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Central parliamentary board will decide': Chirag Paswan says LJP (Ram Vilas) plans to contest Uttar Pradesh assembly polls",
-    "desc": "Chirag Paswan's Lok Janshakti Party (Ram Vilas) is gearing up to contest the upcoming Uttar Pradesh assembly elections, with the state unit to decide alliance details and seat allocation. The party aims to expand its national footprint, including strengthening its organization in Uttar Pradesh. Meanwhile, Lucknow will host the birth anniversary celebrations for the party's founder, Ram Vilas Paswan, this year.",
-    "img": "https://static.toiimg.com/photo/msid-132194694,imgsize-77020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/central-parliamentary-board-will-decide-chirag-paswan-says-ljp-ram-vilas-plans-to-contest-uttar-pradesh-assembly-polls/articleshow/132194487.cms",
-    "time": "2026-07-05T11:49:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Arjun Kapoor holds sister Anshula's kaleera at pre-wedding festivities",
     "desc": "The wedding festivities for Anshula Kapoor are buzzing with excitement, showcasing stunning mehendi and kaleera rituals. Arjun Kapoor's light-hearted engagement with the kaleera debate captivated online audiences, while an emotional moment unfolded during the mehendi when Rohan Thakkar unexpectedly joined in. Their intertwined narratives of love sparked on a dating app, blossoming into a New York proposal and culminated with a significant Gor Dhana celebration.",
@@ -412,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/januaryjune-2026-box-office-report-card-with-dhurandhar-the-revenge-border-2-and-more-the-indian-box-office-bounces-back-with-rs-6300-crore-in-the-first-half-exclusive/articleshow/132193935.cms",
     "time": "2026-07-05T11:06:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Children are watching': TMC MP objects to 'condom ad' during India-England T20I, seeks BCCI action",
-    "desc": "Trinamool Congress MP Kirti Azad has voiced strong objections to the telecast of an adult advertisement, specifically for Durex, during the India-England T20I match. He highlighted that millions of children were watching and questioned the BCCI's decision to allow such content, especially when alcohol and cigarette ads are banned. Azad emphasized the discomfort it causes families and vowed to raise the issue in Parliament if necessary.",
-    "img": "https://static.toiimg.com/photo/msid-132194386,imgsize-57884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/children-are-watching-tmc-mp-objects-to-condom-ad-during-india-england-t20i-seeks-bcci-action/articleshow/132194308.cms",
-    "time": "2026-07-05T11:05:55.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ive-watched-him-bat-in-india-jacob-bethells-big-verdict-on-vaibhav-sooryavanshi-after-england-beat-india/articleshow/132194324.cms",
     "time": "2026-07-05T10:58:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After IPL, Bumrah begins road to redemption ahead of England ODI series",
-    "desc": "Jasprit Bumrah is back in training with the red ball, gearing up for a significant return to international cricket. After a challenging IPL, the pace spearhead will feature in the upcoming ODI series against England and the Test matches against Sri Lanka. This marks his return to ODIs after a long break, with his form crucial for India's World Test Championship campaign.",
-    "img": "https://static.toiimg.com/photo/msid-132193988,imgsize-1082480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-career-worst-ipl-season-jasprit-bumrah-begins-road-to-redemption-ahead-of-england-odi-series/articleshow/132193960.cms",
-    "time": "2026-07-05T10:30:36.000Z"
   },
   {
     "cat": "Business",
@@ -523,15 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "7 Old Hollywood icons married to Partners 30 years younger",
-    "desc": "The Golden Age of Hollywood gave us legendary performances and timeless charm. But off-screen, some of its biggest male icons had romantic histories marked by significant age differences often with partners three decades or more their junior. Here are seven stars",
-    "img": "https://static.toiimg.com/photo/msid-132193380,imgsize-65228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/charlie-chaplin-and-more-7-old-hollywood-icons-married-to-partners-30-years-younger/photostory/132193380.cms",
-    "time": "2026-07-05T09:20:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Megyn Kelly criticises Taylor Swift for ‘gauche’ wedding",
     "desc": "Taylor Swift and Travis Kelce's July 3, 2026, wedding at Madison Square Garden has sparked debate. Political commentator Megyn Kelly criticized the choice of venue, calling it \"on the nose\" and \"gauche.\" Kelly compared Swift to Meghan Markle, suggesting a similar need for constant attention. The star-studded ceremony, officiated by Adam Sandler, saw celebrity guests like Selena Gomez and Ed Sheeran in attendance.",
     "img": "https://static.toiimg.com/photo/msid-132193330,imgsize-246502.cms",
@@ -574,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-are-there-concerns-over-whatsapp-usernames-explained/article71183713.ece",
     "time": "2026-07-05T07:12:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Eala upsets Wimbledon champion Swiatek in historic win for Philippines, No. 2 seed Rybakina also out",
-    "desc": "The 21-year-old Eala found Centre Court at Wimbledon a bit more accommodating on Saturday (July 4) when she beat defending champion Iga Swiatek 7-6 (9), 6-2 in the third round at the grass-court major and made some history in the process",
-    "img": "https://th-i.thgim.com/public/incoming/5h1u0h/article71185177.ece/alternates/LANDSCAPE_1200/2026-07-04T155933Z_649444007_UP1EM7418F8XR_RTRMADP_3_TENNIS-WIMBLEDON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/eala-upsets-wimbledon-champion-swiatek-in-historic-win-for-philippines-no-2-seed-rybakina-also-out/article71185173.ece",
-    "time": "2026-07-05T05:35:23.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/goethe-institut-chennai-katharina-gorgen-reflects-on-six-years-as-leonhard-emmerling-takes-charge/article71112310.ece",
     "time": "2026-07-02T08:39:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Main Vaapas Aaunga’: How audiences’ tears revived the fate of Imtiaz Ali’s film",
-    "desc": "Here’s making sense of the phenomenon behind Imtiaz Ali’s ‘Main Vaapas Aaunga’, what it is that’s making people cry while watching it and if the box-office reception has been impacted by the social media reactions",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/d69vfp/article71169668.ece/alternates/LANDSCAPE_1200/A%20still%20from%20%E2%80%98Main%20Vaapas%20Aaunga%E2%80%99%20and%20Imtiaz%20Ali%20during%20the%20film%E2%80%99s%20shoot",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/main-vaapas-aaunga-how-audiences-tears-revived-the-fate-of-imtiaz-alis-film/article71169555.ece",
-    "time": "2026-07-02T08:09:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];

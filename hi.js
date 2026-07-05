@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Erling Haaland scores again, Norway lead 2-0 in 90th minute",
+    "desc": "Brazil vs Norway Brazil face Norway in a high-stakes FIFA World Cup 2026 Round of 16 clash in New York in the early hours of Monday, with a place in the quarter-finals on the line for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bra-vs-nor-fifa-world-cup-live-brazil-vs-norway-score-tactical-analysis-minute-by-minute-commentary-goals-1047241",
+    "time": "2026-07-05T19:33:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Neymar Jr. not playing Brazil vs Norway clash in FIFA World Cup 2026 despite Lucas Paqueta's injury?",
+    "desc": "Brazil have once again dropped Neymar Jr from the starting XI. The forward was deemed fit and was available for selection for their FIFA World Cup 2026 Round of 16 clash against Norway, as head...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-neymar-jr-not-playing-brazil-vs-norway-clash-in-fifa-world-cup-2026-despite-lucas-paqueta-s-injury-2026-07-06-1047240",
+    "time": "2026-07-05T19:17:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Australia beat England by seven wickets to lift T20 World Cup 2026, Beth Mooney steals show again",
     "desc": "Australia defeated England by six wickets at Lord’s to clinch the ICC Women’s T20 World Cup 2026, wrapping up a dominant chase of 151 with 17 balls to spare. Beth Mooney anchored the innings with...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-aus-weather-report-how-will-weather-in-london-fare-for-the-women-s-t20-world-cup-2026-final-2026-07-05-1047210",
     "time": "2026-07-05T12:46:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on team India dropping Sanju Samson in favour of Vaibhav Sooryavanshi",
-    "desc": "The Indian team succumbed to a hefty loss in the second T20I of the ongoing series against England. After the first game of the series was washed out due to rain, the two sides met...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-team-india-dropping-sanju-samson-after-second-t20i-loss-against-england-2026-07-05-1047208",
-    "time": "2026-07-05T12:04:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zlatan Ibrahimovic makes feelings clear after Paraguay's 'dirty game' against France in FIFA World Cup 2026",
-    "desc": "France made it through to the quarter-final of the ongoing FIFA World Cup 2026. Defeating Paraguay 0-1 in the round of 16 clash, it was thanks to a clinical penalty by Kylian Mbappé that helped...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/zlatan-ibrahimovic-makes-feelings-clear-after-paraguay-s-dirty-game-against-france-in-fifa-world-cup-2026-2026-07-05-1047191",
-    "time": "2026-07-05T09:26:23.000Z"
   }
 ];
