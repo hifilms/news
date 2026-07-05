@@ -1,7 +1,142 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Who is the 'real' TMC? Mamata and rebel camp face crucial EC test on Monday",
+    "title": "Mileage loss, engine concerns and what's next",
+    "desc": "Automobile majors are backing the government's mandatory 20% ethanol blending in petrol (E20), despite consumer concerns about mileage drops and potential material degradation in older vehicles. While official studies suggest minimal impact, vehicle owners report noticeable fuel efficiency losses. The controversy intensifies as India achieved its E20 target early, with speculation rising about even higher blending levels, prompting calls for consumer choice regarding fuel options.",
+    "img": "https://static.toiimg.com/photo/msid-132201945,imgsize-484632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/e20-debate-explained-mileage-loss-engine-concerns-and-whats-next/articleshow/132201919.cms",
+    "time": "2026-07-05T18:47:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Have they house arrested her?' TMC cries 'super emergency' over Mamata security",
+    "desc": "Security forces surrounded Mamata Banerjee's residence as she prepared to visit Baruipur following a horrific crime. The TMC condemned the deployment, calling it a \"super emergency\" and questioning if their leader was being placed under house arrest. The party also criticized the BJP, alleging their promises of women's safety have proven hollow amidst the ongoing tragedy.",
+    "img": "https://static.toiimg.com/photo/msid-132201708,imgsize-975976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/have-they-house-arrested-her-tmc-cries-super-emergency-over-mamata-security/articleshow/132201719.cms",
+    "time": "2026-07-05T18:35:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police to launch screening of rental properties in Kozhikode under Operation Toofan",
+    "desc": "Move follows intelligence inputs that drug traffickers and repeat offenders are using rented premises to store smuggled narcotics; database of landlords and rental properties in vulnerable areas to be prepared as part of the drive",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/operation-toofan-police-step-up-scrutiny-of-rental-properties-in-kozhikode/article71185904.ece",
+    "time": "2026-07-05T18:16:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I challenge the darkness'",
+    "desc": "Diljit Dosanjh's film 'Satluj', previously facing CBFC issues, was removed from Zee5 in India just two days after its digital release. The actor reacted strongly, posting '#ichallengethedarkness' and stating the film's unavailability is a setback. The streaming platform expressed commitment to bringing the film back, emphasizing its authentic narrative, while acknowledging the pause in its availability.",
+    "img": "https://static.toiimg.com/photo/msid-132201313,imgsize-262093.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjh-reacts-strongly-after-satluj-based-on-jaswant-singh-khalras-life-removed-from-ott-i-challenge-the-darkness/articleshow/132201301.cms",
+    "time": "2026-07-05T18:04:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 230 Irula families in Ariyalur find steady income through cashew harvesting initiative",
+    "desc": "The Tribal Welfare Department facilitated financial support for people from the Irula community to participate in public auctions for cashew plantations managed by the Tamil Nadu Forest Plantation Corporation Limited to enable them to directly participate in cashew cultivation and marketing",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/napjnw/article71185919.ece/alternates/LANDSCAPE_1200/CASHEWNUT.00_01_05_04.Still018.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/over-230-irula-families-in-ariyalur-find-steady-income-through-cashew-harvesting-initiative/article71185932.ece",
+    "time": "2026-07-05T17:50:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diljit, Arjun's 'Satluj' removed from OTT, unavailable in India",
+    "desc": "Diljit Dosanjh's film 'Satluj', formerly 'Punjab 95', has been pulled from ZEE5 in India shortly after its streaming debut. The movie, inspired by human rights activist Jaswant Singh Khalra, faced significant delays and a standoff with the CBFC over numerous proposed cuts. ZEE5 confirmed the removal, stating they are pursuing legal options to reinstate the film and reaffirming their commitment to powerful storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-132200019,imgsize-283427.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjhs-satluj-removed-from-ott-two-days-after-release-and-unavailable-in-india-the-streaming-platform-is-exploring-its-legal-options-to-restore-the-film/articleshow/132199570.cms",
+    "time": "2026-07-05T17:25:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Djokovic breaks Federer's all-time Wimbledon record",
+    "desc": "Novak Djokovic has etched his name further in Wimbledon history, becoming the men's singles player with the most match wins at the prestigious tournament, surpassing Roger Federer's record. Despite a challenging match and some on-court frustrations, Djokovic secured his quarterfinal berth. Meanwhile, the women's singles will see a new champion crowned as defending titleholder Barbora Krejcikova was eliminated.",
+    "img": "https://static.toiimg.com/photo/msid-132199933,imgsize-31960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/history-novak-djokovic-breaks-roger-federers-all-time-wimbledon-record/articleshow/132199714.cms",
+    "time": "2026-07-05T17:23:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA suspends USA top scorer's ban, clears him for World Cup clash with Belgium",
+    "desc": "Balogun, the USA's leading scorer in the tournament with three goals, had received a red card during the Americans' 2-0 round-of-32 win over Bosnia and Herzegovina on Wednesday after stepping on the foot of Tarik Muharemović.",
+    "img": "https://static.toiimg.com/photo/msid-132199766,imgsize-710878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-suspends-usa-top-scorer-folarin-baloguns-ban-clears-him-for-world-cup-clash-with-belgium/articleshow/132199617.cms",
+    "time": "2026-07-05T17:23:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Catch the thieves, not critics': Congress slams VHP over Ayodhya temple donation probe letter",
+    "desc": "The Congress has accused the VHP and BJP of attempting to deflect from the Ayodhya Ram Temple donation theft investigation. Following VHP president Alok Kumar's request for opposition leaders to provide evidence, Congress leader Pawan Khera questioned why the onus was on accusers instead of investigators. He alleged the real motive is to emotionally exploit Hindus rather than find culprits.",
+    "img": "https://static.toiimg.com/photo/msid-132197564,imgsize-754265.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/catch-the-thieves-not-critics-congress-slams-vhp-over-ayodhya-temple-donation-probe-letter/articleshow/132197514.cms",
+    "time": "2026-07-05T16:50:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gujarat police reunite missing Maharashtra woman with family",
+    "desc": "The woman, who is mentally ill, was found hundreds of kilometres away from her home; she is among the 314 adults and 100 children traced and reunited with their families by the Amreli police since 2025",
+    "img": "https://th-i.thgim.com/public/incoming/2dj7r6/article71186587.ece/alternates/LANDSCAPE_1200/Untitled%20design%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/gujarat-police-reunite-missing-maharashtra-woman-with-family/article71186363.ece",
+    "time": "2026-07-05T16:29:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nat-Sciver creates T20 World Cup history during final against Australia",
+    "desc": "England captain Nat Sciver-Brunt has set a new T20 World Cup record with her ninth 50-plus score in the final against Australia. Her unbeaten 58 anchored England's innings, guiding them to 150/4 after a shaky start. Despite a disciplined Australian bowling attack, Sciver-Brunt's resilience, supported by Freya Kemp's quickfire 44, ensured a competitive total for the hosts at Lord's.",
+    "img": "https://static.toiimg.com/photo/msid-132198479,imgsize-154996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/nat-sciver-brunt-creates-womens-t20-world-cup-history-during-final-against-australia/articleshow/132198453.cms",
+    "time": "2026-07-05T16:23:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir's chunky silver anklet steals the show at this wedding with Gauri: WATCH VIDEO",
+    "desc": "Aamir Khan's recent wedding to Gauri Spratt saw him embrace tradition with an ivory dhoti-kurta, but it was his unexpected chunky silver anklet that stole the show, sparking widespread online discussion. The intimate ceremony at his Bandra home was attended by close family and friends, including his children and Gauri's son, marking a joyous new chapter for the couple.",
+    "img": "https://static.toiimg.com/photo/msid-132198465,imgsize-273691.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-chunky-silver-anklet-teamed-with-dhoti-steals-the-show-as-he-gets-married-to-gauri-spratt-the-couple-twinned-in-ivory-watch-video/articleshow/132198362.cms",
+    "time": "2026-07-05T16:22:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heartwarming scenes! England captain carries son in her arms during national anthem",
+    "desc": "England captain Nat Sciver-Brunt captured hearts at the ICC Women's T20 World Cup 2026 final by walking onto the Lord's pitch with her infant son, Theo. This touching moment, witnessed by his wife Katherine Sciver-Brunt, added profound meaning to the match. Earlier, Sciver-Brunt had celebrated a century by rocking her bat like a baby, a gesture now amplified by this family-centric occasion.",
+    "img": "https://static.toiimg.com/photo/msid-132198463,imgsize-63380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/heartwarming-scenes-england-captain-nat-sciver-brunt-carries-son-theo-in-her-arms-during-national-anthem/articleshow/132198359.cms",
+    "time": "2026-07-05T16:22:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "First instalment of ₹25,863 crore under VB-GRAM G released",
+    "desc": "Uttar Pradesh received the highest allocation at ₹3,210.76 crore, followed by Andhra Pradesh, Rajasthan, and Tamil Nadu, while Kerala received a considerably smaller allocation of ₹925.33 crore; concerns over centralised planning and high technological barrier persist",
+    "img": "https://th-i.thgim.com/public/incoming/78wvbo/article71186529.ece/alternates/LANDSCAPE_1200/PTI12_20_2025_000255B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/first-instalment-of-25863-crore-under-vb-gram-g-released/article71186117.ece",
+    "time": "2026-07-05T16:15:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan wanted to marry Juhi Chawla after seeing QSQT",
+    "desc": "R Madhavan, a recent Padma Shri recipient, confessed a teenage crush on Juhi Chawla, revealing he once told his mother he wanted to marry her after seeing her in 'Qayamat Se Qayamat Tak'. Though this childhood dream didn't materialize, the two actors later worked together on 'The Railway Men'. Ironically, they never shared a scene as Madhavan had finished filming before Chawla joined the project.",
+    "img": "https://static.toiimg.com/photo/msid-132198202,imgsize-364938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-wanted-to-marry-juhi-chawla-after-watching-qayamat-se-qayamat-tak-co-starring-aamir-khan-that-was-my-only-aim/articleshow/132197971.cms",
+    "time": "2026-07-05T15:52:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Who is 'real' TMC? Mamata and rebel camp to face crucial EC test on Monday",
     "desc": "A significant political battle is unfolding within the Trinamool Congress as rival factions, led by Mamata Banerjee and Ritabrata Banerjee, prepare to present their claims to the Election Commission. The dispute centers on control of the party's name, symbol, and assets, escalating after a legislative revolt and the rebel group's takeover of the party headquarters. The EC's decision will determine the 'real' Trinamool Congress.",
     "img": "https://static.toiimg.com/photo/msid-132198200,imgsize-120488.cms",
     "src": "indiatimes.com",
@@ -43,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/political-vendetta-congress-vows-to-block-bill-seeking-automatic-removal-of-pm-cms-after-30-days-in-jail/articleshow/132197592.cms",
     "time": "2026-07-05T15:11:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress pulls the plug on independent alliance in Pala, throws UDF into crisis",
-    "desc": "Move over council’s decision to grant permission to DYFI to hold its district meet; Congress terms the move ‘political betrayal’; three-member collective unfazed, says it has an agreement with the UDF and not just the Congress alone",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/congress-pulls-the-plug-on-independent-alliance-in-pala-throws-udf-into-crisis/article71185881.ece",
-    "time": "2026-07-05T15:07:45.000Z"
   },
   {
     "cat": "Sports",
@@ -342,24 +468,6 @@ const newsData_en = [
     "time": "2026-07-05T10:58:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Syama Prasad Mukherjee resides in people's hearts': BJP after Jana Sangh founder's statue vandalised in Kolkata",
-    "desc": "An under-construction statue of Jana Sangh founder Syama Prasad Mukherjee in Kolkata was vandalized overnight, with its tile and nameplate damaged. The incident occurred just before Union Home Minister Amit Shah's visit to the city for programs marking Mukherjee's birth anniversary. West Bengal Minister Sharadwat Mukherjee condemned the act, emphasizing Mukherjee's enduring legacy.",
-    "img": "https://static.toiimg.com/photo/msid-132194052,imgsize-63596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/syama-prasad-mukherjee-statue-vandalised-in-kolkata-tile-and-nameplate-damaged/articleshow/132193864.cms",
-    "time": "2026-07-05T10:37:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Drums, trumpets and fireworks! Mexico fans disrupt England's sleep before WC game",
-    "desc": "England national football team endured a sleepless night ahead of their World Cup last-16 clash with Mexico national football team after home fans gathered outside their hotel with drums, trumpets and fireworks. Manager Thomas Tuchel said the squad were also adapting to Mexico City's high altitude and expected a fast start from the hosts.",
-    "img": "https://static.toiimg.com/photo/msid-132193993,imgsize-136372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/drums-trumpets-and-fireworks-mexico-fans-disrupt-englands-sleep-before-world-cup-showdown-watch/articleshow/132193942.cms",
-    "time": "2026-07-05T10:32:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After IPL, Bumrah begins road to redemption ahead of England ODI series",
     "desc": "Jasprit Bumrah is back in training with the red ball, gearing up for a significant return to international cricket. After a challenging IPL, the pace spearhead will feature in the upcoming ODI series against England and the Test matches against Sri Lanka. This marks his return to ODIs after a long break, with his form crucial for India's World Test Championship campaign.",
@@ -385,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-top-it-firms-set-for-muted-q1-as-ai-spending-fails-to-lift-growth-report/articleshow/132193752.cms",
     "time": "2026-07-05T10:10:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'DMK to remain protective fortress of Muslims, minorites': Udhayanidhi Stalin",
-    "desc": "Speaking at the wedding of the granddaughter of DMK headquarters secretary 'Thuraimugam' Kaja in Thiruverkadu, Chennai, Udhayanidhi said the party's bond with minority communities remained strong despite political attacks and campaigns aimed at creating divisions. Taking an apparent swipe at political rivals without naming anyone, he said, \"some people left us as soon as a sofa arrived\".",
-    "img": "https://static.toiimg.com/photo/msid-132193854,imgsize-104802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dmk-to-remain-protective-fortress-of-muslims-minorites-udhayanidhi-stalin/articleshow/132193841.cms",
-    "time": "2026-07-05T10:10:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -433,15 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ahead of her wedding, revisit Anshula Kapoor's adorable childhood throwback",
-    "desc": "As Anshula Kapoor gears up for her wedding to Rohan Thakkar on July 6, a delightful childhood memory has emerged. Reflecting on a past birthday, she humorously mentioned her outfit that resembled a two-tiered cake. With pre-wedding festivities in full swing, the Kapoor family and their Bollywood friends are enjoying joyful mehendi ceremonies, promising a heartwarming celebration ahead.",
-    "img": "https://static.toiimg.com/photo/msid-132193329,imgsize-136828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ahead-of-her-wedding-revisit-anshula-kapoors-adorable-childhood-throwback-where-she-compared-herself-to-birthday-cake/articleshow/132193298.cms",
-    "time": "2026-07-05T09:14:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Megyn Kelly criticises Taylor Swift for ‘gauche’ wedding",
     "desc": "Taylor Swift and Travis Kelce's July 3, 2026, wedding at Madison Square Garden has sparked debate. Political commentator Megyn Kelly criticized the choice of venue, calling it \"on the nose\" and \"gauche.\" Kelly compared Swift to Meghan Markle, suggesting a similar need for constant attention. The star-studded ceremony, officiated by Adam Sandler, saw celebrity guests like Selena Gomez and Ed Sheeran in attendance.",
     "img": "https://static.toiimg.com/photo/msid-132193330,imgsize-246502.cms",
@@ -451,48 +541,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Aamir-Gauri wedding: First pic of couple as husband-wife is out",
-    "desc": "Aamir Khan and Gauri Spratt married in an intimate Pali Hill ceremony, with Spratt in ivory lace and Khan in a cream kurta. Khan had confirmed a simple registered marriage with close family and friends. This is his third wedding, following Reena Dutta and Kiran Rao, with whom he shares cordial co-parenting ties.",
-    "img": "https://static.toiimg.com/photo/msid-132193318,imgsize-395365.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-gauri-spratt-wedding-first-photo-of-the-couple-as-husband-and-wife-is-out-the-newlyweds-take-their-wedding-vows-in-the-presence-of-family-and-children/articleshow/132193318.cms",
-    "time": "2026-07-05T09:11:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Danny Glover’s daughter reveals his initial shift in health",
     "desc": "Veteran actor Danny Glover, known for 'Lethal Weapon,' was diagnosed with Alzheimer's in 2022. His daughter, Mandisa, shared that while he can recall vivid details from the 1970s, some memories, particularly about his parents, are now fragmented. Despite the challenges, Glover sometimes remembers his mother's acting aspirations, offering poignant glimpses into his life.",
     "img": "https://static.toiimg.com/photo/msid-132193272,imgsize-269587.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/danny-glovers-daughter-reveals-his-initial-shift-in-health-following-his-alzheimers-diagnosis-pieces-were-missing/articleshow/132193266.cms",
     "time": "2026-07-05T09:06:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Patrick J. Adams pitches 'Suits' revival with Meghan Markle",
-    "desc": "In an exciting twist, Patrick J. Adams has shared his visionary idea for a potential 'Suits' revival, featuring the original cast and Meghan Markle's beloved character, Rachel Zane, embroiled in a gripping class-action lawsuit against an AI conglomerate. He revealed on social media how the past could haunt their futures, sparking nostalgia.",
-    "img": "https://static.toiimg.com/photo/msid-132193235,imgsize-110310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/patrick-j-adams-im-ready-as-he-pitches-a-suits-revival-with-meghan-markle-and-the-original-cast/articleshow/132193217.cms",
-    "time": "2026-07-05T09:01:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why England players have been allowed to use Viagra ahead of Mexico World Cup clash",
-    "desc": "England's World Cup preparations have taken an unusual turn as players are reportedly being offered Viagra to combat the effects of Mexico City's high altitude. The medication's ability to widen blood vessels could aid circulation in the thinner air, a factor explored by the medical team. This move comes as England faces a formidable Mexican side at the Estadio Azteca, a venue where they boast an impressive record.",
-    "img": "https://static.toiimg.com/photo/msid-132192715,imgsize-126908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-england-players-have-been-allowed-to-use-viagra-ahead-of-mexico-world-cup-clash/articleshow/132192707.cms",
-    "time": "2026-07-05T08:17:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Beyoncé surprises with long-unreleased song 'Morning Dew (Donk)'",
-    "desc": "Beyoncé surprised fans on July 4, 2026, with the release of her long-unheard track 'Morning Dew (Donk).' This slow-groove tune, reportedly recorded in 2013, will feature on the upcoming 20th Anniversary edition of her iconic 2006 album, 'B'Day.' The release coincides with the 60-day countdown to the album's reissue and Beyoncé's 45th birthday on September 4, marking a significant celebration for her dedicated fanbase.",
-    "img": "https://static.toiimg.com/photo/msid-132192687,imgsize-208611.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/beyonce-surprises-with-long-unreleased-song-morning-dew-donk-ahead-of-20th-anniversary-of-bday-direct-nod-to-her-loyal-beyhive/articleshow/132192698.cms",
-    "time": "2026-07-05T07:54:11.000Z"
   },
   {
     "cat": "Sports",
@@ -513,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-05T07:51:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "PCB sacks Shan Masood, hands Test captaincy back to Babar Azam",
-    "desc": "Babar Azam has been reappointed as Pakistan's Test captain, leading the team against the West Indies and England in crucial ICC World Test Championship matches. The squads feature four new faces, offering them a chance to debut. Pakistan aims to climb the WTC standings from their current ninth position during these upcoming overseas assignments.",
-    "img": "https://static.toiimg.com/photo/msid-132192438,imgsize-110696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-sacks-shan-masood-hands-test-captaincy-back-to-babar-azam/articleshow/132192452.cms",
-    "time": "2026-07-05T07:44:56.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why are there concerns over WhatsApp usernames?",
     "desc": "What is the username feature that WhatsApp intends to roll out? How does it work and what privacy safeguards are built into it? Why is the Indian government asking WhatsApp to stop its roll-out? Can the government dictate an app’s features?",
@@ -529,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-are-there-concerns-over-whatsapp-usernames-explained/article71183713.ece",
     "time": "2026-07-05T07:12:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Since Mbappe didn't pay attention, I lost temper': Gill on no-handshake drama",
-    "desc": "Orlando Gill admitted he \"lost my temper\" after Kylian Mbappe ignored his post-match handshake following France's 1-0 World Cup win over Paraguay national football team. Gill threw the ball at Mbappe after the final whistle, while the France captain defended his team's response to Paraguay's physical tactics after scoring the decisive penalty.",
-    "img": "https://static.toiimg.com/photo/msid-132192104,imgsize-138388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/since-kylian-mbappe-didnt-pay-me-any-attention-i-lost-temper-paraguays-orlando-gill-breaks-silence-on-no-handshake-drama/articleshow/132191908.cms",
-    "time": "2026-07-05T06:56:58.000Z"
   },
   {
     "cat": "Sports",
@@ -583,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/aung-san-suu-kyi-a-symbol-of-resistance/article71183720.ece",
     "time": "2026-07-05T01:34:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gambhir's animated chat with Samson after Sooryavanshi's debut goes viral",
-    "desc": "Sanju Samson's omission from India's T20I against England, despite his World Cup heroics, has sparked debate. Head coach Gautam Gambhir, who previously lauded Samson as 'world-class,' was seen in a quiet conversation with the player before the match. Samson's recent low scores on the UK tour led to his replacement by debutant Vaibhav Sooryavanshi, highlighting the swift shifts in international cricket fortunes.",
-    "img": "https://static.toiimg.com/photo/msid-132189615,imgsize-824922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/gautam-gambhirs-emotional-chat-with-sanju-samson-after-vaibhav-sooryavanshis-debut-goes-viral/articleshow/132189605.cms",
-    "time": "2026-07-05T01:04:16.000Z"
   },
   {
     "cat": "Business",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

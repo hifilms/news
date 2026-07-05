@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Australia beat England by seven wickets to lift T20 World Cup 2026, Beth Mooney steals show again",
+    "desc": "Australia defeated England by six wickets at Lord’s to clinch the ICC Women’s T20 World Cup 2026, wrapping up a dominant chase of 151 with 17 balls to spare. Beth Mooney anchored the innings with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-beat-england-by-seven-wickets-to-lift-t20-world-cup-2026-beth-mooney-steals-show-again-2026-07-05-1047236",
+    "time": "2026-07-05T17:46:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic breaks Roger Federer's all-time Wimbledon record with win over Roman Safiullin",
+    "desc": "Novak Djokovic broke Roger Federer’s record for most men's singles victories in Wimbledon history. The achievement was recorded as the Serbian moved into the Wimbledon quarter-finals by defeating Russian Roman Safiullin in four sets. prevailed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-breaks-roger-federer-s-all-time-wimbledon-record-with-win-over-roman-safiullin-2026-07-05-1047232",
+    "time": "2026-07-05T17:23:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nat Sciver-Brunt walks out with her infant son in rare move during T20 World Cup 2026 final vs Australia",
+    "desc": "In a memorable pre-match scene at Lord's, England captain Nat Sciver-Brunt carried her infant son, Theo, onto the field before the Women's T20 World Cup 2026 final against Australia on Sunday. The England skipper continued...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-walks-out-with-her-son-in-rare-move-during-t20-world-cup-2026-final-vs-australia-2026-07-05-1047229",
+    "time": "2026-07-05T16:28:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gurnoor Brar picks 10 wickets as India A dismantle Sri Lanka A in second unofficial Test",
     "desc": "India A registered a convincing win over Sri Lanka A in the second unofficial Test in Galle. With that, the Dhruv Jurel-led side sealed the two-match contest 1-0. Notably, the visitors comfortably chased 33 runs...",
     "img": "",
@@ -10,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Australia opt to field first after winning toss at Lord's",
+    "title": "Australia beat England by seven wickets to crown champions",
     "desc": "Australia have opted to bowl first after winning the toss in the Women’s T20 World Cup final against hosts England at Lord's, setting up a blockbuster contest between the tournament's two unbeaten sides. The Sophie...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/zlatan-ibrahimovic-makes-feelings-clear-after-paraguay-s-dirty-game-against-france-in-fifa-world-cup-2026-2026-07-05-1047191",
     "time": "2026-07-05T09:26:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam returns as Pakistan's Test captain ahead of two-game series against West Indies",
-    "desc": "In a major development, the PCB (Pakistan Cricket Board) has come forward and named veteran batter Babar Azam as their new Test skipper. The change comes after Shan Masood was stripped of his captaincy and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-returns-as-pakistan-s-test-captain-ahead-of-two-game-series-against-west-indies-2026-07-05-1047184",
-    "time": "2026-07-05T07:18:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dinesh Karthik weighs in on Shreyas Iyer's subpar start as India's T20I captain after loss against England",
-    "desc": "Shreyas Iyer has had a subpar start to life as the captain of the Indian T20I side. After losing the two-game T20I series against Ireland, Iyer has been unable to lead India to a win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-weighs-in-on-shreyas-iyer-s-subpar-start-as-india-s-t20i-captain-after-loss-against-england-2026-07-05-1047179",
-    "time": "2026-07-05T06:40:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch the Women's T20 WC 2026 final on TV and stream online?",
-    "desc": "The stage is set for the final of the ongoing Women’s T20 World Cup 2026. Hosts England women will be taking on Australia women at the Lord’s Cricket Ground in London on July 5th. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-vs-australia-live-when-and-where-to-watch-the-women-s-t20-wc-2026-final-on-tv-and-stream-online-2026-07-05-1047175",
-    "time": "2026-07-05T05:29:46.000Z"
   }
 ];
