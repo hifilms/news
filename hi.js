@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kylian Mbappe's penalty saves France vs Paraguay, who will they face in quarter-finals of FIFA World Cup?",
+    "desc": "France captain Kylian Mbappe’s late penalty secured France a hard-fought 1-0 win over Paraguay in Philadelphia. The solitary goal proved enough to send the Les Bleus into the next round after a tense, physical encounter...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-s-penalty-saves-france-vs-paraguay-who-will-they-face-in-quarter-finals-of-fifa-world-cup-2026-07-05-1047158",
+    "time": "2026-07-04T23:21:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Aurelien Tchouameni not playing in France vs Paraguay clash in FIFA World Cup 2026?",
     "desc": "France are without one of their most influential midfielders as Aurelien Tchouameni has been left out of the starting XI for FIFA World Cup 2026 Round of 16 clash against Paraguay. The Real Madrid star...",
     "img": "",
@@ -10,7 +19,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Paraguay manage to hold France to 0-0 at half-time",
+    "title": "France beat Paraguay 1-0. following Kylian Mbappe's penalty",
     "desc": "France enter their FIFA World Cup 2026 Round of 16 meeting with Paraguay carrying the weight of expectations to maintain their momentum. Didier Deschamps' side have looked balanced across the pitch, combining defensive solidity with...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/defending-champion-iga-swiatek-knocked-out-of-wimbledon-2026-alexandra-eala-creates-history-2026-07-04-1047146",
     "time": "2026-07-04T16:45:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Axar Patel becomes first Indian spinner to register phenomenal record in second T20I vs England",
-    "desc": "Spinner Axar Patel picked up the prized wicket of Harry Brook in the second T20I against England at Old Trafford in Manchester. Chasing 191 runs, the hosts lost two early wickets as Arshdeep Singh proved...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-becomes-first-indian-spinner-to-register-phenomenal-record-in-second-t20i-vs-england-2026-07-04-1047144",
-    "time": "2026-07-04T16:17:01.000Z"
   }
 ];
