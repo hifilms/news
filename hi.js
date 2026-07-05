@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Zlatan Ibrahimovic makes feelings clear after Paraguay's 'dirty game' against France in FIFA World Cup 2026",
+    "desc": "France made it through to the quarter-final of the ongoing FIFA World Cup 2026. Defeating Paraguay 0-1 in the round of 16 clash, it was thanks to a clinical penalty by Kylian Mbappé that helped...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/zlatan-ibrahimovic-makes-feelings-clear-after-paraguay-s-dirty-game-against-france-in-fifa-world-cup-2026-2026-07-05-1047191",
+    "time": "2026-07-05T09:26:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam returns as Pakistan's Test captain ahead of two-game series against West Indies",
+    "desc": "In a major development, the PCB (Pakistan Cricket Board) has come forward and named veteran batter Babar Azam as their new Test skipper. The change comes after Shan Masood was stripped of his captaincy and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-returns-as-pakistan-s-test-captain-ahead-of-two-game-series-against-west-indies-2026-07-05-1047184",
+    "time": "2026-07-05T07:18:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dinesh Karthik weighs in on Shreyas Iyer's subpar start as India's T20I captain after loss against England",
+    "desc": "Shreyas Iyer has had a subpar start to life as the captain of the Indian T20I side. After losing the two-game T20I series against Ireland, Iyer has been unable to lead India to a win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-weighs-in-on-shreyas-iyer-s-subpar-start-as-india-s-t20i-captain-after-loss-against-england-2026-07-05-1047179",
+    "time": "2026-07-05T06:40:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch the Women's T20 WC 2026 final on TV and stream online?",
     "desc": "The stage is set for the final of the ongoing Women’s T20 World Cup 2026. Hosts England women will be taking on Australia women at the Lord’s Cricket Ground in London on July 5th. It...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/serena-williams-announces-decision-to-withdraw-from-doubles-action-at-wimbledon-2026-explains-reason-2026-07-05-1047153",
     "time": "2026-07-04T18:52:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very proud moment': Vaibhav Sooryavanshi's childhood coach weighs in on youngster's international debut",
-    "desc": "The Indian team continued its ongoing five-game T20I series against England by taking on the side in the second T20I. Ahead of the game, there was only one major point of discussion, and that was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/very-proud-moment-vaibhav-sooryavanshi-s-childhood-coach-weighs-in-on-youngster-s-international-debut-2026-07-04-1047152",
-    "time": "2026-07-04T18:14:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Bishnoi sets unwanted record, concedes 29 runs in 17th over as India lose to England in 2nd T20I",
-    "desc": "England defeated India by four wickets in the second T20I at the iconic Old Trafford in Manchester. For the majority of the innings, the game was pretty much in India’s control, but in the 17th...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-bishnoi-sets-unwanted-record-concedes-29-runs-in-17th-over-as-india-lose-to-england-in-2nd-t20i-2026-07-04-1047150",
-    "time": "2026-07-04T17:36:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jacob Bethell's whirlwind innings propels England to stellar victory over India in the second T20I",
-    "desc": "India and England continued their ongoing T20I series by taking on each other in the second T20I. The two sides met at Old Trafford in Manchester on July 4th, and the clash saw England register...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-s-whirlwind-innings-propels-england-to-stellar-victory-over-india-in-the-second-t20i-2026-07-04-1047149",
-    "time": "2026-07-04T17:15:14.000Z"
   }
 ];

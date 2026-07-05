@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "દરરોજ 100 રૂપિયા બચાવી પોસ્ટ ઓફિસમાં કરો જમા, ગેરંટી સાથે તૈયાર થશે 5 લાખનું ફંડ",
+    "desc": "સુરક્ષિત રોકાણ માટે પોસ્ટ ઓફિસની આરડી શાનદાર વિકલ્પ છે. આ યોજનામાં માત્ર 100 રૂપિયાથી રોકાણની શરૂઆત કરી શકાય છે. જો તમે દર મહિને 3000 રૂપિયા જમા કરો તો 6.7 ટકા વ્યાજદર પ્રમાણે પાંચ લાખનું ફંડ બનાવી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/post-office-rd-scheme-save-just-rs-100-a-day-and-build-a-guaranteed-fund-of-over-rs-5-lakhs-483657 ",
+    "time": "2026-07-05T09:55:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "24 કલાકમાં Mbappeએ મેસ્સીને ફરીથી પછાળ્યો, ગોલ્ડન બૂટની રેસમાં નિકળ્યો આગળ, આ 5 છે દાવેદાર",
+    "desc": "2026 ફિફા વર્લ્ડ કપમાં ગોલ્ડન બૂટ માટેની દોડ વધુને વધુ તીવ્ર બની છે. પેરાગ્વે સામેના નિર્ણાયક ગોલ સાથે કાયલિયન એમબાપ્પેએ લિયોનેલ મેસ્સીના રેકોર્ડની બરાબરી કરી. એર્લિંગ હાલેન્ડ અને હેરી કેન જેવા ખેલાડીઓ પણ દોડમાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/mbappe-beats-messi-again-in-24-hours-takes-lead-in-golden-boot-race-these-are-the-5-contenders-483655 ",
+    "time": "2026-07-05T08:57:11.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "આમિર ખાનની લવ લાઈફ વિશે જાણો,1986 થી 2026 સુધીમાં 3 વખત થયો પ્રેમ, 2 ડિવોર્સ અને હવે ત્રીજા લગ્ન",
     "desc": "આમિર ખાન અને ગૌરી સ્પ્રેટના ત્રીજા લગ્ન ચર્ચામાં છે. 61 વર્ષની ઉંમરે આમિર ત્રીજી વખત દુલ્હો બન્યો છે. તેવામાં તેની પર્સનલ લાઈફ વિશે જાણવાની લોકોની આતુરતા વધી છે. આમિર ખાનને 1986 થી 2026 સુધીમાં ત્રણ વખત સાચો પ્રેમ થયો છે. તો ચાલો આજે તમને જણાવીએ આમિર ખાનની લવ લાઈફની ટાઈમલાઈન.",
@@ -628,24 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/top-3-budget-electric-cars-in-india-under-10-lakh-for-daily-driving-482760 ",
     "time": "2026-06-26T12:03:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "પદ્મશ્રી એવોર્ડમાં માધવને પહરેલી ઘડિયાળની ચર્ચા એમ જ નથી થઈ રહી, આ ઘડિયાળની અંદર છુપાયેલી છે અદ્ભુત કલા",
-    "desc": "પદ્મશ્રી પુરસ્કાર લેતી વખતે આર માધવને ખાસ ઘડિયાળ પહેરી હતી. આ ઘડિયાળ કોઈ સામાન્ય ઘડિયાળ નથી. આ એક લિમિટેડ એડિશન વોચ છે. દુનિયામાં આવી 10 જ ઘડિયાળ છે જેમાંથી એક આર માધવન પાસે છે. જો તમને આ ઘડિયાળની ખાસિય વિશે નથી ખબર તો ચાલો તમન જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/what-is-special-about-padma-shree-r-madhavan-limited-edition-watch-r-madhavan-40-lakh-watch-details-482721 ",
-    "time": "2026-06-26T07:07:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અક્ષય કુમારની ફિલ્મમાં છે દમ, જાણો વેલકમ ટુ ધ જંગલ ફિલ્મ કેવી છે ?",
-    "desc": "અક્ષય કુમાર સહિત 30 થી વધુ કલાકારોની ફિલ્મ વેલકમ ટુ ધ જંગલ આજે રિલીઝ થઈ ચુકી છે અને ફિલ્મને લઈ પોઝિટિવ રીવ્યુ સામે આવી રહ્યા છે. સોશિયલ મીડિયા પર આ ફિલ્મને પોઝિટિવ રિસ્પોન્સ મળી રહ્યો છે તો ચાલો તમને જણાવીએ વેલકમ ટુ ધ જંગલ ફિલ્મમાં શું ખાસ છે અને ફિલ્મ કેવી છે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/multi-starer-movie-welcome-to-the-jungle-film-review-in-gujarati-482717 ",
-    "time": "2026-06-26T06:15:30.000Z"
   },
   {
     "cat": "Tech",
