@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will weather in London fare for the Women's T20 World Cup 2026 final?",
+    "desc": "The Women’s T20 World Cup 2026 is all set to be played between England and Australia. The two sides will meet at the Lord’s Cricket Ground in London on July 5th; the teams will hope...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-aus-weather-report-how-will-weather-in-london-fare-for-the-women-s-t20-world-cup-2026-final-2026-07-05-1047210",
+    "time": "2026-07-05T12:46:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer opens up on team India dropping Sanju Samson in favour of Vaibhav Sooryavanshi",
+    "desc": "The Indian team succumbed to a hefty loss in the second T20I of the ongoing series against England. After the first game of the series was washed out due to rain, the two sides met...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-team-india-dropping-sanju-samson-after-second-t20i-loss-against-england-2026-07-05-1047208",
+    "time": "2026-07-05T12:04:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Zlatan Ibrahimovic makes feelings clear after Paraguay's 'dirty game' against France in FIFA World Cup 2026",
     "desc": "France made it through to the quarter-final of the ongoing FIFA World Cup 2026. Defeating Paraguay 0-1 in the round of 16 clash, it was thanks to a clinical penalty by Kylian Mbappé that helped...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-pinpoints-reason-behind-india-s-defeat-to-england-in-second-t20i-in-manchester-2026-07-05-1047155",
     "time": "2026-07-04T20:04:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Morocco storm into FIFA World Cup 2026 quarterfinals with commanding win over Canada, who will they play next?",
-    "desc": "Morocco booked their place in the FIFA World Cup 2026 quarterfinals with a clinical 3-0 victory over Canada in Houston. The Achraf Hakimi side overcame a difficult first half before striking decisively after the interval...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/morocco-storm-into-fifa-world-cup-2026-quarterfinals-with-commanding-win-over-canada-who-will-they-play-next-2026-07-05-1047154",
-    "time": "2026-07-04T19:23:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Serena Williams announces decision to withdraw from doubles action at Wimbledon 2026, explains reason",
-    "desc": "Legendary Tennis star Serena Williams has confirmed that she will not compete in the Wimbledon women's doubles event. Explaining the reason for her withdrawal, the 44-year-old highlighted her knee injury, which ended plans for a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/serena-williams-announces-decision-to-withdraw-from-doubles-action-at-wimbledon-2026-explains-reason-2026-07-05-1047153",
-    "time": "2026-07-04T18:52:18.000Z"
   }
 ];

@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "કેટલો પગાર હોય તો Tata Sierra EV ખરીદી શકાય ? જાણો કેટલી આવશે મહિને EMI",
+    "desc": "Tata Sierra EVની શરૂઆતની એક્સ-શોરૂમ કિંમત ₹18.79 લાખ રાખવામાં આવી છે, જ્યારે તેના ટોપ વેરિઅન્ટની કિંમત આશરે ₹25.99 લાખ સુધી જાય છે. ત્યારે જો તમારે આ કાર ખરીદવી હોય તો તમારો પગાર કેટલો હોવો જોઈએ અને મહિને EMI કેટલી આવશે, તેના પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tata-sierra-ev-on-emi-how-much-salary-you-should-buy-this-car-483700 ",
+    "time": "2026-07-05T13:18:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બોલ્ડ અને ઇન્ટિમેટ સીન્સથી ભરેલી છે OTTની આ 5 સીરિઝ, બાળકોની સામે ભૂલથી પણ ન કરો પ્લે",
+    "desc": "આજકાલ, OTT પ્લેટફોર્મ પર અસંખ્ય ફિલ્મો અને સીરિઝો ઉપલબ્ધ છે, જેનો દર્શકો ખૂબ આનંદ માણી રહ્યા છે. પરંતુ આજે, અમે તમને પાંચ એવી સીરિઝ વિશે જણાવીશું જેમાં બોલ્ડ દ્રશ્યો છે. આ સીરિઝઓ જોતા પહેલા તમારે તમારી ગોપનીયતાનું ખાસ ધ્યાન રાખવાની જરૂર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/these-5-ott-series-are-full-of-bold-and-intimate-scenes-dont-play-them-in-front-of-children-by-mistake-483698 ",
+    "time": "2026-07-05T12:20:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કોણ હતા જસવંત સિંહ ખાલડા? જેમણે ખોલ્યું હજારો મૌતનું રહસ્ય, બેરહેમીથી માર્યા ગયા &amp;#039;સતલુજ&amp;#039;ના હીરો",
+    "desc": "ફિલ્મ 'સતલુજ' માનવાધિકાર કાર્યકર્તા જસવંત સિંહ ખાલડાની લાઈફ પર આધારિત છે, જેમની કથિત રીતે 1995માં પંજાબ પોલીસ દ્વારા અપહરણ કરીને હત્યા કરવામાં આવી હતી. હવે તમારા મનમાં પ્રશ્ન થતો હશે કે, કોઈ પોલીસ અપહરણ કરીને કોઈને કેવી રીતે મારી શકે? પરંતુ આ પ્રશ્નો પહેલાં તમારા માટે જસવંત સિંહ ખાલડા વિશે જાણવું જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/who-was-jaswant-singh-khalda-the-one-who-opened-the-secret-of-thousands-of-deaths-the-hero-of-sutlej-was-mercilessly-killed-483678 ",
+    "time": "2026-07-05T12:03:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "જાણો કેટલી છે આમિર ખાનની નેટવર્થ ? એક્ટરને છે લક્ઝરી કારનો શોખ, મુંબઈમાં જ નહીં કેલીફોર્નિયામાં પણ આલીશાન ઘર",
+    "desc": "આજે સોશિયલ મીડિયા પર સૌથી વધુ ચર્ચા આમિર ખાનની થઈ રહી છે. આજે તેણે લોંગ ટાઈમ ગર્લફ્રેન્ડ ગૌરી સ્પ્રેટને પત્ની બનાવી છે. 61 વર્ષે ત્રીજા લગ્ન કરનાર ગૌરીના પતિ આમિર ખાન કેટલા અમીર છે તેવો પ્રશ્ન પણ થવા લાગ્યો છે તો ચાલો જાણીએ આમિર ખાન કેટલા કરોડનો માલિક છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-net-worth-aamir-khan-car-collection-and-luxurious-home-details-in-gujarati-483677 ",
+    "time": "2026-07-05T11:53:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રામ મંદિરના દાન ચોરી વિવાદ પર પહેલી વાર બોલ્યા મોહન ભાગવત, જાણો RSS વડાએ શું કહ્યું?",
+    "desc": "રાષ્ટ્રીય સ્વયંસેવક સંઘ (RSS)ના વડા મોહન ભાગવતે અયોધ્યા રામ મંદિરમાં દાનપેટીઓની ચોરીના વિવાદ પર એક મોટું નિવેદન આપ્યું છે. નાગપુરમાં મીડિયા સાથે વાત કરતા, તેમણે RSSના મહાસચિવ દત્તાત્રેય હોસાબલેના નિવેદનને ટાંકીને ગુનેગારો સામે કડક કાર્યવાહી કરવાની હાકલ કરી. આ મામલે RSSના વડાનું વલણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mohan-bhagwat-spoke-for-the-first-time-on-the-ram-temple-donation-theft-controversy-know-what-the-rss-chief-said-483676 ",
+    "time": "2026-07-05T11:53:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અભિનેત્રી સુમોના ચક્રવર્તીએ કરાવી એન્ડોમેટ્રિયોસિસ સર્જરી, જાણો શું છે આ સમસ્યા",
+    "desc": "અભિનેત્રી સુમોના ચક્રવર્તી જે છેલ્લા કેટલાક સમયથી સોશિયલ મીડિયા અને લાઈમલાઈટથી દુર હતી તે હવે સોશિયલ મીડિયા પર એક્ટિવ થઈ છે અને તેણે જણાવ્યું છે કે તે 2 મહિનાથી હેલ્થ ઈસ્યુથી પરેશાન હતી. તેને એન્ડોમેટ્રિયોસિસની સમસ્યા હતી અને તેણે હવે ઓપરેશન કરાવ્યું છે. આ સમસ્યા શું છે અને હવે અભિનેત્રીની હાલત કેવી છે ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/actress-sumona-chakravarti-health-update-know-what-is-endometriosis-surgery-in-gujarati-483674 ",
+    "time": "2026-07-05T11:39:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સગાઈના 4 મહિનામાં જ તૂટ્યો સંબંધ ? આકૃતિની પોસ્ટથી મળ્યા સંકેતો! પૃથ્વી શોને કર્યો અનફોલો",
+    "desc": "પૃથ્વી શો અને આકૃતિ અગ્રવાલે આ માર્ચમાં જ ખૂબ જ ધામધૂમથી સગાઈ કરી હતી, ત્યારે બંને વચ્ચેના સંબંધો માત્ર ચાર મહિનામાં આટલા બધા કડવાશભર્યા થઈ જશે, તેની કોઈને કલ્પના પણ નહોતી. આકૃતિ અગ્રવાલની એક સોશિયલ મીડિયા પોસ્ટે ચાહકોને ચોંકાવી દીધા છે, જેનાથી અટકળો શરૂ થઈ છે કે તેમની સગાઈ તૂટી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/prithvi-shaw-and-akriti-agarwal-engagement-breakup-rumours-483672 ",
+    "time": "2026-07-05T11:32:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ખામેનેઈના જનાજામાં જોવા મળ્યા ત્રણ દીકરા, યુદ્ધ બાદ પહેલીવાર આવ્યા સામે; ક્યાં છે સુપ્રીમ લીડર મોઝતબા?",
+    "desc": "ઈરાનના દિવંગત સુપ્રીમ લીડર આયાતુલ્લા અલી ખામેનેઈના અંતિમ સંસ્કારમાં લાખો લોકો ઉમટી પડ્યા છે. આ દરમિયાન એક ભાવુક તસવીરે સમગ્ર દુનિયાનું ધ્યાન ખેંચ્યું છે. ખામેનેઈના ત્રણ દીકરા યુદ્ધ બાદ પહેલીવાર પિતાના તાબૂત પાછળ એકસાથે જોવા મળ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/three-sons-seen-at-khamenei-funeral-first-time-since-the-war-where-is-supreme-leader-mojtaba-khamenei-483673 ",
+    "time": "2026-07-05T11:03:19.000Z"
+  },
+  {
     "cat": "Business",
     "title": "દરરોજ 100 રૂપિયા બચાવી પોસ્ટ ઓફિસમાં કરો જમા, ગેરંટી સાથે તૈયાર થશે 5 લાખનું ફંડ",
     "desc": "સુરક્ષિત રોકાણ માટે પોસ્ટ ઓફિસની આરડી શાનદાર વિકલ્પ છે. આ યોજનામાં માત્ર 100 રૂપિયાથી રોકાણની શરૂઆત કરી શકાય છે. જો તમે દર મહિને 3000 રૂપિયા જમા કરો તો 6.7 ટકા વ્યાજદર પ્રમાણે પાંચ લાખનું ફંડ બનાવી શકો છો.",
@@ -396,15 +468,6 @@ const newsData_gu = [
     "time": "2026-07-02T14:01:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મંગેતર સિયા ગોયલે પ્રેમી સાથે મળીને પહેલાં કર્યું &amp;#039;મર્ડર રિહર્સલ&amp;#039;, ઊંડી ખીણમાં ફેંકવાની કરી હતી પ્રેક્ટિસ!",
-    "desc": "પુણેના જાણીતા બિઝનેસમેન કેતન અગ્રવાલના મોતના મામલામાં એક પછી એક ચોંકાવનારા ખુલાસા થઈ રહ્યા છે. લોહગઢ કિલ્લા પરથી કેતનને ઊંડી ખીણમાં ધક્કો મારીને મોતને ઘાટ ઉતારનાર તેની મંગેતર સિયા ગોયલ અંગે વધુ એક સનસનાટીભર્યો ખુલાસો થયો છે. પોલીસ તપાસમાં સામે આવ્યું છે કે સિયાએ આ હત્યાકાંડને અંજામ આપતા પહેલાં પોતાના પ્રેમી ચેતન ચૌધરી સાથે મળીને પ્રોપર 'રિહર્સલ' કરી હતી! આમ છતાં બંને જેલના સળિયા પાછળ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/fiancee-sia-goyal-had-previously-done-a-murder-rehearsal-with-her-lover-practicing-throwing-herself-into-a-deep-valley-483393 ",
-    "time": "2026-07-02T12:19:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ધડામ થયા બાદ અચાનક સોનું ફૂલ તેજીમાં, એક ઝટકે ભાવમાં મોટો વધારો, ચાંદી પણ ચમકી, જાણો રેટ",
     "desc": "મંદીના માહોલ બાદ અચાનક સોના અને ચાંદીમાં પાછી તેજી જોવા મળી છે. વાયદા બજાર અને રિટેલ બજારમાં સોનું અને ચાંદી ઉછાળા મારી રહ્યા છે. અચાનક આવેલી આ તેજી પાછળ અમેરિકાના ફેડરલ રિઝર્વના નવા ચેરમેન કેવિન માર્શનું નિવેદન હોવાનું માનવામાં આવી રહ્યું છે.",
@@ -439,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akanksha-is-talking-about-divorce-and-child-to-get-public-attention-said-close-friend-actor-anuj-sachdeva-483360 ",
     "time": "2026-07-02T06:23:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "નાયરાએ પેટ્રોલ-ડીઝલના ભાવ ઘટાડ્યા બાદ આજે સરકારી કંપનીઓએ પણ જાહેર કર્યા લેટેસ્ટ રેટ",
-    "desc": "એક બાજુ ક્રૂડ ઓઈલના ભાવમાં સતત ઘટાડો થઈ રહ્યો છે ત્યારે ખાનગી કંપની નાયરા એનર્જીએ 1 જુલાઈના રોજ પેટ્રોલ અને ડીઝલના ભાવમાં જે વધારો કર્યો હતો તે હવે પાછો ખેંચી લીધો છે. ત્યારે સરકારી ઓઈલ વિતરણ કંપનીઓએ આજે સવારે જે નવા ભાવ જાહેર કર્યા તેમાં ભાવમાં કોઈ ફરક છે કે નહીં તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-and-diesel-latest-rates-today-gujarat-major-cities-ahmedabad-vadodara-surat-rajkot-483352 ",
-    "time": "2026-07-02T05:07:09.000Z"
   },
   {
     "cat": "Tech",
@@ -603,15 +657,6 @@ const newsData_gu = [
     "time": "2026-06-28T08:56:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akanksha Chamola અને Gaurav Khanna લઈ રહ્યા છે ડિવોર્સ, રિયાલિટી શોમાં કહ્યું 1 વર્ષથી અલગ રહીએ છીએ",
-    "desc": "રિયાલીટી શો લોકઅપ 2 ના પ્રીમિયર પર ગૌરવ ખન્નાની પત્ની અને અભિનેત્રી આકાંક્ષા ચમોલાએ ધડાકો કર્યો છે. તેણે કહ્યું છે કે તેના ડિવોર્સ થઈ રહ્યા છે અને છેલ્લા એક વર્ષથી ગૌરવ અને તે અલગ રહે છે. આ વાત સાંભળી દર્શકોને વધારે આંચકો એટલે લાગ્યો છે કે જો 1 વર્ષથી તેઓ અલગ છે તો બિગ બોસ 19 ના ફેમેલી વીકમાં જે રોમાન્સ દેખાડ્યો તે ફેક હતો અને બિગ બોસ પછી પણ જે જોવા મળ્યું તે નાટક હતું કે શું ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/gaurav-khanna-akanksha-chamola-getting-divorce-said-akanksha-in-reality-show-lock-up-2-482901 ",
-    "time": "2026-06-28T01:45:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "હવે Maruti લાવી રહી છે સૌથી નાની અને સૌથી સસ્તી SUV, ટાટા પંચને આપશે ટક્કર",
     "desc": "જો કંપની શાનદાર ફીચર્સ અને મલ્ટી-ફ્યુઅલ વિકલ્પો સાથે આ નવી SUV લોન્ચ કરે છે, તો તે એન્ટ્રી-લેવલ SUV સેગમેન્ટમાં મોટો ફેરફાર લાવી શકે છે. ત્યારે આ કારની કિંમત કેટલી હશે અને કેવા ફીચર્સ હોઈ શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -619,24 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-smallest-and-cheapest-micro-suv-know-the-price-and-features-482877 ",
     "time": "2026-06-27T12:43:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઘર બેઠા જુઓ રિતેશ દેશમુખની ફિલ્મ રાજા શિવાજી, આ ઓટીટી પ્લેટફોર્મ પર થઈ ગઈ રિલીઝ",
-    "desc": "રિતેશ દેશમુખની બ્લોક બસ્ટર ફિલ્મ રાજા શિવાજી હવે ઓટીટી પર આવી ચુકી છે. જો તમે રવિવારની રજામાં પરિવાર સાથે આ ફિલ્મ જોવા માંગો છો તો ફટાફટ ચેક કરી લો આ ફિલ્મ કયા ઓટીટી પ્લેટફોર્મ પર રિલીઝ થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/riteish-deshmukh-movie-hit-movie-raja-shivaji-released-on-ott-know-where-to-watch-in-hindi-482801 ",
-    "time": "2026-06-27T02:17:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કોણ હતા જનરલ હરબખ્શ સિંહ, જેમના જીવન પર બનશે બોર્ડર 3, શું સની દેઓલની ગર્જના ફરી સંભળાશે?",
-    "desc": "બોર્ડર 2ની સફળતા પછી બોર્ડર 3ની તૈયારી ચાલી રહી છે. ત્યારે બોર્ડર 3 જનરલ હરબખ્શ સિંહની બહાદુરી પર બને તેની પુરી શક્યતા દેખાઈ રહી છે, જો કે બોર્ડર 2એ પડતા પોતાની સારી છાપ છોડી છે, જો કે તેને લઈને જ મેકર્સે બોર્ડર 3 બનાવવાનો નિર્ણય લીધો છે અને તેની જાહેરાત પણ કરી ચુકાઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/who-was-general-harbaksh-singh-on-whose-life-will-border-3-be-made-will-sunny-deol-be-seen-again-482783 ",
-    "time": "2026-06-26T13:30:53.000Z"
   },
   {
     "cat": "Tech",
@@ -655,14 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/e20-fuel-completely-safe-no-impact-on-insurance-claims-government-dismisses-social-media-misinformation-482553 ",
     "time": "2026-06-24T12:30:01.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "TATAની CNG ગાડીઓ માઇલેજમાં મારુતિથી પાછળ કેમ? જાણો અસલી કારણ",
-    "desc": "મારુતિ સુઝુકીની CNG કાર હાઈ એવરેજ પર ધ્યાન કેન્દ્રિત કરે છે, જ્યારે ટાટા મોટર્સ સેફ્ટી, બિલ્ડ ક્વોલિટી અને સારા ડ્રાઇવિંગ અનુભવ પર ધ્યાન કેન્દ્રિત કરે છે. જો તમે ફક્ત માઇલેજને પ્રાથમિકતા આપો છો, તો મારુતિની વેગનઆર, સેલેરિયો, ડિઝાયર, સ્વિફ્ટ, બ્રેઝા અને વિક્ટોરિસ વધુ સારા વિકલ્પો છે. જો કે, જો તમે સલામત અને મજબૂત વાહન ઇચ્છતા હોવ, તો ટાટાની CNG કાર તમારા માટે વધુ સારી રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/why-are-tata-cng-cars-behind-maruti-in-mileage-know-the-real-reason-482524 ",
-    "time": "2026-06-24T08:45:50.000Z"
   }
 ];
