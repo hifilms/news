@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ભારત માટે મોટી રાહત ! સરકારે અચાનક હટાવ્યા ગેસ સપ્લાય પરના આ નિયંત્રણો",
+    "desc": "સ્ટ્રેટ ઓફ હોર્મુઝમાં પરિસ્થિતિ સુધરતાં કેન્દ્ર સરકારે કુદરતી ગેસ સપ્લાય પર લાગુ કરાયેલા ઈમરજન્સી પ્રતિબંધો હટાવી દીધા છે. આ નિર્ણયથી ઉદ્યોગો, ખાતર કંપનીઓ અને વીજ ઉત્પાદન ક્ષેત્રને રાહત મળશે. તેની સાથે ઉત્પાદન ખર્ચમાં પણ ઘટાડો થવાની શક્યતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/india-removes-emergency-gas-supply-curbs-after-hormuz-situation-improves-483710 ",
+    "time": "2026-07-05T15:12:33.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "કેટલો પગાર હોય તો Tata Sierra EV ખરીદી શકાય ? જાણો કેટલી આવશે મહિને EMI",
     "desc": "Tata Sierra EVની શરૂઆતની એક્સ-શોરૂમ કિંમત ₹18.79 લાખ રાખવામાં આવી છે, જ્યારે તેના ટોપ વેરિઅન્ટની કિંમત આશરે ₹25.99 લાખ સુધી જાય છે. ત્યારે જો તમારે આ કાર ખરીદવી હોય તો તમારો પગાર કેટલો હોવો જોઈએ અને મહિને EMI કેટલી આવશે, તેના પર એક નજર કરીએ.",
@@ -270,15 +279,6 @@ const newsData_gu = [
     "time": "2026-07-03T16:51:35.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બીજી T20માં પણ વૈભવ સૂર્યવંશીને નહીં મળે તક, બોલિંગ કોચ મોર્કલે કરી દીધું સ્પષ્ટ; જાણો અભિષેક સાથે કોણ કરશે ઓપનિંગ",
-    "desc": "4 જુલાઈના રોજ ભારત અને ઈંગ્લેન્ડ વચ્ચે રમાનારી બીજી T20 આંતરરાષ્ટ્રીય મેચમાં પણ વૈભવ સૂર્યવંશીને તક નહીં મળે. ભારતીય ટીમના બોલિંગ કોચ મોર્ને મોર્કલે સ્પષ્ટ સંકેત આપ્યા છે કે, ટીમ સંજુ સેમસન અને અભિષેક શર્માની ઓપનિંગ જોડી સાથે જ મેદાનમાં ઉતરશે. બેટિંગ ઓર્ડરમાં પણ કોઈ બદલાવ કરવામાં આવશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-will-not-get-a-chance-in-the-second-t20-as-well-bowling-coach-morkel-made-it-clear-know-who-will-open-with-abhishek-483515 ",
-    "time": "2026-07-03T16:48:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ફૂટવા જઈ રહ્યો છે AIનો ફુગ્ગો? શેરબજારને લઈને RBIએ આપી મોટી ચેતવણી",
     "desc": "ભારતીય રિઝર્વ બેંકે AI શેરો અંગે એક મોટી ચેતવણી જાહેર કરી છે. તેમનું કહેવું છે કે વૈશ્વિક બજારમાં વ્યાપક તેજીને બદલે, ફક્ત AI અને સંબંધિત શેરોમાં વધારો જોવા મળ્યો છે, જેના કારણે મોટી અસ્થિરતા જોવા મળી છે.",
@@ -466,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-horror-film-of-the-year-obsession-released-on-ott-here-is-full-details-483398 ",
     "time": "2026-07-02T14:01:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ધડામ થયા બાદ અચાનક સોનું ફૂલ તેજીમાં, એક ઝટકે ભાવમાં મોટો વધારો, ચાંદી પણ ચમકી, જાણો રેટ",
-    "desc": "મંદીના માહોલ બાદ અચાનક સોના અને ચાંદીમાં પાછી તેજી જોવા મળી છે. વાયદા બજાર અને રિટેલ બજારમાં સોનું અને ચાંદી ઉછાળા મારી રહ્યા છે. અચાનક આવેલી આ તેજી પાછળ અમેરિકાના ફેડરલ રિઝર્વના નવા ચેરમેન કેવિન માર્શનું નિવેદન હોવાનું માનવામાં આવી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-increase-check-what-us-fed-reserve-cheif-kewin-warsh-said-483374 ",
-    "time": "2026-07-02T09:10:47.000Z"
   },
   {
     "cat": "Entertainment",
