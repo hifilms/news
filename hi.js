@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch the Women's T20 WC 2026 final on TV and stream online?",
+    "desc": "The stage is set for the final of the ongoing Women’s T20 World Cup 2026. Hosts England women will be taking on Australia women at the Lord’s Cricket Ground in London on July 5th. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-vs-australia-live-when-and-where-to-watch-the-women-s-t20-wc-2026-final-on-tv-and-stream-online-2026-07-05-1047175",
+    "time": "2026-07-05T05:29:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kylian Mbappe's penalty saves France vs Paraguay, who will they face in quarter-finals of FIFA World Cup?",
     "desc": "France captain Kylian Mbappe’s late penalty secured France a hard-fought 1-0 win over Paraguay in Philadelphia. The solitary goal proved enough to send the Les Bleus into the next round after a tense, physical encounter...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-s-whirlwind-innings-propels-england-to-stellar-victory-over-india-in-the-second-t20i-2026-07-04-1047149",
     "time": "2026-07-04T17:15:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Defending champion Iga Swiatek knocked out of Wimbledon 2026, Alexandra Eala creates history",
-    "desc": "Defending champion Iga Swiatek was knocked out of the third round of Wimbledon on Saturday after World No. 32 Alexandra Eala secured a 7-6 (11-9), 6-2 victory on Centre Court. With that, she became the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/defending-champion-iga-swiatek-knocked-out-of-wimbledon-2026-alexandra-eala-creates-history-2026-07-04-1047146",
-    "time": "2026-07-04T16:45:04.000Z"
   }
 ];

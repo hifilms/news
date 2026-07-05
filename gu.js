@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "આમિર ખાનની લવ લાઈફ વિશે જાણો,1986 થી 2026 સુધીમાં 3 વખત થયો પ્રેમ, 2 ડિવોર્સ અને હવે ત્રીજા લગ્ન",
+    "desc": "આમિર ખાન અને ગૌરી સ્પ્રેટના ત્રીજા લગ્ન ચર્ચામાં છે. 61 વર્ષની ઉંમરે આમિર ત્રીજી વખત દુલ્હો બન્યો છે. તેવામાં તેની પર્સનલ લાઈફ વિશે જાણવાની લોકોની આતુરતા વધી છે. આમિર ખાનને 1986 થી 2026 સુધીમાં ત્રણ વખત સાચો પ્રેમ થયો છે. તો ચાલો આજે તમને જણાવીએ આમિર ખાનની લવ લાઈફની ટાઈમલાઈન.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-person-and-love-life-how-aamir-khan-fall-in-love-with-reena-dutta-kiran-rao-and-gauri-spratt-483630 ",
+    "time": "2026-07-05T06:20:16.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "આયર્લેન્ડ બાદ હવે ઇંગ્લેન્ડમાં ટીમ ઇન્ડિયા ફ્લોપ... બીજી T20Iમાં ઇંગ્લેન્ડ સામે કારમી હાર, બેથલ બન્યો હીરો",
     "desc": "ત્રણ વખતની T20 વર્લ્ડ કપ વિજેતા ટીમ ઇન્ડિયા આયર્લેન્ડ બાદ ઇંગ્લેન્ડની ધરતી પર પણ નિષ્ફળ રહી છે. 5 મેચોની T20 સિરીઝના બીજી મેચમાં અંગ્રેજોએ ભારતને 4 વિકેટે હાર આપી છે. શ્રેયસ અય્યરની કેપ્ટનશીપમાં ભારતની આ સતત ત્રીજી હાર છે.",
@@ -360,15 +369,6 @@ const newsData_gu = [
     "time": "2026-07-02T15:40:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ખેલાડીની ભૂલ ફેન્સ માટે બની ખુશખબર! અમેરિકાના ખેલાડીને રેડ કાર્ડ મળતા જ આ કંપની હવે ફ્રીમાં આપશે 1 મિલિયન ડોલરના પિઝા; જાણો કારણ",
-    "desc": "અમેરિકાની પ્રખ્યાત પિઝા કંપની ડોમિનોઝ (Domino's)એ જાહેરાત કરી છે કે, તે 10 લાખ અમેરિકી ડોલર (1 મિલિયન ડોલર)ની કિંમતના મફત પિઝા વહેંચશે. ચોંકાવનારી વાત એ છે કે, આનું કારણ અમેરિકાની જીત નહીં, પરંતુ ટીમના સ્ટાર સ્ટ્રાઈકર ફોલારિન બાલોગુનને મળેલું રેડ કાર્ડ બન્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/dominos-will-now-give-away-1-million-dollar-worth-of-pizza-for-free-if-an-american-player-gets-a-red-card-know-reason-483403 ",
-    "time": "2026-07-02T15:21:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "આ વર્ષની બ્લોકબસ્ટર હિટ હોરર ફિલ્મ ઓબ્સેશન ઓટીટી પર રિલીઝ, જાણો કયાં જોવી ઓબ્સેશન ફિલ્મ",
     "desc": "જો તમે ઓબ્સેશન ફિલ્મ ઓટીટી પર જોવાની રાહ જોઈ રહ્યા છો તો તમારે હવે રાહ જોવાની જરૂર નથી. કારણ કે આ વર્ષી સૌથી બેસ્ટ અને ડરામણી હોરર ફિલ્મ ઓબ્સેશન ઓટીટી પર રિલીઝ થઈ ચુકી છે.",
@@ -439,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/whatsapp-username-feature-india-government-issues-notice-483329 ",
     "time": "2026-07-01T15:48:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "એક ભૂલ અને ઘરે પહોંચશે Notice! પાછલા વર્ષે Income Tax માં થયા હતા આ 10 ફેરફાર, આ વર્ષે ITR ભરવા સમયે રાખો ધ્યાન",
-    "desc": "બજેટ 2025મા જે ફેરફાર થયા હતા. તે નાણાકીય વર્ષ 2025-2026 માટે હતા. આપણે નાણાકીય વર્ષ 2025-2026 માટે આઈટીઆર ભરી રહ્યાં છીએ, જેની છેલ્લી તારીખ 31 જુલાઈ છે. આવો જાણીએ તેવા 10 ફેરફાર, જે પાછલા વર્ષે બજેટમાં થયા હતા અને તેની તમને આ વર્ષે આઈટીઆર ભરવા સમયે જરૂર પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/avoid-tax-notices-10-major-income-tax-changes-to-remember-while-filing-your-itr-483290 ",
-    "time": "2026-07-01T11:20:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -655,24 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/multi-starer-movie-welcome-to-the-jungle-film-review-in-gujarati-482717 ",
     "time": "2026-06-26T06:15:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઓસ્કર પેનલમાં ભારતીય ફિલ્મમેકર વિશાલ ભારદ્વાજ સહિત 6 લોકોની એન્ટ્રી, ચેક કરી લો લિસ્ટ",
-    "desc": "ઓસ્કર એવોર્ડની વોટિંગ પેનમાં આ વર્ષે દુનિયાભરના 529 નવા લોકોનો સમાવેશ કરવામાં આવ્યો છે જેમાં ભારતના 6 પ્રખ્યાત લોકોનો પણ સમાવેશ કરવામાં આવ્યો છે. આ 6 નામોમાંથી એક નામ બોલીવુડના જાણીતા ફિલ્મ મેકર અને મ્યુઝિક કંપોઝર વિશાલ ભારદ્વાજનું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/6-indian-celebs-got-oscar-voting-panel-invite-from-academy-including-vishal-bhardwaj-482635 ",
-    "time": "2026-06-25T10:25:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઓટીટી પર જુઓ નવી માર્શલ આર્ટ્સ થ્રિલર ફિલ્મ બ્લાસ્ટ, IMDb રેટિંગ પણ છે જોરદાર",
-    "desc": "જો તમે સાઉથની એક્શન ફિલ્મો જોવાના શોખીન છો તો તમારા માટે ગુડ ન્યુઝ છે. મે મહિનામાં બોક્સ ઓફિસ પર રિલીઝ થયેલી ફિલ્મ બ્લાસ્ટ હવે હીંદીમાં ઓટીટી પર રિલીઝ થઈ ચુકી છે. તો ફટાફટ ચેક કરી લો બ્લાસ્ટ ફિલ્મ હિંદીમાં કયા ઓટીટી પ્લેટફોર્મ પર જોવા મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/action-thriller-film-blast-in-hindi-released-on-netflix-blast-movie-imdb-rating-482614 ",
-    "time": "2026-06-25T07:34:52.000Z"
   },
   {
     "cat": "Tech",
