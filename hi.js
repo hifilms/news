@@ -1,8 +1,44 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Erling Haaland scores again, Norway lead 2-0 in 90th minute",
-    "desc": "Brazil vs Norway Brazil face Norway in a high-stakes FIFA World Cup 2026 Round of 16 clash in New York in the early hours of Monday, with a place in the quarter-finals on the line for...",
+    "title": "10-man England lead but Mexico still in it after Jimenez penalty",
+    "desc": "Mexico host England at the Azteca Stadium in what is one of the most anticipated matches in the round of 16 in the FIFA World Cup 2026. Co-hosts Mexico look to keep their historic record at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mex-vs-eng-fifa-world-cup-round-of-16-live-mexico-vs-england-latest-match-updates-score-team-sheets-2026-07-06-1047246",
+    "time": "2026-07-06T00:54:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neymar announces international retirement after Brazil's loss to Norway in World Cup round of 16",
+    "desc": "Brazil star Neymar announced his retirement from international football after his team suffered a shock defeat to Norway in their round of 16 in New Jersey on Monday, July 6 (IST). Neymar broke down into...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/neymar-announces-international-retirement-after-brazils-loss-to-norway-in-world-cup-round-of-16-2026-07-06-1047244",
+    "time": "2026-07-06T00:23:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why has the Mexico vs England FIFA World Cup round of 16 clash been delayed by one hour?",
+    "desc": "The much-anticipated Mexico vs England round of 16 clash in the FIFA World Cup 2026 has been delayed by one hour due to adverse weather conditions in Mexico City. The weather and altitude have dominated...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-has-the-mexico-vs-england-fifa-world-cup-round-of-16-clash-been-delayed-by-one-hour-2026-07-06-1047243",
+    "time": "2026-07-05T23:46:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Erling Haaland scores twice as Norway shock Brazil 2-1 in FIFA World Cup 2026, who will they play next?",
+    "desc": "Erling Haaland scored twice in the second half as Norway stunned Brazil 2-1 to book their place in the FIFA World Cup 2026 quarter-finals, ending the five-time champions' campaign at the Round of 16 stage in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/erling-haaland-scores-twice-as-norway-shock-brazil-2-1-in-fifa-world-cup-2026-who-will-they-play-next-2026-07-06-1047242",
+    "time": "2026-07-05T22:04:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neymar pulls one back, but Norway stun Brazil 2-1 to move to quarters",
+    "desc": "Brazil face Norway in a high-stakes FIFA World Cup 2026 Round of 16 clash in New York in the early hours of Monday, with a place in the quarter-finals on the line for both sides. Brazil...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/bra-vs-nor-fifa-world-cup-live-brazil-vs-norway-score-tactical-analysis-minute-by-minute-commentary-goals-1047241",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-picks-10-wickets-as-india-a-dismantle-sri-lanka-a-in-second-unofficial-test-2026-07-05-1047227",
     "time": "2026-07-05T15:36:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia beat England by seven wickets to crown champions",
-    "desc": "Australia have opted to bowl first after winning the toss in the Women’s T20 World Cup final against hosts England at Lord's, setting up a blockbuster contest between the tournament's two unbeaten sides. The Sophie...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aus-vs-eng-t20-world-cup-final-live-score-australia-vs-england-live-commentary-highlights-playing-xis-2026-07-05-1047223",
-    "time": "2026-07-05T14:25:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why does England's upcoming FIFA WC clash at the Azteca Stadium spell trouble for them? Check venue history",
-    "desc": "The stage is set for the round of 16 clash at the ongoing FIFA World Cup 2026. England will be taking on Mexico in the clash as the two sides will hope to book their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-does-england-s-upcoming-fifa-wc-clash-at-the-azteca-stadium-spell-trouble-for-them-check-venue-history-and-stats-2026-07-05-1047220",
-    "time": "2026-07-05T14:04:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Nayar reflects on Vaibhav Sooryavanshi's performance after shaky international debut",
-    "desc": "The Indian team lost to England in the second T20I of the ongoing series between the two sides. After the first T20I produced no result, the second T20I saw a storm named Jacob Bethell blow...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-nayar-reflects-on-vaibhav-sooryavanshi-s-performance-after-shaky-international-debut-2026-07-05-1047215",
-    "time": "2026-07-05T13:27:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in London fare for the Women's T20 World Cup 2026 final?",
-    "desc": "The Women’s T20 World Cup 2026 is all set to be played between England and Australia. The two sides will meet at the Lord’s Cricket Ground in London on July 5th; the teams will hope...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-aus-weather-report-how-will-weather-in-london-fare-for-the-women-s-t20-world-cup-2026-final-2026-07-05-1047210",
-    "time": "2026-07-05T12:46:20.000Z"
   }
 ];

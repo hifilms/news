@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "એક્ટ્રેસ નીતિ ટેલરે સાઈકો બોયફ્રેન્ડ અંગે કર્યો ખુલાસો, કહ્યું હિંસક હતો ગુસ્સો આવે તો હાથ ઉપાડતો, સિગરેટના ડામ આપતો",
+    "desc": "એક્ટ્રેસ નીતિ ટેલર હાલ રિયાલીટી શો અલાયન્સમાં જોવા મળે છે. આ શોના તાજેતરના એપિસોડમાં તેણે તેના ટોક્સિક બોયફ્રેન્ડ વિશે વાત કરી હતી. તેણે કહ્યું હતું કે તેનો બોયફ્રેડ એટલો સાયકો હતો કે તેણે નીતિને સાથળ પર સિગરેટના ડામ દીધા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/niti-taylor-alliance-reality-show-toxic-boyfriend-slapped-her-and-burn-her-with-cigarette-483717 ",
+    "time": "2026-07-06T02:41:56.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મુંબઈમાં 3 માળની બિલ્ડિંગ પત્તાની જેમ ધરાશાયી, અનેક લોકો દબાયા હોવાની આશંકા; રેસ્ક્યૂ હાથ ધરાયું",
     "desc": "મહારાષ્ટ્રની રાજધાની મુંબઈમાં ભારે વરસાદે કહેર મચાવ્યો છે. ભારે વરસાદના કારણે માનખુર્દ વિસ્તારમાં એક બિલ્ડિંગ તૂટી પડી છે. આ બિલ્ડીંગના કાટમાળમાં અનેક લોકો દબાયા હોવાની આશંકા છે. હાલ ઘટનાસ્થળે રાહત અને બચાવ કામગીરી ચાલી રહી છે.",
@@ -601,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/article-5-behind-the-new-war-the-condition-of-the-agreement-between-america-and-iran-that-ignited-the-fire-of-war-483027 ",
     "time": "2026-06-29T03:03:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રિયાલીટી શોમાં ડિવોર્સની વાત કરી વિવાદમાં આવી આકાંક્ષા ચમોલા, ગૌરવના ગ્રીન ફ્લેગ હસબંડના નાટક પર પણ ભડક્યા લોકો",
-    "desc": "રિયાલીટી શોના પહેલા જ એપિસોડમાં આકાંક્ષા ચમોલા ડિવોર્સની વાત કરી દાવ ખેલવા ગઈ પણ તેની સાથે દાવ થઈ ગયો છે. ડિવોર્સની વાત પર લોકો હવે ગૌરવ ખન્ના અને આકાંક્ષાને ફેક કહેવા લાગ્યા છે અને કહી રહ્યા છે કે આ કપલ રિયાલીટી શો જીતવા માટે સિમ્પથી કાર્ડ યુઝ કરે છે સાથે જ પોતાના ચાહકોને પણ ઉલ્લુ બનાવી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/akanksha-chamola-gaurav-khanna-divorce-social-media-fans-angry-said-couple-playing-sympathy-card-in-reality-show-483026 ",
-    "time": "2026-06-29T02:47:43.000Z"
   },
   {
     "cat": "World",
