@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jay Shah hails Australia’s seventh T20 World Cup win: ‘Women’s cricket is in golden era’",
+    "desc": "Australia re-established themselves as one of the best cricket teams to have played the sport ever in the world after bagging a record-extending seventh Women’s T20 World Cup title by defeating England on Sunday, July...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jay-shah-hails-australias-seventh-t20-world-cup-win-womens-cricket-is-in-golden-era-2026-07-06-1047305",
+    "time": "2026-07-06T09:30:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA reverses USA striker Folarin Balogun's red card suspension after Donald Trump's intervention",
+    "desc": "FIFA has reversed the red card suspension of USA striker Folarin Balogun after US President Donald Trump's intervention, news agency AP reported. The move will allow Balogun to play in the USMNT's round of 16...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-reverses-usa-striker-folarin-baloguns-red-card-suspension-after-donald-trumps-intervention-2026-07-06-1047299",
+    "time": "2026-07-06T09:10:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ellyse Perry creates world record, becomes most decorated cricketer ever after T20 World Cup 2026 win",
+    "desc": "Australia legend Ellyse Perry added another feather to her illustrious cap with yet another T20 World Cup title under her belt. The veteran all-rounder helped the Aussies lift their seventh Women's T20 World Cup crown...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-creates-world-record-becomes-most-decorated-cricketer-ever-after-t20-world-cup-2026-win-2026-07-06-1047292",
+    "time": "2026-07-06T08:28:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dasun Shanaka creates history with four wickets in four balls in Seattle Orcas' win over TSK in MLC 2026",
+    "desc": "Dasun Shanka created history as he became the first player in Major League Cricket's history to take four wickets in four consecutive balls on Sunday, July 5. He achieved the feat during Seattle Orcas's match against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-creates-history-with-four-wickets-in-four-balls-in-seattle-orcas-win-over-tsk-in-mlc-2026-2026-07-06-1047280",
+    "time": "2026-07-06T07:09:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Aryna Sabalenka says she wants to 'get completely drunk' after shock Wimbledon 2026 exit",
     "desc": "Aryna Sabalenka's quest for her maiden Wimbledon title ended in a defeat to Japan's Naomi Osaka in the round of 16 on Sunday, July 5. The World No.1 went down in straight sets 2-6, 6-7...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/why-has-the-mexico-vs-england-fifa-world-cup-round-of-16-clash-been-delayed-by-one-hour-2026-07-06-1047243",
     "time": "2026-07-05T23:46:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Erling Haaland scores twice as Norway shock Brazil 2-1 in FIFA World Cup 2026, who will they play next?",
-    "desc": "Erling Haaland scored twice in the second half as Norway stunned Brazil 2-1 to book their place in the FIFA World Cup 2026 quarter-finals, ending the five-time champions' campaign at the Round of 16 stage in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/erling-haaland-scores-twice-as-norway-shock-brazil-2-1-in-fifa-world-cup-2026-who-will-they-play-next-2026-07-06-1047242",
-    "time": "2026-07-05T22:04:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neymar pulls one back, but Norway stun Brazil 2-1 to move to quarters",
-    "desc": "Brazil face Norway in a high-stakes FIFA World Cup 2026 Round of 16 clash in New York in the early hours of Monday, with a place in the quarter-finals on the line for both sides. Brazil...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bra-vs-nor-fifa-world-cup-live-brazil-vs-norway-score-tactical-analysis-minute-by-minute-commentary-goals-1047241",
-    "time": "2026-07-05T19:33:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Neymar Jr. not playing Brazil vs Norway clash in FIFA World Cup 2026 despite Lucas Paqueta's injury?",
-    "desc": "Brazil have once again dropped Neymar Jr from the starting XI. The forward was deemed fit and was available for selection for their FIFA World Cup 2026 Round of 16 clash against Norway, as head...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-neymar-jr-not-playing-brazil-vs-norway-clash-in-fifa-world-cup-2026-despite-lucas-paqueta-s-injury-2026-07-06-1047240",
-    "time": "2026-07-05T19:17:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia beat England by seven wickets to lift T20 World Cup 2026, Beth Mooney steals show again",
-    "desc": "Australia defeated England by six wickets at Lord’s to clinch the ICC Women’s T20 World Cup 2026, wrapping up a dominant chase of 151 with 17 balls to spare. Beth Mooney anchored the innings with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-beat-england-by-seven-wickets-to-lift-t20-world-cup-2026-beth-mooney-steals-show-again-2026-07-05-1047236",
-    "time": "2026-07-05T17:46:57.000Z"
   }
 ];

@@ -1,6 +1,96 @@
 const newsData_gu = [
   {
     "cat": "Entertainment",
+    "title": "હોરર પ્રેમીઓ માટે ખાસ, ભૂત, રહસ્ય અને થ્રિલથી ભરપૂર 5 સૌથી ભયાનક વેબ સિરીઝ",
+    "desc": "જો તમે પણ ઓટીટી પર હોરર વેબ સીરીઝ જોવાના શોખીન છો તો તમારા વોચલિસ્ટમાં આ 5 વેબ સીરીઝ તો હોવી જ જોઈએ. આ 5 વેબ સીરીઝ એવી છે જે હોરર ફિલ્મો અને સીરીઝ રેગ્યુલર જોતાં લોકોને પણ ડરાવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/5-scariest-web-series-on-ott-in-hindi-which-is-most-haunted-web-series-on-ott-483783 ",
+    "time": "2026-07-06T12:32:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "નોકરી ગુમાવવા પર સરકાર આપશે 90 દિવસનો પગાર! અટલ બીમિત યોજનાની મુદતમાં કરાયો વધારો, જાણો શું છે આ સ્કીમ",
+    "desc": "ESIC તરફથી વીમો ધરાવતી વ્યક્તિને નોકરી ગુમાવવા પર 'અટલ બીમિત વ્યક્તિ કલ્યાણ યોજના' હેઠળ રૂપિય મળે છે. ESICએ અટલ બીમિત વ્યક્તિ કલ્યાણ યોજનાને જૂન 2027 સુધી લંબાવી છે. જાણો ખાનગી કર્મચારીઓની નોકરી છૂટી જવા પર તેમને કેવી રીતે બેરોજગારી ભથ્થું મળશે અને શું છે નવા નિયમો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-will-give-90-days-salary-if-you-lose-your-job-atal-bimit-yojana-period-extended-know-what-this-scheme-483775 ",
+    "time": "2026-07-06T11:58:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Video",
+    "desc": "શ્રીલંકાના બેરુવાલામાં રમાયેલી ફ્રેન્ડલી ક્રિકેટ મેચ દરમિયાન 45 વર્ષીય જુલ્ફિકાર બેટિંગ કરતી વખતે અચાનક મેદાન પર ઢળી પડ્યો હતો. તેને તાત્કાલિક હોસ્પિટલ લઈ જવાયો, પરંતુ ત્યાં પહોંચતા પહેલાં જ તેનું મોત થયું. પ્રાથમિક રીતે હાર્ટ એટેકની આશંકા વ્યક્ત કરવામાં આવી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/sri-lankan-cricketer-dies-during-live-match-in-beruwala-483773 ",
+    "time": "2026-07-06T11:32:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "કેટલા KM કે મહિના પછી બદલવું પડે કારનું એન્જિન ઓઇલ ? જો ભૂલ કરી તો થઈ શકે મોટું નુકસાન!",
+    "desc": "જો તમે તમારી કાર સતત ચલાવો છો, પરંતુ એન્જિન ઓઈલ બદલવામાં વિલંબ કરો છો, તો આ ભૂલ તમારા એન્જિનને ગંભીર નુકસાન પહોંચાડી શકે છે. કારનું પરફોર્મન્સ અને એન્જિન બંને સારી સ્થિતિમાં રહે તે માટે તમારે કેટલા કિલોમીટર અથવા કેટલા સમય પછીઓઈલ બદલવું જોઈએ તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/car-service-tips-when-to-change-car-engine-oil-483770 ",
+    "time": "2026-07-06T10:54:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "100થી ઓછી કિંમતના આ IPOએ રોકાણકારોને કરી દીધા માલામાલ! લિસ્ટિંગ પર 17%નો જમ્પ",
+    "desc": "આ કંપનીએ શેરબજારમાં મજબૂત શરૂઆત કરી છે. કંપની આજે બીએસઈ પર 78.25 રૂપિયા પર લિસ્ટેડ થઈ હતી, જે 12 ટકા પ્રીમિયમ હતું. કંપનીના IPO માટે પ્રાઇસ બેન્ડ 70 રૂપિયા પ્રતિ શેર હતો. કંપનીના લિસ્ટિંગ પછી, શેરમાં ફરી ઉછાળો જોવા મળ્યો છે. 5 ટકાની અપરની સર્કિટ માર્યા પછી, શેરનો ભાવ 82.16 રૂપિયાની ઇન્ટ્રાડે હાઇ સપાટીએ પહોંચ્યો. કંપનીનું માર્કેટ કેપ 189 કરોડ રૂપિયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-ipo-priced-below-rs-100-made-investors-rich-17-percent-jump-on-listing-483764 ",
+    "time": "2026-07-06T10:05:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "પૂર કે વરસાદથી કારને થયું નુકસાન? જાણો ઈન્શ્યોરન્સ ક્લેમ મળશે કે નહીં",
+    "desc": "ચોમાસામાં કેટલીક મુસીબતો પણ આવે છે. કાર ઘણીવાર ભારે વરસાદ અને પાણી ભરાઈ જવાથી ફસાઈ જાય છે, જેના કારણે એન્જિનથી લઈને ઇલેક્ટ્રોનિક સિસ્ટમ સુધી બધું જ મિનિટોમાં નુકસાન થાય છે. સૌથી મોટો પ્રશ્ન એ છે કે શું કાર વીમો આ નુકસાનને આવરી લેશે, કે પછી તેનો બધો ખર્ચ તમારે ઉઠાવવો પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/car-damaged-due-to-flood-or-rain-will-i-get-an-insurance-claim-or-not-know-complete-information-here-483761 ",
+    "time": "2026-07-06T09:34:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વર્લ્ડ કપમાં સ્ટાર ફૂટબોલરે રચ્યો ઇતિહાસ, મેસ્સી અને રોનાલ્ડો પણ નથી કરી શક્યા આ કમાલ",
+    "desc": "નોર્વેના સ્ટાર સ્ટ્રાઈકર એર્લિંગ હાલેન્ડે 2026 ફૂટબોલ વર્લ્ડ કપમાં ઇતિહાસ રચ્યો છે. બ્રાઝિલ સામે બે ગોલ કરીને તે એક જ વર્લ્ડ કપમાં ચાર મેચ વિનર ગોલ કરનાર ઇતિહાસનો ચોથો ખેલાડી બન્યો છે. લિયોનેલ મેસ્સી, ક્રિસ્ટિયાનો રોનાલ્ડો અને કાયલિયન એમ્બાપ્પે જેવા દિગ્ગજ ખેલાડીઓ પણ આ યાદીમાં નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-erling-haaland-match-winning-goals-elite-list-483760 ",
+    "time": "2026-07-06T09:33:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મુંબઈમાં લોકડાઉન!  &amp;#039;ખૂબ જ જરૂરી હોય તો જ ઘરની બહાર નીકળો&amp;#039;, 90 કિમીની ઝડપે તોફાની પવનની આગાહી સાથે હાઈએલર્ટ",
+    "desc": "મુંબઈમાં લોકડાઉન જેવી સ્થિતિ ઉભી થઈ છે. આફતનો વરસાદ વરસી રહ્યો છે. રેલવેએ એક ડઝન ટ્રેનોને રદ કરી દીધી છે. લેન્ડસ્લાઈડને પગલે મુંબઈ પુણે એક્સપ્રેસ વે બંધ કરવો પડ્યો છે. એરલાઈન્સે પણ કેટલીક ફ્લાઈટો ડાયવર્ટ કરી દીધી છે. 5 લોકોનાં મોતના પણ સમાચાર છે. મુંબઈના આ વરસાદે રેલ સેવા, હવાઈ અને માર્ગો બંધ કરી એક ફૂલસ્ટોપ લગાવી દીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/alert-lockdown-in-mumbai-leave-home-only-if-absolutely-necessary-high-alert-with-forecast-of-gusty-winds-of-90-kmph-483757 ",
+    "time": "2026-07-06T09:11:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "જાણો શું છે દિલજીત દોસાંજની ફિલ્મ સતલુજનો વિવાદ, શા માટે ભારતમાં ફિલ્મને કરી દીધી બૈન ?",
+    "desc": "દિલજીત દોસાંજની ફિલ્મ સતલુજને લઈને 2022 થી વિવાદ ચાલે છે. આ ફિલ્મને થિયેટર રિલીઝની મંજૂરી તો ન મળી પણ વર્ષોના ઈંતેજાર પછી જ્યારે આ ફિલ્મ ઝી5 પર રિલીઝ થઈ તો ત્યાંથી પણ 2 જ દિવસમાં ફિલ્મને હટાવી લેવામાં આવી. જેના કારણે દર્શકોના મનમાં પ્રશ્ન થયો છે કે એવું તો શું છે આ ફિલ્મમાં કે તેને ભારતમાં બૈન કરી દેવામાં આવી ? તો ચાલો તમને જણાવીએ આ ફિલ્મના વિવાદ વિશે વિસ્તારપૂર્વક.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/what-is-satluj-movie-controversy-why-diljit-dosanj-film-satluj-banned-in-india-know-here-483755 ",
+    "time": "2026-07-06T08:29:47.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "28 KM માઇલેજ, સનરૂફ અને 6 એરબેગ! આ હાઇબ્રિડ SUV પર મળી રહ્યું છે ₹3 લાખનું ડિસ્કાઉન્ટ",
+    "desc": "જો તમે એક નવી હાઇબ્રિડ SUV ખરીદવાની યોજના બનાવી રહ્યાં છો તો Maruti Suzuki Grand Vitara મળી રહેલી ઓફરનો ફાયદો ઉઠાવી શકો છો. જુલાઈ 2026મા આ એસયુવી પર કુલ 3 લાખ સુધીનો ફાયદો મળી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-grand-vitara-bonanza-massive-3-lakh-benefits-in-july-2026-483751 ",
+    "time": "2026-07-06T07:44:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "શું આમિર ખાન સાથે લગ્ન કર્યા પછી ગૌરીએ ઈસ્લામ ધર્મ અપનાવ્યો? જાણો શું છે સોશિયલ મીડિયાના દાવાનું સત્ય",
     "desc": "આમિર ખાન અને ગૌરી સ્પ્રેટે કોર્ટ મેરેજ કર્યાં છે. આ દરમિયાન પરિવારના લોકો અને નજીકના મિત્રો સામેલ થયા હતા. આમિર ખાનના ત્રીજા લગ્ન બાદ સોશિયલ મીડિયા પર આ પ્રકારની અટકળો લગાવવામાં આવી રહી છે કે ગૌરીએ આમિર સાથે લગ્ન કર્યા બાદ પોતાનો ધર્મ બદલ્યો છે. આવો આ દાવામાં કેટલું સત્ય છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -216,15 +306,6 @@ const newsData_gu = [
     "time": "2026-07-04T14:01:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "આખરે વૈભવ સૂર્યવંશીનું ડેબ્યૂ, સચિનનો તોડ્યો રેકોર્ડ... જાણો પ્લેઈંગ-11માંથી કોનું કપાયું પત્તુ",
-    "desc": "ભારત અને ઇંગ્લેન્ડ માન્ચેસ્ટરના ઓલ્ડ ટ્રેફોર્ડ ખાતે બીજી T20માં આમને-સામને છે. ભારતીય ટીમને આયર્લેન્ડ પ્રવાસ દરમિયાન ટી20 શ્રેણીમાં શરમજનક હારનો સામનો કરવો પડ્યો હતો. હવે, ટીમ ઇન્ડિયા ફરીથી લય મેળવવા માંગે છે. ત્યારે આજની મેચમાં વૈભવ સૂર્યવંશી આંતરરાષ્ટ્રીય ક્રિકેટમાં ડેબ્યૂ કરી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-eng-2nd-t20-vaibhav-sooryavanshi-debut-sanju-samson-out-483575 ",
-    "time": "2026-07-04T13:33:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "NPS ધારકોની મોજ! હવે પેન્શનની સાથે મળશે હેલ્થ ઈશ્યોરેંસ, સરકાર લાવ રહી છે નવી યોજના",
     "desc": "NPS રોકાણકારો માટે એક મહત્વપૂર્ણ સમાચાર છે. પેન્શન ફંડ રેગ્યુલેટરી એન્ડ ડેવલપમેન્ટ ઓથોરિટી (PFRDA) આગામી 60-70 દિવસમાં \"NPS સ્વાસ્થ્ય\" યોજના શરૂ કરી રહી છે, જે પેન્શન બચત સાથે ટોપ-અપ આરોગ્ય વીમો પણ ઓફર કરે છે. આદિત્ય બિરલા હેલ્થ ઇન્શ્યોરન્સ શરૂ થશે, જેમાં અન્ય વીમા કંપનીઓ પછીથી જોડાશે.",
@@ -241,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-ayatollah-khamenei-funeral-delayed-by-4-months-know-the-reason-483563 ",
     "time": "2026-07-04T11:51:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ના સંજુ કે ના ઈશાન... વૈભવ સૂર્યવંશીના ડેબ્યૂ માટે આ મેચ વિનર ખેલાડી થશે બહાર! ટીમમાં થઈ શકે છે મોટો ફેરફાર",
-    "desc": "ઈંગ્લેન્ડ અને ભારત વચ્ચેની બીજી T20માં ચાહકો વૈભવ સૂર્યવંશીને રમતો જોવા માંગે છે. વૈભવને ડેબ્યૂ કરાવવા માટે કોચ ગંભીર અને કેપ્ટન શ્રેયસ ઐયર સંજુ અથવા ઈશાનને બદલે આ મેચ વિનર ખેલાડીને બેન્ચ પર બેસાડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-england-2nd-t20-vaibhav-sooryavanshi-might-replace-tilak-varma-483558 ",
-    "time": "2026-07-04T10:53:40.000Z"
   },
   {
     "cat": "World",
@@ -396,15 +468,6 @@ const newsData_gu = [
     "time": "2026-07-03T10:17:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "હાઈ લા! દુલ્હેરાજાને ભારે પડ્યો નાગિન ડાન્સ! દુલ્હને લગ્ન કરવાની ઘસીને ના પાડી દીધી",
-    "desc": "એક લગ્ન એટલા માટે કેન્સલ થઈ ગયા કારણ કે દુલ્હેરાજા નાગિન ડાન્સ કરતા હતા અને દુલ્હનને તે ગમ્યું નહીં એવો આરોપ લાગ્યો છે. આખરે એવું તે શું થયું અને કેમ આવી સ્થિતિ ઊભી થઈ તે વિગતવાર જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bride-refused-to-marry-because-of-drunk-groom-nagin-dance-483472 ",
-    "time": "2026-07-03T10:15:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સપનું બનશે સોનાની ખરીદી! ભાવમાં બંપર વધારો, ચાંદી પણ જોરદાર ઉછળી, જાણો કેરેટ પ્રમાણે આજનો ભાવ",
     "desc": "સોના અને ચાંદીમાં આજે પણ ભારે ઉછાળો જોવા મળ્યો છે. વૈશ્વિક બજારની સાથે સાથે ઘરેલુ બજારોમાં પણ સોનું અને ચાંદી મોંઘા થયા છે. જો તમે પણ ખરીદવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ચેક કરો.",
@@ -448,24 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-confirm-third-wedding-with-gauri-spratt-on-5-july-at-home-here-is-what-aamir-said-for-marriage-483422 ",
     "time": "2026-07-03T02:25:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચમાં સરકારી કર્મચારીઓની લાગશે લોટરી! HRA, DA અને TPTAમાં બદલાવથી 65% સુધી વધશે સેલરી?",
-    "desc": "8મા પગાર પંચને લઈને કેન્દ્રીય કર્મચારી સંગઠનોએ HRA, TPTA, DA મર્જ અને ફેમિલી યુનિટમાં મોટા બદલાવની માંગ કરી છે. જો 2.1 ફિટમેન્ટ ફેક્ટર, 36% HRA, 9000 રૂપિયા TPTA અને 5 ફેમિલી યુનિટ જેવા પ્રસ્તાવો લાગુ થાય છે, તો લેવલ-1 ના કર્મચારીઓની ગ્રોસ સેલરી લગભગ 65% સુધી વધીને 61,344 રૂપિયા થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-central-government-employees-salary-hike-hra-da-fitment-factor-latest-news-483407 ",
-    "time": "2026-07-02T17:15:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "માત્ર વ્યાજથી જ ₹5 લાખની કમાણી, પોસ્ટ ઓફિસની આ સ્કીમ છે શાનદાર",
-    "desc": "સરકારે જુલાઈ-સપ્ટેમ્બર ક્વાર્ટર માટે પોસ્ટ ઓફિસ નેશનલ સેવિંગ્સ સર્ટિફિકેટ (NSC) યોજના માટે વ્યાજ દર 7.7 ટકા પર યથાવત રાખ્યો છે. આ યોજના હેઠળ વ્યક્તિ પાંચ વર્ષના સમયગાળા દરમિયાન ફક્ત વ્યાજમાંથી ₹5 લાખ કમાઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/post-office-nsc-scheme-earn-5-lakh-rupee-only-by-interest-483405 ",
-    "time": "2026-07-02T16:28:55.000Z"
   },
   {
     "cat": "Tech",
@@ -538,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/odisha-school-book-bollywood-songs-controversy-what-is-nimbooda-song-controversy-and-what-happen-now-483265 ",
     "time": "2026-07-01T08:37:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આલિયા ભટ્ટની આલ્ફા ફિલ્મ આ ઉંમરના લોકો નહીં જોઈ શકે, જાણો શું છે કારણ ?",
-    "desc": "આલિયા ભટ્ટની ફિલ્મ આલ્ફા સિનેમા ઘરોમાં 3 જુલાઈથી જોવા મળશે. ફિલ્મ રિલીઝ થાય તે પહેલા સેન્સર બોર્ડે ફિલ્મના હિંસક સીન પર કાતર ફેરવી છે અને સાથે જ અપશબ્દોને મ્યૂટ કર્યા છે. આ ફિલ્મને લઈને અન્ય એક મહત્વની અપડેટ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/alia-bhatt-film-alpha-got-ua-16-plus-certificate-alpha-movie-release-date-3-july-2026-483253 ",
-    "time": "2026-07-01T07:42:00.000Z"
   },
   {
     "cat": "World",
@@ -655,32 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/smartphone-blast-3-blockbuster-smartphones-ready-to-launch-in-july-2026-with-mind-blowing-features-482955 ",
     "time": "2026-06-28T08:56:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હવે Maruti લાવી રહી છે સૌથી નાની અને સૌથી સસ્તી SUV, ટાટા પંચને આપશે ટક્કર",
-    "desc": "જો કંપની શાનદાર ફીચર્સ અને મલ્ટી-ફ્યુઅલ વિકલ્પો સાથે આ નવી SUV લોન્ચ કરે છે, તો તે એન્ટ્રી-લેવલ SUV સેગમેન્ટમાં મોટો ફેરફાર લાવી શકે છે. ત્યારે આ કારની કિંમત કેટલી હશે અને કેવા ફીચર્સ હોઈ શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-smallest-and-cheapest-micro-suv-know-the-price-and-features-482877 ",
-    "time": "2026-06-27T12:43:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ભારતમાં મળતી 3 સસ્તી ઈલેક્ટ્રિક કાર, કિંમત 7 લાખથી શરૂ, દૈનિક ઉપયોગ માટે શ્રેષ્ઠ વિકલ્પ",
-    "desc": "ભારતમાં ઈલેક્ટ્રિક કારોની માગ સતત વધી રહી છે. જો તમારૂ બજેટ 10 લાખ રૂપિયાથી ઓછું છે તો MG Comet EV, Tata Tiago EV અને Tata Punch EV સારા વિકલ્પ છે. ખાસ વાત છે કે આ કારની રનિંગ કોસ્ટ પણ ઓછી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/top-3-budget-electric-cars-in-india-under-10-lakh-for-daily-driving-482760 ",
-    "time": "2026-06-26T12:03:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શું E20 પેટ્રોલથી કારને નુકસાન થાય તો વીમો મળશે? સરકારે આ 4 અફવાઓનો કર્યો ખુલાસો",
-    "desc": "કેન્દ્ર સરકારે સ્પષ્ટ કર્યું છે કે E20 એટલે કે 20 ટકા ઇથેનોલ મિક્સ પેટ્રોલ વાહનો સંપૂર્ણ રીતે સુરક્ષિત છે અને તેના ઉપયોગથી મોટર વીમા ક્લેમ પર કોઈ અસર પડતી નથી. સોશિયલ મીડિયા પર ફેલાઈ રહેલી 4 અફવા વચ્ચે સરકારે જવાબ આપ્યો છે. તમારે પણ આ વિગતો જાણવી અતિ જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/e20-fuel-completely-safe-no-impact-on-insurance-claims-government-dismisses-social-media-misinformation-482553 ",
-    "time": "2026-06-24T12:30:01.000Z"
   }
 ];
