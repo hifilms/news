@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "10-man England lead but Mexico still in it after Jimenez penalty",
+    "title": "Aryna Sabalenka says she wants to 'get completely drunk' after shock Wimbledon 2026 exit",
+    "desc": "Aryna Sabalenka's quest for her maiden Wimbledon title ended in a defeat to Japan's Naomi Osaka in the round of 16 on Sunday, July 5. The World No.1 went down in straight sets 2-6, 6-7...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-says-she-wants-to-get-completely-drunk-after-shock-wimbledon-2026-exit-2026-07-06-1047273",
+    "time": "2026-07-06T06:13:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England midfielder stretchered off after getting hurt during World Cup celebrations of Mexico win",
+    "desc": "England midfielder Jordan Henderson was stretchered off after suffering a freak injury during the team's World Cup celebrations after the win over Mexico in the round of 16 on Monday (IST). Henderson was on the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/england-midfielder-stretchered-off-after-getting-hurt-during-world-cup-celebrations-of-mexico-win-2026-07-06-1047259",
+    "time": "2026-07-06T04:41:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "10-man England breach Estadio Azteca fortress to beat Mexico 3-2 and enter World Cup quarterfinals",
+    "desc": "Down to 10 men for more than half an hour in their round of 16 clash against co-hosts Mexico, England breached the fortress Estadio Azteca to enter the quarterfinals of the FIFA World Cup 2026...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/10-man-england-breach-estadio-azteca-fortress-to-beat-mexico-3-2-and-enter-world-cup-quarterfinals-2026-07-06-1047252",
+    "time": "2026-07-06T03:23:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "10-man England beat Mexico 3-2 to enter quarters",
     "desc": "Mexico host England at the Azteca Stadium in what is one of the most anticipated matches in the round of 16 in the FIFA World Cup 2026. Co-hosts Mexico look to keep their historic record at...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-beat-england-by-seven-wickets-to-lift-t20-world-cup-2026-beth-mooney-steals-show-again-2026-07-05-1047236",
     "time": "2026-07-05T17:46:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic breaks Roger Federer's all-time Wimbledon record with win over Roman Safiullin",
-    "desc": "Novak Djokovic broke Roger Federer’s record for most men's singles victories in Wimbledon history. The achievement was recorded as the Serbian moved into the Wimbledon quarter-finals by defeating Russian Roman Safiullin in four sets. prevailed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-breaks-roger-federer-s-all-time-wimbledon-record-with-win-over-roman-safiullin-2026-07-05-1047232",
-    "time": "2026-07-05T17:23:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nat Sciver-Brunt walks out with her infant son in rare move during T20 World Cup 2026 final vs Australia",
-    "desc": "In a memorable pre-match scene at Lord's, England captain Nat Sciver-Brunt carried her infant son, Theo, onto the field before the Women's T20 World Cup 2026 final against Australia on Sunday. The England skipper continued...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-walks-out-with-her-son-in-rare-move-during-t20-world-cup-2026-final-vs-australia-2026-07-05-1047229",
-    "time": "2026-07-05T16:28:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gurnoor Brar picks 10 wickets as India A dismantle Sri Lanka A in second unofficial Test",
-    "desc": "India A registered a convincing win over Sri Lanka A in the second unofficial Test in Galle. With that, the Dhruv Jurel-led side sealed the two-match contest 1-0. Notably, the visitors comfortably chased 33 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-picks-10-wickets-as-india-a-dismantle-sri-lanka-a-in-second-unofficial-test-2026-07-05-1047227",
-    "time": "2026-07-05T15:36:17.000Z"
   }
 ];

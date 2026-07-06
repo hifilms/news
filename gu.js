@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Entertainment",
+    "title": "શું આમિર ખાન સાથે લગ્ન કર્યા પછી ગૌરીએ ઈસ્લામ ધર્મ અપનાવ્યો? જાણો શું છે સોશિયલ મીડિયાના દાવાનું સત્ય",
+    "desc": "આમિર ખાન અને ગૌરી સ્પ્રેટે કોર્ટ મેરેજ કર્યાં છે. આ દરમિયાન પરિવારના લોકો અને નજીકના મિત્રો સામેલ થયા હતા. આમિર ખાનના ત્રીજા લગ્ન બાદ સોશિયલ મીડિયા પર આ પ્રકારની અટકળો લગાવવામાં આવી રહી છે કે ગૌરીએ આમિર સાથે લગ્ન કર્યા બાદ પોતાનો ધર્મ બદલ્યો છે. આવો આ દાવામાં કેટલું સત્ય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-gauri-spratt-wedding-social-media-buzzing-with-conversion-claims-heres-what-we-know-483738 ",
+    "time": "2026-07-06T06:39:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ISROની સેટેલાઇટ તસવીરોમાં દેખાયું ચોમાસાનું રૌદ્ર સ્વરૂપ! આ રાજ્યોમાં IMDનું ભારે વરસાદનું એલર્ટ",
+    "desc": "ઈસરોના INSAT-3DR ઉપગ્રહમાંથી મળેલી નવા હવામાનના ફોટામાંથી હવામાનશાસ્ત્રીઓને ચેતવણી આપી છે. અરબી સમુદ્ર અને બંગાળની ખાડીમાં બનેલા વિશાળ રાક્ષસી વાદળોને કારણે મહારાષ્ટ્ર અને પશ્ચિમ બંગાળ સહિત અનેક રાજ્યોમાં ભારે વરસાદ પડ્યો છે. હવામાન વિભાગે આગામી 24 કલાક માટે રેડ એલર્ટ જાહેર કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/isro-satellite-images-show-the-violent-nature-of-monsoon-imd-warns-of-heavy-rain-in-these-states-483736 ",
+    "time": "2026-07-06T06:17:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્રિસ્ટિયાનો રોનાલ્ડોની મોટી જાહેરાત, આ મારો છેલ્લો વર્લ્ડ કપ, ભાવુક થઈને વિરોધીઓને આપ્યો જડબાતોડ જવાબ",
+    "desc": "પોર્ટુગલના સ્ટાર ફૂટબોલર અને કેપ્ટન, ક્રિસ્ટિયાનો રોનાલ્ડોએ સ્પેન સામે 2026 ફૂટબોલ વર્લ્ડ કપ પ્રી-ક્વાર્ટર ફાઇનલ મેચ પહેલા એક મહત્વપૂર્ણ જાહેરાત કરી હતી. રાઉન્ડ ઓફ 16 મેચ પહેલા એક પ્રેસ કોન્ફરન્સમાં, તેમણે પુષ્ટિ આપી હતી કે આ તેમનો છેલ્લો વર્લ્ડ કપ હશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/cristiano-ronaldo-big-announcement-this-is-my-last-world-cup-he-gave-an-emotional-response-to-his-opponents-483733 ",
+    "time": "2026-07-06T05:36:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વર્લ્ડ કપના ઇતિહાસમાં સૌથી મોટો અપસેટ! 5 વખતના ચેમ્પિયન બ્રાઝિલને નોર્વેએ કર્યું બહાર, હોલેન્ડ એકલા પડ્યા ભારે",
+    "desc": "પાંચ વખતના ચેમ્પિયન બ્રાઝિલને છઠ્ઠી વખત ફૂટબોલ વર્લ્ડ કપ જીતવાનું સ્વપ્ન સાકાર કરવા માટે વધુ ચાર વર્ષ રાહ જોવી પડશે. નોર્વેએ પ્રી-ક્વાર્ટર ફાઇનલ મેચમાં બ્રાઝિલને 2-0થી હરાવીને બહાર ફેંકી દીધું છે. નોર્વેના સ્ટાર સ્ટ્રાઈકર, એર્લિંગ હાલેન્ડે એકલા હાથે બ્રાઝિલને હરાવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/the-biggest-upset-in-world-cup-history-norway-knocked-out-5-time-champions-brazil-483729 ",
+    "time": "2026-07-06T05:02:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "22 દેશોના મોટા નિર્ણયથી ક્રૂડ ઓઇલમાં મોટો ધડાકો! 70 ડોલરથી નીચે સરક્યા ભાવ, જાણો",
+    "desc": "ઈરાન-અમેરિકા યુદ્ધ અને હોર્મુઝ સ્ટ્રેટ નાકાબંધીને કારણે તેલનું મોટું સંકટ સર્જાયું હતું. ક્રૂડ ઓઇલના ભાવ પ્રતિ બેરલ 120 ડોલરને સ્પર્શી ગયા હતા. હવે, યુદ્ધવિરામ અને બંને દેશો વચ્ચે ઉભરતા કરાર સાથે, તેલના ભાવમાં મોટો ઘટાડો જોવા મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-decision-by-22-countries-causes-big-explosion-in-crude-oil-prices-slip-below-70-doller-know-483726 ",
+    "time": "2026-07-06T04:30:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચેટથી ખુલ્યો ₹2 કરોડના રામ મંદિર દાન ચોરીનો ભેદ! ચંપત રાયનો નજીકનો જ નીકળ્યો માસ્ટરમાઇન્ડ",
+    "desc": "અયોધ્યા રામ મંદિરના દાન ચોરીની તપાસ કરી રહેલી પોલીસે એક મહત્વપૂર્ણ સફળતા મેળવી છે. એક ચેટમાં બે કરોડ રૂપિયાના દાનની ચોરીનો ખુલાસો થયો છે. ચંપત રાયનો નજીકનો સાથી ટીનુ યાદવ આ સમગ્ર કેસ પાછળનો મુખ્ય સૂત્રધાર તરીકે ઉભરી આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/chat-reveals-the-secret-behind-the-theft-of-rs-2-crore-ram-temple-donation-mastermind-turns-out-to-be-a-close-friend-of-champat-rai-483723 ",
+    "time": "2026-07-06T03:23:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "એક્ટ્રેસ નીતિ ટેલરે સાઈકો બોયફ્રેન્ડ અંગે કર્યો ખુલાસો, કહ્યું હિંસક હતો ગુસ્સો આવે તો હાથ ઉપાડતો, સિગરેટના ડામ આપતો",
     "desc": "એક્ટ્રેસ નીતિ ટેલર હાલ રિયાલીટી શો અલાયન્સમાં જોવા મળે છે. આ શોના તાજેતરના એપિસોડમાં તેણે તેના ટોક્સિક બોયફ્રેન્ડ વિશે વાત કરી હતી. તેણે કહ્યું હતું કે તેનો બોયફ્રેડ એટલો સાયકો હતો કે તેણે નીતિને સાથળ પર સિગરેટના ડામ દીધા હતા.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -225,15 +279,6 @@ const newsData_gu = [
     "time": "2026-07-04T10:01:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ફૂટબોલ વર્લ્ડ કપમાં બબાલ, ઇજિપ્તના હેડ કોચે લાઇવ મેચમાં અચાનક પેલેસ્ટિનિયન ફ્લેગ લહેરાવી બધાને ચોંકાવ્યા",
-    "desc": "ઇજિપ્તે પેનલ્ટી શૂટઆઉટમાં ઓસ્ટ્રેલિયાને હરાવીને પહેલીવાર ફૂટબોલ વર્લ્ડ કપ રાઉન્ડ ઓફ 16માં સ્થાન મેળવ્યું છે. આ ઐતિહાસિક જીત બાદ ઇજિપ્તના હેડ કોચ હોસમ હસન પેલેસ્ટાઇનનો ફ્લેગ લહેરાવતા જોવા મળ્યા અને આ જીત પેલેસ્ટાઇનના લોકોને સમર્પિત કરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-egypt-head-coach-raises-palestinian-flag-483549 ",
-    "time": "2026-07-04T09:25:21.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold-Silver: હાઈથી સોનું 29000 અને ચાંદી 1.52 લાખ રૂપિયા સસ્તા, શું ખરીદી માટે આ યોગ્ય સમય છે?",
     "desc": "સોના અને ચાંદીના ભાવમાં આ અઠવાડિયે ભયંકર તેજી જોવા મળી. એક જ અઠવાડિયામાં સોનું 6000 રૂપિયા અને ચાંદી 17000 રૂપિયા જેટલા મોંઘા થઈ ગયા. જો કે હજુ પણ ઓલટાઈમ હાઈથી ઘણા સસ્તા છે. ત્યારે શું આ સોનું-ચાંદી ખરીદવા માટે યોગ્ય સમય છે કે નહીં? શું કહે છે એક્સપર્ટ તે જાણો.",
@@ -259,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-old-video-goes-viral-on-social-media-483542 ",
     "time": "2026-07-04T08:19:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઓસ્ટ્રેલિયાનો દાવ ઊંધો પડ્યો! ઈજિપ્તે મચાવી ધમાલ, પહેલીવાર વર્લ્ડ કપની નોકઆઉટ મેચ જીતી",
-    "desc": "ફૂટબોલના મહાકુંભમાં ઈજિપ્તે પેનલ્ટી શૂટઆઉટમાં ઓસ્ટ્રેલિયાને હરાવીને વર્લ્ડ કપની પ્રી ક્વાર્ટર ફાઈનલ (રાઉન્ડ ઓફ 16)માં જગ્યા બનાવી. ઈજિપ્તની ટીમ પહેલીવાર વર્લ્ડ કપમાં કોઈ નોકઆઉટ મેચ જીતવામાં સફળ રહી છે. ત્યારે શું ઓસ્ટ્રેલિયાને ગોલકીપર બદલવાનો દાવ ભારે પડી ગયો?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-egypt-beat-australia-reaches-round-of-16-483536 ",
-    "time": "2026-07-04T06:36:14.000Z"
   },
   {
     "cat": "Politics",
@@ -376,33 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-price-increse-drastically-check-mcx-ibja-latest-rates-aaj-no-sona-no-bhav-483468 ",
     "time": "2026-07-03T09:35:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતની 3700000 જિંદગીઓ પર મંડરાયું &amp;#039;મહાસંકટ&amp;#039;: ભૂકંપથી દલદલ બની શકે છે જમીન, સામે આવ્યો ચોંકાવનારો રિપોર્ટ",
-    "desc": "ભારતના 37 લાખ લોકોના જીવન પર એક મોટું સંકટ તોળાઈ રહ્યું છે, એવો દાવો વૈજ્ઞાનિકોએ કર્યો છે. એક ડિજિટલ મેપ અને રિપોર્ટ જાહેર કરવામાં આવ્યો છે, જે મુજબ જો ભૂકંપ આવે તો ઉત્તર પ્રદેશના ધાર્મિક શહેર વારાણસીની જમીન દલદલમાં ફેરવાઈ શકે છે. ભૂકંપ વિજ્ઞાન કેન્દ્ર (National Center for Seismology) ના આ રિપોર્ટનો ખુલાસો ખૂબ જ ડરામણો અને ચોંકાવનારો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mega-earthquake-warning-3700000-risk-of-earth-could-turn-into-quagmire-kashi-soil-liquefaction-shoccking-report-483464 ",
-    "time": "2026-07-03T09:10:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેતન અગ્રવાલ હત્યાકાંડ: ત્રીજો વ્યક્તિ કોણ? જેને સિયા અને ચેતનના લોહગઢ કિલ્લાવાળા પ્લાનિંગ વિશે બધી ખબર હતી",
-    "desc": "કેતન અગ્રવાલ હત્યાકાંડની તપાસ દરમિયાન રોજ નીત નવા ચોંકાવનારા ખુલાસા થઈ રહ્યા છે. હવે એક ત્રીજા વ્યક્તિનું નામ ખુલ્યું છે. જેને સિયા અને ચેતન બંને ઓળખે છે અને એવો દાવો છે કે આ વ્યક્તિને ષડયંત્ર વિશે બધી ખબર હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-case-big-update-apart-from-sia-and-chetan-who-was-third-person-probably-knew-everything-483463 ",
-    "time": "2026-07-03T08:31:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "18 જૂને જ કેમ કરાઈ હત્યા! કેતનની હત્યા જ ચેતનની સિયા માટે બર્થ ડે ગિફ્ટ હતી, જાણી લો મોટો થયો ખુલાસો",
-    "desc": "કેતનની હત્યાના પ્રકરણમાં રોજ નવા ખુલાસા થઈ રહ્યાં છે. આજે સિયાએ મિડલ ફિંગર દેખાડી પોતાને કોઈ પસ્તાવો ન હોવાનો પૂરવાર કરી ચૂકી છે. તમને ખબર નહીં હોય પણ 19 જૂને સિયાનો બર્થ ડે હતો. આ માટે ભવ્ય પાર્ટી હતી પણ સિયાએ એ પાર્ટી કરતાં એની હત્યામાં રસ હતો અને તેને પ્રેમી ચેતન પાસે બર્થ ડે ગીફ્ટમાં કેતનનું મોત માગ્યું હોય એમ 18 જૂને એટલે કે બર્થ ડેના એક દિવસ પહેલાં જ એની હત્યા કરી દીધી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/murder-done-on-june-18th-ketans-murder-was-chetans-birthday-gift-for-siya-new-big-update-483461 ",
-    "time": "2026-07-03T07:59:11.000Z"
   },
   {
     "cat": "Entertainment",
