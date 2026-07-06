@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jordan Henderson set to undergo surgery after injuring his wrist amid celebrations after Mexico win",
+    "desc": "England pulled off a stellar victory in the round of 16 of the ongoing FIFA World Cup 2026 against Mexico. Thanks to Jude Bellingham and Harry Kane, England defeated Mexico 3-2 and breached their fortress,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/jordan-henderson-set-to-undergo-surgery-after-injuring-his-wrist-amid-celebrations-after-mexico-win-2026-07-06-1047357",
+    "time": "2026-07-06T17:06:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England name unchanged playing XI ahead of third T20I clash against India",
+    "desc": "The stage is set for the third T20I of the ongoing series between India and England. The two sides will meet at Trent Bridge in Nottingham on July 7th. It is worth noting that both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-name-unchanged-playing-xi-ahead-of-third-t20i-clash-against-india-2026-07-06-1047352",
+    "time": "2026-07-06T15:39:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi set to star as India name T20I squad for upcoming three-game series against Zimbabwe",
+    "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced the Indian team's squad for the upcoming three-game series against Zimbabwe. In one of the biggest developments, Sanju Samson has been dropped...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-set-to-star-as-india-name-t20i-squad-for-upcoming-three-game-series-against-zimbabwe-2026-07-06-1047343",
+    "time": "2026-07-06T13:44:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UEFA slams FIFA over controversial red-card U-turn on USA star after Donald Trump's intervention",
+    "desc": "The FIFA World Cup 2026 is heating up, and with the round of 16 stage of the tournament approaching its end, the USA has been a major talking point in the tournament. The team has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/uefa-slams-fifa-over-controversial-red-card-u-turn-on-usa-star-after-donald-trump-s-intervention-2026-07-06-1047338",
+    "time": "2026-07-06T13:12:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jay Shah hails Australia’s seventh T20 World Cup win: ‘Women’s cricket is in golden era’",
     "desc": "Australia re-established themselves as one of the best cricket teams to have played the sport ever in the world after bagging a record-extending seventh Women’s T20 World Cup title by defeating England on Sunday, July...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/england-midfielder-stretchered-off-after-getting-hurt-during-world-cup-celebrations-of-mexico-win-2026-07-06-1047259",
     "time": "2026-07-06T04:41:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "10-man England breach Estadio Azteca fortress to beat Mexico 3-2 and enter World Cup quarterfinals",
-    "desc": "Down to 10 men for more than half an hour in their round of 16 clash against co-hosts Mexico, England breached the fortress Estadio Azteca to enter the quarterfinals of the FIFA World Cup 2026...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/10-man-england-breach-estadio-azteca-fortress-to-beat-mexico-3-2-and-enter-world-cup-quarterfinals-2026-07-06-1047252",
-    "time": "2026-07-06T03:23:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "10-man England beat Mexico 3-2 to enter quarters",
-    "desc": "Mexico host England at the Azteca Stadium in what is one of the most anticipated matches in the round of 16 in the FIFA World Cup 2026. Co-hosts Mexico look to keep their historic record at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mex-vs-eng-fifa-world-cup-round-of-16-live-mexico-vs-england-latest-match-updates-score-team-sheets-2026-07-06-1047246",
-    "time": "2026-07-06T00:54:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neymar announces international retirement after Brazil's loss to Norway in World Cup round of 16",
-    "desc": "Brazil star Neymar announced his retirement from international football after his team suffered a shock defeat to Norway in their round of 16 in New Jersey on Monday, July 6 (IST). Neymar broke down into...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/neymar-announces-international-retirement-after-brazils-loss-to-norway-in-world-cup-round-of-16-2026-07-06-1047244",
-    "time": "2026-07-06T00:23:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why has the Mexico vs England FIFA World Cup round of 16 clash been delayed by one hour?",
-    "desc": "The much-anticipated Mexico vs England round of 16 clash in the FIFA World Cup 2026 has been delayed by one hour due to adverse weather conditions in Mexico City. The weather and altitude have dominated...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-has-the-mexico-vs-england-fifa-world-cup-round-of-16-clash-been-delayed-by-one-hour-2026-07-06-1047243",
-    "time": "2026-07-05T23:46:26.000Z"
   }
 ];
