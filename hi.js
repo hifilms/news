@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Portugal looking for ways to breach Spain's defence",
+    "desc": "Portugal and Spain are facing off in the round of 16 of the ongoing FIFA World Cup 2026. The two sides are slated to meet at the Dallas Stadium in Arlington, and with the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/por-vs-spa-fifa-world-cup-round-of-16-live-cristiano-ronaldo-in-action-as-portugal-prepare-for-crucial-clash-1047365",
+    "time": "2026-07-06T18:37:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer comes to Ravi Bishnoi's defence after horrid showing in second T20I against England",
+    "desc": "The Indian team suffered a loss in the second T20I of the ongoing five-game series against England. The two sides met at Old Trafford in Manchester on July 4, and there were several players who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-comes-to-ravi-bishnoi-s-defence-after-horrid-showing-in-second-t20i-against-england-2026-07-06-1047363",
+    "time": "2026-07-06T18:18:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jordan Henderson set to undergo surgery after injuring his wrist amid celebrations after Mexico win",
     "desc": "England pulled off a stellar victory in the round of 16 of the ongoing FIFA World Cup 2026 against Mexico. Thanks to Jude Bellingham and Harry Kane, England defeated Mexico 3-2 and breached their fortress,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-creates-history-with-four-wickets-in-four-balls-in-seattle-orcas-win-over-tsk-in-mlc-2026-2026-07-06-1047280",
     "time": "2026-07-06T07:09:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka says she wants to 'get completely drunk' after shock Wimbledon 2026 exit",
-    "desc": "Aryna Sabalenka's quest for her maiden Wimbledon title ended in a defeat to Japan's Naomi Osaka in the round of 16 on Sunday, July 5. The World No.1 went down in straight sets 2-6, 6-7...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-says-she-wants-to-get-completely-drunk-after-shock-wimbledon-2026-exit-2026-07-06-1047273",
-    "time": "2026-07-06T06:13:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England midfielder stretchered off after getting hurt during World Cup celebrations of Mexico win",
-    "desc": "England midfielder Jordan Henderson was stretchered off after suffering a freak injury during the team's World Cup celebrations after the win over Mexico in the round of 16 on Monday (IST). Henderson was on the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/england-midfielder-stretchered-off-after-getting-hurt-during-world-cup-celebrations-of-mexico-win-2026-07-06-1047259",
-    "time": "2026-07-06T04:41:04.000Z"
   }
 ];

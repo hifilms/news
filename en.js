@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "New rural employment scheme prioritises water security works",
+    "desc": "The new VB-G RAM G rural employment scheme prioritizes water security and disaster mitigation. This initiative aims to address potential El Nino-triggered rain deficiency situations. Gram panchayats can undertake projects for disaster preparedness and climate change challenges. States facing rainfall deficits must strengthen water conservation and prepare for employment generation. The scheme also focuses on core rural infrastructure and rural livelihoods.",
+    "img": "https://static.toiimg.com/photo/msid-132225014,imgsize-807610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/new-rural-employment-scheme-prioritises-water-security-works/articleshow/132225019.cms",
+    "time": "2026-07-06T19:15:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Participation fatigue’ a growing concern for Gram Sabhas, says study",
+    "desc": "A new study highlights Gram Sabha participation fatigue, driven by unresolved grievances and lack of visible outcomes. Livelihood and time constraints significantly hinder public engagement in these local meetings. The report suggests launching awareness missions and livelihood-sensitive scheduling for better participation. Strengthening inclusive platforms will improve representation of women and vulnerable groups. The ministry will implement recommendations to make Gram Sabhas more effective.",
+    "img": "https://static.toiimg.com/photo/msid-132224963,imgsize-41650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/participation-fatigue-a-growing-concern-for-gram-sabhas-says-study/articleshow/132224867.cms",
+    "time": "2026-07-06T19:11:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Non-state actors from outside India overwhelming Kuki areas in Manipur, adding to violence: Ex-UNLF chief",
+    "desc": "Former UNLF chairman Rajkumar Meghen is in Delhi seeking a coalition for peace. He urges economic integration between Kuki and Meitei communities to build trust. Meghen suggests external forces are involved in the ongoing violence in the state. He claims the government has failed to build confidence and stop the conflict. The violence has displaced thousands and claimed many lives since May 2023.",
+    "img": "https://static.toiimg.com/photo/msid-132224663,imgsize-100034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/non-state-actors-from-outside-india-overwhelming-kuki-areas-in-manipur-adding-to-violence-ex-unlf-chief/articleshow/132224699.cms",
+    "time": "2026-07-06T19:00:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pak drone spotted over LoC in J&amp;K’s Rajouri, search op launched",
+    "desc": "Security forces launched a search operation after a Pakistani drone was spotted near the LoC. Blinking lights were observed over Mahadev Menka and Beripattan villages late Sunday. The suspected unmanned aerial vehicle briefly entered Indian airspace before returning towards Pakistan. Forces cordoned off the area and initiated a dawn search for any dropped payloads. No suspicious items were found during the extensive search operation.",
+    "img": "https://static.toiimg.com/photo/msid-132224573,imgsize-535594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pak-drone-spotted-over-loc-in-jks-rajouri-search-op-launched/articleshow/132224575.cms",
+    "time": "2026-07-06T18:54:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "POCSO pendency and torturous process further victimise children subjected to sexual abuse",
+    "desc": "A staggering 18,733 POCSO cases are pending in various courts across the 38 districts in Tamil Nadu. The situation is exacerbated by patchy support services for children who opt to go through the procedural justice system",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/y7uici/article71190635.ece/alternates/LANDSCAPE_1200/vbk-stock-pocso-illustration-japremkumar.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/pocso-pendency-and-torturous-process-further-victimise-children-subjected-to-sexual-abuse/article71190629.ece",
+    "time": "2026-07-06T18:51:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K police search Samagra Shiksha office in Jammu, Noida publisher over ‘anti-national’ books",
+    "desc": "Police searched offices in Jammu and Noida as a probe into controversial books widened. Investigators are examining how inappropriate content reached government school libraries. Officials suspended eight education personnel after the books were withdrawn from circulation. The administration registered a case under stringent anti-terror laws. This action ignited a political row and discussions on censorship.",
+    "img": "https://static.toiimg.com/photo/msid-132224318,imgsize-137844.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-police-search-samagra-shiksha-office-in-jammu-noida-publisher-over-anti-national-books/articleshow/132224302.cms",
+    "time": "2026-07-06T18:50:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIT probe reveals police conspiracy in Sai Krishna custodial death case",
+    "desc": "According to the investigating officers, the accused allegedly planned a conspiracy and attempted to create a story that the deceased had escaped from police custody and travelled to Goa, where his mobile phone signals were traced",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sit-reveals-krishnalanka-police-conspiracy-in-sai-krishna-custodial-death-case/article71189260.ece",
+    "time": "2026-07-06T18:42:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Heavy rain triggers landslide near Kwar power project site, blocks Doda-Kishtwar highway",
+    "desc": "Heavy rainfall caused a major landslide near the Kwar hydroelectric project in Kishtwar. Flash floods and mudslides blocked the Kishtwar-Doda Highway, burying several vehicles under debris. Large volumes of mud and boulders entered the project site, damaging construction equipment and materials. Three gates of the Baglihar dam were opened as the Chenab river water level increased significantly. District administrations in Doda and Kishtwar are monitoring weather conditions and river flow.",
+    "img": "https://static.toiimg.com/photo/msid-132224246,imgsize-85016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/heavy-rain-triggers-landslide-near-kwar-power-project-site-blocks-doda-kishtwar-highway/articleshow/132224247.cms",
+    "time": "2026-07-06T18:42:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NC to stage protest at Jantar Mantar for J&amp;K statehood on July 20: Dy CM Surinder Choudhary",
+    "desc": "The National Conference will protest at Jantar Mantar on July 20. Public rallies are scheduled in Srinagar and Jammu before the protest. The party demands the restoration of Jammu and Kashmir's statehood. This restoration was promised after the state Assembly polls concluded. The absence of statehood impacts employment generation and development funding.",
+    "img": "https://static.toiimg.com/photo/msid-132224170,imgsize-169614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nc-to-stage-protest-at-jantar-mantar-for-jk-statehood-on-july-20-dy-cm-surinder-choudhary/articleshow/132224161.cms",
+    "time": "2026-07-06T18:35:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "El Niño to dent India’s wind, hydropower output: study",
+    "desc": "The Centre for Research on Energy and Clean Air (CREA) projects that weaker wind and hydropower output, combined with rising demand for air conditioning, could open a generation gap of nearly 18 TWh (terawatt hour) over a period of one year to June 2027",
+    "img": "https://th-i.thgim.com/public/incoming/mrm93j/article71190921.ece/alternates/LANDSCAPE_1200/Major-hydropoweGA6G29PN1.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/el-nino-to-dent-indias-wind-hydropower-output-study/article71189323.ece",
+    "time": "2026-07-06T18:16:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain vs Portugal, FIFA World Cup Round of 16 LIVE: Spain eyes revenge as Ronaldo’s Portugal loom in last-16",
+    "desc": "The last time Spain won a knockout match at the World Cup, they went on to lift the title. On the other hand, Portugal would look for a repeat of the UEFA Nations League final and topple La Roja",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/spain-vs-portugal-fifa-world-cup-match-live-score-updates-july-6-2026/article71190886.ece",
+    "time": "2026-07-06T18:12:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UK MP urges FIFA to delay Eng player's red-card suspension amid Balogun row",
+    "desc": "Quansah was sent off in the second half of England's round-of-16 match against Mexico at the Estadio Azteca after a sliding tackle on Jesus Gallardo. England were leading 2-1 at the time, with Jude Bellingham scoring both first-half goals.",
+    "img": "https://static.toiimg.com/photo/msid-132223017,imgsize-639882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/rules-being-applied-equally-after-donald-trumps-balogun-intervention-uk-mp-urges-fifa-to-delay-england-players-red-card-suspension/articleshow/132222950.cms",
+    "time": "2026-07-06T18:01:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "NSE targets to launch ₹30,000 crore IPO in September",
+    "desc": "The proposed public issue will be entirely an offer for sale (OFS) of 14.89 crore equity shares, with existing shareholders collectively divesting nearly 6% of the exchange's equity, according to the draft red herring prospectus (DRHP) filed in June",
+    "img": "https://th-i.thgim.com/public/incoming/adne7j/article71190900.ece/alternates/LANDSCAPE_1200/2026-07-06T085429Z_669868797_RC2S6GAPYZXQ_RTRMADP_3_INDIA-STOCKS-REGULATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/nse-targets-to-launch-30000-crore-ipo-in-september/article71190897.ece",
+    "time": "2026-07-06T17:50:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chennai Corporation defers new infrastructure projects, cancels tenders worth more than ₹600 crore",
+    "desc": "An official says the tender cancellations have been implemented mainly to stagger expenditure and improve planning. The civic body has also not released the annual ward maintenance funds for civic repairs and sanitation, leaving many buildings, including UPHCs, in a damaged state",
+    "img": "https://th-i.thgim.com/public/incoming/jpp29g/article71190755.ece/alternates/LANDSCAPE_1200/Road%20Laying_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/2000-crore-unpaid-bills-chennai-corporation-cancels-major-tenders-worth-over-600-crore/article71190406.ece",
+    "time": "2026-07-06T17:48:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Manipal Health gets SEBI nod to float ₹8,000 crore IPO",
+    "desc": "Manipal Health Enterprises Ltd. had filed its draft papers with the Securities and Exchange Board of India (SEBI) on March 25; after reviewing the draft papers, Sebi gave its observations on July 3, the update showed",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/manipal-health-gets-sebi-nod-to-float-8000-crore-ipo/article71190768.ece",
+    "time": "2026-07-06T17:41:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Check routes, extensions and details",
+    "desc": "Railway Minister Ashwini Vaishnaw launched new train services and route extensions. These improvements enhance rail connectivity across Maharashtra, Uttar Pradesh, and Uttarakhand. New services connect Nanded to Mumbai and Tanakpur to Nanded. Existing routes were extended, and special services were regularized for passengers. Railways also announced special trains for Onam and Rath Yatra festivals.",
+    "img": "https://static.toiimg.com/photo/msid-132222440,imgsize-736487.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/railway-minister-vaishnaw-launches-new-train-services-check-routes-extensions-and-details/articleshow/132222246.cms",
+    "time": "2026-07-06T17:37:44.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "NIA names LeT founder Hafiz Saeed as accused in Pahalgam terror attack",
     "desc": "The charge sheet provides details of Pakistan’s conspiracy, Saeed’s role, and supporting evidence collected by the NIA in the case; LeT and TRF have been charged as legal entities for their “role in planning, facilitating, and executing the Pahalgam terror attack”",
     "img": "https://th-i.thgim.com/public/incoming/6vac2c/article69458067.ece/alternates/LANDSCAPE_1200/2012-04-15T143946Z_01_ISL101_RTRMDNP_3_PAKISTAN.JPG",
@@ -36,6 +180,15 @@ const newsData_en = [
     "time": "2026-07-06T17:23:20.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "'Operate autonomously': FIFA denies pressure as Trump confirms Balogun intervention",
+    "desc": "The clarification came after FIFA allowed Balogun to play in the United States' FIFA World Cup round-of-16 match against Belgium, a decision that drew criticism and raised questions over whether Trump's intervention had influenced the outcome.",
+    "img": "https://static.toiimg.com/photo/msid-132221982,imgsize-670276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/operate-autonomously-fifa-scrambles-to-defend-independence-as-donald-trump-confirms-folarin-balogun-intervention/articleshow/132221981.cms",
+    "time": "2026-07-06T17:22:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "AIADMK leader KBS Raja, cousin of EPS, quits party",
     "desc": "AIADMK leader K B S Raja resigned from the party on Monday. He is a cousin of party chief Edappadi K Palaniswami. Raja claimed he worked for the party for thirty years. He was denied an Assembly election ticket on two occasions. Raja did not announce his future political plans.",
@@ -43,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/aiadmk-leader-k-b-s-raja-cousin-of-eps-quits-party/articleshow/132222083.cms",
     "time": "2026-07-06T17:15:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "POCSO pendency and torturous process further victimise children subjected to sexual abuse",
-    "desc": "A staggering 18,733 POCSO cases are pending in various courts across the 38 districts in Tamil Nadu. The situation is exacerbated by patchy support services for children who opt to go through the procedural justice system",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/y7uici/article71190635.ece/alternates/LANDSCAPE_1200/vbk-stock-pocso-illustration-japremkumar.jfif",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/pocso-pendency-and-torturous-process-further-victimise-children-subjected-to-sexual-abuse/article71190629.ece",
-    "time": "2026-07-06T17:02:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -115,33 +259,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-mumbai-rains-kill-over-10-opposition-questions-govts-response-above-the-fold-06072026/article71190564.ece",
     "time": "2026-07-06T15:54:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu defends CRZ approval granted for the proposed Mamallan Reservoir project",
-    "desc": "In its counter to a petition challenging the clearance issued in December 2025, the Tamil Nadu State Coastal Zone Management Authority says the project complies with the CRZ Notification, 2011, and was subjected to multiple levels of technical scrutiny",
-    "img": "https://th-i.thgim.com/public/incoming/qlz7df/article71190526.ece/alternates/LANDSCAPE_1200/DSC_7983a.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-defends-crz-approval-granted-for-the-proposed-mamallan-reservoir-project/article71189364.ece",
-    "time": "2026-07-06T15:53:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala PSC internal probe finds anomalies in evaluation",
-    "desc": "State Information Commission directs the PSC to provide within seven days the copy of the answer sheets as well as all other details to those who asked for it. It also observes that the PSC failed to explain why it did not provide the answer sheets for a post with an already published rank list.",
-    "img": "https://th-i.thgim.com/public/incoming/kfwwf7/article71190516.ece/alternates/LANDSCAPE_1200/NH06YouthCongress07.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-psc-internal-probe-finds-anomalies-in-evaluation/article71189673.ece",
-    "time": "2026-07-06T15:31:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. government announces ‘Nethanna Bharosa’ scheme, clears APCO dues",
-    "desc": "Addressing a gathering during the golden jubilee celebrations of the cooperative society, says ₹4 crore towards dues for blankets and other supplies made to welfare hostels will be released on July 15, while another ₹2.50 crore for general handloom products will be paid in the first week of August",
-    "img": "https://th-i.thgim.com/public/incoming/g3angx/article71190359.ece/alternates/LANDSCAPE_1200/10745_6_7_2026_20_25_41_1_IMG_20260706_WA0061.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-government-announces-nethanna-bharosa-scheme-clears-apco-dues/article71190244.ece",
-    "time": "2026-07-06T15:23:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -405,15 +522,6 @@ const newsData_en = [
     "time": "2026-07-06T11:48:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi escorted by fighter jets in Indonesia, welcomed by president Subianto at airport",
-    "desc": "Prime Minister Narendra Modi commenced a three-nation tour with a grand welcome in Indonesia, highlighting the strong Comprehensive Strategic Partnership. Discussions are set to focus on defense, maritime cooperation, and critical minerals, with Indonesia being a key partner for India's supply chain and energy transition. The visit aims to deepen institutional cooperation and strengthen trade ties, building on existing momentum in the Indo-Pacific region.",
-    "img": "https://static.toiimg.com/photo/msid-132215898,imgsize-654862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-escorted-by-fighter-jets-in-indonesia-welcomed-by-president-subianto-at-airport/articleshow/132215432.cms",
-    "time": "2026-07-06T11:47:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dhurandhar designer reveals how Alia transformed his career",
     "desc": "Production designer Rupin Suchak, known for films like \"Go Goa Gone\" and \"Dhurandhar,\" reveals how designing Alia Bhatt's home transformed his career, opening doors to interior design. He reflects on the contrasting demands of film sets versus homes, emphasizing that his core goal — creating emotionally memorable spaces — remains unchanged across mediums.",
@@ -486,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-06T10:42:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'India's reputation suffers': Congress hits out at PM Modi as passport ranking slips to 125th",
-    "desc": "Congress chief Mallikarjun Kharge has sharply criticized the Modi government, citing India's declining passport rankings and increased passport fees. He questioned the government's claims of enhanced global respect, pointing to a drop in rankings and stagnant foreign tourist arrivals. Kharge alleged that citizens are paying more for subpar services, impacting India's international standing.",
-    "img": "https://static.toiimg.com/photo/msid-132214731,imgsize-1328436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indias-reputation-suffers-congress-hits-out-at-pm-modi-as-passport-ranking-slips-to-125th/articleshow/132214418.cms",
-    "time": "2026-07-06T10:42:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Hannah Waddingham talks about the future of James Bond",
     "desc": "Hannah Waddingham, acclaimed for her role in 'Ted Lasso,' has expressed her disinterest in taking on the iconic James Bond role, emphasizing the importance of women exploring diverse narratives. She connects deeply with characters in their quieter, introspective moments. Currently, she is promoting her latest project, 'Ride or Die,' a thrilling comedy following two friends entangled in a dangerous situation. The show debuts on Prime Video on July 15.",
@@ -502,33 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ted-lasso-star-hannah-waddingham-talks-ride-or-die-and-the-future-of-james-bond-a-woman-doesnt-need-to-play-james-bond-/articleshow/132214185.cms",
     "time": "2026-07-06T10:33:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Our objective was never to ... ': Prashant Kishor explains why he chose to contest from BJP stronghold Bankipur over 'safe' seat",
-    "desc": "Jan Suraaj founder Prashant Kishor is contesting the Bankipur Assembly by-election from the BJP's stronghold to urge voters to transcend caste and religious affiliations. He criticizes the incumbent BJP MLA for abandoning the seat after securing a Rajya Sabha berth, citing Amit Shah as a counter-example. Kishor aims to challenge the BJP's perceived arrogance and their underestimation of Bankipur's educated electorate.",
-    "img": "https://static.toiimg.com/photo/msid-132214482,imgsize-840404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/our-objective-was-never-to-prashant-kishor-explains-why-he-chose-to-contest-from-bjp-stronghold-bankipur-over-safe-seat/articleshow/132214412.cms",
-    "time": "2026-07-06T10:32:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Accused allowed to flee': AAP protests over Delhi's 'Rs 650 crore health scam'",
-    "desc": "Aam Aadmi Party (AAP) protested at LNJP Hospital, alleging a Rs 650 crore health department scam. Party leaders questioned Chief Minister Rekha Gupta, demanding to know why the main accused, allegedly appointed by Gupta's government despite a vigilance inquiry, was allowed to flee to Germany. AAP claims the Anti-Corruption Branch (ACB) delayed the arrest, enabling the escape, drawing parallels to other high-profile fugitives.",
-    "img": "https://static.toiimg.com/photo/msid-132214376,imgsize-225255.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/accused-allowed-to-flee-aap-protests-over-delhis-rs-650-crore-health-scam/articleshow/132214388.cms",
-    "time": "2026-07-06T10:27:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi HC gives two weeks to Wrestling Federation to decide on show-cause notice to Vinesh Phogat",
-    "desc": "On May 9, the WFI had issued the show-cause notice to Phogat and declared her ineligible to participate in domestic events till June 26, 2026, citing the mandatory six-month notice period linked to athletes returning from retirement under anti-doping rules",
-    "img": "https://th-i.thgim.com/public/incoming/2thfv9/article71188740.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000249B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/delhi-hc-gives-two-weeks-to-wrestling-federation-to-decide-on-show-cause-notice-to-vinesh-phogat/article71188693.ece",
-    "time": "2026-07-06T10:19:12.000Z"
   },
   {
     "cat": "Sports",
@@ -556,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-heath-ledger-if-you-make-decisions-based-upon-peoples-reactions-or-judgments-then-you-make-really-boring-choices-when-the-dark-knight-actor-dropped-timeless-wisdom-on-breaking-free-from-peoples-expectations/articleshow/132213729.cms",
     "time": "2026-07-06T10:01:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC disposes wrestler's plea, directs WFI to decide in 2 weeks",
-    "desc": "The Delhi high court has concluded wrestler Vinesh Phogat's plea challenging her initial exclusion from Asian Games trials, deeming it moot as she participated following court orders. However, the Wrestling Federation of India must now decide on a pending show-cause notice within two weeks, ensuring Phogat receives a personal hearing. This decision addresses immediate participation concerns while disciplinary proceedings continue.",
-    "img": "https://static.toiimg.com/photo/msid-132213841,imgsize-1174737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vinesh-phogat-asian-games-trials-case-delhi-hc-disposes-wrestlers-plea-directs-wfi-to-decide-in-2-weeks/articleshow/132213494.cms",
-    "time": "2026-07-06T09:59:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -684,15 +747,6 @@ const newsData_en = [
     "time": "2026-07-06T07:14:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Harry Kane loses his voice after England’s World Cup win and delivers funniest viral post-match moment",
-    "desc": "Harry Kane produced a viral post-match moment after England’s dramatic 3-2 World Cup 2026 Round of 16 win over Mexico, arriving for his BBC interview almost voiceless after leading celebrations. The England captain had joined teammates and fans singing Oasis’ Wonderwall and Three Lions at the Estadio Azteca. England progressed to the quarter-finals after a chaotic, emotional victory.",
-    "img": "https://static.toiimg.com/photo/msid-132210260,imgsize-896149.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-harry-kane-loses-his-voice-after-englands-world-cup-win-and-delivers-funniest-viral-post-match-moment/articleshow/132209693.cms",
-    "time": "2026-07-06T07:05:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Apple not so 'fruitful' for Himachal? Climate pressures hill state's Rs 5,000 crore economy",
     "desc": "Himachal Pradesh's Rs 5,000 crore apple economy faces a severe climate crisis, with production projected to plummet by nearly 40% this year. Unseasonal rains, hailstorms, and erratic weather have significantly impacted output, affecting an estimated 2.5 lakh farming families. Growers are grappling with rising costs and a desperate need for improved irrigation and crop insurance.",
@@ -738,24 +792,6 @@ const newsData_en = [
     "time": "2026-07-06T06:01:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Freak celebration injury! Henderson rushed to hospital after Mexico thriller",
-    "desc": "England's thrilling 3-2 World Cup win against Mexico was marred by a serious wrist injury to veteran midfielder Jordan Henderson. He was hospitalised after an awkward fall from advertising hoardings during post-match celebrations. Manager Thomas Tuchel expressed concern over the \"really bad\" injury, though he also lauded his team's fighting spirit after overcoming adversity, including a red card, to secure a quarterfinal spot.",
-    "img": "https://static.toiimg.com/photo/msid-132208495,imgsize-153908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-freak-celebration-injury-englands-jordan-henderson-rushed-to-hospital-after-mexico-thriller-watch/articleshow/132208484.cms",
-    "time": "2026-07-06T05:42:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jude Bellingham becomes third-fastest brace scorer in World Cup history",
-    "desc": "Jude Bellingham scored twice in 98 seconds to inspire England’s 3-2 victory over Mexico in the FIFA World Cup 2026 Round of 16 at the Estadio Azteca. The rapid brace, the third-fastest in World Cup history, helped England reach the quarter-finals despite a late Mexican fightback. His performance placed him alongside Kroos and Mbappé in the record books.",
-    "img": "https://static.toiimg.com/photo/msid-132208114,imgsize-123020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/jude-bellingham-joins-elite-group-of-only-two-players-in-world-cup-history-to-score-world-cup-brace-in-under-100-seconds/articleshow/132207314.cms",
-    "time": "2026-07-06T05:14:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee slips 10 paise as stronger dollar and geopolitical jitters outweigh positive cues",
     "desc": "The Indian rupee weakened against the US dollar, opening the week down 10 paise at 95.28 due to a stronger dollar globally and geopolitical uncertainties. Despite favorable global cues like falling oil prices, the rupee failed to gain, indicating underlying market fragility. Meanwhile, Indian stock markets opened on a strong note, with major indices climbing over 0.4%.",
@@ -790,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/neymar-announces-international-retirement-after-brazils-world-cup-exit/article71187771.ece",
     "time": "2026-07-06T01:40:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "China's Z.ai a challenger to OpenAI and Anthropic",
-    "desc": "A Chinese AI startup, Z.ai, is making waves with its new model, GLM-5.2, offering advanced coding and AI agent features at a lower cost than US rivals like OpenAI and Anthropic. This development is attracting developers and sparking discussions about China's growing AI competitiveness, especially as US restrictions push users towards alternative solutions. For Indian users, it provides affordable access to powerful AI tools.",
-    "img": "https://static.toiimg.com/photo/msid-132204966,imgsize-1165037.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/chinas-z-ai-a-challenger-to-openai-and-anthropic/articleshow/132204967.cms",
-    "time": "2026-07-06T00:11:12.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/pipavav-an-indian-yards-unlikely-bet-on-cutting-edge-shipbuilding/article71183415.ece",
     "time": "2026-07-04T17:47:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Explained: Why Bank of Baroda paid ₹5,700 crore to settle NMC Health dispute",
-    "desc": "Bank of Baroda, the second largest Public Sector Bank on Thursday (July 2, 2026) informed stock exchanges that it had paid $600 million (about ₹5,700 crore) to settle litigation initiated by the administrators of NMC Health Plc, NMC Healthcare Ltd and NMC Holding Ltd. This ends one of the largest cross-border banking disputes involving an Indian lender.",
-    "img": "https://th-i.thgim.com/public/incoming/s8ska5/article71180076.ece/alternates/LANDSCAPE_1200/NMC.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-explained-why-bank-of-baroda-paid-5700-crore-to-settle-nmc-health-dispute/article71180075.ece",
-    "time": "2026-07-03T16:35:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock markets take winning run to third day; Sensex climbs 262 points",
-    "desc": "From the Sensex pack, HCL Tech surged 5.79%, followed by Tech Mahindra which climbed 1.81%. Bharti Airtel, Sun Pharma, Bajaj Finserv, UltraTech Cement, Tata Steel Bajaj Finance, Tata Consultancy Services, and ICICI Bank were also among the winners.",
-    "img": "https://th-i.thgim.com/public/incoming/uqezy9/article71178477.ece/alternates/LANDSCAPE_1200/India_Financial_Markets_94744.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/stock-markets-take-winning-run-to-third-day-sensex-climbs-262-points/article71178436.ece",
-    "time": "2026-07-03T11:43:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "GST at 9 — Revenues up 14% in June 2026 but dependence on imports increased, domestic sales lagged",
-    "desc": "As GST marked nine years of implementation on July 1, tax experts point to several aspects — such as input tax credits, dispute resolution, multiple registrations, and the inverted duty structure — as issues that still need to be addressed",
-    "img": "https://th-i.thgim.com/public/incoming/l7dffx/article71169113.ece/alternates/LANDSCAPE_1200/iStock-2173510364%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/gst-mop-up-grows-14-to-195-lakh-crore-in-june/article71169062.ece",
-    "time": "2026-07-03T11:17:57.000Z"
   }
 ];
