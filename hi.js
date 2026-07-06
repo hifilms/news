@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Portugal looking for ways to breach Spain's defence",
+    "title": "Mohammad Kaif weighs in on Sanju Samson after India's second T20I loss to England",
+    "desc": "The Indian team succumbed to a hefty loss against England in the second T20I of the ongoing five-game T20I series between the two sides. The teams met at Old Trafford in Manchester for the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-kaif-weighs-in-on-sanju-samson-after-india-s-second-t20i-loss-to-england-2026-07-07-1047367",
+    "time": "2026-07-06T21:46:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain knock Portugal out of FIFA World Cup 2026, Cristiano Ronaldo's last dance ends tragically",
+    "desc": "In one of the hardest-fought battles of the ongoing FIFA World Cup 2026, Spain has beaten Portugal 1-0 and has advanced to the quarter-finals of the tournament. Throughout the game, both sides were equally matched...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/spain-knock-portugal-out-of-fifa-world-cup-2026-cristiano-ronaldo-s-last-dance-ends-tragically-2026-07-07-1047366",
+    "time": "2026-07-06T21:35:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain defeat Portugal 1-0 as Cristiano Ronaldo's last dance ends",
     "desc": "Portugal and Spain are facing off in the round of 16 of the ongoing FIFA World Cup 2026. The two sides are slated to meet at the Dallas Stadium in Arlington, and with the clash...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fifa-reverses-usa-striker-folarin-baloguns-red-card-suspension-after-donald-trumps-intervention-2026-07-06-1047299",
     "time": "2026-07-06T09:10:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ellyse Perry creates world record, becomes most decorated cricketer ever after T20 World Cup 2026 win",
-    "desc": "Australia legend Ellyse Perry added another feather to her illustrious cap with yet another T20 World Cup title under her belt. The veteran all-rounder helped the Aussies lift their seventh Women's T20 World Cup crown...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-creates-world-record-becomes-most-decorated-cricketer-ever-after-t20-world-cup-2026-win-2026-07-06-1047292",
-    "time": "2026-07-06T08:28:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dasun Shanaka creates history with four wickets in four balls in Seattle Orcas' win over TSK in MLC 2026",
-    "desc": "Dasun Shanka created history as he became the first player in Major League Cricket's history to take four wickets in four consecutive balls on Sunday, July 5. He achieved the feat during Seattle Orcas's match against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-creates-history-with-four-wickets-in-four-balls-in-seattle-orcas-win-over-tsk-in-mlc-2026-2026-07-06-1047280",
-    "time": "2026-07-06T07:09:37.000Z"
   }
 ];

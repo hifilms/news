@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Ramayana' trailer launch on July 18?",
+    "desc": "Social media buzz surrounds the potential July 18 trailer launch for Nitesh Tiwari's Ramayana. Fans anticipate an extended look at Ranbir Kapoor as Rama and Sai Pallavi as Sita. This clip may debut before the film's rumored Comic Con appearance later this month. The epic film is slated for a Diwali 2026 release, with a second part following. Hans Zimmer and A.R.",
+    "img": "https://static.toiimg.com/photo/msid-132225776,imgsize-138420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-ranbir-kapoor-yash-sai-pallavi-starrer-to-unveil-trailer-on-july-18-ahead-of-comic-con/articleshow/132225516.cms",
+    "time": "2026-07-06T21:50:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Spineless': Zlatan Ibrahimović slammed after backing FIFA's controversial Folarin Balogun decision",
+    "desc": "Zlatan Ibrahimović has sparked backlash after backing FIFA’s controversial decision to suspend Folarin Balogun’s World Cup ban, allowing the USA striker to face Belgium. While Thierry Henry agreed the red card was harsh, he questioned the timing of FIFA’s ruling. Gary Neville, Roy Keane and Ian Wright condemned the decision, with Belgium also considering legal action.",
+    "img": "https://static.toiimg.com/photo/msid-132225767,imgsize-978767.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spineless-zlatan-ibrahimovi-slammed-after-backing-fifas-controversial-folarin-balogun-decision/articleshow/132225495.cms",
+    "time": "2026-07-06T21:38:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt got 'Satluj' pulled off OTT on security grounds",
+    "desc": "The government asked ZEE5 to remove the film 'Satluj' citing security concerns. This action followed the movie's release on the OTT platform after a long delay. The film depicts the story of activist Jaswant Singh Khalra and his disappearance. Its makers released the movie on ZEE5 with a new name after censor objections. Families of victims oppose the ban, believing the film acknowledges a painful history.",
+    "img": "https://static.toiimg.com/photo/msid-132225562,imgsize-134470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-got-satluj-pulled-off-ott-on-security-grounds/articleshow/132225558.cms",
+    "time": "2026-07-06T21:35:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nabin's simplicity reflects BJP's values, says Modi",
+    "desc": "Prime Minister Narendra Modi publicly supported BJP president Nitin Nabin. He highlighted Nabin's simplicity as a source of pride for party members. This defense followed mocking remarks from Telangana CM Revanth Reddy and Arvind Kejriwal. Nabin, a former Bihar MLA, faced criticism for his relative lack of national recognition. Modi cited schoolmate accounts of Nabin's modest lifestyle during his Delhi college days.",
+    "img": "https://static.toiimg.com/photo/msid-132225550,imgsize-218874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nabins-simplicity-reflects-bjps-values-says-modi/articleshow/132225551.cms",
+    "time": "2026-07-06T21:28:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diljit's Satluj is being downloaded, watched in the US: Jasbir",
+    "desc": "Diljit Dosanjh's Satluj has found an audience overseas despite being taken down from ZEE5 in India. Punjabi singer Jasbir Jassi has claimed that the film is still being watched in the United States and other countries, adding that it has also been downloaded and shared extensively on WhatsApp. Jassi said the film remains available to viewers outside India despite its removal from the streaming platform in the country.",
+    "img": "https://static.toiimg.com/photo/msid-132225545,imgsize-88657.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjhs-satluj-is-being-downloaded-shared-on-whatsapp-and-watched-in-the-us-after-india-removal-claims-jasbir-jassi/articleshow/132225536.cms",
+    "time": "2026-07-06T21:24:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mookerjee ensured Bengal remained integral part of India",
+    "desc": "Prime Minister Narendra Modi honored Syama Prasad Mookerjee's legacy in Kolkata. He highlighted Mookerjee's efforts to keep Bengal united with India during partition. Mookerjee's industrial vision established key national institutions for economic strength. The Prime Minister noted Mookerjee's opposition to separate constitutions and flags. His government fulfilled Mookerjee's dream by removing Article 370.",
+    "img": "https://static.toiimg.com/photo/msid-132225546,imgsize-51811.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-mookerjee-ensured-bengal-remained-integral-part-of-india/articleshow/132225541.cms",
+    "time": "2026-07-06T21:20:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Defence, critical minerals on agenda as Modi arrives in Indonesia",
+    "desc": "Prime Minister Modi began a three-nation tour in Jakarta, Indonesia. He will meet President Prabowo Subianto for bilateral cooperation talks. Discussions will cover trade, defense, and critical minerals like nickel. The visit aims to deepen civilizational ties and people-to-people connections. Modi will then travel to Australia and New Zealand for further strategic engagements.",
+    "img": "https://static.toiimg.com/photo/msid-132225531,imgsize-120136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/defence-critical-minerals-on-agenda-as-modi-arrives-in-indonesia/articleshow/132225530.cms",
+    "time": "2026-07-06T21:16:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Resigned judge' can't be impeached, say constitutional experts",
+    "desc": "Parliament will table an inquiry report on former judge Yashwant Varma's removal. Justice Varma resigned in April after facing allegations of unaccounted money. Constitutional experts state impeachment proceedings are now pointless after his resignation. They emphasize a judge ceases to hold office upon resignation, not requiring acceptance. The report's tabling is seen as a political formality with no effective purpose.",
+    "img": "https://static.toiimg.com/photo/msid-132225513,imgsize-22420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/resigned-judge-cant-be-impeached-say-constitutional-experts/articleshow/132225504.cms",
+    "time": "2026-07-06T21:02:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal girl was ga﻿ng-raped, brutalised, shows autopsy",
+    "desc": "A 12-year-old girl was sexually abused and brutally murdered in Baruipur. Her body was found in a local pond after she was dumped alive. The autopsy report indicated horrific injuries and suffocation as the cause of death. Police have charged three suspects under severe sections of the law. The Chief Minister vowed to seek capital punishment for all accused.",
+    "img": "https://static.toiimg.com/photo/msid-132225483,imgsize-170388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bengal-girl-was-gang-raped-brutalised-shows-autopsy/articleshow/132225482.cms",
+    "time": "2026-07-06T20:32:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Praggnaandhaa ends tied third, Gukesh sixth; Alireza wins",
+    "desc": "The Indian star began the final day with a loss against Vincent Keymer but then did well to score 6 points out of the last eight games. His other loss came against compatriot D. Gukesh but Praggnanandhaa's main victim was Alireza",
+    "img": "https://th-i.thgim.com/public/incoming/5r2w33/article71190993.ece/alternates/LANDSCAPE_1200/IMG_55297604894_7cb117c0_2_1_S8G4DSDD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/grand-chess-tour-praggnaandhaa-ends-tied-third-gukesh-sixth-alireza-wins/article71190981.ece",
+    "time": "2026-07-06T20:25:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Party Rock Anthem fame Lauren Bennett passes away at 37",
+    "desc": "Singer Lauren Bennett, best known for her appearance on LMFAO's hit song Party Rock Anthem and as a former member of the girl groups Paradiso Girls and G.R.L., has died at the age of 37. The news was announced on Monday by her former G.R.L. bandmates Paula van Oppen, Natasha Slayton and Emmalyn Estrada in a joint statement shared on the group's Instagram account.",
+    "img": "https://static.toiimg.com/photo/msid-132225451,imgsize-55546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/party-rock-anthem-fame-lauren-bennett-passes-away-at-37-g-r-l-members-pay-tribute-cause-of-death-not-disclosed/articleshow/132225442.cms",
+    "time": "2026-07-06T20:21:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Form used in rehearsal for second phase of Census has an ‘open column’ to record caste",
+    "desc": "Final methodology to enumerate caste as part of Census 2027 will be prepared based on the feedback received during the test exercise; the open column methodology had resulted in the 2011 caste survey returning over 46 lakh different ‘caste names’",
+    "img": "https://th-i.thgim.com/public/incoming/4ui2f4/article71190874.ece/alternates/LANDSCAPE_1200/CENSUS%20STANDALONE%20%20DELHI%202026_03_07_7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/in-census-rehearsal-open-column-for-recording-caste/article71190183.ece",
+    "time": "2026-07-06T20:12:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ram Temple ex-trustee Mishra failed to secure donations: SIT",
+    "desc": "A preliminary SIT report details alleged embezzlement of Ram temple donations. Senior Trust functionary Anil Mishra's oversight failure enabled suspects to pilfer funds. Nearly seventy instances of alleged pilferage were captured on CCTV footage. Subhash Srivastava, the counting room in charge, also faces serious lapses. The report names six suspects involved in theft and misappropriation offenses.",
+    "img": "https://static.toiimg.com/photo/msid-132225413,imgsize-113460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ram-temple-ex-trustee-mishra-failed-to-secure-donations-sit/articleshow/132225414.cms",
+    "time": "2026-07-06T20:12:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Modi begins three-nation trip, starts with Indonesia to boost strategic ties",
+    "desc": "Prime Minister set to hold discussions with Indonesian President Subianto to add ‘momentum to this partnership across diverse sectors’; he will travel to Australia and New Zealand next as part of efforts to promote a free and open Indo-Pacific",
+    "img": "https://th-i.thgim.com/public/incoming/7s3gsz/article71189429.ece/alternates/LANDSCAPE_1200/20260706320L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-indonesia-bilateral-visit-july-6-2026/article71189358.ece",
+    "time": "2026-07-06T20:09:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cape Verde World Cup hero Vozinha reportedly in line to become Lionel Messi's Inter Miami teammate",
+    "desc": "Cape Verde goalkeeper Vozinha has reportedly emerged as an Inter Miami target after starring at the 2026 FIFA World Cup. The 40-year-old free agent impressed with a series of standout performances, including against Lionel Messi's Argentina, attracting interest from David Beckham's MLS club as well as Brazilian sides. A move would see him become Messi's teammate just weeks after facing him.",
+    "img": "https://static.toiimg.com/photo/msid-132225233,imgsize-134654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cape-verde-world-cup-hero-vozinha-reportedly-in-line-to-become-lionel-messis-inter-miami-teammate/articleshow/132224962.cms",
+    "time": "2026-07-06T20:06:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "New rural employment scheme prioritises water security works",
     "desc": "The new VB-G RAM G rural employment scheme prioritizes water security and disaster mitigation. This initiative aims to address potential El Nino-triggered rain deficiency situations. Gram panchayats can undertake projects for disaster preparedness and climate change challenges. States facing rainfall deficits must strengthen water conservation and prepare for employment generation. The scheme also focuses on core rural infrastructure and rural livelihoods.",
@@ -91,15 +226,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Spain vs Portugal, FIFA World Cup Round of 16 LIVE: Spain eyes revenge as Ronaldo’s Portugal loom in last-16",
-    "desc": "The last time Spain won a knockout match at the World Cup, they went on to lift the title. On the other hand, Portugal would look for a repeat of the UEFA Nations League final and topple La Roja",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/spain-vs-portugal-fifa-world-cup-match-live-score-updates-july-6-2026/article71190886.ece",
-    "time": "2026-07-06T18:12:35.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "UK MP urges FIFA to delay Eng player's red-card suspension amid Balogun row",
     "desc": "Quansah was sent off in the second half of England's round-of-16 match against Mexico at the Estadio Azteca after a sliding tackle on Jesus Gallardo. England were leading 2-1 at the time, with Jude Bellingham scoring both first-half goals.",
     "img": "https://static.toiimg.com/photo/msid-132223017,imgsize-639882.cms",
@@ -153,15 +279,6 @@ const newsData_en = [
     "time": "2026-07-06T17:37:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "In Census rehearsal, open column for recording caste",
-    "desc": "Final methodology to enumerate caste as part of Census 2027 will be prepared based on the feedback received during the test exercise; the open column methodology had resulted in the 2011 caste survey returning over 46 lakh different ‘caste names’",
-    "img": "https://th-i.thgim.com/public/incoming/4ui2f4/article71190874.ece/alternates/LANDSCAPE_1200/CENSUS%20STANDALONE%20%20DELHI%202026_03_07_7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/in-census-rehearsal-open-column-for-recording-caste/article71190183.ece",
-    "time": "2026-07-06T17:35:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SEBI said to ease short stocks by nearly doubling those eligible for borrowing",
     "desc": "The changes are aimed at boosting the cash equities market and drawing investors away from the country’s far larger derivatives market, which has seen explosive growth but carries far larger risks for retail investors in particular",
@@ -205,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/first-wedding-pictures-anshula-kapoor-marries-longtime-beau-rohan-thakkar-janhvi-kapoor-and-khushi-kapoor-help-their-jiju-apply-sindoor/articleshow/132221830.cms",
     "time": "2026-07-06T17:00:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. Health Dept. to go for zonal slot booking for disability assessment from July 8",
-    "desc": "Districts categorised into six zones for the purpose; mandatory online attendance registration before disability assessment camps has also been introduced as part of reforms aimed at reducing inconvenience to persons with disabilities, says Minister for Health Satya Kumar Yadav",
-    "img": "https://th-i.thgim.com/public/incoming/ek7uad/article71190694.ece/alternates/LANDSCAPE_1200/A.P.-Health-MinGF5G6F974.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-health-dept-to-go-for-zonal-slot-booking-for-disability-assessment-from-july-8/article71190525.ece",
-    "time": "2026-07-06T16:13:00.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +378,6 @@ const newsData_en = [
     "time": "2026-07-06T15:21:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'He is untainted in my eyes': Ram temple trust treasurer defends Champat Rai after resignation",
-    "desc": "Shri Ram Janmabhoomi Teerth Kshetra Trust Treasurer Govind Dev Giri defended former general secretary Champat Rai following his resignation over a donation theft case, calling him \"untainted\" and his decision voluntary. The trust accepted resignations of Rai and trustee Anil Mishra after a preliminary report. Krishna Mohan takes over as interim general secretary, and a committee will recommend a permanent replacement.",
-    "img": "https://static.toiimg.com/photo/msid-132220263,imgsize-127036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/he-is-untainted-in-my-eyes-ram-temple-trust-treasurer-defends-champat-rai-after-resignation/articleshow/132219626.cms",
-    "time": "2026-07-06T15:00:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Made right decision': Trump confirms he asked FIFA to review Balogun decision",
     "desc": "US President Donald Trump said he personally asked FIFA president Gianni Infantino to review the red card and one-match suspension handed to Team USA striker Folarin Balogun, a move that has sparked major controversy at the FIFA World Cup, according to CNN.",
@@ -304,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/145-rise-in-lpg-imports-gas-buys-to-be-doubled-from-us-how-much-can-it-help-india-cut-reliance-on-gulf-supply/articleshow/132218860.cms",
     "time": "2026-07-06T14:40:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'History cannot be banned': Political leaders slam removal of Diljit Dosanjh's 'Satluj' from OTT",
-    "desc": "Political parties across Punjab have strongly condemned the removal of the Diljit Dosanjh-starrer 'Satluj' from ZEE5, demanding its immediate restoration. Leaders from AAP, SAD, and Congress have labelled the move as censorship and an attack on freedom of expression, emphasizing the importance of confronting Punjab's history honestly. The film, based on human rights activist Jaswant Singh Khalra's life, was removed from the platform without explanation, sparking widespread criticism.",
-    "img": "https://static.toiimg.com/photo/msid-132219274,imgsize-107655.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/history-cannot-be-banned-political-leaders-slam-removal-of-diljit-dosanjhs-satluj-from-ott/articleshow/132219177.cms",
-    "time": "2026-07-06T14:39:55.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-06T14:09:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Court grants bail to woman accused in TCS Nashik sexual harassment, conversion case",
-    "desc": "A Nashik court granted bail to a woman accused in a sexual harassment and religious conversion case at TCS, citing her pregnancy. However, her co-accused was denied bail. The prosecution alleged evidence of sexual assault and attempts to convert the victim, a Scheduled Caste employee, to Islam. A Special Investigation Team is probing multiple related cases at the TCS unit.",
-    "img": "https://static.toiimg.com/photo/msid-132218237,imgsize-811932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/court-grants-bail-to-woman-accused-in-tcs-nashik-sexual-harassment-conversion-case/articleshow/132218229.cms",
-    "time": "2026-07-06T14:05:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Australian PM apologises for making comments about Kylie Minogue",
     "desc": "Australian Prime Minister Anthony Albanese has come under fire for his ill-considered comments regarding Kylie Minogue during a podcast episode. Amidst growing backlash from both the public and his political peers, Albanese apologized for his 'inappropriate' remarks made while choosing among Minogue, Nicole Kidman, and Rhonda Burchmore in a playful game. Critics have condemned his words as disrespectful, prompting scrutiny of his decision-making.",
@@ -367,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/australian-pm-anthony-albanese-issues-unequivocal-apology-for-over-controversial-remarks-on-kylie-minogue-amid-intense-backlash/articleshow/132217796.cms",
     "time": "2026-07-06T13:52:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ram temple trust gets interim general secretary after Champat Rai's exit, who is Krishna Mohan",
-    "desc": "Krishna Mohan has taken over as interim general secretary of the Shri Ram Janmabhoomi Teerth Kshetra Trust, replacing Champat Rai who resigned citing moral responsibility amidst donation embezzlement allegations. Trustee Anil Mishra also stepped down. The Uttar Pradesh government has ordered a probe, and an FIR has been registered with several arrests made. The Trust emphasizes thorough investigation and administrative reforms for enhanced transparency.",
-    "img": "https://static.toiimg.com/photo/msid-132217930,imgsize-89325.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-is-krishna-mohan-ram-temple-trusts-interim-general-secretary-after-champat-rais-exit/articleshow/132215398.cms",
-    "time": "2026-07-06T13:51:15.000Z"
   },
   {
     "cat": "Business",
@@ -412,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjh-gives-a-witty-reply-to-green-card-comment-amid-satluj-ott-removal-controversy-news-ban-jayegi/articleshow/132217437.cms",
     "time": "2026-07-06T13:29:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CBI alleges Rs 12 lakh bribe demand to clear contractor's bill",
-    "desc": "The CBI has apprehended the NHAI Project Director in Shillong, Aanand Singh Chouhan, along with two private individuals, for allegedly demanding a Rs 12 lakh bribe. The bribe was sought to clear a contractor's pending payment of Rs 13.38 crore. An initial Rs 4 lakh advance was caught red-handed during a sting operation, leading to the arrests and ongoing investigations.",
-    "img": "https://static.toiimg.com/photo/msid-132217438,imgsize-22301.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nhai-project-director-arrested-cbi-alleges-rs-12-lakh-bribe-demand-to-clear-contractors-bill/articleshow/132217414.cms",
-    "time": "2026-07-06T13:12:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -622,30 +685,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Heath Ledger",
-    "desc": "Heath Ledger once said, \"If you make decisions based upon people’s reactions or judgments, then you make really boring choices.\" This insightful quote underscores the importance of embracing individuality over conforming to societal expectations. The article showcases how Ledger exemplified this belief through daring roles, such as the Joker and a gay cowboy, rejecting norms to authentically express his artistry, ultimately inspiring others to pursue their unique paths.",
-    "img": "https://static.toiimg.com/photo/msid-132213792,imgsize-81204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-heath-ledger-if-you-make-decisions-based-upon-peoples-reactions-or-judgments-then-you-make-really-boring-choices-when-the-dark-knight-actor-dropped-timeless-wisdom-on-breaking-free-from-peoples-expectations/articleshow/132213729.cms",
-    "time": "2026-07-06T10:01:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Diljit Dosanjh unsurprised by ‘Satluj’ removal from Zee5, says was ‘bound to happen’",
     "desc": "‘I am thankful that what we wanted to say and the way we wanted to say, it has been conveyed. It is your film and you can watch it the way you want to,’ he said",
     "img": "https://th-i.thgim.com/public/incoming/7a7k4a/article71188613.ece/alternates/LANDSCAPE_1200/Cover%2036.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/diljit-dosanjh-unsurprised-by-satluj-removal-from-zee5-says-was-bound-to-happen/article71188607.ece",
     "time": "2026-07-06T09:58:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mamta recalls Salman holding her hand and spinning while recreating Chatni in Dhamaal 4",
-    "desc": "Mamta Sharma recalls recreating \"Chatni\" for \"Dhamaal 4,\" reliving memories of Salman Khan and \"Dabangg 2.\" The chance came via T-Series' Raj Chanana, with composer Aditya Dev's fresh take. She fondly remembers filming with Khan in 2010, fulfilling her childhood dream, and teases upcoming projects with lyricist Nikhat Khan.",
-    "img": "https://static.toiimg.com/photo/msid-132213804,imgsize-151800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/it-will-always-be-salman-khans-song-for-me-mamta-sharma-recalls-salman-khan-holding-her-hand-and-spinning-while-recreating-chatni-in-dhamaal-4/articleshow/132213804.cms",
-    "time": "2026-07-06T09:56:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -684,15 +729,6 @@ const newsData_en = [
     "time": "2026-07-06T09:37:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Seeman slams Jr NTR–Trivikram film's producer over Murugan identity",
-    "desc": "Naam Tamilar Katchi chief Seeman has issued a stern warning to Jr NTR and producer Naga Vamsi regarding a controversial tagline for their upcoming film. Seeman condemned the description of Lord Murugan as 'born in the North,' asserting it disrespects Tamil pride and identity. He urged the filmmakers to immediately drop the narrative, threatening widespread protests and a refusal to screen the film if the issue persists, demanding government intervention.",
-    "img": "https://static.toiimg.com/photo/msid-132212518,imgsize-119488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/do-not-interfere-with-symbols-that-represent-the-pride-and-identity-of-tamils-ntk-chief-seeman-issues-warning-to-jr-ntr-and-naga-vamsi-over-controversial-lord-murugan-tagline-born-in-the-north-row/articleshow/132212499.cms",
-    "time": "2026-07-06T08:54:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Football must never become a playground for political power': Ex-FIFA president",
     "desc": "Former FIFA chief Sepp Blatter has voiced strong criticism after Folarin Balogun's World Cup ban was overturned, suggesting political influence may have swayed the decision. Blatter warned football must remain free from political power, questioning FIFA's independence. The U.S. player's red card was rescinded following a reported intervention, sparking outrage from Belgium and raising concerns about the sport's disciplinary integrity.",
@@ -718,15 +754,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nuclear-power-push-india-eyes-uranium-supply-pact-with-australia-during-pm-modis-visit/articleshow/132211015.cms",
     "time": "2026-07-06T07:55:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'A good starting point': Tuchel jokes Kane could ask Trump over Quansah's red card",
-    "desc": "England coach Thomas Tuchel expressed bewilderment after FIFA overturned Folarin Balogun's World Cup suspension, questioning the precedent it sets. He humorously suggested Harry Kane might need to contact Donald Trump to reverse Jarell Quansah's red card, highlighting concerns about consistency in refereeing decisions. Tuchel emphasised the need for clarity on how such rulings are revisited, fearing it could lead to endless appeals.",
-    "img": "https://static.toiimg.com/photo/msid-132210682,imgsize-137090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-maybe-thats-a-good-starting-point-englands-thomas-tuchel-jokes-harry-kane-could-ask-donald-trump-over-jarell-quansahs-red-card/articleshow/132210661.cms",
-    "time": "2026-07-06T07:35:02.000Z"
   },
   {
     "cat": "World",
@@ -772,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
     "time": "2026-07-06T06:13:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Thank you': Ibrahimović and Henry pay emotional tributes after Neymar’s retirement",
-    "desc": "Zlatan Ibrahimović and Thierry Henry paid tribute to Neymar after his instant international retirement following Brazil’s 2-1 World Cup 2026 Round of 16 defeat to Norway. Neymar, Brazil’s all-time top scorer with 80 goals, ended a 16-year career spanning four World Cups and Olympic gold. Both pundits praised his skill, influence, and lasting impact on world football.",
-    "img": "https://static.toiimg.com/photo/msid-132209015,imgsize-1198659.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/thank-you-zlatan-ibrahimovi-and-thierry-henry-pay-emotional-tributes-after-neymars-international-retirement/articleshow/132208345.cms",
-    "time": "2026-07-06T06:07:47.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/aung-san-suu-kyi-a-symbol-of-resistance/article71183720.ece",
     "time": "2026-07-05T01:34:45.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why tanks still matter in modern warfare",
-    "desc": "Drones, missiles and precision-guided weapons have transformed the modern battlefield, but military experts argue they cannot achieve the ultimate objective of war – controlling territory. Saurabh Trivedi examines why tanks and ground forces remain indispensable despite the rapid evolution of warfare, drawing on lessons from Ukraine and insights from senior Army officers",
-    "img": "https://th-i.thgim.com/public/incoming/x8se8r/article71182906.ece/alternates/LANDSCAPE_1200/6744_26_6_2026_18_25_44_1_ZORAWAR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-tanks-still-matter-in-modern-warfare/article71182897.ece",
-    "time": "2026-07-04T18:09:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Pipavav",
-    "desc": "India’s opening in shipbuilding could lie in positioning early for green shipbuilding, a segment set to gain momentum once decarbonisation rules take hold — leaving Indian yards ready when shipowners look for alternatives to China",
-    "img": "https://th-i.thgim.com/public/business/gerb28/article71183541.ece/alternates/LANDSCAPE_1200/new%20An%20Aerial%20View%20of%20SDHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/pipavav-an-indian-yards-unlikely-bet-on-cutting-edge-shipbuilding/article71183415.ece",
-    "time": "2026-07-04T17:47:10.000Z"
   }
 ];
