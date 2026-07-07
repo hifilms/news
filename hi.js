@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India vs England 3rd T20I pitch report; here's how surface at Trent Bridge, Nottingham is expected to play",
+    "desc": "India are in unfamiliar territory. The T20 World champions have gone winless in four straight T20Is after lifting the 2026 title at home. Their UK tour has gone from bad to worse, and it might...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-3rd-t20i-pitch-report-heres-how-surface-at-trent-bridge-nottingham-is-expected-to-play-2026-07-07-1047470",
+    "time": "2026-07-07T14:17:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav clears the air on false viral statement, wishes Indian team 'the very best'",
+    "desc": "Former Indian T20I captain Suryakumar Yadav on Tuesday broke his silence regarding a fabricated statement, which went viral on social media in his name. He clarified he did not make or authorise any such statement...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-clears-the-air-on-false-viral-statement-wishes-indian-team-the-very-best-2026-07-07-1047457",
+    "time": "2026-07-07T12:29:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why was Sanju Samson dropped from India’s squad for the Zimbabwe T20I series? Report makes big revelation",
+    "desc": "Sanju Samson was recently left out of the Indian squad on Monday for the upcoming T20I series against Zimbabwe, and the move received mixed reactions from experts and fans alike. But, according to sources, Samson...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-was-sanju-samson-dropped-from-indias-squad-for-the-zimbabwe-t20i-series-report-makes-big-revelation-2026-07-07-1047450",
+    "time": "2026-07-07T12:02:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cristiano Ronaldo speaks on his international future after World Cup dream ends with loss to Spain",
     "desc": "Portugal legend Cristiano Ronaldo has confirmed that he has played in his last FIFA World Cup but stated that he won't be making \"rash decisions\" on whether he has played his last international match for...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/jordan-henderson-set-to-undergo-surgery-after-injuring-his-wrist-amid-celebrations-after-mexico-win-2026-07-06-1047357",
     "time": "2026-07-06T17:06:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England name unchanged playing XI ahead of third T20I clash against India",
-    "desc": "The stage is set for the third T20I of the ongoing series between India and England. The two sides will meet at Trent Bridge in Nottingham on July 7th. It is worth noting that both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-name-unchanged-playing-xi-ahead-of-third-t20i-clash-against-india-2026-07-06-1047352",
-    "time": "2026-07-06T15:39:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi set to star as India name T20I squad for upcoming three-game series against Zimbabwe",
-    "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced the Indian team's squad for the upcoming three-game series against Zimbabwe. In one of the biggest developments, Sanju Samson has been dropped...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-set-to-star-as-india-name-t20i-squad-for-upcoming-three-game-series-against-zimbabwe-2026-07-06-1047343",
-    "time": "2026-07-06T13:44:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UEFA slams FIFA over controversial red-card U-turn on USA star after Donald Trump's intervention",
-    "desc": "The FIFA World Cup 2026 is heating up, and with the round of 16 stage of the tournament approaching its end, the USA has been a major talking point in the tournament. The team has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/uefa-slams-fifa-over-controversial-red-card-u-turn-on-usa-star-after-donald-trump-s-intervention-2026-07-06-1047338",
-    "time": "2026-07-06T13:12:29.000Z"
   }
 ];

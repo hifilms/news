@@ -1,6 +1,222 @@
 const newsData_en = [
   {
     "cat": "World",
+    "title": "French far-right chief Marine Le Pen cleared to run for President but with ankle tag",
+    "desc": "A Paris appeals court found Marine Le Pen guilty over the fake jobs scam at the European Parliament but reduced that sentence, banning her from office for 15 months as well as sentencing her to one year to be served with an electronic tag",
+    "img": "https://th-i.thgim.com/public/incoming/73914k/article71194200.ece/alternates/LANDSCAPE_1200/2026-07-07T131424Z_739235045_RC209MA1752A_RTRMADP_3_FRANCE-POLITICS-LE-PEN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/french-far-right-chief-marine-le-pen-cleared-to-run-for-president-but-with-ankle-tag/article71194169.ece",
+    "time": "2026-07-07T14:17:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India bets on critical minerals, rare earths and chips partnerships",
+    "desc": "India has launched the National Critical Mineral Mission (NCMM) in January 2025 for a seven-year period from 2024-25 to 2030-31. The mission goes far beyond a conventional mining initiative. It lays out a long-term strategy aimed at strengthening India's energy security, accelerating industrial development and enhancing technological self-reliance.",
+    "img": "https://static.toiimg.com/photo/msid-132241529,imgsize-610428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-bets-on-critical-minerals-rare-earths-and-chips-partnerships/articleshow/132241508.cms",
+    "time": "2026-07-07T14:08:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Bengaluru changed my life': ABD reflects on special bond with RCB fans",
+    "desc": "Former South Africa captain AB de Villiers says Bengaluru \"changed my life\" and will always be closest to his heart. Speaking on The Times of India's Bombay Sports Exchange podcast, the RCB legend recalled fulfilling his childhood dream when fans chanted his name, saying he immediately felt at home. De Villiers added he'll always cherish his unique bond with Bengaluru and Indian cricket fans.",
+    "img": "https://static.toiimg.com/photo/msid-132241252,imgsize-115580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bengaluru-changed-my-life-ab-de-villiers-reflects-on-special-bond-with-rcb-fans/articleshow/132240946.cms",
+    "time": "2026-07-07T13:58:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ritabrata camp of Trinamool Congress gets time till July 10 to submit response to EC notice",
+    "desc": "The EC had last week written to both factions of the Trinamool Congress, led by former West Bengal Chief Minister Mamata Banerjee and Uluberia Purba MLA Ritabrata Banerjee, respectively, seeking responses regarding ‘claims and counterclaims’ made by them",
+    "img": "https://th-i.thgim.com/public/incoming/oo2zfv/article71157423.ece/alternates/LANDSCAPE_1200/20260603415L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ritabrata-camp-of-trinamool-congress-gets-time-till-july-10-to-submit-response-to-ec-notice/article71193566.ece",
+    "time": "2026-07-07T13:54:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Serviced vehicles not facing difficulty': Hardeep Puri rejects engine damage claims over E20 fuel",
+    "desc": "Hardeep Singh Puri dismissed social media claims about E20 petrol as misinterpretation. He stated that compatible vehicles and manufacturers report no significant issues. India has used E15 fuel for over three years and E20 since last April. Tests for E25 fuel are ongoing and will involve stakeholder consultations. The government defends the ethanol program for its economic and environmental benefits.",
+    "img": "https://static.toiimg.com/photo/msid-132241134,imgsize-89082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/serviced-vehicles-not-facing-difficulty-hardeep-puri-rejects-engine-damage-claims-over-e20-fuel/articleshow/132240920.cms",
+    "time": "2026-07-07T13:44:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hema Malini on how her mother handled film producers in the 1970s",
+    "desc": "Bollywood icon and politician Hema Malini has debunked the long-standing belief that she was the highest-paid actress of the 1970s and 1980s. Speaking on a podcast, the \"Dream Girl\" revealed that stars of her generation received mere fractions of the massive paycheques commanded by modern actors, emphasizing that her career choices were never driven by monetary gains. Malini shared that she never placed financial demands on filmmakers, crediting her mother, Jaya Chakravarthy, for managing her career with immense flexibility, often graciously accepting small payment envelopes \"almost like alms (bheeksha)\" to accommodate struggling producers.",
+    "img": "https://static.toiimg.com/photo/msid-132241008,imgsize-101332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/whatever-little-envelope-they-gave-us-we-accepted-it-almost-like-bheeksha-hema-malini-denies-being-bollywoods-top-paid-actress-and-how-her-mother-handled-film-producers-in-the-1970s/articleshow/132240895.cms",
+    "time": "2026-07-07T13:27:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IMD issues red alert as rain lashes Delhi; Wayanad on red alert after landslip",
+    "desc": "The alert was issued at 12.30 p.m. after the landslip at the Kalladi tunnel project site in Wayanad at around 11 a.m. Meanwhile, officials said ten people had died in rain-related incidents across Maharashtra's Palghar since July 1",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-7-2026/article71191976.ece",
+    "time": "2026-07-07T13:26:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saira remembers Dilip on fifth death anniversary",
+    "desc": "On Dilip Kumar's 5th death anniversary, Saira Banu shared an emotional tribute, calling memories \"faithful companions\" that keep him alive in her life. She reflected on their bond, his legacy as an artist and human being, and love that \"does not submit to time.\" Dilip Kumar passed away on July 7, 2021, at 98.",
+    "img": "https://static.toiimg.com/photo/msid-132240951,imgsize-298161.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/memories-are-faithful-companions-saira-banu-remembers-dilip-kumar-on-fifth-death-anniversary-with-an-emotional-tribute/articleshow/132240951.cms",
+    "time": "2026-07-07T13:25:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi court rejects Umar Khalid, Sharjeel Imam bail pleas, says bound by Supreme Court order",
+    "desc": "Trial court holds that it has ‘no option’ but to follow the Supreme Court’s January order; defence relies on the top court’s subsequent ruling in Syed Iftikhar Andrabi v. NIA which it said reaffirmed the principle that prolonged incarceration could justify bail",
+    "img": "https://th-i.thgim.com/public/incoming/g2e6qd/article71182533.ece/alternates/LANDSCAPE_1200/doc7d2j62t90awg32fx7st.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-court-rejects-fresh-bail-pleas-of-umar-khalid-and-sharjeel-imam/article71182544.ece",
+    "time": "2026-07-07T13:21:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Single game can't define your greatness': Siraj pens emotional tribute for Ronaldo",
+    "desc": "Portugal's FIFA World Cup 2026 campaign concluded with a Round of 16 loss to Spain. Cristiano Ronaldo's illustrious World Cup career ended without the coveted trophy. Indian pacer Mohammed Siraj shared an emotional tribute to his idol on social media. Spain secured a quarterfinal spot with a dramatic late goal in the ninety-first minute. This defeat marked the end of Portugal's tournament and Ronaldo's final World Cup chapter.",
+    "img": "https://static.toiimg.com/photo/msid-132240860,imgsize-1026262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/mohammed-siraj-pens-heartfelt-tribute-after-cristiano-ronaldos-final-world-cup-ends-in-heartbreak/articleshow/132240745.cms",
+    "time": "2026-07-07T13:13:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kurnool ERO urges voters to collect enumeration forms from nearest Secretariats on July 8",
+    "desc": "Challa Obulesu instructs voters to affix two passport-sized photographs, attach a copy of their Aadhaar card, fill in details regarding their own or their ancestors’ votes from the year 2002, and submit the form to the designated Enumeration BLO (Booth Level Officer) after collecting the form",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-ero-urges-voters-to-collect-enumeration-forms-from-nearest-secretariats-on-july-8/article71193374.ece",
+    "time": "2026-07-07T13:08:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock markets snap four-day rally amid profit booking; Trent tumbles over 12%",
+    "desc": "The 50-share NSE Nifty dipped 31.65 points, or 0.13%, to end at 24,398.70. Sensex and Nifty had rallied more than 2% in the last four sessions to hit more than two-month high levels on Monday (July 6, 2026)",
+    "img": "https://th-i.thgim.com/public/incoming/z7ipfl/article71193498.ece/alternates/LANDSCAPE_1200/2025-11-07T065921Z_1148292179_RC2USDAMZK08_RTRMADP_3_INDIA-STOCKS-FLOWS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/stock-markets-snap-four-day-rally-amid-profit-booking-trent-tumbles-over-12/article71193434.ece",
+    "time": "2026-07-07T13:08:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "POCSO pendency in Tamil Nadu and torturous process further victimise children subjected to sexual abuse",
+    "desc": "A staggering 18,733 POCSO cases are pending in various courts across the 38 districts in Tamil Nadu. The situation is exacerbated by patchy support services for children who opt to go through the procedural justice system",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/y7uici/article71190635.ece/alternates/LANDSCAPE_1200/vbk-stock-pocso-illustration-japremkumar.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/pocso-pendency-and-torturous-process-further-victimise-children-subjected-to-sexual-abuse/article71190629.ece",
+    "time": "2026-07-07T13:05:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Neelam's huge home with plush couches and private bar",
+    "desc": "Farah Khan visited Neelam Kothari and Sameer Soni's \"huge\" Mumbai home on Food With Farah. The house features an all-white exterior, warm pastel interiors, an open-plan living area, a cosy entertainment room with \"London vibes,\" a rustic bar, and indoor plants, ending with a gift exchange and a meal.",
+    "img": "https://static.toiimg.com/photo/msid-132240804,imgsize-216798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-neelam-kothari-and-samir-sonis-huge-mumbai-home-with-plush-couches-and-private-bar-that-made-farah-khan-say-its-giving-london-vibes/articleshow/132240804.cms",
+    "time": "2026-07-07T13:05:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Close shave for Macron in Syria; Iran takes jab at US after FIFA ouster, and more",
+    "desc": "A deadly Wayanad landslide claimed three lives and left several missing. Siya Goyal, accused in a murder, reportedly married her alleged lover before the crime. Explosions near French President Macron's hotel in Syria wounded eighteen people. Prime Minister Modi highlighted India and Indonesia's role in the Indo-Pacific region. Iran mocked the United States after its FIFA World Cup elimination.",
+    "img": "https://static.toiimg.com/photo/msid-132240520,imgsize-974668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-close-shave-for-macron-in-syria-iran-takes-jab-at-us-after-fifa-ouster-and-more/articleshow/132239236.cms",
+    "time": "2026-07-07T12:57:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Death toll rises to 3, opposition alleges 'negligence'",
+    "desc": "A devastating landslide near the Wayanad tunnel construction site has claimed lives and injured several people. Rescue operations are ongoing for those still missing after the mudslide near Meenakshi Bridge. Videos captured the terrifying moments as mud and debris rushed downhill, engulfing vehicles. The state government alleges contractors ignored repeated safety warnings regarding excavated soil. Opposition leaders are calling for a thorough investigation into potential criminal negligence.",
+    "img": "https://static.toiimg.com/photo/msid-132240086,imgsize-210983.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wayanad-landslide-death-toll-rises-opposition-alleges-negligence-top-developments/articleshow/132239375.cms",
+    "time": "2026-07-07T12:50:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Yes, he tried': AB de Villiers reveals Kohli wanted him to delay RCB retirement",
+    "desc": "The South African great retired from international cricket in 2018 after helping his team beat India and Australia at home. He continued playing franchise cricket, including for RCB in the Indian Premier League (IPL), before retiring from all forms of the game in 2021.",
+    "img": "https://static.toiimg.com/photo/msid-132239783,imgsize-466706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yes-he-tried-ab-de-villiers-reveals-virat-kohli-wanted-him-to-delay-rcb-retirement/articleshow/132239625.cms",
+    "time": "2026-07-07T12:44:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I never played for money': ABD reveals what drove his cricketing career",
+    "desc": "Former South Africa captain AB de Villiers says money never motivated his cricket career, with his focus always on improving and winning. Speaking on The Times of India's Bombay Sports Exchange podcast, he said youngsters need excitement, not just financial incentives, to embrace Test cricket. De Villiers called IPL earnings a \"bonus\".",
+    "img": "https://static.toiimg.com/photo/msid-132239830,imgsize-111762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-never-played-for-money-ab-de-villiers-reveals-what-drove-his-cricketing-career/articleshow/132239190.cms",
+    "time": "2026-07-07T12:44:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amid rumours of feud with Sunny, Bobby, Hema clarifies they don't do it for publicity",
+    "desc": "Hema Malini addressed speculation about family unity after Dharmendra's passing. She stated that Dharmendra's final wish was for the family to remain united. Malini described Sunny and Bobby Deol as wonderful and very sweet boys. She emphasized their deep internal connection despite a lack of public displays. The family is, in fact, one happy unit, she clarified.",
+    "img": "https://static.toiimg.com/photo/msid-132239817,imgsize-282855.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-rumours-of-feud-with-sunny-deol-bobby-deol-hema-malini-clarifies-they-are-one-happy-family-says-they-were-upset-with-dharmendras-fake-death-news-hum-log-publicity-nai-karte/articleshow/132238838.cms",
+    "time": "2026-07-07T12:43:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB grants Pakistan captain NOC to miss Sri Lanka T20Is for The Hundred",
+    "desc": "Pakistan captain Fatima Sana will miss T20Is for The Hundred. She received a No Objection Certificate from the PCB for this opportunity. Sana will lead Pakistan in the ODI series against Sri Lanka. After the ODIs, she will join Birmingham Phoenix in England. This marks a historic achievement for Pakistan women's cricket.",
+    "img": "https://static.toiimg.com/photo/msid-132239391,imgsize-42518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-grants-pakistan-captain-noc-to-miss-sri-lanka-t20is-for-the-hundred/articleshow/132239351.cms",
+    "time": "2026-07-07T12:25:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why tennis legend Roger Federer sat alone at Wimbledon Royal Box",
+    "desc": "Roger Federer remained in the Royal Box watching Wimbledon matches until late. Arthur Fery expressed surprise at seeing the tennis legend watching his contest. Fery's victory secured his place in the Wimbledon quarter-finals against Flavio Cobolli. Alexander Zverev's match against Jiri Lehecka was also ongoing that evening. Other notable attendees included Billie Jean King and Alessia Russo.",
+    "img": "https://static.toiimg.com/photo/msid-132239013,imgsize-71878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/why-tennis-legend-roger-federer-sat-alone-at-wimbledon-royal-box/articleshow/132239013.cms",
+    "time": "2026-07-07T12:22:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Honey Trehan reveals how Diljit Dosanjh instantly agreed to star in 'Satluj'",
+    "desc": "Director Honey Trehan has revealed that actor Diljit Dosanjh immediately signed onto the biographical drama 'Satluj' (formerly 'Punjab ’95') after reading its very first draft, long before production faced a turbulent multi-year delay. The revelation resurfaced after the Information and Broadcasting (I&B) Ministry ordered the OTT platform to pull the film down within 48 hours of its surprise digital premiere, citing non-compliance with the IT Rules, 2021. The film, which also stars Arjun Rampal, follows the real-life crusade of human rights activist Jaswant Singh Khalra, who investigated illegal police abductions and secret mass cremations during the Punjab insurgency before being murdered himself in 1995.",
+    "img": "https://static.toiimg.com/photo/msid-132239154,imgsize-100966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/waheguru-ji-tell-me-when-and-where-to-come-youll-find-me-there-honey-trehan-reveals-how-diljit-dosanjh-instantly-agreed-to-star-in-satluj-amid-ott-removal-row/articleshow/132238875.cms",
+    "time": "2026-07-07T12:08:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's economy passed the Iran war test. Could El Nino spoil the party?",
+    "desc": "Economists say that the world’s fastest growing economy may even end up clocking a 7% GDP growth number this year. But, domestically a poor monsoon caused by El Nino is painting a grim picture for inflation. Is the worst really over for the Indian economy?",
+    "img": "https://static.toiimg.com/photo/msid-132238770,imgsize-791088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-economy-passed-the-iran-war-test-could-el-nino-spoil-the-party/articleshow/132237728.cms",
+    "time": "2026-07-07T11:51:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Remembering the director who created generations of actors",
+    "desc": "Discovered by Ebrahim Alkazi and mentored by Adi Marzban, the thespian leaves behind a legacy of actors — Nana Patekar, Ashok Saraf, Neena Kulkarni, Vikram Gokhale, Reema Lagoo and Bharati Achrekar — all shaped by her vision.",
+    "img": "https://th-i.thgim.com/public/entertainment/music/7ovdd9/article71193308.ece/alternates/LANDSCAPE_1200/10fr_Vijata-Mehta%20bw.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/theatre/vijaya-mehta-the-woman-who-reshaped-contemporary-marathi-theatre/article71192847.ece",
+    "time": "2026-07-07T11:49:31.000Z"
+  },
+  {
+    "cat": "World",
     "title": "Amnesty report finds ethnic cleansing in Sudan. What does it reveal?",
     "desc": "The investigation, conducted over eight months between August 2025 and April 2026, is based on interviews with 247 people, including 208 survivors (169 adults and 39 children) who experienced or witnessed conflict-related abuses in Sudan’s North Darfur state",
     "img": "https://th-i.thgim.com/public/incoming/lzhd6a/article71193317.ece/alternates/LANDSCAPE_1200/AFP_B8NF8G3.jpg",
@@ -12,7 +228,7 @@ const newsData_en = [
     "cat": "Entertainment",
     "title": "How Sylvester Stallone balances acting, golfing and painting",
     "desc": "At 80 years old, Sylvester Stallone has traded in his action hero persona for a quieter life filled with painting and golf in sunny Florida. Known for his impressive artwork showcased in prestigious galleries, Stallone considers painting his true passion. Despite these peaceful pursuits, he continues to captivate audiences through his role in the popular series 'Tulsa King'.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "img": "https://static.toiimg.com/photo/msid-132238588,imgsize-27532.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sylvester-stallone-turns-80-inside-the-rocky-legends-who-concentrates-on-his-art-and-painting-is-truly-his-first-love/articleshow/132238452.cms",
     "time": "2026-07-07T11:32:33.000Z"
@@ -25,6 +241,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/idhayam-murali-interview-preity-mukhundhan-niharika-nm-kayadu-lohar-atharvaa-thaman-s/article71192784.ece",
     "time": "2026-07-07T11:31:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'After Mahesh Bhatt flushed Osho's mala down the toilet, Vinod Khanna texted my mom..'",
+    "desc": "Filmmaker Mahesh Bhatt's past spiritual journey with godman Osho is detailed. His daughter Pooja Bhatt recalls his abrupt departure from the Rajneesh movement. She described Osho's reaction as that of a jilted lover. Pooja also shared childhood memories of ashram practices and rules. Mahesh Bhatt later explained his departure due to feelings of hypocrisy.",
+    "img": "https://static.toiimg.com/photo/msid-132238442,imgsize-269920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-mahesh-bhatt-flushed-oshos-mala-down-the-toilet-vinod-khanna-texted-my-mother-and-we-were-taken-to-a-safehouse-recalls-pooja-bhagwan-is-going-to-destroy/articleshow/132238356.cms",
+    "time": "2026-07-07T11:30:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -54,15 +279,6 @@ const newsData_en = [
     "time": "2026-07-07T11:28:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "IMD issues red, orange alerts as rain lashes Delhi; Wayanad on red alert after landslip",
-    "desc": "The alert was issued at 12.30 p.m. after the landslip at the Kalladi tunnel project site in Wayanad at around 11 a.m. Meanwhile, officials said ten people had died in rain-related incidents across Maharashtra's Palghar since July 1",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-7-2026/article71191976.ece",
-    "time": "2026-07-07T11:25:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Satluj' actor Kanwaljit Singh says, 'where is freedom of speech?' as the film gets taken down",
     "desc": "The film 'Satluj', based on Jaswant Singh Khalra, was removed from ZEE5 shortly after its premiere. Actor Kanwaljit Singh expressed disappointment and questioned the platform's decision regarding freedom of expression. The film, originally titled 'Punjab 95', faced certification hurdles for nearly four years. It finally debuted on ZEE5 as an uncut version after a prolonged clearance battle. Makers are reportedly considering legal action following the streaming platform's sudden removal.",
@@ -70,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/satluj-actor-kanwaljit-singh-says-where-is-freedom-of-speech-as-the-diljit-dosanjh-film-gets-taken-down-from-ott-i-dont-understand-/articleshow/132238101.cms",
     "time": "2026-07-07T11:14:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Stake sale deal in Vizhinjam port detrimental to public interest, says Kerala Leader of the Opposition Pinarayi Vijayan",
-    "desc": "The former Chief Minister requests the Securities and Exchange Board of India to examine whether the disclosure made by Adani Ports and Special Economic Zone Limited in relation to the share purchase and subscription agreement concerning Adani Vizhinjam Port Private Limited conforms to contractual and regulatory requirements",
-    "img": "https://th-i.thgim.com/public/incoming/q67xp/article71193195.ece/alternates/LANDSCAPE_1200/Kerala-governmeGHVG6P2DD.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/stake-sale-deal-in-vizhinjam-port-detrimental-to-public-interest-says-kerala-leader-of-the-opposition-pinarayi-vijayan/article71192474.ece",
-    "time": "2026-07-07T11:06:13.000Z"
   },
   {
     "cat": "Sports",
@@ -145,7 +352,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "CCTV shows Wayanad landslide sweeping away fuel tanker; 2 dead, 7 missing",
+    "title": "CCTV shows Wayanad landslide sweeping away fuel tanker; 3 dead, 7 missing",
     "desc": "A landslide near Wayanad's tunnel project site caused significant destruction and panic. Two people died and seven others sustained injuries in the sudden debris flow. Several individuals remain missing after the devastating incident occurred near Meenakshi Bridge. Heavy rainfall and construction debris are under scrutiny as contributing factors. Rescue operations are ongoing to locate the missing and clear the affected area.",
     "img": "https://static.toiimg.com/photo/msid-132237058,imgsize-3812877.cms",
     "src": "indiatimes.com",
@@ -207,15 +414,6 @@ const newsData_en = [
     "time": "2026-07-07T09:58:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "In Karur, where there was no way out",
-    "desc": "On September 27, thousands of people gathered in Karur, Tamil Nadu, to attend a rally by actor-turned-politician Vijay. As the chief of the Tamilaga Vettri Kazhagam party arrived hours late, the crowd swelled and surged towards his vehicle, triggering a stampede that killed 41 people and injured over 100. C. Jaisankar and Nacchinarkkiniyan M. report on the tragedy, caused by many factors, including poor planning and alleged security lapses",
-    "img": "https://th-i.thgim.com/public/incoming/wqzofa/article70121873.ece/alternates/LANDSCAPE_1200/4861_28_9_2025_13_12_51_4_TVK_04.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-where-there-was-no-way-out/article70121911.ece",
-    "time": "2026-07-07T09:58:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Hema Malini says Dharmendra's last message to her was to keep the family united",
     "desc": "Hema Malini spoke about Dharmendra's final message to keep the family united. She mentioned that Dharmendra always emphasized spending time with children and family. Malini described Dharmendra's sons, Sunny and Bobby Deol, as wonderful boys. She stated that they are all internally united and a happy family. Dharmendra was a generous and loving person who taught facing life's difficulties.",
@@ -261,15 +459,6 @@ const newsData_en = [
     "time": "2026-07-07T09:20:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A different approach to the caste census",
-    "desc": "What have the Bihar caste survey and Telangana’s 2025 caste survey revealed? How is a social management approach different from top-down welfare models? Would a caste census deepen social divide and undermine national unity? What about democratic accountability?",
-    "img": "https://th-i.thgim.com/public/incoming/81od4k/article69684217.ece/alternates/LANDSCAPE_1200/PTI04_30_2025_000221B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/a-different-approach-to-the-caste-census-explained/article69684153.ece",
-    "time": "2026-07-07T09:16:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I have not made such statement': Suryakumar breaks silence on viral fake quote",
     "desc": "Suryakumar Yadav has denied a fake statement circulating on social media regarding his captaincy. He expressed happiness for the team and affirmed his unwavering support for Indian cricket. The selectors continue their youth-first approach, naming Shreyas Iyer as captain for the Zimbabwe series too. Suryakumar also congratulated Vaibhav Sooryavanshi on becoming India's youngest international cricketer.",
@@ -277,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-have-not-made-or-authorised-any-such-statement-suryakumar-yadav-breaks-silence-on-viral-fake-quote/articleshow/132235509.cms",
     "time": "2026-07-07T09:14:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nandini Reddy supports ‘Satluj’ after OTT removal",
-    "desc": "Filmmaker Nandini Reddy expressed support for Diljit Dosanjh's film Satluj. The movie was recently removed from the streaming platform within two days. Reddy praised the director and actor for tackling difficult truths. She believes films should have freedom to tell painful stories. The film highlights human rights activist Jaswant Singh Khalra's fight.",
-    "img": "https://static.toiimg.com/photo/msid-132235511,imgsize-90082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/what-is-the-meaning-of-freedom-maa-inti-bangaram-director-nandini-reddy-backs-diljit-dosanjh-led-satluj-after-ott-removal/articleshow/132235473.cms",
-    "time": "2026-07-07T09:12:59.000Z"
   },
   {
     "cat": "World",
@@ -297,24 +477,6 @@ const newsData_en = [
     "time": "2026-07-07T09:11:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Awarapan 2' song 'Ve Junoon' out: Emraan Hashmi, Disha Patani spark magic in haunting track",
-    "desc": "Awarapan 2 has premiered its first track, 'Ve Junoon', enchanting listeners with its haunting beauty. The song resonates with the franchise's deep-rooted tradition of emotionally compelling storytelling. Emraan Hashmi is back, embodying a character wrestling with the shadows of past sorrows. The introduction of Disha Patani in the music video teases new heartfelt explorations. Online communities are buzzing, celebrating the return of this beloved musical saga.",
-    "img": "https://static.toiimg.com/photo/msid-132235038,imgsize-111990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-song-ve-junoon-out-emraan-hashmi-and-disha-patani-spark-magic-in-haunting-track-with-netizens-saying-akha-bollywood-ek-taraf-emraan-hashmi-ki-playlist-ek-taraf/articleshow/132235010.cms",
-    "time": "2026-07-07T08:47:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pooja reveals how her diabetic grandmother buried her own amputated leg",
-    "desc": "Pooja Bhatt recalled her grandmother, Betty Bertha Bright, calling her \"tough as nails.\" After losing a leg to diabetes, her grandmother held a bizarre funeral for it, making the family attend. Pooja revealed she secretly watched everyone's reactions during the ceremony. Pooja was last seen in Big Girls Don't Cry (2024).",
-    "img": "https://static.toiimg.com/photo/msid-132235035,imgsize-204979.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bhatt-reveals-how-her-diabetic-grandmother-buried-her-own-amputated-leg-and-held-a-full-church-funeral-for-it-totally-black-humor/articleshow/132235035.cms",
-    "time": "2026-07-07T08:46:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Back with a bang! Foreign investors bet on financials, record fortnightly inflows seen in second half of June",
     "desc": "The renewed interest in financial stocks helped overseas investors emerge as net buyers of Indian equities worth more than Rs 14,000 crore during the June 16-30 period, reversing net outflows of Rs 63,450 crore recorded in the first fortnight of the month, according to NSDL data.",
@@ -322,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/back-with-a-bang-foreign-investors-bet-on-financials-record-fortnightly-inflows-seen-in-second-half-of-june/articleshow/132234472.cms",
     "time": "2026-07-07T08:41:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bollywood films made from real life events",
-    "desc": "Several Bollywood films retell significant historical events and the lives of activists. 'Satluj' explores activist Jaswant Singh Khalra's investigation into illegal cremations in Punjab. 'Parzania' depicts the search for a missing child during the 2002 Gujarat riots. 'Kesari Chapter 2' and 'Sardar Udham' focus on the Jallianwala Bagh massacre and its aftermath. 'Shahid' chronicles the life of lawyer and human rights activist Shahid Azmi.",
-    "img": "https://static.toiimg.com/photo/msid-132234667,imgsize-125668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-satluj-to-parzania-and-kesari-2-bollywood-films-inspired-by-hard-hitting-real-life-events/articleshow/132234463.cms",
-    "time": "2026-07-07T08:39:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhanush’s nephew Pavish praises Thalapathy Vijay’s simplicity and work",
-    "desc": "Actor Pavish admires Thalapathy Vijay's simplicity and dedication to his craft. He finds Vijay's professionalism and humility very inspiring for his own career. Pavish noted Vijay's continued practice of carrying his own umbrella. This humility and hard work motivate aspiring actors like Pavish. Pavish's film 'Love Oh Love' releases on July 10.",
-    "img": "https://static.toiimg.com/photo/msid-132234868,imgsize-79034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/he-carries-his-own-umbrella-dhanushs-nephew-pavish-praises-thalapathy-vijays-simplicity-and-work-ethic-before-love-oh-love-release/articleshow/132234817.cms",
-    "time": "2026-07-07T08:38:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -358,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ram-temple-theft-row-up-cm-yogi-adityanath-calls-out-congress-samajwadi-party-with-chameleon-dig/articleshow/132234327.cms",
     "time": "2026-07-07T08:35:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Geetu Mohandas cheers Huma Qureshi’s new movie",
-    "desc": "Geetu Mohandas recently praised Huma Qureshi and the team behind the crime thriller 'Baby Do Die Do'. She expressed her pride in watching her known associates achieve success in the film. Mohandas also spoke about Huma Qureshi's talent and their upcoming project 'Toxic'. The film 'Baby Do Die Do' marks the debut of Saleem Siblings production house. Huma Qureshi's next film 'Toxic' is scheduled for release in August 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132234749,imgsize-130394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/bravo-my-elizabeth-toxic-director-geetu-mohandas-praises-huma-qureshis-baby-do-die-do-actress-reponds-with-im-crying-reading-this/articleshow/132234691.cms",
-    "time": "2026-07-07T08:33:07.000Z"
   },
   {
     "cat": "Sports",
@@ -394,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-reacts-to-diljit-dosanjhs-satluj-removed-from-ott-says-the-film-is-a-deep-wound-any-art-which-makes-the-powerful-uncomfortable-has-done-its-job/articleshow/132234343.cms",
     "time": "2026-07-07T08:15:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Huma Qureshi reacts to ‘Toxic’ release delays",
-    "desc": "The much-awaited film 'Toxic' starring Kannada sensation Yash is set to hit theaters on August 26. Actress Huma Qureshi weighed in on the film's various delays, urging fans to shift their focus to the exciting release ahead. She highlighted 'Toxic' as a grand visual experience, showcasing extraordinary action sequences, and noted the project is directed by Geetu Mohandas, featuring both Kannada and English dialogue.",
-    "img": "https://static.toiimg.com/photo/msid-132234406,imgsize-77298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/the-goal-is-to-release-when-the-film-is-truly-ready-huma-qureshi-on-release-days-of-geetu-mohandas-directed-and-yash-starrer-toxic/articleshow/132234364.cms",
-    "time": "2026-07-07T08:11:49.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +630,6 @@ const newsData_en = [
     "time": "2026-07-07T05:50:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi conferred with Indonesia's highest honour during his 2-day state visit",
-    "desc": "The Bintang Republik Indonesia Adipurna, commonly referred to as the Bintang Adipurna, is Indonesia's highest state honour. It is the highest class of the Star of the Republic of Indonesia (Bintang Republik Indonesia), the country's premier order of merit, and is conferred by the President of Indonesia on individuals who have rendered extraordinary service to the nation.",
-    "img": "https://static.toiimg.com/photo/msid-132231447,imgsize-86654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-conferred-with-indonesias-hightest-honour-during-his-2-day-state-visit/articleshow/132231325.cms",
-    "time": "2026-07-07T05:46:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "Islandwide blackout hits Cuba as its fuel reserve dwindles and aging grid crumbles",
     "desc": "Cuban President Miguel Díaz-Canel accused the U.S. of trying to ‘incite social unrest by strangling Cuba's fuel supply’ and said ‘the actions of electrical workers in the midst of a genocidal energy blockade are heroic’",
@@ -520,33 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/islandwide-blackout-hits-cuba-as-its-fuel-reserve-dwindles-and-aging-grid-crumbles/article71192092.ece",
     "time": "2026-07-07T05:41:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You despise me because I am a woman': Paraguay senator fires back at Mbappé",
-    "desc": "Paraguayan Senator Celeste Amarilla seeks an apology from French footballer Kylian Mbappé. She demands he retract his \"despicable woman\" comment made after her remarks. Amarilla claims Mbappé showed disrespect and poor sportsmanship during their World Cup match. She is considering legal action if Mbappé fails to apologize publicly. The senator asserts her position as an elected official representing her nation.",
-    "img": "https://static.toiimg.com/photo/msid-132231304,imgsize-1139017.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/you-despise-me-because-i-am-a-woman-paraguay-senator-fires-back-at-kylian-mbapp-after-racism-row/articleshow/132231237.cms",
-    "time": "2026-07-07T05:39:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indonesia to build country-specific EVMs with India's support",
-    "desc": "The two countries are also expected to deepen cooperation in critical minerals. According to sources, India will invest in the manufacturing of steel, nickel and rare earth permanent magnets in Indonesia to strengthen resilient supply chains for strategic industries. Prime Minister Narendra Modi met Indonesian President Prabowo Subianto at the Istana Merdeka, the Presidential Palace in Jakarta, where the two leaders held bilateral talks after the Prime Minister signed the visitors' book.",
-    "img": "https://static.toiimg.com/photo/msid-132231246,imgsize-78622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indonesia-to-build-country-specific-evms-with-indias-support/articleshow/132230983.cms",
-    "time": "2026-07-07T05:32:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very weak': Rooney, Quaresma rip into Portugal's star midfield for failing Ronaldo",
-    "desc": "Portugal’s World Cup exit has intensified scrutiny of Roberto Martínez’s side, with Wayne Rooney and Ricardo Quaresma questioning whether the midfield did enough to support Cristiano Ronaldo in his final World Cup. Both argued Portugal’s talented midfield failed to create enough chances, leaving the 41-year-old isolated as Spain ended the Seleção’s campaign in the Round of 16.",
-    "img": "https://static.toiimg.com/photo/msid-132231276,imgsize-90970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/very-very-weak-rooney-and-quaresma-rip-into-portugals-star-midfield-for-failing-cristiano-ronaldo-in-final-world-cup/articleshow/132230542.cms",
-    "time": "2026-07-07T05:31:47.000Z"
   },
   {
     "cat": "Business",
@@ -558,15 +648,6 @@ const newsData_en = [
     "time": "2026-07-07T05:24:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Not his fault': Belgium coach Garcia defends Balogun after FIFA controversy",
-    "desc": "Belgium's coach Rudi Garcia expressed understanding regarding Folarin Balogun's eligibility situation. He stated the player was not to blame for the FIFA eligibility controversy. Belgium secured a dominant 4-1 victory against the United States in their match. Charles De Ketelaere scored twice, leading the team's strong offensive performance. The team now advances to face Spain in the quarter-finals.",
-    "img": "https://static.toiimg.com/photo/msid-132231134,imgsize-129718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-not-his-fault-belgium-coach-rudi-garcia-defends-folarin-balogun-after-fifa-controversy-ends-in-usa-exit/articleshow/132231128.cms",
-    "time": "2026-07-07T05:22:59.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why PM Modi’s Indonesia visit matters for India",
     "desc": "Nearly 40% of India’s maritime trade passes through one of the world’s busiest shipping lanes, the Strait of Malacca. And the country that sits at the gateway to that strategic chokepoint is Indonesia. That’s why Prime Minister Narendra Modi’s visit to Indonesia, his first bilateral visit to the country since 2018, is about much more than diplomacy. It is about securing India’s maritime interests, expanding economic partnerships and strengthening its position in an increasingly competitive Indo-Pacific. So, why does Indonesia matter so much to India?",
@@ -574,24 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-explained-why-pm-modis-indonesia-visit-matters-for-india/article71192113.ece",
     "time": "2026-07-07T05:21:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tillman scripts rare WC history, becomes first USA player in 60 years to...",
-    "desc": "Malik Tillman scored a historic free-kick goal for the United States against Belgium in the FIFA World Cup 2026. Belgium defeated the United States 4-1 in their Round of 16 match. Charles De Ketelaere scored twice for Belgium, securing their quarter-final spot. Costly defensive errors and goalkeeper mistakes contributed to the American team's elimination.",
-    "img": "https://static.toiimg.com/photo/msid-132230853,imgsize-220570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-malik-tillman-scripts-rare-world-cup-history-becomes-first-usa-player-in-60-years-with-free-kick-feat/articleshow/132230747.cms",
-    "time": "2026-07-07T05:04:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Gambhir knows this hasn't been fair': Ashwin questions Samson's omission",
-    "desc": "Ravichandran Ashwin expressed concern over Sanju Samson's recent T20I team exclusion. He questioned if outside pressure influences Indian cricket selection decisions. Samson was dropped after three low scores and missed the Zimbabwe series. Ashwin suggested reshuffling the batting order instead of sidelining Samson. He believes players deserve longer runs based on consistent performances.",
-    "img": "https://static.toiimg.com/photo/msid-132230735,imgsize-97950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-knows-this-hasnt-been-fair-to-sanju-ashwin-questions-samsons-omission/articleshow/132230746.cms",
-    "time": "2026-07-07T05:01:59.000Z"
   },
   {
     "cat": "Business",
@@ -610,33 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/decoding-the-selection-call-that-ended-sanju-samsons-t20-world-cup-high-and-the-road-ahead/articleshow/132230229.cms",
     "time": "2026-07-07T04:27:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Overturn this': Belgium's savage post after crushing USA to reach WC quarter-finals",
-    "desc": "Belgium defeated the United States 4-1 in the FIFA World Cup Round of 16. The Belgian Red Devils posted social media messages after their emphatic victory. One post sarcastically referenced Folarin Balogun's overturned suspension. Another post humorously addressed the football versus soccer debate. This loss ended the United States' World Cup campaign.",
-    "img": "https://static.toiimg.com/photo/msid-132230145,imgsize-219650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/overturn-this-belgiums-savage-post-after-crushing-usa-to-reach-fifa-world-cup-quarter-finals/articleshow/132230070.cms",
-    "time": "2026-07-07T04:20:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No fault of Champat Rai': Ram Mandir trustee says all 'gold and silver donations safe'",
-    "desc": "Responding to allegations that precious offerings had gone missing, the trustee categorically rejected the claims and said every gold and silver donation remained secure. \"Regarding the serious allegations that saddened many--specifically about the gold and silver donations--all the gold and silver is there, safely stored and accounted for. A full report of it has been provided. Ram Lalla has ensured all work is completed. The mistakes being shown were mostly narratives from the media. Ultimately, the media's own errors were revealed,\" he said.",
-    "img": "https://static.toiimg.com/photo/msid-132230121,imgsize-87056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-fault-of-champat-rai-ram-mandir-trustee-says-all-gold-and-silver-donations-safe/articleshow/132230003.cms",
-    "time": "2026-07-07T04:17:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How E20 affects your car and what’s next on E85 rollout",
-    "desc": "India has now fully embraced E20 petrol, featuring a mixture of 20% ethanol. The government aims to facilitate even higher ethanol concentrations, such as E22 to E30, by waiving excise duties on these blends. Many consumers have raised concerns regarding the impact on fuel economy and older engines, but automotive manufacturers emphasize that E20 has proven safe.",
-    "img": "https://static.toiimg.com/photo/msid-132229968,imgsize-74982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-e20-affects-your-car-and-whats-next-on-e85-rollout/articleshow/132229696.cms",
-    "time": "2026-07-07T04:16:48.000Z"
   },
   {
     "cat": "Tech",
@@ -666,15 +702,6 @@ const newsData_en = [
     "time": "2026-07-07T01:53:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo sets unwanted World Cup record, becomes player with most...",
-    "desc": "At his last World Cup, Cristiano Ronaldo made headlines by attempting numerous shots yet shockingly, none translated into goal-scoring opportunities, establishing a record for missed chances. While his playmaking seemed to deteriorate, he still managed to net three goals from seventeen attempts. Ultimately, Portugal's journey ended prematurely with their exit in the Round of 16.",
-    "img": "https://static.toiimg.com/photo/msid-132228040,imgsize-81082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cristiano-ronaldo-sets-unwanted-world-cup-record-becomes-player-with-most-shots-without-creating-a-single-chance/articleshow/132228040.cms",
-    "time": "2026-07-07T00:48:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Growth Gems' biz to power Mahindra's next leap",
     "desc": "Mahindra Group is expanding into fast-growing businesses beyond its core operations. The conglomerate has set ambitious expansion targets across multiple sectors. These \"Growth Gems\" are positioned to benefit from structural economic trends. Mahindra Lifespaces saw profit increase seven-fold, and aerospace built a strong order book. The group plans to double room inventory at Mahindra Holidays by FY30.",
@@ -700,24 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/saudi-arabia-effects-deepest-crude-price-cut-in-26-years/articleshow/132227896.cms",
     "time": "2026-07-06T23:55:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Manipal Health gets Sebi nod for Rs 8,000-crore IPO",
-    "desc": "India's IPO pipeline is gaining momentum with significant upcoming public issues. The National Stock Exchange is planning a substantial Rs 30,000-crore offering. Manipal Health Enterprises has secured approval for its Rs 8,000-crore public issue. Rentomojo also received market regulator nod for its IPO. Funds will be used for debt repayment and acquisitions.",
-    "img": "https://static.toiimg.com/photo/msid-132227814,imgsize-87482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/manipal-health-gets-sebi-nod-for-rs-8000-crore-ipo/articleshow/132227817.cms",
-    "time": "2026-07-06T23:27:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Power and infra drive behind 17% credit growth to industry",
-    "desc": "Bank lending to industry saw power sector lead growth in early FY27. Chemicals and vehicles also experienced significant increases in credit allocation. Telecommunications exposure declined, reflecting a shift in lender priorities. Overall infrastructure sector growth was positive, excluding telecommunications contraction. Industry's share in total bank credit continued its gradual decline.",
-    "img": "https://static.toiimg.com/photo/msid-132227798,imgsize-256652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/power-and-infra-drive-behind-17-credit-growth-to-industry/articleshow/132227801.cms",
-    "time": "2026-07-06T23:17:47.000Z"
   },
   {
     "cat": "Sports",
@@ -837,24 +846,6 @@ const newsData_en = [
     "time": "2026-07-06T01:40:23.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Eala upsets Wimbledon champion Swiatek in historic win for Philippines, No. 2 seed Rybakina also out",
-    "desc": "The 21-year-old Eala found Centre Court at Wimbledon a bit more accommodating on Saturday (July 4) when she beat defending champion Iga Swiatek 7-6 (9), 6-2 in the third round at the grass-court major and made some history in the process",
-    "img": "https://th-i.thgim.com/public/incoming/5h1u0h/article71185177.ece/alternates/LANDSCAPE_1200/2026-07-04T155933Z_649444007_UP1EM7418F8XR_RTRMADP_3_TENNIS-WIMBLEDON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/eala-upsets-wimbledon-champion-swiatek-in-historic-win-for-philippines-no-2-seed-rybakina-also-out/article71185173.ece",
-    "time": "2026-07-05T20:56:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Rights organisation files ‘war crimes’ complaint with India against Israeli soldier spotted along ‘hummus trail’",
-    "desc": "Though Eitan Gilboa has now fled India, he was traced by pro-Palestinian activists and the HRF in Old Manali and Gondla Village of Himachal Pradesh, which are popular spots among Israelis along the ‘Hummus trail’",
-    "img": "https://th-i.thgim.com/public/news/national/6b8oa0/article71185445.ece/alternates/LANDSCAPE_1200/Eitan%20Gilboa.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/eitan-gilboa-israeli-soldier-spotted-along-india-hummus-trail/article71185358.ece",
-    "time": "2026-07-05T14:06:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why are there concerns over WhatsApp usernames?",
     "desc": "What is the username feature that WhatsApp intends to roll out? How does it work and what privacy safeguards are built into it? Why is the Indian government asking WhatsApp to stop its roll-out? Can the government dictate an app’s features?",
@@ -882,15 +873,6 @@ const newsData_en = [
     "time": "2026-07-04T17:47:10.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Explained: Why Bank of Baroda paid ₹5,700 crore to settle NMC Health dispute",
-    "desc": "Bank of Baroda, the second largest Public Sector Bank on Thursday (July 2, 2026) informed stock exchanges that it had paid $600 million (about ₹5,700 crore) to settle litigation initiated by the administrators of NMC Health Plc, NMC Healthcare Ltd and NMC Holding Ltd. This ends one of the largest cross-border banking disputes involving an Indian lender.",
-    "img": "https://th-i.thgim.com/public/incoming/s8ska5/article71180076.ece/alternates/LANDSCAPE_1200/NMC.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-explained-why-bank-of-baroda-paid-5700-crore-to-settle-nmc-health-dispute/article71180075.ece",
-    "time": "2026-07-03T16:35:34.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Explained: why is the Indian govt telling Whatsapp to put its new username feature on hold?",
     "desc": "WhatsApp is preparing to introduce a new feature that would allow users to communicate using usernames instead of phone numbers. But before the feature could be rolled out, the Union government stepped in and asked the platform to put its plans on hold. So, why is the government concerned?",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-explained-why-is-the-indian-govt-telling-whatsapp-to-put-its-new-username-feature-on-hold/article71174722.ece",
     "time": "2026-07-02T13:47:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
