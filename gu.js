@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પાણીના વિવાદનો અંત, નર્મદા એવોર્ડની બાકી ચૂકવણીનો આવ્યો ઉકેલ, ગુજરાત સહિત 4 રાજ્યો વચ્ચે ઐતિહાસિક સમજૂતી",
+    "desc": "આજે દિલ્હીમાં નર્મદા એવોર્ડ લાભાર્થી રાજ્યો મહારાષ્ટ્ર, ગુજરાત, રાજસ્થાન અને મધ્ય પ્રદેશ વચ્ચે બાકી ચૂકવણીના નિકાલ અંગે ઐતિહાસિક સમજૂતી થઈ છે. કેન્દ્રીય ગૃહ તેમજ સહકારિતા મંત્રી અમિત શાહની ઉપસ્થિતિમાં નર્મદા એવોર્ડ લાભાર્થી રાજ્યો મહારાષ્ટ્ર, ગુજરાત, રાજસ્થાન અને મધ્ય પ્રદેશ વચ્ચે બાકી ચૂકવણીના નિકાલ અંગે ઐતિહાસિક સમજૂતી થઈ ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/end-of-water-dispute-solution-to-pending-payment-of-narmada-project-historic-agreement-between-4-states-including-gujarat-483910 ",
+    "time": "2026-07-07T18:36:53.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ઘણા શહેરોમાં ખાલી થઈ રહ્યા છે ATM, રોકડની અછત પર RBIનું કડક વલણ, બેંકો પાસે માંગ્યો ડેટા",
     "desc": "દેશના અનેક શહેરોમાં ATM બંધ હોવાની ફરિયાદો સામે આવી રહી છે. ગ્રાહકોને રોકડ મેળવવામાં મુશ્કેલી પડી રહી હોવાના અહેવાલો વાયરલ થયા બાદ RBIએ એક મોટું પગલું ભર્યું છે. રિઝર્વ બેંકે હવે સમગ્ર મામલાની તપાસ શરૂ કરી છે.",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/ayatollah-ali-khamenei-funeral-granddaughter-small-coffin-beside-khamenei-483557 ",
     "time": "2026-07-04T10:47:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "20 જુલાઈથી 13 ઓગસ્ટ સુધી ચાલશે સંસદનું ચોમાસુ સત્ર, અનેક મહત્વપૂર્ણ બિલ કરવામાં આવશે રજૂ, જાણો",
-    "desc": "કેન્દ્રીય સંસદીય બાબતોના મંત્રી કિરેન રિજિજુએ શનિવારે જણાવ્યું હતું કે સંસદનું ચોમાસુ સત્ર 20 જુલાઈથી શરૂ થશે અને 13 ઓગસ્ટ સુધી ચાલશે. તેમણે આશા વ્યક્ત કરી હતી કે દેશને લગતા મહત્વપૂર્ણ મુદ્દાઓ પર સકારાત્મક ચર્ચા થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-monsoon-session-of-parliament-will-be-held-from-july-20-to-august-13-many-important-bills-will-be-introduced-know-483556 ",
-    "time": "2026-07-04T10:43:23.000Z"
   },
   {
     "cat": "Tech",

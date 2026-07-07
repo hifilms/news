@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England embarrass India to clinch third T20I, register dominant 125-run victory",
+    "desc": "India and England took on each other in the third T20I of the ongoing five-game series between the two sides. The teams met at Trent Bridge in Nottingham on July 7th, and while India hoped...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-embarrass-india-to-clinch-third-t20i-register-dominant-125-run-victory-2026-07-08-1047492",
+    "time": "2026-07-07T19:34:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi helps Argentina pull off miraculous comeback, register stellar 3-2 win over Egypt",
+    "desc": "Lionel Messi and Argentina overcame their biggest hurdle in Egypt in one of the most dramatic fashions. Registering a 3-2 after coming back from a two-goal deficit, it was Lionel Messi who led the charge...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-helps-argentina-pull-off-miraculous-comeback-register-stellar-3-2-win-over-egypt-2026-07-07-1047488",
+    "time": "2026-07-07T18:05:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer joins Virat Kohli, MS Dhoni in unique list with toss win against England in third T20I",
+    "desc": "The third T20I of the ongoing five-game series between India and England kicked off with the two sides taking on each other at Trent Bridge in Nottingham on July 7th. The clash began with India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-joins-virat-kohli-ms-dhoni-in-unique-list-with-toss-win-against-england-in-third-t20i-2026-07-07-1047486",
+    "time": "2026-07-07T17:13:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lionel Messi becomes first player in World Cup history to set unwanted penalty record after miss against Egypt",
     "desc": "Lionel Messi has set an all-time unwanted record in FIFA World Cup history after he missed a penalty against Egypt in the round of 16 in Atlanta on Tuesday, July 7. Messi, the all-time top-scorer...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Prince Yadav gives India first breakthrough in powerplay",
+    "title": "India look to chase down 202 to level series in Nottingham",
     "desc": "India are in choppy waters in T20Is. The two-time reigning T20 World Champions are yet to win a single match in the format after bagging the 2026 title. They have gone winless in four straight...",
     "img": "",
     "src": "indiatvnews.com",
@@ -28,7 +55,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Egypt aim to maintain the lead, Messi and co. trailing",
+    "title": "Argentina defeat Egypt, register thrilling 3-2 victory",
     "desc": "The round of 16 stage of the ongoing FIFA World Cup 2026 sees defending champions Argentina taking on Egypt. The two sides will meet at the Atlanta Stadium, and both sides will hope to put...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-3rd-t20i-pitch-report-heres-how-surface-at-trent-bridge-nottingham-is-expected-to-play-2026-07-07-1047470",
     "time": "2026-07-07T14:17:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav clears the air on false viral statement, wishes Indian team 'the very best'",
-    "desc": "Former Indian T20I captain Suryakumar Yadav on Tuesday broke his silence regarding a fabricated statement, which went viral on social media in his name. He clarified he did not make or authorise any such statement...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-clears-the-air-on-false-viral-statement-wishes-indian-team-the-very-best-2026-07-07-1047457",
-    "time": "2026-07-07T12:29:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why was Sanju Samson dropped from India’s squad for the Zimbabwe T20I series? Report makes big revelation",
-    "desc": "Sanju Samson was recently left out of the Indian squad on Monday for the upcoming T20I series against Zimbabwe, and the move received mixed reactions from experts and fans alike. But, according to sources, Samson...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-was-sanju-samson-dropped-from-indias-squad-for-the-zimbabwe-t20i-series-report-makes-big-revelation-2026-07-07-1047450",
-    "time": "2026-07-07T12:02:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo speaks on his international future after World Cup dream ends with loss to Spain",
-    "desc": "Portugal legend Cristiano Ronaldo has confirmed that he has played in his last FIFA World Cup but stated that he won't be making \"rash decisions\" on whether he has played his last international match for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-speaks-on-his-international-future-after-world-cup-dream-ends-with-loss-to-spain-2026-07-07-1047445",
-    "time": "2026-07-07T11:17:57.000Z"
   }
 ];

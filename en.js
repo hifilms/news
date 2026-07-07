@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Heavy rains trigger flash floods in Doda, damage houses and roads",
+    "desc": "Torrential rainfall caused flash floods and mudslides in Thathri town early Tuesday. Several houses were buried under debris, and many vehicles were damaged or washed away. The Doda-Kishtwar highway remains blocked due to landslides, suspending vehicular traffic. Restoration teams are working to clear debris and reopen the arterial road. Authorities are monitoring the situation and assessing the extent of the damage.",
+    "img": "https://static.toiimg.com/photo/msid-132246707,imgsize-255340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/heavy-rains-trigger-flash-floods-in-doda-damage-houses-roads/articleshow/132246837.cms",
+    "time": "2026-07-07T19:00:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka High Court questions why MLA M.C Sudhakar is not made accused in alleged land grab case against his father Chowdareddy, former Home Minister",
+    "desc": "The High Court of Karnataka has questioned why Chintamani MLA and former Higher Education Minister M.C. Sudhakar and his brother, M.C. Balaji, were not arraigned as accused in an alleged land grab case against their father, former Home Minister Chowdareddy, despite being named as direct beneficiaries of the encroached government land in the complaint",
+    "img": "https://th-i.thgim.com/public/incoming/vf07gc/article71195411.ece/alternates/LANDSCAPE_1200/Time-to-reintroG4AG72CDH.1.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-questions-why-mla-mc-sudhakar-is-not-made-accused-in-alleged-land-grab-case-against-his-father-chowdareddy-former-home-minister/article71194630.ece",
+    "time": "2026-07-07T18:54:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Terror threat plea improbable': HC rejects Cong worker’s plea to shift trial from Srinagar to Jammu",
+    "desc": "The High Court of Jammu and Kashmir and Ladakh rejected a Congress worker's plea. He sought to shift his cheque bounce trial from Srinagar to Jammu. The court stated terrorism is almost eliminated in the Valley now. It noted the petitioner's claims of threat were improbable and lacked merit. The court found the petition was filed to avoid payment and prolong proceedings.",
+    "img": "https://static.toiimg.com/photo/msid-132246547,imgsize-1238902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/terror-threat-plea-improbable-hc-rejects-cong-workers-plea-to-shift-trial-from-srinagar-to-jammu/articleshow/132246534.cms",
+    "time": "2026-07-07T18:53:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Minister Khandre accuses Union government of selling HMT land for real estate businesses",
+    "desc": "Hitting back at Union Minister for Heavy Industries and Steel H.D. Kumaraswamy on the HMT forest land issue, Rural Development and Panchayat Raj Minister Eshwar Khandre on Tuessday accused the Centre of selling forest land illegally for real estate businesses",
+    "img": "https://th-i.thgim.com/public/incoming/uiojzi/article71195408.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-03%20at%2017.46.48%201.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-minister-khandre-accuses-union-government-of-selling-hmt-land-for-real-estate-businesses/article71193508.ece",
+    "time": "2026-07-07T18:51:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Before Delhi protest, NC secures Kashmir civil society’s resolution for restoration of statehood",
+    "desc": "The National Conference is rallying support for its upcoming July 20 protest. Party leaders met with Kashmir civil society groups on Tuesday. These groups adopted a resolution demanding the restoration of J&K's statehood. The governing NC announced this one-day protest in Delhi earlier. This demonstration coincides with Parliament's monsoon session opening.",
+    "img": "https://static.toiimg.com/photo/msid-132246357,imgsize-157140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/before-delhi-protest-nc-secures-kashmir-civil-societys-resolution-for-restoration-of-statehood/articleshow/132246393.cms",
+    "time": "2026-07-07T18:44:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Getty Images calls off Shutterstock merger after UK regulator's divestment demand",
+    "desc": "Getty Image has ended its planned $3.7 billion merger with Shutterstock. The UK competition regulator required Shutterstock to sell its editorial business. Getty's board decided this condition was not in the company's best interests. The companies had unveiled the deal in January 2025 to build a visual content powerhouse. Both firms now face increasing pressure from AI image generators.",
+    "img": "https://static.toiimg.com/photo/msid-132246121,imgsize-852022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/getty-images-calls-off-shutterstock-merger-after-uk-regulators-divestment-demand/articleshow/132245108.cms",
+    "time": "2026-07-07T18:35:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chennai tops domestic flights punctuality in May, Delhi &amp; Mumbai at bottom of 10 busiest airports: DGCA data",
+    "desc": "Chennai airport recorded the highest on-time domestic flight performance in May. IndiGo, Akasa, and Air India Group led airline punctuality among major airports. Domestic air travel saw over 1.5 crore passengers fly within the country last month. This represents a significant increase compared to the previous month's travel figures. Overall domestic air travel growth has remained tepid for the year.",
+    "img": "https://static.toiimg.com/photo/msid-132246080,imgsize-242183.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chennai-tops-domestic-flights-punctuality-in-may-delhi-mumbai-at-bottom-of-10-busiest-airports-dgca-data/articleshow/132246082.cms",
+    "time": "2026-07-07T18:32:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika flaunts baby bump in new ad; fans can't stop gushing",
+    "desc": "Deepika Padukone has delighted fans with her latest advertisement, with many noticing her baby bump in the commercial. The actress, who is expecting her second child with husband Ranveer Singh, appears in a new campaign for global hotel chain Hilton, which has quickly gone viral on social media. According to reports, Deepika shot the commercial while she was around four months pregnant, making the campaign even more special for her admirers.",
+    "img": "https://static.toiimg.com/photo/msid-132246034,imgsize-71327.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-flaunts-baby-bump-in-new-ad-fans-cant-stop-gushing-duas-mumma-slaying/articleshow/132246005.cms",
+    "time": "2026-07-07T18:32:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From 0-2 to 3-2: Lionel Messi's Argentina script remarkable comeback against Egypt, storm into FIFA World Cup quarterfinals",
+    "desc": "Argentina staged one of the greatest comebacks of the 2026 FIFA World Cup, scoring three goals in the final 11 minutes to beat Egypt 3-2 and reach the quarter-finals. After falling 2-0 behind and seeing Lionel Messi miss a penalty, late strikes from Cristian Romero, Messi and Enzo Fernández completed a remarkable turnaround to keep the champions' title defence alive.",
+    "img": "https://static.toiimg.com/photo/msid-132246511,imgsize-577188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/from-0-2-to-3-2-lionel-messis-argentina-script-remarkable-comeback-against-egypt-storm-into-fifa-world-cup-quarterfinals/articleshow/132245850.cms",
+    "time": "2026-07-07T18:32:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India supports two-state solution for solving Israel-Palestine conflict, says PM Modi",
+    "desc": "In a press statement in Jakarta while presiding over the signing of multiple agreements including the delivery of BrahMos supersonic cruise missile system and Astra Mk-1 beyond the visual-range air-to-air missiles to Indonesia, Mr. Modi says India believes that the role of dialogue and diplomacy has become more important than ever before",
+    "img": "https://th-i.thgim.com/public/incoming/k1u7n5/article71195303.ece/alternates/LANDSCAPE_1200/20260707521L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-supports-two-state-solution-for-solving-israel-palestine-conflict-says-pm-modi/article71194955.ece",
+    "time": "2026-07-07T18:06:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Formula One",
+    "desc": "Saturday’s qualifying in Austria set the tone for what followed. George Russell claimed pole, but the lap came under scrutiny — set while yellow flags were out for Max Verstappen’s crash in his push lap",
+    "img": "https://th-i.thgim.com/public/sport/wglw9m/article71195324.ece/alternates/LANDSCAPE_1200/SILVERSTONE.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/formula-one-a-fortnight-of-fine-margins-how-austria-and-silverstone-reset-the-tussle-for-the-title/article71195304.ece",
+    "time": "2026-07-07T17:52:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police defend arrest of whistleblower, say she was 'equal party' to abuse",
+    "desc": "Bengaluru Police defended the arrest of Sujatha, the whistleblower in a daycare abuse case. Investigators claim they found enough evidence to name her as an accused party. The police commissioner stated that procedures were not followed after the incidents surfaced. Evidence suggests one alleged incident may have been stage-managed by caregivers. The case involves disturbing videos of alleged toddler abuse at a Capgemini campus daycare.",
+    "img": "https://static.toiimg.com/photo/msid-132244790,imgsize-79409.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bengaluru-daycare-horror-police-defend-arrest-of-whistleblower-say-she-was-equal-party-to-abuse/articleshow/132244804.cms",
+    "time": "2026-07-07T17:42:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wayanad on red alert after three dead in debris slip; Mumbai gets respite after two days",
+    "desc": "The alert was issued at 12.30 p.m. after the landslip at the Kalladi tunnel project site in Wayanad at around 11 a.m. Meanwhile, officials said ten people had died in rain-related incidents across Maharashtra's Palghar since July 1",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-7-2026/article71191976.ece",
+    "time": "2026-07-07T17:39:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Now, eggs are hurled at CPI(M) leader Minakshi Mukherjee",
+    "desc": "Since they were voted out of power on May 4, Trinamool leaders, including general secretary Abhishek Banerjee, MP Mahua Moitra, MLAs Madan Mitra and Kunal Ghosh, and several others, have had eggs hurled; this is the first such incident against a CPI(M) leader",
+    "img": "https://th-i.thgim.com/public/incoming/pz6uxk/article71195277.ece/alternates/LANDSCAPE_1200/utnP4Iy3_400x400.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/now-eggs-are-hurled-at-cpim-leader-minakshi-mukherjee/article71194043.ece",
+    "time": "2026-07-07T17:26:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Ibrahim? Egypt defender who stunned Argentina with opener at RO16",
+    "desc": "Yasser Ibrahim stunned Argentina by heading Egypt into an early lead in their FIFA World Cup Round of 16 clash, scoring only his second international goal. The 33-year-old Al Ahly centre-back has won multiple domestic and continental titles, earned 23 Egypt caps since 2022, and capped his dependable defensive career with one of the biggest goals in Egypt's World Cup history.",
+    "img": "https://static.toiimg.com/photo/msid-132244093,imgsize-86726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/who-is-yasser-ibrahim-meet-egypt-defender-who-stunned-argentina-with-opener-at-fifa-world-cup-round-of-16/articleshow/132243934.cms",
+    "time": "2026-07-07T17:12:15.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Shreyas joins Dhoni, Rohit in elite India T20I captaincy list despite winless start",
     "desc": "Shreyas Iyer won his fifth consecutive T20I toss, equaling Rohit Sharma's impressive record. This streak places him among elite Indian captains in the shortest format. However, Iyer's captaincy has not yet yielded a victory for the Indian team. India has faced defeats and a washed-out match since the 2026 T20 World Cup. The team seeks its first win under Iyer's leadership in the ongoing series.",
@@ -12,7 +147,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "Gujarat-bound Qatari LNG vessel with 4 Indian crew hit in suspected drone attack near Hormuz",
     "desc": "A Qatar-bound LNG carrier carrying four Indian crew members was struck near the Strait of Hormuz. The vessel sustained damage and its engine room caught fire following the suspected drone attack. All 29 seafarers on board, including the four Indians, were reported safe after the incident. Qatar accused Iran of targeting the vessel, calling it a violation of international law.",
-    "img": "https://static.toiimg.com/photo/msid-132243831,imgsize-49031.cms",
+    "img": "https://static.toiimg.com/photo/msid-132243843,imgsize-49031.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/gujarat-bound-qatari-lng-vessel-with-4-indian-crew-hit-in-suspected-drone-attack-near-hormuz/articleshow/132243831.cms",
     "time": "2026-07-07T16:59:33.000Z"
@@ -21,9 +156,9 @@ const newsData_en = [
     "cat": "Entertainment",
     "title": "'A woman in control of her feminity is..'",
     "desc": "Shakira, a celebrated artist, inspires many with her enduring career and empowering message. She emphasizes that embracing femininity and sensuality is a source of personal strength. Her global success began with early recordings and continued with international hits. Shakira's consistent relevance highlights her authenticity and connection with audiences worldwide. She remains an influential figure, celebrated for her music and self-assured persona.",
-    "img": "https://static.toiimg.com/photo/msid-132243565,imgsize-260229.cms",
+    "img": "https://static.toiimg.com/photo/msid-132243581,imgsize-260229.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-shakira-a-woman-who-is-in-control-of-her-feminity-sensuality-is-a-woman-that-is-empowered/articleshow/132243436.cms",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-shakira-i-take-advantage-of-being-sensual-a-woman-who-is-in-control-of-her-feminity-is-a-woman-that-is-empowered-when-the-49-year-old-dai-dai-singer-shared-the-ultimate-secret-to-female-confidence/articleshow/132243436.cms",
     "time": "2026-07-07T16:42:25.000Z"
   },
   {
@@ -43,24 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/badrinath-donation-row-bktc-suspends-employee-as-probe-into-alleged-theft-begins-cctv-examined/articleshow/132243370.cms",
     "time": "2026-07-07T16:33:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will respond after SIT files final report, says Champat Rai",
-    "desc": "In a handwritten letter addressed to the “devotees of Lord Ram”, Champat Rai said several “false narratives” and “baseless allegations” had been circulated against him since the alleged theft came to light on April 10, but he had maintained complete silence",
-    "img": "https://th-i.thgim.com/public/incoming/tf7qwo/article71194175.ece/alternates/LANDSCAPE_1200/PTI06_26_2026_000307A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-donation-row-will-respond-to-all-allegations-after-sit-submits-final-report-says-champat-rai/article71194076.ece",
-    "time": "2026-07-07T16:15:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Wayanad on red alert after three dead in debris slip; Mumbai gets respite after two days",
-    "desc": "The alert was issued at 12.30 p.m. after the landslip at the Kalladi tunnel project site in Wayanad at around 11 a.m. Meanwhile, officials said ten people had died in rain-related incidents across Maharashtra's Palghar since July 1",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-7-2026/article71191976.ece",
-    "time": "2026-07-07T16:03:06.000Z"
   },
   {
     "cat": "Politics",
@@ -280,7 +397,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Death toll rises to 3, opposition alleges 'negligence'",
+    "title": "Death toll rises to 4, opposition alleges 'negligence'",
     "desc": "A devastating landslide near the Wayanad tunnel construction site has claimed lives and injured several people. Rescue operations are ongoing for those still missing after the mudslide near Meenakshi Bridge. Videos captured the terrifying moments as mud and debris rushed downhill, engulfing vehicles. The state government alleges contractors ignored repeated safety warnings regarding excavated soil. Opposition leaders are calling for a thorough investigation into potential criminal negligence.",
     "img": "https://static.toiimg.com/photo/msid-132240086,imgsize-210983.cms",
     "src": "indiatimes.com",
@@ -405,15 +522,6 @@ const newsData_en = [
     "time": "2026-07-07T11:29:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "A look at their international numbers ahead of WC clash",
-    "desc": "Atlanta stages a blockbuster World Cup clash between Lionel Messi and Mohamed Salah, with only one advancing. Messi, 39, already a world champion, has seven goals in four matches, a record eight straight World Cup scoring games, and 124 goals in 203 Argentina appearances. Salah, 34, Egypt's talisman, has 66 goals in 118 caps and has led the Pharaohs to Cup milestones.",
-    "img": "https://static.toiimg.com/photo/msid-132238381,imgsize-106125.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-vs-mohamed-salah-a-look-at-their-international-numbers-ahead-of-world-cup-argentina-vs-egypt-heavyweight-clash/articleshow/132236721.cms",
-    "time": "2026-07-07T11:28:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Satluj' actor Kanwaljit Singh says, 'where is freedom of speech?' as the film gets taken down",
     "desc": "The film 'Satluj', based on Jaswant Singh Khalra, was removed from ZEE5 shortly after its premiere. Actor Kanwaljit Singh expressed disappointment and questioned the platform's decision regarding freedom of expression. The film, originally titled 'Punjab 95', faced certification hurdles for nearly four years. It finally debuted on ZEE5 as an uncut version after a prolonged clearance battle. Makers are reportedly considering legal action following the streaming platform's sudden removal.",
@@ -477,24 +585,6 @@ const newsData_en = [
     "time": "2026-07-07T10:20:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CCTV shows Wayanad landslide sweeping away fuel tanker; 3 dead, 7 missing",
-    "desc": "A landslide near Wayanad's tunnel project site caused significant destruction and panic. Two people died and seven others sustained injuries in the sudden debris flow. Several individuals remain missing after the devastating incident occurred near Meenakshi Bridge. Heavy rainfall and construction debris are under scrutiny as contributing factors. Rescue operations are ongoing to locate the missing and clear the affected area.",
-    "img": "https://static.toiimg.com/photo/msid-132237058,imgsize-3812877.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/seconds-before-disaster-cctv-shows-wayanad-landslide-sweeping-away-fuel-tanker-2-dead-7-missing/articleshow/132236627.cms",
-    "time": "2026-07-07T10:19:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'India strong advocate of a free Indo-Pacific': PM Modi's strong message to China from Indonesia",
-    "desc": "Prime Minister Modi addressed the Indonesian Parliament, highlighting shared civilizational ties. He called for closer cooperation based on democratic values and development. Modi received Indonesia's highest civilian honor, the Bintang Adipurna. He dedicated this award to the people of India and the partnership. The Prime Minister emphasized India's developmental approach over expansionism.",
-    "img": "https://static.toiimg.com/photo/msid-132236754,imgsize-43753.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-share-common-history-legacy-of-ramayana-and-mahabharata-pm-modi-addresses-indonesian-parliament-calls-for-stronger-ties/articleshow/132236557.cms",
-    "time": "2026-07-07T10:10:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Flights, hotels, visa in one go: 10 things to know about Saudi’s Package Visa",
     "desc": "Saudi Arabia has introduced a new pilot Package Visa service for tourists. This digital initiative integrates flight and accommodation bookings with visa applications. Eligible travelers can now book their entire trip through a single, unified travel package. The service aims to simplify the visitor journey and encourage longer stays. This move supports Saudi Arabia's growing tourism sector and global accessibility.",
@@ -532,21 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Welcome to the Jungle' BO Day 12 [LIVE]: Chases Rs 120 crore milestone",
+    "title": "'Welcome to the Jungle' BO Day 12: Breaches Rs 120 crore domestic mark and Rs 174 crore globally",
     "desc": "Ahmed Khan’s star-studded action-comedy 'Welcome to the Jungle', featuring an ensemble cast led by Akshay Kumar, Suniel Shetty, and Paresh Rawal, continues to draw family audiences into its second week. Despite facing a massive screen crunch due to the wide release of YRF’s high-profile spy-thriller 'Alpha', starring Alia Bhatt, Sharvari, Anil Kapoor and Bobby Deol, the third installment of the iconic Welcome franchise has successfully held its ground. Having comfortably cruised past the Rs. 100 crore domestic net mark over its second weekend, the film is now pursuing a stable run and netting Rs 120 crore on the domestic front across regular weekdays.",
     "img": "https://static.toiimg.com/photo/msid-132236382,imgsize-126364.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-12-live-akshay-kumar-starrer-chases-rs-120-crore-even-as-worldwide-gross-surpasses-rs-170-crore-ahead-of-ajay-devgn-led-dhamaal-4-clash/articleshow/132236197.cms",
     "time": "2026-07-07T09:58:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hema Malini says Dharmendra's last message to her was to keep the family united",
-    "desc": "Hema Malini spoke about Dharmendra's final message to keep the family united. She mentioned that Dharmendra always emphasized spending time with children and family. Malini described Dharmendra's sons, Sunny and Bobby Deol, as wonderful boys. She stated that they are all internally united and a happy family. Dharmendra was a generous and loving person who taught facing life's difficulties.",
-    "img": "https://static.toiimg.com/photo/msid-132236074,imgsize-309094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-says-dharmendras-last-message-to-her-was-to-keep-the-family-united-says-sunny-deol-bobby-deol-are-wonderful-boys/articleshow/132235840.cms",
-    "time": "2026-07-07T09:43:40.000Z"
   },
   {
     "cat": "World",
@@ -628,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/strategic-gas-storage-in-works-lng-buffer-mandate-for-terminals-in-the-works-what-it-means/articleshow/132234058.cms",
     "time": "2026-07-07T08:05:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "AB de Villiers, Virat Kohli, Jasprit Bumrah are rare: Wiaan Mulder",
-    "desc": "South Africa all-rounder Wiaan Mulder believes the future belongs to specialists, saying the physical and technical demands of modern cricket make it increasingly difficult to excel across all three formats. In an exclusive interaction with TimesofIndia. com, the South African all-rounder discusses the evolution of T20 cricket, his reservations about the Impact Player rule, cricket's growth in the USA, and why SA20 has played a key role in the Proteas' recent success.",
-    "img": "https://static.toiimg.com/photo/msid-132233507,imgsize-114580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/ab-de-villiers-virat-kohli-jasprit-bumrah-are-rare-wiaan-mulder-exclusive/articleshow/132232948.cms",
-    "time": "2026-07-07T07:23:01.000Z"
   },
   {
     "cat": "Sports",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/jd-vance-slams-israeli-officials-who-criticised-us-iran-deal-deepening-rift-between-allies/article71120670.ece",
     "time": "2026-07-06T07:14:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matches in Indian Time",
-    "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
-    "img": "https://th-i.thgim.com/public/incoming/hw29zz/article71145748.ece/alternates/LANDSCAPE_1200/image%206.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
-    "time": "2026-07-06T06:13:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The real crisis in India’s fisheries",
-    "desc": "Official claims that most of India’s marine fish stocks are sustainable should not distract from the continuing degradation of the country’s inshore fishing grounds; stronger governance of coastal waters and better management of mechanised trawling are essential for truly sustainable fisheries",
-    "img": "https://th-i.thgim.com/public/news/national/7h7ssu/article71186647.ece/alternates/LANDSCAPE_1200/iStock-2254567928.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/the-questionable-health-of-marine-fisheries-in-india/article71185652.ece",
-    "time": "2026-07-06T06:01:26.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why are there concerns over WhatsApp usernames?",
-    "desc": "What is the username feature that WhatsApp intends to roll out? How does it work and what privacy safeguards are built into it? Why is the Indian government asking WhatsApp to stop its roll-out? Can the government dictate an app’s features?",
-    "img": "https://th-i.thgim.com/public/incoming/k1lrh1/article71185016.ece/alternates/LANDSCAPE_1200/WhatsApp_Usernames_26287.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-are-there-concerns-over-whatsapp-usernames-explained/article71183713.ece",
-    "time": "2026-07-05T07:12:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why tanks still matter in modern warfare",
-    "desc": "Drones, missiles and precision-guided weapons have transformed the modern battlefield, but military experts argue they cannot achieve the ultimate objective of war – controlling territory. Saurabh Trivedi examines why tanks and ground forces remain indispensable despite the rapid evolution of warfare, drawing on lessons from Ukraine and insights from senior Army officers",
-    "img": "https://th-i.thgim.com/public/incoming/x8se8r/article71182906.ece/alternates/LANDSCAPE_1200/6744_26_6_2026_18_25_44_1_ZORAWAR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-tanks-still-matter-in-modern-warfare/article71182897.ece",
-    "time": "2026-07-04T18:09:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Pipavav",
-    "desc": "India’s opening in shipbuilding could lie in positioning early for green shipbuilding, a segment set to gain momentum once decarbonisation rules take hold — leaving Indian yards ready when shipowners look for alternatives to China",
-    "img": "https://th-i.thgim.com/public/business/gerb28/article71183541.ece/alternates/LANDSCAPE_1200/new%20An%20Aerial%20View%20of%20SDHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/pipavav-an-indian-yards-unlikely-bet-on-cutting-edge-shipbuilding/article71183415.ece",
-    "time": "2026-07-04T17:47:10.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Explained: why is the Indian govt telling Whatsapp to put its new username feature on hold?",
-    "desc": "WhatsApp is preparing to introduce a new feature that would allow users to communicate using usernames instead of phone numbers. But before the feature could be rolled out, the Union government stepped in and asked the platform to put its plans on hold. So, why is the government concerned?",
-    "img": "https://th-i.thgim.com/public/incoming/k2j88g/article71174724.ece/alternates/LANDSCAPE_1200/whatsapp.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-explained-why-is-the-indian-govt-telling-whatsapp-to-put-its-new-username-feature-on-hold/article71174722.ece",
-    "time": "2026-07-02T13:47:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
