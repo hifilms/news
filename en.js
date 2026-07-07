@@ -1,6 +1,312 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Centre takes down 'Satluj' over 'security concerns'",
+    "desc": "The government ordered ZEE5 to remove the film 'Satluj' due to security concerns. This film details activist Jaswant Singh Khalra's life during Punjab's turbulent 1990s. Political parties and the SGPC have pushed for the film's release. Diljit Dosanjh expressed his disappointment while ZEE5 appealed against piracy. The film was previously stuck with censors for over three years.",
+    "img": "https://static.toiimg.com/photo/msid-132228709,imgsize-123482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/satluj-controversy-centre-takes-down-diljit-dosanjh-starrer-over-security-concerns-cites-obligations-under-it-rules-2021/articleshow/132228508.cms",
+    "time": "2026-07-07T02:25:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vishnu Vishal speaks out on online negativity against 'Gatta Kusthi 2'",
+    "desc": "Actor Vishnu Vishal addressed online negativity surrounding his film 'Gatta Kusthi 2'. He strongly condemned social media abuse and personal attacks against individuals. Vishnu Vishal emphasized the need for healthy discussions over targeted online campaigns. He also requested that the film's release not be politicized by anyone. Families are enjoying the movie which carries a positive message for audiences.",
+    "img": "https://static.toiimg.com/photo/msid-132228706,imgsize-128714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/please-dont-turn-this-into-a-political-issue-vishnu-vishal-speaks-out-on-online-negativity-against-gatta-kusthi-2/articleshow/132228699.cms",
+    "time": "2026-07-07T02:24:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Despicable woman': Mbappé explodes at Paraguay senator over racist attack",
+    "desc": "French captain Kylian Mbappé condemned racist social media posts by a Paraguayan senator. The senator's remarks targeted Mbappé's background and appearance after a World Cup match. Paraguay's government and the French Football Federation also denounced the senator's unacceptable comments. French officials, including President Macron, voiced strong support for Mbappé and condemned racism. This controversy follows similar remarks made by a former Paraguayan goalkeeper before the game.",
+    "img": "https://static.toiimg.com/photo/msid-132228630,imgsize-162132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/despicable-woman-kylian-mbapp-explodes-at-senator-over-racist-attack/articleshow/132228617.cms",
+    "time": "2026-07-07T02:23:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hamas dissolves its government in Gaza to transfer power to UN-backed committee",
+    "desc": "At a news conference on July 6, Ismail al-Thawabta, general director of the Hamas-run Government Media Office, said “only technical and professional staff” would remain in their positions to run the Palestinian enclave’s day-to-day affairs",
+    "img": "https://th-i.thgim.com/public/incoming/9ycu3v/article71190148.ece/alternates/LANDSCAPE_1200/2026-07-04T144554Z_970264774_RC207MAUE8E3_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hamas-dissolves-its-government-in-gaza-to-transfer-power-to-un-backed-committee/article71189994.ece",
+    "time": "2026-07-07T02:09:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Robert Pattinson reveals why he missed Taylor Swift's wedding",
+    "desc": "Robert Pattinson missed the wedding celebration of Travis Kelce and Taylor Swift due to his commitment to filming 'The Batman Part II' in London. His fiancée, Suki Waterhouse, attended the event, joining other celebrities. Such tight filming schedules are commonplace in major productions, making it impossible for Pattinson to be present at the highly publicized gathering.",
+    "img": "https://static.toiimg.com/photo/msid-132228502,imgsize-135180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-i-was-shooting-batman-on-missing-taylor-swift-and-travis-kelces-wedding-while-suki-waterhouse-attended/articleshow/132228456.cms",
+    "time": "2026-07-07T02:06:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Euro is just as significant as World Cup': Ronaldo sparks debate after Portugal exit",
+    "desc": "Cristiano Ronaldo stated Portugal's Euro 2016 win holds immense personal value. He expressed disappointment after Portugal's World Cup exit, his final campaign. Ronaldo affirmed he gave his best and has no regrets about his efforts. He won three titles for Portugal, ending their trophy drought. The Euro 2016 victory remains a defining achievement in his career.",
+    "img": "https://static.toiimg.com/photo/msid-132228452,imgsize-90970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/euro-is-just-as-significant-to-me-as-a-world-cup-cristiano-ronaldo-sparks-debate-after-portugal-exit/articleshow/132228474.cms",
+    "time": "2026-07-07T02:00:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude benchmarks inch higher as focus shifts to supply, demand and Hormuz shipments",
+    "desc": "Oil prices saw a slight increase Tuesday after a tanker was struck near the Strait of Hormuz. This incident raised security concerns on a vital global oil shipping route. However, market gains were limited as traders focused on rising crude supplies. The United Arab Emirates and OPEC+ have agreed to increase their oil production levels. Saudi Arabia also lowered its August crude selling price for Asian markets.",
+    "img": "https://static.toiimg.com/photo/msid-132228382,imgsize-2132281.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-benchmarks-inch-higher-as-focus-shifts-to-supply-demand-and-hormuz-shipments/articleshow/132228339.cms",
+    "time": "2026-07-07T01:53:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Form used in rehearsal for second phase of Census has an ‘open column’ to record caste",
+    "desc": "Final methodology to enumerate caste as part of Census 2027 will be prepared based on the feedback received during the test exercise; the open column methodology had resulted in the 2011 caste survey returning over 46 lakh different ‘caste names’",
+    "img": "https://th-i.thgim.com/public/incoming/4ui2f4/article71190874.ece/alternates/LANDSCAPE_1200/CENSUS%20STANDALONE%20%20DELHI%202026_03_07_7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/in-census-rehearsal-open-column-for-recording-caste/article71190183.ece",
+    "time": "2026-07-07T01:35:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jada and Will Smith living together again after 2016 split",
+    "desc": "Will Smith and Jada Pinkett Smith are now living together again after their separation. They have been sharing a home for the past two years, according to sources. The couple recently attended a family reunion on the red carpet together. They also appeared together in Philadelphia for a July 4th celebration. Both actors have been open about their relationship's ongoing journey.",
+    "img": "https://static.toiimg.com/photo/msid-132228196,imgsize-10246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jada-pinkett-smith-and-will-smith-living-together-again-after-2016-separation-they-are-happy-and-love-each-other/articleshow/132228152.cms",
+    "time": "2026-07-07T01:23:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selling tea powder to Pan-India stardom",
+    "desc": "Rishab Shetty celebrates his birthday, marking a successful career after years of struggle. He previously sold tea powder and worked in marketing before his film breakthrough. His creative vision was shaped by Yakshagana, influencing his acclaimed film Kantara. The Kantara franchise has achieved significant commercial and critical success. Rishab Shetty maintains a private family life with his wife and two children.",
+    "img": "https://static.toiimg.com/photo/msid-132228179,imgsize-243102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/rishab-shetty-birthday-special-before-kantara-he-sold-tea-powder-water-bottles-and-worked-odd-jobs/articleshow/132228163.cms",
+    "time": "2026-07-07T01:20:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'There's no point in continuing': Martinez quits as Portugal coach after World Cup exit",
+    "desc": "Roberto Martinez has resigned as Portugal's head coach following their World Cup 2026 elimination. Spain defeated Portugal 1-0 in the Round of 16 match. Martinez stated his goal was to win the World Cup and saw no reason to continue. This defeat also marked the final World Cup appearance for Cristiano Ronaldo. Martinez praised Ronaldo's dedication and professionalism throughout their time together.",
+    "img": "https://static.toiimg.com/photo/msid-132228160,imgsize-111660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/theres-no-point-in-continuing-roberto-martinez-quits-as-portugal-coach-after-world-cup-exit/articleshow/132228165.cms",
+    "time": "2026-07-07T01:16:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Brad Pitt",
+    "desc": "Brad Pitt's career spans diverse roles and critical acclaim in Hollywood cinema. His personal life has seen significant public attention and legal proceedings. A notable quote from Fight Club encourages questioning societal materialism. This sentiment reflects his views on personal growth and meaningful living. Pitt's enduring influence continues to shape cinematic and cultural conversations.",
+    "img": "https://static.toiimg.com/photo/msid-132225304,imgsize-301870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-brad-pitt-reject-the-basic-assumptions-of-civilisation-especially-the-importance-of-material-possessions-when-fight-club-star-taught-about-life-and-happiness-through-his-film-dialogue/articleshow/132225306.cms",
+    "time": "2026-07-07T01:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Nagabandham' OTT release: When and where to stream",
+    "desc": "Nagabandham's OTT release is reportedly planned for Amazon Prime Video. The film's Telugu version may premiere approximately four weeks after its theatrical debut. Its box office collections have reached over twelve crore rupees worldwide. Performances in the film received praise, though visual effects faced criticism. Satellite rights for various languages have also been secured by different networks.",
+    "img": "https://static.toiimg.com/photo/msid-132228102,imgsize-335031.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nagabandham-ott-release-heres-when-and-where-virat-karrnas-film-is-expected-to-stream-after-its-theatrical-run-reports/articleshow/132228086.cms",
+    "time": "2026-07-07T00:55:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Alpha' hits Rs 63 cr on first Monday; eyes Rs 100 cr mark",
+    "desc": "Alpha continues its steady box office run after a strong opening weekend. The film collected an estimated Rs 3.85 crore net on its fourth day. Its total India gross collection reached an estimated Rs 45.34 crore. Overseas earnings pushed the worldwide gross to an estimated Rs 63.64 crore. The movie is now on its way to the Rs 100 crore milestone.",
+    "img": "https://static.toiimg.com/photo/msid-132228089,imgsize-326238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/alpha-box-office-collection-day-4-alia-bhatt-sharvaris-spy-thriller-hits-rs-63-64-crore-mark-worldwide-on-first-monday/articleshow/132228015.cms",
+    "time": "2026-07-07T00:51:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo breaks down in tears as Portugal World Cup dream ends",
+    "desc": "Cristiano Ronaldo's FIFA World Cup journey concluded with Portugal's Round of 16 elimination. He expressed sadness and confirmed this was his final tournament appearance. Ronaldo stated he gave his best and leaves with a clear conscience. Portugal coach Roberto Martinez praised his influence and legacy in football. Ronaldo's career includes major international titles and scoring records.",
+    "img": "https://static.toiimg.com/photo/msid-132228069,imgsize-102344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cristiano-ronaldo-breaks-down-in-tears-as-portugal-world-cup-dream-ends-watch/articleshow/132228076.cms",
+    "time": "2026-07-07T00:46:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Gatta Kusthi 2' BO day 4: India net reaches Rs 15.95 crore",
+    "desc": "Gatta Kusthi 2 experienced a notable weekday slowdown after its initial weekend success. The film's India net collection reached fifteen point nine five crore rupees. Overseas collections added four crore rupees to the worldwide gross total. Occupancy rates improved during the evening and night show screenings. The movie's premise was interesting but did not fully meet expectations.",
+    "img": "https://static.toiimg.com/photo/msid-132228025,imgsize-274762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gatta-kusthi-2-box-office-collection-day-4-aishwarya-lekshmis-film-drops-66-1-on-monday-india-net-reaches-rs-15-95-crore/articleshow/132228017.cms",
+    "time": "2026-07-07T00:33:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'MIB' BO day 18: Samantha Ruth Prabhu's film sees 75.8% drop",
+    "desc": "Maa Inti Bangaaram experienced a significant collection drop on its eighteenth day. The film's India net collection has now reached Rs 58.10 crore. Worldwide gross collections for the movie stand at Rs 92.47 crore. Occupancy rates showed improvement during the night shows on day eighteen. Samantha Ruth Prabhu's performance as Swarna received praise from ETimes.",
+    "img": "https://static.toiimg.com/photo/msid-132227994,imgsize-238564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/maa-inti-bangaaram-box-office-collections-day-18-samantha-ruth-prabhus-film-sees-75-8-drop-india-net-touches-rs-58-10-crore/articleshow/132227980.cms",
+    "time": "2026-07-07T00:13:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Growth Gems' biz to power Mahindra's next leap",
+    "desc": "Mahindra Group is expanding into fast-growing businesses beyond its core operations. The conglomerate has set ambitious expansion targets across multiple sectors. These \"Growth Gems\" are positioned to benefit from structural economic trends. Mahindra Lifespaces saw profit increase seven-fold, and aerospace built a strong order book. The group plans to double room inventory at Mahindra Holidays by FY30.",
+    "img": "https://static.toiimg.com/photo/msid-132227993,imgsize-1984099.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/growth-gems-biz-to-power-mahindras-next-leap/articleshow/132227995.cms",
+    "time": "2026-07-07T00:12:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo bows out of his final World Cup with a heartbreak",
+    "desc": "Cristiano Ronaldo's illustrious World Cup journey came to an emotional end as Portugal faced defeat against Spain. While sadness enveloped him, he remained proud of his legacy, being the sole player to score in six different World Cups. Having secured three titles with Portugal, including the 2016 Euros, he announced this bittersweet event as his last World Cup appearance, marking the conclusion of an era.",
+    "img": "https://static.toiimg.com/photo/msid-132227870,imgsize-72626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/tears-applause-and-a-clear-conscience-ronaldo-bows-out-of-his-final-world-cup-with-a-heartbreak/articleshow/132227870.cms",
+    "time": "2026-07-07T00:03:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Flipkart greenlights cashing out up to 5% of vested stock options",
+    "desc": "Flipkart's board has approved a second employee stock option liquidity event. Eligible employees can now liquidate up to five percent of their vested options. This event is estimated to be around twenty-five million dollars. Payouts to employees are scheduled to be made in August. The company's growth has remained strong despite a challenging macroeconomic environment.",
+    "img": "https://static.toiimg.com/photo/msid-132227929,imgsize-30318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/flipkart-greenlights-cashing-out-up-to-5-of-vested-stock-options/articleshow/132227914.cms",
+    "time": "2026-07-07T00:02:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Saudi Arabia effects deepest crude price cut in 26 years",
+    "desc": "Saudi Arabia significantly reduced crude oil prices, reflecting intense competition among producers. Major Persian Gulf nations are increasing their oil output, restoring pre-war export levels. This move coincides with OPEC+ allies agreeing to further boost production targets for August. Lower oil prices and increased supply will benefit Indian refiners and reduce government subsidy burdens. Reduced energy costs for Indian companies will help control inflation and support consumer spending.",
+    "img": "https://static.toiimg.com/photo/msid-132227885,imgsize-219364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/saudi-arabia-effects-deepest-crude-price-cut-in-26-years/articleshow/132227896.cms",
+    "time": "2026-07-06T23:55:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Odyssey' early reviews: Nolan's epic hailed as 'MONUMENTAL'",
+    "desc": "Christopher Nolan's epic film 'The Odyssey' is generating significant online buzz. Early reviews describe the monumental achievement as one of his finest works. The film's ensemble cast, including Matt Damon and Robert Pattinson, has drawn widespread acclaim. Critics are also praising the IMAX visuals, score, and surprising horror elements. 'The Odyssey' is poised to be a major cinematic event this summer.",
+    "img": "https://static.toiimg.com/photo/msid-132227857,imgsize-141266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-early-twitter-reviews-christopher-nolans-epic-hailed-as-monumental-and-a-modern-masterpiece-matt-damon-robert-pattinson-earn-praise-for-performances/articleshow/132227786.cms",
+    "time": "2026-07-06T23:48:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Trump calls FIFA, Balogun plays: The USA striker is back for Belgium clash after presidential intervention",
+    "desc": "Star forward Folarin Balogun will start for the United States against Belgium today. FIFA rejected a European appeal, allowing Balogun to play after a red card incident. This controversial decision has sparked global backlash and protests from furious Belgian supporters. The United States team seeks a historic knockout-stage victory in this crucial match. The winner advances to face Spain for a semi-final spot.",
+    "img": "https://static.toiimg.com/photo/msid-132227811,imgsize-70350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/trump-calls-fifa-balogun-plays-the-usa-striker-is-back-for-belgium-clash-after-presidential-intervention/articleshow/132227811.cms",
+    "time": "2026-07-06T23:30:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Manipal Health gets Sebi nod for Rs 8,000-crore IPO",
+    "desc": "India's IPO pipeline is gaining momentum with significant upcoming public issues. The National Stock Exchange is planning a substantial Rs 30,000-crore offering. Manipal Health Enterprises has secured approval for its Rs 8,000-crore public issue. Rentomojo also received market regulator nod for its IPO. Funds will be used for debt repayment and acquisitions.",
+    "img": "https://static.toiimg.com/photo/msid-132227814,imgsize-87482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/manipal-health-gets-sebi-nod-for-rs-8000-crore-ipo/articleshow/132227817.cms",
+    "time": "2026-07-06T23:27:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Power and infra drive behind 17% credit growth to industry",
+    "desc": "Bank lending to industry saw power sector lead growth in early FY27. Chemicals and vehicles also experienced significant increases in credit allocation. Telecommunications exposure declined, reflecting a shift in lender priorities. Overall infrastructure sector growth was positive, excluding telecommunications contraction. Industry's share in total bank credit continued its gradual decline.",
+    "img": "https://static.toiimg.com/photo/msid-132227798,imgsize-256652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/power-and-infra-drive-behind-17-credit-growth-to-industry/articleshow/132227801.cms",
+    "time": "2026-07-06T23:17:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "police search Samagra Shiksha office in Jammu",
+    "desc": "Action part of an ongoing investigation to identify people responsible for the book Great Personalities and Legends of J&K, which has profiled separatist leaders such as Maqbool Bhat, Masarat Alam, Shabir Shah and Syed Ali Geelani",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/controversial-book-police-searchsamagra-shiksha-office-in-jammu/article71190677.ece",
+    "time": "2026-07-06T23:16:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian diplomat protests wrong depiction of J&amp;K at Dhaka seminar",
+    "desc": "India lodged a protest at a Dhaka seminar after a map showed Kashmir as part of Pakistan. An Indian diplomat immediately raised objections during the presentation by a former ambassador. The diplomat stated that Jammu and Kashmir is an integral part of India. The former ambassador claimed the map was for representational purposes only. The seminar was organized by the Bangladesh Institute of International and Strategic Studies.",
+    "img": "https://static.toiimg.com/photo/msid-132227738,imgsize-74096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indian-diplomat-protests-wrong-depiction-of-jk-at-dhaka-seminar/articleshow/132227734.cms",
+    "time": "2026-07-06T22:52:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain shatter World Cup record with sixth straight clean sheet",
+    "desc": "Spain's defense has set a World Cup milestone by recording six consecutive clean sheets, with goalkeeper Unai Simon boasting a remarkable scoreless streak of 609 minutes. This impressive defensive tenure commenced following a group stage defeat to Japan in 2022. Now, with four successive shutout victories, Spain marches into the quarterfinals, driven by their exceptional defensive prowess.",
+    "img": "https://static.toiimg.com/photo/msid-132227712,imgsize-336674.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/the-spanish-wall-spain-shatter-world-cup-record-with-sixth-straight-clean-sheet/articleshow/132227712.cms",
+    "time": "2026-07-06T22:50:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka-Nick turn Paris outing into glamorous date night",
+    "desc": "Priyanka Chopra and Nick Jonas attended the Dior Haute Couture show in Paris. The couple walked hand-in-hand, posing for photographers and greeting guests. Priyanka wore a striking orange gown, while Nick looked sharp in a grey suit. Inside the event, Priyanka introduced her husband to K-pop star Mingyu. The actress also shared behind-the-scenes preparation moments on social media.",
+    "img": "https://static.toiimg.com/photo/msid-132227638,imgsize-228858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-turns-paris-fashion-week-outing-with-hubby-nick-jonas-into-a-romantic-date-night-pics/articleshow/132225795.cms",
+    "time": "2026-07-06T22:46:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2 Assam Rifles personnel killed in Manipur ambush",
+    "desc": "Two Assam Rifles personnel died after suspected militants ambushed their vehicle. The attack occurred on NH-202 in Manipur's Ukhrul district on Monday afternoon. Security forces responded quickly and engaged in an exchange of fire with the assailants. Further operations are currently underway to apprehend the individuals responsible for the incident. The deceased soldiers were identified as Warrant Officer Balwant Singh and Constable CM Singh.",
+    "img": "https://static.toiimg.com/photo/msid-132227715,imgsize-204400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2-assam-rifles-personnel-killed-in-manipur-ambush/articleshow/132227716.cms",
+    "time": "2026-07-06T22:41:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "E20 fuel may damage rubber parts in E10 cars, said unpublished report",
+    "desc": "An ARAI report noted rubber part deterioration in E10 vehicles using E20 fuel. Metallic components showed no adverse impact, and emissions remained within legislative limits. One BS-VI turbocharged engine experienced issues after durability testing, unlike a BS-IV engine. Two-wheeler engine durability tests showed acceptable performance with E20 fuel. Fuel consumption increased by two to six percent for vehicles using E20.",
+    "img": "https://static.toiimg.com/photo/msid-132227450,imgsize-717051.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/e20-fuel-may-damage-rubber-parts-in-e10-cars-said-unpublished-report/articleshow/132227500.cms",
+    "time": "2026-07-06T22:19:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA charges LeT chief Hafiz Saeed with plotting Pahalgam terror strike",
+    "desc": "The National Investigation Agency has charged Hafiz Saeed for the Pahalgam attack. This attack tragically killed twenty-five tourists and one local resident. Evidence includes digital trails and on-ground examination by the agency. Saeed, LeT chief, faces charges under new Indian penal codes. He will be tried in absentia for waging war against India.",
+    "img": "https://static.toiimg.com/photo/msid-132226238,imgsize-86408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nia-charges-let-chief-hafiz-saeed-with-plotting-pahalgam-terror-strike/articleshow/132226061.cms",
+    "time": "2026-07-06T22:08:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Big B called at 3 am to buy Ayodhya land, paid Rs 15 crore the next day",
+    "desc": "Amitabh Bachchan personally called The House of Abhinandan Lodha founder and chairman Abhinandan Lodha at around 3 am to enquire about buying land in Ayodhya and transferred Rs 15 crore the very next day after learning the price, the real estate entrepreneur has revealed. Bachchan has steadily expanded his real estate portfolio in Ayodhya over the past few years.",
+    "img": "https://static.toiimg.com/photo/msid-132225806,imgsize-32059.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-called-at-3-am-to-buy-ayodhya-land-and-transferred-rs-15-crore-the-next-day-recalls-abhinandan-lodha/articleshow/132225794.cms",
+    "time": "2026-07-06T22:05:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mikel Merino strikes late As Spain edge past Portugal and Ronaldo to reach WC quarter-finals",
+    "desc": "Spain edged past Portugal with a crucial one-nil win in a gripping World Cup encounter. Mikel Merino struck the decisive goal in stoppage time, leaving Portugal eliminated and signaling the end of Cristiano Ronaldo's illustrious World Cup journey. Unai Simon's outstanding performance as goalkeeper kept Spain's net intact, propelling La Roja into the quarterfinals for the first time since 2010.",
+    "img": "https://static.toiimg.com/photo/msid-132225782,imgsize-280664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spain-vs-portugal-fifa-world-cup-match-result-mikel-merino-strikes-late-as-spain-edge-past-portugal-to-reach-wc-quarter-finals/articleshow/132225782.cms",
+    "time": "2026-07-06T22:03:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'Ramayana' trailer launch on July 18?",
     "desc": "Social media buzz surrounds the potential July 18 trailer launch for Nitesh Tiwari's Ramayana. Fans anticipate an extended look at Ranbir Kapoor as Rama and Sai Pallavi as Sita. This clip may debut before the film's rumored Comic Con appearance later this month. The epic film is slated for a Diwali 2026 release, with a second part following. Hans Zimmer and A.R.",
     "img": "https://static.toiimg.com/photo/msid-132225776,imgsize-138420.cms",
@@ -100,15 +406,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Form used in rehearsal for second phase of Census has an ‘open column’ to record caste",
-    "desc": "Final methodology to enumerate caste as part of Census 2027 will be prepared based on the feedback received during the test exercise; the open column methodology had resulted in the 2011 caste survey returning over 46 lakh different ‘caste names’",
-    "img": "https://th-i.thgim.com/public/incoming/4ui2f4/article71190874.ece/alternates/LANDSCAPE_1200/CENSUS%20STANDALONE%20%20DELHI%202026_03_07_7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/in-census-rehearsal-open-column-for-recording-caste/article71190183.ece",
-    "time": "2026-07-06T20:12:25.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Ram Temple ex-trustee Mishra failed to secure donations: SIT",
     "desc": "A preliminary SIT report details alleged embezzlement of Ram temple donations. Senior Trust functionary Anil Mishra's oversight failure enabled suspects to pilfer funds. Nearly seventy instances of alleged pilferage were captured on CCTV footage. Subhash Srivastava, the counting room in charge, also faces serious lapses. The report names six suspects involved in theft and misappropriation offenses.",
     "img": "https://static.toiimg.com/photo/msid-132225413,imgsize-113460.cms",
@@ -199,24 +496,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Heavy rain triggers landslide near Kwar power project site, blocks Doda-Kishtwar highway",
-    "desc": "Heavy rainfall caused a major landslide near the Kwar hydroelectric project in Kishtwar. Flash floods and mudslides blocked the Kishtwar-Doda Highway, burying several vehicles under debris. Large volumes of mud and boulders entered the project site, damaging construction equipment and materials. Three gates of the Baglihar dam were opened as the Chenab river water level increased significantly. District administrations in Doda and Kishtwar are monitoring weather conditions and river flow.",
-    "img": "https://static.toiimg.com/photo/msid-132224246,imgsize-85016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/heavy-rain-triggers-landslide-near-kwar-power-project-site-blocks-doda-kishtwar-highway/articleshow/132224247.cms",
-    "time": "2026-07-06T18:42:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NC to stage protest at Jantar Mantar for J&amp;K statehood on July 20: Dy CM Surinder Choudhary",
-    "desc": "The National Conference will protest at Jantar Mantar on July 20. Public rallies are scheduled in Srinagar and Jammu before the protest. The party demands the restoration of Jammu and Kashmir's statehood. This restoration was promised after the state Assembly polls concluded. The absence of statehood impacts employment generation and development funding.",
-    "img": "https://static.toiimg.com/photo/msid-132224170,imgsize-169614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nc-to-stage-protest-at-jantar-mantar-for-jk-statehood-on-july-20-dy-cm-surinder-choudhary/articleshow/132224161.cms",
-    "time": "2026-07-06T18:35:03.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "El Niño to dent India’s wind, hydropower output: study",
     "desc": "The Centre for Research on Energy and Clean Air (CREA) projects that weaker wind and hydropower output, combined with rising demand for air conditioning, could open a generation gap of nearly 18 TWh (terawatt hour) over a period of one year to June 2027",
     "img": "https://th-i.thgim.com/public/incoming/mrm93j/article71190921.ece/alternates/LANDSCAPE_1200/Major-hydropoweGA6G29PN1.4.jpg.jpg",
@@ -288,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-06T17:30:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "El Nino's heat test: India may face world's biggest energy system impact",
-    "desc": "India faces significant energy system impact from El Nino's arrival. Renewable electricity generation may decrease while cooling demand rises. This could create an electricity generation gap of nearly eighteen terawatt-hours. Increased coal-fired power generation is the most likely outcome. Expanding solar power and battery storage is critical for grid resilience.",
-    "img": "https://static.toiimg.com/photo/msid-132222211,imgsize-33268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/el-ninos-heat-test-india-may-face-worlds-biggest-energy-system-impact/articleshow/132222115.cms",
-    "time": "2026-07-06T17:23:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Operate autonomously': FIFA denies pressure as Trump confirms Balogun intervention",
     "desc": "The clarification came after FIFA allowed Balogun to play in the United States' FIFA World Cup round-of-16 match against Belgium, a decision that drew criticism and raised questions over whether Trump's intervention had influenced the outcome.",
@@ -306,15 +576,6 @@ const newsData_en = [
     "time": "2026-07-06T17:22:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "AIADMK leader KBS Raja, cousin of EPS, quits party",
-    "desc": "AIADMK leader K B S Raja resigned from the party on Monday. He is a cousin of party chief Edappadi K Palaniswami. Raja claimed he worked for the party for thirty years. He was denied an Assembly election ticket on two occasions. Raja did not announce his future political plans.",
-    "img": "https://static.toiimg.com/photo/msid-132222109,imgsize-93357.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aiadmk-leader-k-b-s-raja-cousin-of-eps-quits-party/articleshow/132222083.cms",
-    "time": "2026-07-06T17:15:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "First wedding pictures! Anshula Kapoor marries Rohan Thakkar",
     "desc": "Producer Boney Kapoor's daughter, Anshula Kapoor, has shared the first pictures from her wedding to longtime beau Rohan Thakkar. A few hours after tying the knot on Monday, Anshula took to Instagram to post a series of heartwarming moments from the ceremony. There was a touching moment where Anshula's sisters, Janhvi Kapoor and Khushi Kapoor, helped their \"jiju,\" apply sindoor to the bride's forehead.",
@@ -322,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/first-wedding-pictures-anshula-kapoor-marries-longtime-beau-rohan-thakkar-janhvi-kapoor-and-khushi-kapoor-help-their-jiju-apply-sindoor/articleshow/132221830.cms",
     "time": "2026-07-06T17:00:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rs 3,264 crore spent, silver donations melted",
-    "desc": "The Shri Ram Janmabhoomi Teerth Kshetra Trust detailed its finances and accepted key resignations. Over Rs 3,264 crore was received, with Rs 2,370 crore spent on temple construction. Devotees can verify their donations by visiting Ayodhya and inspecting records. Silver donations were melted into bars, with records available for inspection. The trust is implementing reforms to enhance transparency and efficiency in its operations.",
-    "img": "https://static.toiimg.com/photo/msid-132220895,imgsize-207521.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ram-mandir-trust-opens-its-vaults-rs-3264-crore-spent-silver-donations-melted-details/articleshow/132220191.cms",
-    "time": "2026-07-06T15:58:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -414,15 +666,6 @@ const newsData_en = [
     "time": "2026-07-06T14:37:57.000Z"
   },
   {
-    "cat": "World",
-    "title": "Hamas dissolves its government in Gaza to transfer power to UN-backed committee",
-    "desc": "At a news conference on July 6, Ismail al-Thawabta, general director of the Hamas-run Government Media Office, said “only technical and professional staff” would remain in their positions to run the Palestinian enclave’s day-to-day affairs",
-    "img": "https://th-i.thgim.com/public/incoming/9ycu3v/article71190148.ece/alternates/LANDSCAPE_1200/2026-07-04T144554Z_970264774_RC207MAUE8E3_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hamas-dissolves-its-government-in-gaza-to-transfer-power-to-un-backed-committee/article71189994.ece",
-    "time": "2026-07-06T14:34:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Allu Arjun appears virtually in stampede case",
     "desc": "The Rule' screening. The incident tragically claimed the life of Revathi and injured her son. Arjun is named Accused No. 11, with theatre management as Accused 1-10. The court adjourned the case to July 29.",
@@ -430,24 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-arjun-appears-virtually-before-nampally-court-in-sandhya-theatre-stampede-case-hearing-adjourned-to-july-29-as-co-accused-fails-to-appear-with-pushpa-2-star/articleshow/132218624.cms",
     "time": "2026-07-06T14:34:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajkummar's 'Dada – The Sourav Ganguly Story' to unveil its first look Ganguly's birthday",
-    "desc": "Fans are buzzing as the first look of 'Dada – The Sourav Ganguly Story', starring Rajkummar Rao, is set to drop on July 8, coinciding with the cricket legend's birthday. Filming is progressing rapidly, and an official release date might also be announced, potentially targeting a major upcoming slot.",
-    "img": "https://static.toiimg.com/photo/msid-132218227,imgsize-185269.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajkummar-rao-starrer-dada-the-sourav-ganguly-story-to-unveil-its-first-look-and-release-date-on-sourav-gangulys-birthday-on-july-8/articleshow/132218268.cms",
-    "time": "2026-07-06T14:09:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Australian PM apologises for making comments about Kylie Minogue",
-    "desc": "Australian Prime Minister Anthony Albanese has come under fire for his ill-considered comments regarding Kylie Minogue during a podcast episode. Amidst growing backlash from both the public and his political peers, Albanese apologized for his 'inappropriate' remarks made while choosing among Minogue, Nicole Kidman, and Rhonda Burchmore in a playful game. Critics have condemned his words as disrespectful, prompting scrutiny of his decision-making.",
-    "img": "https://static.toiimg.com/photo/msid-132218113,imgsize-72692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/australian-pm-anthony-albanese-issues-unequivocal-apology-for-over-controversial-remarks-on-kylie-minogue-amid-intense-backlash/articleshow/132217796.cms",
-    "time": "2026-07-06T13:52:30.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +684,6 @@ const newsData_en = [
     "time": "2026-07-06T13:44:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Satluj director on how only Diljit knew about the OTT drop hours before its sudden removal",
-    "desc": "Honey Trehan reveals the secret plan behind \"Satluj's\" surprise ZEE5 release, bypassing a four-year CBFC battle, with only Diljit Dosanjh in the know. Though released uncut, the film vanished 105 minutes later, pulled \"until further notice.\" Trehan credits RSVP-ZEE's long partnership and Ronnie Screwvala's decisive call to go digital.",
-    "img": "https://static.toiimg.com/photo/msid-132217659,imgsize-209456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/satluj-director-honey-trehan-details-the-secretive-operation-and-how-only-diljit-dosanjh-knew-about-the-ott-drop-hours-before-its-sudden-removal-streaming-platforms-dont-strictly-require-a-cbfc-theatrical-certificate/articleshow/132217659.cms",
-    "time": "2026-07-06T13:33:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "OMCs may break even on petrol, diesel rates soon; what it means for retail prices",
     "desc": "Public sector refiners have collectively absorbed losses of over Rs 75,000 crore during the first quarter of the current financial year. Since they continue to process higher-cost crude purchased earlier, profitability is expected to remain under pressure during the ongoing quarter.",
@@ -475,24 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/crude-oil-relief-omcs-may-break-even-on-petrol-diesel-rates-soon-what-it-means-for-retail-prices/articleshow/132215124.cms",
     "time": "2026-07-06T13:29:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Diljit Dosanjh gives witty reply to Green Card comment amid 'Satluj' OTT row",
-    "desc": "Amid mounting national controversy, superstar Diljit Dosanjh hosted an emotional yet characteristically witty Instagram Live session on Monday, July 6, 2026, just a day after his highly anticipated biographical film 'Satluj' (originally titled 'Punjab '95') was abruptly scrubbed from ZEE5 India. Addressing his global fanbase, the 'Chamkila' actor revealed that the team intentionally bypassed all marketing and promotions, quietly dropping the Honey Trehan-directed Jaswant Singh Khalra biopic uncut over the weekend in anticipation of an immediate government-backed crackdown.",
-    "img": "https://static.toiimg.com/photo/msid-132217564,imgsize-75359.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjh-gives-a-witty-reply-to-green-card-comment-amid-satluj-ott-removal-controversy-news-ban-jayegi/articleshow/132217437.cms",
-    "time": "2026-07-06T13:29:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Surabhi on rumors about her character in Ranbir's Ramayana",
-    "desc": "Surabhi Das lands a role in Nitesh Tiwari's \"Ramayana,\" playing Shrutakirti, not Urmila. After a two-month wait post-audition, she felt overwhelmed joining such a massive project. Her shift from TV to films was driven by growth, not frustration, with more projects lined up, including a 1971-war drama and Vikas Bahl's next.",
-    "img": "https://static.toiimg.com/photo/msid-132217435,imgsize-200348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-am-not-playing-urmila-i-am-shrutakirti-surabhi-das-shuts-down-rumors-about-her-character-in-ranbir-kapoor-and-sai-pallavi-starrer-ramayana/articleshow/132217435.cms",
-    "time": "2026-07-06T13:12:07.000Z"
   },
   {
     "cat": "Business",
@@ -522,33 +720,6 @@ const newsData_en = [
     "time": "2026-07-06T12:44:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Diljit Dosanjh chooses controversial films': FWICE President BN Tiwari amid 'Satluj' row",
-    "desc": "Following the abrupt and highly controversial removal of Honey Trehan’s biographical drama 'Satluj' (originally titled 'Punjab ’95') from streaming platform ZEE5 India just 48 hours after its premiere, Federation of Western India Cine Employees (FWICE) President BN Tiwari has strongly criticized lead actor Diljit Dosanjh. Speaking exclusively to IANS, Tiwari expressed deep surprise over the Punjabi superstar's recurring inclination toward politically sensitive and controversial scripts, emphasizing that global icons must keep \"nation first\" and avoid choosing roles purely for financial gain.",
-    "img": "https://static.toiimg.com/photo/msid-132216872,imgsize-200680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fwice-president-bn-tiwari-questions-diljit-dosanjh-over-his-image-amid-satluj-ott-removal-row-artists-shouldnt-do-films-just-for-money/articleshow/132216844.cms",
-    "time": "2026-07-06T12:40:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Expert lip-reader reveals Thomas Tuchel’s 94th-minute rant during England’s dramatic Mexico win: ‘I need a…’",
-    "desc": "Thomas Tuchel’s emotional reaction during England’s 3-2 World Cup win over Mexico has been revealed by lip-reader Nicola Hickling for Covers. com. With England defending a narrow lead after Jarell Quansah’s red card, Tuchel appeared to express his frustration in stoppage time. England eventually held on, setting up a quarter-final clash with Norway after a dramatic night.",
-    "img": "https://static.toiimg.com/photo/msid-132216680,imgsize-721603.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/expert-lip-reader-reveals-thomas-tuchels-94th-minute-rant-during-englands-dramatic-mexico-win-i-need-a/articleshow/132216696.cms",
-    "time": "2026-07-06T12:29:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aditya pens birthday post for Ranveer with UNSEEN BTS moments",
-    "desc": "Marking Ranveer Singh's 41st birthday, director Aditya Dhar shared unseen \"Dhurandhar\" BTS photos, calling him an \"extraordinary actor.\" He recalled powerful scenes they shot together and praised the performance as one of Indian cinema's finest, adding, \"You became my brother.\" Both \"Dhurandhar\" films are streaming on OTT.",
-    "img": "https://static.toiimg.com/photo/msid-132216567,imgsize-361910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/thank-you-for-giving-dhurandhar-every-piece-of-yourself-aditya-dhar-pens-heartfelt-birthday-post-for-force-of-nature-and-brother-ranveer-singh-with-unseen-bts-moments/articleshow/132216567.cms",
-    "time": "2026-07-06T12:18:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Belgium allowed to appeal against FIFA decision; what it means",
     "desc": "Balogun had been due to miss the United States' FIFA World Cup round-of-16 match against Belgium after receiving a direct red card against Bosnia and Herzegovina, a dismissal that normally carries an automatic one-game suspension. However, FIFA announced on Sunday that \"the one-game ban had been suspended,\" making the striker available for selection.",
@@ -556,15 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fresh-twist-in-folarin-balogun-row-belgium-allowed-to-appeal-fifas-suspension-decision-before-usa-world-cup-clash-what-it-means/articleshow/132216387.cms",
     "time": "2026-07-06T12:16:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mohanlal declares 10 elephant tusks, 13 ivory idols",
-    "desc": "Malayalam actor Mohanlal has submitted a fresh declaration of 10 elephant tusks and 13 ivory idols to the Kerala Forest Department. This follows a Kerala High Court ruling that invalidated his earlier ownership certificates. The case originated in 2011 when tusks and artefacts were found at his Kochi residence, leading to a legal battle over their possession.",
-    "img": "https://static.toiimg.com/photo/msid-132216386,imgsize-91532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-officially-declares-10-elephant-tusks-and-13-ivory-idols-to-kerala-forest-department-after-hc-order/articleshow/132216347.cms",
-    "time": "2026-07-06T12:03:00.000Z"
   },
   {
     "cat": "Business",
@@ -585,15 +747,6 @@ const newsData_en = [
     "time": "2026-07-06T11:48:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dhurandhar designer reveals how Alia transformed his career",
-    "desc": "Production designer Rupin Suchak, known for films like \"Go Goa Gone\" and \"Dhurandhar,\" reveals how designing Alia Bhatt's home transformed his career, opening doors to interior design. He reflects on the contrasting demands of film sets versus homes, emphasizing that his core goal — creating emotionally memorable spaces — remains unchanged across mediums.",
-    "img": "https://static.toiimg.com/photo/msid-132215926,imgsize-290506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-entrusted-me-with-her-home-dhurandhar-designer-rupin-suchak-reveals-how-alia-bhatt-transformed-his-interior-design-career-after-noticing-his-design-skills-at-r-balkis-office/articleshow/132215926.cms",
-    "time": "2026-07-06T11:47:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "World Cup after Messi, Ronaldo and Neymar: What remains in Kolkata?",
     "desc": "As Cristiano Ronaldo and Neymar confirm the 2026 FIFA World Cup will be their last and Lionel Messi's final bow appears imminent, Kolkata is preparing to lose more than three footballers. It is saying goodbye to the players who shaped its arguments, allegiances and memories for nearly three decades.",
@@ -601,42 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/world-cup-after-messi-ronaldo-and-neymar-what-remains-in-kolkata/article71103363.ece",
     "time": "2026-07-06T11:45:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Norway star's FIFA WC heroics revive old memory",
-    "desc": "Haaland scored twice as Norway beat Brazil 2-1 to reach the World Cup quarterfinals for the first time. The striker headed in the go-ahead goal in the 79th minute before adding another before the end of regulation time to send his team through.",
-    "img": "https://static.toiimg.com/photo/msid-132215600,imgsize-503857.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/when-erling-haaland-played-against-india-norway-stars-fifa-world-cup-heroics-revive-old-memory/articleshow/132215426.cms",
-    "time": "2026-07-06T11:30:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Welcome to the Jungle' BO Day 7: Strolls past Rs 170 crore globally",
-    "desc": "Ahmed Khan’s star-studded action-comedy 'Welcome to the Jungle', featuring an ensemble cast led by Akshay Kumar, Suniel Shetty, and Paresh Rawal, continues to draw family audiences into its second week. Despite facing a massive screen crunch due to the wide release of YRF’s high-profile spy-thriller 'Alpha', starring Alia Bhatt, Sharvari, Anil Kapoor and Bobby Deol, the third installment of the iconic Welcome franchise has successfully held its ground. Having comfortably cruised past the Rs. 100 crore domestic net mark over its second weekend, the film is now pursuing a stable run and netting Rs 120 crore on the domestic front across regular weekdays.",
-    "img": "https://static.toiimg.com/photo/msid-132215396,imgsize-142810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-11-live-akshay-kumar-starrer-in-pursuit-of-rs-120-crore-domestic-net-after-worldwide-gross-surges-to-rs-166-crore-despite/articleshow/132215307.cms",
-    "time": "2026-07-06T11:15:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma hits the nets ahead of England ODI series",
-    "desc": "Rohit Sharma is back in the nets, showcasing fine form ahead of India's ODI series against England. The star batter, returning from a hamstring injury that affected his IPL stint, looked sharp during practice. His presence, alongside Virat Kohli (subject to fitness), bolsters India's squad for the upcoming clashes. Rohit's extensive ODI record and preparations for the 2027 World Cup remain key discussion points.",
-    "img": "https://static.toiimg.com/photo/msid-132215235,imgsize-34982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-hits-the-nets-ahead-of-england-odi-series-watch/articleshow/132215113.cms",
-    "time": "2026-07-06T11:05:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tabu to play antagonist in Nagarjuna’s ‘King100’",
-    "desc": "Nagarjuna and Tabu are set to reunite on screen after nearly three decades in the upcoming film tentatively titled ‘King100’. Buzz suggests Tabu will portray a negative role, a rare for the acclaimed actress. The first shooting schedule has wrapped, with director RA Karthik at the helm. This collaboration marks their return after successful films like ‘Ninne Pelladata’.",
-    "img": "https://static.toiimg.com/photo/msid-132215050,imgsize-103882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/tabu-to-play-powerful-villain-opposite-nagarjuna-in-king100-as-duo-reunites-after-28-years-reports/articleshow/132215003.cms",
-    "time": "2026-07-06T10:56:40.000Z"
   },
   {
     "cat": "Business",
@@ -648,24 +765,6 @@ const newsData_en = [
     "time": "2026-07-06T10:50:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ali recalls how Salman was the only choice and said YES in just 15 minutes",
-    "desc": "Marking 10 years of \"Sultan,\" Ali Abbas Zafar reflects on the wrestling drama's origins and Salman Khan's swift 15-minute yes to the role. He recalls casting Anushka Sharma, initial awkwardness that eased over time, and teases a possible fourth collaboration once the right script comes along.",
-    "img": "https://static.toiimg.com/photo/msid-132214739,imgsize-133144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anyone-who-doesnt-know-bhai-well-finds-him-intimidating-ali-abbas-zafar-recalls-how-salman-khan-was-the-only-choice-and-said-yes-in-just-15-minutes-as-anushka-sharma-starrer-sultan-clocks-a-decade/articleshow/132214739.cms",
-    "time": "2026-07-06T10:42:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hannah Waddingham talks about the future of James Bond",
-    "desc": "Hannah Waddingham, acclaimed for her role in 'Ted Lasso,' has expressed her disinterest in taking on the iconic James Bond role, emphasizing the importance of women exploring diverse narratives. She connects deeply with characters in their quieter, introspective moments. Currently, she is promoting her latest project, 'Ride or Die,' a thrilling comedy following two friends entangled in a dangerous situation. The show debuts on Prime Video on July 15.",
-    "img": "https://static.toiimg.com/photo/msid-132214298,imgsize-112430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ted-lasso-star-hannah-waddingham-talks-ride-or-die-and-the-future-of-james-bond-a-woman-doesnt-need-to-play-james-bond-/articleshow/132214185.cms",
-    "time": "2026-07-06T10:33:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Crossed red line': UEFA blasts FIFA over Balogun suspension after Trump intervention",
     "desc": "UEFA has slammed FIFA's decision to allow US forward Folarin Balogun to play against Belgium despite a red card, calling it \"incomprehensible\" and a \"red line\" crossed. Balogun's one-game ban was surprisingly suspended by FIFA, a move that has drawn outrage from Belgium and criticism from UEFA for undermining the \"integrity\" of the competition.",
@@ -673,15 +772,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/crossed-red-line-uefa-fumes-as-fifa-suspends-us-stars-red-card-ban-to-face-belgium-bows-to-donald-trump-pressure/articleshow/132213696.cms",
     "time": "2026-07-06T10:14:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IOCL, HPCL buy 7 million barrels of energy supplies",
-    "desc": "Indian refiners Indian Oil Corp and Hindustan Petroleum Corp have secured millions of crude barrels from Angola, Nigeria, and Brazil to bolster national reserves. This strategic procurement follows a significant drawdown in stockpiles due to Strait of Hormuz disruptions. Inventories have since rebounded, nearing a year-high, signaling a stabilization of India's energy security amidst global market fluctuations and OPEC+ output adjustments.",
-    "img": "https://static.toiimg.com/photo/msid-132213993,imgsize-39284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/crude-comeback-iocl-hpcl-buy-7-million-barrels-of-crude/articleshow/132213689.cms",
-    "time": "2026-07-06T10:05:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -702,60 +792,6 @@ const newsData_en = [
     "time": "2026-07-06T09:56:15.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Bellingham's heartwarming gesture to Mora goes viral after WC thriller",
-    "desc": "Jude Bellingham's stellar performance, including a brace, powered England to a thrilling 3-2 World Cup victory over Mexico. His heartwarming post-match jersey exchange with young Mexican talent Gilberto Mora captivated fans, showcasing mutual respect. Despite playing with ten men, England secured a quarter-final spot against Norway, with Bellingham also setting a new record for youngest player with 10 World Cup appearances.",
-    "img": "https://static.toiimg.com/photo/msid-132213473,imgsize-142215.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-jude-bellinghams-heartwarming-gesture-to-gilberto-mora-goes-viral-after-england-mexico-world-cup-thriller/articleshow/132213336.cms",
-    "time": "2026-07-06T09:50:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Saudi low-cost carrier flyadeal begins India operations with daily Hyderabad-Riyadh flights",
-    "desc": "Saudi Arabia's budget airline, flyadeal, has officially landed in India, commencing its maiden service between Hyderabad and Riyadh. This new daily flight, operated by an Airbus A320, significantly enhances Hyderabad Airport's global reach, particularly to the Middle East. The move is anticipated to stimulate travel for business, expatriate, and tourist segments between the two nations, marking a key expansion for the airline into a rapidly growing aviation sector.",
-    "img": "https://static.toiimg.com/photo/msid-132213295,imgsize-479345.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/saudi-low-cost-carrier-flyadeal-begins-india-operations-with-daily-hyderabad-riyadh-flights/articleshow/132213082.cms",
-    "time": "2026-07-06T09:45:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anvay Dravid hits blazing 67-ball 87 for India U-19 vs Sri Lanka in second Youth ODI",
-    "desc": "Rahul Dravid's younger son, Anvay, starred with a brilliant 87, anchoring India U-19's 285 against Sri Lanka A. He, along with Arjun Rajput's 76, forged a crucial partnership after an early collapse. This performance follows Anvay's recent success leading Karnataka's U-19s and his elder brother Samit's all-round display in a T20 match, highlighting the Dravid family's cricketing prowess.",
-    "img": "https://static.toiimg.com/photo/msid-132213257,imgsize-35452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/anvay-dravid-hits-blazing-67-ball-87-for-india-u-19-vs-sri-lanka-in-second-youth-odi/articleshow/132213251.cms",
-    "time": "2026-07-06T09:37:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Football must never become a playground for political power': Ex-FIFA president",
-    "desc": "Former FIFA chief Sepp Blatter has voiced strong criticism after Folarin Balogun's World Cup ban was overturned, suggesting political influence may have swayed the decision. Blatter warned football must remain free from political power, questioning FIFA's independence. The U.S. player's red card was rescinded following a reported intervention, sparking outrage from Belgium and raising concerns about the sport's disciplinary integrity.",
-    "img": "https://static.toiimg.com/photo/msid-132212011,imgsize-114372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/football-must-never-become-a-playground-for-political-power-ex-fifa-president-slams-balogun-decision/articleshow/132212016.cms",
-    "time": "2026-07-06T08:48:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ITR filing FY 2025-26: Top 10 mistakes taxpayers should avoid for income tax returns online filing",
-    "desc": "Before filing, compare your income and TDS details with documents such as Annual Information Statement (AIS), Form 26AS, and Form 16/16A. Any mismatches in data can not only lead to income tax notices, but also delayed refunds. Here are 10 mistakes that salaried taxpayers should avoid when filing their income tax returns:",
-    "img": "https://static.toiimg.com/photo/msid-132211934,imgsize-568607.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/itr-filing-fy-2025-26-top-10-mistakes-taxpayers-should-avoid-for-income-tax-returns-online-filing-check-list/articleshow/132211638.cms",
-    "time": "2026-07-06T08:36:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India eyes uranium supply pact with Australia during PM Modi’s visit",
-    "desc": "Australia, which has nearly one-third of the world's known uranium reserves, signed a framework agreement with India over a decade ago. The two countries are also likely to finalise or advance agreements in several strategic areas, including critical minerals, cybersecurity, emerging technologies, clean energy.",
-    "img": "https://static.toiimg.com/photo/msid-132211315,imgsize-469706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nuclear-power-push-india-eyes-uranium-supply-pact-with-australia-during-pm-modis-visit/articleshow/132211015.cms",
-    "time": "2026-07-06T07:55:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "The words that shook the world",
     "desc": "Written to justify the American colonies’ break from Britain, Declaration of Independence has inspired revolutions, independence movements and the modern human rights framework; its universal language of liberty and equality outlives the contradictions of its own creation",
@@ -774,24 +810,6 @@ const newsData_en = [
     "time": "2026-07-06T07:14:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Apple not so 'fruitful' for Himachal? Climate pressures hill state's Rs 5,000 crore economy",
-    "desc": "Himachal Pradesh's Rs 5,000 crore apple economy faces a severe climate crisis, with production projected to plummet by nearly 40% this year. Unseasonal rains, hailstorms, and erratic weather have significantly impacted output, affecting an estimated 2.5 lakh farming families. Growers are grappling with rising costs and a desperate need for improved irrigation and crop insurance.",
-    "img": "https://static.toiimg.com/photo/msid-132209554,imgsize-1159448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/apple-not-so-fruitful-for-himachal-climate-pressures-hill-states-rs-5000-crore-economy/articleshow/132209439.cms",
-    "time": "2026-07-06T06:36:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It absolutely stinks': Football world erupts over Trump's role in FIFA's Balogun U-turn",
-    "desc": "FIFA's controversial decision to lift Folarin Balogun's red card suspension for the US vs Belgium match has sparked outrage. Belgium and other nations question tournament integrity, while the US celebrates the reprieve. President Trump lauded the move as correcting a \"great injustice.\" This unprecedented intervention, citing a probationary period, allows the US star to play, but raises serious questions about fair play and future disciplinary actions.",
-    "img": "https://static.toiimg.com/photo/msid-132209085,imgsize-114372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/it-absolutely-stinks-football-world-erupts-over-donald-trumps-role-in-fifas-balogun-red-card-u-turn/articleshow/132209016.cms",
-    "time": "2026-07-06T06:23:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Matches in Indian Time",
     "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
@@ -808,33 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/the-questionable-health-of-marine-fisheries-in-india/article71185652.ece",
     "time": "2026-07-06T06:01:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee slips 10 paise as stronger dollar and geopolitical jitters outweigh positive cues",
-    "desc": "The Indian rupee weakened against the US dollar, opening the week down 10 paise at 95.28 due to a stronger dollar globally and geopolitical uncertainties. Despite favorable global cues like falling oil prices, the rupee failed to gain, indicating underlying market fragility. Meanwhile, Indian stock markets opened on a strong note, with major indices climbing over 0.4%.",
-    "img": "https://static.toiimg.com/photo/msid-132207834,imgsize-126866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-slips-10-paise-as-stronger-dollar-and-geopolitical-jitters-outweigh-positive-cues/articleshow/132207693.cms",
-    "time": "2026-07-06T04:54:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not to me': What Neymar told Norway goalkeeper after scoring penalty",
-    "desc": "Brazil's World Cup dreams were shattered by Norway, with Erling Haaland scoring twice in a dramatic 2-1 victory. A late Neymar penalty offered little solace as the five-time champions exited the tournament. The match also marked Neymar's emotional retirement from international football after a storied career, concluding where it began.",
-    "img": "https://static.toiimg.com/photo/msid-132207459,imgsize-119054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/not-to-me-what-neymar-told-norway-goalkeeper-rjan-nyland-after-scoring-penalty-in-brazils-world-cup-defeat/articleshow/132207470.cms",
-    "time": "2026-07-06T04:38:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Where are banks shut on July 6? Check state-wise list",
-    "desc": "Plan your bank visits carefully as several branches will be closed on specific dates this July due to regional holidays. West Bengal and Mizoram observe closures today, July 6. Further state-specific holidays are scheduled across Meghalaya, Odisha, Uttarakhand, Manipur, Sikkim, and Tripura. Remember, Sundays and the second and fourth Saturdays also mean branch closures. Digital banking services remain unaffected.",
-    "img": "https://static.toiimg.com/photo/msid-132206241,imgsize-1119966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-today-where-are-banks-shut-on-july-6-check-state-wise-list/articleshow/132206213.cms",
-    "time": "2026-07-06T02:58:41.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/aung-san-suu-kyi-a-symbol-of-resistance/article71183720.ece",
     "time": "2026-07-05T01:34:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why tanks still matter in modern warfare",
+    "desc": "Drones, missiles and precision-guided weapons have transformed the modern battlefield, but military experts argue they cannot achieve the ultimate objective of war – controlling territory. Saurabh Trivedi examines why tanks and ground forces remain indispensable despite the rapid evolution of warfare, drawing on lessons from Ukraine and insights from senior Army officers",
+    "img": "https://th-i.thgim.com/public/incoming/x8se8r/article71182906.ece/alternates/LANDSCAPE_1200/6744_26_6_2026_18_25_44_1_ZORAWAR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-tanks-still-matter-in-modern-warfare/article71182897.ece",
+    "time": "2026-07-04T18:09:39.000Z"
   }
 ];
