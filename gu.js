@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "અમિતાભ બચ્ચનની પોસ્ટ પર ભારે બબાલ: ફ્રાન્સની ફૂટબોલ ટીમ પર આપ્યું વિવાદાસ્પદ નિવેદન!",
+    "desc": "દુનિયાભરમાં ફુટબોલ વિશ્વકપ 2026નો માહોલ છવાયેલો છે. ભારતમાં પણ ફુટબોલના ચાહકો ઓછા નથી. અમિતાભ બચ્ચન પણ આ મેગા ઈવેન્ટની મજા માણી રહ્યાં છે. પરંતુ તેમણે ફ્રાન્સ ટીમ પર જે પોસ્ટ કરી છે, તેના કારણે સોશિયલ મીડિયા પર ટ્રોલ કરવામાં આવી રહ્યાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/big-b-sparks-row-amitabh-bachchan-faces-backlash-over-racist-post-on-france-football-team-483828 ",
+    "time": "2026-07-07T05:18:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સસ્તા પેટ્રોલ અને ડીઝલની આશા છોડી દો... ટ્રમ્પના અલ્ટીમેટમ અને હોર્મુઝ હુમલાને કારણે ક્રૂડ ઓઇલના ભાવ ફરી વધ્યા, 72 ડોલરને પાર પહોંચ્યો ભાવ",
+    "desc": "અમેરિકા-ઈરાન વચ્ચે યુદ્ધવિરામ ચાલુ છે. બંને દેશોએ હાલ પૂરતા તેમના હુમલાઓ બંધ કરી દીધા છે. હોર્મુઝ સ્ટ્રેટ પર બંને દેશો વચ્ચે સર્વસંમતિ ઊભી થઈ રહી હોય તેવું લાગે છે. આ અહેવાલો બાદ, વૈશ્વિક સ્તરે ક્રૂડ ઓઈલના ભાવમાં નોંધપાત્ર ઘટાડો જોવા મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/give-up-hope-for-cheap-petrol-and-diesel-due-to-trump-ultimatum-and-hormuz-attack-crude-oil-prices-rose-again-483821 ",
+    "time": "2026-07-07T03:58:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પાછુ યુદ્ધ શરૂ થશે? ઈરાને અચાનક હોર્મુઝમાં કોમર્શિયલ જહાજો પર મિસાઈલો છોડી",
+    "desc": "પશ્ચિમ એશિયામાં વળી પાછી સ્થિતિ તંગ થવાના એંધાણ છે કારણ કે સ્ટ્રેટ ઓફ હોર્મુઝમાં બે જહાજો પર મિસાઈલ છોડાયાના સમાચાર છે. એક બાજુ જ્યાં ઈરાનમાં સુપ્રીમ લીડર ખામેનેઈની અંતિમ ક્રિયા ચાલે છે ત્યાં બીજી બાજુ સ્થિતિ બગડે તેવા સંકેત મળી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/middle-east-crisis-missile-attack-on-commercial-ships-in-strait-of-hormuz-483812 ",
+    "time": "2026-07-07T03:16:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વર્લ્ડ કપનું સપનું તૂટતાં ધ્રુસકે-ધ્રુસકે રડી પડ્યા રોનાલ્ડો, આ મહાન ખેલાડીની આંસુ જોઈને તમે પણ થઈ જશો ભાવુક, જુઓ Video",
+    "desc": "ક્રિસ્ટિયાનો રોનાલ્ડોને દરેક વ્યક્તિ જાણે છે. રોનાલ્ડોએ પોતાના 20 વર્ષના કરિયરમાં અસંખ્ય સિદ્ધિઓ મેળવી છે, પરંતુ તેના કરિયરની 20 વર્ષ દરમિયાન સૌથી વધુ હાંસલ કરેલી સિદ્ધિઓ પ્રાપ્ત કર્યા વિના સમાપ્ત થઈ. પ્રી-ક્વાર્ટર ફાઇનલમાં સ્પેન સામે હાર્યા બાદ પોર્ટુગલ ફૂટબોલ વર્લ્ડ કપ 2026માંથી બહાર થઈ ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ronaldo-burst-into-tears-as-his-world-cup-dream-was-shattered-you-too-will-get-emotional-after-seeing-the-eyes-of-this-great-player-483811 ",
+    "time": "2026-07-07T03:13:04.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "કરોડો મોબાઇલ યુઝર્સને લાગશે ઝટકો! 15% સુધી વધી શકે છે તમારું મોબાઇલ બિલ; જાણો શું છે કારણ?",
     "desc": "એક રિપોર્ટ અનુસાર, માર્કેટમાં ઓછી કંપનીઓ અને અનુકૂળ બિઝનેસ વાતાવરણને કારણે ટેલિકોમ કંપનીઓ મોબાઇલ ટેરિફના ભાવમાં વધારો કરવાની તૈયારી કરી રહી છે. હાલમાં બજારમાં ત્રણ મોટી પ્રાઇવેટ અને એક સરકારી કંપની જ રેસમાં સામેલ છે.",
@@ -315,15 +351,6 @@ const newsData_gu = [
     "time": "2026-07-05T06:20:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "આયર્લેન્ડ બાદ હવે ઇંગ્લેન્ડમાં ટીમ ઇન્ડિયા ફ્લોપ... બીજી T20Iમાં ઇંગ્લેન્ડ સામે કારમી હાર, બેથલ બન્યો હીરો",
-    "desc": "ત્રણ વખતની T20 વર્લ્ડ કપ વિજેતા ટીમ ઇન્ડિયા આયર્લેન્ડ બાદ ઇંગ્લેન્ડની ધરતી પર પણ નિષ્ફળ રહી છે. 5 મેચોની T20 સિરીઝના બીજી મેચમાં અંગ્રેજોએ ભારતને 4 વિકેટે હાર આપી છે. શ્રેયસ અય્યરની કેપ્ટનશીપમાં ભારતની આ સતત ત્રીજી હાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/eng-vs-ind-2nd-t20i-jacob-bethell-shines-as-england-defeat-india-by-4-wickets-483599 ",
-    "time": "2026-07-04T18:03:12.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "&amp;#039;સિયાએ મિડલ ફિંગર બતાવી નહોતી...&amp;#039; હકીકત કંઈક અલગ જ હતી, વાયરલ ફોટો અંગે સિયાના પિતાનો મોટો ખુલાસો",
     "desc": "પુણેમાં કેતન અગ્રવાલ હત્યા કેસની આરોપી સિયા ગોયલનો એક ફોટો વાયરલ થયો હતો. એવો આરોપ મૂકવામાં આવ્યો હતો કે તે પોલીસની હાજરીમાં 'મિડલ ફિંગર' બતાવી રહી હતી. હવે તેના પિતા પ્રવીણ ગોયલે આ બાબતે સ્પષ્ટતા કરી છે. તેમનું કહેવું છે કે આ તસવીર ખોટી રીતે રજૂ કરવામાં આવી રહી છે અને સિયાની આંગળીઓ સૂજી ગઈ હતી કારણ કે તે કારના દરવાજામાં ફસાઈ ગઈ હતી.",
@@ -414,15 +441,6 @@ const newsData_gu = [
     "time": "2026-07-04T03:13:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રાજીનામું આપ્યા બાદ પણ આજીવન ટ્રસ્ટી રહેશે ચંપત રાય! હોશ ઉડાવી દેશે રામ મંદિર ટ્રસ્ટનો આ નિયમ",
-    "desc": "અયોધ્યાના શ્રીરામ મંદિરમાં દાન ચોરીના સમાચાર આવ્યા બાદથી સતત કાર્યવાહી થઈ રહી છે. આ દરમિયાન ટ્રસ્ટના મહાસચિવ ચંપત રાયે પોતાના પદ પરથી રાજીનામું આપી દીધું છે. ચાલો જાણીએ કે, તેઓ આ પછી પણ ટ્રસ્ટમાં કેવી રીતે સામેલ રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/champat-rai-will-remain-a-trustee-for-life-even-after-resigning-this-rule-of-ram-mandir-trust-will-blow-your-mind-483518 ",
-    "time": "2026-07-03T17:56:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "IPO ખુલતા પહેલા જ ગ્રે માર્કેટમાં ધૂમ! મળશે 4620 સુધીનો જબરદસ્ત નફો, જાણો ક્યારે ખુલશે?",
     "desc": "જો તમે IPO રોકાણમાં રોકાણની તક શોધી રહ્યા છો, તો આ કંપનીનો IPO સારૂ રિટર્ન આપી શકે છે. આ 650 કરોડ રૂપિયાનો ઇશ્યૂ રોકાણકારો માટે 8 જુલાઈના રોજ ખુલશે. નોંધપાત્ર રીતે, સબ્સ્ક્રિપ્શન શરૂ થાય તે પહેલાં જ કંપનીનો IPO ગ્રે માર્કેટમાં મજબૂત પ્રદર્શન કરી રહ્યો છે, અને વર્તમાન GMP સંભવિત મજબૂત લિસ્ટિંગ લાભ સૂચવે છે.",
@@ -450,24 +468,6 @@ const newsData_gu = [
     "time": "2026-07-03T14:59:57.000Z"
   },
   {
-    "cat": "Business",
-    "title": "માત્ર 2 દિવસમાં ₹6,700નો ઉછાળો! હવે ક્યાં સુધી પહોંચશે સોનાનો ભાવ? જાણો એક્સપર્ટનું અનુમાન",
-    "desc": "સોનાના ભાવમાં ચાલી રહેલો ઘટાડો સમાપ્ત થઈ ગયો છે. સોનાના ભાવ આજે ફરી વધ્યા છે. ઝડપી રિકવરી જોવા મળી રહી છે. સોનું, જે 4,000 ડોલરની નીચે ગબડ્યું હતું, તે આજે 4,177.65 ડોલર પ્રતિ ઔંસ પર પાછું આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/a-jump-of-6700-in-just-2-days-how-far-will-the-price-of-gold-reach-now-know-the-expert-prediction-483508 ",
-    "time": "2026-07-03T13:43:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EPFOનું મોટું અપડેટ! હવે વેબસાઈટ પરથી નહીં થાય UAN એક્ટિવેશન, બદલાઈ ગયા બધા નિયમો",
-    "desc": "EPFOએ પોતાનું યુનિફાઈડ મેમ્બર પોર્ટલ (Unified Member Portal) અપડેટ કરી દીધું છે. હવે UAN એક્ટિવેશન અને ડાયરેક્ટ UAN એલોટમેન્ટની સુવિધા EPFO વેબસાઈટ પર ઉપલબ્ધ રહેશે નહીં. આ માટે કર્મચારીઓએ UMANG Appનો ઉપયોગ કરવો પડશે, જ્યાં આધાર આધારિત ફેસ ઓથેન્ટિકેશન દ્વારા UAN એક્ટિવેટ અને જનરેટ કરી શકાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epfo-big-update-now-uan-activation-will-not-be-done-from-the-website-all-rules-have-changed-483490 ",
-    "time": "2026-07-03T11:46:37.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "PUC એક્સપાયર થયા પછી કેટલા દિવસ સુધી ગાડી ચલાવી શકાય? જાણી લો સાચો નિયમ, નહીં તો થશે મોટો દંડ!",
     "desc": "જો તમારી કાર કે બાઇકનું PUC સર્ટિફિકેટ સમાપ્ત થવાનું છે, તો આ સમાચાર તમારા માટે ખૂબ જ મહત્વપૂર્ણ છે. શું PUC પુરૂ થયા પછી કોઈ ગ્રેસ પીરિયડ છે? જરૂરી PUC વગર વાહન ચલાવવા માટે કેટલો દંડ છે? આ ઉપરાંત, PUCC 3.0 હેઠળ સરકાર જે નવા નિયમો પર વિચાર કરી રહી છે તે વિશે જાણો.",
@@ -475,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/how-many-days-can-you-drive-after-puc-expires-know-the-correct-rule-otherwise-you-will-face-a-huge-fine-483474 ",
     "time": "2026-07-03T10:17:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સપનું બનશે સોનાની ખરીદી! ભાવમાં બંપર વધારો, ચાંદી પણ જોરદાર ઉછળી, જાણો કેરેટ પ્રમાણે આજનો ભાવ",
-    "desc": "સોના અને ચાંદીમાં આજે પણ ભારે ઉછાળો જોવા મળ્યો છે. વૈશ્વિક બજારની સાથે સાથે ઘરેલુ બજારોમાં પણ સોનું અને ચાંદી મોંઘા થયા છે. જો તમે પણ ખરીદવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-price-increse-drastically-check-mcx-ibja-latest-rates-aaj-no-sona-no-bhav-483468 ",
-    "time": "2026-07-03T09:35:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -682,14 +673,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/we-are-not-strangers-we-are-old-friends-pm-modi-linked-india-seychelles-relations-to-1770-482987 ",
     "time": "2026-06-28T12:06:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ચીન ખુદ ખરીદી રહ્યું છે કરોડોનું સોનું, છતાં સામાન્ય લોકો માટે લગાવ્યા કડક પ્રતિબંધ! જાણો કારણ",
-    "desc": "ચીને 2026ના પહેલા મહિનામાં 692 ટન સોનાની આયાત કરી હતી, જે પાછલા વર્ષ કરતા 76% વધુ છે. ફક્ત મે મહિનામાં જ ચીને 163 ટન સોનાની આયાત કરી હતી, જે દૈનિક 7600 કરોડ રૂપિયાથી વધુની ખરીદી બરાબર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/china-is-buying-gold-worth-crores-yet-it-has-imposed-strict-restrictions-on-common-people-know-the-reason-482977 ",
-    "time": "2026-06-28T11:37:19.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ছাদ থেকে ফেলেও মরেননি স্বামী! হাসপাতালে শরীরে টয়লেট ক্লিনার ইনজেক্ট করে খুন নার্স স্ত্রীর",
+    "desc": "পরকীয়া সম্পর্কের পথের কাঁটা সরাতে স্বামীকে নির্মমভাবে খুন করল এক নার্স। তেলেঙ্গানার নিজামাবাদে প্রথমে স্বামীকে ছাদ থেকে ঠেলে ফেলে দেয় স্ত্রী ও তাঁর প্রেমিক। তাতেও স্বামী বেঁচে গেলে, হাসপাতালে চিকিৎসাধীন অবস্থায় তাঁর আইভি লাইনে টয়লেট ক্লিনার ইনজেক্ট করা হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/telangana-horror-nurse-kills-husband-by-injecting-toilet-cleaner-into-iv-line_661346.html ",
+    "time": "2026-07-07T06:15:19.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "তৃতীয় বিয়ে নিয়ে ট্রোলড আমির, ব্যক্তিগত জীবনের কারণে ফিকে পর্দার সাফল্য? সোশ্যাল মিডিয়ার জমানায় ঠিক কোন নিরিখে বিচার করা হয় একজন তারকাকে?",
     "desc": "তারকাদের ব্যক্তিগত জীবন নিয়ে চর্চা থাকবেই, কিন্তু দিনশেষে দর্শক তাঁদের বিচার করে কী দিয়ে— কাজ নাকি ব্যক্তিগত সম্পর্ক? আমির খান ও গৌরী স্প্র্যাটের বিয়ের গুঞ্জনের মাঝেই সামনে এল এক নতুন সমীক্ষা। সোশ্যাল মিডিয়ার যুগে কীভাবে বদলে যাচ্ছে ফ্যান ও সেলিব্রিটিদের সম্পর্কের সমীকরণ?",
@@ -115,24 +124,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/china-plans-new-corridor-bordering-india-what-is-the-route-how-it-will-impact-india-what-can-india-do_660945.html ",
     "time": "2026-07-03T09:03:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'বাড়িতে কেউ নেই, একটু চা বানিয়ে দিক!', বিশ্বাস করে মেয়েকে পাঠিয়েছিলেন মা, কিন্তু কামাসক্ত ইমতিয়াজ...",
-    "desc": "ঘটনার দিন ইমতিয়াজ তার বাড়িতে কেউ নেই জানিয়ে নাবালিকার মায়ের কাছে তাকে চা তৈরি করে দেওয়ার জন্য অনুরোধ করে। বাহানায় বাড়িতে ডেকে ১৩ বছরের এক প্রতিবেশী নাবালিকাকে ধর্ষণের অভিযোগ উঠল ৩৪ বছর বয়সী ইমতিয়াজ শেখের বিরুদ্ধে। অভিযুক্ত ব্যক্তি বিবাহিত এবং চার সন্তানের বাবা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/gujarat-man-asks-13-year-old-to-prepare-tea-for-him-at-his-house-allegedly-assaulting-her_660905.html ",
-    "time": "2026-07-03T06:00:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "গুহাতীর্থে বিরাট বদল! অমরনাথ যাত্রায় কোনও ভাবেই চলবে না আগের এই সব নিয়ম; কড়াকড়িতেও কীভাবে সারবেন দর্শন?",
-    "desc": "অমরনাথের কোনও মূর্তি নেই, মন্দির নেই! তাঁকে দেখতে হলে যেতে হয় পবিত্র অমরনাথ গুহায়। এই গুহার ভিতরেই আছেন প্রভু-- এই বিশ্বাস ভক্তের। গুহায় থাকা প্রাকৃতিক ভাবে তৈরি এক বরফখণ্ডকেই শিবজ্ঞানে পূজা করেন সাধারণ মানুষ। ভক্তদের বিশ্বাস, এই বরফলিঙ্গেই বিরাজ করেন স্বয়ং দেবাদিদেব।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/amarnath-yatra-2026-begins-3rd-july-unprecedented-security-authorities-urge-pilgrims-to-travel-on-dates_660903.html ",
-    "time": "2026-07-03T05:37:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,5 +259,32 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/akanksha-chamola-confirms-divorce-from-gaurav-khanna-two-months-after-dismissing-split-rumours_660310.html ",
     "time": "2026-06-29T06:37:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
   }
 ];
